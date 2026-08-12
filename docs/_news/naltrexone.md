@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（8 則）
 
-### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
+### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5tTlJfbEhkM0hYNTVJZDlmZDhNR2g0UjNSaENVTHJPU2lWWEpkLWxxUlYwRk1COGxzTUNaUU0xNkJtVzhUVnl1c0Y1U0JPb3k3bWFUWFBTdzgwQXUyQmRTd1luRHQxWjFVUm5QSFpPS1c3S0w5QTdzbjlucVRpakNLXzRwMEsyUlJBbktoVXpka2lYZ3B2NkdJSzBUeXRvZURySndOamk3bzA?oc=5)
 
-2026-08-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-08-12 <span class="news-indication-tag">Adipositas</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5tTlJfbEhkM0hYNTVJZDlmZDhNR2g0UjNSaENVTHJPU2lWWEpkLWxxUlYwRk1COGxzTUNaUU0xNkJtVzhUVnl1c0Y1U0JPb3k3bWFUWFBTdzgwQXUyQmRTd1luRHQxWjFVUm5QSFpPS1c3S0w5QTdzbjlucVRpakNLXzRwMEsyUlJBbktoVXpka2lYZ3B2NkdJSzBUeXRvZURySndOamk3bzA?oc=5)
 
 ---
 
-### [Adipositas-Medikament senkt Risiko für gefährliche Herz-Kreislauf-Erkrankungen und Infektionen deutlich - Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGVtNGJ4eTBBQ2RJQnJjVTY3WEZmRXdpcDBnZTdZOHJyT1Nkako1dlRIWk9NSG5ZZElBQXBmMzMwQy1JTWU1VGZGRHQ1VjVYeHhSUVpjWm9LLVFVVTZfX2JDcEl2NWFoeFBxOWFnOGN6VTBqcFFwTlgwTFp0S2Y3c0ZoSUJyUDljbFpTVm42dG1IanZ1TzY2elJJbUFQSjUxZ2xUYlFKdEg1bzZwTXNYMmMtUGppQWV3OWtseF9iWGJVd2JXYVVlLWx1Wlg5bmxPaHJJ?oc=5)
 
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-12 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGVtNGJ4eTBBQ2RJQnJjVTY3WEZmRXdpcDBnZTdZOHJyT1Nkako1dlRIWk9NSG5ZZElBQXBmMzMwQy1JTWU1VGZGRHQ1VjVYeHhSUVpjWm9LLVFVVTZfX2JDcEl2NWFoeFBxOWFnOGN6VTBqcFFwTlgwTFp0S2Y3c0ZoSUJyUDljbFpTVm42dG1IanZ1TzY2elJJbUFQSjUxZ2xUYlFKdEg1bzZwTXNYMmMtUGppQWV3OWtseF9iWGJVd2JXYVVlLWx1Wlg5bmxPaHJJ?oc=5)
+
+---
+
+### [Por qué las personas con obesidad o enfermedades cardiovasculares corren más riesgo con el calor extremo - Hoy Aragón](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2hQMm1pZDI4b0Z0MDQ5MmN6cVNDUm9iM0N0VUpMbDJTTF92RDUxRjhnUG9nM2dVNzh2R25haGFLeFQ3Mk1xVUwtWDBZb0wwT0hIcUFhX09iY2RNeVlUMWlONWtxcTRrYlRZcTNXT3Bzcy11bWRIVDZ5dkFMbnNtSzFiejAtMXdPNEFhQ0hTaVc4NlhBblpkM3ltbWZLdHVDS1VjSGtUeUlEaUtrMHpIM045ZVJ5dDdLZnE1N05DUDdHVWZOdjUwN3haSHNUTWcwZVJPMzh0QXhzQ0V3cUVmMXk2Q0F5VFMxeVZn?oc=5)
+
+2026-08-11 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hoy Aragón](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2hQMm1pZDI4b0Z0MDQ5MmN6cVNDUm9iM0N0VUpMbDJTTF92RDUxRjhnUG9nM2dVNzh2R25haGFLeFQ3Mk1xVUwtWDBZb0wwT0hIcUFhX09iY2RNeVlUMWlONWtxcTRrYlRZcTNXT3Bzcy11bWRIVDZ5dkFMbnNtSzFiejAtMXdPNEFhQ0hTaVc4NlhBblpkM3ltbWZLdHVDS1VjSGtUeUlEaUtrMHpIM045ZVJ5dDdLZnE1N05DUDdHVWZOdjUwN3haSHNUTWcwZVJPMzh0QXhzQ0V3cUVmMXk2Q0F5VFMxeVZn?oc=5)
+
+---
+
+### [El tamaño de tu barriga predice mejor el riesgo de infarto e ictus que la báscula](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHZQLVZleVREY2E4dHE0NV93UTNlbUhlQ2d2ZzhwcElwTjNjRnZYWDBHckZvLW84V1ZLRnR1YXBrekMwaDk5aUpXVlVtekp4YVUwNndZeGVpcWp0d214LW1YTDJnTzc2R0xSRkpxeFZ6SVZWSnp6MkRScFpSRk4yYkxhbDZyVEgwZkRrM1BYdkpaNkVlVktkY1o4ZUFkYUhrcVpuSEZTWllsazZMMHEw0gG0AUFVX3lxTE0zTWdOV3haRHV3ajFFX1E3VE5GamRuTUZHZk5RSzJJVm91ZmYtM3N1X2NXN21rX0Y3S3ZlSkRNbkRYWXpDZlh1RmpGUUJkazBfUWpKekN5MDdIT3Z0RklzSC0zQnBWb1ZiQ3lKWEpqcnRHLTJiRjdXYWlIUUNPNTY2WkxqQ1lNanRVdUVPTndPUThBSGs5U0U1MVB1dEJyeXpjcXhobEtJVGc1UG52bG1KdE5FVA?oc=5)
+
+2026-08-11 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHZQLVZleVREY2E4dHE0NV93UTNlbUhlQ2d2ZzhwcElwTjNjRnZYWDBHckZvLW84V1ZLRnR1YXBrekMwaDk5aUpXVlVtekp4YVUwNndZeGVpcWp0d214LW1YTDJnTzc2R0xSRkpxeFZ6SVZWSnp6MkRScFpSRk4yYkxhbDZyVEgwZkRrM1BYdkpaNkVlVktkY1o4ZUFkYUhrcVpuSEZTWllsazZMMHEw0gG0AUFVX3lxTE0zTWdOV3haRHV3ajFFX1E3VE5GamRuTUZHZk5RSzJJVm91ZmYtM3N1X2NXN21rX0Y3S3ZlSkRNbkRYWXpDZlh1RmpGUUJkazBfUWpKekN5MDdIT3Z0RklzSC0zQnBWb1ZiQ3lKWEpqcnRHLTJiRjdXYWlIUUNPNTY2WkxqQ1lNanRVdUVPTndPUThBSGs5U0U1MVB1dEJyeXpjcXhobEtJVGc1UG52bG1KdE5FVA?oc=5)
+
+---
+
+### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
 ---
 
@@ -78,11 +102,19 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+### [Boom dei farmaci per dimagrire, De Amici: "Aiutano, ma non sostituiscono lo stile di vita"](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzVlX0pwMHR2cHdMb3F3cDZyVEM5a2U1N05aM0E5WEdESFNPdHg2TXpWdG5JNjN3akxWUzQ2c3NrYjdxV0ljYjV2cDNIUkdNQXNJWWNYTTZ3eEU3N2QwNXh1ZFl5WlJzb3NIVHVUTlhveFAxbld3T3R5dDdOR1ZqeUZBVzBiUU5DMzRsMnUxNFNGOXZLMDhQelkyZzF4SG1QdjVqYlR0VkQ5ck41ZU9zRFNwcHo5bGgxbHJvUnJiWURUOU5YWDh4Z3g1cw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">obesità</span>
+
+來源：[BergamoNews](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzVlX0pwMHR2cHdMb3F3cDZyVEM5a2U1N05aM0E5WEdESFNPdHg2TXpWdG5JNjN3akxWUzQ2c3NrYjdxV0ljYjV2cDNIUkdNQXNJWWNYTTZ3eEU3N2QwNXh1ZFl5WlJzb3NIVHVUTlhveFAxbld3T3R5dDdOR1ZqeUZBVzBiUU5DMzRsMnUxNFNGOXZLMDhQelkyZzF4SG1QdjVqYlR0VkQ5ck41ZU9zRFNwcHo5bGgxbHJvUnJiWURUOU5YWDh4Z3g1cw?oc=5)
+
+---
+
+### [FNIP1-Gen: Seltene Mutation senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
 
 ---
 

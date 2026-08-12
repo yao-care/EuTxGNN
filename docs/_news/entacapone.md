@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（4 則）
 
 ### [Los ultrasonidos focalizados mejoran un 53% la función motora en pacientes con enfermedad de Parkinson](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3ZoMTNJQk9JTzhxNFFSTHg3LXFFazI2emlXMFZxSTdRT0RLQXNOTFZrMWFqZmhiUzVGOWhQQmRzcFJFUW9ydDB3SS1uWl9jcE1qdHRRcnFRY29nOEQyR2h0MHZILVA3UE1OT2FaVDg3YjdkYUxpTGtjSXZTZldTdFpWdmg3amVCVGowOU1lS2ZvVkg4enN6UDVEQ21hemlVMEpKdlp6bFQ2czlyWEZJaXlwVXJhcXhsN2xCZG1ncjdDS0hGSDgtcUln?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/entacapone/
 
 ---
 
-### [« Je suis complètement dépendant de ma femme » : à 85 ans, cet habitant de Saint-Dié raconte sa vie avec la maladie d'Alzheimer - Vosges Matin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFVWNkJXUF8zSFpmREFjejBsa2JUaTEwNWRHS09aUjhKZGJBT3pfNEhvWlJNcG1iam1YazFaR0RYSUFFU24yRzBwdlpxMjI0Vmg3RXVOQ3RJMUtuU05IYXVHRTE5Ui1jN2FHWVJUblM2cVBzUDljeTE2N1JuSGlOTmRCMi0yMkljWkpyM1Y5WHo3RFhPN3IzTTFYRXhFSnRsV0twWnhlbmRPQVZmYkU4SUFYU0U2T3lqbGJMRXVlQ1ZHVmhlLUt3VlZ6UjQ0TmNrUzEzeTNOOXZIbDFzVndJdk51M2RkZw?oc=5)
+### [« Je suis complètement dépendant de ma femme » : à 85 ans, cet habitant de Saint-Dié raconte sa vie avec la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFVWNkJXUF8zSFpmREFjejBsa2JUaTEwNWRHS09aUjhKZGJBT3pfNEhvWlJNcG1iam1YazFaR0RYSUFFU24yRzBwdlpxMjI0Vmg3RXVOQ3RJMUtuU05IYXVHRTE5Ui1jN2FHWVJUblM2cVBzUDljeTE2N1JuSGlOTmRCMi0yMkljWkpyM1Y5WHo3RFhPN3IzTTFYRXhFSnRsV0twWnhlbmRPQVZmYkU4SUFYU0U2T3lqbGJMRXVlQ1ZHVmhlLUt3VlZ6UjQ0TmNrUzEzeTNOOXZIbDFzVndJdk51M2RkZw?oc=5)
 
 2026-08-11 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[Vosges Matin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFVWNkJXUF8zSFpmREFjejBsa2JUaTEwNWRHS09aUjhKZGJBT3pfNEhvWlJNcG1iam1YazFaR0RYSUFFU24yRzBwdlpxMjI0Vmg3RXVOQ3RJMUtuU05IYXVHRTE5Ui1jN2FHWVJUblM2cVBzUDljeTE2N1JuSGlOTmRCMi0yMkljWkpyM1Y5WHo3RFhPN3IzTTFYRXhFSnRsV0twWnhlbmRPQVZmYkU4SUFYU0U2T3lqbGJMRXVlQ1ZHVmhlLUt3VlZ6UjQ0TmNrUzEzeTNOOXZIbDFzVndJdk51M2RkZw?oc=5)
+來源：[vosgesmatin.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFVWNkJXUF8zSFpmREFjejBsa2JUaTEwNWRHS09aUjhKZGJBT3pfNEhvWlJNcG1iam1YazFaR0RYSUFFU24yRzBwdlpxMjI0Vmg3RXVOQ3RJMUtuU05IYXVHRTE5Ui1jN2FHWVJUblM2cVBzUDljeTE2N1JuSGlOTmRCMi0yMkljWkpyM1Y5WHo3RFhPN3IzTTFYRXhFSnRsV0twWnhlbmRPQVZmYkU4SUFYU0U2T3lqbGJMRXVlQ1ZHVmhlLUt3VlZ6UjQ0TmNrUzEzeTNOOXZIbDFzVndJdk51M2RkZw?oc=5)
 
 ---
 
@@ -83,30 +83,6 @@ permalink: /news/entacapone/
 2026-08-10 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJrdVFiYldMZEJLekh3dzJtRDJDa1ViSTNXV3lkYkI1WTVFaUMtVUd1TFVVV1hNSEFDTXBsMG9WdEcwNnlDaUpScS1qUGtIU2JhZmdpU3VFY29pYl9nQkNGRFNjZFB1dnNfRTF6ZWNDVXpwZ1F3Q09fN0lDWlBuSDk1Vmp5aGo0S29YbllvR2JCVUxX?oc=5)
-
----
-
-### [Ce médicament pris contre l'insomnie pourrait ouvrir une nouvelle piste contre Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWlZQcm45dUhrcFhYb3lrSlNOLWNDbFd4X0paV3ZZenNOR0JZRWwxaEdLeTU5RDM4SnVENEw5MHQzMW96c19PblVsMGtWbnhudEtucXA5Vzk3bFp6a2pQMVRtQkVaZXdMNldBQ2tMS20zNFYzVGg1ekNPSDVwdDl3dlBrdmkzVGoxRzlVcWl4R09EVzkzc2V0UFM2WFBSTkphY3RmcDE1NUNNRUZxVlZWSnE3TEpPODlQd0FTX000OHFqbnVjcjByRVB1cldkOXdNN1dwak8tZElYeUVPYjI1OHJR?oc=5)
-
-2026-08-10 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWlZQcm45dUhrcFhYb3lrSlNOLWNDbFd4X0paV3ZZenNOR0JZRWwxaEdLeTU5RDM4SnVENEw5MHQzMW96c19PblVsMGtWbnhudEtucXA5Vzk3bFp6a2pQMVRtQkVaZXdMNldBQ2tMS20zNFYzVGg1ekNPSDVwdDl3dlBrdmkzVGoxRzlVcWl4R09EVzkzc2V0UFM2WFBSTkphY3RmcDE1NUNNRUZxVlZWSnE3TEpPODlQd0FTX000OHFqbnVjcjByRVB1cldkOXdNN1dwak8tZElYeUVPYjI1OHJR?oc=5)
-
----
-
-### [Avoiding these three things could add 13 years of dementia-free life](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
-
-2026-08-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
-
----
-
-### [Dementia: More than memory loss, what everyone should know - The Sun Malaysia](https://news.google.com/rss/articles/CBMidEFVX3lxTE85T1BuRkpxaUJqS0s0U2t2VjFIWHJhMVNOZzE2X25GM1NBMFR6TUY4VS15UVZoQWhkVDlCVVkwVzBhS3I3d3NWbUFKTjRCeThDUXhMY2c2cTRHWnJuTFhjbUNmNk00UFp2X0hheTZnNW5LR2lI?oc=5)
-
-2026-08-10 <span class="news-indication-tag">dementia</span>
-
-來源：[The Sun Malaysia](https://news.google.com/rss/articles/CBMidEFVX3lxTE85T1BuRkpxaUJqS0s0U2t2VjFIWHJhMVNOZzE2X25GM1NBMFR6TUY4VS15UVZoQWhkVDlCVVkwVzBhS3I3d3NWbUFKTjRCeThDUXhMY2c2cTRHWnJuTFhjbUNmNk00UFp2X0hheTZnNW5LR2lI?oc=5)
 
 ---
 

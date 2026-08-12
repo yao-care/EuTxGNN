@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 heart failure</span></li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 heart disease</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -54,11 +54,11 @@ permalink: /news/icosapent-ethyl/
 
 ## 相關新聞（3 則）
 
-### [How healthy is coffee, really? - Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
+### [Cholesterol-busting statins ARE ‘drugs for life’ - but you could come off them at 75, scientists say - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 
-2026-08-11 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
+2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
 
-來源：[Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 
 ---
 

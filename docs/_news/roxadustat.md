@@ -14,7 +14,7 @@ permalink: /news/roxadustat/
 ---
 
 <p class="key-answer" data-question="Roxadustat 有什麼相關新聞？">
-<strong>Roxadustat</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Roxadustat</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/roxadustat/
 <p><a href="{{ '/drugs/roxadustat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
 
 ### [Brustkrebs: Dieser Pflanzenstoff zeigt starke krebshemmende Wirkungen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFBsTUhucnYyWkxNWl9aRmdrTzRVUjJ6bGRtVGlTNDVsNUY4Um0tanQ0WGJWMG8wMTZqTkJHMXEyWlVXTjBYNXAtMElhWi1oczkyWTVWdXBoS0ttd08yd3BGRHRXSDZ1R3IwRFhjeWUzRGtBV2tnUXg1U1VjZHo4QkVZVEZpdVl3U0JEQTRvREFKZ0FhYnBwWTRpZEFOaThzTVpsX1lIc3NYUlRZN3Qxc0ZzSU41M2xpLWJuZnIwQjdnRGJYcFAxdg?oc=5)
 
@@ -78,14 +78,6 @@ permalink: /news/roxadustat/
 
 ---
 
-### [Thymushormon könnte vor Inflammaging und Krebs schützen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUU1BbG50UE05aTRMSFlLTzBQU0F2dWtWYXp2VG1BY1RxZ1J0UFAwcEtRcUJfaHczRjQ5djN5T3VCRHVKdGFIRHFGd2JsbkhxMXJvaU9yb25samlTVXUxQ0VPcnhyMm5TTTBqeVhLNGJ4Vk5ZNDN2ZU8xNmRZaUw0RV82dEFBbl8tcFRCMnBaVzFzX090SGZmVGhkQVBSQ1Fza08wVzVicEtENkpXdVNOR1p0MjNleS1MNlltU3lCUkp1Zw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUU1BbG50UE05aTRMSFlLTzBQU0F2dWtWYXp2VG1BY1RxZ1J0UFAwcEtRcUJfaHczRjQ5djN5T3VCRHVKdGFIRHFGd2JsbkhxMXJvaU9yb25samlTVXUxQ0VPcnhyMm5TTTBqeVhLNGJ4Vk5ZNDN2ZU8xNmRZaUw0RV82dEFBbl8tcFRCMnBaVzFzX090SGZmVGhkQVBSQ1Fza08wVzVicEtENkpXdVNOR1p0MjNleS1MNlltU3lCUkp1Zw?oc=5)
-
----
-
 ### [Zusammenhang zwischen bestimmter Veränderung im Auge und Hautkrebs](https://news.google.com/rss/articles/CBMickFVX3lxTFBrX3ZOb0d2TWNBM3dQeFRwbDNKNzRfVGpZR0lwLVE2a0RIMV90VXdXUXotY0RGMUwzYWE4c1o4cmVLdGQtOE1PQ213NGgxVWNtZjBWZmpDOVFsanotU2xIS0wtNlNjYV8wR1ZWaUN1UVB3UQ?oc=5)
 
 2026-08-11 <span class="news-indication-tag">Krebs</span>
@@ -102,11 +94,19 @@ permalink: /news/roxadustat/
 
 ---
 
-### [„Wir können heute aus einer Blutprobe extrem viele Daten generieren“](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnBXR3hwdjBqSDgzbWJlZzItX2R1WHd2dGNKdTlnNDY0ZFN4UWRERFJwZ0g4YW5xZW5DVVBpVmVWWGNRbDcyZ2tkNTVvMXlZdXRQMW5aMGg3VHNYRlVJODRpcmRCeV9uTzJqN0xGclBjOFlsb3FERzJhWWhCQnNORnZCMVFOd25YZzhRMHFQQUdKc2VEdHdMQ1JmenVvemZ5Wm9aWVRKTnFmaTZGYzdoVGV2WkZWV3dKVGxtT2JlOXRINHhwZnBPcHlrZC1PRlVneDJ3?oc=5)
+### [Longevity: Dieses Mini-Organ könnte laut Studie vor Krebs schützen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0c1TGpIajE4UFlRamVEaDVMb0N4SjM3Tng3TzFpUDhLNmloRTNuN09ZR2FJNWJtSWRTMUNRbk1UNnhQUVA1dlZ2Um02VzdpNm40VWJxeDhFZGxwVjRTQkU5NXFlcTI4S0p4a3JSaU5TME9XN2NPZ3JrTjd2clAxOUFqLUVHQ2stSnFyc3B3a3pUTUZZdEhtODVRU1l3UXI2MXZIblVpaTZ6SFVSQ0FxeFNqUl9Rb2owbXRVanRjdnMxc25fZi1FOENuWQ?oc=5)
 
-2026-08-11 <span class="news-indication-tag">tumor</span>
+2026-08-11 <span class="news-indication-tag">Krebs</span>
 
-來源：[Handelsblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnBXR3hwdjBqSDgzbWJlZzItX2R1WHd2dGNKdTlnNDY0ZFN4UWRERFJwZ0g4YW5xZW5DVVBpVmVWWGNRbDcyZ2tkNTVvMXlZdXRQMW5aMGg3VHNYRlVJODRpcmRCeV9uTzJqN0xGclBjOFlsb3FERzJhWWhCQnNORnZCMVFOd25YZzhRMHFQQUdKc2VEdHdMQ1JmenVvemZ5Wm9aWVRKTnFmaTZGYzdoVGV2WkZWV3dKVGxtT2JlOXRINHhwZnBPcHlrZC1PRlVneDJ3?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0c1TGpIajE4UFlRamVEaDVMb0N4SjM3Tng3TzFpUDhLNmloRTNuN09ZR2FJNWJtSWRTMUNRbk1UNnhQUVA1dlZ2Um02VzdpNm40VWJxeDhFZGxwVjRTQkU5NXFlcTI4S0p4a3JSaU5TME9XN2NPZ3JrTjd2clAxOUFqLUVHQ2stSnFyc3B3a3pUTUZZdEhtODVRU1l3UXI2MXZIblVpaTZ6SFVSQ0FxeFNqUl9Rb2owbXRVanRjdnMxc25fZi1FOENuWQ?oc=5)
+
+---
+
+### [Pancreatic Cancer Specialists Getting a Jump on Daraxonrasib](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHpBcjlfaU84ZHpGZkczeGgyUHptTjFEc2hoYnlsMXRpeEY4enppdXRaY19DckZPVjNlRHlDZG5QTmd1UUotR192MVp3bDlHbDNrQVdTdkstZ3gxMERJZ3dxbENjMzlGVVBIM2VjZ0lUV0JMQVVONHRvbGRMZVhzb2h2R3IwRXZGN29WUFFYQndVdzNnNkNlaWpqRm50bzBYWng1cjRPc0U?oc=5)
+
+2026-08-11 <span class="news-indication-tag">cancer</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHpBcjlfaU84ZHpGZkczeGgyUHptTjFEc2hoYnlsMXRpeEY4enppdXRaY19DckZPVjNlRHlDZG5QTmd1UUotR192MVp3bDlHbDNrQVdTdkstZ3gxMERJZ3dxbENjMzlGVVBIM2VjZ0lUV0JMQVVONHRvbGRMZVhzb2h2R3IwRXZGN29WUFFYQndVdzNnNkNlaWpqRm50bzBYWng1cjRPc0U?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ permalink: /news/roxadustat/
 
 ---
 
-### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Soester Anzeiger](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFduNDhEQzhlVnh5SWJ2dVJTUlFfN19jbFBHcklkYUtjTEhlVWVaYVFUeHo2V3hweVVXMGRZRWlMMjVHVFN5LTBTalRHcjkwWm1MYUtta0ZUNXhEem1GRGhnTWdKa0dKc0RsX2N3eU9kQjVqaUVPWVhfbElHNDlLUnlaSnVXUTM0Rk9adi1LMUVtR1dzQVpnTXFHV1JjR2NYdENsMFQ5R3k1Vk4xRkhYNG9ZaGVZY0twV0p3RWhFZDJITE0?oc=5)
+### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxQamFQc0duSjNDRl9ld1p6ZmF3cldIZzVHT2hINEo3ZDJ3c1lXc1VGY0R0cUV1THVBelFZYjdqdDVXQTMwR1g2S3hLM0p2TW1MX2djQWJWc2FqRFdNX2hGUWxOSnhjTDE4OWpGbDJ4ekpxZE1GT3FpR285cHFaMldWYmhjT1RRdTV4VEg4Y293SkZIYmJCeF9iZmFyRlE4ZG14QnpMY0RR?oc=5)
 
 2026-08-11 <span class="news-indication-tag">Krebs</span>
 
-來源：[Soester Anzeiger](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFduNDhEQzhlVnh5SWJ2dVJTUlFfN19jbFBHcklkYUtjTEhlVWVaYVFUeHo2V3hweVVXMGRZRWlMMjVHVFN5LTBTalRHcjkwWm1MYUtta0ZUNXhEem1GRGhnTWdKa0dKc0RsX2N3eU9kQjVqaUVPWVhfbElHNDlLUnlaSnVXUTM0Rk9adi1LMUVtR1dzQVpnTXFHV1JjR2NYdENsMFQ5R3k1Vk4xRkhYNG9ZaGVZY0twV0p3RWhFZDJITE0?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxQamFQc0duSjNDRl9ld1p6ZmF3cldIZzVHT2hINEo3ZDJ3c1lXc1VGY0R0cUV1THVBelFZYjdqdDVXQTMwR1g2S3hLM0p2TW1MX2djQWJWc2FqRFdNX2hGUWxOSnhjTDE4OWpGbDJ4ekpxZE1GT3FpR285cHFaMldWYmhjT1RRdTV4VEg4Y293SkZIYmJCeF9iZmFyRlE4ZG14QnpMY0RR?oc=5)
 
 ---
 
@@ -130,7 +130,7 @@ permalink: /news/roxadustat/
 
 2026-08-11 <span class="news-indication-tag">tumor</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVNlcjZhVE1SUmxTX0dnTEV2M2E4aGxscXpkdm1jX3ltemVraTdZczdfbURlRXJBY3hJNFByZUctS0ltc0ZOS0NMZkZGNHNEMWJSM241Q05fQnJSaFhpZm8wa25EeEVka21lajAyWWwxelRjN0pyelZZU0xnRzVQMFFwRzg5N2JpQkdMR2pRY1p4MzJwY3ZIT2plV2ZDdzZNRFE1MEFCVnpXTzBVWUlOSmZVNFMzUWlTbURONTgtay1QOGMxUGJZaWsyMTA?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVNlcjZhVE1SUmxTX0dnTEV2M2E4aGxscXpkdm1jX3ltemVraTdZczdfbURlRXJBY3hJNFByZUctS0ltc0ZOS0NMZkZGNHNEMWJSM241Q05fQnJSaFhpZm8wa25EeEVka21lajAyWWwxelRjN0pyelZZU0xnRzVQMFFwRzg5N2JpQkdMR2pRY1p4MzJwY3ZIT2plV2ZDdzZNRFE1MEFCVnpXTzBVWUlOSmZVNFMzUWlTbURONTgtay1QOGMxUGJZaWsyMTA?oc=5)
 
 ---
 
@@ -158,11 +158,11 @@ permalink: /news/roxadustat/
 
 ---
 
-### [2.000 nouveaux cas de cancer de l'anus par an en France : un gastro-entérologue alerte sur les hémorroïdes mal soignées - L'Yonne Républicaine](https://news.google.com/rss/articles/CBMiggJBVV95cUxOTFkycGYxY0tMa21WaVFSUXR4NlptZG40elJvdC12S2RSekFGNWZ4UlpKa3hXekIyODJJQnRTS2NzMndhRHdqc0FUQzc3eWxFT2I5RGtwSENsS29iMVpoX1VZRUdNLXRXbV9WWTJ0YklRVGRqc0QxRmlXRnI2SFJ0ZnRHNVZnUU9reWR2UllqOVlWUG0tcnpvNnFEckRnRXJ0ZjFqa1FTU2h2SnloVmpra2FIUmQzbU1jSEQyNm1peU0xZGJaVjZYN0hmWlhlUVlfMHo4bmtkdUM4S2F6NUlwdGlkWXhTcGNFTGdMQlNPYVh0ZGU5SFhLU2NzYWRhamJpbnc?oc=5)
+### [2.000 nouveaux cas de cancer de l'anus par an en France : un gastro-entérologue alerte sur les hémorroïdes mal soignées](https://news.google.com/rss/articles/CBMiggJBVV95cUxOTFkycGYxY0tMa21WaVFSUXR4NlptZG40elJvdC12S2RSekFGNWZ4UlpKa3hXekIyODJJQnRTS2NzMndhRHdqc0FUQzc3eWxFT2I5RGtwSENsS29iMVpoX1VZRUdNLXRXbV9WWTJ0YklRVGRqc0QxRmlXRnI2SFJ0ZnRHNVZnUU9reWR2UllqOVlWUG0tcnpvNnFEckRnRXJ0ZjFqa1FTU2h2SnloVmpra2FIUmQzbU1jSEQyNm1peU0xZGJaVjZYN0hmWlhlUVlfMHo4bmtkdUM4S2F6NUlwdGlkWXhTcGNFTGdMQlNPYVh0ZGU5SFhLU2NzYWRhamJpbnc?oc=5)
 
 2026-08-10 <span class="news-indication-tag">cancer</span>
 
-來源：[L'Yonne Républicaine](https://news.google.com/rss/articles/CBMiggJBVV95cUxOTFkycGYxY0tMa21WaVFSUXR4NlptZG40elJvdC12S2RSekFGNWZ4UlpKa3hXekIyODJJQnRTS2NzMndhRHdqc0FUQzc3eWxFT2I5RGtwSENsS29iMVpoX1VZRUdNLXRXbV9WWTJ0YklRVGRqc0QxRmlXRnI2SFJ0ZnRHNVZnUU9reWR2UllqOVlWUG0tcnpvNnFEckRnRXJ0ZjFqa1FTU2h2SnloVmpra2FIUmQzbU1jSEQyNm1peU0xZGJaVjZYN0hmWlhlUVlfMHo4bmtkdUM4S2F6NUlwdGlkWXhTcGNFTGdMQlNPYVh0ZGU5SFhLU2NzYWRhamJpbnc?oc=5)
+來源：[lyonne.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxOTFkycGYxY0tMa21WaVFSUXR4NlptZG40elJvdC12S2RSekFGNWZ4UlpKa3hXekIyODJJQnRTS2NzMndhRHdqc0FUQzc3eWxFT2I5RGtwSENsS29iMVpoX1VZRUdNLXRXbV9WWTJ0YklRVGRqc0QxRmlXRnI2SFJ0ZnRHNVZnUU9reWR2UllqOVlWUG0tcnpvNnFEckRnRXJ0ZjFqa1FTU2h2SnloVmpra2FIUmQzbU1jSEQyNm1peU0xZGJaVjZYN0hmWlhlUVlfMHo4bmtkdUM4S2F6NUlwdGlkWXhTcGNFTGdMQlNPYVh0ZGU5SFhLU2NzYWRhamJpbnc?oc=5)
 
 ---
 
@@ -198,27 +198,11 @@ permalink: /news/roxadustat/
 
 ---
 
-### ['A&E dismissed my girl as attention-seeking - then found a brain tumour' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1BYTnlLTFhwcVJBbDU4RzMyV1ZlRWdodWg0X0RqVU5yNU1pRllHbUxLOVkyY1owV0tVSGdEb0RlQmh4TGFkZkJ3UnVfa09XOERyZ2J2ZWV6bE94bjQ1WUhXZnRqSWRtci1oQ2FkQzE5NzQyT3g5YUNBYUp3RFIydVlibUNhd9IBiwFBVV95cUxPVnFEUEh4dlJvRzhYYVBRMUswWEtDRkxuYmhfZU5mMFIwOHJWUm9rSktWcExnVU8weVNNUHY2SUlWSUlWWkxWOEU4dHZiT21aOWNYc3ZQUEhyd3NERVBlSHptTmpKZzN4RzBzTl9BTzY2Zm5qQklFUEJIQW9RQ0VwNVRWR1BxLXlDRHFz?oc=5)
-
-2026-08-10 <span class="news-indication-tag">tumour</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1BYTnlLTFhwcVJBbDU4RzMyV1ZlRWdodWg0X0RqVU5yNU1pRllHbUxLOVkyY1owV0tVSGdEb0RlQmh4TGFkZkJ3UnVfa09XOERyZ2J2ZWV6bE94bjQ1WUhXZnRqSWRtci1oQ2FkQzE5NzQyT3g5YUNBYUp3RFIydVlibUNhd9IBiwFBVV95cUxPVnFEUEh4dlJvRzhYYVBRMUswWEtDRkxuYmhfZU5mMFIwOHJWUm9rSktWcExnVU8weVNNUHY2SUlWSUlWWkxWOEU4dHZiT21aOWNYc3ZQUEhyd3NERVBlSHptTmpKZzN4RzBzTl9BTzY2Zm5qQklFUEJIQW9RQ0VwNVRWR1BxLXlDRHFz?oc=5)
-
----
-
 ### [Prostate cancer prognosis linked to prostate-specific antigen levels below threshold - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdFhkdnM1MXRGVExmLXBDN1dVWm9yRGdOWHMtdFZyeHFSNHYydzljVTFNaDBoOGtjRVhpbmJ5QjMwVUdRRnZrZjlCcHI4VGZ6VjdfZ3U3TmZQbWpSblBZenR0TklCZndKMFFMNThVQ0ZHR1AyVzZNNzRUb251amFSUDNuZFVHX1AtVzRwWVBn?oc=5)
 
 2026-08-10 <span class="news-indication-tag">cancer</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdFhkdnM1MXRGVExmLXBDN1dVWm9yRGdOWHMtdFZyeHFSNHYydzljVTFNaDBoOGtjRVhpbmJ5QjMwVUdRRnZrZjlCcHI4VGZ6VjdfZ3U3TmZQbWpSblBZenR0TklCZndKMFFMNThVQ0ZHR1AyVzZNNzRUb251amFSUDNuZFVHX1AtVzRwWVBn?oc=5)
-
----
-
-### [Bevande zuccherate, possibile aumento del rischio di cancro al fegato: lo studio - Corriere della Sera](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1gzcTVBTTlHWFFUV3J1dTRPZFZaVFNBSEhuVWZXT25zRlhBNXl0TEhwSnBDWlRJNXVEUnVJTDAzRkMzZlZPQUhON0ZBTENkM2l1a05Fc1hXWG1BYzdybXNlbWhoUlRUemV5bk1PZ0hvYlVYV20xYl8tWDdoYUNQRnNZd3lsSnNaVHRQdmxTMXZQWGNKR1kyRW10X1VSbVhaa2R0T0FFWno0NGVSLVgyanBTTEdrMU45TC1SQlVIN2NmaFJ0a05ETktwaFJxYUNsN2Q1T3ltcFAwN0Fs0gHiAUFVX3lxTE1Sa1BWS19US2FSQzAxZFkwbl9YbW1WcTNYUmlBLUlZYzNRSUF0ZFVNNUI4NTU5MzBhX3pyZkt4SDRGalU2eDJ6LU4yN0NOeTFoeHQ0SUhzZ0lwVjVRQmtaM0RuNnE1eEtHeG1CSUtTbWhfTVpkRllfWURyZmxXYWpXNmFzc3pPYWEzTjNGWHY3RkNLMDVvTzJjc2pXcXFkVkh5c0UtQUllY29BSjd3X1FkT3c4dlllc1pDdml5SGhFZUxTekJaUFJ1dkhIdWI1dEllRTRqSHJmdF9uYzhVSU1rVFE?oc=5)
-
-2026-08-10 <span class="news-indication-tag">cancro</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1gzcTVBTTlHWFFUV3J1dTRPZFZaVFNBSEhuVWZXT25zRlhBNXl0TEhwSnBDWlRJNXVEUnVJTDAzRkMzZlZPQUhON0ZBTENkM2l1a05Fc1hXWG1BYzdybXNlbWhoUlRUemV5bk1PZ0hvYlVYV20xYl8tWDdoYUNQRnNZd3lsSnNaVHRQdmxTMXZQWGNKR1kyRW10X1VSbVhaa2R0T0FFWno0NGVSLVgyanBTTEdrMU45TC1SQlVIN2NmaFJ0a05ETktwaFJxYUNsN2Q1T3ltcFAwN0Fs0gHiAUFVX3lxTE1Sa1BWS19US2FSQzAxZFkwbl9YbW1WcTNYUmlBLUlZYzNRSUF0ZFVNNUI4NTU5MzBhX3pyZkt4SDRGalU2eDJ6LU4yN0NOeTFoeHQ0SUhzZ0lwVjVRQmtaM0RuNnE1eEtHeG1CSUtTbWhfTVpkRllfWURyZmxXYWpXNmFzc3pPYWEzTjNGWHY3RkNLMDVvTzJjc2pXcXFkVkh5c0UtQUllY29BSjd3X1FkT3c4dlllc1pDdml5SGhFZUxTekJaUFJ1dkhIdWI1dEllRTRqSHJmdF9uYzhVSU1rVFE?oc=5)
 
 ---
 

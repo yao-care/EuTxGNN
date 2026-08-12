@@ -14,7 +14,7 @@ permalink: /news/tralokinumab/
 ---
 
 <p class="key-answer" data-question="Tralokinumab 有什麼相關新聞？">
-<strong>Tralokinumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tralokinumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/tralokinumab/
 <p><a href="{{ '/drugs/tralokinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
+
+2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
+
+---
+
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
+
+2026-08-12 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
+
+---
+
+### ["I feel 20 years younger!" OAP sheds seven stone and reverses diabetes in weight loss win - Daily Record](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmYwcWM1c19SRUxIYll5X2ItTDVsREVtUnlsNFJZa2hkVmpPSzBjYURLbTlUY0VSSDhKWVJKUFd1MURIOEVGNGhXMW4xd3NsSkFSSVNfRUhNX21HZ1VOLXptLThqeEpwQWRpWmtfckM1VmxkckJTV1hnYXl0bVBYV2JLcllVRzNx0gGOAUFVX3lxTE1iZVJ4QmswTlhKbjlORFprUE95aXB5Z014Sy05dGpzUnp5cUhodGlIbnIwNFBzN3p4NmNNSzNHUUFmMnJjM3J6NjAxNUJuRkE5aFNjUEFjckZNeDM3blllTzZVNXVIWnJnQ0hnNHZnb0lKZWhlR1lKZDJ6QjFwaC1kVVhfd0M1LWhJTDRIbGc?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmYwcWM1c19SRUxIYll5X2ItTDVsREVtUnlsNFJZa2hkVmpPSzBjYURLbTlUY0VSSDhKWVJKUFd1MURIOEVGNGhXMW4xd3NsSkFSSVNfRUhNX21HZ1VOLXptLThqeEpwQWRpWmtfckM1VmxkckJTV1hnYXl0bVBYV2JLcllVRzNx0gGOAUFVX3lxTE1iZVJ4QmswTlhKbjlORFprUE95aXB5Z014Sy05dGpzUnp5cUhodGlIbnIwNFBzN3p4NmNNSzNHUUFmMnJjM3J6NjAxNUJuRkE5aFNjUEFjckZNeDM3blllTzZVNXVIWnJnQ0hnNHZnb0lKZWhlR1lKZDJ6QjFwaC1kVVhfd0M1LWhJTDRIbGc?oc=5)
+
+---
 
 ### [Mangelernährung und Dehydratation bei älteren Menschen mit Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFBnTDNtU0MwUGpnM21PUzRDR245Z3kwNENWY01KaklKeDNLVEoxRW0xSU4zV29MN1lmSHFhNnVERXBkNDVMZ2puZk9OWXViUWgzUjhacWxOVjVVMldGaG93MVQyLVZyMlk4ai1sR2xyTzVQdzIwME9IcUYyZG5TM09hQXRKeDlGMjR4ZTFad3R1bWRHa29IeVpxc2w4VUNjZ2tYSU5XN2h4QQ?oc=5)
 
@@ -94,14 +118,6 @@ permalink: /news/tralokinumab/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
-
-2026-08-11 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
-
----
-
 ### [Dem Diabetes den Weg abschneiden - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnMzbURZU09zQml5RGJTUkxOQzRXN1phMl9RNmkyQTB3eEVveUdZVk5mZ1VpUjIwNkRiUmRQUVF4bzJQazlfQ0NtR1NWOWxJZ29sdzNtNzZWU1B5WGYyRFpRUF9VdU5FTmd6NUtSOEJwZlZRak9xSXRXbTNWc0tkV0RwYnlaMFhJcHYzaGUzT0J2U1p5eDhjYWp3WkJITTg?oc=5)
 
 2026-08-11 <span class="news-indication-tag">diabetes</span>
@@ -110,11 +126,19 @@ permalink: /news/tralokinumab/
 
 ---
 
-### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+### [FNIP1-Gen: Seltene Mutation senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
+
+---
+
+### [Menopause und Typ-2-Diabetes: Warum Gesundheitslage wichtiger ist als der Zeitpunkt - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXd3MGFROG1SY1ZJYjRONVBlWENjWEFiT0d3cTRMRkNZcDdZcXI5NXRMaFV4eml5QkhjbElQbzl4WEZ6M3A5dHZTU0FCSjhSVjlIbkZuWmZfQy1icXFhem9oOVpocmZNWk1DdjlEb1N5Tk9HdXNDal9lR2lwdzlaeHUyckFyLVZmOVFHYlRLdV8xWVZNeDhoNUw3bDB1dnhoUk9obWdibmFieUpPOUNqREt5cnk?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXd3MGFROG1SY1ZJYjRONVBlWENjWEFiT0d3cTRMRkNZcDdZcXI5NXRMaFV4eml5QkhjbElQbzl4WEZ6M3A5dHZTU0FCSjhSVjlIbkZuWmZfQy1icXFhem9oOVpocmZNWk1DdjlEb1N5Tk9HdXNDal9lR2lwdzlaeHUyckFyLVZmOVFHYlRLdV8xWVZNeDhoNUw3bDB1dnhoUk9obWdibmFieUpPOUNqREt5cnk?oc=5)
 
 ---
 
@@ -123,22 +147,6 @@ permalink: /news/tralokinumab/
 2026-08-10 <span class="news-indication-tag">diabete</span>
 
 來源：[ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
-
----
-
-### [Diabete, non conta solo la glicemia: ecco cosa cambia nella cura](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabete</span>
-
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
-
----
-
-### [Kein höheres Diabetesrisiko bei früher Menopause](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
 
 ---
 

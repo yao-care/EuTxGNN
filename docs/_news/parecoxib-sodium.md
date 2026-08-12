@@ -54,19 +54,27 @@ permalink: /news/parecoxib-sodium/
 
 ## 相關新聞（5 則）
 
+### [Cholesterol-busting statins ARE ‘drugs for life’ - but you could come off them at 75, scientists say - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+
+---
+
+### [DASH-Ernährung senkt Sterblichkeit um 12% – worauf es bei Salz und Kalium ankommt - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPamxtbms1UXFyNFAteW1DTnNjRDB4WGFaZ3RSb20zNkpiUjZhS05Ecm5TYk1zRVpaSkZ2UktDTzdpT19yVGlxbV94WmEtMlR5a1VIV00wYlF5aXlsbUY1N2pFVWJ3SVNlZFF4WVNnT0I5dzJGVjRnbnhFZDV6WmR1NjVfZXc5a0pxY1VYSkxHR0RSMTFwTlI1amlPeWNxTFJ2eTJaLVR5V2ZFSlh2cWdWTg?oc=5)
+
+2026-08-11 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPamxtbms1UXFyNFAteW1DTnNjRDB4WGFaZ3RSb20zNkpiUjZhS05Ecm5TYk1zRVpaSkZ2UktDTzdpT19yVGlxbV94WmEtMlR5a1VIV00wYlF5aXlsbUY1N2pFVWJ3SVNlZFF4WVNnT0I5dzJGVjRnbnhFZDV6WmR1NjVfZXc5a0pxY1VYSkxHR0RSMTFwTlI1amlPeWNxTFJ2eTJaLVR5V2ZFSlh2cWdWTg?oc=5)
+
+---
+
 ### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
 
 2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
-
----
-
-### [How healthy is coffee, really? - Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
-
-2026-08-11 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
-
-來源：[Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/parecoxib-sodium/
 2026-08-10 <span class="news-indication-tag">arthritis</span>
 
 來源：[Health News Hub](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWZTOWJCdGloN1VLLXZRZXdfMG5MVTVzeGQ3aGxRZVZINnIyVHVzOGRnSWg3a25remVyOHJGdUFOc1JXWkp4b1E0UFU2blNfdjdmZFloUVRweXRISEw1bFlsazhIdG5iU3NjcGxwQ2pHaEtlSVdzOE1zdHVpZUVidkdGTlBLekts?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium empfohlen](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUdYdmVVQi1qRUVzNkRsLUppZTM4WnJIM3lsckU0S09jeVF0Q2xVcHp0cm5USy04MGQxV0hHRTZ5cndSVFBwYnA5czh6SEw3Y0d1VWE3dERHRG1WS3FNMkU5OTQzN3VpTE92bE0tcVlRTDkwMUNpMXljXzZvOWFyRmJIYmFiU2VHNWxYZVJ3Z1BOMlBBaGN0ZnFwYWk0QUFMa0ZYQjBtclNxdkNSd3lIMw?oc=5)
-
-2026-08-10 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUdYdmVVQi1qRUVzNkRsLUppZTM4WnJIM3lsckU0S09jeVF0Q2xVcHp0cm5USy04MGQxV0hHRTZ5cndSVFBwYnA5czh6SEw3Y0d1VWE3dERHRG1WS3FNMkU5OTQzN3VpTE92bE0tcVlRTDkwMUNpMXljXzZvOWFyRmJIYmFiU2VHNWxYZVJ3Z1BOMlBBaGN0ZnFwYWk0QUFMa0ZYQjBtclNxdkNSd3lIMw?oc=5)
 
 ---
 

@@ -54,11 +54,27 @@ permalink: /news/glecaprevir/
 
 ## 相關新聞（15 則）
 
-### [RD Congo dice que 2.000 personas han muerto en el brote de ébola de más rápido crecimiento registrado - CNN en Español](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVpyWnoxZHVTcVRLY29nLU44QnN1a09aZW9TZFctUzZ4OXFzT05QZWxXVUh2SWRjeXI2ZHJhQzlXWFNwczNUbDJpWms3UmhoekFCZGYwWXRVV3RzZW5WV3lfMDRRa3Y4NU03dnZKRjBrRTMxZ3h4Y3FrNllpR2dhWlVyMkxPRDA?oc=5)
+### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
-2026-08-11 <span class="news-indication-tag">MS</span>
+2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[CNN en Español](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVpyWnoxZHVTcVRLY29nLU44QnN1a09aZW9TZFctUzZ4OXFzT05QZWxXVUh2SWRjeXI2ZHJhQzlXWFNwczNUbDJpWms3UmhoekFCZGYwWXRVV3RzZW5WV3lfMDRRa3Y4NU03dnZKRjBrRTMxZ3h4Y3FrNllpR2dhWlVyMkxPRDA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
+
+---
+
+### [Neue MS-Selbsthilfegruppe in Frankenberg](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmVKRjVoVEtBNmNYT0RIUnEwZEZpQ1JxeGtrVWYtUUd4XzdRRExMMkplbzNGM0lDcHpFSmdrUWR1b2g1c1BwZVBQcnV4OEEyZkhEa3RHRThGSGlXVWNwVXBZaWhpalBta0h4X0NxUjEtak9sQkZXclVPZGlZekxuOWViczRqdGJkQzNnY3ZPd0M2SmtIY1QyRllLQ1dKU09RNXlGS0tfMA?oc=5)
+
+2026-08-12 <span class="news-indication-tag">MS</span>
+
+來源：[112-magazin](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmVKRjVoVEtBNmNYT0RIUnEwZEZpQ1JxeGtrVWYtUUd4XzdRRExMMkplbzNGM0lDcHpFSmdrUWR1b2g1c1BwZVBQcnV4OEEyZkhEa3RHRThGSGlXVWNwVXBZaWhpalBta0h4X0NxUjEtak9sQkZXclVPZGlZekxuOWViczRqdGJkQzNnY3ZPd0M2SmtIY1QyRllLQ1dKU09RNXlGS0tfMA?oc=5)
+
+---
+
+### [El brote de ébola en la República Democrática del Congo deja ya cerca de 2.000 muertos - El Salto](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVc3dVl2Rklxb2Fsc1lyemJGakF5SGlad3BwdGd5QmpYM0FfUURDUVhjeDdvNW5MUW0waHBFLXlwOFM4Y0h5V2pQQVdsUVQ2OUY0bVVrUjdqLXBBV3Q2Z2RYbFZyTTZOcklHdGxjdS10bUo1dVBvLUNiSkZJX1hoWk1GYlZKc0IxazBoTjNRV0FSdVF0SzlkRnVPVThGNFR5SGxVWlIwVQ?oc=5)
+
+2026-08-12 <span class="news-indication-tag">MS</span>
+
+來源：[El Salto](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVc3dVl2Rklxb2Fsc1lyemJGakF5SGlad3BwdGd5QmpYM0FfUURDUVhjeDdvNW5MUW0waHBFLXlwOFM4Y0h5V2pQQVdsUVQ2OUY0bVVrUjdqLXBBV3Q2Z2RYbFZyTTZOcklHdGxjdS10bUo1dVBvLUNiSkZJX1hoWk1GYlZKc0IxazBoTjNRV0FSdVF0SzlkRnVPVThGNFR5SGxVWlIwVQ?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/glecaprevir/
 2026-08-11 <span class="news-indication-tag">MS</span>
 
 來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmlJbjF2VkxISkV3T3ZMNFZlLUx4SEJac2RMc2tVZEtXM0xMdDlzeWtveHVJTGRQVXVVOVJwTFhnd25hWUZqcC1yN3lVWjNKcVV3S25EdDlUTVpMaWxWYlNQOGxJRENtYVVuWWtzNHNvV25FUnNxMUVHWDBDajFDR3JHS2k1emE1enBZTW9WZlM1RTFOVU9fWEQ0dFJKUUFXVFlHcE1jX1A0VXdFbGfSAbMBQVVfeXFMTzJwbi1FTnlTYjh4TmRkckVibnJsUEVIajN3ZkFtWVExenY5cjMxeWZkZ3ZqSnAtZGlZOWk3Q0hWakdhZGt3bG5mc0pIM2JxVjFYQWNUQzlxQkZKdjBzMmJFX3FpYkFyZzJSb3JUb1BNZ3lMSjBteEp6ZTRta1A5OWphY2RHQTdNTjA2VVJabXJXQVgzZGVIZC1uR1djbDRNM3QtUEVHSy1nU3NlY3VHNVQ0anM?oc=5)
-
----
-
-### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
 ---
 
@@ -134,6 +142,14 @@ permalink: /news/glecaprevir/
 
 ---
 
+### [Australia to roll out bird flu vaccines for most vulnerable native birds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zVVdTWTJkUHdjOWF4Z05odmdSUGt2YUlnbUkyQWhGYUxpM2w0UWlNZXd3TFR4eWxfMUdRNXQ1aEh1aFNKTzlUb0RybkZEdEFNc2xWU0NZSXEyTHRT?oc=5)
+
+2026-08-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zVVdTWTJkUHdjOWF4Z05odmdSUGt2YUlnbUkyQWhGYUxpM2w0UWlNZXd3TFR4eWxfMUdRNXQ1aEh1aFNKTzlUb0RybkZEdEFNc2xWU0NZSXEyTHRT?oc=5)
+
+---
+
 ### [Hepatitis A: Prävention bleibt bei Risikogruppen entscheidend](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
@@ -155,22 +171,6 @@ permalink: /news/glecaprevir/
 2026-08-10 <span class="news-indication-tag">MS</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
-
----
-
-### [La OMS recomienda priorizar el estudio de la vacuna contra el ébola 'Ervebo' ante el brote del Congo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOFhERVNqVlQzVC1vV2dLbzE0Z1FNem1YVmtIMEVScXVEMVh5aGM2SzIyel9ST3FGWVNxVUxEWGhMRWRBVkh6R3BFVnJQMnhmNWtlWm53TkdLZ0lzVm1tN3JDQjcwYmlYV3NqTGN0ZGIwbFQxNF8ydE5qMUszVnJoUDV0bnR4TnZoLWMxLTZDUkN3SFczaVJaa3dFQ01WOF9FRmstNDVzZFVia0pVWWktVkJTU3dvVFdVZ0hoM0RydDgwZlVCQzdDQkVkVmdnVEU2VU95M1dPdFZ1VnFidUxVdzJYQQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">MS</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOFhERVNqVlQzVC1vV2dLbzE0Z1FNem1YVmtIMEVScXVEMVh5aGM2SzIyel9ST3FGWVNxVUxEWGhMRWRBVkh6R3BFVnJQMnhmNWtlWm53TkdLZ0lzVm1tN3JDQjcwYmlYV3NqTGN0ZGIwbFQxNF8ydE5qMUszVnJoUDV0bnR4TnZoLWMxLTZDUkN3SFczaVJaa3dFQ01WOF9FRmstNDVzZFVia0pVWWktVkJTU3dvVFdVZ0hoM0RydDgwZlVCQzdDQkVkVmdnVEU2VU95M1dPdFZ1VnFidUxVdzJYQQ?oc=5)
-
----
-
-### [Avoiding these three things could add 13 years of dementia-free life](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
-
-2026-08-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 ---
 

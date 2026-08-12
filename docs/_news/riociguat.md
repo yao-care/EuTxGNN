@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="Riociguat 有什麼相關新聞？">
-<strong>Riociguat</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Riociguat</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/riociguat/
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（36 則）
+## 相關新聞（35 則）
 
 ### [Herz: Wie viel Kaffee am Tag ist gesund? Diese neue Studie gibt die Antwort](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
 
-2026-08-11 <span class="news-indication-tag">AF</span>
+2026-08-12 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
+
+---
+
+### [Verheij-Syndrom: Vitamin B12 korrigiert Stoffwechselstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmtFUnZyWmdKZVBISHhKV3VaaEtrWHp5OFdWbjR3UTE5c3JDdVRlbWdCQTNoRVoweVpSOGhrMHFBRXpZMk1aOHBpam1ZemxCZGZkc295TWZrUEo0WDhlclVKUWx4cTkzQmQwa2ZIUmFQQ0FUSTRfWnRfTlRDbllRMlJISHA4WV9JOHdSS0o1NjhQVllackh2YXJSQ0tGUFJLTHJNaUZ1aTUzZV9ub1ZR?oc=5)
+
+2026-08-12 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmtFUnZyWmdKZVBISHhKV3VaaEtrWHp5OFdWbjR3UTE5c3JDdVRlbWdCQTNoRVoweVpSOGhrMHFBRXpZMk1aOHBpam1ZemxCZGZkc295TWZrUEo0WDhlclVKUWx4cTkzQmQwa2ZIUmFQQ0FUSTRfWnRfTlRDbllRMlJISHA4WV9JOHdSS0o1NjhQVllackh2YXJSQ0tGUFJLTHJNaUZ1aTUzZV9ub1ZR?oc=5)
+
+---
+
+### [Cholesterol-busting statins ARE ‘drugs for life’ - but you could come off them at 75, scientists say - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 
 ---
 
@@ -86,11 +102,27 @@ permalink: /news/riociguat/
 
 ---
 
-### [The Yoga Class To Lemur Herpes Pipeline Is Real, And Scientists Are Not Happy About It - Bored Panda](https://news.google.com/rss/articles/CBMickFVX3lxTE5DVU82SWZDU0VmZ1IwQzVIMm0tUndoTmFOYU9nSnI1cjhrZDVfV0s4SGdCYmtCTW1KZkoySWRqdWlRZncxMEU1X2xIVXBPSTczY2IwOGVYUVhwZzBtUGJialFldGZsNjlDRGJqdWZOdWVBUQ?oc=5)
+### [In Toscana caldo record e ambulatori pieni come col picco influenzale: le contromisure alla "pandemia climatica"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd19jSlA0YnVnVDRiRFBUSTloRDJILXpjOWhKcTVqQ3N2aEo2LXhxMlJrWlJLdy15VUdSUGd0bWhTSjBKSlQzcG1TbS11SzNBbGNkTGRjQUgyUW5hejNiczB1NXB5c3MyMDVqcVloUlAwZTU3eWluYUhqYnhKU29UeEtyRGVJVHdETUR3a0plaEhLQkh1MHF1SDRsQ0V0RHB6TDNFSno5TDhpSVFJcWEtUFZKZ0llS3NsbDYza19CSXBLTVdHbVRkbFFNZnowWnhFTE5ma29jZkFYQkdfYW41TTd2al9JR0lJbXkxcHE1em0?oc=5)
 
 2026-08-11 <span class="news-indication-tag">AF</span>
 
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMickFVX3lxTE5DVU82SWZDU0VmZ1IwQzVIMm0tUndoTmFOYU9nSnI1cjhrZDVfV0s4SGdCYmtCTW1KZkoySWRqdWlRZncxMEU1X2xIVXBPSTczY2IwOGVYUVhwZzBtUGJialFldGZsNjlDRGJqdWZOdWVBUQ?oc=5)
+來源：[iltirreno.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd19jSlA0YnVnVDRiRFBUSTloRDJILXpjOWhKcTVqQ3N2aEo2LXhxMlJrWlJLdy15VUdSUGd0bWhTSjBKSlQzcG1TbS11SzNBbGNkTGRjQUgyUW5hejNiczB1NXB5c3MyMDVqcVloUlAwZTU3eWluYUhqYnhKU29UeEtyRGVJVHdETUR3a0plaEhLQkh1MHF1SDRsQ0V0RHB6TDNFSno5TDhpSVFJcWEtUFZKZ0llS3NsbDYza19CSXBLTVdHbVRkbFFNZnowWnhFTE5ma29jZkFYQkdfYW41TTd2al9JR0lJbXkxcHE1em0?oc=5)
+
+---
+
+### [Por qué las personas con obesidad o enfermedades cardiovasculares corren más riesgo con el calor extremo - Hoy Aragón](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2hQMm1pZDI4b0Z0MDQ5MmN6cVNDUm9iM0N0VUpMbDJTTF92RDUxRjhnUG9nM2dVNzh2R25haGFLeFQ3Mk1xVUwtWDBZb0wwT0hIcUFhX09iY2RNeVlUMWlONWtxcTRrYlRZcTNXT3Bzcy11bWRIVDZ5dkFMbnNtSzFiejAtMXdPNEFhQ0hTaVc4NlhBblpkM3ltbWZLdHVDS1VjSGtUeUlEaUtrMHpIM045ZVJ5dDdLZnE1N05DUDdHVWZOdjUwN3haSHNUTWcwZVJPMzh0QXhzQ0V3cUVmMXk2Q0F5VFMxeVZn?oc=5)
+
+2026-08-11 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hoy Aragón](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2hQMm1pZDI4b0Z0MDQ5MmN6cVNDUm9iM0N0VUpMbDJTTF92RDUxRjhnUG9nM2dVNzh2R25haGFLeFQ3Mk1xVUwtWDBZb0wwT0hIcUFhX09iY2RNeVlUMWlONWtxcTRrYlRZcTNXT3Bzcy11bWRIVDZ5dkFMbnNtSzFiejAtMXdPNEFhQ0hTaVc4NlhBblpkM3ltbWZLdHVDS1VjSGtUeUlEaUtrMHpIM045ZVJ5dDdLZnE1N05DUDdHVWZOdjUwN3haSHNUTWcwZVJPMzh0QXhzQ0V3cUVmMXk2Q0F5VFMxeVZn?oc=5)
+
+---
+
+### [Mücken wählen ihre Opfer gezielt aus – jede Art nutzt dabei andere Signale auf Ihrer Haut](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWNSMU9uVDVxQk1FZFBqVjJGOWlxNENpbVJRMlYxMXI2RktBRTN4dDBZWmZKblRHN0h0SklFcXNDR1JKUzYyNFJRR3ZmYzRNdnA2SDZNRUlXVlVScmJJdUhXLUNvTHFORV9hdFJpWDZua05EcEZaci1SNVFmRzRCNU91UUFzNUl3MEJ1enZzSHFZVDhWRURsSW0xXzVYekRhand1YXpHNHZweVVURUhRcVhZazVBWk1xMndxTlZLc29vX0JSNUlMbk1VOA?oc=5)
+
+2026-08-11 <span class="news-indication-tag">AF</span>
+
+來源：[kreiszeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWNSMU9uVDVxQk1FZFBqVjJGOWlxNENpbVJRMlYxMXI2RktBRTN4dDBZWmZKblRHN0h0SklFcXNDR1JKUzYyNFJRR3ZmYzRNdnA2SDZNRUlXVlVScmJJdUhXLUNvTHFORV9hdFJpWDZua05EcEZaci1SNVFmRzRCNU91UUFzNUl3MEJ1enZzSHFZVDhWRURsSW0xXzVYekRhand1YXpHNHZweVVURUhRcVhZazVBWk1xMndxTlZLc29vX0JSNUlMbk1VOA?oc=5)
 
 ---
 
@@ -110,19 +142,27 @@ permalink: /news/riociguat/
 
 ---
 
+### [Cómo el estrés puede afectar al microbioma intestinal, según recientes estudios](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTVZScW5ZTzEtZ0tLSzlFSDdFTlVpeHlfbW5BVlBMUGhabzNYbEtic1BOaDZCQlpYdTg2R2Mtemp1R0JCbTBKclBYektSUVpOcV9Vb2N3dzRxR3FWVzlWWkJXZ3FUczFhWVZmLUNuVjJzYl9YY2pDaVBsZEdWajdHTURqcC1DbXRlSXoyVk5lcktpcDJlRXVKaDZZUFRaUHBmNHpPMzBCc1pNSEtkemprMnBCRUNSLV81eGljUtIB1wFBVV95cUxONXJYbnQ0d09QaGtBaThjTHphSzlUR2tiRTIzVlczeG9JVXZpWDFQOVNOcE5jeG1DV3RQV01pYl83MkEzcGRqR2N2dmNvTUIwajJ2dTZLdlNwRnBpbkZma1F0UmNzcG00ZnFhTHlYTDM4R29nSU5UQ2Z2d0txRWFyZlFnaE4ya1g3RjFtU0dicUpyZHVxVXF1Nm9BN0hkeWI4aWctckZNcGE3TlpCWlZ0WGRseVh1cFFucFNSRzNvR2hJcDI0THlyalpiWFE2aXh2cVdSS1FIYw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTVZScW5ZTzEtZ0tLSzlFSDdFTlVpeHlfbW5BVlBMUGhabzNYbEtic1BOaDZCQlpYdTg2R2Mtemp1R0JCbTBKclBYektSUVpOcV9Vb2N3dzRxR3FWVzlWWkJXZ3FUczFhWVZmLUNuVjJzYl9YY2pDaVBsZEdWajdHTURqcC1DbXRlSXoyVk5lcktpcDJlRXVKaDZZUFRaUHBmNHpPMzBCc1pNSEtkemprMnBCRUNSLV81eGljUtIB1wFBVV95cUxONXJYbnQ0d09QaGtBaThjTHphSzlUR2tiRTIzVlczeG9JVXZpWDFQOVNOcE5jeG1DV3RQV01pYl83MkEzcGRqR2N2dmNvTUIwajJ2dTZLdlNwRnBpbkZma1F0UmNzcG00ZnFhTHlYTDM4R29nSU5UQ2Z2d0txRWFyZlFnaE4ya1g3RjFtU0dicUpyZHVxVXF1Nm9BN0hkeWI4aWctckZNcGE3TlpCWlZ0WGRseVh1cFFucFNSRzNvR2hJcDI0THlyalpiWFE2aXh2cVdSS1FIYw?oc=5)
+
+---
+
+### [DASH-Ernährung senkt Sterblichkeit um 12% – worauf es bei Salz und Kalium ankommt - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPamxtbms1UXFyNFAteW1DTnNjRDB4WGFaZ3RSb20zNkpiUjZhS05Ecm5TYk1zRVpaSkZ2UktDTzdpT19yVGlxbV94WmEtMlR5a1VIV00wYlF5aXlsbUY1N2pFVWJ3SVNlZFF4WVNnT0I5dzJGVjRnbnhFZDV6WmR1NjVfZXc5a0pxY1VYSkxHR0RSMTFwTlI1amlPeWNxTFJ2eTJaLVR5V2ZFSlh2cWdWTg?oc=5)
+
+2026-08-11 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPamxtbms1UXFyNFAteW1DTnNjRDB4WGFaZ3RSb20zNkpiUjZhS05Ecm5TYk1zRVpaSkZ2UktDTzdpT19yVGlxbV94WmEtMlR5a1VIV00wYlF5aXlsbUY1N2pFVWJ3SVNlZFF4WVNnT0I5dzJGVjRnbnhFZDV6WmR1NjVfZXc5a0pxY1VYSkxHR0RSMTFwTlI1amlPeWNxTFJ2eTJaLVR5V2ZFSlh2cWdWTg?oc=5)
+
+---
+
 ### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
 
 2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
-
----
-
-### [How healthy is coffee, really? - Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
-
-2026-08-11 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
-
-來源：[Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
 
 ---
 
@@ -174,43 +214,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [¿Por qué hay personas a las que el estrés no les afecta tanto? - National Geographic España](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnVvZmNyNjFtemF1cW84eTc1Umd2eXQ3eFQ1cjh4YUp4ZjA1ekxCMUxNOHlyTHRaTHBQSkJfdE9sTi11UzZqUjBBZ200LTNoa0JiN2lGU0xZN1RmaDNrM1NSMXd0dDA5NDUwblNZbjQ4RkNhX0E4bmZxdjFNTy1xSEVoeXNLV2xVdm10eW04bFk2QnlJQi1UUjJuUzZWVVlrNUlDQVRWU29fTlpFZnVXSnFpVWRoSHBVbE9odDRR?oc=5)
-
-2026-08-11 <span class="news-indication-tag">AF</span>
-
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnVvZmNyNjFtemF1cW84eTc1Umd2eXQ3eFQ1cjh4YUp4ZjA1ekxCMUxNOHlyTHRaTHBQSkJfdE9sTi11UzZqUjBBZ200LTNoa0JiN2lGU0xZN1RmaDNrM1NSMXd0dDA5NDUwblNZbjQ4RkNhX0E4bmZxdjFNTy1xSEVoeXNLV2xVdm10eW04bFk2QnlJQi1UUjJuUzZWVVlrNUlDQVRWU29fTlpFZnVXSnFpVWRoSHBVbE9odDRR?oc=5)
-
----
-
-### [Beatriz Beltrán, especialista en medicina estética: “El riesgo de la aparición de manchas solares aumenta al abandonar antioxidantes y buscar el bronceado" - Revista CLARA](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHFfMUFIdFA3Zlg5SzVDazlXVXlKaGxDZGJ2ZXExSS05RmVvSTlOYWRtdEVDSDE2SWhTYTltMzMtX2Y3TmpOTzhrNF9DTXhkYm94TjE5N1F1T0pGVmpGOWhNUHlicjVKdFF5T2J2NFR0YVZ5N3NJWDh5Z2RLdmx1dGRKaXhUUXNvS2hMMlpsZw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">AF</span>
-
-來源：[Revista CLARA](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHFfMUFIdFA3Zlg5SzVDazlXVXlKaGxDZGJ2ZXExSS05RmVvSTlOYWRtdEVDSDE2SWhTYTltMzMtX2Y3TmpOTzhrNF9DTXhkYm94TjE5N1F1T0pGVmpGOWhNUHlicjVKdFF5T2J2NFR0YVZ5N3NJWDh5Z2RLdmx1dGRKaXhUUXNvS2hMMlpsZw?oc=5)
-
----
-
 ### [Daughter almost died after 'holiday stomach bug' turned out to be deadly illness - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUtHdmVvMThZLUVpVFhyTEdwVVIyeXBVN0szb1FESGs4NEJvcGdSNDk5S1ZpWEx6RTFET1BzSnpkWnlZRDhvS0lXQko3V2UzWDR0N0xtelNrZTlYak16STRTX0lxSlNxYmNNZ3YtR2FMeUN0d1ktQmpFZExMNFNFRlIxaE1ScFXSAYwBQVVfeXFMTmg3c3o3ME12cTQtSEtuTVBJREJDRlFzdTRkTVFJVk9KTHdPREN3VF9uYjNESWEtTEtlNlJFQ0lFN0ttY1ctazhNTjdrSFlVaHZ2TzI4NE9ySDE1c20ydFp5NVNXVEZ0U2J3UjlLVjRGSEdOMkFTUWlnRGdSMjBYSTQ3R1ozaklIZlJIdVM?oc=5)
 
 2026-08-11 <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUtHdmVvMThZLUVpVFhyTEdwVVIyeXBVN0szb1FESGs4NEJvcGdSNDk5S1ZpWEx6RTFET1BzSnpkWnlZRDhvS0lXQko3V2UzWDR0N0xtelNrZTlYak16STRTX0lxSlNxYmNNZ3YtR2FMeUN0d1ktQmpFZExMNFNFRlIxaE1ScFXSAYwBQVVfeXFMTmg3c3o3ME12cTQtSEtuTVBJREJDRlFzdTRkTVFJVk9KTHdPREN3VF9uYjNESWEtTEtlNlJFQ0lFN0ttY1ctazhNTjdrSFlVaHZ2TzI4NE9ySDE1c20ydFp5NVNXVEZ0U2J3UjlLVjRGSEdOMkFTUWlnRGdSMjBYSTQ3R1ozaklIZlJIdVM?oc=5)
-
----
-
-### [Verschiedene Vorlieben: Wen Mücken bevorzugt stechen - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxPY29oSlZVVlBpN0pxSVJqQXRFSk1UX1VEbHg1VjJDdkdITk92blJYUGt4NUdGMzVoM2NXb0JJckhQRGxlYUwxTTVXRlZtTGhtRllyaWpXN3FhYi1iZmhCNWpZajBnRjhEa0ZnLUtxTzNRWUNQSjFkdW5MTFFzWVU4MTBmLTZQWXZ6LVhVVg?oc=5)
-
-2026-08-11 <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxPY29oSlZVVlBpN0pxSVJqQXRFSk1UX1VEbHg1VjJDdkdITk92blJYUGt4NUdGMzVoM2NXb0JJckhQRGxlYUwxTTVXRlZtTGhtRllyaWpXN3FhYi1iZmhCNWpZajBnRjhEa0ZnLUtxTzNRWUNQSjFkdW5MTFFzWVU4MTBmLTZQWXZ6LVhVVg?oc=5)
-
----
-
-### [Batterio mangiacarne nello Stretto di Messina, il vibrione si risveglia: ecco come possiamo affrontarlo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU3lyNEFvNEFBS2NlRUpfUXc4ZHN5MWJrQjRrSjBHR2RRcHhKYk9oNVdRM05HbGsyTnY0NEREeHZsT3o4NUJxLUF3SW5uT0t4U2k0Tng2elUtMlR1NlZ3bWxzNXNCMjVRaHptbVNGTUVValpuQ3hwaE1qZTRiYUxQUGpBWjRMdkdOM1VvNEFUdFlkYkdWV3pWODdiMV9fZWxVZ21tUkFDYUJPdXRRUXkwclFTbTlfVWR3RXJrN3pWd09sRjdkNExTaWhwcWhqYkMwWlBDRUNET3M1ZDNMdXV4aEhhY01qWXM?oc=5)
-
-2026-08-11 <span class="news-indication-tag">AF</span>
-
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU3lyNEFvNEFBS2NlRUpfUXc4ZHN5MWJrQjRrSjBHR2RRcHhKYk9oNVdRM05HbGsyTnY0NEREeHZsT3o4NUJxLUF3SW5uT0t4U2k0Tng2elUtMlR1NlZ3bWxzNXNCMjVRaHptbVNGTUVValpuQ3hwaE1qZTRiYUxQUGpBWjRMdkdOM1VvNEFUdFlkYkdWV3pWODdiMV9fZWxVZ21tUkFDYUJPdXRRUXkwclFTbTlfVWR3RXJrN3pWd09sRjdkNExTaWhwcWhqYkMwWlBDRUNET3M1ZDNMdXV4aEhhY01qWXM?oc=5)
 
 ---
 
@@ -242,15 +250,7 @@ permalink: /news/riociguat/
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRURqa1JneFlSWTl6eWFkVXF0cnhrd1JfSU1hU0RJMHFyN0pRNkVvUWdvMWZfR0xnd1haRm1Tb1lZTTZSVWpCdk9PNkU3MU14dkphb0lIQnB4SjJpekd6TjRoTzhJaHJLbkVoV0xzR2pDN2xHQmNacnFBSHpEbVpMMi1zRVMwdHdzdFFDMlpmNkpDWUhzWjEyTVh3U01JblJLaHFjSGFGaEJjMmVxT3R1WDZ1bWpmQlFWdGpXVjhVeTVvRV9PSEhEcS1PSjZmei1uRmc?oc=5)
-
----
-
-### [Why choosing low-fat dairy is not necessarily better for your health - Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQy1sS05fZ2VXTl93VEdRajJ4UHNxZU1BeTN5cEhOdU5rMkU5eGJlQW1zajV2RTRqUnZ3TEFFTUhySG5WcEREalZUOWZuMXRRZ1dBdzJRUlFaMW40eVNPcGhMR2xfbWxXajAyWnd5UWlYTzNHUGxQREIyeEVQV1BkaEhaZHFzZThTWXJmQkk1bjJ2MUpxUExSRi1PY0lkaDg4cGx6LWx2dUhwU1RKS1HSAbMBQVVfeXFMTUo0dlJJcVFON1JnTVBZc2tyRmRqVlJtbUliTzRacVI4TnBaVmRCd1hMbTFmZXI2dUpSNlZlTDNPeWQtcjdRTkxRQTZSSGc0YXk0aElpNHNObUVnR0lfMnVMZUNOaUxlVFFDQjAxVkV6VXZZY0lEM1JGel8xbF9CMFAydE9adTkxRzNsTG0tYzhiSkxGS05lNHdWU1I0SVFhVE1FaVZBUk0wWkxRN1Y0QTRpaFk?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQy1sS05fZ2VXTl93VEdRajJ4UHNxZU1BeTN5cEhOdU5rMkU5eGJlQW1zajV2RTRqUnZ3TEFFTUhySG5WcEREalZUOWZuMXRRZ1dBdzJRUlFaMW40eVNPcGhMR2xfbWxXajAyWnd5UWlYTzNHUGxQREIyeEVQV1BkaEhaZHFzZThTWXJmQkk1bjJ2MUpxUExSRi1PY0lkaDg4cGx6LWx2dUhwU1RKS1HSAbMBQVVfeXFMTUo0dlJJcVFON1JnTVBZc2tyRmRqVlJtbUliTzRacVI4TnBaVmRCd1hMbTFmZXI2dUpSNlZlTDNPeWQtcjdRTkxRQTZSSGc0YXk0aElpNHNObUVnR0lfMnVMZUNOaUxlVFFDQjAxVkV6VXZZY0lEM1JGel8xbF9CMFAydE9adTkxRzNsTG0tYzhiSkxGS05lNHdWU1I0SVFhVE1FaVZBUk0wWkxRN1Y0QTRpaFk?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRURqa1JneFlSWTl6eWFkVXF0cnhrd1JfSU1hU0RJMHFyN0pRNkVvUWdvMWZfR0xnd1haRm1Tb1lZTTZSVWpCdk9PNkU3MU14dkphb0lIQnB4SjJpekd6TjRoTzhJaHJLbkVoV0xzR2pDN2xHQmNacnFBSHpEbVpMMi1zRVMwdHdzdFFDMlpmNkpDWUhzWjEyTVh3U01JblJLaHFjSGFGaEJjMmVxT3R1WDZ1bWpmQlFWdGpXVjhVeTVvRV9PSEhEcS1PSjZmei1uRmc?oc=5)
 
 ---
 
@@ -270,25 +270,17 @@ permalink: /news/riociguat/
 
 ---
 
-### [José Abellán, cardiólogo: “El calor acelera y exprime tu corazón aunque estés quieto"](https://news.google.com/rss/articles/CBMixAJBVV95cUxOTnVMX3MwWjZwZDJUcG9GRUJRcldGa003VzQyZDBZZ1BadW1xOHg1d21yQnVJQnFSel9aZVlza2dFUkdsenlLSURMYkNSTllEdTJFODdFYTQ5RzZscWdmME9yeGFtN2NFWEk2bDlqMXh5SWVMTzNiMWZudEZYVThWZUVWRm9INmt2S3QxU1NqeWphRFRwSmROOGI4dU1XQWVFUUZuajhRSW1MaXM1SGtaUEFpbU5HcTlZNm82SzN3dUl0a3RhSFF0S251ejExMGtvZG45WkczbVI5cDlBR1QwelFNS0lXWmtKRDRhSnNVWk9FNjlCNmFZNFV2NTg1M01oZEdMdUtlb1l1T2I0aWJMTUQ3RWNhb0VaemJmaEk1S1gwUDJJS1lBRlp6WFUxdjhuNVpwcHVSNVpvOEJfTHFLWVQ0WjM?oc=5)
+### [We're getting mealtimes wrong - here's the best time to have dinner](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU9YR0lqMGo5dF9UTGlGdXVNYjlucWpGeWgtdk1qd3h1NjIxcU1GcjBKbmRfTTZTUWFjQjI1Z3JQbXhvNGhQYUhieFpGZkZrSE1XcGdTRlNWaldMX09HS3NzV3p0ckpKeDlYY3Jka0daa3ptenFzeTdqQ3JjNTNyMHA5dWpJU3JJYWlhcGhn?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[menshealth.com](https://news.google.com/rss/articles/CBMixAJBVV95cUxOTnVMX3MwWjZwZDJUcG9GRUJRcldGa003VzQyZDBZZ1BadW1xOHg1d21yQnVJQnFSel9aZVlza2dFUkdsenlLSURMYkNSTllEdTJFODdFYTQ5RzZscWdmME9yeGFtN2NFWEk2bDlqMXh5SWVMTzNiMWZudEZYVThWZUVWRm9INmt2S3QxU1NqeWphRFRwSmROOGI4dU1XQWVFUUZuajhRSW1MaXM1SGtaUEFpbU5HcTlZNm82SzN3dUl0a3RhSFF0S251ejExMGtvZG45WkczbVI5cDlBR1QwelFNS0lXWmtKRDRhSnNVWk9FNjlCNmFZNFV2NTg1M01oZEdMdUtlb1l1T2I0aWJMTUQ3RWNhb0VaemJmaEk1S1gwUDJJS1lBRlp6WFUxdjhuNVpwcHVSNVpvOEJfTHFLWVQ0WjM?oc=5)
-
----
-
-### [Hafer-, Mandel- oder Sojadrink: Studie zeigt deutliche Unterschiede gegenüber Kuhmilch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1dmbG1paFFmVm03bnBaRGpRcm5FWS1GdHN6ckdiTHVSb1FrSHVra0p6QXcybWx3bFVLSW1wTm9ydmpvaE4tQjdabF9FSlN2SWdnMjI0QWJYQnBfUW41cUxPalpqbTA2elA3czhGbHV0ZXpyTi1yYkZHNUl5RWQ3amdvcmJpWVZIMXJqcVBZWUd3REIwdEJ0TWk0X3dwMkhMOFQ5UmhtaWdSSlA2SjBQSzZTWllHaU5BZm5F?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1dmbG1paFFmVm03bnBaRGpRcm5FWS1GdHN6ckdiTHVSb1FrSHVra0p6QXcybWx3bFVLSW1wTm9ydmpvaE4tQjdabF9FSlN2SWdnMjI0QWJYQnBfUW41cUxPalpqbTA2elA3czhGbHV0ZXpyTi1yYkZHNUl5RWQ3amdvcmJpWVZIMXJqcVBZWUd3REIwdEJ0TWk0X3dwMkhMOFQ5UmhtaWdSSlA2SjBQSzZTWllHaU5BZm5F?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU9YR0lqMGo5dF9UTGlGdXVNYjlucWpGeWgtdk1qd3h1NjIxcU1GcjBKbmRfTTZTUWFjQjI1Z3JQbXhvNGhQYUhieFpGZkZrSE1XcGdTRlNWaldMX09HS3NzV3p0ckpKeDlYY3Jka0daa3ptenFzeTdqQ3JjNTNyMHA5dWpJU3JJYWlhcGhn?oc=5)
 
 ---
 
 ### [7 Surprising Benefits Of GLP-1s That Are Not About Weight Loss](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1lfbFFsZm5veHBvNlM0V1FrMTdmd2VrU0hBc1IydXlPV2hNZWF3eWdRcFJNdTB0MDJUN2NOVDlaTU8yU1BVTEtCY0lwX0JGcmxyM3lzbkhBQVprcEN0a1JmNVFidTY2TDFkQkFTVm5JMS1HX0x2SEJhX3BMVXJTV1hZcEZFbWk5bzRxMVZrODNMcVNibmNlLVF3S1dkN19DcGlfZGk3dHJzTDc5WGVnNHhPbVEtMEUyRXd3S290WjBPQQ?oc=5)
 
-2026-08-10 <span class="news-indication-tag">AF</span>
+2026-08-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
 來源：[Forbes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1lfbFFsZm5veHBvNlM0V1FrMTdmd2VrU0hBc1IydXlPV2hNZWF3eWdRcFJNdTB0MDJUN2NOVDlaTU8yU1BVTEtCY0lwX0JGcmxyM3lzbkhBQVprcEN0a1JmNVFidTY2TDFkQkFTVm5JMS1HX0x2SEJhX3BMVXJTV1hZcEZFbWk5bzRxMVZrODNMcVNibmNlLVF3S1dkN19DcGlfZGk3dHJzTDc5WGVnNHhPbVEtMEUyRXd3S290WjBPQQ?oc=5)
 
@@ -310,19 +302,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Pain, stigma and barriers to care: The burden of cysts and fibroids in Africa](https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JKVnNTdENYcHpEb2MzOXFOcmxkX3RDUk56Szc5Ulo3LVhCYUJQSElybXA4M1RGNWZTV2ZMV1ZwS0xOaVdwZ0NyME9GVm1CNnppck12Z2ZmcjJZV21nWldpTHdSQUxvRE1QODVxOVUtRXFpbUFmN1FLNzUtMWw3U2hEZmFzMmg4UU9BV01aWGQtMVNFSWgyMjRqZ0NwbXBsYkkwRzFtYnVCcG54dFJv?oc=5)
+### [Pain, stigma and barriers to care: The burden of cysts and fibroids in Africa](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0xkYUgxbzBUUGxDYUg4YzVKNF9UcHp6WU1xbkpWTjd4aTV3dTBFQS1GNWk5MVB3NGpxYW53ci03RFZyVVg3OUd6RHF5TVhHa3o4RFpjQTVxbFFDVnBMa2F2YkN5NDR2MFZMU1dQNS1xeFdmS0UyRkJjWTBuZHRtLTVEOEFNRzh2NnA5N29sR29PdGZodUY0OXVfdDhKV0hhVmtZTHRYZHBNZw?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[CNN](https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JKVnNTdENYcHpEb2MzOXFOcmxkX3RDUk56Szc5Ulo3LVhCYUJQSElybXA4M1RGNWZTV2ZMV1ZwS0xOaVdwZ0NyME9GVm1CNnppck12Z2ZmcjJZV21nWldpTHdSQUxvRE1QODVxOVUtRXFpbUFmN1FLNzUtMWw3U2hEZmFzMmg4UU9BV01aWGQtMVNFSWgyMjRqZ0NwbXBsYkkwRzFtYnVCcG54dFJv?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium empfohlen](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUdYdmVVQi1qRUVzNkRsLUppZTM4WnJIM3lsckU0S09jeVF0Q2xVcHp0cm5USy04MGQxV0hHRTZ5cndSVFBwYnA5czh6SEw3Y0d1VWE3dERHRG1WS3FNMkU5OTQzN3VpTE92bE0tcVlRTDkwMUNpMXljXzZvOWFyRmJIYmFiU2VHNWxYZVJ3Z1BOMlBBaGN0ZnFwYWk0QUFMa0ZYQjBtclNxdkNSd3lIMw?oc=5)
-
-2026-08-10 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUdYdmVVQi1qRUVzNkRsLUppZTM4WnJIM3lsckU0S09jeVF0Q2xVcHp0cm5USy04MGQxV0hHRTZ5cndSVFBwYnA5czh6SEw3Y0d1VWE3dERHRG1WS3FNMkU5OTQzN3VpTE92bE0tcVlRTDkwMUNpMXljXzZvOWFyRmJIYmFiU2VHNWxYZVJ3Z1BOMlBBaGN0ZnFwYWk0QUFMa0ZYQjBtclNxdkNSd3lIMw?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0xkYUgxbzBUUGxDYUg4YzVKNF9UcHp6WU1xbkpWTjd4aTV3dTBFQS1GNWk5MVB3NGpxYW53ci03RFZyVVg3OUd6RHF5TVhHa3o4RFpjQTVxbFFDVnBMa2F2YkN5NDR2MFZMU1dQNS1xeFdmS0UyRkJjWTBuZHRtLTVEOEFNRzh2NnA5N29sR29PdGZodUY0OXVfdDhKV0hhVmtZTHRYZHBNZw?oc=5)
 
 ---
 
@@ -334,11 +318,19 @@ permalink: /news/riociguat/
 
 ---
 
-### [Don Benito aprueba un plan para reforzar la vigilancia frente al Virus del Nilo Occidental - Radio Interior](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEE3c0hVWHFqX3FTcEV6NEcwc2otbHZjWm1QOEdqNldIQUt6ZFVuakVFS21GR0llb3FERnJfZVJJWjZNekEwZWozMjFONHFLYnFmandMbUlzN1ZCeTFaRGZBakRYQU1WRXNXZXJtVWowNVh3WVZ3Z3c3ak5LT3l1em1PYTVwS1RkMTI1RjJGQVhSeVhzNkJ0Y25xQkFsdnZsMm1Ud3F2Nmc5TElldU9sVWhHemdVOW9aeTQ0bWNjS3lmZmxkMmY0eW93?oc=5)
+### [Don Benito aprueba un plan para reforzar la vigilancia frente al Virus del Nilo Occidental](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEE3c0hVWHFqX3FTcEV6NEcwc2otbHZjWm1QOEdqNldIQUt6ZFVuakVFS21GR0llb3FERnJfZVJJWjZNekEwZWozMjFONHFLYnFmandMbUlzN1ZCeTFaRGZBakRYQU1WRXNXZXJtVWowNVh3WVZ3Z3c3ak5LT3l1em1PYTVwS1RkMTI1RjJGQVhSeVhzNkJ0Y25xQkFsdnZsMm1Ud3F2Nmc5TElldU9sVWhHemdVOW9aeTQ0bWNjS3lmZmxkMmY0eW93?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[Radio Interior](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEE3c0hVWHFqX3FTcEV6NEcwc2otbHZjWm1QOEdqNldIQUt6ZFVuakVFS21GR0llb3FERnJfZVJJWjZNekEwZWozMjFONHFLYnFmandMbUlzN1ZCeTFaRGZBakRYQU1WRXNXZXJtVWowNVh3WVZ3Z3c3ak5LT3l1em1PYTVwS1RkMTI1RjJGQVhSeVhzNkJ0Y25xQkFsdnZsMm1Ud3F2Nmc5TElldU9sVWhHemdVOW9aeTQ0bWNjS3lmZmxkMmY0eW93?oc=5)
+來源：[radiointerior.es](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEE3c0hVWHFqX3FTcEV6NEcwc2otbHZjWm1QOEdqNldIQUt6ZFVuakVFS21GR0llb3FERnJfZVJJWjZNekEwZWozMjFONHFLYnFmandMbUlzN1ZCeTFaRGZBakRYQU1WRXNXZXJtVWowNVh3WVZ3Z3c3ak5LT3l1em1PYTVwS1RkMTI1RjJGQVhSeVhzNkJ0Y25xQkFsdnZsMm1Ud3F2Nmc5TElldU9sVWhHemdVOW9aeTQ0bWNjS3lmZmxkMmY0eW93?oc=5)
+
+---
+
+### [Hafer-, Mandel- oder Sojadrink: Studie zeigt deutliche Unterschiede gegenüber Kuhmilch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1dmbG1paFFmVm03bnBaRGpRcm5FWS1GdHN6ckdiTHVSb1FrSHVra0p6QXcybWx3bFVLSW1wTm9ydmpvaE4tQjdabF9FSlN2SWdnMjI0QWJYQnBfUW41cUxPalpqbTA2elA3czhGbHV0ZXpyTi1yYkZHNUl5RWQ3amdvcmJpWVZIMXJqcVBZWUd3REIwdEJ0TWk0X3dwMkhMOFQ5UmhtaWdSSlA2SjBQSzZTWllHaU5BZm5F?oc=5)
+
+2026-08-10 <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1dmbG1paFFmVm03bnBaRGpRcm5FWS1GdHN6ckdiTHVSb1FrSHVra0p6QXcybWx3bFVLSW1wTm9ydmpvaE4tQjdabF9FSlN2SWdnMjI0QWJYQnBfUW41cUxPalpqbTA2elA3czhGbHV0ZXpyTi1yYkZHNUl5RWQ3amdvcmJpWVZIMXJqcVBZWUd3REIwdEJ0TWk0X3dwMkhMOFQ5UmhtaWdSSlA2SjBQSzZTWllHaU5BZm5F?oc=5)
 
 ---
 
