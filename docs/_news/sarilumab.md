@@ -54,19 +54,19 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（4 則）
 
-### [Morbus Crohn: Frühe Diagnose entscheidend für Langzeitverlauf - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
-
----
-
-### [Studie: Darum haben Bauernhofkinder weniger Allergien](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTld3dUczMmVmOHNIMTN4YkpQc1haSkRQSklMOHRfOE9pQXZvSVJwdUlRRlpKeWxXUm95aUxYNmphVkQ5S2VXM2lnSjR6UVJ0eFJieVg3T194RGU1c2V0aTA0eHFzZ1dVa3paT3h1MTBDYUZwYlVNVGswa3E3b3VpT2JmNkFaN3AtY0hJOGpLS1BaSVZqeEo5MXRNVFhVUWpEV0pkT0V2cEpueThjemJ1dG1Idw?oc=5)
+### [Bauernhof-Effekt: Neun Bakterien senken Asthma-Risiko um zwei Drittel - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
 
 2026-08-11 <span class="news-indication-tag">asthma</span>
 
-來源：[oekotest.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTld3dUczMmVmOHNIMTN4YkpQc1haSkRQSklMOHRfOE9pQXZvSVJwdUlRRlpKeWxXUm95aUxYNmphVkQ5S2VXM2lnSjR6UVJ0eFJieVg3T194RGU1c2V0aTA0eHFzZ1dVa3paT3h1MTBDYUZwYlVNVGswa3E3b3VpT2JmNkFaN3AtY0hJOGpLS1BaSVZqeEo5MXRNVFhVUWpEV0pkT0V2cEpueThjemJ1dG1Idw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
+
+---
+
+### [Morbus Crohn: Was über die chronische Darmerkrankung 2026 bekannt ist](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOTh1eTVwQS1UYjBKRkZoM0NiWGxad25aOTdkLU1WTnFPQUh1RFh1UDNuVWJJdnlseTdiYnhWMTJSRXNudl9paTRkdzVCLTVFRTdUUnJ0bHRoX1lLVDlzc1JRVVJZZjBnc3cwTU44T2QxNUJ6WEwyR1JTcEpnRVp6SG8xaEZkMDNhQVRJcUZnYzRqRUt1MW5BQnl2NW1wcklVSUh0U1JUU21rQnZucTMxcXVHcnVibDJxaEhWdjVwRS1mRmdkNElNMk4weGNPUQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Nordsee-Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOTh1eTVwQS1UYjBKRkZoM0NiWGxad25aOTdkLU1WTnFPQUh1RFh1UDNuVWJJdnlseTdiYnhWMTJSRXNudl9paTRkdzVCLTVFRTdUUnJ0bHRoX1lLVDlzc1JRVVJZZjBnc3cwTU44T2QxNUJ6WEwyR1JTcEpnRVp6SG8xaEZkMDNhQVRJcUZnYzRqRUt1MW5BQnl2NW1wcklVSUh0U1JUU21rQnZucTMxcXVHcnVibDJxaEhWdjVwRS1mRmdkNElNMk4weGNPUQ?oc=5)
 
 ---
 

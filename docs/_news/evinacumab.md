@@ -14,7 +14,7 @@ permalink: /news/evinacumab/
 ---
 
 <p class="key-answer" data-question="Evinacumab 有什麼相關新聞？">
-<strong>Evinacumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Evinacumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/evinacumab/
 <p><a href="{{ '/drugs/evinacumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [Así desayuna Luis, de 4 años y con diabetes tipo 1: pan integral, huevos cocidos y vegetales - Mundo Deportivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1lyRGZNeHZXQllxRmhURWduWkhZZEpCTUpteHA5M2ZRd0Z6ZzR3dFkyMWFIUTAxUEJBRWNLNVFpWV8zb0hWN3Z4WDNfMWNVNGZNTm94YTVlNklPcHlmY0VTdjM0d3dTbElfOTJyZlhQeVJjVjUwbGxZS1o5clFlbnNEakVVVE1KTmVFSUpLSEx3aG4wQXBXQWQ4bEhELWVMVTl0dXZ1MEVjdGlBdFU4SThhSGhfRnRWendaa0ltWWVqTHNKYVZQQ1dnZlUwZFJMZ2w3aktxRHkzV09q0gHqAUFVX3lxTE1UM09VUjVvVk5WdG9FUFBGZkxfbXdSOXNSY25uSGd3WjNjbWtWNWdiZTd5dWY0amJxNm9aaWhHYnZVMkFrYlRZWDllNnlJR09WZjhNSVY0UlBqd2x4bURPb3h0MkJOQzdZckJYemVQMlBLNmo5NU5BZVFMT1k2M0xhdEFwQWlIUVotbm9panNLU2hQNThoOWNBUTZjQlNZVmFpSHNwbTBhaVZ0UXJqa3V5TTBnMlZRbmE2aTdJVTJNVkR1akJuQkV2ZUFpZ3VIbUxlc0VwT2JGdm84U2c0R2NhX0FCSHZLNFJFdw?oc=5)
 
@@ -78,6 +78,14 @@ permalink: /news/evinacumab/
 
 ---
 
+### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+
+2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+
+---
+
 ### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
 2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -86,19 +94,11 @@ permalink: /news/evinacumab/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
-
-2026-08-12 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
-
----
-
 ### [Type 2 Diabetes: GLP-1 Mounjaro May Lower Heart Attack Risk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
+來源：[healthline.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
 ---
 
@@ -110,14 +110,6 @@ permalink: /news/evinacumab/
 
 ---
 
-### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
-
----
-
 ### [Wenn Diabetes-Technik auch Stress macht: CGM und Insulinpumpen haben nicht nur Vorteile](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWRod013c2JJbFAtMTk2LUMxTzhEa2FSMVptTl9CQTk0c09mcnRSeHFraWN3ZElGV0pZVWxMUnVXc3FvVXd4Zk1RUktmeXdEdFVMOHZEQTJTTzNfTlo0ZXZsdE1HbV9tanN5LWlNb1lWVEI1Nm1PVXg1RWFqWXR0ZU5CeHpnQWV3dy1xaEFNbk5QemdrLW5tbXA4X2kyV2wyVWVXTFZTUklybkhOZ29yMlpBczMyQ3c0UlVXUE1RejNLOVl3ejQ0?oc=5)
 
 2026-08-11 <span class="news-indication-tag">diabetes</span>
@@ -126,19 +118,11 @@ permalink: /news/evinacumab/
 
 ---
 
-### [Dem Diabetes den Weg abschneiden - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnMzbURZU09zQml5RGJTUkxOQzRXN1phMl9RNmkyQTB3eEVveUdZVk5mZ1VpUjIwNkRiUmRQUVF4bzJQazlfQ0NtR1NWOWxJZ29sdzNtNzZWU1B5WGYyRFpRUF9VdU5FTmd6NUtSOEJwZlZRak9xSXRXbTNWc0tkV0RwYnlaMFhJcHYzaGUzT0J2U1p5eDhjYWp3WkJITTg?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
 
-2026-08-11 <span class="news-indication-tag">diabetes</span>
+2026-08-11 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnMzbURZU09zQml5RGJTUkxOQzRXN1phMl9RNmkyQTB3eEVveUdZVk5mZ1VpUjIwNkRiUmRQUVF4bzJQazlfQ0NtR1NWOWxJZ29sdzNtNzZWU1B5WGYyRFpRUF9VdU5FTmd6NUtSOEJwZlZRak9xSXRXbTNWc0tkV0RwYnlaMFhJcHYzaGUzT0J2U1p5eDhjYWp3WkJITTg?oc=5)
-
----
-
-### [FNIP1-Gen: Seltene Mutation senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
 
 ---
 

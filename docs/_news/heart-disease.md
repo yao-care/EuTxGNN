@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# Herzerkrankung（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,13 +85,29 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Over-75s could come off cholesterol-busting statins without harm, claims study](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+### [Over-75s could come off cholesterol-busting statins without harm, claims study - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+
+2026-08-13
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+
+---
+
+### [Herzrisiko: Taillenumfang schlägt BMI um 50% bei Normalgewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1VfNlY0R1V3dTYxbGUzUzlOZnBfQzB3VDZUZnNWXzR4WUpjd3ZsM0d1enlpVkZ1TEhsbmVQNUJudWhJcG9ZVnhNRENiT1BiYWhvM05WWVR2cUJMcS1ZbmQ3ZnpFM25senM2OUN1Q0xsQWE5dmJnTTRhUGNXWDV1WENsRnBQTjhqOFRXVURJYnZ6cVRSVzZ2NjdMVWhGTFdyYWJucG1QeS1PakhOdnFsRzdMX0tuNjNHc2c?oc=5)
 
 2026-08-12
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1VfNlY0R1V3dTYxbGUzUzlOZnBfQzB3VDZUZnNWXzR4WUpjd3ZsM0d1enlpVkZ1TEhsbmVQNUJudWhJcG9ZVnhNRENiT1BiYWhvM05WWVR2cUJMcS1ZbmQ3ZnpFM25senM2OUN1Q0xsQWE5dmJnTTRhUGNXWDV1WENsRnBQTjhqOFRXVURJYnZ6cVRSVzZ2NjdMVWhGTFdyYWJucG1QeS1PakhOdnFsRzdMX0tuNjNHc2c?oc=5)
+
+---
+
+### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
+
+2026-08-11
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
 ---
 

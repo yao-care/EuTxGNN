@@ -55,6 +55,14 @@ permalink: /news/hepatitis/
 
 ## 相關新聞（3 則）
 
+### [England set to be one of the first countries to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
+
+2026-08-11
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
+
+---
+
 ### [England ist auf dem besten Weg, eines der ersten Länder zu werden, in denen Hepatitis C ausgerottet wird - Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
 
 2026-08-11
@@ -63,19 +71,11 @@ permalink: /news/hepatitis/
 
 ---
 
-### [England 'on the cusp' of eliminating hepatitis C, health officials say - Sky News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVENwaklRRXJ5QlhqbFlTSGRHNWVJT2dOUXYyenkwc3JLLXZmc0FPRGx2bFJNWjJyWmMtUVp3WjJjekNaRENWNGxjV0hyYnZGdzlRYnZrTDRjYVY3T0xfOHNjWG5CTE41MzNnNTlId05fVzZ5akp6MkhUakxmWnB6U0Z2ZW1pMzhnNk5VZUtIOVRMS2xEQ0dPQUptdFQ1emllZzVLUnNn?oc=5)
+### [Hepatitis-A-Impfung wirkt früh: 86,3% Serokonversion nach 15 Tagen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2Vvb2FwS2NyRFhTMzFkZm5LY2lvWnlhbTV4aVlvVlF1ampJNVFaUlczMU5IV2xOcGNrYTd1cTIwejB0SWxUd092aDhoWEZBV2l4MHNiREhwODRUc0xrTGt0UGs0dFhOUHVScUk4T1FrTE1ER3NLejNxWHRLTHRLOWpHZmZKR1l2N2VtenhaWGhQR0RpVF8zSzY4c28?oc=5)
 
 2026-08-11
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVENwaklRRXJ5QlhqbFlTSGRHNWVJT2dOUXYyenkwc3JLLXZmc0FPRGx2bFJNWjJyWmMtUVp3WjJjekNaRENWNGxjV0hyYnZGdzlRYnZrTDRjYVY3T0xfOHNjWG5CTE41MzNnNTlId05fVzZ5akp6MkhUakxmWnB6U0Z2ZW1pMzhnNk5VZUtIOVRMS2xEQ0dPQUptdFQ1emllZzVLUnNn?oc=5)
-
----
-
-### [Hepatitis A: Prävention bleibt bei Risikogruppen entscheidend](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
-
-2026-08-11
-
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2Vvb2FwS2NyRFhTMzFkZm5LY2lvWnlhbTV4aVlvVlF1ampJNVFaUlczMU5IV2xOcGNrYTd1cTIwejB0SWxUd092aDhoWEZBV2l4MHNiREhwODRUc0xrTGt0UGs0dFhOUHVScUk4T1FrTE1ER3NLejNxWHRLTHRLOWpHZmZKR1l2N2VtenhaWGhQR0RpVF8zSzY4c28?oc=5)
 
 ---
 

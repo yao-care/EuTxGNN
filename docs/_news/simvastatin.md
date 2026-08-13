@@ -54,14 +54,6 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（6 則）
 
-### [Bluthochdruck: Höhere Kaliumzufuhr senkt Schlaganfallrisiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
-
----
-
 ### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGVtNGJ4eTBBQ2RJQnJjVTY3WEZmRXdpcDBnZTdZOHJyT1Nkako1dlRIWk9NSG5ZZElBQXBmMzMwQy1JTWU1VGZGRHQ1VjVYeHhSUVpjWm9LLVFVVTZfX2JDcEl2NWFoeFBxOWFnOGN6VTBqcFFwTlgwTFp0S2Y3c0ZoSUJyUDljbFpTVm42dG1IanZ1TzY2elJJbUFQSjUxZ2xUYlFKdEg1bzZwTXNYMmMtUGppQWV3OWtseF9iWGJVd2JXYVVlLWx1Wlg5bmxPaHJJ?oc=5)
 
 2026-08-12 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
@@ -74,7 +66,15 @@ permalink: /news/simvastatin/
 
 2026-08-11 <span class="news-indication-tag">stroke</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTE14WmQ5Vnd0dGNWTFVnaU1LNG1SOUZIT0p4NWd1a19qRmJac1dXOGVReEVDMnlaRHZBenplTF9Xei1QdVp4RGxMOWxwTVZXOU9mWGhSaFd4Yk9BNFoyOVZ6c29JRzZTcVpGSnJzdUp5VWwtVkU?oc=5)
+來源：[eatingwell.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE14WmQ5Vnd0dGNWTFVnaU1LNG1SOUZIT0p4NWd1a19qRmJac1dXOGVReEVDMnlaRHZBenplTF9Xei1QdVp4RGxMOWxwTVZXOU9mWGhSaFd4Yk9BNFoyOVZ6c29JRzZTcVpGSnJzdUp5VWwtVkU?oc=5)
+
+---
+
+### [Type 2 Diabetes: GLP-1 Mounjaro May Lower Heart Attack Risk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
+
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[healthline.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
 ---
 

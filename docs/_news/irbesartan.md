@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Irbesartan 有什麼相關新聞？">
-<strong>Irbesartan</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Irbesartan</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/irbesartan/
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（27 則）
+
+### [Pankreaskrebs: Neuer Bluttest erkennt frühe Stadien zu 90% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+
+---
+
+### [Over-75s could come off cholesterol-busting statins without harm, claims study - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+
+2026-08-13 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+
+---
+
+### [Warning over free blood pressure checks as NHS introduces new rule - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
+
+2026-08-12 <span class="news-indication-tag">hypertension</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
+
+---
 
 ### [Así desayuna Luis, de 4 años y con diabetes tipo 1: pan integral, huevos cocidos y vegetales - Mundo Deportivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1lyRGZNeHZXQllxRmhURWduWkhZZEpCTUpteHA5M2ZRd0Z6ZzR3dFkyMWFIUTAxUEJBRWNLNVFpWV8zb0hWN3Z4WDNfMWNVNGZNTm94YTVlNklPcHlmY0VTdjM0d3dTbElfOTJyZlhQeVJjVjUwbGxZS1o5clFlbnNEakVVVE1KTmVFSUpLSEx3aG4wQXBXQWQ4bEhELWVMVTl0dXZ1MEVjdGlBdFU4SThhSGhfRnRWendaa0ltWWVqTHNKYVZQQ1dnZlUwZFJMZ2w3aktxRHkzV09q0gHqAUFVX3lxTE1UM09VUjVvVk5WdG9FUFBGZkxfbXdSOXNSY25uSGd3WjNjbWtWNWdiZTd5dWY0amJxNm9aaWhHYnZVMkFrYlRZWDllNnlJR09WZjhNSVY0UlBqd2x4bURPb3h0MkJOQzdZckJYemVQMlBLNmo5NU5BZVFMT1k2M0xhdEFwQWlIUVotbm9panNLU2hQNThoOWNBUTZjQlNZVmFpSHNwbTBhaVZ0UXJqa3V5TTBnMlZRbmE2aTdJVTJNVkR1akJuQkV2ZUFpZ3VIbUxlc0VwT2JGdm84U2c0R2NhX0FCSHZLNFJFdw?oc=5)
 
@@ -70,11 +94,35 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Herzrisiko: Taillenumfang schlägt BMI um 50% bei Normalgewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1VfNlY0R1V3dTYxbGUzUzlOZnBfQzB3VDZUZnNWXzR4WUpjd3ZsM0d1enlpVkZ1TEhsbmVQNUJudWhJcG9ZVnhNRENiT1BiYWhvM05WWVR2cUJMcS1ZbmQ3ZnpFM25senM2OUN1Q0xsQWE5dmJnTTRhUGNXWDV1WENsRnBQTjhqOFRXVURJYnZ6cVRSVzZ2NjdMVWhGTFdyYWJucG1QeS1PakhOdnFsRzdMX0tuNjNHc2c?oc=5)
+
+2026-08-12 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1VfNlY0R1V3dTYxbGUzUzlOZnBfQzB3VDZUZnNWXzR4WUpjd3ZsM0d1enlpVkZ1TEhsbmVQNUJudWhJcG9ZVnhNRENiT1BiYWhvM05WWVR2cUJMcS1ZbmQ3ZnpFM25senM2OUN1Q0xsQWE5dmJnTTRhUGNXWDV1WENsRnBQTjhqOFRXVURJYnZ6cVRSVzZ2NjdMVWhGTFdyYWJucG1QeS1PakhOdnFsRzdMX0tuNjNHc2c?oc=5)
+
+---
+
 ### [Diabetes im Alter: Mangelernährung frühzeitig erkennen](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkNJcERzY0NFWGFqZm5ZUDNYM2dRSkpoZ3pLSGJwT19RSWcyQ0N4RjAxWV92Zzc3WGI3cm54cTRJVXBUT2lmZG1IM3VpX29ROFBmeVNSTjVkc3V3di1CdlhzTlBpY3dGMHNqY2l5MkMtZVNmcDIySlotV0FrV1Q1Mi1iZXFseDJBMmc?oc=5)
 
 2026-08-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[altenheim.net](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkNJcERzY0NFWGFqZm5ZUDNYM2dRSkpoZ3pLSGJwT19RSWcyQ0N4RjAxWV92Zzc3WGI3cm54cTRJVXBUT2lmZG1IM3VpX29ROFBmeVNSTjVkc3V3di1CdlhzTlBpY3dGMHNqY2l5MkMtZVNmcDIySlotV0FrV1Q1Mi1iZXFseDJBMmc?oc=5)
+
+---
+
+### [All’ospedale di Villafranca chirurgia epatica complessa grazie all'innovazione tecnologica e al lavoro di squadra](https://news.google.com/rss/articles/CBMihAJBVV95cUxNOU42OGtIcWJtNTlDVWlxdXNSZ0hRc0l6LU9DVEpPeU5DMllWalJRWkZOMkg2NW1LQmgwVkFWd3lMQVJnb09IakZXM1ZZb0hxc3BQZTdTRzQweDl6VUVWdXJTQUs3VHhjbFJIRkU0eGdvc3ZaQmNGQ0s5aUtENHdrZHRTaXVSWFN1dzhYRmhuMjFOLV9GTkNJcGFTUDIwT2NIZGprUm1rTFkyS2paX1IydUhtQ05KcFRTZHJkU2kxT01tRkM1b0NsYTNjY2xZbzJOWVNrY3JBcHh0N1VnankyX0RhOUZJcE8zWkRla0kwUXNKaXphTWM3c1E1QUYtamg2aXdrdNIBigJBVV95cUxOZ2Q4U3JDM0t1aHlYR19FZUJDQ1hzXzFQM0E5S2tmV1pkd2tXa3F6RlczNGttM0dVVmZJLWY1ZC0zVUZvZS14MVRDRzJhNXRfUHMxcS1NUVJPLTZZamdwUjRhdGVGeWdmQTRoN0NrcDk1TnRoSDdZbVZiOTJYaDh4QUxEVkJFTEotbHpvQVh5b3RWeEM1cWZSSWdCd1dlSVdRZ1BXaC1yZlZDYUtkYmFhWkdkTTJ1dHAxckFGdE9KbDNfVHp0V2lJT1g3Z01OcGpkaHQ4bW5uaUpvMU5SUU85MXdVc1FVT3liN2NzTFNWcDlDemhwWXpMUk5jREZDMS05MWlYLU9hOWFsUQ?oc=5)
+
+2026-08-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMihAJBVV95cUxNOU42OGtIcWJtNTlDVWlxdXNSZ0hRc0l6LU9DVEpPeU5DMllWalJRWkZOMkg2NW1LQmgwVkFWd3lMQVJnb09IakZXM1ZZb0hxc3BQZTdTRzQweDl6VUVWdXJTQUs3VHhjbFJIRkU0eGdvc3ZaQmNGQ0s5aUtENHdrZHRTaXVSWFN1dzhYRmhuMjFOLV9GTkNJcGFTUDIwT2NIZGprUm1rTFkyS2paX1IydUhtQ05KcFRTZHJkU2kxT01tRkM1b0NsYTNjY2xZbzJOWVNrY3JBcHh0N1VnankyX0RhOUZJcE8zWkRla0kwUXNKaXphTWM3c1E1QUYtamg2aXdrdNIBigJBVV95cUxOZ2Q4U3JDM0t1aHlYR19FZUJDQ1hzXzFQM0E5S2tmV1pkd2tXa3F6RlczNGttM0dVVmZJLWY1ZC0zVUZvZS14MVRDRzJhNXRfUHMxcS1NUVJPLTZZamdwUjRhdGVGeWdmQTRoN0NrcDk1TnRoSDdZbVZiOTJYaDh4QUxEVkJFTEotbHpvQVh5b3RWeEM1cWZSSWdCd1dlSVdRZ1BXaC1yZlZDYUtkYmFhWkdkTTJ1dHAxckFGdE9KbDNfVHp0V2lJT1g3Z01OcGpkaHQ4bW5uaUpvMU5SUU85MXdVc1FVT3liN2NzTFNWcDlDemhwWXpMUk5jREZDMS05MWlYLU9hOWFsUQ?oc=5)
+
+---
+
+### [We were told my 'perfectly healthy' girl had tonsilitis… it was a rare cancer - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFZlM0ZHZ1FuWVJTVkV5c05HRm0zWEpCUDJSbTdRc3NYNVdleHR1TGtsbTI5MmFwWW5fS2N2enE5bDRTbng0OERieGtIcG5nT1AyQXJrTTZ1YkhNUEw1d1c5REE4TWlBOXNKamF0TmxDeUdLWjJORXoyMHYtWGNDbWFFMXc5R29oZFZ6S1ZBSQ?oc=5)
+
+2026-08-12 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFZlM0ZHZ1FuWVJTVkV5c05HRm0zWEpCUDJSbTdRc3NYNVdleHR1TGtsbTI5MmFwWW5fS2N2enE5bDRTbng0OERieGtIcG5nT1AyQXJrTTZ1YkhNUEw1d1c5REE4TWlBOXNKamF0TmxDeUdLWjJORXoyMHYtWGNDbWFFMXc5R29oZFZ6S1ZBSQ?oc=5)
 
 ---
 
@@ -86,11 +134,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Bluthochdruck: Höhere Kaliumzufuhr senkt Schlaganfallrisiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
+### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
-2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
+來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 ---
 
@@ -102,35 +150,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Over-75s could come off cholesterol-busting statins without harm, claims study](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
-
----
-
 ### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
 2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
-
----
-
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
-
-2026-08-12 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
-
----
-
-### [Brokkoli-Sulforaphan: Was die Studien zu Krebsprävention wirklich nahelegen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjJfYTR2ZnIxRnNSNTFQRnlWdlhIT0ZpaHdHT1hHcUZtODB6UG5MaXZOYXRna3hUSHZ2bHFGZ29EbW1QQUYxVFl1OGoyM2pHcGtBeHlBb1R2Uy0zRHowUTUzY0RTSWY1OXUwMWcyNi1ULXJBdm44RHVHTURMY3BoaUFxeU0xX29CT05TdXRfUldSOXBZMTkxWFBqOUd6ZWlLa3l5T1pUbUtlYjA?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Krebs</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjJfYTR2ZnIxRnNSNTFQRnlWdlhIT0ZpaHdHT1hHcUZtODB6UG5MaXZOYXRna3hUSHZ2bHFGZ29EbW1QQUYxVFl1OGoyM2pHcGtBeHlBb1R2Uy0zRHowUTUzY0RTSWY1OXUwMWcyNi1ULXJBdm44RHVHTURMY3BoaUFxeU0xX29CT05TdXRfUldSOXBZMTkxWFBqOUd6ZWlLa3l5T1pUbUtlYjA?oc=5)
 
 ---
 
@@ -144,9 +168,9 @@ permalink: /news/irbesartan/
 
 ### [Type 2 Diabetes: GLP-1 Mounjaro May Lower Heart Attack Risk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
+來源：[healthline.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
 ---
 
@@ -158,14 +182,6 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Doctor warns of three invisible cancer symptoms millions dismiss as getting older - GB News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRlZIckNfdnI0UE9fbWhkSjN3cURhN21ZbGF0azJyVndGN0tpcUJ1Snd2LWtQRzNTTDdhanJPaV93Z2JDNm5vMkZiOFdrd2ZhUlRJcEZlaGpzNk5ZVkQwUDV5S2RobXdlMmJWRlBGYW91WkI3Ulk0alR6ekZpZw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRlZIckNfdnI0UE9fbWhkSjN3cURhN21ZbGF0azJyVndGN0tpcUJ1Snd2LWtQRzNTTDdhanJPaV93Z2JDNm5vMkZiOFdrd2ZhUlRJcEZlaGpzNk5ZVkQwUDV5S2RobXdlMmJWRlBGYW91WkI3Ulk0alR6ekZpZw?oc=5)
-
----
-
 ### ["I feel 20 years younger!" OAP sheds seven stone and reverses diabetes in weight loss win - Daily Record](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmYwcWM1c19SRUxIYll5X2ItTDVsREVtUnlsNFJZa2hkVmpPSzBjYURLbTlUY0VSSDhKWVJKUFd1MURIOEVGNGhXMW4xd3NsSkFSSVNfRUhNX21HZ1VOLXptLThqeEpwQWRpWmtfckM1VmxkckJTV1hnYXl0bVBYV2JLcllVRzNx0gGOAUFVX3lxTE1iZVJ4QmswTlhKbjlORFprUE95aXB5Z014Sy05dGpzUnp5cUhodGlIbnIwNFBzN3p4NmNNSzNHUUFmMnJjM3J6NjAxNUJuRkE5aFNjUEFjckZNeDM3blllTzZVNXVIWnJnQ0hnNHZnb0lKZWhlR1lKZDJ6QjFwaC1kVVhfd0M1LWhJTDRIbGc?oc=5)
 
 2026-08-11 <span class="news-indication-tag">diabetes</span>
@@ -174,11 +190,19 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
+
+---
+
 ### [‘Gym penis’ – what it means and whether it’s actually a real thing](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
 
 2026-08-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[PinkNews](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
+來源：[thepinknews.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
 
 ---
 
@@ -187,14 +211,6 @@ permalink: /news/irbesartan/
 2026-08-11 <span class="news-indication-tag">Krebs</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHYwYlhTQXF4RlFuZ0ZaVE41MU4talZFbEtsZVNxMUtidFRFZVBSOHJmR0RySGZFbDg5VmxtNWNiOWlPa2dSVlRGNzA1OFlDMGlNUGNjRHhCSDBPVENRSDhQYzQtZzRRc1FXRk00WktxWWRHMlFJbWtXLWNobXQ0RFk2NGE0QnJ2S1N0MGN1ZE03TWNRUjVmenpPZm1vMF92ZlJPcE0wakc4Q2U1WDBTcm1IZU8zN0pFRzU3NURNbFRCQQ?oc=5)
-
----
-
-### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
 
 ---
 
@@ -230,59 +246,27 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxQamFQc0duSjNDRl9ld1p6ZmF3cldIZzVHT2hINEo3ZDJ3c1lXc1VGY0R0cUV1THVBelFZYjdqdDVXQTMwR1g2S3hLM0p2TW1MX2djQWJWc2FqRFdNX2hGUWxOSnhjTDE4OWpGbDJ4ekpxZE1GT3FpR285cHFaMldWYmhjT1RRdTV4VEg4Y293SkZIYmJCeF9iZmFyRlE4ZG14QnpMY0RR?oc=5)
+### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Soester Anzeiger](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFduNDhEQzhlVnh5SWJ2dVJTUlFfN19jbFBHcklkYUtjTEhlVWVaYVFUeHo2V3hweVVXMGRZRWlMMjVHVFN5LTBTalRHcjkwWm1MYUtta0ZUNXhEem1GRGhnTWdKa0dKc0RsX2N3eU9kQjVqaUVPWVhfbElHNDlLUnlaSnVXUTM0Rk9adi1LMUVtR1dzQVpnTXFHV1JjR2NYdENsMFQ5R3k1Vk4xRkhYNG9ZaGVZY0twV0p3RWhFZDJITE0?oc=5)
 
 2026-08-11 <span class="news-indication-tag">Krebs</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxQamFQc0duSjNDRl9ld1p6ZmF3cldIZzVHT2hINEo3ZDJ3c1lXc1VGY0R0cUV1THVBelFZYjdqdDVXQTMwR1g2S3hLM0p2TW1MX2djQWJWc2FqRFdNX2hGUWxOSnhjTDE4OWpGbDJ4ekpxZE1GT3FpR285cHFaMldWYmhjT1RRdTV4VEg4Y293SkZIYmJCeF9iZmFyRlE4ZG14QnpMY0RR?oc=5)
+來源：[Soester Anzeiger](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFduNDhEQzhlVnh5SWJ2dVJTUlFfN19jbFBHcklkYUtjTEhlVWVaYVFUeHo2V3hweVVXMGRZRWlMMjVHVFN5LTBTalRHcjkwWm1MYUtta0ZUNXhEem1GRGhnTWdKa0dKc0RsX2N3eU9kQjVqaUVPWVhfbElHNDlLUnlaSnVXUTM0Rk9adi1LMUVtR1dzQVpnTXFHV1JjR2NYdENsMFQ5R3k1Vk4xRkhYNG9ZaGVZY0twV0p3RWhFZDJITE0?oc=5)
 
 ---
 
-### [Virgil Abloh, il tumore rarissimo al cuore che lo ha ucciso a soli 41 anni](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVNlcjZhVE1SUmxTX0dnTEV2M2E4aGxscXpkdm1jX3ltemVraTdZczdfbURlRXJBY3hJNFByZUctS0ltc0ZOS0NMZkZGNHNEMWJSM241Q05fQnJSaFhpZm8wa25EeEVka21lajAyWWwxelRjN0pyelZZU0xnRzVQMFFwRzg5N2JpQkdMR2pRY1p4MzJwY3ZIT2plV2ZDdzZNRFE1MEFCVnpXTzBVWUlOSmZVNFMzUWlTbURONTgtay1QOGMxUGJZaWsyMTA?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
+
+2026-08-11 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
+
+---
+
+### [Germán y su nueva vida con el tumor cerebral más agresivo: conectado a una máquina las 24 horas y con el apoyo incondicional de su mujer - La Nueva España](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmgxcWx1VHVqNlFtUHhGT1VLc1JoTWJnc3VmbElKbzU4SDg1V0JDSHlmU2pRODRwZE1GLVJsZTFaNXNlelBGRURjV3lkOEVRamhxMFFLbENDdlNxYTdJWEE5RXliUDQ0UUhEVHBJZnJlXzlua2YxVkxRSWtac1pZODZFdklHdXQwalg3YWtuSFBfUU1yYXVjbzQ5anNoVTBmaE5KZEliWTNlQVJwUlHSAbMBQVVfeXFMUHh2cjBtUi1laWtWVjJRTlA3a3UtakVfVm9RV2J5eVBQY1JGTGNvM3FfalUzaFNsb3NNcjVNNjlvTUFHaU1nU3pWREI5dVUzeXVzMVFnR0xrZ0x3QVNoajFSQWEwcFhZVW8zcEhmREJlNng2ZjFFQmItSkhDek5hbGJPVDhYT2Itckh0NGRnbFNrUHBSeVR6VGhEdzMwTjNiT0x6cUYzT3dZd2hCbW00TS1KVE0?oc=5)
 
 2026-08-11 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVNlcjZhVE1SUmxTX0dnTEV2M2E4aGxscXpkdm1jX3ltemVraTdZczdfbURlRXJBY3hJNFByZUctS0ltc0ZOS0NMZkZGNHNEMWJSM241Q05fQnJSaFhpZm8wa25EeEVka21lajAyWWwxelRjN0pyelZZU0xnRzVQMFFwRzg5N2JpQkdMR2pRY1p4MzJwY3ZIT2plV2ZDdzZNRFE1MEFCVnpXTzBVWUlOSmZVNFMzUWlTbURONTgtay1QOGMxUGJZaWsyMTA?oc=5)
-
----
-
-### [Germán y su nueva vida con el tumor cerebral más agresivo: conectado a una máquina las 24 horas y con el apoyo incondicional de su mujer](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmgxcWx1VHVqNlFtUHhGT1VLc1JoTWJnc3VmbElKbzU4SDg1V0JDSHlmU2pRODRwZE1GLVJsZTFaNXNlelBGRURjV3lkOEVRamhxMFFLbENDdlNxYTdJWEE5RXliUDQ0UUhEVHBJZnJlXzlua2YxVkxRSWtac1pZODZFdklHdXQwalg3YWtuSFBfUU1yYXVjbzQ5anNoVTBmaE5KZEliWTNlQVJwUlHSAbMBQVVfeXFMUHh2cjBtUi1laWtWVjJRTlA3a3UtakVfVm9RV2J5eVBQY1JGTGNvM3FfalUzaFNsb3NNcjVNNjlvTUFHaU1nU3pWREI5dVUzeXVzMVFnR0xrZ0x3QVNoajFSQWEwcFhZVW8zcEhmREJlNng2ZjFFQmItSkhDek5hbGJPVDhYT2Itckh0NGRnbFNrUHBSeVR6VGhEdzMwTjNiT0x6cUYzT3dZd2hCbW00TS1KVE0?oc=5)
-
-2026-08-11 <span class="news-indication-tag">tumor</span>
-
-來源：[LNE](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmgxcWx1VHVqNlFtUHhGT1VLc1JoTWJnc3VmbElKbzU4SDg1V0JDSHlmU2pRODRwZE1GLVJsZTFaNXNlelBGRURjV3lkOEVRamhxMFFLbENDdlNxYTdJWEE5RXliUDQ0UUhEVHBJZnJlXzlua2YxVkxRSWtac1pZODZFdklHdXQwalg3YWtuSFBfUU1yYXVjbzQ5anNoVTBmaE5KZEliWTNlQVJwUlHSAbMBQVVfeXFMUHh2cjBtUi1laWtWVjJRTlA3a3UtakVfVm9RV2J5eVBQY1JGTGNvM3FfalUzaFNsb3NNcjVNNjlvTUFHaU1nU3pWREI5dVUzeXVzMVFnR0xrZ0x3QVNoajFSQWEwcFhZVW8zcEhmREJlNng2ZjFFQmItSkhDek5hbGJPVDhYT2Itckh0NGRnbFNrUHBSeVR6VGhEdzMwTjNiT0x6cUYzT3dZd2hCbW00TS1KVE0?oc=5)
-
----
-
-### [Dem Diabetes den Weg abschneiden - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnMzbURZU09zQml5RGJTUkxOQzRXN1phMl9RNmkyQTB3eEVveUdZVk5mZ1VpUjIwNkRiUmRQUVF4bzJQazlfQ0NtR1NWOWxJZ29sdzNtNzZWU1B5WGYyRFpRUF9VdU5FTmd6NUtSOEJwZlZRak9xSXRXbTNWc0tkV0RwYnlaMFhJcHYzaGUzT0J2U1p5eDhjYWp3WkJITTg?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnMzbURZU09zQml5RGJTUkxOQzRXN1phMl9RNmkyQTB3eEVveUdZVk5mZ1VpUjIwNkRiUmRQUVF4bzJQazlfQ0NtR1NWOWxJZ29sdzNtNzZWU1B5WGYyRFpRUF9VdU5FTmd6NUtSOEJwZlZRak9xSXRXbTNWc0tkV0RwYnlaMFhJcHYzaGUzT0J2U1p5eDhjYWp3WkJITTg?oc=5)
-
----
-
-### [FNIP1-Gen: Seltene Mutation senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
-
----
-
-### [Traditional prostate cancer risk factors do not predict hormone therapy benefit, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzlsU1hHSjAtdVk2V0JsdXJmbzZmY25JSHNMNkVSUE0wOU93YmRoRFhtRVVzUlYzRzdxYkVub2tYZFoxOXhENGxuZTZiYTZSTXRYall2T1RfYW83VlBQOFE1U0prX3ZVWGZxdGtPc1l6ZTl6ZEFiazdhR09wZWRlTmhyNTR4U1RDSkM3RzF2Vng?oc=5)
-
-2026-08-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzlsU1hHSjAtdVk2V0JsdXJmbzZmY25JSHNMNkVSUE0wOU93YmRoRFhtRVVzUlYzRzdxYkVub2tYZFoxOXhENGxuZTZiYTZSTXRYall2T1RfYW83VlBQOFE1U0prX3ZVWGZxdGtPc1l6ZTl6ZEFiazdhR09wZWRlTmhyNTR4U1RDSkM3RzF2Vng?oc=5)
-
----
-
-### [Le Viagra permettrait de lutter contre le cancer](https://news.google.com/rss/articles/CBMirgJBVV95cUxOQlBSQ1VqRFFrMjRsSFZCNnQyMWw4YmZ6bmtZU1I2LXkwUFBCamh2MTUxa3FhSk4yeUhLSldZWFlDeDhvQ0J6TGtmM3ZoenN1MjZXZ3VOeEU4Zkttc0NRVGJBZzNvMUpseDY1UHp5c3BqOHlMRWxZMFlIM1hhRHc2UENEdGRySmcyeGY2MU9aOEJqVjhfQkZ0TWhrX1Y4ODdmY2pBTG54YzNNVlJrOWd4MHI4aXdicHpwZnJsT0ZpS0VlUnhXVVpWQXJXZkllYklxanhVTXpiSzNpcVRZVXVVUFJURlBrVnM0R2t3S2ZMVUVXUC1fb3Ricjh6cTlJVXI2cXpKOENYSXVkRWZhajlURUJ4QzV6SE1odUlJbTNQSHl0cUFXWnU1Q09nTFhHZw?oc=5)
-
-2026-08-10 <span class="news-indication-tag">cancer</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMirgJBVV95cUxOQlBSQ1VqRFFrMjRsSFZCNnQyMWw4YmZ6bmtZU1I2LXkwUFBCamh2MTUxa3FhSk4yeUhLSldZWFlDeDhvQ0J6TGtmM3ZoenN1MjZXZ3VOeEU4Zkttc0NRVGJBZzNvMUpseDY1UHp5c3BqOHlMRWxZMFlIM1hhRHc2UENEdGRySmcyeGY2MU9aOEJqVjhfQkZ0TWhrX1Y4ODdmY2pBTG54YzNNVlJrOWd4MHI4aXdicHpwZnJsT0ZpS0VlUnhXVVpWQXJXZkllYklxanhVTXpiSzNpcVRZVXVVUFJURlBrVnM0R2t3S2ZMVUVXUC1fb3Ricjh6cTlJVXI2cXpKOENYSXVkRWZhajlURUJ4QzV6SE1odUlJbTNQSHl0cUFXWnU1Q09nTFhHZw?oc=5)
+來源：[La Nueva España](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmgxcWx1VHVqNlFtUHhGT1VLc1JoTWJnc3VmbElKbzU4SDg1V0JDSHlmU2pRODRwZE1GLVJsZTFaNXNlelBGRURjV3lkOEVRamhxMFFLbENDdlNxYTdJWEE5RXliUDQ0UUhEVHBJZnJlXzlua2YxVkxRSWtac1pZODZFdklHdXQwalg3YWtuSFBfUU1yYXVjbzQ5anNoVTBmaE5KZEliWTNlQVJwUlHSAbMBQVVfeXFMUHh2cjBtUi1laWtWVjJRTlA3a3UtakVfVm9RV2J5eVBQY1JGTGNvM3FfalUzaFNsb3NNcjVNNjlvTUFHaU1nU3pWREI5dVUzeXVzMVFnR0xrZ0x3QVNoajFSQWEwcFhZVW8zcEhmREJlNng2ZjFFQmItSkhDek5hbGJPVDhYT2Itckh0NGRnbFNrUHBSeVR6VGhEdzMwTjNiT0x6cUYzT3dZd2hCbW00TS1KVE0?oc=5)
 
 ---
 

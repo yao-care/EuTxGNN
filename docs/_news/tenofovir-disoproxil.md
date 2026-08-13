@@ -14,7 +14,7 @@ permalink: /news/tenofovir-disoproxil/
 ---
 
 <p class="key-answer" data-question="Tenofovir Disoproxil 有什麼相關新聞？">
-<strong>Tenofovir Disoproxil</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenofovir Disoproxil</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tenofovir-disoproxil/
 <p><a href="{{ '/drugs/tenofovir-disoproxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（17 則）
+
+### [Pankreaskrebs: Neuer Bluttest erkennt frühe Stadien zu 90% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+
+---
 
 ### [15 Minuten Bewegung: Studie sieht 2% weniger Krebsrisiko - it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0JPU1djZ2w1UHNDdEhLeVVyRmRHdThjc25rSVNCc05qVFo4NThReGVGSGItZWtkLTM4SVRSS25GV2YwNTdOYjBjdVpfN0ZzdUFaZ3IyQWJzXzBzcC16c0NRRlJNYzB2TGp6MXRSRG9iUWRCdHNpekJjQm1nbVpCWmdXZDQwY3gxNl81WFNoNA?oc=5)
 
@@ -62,19 +70,27 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
+### [All’ospedale di Villafranca chirurgia epatica complessa grazie all'innovazione tecnologica e al lavoro di squadra](https://news.google.com/rss/articles/CBMihAJBVV95cUxNOU42OGtIcWJtNTlDVWlxdXNSZ0hRc0l6LU9DVEpPeU5DMllWalJRWkZOMkg2NW1LQmgwVkFWd3lMQVJnb09IakZXM1ZZb0hxc3BQZTdTRzQweDl6VUVWdXJTQUs3VHhjbFJIRkU0eGdvc3ZaQmNGQ0s5aUtENHdrZHRTaXVSWFN1dzhYRmhuMjFOLV9GTkNJcGFTUDIwT2NIZGprUm1rTFkyS2paX1IydUhtQ05KcFRTZHJkU2kxT01tRkM1b0NsYTNjY2xZbzJOWVNrY3JBcHh0N1VnankyX0RhOUZJcE8zWkRla0kwUXNKaXphTWM3c1E1QUYtamg2aXdrdNIBigJBVV95cUxOZ2Q4U3JDM0t1aHlYR19FZUJDQ1hzXzFQM0E5S2tmV1pkd2tXa3F6RlczNGttM0dVVmZJLWY1ZC0zVUZvZS14MVRDRzJhNXRfUHMxcS1NUVJPLTZZamdwUjRhdGVGeWdmQTRoN0NrcDk1TnRoSDdZbVZiOTJYaDh4QUxEVkJFTEotbHpvQVh5b3RWeEM1cWZSSWdCd1dlSVdRZ1BXaC1yZlZDYUtkYmFhWkdkTTJ1dHAxckFGdE9KbDNfVHp0V2lJT1g3Z01OcGpkaHQ4bW5uaUpvMU5SUU85MXdVc1FVT3liN2NzTFNWcDlDemhwWXpMUk5jREZDMS05MWlYLU9hOWFsUQ?oc=5)
+
+2026-08-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMihAJBVV95cUxNOU42OGtIcWJtNTlDVWlxdXNSZ0hRc0l6LU9DVEpPeU5DMllWalJRWkZOMkg2NW1LQmgwVkFWd3lMQVJnb09IakZXM1ZZb0hxc3BQZTdTRzQweDl6VUVWdXJTQUs3VHhjbFJIRkU0eGdvc3ZaQmNGQ0s5aUtENHdrZHRTaXVSWFN1dzhYRmhuMjFOLV9GTkNJcGFTUDIwT2NIZGprUm1rTFkyS2paX1IydUhtQ05KcFRTZHJkU2kxT01tRkM1b0NsYTNjY2xZbzJOWVNrY3JBcHh0N1VnankyX0RhOUZJcE8zWkRla0kwUXNKaXphTWM3c1E1QUYtamg2aXdrdNIBigJBVV95cUxOZ2Q4U3JDM0t1aHlYR19FZUJDQ1hzXzFQM0E5S2tmV1pkd2tXa3F6RlczNGttM0dVVmZJLWY1ZC0zVUZvZS14MVRDRzJhNXRfUHMxcS1NUVJPLTZZamdwUjRhdGVGeWdmQTRoN0NrcDk1TnRoSDdZbVZiOTJYaDh4QUxEVkJFTEotbHpvQVh5b3RWeEM1cWZSSWdCd1dlSVdRZ1BXaC1yZlZDYUtkYmFhWkdkTTJ1dHAxckFGdE9KbDNfVHp0V2lJT1g3Z01OcGpkaHQ4bW5uaUpvMU5SUU85MXdVc1FVT3liN2NzTFNWcDlDemhwWXpMUk5jREZDMS05MWlYLU9hOWFsUQ?oc=5)
+
+---
+
+### [We were told my 'perfectly healthy' girl had tonsilitis… it was a rare cancer - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFZlM0ZHZ1FuWVJTVkV5c05HRm0zWEpCUDJSbTdRc3NYNVdleHR1TGtsbTI5MmFwWW5fS2N2enE5bDRTbng0OERieGtIcG5nT1AyQXJrTTZ1YkhNUEw1d1c5REE4TWlBOXNKamF0TmxDeUdLWjJORXoyMHYtWGNDbWFFMXc5R29oZFZ6S1ZBSQ?oc=5)
+
+2026-08-12 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFZlM0ZHZ1FuWVJTVkV5c05HRm0zWEpCUDJSbTdRc3NYNVdleHR1TGtsbTI5MmFwWW5fS2N2enE5bDRTbng0OERieGtIcG5nT1AyQXJrTTZ1YkhNUEw1d1c5REE4TWlBOXNKamF0TmxDeUdLWjJORXoyMHYtWGNDbWFFMXc5R29oZFZ6S1ZBSQ?oc=5)
+
+---
+
 ### [Longevity: Welche Faktoren unseren Alterungsprozess beeinflussen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVlQcDZOdjdwYVVIZEN3d0syWnpwMnBIU2ozVThNallpNk1XT0lmZ2xEM185YmRjaExpaUdEdlBrU21LekJmV2E1S3dHYkMwUFdTVTRvenk2czFmM1lhZm5uU25HMDNnWkZZVHlFNjJPdGRrNDl4RnJ5X1lpRjVGbm1wcXlIemNaSzB4bzV2NS1IMEFGdE9PT3BqZTBhN2xYczNweWJqZmVYVmlUNUZSWHZsY05kLUZ5NllkMnZvamE?oc=5)
 
 2026-08-12 <span class="news-indication-tag">tumor</span>
 
 來源：[Handelsblatt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVlQcDZOdjdwYVVIZEN3d0syWnpwMnBIU2ozVThNallpNk1XT0lmZ2xEM185YmRjaExpaUdEdlBrU21LekJmV2E1S3dHYkMwUFdTVTRvenk2czFmM1lhZm5uU25HMDNnWkZZVHlFNjJPdGRrNDl4RnJ5X1lpRjVGbm1wcXlIemNaSzB4bzV2NS1IMEFGdE9PT3BqZTBhN2xYczNweWJqZmVYVmlUNUZSWHZsY05kLUZ5NllkMnZvamE?oc=5)
-
----
-
-### [Brokkoli-Sulforaphan: Was die Studien zu Krebsprävention wirklich nahelegen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjJfYTR2ZnIxRnNSNTFQRnlWdlhIT0ZpaHdHT1hHcUZtODB6UG5MaXZOYXRna3hUSHZ2bHFGZ29EbW1QQUYxVFl1OGoyM2pHcGtBeHlBb1R2Uy0zRHowUTUzY0RTSWY1OXUwMWcyNi1ULXJBdm44RHVHTURMY3BoaUFxeU0xX29CT05TdXRfUldSOXBZMTkxWFBqOUd6ZWlLa3l5T1pUbUtlYjA?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Krebs</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjJfYTR2ZnIxRnNSNTFQRnlWdlhIT0ZpaHdHT1hHcUZtODB6UG5MaXZOYXRna3hUSHZ2bHFGZ29EbW1QQUYxVFl1OGoyM2pHcGtBeHlBb1R2Uy0zRHowUTUzY0RTSWY1OXUwMWcyNi1ULXJBdm44RHVHTURMY3BoaUFxeU0xX29CT05TdXRfUldSOXBZMTkxWFBqOUd6ZWlLa3l5T1pUbUtlYjA?oc=5)
 
 ---
 
@@ -94,19 +110,11 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [Doctor warns of three invisible cancer symptoms millions dismiss as getting older - GB News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRlZIckNfdnI0UE9fbWhkSjN3cURhN21ZbGF0azJyVndGN0tpcUJ1Snd2LWtQRzNTTDdhanJPaV93Z2JDNm5vMkZiOFdrd2ZhUlRJcEZlaGpzNk5ZVkQwUDV5S2RobXdlMmJWRlBGYW91WkI3Ulk0alR6ekZpZw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRlZIckNfdnI0UE9fbWhkSjN3cURhN21ZbGF0azJyVndGN0tpcUJ1Snd2LWtQRzNTTDdhanJPaV93Z2JDNm5vMkZiOFdrd2ZhUlRJcEZlaGpzNk5ZVkQwUDV5S2RobXdlMmJWRlBGYW91WkI3Ulk0alR6ekZpZw?oc=5)
-
----
-
 ### [‘Gym penis’ – what it means and whether it’s actually a real thing](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
 
 2026-08-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[PinkNews](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
+來源：[thepinknews.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
 
 ---
 
@@ -134,6 +142,14 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
+### [England set to be one of the first countries to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">hepatitis</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
+
+---
+
 ### [Longevity: Dieses Mini-Organ könnte laut Studie vor Krebs schützen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0c1TGpIajE4UFlRamVEaDVMb0N4SjM3Tng3TzFpUDhLNmloRTNuN09ZR2FJNWJtSWRTMUNRbk1UNnhQUVA1dlZ2Um02VzdpNm40VWJxeDhFZGxwVjRTQkU5NXFlcTI4S0p4a3JSaU5TME9XN2NPZ3JrTjd2clAxOUFqLUVHQ2stSnFyc3B3a3pUTUZZdEhtODVRU1l3UXI2MXZIblVpaTZ6SFVSQ0FxeFNqUl9Rb2owbXRVanRjdnMxc25fZi1FOENuWQ?oc=5)
 
 2026-08-11 <span class="news-indication-tag">Krebs</span>
@@ -150,59 +166,27 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [England 'on the cusp' of eliminating hepatitis C, health officials say - Sky News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVENwaklRRXJ5QlhqbFlTSGRHNWVJT2dOUXYyenkwc3JLLXZmc0FPRGx2bFJNWjJyWmMtUVp3WjJjekNaRENWNGxjV0hyYnZGdzlRYnZrTDRjYVY3T0xfOHNjWG5CTE41MzNnNTlId05fVzZ5akp6MkhUakxmWnB6U0Z2ZW1pMzhnNk5VZUtIOVRMS2xEQ0dPQUptdFQ1emllZzVLUnNn?oc=5)
-
-2026-08-11 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVENwaklRRXJ5QlhqbFlTSGRHNWVJT2dOUXYyenkwc3JLLXZmc0FPRGx2bFJNWjJyWmMtUVp3WjJjekNaRENWNGxjV0hyYnZGdzlRYnZrTDRjYVY3T0xfOHNjWG5CTE41MzNnNTlId05fVzZ5akp6MkhUakxmWnB6U0Z2ZW1pMzhnNk5VZUtIOVRMS2xEQ0dPQUptdFQ1emllZzVLUnNn?oc=5)
-
----
-
-### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxQamFQc0duSjNDRl9ld1p6ZmF3cldIZzVHT2hINEo3ZDJ3c1lXc1VGY0R0cUV1THVBelFZYjdqdDVXQTMwR1g2S3hLM0p2TW1MX2djQWJWc2FqRFdNX2hGUWxOSnhjTDE4OWpGbDJ4ekpxZE1GT3FpR285cHFaMldWYmhjT1RRdTV4VEg4Y293SkZIYmJCeF9iZmFyRlE4ZG14QnpMY0RR?oc=5)
+### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Soester Anzeiger](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFduNDhEQzhlVnh5SWJ2dVJTUlFfN19jbFBHcklkYUtjTEhlVWVaYVFUeHo2V3hweVVXMGRZRWlMMjVHVFN5LTBTalRHcjkwWm1MYUtta0ZUNXhEem1GRGhnTWdKa0dKc0RsX2N3eU9kQjVqaUVPWVhfbElHNDlLUnlaSnVXUTM0Rk9adi1LMUVtR1dzQVpnTXFHV1JjR2NYdENsMFQ5R3k1Vk4xRkhYNG9ZaGVZY0twV0p3RWhFZDJITE0?oc=5)
 
 2026-08-11 <span class="news-indication-tag">Krebs</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxQamFQc0duSjNDRl9ld1p6ZmF3cldIZzVHT2hINEo3ZDJ3c1lXc1VGY0R0cUV1THVBelFZYjdqdDVXQTMwR1g2S3hLM0p2TW1MX2djQWJWc2FqRFdNX2hGUWxOSnhjTDE4OWpGbDJ4ekpxZE1GT3FpR285cHFaMldWYmhjT1RRdTV4VEg4Y293SkZIYmJCeF9iZmFyRlE4ZG14QnpMY0RR?oc=5)
+來源：[Soester Anzeiger](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFduNDhEQzhlVnh5SWJ2dVJTUlFfN19jbFBHcklkYUtjTEhlVWVaYVFUeHo2V3hweVVXMGRZRWlMMjVHVFN5LTBTalRHcjkwWm1MYUtta0ZUNXhEem1GRGhnTWdKa0dKc0RsX2N3eU9kQjVqaUVPWVhfbElHNDlLUnlaSnVXUTM0Rk9adi1LMUVtR1dzQVpnTXFHV1JjR2NYdENsMFQ5R3k1Vk4xRkhYNG9ZaGVZY0twV0p3RWhFZDJITE0?oc=5)
 
 ---
 
-### [Virgil Abloh, il tumore rarissimo al cuore che lo ha ucciso a soli 41 anni](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVNlcjZhVE1SUmxTX0dnTEV2M2E4aGxscXpkdm1jX3ltemVraTdZczdfbURlRXJBY3hJNFByZUctS0ltc0ZOS0NMZkZGNHNEMWJSM241Q05fQnJSaFhpZm8wa25EeEVka21lajAyWWwxelRjN0pyelZZU0xnRzVQMFFwRzg5N2JpQkdMR2pRY1p4MzJwY3ZIT2plV2ZDdzZNRFE1MEFCVnpXTzBVWUlOSmZVNFMzUWlTbURONTgtay1QOGMxUGJZaWsyMTA?oc=5)
-
-2026-08-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVNlcjZhVE1SUmxTX0dnTEV2M2E4aGxscXpkdm1jX3ltemVraTdZczdfbURlRXJBY3hJNFByZUctS0ltc0ZOS0NMZkZGNHNEMWJSM241Q05fQnJSaFhpZm8wa25EeEVka21lajAyWWwxelRjN0pyelZZU0xnRzVQMFFwRzg5N2JpQkdMR2pRY1p4MzJwY3ZIT2plV2ZDdzZNRFE1MEFCVnpXTzBVWUlOSmZVNFMzUWlTbURONTgtay1QOGMxUGJZaWsyMTA?oc=5)
-
----
-
-### [Germán y su nueva vida con el tumor cerebral más agresivo: conectado a una máquina las 24 horas y con el apoyo incondicional de su mujer](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmgxcWx1VHVqNlFtUHhGT1VLc1JoTWJnc3VmbElKbzU4SDg1V0JDSHlmU2pRODRwZE1GLVJsZTFaNXNlelBGRURjV3lkOEVRamhxMFFLbENDdlNxYTdJWEE5RXliUDQ0UUhEVHBJZnJlXzlua2YxVkxRSWtac1pZODZFdklHdXQwalg3YWtuSFBfUU1yYXVjbzQ5anNoVTBmaE5KZEliWTNlQVJwUlHSAbMBQVVfeXFMUHh2cjBtUi1laWtWVjJRTlA3a3UtakVfVm9RV2J5eVBQY1JGTGNvM3FfalUzaFNsb3NNcjVNNjlvTUFHaU1nU3pWREI5dVUzeXVzMVFnR0xrZ0x3QVNoajFSQWEwcFhZVW8zcEhmREJlNng2ZjFFQmItSkhDek5hbGJPVDhYT2Itckh0NGRnbFNrUHBSeVR6VGhEdzMwTjNiT0x6cUYzT3dZd2hCbW00TS1KVE0?oc=5)
-
-2026-08-11 <span class="news-indication-tag">tumor</span>
-
-來源：[LNE](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmgxcWx1VHVqNlFtUHhGT1VLc1JoTWJnc3VmbElKbzU4SDg1V0JDSHlmU2pRODRwZE1GLVJsZTFaNXNlelBGRURjV3lkOEVRamhxMFFLbENDdlNxYTdJWEE5RXliUDQ0UUhEVHBJZnJlXzlua2YxVkxRSWtac1pZODZFdklHdXQwalg3YWtuSFBfUU1yYXVjbzQ5anNoVTBmaE5KZEliWTNlQVJwUlHSAbMBQVVfeXFMUHh2cjBtUi1laWtWVjJRTlA3a3UtakVfVm9RV2J5eVBQY1JGTGNvM3FfalUzaFNsb3NNcjVNNjlvTUFHaU1nU3pWREI5dVUzeXVzMVFnR0xrZ0x3QVNoajFSQWEwcFhZVW8zcEhmREJlNng2ZjFFQmItSkhDek5hbGJPVDhYT2Itckh0NGRnbFNrUHBSeVR6VGhEdzMwTjNiT0x6cUYzT3dZd2hCbW00TS1KVE0?oc=5)
-
----
-
-### [Hepatitis A: Prävention bleibt bei Risikogruppen entscheidend](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
+### [Hepatitis-A-Impfung wirkt früh: 86,3% Serokonversion nach 15 Tagen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2Vvb2FwS2NyRFhTMzFkZm5LY2lvWnlhbTV4aVlvVlF1ampJNVFaUlczMU5IV2xOcGNrYTd1cTIwejB0SWxUd092aDhoWEZBV2l4MHNiREhwODRUc0xrTGt0UGs0dFhOUHVScUk4T1FrTE1ER3NLejNxWHRLTHRLOWpHZmZKR1l2N2VtenhaWGhQR0RpVF8zSzY4c28?oc=5)
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2Vvb2FwS2NyRFhTMzFkZm5LY2lvWnlhbTV4aVlvVlF1ampJNVFaUlczMU5IV2xOcGNrYTd1cTIwejB0SWxUd092aDhoWEZBV2l4MHNiREhwODRUc0xrTGt0UGs0dFhOUHVScUk4T1FrTE1ER3NLejNxWHRLTHRLOWpHZmZKR1l2N2VtenhaWGhQR0RpVF8zSzY4c28?oc=5)
 
 ---
 
-### [Traditional prostate cancer risk factors do not predict hormone therapy benefit, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzlsU1hHSjAtdVk2V0JsdXJmbzZmY25JSHNMNkVSUE0wOU93YmRoRFhtRVVzUlYzRzdxYkVub2tYZFoxOXhENGxuZTZiYTZSTXRYall2T1RfYW83VlBQOFE1U0prX3ZVWGZxdGtPc1l6ZTl6ZEFiazdhR09wZWRlTmhyNTR4U1RDSkM3RzF2Vng?oc=5)
+### [Germán y su nueva vida con el tumor cerebral más agresivo: conectado a una máquina las 24 horas y con el apoyo incondicional de su mujer - La Nueva España](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmgxcWx1VHVqNlFtUHhGT1VLc1JoTWJnc3VmbElKbzU4SDg1V0JDSHlmU2pRODRwZE1GLVJsZTFaNXNlelBGRURjV3lkOEVRamhxMFFLbENDdlNxYTdJWEE5RXliUDQ0UUhEVHBJZnJlXzlua2YxVkxRSWtac1pZODZFdklHdXQwalg3YWtuSFBfUU1yYXVjbzQ5anNoVTBmaE5KZEliWTNlQVJwUlHSAbMBQVVfeXFMUHh2cjBtUi1laWtWVjJRTlA3a3UtakVfVm9RV2J5eVBQY1JGTGNvM3FfalUzaFNsb3NNcjVNNjlvTUFHaU1nU3pWREI5dVUzeXVzMVFnR0xrZ0x3QVNoajFSQWEwcFhZVW8zcEhmREJlNng2ZjFFQmItSkhDek5hbGJPVDhYT2Itckh0NGRnbFNrUHBSeVR6VGhEdzMwTjNiT0x6cUYzT3dZd2hCbW00TS1KVE0?oc=5)
 
-2026-08-10 <span class="news-indication-tag">cancer</span>
+2026-08-11 <span class="news-indication-tag">tumor</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzlsU1hHSjAtdVk2V0JsdXJmbzZmY25JSHNMNkVSUE0wOU93YmRoRFhtRVVzUlYzRzdxYkVub2tYZFoxOXhENGxuZTZiYTZSTXRYall2T1RfYW83VlBQOFE1U0prX3ZVWGZxdGtPc1l6ZTl6ZEFiazdhR09wZWRlTmhyNTR4U1RDSkM3RzF2Vng?oc=5)
-
----
-
-### [Le Viagra permettrait de lutter contre le cancer](https://news.google.com/rss/articles/CBMirgJBVV95cUxOQlBSQ1VqRFFrMjRsSFZCNnQyMWw4YmZ6bmtZU1I2LXkwUFBCamh2MTUxa3FhSk4yeUhLSldZWFlDeDhvQ0J6TGtmM3ZoenN1MjZXZ3VOeEU4Zkttc0NRVGJBZzNvMUpseDY1UHp5c3BqOHlMRWxZMFlIM1hhRHc2UENEdGRySmcyeGY2MU9aOEJqVjhfQkZ0TWhrX1Y4ODdmY2pBTG54YzNNVlJrOWd4MHI4aXdicHpwZnJsT0ZpS0VlUnhXVVpWQXJXZkllYklxanhVTXpiSzNpcVRZVXVVUFJURlBrVnM0R2t3S2ZMVUVXUC1fb3Ricjh6cTlJVXI2cXpKOENYSXVkRWZhajlURUJ4QzV6SE1odUlJbTNQSHl0cUFXWnU1Q09nTFhHZw?oc=5)
-
-2026-08-10 <span class="news-indication-tag">cancer</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMirgJBVV95cUxOQlBSQ1VqRFFrMjRsSFZCNnQyMWw4YmZ6bmtZU1I2LXkwUFBCamh2MTUxa3FhSk4yeUhLSldZWFlDeDhvQ0J6TGtmM3ZoenN1MjZXZ3VOeEU4Zkttc0NRVGJBZzNvMUpseDY1UHp5c3BqOHlMRWxZMFlIM1hhRHc2UENEdGRySmcyeGY2MU9aOEJqVjhfQkZ0TWhrX1Y4ODdmY2pBTG54YzNNVlJrOWd4MHI4aXdicHpwZnJsT0ZpS0VlUnhXVVpWQXJXZkllYklxanhVTXpiSzNpcVRZVXVVUFJURlBrVnM0R2t3S2ZMVUVXUC1fb3Ricjh6cTlJVXI2cXpKOENYSXVkRWZhajlURUJ4QzV6SE1odUlJbTNQSHl0cUFXWnU1Q09nTFhHZw?oc=5)
+來源：[La Nueva España](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmgxcWx1VHVqNlFtUHhGT1VLc1JoTWJnc3VmbElKbzU4SDg1V0JDSHlmU2pRODRwZE1GLVJsZTFaNXNlelBGRURjV3lkOEVRamhxMFFLbENDdlNxYTdJWEE5RXliUDQ0UUhEVHBJZnJlXzlua2YxVkxRSWtac1pZODZFdklHdXQwalg3YWtuSFBfUU1yYXVjbzQ5anNoVTBmaE5KZEliWTNlQVJwUlHSAbMBQVVfeXFMUHh2cjBtUi1laWtWVjJRTlA3a3UtakVfVm9RV2J5eVBQY1JGTGNvM3FfalUzaFNsb3NNcjVNNjlvTUFHaU1nU3pWREI5dVUzeXVzMVFnR0xrZ0x3QVNoajFSQWEwcFhZVW8zcEhmREJlNng2ZjFFQmItSkhDek5hbGJPVDhYT2Itckh0NGRnbFNrUHBSeVR6VGhEdzMwTjNiT0x6cUYzT3dZd2hCbW00TS1KVE0?oc=5)
 
 ---
 

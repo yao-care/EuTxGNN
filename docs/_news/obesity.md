@@ -3,7 +3,7 @@ layout: default
 title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obésité（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Atteint d’obésité, le Niortais Mickaël Hardouin Duparc a déjà parcouru (presque) 400 kilomètres](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFlQSmgtWXl5RUpyR1F5NXNBNjZkVGE0MW9YQUxvQ2xWSjFhLVYzQTd5bmVLM1lFRllJTGRxM2RxZlAxVVl2NWJmUmhEVnlLajZSUEQ1ZGNTbmpVbWhaWDlMTFpORGN2THBwVm5WdlpHaHl1bXJoMXJ0RHFFLV9mLWlyRkM3RVFKLVFaQW1mV3pSaW1HZ0lFVHNJTzU0RXRld2RUdi00ZFJVRkhxU2NRYTIyTWJYQjQ0aGgzQk5BczY3OTRCTndGYm9fZGxaeVltUE9XX3BXLXlWN1dkT3c?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/obesity/
 2026-08-11
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWdKbXhEYi1JS1I0ZnFGU1IyWUhqV0Rxdl9aT3hpQ0oxQnlvSUp4MmlNSURJdjZTVnFIbE16NEsxb0VKZ2U3cTdtODRxc0dYYS0waHJEdG1PQUJucW16VGw5NUtnd1dOOGFOcWFsX183S0M0SUJ3U1d3SFFmRjV0RFRCWW56YTdSSzNRN0pUS2hqUUxTaXRtZVliTFFnRFowZ01QUl9abVFoUDdoTnk3cUNVY3NXbkx3OTlIN2N30gG4AUFVX3lxTE1HY1BSN0FVTUdZbG04NkV1MlFFNzU3bTBxRzAxWTd3RC1zOHVKcUowYnh2MTlfNXVpbnRTNU90U3ZmQVRiRUlzWkZmNnFwQjkya0tQOVdRc3BuSkowdG5tSm13eDRMblFIYkUzYTlsWlNQZzFVNld4U2p5NFNPZThrZEpCdklkUWdOZms2bmczV2syam0tX1VNUEVyeS1Fa1ZLcFpueEhuOFhzVzJrR0l2ZUFmcTRMVU4?oc=5)
-
----
-
-### [FNIP1-Gen: Seltene Mutation senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
-
-2026-08-10
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
 
 ---
 

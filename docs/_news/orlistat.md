@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
 ### [Atteint d’obésité, le Niortais Mickaël Hardouin Duparc a déjà parcouru (presque) 400 kilomètres](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFlQSmgtWXl5RUpyR1F5NXNBNjZkVGE0MW9YQUxvQ2xWSjFhLVYzQTd5bmVLM1lFRllJTGRxM2RxZlAxVVl2NWJmUmhEVnlLajZSUEQ1ZGNTbmpVbWhaWDlMTFpORGN2THBwVm5WdlpHaHl1bXJoMXJ0RHFFLV9mLWlyRkM3RVFKLVFaQW1mV3pSaW1HZ0lFVHNJTzU0RXRld2RUdi00ZFJVRkhxU2NRYTIyTWJYQjQ0aGgzQk5BczY3OTRCTndGYm9fZGxaeVltUE9XX3BXLXlWN1dkT3c?oc=5)
 
 2026-08-12 <span class="news-indication-tag">obésité</span>
 
 來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFlQSmgtWXl5RUpyR1F5NXNBNjZkVGE0MW9YQUxvQ2xWSjFhLVYzQTd5bmVLM1lFRllJTGRxM2RxZlAxVVl2NWJmUmhEVnlLajZSUEQ1ZGNTbmpVbWhaWDlMTFpORGN2THBwVm5WdlpHaHl1bXJoMXJ0RHFFLV9mLWlyRkM3RVFKLVFaQW1mV3pSaW1HZ0lFVHNJTzU0RXRld2RUdi00ZFJVRkhxU2NRYTIyTWJYQjQ0aGgzQk5BczY3OTRCTndGYm9fZGxaeVltUE9XX3BXLXlWN1dkT3c?oc=5)
-
----
-
-### [Bluthochdruck: Höhere Kaliumzufuhr senkt Schlaganfallrisiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
 
 ---
 
@@ -90,7 +82,15 @@ permalink: /news/orlistat/
 
 2026-08-11 <span class="news-indication-tag">stroke</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTE14WmQ5Vnd0dGNWTFVnaU1LNG1SOUZIT0p4NWd1a19qRmJac1dXOGVReEVDMnlaRHZBenplTF9Xei1QdVp4RGxMOWxwTVZXOU9mWGhSaFd4Yk9BNFoyOVZ6c29JRzZTcVpGSnJzdUp5VWwtVkU?oc=5)
+來源：[eatingwell.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE14WmQ5Vnd0dGNWTFVnaU1LNG1SOUZIT0p4NWd1a19qRmJac1dXOGVReEVDMnlaRHZBenplTF9Xei1QdVp4RGxMOWxwTVZXOU9mWGhSaFd4Yk9BNFoyOVZ6c29JRzZTcVpGSnJzdUp5VWwtVkU?oc=5)
+
+---
+
+### [Type 2 Diabetes: GLP-1 Mounjaro May Lower Heart Attack Risk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
+
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[healthline.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
 ---
 
@@ -112,7 +112,7 @@ permalink: /news/orlistat/
 
 ### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
-2026-08-11 <span class="news-indication-tag">obesity</span>
+2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
@@ -139,14 +139,6 @@ permalink: /news/orlistat/
 2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
 來源：[Infobae](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFRVTXUwN3F1eUhqVlY2SFlZTktKeFU3VV9YeVVXcTVmcUMyLXpfeHpjMDVGZ0M4QXFVUWhvNlpMYUZtdW9jOXBka1JkVDRYcldPdWk4X1VNYnJHWjlKOGtQYUk0OXJyU1kzX3NzQTROTHA5U3diMDdpOEJGU1hVMmZGUjVrcUU5MG9kMXFjTEFVcXdVNUJ5M1F4S01HX0FaSFFMQmhMVklRQ1V50gHHAUFVX3lxTE96LVUyTkdEd0p5bVpVT3BseEtwNUVlUnZUcHRoRnRPSW5WbTVEOXhoUnducHRqVmJYc3k3b0NRSVJHYmp2WUQzeGhMa0RCVVN2b3pyb0FialRaMlMyWWFEQlg2V2gzQ3FoXzZ0RUc5VFR0R2QyajZHSC1TaWl3b1VYQ19LckY4MHlveVdHT2wtdi1ZUGN4VlkzR0FkUjhRSHBjZXZWSUp2SDZhSGg0SlBkZThsMkhKQmxWMFdBdXl6cWZZQnlsNmc?oc=5)
-
----
-
-### [FNIP1-Gen: Seltene Mutation senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQay1iSWMtbkRVbkJJN3Qxb2M3SDVUZHQ3ODZVV1N6WmhJZWZ6akVtUkg1ZUdMMGk4MEo4bTI3ZWlKWmdpbjR6OVg0S250a3d6c19ZemMyTmRHMlBDdGpibzl4THhjYXlFbnZORmJKUzZLMVZWMFRwOEVWWnZCXzBrQnV6cjVka25tUEMtLUhYS2lycFBCdkZpSTZzWFQwR09BeUd1bUduRGhPSkk5N212eg?oc=5)
 
 ---
 
