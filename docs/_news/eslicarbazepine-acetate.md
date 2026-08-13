@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ permalink: /news/eslicarbazepine-acetate/
 <li>reading seizures（96.9%）</li>
 <li>trigeminal nerve neoplasm（95.9%）</li>
 <li>partial motor epilepsy（95.3%）</li>
-<li class="indication-matched">epilepsy（92.4%）<span class="indication-tag">📰 Epilepsie</span></li>
+<li>epilepsy（92.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [SCN2A-assoziierte Epilepsie: Personalisierte Antisense-Therapie senkt Anfallsfrequenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTjlObm5IVDdPdTIwY0puWmJGaG9DLVc2aEdrWDVhWmVxbnVaSTFONXg1SzEyVnphT2xrdDZDSmpUeWNsV05fODVfa0pjeWdlZEd6djdIMVB6bXczWUhUVllobkRsZVV5alI5UUtja2FjU1lHbXFxTTA0dk1lMXlyTThIR01yRndxRzJmM0RvcW1VSlFvVkYwUzFLT3lRbmFQUmlNeUZoQXhLWWVXUXptQVNON3o5U0Q2VG0xRzZsZUdSd2lsejdNbmF0bVN6YnRVakJvWEQteWhvLUVPdHVWVjhLeUFyQmZn?oc=5)
-
-2026-08-11 <span class="news-indication-tag">Epilepsie</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTjlObm5IVDdPdTIwY0puWmJGaG9DLVc2aEdrWDVhWmVxbnVaSTFONXg1SzEyVnphT2xrdDZDSmpUeWNsV05fODVfa0pjeWdlZEd6djdIMVB6bXczWUhUVllobkRsZVV5alI5UUtja2FjU1lHbXFxTTA0dk1lMXlyTThIR01yRndxRzJmM0RvcW1VSlFvVkYwUzFLT3lRbmFQUmlNeUZoQXhLWWVXUXptQVNON3o5U0Q2VG0xRzZsZUdSd2lsejdNbmF0bVN6YnRVakJvWEQteWhvLUVPdHVWVjhLeUFyQmZn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

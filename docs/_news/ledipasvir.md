@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（12 則）
 
-### [Separar vacunas aumenta la desigualdad y pone en riesgo la salud de la niñez; Dr. Xavier Sáez Llorens - La Web de la Salud](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUxTczVTVUN6YTkyTWNMa3dNbkF1UUlFSV94b0VhSkRmbnNya1otMUg4TU5sbnUzTzg3ckpHSDNfcWpiOXczMlh5NHVNTXF3TFlnMFRJUHdiNUpzRlV3LTRDMGd6cHlNVTFwNmRlSVFxQWg3Q2lrMlYzb25RZGxlU2padmhva2NOcjF3QmxTanRHcjJicUxuSjVmUERWREdPa2trR09JMFpxa0Q1VDFUS2hYOE9TYzJ4VUpzYTVfMmRFVUh0Ymc?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUxTczVTVUN6YTkyTWNMa3dNbkF1UUlFSV94b0VhSkRmbnNya1otMUg4TU5sbnUzTzg3ckpHSDNfcWpiOXczMlh5NHVNTXF3TFlnMFRJUHdiNUpzRlV3LTRDMGd6cHlNVTFwNmRlSVFxQWg3Q2lrMlYzb25RZGxlU2padmhva2NOcjF3QmxTanRHcjJicUxuSjVmUERWREdPa2trR09JMFpxa0Q1VDFUS2hYOE9TYzJ4VUpzYTVfMmRFVUh0Ymc?oc=5)
-
----
-
-### [London law student died after taking weight loss drug, inquest hears - London Evening Standard](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHZXS1BRNllNcTJRcGltdmV6cl9yWmt1U1FqVDlDdEd3Y29tSTdUSmY5S3lnLXAtR0pQNWR2XzdQbUNpNXZuZlFQZTd4NGxhekZISV9QUVpZeHlKUGFDVkZzTERQdjRuSVJoY1ZISU9MZXJ4NGpSdTVFQVdGYzBzQm80NzA2RGdWSktuZGp2TnpEX2hCYi1aZ3hQRWx1dkpnbF85cmlXT1kxYTMyc2J3?oc=5)
-
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHZXS1BRNllNcTJRcGltdmV6cl9yWmt1U1FqVDlDdEd3Y29tSTdUSmY5S3lnLXAtR0pQNWR2XzdQbUNpNXZuZlFQZTd4NGxhekZISV9QUVpZeHlKUGFDVkZzTERQdjRuSVJoY1ZISU9MZXJ4NGpSdTVFQVdGYzBzQm80NzA2RGdWSktuZGp2TnpEX2hCYi1aZ3hQRWx1dkpnbF85cmlXT1kxYTMyc2J3?oc=5)
-
----
-
-### [La OMS espera revertir en tres meses la tendencia de la epidemia de ébola en la RD Congo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVdlMkduaDY1a0U0bnZiQ2I2WkN2QV9lOE4tQkhYRDRHQVlQZk05RVFJS1ppVGxPYlZkeVU5N05zaDNmNm5ZaW5hT2h2WjdLZnFGbkc3U0Y1Vlp3NjRob3pWZE5ld3M2TTJZeE1sRUVBMFRWd2VMb0JTRHAtSWZwX1dRYTdlb1pLZUVoTzhaYTlCc05oaDRqQlJkTmUxMEd6WUtmM3hzZG5FUlJGd3otUUtuWVdnNFBtb194eS0xcEY1YWNzSXBUVFBBa3YzakxnWXZnNDV4akZyUQ?oc=5)
+### [Epidemia de ébola se extiende a una sexta provincia de RDCongo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalp2UDJsSVNtaU1FWGx2N295M0FNOEtEM250NWFhN2xRaVJSNkxBRUdLUXhnZWJIRjZza3U5V3Y3bjBIZ19oeHZQT3F0amVaUVoxdzB0TkVzWHlfaFllanpqOFBIdjM3M3JuWlF3RTFFM3RHWXhudG5HVjgxT1M1REFlTm8zel9CVUQtdkFxZk4wSFJOakY3VmdSc0ktUUFjbENsZmh5Z2M?oc=5)
 
 2026-08-13 <span class="news-indication-tag">MS</span>
 
-來源：[RFI](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVdlMkduaDY1a0U0bnZiQ2I2WkN2QV9lOE4tQkhYRDRHQVlQZk05RVFJS1ppVGxPYlZkeVU5N05zaDNmNm5ZaW5hT2h2WjdLZnFGbkc3U0Y1Vlp3NjRob3pWZE5ld3M2TTJZeE1sRUVBMFRWd2VMb0JTRHAtSWZwX1dRYTdlb1pLZUVoTzhaYTlCc05oaDRqQlJkTmUxMEd6WUtmM3hzZG5FUlJGd3otUUtuWVdnNFBtb194eS0xcEY1YWNzSXBUVFBBa3YzakxnWXZnNDV4akZyUQ?oc=5)
+來源：[swissinfo.ch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalp2UDJsSVNtaU1FWGx2N295M0FNOEtEM250NWFhN2xRaVJSNkxBRUdLUXhnZWJIRjZza3U5V3Y3bjBIZ19oeHZQT3F0amVaUVoxdzB0TkVzWHlfaFllanpqOFBIdjM3M3JuWlF3RTFFM3RHWXhudG5HVjgxT1M1REFlTm8zel9CVUQtdkFxZk4wSFJOakY3VmdSc0ktUUFjbENsZmh5Z2M?oc=5)
+
+---
+
+### [La OMS carga contra la nueva política de inmunización de Trump y defiende las vacunas: "Son seguras y no causan autismo" - Redacción médica](https://news.google.com/rss/articles/CBMilwJBVV95cUxNZm1pemVpbDA2T3FUSVQtV293VGN4cEcyV21Zdzlmbm9oZ2t6cWdJemhtU0hzeEp1YkVQSHpRN0xrSEVLcGhqaXJtNVlYWUh1cUtEdk9SSHotVFp0dWFLY0pVSXprelo4eHNEYkgtMEhxUHVOamNDdm55TEE5QllBUDlXNlVvcTZ6eHRMNTNMcDJnZFVlaWV3T1l0N0dxN1JWUGtsZnpoVEs1NmJlSndkNUdyVk1OUTg4LW5tWXoxRndGSUJuZ1hhaTdwS3BNeE1NckxWcnEzcTFIeGJkZDE1em5rY1ZHODVVNWNrNndVMVBQNnNrZlVIaUtGSFExQ3VXMkJaNE0tWW1HU0xLTnBhVWJlNHVkeVHSAZwCQVVfeXFMUGZYdzlLRFRjbTBDb3pKRXNFb1JabldVb2lNT3VGOWNFNEJ1QTlSU1VRUndWZktlUlJlTjE0cXhQWF9UdS1hSmNsRmJjOEs2dEQ2N1ZBdUIxTGdYd3RNMTRQcWNSLW5vU3pHaFZSTklUNmVRdW1zRndmZ291V2VZVzVUMGIxRmxYb2tkQmkyd09pSUlaQTdxM1pOMFc4el9zeGl5ODVuOFFid2ZTQlozelJSSTBDdHAxWk1WUHZ6NFcyUzdNNHlabEpoTGhlMmthSHN0Nm5kMEVBaE5xbFpZWl94b3k3ZTBBZkFHejMwUHJxNDlsdmRXbXFMdUhDbVFvM1dJZUJlWXhPR3RYMEJ6cE1GOVdwYmpzYlAzUkk?oc=5)
+
+2026-08-13 <span class="news-indication-tag">MS</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMilwJBVV95cUxNZm1pemVpbDA2T3FUSVQtV293VGN4cEcyV21Zdzlmbm9oZ2t6cWdJemhtU0hzeEp1YkVQSHpRN0xrSEVLcGhqaXJtNVlYWUh1cUtEdk9SSHotVFp0dWFLY0pVSXprelo4eHNEYkgtMEhxUHVOamNDdm55TEE5QllBUDlXNlVvcTZ6eHRMNTNMcDJnZFVlaWV3T1l0N0dxN1JWUGtsZnpoVEs1NmJlSndkNUdyVk1OUTg4LW5tWXoxRndGSUJuZ1hhaTdwS3BNeE1NckxWcnEzcTFIeGJkZDE1em5rY1ZHODVVNWNrNndVMVBQNnNrZlVIaUtGSFExQ3VXMkJaNE0tWW1HU0xLTnBhVWJlNHVkeVHSAZwCQVVfeXFMUGZYdzlLRFRjbTBDb3pKRXNFb1JabldVb2lNT3VGOWNFNEJ1QTlSU1VRUndWZktlUlJlTjE0cXhQWF9UdS1hSmNsRmJjOEs2dEQ2N1ZBdUIxTGdYd3RNMTRQcWNSLW5vU3pHaFZSTklUNmVRdW1zRndmZ291V2VZVzVUMGIxRmxYb2tkQmkyd09pSUlaQTdxM1pOMFc4el9zeGl5ODVuOFFid2ZTQlozelJSSTBDdHAxWk1WUHZ6NFcyUzdNNHlabEpoTGhlMmthSHN0Nm5kMEVBaE5xbFpZWl94b3k3ZTBBZkFHejMwUHJxNDlsdmRXbXFMdUhDbVFvM1dJZUJlWXhPR3RYMEJ6cE1GOVdwYmpzYlAzUkk?oc=5)
 
 ---
 
@@ -83,6 +75,14 @@ permalink: /news/ledipasvir/
 2026-08-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
+
+---
+
+### [NHS confirms vaccine rollout for older adults in England from October - Daily Express](https://news.google.com/rss/articles/CBMif0FVX3lxTE1nWWFOaWVHU3NrTVJyd2JnTEVFTVRsWDhHR25qbncyYl9vMEVRRFFvQW5YQU1VNFRYS3Z6bDlfTmlyTktqVUJUOWJiX3RUWEpfcV9Wb1p1TjBvdWVMUmxZWVBqLWF2OHFyMGw3QUo1ZVZQUDRZOEZxS1I1dFdWR3fSAYQBQVVfeXFMUGxneVNRRlBVNzhnSWJ0ZFQ3MmNPaVM5NmhGbmZtbWU2dHFqaU9SY0J2aE4wTjJFNDgtSDV1MmYzOGhCZ1hWNTlvdjQ0TEY5TWE0MHBxOFhnWkJudERFMDQwd3M2RGlYUGNTSlhIeHE2TFRUTFJHV0FfTGVJRlRSX0FzN2dj?oc=5)
+
+2026-08-13 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMif0FVX3lxTE1nWWFOaWVHU3NrTVJyd2JnTEVFTVRsWDhHR25qbncyYl9vMEVRRFFvQW5YQU1VNFRYS3Z6bDlfTmlyTktqVUJUOWJiX3RUWEpfcV9Wb1p1TjBvdWVMUmxZWVBqLWF2OHFyMGw3QUo1ZVZQUDRZOEZxS1I1dFdWR3fSAYQBQVVfeXFMUGxneVNRRlBVNzhnSWJ0ZFQ3MmNPaVM5NmhGbmZtbWU2dHFqaU9SY0J2aE4wTjJFNDgtSDV1MmYzOGhCZ1hWNTlvdjQ0TEY5TWE0MHBxOFhnWkJudERFMDQwd3M2RGlYUGNTSlhIeHE2TFRUTFJHV0FfTGVJRlRSX0FzN2dj?oc=5)
 
 ---
 
@@ -110,27 +110,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Subir escaleras a diario podría reducir el riesgo de morir por enfermedad cardiovascular](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOODJSM01pSngtUGhSMnNxXzJ0X3ZfVDNHWHpkc1BKb1lnd29ibkJQSUllUFpwOUpCdEpUQU1ELTRPaHYtdEdTRTQtdmxVWjEtN3lreUx6U1hTbWNqOHc0WFRtU0pLdUhMWmRiTC1qOUxmVXZEUFpaQmtEWHI5RUFRdGVmeEEwbXRjaDdxa2pWWDVEeHlaTlRqUElXRm1lN1MzMVVSTUUzV1N4OVFNQVJsbEV3ejNrTkxFV2UzdGk2WGttckNKTWEwT2ZzcFVLUDNxQ2ZwaFlDYkFIRTR1eko3cTRLekk?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOODJSM01pSngtUGhSMnNxXzJ0X3ZfVDNHWHpkc1BKb1lnd29ibkJQSUllUFpwOUpCdEpUQU1ELTRPaHYtdEdTRTQtdmxVWjEtN3lreUx6U1hTbWNqOHc0WFRtU0pLdUhMWmRiTC1qOUxmVXZEUFpaQmtEWHI5RUFRdGVmeEEwbXRjaDdxa2pWWDVEeHlaTlRqUElXRm1lN1MzMVVSTUUzV1N4OVFNQVJsbEV3ejNrTkxFV2UzdGk2WGttckNKTWEwT2ZzcFVLUDNxQ2ZwaFlDYkFIRTR1eko3cTRLekk?oc=5)
-
----
-
 ### [The cancer symptoms people mistake for ageing or stress - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG02cXMxU3F6TXVWbW1rc2NSamFfOGVXVzJOZWM0Q2JkTllFLWRxdFFiLUplWVlQV0dOWUF0UUJvOHl3MnlTdnR2QURlODNUcHluUzgwYThBcjVST2JFdHZSbDR1MmplRFZ0RUNMdlpnWjVMbENFVklCZlV5ckNMOU53cWhCZzhDV1VSLXcxWUJTSS12T05pcnhVbHpndlFtTEFMYVN6R3lqUnhselpPM0JRS3lfdW5kQ1E?oc=5)
 
 2026-08-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG02cXMxU3F6TXVWbW1rc2NSamFfOGVXVzJOZWM0Q2JkTllFLWRxdFFiLUplWVlQV0dOWUF0UUJvOHl3MnlTdnR2QURlODNUcHluUzgwYThBcjVST2JFdHZSbDR1MmplRFZ0RUNMdlpnWjVMbENFVklCZlV5ckNMOU53cWhCZzhDV1VSLXcxWUJTSS12T05pcnhVbHpndlFtTEFMYVN6R3lqUnhselpPM0JRS3lfdW5kQ1E?oc=5)
-
----
-
-### [Taking the stairs cuts risk of early death by a quarter - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0ZibXUyMm9oekdqSlg5WUctbXVUeE10dTljWjdfTEJENzFKdVB5bEtnYlhCckdmOXQzTlRtZlAxUzVzZFNEaVhzV05EMllsU0pxUHdod3J3Vmc3c3VMcHp3aE40M2l1bmpPdUx5a21lYnNtZllBUk11SmdBVmpmcEk3WGJiWW4tUm1hdWpmNXI4MGpMbkd0X2N0dnVDMld1V3E4RQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0ZibXUyMm9oekdqSlg5WUctbXVUeE10dTljWjdfTEJENzFKdVB5bEtnYlhCckdmOXQzTlRtZlAxUzVzZFNEaVhzV05EMllsU0pxUHdod3J3Vmc3c3VMcHp3aE40M2l1bmpPdUx5a21lYnNtZllBUk11SmdBVmpmcEk3WGJiWW4tUm1hdWpmNXI4MGpMbkd0X2N0dnVDMld1V3E4RQ?oc=5)
 
 ---
 
@@ -142,11 +126,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Bluthochdruck: Höhere Kaliumzufuhr senkt Schlaganfallrisiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium kann helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
 
 2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
 
 ---
 
@@ -158,27 +142,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Over-75s could come off cholesterol-busting statins without harm, claims study - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
-
-2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
-
----
-
 ### [Type 2 Diabetes: GLP-1 Mounjaro May Lower Heart Attack Risk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
-
----
-
-### [MSD Animal Health y Vet Partners continúan luchando contra la rabia en Malawi](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmlJbjF2VkxISkV3T3ZMNFZlLUx4SEJac2RMc2tVZEtXM0xMdDlzeWtveHVJTGRQVXVVOVJwTFhnd25hWUZqcC1yN3lVWjNKcVV3S25EdDlUTVpMaWxWYlNQOGxJRENtYVVuWWtzNHNvV25FUnNxMUVHWDBDajFDR3JHS2k1emE1enBZTW9WZlM1RTFOVU9fWEQ0dFJKUUFXVFlHcE1jX1A0VXdFbGfSAbMBQVVfeXFMTzJwbi1FTnlTYjh4TmRkckVibnJsUEVIajN3ZkFtWVExenY5cjMxeWZkZ3ZqSnAtZGlZOWk3Q0hWakdhZGt3bG5mc0pIM2JxVjFYQWNUQzlxQkZKdjBzMmJFX3FpYkFyZzJSb3JUb1BNZ3lMSjBteEp6ZTRta1A5OWphY2RHQTdNTjA2VVJabXJXQVgzZGVIZC1uR1djbDRNM3QtUEVHSy1nU3NlY3VHNVQ0anM?oc=5)
-
-2026-08-11 <span class="news-indication-tag">MS</span>
-
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmlJbjF2VkxISkV3T3ZMNFZlLUx4SEJac2RMc2tVZEtXM0xMdDlzeWtveHVJTGRQVXVVOVJwTFhnd25hWUZqcC1yN3lVWjNKcVV3S25EdDlUTVpMaWxWYlNQOGxJRENtYVVuWWtzNHNvV25FUnNxMUVHWDBDajFDR3JHS2k1emE1enBZTW9WZlM1RTFOVU9fWEQ0dFJKUUFXVFlHcE1jX1A0VXdFbGfSAbMBQVVfeXFMTzJwbi1FTnlTYjh4TmRkckVibnJsUEVIajN3ZkFtWVExenY5cjMxeWZkZ3ZqSnAtZGlZOWk3Q0hWakdhZGt3bG5mc0pIM2JxVjFYQWNUQzlxQkZKdjBzMmJFX3FpYkFyZzJSb3JUb1BNZ3lMSjBteEp6ZTRta1A5OWphY2RHQTdNTjA2VVJabXJXQVgzZGVIZC1uR1djbDRNM3QtUEVHSy1nU3NlY3VHNVQ0anM?oc=5)
 
 ---
 

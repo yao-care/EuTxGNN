@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Así desayuna Luis, de 4 años y con diabetes tipo 1: pan integral, huevos cocidos y vegetales - Mundo Deportivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1lyRGZNeHZXQllxRmhURWduWkhZZEpCTUpteHA5M2ZRd0Z6ZzR3dFkyMWFIUTAxUEJBRWNLNVFpWV8zb0hWN3Z4WDNfMWNVNGZNTm94YTVlNklPcHlmY0VTdjM0d3dTbElfOTJyZlhQeVJjVjUwbGxZS1o5clFlbnNEakVVVE1KTmVFSUpLSEx3aG4wQXBXQWQ4bEhELWVMVTl0dXZ1MEVjdGlBdFU4SThhSGhfRnRWendaa0ltWWVqTHNKYVZQQ1dnZlUwZFJMZ2w3aktxRHkzV09q0gHqAUFVX3lxTE1UM09VUjVvVk5WdG9FUFBGZkxfbXdSOXNSY25uSGd3WjNjbWtWNWdiZTd5dWY0amJxNm9aaWhHYnZVMkFrYlRZWDllNnlJR09WZjhNSVY0UlBqd2x4bURPb3h0MkJOQzdZckJYemVQMlBLNmo5NU5BZVFMT1k2M0xhdEFwQWlIUVotbm9panNLU2hQNThoOWNBUTZjQlNZVmFpSHNwbTBhaVZ0UXJqa3V5TTBnMlZRbmE2aTdJVTJNVkR1akJuQkV2ZUFpZ3VIbUxlc0VwT2JGdm84U2c0R2NhX0FCSHZLNFJFdw?oc=5)
+
+2026-08-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1lyRGZNeHZXQllxRmhURWduWkhZZEpCTUpteHA5M2ZRd0Z6ZzR3dFkyMWFIUTAxUEJBRWNLNVFpWV8zb0hWN3Z4WDNfMWNVNGZNTm94YTVlNklPcHlmY0VTdjM0d3dTbElfOTJyZlhQeVJjVjUwbGxZS1o5clFlbnNEakVVVE1KTmVFSUpLSEx3aG4wQXBXQWQ4bEhELWVMVTl0dXZ1MEVjdGlBdFU4SThhSGhfRnRWendaa0ltWWVqTHNKYVZQQ1dnZlUwZFJMZ2w3aktxRHkzV09q0gHqAUFVX3lxTE1UM09VUjVvVk5WdG9FUFBGZkxfbXdSOXNSY25uSGd3WjNjbWtWNWdiZTd5dWY0amJxNm9aaWhHYnZVMkFrYlRZWDllNnlJR09WZjhNSVY0UlBqd2x4bURPb3h0MkJOQzdZckJYemVQMlBLNmo5NU5BZVFMT1k2M0xhdEFwQWlIUVotbm9panNLU2hQNThoOWNBUTZjQlNZVmFpSHNwbTBhaVZ0UXJqa3V5TTBnMlZRbmE2aTdJVTJNVkR1akJuQkV2ZUFpZ3VIbUxlc0VwT2JGdm84U2c0R2NhX0FCSHZLNFJFdw?oc=5)
+
+---
+
+### [Verso un futuro senza diabete: nuovo farmaco usato con successo su un adulto](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dIQmR6eDZZV0JKenhkY2U3dW1OcWJIVkRtZ2syZjY0STVRQ2xkbVVIbEM1SG8tM2s1U2d6a2RQT1Q0S2FrRWhDbk5paWNjLXFXREhUN3Z1N0piVWMzOGlud3pkc0NqX2pKNVZESzBiRzlFa0Vkb3QyTmdyclgtOEk5bW45ajRqT2d0UXc0RjA3SklEaFBsbWdOT2ZBam1POEF4RmN1Q3c0MUU5Y1JsNVdiMVYwaXBZZDRGSU5JUkd2Mk5hdnVaOHMwOFJWaHo4R3JuZkFGZ9IB3AFBVV95cUxNdVRuQzlZMjhQN3dhbjFDVXA4cnh3MG55Zk5wNnJneUFXeU04ZVVXWHlkQ1hHdGl2cGdaWktPZWh5b3NoaDBBb2Rhek5FUC1VYnd4VHpuU19EdnZlS1BYaE4xM002azRnS0oyeHBkRUhjVFpsZlZXLS0zY3dVNUotdzNQdERZVkR3WnBzUEZNMWlzUEctWFRIRTdHVlAwSTRqQ3hZeGh0NC1HTEdET1hJZkJxOFQzUVRsTnBRcTFfR2tlTWo5LXFkTHdnT3hVYTIteUxYSkk2bVh4R3lV?oc=5)
+
+2026-08-13 <span class="news-indication-tag">diabete</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dIQmR6eDZZV0JKenhkY2U3dW1OcWJIVkRtZ2syZjY0STVRQ2xkbVVIbEM1SG8tM2s1U2d6a2RQT1Q0S2FrRWhDbk5paWNjLXFXREhUN3Z1N0piVWMzOGlud3pkc0NqX2pKNVZESzBiRzlFa0Vkb3QyTmdyclgtOEk5bW45ajRqT2d0UXc0RjA3SklEaFBsbWdOT2ZBam1POEF4RmN1Q3c0MUU5Y1JsNVdiMVYwaXBZZDRGSU5JUkd2Mk5hdnVaOHMwOFJWaHo4R3JuZkFGZ9IB3AFBVV95cUxNdVRuQzlZMjhQN3dhbjFDVXA4cnh3MG55Zk5wNnJneUFXeU04ZVVXWHlkQ1hHdGl2cGdaWktPZWh5b3NoaDBBb2Rhek5FUC1VYnd4VHpuU19EdnZlS1BYaE4xM002azRnS0oyeHBkRUhjVFpsZlZXLS0zY3dVNUotdzNQdERZVkR3WnBzUEZNMWlzUEctWFRIRTdHVlAwSTRqQ3hZeGh0NC1HTEdET1hJZkJxOFQzUVRsTnBRcTFfR2tlTWo5LXFkTHdnT3hVYTIteUxYSkk2bVh4R3lV?oc=5)
+
+---
 
 ### [Was eine Diabetes-Expertin nie zum Frühstück macht – und was sie stattdessen empfiehlt](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmtwVDlSaWc1cElFZXBsZW9oQUtGU3hhc3FYaTV6MXItTWFFU1BHVy12WWdPZjczRGFQd3pDN2t2b2h2Z3RRR1gtNTBuSVVISnBGa1pzNlo3OUFJZk9INDhpZHFvWGZVMWo0TENJY2lYWjkwY3pjWHBLRnVCUXdrbjd6Z2NDSzV2aXExbEhBRWNWa2dZZ3dSZkdVcFVuOWhuUHZCeHJjNlhkSTNhaUVwV0tQYlZQeUpzam1FazhlOA?oc=5)
 
@@ -62,19 +78,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Diabetes: Dieses Probiotikum bietet nachweisbaren therapeutischen Nutzen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
+### [Più muscoli e meno grasso: scoperto il gene che può accelerare il metabolismo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM0FNVW40TDNaNkNzS3NBQzhKZEwwX0N3Qy1PY2dobGk1ZVY2VkhnUEdoMHhSd0tPcUg1WkJCVjJUR2I1V1M5N0ZTTHoxTHV0elFNTE5QQnNmalBUbUxEaHM4R1g1SDFaaWhtZy1hWm4tVlhBYjdnWFVPZzdFazRZY194Zk1NTlF4cEItYUFiMC1GMnVxMm1EdU93dzFxWm5adnFRWmdpdktlRFBxUmdyaDZSWExqY0RfRXMteTVlT2JGcVp2TnFKRFVtLVRLYWtGaWFJeUFEb9IBvgFBVV95cUxQU3Jwcm5Ua0dxNUhQTXYxbGcxUDdEQ0hzV3VqbDRsZU1iMUw5aWtJamtOM2VpYVFSamtDcHpNY0dzelF6Ny1HTnB3Ml96MzdjQ2VXbzJmbWo3NjhHOENDbHRNcHc0M091cnpfSTIwdEN4ZzFpUUpRLXNkeXpCT1EzX04yMG5hYUtBbUJ4ZG5YQ0NPTklXcjVzQ21tVDNIam9KSkhiR3VUck56eVVxU21lcHVVRjdIWkJWVmpncjFR?oc=5)
 
-2026-08-13 <span class="news-indication-tag">diabetes</span>
+2026-08-13 <span class="news-indication-tag">diabete</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
+來源：[gazzetta.it](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM0FNVW40TDNaNkNzS3NBQzhKZEwwX0N3Qy1PY2dobGk1ZVY2VkhnUEdoMHhSd0tPcUg1WkJCVjJUR2I1V1M5N0ZTTHoxTHV0elFNTE5QQnNmalBUbUxEaHM4R1g1SDFaaWhtZy1hWm4tVlhBYjdnWFVPZzdFazRZY194Zk1NTlF4cEItYUFiMC1GMnVxMm1EdU93dzFxWm5adnFRWmdpdktlRFBxUmdyaDZSWExqY0RfRXMteTVlT2JGcVp2TnFKRFVtLVRLYWtGaWFJeUFEb9IBvgFBVV95cUxQU3Jwcm5Ua0dxNUhQTXYxbGcxUDdEQ0hzV3VqbDRsZU1iMUw5aWtJamtOM2VpYVFSamtDcHpNY0dzelF6Ny1HTnB3Ml96MzdjQ2VXbzJmbWo3NjhHOENDbHRNcHc0M091cnpfSTIwdEN4ZzFpUUpRLXNkeXpCT1EzX04yMG5hYUtBbUJ4ZG5YQ0NPTklXcjVzQ21tVDNIam9KSkhiR3VUck56eVVxU21lcHVVRjdIWkJWVmpncjFR?oc=5)
 
 ---
 
-### [Así desayuna Luis, de 4 años y con diabetes tipo 1: pan integral, huevos cocidos y vegetales - Mundo Deportivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1lyRGZNeHZXQllxRmhURWduWkhZZEpCTUpteHA5M2ZRd0Z6ZzR3dFkyMWFIUTAxUEJBRWNLNVFpWV8zb0hWN3Z4WDNfMWNVNGZNTm94YTVlNklPcHlmY0VTdjM0d3dTbElfOTJyZlhQeVJjVjUwbGxZS1o5clFlbnNEakVVVE1KTmVFSUpLSEx3aG4wQXBXQWQ4bEhELWVMVTl0dXZ1MEVjdGlBdFU4SThhSGhfRnRWendaa0ltWWVqTHNKYVZQQ1dnZlUwZFJMZ2w3aktxRHkzV09q0gHqAUFVX3lxTE1UM09VUjVvVk5WdG9FUFBGZkxfbXdSOXNSY25uSGd3WjNjbWtWNWdiZTd5dWY0amJxNm9aaWhHYnZVMkFrYlRZWDllNnlJR09WZjhNSVY0UlBqd2x4bURPb3h0MkJOQzdZckJYemVQMlBLNmo5NU5BZVFMT1k2M0xhdEFwQWlIUVotbm9panNLU2hQNThoOWNBUTZjQlNZVmFpSHNwbTBhaVZ0UXJqa3V5TTBnMlZRbmE2aTdJVTJNVkR1akJuQkV2ZUFpZ3VIbUxlc0VwT2JGdm84U2c0R2NhX0FCSHZLNFJFdw?oc=5)
+### [Estudio recomienda qué hacer en la mediana edad para prevenir hasta 13 años la demencia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
 
-2026-08-12 <span class="news-indication-tag">diabetes</span>
+2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
-來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1lyRGZNeHZXQllxRmhURWduWkhZZEpCTUpteHA5M2ZRd0Z6ZzR3dFkyMWFIUTAxUEJBRWNLNVFpWV8zb0hWN3Z4WDNfMWNVNGZNTm94YTVlNklPcHlmY0VTdjM0d3dTbElfOTJyZlhQeVJjVjUwbGxZS1o5clFlbnNEakVVVE1KTmVFSUpLSEx3aG4wQXBXQWQ4bEhELWVMVTl0dXZ1MEVjdGlBdFU4SThhSGhfRnRWendaa0ltWWVqTHNKYVZQQ1dnZlUwZFJMZ2w3aktxRHkzV09q0gHqAUFVX3lxTE1UM09VUjVvVk5WdG9FUFBGZkxfbXdSOXNSY25uSGd3WjNjbWtWNWdiZTd5dWY0amJxNm9aaWhHYnZVMkFrYlRZWDllNnlJR09WZjhNSVY0UlBqd2x4bURPb3h0MkJOQzdZckJYemVQMlBLNmo5NU5BZVFMT1k2M0xhdEFwQWlIUVotbm9panNLU2hQNThoOWNBUTZjQlNZVmFpSHNwbTBhaVZ0UXJqa3V5TTBnMlZRbmE2aTdJVTJNVkR1akJuQkV2ZUFpZ3VIbUxlc0VwT2JGdm84U2c0R2NhX0FCSHZLNFJFdw?oc=5)
+來源：[laopinion.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
+
+---
+
+### [Belly Fat vs. BMI: Which Better Predicts Your Heart Disease Risk?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+
+2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 
 ---
 
@@ -86,14 +110,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Un gene che abbassa i livelli di colesterolo cattivo e protegge da diabete e fegato grasso: dai lisosomi una nuova strada per controllare il metabolismo](https://news.google.com/rss/articles/CBMitgJBVV95cUxNRzd1TlBydEZNbXVYMUR3Z19NUHVEZUVrMEtmV1VBOWFyYkxZMVdtYVB2b281QnktZmlOakJVMVNPWXJ4LTI4d2ZxYlBrc3lPUTk3WXlpSmEzUnYxMzdSY3lQZURWY0ZqTGJncER2V2NUX3RyRG10WE53NDR2c1ZOdkZkNnJWWVEwUnpZV3dsMDdvRmwwNWFneTlzY3h0RExuTzI5WEtfSS1URVl6VzhuLUNXNk1CQ2RDS0pUYlJfcG9VdE0yWnNmZ285SFcxcnkzbGtqRFlIQllxUjM0T0tDZ3Y3TnNBbTdPR1ZLZWc3Yy1QUXhvTGMyUjJaUGJsdmhlX2xGbE1PMEttSmJhSk1QUnhBQl8zUUlBMnRDamJiZnhjdHdRWGVkUENteHNPM2VzczRaeVJ3?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitgJBVV95cUxNRzd1TlBydEZNbXVYMUR3Z19NUHVEZUVrMEtmV1VBOWFyYkxZMVdtYVB2b281QnktZmlOakJVMVNPWXJ4LTI4d2ZxYlBrc3lPUTk3WXlpSmEzUnYxMzdSY3lQZURWY0ZqTGJncER2V2NUX3RyRG10WE53NDR2c1ZOdkZkNnJWWVEwUnpZV3dsMDdvRmwwNWFneTlzY3h0RExuTzI5WEtfSS1URVl6VzhuLUNXNk1CQ2RDS0pUYlJfcG9VdE0yWnNmZ285SFcxcnkzbGtqRFlIQllxUjM0T0tDZ3Y3TnNBbTdPR1ZLZWc3Yy1QUXhvTGMyUjJaUGJsdmhlX2xGbE1PMEttSmJhSk1QUnhBQl8zUUlBMnRDamJiZnhjdHdRWGVkUENteHNPM2VzczRaeVJ3?oc=5)
-
----
-
 ### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
 2026-08-12 <span class="news-indication-tag">diabetes</span>
@@ -102,35 +118,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
-
-2026-08-12 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
-
----
-
-### [Over-75s could come off cholesterol-busting statins without harm, claims study - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
-
-2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
-
----
-
 ### [Type 2 Diabetes: GLP-1 Mounjaro May Lower Heart Attack Risk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
-
----
-
-### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
 ---
 
