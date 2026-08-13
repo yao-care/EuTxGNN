@@ -3,7 +3,7 @@ layout: default
 title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Bauernhof-Effekt: Neun Bakterien senken Asthma-Risiko um zwei Drittel - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
+### [Forscher belegen den „Bauernhofeffekt“ und finden die Bakterien, die Kinder widerstandsfähig machen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
 
-2026-08-11
+2026-08-13
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
-
----
-
-### [Asthma: Hoher Zuckerkonsum verstärkt Lungenenzündung massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1dDSWdwSURHS21rQmpSWkp4N0JpMF9VRE1qdFl2Y0xhT1V0cDVoZGxFb1FLbTJxeEFUUU53WmhyTWtpakh2d2VXOTlPSnVHQnBWcm01OFpMZkZVeWQ4aTBUY2YxUndLd0dRZWxVQnp5cXAtS2Nza24ySVo5UlpmTnVJanVZYTVaZW80NzhydkVvWU1BbFNPQ3FBclpZWS12cktYWFpSMDJsMlBvcFE?oc=5)
-
-2026-08-11
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1dDSWdwSURHS21rQmpSWkp4N0JpMF9VRE1qdFl2Y0xhT1V0cDVoZGxFb1FLbTJxeEFUUU53WmhyTWtpakh2d2VXOTlPSnVHQnBWcm01OFpMZkZVeWQ4aTBUY2YxUndLd0dRZWxVQnp5cXAtS2Nza24ySVo5UlpmTnVJanVZYTVaZW80NzhydkVvWU1BbFNPQ3FBclpZWS12cktYWFpSMDJsMlBvcFE?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
 
 ---
 

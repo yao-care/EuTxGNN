@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Experto advierte de que síntomas de un ictus como la dificultad para hablar pueden ser confundidos con un golpe de calor](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbC1BSHJRRGE1UDZab1diZGxnLW9TemhGSTlGOU9FTW0zQWdRYXhONGVfU3o1Nkp5cmd1eWFzZ29ERW5uQVJlQ290NHJabC12dFN3OVJ1aENpSnRXQ0MtVmdUamp1d3hscExvQWV6WEVWVmFsTlItRXpFQ2dYVTRXdUdTbDFwS3dTZ2ZhSTVmNXo5alNCWHNRRkNfM09raGRhSFptYmdyZlJwUG42QjloRWNoanZWUUlWVjFDRGJRX3hiek9PRF9JVkw3UlpIb09Lekl5Skp2TUEzaHpHSG44?oc=5)
+
+2026-08-13 <span class="news-indication-tag">ictus</span>
+
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbC1BSHJRRGE1UDZab1diZGxnLW9TemhGSTlGOU9FTW0zQWdRYXhONGVfU3o1Nkp5cmd1eWFzZ29ERW5uQVJlQ290NHJabC12dFN3OVJ1aENpSnRXQ0MtVmdUamp1d3hscExvQWV6WEVWVmFsTlItRXpFQ2dYVTRXdUdTbDFwS3dTZ2ZhSTVmNXo5alNCWHNRRkNfM09raGRhSFptYmdyZlJwUG42QjloRWNoanZWUUlWVjFDRGJRX3hiek9PRF9JVkw3UlpIb09Lekl5Skp2TUEzaHpHSG44?oc=5)
+
+---
+
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpZcU5iLUtyNFJiOVpNNzAwTFloT3NmQmJXSE8zVkRKc0x6Xzl4VDJkUzVoMUZNQVIxY2Rqa2ZIUU84c0Z4elBCLXpvQ01SbG5oTV9GalFWU0ZCV29TTlJPYlNBRVhUWm1oODN4ZExwc3VCUkN4Uk1EMjU4N0szcEdfTHoya2Yyb041aVh5UkxSNGIxdVVtai1zeXE0cmx3QW13UFJyQ2xPa0poOC1BeEFCcHp5bnJRdkREUGkzS2pNR2dYNzNtZWV5VHhLQQ?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpZcU5iLUtyNFJiOVpNNzAwTFloT3NmQmJXSE8zVkRKc0x6Xzl4VDJkUzVoMUZNQVIxY2Rqa2ZIUU84c0Z4elBCLXpvQ01SbG5oTV9GalFWU0ZCV29TTlJPYlNBRVhUWm1oODN4ZExwc3VCUkN4Uk1EMjU4N0szcEdfTHoya2Yyb041aVh5UkxSNGIxdVVtai1zeXE0cmx3QW13UFJyQ2xPa0poOC1BeEFCcHp5bnJRdkREUGkzS2pNR2dYNzNtZWV5VHhLQQ?oc=5)
+
+---
+
+### [Fare le scale salva la vita, giù rischio infarti e ictus: ecco la 'dose' giusta di rampe](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHNKWXY0aVkxRldocFpValVlamJBUVFvRXEwUWVQenF6Vlh6dVZ5Q1IwYmtITkFwODZDRnZEZGtMLWRNXzhPZEE4Rm1qdjY0QTBuRlNweFluT1BwSTZMRXRncmUyTmk0RTFXQ3pPa2RiMzVSSWZibTEtMnNrdEh4elFhcS1EUkFNalUyYldUbGh2a0JQ?oc=5)
+
+2026-08-13 <span class="news-indication-tag">ictus</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHNKWXY0aVkxRldocFpValVlamJBUVFvRXEwUWVQenF6Vlh6dVZ5Q1IwYmtITkFwODZDRnZEZGtMLWRNXzhPZEE4Rm1qdjY0QTBuRlNweFluT1BwSTZMRXRncmUyTmk0RTFXQ3pPa2RiMzVSSWZibTEtMnNrdEh4elFhcS1EUkFNalUyYldUbGh2a0JQ?oc=5)
+
+---
+
+### [Obesidad abdominal y vitamina D baja: el riesgo de muerte aumenta un 123% después de los 50](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzR3T2E5eVQ1NS12cnZXcXd6RDh6N3lGTGZJR1NqdjYwcktYT1lEejdpcVFMSll0VFJrTXVhU0RzX0E0VUtqaGE2bHI4UW5jaUd1ZG80M2VGWWR0NW9kTVRMT2RHWWxSX1lRRWVSOENQa01mMDU1dmZsM1J2SVFfaGlhSnNrMVlqSDdlbHVINWJMa2JFOWktZmsyNFhNN0FBR1FyNlRUMUU4Ymk2LVBkYWxKcXZ4LWVpWmlMMWVua05seVd5TWRKaEttZGI0NzRhRC1za1NDbTFVa00?oc=5)
+
+2026-08-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzR3T2E5eVQ1NS12cnZXcXd6RDh6N3lGTGZJR1NqdjYwcktYT1lEejdpcVFMSll0VFJrTXVhU0RzX0E0VUtqaGE2bHI4UW5jaUd1ZG80M2VGWWR0NW9kTVRMT2RHWWxSX1lRRWVSOENQa01mMDU1dmZsM1J2SVFfaGlhSnNrMVlqSDdlbHVINWJMa2JFOWktZmsyNFhNN0FBR1FyNlRUMUU4Ymk2LVBkYWxKcXZ4LWVpWmlMMWVua05seVd5TWRKaEttZGI0NzRhRC1za1NDbTFVa00?oc=5)
+
+---
 
 ### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
----
-
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGQyMndhbWRmVUFkUHdzd1lIYUlheEpQcXVSTVowUm9NZGgzX0NhZGFBcXhOVzB4dTByQnp3c1VaeWJ2el9ndFhMVWg1bFJjTC1kVm9hSUxvdjN1S3c1UVFQU3VZN2VYX21vaEMxUVVaOTBmdFh1dUtDN0lMYnV5dllER1hPb3RneGlwNXA5X2pQZmxhaGozRWJ4cHByMkE5QUlaem1YelRWT0U?oc=5)
-
-2026-08-13 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGQyMndhbWRmVUFkUHdzd1lIYUlheEpQcXVSTVowUm9NZGgzX0NhZGFBcXhOVzB4dTByQnp3c1VaeWJ2el9ndFhMVWg1bFJjTC1kVm9hSUxvdjN1S3c1UVFQU3VZN2VYX21vaEMxUVVaOTBmdFh1dUtDN0lMYnV5dllER1hPb3RneGlwNXA5X2pQZmxhaGozRWJ4cHByMkE5QUlaem1YelRWT0U?oc=5)
-
----
-
-### [El Ozempic se dispara en EEUU: ya lo toma el 11% de los adultos, casi cuatro veces más que hace dos años](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG1DdW9vcGtXSWJFLTBrU1pRVzhpWDNES0tiNk5PN2ZWaERHSU5sRmJhOVpmYUtfVmtLakwyLVZ3WjFLTmxXOWo0b1Rwb0Nnek9BNXJLOGZWc0Rmc2Y3Nmh1dlJaQmhQZ285aVBzRTdQWkx6YU9tZlFBMEkyZ3dyY0FPX2hYeER4d1duZmRidlFqNUJQOFJKVzdWTXB6cEFuOVN4d0h4Z1RQOVFyakhaZ0F3MjI5TnBQRUw5ZnVSZ9IBxAFBVV95cUxPLVduZlVvVnhEeW1tNC1uV2ViVFo2b0tXVDJCZFRSZ3NFRDFjZGQ2V2tfT29ESVA5QUFOUzlrSGg2enV5clQ1dWdrbVAzYXgzMGFlU3J3aDlldUw5M2FQYUJrS1dEUFVIVmRNNXRCbnVRb3k5MWRYVVg0VjItcW50eURJbEtiWm56SWpyaXhxd0RucENHVVNUNFRiYy05T0lLaFd4ZktkcTZ0SkQzU2JWZEdMMUJXcGZaMjUwcnhuenVNTlMw?oc=5)
-
-2026-08-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG1DdW9vcGtXSWJFLTBrU1pRVzhpWDNES0tiNk5PN2ZWaERHSU5sRmJhOVpmYUtfVmtLakwyLVZ3WjFLTmxXOWo0b1Rwb0Nnek9BNXJLOGZWc0Rmc2Y3Nmh1dlJaQmhQZ285aVBzRTdQWkx6YU9tZlFBMEkyZ3dyY0FPX2hYeER4d1duZmRidlFqNUJQOFJKVzdWTXB6cEFuOVN4d0h4Z1RQOVFyakhaZ0F3MjI5TnBQRUw5ZnVSZ9IBxAFBVV95cUxPLVduZlVvVnhEeW1tNC1uV2ViVFo2b0tXVDJCZFRSZ3NFRDFjZGQ2V2tfT29ESVA5QUFOUzlrSGg2enV5clQ1dWdrbVAzYXgzMGFlU3J3aDlldUw5M2FQYUJrS1dEUFVIVmRNNXRCbnVRb3k5MWRYVVg0VjItcW50eURJbEtiWm56SWpyaXhxd0RucENHVVNUNFRiYy05T0lLaFd4ZktkcTZ0SkQzU2JWZEdMMUJXcGZaMjUwcnhuenVNTlMw?oc=5)
 
 ---
 
@@ -110,11 +126,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Por qué las personas con obesidad o enfermedades cardiovasculares corren más riesgo con el calor extremo - Hoy Aragón](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2hQMm1pZDI4b0Z0MDQ5MmN6cVNDUm9iM0N0VUpMbDJTTF92RDUxRjhnUG9nM2dVNzh2R25haGFLeFQ3Mk1xVUwtWDBZb0wwT0hIcUFhX09iY2RNeVlUMWlONWtxcTRrYlRZcTNXT3Bzcy11bWRIVDZ5dkFMbnNtSzFiejAtMXdPNEFhQ0hTaVc4NlhBblpkM3ltbWZLdHVDS1VjSGtUeUlEaUtrMHpIM045ZVJ5dDdLZnE1N05DUDdHVWZOdjUwN3haSHNUTWcwZVJPMzh0QXhzQ0V3cUVmMXk2Q0F5VFMxeVZn?oc=5)
+### [Ni la báscula, ni el índice de masa corporal revelan el riesgo cardiovascular oculto: “Al corazón le importa más tu cintura que tu peso” - Directo al Paladar](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGRmVjlSV3pJUjBJSF9aTzhJN0JOVUFLeUZ3cERYZlRscWt5Mlg4dU01SWt0TkhRUFItUENYSU1EOGVpQWN0VW5pNG40RURGWEs2Q3h5UE9OVkc0Zm9xMWQ1NTZITjY3dW1OSnZJY1Vaa3lGS0RvRktBbDlfak9xQWtmcWFqNFM2WVAyNGg2Z3gwTDBHMGppOFQtTW5ESFpWZ3pPRHJocVdvR3VEdGx4NGt1Rjl4eldpTkdtV2ZoMnk5WjVDenEtNTY1Y3lSSldwVHl6TWsxMlhGRGJxSXJTSmNTY9IB6AFBVV95cUxQZkxlSk42ZzJoeE5uNUNVQmxLaklTWFFWc0dKOXV6N3NmNFF4MERQUFJrT2FrOHZaLUo5cHNrTnY1U1FfVDU2T2g5eGJxMktkVnd0NDh3dFVkc3JXT2hKNFhSRGZlcHRsN1pnTnNySmtjZjAyeDFJd2NHMXh3R2pKQmh5WDJiZXpLbkp6QV9nVEtUdm93eVI1SGs1QmdkZTBHRUdoeTBHbDJPOUZ5LVVjYndPRnBDUDRsNFd3WmFZS2RObERxN0lYRVQ2cHNBNEtLTC1wSzJQMXJCRzdBWTlrNW1xWURzN2lY?oc=5)
+
+2026-08-11 <span class="news-indication-tag">ictus</span>
+
+來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGRmVjlSV3pJUjBJSF9aTzhJN0JOVUFLeUZ3cERYZlRscWt5Mlg4dU01SWt0TkhRUFItUENYSU1EOGVpQWN0VW5pNG40RURGWEs2Q3h5UE9OVkc0Zm9xMWQ1NTZITjY3dW1OSnZJY1Vaa3lGS0RvRktBbDlfak9xQWtmcWFqNFM2WVAyNGg2Z3gwTDBHMGppOFQtTW5ESFpWZ3pPRHJocVdvR3VEdGx4NGt1Rjl4eldpTkdtV2ZoMnk5WjVDenEtNTY1Y3lSSldwVHl6TWsxMlhGRGJxSXJTSmNTY9IB6AFBVV95cUxQZkxlSk42ZzJoeE5uNUNVQmxLaklTWFFWc0dKOXV6N3NmNFF4MERQUFJrT2FrOHZaLUo5cHNrTnY1U1FfVDU2T2g5eGJxMktkVnd0NDh3dFVkc3JXT2hKNFhSRGZlcHRsN1pnTnNySmtjZjAyeDFJd2NHMXh3R2pKQmh5WDJiZXpLbkp6QV9nVEtUdm93eVI1SGs1QmdkZTBHRUdoeTBHbDJPOUZ5LVVjYndPRnBDUDRsNFd3WmFZS2RObERxN0lYRVQ2cHNBNEtLTC1wSzJQMXJCRzdBWTlrNW1xWURzN2lY?oc=5)
+
+---
+
+### [Por qué las personas con obesidad o enfermedades cardiovasculares corren más riesgo con el calor extremo - hoy aragón](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2hQMm1pZDI4b0Z0MDQ5MmN6cVNDUm9iM0N0VUpMbDJTTF92RDUxRjhnUG9nM2dVNzh2R25haGFLeFQ3Mk1xVUwtWDBZb0wwT0hIcUFhX09iY2RNeVlUMWlONWtxcTRrYlRZcTNXT3Bzcy11bWRIVDZ5dkFMbnNtSzFiejAtMXdPNEFhQ0hTaVc4NlhBblpkM3ltbWZLdHVDS1VjSGtUeUlEaUtrMHpIM045ZVJ5dDdLZnE1N05DUDdHVWZOdjUwN3haSHNUTWcwZVJPMzh0QXhzQ0V3cUVmMXk2Q0F5VFMxeVZn?oc=5)
 
 2026-08-11 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[Hoy Aragón](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2hQMm1pZDI4b0Z0MDQ5MmN6cVNDUm9iM0N0VUpMbDJTTF92RDUxRjhnUG9nM2dVNzh2R25haGFLeFQ3Mk1xVUwtWDBZb0wwT0hIcUFhX09iY2RNeVlUMWlONWtxcTRrYlRZcTNXT3Bzcy11bWRIVDZ5dkFMbnNtSzFiejAtMXdPNEFhQ0hTaVc4NlhBblpkM3ltbWZLdHVDS1VjSGtUeUlEaUtrMHpIM045ZVJ5dDdLZnE1N05DUDdHVWZOdjUwN3haSHNUTWcwZVJPMzh0QXhzQ0V3cUVmMXk2Q0F5VFMxeVZn?oc=5)
+來源：[hoy aragón](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2hQMm1pZDI4b0Z0MDQ5MmN6cVNDUm9iM0N0VUpMbDJTTF92RDUxRjhnUG9nM2dVNzh2R25haGFLeFQ3Mk1xVUwtWDBZb0wwT0hIcUFhX09iY2RNeVlUMWlONWtxcTRrYlRZcTNXT3Bzcy11bWRIVDZ5dkFMbnNtSzFiejAtMXdPNEFhQ0hTaVc4NlhBblpkM3ltbWZLdHVDS1VjSGtUeUlEaUtrMHpIM045ZVJ5dDdLZnE1N05DUDdHVWZOdjUwN3haSHNUTWcwZVJPMzh0QXhzQ0V3cUVmMXk2Q0F5VFMxeVZn?oc=5)
 
 ---
 
@@ -123,22 +147,6 @@ permalink: /news/orlistat/
 2026-08-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
-
----
-
-### [The difference between heat exhaustion and heatstroke explained - The Conversation](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmdMZWFTbW1NaWszMFV1bjF5eVRPdUYteERxeTZqd0hvNjhrdGFGXzFqMmRVdF9uYmlCSkw5ZlFoYmIwQ0FzWHFjY3JKemo0YkliRF9RUEFxV2taTkJzbXJtWkVBNzZqaWZ0NUx4blFOa3VJTDhZVUFmNWJMRGpTRDduU2RxcEh6VHg1Y2xoek9CbDltZDlIN0Q1Sk1BU1U?oc=5)
-
-2026-08-11 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmdMZWFTbW1NaWszMFV1bjF5eVRPdUYteERxeTZqd0hvNjhrdGFGXzFqMmRVdF9uYmlCSkw5ZlFoYmIwQ0FzWHFjY3JKemo0YkliRF9RUEFxV2taTkJzbXJtWkVBNzZqaWZ0NUx4blFOa3VJTDhZVUFmNWJMRGpTRDduU2RxcEh6VHg1Y2xoek9CbDltZDlIN0Q1Sk1BU1U?oc=5)
-
----
-
-### [Primera publicación científica del Observatorio de obesidad infantil, desarrollada íntegramente por investigadores de HM Hospitales - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWdKbXhEYi1JS1I0ZnFGU1IyWUhqV0Rxdl9aT3hpQ0oxQnlvSUp4MmlNSURJdjZTVnFIbE16NEsxb0VKZ2U3cTdtODRxc0dYYS0waHJEdG1PQUJucW16VGw5NUtnd1dOOGFOcWFsX183S0M0SUJ3U1d3SFFmRjV0RFRCWW56YTdSSzNRN0pUS2hqUUxTaXRtZVliTFFnRFowZ01QUl9abVFoUDdoTnk3cUNVY3NXbkx3OTlIN2N30gG4AUFVX3lxTE1HY1BSN0FVTUdZbG04NkV1MlFFNzU3bTBxRzAxWTd3RC1zOHVKcUowYnh2MTlfNXVpbnRTNU90U3ZmQVRiRUlzWkZmNnFwQjkya0tQOVdRc3BuSkowdG5tSm13eDRMblFIYkUzYTlsWlNQZzFVNld4U2p5NFNPZThrZEpCdklkUWdOZms2bmczV2syam0tX1VNUEVyeS1Fa1ZLcFpueEhuOFhzVzJrR0l2ZUFmcTRMVU4?oc=5)
-
-2026-08-11 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWdKbXhEYi1JS1I0ZnFGU1IyWUhqV0Rxdl9aT3hpQ0oxQnlvSUp4MmlNSURJdjZTVnFIbE16NEsxb0VKZ2U3cTdtODRxc0dYYS0waHJEdG1PQUJucW16VGw5NUtnd1dOOGFOcWFsX183S0M0SUJ3U1d3SFFmRjV0RFRCWW56YTdSSzNRN0pUS2hqUUxTaXRtZVliTFFnRFowZ01QUl9abVFoUDdoTnk3cUNVY3NXbkx3OTlIN2N30gG4AUFVX3lxTE1HY1BSN0FVTUdZbG04NkV1MlFFNzU3bTBxRzAxWTd3RC1zOHVKcUowYnh2MTlfNXVpbnRTNU90U3ZmQVRiRUlzWkZmNnFwQjkya0tQOVdRc3BuSkowdG5tSm13eDRMblFIYkUzYTlsWlNQZzFVNld4U2p5NFNPZThrZEpCdklkUWdOZms2bmczV2syam0tX1VNUEVyeS1Fa1ZLcFpueEhuOFhzVzJrR0l2ZUFmcTRMVU4?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Warning over free blood pressure checks as NHS introduces new rule](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
+### [Demenzrisiko: Bluthochdruck und Rauchen verkürzen Leben um 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
+
+---
+
+### [Warning over free blood pressure checks as NHS introduces new rule - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
 
 2026-08-12 <span class="news-indication-tag">hypertension</span>
 
-來源：[express.co.uk](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
 
 ---
 
@@ -67,30 +75,6 @@ permalink: /news/givosiran/
 2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
-
----
-
-### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
----
-
-### [England set to be one of the first countries to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">hepatitis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
-
----
-
-### [England ist auf dem besten Weg, eines der ersten Länder zu werden, in denen Hepatitis C ausgerottet wird - Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
-
-2026-08-11 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
 
 ---
 

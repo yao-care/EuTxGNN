@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "emicrania（migraine） 相關新聞"
+title: "Migräne（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "Migräne（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# emicrania（migraine） 相關新聞
+# Migräne（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
+<strong>Migräne（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,13 +77,21 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Mal di testa da bollino rosso: ecco come prevenire l'emicrania da sbalzi termici](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjRka0ZfVldIQkh5SXQ4ZnBmMnpoWEFBbTkyX085TEJzRDdlNDVyb0dxeDRZckhNbjVEczg0RXZKTDc0dmw2cHR5MUtUVTVWakNmTGFweWczSWNjQ2FrRHdmekREU2o4WF9YNG9YbE9SWW9VbVQtWWFUUWltU1lET0xJMElRWTNvUGdUQmpMaE54ajV4azRaT2xMajN4RGNseUhSa0dESnpJLVI0cTV1eWNkZVB1c1NpeF9CaWlRR0FxekFnTTllWW5R?oc=5)
+### [Zehn Tage Migräne, dann die Schock-Diagnose: 34-Jähriger hat nur noch Monate zu leben](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
+
+2026-08-13
+
+來源：[HNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
+
+---
+
+### [Lo psichiatra spiega gli effetti del caldo su chi ha un disagio psichico: «Crisi di panico, ansia e irritabilità. Fa crescere i problemi e favorisce ricadute pesanti» - Corriere di Bologna](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcmZ6cndGRGg2YndnQ1loQkJoOHBMYUliUE5aSzZ0RTk2YjA4SVJCRXNIN05PeVdCYXlzTVgzdWhOY0xxZEpKZ29mS2t6MHBFeVp1U1c5VEZrYllwbnB3ak5wRWU2UFRhaVh4Q3Y0a05rclQwMEhQUHRIQmZCSXJkNENfb1lQc2VMY01OT01Qcm81SlN3T0NXcXdjNm1mNUZuWU5vVW5ORmdZVjd6NEd2Z0ZBc0ZadGV1NlhFMG9wc2RFVUJfUWsyX29BUWVLc2pVT3l2TnF2SEF1ZDdOb0dJV000c1Y4TTVVaTVTWlhWSlhYMkRUWklQT05Nd3B0QVZwanNWZGloWmY4RFY3VnZzaklDQVM4MGsxdFo0anpWN3RndjVxcGRZWThJQUFsWnZ4cFhaOFRua0g5VGtYbjZGRWZUaGJ2RlNhdkRpRXhXSWxjb1nSAdgCQVVfeXFMTkpSV0lrYWZvdFpEcmhQb3cwUXdCZVQzWnpCVUFjTlVlM21mUVFKSEh3Y3NQSmtPcVhDY0d5V2FoYTBsblNUZFVaZk1qYWlxSGRPaWQzWERvMWphRWgtT0hjS21VbnRLSEU4Vk5JX2RFRHhsT0lXWnJNeF9LWFNLZXRpT2hPNHpEUThGQ2F3eXEtMmllbi1DbTMzRjBsUWdhNndnT19vOFlJZ1hfTlJPSXRNeTZZNEhtZ3hhbHZqdHNIQWMxd05FRnlpUi0yWHQyZ0NpQXltR1hZeXdzYnNfeHgzV3pHODZybDFyU1lobGFtbXpKcFJOSlR0Q1ZHM0t6OVBhTE5FUWZTdHdQQ1ZSeXRad3k4MDc4OVcxSkxwVmRMMFpkZFRxdkI2eHl0LThJcGVWdTExX3haMzV0TTNEUVVWdEM3RTJ6QnVGaFYxckZTejZQbHhVcTQ?oc=5)
 
 2026-08-12
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjRka0ZfVldIQkh5SXQ4ZnBmMnpoWEFBbTkyX085TEJzRDdlNDVyb0dxeDRZckhNbjVEczg0RXZKTDc0dmw2cHR5MUtUVTVWakNmTGFweWczSWNjQ2FrRHdmekREU2o4WF9YNG9YbE9SWW9VbVQtWWFUUWltU1lET0xJMElRWTNvUGdUQmpMaE54ajV4azRaT2xMajN4RGNseUhSa0dESnpJLVI0cTV1eWNkZVB1c1NpeF9CaWlRR0FxekFnTTllWW5R?oc=5)
+來源：[Corriere di Bologna](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcmZ6cndGRGg2YndnQ1loQkJoOHBMYUliUE5aSzZ0RTk2YjA4SVJCRXNIN05PeVdCYXlzTVgzdWhOY0xxZEpKZ29mS2t6MHBFeVp1U1c5VEZrYllwbnB3ak5wRWU2UFRhaVh4Q3Y0a05rclQwMEhQUHRIQmZCSXJkNENfb1lQc2VMY01OT01Qcm81SlN3T0NXcXdjNm1mNUZuWU5vVW5ORmdZVjd6NEd2Z0ZBc0ZadGV1NlhFMG9wc2RFVUJfUWsyX29BUWVLc2pVT3l2TnF2SEF1ZDdOb0dJV000c1Y4TTVVaTVTWlhWSlhYMkRUWklQT05Nd3B0QVZwanNWZGloWmY4RFY3VnZzaklDQVM4MGsxdFo0anpWN3RndjVxcGRZWThJQUFsWnZ4cFhaOFRua0g5VGtYbjZGRWZUaGJ2RlNhdkRpRXhXSWxjb1nSAdgCQVVfeXFMTkpSV0lrYWZvdFpEcmhQb3cwUXdCZVQzWnpCVUFjTlVlM21mUVFKSEh3Y3NQSmtPcVhDY0d5V2FoYTBsblNUZFVaZk1qYWlxSGRPaWQzWERvMWphRWgtT0hjS21VbnRLSEU4Vk5JX2RFRHhsT0lXWnJNeF9LWFNLZXRpT2hPNHpEUThGQ2F3eXEtMmllbi1DbTMzRjBsUWdhNndnT19vOFlJZ1hfTlJPSXRNeTZZNEhtZ3hhbHZqdHNIQWMxd05FRnlpUi0yWHQyZ0NpQXltR1hZeXdzYnNfeHgzV3pHODZybDFyU1lobGFtbXpKcFJOSlR0Q1ZHM0t6OVBhTE5FUWZTdHdQQ1ZSeXRad3k4MDc4OVcxSkxwVmRMMFpkZFRxdkI2eHl0LThJcGVWdTExX3haMzV0TTNEUVVWdEM3RTJ6QnVGaFYxckZTejZQbHhVcTQ?oc=5)
 
 ---
 

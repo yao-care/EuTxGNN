@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTNkWUZmYmpUNW5Ra19BRFRIbm80NEJkeFd3bGQ5cF9SM3QyV1I2dm96cThialVvTXRiMTVVd2gtdF9MMk9fUDVJVkc0Z19janUwVUl4U1p2OE0xM19WT2R1RHB4aEtGajJ4bmpWS29LSm5nTXVqa3EwMTB4RUNiajJCYnVRRlpxdWxuWHgtMjRpXy1JTE1GMzY4YlVJUmhrU2EyWnozYjVKVWZHdFc1OEhjSnFaY3BSb21DcU04R0I5QkVwWmc?oc=5)
+### [Forscher belegen den „Bauernhofeffekt“ und finden die Bakterien, die Kinder widerstandsfähig machen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
 
-2026-08-13 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+2026-08-13 <span class="news-indication-tag">asthma</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTNkWUZmYmpUNW5Ra19BRFRIbm80NEJkeFd3bGQ5cF9SM3QyV1I2dm96cThialVvTXRiMTVVd2gtdF9MMk9fUDVJVkc0Z19janUwVUl4U1p2OE0xM19WT2R1RHB4aEtGajJ4bmpWS29LSm5nTXVqa3EwMTB4RUNiajJCYnVRRlpxdWxuWHgtMjRpXy1JTE1GMzY4YlVJUmhrU2EyWnozYjVKVWZHdFc1OEhjSnFaY3BSb21DcU04R0I5QkVwWmc?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
+
+---
+
+### [Was eine Diabetes-Expertin nie zum Frühstück macht – und was sie stattdessen empfiehlt](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmtwVDlSaWc1cElFZXBsZW9oQUtGU3hhc3FYaTV6MXItTWFFU1BHVy12WWdPZjczRGFQd3pDN2t2b2h2Z3RRR1gtNTBuSVVISnBGa1pzNlo3OUFJZk9INDhpZHFvWGZVMWo0TENJY2lYWjkwY3pjWHBLRnVCUXdrbjd6Z2NDSzV2aXExbEhBRWNWa2dZZ3dSZkdVcFVuOWhuUHZCeHJjNlhkSTNhaUVwV0tQYlZQeUpzam1FazhlOA?oc=5)
+
+2026-08-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Heidelberg24](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmtwVDlSaWc1cElFZXBsZW9oQUtGU3hhc3FYaTV6MXItTWFFU1BHVy12WWdPZjczRGFQd3pDN2t2b2h2Z3RRR1gtNTBuSVVISnBGa1pzNlo3OUFJZk9INDhpZHFvWGZVMWo0TENJY2lYWjkwY3pjWHBLRnVCUXdrbjd6Z2NDSzV2aXExbEhBRWNWa2dZZ3dSZkdVcFVuOWhuUHZCeHJjNlhkSTNhaUVwV0tQYlZQeUpzam1FazhlOA?oc=5)
+
+---
+
+### [Diabetes: Dieses Probiotikum bietet nachweisbaren therapeutischen Nutzen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
+
+2026-08-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
 
 ---
 
@@ -80,25 +96,25 @@ permalink: /news/somapacitan/
 
 ### [Un gene che abbassa i livelli di colesterolo cattivo e protegge da diabete e fegato grasso: dai lisosomi una nuova strada per controllare il metabolismo](https://news.google.com/rss/articles/CBMitgJBVV95cUxNRzd1TlBydEZNbXVYMUR3Z19NUHVEZUVrMEtmV1VBOWFyYkxZMVdtYVB2b281QnktZmlOakJVMVNPWXJ4LTI4d2ZxYlBrc3lPUTk3WXlpSmEzUnYxMzdSY3lQZURWY0ZqTGJncER2V2NUX3RyRG10WE53NDR2c1ZOdkZkNnJWWVEwUnpZV3dsMDdvRmwwNWFneTlzY3h0RExuTzI5WEtfSS1URVl6VzhuLUNXNk1CQ2RDS0pUYlJfcG9VdE0yWnNmZ285SFcxcnkzbGtqRFlIQllxUjM0T0tDZ3Y3TnNBbTdPR1ZLZWc3Yy1QUXhvTGMyUjJaUGJsdmhlX2xGbE1PMEttSmJhSk1QUnhBQl8zUUlBMnRDamJiZnhjdHdRWGVkUENteHNPM2VzczRaeVJ3?oc=5)
 
-2026-08-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
+2026-08-12 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitgJBVV95cUxNRzd1TlBydEZNbXVYMUR3Z19NUHVEZUVrMEtmV1VBOWFyYkxZMVdtYVB2b281QnktZmlOakJVMVNPWXJ4LTI4d2ZxYlBrc3lPUTk3WXlpSmEzUnYxMzdSY3lQZURWY0ZqTGJncER2V2NUX3RyRG10WE53NDR2c1ZOdkZkNnJWWVEwUnpZV3dsMDdvRmwwNWFneTlzY3h0RExuTzI5WEtfSS1URVl6VzhuLUNXNk1CQ2RDS0pUYlJfcG9VdE0yWnNmZ285SFcxcnkzbGtqRFlIQllxUjM0T0tDZ3Y3TnNBbTdPR1ZLZWc3Yy1QUXhvTGMyUjJaUGJsdmhlX2xGbE1PMEttSmJhSk1QUnhBQl8zUUlBMnRDamJiZnhjdHdRWGVkUENteHNPM2VzczRaeVJ3?oc=5)
 
 ---
 
-### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+2026-08-12 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
 ---
 
-### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
 
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-08-12 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzVXWUFnY0V2NWN0Vy1zSGlsaVY1SFdia19yWndnczBkYzNFWVlOczNuYkxjNXNjdUh2UTVOWFNITzFnMl9odXNVTnhUM3h2Z1F3RFozeTVDUHdyWnJjQTd1dFVtbk9YbEUyZXhwV0pWdWVudkFPb0p2YmR6Z1pXMG8zOFJaNnl2b0RuYmRaOVJESEJlaFlpNktWY0kwQWRZTjQ2QlZ5RWZDcE8zY2dYUm1BdHVDcktlbEwyX2hvMms5T1lPSEE?oc=5)
 
 ---
 
@@ -107,30 +123,6 @@ permalink: /news/somapacitan/
 2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
-
----
-
-### [Bauernhof-Effekt: Neun Bakterien senken Asthma-Risiko um zwei Drittel - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
-
-2026-08-11 <span class="news-indication-tag">asthma</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
-
----
-
-### [Wenn Diabetes-Technik auch Stress macht: CGM und Insulinpumpen haben nicht nur Vorteile](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWRod013c2JJbFAtMTk2LUMxTzhEa2FSMVptTl9CQTk0c09mcnRSeHFraWN3ZElGV0pZVWxMUnVXc3FvVXd4Zk1RUktmeXdEdFVMOHZEQTJTTzNfTlo0ZXZsdE1HbV9tanN5LWlNb1lWVEI1Nm1PVXg1RWFqWXR0ZU5CeHpnQWV3dy1xaEFNbk5QemdrLW5tbXA4X2kyV2wyVWVXTFZTUklybkhOZ29yMlpBczMyQ3c0UlVXUE1RejNLOVl3ejQ0?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWRod013c2JJbFAtMTk2LUMxTzhEa2FSMVptTl9CQTk0c09mcnRSeHFraWN3ZElGV0pZVWxMUnVXc3FvVXd4Zk1RUktmeXdEdFVMOHZEQTJTTzNfTlo0ZXZsdE1HbV9tanN5LWlNb1lWVEI1Nm1PVXg1RWFqWXR0ZU5CeHpnQWV3dy1xaEFNbk5QemdrLW5tbXA4X2kyV2wyVWVXTFZTUklybkhOZ29yMlpBczMyQ3c0UlVXUE1RejNLOVl3ejQ0?oc=5)
-
----
-
-### [Asthma: Hoher Zuckerkonsum verstärkt Lungenenzündung massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1dDSWdwSURHS21rQmpSWkp4N0JpMF9VRE1qdFl2Y0xhT1V0cDVoZGxFb1FLbTJxeEFUUU53WmhyTWtpakh2d2VXOTlPSnVHQnBWcm01OFpMZkZVeWQ4aTBUY2YxUndLd0dRZWxVQnp5cXAtS2Nza24ySVo5UlpmTnVJanVZYTVaZW80NzhydkVvWU1BbFNPQ3FBclpZWS12cktYWFpSMDJsMlBvcFE?oc=5)
-
-2026-08-11 <span class="news-indication-tag">asthma</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1dDSWdwSURHS21rQmpSWkp4N0JpMF9VRE1qdFl2Y0xhT1V0cDVoZGxFb1FLbTJxeEFUUU53WmhyTWtpakh2d2VXOTlPSnVHQnBWcm01OFpMZkZVeWQ4aTBUY2YxUndLd0dRZWxVQnp5cXAtS2Nza24ySVo5UlpmTnVJanVZYTVaZW80NzhydkVvWU1BbFNPQ3FBclpZWS12cktYWFpSMDJsMlBvcFE?oc=5)
 
 ---
 

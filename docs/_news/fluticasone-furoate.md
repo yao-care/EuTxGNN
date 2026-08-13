@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Forscher belegen den „Bauernhofeffekt“ und finden die Bakterien, die Kinder widerstandsfähig machen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
+
+2026-08-13 <span class="news-indication-tag">asthma</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
+
+---
 
 ### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
 
 2026-08-13 <span class="news-indication-tag">copd</span>
 
-來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
-
----
-
-### [Bauernhof-Effekt: Neun Bakterien senken Asthma-Risiko um zwei Drittel - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
-
-2026-08-11 <span class="news-indication-tag">asthma</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
-
----
-
-### [Asthma: Hoher Zuckerkonsum verstärkt Lungenenzündung massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1dDSWdwSURHS21rQmpSWkp4N0JpMF9VRE1qdFl2Y0xhT1V0cDVoZGxFb1FLbTJxeEFUUU53WmhyTWtpakh2d2VXOTlPSnVHQnBWcm01OFpMZkZVeWQ4aTBUY2YxUndLd0dRZWxVQnp5cXAtS2Nza24ySVo5UlpmTnVJanVZYTVaZW80NzhydkVvWU1BbFNPQ3FBclpZWS12cktYWFpSMDJsMlBvcFE?oc=5)
-
-2026-08-11 <span class="news-indication-tag">asthma</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1dDSWdwSURHS21rQmpSWkp4N0JpMF9VRE1qdFl2Y0xhT1V0cDVoZGxFb1FLbTJxeEFUUU53WmhyTWtpakh2d2VXOTlPSnVHQnBWcm01OFpMZkZVeWQ4aTBUY2YxUndLd0dRZWxVQnp5cXAtS2Nza24ySVo5UlpmTnVJanVZYTVaZW80NzhydkVvWU1BbFNPQ3FBclpZWS12cktYWFpSMDJsMlBvcFE?oc=5)
+來源：[lungeninformationsdienst.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
 
 ---
 

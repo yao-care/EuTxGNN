@@ -58,7 +58,7 @@ permalink: /news/tedizolid/
 
 2026-08-13 <span class="news-indication-tag">copd</span>
 
-來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
+來源：[lungeninformationsdienst.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,21 +52,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Arthritis origins may begin before birth - Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
 
 2026-08-12 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
-
----
-
-### [Cómo tratar la psoriasis desde dentro - Libertad Digital](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMzB5V0ExdHlmNDhpRHA2SXlpcjBCaDBmSWpPaFBtTFNEaTctWVliNUtxV1daSTRNYVRVUk1HcGRlalMydWZNS3lCaWJVdU16WV9wNFhQX2t6cXdOdFhhVVpJVk9EVFc2Q0Q0cml3NWhTVzRNMlUzd1EwRnpuZFhGVjNRbkZCTFBZSWVjRWZXdXZUOHJKeUFsZ0M1TXgzS19vU2RCN2E0Yjd0cVBDcHpsVHbSAb8BQVVfeXFMT0FrVVZGbE15YXpSS2tiNFg4YlZzTjBEbFZHRF84Q2FQeC1BYUhxZ1pWMDVpNGV3dUdLemNjcUpFRFVRNkI2RWNmX2hCWHFvMEtmMWZJWG9vTmhqem1wemoweWxvejI3NzNPLXFEYl9QMDNObjVwQ0tsYXNJSzllRG5QTWFfNmF3TU0wNm1fa2dUaE9xYkVPNkliSGh1NFM4N1M1cVVFc0RrUy1ob2RnMmFhNjdEVEYyRGw2VVVHbmc?oc=5)
-
-2026-08-11 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMzB5V0ExdHlmNDhpRHA2SXlpcjBCaDBmSWpPaFBtTFNEaTctWVliNUtxV1daSTRNYVRVUk1HcGRlalMydWZNS3lCaWJVdU16WV9wNFhQX2t6cXdOdFhhVVpJVk9EVFc2Q0Q0cml3NWhTVzRNMlUzd1EwRnpuZFhGVjNRbkZCTFBZSWVjRWZXdXZUOHJKeUFsZ0M1TXgzS19vU2RCN2E0Yjd0cVBDcHpsVHbSAb8BQVVfeXFMT0FrVVZGbE15YXpSS2tiNFg4YlZzTjBEbFZHRF84Q2FQeC1BYUhxZ1pWMDVpNGV3dUdLemNjcUpFRFVRNkI2RWNmX2hCWHFvMEtmMWZJWG9vTmhqem1wemoweWxvejI3NzNPLXFEYl9QMDNObjVwQ0tsYXNJSzllRG5QTWFfNmF3TU0wNm1fa2dUaE9xYkVPNkliSGh1NFM4N1M1cVVFc0RrUy1ob2RnMmFhNjdEVEYyRGw2VVVHbmc?oc=5)
 
 ---
 

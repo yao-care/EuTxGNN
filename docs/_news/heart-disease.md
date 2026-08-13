@@ -89,7 +89,7 @@ permalink: /news/heart-disease/
 
 ### [Over-75s could come off cholesterol-busting statins without harm, claims study - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 
-2026-08-13
+2026-08-11
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 

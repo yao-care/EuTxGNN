@@ -54,19 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（4 則）
 
+### [London law student died after taking weight loss drug, inquest hears - London Evening Standard](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHZXS1BRNllNcTJRcGltdmV6cl9yWmt1U1FqVDlDdEd3Y29tSTdUSmY5S3lnLXAtR0pQNWR2XzdQbUNpNXZuZlFQZTd4NGxhekZISV9QUVpZeHlKUGFDVkZzTERQdjRuSVJoY1ZISU9MZXJ4NGpSdTVFQVdGYzBzQm80NzA2RGdWSktuZGp2TnpEX2hCYi1aZ3hQRWx1dkpnbF85cmlXT1kxYTMyc2J3?oc=5)
+
+2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHZXS1BRNllNcTJRcGltdmV6cl9yWmt1U1FqVDlDdEd3Y29tSTdUSmY5S3lnLXAtR0pQNWR2XzdQbUNpNXZuZlFQZTd4NGxhekZISV9QUVpZeHlKUGFDVkZzTERQdjRuSVJoY1ZISU9MZXJ4NGpSdTVFQVdGYzBzQm80NzA2RGdWSktuZGp2TnpEX2hCYi1aZ3hQRWx1dkpnbF85cmlXT1kxYTMyc2J3?oc=5)
+
+---
+
 ### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
----
-
-### [Law student died after taking fat jab despite not being obese - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGpUQVM0eWtzZUtPN0s2MEJwMWlTX2tyOFdhU0hjX01JV1o1TU1hUmx0LV9LeWFLelNTbDZoY1pndm9iQzhMRk1NX1EteHk1bXpLbkRiUk9KbEFhODFyWG5HNGYySVQ2NkM2VjIyQ3lCMHBudks3ZzVOTUJpOGU3clF2MWMwRl9OQ1VkNE1ZVjNUSk45bWRpWGtNdmpsb0RNM21F?oc=5)
-
-2026-08-12 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGpUQVM0eWtzZUtPN0s2MEJwMWlTX2tyOFdhU0hjX01JV1o1TU1hUmx0LV9LeWFLelNTbDZoY1pndm9iQzhMRk1NX1EteHk1bXpLbkRiUk9KbEFhODFyWG5HNGYySVQ2NkM2VjIyQ3lCMHBudks3ZzVOTUJpOGU3clF2MWMwRl9OQ1VkNE1ZVjNUSk45bWRpWGtNdmpsb0RNM21F?oc=5)
 
 ---
 

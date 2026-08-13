@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dolutegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [England set to be one of the first countries to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">hepatitis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
-
----
-
-### [England ist auf dem besten Weg, eines der ersten Länder zu werden, in denen Hepatitis C ausgerottet wird - Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
-
-2026-08-11 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

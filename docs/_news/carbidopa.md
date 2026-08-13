@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [HM CINAC interviene en un estudio sobre la enfermedad de Parkinson - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFKRnVMbVNFNU1IY20zSG95dFlfWlZLX0pqb0twbXBfOF80SnJiX1lra19xX1pWM2pOZFJIUEZRLS1UNGFNeFBBaW96ZFJ0M0xMTXdiV2N1RFJ2VWw1c2dReWFPRndHaDhXeU9SUkEzUnZzRWRLQkRDd0JpZzF5LWZySnM2ZUg4bDlwc2gxR3NSVy05YzVQdGZ1dF9MNnk4end6SldLakctY294R2lLWjI4QndoTUVUbUh2QjVB0gG4AUFVX3lxTE9IZHFqWWQzRDBlZ3NHU3dESHJMX1VUR3VBU2VVcGdJejExcXViY3NzMWROZXpWVzdSNEJ4U053YTBUU0ROc1pUQm5OV0k1Q3FOVHl5QUljYU1icy1YSFZORE8xcWJxQktlb3Nxb2p3OWNBdURMZ0RSc3pUa3liM0x3eFpRZk9XUU5wS2R0YS1PS1hYRW5zQVRjT3lmXzlSSTM2a2hralhGczRhMWZVeTVuaHIxTVB4Ymw?oc=5)
 
 2026-08-12 <span class="news-indication-tag">enfermedad de Parkinson</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFKRnVMbVNFNU1IY20zSG95dFlfWlZLX0pqb0twbXBfOF80SnJiX1lra19xX1pWM2pOZFJIUEZRLS1UNGFNeFBBaW96ZFJ0M0xMTXdiV2N1RFJ2VWw1c2dReWFPRndHaDhXeU9SUkEzUnZzRWRLQkRDd0JpZzF5LWZySnM2ZUg4bDlwc2gxR3NSVy05YzVQdGZ1dF9MNnk4end6SldLakctY294R2lLWjI4QndoTUVUbUh2QjVB0gG4AUFVX3lxTE9IZHFqWWQzRDBlZ3NHU3dESHJMX1VUR3VBU2VVcGdJejExcXViY3NzMWROZXpWVzdSNEJ4U053YTBUU0ROc1pUQm5OV0k1Q3FOVHl5QUljYU1icy1YSFZORE8xcWJxQktlb3Nxb2p3OWNBdURMZ0RSc3pUa3liM0x3eFpRZk9XUU5wS2R0YS1PS1hYRW5zQVRjT3lmXzlSSTM2a2hralhGczRhMWZVeTVuaHIxTVB4Ymw?oc=5)
-
----
-
-### [« Je suis complètement dépendant de ma femme » : à 85 ans, cet habitant de Saint-Dié raconte sa vie avec la maladie d'Alzheimer - Vosges Matin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFVWNkJXUF8zSFpmREFjejBsa2JUaTEwNWRHS09aUjhKZGJBT3pfNEhvWlJNcG1iam1YazFaR0RYSUFFU24yRzBwdlpxMjI0Vmg3RXVOQ3RJMUtuU05IYXVHRTE5Ui1jN2FHWVJUblM2cVBzUDljeTE2N1JuSGlOTmRCMi0yMkljWkpyM1Y5WHo3RFhPN3IzTTFYRXhFSnRsV0twWnhlbmRPQVZmYkU4SUFYU0U2T3lqbGJMRXVlQ1ZHVmhlLUt3VlZ6UjQ0TmNrUzEzeTNOOXZIbDFzVndJdk51M2RkZw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Vosges Matin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFVWNkJXUF8zSFpmREFjejBsa2JUaTEwNWRHS09aUjhKZGJBT3pfNEhvWlJNcG1iam1YazFaR0RYSUFFU24yRzBwdlpxMjI0Vmg3RXVOQ3RJMUtuU05IYXVHRTE5Ui1jN2FHWVJUblM2cVBzUDljeTE2N1JuSGlOTmRCMi0yMkljWkpyM1Y5WHo3RFhPN3IzTTFYRXhFSnRsV0twWnhlbmRPQVZmYkU4SUFYU0U2T3lqbGJMRXVlQ1ZHVmhlLUt3VlZ6UjQ0TmNrUzEzeTNOOXZIbDFzVndJdk51M2RkZw?oc=5)
 
 ---
 
