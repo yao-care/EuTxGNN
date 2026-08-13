@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+
+2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+
+---
+
+### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGQyMndhbWRmVUFkUHdzd1lIYUlheEpQcXVSTVowUm9NZGgzX0NhZGFBcXhOVzB4dTByQnp3c1VaeWJ2el9ndFhMVWg1bFJjTC1kVm9hSUxvdjN1S3c1UVFQU3VZN2VYX21vaEMxUVVaOTBmdFh1dUtDN0lMYnV5dllER1hPb3RneGlwNXA5X2pQZmxhaGozRWJ4cHByMkE5QUlaem1YelRWT0U?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGQyMndhbWRmVUFkUHdzd1lIYUlheEpQcXVSTVowUm9NZGgzX0NhZGFBcXhOVzB4dTByQnp3c1VaeWJ2el9ndFhMVWg1bFJjTC1kVm9hSUxvdjN1S3c1UVFQU3VZN2VYX21vaEMxUVVaOTBmdFh1dUtDN0lMYnV5dllER1hPb3RneGlwNXA5X2pQZmxhaGozRWJ4cHByMkE5QUlaem1YelRWT0U?oc=5)
+
+---
+
+### [El Ozempic se dispara en EEUU: ya lo toma el 11% de los adultos, casi cuatro veces más que hace dos años](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG1DdW9vcGtXSWJFLTBrU1pRVzhpWDNES0tiNk5PN2ZWaERHSU5sRmJhOVpmYUtfVmtLakwyLVZ3WjFLTmxXOWo0b1Rwb0Nnek9BNXJLOGZWc0Rmc2Y3Nmh1dlJaQmhQZ285aVBzRTdQWkx6YU9tZlFBMEkyZ3dyY0FPX2hYeER4d1duZmRidlFqNUJQOFJKVzdWTXB6cEFuOVN4d0h4Z1RQOVFyakhaZ0F3MjI5TnBQRUw5ZnVSZ9IBxAFBVV95cUxPLVduZlVvVnhEeW1tNC1uV2ViVFo2b0tXVDJCZFRSZ3NFRDFjZGQ2V2tfT29ESVA5QUFOUzlrSGg2enV5clQ1dWdrbVAzYXgzMGFlU3J3aDlldUw5M2FQYUJrS1dEUFVIVmRNNXRCbnVRb3k5MWRYVVg0VjItcW50eURJbEtiWm56SWpyaXhxd0RucENHVVNUNFRiYy05T0lLaFd4ZktkcTZ0SkQzU2JWZEdMMUJXcGZaMjUwcnhuenVNTlMw?oc=5)
+
+2026-08-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG1DdW9vcGtXSWJFLTBrU1pRVzhpWDNES0tiNk5PN2ZWaERHSU5sRmJhOVpmYUtfVmtLakwyLVZ3WjFLTmxXOWo0b1Rwb0Nnek9BNXJLOGZWc0Rmc2Y3Nmh1dlJaQmhQZ285aVBzRTdQWkx6YU9tZlFBMEkyZ3dyY0FPX2hYeER4d1duZmRidlFqNUJQOFJKVzdWTXB6cEFuOVN4d0h4Z1RQOVFyakhaZ0F3MjI5TnBQRUw5ZnVSZ9IBxAFBVV95cUxPLVduZlVvVnhEeW1tNC1uV2ViVFo2b0tXVDJCZFRSZ3NFRDFjZGQ2V2tfT29ESVA5QUFOUzlrSGg2enV5clQ1dWdrbVAzYXgzMGFlU3J3aDlldUw5M2FQYUJrS1dEUFVIVmRNNXRCbnVRb3k5MWRYVVg0VjItcW50eURJbEtiWm56SWpyaXhxd0RucENHVVNUNFRiYy05T0lLaFd4ZktkcTZ0SkQzU2JWZEdMMUJXcGZaMjUwcnhuenVNTlMw?oc=5)
+
+---
 
 ### [Atteint d’obésité, le Niortais Mickaël Hardouin Duparc a déjà parcouru (presque) 400 kilomètres](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFlQSmgtWXl5RUpyR1F5NXNBNjZkVGE0MW9YQUxvQ2xWSjFhLVYzQTd5bmVLM1lFRllJTGRxM2RxZlAxVVl2NWJmUmhEVnlLajZSUEQ1ZGNTbmpVbWhaWDlMTFpORGN2THBwVm5WdlpHaHl1bXJoMXJ0RHFFLV9mLWlyRkM3RVFKLVFaQW1mV3pSaW1HZ0lFVHNJTzU0RXRld2RUdi00ZFJVRkhxU2NRYTIyTWJYQjQ0aGgzQk5BczY3OTRCTndGYm9fZGxaeVltUE9XX3BXLXlWN1dkT3c?oc=5)
 
 2026-08-12 <span class="news-indication-tag">obésité</span>
 
 來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFlQSmgtWXl5RUpyR1F5NXNBNjZkVGE0MW9YQUxvQ2xWSjFhLVYzQTd5bmVLM1lFRllJTGRxM2RxZlAxVVl2NWJmUmhEVnlLajZSUEQ1ZGNTbmpVbWhaWDlMTFpORGN2THBwVm5WdlpHaHl1bXJoMXJ0RHFFLV9mLWlyRkM3RVFKLVFaQW1mV3pSaW1HZ0lFVHNJTzU0RXRld2RUdi00ZFJVRkhxU2NRYTIyTWJYQjQ0aGgzQk5BczY3OTRCTndGYm9fZGxaeVltUE9XX3BXLXlWN1dkT3c?oc=5)
-
----
-
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5tTlJfbEhkM0hYNTVJZDlmZDhNR2g0UjNSaENVTHJPU2lWWEpkLWxxUlYwRk1COGxzTUNaUU0xNkJtVzhUVnl1c0Y1U0JPb3k3bWFUWFBTdzgwQXUyQmRTd1luRHQxWjFVUm5QSFpPS1c3S0w5QTdzbjlucVRpakNLXzRwMEsyUlJBbktoVXpka2lYZ3B2NkdJSzBUeXRvZURySndOamk3bzA?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5tTlJfbEhkM0hYNTVJZDlmZDhNR2g0UjNSaENVTHJPU2lWWEpkLWxxUlYwRk1COGxzTUNaUU0xNkJtVzhUVnl1c0Y1U0JPb3k3bWFUWFBTdzgwQXUyQmRTd1luRHQxWjFVUm5QSFpPS1c3S0w5QTdzbjlucVRpakNLXzRwMEsyUlJBbktoVXpka2lYZ3B2NkdJSzBUeXRvZURySndOamk3bzA?oc=5)
-
----
-
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGVtNGJ4eTBBQ2RJQnJjVTY3WEZmRXdpcDBnZTdZOHJyT1Nkako1dlRIWk9NSG5ZZElBQXBmMzMwQy1JTWU1VGZGRHQ1VjVYeHhSUVpjWm9LLVFVVTZfX2JDcEl2NWFoeFBxOWFnOGN6VTBqcFFwTlgwTFp0S2Y3c0ZoSUJyUDljbFpTVm42dG1IanZ1TzY2elJJbUFQSjUxZ2xUYlFKdEg1bzZwTXNYMmMtUGppQWV3OWtseF9iWGJVd2JXYVVlLWx1Wlg5bmxPaHJJ?oc=5)
-
-2026-08-12 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGVtNGJ4eTBBQ2RJQnJjVTY3WEZmRXdpcDBnZTdZOHJyT1Nkako1dlRIWk9NSG5ZZElBQXBmMzMwQy1JTWU1VGZGRHQ1VjVYeHhSUVpjWm9LLVFVVTZfX2JDcEl2NWFoeFBxOWFnOGN6VTBqcFFwTlgwTFp0S2Y3c0ZoSUJyUDljbFpTVm42dG1IanZ1TzY2elJJbUFQSjUxZ2xUYlFKdEg1bzZwTXNYMmMtUGppQWV3OWtseF9iWGJVd2JXYVVlLWx1Wlg5bmxPaHJJ?oc=5)
 
 ---
 

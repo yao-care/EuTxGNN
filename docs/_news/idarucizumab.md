@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Rheuma und Herzgesundheit: Neue S3-Leitlinie definiert klare Standards - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
 
-2026-08-11 <span class="news-indication-tag">arthritis</span>
+2026-08-13 <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
+
+---
+
+### [Arthritis origins may begin before birth - Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
+
+2026-08-12 <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
 
 ---
 

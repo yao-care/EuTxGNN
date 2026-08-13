@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
+
+2026-08-13 <span class="news-indication-tag">copd</span>
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
+
+---
+
+### [Arthritis origins may begin before birth - Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
+
+2026-08-12 <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
+
+---
+
+### [Morbus Crohn: Frühe Diagnose entscheidend für Langzeitverlauf - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
+
+2026-08-12 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
+
+---
 
 ### [Bauernhof-Effekt: Neun Bakterien senken Asthma-Risiko um zwei Drittel - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVdoT3hVTWJudTN3OGVPSHdkWHBvS1BBdGVaLVhZN3RfU1pLMWlLYzNYS29HSzhJYjJHZHVfRlVTbksxaDdoNURXeVBDWnNBZy1UZGoyWVd3NUE4OTVMZ2ZwZzJpVzNyaERmSS0xRWthREpUWUpyN2VPcW92MU9TM0R3OEttX2E1NFRMOUdtUlI1MnpvSkRBdzNoSDk2RjlqRUxabzFSMkZiaUJFb2h3d0RTZW1UVERl?oc=5)
 
@@ -62,27 +86,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Morbus Crohn: Was über die chronische Darmerkrankung 2026 bekannt ist](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOTh1eTVwQS1UYjBKRkZoM0NiWGxad25aOTdkLU1WTnFPQUh1RFh1UDNuVWJJdnlseTdiYnhWMTJSRXNudl9paTRkdzVCLTVFRTdUUnJ0bHRoX1lLVDlzc1JRVVJZZjBnc3cwTU44T2QxNUJ6WEwyR1JTcEpnRVp6SG8xaEZkMDNhQVRJcUZnYzRqRUt1MW5BQnl2NW1wcklVSUh0U1JUU21rQnZucTMxcXVHcnVibDJxaEhWdjVwRS1mRmdkNElNMk4weGNPUQ?oc=5)
-
-2026-08-11 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[Nordsee-Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOTh1eTVwQS1UYjBKRkZoM0NiWGxad25aOTdkLU1WTnFPQUh1RFh1UDNuVWJJdnlseTdiYnhWMTJSRXNudl9paTRkdzVCLTVFRTdUUnJ0bHRoX1lLVDlzc1JRVVJZZjBnc3cwTU44T2QxNUJ6WEwyR1JTcEpnRVp6SG8xaEZkMDNhQVRJcUZnYzRqRUt1MW5BQnl2NW1wcklVSUh0U1JUU21rQnZucTMxcXVHcnVibDJxaEhWdjVwRS1mRmdkNElNMk4weGNPUQ?oc=5)
-
----
-
-### [Viel Zucker essen: Neue Studie zeigt unerwarteten Effekt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
+### [Asthma: Hoher Zuckerkonsum verstärkt Lungenenzündung massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1dDSWdwSURHS21rQmpSWkp4N0JpMF9VRE1qdFl2Y0xhT1V0cDVoZGxFb1FLbTJxeEFUUU53WmhyTWtpakh2d2VXOTlPSnVHQnBWcm01OFpMZkZVeWQ4aTBUY2YxUndLd0dRZWxVQnp5cXAtS2Nza24ySVo5UlpmTnVJanVZYTVaZW80NzhydkVvWU1BbFNPQ3FBclpZWS12cktYWFpSMDJsMlBvcFE?oc=5)
 
 2026-08-11 <span class="news-indication-tag">asthma</span>
 
-來源：[futurezone.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
-
----
-
-### [Rheuma und Herzgesundheit: Neue S3-Leitlinie definiert klare Standards - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
-
-2026-08-11 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1dDSWdwSURHS21rQmpSWkp4N0JpMF9VRE1qdFl2Y0xhT1V0cDVoZGxFb1FLbTJxeEFUUU53WmhyTWtpakh2d2VXOTlPSnVHQnBWcm01OFpMZkZVeWQ4aTBUY2YxUndLd0dRZWxVQnp5cXAtS2Nza24ySVo5UlpmTnVJanVZYTVaZW80NzhydkVvWU1BbFNPQ3FBclpZWS12cktYWFpSMDJsMlBvcFE?oc=5)
 
 ---
 

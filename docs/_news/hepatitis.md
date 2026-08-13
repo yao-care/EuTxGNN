@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,7 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [England set to be one of the first countries to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzc3MGZ4YTBpQ09JbmZrbzd2Mlh0XzQ2Z0J0Q2wzSnJvdV9MaHpReHpGdVNLd2doWjZYaU1PN0EtcldKSEFObnc0dV9mNlZGcDFjSXhhc25mdw?oc=5)
 
@@ -68,14 +68,6 @@ permalink: /news/hepatitis/
 2026-08-11
 
 來源：[Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
-
----
-
-### [Hepatitis-A-Impfung wirkt früh: 86,3% Serokonversion nach 15 Tagen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2Vvb2FwS2NyRFhTMzFkZm5LY2lvWnlhbTV4aVlvVlF1ampJNVFaUlczMU5IV2xOcGNrYTd1cTIwejB0SWxUd092aDhoWEZBV2l4MHNiREhwODRUc0xrTGt0UGs0dFhOUHVScUk4T1FrTE1ER3NLejNxWHRLTHRLOWpHZmZKR1l2N2VtenhaWGhQR0RpVF8zSzY4c28?oc=5)
-
-2026-08-11
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2Vvb2FwS2NyRFhTMzFkZm5LY2lvWnlhbTV4aVlvVlF1ampJNVFaUlczMU5IV2xOcGNrYTd1cTIwejB0SWxUd092aDhoWEZBV2l4MHNiREhwODRUc0xrTGt0UGs0dFhOUHVScUk4T1FrTE1ER3NLejNxWHRLTHRLOWpHZmZKR1l2N2VtenhaWGhQR0RpVF8zSzY4c28?oc=5)
 
 ---
 

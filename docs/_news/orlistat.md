@@ -54,6 +54,30 @@ permalink: /news/orlistat/
 
 ## 相關新聞（11 則）
 
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+
+2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+
+---
+
+### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGQyMndhbWRmVUFkUHdzd1lIYUlheEpQcXVSTVowUm9NZGgzX0NhZGFBcXhOVzB4dTByQnp3c1VaeWJ2el9ndFhMVWg1bFJjTC1kVm9hSUxvdjN1S3c1UVFQU3VZN2VYX21vaEMxUVVaOTBmdFh1dUtDN0lMYnV5dllER1hPb3RneGlwNXA5X2pQZmxhaGozRWJ4cHByMkE5QUlaem1YelRWT0U?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGQyMndhbWRmVUFkUHdzd1lIYUlheEpQcXVSTVowUm9NZGgzX0NhZGFBcXhOVzB4dTByQnp3c1VaeWJ2el9ndFhMVWg1bFJjTC1kVm9hSUxvdjN1S3c1UVFQU3VZN2VYX21vaEMxUVVaOTBmdFh1dUtDN0lMYnV5dllER1hPb3RneGlwNXA5X2pQZmxhaGozRWJ4cHByMkE5QUlaem1YelRWT0U?oc=5)
+
+---
+
+### [El Ozempic se dispara en EEUU: ya lo toma el 11% de los adultos, casi cuatro veces más que hace dos años](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG1DdW9vcGtXSWJFLTBrU1pRVzhpWDNES0tiNk5PN2ZWaERHSU5sRmJhOVpmYUtfVmtLakwyLVZ3WjFLTmxXOWo0b1Rwb0Nnek9BNXJLOGZWc0Rmc2Y3Nmh1dlJaQmhQZ285aVBzRTdQWkx6YU9tZlFBMEkyZ3dyY0FPX2hYeER4d1duZmRidlFqNUJQOFJKVzdWTXB6cEFuOVN4d0h4Z1RQOVFyakhaZ0F3MjI5TnBQRUw5ZnVSZ9IBxAFBVV95cUxPLVduZlVvVnhEeW1tNC1uV2ViVFo2b0tXVDJCZFRSZ3NFRDFjZGQ2V2tfT29ESVA5QUFOUzlrSGg2enV5clQ1dWdrbVAzYXgzMGFlU3J3aDlldUw5M2FQYUJrS1dEUFVIVmRNNXRCbnVRb3k5MWRYVVg0VjItcW50eURJbEtiWm56SWpyaXhxd0RucENHVVNUNFRiYy05T0lLaFd4ZktkcTZ0SkQzU2JWZEdMMUJXcGZaMjUwcnhuenVNTlMw?oc=5)
+
+2026-08-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG1DdW9vcGtXSWJFLTBrU1pRVzhpWDNES0tiNk5PN2ZWaERHSU5sRmJhOVpmYUtfVmtLakwyLVZ3WjFLTmxXOWo0b1Rwb0Nnek9BNXJLOGZWc0Rmc2Y3Nmh1dlJaQmhQZ285aVBzRTdQWkx6YU9tZlFBMEkyZ3dyY0FPX2hYeER4d1duZmRidlFqNUJQOFJKVzdWTXB6cEFuOVN4d0h4Z1RQOVFyakhaZ0F3MjI5TnBQRUw5ZnVSZ9IBxAFBVV95cUxPLVduZlVvVnhEeW1tNC1uV2ViVFo2b0tXVDJCZFRSZ3NFRDFjZGQ2V2tfT29ESVA5QUFOUzlrSGg2enV5clQ1dWdrbVAzYXgzMGFlU3J3aDlldUw5M2FQYUJrS1dEUFVIVmRNNXRCbnVRb3k5MWRYVVg0VjItcW50eURJbEtiWm56SWpyaXhxd0RucENHVVNUNFRiYy05T0lLaFd4ZktkcTZ0SkQzU2JWZEdMMUJXcGZaMjUwcnhuenVNTlMw?oc=5)
+
+---
+
 ### [Atteint d’obésité, le Niortais Mickaël Hardouin Duparc a déjà parcouru (presque) 400 kilomètres](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFlQSmgtWXl5RUpyR1F5NXNBNjZkVGE0MW9YQUxvQ2xWSjFhLVYzQTd5bmVLM1lFRllJTGRxM2RxZlAxVVl2NWJmUmhEVnlLajZSUEQ1ZGNTbmpVbWhaWDlMTFpORGN2THBwVm5WdlpHaHl1bXJoMXJ0RHFFLV9mLWlyRkM3RVFKLVFaQW1mV3pSaW1HZ0lFVHNJTzU0RXRld2RUdi00ZFJVRkhxU2NRYTIyTWJYQjQ0aGgzQk5BczY3OTRCTndGYm9fZGxaeVltUE9XX3BXLXlWN1dkT3c?oc=5)
 
 2026-08-12 <span class="news-indication-tag">obésité</span>
@@ -62,19 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5tTlJfbEhkM0hYNTVJZDlmZDhNR2g0UjNSaENVTHJPU2lWWEpkLWxxUlYwRk1COGxzTUNaUU0xNkJtVzhUVnl1c0Y1U0JPb3k3bWFUWFBTdzgwQXUyQmRTd1luRHQxWjFVUm5QSFpPS1c3S0w5QTdzbjlucVRpakNLXzRwMEsyUlJBbktoVXpka2lYZ3B2NkdJSzBUeXRvZURySndOamk3bzA?oc=5)
+### [Bluthochdruck: Höhere Kaliumzufuhr senkt Schlaganfallrisiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
 
-2026-08-12 <span class="news-indication-tag">Adipositas</span>
+2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5tTlJfbEhkM0hYNTVJZDlmZDhNR2g0UjNSaENVTHJPU2lWWEpkLWxxUlYwRk1COGxzTUNaUU0xNkJtVzhUVnl1c0Y1U0JPb3k3bWFUWFBTdzgwQXUyQmRTd1luRHQxWjFVUm5QSFpPS1c3S0w5QTdzbjlucVRpakNLXzRwMEsyUlJBbktoVXpka2lYZ3B2NkdJSzBUeXRvZURySndOamk3bzA?oc=5)
-
----
-
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGVtNGJ4eTBBQ2RJQnJjVTY3WEZmRXdpcDBnZTdZOHJyT1Nkako1dlRIWk9NSG5ZZElBQXBmMzMwQy1JTWU1VGZGRHQ1VjVYeHhSUVpjWm9LLVFVVTZfX2JDcEl2NWFoeFBxOWFnOGN6VTBqcFFwTlgwTFp0S2Y3c0ZoSUJyUDljbFpTVm42dG1IanZ1TzY2elJJbUFQSjUxZ2xUYlFKdEg1bzZwTXNYMmMtUGppQWV3OWtseF9iWGJVd2JXYVVlLWx1Wlg5bmxPaHJJ?oc=5)
-
-2026-08-12 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGVtNGJ4eTBBQ2RJQnJjVTY3WEZmRXdpcDBnZTdZOHJyT1Nkako1dlRIWk9NSG5ZZElBQXBmMzMwQy1JTWU1VGZGRHQ1VjVYeHhSUVpjWm9LLVFVVTZfX2JDcEl2NWFoeFBxOWFnOGN6VTBqcFFwTlgwTFp0S2Y3c0ZoSUJyUDljbFpTVm42dG1IanZ1TzY2elJJbUFQSjUxZ2xUYlFKdEg1bzZwTXNYMmMtUGppQWV3OWtseF9iWGJVd2JXYVVlLWx1Wlg5bmxPaHJJ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
 
 ---
 
@@ -82,7 +98,7 @@ permalink: /news/orlistat/
 
 2026-08-11 <span class="news-indication-tag">stroke</span>
 
-來源：[eatingwell.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE14WmQ5Vnd0dGNWTFVnaU1LNG1SOUZIT0p4NWd1a19qRmJac1dXOGVReEVDMnlaRHZBenplTF9Xei1QdVp4RGxMOWxwTVZXOU9mWGhSaFd4Yk9BNFoyOVZ6c29JRzZTcVpGSnJzdUp5VWwtVkU?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTE14WmQ5Vnd0dGNWTFVnaU1LNG1SOUZIT0p4NWd1a19qRmJac1dXOGVReEVDMnlaRHZBenplTF9Xei1QdVp4RGxMOWxwTVZXOU9mWGhSaFd4Yk9BNFoyOVZ6c29JRzZTcVpGSnJzdUp5VWwtVkU?oc=5)
 
 ---
 
@@ -90,15 +106,7 @@ permalink: /news/orlistat/
 
 2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
-
----
-
-### [Ni la báscula, ni el índice de masa corporal revelan el riesgo cardiovascular oculto: “Al corazón le importa más tu cintura que tu peso” - Directo al Paladar](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGRmVjlSV3pJUjBJSF9aTzhJN0JOVUFLeUZ3cERYZlRscWt5Mlg4dU01SWt0TkhRUFItUENYSU1EOGVpQWN0VW5pNG40RURGWEs2Q3h5UE9OVkc0Zm9xMWQ1NTZITjY3dW1OSnZJY1Vaa3lGS0RvRktBbDlfak9xQWtmcWFqNFM2WVAyNGg2Z3gwTDBHMGppOFQtTW5ESFpWZ3pPRHJocVdvR3VEdGx4NGt1Rjl4eldpTkdtV2ZoMnk5WjVDenEtNTY1Y3lSSldwVHl6TWsxMlhGRGJxSXJTSmNTY9IB6AFBVV95cUxQZkxlSk42ZzJoeE5uNUNVQmxLaklTWFFWc0dKOXV6N3NmNFF4MERQUFJrT2FrOHZaLUo5cHNrTnY1U1FfVDU2T2g5eGJxMktkVnd0NDh3dFVkc3JXT2hKNFhSRGZlcHRsN1pnTnNySmtjZjAyeDFJd2NHMXh3R2pKQmh5WDJiZXpLbkp6QV9nVEtUdm93eVI1SGs1QmdkZTBHRUdoeTBHbDJPOUZ5LVVjYndPRnBDUDRsNFd3WmFZS2RObERxN0lYRVQ2cHNBNEtLTC1wSzJQMXJCRzdBWTlrNW1xWURzN2lY?oc=5)
-
-2026-08-11 <span class="news-indication-tag">ictus</span>
-
-來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGRmVjlSV3pJUjBJSF9aTzhJN0JOVUFLeUZ3cERYZlRscWt5Mlg4dU01SWt0TkhRUFItUENYSU1EOGVpQWN0VW5pNG40RURGWEs2Q3h5UE9OVkc0Zm9xMWQ1NTZITjY3dW1OSnZJY1Vaa3lGS0RvRktBbDlfak9xQWtmcWFqNFM2WVAyNGg2Z3gwTDBHMGppOFQtTW5ESFpWZ3pPRHJocVdvR3VEdGx4NGt1Rjl4eldpTkdtV2ZoMnk5WjVDenEtNTY1Y3lSSldwVHl6TWsxMlhGRGJxSXJTSmNTY9IB6AFBVV95cUxQZkxlSk42ZzJoeE5uNUNVQmxLaklTWFFWc0dKOXV6N3NmNFF4MERQUFJrT2FrOHZaLUo5cHNrTnY1U1FfVDU2T2g5eGJxMktkVnd0NDh3dFVkc3JXT2hKNFhSRGZlcHRsN1pnTnNySmtjZjAyeDFJd2NHMXh3R2pKQmh5WDJiZXpLbkp6QV9nVEtUdm93eVI1SGs1QmdkZTBHRUdoeTBHbDJPOUZ5LVVjYndPRnBDUDRsNFd3WmFZS2RObERxN0lYRVQ2cHNBNEtLTC1wSzJQMXJCRzdBWTlrNW1xWURzN2lY?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
 ---
 
@@ -120,7 +128,7 @@ permalink: /news/orlistat/
 
 ### [The difference between heat exhaustion and heatstroke explained - The Conversation](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmdMZWFTbW1NaWszMFV1bjF5eVRPdUYteERxeTZqd0hvNjhrdGFGXzFqMmRVdF9uYmlCSkw5ZlFoYmIwQ0FzWHFjY3JKemo0YkliRF9RUEFxV2taTkJzbXJtWkVBNzZqaWZ0NUx4blFOa3VJTDhZVUFmNWJMRGpTRDduU2RxcEh6VHg1Y2xoek9CbDltZDlIN0Q1Sk1BU1U?oc=5)
 
-2026-08-11 <span class="news-indication-tag">stroke</span>
+2026-08-11 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmdMZWFTbW1NaWszMFV1bjF5eVRPdUYteERxeTZqd0hvNjhrdGFGXzFqMmRVdF9uYmlCSkw5ZlFoYmIwQ0FzWHFjY3JKemo0YkliRF9RUEFxV2taTkJzbXJtWkVBNzZqaWZ0NUx4blFOa3VJTDhZVUFmNWJMRGpTRDduU2RxcEh6VHg1Y2xoek9CbDltZDlIN0Q1Sk1BU1U?oc=5)
 
@@ -131,14 +139,6 @@ permalink: /news/orlistat/
 2026-08-11 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWdKbXhEYi1JS1I0ZnFGU1IyWUhqV0Rxdl9aT3hpQ0oxQnlvSUp4MmlNSURJdjZTVnFIbE16NEsxb0VKZ2U3cTdtODRxc0dYYS0waHJEdG1PQUJucW16VGw5NUtnd1dOOGFOcWFsX183S0M0SUJ3U1d3SFFmRjV0RFRCWW56YTdSSzNRN0pUS2hqUUxTaXRtZVliTFFnRFowZ01QUl9abVFoUDdoTnk3cUNVY3NXbkx3OTlIN2N30gG4AUFVX3lxTE1HY1BSN0FVTUdZbG04NkV1MlFFNzU3bTBxRzAxWTd3RC1zOHVKcUowYnh2MTlfNXVpbnRTNU90U3ZmQVRiRUlzWkZmNnFwQjkya0tQOVdRc3BuSkowdG5tSm13eDRMblFIYkUzYTlsWlNQZzFVNld4U2p5NFNPZThrZEpCdklkUWdOZms2bmczV2syam0tX1VNUEVyeS1Fa1ZLcFpueEhuOFhzVzJrR0l2ZUFmcTRMVU4?oc=5)
-
----
-
-### [Zepbound reduce el riesgo de infarto y AVC entre diabéticos tipo 2](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFRVTXUwN3F1eUhqVlY2SFlZTktKeFU3VV9YeVVXcTVmcUMyLXpfeHpjMDVGZ0M4QXFVUWhvNlpMYUZtdW9jOXBka1JkVDRYcldPdWk4X1VNYnJHWjlKOGtQYUk0OXJyU1kzX3NzQTROTHA5U3diMDdpOEJGU1hVMmZGUjVrcUU5MG9kMXFjTEFVcXdVNUJ5M1F4S01HX0FaSFFMQmhMVklRQ1V50gHHAUFVX3lxTE96LVUyTkdEd0p5bVpVT3BseEtwNUVlUnZUcHRoRnRPSW5WbTVEOXhoUnducHRqVmJYc3k3b0NRSVJHYmp2WUQzeGhMa0RCVVN2b3pyb0FialRaMlMyWWFEQlg2V2gzQ3FoXzZ0RUc5VFR0R2QyajZHSC1TaWl3b1VYQ19LckY4MHlveVdHT2wtdi1ZUGN4VlkzR0FkUjhRSHBjZXZWSUp2SDZhSGg0SlBkZThsMkhKQmxWMFdBdXl6cWZZQnlsNmc?oc=5)
-
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFRVTXUwN3F1eUhqVlY2SFlZTktKeFU3VV9YeVVXcTVmcUMyLXpfeHpjMDVGZ0M4QXFVUWhvNlpMYUZtdW9jOXBka1JkVDRYcldPdWk4X1VNYnJHWjlKOGtQYUk0OXJyU1kzX3NzQTROTHA5U3diMDdpOEJGU1hVMmZGUjVrcUU5MG9kMXFjTEFVcXdVNUJ5M1F4S01HX0FaSFFMQmhMVklRQ1V50gHHAUFVX3lxTE96LVUyTkdEd0p5bVpVT3BseEtwNUVlUnZUcHRoRnRPSW5WbTVEOXhoUnducHRqVmJYc3k3b0NRSVJHYmp2WUQzeGhMa0RCVVN2b3pyb0FialRaMlMyWWFEQlg2V2gzQ3FoXzZ0RUc5VFR0R2QyajZHSC1TaWl3b1VYQ19LckY4MHlveVdHT2wtdi1ZUGN4VlkzR0FkUjhRSHBjZXZWSUp2SDZhSGg0SlBkZThsMkhKQmxWMFdBdXl6cWZZQnlsNmc?oc=5)
 
 ---
 

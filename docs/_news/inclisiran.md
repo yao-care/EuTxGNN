@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Mal di testa da bollino rosso: ecco come prevenire l'emicrania da sbalzi termici](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjRka0ZfVldIQkh5SXQ4ZnBmMnpoWEFBbTkyX085TEJzRDdlNDVyb0dxeDRZckhNbjVEczg0RXZKTDc0dmw2cHR5MUtUVTVWakNmTGFweWczSWNjQ2FrRHdmekREU2o4WF9YNG9YbE9SWW9VbVQtWWFUUWltU1lET0xJMElRWTNvUGdUQmpMaE54ajV4azRaT2xMajN4RGNseUhSa0dESnpJLVI0cTV1eWNkZVB1c1NpeF9CaWlRR0FxekFnTTllWW5R?oc=5)
+
+2026-08-12 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjRka0ZfVldIQkh5SXQ4ZnBmMnpoWEFBbTkyX085TEJzRDdlNDVyb0dxeDRZckhNbjVEczg0RXZKTDc0dmw2cHR5MUtUVTVWakNmTGFweWczSWNjQ2FrRHdmekREU2o4WF9YNG9YbE9SWW9VbVQtWWFUUWltU1lET0xJMElRWTNvUGdUQmpMaE54ajV4azRaT2xMajN4RGNseUhSa0dESnpJLVI0cTV1eWNkZVB1c1NpeF9CaWlRR0FxekFnTTllWW5R?oc=5)
+
+---
 
 
 <div class="disclaimer">

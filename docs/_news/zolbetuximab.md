@@ -14,7 +14,7 @@ permalink: /news/zolbetuximab/
 ---
 
 <p class="key-answer" data-question="Zolbetuximab 有什麼相關新聞？">
-<strong>Zolbetuximab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zolbetuximab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/zolbetuximab/
 <p><a href="{{ '/drugs/zolbetuximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTNkWUZmYmpUNW5Ra19BRFRIbm80NEJkeFd3bGQ5cF9SM3QyV1I2dm96cThialVvTXRiMTVVd2gtdF9MMk9fUDVJVkc0Z19janUwVUl4U1p2OE0xM19WT2R1RHB4aEtGajJ4bmpWS29LSm5nTXVqa3EwMTB4RUNiajJCYnVRRlpxdWxuWHgtMjRpXy1JTE1GMzY4YlVJUmhrU2EyWnozYjVKVWZHdFc1OEhjSnFaY3BSb21DcU04R0I5QkVwWmc?oc=5)
+
+2026-08-13 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTNkWUZmYmpUNW5Ra19BRFRIbm80NEJkeFd3bGQ5cF9SM3QyV1I2dm96cThialVvTXRiMTVVd2gtdF9MMk9fUDVJVkc0Z19janUwVUl4U1p2OE0xM19WT2R1RHB4aEtGajJ4bmpWS29LSm5nTXVqa3EwMTB4RUNiajJCYnVRRlpxdWxuWHgtMjRpXy1JTE1GMzY4YlVJUmhrU2EyWnozYjVKVWZHdFc1OEhjSnFaY3BSb21DcU04R0I5QkVwWmc?oc=5)
+
+---
 
 ### [Así desayuna Luis, de 4 años y con diabetes tipo 1: pan integral, huevos cocidos y vegetales - Mundo Deportivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1lyRGZNeHZXQllxRmhURWduWkhZZEpCTUpteHA5M2ZRd0Z6ZzR3dFkyMWFIUTAxUEJBRWNLNVFpWV8zb0hWN3Z4WDNfMWNVNGZNTm94YTVlNklPcHlmY0VTdjM0d3dTbElfOTJyZlhQeVJjVjUwbGxZS1o5clFlbnNEakVVVE1KTmVFSUpLSEx3aG4wQXBXQWQ4bEhELWVMVTl0dXZ1MEVjdGlBdFU4SThhSGhfRnRWendaa0ltWWVqTHNKYVZQQ1dnZlUwZFJMZ2w3aktxRHkzV09q0gHqAUFVX3lxTE1UM09VUjVvVk5WdG9FUFBGZkxfbXdSOXNSY25uSGd3WjNjbWtWNWdiZTd5dWY0amJxNm9aaWhHYnZVMkFrYlRZWDllNnlJR09WZjhNSVY0UlBqd2x4bURPb3h0MkJOQzdZckJYemVQMlBLNmo5NU5BZVFMT1k2M0xhdEFwQWlIUVotbm9panNLU2hQNThoOWNBUTZjQlNZVmFpSHNwbTBhaVZ0UXJqa3V5TTBnMlZRbmE2aTdJVTJNVkR1akJuQkV2ZUFpZ3VIbUxlc0VwT2JGdm84U2c0R2NhX0FCSHZLNFJFdw?oc=5)
 
@@ -98,15 +106,7 @@ permalink: /news/zolbetuximab/
 
 2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
-
----
-
-### ["I feel 20 years younger!" OAP sheds seven stone and reverses diabetes in weight loss win - Daily Record](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmYwcWM1c19SRUxIYll5X2ItTDVsREVtUnlsNFJZa2hkVmpPSzBjYURLbTlUY0VSSDhKWVJKUFd1MURIOEVGNGhXMW4xd3NsSkFSSVNfRUhNX21HZ1VOLXptLThqeEpwQWRpWmtfckM1VmxkckJTV1hnYXl0bVBYV2JLcllVRzNx0gGOAUFVX3lxTE1iZVJ4QmswTlhKbjlORFprUE95aXB5Z014Sy05dGpzUnp5cUhodGlIbnIwNFBzN3p4NmNNSzNHUUFmMnJjM3J6NjAxNUJuRkE5aFNjUEFjckZNeDM3blllTzZVNXVIWnJnQ0hnNHZnb0lKZWhlR1lKZDJ6QjFwaC1kVVhfd0M1LWhJTDRIbGc?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmYwcWM1c19SRUxIYll5X2ItTDVsREVtUnlsNFJZa2hkVmpPSzBjYURLbTlUY0VSSDhKWVJKUFd1MURIOEVGNGhXMW4xd3NsSkFSSVNfRUhNX21HZ1VOLXptLThqeEpwQWRpWmtfckM1VmxkckJTV1hnYXl0bVBYV2JLcllVRzNx0gGOAUFVX3lxTE1iZVJ4QmswTlhKbjlORFprUE95aXB5Z014Sy05dGpzUnp5cUhodGlIbnIwNFBzN3p4NmNNSzNHUUFmMnJjM3J6NjAxNUJuRkE5aFNjUEFjckZNeDM3blllTzZVNXVIWnJnQ0hnNHZnb0lKZWhlR1lKZDJ6QjFwaC1kVVhfd0M1LWhJTDRIbGc?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/zolbetuximab/
 2026-08-11 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWRod013c2JJbFAtMTk2LUMxTzhEa2FSMVptTl9CQTk0c09mcnRSeHFraWN3ZElGV0pZVWxMUnVXc3FvVXd4Zk1RUktmeXdEdFVMOHZEQTJTTzNfTlo0ZXZsdE1HbV9tanN5LWlNb1lWVEI1Nm1PVXg1RWFqWXR0ZU5CeHpnQWV3dy1xaEFNbk5QemdrLW5tbXA4X2kyV2wyVWVXTFZTUklybkhOZ29yMlpBczMyQ3c0UlVXUE1RejNLOVl3ejQ0?oc=5)
-
----
-
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
-
-2026-08-11 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/rimegepant/
 
 ---
 
-### [Herzrisiko: Taillenumfang schlägt BMI um 50% bei Normalgewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1VfNlY0R1V3dTYxbGUzUzlOZnBfQzB3VDZUZnNWXzR4WUpjd3ZsM0d1enlpVkZ1TEhsbmVQNUJudWhJcG9ZVnhNRENiT1BiYWhvM05WWVR2cUJMcS1ZbmQ3ZnpFM25senM2OUN1Q0xsQWE5dmJnTTRhUGNXWDV1WENsRnBQTjhqOFRXVURJYnZ6cVRSVzZ2NjdMVWhGTFdyYWJucG1QeS1PakhOdnFsRzdMX0tuNjNHc2c?oc=5)
+### [Mal di testa da bollino rosso: ecco come prevenire l'emicrania da sbalzi termici](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjRka0ZfVldIQkh5SXQ4ZnBmMnpoWEFBbTkyX085TEJzRDdlNDVyb0dxeDRZckhNbjVEczg0RXZKTDc0dmw2cHR5MUtUVTVWakNmTGFweWczSWNjQ2FrRHdmekREU2o4WF9YNG9YbE9SWW9VbVQtWWFUUWltU1lET0xJMElRWTNvUGdUQmpMaE54ajV4azRaT2xMajN4RGNseUhSa0dESnpJLVI0cTV1eWNkZVB1c1NpeF9CaWlRR0FxekFnTTllWW5R?oc=5)
 
-2026-08-12 <span class="news-indication-tag">Herzerkrankung</span>
+2026-08-12 <span class="news-indication-tag">emicrania</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1VfNlY0R1V3dTYxbGUzUzlOZnBfQzB3VDZUZnNWXzR4WUpjd3ZsM0d1enlpVkZ1TEhsbmVQNUJudWhJcG9ZVnhNRENiT1BiYWhvM05WWVR2cUJMcS1ZbmQ3ZnpFM25senM2OUN1Q0xsQWE5dmJnTTRhUGNXWDV1WENsRnBQTjhqOFRXVURJYnZ6cVRSVzZ2NjdMVWhGTFdyYWJucG1QeS1PakhOdnFsRzdMX0tuNjNHc2c?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjRka0ZfVldIQkh5SXQ4ZnBmMnpoWEFBbTkyX085TEJzRDdlNDVyb0dxeDRZckhNbjVEczg0RXZKTDc0dmw2cHR5MUtUVTVWakNmTGFweWczSWNjQ2FrRHdmekREU2o4WF9YNG9YbE9SWW9VbVQtWWFUUWltU1lET0xJMElRWTNvUGdUQmpMaE54ajV4azRaT2xMajN4RGNseUhSa0dESnpJLVI0cTV1eWNkZVB1c1NpeF9CaWlRR0FxekFnTTllWW5R?oc=5)
 
 ---
 
