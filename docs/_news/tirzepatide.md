@@ -56,7 +56,7 @@ permalink: /news/tirzepatide/
 
 ### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 

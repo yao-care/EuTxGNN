@@ -14,7 +14,7 @@ permalink: /news/risdiplam/
 ---
 
 <p class="key-answer" data-question="Risdiplam 有什麼相關新聞？">
-<strong>Risdiplam</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Risdiplam</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/risdiplam/
 <p><a href="{{ '/drugs/risdiplam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [Individuelle Genetik bestimmt die Evolution von Krebs](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Krebs</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
+
+---
+
+### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+
+---
+
+### [Une avancée majeure dans la recherche : des médecins liégeois font une découverte importante au sujet du cancer - RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span>
+
+來源：[RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+
+---
 
 ### [Langlebigkeit durch Thymusfunktion: biologisches Altern messbar beeinflussen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObERXX3VDTzQ0RWlsQjhqQkdvZ1JldWZWcy1sWXFmaHpPQXp3UzlmaGJWTndQWFhuUGppYXoySm1jVmJYRUF4ZHRWMFVEMEJuWEZUWlJ1SmdVRnRWb2hRS2lUbkNDZUo0WXhwSjJaZmtHdmM3T0dIZEVWN3JqRDRpNkh6Z2xEQVhPRWxFblhZOWwzcm1qUS0wLUdWQ1RCZzYzTndWZUx6Q0YyOUU?oc=5)
 
@@ -86,11 +110,19 @@ permalink: /news/risdiplam/
 
 ---
 
-### [Prognosi e metastasi del cancro prevedibili in base al numero di copie mutate di un gene](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
+### [La gripe aviar H5N1 llega a Tasmania y el Gobierno trabaja para desarrollar nuevas vacunas para proteger a ...](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
+
+2026-08-13 <span class="news-indication-tag">asma</span>
+
+來源：[animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
+
+---
+
+### [Prognosi e metastasi del cancro prevedibili in base al numero di copie mutate di un gene - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
 
 2026-08-13 <span class="news-indication-tag">cancro</span>
 
-來源：[fnob.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
 
 ---
 
@@ -110,27 +142,11 @@ permalink: /news/risdiplam/
 
 ---
 
-### [Atteinte d’un cancer, elle se retrouve sans médecin traitant à Angoulême : le combat de Maryline Escribano - Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">cancer</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
-
----
-
-### [Panregza im Fokus: neuer Bluttest erkennt frühe Stadien beim Pankreaskrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
+### [Pankreaskrebs: Neuer Bluttest erkennt frühe Stadien zu 90% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
-
----
-
-### [Contraccettivi e meningioma, cosa sono il desogestrel ed etonogestrel e come agiscono sull'organismo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJ0R0dfR1MtOTI4MHQ2Zm50SHI4TE1QLWVrZHMwTDg1VWtWY0g0VmpHeWIzeDBJUHRDb0daQlZuU011UXV5RFZsekJFb1lpa2YzTUhkcXlQQXAwNnc4QUxNQ3lTU01hc0t5NWR6Uk1qUlhNTXFOMEZJUFpQdjFHYjdER3ZBeXhxLVRqSkVrT3RvSTJ1TklZMGlKOThySHRsaUVOZWV0RnUyWjhGdzJDeXhvYTZocHp6Z2twQzdud2p3Zw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Open](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJ0R0dfR1MtOTI4MHQ2Zm50SHI4TE1QLWVrZHMwTDg1VWtWY0g0VmpHeWIzeDBJUHRDb0daQlZuU011UXV5RFZsekJFb1lpa2YzTUhkcXlQQXAwNnc4QUxNQ3lTU01hc0t5NWR6Uk1qUlhNTXFOMEZJUFpQdjFHYjdER3ZBeXhxLVRqSkVrT3RvSTJ1TklZMGlKOThySHRsaUVOZWV0RnUyWjhGdzJDeXhvYTZocHp6Z2twQzdud2p3Zw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
 
 ---
 

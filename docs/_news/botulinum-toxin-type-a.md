@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen - Lungeninformationsdienst von Helmholtz Munich](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
+### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
 
 2026-08-13 <span class="news-indication-tag">copd</span>
 
-來源：[Lungeninformationsdienst von Helmholtz Munich](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
-
----
-
-### [HM CINAC interviene en un estudio sobre la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFKRnVMbVNFNU1IY20zSG95dFlfWlZLX0pqb0twbXBfOF80SnJiX1lra19xX1pWM2pOZFJIUEZRLS1UNGFNeFBBaW96ZFJ0M0xMTXdiV2N1RFJ2VWw1c2dReWFPRndHaDhXeU9SUkEzUnZzRWRLQkRDd0JpZzF5LWZySnM2ZUg4bDlwc2gxR3NSVy05YzVQdGZ1dF9MNnk4end6SldLakctY294R2lLWjI4QndoTUVUbUh2QjVB0gG4AUFVX3lxTE9IZHFqWWQzRDBlZ3NHU3dESHJMX1VUR3VBU2VVcGdJejExcXViY3NzMWROZXpWVzdSNEJ4U053YTBUU0ROc1pUQm5OV0k1Q3FOVHl5QUljYU1icy1YSFZORE8xcWJxQktlb3Nxb2p3OWNBdURMZ0RSc3pUa3liM0x3eFpRZk9XUU5wS2R0YS1PS1hYRW5zQVRjT3lmXzlSSTM2a2hralhGczRhMWZVeTVuaHIxTVB4Ymw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFKRnVMbVNFNU1IY20zSG95dFlfWlZLX0pqb0twbXBfOF80SnJiX1lra19xX1pWM2pOZFJIUEZRLS1UNGFNeFBBaW96ZFJ0M0xMTXdiV2N1RFJ2VWw1c2dReWFPRndHaDhXeU9SUkEzUnZzRWRLQkRDd0JpZzF5LWZySnM2ZUg4bDlwc2gxR3NSVy05YzVQdGZ1dF9MNnk4end6SldLakctY294R2lLWjI4QndoTUVUbUh2QjVB0gG4AUFVX3lxTE9IZHFqWWQzRDBlZ3NHU3dESHJMX1VUR3VBU2VVcGdJejExcXViY3NzMWROZXpWVzdSNEJ4U053YTBUU0ROc1pUQm5OV0k1Q3FOVHl5QUljYU1icy1YSFZORE8xcWJxQktlb3Nxb2p3OWNBdURMZ0RSc3pUa3liM0x3eFpRZk9XUU5wS2R0YS1PS1hYRW5zQVRjT3lmXzlSSTM2a2hralhGczRhMWZVeTVuaHIxTVB4Ymw?oc=5)
+來源：[lungeninformationsdienst.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
 
 ---
 

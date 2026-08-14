@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
+
+---
+
+### [Autoridades instan a la población a prevenir enfermedades crónicas evitando alimentos procesados - Diario Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjlCUFhFNzFEXzRFZGZSX28tQkNJclVmNTJPRjhnWVUxNUlILVJ6cFkycmY1OThraENzZ1VjRWhWa3p0cnZCREJpaHFoWlZ0WnZIbldTb2R0NFlQQ1lqS2FodW1yQ2hTT3hESmM1MGJHTVZHckl4V3VmNmxuZkxGb25WUnl0LVRmaDNldGE1R2EwUlR3RHdJNVVHWERzMGkwNWVsUGZCYXZ5SWhfQWhmNWxJbFhCRTlLRDhUZU05ZWVWUdIBxwFBVV95cUxNSTJWTzh0Qk9EOGZ6MndQY1doekhQUFVMUUZpQWgyZXZXRGlLSHJ3LTdZZThxbjMxU09DeERMbTVPY1dDakVfQmtmQ1JEbUpQNFhlWTJJV2ZKSWdUNnp5LThPWmdaWTF5dmlIRlNCcGE3LU90SGdZVE16MFJHVlJYaUJuRlNOb1picldMcVBYek9yX18wZ1QwZVNMSDljWWljdHpxbXBnZHRDSjhsZUdRYU9JRDVkUVl5cG92dHNWVDE1cjRlVG5V?oc=5)
+
+2026-08-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjlCUFhFNzFEXzRFZGZSX28tQkNJclVmNTJPRjhnWVUxNUlILVJ6cFkycmY1OThraENzZ1VjRWhWa3p0cnZCREJpaHFoWlZ0WnZIbldTb2R0NFlQQ1lqS2FodW1yQ2hTT3hESmM1MGJHTVZHckl4V3VmNmxuZkxGb25WUnl0LVRmaDNldGE1R2EwUlR3RHdJNVVHWERzMGkwNWVsUGZCYXZ5SWhfQWhmNWxJbFhCRTlLRDhUZU05ZWVWUdIBxwFBVV95cUxNSTJWTzh0Qk9EOGZ6MndQY1doekhQUFVMUUZpQWgyZXZXRGlLSHJ3LTdZZThxbjMxU09DeERMbTVPY1dDakVfQmtmQ1JEbUpQNFhlWTJJV2ZKSWdUNnp5LThPWmdaWTF5dmlIRlNCcGE3LU90SGdZVE16MFJHVlJYaUJuRlNOb1picldMcVBYek9yX18wZ1QwZVNMSDljWWljdHpxbXBnZHRDSjhsZUdRYU9JRDVkUVl5cG92dHNWVDE1cjRlVG5V?oc=5)
+
+---
 
 ### [Kindliche Adipositas: Familienbasierte Verhaltenstherapie verstärkt Effekt der Standardversorgung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
 
@@ -62,19 +78,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpZcU5iLUtyNFJiOVpNNzAwTFloT3NmQmJXSE8zVkRKc0x6Xzl4VDJkUzVoMUZNQVIxY2Rqa2ZIUU84c0Z4elBCLXpvQ01SbG5oTV9GalFWU0ZCV29TTlJPYlNBRVhUWm1oODN4ZExwc3VCUkN4Uk1EMjU4N0szcEdfTHoya2Yyb041aVh5UkxSNGIxdVVtai1zeXE0cmx3QW13UFJyQ2xPa0poOC1BeEFCcHp5bnJRdkREUGkzS2pNR2dYNzNtZWV5VHhLQQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpZcU5iLUtyNFJiOVpNNzAwTFloT3NmQmJXSE8zVkRKc0x6Xzl4VDJkUzVoMUZNQVIxY2Rqa2ZIUU84c0Z4elBCLXpvQ01SbG5oTV9GalFWU0ZCV29TTlJPYlNBRVhUWm1oODN4ZExwc3VCUkN4Uk1EMjU4N0szcEdfTHoya2Yyb041aVh5UkxSNGIxdVVtai1zeXE0cmx3QW13UFJyQ2xPa0poOC1BeEFCcHp5bnJRdkREUGkzS2pNR2dYNzNtZWV5VHhLQQ?oc=5)
-
----
-
-### [Cibi ultraprocessati: la nuova sfida della salute pubblica](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
+### [Cibi ultraprocessati: la nuova sfida della salute pubblica - Valigia Blu](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">obesità</span>
 
-來源：[valigiablu.it](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
+來源：[Valigia Blu](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
 
 ---
 
@@ -88,7 +96,7 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
@@ -98,7 +106,7 @@ permalink: /news/fenfluramine-hydrochloride/
 
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 
 ---
 

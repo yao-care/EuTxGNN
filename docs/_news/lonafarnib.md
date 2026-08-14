@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Warning over free blood pressure checks as NHS introduces new rule - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
 
@@ -66,7 +66,7 @@ permalink: /news/lonafarnib/
 
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 
 ---
 
@@ -78,27 +78,11 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [Millions of Americans with untreated high blood pressure should be taking medication](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
-
-2026-08-12 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
-
----
-
-### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
-來源：[latercera.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium kann helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
+來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 ---
 

@@ -54,6 +54,30 @@ permalink: /news/ozanimod-hydrochloride/
 
 ## 相關新聞（19 則）
 
+### [Individuelle Genetik bestimmt die Evolution von Krebs](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Krebs</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
+
+---
+
+### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+
+---
+
+### [Une avancée majeure dans la recherche : des médecins liégeois font une découverte importante au sujet du cancer - RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span>
+
+來源：[RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+
+---
+
 ### [El plan de vacunación de Trump requeriría millones de dosis individuales que no se utilizan desde hace décadas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUDNkbGJxWXp4aUZnOVBFT1dqZDVHZFd6bGVBWHdDbW1qVjd5WVVHdFhZT1BtbDI5bUlQMnJLQzdNWGljSWp0azZZQmQzVFVTdGRWd3Fqak5VV2g0a3Zzb2lEdEpkMm1UQjU1cVVJNkpWRXA2SUFrN25iRkZNSGdFNm5kMVhMaXAwb21TN1RwV24yZHBXUWRmbUhiZXdKY2RILWFMZHJvVWozLXBkNjgwNHlfNVdTVGxUVjZ5T1JLRnpDSzRXSHdXQmJPQVBVT1B6c0NleVlQWFBLSGtDVjRZMS1lOVV5bnZvalFSZlA3czlxQQ?oc=5)
 
 2026-08-13 <span class="news-indication-tag">MS</span>
@@ -102,11 +126,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Prognosi e metastasi del cancro prevedibili in base al numero di copie mutate di un gene](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
+### [Prognosi e metastasi del cancro prevedibili in base al numero di copie mutate di un gene - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
 
 2026-08-13 <span class="news-indication-tag">cancro</span>
 
-來源：[fnob.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
 
 ---
 
@@ -150,27 +174,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Atteinte d’un cancer, elle se retrouve sans médecin traitant à Angoulême : le combat de Maryline Escribano - Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">cancer</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
-
----
-
-### [Panregza im Fokus: neuer Bluttest erkennt frühe Stadien beim Pankreaskrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
+### [Pankreaskrebs: Neuer Bluttest erkennt frühe Stadien zu 90% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
-
----
-
-### [Contraccettivi e meningioma, cosa sono il desogestrel ed etonogestrel e come agiscono sull'organismo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJ0R0dfR1MtOTI4MHQ2Zm50SHI4TE1QLWVrZHMwTDg1VWtWY0g0VmpHeWIzeDBJUHRDb0daQlZuU011UXV5RFZsekJFb1lpa2YzTUhkcXlQQXAwNnc4QUxNQ3lTU01hc0t5NWR6Uk1qUlhNTXFOMEZJUFpQdjFHYjdER3ZBeXhxLVRqSkVrT3RvSTJ1TklZMGlKOThySHRsaUVOZWV0RnUyWjhGdzJDeXhvYTZocHp6Z2twQzdud2p3Zw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Open](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJ0R0dfR1MtOTI4MHQ2Zm50SHI4TE1QLWVrZHMwTDg1VWtWY0g0VmpHeWIzeDBJUHRDb0daQlZuU011UXV5RFZsekJFb1lpa2YzTUhkcXlQQXAwNnc4QUxNQ3lTU01hc0t5NWR6Uk1qUlhNTXFOMEZJUFpQdjFHYjdER3ZBeXhxLVRqSkVrT3RvSTJ1TklZMGlKOThySHRsaUVOZWV0RnUyWjhGdzJDeXhvYTZocHp6Z2twQzdud2p3Zw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
 
 ---
 
@@ -182,19 +190,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Usa, l'Oms critica la riforma sui vaccini di Trump](https://news.google.com/rss/articles/CBMidkFVX3lxTE9BSEVGdk9FNGtpaHVLa1BTQjJjWFlMODYxV3c2NlpsYlFSSjl2Y0JYWm5mOFhfaWVvOGRrTWlYaVNjMXR0ZUczdmFOekpmaUtfQUNVTGQ5cDljajJwWVJPUDVUVGo5UGQwSU82SXFNRW02TFYyT3c?oc=5)
+### [DASH-Diät: Schon 20% Umsetzung senkt Sterberisiko um 12% - it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTYxWkxRLXhjUUZneEoyUmZCaWJFTUszN1ROcU0zNGQyeFdlNURpbC1JRS1xVVd0eDlYS2huQkxNM2ZNaFhsOVJKdXNrLVBXRHRwaHhIeFdmUWRKLVNabk9PZVNxSnlFVDZCQ2xMWnA2cXJRTjk0VGROZTlfREt6VjF4QlB1MDlkTG12SDlJRQ?oc=5)
 
 2026-08-12 <span class="news-indication-tag">MS</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMidkFVX3lxTE9BSEVGdk9FNGtpaHVLa1BTQjJjWFlMODYxV3c2NlpsYlFSSjl2Y0JYWm5mOFhfaWVvOGRrTWlYaVNjMXR0ZUczdmFOekpmaUtfQUNVTGQ5cDljajJwWVJPUDVUVGo5UGQwSU82SXFNRW02TFYyT3c?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium kann helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTYxWkxRLXhjUUZneEoyUmZCaWJFTUszN1ROcU0zNGQyeFdlNURpbC1JRS1xVVd0eDlYS2huQkxNM2ZNaFhsOVJKdXNrLVBXRHRwaHhIeFdmUWRKLVNabk9PZVNxSnlFVDZCQ2xMWnA2cXJRTjk0VGROZTlfREt6VjF4QlB1MDlkTG12SDlJRQ?oc=5)
 
 ---
 

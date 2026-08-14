@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Avanafil</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
+
+### [Individuelle Genetik bestimmt die Evolution von Krebs](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Krebs</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
+
+---
+
+### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+
+---
+
+### [Une avancée majeure dans la recherche : des médecins liégeois font une découverte importante au sujet du cancer - RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span>
+
+來源：[RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+
+---
+
+### [Studio: fare le scale regolarmente allunga la vita. Ecco perché - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNndJVDJldUN4MTI1QkpkanR4NzZhVUxBdlhWX0hhQzM0NmhHcG5tM2lvbng3SVZYalRxOC1LUkQza3ZKeGNGMWFJTXdSOFdWcFppbDkwRkc2WGZoYzMyeHdHNWZ1ZU0xQk5fd3dRai1pZ1hBWkpiTnJqT0lkTGJTTmp5dGdfcmhCQnRLZ3pB?oc=5)
+
+2026-08-14 <span class="news-indication-tag">ictus</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNndJVDJldUN4MTI1QkpkanR4NzZhVUxBdlhWX0hhQzM0NmhHcG5tM2lvbng3SVZYalRxOC1LUkQza3ZKeGNGMWFJTXdSOFdWcFppbDkwRkc2WGZoYzMyeHdHNWZ1ZU0xQk5fd3dRai1pZ1hBWkpiTnJqT0lkTGJTTmp5dGdfcmhCQnRLZ3pB?oc=5)
+
+---
 
 ### [Langlebigkeit durch Thymusfunktion: biologisches Altern messbar beeinflussen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObERXX3VDTzQ0RWlsQjhqQkdvZ1JldWZWcy1sWXFmaHpPQXp3UzlmaGJWTndQWFhuUGppYXoySm1jVmJYRUF4ZHRWMFVEMEJuWEZUWlJ1SmdVRnRWb2hRS2lUbkNDZUo0WXhwSjJaZmtHdmM3T0dIZEVWN3JqRDRpNkh6Z2xEQVhPRWxFblhZOWwzcm1qUS0wLUdWQ1RCZzYzTndWZUx6Q0YyOUU?oc=5)
 
@@ -59,27 +91,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Adiós a la dictadura del IMC: medir la circunferencia de cintura predice mejor el riesgo cardiovascular - Redacción médica](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYm5uRWVDbjlRREhFU0kzV1JGeGJtTFY2TkU4REE3TlAwOXNDQmdIYTNWcURHQUtyMFNtV0daaHMtQkQ1dHc1ZVk2X05URjd0SmlKN3o3V2c1czZYd21WOXdaWS1fR0RnT2UySG5haHQyN00yYm44VGN2dzRTUDF4U2p0dGhpZ3pxaHRtaFItN1E5LUtVbnFxaDJSVUVYbDd3RkNOeWJfWm40a2xwMldkcS1aOC1waGIyZzFmbTFvaVNfZGhUQUVDNUxoX0pMbjhzdnFYUS1nVWs0QW11TVYzX01pcERpM3M1VHgzRU9oWGtPX3UxMWRUZFJKU2R6ZDU50gGGAkFVX3lxTE9ONl8xTEZDT3N5d1ZJNFhNRnhkcEw4ejNLVTdERlZSMWpRNUZIbjRVNUc4OUZXRVNleTNvYVJlUGY3bm9WRUtZdzdJWnJQOTFvSnhUXzhFNkU5RFZYdWJ6SjM3S1FWWmZiazlXNWljOHJuUnNfbzNzYU9wMTJ1TWxPZWJpM090X1VFcV9fX2pFdEYtZHEtYzgwRThFSVIyRDlYR05fSWloRXh2UDdXNExFTXJGajZXYWNPSk5kSEdNMDd0VnJSTzUwVkhrdmJUaEZSMFhRMFhQWXBBZnVTb2pSQnA0TV9lMjZ6M2dkSEFqLVJ0X3FScWxqVmswNF9RZTZYU0tjdEE?oc=5)
-
-2026-08-13 <span class="news-indication-tag">ictus</span>
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYm5uRWVDbjlRREhFU0kzV1JGeGJtTFY2TkU4REE3TlAwOXNDQmdIYTNWcURHQUtyMFNtV0daaHMtQkQ1dHc1ZVk2X05URjd0SmlKN3o3V2c1czZYd21WOXdaWS1fR0RnT2UySG5haHQyN00yYm44VGN2dzRTUDF4U2p0dGhpZ3pxaHRtaFItN1E5LUtVbnFxaDJSVUVYbDd3RkNOeWJfWm40a2xwMldkcS1aOC1waGIyZzFmbTFvaVNfZGhUQUVDNUxoX0pMbjhzdnFYUS1nVWs0QW11TVYzX01pcERpM3M1VHgzRU9oWGtPX3UxMWRUZFJKU2R6ZDU50gGGAkFVX3lxTE9ONl8xTEZDT3N5d1ZJNFhNRnhkcEw4ejNLVTdERlZSMWpRNUZIbjRVNUc4OUZXRVNleTNvYVJlUGY3bm9WRUtZdzdJWnJQOTFvSnhUXzhFNkU5RFZYdWJ6SjM3S1FWWmZiazlXNWljOHJuUnNfbzNzYU9wMTJ1TWxPZWJpM090X1VFcV9fX2pFdEYtZHEtYzgwRThFSVIyRDlYR05fSWloRXh2UDdXNExFTXJGajZXYWNPSk5kSEdNMDd0VnJSTzUwVkhrdmJUaEZSMFhRMFhQWXBBZnVTb2pSQnA0TV9lMjZ6M2dkSEFqLVJ0X3FScWxqVmswNF9RZTZYU0tjdEE?oc=5)
-
----
-
 ### [Brustkrebs: Dieser Pflanzenstoff zeigt starke krebshemmende Wirkung](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 2026-08-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
-
----
-
-### [Niente ascensore, salire le scale ogni giorno allunga la vita](https://news.google.com/rss/articles/CBMihAFBVV95cUxPblhaN2ZTeGhCMWJwVFpvUl9nODR1Z2dNWHNQY0hoU2dBeEFvOXQtUHQ0dTFyUG5TdFFEXzFaaFJEdmRwTEdlVlNOQ1NzQ0lEekpsTmM3Wml6YXpDWkpGd0RaMWZON19LSmROX01ISUFxaUI4Y2JzQnZLYVVjNlhXQ1FKcW0?oc=5)
-
-2026-08-13 <span class="news-indication-tag">ictus</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihAFBVV95cUxPblhaN2ZTeGhCMWJwVFpvUl9nODR1Z2dNWHNQY0hoU2dBeEFvOXQtUHQ0dTFyUG5TdFFEXzFaaFJEdmRwTEdlVlNOQ1NzQ0lEekpsTmM3Wml6YXpDWkpGd0RaMWZON19LSmROX01ISUFxaUI4Y2JzQnZLYVVjNlhXQ1FKcW0?oc=5)
 
 ---
 
@@ -91,11 +107,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Prognosi e metastasi del cancro prevedibili in base al numero di copie mutate di un gene](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
+### [Prognosi e metastasi del cancro prevedibili in base al numero di copie mutate di un gene - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
 
 2026-08-13 <span class="news-indication-tag">cancro</span>
 
-來源：[fnob.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
 
 ---
 
@@ -109,7 +125,7 @@ permalink: /news/avanafil/
 
 ### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
@@ -123,27 +139,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Atteinte d’un cancer, elle se retrouve sans médecin traitant à Angoulême : le combat de Maryline Escribano - Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">cancer</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
-
----
-
-### [Panregza im Fokus: neuer Bluttest erkennt frühe Stadien beim Pankreaskrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
+### [Pankreaskrebs: Neuer Bluttest erkennt frühe Stadien zu 90% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
-
----
-
-### [Contraccettivi e meningioma, cosa sono il desogestrel ed etonogestrel e come agiscono sull'organismo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJ0R0dfR1MtOTI4MHQ2Zm50SHI4TE1QLWVrZHMwTDg1VWtWY0g0VmpHeWIzeDBJUHRDb0daQlZuU011UXV5RFZsekJFb1lpa2YzTUhkcXlQQXAwNnc4QUxNQ3lTU01hc0t5NWR6Uk1qUlhNTXFOMEZJUFpQdjFHYjdER3ZBeXhxLVRqSkVrT3RvSTJ1TklZMGlKOThySHRsaUVOZWV0RnUyWjhGdzJDeXhvYTZocHp6Z2twQzdud2p3Zw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Open](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJ0R0dfR1MtOTI4MHQ2Zm50SHI4TE1QLWVrZHMwTDg1VWtWY0g0VmpHeWIzeDBJUHRDb0daQlZuU011UXV5RFZsekJFb1lpa2YzTUhkcXlQQXAwNnc4QUxNQ3lTU01hc0t5NWR6Uk1qUlhNTXFOMEZJUFpQdjFHYjdER3ZBeXhxLVRqSkVrT3RvSTJ1TklZMGlKOThySHRsaUVOZWV0RnUyWjhGdzJDeXhvYTZocHp6Z2twQzdud2p3Zw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
 
 ---
 
@@ -152,14 +152,6 @@ permalink: /news/avanafil/
 2026-08-12 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0JPU1djZ2w1UHNDdEhLeVVyRmRHdThjc25rSVNCc05qVFo4NThReGVGSGItZWtkLTM4SVRSS25GV2YwNTdOYjBjdVpfN0ZzdUFaZ3IyQWJzXzBzcC16c0NRRlJNYzB2TGp6MXRSRG9iUWRCdHNpekJjQm1nbVpCWmdXZDQwY3gxNl81WFNoNA?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium kann helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Lo psichiatra spiega gli effetti del caldo su chi ha un disagio psichico: «Crisi di panico, ansia e irritabilità. Fa crescere i problemi e favorisce ricadute pesanti» - Corriere di Bologna](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcmZ6cndGRGg2YndnQ1loQkJoOHBMYUliUE5aSzZ0RTk2YjA4SVJCRXNIN05PeVdCYXlzTVgzdWhOY0xxZEpKZ29mS2t6MHBFeVp1U1c5VEZrYllwbnB3ak5wRWU2UFRhaVh4Q3Y0a05rclQwMEhQUHRIQmZCSXJkNENfb1lQc2VMY01OT01Qcm81SlN3T0NXcXdjNm1mNUZuWU5vVW5ORmdZVjd6NEd2Z0ZBc0ZadGV1NlhFMG9wc2RFVUJfUWsyX29BUWVLc2pVT3l2TnF2SEF1ZDdOb0dJV000c1Y4TTVVaTVTWlhWSlhYMkRUWklQT05Nd3B0QVZwanNWZGloWmY4RFY3VnZzaklDQVM4MGsxdFo0anpWN3RndjVxcGRZWThJQUFsWnZ4cFhaOFRua0g5VGtYbjZGRWZUaGJ2RlNhdkRpRXhXSWxjb1nSAdgCQVVfeXFMTkpSV0lrYWZvdFpEcmhQb3cwUXdCZVQzWnpCVUFjTlVlM21mUVFKSEh3Y3NQSmtPcVhDY0d5V2FoYTBsblNUZFVaZk1qYWlxSGRPaWQzWERvMWphRWgtT0hjS21VbnRLSEU4Vk5JX2RFRHhsT0lXWnJNeF9LWFNLZXRpT2hPNHpEUThGQ2F3eXEtMmllbi1DbTMzRjBsUWdhNndnT19vOFlJZ1hfTlJPSXRNeTZZNEhtZ3hhbHZqdHNIQWMxd05FRnlpUi0yWHQyZ0NpQXltR1hZeXdzYnNfeHgzV3pHODZybDFyU1lobGFtbXpKcFJOSlR0Q1ZHM0t6OVBhTE5FUWZTdHdQQ1ZSeXRad3k4MDc4OVcxSkxwVmRMMFpkZFRxdkI2eHl0LThJcGVWdTExX3haMzV0TTNEUVVWdEM3RTJ6QnVGaFYxckZTejZQbHhVcTQ?oc=5)
+
+2026-08-12 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
+
+來源：[Corriere di Bologna](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcmZ6cndGRGg2YndnQ1loQkJoOHBMYUliUE5aSzZ0RTk2YjA4SVJCRXNIN05PeVdCYXlzTVgzdWhOY0xxZEpKZ29mS2t6MHBFeVp1U1c5VEZrYllwbnB3ak5wRWU2UFRhaVh4Q3Y0a05rclQwMEhQUHRIQmZCSXJkNENfb1lQc2VMY01OT01Qcm81SlN3T0NXcXdjNm1mNUZuWU5vVW5ORmdZVjd6NEd2Z0ZBc0ZadGV1NlhFMG9wc2RFVUJfUWsyX29BUWVLc2pVT3l2TnF2SEF1ZDdOb0dJV000c1Y4TTVVaTVTWlhWSlhYMkRUWklQT05Nd3B0QVZwanNWZGloWmY4RFY3VnZzaklDQVM4MGsxdFo0anpWN3RndjVxcGRZWThJQUFsWnZ4cFhaOFRua0g5VGtYbjZGRWZUaGJ2RlNhdkRpRXhXSWxjb1nSAdgCQVVfeXFMTkpSV0lrYWZvdFpEcmhQb3cwUXdCZVQzWnpCVUFjTlVlM21mUVFKSEh3Y3NQSmtPcVhDY0d5V2FoYTBsblNUZFVaZk1qYWlxSGRPaWQzWERvMWphRWgtT0hjS21VbnRLSEU4Vk5JX2RFRHhsT0lXWnJNeF9LWFNLZXRpT2hPNHpEUThGQ2F3eXEtMmllbi1DbTMzRjBsUWdhNndnT19vOFlJZ1hfTlJPSXRNeTZZNEhtZ3hhbHZqdHNIQWMxd05FRnlpUi0yWHQyZ0NpQXltR1hZeXdzYnNfeHgzV3pHODZybDFyU1lobGFtbXpKcFJOSlR0Q1ZHM0t6OVBhTE5FUWZTdHdQQ1ZSeXRad3k4MDc4OVcxSkxwVmRMMFpkZFRxdkI2eHl0LThJcGVWdTExX3haMzV0TTNEUVVWdEM3RTJ6QnVGaFYxckZTejZQbHhVcTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

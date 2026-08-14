@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
+
+2026-08-14
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
+
+---
+
+### [Autoridades instan a la población a prevenir enfermedades crónicas evitando alimentos procesados - Diario Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjlCUFhFNzFEXzRFZGZSX28tQkNJclVmNTJPRjhnWVUxNUlILVJ6cFkycmY1OThraENzZ1VjRWhWa3p0cnZCREJpaHFoWlZ0WnZIbldTb2R0NFlQQ1lqS2FodW1yQ2hTT3hESmM1MGJHTVZHckl4V3VmNmxuZkxGb25WUnl0LVRmaDNldGE1R2EwUlR3RHdJNVVHWERzMGkwNWVsUGZCYXZ5SWhfQWhmNWxJbFhCRTlLRDhUZU05ZWVWUdIBxwFBVV95cUxNSTJWTzh0Qk9EOGZ6MndQY1doekhQUFVMUUZpQWgyZXZXRGlLSHJ3LTdZZThxbjMxU09DeERMbTVPY1dDakVfQmtmQ1JEbUpQNFhlWTJJV2ZKSWdUNnp5LThPWmdaWTF5dmlIRlNCcGE3LU90SGdZVE16MFJHVlJYaUJuRlNOb1picldMcVBYek9yX18wZ1QwZVNMSDljWWljdHpxbXBnZHRDSjhsZUdRYU9JRDVkUVl5cG92dHNWVDE1cjRlVG5V?oc=5)
+
+2026-08-13
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjlCUFhFNzFEXzRFZGZSX28tQkNJclVmNTJPRjhnWVUxNUlILVJ6cFkycmY1OThraENzZ1VjRWhWa3p0cnZCREJpaHFoWlZ0WnZIbldTb2R0NFlQQ1lqS2FodW1yQ2hTT3hESmM1MGJHTVZHckl4V3VmNmxuZkxGb25WUnl0LVRmaDNldGE1R2EwUlR3RHdJNVVHWERzMGkwNWVsUGZCYXZ5SWhfQWhmNWxJbFhCRTlLRDhUZU05ZWVWUdIBxwFBVV95cUxNSTJWTzh0Qk9EOGZ6MndQY1doekhQUFVMUUZpQWgyZXZXRGlLSHJ3LTdZZThxbjMxU09DeERMbTVPY1dDakVfQmtmQ1JEbUpQNFhlWTJJV2ZKSWdUNnp5LThPWmdaWTF5dmlIRlNCcGE3LU90SGdZVE16MFJHVlJYaUJuRlNOb1picldMcVBYek9yX18wZ1QwZVNMSDljWWljdHpxbXBnZHRDSjhsZUdRYU9JRDVkUVl5cG92dHNWVDE1cjRlVG5V?oc=5)
+
+---
 
 ### [Kindliche Adipositas: Familienbasierte Verhaltenstherapie verstärkt Effekt der Standardversorgung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
 
@@ -46,19 +62,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpZcU5iLUtyNFJiOVpNNzAwTFloT3NmQmJXSE8zVkRKc0x6Xzl4VDJkUzVoMUZNQVIxY2Rqa2ZIUU84c0Z4elBCLXpvQ01SbG5oTV9GalFWU0ZCV29TTlJPYlNBRVhUWm1oODN4ZExwc3VCUkN4Uk1EMjU4N0szcEdfTHoya2Yyb041aVh5UkxSNGIxdVVtai1zeXE0cmx3QW13UFJyQ2xPa0poOC1BeEFCcHp5bnJRdkREUGkzS2pNR2dYNzNtZWV5VHhLQQ?oc=5)
+### [Cibi ultraprocessati: la nuova sfida della salute pubblica - Valigia Blu](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
 
 2026-08-13
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpZcU5iLUtyNFJiOVpNNzAwTFloT3NmQmJXSE8zVkRKc0x6Xzl4VDJkUzVoMUZNQVIxY2Rqa2ZIUU84c0Z4elBCLXpvQ01SbG5oTV9GalFWU0ZCV29TTlJPYlNBRVhUWm1oODN4ZExwc3VCUkN4Uk1EMjU4N0szcEdfTHoya2Yyb041aVh5UkxSNGIxdVVtai1zeXE0cmx3QW13UFJyQ2xPa0poOC1BeEFCcHp5bnJRdkREUGkzS2pNR2dYNzNtZWV5VHhLQQ?oc=5)
-
----
-
-### [Cibi ultraprocessati: la nuova sfida della salute pubblica](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
-
-2026-08-13
-
-來源：[valigiablu.it](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
+來源：[Valigia Blu](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
 
 ---
 
@@ -82,7 +90,7 @@ permalink: /news/obesity/
 
 2026-08-12
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 
 ---
 

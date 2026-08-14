@@ -91,7 +91,7 @@ permalink: /news/heart-disease/
 
 2026-08-12
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 
 ---
 

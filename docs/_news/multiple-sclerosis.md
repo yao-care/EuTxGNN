@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [El plan de vacunación de Trump requeriría millones de dosis individuales que no se utilizan desde hace décadas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUDNkbGJxWXp4aUZnOVBFT1dqZDVHZFd6bGVBWHdDbW1qVjd5WVVHdFhZT1BtbDI5bUlQMnJLQzdNWGljSWp0azZZQmQzVFVTdGRWd3Fqak5VV2g0a3Zzb2lEdEpkMm1UQjU1cVVJNkpWRXA2SUFrN25iRkZNSGdFNm5kMVhMaXAwb21TN1RwV24yZHBXUWRmbUhiZXdKY2RILWFMZHJvVWozLXBkNjgwNHlfNVdTVGxUVjZ5T1JLRnpDSzRXSHdXQmJPQVBVT1B6c0NleVlQWFBLSGtDVjRZMS1lOVV5bnZvalFSZlA3czlxQQ?oc=5)
 
@@ -120,19 +120,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Usa, l'Oms critica la riforma sui vaccini di Trump](https://news.google.com/rss/articles/CBMidkFVX3lxTE9BSEVGdk9FNGtpaHVLa1BTQjJjWFlMODYxV3c2NlpsYlFSSjl2Y0JYWm5mOFhfaWVvOGRrTWlYaVNjMXR0ZUczdmFOekpmaUtfQUNVTGQ5cDljajJwWVJPUDVUVGo5UGQwSU82SXFNRW02TFYyT3c?oc=5)
+### [DASH-Diät: Schon 20% Umsetzung senkt Sterberisiko um 12% - it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTYxWkxRLXhjUUZneEoyUmZCaWJFTUszN1ROcU0zNGQyeFdlNURpbC1JRS1xVVd0eDlYS2huQkxNM2ZNaFhsOVJKdXNrLVBXRHRwaHhIeFdmUWRKLVNabk9PZVNxSnlFVDZCQ2xMWnA2cXJRTjk0VGROZTlfREt6VjF4QlB1MDlkTG12SDlJRQ?oc=5)
 
 2026-08-12
 
-來源：[AGI](https://news.google.com/rss/articles/CBMidkFVX3lxTE9BSEVGdk9FNGtpaHVLa1BTQjJjWFlMODYxV3c2NlpsYlFSSjl2Y0JYWm5mOFhfaWVvOGRrTWlYaVNjMXR0ZUczdmFOekpmaUtfQUNVTGQ5cDljajJwWVJPUDVUVGo5UGQwSU82SXFNRW02TFYyT3c?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium kann helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
-
-2026-08-12
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTYxWkxRLXhjUUZneEoyUmZCaWJFTUszN1ROcU0zNGQyeFdlNURpbC1JRS1xVVd0eDlYS2huQkxNM2ZNaFhsOVJKdXNrLVBXRHRwaHhIeFdmUWRKLVNabk9PZVNxSnlFVDZCQ2xMWnA2cXJRTjk0VGROZTlfREt6VjF4QlB1MDlkTG12SDlJRQ?oc=5)
 
 ---
 

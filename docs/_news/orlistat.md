@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [Studio: fare le scale regolarmente allunga la vita. Ecco perché - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNndJVDJldUN4MTI1QkpkanR4NzZhVUxBdlhWX0hhQzM0NmhHcG5tM2lvbng3SVZYalRxOC1LUkQza3ZKeGNGMWFJTXdSOFdWcFppbDkwRkc2WGZoYzMyeHdHNWZ1ZU0xQk5fd3dRai1pZ1hBWkpiTnJqT0lkTGJTTmp5dGdfcmhCQnRLZ3pB?oc=5)
+
+2026-08-14 <span class="news-indication-tag">ictus</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNndJVDJldUN4MTI1QkpkanR4NzZhVUxBdlhWX0hhQzM0NmhHcG5tM2lvbng3SVZYalRxOC1LUkQza3ZKeGNGMWFJTXdSOFdWcFppbDkwRkc2WGZoYzMyeHdHNWZ1ZU0xQk5fd3dRai1pZ1hBWkpiTnJqT0lkTGJTTmp5dGdfcmhCQnRLZ3pB?oc=5)
+
+---
+
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
+
+---
+
+### [Autoridades instan a la población a prevenir enfermedades crónicas evitando alimentos procesados - Diario Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjlCUFhFNzFEXzRFZGZSX28tQkNJclVmNTJPRjhnWVUxNUlILVJ6cFkycmY1OThraENzZ1VjRWhWa3p0cnZCREJpaHFoWlZ0WnZIbldTb2R0NFlQQ1lqS2FodW1yQ2hTT3hESmM1MGJHTVZHckl4V3VmNmxuZkxGb25WUnl0LVRmaDNldGE1R2EwUlR3RHdJNVVHWERzMGkwNWVsUGZCYXZ5SWhfQWhmNWxJbFhCRTlLRDhUZU05ZWVWUdIBxwFBVV95cUxNSTJWTzh0Qk9EOGZ6MndQY1doekhQUFVMUUZpQWgyZXZXRGlLSHJ3LTdZZThxbjMxU09DeERMbTVPY1dDakVfQmtmQ1JEbUpQNFhlWTJJV2ZKSWdUNnp5LThPWmdaWTF5dmlIRlNCcGE3LU90SGdZVE16MFJHVlJYaUJuRlNOb1picldMcVBYek9yX18wZ1QwZVNMSDljWWljdHpxbXBnZHRDSjhsZUdRYU9JRDVkUVl5cG92dHNWVDE1cjRlVG5V?oc=5)
+
+2026-08-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjlCUFhFNzFEXzRFZGZSX28tQkNJclVmNTJPRjhnWVUxNUlILVJ6cFkycmY1OThraENzZ1VjRWhWa3p0cnZCREJpaHFoWlZ0WnZIbldTb2R0NFlQQ1lqS2FodW1yQ2hTT3hESmM1MGJHTVZHckl4V3VmNmxuZkxGb25WUnl0LVRmaDNldGE1R2EwUlR3RHdJNVVHWERzMGkwNWVsUGZCYXZ5SWhfQWhmNWxJbFhCRTlLRDhUZU05ZWVWUdIBxwFBVV95cUxNSTJWTzh0Qk9EOGZ6MndQY1doekhQUFVMUUZpQWgyZXZXRGlLSHJ3LTdZZThxbjMxU09DeERMbTVPY1dDakVfQmtmQ1JEbUpQNFhlWTJJV2ZKSWdUNnp5LThPWmdaWTF5dmlIRlNCcGE3LU90SGdZVE16MFJHVlJYaUJuRlNOb1picldMcVBYek9yX18wZ1QwZVNMSDljWWljdHpxbXBnZHRDSjhsZUdRYU9JRDVkUVl5cG92dHNWVDE1cjRlVG5V?oc=5)
+
+---
 
 ### [Kindliche Adipositas: Familienbasierte Verhaltenstherapie verstärkt Effekt der Standardversorgung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpZcU5iLUtyNFJiOVpNNzAwTFloT3NmQmJXSE8zVkRKc0x6Xzl4VDJkUzVoMUZNQVIxY2Rqa2ZIUU84c0Z4elBCLXpvQ01SbG5oTV9GalFWU0ZCV29TTlJPYlNBRVhUWm1oODN4ZExwc3VCUkN4Uk1EMjU4N0szcEdfTHoya2Yyb041aVh5UkxSNGIxdVVtai1zeXE0cmx3QW13UFJyQ2xPa0poOC1BeEFCcHp5bnJRdkREUGkzS2pNR2dYNzNtZWV5VHhLQQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpZcU5iLUtyNFJiOVpNNzAwTFloT3NmQmJXSE8zVkRKc0x6Xzl4VDJkUzVoMUZNQVIxY2Rqa2ZIUU84c0Z4elBCLXpvQ01SbG5oTV9GalFWU0ZCV29TTlJPYlNBRVhUWm1oODN4ZExwc3VCUkN4Uk1EMjU4N0szcEdfTHoya2Yyb041aVh5UkxSNGIxdVVtai1zeXE0cmx3QW13UFJyQ2xPa0poOC1BeEFCcHp5bnJRdkREUGkzS2pNR2dYNzNtZWV5VHhLQQ?oc=5)
-
----
-
-### [Adiós a la dictadura del IMC: medir la circunferencia de cintura predice mejor el riesgo cardiovascular - Redacción médica](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYm5uRWVDbjlRREhFU0kzV1JGeGJtTFY2TkU4REE3TlAwOXNDQmdIYTNWcURHQUtyMFNtV0daaHMtQkQ1dHc1ZVk2X05URjd0SmlKN3o3V2c1czZYd21WOXdaWS1fR0RnT2UySG5haHQyN00yYm44VGN2dzRTUDF4U2p0dGhpZ3pxaHRtaFItN1E5LUtVbnFxaDJSVUVYbDd3RkNOeWJfWm40a2xwMldkcS1aOC1waGIyZzFmbTFvaVNfZGhUQUVDNUxoX0pMbjhzdnFYUS1nVWs0QW11TVYzX01pcERpM3M1VHgzRU9oWGtPX3UxMWRUZFJKU2R6ZDU50gGGAkFVX3lxTE9ONl8xTEZDT3N5d1ZJNFhNRnhkcEw4ejNLVTdERlZSMWpRNUZIbjRVNUc4OUZXRVNleTNvYVJlUGY3bm9WRUtZdzdJWnJQOTFvSnhUXzhFNkU5RFZYdWJ6SjM3S1FWWmZiazlXNWljOHJuUnNfbzNzYU9wMTJ1TWxPZWJpM090X1VFcV9fX2pFdEYtZHEtYzgwRThFSVIyRDlYR05fSWloRXh2UDdXNExFTXJGajZXYWNPSk5kSEdNMDd0VnJSTzUwVkhrdmJUaEZSMFhRMFhQWXBBZnVTb2pSQnA0TV9lMjZ6M2dkSEFqLVJ0X3FScWxqVmswNF9RZTZYU0tjdEE?oc=5)
-
-2026-08-13 <span class="news-indication-tag">ictus</span>
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYm5uRWVDbjlRREhFU0kzV1JGeGJtTFY2TkU4REE3TlAwOXNDQmdIYTNWcURHQUtyMFNtV0daaHMtQkQ1dHc1ZVk2X05URjd0SmlKN3o3V2c1czZYd21WOXdaWS1fR0RnT2UySG5haHQyN00yYm44VGN2dzRTUDF4U2p0dGhpZ3pxaHRtaFItN1E5LUtVbnFxaDJSVUVYbDd3RkNOeWJfWm40a2xwMldkcS1aOC1waGIyZzFmbTFvaVNfZGhUQUVDNUxoX0pMbjhzdnFYUS1nVWs0QW11TVYzX01pcERpM3M1VHgzRU9oWGtPX3UxMWRUZFJKU2R6ZDU50gGGAkFVX3lxTE9ONl8xTEZDT3N5d1ZJNFhNRnhkcEw4ejNLVTdERlZSMWpRNUZIbjRVNUc4OUZXRVNleTNvYVJlUGY3bm9WRUtZdzdJWnJQOTFvSnhUXzhFNkU5RFZYdWJ6SjM3S1FWWmZiazlXNWljOHJuUnNfbzNzYU9wMTJ1TWxPZWJpM090X1VFcV9fX2pFdEYtZHEtYzgwRThFSVIyRDlYR05fSWloRXh2UDdXNExFTXJGajZXYWNPSk5kSEdNMDd0VnJSTzUwVkhrdmJUaEZSMFhRMFhQWXBBZnVTb2pSQnA0TV9lMjZ6M2dkSEFqLVJ0X3FScWxqVmswNF9RZTZYU0tjdEE?oc=5)
-
----
-
-### [Niente ascensore, salire le scale ogni giorno allunga la vita](https://news.google.com/rss/articles/CBMihAFBVV95cUxPblhaN2ZTeGhCMWJwVFpvUl9nODR1Z2dNWHNQY0hoU2dBeEFvOXQtUHQ0dTFyUG5TdFFEXzFaaFJEdmRwTEdlVlNOQ1NzQ0lEekpsTmM3Wml6YXpDWkpGd0RaMWZON19LSmROX01ISUFxaUI4Y2JzQnZLYVVjNlhXQ1FKcW0?oc=5)
-
-2026-08-13 <span class="news-indication-tag">ictus</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihAFBVV95cUxPblhaN2ZTeGhCMWJwVFpvUl9nODR1Z2dNWHNQY0hoU2dBeEFvOXQtUHQ0dTFyUG5TdFFEXzFaaFJEdmRwTEdlVlNOQ1NzQ0lEekpsTmM3Wml6YXpDWkpGd0RaMWZON19LSmROX01ISUFxaUI4Y2JzQnZLYVVjNlhXQ1FKcW0?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Cibi ultraprocessati: la nuova sfida della salute pubblica](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
+### [Cibi ultraprocessati: la nuova sfida della salute pubblica - Valigia Blu](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">obesità</span>
 
-來源：[valigiablu.it](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
+來源：[Valigia Blu](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
 
 ---
 
@@ -112,7 +112,7 @@ permalink: /news/orlistat/
 
 ### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
@@ -122,7 +122,7 @@ permalink: /news/orlistat/
 
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 
 ---
 
@@ -131,14 +131,6 @@ permalink: /news/orlistat/
 2026-08-12 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Kreis Unna](https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1dRdTlfNVFHeXZmVFZCVGRmLUt0VU5WNmZhbUt2di1Fb0RlT09TQmdGS0M0R1JaZFpzUG03bU1qYVdsRFFnNnVOUml2M2xubFE1Mkp0Mi02YkZ4NHpaUzdnazczZkc5VmtCRUtqUXV6UkM2YjNlbF9BcUpOY3pON0VsU2Rud1pkaEJBZ3MzcEJmOW5tTi04dC1UUXpjdTR4dGYyR3FEVnQ1RzNtc0dzWQ?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium kann helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
 
 ---
 
