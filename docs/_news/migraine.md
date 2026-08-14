@@ -3,7 +3,7 @@ layout: default
 title: "Migräne（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "Migräne（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<strong>Migräne（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,21 +77,13 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Zehn Tage Migräne, dann die Schock-Diagnose: 34-Jähriger hat nur noch Monate zu leben](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
 
 2026-08-13
 
 來源：[HNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
-
----
-
-### [Testa, stomaco e sistema cardiovascolare. Tutti i rischi del caldo per il corpo umano - La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
-
-2026-08-13
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
 
 ---
 

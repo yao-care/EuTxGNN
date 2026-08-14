@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,27 +85,27 @@ permalink: /news/hypertension/
 
 ## 相關新聞（4 則）
 
-### [Demenzrisiko: Bluthochdruck und Rauchen verkürzen Leben um 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
-
-2026-08-13
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
-
----
-
-### [Estudio recomienda qué hacer en la mediana edad para prevenir hasta 13 años la demencia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
-
-2026-08-12
-
-來源：[laopinion.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
-
----
-
 ### [Warning over free blood pressure checks as NHS introduces new rule - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
 
 2026-08-12
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
+
+---
+
+### [Millions of Americans with untreated high blood pressure should be taking medication](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
+
+2026-08-12
+
+來源：[CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
+
+---
+
+### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+
+2026-08-12
+
+來源：[latercera.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 ---
 

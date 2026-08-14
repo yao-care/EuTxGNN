@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Forscher belegen den „Bauernhofeffekt“ und finden die Bakterien, die Kinder widerstandsfähig machen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/regadenoson/
 2026-08-13 <span class="news-indication-tag">Migräne</span>
 
 來源：[HNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
-
----
-
-### [La gripe aviar H5N1 llega a Tasmania y el Gobierno trabaja para desarrollar nuevas vacunas para proteger a ...](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
-
-2026-08-13 <span class="news-indication-tag">asma</span>
-
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
-
----
-
-### [Testa, stomaco e sistema cardiovascolare. Tutti i rischi del caldo per il corpo umano - La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
-
-2026-08-13 <span class="news-indication-tag">emicrania</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
 
 ---
 

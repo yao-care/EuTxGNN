@@ -54,22 +54,6 @@ permalink: /news/lonafarnib/
 
 ## 相關新聞（6 則）
 
-### [Demenzrisiko: Bluthochdruck und Rauchen verkürzen Leben um 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
-
-2026-08-13 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
-
----
-
-### [Estudio recomienda qué hacer en la mediana edad para prevenir hasta 13 años la demencia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[laopinion.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
-
----
-
 ### [Warning over free blood pressure checks as NHS introduces new rule - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
 
 2026-08-12 <span class="news-indication-tag">hypertension</span>
@@ -82,7 +66,7 @@ permalink: /news/lonafarnib/
 
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[healthline.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 
 ---
 
@@ -91,6 +75,22 @@ permalink: /news/lonafarnib/
 2026-08-12 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
+
+---
+
+### [Millions of Americans with untreated high blood pressure should be taking medication](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
+
+2026-08-12 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
+
+---
+
+### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+
+2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[latercera.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 ---
 

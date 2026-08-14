@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
-### [Epidemia de ébola se extiende a una sexta provincia de RDCongo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalp2UDJsSVNtaU1FWGx2N295M0FNOEtEM250NWFhN2xRaVJSNkxBRUdLUXhnZWJIRjZza3U5V3Y3bjBIZ19oeHZQT3F0amVaUVoxdzB0TkVzWHlfaFllanpqOFBIdjM3M3JuWlF3RTFFM3RHWXhudG5HVjgxT1M1REFlTm8zel9CVUQtdkFxZk4wSFJOakY3VmdSc0ktUUFjbENsZmh5Z2M?oc=5)
+### [El plan de vacunación de Trump requeriría millones de dosis individuales que no se utilizan desde hace décadas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUDNkbGJxWXp4aUZnOVBFT1dqZDVHZFd6bGVBWHdDbW1qVjd5WVVHdFhZT1BtbDI5bUlQMnJLQzdNWGljSWp0azZZQmQzVFVTdGRWd3Fqak5VV2g0a3Zzb2lEdEpkMm1UQjU1cVVJNkpWRXA2SUFrN25iRkZNSGdFNm5kMVhMaXAwb21TN1RwV24yZHBXUWRmbUhiZXdKY2RILWFMZHJvVWozLXBkNjgwNHlfNVdTVGxUVjZ5T1JLRnpDSzRXSHdXQmJPQVBVT1B6c0NleVlQWFBLSGtDVjRZMS1lOVV5bnZvalFSZlA3czlxQQ?oc=5)
 
 2026-08-13 <span class="news-indication-tag">MS</span>
 
-來源：[swissinfo.ch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalp2UDJsSVNtaU1FWGx2N295M0FNOEtEM250NWFhN2xRaVJSNkxBRUdLUXhnZWJIRjZza3U5V3Y3bjBIZ19oeHZQT3F0amVaUVoxdzB0TkVzWHlfaFllanpqOFBIdjM3M3JuWlF3RTFFM3RHWXhudG5HVjgxT1M1REFlTm8zel9CVUQtdkFxZk4wSFJOakY3VmdSc0ktUUFjbENsZmh5Z2M?oc=5)
+來源：[Univision](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUDNkbGJxWXp4aUZnOVBFT1dqZDVHZFd6bGVBWHdDbW1qVjd5WVVHdFhZT1BtbDI5bUlQMnJLQzdNWGljSWp0azZZQmQzVFVTdGRWd3Fqak5VV2g0a3Zzb2lEdEpkMm1UQjU1cVVJNkpWRXA2SUFrN25iRkZNSGdFNm5kMVhMaXAwb21TN1RwV24yZHBXUWRmbUhiZXdKY2RILWFMZHJvVWozLXBkNjgwNHlfNVdTVGxUVjZ5T1JLRnpDSzRXSHdXQmJPQVBVT1B6c0NleVlQWFBLSGtDVjRZMS1lOVV5bnZvalFSZlA3czlxQQ?oc=5)
 
 ---
 
-### [La OMS carga contra la nueva política de inmunización de Trump y defiende las vacunas: "Son seguras y no causan autismo" - Redacción médica](https://news.google.com/rss/articles/CBMilwJBVV95cUxNZm1pemVpbDA2T3FUSVQtV293VGN4cEcyV21Zdzlmbm9oZ2t6cWdJemhtU0hzeEp1YkVQSHpRN0xrSEVLcGhqaXJtNVlYWUh1cUtEdk9SSHotVFp0dWFLY0pVSXprelo4eHNEYkgtMEhxUHVOamNDdm55TEE5QllBUDlXNlVvcTZ6eHRMNTNMcDJnZFVlaWV3T1l0N0dxN1JWUGtsZnpoVEs1NmJlSndkNUdyVk1OUTg4LW5tWXoxRndGSUJuZ1hhaTdwS3BNeE1NckxWcnEzcTFIeGJkZDE1em5rY1ZHODVVNWNrNndVMVBQNnNrZlVIaUtGSFExQ3VXMkJaNE0tWW1HU0xLTnBhVWJlNHVkeVHSAZwCQVVfeXFMUGZYdzlLRFRjbTBDb3pKRXNFb1JabldVb2lNT3VGOWNFNEJ1QTlSU1VRUndWZktlUlJlTjE0cXhQWF9UdS1hSmNsRmJjOEs2dEQ2N1ZBdUIxTGdYd3RNMTRQcWNSLW5vU3pHaFZSTklUNmVRdW1zRndmZ291V2VZVzVUMGIxRmxYb2tkQmkyd09pSUlaQTdxM1pOMFc4el9zeGl5ODVuOFFid2ZTQlozelJSSTBDdHAxWk1WUHZ6NFcyUzdNNHlabEpoTGhlMmthSHN0Nm5kMEVBaE5xbFpZWl94b3k3ZTBBZkFHejMwUHJxNDlsdmRXbXFMdUhDbVFvM1dJZUJlWXhPR3RYMEJ6cE1GOVdwYmpzYlAzUkk?oc=5)
+### [Epidemia de ébola se extiende a una sexta provincia de RDCongo - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalp2UDJsSVNtaU1FWGx2N295M0FNOEtEM250NWFhN2xRaVJSNkxBRUdLUXhnZWJIRjZza3U5V3Y3bjBIZ19oeHZQT3F0amVaUVoxdzB0TkVzWHlfaFllanpqOFBIdjM3M3JuWlF3RTFFM3RHWXhudG5HVjgxT1M1REFlTm8zel9CVUQtdkFxZk4wSFJOakY3VmdSc0ktUUFjbENsZmh5Z2M?oc=5)
 
 2026-08-13 <span class="news-indication-tag">MS</span>
 
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMilwJBVV95cUxNZm1pemVpbDA2T3FUSVQtV293VGN4cEcyV21Zdzlmbm9oZ2t6cWdJemhtU0hzeEp1YkVQSHpRN0xrSEVLcGhqaXJtNVlYWUh1cUtEdk9SSHotVFp0dWFLY0pVSXprelo4eHNEYkgtMEhxUHVOamNDdm55TEE5QllBUDlXNlVvcTZ6eHRMNTNMcDJnZFVlaWV3T1l0N0dxN1JWUGtsZnpoVEs1NmJlSndkNUdyVk1OUTg4LW5tWXoxRndGSUJuZ1hhaTdwS3BNeE1NckxWcnEzcTFIeGJkZDE1em5rY1ZHODVVNWNrNndVMVBQNnNrZlVIaUtGSFExQ3VXMkJaNE0tWW1HU0xLTnBhVWJlNHVkeVHSAZwCQVVfeXFMUGZYdzlLRFRjbTBDb3pKRXNFb1JabldVb2lNT3VGOWNFNEJ1QTlSU1VRUndWZktlUlJlTjE0cXhQWF9UdS1hSmNsRmJjOEs2dEQ2N1ZBdUIxTGdYd3RNMTRQcWNSLW5vU3pHaFZSTklUNmVRdW1zRndmZ291V2VZVzVUMGIxRmxYb2tkQmkyd09pSUlaQTdxM1pOMFc4el9zeGl5ODVuOFFid2ZTQlozelJSSTBDdHAxWk1WUHZ6NFcyUzdNNHlabEpoTGhlMmthSHN0Nm5kMEVBaE5xbFpZWl94b3k3ZTBBZkFHejMwUHJxNDlsdmRXbXFMdUhDbVFvM1dJZUJlWXhPR3RYMEJ6cE1GOVdwYmpzYlAzUkk?oc=5)
+來源：[SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalp2UDJsSVNtaU1FWGx2N295M0FNOEtEM250NWFhN2xRaVJSNkxBRUdLUXhnZWJIRjZza3U5V3Y3bjBIZ19oeHZQT3F0amVaUVoxdzB0TkVzWHlfaFllanpqOFBIdjM3M3JuWlF3RTFFM3RHWXhudG5HVjgxT1M1REFlTm8zel9CVUQtdkFxZk4wSFJOakY3VmdSc0ktUUFjbENsZmh5Z2M?oc=5)
 
 ---
 
@@ -139,14 +139,6 @@ permalink: /news/velpatasvir/
 2026-08-12 <span class="news-indication-tag">MS</span>
 
 來源：[112-magazin](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmVKRjVoVEtBNmNYT0RIUnEwZEZpQ1JxeGtrVWYtUUd4XzdRRExMMkplbzNGM0lDcHpFSmdrUWR1b2g1c1BwZVBQcnV4OEEyZkhEa3RHRThGSGlXVWNwVXBZaWhpalBta0h4X0NxUjEtak9sQkZXclVPZGlZekxuOWViczRqdGJkQzNnY3ZPd0M2SmtIY1QyRllLQ1dKU09RNXlGS0tfMA?oc=5)
-
----
-
-### [Type 2 Diabetes: GLP-1 Mounjaro May Lower Heart Attack Risk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
-
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
 
 ---
 

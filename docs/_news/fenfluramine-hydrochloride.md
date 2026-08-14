@@ -54,11 +54,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（7 則）
 
-### [Kindliche Adipositas: Familienbasierte Verhaltenstherapie verstärkt Effekt der Standardversorgung](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
+### [Kindliche Adipositas: Familienbasierte Verhaltenstherapie verstärkt Effekt der Standardversorgung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Adipositas</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [Cibi ultraprocessati: la nuova sfida della salute pubblica - Valigia Blu](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
+### [Cibi ultraprocessati: la nuova sfida della salute pubblica](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">obesità</span>
 
-來源：[Valigia Blu](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
+來源：[valigiablu.it](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VMdUhVUUVqemh1REVJTkw2dW5wUEpxSmhfQTJSR3BFWWRZb3c2NklIQV9hZG1zQld5eTgwMGE0NDZad0lOVllBaHVfWUlCZXkwZ2JqeUdSM25KZm1aUUs5YTFIQ3AwcGxXM0U5Z1ctQVgtOEZib3BZdXBIbXIwMg?oc=5)
 
 ---
 
@@ -98,15 +98,15 @@ permalink: /news/fenfluramine-hydrochloride/
 
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[healthline.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 
 ---
 
-### [Atteint d’obésité, le Niortais Mickaël Hardouin Duparc a déjà parcouru (presque) 400 kilomètres](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFlQSmgtWXl5RUpyR1F5NXNBNjZkVGE0MW9YQUxvQ2xWSjFhLVYzQTd5bmVLM1lFRllJTGRxM2RxZlAxVVl2NWJmUmhEVnlLajZSUEQ1ZGNTbmpVbWhaWDlMTFpORGN2THBwVm5WdlpHaHl1bXJoMXJ0RHFFLV9mLWlyRkM3RVFKLVFaQW1mV3pSaW1HZ0lFVHNJTzU0RXRld2RUdi00ZFJVRkhxU2NRYTIyTWJYQjQ0aGgzQk5BczY3OTRCTndGYm9fZGxaeVltUE9XX3BXLXlWN1dkT3c?oc=5)
+### [Online Vortrag zu Adipositas - Kreis Unna](https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1dRdTlfNVFHeXZmVFZCVGRmLUt0VU5WNmZhbUt2di1Fb0RlT09TQmdGS0M0R1JaZFpzUG03bU1qYVdsRFFnNnVOUml2M2xubFE1Mkp0Mi02YkZ4NHpaUzdnazczZkc5VmtCRUtqUXV6UkM2YjNlbF9BcUpOY3pON0VsU2Rud1pkaEJBZ3MzcEJmOW5tTi04dC1UUXpjdTR4dGYyR3FEVnQ1RzNtc0dzWQ?oc=5)
 
-2026-08-12 <span class="news-indication-tag">obésité</span>
+2026-08-12 <span class="news-indication-tag">Adipositas</span>
 
-來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFlQSmgtWXl5RUpyR1F5NXNBNjZkVGE0MW9YQUxvQ2xWSjFhLVYzQTd5bmVLM1lFRllJTGRxM2RxZlAxVVl2NWJmUmhEVnlLajZSUEQ1ZGNTbmpVbWhaWDlMTFpORGN2THBwVm5WdlpHaHl1bXJoMXJ0RHFFLV9mLWlyRkM3RVFKLVFaQW1mV3pSaW1HZ0lFVHNJTzU0RXRld2RUdi00ZFJVRkhxU2NRYTIyTWJYQjQ0aGgzQk5BczY3OTRCTndGYm9fZGxaeVltUE9XX3BXLXlWN1dkT3c?oc=5)
+來源：[Kreis Unna](https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1dRdTlfNVFHeXZmVFZCVGRmLUt0VU5WNmZhbUt2di1Fb0RlT09TQmdGS0M0R1JaZFpzUG03bU1qYVdsRFFnNnVOUml2M2xubFE1Mkp0Mi02YkZ4NHpaUzdnazczZkc5VmtCRUtqUXV6UkM2YjNlbF9BcUpOY3pON0VsU2Rud1pkaEJBZ3MzcEJmOW5tTi04dC1UUXpjdTR4dGYyR3FEVnQ1RzNtc0dzWQ?oc=5)
 
 ---
 

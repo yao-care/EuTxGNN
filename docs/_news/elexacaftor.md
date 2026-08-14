@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Zehn Tage Migräne, dann die Schock-Diagnose: 34-Jähriger hat nur noch Monate zu leben](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Migräne</span>
 
 來源：[HNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
-
----
-
-### [Demenzrisiko: Bluthochdruck und Rauchen verkürzen Leben um 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
-
-2026-08-13 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
-
----
-
-### [Testa, stomaco e sistema cardiovascolare. Tutti i rischi del caldo per il corpo umano - La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
-
-2026-08-13 <span class="news-indication-tag">emicrania</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
-
----
-
-### [Estudio recomienda qué hacer en la mediana edad para prevenir hasta 13 años la demencia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[laopinion.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
 
 ---
 
@@ -99,6 +75,22 @@ permalink: /news/elexacaftor/
 2026-08-12 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
+
+---
+
+### [Millions of Americans with untreated high blood pressure should be taking medication](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
+
+2026-08-12 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
+
+---
+
+### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+
+2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[latercera.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 ---
 

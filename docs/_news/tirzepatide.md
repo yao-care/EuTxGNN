@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
----
-
-### [Law student died after taking fat jab despite not being obese - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGpUQVM0eWtzZUtPN0s2MEJwMWlTX2tyOFdhU0hjX01JV1o1TU1hUmx0LV9LeWFLelNTbDZoY1pndm9iQzhMRk1NX1EteHk1bXpLbkRiUk9KbEFhODFyWG5HNGYySVQ2NkM2VjIyQ3lCMHBudks3ZzVOTUJpOGU3clF2MWMwRl9OQ1VkNE1ZVjNUSk45bWRpWGtNdmpsb0RNM21F?oc=5)
-
-2026-08-12 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGpUQVM0eWtzZUtPN0s2MEJwMWlTX2tyOFdhU0hjX01JV1o1TU1hUmx0LV9LeWFLelNTbDZoY1pndm9iQzhMRk1NX1EteHk1bXpLbkRiUk9KbEFhODFyWG5HNGYySVQ2NkM2VjIyQ3lCMHBudks3ZzVOTUJpOGU3clF2MWMwRl9OQ1VkNE1ZVjNUSk45bWRpWGtNdmpsb0RNM21F?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Type 2 Diabetes: GLP-1 Mounjaro May Lower Heart Attack Risk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
+### [Teen's death linked to Mounjaro after she complained of nausea, inquest finds - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUVtNHgwY1h2a2NZaTRWa1lWY21HS05Ua2h2MERtcE5GTjFMQjFlZ2tSQ19WczhvUG5oeklacEYzTkhCRS1NcXh0MURzTTZFVTdEdzJocE05NHBoUEhpeHlWdE1xZ1ppNUJsUTNIcDhuMk1uQVM2N004YmF2Ql9sVlM1QnBLTFhGakowR2NoZ3J1dw?oc=5)
 
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-08-12 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVh4VEVxbHFWbXF2ck9odWdMNzEzYnhkUzhlV2FJTVVNNUowcGliUS1BVlRjVERnSXRDMUsxQ3FCQWZMZVBsZzE2TjEyMW5JWnhXV0RGN0RMaFJMS2JpUzlsaGNpRnN5VzRyeUhJVmdqTE81M01ndU51NVBMalhYMWt2Yw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUVtNHgwY1h2a2NZaTRWa1lWY21HS05Ua2h2MERtcE5GTjFMQjFlZ2tSQ19WczhvUG5oeklacEYzTkhCRS1NcXh0MURzTTZFVTdEdzJocE05NHBoUEhpeHlWdE1xZ1ppNUJsUTNIcDhuMk1uQVM2N004YmF2Ql9sVlM1QnBLTFhGakowR2NoZ3J1dw?oc=5)
 
 ---
 

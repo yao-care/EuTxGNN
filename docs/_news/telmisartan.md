@@ -54,27 +54,27 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（9 則）
 
-### [Demenzrisiko: Bluthochdruck und Rauchen verkürzen Leben um 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
-
-2026-08-13 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTZUbFVQT29YS29pZkNhYmV1NGR2NWo2LVFidXUzQi1zM1VlbUw4RmJRS0JyWEdFODg2WWpwMlpwemRqNjJMUTBYOWtFb1I3WVUyT28zOHM2TTBzTFEzLU5vM3MwT21OOXJTQTNXdU14MGY5YzFVN3NJZjN6dGxEeWlObWVBYWZEZnZqUFVxNE5wLWt4QnNFWkpKS3UydnNCRnRfSUJWUVN3Qk1uMjNGYS1aY2NLNEk?oc=5)
-
----
-
-### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdMVUQta3RBRl82S00xSk1RTjVWaTRKLWFJR2dMNkRvX0E4VjBkY2REVFZ5bFlZSVFvendnUmZrRXJlUW15TE1XdzJuMjhXcmxZc2h4VEJhSlJnWTByRWk5NFNUSHgxTjI2VTdKaTNuSXNuMkc4bUFFMllvNURYYVZSdm5HRDdjRzZDdUl6YUxSZlcwR1JWTzdJZ3AxdS1qSzJPRUdaUEtTQQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">AVC</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdMVUQta3RBRl82S00xSk1RTjVWaTRKLWFJR2dMNkRvX0E4VjBkY2REVFZ5bFlZSVFvendnUmZrRXJlUW15TE1XdzJuMjhXcmxZc2h4VEJhSlJnWTByRWk5NFNUSHgxTjI2VTdKaTNuSXNuMkc4bUFFMllvNURYYVZSdm5HRDdjRzZDdUl6YUxSZlcwR1JWTzdJZ3AxdS1qSzJPRUdaUEtTQQ?oc=5)
-
----
-
-### [Fare le scale salva la vita, giù rischio infarti e ictus: ecco la 'dose' giusta di rampe](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHNKWXY0aVkxRldocFpValVlamJBUVFvRXEwUWVQenF6Vlh6dVZ5Q1IwYmtITkFwODZDRnZEZGtMLWRNXzhPZEE4Rm1qdjY0QTBuRlNweFluT1BwSTZMRXRncmUyTmk0RTFXQ3pPa2RiMzVSSWZibTEtMnNrdEh4elFhcS1EUkFNalUyYldUbGh2a0JQ?oc=5)
+### [Adiós a la dictadura del IMC: medir la circunferencia de cintura predice mejor el riesgo cardiovascular - Redacción médica](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYm5uRWVDbjlRREhFU0kzV1JGeGJtTFY2TkU4REE3TlAwOXNDQmdIYTNWcURHQUtyMFNtV0daaHMtQkQ1dHc1ZVk2X05URjd0SmlKN3o3V2c1czZYd21WOXdaWS1fR0RnT2UySG5haHQyN00yYm44VGN2dzRTUDF4U2p0dGhpZ3pxaHRtaFItN1E5LUtVbnFxaDJSVUVYbDd3RkNOeWJfWm40a2xwMldkcS1aOC1waGIyZzFmbTFvaVNfZGhUQUVDNUxoX0pMbjhzdnFYUS1nVWs0QW11TVYzX01pcERpM3M1VHgzRU9oWGtPX3UxMWRUZFJKU2R6ZDU50gGGAkFVX3lxTE9ONl8xTEZDT3N5d1ZJNFhNRnhkcEw4ejNLVTdERlZSMWpRNUZIbjRVNUc4OUZXRVNleTNvYVJlUGY3bm9WRUtZdzdJWnJQOTFvSnhUXzhFNkU5RFZYdWJ6SjM3S1FWWmZiazlXNWljOHJuUnNfbzNzYU9wMTJ1TWxPZWJpM090X1VFcV9fX2pFdEYtZHEtYzgwRThFSVIyRDlYR05fSWloRXh2UDdXNExFTXJGajZXYWNPSk5kSEdNMDd0VnJSTzUwVkhrdmJUaEZSMFhRMFhQWXBBZnVTb2pSQnA0TV9lMjZ6M2dkSEFqLVJ0X3FScWxqVmswNF9RZTZYU0tjdEE?oc=5)
 
 2026-08-13 <span class="news-indication-tag">ictus</span>
 
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHNKWXY0aVkxRldocFpValVlamJBUVFvRXEwUWVQenF6Vlh6dVZ5Q1IwYmtITkFwODZDRnZEZGtMLWRNXzhPZEE4Rm1qdjY0QTBuRlNweFluT1BwSTZMRXRncmUyTmk0RTFXQ3pPa2RiMzVSSWZibTEtMnNrdEh4elFhcS1EUkFNalUyYldUbGh2a0JQ?oc=5)
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYm5uRWVDbjlRREhFU0kzV1JGeGJtTFY2TkU4REE3TlAwOXNDQmdIYTNWcURHQUtyMFNtV0daaHMtQkQ1dHc1ZVk2X05URjd0SmlKN3o3V2c1czZYd21WOXdaWS1fR0RnT2UySG5haHQyN00yYm44VGN2dzRTUDF4U2p0dGhpZ3pxaHRtaFItN1E5LUtVbnFxaDJSVUVYbDd3RkNOeWJfWm40a2xwMldkcS1aOC1waGIyZzFmbTFvaVNfZGhUQUVDNUxoX0pMbjhzdnFYUS1nVWs0QW11TVYzX01pcERpM3M1VHgzRU9oWGtPX3UxMWRUZFJKU2R6ZDU50gGGAkFVX3lxTE9ONl8xTEZDT3N5d1ZJNFhNRnhkcEw4ejNLVTdERlZSMWpRNUZIbjRVNUc4OUZXRVNleTNvYVJlUGY3bm9WRUtZdzdJWnJQOTFvSnhUXzhFNkU5RFZYdWJ6SjM3S1FWWmZiazlXNWljOHJuUnNfbzNzYU9wMTJ1TWxPZWJpM090X1VFcV9fX2pFdEYtZHEtYzgwRThFSVIyRDlYR05fSWloRXh2UDdXNExFTXJGajZXYWNPSk5kSEdNMDd0VnJSTzUwVkhrdmJUaEZSMFhRMFhQWXBBZnVTb2pSQnA0TV9lMjZ6M2dkSEFqLVJ0X3FScWxqVmswNF9RZTZYU0tjdEE?oc=5)
+
+---
+
+### [Niente ascensore, salire le scale ogni giorno allunga la vita](https://news.google.com/rss/articles/CBMihAFBVV95cUxPblhaN2ZTeGhCMWJwVFpvUl9nODR1Z2dNWHNQY0hoU2dBeEFvOXQtUHQ0dTFyUG5TdFFEXzFaaFJEdmRwTEdlVlNOQ1NzQ0lEekpsTmM3Wml6YXpDWkpGd0RaMWZON19LSmROX01ISUFxaUI4Y2JzQnZLYVVjNlhXQ1FKcW0?oc=5)
+
+2026-08-13 <span class="news-indication-tag">ictus</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMihAFBVV95cUxPblhaN2ZTeGhCMWJwVFpvUl9nODR1Z2dNWHNQY0hoU2dBeEFvOXQtUHQ0dTFyUG5TdFFEXzFaaFJEdmRwTEdlVlNOQ1NzQ0lEekpsTmM3Wml6YXpDWkpGd0RaMWZON19LSmROX01ISUFxaUI4Y2JzQnZLYVVjNlhXQ1FKcW0?oc=5)
+
+---
+
+### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
+
+2026-08-13 <span class="news-indication-tag">AVC</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/telmisartan/
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
----
-
-### [Estudio recomienda qué hacer en la mediana edad para prevenir hasta 13 años la demencia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[laopinion.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDZpa1ByR0J4RGdXSTJRZEdvQ2dycVlYMDFEWkd1U1gtNTdNLUplUmtHN3RIcElfemMtbFZOellaS2Z1NFFUem42clc2eWthUU5sYmVncEFzOE1VUHI3dXZjTl8yZWtleFYweUthdDlFNkR0V3VHa3lXOXo5VlJUSDdRSDlhMFJoOXJYNjNRdjc0S0tpbEdSQVQtMVVGNzdjcDdXS0hCOGVzMHAzcnJCOUdpWlg3WThFNllXS19n?oc=5)
 
 ---
 
@@ -106,7 +98,23 @@ permalink: /news/telmisartan/
 
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[healthline.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+
+---
+
+### [Millions of Americans with untreated high blood pressure should be taking medication](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
+
+2026-08-12 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXN3MEE1dkE5a1FMR1J3SUJxaTZRZ3NjSjhOSG1sNFh3aU9UN2xKNWZJaWJYOWY4ekJVZFhEUUFuUWhpR2JreDQ0b1RmTUU2ZnlWbnJvb2pnNFY4dWxlTkNBREdpY1lfVFlrRUV2OXJmQWQ1UG5sQXFnNEFlbXMwZlRR?oc=5)
+
+---
+
+### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
+
+2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[latercera.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 ---
 
@@ -115,14 +123,6 @@ permalink: /news/telmisartan/
 2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
-
----
-
-### [Eating Tomatoes May Have Surprising Benefits for Your Liver, New Study Finds](https://news.google.com/rss/articles/CBMic0FVX3lxTE14WmQ5Vnd0dGNWTFVnaU1LNG1SOUZIT0p4NWd1a19qRmJac1dXOGVReEVDMnlaRHZBenplTF9Xei1QdVp4RGxMOWxwTVZXOU9mWGhSaFd4Yk9BNFoyOVZ6c29JRzZTcVpGSnJzdUp5VWwtVkU?oc=5)
-
-2026-08-11 <span class="news-indication-tag">stroke</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTE14WmQ5Vnd0dGNWTFVnaU1LNG1SOUZIT0p4NWd1a19qRmJac1dXOGVReEVDMnlaRHZBenplTF9Xei1QdVp4RGxMOWxwTVZXOU9mWGhSaFd4Yk9BNFoyOVZ6c29JRzZTcVpGSnJzdUp5VWwtVkU?oc=5)
 
 ---
 

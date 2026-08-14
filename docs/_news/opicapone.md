@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [HRT drugs could slash risk of dementia in women, new study shows](https://news.google.com/rss/articles/CBMiowFBVV95cUxONEllZEFDNVJuZk80cFVnMHp4ai01TlhmSnFKbGhYOVAxcG1xU1FSb0pwWmdpRUFqMXdmOHhocFp3cDNrbXZ2UnBMa01xWXlpR0RpdGdTZEJ5eFI3ODNXVzUtb25oS01uTnZvd2dSQzNuQWh3Q0xzSE05akxycm5ra2M4ZUdoRHlyYWJCYXJja1pZRXBicDFBV0pqNTQ4VnpfSGww?oc=5)
+### [Fast walkers in their eighties linked to lower dementia risk - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENHanJPZG12Z0dCeXpLenhPZGhCeUJwdVBHOW5aV21ESDVIS01faXZoU0RDSEtkYmxOcmpmV2cwbGRFQzRkOTRnNHdHMUVISG5fY2JWT1N0dEx4N3h0al9FSy1ESHB2YXRmSmRDb3pjd2hUUkR4Z0pPb0ZJQ1dqRjdDT1hNcmNHVmpHMFdpQWZKeFdKNE05RmJsck1qVDAxQmwtMXBnSHJoVFBiSEdoU1BXZw?oc=5)
 
-2026-08-12 <span class="news-indication-tag">dementia</span>
+2026-08-13 <span class="news-indication-tag">dementia</span>
 
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMiowFBVV95cUxONEllZEFDNVJuZk80cFVnMHp4ai01TlhmSnFKbGhYOVAxcG1xU1FSb0pwWmdpRUFqMXdmOHhocFp3cDNrbXZ2UnBMa01xWXlpR0RpdGdTZEJ5eFI3ODNXVzUtb25oS01uTnZvd2dSQzNuQWh3Q0xzSE05akxycm5ra2M4ZUdoRHlyYWJCYXJja1pZRXBicDFBV0pqNTQ4VnpfSGww?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENHanJPZG12Z0dCeXpLenhPZGhCeUJwdVBHOW5aV21ESDVIS01faXZoU0RDSEtkYmxOcmpmV2cwbGRFQzRkOTRnNHdHMUVISG5fY2JWT1N0dEx4N3h0al9FSy1ESHB2YXRmSmRDb3pjd2hUUkR4Z0pPb0ZJQ1dqRjdDT1hNcmNHVmpHMFdpQWZKeFdKNE05RmJsck1qVDAxQmwtMXBnSHJoVFBiSEdoU1BXZw?oc=5)
 
 ---
 
-### [HM CINAC interviene en un estudio sobre la enfermedad de Parkinson - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFKRnVMbVNFNU1IY20zSG95dFlfWlZLX0pqb0twbXBfOF80SnJiX1lra19xX1pWM2pOZFJIUEZRLS1UNGFNeFBBaW96ZFJ0M0xMTXdiV2N1RFJ2VWw1c2dReWFPRndHaDhXeU9SUkEzUnZzRWRLQkRDd0JpZzF5LWZySnM2ZUg4bDlwc2gxR3NSVy05YzVQdGZ1dF9MNnk4end6SldLakctY294R2lLWjI4QndoTUVUbUh2QjVB0gG4AUFVX3lxTE9IZHFqWWQzRDBlZ3NHU3dESHJMX1VUR3VBU2VVcGdJejExcXViY3NzMWROZXpWVzdSNEJ4U053YTBUU0ROc1pUQm5OV0k1Q3FOVHl5QUljYU1icy1YSFZORE8xcWJxQktlb3Nxb2p3OWNBdURMZ0RSc3pUa3liM0x3eFpRZk9XUU5wS2R0YS1PS1hYRW5zQVRjT3lmXzlSSTM2a2hralhGczRhMWZVeTVuaHIxTVB4Ymw?oc=5)
+### [HRT drugs could slash risk of dementia in women, new study shows - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxONEllZEFDNVJuZk80cFVnMHp4ai01TlhmSnFKbGhYOVAxcG1xU1FSb0pwWmdpRUFqMXdmOHhocFp3cDNrbXZ2UnBMa01xWXlpR0RpdGdTZEJ5eFI3ODNXVzUtb25oS01uTnZvd2dSQzNuQWh3Q0xzSE05akxycm5ra2M4ZUdoRHlyYWJCYXJja1pZRXBicDFBV0pqNTQ4VnpfSGww?oc=5)
+
+2026-08-12 <span class="news-indication-tag">dementia</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxONEllZEFDNVJuZk80cFVnMHp4ai01TlhmSnFKbGhYOVAxcG1xU1FSb0pwWmdpRUFqMXdmOHhocFp3cDNrbXZ2UnBMa01xWXlpR0RpdGdTZEJ5eFI3ODNXVzUtb25oS01uTnZvd2dSQzNuQWh3Q0xzSE05akxycm5ra2M4ZUdoRHlyYWJCYXJja1pZRXBicDFBV0pqNTQ4VnpfSGww?oc=5)
+
+---
+
+### [HM CINAC interviene en un estudio sobre la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFKRnVMbVNFNU1IY20zSG95dFlfWlZLX0pqb0twbXBfOF80SnJiX1lra19xX1pWM2pOZFJIUEZRLS1UNGFNeFBBaW96ZFJ0M0xMTXdiV2N1RFJ2VWw1c2dReWFPRndHaDhXeU9SUkEzUnZzRWRLQkRDd0JpZzF5LWZySnM2ZUg4bDlwc2gxR3NSVy05YzVQdGZ1dF9MNnk4end6SldLakctY294R2lLWjI4QndoTUVUbUh2QjVB0gG4AUFVX3lxTE9IZHFqWWQzRDBlZ3NHU3dESHJMX1VUR3VBU2VVcGdJejExcXViY3NzMWROZXpWVzdSNEJ4U053YTBUU0ROc1pUQm5OV0k1Q3FOVHl5QUljYU1icy1YSFZORE8xcWJxQktlb3Nxb2p3OWNBdURMZ0RSc3pUa3liM0x3eFpRZk9XUU5wS2R0YS1PS1hYRW5zQVRjT3lmXzlSSTM2a2hralhGczRhMWZVeTVuaHIxTVB4Ymw?oc=5)
 
 2026-08-12 <span class="news-indication-tag">enfermedad de Parkinson</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFKRnVMbVNFNU1IY20zSG95dFlfWlZLX0pqb0twbXBfOF80SnJiX1lra19xX1pWM2pOZFJIUEZRLS1UNGFNeFBBaW96ZFJ0M0xMTXdiV2N1RFJ2VWw1c2dReWFPRndHaDhXeU9SUkEzUnZzRWRLQkRDd0JpZzF5LWZySnM2ZUg4bDlwc2gxR3NSVy05YzVQdGZ1dF9MNnk4end6SldLakctY294R2lLWjI4QndoTUVUbUh2QjVB0gG4AUFVX3lxTE9IZHFqWWQzRDBlZ3NHU3dESHJMX1VUR3VBU2VVcGdJejExcXViY3NzMWROZXpWVzdSNEJ4U053YTBUU0ROc1pUQm5OV0k1Q3FOVHl5QUljYU1icy1YSFZORE8xcWJxQktlb3Nxb2p3OWNBdURMZ0RSc3pUa3liM0x3eFpRZk9XUU5wS2R0YS1PS1hYRW5zQVRjT3lmXzlSSTM2a2hralhGczRhMWZVeTVuaHIxTVB4Ymw?oc=5)
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzFKRnVMbVNFNU1IY20zSG95dFlfWlZLX0pqb0twbXBfOF80SnJiX1lra19xX1pWM2pOZFJIUEZRLS1UNGFNeFBBaW96ZFJ0M0xMTXdiV2N1RFJ2VWw1c2dReWFPRndHaDhXeU9SUkEzUnZzRWRLQkRDd0JpZzF5LWZySnM2ZUg4bDlwc2gxR3NSVy05YzVQdGZ1dF9MNnk4end6SldLakctY294R2lLWjI4QndoTUVUbUh2QjVB0gG4AUFVX3lxTE9IZHFqWWQzRDBlZ3NHU3dESHJMX1VUR3VBU2VVcGdJejExcXViY3NzMWROZXpWVzdSNEJ4U053YTBUU0ROc1pUQm5OV0k1Q3FOVHl5QUljYU1icy1YSFZORE8xcWJxQktlb3Nxb2p3OWNBdURMZ0RSc3pUa3liM0x3eFpRZk9XUU5wS2R0YS1PS1hYRW5zQVRjT3lmXzlSSTM2a2hralhGczRhMWZVeTVuaHIxTVB4Ymw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/obinutuzumab/
 ---
 
 <p class="key-answer" data-question="Obinutuzumab 有什麼相關新聞？">
-<strong>Obinutuzumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Obinutuzumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/obinutuzumab/
 <p><a href="{{ '/drugs/obinutuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [Langlebigkeit durch Thymusfunktion: biologisches Altern messbar beeinflussen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObERXX3VDTzQ0RWlsQjhqQkdvZ1JldWZWcy1sWXFmaHpPQXp3UzlmaGJWTndQWFhuUGppYXoySm1jVmJYRUF4ZHRWMFVEMEJuWEZUWlJ1SmdVRnRWb2hRS2lUbkNDZUo0WXhwSjJaZmtHdmM3T0dIZEVWN3JqRDRpNkh6Z2xEQVhPRWxFblhZOWwzcm1qUS0wLUdWQ1RCZzYzTndWZUx6Q0YyOUU?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObERXX3VDTzQ0RWlsQjhqQkdvZ1JldWZWcy1sWXFmaHpPQXp3UzlmaGJWTndQWFhuUGppYXoySm1jVmJYRUF4ZHRWMFVEMEJuWEZUWlJ1SmdVRnRWb2hRS2lUbkNDZUo0WXhwSjJaZmtHdmM3T0dIZEVWN3JqRDRpNkh6Z2xEQVhPRWxFblhZOWwzcm1qUS0wLUdWQ1RCZzYzTndWZUx6Q0YyOUU?oc=5)
+
+---
 
 ### [Prostatakrebs – diese Lebensmittel sind laut Forschern genauso gefährlich wie Rauchen](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[FITBOOK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
-
----
-
-### [Curcumin-Berberin-Kombination wirksam gegen Alzheimer & Krebs?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnkxZnRxMzE0Ql9pTUg2T2ZTekE3Znp5RzJuZzN4NFBiWTJDV0NtVUJxMlJEUFJqWm9HdGc5X3l5WGpKelB3NHJCdThydUdPT3lKWDY3Z0h3RlpTb2R4VXJTWkZ1MnJpZWpyQkc3YjVjX2g2RXJoQkZHYjUzTnMtb0RtdnpLVDFlOGR2UjY4RmU1TGZPLXozZVBudUN2M2JiZnFTVDY1WFZjbmRoYUtGYXBuY2tnTm5ZYm1oSg?oc=5)
-
-2026-08-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnkxZnRxMzE0Ql9pTUg2T2ZTekE3Znp5RzJuZzN4NFBiWTJDV0NtVUJxMlJEUFJqWm9HdGc5X3l5WGpKelB3NHJCdThydUdPT3lKWDY3Z0h3RlpTb2R4VXJTWkZ1MnJpZWpyQkc3YjVjX2g2RXJoQkZHYjUzTnMtb0RtdnpLVDFlOGR2UjY4RmU1TGZPLXozZVBudUN2M2JiZnFTVDY1WFZjbmRoYUtGYXBuY2tnTm5ZYm1oSg?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/obinutuzumab/
 
 ---
 
-### [Thymusdrüse: Neues Hormon reduziert Entzündungen im Alter - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaV93LTFEZmFNa3dlV3o1V3JSNGxMM3c1bEROV2lzZ2lTMU9oU1FRSl9MbXBIbXZDbG16Y1dadTRHNVh3dEJldElwQmdBQ2o5eVYxeGRpb3VTaDhJR2ZwSE12UjZWWl9OV01QTWxyTkJJNkNiVHhhbmJMWDZPX01jaVcyNlJlcXdxRFQwcFNuTjI0N2FNRTVGVmxyQVJ2TXBCYXA0Z1c2TVUwZ1E?oc=5)
+### [Prognosi e metastasi del cancro prevedibili in base al numero di copie mutate di un gene](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
 
-2026-08-13 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-08-13 <span class="news-indication-tag">cancro</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaV93LTFEZmFNa3dlV3o1V3JSNGxMM3c1bEROV2lzZ2lTMU9oU1FRSl9MbXBIbXZDbG16Y1dadTRHNVh3dEJldElwQmdBQ2o5eVYxeGRpb3VTaDhJR2ZwSE12UjZWWl9OV01QTWxyTkJJNkNiVHhhbmJMWDZPX01jaVcyNlJlcXdxRFQwcFNuTjI0N2FNRTVGVmxyQVJ2TXBCYXA0Z1c2TVUwZ1E?oc=5)
+來源：[fnob.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTAyOWVSczhuVElRNXc0Zno4b0kwNWowUnFZYlkzdzdVYmRLOGRraVh2bHgyVjkzUmdwYzZyb2F1M2c5Vm16R1VJeXhJTE5tTlBWOG9SdnY1Z2xKc1N5TTRRTmJUVUpFaUdCUzJwcmFCS2hzY19OaDZid1kwSVNCOURZY095azl2ZUxrU3psRm1Zc0cxWFVFRlZneER4UFc4S243OXNKY1lwUXVJV0NKUnFONmtLT3JSeGFqaQ?oc=5)
 
 ---
 
@@ -110,11 +110,19 @@ permalink: /news/obinutuzumab/
 
 ---
 
-### [Pankreaskrebs: Neuer Bluttest erkennt frühe Stadien zu 90% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+### [Panregza im Fokus: neuer Bluttest erkennt frühe Stadien beim Pankreaskrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
+
+---
+
+### [Contraccettivi e meningioma, cosa sono il desogestrel ed etonogestrel e come agiscono sull'organismo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJ0R0dfR1MtOTI4MHQ2Zm50SHI4TE1QLWVrZHMwTDg1VWtWY0g0VmpHeWIzeDBJUHRDb0daQlZuU011UXV5RFZsekJFb1lpa2YzTUhkcXlQQXAwNnc4QUxNQ3lTU01hc0t5NWR6Uk1qUlhNTXFOMEZJUFpQdjFHYjdER3ZBeXhxLVRqSkVrT3RvSTJ1TklZMGlKOThySHRsaUVOZWV0RnUyWjhGdzJDeXhvYTZocHp6Z2twQzdud2p3Zw?oc=5)
+
+2026-08-12 <span class="news-indication-tag">tumor</span>
+
+來源：[Open](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJ0R0dfR1MtOTI4MHQ2Zm50SHI4TE1QLWVrZHMwTDg1VWtWY0g0VmpHeWIzeDBJUHRDb0daQlZuU011UXV5RFZsekJFb1lpa2YzTUhkcXlQQXAwNnc4QUxNQ3lTU01hc0t5NWR6Uk1qUlhNTXFOMEZJUFpQdjFHYjdER3ZBeXhxLVRqSkVrT3RvSTJ1TklZMGlKOThySHRsaUVOZWV0RnUyWjhGdzJDeXhvYTZocHp6Z2twQzdud2p3Zw?oc=5)
 
 ---
 
@@ -123,22 +131,6 @@ permalink: /news/obinutuzumab/
 2026-08-12 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0JPU1djZ2w1UHNDdEhLeVVyRmRHdThjc25rSVNCc05qVFo4NThReGVGSGItZWtkLTM4SVRSS25GV2YwNTdOYjBjdVpfN0ZzdUFaZ3IyQWJzXzBzcC16c0NRRlJNYzB2TGp6MXRSRG9iUWRCdHNpekJjQm1nbVpCWmdXZDQwY3gxNl81WFNoNA?oc=5)
-
----
-
-### [We were told my 'perfectly healthy' girl had tonsilitis… it was a rare cancer - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFZlM0ZHZ1FuWVJTVkV5c05HRm0zWEpCUDJSbTdRc3NYNVdleHR1TGtsbTI5MmFwWW5fS2N2enE5bDRTbng0OERieGtIcG5nT1AyQXJrTTZ1YkhNUEw1d1c5REE4TWlBOXNKamF0TmxDeUdLWjJORXoyMHYtWGNDbWFFMXc5R29oZFZ6S1ZBSQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFZlM0ZHZ1FuWVJTVkV5c05HRm0zWEpCUDJSbTdRc3NYNVdleHR1TGtsbTI5MmFwWW5fS2N2enE5bDRTbng0OERieGtIcG5nT1AyQXJrTTZ1YkhNUEw1d1c5REE4TWlBOXNKamF0TmxDeUdLWjJORXoyMHYtWGNDbWFFMXc5R29oZFZ6S1ZBSQ?oc=5)
-
----
-
-### [Lung cancer is not only about smoking: Doctor explains the risks hiding in your air, home and daily routine - The Times of India](https://news.google.com/rss/articles/CBMigwJBVV95cUxPRG82a3c4LW5vdWhnVm42WU5wQkU1VGRBZ2FZdUo4eWM3QUZTWDFiaU5hUlY2Nk1OemVMUmV6YWlWY1B6RzRDNzFVNmRKalAxZHhjU3VQdU5SWGdjSlR1N1g2NG05MDFVTjZkQjd1WG40M2pleEtiUWkzbEhpTlRuaFdXSjdYbXcza2JyaHY0eGVJRjJlU1B4X1JxRjhCaUtVTTVSRlRLWFc2R21iTmhuZF9YVFpjVnJkQ2NRZVhFQWJ2RGpzWk1JOWY2TjFyTnBOR1BQU2tMQTBfRnNscm9SS2d5ZmZJcHFob2NsbkNIRkt1TlYzMWpBbGRZU0RRT1JHQ1hr0gGLAkFVX3lxTE9mX0gxa2J6YlRfbTAtMTlXTUQ0M1NYTVh0LXhjZXQ0dXhTRE5ZZWJaeGR2YkdnUVJ1bGh2ODh2VXppRlBUTXg0bVlPd3ZpTUhIZmlIOEFwQll4aGRYN1doM2JXdm9yVXNTWTdYVy1fMHU2VkdYNER4V0xDOHZlU1hLWURmMy00c2k2U19zaVMwc1JYT2I2VUZXTmZ4UDJ1cktpcTM2Sk1rU1pfaEFTazc1aExsWnFFQ2VkZkpGcl94V0RuRVBZR25qMEh6NjV4NmlBRjdWZmVtTU01UG5IS1VpUmI2UktDVkUxMjBkVEl2TjJ2U1h5RmdBZEJxNmhCVkRnWjlNOEVocnJNbw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">cancer</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMigwJBVV95cUxPRG82a3c4LW5vdWhnVm42WU5wQkU1VGRBZ2FZdUo4eWM3QUZTWDFiaU5hUlY2Nk1OemVMUmV6YWlWY1B6RzRDNzFVNmRKalAxZHhjU3VQdU5SWGdjSlR1N1g2NG05MDFVTjZkQjd1WG40M2pleEtiUWkzbEhpTlRuaFdXSjdYbXcza2JyaHY0eGVJRjJlU1B4X1JxRjhCaUtVTTVSRlRLWFc2R21iTmhuZF9YVFpjVnJkQ2NRZVhFQWJ2RGpzWk1JOWY2TjFyTnBOR1BQU2tMQTBfRnNscm9SS2d5ZmZJcHFob2NsbkNIRkt1TlYzMWpBbGRZU0RRT1JHQ1hr0gGLAkFVX3lxTE9mX0gxa2J6YlRfbTAtMTlXTUQ0M1NYTVh0LXhjZXQ0dXhTRE5ZZWJaeGR2YkdnUVJ1bGh2ODh2VXppRlBUTXg0bVlPd3ZpTUhIZmlIOEFwQll4aGRYN1doM2JXdm9yVXNTWTdYVy1fMHU2VkdYNER4V0xDOHZlU1hLWURmMy00c2k2U19zaVMwc1JYT2I2VUZXTmZ4UDJ1cktpcTM2Sk1rU1pfaEFTazc1aExsWnFFQ2VkZkpGcl94V0RuRVBZR25qMEh6NjV4NmlBRjdWZmVtTU01UG5IS1VpUmI2UktDVkUxMjBkVEl2TjJ2U1h5RmdBZEJxNmhCVkRnWjlNOEVocnJNbw?oc=5)
 
 ---
 
