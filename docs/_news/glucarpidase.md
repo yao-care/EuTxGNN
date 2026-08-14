@@ -14,7 +14,7 @@ permalink: /news/glucarpidase/
 ---
 
 <p class="key-answer" data-question="Glucarpidase 有什麼相關新聞？">
-<strong>Glucarpidase</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glucarpidase</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/glucarpidase/
 <p><a href="{{ '/drugs/glucarpidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
+### [La OMS avisa que estos cambios en el estilo de vida pueden prevenir hasta el 45 % de los casos de demencia - National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
+
+2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
+
+---
+
+### [Mangelernährung beginnt oft leise](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSTl0RVZ0b0hmcV9DOFJWTk5aUzg2d2JEeVZDR2kydnJiYVUzQmZCWkpDRmZSdGpoNUg5NHVoWHNQcHU1U3JSejMyRUlGT19tRnQtNUlrdUlqZEdmVjJYQUU3VW9vLXJaM1I2VmNRLWRfSmM?oc=5)
+
+2026-08-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSTl0RVZ0b0hmcV9DOFJWTk5aUzg2d2JEeVZDR2kydnJiYVUzQmZCWkpDRmZSdGpoNUg5NHVoWHNQcHU1U3JSejMyRUlGT19tRnQtNUlrdUlqZEdmVjJYQUU3VW9vLXJaM1I2VmNRLWRfSmM?oc=5)
+
+---
+
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
 
 2026-08-14 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
 
 ---
 
@@ -86,19 +102,11 @@ permalink: /news/glucarpidase/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
----
-
-### [Flüssigkeitsmangel bei Senioren: 50% betroffen, Risiken für Diabetiker - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0V4VjlFVE9PQURhX2dPTkwyWDZrM0lFaW4tLUltbVpYLXRUalhlakpWYkhFNV9WVlZRTGUteTdkYWZ0QklVNTFhek5yUzJyWVdKTldFcmhiVnBtcnJzdFhNQkg2US14Z3dUV0wxZDNlQUJkdi1vQ1RrVWxLaENNNDBpTVBhUUxQOFJmalFUSE1KZ3Q5dmpVUGdBR2hpd1BUNVJxZDlyUldXWlJRWHpJWVRlQTE3UQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0V4VjlFVE9PQURhX2dPTkwyWDZrM0lFaW4tLUltbVpYLXRUalhlakpWYkhFNV9WVlZRTGUteTdkYWZ0QklVNTFhek5yUzJyWVdKTldFcmhiVnBtcnJzdFhNQkg2US14Z3dUV0wxZDNlQUJkdi1vQ1RrVWxLaENNNDBpTVBhUUxQOFJmalFUSE1KZ3Q5dmpVUGdBR2hpd1BUNVJxZDlyUldXWlJRWHpJWVRlQTE3UQ?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 
@@ -107,22 +115,6 @@ permalink: /news/glucarpidase/
 2026-08-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY2ExMkM1OE1KNWgya1RVbDljc1VYcUxQOWxuaTZSOHQ0ODBzWWtiMmpGVjVteElCUHhQb0tua3ZOYVBsck40Z09ZeGhlUUk2UWN2UVhnVkR6MjRGOTZvNTRaS2RpakZabEphMU93RDgxcFNqSHBRcF9SMTA3bHZ1OElSVTdTMGVnam9VYno2N0J6aEJVckRXSzRTLWdjNWkxNHdOZnlYTjBxQktVT0hKWC1LYWI3M1EtbVlpV1ZLRnBWd2N5anhlR1p4UVk1Z0JPX2puVmt3LUVWbkVBY1c0VE9wZVB2LWdOdE1VblRQNGN4MllE0gH6AUFVX3lxTFBMNS1QWFMzbnFNMmF2VExEa2RtTnV6ZktKeEdycC0yN18zaHhwM3BLQlRzWmVkRW5rSHVaZVU1Y1dPQkFqM3oxQlpvZ19Eb2Rablk4Q1ZNVUtMeEUteG5TREptTGlTejNQNWNQOE81enNodkp0MGRvSWloUUR4WUhNLVVwcjVkRTBwRlhLVVJLajJyS0dwWUlYUUFIcHpXbThRZFVvUFlxSDlZY2gxZjlwUmlnRUxDR2JHbGxJb3BJQUVvWUVScDJBWWl2TmNrNUdqTmcxcE1xZWxaaHI2N1lPMlNjRjhYdlhaaTNrcFRIb1RmeUZtTlQ3TkE?oc=5)
-
----
-
-### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
----
-
-### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
 ---
 

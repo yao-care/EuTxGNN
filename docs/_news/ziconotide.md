@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（7 則）
 
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
 
 2026-08-14 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
-
----
-
-### [Autoridades instan a la población a prevenir enfermedades crónicas evitando alimentos procesados - Diario Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjlCUFhFNzFEXzRFZGZSX28tQkNJclVmNTJPRjhnWVUxNUlILVJ6cFkycmY1OThraENzZ1VjRWhWa3p0cnZCREJpaHFoWlZ0WnZIbldTb2R0NFlQQ1lqS2FodW1yQ2hTT3hESmM1MGJHTVZHckl4V3VmNmxuZkxGb25WUnl0LVRmaDNldGE1R2EwUlR3RHdJNVVHWERzMGkwNWVsUGZCYXZ5SWhfQWhmNWxJbFhCRTlLRDhUZU05ZWVWUdIBxwFBVV95cUxNSTJWTzh0Qk9EOGZ6MndQY1doekhQUFVMUUZpQWgyZXZXRGlLSHJ3LTdZZThxbjMxU09DeERMbTVPY1dDakVfQmtmQ1JEbUpQNFhlWTJJV2ZKSWdUNnp5LThPWmdaWTF5dmlIRlNCcGE3LU90SGdZVE16MFJHVlJYaUJuRlNOb1picldMcVBYek9yX18wZ1QwZVNMSDljWWljdHpxbXBnZHRDSjhsZUdRYU9JRDVkUVl5cG92dHNWVDE1cjRlVG5V?oc=5)
-
-2026-08-13 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjlCUFhFNzFEXzRFZGZSX28tQkNJclVmNTJPRjhnWVUxNUlILVJ6cFkycmY1OThraENzZ1VjRWhWa3p0cnZCREJpaHFoWlZ0WnZIbldTb2R0NFlQQ1lqS2FodW1yQ2hTT3hESmM1MGJHTVZHckl4V3VmNmxuZkxGb25WUnl0LVRmaDNldGE1R2EwUlR3RHdJNVVHWERzMGkwNWVsUGZCYXZ5SWhfQWhmNWxJbFhCRTlLRDhUZU05ZWVWUdIBxwFBVV95cUxNSTJWTzh0Qk9EOGZ6MndQY1doekhQUFVMUUZpQWgyZXZXRGlLSHJ3LTdZZThxbjMxU09DeERMbTVPY1dDakVfQmtmQ1JEbUpQNFhlWTJJV2ZKSWdUNnp5LThPWmdaWTF5dmlIRlNCcGE3LU90SGdZVE16MFJHVlJYaUJuRlNOb1picldMcVBYek9yX18wZ1QwZVNMSDljWWljdHpxbXBnZHRDSjhsZUdRYU9JRDVkUVl5cG92dHNWVDE1cjRlVG5V?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 
@@ -115,22 +107,6 @@ permalink: /news/ziconotide/
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
-
----
-
-### [Lo psichiatra spiega gli effetti del caldo su chi ha un disagio psichico: «Crisi di panico, ansia e irritabilità. Fa crescere i problemi e favorisce ricadute pesanti» - Corriere di Bologna](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcmZ6cndGRGg2YndnQ1loQkJoOHBMYUliUE5aSzZ0RTk2YjA4SVJCRXNIN05PeVdCYXlzTVgzdWhOY0xxZEpKZ29mS2t6MHBFeVp1U1c5VEZrYllwbnB3ak5wRWU2UFRhaVh4Q3Y0a05rclQwMEhQUHRIQmZCSXJkNENfb1lQc2VMY01OT01Qcm81SlN3T0NXcXdjNm1mNUZuWU5vVW5ORmdZVjd6NEd2Z0ZBc0ZadGV1NlhFMG9wc2RFVUJfUWsyX29BUWVLc2pVT3l2TnF2SEF1ZDdOb0dJV000c1Y4TTVVaTVTWlhWSlhYMkRUWklQT05Nd3B0QVZwanNWZGloWmY4RFY3VnZzaklDQVM4MGsxdFo0anpWN3RndjVxcGRZWThJQUFsWnZ4cFhaOFRua0g5VGtYbjZGRWZUaGJ2RlNhdkRpRXhXSWxjb1nSAdgCQVVfeXFMTkpSV0lrYWZvdFpEcmhQb3cwUXdCZVQzWnpCVUFjTlVlM21mUVFKSEh3Y3NQSmtPcVhDY0d5V2FoYTBsblNUZFVaZk1qYWlxSGRPaWQzWERvMWphRWgtT0hjS21VbnRLSEU4Vk5JX2RFRHhsT0lXWnJNeF9LWFNLZXRpT2hPNHpEUThGQ2F3eXEtMmllbi1DbTMzRjBsUWdhNndnT19vOFlJZ1hfTlJPSXRNeTZZNEhtZ3hhbHZqdHNIQWMxd05FRnlpUi0yWHQyZ0NpQXltR1hZeXdzYnNfeHgzV3pHODZybDFyU1lobGFtbXpKcFJOSlR0Q1ZHM0t6OVBhTE5FUWZTdHdQQ1ZSeXRad3k4MDc4OVcxSkxwVmRMMFpkZFRxdkI2eHl0LThJcGVWdTExX3haMzV0TTNEUVVWdEM3RTJ6QnVGaFYxckZTejZQbHhVcTQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Corriere di Bologna](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcmZ6cndGRGg2YndnQ1loQkJoOHBMYUliUE5aSzZ0RTk2YjA4SVJCRXNIN05PeVdCYXlzTVgzdWhOY0xxZEpKZ29mS2t6MHBFeVp1U1c5VEZrYllwbnB3ak5wRWU2UFRhaVh4Q3Y0a05rclQwMEhQUHRIQmZCSXJkNENfb1lQc2VMY01OT01Qcm81SlN3T0NXcXdjNm1mNUZuWU5vVW5ORmdZVjd6NEd2Z0ZBc0ZadGV1NlhFMG9wc2RFVUJfUWsyX29BUWVLc2pVT3l2TnF2SEF1ZDdOb0dJV000c1Y4TTVVaTVTWlhWSlhYMkRUWklQT05Nd3B0QVZwanNWZGloWmY4RFY3VnZzaklDQVM4MGsxdFo0anpWN3RndjVxcGRZWThJQUFsWnZ4cFhaOFRua0g5VGtYbjZGRWZUaGJ2RlNhdkRpRXhXSWxjb1nSAdgCQVVfeXFMTkpSV0lrYWZvdFpEcmhQb3cwUXdCZVQzWnpCVUFjTlVlM21mUVFKSEh3Y3NQSmtPcVhDY0d5V2FoYTBsblNUZFVaZk1qYWlxSGRPaWQzWERvMWphRWgtT0hjS21VbnRLSEU4Vk5JX2RFRHhsT0lXWnJNeF9LWFNLZXRpT2hPNHpEUThGQ2F3eXEtMmllbi1DbTMzRjBsUWdhNndnT19vOFlJZ1hfTlJPSXRNeTZZNEhtZ3hhbHZqdHNIQWMxd05FRnlpUi0yWHQyZ0NpQXltR1hZeXdzYnNfeHgzV3pHODZybDFyU1lobGFtbXpKcFJOSlR0Q1ZHM0t6OVBhTE5FUWZTdHdQQ1ZSeXRad3k4MDc4OVcxSkxwVmRMMFpkZFRxdkI2eHl0LThJcGVWdTExX3haMzV0TTNEUVVWdEM3RTJ6QnVGaFYxckZTejZQbHhVcTQ?oc=5)
-
----
-
-### [Online Vortrag zu Adipositas - Kreis Unna](https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1dRdTlfNVFHeXZmVFZCVGRmLUt0VU5WNmZhbUt2di1Fb0RlT09TQmdGS0M0R1JaZFpzUG03bU1qYVdsRFFnNnVOUml2M2xubFE1Mkp0Mi02YkZ4NHpaUzdnazczZkc5VmtCRUtqUXV6UkM2YjNlbF9BcUpOY3pON0VsU2Rud1pkaEJBZ3MzcEJmOW5tTi04dC1UUXpjdTR4dGYyR3FEVnQ1RzNtc0dzWQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Kreis Unna](https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1dRdTlfNVFHeXZmVFZCVGRmLUt0VU5WNmZhbUt2di1Fb0RlT09TQmdGS0M0R1JaZFpzUG03bU1qYVdsRFFnNnVOUml2M2xubFE1Mkp0Mi02YkZ4NHpaUzdnazczZkc5VmtCRUtqUXV6UkM2YjNlbF9BcUpOY3pON0VsU2Rud1pkaEJBZ3MzcEJmOW5tTi04dC1UUXpjdTR4dGYyR3FEVnQ1RzNtc0dzWQ?oc=5)
 
 ---
 

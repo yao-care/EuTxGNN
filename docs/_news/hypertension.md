@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,19 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（2 則）
 
+### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+
+2026-08-14
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+
+---
+
 ### [Warning over free blood pressure checks as NHS introduces new rule - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
 
 2026-08-12
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1I5TEE1QWk5WDBQTUtLbWRNdW9EWTdOSkFfVlJjYzVvTzFyUnFicEFaTTgycE1keG1sN2s0TjlUVHpFZ0lweS1KRXdRRHdONnZUUzNLblFyLWdRRXZ1dGVxdUpadjBFQU5VbVdhMGFqSnBmMXhaeXdCbmZqQmFnN3Z30gGHAUFVX3lxTE16RGljMUVaVm05bWUyQkZsNF9MY1oxRkFoaEd1Tk9mMXFhNHZ0c0I1enJON0RlZDIwdnp2Zlk0VnZXZXFEc1JxMEZRYlljdzItaE93dUszWFRUelVlTDd4cC10NGNLTFpFSWpoQl9xVjl3cE1XMGFEOUpUTEVPcFRBLWs3VFpWMA?oc=5)
-
----
-
-### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
-2026-08-12
-
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 ---
 

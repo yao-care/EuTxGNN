@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,13 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Fast walkers in their eighties linked to lower dementia risk - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENHanJPZG12Z0dCeXpLenhPZGhCeUJwdVBHOW5aV21ESDVIS01faXZoU0RDSEtkYmxOcmpmV2cwbGRFQzRkOTRnNHdHMUVISG5fY2JWT1N0dEx4N3h0al9FSy1ESHB2YXRmSmRDb3pjd2hUUkR4Z0pPb0ZJQ1dqRjdDT1hNcmNHVmpHMFdpQWZKeFdKNE05RmJsck1qVDAxQmwtMXBnSHJoVFBiSEdoU1BXZw?oc=5)
 
 2026-08-13 <span class="news-indication-tag">dementia</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENHanJPZG12Z0dCeXpLenhPZGhCeUJwdVBHOW5aV21ESDVIS01faXZoU0RDSEtkYmxOcmpmV2cwbGRFQzRkOTRnNHdHMUVISG5fY2JWT1N0dEx4N3h0al9FSy1ESHB2YXRmSmRDb3pjd2hUUkR4Z0pPb0ZJQ1dqRjdDT1hNcmNHVmpHMFdpQWZKeFdKNE05RmJsck1qVDAxQmwtMXBnSHJoVFBiSEdoU1BXZw?oc=5)
-
----
-
-### [HRT drugs could slash risk of dementia in women, new study shows - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxONEllZEFDNVJuZk80cFVnMHp4ai01TlhmSnFKbGhYOVAxcG1xU1FSb0pwWmdpRUFqMXdmOHhocFp3cDNrbXZ2UnBMa01xWXlpR0RpdGdTZEJ5eFI3ODNXVzUtb25oS01uTnZvd2dSQzNuQWh3Q0xzSE05akxycm5ra2M4ZUdoRHlyYWJCYXJja1pZRXBicDFBV0pqNTQ4VnpfSGww?oc=5)
-
-2026-08-12 <span class="news-indication-tag">dementia</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxONEllZEFDNVJuZk80cFVnMHp4ai01TlhmSnFKbGhYOVAxcG1xU1FSb0pwWmdpRUFqMXdmOHhocFp3cDNrbXZ2UnBMa01xWXlpR0RpdGdTZEJ5eFI3ODNXVzUtb25oS01uTnZvd2dSQzNuQWh3Q0xzSE05akxycm5ra2M4ZUdoRHlyYWJCYXJja1pZRXBicDFBV0pqNTQ4VnpfSGww?oc=5)
 
 ---
 

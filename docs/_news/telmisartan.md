@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+
+---
 
 ### [Studio: fare le scale regolarmente allunga la vita. Ecco perché - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNndJVDJldUN4MTI1QkpkanR4NzZhVUxBdlhWX0hhQzM0NmhHcG5tM2lvbng3SVZYalRxOC1LUkQza3ZKeGNGMWFJTXdSOFdWcFppbDkwRkc2WGZoYzMyeHdHNWZ1ZU0xQk5fd3dRai1pZ1hBWkpiTnJqT0lkTGJTTmp5dGdfcmhCQnRLZ3pB?oc=5)
 
@@ -62,19 +70,27 @@ permalink: /news/telmisartan/
 
 ---
 
+### ['Flesh-Eating' Bacteria: 7 Deaths Reported, Cases Rising on Gulf Coast](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
+
+2026-08-13 <span class="news-indication-tag">heart disease</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
+
+---
+
 ### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
 
 2026-08-13 <span class="news-indication-tag">AVC</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
+來源：[univadis.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/telmisartan/
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
-
----
-
-### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "heart disease 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "heart disease 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<strong>heart disease</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,7 +85,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ['Flesh-Eating' Bacteria: 7 Deaths Reported, Cases Rising on Gulf Coast](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
+
+2026-08-13
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
+
+---
 
 ### [Belly Fat vs. BMI: Which Better Predicts Your Heart Disease Risk?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 

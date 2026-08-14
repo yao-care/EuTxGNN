@@ -14,7 +14,7 @@ permalink: /news/relebactam/
 ---
 
 <p class="key-answer" data-question="Relebactam 有什麼相關新聞？">
-<strong>Relebactam</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Relebactam</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/relebactam/
 <p><a href="{{ '/drugs/relebactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（14 則）
 
-### [Individuelle Genetik bestimmt die Evolution von Krebs](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
-
-2026-08-14 <span class="news-indication-tag">Krebs</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
-
----
-
-### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+來源：[sante.lefigaro.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 ---
 
@@ -75,6 +67,22 @@ permalink: /news/relebactam/
 2026-08-14 <span class="news-indication-tag">cancer</span>
 
 來源：[RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+
+---
+
+### [Silvia Sánchez Ramón, inmunóloga: “El timo es un órgano que produce y educa a los linfocitos T, las células que defienden al organismo frente a infecciones y tumores”](https://news.google.com/rss/articles/CBMipAJBVV95cUxPb1Uwb3NFUDdTTUF5UGYtSlFEZ0dRVlYtMDNXZDE0UEg2SUFCTHp4TXV0ZFdWVnA0cjhLV211ZWxJdk9BanFzc1JyNTBja09reGZ4YTR5Y1FydURKTmtROEJPNHAtNjV5eUkyUzZ1cFE5a3V2RXh2SlJucmRRaktwNzZFZFM3R2N1OXpFWERBMnJadFFRWnJmUmVuaWY3bU1tUnhGT3Rud0NIWGRsQ2FabTN2clFZVjVjUU4wVkpvTzFtbExhQlVtVU5mSG5aMWxwYnpMb1R5MWRHbFE4Zi1KUHJQcXAzTE1RSkZuSWJDbWtvZ3FXWFdIaVI4YzM5MHVwamxGMm1veWpFS1B3b1VZNWJKUmdkbk9ta2lPWWxVUG5PRW1m0gGqAkFVX3lxTE5PeWxKYWttdDVjSmpWbUJLb3IyalhTUlJlZjJ6T094WFIwNUZiNVN1ZUZWZnR4Q3hBN1gtLWI3aDB3T0F4WU1NUUx0QkE3SlZLcDVBWVFrd2owMUxvMzV1eE5Jb2RpMkhSUnNBLW1WVkloOW95OVAzVjVNbUhWX0pZMW1tQUt6YUhNVFl3RFJSeUxiemhBazJBbzQ3VkhZMVBaUDhpbVRlM1lHMXU2UDU3QTEySlU4MnpiakVIbEdncW5SNFhlOC1ZcE9BalNwTU9UR0FEbzZBUmhPcjV3ZXVUeHhKaTN4U2Q3eWJmSTRLQlRMeUx1UnM0Z2NRWkowbDVFc2R3aGg4cW9BLXo1elBXSi1Wek5MclRzTy1rOFFSelE1azFxanQ1VWc?oc=5)
+
+2026-08-14 <span class="news-indication-tag">tumor</span>
+
+來源：[lavanguardia.com](https://news.google.com/rss/articles/CBMipAJBVV95cUxPb1Uwb3NFUDdTTUF5UGYtSlFEZ0dRVlYtMDNXZDE0UEg2SUFCTHp4TXV0ZFdWVnA0cjhLV211ZWxJdk9BanFzc1JyNTBja09reGZ4YTR5Y1FydURKTmtROEJPNHAtNjV5eUkyUzZ1cFE5a3V2RXh2SlJucmRRaktwNzZFZFM3R2N1OXpFWERBMnJadFFRWnJmUmVuaWY3bU1tUnhGT3Rud0NIWGRsQ2FabTN2clFZVjVjUU4wVkpvTzFtbExhQlVtVU5mSG5aMWxwYnpMb1R5MWRHbFE4Zi1KUHJQcXAzTE1RSkZuSWJDbWtvZ3FXWFdIaVI4YzM5MHVwamxGMm1veWpFS1B3b1VZNWJKUmdkbk9ta2lPWWxVUG5PRW1m0gGqAkFVX3lxTE5PeWxKYWttdDVjSmpWbUJLb3IyalhTUlJlZjJ6T094WFIwNUZiNVN1ZUZWZnR4Q3hBN1gtLWI3aDB3T0F4WU1NUUx0QkE3SlZLcDVBWVFrd2owMUxvMzV1eE5Jb2RpMkhSUnNBLW1WVkloOW95OVAzVjVNbUhWX0pZMW1tQUt6YUhNVFl3RFJSeUxiemhBazJBbzQ3VkhZMVBaUDhpbVRlM1lHMXU2UDU3QTEySlU4MnpiakVIbEdncW5SNFhlOC1ZcE9BalNwTU9UR0FEbzZBUmhPcjV3ZXVUeHhKaTN4U2Q3eWJmSTRLQlRMeUx1UnM0Z2NRWkowbDVFc2R3aGg4cW9BLXo1elBXSi1Wek5MclRzTy1rOFFSelE1azFxanQ1VWc?oc=5)
+
+---
+
+### [Il movimento riduce il rischio di cancro, anche 3 minuti al giorno aiutano - Canale 10](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmREbHNxdGRwaFpiU2diQTlYY2FJOC1tZ1BOd1Q5RGdMUmFBTFNraHh5OWEwcVVsU3hnbWR1Mm1DMExHUjM1TWVYbU5QZ3pRc1o4NkVQdjVSYll1d1dESEljdGxDNkg3SEZNTGlFT0UxS0k5cnJTOXREVzh5aUJyVnVoaWpPd3AyNGJNOEU0U1ZTRVFVOFgxYUIwMXZ6NHF2ODRlYW5ZUl94b3R2?oc=5)
+
+2026-08-13 <span class="news-indication-tag">cancro</span>
+
+來源：[Canale 10](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmREbHNxdGRwaFpiU2diQTlYY2FJOC1tZ1BOd1Q5RGdMUmFBTFNraHh5OWEwcVVsU3hnbWR1Mm1DMExHUjM1TWVYbU5QZ3pRc1o4NkVQdjVSYll1d1dESEljdGxDNkg3SEZNTGlFT0UxS0k5cnJTOXREVzh5aUJyVnVoaWpPd3AyNGJNOEU0U1ZTRVFVOFgxYUIwMXZ6NHF2ODRlYW5ZUl94b3R2?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ permalink: /news/relebactam/
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[FITBOOK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
+
+---
+
+### [Curcumin-Berberin-Kombination wirksam gegen Alzheimer & Krebs?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnkxZnRxMzE0Ql9pTUg2T2ZTekE3Znp5RzJuZzN4NFBiWTJDV0NtVUJxMlJEUFJqWm9HdGc5X3l5WGpKelB3NHJCdThydUdPT3lKWDY3Z0h3RlpTb2R4VXJTWkZ1MnJpZWpyQkc3YjVjX2g2RXJoQkZHYjUzTnMtb0RtdnpLVDFlOGR2UjY4RmU1TGZPLXozZVBudUN2M2JiZnFTVDY1WFZjbmRoYUtGYXBuY2tnTm5ZYm1oSg?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnkxZnRxMzE0Ql9pTUg2T2ZTekE3Znp5RzJuZzN4NFBiWTJDV0NtVUJxMlJEUFJqWm9HdGc5X3l5WGpKelB3NHJCdThydUdPT3lKWDY3Z0h3RlpTb2R4VXJTWkZ1MnJpZWpyQkc3YjVjX2g2RXJoQkZHYjUzTnMtb0RtdnpLVDFlOGR2UjY4RmU1TGZPLXozZVBudUN2M2JiZnFTVDY1WFZjbmRoYUtGYXBuY2tnTm5ZYm1oSg?oc=5)
 
 ---
 
@@ -126,11 +142,19 @@ permalink: /news/relebactam/
 
 ---
 
-### [Pankreaskrebs: Neuer Bluttest erkennt frühe Stadien zu 90% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+### [Atteinte d’un cancer, elle se retrouve sans médecin traitant à Angoulême : le combat de Maryline Escribano - Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
+
+2026-08-13 <span class="news-indication-tag">cancer</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
+
+---
+
+### [Panregza im Fokus: neuer Bluttest erkennt frühe Stadien beim Pankreaskrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
 
 ---
 

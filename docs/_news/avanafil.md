@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Avanafil</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,21 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（18 則）
 
-### [Individuelle Genetik bestimmt die Evolution von Krebs](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
+### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
-2026-08-14 <span class="news-indication-tag">Krebs</span>
+2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[medonline.at](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTFrdTByM0FwT1ptT212Yk9jcWZvWmV2X1B4ZzB4YmRWVE8yejZ2VFM3NFVLT3hGZWUxMXRaTUM1Z1pDWUE1bmNtNU00TE5hLUIzUjNIeF85RmhsQmJYRUE1eHk0OENqRFF3ZEhyYmxobTVnXzJyMVRISk5ZQXBOM3lQTmVxZEl2cUtjWm8zZjBPTWZoWkJVY1k4ZHVVSkc1?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
 ---
 
-### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+來源：[sante.lefigaro.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 ---
 
@@ -75,6 +75,22 @@ permalink: /news/avanafil/
 
 ---
 
+### [Silvia Sánchez Ramón, inmunóloga: “El timo es un órgano que produce y educa a los linfocitos T, las células que defienden al organismo frente a infecciones y tumores”](https://news.google.com/rss/articles/CBMipAJBVV95cUxPb1Uwb3NFUDdTTUF5UGYtSlFEZ0dRVlYtMDNXZDE0UEg2SUFCTHp4TXV0ZFdWVnA0cjhLV211ZWxJdk9BanFzc1JyNTBja09reGZ4YTR5Y1FydURKTmtROEJPNHAtNjV5eUkyUzZ1cFE5a3V2RXh2SlJucmRRaktwNzZFZFM3R2N1OXpFWERBMnJadFFRWnJmUmVuaWY3bU1tUnhGT3Rud0NIWGRsQ2FabTN2clFZVjVjUU4wVkpvTzFtbExhQlVtVU5mSG5aMWxwYnpMb1R5MWRHbFE4Zi1KUHJQcXAzTE1RSkZuSWJDbWtvZ3FXWFdIaVI4YzM5MHVwamxGMm1veWpFS1B3b1VZNWJKUmdkbk9ta2lPWWxVUG5PRW1m0gGqAkFVX3lxTE5PeWxKYWttdDVjSmpWbUJLb3IyalhTUlJlZjJ6T094WFIwNUZiNVN1ZUZWZnR4Q3hBN1gtLWI3aDB3T0F4WU1NUUx0QkE3SlZLcDVBWVFrd2owMUxvMzV1eE5Jb2RpMkhSUnNBLW1WVkloOW95OVAzVjVNbUhWX0pZMW1tQUt6YUhNVFl3RFJSeUxiemhBazJBbzQ3VkhZMVBaUDhpbVRlM1lHMXU2UDU3QTEySlU4MnpiakVIbEdncW5SNFhlOC1ZcE9BalNwTU9UR0FEbzZBUmhPcjV3ZXVUeHhKaTN4U2Q3eWJmSTRLQlRMeUx1UnM0Z2NRWkowbDVFc2R3aGg4cW9BLXo1elBXSi1Wek5MclRzTy1rOFFSelE1azFxanQ1VWc?oc=5)
+
+2026-08-14 <span class="news-indication-tag">tumor</span>
+
+來源：[lavanguardia.com](https://news.google.com/rss/articles/CBMipAJBVV95cUxPb1Uwb3NFUDdTTUF5UGYtSlFEZ0dRVlYtMDNXZDE0UEg2SUFCTHp4TXV0ZFdWVnA0cjhLV211ZWxJdk9BanFzc1JyNTBja09reGZ4YTR5Y1FydURKTmtROEJPNHAtNjV5eUkyUzZ1cFE5a3V2RXh2SlJucmRRaktwNzZFZFM3R2N1OXpFWERBMnJadFFRWnJmUmVuaWY3bU1tUnhGT3Rud0NIWGRsQ2FabTN2clFZVjVjUU4wVkpvTzFtbExhQlVtVU5mSG5aMWxwYnpMb1R5MWRHbFE4Zi1KUHJQcXAzTE1RSkZuSWJDbWtvZ3FXWFdIaVI4YzM5MHVwamxGMm1veWpFS1B3b1VZNWJKUmdkbk9ta2lPWWxVUG5PRW1m0gGqAkFVX3lxTE5PeWxKYWttdDVjSmpWbUJLb3IyalhTUlJlZjJ6T094WFIwNUZiNVN1ZUZWZnR4Q3hBN1gtLWI3aDB3T0F4WU1NUUx0QkE3SlZLcDVBWVFrd2owMUxvMzV1eE5Jb2RpMkhSUnNBLW1WVkloOW95OVAzVjVNbUhWX0pZMW1tQUt6YUhNVFl3RFJSeUxiemhBazJBbzQ3VkhZMVBaUDhpbVRlM1lHMXU2UDU3QTEySlU4MnpiakVIbEdncW5SNFhlOC1ZcE9BalNwTU9UR0FEbzZBUmhPcjV3ZXVUeHhKaTN4U2Q3eWJmSTRLQlRMeUx1UnM0Z2NRWkowbDVFc2R3aGg4cW9BLXo1elBXSi1Wek5MclRzTy1rOFFSelE1azFxanQ1VWc?oc=5)
+
+---
+
+### [Il movimento riduce il rischio di cancro, anche 3 minuti al giorno aiutano - Canale 10](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmREbHNxdGRwaFpiU2diQTlYY2FJOC1tZ1BOd1Q5RGdMUmFBTFNraHh5OWEwcVVsU3hnbWR1Mm1DMExHUjM1TWVYbU5QZ3pRc1o4NkVQdjVSYll1d1dESEljdGxDNkg3SEZNTGlFT0UxS0k5cnJTOXREVzh5aUJyVnVoaWpPd3AyNGJNOEU0U1ZTRVFVOFgxYUIwMXZ6NHF2ODRlYW5ZUl94b3R2?oc=5)
+
+2026-08-13 <span class="news-indication-tag">cancro</span>
+
+來源：[Canale 10](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmREbHNxdGRwaFpiU2diQTlYY2FJOC1tZ1BOd1Q5RGdMUmFBTFNraHh5OWEwcVVsU3hnbWR1Mm1DMExHUjM1TWVYbU5QZ3pRc1o4NkVQdjVSYll1d1dESEljdGxDNkg3SEZNTGlFT0UxS0k5cnJTOXREVzh5aUJyVnVoaWpPd3AyNGJNOEU0U1ZTRVFVOFgxYUIwMXZ6NHF2ODRlYW5ZUl94b3R2?oc=5)
+
+---
+
 ### [Langlebigkeit durch Thymusfunktion: biologisches Altern messbar beeinflussen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObERXX3VDTzQ0RWlsQjhqQkdvZ1JldWZWcy1sWXFmaHpPQXp3UzlmaGJWTndQWFhuUGppYXoySm1jVmJYRUF4ZHRWMFVEMEJuWEZUWlJ1SmdVRnRWb2hRS2lUbkNDZUo0WXhwSjJaZmtHdmM3T0dIZEVWN3JqRDRpNkh6Z2xEQVhPRWxFblhZOWwzcm1qUS0wLUdWQ1RCZzYzTndWZUx6Q0YyOUU?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -91,6 +107,14 @@ permalink: /news/avanafil/
 
 ---
 
+### [Curcumin-Berberin-Kombination wirksam gegen Alzheimer & Krebs?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnkxZnRxMzE0Ql9pTUg2T2ZTekE3Znp5RzJuZzN4NFBiWTJDV0NtVUJxMlJEUFJqWm9HdGc5X3l5WGpKelB3NHJCdThydUdPT3lKWDY3Z0h3RlpTb2R4VXJTWkZ1MnJpZWpyQkc3YjVjX2g2RXJoQkZHYjUzTnMtb0RtdnpLVDFlOGR2UjY4RmU1TGZPLXozZVBudUN2M2JiZnFTVDY1WFZjbmRoYUtGYXBuY2tnTm5ZYm1oSg?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnkxZnRxMzE0Ql9pTUg2T2ZTekE3Znp5RzJuZzN4NFBiWTJDV0NtVUJxMlJEUFJqWm9HdGc5X3l5WGpKelB3NHJCdThydUdPT3lKWDY3Z0h3RlpTb2R4VXJTWkZ1MnJpZWpyQkc3YjVjX2g2RXJoQkZHYjUzTnMtb0RtdnpLVDFlOGR2UjY4RmU1TGZPLXozZVBudUN2M2JiZnFTVDY1WFZjbmRoYUtGYXBuY2tnTm5ZYm1oSg?oc=5)
+
+---
+
 ### [Brustkrebs: Dieser Pflanzenstoff zeigt starke krebshemmende Wirkung](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 2026-08-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -103,7 +127,7 @@ permalink: /news/avanafil/
 
 2026-08-13 <span class="news-indication-tag">AVC</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
+來源：[univadis.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
 
 ---
 
@@ -123,11 +147,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 
@@ -139,11 +163,19 @@ permalink: /news/avanafil/
 
 ---
 
-### [Pankreaskrebs: Neuer Bluttest erkennt frühe Stadien zu 90% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+### [Atteinte d’un cancer, elle se retrouve sans médecin traitant à Angoulême : le combat de Maryline Escribano - Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
+
+2026-08-13 <span class="news-indication-tag">cancer</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXFOaGE5alhGbDVEMU9pbWRCS2FNMEJkb2NWc1pyNHFfUlNVLWdZajJ4WVhuZEFCTnlMbWw1LWtrNlUwdGtraFV3RXR4Ulo2cjRrVV9oOFNBQnNiY0JOLThaQm1PenV4NHpZbk9CM3BmX0k5ZG5BTElNU1UxaE1xV1lJTEVBel9tMWg3ZmlFS25oWkl4MGNJNlVCZkFsX2p4MGgyUzBhMGpkbVVpZ0pDUWZvS3ltQm9PNlI2MjRjLWtIbWVqUU00MkJCcGxKa2lXQ1NuaEswSFg5ZVROU01DWEs0blc3UQ?oc=5)
+
+---
+
+### [Panregza im Fokus: neuer Bluttest erkennt frühe Stadien beim Pankreaskrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXdYQzhMOHd2ZElJS1lWcVYyQm5wdUVFWmVWWW00dWxWd25PQXNFS1MzOVlyQ0JENk1DemN1WmJrMS1na25Tb3puejBqQlZDNjNmaTg1WDRMWnBiRXhvRzJyc0NKbE9HREJ3dHJKYVNMU0JGTktHMnBXMEtFOV9mdFlkRmZBV3FCMWlpd1FoQlNzOHZ6Y1l1VXA4Mi1uczFLYUk5alpKbnZ1WjBQaVE5R0pMcFg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3ZCNU9qeWxfUkFWRnVmVEZIUDZNV3dfSGtacXdQRXJBUlZ2WUhBZEd3VTI4SnZfSUZHQWR0czhlS2RzTjU2dDRoS3V5NzJ6cTZXeUtHcWhIWGIwS0gyS0N4eVIteUVtbkV6TVFMcVhwOVpzOERnRkRORlJQaXFVclFKNGNiZFRXZ3p2Q3h6bXQ0WHE4S2pqaHczVURxckVyakZHRVdpVFJadw?oc=5)
 
 ---
 

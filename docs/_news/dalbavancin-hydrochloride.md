@@ -14,7 +14,7 @@ permalink: /news/dalbavancin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dalbavancin Hydrochloride 有什麼相關新聞？">
-<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dalbavancin-hydrochloride/
 <p><a href="{{ '/drugs/dalbavancin-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ['Flesh-Eating' Bacteria: 7 Deaths Reported, Cases Rising on Gulf Coast](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
+
+2026-08-13 <span class="news-indication-tag">heart disease</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
+
+---
 
 ### [Belly Fat vs. BMI: Which Better Predicts Your Heart Disease Risk?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
 

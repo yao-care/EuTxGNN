@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Forscher belegen den „Bauernhofeffekt“ und finden die Bakterien, die Kinder widerstandsfähig machen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
+### [Weniger Allergien bei Bauernhof-Kindern: Forscher finden Ursache](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclJZN2Z3aWlaa1YwaHlLZWNEY3JrTWdZX2RLV1FGSXYwSmN0VW9teDdwTzZhejZtcmh2bkQ1OURJV3AtSzlWNDQ3VlhfT0lpOHlXUDF2dUpzMGxKRXRtOG5DSF92TFliV2JlRTZadzc1X1gweHZkY1NIczhfS2lKYU12MDNhcHBzUjlMQ3hjNGpNWkRHWnI4UUJjb2Z3RVdmZXloWlBDakZfbEk?oc=5)
 
-2026-08-13 <span class="news-indication-tag">asthma</span>
+2026-08-14 <span class="news-indication-tag">asthma</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUpTbmdzRlhadWpuZGZkaHdRMVJOSlluaU9kb2IwYlV4aWNBQV9lYThoWXoxeGJ6b1ZQQ0YwVTh4WlVvZWRWVGhUbU1udjNkeXJ0a19ud05pY05qU0NuWE5Ba1JoVkszeVhycFc4VjctZ1RGY1BfNllDWXZ2VmFBb3lVWkpraFlpWUJKSEMtbVFPUGp2X1F1SEt4UW5HSF9BXzRKRHB2ZmZldGZLVzYwbEd0NkU3SmFTclBFTnY1c0pjbzRhbXlwM1ZHX2FrUQ?oc=5)
+來源：[BR](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclJZN2Z3aWlaa1YwaHlLZWNEY3JrTWdZX2RLV1FGSXYwSmN0VW9teDdwTzZhejZtcmh2bkQ1OURJV3AtSzlWNDQ3VlhfT0lpOHlXUDF2dUpzMGxKRXRtOG5DSF92TFliV2JlRTZadzc1X1gweHZkY1NIczhfS2lKYU12MDNhcHBzUjlMQ3hjNGpNWkRHWnI4UUJjb2Z3RVdmZXloWlBDakZfbEk?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/epinephrine/
 
 2026-08-13 <span class="news-indication-tag">asma</span>
 
-來源：[animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
 
 ---
 
@@ -74,7 +74,15 @@ permalink: /news/epinephrine/
 
 2026-08-13 <span class="news-indication-tag">copd</span>
 
-來源：[lungeninformationsdienst.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
+
+---
+
+### [La prescription sociale, un outil pour améliorer la santé et le bien-être des patients : « J’ai l’impression d’avoir moins de douleurs que quand je me sens seule » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
+
+2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
 
 ---
 
