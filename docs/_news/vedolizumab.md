@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
 ### [La OMS avisa que estos cambios en el estilo de vida pueden prevenir hasta el 45 % de los casos de demencia - National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
 
 2026-08-14 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
+
+---
+
+### [Millions of women could be missing signs to prevent diabetes - don't ignore these hidden symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
+
+2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
 
 ---
 
@@ -86,14 +94,6 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Diabetes: Dieses Probiotikum bietet nachweisbaren therapeutischen Nutzen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
-
----
-
 ### [Più muscoli e meno grasso: scoperto il gene che può accelerare il metabolismo - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM0FNVW40TDNaNkNzS3NBQzhKZEwwX0N3Qy1PY2dobGk1ZVY2VkhnUEdoMHhSd0tPcUg1WkJCVjJUR2I1V1M5N0ZTTHoxTHV0elFNTE5QQnNmalBUbUxEaHM4R1g1SDFaaWhtZy1hWm4tVlhBYjdnWFVPZzdFazRZY194Zk1NTlF4cEItYUFiMC1GMnVxMm1EdU93dzFxWm5adnFRWmdpdktlRFBxUmdyaDZSWExqY0RfRXMteTVlT2JGcVp2TnFKRFVtLVRLYWtGaWFJeUFEb9IBvgFBVV95cUxQU3Jwcm5Ua0dxNUhQTXYxbGcxUDdEQ0hzV3VqbDRsZU1iMUw5aWtJamtOM2VpYVFSamtDcHpNY0dzelF6Ny1HTnB3Ml96MzdjQ2VXbzJmbWo3NjhHOENDbHRNcHc0M091cnpfSTIwdEN4ZzFpUUpRLXNkeXpCT1EzX04yMG5hYUtBbUJ4ZG5YQ0NPTklXcjVzQ21tVDNIam9KSkhiR3VUck56eVVxU21lcHVVRjdIWkJWVmpncjFR?oc=5)
 
 2026-08-13 <span class="news-indication-tag">diabete</span>
@@ -102,35 +102,19 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 
-### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
+### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen - Lungeninformationsdienst von Helmholtz Munich](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
 
 2026-08-13 <span class="news-indication-tag">copd</span>
 
-來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
-
----
-
-### [Siete variables para detectar, desde casa, el riesgo de prediabetes o diabetes - La Voz de Galicia](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY2ExMkM1OE1KNWgya1RVbDljc1VYcUxQOWxuaTZSOHQ0ODBzWWtiMmpGVjVteElCUHhQb0tua3ZOYVBsck40Z09ZeGhlUUk2UWN2UVhnVkR6MjRGOTZvNTRaS2RpakZabEphMU93RDgxcFNqSHBRcF9SMTA3bHZ1OElSVTdTMGVnam9VYno2N0J6aEJVckRXSzRTLWdjNWkxNHdOZnlYTjBxQktVT0hKWC1LYWI3M1EtbVlpV1ZLRnBWd2N5anhlR1p4UVk1Z0JPX2puVmt3LUVWbkVBY1c0VE9wZVB2LWdOdE1VblRQNGN4MllE0gH6AUFVX3lxTFBMNS1QWFMzbnFNMmF2VExEa2RtTnV6ZktKeEdycC0yN18zaHhwM3BLQlRzWmVkRW5rSHVaZVU1Y1dPQkFqM3oxQlpvZ19Eb2Rablk4Q1ZNVUtMeEUteG5TREptTGlTejNQNWNQOE81enNodkp0MGRvSWloUUR4WUhNLVVwcjVkRTBwRlhLVVJLajJyS0dwWUlYUUFIcHpXbThRZFVvUFlxSDlZY2gxZjlwUmlnRUxDR2JHbGxJb3BJQUVvWUVScDJBWWl2TmNrNUdqTmcxcE1xZWxaaHI2N1lPMlNjRjhYdlhaaTNrcFRIb1RmeUZtTlQ3TkE?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY2ExMkM1OE1KNWgya1RVbDljc1VYcUxQOWxuaTZSOHQ0ODBzWWtiMmpGVjVteElCUHhQb0tua3ZOYVBsck40Z09ZeGhlUUk2UWN2UVhnVkR6MjRGOTZvNTRaS2RpakZabEphMU93RDgxcFNqSHBRcF9SMTA3bHZ1OElSVTdTMGVnam9VYno2N0J6aEJVckRXSzRTLWdjNWkxNHdOZnlYTjBxQktVT0hKWC1LYWI3M1EtbVlpV1ZLRnBWd2N5anhlR1p4UVk1Z0JPX2puVmt3LUVWbkVBY1c0VE9wZVB2LWdOdE1VblRQNGN4MllE0gH6AUFVX3lxTFBMNS1QWFMzbnFNMmF2VExEa2RtTnV6ZktKeEdycC0yN18zaHhwM3BLQlRzWmVkRW5rSHVaZVU1Y1dPQkFqM3oxQlpvZ19Eb2Rablk4Q1ZNVUtMeEUteG5TREptTGlTejNQNWNQOE81enNodkp0MGRvSWloUUR4WUhNLVVwcjVkRTBwRlhLVVJLajJyS0dwWUlYUUFIcHpXbThRZFVvUFlxSDlZY2gxZjlwUmlnRUxDR2JHbGxJb3BJQUVvWUVScDJBWWl2TmNrNUdqTmcxcE1xZWxaaHI2N1lPMlNjRjhYdlhaaTNrcFRIb1RmeUZtTlQ3TkE?oc=5)
-
----
-
-### [La prescription sociale, un outil pour améliorer la santé et le bien-être des patients : « J’ai l’impression d’avoir moins de douleurs que quand je me sens seule » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
+來源：[Lungeninformationsdienst von Helmholtz Munich](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
 
 ---
 

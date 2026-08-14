@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
 ### [La OMS avisa que estos cambios en el estilo de vida pueden prevenir hasta el 45 % de los casos de demencia - National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
 
 2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
-
----
-
-### [Weniger Allergien bei Bauernhof-Kindern: Forscher finden Ursache](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclJZN2Z3aWlaa1YwaHlLZWNEY3JrTWdZX2RLV1FGSXYwSmN0VW9teDdwTzZhejZtcmh2bkQ1OURJV3AtSzlWNDQ3VlhfT0lpOHlXUDF2dUpzMGxKRXRtOG5DSF92TFliV2JlRTZadzc1X1gweHZkY1NIczhfS2lKYU12MDNhcHBzUjlMQ3hjNGpNWkRHWnI4UUJjb2Z3RVdmZXloWlBDakZfbEk?oc=5)
-
-2026-08-14 <span class="news-indication-tag">asthma</span>
-
-來源：[BR](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclJZN2Z3aWlaa1YwaHlLZWNEY3JrTWdZX2RLV1FGSXYwSmN0VW9teDdwTzZhejZtcmh2bkQ1OURJV3AtSzlWNDQ3VlhfT0lpOHlXUDF2dUpzMGxKRXRtOG5DSF92TFliV2JlRTZadzc1X1gweHZkY1NIczhfS2lKYU12MDNhcHBzUjlMQ3hjNGpNWkRHWnI4UUJjb2Z3RVdmZXloWlBDakZfbEk?oc=5)
 
 ---
 
@@ -78,11 +70,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
 
 2026-08-14 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
+
+---
+
+### [Millions of women could be missing signs to prevent diabetes - don't ignore these hidden symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
+
+2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/somapacitan/
 2026-08-13 <span class="news-indication-tag">diabete</span>
 
 來源：[L'Arena](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dIQmR6eDZZV0JKenhkY2U3dW1OcWJIVkRtZ2syZjY0STVRQ2xkbVVIbEM1SG8tM2s1U2d6a2RQT1Q0S2FrRWhDbk5paWNjLXFXREhUN3Z1N0piVWMzOGlud3pkc0NqX2pKNVZESzBiRzlFa0Vkb3QyTmdyclgtOEk5bW45ajRqT2d0UXc0RjA3SklEaFBsbWdOT2ZBam1POEF4RmN1Q3c0MUU5Y1JsNVdiMVYwaXBZZDRGSU5JUkd2Mk5hdnVaOHMwOFJWaHo4R3JuZkFGZ9IB3AFBVV95cUxNdVRuQzlZMjhQN3dhbjFDVXA4cnh3MG55Zk5wNnJneUFXeU04ZVVXWHlkQ1hHdGl2cGdaWktPZWh5b3NoaDBBb2Rhek5FUC1VYnd4VHpuU19EdnZlS1BYaE4xM002azRnS0oyeHBkRUhjVFpsZlZXLS0zY3dVNUotdzNQdERZVkR3WnBzUEZNMWlzUEctWFRIRTdHVlAwSTRqQ3hZeGh0NC1HTEdET1hJZkJxOFQzUVRsTnBRcTFfR2tlTWo5LXFkTHdnT3hVYTIteUxYSkk2bVh4R3lV?oc=5)
-
----
-
-### [Diabetes: Dieses Probiotikum bietet nachweisbaren therapeutischen Nutzen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
 
 ---
 
@@ -118,19 +110,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
----
-
-### [Siete variables para detectar, desde casa, el riesgo de prediabetes o diabetes - La Voz de Galicia](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY2ExMkM1OE1KNWgya1RVbDljc1VYcUxQOWxuaTZSOHQ0ODBzWWtiMmpGVjVteElCUHhQb0tua3ZOYVBsck40Z09ZeGhlUUk2UWN2UVhnVkR6MjRGOTZvNTRaS2RpakZabEphMU93RDgxcFNqSHBRcF9SMTA3bHZ1OElSVTdTMGVnam9VYno2N0J6aEJVckRXSzRTLWdjNWkxNHdOZnlYTjBxQktVT0hKWC1LYWI3M1EtbVlpV1ZLRnBWd2N5anhlR1p4UVk1Z0JPX2puVmt3LUVWbkVBY1c0VE9wZVB2LWdOdE1VblRQNGN4MllE0gH6AUFVX3lxTFBMNS1QWFMzbnFNMmF2VExEa2RtTnV6ZktKeEdycC0yN18zaHhwM3BLQlRzWmVkRW5rSHVaZVU1Y1dPQkFqM3oxQlpvZ19Eb2Rablk4Q1ZNVUtMeEUteG5TREptTGlTejNQNWNQOE81enNodkp0MGRvSWloUUR4WUhNLVVwcjVkRTBwRlhLVVJLajJyS0dwWUlYUUFIcHpXbThRZFVvUFlxSDlZY2gxZjlwUmlnRUxDR2JHbGxJb3BJQUVvWUVScDJBWWl2TmNrNUdqTmcxcE1xZWxaaHI2N1lPMlNjRjhYdlhaaTNrcFRIb1RmeUZtTlQ3TkE?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY2ExMkM1OE1KNWgya1RVbDljc1VYcUxQOWxuaTZSOHQ0ODBzWWtiMmpGVjVteElCUHhQb0tua3ZOYVBsck40Z09ZeGhlUUk2UWN2UVhnVkR6MjRGOTZvNTRaS2RpakZabEphMU93RDgxcFNqSHBRcF9SMTA3bHZ1OElSVTdTMGVnam9VYno2N0J6aEJVckRXSzRTLWdjNWkxNHdOZnlYTjBxQktVT0hKWC1LYWI3M1EtbVlpV1ZLRnBWd2N5anhlR1p4UVk1Z0JPX2puVmt3LUVWbkVBY1c0VE9wZVB2LWdOdE1VblRQNGN4MllE0gH6AUFVX3lxTFBMNS1QWFMzbnFNMmF2VExEa2RtTnV6ZktKeEdycC0yN18zaHhwM3BLQlRzWmVkRW5rSHVaZVU1Y1dPQkFqM3oxQlpvZ19Eb2Rablk4Q1ZNVUtMeEUteG5TREptTGlTejNQNWNQOE81enNodkp0MGRvSWloUUR4WUhNLVVwcjVkRTBwRlhLVVJLajJyS0dwWUlYUUFIcHpXbThRZFVvUFlxSDlZY2gxZjlwUmlnRUxDR2JHbGxJb3BJQUVvWUVScDJBWWl2TmNrNUdqTmcxcE1xZWxaaHI2N1lPMlNjRjhYdlhaaTNrcFRIb1RmeUZtTlQ3TkE?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 

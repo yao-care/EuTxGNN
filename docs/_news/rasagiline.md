@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
+
+2026-08-14 <span class="news-indication-tag">maladie d'Alzheimer</span> <span class="news-indication-tag">MS</span>
+
+來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
+
+---
 
 ### [Fast walkers in their eighties linked to lower dementia risk - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENHanJPZG12Z0dCeXpLenhPZGhCeUJwdVBHOW5aV21ESDVIS01faXZoU0RDSEtkYmxOcmpmV2cwbGRFQzRkOTRnNHdHMUVISG5fY2JWT1N0dEx4N3h0al9FSy1ESHB2YXRmSmRDb3pjd2hUUkR4Z0pPb0ZJQ1dqRjdDT1hNcmNHVmpHMFdpQWZKeFdKNE05RmJsck1qVDAxQmwtMXBnSHJoVFBiSEdoU1BXZw?oc=5)
 

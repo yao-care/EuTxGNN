@@ -54,11 +54,11 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（3 則）
 
-### ['Flesh-Eating' Bacteria: 7 Deaths Reported, Cases Rising on Gulf Coast](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
+### [Un estudio vincula el consumo diario de aguacate con un menor riesgo de cardiopatías](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFhOMnRNLW1qN0ZvOUI2M1h5VlplZWFPTEFYaTBaVENsblFNaFZwOTNNalpnbXJLVnFfTDMwemFkMW1leTBwdFFEWEYxajZ0Zl9Wck1PcDFiNkVoUzBTbmMwc1dVMjRWT3JRSHUxNDkwTHNzMmFXanRqVE53RTFPOFV4WEJXVWZFR3Vid2s0ODJGYVpCNzlLbHprNDh2UW1NNnRZOC1ZSFdzcVVrVzVLNGRudWw2a2xPQkFONWlTYmpKSzROb05adHZCS2Z6dw?oc=5)
 
-2026-08-13 <span class="news-indication-tag">heart disease</span>
+2026-08-14 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
+來源：[FreshPlaza](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFhOMnRNLW1qN0ZvOUI2M1h5VlplZWFPTEFYaTBaVENsblFNaFZwOTNNalpnbXJLVnFfTDMwemFkMW1leTBwdFFEWEYxajZ0Zl9Wck1PcDFiNkVoUzBTbmMwc1dVMjRWT3JRSHUxNDkwTHNzMmFXanRqVE53RTFPOFV4WEJXVWZFR3Vid2s0ODJGYVpCNzlLbHprNDh2UW1NNnRZOC1ZSFdzcVVrVzVLNGRudWw2a2xPQkFONWlTYmpKSzROb05adHZCS2Z6dw?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/rimegepant/
 
 ---
 
-### [Belly Fat vs. BMI: Which Better Predicts Your Heart Disease Risk?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+### [“Dall’emicrania al cuore. Dopo mesi di caldo estremo il corpo è più fragile” - La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
 
-2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
+2026-08-13 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/clopidogrel-as-hydrochloride/
 
 ---
 
-### [Arthritis origins may begin before birth - Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
+### [“Dall’emicrania al cuore. Dopo mesi di caldo estremo il corpo è più fragile” - La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
 
-2026-08-12 <span class="news-indication-tag">arthritis</span>
+2026-08-13 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PWU9kaUMyUnVqd0lzR0pucmQtZGJFdEVSYkdwbmkya2h1WURLemR2LXpjSmppNlAyQllfNnJ5ZThFU3RHSl90M1VPYnk5alQySWt3NDBiSWhHU24yRTVaY3NUOWpzd09aVTJj?oc=5)
+來源：[La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
 
 ---
 

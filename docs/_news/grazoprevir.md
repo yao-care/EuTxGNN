@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
+
+### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
+
+2026-08-14 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
+
+---
+
+### [Bowel cancer 'deadliest type for under-50s' and failing to improve - 4 signs - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
+
+---
+
+### [Can antihistamines really help with PMDD and menopausal symptoms? - The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0Y1bzRYMlZDUlJlamVjZTJjWEZSd1QzMTFVbDBwR1ZPcDcxRGF4ODNxd0lSNUtiQ0dGZXRsNTAzOGFqWVJ6VTVfOGVOU2VZZzRwY2NwVkFZRnRwU1p6Y2RXWUtnTlVRLTZ6eWFwOVV6RzJxUERpSFhzQUZ1cTVXdXEtQlQ?oc=5)
+
+2026-08-14 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0Y1bzRYMlZDUlJlamVjZTJjWEZSd1QzMTFVbDBwR1ZPcDcxRGF4ODNxd0lSNUtiQ0dGZXRsNTAzOGFqWVJ6VTVfOGVOU2VZZzRwY2NwVkFZRnRwU1p6Y2RXWUtnTlVRLTZ6eWFwOVV6RzJxUERpSFhzQUZ1cTVXdXEtQlQ?oc=5)
+
+---
 
 ### [La OMS avisa que estos cambios en el estilo de vida pueden prevenir hasta el 45 % de los casos de demencia - National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
 
 2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
-
----
-
-### [Se extiende la epidemia de ébola en la República Democrática de Congo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ29sWnRpWE5ZUkQwTGdVLUNVTjdwMHY3ZnBfXzRUcU5lc3VPcG8xT0ZSMHNFQVF3OVdSVUtwMTdvcmpIRzU0YXVJa0o1VVlrTkd1ajRTQVRoaDdYLWFzekRWX2lxRXhqM3hJMVZNeWdUb055TnZxXzdKZnRQQ2dhbVc1ZUJHaTNtaDVvM1phSjlxYVB6UHVrSnViYTF3WTRPWWdpVXdxbG5Sc2tBRTFWSWhPRmRSN05MaWdOeWlIWjVmdGtqN3MxZ3c2RUJpb2F1RERabGNEQVZ5UHc3Mm1F0gHmAUFVX3lxTE9uYVVaUEhSSE03RnBBZFROVWlZS2hSQUtYdEQwRndMUXJ4QmhMZFNHMGg2d2J5ZUpsMEU1b2ZCUEFGM2c2QTlSNnFKZ1laUnNEeWdMeEo4T2U1MUY0cmZXNzFDU1JpYlpwZk5vSWJrdHRXSFBvdGc5R1FWNDEyQ0hUUEZXSkg1aHNyc0JERmlucWg0NGVpRUZvYU5jNmRtb2JBVEkwVzd5WTl4Yzc0N0dhNEZwTVpxNGlRdUstVGZmVDBBRk5pZHV3MjNTbHFjRjZKU0kwNUVqRVF5YWNaQ2V4LTR3NlJ3?oc=5)
-
-2026-08-14 <span class="news-indication-tag">MS</span>
-
-來源：[Telemadrid](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ29sWnRpWE5ZUkQwTGdVLUNVTjdwMHY3ZnBfXzRUcU5lc3VPcG8xT0ZSMHNFQVF3OVdSVUtwMTdvcmpIRzU0YXVJa0o1VVlrTkd1ajRTQVRoaDdYLWFzekRWX2lxRXhqM3hJMVZNeWdUb055TnZxXzdKZnRQQ2dhbVc1ZUJHaTNtaDVvM1phSjlxYVB6UHVrSnViYTF3WTRPWWdpVXdxbG5Sc2tBRTFWSWhPRmRSN05MaWdOeWlIWjVmdGtqN3MxZ3c2RUJpb2F1RERabGNEQVZ5UHc3Mm1F0gHmAUFVX3lxTE9uYVVaUEhSSE03RnBBZFROVWlZS2hSQUtYdEQwRndMUXJ4QmhMZFNHMGg2d2J5ZUpsMEU1b2ZCUEFGM2c2QTlSNnFKZ1laUnNEeWdMeEo4T2U1MUY0cmZXNzFDU1JpYlpwZk5vSWJrdHRXSFBvdGc5R1FWNDEyQ0hUUEZXSkg1aHNyc0JERmlucWg0NGVpRUZvYU5jNmRtb2JBVEkwVzd5WTl4Yzc0N0dhNEZwTVpxNGlRdUstVGZmVDBBRk5pZHV3MjNTbHFjRjZKU0kwNUVqRVF5YWNaQ2V4LTR3NlJ3?oc=5)
-
----
-
-### [These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE42Vm5VVUZVRmM5d2JBODZOSk42NjVMMjViRXRNSFhtYnVMRWxYS01aYUdTR0gyV3BOQmN1WUFVUGx6ZnRYRldTSEkxb1hqU2xCdXJPczdWUlhWRllZcGdIc3VoMEw0WWRXQkZhdkpkQVl5bVJNVl9lTkFuYTVNVnU0QURsNVFtbnpGNzUyenVEekxLa0pCdWpEeGZ4UGxhNk9EWQ?oc=5)
-
-2026-08-14 <span class="news-indication-tag">MS</span>
-
-來源：[WIRED](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE42Vm5VVUZVRmM5d2JBODZOSk42NjVMMjViRXRNSFhtYnVMRWxYS01aYUdTR0gyV3BOQmN1WUFVUGx6ZnRYRldTSEkxb1hqU2xCdXJPczdWUlhWRllZcGdIc3VoMEw0WWRXQkZhdkpkQVl5bVJNVl9lTkFuYTVNVnU0QURsNVFtbnpGNzUyenVEekxLa0pCdWpEeGZ4UGxhNk9EWQ?oc=5)
 
 ---
 
@@ -86,11 +94,19 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Reizdarmsyndrom: Diese pflanzlichen Behandlungsansätze wirken](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHdUN1Rzdkg3bHBzNEJvNU84VzV6MlphVExzNHEtNkZuUDFJNVVuQXJqMVFVV3ZWSWdETmIwbWxfdmpwZWU1Y1lkVmR2TDdZWTNlU05zdXloNHFqOEFwZm5ZcXZIcXFyWlBJeE95d1dYcUJ1c2M2cUhvTGhKREZxMi1VQmlsVE9NSHJpcDFnS2ZtaGNCYTVoTFpmMWpWM1JIU0RGNzRTVFFpRGJaSUJSQ2ZjNHhrWE1iTDlyRFB5Yw?oc=5)
+### [Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
 
-2026-08-14 <span class="news-indication-tag">MS</span>
+2026-08-14 <span class="news-indication-tag">maladie d'Alzheimer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHdUN1Rzdkg3bHBzNEJvNU84VzV6MlphVExzNHEtNkZuUDFJNVVuQXJqMVFVV3ZWSWdETmIwbWxfdmpwZWU1Y1lkVmR2TDdZWTNlU05zdXloNHFqOEFwZm5ZcXZIcXFyWlBJeE95d1dYcUJ1c2M2cUhvTGhKREZxMi1VQmlsVE9NSHJpcDFnS2ZtaGNCYTVoTFpmMWpWM1JIU0RGNzRTVFFpRGJaSUJSQ2ZjNHhrWE1iTDlyRFB5Yw?oc=5)
+來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
+
+---
+
+### [Millions of women could be missing signs to prevent diabetes - don't ignore these hidden symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
+
+2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
 
 ---
 
@@ -126,6 +142,14 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [The internet's favorite yoga instructor just shared a 10-minute routine for tight hamstrings and it provided immediate relief for my sore legs](https://news.google.com/rss/articles/CBMikAJBVV95cUxNaHV5SHd4b3lRS3N1RGlDV3NacnVqZ0x4QzdPLWtWVE9fZzZwSGN2bjRLUk00RUFtcmI4OFJiU3NuTEl5WS1WQnQ5eGZzUlZWa1RHbzgxNXNLclhRVjh4WnBEZWpRb2F6d3I2b09xNGJVT2tUenhqUXFieWpwVFBGQ1FuNGZHSkVNbHdycnIzN0NxOWVBc1lQWG9fcVJVWlhTV1V6MTdxUkJYMlVsNjhVRkJHb3ZuRGxuYlltRnFsU3prbUJ2Vi1nQkdiU3FHdTFKR2M4NDUtYWFwTVJlaWNfck1tdjlQWmVHZ1R0U2JCTkU3eGcxZ0NNX1NJREx6UVZ6LS1BOTJycE1LTmFxaGFxcg?oc=5)
+
+2026-08-13 <span class="news-indication-tag">MS</span>
+
+來源：[Fit&Well](https://news.google.com/rss/articles/CBMikAJBVV95cUxNaHV5SHd4b3lRS3N1RGlDV3NacnVqZ0x4QzdPLWtWVE9fZzZwSGN2bjRLUk00RUFtcmI4OFJiU3NuTEl5WS1WQnQ5eGZzUlZWa1RHbzgxNXNLclhRVjh4WnBEZWpRb2F6d3I2b09xNGJVT2tUenhqUXFieWpwVFBGQ1FuNGZHSkVNbHdycnIzN0NxOWVBc1lQWG9fcVJVWlhTV1V6MTdxUkJYMlVsNjhVRkJHb3ZuRGxuYlltRnFsU3prbUJ2Vi1nQkdiU3FHdTFKR2M4NDUtYWFwTVJlaWNfck1tdjlQWmVHZ1R0U2JCTkU3eGcxZ0NNX1NJREx6UVZ6LS1BOTJycE1LTmFxaGFxcg?oc=5)
+
+---
+
 ### [Midwife urges parents against 'nappy only' sleep in heatwave - 'it's a mistake'](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHE0eUVqZ0JtYW1zbGVQcjRQYzlPOXRSbUtKWHZoODhOZjAzX3BkQ0JqY2s1ZTVkekd1T3JIMGJwOEtrQm9qSzhTSGdPTWFvalJ3X2RsbkRPMTFqdXdoLTBvOG9mcjJzUmZOR0J2a1dpTXhkU3JXZ2ZMMFgwMjZZUFp1VnF5TTRB?oc=5)
 
 2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -139,38 +163,6 @@ permalink: /news/grazoprevir/
 2026-08-13 <span class="news-indication-tag">MS</span>
 
 來源：[Grazia](https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3h5c2Q2QWV1bVdTUXFDcks0aUxqS3RnNzBUTG5fMFlFUXJIY2FrS1dRUmtDcTBmV1d6Tml0ZVJiYTZXekpERWt4VU5TSHBsVzNWTVVhRmtrbVNoOTBCUmRmSW5JRW1tYm5QRWNMMGJuX01PYWtQYXJ0YzFmUXZ3dXdCZDhEakpmSklQSVZHaURNWFE?oc=5)
-
----
-
-### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
-
----
-
-### [The cancer symptoms people mistake for ageing or stress - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG02cXMxU3F6TXVWbW1rc2NSamFfOGVXVzJOZWM0Q2JkTllFLWRxdFFiLUplWVlQV0dOWUF0UUJvOHl3MnlTdnR2QURlODNUcHluUzgwYThBcjVST2JFdHZSbDR1MmplRFZ0RUNMdlpnWjVMbENFVklCZlV5ckNMOU53cWhCZzhDV1VSLXcxWUJTSS12T05pcnhVbHpndlFtTEFMYVN6R3lqUnhselpPM0JRS3lfdW5kQ1E?oc=5)
-
-2026-08-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG02cXMxU3F6TXVWbW1rc2NSamFfOGVXVzJOZWM0Q2JkTllFLWRxdFFiLUplWVlQV0dOWUF0UUJvOHl3MnlTdnR2QURlODNUcHluUzgwYThBcjVST2JFdHZSbDR1MmplRFZ0RUNMdlpnWjVMbENFVklCZlV5ckNMOU53cWhCZzhDV1VSLXcxWUJTSS12T05pcnhVbHpndlFtTEFMYVN6R3lqUnhselpPM0JRS3lfdW5kQ1E?oc=5)
-
----
-
-### [Taking the stairs cuts risk of early death by a quarter - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0ZibXUyMm9oekdqSlg5WUctbXVUeE10dTljWjdfTEJENzFKdVB5bEtnYlhCckdmOXQzTlRtZlAxUzVzZFNEaVhzV05EMllsU0pxUHdod3J3Vmc3c3VMcHp3aE40M2l1bmpPdUx5a21lYnNtZllBUk11SmdBVmpmcEk3WGJiWW4tUm1hdWpmNXI4MGpMbkd0X2N0dnVDMld1V3E4RQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0ZibXUyMm9oekdqSlg5WUctbXVUeE10dTljWjdfTEJENzFKdVB5bEtnYlhCckdmOXQzTlRtZlAxUzVzZFNEaVhzV05EMllsU0pxUHdod3J3Vmc3c3VMcHp3aE40M2l1bmpPdUx5a21lYnNtZllBUk11SmdBVmpmcEk3WGJiWW4tUm1hdWpmNXI4MGpMbkd0X2N0dnVDMld1V3E4RQ?oc=5)
-
----
-
-### [La prescription sociale, un outil pour améliorer la santé et le bien-être des patients : « J’ai l’impression d’avoir moins de douleurs que quand je me sens seule » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
 
 ---
 

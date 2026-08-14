@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Belly fat combined with common vitamin deficiency DOUBLES your risk of death in the next decade - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ242c2VGNnV2bU9ld3otX2tQLWdjOGN1VkRNR094eS10UEU4a1pBTmlDVE9VejNhcjRtaEZGOTgyZWFQampoWmtCaUZwV0dsTlZhVlJUTlRjeC1oSV8yd253SHhEZmdab1RvM2QweW1XLUR6RjVTYktiLVYwY3E3RXhaRHRfVktsSGR4MTd6Nm1vOFhDREE?oc=5)
+
+2026-08-14 <span class="news-indication-tag">obesity</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ242c2VGNnV2bU9ld3otX2tQLWdjOGN1VkRNR094eS10UEU4a1pBTmlDVE9VejNhcjRtaEZGOTgyZWFQampoWmtCaUZwV0dsTlZhVlJUTlRjeC1oSV8yd253SHhEZmdab1RvM2QweW1XLUR6RjVTYktiLVYwY3E3RXhaRHRfVktsSGR4MTd6Nm1vOFhDREE?oc=5)
+
+---
+
+### [Fumo e obesità invecchiano il corpo: più anziani di quattro anni, accelerano l'orologio biologico](https://news.google.com/rss/articles/CBMilwJBVV95cUxQWUs2QVgta1gwQm9CMlB1bUdaLS1HUlJDX2hMVW9oVFlWQ1NFZWVNRVdoMFdpSEZqb09ONGlWVDdmYVB1MXgxLUc4TWtGUWVvbHdvZVNYd0lGRFM0ME5ZcXdSQVNKWXF6UE83MV9kSFZuSUpydmdyb0ptSUFxamFicFBnS1N4RkxSNS12aC15WXdzZElMalNFdV9qSWxFZ2FKSnFTMEM1YXRSSnBfY2xSZ2RnSTkxWU92ZDZPV0dwcWVBaXhobmtMNEJqWXlFQWkzT2hFQUVhR0JrcEQtYXlUQlp4UnQwSnBpWTJWcDRNZVVLcVRBS2JhZWhYQkZOOVB5cjZEQ2o5LU1hTjZjZ0xvaE9FUkdCNXPSAZwCQVVfeXFMTXdvSG93UDE3M1pPWTMycGR4QjEzQWxiTnNSbjYxY1psNVA2OHF3eXZVajl4ZmdBWlQwTmJOTENKNE9uQmdmVVBFX1lWbF9wZmxZUno5ZWI0NkIzeVNKQXl6Qy1KQXNLTkZndlk5VzB4eV82YUNLUy14R0hfOUtxRElDRE9PdGdVQkdJLXJFTjRSZkpRbDhDcWtBaHRjX0JGTnBNQnJBVlZYUktDbnRUU2dodGhuMkY2YjNOWEZpNmwtWmdBWldwX29rNnNyZ2tpYXlsVW44Znl5ZUU3bWFWbjdlUWNiQzhlMWp5R2tpaWZiemRIVTRpdWxYcll3R0VOUVZtOHVGTDBBNExoVnlCNWFLYU9Gd3Y5M2FtZWs?oc=5)
+
+2026-08-14 <span class="news-indication-tag">obesità</span>
+
+來源：[rainews.it](https://news.google.com/rss/articles/CBMilwJBVV95cUxQWUs2QVgta1gwQm9CMlB1bUdaLS1HUlJDX2hMVW9oVFlWQ1NFZWVNRVdoMFdpSEZqb09ONGlWVDdmYVB1MXgxLUc4TWtGUWVvbHdvZVNYd0lGRFM0ME5ZcXdSQVNKWXF6UE83MV9kSFZuSUpydmdyb0ptSUFxamFicFBnS1N4RkxSNS12aC15WXdzZElMalNFdV9qSWxFZ2FKSnFTMEM1YXRSSnBfY2xSZ2RnSTkxWU92ZDZPV0dwcWVBaXhobmtMNEJqWXlFQWkzT2hFQUVhR0JrcEQtYXlUQlp4UnQwSnBpWTJWcDRNZVVLcVRBS2JhZWhYQkZOOVB5cjZEQ2o5LU1hTjZjZ0xvaE9FUkdCNXPSAZwCQVVfeXFMTXdvSG93UDE3M1pPWTMycGR4QjEzQWxiTnNSbjYxY1psNVA2OHF3eXZVajl4ZmdBWlQwTmJOTENKNE9uQmdmVVBFX1lWbF9wZmxZUno5ZWI0NkIzeVNKQXl6Qy1KQXNLTkZndlk5VzB4eV82YUNLUy14R0hfOUtxRElDRE9PdGdVQkdJLXJFTjRSZkpRbDhDcWtBaHRjX0JGTnBNQnJBVlZYUktDbnRUU2dodGhuMkY2YjNOWEZpNmwtWmdBWldwX29rNnNyZ2tpYXlsVW44Znl5ZUU3bWFWbjdlUWNiQzhlMWp5R2tpaWZiemRIVTRpdWxYcll3R0VOUVZtOHVGTDBBNExoVnlCNWFLYU9Gd3Y5M2FtZWs?oc=5)
+
+---
 
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
 
@@ -86,6 +102,14 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
+### [“Dall’emicrania al cuore. Dopo mesi di caldo estremo il corpo è più fragile” - La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
+
+2026-08-13 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
+
+---
+
 ### [Obesidad abdominal y vitamina D baja: el riesgo de muerte aumenta un 123% después de los 50](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzR3T2E5eVQ1NS12cnZXcXd6RDh6N3lGTGZJR1NqdjYwcktYT1lEejdpcVFMSll0VFJrTXVhU0RzX0E0VUtqaGE2bHI4UW5jaUd1ZG80M2VGWWR0NW9kTVRMT2RHWWxSX1lRRWVSOENQa01mMDU1dmZsM1J2SVFfaGlhSnNrMVlqSDdlbHVINWJMa2JFOWktZmsyNFhNN0FBR1FyNlRUMUU4Ymk2LVBkYWxKcXZ4LWVpWmlMMWVua05seVd5TWRKaEttZGI0NzRhRC1za1NDbTFVa00?oc=5)
 
 2026-08-13 <span class="news-indication-tag">obesidad</span>
@@ -94,19 +118,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
----
-
-### [Belly Fat vs. BMI: Which Better Predicts Your Heart Disease Risk?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
-
-2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1lkOEg3b3hHZXZNVWdiX0kzZWVXT3ROTWwxOGdyd1d3UVVWRFRERnNWNlFySkJFUjBFZHJRQUcxYXdhNEZ1UmpqLUU3UkdLQnVUU2JaTHFYMGJiOXU1THFIZlJESnk2VkxxTFlzSTFuMUpjdUtkVEV1T3lzUnNQbGt4NjRMRlVGbWxR?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 
