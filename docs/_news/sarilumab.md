@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Umfrage: Mineralstoffe und Spurenelemente bei Schuppenflechte und Psoriasis arthritis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+2026-08-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+---
 
 ### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
 
@@ -67,22 +75,6 @@ permalink: /news/sarilumab/
 2026-08-13 <span class="news-indication-tag">asma</span>
 
 來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
-
----
-
-### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen - Lungeninformationsdienst von Helmholtz Munich](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
-
-2026-08-13 <span class="news-indication-tag">copd</span>
-
-來源：[Lungeninformationsdienst von Helmholtz Munich](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
-
----
-
-### [La prescription sociale, un outil pour améliorer la santé et le bien-être des patients : « J’ai l’impression d’avoir moins de douleurs que quand je me sens seule » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
 
 ---
 

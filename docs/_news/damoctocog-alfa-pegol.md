@@ -14,7 +14,7 @@ permalink: /news/damoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Damoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,53 @@ permalink: /news/damoctocog-alfa-pegol/
 <p><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（25 則）
 
-### [Vagusnerv-Stimulation: Akupressur schützt Pankreas bei Prädiabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVFGdFdqLVoyMVk5bVF6aGVuZGUzVThvQ19RWDlPNHp4a09zLUV0Q2FJLWdaMVVuN1V4VkRGLXBVX2pZM3Bvckd3OGgxRzVfWjU3dHdXdGRQd2FYRlM0TmFVR204VkFITHNQT0VsRG9NOGFiR2JCNzJNMFNxMFRWVFNiN21XZkdST2c1aTQxVnlWVjg4d0Z3ZmF4TTBaZlh1YzVRV2ZSckdBUjBZY2FxSk9HeGN6TFk?oc=5)
+### [Identifican una proteína que previene el daño hepático y frena el desarrollo de tumores - 65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkJzZFV6dGdKZTlNeE5IOXp0VUVXQV9qVkZ6OUROX3MyeDJrRUlSUW1Xb083akk3WUpCcWw4N1luNTM4LUNDRF9hUTc0QVhxNHJTZUtRcHYtMkVaeWxjWThIZDIzY28yeEZjcWhCRjdlQlp0ZFB1eG4zOHhKcUhLOXZJOWs5bGJRaGVBWFpTT3RxTUhjSXZISFhZV1lIREN4S1VDTUxKOVBrek52TWdJX1V0dldPSjJuU3B3Wg?oc=5)
 
-2026-08-14 <span class="news-indication-tag">diabetes</span>
+2026-08-15 <span class="news-indication-tag">tumor</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVFGdFdqLVoyMVk5bVF6aGVuZGUzVThvQ19RWDlPNHp4a09zLUV0Q2FJLWdaMVVuN1V4VkRGLXBVX2pZM3Bvckd3OGgxRzVfWjU3dHdXdGRQd2FYRlM0TmFVR204VkFITHNQT0VsRG9NOGFiR2JCNzJNMFNxMFRWVFNiN21XZkdST2c1aTQxVnlWVjg4d0Z3ZmF4TTBaZlh1YzVRV2ZSckdBUjBZY2FxSk9HeGN6TFk?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkJzZFV6dGdKZTlNeE5IOXp0VUVXQV9qVkZ6OUROX3MyeDJrRUlSUW1Xb083akk3WUpCcWw4N1luNTM4LUNDRF9hUTc0QVhxNHJTZUtRcHYtMkVaeWxjWThIZDIzY28yeEZjcWhCRjdlQlp0ZFB1eG4zOHhKcUhLOXZJOWs5bGJRaGVBWFpTT3RxTUhjSXZISFhZV1lIREN4S1VDTUxKOVBrek52TWdJX1V0dldPSjJuU3B3Wg?oc=5)
+
+---
+
+### [Siete datos permiten estimar el riesgo de diabetes desde casa - 65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXJoVXJxRm1uTUtJYVNYVlNRVDFxcDRRMXhOMHNLV2hJemFhTk9jQmZPTGtDazdSeEtfZUV0UUxsb29FaFJsY0VGX0lPczR4cnJ0Z3VSbHVHd2hnSXBMVkNXMkd2cTNjemVyb3hjVDZ6bGpsZzNBc3BocWtxM2pqZGNPX3hnZjd2WDh4bjg1d3l4d1NXTmtGMg?oc=5)
+
+2026-08-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXJoVXJxRm1uTUtJYVNYVlNRVDFxcDRRMXhOMHNLV2hJemFhTk9jQmZPTGtDazdSeEtfZUV0UUxsb29FaFJsY0VGX0lPczR4cnJ0Z3VSbHVHd2hnSXBMVkNXMkd2cTNjemVyb3hjVDZ6bGpsZzNBc3BocWtxM2pqZGNPX3hnZjd2WDh4bjg1d3l4d1NXTmtGMg?oc=5)
+
+---
+
+### [This Morning star admits she’s ‘struggling’ and is facing early menopause after cancer treatment in emotional post - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3Z3ZmRmclhYRVNxeXZzTkdsUUV4TW9taW5fNWkzWXh1aUZ6ZjFnenFybk1nSUpmVUxKcDRTWWo1eGtlaG90ZDJCTXU4MmstYVl4WlduNmF3TXdpM2E5RWNvVXA3RHhtaTV4T20tUzhON1plZnNSS0xjNGFUYTlubW01WnVMZ0pCTVJKREpONkhYMGo4akoyT1JlbWp6akI5TU04?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3Z3ZmRmclhYRVNxeXZzTkdsUUV4TW9taW5fNWkzWXh1aUZ6ZjFnenFybk1nSUpmVUxKcDRTWWo1eGtlaG90ZDJCTXU4MmstYVl4WlduNmF3TXdpM2E5RWNvVXA3RHhtaTV4T20tUzhON1plZnNSS0xjNGFUYTlubW01WnVMZ0pCTVJKREpONkhYMGo4akoyT1JlbWp6akI5TU04?oc=5)
 
 ---
 
 ### [Men lose right to prostate cancer test - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcS11ME51RV9MbS1kNHpuaHlGc0JDVlVRT3pVa19xa2hBUXg3MDNaLXBXd2s5VWlnR1p1OVpkVlhReUk4NWdITTNwY1BqSWVVUHJPZkFxZ05TbW4zelJnNG5yanMzWkpidnpadGIwUnhqc0I3LXN6YXc0SjZZSGowNHp3QzFkLWdmN244?oc=5)
 
-2026-08-14 <span class="news-indication-tag">cancer</span>
+2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcS11ME51RV9MbS1kNHpuaHlGc0JDVlVRT3pVa19xa2hBUXg3MDNaLXBXd2s5VWlnR1p1OVpkVlhReUk4NWdITTNwY1BqSWVVUHJPZkFxZ05TbW4zelJnNG5yanMzWkpidnpadGIwUnhqc0I3LXN6YXc0SjZZSGowNHp3QzFkLWdmN244?oc=5)
 
 ---
 
-### [Menopause-Support im BGM: Unternehmen reagieren auf Frauengesundheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+### [Menopause-Support im BGM: Unternehmen reagieren auf Frauengesundheit](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
 
 2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+
+---
+
+### [Demenzrisiko: Rauchen, Bluthochdruck, Diabetes reduzieren Leben um 12 Jahre](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
 
 ---
 
@@ -86,11 +110,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [La inmunoterapia redefine el tratamiento de los tumores de la sangre: las CAR-T, a etapas más precoces](https://news.google.com/rss/articles/CBMingFBVV95cUxORDVjNDVYZUIwYV94SE41anZXRFhlZmZzVFJCSkhWaUwxTmRNTEpURGNsU29HcGtkVk8xelh0dzVuSTNBMGw3cm1acHNhaDBqOG13MTVPTmxtQWtuR0lISmlQOG9LcWNlMTZMTG9LdGc5RFZQSWppM2VMWkN3Y1dXMlJ2aXp2elB6N1NrdXFSNnBnNzlIMFcxNGZqd2lodw?oc=5)
+### [Tumore del pancreas: che cosa aspettarsi dal nuovo farmaco - Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5)
 
 2026-08-14 <span class="news-indication-tag">tumor</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMingFBVV95cUxORDVjNDVYZUIwYV94SE41anZXRFhlZmZzVFJCSkhWaUwxTmRNTEpURGNsU29HcGtkVk8xelh0dzVuSTNBMGw3cm1acHNhaDBqOG13MTVPTmxtQWtuR0lISmlQOG9LcWNlMTZMTG9LdGc5RFZQSWppM2VMWkN3Y1dXMlJ2aXp2elB6N1NrdXFSNnBnNzlIMFcxNGZqd2lodw?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5)
 
 ---
 
@@ -142,14 +166,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
-
-2026-08-14 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZKRElyajNjVGFGRE1XUGNiUGFneGlaXzBUWllQcE9VVC1NWjd1VUpmYU5mcmJ2bWROZHpiR1M2dUJmVWhLXzhEWmp2RTlDRW1NcVJuTmpyMG50OFJlc1JIaWFFWnpDaEoweU1TbFJwYmJ5ODZ6cjVIeGE4Zm11SXRKc3k4SGFLMWRGZGxoOFJFbTlPcUFzd1EwNm5SblRqd3RGMFNYdFdWTkMyM1ZZcDVTN1VZazFObUFBQjJob2c2MTlzTVE?oc=5)
-
----
-
 ### [Une avancée majeure dans la recherche : des médecins liégeois font une découverte importante au sujet du cancer - RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span>
@@ -194,15 +210,7 @@ permalink: /news/damoctocog-alfa-pegol/
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
-
----
-
-### [A few minutes of sprinting could make a bigger impact than 90 minutes of moderate running - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUERLYnRtWngyMUtlYUExWFNHc0VIRjFTMHJyNGxCTHJqakNlZ2t4OGs4WldmcW1UWm9WV0syWTN5S2dWcmhyNWktVlEwYkNjbE1aaUp6ZjVzdERibWVVYnNOZ0tsS201bTF4LWlUc0NHb2kwbU56YXpWTXJ5UXZEcnBrbG4xYml1RnB4VQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUERLYnRtWngyMUtlYUExWFNHc0VIRjFTMHJyNGxCTHJqakNlZ2t4OGs4WldmcW1UWm9WV0syWTN5S2dWcmhyNWktVlEwYkNjbE1aaUp6ZjVzdERibWVVYnNOZ0tsS201bTF4LWlUc0NHb2kwbU56YXpWTXJ5UXZEcnBrbG4xYml1RnB4VQ?oc=5)
+來源：[fitbook.de](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
 
 ---
 
@@ -214,11 +222,19 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
+### [Diabetes: Dieses Probiotikum bietet nachweisbaren therapeutischen Nutzen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
+
+2026-08-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUURfOEVVY19vR3NUSnVtTXcyZFVyb18tbE93TUVFZFVOYWJaUjk4N1B3S3hhLXJmdGMyYXJoaVhfX1g0Smg2b3RNOGloR0c0VG1zcnhiLUd2Y3V3SEJzaTdYblBIdEdQRVRtQjRJNW1jRVFITzlUOTkzUWpvaE5EVW5FdDdaZGcxa0t3dnVyZFJXSkxqVXR5bVFmQ2xnMzlYZ3ZWbk5aX2lJUGNGTEZPN2xNcGkteE5GaWRpbEM2VEl2VjhjdVpYWVdXLWo?oc=5)
+
+---
+
 ### [Brustkrebs: Dieser Pflanzenstoff zeigt starke krebshemmende Wirkung](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 2026-08-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 ---
 
@@ -235,14 +251,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-08-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM0FNVW40TDNaNkNzS3NBQzhKZEwwX0N3Qy1PY2dobGk1ZVY2VkhnUEdoMHhSd0tPcUg1WkJCVjJUR2I1V1M5N0ZTTHoxTHV0elFNTE5QQnNmalBUbUxEaHM4R1g1SDFaaWhtZy1hWm4tVlhBYjdnWFVPZzdFazRZY194Zk1NTlF4cEItYUFiMC1GMnVxMm1EdU93dzFxWm5adnFRWmdpdktlRFBxUmdyaDZSWExqY0RfRXMteTVlT2JGcVp2TnFKRFVtLVRLYWtGaWFJeUFEb9IBvgFBVV95cUxQU3Jwcm5Ua0dxNUhQTXYxbGcxUDdEQ0hzV3VqbDRsZU1iMUw5aWtJamtOM2VpYVFSamtDcHpNY0dzelF6Ny1HTnB3Ml96MzdjQ2VXbzJmbWo3NjhHOENDbHRNcHc0M091cnpfSTIwdEN4ZzFpUUpRLXNkeXpCT1EzX04yMG5hYUtBbUJ4ZG5YQ0NPTklXcjVzQ21tVDNIam9KSkhiR3VUck56eVVxU21lcHVVRjdIWkJWVmpncjFR?oc=5)
-
----
-
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 

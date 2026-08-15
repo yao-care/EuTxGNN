@@ -14,7 +14,7 @@ permalink: /news/anagrelide/
 ---
 
 <p class="key-answer" data-question="Anagrelide 有什麼相關新聞？">
-<strong>Anagrelide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Anagrelide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/anagrelide/
 <p><a href="{{ '/drugs/anagrelide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（17 則）
+
+### [Umfrage: Mineralstoffe und Spurenelemente bei Schuppenflechte und Psoriasis arthritis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+2026-08-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+---
+
+### [Identifican una proteína que previene el daño hepático y frena el desarrollo de tumores - 65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkJzZFV6dGdKZTlNeE5IOXp0VUVXQV9qVkZ6OUROX3MyeDJrRUlSUW1Xb083akk3WUpCcWw4N1luNTM4LUNDRF9hUTc0QVhxNHJTZUtRcHYtMkVaeWxjWThIZDIzY28yeEZjcWhCRjdlQlp0ZFB1eG4zOHhKcUhLOXZJOWs5bGJRaGVBWFpTT3RxTUhjSXZISFhZV1lIREN4S1VDTUxKOVBrek52TWdJX1V0dldPSjJuU3B3Wg?oc=5)
+
+2026-08-15 <span class="news-indication-tag">tumor</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkJzZFV6dGdKZTlNeE5IOXp0VUVXQV9qVkZ6OUROX3MyeDJrRUlSUW1Xb083akk3WUpCcWw4N1luNTM4LUNDRF9hUTc0QVhxNHJTZUtRcHYtMkVaeWxjWThIZDIzY28yeEZjcWhCRjdlQlp0ZFB1eG4zOHhKcUhLOXZJOWs5bGJRaGVBWFpTT3RxTUhjSXZISFhZV1lIREN4S1VDTUxKOVBrek52TWdJX1V0dldPSjJuU3B3Wg?oc=5)
+
+---
+
+### [This Morning star admits she’s ‘struggling’ and is facing early menopause after cancer treatment in emotional post - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3Z3ZmRmclhYRVNxeXZzTkdsUUV4TW9taW5fNWkzWXh1aUZ6ZjFnenFybk1nSUpmVUxKcDRTWWo1eGtlaG90ZDJCTXU4MmstYVl4WlduNmF3TXdpM2E5RWNvVXA3RHhtaTV4T20tUzhON1plZnNSS0xjNGFUYTlubW01WnVMZ0pCTVJKREpONkhYMGo4akoyT1JlbWp6akI5TU04?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3Z3ZmRmclhYRVNxeXZzTkdsUUV4TW9taW5fNWkzWXh1aUZ6ZjFnenFybk1nSUpmVUxKcDRTWWo1eGtlaG90ZDJCTXU4MmstYVl4WlduNmF3TXdpM2E5RWNvVXA3RHhtaTV4T20tUzhON1plZnNSS0xjNGFUYTlubW01WnVMZ0pCTVJKREpONkhYMGo4akoyT1JlbWp6akI5TU04?oc=5)
+
+---
 
 ### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
 
@@ -64,7 +88,7 @@ permalink: /news/anagrelide/
 
 ### [Men lose right to prostate cancer test - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcS11ME51RV9MbS1kNHpuaHlGc0JDVlVRT3pVa19xa2hBUXg3MDNaLXBXd2s5VWlnR1p1OVpkVlhReUk4NWdITTNwY1BqSWVVUHJPZkFxZ05TbW4zelJnNG5yanMzWkpidnpadGIwUnhqc0I3LXN6YXc0SjZZSGowNHp3QzFkLWdmN244?oc=5)
 
-2026-08-14 <span class="news-indication-tag">cancer</span>
+2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcS11ME51RV9MbS1kNHpuaHlGc0JDVlVRT3pVa19xa2hBUXg3MDNaLXBXd2s5VWlnR1p1OVpkVlhReUk4NWdITTNwY1BqSWVVUHJPZkFxZ05TbW4zelJnNG5yanMzWkpidnpadGIwUnhqc0I3LXN6YXc0SjZZSGowNHp3QzFkLWdmN244?oc=5)
 
@@ -78,11 +102,11 @@ permalink: /news/anagrelide/
 
 ---
 
-### [La inmunoterapia redefine el tratamiento de los tumores de la sangre: las CAR-T, a etapas más precoces](https://news.google.com/rss/articles/CBMingFBVV95cUxORDVjNDVYZUIwYV94SE41anZXRFhlZmZzVFJCSkhWaUwxTmRNTEpURGNsU29HcGtkVk8xelh0dzVuSTNBMGw3cm1acHNhaDBqOG13MTVPTmxtQWtuR0lISmlQOG9LcWNlMTZMTG9LdGc5RFZQSWppM2VMWkN3Y1dXMlJ2aXp2elB6N1NrdXFSNnBnNzlIMFcxNGZqd2lodw?oc=5)
+### [Tumore del pancreas: che cosa aspettarsi dal nuovo farmaco - Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5)
 
 2026-08-14 <span class="news-indication-tag">tumor</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMingFBVV95cUxORDVjNDVYZUIwYV94SE41anZXRFhlZmZzVFJCSkhWaUwxTmRNTEpURGNsU29HcGtkVk8xelh0dzVuSTNBMGw3cm1acHNhaDBqOG13MTVPTmxtQWtuR0lISmlQOG9LcWNlMTZMTG9LdGc5RFZQSWppM2VMWkN3Y1dXMlJ2aXp2elB6N1NrdXFSNnBnNzlIMFcxNGZqd2lodw?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5)
 
 ---
 
@@ -154,7 +178,7 @@ permalink: /news/anagrelide/
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
+來源：[fitbook.de](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
 
 ---
 
@@ -162,7 +186,7 @@ permalink: /news/anagrelide/
 
 2026-08-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 ---
 

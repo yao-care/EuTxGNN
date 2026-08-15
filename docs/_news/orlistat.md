@@ -54,19 +54,35 @@ permalink: /news/orlistat/
 
 ## 相關新聞（11 則）
 
-### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+### [CardioPODCAST |5x17| Más allá del peso: relación entre la obesidad y la muerte súbita cardiaca](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
 
-2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-15 <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+來源：[secardiologia.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
 
 ---
 
-### [Sechs Absätze am Tag? Wie Treppensteigen unser Leben verlängert](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUo3VEJ3NkZkSnQ0RTFyX08zbzZjekhWdTk2R3hmb3ZlQjZIcjBzOGh6VzFSdTk4NFhaVjZzaHBfS2FDX3NDYzhOa0I1RkI3QVBWZHNMaGtVRjF4SzdodzJlbXV6Vms5TlFKNXdlRXp4a2pXelFLUWNKSzZpdW1MOFpYV2lvNjJRbVdZRklXLXZ5QzhWVVF6bExCRnN3ajJzcXNKOWZYdURuUDhrUDZxd1pNVFQ5czQyekV5cWtYTTBhVzJ0S3dKVk4yWGNkWGdjeC1KTUtDWHdXQ2hxUk10NkI4b2pkUQ?oc=5)
+### [Por qué aumentan los casos de ictus en jóvenes - La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
 
-2026-08-14 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-15 <span class="news-indication-tag">ictus</span>
 
-來源：[MDR.de](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUo3VEJ3NkZkSnQ0RTFyX08zbzZjekhWdTk2R3hmb3ZlQjZIcjBzOGh6VzFSdTk4NFhaVjZzaHBfS2FDX3NDYzhOa0I1RkI3QVBWZHNMaGtVRjF4SzdodzJlbXV6Vms5TlFKNXdlRXp4a2pXelFLUWNKSzZpdW1MOFpYV2lvNjJRbVdZRklXLXZ5QzhWVVF6bExCRnN3ajJzcXNKOWZYdURuUDhrUDZxd1pNVFQ5czQyekV5cWtYTTBhVzJ0S3dKVk4yWGNkWGdjeC1KTUtDWHdXQ2hxUk10NkI4b2pkUQ?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
+
+---
+
+### [La obesidad abdominal y la falta de vitamina D multiplican el riesgo de muerte después de los 50 - Hablando en Plata](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3drTm1PQ1QwazhIQjdsVFBSWEZVeGxZMW5NNUR6Y1o0QXExcFYzaHBHeDRPcUFhODVnd0pnYjdmbWdFS1RMN2J6eGFydUVEdE13ZTZ2NEdjNi1HVFJCUEQxRUVNTzZraUlyUk1Dcl9FNWc2RHh4bjNaWTVhT3RaT2Zxc0dhQWQ5RFdSNUQ2b2V3X0lPMVVJZkpMQ0ZIcGFMQVJiZEdsb1NRX1l1dHZsVFJqZzZobjZVaGpleEdKMVMyNExxc25ib3ktY2lfQzltaEpseDVtTUZPVXBrX2fSAd4BQVVfeXFMTWJVYVFqWWNMcXZhbGZ2ZXJvaHRGSUlnQkdRb2JxOV9pSWgyUXRqakFWeU5IM3czMTdVZDkyUlozNEgtSHl1YWR2R2VrVEdtamlocHY5MXRLRGRuNXVhU1kyUUVOVE9PNUlTbGRkOURLUGZMRnFjVC16VFNQVDRRSW9sV0JwbDRYeUp0dzBUV1VzcElub1ZOdGVETElXaWltcTk0ZlR4b1JmbHV2NGF1OWNKNGxneEhsQ0FHZzBRQVhCajljZXUzV09lc2I1TDNUTy1FeU1GWlpKZ2RnOTNn?oc=5)
+
+2026-08-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3drTm1PQ1QwazhIQjdsVFBSWEZVeGxZMW5NNUR6Y1o0QXExcFYzaHBHeDRPcUFhODVnd0pnYjdmbWdFS1RMN2J6eGFydUVEdE13ZTZ2NEdjNi1HVFJCUEQxRUVNTzZraUlyUk1Dcl9FNWc2RHh4bjNaWTVhT3RaT2Zxc0dhQWQ5RFdSNUQ2b2V3X0lPMVVJZkpMQ0ZIcGFMQVJiZEdsb1NRX1l1dHZsVFJqZzZobjZVaGpleEdKMVMyNExxc25ib3ktY2lfQzltaEpseDVtTUZPVXBrX2fSAd4BQVVfeXFMTWJVYVFqWWNMcXZhbGZ2ZXJvaHRGSUlnQkdRb2JxOV9pSWgyUXRqakFWeU5IM3czMTdVZDkyUlozNEgtSHl1YWR2R2VrVEdtamlocHY5MXRLRGRuNXVhU1kyUUVOVE9PNUlTbGRkOURLUGZMRnFjVC16VFNQVDRRSW9sV0JwbDRYeUp0dzBUV1VzcElub1ZOdGVETElXaWltcTk0ZlR4b1JmbHV2NGF1OWNKNGxneEhsQ0FHZzBRQVhCajljZXUzV09lc2I1TDNUTy1FeU1GWlpKZ2RnOTNn?oc=5)
+
+---
+
+### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
 ---
 
@@ -86,6 +102,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
+
+2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
+
+---
+
 ### [Studio: fare le scale regolarmente allunga la vita. Ecco perché - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNndJVDJldUN4MTI1QkpkanR4NzZhVUxBdlhWX0hhQzM0NmhHcG5tM2lvbng3SVZYalRxOC1LUkQza3ZKeGNGMWFJTXdSOFdWcFppbDkwRkc2WGZoYzMyeHdHNWZ1ZU0xQk5fd3dRai1pZ1hBWkpiTnJqT0lkTGJTTmp5dGdfcmhCQnRLZ3pB?oc=5)
 
 2026-08-14 <span class="news-indication-tag">ictus</span>
@@ -102,14 +126,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [A few minutes of sprinting could make a bigger impact than 90 minutes of moderate running - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUERLYnRtWngyMUtlYUExWFNHc0VIRjFTMHJyNGxCTHJqakNlZ2t4OGs4WldmcW1UWm9WV0syWTN5S2dWcmhyNWktVlEwYkNjbE1aaUp6ZjVzdERibWVVYnNOZ0tsS201bTF4LWlUc0NHb2kwbU56YXpWTXJ5UXZEcnBrbG4xYml1RnB4VQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUERLYnRtWngyMUtlYUExWFNHc0VIRjFTMHJyNGxCTHJqakNlZ2t4OGs4WldmcW1UWm9WV0syWTN5S2dWcmhyNWktVlEwYkNjbE1aaUp6ZjVzdERibWVVYnNOZ0tsS201bTF4LWlUc0NHb2kwbU56YXpWTXJ5UXZEcnBrbG4xYml1RnB4VQ?oc=5)
-
----
-
 ### [Kindliche Adipositas: Familienbasierte Verhaltenstherapie verstärkt Effekt der Standardversorgung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25PV0VScDl5dUZZLS1sU0hObld6elFpMHNKcmpteXdfNzNURHNKTzgzc1EyRjdKMGMxNmIxRC1BVnR3bmlRdzEwbVppc1M5RDcyUEtTSkd5NXY2d1hqbXVKbGk5d0tLSGNlOWRGWEIyY0x2UzAyOXBFQTlSUnJBQnhWaVA0NU9FRTNBMnhnNkFGbUhoUWtPa2M3RXpqQkxFZEJ5NDRyVWY2aDZuVW00LXFmOGIzYmNzTmNub0tNMmM5WkIwR1FEdGN0TVlXelJLWjZZSDhXM1V3cmlkT2pzX3NiVUgxU0dyMlFZVEZjWmRlYVphWHZqTg?oc=5)
 
 2026-08-13 <span class="news-indication-tag">Adipositas</span>
@@ -118,27 +134,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
+### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdMVUQta3RBRl82S00xSk1RTjVWaTRKLWFJR2dMNkRvX0E4VjBkY2REVFZ5bFlZSVFvendnUmZrRXJlUW15TE1XdzJuMjhXcmxZc2h4VEJhSlJnWTByRWk5NFNUSHgxTjI2VTdKaTNuSXNuMkc4bUFFMllvNURYYVZSdm5HRDdjRzZDdUl6YUxSZlcwR1JWTzdJZ3AxdS1qSzJPRUdaUEtTQQ?oc=5)
 
 2026-08-13 <span class="news-indication-tag">AVC</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
-
----
-
-### [Obesidad abdominal y vitamina D baja: el riesgo de muerte aumenta un 123% después de los 50](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzR3T2E5eVQ1NS12cnZXcXd6RDh6N3lGTGZJR1NqdjYwcktYT1lEejdpcVFMSll0VFJrTXVhU0RzX0E0VUtqaGE2bHI4UW5jaUd1ZG80M2VGWWR0NW9kTVRMT2RHWWxSX1lRRWVSOENQa01mMDU1dmZsM1J2SVFfaGlhSnNrMVlqSDdlbHVINWJMa2JFOWktZmsyNFhNN0FBR1FyNlRUMUU4Ymk2LVBkYWxKcXZ4LWVpWmlMMWVua05seVd5TWRKaEttZGI0NzRhRC1za1NDbTFVa00?oc=5)
-
-2026-08-13 <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzR3T2E5eVQ1NS12cnZXcXd6RDh6N3lGTGZJR1NqdjYwcktYT1lEejdpcVFMSll0VFJrTXVhU0RzX0E0VUtqaGE2bHI4UW5jaUd1ZG80M2VGWWR0NW9kTVRMT2RHWWxSX1lRRWVSOENQa01mMDU1dmZsM1J2SVFfaGlhSnNrMVlqSDdlbHVINWJMa2JFOWktZmsyNFhNN0FBR1FyNlRUMUU4Ymk2LVBkYWxKcXZ4LWVpWmlMMWVua05seVd5TWRKaEttZGI0NzRhRC1za1NDbTFVa00?oc=5)
-
----
-
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdMVUQta3RBRl82S00xSk1RTjVWaTRKLWFJR2dMNkRvX0E4VjBkY2REVFZ5bFlZSVFvendnUmZrRXJlUW15TE1XdzJuMjhXcmxZc2h4VEJhSlJnWTByRWk5NFNUSHgxTjI2VTdKaTNuSXNuMkc4bUFFMllvNURYYVZSdm5HRDdjRzZDdUl6YUxSZlcwR1JWTzdJZ3AxdS1qSzJPRUdaUEtTQQ?oc=5)
 
 ---
 

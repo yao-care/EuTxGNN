@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [COPD: Häufigere Krankheitsschübe bei Schluckstörungen - Lungeninformationsdienst von Helmholtz Munich](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
-
-2026-08-13 <span class="news-indication-tag">copd</span>
-
-來源：[Lungeninformationsdienst von Helmholtz Munich](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWZXVVc4cnpEb3E0N0Z1ZHJDVC1LeHZtb3c3WEdXWVJwaGZSVkJjd2hFMURCemJDSjBTV0F6eWdrV3RnRUpvV1oxSWVKTjVYVGJ0SV80SnlTc0FRZVk0Qkc4MEs4enF3dDgtdGxLU2Z0Ql9DZDJzX19OMTBpblEtYUpEdUVuOWlZU05TLS01MGVzcWVGbDhuMGJFUm01Q1RqVW5IOVVMVExaNlFLNjZzOFBLb2NIbmd6LWc?oc=5)
-
----
-
-### [La prescription sociale, un outil pour améliorer la santé et le bien-être des patients : « J’ai l’impression d’avoir moins de douleurs que quand je me sens seule » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

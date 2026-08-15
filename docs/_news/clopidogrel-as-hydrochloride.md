@@ -54,19 +54,19 @@ permalink: /news/clopidogrel-as-hydrochloride/
 
 ## 相關新聞（3 則）
 
+### [Umfrage: Mineralstoffe und Spurenelemente bei Schuppenflechte und Psoriasis arthritis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+2026-08-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+---
+
 ### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
 
 2026-08-14 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
-
----
-
-### [Caldo e attacchi di panico, perché con l’afa l’ansia può aumentare: cosa succede al corpo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEk1Z2hSLXZlUFpHS2dUTmJnSk5EVF9lUm5JRlBYSGYzYm56Wm50NTQ4ZHV2SFNULVZxMWlrWV96S2otMllYMGdSOGVoNWU0THRkemZ2LWtLeWdKSkpDUVExZ0VGT0lSaXBfa1VSTUlIcGhORVA1VHkta3ZDU3phWXhIQmctNnNRQmRLMEd0OG9vTlV5aUE3V2NZbmx0R1RCVVpHR1FiNXBrdnFDOTNoNk1tdG9VdXRRcjZiVHJuVkVIZ3dUeThkRHZRdG5xSkNHYXc?oc=5)
-
-2026-08-13 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEk1Z2hSLXZlUFpHS2dUTmJnSk5EVF9lUm5JRlBYSGYzYm56Wm50NTQ4ZHV2SFNULVZxMWlrWV96S2otMllYMGdSOGVoNWU0THRkemZ2LWtLeWdKSkpDUVExZ0VGT0lSaXBfa1VSTUlIcGhORVA1VHkta3ZDU3phWXhIQmctNnNRQmRLMEd0OG9vTlV5aUE3V2NZbmx0R1RCVVpHR1FiNXBrdnFDOTNoNk1tdG9VdXRRcjZiVHJuVkVIZ3dUeThkRHZRdG5xSkNHYXc?oc=5)
 
 ---
 

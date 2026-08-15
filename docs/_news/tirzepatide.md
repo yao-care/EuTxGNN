@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Umfrage: Mineralstoffe und Spurenelemente bei Schuppenflechte und Psoriasis arthritis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+2026-08-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+---
 
 ### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
 ---
 

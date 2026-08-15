@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [CardioPODCAST |5x17| Más allá del peso: relación entre la obesidad y la muerte súbita cardiaca](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
+
+2026-08-15 <span class="news-indication-tag">obesidad</span>
+
+來源：[secardiologia.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
+
+---
+
+### [La obesidad abdominal y la falta de vitamina D multiplican el riesgo de muerte después de los 50 - Hablando en Plata](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3drTm1PQ1QwazhIQjdsVFBSWEZVeGxZMW5NNUR6Y1o0QXExcFYzaHBHeDRPcUFhODVnd0pnYjdmbWdFS1RMN2J6eGFydUVEdE13ZTZ2NEdjNi1HVFJCUEQxRUVNTzZraUlyUk1Dcl9FNWc2RHh4bjNaWTVhT3RaT2Zxc0dhQWQ5RFdSNUQ2b2V3X0lPMVVJZkpMQ0ZIcGFMQVJiZEdsb1NRX1l1dHZsVFJqZzZobjZVaGpleEdKMVMyNExxc25ib3ktY2lfQzltaEpseDVtTUZPVXBrX2fSAd4BQVVfeXFMTWJVYVFqWWNMcXZhbGZ2ZXJvaHRGSUlnQkdRb2JxOV9pSWgyUXRqakFWeU5IM3czMTdVZDkyUlozNEgtSHl1YWR2R2VrVEdtamlocHY5MXRLRGRuNXVhU1kyUUVOVE9PNUlTbGRkOURLUGZMRnFjVC16VFNQVDRRSW9sV0JwbDRYeUp0dzBUV1VzcElub1ZOdGVETElXaWltcTk0ZlR4b1JmbHV2NGF1OWNKNGxneEhsQ0FHZzBRQVhCajljZXUzV09lc2I1TDNUTy1FeU1GWlpKZ2RnOTNn?oc=5)
+
+2026-08-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3drTm1PQ1QwazhIQjdsVFBSWEZVeGxZMW5NNUR6Y1o0QXExcFYzaHBHeDRPcUFhODVnd0pnYjdmbWdFS1RMN2J6eGFydUVEdE13ZTZ2NEdjNi1HVFJCUEQxRUVNTzZraUlyUk1Dcl9FNWc2RHh4bjNaWTVhT3RaT2Zxc0dhQWQ5RFdSNUQ2b2V3X0lPMVVJZkpMQ0ZIcGFMQVJiZEdsb1NRX1l1dHZsVFJqZzZobjZVaGpleEdKMVMyNExxc25ib3ktY2lfQzltaEpseDVtTUZPVXBrX2fSAd4BQVVfeXFMTWJVYVFqWWNMcXZhbGZ2ZXJvaHRGSUlnQkdRb2JxOV9pSWgyUXRqakFWeU5IM3czMTdVZDkyUlozNEgtSHl1YWR2R2VrVEdtamlocHY5MXRLRGRuNXVhU1kyUUVOVE9PNUlTbGRkOURLUGZMRnFjVC16VFNQVDRRSW9sV0JwbDRYeUp0dzBUV1VzcElub1ZOdGVETElXaWltcTk0ZlR4b1JmbHV2NGF1OWNKNGxneEhsQ0FHZzBRQVhCajljZXUzV09lc2I1TDNUTy1FeU1GWlpKZ2RnOTNn?oc=5)
+
+---
 
 ### [Belly fat combined with common vitamin deficiency DOUBLES your risk of death in the next decade - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ242c2VGNnV2bU9ld3otX2tQLWdjOGN1VkRNR094eS10UEU4a1pBTmlDVE9VejNhcjRtaEZGOTgyZWFQampoWmtCaUZwV0dsTlZhVlJUTlRjeC1oSV8yd253SHhEZmdab1RvM2QweW1XLUR6RjVTYktiLVYwY3E3RXhaRHRfVktsSGR4MTd6Nm1vOFhDREE?oc=5)
 
@@ -70,27 +86,19 @@ permalink: /news/ziconotide/
 
 ---
 
+### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
+
+2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
+
+---
+
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
 
 2026-08-14 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
-
----
-
-### [Caldo e attacchi di panico, perché con l’afa l’ansia può aumentare: cosa succede al corpo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEk1Z2hSLXZlUFpHS2dUTmJnSk5EVF9lUm5JRlBYSGYzYm56Wm50NTQ4ZHV2SFNULVZxMWlrWV96S2otMllYMGdSOGVoNWU0THRkemZ2LWtLeWdKSkpDUVExZ0VGT0lSaXBfa1VSTUlIcGhORVA1VHkta3ZDU3phWXhIQmctNnNRQmRLMEd0OG9vTlV5aUE3V2NZbmx0R1RCVVpHR1FiNXBrdnFDOTNoNk1tdG9VdXRRcjZiVHJuVkVIZ3dUeThkRHZRdG5xSkNHYXc?oc=5)
-
-2026-08-13 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEk1Z2hSLXZlUFpHS2dUTmJnSk5EVF9lUm5JRlBYSGYzYm56Wm50NTQ4ZHV2SFNULVZxMWlrWV96S2otMllYMGdSOGVoNWU0THRkemZ2LWtLeWdKSkpDUVExZ0VGT0lSaXBfa1VSTUlIcGhORVA1VHkta3ZDU3phWXhIQmctNnNRQmRLMEd0OG9vTlV5aUE3V2NZbmx0R1RCVVpHR1FiNXBrdnFDOTNoNk1tdG9VdXRRcjZiVHJuVkVIZ3dUeThkRHZRdG5xSkNHYXc?oc=5)
-
----
-
-### [A few minutes of sprinting could make a bigger impact than 90 minutes of moderate running - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUERLYnRtWngyMUtlYUExWFNHc0VIRjFTMHJyNGxCTHJqakNlZ2t4OGs4WldmcW1UWm9WV0syWTN5S2dWcmhyNWktVlEwYkNjbE1aaUp6ZjVzdERibWVVYnNOZ0tsS201bTF4LWlUc0NHb2kwbU56YXpWTXJ5UXZEcnBrbG4xYml1RnB4VQ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUERLYnRtWngyMUtlYUExWFNHc0VIRjFTMHJyNGxCTHJqakNlZ2t4OGs4WldmcW1UWm9WV0syWTN5S2dWcmhyNWktVlEwYkNjbE1aaUp6ZjVzdERibWVVYnNOZ0tsS201bTF4LWlUc0NHb2kwbU56YXpWTXJ5UXZEcnBrbG4xYml1RnB4VQ?oc=5)
 
 ---
 
@@ -107,22 +115,6 @@ permalink: /news/ziconotide/
 2026-08-13 <span class="news-indication-tag">Migräne</span>
 
 來源：[HNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
-
----
-
-### [Obesidad abdominal y vitamina D baja: el riesgo de muerte aumenta un 123% después de los 50](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzR3T2E5eVQ1NS12cnZXcXd6RDh6N3lGTGZJR1NqdjYwcktYT1lEejdpcVFMSll0VFJrTXVhU0RzX0E0VUtqaGE2bHI4UW5jaUd1ZG80M2VGWWR0NW9kTVRMT2RHWWxSX1lRRWVSOENQa01mMDU1dmZsM1J2SVFfaGlhSnNrMVlqSDdlbHVINWJMa2JFOWktZmsyNFhNN0FBR1FyNlRUMUU4Ymk2LVBkYWxKcXZ4LWVpWmlMMWVua05seVd5TWRKaEttZGI0NzRhRC1za1NDbTFVa00?oc=5)
-
-2026-08-13 <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzR3T2E5eVQ1NS12cnZXcXd6RDh6N3lGTGZJR1NqdjYwcktYT1lEejdpcVFMSll0VFJrTXVhU0RzX0E0VUtqaGE2bHI4UW5jaUd1ZG80M2VGWWR0NW9kTVRMT2RHWWxSX1lRRWVSOENQa01mMDU1dmZsM1J2SVFfaGlhSnNrMVlqSDdlbHVINWJMa2JFOWktZmsyNFhNN0FBR1FyNlRUMUU4Ymk2LVBkYWxKcXZ4LWVpWmlMMWVua05seVd5TWRKaEttZGI0NzRhRC1za1NDbTFVa00?oc=5)
-
----
-
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
 
 ---
 

@@ -54,27 +54,27 @@ permalink: /news/selpercatinib/
 
 ## 相關新聞（4 則）
 
-### [Menopause-Support im BGM: Unternehmen reagieren auf Frauengesundheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+### [Menopause-Support im BGM: Unternehmen reagieren auf Frauengesundheit](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
 
 2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
 
 ---
 
-### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+### [Demenzrisiko: Rauchen, Bluthochdruck, Diabetes reduzieren Leben um 12 Jahre](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
+
+---
+
+### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
 2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
-
----
-
-### [Caldo e attacchi di panico, perché con l’afa l’ansia può aumentare: cosa succede al corpo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEk1Z2hSLXZlUFpHS2dUTmJnSk5EVF9lUm5JRlBYSGYzYm56Wm50NTQ4ZHV2SFNULVZxMWlrWV96S2otMllYMGdSOGVoNWU0THRkemZ2LWtLeWdKSkpDUVExZ0VGT0lSaXBfa1VSTUlIcGhORVA1VHkta3ZDU3phWXhIQmctNnNRQmRLMEd0OG9vTlV5aUE3V2NZbmx0R1RCVVpHR1FiNXBrdnFDOTNoNk1tdG9VdXRRcjZiVHJuVkVIZ3dUeThkRHZRdG5xSkNHYXc?oc=5)
-
-2026-08-13 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEk1Z2hSLXZlUFpHS2dUTmJnSk5EVF9lUm5JRlBYSGYzYm56Wm50NTQ4ZHV2SFNULVZxMWlrWV96S2otMllYMGdSOGVoNWU0THRkemZ2LWtLeWdKSkpDUVExZ0VGT0lSaXBfa1VSTUlIcGhORVA1VHkta3ZDU3phWXhIQmctNnNRQmRLMEd0OG9vTlV5aUE3V2NZbmx0R1RCVVpHR1FiNXBrdnFDOTNoNk1tdG9VdXRRcjZiVHJuVkVIZ3dUeThkRHZRdG5xSkNHYXc?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
 ---
 

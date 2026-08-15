@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="Abatacept 有什麼相關新聞？">
-<strong>Abatacept</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abatacept</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abatacept/
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Umfrage: Mineralstoffe und Spurenelemente bei Schuppenflechte und Psoriasis arthritis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+2026-08-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2Q0cjluU2Q3bTM4aEUwbDlXbTdCRklQVVNhcHdfeUJabjhzYjdFQ0JNTGNHN204SGlIeURpOG1YQ0EtWlZONE9HM3YxeUFwdGdrcE1iQ2d3eThtbWd6ai1KZG9NVUpDeWJXX3RjeXFwbk5LalVRcG1tNmxLd2xLQmtxV2hQdDV3Q25PX1o5Z0k1dm5OWnNYeW9FYW1vY1JDLWd5R2M0VGxJNGl4M3N5b2xlcEVVLVdCa24wT3U1OG4wUkNhUWNnb1d1NkQ1eHc?oc=5)
+
+---
 
 ### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,19 +41,27 @@ permalink: /news/stroke/
 
 ## 相關新聞（5 則）
 
-### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+### [Por qué aumentan los casos de ictus en jóvenes - La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
 
-2026-08-14
+2026-08-15
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
 
 ---
 
-### [Sechs Absätze am Tag? Wie Treppensteigen unser Leben verlängert](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUo3VEJ3NkZkSnQ0RTFyX08zbzZjekhWdTk2R3hmb3ZlQjZIcjBzOGh6VzFSdTk4NFhaVjZzaHBfS2FDX3NDYzhOa0I1RkI3QVBWZHNMaGtVRjF4SzdodzJlbXV6Vms5TlFKNXdlRXp4a2pXelFLUWNKSzZpdW1MOFpYV2lvNjJRbVdZRklXLXZ5QzhWVVF6bExCRnN3ajJzcXNKOWZYdURuUDhrUDZxd1pNVFQ5czQyekV5cWtYTTBhVzJ0S3dKVk4yWGNkWGdjeC1KTUtDWHdXQ2hxUk10NkI4b2pkUQ?oc=5)
+### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
 2026-08-14
 
-來源：[MDR.de](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUo3VEJ3NkZkSnQ0RTFyX08zbzZjekhWdTk2R3hmb3ZlQjZIcjBzOGh6VzFSdTk4NFhaVjZzaHBfS2FDX3NDYzhOa0I1RkI3QVBWZHNMaGtVRjF4SzdodzJlbXV6Vms5TlFKNXdlRXp4a2pXelFLUWNKSzZpdW1MOFpYV2lvNjJRbVdZRklXLXZ5QzhWVVF6bExCRnN3ajJzcXNKOWZYdURuUDhrUDZxd1pNVFQ5czQyekV5cWtYTTBhVzJ0S3dKVk4yWGNkWGdjeC1KTUtDWHdXQ2hxUk10NkI4b2pkUQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+
+---
+
+### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
+
+2026-08-14
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
 ---
 
@@ -65,19 +73,11 @@ permalink: /news/stroke/
 
 ---
 
-### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
+### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdMVUQta3RBRl82S00xSk1RTjVWaTRKLWFJR2dMNkRvX0E4VjBkY2REVFZ5bFlZSVFvendnUmZrRXJlUW15TE1XdzJuMjhXcmxZc2h4VEJhSlJnWTByRWk5NFNUSHgxTjI2VTdKaTNuSXNuMkc4bUFFMllvNURYYVZSdm5HRDdjRzZDdUl6YUxSZlcwR1JWTzdJZ3AxdS1qSzJPRUdaUEtTQQ?oc=5)
 
 2026-08-13
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
-
----
-
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
-2026-08-13
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdMVUQta3RBRl82S00xSk1RTjVWaTRKLWFJR2dMNkRvX0E4VjBkY2REVFZ5bFlZSVFvendnUmZrRXJlUW15TE1XdzJuMjhXcmxZc2h4VEJhSlJnWTByRWk5NFNUSHgxTjI2VTdKaTNuSXNuMkc4bUFFMllvNURYYVZSdm5HRDdjRzZDdUl6YUxSZlcwR1JWTzdJZ3AxdS1qSzJPRUdaUEtTQQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Des scientifiques découvrent un possible déclencheur de la maladie d'Alzheimer : il commence dès 50 ans](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
+
+2026-08-15
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
+
+---
 
 ### [Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
 

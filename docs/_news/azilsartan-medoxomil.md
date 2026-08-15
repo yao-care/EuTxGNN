@@ -14,7 +14,7 @@ permalink: /news/azilsartan-medoxomil/
 ---
 
 <p class="key-answer" data-question="Azilsartan Medoxomil 有什麼相關新聞？">
-<strong>Azilsartan Medoxomil</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azilsartan Medoxomil</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/azilsartan-medoxomil/
 <p><a href="{{ '/drugs/azilsartan-medoxomil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（22 則）
+
+### [Por qué aumentan los casos de ictus en jóvenes - La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
+
+2026-08-15 <span class="news-indication-tag">ictus</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
+
+---
+
+### [Identifican una proteína que previene el daño hepático y frena el desarrollo de tumores - 65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkJzZFV6dGdKZTlNeE5IOXp0VUVXQV9qVkZ6OUROX3MyeDJrRUlSUW1Xb083akk3WUpCcWw4N1luNTM4LUNDRF9hUTc0QVhxNHJTZUtRcHYtMkVaeWxjWThIZDIzY28yeEZjcWhCRjdlQlp0ZFB1eG4zOHhKcUhLOXZJOWs5bGJRaGVBWFpTT3RxTUhjSXZISFhZV1lIREN4S1VDTUxKOVBrek52TWdJX1V0dldPSjJuU3B3Wg?oc=5)
+
+2026-08-15 <span class="news-indication-tag">tumor</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkJzZFV6dGdKZTlNeE5IOXp0VUVXQV9qVkZ6OUROX3MyeDJrRUlSUW1Xb083akk3WUpCcWw4N1luNTM4LUNDRF9hUTc0QVhxNHJTZUtRcHYtMkVaeWxjWThIZDIzY28yeEZjcWhCRjdlQlp0ZFB1eG4zOHhKcUhLOXZJOWs5bGJRaGVBWFpTT3RxTUhjSXZISFhZV1lIREN4S1VDTUxKOVBrek52TWdJX1V0dldPSjJuU3B3Wg?oc=5)
+
+---
+
+### [This Morning star admits she’s ‘struggling’ and is facing early menopause after cancer treatment in emotional post - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3Z3ZmRmclhYRVNxeXZzTkdsUUV4TW9taW5fNWkzWXh1aUZ6ZjFnenFybk1nSUpmVUxKcDRTWWo1eGtlaG90ZDJCTXU4MmstYVl4WlduNmF3TXdpM2E5RWNvVXA3RHhtaTV4T20tUzhON1plZnNSS0xjNGFUYTlubW01WnVMZ0pCTVJKREpONkhYMGo4akoyT1JlbWp6akI5TU04?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3Z3ZmRmclhYRVNxeXZzTkdsUUV4TW9taW5fNWkzWXh1aUZ6ZjFnenFybk1nSUpmVUxKcDRTWWo1eGtlaG90ZDJCTXU4MmstYVl4WlduNmF3TXdpM2E5RWNvVXA3RHhtaTV4T20tUzhON1plZnNSS0xjNGFUYTlubW01WnVMZ0pCTVJKREpONkhYMGo4akoyT1JlbWp6akI5TU04?oc=5)
+
+---
 
 ### [Men lose right to prostate cancer test - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcS11ME51RV9MbS1kNHpuaHlGc0JDVlVRT3pVa19xa2hBUXg3MDNaLXBXd2s5VWlnR1p1OVpkVlhReUk4NWdITTNwY1BqSWVVUHJPZkFxZ05TbW4zelJnNG5yanMzWkpidnpadGIwUnhqc0I3LXN6YXc0SjZZSGowNHp3QzFkLWdmN244?oc=5)
 
-2026-08-14 <span class="news-indication-tag">cancer</span>
+2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcS11ME51RV9MbS1kNHpuaHlGc0JDVlVRT3pVa19xa2hBUXg3MDNaLXBXd2s5VWlnR1p1OVpkVlhReUk4NWdITTNwY1BqSWVVUHJPZkFxZ05TbW4zelJnNG5yanMzWkpidnpadGIwUnhqc0I3LXN6YXc0SjZZSGowNHp3QzFkLWdmN244?oc=5)
 
 ---
 
-### [Menopause-Support im BGM: Unternehmen reagieren auf Frauengesundheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+### [Menopause-Support im BGM: Unternehmen reagieren auf Frauengesundheit](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
 
 2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+
+---
+
+### [Demenzrisiko: Rauchen, Bluthochdruck, Diabetes reduzieren Leben um 12 Jahre](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
 
 ---
 
@@ -78,11 +110,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [La inmunoterapia redefine el tratamiento de los tumores de la sangre: las CAR-T, a etapas más precoces](https://news.google.com/rss/articles/CBMingFBVV95cUxORDVjNDVYZUIwYV94SE41anZXRFhlZmZzVFJCSkhWaUwxTmRNTEpURGNsU29HcGtkVk8xelh0dzVuSTNBMGw3cm1acHNhaDBqOG13MTVPTmxtQWtuR0lISmlQOG9LcWNlMTZMTG9LdGc5RFZQSWppM2VMWkN3Y1dXMlJ2aXp2elB6N1NrdXFSNnBnNzlIMFcxNGZqd2lodw?oc=5)
+### [Tumore del pancreas: che cosa aspettarsi dal nuovo farmaco - Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5)
 
 2026-08-14 <span class="news-indication-tag">tumor</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMingFBVV95cUxORDVjNDVYZUIwYV94SE41anZXRFhlZmZzVFJCSkhWaUwxTmRNTEpURGNsU29HcGtkVk8xelh0dzVuSTNBMGw3cm1acHNhaDBqOG13MTVPTmxtQWtuR0lISmlQOG9LcWNlMTZMTG9LdGc5RFZQSWppM2VMWkN3Y1dXMlJ2aXp2elB6N1NrdXFSNnBnNzlIMFcxNGZqd2lodw?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5)
 
 ---
 
@@ -118,19 +150,19 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
 2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
 ---
 
-### [Sechs Absätze am Tag? Wie Treppensteigen unser Leben verlängert](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUo3VEJ3NkZkSnQ0RTFyX08zbzZjekhWdTk2R3hmb3ZlQjZIcjBzOGh6VzFSdTk4NFhaVjZzaHBfS2FDX3NDYzhOa0I1RkI3QVBWZHNMaGtVRjF4SzdodzJlbXV6Vms5TlFKNXdlRXp4a2pXelFLUWNKSzZpdW1MOFpYV2lvNjJRbVdZRklXLXZ5QzhWVVF6bExCRnN3ajJzcXNKOWZYdURuUDhrUDZxd1pNVFQ5czQyekV5cWtYTTBhVzJ0S3dKVk4yWGNkWGdjeC1KTUtDWHdXQ2hxUk10NkI4b2pkUQ?oc=5)
+### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
-2026-08-14 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[MDR.de](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUo3VEJ3NkZkSnQ0RTFyX08zbzZjekhWdTk2R3hmb3ZlQjZIcjBzOGh6VzFSdTk4NFhaVjZzaHBfS2FDX3NDYzhOa0I1RkI3QVBWZHNMaGtVRjF4SzdodzJlbXV6Vms5TlFKNXdlRXp4a2pXelFLUWNKSzZpdW1MOFpYV2lvNjJRbVdZRklXLXZ5QzhWVVF6bExCRnN3ajJzcXNKOWZYdURuUDhrUDZxd1pNVFQ5czQyekV5cWtYTTBhVzJ0S3dKVk4yWGNkWGdjeC1KTUtDWHdXQ2hxUk10NkI4b2pkUQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
 ---
 
@@ -178,7 +210,7 @@ permalink: /news/azilsartan-medoxomil/
 
 2026-08-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
+來源：[fitbook.de](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHphWVpBZ3dRV08tUUlFVHdMSDcxRENTdEo1T1dHUlhMdUg5NkFTcWUyVnNxWFFpZkh1NmJtS1Z0U2tycHRkN2pQeDRoNmF2MXpxZXZiMlRYZFFsYncydG1yeWdreE5TZ1Nna0lGVG5uc1Jyc0JLN1dIOFFsUDRXOU5kLUIzZw?oc=5)
 
 ---
 
@@ -186,23 +218,15 @@ permalink: /news/azilsartan-medoxomil/
 
 2026-08-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 ---
 
-### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
+### [L’AVC lacunaire serait associé à un élargissement des artères et non à leur obstruction](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdMVUQta3RBRl82S00xSk1RTjVWaTRKLWFJR2dMNkRvX0E4VjBkY2REVFZ5bFlZSVFvendnUmZrRXJlUW15TE1XdzJuMjhXcmxZc2h4VEJhSlJnWTByRWk5NFNUSHgxTjI2VTdKaTNuSXNuMkc4bUFFMllvNURYYVZSdm5HRDdjRzZDdUl6YUxSZlcwR1JWTzdJZ3AxdS1qSzJPRUdaUEtTQQ?oc=5)
 
 2026-08-13 <span class="news-indication-tag">AVC</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzdpY1NaTFE0RHBJdTBXbXlOU1dEWkEzdjZYbXJmcTBuazhlbGlNYUZDOU5GUTdJVUNDcXhHbE51N2ZnZkl5MjA1T2lwbjhseG1sa3R1bzFuV0FnSjREVHktZWFyNWllX0ZXR2FkVk1JaDc0SXJpZWhyamZsaUZZaGRCdlFSSlZMZm9jNlRUdllaMWxVR3pGc2s1MTRWNjhQejJJc1ByNFJyQzFXalhXNXJfNUNjQm51Q2FMUjlxTUF4dWUwd1B5eHpwNFZhS1M5SGVrSzBvT2JXZ1VQVl9BSnJ3?oc=5)
-
----
-
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
-
-2026-08-13 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUZ2bW40V2tzbFlZVjNab2NtXzBkV1BRVVp3bDBSZEkzeEdEM2pTempLZGpiTFV2NzBZRHM2LUtEb1U0YWtUM0FrNkUyM1pUQ1ZPdUY3TWd3a3JYTjVyT0VnRDR1UEN3TExVREZmNmdITFh5VTdKWHNnaGNPVEs3R0dzeC1kd1pMQkVZY21WUlhySmdQelVPNi1xSzJoZXFRckhTM1B3Tm5iT3FzMXNKZUo5VFg3Q2JUOUJWYVdocm5lelp6Ti1ObUVUMEFiUHRuSkZB?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdMVUQta3RBRl82S00xSk1RTjVWaTRKLWFJR2dMNkRvX0E4VjBkY2REVFZ5bFlZSVFvendnUmZrRXJlUW15TE1XdzJuMjhXcmxZc2h4VEJhSlJnWTByRWk5NFNUSHgxTjI2VTdKaTNuSXNuMkc4bUFFMllvNURYYVZSdm5HRDdjRzZDdUl6YUxSZlcwR1JWTzdJZ3AxdS1qSzJPRUdaUEtTQQ?oc=5)
 
 ---
 
