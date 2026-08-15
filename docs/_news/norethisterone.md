@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="Norethisterone 有什麼相關新聞？">
-<strong>Norethisterone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Norethisterone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/norethisterone/
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [La gripe aviar H5N1 llega a Tasmania y el Gobierno trabaja para desarrollar nuevas vacunas para proteger a ...](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
-
-2026-08-13 <span class="news-indication-tag">asma</span>
-
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1ZqX2VSZDNhRnloeWlLN3piVUZOUXcxQ3dEdzdnc3pjaHVZWTU3QjlVd2tDeDhJdVpYOFJvUlE0V2MxNUtGSmdwWC1EbzNRTzQ4LUdGbUZ5R2JSS3hxSEhUdldpaEJYRlRnQ1BOWnB6dERUZEJ2TFhvMHV3aldMV0dSTi1lLVY1NUNySlNZR2Z4eTFZWUlmbl9Keks3N0IxYW9CXzVrbmZyLVprNTlXYkRaRW5KMi02Qk5xOTdWaXlqNDhBTldhLUdxbERYU0JFSk1qQW8wNEhqTTdNSGpMZU5BMC1fUHFlLWpqZUJNeHRRN2vSAfgBQVVfeXFMTndQczNxMXFNdm95eGhMRS1qa2RlOXZ5bnozZnFhX3VnTUdTZ2hqRzhLbEp5c0hSVXA3dkRJZERteExFWFQzdWE5MTJ4NFZOYzY0dzlVamN1b3RpaHllVVh3ZEMxTlNJQjQydTJOLWtBVVQ1c0FfRXNDb2oyRGV0OFZmNFV5T2xxN1B2X3lGYmxON3FySl9VUXMtSHJNTE03WlhwWFZMYzY2VUxTRU1jX1luZkx4TThOa1E2QmJJVGV1SEFKZHNhQ0ZERWFGaHVYSHBUbkp1TmxxV2V6UmlFOTM3RXRwd0tIaTFYS1YwS1UyUkxyS19Hc1k?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

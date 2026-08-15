@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Netupitant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,39 +52,9 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [Menopause-Support im BGM: Unternehmen reagieren auf Frauengesundheit](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
-
-2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
-
----
-
-### [Demenzrisiko: Rauchen, Bluthochdruck, Diabetes reduzieren Leben um 12 Jahre](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
-
----
-
-### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
-
-2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
-
----
-
-### [Zehn Tage Migräne, dann die Schock-Diagnose: 34-Jähriger hat nur noch Monate zu leben](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
-
-2026-08-13 <span class="news-indication-tag">Migräne</span>
-
-來源：[HNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHJCbm81WkdYSjZMa1JpMzVRWkkzV013SHNPUGRPVURuSUdxMm5FbllmLUJCVG5PekR1MXljdHRtam9CalpkQmhmb1pIalVfNXJ3UEdEVktISEt3bXd6SzlGU29kS3M2QXUybS1Fa3R6cmJhdXVwRWVBNERMM2J5b1Y5TDlJV0JoWEhGWXZQVmlhdUhoejBjTFdIN0pXS09KcXhQMW9HV1l0Y0RkUUVmQkROVkh5RUky?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

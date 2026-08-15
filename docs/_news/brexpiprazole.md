@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Stress da lavoro, l’allarme: quando diventa cronico il corpo presenta il conto: cuore, cervello e metabolismo sotto pressione](https://news.google.com/rss/articles/CBMigAJBVV95cUxOaURDOEZWa3RQNmp6Rl81c2FhbUIwa2ZqYkowdnhpUi1GNWxnUEVrV3VCbDBWQXpIT1dZU01SQm10TkRRbG91QXZNVjN3UlFod1A2ek1KSnJhTWNhZExZdHpyTEhwZnBwc3pjT1FIamtsTTlXdm1vdUFNS1VyS3hYQnhVUkZnMDVFMFVmdHAxNHRTdllhNHNFU3BPZk1KcThuemUzOHd3V0JlZFR0YlhwbUhoaHhoU3NfYkptdjZZVjc2akdBRGxtZ2ozY1ZjQ2pFR3RIbkZ5RE1UeFlnMHY3cDlWRHI0TVViNUhrZ2FTMHMwaDVNVFpGYnZCMklzYVNs?oc=5)
-
-2026-08-14 <span class="news-indication-tag">depression</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMigAJBVV95cUxOaURDOEZWa3RQNmp6Rl81c2FhbUIwa2ZqYkowdnhpUi1GNWxnUEVrV3VCbDBWQXpIT1dZU01SQm10TkRRbG91QXZNVjN3UlFod1A2ek1KSnJhTWNhZExZdHpyTEhwZnBwc3pjT1FIamtsTTlXdm1vdUFNS1VyS3hYQnhVUkZnMDVFMFVmdHAxNHRTdllhNHNFU3BPZk1KcThuemUzOHd3V0JlZFR0YlhwbUhoaHhoU3NfYkptdjZZVjc2akdBRGxtZ2ozY1ZjQ2pFR3RIbkZ5RE1UeFlnMHY3cDlWRHI0TVViNUhrZ2FTMHMwaDVNVFpGYnZCMklzYVNs?oc=5)
-
----
-
-### [Frühkindlicher Stress: Enzym SETD7 steuert Anfälligkeit für Depressionen](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
-
-2026-08-14 <span class="news-indication-tag">depression</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
