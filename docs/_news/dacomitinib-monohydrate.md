@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,47 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（5 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
+
+2026-08-14 <span class="news-indication-tag">arthritis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
+
+---
+
+### [Demenzrisiko: Rauchen, Bluthochdruck, Diabetes reduzieren Leben um 12 Jahre](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
+
+---
+
+### [Vuoti di memoria dopo i 50 anni: i 3 fattori decisivi da controllare subito per allontanare la demenza di oltre 10 anni](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
+
+---
+
+### [La preeclampsia podría aumentar el riesgo de enfermedad renal crónica e hipertensión](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR3B1VUN4akhMZmQzdGE5YVpFX1AxQk1WMUhNSWZKbGJnQVBGejVmTGtsaDltWGZkXzJ3X29DTnQ1NEhMcGlmMHVBTE1wYVZ1bmc2MDJVNVFNV192bXVfR2x2Z3I0bWJsZWhjSE5pVzRnRng5OWFsVlRwUWxrR0ZIMnZVeDREU2pnZDktUklIV2tUWm52RGhOaWV5X3hGOUpubXdSUkxUb0hBQ2hZaktzNVBMdElpTVRJdHRtVVpaWnY?oc=5)
+
+2026-08-14 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR3B1VUN4akhMZmQzdGE5YVpFX1AxQk1WMUhNSWZKbGJnQVBGejVmTGtsaDltWGZkXzJ3X29DTnQ1NEhMcGlmMHVBTE1wYVZ1bmc2MDJVNVFNV192bXVfR2x2Z3I0bWJsZWhjSE5pVzRnRng5OWFsVlRwUWxrR0ZIMnZVeDREU2pnZDktUklIV2tUWm52RGhOaWV5X3hGOUpubXdSUkxUb0hBQ2hZaktzNVBMdElpTVRJdHRtVVpaWnY?oc=5)
+
+---
+
+### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+
+---
 
 
 <div class="disclaimer">

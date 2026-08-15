@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La preeclampsia podría aumentar el riesgo de enfermedad renal crónica e hipertensión](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR3B1VUN4akhMZmQzdGE5YVpFX1AxQk1WMUhNSWZKbGJnQVBGejVmTGtsaDltWGZkXzJ3X29DTnQ1NEhMcGlmMHVBTE1wYVZ1bmc2MDJVNVFNV192bXVfR2x2Z3I0bWJsZWhjSE5pVzRnRng5OWFsVlRwUWxrR0ZIMnZVeDREU2pnZDktUklIV2tUWm52RGhOaWV5X3hGOUpubXdSUkxUb0hBQ2hZaktzNVBMdElpTVRJdHRtVVpaWnY?oc=5)
+
+2026-08-14 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR3B1VUN4akhMZmQzdGE5YVpFX1AxQk1WMUhNSWZKbGJnQVBGejVmTGtsaDltWGZkXzJ3X29DTnQ1NEhMcGlmMHVBTE1wYVZ1bmc2MDJVNVFNV192bXVfR2x2Z3I0bWJsZWhjSE5pVzRnRng5OWFsVlRwUWxrR0ZIMnZVeDREU2pnZDktUklIV2tUWm52RGhOaWV5X3hGOUpubXdSUkxUb0hBQ2hZaktzNVBMdElpTVRJdHRtVVpaWnY?oc=5)
+
+---
+
+### [Dopo quello da Covid, il lockdown da caldo. Ma stavolta senza aiuti - la Repubblica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzdiNVRnMzFObF9QN3lDa1E4MmRhSTF5Y1BQUTExN1VVVlNRa2MtWnY5NW1pNWRUOExOUjYzcmNEUlhuaWRjRkRBYm5WSkRTTnlDeTRUOE9LckRHUTVrWHA3OHdPNG9xZl9YUW10VjlKRHlrYkVRWVJvNTR4eWFSWlFLc0ZmYW82QXdaaUdORFZxSWswb1R1b21ucVU1QmI2LW9mS3dBS1kzSks0ZHVpbnBzZlDSAboBQVVfeXFMTlFPRzlsczBURWZRS3NJT3g0b2FWRUxIdk02WkEtM3dXbEZaUjJVdmFVX2gxcFB3RXMzS3NfRlhPdDFuemhlQ3A0aDBaemdvQ3FHQzVYRjZzY1JlZWtaQmlDMTNMVHIzSEJQbVB4Y2l6ejQtX3NIdWc0V2tZeWNvQlByT2UzY1hfellTRWNIQ3FqRUdKQy1fc0x6bGl0T1dOaTR0Y0tEVlhaR3dkeEwtNzAtOG1jbmFqYnZR?oc=5)
+
+2026-08-14 <span class="news-indication-tag">CKD</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzdiNVRnMzFObF9QN3lDa1E4MmRhSTF5Y1BQUTExN1VVVlNRa2MtWnY5NW1pNWRUOExOUjYzcmNEUlhuaWRjRkRBYm5WSkRTTnlDeTRUOE9LckRHUTVrWHA3OHdPNG9xZl9YUW10VjlKRHlrYkVRWVJvNTR4eWFSWlFLc0ZmYW82QXdaaUdORFZxSWswb1R1b21ucVU1QmI2LW9mS3dBS1kzSks0ZHVpbnBzZlDSAboBQVVfeXFMTlFPRzlsczBURWZRS3NJT3g0b2FWRUxIdk02WkEtM3dXbEZaUjJVdmFVX2gxcFB3RXMzS3NfRlhPdDFuemhlQ3A0aDBaemdvQ3FHQzVYRjZzY1JlZWtaQmlDMTNMVHIzSEJQbVB4Y2l6ejQtX3NIdWc0V2tZeWNvQlByT2UzY1hfellTRWNIQ3FqRUdKQy1fc0x6bGl0T1dOaTR0Y0tEVlhaR3dkeEwtNzAtOG1jbmFqYnZR?oc=5)
+
+---
 
 
 <div class="disclaimer">

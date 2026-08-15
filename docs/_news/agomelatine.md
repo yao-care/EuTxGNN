@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Frühkindlicher Stress: Enzym SETD7 steuert Anfälligkeit für Depressionen](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
+
+2026-08-14 <span class="news-indication-tag">depression</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
+
+---
 
 
 <div class="disclaimer">

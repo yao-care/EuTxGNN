@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,9 +46,47 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（5 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Des scientifiques découvrent un possible déclencheur de la maladie d'Alzheimer : il commence dès 50 ans](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
+
+2026-08-15 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
+
+---
+
+### [‘Mum worked into her 70s. Her £250k savings were lost to dementia care’ - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
+
+2026-08-15 <span class="news-indication-tag">dementia</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
+
+---
+
+### [Dementia: Walking speed in your 80s linked to 50% lower risk of brain decline - GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
+
+2026-08-14 <span class="news-indication-tag">dementia</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
+
+---
+
+### [Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
+
+2026-08-14 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
+
+---
+
+### [A new target in the gut for reducing Alzheimer's risk](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VQV84c0Jidlp4c1BneFkzMlFUUWF5VE91N1lhZ0Q1Vm9SbWtjQUswc0dpbTNGd2N4MUduczc5VHM1T19uNXRfcy0xcEJJbWdQVm10NjRLYjVIM2VsWTFmbE9NdWRGdmts?oc=5)
+
+2026-08-13 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[medicalxpress.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VQV84c0Jidlp4c1BneFkzMlFUUWF5VE91N1lhZ0Q1Vm9SbWtjQUswc0dpbTNGd2N4MUduczc5VHM1T19uNXRfcy0xcEJJbWdQVm10NjRLYjVIM2VsWTFmbE9NdWRGdmts?oc=5)
+
+---
 
 
 <div class="disclaimer">

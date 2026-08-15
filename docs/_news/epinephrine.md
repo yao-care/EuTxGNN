@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Toxoplasma, svelato il segreto del parassita che si nasconde nel cervello. Lo studio Usa](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
+
+2026-08-15 <span class="news-indication-tag">asma</span>
+
+來源：[ilfattoquotidiano.it](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
+
+---
+
+### [Sudie: Katzen verschlimmern Asthma nicht bei Kindern](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
+
+2026-08-15 <span class="news-indication-tag">asthma</span>
+
+來源：[kinderaerzte-im-netz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
+
+---
 
 
 <div class="disclaimer">

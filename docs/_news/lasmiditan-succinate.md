@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,79 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（9 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [GIP-Rezeptor: Cambridge-Studie eröffnet neue Adipositas-Therapien](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
+
+2026-08-15 <span class="news-indication-tag">Adipositas</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
+
+---
+
+### [CardioPODCAST |5x17| Más allá del peso: relación entre la obesidad y la muerte súbita cardiaca - Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
+
+2026-08-15 <span class="news-indication-tag">obesidad</span>
+
+來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
+
+---
+
+### [Il caldo dà alla testa. E non è solo un modo di dire](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
+
+2026-08-15 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
+
+---
+
+### [Perché i chili tornano? Il grasso conserva una “memoria” dell’obesità anche dopo il dimagrimento](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3ZHSzh5WG9Oc2lLOENacjd6QlJlR25paEpVWWJXRU9WTGRIQzdEVWFvaE10T1pGdnl4ZGZWQ29DTXg2VktCVms2WnpSYUR6bXJ1T3ZUcGx3R2lUbDlmQVhiZFUwVVVqWVVpUEZ5TEszVmxNa3YxS1lUd0FCVWR2NlFlc19DR2tibF9DZ19LQWczc3lxeGlIR1hQRUlyeFRUUTExTC00ZXFpelVoeUxEeDVVMGluTFE4bnY2V3FqTWx0RkhDZmxaQnA5Y0VjRjlDaXB6UV9OWllCTDBkZjBlS1g2YjdET3M?oc=5)
+
+2026-08-14 <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3ZHSzh5WG9Oc2lLOENacjd6QlJlR25paEpVWWJXRU9WTGRIQzdEVWFvaE10T1pGdnl4ZGZWQ29DTXg2VktCVms2WnpSYUR6bXJ1T3ZUcGx3R2lUbDlmQVhiZFUwVVVqWVVpUEZ5TEszVmxNa3YxS1lUd0FCVWR2NlFlc19DR2tibF9DZ19LQWczc3lxeGlIR1hQRUlyeFRUUTExTC00ZXFpelVoeUxEeDVVMGluTFE4bnY2V3FqTWx0RkhDZmxaQnA5Y0VjRjlDaXB6UV9OWllCTDBkZjBlS1g2YjdET3M?oc=5)
+
+---
+
+### [La obesidad abdominal y la falta de vitamina D multiplican el riesgo de muerte después de los 50](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3drTm1PQ1QwazhIQjdsVFBSWEZVeGxZMW5NNUR6Y1o0QXExcFYzaHBHeDRPcUFhODVnd0pnYjdmbWdFS1RMN2J6eGFydUVEdE13ZTZ2NEdjNi1HVFJCUEQxRUVNTzZraUlyUk1Dcl9FNWc2RHh4bjNaWTVhT3RaT2Zxc0dhQWQ5RFdSNUQ2b2V3X0lPMVVJZkpMQ0ZIcGFMQVJiZEdsb1NRX1l1dHZsVFJqZzZobjZVaGpleEdKMVMyNExxc25ib3ktY2lfQzltaEpseDVtTUZPVXBrX2fSAd4BQVVfeXFMTWJVYVFqWWNMcXZhbGZ2ZXJvaHRGSUlnQkdRb2JxOV9pSWgyUXRqakFWeU5IM3czMTdVZDkyUlozNEgtSHl1YWR2R2VrVEdtamlocHY5MXRLRGRuNXVhU1kyUUVOVE9PNUlTbGRkOURLUGZMRnFjVC16VFNQVDRRSW9sV0JwbDRYeUp0dzBUV1VzcElub1ZOdGVETElXaWltcTk0ZlR4b1JmbHV2NGF1OWNKNGxneEhsQ0FHZzBRQVhCajljZXUzV09lc2I1TDNUTy1FeU1GWlpKZ2RnOTNn?oc=5)
+
+2026-08-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[hablandoenplata.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3drTm1PQ1QwazhIQjdsVFBSWEZVeGxZMW5NNUR6Y1o0QXExcFYzaHBHeDRPcUFhODVnd0pnYjdmbWdFS1RMN2J6eGFydUVEdE13ZTZ2NEdjNi1HVFJCUEQxRUVNTzZraUlyUk1Dcl9FNWc2RHh4bjNaWTVhT3RaT2Zxc0dhQWQ5RFdSNUQ2b2V3X0lPMVVJZkpMQ0ZIcGFMQVJiZEdsb1NRX1l1dHZsVFJqZzZobjZVaGpleEdKMVMyNExxc25ib3ktY2lfQzltaEpseDVtTUZPVXBrX2fSAd4BQVVfeXFMTWJVYVFqWWNMcXZhbGZ2ZXJvaHRGSUlnQkdRb2JxOV9pSWgyUXRqakFWeU5IM3czMTdVZDkyUlozNEgtSHl1YWR2R2VrVEdtamlocHY5MXRLRGRuNXVhU1kyUUVOVE9PNUlTbGRkOURLUGZMRnFjVC16VFNQVDRRSW9sV0JwbDRYeUp0dzBUV1VzcElub1ZOdGVETElXaWltcTk0ZlR4b1JmbHV2NGF1OWNKNGxneEhsQ0FHZzBRQVhCajljZXUzV09lc2I1TDNUTy1FeU1GWlpKZ2RnOTNn?oc=5)
+
+---
+
+### [Belly fat combined with common vitamin deficiency DOUBLES your risk of death in the next decade - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ242c2VGNnV2bU9ld3otX2tQLWdjOGN1VkRNR094eS10UEU4a1pBTmlDVE9VejNhcjRtaEZGOTgyZWFQampoWmtCaUZwV0dsTlZhVlJUTlRjeC1oSV8yd253SHhEZmdab1RvM2QweW1XLUR6RjVTYktiLVYwY3E3RXhaRHRfVktsSGR4MTd6Nm1vOFhDREE?oc=5)
+
+2026-08-14 <span class="news-indication-tag">obesity</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ242c2VGNnV2bU9ld3otX2tQLWdjOGN1VkRNR094eS10UEU4a1pBTmlDVE9VejNhcjRtaEZGOTgyZWFQampoWmtCaUZwV0dsTlZhVlJUTlRjeC1oSV8yd253SHhEZmdab1RvM2QweW1XLUR6RjVTYktiLVYwY3E3RXhaRHRfVktsSGR4MTd6Nm1vOFhDREE?oc=5)
+
+---
+
+### [Fumo e obesità invecchiano il corpo: più anziani di quattro anni, accelerano l'orologio biologico](https://news.google.com/rss/articles/CBMilwJBVV95cUxQWUs2QVgta1gwQm9CMlB1bUdaLS1HUlJDX2hMVW9oVFlWQ1NFZWVNRVdoMFdpSEZqb09ONGlWVDdmYVB1MXgxLUc4TWtGUWVvbHdvZVNYd0lGRFM0ME5ZcXdSQVNKWXF6UE83MV9kSFZuSUpydmdyb0ptSUFxamFicFBnS1N4RkxSNS12aC15WXdzZElMalNFdV9qSWxFZ2FKSnFTMEM1YXRSSnBfY2xSZ2RnSTkxWU92ZDZPV0dwcWVBaXhobmtMNEJqWXlFQWkzT2hFQUVhR0JrcEQtYXlUQlp4UnQwSnBpWTJWcDRNZVVLcVRBS2JhZWhYQkZOOVB5cjZEQ2o5LU1hTjZjZ0xvaE9FUkdCNXPSAZwCQVVfeXFMTXdvSG93UDE3M1pPWTMycGR4QjEzQWxiTnNSbjYxY1psNVA2OHF3eXZVajl4ZmdBWlQwTmJOTENKNE9uQmdmVVBFX1lWbF9wZmxZUno5ZWI0NkIzeVNKQXl6Qy1KQXNLTkZndlk5VzB4eV82YUNLUy14R0hfOUtxRElDRE9PdGdVQkdJLXJFTjRSZkpRbDhDcWtBaHRjX0JGTnBNQnJBVlZYUktDbnRUU2dodGhuMkY2YjNOWEZpNmwtWmdBWldwX29rNnNyZ2tpYXlsVW44Znl5ZUU3bWFWbjdlUWNiQzhlMWp5R2tpaWZiemRIVTRpdWxYcll3R0VOUVZtOHVGTDBBNExoVnlCNWFLYU9Gd3Y5M2FtZWs?oc=5)
+
+2026-08-14 <span class="news-indication-tag">obesità</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMilwJBVV95cUxQWUs2QVgta1gwQm9CMlB1bUdaLS1HUlJDX2hMVW9oVFlWQ1NFZWVNRVdoMFdpSEZqb09ONGlWVDdmYVB1MXgxLUc4TWtGUWVvbHdvZVNYd0lGRFM0ME5ZcXdSQVNKWXF6UE83MV9kSFZuSUpydmdyb0ptSUFxamFicFBnS1N4RkxSNS12aC15WXdzZElMalNFdV9qSWxFZ2FKSnFTMEM1YXRSSnBfY2xSZ2RnSTkxWU92ZDZPV0dwcWVBaXhobmtMNEJqWXlFQWkzT2hFQUVhR0JrcEQtYXlUQlp4UnQwSnBpWTJWcDRNZVVLcVRBS2JhZWhYQkZOOVB5cjZEQ2o5LU1hTjZjZ0xvaE9FUkdCNXPSAZwCQVVfeXFMTXdvSG93UDE3M1pPWTMycGR4QjEzQWxiTnNSbjYxY1psNVA2OHF3eXZVajl4ZmdBWlQwTmJOTENKNE9uQmdmVVBFX1lWbF9wZmxZUno5ZWI0NkIzeVNKQXl6Qy1KQXNLTkZndlk5VzB4eV82YUNLUy14R0hfOUtxRElDRE9PdGdVQkdJLXJFTjRSZkpRbDhDcWtBaHRjX0JGTnBNQnJBVlZYUktDbnRUU2dodGhuMkY2YjNOWEZpNmwtWmdBWldwX29rNnNyZ2tpYXlsVW44Znl5ZUU3bWFWbjdlUWNiQzhlMWp5R2tpaWZiemRIVTRpdWxYcll3R0VOUVZtOHVGTDBBNExoVnlCNWFLYU9Gd3Y5M2FtZWs?oc=5)
+
+---
+
+### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
+
+2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
+
+---
+
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/perampanel/
 <li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
 <li>partial motor epilepsy（99.4%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
-<li>epilepsy（99.0%）</li>
+<li class="indication-matched">epilepsy（99.0%）<span class="indication-tag">📰 épilepsie</span></li>
 <li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
 <li>trigeminal nerve neoplasm（98.7%）</li>
 <li>trigeminal neuralgia（97.2%）</li>
@@ -52,9 +52,15 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Une procédure chirurgicale réalisée pour la première fois au CHU de Montpellier : une méthode innovante pour traiter les crises d’épilepsie](https://news.google.com/rss/articles/CBMikwJBVV95cUxNMUxQQXJ6TUZla0pSWkRtYTVVNUpVX0VYczkwU1JPQnpIR3pWV29hbjRScUFTWnllN3VZT3BJY0QzUVJrQ2JaSVJhZHpBNDZVQkNlNmc5enRqd3RVeW5vYUEzU0VUSnktTE9FOWtPM25aZ1ZkbEpicy1QelQ0ck0wbFlyV3Zoc3dZLVpoWFpXdTRUUUFCel93WGxhUXJodEJVa21IbWNJekxDN3dnVnhCMEwwd3A1cmZjTzluTk15V1AtMFd0VERsd2ViSmhLQnAtOURaMWhQakxQQURKTDBnQ0RBYTVwYnRCTEhHNjhIcVJ2UTZib2kyaUI3TUhuUU1uU3BpNWRxNkF3RHF0OWdTcHpCcw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">épilepsie</span>
+
+來源：[midilibre.fr](https://news.google.com/rss/articles/CBMikwJBVV95cUxNMUxQQXJ6TUZla0pSWkRtYTVVNUpVX0VYczkwU1JPQnpIR3pWV29hbjRScUFTWnllN3VZT3BJY0QzUVJrQ2JaSVJhZHpBNDZVQkNlNmc5enRqd3RVeW5vYUEzU0VUSnktTE9FOWtPM25aZ1ZkbEpicy1QelQ0ck0wbFlyV3Zoc3dZLVpoWFpXdTRUUUFCel93WGxhUXJodEJVa21IbWNJekxDN3dnVnhCMEwwd3A1cmZjTzluTk15V1AtMFd0VERsd2ViSmhLQnAtOURaMWhQakxQQURKTDBnQ0RBYTVwYnRCTEhHNjhIcVJ2UTZib2kyaUI3TUhuUU1uU3BpNWRxNkF3RHF0OWdTcHpCcw?oc=5)
+
+---
 
 
 <div class="disclaimer">
