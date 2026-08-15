@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（12 則）
 
 ### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
 
-2026-08-14 <span class="news-indication-tag">MS</span>
+2026-08-15 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
 
@@ -94,14 +94,6 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
-
-2026-08-14 <span class="news-indication-tag">maladie d'Alzheimer</span> <span class="news-indication-tag">MS</span>
-
-來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
-
----
-
 ### [Millions of women could be missing signs to prevent diabetes - don't ignore these hidden symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
 
 2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -126,11 +118,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [How to keep babies and children safe in heatwaves - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGxHSEk4dlYxc1AxWVRVYXg5R2VkXzY4dzBPZmlkcEpWR01xV0dyWXYxY1RhWUVxZm5udVpJNkhlcEoxUmFRZEpvcXZQRXFjajQzc2pmZWdrMWxIeUFORG5EY0xxX0pxdXlXaTlDYVdpOF8tQzVtQU0tR1RkX0tfenVtYWtVREVBWXR6S0k3VGppb2hwenpMU29LeG14TGo5UFp3?oc=5)
+
+2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGxHSEk4dlYxc1AxWVRVYXg5R2VkXzY4dzBPZmlkcEpWR01xV0dyWXYxY1RhWUVxZm5udVpJNkhlcEoxUmFRZEpvcXZQRXFjajQzc2pmZWdrMWxIeUFORG5EY0xxX0pxdXlXaTlDYVdpOF8tQzVtQU0tR1RkX0tfenVtYWtVREVBWXR6S0k3VGppb2hwenpMU29LeG14TGo5UFp3?oc=5)
+
+---
+
 ### [Brustkrebs: Dieser Pflanzenstoff zeigt starke krebshemmende Wirkung](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 2026-08-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 ---
 
@@ -142,27 +142,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [The internet's favorite yoga instructor just shared a 10-minute routine for tight hamstrings and it provided immediate relief for my sore legs](https://news.google.com/rss/articles/CBMikAJBVV95cUxNaHV5SHd4b3lRS3N1RGlDV3NacnVqZ0x4QzdPLWtWVE9fZzZwSGN2bjRLUk00RUFtcmI4OFJiU3NuTEl5WS1WQnQ5eGZzUlZWa1RHbzgxNXNLclhRVjh4WnBEZWpRb2F6d3I2b09xNGJVT2tUenhqUXFieWpwVFBGQ1FuNGZHSkVNbHdycnIzN0NxOWVBc1lQWG9fcVJVWlhTV1V6MTdxUkJYMlVsNjhVRkJHb3ZuRGxuYlltRnFsU3prbUJ2Vi1nQkdiU3FHdTFKR2M4NDUtYWFwTVJlaWNfck1tdjlQWmVHZ1R0U2JCTkU3eGcxZ0NNX1NJREx6UVZ6LS1BOTJycE1LTmFxaGFxcg?oc=5)
+### [La prescription sociale, un outil pour améliorer la santé et le bien-être des patients : « J’ai l’impression d’avoir moins de douleurs que quand je me sens seule » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
 
-2026-08-13 <span class="news-indication-tag">MS</span>
+2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Fit&Well](https://news.google.com/rss/articles/CBMikAJBVV95cUxNaHV5SHd4b3lRS3N1RGlDV3NacnVqZ0x4QzdPLWtWVE9fZzZwSGN2bjRLUk00RUFtcmI4OFJiU3NuTEl5WS1WQnQ5eGZzUlZWa1RHbzgxNXNLclhRVjh4WnBEZWpRb2F6d3I2b09xNGJVT2tUenhqUXFieWpwVFBGQ1FuNGZHSkVNbHdycnIzN0NxOWVBc1lQWG9fcVJVWlhTV1V6MTdxUkJYMlVsNjhVRkJHb3ZuRGxuYlltRnFsU3prbUJ2Vi1nQkdiU3FHdTFKR2M4NDUtYWFwTVJlaWNfck1tdjlQWmVHZ1R0U2JCTkU3eGcxZ0NNX1NJREx6UVZ6LS1BOTJycE1LTmFxaGFxcg?oc=5)
-
----
-
-### [Midwife urges parents against 'nappy only' sleep in heatwave - 'it's a mistake'](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHE0eUVqZ0JtYW1zbGVQcjRQYzlPOXRSbUtKWHZoODhOZjAzX3BkQ0JqY2s1ZTVkekd1T3JIMGJwOEtrQm9qSzhTSGdPTWFvalJ3X2RsbkRPMTFqdXdoLTBvOG9mcjJzUmZOR0J2a1dpTXhkU3JXZ2ZMMFgwMjZZUFp1VnF5TTRB?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHE0eUVqZ0JtYW1zbGVQcjRQYzlPOXRSbUtKWHZoODhOZjAzX3BkQ0JqY2s1ZTVkekd1T3JIMGJwOEtrQm9qSzhTSGdPTWFvalJ3X2RsbkRPMTFqdXdoLTBvOG9mcjJzUmZOR0J2a1dpTXhkU3JXZ2ZMMFgwMjZZUFp1VnF5TTRB?oc=5)
-
----
-
-### [Le migliori app per allenare il cervello e dire addio al doomscrolling](https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3h5c2Q2QWV1bVdTUXFDcks0aUxqS3RnNzBUTG5fMFlFUXJIY2FrS1dRUmtDcTBmV1d6Tml0ZVJiYTZXekpERWt4VU5TSHBsVzNWTVVhRmtrbVNoOTBCUmRmSW5JRW1tYm5QRWNMMGJuX01PYWtQYXJ0YzFmUXZ3dXdCZDhEakpmSklQSVZHaURNWFE?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[Grazia](https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3h5c2Q2QWV1bVdTUXFDcks0aUxqS3RnNzBUTG5fMFlFUXJIY2FrS1dRUmtDcTBmV1d6Tml0ZVJiYTZXekpERWt4VU5TSHBsVzNWTVVhRmtrbVNoOTBCUmRmSW5JRW1tYm5QRWNMMGJuX01PYWtQYXJ0YzFmUXZ3dXdCZDhEakpmSklQSVZHaURNWFE?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
 
 ---
 

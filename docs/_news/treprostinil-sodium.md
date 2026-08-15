@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Menopause-Support im BGM: Unternehmen reagieren auf Frauengesundheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+
+2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2VIdG8ybjg1WWpIN3JWcmdwenNTeWR5TjBNTGdfT3ZsSXlFMTUtZzUtZ19hNkROamF1RTd0Tlp1QlFGRzAzWjA3YjZlOUJQb1dBX0JtalpfbGtEelpJem10bk1VRXl3aGlHbWFKZ0NvZ29aSG1FbmJ2bkdGenE2RS1XaUQteS1LeW9nNmRqNHBKUXVCd2JmeE93N3p3Mnl6MmNIYnZoUEx3QjRrX2pMSXVRN0g?oc=5)
+
+---
 
 ### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 

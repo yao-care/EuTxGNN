@@ -56,17 +56,49 @@ permalink: /news/loxapine/
 
 ### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
 
-2026-08-14 <span class="news-indication-tag">MS</span>
+2026-08-15 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
 
 ---
 
-### [Preocupa a CDC de África creciente brote de ébola que deja más de 2.000 muertos en RD del Congo - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdnVfb2tFY3pVM25IcWVUYUwwWmY3bFd4M2NVQWR1Tl9ybFk4TFYzSUpNeHFFZ01BeEQ1UVBSYTZLb0tFRTgwQmROTS04STdXdDZCTDluOUNLNmlGbUJOUVVRTjhKMFY0ZXdZeTVpQ0dRNTlsUUV1Y1AwV25VWXFIdzkybw?oc=5)
+### [Blood Thinner May Slow Cognitive Decline in Alzheimer’s Patients With AFib](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWFBR3p5bF9FVFpjMnQzaTU1aGlyVmE1emlmV0RPem4xSTNpdnU0cmJVUnVHOER5WlJ2b1B1bGp2bEExY3JBVDF1UExRc3lCN3FXR2FKendRbnhFNzRJLV9uNFVZWjJDeHdON3B1LUw1dGhFYzhROC1Ob2hFZUFpZ0lEX2d3VkR3bXh2di1LSk4zbzZFcTJuZTQ2T1QtNzB6bGdmcA?oc=5)
+
+2026-08-14 <span class="news-indication-tag">atrial fibrillation</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWFBR3p5bF9FVFpjMnQzaTU1aGlyVmE1emlmV0RPem4xSTNpdnU0cmJVUnVHOER5WlJ2b1B1bGp2bEExY3JBVDF1UExRc3lCN3FXR2FKendRbnhFNzRJLV9uNFVZWjJDeHdON3B1LUw1dGhFYzhROC1Ob2hFZUFpZ0lEX2d3VkR3bXh2di1LSk4zbzZFcTJuZTQ2T1QtNzB6bGdmcA?oc=5)
+
+---
+
+### [Hirn-„Autopsien“: Estrogen-Only in der Menopause senkt offenbar Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGtuWm9TVVZvNEQ0TFh0dmlCcDUyMWJzMmtON1A0X250dzVzZ1RSOU1UVzRVbW8zbmZzYnM2d0Rla016OTlBSXI0MWw5WUw5VWNscEJ1NUd2UXRpUUpmLWR3VmZsNk9PaUFwQW50NUZsckt2dW0yaU9HcHFIUTgtYVFLLUpidkU4NDVjWEFXTUZjQjBIZFpYdDJIWU5Vdkt6THk3cEF1VUh4cnBrMGc?oc=5)
 
 2026-08-14 <span class="news-indication-tag">AF</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdnVfb2tFY3pVM25IcWVUYUwwWmY3bFd4M2NVQWR1Tl9ybFk4TFYzSUpNeHFFZ01BeEQ1UVBSYTZLb0tFRTgwQmROTS04STdXdDZCTDluOUNLNmlGbUJOUVVRTjhKMFY0ZXdZeTVpQ0dRNTlsUUV1Y1AwV25VWXFIdzkybw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGtuWm9TVVZvNEQ0TFh0dmlCcDUyMWJzMmtON1A0X250dzVzZ1RSOU1UVzRVbW8zbmZzYnM2d0Rla016OTlBSXI0MWw5WUw5VWNscEJ1NUd2UXRpUUpmLWR3VmZsNk9PaUFwQW50NUZsckt2dW0yaU9HcHFIUTgtYVFLLUpidkU4NDVjWEFXTUZjQjBIZFpYdDJIWU5Vdkt6THk3cEF1VUh4cnBrMGc?oc=5)
+
+---
+
+### [Este podría ser el vínculo que hemos buscado entre las bacterias del intestino y el Alzheimer](https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlRkWVlyMHVOaVNVN2NLVFRROUoxSHdEYVN1ckRucFBpYURPNG1icHluSm84ZS0xYk5rWks1TU5oTUc0ZEUzYzNQYlFoSkVRY0NUb1lyX0w2dmkwX285eXhBaGlpQ2NYTEJOX0pZdWFEci1XZ1ZlMUpybk0wT1ZadkRsY3Y2TmROM3ltMkZJY0s?oc=5)
+
+2026-08-14 <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlRkWVlyMHVOaVNVN2NLVFRROUoxSHdEYVN1ckRucFBpYURPNG1icHluSm84ZS0xYk5rWks1TU5oTUc0ZEUzYzNQYlFoSkVRY0NUb1lyX0w2dmkwX285eXhBaGlpQ2NYTEJOX0pZdWFEci1XZ1ZlMUpybk0wT1ZadkRsY3Y2TmROM3ltMkZJY0s?oc=5)
+
+---
+
+### [El ébola alcanza ya seis provincias de RDC: más de 4.600 casos y casi 2.200 fallecidos - Redacción médica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMWpHQjZ5dGV3bThkdnBGNnBsSDFqSVNVR1hudUNCMlRMTllEd2V4aG1HOUJYMFdVV1V4YkNqR0lxV0RjbFdGNFdPOVk4TjJtR0dpUmdIMjhEMGgyTG9QNUFoWnhVWlN6RzEtVG9lX3VGZ0c1czNwWlpqWmxtZnhRVll5WjFSTXFiRkJjaDBDc2Q0Y2FiMjBqRm01YzFIZU5YQ3c3ZXFvZHpuTDQ1OV8wbTBTRXJ2S1lydDlIbjdEMGhrZW1lUjE3eGhJM3N6MUdnYmZnTzVIVUJfRDBiTjUw0gHkAUFVX3lxTFBySVBkOWxjZllaNnp3VWpkS1g5b1Vtd1lnb2JrdWx2c3JyXzFSQjFxZmFOc0d5Smhpbl95QzBKdzFUaEFlc1JVUUVTY2FwR1ZNc0N4QUItMkRIRE9sTGhiRkJlX2JGOXZfY21jLTRBRk1jMTJfMld4ZGVDV2J2V1lEN0dVZjBHWWhFVUtNREY3by1ValBRQllQZUpDTG96RHdhdU9KRjNoT1ItVENOaXF0d0RFSFl6cDJyTzI5QmxaV3NvWUxYNWlkMUtPVE82VEpaYmdoZzIyQ1Q2VlFiOG1rUUgxYg?oc=5)
+
+2026-08-14 <span class="news-indication-tag">AF</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMWpHQjZ5dGV3bThkdnBGNnBsSDFqSVNVR1hudUNCMlRMTllEd2V4aG1HOUJYMFdVV1V4YkNqR0lxV0RjbFdGNFdPOVk4TjJtR0dpUmdIMjhEMGgyTG9QNUFoWnhVWlN6RzEtVG9lX3VGZ0c1czNwWlpqWmxtZnhRVll5WjFSTXFiRkJjaDBDc2Q0Y2FiMjBqRm01YzFIZU5YQ3c3ZXFvZHpuTDQ1OV8wbTBTRXJ2S1lydDlIbjdEMGhrZW1lUjE3eGhJM3N6MUdnYmZnTzVIVUJfRDBiTjUw0gHkAUFVX3lxTFBySVBkOWxjZllaNnp3VWpkS1g5b1Vtd1lnb2JrdWx2c3JyXzFSQjFxZmFOc0d5Smhpbl95QzBKdzFUaEFlc1JVUUVTY2FwR1ZNc0N4QUItMkRIRE9sTGhiRkJlX2JGOXZfY21jLTRBRk1jMTJfMld4ZGVDV2J2V1lEN0dVZjBHWWhFVUtNREY3by1ValBRQllQZUpDTG96RHdhdU9KRjNoT1ItVENOaXF0d0RFSFl6cDJyTzI5QmxaV3NvWUxYNWlkMUtPVE82VEpaYmdoZzIyQ1Q2VlFiOG1rUUgxYg?oc=5)
+
+---
+
+### [‘You’re not alone’: woman keen to raise awareness after adenomyosis diagnosis - Shetland News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DREJjQk05a1RHZVZyeHJjandEMDJRaEphTnRwbmVtUHd6N1h6TUZJZXVNWWtOMHB6dnNZaTlkNHF6TngycG11Y1Y5aGt5Y1hva0FwTkhBaS1WbzlrYi0tNkVVYTFFcWgwN3hZUk5CNGNpdTl4ZFE?oc=5)
+
+2026-08-14 <span class="news-indication-tag">AF</span>
+
+來源：[Shetland News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DREJjQk05a1RHZVZyeHJjandEMDJRaEphTnRwbmVtUHd6N1h6TUZJZXVNWWtOMHB6dnNZaTlkNHF6TngycG11Y1Y5aGt5Y1hva0FwTkhBaS1WbzlrYi0tNkVVYTFFcWgwN3hZUk5CNGNpdTl4ZFE?oc=5)
 
 ---
 
@@ -78,19 +110,19 @@ permalink: /news/loxapine/
 
 ---
 
+### [Dad died after GP misdiagnosed severe headache as sinus infection, says coroner - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHFJMjhaVF9iN0lmRlNOR3I0N3FzZ1pUMlZITENRUXpCcmNXS1hkNEliQjdBem9CRzFwN3hkYjJ3enlTaGJTN2NLN2FRRWU0UE1IZUhvWGZ3cnUzSm5iU25wY0NGcDlpMGFRX0dEc202Y19vMHlkcjhMaXFEQ012MHJ3dFAtcDR0bE05YVZMZGVDUFBJbHNkY1AtZzFXaFBYMnE5VW9R?oc=5)
+
+2026-08-14 <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHFJMjhaVF9iN0lmRlNOR3I0N3FzZ1pUMlZITENRUXpCcmNXS1hkNEliQjdBem9CRzFwN3hkYjJ3enlTaGJTN2NLN2FRRWU0UE1IZUhvWGZ3cnUzSm5iU25wY0NGcDlpMGFRX0dEc202Y19vMHlkcjhMaXFEQ012MHJ3dFAtcDR0bE05YVZMZGVDUFBJbHNkY1AtZzFXaFBYMnE5VW9R?oc=5)
+
+---
+
 ### [Estudio identifica la proteína MAFG como clave en progresión del melanoma - La Web de la Salud](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU5UZHlqdTQ2dlZqX29fdFppY2dVbzhPcVZ4M2F2MDJxWDgxNVVFV0pFaFRydzhfTFNXal9IY3ZpSXNoSDdXTWF1bGd3dTdoZC1FcFVyVGdWMXM0a1BCMW5XUHJSVU1qVWFNU25RR0dzVjRhVldGMVRiVF9MZ3R5SXNUY25ySV9kbG5XQ0JsNGRKdFd5dDNwbWt1MXY3bnNobEFn?oc=5)
 
 2026-08-14 <span class="news-indication-tag">AF</span>
 
 來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU5UZHlqdTQ2dlZqX29fdFppY2dVbzhPcVZ4M2F2MDJxWDgxNVVFV0pFaFRydzhfTFNXal9IY3ZpSXNoSDdXTWF1bGd3dTdoZC1FcFVyVGdWMXM0a1BCMW5XUHJSVU1qVWFNU25RR0dzVjRhVldGMVRiVF9MZ3R5SXNUY25ySV9kbG5XQ0JsNGRKdFd5dDNwbWt1MXY3bnNobEFn?oc=5)
-
----
-
-### [Caso di Dengue a Livorno dopo un viaggio nell'Africa centrale, via alla disinfestazione](https://news.google.com/rss/articles/CBMijwFBVV95cUxNaWl6RjQ2WVJhazRuMlczR08xSnZQb1pxSk9EeURsQ01vdzVzTEFVWXBFRXBtZ3BHWUk3TUlZRTg5djVxZVdDajg5ekVvX293UldRWlI1bko3QUw4bkVxdkx3RWVwTjdZdnc1d3RHWnV0clplb0x5QUtfZEp2X04tNzctSDZ2MnVfZ2luaDBjTQ?oc=5)
-
-2026-08-14 <span class="news-indication-tag">AF</span>
-
-來源：[LivornoToday](https://news.google.com/rss/articles/CBMijwFBVV95cUxNaWl6RjQ2WVJhazRuMlczR08xSnZQb1pxSk9EeURsQ01vdzVzTEFVWXBFRXBtZ3BHWUk3TUlZRTg5djVxZVdDajg5ekVvX293UldRWlI1bko3QUw4bkVxdkx3RWVwTjdZdnc1d3RHWnV0clplb0x5QUtfZEp2X04tNzctSDZ2MnVfZ2luaDBjTQ?oc=5)
 
 ---
 
@@ -174,11 +206,19 @@ permalink: /news/loxapine/
 
 ---
 
+### [Quanta acqua bere quando c'è afa e fa tanto caldo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVlWblZKd1lPc09DNjVuX3RocjhfY1ZaOVhCY3FrRXUzcW4zLUVSVGQ0YmNjcFNDV0ZZX25JRW9iekhSdEpPMUk5empXVkwxVU5WanZ3VC11LTRZZTVHYllTay1IY1hOZE9CR0x6Nk5iUHMweXdfaUpMRkxvcm9HRERYbWJPMFMtNC13OVNrX3RlVTlwc2dOWWNCdkpUU2cwQlg5ZVlaMkI?oc=5)
+
+2026-08-14 <span class="news-indication-tag">AF</span>
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVlWblZKd1lPc09DNjVuX3RocjhfY1ZaOVhCY3FrRXUzcW4zLUVSVGQ0YmNjcFNDV0ZZX25JRW9iekhSdEpPMUk5empXVkwxVU5WanZ3VC11LTRZZTVHYllTay1IY1hOZE9CR0x6Nk5iUHMweXdfaUpMRkxvcm9HRERYbWJPMFMtNC13OVNrX3RlVTlwc2dOWWNCdkpUU2cwQlg5ZVlaMkI?oc=5)
+
+---
+
 ### [Dans les publications médicales dormait depuis 1982 un signalement sur le valproate que les boîtes françaises ont mis 33 ans à afficher](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeWk2aGpCMHVGbFY2WTlzRUJqbUtnVERPLWFTdHlFX0RYMEZsdHdBTXY3aWVZVTZBaDh6SWI5RFRPXzhMR05ySFRUcGRabWR1TXpJcTBETE5lUGJrWWdIaTF2NXhEZWFUZVFMOFhUU2dNaDJFdTUwbHQwT195Nk5MOHh4Q0lFODdSTEFsUmlDYXhOdXdRTElidWw2aFdITnh2LUNPaXJHS0ZEUHBOdDNMRFVoZ3NRMmktMFctR0FBV2VnRGdtcU5jUjZ4cE9YdDFMejdGYTNadjNfMm9za2tUS2t1bkptUW5LN1dIUU9oRnI?oc=5)
 
 2026-08-14 <span class="news-indication-tag">AF</span>
 
-來源：[sciencepost.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeWk2aGpCMHVGbFY2WTlzRUJqbUtnVERPLWFTdHlFX0RYMEZsdHdBTXY3aWVZVTZBaDh6SWI5RFRPXzhMR05ySFRUcGRabWR1TXpJcTBETE5lUGJrWWdIaTF2NXhEZWFUZVFMOFhUU2dNaDJFdTUwbHQwT195Nk5MOHh4Q0lFODdSTEFsUmlDYXhOdXdRTElidWw2aFdITnh2LUNPaXJHS0ZEUHBOdDNMRFVoZ3NRMmktMFctR0FBV2VnRGdtcU5jUjZ4cE9YdDFMejdGYTNadjNfMm9za2tUS2t1bkptUW5LN1dIUU9oRnI?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeWk2aGpCMHVGbFY2WTlzRUJqbUtnVERPLWFTdHlFX0RYMEZsdHdBTXY3aWVZVTZBaDh6SWI5RFRPXzhMR05ySFRUcGRabWR1TXpJcTBETE5lUGJrWWdIaTF2NXhEZWFUZVFMOFhUU2dNaDJFdTUwbHQwT195Nk5MOHh4Q0lFODdSTEFsUmlDYXhOdXdRTElidWw2aFdITnh2LUNPaXJHS0ZEUHBOdDNMRFVoZ3NRMmktMFctR0FBV2VnRGdtcU5jUjZ4cE9YdDFMejdGYTNadjNfMm9za2tUS2t1bkptUW5LN1dIUU9oRnI?oc=5)
 
 ---
 
@@ -190,19 +230,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
-
-2026-08-14 <span class="news-indication-tag">maladie d'Alzheimer</span> <span class="news-indication-tag">MS</span>
-
-來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNSU25oc3oxTjJvcm8xR3l3MWlEUHhRS1BmeDUxdFh1UDVTZWxnbGxqX3B1a2M2VVZneFhtY3hBZ3Y2SkgxanJJRWh0TWJIenNCZm55ZlVNamIzb0thWjlVVjNFUjlqZUFYOVJPWkdqNEJQdTBJQmtBbU1OcjRKNGt3RmpnR0RsMFJVWXlyei1abGJ1dHAzVFNHaVBpNnhsdzdWOXltbjZDR1FfNDlwcWlOLVFnQVdVQmpPWk1PWkxIMGFaeVB4VGtCbjBkeGpVVWRhNFZzMGozQzhicU9fYmhJd0NMNGhuY0Fn?oc=5)
-
----
-
 ### [Pillola del sesso, l'alert da maxi-studio: "Possibile aumento rischio glaucoma"](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWkVkUGN4eGhBMENQTnQteG44NUJZS0UzNjAyQzZ5dWRHR2R6TXRFbDRPLS12c0p2dFhHNURnZWtuZlRLdmZFWVNybGRHdzhWWG96MlhhSHd0dGdKc3Rad210TDI2MkxZVlBGOFRaNUFIaUNiOFI1eVZzbDFsQ2tNM0dRdGQwQkVhajA2UC1nS21tYU54Y21fdmZ3NUYyc2JOaTNZUnZOLWNwSkd5VThIeU1TR25hRWFLdmd5Tm5FTnplbjFvdTMtdTdIZTM3NExDLTFhS0JaZnF5NXhTZmd0Vm1qWXpkbTJoTmRJQmRRcHlyZEF1bVHSAfsBQVVfeXFMT1poME5vYjdReUY3VjBTV19DV2o0MGVxa3pkNmNneXJzcHdPZ0FhMF9mQlJGN3VBZ3hsUmk0Y0NrSkJaVUhHa21jWEJVMVh6MDVBbW9tMWxncXJLMHpUejZkcjFlY1pnZy1ITmJNWWUtZmNMelpSMWtOdnIxd1ktNFBzTV9jMUJWVFU5S29WWXZObzUzNVEwUkxIM3BIZTJrWWlNU0VTV1ZNRkxFazRXVVVSeldUQUhZbDZvOVFQMnNjcWFKZzNTOGVlLUcwOTFqSXpsOWlndWYxYW5MQWZtUklwbmZHdUhua2xMUUJoSzRZcjBQMWxmNG1ZXzg?oc=5)
 
 2026-08-14 <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">AF</span>
 
-來源：[rainews.it](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWkVkUGN4eGhBMENQTnQteG44NUJZS0UzNjAyQzZ5dWRHR2R6TXRFbDRPLS12c0p2dFhHNURnZWtuZlRLdmZFWVNybGRHdzhWWG96MlhhSHd0dGdKc3Rad210TDI2MkxZVlBGOFRaNUFIaUNiOFI1eVZzbDFsQ2tNM0dRdGQwQkVhajA2UC1nS21tYU54Y21fdmZ3NUYyc2JOaTNZUnZOLWNwSkd5VThIeU1TR25hRWFLdmd5Tm5FTnplbjFvdTMtdTdIZTM3NExDLTFhS0JaZnF5NXhTZmd0Vm1qWXpkbTJoTmRJQmRRcHlyZEF1bVHSAfsBQVVfeXFMT1poME5vYjdReUY3VjBTV19DV2o0MGVxa3pkNmNneXJzcHdPZ0FhMF9mQlJGN3VBZ3hsUmk0Y0NrSkJaVUhHa21jWEJVMVh6MDVBbW9tMWxncXJLMHpUejZkcjFlY1pnZy1ITmJNWWUtZmNMelpSMWtOdnIxd1ktNFBzTV9jMUJWVFU5S29WWXZObzUzNVEwUkxIM3BIZTJrWWlNU0VTV1ZNRkxFazRXVVVSeldUQUhZbDZvOVFQMnNjcWFKZzNTOGVlLUcwOTFqSXpsOWlndWYxYW5MQWZtUklwbmZHdUhua2xMUUJoSzRZcjBQMWxmNG1ZXzg?oc=5)
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWkVkUGN4eGhBMENQTnQteG44NUJZS0UzNjAyQzZ5dWRHR2R6TXRFbDRPLS12c0p2dFhHNURnZWtuZlRLdmZFWVNybGRHdzhWWG96MlhhSHd0dGdKc3Rad210TDI2MkxZVlBGOFRaNUFIaUNiOFI1eVZzbDFsQ2tNM0dRdGQwQkVhajA2UC1nS21tYU54Y21fdmZ3NUYyc2JOaTNZUnZOLWNwSkd5VThIeU1TR25hRWFLdmd5Tm5FTnplbjFvdTMtdTdIZTM3NExDLTFhS0JaZnF5NXhTZmd0Vm1qWXpkbTJoTmRJQmRRcHlyZEF1bVHSAfsBQVVfeXFMT1poME5vYjdReUY3VjBTV19DV2o0MGVxa3pkNmNneXJzcHdPZ0FhMF9mQlJGN3VBZ3hsUmk0Y0NrSkJaVUhHa21jWEJVMVh6MDVBbW9tMWxncXJLMHpUejZkcjFlY1pnZy1ITmJNWWUtZmNMelpSMWtOdnIxd1ktNFBzTV9jMUJWVFU5S29WWXZObzUzNVEwUkxIM3BIZTJrWWlNU0VTV1ZNRkxFazRXVVVSeldUQUhZbDZvOVFQMnNjcWFKZzNTOGVlLUcwOTFqSXpsOWlndWYxYW5MQWZtUklwbmZHdUhua2xMUUJoSzRZcjBQMWxmNG1ZXzg?oc=5)
 
 ---
 
@@ -227,6 +259,22 @@ permalink: /news/loxapine/
 2026-08-13 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObERXX3VDTzQ0RWlsQjhqQkdvZ1JldWZWcy1sWXFmaHpPQXp3UzlmaGJWTndQWFhuUGppYXoySm1jVmJYRUF4ZHRWMFVEMEJuWEZUWlJ1SmdVRnRWb2hRS2lUbkNDZUo0WXhwSjJaZmtHdmM3T0dIZEVWN3JqRDRpNkh6Z2xEQVhPRWxFblhZOWwzcm1qUS0wLUdWQ1RCZzYzTndWZUx6Q0YyOUU?oc=5)
+
+---
+
+### [Caldo e attacchi di panico, perché con l’afa l’ansia può aumentare: cosa succede al corpo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEk1Z2hSLXZlUFpHS2dUTmJnSk5EVF9lUm5JRlBYSGYzYm56Wm50NTQ4ZHV2SFNULVZxMWlrWV96S2otMllYMGdSOGVoNWU0THRkemZ2LWtLeWdKSkpDUVExZ0VGT0lSaXBfa1VSTUlIcGhORVA1VHkta3ZDU3phWXhIQmctNnNRQmRLMEd0OG9vTlV5aUE3V2NZbmx0R1RCVVpHR1FiNXBrdnFDOTNoNk1tdG9VdXRRcjZiVHJuVkVIZ3dUeThkRHZRdG5xSkNHYXc?oc=5)
+
+2026-08-13 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEk1Z2hSLXZlUFpHS2dUTmJnSk5EVF9lUm5JRlBYSGYzYm56Wm50NTQ4ZHV2SFNULVZxMWlrWV96S2otMllYMGdSOGVoNWU0THRkemZ2LWtLeWdKSkpDUVExZ0VGT0lSaXBfa1VSTUlIcGhORVA1VHkta3ZDU3phWXhIQmctNnNRQmRLMEd0OG9vTlV5aUE3V2NZbmx0R1RCVVpHR1FiNXBrdnFDOTNoNk1tdG9VdXRRcjZiVHJuVkVIZ3dUeThkRHZRdG5xSkNHYXc?oc=5)
+
+---
+
+### [Drei Minuten Sprint bringen mehr als 90 Minuten Radfahren](https://news.google.com/rss/articles/CBMiogFBVV95cUxNODJzXzBnUTRSank2U25mRG9DbW51MzNQSUlHTkk3eXlUVWloN1cta0t2ZldFeVU2OE9zT1Bma1FUcHVUWTU5LWhob1FHdDJFbVJ2S21LVTZKQmhmeEhRRjh2QmlhN3VxVGRqcUVONVB2TmtjNGppSXhhUV8tUXFfYjFTTUlrZXpKZWdxWlo2akxEU1BsY1p1amdoSTdMaGFVaEE?oc=5)
+
+2026-08-13 <span class="news-indication-tag">AF</span>
+
+來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiogFBVV95cUxNODJzXzBnUTRSank2U25mRG9DbW51MzNQSUlHTkk3eXlUVWloN1cta0t2ZldFeVU2OE9zT1Bma1FUcHVUWTU5LWhob1FHdDJFbVJ2S21LVTZKQmhmeEhRRjh2QmlhN3VxVGRqcUVONVB2TmtjNGppSXhhUV8tUXFfYjFTTUlrZXpKZWdxWlo2akxEU1BsY1p1amdoSTdMaGFVaEE?oc=5)
 
 ---
 
@@ -258,7 +306,7 @@ permalink: /news/loxapine/
 
 2026-08-13 <span class="news-indication-tag">AF</span>
 
-來源：[t3n](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFFucXhfVG1aNS1Nak1fU2x1MmVNMUN6b1g0b2pXQ3k5X0xGWHYySmFhWFlGR0h3N2lqU01NQ0VpeUJsWEVPWktmYWgzNmw2aDk2M1VqVk02RnhucWlpQWNzU2tUUUhjT0hJQ3FSVXRYLVR5ajVSQ3RhWlJxRy04b2Zvb2o2LW96eU4wN2FVTjh6VFMydXFsVnZrZnJsRmY5cnNQWDgtOS0tb0EwRTNUVHhzNA?oc=5)
+來源：[t3n.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFFucXhfVG1aNS1Nak1fU2x1MmVNMUN6b1g0b2pXQ3k5X0xGWHYySmFhWFlGR0h3N2lqU01NQ0VpeUJsWEVPWktmYWgzNmw2aDk2M1VqVk02RnhucWlpQWNzU2tUUUhjT0hJQ3FSVXRYLVR5ajVSQ3RhWlJxRy04b2Zvb2o2LW96eU4wN2FVTjh6VFMydXFsVnZrZnJsRmY5cnNQWDgtOS0tb0EwRTNUVHhzNA?oc=5)
 
 ---
 
@@ -278,6 +326,14 @@ permalink: /news/loxapine/
 
 ---
 
+### [How to keep babies and children safe in heatwaves - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGxHSEk4dlYxc1AxWVRVYXg5R2VkXzY4dzBPZmlkcEpWR01xV0dyWXYxY1RhWUVxZm5udVpJNkhlcEoxUmFRZEpvcXZQRXFjajQzc2pmZWdrMWxIeUFORG5EY0xxX0pxdXlXaTlDYVdpOF8tQzVtQU0tR1RkX0tfenVtYWtVREVBWXR6S0k3VGppb2hwenpMU29LeG14TGo5UFp3?oc=5)
+
+2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGxHSEk4dlYxc1AxWVRVYXg5R2VkXzY4dzBPZmlkcEpWR01xV0dyWXYxY1RhWUVxZm5udVpJNkhlcEoxUmFRZEpvcXZQRXFjajQzc2pmZWdrMWxIeUFORG5EY0xxX0pxdXlXaTlDYVdpOF8tQzVtQU0tR1RkX0tfenVtYWtVREVBWXR6S0k3VGppb2hwenpMU29LeG14TGo5UFp3?oc=5)
+
+---
+
 ### [‘Beautiful’ mum dies after birth when docs failed to do urine test – coroner warns ‘more women could die’ - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnRjd1Y5dGpGQmVMTWRjVlZFM0tOTF9LTU1Ia21uRDEwYzN0c0hhanZZZnZBeVIwMHljdzhpanBBbjhwUUF2ZVpqRGZwWFIwbXNJcjZrZUxDOVJDSGxTcTVXdkRsc2wyaS1TY09fYm8tR2tmRkJyWmxOREdackhlZF9BM1pEU1RkZzVDQ0s0cThKZw?oc=5)
 
 2026-08-13 <span class="news-indication-tag">AF</span>
@@ -290,7 +346,7 @@ permalink: /news/loxapine/
 
 2026-08-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWFhcno3Q1NDZzliZUdsckl4TTREaEdFWncwY0NJOGgwSDhwNzlSTDVzc21fMEVDZVZEMmRJYlhfSVNpcF85OWtSUUstcUxEaTNtVGlaMnZhNkoyNFFBU0ZwaGtkU19RcHQwOXZ2VVJXOC1oLTNjbThMMEJaTXp6LW9jZXZBNV8zWjM3VUFVbUpTLWhmNGtSSl96cHBoRTJ6Yk1kSW9SY0Npblg0Z25uY1dodGlPWnZhQ3RTVDZmNTFGQjNDSkE?oc=5)
 
 ---
 
@@ -318,14 +374,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [My dad died after GP misdiagnosed tummy pain and hiccups as ‘acid reflux’ - he didn’t want to make a fuss - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGdvdUtyNFhCb1U5ZS1vYS1VRnctUXFyQnVfNEhGX1BhVUxTZmNodV9VWXJzNDBHN2hTbEFpQlZWMThUWV94a1RnRTlKTHdaNGVUb0s1RVhDQ0pKcG95eG9uUk12QjhfLUljU0NIRnFUcjB3OXpkWkJITm52ZUpPVDE4YmJIZm9CSVlEVw?oc=5)
-
-2026-08-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGdvdUtyNFhCb1U5ZS1vYS1VRnctUXFyQnVfNEhGX1BhVUxTZmNodV9VWXJzNDBHN2hTbEFpQlZWMThUWV94a1RnRTlKTHdaNGVUb0s1RVhDQ0pKcG95eG9uUk12QjhfLUljU0NIRnFUcjB3OXpkWkJITm52ZUpPVDE4YmJIZm9CSVlEVw?oc=5)
-
----
-
 ### [Hafer, Soja oder Mandel: Ein Drink kommt Kuhmilch am nächsten](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOEkzZWFXMnpYWTV2SjVfdVprUGwxR3A5VVktdDE0b2dhSU9CV05VLWY5dWotbXlPdEhzRkV1MEFGRk52d01fcVF2QndCZlItUWZhUnVZWVFNVHFpcTZFUWhOWWptejIyRHZRY29VMVo3ZGk2T3VvUEg2bVVnRkhSaXp5UXlhbDNYbnlYNFA0S3ZCYm85YkRpZ3ByRGYxSkhwTF9Ya1diWWFab1NLc2lxYmRicWt4NURxOGpid3BrVGNIajItbF9Ib3RoY3FhVEU5Y1loVlJXRkdBZHkydUFF?oc=5)
 
 2026-08-13 <span class="news-indication-tag">AF</span>
@@ -334,59 +382,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [The internet's favorite yoga instructor just shared a 10-minute routine for tight hamstrings and it provided immediate relief for my sore legs](https://news.google.com/rss/articles/CBMikAJBVV95cUxNaHV5SHd4b3lRS3N1RGlDV3NacnVqZ0x4QzdPLWtWVE9fZzZwSGN2bjRLUk00RUFtcmI4OFJiU3NuTEl5WS1WQnQ5eGZzUlZWa1RHbzgxNXNLclhRVjh4WnBEZWpRb2F6d3I2b09xNGJVT2tUenhqUXFieWpwVFBGQ1FuNGZHSkVNbHdycnIzN0NxOWVBc1lQWG9fcVJVWlhTV1V6MTdxUkJYMlVsNjhVRkJHb3ZuRGxuYlltRnFsU3prbUJ2Vi1nQkdiU3FHdTFKR2M4NDUtYWFwTVJlaWNfck1tdjlQWmVHZ1R0U2JCTkU3eGcxZ0NNX1NJREx6UVZ6LS1BOTJycE1LTmFxaGFxcg?oc=5)
+### [La prescription sociale, un outil pour améliorer la santé et le bien-être des patients : « J’ai l’impression d’avoir moins de douleurs que quand je me sens seule » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
 
-2026-08-13 <span class="news-indication-tag">MS</span>
+2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Fit&Well](https://news.google.com/rss/articles/CBMikAJBVV95cUxNaHV5SHd4b3lRS3N1RGlDV3NacnVqZ0x4QzdPLWtWVE9fZzZwSGN2bjRLUk00RUFtcmI4OFJiU3NuTEl5WS1WQnQ5eGZzUlZWa1RHbzgxNXNLclhRVjh4WnBEZWpRb2F6d3I2b09xNGJVT2tUenhqUXFieWpwVFBGQ1FuNGZHSkVNbHdycnIzN0NxOWVBc1lQWG9fcVJVWlhTV1V6MTdxUkJYMlVsNjhVRkJHb3ZuRGxuYlltRnFsU3prbUJ2Vi1nQkdiU3FHdTFKR2M4NDUtYWFwTVJlaWNfck1tdjlQWmVHZ1R0U2JCTkU3eGcxZ0NNX1NJREx6UVZ6LS1BOTJycE1LTmFxaGFxcg?oc=5)
-
----
-
-### [Five surprising ways a heatwave affects your body - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSGFTd2hXeUhERktUZXRyLWNDaUszSldYYjdyRDZtOGtpZHhFSzh2cTJtYmtKRU8wOGtpTEJkYXJ6VzM1ZmkybG80U3hRVzBtLWVGTW9JVHhob0xFZlcxZFRBcjI2X0xyRXJMTEdXM3NpM09vOWgwMlZWWDFZZUd0WlduQllRX1hfa1RyVWFqUGdOVzl4cTZxTkI1UmtEWlV1Vjl5cW81cGZhdVMzLWktY19TcDk5Z0tL?oc=5)
-
-2026-08-13 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSGFTd2hXeUhERktUZXRyLWNDaUszSldYYjdyRDZtOGtpZHhFSzh2cTJtYmtKRU8wOGtpTEJkYXJ6VzM1ZmkybG80U3hRVzBtLWVGTW9JVHhob0xFZlcxZFRBcjI2X0xyRXJMTEdXM3NpM09vOWgwMlZWWDFZZUd0WlduQllRX1hfa1RyVWFqUGdOVzl4cTZxTkI1UmtEWlV1Vjl5cW81cGZhdVMzLWktY19TcDk5Z0tL?oc=5)
-
----
-
-### [Midwife urges parents against 'nappy only' sleep in heatwave - 'it's a mistake'](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHE0eUVqZ0JtYW1zbGVQcjRQYzlPOXRSbUtKWHZoODhOZjAzX3BkQ0JqY2s1ZTVkekd1T3JIMGJwOEtrQm9qSzhTSGdPTWFvalJ3X2RsbkRPMTFqdXdoLTBvOG9mcjJzUmZOR0J2a1dpTXhkU3JXZ2ZMMFgwMjZZUFp1VnF5TTRB?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHE0eUVqZ0JtYW1zbGVQcjRQYzlPOXRSbUtKWHZoODhOZjAzX3BkQ0JqY2s1ZTVkekd1T3JIMGJwOEtrQm9qSzhTSGdPTWFvalJ3X2RsbkRPMTFqdXdoLTBvOG9mcjJzUmZOR0J2a1dpTXhkU3JXZ2ZMMFgwMjZZUFp1VnF5TTRB?oc=5)
-
----
-
-### [Arriva Ferragosto: il pranzo ideale secondo l'Istituto Superiore di Sanità - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWGtlRDlaQlJENk1xNU9Dbm5jWExwRW94bUM2eF9kQ3hFWk1zZWtlUXZaend4YVluTHdOX2ZZZzQ0SFV3ZXU2SXJVMHZ1NXdTaGZxSU4yTjFETXM4cExESFFSZUFBUUhZaUVUaFhXbU5BQTUyc3pRQl8wZk1LV3RrZ1BnVmViaE9IdFlhNWx4bTM5bzhQNzR6dHZubTlPMGsxMThyc3ZNOUhacnJqV2JPSldtaTNZVmR5VE5GR3F5Ykt4ZTZEQ253VVRyU0NBajgtY0VfLUxnbnVyX0V5Ni1pR3Fwd9IBtwFBVV95cUxPNkJza3hqS05IRTBwLWZRRGxQSmE1X0EwN3Y1Ull4bzFtOVVBVVAyZ0ZuZlZ1NmtqSGVrVHUxOEE0a29iVm4zQzdzTzBCTXpqV2lENWx0SFNsSktpanBoeFV3YjhCOEFfdUNPYWwyeWdNNUdjaFpwbUpVREZ0VVlsZnFiUi1UQzRvTkx5VVJ3aWxCWmhWUDl3T0NoS3dvMmtBQ2kwWmVoSVVaZnZ5bFlaMG4xNWhIbFE?oc=5)
-
-2026-08-13 <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWGtlRDlaQlJENk1xNU9Dbm5jWExwRW94bUM2eF9kQ3hFWk1zZWtlUXZaend4YVluTHdOX2ZZZzQ0SFV3ZXU2SXJVMHZ1NXdTaGZxSU4yTjFETXM4cExESFFSZUFBUUhZaUVUaFhXbU5BQTUyc3pRQl8wZk1LV3RrZ1BnVmViaE9IdFlhNWx4bTM5bzhQNzR6dHZubTlPMGsxMThyc3ZNOUhacnJqV2JPSldtaTNZVmR5VE5GR3F5Ykt4ZTZEQ253VVRyU0NBajgtY0VfLUxnbnVyX0V5Ni1pR3Fwd9IBtwFBVV95cUxPNkJza3hqS05IRTBwLWZRRGxQSmE1X0EwN3Y1Ull4bzFtOVVBVVAyZ0ZuZlZ1NmtqSGVrVHUxOEE0a29iVm4zQzdzTzBCTXpqV2lENWx0SFNsSktpanBoeFV3YjhCOEFfdUNPYWwyeWdNNUdjaFpwbUpVREZ0VVlsZnFiUi1UQzRvTkx5VVJ3aWxCWmhWUDl3T0NoS3dvMmtBQ2kwWmVoSVVaZnZ5bFlaMG4xNWhIbFE?oc=5)
-
----
-
-### [Le migliori app per allenare il cervello e dire addio al doomscrolling](https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3h5c2Q2QWV1bVdTUXFDcks0aUxqS3RnNzBUTG5fMFlFUXJIY2FrS1dRUmtDcTBmV1d6Tml0ZVJiYTZXekpERWt4VU5TSHBsVzNWTVVhRmtrbVNoOTBCUmRmSW5JRW1tYm5QRWNMMGJuX01PYWtQYXJ0YzFmUXZ3dXdCZDhEakpmSklQSVZHaURNWFE?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[Grazia](https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3h5c2Q2QWV1bVdTUXFDcks0aUxqS3RnNzBUTG5fMFlFUXJIY2FrS1dRUmtDcTBmV1d6Tml0ZVJiYTZXekpERWt4VU5TSHBsVzNWTVVhRmtrbVNoOTBCUmRmSW5JRW1tYm5QRWNMMGJuX01PYWtQYXJ0YzFmUXZ3dXdCZDhEakpmSklQSVZHaURNWFE?oc=5)
-
----
-
-### [“Dall’emicrania al cuore. Dopo mesi di caldo estremo il corpo è più fragile” - La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
-
-2026-08-13 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMingFBVV95cUxOR20zVjZ1cWNMVjBBYkkwQlRXcTl5bHRKUXM4MGtCWmpZZllhNzJEVENKSWhpeVhNa0tmeGlJQXFIU0laQkQ4ZkVPVmhPdEFZbGk4VUlsRXhobk9FSWxCQmRtaFdXbjd5VXRmWGlLdXktRl9QMGlLanJ5aEtTUV91UWY4em1kTlh6MGd5QzRXVTFCbTB1bGJEdlJWYVFvQdIBowFBVV95cUxQRE5wYUhucnFNZm56bkFHemdyeTNPLVpqZkRRT250TGp3UFlNdHNEOXRlSnVUT2N6WXZ0YkkzOWJWeHNMSTNjNHczTGstMFRwMlF0ekZyNmxEVWd6ODBXek5Ga0VuX0VDbW1WdmlnMVhsTzlNdjBDcHdlb0JVTXZFQS1YbGt5RF9aTGZMby1wQ0U2amRiaVNnaXFLZlFFZXVBbE84?oc=5)
-
----
-
-### [Demenz: Nach Hormonersatztherapie entwickeln Frauen seltener Alzheimer - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTlc1X09sdjYtSkg0M3E1OGxYeTBQZkFDZlFUeE04bkhyMlc4ajBlV0liT2c3Z2xYaGZxRUhrdzFuTnU4NTBpQ3VCSUNmMkFCRXdMazJ4SDQ5MkJyY3ZwOTVlY1hmRW1CR1BoQUxGMVZjWURrbEdwT2JEX3VxOUt5NTFGVnFtNGEwZUs0RXJaZ3hlaVhqbm93TVRoWndqSHBUTVpWUjBlTQ?oc=5)
-
-2026-08-12 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTlc1X09sdjYtSkg0M3E1OGxYeTBQZkFDZlFUeE04bkhyMlc4ajBlV0liT2c3Z2xYaGZxRUhrdzFuTnU4NTBpQ3VCSUNmMkFCRXdMazJ4SDQ5MkJyY3ZwOTVlY1hmRW1CR1BoQUxGMVZjWURrbEdwT2JEX3VxOUt5NTFGVnFtNGEwZUs0RXJaZ3hlaVhqbm93TVRoWndqSHBUTVpWUjBlTQ?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwJBVV95cUxQNHZNbk5uaWRpeHQweDNGZ1hJZnJ4cWlpSnZmYVpFdTdKX2lCei1GRVZoV0pteHBFYjJ6ZkwyNnNvUVF3LVp6SW9qRDBqZkpVanhuNDVIU0FZcTFuUmFQTmJLLW1iMUFtWDdnRGVnQXlEMFNGbllKUE5nRTJCTlhqZFBDWkNFc1d6c190bzdLR3RUcjhkUXNYR2lvREdFX2ozRXFjN3J5ejZ5VWEzdE9WZDJWMkhDc1VlSDFES0daaDExUHphbzVkd3VZbWxQclhpN2ZiUTlySVFtcXV4Y2lzbGViVjF3OTZoY2wwdkVSTlp3Q1Btd0hwbHJxQ2otckJtcmNfYlpJUjE4VEFYYm1oaDZpbC1GZjNOU2VYTU15SS1jT1A1elM4SldkTjUzZUVid1Z2Tm5xSHJtUVNhdVhF?oc=5)
 
 ---
 
