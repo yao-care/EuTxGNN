@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Toxoplasma, svelato il segreto del parassita che si nasconde nel cervello. Lo studio Usa](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
+### [Ce que l'on prenait pour une maladie de Crohn sans cause identifiable est en réalité le sabotage d'un seul frein naturel de l'organisme](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUEZ5cWRjUTZlTHU0SG00WTdGTkNXWFN6Y0xLd0FuS3QwWHhhTmtIWHA3ZzVOZ3JQajVDZ2NONVd4cGN2OFgxek1aaUhfN1BOWXlqUC1SQVdpY3lDTDVvR0dCaGF0dC1XNUpNVnBnbGxhRmJ1Nnd3UldHSjNVVUVPSFVDeDllbV9KMkpUUWdmdG0wLXp2dTA2ckZmUERBeHFDQTJ6SE1PUFE5aDFFSEV2dUdkdXVtTXRvdW5fV2ZtMXNHd0Y3aE9GbTlCdElMYjNBNW5PaTBSTlF2dFR2cEhQblBRcGc4UjVldnVsWA?oc=5)
+
+2026-08-15 <span class="news-indication-tag">maladie de Crohn</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUEZ5cWRjUTZlTHU0SG00WTdGTkNXWFN6Y0xLd0FuS3QwWHhhTmtIWHA3ZzVOZ3JQajVDZ2NONVd4cGN2OFgxek1aaUhfN1BOWXlqUC1SQVdpY3lDTDVvR0dCaGF0dC1XNUpNVnBnbGxhRmJ1Nnd3UldHSjNVVUVPSFVDeDllbV9KMkpUUWdmdG0wLXp2dTA2ckZmUERBeHFDQTJ6SE1PUFE5aDFFSEV2dUdkdXVtTXRvdW5fV2ZtMXNHd0Y3aE9GbTlCdElMYjNBNW5PaTBSTlF2dFR2cEhQblBRcGc4UjVldnVsWA?oc=5)
+
+---
+
+### [Toxoplasma, svelato il segreto del parassita che si nasconde nel cervello. Lo studio Usa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
 
 2026-08-15 <span class="news-indication-tag">asma</span>
 
-來源：[ilfattoquotidiano.it](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
 
 ---
 
@@ -66,7 +74,7 @@ permalink: /news/sarilumab/
 
 2026-08-15 <span class="news-indication-tag">asthma</span>
 
-來源：[kinderaerzte-im-netz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
+來源：[Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
 
 ---
 

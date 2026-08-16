@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [GIP-Rezeptor: Cambridge-Studie eröffnet neue Adipositas-Therapien](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [CardioPODCAST |5x17| Más allá del peso: relación entre la obesidad y la muerte súbita cardiaca - Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
+### [CardioPODCAST |5x17| Más allá del peso: relación entre la obesidad y la muerte súbita cardiaca](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
 
 2026-08-15 <span class="news-indication-tag">obesidad</span>
 
-來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
+來源：[secardiologia.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-08-14 <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3ZHSzh5WG9Oc2lLOENacjd6QlJlR25paEpVWWJXRU9WTGRIQzdEVWFvaE10T1pGdnl4ZGZWQ29DTXg2VktCVms2WnpSYUR6bXJ1T3ZUcGx3R2lUbDlmQVhiZFUwVVVqWVVpUEZ5TEszVmxNa3YxS1lUd0FCVWR2NlFlc19DR2tibF9DZ19LQWczc3lxeGlIR1hQRUlyeFRUUTExTC00ZXFpelVoeUxEeDVVMGluTFE4bnY2V3FqTWx0RkhDZmxaQnA5Y0VjRjlDaXB6UV9OWllCTDBkZjBlS1g2YjdET3M?oc=5)
+
+---
+
+### [Waist size is a powerful indicator of health risks, researchers find - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5)
+
+2026-08-14 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5)
 
 ---
 
@@ -94,6 +102,14 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### [Vitamin-D-Mangel verstärkt stille Entzündungen im Körper - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3FXNU5IbVNIRWJqZ2xjRmVld1FKYjBiZDBWbE5vYlNEQ1JrMm00bzI2ZEZZd0FOM2trWk14WnlLNHVIamJSeXpCX1JXc010VzVKMUNrc2htWUxuSTFaQ1FJbjFDMDIxRTQ4MW5zV01wOFU4dWh1SEJJTjgyMnF5eTZWQ012N1l3TkZyQ1VpUFF3c1BSU1U2Y01jbTd0VUpEclRqSHBQWi1BWFNoNHYtemZzRXFxNTc3NmRyc19FaWVMSVU?oc=5)
+
+2026-08-14 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3FXNU5IbVNIRWJqZ2xjRmVld1FKYjBiZDBWbE5vYlNEQ1JrMm00bzI2ZEZZd0FOM2trWk14WnlLNHVIamJSeXpCX1JXc010VzVKMUNrc2htWUxuSTFaQ1FJbjFDMDIxRTQ4MW5zV01wOFU4dWh1SEJJTjgyMnF5eTZWQ012N1l3TkZyQ1VpUFF3c1BSU1U2Y01jbTd0VUpEclRqSHBQWi1BWFNoNHYtemZzRXFxNTc3NmRyc19FaWVMSVU?oc=5)
+
+---
+
 ### [Fumo e obesità invecchiano il corpo: più anziani di quattro anni, accelerano l'orologio biologico](https://news.google.com/rss/articles/CBMilwJBVV95cUxQWUs2QVgta1gwQm9CMlB1bUdaLS1HUlJDX2hMVW9oVFlWQ1NFZWVNRVdoMFdpSEZqb09ONGlWVDdmYVB1MXgxLUc4TWtGUWVvbHdvZVNYd0lGRFM0ME5ZcXdSQVNKWXF6UE83MV9kSFZuSUpydmdyb0ptSUFxamFicFBnS1N4RkxSNS12aC15WXdzZElMalNFdV9qSWxFZ2FKSnFTMEM1YXRSSnBfY2xSZ2RnSTkxWU92ZDZPV0dwcWVBaXhobmtMNEJqWXlFQWkzT2hFQUVhR0JrcEQtYXlUQlp4UnQwSnBpWTJWcDRNZVVLcVRBS2JhZWhYQkZOOVB5cjZEQ2o5LU1hTjZjZ0xvaE9FUkdCNXPSAZwCQVVfeXFMTXdvSG93UDE3M1pPWTMycGR4QjEzQWxiTnNSbjYxY1psNVA2OHF3eXZVajl4ZmdBWlQwTmJOTENKNE9uQmdmVVBFX1lWbF9wZmxZUno5ZWI0NkIzeVNKQXl6Qy1KQXNLTkZndlk5VzB4eV82YUNLUy14R0hfOUtxRElDRE9PdGdVQkdJLXJFTjRSZkpRbDhDcWtBaHRjX0JGTnBNQnJBVlZYUktDbnRUU2dodGhuMkY2YjNOWEZpNmwtWmdBWldwX29rNnNyZ2tpYXlsVW44Znl5ZUU3bWFWbjdlUWNiQzhlMWp5R2tpaWZiemRIVTRpdWxYcll3R0VOUVZtOHVGTDBBNExoVnlCNWFLYU9Gd3Y5M2FtZWs?oc=5)
 
 2026-08-14 <span class="news-indication-tag">obesità</span>
@@ -107,14 +123,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
-
-2026-08-14 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFE1OG1nU0xtZHJXS3F6Wk1ETTJIdnluandiZEU0RWo3azZrWjJCeHdUS3FSSGg5bHlFMkw5eXZITURySHZMckpOdl9qWU16T3k1UUdKTGZuMlloM3FrZ0dhMnFYUTh2S2hmeS1lY3lxR0FMWFhneXhMeWZ1OTh3X19zSHpKdVctcVIxbDdfTXVtZWt2ZW5HOTJwX1ZjSERIRUJpNlNMN0FSOEVmUXNGaDNkbnVHTlRzZm40UmdwcmZ0dEdUTTdYbDIwbEpqbTdz?oc=5)
 
 ---
 

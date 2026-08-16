@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li>heart disease（96.3%）</li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart disease</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,13 +52,21 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
 
 2026-08-14 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
+
+---
+
+### [Waist size is a powerful indicator of health risks, researchers find - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5)
+
+2026-08-14 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5)
 
 ---
 

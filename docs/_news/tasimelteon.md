@@ -56,7 +56,7 @@ permalink: /news/tasimelteon/
 
 ### [Frühkindlicher Stress: Enzym SETD7 steuert Anfälligkeit für Depressionen](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
 
-2026-08-14 <span class="news-indication-tag">depression</span>
+2026-08-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
 

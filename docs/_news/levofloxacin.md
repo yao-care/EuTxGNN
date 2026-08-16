@@ -14,7 +14,7 @@ permalink: /news/levofloxacin/
 ---
 
 <p class="key-answer" data-question="Levofloxacin 有什麼相關新聞？">
-<strong>Levofloxacin</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levofloxacin</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/levofloxacin/
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（17 則）
+
+### [Curcumin-Berberin-Kombination gegen Alzheimer & Krebs?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNsRVh3WTVIZ2tmTmRnU3RFcnRvRkRPZDNqSHk2TUZ6V09ESWtZeS1MVVhCbDh1QVBxQkJTd0tPR3RkYk03UmdSYVhQVVhpVGxfVEpxZnRwM2JBT1VjYy1BY0hEWVVXclVIVTFEZGRFRDZGLUhNZGZXdlYtc05CSTZhUTlRUXZYc1FBT3BVdGRxcm9QNHc0RTRfbFZIVHktOWxpaHZvbDRQXzZZLUVuYUJ3?oc=5)
+
+2026-08-15 <span class="news-indication-tag">Krebs</span>
+
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNsRVh3WTVIZ2tmTmRnU3RFcnRvRkRPZDNqSHk2TUZ6V09ESWtZeS1MVVhCbDh1QVBxQkJTd0tPR3RkYk03UmdSYVhQVVhpVGxfVEpxZnRwM2JBT1VjYy1BY0hEWVVXclVIVTFEZGRFRDZGLUhNZGZXdlYtc05CSTZhUTlRUXZYc1FBT3BVdGRxcm9QNHc0RTRfbFZIVHktOWxpaHZvbDRQXzZZLUVuYUJ3?oc=5)
+
+---
+
+### [I fear contraceptive jab I took for 10yrs gave me devastating brain tumour - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+
+2026-08-15 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+
+---
 
 ### [Tumore dell’endometrio, un test delle urine può riconoscerlo già allo stadio iniziale](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMWlvUmdOZEJxTkxkdUotRTg4enlCM2hjS1V2T2h6UkRjOXRMNERjOXo0NnZ0a0V4eFZ6eWRqYkVEbndqa0JLc2o5dTJ3M2l3bXlMSG1UT196TDVSNzRybDFieWdvQjRnbWdmUEYxQkpZcjZrZDluMXVYTXBaTVdvbW5rYlhmZmRwVUdGazZMRFpLNFVvMExLQ2dZRmVhMlBoWDhLT3pTLW9mdHhNQk9ybEZJTTBaY001dllzTGpkRjFTaHdKU3ZEUktwNHBoY3Y2VEg5OHhXNWNYcGM?oc=5)
 
 2026-08-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMWlvUmdOZEJxTkxkdUotRTg4enlCM2hjS1V2T2h6UkRjOXRMNERjOXo0NnZ0a0V4eFZ6eWRqYkVEbndqa0JLc2o5dTJ3M2l3bXlMSG1UT196TDVSNzRybDFieWdvQjRnbWdmUEYxQkpZcjZrZDluMXVYTXBaTVdvbW5rYlhmZmRwVUdGazZMRFpLNFVvMExLQ2dZRmVhMlBoWDhLT3pTLW9mdHhNQk9ybEZJTTBaY001dllzTGpkRjFTaHdKU3ZEUktwNHBoY3Y2VEg5OHhXNWNYcGM?oc=5)
+
+---
+
+### ['Outrageous betrayal!' Men lose right to prostate cancer test in major blow to catching disease early - GB News](https://news.google.com/rss/articles/CBMingFBVV95cUxQU2lQQ1pZdWlmX1ZkTUpodko5bUYxRzJxVHl5N1NVaC1GNkRCT04zeHRvazhodTlNaGFmZk1YMG9pX09EcXVFQWwwS2xyWFhMT2ZxZlphSUptbldzUXpzRVFxcFRIc1F0eGpIRWFwQllBa1l0RUxKZmdsSGFwWjU4b2Vpam5LSzBVc2pTZHdZMjM3M29nZFpidWdZSnh3Zw?oc=5)
+
+2026-08-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMingFBVV95cUxQU2lQQ1pZdWlmX1ZkTUpodko5bUYxRzJxVHl5N1NVaC1GNkRCT04zeHRvazhodTlNaGFmZk1YMG9pX09EcXVFQWwwS2xyWFhMT2ZxZlphSUptbldzUXpzRVFxcFRIc1F0eGpIRWFwQllBa1l0RUxKZmdsSGFwWjU4b2Vpam5LSzBVc2pTZHdZMjM3M29nZFpidWdZSnh3Zw?oc=5)
 
 ---
 
@@ -74,15 +98,7 @@ permalink: /news/levofloxacin/
 
 2026-08-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXBLaTFlLXZLbloxSVRlc1lGMGVOVE5zUGtoUG5XbXc3MVJPUHN0TzVvMjh5SS1wRGY4ZlU3Q0o0QUxwVExFNU9XMldnZFQ4ZVBZQmdvUkRpS0l1UXY5TzRILUI2Vmh4NlJFQU1Fd05XZVlBdTBBQVh6LUdvV1FYS2g3UDJjWmNDRWJITDRDMEpJemhjX256cFZNb2VwUDg3N2ZRQWJ4ZFdwVG5TUDlGNDJUTlhjU1hFZXhqZ3p1ajFGUQ?oc=5)
-
----
-
-### [Identifican una proteína que previene el daño hepático y frena el desarrollo de tumores - 65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkJzZFV6dGdKZTlNeE5IOXp0VUVXQV9qVkZ6OUROX3MyeDJrRUlSUW1Xb083akk3WUpCcWw4N1luNTM4LUNDRF9hUTc0QVhxNHJTZUtRcHYtMkVaeWxjWThIZDIzY28yeEZjcWhCRjdlQlp0ZFB1eG4zOHhKcUhLOXZJOWs5bGJRaGVBWFpTT3RxTUhjSXZISFhZV1lIREN4S1VDTUxKOVBrek52TWdJX1V0dldPSjJuU3B3Wg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">tumor</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkJzZFV6dGdKZTlNeE5IOXp0VUVXQV9qVkZ6OUROX3MyeDJrRUlSUW1Xb083akk3WUpCcWw4N1luNTM4LUNDRF9hUTc0QVhxNHJTZUtRcHYtMkVaeWxjWThIZDIzY28yeEZjcWhCRjdlQlp0ZFB1eG4zOHhKcUhLOXZJOWs5bGJRaGVBWFpTT3RxTUhjSXZISFhZV1lIREN4S1VDTUxKOVBrek52TWdJX1V0dldPSjJuU3B3Wg?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXBLaTFlLXZLbloxSVRlc1lGMGVOVE5zUGtoUG5XbXc3MVJPUHN0TzVvMjh5SS1wRGY4ZlU3Q0o0QUxwVExFNU9XMldnZFQ4ZVBZQmdvUkRpS0l1UXY5TzRILUI2Vmh4NlJFQU1Fd05XZVlBdTBBQVh6LUdvV1FYS2g3UDJjWmNDRWJITDRDMEpJemhjX256cFZNb2VwUDg3N2ZRQWJ4ZFdwVG5TUDlGNDJUTlhjU1hFZXhqZ3p1ajFGUQ?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/levofloxacin/
 2026-08-15 <span class="news-indication-tag">cancer</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFJ5QUJkVDd0cnJpdVgyZXQ1Y3hlWlBmM3VXZ1p0VFg2ODRBclZoMTMyRFN2Y1dJUUVROG5CQ2duLTFsVERoZlRvcDlyVGRjSkhVMy13VFprVDBEc01WUjRuU2l2SXpvUDM0TFI1eFNxUzE5TU5aSE1IU1ZqNVNjcTFCT1ByZlFURTdKZ19ETWZoaU400gGaAUFVX3lxTE5QNTJIUlNEbEhCbkIwN2JiTHI5WHA4RmVpS1VIQ0tPMGhQbGZVN0szZ19yaURTajNXcmY2Y1NhcTdfMEdNZDgxNDc5eFVWMWVQcS1YZ0pCVXpjUHFJTDlJSG5uZ05aV0FVb2U2dU9nNklOVmQxSU1iYXR0Uzcya0NOcks0RTUyNFVobW1YdEZ1Mm4yT1ZRbUZFYVE?oc=5)
-
----
-
-### [Men ‘will lose right to prostate cancer tests’ - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGh6eTN1M2RnMmJfdTlNeTh0SWRzLW8xb21OQ29HZ0tLdXpiamJWU01mXzhNaEhfV1loM0VUNHJ4bFllckRwelRpcE5mTVZLbGp6UWRKaUl0NE1xakhzaEZiZEIxUzhvUGZBd1hralhXSmtvbm5TaFdlb3Y1M0VYeGJDUFg1amJPWjU3WXFCWHhOZw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGh6eTN1M2RnMmJfdTlNeTh0SWRzLW8xb21OQ29HZ0tLdXpiamJWU01mXzhNaEhfV1loM0VUNHJ4bFllckRwelRpcE5mTVZLbGp6UWRKaUl0NE1xakhzaEZiZEIxUzhvUGZBd1hralhXSmtvbm5TaFdlb3Y1M0VYeGJDUFg1amJPWjU3WXFCWHhOZw?oc=5)
 
 ---
 
@@ -126,11 +134,11 @@ permalink: /news/levofloxacin/
 
 ---
 
-### [Edinburgh mum's 'lifeline' as daughter diagnosed with rare cancer after 'unexpected pain'](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
+### [Edinburgh mum's 'lifeline' as daughter diagnosed with rare cancer after 'unexpected pain' - Edinburgh Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[edinburghlive.co.uk](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
+來源：[Edinburgh Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
 
 ---
 
@@ -166,11 +174,11 @@ permalink: /news/levofloxacin/
 
 ---
 
-### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+來源：[sante.lefigaro.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 ---
 
@@ -179,22 +187,6 @@ permalink: /news/levofloxacin/
 2026-08-14 <span class="news-indication-tag">cancer</span>
 
 來源：[RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
-
----
-
-### [Il movimento riduce il rischio di cancro, anche 3 minuti al giorno aiutano - Canale 10](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmREbHNxdGRwaFpiU2diQTlYY2FJOC1tZ1BOd1Q5RGdMUmFBTFNraHh5OWEwcVVsU3hnbWR1Mm1DMExHUjM1TWVYbU5QZ3pRc1o4NkVQdjVSYll1d1dESEljdGxDNkg3SEZNTGlFT0UxS0k5cnJTOXREVzh5aUJyVnVoaWpPd3AyNGJNOEU0U1ZTRVFVOFgxYUIwMXZ6NHF2ODRlYW5ZUl94b3R2?oc=5)
-
-2026-08-13 <span class="news-indication-tag">cancro</span>
-
-來源：[Canale 10](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmREbHNxdGRwaFpiU2diQTlYY2FJOC1tZ1BOd1Q5RGdMUmFBTFNraHh5OWEwcVVsU3hnbWR1Mm1DMExHUjM1TWVYbU5QZ3pRc1o4NkVQdjVSYll1d1dESEljdGxDNkg3SEZNTGlFT0UxS0k5cnJTOXREVzh5aUJyVnVoaWpPd3AyNGJNOEU0U1ZTRVFVOFgxYUIwMXZ6NHF2ODRlYW5ZUl94b3R2?oc=5)
-
----
-
-### [Tumore della prostata: 5 sedute di radioterapia invece di 20 o 28](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREJjMVZpOGdkSXNyRF9BSktXck40elRnNDVENW9BZ1lDZWNjTmE2NVZYbTNhaVNQMnRPaEFaTFdROGl5d2xGT3B6bzlvUjJoUEdqZUJ3aldPdlRIcmp3QjlTQmRnYVNQdlhXRFIzMFN0WGNYU1JPU0pUdWc3NEVWRFZqUTF5a2o0OTQ4a2M3MVBodzk3V293U0t3ZGt1c1l5V2U2QjhQU05sLTgzWFZBaVZuMXo1NERWU3M1WHpUZUZ4Zw?oc=5)
-
-2026-08-13 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREJjMVZpOGdkSXNyRF9BSktXck40elRnNDVENW9BZ1lDZWNjTmE2NVZYbTNhaVNQMnRPaEFaTFdROGl5d2xGT3B6bzlvUjJoUEdqZUJ3aldPdlRIcmp3QjlTQmRnYVNQdlhXRFIzMFN0WGNYU1JPU0pUdWc3NEVWRFZqUTF5a2o0OTQ4a2M3MVBodzk3V293U0t3ZGt1c1l5V2U2QjhQU05sLTgzWFZBaVZuMXo1NERWU3M1WHpUZUZ4Zw?oc=5)
 
 ---
 

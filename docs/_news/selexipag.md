@@ -54,6 +54,22 @@ permalink: /news/selexipag/
 
 ## 相關新聞（4 則）
 
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium als Behandlungsempfehlung](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
+
+2026-08-15 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
+
+---
+
+### [Hypertension: Why boosting potassium may be key for control - Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
+
+2026-08-15 <span class="news-indication-tag">hypertension</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
+
+---
+
 ### [Demenzrisiko: Rauchen, Bluthochdruck, Diabetes reduzieren Leben um 12 Jahre](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
 
 2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
@@ -67,22 +83,6 @@ permalink: /news/selexipag/
 2026-08-14 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
 
 來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
-
----
-
-### [La preeclampsia podría aumentar el riesgo de enfermedad renal crónica e hipertensión](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR3B1VUN4akhMZmQzdGE5YVpFX1AxQk1WMUhNSWZKbGJnQVBGejVmTGtsaDltWGZkXzJ3X29DTnQ1NEhMcGlmMHVBTE1wYVZ1bmc2MDJVNVFNV192bXVfR2x2Z3I0bWJsZWhjSE5pVzRnRng5OWFsVlRwUWxrR0ZIMnZVeDREU2pnZDktUklIV2tUWm52RGhOaWV5X3hGOUpubXdSUkxUb0hBQ2hZaktzNVBMdElpTVRJdHRtVVpaWnY?oc=5)
-
-2026-08-14 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">enfermedad renal crónica</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR3B1VUN4akhMZmQzdGE5YVpFX1AxQk1WMUhNSWZKbGJnQVBGejVmTGtsaDltWGZkXzJ3X29DTnQ1NEhMcGlmMHVBTE1wYVZ1bmc2MDJVNVFNV192bXVfR2x2Z3I0bWJsZWhjSE5pVzRnRng5OWFsVlRwUWxrR0ZIMnZVeDREU2pnZDktUklIV2tUWm52RGhOaWV5X3hGOUpubXdSUkxUb0hBQ2hZaktzNVBMdElpTVRJdHRtVVpaWnY?oc=5)
-
----
-
-### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
-
-2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
 
 ---
 

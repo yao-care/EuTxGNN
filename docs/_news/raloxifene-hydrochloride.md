@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（4 則）
 
-### [Salire le scale ogni giorno riduce del 39% il rischio cardiovascolare](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
+### [Salire le scale ogni giorno riduce del 39% il rischio cardiovascolare - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
 
 2026-08-15 <span class="news-indication-tag">ictus</span>
 
-來源：[ilfattoquotidiano.it](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [DASH-Diät: Studie belegt Schutz vor Alzheimer und Schlafapnoe](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+### [Waist size is a powerful indicator of health risks, researchers find - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5)
 
-2026-08-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-08-14 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk9zQVFCZGVrNHNnSjNsMVBma09JV3EzMHRqYXdMTUpwWXlmejFTb1NwamxHSjNJVFI4MTBuWUY0Tl9uN19nVHUyWlVHZmw2RnYzdnJsUEdHVXM3eEtxcjF1cEZoMUY3aTR5a05hcDdDUXAxVndXNEVLWmpBYVJZRmNGeWpmeEEyVkVUXzBqci1yNC1SZFFleGRRNDlrOHYyX1NSWU5VMFQ2YVczemRz?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5)
 
 ---
 

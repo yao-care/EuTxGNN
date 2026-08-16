@@ -56,9 +56,33 @@ permalink: /news/elbasvir/
 
 ### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
 
-2026-08-15 <span class="news-indication-tag">MS</span>
+2026-08-16 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
+
+---
+
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium als Behandlungsempfehlung](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
+
+2026-08-15 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
+
+---
+
+### [I fear contraceptive jab I took for 10yrs gave me devastating brain tumour - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+
+2026-08-15 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+
+---
+
+### ['Outrageous betrayal!' Men lose right to prostate cancer test in major blow to catching disease early - GB News](https://news.google.com/rss/articles/CBMingFBVV95cUxQU2lQQ1pZdWlmX1ZkTUpodko5bUYxRzJxVHl5N1NVaC1GNkRCT04zeHRvazhodTlNaGFmZk1YMG9pX09EcXVFQWwwS2xyWFhMT2ZxZlphSUptbldzUXpzRVFxcFRIc1F0eGpIRWFwQllBa1l0RUxKZmdsSGFwWjU4b2Vpam5LSzBVc2pTZHdZMjM3M29nZFpidWdZSnh3Zw?oc=5)
+
+2026-08-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMingFBVV95cUxQU2lQQ1pZdWlmX1ZkTUpodko5bUYxRzJxVHl5N1NVaC1GNkRCT04zeHRvazhodTlNaGFmZk1YMG9pX09EcXVFQWwwS2xyWFhMT2ZxZlphSUptbldzUXpzRVFxcFRIc1F0eGpIRWFwQllBa1l0RUxKZmdsSGFwWjU4b2Vpam5LSzBVc2pTZHdZMjM3M29nZFpidWdZSnh3Zw?oc=5)
 
 ---
 
@@ -70,27 +94,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Psychologist Richard Wiseman spent years studying why some people consider themselves unusually lucky, then taught volunteers four of the behaviours he found — seek more chance opportunities, trust intuition, expect good things and turn setbacks aroun - Silicon Canals](https://news.google.com/rss/articles/CBMikgFBVV95cUxQamVVQWhxMWRXRjNsbl9vLVUwcF9ReHdRaWtrLUxud0hJVmd3UnRFOXp1aFZ3a1A1WnYwVzdHdEM3R05jS2c2VmhiaFN5ZnJOenh1aXpOVlV6ZlFjZ0lsQTBqSjRiY2pRdmk2VDc0ZTNyRXF1dWZJWW4xbmVxcXdhbVdMeXBMbUdPaHlUYW9ndHVZUQ?oc=5)
-
-2026-08-15 <span class="news-indication-tag">MS</span>
-
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMikgFBVV95cUxQamVVQWhxMWRXRjNsbl9vLVUwcF9ReHdRaWtrLUxud0hJVmd3UnRFOXp1aFZ3a1A1WnYwVzdHdEM3R05jS2c2VmhiaFN5ZnJOenh1aXpOVlV6ZlFjZ0lsQTBqSjRiY2pRdmk2VDc0ZTNyRXF1dWZJWW4xbmVxcXdhbVdMeXBMbUdPaHlUYW9ndHVZUQ?oc=5)
-
----
-
-### [Men ‘will lose right to prostate cancer tests’ - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGh6eTN1M2RnMmJfdTlNeTh0SWRzLW8xb21OQ29HZ0tLdXpiamJWU01mXzhNaEhfV1loM0VUNHJ4bFllckRwelRpcE5mTVZLbGp6UWRKaUl0NE1xakhzaEZiZEIxUzhvUGZBd1hralhXSmtvbm5TaFdlb3Y1M0VYeGJDUFg1amJPWjU3WXFCWHhOZw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGh6eTN1M2RnMmJfdTlNeTh0SWRzLW8xb21OQ29HZ0tLdXpiamJWU01mXzhNaEhfV1loM0VUNHJ4bFllckRwelRpcE5mTVZLbGp6UWRKaUl0NE1xakhzaEZiZEIxUzhvUGZBd1hralhXSmtvbm5TaFdlb3Y1M0VYeGJDUFg1amJPWjU3WXFCWHhOZw?oc=5)
-
----
-
 ### [Bowel cancer 'deadliest type for under-50s' and failing to improve - 4 signs - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
+
+---
+
+### [Stammtisch für MS-Betroffene und Angehörige trifft sich wieder nach der Sommerpause](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3k2TWtpM1hObHlJLWFDQy1vSVktY1ZvZmtoZnB4VjUyaXdyT0ZqSjNabmVRZzViZTNzRzZibWJQXy1QWjU4a3lFeVc0YkZOYVdoRzhTeFJNLXRZWm5TeWM3b2sxZUdGN1lSVUtfMmFYblFXLXVPWU0zTllaTUV5bklqWDN1eWw0ZTV4c2FnMWE1Y2xvaEx4c3hzOTdOdGg5ejZPWlJGM0RNRFhWSTIweGR1NjJDRl95aC1aSjB1UXg1cm1kV0dWT1J4cVRSd1pYSFFXUldtajNzU1NPa1E?oc=5)
+
+2026-08-14 <span class="news-indication-tag">MS</span>
+
+來源：[Stralsund.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3k2TWtpM1hObHlJLWFDQy1vSVktY1ZvZmtoZnB4VjUyaXdyT0ZqSjNabmVRZzViZTNzRzZibWJQXy1QWjU4a3lFeVc0YkZOYVdoRzhTeFJNLXRZWm5TeWM3b2sxZUdGN1lSVUtfMmFYblFXLXVPWU0zTllaTUV5bklqWDN1eWw0ZTV4c2FnMWE1Y2xvaEx4c3hzOTdOdGg5ejZPWlJGM0RNRFhWSTIweGR1NjJDRl95aC1aSjB1UXg1cm1kV0dWT1J4cVRSd1pYSFFXUldtajNzU1NPa1E?oc=5)
 
 ---
 
@@ -107,22 +123,6 @@ permalink: /news/elbasvir/
 2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
-
----
-
-### [Millions of women could be missing signs to prevent diabetes - don't ignore these hidden symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
-
----
-
-### ['Flesh-Eating' Bacteria: 7 Deaths Reported, Cases Rising on Gulf Coast](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1pETE0zX3RaZjViWnBaWG1Jb1JMSWRodXpDeThmRFlFbG9qSEFBMDY2dk5uZk0wblNpd3o3YnlObWtnNklBNl8xcklienlaSmNQTnpoTTdtMW95Mmk5V0EzbFlKek5jMzZvTFZWRlNZbHRuU3V1VGJKdU9nQnVIeFAzQjNnbGNYZjA3aA?oc=5)
 
 ---
 

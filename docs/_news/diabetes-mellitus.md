@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabète（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
+description: "diabète（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabète（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,21 +114,13 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Life-Course-Prävention bei Typ-2-Diabetes: Empfehlungen bis in die Lebensmitte - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjV6SEdVNEZKcG1DVldZeTc3ZXpzMGRfWFdxd0R6S1Y5UjNkbXZjN2tSdU5WMDdWQ2JxOEh3NzRibUJHZC1lRks2Zk1LQURyUEMwQm1oempfVG15cnM0NDIzRGg5UTZsaWZONEp3V3NmaE0xdmE0TmpzVmwtTGRVbEUtbkt6OWpkMU1kOXJRdVdtVjhvVEJQeW81U29JaTVCM0M5Q3FHckMwQVUtYWg4?oc=5)
-
-2026-08-15
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjV6SEdVNEZKcG1DVldZeTc3ZXpzMGRfWFdxd0R6S1Y5UjNkbXZjN2tSdU5WMDdWQ2JxOEh3NzRibUJHZC1lRks2Zk1LQURyUEMwQm1oempfVG15cnM0NDIzRGg5UTZsaWZONEp3V3NmaE0xdmE0TmpzVmwtTGRVbEUtbkt6OWpkMU1kOXJRdVdtVjhvVEJQeW81U29JaTVCM0M5Q3FHckMwQVUtYWg4?oc=5)
-
----
-
-### [Diabète : cinq réflexes à adopter par temps chaud](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
+### [Diabète : cinq réflexes à adopter par temps chaud - Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
 
 2026-08-15
 
-來源：[charentelibre.fr](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
 
 ---
 
@@ -169,14 +161,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-14
 
 來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSTl0RVZ0b0hmcV9DOFJWTk5aUzg2d2JEeVZDR2kydnJiYVUzQmZCWkpDRmZSdGpoNUg5NHVoWHNQcHU1U3JSejMyRUlGT19tRnQtNUlrdUlqZEdmVjJYQUU3VW9vLXJaM1I2VmNRLWRfSmM?oc=5)
-
----
-
-### [Millions of women could be missing signs to prevent diabetes - don't ignore these hidden symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
-
-2026-08-13
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
 
 ---
 

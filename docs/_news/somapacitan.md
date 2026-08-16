@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
-### [Life-Course-Prävention bei Typ-2-Diabetes: Empfehlungen bis in die Lebensmitte - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjV6SEdVNEZKcG1DVldZeTc3ZXpzMGRfWFdxd0R6S1Y5UjNkbXZjN2tSdU5WMDdWQ2JxOEh3NzRibUJHZC1lRks2Zk1LQURyUEMwQm1oempfVG15cnM0NDIzRGg5UTZsaWZONEp3V3NmaE0xdmE0TmpzVmwtTGRVbEUtbkt6OWpkMU1kOXJRdVdtVjhvVEJQeW81U29JaTVCM0M5Q3FHckMwQVUtYWg4?oc=5)
-
-2026-08-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjV6SEdVNEZKcG1DVldZeTc3ZXpzMGRfWFdxd0R6S1Y5UjNkbXZjN2tSdU5WMDdWQ2JxOEh3NzRibUJHZC1lRks2Zk1LQURyUEMwQm1oempfVG15cnM0NDIzRGg5UTZsaWZONEp3V3NmaE0xdmE0TmpzVmwtTGRVbEUtbkt6OWpkMU1kOXJRdVdtVjhvVEJQeW81U29JaTVCM0M5Q3FHckMwQVUtYWg4?oc=5)
-
----
-
-### [Toxoplasma, svelato il segreto del parassita che si nasconde nel cervello. Lo studio Usa](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
+### [Toxoplasma, svelato il segreto del parassita che si nasconde nel cervello. Lo studio Usa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
 
 2026-08-15 <span class="news-indication-tag">asma</span>
 
-來源：[ilfattoquotidiano.it](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
 
 ---
 
@@ -74,15 +66,15 @@ permalink: /news/somapacitan/
 
 2026-08-15 <span class="news-indication-tag">asthma</span>
 
-來源：[kinderaerzte-im-netz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
+來源：[Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
 
 ---
 
-### [Diabète : cinq réflexes à adopter par temps chaud](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
+### [Diabète : cinq réflexes à adopter par temps chaud - Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
 
 2026-08-15 <span class="news-indication-tag">diabète</span>
 
-來源：[charentelibre.fr](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
 
 ---
 
@@ -123,14 +115,6 @@ permalink: /news/somapacitan/
 2026-08-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSTl0RVZ0b0hmcV9DOFJWTk5aUzg2d2JEeVZDR2kydnJiYVUzQmZCWkpDRmZSdGpoNUg5NHVoWHNQcHU1U3JSejMyRUlGT19tRnQtNUlrdUlqZEdmVjJYQUU3VW9vLXJaM1I2VmNRLWRfSmM?oc=5)
-
----
-
-### [Millions of women could be missing signs to prevent diabetes - don't ignore these hidden symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
-
-2026-08-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmFhU3VUd05XMGl0UEVHR0h5VE54LVhpSUNFNzFGUUR5SHpIZUJNcDhJSlE3SjBfazM0cUxVRWxkSlEzcDJ2aXRmVXpiU2lyNlVOSloxaEtzN1JoeHZzSDM2NUI1cklTTkx6bklDOXhUdGJYVFpSeEhJd2xQRnljY1pLRENnbktjMzBMeUtBREtmbEZlblBzOE5BNkJvem5M?oc=5)
 
 ---
 

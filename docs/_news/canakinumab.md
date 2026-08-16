@@ -14,7 +14,7 @@ permalink: /news/canakinumab/
 ---
 
 <p class="key-answer" data-question="Canakinumab 有什麼相關新聞？">
-<strong>Canakinumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Canakinumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/canakinumab/
 <p><a href="{{ '/drugs/canakinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Piel con granitos rojos: qué es la queratosis pilaris y cómo mejorarla](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1BWam9DTWMwTGd6QVBuUHVOY3hRVXA3dUx5RXVXQnBEdUlKOWlZaHpSaVV1a3I1Y2xRX09KSWhSMjZjeUpINFBnVi1aNnYzRGxwdUkzdXU1dTVCMy1xazR6ZnhKOUotcy1ETzQ3X19PWktYdzNUOWpyMXBqOWp6QTdsYXJjUlJTcXlpc2xXUzhHSHRsTk9GSmpMbDU4Z2lueDlKUGUyTGpfc3RZQ1BrTW93QnVBM2s?oc=5)
-
-2026-08-14 <span class="news-drug-tag">Canakinumab</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1BWam9DTWMwTGd6QVBuUHVOY3hRVXA3dUx5RXVXQnBEdUlKOWlZaHpSaVV1a3I1Y2xRX09KSWhSMjZjeUpINFBnVi1aNnYzRGxwdUkzdXU1dTVCMy1xazR6ZnhKOUotcy1ETzQ3X19PWktYdzNUOWpyMXBqOWp6QTdsYXJjUlJTcXlpc2xXUzhHSHRsTk9GSmpMbDU4Z2lueDlKUGUyTGpfc3RZQ1BrTW93QnVBM2s?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
