@@ -54,11 +54,11 @@ permalink: /news/vortioxetine/
 
 ## 相關新聞（1 則）
 
-### [Frühkindlicher Stress: Enzym SETD7 steuert Anfälligkeit für Depressionen](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
+### [A Crucial Part of The Brain's Memory Center Seems to Shrink in People With Depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5)
 
-2026-08-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5)
 
 ---
 

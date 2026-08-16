@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [La GAI de Guadalajara avanza en la lucha contra el cáncer - La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1dpaTNhV3dDSUh2Ym5HTE1BMkNVNVpndzVObm9rdGNLZ2Z4UDVlYVJxbG84MEN5NU1NbW1hd21xTllGZ2tNRGk0Mk8wTGNtZkc0WkFnbFlEZl9MazlOemtydHlqam5xaTBteThHY0Y0U29RMXFjaDZ6MWhUS3FhU3NSbDdFbTNMYjFhUmFPcmJYUUlEeXdWdHZFS2Y3bVB6c0FvSk8xaWQydFBscUEyZjlDQnIxcjZoRG82SnZ4Rm9wU1VlMWZDOHBmLWNBSF82NXI3SWd0U3NEQnJT?oc=5)
+
+2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1dpaTNhV3dDSUh2Ym5HTE1BMkNVNVpndzVObm9rdGNLZ2Z4UDVlYVJxbG84MEN5NU1NbW1hd21xTllGZ2tNRGk0Mk8wTGNtZkc0WkFnbFlEZl9MazlOemtydHlqam5xaTBteThHY0Y0U29RMXFjaDZ6MWhUS3FhU3NSbDdFbTNMYjFhUmFPcmJYUUlEeXdWdHZFS2Y3bVB6c0FvSk8xaWQydFBscUEyZjlDQnIxcjZoRG82SnZ4Rm9wU1VlMWZDOHBmLWNBSF82NXI3SWd0U3NEQnJT?oc=5)
+
+---
+
+### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
+
+2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
+
+---
 
 ### [Bluthochdruck: Erhöhte Zufuhr von Kalium als Behandlungsempfehlung](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
 

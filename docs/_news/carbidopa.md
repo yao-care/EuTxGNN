@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Man, 90, with Parkinson's walks 90 miles for charity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05UHd5azBTbjU5VDBFTnJicW5ycEpodWdtMUYtYTFicUpodjhMWlRqbjlkNlRyVVFDdVRuRzVaYm9LZlY1RS1CWVJjaHZhR0N3ZjhaOTJORWxaeC04?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/carbidopa/
 2026-08-15 <span class="news-indication-tag">dementia</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
-
----
-
-### [Dementia: Walking speed in your 80s linked to 50% lower risk of brain decline - GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
-
-2026-08-14 <span class="news-indication-tag">dementia</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
 
 ---
 

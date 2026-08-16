@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abacavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La GAI de Guadalajara avanza en la lucha contra el cáncer - La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1dpaTNhV3dDSUh2Ym5HTE1BMkNVNVpndzVObm9rdGNLZ2Z4UDVlYVJxbG84MEN5NU1NbW1hd21xTllGZ2tNRGk0Mk8wTGNtZkc0WkFnbFlEZl9MazlOemtydHlqam5xaTBteThHY0Y0U29RMXFjaDZ6MWhUS3FhU3NSbDdFbTNMYjFhUmFPcmJYUUlEeXdWdHZFS2Y3bVB6c0FvSk8xaWQydFBscUEyZjlDQnIxcjZoRG82SnZ4Rm9wU1VlMWZDOHBmLWNBSF82NXI3SWd0U3NEQnJT?oc=5)
+
+2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1dpaTNhV3dDSUh2Ym5HTE1BMkNVNVpndzVObm9rdGNLZ2Z4UDVlYVJxbG84MEN5NU1NbW1hd21xTllGZ2tNRGk0Mk8wTGNtZkc0WkFnbFlEZl9MazlOemtydHlqam5xaTBteThHY0Y0U29RMXFjaDZ6MWhUS3FhU3NSbDdFbTNMYjFhUmFPcmJYUUlEeXdWdHZFS2Y3bVB6c0FvSk8xaWQydFBscUEyZjlDQnIxcjZoRG82SnZ4Rm9wU1VlMWZDOHBmLWNBSF82NXI3SWd0U3NEQnJT?oc=5)
+
+---
 
 
 <div class="disclaimer">

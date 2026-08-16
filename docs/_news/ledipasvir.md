@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
-### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
+### [La GAI de Guadalajara avanza en la lucha contra el cáncer - La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1dpaTNhV3dDSUh2Ym5HTE1BMkNVNVpndzVObm9rdGNLZ2Z4UDVlYVJxbG84MEN5NU1NbW1hd21xTllGZ2tNRGk0Mk8wTGNtZkc0WkFnbFlEZl9MazlOemtydHlqam5xaTBteThHY0Y0U29RMXFjaDZ6MWhUS3FhU3NSbDdFbTNMYjFhUmFPcmJYUUlEeXdWdHZFS2Y3bVB6c0FvSk8xaWQydFBscUEyZjlDQnIxcjZoRG82SnZ4Rm9wU1VlMWZDOHBmLWNBSF82NXI3SWd0U3NEQnJT?oc=5)
+
+2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1dpaTNhV3dDSUh2Ym5HTE1BMkNVNVpndzVObm9rdGNLZ2Z4UDVlYVJxbG84MEN5NU1NbW1hd21xTllGZ2tNRGk0Mk8wTGNtZkc0WkFnbFlEZl9MazlOemtydHlqam5xaTBteThHY0Y0U29RMXFjaDZ6MWhUS3FhU3NSbDdFbTNMYjFhUmFPcmJYUUlEeXdWdHZFS2Y3bVB6c0FvSk8xaWQydFBscUEyZjlDQnIxcjZoRG82SnZ4Rm9wU1VlMWZDOHBmLWNBSF82NXI3SWd0U3NEQnJT?oc=5)
+
+---
+
+### [Meningitis jab plea to North East and Cumbria students](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNbXJpM0lOZUQzZlo2MHg1dkhOaFFMWGlyNWtSN1A5RUIxUHJHTWF1SldNNENmM2ktRmIxb2E1MDJsS1FRdUxGS3dDVG1OdlN5S0l1MzJsTndObVNo?oc=5)
 
 2026-08-16 <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNbXJpM0lOZUQzZlo2MHg1dkhOaFFMWGlyNWtSN1A5RUIxUHJHTWF1SldNNENmM2ktRmIxb2E1MDJsS1FRdUxGS3dDVG1OdlN5S0l1MzJsTndObVNo?oc=5)
+
+---
+
+### [A Crucial Part of The Brain's Memory Center Seems to Shrink in People With Depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5)
 
 ---
 
@@ -70,11 +86,19 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [I fear contraceptive jab I took for 10yrs gave me devastating brain tumour - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+### [I fear contraceptive jab I took for 10yrs gave me devastating brain tumour](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
 
 2026-08-15 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+
+---
+
+### [My son stopped taking his ADHD drugs for 6 weeks...the results shocked us](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjhYb1A0SXg5WWxUZ0ZWZlU4RkRMQjh0cWF1cUhVUWxHYkU3ekRETnNXUUZ2MFhuUXZvbV8yNzRVdktRNVFfcW92LXZrcjlOVUkwWEM1QV9Mekd0MUdIOEU1eWh0UDRiS3piNF9jSmFXQ1pXX1RvUEdpOVNmcTg0OEpHcG53UUVQcWFkR3E3RQ?oc=5)
+
+2026-08-15 <span class="news-indication-tag">MS</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjhYb1A0SXg5WWxUZ0ZWZlU4RkRMQjh0cWF1cUhVUWxHYkU3ekRETnNXUUZ2MFhuUXZvbV8yNzRVdktRNVFfcW92LXZrcjlOVUkwWEM1QV9Mekd0MUdIOEU1eWh0UDRiS3piNF9jSmFXQ1pXX1RvUEdpOVNmcTg0OEpHcG53UUVQcWFkR3E3RQ?oc=5)
 
 ---
 
@@ -82,23 +106,7 @@ permalink: /news/ledipasvir/
 
 2026-08-15 <span class="news-indication-tag">MS</span>
 
-來源：[NN.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0JJZnMySnM4QlNiTlN3YUJmWHUxR19XTk5HNy1CaFFrZHpHa0VoZkprZ0RhT1pJTFZWSjk0MFE1SmJ6cTlOWnNlQmliRHM4YlpVT0JZUGZlZk52ckZfTUhmYmQxRHJ6bzRoVVNrb3h5NkVENEtWMjF4Y016NFNKbWxFaUhHNlc2TUgtZFEtUk9STlBhYzkyeFUtOHdBc2FNenJfX1N1d2YwVkEycmhncVVpT0lVV3pRLTNYSUx2cw?oc=5)
-
----
-
-### [60 years on, why Chandipura virus still catches India unprepared - The Times of India](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGtXeVBDZU4wYzljZTV6OENHRmlBN21tT01HbGZoM3JuSmpiZTROSnhlbkQzRXRxbjVnUFRqQzJvZldza3Y4YkpkQmI1Q04yYUh1a1VEN2lFS2diSlZQRlZnU3JtVTU5bDRoUXNuYU9iU2NlVzFuX3d0VjVlRnRINlJ1WHFlZmFIWnpkZ09vZEZNZnJDai00UDRBMDdtMVhwM1Rkb3l1WkFYbHpDVXpiRGdwRG9Fc0hZRDFDSDVxN2wwTWc5TzlEOUlwMjFhbTJGZzRaQnVqSG3SAd4BQVVfeXFMTVU1VmZncUZtNVZVdjNXZ2FHNmt6SVJySkJ3cy1ZZjB3MzdIQWdkSngzVHd5eklib3ZZRVJQcjZ1Y25UbEoySXk5QU1KdmZYaFBKSjVEaUZBbk5xWFM1SEpIcHBRUTNtaUsxNk9sdW9YZzQ0YThXR1VUVjh4WFhORVR5eUpUWk13UDE5dS10UWZnVFpZYThkNzJuaEQxZ0dyUHBScHRuOEZNZ0ZiaF9jTVdJZ2UtbjlCaXltLVhRRXMxNGJBcGk4WlRpS3lYZnVybkY2UXFyR2lwazgwTHhn?oc=5)
-
-2026-08-15 <span class="news-indication-tag">MS</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGtXeVBDZU4wYzljZTV6OENHRmlBN21tT01HbGZoM3JuSmpiZTROSnhlbkQzRXRxbjVnUFRqQzJvZldza3Y4YkpkQmI1Q04yYUh1a1VEN2lFS2diSlZQRlZnU3JtVTU5bDRoUXNuYU9iU2NlVzFuX3d0VjVlRnRINlJ1WHFlZmFIWnpkZ09vZEZNZnJDai00UDRBMDdtMVhwM1Rkb3l1WkFYbHpDVXpiRGdwRG9Fc0hZRDFDSDVxN2wwTWc5TzlEOUlwMjFhbTJGZzRaQnVqSG3SAd4BQVVfeXFMTVU1VmZncUZtNVZVdjNXZ2FHNmt6SVJySkJ3cy1ZZjB3MzdIQWdkSngzVHd5eklib3ZZRVJQcjZ1Y25UbEoySXk5QU1KdmZYaFBKSjVEaUZBbk5xWFM1SEpIcHBRUTNtaUsxNk9sdW9YZzQ0YThXR1VUVjh4WFhORVR5eUpUWk13UDE5dS10UWZnVFpZYThkNzJuaEQxZ0dyUHBScHRuOEZNZ0ZiaF9jTVdJZ2UtbjlCaXltLVhRRXMxNGJBcGk4WlRpS3lYZnVybkY2UXFyR2lwazgwTHhn?oc=5)
-
----
-
-### ['Outrageous betrayal!' Men lose right to prostate cancer test in major blow to catching disease early - GB News](https://news.google.com/rss/articles/CBMingFBVV95cUxQU2lQQ1pZdWlmX1ZkTUpodko5bUYxRzJxVHl5N1NVaC1GNkRCT04zeHRvazhodTlNaGFmZk1YMG9pX09EcXVFQWwwS2xyWFhMT2ZxZlphSUptbldzUXpzRVFxcFRIc1F0eGpIRWFwQllBa1l0RUxKZmdsSGFwWjU4b2Vpam5LSzBVc2pTZHdZMjM3M29nZFpidWdZSnh3Zw?oc=5)
-
-2026-08-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMingFBVV95cUxQU2lQQ1pZdWlmX1ZkTUpodko5bUYxRzJxVHl5N1NVaC1GNkRCT04zeHRvazhodTlNaGFmZk1YMG9pX09EcXVFQWwwS2xyWFhMT2ZxZlphSUptbldzUXpzRVFxcFRIc1F0eGpIRWFwQllBa1l0RUxKZmdsSGFwWjU4b2Vpam5LSzBVc2pTZHdZMjM3M29nZFpidWdZSnh3Zw?oc=5)
+來源：[nn.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0JJZnMySnM4QlNiTlN3YUJmWHUxR19XTk5HNy1CaFFrZHpHa0VoZkprZ0RhT1pJTFZWSjk0MFE1SmJ6cTlOWnNlQmliRHM4YlpVT0JZUGZlZk52ckZfTUhmYmQxRHJ6bzRoVVNrb3h5NkVENEtWMjF4Y016NFNKbWxFaUhHNlc2TUgtZFEtUk9STlBhYzkyeFUtOHdBc2FNenJfX1N1d2YwVkEycmhncVVpT0lVV3pRLTNYSUx2cw?oc=5)
 
 ---
 
@@ -118,11 +126,19 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Bowel cancer 'deadliest type for under-50s' and failing to improve - 4 signs - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
+### [Men ‘will lose right to prostate cancer tests’ - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGh6eTN1M2RnMmJfdTlNeTh0SWRzLW8xb21OQ29HZ0tLdXpiamJWU01mXzhNaEhfV1loM0VUNHJ4bFllckRwelRpcE5mTVZLbGp6UWRKaUl0NE1xakhzaEZiZEIxUzhvUGZBd1hralhXSmtvbm5TaFdlb3Y1M0VYeGJDUFg1amJPWjU3WXFCWHhOZw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGh6eTN1M2RnMmJfdTlNeTh0SWRzLW8xb21OQ29HZ0tLdXpiamJWU01mXzhNaEhfV1loM0VUNHJ4bFllckRwelRpcE5mTVZLbGp6UWRKaUl0NE1xakhzaEZiZEIxUzhvUGZBd1hralhXSmtvbm5TaFdlb3Y1M0VYeGJDUFg1amJPWjU3WXFCWHhOZw?oc=5)
+
+---
+
+### [Bowel cancer 'deadliest type for under-50s' and failing to improve - 4 signs](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
 
 ---
 

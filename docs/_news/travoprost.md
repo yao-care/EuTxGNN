@@ -54,11 +54,11 @@ permalink: /news/travoprost/
 
 ## 相關新聞（1 則）
 
-### [Waist size is a powerful indicator of health risks, researchers find - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5)
+### [I’m a 63-year-old personal trainer – how I turn everyday life into easy workouts - The i Paper](https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEhDRGRfZXBUS0c1VVV5LXJDMnFrSG5iTl9HQV9tcGkzZDBCM0hpM1ZaZTBXaV9ZWHdjVDZnbllOeVc4QWlpQUZVdmN6ZlNhenllaGZsWkZoMjFETVQyZWdvS0hhOU40OFpEOWx2Qkg1WTVOd1ZlRXZSaDZ5R1Y4QkoxTHJ3eFF0ajBza0RoMUhhYkFWY2E5MA?oc=5)
 
-2026-08-14 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
+2026-08-15 <span class="news-indication-tag">heart disease</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEhDRGRfZXBUS0c1VVV5LXJDMnFrSG5iTl9HQV9tcGkzZDBCM0hpM1ZaZTBXaV9ZWHdjVDZnbllOeVc4QWlpQUZVdmN6ZlNhenllaGZsWkZoMjFETVQyZWdvS0hhOU40OFpEOWx2Qkg1WTVOd1ZlRXZSaDZ5R1Y4QkoxTHJ3eFF0ajBza0RoMUhhYkFWY2E5MA?oc=5)
 
 ---
 

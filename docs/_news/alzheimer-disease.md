@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Des scientifiques découvrent un possible déclencheur de la maladie d'Alzheimer : il commence dès 50 ans](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
 
@@ -59,14 +59,6 @@ permalink: /news/alzheimer-disease/
 2026-08-15
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
-
----
-
-### [Dementia: Walking speed in your 80s linked to 50% lower risk of brain decline - GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
-
-2026-08-14
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
 
 ---
 

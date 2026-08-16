@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,39 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
+
+2026-08-16
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
+
+---
+
+### [Diabetes: Endometriose erhöht das Risiko deutlicht](https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3Q4U1dyWmREdGZJYjljeWVXVVVpMWhVcTdLOTZGZEx3NWh1Wk5FZE9vQ0lQamQxd09mdF8wQlNfNndLaFFxeVFhdlR1NlYxR05YMk1kSmc3OUZmWE82Z3lTU21IVVluRXUzcHNKaFlCeVE4SWVZcDZGZVRJREZlbnc0REVEdThBNjUxaHgwM25McmJxQ251NnFOV0FSTU1BT21Uak1HdjNyWW1lWW1mZw?oc=5)
+
+2026-08-16
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3Q4U1dyWmREdGZJYjljeWVXVVVpMWhVcTdLOTZGZEx3NWh1Wk5FZE9vQ0lQamQxd09mdF8wQlNfNndLaFFxeVFhdlR1NlYxR05YMk1kSmc3OUZmWE82Z3lTU21IVVluRXUzcHNKaFlCeVE4SWVZcDZGZVRJREZlbnc0REVEdThBNjUxaHgwM25McmJxQ251NnFOV0FSTU1BT21Uak1HdjNyWW1lWW1mZw?oc=5)
+
+---
+
+### [La dieta che “spegne” il diabete: Il potere nascosto di fibre e flavonoidi](https://news.google.com/rss/articles/CBMivwFBVV95cUxOekh6dnlIWFVnSXFJMWxNd1hyVG5vZ19jVk5XQ1gtbTVqVlVoZHdadXpGZVA3ZjdsWlJfYUNmeWp5QUpEWkItY3VPdHo5NmJZYkNEZDM4c1M2WDhjZ2dEYlV5UWJfN1p1Wm9zcU1WOFFtejM2NkpENmZYMDFlYWhjNkVJdGlKenVyajhNeDc2ZUN2bHBxUHFrSWJnQ2dnYnhKaUplaEZuamo4VVZTa3BZNml3N3g0TEFIQmhzS2NDTQ?oc=5)
+
+2026-08-16
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOekh6dnlIWFVnSXFJMWxNd1hyVG5vZ19jVk5XQ1gtbTVqVlVoZHdadXpGZVA3ZjdsWlJfYUNmeWp5QUpEWkItY3VPdHo5NmJZYkNEZDM4c1M2WDhjZ2dEYlV5UWJfN1p1Wm9zcU1WOFFtejM2NkpENmZYMDFlYWhjNkVJdGlKenVyajhNeDc2ZUN2bHBxUHFrSWJnQ2dnYnhKaUplaEZuamo4VVZTa3BZNml3N3g0TEFIQmhzS2NDTQ?oc=5)
+
+---
+
+### [Simple dinner time habit could help 'prevent diabetes' - Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTc5M2kwekpXejIybEoxWlc4UnN4YmE2aUIxeUJPb1NzcUNIaE1MT0dIZ1VXYUFDcFVuTVJPMkxKWE9iTmdQX3dHMmxzU1ZvT1poVEVPaFhwQlgxSkhrMGhrbWZ5TnJPbURYMmFZbVUzSE5zblZKZEw0REVPM25ueEItM1hfQkXSAYwBQVVfeXFMTl9IcVlSeHNtS3lsMUJkeDVQc0lndjdwT3N6SUZmMnM2am1renByREozVk1sVnBJS3R1SG1Fc3BxQnpmbnktT0RrQWlucEdhdUU1cFhmc0hqekt1cXRLZ1JVZGtJWmxhRndqNEIxcHBldjk1V1ZkVi1XeDJKclRNUDBUWTB1XzVpb0FxT3g?oc=5)
+
+2026-08-16
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTc5M2kwekpXejIybEoxWlc4UnN4YmE2aUIxeUJPb1NzcUNIaE1MT0dIZ1VXYUFDcFVuTVJPMkxKWE9iTmdQX3dHMmxzU1ZvT1poVEVPaFhwQlgxSkhrMGhrbWZ5TnJPbURYMmFZbVUzSE5zblZKZEw0REVPM25ueEItM1hfQkXSAYwBQVVfeXFMTl9IcVlSeHNtS3lsMUJkeDVQc0lndjdwT3N6SUZmMnM2am1renByREozVk1sVnBJS3R1SG1Fc3BxQnpmbnktT0RrQWlucEdhdUU1cFhmc0hqekt1cXRLZ1JVZGtJWmxhRndqNEIxcHBldjk1V1ZkVi1XeDJKclRNUDBUWTB1XzVpb0FxT3g?oc=5)
+
+---
 
 ### [Hydratation: Ein Drittel der älteren Menschen unterversorgt](https://news.google.com/rss/articles/CBMirAFBVV95cUxNaVhPelBZcExVc1RvdFN5eFNwVktSeUVOYU5Tbm44UzNCSmF0b1E5NVhmcVVqc1RGNlRtYVFmWW5YVVYzRnlpanJpenItaFRWUVBmaE5zNGpLVEwxcUtjM3NlMWN1M3B6enNaVkY5eHEtclFHbThOa0tOS25VcTgwUkhrZzNIZDRmMFE4RUpkSFJvTEhxNXdDRnlPSzVISFFDYVZVRVJxWTBkZU0z?oc=5)
 
@@ -136,7 +168,7 @@ permalink: /news/diabetes-mellitus/
 
 2026-08-14
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRrT0FwR1Rxc3hFdHRzNjJzUlNYemE0c3h5U3VjczZTMFdwNGRFdS1odTNyMHlONVpVWkhVT1hLcU1qVGUybjk1dUdSOC11a0U5anNibUZCZ2xaOGFweGZ4SXBIUDJ6a2NPNHNNcmR6VFZ2Z1QzM0NpaWM1dmFVTC1ta2pRRDRxQmdRVkdXUmJ4MDNTWFJZbF92TEoxc2F0VkViY1hsSWRCTDBkOGM4R2tB?oc=5)
+來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRrT0FwR1Rxc3hFdHRzNjJzUlNYemE0c3h5U3VjczZTMFdwNGRFdS1odTNyMHlONVpVWkhVT1hLcU1qVGUybjk1dUdSOC11a0U5anNibUZCZ2xaOGFweGZ4SXBIUDJ6a2NPNHNNcmR6VFZ2Z1QzM0NpaWM1dmFVTC1ta2pRRDRxQmdRVkdXUmJ4MDNTWFJZbF92TEoxc2F0VkViY1hsSWRCTDBkOGM4R2tB?oc=5)
 
 ---
 
@@ -153,14 +185,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-14
 
 來源：[National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
-
----
-
-### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
-
-2026-08-14
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
 ---
 
