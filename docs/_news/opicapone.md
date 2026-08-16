@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Man, 90, with Parkinson's walks 90 miles for charity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05UHd5azBTbjU5VDBFTnJicW5ycEpodWdtMUYtYTFicUpodjhMWlRqbjlkNlRyVVFDdVRuRzVaYm9LZlY1RS1CWVJjaHZhR0N3ZjhaOTJORWxaeC04?oc=5)
+### ['I'm a neurologist - these symptoms can appear years before a Parkinson's diagnosis' - GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
 
-2026-08-15 <span class="news-indication-tag">Parkinson's</span>
+2026-08-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05UHd5azBTbjU5VDBFTnJicW5ycEpodWdtMUYtYTFicUpodjhMWlRqbjlkNlRyVVFDdVRuRzVaYm9LZlY1RS1CWVJjaHZhR0N3ZjhaOTJORWxaeC04?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
+
+---
+
+### [Besançon : une journée pour mieux comprendre la recherche sur la maladie de Parkinson](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUo2MmNCNU1TZW1BMUwtZkNyZ2FRX1huUFVrTl9uMTFpSEFtOUh0R0ZEN2JqVnh6M3FDdGhUSUo5ancwQmdTSDRpR0ZKanFhbGhBamJGRzFkRTlnZHZPMnM2WHo4SHRtNE5ldE9zZHo5UGdONDA1Z3pYTVRMYkl4STFXZWx4c2d3dkV1RUo1ZVIxemxqaUlEQUNJVWpiZ2FxOWRLajhENzdWU3JGaG1Lbw?oc=5)
+
+2026-08-15 <span class="news-indication-tag">maladie de Parkinson</span>
+
+來源：[maCommune.info](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUo2MmNCNU1TZW1BMUwtZkNyZ2FRX1huUFVrTl9uMTFpSEFtOUh0R0ZEN2JqVnh6M3FDdGhUSUo5ancwQmdTSDRpR0ZKanFhbGhBamJGRzFkRTlnZHZPMnM2WHo4SHRtNE5ldE9zZHo5UGdONDA1Z3pYTVRMYkl4STFXZWx4c2d3dkV1RUo1ZVIxemxqaUlEQUNJVWpiZ2FxOWRLajhENzdWU3JGaG1Lbw?oc=5)
 
 ---
 

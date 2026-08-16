@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [La GAI de Guadalajara avanza en la lucha contra el cáncer - La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1dpaTNhV3dDSUh2Ym5HTE1BMkNVNVpndzVObm9rdGNLZ2Z4UDVlYVJxbG84MEN5NU1NbW1hd21xTllGZ2tNRGk0Mk8wTGNtZkc0WkFnbFlEZl9MazlOemtydHlqam5xaTBteThHY0Y0U29RMXFjaDZ6MWhUS3FhU3NSbDdFbTNMYjFhUmFPcmJYUUlEeXdWdHZFS2Y3bVB6c0FvSk8xaWQydFBscUEyZjlDQnIxcjZoRG82SnZ4Rm9wU1VlMWZDOHBmLWNBSF82NXI3SWd0U3NEQnJT?oc=5)
+### [El Hospital de Guadalajara abre una “prometedora línea” para la prevención del cáncer de hígado - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
 
-2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">hepatitis</span>
+2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1dpaTNhV3dDSUh2Ym5HTE1BMkNVNVpndzVObm9rdGNLZ2Z4UDVlYVJxbG84MEN5NU1NbW1hd21xTllGZ2tNRGk0Mk8wTGNtZkc0WkFnbFlEZl9MazlOemtydHlqam5xaTBteThHY0Y0U29RMXFjaDZ6MWhUS3FhU3NSbDdFbTNMYjFhUmFPcmJYUUlEeXdWdHZFS2Y3bVB6c0FvSk8xaWQydFBscUEyZjlDQnIxcjZoRG82SnZ4Rm9wU1VlMWZDOHBmLWNBSF82NXI3SWd0U3NEQnJT?oc=5)
+來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/givosiran/
 2026-08-15 <span class="news-indication-tag">hypertension</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
-
----
-
-### [Vuoti di memoria dopo i 50 anni: i 3 fattori decisivi da controllare subito per allontanare la demenza di oltre 10 anni](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
 
 ---
 

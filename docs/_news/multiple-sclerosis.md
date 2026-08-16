@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。13 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>13 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,31 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（9 則）
+
+### [Clarkson condemns decision to strip men of right to prostate cancer test - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5)
+
+2026-08-16
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5)
+
+---
+
+### ['I'm a neurologist - these symptoms can appear years before a Parkinson's diagnosis' - GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
+
+2026-08-16
+
+來源：[GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
+
+---
+
+### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+
+2026-08-16
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+
+---
 
 ### [Meningitis jab plea to North East and Cumbria students](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNbXJpM0lOZUQzZlo2MHg1dkhOaFFMWGlyNWtSN1A5RUIxUHJHTWF1SldNNENmM2ktRmIxb2E1MDJsS1FRdUxGS3dDVG1OdlN5S0l1MzJsTndObVNo?oc=5)
 
@@ -64,11 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [A Crucial Part of The Brain's Memory Center Seems to Shrink in People With Depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5)
+### [Killer kitchen dust victims could be screened in boost for i Paper campaign - The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxOclFDTXVzY0Y0V2ViSDhjVjQxVmNadF9ETVhwdVJmQ0R6LWRzOVprVjBaY3NWMi1GR3otcUhhTzFaazRaMVlsd2RyN2xIUHo2ekpXQndGRkpTWTRLNHRGOG9vZVdLdUFxQVI0YnZUdWxFbEtUb3ZWSU1leFF4NjBMSmdOU1JXeTJnQlRHMQ?oc=5)
 
 2026-08-16
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxOclFDTXVzY0Y0V2ViSDhjVjQxVmNadF9ETVhwdVJmQ0R6LWRzOVprVjBaY3NWMi1GR3otcUhhTzFaazRaMVlsd2RyN2xIUHo2ekpXQndGRkpTWTRLNHRGOG9vZVdLdUFxQVI0YnZUdWxFbEtUb3ZWSU1leFF4NjBMSmdOU1JXeTJnQlRHMQ?oc=5)
 
 ---
 
@@ -80,19 +104,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [I fear contraceptive jab I took for 10yrs gave me devastating brain tumour](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+### [I fear contraceptive jab I took for 10yrs gave me devastating brain tumour - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
 
 2026-08-15
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
 
 ---
 
-### [My son stopped taking his ADHD drugs for 6 weeks...the results shocked us](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjhYb1A0SXg5WWxUZ0ZWZlU4RkRMQjh0cWF1cUhVUWxHYkU3ekRETnNXUUZ2MFhuUXZvbV8yNzRVdktRNVFfcW92LXZrcjlOVUkwWEM1QV9Mekd0MUdIOEU1eWh0UDRiS3piNF9jSmFXQ1pXX1RvUEdpOVNmcTg0OEpHcG53UUVQcWFkR3E3RQ?oc=5)
+### [My son stopped taking his ADHD drugs for 6 weeks...the results shocked us - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjhYb1A0SXg5WWxUZ0ZWZlU4RkRMQjh0cWF1cUhVUWxHYkU3ekRETnNXUUZ2MFhuUXZvbV8yNzRVdktRNVFfcW92LXZrcjlOVUkwWEM1QV9Mekd0MUdIOEU1eWh0UDRiS3piNF9jSmFXQ1pXX1RvUEdpOVNmcTg0OEpHcG53UUVQcWFkR3E3RQ?oc=5)
 
 2026-08-15
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjhYb1A0SXg5WWxUZ0ZWZlU4RkRMQjh0cWF1cUhVUWxHYkU3ekRETnNXUUZ2MFhuUXZvbV8yNzRVdktRNVFfcW92LXZrcjlOVUkwWEM1QV9Mekd0MUdIOEU1eWh0UDRiS3piNF9jSmFXQ1pXX1RvUEdpOVNmcTg0OEpHcG53UUVQcWFkR3E3RQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjhYb1A0SXg5WWxUZ0ZWZlU4RkRMQjh0cWF1cUhVUWxHYkU3ekRETnNXUUZ2MFhuUXZvbV8yNzRVdktRNVFfcW92LXZrcjlOVUkwWEM1QV9Mekd0MUdIOEU1eWh0UDRiS3piNF9jSmFXQ1pXX1RvUEdpOVNmcTg0OEpHcG53UUVQcWFkR3E3RQ?oc=5)
 
 ---
 
@@ -100,63 +124,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-08-15
 
-來源：[nn.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0JJZnMySnM4QlNiTlN3YUJmWHUxR19XTk5HNy1CaFFrZHpHa0VoZkprZ0RhT1pJTFZWSjk0MFE1SmJ6cTlOWnNlQmliRHM4YlpVT0JZUGZlZk52ckZfTUhmYmQxRHJ6bzRoVVNrb3h5NkVENEtWMjF4Y016NFNKbWxFaUhHNlc2TUgtZFEtUk9STlBhYzkyeFUtOHdBc2FNenJfX1N1d2YwVkEycmhncVVpT0lVV3pRLTNYSUx2cw?oc=5)
-
----
-
-### [Reducción de vacunas y nueva pirámide alimentaria: la transformación silenciosa del sistema de salud en Estados Unidos en la era de Donald Trump - El Tiempo](https://news.google.com/rss/articles/CBMiogJBVV95cUxPcEo2SUpsS3o5WHV3NC1wT0FIcjM0OTgzeDBaZVI2bS1NenpHeUR2X2doWmZyOElIemhheEg4SEhzd3J1U1hZcWNiVFo4eE5HelBDanhSWlFCSzNZSndxQ25iRXRlcTBrbVZESVNaVXVDUDRMazMzSG8xVDZKNVJab09MMVhEaGRmNUtYQmJfM3hjYXF4RWxaUU5zVnpWUEh5TVhtU0dwdHo3OENoY3FmR2lXLTlwdHJ1YllmZ2dxdUlSNm1GajdDOXFOM0psNEtub2VSbHVNdVVSNDdacmJnUF92XzNFSzdPa00tSXFNZW8zd21SMlVvRGNhMDJaV3k2UFBwVUt1WjViVDRZbi1jRVlWUkxXZUpBeDFHVHFQTzRNd9IBpwJBVV95cUxQSmhkSlduMU51d1V4NHhLVk1qZEw0Yy1SWkxZdy1VVV8zRDFvT25KdmZJS1FGdEgxLTY5TFBMRmJzeTNpVGd0QV85Y3plU2hBRmktc3VXWmN6RDdMNE1tMkJ3Zl9pd1MwbXd2WjJUOE5kUUdJOWlTV3p3X3VkU2FYUHRtV01Gelc2WlF6MjNvbXZZNDl2aHBaVHdUa1NIcXZROEZLcWhNNVVPRUs2TE11MHpLYWV0ckx0U2ZsYXkxaGlwalc4VjVOMWVicjlGS1pDSU5DVjJYOFJzZVQ3dnREWDlGaFkxMDFKNnJnb21SRW41VFJBRWRvRmxZTGR3LTkxZXdGUG84MmRpSWFza09UQjREVmtocnpEOHc3dFdCRmxPT2d3N3l3?oc=5)
-
-2026-08-15
-
-來源：[El Tiempo](https://news.google.com/rss/articles/CBMiogJBVV95cUxPcEo2SUpsS3o5WHV3NC1wT0FIcjM0OTgzeDBaZVI2bS1NenpHeUR2X2doWmZyOElIemhheEg4SEhzd3J1U1hZcWNiVFo4eE5HelBDanhSWlFCSzNZSndxQ25iRXRlcTBrbVZESVNaVXVDUDRMazMzSG8xVDZKNVJab09MMVhEaGRmNUtYQmJfM3hjYXF4RWxaUU5zVnpWUEh5TVhtU0dwdHo3OENoY3FmR2lXLTlwdHJ1YllmZ2dxdUlSNm1GajdDOXFOM0psNEtub2VSbHVNdVVSNDdacmJnUF92XzNFSzdPa00tSXFNZW8zd21SMlVvRGNhMDJaV3k2UFBwVUt1WjViVDRZbi1jRVlWUkxXZUpBeDFHVHFQTzRNd9IBpwJBVV95cUxQSmhkSlduMU51d1V4NHhLVk1qZEw0Yy1SWkxZdy1VVV8zRDFvT25KdmZJS1FGdEgxLTY5TFBMRmJzeTNpVGd0QV85Y3plU2hBRmktc3VXWmN6RDdMNE1tMkJ3Zl9pd1MwbXd2WjJUOE5kUUdJOWlTV3p3X3VkU2FYUHRtV01Gelc2WlF6MjNvbXZZNDl2aHBaVHdUa1NIcXZROEZLcWhNNVVPRUs2TE11MHpLYWV0ckx0U2ZsYXkxaGlwalc4VjVOMWVicjlGS1pDSU5DVjJYOFJzZVQ3dnREWDlGaFkxMDFKNnJnb21SRW41VFJBRWRvRmxZTGR3LTkxZXdGUG84MmRpSWFza09UQjREVmtocnpEOHc3dFdCRmxPT2d3N3l3?oc=5)
-
----
-
-### [Psychologist Richard Wiseman spent years studying why some people consider themselves unusually lucky, then taught volunteers four of the behaviours he found — seek more chance opportunities, trust intuition, expect good things and turn setbacks aroun - Silicon Canals](https://news.google.com/rss/articles/CBMikgFBVV95cUxQamVVQWhxMWRXRjNsbl9vLVUwcF9ReHdRaWtrLUxud0hJVmd3UnRFOXp1aFZ3a1A1WnYwVzdHdEM3R05jS2c2VmhiaFN5ZnJOenh1aXpOVlV6ZlFjZ0lsQTBqSjRiY2pRdmk2VDc0ZTNyRXF1dWZJWW4xbmVxcXdhbVdMeXBMbUdPaHlUYW9ndHVZUQ?oc=5)
-
-2026-08-15
-
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMikgFBVV95cUxQamVVQWhxMWRXRjNsbl9vLVUwcF9ReHdRaWtrLUxud0hJVmd3UnRFOXp1aFZ3a1A1WnYwVzdHdEM3R05jS2c2VmhiaFN5ZnJOenh1aXpOVlV6ZlFjZ0lsQTBqSjRiY2pRdmk2VDc0ZTNyRXF1dWZJWW4xbmVxcXdhbVdMeXBMbUdPaHlUYW9ndHVZUQ?oc=5)
-
----
-
-### [Men ‘will lose right to prostate cancer tests’ - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGh6eTN1M2RnMmJfdTlNeTh0SWRzLW8xb21OQ29HZ0tLdXpiamJWU01mXzhNaEhfV1loM0VUNHJ4bFllckRwelRpcE5mTVZLbGp6UWRKaUl0NE1xakhzaEZiZEIxUzhvUGZBd1hralhXSmtvbm5TaFdlb3Y1M0VYeGJDUFg1amJPWjU3WXFCWHhOZw?oc=5)
-
-2026-08-14
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGh6eTN1M2RnMmJfdTlNeTh0SWRzLW8xb21OQ29HZ0tLdXpiamJWU01mXzhNaEhfV1loM0VUNHJ4bFllckRwelRpcE5mTVZLbGp6UWRKaUl0NE1xakhzaEZiZEIxUzhvUGZBd1hralhXSmtvbm5TaFdlb3Y1M0VYeGJDUFg1amJPWjU3WXFCWHhOZw?oc=5)
-
----
-
-### [Bowel cancer 'deadliest type for under-50s' and failing to improve - 4 signs](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
-
-2026-08-14
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFmZF9Edllnc09QUXptWHI5NWtPOVR4SWxvVjhWMENSUnhVWkJzM3U4TmRZZXVHaV96SUNJQkVPaVU3dUhvd1JQNVBPdDlxNWtfeEJjWDNEa3FEUnJFQTBhZnVFZVlFY2RfZ2NaaXFuU29TdThIODlYZWRFcW4xZ2k3Zw?oc=5)
-
----
-
-### [Stammtisch für MS-Betroffene und Angehörige trifft sich wieder nach der Sommerpause](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3k2TWtpM1hObHlJLWFDQy1vSVktY1ZvZmtoZnB4VjUyaXdyT0ZqSjNabmVRZzViZTNzRzZibWJQXy1QWjU4a3lFeVc0YkZOYVdoRzhTeFJNLXRZWm5TeWM3b2sxZUdGN1lSVUtfMmFYblFXLXVPWU0zTllaTUV5bklqWDN1eWw0ZTV4c2FnMWE1Y2xvaEx4c3hzOTdOdGg5ejZPWlJGM0RNRFhWSTIweGR1NjJDRl95aC1aSjB1UXg1cm1kV0dWT1J4cVRSd1pYSFFXUldtajNzU1NPa1E?oc=5)
-
-2026-08-14
-
-來源：[Stralsund.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3k2TWtpM1hObHlJLWFDQy1vSVktY1ZvZmtoZnB4VjUyaXdyT0ZqSjNabmVRZzViZTNzRzZibWJQXy1QWjU4a3lFeVc0YkZOYVdoRzhTeFJNLXRZWm5TeWM3b2sxZUdGN1lSVUtfMmFYblFXLXVPWU0zTllaTUV5bklqWDN1eWw0ZTV4c2FnMWE1Y2xvaEx4c3hzOTdOdGg5ejZPWlJGM0RNRFhWSTIweGR1NjJDRl95aC1aSjB1UXg1cm1kV0dWT1J4cVRSd1pYSFFXUldtajNzU1NPa1E?oc=5)
-
----
-
-### [Can antihistamines really help with PMDD and menopausal symptoms? - The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0Y1bzRYMlZDUlJlamVjZTJjWEZSd1QzMTFVbDBwR1ZPcDcxRGF4ODNxd0lSNUtiQ0dGZXRsNTAzOGFqWVJ6VTVfOGVOU2VZZzRwY2NwVkFZRnRwU1p6Y2RXWUtnTlVRLTZ6eWFwOVV6RzJxUERpSFhzQUZ1cTVXdXEtQlQ?oc=5)
-
-2026-08-14
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0Y1bzRYMlZDUlJlamVjZTJjWEZSd1QzMTFVbDBwR1ZPcDcxRGF4ODNxd0lSNUtiQ0dGZXRsNTAzOGFqWVJ6VTVfOGVOU2VZZzRwY2NwVkFZRnRwU1p6Y2RXWUtnTlVRLTZ6eWFwOVV6RzJxUERpSFhzQUZ1cTVXdXEtQlQ?oc=5)
-
----
-
-### [La OMS avisa que estos cambios en el estilo de vida pueden prevenir hasta el 45 % de los casos de demencia - National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
-
-2026-08-14
-
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
+來源：[NN.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0JJZnMySnM4QlNiTlN3YUJmWHUxR19XTk5HNy1CaFFrZHpHa0VoZkprZ0RhT1pJTFZWSjk0MFE1SmJ6cTlOWnNlQmliRHM4YlpVT0JZUGZlZk52ckZfTUhmYmQxRHJ6bzRoVVNrb3h5NkVENEtWMjF4Y016NFNKbWxFaUhHNlc2TUgtZFEtUk9STlBhYzkyeFUtOHdBc2FNenJfX1N1d2YwVkEycmhncVVpT0lVV3pRLTNYSUx2cw?oc=5)
 
 ---
 

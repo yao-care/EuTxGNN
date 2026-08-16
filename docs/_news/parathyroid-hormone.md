@@ -14,7 +14,7 @@ permalink: /news/parathyroid-hormone/
 ---
 
 <p class="key-answer" data-question="Parathyroid Hormone 有什麼相關新聞？">
-<strong>Parathyroid Hormone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parathyroid Hormone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/parathyroid-hormone/
 <p><a href="{{ '/drugs/parathyroid-hormone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [¿Cómo controlamos la migraña durante épocas de calor?: un neurólogo tiene las claves](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
+
+2026-08-16 <span class="news-indication-tag">migraña</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
+
+---
 
 ### [Il caldo dà alla testa. E non è solo un modo di dire](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
 

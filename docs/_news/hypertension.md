@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
 
@@ -106,14 +106,6 @@ permalink: /news/hypertension/
 2026-08-15
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
-
----
-
-### [Vuoti di memoria dopo i 50 anni: i 3 fattori decisivi da controllare subito per allontanare la demenza di oltre 10 anni](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
-
-2026-08-14
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
 
 ---
 

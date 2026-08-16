@@ -54,11 +54,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [A Crucial Part of The Brain's Memory Center Seems to Shrink in People With Depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5)
+### [Depressione, si può vedere con un esame del sangue? La molecola associata ai sintomi](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMG55M2pGZzlJWU44cUtjMktQVEdZa05DVEw1Q0dxS2hFTDY2YnM5VUU4UnJLS0Rad3hBcnd6LTV4UzRESEI0Y3pzYUZRWWxBSlVKOGl0UTNTS0JQN29uT3JsNkM0MEhHb2JLd2VYMTJTMkE1dnlCdmYxYTlBcko2WTVWVF9laW1rdEFBLVl5bVhUZFRGMC1CZ041S3EzbHliZG9hVHZVWi0zRXJzeElYSE8welRka1VOTFlqaWo1dzJKYzZEUkc3b0M1Sjg2RW5FVEVvVENOLWdYQQ?oc=5)
 
-2026-08-16 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-08-16 <span class="news-indication-tag">depression</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMG55M2pGZzlJWU44cUtjMktQVEdZa05DVEw1Q0dxS2hFTDY2YnM5VUU4UnJLS0Rad3hBcnd6LTV4UzRESEI0Y3pzYUZRWWxBSlVKOGl0UTNTS0JQN29uT3JsNkM0MEhHb2JLd2VYMTJTMkE1dnlCdmYxYTlBcko2WTVWVF9laW1rdEFBLVl5bVhUZFRGMC1CZ041S3EzbHliZG9hVHZVWi0zRXJzeElYSE8welRka1VOTFlqaWo1dzJKYzZEUkc3b0M1Sjg2RW5FVEVvVENOLWdYQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [¿Cómo controlamos la migraña durante épocas de calor?: un neurólogo tiene las claves](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
+
+2026-08-16 <span class="news-indication-tag">migraña</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
+
+---
 
 ### [Toxoplasma, svelato il segreto del parassita che si nasconde nel cervello. Lo studio Usa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
 

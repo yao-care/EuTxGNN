@@ -3,7 +3,7 @@ layout: default
 title: "heart disease 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "heart disease 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<strong>heart disease</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,7 +85,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+
+2026-08-16
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+
+---
 
 ### [I’m a 63-year-old personal trainer – how I turn everyday life into easy workouts - The i Paper](https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEhDRGRfZXBUS0c1VVV5LXJDMnFrSG5iTl9HQV9tcGkzZDBCM0hpM1ZaZTBXaV9ZWHdjVDZnbllOeVc4QWlpQUZVdmN6ZlNhenllaGZsWkZoMjFETVQyZWdvS0hhOU40OFpEOWx2Qkg1WTVOd1ZlRXZSaDZ5R1Y4QkoxTHJ3eFF0ajBza0RoMUhhYkFWY2E5MA?oc=5)
 

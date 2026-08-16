@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
+
+2026-08-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
+
+---
+
+### [El Hospital de Guadalajara abre una “prometedora línea” para la prevención del cáncer de hígado - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
+
+2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
+
+---
 
 ### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
 
@@ -78,11 +94,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [What is psyllium husk? Experts give a verdict on ‘nature’s Ozempic’ and whether to believe the hype - The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0c5MEcxRlRVQzRSc0p0V3F4RlpRMmEtLV8tQXlRcjRlRzI3M3lTRVRSNVJTWmYteUpJQjJSSWJPaEJCUi1TVWRGdUhZanBmVVhJTU82OEV2TTlWbS1GQm9JSjJ0bTFzVWxOQ0NUTVJlYm03c0VfZm1TN0RRMWVxUzNGQlUwc1ROM0xBV2hFNlc5WWl4RzBmcmlJLWpOU3o2UmpoODFjdHNiNElSbUE?oc=5)
+### [What is psyllium husk? Experts give a verdict on ‘nature’s Ozempic’ and whether to believe the hype](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0c5MEcxRlRVQzRSc0p0V3F4RlpRMmEtLV8tQXlRcjRlRzI3M3lTRVRSNVJTWmYteUpJQjJSSWJPaEJCUi1TVWRGdUhZanBmVVhJTU82OEV2TTlWbS1GQm9JSjJ0bTFzVWxOQ0NUTVJlYm03c0VfZm1TN0RRMWVxUzNGQlUwc1ROM0xBV2hFNlc5WWl4RzBmcmlJLWpOU3o2UmpoODFjdHNiNElSbUE?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0c5MEcxRlRVQzRSc0p0V3F4RlpRMmEtLV8tQXlRcjRlRzI3M3lTRVRSNVJTWmYteUpJQjJSSWJPaEJCUi1TVWRGdUhZanBmVVhJTU82OEV2TTlWbS1GQm9JSjJ0bTFzVWxOQ0NUTVJlYm03c0VfZm1TN0RRMWVxUzNGQlUwc1ROM0xBV2hFNlc5WWl4RzBmcmlJLWpOU3o2UmpoODFjdHNiNElSbUE?oc=5)
+來源：[independent.co.uk](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0c5MEcxRlRVQzRSc0p0V3F4RlpRMmEtLV8tQXlRcjRlRzI3M3lTRVRSNVJTWmYteUpJQjJSSWJPaEJCUi1TVWRGdUhZanBmVVhJTU82OEV2TTlWbS1GQm9JSjJ0bTFzVWxOQ0NUTVJlYm03c0VfZm1TN0RRMWVxUzNGQlUwc1ROM0xBV2hFNlc5WWl4RzBmcmlJLWpOU3o2UmpoODFjdHNiNElSbUE?oc=5)
 
 ---
 
@@ -107,30 +123,6 @@ permalink: /news/semaglutide/
 2026-08-15 <span class="news-indication-tag">diabète</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
-
----
-
-### [This Simple Measurement Could Expose a Hidden Diabetes Risk (And It’s Not Your Waistline)](https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRrT0FwR1Rxc3hFdHRzNjJzUlNYemE0c3h5U3VjczZTMFdwNGRFdS1odTNyMHlONVpVWkhVT1hLcU1qVGUybjk1dUdSOC11a0U5anNibUZCZ2xaOGFweGZ4SXBIUDJ6a2NPNHNNcmR6VFZ2Z1QzM0NpaWM1dmFVTC1ta2pRRDRxQmdRVkdXUmJ4MDNTWFJZbF92TEoxc2F0VkViY1hsSWRCTDBkOGM4R2tB?oc=5)
-
-2026-08-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRrT0FwR1Rxc3hFdHRzNjJzUlNYemE0c3h5U3VjczZTMFdwNGRFdS1odTNyMHlONVpVWkhVT1hLcU1qVGUybjk1dUdSOC11a0U5anNibUZCZ2xaOGFweGZ4SXBIUDJ6a2NPNHNNcmR6VFZ2Z1QzM0NpaWM1dmFVTC1ta2pRRDRxQmdRVkdXUmJ4MDNTWFJZbF92TEoxc2F0VkViY1hsSWRCTDBkOGM4R2tB?oc=5)
-
----
-
-### [Vuoti di memoria dopo i 50 anni: i 3 fattori decisivi da controllare subito per allontanare la demenza di oltre 10 anni](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
-
----
-
-### [La OMS avisa que estos cambios en el estilo de vida pueden prevenir hasta el 45 % de los casos de demencia - National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
-
-2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktfaGFZOHJOVGhkY2xIeHpLd1lkeXg3UGZqb3FOZ2x1d05HbGh0cmZHOVNFOWZUUTdLOFA0b1ZfRjk5X2xOTkVsMVhWejgzZm1WTkY2dFptdWMySktaeWV6X1ZlZTd0bFpmekE5ZEFuODh0ZklVYTJ5b2FSaHZoa01Bd3h1QVF6TTh3RmtfcDI2YXFpendiUXdKN1VHS1Y3WkQ5N3l3TUUwcllNQXg5RHhKbkVmeFpNeUhNc051S0phcWF2ZjdLSUNLaTZRQQ?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "emicrania（migraine） 相關新聞"
+title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# emicrania（migraine） 相關新聞
+# migraña（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
+<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,15 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [¿Cómo controlamos la migraña durante épocas de calor?: un neurólogo tiene las claves](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
+
+2026-08-16
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
+
+---
 
 ### [Il caldo dà alla testa. E non è solo un modo di dire](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
 

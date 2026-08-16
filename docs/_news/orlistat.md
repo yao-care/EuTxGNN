@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
 
-### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
+### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
 
 2026-08-16 <span class="news-indication-tag">obesità</span>
 
-來源：[ilmessaggero.it](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
+
+---
+
+### [Tumori, non conta solo l’età anagrafica: perché l’età biologica può cambiare prevenzione e cure](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
+
+2026-08-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
+
+---
+
+### [Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
+
+2026-08-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
 
 ---
 
@@ -86,11 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
 
 2026-08-16 <span class="news-indication-tag">Adipositas</span>
 
-來源：[augsburger-allgemeine.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
 
 ---
 

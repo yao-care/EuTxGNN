@@ -54,11 +54,11 @@ permalink: /news/ibuprofen/
 
 ## 相關新聞（2 則）
 
-### [Ibuprofen failed to ease agony of condition plaguing 1 in 6… £1 supp saved me](https://news.google.com/rss/articles/CBMikAFBVV95cUxNejJjVmNCMjdXZGJSOWRHY2RFQWo4WnR2enU3Q3BEWENsUWlidWpVVkxicDhKVk5xMkxObk1tU19CVzlhNnQybzdRQzNhWlhTNG1QYkxqOHI5Y1NfUEpFdFVuc2w0bmNaVW1POGtmdXhrTWw4Tlp4eWNoeHB5U2I2VGl0U0ZDdE5WTzJsa3ZFRDU?oc=5)
+### [Ibuprofen failed to ease agony of condition plaguing 1 in 6… £1 supp saved me - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNejJjVmNCMjdXZGJSOWRHY2RFQWo4WnR2enU3Q3BEWENsUWlidWpVVkxicDhKVk5xMkxObk1tU19CVzlhNnQybzdRQzNhWlhTNG1QYkxqOHI5Y1NfUEpFdFVuc2w0bmNaVW1POGtmdXhrTWw4Tlp4eWNoeHB5U2I2VGl0U0ZDdE5WTzJsa3ZFRDU?oc=5)
 
 2026-08-15 <span class="news-drug-tag">Ibuprofen</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxNejJjVmNCMjdXZGJSOWRHY2RFQWo4WnR2enU3Q3BEWENsUWlidWpVVkxicDhKVk5xMkxObk1tU19CVzlhNnQybzdRQzNhWlhTNG1QYkxqOHI5Y1NfUEpFdFVuc2w0bmNaVW1POGtmdXhrTWw4Tlp4eWNoeHB5U2I2VGl0U0ZDdE5WTzJsa3ZFRDU?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNejJjVmNCMjdXZGJSOWRHY2RFQWo4WnR2enU3Q3BEWENsUWlidWpVVkxicDhKVk5xMkxObk1tU19CVzlhNnQybzdRQzNhWlhTNG1QYkxqOHI5Y1NfUEpFdFVuc2w0bmNaVW1POGtmdXhrTWw4Tlp4eWNoeHB5U2I2VGl0U0ZDdE5WTzJsa3ZFRDU?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（7 則）
 
+### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+
+2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+
+---
+
 ### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
 
 2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
@@ -99,14 +107,6 @@ permalink: /news/telmisartan/
 2026-08-15 <span class="news-indication-tag">ictus</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
-
----
-
-### [Vuoti di memoria dopo i 50 anni: i 3 fattori decisivi da controllare subito per allontanare la demenza di oltre 10 anni](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMihAJBVV95cUxOeGtJSDBLNTk4ME8tMG5zWi1yT3pOVGRCeGpYanRvSkxvRHZtUDZWV0VXZTVtNEtkeFhWRVZKbW5RR1QwNExvckpTdkdqMTdUcEpObXk1R1I4RnNMSm5EZEs2YkhFaU84NnByT3gtajV4SDc5RnJaeDFUa09rNnE0dFFlZmRFcWUxM2xsTy00V28yWFJPZ1QwQjB1cHFxbEdiOF9FRTRjUU1UNG5jUUVOMmhTcExBVkxDVjRpazdSd09Qb1RUS1JlbkNRUzN4c2l0N2o0MXVQNjQzZjg3UlU4VElrWnQtZVo3OWQ3dnBJVUdWYnEtWHZHb1NUVmxvTFNqRjktSw?oc=5)
 
 ---
 

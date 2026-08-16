@@ -3,7 +3,7 @@ layout: default
 title: "Parkinson's（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Parkinson's（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "Parkinson's（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="Parkinson's（parkinson disease） 有什麼相關新聞？">
-<strong>Parkinson's（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>Parkinson's（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Man, 90, with Parkinson's walks 90 miles for charity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05UHd5azBTbjU5VDBFTnJicW5ycEpodWdtMUYtYTFicUpodjhMWlRqbjlkNlRyVVFDdVRuRzVaYm9LZlY1RS1CWVJjaHZhR0N3ZjhaOTJORWxaeC04?oc=5)
+### ['I'm a neurologist - these symptoms can appear years before a Parkinson's diagnosis' - GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
+
+2026-08-16
+
+來源：[GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
+
+---
+
+### [Besançon : une journée pour mieux comprendre la recherche sur la maladie de Parkinson](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUo2MmNCNU1TZW1BMUwtZkNyZ2FRX1huUFVrTl9uMTFpSEFtOUh0R0ZEN2JqVnh6M3FDdGhUSUo5ancwQmdTSDRpR0ZKanFhbGhBamJGRzFkRTlnZHZPMnM2WHo4SHRtNE5ldE9zZHo5UGdONDA1Z3pYTVRMYkl4STFXZWx4c2d3dkV1RUo1ZVIxemxqaUlEQUNJVWpiZ2FxOWRLajhENzdWU3JGaG1Lbw?oc=5)
 
 2026-08-15
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05UHd5azBTbjU5VDBFTnJicW5ycEpodWdtMUYtYTFicUpodjhMWlRqbjlkNlRyVVFDdVRuRzVaYm9LZlY1RS1CWVJjaHZhR0N3ZjhaOTJORWxaeC04?oc=5)
+來源：[maCommune.info](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUo2MmNCNU1TZW1BMUwtZkNyZ2FRX1huUFVrTl9uMTFpSEFtOUh0R0ZEN2JqVnh6M3FDdGhUSUo5ancwQmdTSDRpR0ZKanFhbGhBamJGRzFkRTlnZHZPMnM2WHo4SHRtNE5ldE9zZHo5UGdONDA1Z3pYTVRMYkl4STFXZWx4c2d3dkV1RUo1ZVIxemxqaUlEQUNJVWpiZ2FxOWRLajhENzdWU3JGaG1Lbw?oc=5)
 
 ---
 
