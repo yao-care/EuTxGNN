@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [Hydratation: Ein Drittel der älteren Menschen unterversorgt](https://news.google.com/rss/articles/CBMirAFBVV95cUxNaVhPelBZcExVc1RvdFN5eFNwVktSeUVOYU5Tbm44UzNCSmF0b1E5NVhmcVVqc1RGNlRtYVFmWW5YVVYzRnlpanJpenItaFRWUVBmaE5zNGpLVEwxcUtjM3NlMWN1M3B6enNaVkY5eHEtclFHbThOa0tOS25VcTgwUkhrZzNIZDRmMFE4RUpkSFJvTEhxNXdDRnlPSzVISFFDYVZVRVJxWTBkZU0z?oc=5)
+
+2026-08-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNaVhPelBZcExVc1RvdFN5eFNwVktSeUVOYU5Tbm44UzNCSmF0b1E5NVhmcVVqc1RGNlRtYVFmWW5YVVYzRnlpanJpenItaFRWUVBmaE5zNGpLVEwxcUtjM3NlMWN1M3B6enNaVkY5eHEtclFHbThOa0tOS25VcTgwUkhrZzNIZDRmMFE4RUpkSFJvTEhxNXdDRnlPSzVISFFDYVZVRVJxWTBkZU0z?oc=5)
+
+---
 
 ### [Diabète : cinq réflexes à adopter par temps chaud - Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
 
@@ -62,27 +70,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [What are ‘Ozempic Teeth’? Dentists explain the GLP-1 link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFdiUExkbW5BdEZydC1kdzdJU3doeDd0MjFHQjVSblh0RG03T3JUS2FmN0tLbUJrWURScDlvcEp5bV9UekpNQXB6RmJ1WGw3S1lHa3l3T3gzQjluQmhUWlVpNGpqZUtzamExMmJhV2o1SFBjUnp3aXRmU21OUnhhOGhtSnhpMkpkb0E2ZjlCZzZYWEZkVmc?oc=5)
-
-2026-08-14 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[HOLA](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFdiUExkbW5BdEZydC1kdzdJU3doeDd0MjFHQjVSblh0RG03T3JUS2FmN0tLbUJrWURScDlvcEp5bV9UekpNQXB6RmJ1WGw3S1lHa3l3T3gzQjluQmhUWlVpNGpqZUtzamExMmJhV2o1SFBjUnp3aXRmU21OUnhhOGhtSnhpMkpkb0E2ZjlCZzZYWEZkVmc?oc=5)
-
----
-
 ### [This Simple Measurement Could Expose a Hidden Diabetes Risk (And It’s Not Your Waistline)](https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRrT0FwR1Rxc3hFdHRzNjJzUlNYemE0c3h5U3VjczZTMFdwNGRFdS1odTNyMHlONVpVWkhVT1hLcU1qVGUybjk1dUdSOC11a0U5anNibUZCZ2xaOGFweGZ4SXBIUDJ6a2NPNHNNcmR6VFZ2Z1QzM0NpaWM1dmFVTC1ta2pRRDRxQmdRVkdXUmJ4MDNTWFJZbF92TEoxc2F0VkViY1hsSWRCTDBkOGM4R2tB?oc=5)
 
 2026-08-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisgFBVV95cUxObzRrT0FwR1Rxc3hFdHRzNjJzUlNYemE0c3h5U3VjczZTMFdwNGRFdS1odTNyMHlONVpVWkhVT1hLcU1qVGUybjk1dUdSOC11a0U5anNibUZCZ2xaOGFweGZ4SXBIUDJ6a2NPNHNNcmR6VFZ2Z1QzM0NpaWM1dmFVTC1ta2pRRDRxQmdRVkdXUmJ4MDNTWFJZbF92TEoxc2F0VkViY1hsSWRCTDBkOGM4R2tB?oc=5)
-
----
-
-### [Demenzrisiko: Rauchen, Bluthochdruck, Diabetes reduzieren Leben um 12 Jahre](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEtLdnp5ZzJES3c2cEV3NFN4WHMyZnlLc0lORGZpNlNrMTdUUHRERTVkRGFSTmxmSVhkSHFzZklQb09vN01xb1RJZkJCNUdiNDdLYzhVM0Itdm0yZkNvdjV0MndDcDdGMUlVSVdld3c5Y3duak1Ia0JxOW94aFMycUVrUkFuMUxVSlJaMU9UVW5vcXVYSGU5czdnODVqT3VQUVd0MEEtNC15amJVV1hnajZaSGQwZw?oc=5)
 
 ---
 
@@ -102,19 +94,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Mangelernährung beginnt oft leise](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSTl0RVZ0b0hmcV9DOFJWTk5aUzg2d2JEeVZDR2kydnJiYVUzQmZCWkpDRmZSdGpoNUg5NHVoWHNQcHU1U3JSejMyRUlGT19tRnQtNUlrdUlqZEdmVjJYQUU3VW9vLXJaM1I2VmNRLWRfSmM?oc=5)
+### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
-2026-08-14 <span class="news-indication-tag">diabetes</span>
+2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSTl0RVZ0b0hmcV9DOFJWTk5aUzg2d2JEeVZDR2kydnJiYVUzQmZCWkpDRmZSdGpoNUg5NHVoWHNQcHU1U3JSejMyRUlGT19tRnQtNUlrdUlqZEdmVjJYQUU3VW9vLXJaM1I2VmNRLWRfSmM?oc=5)
-
----
-
-### [„Das ist wirklich nicht das, was passiert“: Expertinnen räumen mit dem Ozempic-Muskelmythos auf - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVFzYjlRRGdhR0tWc19nenBON2FwR2hXaUpfbEZCWGlGUHJHUmZEcWN3cW55c0RfQXNENk5wQWtWR1lCZ2Y0QVRBdnN5VkZ3UDJ5ZWJvUFlSdDMzOWQtZzNENlNBcDk1eV9YWWVULVBSTmM0QTYxWEpDNlZDUkR5a3JZMklqWGpFUXlIZk9iUmtOM2JXa2RVbldzVkxuazdYVXBSSU80RXR2Y0U2dTBKQm5IcmFFSXJtbFU1OTFLTUU5RU5UUkl3VFNYcUYwa29pRjN1ZA?oc=5)
-
-2026-08-14 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVFzYjlRRGdhR0tWc19nenBON2FwR2hXaUpfbEZCWGlGUHJHUmZEcWN3cW55c0RfQXNENk5wQWtWR1lCZ2Y0QVRBdnN5VkZ3UDJ5ZWJvUFlSdDMzOWQtZzNENlNBcDk1eV9YWWVULVBSTmM0QTYxWEpDNlZDUkR5a3JZMklqWGpFUXlIZk9iUmtOM2JXa2RVbldzVkxuazdYVXBSSU80RXR2Y0U2dTBKQm5IcmFFSXJtbFU1OTFLTUU5RU5UUkl3VFNYcUYwa29pRjN1ZA?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,29 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Salire le scale ogni giorno riduce del 39% il rischio cardiovascolare - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
+### [Salire le scale ogni giorno riduce del 39% il rischio cardiovascolare](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
 
 2026-08-15
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
+來源：[ilfattoquotidiano.it](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
 
 ---
 
-### [Por qué aumentan los casos de ictus en jóvenes - La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
+### [Treppensteigen kann laut Studie lebensverlängernd wirken](https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbU5CanFDS3BpR3JUOU5wQ01GRkNJVVlPSXBLdWpaOC1zWmgxYlhIMmhJRkFCSWdNUTk4c2M2eF9BMFNCYTlRRzBEcTViQVBfWW03aVdlSk5zaFFCQkg0eHQySVFGVm5Qdl9DODROcGx3S1dPa2c?oc=5)
 
 2026-08-15
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbU5CanFDS3BpR3JUOU5wQ01GRkNJVVlPSXBLdWpaOC1zWmgxYlhIMmhJRkFCSWdNUTk4c2M2eF9BMFNCYTlRRzBEcTViQVBfWW03aVdlSk5zaFFCQkg0eHQySVFGVm5Qdl9DODROcGx3S1dPa2c?oc=5)
+
+---
+
+### [Por qué aumentan los casos de ictus en jóvenes](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
+
+2026-08-15
+
+來源：[lavanguardia.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
 
 ---
 

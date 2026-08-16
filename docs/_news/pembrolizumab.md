@@ -14,7 +14,7 @@ permalink: /news/pembrolizumab/
 ---
 
 <p class="key-answer" data-question="Pembrolizumab 有什麼相關新聞？">
-<strong>Pembrolizumab</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pembrolizumab</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/pembrolizumab/
 <p><a href="{{ '/drugs/pembrolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
 
-### [Curcumin-Berberin-Kombination gegen Alzheimer & Krebs?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNsRVh3WTVIZ2tmTmRnU3RFcnRvRkRPZDNqSHk2TUZ6V09ESWtZeS1MVVhCbDh1QVBxQkJTd0tPR3RkYk03UmdSYVhQVVhpVGxfVEpxZnRwM2JBT1VjYy1BY0hEWVVXclVIVTFEZGRFRDZGLUhNZGZXdlYtc05CSTZhUTlRUXZYc1FBT3BVdGRxcm9QNHc0RTRfbFZIVHktOWxpaHZvbDRQXzZZLUVuYUJ3?oc=5)
+### [Curcumin plus Berberin: Welche Mechanismen hinter der KI-Kombination bei Alzheimer und Krebs stehen - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzRkSkpEc1pCVi1WNjN5bS15bGRhaDlOM1lXSVZtS0UxdGU0LUNyeGhfMUxDMEcybkZvM1pSak1aTXUwckI2ZE9IRFRDWjlhdEJYNzNqU09rT09rTlBiN28xbkRzV0RwQmcxMXNwS3lPRkl5TDdUc05LYVRmNkJCeUNFUkp0dXZGcU5ZaV84OVhJNUtoTXV6eHhuc3NOZXN4MDgwcDNjVkFNREV4UERGWTFwa0syNFl0anY0UXQ4NTBqQTJ2VmlBZUFn?oc=5)
 
-2026-08-15 <span class="news-indication-tag">Krebs</span>
+2026-08-16 <span class="news-indication-tag">Krebs</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNsRVh3WTVIZ2tmTmRnU3RFcnRvRkRPZDNqSHk2TUZ6V09ESWtZeS1MVVhCbDh1QVBxQkJTd0tPR3RkYk03UmdSYVhQVVhpVGxfVEpxZnRwM2JBT1VjYy1BY0hEWVVXclVIVTFEZGRFRDZGLUhNZGZXdlYtc05CSTZhUTlRUXZYc1FBT3BVdGRxcm9QNHc0RTRfbFZIVHktOWxpaHZvbDRQXzZZLUVuYUJ3?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzRkSkpEc1pCVi1WNjN5bS15bGRhaDlOM1lXSVZtS0UxdGU0LUNyeGhfMUxDMEcybkZvM1pSak1aTXUwckI2ZE9IRFRDWjlhdEJYNzNqU09rT09rTlBiN28xbkRzV0RwQmcxMXNwS3lPRkl5TDdUc05LYVRmNkJCeUNFUkp0dXZGcU5ZaV84OVhJNUtoTXV6eHhuc3NOZXN4MDgwcDNjVkFNREV4UERGWTFwa0syNFl0anY0UXQ4NTBqQTJ2VmlBZUFn?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/pembrolizumab/
 2026-08-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMWlvUmdOZEJxTkxkdUotRTg4enlCM2hjS1V2T2h6UkRjOXRMNERjOXo0NnZ0a0V4eFZ6eWRqYkVEbndqa0JLc2o5dTJ3M2l3bXlMSG1UT196TDVSNzRybDFieWdvQjRnbWdmUEYxQkpZcjZrZDluMXVYTXBaTVdvbW5rYlhmZmRwVUdGazZMRFpLNFVvMExLQ2dZRmVhMlBoWDhLT3pTLW9mdHhNQk9ybEZJTTBaY001dllzTGpkRjFTaHdKU3ZEUktwNHBoY3Y2VEg5OHhXNWNYcGM?oc=5)
+
+---
+
+### [Bladder cancer fears as thousands wait weeks for urgent hospital check - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXNSaVk1MTZnU0pqdEtUY3lxZVdXTkxCaEJtb2dzSlM1S2JRSE5JM2dudURsS0NuQkJ0Ym9vVlhpRHlBOF9vMkdnVENhY080SndNRmhKdC1fWGEtbS1NajlsUmNfLU5naDRpNkVwUjdzRmhVUXZLV3psU1NSc0V6LW1lT2pFQzBhc1pF0gGQAUFVX3lxTE5acFdGTHAwOEJqT0hmR1RjZUY3dVZSSXVpNXRBNXlSX3dQMFhJTDQ0NHJBcU1Id0lZV1R1RlhLRi1NVTY5S3lheGVHYzFvcGVfemtUVFloZFQtVTgyXy1jVmdpbDNzelVRMFFTQWNSa0x1UU1kUkVKT3RFajVFU1owaGxLTFE2NF9LSG5VclBtZg?oc=5)
+
+2026-08-15 <span class="news-indication-tag">cancer</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXNSaVk1MTZnU0pqdEtUY3lxZVdXTkxCaEJtb2dzSlM1S2JRSE5JM2dudURsS0NuQkJ0Ym9vVlhpRHlBOF9vMkdnVENhY080SndNRmhKdC1fWGEtbS1NajlsUmNfLU5naDRpNkVwUjdzRmhVUXZLV3psU1NSc0V6LW1lT2pFQzBhc1pF0gGQAUFVX3lxTE5acFdGTHAwOEJqT0hmR1RjZUY3dVZSSXVpNXRBNXlSX3dQMFhJTDQ0NHJBcU1Id0lZV1R1RlhLRi1NVTY5S3lheGVHYzFvcGVfemtUVFloZFQtVTgyXy1jVmdpbDNzelVRMFFTQWNSa0x1UU1kUkVKT3RFajVFU1owaGxLTFE2NF9LSG5VclBtZg?oc=5)
 
 ---
 
@@ -98,7 +106,7 @@ permalink: /news/pembrolizumab/
 
 2026-08-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXBLaTFlLXZLbloxSVRlc1lGMGVOVE5zUGtoUG5XbXc3MVJPUHN0TzVvMjh5SS1wRGY4ZlU3Q0o0QUxwVExFNU9XMldnZFQ4ZVBZQmdvUkRpS0l1UXY5TzRILUI2Vmh4NlJFQU1Fd05XZVlBdTBBQVh6LUdvV1FYS2g3UDJjWmNDRWJITDRDMEpJemhjX256cFZNb2VwUDg3N2ZRQWJ4ZFdwVG5TUDlGNDJUTlhjU1hFZXhqZ3p1ajFGUQ?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXBLaTFlLXZLbloxSVRlc1lGMGVOVE5zUGtoUG5XbXc3MVJPUHN0TzVvMjh5SS1wRGY4ZlU3Q0o0QUxwVExFNU9XMldnZFQ4ZVBZQmdvUkRpS0l1UXY5TzRILUI2Vmh4NlJFQU1Fd05XZVlBdTBBQVh6LUdvV1FYS2g3UDJjWmNDRWJITDRDMEpJemhjX256cFZNb2VwUDg3N2ZRQWJ4ZFdwVG5TUDlGNDJUTlhjU1hFZXhqZ3p1ajFGUQ?oc=5)
 
 ---
 
@@ -110,11 +118,11 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [‘Mum worked into her 70s. Her £250k savings were lost to dementia care’](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
+### [‘Mum worked into her 70s. Her £250k savings were lost to dementia care’ - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
 
 2026-08-15 <span class="news-indication-tag">dementia</span>
 
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
 
 ---
 
@@ -150,27 +158,11 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [Edinburgh mum's 'lifeline' as daughter diagnosed with rare cancer after 'unexpected pain' - Edinburgh Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
-
-2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Edinburgh Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
-
----
-
 ### [Dementia: Walking speed in your 80s linked to 50% lower risk of brain decline - GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
 
 2026-08-14 <span class="news-indication-tag">dementia</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
-
----
-
-### [Quitting alcohol changes the brain and can increase the risk of compulsive drinking – new research in mice - The Conversation](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUtYREVFbmdIXzljLUlFaG13bDZjY0lDLTBKZk9sc2NHWjJSSmRLWURnV05EU3RDODVDbDRDTXdmVElPcWJOQTJMX1FyQVlfTTVxWXQ1Mm0zSVYtRmsyakJlbmF6NVFLMG9IQ1lOOVVUeTJ6Sm1rX3VfR3I4MENjMnFYZEdaR2JidkpnUFlPU2w1SjVHeHNpdmRzbF9uLTBvTG9NdElQNWtPa0FzQjZFOTVPOWUxT1E0aDlFTHVUbFVrTFgyaXhuWlNmeGJua1ZldmNZX0N3?oc=5)
-
-2026-08-14 <span class="news-indication-tag">dementia</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUtYREVFbmdIXzljLUlFaG13bDZjY0lDLTBKZk9sc2NHWjJSSmRLWURnV05EU3RDODVDbDRDTXdmVElPcWJOQTJMX1FyQVlfTTVxWXQ1Mm0zSVYtRmsyakJlbmF6NVFLMG9IQ1lOOVVUeTJ6Sm1rX3VfR3I4MENjMnFYZEdaR2JidkpnUFlPU2w1SjVHeHNpdmRzbF9uLTBvTG9NdElQNWtPa0FzQjZFOTVPOWUxT1E0aDlFTHVUbFVrTFgyaXhuWlNmeGJua1ZldmNZX0N3?oc=5)
 
 ---
 
@@ -206,19 +198,11 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span>
 
-來源：[sante.lefigaro.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
-
----
-
-### [Une avancée majeure dans la recherche : des médecins liégeois font une découverte importante au sujet du cancer - RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
-
-2026-08-14 <span class="news-indication-tag">cancer</span>
-
-來源：[RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 ---
 

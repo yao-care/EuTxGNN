@@ -43,11 +43,11 @@ permalink: /news/avanafil/
 
 ## 相關新聞（21 則）
 
-### [Curcumin-Berberin-Kombination gegen Alzheimer & Krebs?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNsRVh3WTVIZ2tmTmRnU3RFcnRvRkRPZDNqSHk2TUZ6V09ESWtZeS1MVVhCbDh1QVBxQkJTd0tPR3RkYk03UmdSYVhQVVhpVGxfVEpxZnRwM2JBT1VjYy1BY0hEWVVXclVIVTFEZGRFRDZGLUhNZGZXdlYtc05CSTZhUTlRUXZYc1FBT3BVdGRxcm9QNHc0RTRfbFZIVHktOWxpaHZvbDRQXzZZLUVuYUJ3?oc=5)
+### [Curcumin plus Berberin: Welche Mechanismen hinter der KI-Kombination bei Alzheimer und Krebs stehen - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzRkSkpEc1pCVi1WNjN5bS15bGRhaDlOM1lXSVZtS0UxdGU0LUNyeGhfMUxDMEcybkZvM1pSak1aTXUwckI2ZE9IRFRDWjlhdEJYNzNqU09rT09rTlBiN28xbkRzV0RwQmcxMXNwS3lPRkl5TDdUc05LYVRmNkJCeUNFUkp0dXZGcU5ZaV84OVhJNUtoTXV6eHhuc3NOZXN4MDgwcDNjVkFNREV4UERGWTFwa0syNFl0anY0UXQ4NTBqQTJ2VmlBZUFn?oc=5)
 
-2026-08-15 <span class="news-indication-tag">Krebs</span>
+2026-08-16 <span class="news-indication-tag">Krebs</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNsRVh3WTVIZ2tmTmRnU3RFcnRvRkRPZDNqSHk2TUZ6V09ESWtZeS1MVVhCbDh1QVBxQkJTd0tPR3RkYk03UmdSYVhQVVhpVGxfVEpxZnRwM2JBT1VjYy1BY0hEWVVXclVIVTFEZGRFRDZGLUhNZGZXdlYtc05CSTZhUTlRUXZYc1FBT3BVdGRxcm9QNHc0RTRfbFZIVHktOWxpaHZvbDRQXzZZLUVuYUJ3?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzRkSkpEc1pCVi1WNjN5bS15bGRhaDlOM1lXSVZtS0UxdGU0LUNyeGhfMUxDMEcybkZvM1pSak1aTXUwckI2ZE9IRFRDWjlhdEJYNzNqU09rT09rTlBiN28xbkRzV0RwQmcxMXNwS3lPRkl5TDdUc05LYVRmNkJCeUNFUkp0dXZGcU5ZaV84OVhJNUtoTXV6eHhuc3NOZXN4MDgwcDNjVkFNREV4UERGWTFwa0syNFl0anY0UXQ4NTBqQTJ2VmlBZUFn?oc=5)
 
 ---
 
@@ -64,6 +64,14 @@ permalink: /news/avanafil/
 2026-08-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMWlvUmdOZEJxTkxkdUotRTg4enlCM2hjS1V2T2h6UkRjOXRMNERjOXo0NnZ0a0V4eFZ6eWRqYkVEbndqa0JLc2o5dTJ3M2l3bXlMSG1UT196TDVSNzRybDFieWdvQjRnbWdmUEYxQkpZcjZrZDluMXVYTXBaTVdvbW5rYlhmZmRwVUdGazZMRFpLNFVvMExLQ2dZRmVhMlBoWDhLT3pTLW9mdHhNQk9ybEZJTTBaY001dllzTGpkRjFTaHdKU3ZEUktwNHBoY3Y2VEg5OHhXNWNYcGM?oc=5)
+
+---
+
+### [Bladder cancer fears as thousands wait weeks for urgent hospital check - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXNSaVk1MTZnU0pqdEtUY3lxZVdXTkxCaEJtb2dzSlM1S2JRSE5JM2dudURsS0NuQkJ0Ym9vVlhpRHlBOF9vMkdnVENhY080SndNRmhKdC1fWGEtbS1NajlsUmNfLU5naDRpNkVwUjdzRmhVUXZLV3psU1NSc0V6LW1lT2pFQzBhc1pF0gGQAUFVX3lxTE5acFdGTHAwOEJqT0hmR1RjZUY3dVZSSXVpNXRBNXlSX3dQMFhJTDQ0NHJBcU1Id0lZV1R1RlhLRi1NVTY5S3lheGVHYzFvcGVfemtUVFloZFQtVTgyXy1jVmdpbDNzelVRMFFTQWNSa0x1UU1kUkVKT3RFajVFU1owaGxLTFE2NF9LSG5VclBtZg?oc=5)
+
+2026-08-15 <span class="news-indication-tag">cancer</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXNSaVk1MTZnU0pqdEtUY3lxZVdXTkxCaEJtb2dzSlM1S2JRSE5JM2dudURsS0NuQkJ0Ym9vVlhpRHlBOF9vMkdnVENhY080SndNRmhKdC1fWGEtbS1NajlsUmNfLU5naDRpNkVwUjdzRmhVUXZLV3psU1NSc0V6LW1lT2pFQzBhc1pF0gGQAUFVX3lxTE5acFdGTHAwOEJqT0hmR1RjZUY3dVZSSXVpNXRBNXlSX3dQMFhJTDQ0NHJBcU1Id0lZV1R1RlhLRi1NVTY5S3lheGVHYzFvcGVfemtUVFloZFQtVTgyXy1jVmdpbDNzelVRMFFTQWNSa0x1UU1kUkVKT3RFajVFU1owaGxLTFE2NF9LSG5VclBtZg?oc=5)
 
 ---
 
@@ -87,23 +95,31 @@ permalink: /news/avanafil/
 
 2026-08-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXBLaTFlLXZLbloxSVRlc1lGMGVOVE5zUGtoUG5XbXc3MVJPUHN0TzVvMjh5SS1wRGY4ZlU3Q0o0QUxwVExFNU9XMldnZFQ4ZVBZQmdvUkRpS0l1UXY5TzRILUI2Vmh4NlJFQU1Fd05XZVlBdTBBQVh6LUdvV1FYS2g3UDJjWmNDRWJITDRDMEpJemhjX256cFZNb2VwUDg3N2ZRQWJ4ZFdwVG5TUDlGNDJUTlhjU1hFZXhqZ3p1ajFGUQ?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXBLaTFlLXZLbloxSVRlc1lGMGVOVE5zUGtoUG5XbXc3MVJPUHN0TzVvMjh5SS1wRGY4ZlU3Q0o0QUxwVExFNU9XMldnZFQ4ZVBZQmdvUkRpS0l1UXY5TzRILUI2Vmh4NlJFQU1Fd05XZVlBdTBBQVh6LUdvV1FYS2g3UDJjWmNDRWJITDRDMEpJemhjX256cFZNb2VwUDg3N2ZRQWJ4ZFdwVG5TUDlGNDJUTlhjU1hFZXhqZ3p1ajFGUQ?oc=5)
 
 ---
 
-### [Salire le scale ogni giorno riduce del 39% il rischio cardiovascolare - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
+### [Salire le scale ogni giorno riduce del 39% il rischio cardiovascolare](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
 
 2026-08-15 <span class="news-indication-tag">ictus</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
+來源：[ilfattoquotidiano.it](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTJtTm9ZclJDMUNrU3AyU2ZleHlGNEc1eTdHZVREVzZxUUQzRmpCSjBCeWRKdlktYmZiaTljRUZSeFJ6MDN3Mm94dV80RzJrbHhHeXROajNtUnA5T05VdWF3cFRjSUpITjdWX3Z6U2h1YWtnUjF2Q09YdkYzYXlrUXlEOTg4UG1vaGVwYzdCZmxsY19ManhnSkxFQURVZ2hnUzhNbw?oc=5)
 
 ---
 
-### [Por qué aumentan los casos de ictus en jóvenes - La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
+### [Treppensteigen kann laut Studie lebensverlängernd wirken](https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbU5CanFDS3BpR3JUOU5wQ01GRkNJVVlPSXBLdWpaOC1zWmgxYlhIMmhJRkFCSWdNUTk4c2M2eF9BMFNCYTlRRzBEcTViQVBfWW03aVdlSk5zaFFCQkg0eHQySVFGVm5Qdl9DODROcGx3S1dPa2c?oc=5)
+
+2026-08-15 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbU5CanFDS3BpR3JUOU5wQ01GRkNJVVlPSXBLdWpaOC1zWmgxYlhIMmhJRkFCSWdNUTk4c2M2eF9BMFNCYTlRRzBEcTViQVBfWW03aVdlSk5zaFFCQkg0eHQySVFGVm5Qdl9DODROcGx3S1dPa2c?oc=5)
+
+---
+
+### [Por qué aumentan los casos de ictus en jóvenes](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
 
 2026-08-15 <span class="news-indication-tag">ictus</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
+來源：[lavanguardia.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
 
 ---
 
@@ -147,14 +163,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [Edinburgh mum's 'lifeline' as daughter diagnosed with rare cancer after 'unexpected pain' - Edinburgh Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
-
-2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Edinburgh Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
-
----
-
 ### [Le cellule natural killer possono aggirare le difese dei tumori: i risultati di un importante studio - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3ZhRkd3NXd1YTB3U1czLXAzTE1GNUE2R0hTRnN0VHY1TkxHM3RFcXBNS2RVOElxcXdKYTMwWk5OY09va0xLQkt6LXBFTlhZVTFVTVIzdHhLTmpkZmR1M0I2Ujl1dzF1SkYzUWRtUENtVXJFbGxGZ1NzM3Rzc1Z3b2Nkb21rRXIwVm5fMjQ2ZGJlT2tqZTJJMnpRTVpITmR1U3hRRFZkaHZyVWUteG5F0gG0AUFVX3lxTFBlaERCVE9Kcmd4MVZlRnk3OEcxS1p1bHBaRURpbjNreVRaQWJ0elJ1T2RRTnpkVHpFMWplTzZMcnF0OFZuY01tLU42cVp6NE9HZU01QWRhWklRakpwOFVPbFk0UHk3Yi1Uc1RWMjE0c3JLQS1EZ0ZxaWFVRWM2TU56R3hvNTItQkcxU2p6SUpKMzZqUjRQMlJnZFpITkhVVjBqeE9uWFc1VnQ1N2N6blQwZG9zYQ?oc=5)
 
 2026-08-14 <span class="news-indication-tag">tumor</span>
@@ -181,7 +189,7 @@ permalink: /news/avanafil/
 
 ### [Tirzepatid: Studie zeigt 60% weniger Infektions-Todesfälle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
-2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lXR190ZVVxNHRGUjBJRndmaHBLQUJIT1V4NVRUOEhreGQ0anJFR3NxT2t4Ukw1QWsxS1pvY0dPbGljV2cxbWs2c0REM3VwN1AtVWhGVFVEQ2dHNmRHaGRfYWszcExia2dCQXJ2NDdHckdtdzh4aTltbFFrY2dKZTkxUW55Z0hucXNwM0w5NGd0OXBjLWY2NWZFb1dOWXVfOGZ5ejNOUmVPX1JNTjhhUjNrT20?oc=5)
 
@@ -195,19 +203,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
+### [Quand le sucre empoisonne le foie, avec un risque élevé de cirrhose et de cancer - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 2026-08-14 <span class="news-indication-tag">cancer</span>
 
-來源：[sante.lefigaro.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
-
----
-
-### [Une avancée majeure dans la recherche : des médecins liégeois font une découverte importante au sujet du cancer - RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
-
-2026-08-14 <span class="news-indication-tag">cancer</span>
-
-來源：[RTL Info](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9aNndKRFVaWmZLMkMtMU0yV1hDemxqQ2o3ci1MdGZLYU9CRm1yeWNvTjgtZWl3SHdTRmpNQ0JpYTQ1VExGOE5DTFBOWUdPOTBscmpoMDV1NngyS1p5MEFDN3AxNjNlcW10TXZ1U2VSdk9wb2dtOXNoeGFmaTVJMXpCdXlET1dDQ2drdEtST0ZSWEV6blc1bTROX0U0MnJEcTNIZG4walFuODg1dTgxMWhzT2ZYODVtQ2EzMkgwWE1LdGNkVXdmT3cwRURRbXBRajd5SGR6d0VlVnVn?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2tKZFNScXp6VHlkOS15SDRTREtrcjNZaTZ5YW9yMWswSEdSWkFNbGYzaWt1V3BpaFdicFJJUlBXYkdBc05oNlhjWlJia0xtOG1PSmhrRjh6ZHc4NjF6b3NaUlNDTk53RFdUYlpoVVlZZnBUdXFCdlFsSVJ0VHUwck5JNFpQMXNpRGliM3laWFhYdVVBSld6WDMxNUlLeDVvOWVRTDhQcmJCSDdQeDZzcGFIbTNfMWV5X3hiU0c2SnNQS1RyNkRYUEJMRXByX1FxM3c?oc=5)
 
 ---
 

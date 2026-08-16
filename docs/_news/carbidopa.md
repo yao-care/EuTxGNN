@@ -43,6 +43,14 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（4 則）
 
+### [Man, 90, with Parkinson's walks 90 miles for charity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05UHd5azBTbjU5VDBFTnJicW5ycEpodWdtMUYtYTFicUpodjhMWlRqbjlkNlRyVVFDdVRuRzVaYm9LZlY1RS1CWVJjaHZhR0N3ZjhaOTJORWxaeC04?oc=5)
+
+2026-08-15 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05UHd5azBTbjU5VDBFTnJicW5ycEpodWdtMUYtYTFicUpodjhMWlRqbjlkNlRyVVFDdVRuRzVaYm9LZlY1RS1CWVJjaHZhR0N3ZjhaOTJORWxaeC04?oc=5)
+
+---
+
 ### [Des scientifiques découvrent un possible déclencheur de la maladie d'Alzheimer : il commence dès 50 ans](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
 
 2026-08-15 <span class="news-indication-tag">maladie d'Alzheimer</span>
@@ -51,11 +59,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### [‘Mum worked into her 70s. Her £250k savings were lost to dementia care’](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
+### [‘Mum worked into her 70s. Her £250k savings were lost to dementia care’ - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
 
 2026-08-15 <span class="news-indication-tag">dementia</span>
 
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
 
 ---
 
@@ -64,14 +72,6 @@ permalink: /news/carbidopa/
 2026-08-14 <span class="news-indication-tag">dementia</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PMzUxYmpiNzhiY05TcjMwQjR3cl96RzlfcWlwcGhXQnBvdjBEMkVVX0RBYjdRRFp0Vk9IVDkxbEI3R1BPS3V2QTJYbDh3ODYxMGZ5UWY2cldLRGxDc1g2VUc2RlRqaEtScEtoYlpDWE1jbUo0OVBhRjNR?oc=5)
-
----
-
-### [Quitting alcohol changes the brain and can increase the risk of compulsive drinking – new research in mice - The Conversation](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUtYREVFbmdIXzljLUlFaG13bDZjY0lDLTBKZk9sc2NHWjJSSmRLWURnV05EU3RDODVDbDRDTXdmVElPcWJOQTJMX1FyQVlfTTVxWXQ1Mm0zSVYtRmsyakJlbmF6NVFLMG9IQ1lOOVVUeTJ6Sm1rX3VfR3I4MENjMnFYZEdaR2JidkpnUFlPU2w1SjVHeHNpdmRzbF9uLTBvTG9NdElQNWtPa0FzQjZFOTVPOWUxT1E0aDlFTHVUbFVrTFgyaXhuWlNmeGJua1ZldmNZX0N3?oc=5)
-
-2026-08-14 <span class="news-indication-tag">dementia</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUtYREVFbmdIXzljLUlFaG13bDZjY0lDLTBKZk9sc2NHWjJSSmRLWURnV05EU3RDODVDbDRDTXdmVElPcWJOQTJMX1FyQVlfTTVxWXQ1Mm0zSVYtRmsyakJlbmF6NVFLMG9IQ1lOOVVUeTJ6Sm1rX3VfR3I4MENjMnFYZEdaR2JidkpnUFlPU2w1SjVHeHNpdmRzbF9uLTBvTG9NdElQNWtPa0FzQjZFOTVPOWUxT1E0aDlFTHVUbFVrTFgyaXhuWlNmeGJua1ZldmNZX0N3?oc=5)
 
 ---
 

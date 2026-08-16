@@ -14,7 +14,7 @@ permalink: /news/cerliponase-alfa/
 ---
 
 <p class="key-answer" data-question="Cerliponase Alfa 有什麼相關新聞？">
-<strong>Cerliponase Alfa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cerliponase Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cerliponase-alfa/
 <p><a href="{{ '/drugs/cerliponase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Cuando suben las temperaturas, aumenta el riesgo: el impacto del calor en los niños con epilepsia](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN1JVaEcyVE5QSG10akVBc0hlSUZhUXB5SEFrZmR0bl9tNGRKR2JyNE5QblNVcTlYNW9DSHo1UWxGc19DTEpMSkpuenJIRndGc0cwSGxRTE5HZ3lNbl9VNC1jQXhMU3JHcUZYOF81VUtIZ3J3aEpNUmxNSEdTVWxIU3lRZ2tWVFhRUXl4NW9kYnYtWHc5NFBLVnBRbVlYTzA4WDYydEY3ZGVYZS1RTmEtS1BlVVQ2VmlPMGRFVWdRYkRHX2w5M2lER3JyLWJuN3JTVGfSAdcBQVVfeXFMTjUtc0VFMk03ZWxDNlI4b1BOMC1qbEUxS3g5Qm11WXV2d3VyUnB0WFhEUkxXak1qZzRfbFlDVnV6YzRmR01ub1VmbzlVTklSMmdGMm1hZHNBaUFxV3BuSWk1dFpYWVVJTG1uaWF3Q053RkpzTmoxRnNybTdQU2ptVGpXcllIRU5hWWZzd0hLNEhoTmVCX0QtMk93d1BNNndiQjJka0FMMGM4MmNveXVMeEx1bjlLV19wOXpIbk5KcjhvejlhSU1EOFc4MzRua0VOQjNlWGNxRkE?oc=5)
+
+2026-08-16 <span class="news-indication-tag">epilepsia</span>
+
+來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN1JVaEcyVE5QSG10akVBc0hlSUZhUXB5SEFrZmR0bl9tNGRKR2JyNE5QblNVcTlYNW9DSHo1UWxGc19DTEpMSkpuenJIRndGc0cwSGxRTE5HZ3lNbl9VNC1jQXhMU3JHcUZYOF81VUtIZ3J3aEpNUmxNSEdTVWxIU3lRZ2tWVFhRUXl4NW9kYnYtWHc5NFBLVnBRbVlYTzA4WDYydEY3ZGVYZS1RTmEtS1BlVVQ2VmlPMGRFVWdRYkRHX2w5M2lER3JyLWJuN3JTVGfSAdcBQVVfeXFMTjUtc0VFMk03ZWxDNlI4b1BOMC1qbEUxS3g5Qm11WXV2d3VyUnB0WFhEUkxXak1qZzRfbFlDVnV6YzRmR01ub1VmbzlVTklSMmdGMm1hZHNBaUFxV3BuSWk1dFpYWVVJTG1uaWF3Q053RkpzTmoxRnNybTdQU2ptVGpXcllIRU5hWWZzd0hLNEhoTmVCX0QtMk93d1BNNndiQjJka0FMMGM4MmNveXVMeEx1bjlLV19wOXpIbk5KcjhvejlhSU1EOFc4MzRua0VOQjNlWGNxRkE?oc=5)
+
+---
 
 ### [Une procédure chirurgicale réalisée pour la première fois au CHU de Montpellier : une méthode innovante pour traiter les crises d’épilepsie - Midi Libre](https://news.google.com/rss/articles/CBMikwJBVV95cUxNMUxQQXJ6TUZla0pSWkRtYTVVNUpVX0VYczkwU1JPQnpIR3pWV29hbjRScUFTWnllN3VZT3BJY0QzUVJrQ2JaSVJhZHpBNDZVQkNlNmc5enRqd3RVeW5vYUEzU0VUSnktTE9FOWtPM25aZ1ZkbEpicy1QelQ0ck0wbFlyV3Zoc3dZLVpoWFpXdTRUUUFCel93WGxhUXJodEJVa21IbWNJekxDN3dnVnhCMEwwd3A1cmZjTzluTk15V1AtMFd0VERsd2ViSmhLQnAtOURaMWhQakxQQURKTDBnQ0RBYTVwYnRCTEhHNjhIcVJ2UTZib2kyaUI3TUhuUU1uU3BpNWRxNkF3RHF0OWdTcHpCcw?oc=5)
 

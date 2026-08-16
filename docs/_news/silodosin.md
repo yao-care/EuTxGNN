@@ -14,7 +14,7 @@ permalink: /news/silodosin/
 ---
 
 <p class="key-answer" data-question="Silodosin 有什麼相關新聞？">
-<strong>Silodosin</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Silodosin</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/silodosin/
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（30 則）
+
+### [La leche entera no engorda, por fin el ensayo definitivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1RyOER6MHUxekRVNFdPNi1BZGZKaGpyM254VWRrQTMxZmFLSDg3RUU4cnptdXdUMGQyeUhUVVhIZFo5eVBlbHJ0Wi12UDFKTmNJY2lHLTFhd2VldjNHblNWVWRjOG5ZTnRIVjlkSTlkMDVGaG1MeTJKaERPNXptYWpNX0QxRHA1UE1kWDRpaVRyQURfVG9n?oc=5)
+
+2026-08-16 <span class="news-indication-tag">AF</span>
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1RyOER6MHUxekRVNFdPNi1BZGZKaGpyM254VWRrQTMxZmFLSDg3RUU4cnptdXdUMGQyeUhUVVhIZFo5eVBlbHJ0Wi12UDFKTmNJY2lHLTFhd2VldjNHblNWVWRjOG5ZTnRIVjlkSTlkMDVGaG1MeTJKaERPNXptYWpNX0QxRHA1UE1kWDRpaVRyQURfVG9n?oc=5)
+
+---
+
+### [Wissenschaftler entdecken möglichen Auslöser von Alzheimer – er beginnt schon mit 50 Jahren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZkphYTcxWVFhSm5PcEhJXzJEX01RLUxIV1hDU2VmdHFybGRTSXhnVTNLQ0UtSjNsa1M3SjZXVWFzYWg4MDU4VFhXNHMzSHFLYy1yX3FpdEhNZVRsYkJSakczYXh1RGlmeDhmQXpMQzZJc1pqU2x3d2xhUmUzUzgtVEdoVlk5ZmtxYzBoX2otQUdOSno0V09ucmtOMjRYUWFIVWZvNA?oc=5)
+
+2026-08-16 <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZkphYTcxWVFhSm5PcEhJXzJEX01RLUxIV1hDU2VmdHFybGRTSXhnVTNLQ0UtSjNsa1M3SjZXVWFzYWg4MDU4VFhXNHMzSHFLYy1yX3FpdEhNZVRsYkJSakczYXh1RGlmeDhmQXpMQzZJc1pqU2x3d2xhUmUzUzgtVEdoVlk5ZmtxYzBoX2otQUdOSno0V09ucmtOMjRYUWFIVWZvNA?oc=5)
+
+---
+
+### [Vitamin D in der Schwangerschaft: Kinder profitieren möglicherweise noch zehn Jahre später - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUWYyQXl3R1lMci1OOG1ON3ZtTHF3dEdEOUpOdEhtSVQ2MU5FX2RXel9oMUo1LWI5blhESlNDVDNFTTlySUFrcWV5RTdGNjVEX0tVVzdxUTBjWmVVbG91SGZwcE1yb1Z6aENJUE5xSmQzdVFBaDQzVFhyaWF4SDBBem8wTXZQalJ3d2JiZ01iVVAyV3VLa3o4YjhRT0tENkY3MXpscDJWRE9YZ0FORWdLQ0xiVXQ5QjlkZzM3cTdjZG51ampPTWtxcjNNVU9vN19mV1A0SUxJZENEWGNwS2xFT0ZTQlBjQQ?oc=5)
+
+2026-08-16 <span class="news-indication-tag">AF</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUWYyQXl3R1lMci1OOG1ON3ZtTHF3dEdEOUpOdEhtSVQ2MU5FX2RXel9oMUo1LWI5blhESlNDVDNFTTlySUFrcWV5RTdGNjVEX0tVVzdxUTBjWmVVbG91SGZwcE1yb1Z6aENJUE5xSmQzdVFBaDQzVFhyaWF4SDBBem8wTXZQalJ3d2JiZ01iVVAyV3VLa3o4YjhRT0tENkY3MXpscDJWRE9YZ0FORWdLQ0xiVXQ5QjlkZzM3cTdjZG51ampPTWtxcjNNVU9vN19mV1A0SUxJZENEWGNwS2xFT0ZTQlBjQQ?oc=5)
+
+---
 
 ### [Herz: Wie viel Kaffee am Tag ist gesund? Diese neue Studie gibt die Antwort](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
 
-2026-08-15 <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
 
 ---
 
-### [Vitamin D in der Schwangerschaft: Effekte auf Gehirnleistung zehn Jahre sichtbar](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2tHYW1wYTBURVllWUhzMllkd1E5M25TN3pqczZWeU5NRzZUUUcwNDJZTndZeGxRZjFGZE5HeTBvMm5rZFhJanFINUU5NjJjU0steHNXcC1LZzliWU9YZS1QaEU5eDd2RmJpMlRqSm9aR1FBWkRyczVlQS1pY00zeDNsZUk0eEFrZEVsQk9vQ3lLa2tuREdVVlhnaXVlTlVJeHUzaktXdk1BT29Lc0hoTkFJVmRBbWtDMXkw?oc=5)
+### [Roblox, Fortnite e Minecraft fanno male alla salute mentale? Dopo 198 studi la risposta è meno semplice del previsto](https://news.google.com/rss/articles/CBMihAJBVV95cUxOMkkwUnE0cEwweXJsMjMwR0ZMQm5hM0w1T3NqQVp1TmVQaW9ia1R0UVBUeV81cXJUSmFMclFzLWNDb2U4bko4TC1vdlA1aXp6d0ktTVZDaXNlNUhRdTlKU2ZaWllkcUN0d01iSUZyNlpLVWdzaF9tdzVUOFFJMzY2R3pUTm5hb0w2YVZMU2xobEh4QWd0MEh6Z2VjbldFTDZKRGl2TDRYQm9uM0F4ZkktbUZ3YTgzMV9tT2wyVnRwR0tlYlZYY2xLV0ZzMTBaeC1uWWZHSm1kNGprSmk1YTFaU1hsc1VRNS1wVmRGMlktM1M2YXI2Y2plNG0wbWxvbGRHMWJ4ag?oc=5)
 
 2026-08-15 <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2tHYW1wYTBURVllWUhzMllkd1E5M25TN3pqczZWeU5NRzZUUUcwNDJZTndZeGxRZjFGZE5HeTBvMm5rZFhJanFINUU5NjJjU0steHNXcC1LZzliWU9YZS1QaEU5eDd2RmJpMlRqSm9aR1FBWkRyczVlQS1pY00zeDNsZUk0eEFrZEVsQk9vQ3lLa2tuREdVVlhnaXVlTlVJeHUzaktXdk1BT29Lc0hoTkFJVmRBbWtDMXkw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMihAJBVV95cUxOMkkwUnE0cEwweXJsMjMwR0ZMQm5hM0w1T3NqQVp1TmVQaW9ia1R0UVBUeV81cXJUSmFMclFzLWNDb2U4bko4TC1vdlA1aXp6d0ktTVZDaXNlNUhRdTlKU2ZaWllkcUN0d01iSUZyNlpLVWdzaF9tdzVUOFFJMzY2R3pUTm5hb0w2YVZMU2xobEh4QWd0MEh6Z2VjbldFTDZKRGl2TDRYQm9uM0F4ZkktbUZ3YTgzMV9tT2wyVnRwR0tlYlZYY2xLV0ZzMTBaeC1uWWZHSm1kNGprSmk1YTFaU1hsc1VRNS1wVmRGMlktM1M2YXI2Y2plNG0wbWxvbGRHMWJ4ag?oc=5)
 
 ---
 
@@ -98,7 +122,7 @@ permalink: /news/silodosin/
 
 2026-08-15 <span class="news-indication-tag">AF</span>
 
-來源：[GQ](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekliNlI4QUV0aVpadEdiVE9XemdmYnFwcHhRTkVQTUVObmtRWHozcHBSUU50MzVkV09KQkJudVpFenUxSk1UR2R0aG1tRXZFUnY1T1VzOS1pT21SMmlNbFFrb01BbkU0Y0NSQkRiNVJjR09jZWp4Q1lOSzlVd2M?oc=5)
+來源：[gq.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekliNlI4QUV0aVpadEdiVE9XemdmYnFwcHhRTkVQTUVObmtRWHozcHBSUU50MzVkV09KQkJudVpFenUxSk1UR2R0aG1tRXZFUnY1T1VzOS1pT21SMmlNbFFrb01BbkU0Y0NSQkRiNVJjR09jZWp4Q1lOSzlVd2M?oc=5)
 
 ---
 
@@ -110,11 +134,19 @@ permalink: /news/silodosin/
 
 ---
 
-### [Carolina López-Tejero, coach nutricional: “Muchos compensan el agotamiento con más café o cardio, pero el sistema nervioso necesita lo contrario”](https://news.google.com/rss/articles/CBMimwJBVV95cUxPT1Fubi1NWnl1czFUUzg0NmtablRlVVhoUmZDOHVtXzlwRlVuVE9ZVl82QzFQNVR1eDY4eEZXVXN2Q2FwUjdTdXhvN1ZxRnRoQ2ZQNDlxUjJ1WGZneXh3R1puTE5RRTF1SUtDVU9TNjFnRXpJZUQySGZ3UzMwZ1lVaUdJTXhBbUNVWmdDUVZjTGZaeEc3WnVRUjU2aDFRWURhRkxRSWVuTGtGVVVHR1JDcmFfeEhvQ1NheGN3UHhRb1FmQzhRRGw1U2JESTdjX3FWTlZfckM4dVpPTVJXV1MzNFM4V1ZrY1RwRFRIbk1teUV5NXZkdU9fU0tsUGhJSHdGZkI1VHh0UU5rMGduZHpMWGd2T3Npb1VmTUh30gGgAkFVX3lxTE1TYU1xc1RfblI4UlVQRlpYblNnMzd2MVh0ekN3cGhvZHVTemZ5ejVGajFNb21lT0tBXzQyYUlFbTZVd2xIUVRueFZiLXJyY0prdW0ySFlTZXRxbUVrM2U1WEJMR0lKN3REdlAyUERnSl9va19oQXhPa1J0UFY0YTY5N3l2bmZUOE1kNUpDbFh5ZkN0TWRwZVNGTlhmQVRlVExMNkRDZHRicHc3bEFNSXhFN2pEVnQwbG1EVjM1WnZNMEJvVTdHcjJtcUVXWXR3ckY0QW9SMV9qVWhERVFzS2wwTTItUlV0QWtTMjN3b082YzQ3c2E1UjdOOUhFVHhvRUhMNkltZHY3bV9WYmhzcVhrbENQNjQweXpPczFqQVNfTg?oc=5)
+### [Organe altern unterschiedlich schnell – warum Ihr Körper mehrere biologische Uhren hat - smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUhqUzRkc1NNMk9tNXJKRnpoaEJySkxqSnk2S0V3UTQ3TzlHbGRWMHRxQmQ5cXVXZmZQT2h0WnZIdzloRzVFMG1mWUlGb2hadG95OGhWajBUeDREY1o5LXZ0dkFrSXhLV2Y5T092bENpNWUzZU0xN25ROXVGZGZ5THRwanpjM05KYVh5alBHVXRkY3pqX3JKdnBKb3lDVEhTcjFmUEhXWWprV0VyTl9Ta2FhQlhsemlWOEwzdll3?oc=5)
 
 2026-08-15 <span class="news-indication-tag">AF</span>
 
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMimwJBVV95cUxPT1Fubi1NWnl1czFUUzg0NmtablRlVVhoUmZDOHVtXzlwRlVuVE9ZVl82QzFQNVR1eDY4eEZXVXN2Q2FwUjdTdXhvN1ZxRnRoQ2ZQNDlxUjJ1WGZneXh3R1puTE5RRTF1SUtDVU9TNjFnRXpJZUQySGZ3UzMwZ1lVaUdJTXhBbUNVWmdDUVZjTGZaeEc3WnVRUjU2aDFRWURhRkxRSWVuTGtGVVVHR1JDcmFfeEhvQ1NheGN3UHhRb1FmQzhRRGw1U2JESTdjX3FWTlZfckM4dVpPTVJXV1MzNFM4V1ZrY1RwRFRIbk1teUV5NXZkdU9fU0tsUGhJSHdGZkI1VHh0UU5rMGduZHpMWGd2T3Npb1VmTUh30gGgAkFVX3lxTE1TYU1xc1RfblI4UlVQRlpYblNnMzd2MVh0ekN3cGhvZHVTemZ5ejVGajFNb21lT0tBXzQyYUlFbTZVd2xIUVRueFZiLXJyY0prdW0ySFlTZXRxbUVrM2U1WEJMR0lKN3REdlAyUERnSl9va19oQXhPa1J0UFY0YTY5N3l2bmZUOE1kNUpDbFh5ZkN0TWRwZVNGTlhmQVRlVExMNkRDZHRicHc3bEFNSXhFN2pEVnQwbG1EVjM1WnZNMEJvVTdHcjJtcUVXWXR3ckY0QW9SMV9qVWhERVFzS2wwTTItUlV0QWtTMjN3b082YzQ3c2E1UjdOOUhFVHhvRUhMNkltZHY3bV9WYmhzcVhrbENQNjQweXpPczFqQVNfTg?oc=5)
+來源：[smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUhqUzRkc1NNMk9tNXJKRnpoaEJySkxqSnk2S0V3UTQ3TzlHbGRWMHRxQmQ5cXVXZmZQT2h0WnZIdzloRzVFMG1mWUlGb2hadG95OGhWajBUeDREY1o5LXZ0dkFrSXhLV2Y5T092bENpNWUzZU0xN25ROXVGZGZ5THRwanpjM05KYVh5alBHVXRkY3pqX3JKdnBKb3lDVEhTcjFmUEhXWWprV0VyTl9Ta2FhQlhsemlWOEwzdll3?oc=5)
+
+---
+
+### [Aurelio Rojas, cardiólogo, alerta: “Si no bebes café así, lo estás haciendo mal” - Onda Vasca](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjU4cUtndW1pV2Q5a1d1VVpkcm1XVHd6ZnhYVG16TDdHX1BxbXc1YVZXQzZDQ2llR3Y5OVl6T09pUE84d1Fma2YteDh6U25nVEg3VzR6UWJaYUZzZHBqTjZqcFMwT0FrdlhRZ1pKOXFyMVBYdmV3U1AzVHlHdHg1Rk0yMGhlazJWU3QtNlc1M3dITExXalcxTXNfcjNOY2pOTDZj0gGoAUFVX3lxTE9NSVNiRHV4UjVBdm9iREItYVpYRWNkV2NBUW9TaTFrUjd5R0h0cmNJbFppbHJaMTdEdHBEYmFldU1ZS0NNbVlUaG1ja0hkQ0JXZS1YZ1ozUXg1bXljQU9TRTJwSURFQVdvd0o5Tk1va2pBdkE4ZjRKeE5WZzRFS09DMzl1NWR1dmQ1Z2dOSEJJaGhPQ0ZXMndRdEJOcGltdDNLX3Zvdy0xTQ?oc=5)
+
+2026-08-15 <span class="news-indication-tag">AF</span>
+
+來源：[Onda Vasca](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjU4cUtndW1pV2Q5a1d1VVpkcm1XVHd6ZnhYVG16TDdHX1BxbXc1YVZXQzZDQ2llR3Y5OVl6T09pUE84d1Fma2YteDh6U25nVEg3VzR6UWJaYUZzZHBqTjZqcFMwT0FrdlhRZ1pKOXFyMVBYdmV3U1AzVHlHdHg1Rk0yMGhlazJWU3QtNlc1M3dITExXalcxTXNfcjNOY2pOTDZj0gGoAUFVX3lxTE9NSVNiRHV4UjVBdm9iREItYVpYRWNkV2NBUW9TaTFrUjd5R0h0cmNJbFppbHJaMTdEdHBEYmFldU1ZS0NNbVlUaG1ja0hkQ0JXZS1YZ1ozUXg1bXljQU9TRTJwSURFQVdvd0o5Tk1va2pBdkE4ZjRKeE5WZzRFS09DMzl1NWR1dmQ1Z2dOSEJJaGhPQ0ZXMndRdEJOcGltdDNLX3Zvdy0xTQ?oc=5)
 
 ---
 
@@ -139,14 +171,6 @@ permalink: /news/silodosin/
 2026-08-15 <span class="news-indication-tag">AF</span>
 
 來源：[CHIP](https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2ozeUwtNnVmcks5b1h3MlozRWNyaC0tSnhjWHVHZlkycXdpTDZYVmttRl9VRUlMTDNlbUp3SmtVY3FwUHBUTnI4WkFEZndaREZZaEtXMEtIR0VZNHE2WktUdGt4WWo4UTZhQTNkQXlsZU9HdC1wN0ZCekk1STNDdks2bGxxUURrd1pZaklJMlZFMUZsY0YwNW83X2w2TFYxQ3RFNzNLTzFqQWRLTEdSVWVqeVItYjd3aWV0TjBweW5OR2FZVE9yZ1BNZnE5dnRWX0ZSVDNqWlBkS2ZlcFU5SjdrYw?oc=5)
-
----
-
-### [Wissenschaftler entdecken möglichen Auslöser von Alzheimer – er beginnt schon mit 50 Jahren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1ZIN01oR1RMVU44MGVFYlVvYVV3OGMxZXBWNXJTb0tzUkRzWU12Z3VYZVc5MVFvbjZndnJUaHNDLUNPSWM5ZFI3QmRSa2Q4U2FMS2VMeHhzREZoakplS1B5SllHU2VzWW9uVi1yR0djZGpieVM3WF90UU44dnpoaUdNREhUbUJiOEloaGZWU1k0NHhVaUZFNVhCMWZvbUlFc253Uw?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1ZIN01oR1RMVU44MGVFYlVvYVV3OGMxZXBWNXJTb0tzUkRzWU12Z3VYZVc5MVFvbjZndnJUaHNDLUNPSWM5ZFI3QmRSa2Q4U2FMS2VMeHhzREZoakplS1B5SllHU2VzWW9uVi1yR0djZGpieVM3WF90UU44dnpoaUdNREhUbUJiOEloaGZWU1k0NHhVaUZFNVhCMWZvbUlFc253Uw?oc=5)
 
 ---
 
@@ -198,27 +222,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Dad died after GP misdiagnosed severe headache as sinus infection, says coroner - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHFJMjhaVF9iN0lmRlNOR3I0N3FzZ1pUMlZITENRUXpCcmNXS1hkNEliQjdBem9CRzFwN3hkYjJ3enlTaGJTN2NLN2FRRWU0UE1IZUhvWGZ3cnUzSm5iU25wY0NGcDlpMGFRX0dEc202Y19vMHlkcjhMaXFEQ012MHJ3dFAtcDR0bE05YVZMZGVDUFBJbHNkY1AtZzFXaFBYMnE5VW9R?oc=5)
+### [Estudio identifica la proteína MAFG como clave en progresión del melanoma - La Web de la Salud](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU5UZHlqdTQ2dlZqX29fdFppY2dVbzhPcVZ4M2F2MDJxWDgxNVVFV0pFaFRydzhfTFNXal9IY3ZpSXNoSDdXTWF1bGd3dTdoZC1FcFVyVGdWMXM0a1BCMW5XUHJSVU1qVWFNU25RR0dzVjRhVldGMVRiVF9MZ3R5SXNUY25ySV9kbG5XQ0JsNGRKdFd5dDNwbWt1MXY3bnNobEFn?oc=5)
 
 2026-08-14 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHFJMjhaVF9iN0lmRlNOR3I0N3FzZ1pUMlZITENRUXpCcmNXS1hkNEliQjdBem9CRzFwN3hkYjJ3enlTaGJTN2NLN2FRRWU0UE1IZUhvWGZ3cnUzSm5iU25wY0NGcDlpMGFRX0dEc202Y19vMHlkcjhMaXFEQ012MHJ3dFAtcDR0bE05YVZMZGVDUFBJbHNkY1AtZzFXaFBYMnE5VW9R?oc=5)
-
----
-
-### [Edinburgh mum's 'lifeline' as daughter diagnosed with rare cancer after 'unexpected pain' - Edinburgh Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
-
-2026-08-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Edinburgh Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZLaUN1bTZtRkFiR3lzNy1uTlVGVS1tTDNRSmtZTWVJT1A2bkZfSnJTajZNbkdYcUlvbHpJM0NhSDNaa1I2THN6N3dfQUFKZGlweEx1SWJmTjlJcUR2eVlFdVZ4akFfb2xFb1RnYms4a3lWT2xCdkpwanpCblU5VE9Kdk9pOE83Z2EwMWJnV0ZmNWVmZ3hWNzBFdmJpXzVlbVo2dkh3?oc=5)
-
----
-
-### [Estudio identifica la proteína MAFG como clave en progresión del melanoma](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU5UZHlqdTQ2dlZqX29fdFppY2dVbzhPcVZ4M2F2MDJxWDgxNVVFV0pFaFRydzhfTFNXal9IY3ZpSXNoSDdXTWF1bGd3dTdoZC1FcFVyVGdWMXM0a1BCMW5XUHJSVU1qVWFNU25RR0dzVjRhVldGMVRiVF9MZ3R5SXNUY25ySV9kbG5XQ0JsNGRKdFd5dDNwbWt1MXY3bnNobEFn?oc=5)
-
-2026-08-14 <span class="news-indication-tag">AF</span>
-
-來源：[lawebdelasalud.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU5UZHlqdTQ2dlZqX29fdFppY2dVbzhPcVZ4M2F2MDJxWDgxNVVFV0pFaFRydzhfTFNXal9IY3ZpSXNoSDdXTWF1bGd3dTdoZC1FcFVyVGdWMXM0a1BCMW5XUHJSVU1qVWFNU25RR0dzVjRhVldGMVRiVF9MZ3R5SXNUY25ySV9kbG5XQ0JsNGRKdFd5dDNwbWt1MXY3bnNobEFn?oc=5)
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU5UZHlqdTQ2dlZqX29fdFppY2dVbzhPcVZ4M2F2MDJxWDgxNVVFV0pFaFRydzhfTFNXal9IY3ZpSXNoSDdXTWF1bGd3dTdoZC1FcFVyVGdWMXM0a1BCMW5XUHJSVU1qVWFNU25RR0dzVjRhVldGMVRiVF9MZ3R5SXNUY25ySV9kbG5XQ0JsNGRKdFd5dDNwbWt1MXY3bnNobEFn?oc=5)
 
 ---
 
@@ -230,19 +238,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [“Tomar entre 2 y 5 tazas de café al día es seguro y puede reducir el riesgo de enfermedades"](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNOGZKMjVyRFVBZExzeWlIN0EwY1RydFdlRFZyYWlqLWVGSUo1WkNEemIxQWFRUms3WDhyaWtfdmVIWWxZaThyMDdHb1R3VjBucFpsMS1nTUVVa2czUXRsbVpLQnpNWjl1ckI0WWhLNW9QMzVYaGJHWTRRZG9vajNwRE02dHdHUHpPY09scEs1T05ObnNvejRJb2haRFpvcDh6TDMwS0JxRWF2bVB1bFRwRjZpYkJGUTJCSnExb2hWLS0xY0JoblNEQWo2cldPaVBqUTl5WmdodzNQSmVzYklpNmczT3Z4Z1RIekwtTWpZYzJJN043TXB6Qm9VVmZjNl9sOWttNG9YaGE4X3U1bmNyVEJUMmNhZkJSSVF2N1FyZ01qSFRvX1FPZzh5ai1tSFFSZU93cXVPV2VObDNDNlhheURacmQ4R3NaNWdTU3hTaGpKSDAwV3RyTFhxRDl4Q014RGVNRWZvZ3JBWU5w?oc=5)
+### [Rabies warning for park visitors after bat swoops at multiple people - The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU25GVlg3VmZjYjBBUUVWQzBiT05ES1N0ejN2YUIwYWNGRVN1SDJoQzg0eVhCUHJqNW1OMTdwa1RaV2JJNGdfWDFaNEItT1VHRTZZaFk0RmFmbXBnNG1rZW9IZzd1eGtIZ0M5eTZZY0xzWUFnSVAzZEZfZnhaTFRINERTd2tOd0JTUUJpMjduRElQQ2tNLU9LNA?oc=5)
 
 2026-08-14 <span class="news-indication-tag">AF</span>
 
-來源：[menshealth.com](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNOGZKMjVyRFVBZExzeWlIN0EwY1RydFdlRFZyYWlqLWVGSUo1WkNEemIxQWFRUms3WDhyaWtfdmVIWWxZaThyMDdHb1R3VjBucFpsMS1nTUVVa2czUXRsbVpLQnpNWjl1ckI0WWhLNW9QMzVYaGJHWTRRZG9vajNwRE02dHdHUHpPY09scEs1T05ObnNvejRJb2haRFpvcDh6TDMwS0JxRWF2bVB1bFRwRjZpYkJGUTJCSnExb2hWLS0xY0JoblNEQWo2cldPaVBqUTl5WmdodzNQSmVzYklpNmczT3Z4Z1RIekwtTWpZYzJJN043TXB6Qm9VVmZjNl9sOWttNG9YaGE4X3U1bmNyVEJUMmNhZkJSSVF2N1FyZ01qSFRvX1FPZzh5ai1tSFFSZU93cXVPV2VObDNDNlhheURacmQ4R3NaNWdTU3hTaGpKSDAwV3RyTFhxRDl4Q014RGVNRWZvZ3JBWU5w?oc=5)
-
----
-
-### [Rabies warning for park visitors after bat swoops at multiple people](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU25GVlg3VmZjYjBBUUVWQzBiT05ES1N0ejN2YUIwYWNGRVN1SDJoQzg0eVhCUHJqNW1OMTdwa1RaV2JJNGdfWDFaNEItT1VHRTZZaFk0RmFmbXBnNG1rZW9IZzd1eGtIZ0M5eTZZY0xzWUFnSVAzZEZfZnhaTFRINERTd2tOd0JTUUJpMjduRElQQ2tNLU9LNA?oc=5)
-
-2026-08-14 <span class="news-indication-tag">AF</span>
-
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU25GVlg3VmZjYjBBUUVWQzBiT05ES1N0ejN2YUIwYWNGRVN1SDJoQzg0eVhCUHJqNW1OMTdwa1RaV2JJNGdfWDFaNEItT1VHRTZZaFk0RmFmbXBnNG1rZW9IZzd1eGtIZ0M5eTZZY0xzWUFnSVAzZEZfZnhaTFRINERTd2tOd0JTUUJpMjduRElQQ2tNLU9LNA?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU25GVlg3VmZjYjBBUUVWQzBiT05ES1N0ejN2YUIwYWNGRVN1SDJoQzg0eVhCUHJqNW1OMTdwa1RaV2JJNGdfWDFaNEItT1VHRTZZaFk0RmFmbXBnNG1rZW9IZzd1eGtIZ0M5eTZZY0xzWUFnSVAzZEZfZnhaTFRINERTd2tOd0JTUUJpMjduRElQQ2tNLU9LNA?oc=5)
 
 ---
 
@@ -259,14 +259,6 @@ permalink: /news/silodosin/
 2026-08-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlpMT3cxM3cxSXV6TUR2SVVGa3BtTTJmSUhKbWVMM2gyMlBaUmVkbGwtZzJoT1AxcEptREIyQTA0QVRkVlB6M0JOMktSajEwT0tBTEdsRER4Qmkzb1hqRlUtaVpFV200ZjNWdjF4aHVUTHBKZzlBempkbWRqWDlNSkxZbFhGSjJxUlBMZEk5ejBpNWVLcjZvUmhDcW8tTndnM1VXcEN0RlB6MGtRU25B?oc=5)
-
----
-
-### [Scaffolder and dad-to-be, 29, blamed back pain on a pulled muscle until tingling legs left him paralysed in minutes - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1pDSHVpYmxlVkp2U2hadVpvY0RHSmlqS3g5LVhhek1la2M5czBsVE9rWEI1aXJDb3NxUU9SZ3FhZWQxb19vVHM4Q0dCQkdpaXpjRE83NXh4dWZic2VBZUhnQTVPT3Blc2dSRGg1czlwczdUNm9OTVdVTnhHVlNFSVpZUzM5dGpGd2htRWJpOURZSG5pbUZoODVMQ1lPZ3c?oc=5)
-
-2026-08-14 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1pDSHVpYmxlVkp2U2hadVpvY0RHSmlqS3g5LVhhek1la2M5czBsVE9rWEI1aXJDb3NxUU9SZ3FhZWQxb19vVHM4Q0dCQkdpaXpjRE83NXh4dWZic2VBZUhnQTVPT3Blc2dSRGg1czlwczdUNm9OTVdVTnhHVlNFSVpZUzM5dGpGd2htRWJpOURZSG5pbUZoODVMQ1lPZ3c?oc=5)
 
 ---
 
@@ -299,14 +291,6 @@ permalink: /news/silodosin/
 2026-08-14 <span class="news-indication-tag">AF</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeWk2aGpCMHVGbFY2WTlzRUJqbUtnVERPLWFTdHlFX0RYMEZsdHdBTXY3aWVZVTZBaDh6SWI5RFRPXzhMR05ySFRUcGRabWR1TXpJcTBETE5lUGJrWWdIaTF2NXhEZWFUZVFMOFhUU2dNaDJFdTUwbHQwT195Nk5MOHh4Q0lFODdSTEFsUmlDYXhOdXdRTElidWw2aFdITnh2LUNPaXJHS0ZEUHBOdDNMRFVoZ3NRMmktMFctR0FBV2VnRGdtcU5jUjZ4cE9YdDFMejdGYTNadjNfMm9za2tUS2t1bkptUW5LN1dIUU9oRnI?oc=5)
-
----
-
-### [La farmacéutica y nutricionista María José Cachafeiro desmonta mitos sobre alimentación, suplementación y envejecimiento - La Vanguardia](https://news.google.com/rss/articles/CBMikAJBVV95cUxQbVpSSVdBT2ZPSm91M3dEeG5HRDBHX01GLW5zVG0waHdfVm1sWFVJX3ZaZFFQY2p6ZmhGc1R6d043M0ljejB0dXNObkFkcHZMTDNoQnJFSmFWbXVyLXdLY2ZXanlOQnlpYnpzV0NMNERBV1JROWVVaE5DMVp6X1lJZ0JCUHNVWUJnOXVwSngtRVNBaWY5UVBmdHlSVUViOV9Tcl9lYy1PdDF0VFB5RFlqNnh4XzgxRlZ4azJwTm1lUmFyZDB0SmFqUFFGcFgwa1MtMFdZMzZObzB2ZHlvN0JCQnFuVTR0WWNMZDlueU9YNWxiVWtLTElNTnpRU196dnNER05wVVI3UVpfQ0xNNnRDZNIBlgJBVV95cUxPdkZHa3FCMU5vS2VjQzRrNVpZaEFJTV9WejFCRkduZ2pFUXBJdzNoV0JtS1k2S3dHdVdhejF6MkZ1N3pORzdqR2I4dkQ1ODhWYVZwal9MNm8xVVZwUUNuYkttZWVqUDFJakZvc3dJc2RzcDJGckptejA5bjNQY3ZiRmozUFdCaklLeVJlTi02b2VuWXp6alFia210UXU4VG8yblN1NjNNTDJyV0xzSlloY1hHWElQcWtUMk5pY0tNcW5aaFRxRVlJRjRqUVg2QWdRejhHbnlHMXBfcGZvaE9yTXhwaU5lSDl6RXVWMVo4aXJEQjhQQnhkcmhoUGo3QnkyaTYyZ0kxdWFCSGdYSVVMNlBhZmV0Zw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">AF</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMikAJBVV95cUxQbVpSSVdBT2ZPSm91M3dEeG5HRDBHX01GLW5zVG0waHdfVm1sWFVJX3ZaZFFQY2p6ZmhGc1R6d043M0ljejB0dXNObkFkcHZMTDNoQnJFSmFWbXVyLXdLY2ZXanlOQnlpYnpzV0NMNERBV1JROWVVaE5DMVp6X1lJZ0JCUHNVWUJnOXVwSngtRVNBaWY5UVBmdHlSVUViOV9Tcl9lYy1PdDF0VFB5RFlqNnh4XzgxRlZ4azJwTm1lUmFyZDB0SmFqUFFGcFgwa1MtMFdZMzZObzB2ZHlvN0JCQnFuVTR0WWNMZDlueU9YNWxiVWtLTElNTnpRU196dnNER05wVVI3UVpfQ0xNNnRDZNIBlgJBVV95cUxPdkZHa3FCMU5vS2VjQzRrNVpZaEFJTV9WejFCRkduZ2pFUXBJdzNoV0JtS1k2S3dHdVdhejF6MkZ1N3pORzdqR2I4dkQ1ODhWYVZwal9MNm8xVVZwUUNuYkttZWVqUDFJakZvc3dJc2RzcDJGckptejA5bjNQY3ZiRmozUFdCaklLeVJlTi02b2VuWXp6alFia210UXU4VG8yblN1NjNNTDJyV0xzSlloY1hHWElQcWtUMk5pY0tNcW5aaFRxRVlJRjRqUVg2QWdRejhHbnlHMXBfcGZvaE9yTXhwaU5lSDl6RXVWMVo4aXJEQjhQQnhkcmhoUGo3QnkyaTYyZ0kxdWFCSGdYSVVMNlBhZmV0Zw?oc=5)
 
 ---
 

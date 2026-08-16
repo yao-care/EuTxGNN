@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
 
 ### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkFQTDMzellEOUZlVE1mWGQ1QkRaX2t2STI0SlNlNUFjM0VoeENkTFpLcEhrUnN0S1d4ZHY4aVYtTTN5RUtjS1l3c3BzdzJTcFZqdU1Xd2I1dmxibUo3MHZhVHVySS1wRnV3Qm0ySkduaXhoU3JFek1MRE9kT1BxRGZONmdwM0xpS2VBc21LRVFJeWtmTFpyUXpLa0J0S0xZb3VqTnpIc3N4R0U4SjBuOS1hclF1dmVDdm1uZzl2ZDVfOVJOUTVVS2F1dkF1TXByeFNscXdDSk9IS2s?oc=5)
 
@@ -66,7 +66,7 @@ permalink: /news/ledipasvir/
 
 2026-08-15 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
 
 ---
 
@@ -75,6 +75,22 @@ permalink: /news/ledipasvir/
 2026-08-15 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
+
+---
+
+### [Forschungsprojekt: In Erlangen rückt ein Angriffspunkt gegen Herpesviren in den Fokus](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0JJZnMySnM4QlNiTlN3YUJmWHUxR19XTk5HNy1CaFFrZHpHa0VoZkprZ0RhT1pJTFZWSjk0MFE1SmJ6cTlOWnNlQmliRHM4YlpVT0JZUGZlZk52ckZfTUhmYmQxRHJ6bzRoVVNrb3h5NkVENEtWMjF4Y016NFNKbWxFaUhHNlc2TUgtZFEtUk9STlBhYzkyeFUtOHdBc2FNenJfX1N1d2YwVkEycmhncVVpT0lVV3pRLTNYSUx2cw?oc=5)
+
+2026-08-15 <span class="news-indication-tag">MS</span>
+
+來源：[NN.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0JJZnMySnM4QlNiTlN3YUJmWHUxR19XTk5HNy1CaFFrZHpHa0VoZkprZ0RhT1pJTFZWSjk0MFE1SmJ6cTlOWnNlQmliRHM4YlpVT0JZUGZlZk52ckZfTUhmYmQxRHJ6bzRoVVNrb3h5NkVENEtWMjF4Y016NFNKbWxFaUhHNlc2TUgtZFEtUk9STlBhYzkyeFUtOHdBc2FNenJfX1N1d2YwVkEycmhncVVpT0lVV3pRLTNYSUx2cw?oc=5)
+
+---
+
+### [60 years on, why Chandipura virus still catches India unprepared - The Times of India](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGtXeVBDZU4wYzljZTV6OENHRmlBN21tT01HbGZoM3JuSmpiZTROSnhlbkQzRXRxbjVnUFRqQzJvZldza3Y4YkpkQmI1Q04yYUh1a1VEN2lFS2diSlZQRlZnU3JtVTU5bDRoUXNuYU9iU2NlVzFuX3d0VjVlRnRINlJ1WHFlZmFIWnpkZ09vZEZNZnJDai00UDRBMDdtMVhwM1Rkb3l1WkFYbHpDVXpiRGdwRG9Fc0hZRDFDSDVxN2wwTWc5TzlEOUlwMjFhbTJGZzRaQnVqSG3SAd4BQVVfeXFMTVU1VmZncUZtNVZVdjNXZ2FHNmt6SVJySkJ3cy1ZZjB3MzdIQWdkSngzVHd5eklib3ZZRVJQcjZ1Y25UbEoySXk5QU1KdmZYaFBKSjVEaUZBbk5xWFM1SEpIcHBRUTNtaUsxNk9sdW9YZzQ0YThXR1VUVjh4WFhORVR5eUpUWk13UDE5dS10UWZnVFpZYThkNzJuaEQxZ0dyUHBScHRuOEZNZ0ZiaF9jTVdJZ2UtbjlCaXltLVhRRXMxNGJBcGk4WlRpS3lYZnVybkY2UXFyR2lwazgwTHhn?oc=5)
+
+2026-08-15 <span class="news-indication-tag">MS</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGtXeVBDZU4wYzljZTV6OENHRmlBN21tT01HbGZoM3JuSmpiZTROSnhlbkQzRXRxbjVnUFRqQzJvZldza3Y4YkpkQmI1Q04yYUh1a1VEN2lFS2diSlZQRlZnU3JtVTU5bDRoUXNuYU9iU2NlVzFuX3d0VjVlRnRINlJ1WHFlZmFIWnpkZ09vZEZNZnJDai00UDRBMDdtMVhwM1Rkb3l1WkFYbHpDVXpiRGdwRG9Fc0hZRDFDSDVxN2wwTWc5TzlEOUlwMjFhbTJGZzRaQnVqSG3SAd4BQVVfeXFMTVU1VmZncUZtNVZVdjNXZ2FHNmt6SVJySkJ3cy1ZZjB3MzdIQWdkSngzVHd5eklib3ZZRVJQcjZ1Y25UbEoySXk5QU1KdmZYaFBKSjVEaUZBbk5xWFM1SEpIcHBRUTNtaUsxNk9sdW9YZzQ0YThXR1VUVjh4WFhORVR5eUpUWk13UDE5dS10UWZnVFpZYThkNzJuaEQxZ0dyUHBScHRuOEZNZ0ZiaF9jTVdJZ2UtbjlCaXltLVhRRXMxNGJBcGk4WlRpS3lYZnVybkY2UXFyR2lwazgwTHhn?oc=5)
 
 ---
 
@@ -91,6 +107,14 @@ permalink: /news/ledipasvir/
 2026-08-15 <span class="news-indication-tag">MS</span>
 
 來源：[El Tiempo](https://news.google.com/rss/articles/CBMiogJBVV95cUxPcEo2SUpsS3o5WHV3NC1wT0FIcjM0OTgzeDBaZVI2bS1NenpHeUR2X2doWmZyOElIemhheEg4SEhzd3J1U1hZcWNiVFo4eE5HelBDanhSWlFCSzNZSndxQ25iRXRlcTBrbVZESVNaVXVDUDRMazMzSG8xVDZKNVJab09MMVhEaGRmNUtYQmJfM3hjYXF4RWxaUU5zVnpWUEh5TVhtU0dwdHo3OENoY3FmR2lXLTlwdHJ1YllmZ2dxdUlSNm1GajdDOXFOM0psNEtub2VSbHVNdVVSNDdacmJnUF92XzNFSzdPa00tSXFNZW8zd21SMlVvRGNhMDJaV3k2UFBwVUt1WjViVDRZbi1jRVlWUkxXZUpBeDFHVHFQTzRNd9IBpwJBVV95cUxQSmhkSlduMU51d1V4NHhLVk1qZEw0Yy1SWkxZdy1VVV8zRDFvT25KdmZJS1FGdEgxLTY5TFBMRmJzeTNpVGd0QV85Y3plU2hBRmktc3VXWmN6RDdMNE1tMkJ3Zl9pd1MwbXd2WjJUOE5kUUdJOWlTV3p3X3VkU2FYUHRtV01Gelc2WlF6MjNvbXZZNDl2aHBaVHdUa1NIcXZROEZLcWhNNVVPRUs2TE11MHpLYWV0ckx0U2ZsYXkxaGlwalc4VjVOMWVicjlGS1pDSU5DVjJYOFJzZVQ3dnREWDlGaFkxMDFKNnJnb21SRW41VFJBRWRvRmxZTGR3LTkxZXdGUG84MmRpSWFza09UQjREVmtocnpEOHc3dFdCRmxPT2d3N3l3?oc=5)
+
+---
+
+### [Psychologist Richard Wiseman spent years studying why some people consider themselves unusually lucky, then taught volunteers four of the behaviours he found — seek more chance opportunities, trust intuition, expect good things and turn setbacks aroun - Silicon Canals](https://news.google.com/rss/articles/CBMikgFBVV95cUxQamVVQWhxMWRXRjNsbl9vLVUwcF9ReHdRaWtrLUxud0hJVmd3UnRFOXp1aFZ3a1A1WnYwVzdHdEM3R05jS2c2VmhiaFN5ZnJOenh1aXpOVlV6ZlFjZ0lsQTBqSjRiY2pRdmk2VDc0ZTNyRXF1dWZJWW4xbmVxcXdhbVdMeXBMbUdPaHlUYW9ndHVZUQ?oc=5)
+
+2026-08-15 <span class="news-indication-tag">MS</span>
+
+來源：[Silicon Canals](https://news.google.com/rss/articles/CBMikgFBVV95cUxQamVVQWhxMWRXRjNsbl9vLVUwcF9ReHdRaWtrLUxud0hJVmd3UnRFOXp1aFZ3a1A1WnYwVzdHdEM3R05jS2c2VmhiaFN5ZnJOenh1aXpOVlV6ZlFjZ0lsQTBqSjRiY2pRdmk2VDc0ZTNyRXF1dWZJWW4xbmVxcXdhbVdMeXBMbUdPaHlUYW9ndHVZUQ?oc=5)
 
 ---
 
