@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Salire le scale fa bene al cuore e aiuta a vivere più a lungo. La conferma da un nuovo studio](https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3UwanR2ZXo2RXFudVNHTFd5cXdqd3d4SjYzcHRVN0l3ZW41aFRaUnlibUU2TVVoZldLc1djUDJLaFM2Z3JRbWlvNTJOUlFSR1h0Uk9DMXRKT2RLT0szMFE1MWs0TGhHY0l6OHRoODJlZGlaM2lNc0o3d0xPd2hPaXpMVzVlaWVYMVB6bEtCZnFqUlFmWFZjWDdXV2hTM3VPcENFNVpTRjN3X0VKTTRXend2S1RLZGtJS1dqUzE2Q2NiLWZ0VlVab3NQOTNCUzNWUXoxMlk4SmVoUjRteHBkQ04tY0tYV0IwdnJJSDI2aWsxVDN5dk1RUGgtS19xWGU1SDY4MVc0UWZXU2RLNTEydmYyUmxLUXVDajZz0gGgAkFVX3lxTE1ycGlHdTJxZG1nN3RvLVpRZVpUcnd4NXVPQ1N2VFRnNm16ZjZJaTBFS1dKVTY0eXFrMmVjMXU3TWRkVWdpUjMwVTRocmd4MzczTlp3aVl4bWFqQkhJQjU3UGRxSlhBRXFJdW52RXNxTk50bGI1RWFQNHRwdEd0ZDdsMTRvUENyOFBHeFBwNkEtOTZBbHd2MnJOWW1talptTlgzMm5XUE5VLS02bDBtSG8tcFlWREZDSnVxY3NXQnpmRUpRRW9BVFFKVHRUa20wVXdyYk9LUVdLZVFFQ3c3bUpqeHNLb1dUMDhMc19mX1hyaXNBZVJuTUpBb0pMM1ZoMXhudmJDYVlNbGF2bFV4V1FfTEJBMHlIMmZLMGlMU0lOSQ?oc=5)
-
-2026-08-16 <span class="news-indication-tag">ictus</span>
-
-來源：[corriere.it](https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3UwanR2ZXo2RXFudVNHTFd5cXdqd3d4SjYzcHRVN0l3ZW41aFRaUnlibUU2TVVoZldLc1djUDJLaFM2Z3JRbWlvNTJOUlFSR1h0Uk9DMXRKT2RLT0szMFE1MWs0TGhHY0l6OHRoODJlZGlaM2lNc0o3d0xPd2hPaXpMVzVlaWVYMVB6bEtCZnFqUlFmWFZjWDdXV2hTM3VPcENFNVpTRjN3X0VKTTRXend2S1RLZGtJS1dqUzE2Q2NiLWZ0VlVab3NQOTNCUzNWUXoxMlk4SmVoUjRteHBkQ04tY0tYV0IwdnJJSDI2aWsxVDN5dk1RUGgtS19xWGU1SDY4MVc0UWZXU2RLNTEydmYyUmxLUXVDajZz0gGgAkFVX3lxTE1ycGlHdTJxZG1nN3RvLVpRZVpUcnd4NXVPQ1N2VFRnNm16ZjZJaTBFS1dKVTY0eXFrMmVjMXU3TWRkVWdpUjMwVTRocmd4MzczTlp3aVl4bWFqQkhJQjU3UGRxSlhBRXFJdW52RXNxTk50bGI1RWFQNHRwdEd0ZDdsMTRvUENyOFBHeFBwNkEtOTZBbHd2MnJOWW1talptTlgzMm5XUE5VLS02bDBtSG8tcFlWREZDSnVxY3NXQnpmRUpRRW9BVFFKVHRUa20wVXdyYk9LUVdLZVFFQ3c3bUpqeHNLb1dUMDhMc19mX1hyaXNBZVJuTUpBb0pMM1ZoMXhudmJDYVlNbGF2bFV4V1FfTEJBMHlIMmZLMGlMU0lOSQ?oc=5)
-
----
-
-### [Por qué aumentan los casos de ictus en jóvenes - La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">ictus</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

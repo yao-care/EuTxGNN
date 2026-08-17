@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（7 則）
 
 ### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
 
 2026-08-17 <span class="news-indication-tag">obesità</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
-
----
-
-### [Tumori, non conta solo l’età anagrafica: perché l’età biologica può cambiare prevenzione e cure](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
-
-2026-08-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
 
 ---
 
@@ -94,27 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Salire le scale fa bene al cuore e aiuta a vivere più a lungo. La conferma da un nuovo studio](https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3UwanR2ZXo2RXFudVNHTFd5cXdqd3d4SjYzcHRVN0l3ZW41aFRaUnlibUU2TVVoZldLc1djUDJLaFM2Z3JRbWlvNTJOUlFSR1h0Uk9DMXRKT2RLT0szMFE1MWs0TGhHY0l6OHRoODJlZGlaM2lNc0o3d0xPd2hPaXpMVzVlaWVYMVB6bEtCZnFqUlFmWFZjWDdXV2hTM3VPcENFNVpTRjN3X0VKTTRXend2S1RLZGtJS1dqUzE2Q2NiLWZ0VlVab3NQOTNCUzNWUXoxMlk4SmVoUjRteHBkQ04tY0tYV0IwdnJJSDI2aWsxVDN5dk1RUGgtS19xWGU1SDY4MVc0UWZXU2RLNTEydmYyUmxLUXVDajZz0gGgAkFVX3lxTE1ycGlHdTJxZG1nN3RvLVpRZVpUcnd4NXVPQ1N2VFRnNm16ZjZJaTBFS1dKVTY0eXFrMmVjMXU3TWRkVWdpUjMwVTRocmd4MzczTlp3aVl4bWFqQkhJQjU3UGRxSlhBRXFJdW52RXNxTk50bGI1RWFQNHRwdEd0ZDdsMTRvUENyOFBHeFBwNkEtOTZBbHd2MnJOWW1talptTlgzMm5XUE5VLS02bDBtSG8tcFlWREZDSnVxY3NXQnpmRUpRRW9BVFFKVHRUa20wVXdyYk9LUVdLZVFFQ3c3bUpqeHNLb1dUMDhMc19mX1hyaXNBZVJuTUpBb0pMM1ZoMXhudmJDYVlNbGF2bFV4V1FfTEJBMHlIMmZLMGlMU0lOSQ?oc=5)
-
-2026-08-16 <span class="news-indication-tag">ictus</span>
-
-來源：[corriere.it](https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3UwanR2ZXo2RXFudVNHTFd5cXdqd3d4SjYzcHRVN0l3ZW41aFRaUnlibUU2TVVoZldLc1djUDJLaFM2Z3JRbWlvNTJOUlFSR1h0Uk9DMXRKT2RLT0szMFE1MWs0TGhHY0l6OHRoODJlZGlaM2lNc0o3d0xPd2hPaXpMVzVlaWVYMVB6bEtCZnFqUlFmWFZjWDdXV2hTM3VPcENFNVpTRjN3X0VKTTRXend2S1RLZGtJS1dqUzE2Q2NiLWZ0VlVab3NQOTNCUzNWUXoxMlk4SmVoUjRteHBkQ04tY0tYV0IwdnJJSDI2aWsxVDN5dk1RUGgtS19xWGU1SDY4MVc0UWZXU2RLNTEydmYyUmxLUXVDajZz0gGgAkFVX3lxTE1ycGlHdTJxZG1nN3RvLVpRZVpUcnd4NXVPQ1N2VFRnNm16ZjZJaTBFS1dKVTY0eXFrMmVjMXU3TWRkVWdpUjMwVTRocmd4MzczTlp3aVl4bWFqQkhJQjU3UGRxSlhBRXFJdW52RXNxTk50bGI1RWFQNHRwdEd0ZDdsMTRvUENyOFBHeFBwNkEtOTZBbHd2MnJOWW1talptTlgzMm5XUE5VLS02bDBtSG8tcFlWREZDSnVxY3NXQnpmRUpRRW9BVFFKVHRUa20wVXdyYk9LUVdLZVFFQ3c3bUpqeHNLb1dUMDhMc19mX1hyaXNBZVJuTUpBb0pMM1ZoMXhudmJDYVlNbGF2bFV4V1FfTEJBMHlIMmZLMGlMU0lOSQ?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
+### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g2RXY4MklVUDlpOHRwRV8wc1RuZDBoTEhRb2Q1QUVvSVA4Zm40MXNZTkQtdHA1S1BhWGo0LWVKNzBOOFd6Z21pQ09ZMVBvS0Mxb1NmZjQwUEJzVklrYXlwWnF3ODhyYWpNamdmRm9ET1ZqT0JYM0JYRl8waENYSmhJQWFnZk9VZW9kRE1RSVBieW9VV1VaREFsdmlzbTJMdlcxRXJ6R0tXRzA?oc=5)
 
 2026-08-16 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
-
----
-
-### [New obesity definitions reveal ill health more accurately than body mass index - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlI0TGd1WHRQRmtRRVFCLUtnWTJib3VUbXd1eFRtMzJMVW1qZmdibUFwN1VxTmpxd1NpNFBWR0tZcFRSd1Vnb1NCalRfVGJGdEZHdEtnazFVb1k5TlVPSVZpR3lwWUV3YzNaZDUzeEdoQnFDV0FrcHR0VmhvR0xtbzFaM0NuRmIt?oc=5)
-
-2026-08-15 <span class="news-indication-tag">obesity</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlI0TGd1WHRQRmtRRVFCLUtnWTJib3VUbXd1eFRtMzJMVW1qZmdibUFwN1VxTmpxd1NpNFBWR0tZcFRSd1Vnb1NCalRfVGJGdEZHdEtnazFVb1k5TlVPSVZpR3lwWUV3YzNaZDUzeEdoQnFDV0FrcHR0VmhvR0xtbzFaM0NuRmIt?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g2RXY4MklVUDlpOHRwRV8wc1RuZDBoTEhRb2Q1QUVvSVA4Zm40MXNZTkQtdHA1S1BhWGo0LWVKNzBOOFd6Z21pQ09ZMVBvS0Mxb1NmZjQwUEJzVklrYXlwWnF3ODhyYWpNamdmRm9ET1ZqT0JYM0JYRl8waENYSmhJQWFnZk9VZW9kRE1RSVBieW9VV1VaREFsdmlzbTJMdlcxRXJ6R0tXRzA?oc=5)
 
 ---
 
@@ -131,14 +107,6 @@ permalink: /news/orlistat/
 2026-08-15 <span class="news-indication-tag">obesidad</span>
 
 來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
-
----
-
-### [Por qué aumentan los casos de ictus en jóvenes - La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">ictus</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
 
 ---
 

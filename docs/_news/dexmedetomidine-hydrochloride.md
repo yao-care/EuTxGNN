@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
-
----
-
-### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
-2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
 
 ---
 
@@ -75,14 +67,6 @@ permalink: /news/dexmedetomidine-hydrochloride/
 2026-08-15 <span class="news-indication-tag">hypertension</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
-
----
-
-### [Il caldo dà alla testa. E non è solo un modo di dire](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
 
 ---
 

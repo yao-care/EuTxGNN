@@ -48,6 +48,14 @@ permalink: /news/levodopa/
 
 ## 相關新聞（4 則）
 
+### [Two Hours of Sleep Restored in Alzheimer’s Brains in Research Breakthrough - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
+
+---
+
 ### ['I'm a neurologist - these symptoms can appear years before a Parkinson's diagnosis' - GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
 
 2026-08-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
@@ -69,14 +77,6 @@ permalink: /news/levodopa/
 2026-08-15 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
-
----
-
-### [‘Mum worked into her 70s. Her £250k savings were lost to dementia care’ - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
-
-2026-08-15 <span class="news-indication-tag">dementia</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
 
 ---
 

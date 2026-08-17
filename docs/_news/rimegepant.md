@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+### [Warning issued over popular medication taken by 8m in UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/rimegepant/
 
 2026-08-16 <span class="news-indication-tag">heart disease</span>
 
-來源：[qdpnews.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/rimegepant/
 2026-08-15 <span class="news-indication-tag">heart disease</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEhDRGRfZXBUS0c1VVV5LXJDMnFrSG5iTl9HQV9tcGkzZDBCM0hpM1ZaZTBXaV9ZWHdjVDZnbllOeVc4QWlpQUZVdmN6ZlNhenllaGZsWkZoMjFETVQyZWdvS0hhOU40OFpEOWx2Qkg1WTVOd1ZlRXZSaDZ5R1Y4QkoxTHJ3eFF0ajBza0RoMUhhYkFWY2E5MA?oc=5)
-
----
-
-### [Il caldo dà alla testa. E non è solo un modo di dire](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
 
 ---
 

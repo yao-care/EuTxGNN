@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 2026-08-16
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
-
----
-
-### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
-2026-08-16
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
 
 ---
 

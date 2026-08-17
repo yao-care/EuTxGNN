@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
 ### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 
-### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+### [Warning issued over popular medication taken by 8m in UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 ---
 
@@ -74,23 +74,7 @@ permalink: /news/telmisartan/
 
 2026-08-16 <span class="news-indication-tag">heart disease</span>
 
-來源：[qdpnews.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
-
----
-
-### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
-2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
----
-
-### [Salire le scale fa bene al cuore e aiuta a vivere più a lungo. La conferma da un nuovo studio](https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3UwanR2ZXo2RXFudVNHTFd5cXdqd3d4SjYzcHRVN0l3ZW41aFRaUnlibUU2TVVoZldLc1djUDJLaFM2Z3JRbWlvNTJOUlFSR1h0Uk9DMXRKT2RLT0szMFE1MWs0TGhHY0l6OHRoODJlZGlaM2lNc0o3d0xPd2hPaXpMVzVlaWVYMVB6bEtCZnFqUlFmWFZjWDdXV2hTM3VPcENFNVpTRjN3X0VKTTRXend2S1RLZGtJS1dqUzE2Q2NiLWZ0VlVab3NQOTNCUzNWUXoxMlk4SmVoUjRteHBkQ04tY0tYV0IwdnJJSDI2aWsxVDN5dk1RUGgtS19xWGU1SDY4MVc0UWZXU2RLNTEydmYyUmxLUXVDajZz0gGgAkFVX3lxTE1ycGlHdTJxZG1nN3RvLVpRZVpUcnd4NXVPQ1N2VFRnNm16ZjZJaTBFS1dKVTY0eXFrMmVjMXU3TWRkVWdpUjMwVTRocmd4MzczTlp3aVl4bWFqQkhJQjU3UGRxSlhBRXFJdW52RXNxTk50bGI1RWFQNHRwdEd0ZDdsMTRvUENyOFBHeFBwNkEtOTZBbHd2MnJOWW1talptTlgzMm5XUE5VLS02bDBtSG8tcFlWREZDSnVxY3NXQnpmRUpRRW9BVFFKVHRUa20wVXdyYk9LUVdLZVFFQ3c3bUpqeHNLb1dUMDhMc19mX1hyaXNBZVJuTUpBb0pMM1ZoMXhudmJDYVlNbGF2bFV4V1FfTEJBMHlIMmZLMGlMU0lOSQ?oc=5)
-
-2026-08-16 <span class="news-indication-tag">ictus</span>
-
-來源：[corriere.it](https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3UwanR2ZXo2RXFudVNHTFd5cXdqd3d4SjYzcHRVN0l3ZW41aFRaUnlibUU2TVVoZldLc1djUDJLaFM2Z3JRbWlvNTJOUlFSR1h0Uk9DMXRKT2RLT0szMFE1MWs0TGhHY0l6OHRoODJlZGlaM2lNc0o3d0xPd2hPaXpMVzVlaWVYMVB6bEtCZnFqUlFmWFZjWDdXV2hTM3VPcENFNVpTRjN3X0VKTTRXend2S1RLZGtJS1dqUzE2Q2NiLWZ0VlVab3NQOTNCUzNWUXoxMlk4SmVoUjRteHBkQ04tY0tYV0IwdnJJSDI2aWsxVDN5dk1RUGgtS19xWGU1SDY4MVc0UWZXU2RLNTEydmYyUmxLUXVDajZz0gGgAkFVX3lxTE1ycGlHdTJxZG1nN3RvLVpRZVpUcnd4NXVPQ1N2VFRnNm16ZjZJaTBFS1dKVTY0eXFrMmVjMXU3TWRkVWdpUjMwVTRocmd4MzczTlp3aVl4bWFqQkhJQjU3UGRxSlhBRXFJdW52RXNxTk50bGI1RWFQNHRwdEd0ZDdsMTRvUENyOFBHeFBwNkEtOTZBbHd2MnJOWW1talptTlgzMm5XUE5VLS02bDBtSG8tcFlWREZDSnVxY3NXQnpmRUpRRW9BVFFKVHRUa20wVXdyYk9LUVdLZVFFQ3c3bUpqeHNLb1dUMDhMc19mX1hyaXNBZVJuTUpBb0pMM1ZoMXhudmJDYVlNbGF2bFV4V1FfTEJBMHlIMmZLMGlMU0lOSQ?oc=5)
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
 
 ---
 
@@ -107,14 +91,6 @@ permalink: /news/telmisartan/
 2026-08-15 <span class="news-indication-tag">hypertension</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
-
----
-
-### [Por qué aumentan los casos de ictus en jóvenes - La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">ictus</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0J6SVc5dnd4dDBYTXFNWTAwbjdwYUdJRExVLXZXN21TZXBOQTN6M2tvZmZnOGF4Y2xIZXVoYjB1Y3ZxM2xhWFFXUkFZQVFDX3dLNEhjZVBsWElSZ1VGaDNDUElDb2tEWUhabGE1WHl4VGNZRk1RQ3gwdUxvYzZFRHlQbGpIYjh4eVd3ekV6ZWxQOGw0aVHSAZsBQVVfeXFMTTNsY2dEdTFNdGlPeVdXWFRwaXZFb0lRV0J3ajNTU1JYeGozZXdKOVJjcGViVU1jajY2aUZLLUJaWENvZWU1alNwdlN6azBObUxLV01kWTdIckRwb0g0UmtQeFRBWEhzRVpVNktnWjB0UkJmNTNlU0pUeFlMSEpYMmExUGhxZTdLMklORjdXOWJYOGdOclcxdW9iajg?oc=5)
 
 ---
 

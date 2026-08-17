@@ -3,7 +3,7 @@ layout: default
 title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。9 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>9 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesità（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
 ### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
 
 2026-08-17
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
-
----
-
-### [Tumori, non conta solo l’età anagrafica: perché l’età biologica può cambiare prevenzione e cure](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
-
-2026-08-16
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
 
 ---
 
@@ -78,19 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
+### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g2RXY4MklVUDlpOHRwRV8wc1RuZDBoTEhRb2Q1QUVvSVA4Zm40MXNZTkQtdHA1S1BhWGo0LWVKNzBOOFd6Z21pQ09ZMVBvS0Mxb1NmZjQwUEJzVklrYXlwWnF3ODhyYWpNamdmRm9ET1ZqT0JYM0JYRl8waENYSmhJQWFnZk9VZW9kRE1RSVBieW9VV1VaREFsdmlzbTJMdlcxRXJ6R0tXRzA?oc=5)
 
 2026-08-16
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
-
----
-
-### [New obesity definitions reveal ill health more accurately than body mass index - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlI0TGd1WHRQRmtRRVFCLUtnWTJib3VUbXd1eFRtMzJMVW1qZmdibUFwN1VxTmpxd1NpNFBWR0tZcFRSd1Vnb1NCalRfVGJGdEZHdEtnazFVb1k5TlVPSVZpR3lwWUV3YzNaZDUzeEdoQnFDV0FrcHR0VmhvR0xtbzFaM0NuRmIt?oc=5)
-
-2026-08-15
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlI0TGd1WHRQRmtRRVFCLUtnWTJib3VUbXd1eFRtMzJMVW1qZmdibUFwN1VxTmpxd1NpNFBWR0tZcFRSd1Vnb1NCalRfVGJGdEZHdEtnazFVb1k5TlVPSVZpR3lwWUV3YzNaZDUzeEdoQnFDV0FrcHR0VmhvR0xtbzFaM0NuRmIt?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g2RXY4MklVUDlpOHRwRV8wc1RuZDBoTEhRb2Q1QUVvSVA4Zm40MXNZTkQtdHA1S1BhWGo0LWVKNzBOOFd6Z21pQ09ZMVBvS0Mxb1NmZjQwUEJzVklrYXlwWnF3ODhyYWpNamdmRm9ET1ZqT0JYM0JYRl8waENYSmhJQWFnZk9VZW9kRE1RSVBieW9VV1VaREFsdmlzbTJMdlcxRXJ6R0tXRzA?oc=5)
 
 ---
 

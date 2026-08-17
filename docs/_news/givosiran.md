@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[telecinco.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 ---
 
 ### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
-
----
-
-### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
-2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
 
 ---
 

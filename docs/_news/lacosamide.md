@@ -14,7 +14,7 @@ permalink: /news/lacosamide/
 ---
 
 <p class="key-answer" data-question="Lacosamide 有什麼相關新聞？">
-<strong>Lacosamide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lacosamide</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,37 @@ permalink: /news/lacosamide/
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（21 則）
 
-### [Ebola outbreak in DR Congo now deadliest in country's history - Sky News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2xiSmlMMUt1TlA2UVhrTUNnS2paX1ltMXhZSjV1VjZQaVFJWnBjWnE2elBYNlNRNEJTQVZ3TV9INmhsaXhyWFBFdHloanBFd1FiQnFtQmJfYjdxcVhEaGdDd2o1VDhQN0NlZ0RjZTRZV3BkYjhiOXBnOW9oYnhCTEl4ZDktUFhhdllTaWFqM2duNWp2VDdFdmNxODk?oc=5)
+### [Wissenschaftler entdecken möglichen Auslöser von Alzheimer – er beginnt schon mit 50 Jahren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M1UDZTM2trVGpINWFJYmpya3hCVUp3alRrQllISG9NSHlWVGFNN2UydDJWcFRIbUMzdGNici0wdlNUQzlONzdJNzZscHlhYW5iMlNqeElCSjNRUkZDU0NiLUhXRjhXdFlqaWItM0xlYjNPMk5ZaE1PLWRjR0xQT056VTBackFlRXppUVRWOFF1QnFxa1dSOXk4NHVaLWozdS01Zg?oc=5)
 
-2026-08-16 <span class="news-indication-tag">AF</span>
+2026-08-17 <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2xiSmlMMUt1TlA2UVhrTUNnS2paX1ltMXhZSjV1VjZQaVFJWnBjWnE2elBYNlNRNEJTQVZ3TV9INmhsaXhyWFBFdHloanBFd1FiQnFtQmJfYjdxcVhEaGdDd2o1VDhQN0NlZ0RjZTRZV3BkYjhiOXBnOW9oYnhCTEl4ZDktUFhhdllTaWFqM2duNWp2VDdFdmNxODk?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M1UDZTM2trVGpINWFJYmpya3hCVUp3alRrQllISG9NSHlWVGFNN2UydDJWcFRIbUMzdGNici0wdlNUQzlONzdJNzZscHlhYW5iMlNqeElCSjNRUkZDU0NiLUhXRjhXdFlqaWItM0xlYjNPMk5ZaE1PLWRjR0xQT056VTBackFlRXppUVRWOFF1QnFxa1dSOXk4NHVaLWozdS01Zg?oc=5)
 
 ---
 
-### [Gehirn besitzt mehr Selbstheilungskraft als bisher angenommen](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFkxWTV5ejh3SE5sV3Z2cXpKQzhKQ25lMkZZQzEtYkJoSnhpXzhLd1BkM1hwM3Zzc0FpQkFvLTdmcElrbkJoVHB3c1FpSjhkVElhTjFwakw5c0VZLUhCMDVLeHB3MlVEVEkyUlVrNVBDZ2RBaTFMc3RGTWZDN2RES1lWOGZhV0t2a1BpdmREVW42TFlaNEpYcnJR?oc=5)
+### [Mayte Truchuelo, dermatóloga: «Puedes proteger muy bien tu cara del sol y aun así empeorar las manchas» - The Objective](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQczdRU2VtaG9PY25HZnpYMHVFNXFKRnRXZFdDcXR6WWNMalFpcFNFcUpfdzdXQ3FUaGNMSU1MMW82S1lzYzJnQURvU3Rfak5LaFJzM3VNZTFwTWttejdRWW1BYkdkdnJLdTJmUV9oZnUwRVduUjR4VXNILW5zSXduY25USUJBLVE2aFQ4LTJNRGVudWNWWVpGUjFzYTV6dWFYWnl5LU9UT2ZLOXVtU1pGSzVQODNwVHZNaHJMVEdOVVlDU3U0dUFFbUNpZmkwcDVWSzB5VzNaWDhHUGlTQjlhLWFpY1J5M0xxNWfSAe8BQVVfeXFMTUZCZUlWbl9zTjdiRWo3ZUlROG1ueWVzN2lFbzZzZHV2Y3NUbzEwWktWcGVyRWlTc3B1MXN2b19IaXNTU2Y4bWhuUmxaMkRNN004Ul8wMU9LeEVyVjdHNG5LQnM4VnVRZzRucmE0SGFQNFdOLThSZHhZZzAzUTRUbzhCMks2cXpONEVoREVJSFJ3Q28ydmZYdDlvZHV6MG5FSGI4Y2t4RmFVYWFZTzM0c0dEdldUWjVKOWR4M2RBa3RQb1NzSldmMjFWTEh4M2pZUXFoRGlvaGxCSk05TEktQ0JmTjhXSzM0eXlUWWl1cEU?oc=5)
 
-2026-08-16 <span class="news-indication-tag">AF</span>
+2026-08-17 <span class="news-indication-tag">AF</span>
 
-來源：[Ökonews](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFkxWTV5ejh3SE5sV3Z2cXpKQzhKQ25lMkZZQzEtYkJoSnhpXzhLd1BkM1hwM3Zzc0FpQkFvLTdmcElrbkJoVHB3c1FpSjhkVElhTjFwakw5c0VZLUhCMDVLeHB3MlVEVEkyUlVrNVBDZ2RBaTFMc3RGTWZDN2RES1lWOGZhV0t2a1BpdmREVW42TFlaNEpYcnJR?oc=5)
+來源：[The Objective](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQczdRU2VtaG9PY25HZnpYMHVFNXFKRnRXZFdDcXR6WWNMalFpcFNFcUpfdzdXQ3FUaGNMSU1MMW82S1lzYzJnQURvU3Rfak5LaFJzM3VNZTFwTWttejdRWW1BYkdkdnJLdTJmUV9oZnUwRVduUjR4VXNILW5zSXduY25USUJBLVE2aFQ4LTJNRGVudWNWWVpGUjFzYTV6dWFYWnl5LU9UT2ZLOXVtU1pGSzVQODNwVHZNaHJMVEdOVVlDU3U0dUFFbUNpZmkwcDVWSzB5VzNaWDhHUGlTQjlhLWFpY1J5M0xxNWfSAe8BQVVfeXFMTUZCZUlWbl9zTjdiRWo3ZUlROG1ueWVzN2lFbzZzZHV2Y3NUbzEwWktWcGVyRWlTc3B1MXN2b19IaXNTU2Y4bWhuUmxaMkRNN004Ul8wMU9LeEVyVjdHNG5LQnM4VnVRZzRucmE0SGFQNFdOLThSZHhZZzAzUTRUbzhCMks2cXpONEVoREVJSFJ3Q28ydmZYdDlvZHV6MG5FSGI4Y2t4RmFVYWFZTzM0c0dEdldUWjVKOWR4M2RBa3RQb1NzSldmMjFWTEh4M2pZUXFoRGlvaGxCSk05TEktQ0JmTjhXSzM0eXlUWWl1cEU?oc=5)
 
 ---
 
 ### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 
-### [Alzheimer: Blockade von Mikroglia verlängert Schlaf um zwei Stunden](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXZCcFFjaUJMRzkzMzUtX19XZ3NMR1B1SHZhWURTQmtocXV0MFBVMXRacDZMZ1VnbnFmaXU2bHcxVW5MNXhpUGtvTFZMXzduWTFMRUZVbFZsWmtWeDdSZk52QnJvdnBwR1o5ajI4TlhVT08wWkIxMVktcXlCVjhWOG11eTdGMmRvd0dsN0RLeGFVUEpSX1ZqMVVGTEVNUEdMbUlPcTdwZ2VLc2ZNcEMzUG94eFd3cXc?oc=5)
-
-2026-08-16 <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXZCcFFjaUJMRzkzMzUtX19XZ3NMR1B1SHZhWURTQmtocXV0MFBVMXRacDZMZ1VnbnFmaXU2bHcxVW5MNXhpUGtvTFZMXzduWTFMRUZVbFZsWmtWeDdSZk52QnJvdnBwR1o5ajI4TlhVT08wWkIxMVktcXlCVjhWOG11eTdGMmRvd0dsN0RLeGFVUEpSX1ZqMVVGTEVNUEdMbUlPcTdwZ2VLc2ZNcEMzUG94eFd3cXc?oc=5)
-
----
-
-### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+### [Warning issued over popular medication taken by 8m in UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 ---
 
@@ -104,7 +96,7 @@ permalink: /news/lacosamide/
 
 ### [Tumori, non conta solo l’età anagrafica: perché l’età biologica può cambiare prevenzione e cure](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
 
-2026-08-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
 
@@ -150,11 +142,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Wissenschaftler entdecken möglichen Auslöser von Alzheimer – er beginnt schon mit 50 Jahren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZkphYTcxWVFhSm5PcEhJXzJEX01RLUxIV1hDU2VmdHFybGRTSXhnVTNLQ0UtSjNsa1M3SjZXVWFzYWg4MDU4VFhXNHMzSHFLYy1yX3FpdEhNZVRsYkJSakczYXh1RGlmeDhmQXpMQzZJc1pqU2x3d2xhUmUzUzgtVEdoVlk5ZmtxYzBoX2otQUdOSno0V09ucmtOMjRYUWFIVWZvNA?oc=5)
+### [Killer kitchen dust victims could be screened in boost for i Paper campaign - The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxOclFDTXVzY0Y0V2ViSDhjVjQxVmNadF9ETVhwdVJmQ0R6LWRzOVprVjBaY3NWMi1GR3otcUhhTzFaazRaMVlsd2RyN2xIUHo2ekpXQndGRkpTWTRLNHRGOG9vZVdLdUFxQVI0YnZUdWxFbEtUb3ZWSU1leFF4NjBMSmdOU1JXeTJnQlRHMQ?oc=5)
 
-2026-08-16 <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZkphYTcxWVFhSm5PcEhJXzJEX01RLUxIV1hDU2VmdHFybGRTSXhnVTNLQ0UtSjNsa1M3SjZXVWFzYWg4MDU4VFhXNHMzSHFLYy1yX3FpdEhNZVRsYkJSakczYXh1RGlmeDhmQXpMQzZJc1pqU2x3d2xhUmUzUzgtVEdoVlk5ZmtxYzBoX2otQUdOSno0V09ucmtOMjRYUWFIVWZvNA?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxOclFDTXVzY0Y0V2ViSDhjVjQxVmNadF9ETVhwdVJmQ0R6LWRzOVprVjBaY3NWMi1GR3otcUhhTzFaazRaMVlsd2RyN2xIUHo2ekpXQndGRkpTWTRLNHRGOG9vZVdLdUFxQVI0YnZUdWxFbEtUb3ZWSU1leFF4NjBMSmdOU1JXeTJnQlRHMQ?oc=5)
 
 ---
 
@@ -163,6 +155,14 @@ permalink: /news/lacosamide/
 2026-08-16 <span class="news-indication-tag">AF</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUWYyQXl3R1lMci1OOG1ON3ZtTHF3dEdEOUpOdEhtSVQ2MU5FX2RXel9oMUo1LWI5blhESlNDVDNFTTlySUFrcWV5RTdGNjVEX0tVVzdxUTBjWmVVbG91SGZwcE1yb1Z6aENJUE5xSmQzdVFBaDQzVFhyaWF4SDBBem8wTXZQalJ3d2JiZ01iVVAyV3VLa3o4YjhRT0tENkY3MXpscDJWRE9YZ0FORWdLQ0xiVXQ5QjlkZzM3cTdjZG51ampPTWtxcjNNVU9vN19mV1A0SUxJZENEWGNwS2xFT0ZTQlBjQQ?oc=5)
+
+---
+
+### [Alzheimer-Schlaf: Mikroglia-Blockade bringt in Mausstudien über zwei Stunden mehr Schlaf - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVZCVFZZbVZYUUhBWmpJRGRoMFVBQ3M2YW1XalpDRWxvdzNTVEtYdTJXbVkzYmVQVHEzNi1GSWtlQ2d1S2VLQ2xpQ1RDcF80bUdRQVRheGxURjhXUlExWVVJQmk4RHhOUFZ5V0VaLVBkX3VqamhUU1BHM3diUUIxOEQ0MGpGQXZOU0duYzhLbXRiaGhJd0JEdU9GckVTQzdrOFBOd05yNEdfRW11V3UyTEdsSHhGbUpCUEJacQ?oc=5)
+
+2026-08-16 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVZCVFZZbVZYUUhBWmpJRGRoMFVBQ3M2YW1XalpDRWxvdzNTVEtYdTJXbVkzYmVQVHEzNi1GSWtlQ2d1S2VLQ2xpQ1RDcF80bUdRQVRheGxURjhXUlExWVVJQmk4RHhOUFZ5V0VaLVBkX3VqamhUU1BHM3diUUIxOEQ0MGpGQXZOU0duYzhLbXRiaGhJd0JEdU9GckVTQzdrOFBOd05yNEdfRW11V3UyTEdsSHhGbUpCUEJacQ?oc=5)
 
 ---
 
@@ -190,27 +190,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Les restaurateurs viennent de valider cette astuce gratuite pour chasser les guêpes des terrasses](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVGgzMmtJWTZfV2ctdmZkM0NDZDB6TG1aXzctclQzeEFPOHpUak1HY3ZtRndmS0psdkQtTGI4Zi1YenVPcy0zNEdFdW5sQWMtSElqQ0xxTllzb1ZlNURLeVNXRzVwSGxjMUdxVGpPay1fRkFZWGg0dExFeW1KRllRbVhTVlU5a2ZUQ1JKSWRvelFtdzFveXpMbDBZX1FDWFFXTlFVU1BjT3NIQURTcjBkazZVVUZ6OTlyVHc4U3RNOWg0TFJKSWgxcGE1MDYxNUJsNlo1MXlSaVlHSEpVS0plWTdfWFVQa0puLVlMM2F4THBYQzluYmtF?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[pleinevie.fr](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVGgzMmtJWTZfV2ctdmZkM0NDZDB6TG1aXzctclQzeEFPOHpUak1HY3ZtRndmS0psdkQtTGI4Zi1YenVPcy0zNEdFdW5sQWMtSElqQ0xxTllzb1ZlNURLeVNXRzVwSGxjMUdxVGpPay1fRkFZWGg0dExFeW1KRllRbVhTVlU5a2ZUQ1JKSWRvelFtdzFveXpMbDBZX1FDWFFXTlFVU1BjT3NIQURTcjBkazZVVUZ6OTlyVHc4U3RNOWg0TFJKSWgxcGE1MDYxNUJsNlo1MXlSaVlHSEpVS0plWTdfWFVQa0puLVlMM2F4THBYQzluYmtF?oc=5)
-
----
-
 ### [Is Protein Powder Bad For Your Long-Term Health?](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekliNlI4QUV0aVpadEdiVE9XemdmYnFwcHhRTkVQTUVObmtRWHozcHBSUU50MzVkV09KQkJudVpFenUxSk1UR2R0aG1tRXZFUnY1T1VzOS1pT21SMmlNbFFrb01BbkU0Y0NSQkRiNVJjR09jZWp4Q1lOSzlVd2M?oc=5)
 
 2026-08-15 <span class="news-indication-tag">AF</span>
 
 來源：[GQ](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekliNlI4QUV0aVpadEdiVE9XemdmYnFwcHhRTkVQTUVObmtRWHozcHBSUU50MzVkV09KQkJudVpFenUxSk1UR2R0aG1tRXZFUnY1T1VzOS1pT21SMmlNbFFrb01BbkU0Y0NSQkRiNVJjR09jZWp4Q1lOSzlVd2M?oc=5)
-
----
-
-### [Östrogen-MHT senkt Alzheimer-Risiko: Stanford-Studie mit 21.462 Probanden - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVdoWkRYeDgtTUZjalM3NThGUkF2ZkF4NFlTUmpXSHlnRlZhcDRjM2ZQNTZlVVdMWFNDaVRzSjM3QzlXb21SMnBZZ1NaR0RuQUFjNl9VSkRhY0F3UUMwR2Uwekx2UDh0UTVtbFFaT1J1TkU0OXJ1dk1YVXBkcEliRWlNZ1RWeC13ejNkd19sc3RYUlAyWndmamRyYlZ6OFFzUGZGaGM5eXE?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVdoWkRYeDgtTUZjalM3NThGUkF2ZkF4NFlTUmpXSHlnRlZhcDRjM2ZQNTZlVVdMWFNDaVRzSjM3QzlXb21SMnBZZ1NaR0RuQUFjNl9VSkRhY0F3UUMwR2Uwekx2UDh0UTVtbFFaT1J1TkU0OXJ1dk1YVXBkcEliRWlNZ1RWeC13ejNkd19sc3RYUlAyWndmamRyYlZ6OFFzUGZGaGM5eXE?oc=5)
 
 ---
 
@@ -235,22 +219,6 @@ permalink: /news/lacosamide/
 2026-08-15 <span class="news-indication-tag">AF</span>
 
 來源：[CHIP](https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2ozeUwtNnVmcks5b1h3MlozRWNyaC0tSnhjWHVHZlkycXdpTDZYVmttRl9VRUlMTDNlbUp3SmtVY3FwUHBUTnI4WkFEZndaREZZaEtXMEtIR0VZNHE2WktUdGt4WWo4UTZhQTNkQXlsZU9HdC1wN0ZCekk1STNDdks2bGxxUURrd1pZaklJMlZFMUZsY0YwNW83X2w2TFYxQ3RFNzNLTzFqQWRLTEdSVWVqeVItYjd3aWV0TjBweW5OR2FZVE9yZ1BNZnE5dnRWX0ZSVDNqWlBkS2ZlcFU5SjdrYw?oc=5)
-
----
-
-### [Santé: combien de tasses de café peut-on boire sans risque pour le cœur ? - Charente Libre](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVFTeE1va1lrRDJXZUdDNVRLX1lVRGRVRERUQ3k3YVRXRlU5dEluSmhKejFUZnRFZTJ1VU5XdlhVYVFzV2ltWEM4alJSbVRhV0hVVGNEVzRKSkV4dzkzNFdweVVjR2NLSWRZS3BVYVE3djdVcDNaZlp5QXVDVXl0U05ESnpjUEREVmdiWHVLLUxRUW8waGNBcnRNcUsyUmxDeXJOWVFlRGZZYUphT0NnNC1Gcw?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVFTeE1va1lrRDJXZUdDNVRLX1lVRGRVRERUQ3k3YVRXRlU5dEluSmhKejFUZnRFZTJ1VU5XdlhVYVFzV2ltWEM4alJSbVRhV0hVVGNEVzRKSkV4dzkzNFdweVVjR2NLSWRZS3BVYVE3djdVcDNaZlp5QXVDVXl0U05ESnpjUEREVmdiWHVLLUxRUW8waGNBcnRNcUsyUmxDeXJOWVFlRGZZYUphT0NnNC1Gcw?oc=5)
-
----
-
-### [Il caldo dà alla testa. E non è solo un modo di dire](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
 
 ---
 

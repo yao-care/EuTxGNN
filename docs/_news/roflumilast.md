@@ -14,7 +14,7 @@ permalink: /news/roflumilast/
 ---
 
 <p class="key-answer" data-question="Roflumilast 有什麼相關新聞？">
-<strong>Roflumilast</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Roflumilast</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/roflumilast/
 <p><a href="{{ '/drugs/roflumilast/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（27 則）
 
 ### [Tumore, allenarsi durante le cure: cosa è successo a 2.570 pazienti](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1JLMjRuSnlSaGJtZDFKVGt2dWhhS1hmY2VKbzFXdzFPemU0OGdnMW1DS29uZmZnd3FIVUg0Ujk5aWNuSUVRRDRFd0dwbmxfRmxhTnB1VFd3UkxvUXhocHd3T1MyOEtHTTk2WFVwODI2bzVkeXlOQkVCQzA0dTFWT2hZYmh5bW1wRVBidHZjTnQ0dUFuTDc0UTBaWk9zR0xRRzZ4c0FrRm43XzVQd1NZUlp5THJIZlVwdVNmaGF2WXU2eTA?oc=5)
 
-2026-08-16 <span class="news-indication-tag">tumor</span>
+2026-08-17 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1JLMjRuSnlSaGJtZDFKVGt2dWhhS1hmY2VKbzFXdzFPemU0OGdnMW1DS29uZmZnd3FIVUg0Ujk5aWNuSUVRRDRFd0dwbmxfRmxhTnB1VFd3UkxvUXhocHd3T1MyOEtHTTk2WFVwODI2bzVkeXlOQkVCQzA0dTFWT2hZYmh5bW1wRVBidHZjTnQ0dUFuTDc0UTBaWk9zR0xRRzZ4c0FrRm43XzVQd1NZUlp5THJIZlVwdVNmaGF2WXU2eTA?oc=5)
 
 ---
 
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+### [Clínica Juaneda incorpora una técnica avanzada que permite tratar tumores digestivos precoces sin cirugía invasiva - Diario de Mallorca](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFd4S2tIak56WlBtd1BOeDRETVc2YWpTM3hnNDVvMm9PdTRpa0JKWFVleHR3bE9kd1pqYTk5VXdMbDVYZjdoQXNkVWFIdmlSbjktNWdNdTlfbGUzYVN3WDllUDhSaFNzeUNtNWViUEl2Z2FQM3NJY3JnTDBJOGJuY3RlYjJNdjVoMFFQSV9aemtVdkt5Y3pHSUFPWFBmWWxJbWZKQmRGZVdicGtKb0JleWhScVk4cDRwTVlOMlY2Z9IBxAFBVV95cUxOUnJVZmlCeldFY0NYS2lmdjVWUnp0ZVhLRjExWGZHbWxjMlJ5b0ZIbS02SGt5RmRNczYwSDVYcnIzN0dXTF9nYjN2dklIQUk2OEd4WkhOdnd2alk1RTBFWGRYM0k0QXVsMWQ3UndYcjVwWHNxeUJRUnZDRUFyUFlSUF93dXNHMExPZEVTY3lfUVpjNUdZSV9HWWZZWlBKeUViZmlKWU5NTEdnSXhCYU1rbzA5OEFyRFVxc2p0RGNFUkcyN0Z3?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-17 <span class="news-indication-tag">tumor</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+來源：[Diario de Mallorca](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFd4S2tIak56WlBtd1BOeDRETVc2YWpTM3hnNDVvMm9PdTRpa0JKWFVleHR3bE9kd1pqYTk5VXdMbDVYZjdoQXNkVWFIdmlSbjktNWdNdTlfbGUzYVN3WDllUDhSaFNzeUNtNWViUEl2Z2FQM3NJY3JnTDBJOGJuY3RlYjJNdjVoMFFQSV9aemtVdkt5Y3pHSUFPWFBmWWxJbWZKQmRGZVdicGtKb0JleWhScVk4cDRwTVlOMlY2Z9IBxAFBVV95cUxOUnJVZmlCeldFY0NYS2lmdjVWUnp0ZVhLRjExWGZHbWxjMlJ5b0ZIbS02SGt5RmRNczYwSDVYcnIzN0dXTF9nYjN2dklIQUk2OEd4WkhOdnd2alk1RTBFWGRYM0k0QXVsMWQ3UndYcjVwWHNxeUJRUnZDRUFyUFlSUF93dXNHMExPZEVTY3lfUVpjNUdZSV9HWWZZWlBKeUViZmlKWU5NTEdnSXhCYU1rbzA5OEFyRFVxc2p0RGNFUkcyN0Z3?oc=5)
 
 ---
 
-### [Weniger Allergien bei Bauernhof-Kindern: Forscher finden Ursache](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclJZN2Z3aWlaa1YwaHlLZWNEY3JrTWdZX2RLV1FGSXYwSmN0VW9teDdwTzZhejZtcmh2bkQ1OURJV3AtSzlWNDQ3VlhfT0lpOHlXUDF2dUpzMGxKRXRtOG5DSF92TFliV2JlRTZadzc1X1gweHZkY1NIczhfS2lKYU12MDNhcHBzUjlMQ3hjNGpNWkRHWnI4UUJjb2Z3RVdmZXloWlBDakZfbEk?oc=5)
+### [Fears of cancer care delays as ‘quarter of GP referrals rejected’ - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Krebs</span>
+2026-08-16 <span class="news-indication-tag">cancer</span>
 
-來源：[BR](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclJZN2Z3aWlaa1YwaHlLZWNEY3JrTWdZX2RLV1FGSXYwSmN0VW9teDdwTzZhejZtcmh2bkQ1OURJV3AtSzlWNDQ3VlhfT0lpOHlXUDF2dUpzMGxKRXRtOG5DSF92TFliV2JlRTZadzc1X1gweHZkY1NIczhfS2lKYU12MDNhcHBzUjlMQ3hjNGpNWkRHWnI4UUJjb2Z3RVdmZXloWlBDakZfbEk?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
+
+---
+
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/roflumilast/
 2026-08-16 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbHhMZXVQWnBzNEg1aHcyb240S2EwNUFrU2dGRXEtTU5mR1Q1QmNZT0tyQ1gzT1pWQklFdEQ3dUw1T3JKYTlDUVpyUkdmUXM4TlZKQUdtM0FsVlZtZ2U4cEVrM3ZIcTNLaV94VEFjY25OcGxFVzRZVWVLZndTOWw3NkxQUktubFFCNHdUOVNDOGtvNC16MGlmeFo1d05vcUQ5SVlZTXVtb2Fra0hMMkpHVWQ4VlFEeUNqdUxOUHc4MFd4a3daTFFFTkFvT1dhcEU0TG5TV1B1ZWh4SWR6a1p5S1ZRM3hvRDFTeFVEZS16OTJEMWtZ?oc=5)
-
----
-
-### [Why cancer, not cost of living, may be the biggest issue in Iowa’s midterm elections - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxNekhoOFpENkxMUHR0QW5yMl9XQVdwUGpxZW1vUExteFhsNEFXeGhxQ0RGNTZQSnNwRkJGbFd0dlFQN2ZQcXR2YWRDU1cxajFVLWdpalEwalJkREtlbFZ0ejhJR3NoLUhIT0hzODJtaHlzd0lubTJyNDhSMkJQTlBIc3RrSHdVRXBSNVkzZURGNnVMcnUxTnc0?oc=5)
-
-2026-08-16 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxNekhoOFpENkxMUHR0QW5yMl9XQVdwUGpxZW1vUExteFhsNEFXeGhxQ0RGNTZQSnNwRkJGbFd0dlFQN2ZQcXR2YWRDU1cxajFVLWdpalEwalJkREtlbFZ0ejhJR3NoLUhIT0hzODJtaHlzd0lubTJyNDhSMkJQTlBIc3RrSHdVRXBSNVkzZURGNnVMcnUxTnc0?oc=5)
 
 ---
 
@@ -110,11 +110,11 @@ permalink: /news/roflumilast/
 
 ---
 
-### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+### [Warning issued over popular medication taken by 8m in UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 ---
 
@@ -136,7 +136,7 @@ permalink: /news/roflumilast/
 
 ### [Tumori, non conta solo l’età anagrafica: perché l’età biologica può cambiare prevenzione e cure](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
 
-2026-08-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUFrcXhJLTc0NVJvVl8tS1ZqLVlXVW1fYXlHR3pGdDVhc2N1Ymg0Sk5BU0RiaHRWcGQ5RkROZmlkUDBBRTBZRW9PTlFRLWtyQnVoOUdhVlQ1cnI0eW94M2lWQ2xwZUp1aXRiRnZCQjJGWXYyaTB4aFhUbDZnQXRSZjhRV0YzNnNIUE53SlNBb0laQlFENkxrS3RMVjBPbU5rVXJpdHRSWVhUR3FET09aMEZpVi1HY21ialFPazVETWM3VGlTODBsb2ROUU5ibEhjT193c2VCUWtYUG94eHAzMERyYkI5QQ?oc=5)
 
@@ -146,7 +146,7 @@ permalink: /news/roflumilast/
 
 2026-08-16 <span class="news-indication-tag">heart disease</span>
 
-來源：[qdpnews.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
 
 ---
 
@@ -166,14 +166,6 @@ permalink: /news/roflumilast/
 
 ---
 
-### [Un paso más para prevenir el cáncer de la sangre: descubren cómo las células precancerosas aceleran el envejecimiento de la médula ósea](https://news.google.com/rss/articles/CBMipwJBVV95cUxNNnFaTEt2ckk0bTc0UkNlLU1oVldPaEFoQ3hKbWYybnl3Rktkbnp5eU0yMVRQMkNKN0YweG55ZTBQNDFRelBBR3Z5V1lmaTRqSkJPRmdVWlpPaTRrQWN1WjBBWXBjclZLQmszb0hpU3kzbGMzcWNTYlQ2SWVxY05xREtYTmlQS1NLa0J1bGdwLTNuZVBKUEMwTEs5WUFtWERLZFRqcE5ZNGo0U0VKb1dIS01LakVWazkxdXk2cmkyRFJ1M2FZb1ZnbE1KWkREZFRyQjAyQnhQWVp2TkNkNXd6d3hSTnh6R0Y3cldBN09WQ0ZobVk3V3BHeDFtUjBCZEQ5X2JmajZsdUh3WkMxN3VsQVBwNG1jdlotcDh4MmxmQ3FzMGl5Y2dF0gGsAkFVX3lxTE9zWlozeGpjOURnZ1dTSjNqZWZXNlEyWTF1bWlvaDk0ck5KRWdvTDFPcWlvYThHZFhEU2hza0tQNjYyaHJoZzJnZHRjdEdnU29RMlFRWTdPaXJWMzFBaTQ3cjlSSHlnLXI4bmEtUVhVNHZtcDFSRjd5VjVZaEp5enVnVnFMZC1Qbk8wZE04REVyVWthY2xkMzlVNW9kd21Kc0c2eDVMMktjMGo2enFRT041TmR6MkF2WFR3R2RCaFdpeUVqUUNOQzM0bG9xTEVNblJfaFRwbGRDY1V3bVpQdFJKcUhhOGNqcW5aOXlrS1FtMEtuRGFRTUVaTklWdG9pZFRQZUczWHFJemtrMEZmbHZLM2RFOUFPbzBUMEpOenRrakstejNGXy05aXhwRA?oc=5)
-
-2026-08-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Telemadrid](https://news.google.com/rss/articles/CBMipwJBVV95cUxNNnFaTEt2ckk0bTc0UkNlLU1oVldPaEFoQ3hKbWYybnl3Rktkbnp5eU0yMVRQMkNKN0YweG55ZTBQNDFRelBBR3Z5V1lmaTRqSkJPRmdVWlpPaTRrQWN1WjBBWXBjclZLQmszb0hpU3kzbGMzcWNTYlQ2SWVxY05xREtYTmlQS1NLa0J1bGdwLTNuZVBKUEMwTEs5WUFtWERLZFRqcE5ZNGo0U0VKb1dIS01LakVWazkxdXk2cmkyRFJ1M2FZb1ZnbE1KWkREZFRyQjAyQnhQWVp2TkNkNXd6d3hSTnh6R0Y3cldBN09WQ0ZobVk3V3BHeDFtUjBCZEQ5X2JmajZsdUh3WkMxN3VsQVBwNG1jdlotcDh4MmxmQ3FzMGl5Y2dF0gGsAkFVX3lxTE9zWlozeGpjOURnZ1dTSjNqZWZXNlEyWTF1bWlvaDk0ck5KRWdvTDFPcWlvYThHZFhEU2hza0tQNjYyaHJoZzJnZHRjdEdnU29RMlFRWTdPaXJWMzFBaTQ3cjlSSHlnLXI4bmEtUVhVNHZtcDFSRjd5VjVZaEp5enVnVnFMZC1Qbk8wZE04REVyVWthY2xkMzlVNW9kd21Kc0c2eDVMMktjMGo2enFRT041TmR6MkF2WFR3R2RCaFdpeUVqUUNOQzM0bG9xTEVNblJfaFRwbGRDY1V3bVpQdFJKcUhhOGNqcW5aOXlrS1FtMEtuRGFRTUVaTklWdG9pZFRQZUczWHFJemtrMEZmbHZLM2RFOUFPbzBUMEpOenRrakstejNGXy05aXhwRA?oc=5)
-
----
-
 ### [Tumore del pancreas, dalla malaria una nuova arma contro le cellule tumorali](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjZzalNhR1lycVc3Wnc1WU1fcmZzVFNqSktVUFBxbFc0TUtEamZKbURLUGdCbUJaZEZvYjAxbUx0SktoZ0RZRXJxZWYzQ21WQ1ZxQWpraENSaWtjTDVCVzJfMXFWSHFUU0plalBTS1YxaGZVTnVlQW5KYnNxcTVFYWxNVzJOSHFlTVJaX3B1WlhacFMwNklnWkg4aEkxcE91ZWd5WXhRcmFFZm13ZVBDdVUxMHV1VVNGMXFJV18zNGVGdm5wYWhQNTBLOG1YQk95?oc=5)
 
 2026-08-16 <span class="news-indication-tag">tumor</span>
@@ -190,19 +182,11 @@ permalink: /news/roflumilast/
 
 ---
 
-### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
-2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
----
-
-### [Callie, il cane che fiuta i tumori al colon: così con il suo naso sta aiutando la ricerca scientifica - La Stampa](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1JrSy12R3BTUlUzMGFiS3FkZnREZU91WFZrVHp3bGZ6NkZROU1aOUFYN3d1bXg2S2VPWDZRcjUwTTdzYlh0REhCRXNZWkdjX0lTNmd3RVRoc19EMklpbjJrYVpWQWM3X0NMOG5LRDR1NEYtVDVxUXVGM05kTlhZSEhMSVMzcnhwZHRF0gGQAUFVX3lxTFBzSi12U3lYRl84VzlkazJJeG5Mc3NtRWJ5SUxBWnQxRUtTWXUzZWVvQ1JWM05TWjg1bllmSC1CWVUzdXdlYzMtazZ3b2hGM0ZaUEJDeXJzcTNkQVktY1RNdm9mRWNYSkg0MTRIc0dLMkdtNlZBcTlWNElhQndTN05qTEVFeWtEaHVqYkpqVmJCTg?oc=5)
+### [Callie, il cane che fiuta i tumori al colon: così con il suo naso sta aiutando la ricerca scientifica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1JrSy12R3BTUlUzMGFiS3FkZnREZU91WFZrVHp3bGZ6NkZROU1aOUFYN3d1bXg2S2VPWDZRcjUwTTdzYlh0REhCRXNZWkdjX0lTNmd3RVRoc19EMklpbjJrYVpWQWM3X0NMOG5LRDR1NEYtVDVxUXVGM05kTlhZSEhMSVMzcnhwZHRF0gGQAUFVX3lxTFBzSi12U3lYRl84VzlkazJJeG5Mc3NtRWJ5SUxBWnQxRUtTWXUzZWVvQ1JWM05TWjg1bllmSC1CWVUzdXdlYzMtazZ3b2hGM0ZaUEJDeXJzcTNkQVktY1RNdm9mRWNYSkg0MTRIc0dLMkdtNlZBcTlWNElhQndTN05qTEVFeWtEaHVqYkpqVmJCTg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">tumor</span>
 
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1JrSy12R3BTUlUzMGFiS3FkZnREZU91WFZrVHp3bGZ6NkZROU1aOUFYN3d1bXg2S2VPWDZRcjUwTTdzYlh0REhCRXNZWkdjX0lTNmd3RVRoc19EMklpbjJrYVpWQWM3X0NMOG5LRDR1NEYtVDVxUXVGM05kTlhZSEhMSVMzcnhwZHRF0gGQAUFVX3lxTFBzSi12U3lYRl84VzlkazJJeG5Mc3NtRWJ5SUxBWnQxRUtTWXUzZWVvQ1JWM05TWjg1bllmSC1CWVUzdXdlYzMtazZ3b2hGM0ZaUEJDeXJzcTNkQVktY1RNdm9mRWNYSkg0MTRIc0dLMkdtNlZBcTlWNElhQndTN05qTEVFeWtEaHVqYkpqVmJCTg?oc=5)
+來源：[lastampa.it](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1JrSy12R3BTUlUzMGFiS3FkZnREZU91WFZrVHp3bGZ6NkZROU1aOUFYN3d1bXg2S2VPWDZRcjUwTTdzYlh0REhCRXNZWkdjX0lTNmd3RVRoc19EMklpbjJrYVpWQWM3X0NMOG5LRDR1NEYtVDVxUXVGM05kTlhZSEhMSVMzcnhwZHRF0gGQAUFVX3lxTFBzSi12U3lYRl84VzlkazJJeG5Mc3NtRWJ5SUxBWnQxRUtTWXUzZWVvQ1JWM05TWjg1bllmSC1CWVUzdXdlYzMtazZ3b2hGM0ZaUEJDeXJzcTNkQVktY1RNdm9mRWNYSkg0MTRIc0dLMkdtNlZBcTlWNElhQndTN05qTEVFeWtEaHVqYkpqVmJCTg?oc=5)
 
 ---
 
@@ -275,6 +259,14 @@ permalink: /news/roflumilast/
 2026-08-15 <span class="news-indication-tag">hypertension</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
+
+---
+
+### [Mum-of-three fears sunbeds caused skin tumour](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LVkhNYkQxYW4tRnJJZ1ZQVkplX245TXZjRUEzbW0wVm9VSlVqdzdld2dNeUowNVkwemMteXZvQXMyck4xajVOeFpjeTFRSjJKT0ZlTU1yeFFtdGg2?oc=5)
+
+2026-08-15 <span class="news-indication-tag">tumour</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LVkhNYkQxYW4tRnJJZ1ZQVkplX245TXZjRUEzbW0wVm9VSlVqdzdld2dNeUowNVkwemMteXZvQXMyck4xajVOeFpjeTFRSjJKT0ZlTU1yeFFtdGg2?oc=5)
 
 ---
 

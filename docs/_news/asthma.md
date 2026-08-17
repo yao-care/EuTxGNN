@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Toxoplasma, svelato il segreto del parassita che si nasconde nel cervello. Lo studio Usa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
 
 2026-08-15
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
-
----
-
-### [Sudie: Katzen verschlimmern Asthma nicht bei Kindern](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
-
-2026-08-15
-
-來源：[Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
 
 ---
 

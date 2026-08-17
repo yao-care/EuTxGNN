@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="Lumacaftor 有什麼相關新聞？">
-<strong>Lumacaftor</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lumacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/lumacaftor/
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 
-### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+### [Warning issued over popular medication taken by 8m in UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 ---
 
@@ -74,15 +74,7 @@ permalink: /news/lumacaftor/
 
 2026-08-16 <span class="news-indication-tag">heart disease</span>
 
-來源：[qdpnews.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
-
----
-
-### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
-2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/lumacaftor/
 2026-08-15 <span class="news-indication-tag">hypertension</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
-
----
-
-### [Il caldo dà alla testa. E non è solo un modo di dire](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
+### [Two Hours of Sleep Restored in Alzheimer’s Brains in Research Breakthrough - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
+
+2026-08-16
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
+
+---
+
 ### [Des scientifiques découvrent un possible déclencheur de la maladie d'Alzheimer : il commence dès 50 ans](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
 
 2026-08-15
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
-
----
-
-### [‘Mum worked into her 70s. Her £250k savings were lost to dementia care’ - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
-
-2026-08-15
-
-來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQaW5ZVWhTQ2NWbUJZNGFnUnZ1XzZRVUFSNVFEbjl1M3ZLblpBZmREWG1RSUZ3YmQ5bUNFNEFmSHdZQnRRZDlOMWprX2Z2TkJnM3ZWVW1LS0FSNmtCMElBSmNpeE1WZWEwS3hFTjNPMnNtczFBVUdwU0J3OExaTk5wWUFTelFPdjhrZzc0ek1RX0Rhd09pU29B?oc=5)
 
 ---
 

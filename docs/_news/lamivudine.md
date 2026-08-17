@@ -58,7 +58,7 @@ permalink: /news/lamivudine/
 
 2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[telecinco.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 ---
 

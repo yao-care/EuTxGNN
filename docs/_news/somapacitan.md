@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,21 +52,29 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Tres hábitos que protegen la salud cerebral y previenen el deterioro cognitivo a partir de los 45 años](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZFdMSWFnbVlpVUU0eXpMakxERFlvdFo3MHlscFlHTFU3T1A2cFpJcm5va2FzVHByOGNlRDNaVkN4NlNadmd4TExLeW5hUlFfWllSdzcwR01PTWlqMDJtYTJzOFc3dzZ6amVLVjZ1UXc4RHdHa0FHQXQyZVd6am50ZGtCVmU4bnNmUlVPOVVMR3p1UEJuTzBKX0dCS3BTdVRoOGtrRUFLZnQ2a0ROeXVjdzVQNk1kcU96RDhablppanpvUEVqNDRHQ2JCX0U5Q20yTU4zSWVBZ2NXN0J1a2tIM2RaTzVXQzNtY3BBa3BmYW8tRDhz0gGPAkFVX3lxTE9naS1yWEFUem8wOHpnZ3J3c3ZlR1NaS0hyalRnMnFyUzVLX29vZFRoNVlQLW9PWW13SzV5SlFhNUN4Q0ptcEdhRUdFZldYQUowd2dvWTdpdUFsOEExRnVHWExOQUtVUkd1ejhORFItRFRBWGRsN0dqMXdOYUVmY1p6bm9QNDRJbjBYMzJ4dmlIakFVUU9PdTU2OWtYWjdpcmR1OWNrWVpOV1UwamlWMUJTU3REbGYzd2dPX2FzSk5vc3EyYmlldF9zZDhBSk4xaGdxZjZRanNMUmlrRjlwak9HejluRTVvZ0xOUDJwckZiaF9SWUZYRjlCMnRVZFRtZVdpYXo5STRKNGIyVXlhNmM?oc=5)
+
+2026-08-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZFdMSWFnbVlpVUU0eXpMakxERFlvdFo3MHlscFlHTFU3T1A2cFpJcm5va2FzVHByOGNlRDNaVkN4NlNadmd4TExLeW5hUlFfWllSdzcwR01PTWlqMDJtYTJzOFc3dzZ6amVLVjZ1UXc4RHdHa0FHQXQyZVd6am50ZGtCVmU4bnNmUlVPOVVMR3p1UEJuTzBKX0dCS3BTdVRoOGtrRUFLZnQ2a0ROeXVjdzVQNk1kcU96RDhablppanpvUEVqNDRHQ2JCX0U5Q20yTU4zSWVBZ2NXN0J1a2tIM2RaTzVXQzNtY3BBa3BmYW8tRDhz0gGPAkFVX3lxTE9naS1yWEFUem8wOHpnZ3J3c3ZlR1NaS0hyalRnMnFyUzVLX29vZFRoNVlQLW9PWW13SzV5SlFhNUN4Q0ptcEdhRUdFZldYQUowd2dvWTdpdUFsOEExRnVHWExOQUtVUkd1ejhORFItRFRBWGRsN0dqMXdOYUVmY1p6bm9QNDRJbjBYMzJ4dmlIakFVUU9PdTU2OWtYWjdpcmR1OWNrWVpOV1UwamlWMUJTU3REbGYzd2dPX2FzSk5vc3EyYmlldF9zZDhBSk4xaGdxZjZRanNMUmlrRjlwak9HejluRTVvZ0xOUDJwckZiaF9SWUZYRjlCMnRVZFRtZVdpYXo5STRKNGIyVXlhNmM?oc=5)
+
+---
+
+### [Pankreatitis: Blutzuckerwerte über 200 mg/ dl deuten auf Diabetes hin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3I5NkwwaUh0WUF6eGtfcmtiQ01kRXZhc2FGcmxwS2dZcTZwWWxGd2FNc2dfMHB4eDdpQlk0ek5ITXVFaWpuZ0ZkdWdQd3RkRmh5Ry1uanlYMUNTbkZJMUpjTUV0WHZSUFBpQ3FEOGRzMExnZi1nZTR4Z2FBcjZDRlpTSE1keHZnOURWRU9CYUxLaGwxZDlqTW9JUU9EQmo2aXczNjZNMU5MQlNCYXk4SzBnWnJFQ0Zx?oc=5)
+
+2026-08-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3I5NkwwaUh0WUF6eGtfcmtiQ01kRXZhc2FGcmxwS2dZcTZwWWxGd2FNc2dfMHB4eDdpQlk0ek5ITXVFaWpuZ0ZkdWdQd3RkRmh5Ry1uanlYMUNTbkZJMUpjTUV0WHZSUFBpQ3FEOGRzMExnZi1nZTR4Z2FBcjZDRlpTSE1keHZnOURWRU9CYUxLaGwxZDlqTW9JUU9EQmo2aXczNjZNMU5MQlNCYXk4SzBnWnJFQ0Zx?oc=5)
+
+---
 
 ### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[telecinco.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
-
----
-
-### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
-2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 ---
 
@@ -86,11 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Simple dinner time habit could help 'prevent diabetes' - Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTc5M2kwekpXejIybEoxWlc4UnN4YmE2aUIxeUJPb1NzcUNIaE1MT0dIZ1VXYUFDcFVuTVJPMkxKWE9iTmdQX3dHMmxzU1ZvT1poVEVPaFhwQlgxSkhrMGhrbWZ5TnJPbURYMmFZbVUzSE5zblZKZEw0REVPM25ueEItM1hfQkXSAYwBQVVfeXFMTl9IcVlSeHNtS3lsMUJkeDVQc0lndjdwT3N6SUZmMnM2am1renByREozVk1sVnBJS3R1SG1Fc3BxQnpmbnktT0RrQWlucEdhdUU1cFhmc0hqekt1cXRLZ1JVZGtJWmxhRndqNEIxcHBldjk1V1ZkVi1XeDJKclRNUDBUWTB1XzVpb0FxT3g?oc=5)
+### [Simple dinner time habit could help 'prevent diabetes'](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTc5M2kwekpXejIybEoxWlc4UnN4YmE2aUIxeUJPb1NzcUNIaE1MT0dIZ1VXYUFDcFVuTVJPMkxKWE9iTmdQX3dHMmxzU1ZvT1poVEVPaFhwQlgxSkhrMGhrbWZ5TnJPbURYMmFZbVUzSE5zblZKZEw0REVPM25ueEItM1hfQkXSAYwBQVVfeXFMTl9IcVlSeHNtS3lsMUJkeDVQc0lndjdwT3N6SUZmMnM2am1renByREozVk1sVnBJS3R1SG1Fc3BxQnpmbnktT0RrQWlucEdhdUU1cFhmc0hqekt1cXRLZ1JVZGtJWmxhRndqNEIxcHBldjk1V1ZkVi1XeDJKclRNUDBUWTB1XzVpb0FxT3g?oc=5)
 
 2026-08-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTc5M2kwekpXejIybEoxWlc4UnN4YmE2aUIxeUJPb1NzcUNIaE1MT0dIZ1VXYUFDcFVuTVJPMkxKWE9iTmdQX3dHMmxzU1ZvT1poVEVPaFhwQlgxSkhrMGhrbWZ5TnJPbURYMmFZbVUzSE5zblZKZEw0REVPM25ueEItM1hfQkXSAYwBQVVfeXFMTl9IcVlSeHNtS3lsMUJkeDVQc0lndjdwT3N6SUZmMnM2am1renByREozVk1sVnBJS3R1SG1Fc3BxQnpmbnktT0RrQWlucEdhdUU1cFhmc0hqekt1cXRLZ1JVZGtJWmxhRndqNEIxcHBldjk1V1ZkVi1XeDJKclRNUDBUWTB1XzVpb0FxT3g?oc=5)
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTc5M2kwekpXejIybEoxWlc4UnN4YmE2aUIxeUJPb1NzcUNIaE1MT0dIZ1VXYUFDcFVuTVJPMkxKWE9iTmdQX3dHMmxzU1ZvT1poVEVPaFhwQlgxSkhrMGhrbWZ5TnJPbURYMmFZbVUzSE5zblZKZEw0REVPM25ueEItM1hfQkXSAYwBQVVfeXFMTl9IcVlSeHNtS3lsMUJkeDVQc0lndjdwT3N6SUZmMnM2am1renByREozVk1sVnBJS3R1SG1Fc3BxQnpmbnktT0RrQWlucEdhdUU1cFhmc0hqekt1cXRLZ1JVZGtJWmxhRndqNEIxcHBldjk1V1ZkVi1XeDJKclRNUDBUWTB1XzVpb0FxT3g?oc=5)
 
 ---
 
@@ -107,22 +115,6 @@ permalink: /news/somapacitan/
 2026-08-15 <span class="news-indication-tag">asma</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNoNU9NbGNfWS13cDIza09JLXYwTnZybk91bS01QTdaZGhxLXlReEJ2aEpPNWtfWU9RMFM1bXpQeWlBMThIdTMwb3lCVURIS0VubWdTdGFFSER6U0xndmFPV0ZIakhnaXg4Y2RwbzBDbV9JWGR6OGZ2ZklyQ3dBa0lVX0dfX05YMExSU2RUUGxvQ1JKdFI4MXVLNE9CbUU?oc=5)
-
----
-
-### [Sudie: Katzen verschlimmern Asthma nicht bei Kindern](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
-
-2026-08-15 <span class="news-indication-tag">asthma</span>
-
-來源：[Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVFtVjM2NXlBNXZvRmxfTnhhQy1SazNubV9VdEhyTTdSVVllVXdLWjdGMndKUTNwS0w0akVSOHRLbk93VkJvamh4Mzg4anZoaWMyc0NZYkZoSDhaclA2VG5SeWo0a0E1VWg4RldEZzFSX094cFlucVNUZlk1amtHdUhWbWV0QmpDczlKVFhHb3MzY1JQTFBLNEZzZ3pzWDNocnN3ZGtLVEFuaWN5?oc=5)
-
----
-
-### [Diabète : cinq réflexes à adopter par temps chaud - Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
-
-2026-08-15 <span class="news-indication-tag">diabète</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
 
 ---
 

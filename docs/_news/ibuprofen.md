@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Mar Faraco, experta en sanidad exterior: «Si se sufre fiebre en un país tropical no se deben ingerir antiinflamatorios como el ibuprofeno» - La Voz de Galicia](https://news.google.com/rss/articles/CBMitAJBVV95cUxOdXM5QUJBWDRCLXlQcjNsVGI0ZHZ2Qk1ETG93TnRVTzRZbnhLVTRzVTV1ZzZpVmF4eFJrQ0RGTlA5NFpaRE9UczBERHlqay13SV9iZWN0WTd5LUtYcFZpY2hsVWllTFF6UWZwMDNFcmZYRm1Zb0tsd284bHdEUnk5anpyUVd3NzFiM0lfeGFvZlV2SjhtZGJCR1FBRWVYNm1kSXZ3UUR3XzJ1RldpN1BmbEhYOU8zVWx4dGdsUzN4UFFycTlVMXlJT19SUThTYnpHM0lIalREcDY4RjRXYk1oN1RSLU1IbXE5NmdzNEhVQjdudURqWFZmWi15MFkxcHFRbFlpVzZNWjZqdll0VHJjbFNFZE9aRzVMYlV5QW5JZGwtc2FYMnQwWXI1TlZVU2x1R194OA?oc=5)
+
+2026-08-17 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMitAJBVV95cUxOdXM5QUJBWDRCLXlQcjNsVGI0ZHZ2Qk1ETG93TnRVTzRZbnhLVTRzVTV1ZzZpVmF4eFJrQ0RGTlA5NFpaRE9UczBERHlqay13SV9iZWN0WTd5LUtYcFZpY2hsVWllTFF6UWZwMDNFcmZYRm1Zb0tsd284bHdEUnk5anpyUVd3NzFiM0lfeGFvZlV2SjhtZGJCR1FBRWVYNm1kSXZ3UUR3XzJ1RldpN1BmbEhYOU8zVWx4dGdsUzN4UFFycTlVMXlJT19SUThTYnpHM0lIalREcDY4RjRXYk1oN1RSLU1IbXE5NmdzNEhVQjdudURqWFZmWi15MFkxcHFRbFlpVzZNWjZqdll0VHJjbFNFZE9aRzVMYlV5QW5JZGwtc2FYMnQwWXI1TlZVU2x1R194OA?oc=5)
+
+---
 
 ### [Ibuprofen failed to ease agony of condition plaguing 1 in 6… £1 supp saved me - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNejJjVmNCMjdXZGJSOWRHY2RFQWo4WnR2enU3Q3BEWENsUWlidWpVVkxicDhKVk5xMkxObk1tU19CVzlhNnQybzdRQzNhWlhTNG1QYkxqOHI5Y1NfUEpFdFVuc2w0bmNaVW1POGtmdXhrTWw4Tlp4eWNoeHB5U2I2VGl0U0ZDdE5WTzJsa3ZFRDU?oc=5)
 

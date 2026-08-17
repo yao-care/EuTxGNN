@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Cuando suben las temperaturas, aumenta el riesgo: el impacto del calor en los niños con epilepsia](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN1JVaEcyVE5QSG10akVBc0hlSUZhUXB5SEFrZmR0bl9tNGRKR2JyNE5QblNVcTlYNW9DSHo1UWxGc19DTEpMSkpuenJIRndGc0cwSGxRTE5HZ3lNbl9VNC1jQXhMU3JHcUZYOF81VUtIZ3J3aEpNUmxNSEdTVWxIU3lRZ2tWVFhRUXl4NW9kYnYtWHc5NFBLVnBRbVlYTzA4WDYydEY3ZGVYZS1RTmEtS1BlVVQ2VmlPMGRFVWdRYkRHX2w5M2lER3JyLWJuN3JTVGfSAdcBQVVfeXFMTjUtc0VFMk03ZWxDNlI4b1BOMC1qbEUxS3g5Qm11WXV2d3VyUnB0WFhEUkxXak1qZzRfbFlDVnV6YzRmR01ub1VmbzlVTklSMmdGMm1hZHNBaUFxV3BuSWk1dFpYWVVJTG1uaWF3Q053RkpzTmoxRnNybTdQU2ptVGpXcllIRU5hWWZzd0hLNEhoTmVCX0QtMk93d1BNNndiQjJka0FMMGM4MmNveXVMeEx1bjlLV19wOXpIbk5KcjhvejlhSU1EOFc4MzRua0VOQjNlWGNxRkE?oc=5)
-
-2026-08-16 <span class="news-indication-tag">epilepsia</span>
-
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN1JVaEcyVE5QSG10akVBc0hlSUZhUXB5SEFrZmR0bl9tNGRKR2JyNE5QblNVcTlYNW9DSHo1UWxGc19DTEpMSkpuenJIRndGc0cwSGxRTE5HZ3lNbl9VNC1jQXhMU3JHcUZYOF81VUtIZ3J3aEpNUmxNSEdTVWxIU3lRZ2tWVFhRUXl4NW9kYnYtWHc5NFBLVnBRbVlYTzA4WDYydEY3ZGVYZS1RTmEtS1BlVVQ2VmlPMGRFVWdRYkRHX2w5M2lER3JyLWJuN3JTVGfSAdcBQVVfeXFMTjUtc0VFMk03ZWxDNlI4b1BOMC1qbEUxS3g5Qm11WXV2d3VyUnB0WFhEUkxXak1qZzRfbFlDVnV6YzRmR01ub1VmbzlVTklSMmdGMm1hZHNBaUFxV3BuSWk1dFpYWVVJTG1uaWF3Q053RkpzTmoxRnNybTdQU2ptVGpXcllIRU5hWWZzd0hLNEhoTmVCX0QtMk93d1BNNndiQjJka0FMMGM4MmNveXVMeEx1bjlLV19wOXpIbk5KcjhvejlhSU1EOFc4MzRua0VOQjNlWGNxRkE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
