@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hepatitis 相關新聞"
+title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# hepatitis 相關新聞
+# epatite（hepatitis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
+<strong>epatite（hepatitis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hepatitis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -53,13 +53,29 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+### [Investigadores del Hospital de Guadalajara avanzan en la prevención del cáncer de hígado - Cadena SER](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcF8xelNaMkdxaTdzZmVXTHVyQXVlWl9DNDVIb2dNWGxYcTFFMVdKLVFVX0lSbU1zaFlQQkI1amxSSEtlZFg1bGdBc19ZLVFmcTBjUXc2V0dtd0QyVXFoVk1EX3RoTU51UUpha3pBUW9lUU5wNmRKeXJWNC1IY1hJbmdiYzRVYTBlRl8wOGQ2aXJTdkJnSDEwYUlfRmFsd2pTSzVzZVRjaURLSUtKbHJVYVI0My1HZDhfTVhBa2dRdU1FaGlVVE5aY25xb0VXaHNyeHR5U1dUUEh0Zl90c3N6SEw5elh3NmtPLTZz0gH_AUFVX3lxTFBSWE5mYlU5TU9iSWY2S3AxUkpGejZOMjZoQkZleGlfdkxlLVZGeVFqYkwzMHp6bS14c1NzZHJGT2JGRld0anVCY2VCU1gxV1ZCNjBMOFowUTNQVmtQbG1POXREaFJoUV9hX2xRYUtENXRPbnNYVHMteENzaklNSFFyRC11dVV1a0lLam5SN203eE1vc3RCQ0V3bWdEUEdsT0FCUVZUYnNwVUNwdGhiLVBBRmw3dEVaTHl4TzQ0TmdMM2RyZ2lIQ3J0VERtRXBKNGhFT3pHNEJjTWNHQjZQLUNLQTEtb210YVFHbGFIcnI3NlF4YWNFcElsQTlIM0pqQQ?oc=5)
 
-2026-08-16
+2026-08-17
 
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcF8xelNaMkdxaTdzZmVXTHVyQXVlWl9DNDVIb2dNWGxYcTFFMVdKLVFVX0lSbU1zaFlQQkI1amxSSEtlZFg1bGdBc19ZLVFmcTBjUXc2V0dtd0QyVXFoVk1EX3RoTU51UUpha3pBUW9lUU5wNmRKeXJWNC1IY1hJbmdiYzRVYTBlRl8wOGQ2aXJTdkJnSDEwYUlfRmFsd2pTSzVzZVRjaURLSUtKbHJVYVI0My1HZDhfTVhBa2dRdU1FaGlVVE5aY25xb0VXaHNyeHR5U1dUUEh0Zl90c3N6SEw5elh3NmtPLTZz0gH_AUFVX3lxTFBSWE5mYlU5TU9iSWY2S3AxUkpGejZOMjZoQkZleGlfdkxlLVZGeVFqYkwzMHp6bS14c1NzZHJGT2JGRld0anVCY2VCU1gxV1ZCNjBMOFowUTNQVmtQbG1POXREaFJoUV9hX2xRYUtENXRPbnNYVHMteENzaklNSFFyRC11dVV1a0lLam5SN203eE1vc3RCQ0V3bWdEUEdsT0FCUVZUYnNwVUNwdGhiLVBBRmw3dEVaTHl4TzQ0TmdMM2RyZ2lIQ3J0VERtRXBKNGhFT3pHNEJjTWNHQjZQLUNLQTEtb210YVFHbGFIcnI3NlF4YWNFcElsQTlIM0pqQQ?oc=5)
+
+---
+
+### [Families urged to vaccinate children against Hepatitis A as it spreads in town](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
+
+2026-08-17
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
+
+---
+
+### [Pamela Anderson e l’epatite C: la malattia che per anni ha cambiato il suo rapporto con il futuro](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
+
+2026-08-17
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
 
 ---
 

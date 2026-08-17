@@ -14,7 +14,7 @@ permalink: /news/corifollitropin-alfa/
 ---
 
 <p class="key-answer" data-question="Corifollitropin Alfa 有什麼相關新聞？">
-<strong>Corifollitropin Alfa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Corifollitropin Alfa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/corifollitropin-alfa/
 <p><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+### [A Third Hidden Driver of High Blood Pressure Has Been Discovered – And a Potential Fix](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-08-17 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+來源：[sciencealert.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
 
 ---
 
@@ -78,19 +78,11 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
-### [I’m a 63-year-old personal trainer – how I turn everyday life into easy workouts - The i Paper](https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEhDRGRfZXBUS0c1VVV5LXJDMnFrSG5iTl9HQV9tcGkzZDBCM0hpM1ZaZTBXaV9ZWHdjVDZnbllOeVc4QWlpQUZVdmN6ZlNhenllaGZsWkZoMjFETVQyZWdvS0hhOU40OFpEOWx2Qkg1WTVOd1ZlRXZSaDZ5R1Y4QkoxTHJ3eFF0ajBza0RoMUhhYkFWY2E5MA?oc=5)
+### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
-2026-08-15 <span class="news-indication-tag">heart disease</span>
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEhDRGRfZXBUS0c1VVV5LXJDMnFrSG5iTl9HQV9tcGkzZDBCM0hpM1ZaZTBXaV9ZWHdjVDZnbllOeVc4QWlpQUZVdmN6ZlNhenllaGZsWkZoMjFETVQyZWdvS0hhOU40OFpEOWx2Qkg1WTVOd1ZlRXZSaDZ5R1Y4QkoxTHJ3eFF0ajBza0RoMUhhYkFWY2E5MA?oc=5)
-
----
-
-### [Hypertension: Why boosting potassium may be key for control - Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
-
-2026-08-15 <span class="news-indication-tag">hypertension</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
 ---
 

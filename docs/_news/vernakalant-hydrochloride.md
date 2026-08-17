@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（28 則）
+
+### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
+
+2026-08-17 <span class="news-indication-tag">obesità</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
+
+---
+
+### [Complementos alimenticios: ocho errores que pueden afectar a la salud - Las Gastrocrónicas](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxWeUFycTVuWWNMTkpUZndtbFh3a2F4X21UUlBZRjVPWDJQME5sR2dOelBKNG1aeUw4NnlET0t0UE90LXV6UDJPb0VRbGZOaVAzb1VoTGRGM2ZrMDQ5Z3BCYmVsNHE4YzcyZ0RhZVlGWjNKa3NMUXZTYlptV05vRFpKYlJUMDhfQmU3VTJWWHBXN2JhMTdWZHJLUVNxZDFV?oc=5)
+
+2026-08-17 <span class="news-indication-tag">AF</span>
+
+來源：[Las Gastrocrónicas](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxWeUFycTVuWWNMTkpUZndtbFh3a2F4X21UUlBZRjVPWDJQME5sR2dOelBKNG1aeUw4NnlET0t0UE90LXV6UDJPb0VRbGZOaVAzb1VoTGRGM2ZrMDQ5Z3BCYmVsNHE4YzcyZ0RhZVlGWjNKa3NMUXZTYlptV05vRFpKYlJUMDhfQmU3VTJWWHBXN2JhMTdWZHJLUVNxZDFV?oc=5)
+
+---
+
+### [Gewicht in der Schwangerschaft: Was Experten heute empfehlen](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTA3UEVfSU1teF9BQkw4U3ZnMzdPRUN2TUpKWlh1a2RVQUp0OTFzMW9vZG9QS0xWLUZtZHRBdFFWUVlHNTQ3elVmekVpam9yTFY1cUFJVHdmX2JnSHlnUkdhQkxWTmRlZ1c4QlI1V1NwZGtpWVpiaTVtZ3pQVGliU3J3SVBYU1UweHEyQVd5Wk4weHFLcDdQMVdKTQ?oc=5)
+
+2026-08-17 <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTA3UEVfSU1teF9BQkw4U3ZnMzdPRUN2TUpKWlh1a2RVQUp0OTFzMW9vZG9QS0xWLUZtZHRBdFFWUVlHNTQ3elVmekVpam9yTFY1cUFJVHdmX2JnSHlnUkdhQkxWTmRlZ1c4QlI1V1NwZGtpWVpiaTVtZ3pQVGliU3J3SVBYU1UweHEyQVd5Wk4weHFLcDdQMVdKTQ?oc=5)
+
+---
+
+### [Gesundheit: Adipositas als Krankheit der Armen](https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NGcwTlk4T1F0bjktcjNNRlhlV0QtbkZmVUU4VEtONVdTRnhlb0lmUzkxd20tY1FRZi1QbXkwbnZ3SWFoUkp6QWc0b3ZNcTc4?oc=5)
+
+2026-08-17 <span class="news-indication-tag">Adipositas</span>
+
+來源：[science.ORF.at](https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NGcwTlk4T1F0bjktcjNNRlhlV0QtbkZmVUU4VEtONVdTRnhlb0lmUzkxd20tY1FRZi1QbXkwbnZ3SWFoUkp6QWc0b3ZNcTc4?oc=5)
+
+---
+
+### [Geordie Shore star's dad 'sent home with laxatives for constipation' had terminal bowel cancer - Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
+
+2026-08-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
+
+---
 
 ### [Wissenschaftler entdecken möglichen Auslöser von Alzheimer – er beginnt schon mit 50 Jahren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M1UDZTM2trVGpINWFJYmpya3hCVUp3alRrQllISG9NSHlWVGFNN2UydDJWcFRIbUMzdGNici0wdlNUQzlONzdJNzZscHlhYW5iMlNqeElCSjNRUkZDU0NiLUhXRjhXdFlqaWItM0xlYjNPMk5ZaE1PLWRjR0xQT056VTBackFlRXppUVRWOFF1QnFxa1dSOXk4NHVaLWozdS01Zg?oc=5)
 
 2026-08-17 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M1UDZTM2trVGpINWFJYmpya3hCVUp3alRrQllISG9NSHlWVGFNN2UydDJWcFRIbUMzdGNici0wdlNUQzlONzdJNzZscHlhYW5iMlNqeElCSjNRUkZDU0NiLUhXRjhXdFlqaWItM0xlYjNPMk5ZaE1PLWRjR0xQT056VTBackFlRXppUVRWOFF1QnFxa1dSOXk4NHVaLWozdS01Zg?oc=5)
+
+---
+
+### [The top-rated Coventry GP surgery where patients praise ‘caring’ staff - Coventry Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmpXRk1Fa3JZSmRMZFUxNmI4XzhNVGI5eGdOU3V2LWVDS1Znb0VzNWNmWU5iUEIyblF2U3ltRGVFYllZdElyd01fTmJsckxYNmNvNXR1WFhQTlJzVmVmOUNOZEF2YVFBWkUwRnFySHdJWF82UnN3TXlzUVJCbjhablVIZnpJbjk1bWswczZvbnIyRE44VFE?oc=5)
+
+2026-08-17 <span class="news-indication-tag">AF</span>
+
+來源：[Coventry Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmpXRk1Fa3JZSmRMZFUxNmI4XzhNVGI5eGdOU3V2LWVDS1Znb0VzNWNmWU5iUEIyblF2U3ltRGVFYllZdElyd01fTmJsckxYNmNvNXR1WFhQTlJzVmVmOUNOZEF2YVFBWkUwRnFySHdJWF82UnN3TXlzUVJCbjhablVIZnpJbjk1bWswczZvbnIyRE44VFE?oc=5)
 
 ---
 
@@ -70,19 +118,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
+### [Menopause und Demenz: Bluttest prognostiziert Risiko 25 Jahre früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3dvTVhJSlVDaTlZWi1DY2F3cEsxaWEyRVRWNTYwZG1pQ1kyWUx1eHlZLVB3bllEMEppcnc3d0JfM1pURWE4SFRmRFJlVEdrMGVvN2wxdGxTbjFWcm80MDdFeXBiZ2dieXZ4R0x6ZHhXaWxyb3g4bDRQRml0OVFYRFpSUWFBS3lDT2p5eF84RVV4X1NGbkdkOTJTV3lnbnpEQlBqTjFONkFOXzNOWFZoT2Z5aG1OUQ?oc=5)
 
-2026-08-17 <span class="news-indication-tag">obesità</span>
+2026-08-16 <span class="news-indication-tag">AF</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3dvTVhJSlVDaTlZWi1DY2F3cEsxaWEyRVRWNTYwZG1pQ1kyWUx1eHlZLVB3bllEMEppcnc3d0JfM1pURWE4SFRmRFJlVEdrMGVvN2wxdGxTbjFWcm80MDdFeXBiZ2dieXZ4R0x6ZHhXaWxyb3g4bDRQRml0OVFYRFpSUWFBS3lDT2p5eF84RVV4X1NGbkdkOTJTV3lnbnpEQlBqTjFONkFOXzNOWFZoT2Z5aG1OUQ?oc=5)
 
 ---
 
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+### [Clarkson condemns decision to strip men of right to prostate cancer test - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5)
 
 ---
 
@@ -96,7 +144,7 @@ permalink: /news/vernakalant-hydrochloride/
 
 ### [El café puede reducir el riesgo de padecer una enfermedad hepática, según un reciente estudio - La Tercera](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVhMSjlDalEzWFY3R3dlLU9kMkRYRFNxcUZoTGxYUTM5QnBPSzhJcE9ZYUZmbDlCRzFvM0ZJLUtQZW1mSFhOZVBtR0VWZVRwbkNacGFMTlVjeWtveWt6bWQ3RnFCZzd3ZldvSmkxdGt1cU9PVW9OVmFNMXlmLUZTU2pRMkNuNVJsTUlPTjQ3THlDZVgtWUJ2NFJpOXJTcmZvS19kT2E4YkpNNnlGdjZwbFRUcHJrS01xUkczeXlaTWpUaVR2N2d1S1hGQlZtQjlpc2p5bNIB9gFBVV95cUxQVm9YTkhhRF9aaXBmVmIzTkZid3pDMGRWSUoyVnBIT1hEZ2VOLXU5OU9DRXROSllaTXRYdVNTUWtSc1ZJTk9uMlMyREoxbkh3ZjVxRlRiQTBLWEdRVzRxNEJBbkF2T3E4bzU2S0lrVVdYdnN4YWZaWlN5M1NOVUFtTzA3X2FrdGxoak9FYzR4RlNPSE5SMjZHaFR0T3hnMUZLQmNaTV8xN3ExT0x2Wkg1Z2c2QUFZeXoyUUxpU1ZUZFNuck8tU004SmxWenRSVTJuME1wVXZnYkF3cWVkZHFkdTlEd1pTeDdnTThweTIwVHNkdDJzLUE?oc=5)
 
-2026-08-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">AF</span>
 
 來源：[La Tercera](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVhMSjlDalEzWFY3R3dlLU9kMkRYRFNxcUZoTGxYUTM5QnBPSzhJcE9ZYUZmbDlCRzFvM0ZJLUtQZW1mSFhOZVBtR0VWZVRwbkNacGFMTlVjeWtveWt6bWQ3RnFCZzd3ZldvSmkxdGt1cU9PVW9OVmFNMXlmLUZTU2pRMkNuNVJsTUlPTjQ3THlDZVgtWUJ2NFJpOXJTcmZvS19kT2E4YkpNNnlGdjZwbFRUcHJrS01xUkczeXlaTWpUaVR2N2d1S1hGQlZtQjlpc2p5bNIB9gFBVV95cUxQVm9YTkhhRF9aaXBmVmIzTkZid3pDMGRWSUoyVnBIT1hEZ2VOLXU5OU9DRXROSllaTXRYdVNTUWtSc1ZJTk9uMlMyREoxbkh3ZjVxRlRiQTBLWEdRVzRxNEJBbkF2T3E4bzU2S0lrVVdYdnN4YWZaWlN5M1NOVUFtTzA3X2FrdGxoak9FYzR4RlNPSE5SMjZHaFR0T3hnMUZLQmNaTV8xN3ExT0x2Wkg1Z2c2QUFZeXoyUUxpU1ZUZFNuck8tU004SmxWenRSVTJuME1wVXZnYkF3cWVkZHFkdTlEd1pTeDdnTThweTIwVHNkdDJzLUE?oc=5)
 
@@ -118,14 +166,6 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Un estudio muestra que el consumo de zumo de tomate y soja reduce la inflamación en casos de obesidad - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbmJCQUtCa2xEdnB2NEtpZWlSTWk4QlZIdXI5WVBpS1BleEJ6b2Zad2VHZzVldmtSOWswZUhpWXdnQkZoS1BJM3pfZkVvNU5uNWxHMTFvallhVWlFUGdMX0pkQjJaY282aktvTDdYTHZtcWJkM0RxWGNGb2FZZkt6YmdBQ1JKdW00dWVIQTU2ZHhSaGszMjVxVnAxR2M3T2FHOU41Z2lQQlNkbl8tU1BpZHZIOF85ZFoybnVqSWwwYm4zTWRGUnVydWpHNEhfcngzeEZSQ3JNaURnWjRRWFBkQURCU2NiMUlwcFdJ?oc=5)
-
-2026-08-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbmJCQUtCa2xEdnB2NEtpZWlSTWk4QlZIdXI5WVBpS1BleEJ6b2Zad2VHZzVldmtSOWswZUhpWXdnQkZoS1BJM3pfZkVvNU5uNWxHMTFvallhVWlFUGdMX0pkQjJaY282aktvTDdYTHZtcWJkM0RxWGNGb2FZZkt6YmdBQ1JKdW00dWVIQTU2ZHhSaGszMjVxVnAxR2M3T2FHOU41Z2lQQlNkbl8tU1BpZHZIOF85ZFoybnVqSWwwYm4zTWRGUnVydWpHNEhfcngzeEZSQ3JNaURnWjRRWFBkQURCU2NiMUlwcFdJ?oc=5)
-
----
-
 ### [West Nile, salgono a 14 i casi in Sardegna. Iss: da inizio anno oltre 226 contagi e 7 decessi](https://news.google.com/rss/articles/CBMigwJBVV95cUxNVDVrTkxfMlpOOW95b2t6NUdyV21MbVZ6SHVQM0FZMFJKY1Q5N21EblY3RHc2RnNjUVpKVG5EN2FnWGw2ZkhERGw4UjZnUTNCV1gxR1gtMlhhb1hDQl9TSlpWNnY3VDc2WWRjdUVJcmZlanB6X051RWQ0Yy1WaVNFb2IzbDJwdEFTeFg0WTVIYnJMY1VBS19nc1plLTgtUmxNQnlwQUQ4cTJZVm5JVW5SWDd4bTdFQmJnZjJKV1NKc29aRFN5bExiS0I4aW9tOG94U1JIelMtLWQyY3hZNmpQYWR5VFNIYzlyMjllU25HSURKMW82OTQ0Z2NjbjM1VFZhTEFN0gGIAkFVX3lxTE5hbnVtQzBqNWxUTmE2NGpodkhzMVY5MDlvWHZmTG1YcUZaOW54bHpidEJraHJBaGFhN0JwSXhtN0JEdVI3NE9MZzhnNXVyN2ZwZGpsUi1SeFFGZFllOUx5WENqckVBdFRFVkQwUWRPMEN1QjZHUVA3WHU4QVFfaUV5TmxHQWt6dzh1UXE3N2dLWXpnYXlsOUlIcEtLY2pLS1FZYXplZkFIM1ZpSng0RGd4eUJ3aUkzWGM0MzFnZnpZT1J0X2NfUWpEMUZtVjNPTFN0ckxCaDJ5Ymx0MTJVU1FxLXA5QWZqRm82TVBHeFgwTFFXakFrRmNybkx5YUdHS19BNTR4bUlKeg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">AF</span>
@@ -134,19 +174,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Llevamos años tomando el café nada más levantarnos porque parecía lo más lógico, pero cada vez más expertos...](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNjlFOEFidkcwZmxJSWtEOHZQRzNEcXl2S1VuSTBQaDc2UktpSnBOMlV6WS1aN19fX2UxeDZzOC1icUlYUFhkdEgxdmpWNjczTm9fRmpHckQ4VW5WcVYxWXNuQThCQm1RN1NzY0hKc25zaHdlWlBEazlWajFYYkFlXzFVajZtNmczN1RnYlVPUkJTckRtanMwV05LaVF5bjFiRkotbGYyQ2hieHFtQndlT1RSVzhQaXA3dGk4SVVXMVVTNGg3bUNIR3BDenlBNFpVdC11RUxnYU5tMnVwUGhTREFzdlFJWWo0RUJzY09DVDBWV3pZUnVr0gH8AUFVX3lxTE1zOFdKNThtX09yajE5ZE9FTkQtQlZEd0RkTDd6QUg2LWRYMTY0MHNldlkzMDJDNVZWM2JqTGN3bVBDU2ptRHdBdnlzYjFKX204ZkV2OUF0NjNVaWJ3ZGotblFHUE5XZGNIbzlNX0RIWkNFdDVYVHFuQ19WeFJ1QU5RTHI3NEVRaDNfV1J2OThsTnJMei1COWhzUFhfN01zYTVxUE95WFpKOVJaSUh2M01Tam9LeG1NR3YwTXlOQksyejJwbHR2QnBQNnJRVFVjRjdYOFpwZ2g1RktuZkVteDFqemx5SEtQMnlwdERJeFJuZlFnZG1YVlpmRHZqUg?oc=5)
+### [Frühe Alzheimer-Marker: ULK1, Bluttests und MRT-Metrik im Fokus](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk9LOWZScmZnbW1GN2tSS3dKdHNqSU1zSEdzelkyUkhzaGFXdE5vS1FFTnlCb2hhX2xldE5PMzdJdDdpN1ZidUo4cE5uV184MjJ4WERwY2UzMjlOcW5xdXY0UWh2RHRwSDZNZEhETzlaeTl4blppakwzTE80bmtYaHI4WkxHTWpNY2RyMkpfbHRWMEtkbWZNTUpB?oc=5)
 
 2026-08-16 <span class="news-indication-tag">AF</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNjlFOEFidkcwZmxJSWtEOHZQRzNEcXl2S1VuSTBQaDc2UktpSnBOMlV6WS1aN19fX2UxeDZzOC1icUlYUFhkdEgxdmpWNjczTm9fRmpHckQ4VW5WcVYxWXNuQThCQm1RN1NzY0hKc25zaHdlWlBEazlWajFYYkFlXzFVajZtNmczN1RnYlVPUkJTckRtanMwV05LaVF5bjFiRkotbGYyQ2hieHFtQndlT1RSVzhQaXA3dGk4SVVXMVVTNGg3bUNIR3BDenlBNFpVdC11RUxnYU5tMnVwUGhTREFzdlFJWWo0RUJzY09DVDBWV3pZUnVr0gH8AUFVX3lxTE1zOFdKNThtX09yajE5ZE9FTkQtQlZEd0RkTDd6QUg2LWRYMTY0MHNldlkzMDJDNVZWM2JqTGN3bVBDU2ptRHdBdnlzYjFKX204ZkV2OUF0NjNVaWJ3ZGotblFHUE5XZGNIbzlNX0RIWkNFdDVYVHFuQ19WeFJ1QU5RTHI3NEVRaDNfV1J2OThsTnJMei1COWhzUFhfN01zYTVxUE95WFpKOVJaSUh2M01Tam9LeG1NR3YwTXlOQksyejJwbHR2QnBQNnJRVFVjRjdYOFpwZ2g1RktuZkVteDFqemx5SEtQMnlwdERJeFJuZlFnZG1YVlpmRHZqUg?oc=5)
-
----
-
-### [Frühe Alzheimer-Marker: ULK1, Bluttests und MRT-Metrik im Fokus - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk9LOWZScmZnbW1GN2tSS3dKdHNqSU1zSEdzelkyUkhzaGFXdE5vS1FFTnlCb2hhX2xldE5PMzdJdDdpN1ZidUo4cE5uV184MjJ4WERwY2UzMjlOcW5xdXY0UWh2RHRwSDZNZEhETzlaeTl4blppakwzTE80bmtYaHI4WkxHTWpNY2RyMkpfbHRWMEtkbWZNTUpB?oc=5)
-
-2026-08-16 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk9LOWZScmZnbW1GN2tSS3dKdHNqSU1zSEdzelkyUkhzaGFXdE5vS1FFTnlCb2hhX2xldE5PMzdJdDdpN1ZidUo4cE5uV184MjJ4WERwY2UzMjlOcW5xdXY0UWh2RHRwSDZNZEhETzlaeTl4blppakwzTE80bmtYaHI4WkxHTWpNY2RyMkpfbHRWMEtkbWZNTUpB?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk9LOWZScmZnbW1GN2tSS3dKdHNqSU1zSEdzelkyUkhzaGFXdE5vS1FFTnlCb2hhX2xldE5PMzdJdDdpN1ZidUo4cE5uV184MjJ4WERwY2UzMjlOcW5xdXY0UWh2RHRwSDZNZEhETzlaeTl4blppakwzTE80bmtYaHI4WkxHTWpNY2RyMkpfbHRWMEtkbWZNTUpB?oc=5)
 
 ---
 
@@ -155,6 +187,14 @@ permalink: /news/vernakalant-hydrochloride/
 2026-08-16 <span class="news-indication-tag">AF</span>
 
 來源：[EFE Salud](https://news.google.com/rss/articles/CBMifEFVX3lxTFBQV2dQYUp4ZWtpZlRQaHd5REtKUFJOeEtzUkhiMHB1ZnBEblR0Zml6NzNHd0dKV1VMbVFrcjZWand5Q2NzUk05Z2F2U3l4cTF3a0VSYlFVQ2xVb281NG1kaW1BZWd1dVlHdThsTl82eW9NUXZCaFhmN1dRVTc?oc=5)
+
+---
+
+### [El zumo que reduce proteínas relacionadas con la inflamación tras tomarlo a diario durante cuatro semanas](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
 
 ---
 
@@ -174,11 +214,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g2RXY4MklVUDlpOHRwRV8wc1RuZDBoTEhRb2Q1QUVvSVA4Zm40MXNZTkQtdHA1S1BhWGo0LWVKNzBOOFd6Z21pQ09ZMVBvS0Mxb1NmZjQwUEJzVklrYXlwWnF3ODhyYWpNamdmRm9ET1ZqT0JYM0JYRl8waENYSmhJQWFnZk9VZW9kRE1RSVBieW9VV1VaREFsdmlzbTJMdlcxRXJ6R0tXRzA?oc=5)
+### [Salire le scale fa bene al cuore e aiuta a vivere più a lungo. La conferma da un nuovo studio - Corriere della Sera](https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3UwanR2ZXo2RXFudVNHTFd5cXdqd3d4SjYzcHRVN0l3ZW41aFRaUnlibUU2TVVoZldLc1djUDJLaFM2Z3JRbWlvNTJOUlFSR1h0Uk9DMXRKT2RLT0szMFE1MWs0TGhHY0l6OHRoODJlZGlaM2lNc0o3d0xPd2hPaXpMVzVlaWVYMVB6bEtCZnFqUlFmWFZjWDdXV2hTM3VPcENFNVpTRjN3X0VKTTRXend2S1RLZGtJS1dqUzE2Q2NiLWZ0VlVab3NQOTNCUzNWUXoxMlk4SmVoUjRteHBkQ04tY0tYV0IwdnJJSDI2aWsxVDN5dk1RUGgtS19xWGU1SDY4MVc0UWZXU2RLNTEydmYyUmxLUXVDajZz0gGgAkFVX3lxTE1ycGlHdTJxZG1nN3RvLVpRZVpUcnd4NXVPQ1N2VFRnNm16ZjZJaTBFS1dKVTY0eXFrMmVjMXU3TWRkVWdpUjMwVTRocmd4MzczTlp3aVl4bWFqQkhJQjU3UGRxSlhBRXFJdW52RXNxTk50bGI1RWFQNHRwdEd0ZDdsMTRvUENyOFBHeFBwNkEtOTZBbHd2MnJOWW1talptTlgzMm5XUE5VLS02bDBtSG8tcFlWREZDSnVxY3NXQnpmRUpRRW9BVFFKVHRUa20wVXdyYk9LUVdLZVFFQ3c3bUpqeHNLb1dUMDhMc19mX1hyaXNBZVJuTUpBb0pMM1ZoMXhudmJDYVlNbGF2bFV4V1FfTEJBMHlIMmZLMGlMU0lOSQ?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Adipositas</span>
+2026-08-16 <span class="news-indication-tag">AF</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g2RXY4MklVUDlpOHRwRV8wc1RuZDBoTEhRb2Q1QUVvSVA4Zm40MXNZTkQtdHA1S1BhWGo0LWVKNzBOOFd6Z21pQ09ZMVBvS0Mxb1NmZjQwUEJzVklrYXlwWnF3ODhyYWpNamdmRm9ET1ZqT0JYM0JYRl8waENYSmhJQWFnZk9VZW9kRE1RSVBieW9VV1VaREFsdmlzbTJMdlcxRXJ6R0tXRzA?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3UwanR2ZXo2RXFudVNHTFd5cXdqd3d4SjYzcHRVN0l3ZW41aFRaUnlibUU2TVVoZldLc1djUDJLaFM2Z3JRbWlvNTJOUlFSR1h0Uk9DMXRKT2RLT0szMFE1MWs0TGhHY0l6OHRoODJlZGlaM2lNc0o3d0xPd2hPaXpMVzVlaWVYMVB6bEtCZnFqUlFmWFZjWDdXV2hTM3VPcENFNVpTRjN3X0VKTTRXend2S1RLZGtJS1dqUzE2Q2NiLWZ0VlVab3NQOTNCUzNWUXoxMlk4SmVoUjRteHBkQ04tY0tYV0IwdnJJSDI2aWsxVDN5dk1RUGgtS19xWGU1SDY4MVc0UWZXU2RLNTEydmYyUmxLUXVDajZz0gGgAkFVX3lxTE1ycGlHdTJxZG1nN3RvLVpRZVpUcnd4NXVPQ1N2VFRnNm16ZjZJaTBFS1dKVTY0eXFrMmVjMXU3TWRkVWdpUjMwVTRocmd4MzczTlp3aVl4bWFqQkhJQjU3UGRxSlhBRXFJdW52RXNxTk50bGI1RWFQNHRwdEd0ZDdsMTRvUENyOFBHeFBwNkEtOTZBbHd2MnJOWW1talptTlgzMm5XUE5VLS02bDBtSG8tcFlWREZDSnVxY3NXQnpmRUpRRW9BVFFKVHRUa20wVXdyYk9LUVdLZVFFQ3c3bUpqeHNLb1dUMDhMc19mX1hyaXNBZVJuTUpBb0pMM1ZoMXhudmJDYVlNbGF2bFV4V1FfTEJBMHlIMmZLMGlMU0lOSQ?oc=5)
 
 ---
 
@@ -190,19 +230,27 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Alzheimer-Schlaf: Mikroglia-Blockade bringt in Mausstudien über zwei Stunden mehr Schlaf - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVZCVFZZbVZYUUhBWmpJRGRoMFVBQ3M2YW1XalpDRWxvdzNTVEtYdTJXbVkzYmVQVHEzNi1GSWtlQ2d1S2VLQ2xpQ1RDcF80bUdRQVRheGxURjhXUlExWVVJQmk4RHhOUFZ5V0VaLVBkX3VqamhUU1BHM3diUUIxOEQ0MGpGQXZOU0duYzhLbXRiaGhJd0JEdU9GckVTQzdrOFBOd05yNEdfRW11V3UyTEdsSHhGbUpCUEJacQ?oc=5)
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
 
-2026-08-16 <span class="news-indication-tag">AF</span>
+2026-08-16 <span class="news-indication-tag">Adipositas</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVZCVFZZbVZYUUhBWmpJRGRoMFVBQ3M2YW1XalpDRWxvdzNTVEtYdTJXbVkzYmVQVHEzNi1GSWtlQ2d1S2VLQ2xpQ1RDcF80bUdRQVRheGxURjhXUlExWVVJQmk4RHhOUFZ5V0VaLVBkX3VqamhUU1BHM3diUUIxOEQ0MGpGQXZOU0duYzhLbXRiaGhJd0JEdU9GckVTQzdrOFBOd05yNEdfRW11V3UyTEdsSHhGbUpCUEJacQ?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
 
 ---
 
-### [Teegetränke: Schlafstörungen vermitteln 24% der psychischen Effekte](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdV9HZWhWUTU4VnI5TkZ3WTlWTnlrZGFMNG0tUzFnYzc2NTgwU0FrQU1SRUs4eV90TkZQWE5TZHZsT3VQUkdDd0ZwamE5U1Q0bDFycF9qcXZrZG1HR1MzRGpiOFo2UHJhNjh0Y1VKcDg4RmhGYWNnT3FRQWtIc0xfY0J3a2phZXRBa0Rzbk1YblIxODBoZFN4bENRSXZyUHhPVlU4blo4Ml9ucDNrSFNfbWtWX0t0cDA?oc=5)
+### [Alzheimer-Schlaf: Mikroglia-Blockade bringt in Mausstudien über zwei Stunden mehr Schlaf](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVZCVFZZbVZYUUhBWmpJRGRoMFVBQ3M2YW1XalpDRWxvdzNTVEtYdTJXbVkzYmVQVHEzNi1GSWtlQ2d1S2VLQ2xpQ1RDcF80bUdRQVRheGxURjhXUlExWVVJQmk4RHhOUFZ5V0VaLVBkX3VqamhUU1BHM3diUUIxOEQ0MGpGQXZOU0duYzhLbXRiaGhJd0JEdU9GckVTQzdrOFBOd05yNEdfRW11V3UyTEdsSHhGbUpCUEJacQ?oc=5)
+
+2026-08-16 <span class="news-indication-tag">AF</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVZCVFZZbVZYUUhBWmpJRGRoMFVBQ3M2YW1XalpDRWxvdzNTVEtYdTJXbVkzYmVQVHEzNi1GSWtlQ2d1S2VLQ2xpQ1RDcF80bUdRQVRheGxURjhXUlExWVVJQmk4RHhOUFZ5V0VaLVBkX3VqamhUU1BHM3diUUIxOEQ0MGpGQXZOU0duYzhLbXRiaGhJd0JEdU9GckVTQzdrOFBOd05yNEdfRW11V3UyTEdsSHhGbUpCUEJacQ?oc=5)
+
+---
+
+### [Teegetränke: Schlafstörungen vermitteln 24% der psychischen Effekte - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdV9HZWhWUTU4VnI5TkZ3WTlWTnlrZGFMNG0tUzFnYzc2NTgwU0FrQU1SRUs4eV90TkZQWE5TZHZsT3VQUkdDd0ZwamE5U1Q0bDFycF9qcXZrZG1HR1MzRGpiOFo2UHJhNjh0Y1VKcDg4RmhGYWNnT3FRQWtIc0xfY0J3a2phZXRBa0Rzbk1YblIxODBoZFN4bENRSXZyUHhPVlU4blo4Ml9ucDNrSFNfbWtWX0t0cDA?oc=5)
 
 2026-08-15 <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdV9HZWhWUTU4VnI5TkZ3WTlWTnlrZGFMNG0tUzFnYzc2NTgwU0FrQU1SRUs4eV90TkZQWE5TZHZsT3VQUkdDd0ZwamE5U1Q0bDFycF9qcXZrZG1HR1MzRGpiOFo2UHJhNjh0Y1VKcDg4RmhGYWNnT3FRQWtIc0xfY0J3a2phZXRBa0Rzbk1YblIxODBoZFN4bENRSXZyUHhPVlU4blo4Ml9ucDNrSFNfbWtWX0t0cDA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdV9HZWhWUTU4VnI5TkZ3WTlWTnlrZGFMNG0tUzFnYzc2NTgwU0FrQU1SRUs4eV90TkZQWE5TZHZsT3VQUkdDd0ZwamE5U1Q0bDFycF9qcXZrZG1HR1MzRGpiOFo2UHJhNjh0Y1VKcDg4RmhGYWNnT3FRQWtIc0xfY0J3a2phZXRBa0Rzbk1YblIxODBoZFN4bENRSXZyUHhPVlU4blo4Ml9ucDNrSFNfbWtWX0t0cDA?oc=5)
 
 ---
 
@@ -222,51 +270,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Is Protein Powder Bad For Your Long-Term Health?](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekliNlI4QUV0aVpadEdiVE9XemdmYnFwcHhRTkVQTUVObmtRWHozcHBSUU50MzVkV09KQkJudVpFenUxSk1UR2R0aG1tRXZFUnY1T1VzOS1pT21SMmlNbFFrb01BbkU0Y0NSQkRiNVJjR09jZWp4Q1lOSzlVd2M?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[GQ](https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekliNlI4QUV0aVpadEdiVE9XemdmYnFwcHhRTkVQTUVObmtRWHozcHBSUU50MzVkV09KQkJudVpFenUxSk1UR2R0aG1tRXZFUnY1T1VzOS1pT21SMmlNbFFrb01BbkU0Y0NSQkRiNVJjR09jZWp4Q1lOSzlVd2M?oc=5)
-
----
-
-### [GIP-Rezeptor: Cambridge-Studie eröffnet neue Adipositas-Therapien](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
+### [GIP-Rezeptor: Cambridge-Studie eröffnet neue Adipositas-Therapien - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
 
 2026-08-15 <span class="news-indication-tag">Adipositas</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
-
----
-
-### [Gesunder Schlaf zum Schulstart: So finden Kinder zurück in den Rhythmus](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2lsNjZ1Sk9yZHpRNmRTVUpjbjZ4cURzc3N6S2luaEdaajU1c0gxSEJ6TXVNdThzSHNQZVRMVFREdGVvaDNzNDd2bURBbC1oSDgzTDFDYnBfUENZUF9CZTFrNnhYYnhiTjZoZkVVQUVMX1RDODlwbF9mNDNiSjZxcjhDUmpJTEpCV1diMDZKWWtrT050UmhjRnhqX1RCY2NmYXlIZ0pRWlVwZm8?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2lsNjZ1Sk9yZHpRNmRTVUpjbjZ4cURzc3N6S2luaEdaajU1c0gxSEJ6TXVNdThzSHNQZVRMVFREdGVvaDNzNDd2bURBbC1oSDgzTDFDYnBfUENZUF9CZTFrNnhYYnhiTjZoZkVVQUVMX1RDODlwbF9mNDNiSjZxcjhDUmpJTEpCV1diMDZKWWtrT050UmhjRnhqX1RCY2NmYXlIZ0pRWlVwZm8?oc=5)
-
----
-
-### [Row breaks out after BMJ retracts paper on vaccine deaths - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3Jpa3ptNUpEX2hMMkN2UGRKd08xVGhUYkFPV0wtUGpVVUZqRGtQUjBfdWxzcXRxWmZrbU5wRjUxVnk0QlFsT2ZBT1k5cXBFQkd0UnBObDJUVW5BVDAwRkZOQ1c4WEJPTGIyVVJPYWJZc2ZmX2ZrX3FJeFBzeHFIVmgxRzc1YkppenNmdkVsLWVCQXpNSXc2SVB3OEVIal9YMEVZUg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3Jpa3ptNUpEX2hMMkN2UGRKd08xVGhUYkFPV0wtUGpVVUZqRGtQUjBfdWxzcXRxWmZrbU5wRjUxVnk0QlFsT2ZBT1k5cXBFQkd0UnBObDJUVW5BVDAwRkZOQ1c4WEJPTGIyVVJPYWJZc2ZmX2ZrX3FJeFBzeHFIVmgxRzc1YkppenNmdkVsLWVCQXpNSXc2SVB3OEVIal9YMEVZUg?oc=5)
-
----
-
-### [Hafer, Soja oder Mandel: Dieser Drink kommt Kuhmilch am nächsten](https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2ozeUwtNnVmcks5b1h3MlozRWNyaC0tSnhjWHVHZlkycXdpTDZYVmttRl9VRUlMTDNlbUp3SmtVY3FwUHBUTnI4WkFEZndaREZZaEtXMEtIR0VZNHE2WktUdGt4WWo4UTZhQTNkQXlsZU9HdC1wN0ZCekk1STNDdks2bGxxUURrd1pZaklJMlZFMUZsY0YwNW83X2w2TFYxQ3RFNzNLTzFqQWRLTEdSVWVqeVItYjd3aWV0TjBweW5OR2FZVE9yZ1BNZnE5dnRWX0ZSVDNqWlBkS2ZlcFU5SjdrYw?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[CHIP](https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2ozeUwtNnVmcks5b1h3MlozRWNyaC0tSnhjWHVHZlkycXdpTDZYVmttRl9VRUlMTDNlbUp3SmtVY3FwUHBUTnI4WkFEZndaREZZaEtXMEtIR0VZNHE2WktUdGt4WWo4UTZhQTNkQXlsZU9HdC1wN0ZCekk1STNDdks2bGxxUURrd1pZaklJMlZFMUZsY0YwNW83X2w2TFYxQ3RFNzNLTzFqQWRLTEdSVWVqeVItYjd3aWV0TjBweW5OR2FZVE9yZ1BNZnE5dnRWX0ZSVDNqWlBkS2ZlcFU5SjdrYw?oc=5)
-
----
-
-### [CardioPODCAST |5x17| Más allá del peso: relación entre la obesidad y la muerte súbita cardiaca - Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
-
-2026-08-15 <span class="news-indication-tag">obesidad</span>
-
-來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
 
 ---
 

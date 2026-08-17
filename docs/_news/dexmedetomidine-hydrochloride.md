@@ -54,19 +54,19 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+### [A Third Hidden Driver of High Blood Pressure Has Been Discovered – And a Potential Fix](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-08-17 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+來源：[sciencealert.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
 
 ---
 
-### [Hypertension: Why boosting potassium may be key for control - Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
+### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
-2026-08-15 <span class="news-indication-tag">hypertension</span>
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
 ---
 

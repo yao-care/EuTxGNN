@@ -62,6 +62,14 @@ permalink: /news/ziconotide/
 
 ---
 
+### [Gesundheit: Adipositas als Krankheit der Armen](https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NGcwTlk4T1F0bjktcjNNRlhlV0QtbkZmVUU4VEtONVdTRnhlb0lmUzkxd20tY1FRZi1QbXkwbnZ3SWFoUkp6QWc0b3ZNcTc4?oc=5)
+
+2026-08-17 <span class="news-indication-tag">Adipositas</span>
+
+來源：[science.ORF.at](https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NGcwTlk4T1F0bjktcjNNRlhlV0QtbkZmVUU4VEtONVdTRnhlb0lmUzkxd20tY1FRZi1QbXkwbnZ3SWFoUkp6QWc0b3ZNcTc4?oc=5)
+
+---
+
 ### [Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
@@ -70,11 +78,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Un estudio muestra que el consumo de zumo de tomate y soja reduce la inflamación en casos de obesidad - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbmJCQUtCa2xEdnB2NEtpZWlSTWk4QlZIdXI5WVBpS1BleEJ6b2Zad2VHZzVldmtSOWswZUhpWXdnQkZoS1BJM3pfZkVvNU5uNWxHMTFvallhVWlFUGdMX0pkQjJaY282aktvTDdYTHZtcWJkM0RxWGNGb2FZZkt6YmdBQ1JKdW00dWVIQTU2ZHhSaGszMjVxVnAxR2M3T2FHOU41Z2lQQlNkbl8tU1BpZHZIOF85ZFoybnVqSWwwYm4zTWRGUnVydWpHNEhfcngzeEZSQ3JNaURnWjRRWFBkQURCU2NiMUlwcFdJ?oc=5)
+### [El zumo que reduce proteínas relacionadas con la inflamación tras tomarlo a diario durante cuatro semanas](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
 
 2026-08-16 <span class="news-indication-tag">obesidad</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbmJCQUtCa2xEdnB2NEtpZWlSTWk4QlZIdXI5WVBpS1BleEJ6b2Zad2VHZzVldmtSOWswZUhpWXdnQkZoS1BJM3pfZkVvNU5uNWxHMTFvallhVWlFUGdMX0pkQjJaY282aktvTDdYTHZtcWJkM0RxWGNGb2FZZkt6YmdBQ1JKdW00dWVIQTU2ZHhSaGszMjVxVnAxR2M3T2FHOU41Z2lQQlNkbl8tU1BpZHZIOF85ZFoybnVqSWwwYm4zTWRGUnVydWpHNEhfcngzeEZSQ3JNaURnWjRRWFBkQURCU2NiMUlwcFdJ?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
 
 ---
 
@@ -86,27 +94,19 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g2RXY4MklVUDlpOHRwRV8wc1RuZDBoTEhRb2Q1QUVvSVA4Zm40MXNZTkQtdHA1S1BhWGo0LWVKNzBOOFd6Z21pQ09ZMVBvS0Mxb1NmZjQwUEJzVklrYXlwWnF3ODhyYWpNamdmRm9ET1ZqT0JYM0JYRl8waENYSmhJQWFnZk9VZW9kRE1RSVBieW9VV1VaREFsdmlzbTJMdlcxRXJ6R0tXRzA?oc=5)
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
 
 2026-08-16 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g2RXY4MklVUDlpOHRwRV8wc1RuZDBoTEhRb2Q1QUVvSVA4Zm40MXNZTkQtdHA1S1BhWGo0LWVKNzBOOFd6Z21pQ09ZMVBvS0Mxb1NmZjQwUEJzVklrYXlwWnF3ODhyYWpNamdmRm9ET1ZqT0JYM0JYRl8waENYSmhJQWFnZk9VZW9kRE1RSVBieW9VV1VaREFsdmlzbTJMdlcxRXJ6R0tXRzA?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
 
 ---
 
-### [GIP-Rezeptor: Cambridge-Studie eröffnet neue Adipositas-Therapien](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
+### [GIP-Rezeptor: Cambridge-Studie eröffnet neue Adipositas-Therapien - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
 
 2026-08-15 <span class="news-indication-tag">Adipositas</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
-
----
-
-### [CardioPODCAST |5x17| Más allá del peso: relación entre la obesidad y la muerte súbita cardiaca - Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
-
-2026-08-15 <span class="news-indication-tag">obesidad</span>
-
-來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
 
 ---
 

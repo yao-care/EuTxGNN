@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,15 +46,21 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li>epilepsy（99.2%）</li>
+<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 épilepsie</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Grave épilepsie réfractaire chez un enfant : des années d’errance diagnostique après une simple griffure de chat](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTVA1cWV3YTR3REdkckJoMGNqbncxYWFsajJWQjJUSmZIM2M3S1hVTENBNVQxcEtJblN3ZmtvSTJ6TkN1ZVlUVEF5dHp3OHNFNmRzVHNua0lwU095RF9qUjNIbldlcVFCd1VFODM0Y1Z2SzVHSzUzUkl5cmcwX1B2bWxHenhUcGp3R19vSVBLaDl0X0JvTDFwdlpUcTF2eWxBaWdQRjdodUlraGxyc2NIZ1ZxeWt1cVhzQk5nV2xZdlBIUG9xdlNTbF9sZGNSWE1BTkNjbXdSb1YtbFhDelAxSTd0RnM2MFZOVG9iUEM1eHFNcVBnSEVDaUlSUl9fVWhmTzVGY0E4bjB4OXdMLVpNblpvR0hBTDZ1cl9uQWlrY3o?oc=5)
+
+2026-08-17 <span class="news-indication-tag">épilepsie</span>
+
+來源：[lemonde.fr](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTVA1cWV3YTR3REdkckJoMGNqbncxYWFsajJWQjJUSmZIM2M3S1hVTENBNVQxcEtJblN3ZmtvSTJ6TkN1ZVlUVEF5dHp3OHNFNmRzVHNua0lwU095RF9qUjNIbldlcVFCd1VFODM0Y1Z2SzVHSzUzUkl5cmcwX1B2bWxHenhUcGp3R19vSVBLaDl0X0JvTDFwdlpUcTF2eWxBaWdQRjdodUlraGxyc2NIZ1ZxeWt1cVhzQk5nV2xZdlBIUG9xdlNTbF9sZGNSWE1BTkNjbXdSb1YtbFhDelAxSTd0RnM2MFZOVG9iUEM1eHFNcVBnSEVDaUlSUl9fVWhmTzVGY0E4bjB4OXdMLVpNblpvR0hBTDZ1cl9uQWlrY3o?oc=5)
+
+---
 
 
 <div class="disclaimer">

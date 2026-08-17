@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+### [Investigadores del Hospital de Guadalajara avanzan en la prevención del cáncer de hígado - Cadena SER](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcF8xelNaMkdxaTdzZmVXTHVyQXVlWl9DNDVIb2dNWGxYcTFFMVdKLVFVX0lSbU1zaFlQQkI1amxSSEtlZFg1bGdBc19ZLVFmcTBjUXc2V0dtd0QyVXFoVk1EX3RoTU51UUpha3pBUW9lUU5wNmRKeXJWNC1IY1hJbmdiYzRVYTBlRl8wOGQ2aXJTdkJnSDEwYUlfRmFsd2pTSzVzZVRjaURLSUtKbHJVYVI0My1HZDhfTVhBa2dRdU1FaGlVVE5aY25xb0VXaHNyeHR5U1dUUEh0Zl90c3N6SEw5elh3NmtPLTZz0gH_AUFVX3lxTFBSWE5mYlU5TU9iSWY2S3AxUkpGejZOMjZoQkZleGlfdkxlLVZGeVFqYkwzMHp6bS14c1NzZHJGT2JGRld0anVCY2VCU1gxV1ZCNjBMOFowUTNQVmtQbG1POXREaFJoUV9hX2xRYUtENXRPbnNYVHMteENzaklNSFFyRC11dVV1a0lLam5SN203eE1vc3RCQ0V3bWdEUEdsT0FCUVZUYnNwVUNwdGhiLVBBRmw3dEVaTHl4TzQ0TmdMM2RyZ2lIQ3J0VERtRXBKNGhFT3pHNEJjTWNHQjZQLUNLQTEtb210YVFHbGFIcnI3NlF4YWNFcElsQTlIM0pqQQ?oc=5)
 
-2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
+2026-08-17 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
-
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcF8xelNaMkdxaTdzZmVXTHVyQXVlWl9DNDVIb2dNWGxYcTFFMVdKLVFVX0lSbU1zaFlQQkI1amxSSEtlZFg1bGdBc19ZLVFmcTBjUXc2V0dtd0QyVXFoVk1EX3RoTU51UUpha3pBUW9lUU5wNmRKeXJWNC1IY1hJbmdiYzRVYTBlRl8wOGQ2aXJTdkJnSDEwYUlfRmFsd2pTSzVzZVRjaURLSUtKbHJVYVI0My1HZDhfTVhBa2dRdU1FaGlVVE5aY25xb0VXaHNyeHR5U1dUUEh0Zl90c3N6SEw5elh3NmtPLTZz0gH_AUFVX3lxTFBSWE5mYlU5TU9iSWY2S3AxUkpGejZOMjZoQkZleGlfdkxlLVZGeVFqYkwzMHp6bS14c1NzZHJGT2JGRld0anVCY2VCU1gxV1ZCNjBMOFowUTNQVmtQbG1POXREaFJoUV9hX2xRYUtENXRPbnNYVHMteENzaklNSFFyRC11dVV1a0lLam5SN203eE1vc3RCQ0V3bWdEUEdsT0FCUVZUYnNwVUNwdGhiLVBBRmw3dEVaTHl4TzQ0TmdMM2RyZ2lIQ3J0VERtRXBKNGhFT3pHNEJjTWNHQjZQLUNLQTEtb210YVFHbGFIcnI3NlF4YWNFcElsQTlIM0pqQQ?oc=5)
 
 ---
 
-### [Hypertension: Why boosting potassium may be key for control - Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
+### [Families urged to vaccinate children against Hepatitis A as it spreads in town](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
 
-2026-08-15 <span class="news-indication-tag">hypertension</span>
+2026-08-17 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
+
+---
+
+### [A Third Hidden Driver of High Blood Pressure Has Been Discovered – And a Potential Fix](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
+
+2026-08-17 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[sciencealert.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
+
+---
+
+### [Pamela Anderson e l’epatite C: la malattia che per anni ha cambiato il suo rapporto con il futuro](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
+
+2026-08-17 <span class="news-indication-tag">epatite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
+
+---
+
+### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Les statines pourraient ralentir le déclin cognitif chez les femmes avec la maladie d'Alzheimer et LDL-C élevé](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTVxTGY4anhIUGNwWlFkNy0ydVU2cE9fMGtkX3BfS1hqa3p6SDAwUWs5U2VpdXVvbXVxdm1LenVtdlpVNW9GOEQ4X1lWdXF2b09MUnNxZm1ybmplRFVUYUtjRkxuUFNTTUkwTEJ6Z1pJekZpd0RfTGhIT2VLOHhDaTRVODVKTnN6b2JqcUs5M1MzcHZYbl9fbkJoRHVCNjloYmR3eEZpRnFvamw3b1E?oc=5)
+
+2026-08-17 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTVxTGY4anhIUGNwWlFkNy0ydVU2cE9fMGtkX3BfS1hqa3p6SDAwUWs5U2VpdXVvbXVxdm1LenVtdlpVNW9GOEQ4X1lWdXF2b09MUnNxZm1ybmplRFVUYUtjRkxuUFNTTUkwTEJ6Z1pJekZpd0RfTGhIT2VLOHhDaTRVODVKTnN6b2JqcUs5M1MzcHZYbl9fbkJoRHVCNjloYmR3eEZpRnFvamw3b1E?oc=5)
+
+---
 
 ### [Two Hours of Sleep Restored in Alzheimer’s Brains in Research Breakthrough - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Alzheimer's</span>
+2026-08-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
 
@@ -67,22 +75,6 @@ permalink: /news/tolcapone/
 2026-08-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
-
----
-
-### [Besançon : une journée pour mieux comprendre la recherche sur la maladie de Parkinson](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUo2MmNCNU1TZW1BMUwtZkNyZ2FRX1huUFVrTl9uMTFpSEFtOUh0R0ZEN2JqVnh6M3FDdGhUSUo5ancwQmdTSDRpR0ZKanFhbGhBamJGRzFkRTlnZHZPMnM2WHo4SHRtNE5ldE9zZHo5UGdONDA1Z3pYTVRMYkl4STFXZWx4c2d3dkV1RUo1ZVIxemxqaUlEQUNJVWpiZ2FxOWRLajhENzdWU3JGaG1Lbw?oc=5)
-
-2026-08-15 <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[maCommune.info](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUo2MmNCNU1TZW1BMUwtZkNyZ2FRX1huUFVrTl9uMTFpSEFtOUh0R0ZEN2JqVnh6M3FDdGhUSUo5ancwQmdTSDRpR0ZKanFhbGhBamJGRzFkRTlnZHZPMnM2WHo4SHRtNE5ldE9zZHo5UGdONDA1Z3pYTVRMYkl4STFXZWx4c2d3dkV1RUo1ZVIxemxqaUlEQUNJVWpiZ2FxOWRLajhENzdWU3JGaG1Lbw?oc=5)
-
----
-
-### [Des scientifiques découvrent un possible déclencheur de la maladie d'Alzheimer : il commence dès 50 ans](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
-
-2026-08-15 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEppZnNDdnlZeHJfSVdOM0NFcGhlTmJPOVlVVU9hUzlvY3U5bWF3Z1dIckFvOVUybUltRHRoR0I1YzdQRTNoN2k4dHFsV3YwaHVVWFMxTVZ3ZmdWQnA2UkRPdHR6My1VS01mb2FoakFLc1ZXbENWT2FYbDBEbE5yUUZ3?oc=5)
 
 ---
 

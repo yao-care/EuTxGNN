@@ -14,7 +14,7 @@ permalink: /news/baloxavir-marboxil/
 ---
 
 <p class="key-answer" data-question="Baloxavir Marboxil 有什麼相關新聞？">
-<strong>Baloxavir Marboxil</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Baloxavir Marboxil</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,69 @@ permalink: /news/baloxavir-marboxil/
 <p><a href="{{ '/drugs/baloxavir-marboxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（28 則）
+
+### [Hitzetipp auch für die Augen wichtig](https://news.google.com/rss/articles/CBMif0FVX3lxTE5lV29yclFNOUxaXzU2OUFsRzA2UVRXN1V4OVNNT09JdDR0dnF5eDJacHFiMGZpV3BoVkVwR0hlREprZUYyS3RnZ2lCWjYtOWJ5RmhMcUVuV1hMLVZZcmw3UjBXVmlQTVA1al9SYmk0OFRkS2M0QmM4Mk96dDFsM2s?oc=5)
+
+2026-08-17 <span class="news-indication-tag">Krebs</span>
+
+來源：[pressetext](https://news.google.com/rss/articles/CBMif0FVX3lxTE5lV29yclFNOUxaXzU2OUFsRzA2UVRXN1V4OVNNT09JdDR0dnF5eDJacHFiMGZpV3BoVkVwR0hlREprZUYyS3RnZ2lCWjYtOWJ5RmhMcUVuV1hMLVZZcmw3UjBXVmlQTVA1al9SYmk0OFRkS2M0QmM4Mk96dDFsM2s?oc=5)
+
+---
 
 ### [Tumore, allenarsi durante le cure: cosa è successo a 2.570 pazienti](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1JLMjRuSnlSaGJtZDFKVGt2dWhhS1hmY2VKbzFXdzFPemU0OGdnMW1DS29uZmZnd3FIVUg0Ujk5aWNuSUVRRDRFd0dwbmxfRmxhTnB1VFd3UkxvUXhocHd3T1MyOEtHTTk2WFVwODI2bzVkeXlOQkVCQzA0dTFWT2hZYmh5bW1wRVBidHZjTnQ0dUFuTDc0UTBaWk9zR0xRRzZ4c0FrRm43XzVQd1NZUlp5THJIZlVwdVNmaGF2WXU2eTA?oc=5)
 
 2026-08-17 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1JLMjRuSnlSaGJtZDFKVGt2dWhhS1hmY2VKbzFXdzFPemU0OGdnMW1DS29uZmZnd3FIVUg0Ujk5aWNuSUVRRDRFd0dwbmxfRmxhTnB1VFd3UkxvUXhocHd3T1MyOEtHTTk2WFVwODI2bzVkeXlOQkVCQzA0dTFWT2hZYmh5bW1wRVBidHZjTnQ0dUFuTDc0UTBaWk9zR0xRRzZ4c0FrRm43XzVQd1NZUlp5THJIZlVwdVNmaGF2WXU2eTA?oc=5)
+
+---
+
+### [Investigadores del Hospital de Guadalajara avanzan en la prevención del cáncer de hígado - Cadena SER](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcF8xelNaMkdxaTdzZmVXTHVyQXVlWl9DNDVIb2dNWGxYcTFFMVdKLVFVX0lSbU1zaFlQQkI1amxSSEtlZFg1bGdBc19ZLVFmcTBjUXc2V0dtd0QyVXFoVk1EX3RoTU51UUpha3pBUW9lUU5wNmRKeXJWNC1IY1hJbmdiYzRVYTBlRl8wOGQ2aXJTdkJnSDEwYUlfRmFsd2pTSzVzZVRjaURLSUtKbHJVYVI0My1HZDhfTVhBa2dRdU1FaGlVVE5aY25xb0VXaHNyeHR5U1dUUEh0Zl90c3N6SEw5elh3NmtPLTZz0gH_AUFVX3lxTFBSWE5mYlU5TU9iSWY2S3AxUkpGejZOMjZoQkZleGlfdkxlLVZGeVFqYkwzMHp6bS14c1NzZHJGT2JGRld0anVCY2VCU1gxV1ZCNjBMOFowUTNQVmtQbG1POXREaFJoUV9hX2xRYUtENXRPbnNYVHMteENzaklNSFFyRC11dVV1a0lLam5SN203eE1vc3RCQ0V3bWdEUEdsT0FCUVZUYnNwVUNwdGhiLVBBRmw3dEVaTHl4TzQ0TmdMM2RyZ2lIQ3J0VERtRXBKNGhFT3pHNEJjTWNHQjZQLUNLQTEtb210YVFHbGFIcnI3NlF4YWNFcElsQTlIM0pqQQ?oc=5)
+
+2026-08-17 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcF8xelNaMkdxaTdzZmVXTHVyQXVlWl9DNDVIb2dNWGxYcTFFMVdKLVFVX0lSbU1zaFlQQkI1amxSSEtlZFg1bGdBc19ZLVFmcTBjUXc2V0dtd0QyVXFoVk1EX3RoTU51UUpha3pBUW9lUU5wNmRKeXJWNC1IY1hJbmdiYzRVYTBlRl8wOGQ2aXJTdkJnSDEwYUlfRmFsd2pTSzVzZVRjaURLSUtKbHJVYVI0My1HZDhfTVhBa2dRdU1FaGlVVE5aY25xb0VXaHNyeHR5U1dUUEh0Zl90c3N6SEw5elh3NmtPLTZz0gH_AUFVX3lxTFBSWE5mYlU5TU9iSWY2S3AxUkpGejZOMjZoQkZleGlfdkxlLVZGeVFqYkwzMHp6bS14c1NzZHJGT2JGRld0anVCY2VCU1gxV1ZCNjBMOFowUTNQVmtQbG1POXREaFJoUV9hX2xRYUtENXRPbnNYVHMteENzaklNSFFyRC11dVV1a0lLam5SN203eE1vc3RCQ0V3bWdEUEdsT0FCUVZUYnNwVUNwdGhiLVBBRmw3dEVaTHl4TzQ0TmdMM2RyZ2lIQ3J0VERtRXBKNGhFT3pHNEJjTWNHQjZQLUNLQTEtb210YVFHbGFIcnI3NlF4YWNFcElsQTlIM0pqQQ?oc=5)
+
+---
+
+### [Ernährung: Erhöhtes Prostatakrebs-Risiko durch diese Lebensmittel](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE1pTjRyT0lrTEtyQXozbjRGRkhwZ09WbHVJdGUxZ0JOV3JOZ3JlRFJMWFhqRFowcDRHbG4xS2lsQ2VwbnJKR0o2TTV6THJWdGhnbWhRVGpKN0NxNUNncXJUdUVPLWdGYlFPclNVUHpBNnExRy1HWFdtdGFsOTBhTzdvdVBza0lxOHlBY0gtVXFiRldzNzdxbTlYUnVEbkdTbHk2WnpaejQ5QmJQNF9wVHNlR05zbzRaR2VDaGMxcF9zRlNLTnc?oc=5)
+
+2026-08-17 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE1pTjRyT0lrTEtyQXozbjRGRkhwZ09WbHVJdGUxZ0JOV3JOZ3JlRFJMWFhqRFowcDRHbG4xS2lsQ2VwbnJKR0o2TTV6THJWdGhnbWhRVGpKN0NxNUNncXJUdUVPLWdGYlFPclNVUHpBNnExRy1HWFdtdGFsOTBhTzdvdVBza0lxOHlBY0gtVXFiRldzNzdxbTlYUnVEbkdTbHk2WnpaejQ5QmJQNF9wVHNlR05zbzRaR2VDaGMxcF9zRlNLTnc?oc=5)
+
+---
+
+### [Leucemia, perché alcune cellule sopravvivono anche quando si spegne il gene che alimenta il tumore?](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVVlVcUpTZXpMbGRaUmFXZEk4OWNXeTFsZnpyeTBRclBaLWhERk5OSVhTWFJOcU5HWnQwSmRXRWxMNFBoVkkwOEY0RjFHaExTRVV3aHlSQzY4aGswbDF3UkItSXgwX3lRM1hPdVppMzdqSFBJeXFVcnozNU42aXpKNEJkSzhTdGFNV1V6UThSNm9mXzdsRG1BX0g4cXNZVVJjNTZOTmZtT1QxVGZsZW8zb3djU0lCemhsZjNrZ3dNWG9uQkpUeDZHck13ZThXdElFZ1dldTJFY2JFTFdYcHJ1TXVBMVlFM0xHZDNONlJn?oc=5)
+
+2026-08-17 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVVlVcUpTZXpMbGRaUmFXZEk4OWNXeTFsZnpyeTBRclBaLWhERk5OSVhTWFJOcU5HWnQwSmRXRWxMNFBoVkkwOEY0RjFHaExTRVV3aHlSQzY4aGswbDF3UkItSXgwX3lRM1hPdVppMzdqSFBJeXFVcnozNU42aXpKNEJkSzhTdGFNV1V6UThSNm9mXzdsRG1BX0g4cXNZVVJjNTZOTmZtT1QxVGZsZW8zb3djU0lCemhsZjNrZ3dNWG9uQkpUeDZHck13ZThXdElFZ1dldTJFY2JFTFdYcHJ1TXVBMVlFM0xHZDNONlJn?oc=5)
+
+---
+
+### [Geordie Shore star's dad 'sent home with laxatives for constipation' had terminal bowel cancer - Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
+
+2026-08-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
+
+---
+
+### [Hospitals block one in four referrals to cut waiting lists - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3JVYWgxOXNVVFN2aWdXZ0RHUHhHdXJuQ3FWbHJMVTlLaWFxY0Z4UEpxai0yMHVWbWZ5V3R6RDNYSHBVYWdQMnBNVk8xY3ZVaTV4M3plWFltZVBubGR4V0hqb1VIbVBqbnoyUlVzbzVPaU9QWkxfaVZHMVQtQ1BRVHVUX0h4RU9pTzNpeU04bzg1dlExXzlwY2c0SlNlVjFB?oc=5)
+
+2026-08-17 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3JVYWgxOXNVVFN2aWdXZ0RHUHhHdXJuQ3FWbHJMVTlLaWFxY0Z4UEpxai0yMHVWbWZ5V3R6RDNYSHBVYWdQMnBNVk8xY3ZVaTV4M3plWFltZVBubGR4V0hqb1VIbVBqbnoyUlVzbzVPaU9QWkxfaVZHMVQtQ1BRVHVUX0h4RU9pTzNpeU04bzg1dlExXzlwY2c0SlNlVjFB?oc=5)
+
+---
+
+### [Families urged to vaccinate children against Hepatitis A as it spreads in town](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
+
+2026-08-17 <span class="news-indication-tag">hepatitis</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
 
 ---
 
@@ -70,19 +126,27 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Fears of cancer care delays as ‘quarter of GP referrals rejected’ - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
+### [Cancer du poumon : à Toulouse, des chercheurs traquent les cellules résistantes aux traitements pour éviter les rechutes](https://news.google.com/rss/articles/CBMiggJBVV95cUxNdzJxdHIwOUo5bHc4eXJWQWw1c3NGVGtUZ0tqaWt1REdpa2p4NkRkTU5SZHNCbHktc1oySGF3QWwwckFSdnlVb2lVV1N3TVIxcm91ZFM5a0lKZVBZa0dleGQtVUtDNjc0VUdtZkczYzRTYkFQMGFUNFZnM25haXJMbVhzaGJSYmpzcWgyN1c3M2hZUm9UeTNSUDItcVNNV3lGTUp1MFd5bEttbFZ1TktyUnpWTi1iZExjU2FqOExDWDA1NGViTWZxbmZYbkhBS3JlSjdZQVV3TWdOekw5V0k4VHN4UTFLdUpEX1ZseUZwNHA0cGVMcVY1RWNQMngxeldWZnc?oc=5)
 
-2026-08-16 <span class="news-indication-tag">cancer</span>
+2026-08-17 <span class="news-indication-tag">cancer</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxNdzJxdHIwOUo5bHc4eXJWQWw1c3NGVGtUZ0tqaWt1REdpa2p4NkRkTU5SZHNCbHktc1oySGF3QWwwckFSdnlVb2lVV1N3TVIxcm91ZFM5a0lKZVBZa0dleGQtVUtDNjc0VUdtZkczYzRTYkFQMGFUNFZnM25haXJMbVhzaGJSYmpzcWgyN1c3M2hZUm9UeTNSUDItcVNNV3lGTUp1MFd5bEttbFZ1TktyUnpWTi1iZExjU2FqOExDWDA1NGViTWZxbmZYbkhBS3JlSjdZQVV3TWdOekw5V0k4VHN4UTFLdUpEX1ZseUZwNHA0cGVMcVY1RWNQMngxeldWZnc?oc=5)
 
 ---
 
-### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+### [Tumori, nel sangue viaggiano cellule vive: possono rivelare quali metastasi nasceranno e quali farmaci rischiano di fallire](https://news.google.com/rss/articles/CBMijAJBVV95cUxPR1Z0WXlzT2k4Z1FzdU5ucENvb3I5YmFPX0JyeDNjeWk5V2g2a2paZ3BoZ2wwMU9XVGFVWmROQVBoWjlpWGhrM25ENFJYcUExakVwUV9BcmVlVmlhMHdrUGRQMFhWYTRkSERuNEFQUTgxT3hEWkJ6TDdOOW91bWFGZEplVldJcTBqX1dTb2U3Z0wzdHhtUFVyX1otXzdLSVRTWGZJdVBWN2ZsdkYxVlIxWUxYWWRSSXFRVjkzcFJaWkhXY3dieTd4WjhvWE1OSFZEWHg2Ql83T21XX1dVMUZUR1ZJYXpLSXJiUFpfSlk2ckNmNDN3dXF2Y0pfU25tR041WDR6endjVmVtc1BR?oc=5)
 
-2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
+2026-08-17 <span class="news-indication-tag">tumor</span>
 
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMijAJBVV95cUxPR1Z0WXlzT2k4Z1FzdU5ucENvb3I5YmFPX0JyeDNjeWk5V2g2a2paZ3BoZ2wwMU9XVGFVWmROQVBoWjlpWGhrM25ENFJYcUExakVwUV9BcmVlVmlhMHdrUGRQMFhWYTRkSERuNEFQUTgxT3hEWkJ6TDdOOW91bWFGZEplVldJcTBqX1dTb2U3Z0wzdHhtUFVyX1otXzdLSVRTWGZJdVBWN2ZsdkYxVlIxWUxYWWRSSXFRVjkzcFJaWkhXY3dieTd4WjhvWE1OSFZEWHg2Ql83T21XX1dVMUZUR1ZJYXpLSXJiUFpfSlk2ckNmNDN3dXF2Y0pfU25tR041WDR6endjVmVtc1BR?oc=5)
+
+---
+
+### [Pamela Anderson e l’epatite C: la malattia che per anni ha cambiato il suo rapporto con il futuro](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
+
+2026-08-17 <span class="news-indication-tag">epatite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
 
 ---
 
@@ -104,7 +168,7 @@ permalink: /news/baloxavir-marboxil/
 
 ### [Clarkson condemns decision to strip men of right to prostate cancer test - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5)
 
-2026-08-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-08-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5)
 
@@ -115,14 +179,6 @@ permalink: /news/baloxavir-marboxil/
 2026-08-16 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlQVowOHpDM3hyLVVDM2RFXzBhaG8tWnBveGVtX3NtWTlYUWNvdG94Z0RHMXdsY0NsbnA0NHg3SkU4VnQ3VHo1YmFKa0lmN25VcnNqV3NMdVlsZFZv?oc=5)
-
----
-
-### [El café puede reducir el riesgo de padecer una enfermedad hepática, según un reciente estudio - La Tercera](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVhMSjlDalEzWFY3R3dlLU9kMkRYRFNxcUZoTGxYUTM5QnBPSzhJcE9ZYUZmbDlCRzFvM0ZJLUtQZW1mSFhOZVBtR0VWZVRwbkNacGFMTlVjeWtveWt6bWQ3RnFCZzd3ZldvSmkxdGt1cU9PVW9OVmFNMXlmLUZTU2pRMkNuNVJsTUlPTjQ3THlDZVgtWUJ2NFJpOXJTcmZvS19kT2E4YkpNNnlGdjZwbFRUcHJrS01xUkczeXlaTWpUaVR2N2d1S1hGQlZtQjlpc2p5bNIB9gFBVV95cUxQVm9YTkhhRF9aaXBmVmIzTkZid3pDMGRWSUoyVnBIT1hEZ2VOLXU5OU9DRXROSllaTXRYdVNTUWtSc1ZJTk9uMlMyREoxbkh3ZjVxRlRiQTBLWEdRVzRxNEJBbkF2T3E4bzU2S0lrVVdYdnN4YWZaWlN5M1NOVUFtTzA3X2FrdGxoak9FYzR4RlNPSE5SMjZHaFR0T3hnMUZLQmNaTV8xN3ExT0x2Wkg1Z2c2QUFZeXoyUUxpU1ZUZFNuck8tU004SmxWenRSVTJuME1wVXZnYkF3cWVkZHFkdTlEd1pTeDdnTThweTIwVHNkdDJzLUE?oc=5)
-
-2026-08-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVhMSjlDalEzWFY3R3dlLU9kMkRYRFNxcUZoTGxYUTM5QnBPSzhJcE9ZYUZmbDlCRzFvM0ZJLUtQZW1mSFhOZVBtR0VWZVRwbkNacGFMTlVjeWtveWt6bWQ3RnFCZzd3ZldvSmkxdGt1cU9PVW9OVmFNMXlmLUZTU2pRMkNuNVJsTUlPTjQ3THlDZVgtWUJ2NFJpOXJTcmZvS19kT2E4YkpNNnlGdjZwbFRUcHJrS01xUkczeXlaTWpUaVR2N2d1S1hGQlZtQjlpc2p5bNIB9gFBVV95cUxQVm9YTkhhRF9aaXBmVmIzTkZid3pDMGRWSUoyVnBIT1hEZ2VOLXU5OU9DRXROSllaTXRYdVNTUWtSc1ZJTk9uMlMyREoxbkh3ZjVxRlRiQTBLWEdRVzRxNEJBbkF2T3E4bzU2S0lrVVdYdnN4YWZaWlN5M1NOVUFtTzA3X2FrdGxoak9FYzR4RlNPSE5SMjZHaFR0T3hnMUZLQmNaTV8xN3ExT0x2Wkg1Z2c2QUFZeXoyUUxpU1ZUZFNuck8tU004SmxWenRSVTJuME1wVXZnYkF3cWVkZHFkdTlEd1pTeDdnTThweTIwVHNkdDJzLUE?oc=5)
 
 ---
 
@@ -219,22 +275,6 @@ permalink: /news/baloxavir-marboxil/
 2026-08-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMWlvUmdOZEJxTkxkdUotRTg4enlCM2hjS1V2T2h6UkRjOXRMNERjOXo0NnZ0a0V4eFZ6eWRqYkVEbndqa0JLc2o5dTJ3M2l3bXlMSG1UT196TDVSNzRybDFieWdvQjRnbWdmUEYxQkpZcjZrZDluMXVYTXBaTVdvbW5rYlhmZmRwVUdGazZMRFpLNFVvMExLQ2dZRmVhMlBoWDhLT3pTLW9mdHhNQk9ybEZJTTBaY001dllzTGpkRjFTaHdKU3ZEUktwNHBoY3Y2VEg5OHhXNWNYcGM?oc=5)
-
----
-
-### [Ernährung: Diese Lebensmittel erhöhen das Prostatakrebs-Risiko](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXBLaTFlLXZLbloxSVRlc1lGMGVOVE5zUGtoUG5XbXc3MVJPUHN0TzVvMjh5SS1wRGY4ZlU3Q0o0QUxwVExFNU9XMldnZFQ4ZVBZQmdvUkRpS0l1UXY5TzRILUI2Vmh4NlJFQU1Fd05XZVlBdTBBQVh6LUdvV1FYS2g3UDJjWmNDRWJITDRDMEpJemhjX256cFZNb2VwUDg3N2ZRQWJ4ZFdwVG5TUDlGNDJUTlhjU1hFZXhqZ3p1ajFGUQ?oc=5)
-
-2026-08-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXBLaTFlLXZLbloxSVRlc1lGMGVOVE5zUGtoUG5XbXc3MVJPUHN0TzVvMjh5SS1wRGY4ZlU3Q0o0QUxwVExFNU9XMldnZFQ4ZVBZQmdvUkRpS0l1UXY5TzRILUI2Vmh4NlJFQU1Fd05XZVlBdTBBQVh6LUdvV1FYS2g3UDJjWmNDRWJITDRDMEpJemhjX256cFZNb2VwUDg3N2ZRQWJ4ZFdwVG5TUDlGNDJUTlhjU1hFZXhqZ3p1ajFGUQ?oc=5)
-
----
-
-### [Mum-of-three fears sunbeds caused skin tumour](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LVkhNYkQxYW4tRnJJZ1ZQVkplX245TXZjRUEzbW0wVm9VSlVqdzdld2dNeUowNVkwemMteXZvQXMyck4xajVOeFpjeTFRSjJKT0ZlTU1yeFFtdGg2?oc=5)
-
-2026-08-15 <span class="news-indication-tag">tumour</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LVkhNYkQxYW4tRnJJZ1ZQVkplX245TXZjRUEzbW0wVm9VSlVqdzdld2dNeUowNVkwemMteXZvQXMyck4xajVOeFpjeTFRSjJKT0ZlTU1yeFFtdGg2?oc=5)
 
 ---
 

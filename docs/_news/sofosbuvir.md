@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（20 則）
+
+### [Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
+
+2026-08-17 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
+
+---
+
+### [Darmgesundheit: 5-Punkte-Plan bessert RDS-Beschwerden um 40–50% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONGVKNm03bVlNQ1BCUzMzYWlLMzVvZG1QZ05sb0xmUkpnZTNHY3hZRmxMN243NXFoVTkwcGl4cFFHcEZCeHZ1RFA1RGFOT2hDTUFGdE5YYlotMGdERFpBTFhlYkhqZ0RqZTJLaWt0YTBvb1ZmU0lBNFlHVzc3c1FtOG1oN2llcmtHN0RrVXhMQlhXRkV2LWlEM05DdWRsY1czLUFrclljRmdKODQ3WjNBcXVZUUtSWlQ0Z3c?oc=5)
+
+2026-08-17 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONGVKNm03bVlNQ1BCUzMzYWlLMzVvZG1QZ05sb0xmUkpnZTNHY3hZRmxMN243NXFoVTkwcGl4cFFHcEZCeHZ1RFA1RGFOT2hDTUFGdE5YYlotMGdERFpBTFhlYkhqZ0RqZTJLaWt0YTBvb1ZmU0lBNFlHVzc3c1FtOG1oN2llcmtHN0RrVXhMQlhXRkV2LWlEM05DdWRsY1czLUFrclljRmdKODQ3WjNBcXVZUUtSWlQ0Z3c?oc=5)
+
+---
+
+### [Investigadores del Hospital de Guadalajara avanzan en la prevención del cáncer de hígado - Cadena SER](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcF8xelNaMkdxaTdzZmVXTHVyQXVlWl9DNDVIb2dNWGxYcTFFMVdKLVFVX0lSbU1zaFlQQkI1amxSSEtlZFg1bGdBc19ZLVFmcTBjUXc2V0dtd0QyVXFoVk1EX3RoTU51UUpha3pBUW9lUU5wNmRKeXJWNC1IY1hJbmdiYzRVYTBlRl8wOGQ2aXJTdkJnSDEwYUlfRmFsd2pTSzVzZVRjaURLSUtKbHJVYVI0My1HZDhfTVhBa2dRdU1FaGlVVE5aY25xb0VXaHNyeHR5U1dUUEh0Zl90c3N6SEw5elh3NmtPLTZz0gH_AUFVX3lxTFBSWE5mYlU5TU9iSWY2S3AxUkpGejZOMjZoQkZleGlfdkxlLVZGeVFqYkwzMHp6bS14c1NzZHJGT2JGRld0anVCY2VCU1gxV1ZCNjBMOFowUTNQVmtQbG1POXREaFJoUV9hX2xRYUtENXRPbnNYVHMteENzaklNSFFyRC11dVV1a0lLam5SN203eE1vc3RCQ0V3bWdEUEdsT0FCUVZUYnNwVUNwdGhiLVBBRmw3dEVaTHl4TzQ0TmdMM2RyZ2lIQ3J0VERtRXBKNGhFT3pHNEJjTWNHQjZQLUNLQTEtb210YVFHbGFIcnI3NlF4YWNFcElsQTlIM0pqQQ?oc=5)
+
+2026-08-17 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcF8xelNaMkdxaTdzZmVXTHVyQXVlWl9DNDVIb2dNWGxYcTFFMVdKLVFVX0lSbU1zaFlQQkI1amxSSEtlZFg1bGdBc19ZLVFmcTBjUXc2V0dtd0QyVXFoVk1EX3RoTU51UUpha3pBUW9lUU5wNmRKeXJWNC1IY1hJbmdiYzRVYTBlRl8wOGQ2aXJTdkJnSDEwYUlfRmFsd2pTSzVzZVRjaURLSUtKbHJVYVI0My1HZDhfTVhBa2dRdU1FaGlVVE5aY25xb0VXaHNyeHR5U1dUUEh0Zl90c3N6SEw5elh3NmtPLTZz0gH_AUFVX3lxTFBSWE5mYlU5TU9iSWY2S3AxUkpGejZOMjZoQkZleGlfdkxlLVZGeVFqYkwzMHp6bS14c1NzZHJGT2JGRld0anVCY2VCU1gxV1ZCNjBMOFowUTNQVmtQbG1POXREaFJoUV9hX2xRYUtENXRPbnNYVHMteENzaklNSFFyRC11dVV1a0lLam5SN203eE1vc3RCQ0V3bWdEUEdsT0FCUVZUYnNwVUNwdGhiLVBBRmw3dEVaTHl4TzQ0TmdMM2RyZ2lIQ3J0VERtRXBKNGhFT3pHNEJjTWNHQjZQLUNLQTEtb210YVFHbGFIcnI3NlF4YWNFcElsQTlIM0pqQQ?oc=5)
+
+---
+
+### [Scheinfasten: Kann die 5-Tage-Diät das Altern bremsen?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOekJyOHhOalcyaGFUYmdyLUJ6MWE4Qk1aMkpBRmVuYkY1UlpkYVNkR0xMTmxlQURBRHpFSk5jdENzZThDc3RKXzAxaEVzWkJWbkl3YzMtMk15dVB2V0ZfaHhENDRKT3ZSRS03SkVVbkg1VU9BWkF1clJ0UjJ2bE1tUkdnUEJOZDk1Rm1aNkc5ZmYzVVVIMUQ0?oc=5)
+
+2026-08-17 <span class="news-indication-tag">MS</span>
+
+來源：[TZ](https://news.google.com/rss/articles/CBMilwFBVV95cUxOekJyOHhOalcyaGFUYmdyLUJ6MWE4Qk1aMkpBRmVuYkY1UlpkYVNkR0xMTmxlQURBRHpFSk5jdENzZThDc3RKXzAxaEVzWkJWbkl3YzMtMk15dVB2V0ZfaHhENDRKT3ZSRS03SkVVbkg1VU9BWkF1clJ0UjJ2bE1tUkdnUEJOZDk1Rm1aNkc5ZmYzVVVIMUQ0?oc=5)
+
+---
+
+### [Ebola in Congo, il focolaio più mortale di sempre: perché il virus Bundibugyo sta mettendo in crisi la risposta sanitaria](https://news.google.com/rss/articles/CBMiigJBVV95cUxOLVZLanNLa2FQYlF4aEVoejlOWDRUbWFTaTBQbzlBdWFITUFCaHREd3kwYWpIYXFRVVZ1Zm0zTzBDUTh6LU1fRmhmZ3U5S3pidHluRXlCMFFYMVhCdHZDa1ZnbzJDeHdaTFIydkQzZFJqTEtuOFNTV0l4QjZRSUhPbVllTWc3WEZxZzBmakh5R2dqSUNwNWRGczdaRmI5TE1FdzFHcEkydmctbmRocl9kaXJORExYZlNWMXU2Z3RJQVNBREVSOUZINVVpWDQ3OEZMUHpLbk15T2RSOEphRkJITmtNa3AtcWtQWDFJVWNjYlp3RnQ3bDRaREYya2VVTHZLYTJLVFF5MDR0Zw?oc=5)
+
+2026-08-17 <span class="news-indication-tag">MS</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOLVZLanNLa2FQYlF4aEVoejlOWDRUbWFTaTBQbzlBdWFITUFCaHREd3kwYWpIYXFRVVZ1Zm0zTzBDUTh6LU1fRmhmZ3U5S3pidHluRXlCMFFYMVhCdHZDa1ZnbzJDeHdaTFIydkQzZFJqTEtuOFNTV0l4QjZRSUhPbVllTWc3WEZxZzBmakh5R2dqSUNwNWRGczdaRmI5TE1FdzFHcEkydmctbmRocl9kaXJORExYZlNWMXU2Z3RJQVNBREVSOUZINVVpWDQ3OEZMUHpLbk15T2RSOEphRkJITmtNa3AtcWtQWDFJVWNjYlp3RnQ3bDRaREYya2VVTHZLYTJLVFF5MDR0Zw?oc=5)
+
+---
+
+### [Families urged to vaccinate children against Hepatitis A as it spreads in town](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
+
+2026-08-17 <span class="news-indication-tag">hepatitis</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
+
+---
 
 ### [Tres hábitos que protegen la salud cerebral y previenen el deterioro cognitivo a partir de los 45 años](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZFdMSWFnbVlpVUU0eXpMakxERFlvdFo3MHlscFlHTFU3T1A2cFpJcm5va2FzVHByOGNlRDNaVkN4NlNadmd4TExLeW5hUlFfWllSdzcwR01PTWlqMDJtYTJzOFc3dzZ6amVLVjZ1UXc4RHdHa0FHQXQyZVd6am50ZGtCVmU4bnNmUlVPOVVMR3p1UEJuTzBKX0dCS3BTdVRoOGtrRUFLZnQ2a0ROeXVjdzVQNk1kcU96RDhablppanpvUEVqNDRHQ2JCX0U5Q20yTU4zSWVBZ2NXN0J1a2tIM2RaTzVXQzNtY3BBa3BmYW8tRDhz0gGPAkFVX3lxTE9naS1yWEFUem8wOHpnZ3J3c3ZlR1NaS0hyalRnMnFyUzVLX29vZFRoNVlQLW9PWW13SzV5SlFhNUN4Q0ptcEdhRUdFZldYQUowd2dvWTdpdUFsOEExRnVHWExOQUtVUkd1ejhORFItRFRBWGRsN0dqMXdOYUVmY1p6bm9QNDRJbjBYMzJ4dmlIakFVUU9PdTU2OWtYWjdpcmR1OWNrWVpOV1UwamlWMUJTU3REbGYzd2dPX2FzSk5vc3EyYmlldF9zZDhBSk4xaGdxZjZRanNMUmlrRjlwak9HejluRTVvZ0xOUDJwckZiaF9SWUZYRjlCMnRVZFRtZVdpYXo5STRKNGIyVXlhNmM?oc=5)
 
@@ -62,43 +110,43 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Screening neonatale esteso: poche gocce di sangue possono cambiare una vita, ma l’Italia deve fare il prossimo passo](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc1ViNEplLTY5V0plazVGVWwybDlCaTlvV3BEY0RhY2NPbEFlSmlIb3ZUYWJNM042QjN2bkpXa0Q5Wk9LWkN6cm92cW9RdXJUOUZXb0VyZ3pnTlhaaWxaRUZjUkpwWFo5UEhidnJJQlBJejdlS1BtYTlQX2NvSkFOYTRzMm8yMkpxN0ljeDNxREc5N293RmgyYTd4RVlmYXJ4VUZ1RVVLN2pDcHJ1YTZVckgyWlhmdENEZHNwRFRDQTZEX2ZqZjBXeHNWa09ETzBKSmJCRlFSNG1yUDF0ZWFEUEg3eXdMY0ZabHFJa3FVS0liQlp2dU1V?oc=5)
+### [Pamela Anderson e l’epatite C: la malattia che per anni ha cambiato il suo rapporto con il futuro](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
 
-2026-08-17 <span class="news-indication-tag">MS</span>
+2026-08-17 <span class="news-indication-tag">epatite</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc1ViNEplLTY5V0plazVGVWwybDlCaTlvV3BEY0RhY2NPbEFlSmlIb3ZUYWJNM042QjN2bkpXa0Q5Wk9LWkN6cm92cW9RdXJUOUZXb0VyZ3pnTlhaaWxaRUZjUkpwWFo5UEhidnJJQlBJejdlS1BtYTlQX2NvSkFOYTRzMm8yMkpxN0ljeDNxREc5N293RmgyYTd4RVlmYXJ4VUZ1RVVLN2pDcHJ1YTZVckgyWlhmdENEZHNwRFRDQTZEX2ZqZjBXeHNWa09ETzBKSmJCRlFSNG1yUDF0ZWFEUEg3eXdMY0ZabHFJa3FVS0liQlp2dU1V?oc=5)
-
----
-
-### [La OMS halla carencias organizativas "significativas" en el cribado del cáncer de próstata en Europa - 65 y más](https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2lGOFhsZ1ZIa09LM05DbHF4RktNblkwQkYxeHRwQ1ItaHVBcjh1UVBSOEpDdldEZXFzZmYzZFNDUkwtd1Zrdjc1V19tSDJxOHA4aE84dVlTUkZta0tFbmZaMnRMUXJGS3RfQ0VhMlN0ZVVKWm1wdG5YaUlPYy11eVZaWVpSN2lUSFIwOEl0V2VHN1VUZU5CMmllbV9TcDFvdkE?oc=5)
-
-2026-08-17 <span class="news-indication-tag">MS</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2lGOFhsZ1ZIa09LM05DbHF4RktNblkwQkYxeHRwQ1ItaHVBcjh1UVBSOEpDdldEZXFzZmYzZFNDUkwtd1Zrdjc1V19tSDJxOHA4aE84dVlTUkZta0tFbmZaMnRMUXJGS3RfQ0VhMlN0ZVVKWm1wdG5YaUlPYy11eVZaWVpSN2lUSFIwOEl0V2VHN1VUZU5CMmllbV9TcDFvdkE?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
 
 ---
 
-### [Arthrose: Gewichtsverlust von 5–10% bremst Knie-Degeneration](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmpLTWZzSVJfNl9xUXNxb01CQUVaOUxPLW5XblFIVHlwZklFRlo4RVp4UUdERXd1NHBsZ0hVaTNVTVJtX0VfZDFiRnFyTGJudUVjOGV6NDJ5dEhzUlBPeXdqN1dmRUJJTVdxb2dPVUlXbldSRXJBMC1qMTFxRlFoRlBoQ3RhaHR0alFoY1RMdVY4bDAtMWpSMnNqOEZ0a0RnZE1Ed19jVkhfb2xfajJrQm55U01hUQ?oc=5)
+### [La OMS halla carencias organizativas "significativas" en el cribado del cáncer de próstata en Europa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2lGOFhsZ1ZIa09LM05DbHF4RktNblkwQkYxeHRwQ1ItaHVBcjh1UVBSOEpDdldEZXFzZmYzZFNDUkwtd1Zrdjc1V19tSDJxOHA4aE84dVlTUkZta0tFbmZaMnRMUXJGS3RfQ0VhMlN0ZVVKWm1wdG5YaUlPYy11eVZaWVpSN2lUSFIwOEl0V2VHN1VUZU5CMmllbV9TcDFvdkE?oc=5)
+
+2026-08-17 <span class="news-indication-tag">MS</span>
+
+來源：[65ymas.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2lGOFhsZ1ZIa09LM05DbHF4RktNblkwQkYxeHRwQ1ItaHVBcjh1UVBSOEpDdldEZXFzZmYzZFNDUkwtd1Zrdjc1V19tSDJxOHA4aE84dVlTUkZta0tFbmZaMnRMUXJGS3RfQ0VhMlN0ZVVKWm1wdG5YaUlPYy11eVZaWVpSN2lUSFIwOEl0V2VHN1VUZU5CMmllbV9TcDFvdkE?oc=5)
+
+---
+
+### [Arthrose: Gewichtsverlust von 5–10% bremst Knie-Degeneration - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmpLTWZzSVJfNl9xUXNxb01CQUVaOUxPLW5XblFIVHlwZklFRlo4RVp4UUdERXd1NHBsZ0hVaTNVTVJtX0VfZDFiRnFyTGJudUVjOGV6NDJ5dEhzUlBPeXdqN1dmRUJJTVdxb2dPVUlXbldSRXJBMC1qMTFxRlFoRlBoQ3RhaHR0alFoY1RMdVY4bDAtMWpSMnNqOEZ0a0RnZE1Ed19jVkhfb2xfajJrQm55U01hUQ?oc=5)
 
 2026-08-16 <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmpLTWZzSVJfNl9xUXNxb01CQUVaOUxPLW5XblFIVHlwZklFRlo4RVp4UUdERXd1NHBsZ0hVaTNVTVJtX0VfZDFiRnFyTGJudUVjOGV6NDJ5dEhzUlBPeXdqN1dmRUJJTVdxb2dPVUlXbldSRXJBMC1qMTFxRlFoRlBoQ3RhaHR0alFoY1RMdVY4bDAtMWpSMnNqOEZ0a0RnZE1Ed19jVkhfb2xfajJrQm55U01hUQ?oc=5)
-
----
-
-### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
-
-2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmpLTWZzSVJfNl9xUXNxb01CQUVaOUxPLW5XblFIVHlwZklFRlo4RVp4UUdERXd1NHBsZ0hVaTNVTVJtX0VfZDFiRnFyTGJudUVjOGV6NDJ5dEhzUlBPeXdqN1dmRUJJTVdxb2dPVUlXbldSRXJBMC1qMTFxRlFoRlBoQ3RhaHR0alFoY1RMdVY4bDAtMWpSMnNqOEZ0a0RnZE1Ed19jVkhfb2xfajJrQm55U01hUQ?oc=5)
 
 ---
 
 ### [Clarkson condemns decision to strip men of right to prostate cancer test - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5)
 
-2026-08-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-08-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5)
+
+---
+
+### [Two Hours of Sleep Restored in Alzheimer’s Brains in Research Breakthrough - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
 
 ---
 
@@ -150,19 +198,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Alzheimer: Herpesviren und Immunantwort als zentrale Treiber identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXBUOGV2RUxSU0RWTXpCN0U1TVRPRVFIRWR2cVJVM19CWDVfNWNzbkNvSFpSQ3BZU2JUOVFiaEV6a0JSZFBHN1h3WkhTSjBFRVhyblo3RjVKYU5HVmk0dXVyNE01V09reHlQT1RRaDNyT1p4VklpSXFyeXFzMGo4dzdXSmtfZ3VCTmF6U1lVU19SLUdWdGFfN2Y0NUd6Q0FnU0I3Wkt0OVJPRlRiQ1g1TDFDdTJ2dU12TmxJUVlLYw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXBUOGV2RUxSU0RWTXpCN0U1TVRPRVFIRWR2cVJVM19CWDVfNWNzbkNvSFpSQ3BZU2JUOVFiaEV6a0JSZFBHN1h3WkhTSjBFRVhyblo3RjVKYU5HVmk0dXVyNE01V09reHlQT1RRaDNyT1p4VklpSXFyeXFzMGo4dzdXSmtfZ3VCTmF6U1lVU19SLUdWdGFfN2Y0NUd6Q0FnU0I3Wkt0OVJPRlRiQ1g1TDFDdTJ2dU12TmxJUVlLYw?oc=5)
+
+---
+
 ### [My son stopped taking his ADHD drugs for 6 weeks...the results shocked us - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjhYb1A0SXg5WWxUZ0ZWZlU4RkRMQjh0cWF1cUhVUWxHYkU3ekRETnNXUUZ2MFhuUXZvbV8yNzRVdktRNVFfcW92LXZrcjlOVUkwWEM1QV9Mekd0MUdIOEU1eWh0UDRiS3piNF9jSmFXQ1pXX1RvUEdpOVNmcTg0OEpHcG53UUVQcWFkR3E3RQ?oc=5)
 
 2026-08-15 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjhYb1A0SXg5WWxUZ0ZWZlU4RkRMQjh0cWF1cUhVUWxHYkU3ekRETnNXUUZ2MFhuUXZvbV8yNzRVdktRNVFfcW92LXZrcjlOVUkwWEM1QV9Mekd0MUdIOEU1eWh0UDRiS3piNF9jSmFXQ1pXX1RvUEdpOVNmcTg0OEpHcG53UUVQcWFkR3E3RQ?oc=5)
-
----
-
-### [Forschungsprojekt: In Erlangen rückt ein Angriffspunkt gegen Herpesviren in den Fokus](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0JJZnMySnM4QlNiTlN3YUJmWHUxR19XTk5HNy1CaFFrZHpHa0VoZkprZ0RhT1pJTFZWSjk0MFE1SmJ6cTlOWnNlQmliRHM4YlpVT0JZUGZlZk52ckZfTUhmYmQxRHJ6bzRoVVNrb3h5NkVENEtWMjF4Y016NFNKbWxFaUhHNlc2TUgtZFEtUk9STlBhYzkyeFUtOHdBc2FNenJfX1N1d2YwVkEycmhncVVpT0lVV3pRLTNYSUx2cw?oc=5)
-
-2026-08-15 <span class="news-indication-tag">MS</span>
-
-來源：[NN.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0JJZnMySnM4QlNiTlN3YUJmWHUxR19XTk5HNy1CaFFrZHpHa0VoZkprZ0RhT1pJTFZWSjk0MFE1SmJ6cTlOWnNlQmliRHM4YlpVT0JZUGZlZk52ckZfTUhmYmQxRHJ6bzRoVVNrb3h5NkVENEtWMjF4Y016NFNKbWxFaUhHNlc2TUgtZFEtUk9STlBhYzkyeFUtOHdBc2FNenJfX1N1d2YwVkEycmhncVVpT0lVV3pRLTNYSUx2cw?oc=5)
 
 ---
 
