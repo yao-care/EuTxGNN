@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
+### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
 
-2026-08-17 <span class="news-indication-tag">obesità</span>
+2026-08-17 <span class="news-indication-tag">Migräne</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
-
----
-
-### [Gesundheit: Adipositas als Krankheit der Armen](https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NGcwTlk4T1F0bjktcjNNRlhlV0QtbkZmVUU4VEtONVdTRnhlb0lmUzkxd20tY1FRZi1QbXkwbnZ3SWFoUkp6QWc0b3ZNcTc4?oc=5)
-
-2026-08-17 <span class="news-indication-tag">Adipositas</span>
-
-來源：[science.ORF.at](https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NGcwTlk4T1F0bjktcjNNRlhlV0QtbkZmVUU4VEtONVdTRnhlb0lmUzkxd20tY1FRZi1QbXkwbnZ3SWFoUkp6QWc0b3ZNcTc4?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/ziconotide/
 2026-08-16 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlV6dFFsdHVQYUpOdVJ3NDR1SWNiNGJhZ2V5UFlSMEQ0MVV0c3JWamg0SmZxWVJ2UzBmbTd4LXJRNWlxTTVSODBvWXpYY0J6RzlLMFZGdm5fWU02b0dlanA3LTUxcmNKTmRadFR0ZWY3RUZtWWhTbklTbzk5bEx0aGIyU2QycGcxaEJHenhrZndKNDREVGV3MjRzcHBON0dCb3NpS2NQbi1vQUxuXy1feUdUZ1ZNWWhqYnBsS1hNVWlfdV9leGFhT3QzWWs5SWJq?oc=5)
-
----
-
-### [GIP-Rezeptor: Cambridge-Studie eröffnet neue Adipositas-Therapien - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05MeU5Uc1V1RHlzaXl4OXVSSUp3cmU3STZrSklYNXh4Mm1iUGxuSW1zTVNzSEJNQTJoeTlIbFZWQWRjWE5OUjEtSjZmOXNGUWZGanhkZF9zd0ZIVmlsT2pPMnVNeVh2cGItalpXZTRsWHlUZnZ2dVZIQ2xpV1BLaWpRLWJUdUM5WXRWelNPNEVOaVFWYzFNazhrb1UzTFRFc3Y5Tm4yWlE1ajkwNXppZE5wSDg?oc=5)
 
 ---
 

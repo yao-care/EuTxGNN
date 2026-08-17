@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [„Gewitter-Asthma”: Deshalb können Donner und Blitz bei Heuschnupfen gefährlicher sein als gedacht](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQXh3N3RrcTMwVndWclJMWUIwbGNRQWp2MFdBRW9KTVVWV2dtS0RzbEI1Z2NLMFBlX1R6WHZlQVZoTUl0cmtkOUpmcEx5UHV3T0RmZWdzNjBYNU4yakM5VEtxLVIxWW1SdGI2OThJTlhtNU9EZnVvSnk2NmtGSXprN0JRX0o2Y3N4dU1QWjhZWExhVE1FMk0xeUJXR3diZm5qYmxQVXpILWpkNW1GSVVPNFhXd05NZzNLYWFPMFEtY0ZtWDRKYTBMZTRSVFpULXdHVllNdC1XSjBIUU1ncFJoc1N1OVl0S3E0VzZYNExkR1NJMnAyVkJJUnViQUN5TUVlM2JFZmZTMEFkUGV0Wjg4?oc=5)
+
+2026-08-17 <span class="news-indication-tag">asthma</span>
+
+來源：[CHIP](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQXh3N3RrcTMwVndWclJMWUIwbGNRQWp2MFdBRW9KTVVWV2dtS0RzbEI1Z2NLMFBlX1R6WHZlQVZoTUl0cmtkOUpmcEx5UHV3T0RmZWdzNjBYNU4yakM5VEtxLVIxWW1SdGI2OThJTlhtNU9EZnVvSnk2NmtGSXprN0JRX0o2Y3N4dU1QWjhZWExhVE1FMk0xeUJXR3diZm5qYmxQVXpILWpkNW1GSVVPNFhXd05NZzNLYWFPMFEtY0ZtWDRKYTBMZTRSVFpULXdHVllNdC1XSjBIUU1ncFJoc1N1OVl0S3E0VzZYNExkR1NJMnAyVkJJUnViQUN5TUVlM2JFZmZTMEFkUGV0Wjg4?oc=5)
+
+---
+
+### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
+
+2026-08-17 <span class="news-indication-tag">Migräne</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

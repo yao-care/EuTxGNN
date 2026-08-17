@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,19 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（2 則）
 
-### [A Third Hidden Driver of High Blood Pressure Has Been Discovered – And a Potential Fix](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
+### [Bluthochdruck-Vorsorge: Neuer Index zeigt 116% höheres Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
 2026-08-17
 
-來源：[sciencealert.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
 ---
 
-### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
+### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
 2026-08-16
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
 ---
 

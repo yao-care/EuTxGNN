@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [A Third Hidden Driver of High Blood Pressure Has Been Discovered – And a Potential Fix](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
+### [Bluthochdruck-Vorsorge: Neuer Index zeigt 116% höheres Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
-2026-08-17 <span class="news-indication-tag">high blood pressure</span>
+2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[sciencealert.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjNJcmRBMVpnbG5wRV9HMDAwbTh2c2NHd3BXQlo2U3FDM25Pbkc5VTkyWDVMUS04R3lEUUh0MTBjMHphMU9wbDdINjc0MUpaeDZmRW1OUEpwcjBUM0RQV2FhYzFqdXhsUnBXM2NlUGx2TzlrWm9PeXgxR25yTnJJSXpQQkJKMzNCZWNDLWsxSnhmYlFidmR4S2pGVmdiOWR0MjA0N1A3MXM3YkdzNmZJWTNTQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
 ---
 
-### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
+### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-17 <span class="news-indication-tag">Migräne</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
+
+---
+
+### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [„Gewitter-Asthma”: Deshalb können Donner und Blitz bei Heuschnupfen gefährlicher sein als gedacht](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQXh3N3RrcTMwVndWclJMWUIwbGNRQWp2MFdBRW9KTVVWV2dtS0RzbEI1Z2NLMFBlX1R6WHZlQVZoTUl0cmtkOUpmcEx5UHV3T0RmZWdzNjBYNU4yakM5VEtxLVIxWW1SdGI2OThJTlhtNU9EZnVvSnk2NmtGSXprN0JRX0o2Y3N4dU1QWjhZWExhVE1FMk0xeUJXR3diZm5qYmxQVXpILWpkNW1GSVVPNFhXd05NZzNLYWFPMFEtY0ZtWDRKYTBMZTRSVFpULXdHVllNdC1XSjBIUU1ncFJoc1N1OVl0S3E0VzZYNExkR1NJMnAyVkJJUnViQUN5TUVlM2JFZmZTMEFkUGV0Wjg4?oc=5)
+
+2026-08-17 <span class="news-indication-tag">asthma</span>
+
+來源：[CHIP](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQXh3N3RrcTMwVndWclJMWUIwbGNRQWp2MFdBRW9KTVVWV2dtS0RzbEI1Z2NLMFBlX1R6WHZlQVZoTUl0cmtkOUpmcEx5UHV3T0RmZWdzNjBYNU4yakM5VEtxLVIxWW1SdGI2OThJTlhtNU9EZnVvSnk2NmtGSXprN0JRX0o2Y3N4dU1QWjhZWExhVE1FMk0xeUJXR3diZm5qYmxQVXpILWpkNW1GSVVPNFhXd05NZzNLYWFPMFEtY0ZtWDRKYTBMZTRSVFpULXdHVllNdC1XSjBIUU1ncFJoc1N1OVl0S3E0VzZYNExkR1NJMnAyVkJJUnViQUN5TUVlM2JFZmZTMEFkUGV0Wjg4?oc=5)
+
+---
 
 
 <div class="disclaimer">

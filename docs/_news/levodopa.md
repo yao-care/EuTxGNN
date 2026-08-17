@@ -58,7 +58,7 @@ permalink: /news/levodopa/
 
 ### [Two Hours of Sleep Restored in Alzheimer’s Brains in Research Breakthrough - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-08-16 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
 

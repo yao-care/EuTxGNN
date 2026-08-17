@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Taltz (Ixekizumab) und Mounjaro (Tirzepatid)](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTlFVE14WGxuU2puemJ5QjRqYkg2NW1WUXNMZ1hPa0NycmhtNDlIQk9iQmx5WDJjTnV2eGY2M3RjLXRkMDVsQk5JWXJhRU1aQmFYTmNSaktmOHc2cWYwZGN3ZE1xR3VtQTFfY2xlMFUzNXZzNS1HbjI0c2R0OTh6ZFNUbUo3SkZlbnVHNU52bU5ZQVRJ?oc=5)
+
+2026-08-17 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTlFVE14WGxuU2puemJ5QjRqYkg2NW1WUXNMZ1hPa0NycmhtNDlIQk9iQmx5WDJjTnV2eGY2M3RjLXRkMDVsQk5JWXJhRU1aQmFYTmNSaktmOHc2cWYwZGN3ZE1xR3VtQTFfY2xlMFUzNXZzNS1HbjI0c2R0OTh6ZFNUbUo3SkZlbnVHNU52bU5ZQVRJ?oc=5)
+
+---
 
 
 <div class="disclaimer">
