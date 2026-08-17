@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [El Hospital de Guadalajara abre una “prometedora línea” para la prevención del cáncer de hígado - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
+### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
+來源：[telecinco.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 ---
 
@@ -107,14 +107,6 @@ permalink: /news/sacubitril/
 2026-08-15 <span class="news-indication-tag">diabète</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakd2LUxvUkpjbUtQajFUZmhsV1dvNFdYMVo3MGlReGExTW1QbkxkazlHUEtFS2t2MnlfWUN6ZGtsMUZSVEI3RHVhbGNfcE1mX2xfQzB5dWJESkRBaUFHQXVYVm1SYy1SQnhWUURoeEc3TE9CLVFDcjY4NUJUVWRxVlctVXRpSTRPbnk5VGo3YmxHMU55WnNZaEdqVQ?oc=5)
-
----
-
-### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
-
-2026-08-14 <span class="news-indication-tag">arthritis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/selpercatinib/
 
 ## 相關新聞（7 則）
 
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+
+---
+
 ### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -62,27 +70,19 @@ permalink: /news/selpercatinib/
 
 ---
 
+### [Fondazione ABC Study on Heart Disease ETS: trent’anni di ricerca per la salute nel Veneto](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
+
+2026-08-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[qdpnews.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
+
+---
+
 ### [Demenz-Prävention: Rauchen, Bluthochdruck, Diabetes – 13 Jahre Unterschied](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
 
 2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1ZpVkxuRUhsblllMHBhMWNkWnNMaUhvMmtndzRwY1ItVG1pWGtfZENXMWtBOWV0ZlFGZzQwakRIQ2k0NWF4al9QNEwzb2RkRWxwbThHMXFrNzJqcW1TVEVBcElsV2xfdlY5RExGeXBMXzN1dUF1c01EUTZrSmNpR2VLR3JHQjQ1MFNvOGV3ai1FTzZ0SnkwdDBNRHZSNmVhUEJKakJjcE05V2c?oc=5)
-
----
-
-### [¿Cómo controlamos la migraña durante épocas de calor?: un neurólogo tiene las claves](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
-
-2026-08-16 <span class="news-indication-tag">migraña</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium als Behandlungsempfehlung](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
-
-2026-08-15 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhHUF8zNEJMZ3pqRnd6bWhHWmlVdFFGeXRWRnp4bHpDSkhZSjUzdmc4ejRTdEhHVkJvZndPbEdVWjlqU0x3VWtJNVZzWUVRbng1SzZWRGpVem1LOEdGWGtyUUpSSVdiWFNsUUxVeGR2UTFtZk92b296VWhsSzBMWWU1XzZxclpqY2owdTJWQVFnSTBadV9UYkJGb0c5OE9oQko3ZnU3QkRiV2I3TFhkUUJrekhBMVlUaFNmMTJ6aUNobUlXVWc?oc=5)
 
 ---
 

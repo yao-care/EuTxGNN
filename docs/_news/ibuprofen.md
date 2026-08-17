@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Ibuprofen failed to ease agony of condition plaguing 1 in 6… £1 supp saved me - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNejJjVmNCMjdXZGJSOWRHY2RFQWo4WnR2enU3Q3BEWENsUWlidWpVVkxicDhKVk5xMkxObk1tU19CVzlhNnQybzdRQzNhWlhTNG1QYkxqOHI5Y1NfUEpFdFVuc2w0bmNaVW1POGtmdXhrTWw4Tlp4eWNoeHB5U2I2VGl0U0ZDdE5WTzJsa3ZFRDU?oc=5)
 
 2026-08-15 <span class="news-drug-tag">Ibuprofen</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNejJjVmNCMjdXZGJSOWRHY2RFQWo4WnR2enU3Q3BEWENsUWlidWpVVkxicDhKVk5xMkxObk1tU19CVzlhNnQybzdRQzNhWlhTNG1QYkxqOHI5Y1NfUEpFdFVuc2w0bmNaVW1POGtmdXhrTWw4Tlp4eWNoeHB5U2I2VGl0U0ZDdE5WTzJsa3ZFRDU?oc=5)
-
----
-
-### [Body-Mass-Index beeinflusst wohl die Wirkung von JAK-Inhibitoren bei rheumatoider Arthritis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
-
-2026-08-14 <span class="news-indication-tag">arthritis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXF2eGhlUHlMN1FjVGJpYlBWWWVraW9LWTZuQ2N4QUJfMkJ2U2dPSDdET3R0c2FqT2o4Q0kxUll4M2pxWFp0OFB6bUVTV0lxeGVHQmhPWWN1LVh4Mm01bDBFRkVfMWZJSHdDZGRQYXlPeXhFd2Rrbkd1aHdvclI2QUEzSjhHNjYxbGxvbnJyclJxc2Rfc3VlR29xTS1lZFBtc1pEQ0FjVUlPZFFFM3A0UW9TcURlVVZWWEdRcTVwVk51X0lCZnJXWWFIdGFFbllXTkg2eV85RWd6YWlEdmFHVWZpRW9qNEdfSVpNZ3NSZVNzQQ?oc=5)
 
 ---
 

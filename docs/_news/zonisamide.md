@@ -54,19 +54,35 @@ permalink: /news/zonisamide/
 
 ## 相關新聞（27 則）
 
+### [Ebola outbreak in DR Congo now deadliest in country's history - Sky News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2xiSmlMMUt1TlA2UVhrTUNnS2paX1ltMXhZSjV1VjZQaVFJWnBjWnE2elBYNlNRNEJTQVZ3TV9INmhsaXhyWFBFdHloanBFd1FiQnFtQmJfYjdxcVhEaGdDd2o1VDhQN0NlZ0RjZTRZV3BkYjhiOXBnOW9oYnhCTEl4ZDktUFhhdllTaWFqM2duNWp2VDdFdmNxODk?oc=5)
+
+2026-08-16 <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2xiSmlMMUt1TlA2UVhrTUNnS2paX1ltMXhZSjV1VjZQaVFJWnBjWnE2elBYNlNRNEJTQVZ3TV9INmhsaXhyWFBFdHloanBFd1FiQnFtQmJfYjdxcVhEaGdDd2o1VDhQN0NlZ0RjZTRZV3BkYjhiOXBnOW9oYnhCTEl4ZDktUFhhdllTaWFqM2duNWp2VDdFdmNxODk?oc=5)
+
+---
+
+### [Gehirn besitzt mehr Selbstheilungskraft als bisher angenommen](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFkxWTV5ejh3SE5sV3Z2cXpKQzhKQ25lMkZZQzEtYkJoSnhpXzhLd1BkM1hwM3Zzc0FpQkFvLTdmcElrbkJoVHB3c1FpSjhkVElhTjFwakw5c0VZLUhCMDVLeHB3MlVEVEkyUlVrNVBDZ2RBaTFMc3RGTWZDN2RES1lWOGZhV0t2a1BpdmREVW42TFlaNEpYcnJR?oc=5)
+
+2026-08-16 <span class="news-indication-tag">AF</span>
+
+來源：[Ökonews](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFkxWTV5ejh3SE5sV3Z2cXpKQzhKQ25lMkZZQzEtYkJoSnhpXzhLd1BkM1hwM3Zzc0FpQkFvLTdmcElrbkJoVHB3c1FpSjhkVElhTjFwakw5c0VZLUhCMDVLeHB3MlVEVEkyUlVrNVBDZ2RBaTFMc3RGTWZDN2RES1lWOGZhV0t2a1BpdmREVW42TFlaNEpYcnJR?oc=5)
+
+---
+
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+
+---
+
 ### [Alzheimer: Blockade von Mikroglia verlängert Schlaf um zwei Stunden](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXZCcFFjaUJMRzkzMzUtX19XZ3NMR1B1SHZhWURTQmtocXV0MFBVMXRacDZMZ1VnbnFmaXU2bHcxVW5MNXhpUGtvTFZMXzduWTFMRUZVbFZsWmtWeDdSZk52QnJvdnBwR1o5ajI4TlhVT08wWkIxMVktcXlCVjhWOG11eTdGMmRvd0dsN0RLeGFVUEpSX1ZqMVVGTEVNUEdMbUlPcTdwZ2VLc2ZNcEMzUG94eFd3cXc?oc=5)
 
 2026-08-16 <span class="news-indication-tag">AF</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXZCcFFjaUJMRzkzMzUtX19XZ3NMR1B1SHZhWURTQmtocXV0MFBVMXRacDZMZ1VnbnFmaXU2bHcxVW5MNXhpUGtvTFZMXzduWTFMRUZVbFZsWmtWeDdSZk52QnJvdnBwR1o5ajI4TlhVT08wWkIxMVktcXlCVjhWOG11eTdGMmRvd0dsN0RLeGFVUEpSX1ZqMVVGTEVNUEdMbUlPcTdwZ2VLc2ZNcEMzUG94eFd3cXc?oc=5)
-
----
-
-### [My husband saved my life after diagnosis - months later he died over the phone - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGJhWFd2eWJvX1lFTEpaNjlTcnFzWGV5LVIwV08wRmxwT0JmQi0wY2ZXR2EtNG5FSTBFelJ2UEd3NXZvZFlERVMtbGtJX3k2ZkowaFA1V0w4SkRrMlpvNmFlSFlVSXpteExvZU9qcmJnXy1nSEc5OWNhblExQ0YweUo0bmpMVVUzbHJjbw?oc=5)
-
-2026-08-16 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGJhWFd2eWJvX1lFTEpaNjlTcnFzWGV5LVIwV08wRmxwT0JmQi0wY2ZXR2EtNG5FSTBFelJ2UEd3NXZvZFlERVMtbGtJX3k2ZkowaFA1V0w4SkRrMlpvNmFlSFlVSXpteExvZU9qcmJnXy1nSEc5OWNhblExQ0YweUo0bmpMVVUzbHJjbw?oc=5)
 
 ---
 
@@ -94,19 +110,19 @@ permalink: /news/zonisamide/
 
 ---
 
+### [Fondazione ABC Study on Heart Disease ETS: trent’anni di ricerca per la salute nel Veneto](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
+
+2026-08-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[qdpnews.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjJwaklRRmVVUFhDTkFwWDl5bU9TZHMxbmJEUTMzVDhvdTFodEpqMHRXcEJzUEdzamdndWlmbVpOT3FMVTNKc3ZrbzZOTUd4VkdKcnNpTkh4dFYySXcxbHdnMU95bFpLeVlvdWltSjdhNi1jNXNzZm80NlZBSlVhNU1WSW5LTHlWdUlJX2tBbnBRUFN5YXhPdkpnQ1pvcV9PQlExNXRQc1dma1RsQkRqZHhqUUY4eXhLOVltc09hdVJRb2kzZUM1cXhBcVFEZHFiY2dFdmtMbFBmUQ?oc=5)
+
+---
+
 ### [Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
-
----
-
-### [El cáncer colorrectal aumenta entre los jóvenes y los científicos no logran encontrar la explicación](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVEwRnJVSDRUdWQxekl5eF8zMHd4a3MzMEtBRHA2MU95UGdUYTN6dGtWNWhNdmllRjhKZzZYaDlEcmdIaVBIai15Wm5nNnZQcWNoVTRhejl0Q3JfeDg2WU9mT0dWQ1hCbUM4aE9iUTlRWnZjNWxEOTNfM04zSDBCRkxuUnhzS01zLTM5aTZPUVdTSTlNbnRLVHRsTGtveEUtRHhEanNHdDFKMlVSX254VkNqVE90SS0wOXBqTmVjdnlGYWhqZGRNVHZfZ1NjTUpRY0o0dmhsbnlJcG_SAfYBQVVfeXFMT1doM1dRVGRZY1RlSjhYa3U0cHVyV2ozNnlmbkN3WVRUTkVVc3JiNUltcXd2SFA1TkJ3R0NhQVVQTmtydVY1aTc2MDlISFItQjFGWHF1dmRUeWJMSm5DRkJycklGd3RlN0xqd3U0VlVnSnhBT2toekp1Nkk3X21IUThCY21zaXBxWGJabkpqeWNnZ1JET3F3aHdBUDVrZC1ubXNnX1l0enBuUUw4R3BuLW11VDRsM2trd3FiTEtELVVaMl91U3ZxMmZlZmhWa3JEWE1oRTJhbVFyb3YxZ19jUzhuZll1LWtxWFVlTGV5a2RCZGhSMnl3?oc=5)
-
-2026-08-16 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVEwRnJVSDRUdWQxekl5eF8zMHd4a3MzMEtBRHA2MU95UGdUYTN6dGtWNWhNdmllRjhKZzZYaDlEcmdIaVBIai15Wm5nNnZQcWNoVTRhejl0Q3JfeDg2WU9mT0dWQ1hCbUM4aE9iUTlRWnZjNWxEOTNfM04zSDBCRkxuUnhzS01zLTM5aTZPUVdTSTlNbnRLVHRsTGtveEUtRHhEanNHdDFKMlVSX254VkNqVE90SS0wOXBqTmVjdnlGYWhqZGRNVHZfZ1NjTUpRY0o0dmhsbnlJcG_SAfYBQVVfeXFMT1doM1dRVGRZY1RlSjhYa3U0cHVyV2ozNnlmbkN3WVRUTkVVc3JiNUltcXd2SFA1TkJ3R0NhQVVQTmtydVY1aTc2MDlISFItQjFGWHF1dmRUeWJMSm5DRkJycklGd3RlN0xqd3U0VlVnSnhBT2toekp1Nkk3X21IUThCY21zaXBxWGJabkpqeWNnZ1JET3F3aHdBUDVrZC1ubXNnX1l0enBuUUw4R3BuLW11VDRsM2trd3FiTEtELVVaMl91U3ZxMmZlZmhWa3JEWE1oRTJhbVFyb3YxZ19jUzhuZll1LWtxWFVlTGV5a2RCZGhSMnl3?oc=5)
 
 ---
 
@@ -150,14 +166,6 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Face à l'invasion de moustiques-tigres, elle dépense 1000 euros en pièges et répulsifs... mais rien n'y fait : "on se fait dévorer" - France 3 Régions](https://news.google.com/rss/articles/CBMisgJBVV95cUxOQ3B0QWY2MWVHcjRQd3FyTTk3ZVFUckptWjVvN3c1MWlpQkRqQ1o4WmY3eDJPelJLMng5Q2pCNHFhaHY3Y1RFTGpvVjFnY1QycTdOY1VCa1NETVFsLWNnYnJtbWRfc2twMy1ZMnJIMmQzeFBWcFZEWFQ2S2tPRFJ0T0N4M0s3YXJ1amVjdC14alBrRGdVV01KQnJvTEtfRjFicUs5ZlBpa194b293dDlZbUl5ZE5RR09HTG42SUZhcC04YTdfVWZTSmVYZjNqeTI4VzFDd0k1QkxpVVBoR1hDUFJQWEc1ZEJZc1lwUmZWb1RCc09ZVXlGZmZ4eDZiOWZFRlRJN0xWMkZ0aG84UXFlMzVTeUNVdnhzTEVFV3JXNFZvcUZhZEt5STBjSWktQnJVN3c?oc=5)
-
-2026-08-16 <span class="news-indication-tag">AF</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMisgJBVV95cUxOQ3B0QWY2MWVHcjRQd3FyTTk3ZVFUckptWjVvN3c1MWlpQkRqQ1o4WmY3eDJPelJLMng5Q2pCNHFhaHY3Y1RFTGpvVjFnY1QycTdOY1VCa1NETVFsLWNnYnJtbWRfc2twMy1ZMnJIMmQzeFBWcFZEWFQ2S2tPRFJ0T0N4M0s3YXJ1amVjdC14alBrRGdVV01KQnJvTEtfRjFicUs5ZlBpa194b293dDlZbUl5ZE5RR09HTG42SUZhcC04YTdfVWZTSmVYZjNqeTI4VzFDd0k1QkxpVVBoR1hDUFJQWEc1ZEJZc1lwUmZWb1RCc09ZVXlGZmZ4eDZiOWZFRlRJN0xWMkZ0aG84UXFlMzVTeUNVdnhzTEVFV3JXNFZvcUZhZEt5STBjSWktQnJVN3c?oc=5)
-
----
-
 ### [Vitamin D in der Schwangerschaft: Kinder profitieren möglicherweise noch zehn Jahre später - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUWYyQXl3R1lMci1OOG1ON3ZtTHF3dEdEOUpOdEhtSVQ2MU5FX2RXel9oMUo1LWI5blhESlNDVDNFTTlySUFrcWV5RTdGNjVEX0tVVzdxUTBjWmVVbG91SGZwcE1yb1Z6aENJUE5xSmQzdVFBaDQzVFhyaWF4SDBBem8wTXZQalJ3d2JiZ01iVVAyV3VLa3o4YjhRT0tENkY3MXpscDJWRE9YZ0FORWdLQ0xiVXQ5QjlkZzM3cTdjZG51ampPTWtxcjNNVU9vN19mV1A0SUxJZENEWGNwS2xFT0ZTQlBjQQ?oc=5)
 
 2026-08-16 <span class="news-indication-tag">AF</span>
@@ -171,6 +179,14 @@ permalink: /news/zonisamide/
 2026-08-16 <span class="news-indication-tag">epilepsia</span>
 
 來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN1JVaEcyVE5QSG10akVBc0hlSUZhUXB5SEFrZmR0bl9tNGRKR2JyNE5QblNVcTlYNW9DSHo1UWxGc19DTEpMSkpuenJIRndGc0cwSGxRTE5HZ3lNbl9VNC1jQXhMU3JHcUZYOF81VUtIZ3J3aEpNUmxNSEdTVWxIU3lRZ2tWVFhRUXl4NW9kYnYtWHc5NFBLVnBRbVlYTzA4WDYydEY3ZGVYZS1RTmEtS1BlVVQ2VmlPMGRFVWdRYkRHX2w5M2lER3JyLWJuN3JTVGfSAdcBQVVfeXFMTjUtc0VFMk03ZWxDNlI4b1BOMC1qbEUxS3g5Qm11WXV2d3VyUnB0WFhEUkxXak1qZzRfbFlDVnV6YzRmR01ub1VmbzlVTklSMmdGMm1hZHNBaUFxV3BuSWk1dFpYWVVJTG1uaWF3Q053RkpzTmoxRnNybTdQU2ptVGpXcllIRU5hWWZzd0hLNEhoTmVCX0QtMk93d1BNNndiQjJka0FMMGM4MmNveXVMeEx1bjlLV19wOXpIbk5KcjhvejlhSU1EOFc4MzRua0VOQjNlWGNxRkE?oc=5)
+
+---
+
+### [Teegetränke: Schlafstörungen vermitteln 24% der psychischen Effekte](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdV9HZWhWUTU4VnI5TkZ3WTlWTnlrZGFMNG0tUzFnYzc2NTgwU0FrQU1SRUs4eV90TkZQWE5TZHZsT3VQUkdDd0ZwamE5U1Q0bDFycF9qcXZrZG1HR1MzRGpiOFo2UHJhNjh0Y1VKcDg4RmhGYWNnT3FRQWtIc0xfY0J3a2phZXRBa0Rzbk1YblIxODBoZFN4bENRSXZyUHhPVlU4blo4Ml9ucDNrSFNfbWtWX0t0cDA?oc=5)
+
+2026-08-15 <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdV9HZWhWUTU4VnI5TkZ3WTlWTnlrZGFMNG0tUzFnYzc2NTgwU0FrQU1SRUs4eV90TkZQWE5TZHZsT3VQUkdDd0ZwamE5U1Q0bDFycF9qcXZrZG1HR1MzRGpiOFo2UHJhNjh0Y1VKcDg4RmhGYWNnT3FRQWtIc0xfY0J3a2phZXRBa0Rzbk1YblIxODBoZFN4bENRSXZyUHhPVlU4blo4Ml9ucDNrSFNfbWtWX0t0cDA?oc=5)
 
 ---
 
@@ -190,27 +206,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Confirman el tercer caso de fiebre hemorrágica de Crimea-Congo del año en Salamanca - Libertad Digital](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY2swWUJCNGZDTDJoS01Vdkk0TklleUFtUDlscU5Db3VZeklQQUdRNjVld0daRW95WHlYSmR3c3QwWnRFU056UmUyWk5JN3ZmV1VoRmtJc0k4OEVVSWVKR1RwbkRDTXRUMTdMeXhEWDBLaEhqNlgtWXAyN0l2ZHNmVGJ1eUltWS1kVENyc1dlaGwwU3FCa2pLcUxhZXhWWXYxV3BqN2Z1SExEUnVJc3JValNub1NjN0NYZG43cmxnUWxtWVQ0bG93dHpjenkwSkMwOXpoOWtBNk9CVXhxR1ZiTGludVJWXzFnR20wamdfYWFjZ9IB_AFBVV95cUxNT3NvY0JucGd4dm9vR0s1cnBXVG9OQUY4dUhkWlBRcEpDdVktM0E3eHFwNU8wMTBMNW5LZ0lGbkxJRnJ4YTF3SXExMTZmR2tpamJVUWJXR04tcHVwdWV5Si1COUV1MVZPQUxsUVNhZnVNQkNSLS1Dak4wa0JLSmlBSnh0MkM1TmRtODZvR3c1VUMwLVl1ZXZXVk9iTmxzVkxCbWdza1F1bzZoVGpSNW4ySGMwcEdSdVd1ak9uc3BtNFVUMWRtTUYwd2ViSVp3ZnYzbk5oNWNxRHhMX3ZUNE1oZVNEcDJxT0dUVTI0MmNKQkxuWEJid09KbHRGTVk?oc=5)
+### [Les restaurateurs viennent de valider cette astuce gratuite pour chasser les guêpes des terrasses](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVGgzMmtJWTZfV2ctdmZkM0NDZDB6TG1aXzctclQzeEFPOHpUak1HY3ZtRndmS0psdkQtTGI4Zi1YenVPcy0zNEdFdW5sQWMtSElqQ0xxTllzb1ZlNURLeVNXRzVwSGxjMUdxVGpPay1fRkFZWGg0dExFeW1KRllRbVhTVlU5a2ZUQ1JKSWRvelFtdzFveXpMbDBZX1FDWFFXTlFVU1BjT3NIQURTcjBkazZVVUZ6OTlyVHc4U3RNOWg0TFJKSWgxcGE1MDYxNUJsNlo1MXlSaVlHSEpVS0plWTdfWFVQa0puLVlMM2F4THBYQzluYmtF?oc=5)
 
 2026-08-15 <span class="news-indication-tag">AF</span>
 
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY2swWUJCNGZDTDJoS01Vdkk0TklleUFtUDlscU5Db3VZeklQQUdRNjVld0daRW95WHlYSmR3c3QwWnRFU056UmUyWk5JN3ZmV1VoRmtJc0k4OEVVSWVKR1RwbkRDTXRUMTdMeXhEWDBLaEhqNlgtWXAyN0l2ZHNmVGJ1eUltWS1kVENyc1dlaGwwU3FCa2pLcUxhZXhWWXYxV3BqN2Z1SExEUnVJc3JValNub1NjN0NYZG43cmxnUWxtWVQ0bG93dHpjenkwSkMwOXpoOWtBNk9CVXhxR1ZiTGludVJWXzFnR20wamdfYWFjZ9IB_AFBVV95cUxNT3NvY0JucGd4dm9vR0s1cnBXVG9OQUY4dUhkWlBRcEpDdVktM0E3eHFwNU8wMTBMNW5LZ0lGbkxJRnJ4YTF3SXExMTZmR2tpamJVUWJXR04tcHVwdWV5Si1COUV1MVZPQUxsUVNhZnVNQkNSLS1Dak4wa0JLSmlBSnh0MkM1TmRtODZvR3c1VUMwLVl1ZXZXVk9iTmxzVkxCbWdza1F1bzZoVGpSNW4ySGMwcEdSdVd1ak9uc3BtNFVUMWRtTUYwd2ViSVp3ZnYzbk5oNWNxRHhMX3ZUNE1oZVNEcDJxT0dUVTI0MmNKQkxuWEJid09KbHRGTVk?oc=5)
-
----
-
-### [I fear contraceptive jab I took for 10yrs gave me devastating brain tumour - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
-
-2026-08-15 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnZhY0w1dlhvNlF0WjMybTd0Yk4tVFdDVnZFRUdHNXE3S19YWlJMWVQ4bWVPbjhlZEpjRWl2SnNhVnlGYTVaOUVaN2NPYUQ0LWUyZEk4UnBtbW1wU29QSHFjRHpZajh6eHhoVmx2YmNvbXRMVkhlalJuUGZOVW9lWmVVbmtabmxZWXZmdHlR?oc=5)
-
----
-
-### [Les restaurateurs viennent de valider cette astuce gratuite pour chasser les guêpes des terrasses - Pleine Vie](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVGgzMmtJWTZfV2ctdmZkM0NDZDB6TG1aXzctclQzeEFPOHpUak1HY3ZtRndmS0psdkQtTGI4Zi1YenVPcy0zNEdFdW5sQWMtSElqQ0xxTllzb1ZlNURLeVNXRzVwSGxjMUdxVGpPay1fRkFZWGg0dExFeW1KRllRbVhTVlU5a2ZUQ1JKSWRvelFtdzFveXpMbDBZX1FDWFFXTlFVU1BjT3NIQURTcjBkazZVVUZ6OTlyVHc4U3RNOWg0TFJKSWgxcGE1MDYxNUJsNlo1MXlSaVlHSEpVS0plWTdfWFVQa0puLVlMM2F4THBYQzluYmtF?oc=5)
-
-2026-08-15 <span class="news-indication-tag">AF</span>
-
-來源：[Pleine Vie](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVGgzMmtJWTZfV2ctdmZkM0NDZDB6TG1aXzctclQzeEFPOHpUak1HY3ZtRndmS0psdkQtTGI4Zi1YenVPcy0zNEdFdW5sQWMtSElqQ0xxTllzb1ZlNURLeVNXRzVwSGxjMUdxVGpPay1fRkFZWGg0dExFeW1KRllRbVhTVlU5a2ZUQ1JKSWRvelFtdzFveXpMbDBZX1FDWFFXTlFVU1BjT3NIQURTcjBkazZVVUZ6OTlyVHc4U3RNOWg0TFJKSWgxcGE1MDYxNUJsNlo1MXlSaVlHSEpVS0plWTdfWFVQa0puLVlMM2F4THBYQzluYmtF?oc=5)
+來源：[pleinevie.fr](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVGgzMmtJWTZfV2ctdmZkM0NDZDB6TG1aXzctclQzeEFPOHpUak1HY3ZtRndmS0psdkQtTGI4Zi1YenVPcy0zNEdFdW5sQWMtSElqQ0xxTllzb1ZlNURLeVNXRzVwSGxjMUdxVGpPay1fRkFZWGg0dExFeW1KRllRbVhTVlU5a2ZUQ1JKSWRvelFtdzFveXpMbDBZX1FDWFFXTlFVU1BjT3NIQURTcjBkazZVVUZ6OTlyVHc4U3RNOWg0TFJKSWgxcGE1MDYxNUJsNlo1MXlSaVlHSEpVS0plWTdfWFVQa0puLVlMM2F4THBYQzluYmtF?oc=5)
 
 ---
 
@@ -238,6 +238,14 @@ permalink: /news/zonisamide/
 
 ---
 
+### [Gesunder Schlaf zum Schulstart: So finden Kinder zurück in den Rhythmus](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2lsNjZ1Sk9yZHpRNmRTVUpjbjZ4cURzc3N6S2luaEdaajU1c0gxSEJ6TXVNdThzSHNQZVRMVFREdGVvaDNzNDd2bURBbC1oSDgzTDFDYnBfUENZUF9CZTFrNnhYYnhiTjZoZkVVQUVMX1RDODlwbF9mNDNiSjZxcjhDUmpJTEpCV1diMDZKWWtrT050UmhjRnhqX1RCY2NmYXlIZ0pRWlVwZm8?oc=5)
+
+2026-08-15 <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2lsNjZ1Sk9yZHpRNmRTVUpjbjZ4cURzc3N6S2luaEdaajU1c0gxSEJ6TXVNdThzSHNQZVRMVFREdGVvaDNzNDd2bURBbC1oSDgzTDFDYnBfUENZUF9CZTFrNnhYYnhiTjZoZkVVQUVMX1RDODlwbF9mNDNiSjZxcjhDUmpJTEpCV1diMDZKWWtrT050UmhjRnhqX1RCY2NmYXlIZ0pRWlVwZm8?oc=5)
+
+---
+
 ### [Row breaks out after BMJ retracts paper on vaccine deaths - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3Jpa3ptNUpEX2hMMkN2UGRKd08xVGhUYkFPV0wtUGpVVUZqRGtQUjBfdWxzcXRxWmZrbU5wRjUxVnk0QlFsT2ZBT1k5cXBFQkd0UnBObDJUVW5BVDAwRkZOQ1c4WEJPTGIyVVJPYWJZc2ZmX2ZrX3FJeFBzeHFIVmgxRzc1YkppenNmdkVsLWVCQXpNSXc2SVB3OEVIal9YMEVZUg?oc=5)
 
 2026-08-15 <span class="news-indication-tag">AF</span>
@@ -259,14 +267,6 @@ permalink: /news/zonisamide/
 2026-08-15 <span class="news-indication-tag">AF</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVFTeE1va1lrRDJXZUdDNVRLX1lVRGRVRERUQ3k3YVRXRlU5dEluSmhKejFUZnRFZTJ1VU5XdlhVYVFzV2ltWEM4alJSbVRhV0hVVGNEVzRKSkV4dzkzNFdweVVjR2NLSWRZS3BVYVE3djdVcDNaZlp5QXVDVXl0U05ESnpjUEREVmdiWHVLLUxRUW8waGNBcnRNcUsyUmxDeXJOWVFlRGZZYUphT0NnNC1Gcw?oc=5)
-
----
-
-### [Blood Thinner May Slow Cognitive Decline in Alzheimer’s Patients With AFib](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWFBR3p5bF9FVFpjMnQzaTU1aGlyVmE1emlmV0RPem4xSTNpdnU0cmJVUnVHOER5WlJ2b1B1bGp2bEExY3JBVDF1UExRc3lCN3FXR2FKendRbnhFNzRJLV9uNFVZWjJDeHdON3B1LUw1dGhFYzhROC1Ob2hFZUFpZ0lEX2d3VkR3bXh2di1LSk4zbzZFcTJuZTQ2T1QtNzB6bGdmcA?oc=5)
-
-2026-08-14 <span class="news-indication-tag">AFib</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWFBR3p5bF9FVFpjMnQzaTU1aGlyVmE1emlmV0RPem4xSTNpdnU0cmJVUnVHOER5WlJ2b1B1bGp2bEExY3JBVDF1UExRc3lCN3FXR2FKendRbnhFNzRJLV9uNFVZWjJDeHdON3B1LUw1dGhFYzhROC1Ob2hFZUFpZ0lEX2d3VkR3bXh2di1LSk4zbzZFcTJuZTQ2T1QtNzB6bGdmcA?oc=5)
 
 ---
 

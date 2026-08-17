@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [El Hospital de Guadalajara abre una “prometedora línea” para la prevención del cáncer de hígado - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
+### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
+來源：[telecinco.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/abaloparatide/
 2026-08-16 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOekh6dnlIWFVnSXFJMWxNd1hyVG5vZ19jVk5XQ1gtbTVqVlVoZHdadXpGZVA3ZjdsWlJfYUNmeWp5QUpEWkItY3VPdHo5NmJZYkNEZDM4c1M2WDhjZ2dEYlV5UWJfN1p1Wm9zcU1WOFFtejM2NkpENmZYMDFlYWhjNkVJdGlKenVyajhNeDc2ZUN2bHBxUHFrSWJnQ2dnYnhKaUplaEZuamo4VVZTa3BZNml3N3g0TEFIQmhzS2NDTQ?oc=5)
-
----
-
-### [¿Cómo controlamos la migraña durante épocas de calor?: un neurólogo tiene las claves](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
-
-2026-08-16 <span class="news-indication-tag">migraña</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
 
 ---
 

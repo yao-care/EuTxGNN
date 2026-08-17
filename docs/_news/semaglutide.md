@@ -54,19 +54,19 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（9 則）
 
+### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+
+2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[telecinco.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+
+---
+
 ### [Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
-
----
-
-### [El Hospital de Guadalajara abre una “prometedora línea” para la prevención del cáncer de hígado - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
-
-2026-08-16 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk9LRnFsTldHZ1Y0YWFsdEl0TVRuRTRGYVBaenAwVWhEMFA2QmJrWTNWZnFBNEVkRG1ObmJaR1hqTElSR3pIYUwzaVZNamFMdG9fcUhTR3ptaGdzWFd5ZFNDSjJJblQ1VFpUQzhvdXNkeGdUQVR4Z3J2R0stcU9BR0lEY0VKbE5LV1B6ejZlT2Z4MHlrZ3BLUlJmR3VLWENqVm5jYlhJQWVZQ2ZZNGl3QVdTaXV2LXlfMnY5TjgxNEotTzc2TWdCZUVRSnNyMlVMdWfSAdcBQVVfeXFMUEJHOGFLa1dkSldwLWs1b1pBS0JLQkthWjJSR2s1Q3p2VVF5RUxTMktSaktiNnBFVFMxOUtLZ19mbWlablptUnVMVEt6SHZUWW9NQi0yaVZ5a0tyaUZubWlyMmFGdG5OOUtvZ19JZHZFTzJUMXNaeGZ5dHlKOFZ6ZVBVZXdsNUtLcm9mMHI3c3FDMUR1dVlDSUFqaG5fUVp3bTFLRndWaWRFdlhzbXF0VzhuRkg5LVd5Y004aDZoSEtlZjhGV1hIR1lsak5NbXVpY1NDam9oNWM?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [What is psyllium husk? Experts give a verdict on ‘nature’s Ozempic’ and whether to believe the hype](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0c5MEcxRlRVQzRSc0p0V3F4RlpRMmEtLV8tQXlRcjRlRzI3M3lTRVRSNVJTWmYteUpJQjJSSWJPaEJCUi1TVWRGdUhZanBmVVhJTU82OEV2TTlWbS1GQm9JSjJ0bTFzVWxOQ0NUTVJlYm03c0VfZm1TN0RRMWVxUzNGQlUwc1ROM0xBV2hFNlc5WWl4RzBmcmlJLWpOU3o2UmpoODFjdHNiNElSbUE?oc=5)
+### [What is psyllium husk? Experts give a verdict on ‘nature’s Ozempic’ and whether to believe the hype - The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0c5MEcxRlRVQzRSc0p0V3F4RlpRMmEtLV8tQXlRcjRlRzI3M3lTRVRSNVJTWmYteUpJQjJSSWJPaEJCUi1TVWRGdUhZanBmVVhJTU82OEV2TTlWbS1GQm9JSjJ0bTFzVWxOQ0NUTVJlYm03c0VfZm1TN0RRMWVxUzNGQlUwc1ROM0xBV2hFNlc5WWl4RzBmcmlJLWpOU3o2UmpoODFjdHNiNElSbUE?oc=5)
 
 2026-08-16 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0c5MEcxRlRVQzRSc0p0V3F4RlpRMmEtLV8tQXlRcjRlRzI3M3lTRVRSNVJTWmYteUpJQjJSSWJPaEJCUi1TVWRGdUhZanBmVVhJTU82OEV2TTlWbS1GQm9JSjJ0bTFzVWxOQ0NUTVJlYm03c0VfZm1TN0RRMWVxUzNGQlUwc1ROM0xBV2hFNlc5WWl4RzBmcmlJLWpOU3o2UmpoODFjdHNiNElSbUE?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0c5MEcxRlRVQzRSc0p0V3F4RlpRMmEtLV8tQXlRcjRlRzI3M3lTRVRSNVJTWmYteUpJQjJSSWJPaEJCUi1TVWRGdUhZanBmVVhJTU82OEV2TTlWbS1GQm9JSjJ0bTFzVWxOQ0NUTVJlYm03c0VfZm1TN0RRMWVxUzNGQlUwc1ROM0xBV2hFNlc5WWl4RzBmcmlJLWpOU3o2UmpoODFjdHNiNElSbUE?oc=5)
 
 ---
 

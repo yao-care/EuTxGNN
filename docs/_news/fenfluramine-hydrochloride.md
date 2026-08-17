@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
 
-2026-08-16 <span class="news-indication-tag">obesità</span>
+2026-08-17 <span class="news-indication-tag">obesità</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
 
@@ -123,22 +123,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-08-15 <span class="news-indication-tag">obesidad</span>
 
 來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlFLamdQMmxRd2JLV18yMTFxdVdVWHB6SjNralBFbEJYMjgwdERJeVVrMkk3YThYUzM5cXRkdFBJNno1bU9SN05BVDJtcmoyZDdwODNHRXJSMUpmcXM1czVVSU9SUjVMTGdqRVJPYUhXOVFEN3J1VTcwTEpwUHNuWTlSeFJiUjFXTHNGbVlxQ19EZkp5dHQ2UkFHcEJaZFZUdmgzdnpsVUplbXJvRmZpRGwteGl1Wk5Hamt4S21vejlfRWhOMmdOQklmZVplelRDNDU5WjBaWU9oUHhE?oc=5)
-
----
-
-### [Vagusnerv-Stimulation: Bonner Studie testet neue Therapie gegen Adipositas-Entzündung](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUxPV0ZjR0NUbldNN2Vwc1UyaG9VYTdPWElBWlNvVXhaZ1ExcUs5M1R2akd0YXprOXdKa09Xa2swcWJwb1pUM3VPQ3VGa3kxTmlqbXJNanlwSzlURHRXSkp2dHMxMVdyUmtIakVVWkx4WktTQjVRaDFNWGw0dzlRcnNlTklhbXRjOHctVS1QcVR1cFFGeFl6MTdoU0YyNUFwMnBiYUIyMG9wZW82VzdFTw?oc=5)
-
-2026-08-15 <span class="news-indication-tag">Adipositas</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUxPV0ZjR0NUbldNN2Vwc1UyaG9VYTdPWElBWlNvVXhaZ1ExcUs5M1R2akd0YXprOXdKa09Xa2swcWJwb1pUM3VPQ3VGa3kxTmlqbXJNanlwSzlURHRXSkp2dHMxMVdyUmtIakVVWkx4WktTQjVRaDFNWGw0dzlRcnNlTklhbXRjOHctVS1QcVR1cFFGeFl6MTdoU0YyNUFwMnBiYUIyMG9wZW82VzdFTw?oc=5)
-
----
-
-### [Perché i chili tornano? Il grasso conserva una “memoria” dell’obesità anche dopo il dimagrimento](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3ZHSzh5WG9Oc2lLOENacjd6QlJlR25paEpVWWJXRU9WTGRIQzdEVWFvaE10T1pGdnl4ZGZWQ29DTXg2VktCVms2WnpSYUR6bXJ1T3ZUcGx3R2lUbDlmQVhiZFUwVVVqWVVpUEZ5TEszVmxNa3YxS1lUd0FCVWR2NlFlc19DR2tibF9DZ19LQWczc3lxeGlIR1hQRUlyeFRUUTExTC00ZXFpelVoeUxEeDVVMGluTFE4bnY2V3FqTWx0RkhDZmxaQnA5Y0VjRjlDaXB6UV9OWllCTDBkZjBlS1g2YjdET3M?oc=5)
-
-2026-08-14 <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3ZHSzh5WG9Oc2lLOENacjd6QlJlR25paEpVWWJXRU9WTGRIQzdEVWFvaE10T1pGdnl4ZGZWQ29DTXg2VktCVms2WnpSYUR6bXJ1T3ZUcGx3R2lUbDlmQVhiZFUwVVVqWVVpUEZ5TEszVmxNa3YxS1lUd0FCVWR2NlFlc19DR2tibF9DZ19LQWczc3lxeGlIR1hQRUlyeFRUUTExTC00ZXFpelVoeUxEeDVVMGluTFE4bnY2V3FqTWx0RkhDZmxaQnA5Y0VjRjlDaXB6UV9OWllCTDBkZjBlS1g2YjdET3M?oc=5)
 
 ---
 

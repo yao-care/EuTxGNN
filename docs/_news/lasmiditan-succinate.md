@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
 ### [Professore universitario si presta come cavia per un'esperimento sulla longevità: ora dimostra 15 anni in meno - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
 
-2026-08-16 <span class="news-indication-tag">obesità</span>
+2026-08-17 <span class="news-indication-tag">obesità</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkNWdkNmZU9GQTZMeTAyVDVTazYzOHBXeWFZS3FRQzRtRUNGX3VTRnIwQV9HZkhIMFBmWVBNOUZFM1FvR1JtLW1RRkx1dFNucXZIZWE2b2daRU5Zb0l2cEZRMXFOVzlnallXVHlOQ2l5S21OeG8taVd3LTN2bHpWWUlBZjFCYkVOMkMzaEMtd3c5dmM4Vm5lUUxnMmRiMFRuT1h5VUNtXzNrSjIxUlE?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/lasmiditan-succinate/
 2026-08-16 <span class="news-indication-tag">obesidad</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxObHBLOS1NNllMOWNyU25SQUFib1k3VnY3UTFJcXBEbW40TS1IRWtUS0JFX0NsSTBvdTBiZ2FRQUdmdzllekdkSzFmWEE5bWhBajM3d0J2SUpBRmFMZHRid0pFdmlReEZXZHlTbFdFeEpwUTRmMWJPRFlfb0MxM2ZIZTJsaUlIUUF1d0UzTmtiUnBlS3h3bC1zUHkzNWw3OHFyMVVoSy12ekQtdUo4WGNqS3Jna0JsQ3duUWpLeTA1OVNtSUVTam5VQTJJOE1TUQ?oc=5)
-
----
-
-### [¿Cómo controlamos la migraña durante épocas de calor?: un neurólogo tiene las claves](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
-
-2026-08-16 <span class="news-indication-tag">migraña</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWk5mZE5uX3ZZSjkxaVFhaGMwMVVrZmxyUW9HTHhUZ1pkNlhBNi1zYnJyRk16UWpnWUVrRm9iakV2d2ZXOEpqWHdEM2luVDdOdXBIM2pkTng3TkJJUndjMWlIa1JxV0RGeGpsVmVSTWVXLUl4QjNDYzJWUzNzVWZzbWUwOFlQRFJTQy01OV81U2xERW1hLXpSN2dMbmh4ckZCSDlJX1lfb9IBrAFBVV95cUxPbnBlamVza0tkajB1SDlKM2FLMF9EWHdlWTN2czlLTVIxUVhfQnhIS3NmSUlSSjVqNUZZZFNwazlFaTNqTUZPZE02Z1JLUmJLWjB4RkJqT3A0amtBVk02enJGQTVkZnFkaC1TMnVfWFZZRGNYRTE0bGpvNjd5Yk1ZSW96SVZ0ZVY5UzJURTZLX2R0MUtzQlRhZjRjRy16Nm5LRWlHcnN4TGdaQVEx?oc=5)
 
 ---
 
@@ -139,22 +131,6 @@ permalink: /news/lasmiditan-succinate/
 2026-08-15 <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3BvM0UxZUphT19zOHVOYnJDQ0xzQ00zNUR4OXRjWHoyb1RCbkFRWDBIRGJZMzRtaXlKZHhmMlhmMEVDZmJMbGRHNmVJUzVOMV84Zm50ZTZoM2dTbXdYc19nQTVUTXZ5YWNlczZGVTBkUVdVUzVwa0w3dGpBZmxrckw3OVpiNXo0cHBObklxSGFxa3licmhieHRldHgtUkJyNWRqNg?oc=5)
-
----
-
-### [Vagusnerv-Stimulation: Bonner Studie testet neue Therapie gegen Adipositas-Entzündung](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUxPV0ZjR0NUbldNN2Vwc1UyaG9VYTdPWElBWlNvVXhaZ1ExcUs5M1R2akd0YXprOXdKa09Xa2swcWJwb1pUM3VPQ3VGa3kxTmlqbXJNanlwSzlURHRXSkp2dHMxMVdyUmtIakVVWkx4WktTQjVRaDFNWGw0dzlRcnNlTklhbXRjOHctVS1QcVR1cFFGeFl6MTdoU0YyNUFwMnBiYUIyMG9wZW82VzdFTw?oc=5)
-
-2026-08-15 <span class="news-indication-tag">Adipositas</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUxPV0ZjR0NUbldNN2Vwc1UyaG9VYTdPWElBWlNvVXhaZ1ExcUs5M1R2akd0YXprOXdKa09Xa2swcWJwb1pUM3VPQ3VGa3kxTmlqbXJNanlwSzlURHRXSkp2dHMxMVdyUmtIakVVWkx4WktTQjVRaDFNWGw0dzlRcnNlTklhbXRjOHctVS1QcVR1cFFGeFl6MTdoU0YyNUFwMnBiYUIyMG9wZW82VzdFTw?oc=5)
-
----
-
-### [Perché i chili tornano? Il grasso conserva una “memoria” dell’obesità anche dopo il dimagrimento](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3ZHSzh5WG9Oc2lLOENacjd6QlJlR25paEpVWWJXRU9WTGRIQzdEVWFvaE10T1pGdnl4ZGZWQ29DTXg2VktCVms2WnpSYUR6bXJ1T3ZUcGx3R2lUbDlmQVhiZFUwVVVqWVVpUEZ5TEszVmxNa3YxS1lUd0FCVWR2NlFlc19DR2tibF9DZ19LQWczc3lxeGlIR1hQRUlyeFRUUTExTC00ZXFpelVoeUxEeDVVMGluTFE4bnY2V3FqTWx0RkhDZmxaQnA5Y0VjRjlDaXB6UV9OWllCTDBkZjBlS1g2YjdET3M?oc=5)
-
-2026-08-14 <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3ZHSzh5WG9Oc2lLOENacjd6QlJlR25paEpVWWJXRU9WTGRIQzdEVWFvaE10T1pGdnl4ZGZWQ29DTXg2VktCVms2WnpSYUR6bXJ1T3ZUcGx3R2lUbDlmQVhiZFUwVVVqWVVpUEZ5TEszVmxNa3YxS1lUd0FCVWR2NlFlc19DR2tibF9DZ19LQWczc3lxeGlIR1hQRUlyeFRUUTExTC00ZXFpelVoeUxEeDVVMGluTFE4bnY2V3FqTWx0RkhDZmxaQnA5Y0VjRjlDaXB6UV9OWllCTDBkZjBlS1g2YjdET3M?oc=5)
 
 ---
 
