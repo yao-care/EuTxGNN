@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Health plea for children as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
+
+2026-08-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
+
+---
 
 ### [Bluthochdruck-Vorsorge: Neuer Index zeigt 116% höheres Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
 2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
-
----
-
-### [Die Suche nach einer langfristigen Heilung für Hepatitis B](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTdnd3lRSzI4V21Ud3h6T19KWDNFeDR2TWZqdnEyeDBCT3ZCa3VVXzVad1d1YUNJdlVqUFlneFVGUlI5aFZuLVJIU2VkZTNiaUNHLUFKUzZtczUzUmxlZ3d1R2x1X2NrR2lFSVVrTHl4VUlkZ1lrOXdkWE1WVVp5M3VPM0w1akpBR3FNUWlxNE51X050dER0RlF0RQ?oc=5)
-
-2026-08-17 <span class="news-indication-tag">hepatitis</span>
-
-來源：[APA-Science](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTdnd3lRSzI4V21Ud3h6T19KWDNFeDR2TWZqdnEyeDBCT3ZCa3VVXzVad1d1YUNJdlVqUFlneFVGUlI5aFZuLVJIU2VkZTNiaUNHLUFKUzZtczUzUmxlZ3d1R2x1X2NrR2lFSVVrTHl4VUlkZ1lrOXdkWE1WVVp5M3VPM0w1akpBR3FNUWlxNE51X050dER0RlF0RQ?oc=5)
-
----
-
-### [Families urged to vaccinate children against Hepatitis A as it spreads in town](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
-
-2026-08-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
 
 ---
 
@@ -98,7 +90,7 @@ permalink: /news/givosiran/
 
 2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 

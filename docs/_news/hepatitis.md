@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。4 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>4 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Die Suche nach einer langfristigen Heilung für Hepatitis B](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTdnd3lRSzI4V21Ud3h6T19KWDNFeDR2TWZqdnEyeDBCT3ZCa3VVXzVad1d1YUNJdlVqUFlneFVGUlI5aFZuLVJIU2VkZTNiaUNHLUFKUzZtczUzUmxlZ3d1R2x1X2NrR2lFSVVrTHl4VUlkZ1lrOXdkWE1WVVp5M3VPM0w1akpBR3FNUWlxNE51X050dER0RlF0RQ?oc=5)
-
-2026-08-17
-
-來源：[APA-Science](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTdnd3lRSzI4V21Ud3h6T19KWDNFeDR2TWZqdnEyeDBCT3ZCa3VVXzVad1d1YUNJdlVqUFlneFVGUlI5aFZuLVJIU2VkZTNiaUNHLUFKUzZtczUzUmxlZ3d1R2x1X2NrR2lFSVVrTHl4VUlkZ1lrOXdkWE1WVVp5M3VPM0w1akpBR3FNUWlxNE51X050dER0RlF0RQ?oc=5)
-
----
-
-### [Families urged to vaccinate children against Hepatitis A as it spreads in town](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
+### [Health plea for children as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
 
 2026-08-17
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PenFCUS1xZjNMU3Y0b212eGtYYjZpVW9wUDRPY2xKYTk1aF9CUGVidXdjaUdhcjZYOUp6ZnNSYXA0VXNZODlORkZlQVJCLW9yeDFzU2xrdi1FNmg1?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
 
 ---
 

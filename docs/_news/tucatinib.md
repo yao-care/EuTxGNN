@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="Tucatinib 有什麼相關新聞？">
-<strong>Tucatinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tucatinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tucatinib/
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### ["Tu as bu assez d’eau ?" : victime de migraines chroniques depuis toute petite, cette Corrézienne subit l'incompréhension de tous - La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+
+2026-08-18 <span class="news-indication-tag">migraine</span>
+
+來源：[La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+
+---
 
 ### [Bluthochdruck-Vorsorge: Neuer Index zeigt 116% höheres Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
@@ -82,7 +90,7 @@ permalink: /news/tucatinib/
 
 2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 

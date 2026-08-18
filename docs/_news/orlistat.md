@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Eier und Lebergesundheit: Warum es auf Stoffwechsel und Gesamtdiät ankommt - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUW5jSFlIRTNwYW51YmxhRlZBQVlmRkRLVnpLLW1OcXAzOC1mZ29aRDZCeHVPZTRLOTBLU3pJVWdNYndHRGVVczVzSXJEUlpWNEo1Nl9lU1k4MTRkN2w1RE9DQ2FDUVZrWFZpeTBJcmtoUGwxNDBFS2JpQ25hQ2tldEZHV0F2dFh3NGZOSG43aDhNYzVqNUZJTHhzZ1FNUTZKNV9OSktrZEdDQQ?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/orlistat/
 2026-08-17 <span class="news-indication-tag">obésité</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
-
----
-
-### [Obesidad abdominal y vitamina D baja tras los 50: el riesgo de muerte sube un 123%, según un estudio con 5.520 personas - Hoy Aragón](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcmo0VklxSEdGZ3RlcGM1emlCbEs2MVhYdlVxSjJkdlNRUmhlNTVaZ3p2RndaeFhfRzYwRGpVR2NzTTBwSjRnejZSU2ZQbUx3OGprSXNQbFhmSm5fSXJPYS0tQnN5Rkk3Nk9QMHUtbjl4djMxcWtfaDRoNFRWd1pJSzJlNUZETHh4YktfWlFUdWk5Q3RIbjVSeFlIUHJhdGhwSXNWWllXTURCRXJfei1oSERGZXB1RmRienhHSzRQdWI3bjk4MmVYS3JiRGZlY0tZNEV3Yk9DdmJ6c0cxQUpPQzdLdnp2WWsyVFE?oc=5)
-
-2026-08-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Hoy Aragón](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcmo0VklxSEdGZ3RlcGM1emlCbEs2MVhYdlVxSjJkdlNRUmhlNTVaZ3p2RndaeFhfRzYwRGpVR2NzTTBwSjRnejZSU2ZQbUx3OGprSXNQbFhmSm5fSXJPYS0tQnN5Rkk3Nk9QMHUtbjl4djMxcWtfaDRoNFRWd1pJSzJlNUZETHh4YktfWlFUdWk5Q3RIbjVSeFlIUHJhdGhwSXNWWllXTURCRXJfei1oSERGZXB1RmRienhHSzRQdWI3bjk4MmVYS3JiRGZlY0tZNEV3Yk9DdmJ6c0cxQUpPQzdLdnp2WWsyVFE?oc=5)
-
----
-
-### [El zumo que reduce proteínas relacionadas con la inflamación tras tomarlo a diario durante cuatro semanas](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
-
-2026-08-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
 
 ---
 

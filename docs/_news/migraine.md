@@ -3,7 +3,7 @@ layout: default
 title: "Migräne（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "Migräne（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<strong>Migräne（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,7 +77,15 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ["Tu as bu assez d’eau ?" : victime de migraines chroniques depuis toute petite, cette Corrézienne subit l'incompréhension de tous - La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+
+2026-08-18
+
+來源：[La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+
+---
 
 ### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
 

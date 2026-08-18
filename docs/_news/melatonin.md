@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
+
+### ["Tu as bu assez d’eau ?" : victime de migraines chroniques depuis toute petite, cette Corrézienne subit l'incompréhension de tous - La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+
+2026-08-18 <span class="news-indication-tag">migraine</span>
+
+來源：[La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+
+---
 
 ### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
 
@@ -67,30 +75,6 @@ permalink: /news/melatonin/
 2026-08-17 <span class="news-indication-tag">obésité</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
-
----
-
-### [Por qué me despierto a las 3 de la mañana todos los días: causas según la medicina](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTG5iSTV1dF96eWFwbnBYeWJ5ZEhIcTlaUHRuZE9xbF9lM05QS1BvR1hGU3lKVUp3Vnp4dlluTk9pTl85QXo5dVpoVkVTQ3RnZlRraEVYOTY3NS1nTTV3Wnc3LVpXR0ppSzBNNDBValU1RWRmMUtNVkpPeXJ6WDdGM0UyRG5WVmxILTNmUkMzQ0JELUNkTy1wTXpOQ21SeFpaNnQyR3QxUmJLSW52dTlWZ211OThzUjJud0VjenphcGxUd9IB3AFBVV95cUxOUlB6YXkwQklZYk9fLTJ5VnlYQTBLbG91V3o5bjExa1hRUGVhcDZnTGFYbUd6YzFGcWRGM3hqS2czbzlnUWpXTFc1LUNEam1UU2RSSjhPWWE5amExcWJURFNiUktHOEc5NXNDWXNSRkZ3Zkh2X1JOUnlfNjJuX0xhNmVENmR1YUx5ZXUtNjc3Q21kY1E0NTE4d1hqdm0xUEFnRTVIMVBQZHRRY0RQRFJyNU13UExsMXlvcGszVlBhVGVvb2NWRXhkaHhLTlNHQl8wY2NsdlZoUjNDOWdM?oc=5)
-
-2026-08-17 <span class="news-drug-tag">Melatonin</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTG5iSTV1dF96eWFwbnBYeWJ5ZEhIcTlaUHRuZE9xbF9lM05QS1BvR1hGU3lKVUp3Vnp4dlluTk9pTl85QXo5dVpoVkVTQ3RnZlRraEVYOTY3NS1nTTV3Wnc3LVpXR0ppSzBNNDBValU1RWRmMUtNVkpPeXJ6WDdGM0UyRG5WVmxILTNmUkMzQ0JELUNkTy1wTXpOQ21SeFpaNnQyR3QxUmJLSW52dTlWZ211OThzUjJud0VjenphcGxUd9IB3AFBVV95cUxOUlB6YXkwQklZYk9fLTJ5VnlYQTBLbG91V3o5bjExa1hRUGVhcDZnTGFYbUd6YzFGcWRGM3hqS2czbzlnUWpXTFc1LUNEam1UU2RSSjhPWWE5amExcWJURFNiUktHOEc5NXNDWXNSRkZ3Zkh2X1JOUnlfNjJuX0xhNmVENmR1YUx5ZXUtNjc3Q21kY1E0NTE4d1hqdm0xUEFnRTVIMVBQZHRRY0RQRFJyNU13UExsMXlvcGszVlBhVGVvb2NWRXhkaHhLTlNHQl8wY2NsdlZoUjNDOWdM?oc=5)
-
----
-
-### [Obesidad abdominal y vitamina D baja tras los 50: el riesgo de muerte sube un 123%, según un estudio con 5.520 personas - Hoy Aragón](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcmo0VklxSEdGZ3RlcGM1emlCbEs2MVhYdlVxSjJkdlNRUmhlNTVaZ3p2RndaeFhfRzYwRGpVR2NzTTBwSjRnejZSU2ZQbUx3OGprSXNQbFhmSm5fSXJPYS0tQnN5Rkk3Nk9QMHUtbjl4djMxcWtfaDRoNFRWd1pJSzJlNUZETHh4YktfWlFUdWk5Q3RIbjVSeFlIUHJhdGhwSXNWWllXTURCRXJfei1oSERGZXB1RmRienhHSzRQdWI3bjk4MmVYS3JiRGZlY0tZNEV3Yk9DdmJ6c0cxQUpPQzdLdnp2WWsyVFE?oc=5)
-
-2026-08-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Hoy Aragón](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcmo0VklxSEdGZ3RlcGM1emlCbEs2MVhYdlVxSjJkdlNRUmhlNTVaZ3p2RndaeFhfRzYwRGpVR2NzTTBwSjRnejZSU2ZQbUx3OGprSXNQbFhmSm5fSXJPYS0tQnN5Rkk3Nk9QMHUtbjl4djMxcWtfaDRoNFRWd1pJSzJlNUZETHh4YktfWlFUdWk5Q3RIbjVSeFlIUHJhdGhwSXNWWllXTURCRXJfei1oSERGZXB1RmRienhHSzRQdWI3bjk4MmVYS3JiRGZlY0tZNEV3Yk9DdmJ6c0cxQUpPQzdLdnp2WWsyVFE?oc=5)
-
----
-
-### [El zumo que reduce proteínas relacionadas con la inflamación tras tomarlo a diario durante cuatro semanas](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
-
-2026-08-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Los análisis para predecir el Alzheimer provocan confusión](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUVhR2d3b3ZoM2FjSVdvdEVqZkg2b3dkeF9XNUl0XzJseDdhRFNaLWw5b09Cb2hFUk9Cc0p1dGk5UjhicWpIZFVDMEhLTzFpdGR0TW9DWnEwQmstZE91YmlWWHFIUzdEdzQ5QnJEdFU5bkM4UVF4YkJDVkRYb0RWS0t6RENfVTIxTVZnVGRPbTVLSFdQdWEyM0pZTEc2eWfSAZ8BQVVfeXFMT2M1dldtTWt4Rk9MTy0tYjY3NUYzMFBVX0Z5WUdkMWE3dDd5S3lVNlhkZ2dUbXFwUzU5WnRrSTJvNEI0cmVwdHREcTdjSENrME9FVlhXZ2s2dWxwRDFyZDctZTNqakpmX29FbHo5cHp5NFBTZGV2SE1XTFVVQ2JSWmZ6emhOYl90dlUxWW1aTUJYOXRzczJNX05veVNlUlRj?oc=5)
+
+2026-08-18 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[MILENIO](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUVhR2d3b3ZoM2FjSVdvdEVqZkg2b3dkeF9XNUl0XzJseDdhRFNaLWw5b09Cb2hFUk9Cc0p1dGk5UjhicWpIZFVDMEhLTzFpdGR0TW9DWnEwQmstZE91YmlWWHFIUzdEdzQ5QnJEdFU5bkM4UVF4YkJDVkRYb0RWS0t6RENfVTIxTVZnVGRPbTVLSFdQdWEyM0pZTEc2eWfSAZ8BQVVfeXFMT2M1dldtTWt4Rk9MTy0tYjY3NUYzMFBVX0Z5WUdkMWE3dDd5S3lVNlhkZ2dUbXFwUzU5WnRrSTJvNEI0cmVwdHREcTdjSENrME9FVlhXZ2s2dWxwRDFyZDctZTNqakpmX29FbHo5cHp5NFBTZGV2SE1XTFVVQ2JSWmZ6emhOYl90dlUxWW1aTUJYOXRzczJNX05veVNlUlRj?oc=5)
+
+---
+
+### [Will HRT help me avoid my mother’s long dementia? - The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
+
+2026-08-17 <span class="news-indication-tag">dementia</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
+
+---
 
 ### [Brain Age Tied to Dementia Risk in Those With Memory Issues](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEFxWkd4UEh4aVd6S095NzVMYVBwbHhfd0I1aU9qeUZjZ3NOVFVRbl81eV80NWFldzlocFNYSFdEYks0YmJuT01VVUNnV3dPNlVZand1eUl3OUdkWUtad0FncGZlZUdkNmVnQUVUc1hXcTV2SU4wcmlOQm1CVXVwQTBPMDM1N2U3R25xWHRLZjZnalBjSXJVUGpMUkVrc0d3UDJmbzlUMTRpSWJX?oc=5)
 
@@ -70,19 +86,11 @@ permalink: /news/tolcapone/
 
 ---
 
-### [Two Hours of Sleep Restored in Alzheimer’s Brains in Research Breakthrough - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
+### [Two Hours of Sleep Restored in Alzheimer’s Brains in Research Breakthrough](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
 
 2026-08-16 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
-
----
-
-### ['I'm a neurologist - these symptoms can appear years before a Parkinson's diagnosis' - GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
-
-2026-08-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMU5KVzc1ZjNyMmd0UGwxQWRHVTNHbkJzbjZlcHZzX3dmZHRZV1RyeDdqWU5GOV9IbXBZQ2I3Q3F3NXZjdnhUTVJxbktpY0dDYkZsOTUwOHJuZFBpMXNZLU1EVUo3LThNbnJTR1FvY1RFX2t6dnQ4SHpEZVZWMkZpNDMxZmloZXlORlBIcFJUeEo4OUw4VldB?oc=5)
+來源：[goodnewsnetwork.org](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRpM1pyOWt1Vng1RTU1dlpiYmlCcUk5U3BhVGRNUTNWZ0trS2tBVVIyaXJkeGEwNElfQTVoWTZNcmZtZVlCeGlwZ1ljajBtczNhV2VjeFJwaDkzUnBjWjZXZWhpUHBHUkt1eFp1aVd2ekdYNDB0cXRMQjU0ZmdGRnY3QlJhZ2VJYXBycXlLaFNlbU1OT2FOekk2cmlKcFNKRUF3c2ZTS3I1Zw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [„Gewitter-Asthma”: Deshalb können Donner und Blitz bei Heuschnupfen gefährlicher sein als gedacht](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQXh3N3RrcTMwVndWclJMWUIwbGNRQWp2MFdBRW9KTVVWV2dtS0RzbEI1Z2NLMFBlX1R6WHZlQVZoTUl0cmtkOUpmcEx5UHV3T0RmZWdzNjBYNU4yakM5VEtxLVIxWW1SdGI2OThJTlhtNU9EZnVvSnk2NmtGSXprN0JRX0o2Y3N4dU1QWjhZWExhVE1FMk0xeUJXR3diZm5qYmxQVXpILWpkNW1GSVVPNFhXd05NZzNLYWFPMFEtY0ZtWDRKYTBMZTRSVFpULXdHVllNdC1XSjBIUU1ncFJoc1N1OVl0S3E0VzZYNExkR1NJMnAyVkJJUnViQUN5TUVlM2JFZmZTMEFkUGV0Wjg4?oc=5)
+### [Vitamine bei Asthma: Wie Dosierung zwischen Nutzen und Risiko entscheidet - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
 
-2026-08-17 <span class="news-indication-tag">asthma</span>
+2026-08-18 <span class="news-indication-tag">asthma</span>
 
-來源：[CHIP](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQXh3N3RrcTMwVndWclJMWUIwbGNRQWp2MFdBRW9KTVVWV2dtS0RzbEI1Z2NLMFBlX1R6WHZlQVZoTUl0cmtkOUpmcEx5UHV3T0RmZWdzNjBYNU4yakM5VEtxLVIxWW1SdGI2OThJTlhtNU9EZnVvSnk2NmtGSXprN0JRX0o2Y3N4dU1QWjhZWExhVE1FMk0xeUJXR3diZm5qYmxQVXpILWpkNW1GSVVPNFhXd05NZzNLYWFPMFEtY0ZtWDRKYTBMZTRSVFpULXdHVllNdC1XSjBIUU1ncFJoc1N1OVl0S3E0VzZYNExkR1NJMnAyVkJJUnViQUN5TUVlM2JFZmZTMEFkUGV0Wjg4?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
+
+---
+
+### ["Tu as bu assez d’eau ?" : victime de migraines chroniques depuis toute petite, cette Corrézienne subit l'incompréhension de tous - La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+
+2026-08-18 <span class="news-indication-tag">migraine</span>
+
+來源：[La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
 
 ---
 

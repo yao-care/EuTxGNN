@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Un adulte sur deux obèse : la Polynésie française tente d'enrayer le phénomène - Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
 
 2026-08-17 <span class="news-indication-tag">obésité</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
-
----
-
-### [Obesidad abdominal y vitamina D baja tras los 50: el riesgo de muerte sube un 123%, según un estudio con 5.520 personas - Hoy Aragón](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcmo0VklxSEdGZ3RlcGM1emlCbEs2MVhYdlVxSjJkdlNRUmhlNTVaZ3p2RndaeFhfRzYwRGpVR2NzTTBwSjRnejZSU2ZQbUx3OGprSXNQbFhmSm5fSXJPYS0tQnN5Rkk3Nk9QMHUtbjl4djMxcWtfaDRoNFRWd1pJSzJlNUZETHh4YktfWlFUdWk5Q3RIbjVSeFlIUHJhdGhwSXNWWllXTURCRXJfei1oSERGZXB1RmRienhHSzRQdWI3bjk4MmVYS3JiRGZlY0tZNEV3Yk9DdmJ6c0cxQUpPQzdLdnp2WWsyVFE?oc=5)
-
-2026-08-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Hoy Aragón](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcmo0VklxSEdGZ3RlcGM1emlCbEs2MVhYdlVxSjJkdlNRUmhlNTVaZ3p2RndaeFhfRzYwRGpVR2NzTTBwSjRnejZSU2ZQbUx3OGprSXNQbFhmSm5fSXJPYS0tQnN5Rkk3Nk9QMHUtbjl4djMxcWtfaDRoNFRWd1pJSzJlNUZETHh4YktfWlFUdWk5Q3RIbjVSeFlIUHJhdGhwSXNWWllXTURCRXJfei1oSERGZXB1RmRienhHSzRQdWI3bjk4MmVYS3JiRGZlY0tZNEV3Yk9DdmJ6c0cxQUpPQzdLdnp2WWsyVFE?oc=5)
-
----
-
-### [El zumo que reduce proteínas relacionadas con la inflamación tras tomarlo a diario durante cuatro semanas](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
-
-2026-08-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckxjRTgxajVYSXFHY3ktam9iMUlsZlk1YVBjRmNLZ1RKMVlDbk0yUlVMVW5hT29DZ1RqbGlxVlhkNW5PUkxKTHFwTVpSOHBBdy11dWN0YnFIX2I0eFBNV0hGc01WbURVa3Q1NDR0SlNmTWMzekhTdi1FWVFZY1d6SzZRNThfaXJnaW1UWGtDNlVickNoNFoyLWxuSThaalJOS2NGdnFOWnhLZ1B2QzdxSktEa1lZNkhzc3NHY1pqcEJwdGhscW9kSDhBbUhGS3BYTk9uUnBLbw?oc=5)
 
 ---
 

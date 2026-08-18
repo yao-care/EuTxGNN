@@ -54,11 +54,11 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（2 則）
 
-### [Taltz (Ixekizumab) und Mounjaro (Tirzepatid)](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTlFVE14WGxuU2puemJ5QjRqYkg2NW1WUXNMZ1hPa0NycmhtNDlIQk9iQmx5WDJjTnV2eGY2M3RjLXRkMDVsQk5JWXJhRU1aQmFYTmNSaktmOHc2cWYwZGN3ZE1xR3VtQTFfY2xlMFUzNXZzNS1HbjI0c2R0OTh6ZFNUbUo3SkZlbnVHNU52bU5ZQVRJ?oc=5)
+### [« La plupart des effets inattendus se sont révélés positifs » : les surprises d’Ozempic, Wegovy et Mounjaro… au-delà du poids - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
 
-2026-08-17 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">psoriasis</span>
+2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTlFVE14WGxuU2puemJ5QjRqYkg2NW1WUXNMZ1hPa0NycmhtNDlIQk9iQmx5WDJjTnV2eGY2M3RjLXRkMDVsQk5JWXJhRU1aQmFYTmNSaktmOHc2cWYwZGN3ZE1xR3VtQTFfY2xlMFUzNXZzNS1HbjI0c2R0OTh6ZFNUbUo3SkZlbnVHNU52bU5ZQVRJ?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
 
 ---
 
