@@ -14,7 +14,7 @@ permalink: /news/cerliponase-alfa/
 ---
 
 <p class="key-answer" data-question="Cerliponase Alfa 有什麼相關新聞？">
-<strong>Cerliponase Alfa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cerliponase Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cerliponase-alfa/
 <p><a href="{{ '/drugs/cerliponase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Tendencia clínica: Avances en el tratamiento de la epilepsia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHBVZUphY0YzUnpZUzc3bGRxZnNYaHVxWFZtTzVjTG5rc1paMGVEUjFMZ3dRaUs3d0t3S2FrbE5OdV9fcHJqSjJ1eUdxRWd0NFY1QmNGUTE2Unc1V3JmdVdOQXVTT29JdnBUTlBLSklzTlh2b0NKREJmX2pzZ3hkUGtITm94bUFVbndHOHlMVk1xSHNzaHpzVHM1aUxqQl9DMWgzQnVGVGdVZw?oc=5)
+
+2026-08-17 <span class="news-indication-tag">epilepsia</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHBVZUphY0YzUnpZUzc3bGRxZnNYaHVxWFZtTzVjTG5rc1paMGVEUjFMZ3dRaUs3d0t3S2FrbE5OdV9fcHJqSjJ1eUdxRWd0NFY1QmNGUTE2Unc1V3JmdVdOQXVTT29JdnBUTlBLSklzTlh2b0NKREJmX2pzZ3hkUGtITm94bUFVbndHOHlMVk1xSHNzaHpzVHM1aUxqQl9DMWgzQnVGVGdVZw?oc=5)
+
+---
 
 ### [Grave épilepsie réfractaire chez un enfant : des années d’errance diagnostique après une simple griffure de chat - Le Monde.fr](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTVA1cWV3YTR3REdkckJoMGNqbncxYWFsajJWQjJUSmZIM2M3S1hVTENBNVQxcEtJblN3ZmtvSTJ6TkN1ZVlUVEF5dHp3OHNFNmRzVHNua0lwU095RF9qUjNIbldlcVFCd1VFODM0Y1Z2SzVHSzUzUkl5cmcwX1B2bWxHenhUcGp3R19vSVBLaDl0X0JvTDFwdlpUcTF2eWxBaWdQRjdodUlraGxyc2NIZ1ZxeWt1cVhzQk5nV2xZdlBIUG9xdlNTbF9sZGNSWE1BTkNjbXdSb1YtbFhDelAxSTd0RnM2MFZOVG9iUEM1eHFNcVBnSEVDaUlSUl9fVWhmTzVGY0E4bjB4OXdMLVpNblpvR0hBTDZ1cl9uQWlrY3o?oc=5)
 

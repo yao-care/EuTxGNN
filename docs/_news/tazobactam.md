@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [„Gewitter-Asthma”: Deshalb können Donner und Blitz bei Heuschnupfen gefährlicher sein als gedacht](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQXh3N3RrcTMwVndWclJMWUIwbGNRQWp2MFdBRW9KTVVWV2dtS0RzbEI1Z2NLMFBlX1R6WHZlQVZoTUl0cmtkOUpmcEx5UHV3T0RmZWdzNjBYNU4yakM5VEtxLVIxWW1SdGI2OThJTlhtNU9EZnVvSnk2NmtGSXprN0JRX0o2Y3N4dU1QWjhZWExhVE1FMk0xeUJXR3diZm5qYmxQVXpILWpkNW1GSVVPNFhXd05NZzNLYWFPMFEtY0ZtWDRKYTBMZTRSVFpULXdHVllNdC1XSjBIUU1ncFJoc1N1OVl0S3E0VzZYNExkR1NJMnAyVkJJUnViQUN5TUVlM2JFZmZTMEFkUGV0Wjg4?oc=5)
 
 2026-08-17 <span class="news-indication-tag">asthma</span>
 
 來源：[CHIP](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQXh3N3RrcTMwVndWclJMWUIwbGNRQWp2MFdBRW9KTVVWV2dtS0RzbEI1Z2NLMFBlX1R6WHZlQVZoTUl0cmtkOUpmcEx5UHV3T0RmZWdzNjBYNU4yakM5VEtxLVIxWW1SdGI2OThJTlhtNU9EZnVvSnk2NmtGSXprN0JRX0o2Y3N4dU1QWjhZWExhVE1FMk0xeUJXR3diZm5qYmxQVXpILWpkNW1GSVVPNFhXd05NZzNLYWFPMFEtY0ZtWDRKYTBMZTRSVFpULXdHVllNdC1XSjBIUU1ncFJoc1N1OVl0S3E0VzZYNExkR1NJMnAyVkJJUnViQUN5TUVlM2JFZmZTMEFkUGV0Wjg4?oc=5)
+
+---
+
+### [Chester woman, 29, facing prospect of double leg amputation due to severe arthritis - Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
+
+2026-08-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
 
 ---
 

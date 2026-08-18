@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Chester woman, 29, facing prospect of double leg amputation due to severe arthritis - Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
+
+2026-08-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
+
+---
 
 ### [Mar Faraco, experta en sanidad exterior: «Si se sufre fiebre en un país tropical no se deben ingerir antiinflamatorios como el ibuprofeno» - La Voz de Galicia](https://news.google.com/rss/articles/CBMitAJBVV95cUxOdXM5QUJBWDRCLXlQcjNsVGI0ZHZ2Qk1ETG93TnRVTzRZbnhLVTRzVTV1ZzZpVmF4eFJrQ0RGTlA5NFpaRE9UczBERHlqay13SV9iZWN0WTd5LUtYcFZpY2hsVWllTFF6UWZwMDNFcmZYRm1Zb0tsd284bHdEUnk5anpyUVd3NzFiM0lfeGFvZlV2SjhtZGJCR1FBRWVYNm1kSXZ3UUR3XzJ1RldpN1BmbEhYOU8zVWx4dGdsUzN4UFFycTlVMXlJT19SUThTYnpHM0lIalREcDY4RjRXYk1oN1RSLU1IbXE5NmdzNEhVQjdudURqWFZmWi15MFkxcHFRbFlpVzZNWjZqdll0VHJjbFNFZE9aRzVMYlV5QW5JZGwtc2FYMnQwWXI1TlZVU2x1R194OA?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/imipenem/
 ---
 
 <p class="key-answer" data-question="Imipenem 有什麼相關新聞？">
-<strong>Imipenem</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Imipenem</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/imipenem/
 <p><a href="{{ '/drugs/imipenem/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（25 則）
 
 ### [Tumore, allenarsi durante le cure: cosa è successo a 2.570 pazienti](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1JLMjRuSnlSaGJtZDFKVGt2dWhhS1hmY2VKbzFXdzFPemU0OGdnMW1DS29uZmZnd3FIVUg0Ujk5aWNuSUVRRDRFd0dwbmxfRmxhTnB1VFd3UkxvUXhocHd3T1MyOEtHTTk2WFVwODI2bzVkeXlOQkVCQzA0dTFWT2hZYmh5bW1wRVBidHZjTnQ0dUFuTDc0UTBaWk9zR0xRRzZ4c0FrRm43XzVQd1NZUlp5THJIZlVwdVNmaGF2WXU2eTA?oc=5)
 
@@ -62,11 +62,51 @@ permalink: /news/imipenem/
 
 ---
 
-### [Scrapping men’s right to prostate cancer tests ‘will cost lives’ - The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
+### [Tumore della prostata, il “cuscinetto” che protegge il retto durante la radioterapia: un centimetro può fare la differenza](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOWt0ajNDUTE0VW1kLWNEYlI1ZWVEVFcyNm41NkxWck9kMG1seWhwam8zU2dSckstZW1FcERLVVhXOXpzVW11TWFTd0JUV0sta2MtWVoxZW91STR5aWRvZkR0OVRleGsxeEJETFloaUZOcVVFMGVvWXVjcnY4T0FmQThGQ2JoTUtGbWI5Uk43RS1vTjI4RlowWXBzOHpxTFlwcFdiemthdElkTkdXOHItaHRiX1lNLXB6a085dkwyVnV5UUxSUzJLOFhFLUdYZmdRTzc1NnNScGRHcFViMkdiVnY5Wlp0Z3VXUVpLMjdLNC1xYmttTE5KeQ?oc=5)
+
+2026-08-17 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOWt0ajNDUTE0VW1kLWNEYlI1ZWVEVFcyNm41NkxWck9kMG1seWhwam8zU2dSckstZW1FcERLVVhXOXpzVW11TWFTd0JUV0sta2MtWVoxZW91STR5aWRvZkR0OVRleGsxeEJETFloaUZOcVVFMGVvWXVjcnY4T0FmQThGQ2JoTUtGbWI5Uk43RS1vTjI4RlowWXBzOHpxTFlwcFdiemthdElkTkdXOHItaHRiX1lNLXB6a085dkwyVnV5UUxSUzJLOFhFLUdYZmdRTzc1NnNScGRHcFViMkdiVnY5Wlp0Z3VXUVpLMjdLNC1xYmttTE5KeQ?oc=5)
+
+---
+
+### [Vaccino antitumorale personalizzato, nessuna recidiva nel gruppo trattato: il trial di fase 1](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZmluTnpTOFp5NVpaX1hwLW8walM1bWtzSzdkTlVHWW5IX1I0UUNhQnVZMllNZkdGQkxGd0tYTXNiTXhoU2lVaXd1MXQwR203VWlOLXNBdVBBRk1QakZpbkdJeDNZYnUtOVhzYVFEWVFhc1ZyZ0hnaWktdUUtNGF1MDZQRS1Pd3JFdm93WUwzNkJRUGpXSEFzM3ZrMDZwSXFLTnZJX3BxRkR2UnhJU0diaTJVUXZLS2kzVjR6bVlzVVVBRm1sODRrT3JfMHVKdXUzaEQtU1FtdjB3dVBOOThzaG1SSXVtQQ?oc=5)
+
+2026-08-17 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZmluTnpTOFp5NVpaX1hwLW8walM1bWtzSzdkTlVHWW5IX1I0UUNhQnVZMllNZkdGQkxGd0tYTXNiTXhoU2lVaXd1MXQwR203VWlOLXNBdVBBRk1QakZpbkdJeDNZYnUtOVhzYVFEWVFhc1ZyZ0hnaWktdUUtNGF1MDZQRS1Pd3JFdm93WUwzNkJRUGpXSEFzM3ZrMDZwSXFLTnZJX3BxRkR2UnhJU0diaTJVUXZLS2kzVjR6bVlzVVVBRm1sODRrT3JfMHVKdXUzaEQtU1FtdjB3dVBOOThzaG1SSXVtQQ?oc=5)
+
+---
+
+### [Cancer du pancréas : une coopération franco-israélienne ouvre une nouvelle voie thérapeutique](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQzBCTWV1NDlXNmJVaXBVcWxsNHIyZWZLU1NMX2xSYVBpUllJc1dOUkNLZkVxSXp4Nm0yZzFBdU1scnZiSG1oYmVsNGJhSG0wTXhscndIVlVwMGJFNUpYWW13NzdhdllIWklKcHVxSTlTTGcyZl9HQWFLQzF4dnVXeGlCVmNBVGd1aWxOdGl0MWhPOEpaWHdxNDRTRlhmdjk4bmZKYWNTaVNTb3FzcHhvaDZSWWx0U3d0dTZHd1lENFRfeG8zSzJBWXVibU1ERzdN?oc=5)
 
 2026-08-17 <span class="news-indication-tag">cancer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
+來源：[i24news.tv](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQzBCTWV1NDlXNmJVaXBVcWxsNHIyZWZLU1NMX2xSYVBpUllJc1dOUkNLZkVxSXp4Nm0yZzFBdU1scnZiSG1oYmVsNGJhSG0wTXhscndIVlVwMGJFNUpYWW13NzdhdllIWklKcHVxSTlTTGcyZl9HQWFLQzF4dnVXeGlCVmNBVGd1aWxOdGl0MWhPOEpaWHdxNDRTRlhmdjk4bmZKYWNTaVNTb3FzcHhvaDZSWWx0U3d0dTZHd1lENFRfeG8zSzJBWXVibU1ERzdN?oc=5)
+
+---
+
+### [Daily soda drinkers face 2.5 times higher stomach cancer risk, scientists warn - GB News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1RT0hNU0s1NV9adnA0UFZIeUwyVnZGTDZGZVhrMHZsMG5NWHpUb0FxQjJOb0hlbnZ3cVY2NW1tRFhuUWZsdWoxbkp1VGJlM2RJT0c5SVNlUW03TDdUdnJ5eGVxb3BhQkJ6RzNnOWpKN2FQSEdiN0E?oc=5)
+
+2026-08-17 <span class="news-indication-tag">cancer</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1RT0hNU0s1NV9adnA0UFZIeUwyVnZGTDZGZVhrMHZsMG5NWHpUb0FxQjJOb0hlbnZ3cVY2NW1tRFhuUWZsdWoxbkp1VGJlM2RJT0c5SVNlUW03TDdUdnJ5eGVxb3BhQkJ6RzNnOWpKN2FQSEdiN0E?oc=5)
+
+---
+
+### [Scrapping men’s right to prostate cancer tests ‘will cost lives’](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
+
+2026-08-17 <span class="news-indication-tag">cancer</span>
+
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
+
+---
+
+### [Job With Highest Risk of Radiation Cancer Revealed Out of Over 500 Occupations](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RyWk05R0w2MVUtZjVKX0duMDhlNXZFM0RxZXJaRjhOLUFrZUZzZVd4a0Y1YmpmU1NsTXVncjNMdTRIcVN1YV9BcHctWUdETjRDUXR4YmhOTXdFMDNNNjJJSTd5bDZ1aWEzSUc3Q2tNaTNvVzZkTmVnYmNUUW5tMFZJOHRnN3hjekR2ODJSYlZFMHlKTTRNd09LckhOc0I1cjlxNVBtdG14bjQ?oc=5)
+
+2026-08-17 <span class="news-indication-tag">cancer</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RyWk05R0w2MVUtZjVKX0duMDhlNXZFM0RxZXJaRjhOLUFrZUZzZVd4a0Y1YmpmU1NsTXVncjNMdTRIcVN1YV9BcHctWUdETjRDUXR4YmhOTXdFMDNNNjJJSTd5bDZ1aWEzSUc3Q2tNaTNvVzZkTmVnYmNUUW5tMFZJOHRnN3hjekR2ODJSYlZFMHlKTTRNd09LckhOc0I1cjlxNVBtdG14bjQ?oc=5)
 
 ---
 
@@ -74,7 +114,7 @@ permalink: /news/imipenem/
 
 2026-08-17 <span class="news-indication-tag">Krebs</span>
 
-來源：[pressetext](https://news.google.com/rss/articles/CBMif0FVX3lxTE5lV29yclFNOUxaXzU2OUFsRzA2UVRXN1V4OVNNT09JdDR0dnF5eDJacHFiMGZpV3BoVkVwR0hlREprZUYyS3RnZ2lCWjYtOWJ5RmhMcUVuV1hMLVZZcmw3UjBXVmlQTVA1al9SYmk0OFRkS2M0QmM4Mk96dDFsM2s?oc=5)
+來源：[pressetext.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5lV29yclFNOUxaXzU2OUFsRzA2UVRXN1V4OVNNT09JdDR0dnF5eDJacHFiMGZpV3BoVkVwR0hlREprZUYyS3RnZ2lCWjYtOWJ5RmhMcUVuV1hMLVZZcmw3UjBXVmlQTVA1al9SYmk0OFRkS2M0QmM4Mk96dDFsM2s?oc=5)
 
 ---
 
@@ -118,19 +158,19 @@ permalink: /news/imipenem/
 
 ---
 
-### [Geordie Shore star's dad 'sent home with laxatives for constipation' had terminal bowel cancer](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
+### [Geordie Shore star's dad 'sent home with laxatives for constipation' had terminal bowel cancer - Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
 
 2026-08-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[chroniclelive.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
 
 ---
 
-### [Hospitals block one in four referrals to cut waiting lists - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3JVYWgxOXNVVFN2aWdXZ0RHUHhHdXJuQ3FWbHJMVTlLaWFxY0Z4UEpxai0yMHVWbWZ5V3R6RDNYSHBVYWdQMnBNVk8xY3ZVaTV4M3plWFltZVBubGR4V0hqb1VIbVBqbnoyUlVzbzVPaU9QWkxfaVZHMVQtQ1BRVHVUX0h4RU9pTzNpeU04bzg1dlExXzlwY2c0SlNlVjFB?oc=5)
+### [Chester woman, 29, facing prospect of double leg amputation due to severe arthritis - Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
 
-2026-08-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-08-17 <span class="news-indication-tag">arthritis</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3JVYWgxOXNVVFN2aWdXZ0RHUHhHdXJuQ3FWbHJMVTlLaWFxY0Z4UEpxai0yMHVWbWZ5V3R6RDNYSHBVYWdQMnBNVk8xY3ZVaTV4M3plWFltZVBubGR4V0hqb1VIbVBqbnoyUlVzbzVPaU9QWkxfaVZHMVQtQ1BRVHVUX0h4RU9pTzNpeU04bzg1dlExXzlwY2c0SlNlVjFB?oc=5)
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
 
 ---
 
@@ -150,19 +190,19 @@ permalink: /news/imipenem/
 
 ---
 
+### [Fears of cancer care delays as ‘quarter of GP referrals rejected’ - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
+
+2026-08-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
+
+---
+
 ### [Vitamina B12 bassa, il problema può nascere nello stomaco: il filo che porta dall’omocisteina al cuore e ai tumori](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbHhMZXVQWnBzNEg1aHcyb240S2EwNUFrU2dGRXEtTU5mR1Q1QmNZT0tyQ1gzT1pWQklFdEQ3dUw1T3JKYTlDUVpyUkdmUXM4TlZKQUdtM0FsVlZtZ2U4cEVrM3ZIcTNLaV94VEFjY25OcGxFVzRZVWVLZndTOWw3NkxQUktubFFCNHdUOVNDOGtvNC16MGlmeFo1d05vcUQ5SVlZTXVtb2Fra0hMMkpHVWQ4VlFEeUNqdUxOUHc4MFd4a3daTFFFTkFvT1dhcEU0TG5TV1B1ZWh4SWR6a1p5S1ZRM3hvRDFTeFVEZS16OTJEMWtZ?oc=5)
 
 2026-08-16 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbHhMZXVQWnBzNEg1aHcyb240S2EwNUFrU2dGRXEtTU5mR1Q1QmNZT0tyQ1gzT1pWQklFdEQ3dUw1T3JKYTlDUVpyUkdmUXM4TlZKQUdtM0FsVlZtZ2U4cEVrM3ZIcTNLaV94VEFjY25OcGxFVzRZVWVLZndTOWw3NkxQUktubFFCNHdUOVNDOGtvNC16MGlmeFo1d05vcUQ5SVlZTXVtb2Fra0hMMkpHVWQ4VlFEeUNqdUxOUHc4MFd4a3daTFFFTkFvT1dhcEU0TG5TV1B1ZWh4SWR6a1p5S1ZRM3hvRDFTeFVEZS16OTJEMWtZ?oc=5)
-
----
-
-### [Tumore della prostata, il “cuscinetto” che protegge il retto durante la radioterapia: un centimetro può fare la differenza](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOWt0ajNDUTE0VW1kLWNEYlI1ZWVEVFcyNm41NkxWck9kMG1seWhwam8zU2dSckstZW1FcERLVVhXOXpzVW11TWFTd0JUV0sta2MtWVoxZW91STR5aWRvZkR0OVRleGsxeEJETFloaUZOcVVFMGVvWXVjcnY4T0FmQThGQ2JoTUtGbWI5Uk43RS1vTjI4RlowWXBzOHpxTFlwcFdiemthdElkTkdXOHItaHRiX1lNLXB6a085dkwyVnV5UUxSUzJLOFhFLUdYZmdRTzc1NnNScGRHcFViMkdiVnY5Wlp0Z3VXUVpLMjdLNC1xYmttTE5KeQ?oc=5)
-
-2026-08-16 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOWt0ajNDUTE0VW1kLWNEYlI1ZWVEVFcyNm41NkxWck9kMG1seWhwam8zU2dSckstZW1FcERLVVhXOXpzVW11TWFTd0JUV0sta2MtWVoxZW91STR5aWRvZkR0OVRleGsxeEJETFloaUZOcVVFMGVvWXVjcnY4T0FmQThGQ2JoTUtGbWI5Uk43RS1vTjI4RlowWXBzOHpxTFlwcFdiemthdElkTkdXOHItaHRiX1lNLXB6a085dkwyVnV5UUxSUzJLOFhFLUdYZmdRTzc1NnNScGRHcFViMkdiVnY5Wlp0Z3VXUVpLMjdLNC1xYmttTE5KeQ?oc=5)
 
 ---
 
@@ -206,19 +246,11 @@ permalink: /news/imipenem/
 
 ---
 
-### [Curcumin plus Berberin: Welche Mechanismen hinter der KI-Kombination bei Alzheimer und Krebs stehen - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzRkSkpEc1pCVi1WNjN5bS15bGRhaDlOM1lXSVZtS0UxdGU0LUNyeGhfMUxDMEcybkZvM1pSak1aTXUwckI2ZE9IRFRDWjlhdEJYNzNqU09rT09rTlBiN28xbkRzV0RwQmcxMXNwS3lPRkl5TDdUc05LYVRmNkJCeUNFUkp0dXZGcU5ZaV84OVhJNUtoTXV6eHhuc3NOZXN4MDgwcDNjVkFNREV4UERGWTFwa0syNFl0anY0UXQ4NTBqQTJ2VmlBZUFn?oc=5)
+### [Alzheimer-Prävention: Curcumin und Berberin zeigen synergistische Effekte - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDBxMWE5cFdiN2pyRVdJbHJuMGNuRXR4VFA0a3pxZ1NseTh3YjJlUGFmLTNHVEppRXhiZlh5NWEtWE1ROXRuNmdvQ0NCcktqWmtOeXZuMENvSHJ6dEI1X2EwRUFPVXdtZF92Tm1MUC1uWklfRVZldVg0Mnh1b0tTQ2xpMmN4S2lxeG5ia3drcXZiYjUyZGxuWEU3U284LVFvdUIwZEp4VFhuSWlSR0VOS1JpaVRfeDhZLW5rUmo3SQ?oc=5)
 
 2026-08-16 <span class="news-indication-tag">Krebs</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzRkSkpEc1pCVi1WNjN5bS15bGRhaDlOM1lXSVZtS0UxdGU0LUNyeGhfMUxDMEcybkZvM1pSak1aTXUwckI2ZE9IRFRDWjlhdEJYNzNqU09rT09rTlBiN28xbkRzV0RwQmcxMXNwS3lPRkl5TDdUc05LYVRmNkJCeUNFUkp0dXZGcU5ZaV84OVhJNUtoTXV6eHhuc3NOZXN4MDgwcDNjVkFNREV4UERGWTFwa0syNFl0anY0UXQ4NTBqQTJ2VmlBZUFn?oc=5)
-
----
-
-### [Forschung zeigt: Vitamin D kann Krebssterblichkeit senken](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjk5MlY2bVo4SGdEZEppQkNFd2RtNURtXzRLM0QtWG43amtkNHN1Nzc1anN3bFhYRU9vaFJvdS1PSUlCa2FOeHltelViWkYzZWt5NFlIOGthNC15MmxxczB6cVFDZ0FGWEI1YlA0RVRSUHozQm1rLVBTYWxDaXRiV1VISlJKeFJ5NDlISzBRRWVMSFk5dmZKTS15S0hocjlpSm8wcnRGSFUwN1o4aTVKWHJWSkg?oc=5)
-
-2026-08-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjk5MlY2bVo4SGdEZEppQkNFd2RtNURtXzRLM0QtWG43amtkNHN1Nzc1anN3bFhYRU9vaFJvdS1PSUlCa2FOeHltelViWkYzZWt5NFlIOGthNC15MmxxczB6cVFDZ0FGWEI1YlA0RVRSUHozQm1rLVBTYWxDaXRiV1VISlJKeFJ5NDlISzBRRWVMSFk5dmZKTS15S0hocjlpSm8wcnRGSFUwN1o4aTVKWHJWSkg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDBxMWE5cFdiN2pyRVdJbHJuMGNuRXR4VFA0a3pxZ1NseTh3YjJlUGFmLTNHVEppRXhiZlh5NWEtWE1ROXRuNmdvQ0NCcktqWmtOeXZuMENvSHJ6dEI1X2EwRUFPVXdtZF92Tm1MUC1uWklfRVZldVg0Mnh1b0tTQ2xpMmN4S2lxeG5ia3drcXZiYjUyZGxuWEU3U284LVFvdUIwZEp4VFhuSWlSR0VOS1JpaVRfeDhZLW5rUmo3SQ?oc=5)
 
 ---
 

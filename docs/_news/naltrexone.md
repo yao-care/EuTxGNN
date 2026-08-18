@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
+### [Studie: Adipositas als Krankheit der Armen](https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VVJsdHFkRlpwc3VyamZhSWZhZlJ1STQ3UWFYS0tuYkxqNlJaZU8yMFBpUVlJc0R6Q0lIMXBzcnI2MnI1bFlCWmFUdkdTSHJoaUFFRXo0OU1MUQ?oc=5)
 
-2026-08-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-08-17 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5)
+來源：[orf.at](https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VVJsdHFkRlpwc3VyamZhSWZhZlJ1STQ3UWFYS0tuYkxqNlJaZU8yMFBpUVlJc0R6Q0lIMXBzcnI2MnI1bFlCWmFUdkdTSHJoaUFFRXo0OU1MUQ?oc=5)
+
+---
+
+### [Un adulte sur deux obèse : la Polynésie française tente d'enrayer le phénomène - Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
+
+2026-08-17 <span class="news-indication-tag">obésité</span>
+
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
 
 ---
 

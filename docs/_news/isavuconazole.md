@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Bluthochdruck-Vorsorge: Neuer Index zeigt 116% höheres Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
@@ -70,19 +70,27 @@ permalink: /news/isavuconazole/
 
 ---
 
+### [Chester woman, 29, facing prospect of double leg amputation due to severe arthritis - Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
+
+2026-08-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
+
+---
+
+### [Bluthochdruck: Eine Tasse Bohnen senkt Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWZBY2pGS1M5aFBHdTRIdzE2MFVYTHMzemMxX0NZenVUUUxtVlFNdWhmelFVd09MQmpkS0xfNEJTYlZHMkZJZHdKUlF4NEVRMExlVlRGQm1kbEpsRjJQTnBSbDJ5X3JYTTFHMTgxdXVpZnZVUkNZcGN5azlndmtwOER4UjMxNWRGUW1wRmJQdnZQS1o3R1NEb0wxbDlLSG5QZ1l2N21mOEo3R2c?oc=5)
+
+2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWZBY2pGS1M5aFBHdTRIdzE2MFVYTHMzemMxX0NZenVUUUxtVlFNdWhmelFVd09MQmpkS0xfNEJTYlZHMkZJZHdKUlF4NEVRMExlVlRGQm1kbEpsRjJQTnBSbDJ5X3JYTTFHMTgxdXVpZnZVUkNZcGN5azlndmtwOER4UjMxNWRGUW1wRmJQdnZQS1o3R1NEb0wxbDlLSG5QZ1l2N21mOEo3R2c?oc=5)
+
+---
+
 ### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
-
----
-
-### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
-
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
 
 ---
 

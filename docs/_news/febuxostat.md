@@ -62,11 +62,11 @@ permalink: /news/febuxostat/
 
 ---
 
-### [Bluthochdruck: Kalium verstärkt Salzreduktion deutlich – was Patienten beachten sollten - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
+### [Bluthochdruck: Eine Tasse Bohnen senkt Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWZBY2pGS1M5aFBHdTRIdzE2MFVYTHMzemMxX0NZenVUUUxtVlFNdWhmelFVd09MQmpkS0xfNEJTYlZHMkZJZHdKUlF4NEVRMExlVlRGQm1kbEpsRjJQTnBSbDJ5X3JYTTFHMTgxdXVpZnZVUkNZcGN5azlndmtwOER4UjMxNWRGUW1wRmJQdnZQS1o3R1NEb0wxbDlLSG5QZ1l2N21mOEo3R2c?oc=5)
 
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BMa2xfbXlyZFV2aE5rQ3VBODZna0pCelQ5ZXcwSFhuSzMyeXR3aW9mVmc2bE5oVmhtcDY1ZzhWYkhkajZ3MDkxNWJWcnJIdHZJa1NKLXVhTjZuT01KcWJtT2pBdHVJVEpsYVRpWkZCTE1PdW02X2JOektaaE1scWtjTXFIdHN3anlHMTRWY2hIenk2eFEzWWFTT3U4TXZhQkZZOG1tSlBtY0VpaTlidnJ2ZzFsY0tw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWZBY2pGS1M5aFBHdTRIdzE2MFVYTHMzemMxX0NZenVUUUxtVlFNdWhmelFVd09MQmpkS0xfNEJTYlZHMkZJZHdKUlF4NEVRMExlVlRGQm1kbEpsRjJQTnBSbDJ5X3JYTTFHMTgxdXVpZnZVUkNZcGN5azlndmtwOER4UjMxNWRGUW1wRmJQdnZQS1o3R1NEb0wxbDlLSG5QZ1l2N21mOEo3R2c?oc=5)
 
 ---
 

@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -54,11 +54,11 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（1 則）
 
-### [Taltz (Ixekizumab) und Mounjaro (Tirzepatid)](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTlFVE14WGxuU2puemJ5QjRqYkg2NW1WUXNMZ1hPa0NycmhtNDlIQk9iQmx5WDJjTnV2eGY2M3RjLXRkMDVsQk5JWXJhRU1aQmFYTmNSaktmOHc2cWYwZGN3ZE1xR3VtQTFfY2xlMFUzNXZzNS1HbjI0c2R0OTh6ZFNUbUo3SkZlbnVHNU52bU5ZQVRJ?oc=5)
+### [Chester woman, 29, facing prospect of double leg amputation due to severe arthritis - Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
 
-2026-08-17 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">psoriasis</span>
+2026-08-17 <span class="news-indication-tag">arthritis</span>
 
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTlFVE14WGxuU2puemJ5QjRqYkg2NW1WUXNMZ1hPa0NycmhtNDlIQk9iQmx5WDJjTnV2eGY2M3RjLXRkMDVsQk5JWXJhRU1aQmFYTmNSaktmOHc2cWYwZGN3ZE1xR3VtQTFfY2xlMFUzNXZzNS1HbjI0c2R0OTh6ZFNUbUo3SkZlbnVHNU52bU5ZQVRJ?oc=5)
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
 
 ---
 
