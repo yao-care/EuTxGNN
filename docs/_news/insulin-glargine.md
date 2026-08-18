@@ -14,7 +14,7 @@ permalink: /news/insulin-glargine/
 ---
 
 <p class="key-answer" data-question="Insulin Glargine 有什麼相關新聞？">
-<strong>Insulin Glargine</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Glargine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/insulin-glargine/
 <p><a href="{{ '/drugs/insulin-glargine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Terapia celular con 'capas de invisibilidad' podría ofrecer tratamiento en diabetes sin efectos secundarios](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZUV1aVBsR0luY1BhNlRrOUZsWUpCUG5sZ0dabnducDd1ekNFU2ZCR3JaU2FMNjdwamVkV2hISXB6OFFlaVZMOV8tcExhQ2JIMWI5XzJOeFdldmF3MEZKV05GaHhfUm5rdUxwdHhQbUNmY3R6UUVtc1liTF9tWDdiZVJ3REtWM3N1bnN5dEVGTldBS2pfaG9ZRTl6SmxmSmZFTGY3YzViNG1meU8wM2RINk5qajZSSUN4bExRLVVxN1NUYl81YVhXLUNLZUg4MXloRW13blgtemh0aDFQRWwwNElHc1ZtVy1keHhkYU1QU252RG5DZ3N1ZA?oc=5)
+### [Ni la cintura ni el peso: esta medida corporal podría detectar un riesgo oculto de diabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxORnhCWFlKdjE3QWEyZkFDUVhNSk5lZS11bFNaMHdHRjBfX3ByMDNSaDR5RTB2ek5Mc1Bscm1Kc01mNTVWM3NPOEFRVjRWMDVWNHdvQzNkdmo3bG9Pb21icngtZlk3ZnY5U2J2UjltQWlaWmdrZmhsMDhrcDdJLW9IbEVnUHlHN1Z3U2QyTlFTWGttcWxKTk1VZmxTQkp2am0xdm53SFZOdUZMaGVXb0RNQlhFdDDSAboBQVVfeXFMTlVMazFEaVpuSktveG94MVI3U3JUMktLOXgwd3Q0UFZUT2ZNYnl0UjkxQ3RuTVBiYkdGSXVaVFpMa0Y0ckdtb2F4WUFmMzhXVnoxTm9uZWVuTmJ2eURuc0xOZ3V4VG1kNGNNZUV5U1JRTWF0OEx5NXBWUFl0aVRmcnJXbjFTZ2xFdDBBaWFpSmltRWtTZG9RZGlEcEdkTnpNMDd2NG50bVByQXBVck5tZGMyYWNwU2k0NkVR?oc=5)
 
-2026-08-17 <span class="news-indication-tag">diabetes</span>
+2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZUV1aVBsR0luY1BhNlRrOUZsWUpCUG5sZ0dabnducDd1ekNFU2ZCR3JaU2FMNjdwamVkV2hISXB6OFFlaVZMOV8tcExhQ2JIMWI5XzJOeFdldmF3MEZKV05GaHhfUm5rdUxwdHhQbUNmY3R6UUVtc1liTF9tWDdiZVJ3REtWM3N1bnN5dEVGTldBS2pfaG9ZRTl6SmxmSmZFTGY3YzViNG1meU8wM2RINk5qajZSSUN4bExRLVVxN1NUYl81YVhXLUNLZUg4MXloRW13blgtemh0aDFQRWwwNElHc1ZtVy1keHhkYU1QU252RG5DZ3N1ZA?oc=5)
+來源：[okdiario.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxORnhCWFlKdjE3QWEyZkFDUVhNSk5lZS11bFNaMHdHRjBfX3ByMDNSaDR5RTB2ek5Mc1Bscm1Kc01mNTVWM3NPOEFRVjRWMDVWNHdvQzNkdmo3bG9Pb21icngtZlk3ZnY5U2J2UjltQWlaWmdrZmhsMDhrcDdJLW9IbEVnUHlHN1Z3U2QyTlFTWGttcWxKTk1VZmxTQkp2am0xdm53SFZOdUZMaGVXb0RNQlhFdDDSAboBQVVfeXFMTlVMazFEaVpuSktveG94MVI3U3JUMktLOXgwd3Q0UFZUT2ZNYnl0UjkxQ3RuTVBiYkdGSXVaVFpMa0Y0ckdtb2F4WUFmMzhXVnoxTm9uZWVuTmJ2eURuc0xOZ3V4VG1kNGNNZUV5U1JRTWF0OEx5NXBWUFl0aVRmcnJXbjFTZ2xFdDBBaWFpSmltRWtTZG9RZGlEcEdkTnpNMDd2NG50bVByQXBVck5tZGMyYWNwU2k0NkVR?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/insulin-glargine/
 
 ---
 
-### [Pankreatitis: Blutzucker über 200 mg/dl als Warnsignal für Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ20xMUJjNUM0VkI2WjdGeWFlZTg2d0xBX3FwV3c2cGNoaUxRWWVxNUZfSnFULUIyQXJNZFFtTkdwbXJ3QUFKMHBDci1kaTRmUFU2MHh1aS1FT2x6UWNBcXZKYkdkRUhQTGVWNDhXSjFJRExxVG5zLVdIUVJUc3BNLWN5bG9vUTJFNDNoejlhSGk5cjZ3TjVxeFBQUEZkd1dFNVE?oc=5)
+### [Pankreatitis: Blutzuckerwerte über 200 mg/ dl deuten auf Diabetes hin - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3I5NkwwaUh0WUF6eGtfcmtiQ01kRXZhc2FGcmxwS2dZcTZwWWxGd2FNc2dfMHB4eDdpQlk0ek5ITXVFaWpuZ0ZkdWdQd3RkRmh5Ry1uanlYMUNTbkZJMUpjTUV0WHZSUFBpQ3FEOGRzMExnZi1nZTR4Z2FBcjZDRlpTSE1keHZnOURWRU9CYUxLaGwxZDlqTW9JUU9EQmo2aXczNjZNMU5MQlNCYXk4SzBnWnJFQ0Zx?oc=5)
 
 2026-08-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ20xMUJjNUM0VkI2WjdGeWFlZTg2d0xBX3FwV3c2cGNoaUxRWWVxNUZfSnFULUIyQXJNZFFtTkdwbXJ3QUFKMHBDci1kaTRmUFU2MHh1aS1FT2x6UWNBcXZKYkdkRUhQTGVWNDhXSjFJRExxVG5zLVdIUVJUc3BNLWN5bG9vUTJFNDNoejlhSGk5cjZ3TjVxeFBQUEZkd1dFNVE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3I5NkwwaUh0WUF6eGtfcmtiQ01kRXZhc2FGcmxwS2dZcTZwWWxGd2FNc2dfMHB4eDdpQlk0ek5ITXVFaWpuZ0ZkdWdQd3RkRmh5Ry1uanlYMUNTbkZJMUpjTUV0WHZSUFBpQ3FEOGRzMExnZi1nZTR4Z2FBcjZDRlpTSE1keHZnOURWRU9CYUxLaGwxZDlqTW9JUU9EQmo2aXczNjZNMU5MQlNCYXk4SzBnWnJFQ0Zx?oc=5)
 
 ---
 
@@ -94,19 +94,11 @@ permalink: /news/insulin-glargine/
 
 ---
 
-### [Diabetes: Endometriose erhöht das Risiko deutlicht](https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3Q4U1dyWmREdGZJYjljeWVXVVVpMWhVcTdLOTZGZEx3NWh1Wk5FZE9vQ0lQamQxd09mdF8wQlNfNndLaFFxeVFhdlR1NlYxR05YMk1kSmc3OUZmWE82Z3lTU21IVVluRXUzcHNKaFlCeVE4SWVZcDZGZVRJREZlbnc0REVEdThBNjUxaHgwM25McmJxQ251NnFOV0FSTU1BT21Uak1HdjNyWW1lWW1mZw?oc=5)
+### [Endometriose: 46% höheres Diabetes-Risiko bei betroffenen Frauen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0FiNW1kREdFa3h3cFdfRkt3NGJERWdnSU5WU1p0Wk5FcVlWRERaSEhROVI1UU9zZkJQOC1fNU0xZnpPajl4WGppUThoeVdGLVZvNFNIdlotN0s5ZFRILVNPNFVnUld2VHo2VUEwV1ZROEwyRzBpSkVFXzE4cllBbFJ6Y285Q3J4eG1jOTIwS2YySkJVRGhHOEZxUE80SjQ0d1BCTmRzYk5SVTBPZDluT3ZkRDlLTnFWSE04dg?oc=5)
 
 2026-08-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3Q4U1dyWmREdGZJYjljeWVXVVVpMWhVcTdLOTZGZEx3NWh1Wk5FZE9vQ0lQamQxd09mdF8wQlNfNndLaFFxeVFhdlR1NlYxR05YMk1kSmc3OUZmWE82Z3lTU21IVVluRXUzcHNKaFlCeVE4SWVZcDZGZVRJREZlbnc0REVEdThBNjUxaHgwM25McmJxQ251NnFOV0FSTU1BT21Uak1HdjNyWW1lWW1mZw?oc=5)
-
----
-
-### [Simple dinner time habit could help 'prevent diabetes' - Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTc5M2kwekpXejIybEoxWlc4UnN4YmE2aUIxeUJPb1NzcUNIaE1MT0dIZ1VXYUFDcFVuTVJPMkxKWE9iTmdQX3dHMmxzU1ZvT1poVEVPaFhwQlgxSkhrMGhrbWZ5TnJPbURYMmFZbVUzSE5zblZKZEw0REVPM25ueEItM1hfQkXSAYwBQVVfeXFMTl9IcVlSeHNtS3lsMUJkeDVQc0lndjdwT3N6SUZmMnM2am1renByREozVk1sVnBJS3R1SG1Fc3BxQnpmbnktT0RrQWlucEdhdUU1cFhmc0hqekt1cXRLZ1JVZGtJWmxhRndqNEIxcHBldjk1V1ZkVi1XeDJKclRNUDBUWTB1XzVpb0FxT3g?oc=5)
-
-2026-08-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTc5M2kwekpXejIybEoxWlc4UnN4YmE2aUIxeUJPb1NzcUNIaE1MT0dIZ1VXYUFDcFVuTVJPMkxKWE9iTmdQX3dHMmxzU1ZvT1poVEVPaFhwQlgxSkhrMGhrbWZ5TnJPbURYMmFZbVUzSE5zblZKZEw0REVPM25ueEItM1hfQkXSAYwBQVVfeXFMTl9IcVlSeHNtS3lsMUJkeDVQc0lndjdwT3N6SUZmMnM2am1renByREozVk1sVnBJS3R1SG1Fc3BxQnpmbnktT0RrQWlucEdhdUU1cFhmc0hqekt1cXRLZ1JVZGtJWmxhRndqNEIxcHBldjk1V1ZkVi1XeDJKclRNUDBUWTB1XzVpb0FxT3g?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0FiNW1kREdFa3h3cFdfRkt3NGJERWdnSU5WU1p0Wk5FcVlWRERaSEhROVI1UU9zZkJQOC1fNU0xZnpPajl4WGppUThoeVdGLVZvNFNIdlotN0s5ZFRILVNPNFVnUld2VHo2VUEwV1ZROEwyRzBpSkVFXzE4cllBbFJ6Y285Q3J4eG1jOTIwS2YySkJVRGhHOEZxUE80SjQ0d1BCTmRzYk5SVTBPZDluT3ZkRDlLTnFWSE04dg?oc=5)
 
 ---
 

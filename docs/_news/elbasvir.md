@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（19 則）
 
 ### [Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
 
-2026-08-17 <span class="news-indication-tag">MS</span>
+2026-08-18 <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
+來源：[welt.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
 
 ---
 
-### [Psychology suggests people who age well are not the ones who quietly accept decline — they are the ones who keep revising the terms of their life, letting go of what no longer fits without giving up on what still matters - Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxNYzBSTzJyMzlEYzlwOXcyY2JGR3JYWHpEY0NLcWtpY3RXeEpucHVLSGNFZTF2R3Y0TGRLM2pIVkc2YzZYNWl0ajYtTHE3OXZmZmJQNTV1TmxVMU9JZkZYTkd2S2c0bUNPaTF0R2pOck13bFRrU3N4d2tNYlJZT3FIWnl0TzhtSDgyMVdOdkVURXdUTnhNVkJZbDhSOG5ZWWdlMFNHeVBCanl0dGh2WDFMbmpTREFBQTJZSzNxejdEakpKRkxlcHhNNTQzRk9iRTFQbWhIWW1NSFYtYXozTGhwZ3JtTFZQVlozQllVRFNKaklVSnNzTi05bmRxUGZPSzl2cjNwSFRmWDRFTEtjWUQ4WEdmT3ZCSGdJdnczam1XdHBlU2tSNmxuUGlpOGRtdmZfOVVXVEh6eGU3VmVhQW1n?oc=5)
+### [Ni la cintura ni el peso: esta medida corporal podría detectar un riesgo oculto de diabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxORnhCWFlKdjE3QWEyZkFDUVhNSk5lZS11bFNaMHdHRjBfX3ByMDNSaDR5RTB2ek5Mc1Bscm1Kc01mNTVWM3NPOEFRVjRWMDVWNHdvQzNkdmo3bG9Pb21icngtZlk3ZnY5U2J2UjltQWlaWmdrZmhsMDhrcDdJLW9IbEVnUHlHN1Z3U2QyTlFTWGttcWxKTk1VZmxTQkp2am0xdm53SFZOdUZMaGVXb0RNQlhFdDDSAboBQVVfeXFMTlVMazFEaVpuSktveG94MVI3U3JUMktLOXgwd3Q0UFZUT2ZNYnl0UjkxQ3RuTVBiYkdGSXVaVFpMa0Y0ckdtb2F4WUFmMzhXVnoxTm9uZWVuTmJ2eURuc0xOZ3V4VG1kNGNNZUV5U1JRTWF0OEx5NXBWUFl0aVRmcnJXbjFTZ2xFdDBBaWFpSmltRWtTZG9RZGlEcEdkTnpNMDd2NG50bVByQXBVck5tZGMyYWNwU2k0NkVR?oc=5)
 
-2026-08-17 <span class="news-indication-tag">MS</span>
+2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxNYzBSTzJyMzlEYzlwOXcyY2JGR3JYWHpEY0NLcWtpY3RXeEpucHVLSGNFZTF2R3Y0TGRLM2pIVkc2YzZYNWl0ajYtTHE3OXZmZmJQNTV1TmxVMU9JZkZYTkd2S2c0bUNPaTF0R2pOck13bFRrU3N4d2tNYlJZT3FIWnl0TzhtSDgyMVdOdkVURXdUTnhNVkJZbDhSOG5ZWWdlMFNHeVBCanl0dGh2WDFMbmpTREFBQTJZSzNxejdEakpKRkxlcHhNNTQzRk9iRTFQbWhIWW1NSFYtYXozTGhwZ3JtTFZQVlozQllVRFNKaklVSnNzTi05bmRxUGZPSzl2cjNwSFRmWDRFTEtjWUQ4WEdmT3ZCSGdJdnczam1XdHBlU2tSNmxuUGlpOGRtdmZfOVVXVEh6eGU3VmVhQW1n?oc=5)
+來源：[okdiario.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxORnhCWFlKdjE3QWEyZkFDUVhNSk5lZS11bFNaMHdHRjBfX3ByMDNSaDR5RTB2ek5Mc1Bscm1Kc01mNTVWM3NPOEFRVjRWMDVWNHdvQzNkdmo3bG9Pb21icngtZlk3ZnY5U2J2UjltQWlaWmdrZmhsMDhrcDdJLW9IbEVnUHlHN1Z3U2QyTlFTWGttcWxKTk1VZmxTQkp2am0xdm53SFZOdUZMaGVXb0RNQlhFdDDSAboBQVVfeXFMTlVMazFEaVpuSktveG94MVI3U3JUMktLOXgwd3Q0UFZUT2ZNYnl0UjkxQ3RuTVBiYkdGSXVaVFpMa0Y0ckdtb2F4WUFmMzhXVnoxTm9uZWVuTmJ2eURuc0xOZ3V4VG1kNGNNZUV5U1JRTWF0OEx5NXBWUFl0aVRmcnJXbjFTZ2xFdDBBaWFpSmltRWtTZG9RZGlEcEdkTnpNMDd2NG50bVByQXBVck5tZGMyYWNwU2k0NkVR?oc=5)
+
+---
+
+### [Pourquoi les tiques sont accros aux traileurs, et comment les éviter](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbTlaNUFZQndDMW9GMEMwbGlpTXlXYTJRdEl0RHg3Ym1HVGZiRExQVm5tWXhmOS1QZldMZDRHZWNWS3lEZnhFQXNmRUNWMWRwbUxseGg0aTY2U19kaVpBN2x5NmVmR0VEWDFVbXdpSnJxMWVLVVIxMnA2c3drQm9xazlFSWdEQlp3dzBIc1Z6bjlvcFp2b0E2RTNwYXl0V1RSYzFVMkRBSVhZWnVqLVl2VUVLQ2NEeUJvbWM1eUxwMkMxeGxqNUh4aml4ZWtYMjRq?oc=5)
+
+2026-08-18 <span class="news-indication-tag">MS</span>
+
+來源：[L'Équipe](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbTlaNUFZQndDMW9GMEMwbGlpTXlXYTJRdEl0RHg3Ym1HVGZiRExQVm5tWXhmOS1QZldMZDRHZWNWS3lEZnhFQXNmRUNWMWRwbUxseGg0aTY2U19kaVpBN2x5NmVmR0VEWDFVbXdpSnJxMWVLVVIxMnA2c3drQm9xazlFSWdEQlp3dzBIc1Z6bjlvcFp2b0E2RTNwYXl0V1RSYzFVMkRBSVhZWnVqLVl2VUVLQ2NEeUJvbWM1eUxwMkMxeGxqNUh4aml4ZWtYMjRq?oc=5)
+
+---
+
+### [Scrapping men’s right to prostate cancer tests ‘will cost lives’ - The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
+
+2026-08-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
 
 ---
 
@@ -91,6 +107,14 @@ permalink: /news/elbasvir/
 2026-08-17 <span class="news-indication-tag">MS</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVgyclc2RnJqWTNoMXlmMk9ST1h4cWZFZ0xrTkMyNGNHT0V4ck80V1FDYUl3TEZPS3laMm9FVTV2MDRHX3dmRVBvWkRPTDZ3WGFnRzRnTFVEcFFsMzFpRXVVejlpQnkxVUlXbjFMeXo2UHVsbElZMk5RUzdjQ0xiY0JwcDl5WnJBd3ROYk85NnNFVzB5dllSQXM4R1d6Zlo3elE2Z0ZOYlF4ZjVGZzRqSHp6NGhOT0luRkoyYlFKOA?oc=5)
+
+---
+
+### [L'epidemia di Ebola in Congo è la più letale nella storia del Paese](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdGFLeUhEMmczR2h3U25xRm9NSk1XRUxsWGplUC1tVVotMWxrdHh3cW12empWUXAwX3Y5M3hYU1JaRkJqLTRoY2ljRW84cHJrOWp3eHRaR29BT1ZlTzNabWk2OEoxXzFyRDFfb3RlbTlPeWhJZDJWT0FOZ3JfdWtKNjUyN2prZFhmZkpxOGdOYXA3NlhERkNRcUpIdjYxQmZmZWlFdVJYMUVvT2lvOHRZQl93VUYzMFR4WGVJNU9vdGY0NkZyZER0eWhqNVpRVHZGbHY5Wmw1cDJjTXBaVDlOMlFSa09LTzVFUEZvMlo0SdIB9AFBVV95cUxNUkk5MTBQbFRBRnFLUVZOQlFSdUJoN1VIZEtudlJYV3dyNlRBZFAwQzlMOU9OcGF1eFZxeGp4N0tJSVJHWmx6RGJ1ZFRMS1pIUk5iX01GSkJjMS10OVhPd2xaV1Y0YjAyMDktanJZbkZfX18yZ0RNQlZBcldaR0JLVkVDZmM1Uy1jSUZ3SEwxNEYtdW9uTjZubVFHVmx6cXBsbm5DWkZEQzd6T0UtWjV3ZEw0LUJCbjhsRXExV3ZINFFiNlRQYmN6QTExeWVaX1NpY0tsVm9UMEM4aVg2NXA1bWZxdFpqeXI0ZU5kN0lubW5LVVlr?oc=5)
+
+2026-08-17 <span class="news-indication-tag">MS</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdGFLeUhEMmczR2h3U25xRm9NSk1XRUxsWGplUC1tVVotMWxrdHh3cW12empWUXAwX3Y5M3hYU1JaRkJqLTRoY2ljRW84cHJrOWp3eHRaR29BT1ZlTzNabWk2OEoxXzFyRDFfb3RlbTlPeWhJZDJWT0FOZ3JfdWtKNjUyN2prZFhmZkpxOGdOYXA3NlhERkNRcUpIdjYxQmZmZWlFdVJYMUVvT2lvOHRZQl93VUYzMFR4WGVJNU9vdGY0NkZyZER0eWhqNVpRVHZGbHY5Wmw1cDJjTXBaVDlOMlFSa09LTzVFUEZvMlo0SdIB9AFBVV95cUxNUkk5MTBQbFRBRnFLUVZOQlFSdUJoN1VIZEtudlJYV3dyNlRBZFAwQzlMOU9OcGF1eFZxeGp4N0tJSVJHWmx6RGJ1ZFRMS1pIUk5iX01GSkJjMS10OVhPd2xaV1Y0YjAyMDktanJZbkZfX18yZ0RNQlZBcldaR0JLVkVDZmM1Uy1jSUZ3SEwxNEYtdW9uTjZubVFHVmx6cXBsbm5DWkZEQzd6T0UtWjV3ZEw0LUJCbjhsRXExV3ZINFFiNlRQYmN6QTExeWVaX1NpY0tsVm9UMEM4aVg2NXA1bWZxdFpqeXI0ZU5kN0lubW5LVVlr?oc=5)
 
 ---
 
@@ -131,14 +155,6 @@ permalink: /news/elbasvir/
 2026-08-17 <span class="news-indication-tag">MS</span>
 
 來源：[Silicon Canals](https://news.google.com/rss/articles/CBMitwJBVV95cUxNV3hDcFRYYS10N2pjc29BS3FhY3A0Ml83M2dTdEsyOU8tUFdlNG9JYjZfX0Z1WDJWLUM0Y2tXdGc3ak82Qm8yYUY5UUE0eUk2UDZQRzV3WDBSdHNQeXgzc2hDS2ctdjczdnZ1M3NrY2tIZlNkSHVOYjBRdWhqR0I2dko2SS1aaHhTWDB6WUhyNm5WRjJhM2RPclhnUkNfeTFoRWE1cHJJRXZ4N3VZUWNzQjBMdHdOdFdFNHFTVDlnZGhBNjFLRzZILUtxSUJHMnBBeWktc2dzVHpJRnFlRXhqMzItdjh1SUFNcEdKSjQ2Z0FTQ3VBaVJMYzRXcHhoR3BxaW10YzhHZk5zYjk0WktoZHNTWlR0RVh1R3JQRFczQkdwTndWRTR3cUlvc1JrWkF6VnoyckdRTQ?oc=5)
-
----
-
-### [Fears of cancer care delays as ‘quarter of GP referrals rejected’ - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
-
-2026-08-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
 
 ---
 
@@ -187,14 +203,6 @@ permalink: /news/elbasvir/
 2026-08-16 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SVmx0bUoySnpZVzNicUxMTHU0SmdpSlJvRk1IV1Zma1ByVUtoSkFWWmYwYWlfWV9OSWhqaDFqSnJzb0dzbFFNRG5tdFdtcHA1OTJBc01YMjJfeU5P?oc=5)
-
----
-
-### [Alzheimer: Herpesviren und Immunantwort als zentrale Treiber identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXBUOGV2RUxSU0RWTXpCN0U1TVRPRVFIRWR2cVJVM19CWDVfNWNzbkNvSFpSQ3BZU2JUOVFiaEV6a0JSZFBHN1h3WkhTSjBFRVhyblo3RjVKYU5HVmk0dXVyNE01V09reHlQT1RRaDNyT1p4VklpSXFyeXFzMGo4dzdXSmtfZ3VCTmF6U1lVU19SLUdWdGFfN2Y0NUd6Q0FnU0I3Wkt0OVJPRlRiQ1g1TDFDdTJ2dU12TmxJUVlLYw?oc=5)
-
-2026-08-16 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXBUOGV2RUxSU0RWTXpCN0U1TVRPRVFIRWR2cVJVM19CWDVfNWNzbkNvSFpSQ3BZU2JUOVFiaEV6a0JSZFBHN1h3WkhTSjBFRVhyblo3RjVKYU5HVmk0dXVyNE01V09reHlQT1RRaDNyT1p4VklpSXFyeXFzMGo4dzdXSmtfZ3VCTmF6U1lVU19SLUdWdGFfN2Y0NUd6Q0FnU0I3Wkt0OVJPRlRiQ1g1TDFDdTJ2dU12TmxJUVlLYw?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/treprostinil-sodium/
 
 ---
 
-### [Bluthochdruck: Eine Tasse Bohnen senkt Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWZBY2pGS1M5aFBHdTRIdzE2MFVYTHMzemMxX0NZenVUUUxtVlFNdWhmelFVd09MQmpkS0xfNEJTYlZHMkZJZHdKUlF4NEVRMExlVlRGQm1kbEpsRjJQTnBSbDJ5X3JYTTFHMTgxdXVpZnZVUkNZcGN5azlndmtwOER4UjMxNWRGUW1wRmJQdnZQS1o3R1NEb0wxbDlLSG5QZ1l2N21mOEo3R2c?oc=5)
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
-2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWZBY2pGS1M5aFBHdTRIdzE2MFVYTHMzemMxX0NZenVUUUxtVlFNdWhmelFVd09MQmpkS0xfNEJTYlZHMkZJZHdKUlF4NEVRMExlVlRGQm1kbEpsRjJQTnBSbDJ5X3JYTTFHMTgxdXVpZnZVUkNZcGN5azlndmtwOER4UjMxNWRGUW1wRmJQdnZQS1o3R1NEb0wxbDlLSG5QZ1l2N21mOEo3R2c?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 

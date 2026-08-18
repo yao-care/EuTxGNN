@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epilepsia（epilepsy） 相關新聞"
+title: "épilepsie（epilepsy） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epilepsia（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
+description: "épilepsie（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
-# epilepsia（epilepsy） 相關新聞
+# épilepsie（epilepsy） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epilepsia（epilepsy） 有什麼相關新聞？">
-<strong>epilepsia（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
+<p class="key-answer" data-question="épilepsie（epilepsy） 有什麼相關新聞？">
+<strong>épilepsie（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epilepsia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「épilepsie」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,15 +38,7 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Tendencia clínica: Avances en el tratamiento de la epilepsia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHBVZUphY0YzUnpZUzc3bGRxZnNYaHVxWFZtTzVjTG5rc1paMGVEUjFMZ3dRaUs3d0t3S2FrbE5OdV9fcHJqSjJ1eUdxRWd0NFY1QmNGUTE2Unc1V3JmdVdOQXVTT29JdnBUTlBLSklzTlh2b0NKREJmX2pzZ3hkUGtITm94bUFVbndHOHlMVk1xSHNzaHpzVHM1aUxqQl9DMWgzQnVGVGdVZw?oc=5)
-
-2026-08-17
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHBVZUphY0YzUnpZUzc3bGRxZnNYaHVxWFZtTzVjTG5rc1paMGVEUjFMZ3dRaUs3d0t3S2FrbE5OdV9fcHJqSjJ1eUdxRWd0NFY1QmNGUTE2Unc1V3JmdVdOQXVTT29JdnBUTlBLSklzTlh2b0NKREJmX2pzZ3hkUGtITm94bUFVbndHOHlMVk1xSHNzaHpzVHM1aUxqQl9DMWgzQnVGVGdVZw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Grave épilepsie réfractaire chez un enfant : des années d’errance diagnostique après une simple griffure de chat - Le Monde.fr](https://news.google.com/rss/articles/CBMioAJBVV95cUxNTVA1cWV3YTR3REdkckJoMGNqbncxYWFsajJWQjJUSmZIM2M3S1hVTENBNVQxcEtJblN3ZmtvSTJ6TkN1ZVlUVEF5dHp3OHNFNmRzVHNua0lwU095RF9qUjNIbldlcVFCd1VFODM0Y1Z2SzVHSzUzUkl5cmcwX1B2bWxHenhUcGp3R19vSVBLaDl0X0JvTDFwdlpUcTF2eWxBaWdQRjdodUlraGxyc2NIZ1ZxeWt1cVhzQk5nV2xZdlBIUG9xdlNTbF9sZGNSWE1BTkNjbXdSb1YtbFhDelAxSTd0RnM2MFZOVG9iUEM1eHFNcVBnSEVDaUlSUl9fVWhmTzVGY0E4bjB4OXdMLVpNblpvR0hBTDZ1cl9uQWlrY3o?oc=5)
 

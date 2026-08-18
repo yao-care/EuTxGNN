@@ -86,19 +86,19 @@ permalink: /news/givosiran/
 
 ---
 
-### [Bluthochdruck: Eine Tasse Bohnen senkt Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWZBY2pGS1M5aFBHdTRIdzE2MFVYTHMzemMxX0NZenVUUUxtVlFNdWhmelFVd09MQmpkS0xfNEJTYlZHMkZJZHdKUlF4NEVRMExlVlRGQm1kbEpsRjJQTnBSbDJ5X3JYTTFHMTgxdXVpZnZVUkNZcGN5azlndmtwOER4UjMxNWRGUW1wRmJQdnZQS1o3R1NEb0wxbDlLSG5QZ1l2N21mOEo3R2c?oc=5)
-
-2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWZBY2pGS1M5aFBHdTRIdzE2MFVYTHMzemMxX0NZenVUUUxtVlFNdWhmelFVd09MQmpkS0xfNEJTYlZHMkZJZHdKUlF4NEVRMExlVlRGQm1kbEpsRjJQTnBSbDJ5X3JYTTFHMTgxdXVpZnZVUkNZcGN5azlndmtwOER4UjMxNWRGUW1wRmJQdnZQS1o3R1NEb0wxbDlLSG5QZ1l2N21mOEo3R2c?oc=5)
-
----
-
 ### [Descubren que un fármaco usado para la diabetes podría reducir el riesgo de cáncer de hígado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
 
 2026-08-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzY3T2NGVDhZVHA3RnRoU0pKSVNaU1pRajBRbU9OY1lGQ1RPaVRaTDdPVWpXVV84anc3SkVaZFpFT2FhbWZPd2ZBRkU0Q0tza1B5dFRSdHdJczY1LVFaTDBxS3c4V0laUG9DOG1xQmZnTzFodkJmOGJmVVZBMzgtVVMwdVpwcU5QRGFxWUhXVFdTRmI1TVNwNFhDQ3RnaG9yMHBwLTRCWVQwUDRXY3h0QkNBTW5xSnBNMDVtd1kzSFZjLTJBdkl5cFp2eU5xR05kQW5uWUh4R2R6bjR6SVFtSnZn?oc=5)
+
+---
+
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
+
+2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 

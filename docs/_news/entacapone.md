@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Brain Age Tied to Dementia Risk in Those With Memory Issues](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEFxWkd4UEh4aVd6S095NzVMYVBwbHhfd0I1aU9qeUZjZ3NOVFVRbl81eV80NWFldzlocFNYSFdEYks0YmJuT01VVUNnV3dPNlVZand1eUl3OUdkWUtad0FncGZlZUdkNmVnQUVUc1hXcTV2SU4wcmlOQm1CVXVwQTBPMDM1N2U3R25xWHRLZjZnalBjSXJVUGpMUkVrc0d3UDJmbzlUMTRpSWJX?oc=5)
+
+2026-08-17 <span class="news-indication-tag">dementia</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEFxWkd4UEh4aVd6S095NzVMYVBwbHhfd0I1aU9qeUZjZ3NOVFVRbl81eV80NWFldzlocFNYSFdEYks0YmJuT01VVUNnV3dPNlVZand1eUl3OUdkWUtad0FncGZlZUdkNmVnQUVUc1hXcTV2SU4wcmlOQm1CVXVwQTBPMDM1N2U3R25xWHRLZjZnalBjSXJVUGpMUkVrc0d3UDJmbzlUMTRpSWJX?oc=5)
+
+---
 
 ### [Les statines pourraient ralentir le déclin cognitif chez les femmes avec la maladie d'Alzheimer et LDL-C élevé](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTVxTGY4anhIUGNwWlFkNy0ydVU2cE9fMGtkX3BfS1hqa3p6SDAwUWs5U2VpdXVvbXVxdm1LenVtdlpVNW9GOEQ4X1lWdXF2b09MUnNxZm1ybmplRFVUYUtjRkxuUFNTTUkwTEJ6Z1pJekZpd0RfTGhIT2VLOHhDaTRVODVKTnN6b2JqcUs5M1MzcHZYbl9fbkJoRHVCNjloYmR3eEZpRnFvamw3b1E?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [La psicoterapia deja una huella biológica en la sangre: cambios moleculares al tratar la depresión](https://news.google.com/rss/articles/CBMivgFBVV95cUxORnRXY3hnbmNzbEdRWVJ1RjRNU1NKNDU5RExtUFBtaURUWEt2Z01jVTItdHlzV3pFUEJ6Rk1aUm1qbFlsU29YYVlwRVZKWW5lbmZmdkR2M2NaSURJTDR2SDBrLV9HT0wydHpZS29UXzRQNmNJVDNKd3ZWVllKN2ItbFlMTEtYa1J4V2xIVmtadVhqWDVfam1LcklpYTVxWFNtS3pBMkpYYnROekNOYllfV0xCOHNBcXFXdU1HZXh3?oc=5)
-
-2026-08-17 <span class="news-indication-tag">depresión</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxORnRXY3hnbmNzbEdRWVJ1RjRNU1NKNDU5RExtUFBtaURUWEt2Z01jVTItdHlzV3pFUEJ6Rk1aUm1qbFlsU29YYVlwRVZKWW5lbmZmdkR2M2NaSURJTDR2SDBrLV9HT0wydHpZS29UXzRQNmNJVDNKd3ZWVllKN2ItbFlMTEtYa1J4V2xIVmtadVhqWDVfam1LcklpYTVxWFNtS3pBMkpYYnROekNOYllfV0xCOHNBcXFXdU1HZXh3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

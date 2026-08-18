@@ -14,7 +14,7 @@ permalink: /news/filgotinib-maleate/
 ---
 
 <p class="key-answer" data-question="Filgotinib Maleate 有什麼相關新聞？">
-<strong>Filgotinib Maleate</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Filgotinib Maleate</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/filgotinib-maleate/
 <p><a href="{{ '/drugs/filgotinib-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（22 則）
+
+### [Una IA descubre dentro de los tumores las células que podrían estar detrás de las metástasis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMGlseGFmcGhOajhYeGNUWW41MW1DYTBCbk1NRzFNa1BoUHVPOFUtSWhOQnpWNy1lLTF6aml2ZmhkMURRSWphTzhfYUhvUFVQc2I2a0FYSHNNeEt3SXRTcldSaGM5Z0xrZ1RkZVBrcW51TU5KX0c3dlk4TGUzc2lQNFJQa2FKZllVZnVyanZwSnlpTFZELUtFTWh5eGVCMVFSd2R6bnBvS0N6NDRZSUhkMDJDRGdhamdSUXY2bFpXRnAyMG5Ja05IZkRCMWpKSjktSFpwZEpXUQ?oc=5)
+
+2026-08-18 <span class="news-indication-tag">tumor</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMGlseGFmcGhOajhYeGNUWW41MW1DYTBCbk1NRzFNa1BoUHVPOFUtSWhOQnpWNy1lLTF6aml2ZmhkMURRSWphTzhfYUhvUFVQc2I2a0FYSHNNeEt3SXRTcldSaGM5Z0xrZ1RkZVBrcW51TU5KX0c3dlk4TGUzc2lQNFJQa2FKZllVZnVyanZwSnlpTFZELUtFTWh5eGVCMVFSd2R6bnBvS0N6NDRZSUhkMDJDRGdhamdSUXY2bFpXRnAyMG5Ja05IZkRCMWpKSjktSFpwZEpXUQ?oc=5)
+
+---
 
 ### [Tumore, allenarsi durante le cure: cosa è successo a 2.570 pazienti](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1JLMjRuSnlSaGJtZDFKVGt2dWhhS1hmY2VKbzFXdzFPemU0OGdnMW1DS29uZmZnd3FIVUg0Ujk5aWNuSUVRRDRFd0dwbmxfRmxhTnB1VFd3UkxvUXhocHd3T1MyOEtHTTk2WFVwODI2bzVkeXlOQkVCQzA0dTFWT2hZYmh5bW1wRVBidHZjTnQ0dUFuTDc0UTBaWk9zR0xRRzZ4c0FrRm43XzVQd1NZUlp5THJIZlVwdVNmaGF2WXU2eTA?oc=5)
 
-2026-08-17 <span class="news-indication-tag">tumor</span>
+2026-08-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1JLMjRuSnlSaGJtZDFKVGt2dWhhS1hmY2VKbzFXdzFPemU0OGdnMW1DS29uZmZnd3FIVUg0Ujk5aWNuSUVRRDRFd0dwbmxfRmxhTnB1VFd3UkxvUXhocHd3T1MyOEtHTTk2WFVwODI2bzVkeXlOQkVCQzA0dTFWT2hZYmh5bW1wRVBidHZjTnQ0dUFuTDc0UTBaWk9zR0xRRzZ4c0FrRm43XzVQd1NZUlp5THJIZlVwdVNmaGF2WXU2eTA?oc=5)
 
@@ -64,9 +72,17 @@ permalink: /news/filgotinib-maleate/
 
 ### [Tumore della prostata, il “cuscinetto” che protegge il retto durante la radioterapia: un centimetro può fare la differenza](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOWt0ajNDUTE0VW1kLWNEYlI1ZWVEVFcyNm41NkxWck9kMG1seWhwam8zU2dSckstZW1FcERLVVhXOXpzVW11TWFTd0JUV0sta2MtWVoxZW91STR5aWRvZkR0OVRleGsxeEJETFloaUZOcVVFMGVvWXVjcnY4T0FmQThGQ2JoTUtGbWI5Uk43RS1vTjI4RlowWXBzOHpxTFlwcFdiemthdElkTkdXOHItaHRiX1lNLXB6a085dkwyVnV5UUxSUzJLOFhFLUdYZmdRTzc1NnNScGRHcFViMkdiVnY5Wlp0Z3VXUVpLMjdLNC1xYmttTE5KeQ?oc=5)
 
-2026-08-17 <span class="news-indication-tag">tumor</span>
+2026-08-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOWt0ajNDUTE0VW1kLWNEYlI1ZWVEVFcyNm41NkxWck9kMG1seWhwam8zU2dSckstZW1FcERLVVhXOXpzVW11TWFTd0JUV0sta2MtWVoxZW91STR5aWRvZkR0OVRleGsxeEJETFloaUZOcVVFMGVvWXVjcnY4T0FmQThGQ2JoTUtGbWI5Uk43RS1vTjI4RlowWXBzOHpxTFlwcFdiemthdElkTkdXOHItaHRiX1lNLXB6a085dkwyVnV5UUxSUzJLOFhFLUdYZmdRTzc1NnNScGRHcFViMkdiVnY5Wlp0Z3VXUVpLMjdLNC1xYmttTE5KeQ?oc=5)
+
+---
+
+### [Welche Rolle spielt die Psyche bei Krebs? - Die Furche](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWllc084WFFPWmExaXJDUUdrUVRGLVNkcTd5VXhmYU1Qa0UxZUs2X1MteFdRbnhZakx4Um03bWhTV3poSDlDc3lHZTNhSlUwemoxX3R5Q0EtRjR3aHZkem5WeHhPVmxyYVRhd3BySVZjMkxhVVFzbU1Lc2lORHBYR0RvV3Q?oc=5)
+
+2026-08-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[Die Furche](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWllc084WFFPWmExaXJDUUdrUVRGLVNkcTd5VXhmYU1Qa0UxZUs2X1MteFdRbnhZakx4Um03bWhTV3poSDlDc3lHZTNhSlUwemoxX3R5Q0EtRjR3aHZkem5WeHhPVmxyYVRhd3BySVZjMkxhVVFzbU1Lc2lORHBYR0RvV3Q?oc=5)
 
 ---
 
@@ -82,7 +98,7 @@ permalink: /news/filgotinib-maleate/
 
 2026-08-17 <span class="news-indication-tag">cancer</span>
 
-來源：[i24news.tv](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQzBCTWV1NDlXNmJVaXBVcWxsNHIyZWZLU1NMX2xSYVBpUllJc1dOUkNLZkVxSXp4Nm0yZzFBdU1scnZiSG1oYmVsNGJhSG0wTXhscndIVlVwMGJFNUpYWW13NzdhdllIWklKcHVxSTlTTGcyZl9HQWFLQzF4dnVXeGlCVmNBVGd1aWxOdGl0MWhPOEpaWHdxNDRTRlhmdjk4bmZKYWNTaVNTb3FzcHhvaDZSWWx0U3d0dTZHd1lENFRfeG8zSzJBWXVibU1ERzdN?oc=5)
+來源：[i24NEWS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQzBCTWV1NDlXNmJVaXBVcWxsNHIyZWZLU1NMX2xSYVBpUllJc1dOUkNLZkVxSXp4Nm0yZzFBdU1scnZiSG1oYmVsNGJhSG0wTXhscndIVlVwMGJFNUpYWW13NzdhdllIWklKcHVxSTlTTGcyZl9HQWFLQzF4dnVXeGlCVmNBVGd1aWxOdGl0MWhPOEpaWHdxNDRTRlhmdjk4bmZKYWNTaVNTb3FzcHhvaDZSWWx0U3d0dTZHd1lENFRfeG8zSzJBWXVibU1ERzdN?oc=5)
 
 ---
 
@@ -94,19 +110,11 @@ permalink: /news/filgotinib-maleate/
 
 ---
 
-### [Scrapping men’s right to prostate cancer tests ‘will cost lives’](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
+### [Scrapping men’s right to prostate cancer tests ‘will cost lives’ - The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
 
-2026-08-17 <span class="news-indication-tag">cancer</span>
+2026-08-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
-
----
-
-### [Job With Highest Risk of Radiation Cancer Revealed Out of Over 500 Occupations](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RyWk05R0w2MVUtZjVKX0duMDhlNXZFM0RxZXJaRjhOLUFrZUZzZVd4a0Y1YmpmU1NsTXVncjNMdTRIcVN1YV9BcHctWUdETjRDUXR4YmhOTXdFMDNNNjJJSTd5bDZ1aWEzSUc3Q2tNaTNvVzZkTmVnYmNUUW5tMFZJOHRnN3hjekR2ODJSYlZFMHlKTTRNd09LckhOc0I1cjlxNVBtdG14bjQ?oc=5)
-
-2026-08-17 <span class="news-indication-tag">cancer</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RyWk05R0w2MVUtZjVKX0duMDhlNXZFM0RxZXJaRjhOLUFrZUZzZVd4a0Y1YmpmU1NsTXVncjNMdTRIcVN1YV9BcHctWUdETjRDUXR4YmhOTXdFMDNNNjJJSTd5bDZ1aWEzSUc3Q2tNaTNvVzZkTmVnYmNUUW5tMFZJOHRnN3hjekR2ODJSYlZFMHlKTTRNd09LckhOc0I1cjlxNVBtdG14bjQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUtnY0ZLVl9YZjA2eWRXWTIxeVNjemRKLWRtUzhxOGxxc0dxVDZSNUpJbVM3ZTFSM05vTEx2SkxYczVzbE5wb1Y1WjV6MV9BNDZMSjd0T3RZRS0xY1RsdGdoZGh4eUhfdzlJR2JwWWwxajZXNnZnZUVpOTZmOTNtcTUxcU8tcTNfa1k2YlVyMUs?oc=5)
 
 ---
 
@@ -114,7 +122,7 @@ permalink: /news/filgotinib-maleate/
 
 2026-08-17 <span class="news-indication-tag">Krebs</span>
 
-來源：[pressetext.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5lV29yclFNOUxaXzU2OUFsRzA2UVRXN1V4OVNNT09JdDR0dnF5eDJacHFiMGZpV3BoVkVwR0hlREprZUYyS3RnZ2lCWjYtOWJ5RmhMcUVuV1hMLVZZcmw3UjBXVmlQTVA1al9SYmk0OFRkS2M0QmM4Mk96dDFsM2s?oc=5)
+來源：[pressetext](https://news.google.com/rss/articles/CBMif0FVX3lxTE5lV29yclFNOUxaXzU2OUFsRzA2UVRXN1V4OVNNT09JdDR0dnF5eDJacHFiMGZpV3BoVkVwR0hlREprZUYyS3RnZ2lCWjYtOWJ5RmhMcUVuV1hMLVZZcmw3UjBXVmlQTVA1al9SYmk0OFRkS2M0QmM4Mk96dDFsM2s?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/filgotinib-maleate/
 2026-08-17 <span class="news-indication-tag">carcinoma</span>
 
 來源：[Univadis](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMHBNQnBwd2lKc2EyTTF1bkYwSnIyMkp1YnBhTE5PU0pJTXZrcVR1dHlPUEZXaDJEZVpCdlMtU2U5WjQyVEs1LUtrRTdNT3c5Qm5feEstdy1hdjNQNmx3cFNlTzQ0eUE4OGwyNlU0YzdhZ3NfaV9oeWYya1UzXy1zQ1ZBRXVkMDJwMUxQUEZtQy1zbGlhVlQxUkQ3cjUtb3d5RTI5bnQ0NnZ0ZlRxZE5naEoxZGVEaU5SR000UjZVbVNDeDljWDEyelBINnhuWG1kZ0lCdjE1VzVCNkhybU1RWG44aFY?oc=5)
-
----
-
-### [Patients receive ‘historic’ pill for deadly pancreatic cancer - The Boston Globe](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVJHQW9EQWVKd2FBTWtVRS1rTkF1Z2FsWDRjRFN1ZTNZUmJkYkJXVnRBbk93Ry15SUptcWJKWmo2eTZsSFZ3OUtGSDhRSXdMdHoyVjN6eEhpcExGenN6TVRXOGRaWUFxYzItY3lkM1JLZlZVd0lsQ3dRdjNwaHZ1MUljdDMxN3o0RVY5ak8wVQ?oc=5)
-
-2026-08-17 <span class="news-indication-tag">cancer</span>
-
-來源：[The Boston Globe](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVJHQW9EQWVKd2FBTWtVRS1rTkF1Z2FsWDRjRFN1ZTNZUmJkYkJXVnRBbk93Ry15SUptcWJKWmo2eTZsSFZ3OUtGSDhRSXdMdHoyVjN6eEhpcExGenN6TVRXOGRaWUFxYzItY3lkM1JLZlZVd0lsQ3dRdjNwaHZ1MUljdDMxN3o0RVY5ak8wVQ?oc=5)
 
 ---
 
@@ -150,6 +150,14 @@ permalink: /news/filgotinib-maleate/
 
 ---
 
+### [Curcumin-Berberin-Kombination gegen Alzheimer & Krebs?](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXllNElBcTc0RTJ0amZsZ2FrR2JIeU9MWHJIODJvd1hvYmYzWTgwUEt5SG9mNzdrSngxT2ExeUJycmhlN2tBU3NFUnIzb1Bjb2Q2b1FLZ1B1UEtLZm5YcDVhbzhGLWVKU1BFYnVfRUVrN29iNWJrMHNXR0VfRTA0WHFYQV8zUmVyMFh2STU2RGJ0T01tVExOSUZzV3FZcEl2aXZKeFRZVkxudXlLbVJRN244Z0xSTnBRd29VLVlmRXMxSWxF?oc=5)
+
+2026-08-17 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXllNElBcTc0RTJ0amZsZ2FrR2JIeU9MWHJIODJvd1hvYmYzWTgwUEt5SG9mNzdrSngxT2ExeUJycmhlN2tBU3NFUnIzb1Bjb2Q2b1FLZ1B1UEtLZm5YcDVhbzhGLWVKU1BFYnVfRUVrN29iNWJrMHNXR0VfRTA0WHFYQV8zUmVyMFh2STU2RGJ0T01tVExOSUZzV3FZcEl2aXZKeFRZVkxudXlLbVJRN244Z0xSTnBRd29VLVlmRXMxSWxF?oc=5)
+
+---
+
 ### [Leucemia, perché alcune cellule sopravvivono anche quando si spegne il gene che alimenta il tumore?](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVVlVcUpTZXpMbGRaUmFXZEk4OWNXeTFsZnpyeTBRclBaLWhERk5OSVhTWFJOcU5HWnQwSmRXRWxMNFBoVkkwOEY0RjFHaExTRVV3aHlSQzY4aGswbDF3UkItSXgwX3lRM1hPdVppMzdqSFBJeXFVcnozNU42aXpKNEJkSzhTdGFNV1V6UThSNm9mXzdsRG1BX0g4cXNZVVJjNTZOTmZtT1QxVGZsZW8zb3djU0lCemhsZjNrZ3dNWG9uQkpUeDZHck13ZThXdElFZ1dldTJFY2JFTFdYcHJ1TXVBMVlFM0xHZDNONlJn?oc=5)
 
 2026-08-17 <span class="news-indication-tag">tumor</span>
@@ -166,6 +174,14 @@ permalink: /news/filgotinib-maleate/
 
 ---
 
+### [El cáncer de ovario, el tumor que pasa desapercibido hasta que está en fase avanzada - EL PAÍS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUdhdkhETW9hOHlScW02LWxzS056T2lWVkczZmI3VGlQMmlzX2FCb0ZnUzJnLWwxa2VYZkNTbll0c2otV2UxSGVoV0pVX3NZTG5tN0N5UW1sV3NHOWNCREdmaTdFY053eFBRdG9HTHBFUFcxVExVU3BBQWV6cUZleS1uUEpZbGpETDBHMFI0MlhxcmtkbEplMGdQalZCMUFsZV8yYUxKNzdPQUl6MG02MUszbUVudUkyMWN2SEpkYlh4T1U?oc=5)
+
+2026-08-17 <span class="news-indication-tag">tumor</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUdhdkhETW9hOHlScW02LWxzS056T2lWVkczZmI3VGlQMmlzX2FCb0ZnUzJnLWwxa2VYZkNTbll0c2otV2UxSGVoV0pVX3NZTG5tN0N5UW1sV3NHOWNCREdmaTdFY053eFBRdG9HTHBFUFcxVExVU3BBQWV6cUZleS1uUEpZbGpETDBHMFI0MlhxcmtkbEplMGdQalZCMUFsZV8yYUxKNzdPQUl6MG02MUszbUVudUkyMWN2SEpkYlh4T1U?oc=5)
+
+---
+
 ### [Cancer du poumon : à Toulouse, des chercheurs traquent les cellules résistantes aux traitements pour éviter les rechutes](https://news.google.com/rss/articles/CBMiggJBVV95cUxNdzJxdHIwOUo5bHc4eXJWQWw1c3NGVGtUZ0tqaWt1REdpa2p4NkRkTU5SZHNCbHktc1oySGF3QWwwckFSdnlVb2lVV1N3TVIxcm91ZFM5a0lKZVBZa0dleGQtVUtDNjc0VUdtZkczYzRTYkFQMGFUNFZnM25haXJMbVhzaGJSYmpzcWgyN1c3M2hZUm9UeTNSUDItcVNNV3lGTUp1MFd5bEttbFZ1TktyUnpWTi1iZExjU2FqOExDWDA1NGViTWZxbmZYbkhBS3JlSjdZQVV3TWdOekw5V0k4VHN4UTFLdUpEX1ZseUZwNHA0cGVMcVY1RWNQMngxeldWZnc?oc=5)
 
 2026-08-17 <span class="news-indication-tag">cancer</span>
@@ -179,22 +195,6 @@ permalink: /news/filgotinib-maleate/
 2026-08-17 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMijAJBVV95cUxPR1Z0WXlzT2k4Z1FzdU5ucENvb3I5YmFPX0JyeDNjeWk5V2g2a2paZ3BoZ2wwMU9XVGFVWmROQVBoWjlpWGhrM25ENFJYcUExakVwUV9BcmVlVmlhMHdrUGRQMFhWYTRkSERuNEFQUTgxT3hEWkJ6TDdOOW91bWFGZEplVldJcTBqX1dTb2U3Z0wzdHhtUFVyX1otXzdLSVRTWGZJdVBWN2ZsdkYxVlIxWUxYWWRSSXFRVjkzcFJaWkhXY3dieTd4WjhvWE1OSFZEWHg2Ql83T21XX1dVMUZUR1ZJYXpLSXJiUFpfSlk2ckNmNDN3dXF2Y0pfU25tR041WDR6endjVmVtc1BR?oc=5)
-
----
-
-### [Fears of cancer care delays as ‘quarter of GP referrals rejected’ - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
-
-2026-08-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFyR3ZoeEdOemhoZ3hNYnEwVUg1amllZkpjQVNuN2dHYnhEa200ODl3bVRweUdaSlcwOGRFYmtfMGdjb0FaWkk1ZTh0YWEzTUFoa3ppTF9KU0psaDZ3QVUwakpnb2owWkt3dzlUUG1keUo0UGNLblYxN2dzZmJRTy10VGhDaWI4UWdsVDFLbW5yemZKc3RMcmRwNEFkUzV4djBRRVNIRmcwQTh0aFJOb251OXRnSnNoZ1Q3RA?oc=5)
-
----
-
-### [Vitamina B12 bassa, il problema può nascere nello stomaco: il filo che porta dall’omocisteina al cuore e ai tumori](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbHhMZXVQWnBzNEg1aHcyb240S2EwNUFrU2dGRXEtTU5mR1Q1QmNZT0tyQ1gzT1pWQklFdEQ3dUw1T3JKYTlDUVpyUkdmUXM4TlZKQUdtM0FsVlZtZ2U4cEVrM3ZIcTNLaV94VEFjY25OcGxFVzRZVWVLZndTOWw3NkxQUktubFFCNHdUOVNDOGtvNC16MGlmeFo1d05vcUQ5SVlZTXVtb2Fra0hMMkpHVWQ4VlFEeUNqdUxOUHc4MFd4a3daTFFFTkFvT1dhcEU0TG5TV1B1ZWh4SWR6a1p5S1ZRM3hvRDFTeFVEZS16OTJEMWtZ?oc=5)
-
-2026-08-16 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbHhMZXVQWnBzNEg1aHcyb240S2EwNUFrU2dGRXEtTU5mR1Q1QmNZT0tyQ1gzT1pWQklFdEQ3dUw1T3JKYTlDUVpyUkdmUXM4TlZKQUdtM0FsVlZtZ2U4cEVrM3ZIcTNLaV94VEFjY25OcGxFVzRZVWVLZndTOWw3NkxQUktubFFCNHdUOVNDOGtvNC16MGlmeFo1d05vcUQ5SVlZTXVtb2Fra0hMMkpHVWQ4VlFEeUNqdUxOUHc4MFd4a3daTFFFTkFvT1dhcEU0TG5TV1B1ZWh4SWR6a1p5S1ZRM3hvRDFTeFVEZS16OTJEMWtZ?oc=5)
 
 ---
 
@@ -227,22 +227,6 @@ permalink: /news/filgotinib-maleate/
 2026-08-16 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORFV4cGdTWXdOSFVqZmV6cWhtUERhUV9vd2xMM2xxTjJJYTRuaUdaZm1sOVYtVTZjRm9sOUI2UVZzdlBuSU9qRXUycXYwdnhNaDIydHNOdkNJQXd4amtRWHgwY1dTNWZKNFFFc29tTE5QaTVnVk5TSURvNFdCSlplcUtrRHpmMlBjci1wdU4wLThmdGh1VzBJX2w0V1BjZllyc1BVTnZhMmNteHZFUW1UcHZKVjh6cVp3bk5xbzlOV0NGVVJVcXZnYWYxZ3c1Q2FUOUVCTDJn?oc=5)
-
----
-
-### [Tumore del pancreas, dalla malaria una nuova arma contro le cellule tumorali](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjZzalNhR1lycVc3Wnc1WU1fcmZzVFNqSktVUFBxbFc0TUtEamZKbURLUGdCbUJaZEZvYjAxbUx0SktoZ0RZRXJxZWYzQ21WQ1ZxQWpraENSaWtjTDVCVzJfMXFWSHFUU0plalBTS1YxaGZVTnVlQW5KYnNxcTVFYWxNVzJOSHFlTVJaX3B1WlhacFMwNklnWkg4aEkxcE91ZWd5WXhRcmFFZm13ZVBDdVUxMHV1VVNGMXFJV18zNGVGdm5wYWhQNTBLOG1YQk95?oc=5)
-
-2026-08-16 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjZzalNhR1lycVc3Wnc1WU1fcmZzVFNqSktVUFBxbFc0TUtEamZKbURLUGdCbUJaZEZvYjAxbUx0SktoZ0RZRXJxZWYzQ21WQ1ZxQWpraENSaWtjTDVCVzJfMXFWSHFUU0plalBTS1YxaGZVTnVlQW5KYnNxcTVFYWxNVzJOSHFlTVJaX3B1WlhacFMwNklnWkg4aEkxcE91ZWd5WXhRcmFFZm13ZVBDdVUxMHV1VVNGMXFJV18zNGVGdm5wYWhQNTBLOG1YQk95?oc=5)
-
----
-
-### [Alzheimer-Prävention: Curcumin und Berberin zeigen synergistische Effekte - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDBxMWE5cFdiN2pyRVdJbHJuMGNuRXR4VFA0a3pxZ1NseTh3YjJlUGFmLTNHVEppRXhiZlh5NWEtWE1ROXRuNmdvQ0NCcktqWmtOeXZuMENvSHJ6dEI1X2EwRUFPVXdtZF92Tm1MUC1uWklfRVZldVg0Mnh1b0tTQ2xpMmN4S2lxeG5ia3drcXZiYjUyZGxuWEU3U284LVFvdUIwZEp4VFhuSWlSR0VOS1JpaVRfeDhZLW5rUmo3SQ?oc=5)
-
-2026-08-16 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDBxMWE5cFdiN2pyRVdJbHJuMGNuRXR4VFA0a3pxZ1NseTh3YjJlUGFmLTNHVEppRXhiZlh5NWEtWE1ROXRuNmdvQ0NCcktqWmtOeXZuMENvSHJ6dEI1X2EwRUFPVXdtZF92Tm1MUC1uWklfRVZldVg0Mnh1b0tTQ2xpMmN4S2lxeG5ia3drcXZiYjUyZGxuWEU3U284LVFvdUIwZEp4VFhuSWlSR0VOS1JpaVRfeDhZLW5rUmo3SQ?oc=5)
 
 ---
 
