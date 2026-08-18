@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,13 +39,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Eier und Lebergesundheit: Warum es auf Stoffwechsel und Gesamtdiät ankommt - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUW5jSFlIRTNwYW51YmxhRlZBQVlmRkRLVnpLLW1OcXAzOC1mZ29aRDZCeHVPZTRLOTBLU3pJVWdNYndHRGVVczVzSXJEUlpWNEo1Nl9lU1k4MTRkN2w1RE9DQ2FDUVZrWFZpeTBJcmtoUGwxNDBFS2JpQ25hQ2tldEZHV0F2dFh3NGZOSG43aDhNYzVqNUZJTHhzZ1FNUTZKNV9OSktrZEdDQQ?oc=5)
+### [El perímetro de cintura, una forma sencilla y eficaz de detectar riesgos asociados a la obesidad](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
 
-2026-08-17
+2026-08-18
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUW5jSFlIRTNwYW51YmxhRlZBQVlmRkRLVnpLLW1OcXAzOC1mZ29aRDZCeHVPZTRLOTBLU3pJVWdNYndHRGVVczVzSXJEUlpWNEo1Nl9lU1k4MTRkN2w1RE9DQ2FDUVZrWFZpeTBJcmtoUGwxNDBFS2JpQ25hQ2tldEZHV0F2dFh3NGZOSG43aDhNYzVqNUZJTHhzZ1FNUTZKNV9OSktrZEdDQQ?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
+
+---
+
+### [Hirnblutung: Intensive Blutdrucksenkung verringert Risiko für erneuten Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
+
+2026-08-18
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
 
 ---
 

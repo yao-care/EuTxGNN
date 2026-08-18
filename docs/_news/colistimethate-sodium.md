@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Symptome bei Bluthochdruck: Arzt erklärt wichtige Warnsignale in der Nacht - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
+
+2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
+
+---
+
+### [Bluthochdruck: Kalium verstärkt Salzreduktion signifikant - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVKcW5vaklLSk9kTjNTaHI2QjJXOUVZWjRXWlRWei02U0drMFJ0YTJOTWVMN2tpQm1MZkd4RDUtSm1BdVVlUXZ0Qnl3YUxwR2d6YkFZempFaDhyb3YzSUpBdTN2ekZVX0ppeGhteWFBYlY0V0tEZ01MWjlRN2dGM3ZmUGRhUzUwakZUX01tSmJGdTlBRjlSUWcxVXlDMnNxSGVoWTN6ajZCQQ?oc=5)
+
+2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVKcW5vaklLSk9kTjNTaHI2QjJXOUVZWjRXWlRWei02U0drMFJ0YTJOTWVMN2tpQm1MZkd4RDUtSm1BdVVlUXZ0Qnl3YUxwR2d6YkFZempFaDhyb3YzSUpBdTN2ekZVX0ppeGhteWFBYlY0V0tEZ01MWjlRN2dGM3ZmUGRhUzUwakZUX01tSmJGdTlBRjlSUWcxVXlDMnNxSGVoWTN6ajZCQQ?oc=5)
+
+---
 
 ### [Bluthochdruck-Vorsorge: Neuer Index zeigt 116% höheres Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/colistimethate-sodium/
 2026-08-17 <span class="news-indication-tag">arthritis</span>
 
 來源：[Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
-
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
 
 ---
 

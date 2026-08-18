@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthma</span></li>
+<li>asthma（99.9%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -54,11 +54,11 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（1 則）
 
-### [Vitamine bei Asthma: Wie Dosierung zwischen Nutzen und Risiko entscheidet - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
+### [Cette IA est capable d'élaborer des virus qui n'existent pas dans la nature ! Faut-il réellement s'inquiéter ?](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
 
-2026-08-18 <span class="news-indication-tag">asthma</span>
+2026-08-18 <span class="news-indication-tag">EPOC</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
+來源：[sciencepost.fr](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
 
 ---
 

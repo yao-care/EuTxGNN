@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,45 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [El perímetro de cintura, una forma sencilla y eficaz de detectar riesgos asociados a la obesidad](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
+
+2026-08-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
+
+---
+
+### [Symptome bei Bluthochdruck: Arzt erklärt wichtige Warnsignale in der Nacht - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
+
+2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
+
+---
+
+### [Hirnblutung: Intensive Blutdrucksenkung verringert Risiko für erneuten Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
+
+2026-08-18 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
+
+---
+
+### [Bluthochdruck: Kalium verstärkt Salzreduktion signifikant - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVKcW5vaklLSk9kTjNTaHI2QjJXOUVZWjRXWlRWei02U0drMFJ0YTJOTWVMN2tpQm1MZkd4RDUtSm1BdVVlUXZ0Qnl3YUxwR2d6YkFZempFaDhyb3YzSUpBdTN2ekZVX0ppeGhteWFBYlY0V0tEZ01MWjlRN2dGM3ZmUGRhUzUwakZUX01tSmJGdTlBRjlSUWcxVXlDMnNxSGVoWTN6ajZCQQ?oc=5)
+
+2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVKcW5vaklLSk9kTjNTaHI2QjJXOUVZWjRXWlRWei02U0drMFJ0YTJOTWVMN2tpQm1MZkd4RDUtSm1BdVVlUXZ0Qnl3YUxwR2d6YkFZempFaDhyb3YzSUpBdTN2ekZVX0ppeGhteWFBYlY0V0tEZ01MWjlRN2dGM3ZmUGRhUzUwakZUX01tSmJGdTlBRjlSUWcxVXlDMnNxSGVoWTN6ajZCQQ?oc=5)
+
+---
 
 ### [Bluthochdruck-Vorsorge: Neuer Index zeigt 116% höheres Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
 
 2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
-
----
-
-### [Eier und Lebergesundheit: Warum es auf Stoffwechsel und Gesamtdiät ankommt - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUW5jSFlIRTNwYW51YmxhRlZBQVlmRkRLVnpLLW1OcXAzOC1mZ29aRDZCeHVPZTRLOTBLU3pJVWdNYndHRGVVczVzSXJEUlpWNEo1Nl9lU1k4MTRkN2w1RE9DQ2FDUVZrWFZpeTBJcmtoUGwxNDBFS2JpQ25hQ2tldEZHV0F2dFh3NGZOSG43aDhNYzVqNUZJTHhzZ1FNUTZKNV9OSktrZEdDQQ?oc=5)
-
-2026-08-17 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUW5jSFlIRTNwYW51YmxhRlZBQVlmRkRLVnpLLW1OcXAzOC1mZ29aRDZCeHVPZTRLOTBLU3pJVWdNYndHRGVVczVzSXJEUlpWNEo1Nl9lU1k4MTRkN2w1RE9DQ2FDUVZrWFZpeTBJcmtoUGwxNDBFS2JpQ25hQ2tldEZHV0F2dFh3NGZOSG43aDhNYzVqNUZJTHhzZ1FNUTZKNV9OSktrZEdDQQ?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
-
-2026-08-16 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTIzSjQ1LXBOX1VXZlFfYXM1LVZRcmFiZFJESHJwVk5FV1BoZHlQZ3hhNmpaMHhXdzNRTHdkSnBPSF83MWNBX3VBUmVSeHZETHpKVVIzR2RYbXZPU2JvQzF2TnlxeURKeEFwV21pWTQ1LUNnUktqT0EtcXJjamVJWVBoX1J4blRYenNPdkt0NXp5aFhnUG42aW9NSVh6X0ZsbGl2N0RaVkpnMWRKRDVJbzloRXFWTjBjZVVJdm5kYmJINjBHSW42WGp6Y3Q?oc=5)
-
----
-
-### [Warning issued over popular medication taken by 8m in UK - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
-
-2026-08-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1SVE9hcFp1enlKRVBqaVg3VHZjdzdWeWRuajlFYllUNkhkSElObGk4YzJWc2lydU50ZGdYSmVKTE5nY0hHTWpZakE2TmZkOTBkVlJtTDVXMmNacnJUWVBqbFUtRVY1X2xockpnRzlJd2N6WmE0REpF0gF8QVVfeXFMT1FvVzhOaVVOMTdXckxxMjhRMDBYY3BuNDd4NUIzcWFHZjNxcm1KY3NBR1hYWGtfdGV3SHVsTE1oYmM3MlNuVTlraE53U2N5RE0zNkYzZjR6Ym5ZM2pfalZ3WlVnRFlSWm0zcHNYM2pKdmlCYm05YlVtemRtNg?oc=5)
 
 ---
 

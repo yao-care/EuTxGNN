@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
+
+### [El perímetro de cintura, una forma sencilla y eficaz de detectar riesgos asociados a la obesidad](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
+
+2026-08-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
+
+---
+
+### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+
+2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[DW.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+
+---
+
+### ["Una de las asignaturas pendientes en España es la falta de reconocimiento de la obesidad como una enfermedad" - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOckRUQ2JEOFQ1cld6b1ZRS3lXcVhsdU1BVExSM21vTkhadHN6ekJySWh4Z3dWVzROSEZtQlNadUdPMWlGWk9zMHNlamh2WDItVC13cVZIOS1QRjRMdlMzcmRqTGNMMWNlRDdwNGZUUkh6Qnh0bEZtX0ZGSVF1QzFBbGdJWUdycHpmT29QcUtxTG9NRlE2akZWUUlhQjM3QWJ0X05IVExOdWtDazVDQmVXVzVPenZNRnVTQTF2U0t30gG4AUFVX3lxTFBVME0wLWtOaEZxemJBNTdHZzB5MmptakpORGFJYklsNm1BRWd1bzhNWUgwYUpLcUR4ZFJuU2VkZXY4eE53c1FDa3JxczlLckp4dU9oRVBmUk9xb2FCU0dIVUdiXzlvNkkwZ25rUXNqbmFwZ2gyaTBBUTFSUEJadGJIRk9qbkgzUnVQaW5Ecmgyb1NVbXo2MF9lYzZjc0R3VHlITVkyXzlNSFhvTnpkUHBydzBDWDJMRWI?oc=5)
+
+2026-08-18 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOckRUQ2JEOFQ1cld6b1ZRS3lXcVhsdU1BVExSM21vTkhadHN6ekJySWh4Z3dWVzROSEZtQlNadUdPMWlGWk9zMHNlamh2WDItVC13cVZIOS1QRjRMdlMzcmRqTGNMMWNlRDdwNGZUUkh6Qnh0bEZtX0ZGSVF1QzFBbGdJWUdycHpmT29QcUtxTG9NRlE2akZWUUlhQjM3QWJ0X05IVExOdWtDazVDQmVXVzVPenZNRnVTQTF2U0t30gG4AUFVX3lxTFBVME0wLWtOaEZxemJBNTdHZzB5MmptakpORGFJYklsNm1BRWd1bzhNWUgwYUpLcUR4ZFJuU2VkZXY4eE53c1FDa3JxczlLckp4dU9oRVBmUk9xb2FCU0dIVUdiXzlvNkkwZ25rUXNqbmFwZ2gyaTBBUTFSUEJadGJIRk9qbkgzUnVQaW5Ecmgyb1NVbXo2MF9lYzZjc0R3VHlITVkyXzlNSFhvTnpkUHBydzBDWDJMRWI?oc=5)
+
+---
 
 ### [Un adulte sur deux obèse : la Polynésie française tente d'enrayer le phénomène - Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
 

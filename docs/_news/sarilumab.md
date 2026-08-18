@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Vitamine bei Asthma: Wie Dosierung zwischen Nutzen und Risiko entscheidet - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
+### [Scheinfasten: 69% Besserung bei Morbus Crohn erreicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3JEa2g3TWdScWxGX3owaksxRHFVQmtoYmZRV3JmWDBDTmlxXzhqOGllWEVUSFZLVHgyVi04VG9qUzhKU3pqYXFPVFJWWFRZRkFjZi1QUjhYMGU0WGVBSVlscVBHUTNKTTlhZU9HNExSZFRZdU5LTEotS3dWSlJJOVJ3elRVZXltMUkwbm9XWXhwckhyaXliYW5WWnM0Nkd0TG1tUlo0NXJwRWRH?oc=5)
 
-2026-08-18 <span class="news-indication-tag">asthma</span>
+2026-08-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3JEa2g3TWdScWxGX3owaksxRHFVQmtoYmZRV3JmWDBDTmlxXzhqOGllWEVUSFZLVHgyVi04VG9qUzhKU3pqYXFPVFJWWFRZRkFjZi1QUjhYMGU0WGVBSVlscVBHUTNKTTlhZU9HNExSZFRZdU5LTEotS3dWSlJJOVJ3elRVZXltMUkwbm9XWXhwckhyaXliYW5WWnM0Nkd0TG1tUlo0NXJwRWRH?oc=5)
+
+---
+
+### [Cette IA est capable d'élaborer des virus qui n'existent pas dans la nature ! Faut-il réellement s'inquiéter ?](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
+
+2026-08-18 <span class="news-indication-tag">EPOC</span>
+
+來源：[sciencepost.fr](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
 
 ---
 

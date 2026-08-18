@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaU9rb2NlUGJoc3BJR1VmQWphSU51MlVmWGw3Nm1TWHZhR3BVckhUR043ZWpCQmt4eFN0dllJRWlxV1NUOTFkUHBFc2NOX3pQODlvdWQ0ZDdia0lNU01IQTc5Ql9DSE1RYlBBdi13RkJ2TDIxdHF1ZmZSeE9PaG9TMFdwMzU2ZUMwTFhoWW5pSzN2UVZsbjRsbEg0aE9MMkU?oc=5)
+
+2026-08-18 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaU9rb2NlUGJoc3BJR1VmQWphSU51MlVmWGw3Nm1TWHZhR3BVckhUR043ZWpCQmt4eFN0dllJRWlxV1NUOTFkUHBFc2NOX3pQODlvdWQ0ZDdia0lNU01IQTc5Ql9DSE1RYlBBdi13RkJ2TDIxdHF1ZmZSeE9PaG9TMFdwMzU2ZUMwTFhoWW5pSzN2UVZsbjRsbEg0aE9MMkU?oc=5)
+
+---
+
+### [Cette IA est capable d'élaborer des virus qui n'existent pas dans la nature ! Faut-il réellement s'inquiéter ?](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
+
+2026-08-18 <span class="news-indication-tag">EPOC</span>
+
+來源：[sciencepost.fr](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
+
+---
 
 
 <div class="disclaimer">
