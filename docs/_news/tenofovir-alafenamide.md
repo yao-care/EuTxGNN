@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir Alafenamide 有什麼相關新聞？">
-<strong>Tenofovir Alafenamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenofovir Alafenamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tenofovir-alafenamide/
 <p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Health plea for children as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
+### [Health plea for children as hepatitis A outbreak in Barry continues](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
 
 2026-08-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[Wales Online](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
-
----
-
-### [Pamela Anderson e l’epatite C: la malattia che per anni ha cambiato il suo rapporto con il futuro](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
-
-2026-08-17 <span class="news-indication-tag">epatite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
+來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
 
 ---
 

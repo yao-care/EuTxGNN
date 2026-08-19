@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs - Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 2026-08-18 <span class="news-indication-tag">arthritis</span>
 
 來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+
+---
+
+### [Studie: Katzenbesitz scheint Asthma bei Kindern nicht zu verschlimmern](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
+
+2026-08-17 <span class="news-indication-tag">asthma</span>
+
+來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
 
 ---
 

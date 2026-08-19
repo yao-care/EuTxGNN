@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Depressione, scoperto cosa succede nel cervello: perché alcuni neuroni si “spengono”](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZzVFbHRuaGQtWDhXd1R0bzc4a215T0J0VUJ4NG5RX1ByOFM2MDcteFQ2VjgtajVDMkh6ZUtlbm1ibGlLRjlhaVgzSFlBNWNoZGYwOGxDQjJOZFpVcUs2TUljbDh6cGQzVG9lRTd5aXFIdzJHYlRXeXp3dnZCaFJ5X0pPZTBlU3pkem1sTVhMUHFzMWJSNUdxM1RyZ1Y5VE1uLU13YnYyMkdGMGh4YlE3UjlqZmtGRHh5ajNsZ3hOam5EOE9QM1YtVW15N2d5SlkzWXZwZzVTbw?oc=5)
-
-2026-08-18 <span class="news-indication-tag">depression</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZzVFbHRuaGQtWDhXd1R0bzc4a215T0J0VUJ4NG5RX1ByOFM2MDcteFQ2VjgtajVDMkh6ZUtlbm1ibGlLRjlhaVgzSFlBNWNoZGYwOGxDQjJOZFpVcUs2TUljbDh6cGQzVG9lRTd5aXFIdzJHYlRXeXp3dnZCaFJ5X0pPZTBlU3pkem1sTVhMUHFzMWJSNUdxM1RyZ1Y5VE1uLU13YnYyMkdGMGh4YlE3UjlqZmtGRHh5ajNsZ3hOam5EOE9QM1YtVW15N2d5SlkzWXZwZzVTbw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

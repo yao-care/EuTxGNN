@@ -14,7 +14,7 @@ permalink: /news/voriconazole/
 ---
 
 <p class="key-answer" data-question="Voriconazole 有什麼相關新聞？">
-<strong>Voriconazole</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voriconazole</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/voriconazole/
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（22 則）
+
+### [Una enfermera de Lugo analiza la relación entre el cerebro y el intestino en los trastornos de ansiedad - La Voz de Galicia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2lEV1YwcWdPbGw5YnNSUVNwOWxXSEhYMjFZZF9PTER0YjZfclF1cnhJaWI0OHNJNVZ4aEYtZEJjaVFNUFR4My1JMTQtRWlkTUM4aTlKS3F5R2lqMVpiOG00N2hoU1hqaEhJd0stQnJnRWZidERZTjlPYXhjejdzTlBfdWQ0QXJ5T2sxaERnc1JOSERPYm9manZxRnlRdUxhMXNzVmhuRWFEUUlGWVhCdk1SLTQyTmF4VHhTb0ItQlg2MTBJZ0ttZEtpc2g0VkUtZHJuS2dEeHA5cWZLWjY0ZE5mbjV6Zw?oc=5)
+
+2026-08-19 <span class="news-indication-tag">AF</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2lEV1YwcWdPbGw5YnNSUVNwOWxXSEhYMjFZZF9PTER0YjZfclF1cnhJaWI0OHNJNVZ4aEYtZEJjaVFNUFR4My1JMTQtRWlkTUM4aTlKS3F5R2lqMVpiOG00N2hoU1hqaEhJd0stQnJnRWZidERZTjlPYXhjejdzTlBfdWQ0QXJ5T2sxaERnc1JOSERPYm9manZxRnlRdUxhMXNzVmhuRWFEUUlGWVhCdk1SLTQyTmF4VHhTb0ItQlg2MTBJZ0ttZEtpc2g0VkUtZHJuS2dEeHA5cWZLWjY0ZE5mbjV6Zw?oc=5)
+
+---
+
+### [One person dead and more than 200 ill in UK salmonella outbreak - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzFBcTZuQlFUem4zX3lyLXZiVGgybDJtSnh3VVMtLWdocVFoZ2dfb25zSUJmaC05ZVhwaTNHUlB2VHR5VlZuZV9CS2V5WklMcnh1T0hRUW9IdjNnTnF3eVlrQ1htOGhVYng4SGJQRW8yanFlQVJkaEJKMVdIQ2hjVFdBc2x5U2EzNHB3?oc=5)
+
+2026-08-19 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzFBcTZuQlFUem4zX3lyLXZiVGgybDJtSnh3VVMtLWdocVFoZ2dfb25zSUJmaC05ZVhwaTNHUlB2VHR5VlZuZV9CS2V5WklMcnh1T0hRUW9IdjNnTnF3eVlrQ1htOGhVYng4SGJQRW8yanFlQVJkaEJKMVdIQ2hjVFdBc2x5U2EzNHB3?oc=5)
+
+---
+
+### [Deaf patient given wrong jab due to sign language error, report says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE82bDR1ZWs4ajVWVnpwOFJGQ1IxcWlnNDJxUjhFZUNyeHVZeFZLRGFHQkdlaTRoNllpN3VSU2JXVGdOY0VXLXNzX0NuWVhIa3R4eHBldmlycy1ZbHU2?oc=5)
+
+2026-08-19 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE82bDR1ZWs4ajVWVnpwOFJGQ1IxcWlnNDJxUjhFZUNyeHVZeFZLRGFHQkdlaTRoNllpN3VSU2JXVGdOY0VXLXNzX0NuWVhIa3R4eHBldmlycy1ZbHU2?oc=5)
+
+---
+
+### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+
+2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[dw.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+
+---
 
 ### [Eine Coronainfektion kann elf schlummernde Viren im Körper wecken](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
 
@@ -67,14 +99,6 @@ permalink: /news/voriconazole/
 2026-08-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
-
----
-
-### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
-
-2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[DW.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
 
 ---
 
@@ -102,14 +126,6 @@ permalink: /news/voriconazole/
 
 ---
 
-### [One dead and hundreds ill in UK salmonella outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5)
-
-2026-08-18 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5)
-
----
-
 ### [Heart doctor avoids five things at all costs after doing 8,000 operations](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
 
 2026-08-18 <span class="news-indication-tag">AF</span>
@@ -131,6 +147,30 @@ permalink: /news/voriconazole/
 2026-08-18 <span class="news-indication-tag">AF</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMkNweWx1OEwtaEE0VFBaZHRISWlVWGxOa2JORzJMQUJiUldSQlNybmZuem1XS0dvekxHcDBLR0gyMjFoODFIN1hkLUxjMV9ZSjJ6QWZ4bWpPYTQyNXdqMml5M1dIQ0UzYm1ESkJYajBoVDhWRjNUeGxDcjB2dkcweUUxUm5GTGNXQmhtSkpsRDRsVDhwR21rc3NkbnZPai15UWpWTGF1YXB1bXlaUnBYZWJOOTRwZER5UG5CWUEzUElQVFR0LVRiTWpBbHVkaHlrYXg0ZFpvc2ZRcUEtc0g3WGxLUjR3eTRxUXc?oc=5)
+
+---
+
+### [Vacanze, dopo quanti giorni fanno davvero bene? La scienza individua il picco del benessere](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXZ5cl9yR20yRkNNdUxSanlhMEY4Z0hkYTlCdWJ2eVlUSjRmUnBMRmRWeHFTcHdnVjZFX1lNVFMwU2VCbGo1NmlnN0JneUJiYVpabG5KZDhRQWhhTEJ2ajdTb1o3ZlBxc244b250elEteFV2elVMTDR3b2tUMml6YVZ2T2ktXy1tNExpdGxIczRUZ3ViMWVFZXNldFNuU1ZuTDdyaTZ1WXUybUd0clAyemdldUFPblMwbjE4R2pQcUVwRmRvZU1fOTd3SGNqbDJRSzJLV0tkVQ?oc=5)
+
+2026-08-18 <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXZ5cl9yR20yRkNNdUxSanlhMEY4Z0hkYTlCdWJ2eVlUSjRmUnBMRmRWeHFTcHdnVjZFX1lNVFMwU2VCbGo1NmlnN0JneUJiYVpabG5KZDhRQWhhTEJ2ajdTb1o3ZlBxc244b250elEteFV2elVMTDR3b2tUMml6YVZ2T2ktXy1tNExpdGxIczRUZ3ViMWVFZXNldFNuU1ZuTDdyaTZ1WXUybUd0clAyemdldUFPblMwbjE4R2pQcUVwRmRvZU1fOTd3SGNqbDJRSzJLV0tkVQ?oc=5)
+
+---
+
+### ['I was diagnosed with cancer at 21 - now I face an £8,000 bill to become a mum' - STV News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNRQmZiNlNGeE9IREVkYnowdjB4MHFoc1BDLTk5cTlKSlVGNlBFeE5hZHljX0JrWVJMYnE4d0ZRWjhzcnh5M3B6ZnhoX3ZuOEZKZ0lnbEdsa2xTRkR5bzYyNGdsYTc0YjZTZUkxcXZMdmxtTzZpNXBmd1RnV0RMSzZrNjVWcWZjaEZLcGRXcTlKbjJZcHRodlBTdzNZTnJMeWRneHNuQWdpUk5oZU84THgwY2hCQQ?oc=5)
+
+2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNRQmZiNlNGeE9IREVkYnowdjB4MHFoc1BDLTk5cTlKSlVGNlBFeE5hZHljX0JrWVJMYnE4d0ZRWjhzcnh5M3B6ZnhoX3ZuOEZKZ0lnbEdsa2xTRkR5bzYyNGdsYTc0YjZTZUkxcXZMdmxtTzZpNXBmd1RnV0RMSzZrNjVWcWZjaEZLcGRXcTlKbjJZcHRodlBTdzNZTnJMeWRneHNuQWdpUk5oZU84THgwY2hCQQ?oc=5)
+
+---
+
+### [El café, clave para la longevidad: Un estudio revela su secreto para proteger contra enfermedades crónicas](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNXpaT3NxYzdYMXJMMnh2UW5lX2xfVDFaV0F2RjBPam5yZm52UWdXSjFFdjRDek5ZVHd6TUd1a1Z5eW51VFdURnJBUV94aVJmV3I3ZjVfbEdpTzViLTBhMnlxRWhpVE1ScEFhMFVoSTZCbEt3ZEhORlo2Tl9xTUJuRGc4b3JrczdpNi1LenJ1TWdoX3pyQnZiSXQtRUxiWDQ1dnJVSTZpeThLU0NsVF82UE56aWRWMmxkdnF0anpLUkl6WWVpUFM1WG5uUEh1QUI5UlJTTGt3V3hqd0hKelp3?oc=5)
+
+2026-08-18 <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNXpaT3NxYzdYMXJMMnh2UW5lX2xfVDFaV0F2RjBPam5yZm52UWdXSjFFdjRDek5ZVHd6TUd1a1Z5eW51VFdURnJBUV94aVJmV3I3ZjVfbEdpTzViLTBhMnlxRWhpVE1ScEFhMFVoSTZCbEt3ZEhORlo2Tl9xTUJuRGc4b3JrczdpNi1LenJ1TWdoX3pyQnZiSXQtRUxiWDQ1dnJVSTZpeThLU0NsVF82UE56aWRWMmxkdnF0anpLUkl6WWVpUFM1WG5uUEh1QUI5UlJTTGt3V3hqd0hKelp3?oc=5)
 
 ---
 
@@ -166,19 +206,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Dall’UE 2,3 milioni di euro per arginare l’epidemia di colera in Africa occidentale e centrale](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWk5UEljUTFZYW5Yc0RqbU1kVHJPbE93TzZxUEZ3NkJnUXoxZGJpb2dwQjkyYVdJSGFoanRkSS1OWTZzQk80Nkh4ZmNqSDk0SWlRRzFYaGg5VHhDLVVuVFp6UlIwSkh0SHJNVE11WC1fdF9EOGRWSHlBdkt5bDlUUy1pRkJ6YjlRVVA5QmhkOU82Y0E4X3BPT3hPRm5XUVBjZEZIUmVMbWViZHpIbk0ydlg0alFNNFJDeG9pQ093U2Q1d3c?oc=5)
-
-2026-08-17 <span class="news-indication-tag">AF</span>
-
-來源：[Eunews](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWk5UEljUTFZYW5Yc0RqbU1kVHJPbE93TzZxUEZ3NkJnUXoxZGJpb2dwQjkyYVdJSGFoanRkSS1OWTZzQk80Nkh4ZmNqSDk0SWlRRzFYaGg5VHhDLVVuVFp6UlIwSkh0SHJNVE11WC1fdF9EOGRWSHlBdkt5bDlUUy1pRkJ6YjlRVVA5QmhkOU82Y0E4X3BPT3hPRm5XUVBjZEZIUmVMbWViZHpIbk0ydlg0alFNNFJDeG9pQ093U2Q1d3c?oc=5)
-
----
-
-### [Überraschender Doppelnutzen bei Alzheimer: Moderne Blutverdünner könnten geistigen Abbau verlangsamen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWncwdVpOdHlBM3huM2QtejBQY0FudFRVQ0FkVFVRMldlSGwzZUtqWW9LSUNMTlpMcDlFY1psSl84NFVTRjM5ZlU3Y1VGOWUzV2JUSmVOa2EtZDczRlpZa2FkNllnQnlnNVpUM3Mxb3Z2MWpVd3RRaGNYSm96THlVaUktbHZod0wzUjdtZTdVU2pRUHZQTzU4TmVleW1fSkM4dFVCMk8zLWt6dEZBeG1ET0ZpQU1Ob1dnN3ZhQU1QczR5anlQOUpiUnp4aklQMkNqeWJHb0tSTUpXaEVHZWc?oc=5)
+### [Überraschender Doppelnutzen bei Alzheimer: Moderne Blutverdünner könnten geistigen Abbau verlangsamen](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWncwdVpOdHlBM3huM2QtejBQY0FudFRVQ0FkVFVRMldlSGwzZUtqWW9LSUNMTlpMcDlFY1psSl84NFVTRjM5ZlU3Y1VGOWUzV2JUSmVOa2EtZDczRlpZa2FkNllnQnlnNVpUM3Mxb3Z2MWpVd3RRaGNYSm96THlVaUktbHZod0wzUjdtZTdVU2pRUHZQTzU4TmVleW1fSkM4dFVCMk8zLWt6dEZBeG1ET0ZpQU1Ob1dnN3ZhQU1QczR5anlQOUpiUnp4aklQMkNqeWJHb0tSTUpXaEVHZWc?oc=5)
 
 2026-08-17 <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWncwdVpOdHlBM3huM2QtejBQY0FudFRVQ0FkVFVRMldlSGwzZUtqWW9LSUNMTlpMcDlFY1psSl84NFVTRjM5ZlU3Y1VGOWUzV2JUSmVOa2EtZDczRlpZa2FkNllnQnlnNVpUM3Mxb3Z2MWpVd3RRaGNYSm96THlVaUktbHZod0wzUjdtZTdVU2pRUHZQTzU4TmVleW1fSkM4dFVCMk8zLWt6dEZBeG1ET0ZpQU1Ob1dnN3ZhQU1QczR5anlQOUpiUnp4aklQMkNqeWJHb0tSTUpXaEVHZWc?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWncwdVpOdHlBM3huM2QtejBQY0FudFRVQ0FkVFVRMldlSGwzZUtqWW9LSUNMTlpMcDlFY1psSl84NFVTRjM5ZlU3Y1VGOWUzV2JUSmVOa2EtZDczRlpZa2FkNllnQnlnNVpUM3Mxb3Z2MWpVd3RRaGNYSm96THlVaUktbHZod0wzUjdtZTdVU2pRUHZQTzU4TmVleW1fSkM4dFVCMk8zLWt6dEZBeG1ET0ZpQU1Ob1dnN3ZhQU1QczR5anlQOUpiUnp4aklQMkNqeWJHb0tSTUpXaEVHZWc?oc=5)
 
 ---
 

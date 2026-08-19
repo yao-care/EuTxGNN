@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [The Best Afternoon Drink for High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Symptome bei Bluthochdruck: Arzt erklärt wichtige Warnsignale in der Nacht - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
-
-2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
-
----
-
 ### [Hypertension: A Handful of Nuts a Day May Help Lower Your Risk 20%](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
 
 2026-08-18 <span class="news-indication-tag">hypertension</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
+來源：[healthline.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Health plea for children as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
+### [Health plea for children as hepatitis A outbreak in Barry continues](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
 
 2026-08-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[Wales Online](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
+來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/givosiran/
 2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
-
----
-
-### [Pamela Anderson e l’epatite C: la malattia che per anni ha cambiato il suo rapporto con il futuro](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
-
-2026-08-17 <span class="news-indication-tag">epatite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2tGTE90aktqWFRkWTM2Ukg3Z1A1RVQ4U1MyN3psYU92S181MnZ0UlFTSWpPRDYzRHZUVkdpZFdvRWhSbFpLV1BKZzQ0UFpJX3d1UUhyY3hmalh3Y2tPTE9HYkkwdlFVMGxlajRqbnhfeEd5ZmRXcVNBYlhscUFjOUdENGJzWm1ndE1vZDdpMENqcmR2S1FRQzA1ZHhIS3NpSjF5S2Q0MnBxRFFUMzJBcTBSLTBSczAwT3VKd2pjOG9RMG10dGlocXJiR0UzeXFqTTY1ZE5SR21TTGM2R3N1NnJXMDNMOFNJNGc?oc=5)
 
 ---
 

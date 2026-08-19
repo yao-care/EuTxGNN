@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li>asthma（86.3%）</li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -54,6 +54,14 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（3 則）
 
+### [Sento Segarra, farmacéutico: "A partir de los 65 años, dos latas de sardinas a la semana pueden reducir el riesgo de diabetes: del 37% al 8%" - El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxNUi05d01YcUJQMXBTY3JSTWJia0ZGMlVJYzFWY2FtN1FJUzBuS3h1ckhCc3dXaXFBdmFuTG1CUGtTdE16QndQVDFoSl9jSWlJXzk3TjNKTlNKWHJNanJ6U1g4ZlFxX3JnaFluQjZwdUtVVWVkejkzSzg4c0Npak5HaGlqdUZPN1RzLW03djFjUzg2bWQ4SkRoZGJyMFc1ZXNQcVhFZVkybXpRMXFsTjdjb1Jja3BBOC1EZV9BTXcyUGpMVzVQRE95R1hGQ3UtdHdtdmdnc2g1Y0QyRkN3Sm5FU1FRUmhpWnVZOFI1cGVIaXoxaFk2MUs0TDQtbEplZnkwRHU3N3V1M19sdFVXM2J6OHU4US1oaC1BQm5uUjNZZXBLbVlTbUxQNFFHRUdDNHpVemFpS3lDWEZtM2lQ0gGnAkFVX3lxTFBXaVhxOEQ4U191UEV1WUpzb25RMWJlU2VlYlBNUUh0YW5pbFB6Ui1HM2ZJcmdSYnBzMWhCQXpsV2pZR012VjRxUURjNENLSlU3cmxZNURxZnBTR2dlZVlpMFdDOEVyMXpUR3VGTFFsWU96d2dWVWpjTWMxSHBnVGdZaU85ZXNXTFhfYk1iWmp0TmhvYW55WlJCMnlKZXZWVzBsMmJBaWtXZ0tkelJyRk9mZVNwY1pySzZiWHNQMkxlU2lEdHRyUXhoZDRlTFJNZ19xTDVaQ0pyUGQ2Q0JlSk10d1hJZ1JJMzlOYjl2UFc2QmpmVng2ek5fXy1aZTE1cUdONnVnWnh6OGhDVzcyWWhPdDhIY1NDcVZabUo3dklmR0E1cl9aRXM?oc=5)
+
+2026-08-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxNUi05d01YcUJQMXBTY3JSTWJia0ZGMlVJYzFWY2FtN1FJUzBuS3h1ckhCc3dXaXFBdmFuTG1CUGtTdE16QndQVDFoSl9jSWlJXzk3TjNKTlNKWHJNanJ6U1g4ZlFxX3JnaFluQjZwdUtVVWVkejkzSzg4c0Npak5HaGlqdUZPN1RzLW03djFjUzg2bWQ4SkRoZGJyMFc1ZXNQcVhFZVkybXpRMXFsTjdjb1Jja3BBOC1EZV9BTXcyUGpMVzVQRE95R1hGQ3UtdHdtdmdnc2g1Y0QyRkN3Sm5FU1FRUmhpWnVZOFI1cGVIaXoxaFk2MUs0TDQtbEplZnkwRHU3N3V1M19sdFVXM2J6OHU4US1oaC1BQm5uUjNZZXBLbVlTbUxQNFFHRUdDNHpVemFpS3lDWEZtM2lQ0gGnAkFVX3lxTFBXaVhxOEQ4U191UEV1WUpzb25RMWJlU2VlYlBNUUh0YW5pbFB6Ui1HM2ZJcmdSYnBzMWhCQXpsV2pZR012VjRxUURjNENLSlU3cmxZNURxZnBTR2dlZVlpMFdDOEVyMXpUR3VGTFFsWU96d2dWVWpjTWMxSHBnVGdZaU85ZXNXTFhfYk1iWmp0TmhvYW55WlJCMnlKZXZWVzBsMmJBaWtXZ0tkelJyRk9mZVNwY1pySzZiWHNQMkxlU2lEdHRyUXhoZDRlTFJNZ19xTDVaQ0pyUGQ2Q0JlSk10d1hJZ1JJMzlOYjl2UFc2QmpmVng2ek5fXy1aZTE1cUdONnVnWnh6OGhDVzcyWWhPdDhIY1NDcVZabUo3dklmR0E1cl9aRXM?oc=5)
+
+---
+
 ### [Scientists Get a Step Closer to Strengthening Muscles Without Exercise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
 
 2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
@@ -62,19 +70,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Tres hábitos clave para proteger tu cerebro a partir de los 50](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFozOEktQWxfOGhoUXNGYWp2a1NFMXJoclBYeURaLWJHY3ZpUkx5ZGRxcDhpV1Zvb2VzM3R0elRNWEJuWTNEamEtLWxvNXE5d2h5VjB4MGtTT2RHYldmX0hyWTRnYTNDMW5STWUySGJ4QnhZX1FHQ1hoc0EzRFNkc29IU2Fha0tsU0tDVE80aVNVYWVwRE9udHF4cFZHS2l0OGdyNUdYdklSOTlpczdjei01VG11bmFyX0Vj?oc=5)
+### [Studie: Katzenbesitz scheint Asthma bei Kindern nicht zu verschlimmern](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
 
-2026-08-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-08-17 <span class="news-indication-tag">asthma</span>
 
-來源：[Telecinco](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFozOEktQWxfOGhoUXNGYWp2a1NFMXJoclBYeURaLWJHY3ZpUkx5ZGRxcDhpV1Zvb2VzM3R0elRNWEJuWTNEamEtLWxvNXE5d2h5VjB4MGtTT2RHYldmX0hyWTRnYTNDMW5STWUySGJ4QnhZX1FHQ1hoc0EzRFNkc29IU2Fha0tsU0tDVE80aVNVYWVwRE9udHF4cFZHS2l0OGdyNUdYdklSOTlpczdjei01VG11bmFyX0Vj?oc=5)
-
----
-
-### [Pankreatitis: Blutzucker über 200 mg/dl als Warnsignal für Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ20xMUJjNUM0VkI2WjdGeWFlZTg2d0xBX3FwV3c2cGNoaUxRWWVxNUZfSnFULUIyQXJNZFFtTkdwbXJ3QUFKMHBDci1kaTRmUFU2MHh1aS1FT2x6UWNBcXZKYkdkRUhQTGVWNDhXSjFJRExxVG5zLVdIUVJUc3BNLWN5bG9vUTJFNDNoejlhSGk5cjZ3TjVxeFBQUEZkd1dFNVE?oc=5)
-
-2026-08-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ20xMUJjNUM0VkI2WjdGeWFlZTg2d0xBX3FwV3c2cGNoaUxRWWVxNUZfSnFULUIyQXJNZFFtTkdwbXJ3QUFKMHBDci1kaTRmUFU2MHh1aS1FT2x6UWNBcXZKYkdkRUhQTGVWNDhXSjFJRExxVG5zLVdIUVJUc3BNLWN5bG9vUTJFNDNoejlhSGk5cjZ3TjVxeFBQUEZkd1dFNVE?oc=5)
+來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
 
 ---
 

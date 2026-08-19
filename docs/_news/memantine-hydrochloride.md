@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [The Best Afternoon Drink for High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/memantine-hydrochloride/
 
 ---
 
-### [Symptome bei Bluthochdruck: Arzt erklärt wichtige Warnsignale in der Nacht - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
-
-2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
-
----
-
 ### [Hypertension: A Handful of Nuts a Day May Help Lower Your Risk 20%](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
 
 2026-08-18 <span class="news-indication-tag">hypertension</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
+來源：[healthline.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
 
 ---
 
@@ -110,11 +102,11 @@ permalink: /news/memantine-hydrochloride/
 
 ---
 
-### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
+### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
 
 2026-08-17 <span class="news-indication-tag">Migräne</span>
 
-來源：[morgenpost.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
 
 ---
 

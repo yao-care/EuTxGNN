@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。7 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。7 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# enfermedad de Alzheimer（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>7 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>7 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（7 則）
 
-### [El dilema del test de Alzheimer: ¿un avance médico o una fuente de ansiedad?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1dZVDZVNnVSVFVrNnk1V2cycXdyTEtfRDVnX01DaVJtSzJheXduV2p5dk0ySVZTdnZfWndsY2RUcGpJSnhSSE92dUhWWEpvR1VSLVNKTUFQTWhGVXJLYzlyOXlEUEhJUnhrR3VFd1p4N3JaVndTX2trQ1N1RXFKQmMwZjdoVFZMbmJRR1M5ZnZMU1ZzbHh0ZkcyTjdYei1KYkxRNGYwSVhuX1JOMlpKaDNjOHVOU183YkJwbFM1cWhhenhISkdCag?oc=5)
+### [Babies born under sugar rationing grew into adults with lower cancer risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
 2026-08-18
 
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1dZVDZVNnVSVFVrNnk1V2cycXdyTEtfRDVnX01DaVJtSzJheXduV2p5dk0ySVZTdnZfWndsY2RUcGpJSnhSSE92dUhWWEpvR1VSLVNKTUFQTWhGVXJLYzlyOXlEUEhJUnhrR3VFd1p4N3JaVndTX2trQ1N1RXFKQmMwZjdoVFZMbmJRR1M5ZnZMU1ZzbHh0ZkcyTjdYei1KYkxRNGYwSVhuX1JOMlpKaDNjOHVOU183YkJwbFM1cWhhenhISkdCag?oc=5)
-
----
-
-### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
-
-2026-08-18
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+來源：[theconversation.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
 ---
 
@@ -67,6 +59,14 @@ permalink: /news/alzheimer-disease/
 2026-08-18
 
 來源：[Newsweek](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
+
+---
+
+### [Los análisis para predecir el Alzheimer provocan confusión](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUVhR2d3b3ZoM2FjSVdvdEVqZkg2b3dkeF9XNUl0XzJseDdhRFNaLWw5b09Cb2hFUk9Cc0p1dGk5UjhicWpIZFVDMEhLTzFpdGR0TW9DWnEwQmstZE91YmlWWHFIUzdEdzQ5QnJEdFU5bkM4UVF4YkJDVkRYb0RWS0t6RENfVTIxTVZnVGRPbTVLSFdQdWEyM0pZTEc2eWfSAZ8BQVVfeXFMT2M1dldtTWt4Rk9MTy0tYjY3NUYzMFBVX0Z5WUdkMWE3dDd5S3lVNlhkZ2dUbXFwUzU5WnRrSTJvNEI0cmVwdHREcTdjSENrME9FVlhXZ2s2dWxwRDFyZDctZTNqakpmX29FbHo5cHp5NFBTZGV2SE1XTFVVQ2JSWmZ6emhOYl90dlUxWW1aTUJYOXRzczJNX05veVNlUlRj?oc=5)
+
+2026-08-18
+
+來源：[MILENIO](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUVhR2d3b3ZoM2FjSVdvdEVqZkg2b3dkeF9XNUl0XzJseDdhRFNaLWw5b09Cb2hFUk9Cc0p1dGk5UjhicWpIZFVDMEhLTzFpdGR0TW9DWnEwQmstZE91YmlWWHFIUzdEdzQ5QnJEdFU5bkM4UVF4YkJDVkRYb0RWS0t6RENfVTIxTVZnVGRPbTVLSFdQdWEyM0pZTEc2eWfSAZ8BQVVfeXFMT2M1dldtTWt4Rk9MTy0tYjY3NUYzMFBVX0Z5WUdkMWE3dDd5S3lVNlhkZ2dUbXFwUzU5WnRrSTJvNEI0cmVwdHREcTdjSENrME9FVlhXZ2s2dWxwRDFyZDctZTNqakpmX29FbHo5cHp5NFBTZGV2SE1XTFVVQ2JSWmZ6emhOYl90dlUxWW1aTUJYOXRzczJNX05veVNlUlRj?oc=5)
 
 ---
 

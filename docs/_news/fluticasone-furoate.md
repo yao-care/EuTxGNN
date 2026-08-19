@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li>asthma（99.9%）</li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -52,13 +52,21 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Cette IA est capable d'élaborer des virus qui n'existent pas dans la nature ! Faut-il réellement s'inquiéter ?](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
 
 2026-08-18 <span class="news-indication-tag">EPOC</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
+
+---
+
+### [Studie: Katzenbesitz scheint Asthma bei Kindern nicht zu verschlimmern](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
+
+2026-08-17 <span class="news-indication-tag">asthma</span>
+
+來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
 
 ---
 
