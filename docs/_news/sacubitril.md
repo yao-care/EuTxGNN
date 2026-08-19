@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Scientists Get a Step Closer to Strengthening Muscles Without Exercise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
 
@@ -62,19 +62,19 @@ permalink: /news/sacubitril/
 
 ---
 
-### [How diabetes can affect your ability to control the pedals while driving](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNkY2bXVjd1Q5TUVVWnhOc2xTTkpVTGswTzVJOWs4TWkyVlUxM25DdUZQc28wdmk2T09VXzUxSnVwejNhYmxyakZPeEd6Sl9EcVB2YlRGMEtjdzhHUDlZeGs0S05PZERzWFBrOXBZV29rREl6UXJQSEpwTExkckVWaGppTExGQ1hiMmhEMVJ2b2ZVeENyYXBFTlk3OG9MUlFmNi14S2MzX1JpQWM?oc=5)
+### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs - Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
-2026-08-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-08-18 <span class="news-indication-tag">arthritis</span>
 
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNkY2bXVjd1Q5TUVVWnhOc2xTTkpVTGswTzVJOWs4TWkyVlUxM25DdUZQc28wdmk2T09VXzUxSnVwejNhYmxyakZPeEd6Sl9EcVB2YlRGMEtjdzhHUDlZeGs0S05PZERzWFBrOXBZV29rREl6UXJQSEpwTExkckVWaGppTExGQ1hiMmhEMVJ2b2ZVeENyYXBFTlk3OG9MUlFmNi14S2MzX1JpQWM?oc=5)
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 ---
 
-### [Tres hábitos que protegen la salud cerebral y previenen el deterioro cognitivo a partir de los 45 años](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZFdMSWFnbVlpVUU0eXpMakxERFlvdFo3MHlscFlHTFU3T1A2cFpJcm5va2FzVHByOGNlRDNaVkN4NlNadmd4TExLeW5hUlFfWllSdzcwR01PTWlqMDJtYTJzOFc3dzZ6amVLVjZ1UXc4RHdHa0FHQXQyZVd6am50ZGtCVmU4bnNmUlVPOVVMR3p1UEJuTzBKX0dCS3BTdVRoOGtrRUFLZnQ2a0ROeXVjdzVQNk1kcU96RDhablppanpvUEVqNDRHQ2JCX0U5Q20yTU4zSWVBZ2NXN0J1a2tIM2RaTzVXQzNtY3BBa3BmYW8tRDhz0gGPAkFVX3lxTE9naS1yWEFUem8wOHpnZ3J3c3ZlR1NaS0hyalRnMnFyUzVLX29vZFRoNVlQLW9PWW13SzV5SlFhNUN4Q0ptcEdhRUdFZldYQUowd2dvWTdpdUFsOEExRnVHWExOQUtVUkd1ejhORFItRFRBWGRsN0dqMXdOYUVmY1p6bm9QNDRJbjBYMzJ4dmlIakFVUU9PdTU2OWtYWjdpcmR1OWNrWVpOV1UwamlWMUJTU3REbGYzd2dPX2FzSk5vc3EyYmlldF9zZDhBSk4xaGdxZjZRanNMUmlrRjlwak9HejluRTVvZ0xOUDJwckZiaF9SWUZYRjlCMnRVZFRtZVdpYXo5STRKNGIyVXlhNmM?oc=5)
+### [Tres hábitos clave para proteger tu cerebro a partir de los 50](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFozOEktQWxfOGhoUXNGYWp2a1NFMXJoclBYeURaLWJHY3ZpUkx5ZGRxcDhpV1Zvb2VzM3R0elRNWEJuWTNEamEtLWxvNXE5d2h5VjB4MGtTT2RHYldmX0hyWTRnYTNDMW5STWUySGJ4QnhZX1FHQ1hoc0EzRFNkc29IU2Fha0tsU0tDVE80aVNVYWVwRE9udHF4cFZHS2l0OGdyNUdYdklSOTlpczdjei01VG11bmFyX0Vj?oc=5)
 
 2026-08-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZFdMSWFnbVlpVUU0eXpMakxERFlvdFo3MHlscFlHTFU3T1A2cFpJcm5va2FzVHByOGNlRDNaVkN4NlNadmd4TExLeW5hUlFfWllSdzcwR01PTWlqMDJtYTJzOFc3dzZ6amVLVjZ1UXc4RHdHa0FHQXQyZVd6am50ZGtCVmU4bnNmUlVPOVVMR3p1UEJuTzBKX0dCS3BTdVRoOGtrRUFLZnQ2a0ROeXVjdzVQNk1kcU96RDhablppanpvUEVqNDRHQ2JCX0U5Q20yTU4zSWVBZ2NXN0J1a2tIM2RaTzVXQzNtY3BBa3BmYW8tRDhz0gGPAkFVX3lxTE9naS1yWEFUem8wOHpnZ3J3c3ZlR1NaS0hyalRnMnFyUzVLX29vZFRoNVlQLW9PWW13SzV5SlFhNUN4Q0ptcEdhRUdFZldYQUowd2dvWTdpdUFsOEExRnVHWExOQUtVUkd1ejhORFItRFRBWGRsN0dqMXdOYUVmY1p6bm9QNDRJbjBYMzJ4dmlIakFVUU9PdTU2OWtYWjdpcmR1OWNrWVpOV1UwamlWMUJTU3REbGYzd2dPX2FzSk5vc3EyYmlldF9zZDhBSk4xaGdxZjZRanNMUmlrRjlwak9HejluRTVvZ0xOUDJwckZiaF9SWUZYRjlCMnRVZFRtZVdpYXo5STRKNGIyVXlhNmM?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFozOEktQWxfOGhoUXNGYWp2a1NFMXJoclBYeURaLWJHY3ZpUkx5ZGRxcDhpV1Zvb2VzM3R0elRNWEJuWTNEamEtLWxvNXE5d2h5VjB4MGtTT2RHYldmX0hyWTRnYTNDMW5STWUySGJ4QnhZX1FHQ1hoc0EzRFNkc29IU2Fha0tsU0tDVE80aVNVYWVwRE9udHF4cFZHS2l0OGdyNUdYdklSOTlpczdjei01VG11bmFyX0Vj?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/sacubitril/
 2026-08-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ20xMUJjNUM0VkI2WjdGeWFlZTg2d0xBX3FwV3c2cGNoaUxRWWVxNUZfSnFULUIyQXJNZFFtTkdwbXJ3QUFKMHBDci1kaTRmUFU2MHh1aS1FT2x6UWNBcXZKYkdkRUhQTGVWNDhXSjFJRExxVG5zLVdIUVJUc3BNLWN5bG9vUTJFNDNoejlhSGk5cjZ3TjVxeFBQUEZkd1dFNVE?oc=5)
-
----
-
-### [Chester woman, 29, facing prospect of double leg amputation due to severe arthritis - Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
-
-2026-08-17 <span class="news-indication-tag">arthritis</span>
-
-來源：[Cheshire Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkNWYXM2Z3RFanhKQ3FTVXRpa09TRHJjaDRYZmgycjl1QjNkWHc1cUROVWhVYjBKMENJWDZ0SWV2ZFhxa096Zy1TbHNrTnpoQnVJWEU2aHMza0ZnV1ZnVjBtVndrSXd6NVFxNHludXlGUDNnN0tXSVdmY2ZPQW5tQjlLd29SQzFCTkxHbGZtM2RBbG5EN0dUS3lHOFdmcWNKR2fSAacBQVVfeXFMTXJOQjZSZURCRDc3aXVJUy1EdV83UUVDNS1VUlFmZlBjY1pqb05OemlETTl0RGNybk5pWnZEMUF4YlljZW1vN1hDdTZjLWJqbktqaVc2cXY5NW1nb2twTXR5SEZZakpyVnpmSUxhbG00QlZ2V2NCOXY3dDhTNmZLQVdjS3FLb2dDTndoNmNhRmlWMWw1anktVzRjQ2NFTDRMRzNuNXVrWlk?oc=5)
 
 ---
 

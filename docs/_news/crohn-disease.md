@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Scheinfasten: 69% Besserung bei Morbus Crohn erreicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3JEa2g3TWdScWxGX3owaksxRHFVQmtoYmZRV3JmWDBDTmlxXzhqOGllWEVUSFZLVHgyVi04VG9qUzhKU3pqYXFPVFJWWFRZRkFjZi1QUjhYMGU0WGVBSVlscVBHUTNKTTlhZU9HNExSZFRZdU5LTEotS3dWSlJJOVJ3elRVZXltMUkwbm9XWXhwckhyaXliYW5WWnM0Nkd0TG1tUlo0NXJwRWRH?oc=5)
+### [Scheinfasten: Stanford-Studie zeigt 69% Besserung bei Morbus Crohn - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkVfa3lTRFlwd3pqcE5XOE5WdHhTTUhIRUxjZ2Z3X1dOaWtFaU5TYnc4YzZmdmdwVXhMRWljUWVDRW9leGRIRG5SU1RYSDNydUlpcVpJRDZvVkROYUVPOTJpbTdDbEVuaUg5bHB6bjlzM3pta2ZuYnZjdC11MXljVzlkOUtZOFAzSjE1Mjg0WUlrSVBkY0pDTk8tdDNEZzN5LTVlaEdLYWQ3U2Q3NGplT0Z1aGlzX3dmaWVTaHF3?oc=5)
 
 2026-08-18
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3JEa2g3TWdScWxGX3owaksxRHFVQmtoYmZRV3JmWDBDTmlxXzhqOGllWEVUSFZLVHgyVi04VG9qUzhKU3pqYXFPVFJWWFRZRkFjZi1QUjhYMGU0WGVBSVlscVBHUTNKTTlhZU9HNExSZFRZdU5LTEotS3dWSlJJOVJ3elRVZXltMUkwbm9XWXhwckhyaXliYW5WWnM0Nkd0TG1tUlo0NXJwRWRH?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkVfa3lTRFlwd3pqcE5XOE5WdHhTTUhIRUxjZ2Z3X1dOaWtFaU5TYnc4YzZmdmdwVXhMRWljUWVDRW9leGRIRG5SU1RYSDNydUlpcVpJRDZvVkROYUVPOTJpbTdDbEVuaUg5bHB6bjlzM3pta2ZuYnZjdC11MXljVzlkOUtZOFAzSjE1Mjg0WUlrSVBkY0pDTk8tdDNEZzN5LTVlaEdLYWQ3U2Q3NGplT0Z1aGlzX3dmaWVTaHF3?oc=5)
 
 ---
 

@@ -56,7 +56,7 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ### [El perímetro de cintura, una forma sencilla y eficaz de detectar riesgos asociados a la obesidad](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
 
-2026-08-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+2026-08-18 <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
 
@@ -70,19 +70,19 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### [« La plupart des effets inattendus se sont révélés positifs » : les surprises d’Ozempic, Wegovy et Mounjaro… au-delà du poids - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
+
+2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
+
+---
+
 ### ["Una de las asignaturas pendientes en España es la falta de reconocimiento de la obesidad como una enfermedad" - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOckRUQ2JEOFQ1cld6b1ZRS3lXcVhsdU1BVExSM21vTkhadHN6ekJySWh4Z3dWVzROSEZtQlNadUdPMWlGWk9zMHNlamh2WDItVC13cVZIOS1QRjRMdlMzcmRqTGNMMWNlRDdwNGZUUkh6Qnh0bEZtX0ZGSVF1QzFBbGdJWUdycHpmT29QcUtxTG9NRlE2akZWUUlhQjM3QWJ0X05IVExOdWtDazVDQmVXVzVPenZNRnVTQTF2U0t30gG4AUFVX3lxTFBVME0wLWtOaEZxemJBNTdHZzB5MmptakpORGFJYklsNm1BRWd1bzhNWUgwYUpLcUR4ZFJuU2VkZXY4eE53c1FDa3JxczlLckp4dU9oRVBmUk9xb2FCU0dIVUdiXzlvNkkwZ25rUXNqbmFwZ2gyaTBBUTFSUEJadGJIRk9qbkgzUnVQaW5Ecmgyb1NVbXo2MF9lYzZjc0R3VHlITVkyXzlNSFhvTnpkUHBydzBDWDJMRWI?oc=5)
 
 2026-08-18 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOckRUQ2JEOFQ1cld6b1ZRS3lXcVhsdU1BVExSM21vTkhadHN6ekJySWh4Z3dWVzROSEZtQlNadUdPMWlGWk9zMHNlamh2WDItVC13cVZIOS1QRjRMdlMzcmRqTGNMMWNlRDdwNGZUUkh6Qnh0bEZtX0ZGSVF1QzFBbGdJWUdycHpmT29QcUtxTG9NRlE2akZWUUlhQjM3QWJ0X05IVExOdWtDazVDQmVXVzVPenZNRnVTQTF2U0t30gG4AUFVX3lxTFBVME0wLWtOaEZxemJBNTdHZzB5MmptakpORGFJYklsNm1BRWd1bzhNWUgwYUpLcUR4ZFJuU2VkZXY4eE53c1FDa3JxczlLckp4dU9oRVBmUk9xb2FCU0dIVUdiXzlvNkkwZ25rUXNqbmFwZ2gyaTBBUTFSUEJadGJIRk9qbkgzUnVQaW5Ecmgyb1NVbXo2MF9lYzZjc0R3VHlITVkyXzlNSFhvTnpkUHBydzBDWDJMRWI?oc=5)
-
----
-
-### [Un adulte sur deux obèse : la Polynésie française tente d'enrayer le phénomène - Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
-
-2026-08-17 <span class="news-indication-tag">obésité</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1VGc0VlOE5nWEFoMnk0Slcyc3FJYjlUdHVvQzB1cFhrcnAtTWprbUotcW5ld19xVHFMWEoyTWxZY2ZxV1NLa0hTd3dPMmNUV3NHcmFXVl9hRGhZZWVCN0ZsNm9qXzlUYzd6ak1qVzZsVTEyZldSMXVyZjlJM2pRemdxQWFrejRNYjZSLUlzZ0NtMWh3Vy1hTldyN19MZ1FWT1VyTFNpbUpLbjlOcnNrOTJ0cnEtcER0MFJsc281aUVIeFZE?oc=5)
 
 ---
 

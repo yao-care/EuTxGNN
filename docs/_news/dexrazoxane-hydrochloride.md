@@ -58,7 +58,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 
 2026-08-18 <span class="news-indication-tag">EPOC</span>
 
-來源：[sciencepost.fr](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
 
 ---
 

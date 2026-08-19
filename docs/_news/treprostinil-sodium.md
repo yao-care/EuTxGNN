@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [The Best Afternoon Drink for High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
+
+2026-08-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
+
+---
 
 ### [Symptome bei Bluthochdruck: Arzt erklärt wichtige Warnsignale in der Nacht - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
 
 2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamZNUFV5S3g3ZHBDUFZLTTMxTmJOcDZmbTY4b3VFUm9vUFk0b3lockNHWHNRQTVCQTcxYzNHeFRVWlJXTndhbnZrYWNDYmlPNmNjY2NybU5VNnZmVG9SdEZKMXRuLS1oZWprbnpYanJmSE00VzNydEpsMW9fUkY1TnBCd1llZml0RUFFbnF5UDNTeXFBS0Y3RVZubXFpZGMyVkVJZzlLZjBmWWh6eWU2dEVfNGNXdWs3?oc=5)
+
+---
+
+### [Hypertension: A Handful of Nuts a Day May Help Lower Your Risk 20%](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
+
+2026-08-18 <span class="news-indication-tag">hypertension</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
 
 ---
 

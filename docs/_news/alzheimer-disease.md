@@ -54,11 +54,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Babies born under sugar rationing grew into adults with lower cancer risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
 2026-08-18
 
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Will HRT help me avoid my mother’s long dementia?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
+### [Will HRT help me avoid my mother’s long dementia? - The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
 
 2026-08-17
 
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [El perímetro de cintura, una forma sencilla y eficaz de detectar riesgos asociados a la obesidad](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
+### [The Best Afternoon Drink for High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
 
-2026-08-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+2026-08-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0JMWXpQeEQ2UWhDOTJYUXliVVgwMmY2aDFVRlktMkFnZ2N3Y2tWR09BZnAzdExFVEJtY1lVNFVUeWt4OUNtb1dHZkdNV25PekNvRzhpS1FOUWdjeFV0eGgxMkhxZXdtazFnaWthSHZ1M0cxU3BVdEt0UmZpcENjR0hMTEVfaEswSmNUeVJFbk1KSjdwU3dmN3VhOTk1VzFhVl80NTJLUHJJWjJ4ZnpVVkVCdjFfR0ZUYzd1UnBoUXVJZnhqdXhSX1JlajZZUDFuNjNwMTU3RXZtd0RwSW1IU1JXTQ?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/telmisartan/
 2026-08-18 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
+
+---
+
+### [Hypertension: A Handful of Nuts a Day May Help Lower Your Risk 20%](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
+
+2026-08-18 <span class="news-indication-tag">hypertension</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
 
 ---
 

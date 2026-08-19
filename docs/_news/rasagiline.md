@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [El dilema del test de Alzheimer: ¿un avance médico o una fuente de ansiedad?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1dZVDZVNnVSVFVrNnk1V2cycXdyTEtfRDVnX01DaVJtSzJheXduV2p5dk0ySVZTdnZfWndsY2RUcGpJSnhSSE92dUhWWEpvR1VSLVNKTUFQTWhGVXJLYzlyOXlEUEhJUnhrR3VFd1p4N3JaVndTX2trQ1N1RXFKQmMwZjdoVFZMbmJRR1M5ZnZMU1ZzbHh0ZkcyTjdYei1KYkxRNGYwSVhuX1JOMlpKaDNjOHVOU183YkJwbFM1cWhhenhISkdCag?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaU9rb2NlUGJoc3BJR1VmQWphSU51MlVmWGw3Nm1TWHZhR3BVckhUR043ZWpCQmt4eFN0dllJRWlxV1NUOTFkUHBFc2NOX3pQODlvdWQ0ZDdia0lNU01IQTc5Ql9DSE1RYlBBdi13RkJ2TDIxdHF1ZmZSeE9PaG9TMFdwMzU2ZUMwTFhoWW5pSzN2UVZsbjRsbEg0aE9MMkU?oc=5)
+### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
-2026-08-18 <span class="news-indication-tag">Parkinson's</span>
+2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaU9rb2NlUGJoc3BJR1VmQWphSU51MlVmWGw3Nm1TWHZhR3BVckhUR043ZWpCQmt4eFN0dllJRWlxV1NUOTFkUHBFc2NOX3pQODlvdWQ0ZDdia0lNU01IQTc5Ql9DSE1RYlBBdi13RkJ2TDIxdHF1ZmZSeE9PaG9TMFdwMzU2ZUMwTFhoWW5pSzN2UVZsbjRsbEg0aE9MMkU?oc=5)
-
----
-
-### [Babies born under sugar rationing grew into adults with lower cancer risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
-
-2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Will HRT help me avoid my mother’s long dementia?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
+### [Will HRT help me avoid my mother’s long dementia? - The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
 
-2026-08-17 <span class="news-indication-tag">dementia</span>
+2026-08-17 <span class="news-indication-tag">alzheimer disease</span>
 
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
 
 ---
 

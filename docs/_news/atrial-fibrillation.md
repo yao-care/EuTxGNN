@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。19 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。18 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>19 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>18 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,23 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（18 則）
+
+### [Eine Coronainfektion kann elf schlummernde Viren im Körper wecken](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
+
+2026-08-18
+
+來源：[L'essentiel](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
+
+---
+
+### [The Best Afternoon Drink for High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
+
+2026-08-18
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
+
+---
 
 ### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
 
@@ -101,11 +117,27 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [One dead and hundreds ill in UK salmonella outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5)
+
+2026-08-18
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5)
+
+---
+
 ### [Heart doctor avoids five things at all costs after doing 8,000 operations](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
 
 2026-08-18
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
+
+---
+
+### [Studie zu Alzheimer: IgG aktiviert Mikroglia gezielt gegen Amyloid-Plaques - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2M4cURJcENLTDI3YVR5bDZqMTN3M2E1dEZKR1pKUHFuRlZGNEY4RjhqOEFWTk5PcWRhcklOVm9HRC1maWk2Qk5OYzFVaTRYSEhxUnNVZG9nUHV0X3ZwNG02RmdIbEY0MjNxN3E3R1h2YXJKR3lFS19qRERodmpPWVZSaU84ZVVqN1VZaWJHUkJQamFrNjh6a2w2cF82R2RGRmdfZ2ctZ2I?oc=5)
+
+2026-08-18
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2M4cURJcENLTDI3YVR5bDZqMTN3M2E1dEZKR1pKUHFuRlZGNEY4RjhqOEFWTk5PcWRhcklOVm9HRC1maWk2Qk5OYzFVaTRYSEhxUnNVZG9nUHV0X3ZwNG02RmdIbEY0MjNxN3E3R1h2YXJKR3lFS19qRERodmpPWVZSaU84ZVVqN1VZaWJHUkJQamFrNjh6a2w2cF82R2RGRmdfZ2ctZ2I?oc=5)
 
 ---
 
@@ -121,7 +153,7 @@ permalink: /news/atrial-fibrillation/
 
 2026-08-17
 
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUktNHREV1BuRlVJR21vOGpfRlFkM2Jvc1luZVI2YkYxRkM1bUw1MWRRWUEtNnpyYUZ1Wl9MQ25WNEFrbEJxWkdCSEhSVnV4VXJ1dF9NTGVQR3REbk5RWnhkTWgxV2hfblJFaUJZREFfTmdtRXpidGt1alpjYm5KUVFJTkt4VDk0bU1FeE1Yc19KbHhCaGxxVXlNSk44TzhPSnJLMVlHQ0p3eWo3SFBTWElFNA?oc=5)
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUktNHREV1BuRlVJR21vOGpfRlFkM2Jvc1luZVI2YkYxRkM1bUw1MWRRWUEtNnpyYUZ1Wl9MQ25WNEFrbEJxWkdCSEhSVnV4VXJ1dF9NTGVQR3REbk5RWnhkTWgxV2hfblJFaUJZREFfTmdtRXpidGt1alpjYm5KUVFJTkt4VDk0bU1FeE1Yc19KbHhCaGxxVXlNSk44TzhPSnJLMVlHQ0p3eWo3SFBTWElFNA?oc=5)
 
 ---
 
@@ -141,27 +173,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Long COVID im Kopf?](https://news.google.com/rss/articles/CBMid0FVX3lxTE9DbTZFaWVaY2VOclQ3dWFpNGNjd2pQamc4R3lQQVhMaUFUZll6SGJxcTFybWU5cFFXNVFNS1YyaTNaam13aHc0SThCRWJiS0tuRUVSbU5VN0tjZFNQSUV4YTBIaXFmcjVqeXFsaTlIbkxBRnRYSFU4?oc=5)
-
-2026-08-17
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE9DbTZFaWVaY2VOclQ3dWFpNGNjd2pQamc4R3lQQVhMaUFUZll6SGJxcTFybWU5cFFXNVFNS1YyaTNaam13aHc0SThCRWJiS0tuRUVSbU5VN0tjZFNQSUV4YTBIaXFmcjVqeXFsaTlIbkxBRnRYSFU4?oc=5)
-
----
-
 ### [Schlafstörungen und Fatigue persistierten über die COVID-19-Pandemie hinaus – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZXZBZFRiaHV0YW9LVno1TExqNWlRVVBTZVVaaUhkaDg5bHB5UmVWdEJfWVNSTXVRek5TT1JQZndiTlhHWV9yT1g1WDF1LWtab3B5aGhnTlczTWZmVDZUMG83UGRFRkw4eTBUM0FZSlNhY1dNVTE5Ri1URjZmSHhSU3NYb1V6Ri1EbGxKcFVES3RpY3JVTUhBVmRfUzBSR1RSNnJCSU5oM3hRWkpxVFphOTdRNHlrRHNSNUpMWjJHR2F1N3hjVkM1QlZWa1NwaGYya2VxX3JNUVFYdlhh?oc=5)
 
 2026-08-17
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZXZBZFRiaHV0YW9LVno1TExqNWlRVVBTZVVaaUhkaDg5bHB5UmVWdEJfWVNSTXVRek5TT1JQZndiTlhHWV9yT1g1WDF1LWtab3B5aGhnTlczTWZmVDZUMG83UGRFRkw4eTBUM0FZSlNhY1dNVTE5Ri1URjZmSHhSU3NYb1V6Ri1EbGxKcFVES3RpY3JVTUhBVmRfUzBSR1RSNnJCSU5oM3hRWkpxVFphOTdRNHlrRHNSNUpMWjJHR2F1N3hjVkM1QlZWa1NwaGYya2VxX3JNUVFYdlhh?oc=5)
-
----
-
-### [Her Boyfriend Got Mad She Wouldn’t Let His Friends Babysit Her Nieces—but She Refused to Risk the Kids’ Safety](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX3pudmRjcEZyNEF2X3d5M0FKYnlfbHJHbkNwX1k0VmVFZFZhUm1LZHowNXdZTy0zWmRGdy14cllLZ2J5YkR6Y3lqVjNxR084emZLWUpqbU5vRGI5NUdRbHZ2TzNxdV9MR3JqWmwwMjJGU1VjZEQ4blJSVVZSeDEwMDhuUEZ1YkxJYTRFNjhweVB5aHdaOS1fRV8xaWdJQzV2cnVPSTlLQnVBUU54dkZmeXVhanlPbGtydWQzeDFVV3NFZU0xTHZkeVpiSFo4RVdLcndxQVBLV1JQaHRRZnI3QlBhb2hVa0M2bzc0MUQtejhsbEFUQXpCVGFPejY?oc=5)
-
-2026-08-17
-
-來源：[TwistedSifter](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX3pudmRjcEZyNEF2X3d5M0FKYnlfbHJHbkNwX1k0VmVFZFZhUm1LZHowNXdZTy0zWmRGdy14cllLZ2J5YkR6Y3lqVjNxR084emZLWUpqbU5vRGI5NUdRbHZ2TzNxdV9MR3JqWmwwMjJGU1VjZEQ4blJSVVZSeDEwMDhuUEZ1YkxJYTRFNjhweVB5aHdaOS1fRV8xaWdJQzV2cnVPSTlLQnVBUU54dkZmeXVhanlPbGtydWQzeDFVV3NFZU0xTHZkeVpiSFo4RVdLcndxQVBLV1JQaHRRZnI3QlBhb2hVa0M2bzc0MUQtejhsbEFUQXpCVGFPejY?oc=5)
 
 ---
 
@@ -189,35 +205,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [How diabetes can affect your ability to control the pedals while driving](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNkY2bXVjd1Q5TUVVWnhOc2xTTkpVTGswTzVJOWs4TWkyVlUxM25DdUZQc28wdmk2T09VXzUxSnVwejNhYmxyakZPeEd6Sl9EcVB2YlRGMEtjdzhHUDlZeGs0S05PZERzWFBrOXBZV29rREl6UXJQSEpwTExkckVWaGppTExGQ1hiMmhEMVJ2b2ZVeENyYXBFTlk3OG9MUlFmNi14S2MzX1JpQWM?oc=5)
-
-2026-08-17
-
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNkY2bXVjd1Q5TUVVWnhOc2xTTkpVTGswTzVJOWs4TWkyVlUxM25DdUZQc28wdmk2T09VXzUxSnVwejNhYmxyakZPeEd6Sl9EcVB2YlRGMEtjdzhHUDlZeGs0S05PZERzWFBrOXBZV29rREl6UXJQSEpwTExkckVWaGppTExGQ1hiMmhEMVJ2b2ZVeENyYXBFTlk3OG9MUlFmNi14S2MzX1JpQWM?oc=5)
-
----
-
 ### [Alzheimer: Mikroglia-Blockade bringt 2 Stunden Schlaf zurück - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3pLeXJMNy1jcjR6bXNaM3Rfd3BGZHJKZzN6X1QzMUsycnIwazRsU1E1QUVLdG16LVVKRHRTcFFHSmNnUlNFTnNxYk5jbHdRN0JuRlM1am1QZjg5LTRqZmxtV2JVYnRSUlpYT2ZiRDNwXzQtaUQtWENoMktNMG1SQlYxSUE1dlROQkVyME9HTWtUZ1VzYloteWxLLWxXd2hUTXNmbFB2M1FwU0l5RFE?oc=5)
 
 2026-08-17
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3pLeXJMNy1jcjR6bXNaM3Rfd3BGZHJKZzN6X1QzMUsycnIwazRsU1E1QUVLdG16LVVKRHRTcFFHSmNnUlNFTnNxYk5jbHdRN0JuRlM1am1QZjg5LTRqZmxtV2JVYnRSUlpYT2ZiRDNwXzQtaUQtWENoMktNMG1SQlYxSUE1dlROQkVyME9HTWtUZ1VzYloteWxLLWxXd2hUTXNmbFB2M1FwU0l5RFE?oc=5)
-
----
-
-### [Wissenschaftler entdecken möglichen Auslöser von Alzheimer – er beginnt schon mit 50 Jahren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M1UDZTM2trVGpINWFJYmpya3hCVUp3alRrQllISG9NSHlWVGFNN2UydDJWcFRIbUMzdGNici0wdlNUQzlONzdJNzZscHlhYW5iMlNqeElCSjNRUkZDU0NiLUhXRjhXdFlqaWItM0xlYjNPMk5ZaE1PLWRjR0xQT056VTBackFlRXppUVRWOFF1QnFxa1dSOXk4NHVaLWozdS01Zg?oc=5)
-
-2026-08-17
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M1UDZTM2trVGpINWFJYmpya3hCVUp3alRrQllISG9NSHlWVGFNN2UydDJWcFRIbUMzdGNici0wdlNUQzlONzdJNzZscHlhYW5iMlNqeElCSjNRUkZDU0NiLUhXRjhXdFlqaWItM0xlYjNPMk5ZaE1PLWRjR0xQT056VTBackFlRXppUVRWOFF1QnFxa1dSOXk4NHVaLWozdS01Zg?oc=5)
-
----
-
-### [The top-rated Coventry GP surgery where patients praise ‘caring’ staff - Coventry Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmpXRk1Fa3JZSmRMZFUxNmI4XzhNVGI5eGdOU3V2LWVDS1Znb0VzNWNmWU5iUEIyblF2U3ltRGVFYllZdElyd01fTmJsckxYNmNvNXR1WFhQTlJzVmVmOUNOZEF2YVFBWkUwRnFySHdJWF82UnN3TXlzUVJCbjhablVIZnpJbjk1bWswczZvbnIyRE44VFE?oc=5)
-
-2026-08-17
-
-來源：[Coventry Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmpXRk1Fa3JZSmRMZFUxNmI4XzhNVGI5eGdOU3V2LWVDS1Znb0VzNWNmWU5iUEIyblF2U3ltRGVFYllZdElyd01fTmJsckxYNmNvNXR1WFhQTlJzVmVmOUNOZEF2YVFBWkUwRnFySHdJWF82UnN3TXlzUVJCbjhablVIZnpJbjk1bWswczZvbnIyRE44VFE?oc=5)
 
 ---
 
