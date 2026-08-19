@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。7 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>7 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,45 +54,53 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
+### [Los mineros de oro itinerantes en el este de Congo complican la contención del ébola - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDFuYTlkZnFkblpkQU82dmFSeXZNRTFzOGJzMm5oYXB6U1dTdkNRODc5LWxENzJRb2NzNFJBYS14ZmdnSHdmcWl1cmhKV291SHVNRHVFdFRfdkpDdkEySGptYkJrMTc2RkljNXNGdTloV1JUcXc1Q0VKZTNSM1kyQTZCdVBLNzgzMGltbUR6OVc5THM?oc=5)
 
 2026-08-19
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
+來源：[AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDFuYTlkZnFkblpkQU82dmFSeXZNRTFzOGJzMm5oYXB6U1dTdkNRODc5LWxENzJRb2NzNFJBYS14ZmdnSHdmcWl1cmhKV291SHVNRHVFdFRfdkpDdkEySGptYkJrMTc2RkljNXNGdTloV1JUcXc1Q0VKZTNSM1kyQTZCdVBLNzgzMGltbUR6OVc5THM?oc=5)
 
 ---
 
-### [La OMS confía en que es posible controlar en tres meses el brote de ébola “con los recursos necesarios” - France 24](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbkFEQ29pajExT2tiWFZ5NlBQUHctcUQ5Q0tuWEhISU9zdFRLVFk2WWxBUGVkaGY2c0lKVV9yMlJxNEtmellFYWN2Q2t3d1FDNC12QW1ucUdYTWd0YXV2bXN3Vk9vak40M2YtT0k4eDJ6WmNXRy03NlQ2dUYwWDFaRzZRYnNlLV9WV2F6R0k1REpTR0NBaXJLV0U0WmJkaHBfWnRyTGQwc3d6VkJtOEs2aUtubnhLZU1tX1JDNVYteWZBdGJnZDE3ck1FQ2wxY2lOZWRTLTVWc2hOdENYbmloY1QwbHNVeTMtckVWdE5KMkNFdw?oc=5)
+### [Reizdarm: Diese pflanzlichen Behandlungsansätze wirken nachweisbar](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDlxSVlMc3gzSXV0UGxCcEwxT0NMSE14YUlvWC15bzdWUF91RzJHZHU5c0R3UWFPbTIxbDh3eGZJajViU1dtZzQyemI1QkZHWVBsN0NBZVkzTHAxeVJSWm9nTnQ5czlQQlJrMkhXSEV0U3hrM0V0UHh3QnhybmR6VDhWcFNTWDBrcUViUV82SHRLaWdSeG5LQnUzb014MW1JcERNYUpNR2VpQ2R3WDFOLXQyTnBCY0NPZGJKLTRTYmJLODhuWWJWT3h1Unc2dG8?oc=5)
+
+2026-08-19
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDlxSVlMc3gzSXV0UGxCcEwxT0NMSE14YUlvWC15bzdWUF91RzJHZHU5c0R3UWFPbTIxbDh3eGZJajViU1dtZzQyemI1QkZHWVBsN0NBZVkzTHAxeVJSWm9nTnQ5czlQQlJrMkhXSEV0U3hrM0V0UHh3QnhybmR6VDhWcFNTWDBrcUViUV82SHRLaWdSeG5LQnUzb014MW1JcERNYUpNR2VpQ2R3WDFOLXQyTnBCY0NPZGJKLTRTYmJLODhuWWJWT3h1Unc2dG8?oc=5)
+
+---
+
+### [Ebola en RD Congo : plus de 5 000 cas recensés, l'OMS redoute une propagation internationale - France 24](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWhNcGMwUGo2R3NGdkxQeXJnSkZ0S2pVbzBncE9ua3VubFVVeG9FdlhLZ1ZTX19WU2RzcGxlbTIyRG1yVFhDZ0VqLUFDYzdvdDdLMXc0TERhSUZlVUVlTlUxQnE3X2lkcG9iS21KaVVsa2Vla3hvNXJ5TWpZcHJUdWwzSGt1ZEY5X01lZHl5UTkxLVBscjVqemxYOF9WWkkxY0RkcW55bkE1N0NYWG9lY1pUN0NFay1GMDhtRlBqaTU?oc=5)
+
+2026-08-19
+
+來源：[France 24](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWhNcGMwUGo2R3NGdkxQeXJnSkZ0S2pVbzBncE9ua3VubFVVeG9FdlhLZ1ZTX19WU2RzcGxlbTIyRG1yVFhDZ0VqLUFDYzdvdDdLMXc0TERhSUZlVUVlTlUxQnE3X2lkcG9iS21KaVVsa2Vla3hvNXJ5TWpZcHJUdWwzSGt1ZEY5X01lZHl5UTkxLVBscjVqemxYOF9WWkkxY0RkcW55bkE1N0NYWG9lY1pUN0NFay1GMDhtRlBqaTU?oc=5)
+
+---
+
+### [Los avances sanitarios pierden velocidad: la OMS llama a reforzar la inversión y las políticas de salud - Gaceta Médica](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUVtc3c5Wm5leTZaLTAtSDZMNndadnBlcHN6WG5QWlRuTzNiTDRub1RVaUpDRDhnR2tOMXJLQ1RxMmxOaGxfUGRBMFRJMFVOU05wZXQ5cmtYX3J0NVAxUGNWWVdoZVVvLVNTY2I5VTJnUGItOG5aSC1SSHZGeW5RV3V6ZnRvYkhvRFBBMFlXT25nemdCZG4tUlFJMUxBdw?oc=5)
+
+2026-08-19
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUVtc3c5Wm5leTZaLTAtSDZMNndadnBlcHN6WG5QWlRuTzNiTDRub1RVaUpDRDhnR2tOMXJLQ1RxMmxOaGxfUGRBMFRJMFVOU05wZXQ5cmtYX3J0NVAxUGNWWVdoZVVvLVNTY2I5VTJnUGItOG5aSC1SSHZGeW5RV3V6ZnRvYkhvRFBBMFlXT25nemdCZG4tUlFJMUxBdw?oc=5)
+
+---
+
+### [Vitamin K2: Neue Studie belegt Schutz vor Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
 
 2026-08-18
 
-來源：[France 24](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbkFEQ29pajExT2tiWFZ5NlBQUHctcUQ5Q0tuWEhISU9zdFRLVFk2WWxBUGVkaGY2c0lKVV9yMlJxNEtmellFYWN2Q2t3d1FDNC12QW1ucUdYTWd0YXV2bXN3Vk9vak40M2YtT0k4eDJ6WmNXRy03NlQ2dUYwWDFaRzZRYnNlLV9WV2F6R0k1REpTR0NBaXJLV0U0WmJkaHBfWnRyTGQwc3d6VkJtOEs2aUtubnhLZU1tX1JDNVYteWZBdGJnZDE3ck1FQ2wxY2lOZWRTLTVWc2hOdENYbmloY1QwbHNVeTMtckVWdE5KMkNFdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
 
 ---
 
-### [My PMS was so bad I had horrific panic attacks and it felt like there were bricks under my skin… 50p-a-day pill cured me - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
+### [My PMS was so bad I had horrific panic attacks and it felt like there were bricks under my skin… 50p-a-day pill cured me](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
 
 2026-08-18
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
-
----
-
-### [Babies born under sugar rationing grew into adults with lower cancer risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
-
-2026-08-18
-
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
-
----
-
-### [Health plea for children as hepatitis A outbreak in Barry continues](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
-
-2026-08-17
-
-來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
 
 ---
 
@@ -101,30 +109,6 @@ permalink: /news/multiple-sclerosis/
 2026-08-17
 
 來源：[Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxNYzBSTzJyMzlEYzlwOXcyY2JGR3JYWHpEY0NLcWtpY3RXeEpucHVLSGNFZTF2R3Y0TGRLM2pIVkc2YzZYNWl0ajYtTHE3OXZmZmJQNTV1TmxVMU9JZkZYTkd2S2c0bUNPaTF0R2pOck13bFRrU3N4d2tNYlJZT3FIWnl0TzhtSDgyMVdOdkVURXdUTnhNVkJZbDhSOG5ZWWdlMFNHeVBCanl0dGh2WDFMbmpTREFBQTJZSzNxejdEakpKRkxlcHhNNTQzRk9iRTFQbWhIWW1NSFYtYXozTGhwZ3JtTFZQVlozQllVRFNKaklVSnNzTi05bmRxUGZPSzl2cjNwSFRmWDRFTEtjWUQ4WEdmT3ZCSGdJdnczam1XdHBlU2tSNmxuUGlpOGRtdmZfOVVXVEh6eGU3VmVhQW1n?oc=5)
-
----
-
-### [Scheinfasten: Kann die 5-Tage-Diät das Altern bremsen?](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHRCWXJXS1F4RzMxNzFxSkRTeXMzQ1gwbUxyTjFrUjZlVUx3S0N5MlFMbGptd05od0dIczBQR29JeWlsNkVUMUFPd1VDNnUtT3daSWZuam1wODhwQ0lyTTlwRnZGUVB1VHB1aGFUdnROUG42cEgyblp6VHc2ZE1XUVY3dGJuRk5Wa0I5eHhHLVoyckhTdGxKMw?oc=5)
-
-2026-08-17
-
-來源：[TZ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHRCWXJXS1F4RzMxNzFxSkRTeXMzQ1gwbUxyTjFrUjZlVUx3S0N5MlFMbGptd05od0dIczBQR29JeWlsNkVUMUFPd1VDNnUtT3daSWZuam1wODhwQ0lyTTlwRnZGUVB1VHB1aGFUdnROUG42cEgyblp6VHc2ZE1XUVY3dGJuRk5Wa0I5eHhHLVoyckhTdGxKMw?oc=5)
-
----
-
-### [Reizdarm: Diese pflanzlichen Behandlungsansätze wirken](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVgyclc2RnJqWTNoMXlmMk9ST1h4cWZFZ0xrTkMyNGNHT0V4ck80V1FDYUl3TEZPS3laMm9FVTV2MDRHX3dmRVBvWkRPTDZ3WGFnRzRnTFVEcFFsMzFpRXVVejlpQnkxVUlXbjFMeXo2UHVsbElZMk5RUzdjQ0xiY0JwcDl5WnJBd3ROYk85NnNFVzB5dllSQXM4R1d6Zlo3elE2Z0ZOYlF4ZjVGZzRqSHp6NGhOT0luRkoyYlFKOA?oc=5)
-
-2026-08-17
-
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVgyclc2RnJqWTNoMXlmMk9ST1h4cWZFZ0xrTkMyNGNHT0V4ck80V1FDYUl3TEZPS3laMm9FVTV2MDRHX3dmRVBvWkRPTDZ3WGFnRzRnTFVEcFFsMzFpRXVVejlpQnkxVUlXbjFMeXo2UHVsbElZMk5RUzdjQ0xiY0JwcDl5WnJBd3ROYk85NnNFVzB5dllSQXM4R1d6Zlo3elE2Z0ZOYlF4ZjVGZzRqSHp6NGhOT0luRkoyYlFKOA?oc=5)
-
----
-
-### [Geordie Shore star's dad 'sent home with laxatives for constipation' had terminal bowel cancer - Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
-
-2026-08-17
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlJkQnozb1dFY0VPRVNOOEZfQl9BRlpZVUYtN3hwN3JITS1IeDJZOE04dXR5Q2FIT0RlN2lpOW9kV3YtZ2cwTy1CY3hZRVF3ZjNLcFMtR1RqT295amVMR2FEV2MtcXZoendsOUFWUTAwT0ZsU2MtcVJLVDd6Zl9pNE1hVENLQWFULVZnTVR2ZkhaODNN0gGaAUFVX3lxTE5pZkNDa3lWek00X2tLTG81US1hemp3WTVWQ21UbExDMGZXY0xiRlZwRlhET3l5SUZTY251R3NqTHBvazUzLU1rT1h4Q1lHY0hvRmxDcktGYTc1RHU1Q1pEbXItcm5ERlZDOGFUYUlvM1RaTEM3NU5vN3JXT0cwcGZCSE44bE51eGxsOEdTSGJDNVZUeG9VYzYxMEE?oc=5)
 
 ---
 

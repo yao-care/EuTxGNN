@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="Apremilast 有什麼相關新聞？">
-<strong>Apremilast</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apremilast</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/apremilast/
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [The Best Afternoon Drink for High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
+### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGRMQ2FPVFhZNUFyWmtLclRlOXJ3MV8zTmRCUVg2emEzSFAzbWR6LUxMVjJpZndEbEh3NDM3MFpkN2ZzTmJ5TEhzblVRUXpNVUhnZFhseUh6MGdwOFIzdFpvcDY1Vm43YVljdUZ5dXF1MEFlMWp5SW9aLUZCUFdfekRURmI0OW8?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
+
+---
+
+### [FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
+
+2026-08-18 <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
 
 ---
 
@@ -66,23 +74,15 @@ permalink: /news/apremilast/
 
 2026-08-18 <span class="news-indication-tag">hypertension</span>
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
 
 ---
 
-### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs - Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 2026-08-18 <span class="news-indication-tag">arthritis</span>
 
-來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
-
----
-
-### ["Tu as bu assez d’eau ?" : victime de migraines chroniques depuis toute petite, cette Corrézienne subit l'incompréhension de tous - La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
-
-2026-08-18 <span class="news-indication-tag">migraine</span>
-
-來源：[La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+來源：[liverpoolecho.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 ---
 
@@ -91,22 +91,6 @@ permalink: /news/apremilast/
 2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVKcW5vaklLSk9kTjNTaHI2QjJXOUVZWjRXWlRWei02U0drMFJ0YTJOTWVMN2tpQm1MZkd4RDUtSm1BdVVlUXZ0Qnl3YUxwR2d6YkFZempFaDhyb3YzSUpBdTN2ekZVX0ppeGhteWFBYlY0V0tEZ01MWjlRN2dGM3ZmUGRhUzUwakZUX01tSmJGdTlBRjlSUWcxVXlDMnNxSGVoWTN6ajZCQQ?oc=5)
-
----
-
-### [Bluthochdruck-Vorsorge: Neuer Index zeigt 116% höheres Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
-
-2026-08-17 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVRjMWJyNndjVlZGT3lKYWlCTEdOLVhtNldZZU9yX3g2YzVWNzlJNGJybnZFMXBIemRoWXdLZnVwOUR5RngySDRBVG00VGRSbnhEZ0pZeThiOWtLZ2JkZ1l4M3I5QXNvY3BkTk9hbTRBUGRXS1NNbXNsckdjaUh0Y3BlejlMS2NXZlU2cWpLRGJncDByLUtJYzN4NGZ6S25QWHRLV2RCVEJqbE52MDM4?oc=5)
-
----
-
-### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
-
-2026-08-17 <span class="news-indication-tag">Migräne</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
 
 ---
 

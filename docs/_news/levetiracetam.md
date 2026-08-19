@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,15 +46,21 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li>epilepsy（99.2%）</li>
+<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 Epilepsie</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Biologisches Geschlecht und Epilepsie – Aktuelle Evidenz und klinische Relevanz](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHVSeWROQ1k2TnNTeUZJQXRFRVVZcHhUYzZjNW9YYUV4UEJzRjVHeWJoWEd4YU81MjRsZEVwS29uZkN6U1VTQWY3Wko1WkUyeFpZZlZGOTE0TFFLVVBINm5MeWl4Y3hGQWFrWGI2aEJxNUMzS2I1SEFrbHpsanJsZ080Q2VsYmt0SUZwRGJlV0pIX3N0N05vM3dZQ3NmRF8xQld0MHI0cUxGSFBfWFVRUmZlbVRabkF0eGFrb05tdXhjWGdGYjM4?oc=5)
+
+2026-08-19 <span class="news-indication-tag">Epilepsie</span>
+
+來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHVSeWROQ1k2TnNTeUZJQXRFRVVZcHhUYzZjNW9YYUV4UEJzRjVHeWJoWEd4YU81MjRsZEVwS29uZkN6U1VTQWY3Wko1WkUyeFpZZlZGOTE0TFFLVVBINm5MeWl4Y3hGQWFrWGI2aEJxNUMzS2I1SEFrbHpsanJsZ080Q2VsYmt0SUZwRGJlV0pIX3N0N05vM3dZQ3NmRF8xQld0MHI0cUxGSFBfWFVRUmZlbVRabkF0eGFrb05tdXhjWGdGYjM4?oc=5)
+
+---
 
 
 <div class="disclaimer">

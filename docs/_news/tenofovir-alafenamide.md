@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir Alafenamide 有什麼相關新聞？">
-<strong>Tenofovir Alafenamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenofovir Alafenamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/tenofovir-alafenamide/
 <p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Health plea for children as hepatitis A outbreak in Barry continues](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
-
-2026-08-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU29uSXIzZ09mdDdhLThSOUJEMUYtVHQxd1pkN3RoZWNVMllmM3FUTlFMN0JqVkM0OFJwanVIMjNQRWJaaUwxcmJLNXJfUkEzdUdJNDN3a2JvTXZGVkRkUWRBLWpwNGFTdGRfYUh2YXpndUdZVWpKUW1pRTU3YVdKQTNxelJZM2I3dTl5eXVEbnA5eTVqQnlTMnNR0gGfAUFVX3lxTE10VURTa0xfdzdwbDRCMVNha3hSREtfaHBTTGI3d2RrSTA5Mkk1UXlQc3p2SmJkRG4teGNaYUNjd242TElmX2paMUxSYllrX0hXa0xGdFV6bldYZUE1ZEhGUUtxUmR0aEpMczBnVGF0VlpOS3lDNHVwTUJYTExwMGJkMHJON2NmUzF2UFpPQk05c1ZVRGRZT0hoMy1fRXZBbw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

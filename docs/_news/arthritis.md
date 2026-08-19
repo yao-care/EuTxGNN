@@ -3,7 +3,7 @@ layout: default
 title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,13 +101,21 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs - Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+### [FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
 
 2026-08-18
 
-來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
+
+---
+
+### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+
+2026-08-18
+
+來源：[liverpoolecho.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 ---
 

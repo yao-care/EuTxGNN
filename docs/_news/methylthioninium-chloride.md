@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Cette IA est capable d'élaborer des virus qui n'existent pas dans la nature ! Faut-il réellement s'inquiéter ?](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
-
-2026-08-18 <span class="news-indication-tag">EPOC</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUElMTXpTaDdxNkloY1Y5WUplazNHN0VxU21FUGh3MXJuZndWTWZaWWI1NWVFTXZIaV95Qlg5ZE94VzZyc0pTRHlCWFlRUy0wRG9xZm44S0M3aFBBTVkwXzZoMDFQYjBEVzdQRF9nb2g2S0MxMlVVcTYwdUpJUTh2SF9lbFVwQjd6dGxtajdwZDdKUXJ5czNoeUQzcUF4MTJ5ZE9nREZuSzNCaTUxeGY5SzlTMWRld3pXRWt4UjFlVl8tOElVVmc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Babies born under sugar rationing grew into adults with lower cancer risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
-2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
 ---
 
@@ -91,22 +91,6 @@ permalink: /news/opicapone/
 2026-08-17 <span class="news-indication-tag">alzheimer disease</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
-
----
-
-### [Brain Age Tied to Dementia Risk in Those With Memory Issues](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEFxWkd4UEh4aVd6S095NzVMYVBwbHhfd0I1aU9qeUZjZ3NOVFVRbl81eV80NWFldzlocFNYSFdEYks0YmJuT01VVUNnV3dPNlVZand1eUl3OUdkWUtad0FncGZlZUdkNmVnQUVUc1hXcTV2SU4wcmlOQm1CVXVwQTBPMDM1N2U3R25xWHRLZjZnalBjSXJVUGpMUkVrc0d3UDJmbzlUMTRpSWJX?oc=5)
-
-2026-08-17 <span class="news-indication-tag">dementia</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEFxWkd4UEh4aVd6S095NzVMYVBwbHhfd0I1aU9qeUZjZ3NOVFVRbl81eV80NWFldzlocFNYSFdEYks0YmJuT01VVUNnV3dPNlVZand1eUl3OUdkWUtad0FncGZlZUdkNmVnQUVUc1hXcTV2SU4wcmlOQm1CVXVwQTBPMDM1N2U3R25xWHRLZjZnalBjSXJVUGpMUkVrc0d3UDJmbzlUMTRpSWJX?oc=5)
-
----
-
-### [Les statines pourraient ralentir le déclin cognitif chez les femmes avec la maladie d'Alzheimer et LDL-C élevé](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTVxTGY4anhIUGNwWlFkNy0ydVU2cE9fMGtkX3BfS1hqa3p6SDAwUWs5U2VpdXVvbXVxdm1LenVtdlpVNW9GOEQ4X1lWdXF2b09MUnNxZm1ybmplRFVUYUtjRkxuUFNTTUkwTEJ6Z1pJekZpd0RfTGhIT2VLOHhDaTRVODVKTnN6b2JqcUs5M1MzcHZYbl9fbkJoRHVCNjloYmR3eEZpRnFvamw3b1E?oc=5)
-
-2026-08-17 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTVxTGY4anhIUGNwWlFkNy0ydVU2cE9fMGtkX3BfS1hqa3p6SDAwUWs5U2VpdXVvbXVxdm1LenVtdlpVNW9GOEQ4X1lWdXF2b09MUnNxZm1ybmplRFVUYUtjRkxuUFNTTUkwTEJ6Z1pJekZpd0RfTGhIT2VLOHhDaTRVODVKTnN6b2JqcUs5M1MzcHZYbl9fbkJoRHVCNjloYmR3eEZpRnFvamw3b1E?oc=5)
 
 ---
 

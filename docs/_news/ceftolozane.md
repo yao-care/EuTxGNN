@@ -54,11 +54,11 @@ permalink: /news/ceftolozane/
 
 ## 相關新聞（1 則）
 
-### [Studie: Katzenbesitz scheint Asthma bei Kindern nicht zu verschlimmern](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
+### [Studie: Katzenbesitz scheint Asthma bei Kindern nicht zu verschlimmern - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
 
 2026-08-17 <span class="news-indication-tag">asthma</span>
 
-來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
+來源：[TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
 
 ---
 

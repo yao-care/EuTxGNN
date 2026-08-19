@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs - Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+### [FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
 
 2026-08-18 <span class="news-indication-tag">arthritis</span>
 
-來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
 
 ---
 
-### ["Tu as bu assez d’eau ?" : victime de migraines chroniques depuis toute petite, cette Corrézienne subit l'incompréhension de tous - La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
+### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
-2026-08-18 <span class="news-indication-tag">migraine</span>
+2026-08-18 <span class="news-indication-tag">arthritis</span>
 
-來源：[La Montagne](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVy1uc09CbC1ESXBnVzgxMlkzcUJtYUhFeW1pSkJuT0M3cUVJZm9iUlVQRzdQem9xXzQ5MWZmU1J1bThHeEJ3aTMyUFZkVEgwaFRmbnZGSThaQ3l3ZzA2ZVduYURkdkwzNFdZN3d4QlhmZG1OS0E5a1hZQ0tYaUdUTFBlMmZoaUlxTV82cFlPNkFSSFBMcDhiVVp2cHR5Q2lBQzUzajlrYXhQelZGTTM4Y0JIMF9sV05mTUFwUm8tRHpIZk5BS2VjVHhJREdGbHdLb2dFQlhGcERpTEV4OWh4QlJndDhFMm10azZMTDdWSmxFWFpBQzBrMjdJdjEyNGM?oc=5)
-
----
-
-### [ADHS & Migräne: „Fehlende Reizfilter führen schnell zu Überlastung“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
-
-2026-08-17 <span class="news-indication-tag">Migräne</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDNVZVJYR2ZSZWxreFdlS0hKTEJiVTFocFRqSmJvNTY2UlVRZ1dGc2xzYW5CMXBIb3hGc3E5SzZqQzJ6aF9LZTVmRVM5TWJDZks4NjN1TWEyZmFTa29CZ21oUEZtaUxDZ1VVTTZYSHQ1S3NxNkZwdERVaEgyM29PdThpcGw5MTV4ZXJFWEZmeDFlOFB3cDV3VGpZRURBWlg2X2RxZTJQTlJUV3FEQ2JYMnU0MEhaV1I4UTA4bEMwNzVpRmxfOERwSkM4bVF5UQ?oc=5)
+來源：[liverpoolecho.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 ---
 
