@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li>asthma（86.3%）</li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -64,7 +64,7 @@ permalink: /news/somapacitan/
 
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/somapacitan/
 2026-08-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMivwJBVV95cUxORUFrT1EyS3hwUFVqT2ExRkhURXN1eHhqRFFGOUF2VDlEeTNsVzN0MWJCRUc1SGFka1Izc3lMMlV0S0tXclVxM3dwYm1hdlYxcHRVekZDQnNXeDRXMjJSQjdOSnUxNkdKNFMycTY0Q0RCd3gtQ1dVSHI5Qy1uUVV1SWlhZC1CM0M3YllVSUlYN3ctQVotTGlka1VZbmE4WjBQZzVOaFFqX1RNSmFGMW9BOXFrbUdIOE9ETmdWcTV6WjBpNmQxaFBoV1BkU0FqbEJ5V2toR05SV3p1RHlnZ0NCLUNuVjVrUXlLeWFuYjNEM1lVZTNhQmdjOE1PQjZjZXZfZU1zd0tfTHhYRVdYSXNLQkw3bEhsWUwtUHFlLW9nZklhd2IxYkxMVHBWVERvY0ljVzdiUFA5VjQ2Z1VqR3hB0gGqAkFVX3lxTE1FczdhbFZJTURNSG5YZmc5OTNYN1EyLXNlZWZsNFJ0c0FfRlNaZWVQVUFlb2FqOUh5bndDVFhORENCM3A2dUJvUWE1YnRiMzltX184ZTE2VHQ0SllNZjdlYW4zX3N6ZFJqMXJWT2Z4dHVLR0Q5Zm5tWTI2NXBaSlpGN0hXNTRHTkU5QTZsNzBXRHhyZm13aEdfZjN3YUZVVzFQcTBVTjA5RWJMc1lIMGVRMnJqdUw1dC1iM2hBMklUcFZfU3cwQWhveWd1ZHNfOGFfSW5GVENVSzEyUmtvSE1PbkRub2RJSFNJc1hwOFIyY3ZiUUxQSkNZTTQwOEFBSjJqYVhHUTBxNzdYN3ZJTFVsWkFySG1vLVM3Z3FlRmMwdFc4RDVlY2pFcEE?oc=5)
+
+---
+
+### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
+
+2026-08-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[vanityfair.it](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/somapacitan/
 2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
 
 來源：[Newsweek](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
-
----
-
-### [Studie: Katzenbesitz scheint Asthma bei Kindern nicht zu verschlimmern - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
-
-2026-08-17 <span class="news-indication-tag">asthma</span>
-
-來源：[TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMingFBVV95cUxOekE2SWFHTXI4QlBfQndYUEV6UzZ1MFdBWDduX0xfc0FHZVhPc1lGT1JWZlMwWkxLa3BqMVhlZjk3RGh3Z2NaWl8xcFJkd3hLMUtVdVJSUVNDTDR3bVlmRWJ2d3pLR0xPMk1ObkFrLXpaUjhxMzJWb21NWWJpbzMxX19wY0g0VENwTEo3TE1hSWF4YTUxMHdEN1JRa2F1Zw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -98,6 +98,14 @@ permalink: /news/hypertension/
 2026-08-18
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
+
+---
+
+### [Bluthochdruck: 5 Minuten Atemtraining senkt Druck um 9 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
+
+2026-08-18
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
 
 ---
 

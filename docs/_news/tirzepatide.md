@@ -62,27 +62,27 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Pharmacist prescribes Mounjaro to 'anorexic' for months with no check-ups - but get away with just a warning](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
+### [Pharmacist prescribes Mounjaro to 'anorexic' for months with no check-ups - but get away with just a warning - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
 
 2026-08-18 <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
 
 ---
 
 ### [« La plupart des effets inattendus se sont révélés positifs » : les surprises d’Ozempic, Wegovy et Mounjaro… au-delà du poids - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
 
-2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
 
 ---
 
-### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs - Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 2026-08-18 <span class="news-indication-tag">arthritis</span>
 
-來源：[liverpoolecho.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 ---
 

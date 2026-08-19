@@ -64,7 +64,7 @@ permalink: /news/semaglutide/
 
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/semaglutide/
 2026-08-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMivwJBVV95cUxORUFrT1EyS3hwUFVqT2ExRkhURXN1eHhqRFFGOUF2VDlEeTNsVzN0MWJCRUc1SGFka1Izc3lMMlV0S0tXclVxM3dwYm1hdlYxcHRVekZDQnNXeDRXMjJSQjdOSnUxNkdKNFMycTY0Q0RCd3gtQ1dVSHI5Qy1uUVV1SWlhZC1CM0M3YllVSUlYN3ctQVotTGlka1VZbmE4WjBQZzVOaFFqX1RNSmFGMW9BOXFrbUdIOE9ETmdWcTV6WjBpNmQxaFBoV1BkU0FqbEJ5V2toR05SV3p1RHlnZ0NCLUNuVjVrUXlLeWFuYjNEM1lVZTNhQmdjOE1PQjZjZXZfZU1zd0tfTHhYRVdYSXNLQkw3bEhsWUwtUHFlLW9nZklhd2IxYkxMVHBWVERvY0ljVzdiUFA5VjQ2Z1VqR3hB0gGqAkFVX3lxTE1FczdhbFZJTURNSG5YZmc5OTNYN1EyLXNlZWZsNFJ0c0FfRlNaZWVQVUFlb2FqOUh5bndDVFhORENCM3A2dUJvUWE1YnRiMzltX184ZTE2VHQ0SllNZjdlYW4zX3N6ZFJqMXJWT2Z4dHVLR0Q5Zm5tWTI2NXBaSlpGN0hXNTRHTkU5QTZsNzBXRHhyZm13aEdfZjN3YUZVVzFQcTBVTjA5RWJMc1lIMGVRMnJqdUw1dC1iM2hBMklUcFZfU3cwQWhveWd1ZHNfOGFfSW5GVENVSzEyUmtvSE1PbkRub2RJSFNJc1hwOFIyY3ZiUUxQSkNZTTQwOEFBSjJqYVhHUTBxNzdYN3ZJTFVsWkFySG1vLVM3Z3FlRmMwdFc4RDVlY2pFcEE?oc=5)
+
+---
+
+### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
+
+2026-08-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[vanityfair.it](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
 ---
 
@@ -98,7 +106,7 @@ permalink: /news/semaglutide/
 
 2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+來源：[DW.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
 
 ---
 
@@ -112,7 +120,7 @@ permalink: /news/semaglutide/
 
 ### [« La plupart des effets inattendus se sont révélés positifs » : les surprises d’Ozempic, Wegovy et Mounjaro… au-delà du poids - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
 
-2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
 
@@ -123,14 +131,6 @@ permalink: /news/semaglutide/
 2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
 
 來源：[Newsweek](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
-
----
-
-### [Descubren un nuevo mecanismo cerebral por el que los fármacos GLP-1 favorecen la pérdida de peso](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGdBd2FHa0x5WEVyVXlCbGJoZ25LWDNHX2pybzVoemplNl9Mc2ZqbVRWUVhIQXlSNWFvUWJRazFqV2gzMmYzb1U5ZjNqdldCRGRYRzZCakZKSlFOZnk3MnpYN0NET2xGX1VoRlNqRkZKUFAwQ1dnbklacHVBT1BOT1dkd3lIX1E0MVdjSjZKVDRXZm9NOGl5eFlxTTlXc1lxT3NDbENuRjJsN1ZveUZxMDNELVQ4SUtGa2dfMTNrb2VLZDA?oc=5)
-
-2026-08-17 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGdBd2FHa0x5WEVyVXlCbGJoZ25LWDNHX2pybzVoemplNl9Mc2ZqbVRWUVhIQXlSNWFvUWJRazFqV2gzMmYzb1U5ZjNqdldCRGRYRzZCakZKSlFOZnk3MnpYN0NET2xGX1VoRlNqRkZKUFAwQ1dnbklacHVBT1BOT1dkd3lIX1E0MVdjSjZKVDRXZm9NOGl5eFlxTTlXc1lxT3NDbENuRjJsN1ZveUZxMDNELVQ4SUtGa2dfMTNrb2VLZDA?oc=5)
 
 ---
 

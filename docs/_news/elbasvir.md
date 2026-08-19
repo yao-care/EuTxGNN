@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（11 則）
 
-### [Los mineros de oro itinerantes en el este de Congo complican la contención del ébola - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDFuYTlkZnFkblpkQU82dmFSeXZNRTFzOGJzMm5oYXB6U1dTdkNRODc5LWxENzJRb2NzNFJBYS14ZmdnSHdmcWl1cmhKV291SHVNRHVFdFRfdkpDdkEySGptYkJrMTc2RkljNXNGdTloV1JUcXc1Q0VKZTNSM1kyQTZCdVBLNzgzMGltbUR6OVc5THM?oc=5)
+### [How ‘super-agers’ may stay healthy beyond 100 - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXp1RmU2QjhGaXgxdWNrX0F5MmIxVGtKLUpiT21aWURhZ0xRTXNQX1dQZFRnSzNmLWh4WV9wbXRsNjBVQmgwcGNyckM4c3VDMDFPbDNjYkxhN2hvMkJlV2ZLVGlWNkI2dkNseGFjNjFUMXFfU19aU3phY3FGWWk5Sl9PSEItaE9xVmlMd0pHTFFXVWV5T25NOURoSEdFOFE?oc=5)
+
+2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXp1RmU2QjhGaXgxdWNrX0F5MmIxVGtKLUpiT21aWURhZ0xRTXNQX1dQZFRnSzNmLWh4WV9wbXRsNjBVQmgwcGNyckM4c3VDMDFPbDNjYkxhN2hvMkJlV2ZLVGlWNkI2dkNseGFjNjFUMXFfU19aU3phY3FGWWk5Sl9PSEItaE9xVmlMd0pHTFFXVWV5T25NOURoSEdFOFE?oc=5)
+
+---
+
+### [R. D. Congo: a pesar del actual brote de Ébola, no deben descuidarse otras emergencias sanitarias en el este del país - Médicos Sin Fronteras](https://news.google.com/rss/articles/CBMifEFVX3lxTE10ajVqMnptd013OGJDYkpXVkZJZmJPT0tZN0xKa0xwNjBxZTVJVjZ1OWZlLW53YXRkTGo4Q0Q5clZlYllpa2E2aFpiekJUTTByVjVmMnlMbjBtdzZ5ZW9sUlh1MjR6aFVsYlZMcjdHMzN5dmk2YTd1WUQ5QXg?oc=5)
 
 2026-08-19 <span class="news-indication-tag">MS</span>
 
-來源：[AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDFuYTlkZnFkblpkQU82dmFSeXZNRTFzOGJzMm5oYXB6U1dTdkNRODc5LWxENzJRb2NzNFJBYS14ZmdnSHdmcWl1cmhKV291SHVNRHVFdFRfdkpDdkEySGptYkJrMTc2RkljNXNGdTloV1JUcXc1Q0VKZTNSM1kyQTZCdVBLNzgzMGltbUR6OVc5THM?oc=5)
+來源：[Médicos Sin Fronteras](https://news.google.com/rss/articles/CBMifEFVX3lxTE10ajVqMnptd013OGJDYkpXVkZJZmJPT0tZN0xKa0xwNjBxZTVJVjZ1OWZlLW53YXRkTGo4Q0Q5clZlYllpa2E2aFpiekJUTTByVjVmMnlMbjBtdzZ5ZW9sUlh1MjR6aFVsYlZMcjdHMzN5dmk2YTd1WUQ5QXg?oc=5)
+
+---
+
+### [Chronische Schmerzen: Gehirn-Schalter stoppt Nervenschmerz ohne Opioide - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzFlbllBY1NLbElXU2ZEbUlLb2h2b01PZTlBQXNwR0N0STdkSHpnVkJnU3l2RGljRGNWOF9UQldpYkJ5ek1hMmFxYXJjeGxJeGNCSUpVUm1hTF9lRGtJM0ZxZW1TQ0RZemFCc1ktTUh2bG1QN1EtSXVtNXdkT1B4anZEdGVoaTBmWTlJV0s2QXZtcUdSbEJpemwwWHdtdE1jMkYxcGlPelRnMzFPLXNpbGxYbS1VaTJmcm5n?oc=5)
+
+2026-08-19 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzFlbllBY1NLbElXU2ZEbUlLb2h2b01PZTlBQXNwR0N0STdkSHpnVkJnU3l2RGljRGNWOF9UQldpYkJ5ek1hMmFxYXJjeGxJeGNCSUpVUm1hTF9lRGtJM0ZxZW1TQ0RZemFCc1ktTUh2bG1QN1EtSXVtNXdkT1B4anZEdGVoaTBmWTlJV0s2QXZtcUdSbEJpemwwWHdtdE1jMkYxcGlPelRnMzFPLXNpbGxYbS1VaTJmcm5n?oc=5)
+
+---
+
+### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+
+2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 ---
 
@@ -86,6 +110,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### [Five-year-old raises thousands for charity after 'living nightmare' cancer diagnosis - Grimsby Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTi0wR0pVSFF2TWFYVl9Gb1p3c2FuSmJhc01KQzZhTUZHdGJvZVBYVzV1UjEwMWdhdmtPT0UwSVF2SkotM0hnQkRhdDRxc3J6aGpmRlktakdxRXZaZ1hZMnYwbVdhbmw4SzIxMGJZVWFNUHQ3U0M4MS03TUtFdW1wMUU1cjZTdkViTUc1RlZnR3NtTjlY?oc=5)
+
+2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Grimsby Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTi0wR0pVSFF2TWFYVl9Gb1p3c2FuSmJhc01KQzZhTUZHdGJvZVBYVzV1UjEwMWdhdmtPT0UwSVF2SkotM0hnQkRhdDRxc3J6aGpmRlktakdxRXZaZ1hZMnYwbVdhbmw4SzIxMGJZVWFNUHQ3U0M4MS03TUtFdW1wMUU1cjZTdkViTUc1RlZnR3NtTjlY?oc=5)
+
+---
+
 ### [Vitamin K2: Neue Studie belegt Schutz vor Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
 
 2026-08-18 <span class="news-indication-tag">MS</span>
@@ -94,19 +126,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [My PMS was so bad I had horrific panic attacks and it felt like there were bricks under my skin… 50p-a-day pill cured me](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
+### [My PMS was so bad I had horrific panic attacks and it felt like there were bricks under my skin… 50p-a-day pill cured me - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
 
 2026-08-18 <span class="news-indication-tag">MS</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
 
 ---
 
-### [Psychology suggests people who age well are not the ones who quietly accept decline — they are the ones who keep revising the terms of their life, letting go of what no longer fits without giving up on what still matters - Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxNYzBSTzJyMzlEYzlwOXcyY2JGR3JYWHpEY0NLcWtpY3RXeEpucHVLSGNFZTF2R3Y0TGRLM2pIVkc2YzZYNWl0ajYtTHE3OXZmZmJQNTV1TmxVMU9JZkZYTkd2S2c0bUNPaTF0R2pOck13bFRrU3N4d2tNYlJZT3FIWnl0TzhtSDgyMVdOdkVURXdUTnhNVkJZbDhSOG5ZWWdlMFNHeVBCanl0dGh2WDFMbmpTREFBQTJZSzNxejdEakpKRkxlcHhNNTQzRk9iRTFQbWhIWW1NSFYtYXozTGhwZ3JtTFZQVlozQllVRFNKaklVSnNzTi05bmRxUGZPSzl2cjNwSFRmWDRFTEtjWUQ4WEdmT3ZCSGdJdnczam1XdHBlU2tSNmxuUGlpOGRtdmZfOVVXVEh6eGU3VmVhQW1n?oc=5)
+### [One dead and hundreds ill in UK salmonella outbreak 'linked to imported eggs' | ITV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXNnLW12dnN0a0JRNF9tZmFXT2hUWU1vN0VXZjdMaGt1UE9xXzhUNTZxaGNSWGllSWg4ckJGUlktNGt2TmRDVHp3aG5aMTNCTGlUZGx0bGRGRmItbVZ1ZVk5aFFPZTR6b1piSnJmTXBvSHAtOHBvdVpId2h2MWRKdHJMMHBOLUpfTTFnZ3NjYUJtNGpMWDhrNG9EMmdvTUZyU1AtT3QxX3JXcXhxOUdLcw?oc=5)
 
-2026-08-17 <span class="news-indication-tag">MS</span>
+2026-08-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxNYzBSTzJyMzlEYzlwOXcyY2JGR3JYWHpEY0NLcWtpY3RXeEpucHVLSGNFZTF2R3Y0TGRLM2pIVkc2YzZYNWl0ajYtTHE3OXZmZmJQNTV1TmxVMU9JZkZYTkd2S2c0bUNPaTF0R2pOck13bFRrU3N4d2tNYlJZT3FIWnl0TzhtSDgyMVdOdkVURXdUTnhNVkJZbDhSOG5ZWWdlMFNHeVBCanl0dGh2WDFMbmpTREFBQTJZSzNxejdEakpKRkxlcHhNNTQzRk9iRTFQbWhIWW1NSFYtYXozTGhwZ3JtTFZQVlozQllVRFNKaklVSnNzTi05bmRxUGZPSzl2cjNwSFRmWDRFTEtjWUQ4WEdmT3ZCSGdJdnczam1XdHBlU2tSNmxuUGlpOGRtdmZfOVVXVEh6eGU3VmVhQW1n?oc=5)
+來源：[itv.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXNnLW12dnN0a0JRNF9tZmFXT2hUWU1vN0VXZjdMaGt1UE9xXzhUNTZxaGNSWGllSWg4ckJGUlktNGt2TmRDVHp3aG5aMTNCTGlUZGx0bGRGRmItbVZ1ZVk5aFFPZTR6b1piSnJmTXBvSHAtOHBvdVpId2h2MWRKdHJMMHBOLUpfTTFnZ3NjYUJtNGpMWDhrNG9EMmdvTUZyU1AtT3QxX3JXcXhxOUdLcw?oc=5)
 
 ---
 

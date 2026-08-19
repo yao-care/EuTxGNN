@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Typ-2-Diabetes: Zeitgesteuertes Essen senkt HbA1c um 1,12 Punkte - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
 
@@ -137,6 +137,14 @@ permalink: /news/diabetes-mellitus/
 2026-08-19
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMivwJBVV95cUxORUFrT1EyS3hwUFVqT2ExRkhURXN1eHhqRFFGOUF2VDlEeTNsVzN0MWJCRUc1SGFka1Izc3lMMlV0S0tXclVxM3dwYm1hdlYxcHRVekZDQnNXeDRXMjJSQjdOSnUxNkdKNFMycTY0Q0RCd3gtQ1dVSHI5Qy1uUVV1SWlhZC1CM0M3YllVSUlYN3ctQVotTGlka1VZbmE4WjBQZzVOaFFqX1RNSmFGMW9BOXFrbUdIOE9ETmdWcTV6WjBpNmQxaFBoV1BkU0FqbEJ5V2toR05SV3p1RHlnZ0NCLUNuVjVrUXlLeWFuYjNEM1lVZTNhQmdjOE1PQjZjZXZfZU1zd0tfTHhYRVdYSXNLQkw3bEhsWUwtUHFlLW9nZklhd2IxYkxMVHBWVERvY0ljVzdiUFA5VjQ2Z1VqR3hB0gGqAkFVX3lxTE1FczdhbFZJTURNSG5YZmc5OTNYN1EyLXNlZWZsNFJ0c0FfRlNaZWVQVUFlb2FqOUh5bndDVFhORENCM3A2dUJvUWE1YnRiMzltX184ZTE2VHQ0SllNZjdlYW4zX3N6ZFJqMXJWT2Z4dHVLR0Q5Zm5tWTI2NXBaSlpGN0hXNTRHTkU5QTZsNzBXRHhyZm13aEdfZjN3YUZVVzFQcTBVTjA5RWJMc1lIMGVRMnJqdUw1dC1iM2hBMklUcFZfU3cwQWhveWd1ZHNfOGFfSW5GVENVSzEyUmtvSE1PbkRub2RJSFNJc1hwOFIyY3ZiUUxQSkNZTTQwOEFBSjJqYVhHUTBxNzdYN3ZJTFVsWkFySG1vLVM3Z3FlRmMwdFc4RDVlY2pFcEE?oc=5)
+
+---
+
+### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
+
+2026-08-19
+
+來源：[vanityfair.it](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
 ---
 

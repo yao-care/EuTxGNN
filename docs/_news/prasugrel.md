@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="Prasugrel 有什麼相關新聞？">
-<strong>Prasugrel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prasugrel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/prasugrel/
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -78,11 +78,19 @@ permalink: /news/prasugrel/
 
 ---
 
-### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+### [Bluthochdruck: 5 Minuten Atemtraining senkt Druck um 9 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
+
+2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
+
+---
+
+### [Woman, 29, told knee pain was likely caused by 'tripping in her heels' now faces losing her legs - Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 2026-08-18 <span class="news-indication-tag">arthritis</span>
 
-來源：[liverpoolecho.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijAFBVV95cUxORkt4aS1yb2FTSFAzVkR1a2NtalNGVGVBUmt4SGVJR01TTF9CY2V3djdTeGloQUZFZzU4T2xQaW00d1haRjA2QVJhOXhDVmFDWjFBVEN2QlAzQ01FQ0ZtNFhPd2oyTmRQVHBTeFFXeGRReFJ4OERqdDFFTUhBVnJZWFNFU3FOZEhNUks5VtIBkgFBVV95cUxPSl9qLUdneU1WejExWFRBeEdDX280NEtxd1FYWnoxM1hGblNESmZsamRsOHh3NS1KR0NVbzZGRHZweVVfUWxJWnZPRG80ZWFBQzBLeXBtemxMMC0xUzRpRndJTEpWWS1hcmE2bDljNWYtVk5ES200RldsSE9zYWFrZ3VVemxIQkdYYnFXTGxGam5pZw?oc=5)
 
 ---
 
