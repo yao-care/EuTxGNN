@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart disease</span></li>
+<li>heart disease（96.3%）</li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,21 +52,13 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Tips for treating—even preventing—osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
 
 2026-08-19 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
-
----
-
-### [Heart doctor avoids five things at all costs after doing 8,000 operations](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
-
-2026-08-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
 
 ---
 

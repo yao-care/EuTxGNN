@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [La delgadez también se compra](https://news.google.com/rss/articles/CBMidEFVX3lxTE00YmdKNVdqakNEbUl6QWRsSnA2VXl0MFlDMFM5VTZFcDlVS2xJSEFHSUZUT3VSVDFVOTlka1N2dXlFQlk3Q013SnNwZk85REJ3bjd0bXhMc2JOSjdsYWh2b1E2ajh2LWNucWJJakNXWVVodzZK?oc=5)
+
+2026-08-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[peninsula360press.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE00YmdKNVdqakNEbUl6QWRsSnA2VXl0MFlDMFM5VTZFcDlVS2xJSEFHSUZUT3VSVDFVOTlka1N2dXlFQlk3Q013SnNwZk85REJ3bjd0bXhMc2JOSjdsYWh2b1E2ajh2LWNucWJJakNXWVVodzZK?oc=5)
+
+---
 
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEplb0paM0ZJWGtkSEp2MEtXbkhCUDJZZVpuSlR4ejVrZWN3MVZTdUlOcWgxQ0pHdmNSX3lVc1oxaFhpN2g0bjJEU21zMERacDd2Wkg2NFhmQ1VNbjZGeHlCY2ptX0ltWUV4Z0tncDZXaWN0eTZJVlZiNHZ3cDk4Q3pqdmREd3VCV3FGM2RnR1d4OVllQTEzYk8wUm44T3VWUldKWUN2eEZvSDJicFcwMnZWSzZIWG82aHZOdXFQeUhLX0lqS3dkWHBCUUYwZUV5?oc=5)
 
 2026-08-20 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEplb0paM0ZJWGtkSEp2MEtXbkhCUDJZZVpuSlR4ejVrZWN3MVZTdUlOcWgxQ0pHdmNSX3lVc1oxaFhpN2g0bjJEU21zMERacDd2Wkg2NFhmQ1VNbjZGeHlCY2ptX0ltWUV4Z0tncDZXaWN0eTZJVlZiNHZ3cDk4Q3pqdmREd3VCV3FGM2RnR1d4OVllQTEzYk8wUm44T3VWUldKWUN2eEZvSDJicFcwMnZWSzZIWG82aHZOdXFQeUhLX0lqS3dkWHBCUUYwZUV5?oc=5)
+
+---
+
+### [Obesità: survodutide, doppio agonista GLP-1/glucagone, riduce il peso fino al 16,6%. Studio di fase III sul NEJM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZEl6MldKQmY0VVl6VnRvMVZhTEdIcGh2RHh1RjA0ekpRamlDZ1lKV2paLTRwV0o2Szlldkx3dF81MVNwbE14RDhhS0ZVV1BTa2lvU2tIS21lRGoxdjBNR0hDcUxsLW8wMXozQmVPMFVJLTVXa1dDM0VadTVmanJReEZfaTRhNHFnMzAyODF3blR0OFRiMEhuSTVoUmlxWkN0VktVY3RuVkRNd0RNaGgtVmNNNzJWRTBLaHRrMWpXVzF6S1RaQmNEbkoyTTl1SkJYdnhZTmhzUmQxRkY1M3FtZm92cDQ?oc=5)
+
+2026-08-19 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">obesità</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZEl6MldKQmY0VVl6VnRvMVZhTEdIcGh2RHh1RjA0ekpRamlDZ1lKV2paLTRwV0o2Szlldkx3dF81MVNwbE14RDhhS0ZVV1BTa2lvU2tIS21lRGoxdjBNR0hDcUxsLW8wMXozQmVPMFVJLTVXa1dDM0VadTVmanJReEZfaTRhNHFnMzAyODF3blR0OFRiMEhuSTVoUmlxWkN0VktVY3RuVkRNd0RNaGgtVmNNNzJWRTBLaHRrMWpXVzF6S1RaQmNEbkoyTTl1SkJYdnhZTmhzUmQxRkY1M3FtZm92cDQ?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+### [Colpita da ictus a 95 anni Guglielmina torna a casa: mi hanno salvata al Moscati](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSi1Ka3I5dXlnWFdrMXJqWk5uaER4UV9BRE9aNlA2dzd0N3BNa0dJNEZrbXdoaF9Bal9BN1NGNkJ1TUVHS2pRQWdjNHVwanRzZHFSTDlzX2dITDU3ek54SkpSY0lxRWJmRy1WdmowdzVEaElWeWJfb0I2V0FVSm1VOThoTjlBb2hia0dkeEwxNmVnMjhzM0YzMFdPNnVjUUJ4N1FHc0FpaUdkLUk1TUFIcnlhTk4wMi1KcVNicXJHS2w1NDRnaFpSdNIBvAFBVV95cUxOQ2VmLTV1X2tMWGlod3Bqa2tRamwzS29meVZsbWNYMlZHbUY5blVFaVZ4cHpzLVV2UGJ0dV9abm41TFA5c3ZONjNTb1o4MXNYc2NURjRDVkFQQ09aXzhBT0p3MmpPOWhhdlVzWWhKcVBPVVU2UDkxM2ZTNGFxWk9UTzZuZEdiNU1FWVhfVjZUcUlwOWFMTGhwc3M2dFlhUUJMenVUR3E3NVJtTEY3cm9LblM5WFVNQW90XzVWOA?oc=5)
 
-2026-08-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-08-19 <span class="news-indication-tag">ictus</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+來源：[Ottopagine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSi1Ka3I5dXlnWFdrMXJqWk5uaER4UV9BRE9aNlA2dzd0N3BNa0dJNEZrbXdoaF9Bal9BN1NGNkJ1TUVHS2pRQWdjNHVwanRzZHFSTDlzX2dITDU3ek54SkpSY0lxRWJmRy1WdmowdzVEaElWeWJfb0I2V0FVSm1VOThoTjlBb2hia0dkeEwxNmVnMjhzM0YzMFdPNnVjUUJ4N1FHc0FpaUdkLUk1TUFIcnlhTk4wMi1KcVNicXJHS2w1NDRnaFpSdNIBvAFBVV95cUxOQ2VmLTV1X2tMWGlod3Bqa2tRamwzS29meVZsbWNYMlZHbUY5blVFaVZ4cHpzLVV2UGJ0dV9abm41TFA5c3ZONjNTb1o4MXNYc2NURjRDVkFQQ09aXzhBT0p3MmpPOWhhdlVzWWhKcVBPVVU2UDkxM2ZTNGFxWk9UTzZuZEdiNU1FWVhfVjZUcUlwOWFMTGhwc3M2dFlhUUJMenVUR3E3NVJtTEY3cm9LblM5WFVNQW90XzVWOA?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/orlistat/
 2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV2VYbGJNU3N1RFlLWTV3cTZuNkN0RnBKNl9tbE5PdnFseUluQXp1Y25TajM4Yjlrbm1ONlh0NjJRbU96NDZweUFwVU5nS2FxNUg4YThRSFhvOVVGY3h1U2JvbGV2NEZrRnRTc0FoZno5SHdyWGxKc0pEbFM3VFhvWkswZFNjeEk2VFdMN2hGMEZQc0pBQXgwSENQU0lNWFNIZmkwUUo5c1kwb0dYMDczcGJOYlRIWTUzV19hdDRjN3c4X3o5M2tkTUhjXzBxN2otSlY3R21TM3V3NkRLM2ZKX3R6UEI2OHFCMzRiTTdJOWlVSG5rTW5Nd05QNNIBgAJBVV95cUxOc2x6QjZnWVpWclZfU2JQcy1HOFYweTJobDlRdXpubXRqVEI5amp0N0szbnpuVUpIYi1KQWcxM0Z2UVVsM2FwSDJ5QXI0U0FSNWhXbEgzVWdnaGpNSTVYd3RKaF9NNS1uZzk4eWM2N1A0Vk4xeHRQTERqcVNZd0h6V3B6ZDdabGUwWDFUZG13c1dRa1gtcHJJb2Y4dThubVdkZFBzLURtWFBDc1ZDSnRoMjJ3eXVseFFLX0pacERqdnVCN3ZtNFpjWTdTaTV6ZmNyVWtMWXYzY1VnY0JGTGoyUFlDYnZZWkdwSU02QU54ZURKaExsYm1TbmhvLVd5cXlK?oc=5)
-
----
-
-### ["Una de las asignaturas pendientes en España es la falta de reconocimiento de la obesidad como una enfermedad"](https://news.google.com/rss/articles/CBMivgFBVV95cUxOckRUQ2JEOFQ1cld6b1ZRS3lXcVhsdU1BVExSM21vTkhadHN6ekJySWh4Z3dWVzROSEZtQlNadUdPMWlGWk9zMHNlamh2WDItVC13cVZIOS1QRjRMdlMzcmRqTGNMMWNlRDdwNGZUUkh6Qnh0bEZtX0ZGSVF1QzFBbGdJWUdycHpmT29QcUtxTG9NRlE2akZWUUlhQjM3QWJ0X05IVExOdWtDazVDQmVXVzVPenZNRnVTQTF2U0t30gG4AUFVX3lxTFBVME0wLWtOaEZxemJBNTdHZzB5MmptakpORGFJYklsNm1BRWd1bzhNWUgwYUpLcUR4ZFJuU2VkZXY4eE53c1FDa3JxczlLckp4dU9oRVBmUk9xb2FCU0dIVUdiXzlvNkkwZ25rUXNqbmFwZ2gyaTBBUTFSUEJadGJIRk9qbkgzUnVQaW5Ecmgyb1NVbXo2MF9lYzZjc0R3VHlITVkyXzlNSFhvTnpkUHBydzBDWDJMRWI?oc=5)
-
-2026-08-18 <span class="news-indication-tag">obesidad</span>
-
-來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxOckRUQ2JEOFQ1cld6b1ZRS3lXcVhsdU1BVExSM21vTkhadHN6ekJySWh4Z3dWVzROSEZtQlNadUdPMWlGWk9zMHNlamh2WDItVC13cVZIOS1QRjRMdlMzcmRqTGNMMWNlRDdwNGZUUkh6Qnh0bEZtX0ZGSVF1QzFBbGdJWUdycHpmT29QcUtxTG9NRlE2akZWUUlhQjM3QWJ0X05IVExOdWtDazVDQmVXVzVPenZNRnVTQTF2U0t30gG4AUFVX3lxTFBVME0wLWtOaEZxemJBNTdHZzB5MmptakpORGFJYklsNm1BRWd1bzhNWUgwYUpLcUR4ZFJuU2VkZXY4eE53c1FDa3JxczlLckp4dU9oRVBmUk9xb2FCU0dIVUdiXzlvNkkwZ25rUXNqbmFwZ2gyaTBBUTFSUEJadGJIRk9qbkgzUnVQaW5Ecmgyb1NVbXo2MF9lYzZjc0R3VHlITVkyXzlNSFhvTnpkUHBydzBDWDJMRWI?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabete（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabete（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabete（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,7 +114,31 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+
+2026-08-20
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+
+---
+
+### [Viel mehr als nur die Zuckerkrankheit - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
+
+2026-08-20
+
+來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
+
+---
+
+### [Diabete, l’insulina che dura una settimana: cosa cambia davvero per chi deve fare le punture](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
+
+2026-08-20
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
+
+---
 
 ### [Lombardia, allarme per la spesa di farmaci contro il diabete (usati anche per dimagrire): più 20%. Remuzzi: «L'uso estetico ha più effetti indesiderati che pregi» - Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
 
@@ -177,14 +201,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-19
 
 來源：[La Provence](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU05zYlNZYVdMenpmQ1lmS2dPalJITjNoZEJ2Z01UUVJvM2sycnJVZkNjTlFYVTc4TGpNUVJacTZuMkpFeHMtZnNEbDdEQmk5ZUNxMFZVWERIdzBWLUs0SkNOQUNHbWM1cDBDR0ZwT3BYZVB4WE0yemNlZ3daUHp3WTNEM1lYVkhvNUx2eXZpZ0cyYkxiWk1kbXVxeDhOWjZRdWUzRWNpNGJxNGJ4RUFqVGlVZC03OW1XNWZFUjVLdE5qb3dVSnRJelNOZ3NWSDgySzBHUmhOeklkbnBOQk5VazdESDhHOU0?oc=5)
-
----
-
-### [The metabokine β-aminoisobutyric acid mediates exercise performance and skeletal muscle adaptation through a PGC1α-BAIBA-PPARδ axis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
-
-2026-08-18
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Pharmacist prescribes Mounjaro to 'anorexic' for months with no check-ups - but get away with just a warning](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
+### [Pharmacist prescribes Mounjaro to 'anorexic' for months with no check-ups - but get away with just a warning - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
 
 2026-08-18 <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
 
 ---
 

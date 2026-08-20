@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
+
+### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+
+---
+
+### [Viel mehr als nur die Zuckerkrankheit - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Zuckerkrankheit</span>
+
+來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
+
+---
+
+### [Diabete, l’insulina che dura una settimana: cosa cambia davvero per chi deve fare le punture](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
+
+---
 
 ### [Lombardia, allarme per la spesa di farmaci contro il diabete (usati anche per dimagrire): più 20%. Remuzzi: «L'uso estetico ha più effetti indesiderati che pregi» - Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
 
@@ -62,9 +86,17 @@ permalink: /news/semaglutide/
 
 ---
 
+### [La delgadez también se compra](https://news.google.com/rss/articles/CBMidEFVX3lxTE00YmdKNVdqakNEbUl6QWRsSnA2VXl0MFlDMFM5VTZFcDlVS2xJSEFHSUZUT3VSVDFVOTlka1N2dXlFQlk3Q013SnNwZk85REJ3bjd0bXhMc2JOSjdsYWh2b1E2ajh2LWNucWJJakNXWVVodzZK?oc=5)
+
+2026-08-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[peninsula360press.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE00YmdKNVdqakNEbUl6QWRsSnA2VXl0MFlDMFM5VTZFcDlVS2xJSEFHSUZUT3VSVDFVOTlka1N2dXlFQlk3Q013SnNwZk85REJ3bjd0bXhMc2JOSjdsYWh2b1E2ajh2LWNucWJJakNXWVVodzZK?oc=5)
+
+---
+
 ### [Diabetesprävention neu denken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
 
-2026-08-19 <span class="news-drug-tag">Dapagliflozin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-08-19 <span class="news-drug-tag">Dapagliflozin</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
 
@@ -83,14 +115,6 @@ permalink: /news/semaglutide/
 2026-08-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
-
----
-
-### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
-
-2026-08-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[DW.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
 
 ---
 
@@ -139,14 +163,6 @@ permalink: /news/semaglutide/
 2026-08-18 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVjR5NlJGU2lKZ1ByU21FMTFkSmZlS1ZoVGh6bG41MHNwdy05X2V6RDVibDdFMERCb3NDVTBadVZhVWItRmV3d1p0OWlCbjBjVXc3czBBWmV6NEJaNEtpTzBoanZSS3lpeEdaQ0VPeUdPZG9qSDFkS3p0a2JJbG8xWmc5Z0dIdTNUMmwzM1ZZRFNVdXVlbmxVejE0elFBdkFTQm5WTDBjeFI5UjJpVXBqTjBCUC1OUDJqa2pJVUxYR3A1UXRHN2ZDQ25QSXExOTBQMkc5TE83d21ITnQwaDEtQ1RRTFRUUQ?oc=5)
-
----
-
-### [The metabokine β-aminoisobutyric acid mediates exercise performance and skeletal muscle adaptation through a PGC1α-BAIBA-PPARδ axis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
-
-2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
 
 ---
 

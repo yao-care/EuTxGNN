@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="Idebenone 有什麼相關新聞？">
-<strong>Idebenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idebenone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/idebenone/
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Bluthochdruck: Diese zwei Nährstoffe sind laut Experten entscheidend - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
+
+---
 
 ### [Resistente Hypertonie: Intensive Therapie senkt Herzinfarkt-Risiko um 1,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzg2NTdRYmRCYVFjUXR1WEQtdVNyQ3dVa3pSNlN3bW5zbmRrSWt5a2Y5WnZ3WUVWMnA4bGcwT09TRlR1dnNXdFk1MkdkMEJtWE9ScllWQS1qd092ZHRwRHVUV3NKaTQyclpaVzVMazNPWjJGUG9yVUVLZXBaWFlJWVV6NElhQzB3bnRXbFJCWGpiMWQ5VHBweGpId1hrTUcxOGdCRm1heUppXy1NQWJ2dnlBTUZxNHctbHdneWdB?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/idebenone/
 2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
+
+---
+
+### [The blood pressure mistakes cardiologists wish you’d stop making - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWENZVWpRRlBvRjdlQVlkYVY2ZE5WUnA0bmJoMGtOWGVGNGxMbXNVd3pjLUVhcElHSTRHWkFXM2lhN1V2SDhwNUY2WDhlUldvLWlQRU1UeEhWZTJLcXExbjlFSHl4UWk1b3VjbWo2WTN4S1VkVlVJdTJJQ2I5MUpYTXhQa3BTVU1qdjE2ektmdTVOc3hHTTA4RHY2NnlJanpXNWtoSTdBYTFXYzZqbkNhR211OEhKcWtl?oc=5)
+
+2026-08-19 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWENZVWpRRlBvRjdlQVlkYVY2ZE5WUnA0bmJoMGtOWGVGNGxMbXNVd3pjLUVhcElHSTRHWkFXM2lhN1V2SDhwNUY2WDhlUldvLWlQRU1UeEhWZTJLcXExbjlFSHl4UWk1b3VjbWo2WTN4S1VkVlVJdTJJQ2I5MUpYTXhQa3BTVU1qdjE2ektmdTVOc3hHTTA4RHY2NnlJanpXNWtoSTdBYTFXYzZqbkNhR211OEhKcWtl?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Colpita da ictus a 95 anni Guglielmina torna a casa: mi hanno salvata al Moscati](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSi1Ka3I5dXlnWFdrMXJqWk5uaER4UV9BRE9aNlA2dzd0N3BNa0dJNEZrbXdoaF9Bal9BN1NGNkJ1TUVHS2pRQWdjNHVwanRzZHFSTDlzX2dITDU3ek54SkpSY0lxRWJmRy1WdmowdzVEaElWeWJfb0I2V0FVSm1VOThoTjlBb2hia0dkeEwxNmVnMjhzM0YzMFdPNnVjUUJ4N1FHc0FpaUdkLUk1TUFIcnlhTk4wMi1KcVNicXJHS2w1NDRnaFpSdNIBvAFBVV95cUxOQ2VmLTV1X2tMWGlod3Bqa2tRamwzS29meVZsbWNYMlZHbUY5blVFaVZ4cHpzLVV2UGJ0dV9abm41TFA5c3ZONjNTb1o4MXNYc2NURjRDVkFQQ09aXzhBT0p3MmpPOWhhdlVzWWhKcVBPVVU2UDkxM2ZTNGFxWk9UTzZuZEdiNU1FWVhfVjZUcUlwOWFMTGhwc3M2dFlhUUJMenVUR3E3NVJtTEY3cm9LblM5WFVNQW90XzVWOA?oc=5)
+
+2026-08-19
+
+來源：[Ottopagine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSi1Ka3I5dXlnWFdrMXJqWk5uaER4UV9BRE9aNlA2dzd0N3BNa0dJNEZrbXdoaF9Bal9BN1NGNkJ1TUVHS2pRQWdjNHVwanRzZHFSTDlzX2dITDU3ek54SkpSY0lxRWJmRy1WdmowdzVEaElWeWJfb0I2V0FVSm1VOThoTjlBb2hia0dkeEwxNmVnMjhzM0YzMFdPNnVjUUJ4N1FHc0FpaUdkLUk1TUFIcnlhTk4wMi1KcVNicXJHS2w1NDRnaFpSdNIBvAFBVV95cUxOQ2VmLTV1X2tMWGlod3Bqa2tRamwzS29meVZsbWNYMlZHbUY5blVFaVZ4cHpzLVV2UGJ0dV9abm41TFA5c3ZONjNTb1o4MXNYc2NURjRDVkFQQ09aXzhBT0p3MmpPOWhhdlVzWWhKcVBPVVU2UDkxM2ZTNGFxWk9UTzZuZEdiNU1FWVhfVjZUcUlwOWFMTGhwc3M2dFlhUUJMenVUR3E3NVJtTEY3cm9LblM5WFVNQW90XzVWOA?oc=5)
+
+---
 
 ### [Hirnblutung: Intensive Blutdrucksenkung reduziert Schlaganfall-Risiko um 38%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDN2TjJxSHEyanlHZXVIdVZFdG5ScWo4M1kxNUYxV0dHUVRqczIxLWFzNk9OTHU3NHgyclNWMVFqR0VZWmZBZmRKQkJlZ1p2YmVSMGQ3aHhNQmpyczZHN3ZHOW9BSGxOQUM1bVpGOTU5TWw2RG84ckFtZnBSalNRMWg5RGV4NmU4RzNFc1pDN0UyWGZNNTYxRFVqVkk4U0lBTWMtbXRsaTZQSGd4cEJTUjR0TGJyUjZtTjhzMA?oc=5)
 

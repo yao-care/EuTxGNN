@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,61 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
-### [Ébola en RD Congo: un tercio de las muertes son niños en el brote más veloz registrado](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXZObUVmVzIwaE5Sckc1T3N2Qm9oS0VwU1NSM09ub2lmTmpmRlJNRHUwYW5fRTV2LVQxeDV4QjZYWERuX3pFd3RPeTZJZU5ULTZ3eWxycEZBQzBSUWhDMnVETHF1d0loVU5oa3I5R3ZGVGJRT2dCMktWTXM4U3d1UVZ2ZTRSaFNIRGc?oc=5)
+### [Bessere Versorgung bei MS und Epilepsie: kbo-Inn-Salzach-Klinikum und RoMed kooperieren - Radio Charivari Rosenheim](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGNUanlZcW1pYXdGdHJUMkxRcFJDTHZCak1wbTcwNlIzczY5LVlMTXhVTVRqaXlaNUVmVTNEXzF4WkRGQlBMa0NUQzVEX0F4QVRQeFRoNVRVWGpRa3JIV2tLMGRYLTdlT2U5emUzOHFKT1kwSG4tWmxKcW92YXVxTU5XaXQ2Z0dQMjBma21HV0pESnRTcXZKc21jaWZSSjNjSlgxMFB4ZUdyOFpkSWlqZHdqTDlIWVNpVUtCMU5Lc3JfeHZnSnNzU0ktLVZfakYxZUJOajNJWVA1elFPNUlHei01Yl9qY3plLXc?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Epilepsie</span>
+
+來源：[Radio Charivari Rosenheim](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGNUanlZcW1pYXdGdHJUMkxRcFJDTHZCak1wbTcwNlIzczY5LVlMTXhVTVRqaXlaNUVmVTNEXzF4WkRGQlBMa0NUQzVEX0F4QVRQeFRoNVRVWGpRa3JIV2tLMGRYLTdlT2U5emUzOHFKT1kwSG4tWmxKcW92YXVxTU5XaXQ2Z0dQMjBma21HV0pESnRTcXZKc21jaWZSSjNjSlgxMFB4ZUdyOFpkSWlqZHdqTDlIWVNpVUtCMU5Lc3JfeHZnSnNzU0ktLVZfakYxZUJOajNJWVA1elFPNUlHei01Yl9qY3plLXc?oc=5)
+
+---
+
+### [La epidemia de ébola más rápida de la historia avanza a ciegas para la ciencia](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVfU3hhTDVBclJKVy1RVWpNVUVXQWhLSUx5WGV5Q19Ec1NLcFZRMDhYdl9wTzJUZ2MwR3dpREJDWnVEbXczamJ1dncxX2Y0cEVvanNYRUZhdnJRdHFKcWtnWFgxcW9pS29lV0NSQ1VJdnpPczVnVmd2ZUxKQ0pVRThOWXB4bGxPZFY4Q1dpcEM1aXNSS3QzbEZUX043YUIy0gGmAUFVX3lxTE9kWnh4RlAyNWViYVlCZjdNVWdYei00VTJId3ZsVVpuWnBCcGNHbEc1NGktcDRNbld5RF96QkhZTGRnek5NakdGeTdJQWV2ZWpUMHZ3MHFWUS03VzFuVGRKcHJVeUdEbU83Y1BqQ3dMRHBQZF8xdnlfX2F5Rk9SMjhOTGVPbVRvSHV6eC1YekZlQjFzR3NxNWxYMFYxYTNjOTdWdkpja0E?oc=5)
 
 2026-08-20 <span class="news-indication-tag">MS</span>
 
-來源：[Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXZObUVmVzIwaE5Sckc1T3N2Qm9oS0VwU1NSM09ub2lmTmpmRlJNRHUwYW5fRTV2LVQxeDV4QjZYWERuX3pFd3RPeTZJZU5ULTZ3eWxycEZBQzBSUWhDMnVETHF1d0loVU5oa3I5R3ZGVGJRT2dCMktWTXM4U3d1UVZ2ZTRSaFNIRGc?oc=5)
+來源：[Xataka](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVfU3hhTDVBclJKVy1RVWpNVUVXQWhLSUx5WGV5Q19Ec1NLcFZRMDhYdl9wTzJUZ2MwR3dpREJDWnVEbXczamJ1dncxX2Y0cEVvanNYRUZhdnJRdHFKcWtnWFgxcW9pS29lV0NSQ1VJdnpPczVnVmd2ZUxKQ0pVRThOWXB4bGxPZFY4Q1dpcEM1aXNSS3QzbEZUX043YUIy0gGmAUFVX3lxTE9kWnh4RlAyNWViYVlCZjdNVWdYei00VTJId3ZsVVpuWnBCcGNHbEc1NGktcDRNbld5RF96QkhZTGRnek5NakdGeTdJQWV2ZWpUMHZ3MHFWUS03VzFuVGRKcHJVeUdEbU83Y1BqQ3dMRHBQZF8xdnlfX2F5Rk9SMjhOTGVPbVRvSHV6eC1YekZlQjFzR3NxNWxYMFYxYTNjOTdWdkpja0E?oc=5)
 
 ---
 
-### [Pervasive phosphorylation by phage T7 kinase disarms bacterial defences](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTTk1Ujk2ZzVMRVk1bWNJWFRMTm1JWENBdlFtU2Rra3I0S0ZXd3luSERKTUhxVlFNTkM2bng4ZmdVdWJMcDEyT0xjbXpNRHdmWmFVSGN1SWpnZ1FnLVhv?oc=5)
+### [Infected blood victims told to return compensation - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWxvanpaSUtDeVBGOGwwcEs0STc1X0J3bllTMXBaMl9aY3pyd2VxRmdCN3ZaLU82TU5idklrbjU0dnVvM0xvSXBtYTlLem1DZzZxR19ZdUdMRkFJUS1GbFltRDlGUmF5SVlXNlRVWEoyUHJFOXhlcy1LWV9aNVYtQThjcE1LNGFQN0UyeEs3eHpvYXpibVpsOGJWMmhTVzJLcS1udQ?oc=5)
 
-2026-08-19 <span class="news-indication-tag">MS</span>
+2026-08-20 <span class="news-indication-tag">MS</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTTk1Ujk2ZzVMRVk1bWNJWFRMTm1JWENBdlFtU2Rra3I0S0ZXd3luSERKTUhxVlFNTkM2bng4ZmdVdWJMcDEyT0xjbXpNRHdmWmFVSGN1SWpnZ1FnLVhv?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWxvanpaSUtDeVBGOGwwcEs0STc1X0J3bllTMXBaMl9aY3pyd2VxRmdCN3ZaLU82TU5idklrbjU0dnVvM0xvSXBtYTlLem1DZzZxR19ZdUdMRkFJUS1GbFltRDlGUmF5SVlXNlRVWEoyUHJFOXhlcy1LWV9aNVYtQThjcE1LNGFQN0UyeEs3eHpvYXpibVpsOGJWMmhTVzJLcS1udQ?oc=5)
 
 ---
 
-### [People Who Live Past 100 Have a Surprising Abundance of Cancer-Killing Immune Cells](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
+### [Special immune cells in centenarians could be killing cancers before they grow - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPZHB4SWMtaGtkcjBtVkZUT251TGg4QnFJb1o5T1dUcW9kenpWenZXd2Z0bFhXYURGbUlSbjcwNVAycjB4VFFURnItcUw2NzFBaVFUaDgxXzJaeDNsYkt5OHFJWWlHRGZ3cm5rdkxhWGpFSXpFMzUwWVdwMkRwT245azVGVUFnWFIwM09TTGUxb3I4WDFFOURYVmtEaEw0UQ?oc=5)
 
-2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPZHB4SWMtaGtkcjBtVkZUT251TGg4QnFJb1o5T1dUcW9kenpWenZXd2Z0bFhXYURGbUlSbjcwNVAycjB4VFFURnItcUw2NzFBaVFUaDgxXzJaeDNsYkt5OHFJWWlHRGZ3cm5rdkxhWGpFSXpFMzUwWVdwMkRwT245azVGVUFnWFIwM09TTGUxb3I4WDFFOURYVmtEaEw0UQ?oc=5)
+
+---
+
+### ['Lovely and kind' teen battling return of rare cancer dreams of exploring Dartmoor - Plymouth Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM21YcUd0WmFIcGwwNzFveFBfajNveDQ1QTdoVzFVTW04TW42YXFxWWhXejJ4NjREUGxBSlZfVWg4b2VacUhiNWloVTVTNXJHTXk0S1BOTlUyaFB3eF9uXzI3Z2hVdUJtbDRWMm1HTDQwSzQ0YXdGcVpIUFVLQ2pfYWhXQjFrX2FlU282VDFzWXFKNzdwZDFZVNIBngFBVV95cUxQSFJsMmhwT2sxcWJTbC13S05GVVRVSV9uS3ltTHBpZzY3TDQ3aW9Pdk9oX1hoX2R1SXJfU0Q2cTlpTzJUNExMTzRzRk9iN2dsT19EZGxBVkl4b0hvLWtYOXA1bldxZXptVU9lZXZ6blJYS0Z5by1xVG8yanhvbnQ4LU1paHNIc2hOcFJHYjQ5UXcxTzJPY1BXb1dpRlFYdw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Plymouth Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM21YcUd0WmFIcGwwNzFveFBfajNveDQ1QTdoVzFVTW04TW42YXFxWWhXejJ4NjREUGxBSlZfVWg4b2VacUhiNWloVTVTNXJHTXk0S1BOTlUyaFB3eF9uXzI3Z2hVdUJtbDRWMm1HTDQwSzQ0YXdGcVpIUFVLQ2pfYWhXQjFrX2FlU282VDFzWXFKNzdwZDFZVNIBngFBVV95cUxQSFJsMmhwT2sxcWJTbC13S05GVVRVSV9uS3ltTHBpZzY3TDQ3aW9Pdk9oX1hoX2R1SXJfU0Q2cTlpTzJUNExMTzRzRk9iN2dsT19EZGxBVkl4b0hvLWtYOXA1bldxZXptVU9lZXZ6blJYS0Z5by1xVG8yanhvbnQ4LU1paHNIc2hOcFJHYjQ5UXcxTzJPY1BXb1dpRlFYdw?oc=5)
+
+---
+
+### [Tanya Byron: Stop misusing mental health terms like ‘triggered’ - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnlrTElldkJUS2w4cGcwWFgxS2Q1bzJjcWF5bDVaNWN5QXpFZlFqQUNkZ0d3MjdVN3A0OXo3eG9KV2o2YWtORG9GcEdOMzFaUWtPdGMyR3hfZ2ZsRUEzS3V2QVNIb3lFNXJpVzdTZXBDSTQ4X1YtY1hPYlFQWmZsR2RWOGZvQVNfdDZVUFBpbjVmU1NGZnhlejJydWFFYTRhTklKWFR3TDZTQ0hGQl9aQmt3?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnlrTElldkJUS2w4cGcwWFgxS2Q1bzJjcWF5bDVaNWN5QXpFZlFqQUNkZ0d3MjdVN3A0OXo3eG9KV2o2YWtORG9GcEdOMzFaUWtPdGMyR3hfZ2ZsRUEzS3V2QVNIb3lFNXJpVzdTZXBDSTQ4X1YtY1hPYlFQWmZsR2RWOGZvQVNfdDZVUFBpbjVmU1NGZnhlejJydWFFYTRhTklKWFR3TDZTQ0hGQl9aQmt3?oc=5)
+
+---
+
+### [How going vegan for 1 month may affect aging, inflammation - Medical News Today](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmFiSlY1SDdQaGRlYk55N01KbFlpRV93M3k1bjV6dXlENUFNaFd2WHVaOWpQSUl0QloySFFoRjBKd1Y2X1BSdldqN09NOW1NSjhvaHdBeWdVQzFfeC1nMXhEREwweVJZVzBSU0wtQzdQSDA4d0NNNVF6T2JMSG85RDNoRzJ2UC02UEFSTUp4c3FBMnlXRm1SbjZKTkRiekI3?oc=5)
+
+2026-08-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmFiSlY1SDdQaGRlYk55N01KbFlpRV93M3k1bjV6dXlENUFNaFd2WHVaOWpQSUl0QloySFFoRjBKd1Y2X1BSdldqN09NOW1NSjhvaHdBeWdVQzFfeC1nMXhEREwweVJZVzBSU0wtQzdQSDA4d0NNNVF6T2JMSG85RDNoRzJ2UC02UEFSTUp4c3FBMnlXRm1SbjZKTkRiekI3?oc=5)
 
 ---
 
@@ -86,11 +118,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 ---
 
@@ -102,11 +134,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [I’m a gut scientist – six signs your digestion isn’t normal](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
+### [I’m a gut scientist – six signs your digestion isn’t normal - The i Paper](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
 
 2026-08-19 <span class="news-indication-tag">MS</span>
 
-來源：[inews.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
 
 ---
 
@@ -139,14 +171,6 @@ permalink: /news/grazoprevir/
 2026-08-18 <span class="news-indication-tag">MS</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
-
----
-
-### [My PMS was so bad I had horrific panic attacks and it felt like there were bricks under my skin… 50p-a-day pill cured me](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
-
-2026-08-18 <span class="news-indication-tag">MS</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
 
 ---
 

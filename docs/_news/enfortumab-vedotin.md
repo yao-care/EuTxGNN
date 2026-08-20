@@ -14,7 +14,7 @@ permalink: /news/enfortumab-vedotin/
 ---
 
 <p class="key-answer" data-question="Enfortumab Vedotin 有什麼相關新聞？">
-<strong>Enfortumab Vedotin</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Enfortumab Vedotin</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,63 @@ permalink: /news/enfortumab-vedotin/
 <p><a href="{{ '/drugs/enfortumab-vedotin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（31 則）
+
+### ['Unreasonable delay' in spotting cancer in patient who later died](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1saG93SDR5cm82djNPRk5EeFVrOV9rcXZ6RWNOQndpRkU2OXduMlBxZkNPRFBCNUVRNkttT2kxdUNweVl3MENRTFFkeDdaSlFlaktyekVkVGMtYlpT?oc=5)
+
+2026-08-20 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1saG93SDR5cm82djNPRk5EeFVrOV9rcXZ6RWNOQndpRkU2OXduMlBxZkNPRFBCNUVRNkttT2kxdUNweVl3MENRTFFkeDdaSlFlaktyekVkVGMtYlpT?oc=5)
+
+---
+
+### [Una herida persistente en el glande puede ser el primer signo de un carcinoma de pene curable si se detecta a tiempo - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRms0LVZmXzZtbEptdjlQVGVrSzA4X0NHUldkUjVfeThqXy1Eb3Z4VVZWMGF2cExCR3JBRDVzMnYyU3I3Q0hrLTRUNWRJcllWUG1KTHU2NWJncThGTVE0LUh1cE9ILTZJMUJTSHNkd0lLVzdFSzN1UXA3eE1Qd2tFM3hIX2hwckZyU1ZSUnN1WWpCdkJORGVxalM1TUJJM1cxeHZUc0ExSko0Z9IBrwFBVV95cUxNaGEwaU94SmplaHpFcGdDQ3Zhdm0zRmpwY1VBT0ZRaU9OWVRDUjBOZU5kMDAwU0Iwd3VjV0cxNmtNd3N0T1Y1dFMtbDhKdHJnbXdwSkl0anhYNXNLSi1DeWg3QlRlRVFCX3ZQaHllNU9aQ0plM2l3SzRMTXhmY3UxUFhiSnViU0NJY3VyV2FpVC1QcFVVWWlYQW9kSHc4Wk9keExXOHNXcVBRbUdab0tB?oc=5)
+
+2026-08-20 <span class="news-indication-tag">carcinoma</span>
+
+來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRms0LVZmXzZtbEptdjlQVGVrSzA4X0NHUldkUjVfeThqXy1Eb3Z4VVZWMGF2cExCR3JBRDVzMnYyU3I3Q0hrLTRUNWRJcllWUG1KTHU2NWJncThGTVE0LUh1cE9ILTZJMUJTSHNkd0lLVzdFSzN1UXA3eE1Qd2tFM3hIX2hwckZyU1ZSUnN1WWpCdkJORGVxalM1TUJJM1cxeHZUc0ExSko0Z9IBrwFBVV95cUxNaGEwaU94SmplaHpFcGdDQ3Zhdm0zRmpwY1VBT0ZRaU9OWVRDUjBOZU5kMDAwU0Iwd3VjV0cxNmtNd3N0T1Y1dFMtbDhKdHJnbXdwSkl0anhYNXNLSi1DeWg3QlRlRVFCX3ZQaHllNU9aQ0plM2l3SzRMTXhmY3UxUFhiSnViU0NJY3VyV2FpVC1QcFVVWWlYQW9kSHc4Wk9keExXOHNXcVBRbUdab0tB?oc=5)
+
+---
+
+### [Prostatakrebs: 880-Mann-Studie belegt MRT-Zuverlässigkeit von 99%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmF4bkh2bVJTSTNmek95b0tFM1hGV2FWazl2S2t1YjlWMG1SaWxsOXRYcy1kRFVzUUg0TkdzRElmZjZ2TGNVQm5hdlZTMkJCVjdVeElUOGttWXZ0SWp6bEZjQjZpdEFBMlZHcDREbGZYV3dpOFFzYUR0ZXlVVF9ncjJYZDhRNWhVZThIeDJMODdqMDFEQWFNS2YxYjItZFVudVlkaTZTSFA2MmNhMmw3LV9mckN4UlZlazBxRjZB?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmF4bkh2bVJTSTNmek95b0tFM1hGV2FWazl2S2t1YjlWMG1SaWxsOXRYcy1kRFVzUUg0TkdzRElmZjZ2TGNVQm5hdlZTMkJCVjdVeElUOGttWXZ0SWp6bEZjQjZpdEFBMlZHcDREbGZYV3dpOFFzYUR0ZXlVVF9ncjJYZDhRNWhVZThIeDJMODdqMDFEQWFNS2YxYjItZFVudVlkaTZTSFA2MmNhMmw3LV9mckN4UlZlazBxRjZB?oc=5)
+
+---
+
+### [Special immune cells in centenarians could be killing cancers before they grow - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPZHB4SWMtaGtkcjBtVkZUT251TGg4QnFJb1o5T1dUcW9kenpWenZXd2Z0bFhXYURGbUlSbjcwNVAycjB4VFFURnItcUw2NzFBaVFUaDgxXzJaeDNsYkt5OHFJWWlHRGZ3cm5rdkxhWGpFSXpFMzUwWVdwMkRwT245azVGVUFnWFIwM09TTGUxb3I4WDFFOURYVmtEaEw0UQ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPZHB4SWMtaGtkcjBtVkZUT251TGg4QnFJb1o5T1dUcW9kenpWenZXd2Z0bFhXYURGbUlSbjcwNVAycjB4VFFURnItcUw2NzFBaVFUaDgxXzJaeDNsYkt5OHFJWWlHRGZ3cm5rdkxhWGpFSXpFMzUwWVdwMkRwT245azVGVUFnWFIwM09TTGUxb3I4WDFFOURYVmtEaEw0UQ?oc=5)
+
+---
+
+### [Perché alcuni arrivano a 110 anni? Nei supercentenari abbondano rare cellule T “killer”](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3VJeS1wNGJmZ0xocnRHQXhqT1Q0X2ZCNmNDZTd6OE9RUmFGMDVmY3poRnY5bEI2VmM1ZnZLdTktZnFFc1EwVzJsbDBNWUp2dDJfcVFNejJiMzZFQXJmLUt3bUZ2TEdJaUp6RFczaHNKYy1VMVlzSU56NUdRU0VzZC1UYlM3WTllRVJnWi1RZU1ydWpSQnVHY254UVd3NmdJVmJodXlXMjdKOVpDSGpwSWR2QlVkZnJmOWFfQjdFaVNyUlRrazAzRU9nck9xUXFNdFMzX1hmb2d0ZHhZ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3VJeS1wNGJmZ0xocnRHQXhqT1Q0X2ZCNmNDZTd6OE9RUmFGMDVmY3poRnY5bEI2VmM1ZnZLdTktZnFFc1EwVzJsbDBNWUp2dDJfcVFNejJiMzZFQXJmLUt3bUZ2TEdJaUp6RFczaHNKYy1VMVlzSU56NUdRU0VzZC1UYlM3WTllRVJnWi1RZU1ydWpSQnVHY254UVd3NmdJVmJodXlXMjdKOVpDSGpwSWR2QlVkZnJmOWFfQjdFaVNyUlRrazAzRU9nck9xUXFNdFMzX1hmb2d0ZHhZ?oc=5)
+
+---
+
+### ['Lovely and kind' teen battling return of rare cancer dreams of exploring Dartmoor - Plymouth Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM21YcUd0WmFIcGwwNzFveFBfajNveDQ1QTdoVzFVTW04TW42YXFxWWhXejJ4NjREUGxBSlZfVWg4b2VacUhiNWloVTVTNXJHTXk0S1BOTlUyaFB3eF9uXzI3Z2hVdUJtbDRWMm1HTDQwSzQ0YXdGcVpIUFVLQ2pfYWhXQjFrX2FlU282VDFzWXFKNzdwZDFZVNIBngFBVV95cUxQSFJsMmhwT2sxcWJTbC13S05GVVRVSV9uS3ltTHBpZzY3TDQ3aW9Pdk9oX1hoX2R1SXJfU0Q2cTlpTzJUNExMTzRzRk9iN2dsT19EZGxBVkl4b0hvLWtYOXA1bldxZXptVU9lZXZ6blJYS0Z5by1xVG8yanhvbnQ4LU1paHNIc2hOcFJHYjQ5UXcxTzJPY1BXb1dpRlFYdw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Plymouth Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM21YcUd0WmFIcGwwNzFveFBfajNveDQ1QTdoVzFVTW04TW42YXFxWWhXejJ4NjREUGxBSlZfVWg4b2VacUhiNWloVTVTNXJHTXk0S1BOTlUyaFB3eF9uXzI3Z2hVdUJtbDRWMm1HTDQwSzQ0YXdGcVpIUFVLQ2pfYWhXQjFrX2FlU282VDFzWXFKNzdwZDFZVNIBngFBVV95cUxQSFJsMmhwT2sxcWJTbC13S05GVVRVSV9uS3ltTHBpZzY3TDQ3aW9Pdk9oX1hoX2R1SXJfU0Q2cTlpTzJUNExMTzRzRk9iN2dsT19EZGxBVkl4b0hvLWtYOXA1bldxZXptVU9lZXZ6blJYS0Z5by1xVG8yanhvbnQ4LU1paHNIc2hOcFJHYjQ5UXcxTzJPY1BXb1dpRlFYdw?oc=5)
+
+---
+
+### [La mappa dei tumori in provincia di Arezzo: i più diffusi e la mortalità per comune. I casi di stomaco e tiroide](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWFk2YV9DT3RKVjJaZm5yZXBMd2VUWnJ3TWJNMENHb3RwT093WHZoNGNDNzdsenVHM19wT1phbC1uWVFiU1lldlBINjd0M0U5b2d0THlITmtLQUlaR1ZJa0pWV2Y1Q3BqX0tUYWJSRTdBRC1yRC00OEduZUVKcDQ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">tumor</span>
+
+來源：[ArezzoNotizie](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWFk2YV9DT3RKVjJaZm5yZXBMd2VUWnJ3TWJNMENHb3RwT093WHZoNGNDNzdsenVHM19wT1phbC1uWVFiU1lldlBINjd0M0U5b2d0THlITmtLQUlaR1ZJa0pWV2Y1Q3BqX0tUYWJSRTdBRC1yRC00OEduZUVKcDQ?oc=5)
+
+---
 
 ### [Altum Sequencing prepara la expansión de su ‘radar’ contra el cáncer - La Vanguardia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW5JeXp3SWF2WWZNckJhNHV4UHdKUXFkYnBUQm5xaGRvRENtbGVwZk1XUUwtSk1YNl9GOGZsUXMtYUZKaUhyUmlJRXNqR2NwZElRQlNncnRTaTlYYXo5TW5CMDJ5NVFvc09xdzNOelV2dWM0UnR4bFVuaFI2UnI5eUxzSHpSNWEzdk10UE1GbWZPMUUtTDEweW44OHF1aFZkWnY5QWJ3UFBOQdIBrwFBVV95cUxQQTd2MXhjOU1TVy1SdjlmM3pnLXpxem9nRm1tblR6bl92UWQ1SWdMTXI3MTVIRUZzeXpKSllXcWZEYUpqd3lrbk9DUGhDNU5qUWRqV2hsWGJiSlV1NzRTQWprX0ptekhJNzNyQlU5SU05TmVjOWlDcWhCMGpkUXhvSmZieXIwRm1GbDA0RTJkLWV0M2NEaGQxTWNrVHhudW9ZV1QzXzNpaFJGMzM4RW53?oc=5)
 
@@ -78,14 +134,6 @@ permalink: /news/enfortumab-vedotin/
 
 ---
 
-### [People Who Live Past 100 Have a Surprising Abundance of Cancer-Killing Immune Cells](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
-
----
-
 ### [Il tumore affama i linfociti: scoperto lo scambio di aminoacidi che aiuta il cancro a nascondersi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzRmd2xVZG9XVTlkWjFvQmFUcW9kZTZueXlOOUxYU01IOFFGcjBabWFFclVKMGJwQjFQQzJhVjdhb05IY0NkSDh6cDBSbmNfWFBSMkVIcXlmVG1aZmtvSkJISmJKTXVzQjBNTklGVFA0WXd1NzFJUWxwZWN0RFl1V0M1cnV1am9jWWo4WHQxRU4tQzRZbVBlSG5FZDZYMll1OHpOdnJTekU3clM3T1JWN2hiR21UTk41NXhHSnBta2hSOXBUTWdPd01aZG5MN2xGNzBJSGF2VnR2cVZXQ1NiajA4YnZEUWVzSXlzWQ?oc=5)
 
 2026-08-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -94,11 +142,11 @@ permalink: /news/enfortumab-vedotin/
 
 ---
 
-### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 ---
 
@@ -107,14 +155,6 @@ permalink: /news/enfortumab-vedotin/
 2026-08-19 <span class="news-indication-tag">cancer</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYUxMQnU0UWpVbnFVZTJKb2NEbXZVclgtWWNWcDRSdHhfdGF5cDFQNU5TbWZaWUtKSk4zYW1sSGU5SXJIc1gxdXVEZGdsNl9vSGhENHZrcHhUWUpSRVJNblBPM0pOd0VjOC16SDFjTUdVcHotSUpkZlp2b3dNS0ZuTFdXWG9xc21vOE9jLUhxanZ4ek10aGh5Zml5Z3FyT2xoc2VDRWg5TlA4OFE?oc=5)
-
----
-
-### [Expertin aus Mönchengladbach: Dermatologin warnt vor „Tanmaxxing“ als Trend - RP Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUprZjFsTl9rUUczRWl4QjRraVh6YjZVc0JhUUdsTEd4WERDVFpSNHlXX0Q5a0RsZ1p4Y2FCWVp5ZlJjVk1jcEZkbnUxM2RLNHdEUEx6dG5XX2RuZkdpSXdWRk90S0owTXhfZV9pcmZhbkNRcHlCZEk4d1BSckdDeUdTS1JrclVUdHdxNHUtOWxYWU1HQ0NUa3dhR0R1TmhkTDRuYXpiUk1BdGE3SFpRODlSUGRTWTlqUHM0RHZJbFhvVF9NeElFMw?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span>
-
-來源：[RP Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUprZjFsTl9rUUczRWl4QjRraVh6YjZVc0JhUUdsTEd4WERDVFpSNHlXX0Q5a0RsZ1p4Y2FCWVp5ZlJjVk1jcEZkbnUxM2RLNHdEUEx6dG5XX2RuZkdpSXdWRk90S0owTXhfZV9pcmZhbkNRcHlCZEk4d1BSckdDeUdTS1JrclVUdHdxNHUtOWxYWU1HQ0NUa3dhR0R1TmhkTDRuYXpiUk1BdGE3SFpRODlSUGRTWTlqUHM0RHZJbFhvVF9NeElFMw?oc=5)
 
 ---
 
@@ -147,14 +187,6 @@ permalink: /news/enfortumab-vedotin/
 2026-08-19 <span class="news-indication-tag">Krebs</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT29HU0lDREFKYk5UaHNxeXJYbkU1UVY5UHhzOWNCdVJ0aVpxXzYxSTJfeVRjRnFrRzVheWFvckpMcXlpU2lBRlJfNnJyMEpIWl9UdGhQOXN6WS1xejI5c1hLNlgtajlYWGZnX2pRTUFGXzNIU2hPQnRpSDd2d2NteUZFalozYmJwV2M1TEhzMDhHcWFZRjRWbVpSdWg0bzNHYXo4RXR0eUdkdnEwSndpMURYYUc3aTROeS1TOXRoVkttMzlaSHVuaDVncUNSYnh5OHkwS1VSMWxua2ptMWxiNHQ4dWdWTjBLUHBWSHFZTU9hWXY4QU1jcmpn?oc=5)
-
----
-
-### [La testostérone était censée n'avoir aucun lien avec le cancer : ces 11 cohortes internationales montrent exactement l'inverse](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTjNYNEZxemY0Ylprck9PN0tIZzRaXzdRUXRPOXpwS0NmbWozTXdGS1dRemlLZDZ3UFVYMi1XN2p2R2hONGk0OVlNS2NvM3NMSE1ERWQ1SzFVQjUxbGxwRTdRVXVFUUE4QTNNc21RNFJaVTNCemtPS25Rd2F5WWNCOTRRQWlMOEdIbEtXNjNISmVUdUJmSC1SOFc0cVZxRXhhMldlb1g4aEY3Rk05UFJIWFN4SUQxZVV4QlQxdnVhdjhRbzRmUWY1SFFCTTA0ZWNnWDdUeUppQl9qVzRqMzlZ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTjNYNEZxemY0Ylprck9PN0tIZzRaXzdRUXRPOXpwS0NmbWozTXdGS1dRemlLZDZ3UFVYMi1XN2p2R2hONGk0OVlNS2NvM3NMSE1ERWQ1SzFVQjUxbGxwRTdRVXVFUUE4QTNNc21RNFJaVTNCemtPS25Rd2F5WWNCOTRRQWlMOEdIbEtXNjNISmVUdUJmSC1SOFc0cVZxRXhhMldlb1g4aEY3Rk05UFJIWFN4SUQxZVV4QlQxdnVhdjhRbzRmUWY1SFFCTTA0ZWNnWDdUeUppQl9qVzRqMzlZ?oc=5)
 
 ---
 
@@ -195,14 +227,6 @@ permalink: /news/enfortumab-vedotin/
 2026-08-19 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNemFuODY1X3BjWDFQd1kyODA3MmhKd2ZLVTZmd1dQLWNHdnQ5d1lZTTRjc01DZ3VHMFdBSnZFVm5WMTFvTXU0aWhOVGlOMkU0ZWRqLVBfSkdnX0dBWHdUT2ljNDc4bjRiWm1xcG5CMG45UFpVZjhTTDdWbS1LcVU3S0FsR2pyTkw1aFFHVWZkRXJOSmVNUjFqQ3dtMUJmdU9XRFl4WVR3?oc=5)
-
----
-
-### [« Je ne voulais pas de reconstruction mammaire » : l’innovation chirurgicale qui a changé la vie de Mylène, opérée d'un cancer du sein - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMijgJBVV95cUxOSnNRb25nQ1pSb3FHNXFJUkNCLWhZOS1waEpZNW1qUjhjR29ZT3Btb3lwNzdGazh5NjJhY1RSQnhNM2oyNEhtWDFaUXlMUGRDVklYeVBxNm5vZURibUVTZXRqc1lvWmRYMC1vUGRNTUxjTnl2WXFERGVzY0J4aUhxd1pNRkw4aVBicFJXRm5XU2Y0UTdhUmNBQXc4QUt1bHphT3F4UmJkdzlWTk5LcUZtU3V2WGxPMk13c2FicHNIbVdXcTNaSU1QcUNOWVRiaF9PMkFRZG5UYXNJRHJtVHY2Z3dQQnc4MnhyZHRsdVZMWkNFZjlUSWtjV0kwZUFpcTBIYS1sOHd2b3VzY0Q3VkE?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMijgJBVV95cUxOSnNRb25nQ1pSb3FHNXFJUkNCLWhZOS1waEpZNW1qUjhjR29ZT3Btb3lwNzdGazh5NjJhY1RSQnhNM2oyNEhtWDFaUXlMUGRDVklYeVBxNm5vZURibUVTZXRqc1lvWmRYMC1vUGRNTUxjTnl2WXFERGVzY0J4aUhxd1pNRkw4aVBicFJXRm5XU2Y0UTdhUmNBQXc4QUt1bHphT3F4UmJkdzlWTk5LcUZtU3V2WGxPMk13c2FicHNIbVdXcTNaSU1QcUNOWVRiaF9PMkFRZG5UYXNJRHJtVHY2Z3dQQnc4MnhyZHRsdVZMWkNFZjlUSWtjV0kwZUFpcTBIYS1sOHd2b3VzY0Q3VkE?oc=5)
 
 ---
 
@@ -254,6 +278,14 @@ permalink: /news/enfortumab-vedotin/
 
 ---
 
+### [« C'est physiquement moins éprouvant » pour la patiente : cancer du sein, une technique inédite réalisée en Haute-Savoie - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMisgJBVV95cUxQUnhHYzQ2NTZjQnRzd1NRNklZVmpEM095ZnpxWmxocDJsU0UtaEpvUVY1eHlrRGJEQ2RhTjJUdjFPcWgxU1k5ZU94WnlPRDBFOGMwSlJKREtteXduVnBaZFVSa0xIQU1icnYyMXRWZFZuY1FDZkpKTFE0VjVvZ2ozbWtKSmpBTWNYTEJYQnhXLVNNLUxfenhhbWl5ZHl1cnpqUDJaVkE4MVQxMnp5VnNtQkVzRng1Y2JINkoxcjVXSFhOQWtheWpKZWw0X1cwTFkzWnhqS05XczdwRjB0cFVVWTRNOWdCWWROXzU0bV9LbkJNVHVLOTJTUlc0U19Yak44dXF6NUdiSXBYYVJ1X3AyczdNT29yaGpHTzRGci1KT1BhdXRPS2xndEVpWFliRUY2cmc?oc=5)
+
+2026-08-18 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMisgJBVV95cUxQUnhHYzQ2NTZjQnRzd1NRNklZVmpEM095ZnpxWmxocDJsU0UtaEpvUVY1eHlrRGJEQ2RhTjJUdjFPcWgxU1k5ZU94WnlPRDBFOGMwSlJKREtteXduVnBaZFVSa0xIQU1icnYyMXRWZFZuY1FDZkpKTFE0VjVvZ2ozbWtKSmpBTWNYTEJYQnhXLVNNLUxfenhhbWl5ZHl1cnpqUDJaVkE4MVQxMnp5VnNtQkVzRng1Y2JINkoxcjVXSFhOQWtheWpKZWw0X1cwTFkzWnhqS05XczdwRjB0cFVVWTRNOWdCWWROXzU0bV9LbkJNVHVLOTJTUlc0U19Yak44dXF6NUdiSXBYYVJ1X3AyczdNT29yaGpHTzRGci1KT1BhdXRPS2xndEVpWFliRUY2cmc?oc=5)
+
+---
+
 ### [20-Year Study Ties Nitrites to Colon Cancer in Men Only](https://news.google.com/rss/articles/CBMioAFBVV95cUxOSV81VFBwOTIwSTh4QUpaeVJqUllOUG5Odm9oMjhBR2ZSZ0d1YzVJa0ZvcjFhb0J2NW9DQUEyUW9JajNnY3BXaDR5bVV5anRMZy03aEFyTm53Z0tVV1NJZG81MFFHRmxSaDZCQ251cmtEVWhfSXJDN3VMQ2NwbjJQSzVRRkI5dlNWLXdBa2F2X1dyUFF4eFVMODRHLWFGT3da?oc=5)
 
 2026-08-18 <span class="news-indication-tag">cancer</span>
@@ -267,30 +299,6 @@ permalink: /news/enfortumab-vedotin/
 2026-08-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ2tXMURvUDRDNlAzcHh6V2ZVZXVqMmJKRmJsX2QzTV9OWmdjN0pJdGp5S1FERkdWLXVPUjFxMVdfSG1QWEg5VXMtckpXMDJ0SmZnVTR0VHZ4V2lJYmRVZFl6ODR4VTBWdEViUWVHS1QxcUhnTzdJdEFqYWx2NVRTQ1BSVGM5NDFTMXQ1My1YdzgycWFkNWRqRkZRUnNBRDFNQXNBR21fa3Uza3hNV2hhOWF1Y244SUF3UzZHb1R3R0RXbk50cEFj?oc=5)
-
----
-
-### [Il colesterolo buono che difende dal cancro : scoperta una proteina che può riaccendere le difese contro il tumore](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMXJvY2ZRTFZqeFpJNk5KQS1FTmg1MU1kcTRhSTBDcFl4UkY1NGE4bG1lMFB3NVhDVVU1bnV6ZWp6Rk1SN2ZSOENEQWdyTThvRnlEVlFwNUNVUGlkOVBCazZEelNvUUIxbGZGTXJVLUtVWTNHM3pYQm9SMjVVY2ZhT3BTSGVBRXZGaGNlbHlDNmFnTmg2Q3NTdTNkUk55dXZQaF9CemRsUmJRa0t2cVpBSWdWTmZ2aWpUYko0UExtMkpZc051NklJUHRiMk9jSENkTkVTLUtzcDNxT1F0N3R6RVA3b0tsRjF3TVpMdG8ycGt2WV9nRDh2eVFlbjBIMXUwdWc?oc=5)
-
-2026-08-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMXJvY2ZRTFZqeFpJNk5KQS1FTmg1MU1kcTRhSTBDcFl4UkY1NGE4bG1lMFB3NVhDVVU1bnV6ZWp6Rk1SN2ZSOENEQWdyTThvRnlEVlFwNUNVUGlkOVBCazZEelNvUUIxbGZGTXJVLUtVWTNHM3pYQm9SMjVVY2ZhT3BTSGVBRXZGaGNlbHlDNmFnTmg2Q3NTdTNkUk55dXZQaF9CemRsUmJRa0t2cVpBSWdWTmZ2aWpUYko0UExtMkpZc051NklJUHRiMk9jSENkTkVTLUtzcDNxT1F0N3R6RVA3b0tsRjF3TVpMdG8ycGt2WV9nRDh2eVFlbjBIMXUwdWc?oc=5)
-
----
-
-### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
-
-2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
-
----
-
-### ['I was diagnosed with cancer at 21 - now I face an £8,000 bill to become a mum' - STV News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNRQmZiNlNGeE9IREVkYnowdjB4MHFoc1BDLTk5cTlKSlVGNlBFeE5hZHljX0JrWVJMYnE4d0ZRWjhzcnh5M3B6ZnhoX3ZuOEZKZ0lnbEdsa2xTRkR5bzYyNGdsYTc0YjZTZUkxcXZMdmxtTzZpNXBmd1RnV0RMSzZrNjVWcWZjaEZLcGRXcTlKbjJZcHRodlBTdzNZTnJMeWRneHNuQWdpUk5oZU84THgwY2hCQQ?oc=5)
-
-2026-08-18 <span class="news-indication-tag">cancer</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNRQmZiNlNGeE9IREVkYnowdjB4MHFoc1BDLTk5cTlKSlVGNlBFeE5hZHljX0JrWVJMYnE4d0ZRWjhzcnh5M3B6ZnhoX3ZuOEZKZ0lnbEdsa2xTRkR5bzYyNGdsYTc0YjZTZUkxcXZMdmxtTzZpNXBmd1RnV0RMSzZrNjVWcWZjaEZLcGRXcTlKbjJZcHRodlBTdzNZTnJMeWRneHNuQWdpUk5oZU84THgwY2hCQQ?oc=5)
 
 ---
 

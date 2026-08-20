@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Capsaicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Heart doctor avoids five things at all costs after doing 8,000 operations](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
-
-2026-08-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

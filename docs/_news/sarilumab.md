@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Chronische Entzündungen: Nicotinamid stoppt Stoffwechsel-Blockade](https://news.google.com/rss/articles/CBMitAFBVV95cUxORThBZmN5enNlMTcxVEc2SXA3M1hHc2hlRzdqa1ByZFVjdkZ0Rml4NFZDNmVGX2dOcDdMMVkyUXhwallaNXMxeGVoUk9HdUx0bERPUktQQ1dqdVE0NW9Ta1o1OGdCUWI3SDdoUmRxYWRWVVdEdDRwcWFZY2xocXRkMnlLTVVST1RHN3BCTzQ1UjJhWXZtNFpkZjNqdWhwbmFqSS1hWmJrWmtDRFlvWlpBckdlVGU?oc=5)
+### [Morbus Crohn: Neuer Antikörper erreicht 48% Remissionsrate](https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpLN0MxZk1LZ2ljRUMyNTZYaHllR2NxWnFYRzkyUHkwVHY5VklKVjBtZkFhM1NmbGNYdlhGRkpncy03a3VlSURaS1NXMjNVcmpFcnRCY1Mwa1NPZzh2NjNfRmN1NzMxRlo3MXlacXJyNW5IM082VGVYTU9zak9LUEFDcjJvRndWYVZqMldoWjAtOWhxc0daa0pDM3hCZWZPUnM1T3dZQ1VubFVqaTN6aU1yaHc?oc=5)
 
 2026-08-20 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxORThBZmN5enNlMTcxVEc2SXA3M1hHc2hlRzdqa1ByZFVjdkZ0Rml4NFZDNmVGX2dOcDdMMVkyUXhwallaNXMxeGVoUk9HdUx0bERPUktQQ1dqdVE0NW9Ta1o1OGdCUWI3SDdoUmRxYWRWVVdEdDRwcWFZY2xocXRkMnlLTVVST1RHN3BCTzQ1UjJhWXZtNFpkZjNqdWhwbmFqSS1hWmJrWmtDRFlvWlpBckdlVGU?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpLN0MxZk1LZ2ljRUMyNTZYaHllR2NxWnFYRzkyUHkwVHY5VklKVjBtZkFhM1NmbGNYdlhGRkpncy03a3VlSURaS1NXMjNVcmpFcnRCY1Mwa1NPZzh2NjNfRmN1NzMxRlo3MXlacXJyNW5IM082VGVYTU9zak9LUEFDcjJvRndWYVZqMldoWjAtOWhxc0daa0pDM3hCZWZPUnM1T3dZQ1VubFVqaTN6aU1yaHc?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/sarilumab/
 2026-08-19 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
-
----
-
-### [Vitamine bei Asthma: Wie Dosierung zwischen Nutzen und Risiko entscheidet](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
-
-2026-08-18 <span class="news-indication-tag">asthma</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
 
 ---
 

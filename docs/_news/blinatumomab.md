@@ -14,7 +14,7 @@ permalink: /news/blinatumomab/
 ---
 
 <p class="key-answer" data-question="Blinatumomab 有什麼相關新聞？">
-<strong>Blinatumomab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Blinatumomab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/blinatumomab/
 <p><a href="{{ '/drugs/blinatumomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+
+---
+
+### [Viel mehr als nur die Zuckerkrankheit - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Zuckerkrankheit</span>
+
+來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
+
+---
+
+### [Diabete, l’insulina che dura una settimana: cosa cambia davvero per chi deve fare le punture](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
+
+---
 
 ### [Lombardia, allarme per la spesa di farmaci contro il diabete (usati anche per dimagrire): più 20%. Remuzzi: «L'uso estetico ha più effetti indesiderati che pregi» - Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
 
@@ -54,7 +78,7 @@ permalink: /news/blinatumomab/
 
 ### [Diabetesprävention neu denken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
 
-2026-08-19 <span class="news-drug-tag">Dapagliflozin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-08-19 <span class="news-drug-tag">Dapagliflozin</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
 
@@ -113,14 +137,6 @@ permalink: /news/blinatumomab/
 2026-08-18 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlpHdVFqNHJReDBzbHFpc2FScFJTZ1NxT19kTENTOHZTN0c1VFZmczJHUlZZT2JFak9OY2V3QzUtbkt4aVZ2ZTlxbDNhT3UwYXFHMnNVU24yRWEycHlROFctYzZfVTJKakF4dDZQc3EyMllyYzc2cHhMaVk2N2hXQTVDTHZPYU4zRl9hNmVBMFhFMFlIdi1EZk1SMWRFNVM0bFFnWDlmT2hhSWxC?oc=5)
-
----
-
-### [The metabokine β-aminoisobutyric acid mediates exercise performance and skeletal muscle adaptation through a PGC1α-BAIBA-PPARδ axis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
-
-2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
 
 ---
 
