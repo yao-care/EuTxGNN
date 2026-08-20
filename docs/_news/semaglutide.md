@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
+
+### [Perché alcune persone ingrassano meno? La risposta è anche nei geni](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
+
+---
 
 ### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
 
 2026-08-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
-
----
-
-### [Viel mehr als nur die Zuckerkrankheit - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
-
-2026-08-20 <span class="news-indication-tag">Zuckerkrankheit</span>
-
-來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
 
 ---
 
@@ -91,6 +91,22 @@ permalink: /news/semaglutide/
 2026-08-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[peninsula360press.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE00YmdKNVdqakNEbUl6QWRsSnA2VXl0MFlDMFM5VTZFcDlVS2xJSEFHSUZUT3VSVDFVOTlka1N2dXlFQlk3Q013SnNwZk85REJ3bjd0bXhMc2JOSjdsYWh2b1E2ajh2LWNucWJJakNXWVVodzZK?oc=5)
+
+---
+
+### [Siete señales que pueden alertar de una prediabetes y que muchas personas pasan por alto](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
+
+2026-08-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
+
+---
+
+### [Scientists Find Just 3 Minutes of Sprinting Can Transform Blood Chemistry](https://news.google.com/rss/articles/CBMioAFBVV95cUxPS01yNmNubUlUcXhDdHJRSmpLNnZhcGFHNEVEei1LZ2FzSVJkUWJnWHc2N2JfN1d3YmFKOGFpRGl5bGt6UGVscGJ2QmlydnJidmQybjRjZVBvd2x5WnU5RHBMQlVEZktGanFLVTNSdEFjYWxQYzllRk1CcUNNWnNUa2dfdUpIYlNHX05oendEcTNCQnhfcmhWNDJuOVVSRjJL?oc=5)
+
+2026-08-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMioAFBVV95cUxPS01yNmNubUlUcXhDdHJRSmpLNnZhcGFHNEVEei1LZ2FzSVJkUWJnWHc2N2JfN1d3YmFKOGFpRGl5bGt6UGVscGJ2QmlydnJidmQybjRjZVBvd2x5WnU5RHBMQlVEZktGanFLVTNSdEFjYWxQYzllRk1CcUNNWnNUa2dfdUpIYlNHX05oendEcTNCQnhfcmhWNDJuOVVSRjJL?oc=5)
 
 ---
 
@@ -126,22 +142,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Sento Segarra, farmacéutico: "A partir de los 65 años, dos latas de sardinas a la semana pueden reducir el riesgo de diabetes: del 37% al 8%" - El Economista](https://news.google.com/rss/articles/CBMivwJBVV95cUxORUFrT1EyS3hwUFVqT2ExRkhURXN1eHhqRFFGOUF2VDlEeTNsVzN0MWJCRUc1SGFka1Izc3lMMlV0S0tXclVxM3dwYm1hdlYxcHRVekZDQnNXeDRXMjJSQjdOSnUxNkdKNFMycTY0Q0RCd3gtQ1dVSHI5Qy1uUVV1SWlhZC1CM0M3YllVSUlYN3ctQVotTGlka1VZbmE4WjBQZzVOaFFqX1RNSmFGMW9BOXFrbUdIOE9ETmdWcTV6WjBpNmQxaFBoV1BkU0FqbEJ5V2toR05SV3p1RHlnZ0NCLUNuVjVrUXlLeWFuYjNEM1lVZTNhQmdjOE1PQjZjZXZfZU1zd0tfTHhYRVdYSXNLQkw3bEhsWUwtUHFlLW9nZklhd2IxYkxMVHBWVERvY0ljVzdiUFA5VjQ2Z1VqR3hB0gGqAkFVX3lxTE1FczdhbFZJTURNSG5YZmc5OTNYN1EyLXNlZWZsNFJ0c0FfRlNaZWVQVUFlb2FqOUh5bndDVFhORENCM3A2dUJvUWE1YnRiMzltX184ZTE2VHQ0SllNZjdlYW4zX3N6ZFJqMXJWT2Z4dHVLR0Q5Zm5tWTI2NXBaSlpGN0hXNTRHTkU5QTZsNzBXRHhyZm13aEdfZjN3YUZVVzFQcTBVTjA5RWJMc1lIMGVRMnJqdUw1dC1iM2hBMklUcFZfU3cwQWhveWd1ZHNfOGFfSW5GVENVSzEyUmtvSE1PbkRub2RJSFNJc1hwOFIyY3ZiUUxQSkNZTTQwOEFBSjJqYVhHUTBxNzdYN3ZJTFVsWkFySG1vLVM3Z3FlRmMwdFc4RDVlY2pFcEE?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMivwJBVV95cUxORUFrT1EyS3hwUFVqT2ExRkhURXN1eHhqRFFGOUF2VDlEeTNsVzN0MWJCRUc1SGFka1Izc3lMMlV0S0tXclVxM3dwYm1hdlYxcHRVekZDQnNXeDRXMjJSQjdOSnUxNkdKNFMycTY0Q0RCd3gtQ1dVSHI5Qy1uUVV1SWlhZC1CM0M3YllVSUlYN3ctQVotTGlka1VZbmE4WjBQZzVOaFFqX1RNSmFGMW9BOXFrbUdIOE9ETmdWcTV6WjBpNmQxaFBoV1BkU0FqbEJ5V2toR05SV3p1RHlnZ0NCLUNuVjVrUXlLeWFuYjNEM1lVZTNhQmdjOE1PQjZjZXZfZU1zd0tfTHhYRVdYSXNLQkw3bEhsWUwtUHFlLW9nZklhd2IxYkxMVHBWVERvY0ljVzdiUFA5VjQ2Z1VqR3hB0gGqAkFVX3lxTE1FczdhbFZJTURNSG5YZmc5OTNYN1EyLXNlZWZsNFJ0c0FfRlNaZWVQVUFlb2FqOUh5bndDVFhORENCM3A2dUJvUWE1YnRiMzltX184ZTE2VHQ0SllNZjdlYW4zX3N6ZFJqMXJWT2Z4dHVLR0Q5Zm5tWTI2NXBaSlpGN0hXNTRHTkU5QTZsNzBXRHhyZm13aEdfZjN3YUZVVzFQcTBVTjA5RWJMc1lIMGVRMnJqdUw1dC1iM2hBMklUcFZfU3cwQWhveWd1ZHNfOGFfSW5GVENVSzEyUmtvSE1PbkRub2RJSFNJc1hwOFIyY3ZiUUxQSkNZTTQwOEFBSjJqYVhHUTBxNzdYN3ZJTFVsWkFySG1vLVM3Z3FlRmMwdFc4RDVlY2pFcEE?oc=5)
-
----
-
-### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
-
----
-
 ### [Ce simple exercice en dit plus sur votre santé que votre tension artérielle, selon une vaste étude - La Provence](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU05zYlNZYVdMenpmQ1lmS2dPalJITjNoZEJ2Z01UUVJvM2sycnJVZkNjTlFYVTc4TGpNUVJacTZuMkpFeHMtZnNEbDdEQmk5ZUNxMFZVWERIdzBWLUs0SkNOQUNHbWM1cDBDR0ZwT3BYZVB4WE0yemNlZ3daUHp3WTNEM1lYVkhvNUx2eXZpZ0cyYkxiWk1kbXVxeDhOWjZRdWUzRWNpNGJxNGJ4RUFqVGlVZC03OW1XNWZFUjVLdE5qb3dVSnRJelNOZ3NWSDgySzBHUmhOeklkbnBOQk5VazdESDhHOU0?oc=5)
 
 2026-08-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
@@ -155,14 +155,6 @@ permalink: /news/semaglutide/
 2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV2VYbGJNU3N1RFlLWTV3cTZuNkN0RnBKNl9tbE5PdnFseUluQXp1Y25TajM4Yjlrbm1ONlh0NjJRbU96NDZweUFwVU5nS2FxNUg4YThRSFhvOVVGY3h1U2JvbGV2NEZrRnRTc0FoZno5SHdyWGxKc0pEbFM3VFhvWkswZFNjeEk2VFdMN2hGMEZQc0pBQXgwSENQU0lNWFNIZmkwUUo5c1kwb0dYMDczcGJOYlRIWTUzV19hdDRjN3c4X3o5M2tkTUhjXzBxN2otSlY3R21TM3V3NkRLM2ZKX3R6UEI2OHFCMzRiTTdJOWlVSG5rTW5Nd05QNNIBgAJBVV95cUxOc2x6QjZnWVpWclZfU2JQcy1HOFYweTJobDlRdXpubXRqVEI5amp0N0szbnpuVUpIYi1KQWcxM0Z2UVVsM2FwSDJ5QXI0U0FSNWhXbEgzVWdnaGpNSTVYd3RKaF9NNS1uZzk4eWM2N1A0Vk4xeHRQTERqcVNZd0h6V3B6ZDdabGUwWDFUZG13c1dRa1gtcHJJb2Y4dThubVdkZFBzLURtWFBDc1ZDSnRoMjJ3eXVseFFLX0pacERqdnVCN3ZtNFpjWTdTaTV6ZmNyVWtMWXYzY1VnY0JGTGoyUFlDYnZZWkdwSU02QU54ZURKaExsYm1TbmhvLVd5cXlK?oc=5)
-
----
-
-### [Semaglutide, cosa succede all’infiammazione dopo due anni? La nuova analisi su 17 mila persone](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVjR5NlJGU2lKZ1ByU21FMTFkSmZlS1ZoVGh6bG41MHNwdy05X2V6RDVibDdFMERCb3NDVTBadVZhVWItRmV3d1p0OWlCbjBjVXc3czBBWmV6NEJaNEtpTzBoanZSS3lpeEdaQ0VPeUdPZG9qSDFkS3p0a2JJbG8xWmc5Z0dIdTNUMmwzM1ZZRFNVdXVlbmxVejE0elFBdkFTQm5WTDBjeFI5UjJpVXBqTjBCUC1OUDJqa2pJVUxYR3A1UXRHN2ZDQ25QSXExOTBQMkc5TE83d21ITnQwaDEtQ1RRTFRUUQ?oc=5)
-
-2026-08-18 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVjR5NlJGU2lKZ1ByU21FMTFkSmZlS1ZoVGh6bG41MHNwdy05X2V6RDVibDdFMERCb3NDVTBadVZhVWItRmV3d1p0OWlCbjBjVXc3czBBWmV6NEJaNEtpTzBoanZSS3lpeEdaQ0VPeUdPZG9qSDFkS3p0a2JJbG8xWmc5Z0dIdTNUMmwzM1ZZRFNVdXVlbmxVejE0elFBdkFTQm5WTDBjeFI5UjJpVXBqTjBCUC1OUDJqa2pJVUxYR3A1UXRHN2ZDQ25QSXExOTBQMkc5TE83d21ITnQwaDEtQ1RRTFRUUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Probióticos para el ánimo: cómo cuidar el intestino ayuda a combatir la depresión en la vejez - Saber Vivir](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeTJIZEJmTnVfRk02Rk0yOFZRcXczQVRfUHUzaW1QUC11bmphNlB3aTE4eGMyVTduSlhOb3BBZU1OLUhSU0I4eUc0NG9hMkt0WWRHQnpNREREcVZFbm92S1ZNOXNyeFdiNG5MYnZaLWxOMzFweWhzNjc4eU15T2dGdnU1Q3FqSjZJcWtDdjJodktCMjJNb2JUTWhzM1l1UTRoWnpqeFY5bXRzMnpCeURkTG9vS2Jkcy0wT1dibFg0Sk84YjNmZHJyVTBwNXhxNm1nYnc?oc=5)
+
+2026-08-19 <span class="news-indication-tag">depresión</span>
+
+來源：[Saber Vivir](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeTJIZEJmTnVfRk02Rk0yOFZRcXczQVRfUHUzaW1QUC11bmphNlB3aTE4eGMyVTduSlhOb3BBZU1OLUhSU0I4eUc0NG9hMkt0WWRHQnpNREREcVZFbm92S1ZNOXNyeFdiNG5MYnZaLWxOMzFweWhzNjc4eU15T2dGdnU1Q3FqSjZJcWtDdjJodktCMjJNb2JUTWhzM1l1UTRoWnpqeFY5bXRzMnpCeURkTG9vS2Jkcy0wT1dibFg0Sk84YjNmZHJyVTBwNXhxNm1nYnc?oc=5)
+
+---
 
 ### [Depressione in adolescenza, dormire poco da bambini aumenta del doppio il rischio di sviluppare sintomi - Corriere della Sera](https://news.google.com/rss/articles/CBMirAJBVV95cUxQcXFmZ1B1R1lQTVhyRUUwZUcxQmJWaWFveGl4NFNaUV9ONU1uMFhVbmJMRHRfbkY0RnRtUm9jb1BndkRYdUIyOW02NEFWNTFhaGVibll0clloT28wakZxUFNxVFllcUlFUURfMUMzOXlIVnJkWEdrUUFfUFFjZXNnSmJYWFBRYWg5V1VqenJhZTVKbUNSX29VVHJQODBiU09yb0NsMThER0hncjhtSFgyREFXSDVldUthbnA4LUxQVFFmOHNHc19XS3hKdkdHb19mWHZTMUcxZFN1cmxvNXAxVXFZYnZHTl9CWFdiVURMdkM3UTdJWjFydGotNGx6UUp4bnJjTTdtczNXXzNwZF9wVjVaXzJ5Q3IwSmpPSE9PZWF1TjlkazdsZkFfUjPSAbICQVVfeXFMTzlfYUhva3VfZHFCeFZZbmYxT0FJS2FuZlVoTGRtUWZmU0RPXzRHVlU0ZmZSenM0bUx5TFJvOU5LRnRhZkZpeG1BeWQ1RHN0SkxLaVVWRExjSk1Ha0h5NkU5Qk1XYktWUGpuRV9YU3VCbkNvMS1TWnZWVWlwOEFKaVNwTWxvb2ZiWnpGY05GaWl4bWpoYlZSMTI3amNqcVRTRThPQTU3aTdEdEtMM2YwckUxcnExMUljWGlnSmRFY3lmWWczRGhYR0hwUlJjd082R3EzU21Ddk4xQ1VaZDcwckxWa3lXYnF2WTBYXzY1QmV6ZktGNVViUHg5dlN2Y1Z1b0dLUDJvVHZmbGlRcDJNdHM4Z1hjSURMWjlhWDdla3pUN0ZkWG84UlBCWWpUQjRqaUNn?oc=5)
 

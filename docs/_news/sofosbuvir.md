@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（19 則）
+
+### [Los fallecidos por ébola superan los 2.400 en República Democrática del Congo - Radio Televisión Canaria](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2h3UVFDQ21DRGlZMGdLTFQwSXIyWXZPSEprV3kzajU3b25NZjBWNk5oZkhoXzVOUTlJLWlSLXlsLXN0Sl8yeVN6eTZ3N0ZKemlJZVBUZ3B6ZXZpX2QtX0RZVlh5akpqNlU2MXhydGRUZW1QNk5OaWpwaEJCTGZJRHJsUUl5SmdLLWVYMm90SERWVkV2X3NrdXBn?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span>
+
+來源：[Radio Televisión Canaria](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2h3UVFDQ21DRGlZMGdLTFQwSXIyWXZPSEprV3kzajU3b25NZjBWNk5oZkhoXzVOUTlJLWlSLXlsLXN0Sl8yeVN6eTZ3N0ZKemlJZVBUZ3B6ZXZpX2QtX0RZVlh5akpqNlU2MXhydGRUZW1QNk5OaWpwaEJCTGZJRHJsUUl5SmdLLWVYMm90SERWVkV2X3NrdXBn?oc=5)
+
+---
+
+### [Reizdarmsyndrom und PMA-Zeolith: Wissenschaft bestätigt Wirkweise des optimierten Zeolith](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJzdDZ4d3R3cmJyeHFTeDUyVHdGLS0yNGpTOGEtaWNlNmtKeWtiTU1lZFJDZVRvYzVtc3U3a1FOenRIOTg5VlVIVVQ0MjN1M1pZenpvd1Rnb1M5OVc2TTZYUy1PMVN5d2dTWXZDaWxnbWRLYWxYRXdjS002MFE2ZEVpYmV3X2tIeUo2T2FvUGFoYkY5NDVaVUZMS1NUY1hiSEg1dFZVOFB3RWV3WVhNNEU2VDBSbE14bEtoNk1vaGYtT3gyMUx3bQ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[openPR.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJzdDZ4d3R3cmJyeHFTeDUyVHdGLS0yNGpTOGEtaWNlNmtKeWtiTU1lZFJDZVRvYzVtc3U3a1FOenRIOTg5VlVIVVQ0MjN1M1pZenpvd1Rnb1M5OVc2TTZYUy1PMVN5d2dTWXZDaWxnbWRLYWxYRXdjS002MFE2ZEVpYmV3X2tIeUo2T2FvUGFoYkY5NDVaVUZMS1NUY1hiSEg1dFZVOFB3RWV3WVhNNEU2VDBSbE14bEtoNk1vaGYtT3gyMUx3bQ?oc=5)
+
+---
+
+### [La reserva mundial de vacunas libera 70.000 dosis contra el ébola para la República Democrática del Congo](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUc4UnRRNkFRcS1FRnJtMWRZaXpwMjFDUGl2ZmtncTA4R0t6VWl4a09MeU54VVlxTkw2ZHNVUmoyanpoUmJKS2Y4anpUaC1lSFR3UnRrcENJSkRpLTM1dktPVnRmNEFmeWswdzhTSWQxakFuWXBPal9CRE5MY0VXcnpjZDBnbjVhbXBCa1l5NlpZenh3QzRYOHRsZ1BqRVBNYzZzcTlZVXEydWNncmhlZHptQmFhUzNVXzRocW5fVTRRT2JCT0E?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUc4UnRRNkFRcS1FRnJtMWRZaXpwMjFDUGl2ZmtncTA4R0t6VWl4a09MeU54VVlxTkw2ZHNVUmoyanpoUmJKS2Y4anpUaC1lSFR3UnRrcENJSkRpLTM1dktPVnRmNEFmeWswdzhTSWQxakFuWXBPal9CRE5MY0VXcnpjZDBnbjVhbXBCa1l5NlpZenh3QzRYOHRsZ1BqRVBNYzZzcTlZVXEydWNncmhlZHptQmFhUzNVXzRocW5fVTRRT2JCT0E?oc=5)
+
+---
+
+### [Ebola en RDC : l’OMS déploie 70 000 doses du vaccin Ervebo - Le Monde.fr](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak9fWGRHc2dWNHFIZXluYnlJdXFkcjFWTk55RGk0bGowckNVN0Y2OGtkNW90T1JpZXRBVnVtNlEzLWpLejVTX3NYUzdicTlPbEJESWpmUVpWelpnQTFrWXRoZGJzYTdYUTJYcURfcUNrWERqbnVuWi00WEJGRFY3ZklZVFNpNDNSaUJCbVJZYTVMa0dCY2ZvLWIxNUxGX1hIU1NXV2l5bmV3ZWlZOHVUU3pSbzh5dng1cGNmUVRzVUhYZw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak9fWGRHc2dWNHFIZXluYnlJdXFkcjFWTk55RGk0bGowckNVN0Y2OGtkNW90T1JpZXRBVnVtNlEzLWpLejVTX3NYUzdicTlPbEJESWpmUVpWelpnQTFrWXRoZGJzYTdYUTJYcURfcUNrWERqbnVuWi00WEJGRFY3ZklZVFNpNDNSaUJCbVJZYTVMa0dCY2ZvLWIxNUxGX1hIU1NXV2l5bmV3ZWlZOHVUU3pSbzh5dng1cGNmUVRzVUhYZw?oc=5)
+
+---
 
 ### [Bessere Versorgung bei MS und Epilepsie: kbo-Inn-Salzach-Klinikum und RoMed kooperieren - Radio Charivari Rosenheim](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGNUanlZcW1pYXdGdHJUMkxRcFJDTHZCak1wbTcwNlIzczY5LVlMTXhVTVRqaXlaNUVmVTNEXzF4WkRGQlBMa0NUQzVEX0F4QVRQeFRoNVRVWGpRa3JIV2tLMGRYLTdlT2U5emUzOHFKT1kwSG4tWmxKcW92YXVxTU5XaXQ2Z0dQMjBma21HV0pESnRTcXZKc21jaWZSSjNjSlgxMFB4ZUdyOFpkSWlqZHdqTDlIWVNpVUtCMU5Lc3JfeHZnSnNzU0ktLVZfakYxZUJOajNJWVA1elFPNUlHei01Yl9qY3plLXc?oc=5)
 
@@ -62,19 +94,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [La epidemia de ébola más rápida de la historia avanza a ciegas para la ciencia](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVfU3hhTDVBclJKVy1RVWpNVUVXQWhLSUx5WGV5Q19Ec1NLcFZRMDhYdl9wTzJUZ2MwR3dpREJDWnVEbXczamJ1dncxX2Y0cEVvanNYRUZhdnJRdHFKcWtnWFgxcW9pS29lV0NSQ1VJdnpPczVnVmd2ZUxKQ0pVRThOWXB4bGxPZFY4Q1dpcEM1aXNSS3QzbEZUX043YUIy0gGmAUFVX3lxTE9kWnh4RlAyNWViYVlCZjdNVWdYei00VTJId3ZsVVpuWnBCcGNHbEc1NGktcDRNbld5RF96QkhZTGRnek5NakdGeTdJQWV2ZWpUMHZ3MHFWUS03VzFuVGRKcHJVeUdEbU83Y1BqQ3dMRHBQZF8xdnlfX2F5Rk9SMjhOTGVPbVRvSHV6eC1YekZlQjFzR3NxNWxYMFYxYTNjOTdWdkpja0E?oc=5)
+### [Le médicament Tavneos retiré du marché français, jugé trop dangereux](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDdRYk1ha00zamt3VFR1RnBHZ2xxY05MR3BiU2IwVjktdV8yUmpwekxPdDc3ZjdSTHowSXIxdGF3ZW1lMXFxQ1BEalVaXzZWbFc5NDNJM0JnZ05HU1pUWlBEMlNpaGd3dDhucVBJdjZIUVBNUGdJMnRXenJCbDVNSE9weko1OWV2b3ZpQm9LU3FfVjR1WE9jZUpRdjI0aFlXa1RUcncyQkFPeV9YdVc3VEJVVm9rUERObFZiSWd5LVM?oc=5)
 
 2026-08-20 <span class="news-indication-tag">MS</span>
 
-來源：[Xataka](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVfU3hhTDVBclJKVy1RVWpNVUVXQWhLSUx5WGV5Q19Ec1NLcFZRMDhYdl9wTzJUZ2MwR3dpREJDWnVEbXczamJ1dncxX2Y0cEVvanNYRUZhdnJRdHFKcWtnWFgxcW9pS29lV0NSQ1VJdnpPczVnVmd2ZUxKQ0pVRThOWXB4bGxPZFY4Q1dpcEM1aXNSS3QzbEZUX043YUIy0gGmAUFVX3lxTE9kWnh4RlAyNWViYVlCZjdNVWdYei00VTJId3ZsVVpuWnBCcGNHbEc1NGktcDRNbld5RF96QkhZTGRnek5NakdGeTdJQWV2ZWpUMHZ3MHFWUS03VzFuVGRKcHJVeUdEbU83Y1BqQ3dMRHBQZF8xdnlfX2F5Rk9SMjhOTGVPbVRvSHV6eC1YekZlQjFzR3NxNWxYMFYxYTNjOTdWdkpja0E?oc=5)
-
----
-
-### [Infected blood victims told to return compensation - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWxvanpaSUtDeVBGOGwwcEs0STc1X0J3bllTMXBaMl9aY3pyd2VxRmdCN3ZaLU82TU5idklrbjU0dnVvM0xvSXBtYTlLem1DZzZxR19ZdUdMRkFJUS1GbFltRDlGUmF5SVlXNlRVWEoyUHJFOXhlcy1LWV9aNVYtQThjcE1LNGFQN0UyeEs3eHpvYXpibVpsOGJWMmhTVzJLcS1udQ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWxvanpaSUtDeVBGOGwwcEs0STc1X0J3bllTMXBaMl9aY3pyd2VxRmdCN3ZaLU82TU5idklrbjU0dnVvM0xvSXBtYTlLem1DZzZxR19ZdUdMRkFJUS1GbFltRDlGUmF5SVlXNlRVWEoyUHJFOXhlcy1LWV9aNVYtQThjcE1LNGFQN0UyeEs3eHpvYXpibVpsOGJWMmhTVzJLcS1udQ?oc=5)
+來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDdRYk1ha00zamt3VFR1RnBHZ2xxY05MR3BiU2IwVjktdV8yUmpwekxPdDc3ZjdSTHowSXIxdGF3ZW1lMXFxQ1BEalVaXzZWbFc5NDNJM0JnZ05HU1pUWlBEMlNpaGd3dDhucVBJdjZIUVBNUGdJMnRXenJCbDVNSE9weko1OWV2b3ZpQm9LU3FfVjR1WE9jZUpRdjI0aFlXa1RUcncyQkFPeV9YdVc3VEJVVm9rUERObFZiSWd5LVM?oc=5)
 
 ---
 
@@ -102,11 +126,27 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Symptoms May Signal Prostate Cancer in Primary Care](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR0MHp0TmJSLXFMU19LWVdjeGlaaUNCX0x0Sm4xZzVHU3VDNHZkQVJZQmMtMTFxbTBtUERFTVI0ZTRjOWJhUVBJX29kdG1uSTJiUnNBeG1GWGZfMF9uYmU1b2stZFpQb2g5V2JrX2Yxc0s0ems3VkVuV0pnZDRYU0xxSGo5ZkY3MlRMYjdVVnlsRXNvcDFDR1ZlbTNvN3B3ZGlPUHh4NWFRRTla?oc=5)
+
+2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR0MHp0TmJSLXFMU19LWVdjeGlaaUNCX0x0Sm4xZzVHU3VDNHZkQVJZQmMtMTFxbTBtUERFTVI0ZTRjOWJhUVBJX29kdG1uSTJiUnNBeG1GWGZfMF9uYmU1b2stZFpQb2g5V2JrX2Yxc0s0ems3VkVuV0pnZDRYU0xxSGo5ZkY3MlRMYjdVVnlsRXNvcDFDR1ZlbTNvN3B3ZGlPUHh4NWFRRTla?oc=5)
+
+---
+
 ### [How going vegan for 1 month may affect aging, inflammation - Medical News Today](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmFiSlY1SDdQaGRlYk55N01KbFlpRV93M3k1bjV6dXlENUFNaFd2WHVaOWpQSUl0QloySFFoRjBKd1Y2X1BSdldqN09NOW1NSjhvaHdBeWdVQzFfeC1nMXhEREwweVJZVzBSU0wtQzdQSDA4d0NNNVF6T2JMSG85RDNoRzJ2UC02UEFSTUp4c3FBMnlXRm1SbjZKTkRiekI3?oc=5)
 
 2026-08-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmFiSlY1SDdQaGRlYk55N01KbFlpRV93M3k1bjV6dXlENUFNaFd2WHVaOWpQSUl0QloySFFoRjBKd1Y2X1BSdldqN09NOW1NSjhvaHdBeWdVQzFfeC1nMXhEREwweVJZVzBSU0wtQzdQSDA4d0NNNVF6T2JMSG85RDNoRzJ2UC02UEFSTUp4c3FBMnlXRm1SbjZKTkRiekI3?oc=5)
+
+---
+
+### [Waist size is the 'best indicator' for risk of death past middle-age, says study - what YOUR measurement means - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
+
+2026-08-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
 
 ---
 
@@ -126,27 +166,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Reizdarm: Diese pflanzlichen Behandlungsansätze wirken nachweisbar](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDlxSVlMc3gzSXV0UGxCcEwxT0NMSE14YUlvWC15bzdWUF91RzJHZHU5c0R3UWFPbTIxbDh3eGZJajViU1dtZzQyemI1QkZHWVBsN0NBZVkzTHAxeVJSWm9nTnQ5czlQQlJrMkhXSEV0U3hrM0V0UHh3QnhybmR6VDhWcFNTWDBrcUViUV82SHRLaWdSeG5LQnUzb014MW1JcERNYUpNR2VpQ2R3WDFOLXQyTnBCY0NPZGJKLTRTYmJLODhuWWJWT3h1Unc2dG8?oc=5)
-
-2026-08-19 <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDlxSVlMc3gzSXV0UGxCcEwxT0NMSE14YUlvWC15bzdWUF91RzJHZHU5c0R3UWFPbTIxbDh3eGZJajViU1dtZzQyemI1QkZHWVBsN0NBZVkzTHAxeVJSWm9nTnQ5czlQQlJrMkhXSEV0U3hrM0V0UHh3QnhybmR6VDhWcFNTWDBrcUViUV82SHRLaWdSeG5LQnUzb014MW1JcERNYUpNR2VpQ2R3WDFOLXQyTnBCY0NPZGJKLTRTYmJLODhuWWJWT3h1Unc2dG8?oc=5)
-
----
-
 ### [I’m a gut scientist – six signs your digestion isn’t normal - The i Paper](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
 
 2026-08-19 <span class="news-indication-tag">MS</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
-
----
-
-### [Ebola en RD Congo : plus de 5 000 cas recensés, l'OMS redoute une propagation internationale - France 24](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWhNcGMwUGo2R3NGdkxQeXJnSkZ0S2pVbzBncE9ua3VubFVVeG9FdlhLZ1ZTX19WU2RzcGxlbTIyRG1yVFhDZ0VqLUFDYzdvdDdLMXc0TERhSUZlVUVlTlUxQnE3X2lkcG9iS21KaVVsa2Vla3hvNXJ5TWpZcHJUdWwzSGt1ZEY5X01lZHl5UTkxLVBscjVqemxYOF9WWkkxY0RkcW55bkE1N0NYWG9lY1pUN0NFay1GMDhtRlBqaTU?oc=5)
-
-2026-08-19 <span class="news-indication-tag">MS</span>
-
-來源：[France 24](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWhNcGMwUGo2R3NGdkxQeXJnSkZ0S2pVbzBncE9ua3VubFVVeG9FdlhLZ1ZTX19WU2RzcGxlbTIyRG1yVFhDZ0VqLUFDYzdvdDdLMXc0TERhSUZlVUVlTlUxQnE3X2lkcG9iS21KaVVsa2Vla3hvNXJ5TWpZcHJUdWwzSGt1ZEY5X01lZHl5UTkxLVBscjVqemxYOF9WWkkxY0RkcW55bkE1N0NYWG9lY1pUN0NFay1GMDhtRlBqaTU?oc=5)
 
 ---
 
@@ -171,6 +195,14 @@ permalink: /news/sofosbuvir/
 2026-08-18 <span class="news-indication-tag">MS</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
+
+---
+
+### [Eine Coronainfektion kann elf schlummernde Viren im Körper wecken](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
+
+2026-08-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'essentiel](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,63 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（28 則）
+
+### [La explicación biológica que detalla por qué el café puede ser garantía de una vida más larga - La Nación](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOWd6WGN3RWd2UmVlOXlBdVNUbWJRMExSY2VTTHRCTGFWV3k1NXNUcE9NT3gyZEVWeDJVbFJjblJrWTB5bUVvVUdVZl9JdHFYMG1nNjhLektMQWNvMHVESGxtazZ0VTZGN0pCcFdYclNvQXk4RVNOOEtKc0ZPeVl2QV93bTJxTjk0czh5dHBkM0pLRnExR19WcnRKeWhxaTZvUF81U09YT2lBRDFmWkRvWUZ5Y09RX1A2cmNpbWtUbXFzMjFpQjJJYUo1cVVzTFEtc2ViN2tfZzRSZm8?oc=5)
+
+2026-08-20 <span class="news-indication-tag">AF</span>
+
+來源：[La Nación](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOWd6WGN3RWd2UmVlOXlBdVNUbWJRMExSY2VTTHRCTGFWV3k1NXNUcE9NT3gyZEVWeDJVbFJjblJrWTB5bUVvVUdVZl9JdHFYMG1nNjhLektMQWNvMHVESGxtazZ0VTZGN0pCcFdYclNvQXk4RVNOOEtKc0ZPeVl2QV93bTJxTjk0czh5dHBkM0pLRnExR19WcnRKeWhxaTZvUF81U09YT2lBRDFmWkRvWUZ5Y09RX1A2cmNpbWtUbXFzMjFpQjJJYUo1cVVzTFEtc2ViN2tfZzRSZm8?oc=5)
+
+---
+
+### [„Das Gehirn beginnt zu erschlaffen“: Sechs Alltagsfehler, die das Gehirn vorzeitig altern lassen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVTZoTVZ3SFdELWcwRWt2VGtzdXFlTWstb3VXY2QxRTdVeGJHOEVQdFJlZnNXSktsQ0ZNd2M3TkNnWVZ1SE5xLW9DRnRaak43aFFyNkpkQ3FYMVlCWVVFRjhERTVCMndaZGRsN1JXYVd6aFFaRW5mVGhXNkFBLTlhM3k4RXZBTW9qdHNRT2RTam5DUXZtYnI2aGlPNVE3azYxQWNfX0ZBYw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVTZoTVZ3SFdELWcwRWt2VGtzdXFlTWstb3VXY2QxRTdVeGJHOEVQdFJlZnNXSktsQ0ZNd2M3TkNnWVZ1SE5xLW9DRnRaak43aFFyNkpkQ3FYMVlCWVVFRjhERTVCMndaZGRsN1JXYVd6aFFaRW5mVGhXNkFBLTlhM3k4RXZBTW9qdHNRT2RTam5DUXZtYnI2aGlPNVE3azYxQWNfX0ZBYw?oc=5)
+
+---
+
+### [Animal movement restricted as bluetongue spreads in south Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JSnI0VmlHanJ2Z19qQTZrU2xINEszd2VVX1pzdHBoQW84YXNjSHpRdjlvZXBtZWplamR2S29tSjZnOUFGMUZHeUNWbVF3dW02X2ZQX0g0ejZUMmlB?oc=5)
+
+2026-08-20 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JSnI0VmlHanJ2Z19qQTZrU2xINEszd2VVX1pzdHBoQW84YXNjSHpRdjlvZXBtZWplamR2S29tSjZnOUFGMUZHeUNWbVF3dW02X2ZQX0g0ejZUMmlB?oc=5)
+
+---
+
+### [José Abellán, cardiólogo, sentencia el debate sobre el número de cafeína que puedes beber: «El café parece seguro para la salud cardiovascular hasta esos cuatro o cinco cafés al día» - La Razón](https://news.google.com/rss/articles/CBMikgJBVV95cUxQV0JpYzFEU3ZZVVRVUEJEb2VPenNDSG4xZWZ2Q2pqaGoyZEFyQjRienh2Y0RySE4ycTVPRnRQTkRYSGpWYlpLYWpncDN6a2w5Sy00bTcyR2thM09VYV9oUnRXVHIxWTVkejIyRmdYVkxDTDhaQWFDdjR5SzhUYUYtZWFXVVJBN0ZpSkpoQk81RE14S0lhQjB0dWRFM3huSEJ4VWxWVmtWRHp2M1Btelp1dWRoaC1FS3puS0Z6NFlvcDktS2NTQUNjOXhMWlNwVFJySUJfVHhXeWtBc01uVmtpUnFqUkRveW9wcnFoM2E1RzVfamU5ZEhBNXNKTnpiVDdvcTQ5akI2NHU3d3hORDB5M0F3?oc=5)
+
+2026-08-20 <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMikgJBVV95cUxQV0JpYzFEU3ZZVVRVUEJEb2VPenNDSG4xZWZ2Q2pqaGoyZEFyQjRienh2Y0RySE4ycTVPRnRQTkRYSGpWYlpLYWpncDN6a2w5Sy00bTcyR2thM09VYV9oUnRXVHIxWTVkejIyRmdYVkxDTDhaQWFDdjR5SzhUYUYtZWFXVVJBN0ZpSkpoQk81RE14S0lhQjB0dWRFM3huSEJ4VWxWVmtWRHp2M1Btelp1dWRoaC1FS3puS0Z6NFlvcDktS2NTQUNjOXhMWlNwVFJySUJfVHhXeWtBc01uVmtpUnFqUkRveW9wcnFoM2E1RzVfamU5ZEhBNXNKTnpiVDdvcTQ5akI2NHU3d3hORDB5M0F3?oc=5)
+
+---
+
+### [Reizdarmsyndrom und PMA-Zeolith: Wissenschaft bestätigt Wirkweise des optimierten Zeolith](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJzdDZ4d3R3cmJyeHFTeDUyVHdGLS0yNGpTOGEtaWNlNmtKeWtiTU1lZFJDZVRvYzVtc3U3a1FOenRIOTg5VlVIVVQ0MjN1M1pZenpvd1Rnb1M5OVc2TTZYUy1PMVN5d2dTWXZDaWxnbWRLYWxYRXdjS002MFE2ZEVpYmV3X2tIeUo2T2FvUGFoYkY5NDVaVUZMS1NUY1hiSEg1dFZVOFB3RWV3WVhNNEU2VDBSbE14bEtoNk1vaGYtT3gyMUx3bQ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[openPR.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJzdDZ4d3R3cmJyeHFTeDUyVHdGLS0yNGpTOGEtaWNlNmtKeWtiTU1lZFJDZVRvYzVtc3U3a1FOenRIOTg5VlVIVVQ0MjN1M1pZenpvd1Rnb1M5OVc2TTZYUy1PMVN5d2dTWXZDaWxnbWRLYWxYRXdjS002MFE2ZEVpYmV3X2tIeUo2T2FvUGFoYkY5NDVaVUZMS1NUY1hiSEg1dFZVOFB3RWV3WVhNNEU2VDBSbE14bEtoNk1vaGYtT3gyMUx3bQ?oc=5)
+
+---
+
+### [La deshidratación puede causar algo más que sed: un experto explica cómo puede afectar al corazón - Mayo Clinic News Network](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUtoaEZWYzlSR0o4U0ZSaDFRVDIzelJ5Sk9BekhsOF83NzlkRjlGLUlJSHl3aTR1WXpNRTNBcHAwNnM1OGxjS3FJOWdIZ2NEbEZEZGFFQzJzSEd4NWF2Q24tUmVSZjBVem9sRkctZTVtUlVscmVxdmFOTFZFZFZhVEl2dmZkX2J3VmJGZjlMdk51OVU0dTBVNFF3c0Nla2JaYzQwTVZGRDRGS3ZDdVBBZ2hicU1vSTBmS2NwLV8wYnJZZnQ1c2c2NG5uTU5jWUtSQjZkcWJTLWk0MW5pUmVR?oc=5)
+
+2026-08-20 <span class="news-indication-tag">AF</span>
+
+來源：[Mayo Clinic News Network](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUtoaEZWYzlSR0o4U0ZSaDFRVDIzelJ5Sk9BekhsOF83NzlkRjlGLUlJSHl3aTR1WXpNRTNBcHAwNnM1OGxjS3FJOWdIZ2NEbEZEZGFFQzJzSEd4NWF2Q24tUmVSZjBVem9sRkctZTVtUlVscmVxdmFOTFZFZFZhVEl2dmZkX2J3VmJGZjlMdk51OVU0dTBVNFF3c0Nla2JaYzQwTVZGRDRGS3ZDdVBBZ2hicU1vSTBmS2NwLV8wYnJZZnQ1c2c2NG5uTU5jWUtSQjZkcWJTLWk0MW5pUmVR?oc=5)
+
+---
+
+### [Dr Amir Khan high cholesterol message to people on statins as thousands affected - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHA1YzE0QjMtYjZBZUktVTkwMnhUeURybzM3TEtnd3NHMG1ZMDd5TjRCc01aTHBxUk85ZkxDRURLRUZycU1tbUFhQk82bGdyRXprdXBrdkFlX1FoN08tQVMzTnk0cFhTMWM1Nk1YNTNkdFA4OUFEX2RVS2QtZGphMtIBhgFBVV95cUxNZUt4Y1NpSTFnbWZnRXNKNERvWGdIRUdPS2dnSjlNajdxXzQwMjhDXzh5emNsRVVxWEI0Qm80dHdnSmJxMGw3b0FZXzhFM1ZOamU4YUUySGRGOFNwQlBOdXBGZkNPSlVDV2lZSUZFZ0xDWDBmUmRadFp1bDNUd0VUQ2JKcE4wQQ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHA1YzE0QjMtYjZBZUktVTkwMnhUeURybzM3TEtnd3NHMG1ZMDd5TjRCc01aTHBxUk85ZkxDRURLRUZycU1tbUFhQk82bGdyRXprdXBrdkFlX1FoN08tQVMzTnk0cFhTMWM1Nk1YNTNkdFA4OUFEX2RVS2QtZGphMtIBhgFBVV95cUxNZUt4Y1NpSTFnbWZnRXNKNERvWGdIRUdPS2dnSjlNajdxXzQwMjhDXzh5emNsRVVxWEI0Qm80dHdnSmJxMGw3b0FZXzhFM1ZOamU4YUUySGRGOFNwQlBOdXBGZkNPSlVDV2lZSUZFZ0xDWDBmUmRadFp1bDNUd0VUQ2JKcE4wQQ?oc=5)
+
+---
 
 ### [Morbus Crohn: Neuer Antikörper erreicht 48% Remissionsrate](https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpLN0MxZk1LZ2ljRUMyNTZYaHllR2NxWnFYRzkyUHkwVHY5VklKVjBtZkFhM1NmbGNYdlhGRkpncy03a3VlSURaS1NXMjNVcmpFcnRCY1Mwa1NPZzh2NjNfRmN1NzMxRlo3MXlacXJyNW5IM082VGVYTU9zak9LUEFDcjJvRndWYVZqMldoWjAtOWhxc0daa0pDM3hCZWZPUnM1T3dZQ1VubFVqaTN6aU1yaHc?oc=5)
 
@@ -75,22 +131,6 @@ permalink: /news/prilocaine/
 2026-08-20 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTmxteUhUeVJ6RUd6N2ZMdjZld2VIVVVxWEp2WUZDdHZUUjdIQmE0TmI5OE1kYUJMSlpWRnhmcVBwRHlxclM3SlJKTGx3Q2ZMVGphY08zdTJqbG9jcUJ2NDk4ejhJM3lkdFhsRlpNYVFYZ2NKSWFyWjhFV1NicXJNdTFaUUZ3aFQ2X1Q5cmd1MHJJc2w0Vm5lQmdUdDZqcmpURWpMaQ?oc=5)
-
----
-
-### [„Das Gehirn beginnt zu erschlaffen“: Sechs Alltagsfehler, die das Gehirn vorzeitig altern lassen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDh1dU4zVGktWVR6clVzX0ZNcFhjWjdoNVY0RlRtMW9iZUlCUGlHZWp4MHlyUndoRmpiVGVyQUl0M2d4Z2ZmQ0JjVFh6QUdRSVdwME0zdjNod3AtZ1hqYW43LWhrQmx6Y0QtWGItNGFPNDdvajVSelhlNWdkdXVncmVVOHRRRVJMRWc0ZkpCdnRKV29tVEtmZDFZTXQweFFhUGJTU1ZkZw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDh1dU4zVGktWVR6clVzX0ZNcFhjWjdoNVY0RlRtMW9iZUlCUGlHZWp4MHlyUndoRmpiVGVyQUl0M2d4Z2ZmQ0JjVFh6QUdRSVdwME0zdjNod3AtZ1hqYW43LWhrQmx6Y0QtWGItNGFPNDdvajVSelhlNWdkdXVncmVVOHRRRVJMRWc0ZkpCdnRKV29tVEtmZDFZTXQweFFhUGJTU1ZkZw?oc=5)
-
----
-
-### [¿El café es bueno para el corazón? Cardiólogo revela lo que ocurre con su consumo - El Comercio Perú](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDg5WVJYemRscUNIQUZHVjlmRW9mcTJGMGVBbUZpbnMwNFEzS3A1S0Fwd1VRNTh5RkZMbW1Dc0FvcHJyZXU3blNtcWN0blVHdzBQWWdiSDdGSmVQeDFVUFhCRTlwUFprNmNyLVd4OWtwdHZKdWhKVVZLbnpwOVpDRmxjalktOWgyTlg3Rk9BdnZfMnZaeTRJa2c3dV9hVUpDcWVLYzNMckd3bHZQclA4TTFUNU04TlRELURzZTduZS1SWDZ6cEF2NE5R?oc=5)
-
-2026-08-19 <span class="news-indication-tag">AF</span>
-
-來源：[El Comercio Perú](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDg5WVJYemRscUNIQUZHVjlmRW9mcTJGMGVBbUZpbnMwNFEzS3A1S0Fwd1VRNTh5RkZMbW1Dc0FvcHJyZXU3blNtcWN0blVHdzBQWWdiSDdGSmVQeDFVUFhCRTlwUFprNmNyLVd4OWtwdHZKdWhKVVZLbnpwOVpDRmxjalktOWgyTlg3Rk9BdnZfMnZaeTRJa2c3dV9hVUpDcWVLYzNMckd3bHZQclA4TTFUNU04TlRELURzZTduZS1SWDZ6cEF2NE5R?oc=5)
 
 ---
 
@@ -126,19 +166,19 @@ permalink: /news/prilocaine/
 
 ---
 
-### [How safe are your eggs? Everything you need to know about the salmonella outbreak - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3ZtU19aLUtjUkpyTFc0Y3N1NEJvd0hiUlZNUnpxdkNsX2FNSjM1TXpORHkyTEo3Ym81N0xJSHZtYk4ydzVld3B6WnNUazBPNjBRTnNTUHFzQWZVejhCS0F3cVVYMHJlSUNyeFRMNS1oWEh1MnA2dHJqRlhyTU9XRm9rYXhqM0FSZXpn?oc=5)
-
-2026-08-19 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3ZtU19aLUtjUkpyTFc0Y3N1NEJvd0hiUlZNUnpxdkNsX2FNSjM1TXpORHkyTEo3Ym81N0xJSHZtYk4ydzVld3B6WnNUazBPNjBRTnNTUHFzQWZVejhCS0F3cVVYMHJlSUNyeFRMNS1oWEh1MnA2dHJqRlhyTU9XRm9rYXhqM0FSZXpn?oc=5)
-
----
-
 ### [Il tumore affama i linfociti: scoperto lo scambio di aminoacidi che aiuta il cancro a nascondersi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzRmd2xVZG9XVTlkWjFvQmFUcW9kZTZueXlOOUxYU01IOFFGcjBabWFFclVKMGJwQjFQQzJhVjdhb05IY0NkSDh6cDBSbmNfWFBSMkVIcXlmVG1aZmtvSkJISmJKTXVzQjBNTklGVFA0WXd1NzFJUWxwZWN0RFl1V0M1cnV1am9jWWo4WHQxRU4tQzRZbVBlSG5FZDZYMll1OHpOdnJTekU3clM3T1JWN2hiR21UTk41NXhHSnBta2hSOXBUTWdPd01aZG5MN2xGNzBJSGF2VnR2cVZXQ1NiajA4YnZEUWVzSXlzWQ?oc=5)
 
 2026-08-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzRmd2xVZG9XVTlkWjFvQmFUcW9kZTZueXlOOUxYU01IOFFGcjBabWFFclVKMGJwQjFQQzJhVjdhb05IY0NkSDh6cDBSbmNfWFBSMkVIcXlmVG1aZmtvSkJISmJKTXVzQjBNTklGVFA0WXd1NzFJUWxwZWN0RFl1V0M1cnV1am9jWWo4WHQxRU4tQzRZbVBlSG5FZDZYMll1OHpOdnJTekU3clM3T1JWN2hiR21UTk41NXhHSnBta2hSOXBUTWdPd01aZG5MN2xGNzBJSGF2VnR2cVZXQ1NiajA4YnZEUWVzSXlzWQ?oc=5)
+
+---
+
+### [Waist size is the 'best indicator' for risk of death past middle-age, says study - what YOUR measurement means - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
+
+2026-08-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
 
 ---
 
@@ -155,14 +195,6 @@ permalink: /news/prilocaine/
 2026-08-19 <span class="news-indication-tag">asma</span>
 
 來源：[IM Farmacias](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkhETWZkMjREZGJQci13U2VtZnFHeGQ1dU5ocFNfYTlMalRweEx0VXJFTk1JYXlER3hZaHQyMklVclJlcUQ0M2pScllzVFViSGZ6ZkQyTldIRmowXzkzdkdUOVQwZU1TWUl0eEtxTEhrMTNwUk0tY0Y1MHNGYUNJZ0F2eENxclBCQWt6THVsaEdIbkJRaGFR0gGSAUFVX3lxTE5ZNHFfazlyWVhnQ29lUjVTVTctMkhnaVlyYjcwTjNDYXI2TWVCX3hteFpNdHB5S19VVHNCVU1aemhxN3ZXT2Y0M3BXb3pkT2tYbTZDTVRDSURJdGllbXhLSWFqQmFyWWlmb0NwTTBRTy1qWjRmZnJ2Y09aN3ZjTWVqUV92RmJ5Z29nMlNrenZvcmJR?oc=5)
-
----
-
-### [Un estudio revela nuevas claves del último gran brote de peste de Europa - Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxORHVPLS02Z2Z2ODR0ZFQ3Sm1QeVJEWHdQd1V0R1d1cHlaeDlRUFNYUzJ1NjY4N3UtMk1uVHY1MW9rM3N1Q085eXFJdFRjVVBaakF0VEtBUmg1QmUzNl9zSk1obmp2UzJhRTd0NS1kQnc0MFFrVmZ5bUIxQVdMM0tScFF3blB3YXdiT1h0OHEwX2tVcEEtWDlkZHRvV2RTX3c3LWc0bjlqVlhVSVhhNGtVZkJqVndFZw?oc=5)
-
-2026-08-19 <span class="news-indication-tag">AF</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxORHVPLS02Z2Z2ODR0ZFQ3Sm1QeVJEWHdQd1V0R1d1cHlaeDlRUFNYUzJ1NjY4N3UtMk1uVHY1MW9rM3N1Q085eXFJdFRjVVBaakF0VEtBUmg1QmUzNl9zSk1obmp2UzJhRTd0NS1kQnc0MFFrVmZ5bUIxQVdMM0tScFF3blB3YXdiT1h0OHEwX2tVcEEtWDlkZHRvV2RTX3c3LWc0bjlqVlhVSVhhNGtVZkJqVndFZw?oc=5)
 
 ---
 
@@ -222,9 +254,17 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Eine Coronainfektion kann elf schlummernde Viren im Körper wecken](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
+### [New stem cell treatment improves vision for previously untreatable condition - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFhRU3NFMUw2cWpEdEo4djZyVDNQTWJfNUZjRW5VUG8yZ2kxZGtzYWFrYV93SEpFelFUZmN2MlhYNUdhRjlveGlPMW8xTE4zWGxLMHJVTktPN2x4bElfeGRlSHBMV1dWaGx3TzZGb1Y1NnRjV1lmbHREeEJJdGhsQXlJZVNwbTVR?oc=5)
 
 2026-08-18 <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFhRU3NFMUw2cWpEdEo4djZyVDNQTWJfNUZjRW5VUG8yZ2kxZGtzYWFrYV93SEpFelFUZmN2MlhYNUdhRjlveGlPMW8xTE4zWGxLMHJVTktPN2x4bElfeGRlSHBMV1dWaGx3TzZGb1Y1NnRjV1lmbHREeEJJdGhsQXlJZVNwbTVR?oc=5)
+
+---
+
+### [Eine Coronainfektion kann elf schlummernde Viren im Körper wecken](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
+
+2026-08-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[L'essentiel](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
 
@@ -235,14 +275,6 @@ permalink: /news/prilocaine/
 2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV2VYbGJNU3N1RFlLWTV3cTZuNkN0RnBKNl9tbE5PdnFseUluQXp1Y25TajM4Yjlrbm1ONlh0NjJRbU96NDZweUFwVU5nS2FxNUg4YThRSFhvOVVGY3h1U2JvbGV2NEZrRnRTc0FoZno5SHdyWGxKc0pEbFM3VFhvWkswZFNjeEk2VFdMN2hGMEZQc0pBQXgwSENQU0lNWFNIZmkwUUo5c1kwb0dYMDczcGJOYlRIWTUzV19hdDRjN3c4X3o5M2tkTUhjXzBxN2otSlY3R21TM3V3NkRLM2ZKX3R6UEI2OHFCMzRiTTdJOWlVSG5rTW5Nd05QNNIBgAJBVV95cUxOc2x6QjZnWVpWclZfU2JQcy1HOFYweTJobDlRdXpubXRqVEI5amp0N0szbnpuVUpIYi1KQWcxM0Z2UVVsM2FwSDJ5QXI0U0FSNWhXbEgzVWdnaGpNSTVYd3RKaF9NNS1uZzk4eWM2N1A0Vk4xeHRQTERqcVNZd0h6V3B6ZDdabGUwWDFUZG13c1dRa1gtcHJJb2Y4dThubVdkZFBzLURtWFBDc1ZDSnRoMjJ3eXVseFFLX0pacERqdnVCN3ZtNFpjWTdTaTV6ZmNyVWtMWXYzY1VnY0JGTGoyUFlDYnZZWkdwSU02QU54ZURKaExsYm1TbmhvLVd5cXlK?oc=5)
-
----
-
-### [Expertos en longevidad coinciden: "El café podría activar una vía biológica que ayude a proteger frente al envejecimiento y las patologías crónicas" - El Economista](https://news.google.com/rss/articles/CBMizAJBVV95cUxNTkJyZl9mOVhHdWEzRkJ2LVA5VUdkOWxPMXlVMEs4b1lBVHdWdEcxSEYtOUhlcXZSSlp0Nm5DUXFVSldhYnFfb2JLd25zeURoYS1nWWFwSXZISmpBWHVEM2pRbGNtYl84aXlUbWkwWWlqQjNvWjRFWjk1SU9McXl6MG9hdmpEUDVWT3NMUXJueVdrTjVwbGM0TlNPc0x3Z0ZPV2x6SHVCZWhveEtDR3B4UlhmcWpROU0xQjM2ZjRZZjNCY1g1Q0VJTXM5SmM1bmd3emdwMW1JN1ZxUjZEMDJQeVhGVVN2NldObEhOX0NSS3NfRDA1YmtqUTFGY3J3T0x0S1ZEdGNPNXNmM0NzU3g5dEVwcTYxRHM3N3h3NXkzUUU2OVY2T20tV0JrbTJ0bFd4em5yX0FVQnhGdXRvRlZlM1pCdzJZUWJrMHhjLQ?oc=5)
-
-2026-08-18 <span class="news-indication-tag">AF</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMizAJBVV95cUxNTkJyZl9mOVhHdWEzRkJ2LVA5VUdkOWxPMXlVMEs4b1lBVHdWdEcxSEYtOUhlcXZSSlp0Nm5DUXFVSldhYnFfb2JLd25zeURoYS1nWWFwSXZISmpBWHVEM2pRbGNtYl84aXlUbWkwWWlqQjNvWjRFWjk1SU9McXl6MG9hdmpEUDVWT3NMUXJueVdrTjVwbGM0TlNPc0x3Z0ZPV2x6SHVCZWhveEtDR3B4UlhmcWpROU0xQjM2ZjRZZjNCY1g1Q0VJTXM5SmM1bmd3emdwMW1JN1ZxUjZEMDJQeVhGVVN2NldObEhOX0NSS3NfRDA1YmtqUTFGY3J3T0x0S1ZEdGNPNXNmM0NzU3g5dEVwcTYxRHM3N3h3NXkzUUU2OVY2T20tV0JrbTJ0bFd4em5yX0FVQnhGdXRvRlZlM1pCdzJZUWJrMHhjLQ?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,6 +37,14 @@ permalink: /news/obesity/
 </div>
 
 ## 相關新聞（6 則）
+
+### [Perché alcune persone ingrassano meno? La risposta è anche nei geni](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
+
+2026-08-20
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
+
+---
 
 ### [La delgadez también se compra](https://news.google.com/rss/articles/CBMidEFVX3lxTE00YmdKNVdqakNEbUl6QWRsSnA2VXl0MFlDMFM5VTZFcDlVS2xJSEFHSUZUT3VSVDFVOTlka1N2dXlFQlk3Q013SnNwZk85REJ3bjd0bXhMc2JOSjdsYWh2b1E2ajh2LWNucWJJakNXWVVodzZK?oc=5)
 
@@ -67,14 +75,6 @@ permalink: /news/obesity/
 2026-08-19
 
 來源：[Gizmodo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
-
----
-
-### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
-
-2026-08-19
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
 ---
 

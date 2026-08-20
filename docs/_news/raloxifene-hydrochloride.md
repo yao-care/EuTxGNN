@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Colpita da ictus a 95 anni Guglielmina torna a casa: mi hanno salvata al Moscati](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSi1Ka3I5dXlnWFdrMXJqWk5uaER4UV9BRE9aNlA2dzd0N3BNa0dJNEZrbXdoaF9Bal9BN1NGNkJ1TUVHS2pRQWdjNHVwanRzZHFSTDlzX2dITDU3ek54SkpSY0lxRWJmRy1WdmowdzVEaElWeWJfb0I2V0FVSm1VOThoTjlBb2hia0dkeEwxNmVnMjhzM0YzMFdPNnVjUUJ4N1FHc0FpaUdkLUk1TUFIcnlhTk4wMi1KcVNicXJHS2w1NDRnaFpSdNIBvAFBVV95cUxOQ2VmLTV1X2tMWGlod3Bqa2tRamwzS29meVZsbWNYMlZHbUY5blVFaVZ4cHpzLVV2UGJ0dV9abm41TFA5c3ZONjNTb1o4MXNYc2NURjRDVkFQQ09aXzhBT0p3MmpPOWhhdlVzWWhKcVBPVVU2UDkxM2ZTNGFxWk9UTzZuZEdiNU1FWVhfVjZUcUlwOWFMTGhwc3M2dFlhUUJMenVUR3E3NVJtTEY3cm9LblM5WFVNQW90XzVWOA?oc=5)
-
-2026-08-19 <span class="news-indication-tag">ictus</span>
-
-來源：[Ottopagine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSi1Ka3I5dXlnWFdrMXJqWk5uaER4UV9BRE9aNlA2dzd0N3BNa0dJNEZrbXdoaF9Bal9BN1NGNkJ1TUVHS2pRQWdjNHVwanRzZHFSTDlzX2dITDU3ek54SkpSY0lxRWJmRy1WdmowdzVEaElWeWJfb0I2V0FVSm1VOThoTjlBb2hia0dkeEwxNmVnMjhzM0YzMFdPNnVjUUJ4N1FHc0FpaUdkLUk1TUFIcnlhTk4wMi1KcVNicXJHS2w1NDRnaFpSdNIBvAFBVV95cUxOQ2VmLTV1X2tMWGlod3Bqa2tRamwzS29meVZsbWNYMlZHbUY5blVFaVZ4cHpzLVV2UGJ0dV9abm41TFA5c3ZONjNTb1o4MXNYc2NURjRDVkFQQ09aXzhBT0p3MmpPOWhhdlVzWWhKcVBPVVU2UDkxM2ZTNGFxWk9UTzZuZEdiNU1FWVhfVjZUcUlwOWFMTGhwc3M2dFlhUUJMenVUR3E3NVJtTEY3cm9LblM5WFVNQW90XzVWOA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Hirnblutung: Intensive Blutdrucksenkung reduziert Schlaganfall-Risiko um 38%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDN2TjJxSHEyanlHZXVIdVZFdG5ScWo4M1kxNUYxV0dHUVRqczIxLWFzNk9OTHU3NHgyclNWMVFqR0VZWmZBZmRKQkJlZ1p2YmVSMGQ3aHhNQmpyczZHN3ZHOW9BSGxOQUM1bVpGOTU5TWw2RG84ckFtZnBSalNRMWg5RGV4NmU4RzNFc1pDN0UyWGZNNTYxRFVqVkk4U0lBTWMtbXRsaTZQSGd4cEJTUjR0TGJyUjZtTjhzMA?oc=5)
 

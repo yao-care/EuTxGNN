@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [One Common Type of Physical Activity Linked to Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
 
 2026-08-18
 
 來源：[Newsweek](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
-
----
-
-### [El dilema del test de Alzheimer: ¿un avance médico o una fuente de ansiedad?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDU0bnZWNmZOa1dBSzBObkNxc2x2MW5mOW5DVWhzMkJuUkFVbVpLLUpYTHVHMFJFRWFHbk5rRVpXY1A0RzdxYTFwZ2NYX3BMUkp6T0k2czdIemUwUnYzMlU4RkkyMzJ4ZGQ2dTM4TTNBM2ZJMGVFY2NJQ1hrWVdONU5hVDdjSGNFLU9vLXVUNXFMSGJydTJLQWJ1QXVwbmF1MldvQXZycVptLVFINGZnUFlXVHdXSmI0dG9UYXNmdnp0bG5YeGJSWWhn?oc=5)
-
-2026-08-18
-
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDU0bnZWNmZOa1dBSzBObkNxc2x2MW5mOW5DVWhzMkJuUkFVbVpLLUpYTHVHMFJFRWFHbk5rRVpXY1A0RzdxYTFwZ2NYX3BMUkp6T0k2czdIemUwUnYzMlU4RkkyMzJ4ZGQ2dTM4TTNBM2ZJMGVFY2NJQ1hrWVdONU5hVDdjSGNFLU9vLXVUNXFMSGJydTJLQWJ1QXVwbmF1MldvQXZycVptLVFINGZnUFlXVHdXSmI0dG9UYXNmdnp0bG5YeGJSWWhn?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "psoriasis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "psoriasis 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "psoriasis 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="psoriasis 有什麼相關新聞？">
-<strong>psoriasis</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>psoriasis</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Darm-Haut-Achse: 35% höheres Psoriasis-Risiko bei Reizdarm](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFhsbkhnTTNKeDlkX05oemw1MjlsOElxWDJoODlHbFZyamphNVRwQk5pQXJCQ1ZkSWtWdGhfYk96eEJ6UnJQMFpfc2ViU3BiMURBTkV3THhrWk80QTJFMXRnanVUb0dsaldfVld4ZzNMR0lkUFd5Q3ZWTmhyWVlHdmJOVFM2dWEwSjFTRnVWWkNMSnhlV2FvQjBReHEwRExyN3IwSW1qVjUyb1dad2p1emxVU18?oc=5)
+
+2026-08-20
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFhsbkhnTTNKeDlkX05oemw1MjlsOElxWDJoODlHbFZyamphNVRwQk5pQXJCQ1ZkSWtWdGhfYk96eEJ6UnJQMFpfc2ViU3BiMURBTkV3THhrWk80QTJFMXRnanVUb0dsaldfVld4ZzNMR0lkUFd5Q3ZWTmhyWVlHdmJOVFM2dWEwSjFTRnVWWkNMSnhlV2FvQjBReHEwRExyN3IwSW1qVjUyb1dad2p1emxVU18?oc=5)
+
+---
 
 ### [Ist die Pustulosa doch eine eigentständige Erkrankung](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlpHdVFqNHJReDBzbHFpc2FScFJTZ1NxT19kTENTOHZTN0c1VFZmczJHUlZZT2JFak9OY2V3QzUtbkt4aVZ2ZTlxbDNhT3UwYXFHMnNVU24yRWEycHlROFctYzZfVTJKakF4dDZQc3EyMllyYzc2cHhMaVk2N2hXQTVDTHZPYU4zRl9hNmVBMFhFMFlIdi1EZk1SMWRFNVM0bFFnWDlmT2hhSWxC?oc=5)
 

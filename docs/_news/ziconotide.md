@@ -54,6 +54,14 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（6 則）
 
+### [Perché alcune persone ingrassano meno? La risposta è anche nei geni](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
+
+---
+
 ### [La delgadez también se compra](https://news.google.com/rss/articles/CBMidEFVX3lxTE00YmdKNVdqakNEbUl6QWRsSnA2VXl0MFlDMFM5VTZFcDlVS2xJSEFHSUZUT3VSVDFVOTlka1N2dXlFQlk3Q013SnNwZk85REJ3bjd0bXhMc2JOSjdsYWh2b1E2ajh2LWNucWJJakNXWVVodzZK?oc=5)
 
 2026-08-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
@@ -83,14 +91,6 @@ permalink: /news/ziconotide/
 2026-08-19 <span class="news-indication-tag">obesity</span>
 
 來源：[Gizmodo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
-
----
-
-### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
 ---
 
