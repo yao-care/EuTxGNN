@@ -56,19 +56,27 @@ permalink: /news/multiple-sclerosis/
 
 ## 相關新聞（12 則）
 
-### [RD del Congo supera los 5.000 casos de ébola confirmados](https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2xKRVVhNjMyV3p3MzlaeXg4OHFwSWtUNzRDdzNVdXJJOERWN2RHOG1aZ0xBMWg4Yzh5TDBEc2RHWWYwQU02WUNMcDZJOE82c1hlY3RHc2M0SEp3c3QwbHhsWkpZenJ3b1J1eDd4S3lZOHpZLXV4dXNCQkV3Wjl3YWtKbXR5aGd2M0lJZjRJejg0RHlILVRfatIBmAFBVV95cUxNOWdwcmlhaGQzYVR2RWVxQnR5RE5pS3VVVDk0MFVLTkFEVGZTNmNOTk94LXVrVFVuNTZWRUVjUWRTZGY2MXdLeHdIUllsMzV0TWFyeGlRdnVkeUtub083ZjF1NmljMGxvdG5CZ0ZKZVlIeGlwal8yTW1VWDY2ZXBTUVVBZGJYeWl0SFZlcGNvOVRDU2tTaTBCOA?oc=5)
+### [Ébola en RD Congo: un tercio de las muertes son niños en el brote más veloz registrado](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXZObUVmVzIwaE5Sckc1T3N2Qm9oS0VwU1NSM09ub2lmTmpmRlJNRHUwYW5fRTV2LVQxeDV4QjZYWERuX3pFd3RPeTZJZU5ULTZ3eWxycEZBQzBSUWhDMnVETHF1d0loVU5oa3I5R3ZGVGJRT2dCMktWTXM4U3d1UVZ2ZTRSaFNIRGc?oc=5)
 
-2026-08-19
+2026-08-20
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2xKRVVhNjMyV3p3MzlaeXg4OHFwSWtUNzRDdzNVdXJJOERWN2RHOG1aZ0xBMWg4Yzh5TDBEc2RHWWYwQU02WUNMcDZJOE82c1hlY3RHc2M0SEp3c3QwbHhsWkpZenJ3b1J1eDd4S3lZOHpZLXV4dXNCQkV3Wjl3YWtKbXR5aGd2M0lJZjRJejg0RHlILVRfatIBmAFBVV95cUxNOWdwcmlhaGQzYVR2RWVxQnR5RE5pS3VVVDk0MFVLTkFEVGZTNmNOTk94LXVrVFVuNTZWRUVjUWRTZGY2MXdLeHdIUllsMzV0TWFyeGlRdnVkeUtub083ZjF1NmljMGxvdG5CZ0ZKZVlIeGlwal8yTW1VWDY2ZXBTUVVBZGJYeWl0SFZlcGNvOVRDU2tTaTBCOA?oc=5)
+來源：[Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXZObUVmVzIwaE5Sckc1T3N2Qm9oS0VwU1NSM09ub2lmTmpmRlJNRHUwYW5fRTV2LVQxeDV4QjZYWERuX3pFd3RPeTZJZU5ULTZ3eWxycEZBQzBSUWhDMnVETHF1d0loVU5oa3I5R3ZGVGJRT2dCMktWTXM4U3d1UVZ2ZTRSaFNIRGc?oc=5)
 
 ---
 
-### [How ‘super-agers’ may stay healthy beyond 100 - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXp1RmU2QjhGaXgxdWNrX0F5MmIxVGtKLUpiT21aWURhZ0xRTXNQX1dQZFRnSzNmLWh4WV9wbXRsNjBVQmgwcGNyckM4c3VDMDFPbDNjYkxhN2hvMkJlV2ZLVGlWNkI2dkNseGFjNjFUMXFfU19aU3phY3FGWWk5Sl9PSEItaE9xVmlMd0pHTFFXVWV5T25NOURoSEdFOFE?oc=5)
+### [Pervasive phosphorylation by phage T7 kinase disarms bacterial defences](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTTk1Ujk2ZzVMRVk1bWNJWFRMTm1JWENBdlFtU2Rra3I0S0ZXd3luSERKTUhxVlFNTkM2bng4ZmdVdWJMcDEyT0xjbXpNRHdmWmFVSGN1SWpnZ1FnLVhv?oc=5)
 
 2026-08-19
 
-來源：[The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXp1RmU2QjhGaXgxdWNrX0F5MmIxVGtKLUpiT21aWURhZ0xRTXNQX1dQZFRnSzNmLWh4WV9wbXRsNjBVQmgwcGNyckM4c3VDMDFPbDNjYkxhN2hvMkJlV2ZLVGlWNkI2dkNseGFjNjFUMXFfU19aU3phY3FGWWk5Sl9PSEItaE9xVmlMd0pHTFFXVWV5T25NOURoSEdFOFE?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTTk1Ujk2ZzVMRVk1bWNJWFRMTm1JWENBdlFtU2Rra3I0S0ZXd3luSERKTUhxVlFNTkM2bng4ZmdVdWJMcDEyT0xjbXpNRHdmWmFVSGN1SWpnZ1FnLVhv?oc=5)
+
+---
+
+### [People Who Live Past 100 Have a Surprising Abundance of Cancer-Killing Immune Cells](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
+
+2026-08-19
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
 
 ---
 
@@ -80,11 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 2026-08-19
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 ---
 
@@ -96,11 +104,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [I’m a gut scientist – six signs your digestion isn’t normal - The i Paper](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
+### [I’m a gut scientist – six signs your digestion isn’t normal](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
 
 2026-08-19
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
+來源：[inews.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
 
 ---
 
@@ -120,14 +128,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Tasas de vacunación escolar en EEUU bajan ligeramente y las exenciones alcanzan máximo histórico - Los Angeles Times](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcUhiOVZvR3dYREozWjctWW1sWWJxYXJJVTEtLVY4OWtzd0pTMlJScTZHUzVWVmtMOENMRnVFYlgtX0Q1S1ZQdnBYOGlDbmtvVW1nM25BQk9TQW1lRk0yaDFzTVAzQWkxMTczMzkzMnkzZ1ZSd21ZRE05aGZ4cVl5WHZyN015dXIyR0NQM2hpVDdkenY5TUs3Y2IyT2pJbUpSRlgyQ0pYMktCMzF2Z3lRQXMtemQ2UDVnWGRnVzlQWFpRYS1BWHRxNTRQSWtGamE2cWtidnNfNDFBN29Valdpb3J0TGdhOWlG?oc=5)
-
-2026-08-19
-
-來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcUhiOVZvR3dYREozWjctWW1sWWJxYXJJVTEtLVY4OWtzd0pTMlJScTZHUzVWVmtMOENMRnVFYlgtX0Q1S1ZQdnBYOGlDbmtvVW1nM25BQk9TQW1lRk0yaDFzTVAzQWkxMTczMzkzMnkzZ1ZSd21ZRE05aGZ4cVl5WHZyN015dXIyR0NQM2hpVDdkenY5TUs3Y2IyT2pJbUpSRlgyQ0pYMktCMzF2Z3lRQXMtemQ2UDVnWGRnVzlQWFpRYS1BWHRxNTRQSWtGamE2cWtidnNfNDFBN29Valdpb3J0TGdhOWlG?oc=5)
-
----
-
 ### [Five-year-old raises thousands for charity after 'living nightmare' cancer diagnosis - Grimsby Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTi0wR0pVSFF2TWFYVl9Gb1p3c2FuSmJhc01KQzZhTUZHdGJvZVBYVzV1UjEwMWdhdmtPT0UwSVF2SkotM0hnQkRhdDRxc3J6aGpmRlktakdxRXZaZ1hZMnYwbVdhbmw4SzIxMGJZVWFNUHQ3U0M4MS03TUtFdW1wMUU1cjZTdkViTUc1RlZnR3NtTjlY?oc=5)
 
 2026-08-19
@@ -144,11 +144,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [My PMS was so bad I had horrific panic attacks and it felt like there were bricks under my skin… 50p-a-day pill cured me - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
+### [My PMS was so bad I had horrific panic attacks and it felt like there were bricks under my skin… 50p-a-day pill cured me](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
 
 2026-08-18
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
 
 ---
 

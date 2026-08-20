@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
 
-### [Siete señales que pueden alertar de una prediabetes y que muchas personas pasan por alto](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
+### [Lombardia, allarme per la spesa di farmaci contro il diabete (usati anche per dimagrire): più 20%. Remuzzi: «L'uso estetico ha più effetti indesiderati che pregi» - Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span>
+2026-08-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
+來源：[Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
 
 ---
 
@@ -86,9 +86,17 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+
+2026-08-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[DW.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+
+---
+
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -126,19 +134,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
-
-2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[dw.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
-
----
-
 ### [Semaglutide, cosa succede all’infiammazione dopo due anni? La nuova analisi su 17 mila persone](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVjR5NlJGU2lKZ1ByU21FMTFkSmZlS1ZoVGh6bG41MHNwdy05X2V6RDVibDdFMERCb3NDVTBadVZhVWItRmV3d1p0OWlCbjBjVXc3czBBWmV6NEJaNEtpTzBoanZSS3lpeEdaQ0VPeUdPZG9qSDFkS3p0a2JJbG8xWmc5Z0dIdTNUMmwzM1ZZRFNVdXVlbmxVejE0elFBdkFTQm5WTDBjeFI5UjJpVXBqTjBCUC1OUDJqa2pJVUxYR3A1UXRHN2ZDQ25QSXExOTBQMkc5TE83d21ITnQwaDEtQ1RRTFRUUQ?oc=5)
 
 2026-08-18 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVjR5NlJGU2lKZ1ByU21FMTFkSmZlS1ZoVGh6bG41MHNwdy05X2V6RDVibDdFMERCb3NDVTBadVZhVWItRmV3d1p0OWlCbjBjVXc3czBBWmV6NEJaNEtpTzBoanZSS3lpeEdaQ0VPeUdPZG9qSDFkS3p0a2JJbG8xWmc5Z0dIdTNUMmwzM1ZZRFNVdXVlbmxVejE0elFBdkFTQm5WTDBjeFI5UjJpVXBqTjBCUC1OUDJqa2pJVUxYR3A1UXRHN2ZDQ25QSXExOTBQMkc5TE83d21ITnQwaDEtQ1RRTFRUUQ?oc=5)
+
+---
+
+### [The metabokine β-aminoisobutyric acid mediates exercise performance and skeletal muscle adaptation through a PGC1α-BAIBA-PPARδ axis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
+
+2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
 
 ---
 

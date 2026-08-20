@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Chronische Entzündungen: Nicotinamid stoppt Stoffwechsel-Blockade](https://news.google.com/rss/articles/CBMitAFBVV95cUxORThBZmN5enNlMTcxVEc2SXA3M1hHc2hlRzdqa1ByZFVjdkZ0Rml4NFZDNmVGX2dOcDdMMVkyUXhwallaNXMxeGVoUk9HdUx0bERPUktQQ1dqdVE0NW9Ta1o1OGdCUWI3SDdoUmRxYWRWVVdEdDRwcWFZY2xocXRkMnlLTVVST1RHN3BCTzQ1UjJhWXZtNFpkZjNqdWhwbmFqSS1hWmJrWmtDRFlvWlpBckdlVGU?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxORThBZmN5enNlMTcxVEc2SXA3M1hHc2hlRzdqa1ByZFVjdkZ0Rml4NFZDNmVGX2dOcDdMMVkyUXhwallaNXMxeGVoUk9HdUx0bERPUktQQ1dqdVE0NW9Ta1o1OGdCUWI3SDdoUmRxYWRWVVdEdDRwcWFZY2xocXRkMnlLTVVST1RHN3BCTzQ1UjJhWXZtNFpkZjNqdWhwbmFqSS1hWmJrWmtDRFlvWlpBckdlVGU?oc=5)
+
+---
 
 ### [Una doctora da las claves de la fotoprotección - IM Farmacias](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkhETWZkMjREZGJQci13U2VtZnFHeGQ1dU5ocFNfYTlMalRweEx0VXJFTk1JYXlER3hZaHQyMklVclJlcUQ0M2pScllzVFViSGZ6ZkQyTldIRmowXzkzdkdUOVQwZU1TWUl0eEtxTEhrMTNwUk0tY0Y1MHNGYUNJZ0F2eENxclBCQWt6THVsaEdIbkJRaGFR0gGSAUFVX3lxTE5ZNHFfazlyWVhnQ29lUjVTVTctMkhnaVlyYjcwTjNDYXI2TWVCX3hteFpNdHB5S19VVHNCVU1aemhxN3ZXT2Y0M3BXb3pkT2tYbTZDTVRDSURJdGllbXhLSWFqQmFyWWlmb0NwTTBRTy1qWjRmZnJ2Y09aN3ZjTWVqUV92RmJ5Z29nMlNrenZvcmJR?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
+### [Vitamine bei Asthma: Wie Dosierung zwischen Nutzen und Risiko entscheidet](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
 
-2026-08-18 <span class="news-indication-tag">arthritis</span>
+2026-08-18 <span class="news-indication-tag">asthma</span>
 
-來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
 
 ---
 

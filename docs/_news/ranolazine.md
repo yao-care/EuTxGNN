@@ -14,7 +14,7 @@ permalink: /news/ranolazine/
 ---
 
 <p class="key-answer" data-question="Ranolazine 有什麼相關新聞？">
-<strong>Ranolazine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ranolazine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ranolazine/
 <p><a href="{{ '/drugs/ranolazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Tips for treating—even preventing—osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
 
 2026-08-19 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
-
----
-
-### [FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
-
-2026-08-18 <span class="news-indication-tag">arthritis</span>
-
-來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
 
 ---
 

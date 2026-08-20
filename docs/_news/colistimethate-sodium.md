@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
+
+### [Resistente Hypertonie: Intensive Therapie senkt Herzinfarkt-Risiko um 1,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzg2NTdRYmRCYVFjUXR1WEQtdVNyQ3dVa3pSNlN3bW5zbmRrSWt5a2Y5WnZ3WUVWMnA4bGcwT09TRlR1dnNXdFk1MkdkMEJtWE9ScllWQS1qd092ZHRwRHVUV3NKaTQyclpaVzVMazNPWjJGUG9yVUVLZXBaWFlJWVV6NElhQzB3bnRXbFJCWGpiMWQ5VHBweGpId1hrTUcxOGdCRm1heUppXy1NQWJ2dnlBTUZxNHctbHdneWdB?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzg2NTdRYmRCYVFjUXR1WEQtdVNyQ3dVa3pSNlN3bW5zbmRrSWt5a2Y5WnZ3WUVWMnA4bGcwT09TRlR1dnNXdFk1MkdkMEJtWE9ScllWQS1qd092ZHRwRHVUV3NKaTQyclpaVzVMazNPWjJGUG9yVUVLZXBaWFlJWVV6NElhQzB3bnRXbFJCWGpiMWQ5VHBweGpId1hrTUcxOGdCRm1heUppXy1NQWJ2dnlBTUZxNHctbHdneWdB?oc=5)
+
+---
 
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -67,38 +75,6 @@ permalink: /news/colistimethate-sodium/
 2026-08-19 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
-
----
-
-### [FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
-
-2026-08-18 <span class="news-indication-tag">arthritis</span>
-
-來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
-
----
-
-### [Hypertension: A Handful of Nuts a Day May Help Lower Your Risk 20%](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
-
-2026-08-18 <span class="news-indication-tag">hypertension</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
-
----
-
-### [Bluthochdruck: 5 Minuten Atemtraining senkt Druck um 9 mmHg](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
-
-2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
-
----
-
-### [Bluthochdruck: Kalium und TCM-Phytotherapie senken Blutdruck](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWRLMDdJUkxjc1l2eGpMR2NwbkhUaU5YaXNDMFFwSWp0SHJCaXFzLW5teDY3S0ZmaEFNbk1HT0pSbG1ZQ0RjZ0FoaHZELVJ4cW93cFFRdjlSMVVNMko5WjVxUTZRYzN1ZWRtQk05OGtuVVdydjBNMzRGU08zVWQ2SzlOZnpFRFltdDZjeEV3T3h6b3JpOThnVEZacEFuWmpWQVk2NTdHdzQyMFBh?oc=5)
-
-2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWRLMDdJUkxjc1l2eGpMR2NwbkhUaU5YaXNDMFFwSWp0SHJCaXFzLW5teDY3S0ZmaEFNbk1HT0pSbG1ZQ0RjZ0FoaHZELVJ4cW93cFFRdjlSMVVNMko5WjVxUTZRYzN1ZWRtQk05OGtuVVdydjBNMzRGU08zVWQ2SzlOZnpFRFltdDZjeEV3T3h6b3JpOThnVEZacEFuWmpWQVk2NTdHdzQyMFBh?oc=5)
 
 ---
 

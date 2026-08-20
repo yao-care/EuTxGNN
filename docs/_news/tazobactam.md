@@ -70,11 +70,11 @@ permalink: /news/tazobactam/
 
 ---
 
-### [FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
+### [Vitamine bei Asthma: Wie Dosierung zwischen Nutzen und Risiko entscheidet](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
 
-2026-08-18 <span class="news-indication-tag">arthritis</span>
+2026-08-18 <span class="news-indication-tag">asthma</span>
 
-來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJWVHBVWHJxXzJodXE1eDRNVEtnQnZmajNvOFRWLUVaQ2hDTVlPNE55MTltNC1tZk84VG1HOVNqMzRxdjhBdENlSnB3V1dPTE15NVcyQVV2OTJQYkNLZzFZNnNrXzVsVHRkY1p2SUJKR2hQa0RsbEtlWmtsOHdTclNUcWx6TDFJZ0VmdjQybmRWbkQweW1VdkhlelpoUXRpMk5wQnRURkNnLVdWeEx4N1N1NXgtdWpjZHZSeEhn?oc=5)
 
 ---
 

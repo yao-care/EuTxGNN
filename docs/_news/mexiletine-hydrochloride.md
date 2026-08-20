@@ -14,7 +14,7 @@ permalink: /news/mexiletine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Mexiletine Hydrochloride 有什麼相關新聞？">
-<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/mexiletine-hydrochloride/
 <p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（30 則）
+
+### [Resistente Hypertonie: Intensive Therapie senkt Herzinfarkt-Risiko um 1,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzg2NTdRYmRCYVFjUXR1WEQtdVNyQ3dVa3pSNlN3bW5zbmRrSWt5a2Y5WnZ3WUVWMnA4bGcwT09TRlR1dnNXdFk1MkdkMEJtWE9ScllWQS1qd092ZHRwRHVUV3NKaTQyclpaVzVMazNPWjJGUG9yVUVLZXBaWFlJWVV6NElhQzB3bnRXbFJCWGpiMWQ5VHBweGpId1hrTUcxOGdCRm1heUppXy1NQWJ2dnlBTUZxNHctbHdneWdB?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzg2NTdRYmRCYVFjUXR1WEQtdVNyQ3dVa3pSNlN3bW5zbmRrSWt5a2Y5WnZ3WUVWMnA4bGcwT09TRlR1dnNXdFk1MkdkMEJtWE9ScllWQS1qd092ZHRwRHVUV3NKaTQyclpaVzVMazNPWjJGUG9yVUVLZXBaWFlJWVV6NElhQzB3bnRXbFJCWGpiMWQ5VHBweGpId1hrTUcxOGdCRm1heUppXy1NQWJ2dnlBTUZxNHctbHdneWdB?oc=5)
+
+---
+
+### [Chronische Entzündungen: Nicotinamid stoppt Stoffwechsel-Blockade](https://news.google.com/rss/articles/CBMitAFBVV95cUxORThBZmN5enNlMTcxVEc2SXA3M1hHc2hlRzdqa1ByZFVjdkZ0Rml4NFZDNmVGX2dOcDdMMVkyUXhwallaNXMxeGVoUk9HdUx0bERPUktQQ1dqdVE0NW9Ta1o1OGdCUWI3SDdoUmRxYWRWVVdEdDRwcWFZY2xocXRkMnlLTVVST1RHN3BCTzQ1UjJhWXZtNFpkZjNqdWhwbmFqSS1hWmJrWmtDRFlvWlpBckdlVGU?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxORThBZmN5enNlMTcxVEc2SXA3M1hHc2hlRzdqa1ByZFVjdkZ0Rml4NFZDNmVGX2dOcDdMMVkyUXhwallaNXMxeGVoUk9HdUx0bERPUktQQ1dqdVE0NW9Ta1o1OGdCUWI3SDdoUmRxYWRWVVdEdDRwcWFZY2xocXRkMnlLTVVST1RHN3BCTzQ1UjJhWXZtNFpkZjNqdWhwbmFqSS1hWmJrWmtDRFlvWlpBckdlVGU?oc=5)
+
+---
+
+### [„Das Gehirn beginnt zu erschlaffen“: Sechs Alltagsfehler, die das Gehirn vorzeitig altern lassen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDh1dU4zVGktWVR6clVzX0ZNcFhjWjdoNVY0RlRtMW9iZUlCUGlHZWp4MHlyUndoRmpiVGVyQUl0M2d4Z2ZmQ0JjVFh6QUdRSVdwME0zdjNod3AtZ1hqYW43LWhrQmx6Y0QtWGItNGFPNDdvajVSelhlNWdkdXVncmVVOHRRRVJMRWc0ZkpCdnRKV29tVEtmZDFZTXQweFFhUGJTU1ZkZw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDh1dU4zVGktWVR6clVzX0ZNcFhjWjdoNVY0RlRtMW9iZUlCUGlHZWp4MHlyUndoRmpiVGVyQUl0M2d4Z2ZmQ0JjVFh6QUdRSVdwME0zdjNod3AtZ1hqYW43LWhrQmx6Y0QtWGItNGFPNDdvajVSelhlNWdkdXVncmVVOHRRRVJMRWc0ZkpCdnRKV29tVEtmZDFZTXQweFFhUGJTU1ZkZw?oc=5)
+
+---
 
 ### [¿El café es bueno para el corazón? Cardiólogo revela lo que ocurre con su consumo - El Comercio Perú](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDg5WVJYemRscUNIQUZHVjlmRW9mcTJGMGVBbUZpbnMwNFEzS3A1S0Fwd1VRNTh5RkZMbW1Dc0FvcHJyZXU3blNtcWN0blVHdzBQWWdiSDdGSmVQeDFVUFhCRTlwUFprNmNyLVd4OWtwdHZKdWhKVVZLbnpwOVpDRmxjalktOWgyTlg3Rk9BdnZfMnZaeTRJa2c3dV9hVUpDcWVLYzNMckd3bHZQclA4TTFUNU04TlRELURzZTduZS1SWDZ6cEF2NE5R?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [El Hospital Vall d'Hebron atiende a más de 500 mujeres por dolor pélvico crónico en una década](https://news.google.com/rss/articles/CBMigAJBVV95cUxNRXZNS1RlMEMzdkRiekFSUHRxdnZ4RkNWZ1pUM2V2aHFQTzZ1T0dNRlNvVGEwOG45Zkh1VWVxckkzRW1CREJoby00LVFjbTNPazNKTlJxWWwyNHN2V09EcExHcVdGb3hvWXpWaW1PT2NCZVhEbzZjekgteGVhZzl5NllTQlMtUDVwZDVvbmlvUEQ3X0RPTFNESUVxWjg3VXktZVdSbXR4N3JsZk5FSFpyNlozMElFNm1sdllRNjZrYmtLSXFXMC03NkJuckRDbmtCYl9EcW9CTVV4djFUcWtXemhTUUVyUEZfckFTQXBLMmFFMnQyaElJV2h1bG5DVWhO?oc=5)
+### [Chi beve più caffè ha meno grasso e più muscoli: lo studio su 2.200 persone](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1hpOXpOV1JWdVBIWE9YcFl5bDZibHBLZlZFM08xUVVjQ2cwbGNuMU84eENvOVFxbUM0ZEw4eGxYWm1jMXpfdGlGTWpRVW5laWNZRGhDcEptVW80UDBRYWtiSFlZNmlSSjBza3ZMRDZXc2t5VUxlOW13amdXbnZDajVpTHp4aENHZTJJekVnWWEzUDhqSE5aU1l0bFFiQmtfLU9GeXJkU3BxdHVKSFZkUi1Bc05yb1dGRmxwTXJnbnc4NVk?oc=5)
 
 2026-08-19 <span class="news-indication-tag">AF</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMigAJBVV95cUxNRXZNS1RlMEMzdkRiekFSUHRxdnZ4RkNWZ1pUM2V2aHFQTzZ1T0dNRlNvVGEwOG45Zkh1VWVxckkzRW1CREJoby00LVFjbTNPazNKTlJxWWwyNHN2V09EcExHcVdGb3hvWXpWaW1PT2NCZVhEbzZjekgteGVhZzl5NllTQlMtUDVwZDVvbmlvUEQ3X0RPTFNESUVxWjg3VXktZVdSbXR4N3JsZk5FSFpyNlozMElFNm1sdllRNjZrYmtLSXFXMC03NkJuckRDbmtCYl9EcW9CTVV4djFUcWtXemhTUUVyUEZfckFTQXBLMmFFMnQyaElJV2h1bG5DVWhO?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1hpOXpOV1JWdVBIWE9YcFl5bDZibHBLZlZFM08xUVVjQ2cwbGNuMU84eENvOVFxbUM0ZEw4eGxYWm1jMXpfdGlGTWpRVW5laWNZRGhDcEptVW80UDBRYWtiSFlZNmlSSjBza3ZMRDZXc2t5VUxlOW13amdXbnZDajVpTHp4aENHZTJJekVnWWEzUDhqSE5aU1l0bFFiQmtfLU9GeXJkU3BxdHVKSFZkUi1Bc05yb1dGRmxwTXJnbnc4NVk?oc=5)
 
 ---
 
@@ -78,6 +102,14 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
+### [Frauen mit Östrogentherapie zeigen weniger Alzheimer-Spuren - Forschung und Wissen](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDFfU29sSEZBcTIxcURfSm00ei00N1dETGFRVHJqUDdWeDVYRDhLeHhneHBfZXpKU0QwOVZRNUZtYjhKWXFnN1R4NjRZZTF6YzBFM3gxYko3RklnX3ZkbkZQOFN6aFBGdlo1cVlqdFhMSFl0alBONjl3Vm1fdExXbncyU3lWaUZ4dnROcWw1Ykg2NWl5VjI4UGN0MTcxcjNxdTh2LXU5bC1qLXNhTkpfSDdxSnlleFZlUTFXeTQ0WXRpZ2Fu?oc=5)
+
+2026-08-19 <span class="news-indication-tag">AF</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDFfU29sSEZBcTIxcURfSm00ei00N1dETGFRVHJqUDdWeDVYRDhLeHhneHBfZXpKU0QwOVZRNUZtYjhKWXFnN1R4NjRZZTF6YzBFM3gxYko3RklnX3ZkbkZQOFN6aFBGdlo1cVlqdFhMSFl0alBONjl3Vm1fdExXbncyU3lWaUZ4dnROcWw1Ykg2NWl5VjI4UGN0MTcxcjNxdTh2LXU5bC1qLXNhTkpfSDdxSnlleFZlUTFXeTQ0WXRpZ2Fu?oc=5)
+
+---
+
 ### [Il tumore affama i linfociti: scoperto lo scambio di aminoacidi che aiuta il cancro a nascondersi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzRmd2xVZG9XVTlkWjFvQmFUcW9kZTZueXlOOUxYU01IOFFGcjBabWFFclVKMGJwQjFQQzJhVjdhb05IY0NkSDh6cDBSbmNfWFBSMkVIcXlmVG1aZmtvSkJISmJKTXVzQjBNTklGVFA0WXd1NzFJUWxwZWN0RFl1V0M1cnV1am9jWWo4WHQxRU4tQzRZbVBlSG5FZDZYMll1OHpOdnJTekU3clM3T1JWN2hiR21UTk41NXhHSnBta2hSOXBUTWdPd01aZG5MN2xGNzBJSGF2VnR2cVZXQ1NiajA4YnZEUWVzSXlzWQ?oc=5)
 
 2026-08-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -86,35 +118,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Waist size is the 'best indicator' for risk of death past middle-age, says study - what YOUR measurement means - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
+### [Waist size is the 'best indicator' for risk of death past middle-age, says study - what YOUR measurement means](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
 
 2026-08-19 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
-
----
-
-### [Voici les 10 départements les plus envahis par le moustique tigre en France](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3hjRU9TTHAwaEZHOVk0YU93eVEwZF9VUnVtdG8zcjh5d0Y0TWRVWVAzLU5uNlBVWGQ1YVdibjIyLUtySGFHcGRPNXowRmFlbFBzSUVVVmhFYzdVY3k1Rl90Wm5Odlo4TFliMDRNYnpqSlB0Nm8tWElzVGM3QzlyM1FzTXhpVFJLQzJsSEt4QWp2M2g3MFRrT0lJU2FnWlpjWGVPdllac29JWVJLU1B3c091NA?oc=5)
-
-2026-08-19 <span class="news-indication-tag">AF</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3hjRU9TTHAwaEZHOVk0YU93eVEwZF9VUnVtdG8zcjh5d0Y0TWRVWVAzLU5uNlBVWGQ1YVdibjIyLUtySGFHcGRPNXowRmFlbFBzSUVVVmhFYzdVY3k1Rl90Wm5Odlo4TFliMDRNYnpqSlB0Nm8tWElzVGM3QzlyM1FzTXhpVFJLQzJsSEt4QWp2M2g3MFRrT0lJU2FnWlpjWGVPdllac29JWVJLU1B3c091NA?oc=5)
-
----
-
-### [Oristano, altri due casi di Febbre del Nilo: ricoverati un cinquantenne e un settantenne - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTkZiTFE1eDliVk9FaGZxdEdpa0YwTmtJSmZwQVJpQ3FBZmF3SFd3TlZXSjlLLVZnQTJ2enozcTNNOENMcF9Sdnl0OC1iVGFFRWRVMkh3RmU2Tkw2RWl3aDRtdUdsTEU5SzZ2SXhlWFByU3JTbGo5MmJIa09WR0RDRHkxUkxuTEFudlJXdHdxRkRfb2o5cXFSalBRUlAtOWgyRW5lem4xOWJXVTNZeVdvV0M5VmFSM2ZlNkpBRXctblFXNXlEREdjcy1Xa3FjOEdaV1FLSTFUZjhzSVN5bHpxNlQ1M1N2VlBjY0xJ0gHzAUFVX3lxTE1lS1Ribnpsa21kbXZycDBtS3QxSHdEak52VmhrQ1J2R1VDalhBcEZLaW0yN1hyWVNjOWtzenVENWVVemlneldrN3ZuX2xGQy0wVVhQZGk3U3VyZjB4SGFqVWhCWVVNYXRESVU2cHIxRUlfRndBNTBIWi1pRy0yZUlBS2tfcWVYekROY05EUmdIejRESTNDa3hoYzl0ck00dkJ4WWtiV1NLQkUtclA2bkwwYi1ybE5pYnZPZzFkY0RzTFFEVUlSVXhDREhUOVdNa3lDbmNoSVZXMnh1X0lwZU5aY3JhYVVmd0FveXd5MnpFT1pqOA?oc=5)
-
-2026-08-19 <span class="news-indication-tag">AF</span>
-
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTkZiTFE1eDliVk9FaGZxdEdpa0YwTmtJSmZwQVJpQ3FBZmF3SFd3TlZXSjlLLVZnQTJ2enozcTNNOENMcF9Sdnl0OC1iVGFFRWRVMkh3RmU2Tkw2RWl3aDRtdUdsTEU5SzZ2SXhlWFByU3JTbGo5MmJIa09WR0RDRHkxUkxuTEFudlJXdHdxRkRfb2o5cXFSalBRUlAtOWgyRW5lem4xOWJXVTNZeVdvV0M5VmFSM2ZlNkpBRXctblFXNXlEREdjcy1Xa3FjOEdaV1FLSTFUZjhzSVN5bHpxNlQ1M1N2VlBjY0xJ0gHzAUFVX3lxTE1lS1Ribnpsa21kbXZycDBtS3QxSHdEak52VmhrQ1J2R1VDalhBcEZLaW0yN1hyWVNjOWtzenVENWVVemlneldrN3ZuX2xGQy0wVVhQZGk3U3VyZjB4SGFqVWhCWVVNYXRESVU2cHIxRUlfRndBNTBIWi1pRy0yZUlBS2tfcWVYekROY05EUmdIejRESTNDa3hoYzl0ck00dkJ4WWtiV1NLQkUtclA2bkwwYi1ybE5pYnZPZzFkY0RzTFFEVUlSVXhDREhUOVdNa3lDbmNoSVZXMnh1X0lwZU5aY3JhYVVmd0FveXd5MnpFT1pqOA?oc=5)
-
----
-
-### [Entzündung blockiert ihre eigene Heilung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ldm5kWTJTdzQ4YVpULTFhaU5nZDBueVhEdDd4TUhkLXhIVUtRY19PVFZjLTNEUVlxb2dTNFhSemdQUWh6UW9RaHB5SQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ldm5kWTJTdzQ4YVpULTFhaU5nZDBueVhEdDd4TUhkLXhIVUtRY19PVFZjLTNEUVlxb2dTNFhSemdQUWh6UW9RaHB5SQ?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
 
 ---
 
@@ -126,11 +134,19 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+### [Unión de Uniones invita al consumo de leche entera e impulsa su priorización desde edades tempranas con el respaldo científico - Revista Frisona Española](https://news.google.com/rss/articles/CBMipwJBVV95cUxPTUxOVzI2ZlUyY244cWZaWkFiZ1hncWN5RWdMcXJaeFRDV0ZhNVJ4ZE5icnZRTUVqeXI1NXRqMUl1U0JMd2d2S1ltRU1wYmoyeFA0UzU3a3k4SFlscXlNMmlGRTBXMWRZUDAtcmJfeUNlOUIyNUkxRjdYell4QTd5QnBvdGIzQVBiQnFTMXBvLUVReWxKaVg0OERicjJrbXFTZDZTdldGcU5CdEZUdjJqZkVLRTRza2toS3VpaWdaU2pTeDVWbE9MNGlNTnFxR2FoeWFZWThzZ2pNVEllcnhlNEdhWnFJTVE1RXFkVHFqN3BnRHhlYUNoenVTRUNPWGNJUVY5WFdzS2ZwcmxBa3dpaGJhWE0zT3ZxTUt1UVJPTkdQVm4wQ2NJ?oc=5)
+
+2026-08-19 <span class="news-indication-tag">AF</span>
+
+來源：[Revista Frisona Española](https://news.google.com/rss/articles/CBMipwJBVV95cUxPTUxOVzI2ZlUyY244cWZaWkFiZ1hncWN5RWdMcXJaeFRDV0ZhNVJ4ZE5icnZRTUVqeXI1NXRqMUl1U0JMd2d2S1ltRU1wYmoyeFA0UzU3a3k4SFlscXlNMmlGRTBXMWRZUDAtcmJfeUNlOUIyNUkxRjdYell4QTd5QnBvdGIzQVBiQnFTMXBvLUVReWxKaVg0OERicjJrbXFTZDZTdldGcU5CdEZUdjJqZkVLRTRza2toS3VpaWdaU2pTeDVWbE9MNGlNTnFxR2FoeWFZWThzZ2pNVEllcnhlNEdhWnFJTVE1RXFkVHFqN3BnRHhlYUNoenVTRUNPWGNJUVY5WFdzS2ZwcmxBa3dpaGJhWE0zT3ZxTUt1UVJPTkdQVm4wQ2NJ?oc=5)
+
+---
+
+### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 ---
 
@@ -142,9 +158,17 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
+### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+
+2026-08-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[DW.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+
+---
+
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -162,15 +186,7 @@ permalink: /news/mexiletine-hydrochloride/
 
 2026-08-19 <span class="news-indication-tag">AF</span>
 
-來源：[agenciasinc.es](https://news.google.com/rss/articles/CBMingFBVV95cUxOU1FwQTJuanQxSmRzWVVFZEpiX2lOWFZPcWU3azdZcV9pR0Y3N3llb0FHc3RkalBlcTN2NnMydm5WTkZDdjJFUi1ZN3hiOUFiOVlfclpmbnNjaEV3NTFlaXo4bFJGbHA1N1hYckh3RHE2M3lqSkNYakdKZmg2SzhEa2hUVmVsVmRCT2JCZFJQakZiT3JkLVJVYlJMR2VxZw?oc=5)
-
----
-
-### [Einsamkeit erhöht das Demenzrisiko um 31 Prozent – ein Neurologe zeigt, was das Gehirn wirklich schützt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXhRRlZQWUFMQ0p0YTFhVFV4UWFzU2Rrb2lLaDE3amNIc0R0VjBELTh0QUxVVkFCSHhHNUFfSXJDSDJRRWd0ZkdBaVFfNlltR0RCNDlvRDFwTnU0WjZENl9XbkpLSjR1QjE2NlFQQ1dkMlFvRmwxUG9EQS0wWHN2Wm9nQlh4YmNzMl9peVZ3N1hoUWVGTHY0RWluYUJvakxZRElZWTdOdjRlVGl0Znc?oc=5)
-
-2026-08-19 <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXhRRlZQWUFMQ0p0YTFhVFV4UWFzU2Rrb2lLaDE3amNIc0R0VjBELTh0QUxVVkFCSHhHNUFfSXJDSDJRRWd0ZkdBaVFfNlltR0RCNDlvRDFwTnU0WjZENl9XbkpLSjR1QjE2NlFQQ1dkMlFvRmwxUG9EQS0wWHN2Wm9nQlh4YmNzMl9peVZ3N1hoUWVGTHY0RWluYUJvakxZRElZWTdOdjRlVGl0Znc?oc=5)
+來源：[Sinc](https://news.google.com/rss/articles/CBMingFBVV95cUxOU1FwQTJuanQxSmRzWVVFZEpiX2lOWFZPcWU3azdZcV9pR0Y3N3llb0FHc3RkalBlcTN2NnMydm5WTkZDdjJFUi1ZN3hiOUFiOVlfclpmbnNjaEV3NTFlaXo4bFJGbHA1N1hYckh3RHE2M3lqSkNYakdKZmg2SzhEa2hUVmVsVmRCT2JCZFJQakZiT3JkLVJVYlJMR2VxZw?oc=5)
 
 ---
 
@@ -206,11 +222,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Estados Unidos: ¿menos obesidad gracias al efecto Ozempic?](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+### [Expertos en longevidad coinciden: "El café podría activar una vía biológica que ayude a proteger frente al envejecimiento y las patologías crónicas" - El Economista](https://news.google.com/rss/articles/CBMizAJBVV95cUxNTkJyZl9mOVhHdWEzRkJ2LVA5VUdkOWxPMXlVMEs4b1lBVHdWdEcxSEYtOUhlcXZSSlp0Nm5DUXFVSldhYnFfb2JLd25zeURoYS1nWWFwSXZISmpBWHVEM2pRbGNtYl84aXlUbWkwWWlqQjNvWjRFWjk1SU9McXl6MG9hdmpEUDVWT3NMUXJueVdrTjVwbGM0TlNPc0x3Z0ZPV2x6SHVCZWhveEtDR3B4UlhmcWpROU0xQjM2ZjRZZjNCY1g1Q0VJTXM5SmM1bmd3emdwMW1JN1ZxUjZEMDJQeVhGVVN2NldObEhOX0NSS3NfRDA1YmtqUTFGY3J3T0x0S1ZEdGNPNXNmM0NzU3g5dEVwcTYxRHM3N3h3NXkzUUU2OVY2T20tV0JrbTJ0bFd4em5yX0FVQnhGdXRvRlZlM1pCdzJZUWJrMHhjLQ?oc=5)
 
-2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-08-18 <span class="news-indication-tag">AF</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMizAJBVV95cUxNTkJyZl9mOVhHdWEzRkJ2LVA5VUdkOWxPMXlVMEs4b1lBVHdWdEcxSEYtOUhlcXZSSlp0Nm5DUXFVSldhYnFfb2JLd25zeURoYS1nWWFwSXZISmpBWHVEM2pRbGNtYl84aXlUbWkwWWlqQjNvWjRFWjk1SU9McXl6MG9hdmpEUDVWT3NMUXJueVdrTjVwbGM0TlNPc0x3Z0ZPV2x6SHVCZWhveEtDR3B4UlhmcWpROU0xQjM2ZjRZZjNCY1g1Q0VJTXM5SmM1bmd3emdwMW1JN1ZxUjZEMDJQeVhGVVN2NldObEhOX0NSS3NfRDA1YmtqUTFGY3J3T0x0S1ZEdGNPNXNmM0NzU3g5dEVwcTYxRHM3N3h3NXkzUUU2OVY2T20tV0JrbTJ0bFd4em5yX0FVQnhGdXRvRlZlM1pCdzJZUWJrMHhjLQ?oc=5)
 
 ---
 
@@ -246,27 +262,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [El café podría proteger contra el envejecimiento a través de un receptor celular clave](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHh2a2JzMFdVWUYwZHdhSDE3SHF5VEowYVExMDB5bkVJdUxMQ1piWHJHT3ZKeGpuczVCaDZkX1VwMjNIMUUtOHltVkw2cUpOY2NnUjdxNGFGSm52YnJlZkRRaU9sbTE4bkQ5N3JtRGcxMGljTURvWlJtU1Q4MlRMWENmZmN0MlVHczBoUEtiTWVab1F6WGhpazRyQzlDX3BOTVZMS1JZTQ?oc=5)
-
-2026-08-18 <span class="news-indication-tag">AF</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHh2a2JzMFdVWUYwZHdhSDE3SHF5VEowYVExMDB5bkVJdUxMQ1piWHJHT3ZKeGpuczVCaDZkX1VwMjNIMUUtOHltVkw2cUpOY2NnUjdxNGFGSm52YnJlZkRRaU9sbTE4bkQ5N3JtRGcxMGljTURvWlJtU1Q4MlRMWENmZmN0MlVHczBoUEtiTWVab1F6WGhpazRyQzlDX3BOTVZMS1JZTQ?oc=5)
-
----
-
 ### [Studie zu Alzheimer: IgG aktiviert Mikroglia gezielt gegen Amyloid-Plaques - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2M4cURJcENLTDI3YVR5bDZqMTN3M2E1dEZKR1pKUHFuRlZGNEY4RjhqOEFWTk5PcWRhcklOVm9HRC1maWk2Qk5OYzFVaTRYSEhxUnNVZG9nUHV0X3ZwNG02RmdIbEY0MjNxN3E3R1h2YXJKR3lFS19qRERodmpPWVZSaU84ZVVqN1VZaWJHUkJQamFrNjh6a2w2cF82R2RGRmdfZ2ctZ2I?oc=5)
 
 2026-08-18 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2M4cURJcENLTDI3YVR5bDZqMTN3M2E1dEZKR1pKUHFuRlZGNEY4RjhqOEFWTk5PcWRhcklOVm9HRC1maWk2Qk5OYzFVaTRYSEhxUnNVZG9nUHV0X3ZwNG02RmdIbEY0MjNxN3E3R1h2YXJKR3lFS19qRERodmpPWVZSaU84ZVVqN1VZaWJHUkJQamFrNjh6a2w2cF82R2RGRmdfZ2ctZ2I?oc=5)
-
----
-
-### [Hypertension: A Handful of Nuts a Day May Help Lower Your Risk 20%](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
-
-2026-08-18 <span class="news-indication-tag">hypertension</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJTV3paWDJuOThmNi1jaDlmTTJBZ3dUWXNKNmZLa2RsZXdwbDhnaHJJMndiZTFibmlaMnYxczcxdnpsNzNLSWRoY0FTMzRYeUp0ai1rX0I1U29QcXYyQlNlY0N6VWQxQ3RVYmhuTlBMUGo4d3gzZkZUN29oTkpCM2J0YzJvcjRMV0p5azVHWTA?oc=5)
 
 ---
 
@@ -278,27 +278,19 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Wissenschaftler entwickeln Bakterium, das Batteriemetalle aus Gestein holt – und dabei helfen könnte, CO₂ dauerhaft zu binden - smart up news](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMkNweWx1OEwtaEE0VFBaZHRISWlVWGxOa2JORzJMQUJiUldSQlNybmZuem1XS0dvekxHcDBLR0gyMjFoODFIN1hkLUxjMV9ZSjJ6QWZ4bWpPYTQyNXdqMml5M1dIQ0UzYm1ESkJYajBoVDhWRjNUeGxDcjB2dkcweUUxUm5GTGNXQmhtSkpsRDRsVDhwR21rc3NkbnZPai15UWpWTGF1YXB1bXlaUnBYZWJOOTRwZER5UG5CWUEzUElQVFR0LVRiTWpBbHVkaHlrYXg0ZFpvc2ZRcUEtc0g3WGxLUjR3eTRxUXc?oc=5)
+### [Wissenschaftler entwickeln Bakterium, das Batteriemetalle aus Gestein holt – und dabei helfen könnte, CO₂ dauerhaft zu binden](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMkNweWx1OEwtaEE0VFBaZHRISWlVWGxOa2JORzJMQUJiUldSQlNybmZuem1XS0dvekxHcDBLR0gyMjFoODFIN1hkLUxjMV9ZSjJ6QWZ4bWpPYTQyNXdqMml5M1dIQ0UzYm1ESkJYajBoVDhWRjNUeGxDcjB2dkcweUUxUm5GTGNXQmhtSkpsRDRsVDhwR21rc3NkbnZPai15UWpWTGF1YXB1bXlaUnBYZWJOOTRwZER5UG5CWUEzUElQVFR0LVRiTWpBbHVkaHlrYXg0ZFpvc2ZRcUEtc0g3WGxLUjR3eTRxUXc?oc=5)
 
 2026-08-18 <span class="news-indication-tag">AF</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMkNweWx1OEwtaEE0VFBaZHRISWlVWGxOa2JORzJMQUJiUldSQlNybmZuem1XS0dvekxHcDBLR0gyMjFoODFIN1hkLUxjMV9ZSjJ6QWZ4bWpPYTQyNXdqMml5M1dIQ0UzYm1ESkJYajBoVDhWRjNUeGxDcjB2dkcweUUxUm5GTGNXQmhtSkpsRDRsVDhwR21rc3NkbnZPai15UWpWTGF1YXB1bXlaUnBYZWJOOTRwZER5UG5CWUEzUElQVFR0LVRiTWpBbHVkaHlrYXg0ZFpvc2ZRcUEtc0g3WGxLUjR3eTRxUXc?oc=5)
+來源：[smartup-news.de](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMkNweWx1OEwtaEE0VFBaZHRISWlVWGxOa2JORzJMQUJiUldSQlNybmZuem1XS0dvekxHcDBLR0gyMjFoODFIN1hkLUxjMV9ZSjJ6QWZ4bWpPYTQyNXdqMml5M1dIQ0UzYm1ESkJYajBoVDhWRjNUeGxDcjB2dkcweUUxUm5GTGNXQmhtSkpsRDRsVDhwR21rc3NkbnZPai15UWpWTGF1YXB1bXlaUnBYZWJOOTRwZER5UG5CWUEzUElQVFR0LVRiTWpBbHVkaHlrYXg0ZFpvc2ZRcUEtc0g3WGxLUjR3eTRxUXc?oc=5)
 
 ---
 
-### [Bluthochdruck: 5 Minuten Atemtraining senkt Druck um 9 mmHg](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
+### [Functional integrity of mesolimbic-hippocampal circuits is associated with anhedonia in individuals with early life stress - Journal of Neuroscience](https://news.google.com/rss/articles/CBMifkFVX3lxTE91cW1UX3RkUzEyaG41MEkwNG9xNGVmcTVrQ2Y2RkNvMWN0NjRpSGhuQ3pWdGZSLU9FTUhJR2QzWWlMRlBzNG1YVmlBMDVMQ3pNZnBuQ25qaEFuaGh0aUsydG54NzdqM0lLckpySW9VZ0tqUFRiZkpMUDFPbHFWQQ?oc=5)
 
-2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-18 <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
-
----
-
-### [Bluthochdruck: Kalium und TCM-Phytotherapie senken Blutdruck](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWRLMDdJUkxjc1l2eGpMR2NwbkhUaU5YaXNDMFFwSWp0SHJCaXFzLW5teDY3S0ZmaEFNbk1HT0pSbG1ZQ0RjZ0FoaHZELVJ4cW93cFFRdjlSMVVNMko5WjVxUTZRYzN1ZWRtQk05OGtuVVdydjBNMzRGU08zVWQ2SzlOZnpFRFltdDZjeEV3T3h6b3JpOThnVEZacEFuWmpWQVk2NTdHdzQyMFBh?oc=5)
-
-2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWRLMDdJUkxjc1l2eGpMR2NwbkhUaU5YaXNDMFFwSWp0SHJCaXFzLW5teDY3S0ZmaEFNbk1HT0pSbG1ZQ0RjZ0FoaHZELVJ4cW93cFFRdjlSMVVNMko5WjVxUTZRYzN1ZWRtQk05OGtuVVdydjBNMzRGU08zVWQ2SzlOZnpFRFltdDZjeEV3T3h6b3JpOThnVEZacEFuWmpWQVk2NTdHdzQyMFBh?oc=5)
+來源：[Journal of Neuroscience](https://news.google.com/rss/articles/CBMifkFVX3lxTE91cW1UX3RkUzEyaG41MEkwNG9xNGVmcTVrQ2Y2RkNvMWN0NjRpSGhuQ3pWdGZSLU9FTUhJR2QzWWlMRlBzNG1YVmlBMDVMQ3pNZnBuQ25qaEFuaGh0aUsydG54NzdqM0lLckpySW9VZ0tqUFRiZkpMUDFPbHFWQQ?oc=5)
 
 ---
 

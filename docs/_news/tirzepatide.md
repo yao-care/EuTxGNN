@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Tips for treating—even preventing—osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
-
-2026-08-18 <span class="news-indication-tag">arthritis</span>
-
-來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNLZFNhZkNDLWRGM1ZyWnFvZzM1UUpPSzRZYkFqNTBKTHE1Zk5qZ1NkNUtGYkdQOV9sYmFHYlZaaXpOLV9aU0lOMlB0LUlNSWhqMUI4R2JaUHU4NDh3UWN6R2xGTGhOU1N5U2V3UjJBSWN4U0MwalVkZXBERzB3Y3h5ZlhGRXhSazJuVUVyR29nTlVLU0FlQg?oc=5)
-
----
-
-### [Pharmacist prescribes Mounjaro to 'anorexic' for months with no check-ups - but get away with just a warning - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
+### [Pharmacist prescribes Mounjaro to 'anorexic' for months with no check-ups - but get away with just a warning](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
 
 2026-08-18 <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNFMnpoa3RsaUVJekRVTXphb2xFMEdfZER4WHpTN0hoSzFnWmVIeGRnUlRzUGowQTlvaE5EMWFUOUpZbS04dnJXZUliMDE0dFU2MlVtTjQ0T0l3ZTFnVzItNEJON2h2Y3dweDI4NkNIYW16eG5NQmRXcUZPNHlKVnpTS1llU0xWd1FXb3NvNA?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（3 則）
 
-### [High-dose vitamin D may improve cognition among those at risk of dementia, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9uc0wycjE1NnNOSVJsZUsyWGJlMUNUWTRkbkxUczZIb3NQMXVBNEtfS2FWS0ZPcUw3bnN5RUF6Q0tiLVZSd0Ywc3poNmNHMldLUEtTTWotUkRKUlI4U09YQ0N3OGRtR014bXpaZE95U1RRTUdDRzF5d3ZDYWVOUQ?oc=5)
+### [El dilema del test de Alzheimer: ¿un avance médico o una fuente de ansiedad?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDU0bnZWNmZOa1dBSzBObkNxc2x2MW5mOW5DVWhzMkJuUkFVbVpLLUpYTHVHMFJFRWFHbk5rRVpXY1A0RzdxYTFwZ2NYX3BMUkp6T0k2czdIemUwUnYzMlU4RkkyMzJ4ZGQ2dTM4TTNBM2ZJMGVFY2NJQ1hrWVdONU5hVDdjSGNFLU9vLXVUNXFMSGJydTJLQWJ1QXVwbmF1MldvQXZycVptLVFINGZnUFlXVHdXSmI0dG9UYXNmdnp0bG5YeGJSWWhn?oc=5)
 
-2026-08-19
+2026-08-18
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9uc0wycjE1NnNOSVJsZUsyWGJlMUNUWTRkbkxUczZIb3NQMXVBNEtfS2FWS0ZPcUw3bnN5RUF6Q0tiLVZSd0Ywc3poNmNHMldLUEtTTWotUkRKUlI4U09YQ0N3OGRtR014bXpaZE95U1RRTUdDRzF5d3ZDYWVOUQ?oc=5)
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDU0bnZWNmZOa1dBSzBObkNxc2x2MW5mOW5DVWhzMkJuUkFVbVpLLUpYTHVHMFJFRWFHbk5rRVpXY1A0RzdxYTFwZ2NYX3BMUkp6T0k2czdIemUwUnYzMlU4RkkyMzJ4ZGQ2dTM4TTNBM2ZJMGVFY2NJQ1hrWVdONU5hVDdjSGNFLU9vLXVUNXFMSGJydTJLQWJ1QXVwbmF1MldvQXZycVptLVFINGZnUFlXVHdXSmI0dG9UYXNmdnp0bG5YeGJSWWhn?oc=5)
 
 ---
 
@@ -62,11 +62,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Los análisis para predecir el Alzheimer provocan confusión](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUVhR2d3b3ZoM2FjSVdvdEVqZkg2b3dkeF9XNUl0XzJseDdhRFNaLWw5b09Cb2hFUk9Cc0p1dGk5UjhicWpIZFVDMEhLTzFpdGR0TW9DWnEwQmstZE91YmlWWHFIUzdEdzQ5QnJEdFU5bkM4UVF4YkJDVkRYb0RWS0t6RENfVTIxTVZnVGRPbTVLSFdQdWEyM0pZTEc2eWfSAZ8BQVVfeXFMT2M1dldtTWt4Rk9MTy0tYjY3NUYzMFBVX0Z5WUdkMWE3dDd5S3lVNlhkZ2dUbXFwUzU5WnRrSTJvNEI0cmVwdHREcTdjSENrME9FVlhXZ2s2dWxwRDFyZDctZTNqakpmX29FbHo5cHp5NFBTZGV2SE1XTFVVQ2JSWmZ6emhOYl90dlUxWW1aTUJYOXRzczJNX05veVNlUlRj?oc=5)
+### [The metabokine β-aminoisobutyric acid mediates exercise performance and skeletal muscle adaptation through a PGC1α-BAIBA-PPARδ axis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
 
 2026-08-18
 
-來源：[MILENIO](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUVhR2d3b3ZoM2FjSVdvdEVqZkg2b3dkeF9XNUl0XzJseDdhRFNaLWw5b09Cb2hFUk9Cc0p1dGk5UjhicWpIZFVDMEhLTzFpdGR0TW9DWnEwQmstZE91YmlWWHFIUzdEdzQ5QnJEdFU5bkM4UVF4YkJDVkRYb0RWS0t6RENfVTIxTVZnVGRPbTVLSFdQdWEyM0pZTEc2eWfSAZ8BQVVfeXFMT2M1dldtTWt4Rk9MTy0tYjY3NUYzMFBVX0Z5WUdkMWE3dDd5S3lVNlhkZ2dUbXFwUzU5WnRrSTJvNEI0cmVwdHREcTdjSENrME9FVlhXZ2s2dWxwRDFyZDctZTNqakpmX29FbHo5cHp5NFBTZGV2SE1XTFVVQ2JSWmZ6emhOYl90dlUxWW1aTUJYOXRzczJNX05veVNlUlRj?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/tafasitamab/
 
 ## 相關新聞（39 則）
 
-### [Siete señales que pueden alertar de una prediabetes y que muchas personas pasan por alto](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
+### [Lombardia, allarme per la spesa di farmaci contro il diabete (usati anche per dimagrire): più 20%. Remuzzi: «L'uso estetico ha più effetti indesiderati che pregi» - Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span>
+2026-08-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
+來源：[Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
 
 ---
 
-### [Scientists Discover a New Organ Hiding in The Skull](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYXFVclZaWXNNdUp5dWhWRzEtVjZyZ1lUY1lRaWFucURFcE04bXgwOFdvaVNkQmJaN0Zucm5zdlFjaHdBWFNJQjNDejBMdG9uV0tQWS13Nml2VEFhdldGMzdFUVRuSU5JRC1pZU1zYkpPNGRsZ2piQ2JrWERuczBFeHluMVB5a1k?oc=5)
+### [Altum Sequencing prepara la expansión de su ‘radar’ contra el cáncer - La Vanguardia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW5JeXp3SWF2WWZNckJhNHV4UHdKUXFkYnBUQm5xaGRvRENtbGVwZk1XUUwtSk1YNl9GOGZsUXMtYUZKaUhyUmlJRXNqR2NwZElRQlNncnRTaTlYYXo5TW5CMDJ5NVFvc09xdzNOelV2dWM0UnR4bFVuaFI2UnI5eUxzSHpSNWEzdk10UE1GbWZPMUUtTDEweW44OHF1aFZkWnY5QWJ3UFBOQdIBrwFBVV95cUxQQTd2MXhjOU1TVy1SdjlmM3pnLXpxem9nRm1tblR6bl92UWQ1SWdMTXI3MTVIRUZzeXpKSllXcWZEYUpqd3lrbk9DUGhDNU5qUWRqV2hsWGJiSlV1NzRTQWprX0ptekhJNzNyQlU5SU05TmVjOWlDcWhCMGpkUXhvSmZieXIwRm1GbDA0RTJkLWV0M2NEaGQxTWNrVHhudW9ZV1QzXzNpaFJGMzM4RW53?oc=5)
 
-2026-08-19 <span class="news-indication-tag">cancer</span>
+2026-08-20 <span class="news-indication-tag">tumor</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYXFVclZaWXNNdUp5dWhWRzEtVjZyZ1lUY1lRaWFucURFcE04bXgwOFdvaVNkQmJaN0Zucm5zdlFjaHdBWFNJQjNDejBMdG9uV0tQWS13Nml2VEFhdldGMzdFUVRuSU5JRC1pZU1zYkpPNGRsZ2piQ2JrWERuczBFeHluMVB5a1k?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW5JeXp3SWF2WWZNckJhNHV4UHdKUXFkYnBUQm5xaGRvRENtbGVwZk1XUUwtSk1YNl9GOGZsUXMtYUZKaUhyUmlJRXNqR2NwZElRQlNncnRTaTlYYXo5TW5CMDJ5NVFvc09xdzNOelV2dWM0UnR4bFVuaFI2UnI5eUxzSHpSNWEzdk10UE1GbWZPMUUtTDEweW44OHF1aFZkWnY5QWJ3UFBOQdIBrwFBVV95cUxQQTd2MXhjOU1TVy1SdjlmM3pnLXpxem9nRm1tblR6bl92UWQ1SWdMTXI3MTVIRUZzeXpKSllXcWZEYUpqd3lrbk9DUGhDNU5qUWRqV2hsWGJiSlV1NzRTQWprX0ptekhJNzNyQlU5SU05TmVjOWlDcWhCMGpkUXhvSmZieXIwRm1GbDA0RTJkLWV0M2NEaGQxTWNrVHhudW9ZV1QzXzNpaFJGMzM4RW53?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [How ‘super-agers’ may stay healthy beyond 100 - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXp1RmU2QjhGaXgxdWNrX0F5MmIxVGtKLUpiT21aWURhZ0xRTXNQX1dQZFRnSzNmLWh4WV9wbXRsNjBVQmgwcGNyckM4c3VDMDFPbDNjYkxhN2hvMkJlV2ZLVGlWNkI2dkNseGFjNjFUMXFfU19aU3phY3FGWWk5Sl9PSEItaE9xVmlMd0pHTFFXVWV5T25NOURoSEdFOFE?oc=5)
+### [People Who Live Past 100 Have a Surprising Abundance of Cancer-Killing Immune Cells](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
 
 2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXp1RmU2QjhGaXgxdWNrX0F5MmIxVGtKLUpiT21aWURhZ0xRTXNQX1dQZFRnSzNmLWh4WV9wbXRsNjBVQmgwcGNyckM4c3VDMDFPbDNjYkxhN2hvMkJlV2ZLVGlWNkI2dkNseGFjNjFUMXFfU19aU3phY3FGWWk5Sl9PSEItaE9xVmlMd0pHTFFXVWV5T25NOURoSEdFOFE?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
 
 ---
 
@@ -110,11 +110,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
 
 ---
 
@@ -134,6 +134,14 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Expertin aus Mönchengladbach: Dermatologin warnt vor „Tanmaxxing“ als Trend - RP Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUprZjFsTl9rUUczRWl4QjRraVh6YjZVc0JhUUdsTEd4WERDVFpSNHlXX0Q5a0RsZ1p4Y2FCWVp5ZlJjVk1jcEZkbnUxM2RLNHdEUEx6dG5XX2RuZkdpSXdWRk90S0owTXhfZV9pcmZhbkNRcHlCZEk4d1BSckdDeUdTS1JrclVUdHdxNHUtOWxYWU1HQ0NUa3dhR0R1TmhkTDRuYXpiUk1BdGE3SFpRODlSUGRTWTlqUHM0RHZJbFhvVF9NeElFMw?oc=5)
+
+2026-08-19 <span class="news-indication-tag">cancer</span>
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUprZjFsTl9rUUczRWl4QjRraVh6YjZVc0JhUUdsTEd4WERDVFpSNHlXX0Q5a0RsZ1p4Y2FCWVp5ZlJjVk1jcEZkbnUxM2RLNHdEUEx6dG5XX2RuZkdpSXdWRk90S0owTXhfZV9pcmZhbkNRcHlCZEk4d1BSckdDeUdTS1JrclVUdHdxNHUtOWxYWU1HQ0NUa3dhR0R1TmhkTDRuYXpiUk1BdGE3SFpRODlSUGRTWTlqUHM0RHZJbFhvVF9NeElFMw?oc=5)
+
+---
+
 ### [Cancers : les pilotes de ligne et personnels de cabine parmi les professions les plus à risque aux États-Unis](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTkdIeWVUUEFsWElpem1QbHFpTGk4bXcyYUNuNDY2LVZIWllqcXEtVU9Ka2RyaWdXWjlpa25HSzlXS2VfRVhnQmdsYVVmbUZjQUh5Mjl2M0xCSURCNVRFZXAzM3l4UjlKUUJCNFhZNjFVVEY5T2tUSl9VOW1yX1dhTzhSUHlFaGg4aFVJNkh2VVhzankyTW9keFlUZkVnWE5fYzNQb0s3QkVIZjNsTmtKYmxjOGg0VkFLZktuby1ZVE1YWFd5WERrZllLcGU2bm1PNUVsZ1hPWG1xZVZDbDBLSkxabERxX1FkeUFPTjNYVmVSdw?oc=5)
 
 2026-08-19 <span class="news-indication-tag">cancer</span>
@@ -147,14 +155,6 @@ permalink: /news/tafasitamab/
 2026-08-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
-
----
-
-### [Ernährung: Prostatakrebs-Risiko steigt durch diese Lebensmittel](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0w1UUZ1bnZLZ3RvMmdkc3pzaU96Z1NLejU3dkVaZzBKSnhOdVNsRk9FRzFGenFjT0xVaWZUdGJOZFYwaEwtT2hlQ1BzVTJmZlhBaktuYWZiUG0xRVhkV0tZd3hPbWF6YzFyMXFBendBbHRqeDBNZDZRWUdrem1JaWtyVnlrREYxTkVrWkxVYUY5NEdKUWY1QjFWcUwwV2htejMxLXM3N2Z1UTRTMFJDMTZpMWJ5WFQ3SlY5RmJWOVNrZw?oc=5)
-
-2026-08-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0w1UUZ1bnZLZ3RvMmdkc3pzaU96Z1NLejU3dkVaZzBKSnhOdVNsRk9FRzFGenFjT0xVaWZUdGJOZFYwaEwtT2hlQ1BzVTJmZlhBaktuYWZiUG0xRVhkV0tZd3hPbWF6YzFyMXFBendBbHRqeDBNZDZRWUdrem1JaWtyVnlrREYxTkVrWkxVYUY5NEdKUWY1QjFWcUwwV2htejMxLXM3N2Z1UTRTMFJDMTZpMWJ5WFQ3SlY5RmJWOVNrZw?oc=5)
 
 ---
 
@@ -184,7 +184,7 @@ permalink: /news/tafasitamab/
 
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -278,14 +278,6 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Studie: Geringere Brustkrebssterblichkeit mit Statin-Therapie - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTBXel80TkNnUU52cGhSUm5pQUh5Q21ManZLa251d3ItOE44enJkSGJ4aVhFY18yWGNLN201bTQ3c2pWNDcxYkJrZXJYTXdVWUJDdVVCMllkRUxOVi16Y3FzOXViZlZPQ3htZnpQQkxiODYwWDRzSkhFSENnVzJ5d2RMUW5WVVlXbUduSEFHZXFXTmVhZmxLYjVKUUhpcDZ5QzA0?oc=5)
-
-2026-08-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTBXel80TkNnUU52cGhSUm5pQUh5Q21ManZLa251d3ItOE44enJkSGJ4aVhFY18yWGNLN201bTQ3c2pWNDcxYkJrZXJYTXdVWUJDdVVCMllkRUxOVi16Y3FzOXViZlZPQ3htZnpQQkxiODYwWDRzSkhFSENnVzJ5d2RMUW5WVVlXbUduSEFHZXFXTmVhZmxLYjVKUUhpcDZ5QzA0?oc=5)
-
----
-
 ### [David Bowie e il tumore al fegato tenuto segreto: la malattia che accompagnò i suoi ultimi 18 mesi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS3ExR241a184YUp3RlFTZjY0V19TSzl1bW50WFpFMWdWcnJZb3NLNnRyMDd1ck5pcUpPNXNpa0tKS0ptQXh2OEgwc3cyWnNZc2p4eC1ZMmFtT3ZaLW9BcjBtcDgyQW40eV9wXzZKQU81TTlSc1Qyb2czOHRMdGVyWWhTYTRMVWR3NU85VVkwRWNsNjFKakJOMnppQkdSajZlRnhVS2NyRHd2MWVzQlQ4Zk9CdFhSaG12QklwbDJBT3hsdXM2S1FKb2RqX1RGbkpfN3ZURnQzWWRYbG5kWnVTV0xsd0VJMlFheVVScw?oc=5)
 
 2026-08-19 <span class="news-indication-tag">tumor</span>
@@ -302,14 +294,6 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Tumore al seno, perché la stanchezza può durare anni dopo le cure? Il nuovo studio](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX3hOU2t0TkxWMk5uaFpIUTlnUElVRU9Qbm9OWGNuM1FXdmNrdHpleXpoUngtbGtmSDZNWFhmZllNREt0RmtWTG52QlQtQ3FHZmxuSUFtdndLMlRFYlVQVlNJR25uYVl2TGNmblR5YWdOeVhiOTBEOEpqREl3cGlnYWhPb20yc2JOU3RMWDRfZWhsNDVOLVVJS0J6NFMtSmxaLWNMXzNLRlc5d3Z4MmVBSFFSU196azNPaXNHbGdFRE1fRHEzSm5iR29ueDNSMXhmWEhNYXFmMA?oc=5)
-
-2026-08-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX3hOU2t0TkxWMk5uaFpIUTlnUElVRU9Qbm9OWGNuM1FXdmNrdHpleXpoUngtbGtmSDZNWFhmZllNREt0RmtWTG52QlQtQ3FHZmxuSUFtdndLMlRFYlVQVlNJR25uYVl2TGNmblR5YWdOeVhiOTBEOEpqREl3cGlnYWhPb20yc2JOU3RMWDRfZWhsNDVOLVVJS0J6NFMtSmxaLWNMXzNLRlc5d3Z4MmVBSFFSU196azNPaXNHbGdFRE1fRHEzSm5iR29ueDNSMXhmWEhNYXFmMA?oc=5)
-
----
-
 ### [Caernarfon teen's ovarian cancer put her in menopause overnight](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUnhFN0RUWmU1TGk3bjdnNmxEbVhQOUY5dGdsWFdOMjN5dlZCR2JacUhFY21wMTVkWjNNWkpEZVp1a3E1UUt1U0RWcV9Xcy1yQldlQ1hld21WV2N0?oc=5)
 
 2026-08-18 <span class="news-indication-tag">cancer</span>
@@ -323,6 +307,14 @@ permalink: /news/tafasitamab/
 2026-08-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaEJVb3JMT2doQnFKU0N3RzBsbWJSVEI4dW1GRjFWSFpodGVmd1cyVWVySjExU1M1cmM0cWhqcklTMjhyTEFJQzhWdnhNZ1E4NFVyUnZxal9EZUpjdC1kSjVRSWdrRm84eXlYRXlicjNQWGU1YWJ2V1F6RjFYcGxUNWd0SmdpN2lNdDdHcUZ4RkNqY2lTOWpSWm5rV2JYV1Q3dzVXa3JiVnAtWGRmRkFVZlNYR2NUb1l2aVdRZmFiRDhtRGkybmFXRXJtS1FpenRwSkViMDZJN1BwMjVyN3JrNGcxcmM?oc=5)
+
+---
+
+### [How scientists are using AI to predict how breast cancer could progress - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXNkcE5HQnkzc2pVT0d3YUNrZmJmeklEX1drYy1RbkVaNlVZejZsTnVBM3ZfYTgtQW1ZOHVWWmN2Uk5DX29lWG5SSlF6SThReUFoNGxSOFUtSmN0eTVReVozZHZuWk1SRVZkRUwtN0FnUFZaLTFtZncwRHl4aG1WRDJsUklMU1QzcU9tcjd0ZURmTUs0QjNCVkdn?oc=5)
+
+2026-08-18 <span class="news-indication-tag">cancer</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXNkcE5HQnkzc2pVT0d3YUNrZmJmeklEX1drYy1RbkVaNlVZejZsTnVBM3ZfYTgtQW1ZOHVWWmN2Uk5DX29lWG5SSlF6SThReUFoNGxSOFUtSmN0eTVReVozZHZuWk1SRVZkRUwtN0FnUFZaLTFtZncwRHl4aG1WRDJsUklMU1QzcU9tcjd0ZURmTUs0QjNCVkdn?oc=5)
 
 ---
 
@@ -355,6 +347,14 @@ permalink: /news/tafasitamab/
 2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+
+---
+
+### [The metabokine β-aminoisobutyric acid mediates exercise performance and skeletal muscle adaptation through a PGC1α-BAIBA-PPARδ axis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
+
+2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NkxBUGR2QkpRWlZFeW5Hd1hIMlljaHltMEE0OEJRSGpOTGNQdEJxRHp5dERrZzBhSzVGMU1DTzhoOU9YZC1IZ3JDdk9keC1WYXlfTzV4MEdoQ0VLd3A0?oc=5)
 
 ---
 
