@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [High-dose vitamin D may improve cognition among those at risk of dementia, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9uc0wycjE1NnNOSVJsZUsyWGJlMUNUWTRkbkxUczZIb3NQMXVBNEtfS2FWS0ZPcUw3bnN5RUF6Q0tiLVZSd0Ywc3poNmNHMldLUEtTTWotUkRKUlI4U09YQ0N3OGRtR014bXpaZE95U1RRTUdDRzF5d3ZDYWVOUQ?oc=5)
+
+2026-08-19 <span class="news-indication-tag">dementia</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9uc0wycjE1NnNOSVJsZUsyWGJlMUNUWTRkbkxUczZIb3NQMXVBNEtfS2FWS0ZPcUw3bnN5RUF6Q0tiLVZSd0Ywc3poNmNHMldLUEtTTWotUkRKUlI4U09YQ0N3OGRtR014bXpaZE95U1RRTUdDRzF5d3ZDYWVOUQ?oc=5)
+
+---
 
 ### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
@@ -62,27 +70,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Scientists Get a Step Closer to Strengthening Muscles Without Exercise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
+### [Los análisis para predecir el Alzheimer provocan confusión](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUVhR2d3b3ZoM2FjSVdvdEVqZkg2b3dkeF9XNUl0XzJseDdhRFNaLWw5b09Cb2hFUk9Cc0p1dGk5UjhicWpIZFVDMEhLTzFpdGR0TW9DWnEwQmstZE91YmlWWHFIUzdEdzQ5QnJEdFU5bkM4UVF4YkJDVkRYb0RWS0t6RENfVTIxTVZnVGRPbTVLSFdQdWEyM0pZTEc2eWfSAZ8BQVVfeXFMT2M1dldtTWt4Rk9MTy0tYjY3NUYzMFBVX0Z5WUdkMWE3dDd5S3lVNlhkZ2dUbXFwUzU5WnRrSTJvNEI0cmVwdHREcTdjSENrME9FVlhXZ2s2dWxwRDFyZDctZTNqakpmX29FbHo5cHp5NFBTZGV2SE1XTFVVQ2JSWmZ6emhOYl90dlUxWW1aTUJYOXRzczJNX05veVNlUlRj?oc=5)
 
-2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+2026-08-18 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
-來源：[Newsweek](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
-
----
-
-### [Alzheimer : un somnifère courant montre des résultats encourageants dans une étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbGhUVUVDS2lFZnU0b3lGMWVZWFptT3hwNzctOW5EVWN5RUNQcnp5aERXNk1paUN5MHFKYXN2cGRhTmR3WnFuZTJUdlB3TTFGZ2Y3amZqd0hUVWNKTzM4UlRhek1jSzRyU2tJZUdQMVc1RWpCeXVueUgxRURGd013OUxtdDhZSnhiemlSb0lLWFM2M3RVQ1YzTW9zeDRCUEJ5RTJaOThvSHVYLS1KNGYtWU50a3hZNUx6d3d5RHNGMWwwemdZLVdNQlRXeWFNcXM2UnBrX1YwcVRQX0Ni?oc=5)
-
-2026-08-18 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbGhUVUVDS2lFZnU0b3lGMWVZWFptT3hwNzctOW5EVWN5RUNQcnp5aERXNk1paUN5MHFKYXN2cGRhTmR3WnFuZTJUdlB3TTFGZ2Y3amZqd0hUVWNKTzM4UlRhek1jSzRyU2tJZUdQMVc1RWpCeXVueUgxRURGd013OUxtdDhZSnhiemlSb0lLWFM2M3RVQ1YzTW9zeDRCUEJ5RTJaOThvSHVYLS1KNGYtWU50a3hZNUx6d3d5RHNGMWwwemdZLVdNQlRXeWFNcXM2UnBrX1YwcVRQX0Ni?oc=5)
-
----
-
-### [Will HRT help me avoid my mother’s long dementia? - The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
-
-2026-08-17 <span class="news-indication-tag">dementia</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZ4dVB4NTV0ZWsxOThOTnJmclNaSzc0amwtZVY4cDllNVp5bmFRMnJvSFotMEI3RmZLOFUyMGJjcVZibTdOZmRVUVRiN1hrR3VQb01tNWxteEd3ejhjR2RaMl9Mb0ZaRV93VFpVWUdZWXMxTzQtWnlMdFZURXRuODR3dW1QeklpaTZucEt3YlJGQ21UZ2VwcGZJQkZuMEEweHBlWFRBeGphdU9ndThZ?oc=5)
+來源：[MILENIO](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUVhR2d3b3ZoM2FjSVdvdEVqZkg2b3dkeF9XNUl0XzJseDdhRFNaLWw5b09Cb2hFUk9Cc0p1dGk5UjhicWpIZFVDMEhLTzFpdGR0TW9DWnEwQmstZE91YmlWWHFIUzdEdzQ5QnJEdFU5bkM4UVF4YkJDVkRYb0RWS0t6RENfVTIxTVZnVGRPbTVLSFdQdWEyM0pZTEc2eWfSAZ8BQVVfeXFMT2M1dldtTWt4Rk9MTy0tYjY3NUYzMFBVX0Z5WUdkMWE3dDd5S3lVNlhkZ2dUbXFwUzU5WnRrSTJvNEI0cmVwdHREcTdjSENrME9FVlhXZ2s2dWxwRDFyZDctZTNqakpmX29FbHo5cHp5NFBTZGV2SE1XTFVVQ2JSWmZ6emhOYl90dlUxWW1aTUJYOXRzczJNX05veVNlUlRj?oc=5)
 
 ---
 

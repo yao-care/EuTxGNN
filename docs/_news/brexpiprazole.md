@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Depressione in adolescenza, dormire poco da bambini aumenta del doppio il rischio di sviluppare sintomi - Corriere della Sera](https://news.google.com/rss/articles/CBMirAJBVV95cUxQcXFmZ1B1R1lQTVhyRUUwZUcxQmJWaWFveGl4NFNaUV9ONU1uMFhVbmJMRHRfbkY0RnRtUm9jb1BndkRYdUIyOW02NEFWNTFhaGVibll0clloT28wakZxUFNxVFllcUlFUURfMUMzOXlIVnJkWEdrUUFfUFFjZXNnSmJYWFBRYWg5V1VqenJhZTVKbUNSX29VVHJQODBiU09yb0NsMThER0hncjhtSFgyREFXSDVldUthbnA4LUxQVFFmOHNHc19XS3hKdkdHb19mWHZTMUcxZFN1cmxvNXAxVXFZYnZHTl9CWFdiVURMdkM3UTdJWjFydGotNGx6UUp4bnJjTTdtczNXXzNwZF9wVjVaXzJ5Q3IwSmpPSE9PZWF1TjlkazdsZkFfUjPSAbICQVVfeXFMTzlfYUhva3VfZHFCeFZZbmYxT0FJS2FuZlVoTGRtUWZmU0RPXzRHVlU0ZmZSenM0bUx5TFJvOU5LRnRhZkZpeG1BeWQ1RHN0SkxLaVVWRExjSk1Ha0h5NkU5Qk1XYktWUGpuRV9YU3VCbkNvMS1TWnZWVWlwOEFKaVNwTWxvb2ZiWnpGY05GaWl4bWpoYlZSMTI3amNqcVRTRThPQTU3aTdEdEtMM2YwckUxcnExMUljWGlnSmRFY3lmWWczRGhYR0hwUlJjd082R3EzU21Ddk4xQ1VaZDcwckxWa3lXYnF2WTBYXzY1QmV6ZktGNVViUHg5dlN2Y1Z1b0dLUDJvVHZmbGlRcDJNdHM4Z1hjSURMWjlhWDdla3pUN0ZkWG84UlBCWWpUQjRqaUNn?oc=5)
+
+2026-08-19 <span class="news-indication-tag">depression</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirAJBVV95cUxQcXFmZ1B1R1lQTVhyRUUwZUcxQmJWaWFveGl4NFNaUV9ONU1uMFhVbmJMRHRfbkY0RnRtUm9jb1BndkRYdUIyOW02NEFWNTFhaGVibll0clloT28wakZxUFNxVFllcUlFUURfMUMzOXlIVnJkWEdrUUFfUFFjZXNnSmJYWFBRYWg5V1VqenJhZTVKbUNSX29VVHJQODBiU09yb0NsMThER0hncjhtSFgyREFXSDVldUthbnA4LUxQVFFmOHNHc19XS3hKdkdHb19mWHZTMUcxZFN1cmxvNXAxVXFZYnZHTl9CWFdiVURMdkM3UTdJWjFydGotNGx6UUp4bnJjTTdtczNXXzNwZF9wVjVaXzJ5Q3IwSmpPSE9PZWF1TjlkazdsZkFfUjPSAbICQVVfeXFMTzlfYUhva3VfZHFCeFZZbmYxT0FJS2FuZlVoTGRtUWZmU0RPXzRHVlU0ZmZSenM0bUx5TFJvOU5LRnRhZkZpeG1BeWQ1RHN0SkxLaVVWRExjSk1Ha0h5NkU5Qk1XYktWUGpuRV9YU3VCbkNvMS1TWnZWVWlwOEFKaVNwTWxvb2ZiWnpGY05GaWl4bWpoYlZSMTI3amNqcVRTRThPQTU3aTdEdEtMM2YwckUxcnExMUljWGlnSmRFY3lmWWczRGhYR0hwUlJjd082R3EzU21Ddk4xQ1VaZDcwckxWa3lXYnF2WTBYXzY1QmV6ZktGNVViUHg5dlN2Y1Z1b0dLUDJvVHZmbGlRcDJNdHM4Z1hjSURMWjlhWDdla3pUN0ZkWG84UlBCWWpUQjRqaUNn?oc=5)
+
+---
 
 
 <div class="disclaimer">

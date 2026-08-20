@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [RD del Congo supera los 5.000 casos de ébola confirmados](https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2xKRVVhNjMyV3p3MzlaeXg4OHFwSWtUNzRDdzNVdXJJOERWN2RHOG1aZ0xBMWg4Yzh5TDBEc2RHWWYwQU02WUNMcDZJOE82c1hlY3RHc2M0SEp3c3QwbHhsWkpZenJ3b1J1eDd4S3lZOHpZLXV4dXNCQkV3Wjl3YWtKbXR5aGd2M0lJZjRJejg0RHlILVRfatIBmAFBVV95cUxNOWdwcmlhaGQzYVR2RWVxQnR5RE5pS3VVVDk0MFVLTkFEVGZTNmNOTk94LXVrVFVuNTZWRUVjUWRTZGY2MXdLeHdIUllsMzV0TWFyeGlRdnVkeUtub083ZjF1NmljMGxvdG5CZ0ZKZVlIeGlwal8yTW1VWDY2ZXBTUVVBZGJYeWl0SFZlcGNvOVRDU2tTaTBCOA?oc=5)
+
+2026-08-19 <span class="news-indication-tag">MS</span>
+
+來源：[dw.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2xKRVVhNjMyV3p3MzlaeXg4OHFwSWtUNzRDdzNVdXJJOERWN2RHOG1aZ0xBMWg4Yzh5TDBEc2RHWWYwQU02WUNMcDZJOE82c1hlY3RHc2M0SEp3c3QwbHhsWkpZenJ3b1J1eDd4S3lZOHpZLXV4dXNCQkV3Wjl3YWtKbXR5aGd2M0lJZjRJejg0RHlILVRfatIBmAFBVV95cUxNOWdwcmlhaGQzYVR2RWVxQnR5RE5pS3VVVDk0MFVLTkFEVGZTNmNOTk94LXVrVFVuNTZWRUVjUWRTZGY2MXdLeHdIUllsMzV0TWFyeGlRdnVkeUtub083ZjF1NmljMGxvdG5CZ0ZKZVlIeGlwal8yTW1VWDY2ZXBTUVVBZGJYeWl0SFZlcGNvOVRDU2tTaTBCOA?oc=5)
+
+---
 
 ### [How ‘super-agers’ may stay healthy beyond 100 - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXp1RmU2QjhGaXgxdWNrX0F5MmIxVGtKLUpiT21aWURhZ0xRTXNQX1dQZFRnSzNmLWh4WV9wbXRsNjBVQmgwcGNyckM4c3VDMDFPbDNjYkxhN2hvMkJlV2ZLVGlWNkI2dkNseGFjNjFUMXFfU19aU3phY3FGWWk5Sl9PSEItaE9xVmlMd0pHTFFXVWV5T25NOURoSEdFOFE?oc=5)
 
@@ -62,19 +70,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [R. D. Congo: a pesar del actual brote de Ébola, no deben descuidarse otras emergencias sanitarias en el este del país - Médicos Sin Fronteras](https://news.google.com/rss/articles/CBMifEFVX3lxTE10ajVqMnptd013OGJDYkpXVkZJZmJPT0tZN0xKa0xwNjBxZTVJVjZ1OWZlLW53YXRkTGo4Q0Q5clZlYllpa2E2aFpiekJUTTByVjVmMnlMbjBtdzZ5ZW9sUlh1MjR6aFVsYlZMcjdHMzN5dmk2YTd1WUQ5QXg?oc=5)
+### [Chronische Schmerzen: Gehirn-Schalter stoppt Nervenschmerz ohne Opioide](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzFlbllBY1NLbElXU2ZEbUlLb2h2b01PZTlBQXNwR0N0STdkSHpnVkJnU3l2RGljRGNWOF9UQldpYkJ5ek1hMmFxYXJjeGxJeGNCSUpVUm1hTF9lRGtJM0ZxZW1TQ0RZemFCc1ktTUh2bG1QN1EtSXVtNXdkT1B4anZEdGVoaTBmWTlJV0s2QXZtcUdSbEJpemwwWHdtdE1jMkYxcGlPelRnMzFPLXNpbGxYbS1VaTJmcm5n?oc=5)
 
 2026-08-19 <span class="news-indication-tag">MS</span>
 
-來源：[Médicos Sin Fronteras](https://news.google.com/rss/articles/CBMifEFVX3lxTE10ajVqMnptd013OGJDYkpXVkZJZmJPT0tZN0xKa0xwNjBxZTVJVjZ1OWZlLW53YXRkTGo4Q0Q5clZlYllpa2E2aFpiekJUTTByVjVmMnlMbjBtdzZ5ZW9sUlh1MjR6aFVsYlZMcjdHMzN5dmk2YTd1WUQ5QXg?oc=5)
-
----
-
-### [Chronische Schmerzen: Gehirn-Schalter stoppt Nervenschmerz ohne Opioide - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzFlbllBY1NLbElXU2ZEbUlLb2h2b01PZTlBQXNwR0N0STdkSHpnVkJnU3l2RGljRGNWOF9UQldpYkJ5ek1hMmFxYXJjeGxJeGNCSUpVUm1hTF9lRGtJM0ZxZW1TQ0RZemFCc1ktTUh2bG1QN1EtSXVtNXdkT1B4anZEdGVoaTBmWTlJV0s2QXZtcUdSbEJpemwwWHdtdE1jMkYxcGlPelRnMzFPLXNpbGxYbS1VaTJmcm5n?oc=5)
-
-2026-08-19 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzFlbllBY1NLbElXU2ZEbUlLb2h2b01PZTlBQXNwR0N0STdkSHpnVkJnU3l2RGljRGNWOF9UQldpYkJ5ek1hMmFxYXJjeGxJeGNCSUpVUm1hTF9lRGtJM0ZxZW1TQ0RZemFCc1ktTUh2bG1QN1EtSXVtNXdkT1B4anZEdGVoaTBmWTlJV0s2QXZtcUdSbEJpemwwWHdtdE1jMkYxcGlPelRnMzFPLXNpbGxYbS1VaTJmcm5n?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzFlbllBY1NLbElXU2ZEbUlLb2h2b01PZTlBQXNwR0N0STdkSHpnVkJnU3l2RGljRGNWOF9UQldpYkJ5ek1hMmFxYXJjeGxJeGNCSUpVUm1hTF9lRGtJM0ZxZW1TQ0RZemFCc1ktTUh2bG1QN1EtSXVtNXdkT1B4anZEdGVoaTBmWTlJV0s2QXZtcUdSbEJpemwwWHdtdE1jMkYxcGlPelRnMzFPLXNpbGxYbS1VaTJmcm5n?oc=5)
 
 ---
 
@@ -94,6 +94,14 @@ permalink: /news/rotigotine/
 
 ---
 
+### [I’m a gut scientist – six signs your digestion isn’t normal - The i Paper](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
+
+2026-08-19 <span class="news-indication-tag">MS</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEF3X3A1eHBCcno3eGtWaW91Q2E4SmVIaTN4NW1LakZ6YUQyQ2Fmb2hMaUtCb1hSZzBjcGFtNHRlNExybHNKT1JBeUJtVi1odndDQTlfQ2FhQl9QN1pydGNLYURZU0xpVlFXS1BBZGN4NWZ6cEtsV3hFYXZQZHphblFiQVpBTnBV?oc=5)
+
+---
+
 ### [Ebola en RD Congo : plus de 5 000 cas recensés, l'OMS redoute une propagation internationale - France 24](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWhNcGMwUGo2R3NGdkxQeXJnSkZ0S2pVbzBncE9ua3VubFVVeG9FdlhLZ1ZTX19WU2RzcGxlbTIyRG1yVFhDZ0VqLUFDYzdvdDdLMXc0TERhSUZlVUVlTlUxQnE3X2lkcG9iS21KaVVsa2Vla3hvNXJ5TWpZcHJUdWwzSGt1ZEY5X01lZHl5UTkxLVBscjVqemxYOF9WWkkxY0RkcW55bkE1N0NYWG9lY1pUN0NFay1GMDhtRlBqaTU?oc=5)
 
 2026-08-19 <span class="news-indication-tag">MS</span>
@@ -110,6 +118,14 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Tasas de vacunación escolar en EEUU bajan ligeramente y las exenciones alcanzan máximo histórico - Los Angeles Times](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcUhiOVZvR3dYREozWjctWW1sWWJxYXJJVTEtLVY4OWtzd0pTMlJScTZHUzVWVmtMOENMRnVFYlgtX0Q1S1ZQdnBYOGlDbmtvVW1nM25BQk9TQW1lRk0yaDFzTVAzQWkxMTczMzkzMnkzZ1ZSd21ZRE05aGZ4cVl5WHZyN015dXIyR0NQM2hpVDdkenY5TUs3Y2IyT2pJbUpSRlgyQ0pYMktCMzF2Z3lRQXMtemQ2UDVnWGRnVzlQWFpRYS1BWHRxNTRQSWtGamE2cWtidnNfNDFBN29Valdpb3J0TGdhOWlG?oc=5)
+
+2026-08-19 <span class="news-indication-tag">MS</span>
+
+來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcUhiOVZvR3dYREozWjctWW1sWWJxYXJJVTEtLVY4OWtzd0pTMlJScTZHUzVWVmtMOENMRnVFYlgtX0Q1S1ZQdnBYOGlDbmtvVW1nM25BQk9TQW1lRk0yaDFzTVAzQWkxMTczMzkzMnkzZ1ZSd21ZRE05aGZ4cVl5WHZyN015dXIyR0NQM2hpVDdkenY5TUs3Y2IyT2pJbUpSRlgyQ0pYMktCMzF2Z3lRQXMtemQ2UDVnWGRnVzlQWFpRYS1BWHRxNTRQSWtGamE2cWtidnNfNDFBN29Valdpb3J0TGdhOWlG?oc=5)
+
+---
+
 ### [Five-year-old raises thousands for charity after 'living nightmare' cancer diagnosis - Grimsby Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTi0wR0pVSFF2TWFYVl9Gb1p3c2FuSmJhc01KQzZhTUZHdGJvZVBYVzV1UjEwMWdhdmtPT0UwSVF2SkotM0hnQkRhdDRxc3J6aGpmRlktakdxRXZaZ1hZMnYwbVdhbmw4SzIxMGJZVWFNUHQ3U0M4MS03TUtFdW1wMUU1cjZTdkViTUc1RlZnR3NtTjlY?oc=5)
 
 2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -118,11 +134,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Vitamin K2: Neue Studie belegt Schutz vor Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
+### [Vitamin K2: Neue Studie belegt Schutz vor Gefäßverkalkung](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
 
 2026-08-18 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
 
 ---
 
@@ -131,14 +147,6 @@ permalink: /news/rotigotine/
 2026-08-18 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xkS2JxeGZBV1RxcHoxRlVzdUFFeENMZFhNX3g3U040M0lsMlNVQWFrUGl4cUlQLUdsM2JidmFpY2JwNjhJbVZTNmdndzA3YnVHOG9oSUJBNW41LWNILWl6UHdMWk5feHJoQUZXdF9QUl9Yekc2cng3cXlhMHpsNVhrUU5PTkdSVnRpZzFpWQ?oc=5)
-
----
-
-### [One dead and hundreds ill in UK salmonella outbreak 'linked to imported eggs' | ITV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXNnLW12dnN0a0JRNF9tZmFXT2hUWU1vN0VXZjdMaGt1UE9xXzhUNTZxaGNSWGllSWg4ckJGUlktNGt2TmRDVHp3aG5aMTNCTGlUZGx0bGRGRmItbVZ1ZVk5aFFPZTR6b1piSnJmTXBvSHAtOHBvdVpId2h2MWRKdHJMMHBOLUpfTTFnZ3NjYUJtNGpMWDhrNG9EMmdvTUZyU1AtT3QxX3JXcXhxOUdLcw?oc=5)
-
-2026-08-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[itv.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXNnLW12dnN0a0JRNF9tZmFXT2hUWU1vN0VXZjdMaGt1UE9xXzhUNTZxaGNSWGllSWg4ckJGUlktNGt2TmRDVHp3aG5aMTNCTGlUZGx0bGRGRmItbVZ1ZVk5aFFPZTR6b1piSnJmTXBvSHAtOHBvdVpId2h2MWRKdHJMMHBOLUpfTTFnZ3NjYUJtNGpMWDhrNG9EMmdvTUZyU1AtT3QxX3JXcXhxOUdLcw?oc=5)
 
 ---
 

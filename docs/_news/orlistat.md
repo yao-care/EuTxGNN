@@ -54,19 +54,19 @@ permalink: /news/orlistat/
 
 ## 相關新聞（7 則）
 
-### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
+### [An ‘Exercise Pill’ Just Cleared Its First Human Test](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-08-19 <span class="news-indication-tag">obesity</span>
 
-來源：[vanityfair.it](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
+來源：[Gizmodo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
 
 ---
 
-### [Hirnblutung: Intensive Blutdrucksenkung reduziert Schlaganfall-Risiko um 38% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDN2TjJxSHEyanlHZXVIdVZFdG5ScWo4M1kxNUYxV0dHUVRqczIxLWFzNk9OTHU3NHgyclNWMVFqR0VZWmZBZmRKQkJlZ1p2YmVSMGQ3aHhNQmpyczZHN3ZHOW9BSGxOQUM1bVpGOTU5TWw2RG84ckFtZnBSalNRMWg5RGV4NmU4RzNFc1pDN0UyWGZNNTYxRFVqVkk4U0lBTWMtbXRsaTZQSGd4cEJTUjR0TGJyUjZtTjhzMA?oc=5)
+### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
-2026-08-18 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDN2TjJxSHEyanlHZXVIdVZFdG5ScWo4M1kxNUYxV0dHUVRqczIxLWFzNk9OTHU3NHgyclNWMVFqR0VZWmZBZmRKQkJlZ1p2YmVSMGQ3aHhNQmpyczZHN3ZHOW9BSGxOQUM1bVpGOTU5TWw2RG84ckFtZnBSalNRMWg5RGV4NmU4RzNFc1pDN0UyWGZNNTYxRFVqVkk4U0lBTWMtbXRsaTZQSGd4cEJTUjR0TGJyUjZtTjhzMA?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
 ---
 
@@ -82,7 +82,7 @@ permalink: /news/orlistat/
 
 2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzktbmRPVXZPZmw4SlJ5RVZBVDZOVkU4QnpSS3Z3NzJqUGtBUkxkZy1ubG5Mc0VrOEs5cW5ZVm1hWVNoaHVjM0NwOVE1bU5Zc1BqSXoybUo2X1dIbDRqTnZxMFpqSXpSczdKZkx5enFmbldsVlBoWDlsaVptbHZyZ0xwZU9ZR2R0SUFOdHdTdEw5d9IBkgFBVV95cUxPZ0MteXZtLUFoUlM3M01wQVhlUGVEY3g0QTVMUm04bmk5Qy1IWVFxMDZuMV9ib0c5U01ZRVhFT1B4UG5neXVBb1R1Ml9oVlJna2xqN0diYlQ0QThrV3ltdlZCcFVwZjFWeFBpUlZJZUNaTW0yRnd3SUtuVnlfTGttb0FXZzktQUZOWVNfUnV5V0RWQQ?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [« La plupart des effets inattendus se sont révélés positifs » : les surprises d’Ozempic, Wegovy et Mounjaro… au-delà du poids - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
+### [Hirnblutung: Intensive Blutdrucksenkung verringert Risiko für erneuten Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
 
-2026-08-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-08-18 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWtsOTZsdi1LQS13LWtac2ZHR0pTTXpVMjUzWVd4SXc1Yk1YRzk1dk5LaFZuWERyMXViNjZjMldERE5IX0lURjZTY0xTeS1USWRKVThBeGxwalBiRl9FRGVMTXZndlFwOWVBYVVfU0I0ZTF6aDRKRDVVTEd4cTVkckZhWXltdjFGZE9PdXBiYUJCc1FLeDFpZjZDT0FjbGREMVRYUFF0SkJULWx0VDZrUEF2NUNMblJNeU5LMTJZcnlfTTRvNmF0bG5IaGxXUE9Fbi12RlVjREtoV0JueUh6VDdmZkJodFlENjBad1lR?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
 
 ---
 

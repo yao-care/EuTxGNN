@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
 ---
 
-### [Hirnblutung: Intensive Blutdrucksenkung reduziert Schlaganfall-Risiko um 38% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDN2TjJxSHEyanlHZXVIdVZFdG5ScWo4M1kxNUYxV0dHUVRqczIxLWFzNk9OTHU3NHgyclNWMVFqR0VZWmZBZmRKQkJlZ1p2YmVSMGQ3aHhNQmpyczZHN3ZHOW9BSGxOQUM1bVpGOTU5TWw2RG84ckFtZnBSalNRMWg5RGV4NmU4RzNFc1pDN0UyWGZNNTYxRFVqVkk4U0lBTWMtbXRsaTZQSGd4cEJTUjR0TGJyUjZtTjhzMA?oc=5)
+### [Hirnblutung: Intensive Blutdrucksenkung verringert Risiko für erneuten Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
 
 2026-08-18 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDN2TjJxSHEyanlHZXVIdVZFdG5ScWo4M1kxNUYxV0dHUVRqczIxLWFzNk9OTHU3NHgyclNWMVFqR0VZWmZBZmRKQkJlZ1p2YmVSMGQ3aHhNQmpyczZHN3ZHOW9BSGxOQUM1bVpGOTU5TWw2RG84ckFtZnBSalNRMWg5RGV4NmU4RzNFc1pDN0UyWGZNNTYxRFVqVkk4U0lBTWMtbXRsaTZQSGd4cEJTUjR0TGJyUjZtTjhzMA?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMG1VZ2RBc2k4Um1OMXlsLW1UdzBiWnRpano1Sjl2Z1JBRHZJQUxDUWJBTk5QeHlDYnhTNy1kNEUyTXFuSGRzRnkwbGNkeWlMRGZPMzRvRjNJMmNGdmVZdVZmdWpBSFQ5RGhvUTNMaVJOSV9saGpaN1kxZUtyV0o2eWJsWjRmMk1yN1VXczN0OV9UT0ZLNnp2X0dFZUc5ZURxbEtMRFIxaXBrdm1ZRkZNY1JnV012WDUybkNKS0I1WHhVUUkzVUdXNFdYSHUwdEZPYTdncjRYLTAtWVNLS2JVdlNybzlVUQ?oc=5)
+
+---
+
+### [Heart doctor avoids five things at all costs after doing 8,000 operations](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
+
+2026-08-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRPWG9zOWZBTDJmRUNGT2d5UHE1aFZIcE8waGpFclNHSmxTR2NsQkRCeDlJZ1ZxRmt0T25lQkE0QUVpS2pvQ3dxbDZFdG9DejRvcjdXWXBBa3dlS3VvLTA2UlpJejk0ZVQzVFB0alhadF9tVEN0YU5SejRVaFgydmVHbnlINUxLTTZBVDBlY3FDTUZZbFk2VDJkLVZmUDhpcUE2LUhSSENrV1Qz?oc=5)
 
 ---
 
@@ -78,19 +86,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bluthochdruck: 5 Minuten Atemtraining senkt Druck um 9 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
+### [Bluthochdruck: 5 Minuten Atemtraining senkt Druck um 9 mmHg](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
 
 2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3N4blNFMzNzTzZ5T1ctZGFrc2NidmdFZXZFVjhDMXNUd1NPQ0FHNXpVUmctTTJScTRFaDVpT1RkdlgzT25lTFpfN3JpQ0poVVd4Q3hkNndfQS10SlRHMDNlWlFDQkFkUDA1WUxwVUN0SnA1N05ETFV6amJYclpwREltOGlNTmMtNHdyWVJ2UlVzdUx3bWhZZk1SVEZBTkZrRExUS0pjQ3NwdUU?oc=5)
 
 ---
 
-### [Bluthochdruck: Kalium verstärkt Salzreduktion signifikant - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVKcW5vaklLSk9kTjNTaHI2QjJXOUVZWjRXWlRWei02U0drMFJ0YTJOTWVMN2tpQm1MZkd4RDUtSm1BdVVlUXZ0Qnl3YUxwR2d6YkFZempFaDhyb3YzSUpBdTN2ekZVX0ppeGhteWFBYlY0V0tEZ01MWjlRN2dGM3ZmUGRhUzUwakZUX01tSmJGdTlBRjlSUWcxVXlDMnNxSGVoWTN6ajZCQQ?oc=5)
+### [Bluthochdruck: Kalium und TCM-Phytotherapie senken Blutdruck](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWRLMDdJUkxjc1l2eGpMR2NwbkhUaU5YaXNDMFFwSWp0SHJCaXFzLW5teDY3S0ZmaEFNbk1HT0pSbG1ZQ0RjZ0FoaHZELVJ4cW93cFFRdjlSMVVNMko5WjVxUTZRYzN1ZWRtQk05OGtuVVdydjBNMzRGU08zVWQ2SzlOZnpFRFltdDZjeEV3T3h6b3JpOThnVEZacEFuWmpWQVk2NTdHdzQyMFBh?oc=5)
 
 2026-08-18 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjVKcW5vaklLSk9kTjNTaHI2QjJXOUVZWjRXWlRWei02U0drMFJ0YTJOTWVMN2tpQm1MZkd4RDUtSm1BdVVlUXZ0Qnl3YUxwR2d6YkFZempFaDhyb3YzSUpBdTN2ekZVX0ppeGhteWFBYlY0V0tEZ01MWjlRN2dGM3ZmUGRhUzUwakZUX01tSmJGdTlBRjlSUWcxVXlDMnNxSGVoWTN6ajZCQQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWRLMDdJUkxjc1l2eGpMR2NwbkhUaU5YaXNDMFFwSWp0SHJCaXFzLW5teDY3S0ZmaEFNbk1HT0pSbG1ZQ0RjZ0FoaHZELVJ4cW93cFFRdjlSMVVNMko5WjVxUTZRYzN1ZWRtQk05OGtuVVdydjBNMzRGU08zVWQ2SzlOZnpFRFltdDZjeEV3T3h6b3JpOThnVEZacEFuWmpWQVk2NTdHdzQyMFBh?oc=5)
 
 ---
 

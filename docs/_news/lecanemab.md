@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,43 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
-### [Typ-2-Diabetes: Zeitgesteuertes Essen senkt HbA1c um 1,12 Punkte - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
+### [Siete señales que pueden alertar de una prediabetes y que muchas personas pasan por alto](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
 
 2026-08-19 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
+
+---
+
+### [Diabetesprävention neu denken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
+
+2026-08-19 <span class="news-drug-tag">Dapagliflozin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
+
+---
+
+### [Diabetestherapie | Medikation des Typ-2-Diabetes wird im Alter zu selten angepasst](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSVJPVTdtTlBqMjExVDkwSEh6Z013c1lFTnBxYTRFazlCdzhrenRITnB0dXdQUGdkTTRsejE0QU1NbVpBb2R6aVVDX2JDalk2cWtVT1FaVmg2WlFkUlhBcXVqMmZBMmE1T24wSmFtcEE2MENfeVRvUnJaNE1UUm1CU0syM25FdU9fYVRZRDBWQ1VmUVpQMzlRNUdkVk5wU1hEZGNwNnRYOTYtSHM1R3doT05wTVVkTTE2NDZhY1BqalFFX3ZpY080SmNweTJ1M2Z2?oc=5)
+
+2026-08-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSVJPVTdtTlBqMjExVDkwSEh6Z013c1lFTnBxYTRFazlCdzhrenRITnB0dXdQUGdkTTRsejE0QU1NbVpBb2R6aVVDX2JDalk2cWtVT1FaVmg2WlFkUlhBcXVqMmZBMmE1T24wSmFtcEE2MENfeVRvUnJaNE1UUm1CU0syM25FdU9fYVRZRDBWQ1VmUVpQMzlRNUdkVk5wU1hEZGNwNnRYOTYtSHM1R3doT05wTVVkTTE2NDZhY1BqalFFX3ZpY080SmNweTJ1M2Z2?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Zeitgesteuertes Essen senkt HbA1c um 1,12 Punkte](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
+
+2026-08-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
 
 ---
 
 ### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
 
@@ -78,11 +102,11 @@ permalink: /news/lecanemab/
 
 ---
 
-### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
+### [Il «gene della magrezza» che cambia il metabolismo: una rara mutazione protegge da obesità e diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
 2026-08-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[vanityfair.it](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkFWSW5GcEtSSmZ4blVRQjV2c1dCcVhzXzZ0c1N6M0ZObTYza1NWQzJvOUFnYWZRaXp2Y2JvNW9lVHFGNWxkTnQ5TUVESndlV1JUSzc5Y2s0cGJOc1hkV2xNbVBQWTNhRFdPWnplTXdpNXVQSTdIdmlDZGdvWmlVM3JKSkNVNE1zMlg4RHFyWVZkOE1ncHJwTXlDQ3o4UFVHdFhhMnpvSHRoMmlURTIyUEhRbjRrRVdUVUdmSVJzMlRHck1JSXZhQXF6WQ?oc=5)
 
 ---
 
@@ -91,14 +115,6 @@ permalink: /news/lecanemab/
 2026-08-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[La Provence](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU05zYlNZYVdMenpmQ1lmS2dPalJITjNoZEJ2Z01UUVJvM2sycnJVZkNjTlFYVTc4TGpNUVJacTZuMkpFeHMtZnNEbDdEQmk5ZUNxMFZVWERIdzBWLUs0SkNOQUNHbWM1cDBDR0ZwT3BYZVB4WE0yemNlZ3daUHp3WTNEM1lYVkhvNUx2eXZpZ0cyYkxiWk1kbXVxeDhOWjZRdWUzRWNpNGJxNGJ4RUFqVGlVZC03OW1XNWZFUjVLdE5qb3dVSnRJelNOZ3NWSDgySzBHUmhOeklkbnBOQk5VazdESDhHOU0?oc=5)
-
----
-
-### [Scientists Get a Step Closer to Strengthening Muscles Without Exercise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
-
-2026-08-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Newsweek](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzhjcWlJSUZUX0RIREprQlVfNi1TY21ER2k5a0k1RFBZSkM3dTF6SUFjTGpRNHczMm83T1d0VldDU3lRelNkMzltTkxfZElaX2c2WFhCY05BOTByeHlhOENUSDEwYlBGS016YUZocFpjTmMtNDY1ZUVseE51VTdIZ3cxZS1aSE9jemdNaE1XOVRCbm9BUkFkWi1mWQ?oc=5)
 
 ---
 
