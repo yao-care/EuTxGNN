@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [Expertos abogan por tratar la obesidad más allá de la dieta y el ejercicio, y destacan la importancia del descanso](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+### [Plus d’un adulte sur deux est touché : comment la Polynésie française tente d’enrayer l’obésité - Le Télégramme](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGdZUUJrYm1leGV4WDNSR194VHZKZVA2UllPTnhjZnI3QmhzcktWakMzSjNUaW93SzhzdTd4Qkt4eXRGNlNBd1BOSlA0dDU1NmprblNxMHAzcWUzemlJNDdweWxEa2hJcXVBcFZqLTZWY1BQYmNfVk83SGtzWVpmMlhnMkVNbTE3S3ctY2dLejhMM0xtWE5xMm40MDY0bERaMG5ZZXhueGJZNVI0dDdLSjVWLXpIRVhKaVBhLUZlWm80bUUtZWJtNEhZdVpJd3lrVk1F?oc=5)
 
-2026-08-21 <span class="news-indication-tag">obesidad</span>
+2026-08-21 <span class="news-indication-tag">obésité</span>
 
-來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+來源：[Le Télégramme](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGdZUUJrYm1leGV4WDNSR194VHZKZVA2UllPTnhjZnI3QmhzcktWakMzSjNUaW93SzhzdTd4Qkt4eXRGNlNBd1BOSlA0dDU1NmprblNxMHAzcWUzemlJNDdweWxEa2hJcXVBcFZqLTZWY1BQYmNfVk83SGtzWVpmMlhnMkVNbTE3S3ctY2dLejhMM0xtWE5xMm40MDY0bERaMG5ZZXhueGJZNVI0dDdLSjVWLXpIRVhKaVBhLUZlWm80bUUtZWJtNEhZdVpJd3lrVk1F?oc=5)
 
 ---
 
@@ -86,27 +86,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [Nuevo reto contra la obesidad - Portada - El Latino](https://news.google.com/rss/articles/CBMid0FVX3lxTFBabVd0RDhtRDQ3cnZjUlZVMkdBajN2TzBkZFBGak1Ea3phbko0bWUyRDhMNVpDa1ltbHNwZWZCdlRCSEZBcUNKT3pSSmhCZzRVVHZrOHlPeHZpcV9jMEhzS0NmOWZtcnZ6SEc2bnotV3JEbjA1VHNv?oc=5)
-
-2026-08-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Portada - El Latino](https://news.google.com/rss/articles/CBMid0FVX3lxTFBabVd0RDhtRDQ3cnZjUlZVMkdBajN2TzBkZFBGak1Ea3phbko0bWUyRDhMNVpDa1ltbHNwZWZCdlRCSEZBcUNKT3pSSmhCZzRVVHZrOHlPeHZpcV9jMEhzS0NmOWZtcnZ6SEc2bnotV3JEbjA1VHNv?oc=5)
-
----
-
 ### [Obesità: survodutide, doppio agonista GLP-1/glucagone, riduce il peso fino al 16,6%. Studio di fase III sul NEJM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZEl6MldKQmY0VVl6VnRvMVZhTEdIcGh2RHh1RjA0ekpRamlDZ1lKV2paLTRwV0o2Szlldkx3dF81MVNwbE14RDhhS0ZVV1BTa2lvU2tIS21lRGoxdjBNR0hDcUxsLW8wMXozQmVPMFVJLTVXa1dDM0VadTVmanJReEZfaTRhNHFnMzAyODF3blR0OFRiMEhuSTVoUmlxWkN0VktVY3RuVkRNd0RNaGgtVmNNNzJWRTBLaHRrMWpXVzF6S1RaQmNEbkoyTTl1SkJYdnhZTmhzUmQxRkY1M3FtZm92cDQ?oc=5)
 
 2026-08-19 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">obesità</span>
 
 來源：[pharmastar.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZEl6MldKQmY0VVl6VnRvMVZhTEdIcGh2RHh1RjA0ekpRamlDZ1lKV2paLTRwV0o2Szlldkx3dF81MVNwbE14RDhhS0ZVV1BTa2lvU2tIS21lRGoxdjBNR0hDcUxsLW8wMXozQmVPMFVJLTVXa1dDM0VadTVmanJReEZfaTRhNHFnMzAyODF3blR0OFRiMEhuSTVoUmlxWkN0VktVY3RuVkRNd0RNaGgtVmNNNzJWRTBLaHRrMWpXVzF6S1RaQmNEbkoyTTl1SkJYdnhZTmhzUmQxRkY1M3FtZm92cDQ?oc=5)
-
----
-
-### [An ‘Exercise Pill’ Just Cleared Its First Human Test](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gizmodo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
 
 ---
 

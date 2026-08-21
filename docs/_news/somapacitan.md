@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,15 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
-
-### [Endometriose: Studie zeigt 46 Prozent höheres Diabetesrisiko](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0xhLUZwMmFGNTVwVzJ6TTVkQTZ0OFQ5RTNUNU9EWXMyMzZyUlFIeFRPREJHaVNtQzNYNVRibXlYcDFKTERvVlRVNDFzay16QzNtcFRuUFZoOTFKajdKQzJZeXJSbWdsdWFIbzR6Nmo3dmQzSmZ1QVc1NnkwS2xkY1BuUTAzNE1DVkZOeVRJTERoZmZpZE1PS0o0Q3A1aTkzdS1JZ2g5WmxnX0dIZlNiYzFRTVM1Y1c2QWxfaTQ1RC1aODhV?oc=5)
-
-2026-08-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0xhLUZwMmFGNTVwVzJ6TTVkQTZ0OFQ5RTNUNU9EWXMyMzZyUlFIeFRPREJHaVNtQzNYNVRibXlYcDFKTERvVlRVNDFzay16QzNtcFRuUFZoOTFKajdKQzJZeXJSbWdsdWFIbzR6Nmo3dmQzSmZ1QVc1NnkwS2xkY1BuUTAzNE1DVkZOeVRJTERoZmZpZE1PS0o0Q3A1aTkzdS1JZ2g5WmxnX0dIZlNiYzFRTVM1Y1c2QWxfaTQ1RC1aODhV?oc=5)
-
----
+## 相關新聞（9 則）
 
 ### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
 
@@ -126,43 +118,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Siete señales que pueden alertar de una prediabetes y que muchas personas pasan por alto](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
-
----
-
 ### [Typ-2-Diabetes im Alter: SGLT2-Hemmer senken Sterblichkeit um 32%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXhNeU5jTmRsOFhEby1kblI2MmpTQkVuV0N2YmN2cm1RME1lc1VjWjRfdUJHRDhCVlo0Rm5vMFhSbFB2aFlEODFHdjhGMGYzVEM0X3F3WVcwbGJHMENLTE0yQ0JoeWZPQjRyNDZicTEtd1c1M2VaZHlIa2dTbno1ZFlmVTRXUWdNcW1uTUFRT0ZBcFJzS2RzSW5IVzJlSG9UZEZLSVlEdmlHbnU5Nmx6V2lHMXNWZGh6Z1hZUQ?oc=5)
 
 2026-08-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXhNeU5jTmRsOFhEby1kblI2MmpTQkVuV0N2YmN2cm1RME1lc1VjWjRfdUJHRDhCVlo0Rm5vMFhSbFB2aFlEODFHdjhGMGYzVEM0X3F3WVcwbGJHMENLTE0yQ0JoeWZPQjRyNDZicTEtd1c1M2VaZHlIa2dTbno1ZFlmVTRXUWdNcW1uTUFRT0ZBcFJzS2RzSW5IVzJlSG9UZEZLSVlEdmlHbnU5Nmx6V2lHMXNWZGh6Z1hZUQ?oc=5)
-
----
-
-### [Scientists Find Just 3 Minutes of Sprinting Can Transform Blood Chemistry](https://news.google.com/rss/articles/CBMioAFBVV95cUxPS01yNmNubUlUcXhDdHJRSmpLNnZhcGFHNEVEei1LZ2FzSVJkUWJnWHc2N2JfN1d3YmFKOGFpRGl5bGt6UGVscGJ2QmlydnJidmQybjRjZVBvd2x5WnU5RHBMQlVEZktGanFLVTNSdEFjYWxQYzllRk1CcUNNWnNUa2dfdUpIYlNHX05oendEcTNCQnhfcmhWNDJuOVVSRjJL?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMioAFBVV95cUxPS01yNmNubUlUcXhDdHJRSmpLNnZhcGFHNEVEei1LZ2FzSVJkUWJnWHc2N2JfN1d3YmFKOGFpRGl5bGt6UGVscGJ2QmlydnJidmQybjRjZVBvd2x5WnU5RHBMQlVEZktGanFLVTNSdEFjYWxQYzllRk1CcUNNWnNUa2dfdUpIYlNHX05oendEcTNCQnhfcmhWNDJuOVVSRjJL?oc=5)
-
----
-
-### [Una doctora da las claves de la fotoprotección - IM Farmacias](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkhETWZkMjREZGJQci13U2VtZnFHeGQ1dU5ocFNfYTlMalRweEx0VXJFTk1JYXlER3hZaHQyMklVclJlcUQ0M2pScllzVFViSGZ6ZkQyTldIRmowXzkzdkdUOVQwZU1TWUl0eEtxTEhrMTNwUk0tY0Y1MHNGYUNJZ0F2eENxclBCQWt6THVsaEdIbkJRaGFR0gGSAUFVX3lxTE5ZNHFfazlyWVhnQ29lUjVTVTctMkhnaVlyYjcwTjNDYXI2TWVCX3hteFpNdHB5S19VVHNCVU1aemhxN3ZXT2Y0M3BXb3pkT2tYbTZDTVRDSURJdGllbXhLSWFqQmFyWWlmb0NwTTBRTy1qWjRmZnJ2Y09aN3ZjTWVqUV92RmJ5Z29nMlNrenZvcmJR?oc=5)
-
-2026-08-19 <span class="news-indication-tag">asma</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkhETWZkMjREZGJQci13U2VtZnFHeGQ1dU5ocFNfYTlMalRweEx0VXJFTk1JYXlER3hZaHQyMklVclJlcUQ0M2pScllzVFViSGZ6ZkQyTldIRmowXzkzdkdUOVQwZU1TWUl0eEtxTEhrMTNwUk0tY0Y1MHNGYUNJZ0F2eENxclBCQWt6THVsaEdIbkJRaGFR0gGSAUFVX3lxTE5ZNHFfazlyWVhnQ29lUjVTVTctMkhnaVlyYjcwTjNDYXI2TWVCX3hteFpNdHB5S19VVHNCVU1aemhxN3ZXT2Y0M3BXb3pkT2tYbTZDTVRDSURJdGllbXhLSWFqQmFyWWlmb0NwTTBRTy1qWjRmZnJ2Y09aN3ZjTWVqUV92RmJ5Z29nMlNrenZvcmJR?oc=5)
-
----
-
-### [Diabetesprävention neu denken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
-
-2026-08-19 <span class="news-drug-tag">Dapagliflozin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
 
 ---
 

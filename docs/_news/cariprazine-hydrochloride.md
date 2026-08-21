@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（13 則）
 
-### [La epidemia de ébola en RD Congo «avanza de forma exponencial», según la ONU - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0o2NUtaOS1qNkhyamdfVllyejFrbkJIS0luVldfNGlvOVZRZV9OSFlXODU4dUdNdEVIWnRUcVljNkNGZWhMQWQzRzV6S3Vvb0ZkSG9seVFVeU1pNHFGX0Nidkc2RDZfcTB2NWRpTlJQaVpqSmhBTHV4UEtoeVBnN3VsZkZPZ3JUOHZVcm94NzRyazU3ZWlSYTkydGdXaEg2bDVrRm94Y3RXV2JNUTFIX0RXZVFOQS1xYU10dDIwUXVjWEJ1SG9LbWxR?oc=5)
+### [La OMS prepara 70.000 vacunas para combatir el ébola en el Congo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0xSLXpIUGRieTZmQ3dTanhjUjc5STZsUFJyVl9fWXhsRFlMY0FpNjlLeVIzUzFmQUhHNnZOUS1Od1FfY0VYOW5DQmdxS180LW1BRDlEbzAyZ0NYdExIa05pUWNEQUx4N1dhVlF6U0R2X1hCdVpJT1BzWlRpM0NXVnVOak9SeHYxbWRfUU1ZbnNHUHB2eVZZUzV6MVBZd0kwYXNXVNIBqgFBVV95cUxNU1JiRkVzLUk5X3k5VFdpNjZwWHR0cjBRdnd2TmVtemZVdm4xbEx4MGZUQU1MTEFrZHNXRjRJT2plN05RX1hFNnJDay1Wal95LVVOVkJTWTU2bkk3OTl6NlNnQ0ZHVUcyTDVvc01lWUQzblluQy1zTEdJN3BvQ09uanlQX1FPVnBsYkNGX0Y5dkxQVVJFR1RQM2ZjWDFrLVBKNHNZMU53SnhpZw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0o2NUtaOS1qNkhyamdfVllyejFrbkJIS0luVldfNGlvOVZRZV9OSFlXODU4dUdNdEVIWnRUcVljNkNGZWhMQWQzRzV6S3Vvb0ZkSG9seVFVeU1pNHFGX0Nidkc2RDZfcTB2NWRpTlJQaVpqSmhBTHV4UEtoeVBnN3VsZkZPZ3JUOHZVcm94NzRyazU3ZWlSYTkydGdXaEg2bDVrRm94Y3RXV2JNUTFIX0RXZVFOQS1xYU10dDIwUXVjWEJ1SG9LbWxR?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0xSLXpIUGRieTZmQ3dTanhjUjc5STZsUFJyVl9fWXhsRFlMY0FpNjlLeVIzUzFmQUhHNnZOUS1Od1FfY0VYOW5DQmdxS180LW1BRDlEbzAyZ0NYdExIa05pUWNEQUx4N1dhVlF6U0R2X1hCdVpJT1BzWlRpM0NXVnVOak9SeHYxbWRfUU1ZbnNHUHB2eVZZUzV6MVBZd0kwYXNXVNIBqgFBVV95cUxNU1JiRkVzLUk5X3k5VFdpNjZwWHR0cjBRdnd2TmVtemZVdm4xbEx4MGZUQU1MTEFrZHNXRjRJT2plN05RX1hFNnJDay1Wal95LVVOVkJTWTU2bkk3OTl6NlNnQ0ZHVUcyTDVvc01lWUQzblluQy1zTEdJN3BvQ09uanlQX1FPVnBsYkNGX0Y5dkxQVVJFR1RQM2ZjWDFrLVBKNHNZMU53SnhpZw?oc=5)
 
 ---
 
-### [Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTUNqNnFVUUkzZW9qRTcwd2o5NXZHckdoZThyUF9oczN6MHBCTmZVRXhsSlNlV1JYWW9STHBqOWtrS1c4QzFOWEhSdUVtNFFLdjN2WmE3UlVJaE9Vb3FJTnZldkI1TXhPV2s0bGRTdnQ2TjVrQXNxdnJPX2RCSjdqSzRhT1JYSi1yS3BIaHNOUHlwOVdWdFc2U1dVMENyQk9hMnJHSzBaYnFjakVmNHgzQ1lXM3A4Y2lPbE1QOVVnUFZ0M3JSU1lTczhfUzQtblZQNUt1R3NkbVlmVlZjbzBLQXpvU0xjaEFFQnhua2JJRDlhQQ?oc=5)
+### [Herzinfarkt: Experten erklären, wie dieses Vitamin Gefäßverkalkung bremsen kann](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQclphdFpQbWowLWVQYVd4RHFlVWtyaGZIYUxKTDNfR0lQaV9WbVFSSlYtOTFoYUpNX041b1FGMHYzbmFlNlo0UTl3eGs2UkljZElsVWJjQVBkYkJUMkg2VjNISXFud25kN2tPSW5Ia3RHaXVNZnhWV0ZId0x6WnRVRXZVa09ubWNJMjFhTlBGWnJvUmFYVVRuenB6Y3VMTTl5THRlZU1pX2V6dVY0b3dnc3QwUUlrRkd0N0J2TXJQOTJzNE1RTjdIREZVbWxKaThrellqSEZWSWhtWjRqN19JeHJn?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTUNqNnFVUUkzZW9qRTcwd2o5NXZHckdoZThyUF9oczN6MHBCTmZVRXhsSlNlV1JYWW9STHBqOWtrS1c4QzFOWEhSdUVtNFFLdjN2WmE3UlVJaE9Vb3FJTnZldkI1TXhPV2s0bGRTdnQ2TjVrQXNxdnJPX2RCSjdqSzRhT1JYSi1yS3BIaHNOUHlwOVdWdFc2U1dVMENyQk9hMnJHSzBaYnFjakVmNHgzQ1lXM3A4Y2lPbE1QOVVnUFZ0M3JSU1lTczhfUzQtblZQNUt1R3NkbVlmVlZjbzBLQXpvU0xjaEFFQnhua2JJRDlhQQ?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQclphdFpQbWowLWVQYVd4RHFlVWtyaGZIYUxKTDNfR0lQaV9WbVFSSlYtOTFoYUpNX041b1FGMHYzbmFlNlo0UTl3eGs2UkljZElsVWJjQVBkYkJUMkg2VjNISXFud25kN2tPSW5Ia3RHaXVNZnhWV0ZId0x6WnRVRXZVa09ubWNJMjFhTlBGWnJvUmFYVVRuenB6Y3VMTTl5THRlZU1pX2V6dVY0b3dnc3QwUUlrRkd0N0J2TXJQOTJzNE1RTjdIREZVbWxKaThrellqSEZWSWhtWjRqN19JeHJn?oc=5)
+
+---
+
+### [Felipe Isidro, catedrático de Educación Física: "Si no pasas este test de la OMS, tu cuerpo te está avisando que necesitas hacer ejercicios de fuerza muscular"](https://news.google.com/rss/articles/CBMigwJBVV95cUxNOWlKelB5X2ctTzF3SWswRzVEV0lMcFd5RzhVcFpsekZlalg3dHc1bVl3VXU1cUNCRFhDRXZRRElOY1N6bWNMaGd6MGFWWktnQWVLcGEtcVFGNFEteG5sUlRpQ0hmQ0d1VlNGYVBBd1hTaGdGemxFeHR2a3IzNjlLakZOSFZ3b1F4aDVsdWhxbWNRcDg3cHJKcF9NNEZUU1h3Ni1LS1g2bHMzUExtbmRCRXQyS3gzUjFIVGg0VVVjRU16QjFBYU4za0JWTnFPTDZ0dG1OZEppS21GbzRlNEZ4Q1BBTkJqVXlHak9Nd3ZXOER2NVAwQW9BRkVTYTdDbnJmWG1v0gGIAkFVX3lxTE9FM3lHOGRTUkNnT3pTRjM1ZEFUVFdyNFBNMkRCTjNVMG5acXlTY1daNms5WlNVWGxVeHFnTDBGT05QdWFGU1oyenFmZmQzYUp0S2t3R3FOVnZlOUZGdlRrMnc4d3hNaXA5aTRRcGw0TnB5YTlnUTE5YzR2OTNyYXlSTVRwMTBUTEsyUWtHOHJSd2l2U08xbWFxYm1YWXNWWU5kaEtIU0lPdE4zM3N2TndxWVZuOXVweUhFS1J6MWstQmJsMjNvY2RSTzJwTmhYN0NIYldSblF4VUdzaW9sd2F5N2MzdkdKaFF2SnlGRjE0dEVtY3Y0T2E0d01TQ1VLUzZBYmlUU3RjNA?oc=5)
+
+2026-08-21 <span class="news-indication-tag">MS</span>
+
+來源：[Trendencias](https://news.google.com/rss/articles/CBMigwJBVV95cUxNOWlKelB5X2ctTzF3SWswRzVEV0lMcFd5RzhVcFpsekZlalg3dHc1bVl3VXU1cUNCRFhDRXZRRElOY1N6bWNMaGd6MGFWWktnQWVLcGEtcVFGNFEteG5sUlRpQ0hmQ0d1VlNGYVBBd1hTaGdGemxFeHR2a3IzNjlLakZOSFZ3b1F4aDVsdWhxbWNRcDg3cHJKcF9NNEZUU1h3Ni1LS1g2bHMzUExtbmRCRXQyS3gzUjFIVGg0VVVjRU16QjFBYU4za0JWTnFPTDZ0dG1OZEppS21GbzRlNEZ4Q1BBTkJqVXlHak9Nd3ZXOER2NVAwQW9BRkVTYTdDbnJmWG1v0gGIAkFVX3lxTE9FM3lHOGRTUkNnT3pTRjM1ZEFUVFdyNFBNMkRCTjNVMG5acXlTY1daNms5WlNVWGxVeHFnTDBGT05QdWFGU1oyenFmZmQzYUp0S2t3R3FOVnZlOUZGdlRrMnc4d3hNaXA5aTRRcGw0TnB5YTlnUTE5YzR2OTNyYXlSTVRwMTBUTEsyUWtHOHJSd2l2U08xbWFxYm1YWXNWWU5kaEtIU0lPdE4zM3N2TndxWVZuOXVweUhFS1J6MWstQmJsMjNvY2RSTzJwTmhYN0NIYldSblF4VUdzaW9sd2F5N2MzdkdKaFF2SnlGRjE0dEVtY3Y0T2E0d01TQ1VLUzZBYmlUU3RjNA?oc=5)
+
+---
+
+### [La epidemia de ébola en RD Congo "avanza de forma exponencial", según la ONU](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUJ3aXNsalg1VUI3WXBVb2hLaUJFRmQyd0ZuQzNxdGZTNFUwYzNPb0IzbjFRbEtDVUVRVEdSRkV6YXIwd3ByOWFQRUE4OVozY1lGQTVCSjkybkZ2NEFtc3FBRjc4SUExdDdvUjJ5ZXRndlp0QzNuSWJFREJoUUVHSkhkTHdQY2ZPU1hXbXp5a2pFREIzVHJjNm1oX0tqQTRMMVBEWjZCcUFoekRvWDQ5N2xtZUJIVW1zSHJWZUNQRHBIMTRzcUVVSFl3RFZXRmc?oc=5)
+
+2026-08-21 <span class="news-indication-tag">MS</span>
+
+來源：[RFI](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUJ3aXNsalg1VUI3WXBVb2hLaUJFRmQyd0ZuQzNxdGZTNFUwYzNPb0IzbjFRbEtDVUVRVEdSRkV6YXIwd3ByOWFQRUE4OVozY1lGQTVCSjkybkZ2NEFtc3FBRjc4SUExdDdvUjJ5ZXRndlp0QzNuSWJFREJoUUVHSkhkTHdQY2ZPU1hXbXp5a2pFREIzVHJjNm1oX0tqQTRMMVBEWjZCcUFoekRvWDQ5N2xtZUJIVW1zSHJWZUNQRHBIMTRzcUVVSFl3RFZXRmc?oc=5)
 
 ---
 
@@ -78,27 +94,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
-
----
-
-### [Gavi destina 13 millones de dólares y 70.000 vacunas para frenar el brote de ébola](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmRlaFo2NGkyWllXQ1NmZzVtZVhlS1pUZnQ0M2xCT005MmFJSGJGMWpyaDNkaHZIQVpIQ3Zxa1loYTBHN2YyeDlQV3Y0SlF3RlotbjBJNXlPZGxmNVZmTktkMWdIenRLcUtsb25IZmtLMi03am9wb0Nla1k0elpjVmNsM3JCWnZWWmtZZHE2OUE0UFJ5WC1zODNHUWhaZGJjbmJJaFRmZnllYUhlUTZpNVFCb0Z1bnVqajZKeHN5X3RaMmVvTnViWEZ6UDM?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmRlaFo2NGkyWllXQ1NmZzVtZVhlS1pUZnQ0M2xCT005MmFJSGJGMWpyaDNkaHZIQVpIQ3Zxa1loYTBHN2YyeDlQV3Y0SlF3RlotbjBJNXlPZGxmNVZmTktkMWdIenRLcUtsb25IZmtLMi03am9wb0Nla1k0elpjVmNsM3JCWnZWWmtZZHE2OUE0UFJ5WC1zODNHUWhaZGJjbmJJaFRmZnllYUhlUTZpNVFCb0Z1bnVqajZKeHN5X3RaMmVvTnViWEZ6UDM?oc=5)
-
----
-
 ### [Sechs Etagen am Tag: Wie der Stockwerk-Zähler von Samsung Galaxy Watch, Apple Watch und Co. eurer Gesundheit hilft](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
 來源：[Netzwelt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5)
+
+---
+
+### [Families of infected blood scandal victims ordered to return compensation after 'payments made in error' - GB News](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTW5ILXN3a29nbUticzY0YW5oWHEzN2ljV0l2azFoeTBFZEEweWUyaGhnUFBodlhTYmRUbWNmNGZVQjE5UnpqQm5xZ2E0Q2FnbGJLMXhUNHJIbUFJSkRaaS1DUHZzVXplalYyYklzQ1J5RkVpX2pqMXZIZkRxRllBQlMxS3V6aG9TemV6UEozM3UxQ1NEMWVZV3MtYXBINnl3OW5ncV80anZMZ3VBTEtR?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTW5ILXN3a29nbUticzY0YW5oWHEzN2ljV0l2azFoeTBFZEEweWUyaGhnUFBodlhTYmRUbWNmNGZVQjE5UnpqQm5xZ2E0Q2FnbGJLMXhUNHJIbUFJSkRaaS1DUHZzVXplalYyYklzQ1J5RkVpX2pqMXZIZkRxRllBQlMxS3V6aG9TemV6UEozM3UxQ1NEMWVZV3MtYXBINnl3OW5ncV80anZMZ3VBTEtR?oc=5)
 
 ---
 
@@ -126,14 +134,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### ['Lovely and kind' teen battling return of rare cancer dreams of exploring Dartmoor - Plymouth Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM21YcUd0WmFIcGwwNzFveFBfajNveDQ1QTdoVzFVTW04TW42YXFxWWhXejJ4NjREUGxBSlZfVWg4b2VacUhiNWloVTVTNXJHTXk0S1BOTlUyaFB3eF9uXzI3Z2hVdUJtbDRWMm1HTDQwSzQ0YXdGcVpIUFVLQ2pfYWhXQjFrX2FlU282VDFzWXFKNzdwZDFZVNIBngFBVV95cUxQSFJsMmhwT2sxcWJTbC13S05GVVRVSV9uS3ltTHBpZzY3TDQ3aW9Pdk9oX1hoX2R1SXJfU0Q2cTlpTzJUNExMTzRzRk9iN2dsT19EZGxBVkl4b0hvLWtYOXA1bldxZXptVU9lZXZ6blJYS0Z5by1xVG8yanhvbnQ4LU1paHNIc2hOcFJHYjQ5UXcxTzJPY1BXb1dpRlFYdw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Plymouth Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM21YcUd0WmFIcGwwNzFveFBfajNveDQ1QTdoVzFVTW04TW42YXFxWWhXejJ4NjREUGxBSlZfVWg4b2VacUhiNWloVTVTNXJHTXk0S1BOTlUyaFB3eF9uXzI3Z2hVdUJtbDRWMm1HTDQwSzQ0YXdGcVpIUFVLQ2pfYWhXQjFrX2FlU282VDFzWXFKNzdwZDFZVNIBngFBVV95cUxQSFJsMmhwT2sxcWJTbC13S05GVVRVSV9uS3ltTHBpZzY3TDQ3aW9Pdk9oX1hoX2R1SXJfU0Q2cTlpTzJUNExMTzRzRk9iN2dsT19EZGxBVkl4b0hvLWtYOXA1bldxZXptVU9lZXZ6blJYS0Z5by1xVG8yanhvbnQ4LU1paHNIc2hOcFJHYjQ5UXcxTzJPY1BXb1dpRlFYdw?oc=5)
-
----
-
 ### [Tanya Byron: Stop misusing mental health terms like ‘triggered’ - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnlrTElldkJUS2w4cGcwWFgxS2Q1bzJjcWF5bDVaNWN5QXpFZlFqQUNkZ0d3MjdVN3A0OXo3eG9KV2o2YWtORG9GcEdOMzFaUWtPdGMyR3hfZ2ZsRUEzS3V2QVNIb3lFNXJpVzdTZXBDSTQ4X1YtY1hPYlFQWmZsR2RWOGZvQVNfdDZVUFBpbjVmU1NGZnhlejJydWFFYTRhTklKWFR3TDZTQ0hGQl9aQmt3?oc=5)
 
 2026-08-20 <span class="news-indication-tag">MS</span>
@@ -147,38 +147,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR0MHp0TmJSLXFMU19LWVdjeGlaaUNCX0x0Sm4xZzVHU3VDNHZkQVJZQmMtMTFxbTBtUERFTVI0ZTRjOWJhUVBJX29kdG1uSTJiUnNBeG1GWGZfMF9uYmU1b2stZFpQb2g5V2JrX2Yxc0s0ems3VkVuV0pnZDRYU0xxSGo5ZkY3MlRMYjdVVnlsRXNvcDFDR1ZlbTNvN3B3ZGlPUHh4NWFRRTla?oc=5)
-
----
-
-### [An ‘Exercise Pill’ Just Cleared Its First Human Test](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gizmodo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
-
----
-
-### [How going vegan for 1 month may affect aging, inflammation - Medical News Today](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmFiSlY1SDdQaGRlYk55N01KbFlpRV93M3k1bjV6dXlENUFNaFd2WHVaOWpQSUl0QloySFFoRjBKd1Y2X1BSdldqN09NOW1NSjhvaHdBeWdVQzFfeC1nMXhEREwweVJZVzBSU0wtQzdQSDA4d0NNNVF6T2JMSG85RDNoRzJ2UC02UEFSTUp4c3FBMnlXRm1SbjZKTkRiekI3?oc=5)
-
-2026-08-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmFiSlY1SDdQaGRlYk55N01KbFlpRV93M3k1bjV6dXlENUFNaFd2WHVaOWpQSUl0QloySFFoRjBKd1Y2X1BSdldqN09NOW1NSjhvaHdBeWdVQzFfeC1nMXhEREwweVJZVzBSU0wtQzdQSDA4d0NNNVF6T2JMSG85RDNoRzJ2UC02UEFSTUp4c3FBMnlXRm1SbjZKTkRiekI3?oc=5)
-
----
-
-### [People Who Live Past 100 Have a Surprising Abundance of Cancer-Killing Immune Cells](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
-
----
-
-### [Chronische Schmerzen: Gehirn-Schalter stoppt Nervenschmerz ohne Opioide](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzFlbllBY1NLbElXU2ZEbUlLb2h2b01PZTlBQXNwR0N0STdkSHpnVkJnU3l2RGljRGNWOF9UQldpYkJ5ek1hMmFxYXJjeGxJeGNCSUpVUm1hTF9lRGtJM0ZxZW1TQ0RZemFCc1ktTUh2bG1QN1EtSXVtNXdkT1B4anZEdGVoaTBmWTlJV0s2QXZtcUdSbEJpemwwWHdtdE1jMkYxcGlPelRnMzFPLXNpbGxYbS1VaTJmcm5n?oc=5)
-
-2026-08-19 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzFlbllBY1NLbElXU2ZEbUlLb2h2b01PZTlBQXNwR0N0STdkSHpnVkJnU3l2RGljRGNWOF9UQldpYkJ5ek1hMmFxYXJjeGxJeGNCSUpVUm1hTF9lRGtJM0ZxZW1TQ0RZemFCc1ktTUh2bG1QN1EtSXVtNXdkT1B4anZEdGVoaTBmWTlJV0s2QXZtcUdSbEJpemwwWHdtdE1jMkYxcGlPelRnMzFPLXNpbGxYbS1VaTJmcm5n?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
 ### [UK men with heart disease at higher risk of developing and dying from cancer - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
 
 2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
+
+---
+
+### [Caldo e dolore: perché le alte temperature ci fanno sentire più acciaccati](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
+
+---
+
+### [Compound produced after eating pomegranates targets stiff-heart failure pathway, early tests suggest - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjFlc0tzc2hIaFYyTHBGc210WTVRRFR0WThIUE9CYzJWMHlaX0NDOVdKX2FBR0dfcW1pM05nOEJHQzVLdjZUUXBiQmlWN1V1RGVDOHI0Q0pLTzExYWlsNC1ZdkNSWWNIdkUzSm5sS0pMbDBLQWx0Z1lMU1lFVUlNdVcwdGpCMVUzNHhQWHN3?oc=5)
+
+2026-08-19 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjFlc0tzc2hIaFYyTHBGc210WTVRRFR0WThIUE9CYzJWMHlaX0NDOVdKX2FBR0dfcW1pM05nOEJHQzVLdjZUUXBiQmlWN1V1RGVDOHI0Q0pLTzExYWlsNC1ZdkNSWWNIdkUzSm5sS0pMbDBLQWx0Z1lMU1lFVUlNdVcwdGpCMVUzNHhQWHN3?oc=5)
 
 ---
 

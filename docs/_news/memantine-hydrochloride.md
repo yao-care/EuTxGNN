@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（9 則）
+
+### [New Aldi 99p food item coming out Thursday helps lower high blood pressure - Daily Mirror](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdUlJcE5fWnFNMVhTUmktZDh2eXFWWUhzRU1Gc0luRWU1MjVWYlpfbUtxUDcyS0twT25qem1NT2pBZThQcXdhT2tDU1BYOEV5cHc2SUNjZ2NUYTVXb2VMeUxkWUx0d3k1N3hxSGdFUTRiZEs2OE5J?oc=5)
+
+2026-08-21 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdUlJcE5fWnFNMVhTUmktZDh2eXFWWUhzRU1Gc0luRWU1MjVWYlpfbUtxUDcyS0twT25qem1NT2pBZThQcXdhT2tDU1BYOEV5cHc2SUNjZ2NUYTVXb2VMeUxkWUx0d3k1N3hxSGdFUTRiZEs2OE5J?oc=5)
+
+---
 
 ### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
 
@@ -78,6 +86,14 @@ permalink: /news/memantine-hydrochloride/
 
 ---
 
+### [Caldo e dolore: perché le alte temperature ci fanno sentire più acciaccati](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 
 2026-08-20 <span class="news-indication-tag">arthritis</span>
@@ -86,11 +102,27 @@ permalink: /news/memantine-hydrochloride/
 
 ---
 
+### [Ipertensione, spegnere l’infiammazione può favorire anche la riparazione dei tessuti - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnVfYWs4OTZBVjFEV2F4aEVCaUxNbTV6cW5sUm8zWlBEN2tnUW1pYVZsd09KQTBtdlB1bmk0WHpsemtweEIxekJKSC14dHE2V2hJSFpPZDNSa1duYmVRRHAxU0p6bGRSZjFNS29ySDFObnJLTl9XQ3RRREtkTVZRRWlBUlVhdC1ZTjFnXzd3dHpOYTNIbzZuY3lBY1ljMm5ZS1Q1T2ZRcHZqTW9EQ01NcENaUW84cWVlUXVDOTRsdnXSAcYBQVVfeXFMTVNoUlEwOGpBeEZZUkN5aFBycVhJdGc0NjBvQ3VxUGFNVzRfRGVhT3Q4WVp3a2RwNFhNaWdoNFEtS2M5MVBEN3htMW81WHc1LXZGV3hYcVBGMnZENTdDdXJaX3JIMXdwX0ZYQ3M3X0NPcmlPRDNadjhaQkdNay1UUndGWVlYN2gxTFBGaUhVWmZmajNsWFlSUEdrSGhvZk1sdTdIYjZCaElsT2dQbnl4T0Vib0tBaGFZY2Z5ZkxveEFpUkVUdnNB?oc=5)
+
+2026-08-20 <span class="news-indication-tag">ipertensione</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnVfYWs4OTZBVjFEV2F4aEVCaUxNbTV6cW5sUm8zWlBEN2tnUW1pYVZsd09KQTBtdlB1bmk0WHpsemtweEIxekJKSC14dHE2V2hJSFpPZDNSa1duYmVRRHAxU0p6bGRSZjFNS29ySDFObnJLTl9XQ3RRREtkTVZRRWlBUlVhdC1ZTjFnXzd3dHpOYTNIbzZuY3lBY1ljMm5ZS1Q1T2ZRcHZqTW9EQ01NcENaUW84cWVlUXVDOTRsdnXSAcYBQVVfeXFMTVNoUlEwOGpBeEZZUkN5aFBycVhJdGc0NjBvQ3VxUGFNVzRfRGVhT3Q4WVp3a2RwNFhNaWdoNFEtS2M5MVBEN3htMW81WHc1LXZGV3hYcVBGMnZENTdDdXJaX3JIMXdwX0ZYQ3M3X0NPcmlPRDNadjhaQkdNay1UUndGWVlYN2gxTFBGaUhVWmZmajNsWFlSUEdrSGhvZk1sdTdIYjZCaElsT2dQbnl4T0Vib0tBaGFZY2Z5ZkxveEFpUkVUdnNB?oc=5)
+
+---
+
 ### [Bluthochdruck: Auf diese zwei Nährstoffe kommt es laut Experten an - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
 
 2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
+
+---
+
+### [Compound produced after eating pomegranates targets stiff-heart failure pathway, early tests suggest - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjFlc0tzc2hIaFYyTHBGc210WTVRRFR0WThIUE9CYzJWMHlaX0NDOVdKX2FBR0dfcW1pM05nOEJHQzVLdjZUUXBiQmlWN1V1RGVDOHI0Q0pLTzExYWlsNC1ZdkNSWWNIdkUzSm5sS0pMbDBLQWx0Z1lMU1lFVUlNdVcwdGpCMVUzNHhQWHN3?oc=5)
+
+2026-08-19 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjFlc0tzc2hIaFYyTHBGc210WTVRRFR0WThIUE9CYzJWMHlaX0NDOVdKX2FBR0dfcW1pM05nOEJHQzVLdjZUUXBiQmlWN1V1RGVDOHI0Q0pLTzExYWlsNC1ZdkNSWWNIdkUzSm5sS0pMbDBLQWx0Z1lMU1lFVUlNdVcwdGpCMVUzNHhQWHN3?oc=5)
 
 ---
 

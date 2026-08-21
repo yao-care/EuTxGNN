@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [How smart tech could let dementia patients live at home for longer - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWY4YlFwcUVVRnMzZGtUekREWVE4NjRDWUpuUEtwMThENG5vdDg1Vi15Rks4QzhWSVhQNE9zUVNfLUxxUXQ1ZG1fcHFDdWowRU5OUUVoeVlBQkJfbk51dlZxS0pwNi1QYXBWVXZUM3l2MUtTbE5DZGUtVEl4Y21fRW1lX1pvSG5pTGp3emhDRHo0ZzZnN0psR25FZw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">dementia</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWY4YlFwcUVVRnMzZGtUekREWVE4NjRDWUpuUEtwMThENG5vdDg1Vi15Rks4QzhWSVhQNE9zUVNfLUxxUXQ1ZG1fcHFDdWowRU5OUUVoeVlBQkJfbk51dlZxS0pwNi1QYXBWVXZUM3l2MUtTbE5DZGUtVEl4Y21fRW1lX1pvSG5pTGp3emhDRHo0ZzZnN0psR25FZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

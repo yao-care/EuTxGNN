@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Gesundheit: Forscher entdecken möglichen Alzheimer-Treiber im Darm](https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1Y3OXNVNVU1eWQ1N3FKVjl3Ynh3Z3NGNUF5czVONjNLaWdFMTNGbTNZbnA4dkxIQzZINUstQTBSMjdnRmhHeUNZTDVqdnNrQS1La0xyLTZRbnNtZ0hzeGNYWEpjN3haU1Y1UFpSZkZoOEV3VDlYeGVHVnR6TVRjZEhsTWJJd2lxYURFRVB2UTBzeEE3T19PNWV6c0V5VnN1ZWtndnliajBaRlJualIxRk9TbzFwWjNKV3p3STlxYXJXWTNNRzAxbGswVU0?oc=5)
+
+2026-08-21 <span class="news-indication-tag">depression</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1Y3OXNVNVU1eWQ1N3FKVjl3Ynh3Z3NGNUF5czVONjNLaWdFMTNGbTNZbnA4dkxIQzZINUstQTBSMjdnRmhHeUNZTDVqdnNrQS1La0xyLTZRbnNtZ0hzeGNYWEpjN3haU1Y1UFpSZkZoOEV3VDlYeGVHVnR6TVRjZEhsTWJJd2lxYURFRVB2UTBzeEE3T19PNWV6c0V5VnN1ZWtndnliajBaRlJualIxRk9TbzFwWjNKV3p3STlxYXJXWTNNRzAxbGswVU0?oc=5)
+
+---
 
 ### [Depressionen im Alter mit geringerem Volumen in Teilen des Hippocampus verbunden - Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3plTDZTXzJQakFNbEoyVDRBVWFhLXpwXzhJazR6SmowVlVFSXRyYTBURUdRNlZlcFE4LTdOelRRNFhCTFhFVURnN3NpS1NUV3k4SlRrSDlMY0FNZ3hxOVlfVWVVdFpkVVdMYjQ4VG5MMUN0R0FiOGhZMkNSOUNfNktFUlhEMzl3dDRoN0RQWnNWbDZsYlVPemd1Y0lvMU5KSDNTQlczZFR0ZUhvQkE?oc=5)
 
