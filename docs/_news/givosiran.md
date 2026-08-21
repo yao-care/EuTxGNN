@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Bluthochdruck: Auf diese zwei Nährstoffe kommt es laut Experten an - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Resistente Hypertonie: Intensive Therapie senkt Herzinfarkt-Risiko um 1,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzg2NTdRYmRCYVFjUXR1WEQtdVNyQ3dVa3pSNlN3bW5zbmRrSWt5a2Y5WnZ3WUVWMnA4bGcwT09TRlR1dnNXdFk1MkdkMEJtWE9ScllWQS1qd092ZHRwRHVUV3NKaTQyclpaVzVMazNPWjJGUG9yVUVLZXBaWFlJWVV6NElhQzB3bnRXbFJCWGpiMWQ5VHBweGpId1hrTUcxOGdCRm1heUppXy1NQWJ2dnlBTUZxNHctbHdneWdB?oc=5)
+### [Sprinttraining mit 6×30 Sekunden verändert 714 Proteine im Blut - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3l5TEZPRENlZm5PNzFyWWs0WGxyNV9zb0xVRHlyZFR0MV9LVTluUnF2OU9QcHdnam5qcXJ3YkZCRUtaaEJYa281a3FnSkxGYm5jVzhuY3cxWDZUMFdrQllBclVZV0JjWW1uRVJ6SlBzMXRMdENLRDZMclVId1g5U01NOW9MLWtYR1Rra2wtYzJjRVNVR0xLQWZBNXk?oc=5)
 
-2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzg2NTdRYmRCYVFjUXR1WEQtdVNyQ3dVa3pSNlN3bW5zbmRrSWt5a2Y5WnZ3WUVWMnA4bGcwT09TRlR1dnNXdFk1MkdkMEJtWE9ScllWQS1qd092ZHRwRHVUV3NKaTQyclpaVzVMazNPWjJGUG9yVUVLZXBaWFlJWVV6NElhQzB3bnRXbFJCWGpiMWQ5VHBweGpId1hrTUcxOGdCRm1heUppXy1NQWJ2dnlBTUZxNHctbHdneWdB?oc=5)
-
----
-
-### [En comparant la tension de personnes qui abusent de la salière sans conséquence, des chercheurs sont tombés sur un gène longtemps resté dans l'ombre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQXzI4SGxoVDZtQ0oyMk9RTGp3R1dJa2hwS3VUTXF0S0ZvSk1zMnd6TDkydzg5a1FmWDdlbGJNTWNiQkJJck5CUmVfYzVoaXV0TWhZWkpFVVpNWXJ1SDRiSktCMmRfblFEMjV2aXFSYWpTUG5TR1pxRFViUk5PaGJlUmNmaWI5VTZfZmN2UmcwMWFsUzVvTUd2M2c2RFduQ3c3VnBrSEM1N1JyNUJwVFcySUx3cDZnWGwxTEZlYThjUTI3NzNEXzlHdmNUUEFldEVwVzZPdWhCTUhiZTR6SmZ1QmhIRlB3Zml0MGVkd0pyck54NlBrZVpIdGgzUVkxMFU?oc=5)
-
-2026-08-20 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQXzI4SGxoVDZtQ0oyMk9RTGp3R1dJa2hwS3VUTXF0S0ZvSk1zMnd6TDkydzg5a1FmWDdlbGJNTWNiQkJJck5CUmVfYzVoaXV0TWhZWkpFVVpNWXJ1SDRiSktCMmRfblFEMjV2aXFSYWpTUG5TR1pxRFViUk5PaGJlUmNmaWI5VTZfZmN2UmcwMWFsUzVvTUd2M2c2RFduQ3c3VnBrSEM1N1JyNUJwVFcySUx3cDZnWGwxTEZlYThjUTI3NzNEXzlHdmNUUEFldEVwVzZPdWhCTUhiZTR6SmZ1QmhIRlB3Zml0MGVkd0pyck54NlBrZVpIdGgzUVkxMFU?oc=5)
-
----
-
-### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3l5TEZPRENlZm5PNzFyWWs0WGxyNV9zb0xVRHlyZFR0MV9LVTluUnF2OU9QcHdnam5qcXJ3YkZCRUtaaEJYa281a3FnSkxGYm5jVzhuY3cxWDZUMFdrQllBclVZV0JjWW1uRVJ6SlBzMXRMdENLRDZMclVId1g5U01NOW9MLWtYR1Rra2wtYzJjRVNVR0xLQWZBNXk?oc=5)
 
 ---
 

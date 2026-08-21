@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Darm-Haut-Achse: 35% höheres Psoriasis-Risiko bei Reizdarm](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFhsbkhnTTNKeDlkX05oemw1MjlsOElxWDJoODlHbFZyamphNVRwQk5pQXJCQ1ZkSWtWdGhfYk96eEJ6UnJQMFpfc2ViU3BiMURBTkV3THhrWk80QTJFMXRnanVUb0dsaldfVld4ZzNMR0lkUFd5Q3ZWTmhyWVlHdmJOVFM2dWEwSjFTRnVWWkNMSnhlV2FvQjBReHEwRExyN3IwSW1qVjUyb1dad2p1emxVU18?oc=5)
 
 2026-08-20 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFhsbkhnTTNKeDlkX05oemw1MjlsOElxWDJoODlHbFZyamphNVRwQk5pQXJCQ1ZkSWtWdGhfYk96eEJ6UnJQMFpfc2ViU3BiMURBTkV3THhrWk80QTJFMXRnanVUb0dsaldfVld4ZzNMR0lkUFd5Q3ZWTmhyWVlHdmJOVFM2dWEwSjFTRnVWWkNMSnhlV2FvQjBReHEwRExyN3IwSW1qVjUyb1dad2p1emxVU18?oc=5)
-
----
-
-### [Tips for treating—even preventing—osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
-
-2026-08-19 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mM2JDWGNja0hkZkVTQjBwWk9MY1BzNU43RFljV1VpZjR2RzJrMVRqU2lPQ0xOV0tDOTBBb2FsT3BBQ244MUpnM0Q3T01RQktTVjExcEZrWWoxYkpLR0ZlVXNJcUZqVTQxeGc?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/nusinersen-sodium/
 
 ---
 
-### [Biologisches Geschlecht und Epilepsie – Aktuelle Evidenz und klinische Relevanz](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHVSeWROQ1k2TnNTeUZJQXRFRVVZcHhUYzZjNW9YYUV4UEJzRjVHeWJoWEd4YU81MjRsZEVwS29uZkN6U1VTQWY3Wko1WkUyeFpZZlZGOTE0TFFLVVBINm5MeWl4Y3hGQWFrWGI2aEJxNUMzS2I1SEFrbHpsanJsZ080Q2VsYmt0SUZwRGJlV0pIX3N0N05vM3dZQ3NmRF8xQld0MHI0cUxGSFBfWFVRUmZlbVRabkF0eGFrb05tdXhjWGdGYjM4?oc=5)
+### [Epilepsie: Männer tragen 1,4-fach höheres SUDEP-Risiko](https://news.google.com/rss/articles/CBMipwFBVV95cUxONURvQ3liTzZZVDBTMFRrdmdzYWxqSWlRMk9LbXcxZ0I1YWRscm54MkxsWWVwZGlUVmlxSmxQTVBwT0N4Z1BuN2JQOTZZaUhpVlEzU3VsTjF4QzhqLVJiYTJUY19kVXFkaDM1elZHclNxYmE1NEVDaTBOX1U3bE9OeXhvMDctNkFQdWFRdkFmRGxzMnRGcWZtUGloa1pUZXJtcGZDenlFQQ?oc=5)
 
 2026-08-19 <span class="news-indication-tag">Epilepsie</span>
 
-來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHVSeWROQ1k2TnNTeUZJQXRFRVVZcHhUYzZjNW9YYUV4UEJzRjVHeWJoWEd4YU81MjRsZEVwS29uZkN6U1VTQWY3Wko1WkUyeFpZZlZGOTE0TFFLVVBINm5MeWl4Y3hGQWFrWGI2aEJxNUMzS2I1SEFrbHpsanJsZ080Q2VsYmt0SUZwRGJlV0pIX3N0N05vM3dZQ3NmRF8xQld0MHI0cUxGSFBfWFVRUmZlbVRabkF0eGFrb05tdXhjWGdGYjM4?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxONURvQ3liTzZZVDBTMFRrdmdzYWxqSWlRMk9LbXcxZ0I1YWRscm54MkxsWWVwZGlUVmlxSmxQTVBwT0N4Z1BuN2JQOTZZaUhpVlEzU3VsTjF4QzhqLVJiYTJUY19kVXFkaDM1elZHclNxYmE1NEVDaTBOX1U3bE9OeXhvMDctNkFQdWFRdkFmRGxzMnRGcWZtUGloa1pUZXJtcGZDenlFQQ?oc=5)
 
 ---
 

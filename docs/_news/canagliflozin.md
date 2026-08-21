@@ -14,7 +14,7 @@ permalink: /news/canagliflozin/
 ---
 
 <p class="key-answer" data-question="Canagliflozin 有什麼相關新聞？">
-<strong>Canagliflozin</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Canagliflozin</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/canagliflozin/
 <p><a href="{{ '/drugs/canagliflozin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
+
+### [Diabetes und Kinderwunsch: Hormontherapie im Check](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0o3WG90djdidkhXdUc0YkpUYzNzU0txRTBtdlhlNlphVmQwSUpOTl9OVUFRbTZrNTFUS3FVS3UtaWRaLXRyX3pic1RfS1VBWnlnTm8zWWp4YkdhWjZvaFJSSE55N0VMY0R6aDBVWkd3Rm95cUF6RVBXMEVEMkhXcGR2S0RPV0xLNkMtMWtvN0VQYW9KOW5rcVNwb2ZHR0tSMi1mdGN1bVJYSXF1dXBqT0ZnYV9SQQ?oc=5)
+
+2026-08-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0o3WG90djdidkhXdUc0YkpUYzNzU0txRTBtdlhlNlphVmQwSUpOTl9OVUFRbTZrNTFUS3FVS3UtaWRaLXRyX3pic1RfS1VBWnlnTm8zWWp4YkdhWjZvaFJSSE55N0VMY0R6aDBVWkd3Rm95cUF6RVBXMEVEMkhXcGR2S0RPV0xLNkMtMWtvN0VQYW9KOW5rcVNwb2ZHR0tSMi1mdGN1bVJYSXF1dXBqT0ZnYV9SQQ?oc=5)
+
+---
 
 ### [Fat jabs drive NHS to spend twice as much treating diabetes - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2FwczFzRzFRbDY2aENDWEZQbXJCVjhnV1lRclN3aWQzTEpYODNaMHE2STUtbFhMRFF6emVJWk5Ld1gyY0FqYU9SOWpCbWJvWkdaU2N6dU5GUS1sNXZaRThza1kyWUxpWEVxVmhZNzh0M0NhcW4tbldMOVR3cWx5MHMyV3VrWDVFVERFZDdXcGtVZnpqdmtBeUJzRjdDaWNjak9LRFRwcw?oc=5)
 
@@ -59,11 +67,27 @@ permalink: /news/canagliflozin/
 
 ---
 
+### [Diabetes: Kein Zusatznutzen für Tirzepatid bei Behandlung von Kindern und Jugendlichen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVFppLWlwTV9JLWJzX1hUbl9VT2hWcEZBWTdPUUQxQ1pLZ2Z6R2Q0cVFuMnJ2a2pOeExIdGx4aVVweHJPUDRiRWdWU00zTDR5d0U2bFQ5c2J1RGZYYjNUTlpUU0hHVllqV0lYeGp1Z2oxX25lZzBUdkI2TEk0QzhJQ2lFclQ5aU1pUkNNRGlfTTc1cXA1U1ZGWTJlem54NE1PbzJvNVlHWUZSRG5NWjFxMDk2NXZIRXN1LXFwb3FnQzVvWmh6b0F1MkxMUnYwcVBzaWtVRllFalZyTFAyZzNZYVFxY3pmTDhYM1E?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVFppLWlwTV9JLWJzX1hUbl9VT2hWcEZBWTdPUUQxQ1pLZ2Z6R2Q0cVFuMnJ2a2pOeExIdGx4aVVweHJPUDRiRWdWU00zTDR5d0U2bFQ5c2J1RGZYYjNUTlpUU0hHVllqV0lYeGp1Z2oxX25lZzBUdkI2TEk0QzhJQ2lFclQ5aU1pUkNNRGlfTTc1cXA1U1ZGWTJlem54NE1PbzJvNVlHWUZSRG5NWjFxMDk2NXZIRXN1LXFwb3FnQzVvWmh6b0F1MkxMUnYwcVBzaWtVRllFalZyTFAyZzNZYVFxY3pmTDhYM1E?oc=5)
+
+---
+
 ### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
 
 2026-08-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+
+---
+
+### [Scientists Find a Surprising Diabetes-Fighting Compound in Turmeric](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkREZk5IRmxSa0FaVlZVbTZqR00zTm0taWVhNVFNNWI3Q0hudUlsQ19YUGdLOHZVRE1pWjJKWG9YMGI5UnM3ZTRZR05wcmtiZ1Z4RVp1Y01IcWJBYmd1TkEzb3dVYzZxZV9yb0pFZGZveGJWQlVaYjlNMUxqYWhraE85aFV1azVva21mc0hqTkh5MzRZY1Z5Mw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkREZk5IRmxSa0FaVlZVbTZqR00zTm0taWVhNVFNNWI3Q0hudUlsQ19YUGdLOHZVRE1pWjJKWG9YMGI5UnM3ZTRZR05wcmtiZ1Z4RVp1Y01IcWJBYmd1TkEzb3dVYzZxZV9yb0pFZGZveGJWQlVaYjlNMUxqYWhraE85aFV1azVva21mc0hqTkh5MzRZY1Z5Mw?oc=5)
 
 ---
 
@@ -80,6 +104,14 @@ permalink: /news/canagliflozin/
 2026-08-20 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
+
+---
+
+### [Sprinttraining mit 6×30 Sekunden verändert 714 Proteine im Blut - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3l5TEZPRENlZm5PNzFyWWs0WGxyNV9zb0xVRHlyZFR0MV9LVTluUnF2OU9QcHdnam5qcXJ3YkZCRUtaaEJYa281a3FnSkxGYm5jVzhuY3cxWDZUMFdrQllBclVZV0JjWW1uRVJ6SlBzMXRMdENLRDZMclVId1g5U01NOW9MLWtYR1Rra2wtYzJjRVNVR0xLQWZBNXk?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3l5TEZPRENlZm5PNzFyWWs0WGxyNV9zb0xVRHlyZFR0MV9LVTluUnF2OU9QcHdnam5qcXJ3YkZCRUtaaEJYa281a3FnSkxGYm5jVzhuY3cxWDZUMFdrQllBclVZV0JjWW1uRVJ6SlBzMXRMdENLRDZMclVId1g5U01NOW9MLWtYR1Rra2wtYzJjRVNVR0xLQWZBNXk?oc=5)
 
 ---
 
@@ -128,22 +160,6 @@ permalink: /news/canagliflozin/
 2026-08-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
-
----
-
-### [Können Sprint-Proteine Diabetes und Bluthochdruck stoppen?](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1RFUzdxUGExLTNwc0FhWF9MNVg2TFhUc01PbzNLbFFEM0lCanBzdjh4ajBreUFTMThpeG8xUl9OTGl0OVQ3dnVtaG5rZkhUaF9PMmIzdGFGRW84blRsMnZncElKdU55UTdzSXhYUTZ2RTZLaFV3Q2VKT3ZHTFVFSjFGcWotOUd4bm9nV3E4R2hvcE5LRkl1Q2JDcURidkhBSG1aLUF0SFQtQVh5M2Vzam1JOU0yNHZTX0dMemlWUUxvWjhpTjJLNzFB?oc=5)
-
----
-
-### [Ce simple exercice en dit plus sur votre santé que votre tension artérielle, selon une vaste étude - La Provence](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU05zYlNZYVdMenpmQ1lmS2dPalJITjNoZEJ2Z01UUVJvM2sycnJVZkNjTlFYVTc4TGpNUVJacTZuMkpFeHMtZnNEbDdEQmk5ZUNxMFZVWERIdzBWLUs0SkNOQUNHbWM1cDBDR0ZwT3BYZVB4WE0yemNlZ3daUHp3WTNEM1lYVkhvNUx2eXZpZ0cyYkxiWk1kbXVxeDhOWjZRdWUzRWNpNGJxNGJ4RUFqVGlVZC03OW1XNWZFUjVLdE5qb3dVSnRJelNOZ3NWSDgySzBHUmhOeklkbnBOQk5VazdESDhHOU0?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[La Provence](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU05zYlNZYVdMenpmQ1lmS2dPalJITjNoZEJ2Z01UUVJvM2sycnJVZkNjTlFYVTc4TGpNUVJacTZuMkpFeHMtZnNEbDdEQmk5ZUNxMFZVWERIdzBWLUs0SkNOQUNHbWM1cDBDR0ZwT3BYZVB4WE0yemNlZ3daUHp3WTNEM1lYVkhvNUx2eXZpZ0cyYkxiWk1kbXVxeDhOWjZRdWUzRWNpNGJxNGJ4RUFqVGlVZC03OW1XNWZFUjVLdE5qb3dVSnRJelNOZ3NWSDgySzBHUmhOeklkbnBOQk5VazdESDhHOU0?oc=5)
 
 ---
 
