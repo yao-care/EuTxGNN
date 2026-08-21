@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "stroke 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "stroke 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# stroke 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="stroke 有什麼相關新聞？">
+<strong>stroke</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「stroke」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（1 則）
 
-### [Hirnblutung: Intensive Blutdrucksenkung reduziert Schlaganfall-Risiko um 38%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDN2TjJxSHEyanlHZXVIdVZFdG5ScWo4M1kxNUYxV0dHUVRqczIxLWFzNk9OTHU3NHgyclNWMVFqR0VZWmZBZmRKQkJlZ1p2YmVSMGQ3aHhNQmpyczZHN3ZHOW9BSGxOQUM1bVpGOTU5TWw2RG84ckFtZnBSalNRMWg5RGV4NmU4RzNFc1pDN0UyWGZNNTYxRFVqVkk4U0lBTWMtbXRsaTZQSGd4cEJTUjR0TGJyUjZtTjhzMA?oc=5)
+### [The blood pressure mistakes cardiologists wish you’d stop making - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWENZVWpRRlBvRjdlQVlkYVY2ZE5WUnA0bmJoMGtOWGVGNGxMbXNVd3pjLUVhcElHSTRHWkFXM2lhN1V2SDhwNUY2WDhlUldvLWlQRU1UeEhWZTJLcXExbjlFSHl4UWk1b3VjbWo2WTN4S1VkVlVJdTJJQ2I5MUpYTXhQa3BTVU1qdjE2ektmdTVOc3hHTTA4RHY2NnlJanpXNWtoSTdBYTFXYzZqbkNhR211OEhKcWtl?oc=5)
 
-2026-08-18
+2026-08-19
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDN2TjJxSHEyanlHZXVIdVZFdG5ScWo4M1kxNUYxV0dHUVRqczIxLWFzNk9OTHU3NHgyclNWMVFqR0VZWmZBZmRKQkJlZ1p2YmVSMGQ3aHhNQmpyczZHN3ZHOW9BSGxOQUM1bVpGOTU5TWw2RG84ckFtZnBSalNRMWg5RGV4NmU4RzNFc1pDN0UyWGZNNTYxRFVqVkk4U0lBTWMtbXRsaTZQSGd4cEJTUjR0TGJyUjZtTjhzMA?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWENZVWpRRlBvRjdlQVlkYVY2ZE5WUnA0bmJoMGtOWGVGNGxMbXNVd3pjLUVhcElHSTRHWkFXM2lhN1V2SDhwNUY2WDhlUldvLWlQRU1UeEhWZTJLcXExbjlFSHl4UWk1b3VjbWo2WTN4S1VkVlVJdTJJQ2I5MUpYTXhQa3BTVU1qdjE2ektmdTVOc3hHTTA4RHY2NnlJanpXNWtoSTdBYTFXYzZqbkNhR211OEhKcWtl?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Bluthochdruck: Auf diese zwei Nährstoffe kommt es laut Experten an - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
 
@@ -88,17 +88,9 @@ permalink: /news/thyrotropin-alfa/
 
 ### [The blood pressure mistakes cardiologists wish you’d stop making - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWENZVWpRRlBvRjdlQVlkYVY2ZE5WUnA0bmJoMGtOWGVGNGxMbXNVd3pjLUVhcElHSTRHWkFXM2lhN1V2SDhwNUY2WDhlUldvLWlQRU1UeEhWZTJLcXExbjlFSHl4UWk1b3VjbWo2WTN4S1VkVlVJdTJJQ2I5MUpYTXhQa3BTVU1qdjE2ektmdTVOc3hHTTA4RHY2NnlJanpXNWtoSTdBYTFXYzZqbkNhR211OEhKcWtl?oc=5)
 
-2026-08-19 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+2026-08-19 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWENZVWpRRlBvRjdlQVlkYVY2ZE5WUnA0bmJoMGtOWGVGNGxMbXNVd3pjLUVhcElHSTRHWkFXM2lhN1V2SDhwNUY2WDhlUldvLWlQRU1UeEhWZTJLcXExbjlFSHl4UWk1b3VjbWo2WTN4S1VkVlVJdTJJQ2I5MUpYTXhQa3BTVU1qdjE2ektmdTVOc3hHTTA4RHY2NnlJanpXNWtoSTdBYTFXYzZqbkNhR211OEhKcWtl?oc=5)
-
----
-
-### [Hypertension : voici ce que la science dit aujourd'hui sur le meilleur moment pour prendre son traitement - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZF84RThqUUJLMHNJWVRwdGFpdkJxalhKbS1wcDZWTTlvS2ZDcUFrelFHR3Juc0RPYmVWZmlIdkI4TUpMS21DVTV1RjNnZktUak40aGlCbnFheXVGU1BpSnFiVHJ5ZTlTeFNoTGNGQkRfSmI2REhiR0hTclZXVl9qQllCbUN1dE5mM0xKU0JJdWotdWxJYWdvc3BNN3Z5STZoV3ZTUXhPVzM2ZUY1NERZU2pWZ29SVXFSSzNLdUpDWGpmWl9vcHhlMHBaVW1lLUo1RUZVWm5GM1dfRDFVSGk0T0x0eGFDU1Z4U3FDcmhvbEk3MFBmVUM1UGpSQllJREIzanhodlQxUkRCcms?oc=5)
-
-2026-08-19 <span class="news-indication-tag">hypertension</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZF84RThqUUJLMHNJWVRwdGFpdkJxalhKbS1wcDZWTTlvS2ZDcUFrelFHR3Juc0RPYmVWZmlIdkI4TUpMS21DVTV1RjNnZktUak40aGlCbnFheXVGU1BpSnFiVHJ5ZTlTeFNoTGNGQkRfSmI2REhiR0hTclZXVl9qQllCbUN1dE5mM0xKU0JJdWotdWxJYWdvc3BNN3Z5STZoV3ZTUXhPVzM2ZUY1NERZU2pWZ29SVXFSSzNLdUpDWGpmWl9vcHhlMHBaVW1lLUo1RUZVWm5GM1dfRDFVSGk0T0x0eGFDU1Z4U3FDcmhvbEk3MFBmVUM1UGpSQllJREIzanhodlQxUkRCcms?oc=5)
 
 ---
 

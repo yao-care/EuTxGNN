@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（18 則）
 
-### [Los fallecidos por ébola superan los 2.400 en República Democrática del Congo - Radio Televisión Canaria](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2h3UVFDQ21DRGlZMGdLTFQwSXIyWXZPSEprV3kzajU3b25NZjBWNk5oZkhoXzVOUTlJLWlSLXlsLXN0Sl8yeVN6eTZ3N0ZKemlJZVBUZ3B6ZXZpX2QtX0RZVlh5akpqNlU2MXhydGRUZW1QNk5OaWpwaEJCTGZJRHJsUUl5SmdLLWVYMm90SERWVkV2X3NrdXBn?oc=5)
+### [Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
 
 2026-08-20 <span class="news-indication-tag">MS</span>
 
-來源：[Radio Televisión Canaria](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2h3UVFDQ21DRGlZMGdLTFQwSXIyWXZPSEprV3kzajU3b25NZjBWNk5oZkhoXzVOUTlJLWlSLXlsLXN0Sl8yeVN6eTZ3N0ZKemlJZVBUZ3B6ZXZpX2QtX0RZVlh5akpqNlU2MXhydGRUZW1QNk5OaWpwaEJCTGZJRHJsUUl5SmdLLWVYMm90SERWVkV2X3NrdXBn?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFNYYmhlYk9RMEJpZFU1cHlWalJjZmdaM2RDNE1OZ1hpdDBUQzZMR3BlWU9WbHIwejY5YUwyR3YtNEF3Xzdja19zUk00OFFfUTc2al8xS3Nxcl9VbEJDUnRNSzY5cFB2QUdybDdYODhBcmF1SHNjZHp4YXRZMW1VV1lMcUhfa1M1YVJmSFhXTlZEb25JNUhiX1g4SENheGQyMW9TSUtmRTB2RmRiTXpfXzlzTkR1UnBia3lENUJLS0xFZlpFbVlMMjlrTk5TcUpuT2JlMw?oc=5)
+
+---
+
+### [Alerta sanitaria en África: el brote de ébola en el Congo podría ser tres veces mayor a los casos confirmados - Onda Cero](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSXk5cWVKOFZfeW5qTUJjVGJXa2gxdVBxMWpBclBjSFc5RUNNcmV0MUwxcV9lQkNFeUpVV25BS0hLajVjQkgtaVRXbGpVTGRKdFdDNXpyTXZRRjZMaFBmUjdudjBHLXNBcFNpMTJNSllFYzZhSEVldk02dW9wSV9Qa0Q0Q1M0ZU44NmlLNEhtMmVIb3Q2VU1td0MtUU9saHVTUG9EMUEwSm81Z2dMMUh6b00wY19WdDktME5kem1wbzVDbGZxcDdwZEppazBaeFFOVWFwVFBlZ0pzdFVwSFRRcno4QjdfcFlWUlJaUXRYQ19RWG1YNEVR0gH3AUFVX3lxTFA1ZVhQUnZzOV9fMExmWndhZk53cnRmalRmT2NhZFdZWGRfYVVUbkQyUzhXNk9hRUZMakluSVFGVFNYUThYZHk2dWZYWXRUM2g5QUk3RERqMUZFbmczd1BkM01wVWxxd3Zyc3VJMFZ2QlFlM2p3ZHFjU2R1MGRoSUhpeFZnSnhSZzdxU2FtYnVzU0tFR05HaTlaYWhjd0pGWTJzekRlSXNSdkpXc19BdnhMd0h5bFo1WXR4RHJweVdITDRFZ19IcHg0TnVyUE1WTzJTUzdUR2djak9oaFBpOHQxRmlOZXlKVE9kU0ljY21UM3RFenFPY28?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSXk5cWVKOFZfeW5qTUJjVGJXa2gxdVBxMWpBclBjSFc5RUNNcmV0MUwxcV9lQkNFeUpVV25BS0hLajVjQkgtaVRXbGpVTGRKdFdDNXpyTXZRRjZMaFBmUjdudjBHLXNBcFNpMTJNSllFYzZhSEVldk02dW9wSV9Qa0Q0Q1M0ZU44NmlLNEhtMmVIb3Q2VU1td0MtUU9saHVTUG9EMUEwSm81Z2dMMUh6b00wY19WdDktME5kem1wbzVDbGZxcDdwZEppazBaeFFOVWFwVFBlZ0pzdFVwSFRRcno4QjdfcFlWUlJaUXRYQ19RWG1YNEVR0gH3AUFVX3lxTFA1ZVhQUnZzOV9fMExmWndhZk53cnRmalRmT2NhZFdZWGRfYVVUbkQyUzhXNk9hRUZMakluSVFGVFNYUThYZHk2dWZYWXRUM2g5QUk3RERqMUZFbmczd1BkM01wVWxxd3Zyc3VJMFZ2QlFlM2p3ZHFjU2R1MGRoSUhpeFZnSnhSZzdxU2FtYnVzU0tFR05HaTlaYWhjd0pGWTJzekRlSXNSdkpXc19BdnhMd0h5bFo1WXR4RHJweVdITDRFZ19IcHg0TnVyUE1WTzJTUzdUR2djak9oaFBpOHQxRmlOZXlKVE9kU0ljY21UM3RFenFPY28?oc=5)
+
+---
+
+### [El Congo recibirá 70.000 dosis de una vacuna contra el ébola que no ha demostrado aún su eficacia en humanos - Redacción médica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRHQ4UGdtZkdENkR2cHVNRzdOOVlpQUVOd3hfRjdqN2d4US1rcHdzT3dUUDRxYW9sdGpOS0NKMlFIUjhZR2ZiR1RMWDRDaFYwTVFnVlB3am9hbWVvMUYxamVqNVFPVlVEYUpST3M3cW9oX25JbnNXemdYanJydE9GQ0x3QnpoVk9RLTNreEd2ZWU1X0R6X2lRejdrT2c3VkxBYnU1c3VIcXJxOFJjZnpjbE96UWlUa0ZobUVFQUcxZGhIQmJWNFRmRWYtOUtFV0lMMU1FX09xSTF5cWxxYVlJbjlUODBPOU15UWQ0bmQ1aTdCNG9BeXBBYVp4am05cThxNTljTzc2YXbSAY4CQVVfeXFMTkFWLUxMUmNwRDF2eVpRUXZLN3VYQU1rT0xtSENWMkY5Y1dLTFpjc0hZaEl4eENiMGQ3UGpaRTJfYU12djhpYlJuZFVYcVBlZlJjTWE2NzR1dUs5U1hwTHROZzU5VnQwdFp4cldHdW1KOE1OT2djX3JHNXhjd1AxcVFoUFQzNTJ1NW1PVENrZEljaWlLc1hhcXN1SldyR0NfeG9FZWZLM0J0UXFJRlBMM2NVeHQ3VC1OWlZKbG9zME9oV0I4U213WnlYSXpTYWhzTEpVTTFYbXFNMDNFTzNrcGUtLTZ4YmFQcW92Ymw4aXJSNHRyTHNIV01GYnhBQjNaa3BXeUdobUhiNldCWnVR?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRHQ4UGdtZkdENkR2cHVNRzdOOVlpQUVOd3hfRjdqN2d4US1rcHdzT3dUUDRxYW9sdGpOS0NKMlFIUjhZR2ZiR1RMWDRDaFYwTVFnVlB3am9hbWVvMUYxamVqNVFPVlVEYUpST3M3cW9oX25JbnNXemdYanJydE9GQ0x3QnpoVk9RLTNreEd2ZWU1X0R6X2lRejdrT2c3VkxBYnU1c3VIcXJxOFJjZnpjbE96UWlUa0ZobUVFQUcxZGhIQmJWNFRmRWYtOUtFV0lMMU1FX09xSTF5cWxxYVlJbjlUODBPOU15UWQ0bmQ1aTdCNG9BeXBBYVp4am05cThxNTljTzc2YXbSAY4CQVVfeXFMTkFWLUxMUmNwRDF2eVpRUXZLN3VYQU1rT0xtSENWMkY5Y1dLTFpjc0hZaEl4eENiMGQ3UGpaRTJfYU12djhpYlJuZFVYcVBlZlJjTWE2NzR1dUs5U1hwTHROZzU5VnQwdFp4cldHdW1KOE1OT2djX3JHNXhjd1AxcVFoUFQzNTJ1NW1PVENrZEljaWlLc1hhcXN1SldyR0NfeG9FZWZLM0J0UXFJRlBMM2NVeHQ3VC1OWlZKbG9zME9oV0I4U213WnlYSXpTYWhzTEpVTTFYbXFNMDNFTzNrcGUtLTZ4YmFQcW92Ymw4aXJSNHRyTHNIV01GYnhBQjNaa3BXeUdobUhiNldCWnVR?oc=5)
 
 ---
 
@@ -70,19 +86,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [La reserva mundial de vacunas libera 70.000 dosis contra el ébola para la República Democrática del Congo](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUc4UnRRNkFRcS1FRnJtMWRZaXpwMjFDUGl2ZmtncTA4R0t6VWl4a09MeU54VVlxTkw2ZHNVUmoyanpoUmJKS2Y4anpUaC1lSFR3UnRrcENJSkRpLTM1dktPVnRmNEFmeWswdzhTSWQxakFuWXBPal9CRE5MY0VXcnpjZDBnbjVhbXBCa1l5NlpZenh3QzRYOHRsZ1BqRVBNYzZzcTlZVXEydWNncmhlZHptQmFhUzNVXzRocW5fVTRRT2JCT0E?oc=5)
+### [Face à l'épidémie d'Ebola, l'Organisation mondiale de la santé fournit 70 000 doses de vaccin Ervebo à la RDC](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUzdFTGhXWl84eGNjVEdRZjZsamVsWE1fTHhRVXFpQVgxU1hBVUhCcFFsVUg5eDcxTmNHYlk2cXQ0OEgwNzQ1RTNQVzRCeFdaYkRyMEM1N1c2ZWdCSXlSMnpramNxb0RCaG5FdHRvUlo4ZEdjM2tLeTJWSkNqZzJ5b1VtdnB6U0lzMi13ZWE5TDF3UTZMdVBJaDBjMm1YX0swdHduMi05T3dJQ2FsTVVUX3hfcE5JNkwtcGZyM0J3MW9kdVVFMDJKdkRzWWI4aUkyXzBNcHdaQ09XTEFEOWl2TkthLVBvdDNqSW9rODJnZ3FDRXR1bndJSi0yRQ?oc=5)
 
 2026-08-20 <span class="news-indication-tag">MS</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUc4UnRRNkFRcS1FRnJtMWRZaXpwMjFDUGl2ZmtncTA4R0t6VWl4a09MeU54VVlxTkw2ZHNVUmoyanpoUmJKS2Y4anpUaC1lSFR3UnRrcENJSkRpLTM1dktPVnRmNEFmeWswdzhTSWQxakFuWXBPal9CRE5MY0VXcnpjZDBnbjVhbXBCa1l5NlpZenh3QzRYOHRsZ1BqRVBNYzZzcTlZVXEydWNncmhlZHptQmFhUzNVXzRocW5fVTRRT2JCT0E?oc=5)
-
----
-
-### [Ebola en RDC : l’OMS déploie 70 000 doses du vaccin Ervebo - Le Monde.fr](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak9fWGRHc2dWNHFIZXluYnlJdXFkcjFWTk55RGk0bGowckNVN0Y2OGtkNW90T1JpZXRBVnVtNlEzLWpLejVTX3NYUzdicTlPbEJESWpmUVpWelpnQTFrWXRoZGJzYTdYUTJYcURfcUNrWERqbnVuWi00WEJGRFY3ZklZVFNpNDNSaUJCbVJZYTVMa0dCY2ZvLWIxNUxGX1hIU1NXV2l5bmV3ZWlZOHVUU3pSbzh5dng1cGNmUVRzVUhYZw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak9fWGRHc2dWNHFIZXluYnlJdXFkcjFWTk55RGk0bGowckNVN0Y2OGtkNW90T1JpZXRBVnVtNlEzLWpLejVTX3NYUzdicTlPbEJESWpmUVpWelpnQTFrWXRoZGJzYTdYUTJYcURfcUNrWERqbnVuWi00WEJGRFY3ZklZVFNpNDNSaUJCbVJZYTVMa0dCY2ZvLWIxNUxGX1hIU1NXV2l5bmV3ZWlZOHVUU3pSbzh5dng1cGNmUVRzVUhYZw?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUzdFTGhXWl84eGNjVEdRZjZsamVsWE1fTHhRVXFpQVgxU1hBVUhCcFFsVUg5eDcxTmNHYlk2cXQ0OEgwNzQ1RTNQVzRCeFdaYkRyMEM1N1c2ZWdCSXlSMnpramNxb0RCaG5FdHRvUlo4ZEdjM2tLeTJWSkNqZzJ5b1VtdnB6U0lzMi13ZWE5TDF3UTZMdVBJaDBjMm1YX0swdHduMi05T3dJQ2FsTVVUX3hfcE5JNkwtcGZyM0J3MW9kdVVFMDJKdkRzWWI4aUkyXzBNcHdaQ09XTEFEOWl2TkthLVBvdDNqSW9rODJnZ3FDRXR1bndJSi0yRQ?oc=5)
 
 ---
 
@@ -187,22 +195,6 @@ permalink: /news/elbasvir/
 2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Grimsby Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTi0wR0pVSFF2TWFYVl9Gb1p3c2FuSmJhc01KQzZhTUZHdGJvZVBYVzV1UjEwMWdhdmtPT0UwSVF2SkotM0hnQkRhdDRxc3J6aGpmRlktakdxRXZaZ1hZMnYwbVdhbmw4SzIxMGJZVWFNUHQ3U0M4MS03TUtFdW1wMUU1cjZTdkViTUc1RlZnR3NtTjlY?oc=5)
-
----
-
-### [Vitamin K2: Neue Studie belegt Schutz vor Gefäßverkalkung](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
-
-2026-08-18 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1dTVjRNa1NJNHBjZ0F5MUpET24yeDZxZ1g4bDVkeVBQYVZ3cm4tMl9ObWZCd1FWLXRZOFcyTHd6WWVkdXEtUUxvTFRHV0dxRTd2SVVmNXQ3bk1ud0VEXzNrMmdGQnpsYVhkVTBmblFPTjc4R0wyT3NqN2d5WnVBdnR4T2lmNjhHc1pyNVZHelF3SEpKNU93ZVdoTFZOU0ZSVnNMLWQ5a2NqODQ?oc=5)
-
----
-
-### [Eine Coronainfektion kann elf schlummernde Viren im Körper wecken](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
-
-2026-08-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[L'essentiel](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVpJRWJidTVSRng4d3M0YjdJTmVqWEFGLTRoZXpJRl9ydXlPTXZvYkZMUl9kRU1JZmpDOHhLX3BPNE5lRm05dmcyMlRHc2ZuemEwU2tIak5TZjd6QjV0S2JYNG8xOUxtM25McVBNS2w5OERhR05ESzgtUkVXa0xNTmRseUtGMkVOSmhlTkxOazZ0YkU2VHRGRXY0emRWbzRuVS1YNk9ldUpTNTRoZU9iSVlKelZjeXdNSmJaWjhidw?oc=5)
 
 ---
 

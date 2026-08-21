@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
 ### [Darm-Haut-Achse: 35% höheres Psoriasis-Risiko bei Reizdarm](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFhsbkhnTTNKeDlkX05oemw1MjlsOElxWDJoODlHbFZyamphNVRwQk5pQXJCQ1ZkSWtWdGhfYk96eEJ6UnJQMFpfc2ViU3BiMURBTkV3THhrWk80QTJFMXRnanVUb0dsaldfVld4ZzNMR0lkUFd5Q3ZWTmhyWVlHdmJOVFM2dWEwSjFTRnVWWkNMSnhlV2FvQjBReHEwRExyN3IwSW1qVjUyb1dad2p1emxVU18?oc=5)
 
 2026-08-20 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFhsbkhnTTNKeDlkX05oemw1MjlsOElxWDJoODlHbFZyamphNVRwQk5pQXJCQ1ZkSWtWdGhfYk96eEJ6UnJQMFpfc2ViU3BiMURBTkV3THhrWk80QTJFMXRnanVUb0dsaldfVld4ZzNMR0lkUFd5Q3ZWTmhyWVlHdmJOVFM2dWEwSjFTRnVWWkNMSnhlV2FvQjBReHEwRExyN3IwSW1qVjUyb1dad2p1emxVU18?oc=5)
+
+---
+
+### [Fat jabs drive NHS to spend twice as much treating diabetes - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2FwczFzRzFRbDY2aENDWEZQbXJCVjhnV1lRclN3aWQzTEpYODNaMHE2STUtbFhMRFF6emVJWk5Ld1gyY0FqYU9SOWpCbWJvWkdaU2N6dU5GUS1sNXZaRThza1kyWUxpWEVxVmhZNzh0M0NhcW4tbldMOVR3cWx5MHMyV3VrWDVFVERFZDdXcGtVZnpqdmtBeUJzRjdDaWNjak9LRFRwcw?oc=5)
+
+2026-08-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2FwczFzRzFRbDY2aENDWEZQbXJCVjhnV1lRclN3aWQzTEpYODNaMHE2STUtbFhMRFF6emVJWk5Ld1gyY0FqYU9SOWpCbWJvWkdaU2N6dU5GUS1sNXZaRThza1kyWUxpWEVxVmhZNzh0M0NhcW4tbldMOVR3cWx5MHMyV3VrWDVFVERFZDdXcGtVZnpqdmtBeUJzRjdDaWNjak9LRFRwcw?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/ustekinumab/
 2026-08-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+
+---
+
+### [Viel mehr als nur die Zuckerkrankheit - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Zuckerkrankheit</span>
+
+來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
 
 ---
 
@@ -147,14 +163,6 @@ permalink: /news/ustekinumab/
 2026-08-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[La Provence](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU05zYlNZYVdMenpmQ1lmS2dPalJITjNoZEJ2Z01UUVJvM2sycnJVZkNjTlFYVTc4TGpNUVJacTZuMkpFeHMtZnNEbDdEQmk5ZUNxMFZVWERIdzBWLUs0SkNOQUNHbWM1cDBDR0ZwT3BYZVB4WE0yemNlZ3daUHp3WTNEM1lYVkhvNUx2eXZpZ0cyYkxiWk1kbXVxeDhOWjZRdWUzRWNpNGJxNGJ4RUFqVGlVZC03OW1XNWZFUjVLdE5qb3dVSnRJelNOZ3NWSDgySzBHUmhOeklkbnBOQk5VazdESDhHOU0?oc=5)
-
----
-
-### [Ist die Pustulosa doch eine eigentständige Erkrankung](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlpHdVFqNHJReDBzbHFpc2FScFJTZ1NxT19kTENTOHZTN0c1VFZmczJHUlZZT2JFak9OY2V3QzUtbkt4aVZ2ZTlxbDNhT3UwYXFHMnNVU24yRWEycHlROFctYzZfVTJKakF4dDZQc3EyMllyYzc2cHhMaVk2N2hXQTVDTHZPYU4zRl9hNmVBMFhFMFlIdi1EZk1SMWRFNVM0bFFnWDlmT2hhSWxC?oc=5)
-
-2026-08-18 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlpHdVFqNHJReDBzbHFpc2FScFJTZ1NxT19kTENTOHZTN0c1VFZmczJHUlZZT2JFak9OY2V3QzUtbkt4aVZ2ZTlxbDNhT3UwYXFHMnNVU24yRWEycHlROFctYzZfVTJKakF4dDZQc3EyMllyYzc2cHhMaVk2N2hXQTVDTHZPYU4zRl9hNmVBMFhFMFlIdi1EZk1SMWRFNVM0bFFnWDlmT2hhSWxC?oc=5)
 
 ---
 
