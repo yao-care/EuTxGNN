@@ -14,7 +14,7 @@ permalink: /news/pomalidomide/
 ---
 
 <p class="key-answer" data-question="Pomalidomide 有什麼相關新聞？">
-<strong>Pomalidomide</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pomalidomide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/pomalidomide/
 <p><a href="{{ '/drugs/pomalidomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（23 則）
 
 ### [La mappa dei tumori in provincia di Arezzo: i più diffusi e la mortalità per comune. I casi di stomaco e tiroide](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWFk2YV9DT3RKVjJaZm5yZXBMd2VUWnJ3TWJNMENHb3RwT093WHZoNGNDNzdsenVHM19wT1phbC1uWVFiU1lldlBINjd0M0U5b2d0THlITmtLQUlaR1ZJa0pWV2Y1Q3BqX0tUYWJSRTdBRC1yRC00OEduZUVKcDQ?oc=5)
 
 2026-08-21 <span class="news-indication-tag">tumor</span>
 
 來源：[ArezzoNotizie](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWFk2YV9DT3RKVjJaZm5yZXBMd2VUWnJ3TWJNMENHb3RwT093WHZoNGNDNzdsenVHM19wT1phbC1uWVFiU1lldlBINjd0M0U5b2d0THlITmtLQUlaR1ZJa0pWV2Y1Q3BqX0tUYWJSRTdBRC1yRC00OEduZUVKcDQ?oc=5)
+
+---
+
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
+
+---
+
+### [Gefährlicher TikTok-Trend: Warum High-UV-Tanning der Haut massiv schaden kann](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOXN6MlRSTUNpejBJNF9jMHNtTkp5U0Z3ejlyN0tERmRSNWRYc0pNSnRHd0x3aGQzVDdFcVFiMTR0S1YteDR5bHpmTXRGTVBtLWRWc3JtY1JmQUxMSXNMYUc1dWxTWFhCWVkzcTFqWlJkeWJCSzdFd05QUGxJdEY0Q2RGdC1iWVZuYUUtZFg4VTJqTDlmWjN4bVFFS01PaEc3ZTdxS2M5R1hNX1I0bmh3d2lJdl9EM2tQY0xRY2k4VlVSU0hkcjM2clJ3SkdHcVNB?oc=5)
+
+2026-08-21 <span class="news-indication-tag">cancer</span>
+
+來源：[desired.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOXN6MlRSTUNpejBJNF9jMHNtTkp5U0Z3ejlyN0tERmRSNWRYc0pNSnRHd0x3aGQzVDdFcVFiMTR0S1YteDR5bHpmTXRGTVBtLWRWc3JtY1JmQUxMSXNMYUc1dWxTWFhCWVkzcTFqWlJkeWJCSzdFd05QUGxJdEY0Q2RGdC1iWVZuYUUtZFg4VTJqTDlmWjN4bVFFS01PaEc3ZTdxS2M5R1hNX1I0bmh3d2lJdl9EM2tQY0xRY2k4VlVSU0hkcjM2clJ3SkdHcVNB?oc=5)
+
+---
+
+### [Wenn jede Minute zählt - Forum - Das Wochenmagazin](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Krebs</span>
+
+來源：[Forum - Das Wochenmagazin](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/pomalidomide/
 2026-08-21 <span class="news-indication-tag">cancer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObVVyVVdhX1ZtZ095YmV2TEpwbTF4ZTJER291LVIxT1RleDd0VjRkVmxVQVpfVEZSSjQtY0ROcW4wdG9HTDFQR3c0RXJKUDFPUUZLV2dOeGZ2OEtKanVxZVZpZWRqUUszZkVIMkctYTBuTHlscHNSVTl1d2lPcVRoR1hFc2pfcXg1T2hMRTdNb0ZzSEhReGV1VEZuWXdSdkc0NVpwSG5feG50aUQtMHVod0Y5QWFldEdxUXRBQnRsYVN0NTlqT3M2YXgyLWtuZnB6ZC1TQlJqVW14TjZVNHZSVHJUS1R6QmNaSkQtcmVScmlrZw?oc=5)
-
----
-
-### [Analizar el microbioma de la boca podría servir para diagnosticar tumores de colon y estómago, según un estudio - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLVR5QVVWeFotOFYtbzZtbGNQRWphZ0ZwZk1JVnhXeHQzRk9pbWdRTjEtX3IzWF9teE04T0Z1eGZma1BTT0YxdDl0LV9oWlRBUktlUGMtSzlKb1FhNU9ZajZuVmc5ZTFubUtab0NBc1Q3U0c0VktSbzlUQ0lrRVJEbHI0QUpGWFVRN3VuQ0RzendpYnhkTVd2MUdRaWZxSllSZGhETUxYeGVrQ2FMZW1JX3ZVVnY0aGc3NnlHSVNsbC1kcl9CbGZvMQ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">tumor</span>
-
-來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLVR5QVVWeFotOFYtbzZtbGNQRWphZ0ZwZk1JVnhXeHQzRk9pbWdRTjEtX3IzWF9teE04T0Z1eGZma1BTT0YxdDl0LV9oWlRBUktlUGMtSzlKb1FhNU9ZajZuVmc5ZTFubUtab0NBc1Q3U0c0VktSbzlUQ0lrRVJEbHI0QUpGWFVRN3VuQ0RzendpYnhkTVd2MUdRaWZxSllSZGhETUxYeGVrQ2FMZW1JX3ZVVnY0aGc3NnlHSVNsbC1kcl9CbGZvMQ?oc=5)
 
 ---
 
@@ -126,6 +142,14 @@ permalink: /news/pomalidomide/
 
 ---
 
+### [Dati e grafici per capire quanto funziona la prevenzione dei tumori in Italia - Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE5FUlYzZlJNRVg1d2JMY2tCcjJOTGRfTVhUNzFOWVc2SURrNFVEdTF2c1BiOXh4M1ZXTU51QnMxNkxQVERWRHRUSVpSdmE2Y1NCWVlabE9XSmZVVTZMb1otNXJRVkxDT0c2ZVNtWlV6LUU?oc=5)
+
+2026-08-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE5FUlYzZlJNRVg1d2JMY2tCcjJOTGRfTVhUNzFOWVc2SURrNFVEdTF2c1BiOXh4M1ZXTU51QnMxNkxQVERWRHRUSVpSdmE2Y1NCWVlabE9XSmZVVTZMb1otNXJRVkxDT0c2ZVNtWlV6LUU?oc=5)
+
+---
+
 ### [Mathilde Touvier, lanceuse d’alerte au service de notre alimentation : « Sauver des vies me motive - Le Parisien](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2VzcFIzY242M2E4TmRoNWo5T3RvWmxORlphTks1N0FMUjljQTU5VGlCTjJUcC1ybW1PNEtaeXN3ZHZmYVBsVmVONVlndmhLTmxwYkpST2R4QTM0NUh5V3FzcmZUUVhSWklzbTFPV3VreDlsbXZhNXFaMUtvZS1JZGxWMWRCRHh5TE5Cc1VvcUJQOVpoaEZNTXUzMVZXN05qZXpMQ2VzMEZRSGxXUEZHdWZVRlBLTDZFRVlQakZwRUE0V3BnbnBCMmFScksyNFpRekZKSHVKZWJIOVMta1k1WW9UOHNXel9lYU1hanF0eWl3dTFRLXlIejZLTFlTQQ?oc=5)
 
 2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span>
@@ -150,19 +174,11 @@ permalink: /news/pomalidomide/
 
 ---
 
-### [Reportage. La peau scannée en "trois secondes" : pour pallier le manque de dermatologues, des centres de santé misent sur l'intelligence artificielle](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZjFBcG5rT25Hc2k5OGhpNWJRdTl2MjlUb0RfMzI1YmFETDAxSnlDemdyT0ctWU9KVFZDWER3dG5UcXA0d3JmSEgxakNwZ2pGb1RWWWZCMFA1VGEzVzNEVERjemJCRjBWYWxfeFlPVS1Ra0ZSNnZaUU44SWJHZmc5dGl5RDFJYi1oSzVPNXdkUVRfWTZtcFdTS2RmekVXMGJwclM4Q25BX2huM28ySWRpTERBWlBfdFMwVDhkSVlPYklzQ01qSWlPMklYMVVEQ3htVGdJWXVOSGx6WUZicnJGd2ZZcGk4UjJjdXpfLWsxRGcwM3pMN2pBcUc2ZXpCdHdYOEVoamdmOFpGNjRVYmh2VTlzN0VqWmlsUXZaVlQyTFRfdGtyQkZwWlYzZzhWU040OHJ0RUhWTHpWQnM?oc=5)
+### [‘Clear red flags’ missed by Highland GP whose patient died from pancreatic cancer - Inverness Courier](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGVuYUVXQldCR1J2WTJvU1BGekk4eEI4eVd6MTVuMWUwcjJRX0Y4QlNYcl9GYnljSlY2N20zRnF1c1NKbDYwU0Q2dlZ6em9nRW93OVZzNXptRzlJaVNVZWtEbXMyeGQ3eWtEdHpIZlNwRG9CRG92bXdrRUhtUmg1Yzc1bzBTcFZYZmYzSHNSbmgwTTZ3UHJiVHNsZ2ZNckdUVTM1RnFNNGNzMnM?oc=5)
 
 2026-08-20 <span class="news-indication-tag">cancer</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZjFBcG5rT25Hc2k5OGhpNWJRdTl2MjlUb0RfMzI1YmFETDAxSnlDemdyT0ctWU9KVFZDWER3dG5UcXA0d3JmSEgxakNwZ2pGb1RWWWZCMFA1VGEzVzNEVERjemJCRjBWYWxfeFlPVS1Ra0ZSNnZaUU44SWJHZmc5dGl5RDFJYi1oSzVPNXdkUVRfWTZtcFdTS2RmekVXMGJwclM4Q25BX2huM28ySWRpTERBWlBfdFMwVDhkSVlPYklzQ01qSWlPMklYMVVEQ3htVGdJWXVOSGx6WUZicnJGd2ZZcGk4UjJjdXpfLWsxRGcwM3pMN2pBcUc2ZXpCdHdYOEVoamdmOFpGNjRVYmh2VTlzN0VqWmlsUXZaVlQyTFRfdGtyQkZwWlYzZzhWU040OHJ0RUhWTHpWQnM?oc=5)
-
----
-
-### [Special immune cells in centenarians could be killing cancers before they grow - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPZHB4SWMtaGtkcjBtVkZUT251TGg4QnFJb1o5T1dUcW9kenpWenZXd2Z0bFhXYURGbUlSbjcwNVAycjB4VFFURnItcUw2NzFBaVFUaDgxXzJaeDNsYkt5OHFJWWlHRGZ3cm5rdkxhWGpFSXpFMzUwWVdwMkRwT245azVGVUFnWFIwM09TTGUxb3I4WDFFOURYVmtEaEw0UQ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPZHB4SWMtaGtkcjBtVkZUT251TGg4QnFJb1o5T1dUcW9kenpWenZXd2Z0bFhXYURGbUlSbjcwNVAycjB4VFFURnItcUw2NzFBaVFUaDgxXzJaeDNsYkt5OHFJWWlHRGZ3cm5rdkxhWGpFSXpFMzUwWVdwMkRwT245azVGVUFnWFIwM09TTGUxb3I4WDFFOURYVmtEaEw0UQ?oc=5)
+來源：[Inverness Courier](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGVuYUVXQldCR1J2WTJvU1BGekk4eEI4eVd6MTVuMWUwcjJRX0Y4QlNYcl9GYnljSlY2N20zRnF1c1NKbDYwU0Q2dlZ6em9nRW93OVZzNXptRzlJaVNVZWtEbXMyeGQ3eWtEdHpIZlNwRG9CRG92bXdrRUhtUmg1Yzc1bzBTcFZYZmYzSHNSbmgwTTZ3UHJiVHNsZ2ZNckdUVTM1RnFNNGNzMnM?oc=5)
 
 ---
 
@@ -198,11 +214,11 @@ permalink: /news/pomalidomide/
 
 ---
 
-### [Labour under pressure to restore men’s right to prostate cancer tests - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnUxdTNUYzhDelBIbl93NUdReUZmSmdGTW9HbDVDRWhuMnJWUzZhUE1XLXVMVHAtQjd6SC1wVjV2U29pRjl4VzJzWUZWQ042WU9OODlCejYtSnZsZ2Zoa25XTGVJaVcxX3pyVVhZNDZoREVoS2Rsc3RIQ2FRMG1Wcm9lOUU0WEtTLTRpclNPZUNfSGFMc0QxakNRY0ZVaUFWMXh3Nw?oc=5)
+### [People Who Live Past 100 Have a Surprising Abundance of Cancer-Killing Immune Cells](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
 
-2026-08-19 <span class="news-indication-tag">cancer</span>
+2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnUxdTNUYzhDelBIbl93NUdReUZmSmdGTW9HbDVDRWhuMnJWUzZhUE1XLXVMVHAtQjd6SC1wVjV2U29pRjl4VzJzWUZWQ042WU9OODlCejYtSnZsZ2Zoa25XTGVJaVcxX3pyVVhZNDZoREVoS2Rsc3RIQ2FRMG1Wcm9lOUU0WEtTLTRpclNPZUNfSGFMc0QxakNRY0ZVaUFWMXh3Nw?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
 
 ---
 
@@ -219,78 +235,6 @@ permalink: /news/pomalidomide/
 2026-08-19 <span class="news-indication-tag">asma</span>
 
 來源：[IM Farmacias](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkhETWZkMjREZGJQci13U2VtZnFHeGQ1dU5ocFNfYTlMalRweEx0VXJFTk1JYXlER3hZaHQyMklVclJlcUQ0M2pScllzVFViSGZ6ZkQyTldIRmowXzkzdkdUOVQwZU1TWUl0eEtxTEhrMTNwUk0tY0Y1MHNGYUNJZ0F2eENxclBCQWt6THVsaEdIbkJRaGFR0gGSAUFVX3lxTE5ZNHFfazlyWVhnQ29lUjVTVTctMkhnaVlyYjcwTjNDYXI2TWVCX3hteFpNdHB5S19VVHNCVU1aemhxN3ZXT2Y0M3BXb3pkT2tYbTZDTVRDSURJdGllbXhLSWFqQmFyWWlmb0NwTTBRTy1qWjRmZnJ2Y09aN3ZjTWVqUV92RmJ5Z29nMlNrenZvcmJR?oc=5)
-
----
-
-### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
-
----
-
-### [Active Surveillance Rises as Focal Therapy Persists in Prostate Cancer](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYUxMQnU0UWpVbnFVZTJKb2NEbXZVclgtWWNWcDRSdHhfdGF5cDFQNU5TbWZaWUtKSk4zYW1sSGU5SXJIc1gxdXVEZGdsNl9vSGhENHZrcHhUWUpSRVJNblBPM0pOd0VjOC16SDFjTUdVcHotSUpkZlp2b3dNS0ZuTFdXWG9xc21vOE9jLUhxanZ4ek10aGh5Zml5Z3FyT2xoc2VDRWg5TlA4OFE?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYUxMQnU0UWpVbnFVZTJKb2NEbXZVclgtWWNWcDRSdHhfdGF5cDFQNU5TbWZaWUtKSk4zYW1sSGU5SXJIc1gxdXVEZGdsNl9vSGhENHZrcHhUWUpSRVJNblBPM0pOd0VjOC16SDFjTUdVcHotSUpkZlp2b3dNS0ZuTFdXWG9xc21vOE9jLUhxanZ4ek10aGh5Zml5Z3FyT2xoc2VDRWg5TlA4OFE?oc=5)
-
----
-
-### [Cancers : les pilotes de ligne et personnels de cabine parmi les professions les plus à risque aux États-Unis - Yahoo Actualités](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2NWeWZZQzJ4OXZNZTF1a1BLUnNQT3A2WU1VYzJKeXI2RVhNV2ppbC1vQVdRUVVLS3U0TkpmNWlxUVh6Vkk1ckNnRkNGOHdGeDJZeFhJLUhZa2pIS1NWU1AyM201SFozNG5uMWsteUotdmduM05nc254SEtka29EVXZwMEc3VDQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span>
-
-來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2NWeWZZQzJ4OXZNZTF1a1BLUnNQT3A2WU1VYzJKeXI2RVhNV2ppbC1vQVdRUVVLS3U0TkpmNWlxUVh6Vkk1ckNnRkNGOHdGeDJZeFhJLUhZa2pIS1NWU1AyM201SFozNG5uMWsteUotdmduM05nc254SEtka29EVXZwMEc3VDQ?oc=5)
-
----
-
-### [Il tumore al pancreas si può prevenire con un vaccino? Ecco a che punto sono i test - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWDJCeXJTaG1xUEVDM29nWENEOHJpMy10UVNfVy1OV2c5d3k5dmViaG16cGlyTk9BZVk0Z0gzcHZ3RTFUZGpjS2NJcWE5WGZCcmduM0pxdXdCMDVCNmJuUUhTai1HbDJKdXZVSm8yOTRpcFJrSWRfa2owaXVhN01YbU9JaVJmYkRmdksyWEl3cmFXdVlvQ0pqOUxxSkNXbE1aQTdPQ3MxXzVMVDY5MjhHX3FQSGRuOE50b2JWSzBYejVTZDVxNTVvQmRxcXJvdTFLOHhfeUNfVGNra2NPNlhWSVk5WnIxOERVWHB4S0prdzBsd2hXOTIw0gHKAUFVX3lxTE05VzNYVi00ZkFhWG1CT0NmakVFbUdCUllzWUUzY09yd1pRZU1Gamh3ZFNyRGNJTzlnVUt3OWxIZGdTY0JGcEZPcXRiREVIVDYwQnNMdzZoYWtaTUl4ZlFYSzlYZFZSYU5wSDZiRHNudnYzVFNvSGlfSnRzUUU1U1lmNkxycGtqODJFSjVaQjhuVnhyLWN0emZ6YmRPeFEtXzFIcVp0M2pXRmlCSFhVU3lwMmI5Q01iWG8yVVcwRzNCRnV3TWtkd1ByaXc?oc=5)
-
-2026-08-19 <span class="news-indication-tag">tumor</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWDJCeXJTaG1xUEVDM29nWENEOHJpMy10UVNfVy1OV2c5d3k5dmViaG16cGlyTk9BZVk0Z0gzcHZ3RTFUZGpjS2NJcWE5WGZCcmduM0pxdXdCMDVCNmJuUUhTai1HbDJKdXZVSm8yOTRpcFJrSWRfa2owaXVhN01YbU9JaVJmYkRmdksyWEl3cmFXdVlvQ0pqOUxxSkNXbE1aQTdPQ3MxXzVMVDY5MjhHX3FQSGRuOE50b2JWSzBYejVTZDVxNTVvQmRxcXJvdTFLOHhfeUNfVGNra2NPNlhWSVk5WnIxOERVWHB4S0prdzBsd2hXOTIw0gHKAUFVX3lxTE05VzNYVi00ZkFhWG1CT0NmakVFbUdCUllzWUUzY09yd1pRZU1Gamh3ZFNyRGNJTzlnVUt3OWxIZGdTY0JGcEZPcXRiREVIVDYwQnNMdzZoYWtaTUl4ZlFYSzlYZFZSYU5wSDZiRHNudnYzVFNvSGlfSnRzUUU1U1lmNkxycGtqODJFSjVaQjhuVnhyLWN0emZ6YmRPeFEtXzFIcVp0M2pXRmlCSFhVU3lwMmI5Q01iWG8yVVcwRzNCRnV3TWtkd1ByaXc?oc=5)
-
----
-
-### [Bauchspeicheldrüsenkrebs: Diese Pflanzenstoffe könnten helfen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFE2RGJKT3JoTWczNEJNdEE3N2tXbGdhMlVQeVBvazFZaHBQSHZ3eHk1OVlnUGNKZ2tmeVZCVURQWWdiVXlzNF8ySHF3bWJDaXVqdTZwQUZXQ3FhZTFZZTR5VDNZS3Q4bWF1UFpiYlk0SW9SaG9sZkF5cWRiRkxOYmJDTGlMckxRWDFnaEZlMWszTlZRdno5eHJxcG1qcW55X3JLczZqbHJVUUxvOWRRejlwc1pZQ3RyTjlVSnJjeXE?oc=5)
-
-2026-08-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFE2RGJKT3JoTWczNEJNdEE3N2tXbGdhMlVQeVBvazFZaHBQSHZ3eHk1OVlnUGNKZ2tmeVZCVURQWWdiVXlzNF8ySHF3bWJDaXVqdTZwQUZXQ3FhZTFZZTR5VDNZS3Q4bWF1UFpiYlk0SW9SaG9sZkF5cWRiRkxOYmJDTGlMckxRWDFnaEZlMWszTlZRdno5eHJxcG1qcW55X3JLczZqbHJVUUxvOWRRejlwc1pZQ3RyTjlVSnJjeXE?oc=5)
-
----
-
-### [Prostatakarzinom: Früherer Einsatz von 177Lu-PSMA-617 kann progressionsfreies Überleben verlängern - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT29HU0lDREFKYk5UaHNxeXJYbkU1UVY5UHhzOWNCdVJ0aVpxXzYxSTJfeVRjRnFrRzVheWFvckpMcXlpU2lBRlJfNnJyMEpIWl9UdGhQOXN6WS1xejI5c1hLNlgtajlYWGZnX2pRTUFGXzNIU2hPQnRpSDd2d2NteUZFalozYmJwV2M1TEhzMDhHcWFZRjRWbVpSdWg0bzNHYXo4RXR0eUdkdnEwSndpMURYYUc3aTROeS1TOXRoVkttMzlaSHVuaDVncUNSYnh5OHkwS1VSMWxua2ptMWxiNHQ4dWdWTjBLUHBWSHFZTU9hWXY4QU1jcmpn?oc=5)
-
-2026-08-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT29HU0lDREFKYk5UaHNxeXJYbkU1UVY5UHhzOWNCdVJ0aVpxXzYxSTJfeVRjRnFrRzVheWFvckpMcXlpU2lBRlJfNnJyMEpIWl9UdGhQOXN6WS1xejI5c1hLNlgtajlYWGZnX2pRTUFGXzNIU2hPQnRpSDd2d2NteUZFalozYmJwV2M1TEhzMDhHcWFZRjRWbVpSdWg0bzNHYXo4RXR0eUdkdnEwSndpMURYYUc3aTROeS1TOXRoVkttMzlaSHVuaDVncUNSYnh5OHkwS1VSMWxua2ptMWxiNHQ4dWdWTjBLUHBWSHFZTU9hWXY4QU1jcmpn?oc=5)
-
----
-
-### [Scoprire i tumori in tempo è possibile (e gratis) con gli screening oncologici - Corriere della Sera](https://news.google.com/rss/articles/CBMijAJBVV95cUxNNXduaS1fVzF3dUNTd09Yc2ZmeFRSalIzNy1KVUdob01rekpNQ1dzZGhkV2c4cm5PNDJIMDRuS0dJY3Bkd0tvTUtOTHpJb25tdmFZYVB4WlBWYmNqcEJhR2RsSGdTMFg5dTlXTGVwbmhHT0RCOUNLUmNBcjFKNTY0dUU0ZU9sdlVRX0dTb3ctTklYbjByQ0hZcDdWMGlYNGtJS2ZMQWM5NzM5ajdqNndOWFNXR3FxWEtuVk1ILW9fVlJLN1hPNGp6Yy01ZHlmY3k5Wk9ERUNvTTRwVkVHUTFjTW1vSk9PTWdqLWY0R1oxZWdDeERnMG14QzQwNHdZX0NyYVRlaWUwRVBLeXdu0gGSAkFVX3lxTE9JQTk4blNEMEg4WldRanppaDUwV0REOUFJaFh5c2FGNldnbU9kdm1uNWFOb2RrYUYweVhBRjg0UlpvWUgxZ0wyZ3NNVC0zZEs2TnBLQlpkdTcwYTJHMWpuRU5BR0otLS1YOUFWeTFEUW1xUHI1SEhLMVp3NTkzbDI3R2dDcE1PdXhLcnJsUGcxdEFTLU1PYUwxTFNJS2gwejlmRDNlNjJjek10bE1iUlpHMWltRDlZYThtWFlPakREMHUyQmdTa3FlRG1pa0tVQWNPcWg2a3hoWEk0eGF6YTA2REtTUEJtbjUtWl9Xck1uU3lXVGNWZV9zOFNDc2ZRYVJQOTQxSU1Udkt4TkZnMzhVcmc?oc=5)
-
-2026-08-19 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMijAJBVV95cUxNNXduaS1fVzF3dUNTd09Yc2ZmeFRSalIzNy1KVUdob01rekpNQ1dzZGhkV2c4cm5PNDJIMDRuS0dJY3Bkd0tvTUtOTHpJb25tdmFZYVB4WlBWYmNqcEJhR2RsSGdTMFg5dTlXTGVwbmhHT0RCOUNLUmNBcjFKNTY0dUU0ZU9sdlVRX0dTb3ctTklYbjByQ0hZcDdWMGlYNGtJS2ZMQWM5NzM5ajdqNndOWFNXR3FxWEtuVk1ILW9fVlJLN1hPNGp6Yy01ZHlmY3k5Wk9ERUNvTTRwVkVHUTFjTW1vSk9PTWdqLWY0R1oxZWdDeERnMG14QzQwNHdZX0NyYVRlaWUwRVBLeXdu0gGSAkFVX3lxTE9JQTk4blNEMEg4WldRanppaDUwV0REOUFJaFh5c2FGNldnbU9kdm1uNWFOb2RrYUYweVhBRjg0UlpvWUgxZ0wyZ3NNVC0zZEs2TnBLQlpkdTcwYTJHMWpuRU5BR0otLS1YOUFWeTFEUW1xUHI1SEhLMVp3NTkzbDI3R2dDcE1PdXhLcnJsUGcxdEFTLU1PYUwxTFNJS2gwejlmRDNlNjJjek10bE1iUlpHMWltRDlZYThtWFlPakREMHUyQmdTa3FlRG1pa0tVQWNPcWg2a3hoWEk0eGF6YTA2REtTUEJtbjUtWl9Xck1uU3lXVGNWZV9zOFNDc2ZRYVJQOTQxSU1Udkt4TkZnMzhVcmc?oc=5)
-
----
-
-### [The simple home test that could be 'amazing' for bladder cancer patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jWUo2MWVaYWlPcWNvUzgzQVBRdkhUWkFJVktVdS1RM3ppd2kzVjhKaHdFT3FLTXVaNXZqT2pRdmh5TnE2VjZIM3pxUDEyc0pobi1FM0U0NjV0OVBI?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jWUo2MWVaYWlPcWNvUzgzQVBRdkhUWkFJVktVdS1RM3ppd2kzVjhKaHdFT3FLTXVaNXZqT2pRdmh5TnE2VjZIM3pxUDEyc0pobi1FM0U0NjV0OVBI?oc=5)
-
----
-
-### [Prostate cancer can be diagnosed without invasive biopsy - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNemFuODY1X3BjWDFQd1kyODA3MmhKd2ZLVTZmd1dQLWNHdnQ5d1lZTTRjc01DZ3VHMFdBSnZFVm5WMTFvTXU0aWhOVGlOMkU0ZWRqLVBfSkdnX0dBWHdUT2ljNDc4bjRiWm1xcG5CMG45UFpVZjhTTDdWbS1LcVU3S0FsR2pyTkw1aFFHVWZkRXJOSmVNUjFqQ3dtMUJmdU9XRFl4WVR3?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNemFuODY1X3BjWDFQd1kyODA3MmhKd2ZLVTZmd1dQLWNHdnQ5d1lZTTRjc01DZ3VHMFdBSnZFVm5WMTFvTXU0aWhOVGlOMkU0ZWRqLVBfSkdnX0dBWHdUT2ljNDc4bjRiWm1xcG5CMG45UFpVZjhTTDdWbS1LcVU3S0FsR2pyTkw1aFFHVWZkRXJOSmVNUjFqQ3dtMUJmdU9XRFl4WVR3?oc=5)
 
 ---
 

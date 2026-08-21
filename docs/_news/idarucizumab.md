@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Mathilde Touvier, lanceuse d’alerte au service de notre alimentation : « Sauver des vies me motive - Le Parisien](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2VzcFIzY242M2E4TmRoNWo5T3RvWmxORlphTks1N0FMUjljQTU5VGlCTjJUcC1ybW1PNEtaeXN3ZHZmYVBsVmVONVlndmhLTmxwYkpST2R4QTM0NUh5V3FzcmZUUVhSWklzbTFPV3VreDlsbXZhNXFaMUtvZS1JZGxWMWRCRHh5TE5Cc1VvcUJQOVpoaEZNTXUzMVZXN05qZXpMQ2VzMEZRSGxXUEZHdWZVRlBLTDZFRVlQakZwRUE0V3BnbnBCMmFScksyNFpRekZKSHVKZWJIOVMta1k1WW9UOHNXel9lYU1hanF0eWl3dTFRLXlIejZLTFlTQQ?oc=5)
 
 2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Le Parisien](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2VzcFIzY242M2E4TmRoNWo5T3RvWmxORlphTks1N0FMUjljQTU5VGlCTjJUcC1ybW1PNEtaeXN3ZHZmYVBsVmVONVlndmhLTmxwYkpST2R4QTM0NUh5V3FzcmZUUVhSWklzbTFPV3VreDlsbXZhNXFaMUtvZS1JZGxWMWRCRHh5TE5Cc1VvcUJQOVpoaEZNTXUzMVZXN05qZXpMQ2VzMEZRSGxXUEZHdWZVRlBLTDZFRVlQakZwRUE0V3BnbnBCMmFScksyNFpRekZKSHVKZWJIOVMta1k1WW9UOHNXel9lYU1hanF0eWl3dTFRLXlIejZLTFlTQQ?oc=5)
+
+---
+
+### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
+
+2026-08-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 
 ---
 

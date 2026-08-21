@@ -54,27 +54,27 @@ permalink: /news/selexipag/
 
 ## 相關新聞（3 則）
 
+### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
+
+2026-08-21 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
+
+---
+
+### [Kurkuma gegen Bluthochdruck: Wundermittel oder Risiko? Arzt klärt auf - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzVjTW9FNm05ekV5YWtlLTUxMUZINmVnd3JOMEY5a2h3TFNQa3dQTmhzV1UxNHdMUnVjRkRnVmY0SlRQMEZGLWx2V0xGZ2RSbmlKSV9qeUhpLWkwMUY5SVVKeTFSU1VtaER3T0V3ZGpDLUQ2cXJqTjc1Y19BNlltREhqNnlXMGpCckk4Q3NCMDFsT1JNVjFONVM3RmlleUZDY2tzbGI5Tzl4Z0p3a1pCTUpFUTBRWkNfVjgtR004YXZFQVU?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzVjTW9FNm05ekV5YWtlLTUxMUZINmVnd3JOMEY5a2h3TFNQa3dQTmhzV1UxNHdMUnVjRkRnVmY0SlRQMEZGLWx2V0xGZ2RSbmlKSV9qeUhpLWkwMUY5SVVKeTFSU1VtaER3T0V3ZGpDLUQ2cXJqTjc1Y19BNlltREhqNnlXMGpCckk4Q3NCMDFsT1JNVjFONVM3RmlleUZDY2tzbGI5Tzl4Z0p3a1pCTUpFUTBRWkNfVjgtR004YXZFQVU?oc=5)
+
+---
+
 ### [Bluthochdruck: Auf diese zwei Nährstoffe kommt es laut Experten an - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
 
 2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
-
----
-
-### [Sprinttraining mit 6×30 Sekunden verändert 714 Proteine im Blut - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3l5TEZPRENlZm5PNzFyWWs0WGxyNV9zb0xVRHlyZFR0MV9LVTluUnF2OU9QcHdnam5qcXJ3YkZCRUtaaEJYa281a3FnSkxGYm5jVzhuY3cxWDZUMFdrQllBclVZV0JjWW1uRVJ6SlBzMXRMdENLRDZMclVId1g5U01NOW9MLWtYR1Rra2wtYzJjRVNVR0xLQWZBNXk?oc=5)
-
-2026-08-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3l5TEZPRENlZm5PNzFyWWs0WGxyNV9zb0xVRHlyZFR0MV9LVTluUnF2OU9QcHdnam5qcXJ3YkZCRUtaaEJYa281a3FnSkxGYm5jVzhuY3cxWDZUMFdrQllBclVZV0JjWW1uRVJ6SlBzMXRMdENLRDZMclVId1g5U01NOW9MLWtYR1Rra2wtYzJjRVNVR0xLQWZBNXk?oc=5)
-
----
-
-### [The blood pressure mistakes cardiologists wish you’d stop making - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWENZVWpRRlBvRjdlQVlkYVY2ZE5WUnA0bmJoMGtOWGVGNGxMbXNVd3pjLUVhcElHSTRHWkFXM2lhN1V2SDhwNUY2WDhlUldvLWlQRU1UeEhWZTJLcXExbjlFSHl4UWk1b3VjbWo2WTN4S1VkVlVJdTJJQ2I5MUpYTXhQa3BTVU1qdjE2ektmdTVOc3hHTTA4RHY2NnlJanpXNWtoSTdBYTFXYzZqbkNhR211OEhKcWtl?oc=5)
-
-2026-08-19 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWENZVWpRRlBvRjdlQVlkYVY2ZE5WUnA0bmJoMGtOWGVGNGxMbXNVd3pjLUVhcElHSTRHWkFXM2lhN1V2SDhwNUY2WDhlUldvLWlQRU1UeEhWZTJLcXExbjlFSHl4UWk1b3VjbWo2WTN4S1VkVlVJdTJJQ2I5MUpYTXhQa3BTVU1qdjE2ektmdTVOc3hHTTA4RHY2NnlJanpXNWtoSTdBYTFXYzZqbkNhR211OEhKcWtl?oc=5)
 
 ---
 

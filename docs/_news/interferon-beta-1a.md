@@ -54,27 +54,27 @@ permalink: /news/interferon-beta-1a/
 
 ## 相關新聞（17 則）
 
-### [Casi dos niños y niñas al día se han quedado huérfanos en el último brote de ébola en República Democrática del Congo](https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUgtYkMtZDN3amFxOGNFbk84TGpMNS11eE9DWUQ0Y3BVT3BiT05QWWJ0U3ktT2lRLTFuWnI2Mmg0QnczODhWd1NmbW5FVGI3S25kNVdtMFBYUTUtY2Q0dEc2WlFXdXotUDVYb2lYNmhUT0lYZzZGQllpendwWTZ4UnF5aC1LeG1yTU9iS2J3Tm1TaWJDYkhZZGd4Z3FWNHA1M0w1bGszNFVVT2JEcHU4SW11Wm1HN0JDQUEtbDNJZHZFa1Z6VUhV?oc=5)
+### [La epidemia de ébola en RD Congo «avanza de forma exponencial», según la ONU - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0o2NUtaOS1qNkhyamdfVllyejFrbkJIS0luVldfNGlvOVZRZV9OSFlXODU4dUdNdEVIWnRUcVljNkNGZWhMQWQzRzV6S3Vvb0ZkSG9seVFVeU1pNHFGX0Nidkc2RDZfcTB2NWRpTlJQaVpqSmhBTHV4UEtoeVBnN3VsZkZPZ3JUOHZVcm94NzRyazU3ZWlSYTkydGdXaEg2bDVrRm94Y3RXV2JNUTFIX0RXZVFOQS1xYU10dDIwUXVjWEJ1SG9LbWxR?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[savethechildren.es](https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUgtYkMtZDN3amFxOGNFbk84TGpMNS11eE9DWUQ0Y3BVT3BiT05QWWJ0U3ktT2lRLTFuWnI2Mmg0QnczODhWd1NmbW5FVGI3S25kNVdtMFBYUTUtY2Q0dEc2WlFXdXotUDVYb2lYNmhUT0lYZzZGQllpendwWTZ4UnF5aC1LeG1yTU9iS2J3Tm1TaWJDYkhZZGd4Z3FWNHA1M0w1bGszNFVVT2JEcHU4SW11Wm1HN0JDQUEtbDNJZHZFa1Z6VUhV?oc=5)
+來源：[SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0o2NUtaOS1qNkhyamdfVllyejFrbkJIS0luVldfNGlvOVZRZV9OSFlXODU4dUdNdEVIWnRUcVljNkNGZWhMQWQzRzV6S3Vvb0ZkSG9seVFVeU1pNHFGX0Nidkc2RDZfcTB2NWRpTlJQaVpqSmhBTHV4UEtoeVBnN3VsZkZPZ3JUOHZVcm94NzRyazU3ZWlSYTkydGdXaEg2bDVrRm94Y3RXV2JNUTFIX0RXZVFOQS1xYU10dDIwUXVjWEJ1SG9LbWxR?oc=5)
 
 ---
 
-### [Geringere Lebenserwartung? Wie lange man in der Regel mit Multiple Sklerose lebt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS2Z2VVp2d1l4LUoxMGdESi13SFJaZFVVVTRxd2FoZGxWb3UwelRXMnhFTWJXNTlWXzQwLVRCR0hzRHlkMkphV0FlTzBqVF9SdGVFOVltaG9nS2o5Z1NpQWluRkZXS0tWa1BHMmE5eGVXRjJCcE5fTGU2OEJpMGY0ekEyNmhjYWdYV0xVMmdKZGZFbk9HS1NmZEpCUnYxdXNDZW5NY3hSb2JMNFg5NHN1ZnpycmJoMVN2bFlVcmdpdzRmUU1PdmhnOWFGRUdnbFRHV3A0dzN0cjdQYWN5RGZkanY1WnFpakx4UDZRWmk1OER0VEg1bHljTg?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[CHIP](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS2Z2VVp2d1l4LUoxMGdESi13SFJaZFVVVTRxd2FoZGxWb3UwelRXMnhFTWJXNTlWXzQwLVRCR0hzRHlkMkphV0FlTzBqVF9SdGVFOVltaG9nS2o5Z1NpQWluRkZXS0tWa1BHMmE5eGVXRjJCcE5fTGU2OEJpMGY0ekEyNmhjYWdYV0xVMmdKZGZFbk9HS1NmZEpCUnYxdXNDZW5NY3hSb2JMNFg5NHN1ZnpycmJoMVN2bFlVcmdpdzRmUU1PdmhnOWFGRUdnbFRHV3A0dzN0cjdQYWN5RGZkanY1WnFpakx4UDZRWmk1OER0VEg1bHljTg?oc=5)
-
----
-
-### [Congo recibirá 70.000 dosis de vacuna contra ébola Ervebo, la cual ha sido eficaz en brotes previos - Los Angeles Times](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcU9GWXhhSVhCYm5ZX1Y0Z3Q5RUtYY0xkMjg3a2NQTFFLOHVuMTlBYnhmbFMxMmZiMjExdEp0bFphOUg0Z2JwM2d5c2FPOWNhaDZuR0FKa09hNVRkNnBpcXhoSTBkZWtBY2M2MWVMaU9KQjR5LW9UNjIxdVpHTnhRR1pqZ0FwVmhzNDZmTGFRUDd0cG95SjdkODFMczJaZUVXOUdBX0RWejNPS0lzSFFNeEVHeEJsdVg3Ynd2czZ3WloxTk1DQVNWcnFPeGs1dkRVS0JIV1ZyU0tiWTR6czJvQjNJYkxrMS11VFV1enkwV3JkRDdTX0lv?oc=5)
+### [Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTUNqNnFVUUkzZW9qRTcwd2o5NXZHckdoZThyUF9oczN6MHBCTmZVRXhsSlNlV1JYWW9STHBqOWtrS1c4QzFOWEhSdUVtNFFLdjN2WmE3UlVJaE9Vb3FJTnZldkI1TXhPV2s0bGRTdnQ2TjVrQXNxdnJPX2RCSjdqSzRhT1JYSi1yS3BIaHNOUHlwOVdWdFc2U1dVMENyQk9hMnJHSzBaYnFjakVmNHgzQ1lXM3A4Y2lPbE1QOVVnUFZ0M3JSU1lTczhfUzQtblZQNUt1R3NkbVlmVlZjbzBLQXpvU0xjaEFFQnhua2JJRDlhQQ?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcU9GWXhhSVhCYm5ZX1Y0Z3Q5RUtYY0xkMjg3a2NQTFFLOHVuMTlBYnhmbFMxMmZiMjExdEp0bFphOUg0Z2JwM2d5c2FPOWNhaDZuR0FKa09hNVRkNnBpcXhoSTBkZWtBY2M2MWVMaU9KQjR5LW9UNjIxdVpHTnhRR1pqZ0FwVmhzNDZmTGFRUDd0cG95SjdkODFMczJaZUVXOUdBX0RWejNPS0lzSFFNeEVHeEJsdVg3Ynd2czZ3WloxTk1DQVNWcnFPeGs1dkRVS0JIV1ZyU0tiWTR6czJvQjNJYkxrMS11VFV1enkwV3JkRDdTX0lv?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTUNqNnFVUUkzZW9qRTcwd2o5NXZHckdoZThyUF9oczN6MHBCTmZVRXhsSlNlV1JYWW9STHBqOWtrS1c4QzFOWEhSdUVtNFFLdjN2WmE3UlVJaE9Vb3FJTnZldkI1TXhPV2s0bGRTdnQ2TjVrQXNxdnJPX2RCSjdqSzRhT1JYSi1yS3BIaHNOUHlwOVdWdFc2U1dVMENyQk9hMnJHSzBaYnFjakVmNHgzQ1lXM3A4Y2lPbE1QOVVnUFZ0M3JSU1lTczhfUzQtblZQNUt1R3NkbVlmVlZjbzBLQXpvU0xjaEFFQnhua2JJRDlhQQ?oc=5)
+
+---
+
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
 
 ---
 
@@ -86,19 +86,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Gavi destina 13 millones de dólares y 70.000 vacunas para frenar el brote de ébola](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmRlaFo2NGkyWllXQ1NmZzVtZVhlS1pUZnQ0M2xCT005MmFJSGJGMWpyaDNkaHZIQVpIQ3Zxa1loYTBHN2YyeDlQV3Y0SlF3RlotbjBJNXlPZGxmNVZmTktkMWdIenRLcUtsb25IZmtLMi03am9wb0Nla1k0elpjVmNsM3JCWnZWWmtZZHE2OUE0UFJ5WC1zODNHUWhaZGJjbmJJaFRmZnllYUhlUTZpNVFCb0Z1bnVqajZKeHN5X3RaMmVvTnViWEZ6UDM?oc=5)
+
+2026-08-21 <span class="news-indication-tag">MS</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmRlaFo2NGkyWllXQ1NmZzVtZVhlS1pUZnQ0M2xCT005MmFJSGJGMWpyaDNkaHZIQVpIQ3Zxa1loYTBHN2YyeDlQV3Y0SlF3RlotbjBJNXlPZGxmNVZmTktkMWdIenRLcUtsb25IZmtLMi03am9wb0Nla1k0elpjVmNsM3JCWnZWWmtZZHE2OUE0UFJ5WC1zODNHUWhaZGJjbmJJaFRmZnllYUhlUTZpNVFCb0Z1bnVqajZKeHN5X3RaMmVvTnViWEZ6UDM?oc=5)
+
+---
+
+### [Sechs Etagen am Tag: Wie der Stockwerk-Zähler von Samsung Galaxy Watch, Apple Watch und Co. eurer Gesundheit hilft](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5)
+
+2026-08-21 <span class="news-indication-tag">MS</span>
+
+來源：[Netzwelt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5)
+
+---
+
 ### [Reizdarmsyndrom und PMA-Zeolith: Wissenschaft bestätigt Wirkweise des optimierten Zeolith](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJzdDZ4d3R3cmJyeHFTeDUyVHdGLS0yNGpTOGEtaWNlNmtKeWtiTU1lZFJDZVRvYzVtc3U3a1FOenRIOTg5VlVIVVQ0MjN1M1pZenpvd1Rnb1M5OVc2TTZYUy1PMVN5d2dTWXZDaWxnbWRLYWxYRXdjS002MFE2ZEVpYmV3X2tIeUo2T2FvUGFoYkY5NDVaVUZMS1NUY1hiSEg1dFZVOFB3RWV3WVhNNEU2VDBSbE14bEtoNk1vaGYtT3gyMUx3bQ?oc=5)
 
 2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[openPR.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJzdDZ4d3R3cmJyeHFTeDUyVHdGLS0yNGpTOGEtaWNlNmtKeWtiTU1lZFJDZVRvYzVtc3U3a1FOenRIOTg5VlVIVVQ0MjN1M1pZenpvd1Rnb1M5OVc2TTZYUy1PMVN5d2dTWXZDaWxnbWRLYWxYRXdjS002MFE2ZEVpYmV3X2tIeUo2T2FvUGFoYkY5NDVaVUZMS1NUY1hiSEg1dFZVOFB3RWV3WVhNNEU2VDBSbE14bEtoNk1vaGYtT3gyMUx3bQ?oc=5)
-
----
-
-### [Face à l'épidémie d'Ebola, l'Organisation mondiale de la santé fournit 70 000 doses de vaccin Ervebo à la RDC](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUzdFTGhXWl84eGNjVEdRZjZsamVsWE1fTHhRVXFpQVgxU1hBVUhCcFFsVUg5eDcxTmNHYlk2cXQ0OEgwNzQ1RTNQVzRCeFdaYkRyMEM1N1c2ZWdCSXlSMnpramNxb0RCaG5FdHRvUlo4ZEdjM2tLeTJWSkNqZzJ5b1VtdnB6U0lzMi13ZWE5TDF3UTZMdVBJaDBjMm1YX0swdHduMi05T3dJQ2FsTVVUX3hfcE5JNkwtcGZyM0J3MW9kdVVFMDJKdkRzWWI4aUkyXzBNcHdaQ09XTEFEOWl2TkthLVBvdDNqSW9rODJnZ3FDRXR1bndJSi0yRQ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUzdFTGhXWl84eGNjVEdRZjZsamVsWE1fTHhRVXFpQVgxU1hBVUhCcFFsVUg5eDcxTmNHYlk2cXQ0OEgwNzQ1RTNQVzRCeFdaYkRyMEM1N1c2ZWdCSXlSMnpramNxb0RCaG5FdHRvUlo4ZEdjM2tLeTJWSkNqZzJ5b1VtdnB6U0lzMi13ZWE5TDF3UTZMdVBJaDBjMm1YX0swdHduMi05T3dJQ2FsTVVUX3hfcE5JNkwtcGZyM0J3MW9kdVVFMDJKdkRzWWI4aUkyXzBNcHdaQ09XTEFEOWl2TkthLVBvdDNqSW9rODJnZ3FDRXR1bndJSi0yRQ?oc=5)
 
 ---
 
@@ -115,14 +123,6 @@ permalink: /news/interferon-beta-1a/
 2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Epilepsie</span>
 
 來源：[Radio Charivari Rosenheim](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGNUanlZcW1pYXdGdHJUMkxRcFJDTHZCak1wbTcwNlIzczY5LVlMTXhVTVRqaXlaNUVmVTNEXzF4WkRGQlBMa0NUQzVEX0F4QVRQeFRoNVRVWGpRa3JIV2tLMGRYLTdlT2U5emUzOHFKT1kwSG4tWmxKcW92YXVxTU5XaXQ2Z0dQMjBma21HV0pESnRTcXZKc21jaWZSSjNjSlgxMFB4ZUdyOFpkSWlqZHdqTDlIWVNpVUtCMU5Lc3JfeHZnSnNzU0ktLVZfakYxZUJOajNJWVA1elFPNUlHei01Yl9qY3plLXc?oc=5)
-
----
-
-### [Special immune cells in centenarians could be killing cancers before they grow - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPZHB4SWMtaGtkcjBtVkZUT251TGg4QnFJb1o5T1dUcW9kenpWenZXd2Z0bFhXYURGbUlSbjcwNVAycjB4VFFURnItcUw2NzFBaVFUaDgxXzJaeDNsYkt5OHFJWWlHRGZ3cm5rdkxhWGpFSXpFMzUwWVdwMkRwT245azVGVUFnWFIwM09TTGUxb3I4WDFFOURYVmtEaEw0UQ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPZHB4SWMtaGtkcjBtVkZUT251TGg4QnFJb1o5T1dUcW9kenpWenZXd2Z0bFhXYURGbUlSbjcwNVAycjB4VFFURnItcUw2NzFBaVFUaDgxXzJaeDNsYkt5OHFJWWlHRGZ3cm5rdkxhWGpFSXpFMzUwWVdwMkRwT245azVGVUFnWFIwM09TTGUxb3I4WDFFOURYVmtEaEw0UQ?oc=5)
 
 ---
 
@@ -150,6 +150,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [An ‘Exercise Pill’ Just Cleared Its First Human Test](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
+
+2026-08-19 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[Gizmodo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkZqSDhaX0RySVY1VHlDdnVVQnBoUUl6S1A1UW9HWHJSRVBJbXlvUnNtMGtmOVY5RHN1X09OemRRVC1ibzhRbUNrVUNKb0hMMzlMLTNVM2hSa01maVRYOU9SNkJYTkVVRmJBYm1BMUZONlptMzQ2SnRyWmdEOHp0NmNFN1pqdnFQ?oc=5)
+
+---
+
 ### [How going vegan for 1 month may affect aging, inflammation - Medical News Today](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmFiSlY1SDdQaGRlYk55N01KbFlpRV93M3k1bjV6dXlENUFNaFd2WHVaOWpQSUl0QloySFFoRjBKd1Y2X1BSdldqN09NOW1NSjhvaHdBeWdVQzFfeC1nMXhEREwweVJZVzBSU0wtQzdQSDA4d0NNNVF6T2JMSG85RDNoRzJ2UC02UEFSTUp4c3FBMnlXRm1SbjZKTkRiekI3?oc=5)
 
 2026-08-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -158,11 +166,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Waist size is the 'best indicator' for risk of death past middle-age, says study - what YOUR measurement means - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
+### [People Who Live Past 100 Have a Surprising Abundance of Cancer-Killing Immune Cells](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
 
-2026-08-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGtkVE5UMm5MdUFnNHFfRmFGMndpdVhvT252OGFaR1oyRHVrVFJnN05vSEFtTFk5V0RRN2lSQ0ladml1OVRvUWw4TjRwa0lHWG9sMWRnLVprSW1iN1JwUmRBcjV0aU1oVW1fRlJwbENTQkpXY2F1RE1YbklZVFZ5ZU0zY1pNWE5WNEE?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzNPbjZ2eUoxckpPQ2JVaEgxS0ZhZUFyUGxRaDV6OXVhc1lBX2Y4YlFIUFJEOWRhQ1RLMkxKYVRBU2NYdjEtRjRYZDR4Tm5LQ3hXa044bkJ0NGkwaktOd1RnRkRsNkZ2bTFFSHBub3V5YnYwX0RqbFNCQmZxeHpFTHZwWUlPQVB6aHhaRWR4dkNEamwtUVJDSlJVelhFSDR4bUVaUlFQTU8xUQ?oc=5)
 
 ---
 
@@ -174,19 +182,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [My hoarse voice was a sign of incurable lung cancer for years and I never smoked - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
+### [21.5 Million More Americans Now Qualify for Statins. Are You One of Them?](https://news.google.com/rss/articles/CBMie0FVX3lxTE1RdWxsQkNhZXFmcjhreVIxbGMxOWEwOFo4UjVuaWxDUmRrYXJ1N0RnQzR2aElvN2xhV05naTdYMll5czhPTWR4NXNPUUNwN3RiU19CbWh5TGp3YVluS3JwblpjbjZsOEtjMndwRHhEbG55eERyUnU4MU1QNA?oc=5)
 
-2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-13 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWC1oXzU3V05DSExZOHNQbDRfZ2ZGV3JwQjFDbmtxTkZXZnVSZGxMdkhYRGFENlNCM3RHVl9GZjQ1NVo0YU0zUERMd1RSTkt5N1dqVjlXeGVmT1VyMmZoVVQtTHo4aEpLWmhMdk13R3NsQVRCcm9HeTRZSV9fc1NWMkZrelA1Y1FHOFI1NzRXTENoaDdWSlViXw?oc=5)
-
----
-
-### [Los avances sanitarios pierden velocidad: la OMS llama a reforzar la inversión y las políticas de salud - Gaceta Médica](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUVtc3c5Wm5leTZaLTAtSDZMNndadnBlcHN6WG5QWlRuTzNiTDRub1RVaUpDRDhnR2tOMXJLQ1RxMmxOaGxfUGRBMFRJMFVOU05wZXQ5cmtYX3J0NVAxUGNWWVdoZVVvLVNTY2I5VTJnUGItOG5aSC1SSHZGeW5RV3V6ZnRvYkhvRFBBMFlXT25nemdCZG4tUlFJMUxBdw?oc=5)
-
-2026-08-19 <span class="news-indication-tag">MS</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUVtc3c5Wm5leTZaLTAtSDZMNndadnBlcHN6WG5QWlRuTzNiTDRub1RVaUpDRDhnR2tOMXJLQ1RxMmxOaGxfUGRBMFRJMFVOU05wZXQ5cmtYX3J0NVAxUGNWWVdoZVVvLVNTY2I5VTJnUGItOG5aSC1SSHZGeW5RV3V6ZnRvYkhvRFBBMFlXT25nemdCZG4tUlFJMUxBdw?oc=5)
+來源：[AOL.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE1RdWxsQkNhZXFmcjhreVIxbGMxOWEwOFo4UjVuaWxDUmRrYXJ1N0RnQzR2aElvN2xhV05naTdYMll5czhPTWR4NXNPUUNwN3RiU19CbWh5TGp3YVluS3JwblpjbjZsOEtjMndwRHhEbG55eERyUnU4MU1QNA?oc=5)
 
 ---
 

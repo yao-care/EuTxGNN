@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [UK men with heart disease at higher risk of developing and dying from cancer - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
 
 2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
+
+---
+
+### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
+
+2026-08-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 
 ---
 

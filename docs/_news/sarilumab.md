@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
+
+---
 
 ### [Mathilde Touvier, lanceuse d’alerte au service de notre alimentation : « Sauver des vies me motive - Le Parisien](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2VzcFIzY242M2E4TmRoNWo5T3RvWmxORlphTks1N0FMUjljQTU5VGlCTjJUcC1ybW1PNEtaeXN3ZHZmYVBsVmVONVlndmhLTmxwYkpST2R4QTM0NUh5V3FzcmZUUVhSWklzbTFPV3VreDlsbXZhNXFaMUtvZS1JZGxWMWRCRHh5TE5Cc1VvcUJQOVpoaEZNTXUzMVZXN05qZXpMQ2VzMEZRSGxXUEZHdWZVRlBLTDZFRVlQakZwRUE0V3BnbnBCMmFScksyNFpRekZKSHVKZWJIOVMta1k1WW9UOHNXel9lYU1hanF0eWl3dTFRLXlIejZLTFlTQQ?oc=5)
 
 2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Le Parisien](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2VzcFIzY242M2E4TmRoNWo5T3RvWmxORlphTks1N0FMUjljQTU5VGlCTjJUcC1ybW1PNEtaeXN3ZHZmYVBsVmVONVlndmhLTmxwYkpST2R4QTM0NUh5V3FzcmZUUVhSWklzbTFPV3VreDlsbXZhNXFaMUtvZS1JZGxWMWRCRHh5TE5Cc1VvcUJQOVpoaEZNTXUzMVZXN05qZXpMQ2VzMEZRSGxXUEZHdWZVRlBLTDZFRVlQakZwRUE0V3BnbnBCMmFScksyNFpRekZKSHVKZWJIOVMta1k1WW9UOHNXel9lYU1hanF0eWl3dTFRLXlIejZLTFlTQQ?oc=5)
+
+---
+
+### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
+
+2026-08-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 
 ---
 

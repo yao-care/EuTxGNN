@@ -3,7 +3,7 @@ layout: default
 title: "Epilepsie（epilepsy） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Epilepsie（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
+description: "Epilepsie（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epilepsy/
 ---
 
 <p class="key-answer" data-question="Epilepsie（epilepsy） 有什麼相關新聞？">
-<strong>Epilepsie（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
+<strong>Epilepsie（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Bessere Versorgung bei MS und Epilepsie: kbo-Inn-Salzach-Klinikum und RoMed kooperieren - Radio Charivari Rosenheim](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGNUanlZcW1pYXdGdHJUMkxRcFJDTHZCak1wbTcwNlIzczY5LVlMTXhVTVRqaXlaNUVmVTNEXzF4WkRGQlBMa0NUQzVEX0F4QVRQeFRoNVRVWGpRa3JIV2tLMGRYLTdlT2U5emUzOHFKT1kwSG4tWmxKcW92YXVxTU5XaXQ2Z0dQMjBma21HV0pESnRTcXZKc21jaWZSSjNjSlgxMFB4ZUdyOFpkSWlqZHdqTDlIWVNpVUtCMU5Lc3JfeHZnSnNzU0ktLVZfakYxZUJOajNJWVA1elFPNUlHei01Yl9qY3plLXc?oc=5)
 
 2026-08-20
 
 來源：[Radio Charivari Rosenheim](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGNUanlZcW1pYXdGdHJUMkxRcFJDTHZCak1wbTcwNlIzczY5LVlMTXhVTVRqaXlaNUVmVTNEXzF4WkRGQlBMa0NUQzVEX0F4QVRQeFRoNVRVWGpRa3JIV2tLMGRYLTdlT2U5emUzOHFKT1kwSG4tWmxKcW92YXVxTU5XaXQ2Z0dQMjBma21HV0pESnRTcXZKc21jaWZSSjNjSlgxMFB4ZUdyOFpkSWlqZHdqTDlIWVNpVUtCMU5Lc3JfeHZnSnNzU0ktLVZfakYxZUJOajNJWVA1elFPNUlHei01Yl9qY3plLXc?oc=5)
-
----
-
-### [Epilepsie: Männer tragen 1,4-fach höheres SUDEP-Risiko](https://news.google.com/rss/articles/CBMipwFBVV95cUxONURvQ3liTzZZVDBTMFRrdmdzYWxqSWlRMk9LbXcxZ0I1YWRscm54MkxsWWVwZGlUVmlxSmxQTVBwT0N4Z1BuN2JQOTZZaUhpVlEzU3VsTjF4QzhqLVJiYTJUY19kVXFkaDM1elZHclNxYmE1NEVDaTBOX1U3bE9OeXhvMDctNkFQdWFRdkFmRGxzMnRGcWZtUGloa1pUZXJtcGZDenlFQQ?oc=5)
-
-2026-08-19
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxONURvQ3liTzZZVDBTMFRrdmdzYWxqSWlRMk9LbXcxZ0I1YWRscm54MkxsWWVwZGlUVmlxSmxQTVBwT0N4Z1BuN2JQOTZZaUhpVlEzU3VsTjF4QzhqLVJiYTJUY19kVXFkaDM1elZHclNxYmE1NEVDaTBOX1U3bE9OeXhvMDctNkFQdWFRdkFmRGxzMnRGcWZtUGloa1pUZXJtcGZDenlFQQ?oc=5)
 
 ---
 

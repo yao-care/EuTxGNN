@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。15 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。12 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>15 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>12 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,31 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（12 則）
+
+### [Endometriose: Studie zeigt 46 Prozent höheres Diabetesrisiko](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0xhLUZwMmFGNTVwVzJ6TTVkQTZ0OFQ5RTNUNU9EWXMyMzZyUlFIeFRPREJHaVNtQzNYNVRibXlYcDFKTERvVlRVNDFzay16QzNtcFRuUFZoOTFKajdKQzJZeXJSbWdsdWFIbzR6Nmo3dmQzSmZ1QVc1NnkwS2xkY1BuUTAzNE1DVkZOeVRJTERoZmZpZE1PS0o0Q3A1aTkzdS1JZ2g5WmxnX0dIZlNiYzFRTVM1Y1c2QWxfaTQ1RC1aODhV?oc=5)
+
+2026-08-21
+
+來源：[BILD](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0xhLUZwMmFGNTVwVzJ6TTVkQTZ0OFQ5RTNUNU9EWXMyMzZyUlFIeFRPREJHaVNtQzNYNVRibXlYcDFKTERvVlRVNDFzay16QzNtcFRuUFZoOTFKajdKQzJZeXJSbWdsdWFIbzR6Nmo3dmQzSmZ1QVc1NnkwS2xkY1BuUTAzNE1DVkZOeVRJTERoZmZpZE1PS0o0Q3A1aTkzdS1JZ2g5WmxnX0dIZlNiYzFRTVM1Y1c2QWxfaTQ1RC1aODhV?oc=5)
+
+---
+
+### [Viel mehr als nur die Zuckerkrankheit](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJ2RVJWdkRaWnJJT3RGRGZuU1IwVHBpZkJJX1VpVE8xcFRjZU1VeTNiMWhfUVdIWkFQQWk5aGM4cHVpTTBfdzhab3ZJcXZDUnd6bnJ2QTkzU2xwaVhyWVJ2OFo1eHVQcVExVHZFY3lfYjR5UUpmUUtaZkI2U1pqLXo5aw?oc=5)
+
+2026-08-21
+
+來源：[halloherne.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJ2RVJWdkRaWnJJT3RGRGZuU1IwVHBpZkJJX1VpVE8xcFRjZU1VeTNiMWhfUVdIWkFQQWk5aGM4cHVpTTBfdzhab3ZJcXZDUnd6bnJ2QTkzU2xwaVhyWVJ2OFo1eHVQcVExVHZFY3lfYjR5UUpmUUtaZkI2U1pqLXo5aw?oc=5)
+
+---
+
+### [Sarò abbastanza magra? Cosa sta cambiando con i farmaci GLP-1](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEpSbmdDc0tqeTlmVUxkTlIzRnJreHg4UzY2WFZJdDBaZjRMU1ZYMUU4azE5NV9aeDFIMENoUnBJT2EtQlFEU1FMamFVcVYtTGxaa2dFRC16T0t3UlRfWTNoWGM1VmVPZks0bmx1YlI4M2ZTenVXYmgwUTlMUTE4dHhpUXBreG1PS1Q3OUc2a3hJTE9FT2FxN1lGNUlTbWQ0b1Y4ZVowZUlvbGRROERIeA?oc=5)
+
+2026-08-21
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEpSbmdDc0tqeTlmVUxkTlIzRnJreHg4UzY2WFZJdDBaZjRMU1ZYMUU4azE5NV9aeDFIMENoUnBJT2EtQlFEU1FMamFVcVYtTGxaa2dFRC16T0t3UlRfWTNoWGM1VmVPZks0bmx1YlI4M2ZTenVXYmgwUTlMUTE4dHhpUXBreG1PS1Q3OUc2a3hJTE9FT2FxN1lGNUlTbWQ0b1Y4ZVowZUlvbGRROERIeA?oc=5)
+
+---
 
 ### [Diabetes und Kinderwunsch: Hormontherapie im Check](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0o3WG90djdidkhXdUc0YkpUYzNzU0txRTBtdlhlNlphVmQwSUpOTl9OVUFRbTZrNTFUS3FVS3UtaWRaLXRyX3pic1RfS1VBWnlnTm8zWWp4YkdhWjZvaFJSSE55N0VMY0R6aDBVWkd3Rm95cUF6RVBXMEVEMkhXcGR2S0RPV0xLNkMtMWtvN0VQYW9KOW5rcVNwb2ZHR0tSMi1mdGN1bVJYSXF1dXBqT0ZnYV9SQQ?oc=5)
 
@@ -140,14 +164,6 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Diabetes: Kein Zusatznutzen für Tirzepatid bei Behandlung von Kindern und Jugendlichen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVFppLWlwTV9JLWJzX1hUbl9VT2hWcEZBWTdPUUQxQ1pLZ2Z6R2Q0cVFuMnJ2a2pOeExIdGx4aVVweHJPUDRiRWdWU00zTDR5d0U2bFQ5c2J1RGZYYjNUTlpUU0hHVllqV0lYeGp1Z2oxX25lZzBUdkI2TEk0QzhJQ2lFclQ5aU1pUkNNRGlfTTc1cXA1U1ZGWTJlem54NE1PbzJvNVlHWUZSRG5NWjFxMDk2NXZIRXN1LXFwb3FnQzVvWmh6b0F1MkxMUnYwcVBzaWtVRllFalZyTFAyZzNZYVFxY3pmTDhYM1E?oc=5)
-
-2026-08-20
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVFppLWlwTV9JLWJzX1hUbl9VT2hWcEZBWTdPUUQxQ1pLZ2Z6R2Q0cVFuMnJ2a2pOeExIdGx4aVVweHJPUDRiRWdWU00zTDR5d0U2bFQ5c2J1RGZYYjNUTlpUU0hHVllqV0lYeGp1Z2oxX25lZzBUdkI2TEk0QzhJQ2lFclQ5aU1pUkNNRGlfTTc1cXA1U1ZGWTJlem54NE1PbzJvNVlHWUZSRG5NWjFxMDk2NXZIRXN1LXFwb3FnQzVvWmh6b0F1MkxMUnYwcVBzaWtVRllFalZyTFAyZzNZYVFxY3pmTDhYM1E?oc=5)
-
----
-
 ### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
 
 2026-08-20
@@ -164,43 +180,19 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Viel mehr als nur die Zuckerkrankheit - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
-
-2026-08-20
-
-來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MFFVcF9BZXFDd3UwbDlydERORHhLaXlFdWwxXzJ0aWZad2llTDM0ZFZ4eFdxZHRvY1hqRnlfRU12NkUwaVhSMkhCdmlMd1haQU54a1FFbWJDQUhvSFFiV2lMT3V3bXFBWE10UXhVdGhhd2l1ZFE?oc=5)
-
----
-
-### [Diabete, l’insulina che dura una settimana: cosa cambia davvero per chi deve fare le punture](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
-
-2026-08-20
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDdabWo5d3VXYlA2Vzh0ZFpEWnlIU1cwSzlLNHlISWxYa3JPNnJFSGJqRGI3OHFqRkJFOFp1cEJld01Hc2EtOXNTRnVhc2lpUVRZS1dYV3NNRkROMk1YYUNDSlZBNk5nMG0wZlRIbGEyNnQtOW1vWUxLMlNSU04zdHhIcmhaajIzTWEzT1VfaUFDXzRiNWhaeXRhQTZONTZlSWhQampBQXYyanZBSnZpM1R2c1lucmE1MXNRdWJzMnZTYjFpZUlWTDlYRmVIdU40ck0xMVd1MA?oc=5)
-
----
-
-### [Sprinttraining mit 6×30 Sekunden verändert 714 Proteine im Blut - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3l5TEZPRENlZm5PNzFyWWs0WGxyNV9zb0xVRHlyZFR0MV9LVTluUnF2OU9QcHdnam5qcXJ3YkZCRUtaaEJYa281a3FnSkxGYm5jVzhuY3cxWDZUMFdrQllBclVZV0JjWW1uRVJ6SlBzMXRMdENLRDZMclVId1g5U01NOW9MLWtYR1Rra2wtYzJjRVNVR0xLQWZBNXk?oc=5)
-
-2026-08-20
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3l5TEZPRENlZm5PNzFyWWs0WGxyNV9zb0xVRHlyZFR0MV9LVTluUnF2OU9QcHdnam5qcXJ3YkZCRUtaaEJYa281a3FnSkxGYm5jVzhuY3cxWDZUMFdrQllBclVZV0JjWW1uRVJ6SlBzMXRMdENLRDZMclVId1g5U01NOW9MLWtYR1Rra2wtYzJjRVNVR0xLQWZBNXk?oc=5)
-
----
-
-### [Lombardia, allarme per la spesa di farmaci contro il diabete (usati anche per dimagrire): più 20%. Remuzzi: «L'uso estetico ha più effetti indesiderati che pregi» - Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
-
-2026-08-20
-
-來源：[Corriere Milano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaC1pR05RZWdGbEFadnBMM2NWanlwdmZFZ3Z2VVNCSDlkVnA4RVRSaC1ROEFEU2Z4dFVtbmJyVlNETzBQUkpDMVNUU1JOR3d5aEFaLU45WjA5VnV6T0FPQkV1dTE2VklINERIcEtDUEpFeVRPMFhaWHlTMU1vMktpZ25OQzBUem5IUXBUQm9XNzd4SWZDWmFMbTA2Q0FLT1h5ZVZsbDh1bXpGTS0tVjRrbjlab2JEdEVlb2tNTFlwX2JQQTVuR0NnSF91Y24tSlhMOGprNDU4NmJaUdIB3wFBVV95cUxNbVRYTFh0QUVPcXlmZGpyYWxyWWRnbkpqTTU1LWU3cmN0LVc3X0FjQzJway1HZ1Z0M3RBdHNPUDRuQVV6NnNLdU05VnZZdTR3LTNXYXQ0ZzNfYTBtWE84THlOZXhRNXpCcWhrclpzZEFhRTNHZi01QWo2VUtMWUdnMUtIa0xCRWRmZEVqRm44by11eEQyLTJ6R2pibDdvV2Y3czVhcmxJUmttR1dwV3o5NUZrTktpcXd2Q3lZOGJGUUNPbm1LcGFqSkw1YklfYVRMYlVCLVp5NTk2cjc5b0xr?oc=5)
-
----
-
 ### [Siete señales que pueden alertar de una prediabetes y que muchas personas pasan por alto](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
 
 2026-08-19
 
 來源：[ABC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUU4bEVRZk42Y3VmZm5FOUZ5MkNueUxiTGtLVy1Ia2xjZ2hZLWlXRjdhVkF1cEp6VUx4SkZrX2NTNkIyZEtzSk9LNF9uTVo0LWNJSC1SUHRKblk4NWY0QjRMdlFPLWZfNU9wUTZxOW9oSjUwREN3TzBOczM1RXFRbkx2UURueUpuTWk1ZHJGQ3BYak55NUxqWEZhUmF6RTRyQnZEWDh5M1lKZ1BCdGFqYzd2LVE2UTTSAbwBQVVfeXFMUHZkaTEwM1pIRXJGWTRvS1l6T2JxUFI2OE1pUGk5Uk1VUmlEbUJqSzdXRC1YRjVSMzhRTUItVDhiT1hLZWdUNG9WRlJFR2RTaE1LME9vdDkwZjBOU082SG5RWkd1ZzQ2OWg3bkpENnRUVVJlNUp4TXNkWFFMaUZjN2d2bU42ZUpCUGo1WWhvZGpidk85MnNveXIzY3RueTJlT3hBSjVZdEFNcTd1MUE5Y2xjc1NTNDJaTzNEUVc?oc=5)
+
+---
+
+### [Typ-2-Diabetes im Alter: SGLT2-Hemmer senken Sterblichkeit um 32%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXhNeU5jTmRsOFhEby1kblI2MmpTQkVuV0N2YmN2cm1RME1lc1VjWjRfdUJHRDhCVlo0Rm5vMFhSbFB2aFlEODFHdjhGMGYzVEM0X3F3WVcwbGJHMENLTE0yQ0JoeWZPQjRyNDZicTEtd1c1M2VaZHlIa2dTbno1ZFlmVTRXUWdNcW1uTUFRT0ZBcFJzS2RzSW5IVzJlSG9UZEZLSVlEdmlHbnU5Nmx6V2lHMXNWZGh6Z1hZUQ?oc=5)
+
+2026-08-19
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXhNeU5jTmRsOFhEby1kblI2MmpTQkVuV0N2YmN2cm1RME1lc1VjWjRfdUJHRDhCVlo0Rm5vMFhSbFB2aFlEODFHdjhGMGYzVEM0X3F3WVcwbGJHMENLTE0yQ0JoeWZPQjRyNDZicTEtd1c1M2VaZHlIa2dTbno1ZFlmVTRXUWdNcW1uTUFRT0ZBcFJzS2RzSW5IVzJlSG9UZEZLSVlEdmlHbnU5Nmx6V2lHMXNWZGh6Z1hZUQ?oc=5)
 
 ---
 
@@ -217,22 +209,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-19
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm5Qaml6d2M0N1puVWM1ZDRUOXNPZzB5b25LZVpobkw0UVpXVXNaZ0xXWlltVHpqZTh5djctWE9EbjZzTEdCY1dWN05ER2xrVlVLRGNqWFFLZHM0bGhfTWNFbUluUkVIbkxPT3EwMHZnUEkxUFd5NmpXOUxoLU9pV3NDNHVfQjQ?oc=5)
-
----
-
-### [Diabetestherapie | Medikation des Typ-2-Diabetes wird im Alter zu selten angepasst](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSVJPVTdtTlBqMjExVDkwSEh6Z013c1lFTnBxYTRFazlCdzhrenRITnB0dXdQUGdkTTRsejE0QU1NbVpBb2R6aVVDX2JDalk2cWtVT1FaVmg2WlFkUlhBcXVqMmZBMmE1T24wSmFtcEE2MENfeVRvUnJaNE1UUm1CU0syM25FdU9fYVRZRDBWQ1VmUVpQMzlRNUdkVk5wU1hEZGNwNnRYOTYtSHM1R3doT05wTVVkTTE2NDZhY1BqalFFX3ZpY080SmNweTJ1M2Z2?oc=5)
-
-2026-08-19
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSVJPVTdtTlBqMjExVDkwSEh6Z013c1lFTnBxYTRFazlCdzhrenRITnB0dXdQUGdkTTRsejE0QU1NbVpBb2R6aVVDX2JDalk2cWtVT1FaVmg2WlFkUlhBcXVqMmZBMmE1T24wSmFtcEE2MENfeVRvUnJaNE1UUm1CU0syM25FdU9fYVRZRDBWQ1VmUVpQMzlRNUdkVk5wU1hEZGNwNnRYOTYtSHM1R3doT05wTVVkTTE2NDZhY1BqalFFX3ZpY080SmNweTJ1M2Z2?oc=5)
-
----
-
-### [Typ-2-Diabetes: Zeitgesteuertes Essen senkt HbA1c um 1,12 Punkte](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
-
-2026-08-19
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm5fNmxUczhuY2R5Y0l2SUZ4QXVJVGVIR3BkVGpaM0F1SGxKT2c2V0o4Tm41QXByNjdENXBVTVJBclBzcElrTjR1dzR1N1dHZ2xLSVNhQkMxdm55cW44RkM1VFdGcGtrQ2RfRzUwRHIwanJDM2oxTkpYVHAwRHZYSEM3TmU1YlRqbWE4Qm5VQWgxUGlCc3k1ZVA1YXhRZ1FhTW85UHZ6dHlqRTlZNmliZUN3?oc=5)
 
 ---
 
