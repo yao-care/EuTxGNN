@@ -54,19 +54,19 @@ permalink: /news/budesonide/
 
 ## 相關新聞（2 則）
 
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+
+---
+
 ### [BPCO, vivere significa “razionare” le energie: cosa raccontano 60 pazienti in cinque Paesi](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWxHalZVWHBORlFJZFdlVHk3d2dtXzFlMmljWlBFaUdyeHAydmw5RHBVWlZoZFdPWldUeDlMZ0NCanRqVWRQcFNBUHdzeVhsSnllSkxQRmsxQU1NQ0VPUjdaeXZKWHI1QUh3QVV1NldKdWl2TUp6QWR6cDZDd2MyWmdpcVdIY3Q3eDZsbUlxWUNpc1dLaUY5Vm1mNTdiWGNKNXhiWTRCTHRSdDByN1MtUmFXNC1QNTgyd1BrMWF3ODBRenp6UFJ1NFpnXzBCa2pkSHlOWXlXa0YwQk1ZTXIw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">BPCO</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWxHalZVWHBORlFJZFdlVHk3d2dtXzFlMmljWlBFaUdyeHAydmw5RHBVWlZoZFdPWldUeDlMZ0NCanRqVWRQcFNBUHdzeVhsSnllSkxQRmsxQU1NQ0VPUjdaeXZKWHI1QUh3QVV1NldKdWl2TUp6QWR6cDZDd2MyWmdpcVdIY3Q3eDZsbUlxWUNpc1dLaUY5Vm1mNTdiWGNKNXhiWTRCTHRSdDByN1MtUmFXNC1QNTgyd1BrMWF3ODBRenp6UFJ1NFpnXzBCa2pkSHlOWXlXa0YwQk1ZTXIw?oc=5)
-
----
-
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
 
 ---
 

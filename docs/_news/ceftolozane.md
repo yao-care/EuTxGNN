@@ -54,11 +54,11 @@ permalink: /news/ceftolozane/
 
 ## 相關新聞（1 則）
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
 
-2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
+來源：[Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
 
 ---
 

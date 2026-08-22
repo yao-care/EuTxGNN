@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Expertos abogan por tratar la obesidad más allá de la dieta y el ejercicio, y destacan la importancia del descanso](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
 
 2026-08-21
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
+
+---
+
+### [Vitamin-D-Mangel + Adipositas: Sterberisiko steigt um 123%](https://news.google.com/rss/articles/CBMisAFBVV95cUxON2M5djB0SFhlZTIzeUZ0TFQ0SE54bHc3RWZOQ1ZoM0xuUlloMWF4N1hldW5zaWhack5JNzNJTFh3NldBSTg0bHUyUF9PRlpTcDRZcU5DNEhrS0tYaVcxZ2RkSWp6VWRaRkFKR3hiclZqTjB1TTFWaEFpTkFJbldjeUhGcDhqYTh0RFBxOU5wUWpxU0YtbkM3alNGc1U3c1l2Njc0aG40Q2xFSUMzNWZIcA?oc=5)
+
+2026-08-21
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxON2M5djB0SFhlZTIzeUZ0TFQ0SE54bHc3RWZOQ1ZoM0xuUlloMWF4N1hldW5zaWhack5JNzNJTFh3NldBSTg0bHUyUF9PRlpTcDRZcU5DNEhrS0tYaVcxZ2RkSWp6VWRaRkFKR3hiclZqTjB1TTFWaEFpTkFJbldjeUhGcDhqYTh0RFBxOU5wUWpxU0YtbkM3alNGc1U3c1l2Njc0aG40Q2xFSUMzNWZIcA?oc=5)
 
 ---
 
@@ -54,11 +62,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEplb0paM0ZJWGtkSEp2MEtXbkhCUDJZZVpuSlR4ejVrZWN3MVZTdUlOcWgxQ0pHdmNSX3lVc1oxaFhpN2g0bjJEU21zMERacDd2Wkg2NFhmQ1VNbjZGeHlCY2ptX0ltWUV4Z0tncDZXaWN0eTZJVlZiNHZ3cDk4Q3pqdmREd3VCV3FGM2RnR1d4OVllQTEzYk8wUm44T3VWUldKWUN2eEZvSDJicFcwMnZWSzZIWG82aHZOdXFQeUhLX0lqS3dkWHBCUUYwZUV5?oc=5)
+### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
 
-2026-08-20
+2026-08-21
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEplb0paM0ZJWGtkSEp2MEtXbkhCUDJZZVpuSlR4ejVrZWN3MVZTdUlOcWgxQ0pHdmNSX3lVc1oxaFhpN2g0bjJEU21zMERacDd2Wkg2NFhmQ1VNbjZGeHlCY2ptX0ltWUV4Z0tncDZXaWN0eTZJVlZiNHZ3cDk4Q3pqdmREd3VCV3FGM2RnR1d4OVllQTEzYk8wUm44T3VWUldKWUN2eEZvSDJicFcwMnZWSzZIWG82aHZOdXFQeUhLX0lqS3dkWHBCUUYwZUV5?oc=5)
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
 
 ---
 

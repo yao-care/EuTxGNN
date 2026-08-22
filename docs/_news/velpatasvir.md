@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
 
-### [ONU advierte de propagación exponencial de Ébola en RD Congo y aumento de fallecidos](https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2pDWDNUaVpGUjRkVVBsLVdXTloyeTlNbU1jMkFGNFVKaDViTnpQZnZEbDJKQktTTHg1S3JjbU15ellZUGlZNHNRU2UyWjRVdmtiUEJFZHJidDdiaU1aYXFFNXZTU183THpJQTVuSkZhcXN1RGVWX3d4d2pvUW9fc2lrbUxuNGtRWHVnNW5TcDFVRnVJZHlZUWEwbm4weVlsbWc?oc=5)
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+
+---
+
+### [Qu'est-ce que le virus du Nil occidental, qui se répand dans toute l'Europe et en France ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTm5LMzlfLUppbzNPUlZKUlF0NDhseDRyZW1sODFiWWRCTGU4ZWI3ZTgtZjJjLU9ka2QtTDU3VEpleXc3djBuS0MzcDNsZ1g0MFk0T09Td0hQRXYwMTNLQUx0ajI1Tl9xNzRVWDI0ODRqdlZIWTBxcUM3T1UtNk9ybW1ycnR5M0dWREwzT01ocGR4eEo1Qi1kSTRoYWgxYnpMNnNVbUdQSWQxOVZucVZrVTdXN3pkS2fSAbwBQVVfeXFMT0VJazAxLUF5ZzdDU01MNlVTRWViUmFZU3RxT2lKQkdtaENTeF9uTER3MFdRVU5fdkU1alFfZVY3YlBUdXl4U0ZTSkRlWHV4X3o1TUxRSWxOaFJ1SEpXU1BWNVZxMlJET2ZoUWNKSndZYjU3eTZOc1RmbVA4b29wNXhJTGpvM21Ia2YyR1FkR3BnNXV3MHBwSktocXRwaDBBaUk2NDMzX2prVWU4UnhpUDZCbkFWdFZEc090Ujk?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[Yahoo](https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2pDWDNUaVpGUjRkVVBsLVdXTloyeTlNbU1jMkFGNFVKaDViTnpQZnZEbDJKQktTTHg1S3JjbU15ellZUGlZNHNRU2UyWjRVdmtiUEJFZHJidDdiaU1aYXFFNXZTU183THpJQTVuSkZhcXN1RGVWX3d4d2pvUW9fc2lrbUxuNGtRWHVnNW5TcDFVRnVJZHlZUWEwbm4weVlsbWc?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTm5LMzlfLUppbzNPUlZKUlF0NDhseDRyZW1sODFiWWRCTGU4ZWI3ZTgtZjJjLU9ka2QtTDU3VEpleXc3djBuS0MzcDNsZ1g0MFk0T09Td0hQRXYwMTNLQUx0ajI1Tl9xNzRVWDI0ODRqdlZIWTBxcUM3T1UtNk9ybW1ycnR5M0dWREwzT01ocGR4eEo1Qi1kSTRoYWgxYnpMNnNVbUdQSWQxOVZucVZrVTdXN3pkS2fSAbwBQVVfeXFMT0VJazAxLUF5ZzdDU01MNlVTRWViUmFZU3RxT2lKQkdtaENTeF9uTER3MFdRVU5fdkU1alFfZVY3YlBUdXl4U0ZTSkRlWHV4X3o1TUxRSWxOaFJ1SEpXU1BWNVZxMlJET2ZoUWNKSndZYjU3eTZOc1RmbVA4b29wNXhJTGpvM21Ia2YyR1FkR3BnNXV3MHBwSktocXRwaDBBaUk2NDMzX2prVWU4UnhpUDZCbkFWdFZEc090Ujk?oc=5)
 
 ---
 
@@ -70,19 +78,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Le virus du Nil occidental transmis par des moustiques détecté dans 12 pays européens](https://news.google.com/rss/articles/CBMiygFBVV95cUxQOURXZzkxWUR1Y1pjeFh4WE5jcWtrT09NUkJiYUxqODlIUm1DQXlYZkFqOTVpUTd2c29ObHQwM09WYThTNTJMaHNUdjd0M2Q5MUZMbWtjQ2laLWNCcm5UWFJ0TlpkWVZpMlJRV1cwRkZuZDdsSjE2SmFWU2g0Q0twcE44Xy1UV0p5QmFLek1FeWhEbzdtT2hpYmhnR2hGa2xPdWdVTGlXd09RWTFxdnQ0eU5LeVRqek5kMmZ4d0ljT1hjQ2ctRkp3X25n?oc=5)
+### [La OMS prepara 70.000 vacunas para combatir el ébola en el Congo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0xSLXpIUGRieTZmQ3dTanhjUjc5STZsUFJyVl9fWXhsRFlMY0FpNjlLeVIzUzFmQUhHNnZOUS1Od1FfY0VYOW5DQmdxS180LW1BRDlEbzAyZ0NYdExIa05pUWNEQUx4N1dhVlF6U0R2X1hCdVpJT1BzWlRpM0NXVnVOak9SeHYxbWRfUU1ZbnNHUHB2eVZZUzV6MVBZd0kwYXNXVNIBqgFBVV95cUxNU1JiRkVzLUk5X3k5VFdpNjZwWHR0cjBRdnd2TmVtemZVdm4xbEx4MGZUQU1MTEFrZHNXRjRJT2plN05RX1hFNnJDay1Wal95LVVOVkJTWTU2bkk3OTl6NlNnQ0ZHVUcyTDVvc01lWUQzblluQy1zTEdJN3BvQ09uanlQX1FPVnBsYkNGX0Y5dkxQVVJFR1RQM2ZjWDFrLVBKNHNZMU53SnhpZw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiygFBVV95cUxQOURXZzkxWUR1Y1pjeFh4WE5jcWtrT09NUkJiYUxqODlIUm1DQXlYZkFqOTVpUTd2c29ObHQwM09WYThTNTJMaHNUdjd0M2Q5MUZMbWtjQ2laLWNCcm5UWFJ0TlpkWVZpMlJRV1cwRkZuZDdsSjE2SmFWU2g0Q0twcE44Xy1UV0p5QmFLek1FeWhEbzdtT2hpYmhnR2hGa2xPdWdVTGlXd09RWTFxdnQ0eU5LeVRqek5kMmZ4d0ljT1hjQ2ctRkp3X25n?oc=5)
-
----
-
-### [“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0xSLXpIUGRieTZmQ3dTanhjUjc5STZsUFJyVl9fWXhsRFlMY0FpNjlLeVIzUzFmQUhHNnZOUS1Od1FfY0VYOW5DQmdxS180LW1BRDlEbzAyZ0NYdExIa05pUWNEQUx4N1dhVlF6U0R2X1hCdVpJT1BzWlRpM0NXVnVOak9SeHYxbWRfUU1ZbnNHUHB2eVZZUzV6MVBZd0kwYXNXVNIBqgFBVV95cUxNU1JiRkVzLUk5X3k5VFdpNjZwWHR0cjBRdnd2TmVtemZVdm4xbEx4MGZUQU1MTEFrZHNXRjRJT2plN05RX1hFNnJDay1Wal95LVVOVkJTWTU2bkk3OTl6NlNnQ0ZHVUcyTDVvc01lWUQzblluQy1zTEdJN3BvQ09uanlQX1FPVnBsYkNGX0Y5dkxQVVJFR1RQM2ZjWDFrLVBKNHNZMU53SnhpZw?oc=5)
 
 ---
 
@@ -94,35 +94,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTUNqNnFVUUkzZW9qRTcwd2o5NXZHckdoZThyUF9oczN6MHBCTmZVRXhsSlNlV1JYWW9STHBqOWtrS1c4QzFOWEhSdUVtNFFLdjN2WmE3UlVJaE9Vb3FJTnZldkI1TXhPV2s0bGRTdnQ2TjVrQXNxdnJPX2RCSjdqSzRhT1JYSi1yS3BIaHNOUHlwOVdWdFc2U1dVMENyQk9hMnJHSzBaYnFjakVmNHgzQ1lXM3A4Y2lPbE1QOVVnUFZ0M3JSU1lTczhfUzQtblZQNUt1R3NkbVlmVlZjbzBLQXpvU0xjaEFFQnhua2JJRDlhQQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTUNqNnFVUUkzZW9qRTcwd2o5NXZHckdoZThyUF9oczN6MHBCTmZVRXhsSlNlV1JYWW9STHBqOWtrS1c4QzFOWEhSdUVtNFFLdjN2WmE3UlVJaE9Vb3FJTnZldkI1TXhPV2s0bGRTdnQ2TjVrQXNxdnJPX2RCSjdqSzRhT1JYSi1yS3BIaHNOUHlwOVdWdFc2U1dVMENyQk9hMnJHSzBaYnFjakVmNHgzQ1lXM3A4Y2lPbE1QOVVnUFZ0M3JSU1lTczhfUzQtblZQNUt1R3NkbVlmVlZjbzBLQXpvU0xjaEFFQnhua2JJRDlhQQ?oc=5)
-
----
-
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
-
----
-
 ### [We put cottage cheese through an evidence check – and the health claims didn’t stack up - The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmZjSmc2N3VjTU5YTEptOV9UX1AzUDlOQm1FQkJsSE1rR2lUdDdmWW4tRGdkWjBHSFBaeFJKWllzTjY4b0VadF81RlNCWGd5Z1pZRTAzTDA3eGlvdUdqUE9wcE5rRTdzSmJCbk5fMG9sZWxtZzFNX3ctaUhISV9hcjNFV19xcVUyR2ZuRjdudk1HbUpzaEM0Zm93ekwydzZ3cjgtaVRYX1N1cDZadDlpblMtVUkxOTM2dk9N?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmZjSmc2N3VjTU5YTEptOV9UX1AzUDlOQm1FQkJsSE1rR2lUdDdmWW4tRGdkWjBHSFBaeFJKWllzTjY4b0VadF81RlNCWGd5Z1pZRTAzTDA3eGlvdUdqUE9wcE5rRTdzSmJCbk5fMG9sZWxtZzFNX3ctaUhISV9hcjNFV19xcVUyR2ZuRjdudk1HbUpzaEM0Zm93ekwydzZ3cjgtaVRYX1N1cDZadDlpblMtVUkxOTM2dk9N?oc=5)
-
----
-
-### [Gavi destina más de 11 millones de euros y 70.000 vacunas para frenar el brote de ébola](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmRlaFo2NGkyWllXQ1NmZzVtZVhlS1pUZnQ0M2xCT005MmFJSGJGMWpyaDNkaHZIQVpIQ3Zxa1loYTBHN2YyeDlQV3Y0SlF3RlotbjBJNXlPZGxmNVZmTktkMWdIenRLcUtsb25IZmtLMi03am9wb0Nla1k0elpjVmNsM3JCWnZWWmtZZHE2OUE0UFJ5WC1zODNHUWhaZGJjbmJJaFRmZnllYUhlUTZpNVFCb0Z1bnVqajZKeHN5X3RaMmVvTnViWEZ6UDM?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmRlaFo2NGkyWllXQ1NmZzVtZVhlS1pUZnQ0M2xCT005MmFJSGJGMWpyaDNkaHZIQVpIQ3Zxa1loYTBHN2YyeDlQV3Y0SlF3RlotbjBJNXlPZGxmNVZmTktkMWdIenRLcUtsb25IZmtLMi03am9wb0Nla1k0elpjVmNsM3JCWnZWWmtZZHE2OUE0UFJ5WC1zODNHUWhaZGJjbmJJaFRmZnllYUhlUTZpNVFCb0Z1bnVqajZKeHN5X3RaMmVvTnViWEZ6UDM?oc=5)
 
 ---
 
@@ -155,6 +131,22 @@ permalink: /news/velpatasvir/
 2026-08-21 <span class="news-indication-tag">MS</span>
 
 來源：[Netzwelt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5)
+
+---
+
+### [«West Nile ormai presente in Italia, bisogna prepararsi»: il virus si diffonde sempre di più, in Europa 429 casi](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0llTFNWWmU2c3dRWGZ4MnBWbjVEd3dIX3dCT2VLcDNSbTJVSXBZel9zcVVGXzFKRzQ1dTNkbWdoSG9OODNvREc4YVVBVkhsRG92di1KeWsta2thVUp3MWx1a3VGdGNKOG5tU1NrdDY3U1M4V094WENQX1VVLWZCQ2hzcWlDZHBnREh6LU1nLVVsQkt3VWFKanRaazRVWEgtcjZNV1R6SmFINmp4QlJoTThtYW1WVWdR0gGqAUFVX3lxTFBXTHFIb1lfWkF5NU1uTXBYUXJWcWtDV3otcmtsVXpYbUhwRHIyVnpDS3Q5eXRUXzFsUXhsck5mUkJ5cVpOREJ1aWdXZFRvbFk3ZDVhcTBfZDFIQ2VZZmRCckRxdV9UTU0wc2hKeU5aX2E2bEt2VHRGaUhrYWpSUV9aSnBrQXRUVmhpMlNnS0FMeFh5cklsVHJHVk50YXVkYzM4c01Ndy1DV0pR?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0llTFNWWmU2c3dRWGZ4MnBWbjVEd3dIX3dCT2VLcDNSbTJVSXBZel9zcVVGXzFKRzQ1dTNkbWdoSG9OODNvREc4YVVBVkhsRG92di1KeWsta2thVUp3MWx1a3VGdGNKOG5tU1NrdDY3U1M4V094WENQX1VVLWZCQ2hzcWlDZHBnREh6LU1nLVVsQkt3VWFKanRaazRVWEgtcjZNV1R6SmFINmp4QlJoTThtYW1WVWdR0gGqAUFVX3lxTFBXTHFIb1lfWkF5NU1uTXBYUXJWcWtDV3otcmtsVXpYbUhwRHIyVnpDS3Q5eXRUXzFsUXhsck5mUkJ5cVpOREJ1aWdXZFRvbFk3ZDVhcTBfZDFIQ2VZZmRCckRxdV9UTU0wc2hKeU5aX2E2bEt2VHRGaUhrYWpSUV9aSnBrQXRUVmhpMlNnS0FMeFh5cklsVHJHVk50YXVkYzM4c01Ndy1DV0pR?oc=5)
+
+---
+
+### [Agencia de salud pública de la Unión Africana: El brote de ébola en RDC podría ser tres veces mayor al número de casos confirmados - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtZDJ0a0VCWFhVQlQ0SnBUNGZDSDVjN0YzX1Q0aTBYTnA1RWtzTjRrNE1lZGRyN3NJWFhuN1Yza2FYbGVYdnlJT3N6WlJ0NlF3Qjl3?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtZDJ0a0VCWFhVQlQ0SnBUNGZDSDVjN0YzX1Q0aTBYTnA1RWtzTjRrNE1lZGRyN3NJWFhuN1Yza2FYbGVYdnlJT3N6WlJ0NlF3Qjl3?oc=5)
 
 ---
 

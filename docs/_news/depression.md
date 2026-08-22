@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Depressione, nell’ippocampo i nuovi neuroni sembrano fermarsi prima di maturare](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
-
-2026-08-21
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
-
----
-
-### [“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
+### [Sebastián La Rosa, doctor: "Varios estudios relacionan los bajos niveles de vitamina D con depresión" - El Confidencial](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3Z1BZWm0xemx6SDlsNFc3dzgxTGVRR2ZfbzlWTC1TM3lqeVJjN0t4ZGpSVnFYOWQ3MVo2bm1XVE10cnJLU2E1azNRQm5zV0ZuSFFKT2ZNa0FDVHhrNkJKby0zZXdNNWd0OHJmSGhRaG5RZ3ZnTGpseTl6OFNEUlVGV2Z5MW9xbkQxMnI1eUs4YTBFSjZ0MHN2NGdJSWtaYlQ3NnlRdnIyTldCbjBfaFJqQ29lSmV2ak94MV9MbUpwb2tCU2FBendKX2RkNjl0ZmpoelJhaw?oc=5)
 
 2026-08-21
 
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3Z1BZWm0xemx6SDlsNFc3dzgxTGVRR2ZfbzlWTC1TM3lqeVJjN0t4ZGpSVnFYOWQ3MVo2bm1XVE10cnJLU2E1azNRQm5zV0ZuSFFKT2ZNa0FDVHhrNkJKby0zZXdNNWd0OHJmSGhRaG5RZ3ZnTGpseTl6OFNEUlVGV2Z5MW9xbkQxMnI1eUs4YTBFSjZ0MHN2NGdJSWtaYlQ3NnlRdnIyTldCbjBfaFJqQ29lSmV2ak94MV9MbUpwb2tCU2FBendKX2RkNjl0ZmpoelJhaw?oc=5)
 
 ---
 

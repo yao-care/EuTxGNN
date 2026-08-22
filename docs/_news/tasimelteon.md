@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Depressione, nell’ippocampo i nuovi neuroni sembrano fermarsi prima di maturare](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
+### [Sebastián La Rosa, doctor: "Varios estudios relacionan los bajos niveles de vitamina D con depresión" - El Confidencial](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3Z1BZWm0xemx6SDlsNFc3dzgxTGVRR2ZfbzlWTC1TM3lqeVJjN0t4ZGpSVnFYOWQ3MVo2bm1XVE10cnJLU2E1azNRQm5zV0ZuSFFKT2ZNa0FDVHhrNkJKby0zZXdNNWd0OHJmSGhRaG5RZ3ZnTGpseTl6OFNEUlVGV2Z5MW9xbkQxMnI1eUs4YTBFSjZ0MHN2NGdJSWtaYlQ3NnlRdnIyTldCbjBfaFJqQ29lSmV2ak94MV9MbUpwb2tCU2FBendKX2RkNjl0ZmpoelJhaw?oc=5)
 
-2026-08-21 <span class="news-indication-tag">depression</span>
+2026-08-21 <span class="news-indication-tag">depresión</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
-
----
-
-### [“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3Z1BZWm0xemx6SDlsNFc3dzgxTGVRR2ZfbzlWTC1TM3lqeVJjN0t4ZGpSVnFYOWQ3MVo2bm1XVE10cnJLU2E1azNRQm5zV0ZuSFFKT2ZNa0FDVHhrNkJKby0zZXdNNWd0OHJmSGhRaG5RZ3ZnTGpseTl6OFNEUlVGV2Z5MW9xbkQxMnI1eUs4YTBFSjZ0MHN2NGdJSWtaYlQ3NnlRdnIyTldCbjBfaFJqQ29lSmV2ak94MV9MbUpwb2tCU2FBendKX2RkNjl0ZmpoelJhaw?oc=5)
 
 ---
 

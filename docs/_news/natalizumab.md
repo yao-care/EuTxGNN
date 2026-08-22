@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [BPCO, vivere significa “razionare” le energie: cosa raccontano 60 pazienti in cinque Paesi](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWxHalZVWHBORlFJZFdlVHk3d2dtXzFlMmljWlBFaUdyeHAydmw5RHBVWlZoZFdPWldUeDlMZ0NCanRqVWRQcFNBUHdzeVhsSnllSkxQRmsxQU1NQ0VPUjdaeXZKWHI1QUh3QVV1NldKdWl2TUp6QWR6cDZDd2MyWmdpcVdIY3Q3eDZsbUlxWUNpc1dLaUY5Vm1mNTdiWGNKNXhiWTRCTHRSdDByN1MtUmFXNC1QNTgyd1BrMWF3ODBRenp6UFJ1NFpnXzBCa2pkSHlOWXlXa0YwQk1ZTXIw?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/natalizumab/
 2026-08-21 <span class="news-indication-tag">Zuckerkrankheit</span>
 
 來源：[halloherne.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJ2RVJWdkRaWnJJT3RGRGZuU1IwVHBpZkJJX1VpVE8xcFRjZU1VeTNiMWhfUVdIWkFQQWk5aGM4cHVpTTBfdzhab3ZJcXZDUnd6bnJ2QTkzU2xwaVhyWVJ2OFo1eHVQcVExVHZFY3lfYjR5UUpmUUtaZkI2U1pqLXo5aw?oc=5)
+
+---
+
+### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+
+2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
 
 ---
 

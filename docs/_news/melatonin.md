@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
 ### [Expertos abogan por tratar la obesidad más allá de la dieta y el ejercicio, y destacan la importancia del descanso](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
 
 2026-08-21 <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
+
+---
+
+### [Vitamin-D-Mangel + Adipositas: Sterberisiko steigt um 123%](https://news.google.com/rss/articles/CBMisAFBVV95cUxON2M5djB0SFhlZTIzeUZ0TFQ0SE54bHc3RWZOQ1ZoM0xuUlloMWF4N1hldW5zaWhack5JNzNJTFh3NldBSTg0bHUyUF9PRlpTcDRZcU5DNEhrS0tYaVcxZ2RkSWp6VWRaRkFKR3hiclZqTjB1TTFWaEFpTkFJbldjeUhGcDhqYTh0RFBxOU5wUWpxU0YtbkM3alNGc1U3c1l2Njc0aG40Q2xFSUMzNWZIcA?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxON2M5djB0SFhlZTIzeUZ0TFQ0SE54bHc3RWZOQ1ZoM0xuUlloMWF4N1hldW5zaWhack5JNzNJTFh3NldBSTg0bHUyUF9PRlpTcDRZcU5DNEhrS0tYaVcxZ2RkSWp6VWRaRkFKR3hiclZqTjB1TTFWaEFpTkFJbldjeUhGcDhqYTh0RFBxOU5wUWpxU0YtbkM3alNGc1U3c1l2Njc0aG40Q2xFSUMzNWZIcA?oc=5)
 
 ---
 
@@ -70,6 +78,14 @@ permalink: /news/melatonin/
 
 ---
 
+### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+
+2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+
+---
+
 ### [„Melatonin kann bei chronischen Schmerzen ein super Baustein sein“](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5saGNQQ1lYY3VvRnpBd3JSd2NDVWJaZ0Y4YTY5UUUtMmdtcC00MXZyUWdWTkJzc04weVN5ZFJGSVNMUmo2TEhiWXpqTW4tbk9vSWpyYm9IYUUxME5DRFVxM2NWdw?oc=5)
 
 2026-08-20 <span class="news-drug-tag">Melatonin</span>
@@ -78,11 +94,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEplb0paM0ZJWGtkSEp2MEtXbkhCUDJZZVpuSlR4ejVrZWN3MVZTdUlOcWgxQ0pHdmNSX3lVc1oxaFhpN2g0bjJEU21zMERacDd2Wkg2NFhmQ1VNbjZGeHlCY2ptX0ltWUV4Z0tncDZXaWN0eTZJVlZiNHZ3cDk4Q3pqdmREd3VCV3FGM2RnR1d4OVllQTEzYk8wUm44T3VWUldKWUN2eEZvSDJicFcwMnZWSzZIWG82aHZOdXFQeUhLX0lqS3dkWHBCUUYwZUV5?oc=5)
+### [Demenz-Prävention: Östrogentherapie senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
 
-2026-08-20 <span class="news-indication-tag">Adipositas</span>
+2026-08-20 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEplb0paM0ZJWGtkSEp2MEtXbkhCUDJZZVpuSlR4ejVrZWN3MVZTdUlOcWgxQ0pHdmNSX3lVc1oxaFhpN2g0bjJEU21zMERacDd2Wkg2NFhmQ1VNbjZGeHlCY2ptX0ltWUV4Z0tncDZXaWN0eTZJVlZiNHZ3cDk4Q3pqdmREd3VCV3FGM2RnR1d4OVllQTEzYk8wUm44T3VWUldKWUN2eEZvSDJicFcwMnZWSzZIWG82aHZOdXFQeUhLX0lqS3dkWHBCUUYwZUV5?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
 
 ---
 

@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Morbus Crohn: Neuer Antikörper erreicht 48% Remissionsrate](https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpLN0MxZk1LZ2ljRUMyNTZYaHllR2NxWnFYRzkyUHkwVHY5VklKVjBtZkFhM1NmbGNYdlhGRkpncy03a3VlSURaS1NXMjNVcmpFcnRCY1Mwa1NPZzh2NjNfRmN1NzMxRlo3MXlacXJyNW5IM082VGVYTU9zak9LUEFDcjJvRndWYVZqMldoWjAtOWhxc0daa0pDM3hCZWZPUnM1T3dZQ1VubFVqaTN6aU1yaHc?oc=5)
+### [Gestörter Energiestoffwechsel: Stoffwechselengpass hält chronische Darmentzündungen in Gang](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
 
-2026-08-20
+2026-08-22
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpLN0MxZk1LZ2ljRUMyNTZYaHllR2NxWnFYRzkyUHkwVHY5VklKVjBtZkFhM1NmbGNYdlhGRkpncy03a3VlSURaS1NXMjNVcmpFcnRCY1Mwa1NPZzh2NjNfRmN1NzMxRlo3MXlacXJyNW5IM082VGVYTU9zak9LUEFDcjJvRndWYVZqMldoWjAtOWhxc0daa0pDM3hCZWZPUnM1T3dZQ1VubFVqaTN6aU1yaHc?oc=5)
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
 
 ---
 

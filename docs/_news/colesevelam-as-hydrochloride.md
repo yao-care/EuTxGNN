@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [Farmaci per il diabete usati per dimagrire, è boom in Italia: quali sono i rischi. Intervista al farmacologo Garattini](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
+
+---
+
+### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+
+2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
 
 ---
 

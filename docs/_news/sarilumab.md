@@ -54,6 +54,22 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（4 則）
 
+### [Gestörter Energiestoffwechsel: Stoffwechselengpass hält chronische Darmentzündungen in Gang](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
+
+2026-08-22 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
+
+---
+
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+
+---
+
 ### [BPCO, vivere significa “razionare” le energie: cosa raccontano 60 pazienti in cinque Paesi](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWxHalZVWHBORlFJZFdlVHk3d2dtXzFlMmljWlBFaUdyeHAydmw5RHBVWlZoZFdPWldUeDlMZ0NCanRqVWRQcFNBUHdzeVhsSnllSkxQRmsxQU1NQ0VPUjdaeXZKWHI1QUh3QVV1NldKdWl2TUp6QWR6cDZDd2MyWmdpcVdIY3Q3eDZsbUlxWUNpc1dLaUY5Vm1mNTdiWGNKNXhiWTRCTHRSdDByN1MtUmFXNC1QNTgyd1BrMWF3ODBRenp6UFJ1NFpnXzBCa2pkSHlOWXlXa0YwQk1ZTXIw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">BPCO</span>
@@ -62,27 +78,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
-
----
-
 ### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 
 2026-08-20 <span class="news-indication-tag">arthritis</span>
 
 來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
-
----
-
-### [Morbus Crohn: Neuer Antikörper erreicht 48% Remissionsrate](https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpLN0MxZk1LZ2ljRUMyNTZYaHllR2NxWnFYRzkyUHkwVHY5VklKVjBtZkFhM1NmbGNYdlhGRkpncy03a3VlSURaS1NXMjNVcmpFcnRCY1Mwa1NPZzh2NjNfRmN1NzMxRlo3MXlacXJyNW5IM082VGVYTU9zak9LUEFDcjJvRndWYVZqMldoWjAtOWhxc0daa0pDM3hCZWZPUnM1T3dZQ1VubFVqaTN6aU1yaHc?oc=5)
-
-2026-08-20 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpLN0MxZk1LZ2ljRUMyNTZYaHllR2NxWnFYRzkyUHkwVHY5VklKVjBtZkFhM1NmbGNYdlhGRkpncy03a3VlSURaS1NXMjNVcmpFcnRCY1Mwa1NPZzh2NjNfRmN1NzMxRlo3MXlacXJyNW5IM082VGVYTU9zak9LUEFDcjJvRndWYVZqMldoWjAtOWhxc0daa0pDM3hCZWZPUnM1T3dZQ1VubFVqaTN6aU1yaHc?oc=5)
 
 ---
 

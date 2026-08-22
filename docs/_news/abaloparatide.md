@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
 ### [Farmaci per il diabete usati per dimagrire, è boom in Italia: quali sono i rischi. Intervista al farmacologo Garattini](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
 
@@ -70,11 +70,27 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+
+2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+
+---
+
 ### [Diabetes und Kinderwunsch: Hormontherapie im Check](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0o3WG90djdidkhXdUc0YkpUYzNzU0txRTBtdlhlNlphVmQwSUpOTl9OVUFRbTZrNTFUS3FVS3UtaWRaLXRyX3pic1RfS1VBWnlnTm8zWWp4YkdhWjZvaFJSSE55N0VMY0R6aDBVWkd3Rm95cUF6RVBXMEVEMkhXcGR2S0RPV0xLNkMtMWtvN0VQYW9KOW5rcVNwb2ZHR0tSMi1mdGN1bVJYSXF1dXBqT0ZnYV9SQQ?oc=5)
 
 2026-08-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[Journalmed.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0o3WG90djdidkhXdUc0YkpUYzNzU0txRTBtdlhlNlphVmQwSUpOTl9OVUFRbTZrNTFUS3FVS3UtaWRaLXRyX3pic1RfS1VBWnlnTm8zWWp4YkdhWjZvaFJSSE55N0VMY0R6aDBVWkd3Rm95cUF6RVBXMEVEMkhXcGR2S0RPV0xLNkMtMWtvN0VQYW9KOW5rcVNwb2ZHR0tSMi1mdGN1bVJYSXF1dXBqT0ZnYV9SQQ?oc=5)
+
+---
+
+### [Demenz-Prävention: Östrogentherapie senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
 
 ---
 

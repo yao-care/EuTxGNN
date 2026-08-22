@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Inclisiran-Therapie nun ab 12 Jahren möglich - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1Qd2dpNWQ2SjA5ZE9sZjBtVllBbnNNdUQ4WWhHU3NBbFhsNWV3THZ4NmxaSnhzX0hmcWJmYXh4S2xuMWdaN0tYUk5SZ1Izc3R6Y29xejcwaEI4VmY5a2J6aEwzQUgtcF82c05USkFselVOY3BZYUpoa01FbEN2OVZNa1dNdWx5bVpzSVNLNGxXMGRfZENPTDFub2p1RjJZZUQwbTRWeGFudkg4Z2Y3bg?oc=5)
 
 2026-08-21 <span class="news-drug-tag">Inclisiran</span>
 
 來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1Qd2dpNWQ2SjA5ZE9sZjBtVllBbnNNdUQ4WWhHU3NBbFhsNWV3THZ4NmxaSnhzX0hmcWJmYXh4S2xuMWdaN0tYUk5SZ1Izc3R6Y29xejcwaEI4VmY5a2J6aEwzQUgtcF82c05USkFselVOY3BZYUpoa01FbEN2OVZNa1dNdWx5bVpzSVNLNGxXMGRfZENPTDFub2p1RjJZZUQwbTRWeGFudkg4Z2Y3bg?oc=5)
+
+---
+
+### [Demenz-Prävention: Östrogentherapie senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
 
 ---
 

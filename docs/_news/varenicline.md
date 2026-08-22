@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/varenicline/
 2026-08-21 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzVjTW9FNm05ekV5YWtlLTUxMUZINmVnd3JOMEY5a2h3TFNQa3dQTmhzV1UxNHdMUnVjRkRnVmY0SlRQMEZGLWx2V0xGZ2RSbmlKSV9qeUhpLWkwMUY5SVVKeTFSU1VtaER3T0V3ZGpDLUQ2cXJqTjc1Y19BNlltREhqNnlXMGpCckk4Q3NCMDFsT1JNVjFONVM3RmlleUZDY2tzbGI5Tzl4Z0p3a1pCTUpFUTBRWkNfVjgtR004YXZFQVU?oc=5)
+
+---
+
+### [Demenz-Prävention: Östrogentherapie senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
+
+2026-08-20 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
 
 ---
 

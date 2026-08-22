@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inebilizumab</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（30 則）
 
-### [Krebsfrüherkennung: Mundspülungen zeigen höhere Genauigkeit als Stuhltests](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmUzS3hzdzBXQjBnUndFU3JFTE5PS0dzd19kakh5UDNUZkVBenQ5UjhLQlV0Rm43akRlR3ctRHIza2JIa1hRWGMzQTEtNzQ5WlhKT19fZllhX3hDSzBCY3htNlpJdGpMTHRDdy00MjNBcGdIeF9nLU1sV2NmNlRBU0VHTERlTDVvVW45M241YUI2RjhiVlBEdTBkdWxKU1Z0NE00ZlEtUkduTTRicE0zUm85bGU?oc=5)
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
 
-2026-08-21 <span class="news-indication-tag">Krebs</span>
+2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmUzS3hzdzBXQjBnUndFU3JFTE5PS0dzd19kakh5UDNUZkVBenQ5UjhLQlV0Rm43akRlR3ctRHIza2JIa1hRWGMzQTEtNzQ5WlhKT19fZllhX3hDSzBCY3htNlpJdGpMTHRDdy00MjNBcGdIeF9nLU1sV2NmNlRBU0VHTERlTDVvVW45M241YUI2RjhiVlBEdTBkdWxKU1Z0NE00ZlEtUkduTTRicE0zUm85bGU?oc=5)
+來源：[Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+
+---
+
+### [One man diagnosed with prostate cancer in the UK 'every eight minutes' - Sky News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRi0zeEU5djJYTktpYnAyUVdLRS05TkpNT3RFank4d1dBdURjRVZmMVU4OWdRVlFnaG9UOGctZmNNNVhpWEZTbGNNUG4teDdNa2tZUm93U3NPWWE0TGpaUjJRYkh5SktGZDNNZ2RxTk1UOHFkSjJRVW1PdVYzWm5wUTUyVUdSWXZHQUd6Y2tsT1U2UF8wRENTVVRuRXp5LUhtRjIxS1JXOA?oc=5)
+
+2026-08-22 <span class="news-indication-tag">cancer</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRi0zeEU5djJYTktpYnAyUVdLRS05TkpNT3RFank4d1dBdURjRVZmMVU4OWdRVlFnaG9UOGctZmNNNVhpWEZTbGNNUG4teDdNa2tZUm93U3NPWWE0TGpaUjJRYkh5SktGZDNNZ2RxTk1UOHFkSjJRVW1PdVYzWm5wUTUyVUdSWXZHQUd6Y2tsT1U2UF8wRENTVVRuRXp5LUhtRjIxS1JXOA?oc=5)
 
 ---
 
@@ -74,7 +82,15 @@ permalink: /news/inebilizumab/
 
 2026-08-21 <span class="news-indication-tag">tumor</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
+來源：[DW.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
+
+---
+
+### [Tumori, cosa c’entra l’infiammazione? Il legame che la scienza studia da oltre 160 anni](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNTRIUVF3SEVtdUEzYnRRWXJzVmNMdXUwYU4xcXp2M3lTTXI3cmw5Wmh4dTNZZ3hKTnRfdzgzRTJZbGxnakM3LXBGOFdUSVpVUDN5cjZLSUhXSHpyenlNdUFMbTZPSW1sbGlibWpQYVIxdVJidU4zYmVDY1N6dzRWS1VvOXgzMW94SWR3T3BCOVh0Wno3NFNHSDhITThKeFF6c3dSeXhzVDU2ZjFUancxaVlVQTBXVDItRU0zZjBEX1B6RW42WnFxZWg1SkJaOGs?oc=5)
+
+2026-08-21 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNTRIUVF3SEVtdUEzYnRRWXJzVmNMdXUwYU4xcXp2M3lTTXI3cmw5Wmh4dTNZZ3hKTnRfdzgzRTJZbGxnakM3LXBGOFdUSVpVUDN5cjZLSUhXSHpyenlNdUFMbTZPSW1sbGlibWpQYVIxdVJidU4zYmVDY1N6dzRWS1VvOXgzMW94SWR3T3BCOVh0Wno3NFNHSDhITThKeFF6c3dSeXhzVDU2ZjFUancxaVlVQTBXVDItRU0zZjBEX1B6RW42WnFxZWg1SkJaOGs?oc=5)
 
 ---
 
@@ -102,6 +118,22 @@ permalink: /news/inebilizumab/
 
 ---
 
+### [Les personnes qui vivent plus de 100 ans en bonne santé ont toutes ce point commun : les scientifiques le trouvent "remarquable" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2xua2I3S25iUjFMS0swYU9yc3VhX1NCWk9NZVdDay12X3FHdzV3alVrbnp1UWFzeDFrSWgyVGVRZ0xVb3hiQTFKdkdhbHE0Rm84RVd5YnYyd2xHYTVpaFNrUExfTzlyRGViNEpfUWRhcW5iTnFOcHRWOFV1Y1B5N2J2SEJhdHNRVm5heGtSQkh2Mi1QMTVqYTcxektxTVpQRzJ3dmd0TjdoZWtuSDNhcVEwdzI3UQ?oc=5)
+
+2026-08-21 <span class="news-indication-tag">cancer</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2xua2I3S25iUjFMS0swYU9yc3VhX1NCWk9NZVdDay12X3FHdzV3alVrbnp1UWFzeDFrSWgyVGVRZ0xVb3hiQTFKdkdhbHE0Rm84RVd5YnYyd2xHYTVpaFNrUExfTzlyRGViNEpfUWRhcW5iTnFOcHRWOFV1Y1B5N2J2SEJhdHNRVm5heGtSQkh2Mi1QMTVqYTcxektxTVpQRzJ3dmd0TjdoZWtuSDNhcVEwdzI3UQ?oc=5)
+
+---
+
+### [Bauchspeicheldrüsenkrebs: Diese Pflanzenstoffe könnten bei der Therapie helfen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHUzc3ZOTEtTUWd1UnNsd3JyVG12dkVhZHhUdl9LNWw0T09zYVhMel90M2hBY2tscFJWZk5WN2NLazVoZlRyeURPWkszWE9ucmFOODJSeWd1bjlWQWFXUmVXbWJVRWdXU0g2V3dmcWR2eGptNHp6d3RaYUNzVHBkSTdOMEVCTnhEbDFKXzdGNFRKX0ZnRUZVcmlLYS1xenNkSzVhMi1qeDJaOHdUOXhpaUkzRnNOTGt1MWRMT3ZBYXFTVFFXTnFzaWNsTFhUMWJQV0NRTzlPbw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHUzc3ZOTEtTUWd1UnNsd3JyVG12dkVhZHhUdl9LNWw0T09zYVhMel90M2hBY2tscFJWZk5WN2NLazVoZlRyeURPWkszWE9ucmFOODJSeWd1bjlWQWFXUmVXbWJVRWdXU0g2V3dmcWR2eGptNHp6d3RaYUNzVHBkSTdOMEVCTnhEbDFKXzdGNFRKX0ZnRUZVcmlLYS1xenNkSzVhMi1qeDJaOHdUOXhpaUkzRnNOTGt1MWRMT3ZBYXFTVFFXTnFzaWNsTFhUMWJQV0NRTzlPbw?oc=5)
+
+---
+
 ### [Wenn jede Minute zählt](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">Krebs</span>
@@ -118,19 +150,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
-
----
-
-### [Gefährlicher TikTok-Trend: Warum High-UV-Tanning der Haut massiv schaden kann](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOXN6MlRSTUNpejBJNF9jMHNtTkp5U0Z3ejlyN0tERmRSNWRYc0pNSnRHd0x3aGQzVDdFcVFiMTR0S1YteDR5bHpmTXRGTVBtLWRWc3JtY1JmQUxMSXNMYUc1dWxTWFhCWVkzcTFqWlJkeWJCSzdFd05QUGxJdEY0Q2RGdC1iWVZuYUUtZFg4VTJqTDlmWjN4bVFFS01PaEc3ZTdxS2M5R1hNX1I0bmh3d2lJdl9EM2tQY0xRY2k4VlVSU0hkcjM2clJ3SkdHcVNB?oc=5)
+### [DHSC sets out updated guidance on when GPs should offer PSA testing - Pulse Today](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3ZDczdNRzlGRHc2aUtqVVNKMTBxR1JFZmNPb2lnOE42N3NLbDBsM3k0VUZWYVNPdWFPVzZPS3pPOXlfTEZyOG9nZWdyZFVHR0wtLXJHMzZOTzRJbmp2V1p0ejVvbkpROVktWWpjNVpLNmdzdUtZcV9aQ095emxTSGRhdURYeE5uVlMwSS14T0U4eUtKTzNfYjRJeUpBM2hxY2FFREc1a2FDbHVyaEFuX3pGZXJnRm5FNUM0bDlyVlYwZWlfYVV4TktmLWZqTXBybFFza1VRRGpyV3ZLQldXNmVqb0R3UG8?oc=5)
 
 2026-08-21 <span class="news-indication-tag">cancer</span>
 
-來源：[desired.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOXN6MlRSTUNpejBJNF9jMHNtTkp5U0Z3ejlyN0tERmRSNWRYc0pNSnRHd0x3aGQzVDdFcVFiMTR0S1YteDR5bHpmTXRGTVBtLWRWc3JtY1JmQUxMSXNMYUc1dWxTWFhCWVkzcTFqWlJkeWJCSzdFd05QUGxJdEY0Q2RGdC1iWVZuYUUtZFg4VTJqTDlmWjN4bVFFS01PaEc3ZTdxS2M5R1hNX1I0bmh3d2lJdl9EM2tQY0xRY2k4VlVSU0hkcjM2clJ3SkdHcVNB?oc=5)
+來源：[Pulse Today](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3ZDczdNRzlGRHc2aUtqVVNKMTBxR1JFZmNPb2lnOE42N3NLbDBsM3k0VUZWYVNPdWFPVzZPS3pPOXlfTEZyOG9nZWdyZFVHR0wtLXJHMzZOTzRJbmp2V1p0ejVvbkpROVktWWpjNVpLNmdzdUtZcV9aQ095emxTSGRhdURYeE5uVlMwSS14T0U4eUtKTzNfYjRJeUpBM2hxY2FFREc1a2FDbHVyaEFuX3pGZXJnRm5FNUM0bDlyVlYwZWlfYVV4TktmLWZqTXBybFFza1VRRGpyV3ZLQldXNmVqb0R3UG8?oc=5)
 
 ---
 
@@ -163,6 +187,14 @@ permalink: /news/inebilizumab/
 2026-08-21 <span class="news-indication-tag">cancer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObVVyVVdhX1ZtZ095YmV2TEpwbTF4ZTJER291LVIxT1RleDd0VjRkVmxVQVpfVEZSSjQtY0ROcW4wdG9HTDFQR3c0RXJKUDFPUUZLV2dOeGZ2OEtKanVxZVZpZWRqUUszZkVIMkctYTBuTHlscHNSVTl1d2lPcVRoR1hFc2pfcXg1T2hMRTdNb0ZzSEhReGV1VEZuWXdSdkc0NVpwSG5feG50aUQtMHVod0Y5QWFldEdxUXRBQnRsYVN0NTlqT3M2YXgyLWtuZnB6ZC1TQlJqVW14TjZVNHZSVHJUS1R6QmNaSkQtcmVScmlrZw?oc=5)
+
+---
+
+### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+
+2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
 
 ---
 
@@ -259,22 +291,6 @@ permalink: /news/inebilizumab/
 2026-08-20 <span class="news-indication-tag">Krebs</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmF4bkh2bVJTSTNmek95b0tFM1hGV2FWazl2S2t1YjlWMG1SaWxsOXRYcy1kRFVzUUg0TkdzRElmZjZ2TGNVQm5hdlZTMkJCVjdVeElUOGttWXZ0SWp6bEZjQjZpdEFBMlZHcDREbGZYV3dpOFFzYUR0ZXlVVF9ncjJYZDhRNWhVZThIeDJMODdqMDFEQWFNS2YxYjItZFVudVlkaTZTSFA2MmNhMmw3LV9mckN4UlZlazBxRjZB?oc=5)
-
----
-
-### [Linfonodi gonfi, prurito e sudorazioni notturne: i segnali da non ignorare di un tumore che oggi ha altissime probabilità di guarigione](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMlNYakREYnYtd2ZKeTF1akJZZTJrTU9XUFN3a1hvZkhHak80RTFrNlhrMzdPSlgxX3Y0NWtCNGZ2NXRfYm81cTJRNVlkZzRUTzBLanpHTl9UV09HdDRzc0dDam1zSVpyTjloaGNBa3lYQXBwT1kwdEZxWGhENnYzT2NnSHZHdzk2cGxpcFJOQUJtSUJVX08yRVZaV2dDM1JraFhZNGliN0JPMG13NENPSzA4MDA0eFlFT3pKVW1mU2tMazlPWjRFdEowdDB2OUdsQ0tJOXlxRHdKbmViVy1paEt6UmVOaXd2cDRsb1kySXBZaGoyOTZ3NjdPaWJETFVGQmZ4NmlOUmswYXM?oc=5)
-
-2026-08-20 <span class="news-indication-tag">tumor</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMlNYakREYnYtd2ZKeTF1akJZZTJrTU9XUFN3a1hvZkhHak80RTFrNlhrMzdPSlgxX3Y0NWtCNGZ2NXRfYm81cTJRNVlkZzRUTzBLanpHTl9UV09HdDRzc0dDam1zSVpyTjloaGNBa3lYQXBwT1kwdEZxWGhENnYzT2NnSHZHdzk2cGxpcFJOQUJtSUJVX08yRVZaV2dDM1JraFhZNGliN0JPMG13NENPSzA4MDA0eFlFT3pKVW1mU2tMazlPWjRFdEowdDB2OUdsQ0tJOXlxRHdKbmViVy1paEt6UmVOaXd2cDRsb1kySXBZaGoyOTZ3NjdPaWJETFVGQmZ4NmlOUmswYXM?oc=5)
-
----
-
-### [Altum Sequencing prepara la expansión de su ‘radar’ contra el cáncer - La Vanguardia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW5JeXp3SWF2WWZNckJhNHV4UHdKUXFkYnBUQm5xaGRvRENtbGVwZk1XUUwtSk1YNl9GOGZsUXMtYUZKaUhyUmlJRXNqR2NwZElRQlNncnRTaTlYYXo5TW5CMDJ5NVFvc09xdzNOelV2dWM0UnR4bFVuaFI2UnI5eUxzSHpSNWEzdk10UE1GbWZPMUUtTDEweW44OHF1aFZkWnY5QWJ3UFBOQdIBrwFBVV95cUxQQTd2MXhjOU1TVy1SdjlmM3pnLXpxem9nRm1tblR6bl92UWQ1SWdMTXI3MTVIRUZzeXpKSllXcWZEYUpqd3lrbk9DUGhDNU5qUWRqV2hsWGJiSlV1NzRTQWprX0ptekhJNzNyQlU5SU05TmVjOWlDcWhCMGpkUXhvSmZieXIwRm1GbDA0RTJkLWV0M2NEaGQxTWNrVHhudW9ZV1QzXzNpaFJGMzM4RW53?oc=5)
-
-2026-08-20 <span class="news-indication-tag">tumor</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW5JeXp3SWF2WWZNckJhNHV4UHdKUXFkYnBUQm5xaGRvRENtbGVwZk1XUUwtSk1YNl9GOGZsUXMtYUZKaUhyUmlJRXNqR2NwZElRQlNncnRTaTlYYXo5TW5CMDJ5NVFvc09xdzNOelV2dWM0UnR4bFVuaFI2UnI5eUxzSHpSNWEzdk10UE1GbWZPMUUtTDEweW44OHF1aFZkWnY5QWJ3UFBOQdIBrwFBVV95cUxQQTd2MXhjOU1TVy1SdjlmM3pnLXpxem9nRm1tblR6bl92UWQ1SWdMTXI3MTVIRUZzeXpKSllXcWZEYUpqd3lrbk9DUGhDNU5qUWRqV2hsWGJiSlV1NzRTQWprX0ptekhJNzNyQlU5SU05TmVjOWlDcWhCMGpkUXhvSmZieXIwRm1GbDA0RTJkLWV0M2NEaGQxTWNrVHhudW9ZV1QzXzNpaFJGMzM4RW53?oc=5)
 
 ---
 
