@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Irbesartan 有什麼相關新聞？">
-<strong>Irbesartan</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Irbesartan</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/irbesartan/
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（29 則）
 
-### [La mappa dei tumori in provincia di Arezzo: i più diffusi e la mortalità per comune. I casi di stomaco e tiroide](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWFk2YV9DT3RKVjJaZm5yZXBMd2VUWnJ3TWJNMENHb3RwT093WHZoNGNDNzdsenVHM19wT1phbC1uWVFiU1lldlBINjd0M0U5b2d0THlITmtLQUlaR1ZJa0pWV2Y1Q3BqX0tUYWJSRTdBRC1yRC00OEduZUVKcDQ?oc=5)
+### [Krebsfrüherkennung: Mundspülungen zeigen höhere Genauigkeit als Stuhltests](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmUzS3hzdzBXQjBnUndFU3JFTE5PS0dzd19kakh5UDNUZkVBenQ5UjhLQlV0Rm43akRlR3ctRHIza2JIa1hRWGMzQTEtNzQ5WlhKT19fZllhX3hDSzBCY3htNlpJdGpMTHRDdy00MjNBcGdIeF9nLU1sV2NmNlRBU0VHTERlTDVvVW45M241YUI2RjhiVlBEdTBkdWxKU1Z0NE00ZlEtUkduTTRicE0zUm85bGU?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmUzS3hzdzBXQjBnUndFU3JFTE5PS0dzd19kakh5UDNUZkVBenQ5UjhLQlV0Rm43akRlR3ctRHIza2JIa1hRWGMzQTEtNzQ5WlhKT19fZllhX3hDSzBCY3htNlpJdGpMTHRDdy00MjNBcGdIeF9nLU1sV2NmNlRBU0VHTERlTDVvVW45M241YUI2RjhiVlBEdTBkdWxKU1Z0NE00ZlEtUkduTTRicE0zUm85bGU?oc=5)
+
+---
+
+### [Tumori e traffico: 9,2 milioni di decessi mostrano che non tutto il PM2.5 pesa allo stesso modo](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRVJUd2xjQlRaLWtsRzNlX2Z0M2FnQ0ZEaExoTTlCMjV2ZDZLTDlPRnZpOVhZcW1xVHRBSktENW5uaXVSNzFaT0IydzBIWTZjYmtVZ2tLa3kySW9uSmswekE4WEdvZXMxRndOQk5kdWxPd1pLRDNPZ1Rmckp1c3NRSF9uSnRjN1l5VGFTRlV3aHBuTTFrUWZfTGc3RFN0aHc3eDB3R3JLdnBSMnVYQmFUX0o1bDBweFp1eVktRm5CcUVSWFJmUVAxNmFFNVN4enB2dUxSdDd5QVVBcVlvdHdsRkRONFhpQldaTmc?oc=5)
+
+2026-08-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRVJUd2xjQlRaLWtsRzNlX2Z0M2FnQ0ZEaExoTTlCMjV2ZDZLTDlPRnZpOVhZcW1xVHRBSktENW5uaXVSNzFaT0IydzBIWTZjYmtVZ2tLa3kySW9uSmswekE4WEdvZXMxRndOQk5kdWxPd1pLRDNPZ1Rmckp1c3NRSF9uSnRjN1l5VGFTRlV3aHBuTTFrUWZfTGc3RFN0aHc3eDB3R3JLdnBSMnVYQmFUX0o1bDBweFp1eVktRm5CcUVSWFJmUVAxNmFFNVN4enB2dUxSdDd5QVVBcVlvdHdsRkRONFhpQldaTmc?oc=5)
+
+---
+
+### [Algo en la saliva guarda pistas sobre el cáncer colorrectal](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">tumor</span>
 
-來源：[ArezzoNotizie](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWFk2YV9DT3RKVjJaZm5yZXBMd2VUWnJ3TWJNMENHb3RwT093WHZoNGNDNzdsenVHM19wT1phbC1uWVFiU1lldlBINjd0M0U5b2d0THlITmtLQUlaR1ZJa0pWV2Y1Q3BqX0tUYWJSRTdBRC1yRC00OEduZUVKcDQ?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
 
 ---
 
@@ -70,6 +86,14 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Farmaci per il diabete usati per dimagrire, è boom in Italia: quali sono i rischi. Intervista al farmacologo Garattini](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
+
+2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
+
+來源：[TGLA7](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
+
+---
+
 ### [Just one can of fizzy drink a day DOUBLES stomach cancer risk – except one type - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVm8ybjlHSm9pSU9QQTFFbFFhRS0tX1d6NDVpdnZQTHRzMnd4bGtiM1hSQmVjLVBtd2RSWU9RR1hFSzBFMVpMTUUtd1BrcHRCTEJwbXVZUmtSTTFWTVVsWUw3cVpGQjB0SUFGdjgydGN2YjkzTTA2SjFBY2dRUDV1U0Z3cHcwMmhk?oc=5)
 
 2026-08-21 <span class="news-indication-tag">cancer</span>
@@ -78,11 +102,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Wenn jede Minute zählt - Forum - Das Wochenmagazin](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
+### [Wenn jede Minute zählt](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">Krebs</span>
 
-來源：[Forum - Das Wochenmagazin](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
+來源：[magazin-forum.de](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
 
 ---
 
@@ -91,14 +115,6 @@ permalink: /news/irbesartan/
 2026-08-21 <span class="news-indication-tag">cancro</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU0JKTVhLQlZRcWFaVmlnOUNGb2dtdWdrcWhLb0J1N1plMEctUk1rVkp4SlB6dVB5VlpyZFdqRE5JYXRpS1RmaEl6aGJkMFpMbG1WWnhiVm9mTTBPRzBGcWk1VndqdTlhNFpkZ2RQQ0hxekh4Vzkxd2hZQ09xMmRtRWc2eDMxR1lDajB0ZEJMRHJSOG16VTduWHY3VE5lcjFVVTNfVkp0QmZZUDRzSGMzcFdzMFZ3WjNlUGxxSENYdzkwajN3UXhIUUtSNWlueGtzRlVoWExpZTFzMzFG?oc=5)
-
----
-
-### [New Aldi 99p food item coming out Thursday helps lower high blood pressure - Daily Mirror](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdUlJcE5fWnFNMVhTUmktZDh2eXFWWUhzRU1Gc0luRWU1MjVWYlpfbUtxUDcyS0twT25qem1NT2pBZThQcXdhT2tDU1BYOEV5cHc2SUNjZ2NUYTVXb2VMeUxkWUx0d3k1N3hxSGdFUTRiZEs2OE5J?oc=5)
-
-2026-08-21 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdUlJcE5fWnFNMVhTUmktZDh2eXFWWUhzRU1Gc0luRWU1MjVWYlpfbUtxUDcyS0twT25qem1NT2pBZThQcXdhT2tDU1BYOEV5cHc2SUNjZ2NUYTVXb2VMeUxkWUx0d3k1N3hxSGdFUTRiZEs2OE5J?oc=5)
 
 ---
 
@@ -150,14 +166,6 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Sarò abbastanza magra? Cosa sta cambiando con i farmaci GLP-1](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEpSbmdDc0tqeTlmVUxkTlIzRnJreHg4UzY2WFZJdDBaZjRMU1ZYMUU4azE5NV9aeDFIMENoUnBJT2EtQlFEU1FMamFVcVYtTGxaa2dFRC16T0t3UlRfWTNoWGM1VmVPZks0bmx1YlI4M2ZTenVXYmgwUTlMUTE4dHhpUXBreG1PS1Q3OUc2a3hJTE9FT2FxN1lGNUlTbWQ0b1Y4ZVowZUlvbGRROERIeA?oc=5)
-
-2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEpSbmdDc0tqeTlmVUxkTlIzRnJreHg4UzY2WFZJdDBaZjRMU1ZYMUU4azE5NV9aeDFIMENoUnBJT2EtQlFEU1FMamFVcVYtTGxaa2dFRC16T0t3UlRfWTNoWGM1VmVPZks0bmx1YlI4M2ZTenVXYmgwUTlMUTE4dHhpUXBreG1PS1Q3OUc2a3hJTE9FT2FxN1lGNUlTbWQ0b1Y4ZVowZUlvbGRROERIeA?oc=5)
-
----
-
 ### [UK men with heart disease at higher risk of developing and dying from cancer - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
 
 2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
@@ -187,14 +195,6 @@ permalink: /news/irbesartan/
 2026-08-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2FwczFzRzFRbDY2aENDWEZQbXJCVjhnV1lRclN3aWQzTEpYODNaMHE2STUtbFhMRFF6emVJWk5Ld1gyY0FqYU9SOWpCbWJvWkdaU2N6dU5GUS1sNXZaRThza1kyWUxpWEVxVmhZNzh0M0NhcW4tbldMOVR3cWx5MHMyV3VrWDVFVERFZDdXcGtVZnpqdmtBeUJzRjdDaWNjak9LRFRwcw?oc=5)
-
----
-
-### [Perché alcune persone ingrassano meno? La risposta è anche nei geni](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
-
-2026-08-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
 
 ---
 
@@ -238,11 +238,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Scientists Find a Surprising Diabetes-Fighting Compound in Turmeric](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkREZk5IRmxSa0FaVlZVbTZqR00zTm0taWVhNVFNNWI3Q0hudUlsQ19YUGdLOHZVRE1pWjJKWG9YMGI5UnM3ZTRZR05wcmtiZ1Z4RVp1Y01IcWJBYmd1TkEzb3dVYzZxZV9yb0pFZGZveGJWQlVaYjlNMUxqYWhraE85aFV1azVva21mc0hqTkh5MzRZY1Z5Mw?oc=5)
+### ['Unreasonable delay' in spotting cancer in patient who later died](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1saG93SDR5cm82djNPRk5EeFVrOV9rcXZ6RWNOQndpRkU2OXduMlBxZkNPRFBCNUVRNkttT2kxdUNweVl3MENRTFFkeDdaSlFlaktyekVkVGMtYlpT?oc=5)
 
-2026-08-20 <span class="news-indication-tag">diabetes</span>
+2026-08-20 <span class="news-indication-tag">cancer</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkREZk5IRmxSa0FaVlZVbTZqR00zTm0taWVhNVFNNWI3Q0hudUlsQ19YUGdLOHZVRE1pWjJKWG9YMGI5UnM3ZTRZR05wcmtiZ1Z4RVp1Y01IcWJBYmd1TkEzb3dVYzZxZV9yb0pFZGZveGJWQlVaYjlNMUxqYWhraE85aFV1azVva21mc0hqTkh5MzRZY1Z5Mw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1saG93SDR5cm82djNPRk5EeFVrOV9rcXZ6RWNOQndpRkU2OXduMlBxZkNPRFBCNUVRNkttT2kxdUNweVl3MENRTFFkeDdaSlFlaktyekVkVGMtYlpT?oc=5)
 
 ---
 
@@ -262,35 +262,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Ipertensione, spegnere l’infiammazione può favorire anche la riparazione dei tessuti - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnVfYWs4OTZBVjFEV2F4aEVCaUxNbTV6cW5sUm8zWlBEN2tnUW1pYVZsd09KQTBtdlB1bmk0WHpsemtweEIxekJKSC14dHE2V2hJSFpPZDNSa1duYmVRRHAxU0p6bGRSZjFNS29ySDFObnJLTl9XQ3RRREtkTVZRRWlBUlVhdC1ZTjFnXzd3dHpOYTNIbzZuY3lBY1ljMm5ZS1Q1T2ZRcHZqTW9EQ01NcENaUW84cWVlUXVDOTRsdnXSAcYBQVVfeXFMTVNoUlEwOGpBeEZZUkN5aFBycVhJdGc0NjBvQ3VxUGFNVzRfRGVhT3Q4WVp3a2RwNFhNaWdoNFEtS2M5MVBEN3htMW81WHc1LXZGV3hYcVBGMnZENTdDdXJaX3JIMXdwX0ZYQ3M3X0NPcmlPRDNadjhaQkdNay1UUndGWVlYN2gxTFBGaUhVWmZmajNsWFlSUEdrSGhvZk1sdTdIYjZCaElsT2dQbnl4T0Vib0tBaGFZY2Z5ZkxveEFpUkVUdnNB?oc=5)
-
-2026-08-20 <span class="news-indication-tag">ipertensione</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnVfYWs4OTZBVjFEV2F4aEVCaUxNbTV6cW5sUm8zWlBEN2tnUW1pYVZsd09KQTBtdlB1bmk0WHpsemtweEIxekJKSC14dHE2V2hJSFpPZDNSa1duYmVRRHAxU0p6bGRSZjFNS29ySDFObnJLTl9XQ3RRREtkTVZRRWlBUlVhdC1ZTjFnXzd3dHpOYTNIbzZuY3lBY1ljMm5ZS1Q1T2ZRcHZqTW9EQ01NcENaUW84cWVlUXVDOTRsdnXSAcYBQVVfeXFMTVNoUlEwOGpBeEZZUkN5aFBycVhJdGc0NjBvQ3VxUGFNVzRfRGVhT3Q4WVp3a2RwNFhNaWdoNFEtS2M5MVBEN3htMW81WHc1LXZGV3hYcVBGMnZENTdDdXJaX3JIMXdwX0ZYQ3M3X0NPcmlPRDNadjhaQkdNay1UUndGWVlYN2gxTFBGaUhVWmZmajNsWFlSUEdrSGhvZk1sdTdIYjZCaElsT2dQbnl4T0Vib0tBaGFZY2Z5ZkxveEFpUkVUdnNB?oc=5)
-
----
-
 ### [Bluthochdruck: Auf diese zwei Nährstoffe kommt es laut Experten an - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
 
 2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
-
----
-
-### [‘Clear red flags’ missed by Highland GP whose patient died from pancreatic cancer - Inverness Courier](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGVuYUVXQldCR1J2WTJvU1BGekk4eEI4eVd6MTVuMWUwcjJRX0Y4QlNYcl9GYnljSlY2N20zRnF1c1NKbDYwU0Q2dlZ6em9nRW93OVZzNXptRzlJaVNVZWtEbXMyeGQ3eWtEdHpIZlNwRG9CRG92bXdrRUhtUmg1Yzc1bzBTcFZYZmYzSHNSbmgwTTZ3UHJiVHNsZ2ZNckdUVTM1RnFNNGNzMnM?oc=5)
-
-2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Inverness Courier](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGVuYUVXQldCR1J2WTJvU1BGekk4eEI4eVd6MTVuMWUwcjJRX0Y4QlNYcl9GYnljSlY2N20zRnF1c1NKbDYwU0Q2dlZ6em9nRW93OVZzNXptRzlJaVNVZWtEbXMyeGQ3eWtEdHpIZlNwRG9CRG92bXdrRUhtUmg1Yzc1bzBTcFZYZmYzSHNSbmgwTTZ3UHJiVHNsZ2ZNckdUVTM1RnFNNGNzMnM?oc=5)
-
----
-
-### [Perché alcuni arrivano a 110 anni? Nei supercentenari abbondano rare cellule T “killer”](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3VJeS1wNGJmZ0xocnRHQXhqT1Q0X2ZCNmNDZTd6OE9RUmFGMDVmY3poRnY5bEI2VmM1ZnZLdTktZnFFc1EwVzJsbDBNWUp2dDJfcVFNejJiMzZFQXJmLUt3bUZ2TEdJaUp6RFczaHNKYy1VMVlzSU56NUdRU0VzZC1UYlM3WTllRVJnWi1RZU1ydWpSQnVHY254UVd3NmdJVmJodXlXMjdKOVpDSGpwSWR2QlVkZnJmOWFfQjdFaVNyUlRrazAzRU9nck9xUXFNdFMzX1hmb2d0ZHhZ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3VJeS1wNGJmZ0xocnRHQXhqT1Q0X2ZCNmNDZTd6OE9RUmFGMDVmY3poRnY5bEI2VmM1ZnZLdTktZnFFc1EwVzJsbDBNWUp2dDJfcVFNejJiMzZFQXJmLUt3bUZ2TEdJaUp6RFczaHNKYy1VMVlzSU56NUdRU0VzZC1UYlM3WTllRVJnWi1RZU1ydWpSQnVHY254UVd3NmdJVmJodXlXMjdKOVpDSGpwSWR2QlVkZnJmOWFfQjdFaVNyUlRrazAzRU9nck9xUXFNdFMzX1hmb2d0ZHhZ?oc=5)
 
 ---
 
@@ -307,30 +283,6 @@ permalink: /news/irbesartan/
 2026-08-20 <span class="news-indication-tag">tumor</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW5JeXp3SWF2WWZNckJhNHV4UHdKUXFkYnBUQm5xaGRvRENtbGVwZk1XUUwtSk1YNl9GOGZsUXMtYUZKaUhyUmlJRXNqR2NwZElRQlNncnRTaTlYYXo5TW5CMDJ5NVFvc09xdzNOelV2dWM0UnR4bFVuaFI2UnI5eUxzSHpSNWEzdk10UE1GbWZPMUUtTDEweW44OHF1aFZkWnY5QWJ3UFBOQdIBrwFBVV95cUxQQTd2MXhjOU1TVy1SdjlmM3pnLXpxem9nRm1tblR6bl92UWQ1SWdMTXI3MTVIRUZzeXpKSllXcWZEYUpqd3lrbk9DUGhDNU5qUWRqV2hsWGJiSlV1NzRTQWprX0ptekhJNzNyQlU5SU05TmVjOWlDcWhCMGpkUXhvSmZieXIwRm1GbDA0RTJkLWV0M2NEaGQxTWNrVHhudW9ZV1QzXzNpaFJGMzM4RW53?oc=5)
-
----
-
-### [Typ-2-Diabetes im Alter: SGLT2-Hemmer senken Sterblichkeit um 32%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXhNeU5jTmRsOFhEby1kblI2MmpTQkVuV0N2YmN2cm1RME1lc1VjWjRfdUJHRDhCVlo0Rm5vMFhSbFB2aFlEODFHdjhGMGYzVEM0X3F3WVcwbGJHMENLTE0yQ0JoeWZPQjRyNDZicTEtd1c1M2VaZHlIa2dTbno1ZFlmVTRXUWdNcW1uTUFRT0ZBcFJzS2RzSW5IVzJlSG9UZEZLSVlEdmlHbnU5Nmx6V2lHMXNWZGh6Z1hZUQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXhNeU5jTmRsOFhEby1kblI2MmpTQkVuV0N2YmN2cm1RME1lc1VjWjRfdUJHRDhCVlo0Rm5vMFhSbFB2aFlEODFHdjhGMGYzVEM0X3F3WVcwbGJHMENLTE0yQ0JoeWZPQjRyNDZicTEtd1c1M2VaZHlIa2dTbno1ZFlmVTRXUWdNcW1uTUFRT0ZBcFJzS2RzSW5IVzJlSG9UZEZLSVlEdmlHbnU5Nmx6V2lHMXNWZGh6Z1hZUQ?oc=5)
-
----
-
-### [Symptoms May Signal Prostate Cancer in Primary Care](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR0MHp0TmJSLXFMU19LWVdjeGlaaUNCX0x0Sm4xZzVHU3VDNHZkQVJZQmMtMTFxbTBtUERFTVI0ZTRjOWJhUVBJX29kdG1uSTJiUnNBeG1GWGZfMF9uYmU1b2stZFpQb2g5V2JrX2Yxc0s0ems3VkVuV0pnZDRYU0xxSGo5ZkY3MlRMYjdVVnlsRXNvcDFDR1ZlbTNvN3B3ZGlPUHh4NWFRRTla?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR0MHp0TmJSLXFMU19LWVdjeGlaaUNCX0x0Sm4xZzVHU3VDNHZkQVJZQmMtMTFxbTBtUERFTVI0ZTRjOWJhUVBJX29kdG1uSTJiUnNBeG1GWGZfMF9uYmU1b2stZFpQb2g5V2JrX2Yxc0s0ems3VkVuV0pnZDRYU0xxSGo5ZkY3MlRMYjdVVnlsRXNvcDFDR1ZlbTNvN3B3ZGlPUHh4NWFRRTla?oc=5)
-
----
-
-### [Compound produced after eating pomegranates targets stiff-heart failure pathway, early tests suggest - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjFlc0tzc2hIaFYyTHBGc210WTVRRFR0WThIUE9CYzJWMHlaX0NDOVdKX2FBR0dfcW1pM05nOEJHQzVLdjZUUXBiQmlWN1V1RGVDOHI0Q0pLTzExYWlsNC1ZdkNSWWNIdkUzSm5sS0pMbDBLQWx0Z1lMU1lFVUlNdVcwdGpCMVUzNHhQWHN3?oc=5)
-
-2026-08-19 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjFlc0tzc2hIaFYyTHBGc210WTVRRFR0WThIUE9CYzJWMHlaX0NDOVdKX2FBR0dfcW1pM05nOEJHQzVLdjZUUXBiQmlWN1V1RGVDOHI0Q0pLTzExYWlsNC1ZdkNSWWNIdkUzSm5sS0pMbDBLQWx0Z1lMU1lFVUlNdVcwdGpCMVUzNHhQWHN3?oc=5)
 
 ---
 

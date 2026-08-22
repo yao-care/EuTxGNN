@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Caldo e dolore: perché le alte temperature ci fanno sentire più acciaccati](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 

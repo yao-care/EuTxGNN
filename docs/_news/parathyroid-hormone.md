@@ -14,7 +14,7 @@ permalink: /news/parathyroid-hormone/
 ---
 
 <p class="key-answer" data-question="Parathyroid Hormone 有什麼相關新聞？">
-<strong>Parathyroid Hormone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parathyroid Hormone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/parathyroid-hormone/
 <p><a href="{{ '/drugs/parathyroid-hormone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Caldo e dolore: perché le alte temperature ci fanno sentire più acciaccati](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Depressione, nell’ippocampo i nuovi neuroni sembrano fermarsi prima di maturare](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
+
+2026-08-21
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
+
+---
+
+### [“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
+
+2026-08-21
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
+
+---
 
 ### [Gesundheit: Forscher entdecken möglichen Alzheimer-Treiber im Darm](https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1Y3OXNVNVU1eWQ1N3FKVjl3Ynh3Z3NGNUF5czVONjNLaWdFMTNGbTNZbnA4dkxIQzZINUstQTBSMjdnRmhHeUNZTDVqdnNrQS1La0xyLTZRbnNtZ0hzeGNYWEpjN3haU1Y1UFpSZkZoOEV3VDlYeGVHVnR6TVRjZEhsTWJJd2lxYURFRVB2UTBzeEE3T19PNWV6c0V5VnN1ZWtndnliajBaRlJualIxRk9TbzFwWjNKV3p3STlxYXJXWTNNRzAxbGswVU0?oc=5)
 

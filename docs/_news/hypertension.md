@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [New Aldi 99p food item coming out Thursday helps lower high blood pressure - Daily Mirror](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdUlJcE5fWnFNMVhTUmktZDh2eXFWWUhzRU1Gc0luRWU1MjVWYlpfbUtxUDcyS0twT25qem1NT2pBZThQcXdhT2tDU1BYOEV5cHc2SUNjZ2NUYTVXb2VMeUxkWUx0d3k1N3hxSGdFUTRiZEs2OE5J?oc=5)
-
-2026-08-21
-
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdUlJcE5fWnFNMVhTUmktZDh2eXFWWUhzRU1Gc0luRWU1MjVWYlpfbUtxUDcyS0twT25qem1NT2pBZThQcXdhT2tDU1BYOEV5cHc2SUNjZ2NUYTVXb2VMeUxkWUx0d3k1N3hxSGdFUTRiZEs2OE5J?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
 
@@ -106,14 +98,6 @@ permalink: /news/hypertension/
 2026-08-21
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzVjTW9FNm05ekV5YWtlLTUxMUZINmVnd3JOMEY5a2h3TFNQa3dQTmhzV1UxNHdMUnVjRkRnVmY0SlRQMEZGLWx2V0xGZ2RSbmlKSV9qeUhpLWkwMUY5SVVKeTFSU1VtaER3T0V3ZGpDLUQ2cXJqTjc1Y19BNlltREhqNnlXMGpCckk4Q3NCMDFsT1JNVjFONVM3RmlleUZDY2tzbGI5Tzl4Z0p3a1pCTUpFUTBRWkNfVjgtR004YXZFQVU?oc=5)
-
----
-
-### [Ipertensione, spegnere l’infiammazione può favorire anche la riparazione dei tessuti - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnVfYWs4OTZBVjFEV2F4aEVCaUxNbTV6cW5sUm8zWlBEN2tnUW1pYVZsd09KQTBtdlB1bmk0WHpsemtweEIxekJKSC14dHE2V2hJSFpPZDNSa1duYmVRRHAxU0p6bGRSZjFNS29ySDFObnJLTl9XQ3RRREtkTVZRRWlBUlVhdC1ZTjFnXzd3dHpOYTNIbzZuY3lBY1ljMm5ZS1Q1T2ZRcHZqTW9EQ01NcENaUW84cWVlUXVDOTRsdnXSAcYBQVVfeXFMTVNoUlEwOGpBeEZZUkN5aFBycVhJdGc0NjBvQ3VxUGFNVzRfRGVhT3Q4WVp3a2RwNFhNaWdoNFEtS2M5MVBEN3htMW81WHc1LXZGV3hYcVBGMnZENTdDdXJaX3JIMXdwX0ZYQ3M3X0NPcmlPRDNadjhaQkdNay1UUndGWVlYN2gxTFBGaUhVWmZmajNsWFlSUEdrSGhvZk1sdTdIYjZCaElsT2dQbnl4T0Vib0tBaGFZY2Z5ZkxveEFpUkVUdnNB?oc=5)
-
-2026-08-20
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnVfYWs4OTZBVjFEV2F4aEVCaUxNbTV6cW5sUm8zWlBEN2tnUW1pYVZsd09KQTBtdlB1bmk0WHpsemtweEIxekJKSC14dHE2V2hJSFpPZDNSa1duYmVRRHAxU0p6bGRSZjFNS29ySDFObnJLTl9XQ3RRREtkTVZRRWlBUlVhdC1ZTjFnXzd3dHpOYTNIbzZuY3lBY1ljMm5ZS1Q1T2ZRcHZqTW9EQ01NcENaUW84cWVlUXVDOTRsdnXSAcYBQVVfeXFMTVNoUlEwOGpBeEZZUkN5aFBycVhJdGc0NjBvQ3VxUGFNVzRfRGVhT3Q4WVp3a2RwNFhNaWdoNFEtS2M5MVBEN3htMW81WHc1LXZGV3hYcVBGMnZENTdDdXJaX3JIMXdwX0ZYQ3M3X0NPcmlPRDNadjhaQkdNay1UUndGWVlYN2gxTFBGaUhVWmZmajNsWFlSUEdrSGhvZk1sdTdIYjZCaElsT2dQbnl4T0Vib0tBaGFZY2Z5ZkxveEFpUkVUdnNB?oc=5)
 
 ---
 

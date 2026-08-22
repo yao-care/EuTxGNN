@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [BPCO, vivere significa “razionare” le energie: cosa raccontano 60 pazienti in cinque Paesi](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWxHalZVWHBORlFJZFdlVHk3d2dtXzFlMmljWlBFaUdyeHAydmw5RHBVWlZoZFdPWldUeDlMZ0NCanRqVWRQcFNBUHdzeVhsSnllSkxQRmsxQU1NQ0VPUjdaeXZKWHI1QUh3QVV1NldKdWl2TUp6QWR6cDZDd2MyWmdpcVdIY3Q3eDZsbUlxWUNpc1dLaUY5Vm1mNTdiWGNKNXhiWTRCTHRSdDByN1MtUmFXNC1QNTgyd1BrMWF3ODBRenp6UFJ1NFpnXzBCa2pkSHlOWXlXa0YwQk1ZTXIw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">BPCO</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWxHalZVWHBORlFJZFdlVHk3d2dtXzFlMmljWlBFaUdyeHAydmw5RHBVWlZoZFdPWldUeDlMZ0NCanRqVWRQcFNBUHdzeVhsSnllSkxQRmsxQU1NQ0VPUjdaeXZKWHI1QUh3QVV1NldKdWl2TUp6QWR6cDZDd2MyWmdpcVdIY3Q3eDZsbUlxWUNpc1dLaUY5Vm1mNTdiWGNKNXhiWTRCTHRSdDByN1MtUmFXNC1QNTgyd1BrMWF3ODBRenp6UFJ1NFpnXzBCa2pkSHlOWXlXa0YwQk1ZTXIw?oc=5)
+
+---
 
 ### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxObDVQWGNHTHRLR0duUnVrYl92dUlaWXJ6TWs2VHk5dXU5Y3lWOU1OOXZjNldGSjAyUm9YM1FnR1R5SFdHVFo3QV9OUUFSY0VRWkpzTy11MkRlczUwZFFMTTlLcEZwcTk1VDl5azdCUUsxU2FEUWRMTXlWLUtLQVhJRFl6ZE1fNkdhUktha1FDOG5IT1JVeUw5SGFKSUJsTnBWalQyRTVSckFudE80SnEzTGZ1MGZkdw?oc=5)
 

@@ -54,11 +54,11 @@ permalink: /news/inclisiran/
 
 ## 相關新聞（1 則）
 
-### [Caldo e dolore: perché le alte temperature ci fanno sentire più acciaccati](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
+### [Inclisiran-Therapie nun ab 12 Jahren möglich - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1Qd2dpNWQ2SjA5ZE9sZjBtVllBbnNNdUQ4WWhHU3NBbFhsNWV3THZ4NmxaSnhzX0hmcWJmYXh4S2xuMWdaN0tYUk5SZ1Izc3R6Y29xejcwaEI4VmY5a2J6aEwzQUgtcF82c05USkFselVOY3BZYUpoa01FbEN2OVZNa1dNdWx5bVpzSVNLNGxXMGRfZENPTDFub2p1RjJZZUQwbTRWeGFudkg4Z2Y3bg?oc=5)
 
-2026-08-20 <span class="news-indication-tag">emicrania</span>
+2026-08-21 <span class="news-drug-tag">Inclisiran</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmFCU0IyeHZqRVRIaElpazRqZ01rRDZSVTVrZDN0dGphdlFxbV9pYzY3VzFDR1U1aGV1NV85czJJQTI3QTFKbVZDY0VGUmE4RnZvblBKRzVvcXpCWktnY3RqWXg5TWpTTlJaYTNEU2V5MUE4R2FMSlY3WUI2TVVpOWJOM1VxRnNyNkRmQnlrbWhnUEpKS1JzNUJUWXc5ZEJyWE9vQU1DenY3THQzcmtGYV85Mm9zYzRJc3l5eDQ2NWVLZw?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1Qd2dpNWQ2SjA5ZE9sZjBtVllBbnNNdUQ4WWhHU3NBbFhsNWV3THZ4NmxaSnhzX0hmcWJmYXh4S2xuMWdaN0tYUk5SZ1Izc3R6Y29xejcwaEI4VmY5a2J6aEwzQUgtcF82c05USkFselVOY3BZYUpoa01FbEN2OVZNa1dNdWx5bVpzSVNLNGxXMGRfZENPTDFub2p1RjJZZUQwbTRWeGFudkg4Z2Y3bg?oc=5)
 
 ---
 

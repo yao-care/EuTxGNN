@@ -54,11 +54,27 @@ permalink: /news/tofacitinib/
 
 ## 相關新聞（22 則）
 
-### [La mappa dei tumori in provincia di Arezzo: i più diffusi e la mortalità per comune. I casi di stomaco e tiroide](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWFk2YV9DT3RKVjJaZm5yZXBMd2VUWnJ3TWJNMENHb3RwT093WHZoNGNDNzdsenVHM19wT1phbC1uWVFiU1lldlBINjd0M0U5b2d0THlITmtLQUlaR1ZJa0pWV2Y1Q3BqX0tUYWJSRTdBRC1yRC00OEduZUVKcDQ?oc=5)
+### [Krebsfrüherkennung: Mundspülungen zeigen höhere Genauigkeit als Stuhltests](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmUzS3hzdzBXQjBnUndFU3JFTE5PS0dzd19kakh5UDNUZkVBenQ5UjhLQlV0Rm43akRlR3ctRHIza2JIa1hRWGMzQTEtNzQ5WlhKT19fZllhX3hDSzBCY3htNlpJdGpMTHRDdy00MjNBcGdIeF9nLU1sV2NmNlRBU0VHTERlTDVvVW45M241YUI2RjhiVlBEdTBkdWxKU1Z0NE00ZlEtUkduTTRicE0zUm85bGU?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmUzS3hzdzBXQjBnUndFU3JFTE5PS0dzd19kakh5UDNUZkVBenQ5UjhLQlV0Rm43akRlR3ctRHIza2JIa1hRWGMzQTEtNzQ5WlhKT19fZllhX3hDSzBCY3htNlpJdGpMTHRDdy00MjNBcGdIeF9nLU1sV2NmNlRBU0VHTERlTDVvVW45M241YUI2RjhiVlBEdTBkdWxKU1Z0NE00ZlEtUkduTTRicE0zUm85bGU?oc=5)
+
+---
+
+### [Tumori e traffico: 9,2 milioni di decessi mostrano che non tutto il PM2.5 pesa allo stesso modo](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRVJUd2xjQlRaLWtsRzNlX2Z0M2FnQ0ZEaExoTTlCMjV2ZDZLTDlPRnZpOVhZcW1xVHRBSktENW5uaXVSNzFaT0IydzBIWTZjYmtVZ2tLa3kySW9uSmswekE4WEdvZXMxRndOQk5kdWxPd1pLRDNPZ1Rmckp1c3NRSF9uSnRjN1l5VGFTRlV3aHBuTTFrUWZfTGc3RFN0aHc3eDB3R3JLdnBSMnVYQmFUX0o1bDBweFp1eVktRm5CcUVSWFJmUVAxNmFFNVN4enB2dUxSdDd5QVVBcVlvdHdsRkRONFhpQldaTmc?oc=5)
+
+2026-08-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRVJUd2xjQlRaLWtsRzNlX2Z0M2FnQ0ZEaExoTTlCMjV2ZDZLTDlPRnZpOVhZcW1xVHRBSktENW5uaXVSNzFaT0IydzBIWTZjYmtVZ2tLa3kySW9uSmswekE4WEdvZXMxRndOQk5kdWxPd1pLRDNPZ1Rmckp1c3NRSF9uSnRjN1l5VGFTRlV3aHBuTTFrUWZfTGc3RFN0aHc3eDB3R3JLdnBSMnVYQmFUX0o1bDBweFp1eVktRm5CcUVSWFJmUVAxNmFFNVN4enB2dUxSdDd5QVVBcVlvdHdsRkRONFhpQldaTmc?oc=5)
+
+---
+
+### [Algo en la saliva guarda pistas sobre el cáncer colorrectal](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">tumor</span>
 
-來源：[ArezzoNotizie](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWFk2YV9DT3RKVjJaZm5yZXBMd2VUWnJ3TWJNMENHb3RwT093WHZoNGNDNzdsenVHM19wT1phbC1uWVFiU1lldlBINjd0M0U5b2d0THlITmtLQUlaR1ZJa0pWV2Y1Q3BqX0tUYWJSRTdBRC1yRC00OEduZUVKcDQ?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/tofacitinib/
 
 ---
 
-### [Wenn jede Minute zählt - Forum - Das Wochenmagazin](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
+### [Wenn jede Minute zählt](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">Krebs</span>
 
-來源：[Forum - Das Wochenmagazin](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
+來源：[magazin-forum.de](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENGJGQ0JYdHhfZmNtRzJpQXZSRW4zV2htUVQ5aVM0OXpjd21xOFU4c2Q1MVpuZWlabE04MmZGVng2bElXWUJ2WnlhS18tM0d3cU83c19aODE4ZllGRTRRMElWQzFMdw?oc=5)
 
 ---
 
@@ -166,6 +182,14 @@ permalink: /news/tofacitinib/
 
 ---
 
+### ['Unreasonable delay' in spotting cancer in patient who later died](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1saG93SDR5cm82djNPRk5EeFVrOV9rcXZ6RWNOQndpRkU2OXduMlBxZkNPRFBCNUVRNkttT2kxdUNweVl3MENRTFFkeDdaSlFlaktyekVkVGMtYlpT?oc=5)
+
+2026-08-20 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1saG93SDR5cm82djNPRk5EeFVrOV9rcXZ6RWNOQndpRkU2OXduMlBxZkNPRFBCNUVRNkttT2kxdUNweVl3MENRTFFkeDdaSlFlaktyekVkVGMtYlpT?oc=5)
+
+---
+
 ### [Infosalus.- Una pequeña herida en el glande que no cicatriza puede ser el primer signo de un carcinoma de pene, según un experto](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOEQtX05qMU5JVTF4YlpDNFpsaE1kdTZJeVFVMl9oOVZIV1JRcUx4SmFDc3pYZGE5dUxoVFI5WXN2b240eGZVekUySEFMLTdRbVFEVy1sTGJabXphcktDRHhlRkNlYXhmS0lMVkpVQ1ZUQ21GNnlsX1ljSkNCT1RLdThSWWRNd2lXMWFzbDZkdGRSdmVIck5QZ3pEN0RuaVlEQzhSNTVyYmJOQUtLS240bnJwVXZYWm9td3lpZ0xaQktQYUM2T2h5U1B0ZDRURTJ4blczUTZYLUZaaFNUUGZDU1ZDWHQ?oc=5)
 
 2026-08-20 <span class="news-indication-tag">carcinoma</span>
@@ -190,22 +214,6 @@ permalink: /news/tofacitinib/
 
 ---
 
-### [‘Clear red flags’ missed by Highland GP whose patient died from pancreatic cancer - Inverness Courier](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGVuYUVXQldCR1J2WTJvU1BGekk4eEI4eVd6MTVuMWUwcjJRX0Y4QlNYcl9GYnljSlY2N20zRnF1c1NKbDYwU0Q2dlZ6em9nRW93OVZzNXptRzlJaVNVZWtEbXMyeGQ3eWtEdHpIZlNwRG9CRG92bXdrRUhtUmg1Yzc1bzBTcFZYZmYzSHNSbmgwTTZ3UHJiVHNsZ2ZNckdUVTM1RnFNNGNzMnM?oc=5)
-
-2026-08-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Inverness Courier](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGVuYUVXQldCR1J2WTJvU1BGekk4eEI4eVd6MTVuMWUwcjJRX0Y4QlNYcl9GYnljSlY2N20zRnF1c1NKbDYwU0Q2dlZ6em9nRW93OVZzNXptRzlJaVNVZWtEbXMyeGQ3eWtEdHpIZlNwRG9CRG92bXdrRUhtUmg1Yzc1bzBTcFZYZmYzSHNSbmgwTTZ3UHJiVHNsZ2ZNckdUVTM1RnFNNGNzMnM?oc=5)
-
----
-
-### [Perché alcuni arrivano a 110 anni? Nei supercentenari abbondano rare cellule T “killer”](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3VJeS1wNGJmZ0xocnRHQXhqT1Q0X2ZCNmNDZTd6OE9RUmFGMDVmY3poRnY5bEI2VmM1ZnZLdTktZnFFc1EwVzJsbDBNWUp2dDJfcVFNejJiMzZFQXJmLUt3bUZ2TEdJaUp6RFczaHNKYy1VMVlzSU56NUdRU0VzZC1UYlM3WTllRVJnWi1RZU1ydWpSQnVHY254UVd3NmdJVmJodXlXMjdKOVpDSGpwSWR2QlVkZnJmOWFfQjdFaVNyUlRrazAzRU9nck9xUXFNdFMzX1hmb2d0ZHhZ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3VJeS1wNGJmZ0xocnRHQXhqT1Q0X2ZCNmNDZTd6OE9RUmFGMDVmY3poRnY5bEI2VmM1ZnZLdTktZnFFc1EwVzJsbDBNWUp2dDJfcVFNejJiMzZFQXJmLUt3bUZ2TEdJaUp6RFczaHNKYy1VMVlzSU56NUdRU0VzZC1UYlM3WTllRVJnWi1RZU1ydWpSQnVHY254UVd3NmdJVmJodXlXMjdKOVpDSGpwSWR2QlVkZnJmOWFfQjdFaVNyUlRrazAzRU9nck9xUXFNdFMzX1hmb2d0ZHhZ?oc=5)
-
----
-
 ### [Linfonodi gonfi, prurito e sudorazioni notturne: i segnali da non ignorare di un tumore che oggi ha altissime probabilità di guarigione](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMlNYakREYnYtd2ZKeTF1akJZZTJrTU9XUFN3a1hvZkhHak80RTFrNlhrMzdPSlgxX3Y0NWtCNGZ2NXRfYm81cTJRNVlkZzRUTzBLanpHTl9UV09HdDRzc0dDam1zSVpyTjloaGNBa3lYQXBwT1kwdEZxWGhENnYzT2NnSHZHdzk2cGxpcFJOQUJtSUJVX08yRVZaV2dDM1JraFhZNGliN0JPMG13NENPSzA4MDA0eFlFT3pKVW1mU2tMazlPWjRFdEowdDB2OUdsQ0tJOXlxRHdKbmViVy1paEt6UmVOaXd2cDRsb1kySXBZaGoyOTZ3NjdPaWJETFVGQmZ4NmlOUmswYXM?oc=5)
 
 2026-08-20 <span class="news-indication-tag">tumor</span>
@@ -219,14 +227,6 @@ permalink: /news/tofacitinib/
 2026-08-20 <span class="news-indication-tag">tumor</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW5JeXp3SWF2WWZNckJhNHV4UHdKUXFkYnBUQm5xaGRvRENtbGVwZk1XUUwtSk1YNl9GOGZsUXMtYUZKaUhyUmlJRXNqR2NwZElRQlNncnRTaTlYYXo5TW5CMDJ5NVFvc09xdzNOelV2dWM0UnR4bFVuaFI2UnI5eUxzSHpSNWEzdk10UE1GbWZPMUUtTDEweW44OHF1aFZkWnY5QWJ3UFBOQdIBrwFBVV95cUxQQTd2MXhjOU1TVy1SdjlmM3pnLXpxem9nRm1tblR6bl92UWQ1SWdMTXI3MTVIRUZzeXpKSllXcWZEYUpqd3lrbk9DUGhDNU5qUWRqV2hsWGJiSlV1NzRTQWprX0ptekhJNzNyQlU5SU05TmVjOWlDcWhCMGpkUXhvSmZieXIwRm1GbDA0RTJkLWV0M2NEaGQxTWNrVHhudW9ZV1QzXzNpaFJGMzM4RW53?oc=5)
-
----
-
-### [Symptoms May Signal Prostate Cancer in Primary Care](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR0MHp0TmJSLXFMU19LWVdjeGlaaUNCX0x0Sm4xZzVHU3VDNHZkQVJZQmMtMTFxbTBtUERFTVI0ZTRjOWJhUVBJX29kdG1uSTJiUnNBeG1GWGZfMF9uYmU1b2stZFpQb2g5V2JrX2Yxc0s0ems3VkVuV0pnZDRYU0xxSGo5ZkY3MlRMYjdVVnlsRXNvcDFDR1ZlbTNvN3B3ZGlPUHh4NWFRRTla?oc=5)
-
-2026-08-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR0MHp0TmJSLXFMU19LWVdjeGlaaUNCX0x0Sm4xZzVHU3VDNHZkQVJZQmMtMTFxbTBtUERFTVI0ZTRjOWJhUVBJX29kdG1uSTJiUnNBeG1GWGZfMF9uYmU1b2stZFpQb2g5V2JrX2Yxc0s0ems3VkVuV0pnZDRYU0xxSGo5ZkY3MlRMYjdVVnlsRXNvcDFDR1ZlbTNvN3B3ZGlPUHh4NWFRRTla?oc=5)
 
 ---
 

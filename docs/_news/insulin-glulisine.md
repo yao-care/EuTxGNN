@@ -14,7 +14,7 @@ permalink: /news/insulin-glulisine/
 ---
 
 <p class="key-answer" data-question="Insulin Glulisine 有什麼相關新聞？">
-<strong>Insulin Glulisine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Glulisine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/insulin-glulisine/
 <p><a href="{{ '/drugs/insulin-glulisine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
+
+### [Farmaci per il diabete usati per dimagrire, è boom in Italia: quali sono i rischi. Intervista al farmacologo Garattini](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
+
+2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
+
+來源：[TGLA7](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
+
+---
 
 ### [Viel mehr als nur die Zuckerkrankheit](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJ2RVJWdkRaWnJJT3RGRGZuU1IwVHBpZkJJX1VpVE8xcFRjZU1VeTNiMWhfUVdIWkFQQWk5aGM4cHVpTTBfdzhab3ZJcXZDUnd6bnJ2QTkzU2xwaVhyWVJ2OFo1eHVQcVExVHZFY3lfYjR5UUpmUUtaZkI2U1pqLXo5aw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">Zuckerkrankheit</span>
 
 來源：[halloherne.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJ2RVJWdkRaWnJJT3RGRGZuU1IwVHBpZkJJX1VpVE8xcFRjZU1VeTNiMWhfUVdIWkFQQWk5aGM4cHVpTTBfdzhab3ZJcXZDUnd6bnJ2QTkzU2xwaVhyWVJ2OFo1eHVQcVExVHZFY3lfYjR5UUpmUUtaZkI2U1pqLXo5aw?oc=5)
-
----
-
-### [Sarò abbastanza magra? Cosa sta cambiando con i farmaci GLP-1](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEpSbmdDc0tqeTlmVUxkTlIzRnJreHg4UzY2WFZJdDBaZjRMU1ZYMUU4azE5NV9aeDFIMENoUnBJT2EtQlFEU1FMamFVcVYtTGxaa2dFRC16T0t3UlRfWTNoWGM1VmVPZks0bmx1YlI4M2ZTenVXYmgwUTlMUTE4dHhpUXBreG1PS1Q3OUc2a3hJTE9FT2FxN1lGNUlTbWQ0b1Y4ZVowZUlvbGRROERIeA?oc=5)
-
-2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEpSbmdDc0tqeTlmVUxkTlIzRnJreHg4UzY2WFZJdDBaZjRMU1ZYMUU4azE5NV9aeDFIMENoUnBJT2EtQlFEU1FMamFVcVYtTGxaa2dFRC16T0t3UlRfWTNoWGM1VmVPZks0bmx1YlI4M2ZTenVXYmgwUTlMUTE4dHhpUXBreG1PS1Q3OUc2a3hJTE9FT2FxN1lGNUlTbWQ0b1Y4ZVowZUlvbGRROERIeA?oc=5)
 
 ---
 
@@ -86,35 +86,11 @@ permalink: /news/insulin-glulisine/
 
 ---
 
-### [Perché alcune persone ingrassano meno? La risposta è anche nei geni](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
-
-2026-08-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUM2RnFReWhQQVNmVmx6RlZ6SV9zb0tkTjBNR3A2b05aLXVHdFV4VjhjSUhYYnYwLWZ3RTV2QkFfeU1GcUFMRmJQaGNDYzZXU2t3b1poclpLaXVpdWZuTDZ2Y0ZyT05Fdl9JdURXaHhxLUV6d1cwWDdsNkcxemhwcFdBLUl4cVVPQ0NlY1VTejh3eWNWTjhEelFEZ2FhR3pMc3AydUhsd2hZOUZtSUYwR0RyYS1fZHkx?oc=5)
-
----
-
 ### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
 
 2026-08-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
-
----
-
-### [Scientists Find a Surprising Diabetes-Fighting Compound in Turmeric](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkREZk5IRmxSa0FaVlZVbTZqR00zTm0taWVhNVFNNWI3Q0hudUlsQ19YUGdLOHZVRE1pWjJKWG9YMGI5UnM3ZTRZR05wcmtiZ1Z4RVp1Y01IcWJBYmd1TkEzb3dVYzZxZV9yb0pFZGZveGJWQlVaYjlNMUxqYWhraE85aFV1azVva21mc0hqTkh5MzRZY1Z5Mw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkREZk5IRmxSa0FaVlZVbTZqR00zTm0taWVhNVFNNWI3Q0hudUlsQ19YUGdLOHZVRE1pWjJKWG9YMGI5UnM3ZTRZR05wcmtiZ1Z4RVp1Y01IcWJBYmd1TkEzb3dVYzZxZV9yb0pFZGZveGJWQlVaYjlNMUxqYWhraE85aFV1azVva21mc0hqTkh5MzRZY1Z5Mw?oc=5)
-
----
-
-### [Typ-2-Diabetes im Alter: SGLT2-Hemmer senken Sterblichkeit um 32%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXhNeU5jTmRsOFhEby1kblI2MmpTQkVuV0N2YmN2cm1RME1lc1VjWjRfdUJHRDhCVlo0Rm5vMFhSbFB2aFlEODFHdjhGMGYzVEM0X3F3WVcwbGJHMENLTE0yQ0JoeWZPQjRyNDZicTEtd1c1M2VaZHlIa2dTbno1ZFlmVTRXUWdNcW1uTUFRT0ZBcFJzS2RzSW5IVzJlSG9UZEZLSVlEdmlHbnU5Nmx6V2lHMXNWZGh6Z1hZUQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXhNeU5jTmRsOFhEby1kblI2MmpTQkVuV0N2YmN2cm1RME1lc1VjWjRfdUJHRDhCVlo0Rm5vMFhSbFB2aFlEODFHdjhGMGYzVEM0X3F3WVcwbGJHMENLTE0yQ0JoeWZPQjRyNDZicTEtd1c1M2VaZHlIa2dTbno1ZFlmVTRXUWdNcW1uTUFRT0ZBcFJzS2RzSW5IVzJlSG9UZEZLSVlEdmlHbnU5Nmx6V2lHMXNWZGh6Z1hZUQ?oc=5)
 
 ---
 

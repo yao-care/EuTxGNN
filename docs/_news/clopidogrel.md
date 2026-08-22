@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="Clopidogrel 有什麼相關新聞？">
-<strong>Clopidogrel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Clopidogrel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/clopidogrel/
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [UK men with heart disease at higher risk of developing and dying from cancer - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
 
 2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
-
----
-
-### [Compound produced after eating pomegranates targets stiff-heart failure pathway, early tests suggest - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjFlc0tzc2hIaFYyTHBGc210WTVRRFR0WThIUE9CYzJWMHlaX0NDOVdKX2FBR0dfcW1pM05nOEJHQzVLdjZUUXBiQmlWN1V1RGVDOHI0Q0pLTzExYWlsNC1ZdkNSWWNIdkUzSm5sS0pMbDBLQWx0Z1lMU1lFVUlNdVcwdGpCMVUzNHhQWHN3?oc=5)
-
-2026-08-19 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjFlc0tzc2hIaFYyTHBGc210WTVRRFR0WThIUE9CYzJWMHlaX0NDOVdKX2FBR0dfcW1pM05nOEJHQzVLdjZUUXBiQmlWN1V1RGVDOHI0Q0pLTzExYWlsNC1ZdkNSWWNIdkUzSm5sS0pMbDBLQWx0Z1lMU1lFVUlNdVcwdGpCMVUzNHhQWHN3?oc=5)
 
 ---
 
