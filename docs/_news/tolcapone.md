@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Et si la maladie d'Alzheimer était aussi liée à une bactérie présente dans notre bouche ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjFnem95a1BiMUx5aVhkZTJwQ0p2TVBvOEFUXzBwVEs5QzdCMkU1Q0lMbjVMUnNMZ043b0pUOVZHeDY5am1MaVhudFZIQm9IR0g1bzBmNUNQQ3hDbFYyQ2lTMTd5blI3WjljVGFSZUdvQmo3Z0lRSC1XeGs2bWhMbWYzM0NNSkNUTXRpdGw5ajlyRFFRNkhVYmZZaVBpazVqbG1FTEFtblFaTmFDbDZUd21Xd2ViUHo0U21odm9jb2liWUEwcDYzbXdoYXU3SkpIc19iQUtkZTFmS2ZYaTRsNVR3?oc=5)
-
-2026-08-21 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjFnem95a1BiMUx5aVhkZTJwQ0p2TVBvOEFUXzBwVEs5QzdCMkU1Q0lMbjVMUnNMZ043b0pUOVZHeDY5am1MaVhudFZIQm9IR0g1bzBmNUNQQ3hDbFYyQ2lTMTd5blI3WjljVGFSZUdvQmo3Z0lRSC1XeGs2bWhMbWYzM0NNSkNUTXRpdGw5ajlyRFFRNkhVYmZZaVBpazVqbG1FTEFtblFaTmFDbDZUd21Xd2ViUHo0U21odm9jb2liWUEwcDYzbXdoYXU3SkpIc19iQUtkZTFmS2ZYaTRsNVR3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

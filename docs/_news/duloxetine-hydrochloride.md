@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Si on mangeait ce que consomment les Grecs tous les jours, on baisserait de 33% le risque de faire une dépression](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTNvTWdDbmNOSFZIcnVjSWtsSFRCMUhkcERqYnpHSnJ6NXk1a3NvMmlhX2RaMzZaeTU1andiT0NqRVJxN0RYTERfRk1ELTFUZXZFYVllNG5QSzNjcGpyLUtXZlo4cFgtRUtCV1RjWXBSaHg0MlgyR1VITWN5aHFRYzl0alZ6b1dqZi0wNjhLUjVUZnhvT01Mb0hfSS1weE9ndnFuUmRWdUMydDBoR0dZd2ZPZEdmLUQ1X2VEMkN1aUNHbUc1OUdFYk9tNEdfakMy?oc=5)
+
+2026-08-22 <span class="news-indication-tag">dépression</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTNvTWdDbmNOSFZIcnVjSWtsSFRCMUhkcERqYnpHSnJ6NXk1a3NvMmlhX2RaMzZaeTU1andiT0NqRVJxN0RYTERfRk1ELTFUZXZFYVllNG5QSzNjcGpyLUtXZlo4cFgtRUtCV1RjWXBSaHg0MlgyR1VITWN5aHFRYzl0alZ6b1dqZi0wNjhLUjVUZnhvT01Mb0hfSS1weE9ndnFuUmRWdUMydDBoR0dZd2ZPZEdmLUQ1X2VEMkN1aUNHbUc1OUdFYk9tNEdfakMy?oc=5)
+
+---
+
+### [Depressione, nell’ippocampo i nuovi neuroni sembrano fermarsi prima di maturare](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
+
+2026-08-21 <span class="news-indication-tag">depression</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
+
+---
 
 ### [Sebastián La Rosa, doctor: "Varios estudios relacionan los bajos niveles de vitamina D con depresión" - El Confidencial](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3Z1BZWm0xemx6SDlsNFc3dzgxTGVRR2ZfbzlWTC1TM3lqeVJjN0t4ZGpSVnFYOWQ3MVo2bm1XVE10cnJLU2E1azNRQm5zV0ZuSFFKT2ZNa0FDVHhrNkJKby0zZXdNNWd0OHJmSGhRaG5RZ3ZnTGpseTl6OFNEUlVGV2Z5MW9xbkQxMnI1eUs4YTBFSjZ0MHN2NGdJSWtaYlQ3NnlRdnIyTldCbjBfaFJqQ29lSmV2ak94MV9MbUpwb2tCU2FBendKX2RkNjl0ZmpoelJhaw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">depresión</span>
 
 來源：[El Confidencial](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3Z1BZWm0xemx6SDlsNFc3dzgxTGVRR2ZfbzlWTC1TM3lqeVJjN0t4ZGpSVnFYOWQ3MVo2bm1XVE10cnJLU2E1azNRQm5zV0ZuSFFKT2ZNa0FDVHhrNkJKby0zZXdNNWd0OHJmSGhRaG5RZ3ZnTGpseTl6OFNEUlVGV2Z5MW9xbkQxMnI1eUs4YTBFSjZ0MHN2NGdJSWtaYlQ3NnlRdnIyTldCbjBfaFJqQ29lSmV2ak94MV9MbUpwb2tCU2FBendKX2RkNjl0ZmpoelJhaw?oc=5)
-
----
-
-### [Gesundheit: Forscher entdecken möglichen Alzheimer-Treiber im Darm](https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1Y3OXNVNVU1eWQ1N3FKVjl3Ynh3Z3NGNUF5czVONjNLaWdFMTNGbTNZbnA4dkxIQzZINUstQTBSMjdnRmhHeUNZTDVqdnNrQS1La0xyLTZRbnNtZ0hzeGNYWEpjN3haU1Y1UFpSZkZoOEV3VDlYeGVHVnR6TVRjZEhsTWJJd2lxYURFRVB2UTBzeEE3T19PNWV6c0V5VnN1ZWtndnliajBaRlJualIxRk9TbzFwWjNKV3p3STlxYXJXWTNNRzAxbGswVU0?oc=5)
-
-2026-08-21 <span class="news-indication-tag">depression</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1Y3OXNVNVU1eWQ1N3FKVjl3Ynh3Z3NGNUF5czVONjNLaWdFMTNGbTNZbnA4dkxIQzZINUstQTBSMjdnRmhHeUNZTDVqdnNrQS1La0xyLTZRbnNtZ0hzeGNYWEpjN3haU1Y1UFpSZkZoOEV3VDlYeGVHVnR6TVRjZEhsTWJJd2lxYURFRVB2UTBzeEE3T19PNWV6c0V5VnN1ZWtndnliajBaRlJualIxRk9TbzFwWjNKV3p3STlxYXJXWTNNRzAxbGswVU0?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Científicos descubren una molécula que ayuda a la pérdida de grasa sin afectar a la masa muscular - La Vanguardia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1Z4Rng2b3lzZzJlN09kUGZlZjZFVVJkNTdfM2JHLVJzbVhfdUdJSkQyMjhRUEZyYlZFNGxybjFKZ2lHbUpZUXh6LU52RkdvUkpJR3ZBOUVGV3hLZFpxU3NzVmtCREtqWHd1a0UwdTJiTjdmYmVhZ2ZQR2IwMXFacHNVWnJmNHZ6Y0I4VkpvRG5iT0FWQVJZY2hjRDlQQVlPYWwzbmhNY1JTT2dnVVpYMzRXT3pEV19MTWFnOEJuSGgzSU5Cdjhfd1lwUUFncVJTaUhQQ0hRZExKdlBCN1M3U9IB5gFBVV95cUxQZlU3alBIMWU0VGxwNUNKeThjTzVQdnFBbGplanIwTzNGa1RETTdaeFRILTVJcDVPMDN2Zmx5V1JlQmM5Z0U4VHBTaDdBdFQzbWpiZXlRNDZlODNpNnBQYlBvb1NxeXNMbVlTcFY1NElfYVFJYzdTTlo4UGs2bVpkZDhVMEdfQ3VsWkZhV0FhMlE5Y1AzdzdRd0xNb0htRWpLYVMzb3ZUMFZnTGk3blp0RGVUSndESERqa1UwNFFEY3E3X19rZFIxTlZ0VmFTR05EM0VzOFpENHFMeHMtbDYzRFRoX0dZZw?oc=5)
+### [El futuro competidor de Ozempic que promete quemar grasa sin perder músculo - Redacción médica](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUlESjk0cV9Zd0laaVNvb3hiNXllZjhHRUVjdW0tYlowNnFzbUNLYXFiSlItT2FndU1BX09yWklqaFg3T2FMLTR3TmRCOWpXVldYT29YeFFzZGoxN0tmVlo2ZXdQVXJiY25mSFRKeHdKdlNjZHhaVTZMSjNqTUw2LU9IZVVXN05YYjJBdDE2bXp1S1Ywd2dPbFpGV2ZldnJSazFSY19QRkVDYVpOU1RaVFdmcXQ2aERwZWZXNEZ6Mm5IaVVZNWY3S3YzTmg2c1FBUndkN2p0LUbSAd4BQVVfeXFMTmM2dUdCdWkxdTFMTkJXWDNZSVJYa2pFend6SXFJNHhoWFJoT3pLVVZVdU5sYTZzQ0hTWHg3V2hxd0I3LTlwMEItNUJKTDFmTTNtM3NNbHZ6TWZTNGQ4OUJGZUE0Y1UzamhzRktIYkN1VVA4TXV1dVhHb0lSTmhLbktGLUpPVlRPbTBxRUNOZk5ES1VNaTFMd0ZjZlpVVzUxaUo2V2JraWtnWXctTDlkZDNfY01HbXdkanZpNVAyZ1FvTGRsSFA3VWhvakJ0Qy1GSk9wOVA0NWJrY3RwZm5n?oc=5)
 
-2026-08-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-08-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1Z4Rng2b3lzZzJlN09kUGZlZjZFVVJkNTdfM2JHLVJzbVhfdUdJSkQyMjhRUEZyYlZFNGxybjFKZ2lHbUpZUXh6LU52RkdvUkpJR3ZBOUVGV3hLZFpxU3NzVmtCREtqWHd1a0UwdTJiTjdmYmVhZ2ZQR2IwMXFacHNVWnJmNHZ6Y0I4VkpvRG5iT0FWQVJZY2hjRDlQQVlPYWwzbmhNY1JTT2dnVVpYMzRXT3pEV19MTWFnOEJuSGgzSU5Cdjhfd1lwUUFncVJTaUhQQ0hRZExKdlBCN1M3U9IB5gFBVV95cUxQZlU3alBIMWU0VGxwNUNKeThjTzVQdnFBbGplanIwTzNGa1RETTdaeFRILTVJcDVPMDN2Zmx5V1JlQmM5Z0U4VHBTaDdBdFQzbWpiZXlRNDZlODNpNnBQYlBvb1NxeXNMbVlTcFY1NElfYVFJYzdTTlo4UGs2bVpkZDhVMEdfQ3VsWkZhV0FhMlE5Y1AzdzdRd0xNb0htRWpLYVMzb3ZUMFZnTGk3blp0RGVUSndESERqa1UwNFFEY3E3X19rZFIxTlZ0VmFTR05EM0VzOFpENHFMeHMtbDYzRFRoX0dZZw?oc=5)
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUlESjk0cV9Zd0laaVNvb3hiNXllZjhHRUVjdW0tYlowNnFzbUNLYXFiSlItT2FndU1BX09yWklqaFg3T2FMLTR3TmRCOWpXVldYT29YeFFzZGoxN0tmVlo2ZXdQVXJiY25mSFRKeHdKdlNjZHhaVTZMSjNqTUw2LU9IZVVXN05YYjJBdDE2bXp1S1Ywd2dPbFpGV2ZldnJSazFSY19QRkVDYVpOU1RaVFdmcXQ2aERwZWZXNEZ6Mm5IaVVZNWY3S3YzTmg2c1FBUndkN2p0LUbSAd4BQVVfeXFMTmM2dUdCdWkxdTFMTkJXWDNZSVJYa2pFend6SXFJNHhoWFJoT3pLVVZVdU5sYTZzQ0hTWHg3V2hxd0I3LTlwMEItNUJKTDFmTTNtM3NNbHZ6TWZTNGQ4OUJGZUE0Y1UzamhzRktIYkN1VVA4TXV1dVhHb0lSTmhLbktGLUpPVlRPbTBxRUNOZk5ES1VNaTFMd0ZjZlpVVzUxaUo2V2JraWtnWXctTDlkZDNfY01HbXdkanZpNVAyZ1FvTGRsSFA3VWhvakJ0Qy1GSk9wOVA0NWJrY3RwZm5n?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-08-22 <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVlpWWtxV1E1QjRGV3ZOU0Q3eFcyX2pNTE5ZbXNaV1RGUnVFWG1mZnN6NE1jcm4xNGNja1pHUF9FNFpmcFBERTMxM1ZGTTg2eG1mbGhCcGRXMGRTblNlR00wYzBtenNvNlI1SlNzeXlyb09FajB4c3ZIVThDSXEtdy10OWpaaFBybWcwUkRNb1VONHl1QnU1QmRwRWF4VmhUclJIOGpFYi1lYl9lcTdJMnJfWlpxYjRybllsdktkcHRpWU5ReDViMHRraDF0MUotdWs3NkNOcDFmQ29QaW9LNkpNb05UblU2TWQ0ZFdCeXA?oc=5)
-
----
-
-### [Promising new weight loss and diabetes treatment helps burn fat while keeping muscle in preclinical study - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHc1Z0NvZXgzbE5pcDM0Q1pjYThNcW41ZkhoSWFMTkhVWEZCaWcwbmJpZzNEQVRNejZEQVlrRXlTdk1CR3ZYZFdyMi1ybFFMZ1JtSkRodEg4S1NZb3dWMkFBeVVmdlctYWg0MWQySDd3YThnYU9tRlVoRjdXVkc2SjVJS3Y?oc=5)
-
-2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHc1Z0NvZXgzbE5pcDM0Q1pjYThNcW41ZkhoSWFMTkhVWEZCaWcwbmJpZzNEQVRNejZEQVlrRXlTdk1CR3ZYZFdyMi1ybFFMZ1JtSkRodEg4S1NZb3dWMkFBeVVmdlctYWg0MWQySDd3YThnYU9tRlVoRjdXVkc2SjVJS3Y?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-08-21 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxON2M5djB0SFhlZTIzeUZ0TFQ0SE54bHc3RWZOQ1ZoM0xuUlloMWF4N1hldW5zaWhack5JNzNJTFh3NldBSTg0bHUyUF9PRlpTcDRZcU5DNEhrS0tYaVcxZ2RkSWp6VWRaRkFKR3hiclZqTjB1TTFWaEFpTkFJbldjeUhGcDhqYTh0RFBxOU5wUWpxU0YtbkM3alNGc1U3c1l2Njc0aG40Q2xFSUMzNWZIcA?oc=5)
-
----
-
-### [La obesidad deja huellas en el ADN infantil más allá de la propia genética](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjRTNE56TzdLZjFxMzJWNVhvV0l5SEVPUkxyZWxDLVRmaF9mYmxLQ2tCS2FSaFUzYWRETjBwXzhyS2VEY0g3OXpuakY2dmFVR0wxUkJpVEt6c0hZb1RyNlM2Y0lSTUkwYWpSWDMxcy1ZbkJqUDhPaXk1Ti1sb1dIN3RiY29DUXUzU2wzZE1naFgzdGRpWnJHTU5Db1FuREtiY3c?oc=5)
-
-2026-08-20 <span class="news-indication-tag">obesidad</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjRTNE56TzdLZjFxMzJWNVhvV0l5SEVPUkxyZWxDLVRmaF9mYmxLQ2tCS2FSaFUzYWRETjBwXzhyS2VEY0g3OXpuakY2dmFVR0wxUkJpVEt6c0hZb1RyNlM2Y0lSTUkwYWpSWDMxcy1ZbkJqUDhPaXk1Ti1sb1dIN3RiY29DUXUzU2wzZE1naFgzdGRpWnJHTU5Db1FuREtiY3c?oc=5)
 
 ---
 

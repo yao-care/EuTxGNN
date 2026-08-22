@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
+
+### [La República Democrática del Congo recibe la primera remesa de la vacuna Ervebo para intentar frenar la expansión del brote de ébola - La Voz de Galicia](https://news.google.com/rss/articles/CBMilAJBVV95cUxNdExxOFI2eWVxZEI5bnljcHNpY0k3TUM5RHNFVXoyTURVc3JXMHhUTHhsdGtIUFZpNFUybUloMnFXT3Vqb2F6VFI4SGpaeDZudGJwOVFIWUd1V3kxY1IyRkVMZERMNVR2N1ZpQVZuaGx1em5xbUpNT3h4VXp0TVMtaWVXTlpvM1dzdGlPb3BzZ2YyeXVYY0M4ZnpiaHp5NThIVE9nUmJaVEhqSFpRT1ltWmRIa2J4OG9mR2hZM0pHMnlKc1pJRS1BSmRoY2tHWTREYWVhQ0hZRUF1QnpDc2VDS1phb3J3OU1ralMtS3UtMUlEdWpyWHlQSDBUZm5OQVJBejAzREdrQW44M1dMaGk3Q3VWR03SAbACQVVfeXFMTnB0Q1RrME1TS0phSU9EeEs0alFNdGJ4UGtpc2xUd3NRUmpiV3RfbDJXTjNKRC1DYmt1bEx2aHVnZXpXcFhpclduMl9JanREZWNRYU03bTdldDdvR3E0cnpQd2NtbjJJd0xmbzhGMHZkMU95UlFPbU1rb3JVREQxdV9nWWVzLVpxMndjb0JGX0tha3RjMnQ2VDlrTmlUMEpkZnJ3MGoxWFk4Vk90QTNyUS1PVW1tXzBkVUNKTnI2elFINWVOWEVTX2hiN0hoUUg2Y3dFcmRKMWViVFd5NldlZFV5QUJCWGtsVlhkdEkwS2NiZjk4dUszRndIenQxUzlXLWlWUWlndkFZeWRwbEVYYjVYS3RRSlBwUXYxdGw0bjJMblg1bzNRQmFnWHdoY0hOSA?oc=5)
+
+2026-08-22 <span class="news-indication-tag">MS</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMilAJBVV95cUxNdExxOFI2eWVxZEI5bnljcHNpY0k3TUM5RHNFVXoyTURVc3JXMHhUTHhsdGtIUFZpNFUybUloMnFXT3Vqb2F6VFI4SGpaeDZudGJwOVFIWUd1V3kxY1IyRkVMZERMNVR2N1ZpQVZuaGx1em5xbUpNT3h4VXp0TVMtaWVXTlpvM1dzdGlPb3BzZ2YyeXVYY0M4ZnpiaHp5NThIVE9nUmJaVEhqSFpRT1ltWmRIa2J4OG9mR2hZM0pHMnlKc1pJRS1BSmRoY2tHWTREYWVhQ0hZRUF1QnpDc2VDS1phb3J3OU1ralMtS3UtMUlEdWpyWHlQSDBUZm5OQVJBejAzREdrQW44M1dMaGk3Q3VWR03SAbACQVVfeXFMTnB0Q1RrME1TS0phSU9EeEs0alFNdGJ4UGtpc2xUd3NRUmpiV3RfbDJXTjNKRC1DYmt1bEx2aHVnZXpXcFhpclduMl9JanREZWNRYU03bTdldDdvR3E0cnpQd2NtbjJJd0xmbzhGMHZkMU95UlFPbU1rb3JVREQxdV9nWWVzLVpxMndjb0JGX0tha3RjMnQ2VDlrTmlUMEpkZnJ3MGoxWFk4Vk90QTNyUS1PVW1tXzBkVUNKTnI2elFINWVOWEVTX2hiN0hoUUg2Y3dFcmRKMWViVFd5NldlZFV5QUJCWGtsVlhkdEkwS2NiZjk4dUszRndIenQxUzlXLWlWUWlndkFZeWRwbEVYYjVYS3RRSlBwUXYxdGw0bjJMblg1bzNRQmFnWHdoY0hOSA?oc=5)
+
+---
 
 ### [“Per fare sesso ho bisogno del crack”. Dentro l'abisso del chemsex che sta distruggendo i romani](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
 
 2026-08-22 <span class="news-indication-tag">MS</span>
 
 來源：[romatoday.it](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
+
+---
+
+### [De ser incapaz de caminar 100 metros a moverse con total libertad: la historia de Jonathan y su esclerosis múltiple - La Voz de Asturias](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV1pURDctN01IUnRmZFY1N2xRM28zMWJ4X3VSTWNjXzlqUG54Z2JuOTFha0pzRl8wSEZEZ2Z4ZnNkb3E1MExVWE83eXVEOHBJYmRrVjVfOXBKV18zTmlMMkNiczltMFNDNEhGel94SFhhUm9JZHNCcWxUZmJMY1VIakp3bUdVQ2Zha2FMaUJENGRDZW1UbGkzaThyUG5oNmhYbzBxU21hd1VBWV8tUUx2cEpWWmh0cGZwd2lhODl4NjFrdEJMTWo3eF9MSEF3QnJ4Uzl0THBTcmFDaHlGRnNhT05GT25rRG1RQlRWV3p2YXR3TG9aSHc?oc=5)
+
+2026-08-22 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV1pURDctN01IUnRmZFY1N2xRM28zMWJ4X3VSTWNjXzlqUG54Z2JuOTFha0pzRl8wSEZEZ2Z4ZnNkb3E1MExVWE83eXVEOHBJYmRrVjVfOXBKV18zTmlMMkNiczltMFNDNEhGel94SFhhUm9JZHNCcWxUZmJMY1VIakp3bUdVQ2Zha2FMaUJENGRDZW1UbGkzaThyUG5oNmhYbzBxU21hd1VBWV8tUUx2cEpWWmh0cGZwd2lhODl4NjFrdEJMTWo3eF9MSEF3QnJ4Uzl0THBTcmFDaHlGRnNhT05GT25rRG1RQlRWV3p2YXR3TG9aSHc?oc=5)
 
 ---
 
@@ -75,6 +91,22 @@ permalink: /news/pibrentasvir/
 2026-08-21 <span class="news-indication-tag">MS</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEFiNmxKS19oUTIweVdGb2lIcnFDYkRxSHpPanJRaUNkSGhEN0RQT0tKZWNIZmpoTnBnVHV5bjhnRWFSdHdnSzAxSjNaTHJBN2hnRkVlR19UTGdzM2ZOZkd6Wl9JTjRlUERTNk5UeVhrLThzbHlaQlNNVEJjdE5EMGs4MldvYWtCTkZRVnZHbVVMNmJfaGRJTVRSVFFZODZwNWx0N3UtdzBXUU8xZk93Q0wwVjIwYlR1Q1hDLVA2djN1ZGxZZWFkcl9FWms5bHlR?oc=5)
+
+---
+
+### [La OMS prepara 70.000 vacunas para combatir el ébola en el Congo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0xSLXpIUGRieTZmQ3dTanhjUjc5STZsUFJyVl9fWXhsRFlMY0FpNjlLeVIzUzFmQUhHNnZOUS1Od1FfY0VYOW5DQmdxS180LW1BRDlEbzAyZ0NYdExIa05pUWNEQUx4N1dhVlF6U0R2X1hCdVpJT1BzWlRpM0NXVnVOak9SeHYxbWRfUU1ZbnNHUHB2eVZZUzV6MVBZd0kwYXNXVNIBqgFBVV95cUxNU1JiRkVzLUk5X3k5VFdpNjZwWHR0cjBRdnd2TmVtemZVdm4xbEx4MGZUQU1MTEFrZHNXRjRJT2plN05RX1hFNnJDay1Wal95LVVOVkJTWTU2bkk3OTl6NlNnQ0ZHVUcyTDVvc01lWUQzblluQy1zTEdJN3BvQ09uanlQX1FPVnBsYkNGX0Y5dkxQVVJFR1RQM2ZjWDFrLVBKNHNZMU53SnhpZw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">MS</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0xSLXpIUGRieTZmQ3dTanhjUjc5STZsUFJyVl9fWXhsRFlMY0FpNjlLeVIzUzFmQUhHNnZOUS1Od1FfY0VYOW5DQmdxS180LW1BRDlEbzAyZ0NYdExIa05pUWNEQUx4N1dhVlF6U0R2X1hCdVpJT1BzWlRpM0NXVnVOak9SeHYxbWRfUU1ZbnNHUHB2eVZZUzV6MVBZd0kwYXNXVNIBqgFBVV95cUxNU1JiRkVzLUk5X3k5VFdpNjZwWHR0cjBRdnd2TmVtemZVdm4xbEx4MGZUQU1MTEFrZHNXRjRJT2plN05RX1hFNnJDay1Wal95LVVOVkJTWTU2bkk3OTl6NlNnQ0ZHVUcyTDVvc01lWUQzblluQy1zTEdJN3BvQ09uanlQX1FPVnBsYkNGX0Y5dkxQVVJFR1RQM2ZjWDFrLVBKNHNZMU53SnhpZw?oc=5)
+
+---
+
+### [Menopause can lead to suicidal thoughts — my mum took her own life - The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
+
+2026-08-21 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
 
 ---
 
@@ -123,46 +155,6 @@ permalink: /news/pibrentasvir/
 2026-08-21 <span class="news-indication-tag">MS</span>
 
 來源：[Netzwelt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5)
-
----
-
-### [«West Nile ormai presente in Italia, bisogna prepararsi»: il virus si diffonde sempre di più, in Europa 429 casi](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0llTFNWWmU2c3dRWGZ4MnBWbjVEd3dIX3dCT2VLcDNSbTJVSXBZel9zcVVGXzFKRzQ1dTNkbWdoSG9OODNvREc4YVVBVkhsRG92di1KeWsta2thVUp3MWx1a3VGdGNKOG5tU1NrdDY3U1M4V094WENQX1VVLWZCQ2hzcWlDZHBnREh6LU1nLVVsQkt3VWFKanRaazRVWEgtcjZNV1R6SmFINmp4QlJoTThtYW1WVWdR0gGqAUFVX3lxTFBXTHFIb1lfWkF5NU1uTXBYUXJWcWtDV3otcmtsVXpYbUhwRHIyVnpDS3Q5eXRUXzFsUXhsck5mUkJ5cVpOREJ1aWdXZFRvbFk3ZDVhcTBfZDFIQ2VZZmRCckRxdV9UTU0wc2hKeU5aX2E2bEt2VHRGaUhrYWpSUV9aSnBrQXRUVmhpMlNnS0FMeFh5cklsVHJHVk50YXVkYzM4c01Ndy1DV0pR?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0llTFNWWmU2c3dRWGZ4MnBWbjVEd3dIX3dCT2VLcDNSbTJVSXBZel9zcVVGXzFKRzQ1dTNkbWdoSG9OODNvREc4YVVBVkhsRG92di1KeWsta2thVUp3MWx1a3VGdGNKOG5tU1NrdDY3U1M4V094WENQX1VVLWZCQ2hzcWlDZHBnREh6LU1nLVVsQkt3VWFKanRaazRVWEgtcjZNV1R6SmFINmp4QlJoTThtYW1WVWdR0gGqAUFVX3lxTFBXTHFIb1lfWkF5NU1uTXBYUXJWcWtDV3otcmtsVXpYbUhwRHIyVnpDS3Q5eXRUXzFsUXhsck5mUkJ5cVpOREJ1aWdXZFRvbFk3ZDVhcTBfZDFIQ2VZZmRCckRxdV9UTU0wc2hKeU5aX2E2bEt2VHRGaUhrYWpSUV9aSnBrQXRUVmhpMlNnS0FMeFh5cklsVHJHVk50YXVkYzM4c01Ndy1DV0pR?oc=5)
-
----
-
-### [Agencia de salud pública de la Unión Africana: El brote de ébola en RDC podría ser tres veces mayor al número de casos confirmados - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtZDJ0a0VCWFhVQlQ0SnBUNGZDSDVjN0YzX1Q0aTBYTnA1RWtzTjRrNE1lZGRyN3NJWFhuN1Yza2FYbGVYdnlJT3N6WlJ0NlF3Qjl3?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtZDJ0a0VCWFhVQlQ0SnBUNGZDSDVjN0YzX1Q0aTBYTnA1RWtzTjRrNE1lZGRyN3NJWFhuN1Yza2FYbGVYdnlJT3N6WlJ0NlF3Qjl3?oc=5)
-
----
-
-### [Psychology says people who are genuinely content in their 70s aren't the ones who avoided hardship, they're the ones who stopped waiting for life to feel finished before they allowed themselves to enjoy it - Silicon Canals](https://news.google.com/rss/articles/CBMiygJBVV95cUxNSERjTjFWU0w4b2t0Mkp3aFAzNmZQcXlQZl9QSVQwUFhtLTkxZlROTUxPVlotdE93UFBWcWh6WWZIVi1VeHV1T1N1NXA3d1NsUjk3c0NIbUdFdk5tYUhGaG5rR1JMMHZhV3l6eUtlZEgzR2xyZzYxQ0x3TUFlTkhpeU9ZaWlObEhvWGtibGkwbXExOXZmZTZaMERLU25jVEM5U3Nfb21EQV8wVXVTZnBOQ3h5NFktV0hzOEEyZ196YTAyTmtNOFR6YV9BdVM3TDV2eVo3S3NYX3VtUkdkYmVaUU5HTF9KUnNjVlBsWEx6b2tnSE01Z1lzUUF3TlZKTVZ5WmJ1SjhCNHdoZ2xGc3pGV0laVUxOb1NmSS1uZ19BbXZveUpFU0I1WFpvYnJlRWpqZU93R3NTaUhXZTRVNjBzZjlPYkdTUGZhZ0E?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span>
-
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiygJBVV95cUxNSERjTjFWU0w4b2t0Mkp3aFAzNmZQcXlQZl9QSVQwUFhtLTkxZlROTUxPVlotdE93UFBWcWh6WWZIVi1VeHV1T1N1NXA3d1NsUjk3c0NIbUdFdk5tYUhGaG5rR1JMMHZhV3l6eUtlZEgzR2xyZzYxQ0x3TUFlTkhpeU9ZaWlObEhvWGtibGkwbXExOXZmZTZaMERLU25jVEM5U3Nfb21EQV8wVXVTZnBOQ3h5NFktV0hzOEEyZ196YTAyTmtNOFR6YV9BdVM3TDV2eVo3S3NYX3VtUkdkYmVaUU5HTF9KUnNjVlBsWEx6b2tnSE01Z1lzUUF3TlZKTVZ5WmJ1SjhCNHdoZ2xGc3pGV0laVUxOb1NmSS1uZ19BbXZveUpFU0I1WFpvYnJlRWpqZU93R3NTaUhXZTRVNjBzZjlPYkdTUGZhZ0E?oc=5)
-
----
-
-### [Bessere Versorgung bei MS und Epilepsie: kbo-Inn-Salzach-Klinikum und RoMed kooperieren - Radio Charivari Rosenheim](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGNUanlZcW1pYXdGdHJUMkxRcFJDTHZCak1wbTcwNlIzczY5LVlMTXhVTVRqaXlaNUVmVTNEXzF4WkRGQlBMa0NUQzVEX0F4QVRQeFRoNVRVWGpRa3JIV2tLMGRYLTdlT2U5emUzOHFKT1kwSG4tWmxKcW92YXVxTU5XaXQ2Z0dQMjBma21HV0pESnRTcXZKc21jaWZSSjNjSlgxMFB4ZUdyOFpkSWlqZHdqTDlIWVNpVUtCMU5Lc3JfeHZnSnNzU0ktLVZfakYxZUJOajNJWVA1elFPNUlHei01Yl9qY3plLXc?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Epilepsie</span>
-
-來源：[Radio Charivari Rosenheim](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGNUanlZcW1pYXdGdHJUMkxRcFJDTHZCak1wbTcwNlIzczY5LVlMTXhVTVRqaXlaNUVmVTNEXzF4WkRGQlBMa0NUQzVEX0F4QVRQeFRoNVRVWGpRa3JIV2tLMGRYLTdlT2U5emUzOHFKT1kwSG4tWmxKcW92YXVxTU5XaXQ2Z0dQMjBma21HV0pESnRTcXZKc21jaWZSSjNjSlgxMFB4ZUdyOFpkSWlqZHdqTDlIWVNpVUtCMU5Lc3JfeHZnSnNzU0ktLVZfakYxZUJOajNJWVA1elFPNUlHei01Yl9qY3plLXc?oc=5)
-
----
-
-### [21.5 Million More Americans Now Qualify for Statins. Are You One of Them?](https://news.google.com/rss/articles/CBMie0FVX3lxTE1RdWxsQkNhZXFmcjhreVIxbGMxOWEwOFo4UjVuaWxDUmRrYXJ1N0RnQzR2aElvN2xhV05naTdYMll5czhPTWR4NXNPUUNwN3RiU19CbWh5TGp3YVluS3JwblpjbjZsOEtjMndwRHhEbG55eERyUnU4MU1QNA?oc=5)
-
-2026-08-13 <span class="news-indication-tag">MS</span>
-
-來源：[AOL.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE1RdWxsQkNhZXFmcjhreVIxbGMxOWEwOFo4UjVuaWxDUmRrYXJ1N0RnQzR2aElvN2xhV05naTdYMll5czhPTWR4NXNPUUNwN3RiU19CbWh5TGp3YVluS3JwblpjbjZsOEtjMndwRHhEbG55eERyUnU4MU1QNA?oc=5)
 
 ---
 
