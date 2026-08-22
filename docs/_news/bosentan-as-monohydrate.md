@@ -14,7 +14,7 @@ permalink: /news/bosentan-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="Bosentan (As Monohydrate) 有什麼相關新聞？">
-<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/bosentan-as-monohydrate/
 <p><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
+### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFVCMElZZVZESVFCd3JmT3RXbEFQaUlZelhCNUhEekVneGNYNnFKUW16NmpYSnFUWDhSVTJHNmVxblQyQUIyU0NoQWdzbl9zTzM1YURFSllYUG1aQ1hsX0JlMFozdEtTWVNobUhmRDEzRlRsWjZYQXZIWEMySmxCcFl6TVoxWHJIZzd2RjlzYUpJQ3FhbDAtMWRGTXVxdXRuZmpDZ3UzdFN1RmFj?oc=5)
 
 2026-08-21 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFVCMElZZVZESVFCd3JmT3RXbEFQaUlZelhCNUhEekVneGNYNnFKUW16NmpYSnFUWDhSVTJHNmVxblQyQUIyU0NoQWdzbl9zTzM1YURFSllYUG1aQ1hsX0JlMFozdEtTWVNobUhmRDEzRlRsWjZYQXZIWEMySmxCcFl6TVoxWHJIZzd2RjlzYUpJQ3FhbDAtMWRGTXVxdXRuZmpDZ3UzdFN1RmFj?oc=5)
 
 ---
 
@@ -75,22 +75,6 @@ permalink: /news/bosentan-as-monohydrate/
 2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV29KQ1ZwZnRTejZfRC12VTVvQXVhZXJiZ1RCQzFQRzUtbWhQem1Cc3NBbFRaTnU0YXpEbG5WOTQ1N0I2aGRQQ1M1VC1aeTlBZUJEaGVCRktzMXF5dUlOVnprdHVnN1VNdFJoM043dGR4X3lRbHlpMHhBTFlMNDJUZzJnVXFJMDRERWhWcnZpTUc?oc=5)
-
----
-
-### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
-
-2026-08-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
-
----
-
-### [Bluthochdruck: Auf diese zwei Nährstoffe kommt es laut Experten an - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
 
 ---
 

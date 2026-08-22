@@ -54,11 +54,11 @@ permalink: /news/tolcapone/
 
 ## 相關新聞（1 則）
 
-### [How smart tech could let dementia patients live at home for longer - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWY4YlFwcUVVRnMzZGtUekREWVE4NjRDWUpuUEtwMThENG5vdDg1Vi15Rks4QzhWSVhQNE9zUVNfLUxxUXQ1ZG1fcHFDdWowRU5OUUVoeVlBQkJfbk51dlZxS0pwNi1QYXBWVXZUM3l2MUtTbE5DZGUtVEl4Y21fRW1lX1pvSG5pTGp3emhDRHo0ZzZnN0psR25FZw?oc=5)
+### [Et si la maladie d'Alzheimer était aussi liée à une bactérie présente dans notre bouche ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjFnem95a1BiMUx5aVhkZTJwQ0p2TVBvOEFUXzBwVEs5QzdCMkU1Q0lMbjVMUnNMZ043b0pUOVZHeDY5am1MaVhudFZIQm9IR0g1bzBmNUNQQ3hDbFYyQ2lTMTd5blI3WjljVGFSZUdvQmo3Z0lRSC1XeGs2bWhMbWYzM0NNSkNUTXRpdGw5ajlyRFFRNkhVYmZZaVBpazVqbG1FTEFtblFaTmFDbDZUd21Xd2ViUHo0U21odm9jb2liWUEwcDYzbXdoYXU3SkpIc19iQUtkZTFmS2ZYaTRsNVR3?oc=5)
 
-2026-08-21 <span class="news-indication-tag">dementia</span>
+2026-08-21 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWY4YlFwcUVVRnMzZGtUekREWVE4NjRDWUpuUEtwMThENG5vdDg1Vi15Rks4QzhWSVhQNE9zUVNfLUxxUXQ1ZG1fcHFDdWowRU5OUUVoeVlBQkJfbk51dlZxS0pwNi1QYXBWVXZUM3l2MUtTbE5DZGUtVEl4Y21fRW1lX1pvSG5pTGp3emhDRHo0ZzZnN0psR25FZw?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjFnem95a1BiMUx5aVhkZTJwQ0p2TVBvOEFUXzBwVEs5QzdCMkU1Q0lMbjVMUnNMZ043b0pUOVZHeDY5am1MaVhudFZIQm9IR0g1bzBmNUNQQ3hDbFYyQ2lTMTd5blI3WjljVGFSZUdvQmo3Z0lRSC1XeGs2bWhMbWYzM0NNSkNUTXRpdGw5ajlyRFFRNkhVYmZZaVBpazVqbG1FTEFtblFaTmFDbDZUd21Xd2ViUHo0U21odm9jb2liWUEwcDYzbXdoYXU3SkpIc19iQUtkZTFmS2ZYaTRsNVR3?oc=5)
 
 ---
 

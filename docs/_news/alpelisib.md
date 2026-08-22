@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="Alpelisib 有什麼相關新聞？">
-<strong>Alpelisib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alpelisib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/alpelisib/
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
+### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFVCMElZZVZESVFCd3JmT3RXbEFQaUlZelhCNUhEekVneGNYNnFKUW16NmpYSnFUWDhSVTJHNmVxblQyQUIyU0NoQWdzbl9zTzM1YURFSllYUG1aQ1hsX0JlMFozdEtTWVNobUhmRDEzRlRsWjZYQXZIWEMySmxCcFl6TVoxWHJIZzd2RjlzYUpJQ3FhbDAtMWRGTXVxdXRuZmpDZ3UzdFN1RmFj?oc=5)
 
 2026-08-21 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWms4MVBxTE5BQWxkZVU2OGFiSGJPMUxuM2FHSVR4cFRlZ3lBS1JTR2g1a2xjYzBuNzcyUG5fSlVrOERyN2RaRFJNc2pPZkdjcDFfYURaU1VjX2l0ZGdrazRwWTk3Q2Z3elU0LVU4bl96elpTdl8wMHduWXNuaEpBRWQ3eTBhLUxDY0RVbGQ0dXdkQi15T0lMUzNZS1NpbGMwVDFyTHlIWDV1MzNsSzBnb3BScjBYMkl6Y2VMbmJyeXRkMTVmaTZCU1V4eEU0R2NRMG5WTEdKeGgxay1uMHBVYWNnSlY?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFVCMElZZVZESVFCd3JmT3RXbEFQaUlZelhCNUhEekVneGNYNnFKUW16NmpYSnFUWDhSVTJHNmVxblQyQUIyU0NoQWdzbl9zTzM1YURFSllYUG1aQ1hsX0JlMFozdEtTWVNobUhmRDEzRlRsWjZYQXZIWEMySmxCcFl6TVoxWHJIZzd2RjlzYUpJQ3FhbDAtMWRGTXVxdXRuZmpDZ3UzdFN1RmFj?oc=5)
 
 ---
 
@@ -83,22 +83,6 @@ permalink: /news/alpelisib/
 2026-08-20 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEpaTXVDUlpfMWpwclF5WlhXRENOQTk5a0VxeWhWQUl2WXplR1lOaHQtZzl6dnZxdVh5d2QzSlBOSGJ3NnI1VV9aWU42eDV3WkFvQjJPNFdaNEJFakRURjM0OWZ5QVlRUnN2cS1hVWdIWnQtcWFfWUtjdXV2X21kRjczdUhZejJEcERoeWtFaFl6QUszZUpyQ3B1d1pkVTFEVlZZbzhXWUxVc2l4SHNHaHlkZVVpYjBwRGNHZXJRVQ?oc=5)
-
----
-
-### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
-
-2026-08-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
-
----
-
-### [Bluthochdruck: Auf diese zwei Nährstoffe kommt es laut Experten an - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxObEplVk04ZDBPVlVlaU42cXE4Z1hsNkN2aTJnbU1KdDAtUWNUa3hHdHhKeVVBVGRMbFFZRXZYeDhXaE5tMnMxdXp3UEo5ak1obzdWWDM2SDktbEJqcV9PazJMOUI0WnpWU3h2amp4ZXF6MGxHRHZ4N3pJY1pURk8xa3FLWG11SktTeDVSdFRla0xHek4xVlNiZXZuOXVEYl9SQXFiM1NYYm9hRU8taWd0YVBxaw?oc=5)
 
 ---
 

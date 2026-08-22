@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [New ibuprofen warning as painkiller linked to hormone changes](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUVVzRldDdEVmMnh5cFhTc1VxWklzVUd3NUppTlNwQ05ZX1BhWmwzeHlqWDhzWHZTT0tSbXhsZTVqV0szTTk5R1JqYkU5cDVMZHh5aVpjOWMxeC05NUNZV1Q3bVM2cF9HR1ZMQlNEZklNeGtFdVR6NG9RWi10ZUh1R3lrekZrWEI1QmpBalk2WVVqRmM?oc=5)
 
 2026-08-21 <span class="news-drug-tag">Ibuprofen</span>
 
 來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUVVzRldDdEVmMnh5cFhTc1VxWklzVUd3NUppTlNwQ05ZX1BhWmwzeHlqWDhzWHZTT0tSbXhsZTVqV0szTTk5R1JqYkU5cDVMZHh5aVpjOWMxeC05NUNZV1Q3bVM2cF9HR1ZMQlNEZklNeGtFdVR6NG9RWi10ZUh1R3lrekZrWEI1QmpBalk2WVVqRmM?oc=5)
-
----
-
-### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
-
-2026-08-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 
 ---
 

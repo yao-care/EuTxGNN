@@ -14,7 +14,7 @@ permalink: /news/saxagliptin/
 ---
 
 <p class="key-answer" data-question="Saxagliptin 有什麼相關新聞？">
-<strong>Saxagliptin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Saxagliptin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/saxagliptin/
 <p><a href="{{ '/drugs/saxagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Científicos descubren una molécula que ayuda a la pérdida de grasa sin afectar a la masa muscular - La Vanguardia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1Z4Rng2b3lzZzJlN09kUGZlZjZFVVJkNTdfM2JHLVJzbVhfdUdJSkQyMjhRUEZyYlZFNGxybjFKZ2lHbUpZUXh6LU52RkdvUkpJR3ZBOUVGV3hLZFpxU3NzVmtCREtqWHd1a0UwdTJiTjdmYmVhZ2ZQR2IwMXFacHNVWnJmNHZ6Y0I4VkpvRG5iT0FWQVJZY2hjRDlQQVlPYWwzbmhNY1JTT2dnVVpYMzRXT3pEV19MTWFnOEJuSGgzSU5Cdjhfd1lwUUFncVJTaUhQQ0hRZExKdlBCN1M3U9IB5gFBVV95cUxQZlU3alBIMWU0VGxwNUNKeThjTzVQdnFBbGplanIwTzNGa1RETTdaeFRILTVJcDVPMDN2Zmx5V1JlQmM5Z0U4VHBTaDdBdFQzbWpiZXlRNDZlODNpNnBQYlBvb1NxeXNMbVlTcFY1NElfYVFJYzdTTlo4UGs2bVpkZDhVMEdfQ3VsWkZhV0FhMlE5Y1AzdzdRd0xNb0htRWpLYVMzb3ZUMFZnTGk3blp0RGVUSndESERqa1UwNFFEY3E3X19rZFIxTlZ0VmFTR05EM0VzOFpENHFMeHMtbDYzRFRoX0dZZw?oc=5)
+
+2026-08-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1Z4Rng2b3lzZzJlN09kUGZlZjZFVVJkNTdfM2JHLVJzbVhfdUdJSkQyMjhRUEZyYlZFNGxybjFKZ2lHbUpZUXh6LU52RkdvUkpJR3ZBOUVGV3hLZFpxU3NzVmtCREtqWHd1a0UwdTJiTjdmYmVhZ2ZQR2IwMXFacHNVWnJmNHZ6Y0I4VkpvRG5iT0FWQVJZY2hjRDlQQVlPYWwzbmhNY1JTT2dnVVpYMzRXT3pEV19MTWFnOEJuSGgzSU5Cdjhfd1lwUUFncVJTaUhQQ0hRZExKdlBCN1M3U9IB5gFBVV95cUxQZlU3alBIMWU0VGxwNUNKeThjTzVQdnFBbGplanIwTzNGa1RETTdaeFRILTVJcDVPMDN2Zmx5V1JlQmM5Z0U4VHBTaDdBdFQzbWpiZXlRNDZlODNpNnBQYlBvb1NxeXNMbVlTcFY1NElfYVFJYzdTTlo4UGs2bVpkZDhVMEdfQ3VsWkZhV0FhMlE5Y1AzdzdRd0xNb0htRWpLYVMzb3ZUMFZnTGk3blp0RGVUSndESERqa1UwNFFEY3E3X19rZFIxTlZ0VmFTR05EM0VzOFpENHFMeHMtbDYzRFRoX0dZZw?oc=5)
+
+---
+
+### [Promising new weight loss and diabetes treatment helps burn fat while keeping muscle in preclinical study - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHc1Z0NvZXgzbE5pcDM0Q1pjYThNcW41ZkhoSWFMTkhVWEZCaWcwbmJpZzNEQVRNejZEQVlrRXlTdk1CR3ZYZFdyMi1ybFFMZ1JtSkRodEg4S1NZb3dWMkFBeVVmdlctYWg0MWQySDd3YThnYU9tRlVoRjdXVkc2SjVJS3Y?oc=5)
+
+2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHc1Z0NvZXgzbE5pcDM0Q1pjYThNcW41ZkhoSWFMTkhVWEZCaWcwbmJpZzNEQVRNejZEQVlrRXlTdk1CR3ZYZFdyMi1ybFFMZ1JtSkRodEg4S1NZb3dWMkFBeVVmdlctYWg0MWQySDd3YThnYU9tRlVoRjdXVkc2SjVJS3Y?oc=5)
+
+---
 
 ### [Farmaci per il diabete usati per dimagrire, è boom in Italia: quali sono i rischi. Intervista al farmacologo Garattini](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
 
@@ -70,35 +86,11 @@ permalink: /news/saxagliptin/
 
 ---
 
-### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
-
-2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
-
----
-
-### [Diabetes und Kinderwunsch: Hormontherapie im Check](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0o3WG90djdidkhXdUc0YkpUYzNzU0txRTBtdlhlNlphVmQwSUpOTl9OVUFRbTZrNTFUS3FVS3UtaWRaLXRyX3pic1RfS1VBWnlnTm8zWWp4YkdhWjZvaFJSSE55N0VMY0R6aDBVWkd3Rm95cUF6RVBXMEVEMkhXcGR2S0RPV0xLNkMtMWtvN0VQYW9KOW5rcVNwb2ZHR0tSMi1mdGN1bVJYSXF1dXBqT0ZnYV9SQQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0o3WG90djdidkhXdUc0YkpUYzNzU0txRTBtdlhlNlphVmQwSUpOTl9OVUFRbTZrNTFUS3FVS3UtaWRaLXRyX3pic1RfS1VBWnlnTm8zWWp4YkdhWjZvaFJSSE55N0VMY0R6aDBVWkd3Rm95cUF6RVBXMEVEMkhXcGR2S0RPV0xLNkMtMWtvN0VQYW9KOW5rcVNwb2ZHR0tSMi1mdGN1bVJYSXF1dXBqT0ZnYV9SQQ?oc=5)
-
----
-
-### [Fat jabs drive NHS to spend twice as much treating diabetes - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2FwczFzRzFRbDY2aENDWEZQbXJCVjhnV1lRclN3aWQzTEpYODNaMHE2STUtbFhMRFF6emVJWk5Ld1gyY0FqYU9SOWpCbWJvWkdaU2N6dU5GUS1sNXZaRThza1kyWUxpWEVxVmhZNzh0M0NhcW4tbldMOVR3cWx5MHMyV3VrWDVFVERFZDdXcGtVZnpqdmtBeUJzRjdDaWNjak9LRFRwcw?oc=5)
+### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2 - El Pespunte](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQkRXMV9wd1JrbmNoSjE5WEl3Y2g4X1NIMGJNZEQ1VG1vVFBaeVhpenhWNnVONDlBTHVMMHhxTVhxM3JJLWpTUjRkbjVaR3AyQUo0RDlxdUxsMXc0NUJ5Z1lpZkp5bDR0MTlNVnR2eS1URHRzVGdwM1pWcXRXdERqak01b01FY2EtVjloSi1OZ0xTUnNIeTlad0hybFFBaTZqR2NLd2ZWMVUtTHJneGxkUHpVWmtrZUN1N0ROQ1MyTlJTSWtYYzQtajJZY1hUSXRtaVlRTWZMdjhHdnRuRUp3?oc=5)
 
 2026-08-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2FwczFzRzFRbDY2aENDWEZQbXJCVjhnV1lRclN3aWQzTEpYODNaMHE2STUtbFhMRFF6emVJWk5Ld1gyY0FqYU9SOWpCbWJvWkdaU2N6dU5GUS1sNXZaRThza1kyWUxpWEVxVmhZNzh0M0NhcW4tbldMOVR3cWx5MHMyV3VrWDVFVERFZDdXcGtVZnpqdmtBeUJzRjdDaWNjak9LRFRwcw?oc=5)
-
----
-
-### [La monitorización continua de glucosa reduce un 65% las hospitalizaciones por diabetes tipo 2](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
-
-2026-08-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBPSUpiR3p5Y1pIYWVGN2JnNlpOS0hBWUVzdDBwOEFoZ2Vma3czaTY0QlpqWEhwRzZzQnVFUHdReDRPYk9lSXFuYmpPWjRNX3RKVVFKOGxYVzZoUjZacG4wT25pSmYyRldZLWxwQmlmQzk4d0plZkNfcmtDSC14b3pXaWphM2hjckZZMDFFbV8yUTRITF9CeUJHT0taOTdEYlg1dGh6OHhVMFJEQ0tZUlgwWTJkdFpiaEhzZkZhSkxxSjJ4R3hCbUlreXVEMV8wVXAwSw?oc=5)
+來源：[El Pespunte](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQkRXMV9wd1JrbmNoSjE5WEl3Y2g4X1NIMGJNZEQ1VG1vVFBaeVhpenhWNnVONDlBTHVMMHhxTVhxM3JJLWpTUjRkbjVaR3AyQUo0RDlxdUxsMXc0NUJ5Z1lpZkp5bDR0MTlNVnR2eS1URHRzVGdwM1pWcXRXdERqak01b01FY2EtVjloSi1OZ0xTUnNIeTlad0hybFFBaTZqR2NLd2ZWMVUtTHJneGxkUHpVWmtrZUN1N0ROQ1MyTlJTSWtYYzQtajJZY1hUSXRtaVlRTWZMdjhHdnRuRUp3?oc=5)
 
 ---
 

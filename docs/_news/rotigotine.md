@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（14 則）
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+### [“Per fare sesso ho bisogno del crack”. Dentro l'abisso del chemsex che sta distruggendo i romani](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
 
-2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+2026-08-22 <span class="news-indication-tag">MS</span>
 
-來源：[Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+來源：[romatoday.it](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
 
 ---
 
-### [Qu'est-ce que le virus du Nil occidental, qui se répand dans toute l'Europe et en France ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTm5LMzlfLUppbzNPUlZKUlF0NDhseDRyZW1sODFiWWRCTGU4ZWI3ZTgtZjJjLU9ka2QtTDU3VEpleXc3djBuS0MzcDNsZ1g0MFk0T09Td0hQRXYwMTNLQUx0ajI1Tl9xNzRVWDI0ODRqdlZIWTBxcUM3T1UtNk9ybW1ycnR5M0dWREwzT01ocGR4eEo1Qi1kSTRoYWgxYnpMNnNVbUdQSWQxOVZucVZrVTdXN3pkS2fSAbwBQVVfeXFMT0VJazAxLUF5ZzdDU01MNlVTRWViUmFZU3RxT2lKQkdtaENTeF9uTER3MFdRVU5fdkU1alFfZVY3YlBUdXl4U0ZTSkRlWHV4X3o1TUxRSWxOaFJ1SEpXU1BWNVZxMlJET2ZoUWNKSndZYjU3eTZOc1RmbVA4b29wNXhJTGpvM21Ia2YyR1FkR3BnNXV3MHBwSktocXRwaDBBaUk2NDMzX2prVWU4UnhpUDZCbkFWdFZEc090Ujk?oc=5)
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
 
-2026-08-21 <span class="news-indication-tag">MS</span>
+2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTm5LMzlfLUppbzNPUlZKUlF0NDhseDRyZW1sODFiWWRCTGU4ZWI3ZTgtZjJjLU9ka2QtTDU3VEpleXc3djBuS0MzcDNsZ1g0MFk0T09Td0hQRXYwMTNLQUx0ajI1Tl9xNzRVWDI0ODRqdlZIWTBxcUM3T1UtNk9ybW1ycnR5M0dWREwzT01ocGR4eEo1Qi1kSTRoYWgxYnpMNnNVbUdQSWQxOVZucVZrVTdXN3pkS2fSAbwBQVVfeXFMT0VJazAxLUF5ZzdDU01MNlVTRWViUmFZU3RxT2lKQkdtaENTeF9uTER3MFdRVU5fdkU1alFfZVY3YlBUdXl4U0ZTSkRlWHV4X3o1TUxRSWxOaFJ1SEpXU1BWNVZxMlJET2ZoUWNKSndZYjU3eTZOc1RmbVA4b29wNXhJTGpvM21Ia2YyR1FkR3BnNXV3MHBwSktocXRwaDBBaUk2NDMzX2prVWU4UnhpUDZCbkFWdFZEc090Ujk?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [La OMS prepara 70.000 vacunas para combatir el ébola en el Congo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0xSLXpIUGRieTZmQ3dTanhjUjc5STZsUFJyVl9fWXhsRFlMY0FpNjlLeVIzUzFmQUhHNnZOUS1Od1FfY0VYOW5DQmdxS180LW1BRDlEbzAyZ0NYdExIa05pUWNEQUx4N1dhVlF6U0R2X1hCdVpJT1BzWlRpM0NXVnVOak9SeHYxbWRfUU1ZbnNHUHB2eVZZUzV6MVBZd0kwYXNXVNIBqgFBVV95cUxNU1JiRkVzLUk5X3k5VFdpNjZwWHR0cjBRdnd2TmVtemZVdm4xbEx4MGZUQU1MTEFrZHNXRjRJT2plN05RX1hFNnJDay1Wal95LVVOVkJTWTU2bkk3OTl6NlNnQ0ZHVUcyTDVvc01lWUQzblluQy1zTEdJN3BvQ09uanlQX1FPVnBsYkNGX0Y5dkxQVVJFR1RQM2ZjWDFrLVBKNHNZMU53SnhpZw?oc=5)
+### [Ebola, l’epidemia dilaga con 2500 morti in 3 mesi e un’area colpita più grande della Francia: allarme dell'Onu](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMHBVNTNWbWNpTnl5QTNiU2NLQlBMeG1yQ0gyZEs4X2JUZ3d3QVpFeXAtUEN2RmRQY2ZzOFZzZ09DWjBKV2o2UW5fV1VmRUtoMmlXMmc2cFNOcFh3Qm5adWlVUFE5NXNMNWhOVDhyZFlQbWJlNERVRkZ4Q3MwWkJlWG1aRldvQ0oxWkJIY2MwU2VsZzI3NDFGNk40dTJ0UnN1WmwtaUJCUmx2bFlEdXBvTkozcUV0VGx3MG9DaFVad0QxTEZXdjZkT29jcEhYZmtVdnBBT2NNMTBOc2pPeU5kNUt3?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0xSLXpIUGRieTZmQ3dTanhjUjc5STZsUFJyVl9fWXhsRFlMY0FpNjlLeVIzUzFmQUhHNnZOUS1Od1FfY0VYOW5DQmdxS180LW1BRDlEbzAyZ0NYdExIa05pUWNEQUx4N1dhVlF6U0R2X1hCdVpJT1BzWlRpM0NXVnVOak9SeHYxbWRfUU1ZbnNHUHB2eVZZUzV6MVBZd0kwYXNXVNIBqgFBVV95cUxNU1JiRkVzLUk5X3k5VFdpNjZwWHR0cjBRdnd2TmVtemZVdm4xbEx4MGZUQU1MTEFrZHNXRjRJT2plN05RX1hFNnJDay1Wal95LVVOVkJTWTU2bkk3OTl6NlNnQ0ZHVUcyTDVvc01lWUQzblluQy1zTEdJN3BvQ09uanlQX1FPVnBsYkNGX0Y5dkxQVVJFR1RQM2ZjWDFrLVBKNHNZMU53SnhpZw?oc=5)
+來源：[Virgilio](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMHBVNTNWbWNpTnl5QTNiU2NLQlBMeG1yQ0gyZEs4X2JUZ3d3QVpFeXAtUEN2RmRQY2ZzOFZzZ09DWjBKV2o2UW5fV1VmRUtoMmlXMmc2cFNOcFh3Qm5adWlVUFE5NXNMNWhOVDhyZFlQbWJlNERVRkZ4Q3MwWkJlWG1aRldvQ0oxWkJIY2MwU2VsZzI3NDFGNk40dTJ0UnN1WmwtaUJCUmx2bFlEdXBvTkozcUV0VGx3MG9DaFVad0QxTEZXdjZkT29jcEhYZmtVdnBBT2NNMTBOc2pPeU5kNUt3?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [We put cottage cheese through an evidence check – and the health claims didn’t stack up - The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmZjSmc2N3VjTU5YTEptOV9UX1AzUDlOQm1FQkJsSE1rR2lUdDdmWW4tRGdkWjBHSFBaeFJKWllzTjY4b0VadF81RlNCWGd5Z1pZRTAzTDA3eGlvdUdqUE9wcE5rRTdzSmJCbk5fMG9sZWxtZzFNX3ctaUhISV9hcjNFV19xcVUyR2ZuRjdudk1HbUpzaEM0Zm93ekwydzZ3cjgtaVRYX1N1cDZadDlpblMtVUkxOTM2dk9N?oc=5)
+### [Reizdarm: Diese pflanzlichen Behandlungen wirken nachweisbar](https://news.google.com/rss/articles/CBMixgFBVV95cUxNblNRR3JfM1h5UllEWUF1QzRzeTVWWWhlUDc5QlZzcW9KaGhmNUdWZDJqYVpsRHJTelNUaGxRMWZRRV9SeHRPdlMzclFlMExFRHhWMVpQMG4tV01CNUlCTk5MV3BkTmwyeC0yOFh0cGQxTkpoWnNVMFFmZTM1cHlRSElCNU43WWtCeU1DcWZidUlldzlrNDhmUDR5OEtaWHozdTNTSVZxRnhwMWVpWTRVeWFYMHNpS1U3UEJiTGJIa1FZdUloWVE?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmZjSmc2N3VjTU5YTEptOV9UX1AzUDlOQm1FQkJsSE1rR2lUdDdmWW4tRGdkWjBHSFBaeFJKWllzTjY4b0VadF81RlNCWGd5Z1pZRTAzTDA3eGlvdUdqUE9wcE5rRTdzSmJCbk5fMG9sZWxtZzFNX3ctaUhISV9hcjNFV19xcVUyR2ZuRjdudk1HbUpzaEM0Zm93ekwydzZ3cjgtaVRYX1N1cDZadDlpblMtVUkxOTM2dk9N?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxNblNRR3JfM1h5UllEWUF1QzRzeTVWWWhlUDc5QlZzcW9KaGhmNUdWZDJqYVpsRHJTelNUaGxRMWZRRV9SeHRPdlMzclFlMExFRHhWMVpQMG4tV01CNUlCTk5MV3BkTmwyeC0yOFh0cGQxTkpoWnNVMFFmZTM1cHlRSElCNU43WWtCeU1DcWZidUlldzlrNDhmUDR5OEtaWHozdTNTSVZxRnhwMWVpWTRVeWFYMHNpS1U3UEJiTGJIa1FZdUloWVE?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/rotigotine/
 2026-08-21 <span class="news-indication-tag">sclérose en plaques</span>
 
 來源：[Pour la Science](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQk83dEhiRWdsZ1Z3NTdIZ0VnZ2hYSDM0bndGdWY5LUJzNVgtLUhtSWh0UFh3TzNJelBWWWRPTGZ4VEg5YUxOLXRWd25mQ21KMVpSQVZPYnI5ZmF1MU8tTUFXZ1g1NFlZaTBNWHEyWjd2UllrZTVGcWQzbUtVU3p1SG9MS21wNGhlSWstRmEtcUJxckY3dVZfRzltMnk4VTBBUWxlSXd5c1ZhbkRmS3FNRjZobjhZdWJQM1NjeU81amVRdXpYYTR4SF8xU01nZV8zUWZBLTY4S2ROTGNsdExBREJidw?oc=5)
-
----
-
-### [Heartlands Hospital investigation into patient's 'dirty' A&E claims - Birmingham Live](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWFSMzloOUhiS3gxUzd2SER1OWwweWFVbV9HMWlaMUhjX1lPTEJpNU0yekdtQWpKbjJxc0YzQWtFV3QwVF9qZzhTVEstWVZMWnlXN2ZTMnkyRWNjWXBoNnZzRG14RmdLQW9YOTFzSmlTR1VXclQwbndHLVRoc0hSX2NMQzFEa2VpMksxRUc2UEp3Zk82TkxzYjU0bDhYaW1GelZ6cTFBYUVXbHNyMmfSAbMBQVVfeXFMTzc0b2FmeURCaERaT2dHTU96RFRfNG1OeTdPaGNIaFpQRHU3akVnSU40dlN6UGRjdXBiY25TY2ZTTnVjMlhCdmpXUGRjLVFfOUFlS1RiMXlQb3lYZkdxVEl1QmpxZ2EyTk1sMjFVaUxHTk1CUVFtcDhzSGx4UkZLMTIwWXNwVW5XMGpkNGxmTk1oUXZKYUd1UnNvck1fZk9VS2ZWeXppM1Z4VXZTV3p4dExpZWM?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWFSMzloOUhiS3gxUzd2SER1OWwweWFVbV9HMWlaMUhjX1lPTEJpNU0yekdtQWpKbjJxc0YzQWtFV3QwVF9qZzhTVEstWVZMWnlXN2ZTMnkyRWNjWXBoNnZzRG14RmdLQW9YOTFzSmlTR1VXclQwbndHLVRoc0hSX2NMQzFEa2VpMksxRUc2UEp3Zk82TkxzYjU0bDhYaW1GelZ6cTFBYUVXbHNyMmfSAbMBQVVfeXFMTzc0b2FmeURCaERaT2dHTU96RFRfNG1OeTdPaGNIaFpQRHU3akVnSU40dlN6UGRjdXBiY25TY2ZTTnVjMlhCdmpXUGRjLVFfOUFlS1RiMXlQb3lYZkdxVEl1QmpxZ2EyTk1sMjFVaUxHTk1CUVFtcDhzSGx4UkZLMTIwWXNwVW5XMGpkNGxmTk1oUXZKYUd1UnNvck1fZk9VS2ZWeXppM1Z4VXZTV3p4dExpZWM?oc=5)
 
 ---
 
@@ -147,14 +139,6 @@ permalink: /news/rotigotine/
 2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtZDJ0a0VCWFhVQlQ0SnBUNGZDSDVjN0YzX1Q0aTBYTnA1RWtzTjRrNE1lZGRyN3NJWFhuN1Yza2FYbGVYdnlJT3N6WlJ0NlF3Qjl3?oc=5)
-
----
-
-### [Reizdarmsyndrom und PMA-Zeolith: Wissenschaft bestätigt Wirkweise des optimierten Zeolith](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJzdDZ4d3R3cmJyeHFTeDUyVHdGLS0yNGpTOGEtaWNlNmtKeWtiTU1lZFJDZVRvYzVtc3U3a1FOenRIOTg5VlVIVVQ0MjN1M1pZenpvd1Rnb1M5OVc2TTZYUy1PMVN5d2dTWXZDaWxnbWRLYWxYRXdjS002MFE2ZEVpYmV3X2tIeUo2T2FvUGFoYkY5NDVaVUZMS1NUY1hiSEg1dFZVOFB3RWV3WVhNNEU2VDBSbE14bEtoNk1vaGYtT3gyMUx3bQ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[openPR.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJzdDZ4d3R3cmJyeHFTeDUyVHdGLS0yNGpTOGEtaWNlNmtKeWtiTU1lZFJDZVRvYzVtc3U3a1FOenRIOTg5VlVIVVQ0MjN1M1pZenpvd1Rnb1M5OVc2TTZYUy1PMVN5d2dTWXZDaWxnbWRLYWxYRXdjS002MFE2ZEVpYmV3X2tIeUo2T2FvUGFoYkY5NDVaVUZMS1NUY1hiSEg1dFZVOFB3RWV3WVhNNEU2VDBSbE14bEtoNk1vaGYtT3gyMUx3bQ?oc=5)
 
 ---
 

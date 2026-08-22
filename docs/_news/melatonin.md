@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Científicos descubren una molécula que ayuda a la pérdida de grasa sin afectar a la masa muscular - La Vanguardia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1Z4Rng2b3lzZzJlN09kUGZlZjZFVVJkNTdfM2JHLVJzbVhfdUdJSkQyMjhRUEZyYlZFNGxybjFKZ2lHbUpZUXh6LU52RkdvUkpJR3ZBOUVGV3hLZFpxU3NzVmtCREtqWHd1a0UwdTJiTjdmYmVhZ2ZQR2IwMXFacHNVWnJmNHZ6Y0I4VkpvRG5iT0FWQVJZY2hjRDlQQVlPYWwzbmhNY1JTT2dnVVpYMzRXT3pEV19MTWFnOEJuSGgzSU5Cdjhfd1lwUUFncVJTaUhQQ0hRZExKdlBCN1M3U9IB5gFBVV95cUxQZlU3alBIMWU0VGxwNUNKeThjTzVQdnFBbGplanIwTzNGa1RETTdaeFRILTVJcDVPMDN2Zmx5V1JlQmM5Z0U4VHBTaDdBdFQzbWpiZXlRNDZlODNpNnBQYlBvb1NxeXNMbVlTcFY1NElfYVFJYzdTTlo4UGs2bVpkZDhVMEdfQ3VsWkZhV0FhMlE5Y1AzdzdRd0xNb0htRWpLYVMzb3ZUMFZnTGk3blp0RGVUSndESERqa1UwNFFEY3E3X19rZFIxTlZ0VmFTR05EM0VzOFpENHFMeHMtbDYzRFRoX0dZZw?oc=5)
+
+2026-08-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1Z4Rng2b3lzZzJlN09kUGZlZjZFVVJkNTdfM2JHLVJzbVhfdUdJSkQyMjhRUEZyYlZFNGxybjFKZ2lHbUpZUXh6LU52RkdvUkpJR3ZBOUVGV3hLZFpxU3NzVmtCREtqWHd1a0UwdTJiTjdmYmVhZ2ZQR2IwMXFacHNVWnJmNHZ6Y0I4VkpvRG5iT0FWQVJZY2hjRDlQQVlPYWwzbmhNY1JTT2dnVVpYMzRXT3pEV19MTWFnOEJuSGgzSU5Cdjhfd1lwUUFncVJTaUhQQ0hRZExKdlBCN1M3U9IB5gFBVV95cUxQZlU3alBIMWU0VGxwNUNKeThjTzVQdnFBbGplanIwTzNGa1RETTdaeFRILTVJcDVPMDN2Zmx5V1JlQmM5Z0U4VHBTaDdBdFQzbWpiZXlRNDZlODNpNnBQYlBvb1NxeXNMbVlTcFY1NElfYVFJYzdTTlo4UGs2bVpkZDhVMEdfQ3VsWkZhV0FhMlE5Y1AzdzdRd0xNb0htRWpLYVMzb3ZUMFZnTGk3blp0RGVUSndESERqa1UwNFFEY3E3X19rZFIxTlZ0VmFTR05EM0VzOFpENHFMeHMtbDYzRFRoX0dZZw?oc=5)
+
+---
+
+### [Farmaci anti-obesità e intelligenza artificiale: la nuova corsa della medicina passa anche dall’Italia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVlpWWtxV1E1QjRGV3ZOU0Q3eFcyX2pNTE5ZbXNaV1RGUnVFWG1mZnN6NE1jcm4xNGNja1pHUF9FNFpmcFBERTMxM1ZGTTg2eG1mbGhCcGRXMGRTblNlR00wYzBtenNvNlI1SlNzeXlyb09FajB4c3ZIVThDSXEtdy10OWpaaFBybWcwUkRNb1VONHl1QnU1QmRwRWF4VmhUclJIOGpFYi1lYl9lcTdJMnJfWlpxYjRybllsdktkcHRpWU5ReDViMHRraDF0MUotdWs3NkNOcDFmQ29QaW9LNkpNb05UblU2TWQ0ZFdCeXA?oc=5)
+
+2026-08-22 <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVlpWWtxV1E1QjRGV3ZOU0Q3eFcyX2pNTE5ZbXNaV1RGUnVFWG1mZnN6NE1jcm4xNGNja1pHUF9FNFpmcFBERTMxM1ZGTTg2eG1mbGhCcGRXMGRTblNlR00wYzBtenNvNlI1SlNzeXlyb09FajB4c3ZIVThDSXEtdy10OWpaaFBybWcwUkRNb1VONHl1QnU1QmRwRWF4VmhUclJIOGpFYi1lYl9lcTdJMnJfWlpxYjRybllsdktkcHRpWU5ReDViMHRraDF0MUotdWs3NkNOcDFmQ29QaW9LNkpNb05UblU2TWQ0ZFdCeXA?oc=5)
+
+---
+
+### [Promising new weight loss and diabetes treatment helps burn fat while keeping muscle in preclinical study - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHc1Z0NvZXgzbE5pcDM0Q1pjYThNcW41ZkhoSWFMTkhVWEZCaWcwbmJpZzNEQVRNejZEQVlrRXlTdk1CR3ZYZFdyMi1ybFFMZ1JtSkRodEg4S1NZb3dWMkFBeVVmdlctYWg0MWQySDd3YThnYU9tRlVoRjdXVkc2SjVJS3Y?oc=5)
+
+2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHc1Z0NvZXgzbE5pcDM0Q1pjYThNcW41ZkhoSWFMTkhVWEZCaWcwbmJpZzNEQVRNejZEQVlrRXlTdk1CR3ZYZFdyMi1ybFFMZ1JtSkRodEg4S1NZb3dWMkFBeVVmdlctYWg0MWQySDd3YThnYU9tRlVoRjdXVkc2SjVJS3Y?oc=5)
+
+---
 
 ### [Expertos abogan por tratar la obesidad más allá de la dieta y el ejercicio, y destacan la importancia del descanso](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
 
 2026-08-21 <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
+
+---
+
+### [Neus Candela, veterinaria: “Cada vez tenemos más pacientes con obesidad y más piensos 'light' en el expositor. Algo no cuadra” - La Vanguardia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjFwelo1d3E5OE00MjBCcHVsWkFHTjNEU1M3cThISWJQR1FuMnZCMnRaZTRMbnFWT0txWUZfUkszLTg2dGk4aTlFREdGRTM5MnlVN2xfSzVuNDVqakk5Snc0cF9Rek1hLVNCSlA4VVFyNXhMbC1URlBDbWdTMk44NVdIZHQ0bE44MUNkdEtoNS1HMXhEVHlEMl9QNHdOYm9TVlNnaEFscVZmU1N4MGZQT183SnFiNEpRUmtaSkp3MEtOWEh4TzM5Q19JVE13NVVMS2Z1WEJybGkwaVlfejlvZFNZdUREQdIB6wFBVV95cUxNcUx0TEtieFk0TmF6Zm5YSWNFcU9vZXhLZENVQ0RGZjdoMnlzcHVYczJsUDJra0x3Zmx0WExKM1JKUkdoTTFnNlFuTGt2T3dLZ2VaLUt2NHJJRk1TaUFFVXRhYklWM0FsUFdJZDc3eENMRDJaUWRZRm9FdFE1UE1wWFpZczFfNjNxNWp3N2RlaWljRXJOSVlBTl9wU0dvNWtHb1ZvRTRuRzV5SnZGa3Axcl9rZVdIcnRUakZqYm05alY3dnFWa3Q5c1JONUVkbi1fOUFxYkx5SjlpMUhkc2R3RG1Fb1czMW10TTcw?oc=5)
+
+2026-08-21 <span class="news-indication-tag">obesidad</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjFwelo1d3E5OE00MjBCcHVsWkFHTjNEU1M3cThISWJQR1FuMnZCMnRaZTRMbnFWT0txWUZfUkszLTg2dGk4aTlFREdGRTM5MnlVN2xfSzVuNDVqakk5Snc0cF9Rek1hLVNCSlA4VVFyNXhMbC1URlBDbWdTMk44NVdIZHQ0bE44MUNkdEtoNS1HMXhEVHlEMl9QNHdOYm9TVlNnaEFscVZmU1N4MGZQT183SnFiNEpRUmtaSkp3MEtOWEh4TzM5Q19JVE13NVVMS2Z1WEJybGkwaVlfejlvZFNZdUREQdIB6wFBVV95cUxNcUx0TEtieFk0TmF6Zm5YSWNFcU9vZXhLZENVQ0RGZjdoMnlzcHVYczJsUDJra0x3Zmx0WExKM1JKUkdoTTFnNlFuTGt2T3dLZ2VaLUt2NHJJRk1TaUFFVXRhYklWM0FsUFdJZDc3eENMRDJaUWRZRm9FdFE1UE1wWFpZczFfNjNxNWp3N2RlaWljRXJOSVlBTl9wU0dvNWtHb1ZvRTRuRzV5SnZGa3Axcl9rZVdIcnRUakZqYm05alY3dnFWa3Q5c1JONUVkbi1fOUFxYkx5SjlpMUhkc2R3RG1Fb1czMW10TTcw?oc=5)
 
 ---
 
@@ -70,19 +102,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Plus d’un adulte sur deux est touché : comment la Polynésie française tente d’enrayer l’obésité - Le Télégramme](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGdZUUJrYm1leGV4WDNSR194VHZKZVA2UllPTnhjZnI3QmhzcktWakMzSjNUaW93SzhzdTd4Qkt4eXRGNlNBd1BOSlA0dDU1NmprblNxMHAzcWUzemlJNDdweWxEa2hJcXVBcFZqLTZWY1BQYmNfVk83SGtzWVpmMlhnMkVNbTE3S3ctY2dLejhMM0xtWE5xMm40MDY0bERaMG5ZZXhueGJZNVI0dDdLSjVWLXpIRVhKaVBhLUZlWm80bUUtZWJtNEhZdVpJd3lrVk1F?oc=5)
+### [La obesidad deja huellas en el ADN infantil más allá de la propia genética](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjRTNE56TzdLZjFxMzJWNVhvV0l5SEVPUkxyZWxDLVRmaF9mYmxLQ2tCS2FSaFUzYWRETjBwXzhyS2VEY0g3OXpuakY2dmFVR0wxUkJpVEt6c0hZb1RyNlM2Y0lSTUkwYWpSWDMxcy1ZbkJqUDhPaXk1Ti1sb1dIN3RiY29DUXUzU2wzZE1naFgzdGRpWnJHTU5Db1FuREtiY3c?oc=5)
 
-2026-08-21 <span class="news-indication-tag">obésité</span>
+2026-08-20 <span class="news-indication-tag">obesidad</span>
 
-來源：[Le Télégramme](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGdZUUJrYm1leGV4WDNSR194VHZKZVA2UllPTnhjZnI3QmhzcktWakMzSjNUaW93SzhzdTd4Qkt4eXRGNlNBd1BOSlA0dDU1NmprblNxMHAzcWUzemlJNDdweWxEa2hJcXVBcFZqLTZWY1BQYmNfVk83SGtzWVpmMlhnMkVNbTE3S3ctY2dLejhMM0xtWE5xMm40MDY0bERaMG5ZZXhueGJZNVI0dDdLSjVWLXpIRVhKaVBhLUZlWm80bUUtZWJtNEhZdVpJd3lrVk1F?oc=5)
-
----
-
-### [Obesidad: más que un problema de peso, una enfermedad que amenaza al corazón - Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
-
-2026-08-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diario Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNF9YSThhU3QtU09qOVFUVVJ2UldLdlZRV05jbFBiX0dPREFVa0ZvRnZ5a0RDZlJFcjF2bzA2SC1QeWdxaldHTm9CWWpJRmVLVmc3M3R2Q3BMM3hKYXlib3V5YTBwS2JBUE9tV0tCTHBtczhLX0ROdURTdk1ZMkJ3cWR6WmNldmYwRkI4VW5BQm9OY1g4YWFtdU9fZ2tlM3JvemhLTTBEZHUtUTlFMVZ0U0JkV282ajFaSXhvWHY0RljSAcYBQVVfeXFMTkdHMldVcjBfRG9lYmRBTi0zT3hXZ2c0cmItOWFTdDBQVkpVZ014eTR2ZmdCV0xwR2lDX29pN1ZVQ1JxWHVfd1diSTdLVDdnVEpFWXktR20yZWhCU3MzemdRSmZCbnl2QnlkaUg4UzZCZGlqSG1Cd19nYkVLMjRuUTA3bXpYUm9SNVBtcWVfcmZaRDMtamh4c28wdUNuMlMtZDB5Wjl5QWg5aTYzTU10YWNMMHVWbjNwanJXX3I5N01NQjN1d0tR?oc=5)
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjRTNE56TzdLZjFxMzJWNVhvV0l5SEVPUkxyZWxDLVRmaF9mYmxLQ2tCS2FSaFUzYWRETjBwXzhyS2VEY0g3OXpuakY2dmFVR0wxUkJpVEt6c0hZb1RyNlM2Y0lSTUkwYWpSWDMxcy1ZbkJqUDhPaXk1Ti1sb1dIN3RiY29DUXUzU2wzZE1naFgzdGRpWnJHTU5Db1FuREtiY3c?oc=5)
 
 ---
 

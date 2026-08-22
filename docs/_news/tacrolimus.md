@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Darm-Haut-Achse: 35% höheres Psoriasis-Risiko bei Reizdarm](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFhsbkhnTTNKeDlkX05oemw1MjlsOElxWDJoODlHbFZyamphNVRwQk5pQXJCQ1ZkSWtWdGhfYk96eEJ6UnJQMFpfc2ViU3BiMURBTkV3THhrWk80QTJFMXRnanVUb0dsaldfVld4ZzNMR0lkUFd5Q3ZWTmhyWVlHdmJOVFM2dWEwSjFTRnVWWkNMSnhlV2FvQjBReHEwRExyN3IwSW1qVjUyb1dad2p1emxVU18?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/tacrolimus/
 2026-08-20 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzNya3ZITFp1Nlp3VENHXzJJMjZ1US10bkdPZVlvZFlPUnBwcXcxRjVIa2swM21fRTMtRURKQ1d6RkpnbzJuSzQ5dVdOckdLWnRRcm5fUmxQdVpmdlZrcnJiNG5mZjg3MmJsdjh3RkpvdjJpRHIxUENCcmFXUGl1QkFId0JWaDVXUXB6Q1RLcEZSaE1oelR6cXlwUmJoWldYTDNGWEFkLVhpOUhRTEpnbHhhRnVIWHJLOEFGNFdUQzE?oc=5)
-
----
-
-### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
-
-2026-08-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 
 ---
 

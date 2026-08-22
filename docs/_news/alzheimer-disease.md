@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（1 則）
 
-### [How smart tech could let dementia patients live at home for longer - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWY4YlFwcUVVRnMzZGtUekREWVE4NjRDWUpuUEtwMThENG5vdDg1Vi15Rks4QzhWSVhQNE9zUVNfLUxxUXQ1ZG1fcHFDdWowRU5OUUVoeVlBQkJfbk51dlZxS0pwNi1QYXBWVXZUM3l2MUtTbE5DZGUtVEl4Y21fRW1lX1pvSG5pTGp3emhDRHo0ZzZnN0psR25FZw?oc=5)
+### [Et si la maladie d'Alzheimer était aussi liée à une bactérie présente dans notre bouche ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjFnem95a1BiMUx5aVhkZTJwQ0p2TVBvOEFUXzBwVEs5QzdCMkU1Q0lMbjVMUnNMZ043b0pUOVZHeDY5am1MaVhudFZIQm9IR0g1bzBmNUNQQ3hDbFYyQ2lTMTd5blI3WjljVGFSZUdvQmo3Z0lRSC1XeGs2bWhMbWYzM0NNSkNUTXRpdGw5ajlyRFFRNkhVYmZZaVBpazVqbG1FTEFtblFaTmFDbDZUd21Xd2ViUHo0U21odm9jb2liWUEwcDYzbXdoYXU3SkpIc19iQUtkZTFmS2ZYaTRsNVR3?oc=5)
 
 2026-08-21
 
-來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWY4YlFwcUVVRnMzZGtUekREWVE4NjRDWUpuUEtwMThENG5vdDg1Vi15Rks4QzhWSVhQNE9zUVNfLUxxUXQ1ZG1fcHFDdWowRU5OUUVoeVlBQkJfbk51dlZxS0pwNi1QYXBWVXZUM3l2MUtTbE5DZGUtVEl4Y21fRW1lX1pvSG5pTGp3emhDRHo0ZzZnN0psR25FZw?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjFnem95a1BiMUx5aVhkZTJwQ0p2TVBvOEFUXzBwVEs5QzdCMkU1Q0lMbjVMUnNMZ043b0pUOVZHeDY5am1MaVhudFZIQm9IR0g1bzBmNUNQQ3hDbFYyQ2lTMTd5blI3WjljVGFSZUdvQmo3Z0lRSC1XeGs2bWhMbWYzM0NNSkNUTXRpdGw5ajlyRFFRNkhVYmZZaVBpazVqbG1FTEFtblFaTmFDbDZUd21Xd2ViUHo0U21odm9jb2liWUEwcDYzbXdoYXU3SkpIc19iQUtkZTFmS2ZYaTRsNVR3?oc=5)
 
 ---
 

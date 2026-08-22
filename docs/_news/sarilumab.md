@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Gestörter Energiestoffwechsel: Stoffwechselengpass hält chronische Darmentzündungen in Gang](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
 
 2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Hersfelder Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVMwY1p6Q3hOYXdIRlVtRlBqLWltWVhRNUZETVFjYkh4dTFYamdOdnFJakNDeEdPUklUcldyYjVxOG04SjExam9FbmcyZjFZc2NXSFhJV2ZvaW5ERDFjcFFGbERGY1BUNTFsVzhaZVd0c01KS2E4aGYtV2NRSnZiRkx6aEc1MHItTG5lYlY2Q2g2dTRzQjFIcXZzc2Z3eW1QVHlEZDlySnJVYjdWRjlsVjJMVWNOTS1EOWQ3c2M3R3gyRGMzRjhMZWxtT281Zw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/sarilumab/
 2026-08-21 <span class="news-indication-tag">BPCO</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWxHalZVWHBORlFJZFdlVHk3d2dtXzFlMmljWlBFaUdyeHAydmw5RHBVWlZoZFdPWldUeDlMZ0NCanRqVWRQcFNBUHdzeVhsSnllSkxQRmsxQU1NQ0VPUjdaeXZKWHI1QUh3QVV1NldKdWl2TUp6QWR6cDZDd2MyWmdpcVdIY3Q3eDZsbUlxWUNpc1dLaUY5Vm1mNTdiWGNKNXhiWTRCTHRSdDByN1MtUmFXNC1QNTgyd1BrMWF3ODBRenp6UFJ1NFpnXzBCa2pkSHlOWXlXa0YwQk1ZTXIw?oc=5)
-
----
-
-### [Rheumatoide Arthritis | Bei Übergewicht sprechen JAK-Hemmer schlechter an](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
-
-2026-08-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0llRktTNUtsMm9nTHF0N1JncDVMN25KczFzRmZOZTBXTEItYzJxbjZSekpjYzktbG1qR0RuQi11ZEdsSjJ6MndWQWhqRWVZOTVMMElWY3JxUHpuVGJ5WHRnVm1YV3NwTGxJNnVGcl9oRjRiTG9ybDVsQnM2RVh4SmtNWnpPdUdwVVYwWWdtaFhDMENOLWx6ZGlCQ3RxNWJORVZOa3pUdTVmTE5KZEN2dkN0a3k2UlE0YlRFR2s1TEZlamlodnEzRTh4clRWWGtZMkE?oc=5)
 
 ---
 
