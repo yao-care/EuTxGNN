@@ -54,11 +54,11 @@ permalink: /news/inclisiran/
 
 ## 相關新聞（1 則）
 
-### [Inclisiran-Therapie nun ab 12 Jahren möglich - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1Qd2dpNWQ2SjA5ZE9sZjBtVllBbnNNdUQ4WWhHU3NBbFhsNWV3THZ4NmxaSnhzX0hmcWJmYXh4S2xuMWdaN0tYUk5SZ1Izc3R6Y29xejcwaEI4VmY5a2J6aEwzQUgtcF82c05USkFselVOY3BZYUpoa01FbEN2OVZNa1dNdWx5bVpzSVNLNGxXMGRfZENPTDFub2p1RjJZZUQwbTRWeGFudkg4Z2Y3bg?oc=5)
+### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
-2026-08-21 <span class="news-drug-tag">Inclisiran</span>
+2026-08-22 <span class="news-indication-tag">migraine</span>
 
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1Qd2dpNWQ2SjA5ZE9sZjBtVllBbnNNdUQ4WWhHU3NBbFhsNWV3THZ4NmxaSnhzX0hmcWJmYXh4S2xuMWdaN0tYUk5SZ1Izc3R6Y29xejcwaEI4VmY5a2J6aEwzQUgtcF82c05USkFselVOY3BZYUpoa01FbEN2OVZNa1dNdWx5bVpzSVNLNGxXMGRfZENPTDFub2p1RjJZZUQwbTRWeGFudkg4Z2Y3bg?oc=5)
+來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="Lorlatinib 有什麼相關新聞？">
-<strong>Lorlatinib</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lorlatinib</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/lorlatinib/
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
+
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
+
+---
+
+### [FDA autoriza PrecivityAD2 para evaluar Alzheimer con una muestra de sangre](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmxPY2w0SjlYUlJEWUpiZnd1N1kwMFpUZjhWMDRsNEJTSUdLZWZDYkVWS0tEdFFyZEI5cFN0dG1RSDlxQlBfRTk5TzBqTTRxS0V0Y0JqR0ZQN3RIOEd1R0hKYXJ0empYbHRHRTVHQ0xYd2NhYjNqNzJFU1JyS2NORi10OWZsbWxvVDEyT0FKX0VuZnliblJRMkNzM3pnUDd3bWtWTFZEVGNDa3RBTkNZczVR0gG3AUFVX3lxTE1mSzVXYUtyZTdJakRqeWNoc0xxSmc3b1ZqZVJkZ3lfZldoS2FsWHVHdV85M1hIWGhmd2owZVhBR1VtblBfeUt3UnVRQjBMVnltak9rV3RScldKSGZ4dnZNUkgyRGxuX0lXZTJuSVdyY2NqVlJ4Vmp5R3RDUzFxa1IyT0RseVI0aF9kWGNySjhtOUlqU1V2bWFmNlVIaE1ncDExdFA4VHJpd2dncTlGbHYzUWR3U1k5aw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[NotiPress](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmxPY2w0SjlYUlJEWUpiZnd1N1kwMFpUZjhWMDRsNEJTSUdLZWZDYkVWS0tEdFFyZEI5cFN0dG1RSDlxQlBfRTk5TzBqTTRxS0V0Y0JqR0ZQN3RIOEd1R0hKYXJ0empYbHRHRTVHQ0xYd2NhYjNqNzJFU1JyS2NORi10OWZsbWxvVDEyT0FKX0VuZnliblJRMkNzM3pnUDd3bWtWTFZEVGNDa3RBTkNZczVR0gG3AUFVX3lxTE1mSzVXYUtyZTdJakRqeWNoc0xxSmc3b1ZqZVJkZ3lfZldoS2FsWHVHdV85M1hIWGhmd2owZVhBR1VtblBfeUt3UnVRQjBMVnltak9rV3RScldKSGZ4dnZNUkgyRGxuX0lXZTJuSVdyY2NqVlJ4Vmp5R3RDUzFxa1IyT0RseVI0aF9kWGNySjhtOUlqU1V2bWFmNlVIaE1ncDExdFA4VHJpd2dncTlGbHYzUWR3U1k5aw?oc=5)
+
+---
 
 ### [UK has 100,000 more men living with prostate cancer since 2020 as cases surge](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmhBZWRzZ2RuNlhDbVVFdXhiOEUwLTJ5ejdfYmljTU54RHpUWmpkLV8tMXUwendqQUp3M0wzY0ZjWnNQM0hacXFXSDIwOVpDYU1fcEJFRWY0T3l3clcwOFFYVDlZUElyNEpGUjNLVkhpR19VcXozamRvUVB5T0RNNUlaSVM0SDd5eGlLbDlVbi1XUjVrVUpKTTZJRExGdVN5S2gydEw5RW9FMHA4djdESUln?oc=5)
 
@@ -78,11 +94,11 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
+### [Dundee gran's pain was put down to a bruised rib – then she was diagnosed with lung cancer - The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
 
-2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+2026-08-22 <span class="news-indication-tag">cancer</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
+來源：[The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
 
 ---
 
@@ -90,7 +106,7 @@ permalink: /news/lorlatinib/
 
 2026-08-21 <span class="news-indication-tag">tumor</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
 
 ---
 

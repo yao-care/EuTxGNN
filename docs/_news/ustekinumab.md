@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/ustekinumab/
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（100.0%）</li>
 <li>hydroa vacciniforme, familial（100.0%）</li>
 <li>severe nonproliferative diabetic retinopathy（100.0%）</li>
-<li>psoriasis（100.0%）</li>
+<li class="indication-matched">psoriasis（100.0%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>parapsoriasis（99.9%）</li>
 <li>pityriasis lichenoides（99.9%）</li>
 <li>acute lichenoid pityriasis（99.9%）</li>
@@ -52,9 +52,25 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Typ-2-Diabetes bei Jugendlichen nimmt zu: Besorgniserregender Trend auch in Deutschland](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
+### [Patientenvortrag: Diabetes heute – moderne Therapiemethoden](https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1d4MWtVR1cyYjVKRndhUUkwcEhyOXdIQ09LSDF0SFlKRUhsaW9YdHlyTkZ5aU1qX21tRmVzb3dZVmFvN1FrUXpqOFZVVll4bFRsUHNlaHVaanp0cGE3aVotckVOTW1lTFFCVko1cngzQ1VVMkhQUHZRWEhvUzhfOUJB?oc=5)
+
+2026-08-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[Hoyte24.de](https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1d4MWtVR1cyYjVKRndhUUkwcEhyOXdIQ09LSDF0SFlKRUhsaW9YdHlyTkZ5aU1qX21tRmVzb3dZVmFvN1FrUXpqOFZVVll4bFRsUHNlaHVaanp0cGE3aVotckVOTW1lTFFCVko1cngzQ1VVMkhQUHZRWEhvUzhfOUJB?oc=5)
+
+---
+
+### [Mir fällt nichts mehr ein](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktkS1FRN1dkQnBFbDZnQXVTVXVzNXNQc3M5SmdFUm52UlY4SWlYaFZKemx2WG5abjFOaDhZc0xJeDJMb2loZnFGVU1KWnZ0Y25BM3M5Z1VlRE9tNlhDMmE4cFNHd3FFNDRxVjhkQmhuS1J6WVZmcEpheVR2UzlsYWhpSjd4S2c?oc=5)
+
+2026-08-22 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktkS1FRN1dkQnBFbDZnQXVTVXVzNXNQc3M5SmdFUm52UlY4SWlYaFZKemx2WG5abjFOaDhZc0xJeDJMb2loZnFGVU1KWnZ0Y25BM3M5Z1VlRE9tNlhDMmE4cFNHd3FFNDRxVjhkQmhuS1J6WVZmcEpheVR2UzlsYWhpSjd4S2c?oc=5)
+
+---
+
+### [Besorgniserregender Trend: Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
 
 2026-08-22 <span class="news-indication-tag">diabetes</span>
 

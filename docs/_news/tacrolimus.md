@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li>psoriasis（98.7%）</li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,9 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Mir fällt nichts mehr ein](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktkS1FRN1dkQnBFbDZnQXVTVXVzNXNQc3M5SmdFUm52UlY4SWlYaFZKemx2WG5abjFOaDhZc0xJeDJMb2loZnFGVU1KWnZ0Y25BM3M5Z1VlRE9tNlhDMmE4cFNHd3FFNDRxVjhkQmhuS1J6WVZmcEpheVR2UzlsYWhpSjd4S2c?oc=5)
+
+2026-08-22 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktkS1FRN1dkQnBFbDZnQXVTVXVzNXNQc3M5SmdFUm52UlY4SWlYaFZKemx2WG5abjFOaDhZc0xJeDJMb2loZnFGVU1KWnZ0Y25BM3M5Z1VlRE9tNlhDMmE4cFNHd3FFNDRxVjhkQmhuS1J6WVZmcEpheVR2UzlsYWhpSjd4S2c?oc=5)
+
+---
 
 
 <div class="disclaimer">

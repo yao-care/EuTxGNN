@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Irbesartan 有什麼相關新聞？">
-<strong>Irbesartan</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Irbesartan</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/irbesartan/
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（21 則）
 
-### [Krafttraining gegen Hypertonie: 44% weniger Herzinfarkte bei Frauen](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
-2026-08-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
+
+---
+
+### [Patientenvortrag: Diabetes heute – moderne Therapiemethoden](https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1d4MWtVR1cyYjVKRndhUUkwcEhyOXdIQ09LSDF0SFlKRUhsaW9YdHlyTkZ5aU1qX21tRmVzb3dZVmFvN1FrUXpqOFZVVll4bFRsUHNlaHVaanp0cGE3aVotckVOTW1lTFFCVko1cngzQ1VVMkhQUHZRWEhvUzhfOUJB?oc=5)
+
+2026-08-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[Hoyte24.de](https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1d4MWtVR1cyYjVKRndhUUkwcEhyOXdIQ09LSDF0SFlKRUhsaW9YdHlyTkZ5aU1qX21tRmVzb3dZVmFvN1FrUXpqOFZVVll4bFRsUHNlaHVaanp0cGE3aVotckVOTW1lTFFCVko1cngzQ1VVMkhQUHZRWEhvUzhfOUJB?oc=5)
 
 ---
 
@@ -70,7 +78,7 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Typ-2-Diabetes bei Jugendlichen nimmt zu: Besorgniserregender Trend auch in Deutschland](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
+### [Besorgniserregender Trend: Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
 
 2026-08-22 <span class="news-indication-tag">diabetes</span>
 
@@ -94,11 +102,19 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
+### [Dundee gran's pain was put down to a bruised rib – then she was diagnosed with lung cancer - The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
 
-2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+2026-08-22 <span class="news-indication-tag">cancer</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
+來源：[The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
+
+---
+
+### [Vergiss Joggen: Zwei Minuten Wandsitz haben diese ungeahnten Auswirkungen auf den Körper – laut Studien](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGt1ZVZNVGJFOVN5Z1VIWnV2TEhtNFBFZkJhaGJ0SzNCbGV1RGJidWxOSENFUW9LZmNjNXlQdXgxQlNSeXZGQXpWZl9PajRxeFlqZHFIaEVyeXFjVHFjSDAxbTQtMXAwN3hWYkJjZm5ENENRYWZkTmJFOWV4aUd1Y19YenJQdHd5a0tGaVhxemh5UkFvX3o3d3pWdjdXZmdaejdKNjlSZVJTVE52Vjg2ZUtJZW9KZy1VT1NZNldPcGk5OUdwTEN6T1dlTHByQQ?oc=5)
+
+2026-08-21 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[wmn.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGt1ZVZNVGJFOVN5Z1VIWnV2TEhtNFBFZkJhaGJ0SzNCbGV1RGJidWxOSENFUW9LZmNjNXlQdXgxQlNSeXZGQXpWZl9PajRxeFlqZHFIaEVyeXFjVHFjSDAxbTQtMXAwN3hWYkJjZm5ENENRYWZkTmJFOWV4aUd1Y19YenJQdHd5a0tGaVhxemh5UkFvX3o3d3pWdjdXZmdaejdKNjlSZVJTVE52Vjg2ZUtJZW9KZy1VT1NZNldPcGk5OUdwTEN6T1dlTHByQQ?oc=5)
 
 ---
 
@@ -106,7 +122,7 @@ permalink: /news/irbesartan/
 
 2026-08-21 <span class="news-indication-tag">tumor</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
 
 ---
 

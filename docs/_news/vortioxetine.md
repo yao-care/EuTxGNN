@@ -62,6 +62,14 @@ permalink: /news/vortioxetine/
 
 ---
 
+### [ADHS-Diagnosen und -Medikation steigen weltweit: Fokus auf Erwachsene - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG84clBZM1FDeWFFdGVwRkFHTUZ0eGk2TlZER1RnTkNWMUZWdER1QmoyZ1BIVkU2TWJjSjZnbngtTENfTGhPckV4aHJhbFpseGFRdDlESGdqQjRHQkZXWHc3SW4xWkdCcTY2ZlNBR202dGdNaHR4N3FKOHRrR05ZX3FnQjFSZ3FvSGFfLVpZeU14ZUVENGVVVE9FazBaSS1o?oc=5)
+
+2026-08-22 <span class="news-indication-tag">depression</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG84clBZM1FDeWFFdGVwRkFHTUZ0eGk2TlZER1RnTkNWMUZWdER1QmoyZ1BIVkU2TWJjSjZnbngtTENfTGhPckV4aHJhbFpseGFRdDlESGdqQjRHQkZXWHc3SW4xWkdCcTY2ZlNBR202dGdNaHR4N3FKOHRrR05ZX3FnQjFSZ3FvSGFfLVpZeU14ZUVENGVVVE9FazBaSS1o?oc=5)
+
+---
+
 ### [Si on mangeait ce que consomment les Grecs tous les jours, on baisserait de 33% le risque de faire une dépression](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTNvTWdDbmNOSFZIcnVjSWtsSFRCMUhkcERqYnpHSnJ6NXk1a3NvMmlhX2RaMzZaeTU1andiT0NqRVJxN0RYTERfRk1ELTFUZXZFYVllNG5QSzNjcGpyLUtXZlo4cFgtRUtCV1RjWXBSaHg0MlgyR1VITWN5aHFRYzl0alZ6b1dqZi0wNjhLUjVUZnhvT01Mb0hfSS1weE9ndnFuUmRWdUMydDBoR0dZd2ZPZEdmLUQ1X2VEMkN1aUNHbUc1OUdFYk9tNEdfakMy?oc=5)
 
 2026-08-22 <span class="news-indication-tag">dépression</span>
@@ -78,19 +86,11 @@ permalink: /news/vortioxetine/
 
 ---
 
-### [Sebastián La Rosa, doctor: "Varios estudios relacionan los bajos niveles de vitamina D con depresión" - El Confidencial](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3Z1BZWm0xemx6SDlsNFc3dzgxTGVRR2ZfbzlWTC1TM3lqeVJjN0t4ZGpSVnFYOWQ3MVo2bm1XVE10cnJLU2E1azNRQm5zV0ZuSFFKT2ZNa0FDVHhrNkJKby0zZXdNNWd0OHJmSGhRaG5RZ3ZnTGpseTl6OFNEUlVGV2Z5MW9xbkQxMnI1eUs4YTBFSjZ0MHN2NGdJSWtaYlQ3NnlRdnIyTldCbjBfaFJqQ29lSmV2ak94MV9MbUpwb2tCU2FBendKX2RkNjl0ZmpoelJhaw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">depresión</span>
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3Z1BZWm0xemx6SDlsNFc3dzgxTGVRR2ZfbzlWTC1TM3lqeVJjN0t4ZGpSVnFYOWQ3MVo2bm1XVE10cnJLU2E1azNRQm5zV0ZuSFFKT2ZNa0FDVHhrNkJKby0zZXdNNWd0OHJmSGhRaG5RZ3ZnTGpseTl6OFNEUlVGV2Z5MW9xbkQxMnI1eUs4YTBFSjZ0MHN2NGdJSWtaYlQ3NnlRdnIyTldCbjBfaFJqQ29lSmV2ak94MV9MbUpwb2tCU2FBendKX2RkNjl0ZmpoelJhaw?oc=5)
-
----
-
-### [Depressionen im Alter mit geringerem Volumen in Teilen des Hippocampus verbunden - Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3plTDZTXzJQakFNbEoyVDRBVWFhLXpwXzhJazR6SmowVlVFSXRyYTBURUdRNlZlcFE4LTdOelRRNFhCTFhFVURnN3NpS1NUV3k4SlRrSDlMY0FNZ3hxOVlfVWVVdFpkVVdMYjQ4VG5MMUN0R0FiOGhZMkNSOUNfNktFUlhEMzl3dDRoN0RQWnNWbDZsYlVPemd1Y0lvMU5KSDNTQlczZFR0ZUhvQkE?oc=5)
+### [Hippocampus-Studie: Depressionen beeinflussen Gehirnstruktur unabhängig von Alzheimer](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZS1wX0xSLXNzYVQ3QzRmcm9vdEx6bk5YTlNUQnAzdk1ZZWt6enhwZllScjZBTklnbVRkZ1A0RTh6V2hpc0pEb3hvT3hueDZpU1FsTzlvQnNFekdjTGhlN0ZDM3NCSlROb3lGVWp6MkF0ek8tYnZsVkRJakJvSjRBeng2bFppSHcwSk1LaUU5ZV9DS1kwMW1FOXFBYkpheDI1OXdPLXZRRDNFZ0VHU2tWNWdYc1NoS1dnUWJhag?oc=5)
 
 2026-08-21 <span class="news-indication-tag">depression</span>
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3plTDZTXzJQakFNbEoyVDRBVWFhLXpwXzhJazR6SmowVlVFSXRyYTBURUdRNlZlcFE4LTdOelRRNFhCTFhFVURnN3NpS1NUV3k4SlRrSDlMY0FNZ3hxOVlfVWVVdFpkVVdMYjQ4VG5MMUN0R0FiOGhZMkNSOUNfNktFUlhEMzl3dDRoN0RQWnNWbDZsYlVPemd1Y0lvMU5KSDNTQlczZFR0ZUhvQkE?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZS1wX0xSLXNzYVQ3QzRmcm9vdEx6bk5YTlNUQnAzdk1ZZWt6enhwZllScjZBTklnbVRkZ1A0RTh6V2hpc0pEb3hvT3hueDZpU1FsTzlvQnNFekdjTGhlN0ZDM3NCSlROb3lGVWp6MkF0ek8tYnZsVkRJakJvSjRBeng2bFppSHcwSk1LaUU5ZV9DS1kwMW1FOXFBYkpheDI1OXdPLXZRRDNFZ0VHU2tWNWdYc1NoS1dnUWJhag?oc=5)
 
 ---
 

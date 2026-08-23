@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
+
+2026-08-23 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
+
+---
 
 ### [Farmaci anti-obesità e intelligenza artificiale: la nuova corsa della medicina passa anche dall’Italia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVlpWWtxV1E1QjRGV3ZOU0Q3eFcyX2pNTE5ZbXNaV1RGUnVFWG1mZnN6NE1jcm4xNGNja1pHUF9FNFpmcFBERTMxM1ZGTTg2eG1mbGhCcGRXMGRTblNlR00wYzBtenNvNlI1SlNzeXlyb09FajB4c3ZIVThDSXEtdy10OWpaaFBybWcwUkRNb1VONHl1QnU1QmRwRWF4VmhUclJIOGpFYi1lYl9lcTdJMnJfWlpxYjRybllsdktkcHRpWU5ReDViMHRraDF0MUotdWs3NkNOcDFmQ29QaW9LNkpNb05UblU2TWQ0ZFdCeXA?oc=5)
 
 2026-08-22 <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVlpWWtxV1E1QjRGV3ZOU0Q3eFcyX2pNTE5ZbXNaV1RGUnVFWG1mZnN6NE1jcm4xNGNja1pHUF9FNFpmcFBERTMxM1ZGTTg2eG1mbGhCcGRXMGRTblNlR00wYzBtenNvNlI1SlNzeXlyb09FajB4c3ZIVThDSXEtdy10OWpaaFBybWcwUkRNb1VONHl1QnU1QmRwRWF4VmhUclJIOGpFYi1lYl9lcTdJMnJfWlpxYjRybllsdktkcHRpWU5ReDViMHRraDF0MUotdWs3NkNOcDFmQ29QaW9LNkpNb05UblU2TWQ0ZFdCeXA?oc=5)
+
+---
+
+### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">migraine</span>
+
+來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/melatonin/
 2026-08-21 <span class="news-indication-tag">obesidad</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjFwelo1d3E5OE00MjBCcHVsWkFHTjNEU1M3cThISWJQR1FuMnZCMnRaZTRMbnFWT0txWUZfUkszLTg2dGk4aTlFREdGRTM5MnlVN2xfSzVuNDVqakk5Snc0cF9Rek1hLVNCSlA4VVFyNXhMbC1URlBDbWdTMk44NVdIZHQ0bE44MUNkdEtoNS1HMXhEVHlEMl9QNHdOYm9TVlNnaEFscVZmU1N4MGZQT183SnFiNEpRUmtaSkp3MEtOWEh4TzM5Q19JVE13NVVMS2Z1WEJybGkwaVlfejlvZFNZdUREQdIB6wFBVV95cUxNcUx0TEtieFk0TmF6Zm5YSWNFcU9vZXhLZENVQ0RGZjdoMnlzcHVYczJsUDJra0x3Zmx0WExKM1JKUkdoTTFnNlFuTGt2T3dLZ2VaLUt2NHJJRk1TaUFFVXRhYklWM0FsUFdJZDc3eENMRDJaUWRZRm9FdFE1UE1wWFpZczFfNjNxNWp3N2RlaWljRXJOSVlBTl9wU0dvNWtHb1ZvRTRuRzV5SnZGa3Axcl9rZVdIcnRUakZqYm05alY3dnFWa3Q5c1JONUVkbi1fOUFxYkx5SjlpMUhkc2R3RG1Fb1czMW10TTcw?oc=5)
-
----
-
-### [Vitamin-D-Mangel + Adipositas: Sterberisiko steigt um 123%](https://news.google.com/rss/articles/CBMisAFBVV95cUxON2M5djB0SFhlZTIzeUZ0TFQ0SE54bHc3RWZOQ1ZoM0xuUlloMWF4N1hldW5zaWhack5JNzNJTFh3NldBSTg0bHUyUF9PRlpTcDRZcU5DNEhrS0tYaVcxZ2RkSWp6VWRaRkFKR3hiclZqTjB1TTFWaEFpTkFJbldjeUhGcDhqYTh0RFBxOU5wUWpxU0YtbkM3alNGc1U3c1l2Njc0aG40Q2xFSUMzNWZIcA?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxON2M5djB0SFhlZTIzeUZ0TFQ0SE54bHc3RWZOQ1ZoM0xuUlloMWF4N1hldW5zaWhack5JNzNJTFh3NldBSTg0bHUyUF9PRlpTcDRZcU5DNEhrS0tYaVcxZ2RkSWp6VWRaRkFKR3hiclZqTjB1TTFWaEFpTkFJbldjeUhGcDhqYTh0RFBxOU5wUWpxU0YtbkM3alNGc1U3c1l2Njc0aG40Q2xFSUMzNWZIcA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（19 則）
 
-### [Krafttraining gegen Hypertonie: 44% weniger Herzinfarkte bei Frauen](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
-2026-08-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/amlodipine/
 2026-08-22 <span class="news-indication-tag">cancer</span>
 
 來源：[ITVX](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmhBZWRzZ2RuNlhDbVVFdXhiOEUwLTJ5ejdfYmljTU54RHpUWmpkLV8tMXUwendqQUp3M0wzY0ZjWnNQM0hacXFXSDIwOVpDYU1fcEJFRWY0T3l3clcwOFFYVDlZUElyNEpGUjNLVkhpR19VcXozamRvUVB5T0RNNUlaSVM0SDd5eGlLbDlVbi1XUjVrVUpKTTZJRExGdVN5S2gydEw5RW9FMHA4djdESUln?oc=5)
+
+---
+
+### [Concetta d’Alessandro, dermatóloga, sobre las manchas en verano: “Aunque solemos asociarlas al envejecimiento, son una manifestación visible del daño solar crónico. La piel tiene memoria” - La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUTJhZmlSZDI0d3ZDN0p3b2hVZWZQbHNqVlJnQTRrY3NZNUZ6X2pnaE93aVJqNHltelNBZDZtRElWN1NNSFVaU1VBNFg1VjdjQnhxcm9rRVBRTWQ5TTNOUEhnbzlUdkxFWllabmpqUEJrano1a29oVVp6Y1ZZc3dkZ080U1FaZ3JSMWlVbExmX1dLRUhIUnhFS0N1M2xlR2Y1MTU0OUlpaFJnM3ExZmh1dVZ5b04yN21EeXQ2SjZUcGNtZ1dhbnFQS1ZuUHRUM1JhVXVOVUQ2eEFKcFFkUVo1bUpIRm5rSGdRbUh6LTVtN1daYVZ3Qm44bjNjZk9xYnkxS2ZNRDhfTE82Ui0wcjFZWGQ5ZFhlTFY0aE0tMk5hOHZMbEs4V2gwQ21nbmtzN1lUZElfbWJ5WTJkZWtBSWgtNTVmd9IByAJBVV95cUxPT0hXQjhNMDVwX2U2ekVxYUxXWnB5NFJfWVRSNHVqTzk1UWpMcW5hX3JtQzJDLVdRQ3ptMkExbVdJMzFId0hBcGNaVTRfR0lUVUR0TFRVTlZvMmhuQUs0aVVrMmZ0M1lYQUZzemJ5cTVaV3VHVkVsMHRHYW55WHVWUkJKR0pBRU5PZXRiWDZickQ4MjRxX0tvOGphdWR5aG1vdVpHNFRwX0VKVmdtTmdNb2NrM2NPNmF4aHpwa3hmczBWbHpabUZPdGNpSi1tQmZ3X1RYMmNxVzZpbi1WZzVRYjQ1WGZQYU5vRHU2VWFOc0E2WjM5M2hWX3E1UE9mMUtCTHNQX0tJeU1nM2NkWVFkR0RXdHNqa2lWdFd4UHdCYzBDWDRUdmtPZlpwSjZEeldqSWNzWDVhSF94N2loOUJmMUt0S3l3TU5W?oc=5)
+
+2026-08-22 <span class="news-drug-tag">Amlodipine</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUTJhZmlSZDI0d3ZDN0p3b2hVZWZQbHNqVlJnQTRrY3NZNUZ6X2pnaE93aVJqNHltelNBZDZtRElWN1NNSFVaU1VBNFg1VjdjQnhxcm9rRVBRTWQ5TTNOUEhnbzlUdkxFWllabmpqUEJrano1a29oVVp6Y1ZZc3dkZ080U1FaZ3JSMWlVbExmX1dLRUhIUnhFS0N1M2xlR2Y1MTU0OUlpaFJnM3ExZmh1dVZ5b04yN21EeXQ2SjZUcGNtZ1dhbnFQS1ZuUHRUM1JhVXVOVUQ2eEFKcFFkUVo1bUpIRm5rSGdRbUh6LTVtN1daYVZ3Qm44bjNjZk9xYnkxS2ZNRDhfTE82Ui0wcjFZWGQ5ZFhlTFY0aE0tMk5hOHZMbEs4V2gwQ21nbmtzN1lUZElfbWJ5WTJkZWtBSWgtNTVmd9IByAJBVV95cUxPT0hXQjhNMDVwX2U2ekVxYUxXWnB5NFJfWVRSNHVqTzk1UWpMcW5hX3JtQzJDLVdRQ3ptMkExbVdJMzFId0hBcGNaVTRfR0lUVUR0TFRVTlZvMmhuQUs0aVVrMmZ0M1lYQUZzemJ5cTVaV3VHVkVsMHRHYW55WHVWUkJKR0pBRU5PZXRiWDZickQ4MjRxX0tvOGphdWR5aG1vdVpHNFRwX0VKVmdtTmdNb2NrM2NPNmF4aHpwa3hmczBWbHpabUZPdGNpSi1tQmZ3X1RYMmNxVzZpbi1WZzVRYjQ1WGZQYU5vRHU2VWFOc0E2WjM5M2hWX3E1UE9mMUtCTHNQX0tJeU1nM2NkWVFkR0RXdHNqa2lWdFd4UHdCYzBDWDRUdmtPZlpwSjZEeldqSWNzWDVhSF94N2loOUJmMUt0S3l3TU5W?oc=5)
 
 ---
 
@@ -86,6 +94,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Dundee gran's pain was put down to a bruised rib – then she was diagnosed with lung cancer - The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">cancer</span>
+
+來源：[The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
+
+---
+
 ### [L'ondata estiva di norovirus e come distinguere la gastroenterite virale da un colpo di calore o una congestione](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQTJCUDJXSnVwVThsQXBaNkd1SXZDMi1NeVN0dVFxTFNJQ2JiNURDdjhheVlXVzV1N0tfRnpYT3E1ejhpSXZxanpLaVIyVjNhdU85SC03Um5nUl9xS1VqR0JWT1B5TFNUY1JzdlBfcDlzR2dwM3RTUUF3a2VPY25nVURYUTFOMFE0czJrOWpYOWJaa053bGg3WGwxUk5UQmIwc0hNUkVqU2F4Rk9HQ0V4TVpMX1otRkNpSThIVmhDQ0pEUWwydnZWR1RxYUc4aFFaR1AxRWx5Wkl0SEZCcElmOTBjX2FxTkJSU2NEb0lGRQ?oc=5)
 
 2026-08-22 <span class="news-drug-tag">Amlodipine</span>
@@ -94,11 +110,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
+### [Vergiss Joggen: Zwei Minuten Wandsitz haben diese ungeahnten Auswirkungen auf den Körper – laut Studien](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGt1ZVZNVGJFOVN5Z1VIWnV2TEhtNFBFZkJhaGJ0SzNCbGV1RGJidWxOSENFUW9LZmNjNXlQdXgxQlNSeXZGQXpWZl9PajRxeFlqZHFIaEVyeXFjVHFjSDAxbTQtMXAwN3hWYkJjZm5ENENRYWZkTmJFOWV4aUd1Y19YenJQdHd5a0tGaVhxemh5UkFvX3o3d3pWdjdXZmdaejdKNjlSZVJTVE52Vjg2ZUtJZW9KZy1VT1NZNldPcGk5OUdwTEN6T1dlTHByQQ?oc=5)
 
-2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+2026-08-21 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
+來源：[wmn.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGt1ZVZNVGJFOVN5Z1VIWnV2TEhtNFBFZkJhaGJ0SzNCbGV1RGJidWxOSENFUW9LZmNjNXlQdXgxQlNSeXZGQXpWZl9PajRxeFlqZHFIaEVyeXFjVHFjSDAxbTQtMXAwN3hWYkJjZm5ENENRYWZkTmJFOWV4aUd1Y19YenJQdHd5a0tGaVhxemh5UkFvX3o3d3pWdjdXZmdaejdKNjlSZVJTVE52Vjg2ZUtJZW9KZy1VT1NZNldPcGk5OUdwTEN6T1dlTHByQQ?oc=5)
 
 ---
 
@@ -106,7 +122,7 @@ permalink: /news/amlodipine/
 
 2026-08-21 <span class="news-indication-tag">tumor</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/cariprazine-hydrochloride/
 
 ## 相關新聞（14 則）
 
+### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
+
+---
+
 ### [Ebola, la corsa al vaccino: potrebbe essere pronto entro fine anno](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2VSZDFFbTh4UTRmWm9jTHpNMHRIdWJ0Zkl6MEFFeXIwQ3F4eThiX0ZLUHlVQTYwSTF4Y1hDT3FvMGIwOHc1U01vRjlSM1cwZ2V3bTcyeVdKaTBTdGdKVnlFUkUxeThBQ0s0NExHZTloUWE4Q2QweWRHaG5rSXNPX29XaHU4N051a3FabHpiSTdyS2E3OFktVW5tS0NlUmQ1YVE2QmpabWVkekZsYTB5RHBlZVpQWmFHamRZZTBfbEk?oc=5)
 
 2026-08-22 <span class="news-indication-tag">MS</span>
@@ -67,6 +75,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-08-22 <span class="news-indication-tag">MS</span>
 
 來源：[Redacción médica](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTFXNEo2U1VfZlhaaXRtVEVFeDdkT0x6Skt2WXliRXY3MVBfR0lOeVcwbEl2U0tuRE9IQm02aUlUUGNkeWdGQkdFVHFBamNNelA4RmRnMlJ3WFZzVEJ6bGU2YVNBZ3BtcC1sUFFoWmpEY2xVRTZlMjRhWjZDdlZ5N2kwczdhN0wySktnd1FreDZjb1prRUFPZk5yd1dUU0N3U3R4VzhaR25Ub0I0elg2d1EwV3hFazZ2X3gxRTlxU0Jjekh6djE4cGdPRWlIckV4VVZnOENORWlZSG54MUhMaXVCN0RvazdXOXlIMjhn0gHzAUFVX3lxTE5QdWliN1dnLU5TeHZWTncxLUNxSjg2M3diTTA4bnJHMEdaYmJKRXNPSmpPQ1ZQMnNtMUdDLWVkNy1PVmpFLWdSTkFPOGN2UzNfeVFocHNCekI1TkJsVjVObEVSM0UtWFNnVjRNUjByNVFxc3MzNnBxbk5HVmRwYU54cmNyaWw2c2RjZjBOeEliWTc4Sk5mOG1Bb2FFRllZZ2tHajg2WEc5ZDFCeU5LMWppY215NjZVZ3dBX2FxWGVaS3R3UFNIYlVyLWJyRGkwTkI5bVEtV0s0eEdzOW40cGpqOWVVY0tXZHdXOFo1bUJNS1ZzNA?oc=5)
+
+---
+
+### [Troubles cognitifs, épuisement... Qu'est-ce que le "syndrome de fatigue chronique" désormais reconnu par l'Assurance maladie ?](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQODRIRzNuWFVJaHc4aFdmQTBodHpRb1Y2eS03MGQtX04wLVlxMk1UTmh3SkNhUEotNmtlNlVSMllNUE81YmJGWWJUcVQ1Ylg4Q1NQT0RHWHZfYjBLalRFOGNJZzR6ajRZcVRjYUlZeHFkTk5qS3V4ZV81YVlWdjM1TlVTeEFST0ZOWjh3bDNlRXdRbUhWS0xlMTJCdE1kd0FSNF9xNDVsWVBiUkc1RFlWMGlBMGE4ejBzWkdGZnNmYnJyNUVEWmFURGNnOWRBRl9ZeE5pQmNPYjE5dnhsbnN1Wm13OV9LZUhLNXh0S3RRNWs?oc=5)
+
+2026-08-22 <span class="news-indication-tag">MS</span>
+
+來源：[RTL](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQODRIRzNuWFVJaHc4aFdmQTBodHpRb1Y2eS03MGQtX04wLVlxMk1UTmh3SkNhUEotNmtlNlVSMllNUE81YmJGWWJUcVQ1Ylg4Q1NQT0RHWHZfYjBLalRFOGNJZzR6ajRZcVRjYUlZeHFkTk5qS3V4ZV81YVlWdjM1TlVTeEFST0ZOWjh3bDNlRXdRbUhWS0xlMTJCdE1kd0FSNF9xNDVsWVBiUkc1RFlWMGlBMGE4ejBzWkdGZnNmYnJyNUVEWmFURGNnOWRBRl9ZeE5pQmNPYjE5dnhsbnN1Wm13OV9LZUhLNXh0S3RRNWs?oc=5)
 
 ---
 
@@ -94,14 +110,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
-
----
-
 ### [Età biologica: possiamo davvero sapere se stiamo invecchiando più lentamente?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEFiNmxKS19oUTIweVdGb2lIcnFDYkRxSHpPanJRaUNkSGhEN0RQT0tKZWNIZmpoTnBnVHV5bjhnRWFSdHdnSzAxSjNaTHJBN2hnRkVlR19UTGdzM2ZOZkd6Wl9JTjRlUERTNk5UeVhrLThzbHlaQlNNVEJjdE5EMGs4MldvYWtCTkZRVnZHbVVMNmJfaGRJTVRSVFFZODZwNWx0N3UtdzBXUU8xZk93Q0wwVjIwYlR1Q1hDLVA2djN1ZGxZZWFkcl9FWms5bHlR?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
@@ -110,11 +118,27 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Menopause can lead to suicidal thoughts — my mum took her own life - The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
+### [“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
+
+---
+
+### [Menopause can lead to suicidal thoughts — my mum took her own life - The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
+
+2026-08-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
 來源：[The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
+
+---
+
+### [Treppensteigen: Ab wann das Risiko für Herzkrankheiten und Tod sinken könnte](https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1RZRExvb0xMRWtCVGlkX0R3RC1PSVhaWVlvRXdocXZhd1YzOFBsYzVYUnQ2bnRLc1dabkhJTW4xTlJhTTN6bzAwaUZWc0UtUjJ6T294a3J5ZkVsTDRCTG9nRGl3b3hNdDExUy1obW5kWlp1elBDTVd4TVRlV19fVXhoaEwzdzNiQkl4c2x4NHBZalZ6NjBhci10WFpEODQ?oc=5)
+
+2026-08-21 <span class="news-indication-tag">MS</span>
+
+來源：[vienna.at](https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1RZRExvb0xMRWtCVGlkX0R3RC1PSVhaWVlvRXdocXZhd1YzOFBsYzVYUnQ2bnRLc1dabkhJTW4xTlJhTTN6bzAwaUZWc0UtUjJ6T294a3J5ZkVsTDRCTG9nRGl3b3hNdDExUy1obW5kWlp1elBDTVd4TVRlV19fVXhoaEwzdzNiQkl4c2x4NHBZalZ6NjBhci10WFpEODQ?oc=5)
 
 ---
 
@@ -139,30 +163,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-08-21 <span class="news-indication-tag">MS</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmZjSmc2N3VjTU5YTEptOV9UX1AzUDlOQm1FQkJsSE1rR2lUdDdmWW4tRGdkWjBHSFBaeFJKWllzTjY4b0VadF81RlNCWGd5Z1pZRTAzTDA3eGlvdUdqUE9wcE5rRTdzSmJCbk5fMG9sZWxtZzFNX3ctaUhISV9hcjNFV19xcVUyR2ZuRjdudk1HbUpzaEM0Zm93ekwydzZ3cjgtaVRYX1N1cDZadDlpblMtVUkxOTM2dk9N?oc=5)
-
----
-
-### [Geringere Lebenserwartung? Wie lange man in der Regel mit Multiple Sklerose lebt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS2Z2VVp2d1l4LUoxMGdESi13SFJaZFVVVTRxd2FoZGxWb3UwelRXMnhFTWJXNTlWXzQwLVRCR0hzRHlkMkphV0FlTzBqVF9SdGVFOVltaG9nS2o5Z1NpQWluRkZXS0tWa1BHMmE5eGVXRjJCcE5fTGU2OEJpMGY0ekEyNmhjYWdYV0xVMmdKZGZFbk9HS1NmZEpCUnYxdXNDZW5NY3hSb2JMNFg5NHN1ZnpycmJoMVN2bFlVcmdpdzRmUU1PdmhnOWFGRUdnbFRHV3A0dzN0cjdQYWN5RGZkanY1WnFpakx4UDZRWmk1OER0VEg1bHljTg?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[CHIP](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS2Z2VVp2d1l4LUoxMGdESi13SFJaZFVVVTRxd2FoZGxWb3UwelRXMnhFTWJXNTlWXzQwLVRCR0hzRHlkMkphV0FlTzBqVF9SdGVFOVltaG9nS2o5Z1NpQWluRkZXS0tWa1BHMmE5eGVXRjJCcE5fTGU2OEJpMGY0ekEyNmhjYWdYV0xVMmdKZGZFbk9HS1NmZEpCUnYxdXNDZW5NY3hSb2JMNFg5NHN1ZnpycmJoMVN2bFlVcmdpdzRmUU1PdmhnOWFGRUdnbFRHV3A0dzN0cjdQYWN5RGZkanY1WnFpakx4UDZRWmk1OER0VEg1bHljTg?oc=5)
-
----
-
-### [« Parkinson, sclérose en plaques, Charcot : il n’y a pas de pandémie de maladies neurodégénératives » - Pour la Science](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQk83dEhiRWdsZ1Z3NTdIZ0VnZ2hYSDM0bndGdWY5LUJzNVgtLUhtSWh0UFh3TzNJelBWWWRPTGZ4VEg5YUxOLXRWd25mQ21KMVpSQVZPYnI5ZmF1MU8tTUFXZ1g1NFlZaTBNWHEyWjd2UllrZTVGcWQzbUtVU3p1SG9MS21wNGhlSWstRmEtcUJxckY3dVZfRzltMnk4VTBBUWxlSXd5c1ZhbkRmS3FNRjZobjhZdWJQM1NjeU81amVRdXpYYTR4SF8xU01nZV8zUWZBLTY4S2ROTGNsdExBREJidw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[Pour la Science](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQk83dEhiRWdsZ1Z3NTdIZ0VnZ2hYSDM0bndGdWY5LUJzNVgtLUhtSWh0UFh3TzNJelBWWWRPTGZ4VEg5YUxOLXRWd25mQ21KMVpSQVZPYnI5ZmF1MU8tTUFXZ1g1NFlZaTBNWHEyWjd2UllrZTVGcWQzbUtVU3p1SG9MS21wNGhlSWstRmEtcUJxckY3dVZfRzltMnk4VTBBUWxlSXd5c1ZhbkRmS3FNRjZobjhZdWJQM1NjeU81amVRdXpYYTR4SF8xU01nZV8zUWZBLTY4S2ROTGNsdExBREJidw?oc=5)
-
----
-
-### [Sechs Etagen am Tag: Wie der Stockwerk-Zähler von Samsung Galaxy Watch, Apple Watch und Co. eurer Gesundheit hilft](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[Netzwelt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFVZeHY1dE1hVHZZQVc0b29QNlNDRkZkNzA1WnlKaDFJTUk1TkNRY0M2S1pSaFQ2V192VXNLYlI4V1ZrTTRucjZjTFlyMDc0TVJCYURhWHFRWjhaRVpvSGd4WnI1ZmhzaVY2Z1VueXZRblBqX0NRRk42LWdCOWpJaXVsT2FfeXdMcGJYYzV5NkVTOE5MYXd5MGQxQ1hYX3FfU0xTb09iaWxwTlllTkJwYnZnVlVFd0ZQUVkxY0NnSjBhbEd6SXY3TGtYSHJXRHM?oc=5)
 
 ---
 
