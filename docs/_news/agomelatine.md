@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Daily vitamin B6 pill could ease depression within a month - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1Rzd0puY1VucWpVbjVsU05YX3Nhc2ZDSVB0aVljQUlWVV80VzBLQndkS0djZGpQMnJfbnhLdVpkMUVHQWEtNnBTd0J2TWhIRUlJRjRYZUdyOGFnUDB6dnlrczZmODJTRTJTajB2bEItQVp6dFlhNGE1LU5wZzBrdnVRak9pTzM4TGdnSEM1SQ?oc=5)
+
+2026-08-22 <span class="news-indication-tag">depression</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1Rzd0puY1VucWpVbjVsU05YX3Nhc2ZDSVB0aVljQUlWVV80VzBLQndkS0djZGpQMnJfbnhLdVpkMUVHQWEtNnBTd0J2TWhIRUlJRjRYZUdyOGFnUDB6dnlrczZmODJTRTJTajB2bEItQVp6dFlhNGE1LU5wZzBrdnVRak9pTzM4TGdnSEM1SQ?oc=5)
+
+---
 
 ### [Si on mangeait ce que consomment les Grecs tous les jours, on baisserait de 33% le risque de faire une dépression](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTNvTWdDbmNOSFZIcnVjSWtsSFRCMUhkcERqYnpHSnJ6NXk1a3NvMmlhX2RaMzZaeTU1andiT0NqRVJxN0RYTERfRk1ELTFUZXZFYVllNG5QSzNjcGpyLUtXZlo4cFgtRUtCV1RjWXBSaHg0MlgyR1VITWN5aHFRYzl0alZ6b1dqZi0wNjhLUjVUZnhvT01Mb0hfSS1weE9ndnFuUmRWdUMydDBoR0dZd2ZPZEdmLUQ1X2VEMkN1aUNHbUc1OUdFYk9tNEdfakMy?oc=5)
 

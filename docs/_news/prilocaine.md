@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（27 則）
+
+### [Krafttraining gegen Hypertonie: 44% weniger Herzinfarkte bei Frauen](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
+
+2026-08-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
+
+---
+
+### [Raquel Oliva Sánchez, ginecóloga, sobre el ciclo en verano: “Si el ciclo se alarga o se acorta por el calor, probablemente ocurre por una asociación” - La Vanguardia](https://news.google.com/rss/articles/CBMikAJBVV95cUxQc29EbHhlQ09Mbi1oamtGa1FiZU4yblRMWUVxUXZKUkFKbE5ka3NrMW44T1RIMHJydDBnbXVWdS1uMzhtQWlfYXhCZ0o0LWJjOXMzR2dvUEVNT01RbnlHbmg3MEdXdVFwSmJFalVUQkttaG9hVlFZdS1NMWh3bVNsR2VGR0d0cGdCdUlCbUJBNTU4VkpaUUthTjNyX2N4ZUNMeHJpSGRiWlY2TkRTQV9jblJYVkdBWmNucWVKOEJJaHI4VnQ3X2pCdE5uT1ljdUp6T2g2eEw4T2VRWUJwOUJHeXR4SkR6cFZsa3VfRmlZSUpFQURDbTA0VkdvQm96bHpYSTBSYlFRdGJxNUdHWlE1U9IBlgJBVV95cUxOSDhVeUJRbnlLblIwQy1FX2doZllQdHFER1FhTDV6X3pnWGN1eXFGemhLYUEyd0xjUmROaTA3ZnVLdl9yZEJXV1F2cEljb3VHNmlJSzdDVmdzc1M5UndwalNjeVdzLXlITkxHR2E4Sm1SeVFTRW1kWDItQVF6eXJiRVNwME50X2lYYWk4cG0tRk00MzA1clZ2TjNfaGxwMGlUbzFDdjIwMS1ndkVCblRiSHhySDRZWjItRi1pZEVUZGJoY0hVaGRhWmNlaEEtUXhLbXVENXZyQmdlYUJQaHhKZlkzck5rU1RVMFl4a1U2YkhfTE9JQlJpdXJDWHhxbURWUW8zY0RaRG1rbXdyZndRLTVFeHV3Zw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMikAJBVV95cUxQc29EbHhlQ09Mbi1oamtGa1FiZU4yblRMWUVxUXZKUkFKbE5ka3NrMW44T1RIMHJydDBnbXVWdS1uMzhtQWlfYXhCZ0o0LWJjOXMzR2dvUEVNT01RbnlHbmg3MEdXdVFwSmJFalVUQkttaG9hVlFZdS1NMWh3bVNsR2VGR0d0cGdCdUlCbUJBNTU4VkpaUUthTjNyX2N4ZUNMeHJpSGRiWlY2TkRTQV9jblJYVkdBWmNucWVKOEJJaHI4VnQ3X2pCdE5uT1ljdUp6T2g2eEw4T2VRWUJwOUJHeXR4SkR6cFZsa3VfRmlZSUpFQURDbTA0VkdvQm96bHpYSTBSYlFRdGJxNUdHWlE1U9IBlgJBVV95cUxOSDhVeUJRbnlLblIwQy1FX2doZllQdHFER1FhTDV6X3pnWGN1eXFGemhLYUEyd0xjUmROaTA3ZnVLdl9yZEJXV1F2cEljb3VHNmlJSzdDVmdzc1M5UndwalNjeVdzLXlITkxHR2E4Sm1SeVFTRW1kWDItQVF6eXJiRVNwME50X2lYYWk4cG0tRk00MzA1clZ2TjNfaGxwMGlUbzFDdjIwMS1ndkVCblRiSHhySDRZWjItRi1pZEVUZGJoY0hVaGRhWmNlaEEtUXhLbXVENXZyQmdlYUJQaHhKZlkzck5rU1RVMFl4a1U2YkhfTE9JQlJpdXJDWHhxbURWUW8zY0RaRG1rbXdyZndRLTVFeHV3Zw?oc=5)
+
+---
+
+### [Aumenta el número de personas que recurren a las inyecciones para adelgazar, mientras que la ciencia busca alternativas](https://news.google.com/rss/articles/CBMihgJBVV95cUxNejE0d2tVSFh1cHhmMmNoLUxZdk5QLUhmU2g3Z0xwZ2N0UC1udXdJb0hvVVdRUm5UcW8tRy1sZnNoZjMtUzdLcmxPc1htRU9SNjhxRVV4OGlWb1lGSmRaUV9aRWNlVEJwSVNYZmlvc1FNajBsMkNKLWNwSl9ETU1ycDhMck1CNk5Bb3dIYzlTNHFfNFhEcUpSRVV5TEpYNHd1NnFacE9UTTBwalJSckZqMmVoMGZOVWxVVXRMX29TNnMzMHR2VU5PeGt6NS1FT1VncWVlaDhGN2ljWmE0TVdiZ1ZMZC1hZy1ZY185b25wSzNoNEh2a2pGTnhBdmdYOU0wZVEwU1pR0gGGAkFVX3lxTE9RelJKYXVuYzBxdHlKeGJVd3RqeW1hbFdMZlg2ZkRMcll5dTNqV2FoM1AwS1VRdmJfVUlZZmxfcDZhWUVxZExCTjRDOUdrcTNjZnJHR3FQU1c5a0VHYy1sRmxqaEpzam1aYjlCLVdkZXlvLV82SUNKYmFmc2JJWUlyNi1pTXlfX0ZKazdhazlCTHVBN0RHclVXOHVNVk1lWk9ZU2stbjcwTTVVUkZ4cmJaUWYyQkxHcWJ0b0YyekpGSk1JU0RyQ3dRS3pfeGVVM3pCeGJKd1lxTWs0cWdmR1BSeFAwcm1MRElqSjk0enRYNkJIYkxmaHJRcEZXQzZhYUpyRmhWd1E?oc=5)
+
+2026-08-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
+
+來源：[antena3.com](https://news.google.com/rss/articles/CBMihgJBVV95cUxNejE0d2tVSFh1cHhmMmNoLUxZdk5QLUhmU2g3Z0xwZ2N0UC1udXdJb0hvVVdRUm5UcW8tRy1sZnNoZjMtUzdLcmxPc1htRU9SNjhxRVV4OGlWb1lGSmRaUV9aRWNlVEJwSVNYZmlvc1FNajBsMkNKLWNwSl9ETU1ycDhMck1CNk5Bb3dIYzlTNHFfNFhEcUpSRVV5TEpYNHd1NnFacE9UTTBwalJSckZqMmVoMGZOVWxVVXRMX29TNnMzMHR2VU5PeGt6NS1FT1VncWVlaDhGN2ljWmE0TVdiZ1ZMZC1hZy1ZY185b25wSzNoNEh2a2pGTnhBdmdYOU0wZVEwU1pR0gGGAkFVX3lxTE9RelJKYXVuYzBxdHlKeGJVd3RqeW1hbFdMZlg2ZkRMcll5dTNqV2FoM1AwS1VRdmJfVUlZZmxfcDZhWUVxZExCTjRDOUdrcTNjZnJHR3FQU1c5a0VHYy1sRmxqaEpzam1aYjlCLVdkZXlvLV82SUNKYmFmc2JJWUlyNi1pTXlfX0ZKazdhazlCTHVBN0RHclVXOHVNVk1lWk9ZU2stbjcwTTVVUkZ4cmJaUWYyQkxHcWJ0b0YyekpGSk1JU0RyQ3dRS3pfeGVVM3pCeGJKd1lxTWs0cWdmR1BSeFAwcm1MRElqSjk0enRYNkJIYkxmaHJRcEZXQzZhYUpyRmhWd1E?oc=5)
+
+---
 
 ### [„Das Gehirn beginnt zu erschlaffen“: Sechs Alltagsfehler, die das Gehirn vorzeitig altern lassen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcENPZjY2aHZ5d3paTm5aVmpVQUMtY3VreHI3LTZ5aEVEZWlBSHFQQTFwREVpT0t3cEIxaU56aF81MFhmRjV0aXRVT2h1OFBzSl9NQVRFSzVjeUVoaUVqaUVEQkVqdklIckJEN0FzeFV2LWRZRWNsUmdGNndLMUw3TEh4WFZQelJmaUlXSnlXRWlXSWliMzdueEl6Y1d5d0NjdFpvZHVmRQ?oc=5)
 
@@ -67,22 +91,6 @@ permalink: /news/prilocaine/
 2026-08-22 <span class="news-indication-tag">AF</span>
 
 來源：[taz.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXJVaXhQOVMwVGd0SUczbmtTZTJud3BidmtyWEU1SHo4eWprbXl1aXRwMkVxdWpDSU05emNVbHA3YWdLbXFiWW5KNGt3VGVlSWNYb2prZ2MtblFTWlJWYzdWa21SN0syRDlySWNkOUI2aWEyMGlDdUpRRnJIaHNvSUtxTDhyVkhUX3V1Ui1ObFR6UkQt?oc=5)
-
----
-
-### [El futuro competidor de Ozempic que promete quemar grasa sin perder músculo - Redacción médica](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUlESjk0cV9Zd0laaVNvb3hiNXllZjhHRUVjdW0tYlowNnFzbUNLYXFiSlItT2FndU1BX09yWklqaFg3T2FMLTR3TmRCOWpXVldYT29YeFFzZGoxN0tmVlo2ZXdQVXJiY25mSFRKeHdKdlNjZHhaVTZMSjNqTUw2LU9IZVVXN05YYjJBdDE2bXp1S1Ywd2dPbFpGV2ZldnJSazFSY19QRkVDYVpOU1RaVFdmcXQ2aERwZWZXNEZ6Mm5IaVVZNWY3S3YzTmg2c1FBUndkN2p0LUbSAd4BQVVfeXFMTmM2dUdCdWkxdTFMTkJXWDNZSVJYa2pFend6SXFJNHhoWFJoT3pLVVZVdU5sYTZzQ0hTWHg3V2hxd0I3LTlwMEItNUJKTDFmTTNtM3NNbHZ6TWZTNGQ4OUJGZUE0Y1UzamhzRktIYkN1VVA4TXV1dVhHb0lSTmhLbktGLUpPVlRPbTBxRUNOZk5ES1VNaTFMd0ZjZlpVVzUxaUo2V2JraWtnWXctTDlkZDNfY01HbXdkanZpNVAyZ1FvTGRsSFA3VWhvakJ0Qy1GSk9wOVA0NWJrY3RwZm5n?oc=5)
-
-2026-08-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUlESjk0cV9Zd0laaVNvb3hiNXllZjhHRUVjdW0tYlowNnFzbUNLYXFiSlItT2FndU1BX09yWklqaFg3T2FMLTR3TmRCOWpXVldYT29YeFFzZGoxN0tmVlo2ZXdQVXJiY25mSFRKeHdKdlNjZHhaVTZMSjNqTUw2LU9IZVVXN05YYjJBdDE2bXp1S1Ywd2dPbFpGV2ZldnJSazFSY19QRkVDYVpOU1RaVFdmcXQ2aERwZWZXNEZ6Mm5IaVVZNWY3S3YzTmg2c1FBUndkN2p0LUbSAd4BQVVfeXFMTmM2dUdCdWkxdTFMTkJXWDNZSVJYa2pFend6SXFJNHhoWFJoT3pLVVZVdU5sYTZzQ0hTWHg3V2hxd0I3LTlwMEItNUJKTDFmTTNtM3NNbHZ6TWZTNGQ4OUJGZUE0Y1UzamhzRktIYkN1VVA4TXV1dVhHb0lSTmhLbktGLUpPVlRPbTBxRUNOZk5ES1VNaTFMd0ZjZlpVVzUxaUo2V2JraWtnWXctTDlkZDNfY01HbXdkanZpNVAyZ1FvTGRsSFA3VWhvakJ0Qy1GSk9wOVA0NWJrY3RwZm5n?oc=5)
-
----
-
-### ["Le gris absorbe l'énergie, c'est une couleur fatigante" : comment votre intérieur peut affecter votre bien-être - La Libre.be](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYVhfQUJ1bkhrRFpGWnlGM1l0elE0N0ZhMWthRW9QTTBIaHpGbzNTeHh1cmhhOU5DbV96MEMzZm5BRnI3UW9rR1VyYVZLOTRXb0d2SW00d2IxbnRfcS0xMVBLd2ppdkZ6Nm9KM0w4RHRtOEJUekU5bnJ4aHpIeTZVd2w4cmlFZWdNZ093akw5a1JQcmF3a2hOVE9Qa19IaU9DelEyQXMxMFNSNGVlNnJXX2U5MDdBc2J2eUFMTVhRbWY5TUVEejV5T29QbVpkV2ZLY2cydnF1MzlVRVMwLXRhVkRsc3dXSE1kRzN0a1FUQ3RISXIza1RpQ2ZhcDBpNlluU2VJTDByZG01WGlvVVE?oc=5)
-
-2026-08-22 <span class="news-indication-tag">AF</span>
-
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYVhfQUJ1bkhrRFpGWnlGM1l0elE0N0ZhMWthRW9QTTBIaHpGbzNTeHh1cmhhOU5DbV96MEMzZm5BRnI3UW9rR1VyYVZLOTRXb0d2SW00d2IxbnRfcS0xMVBLd2ppdkZ6Nm9KM0w4RHRtOEJUekU5bnJ4aHpIeTZVd2w4cmlFZWdNZ093akw5a1JQcmF3a2hOVE9Qa19IaU9DelEyQXMxMFNSNGVlNnJXX2U5MDdBc2J2eUFMTVhRbWY5TUVEejV5T29QbVpkV2ZLY2cydnF1MzlVRVMwLXRhVkRsc3dXSE1kRzN0a1FUQ3RISXIza1RpQ2ZhcDBpNlluU2VJTDByZG01WGlvVVE?oc=5)
 
 ---
 
@@ -118,6 +126,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Doctors missed by small baby's 2kg tumour six times, then it spread](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
+
+2026-08-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
+
+---
+
 ### [Affetto da deformità vertebrale per una forma gravissima di scoliosi, 12enne operato all'Aoum con una tecnica innovativa mini-invasiva](https://news.google.com/rss/articles/CBMihAJBVV95cUxORXhadVIycUt3WWgyNEJUTnJ0QUpWcXVhRzJQcUZUX3JhUzJzazctQk03djVlaEJVUzBuVFBnbERTVjMxUjlFTEk0dEJQSVBvMHVzMExobFFQcHZZWmR6WVNZN3M1V3FzUXhnSGlwV3l1R1Z2Y1FYbVJZVUdlN3FjdENuS3ZNWjNyLUp4X2otZ2hrelQtN1p2Sm80V0RSM3lDM2hXUlRMcno4TlhMZ2ZKNkNEbTg3OGNDMDRuTE9CUFdUV2RuZUtxR1k0bHlQRkdubnBVcjdFZFl2dElzSjY3c2VHY1cwZ0gxTFZXRXhUVWlUZGhMWE95MXNJYkxYRXQ3bjBMUw?oc=5)
 
 2026-08-22 <span class="news-indication-tag">AF</span>
@@ -131,6 +147,14 @@ permalink: /news/prilocaine/
 2026-08-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1B4eEs0aE02WTdDbV9LTzl2dU1fUlQxN2xuWE41bTJYSnRwcHMyT1F3dnh4OWp6bUpocXJ3T01HbnNNUHpnVGdyNldYR3U2WTNqOUpWYTdhb2dSYks5Mlp3eGVFc3dSeDZjZmpHY0ZhalJFaTVlUnVVQTVRVjVVanVnelMzb1BTVVFOWmVxeFZ3ZFE3YnNFdHhfNmpSTVJ3RmZpSEdadkVxVWxKRGpGdTBKZ3VPZw?oc=5)
+
+---
+
+### [Children ‘must not eat runny eggs’ amid salmonella outbreak - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUFlSXNaR2I1Rm5uTE8wZjV6RnBQUXlFWlc0cklIdXBqZGVmeGJkdjA4aF80TkwtRjJXRzVMX3NTNmFhd0pxVnZuZ0hubE0yTGd5TE9FYjEwRkRkVDl1V0xFanhKdTNjakRXRHlTWmQwYkNHU3ZidjFzTGFzS2QzZmM2bXRqTnpoUVFldnhidkVVMjBKampnQ28wclFTWTZTM3c?oc=5)
+
+2026-08-21 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUFlSXNaR2I1Rm5uTE8wZjV6RnBQUXlFWlc0cklIdXBqZGVmeGJkdjA4aF80TkwtRjJXRzVMX3NTNmFhd0pxVnZuZ0hubE0yTGd5TE9FYjEwRkRkVDl1V0xFanhKdTNjakRXRHlTWmQwYkNHU3ZidjFzTGFzS2QzZmM2bXRqTnpoUVFldnhidkVVMjBKampnQ28wclFTWTZTM3c?oc=5)
 
 ---
 
@@ -166,14 +190,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Salmonella outbreak: How to check if your eggs are safe to eat as new advice issued - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0kxNGtvbGZxekY0SFVNcUREQmtRa1ZTVkE1OFhHWXhsbDc2ai15QmtJa3pqUjY5My1oMlJzRERCOXo4ckE5eTIwRWlWU1NFY3YxQkdDVTZEcWszZ01ucnd6MHdnNHVEMDBBVkxDQjBGbXI3RWtrLXZVbG9GOVFtV0pZOU9TMWswUFJvdDF4b2JhOWdNTHhSdWFJZEVaZ01rbHpFQ1B2ZmhJZmQ0Yk16b0NlVQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0kxNGtvbGZxekY0SFVNcUREQmtRa1ZTVkE1OFhHWXhsbDc2ai15QmtJa3pqUjY5My1oMlJzRERCOXo4ckE5eTIwRWlWU1NFY3YxQkdDVTZEcWszZ01ucnd6MHdnNHVEMDBBVkxDQjBGbXI3RWtrLXZVbG9GOVFtV0pZOU9TMWswUFJvdDF4b2JhOWdNTHhSdWFJZEVaZ01rbHpFQ1B2ZmhJZmQ0Yk16b0NlVQ?oc=5)
-
----
-
 ### [Ebola vaccine trial to start in DR Congo as warning issued over speed of infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE10QkV6NDdyeHdEXzFNdU1PZzA4WTF3cjlpV2RSV3JHMlN3SjdYdk1qWmwxMktmS2RKRkwwWURIYUk0THlSS253aW5jSnp1YmJFN19DZ1VrS1ZKd0xh?oc=5)
 
 2026-08-21 <span class="news-indication-tag">AF</span>
@@ -206,11 +222,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### ['I don't want to leave my girls' - Mum's tragic diary entries after horrific NHS error - Daily Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zcm1YZElSLWRvb0wtWHVEcGR0TGRkVXg4Q1NjYnQ2ay1iQjNXYlRDNGlfUExhblAwaXgwTGZKR0lIZm9Jb0trcFpQbk9nazlKX0prdnI3QUEtcnYzOXBJSUVFMnhOUGtUbDgwdWhfaGF2ZWFINmM4R9IBfkFVX3lxTFBuOWNkN1NSLWdPekZ4dU9OaWVmTmRodS1mYkxXRVdpQk92NXk1RUxWWkEySXM0RGF5X2NaUG56dm1XSTAtR04xNVRGRFhEb3haWlc0Mjg0cTZkZ3hLa0NPWGFiM0NNUXlVSmxVU1NPU3dEbU1EZjlpTzk1ZjJvZw?oc=5)
+### [¿Cómo cambia la córnea tras un mes de ortoqueratología?](https://news.google.com/rss/articles/CBMigwFBVV95cUxNemtKRG5WbG55UkMzemdXMHdOclBqVHdKVU1pMUFFdE5tSVVUbUZrWHlwTDl3VWR5ZlpYdnl4eGYxZUtsNVlyRzRXU1R2MmhXV2xhY1dLTWs3WC03LXhHRy1acWxmRnZRVTltLXBqeVYzaGZmYmJGQU1XYWZlLWhJbENrYw?oc=5)
 
 2026-08-21 <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zcm1YZElSLWRvb0wtWHVEcGR0TGRkVXg4Q1NjYnQ2ay1iQjNXYlRDNGlfUExhblAwaXgwTGZKR0lIZm9Jb0trcFpQbk9nazlKX0prdnI3QUEtcnYzOXBJSUVFMnhOUGtUbDgwdWhfaGF2ZWFINmM4R9IBfkFVX3lxTFBuOWNkN1NSLWdPekZ4dU9OaWVmTmRodS1mYkxXRVdpQk92NXk1RUxWWkEySXM0RGF5X2NaUG56dm1XSTAtR04xNVRGRFhEb3haWlc0Mjg0cTZkZ3hLa0NPWGFiM0NNUXlVSmxVU1NPU3dEbU1EZjlpTzk1ZjJvZw?oc=5)
+來源：[Modaengafas.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNemtKRG5WbG55UkMzemdXMHdOclBqVHdKVU1pMUFFdE5tSVVUbUZrWHlwTDl3VWR5ZlpYdnl4eGYxZUtsNVlyRzRXU1R2MmhXV2xhY1dLTWs3WC03LXhHRy1acWxmRnZRVTltLXBqeVYzaGZmYmJGQU1XYWZlLWhJbENrYw?oc=5)
 
 ---
 
@@ -222,11 +238,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Studio finlandese: bere caffé abitualmente aumenta gli ormoni sessuali - Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2ZybF9LRnlFUXdjU05CZzJCUTNyUWNuY1hHVlc1TUV4bUtIVDJoOXhVX1UteHpLNFJNQnJXMl9TZTg4Ri1KSS1PZ1NxNWhkd3lpTzRlWWM2UUZEakh2aTV0ODlsaDRFbU9McGFRVzlzZWl6dkllSm5xVDNIczdDd1kxamJIbllxMHFj?oc=5)
+### ['My mum died in agony after bowel blunder during surgery' - Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1FZmZkdkdXTWhHWU1Zd1RNanlmaUlYYlgtQkthMWp4Vk1yZS10NVZiMG94SjdhZ01sc0xaSUIwVDlrYkszRG9ET2xyY1dFWS1oVVRBSlk4c1dFNzdSemZQeDVydldybHhfbGxUTEFqYjBLLU1hRThyRnQ4Wklwb0HSAYQBQVVfeXFMT213a3BtRHd6VUJXQ09MbnRmSVE2dlBjUzl4cmFXWmZENVgzTDItYjRoWGpLZlJmTHpZRzdCaVdYSXFCQUFVcndXM0VjazlnWXZOaTE4NnJmb1VyMkM4VnpKUy1Jc2lJdnZZTGZrMlZRczN1YXI0azhYX21QbWU0LUVFX0l3?oc=5)
 
 2026-08-21 <span class="news-indication-tag">AF</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2ZybF9LRnlFUXdjU05CZzJCUTNyUWNuY1hHVlc1TUV4bUtIVDJoOXhVX1UteHpLNFJNQnJXMl9TZTg4Ri1KSS1PZ1NxNWhkd3lpTzRlWWM2UUZEakh2aTV0ODlsaDRFbU9McGFRVzlzZWl6dkllSm5xVDNIczdDd1kxamJIbllxMHFj?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1FZmZkdkdXTWhHWU1Zd1RNanlmaUlYYlgtQkthMWp4Vk1yZS10NVZiMG94SjdhZ01sc0xaSUIwVDlrYkszRG9ET2xyY1dFWS1oVVRBSlk4c1dFNzdSemZQeDVydldybHhfbGxUTEFqYjBLLU1hRThyRnQ4Wklwb0HSAYQBQVVfeXFMT213a3BtRHd6VUJXQ09MbnRmSVE2dlBjUzl4cmFXWmZENVgzTDItYjRoWGpLZlJmTHpZRzdCaVdYSXFCQUFVcndXM0VjazlnWXZOaTE4NnJmb1VyMkM4VnpKUy1Jc2lJdnZZTGZrMlZRczN1YXI0azhYX21QbWU0LUVFX0l3?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,15 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [El futuro competidor de Ozempic que promete quemar grasa sin perder músculo - Redacción médica](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUlESjk0cV9Zd0laaVNvb3hiNXllZjhHRUVjdW0tYlowNnFzbUNLYXFiSlItT2FndU1BX09yWklqaFg3T2FMLTR3TmRCOWpXVldYT29YeFFzZGoxN0tmVlo2ZXdQVXJiY25mSFRKeHdKdlNjZHhaVTZMSjNqTUw2LU9IZVVXN05YYjJBdDE2bXp1S1Ywd2dPbFpGV2ZldnJSazFSY19QRkVDYVpOU1RaVFdmcXQ2aERwZWZXNEZ6Mm5IaVVZNWY3S3YzTmg2c1FBUndkN2p0LUbSAd4BQVVfeXFMTmM2dUdCdWkxdTFMTkJXWDNZSVJYa2pFend6SXFJNHhoWFJoT3pLVVZVdU5sYTZzQ0hTWHg3V2hxd0I3LTlwMEItNUJKTDFmTTNtM3NNbHZ6TWZTNGQ4OUJGZUE0Y1UzamhzRktIYkN1VVA4TXV1dVhHb0lSTmhLbktGLUpPVlRPbTBxRUNOZk5ES1VNaTFMd0ZjZlpVVzUxaUo2V2JraWtnWXctTDlkZDNfY01HbXdkanZpNVAyZ1FvTGRsSFA3VWhvakJ0Qy1GSk9wOVA0NWJrY3RwZm5n?oc=5)
-
-2026-08-22
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUlESjk0cV9Zd0laaVNvb3hiNXllZjhHRUVjdW0tYlowNnFzbUNLYXFiSlItT2FndU1BX09yWklqaFg3T2FMLTR3TmRCOWpXVldYT29YeFFzZGoxN0tmVlo2ZXdQVXJiY25mSFRKeHdKdlNjZHhaVTZMSjNqTUw2LU9IZVVXN05YYjJBdDE2bXp1S1Ywd2dPbFpGV2ZldnJSazFSY19QRkVDYVpOU1RaVFdmcXQ2aERwZWZXNEZ6Mm5IaVVZNWY3S3YzTmg2c1FBUndkN2p0LUbSAd4BQVVfeXFMTmM2dUdCdWkxdTFMTkJXWDNZSVJYa2pFend6SXFJNHhoWFJoT3pLVVZVdU5sYTZzQ0hTWHg3V2hxd0I3LTlwMEItNUJKTDFmTTNtM3NNbHZ6TWZTNGQ4OUJGZUE0Y1UzamhzRktIYkN1VVA4TXV1dVhHb0lSTmhLbktGLUpPVlRPbTBxRUNOZk5ES1VNaTFMd0ZjZlpVVzUxaUo2V2JraWtnWXctTDlkZDNfY01HbXdkanZpNVAyZ1FvTGRsSFA3VWhvakJ0Qy1GSk9wOVA0NWJrY3RwZm5n?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Farmaci anti-obesità e intelligenza artificiale: la nuova corsa della medicina passa anche dall’Italia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVlpWWtxV1E1QjRGV3ZOU0Q3eFcyX2pNTE5ZbXNaV1RGUnVFWG1mZnN6NE1jcm4xNGNja1pHUF9FNFpmcFBERTMxM1ZGTTg2eG1mbGhCcGRXMGRTblNlR00wYzBtenNvNlI1SlNzeXlyb09FajB4c3ZIVThDSXEtdy10OWpaaFBybWcwUkRNb1VONHl1QnU1QmRwRWF4VmhUclJIOGpFYi1lYl9lcTdJMnJfWlpxYjRybllsdktkcHRpWU5ReDViMHRraDF0MUotdWs3NkNOcDFmQ29QaW9LNkpNb05UblU2TWQ0ZFdCeXA?oc=5)
 
