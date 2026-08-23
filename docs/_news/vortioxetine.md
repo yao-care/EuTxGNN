@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Daily vitamin B6 pill could ease depression within a month - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1Rzd0puY1VucWpVbjVsU05YX3Nhc2ZDSVB0aVljQUlWVV80VzBLQndkS0djZGpQMnJfbnhLdVpkMUVHQWEtNnBTd0J2TWhIRUlJRjRYZUdyOGFnUDB6dnlrczZmODJTRTJTajB2bEItQVp6dFlhNGE1LU5wZzBrdnVRak9pTzM4TGdnSEM1SQ?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/vortioxetine/
 2026-08-21 <span class="news-indication-tag">depression</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
-
----
-
-### [Hippocampus-Studie: Depressionen beeinflussen Gehirnstruktur unabhängig von Alzheimer](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZS1wX0xSLXNzYVQ3QzRmcm9vdEx6bk5YTlNUQnAzdk1ZZWt6enhwZllScjZBTklnbVRkZ1A0RTh6V2hpc0pEb3hvT3hueDZpU1FsTzlvQnNFekdjTGhlN0ZDM3NCSlROb3lGVWp6MkF0ek8tYnZsVkRJakJvSjRBeng2bFppSHcwSk1LaUU5ZV9DS1kwMW1FOXFBYkpheDI1OXdPLXZRRDNFZ0VHU2tWNWdYc1NoS1dnUWJhag?oc=5)
-
-2026-08-21 <span class="news-indication-tag">depression</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZS1wX0xSLXNzYVQ3QzRmcm9vdEx6bk5YTlNUQnAzdk1ZZWt6enhwZllScjZBTklnbVRkZ1A0RTh6V2hpc0pEb3hvT3hueDZpU1FsTzlvQnNFekdjTGhlN0ZDM3NCSlROb3lGVWp6MkF0ek8tYnZsVkRJakJvSjRBeng2bFppSHcwSk1LaUU5ZV9DS1kwMW1FOXFBYkpheDI1OXdPLXZRRDNFZ0VHU2tWNWdYc1NoS1dnUWJhag?oc=5)
 
 ---
 

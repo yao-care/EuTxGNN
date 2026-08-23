@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart disease</span></li>
+<li>heart disease（96.3%）</li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -54,11 +54,11 @@ permalink: /news/abemaciclib/
 
 ## 相關新聞（1 則）
 
-### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+### [Plastic ankle replacements offer new hope for arthritis sufferers - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
 
-2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-08-22 <span class="news-indication-tag">arthritis</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
 
 ---
 

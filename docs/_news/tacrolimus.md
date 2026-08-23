@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Mir fällt nichts mehr ein](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktkS1FRN1dkQnBFbDZnQXVTVXVzNXNQc3M5SmdFUm52UlY4SWlYaFZKemx2WG5abjFOaDhZc0xJeDJMb2loZnFGVU1KWnZ0Y25BM3M5Z1VlRE9tNlhDMmE4cFNHd3FFNDRxVjhkQmhuS1J6WVZmcEpheVR2UzlsYWhpSjd4S2c?oc=5)
 
 2026-08-22 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktkS1FRN1dkQnBFbDZnQXVTVXVzNXNQc3M5SmdFUm52UlY4SWlYaFZKemx2WG5abjFOaDhZc0xJeDJMb2loZnFGVU1KWnZ0Y25BM3M5Z1VlRE9tNlhDMmE4cFNHd3FFNDRxVjhkQmhuS1J6WVZmcEpheVR2UzlsYWhpSjd4S2c?oc=5)
+
+---
+
+### [Plastic ankle replacements offer new hope for arthritis sufferers - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
+
+2026-08-22 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
 
 ---
 

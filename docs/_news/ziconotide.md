@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Semaglutide slimming jab study aims to help alcohol dependency](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
+
+2026-08-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
+
+---
 
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
 
@@ -75,22 +83,6 @@ permalink: /news/ziconotide/
 2026-08-22 <span class="news-indication-tag">migraine</span>
 
 來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
-
----
-
-### [Expertos abogan por tratar la obesidad más allá de la dieta y el ejercicio, y destacan la importancia del descanso](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXp4RXdNdzlPaFRTQ0RWN0V0MlhWUFZtS0x3ZGdtQ2hWTFFOM3JkQmppTUhfa2pTTGhxSEFGNjdtOE5KV3JPZXNFOEFtNVdMbU0wZDZBUGZocU12TEw5SnJHeFQ2XzBFckZZeVFxUExKOFIzWkFxRFdJaFQzTnZwbVRPSy1FMzFTaTdleVh1Mm9XSGJZNlNhOGR1bkRDZkRFdGM1blRHa180RlV4RjJQYVFWanNYbUdtR3BoUFBfR0M0azY0enZyczcyajROb2ZXUUtJNE9idVVTME5nbmxzLVJRQmMwQQ?oc=5)
-
----
-
-### [Neus Candela, veterinaria: “Cada vez tenemos más pacientes con obesidad y más piensos 'light' en el expositor. Algo no cuadra” - La Vanguardia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjFwelo1d3E5OE00MjBCcHVsWkFHTjNEU1M3cThISWJQR1FuMnZCMnRaZTRMbnFWT0txWUZfUkszLTg2dGk4aTlFREdGRTM5MnlVN2xfSzVuNDVqakk5Snc0cF9Rek1hLVNCSlA4VVFyNXhMbC1URlBDbWdTMk44NVdIZHQ0bE44MUNkdEtoNS1HMXhEVHlEMl9QNHdOYm9TVlNnaEFscVZmU1N4MGZQT183SnFiNEpRUmtaSkp3MEtOWEh4TzM5Q19JVE13NVVMS2Z1WEJybGkwaVlfejlvZFNZdUREQdIB6wFBVV95cUxNcUx0TEtieFk0TmF6Zm5YSWNFcU9vZXhLZENVQ0RGZjdoMnlzcHVYczJsUDJra0x3Zmx0WExKM1JKUkdoTTFnNlFuTGt2T3dLZ2VaLUt2NHJJRk1TaUFFVXRhYklWM0FsUFdJZDc3eENMRDJaUWRZRm9FdFE1UE1wWFpZczFfNjNxNWp3N2RlaWljRXJOSVlBTl9wU0dvNWtHb1ZvRTRuRzV5SnZGa3Axcl9rZVdIcnRUakZqYm05alY3dnFWa3Q5c1JONUVkbi1fOUFxYkx5SjlpMUhkc2R3RG1Fb1czMW10TTcw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">obesidad</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjFwelo1d3E5OE00MjBCcHVsWkFHTjNEU1M3cThISWJQR1FuMnZCMnRaZTRMbnFWT0txWUZfUkszLTg2dGk4aTlFREdGRTM5MnlVN2xfSzVuNDVqakk5Snc0cF9Rek1hLVNCSlA4VVFyNXhMbC1URlBDbWdTMk44NVdIZHQ0bE44MUNkdEtoNS1HMXhEVHlEMl9QNHdOYm9TVlNnaEFscVZmU1N4MGZQT183SnFiNEpRUmtaSkp3MEtOWEh4TzM5Q19JVE13NVVMS2Z1WEJybGkwaVlfejlvZFNZdUREQdIB6wFBVV95cUxNcUx0TEtieFk0TmF6Zm5YSWNFcU9vZXhLZENVQ0RGZjdoMnlzcHVYczJsUDJra0x3Zmx0WExKM1JKUkdoTTFnNlFuTGt2T3dLZ2VaLUt2NHJJRk1TaUFFVXRhYklWM0FsUFdJZDc3eENMRDJaUWRZRm9FdFE1UE1wWFpZczFfNjNxNWp3N2RlaWljRXJOSVlBTl9wU0dvNWtHb1ZvRTRuRzV5SnZGa3Axcl9rZVdIcnRUakZqYm05alY3dnFWa3Q5c1JONUVkbi1fOUFxYkx5SjlpMUhkc2R3RG1Fb1czMW10TTcw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Plastic ankle replacements offer new hope for arthritis sufferers - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
+
+2026-08-22 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
+
+---
 
 ### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 

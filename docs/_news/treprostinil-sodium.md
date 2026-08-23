@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Vergiss Joggen: Zwei Minuten Wandsitz haben diese ungeahnten Auswirkungen auf den Körper – laut Studien](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGt1ZVZNVGJFOVN5Z1VIWnV2TEhtNFBFZkJhaGJ0SzNCbGV1RGJidWxOSENFUW9LZmNjNXlQdXgxQlNSeXZGQXpWZl9PajRxeFlqZHFIaEVyeXFjVHFjSDAxbTQtMXAwN3hWYkJjZm5ENENRYWZkTmJFOWV4aUd1Y19YenJQdHd5a0tGaVhxemh5UkFvX3o3d3pWdjdXZmdaejdKNjlSZVJTVE52Vjg2ZUtJZW9KZy1VT1NZNldPcGk5OUdwTEN6T1dlTHByQQ?oc=5)
+### [Krafttraining gegen Hypertonie: 44% weniger Herzinfarkte bei Frauen](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
 
-2026-08-21 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[wmn.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGt1ZVZNVGJFOVN5Z1VIWnV2TEhtNFBFZkJhaGJ0SzNCbGV1RGJidWxOSENFUW9LZmNjNXlQdXgxQlNSeXZGQXpWZl9PajRxeFlqZHFIaEVyeXFjVHFjSDAxbTQtMXAwN3hWYkJjZm5ENENRYWZkTmJFOWV4aUd1Y19YenJQdHd5a0tGaVhxemh5UkFvX3o3d3pWdjdXZmdaejdKNjlSZVJTVE52Vjg2ZUtJZW9KZy1VT1NZNldPcGk5OUdwTEN6T1dlTHByQQ?oc=5)
-
----
-
-### [Hipertensión arterial: ¿qué se esconde tras la inercia terapéutica de los médicos de familia?](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFVCMElZZVZESVFCd3JmT3RXbEFQaUlZelhCNUhEekVneGNYNnFKUW16NmpYSnFUWDhSVTJHNmVxblQyQUIyU0NoQWdzbl9zTzM1YURFSllYUG1aQ1hsX0JlMFozdEtTWVNobUhmRDEzRlRsWjZYQXZIWEMySmxCcFl6TVoxWHJIZzd2RjlzYUpJQ3FhbDAtMWRGTXVxdXRuZmpDZ3UzdFN1RmFj?oc=5)
-
-2026-08-21 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFVCMElZZVZESVFCd3JmT3RXbEFQaUlZelhCNUhEekVneGNYNnFKUW16NmpYSnFUWDhSVTJHNmVxblQyQUIyU0NoQWdzbl9zTzM1YURFSllYUG1aQ1hsX0JlMFozdEtTWVNobUhmRDEzRlRsWjZYQXZIWEMySmxCcFl6TVoxWHJIZzd2RjlzYUpJQ3FhbDAtMWRGTXVxdXRuZmpDZ3UzdFN1RmFj?oc=5)
-
----
-
-### [Kurkuma gegen Bluthochdruck: Wundermittel oder Risiko? Arzt klärt auf - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzVjTW9FNm05ekV5YWtlLTUxMUZINmVnd3JOMEY5a2h3TFNQa3dQTmhzV1UxNHdMUnVjRkRnVmY0SlRQMEZGLWx2V0xGZ2RSbmlKSV9qeUhpLWkwMUY5SVVKeTFSU1VtaER3T0V3ZGpDLUQ2cXJqTjc1Y19BNlltREhqNnlXMGpCckk4Q3NCMDFsT1JNVjFONVM3RmlleUZDY2tzbGI5Tzl4Z0p3a1pCTUpFUTBRWkNfVjgtR004YXZFQVU?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzVjTW9FNm05ekV5YWtlLTUxMUZINmVnd3JOMEY5a2h3TFNQa3dQTmhzV1UxNHdMUnVjRkRnVmY0SlRQMEZGLWx2V0xGZ2RSbmlKSV9qeUhpLWkwMUY5SVVKeTFSU1VtaER3T0V3ZGpDLUQ2cXJqTjc1Y19BNlltREhqNnlXMGpCckk4Q3NCMDFsT1JNVjFONVM3RmlleUZDY2tzbGI5Tzl4Z0p3a1pCTUpFUTBRWkNfVjgtR004YXZFQVU?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
 
 ---
 

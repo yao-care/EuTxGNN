@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabete（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
+description: "diabete（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabete（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,13 +114,29 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Diabete, perché ossa apparentemente normali possono essere più fragili](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
+
+2026-08-23
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
+
+---
 
 ### [Patientenvortrag: Diabetes heute – moderne Therapiemethoden](https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1d4MWtVR1cyYjVKRndhUUkwcEhyOXdIQ09LSDF0SFlKRUhsaW9YdHlyTkZ5aU1qX21tRmVzb3dZVmFvN1FrUXpqOFZVVll4bFRsUHNlaHVaanp0cGE3aVotckVOTW1lTFFCVko1cngzQ1VVMkhQUHZRWEhvUzhfOUJB?oc=5)
 
 2026-08-23
 
 來源：[Hoyte24.de](https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1d4MWtVR1cyYjVKRndhUUkwcEhyOXdIQ09LSDF0SFlKRUhsaW9YdHlyTkZ5aU1qX21tRmVzb3dZVmFvN1FrUXpqOFZVVll4bFRsUHNlaHVaanp0cGE3aVotckVOTW1lTFFCVko1cngzQ1VVMkhQUHZRWEhvUzhfOUJB?oc=5)
+
+---
+
+### [Aumenta el número de personas que recurren a las inyecciones para adelgazar, mientras que la ciencia busca alternativas](https://news.google.com/rss/articles/CBMihgJBVV95cUxNejE0d2tVSFh1cHhmMmNoLUxZdk5QLUhmU2g3Z0xwZ2N0UC1udXdJb0hvVVdRUm5UcW8tRy1sZnNoZjMtUzdLcmxPc1htRU9SNjhxRVV4OGlWb1lGSmRaUV9aRWNlVEJwSVNYZmlvc1FNajBsMkNKLWNwSl9ETU1ycDhMck1CNk5Bb3dIYzlTNHFfNFhEcUpSRVV5TEpYNHd1NnFacE9UTTBwalJSckZqMmVoMGZOVWxVVXRMX29TNnMzMHR2VU5PeGt6NS1FT1VncWVlaDhGN2ljWmE0TVdiZ1ZMZC1hZy1ZY185b25wSzNoNEh2a2pGTnhBdmdYOU0wZVEwU1pR0gGGAkFVX3lxTE9RelJKYXVuYzBxdHlKeGJVd3RqeW1hbFdMZlg2ZkRMcll5dTNqV2FoM1AwS1VRdmJfVUlZZmxfcDZhWUVxZExCTjRDOUdrcTNjZnJHR3FQU1c5a0VHYy1sRmxqaEpzam1aYjlCLVdkZXlvLV82SUNKYmFmc2JJWUlyNi1pTXlfX0ZKazdhazlCTHVBN0RHclVXOHVNVk1lWk9ZU2stbjcwTTVVUkZ4cmJaUWYyQkxHcWJ0b0YyekpGSk1JU0RyQ3dRS3pfeGVVM3pCeGJKd1lxTWs0cWdmR1BSeFAwcm1MRElqSjk0enRYNkJIYkxmaHJRcEZXQzZhYUpyRmhWd1E?oc=5)
+
+2026-08-22
+
+來源：[antena3.com](https://news.google.com/rss/articles/CBMihgJBVV95cUxNejE0d2tVSFh1cHhmMmNoLUxZdk5QLUhmU2g3Z0xwZ2N0UC1udXdJb0hvVVdRUm5UcW8tRy1sZnNoZjMtUzdLcmxPc1htRU9SNjhxRVV4OGlWb1lGSmRaUV9aRWNlVEJwSVNYZmlvc1FNajBsMkNKLWNwSl9ETU1ycDhMck1CNk5Bb3dIYzlTNHFfNFhEcUpSRVV5TEpYNHd1NnFacE9UTTBwalJSckZqMmVoMGZOVWxVVXRMX29TNnMzMHR2VU5PeGt6NS1FT1VncWVlaDhGN2ljWmE0TVdiZ1ZMZC1hZy1ZY185b25wSzNoNEh2a2pGTnhBdmdYOU0wZVEwU1pR0gGGAkFVX3lxTE9RelJKYXVuYzBxdHlKeGJVd3RqeW1hbFdMZlg2ZkRMcll5dTNqV2FoM1AwS1VRdmJfVUlZZmxfcDZhWUVxZExCTjRDOUdrcTNjZnJHR3FQU1c5a0VHYy1sRmxqaEpzam1aYjlCLVdkZXlvLV82SUNKYmFmc2JJWUlyNi1pTXlfX0ZKazdhazlCTHVBN0RHclVXOHVNVk1lWk9ZU2stbjcwTTVVUkZ4cmJaUWYyQkxHcWJ0b0YyekpGSk1JU0RyQ3dRS3pfeGVVM3pCeGJKd1lxTWs0cWdmR1BSeFAwcm1MRElqSjk0enRYNkJIYkxmaHJRcEZXQzZhYUpyRmhWd1E?oc=5)
 
 ---
 
@@ -137,14 +153,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-21
 
 來源：[TGLA7](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
-
----
-
-### [Viel mehr als nur die Zuckerkrankheit](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJ2RVJWdkRaWnJJT3RGRGZuU1IwVHBpZkJJX1VpVE8xcFRjZU1VeTNiMWhfUVdIWkFQQWk5aGM4cHVpTTBfdzhab3ZJcXZDUnd6bnJ2QTkzU2xwaVhyWVJ2OFo1eHVQcVExVHZFY3lfYjR5UUpmUUtaZkI2U1pqLXo5aw?oc=5)
-
-2026-08-21
-
-來源：[halloherne.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJ2RVJWdkRaWnJJT3RGRGZuU1IwVHBpZkJJX1VpVE8xcFRjZU1VeTNiMWhfUVdIWkFQQWk5aGM4cHVpTTBfdzhab3ZJcXZDUnd6bnJ2QTkzU2xwaVhyWVJ2OFo1eHVQcVExVHZFY3lfYjR5UUpmUUtaZkI2U1pqLXo5aw?oc=5)
 
 ---
 

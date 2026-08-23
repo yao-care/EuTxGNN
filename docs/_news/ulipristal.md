@@ -14,7 +14,7 @@ permalink: /news/ulipristal/
 ---
 
 <p class="key-answer" data-question="Ulipristal 有什麼相關新聞？">
-<strong>Ulipristal</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ulipristal</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ulipristal/
 <p><a href="{{ '/drugs/ulipristal/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Plastic ankle replacements offer new hope for arthritis sufferers - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
+
+2026-08-22 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

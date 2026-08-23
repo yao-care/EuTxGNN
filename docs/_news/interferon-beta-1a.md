@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,45 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（10 則）
+
+### [La oración del Papa por la R. D. del Congo y Centroáfrica - Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2JXQTRRTXhZTGRIa3ZyN2xycHIzOHliSWp3MFpoOUliRzRKbGdPaEgtaGM1R2tOa01iT254UHNZcnNzeFczLVhRZGo1R1otZjVxVEREcUZZOVZMZ1N0R3k0UFd5d2t6emVtT29VMjR6SDBQTlJadUtlcDlEV3o0NWg1OUtkVV85dy1GNDVXS0F2WF9jME8wcGg0MkgwRW5Ka1pjNFNfb2VWY3VVYmd3d0FMa0dEUQ?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2JXQTRRTXhZTGRIa3ZyN2xycHIzOHliSWp3MFpoOUliRzRKbGdPaEgtaGM1R2tOa01iT254UHNZcnNzeFczLVhRZGo1R1otZjVxVEREcUZZOVZMZ1N0R3k0UFd5d2t6emVtT29VMjR6SDBQTlJadUtlcDlEV3o0NWg1OUtkVV85dy1GNDVXS0F2WF9jME8wcGg0MkgwRW5Ka1pjNFNfb2VWY3VVYmd3d0FMa0dEUQ?oc=5)
+
+---
+
+### [Treppensteigen: Sterberisiko sinkt um 24 Prozent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
+
+---
+
+### [Semaglutide slimming jab study aims to help alcohol dependency](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
+
+2026-08-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
+
+---
+
+### [Le prime dosi del vaccino contro l'ebola sono arrivate nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DeExoN19YTUtILUdxdmtHaUpuQkkwTXp3cW96VkEya1lQd25kWkhVQTNsRFNZZE43MHFYelA0VkpxNHZTb21BTGF1Q3MzU2lPUG1qMUZ2amw4UVljcERxOXJrSQ?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DeExoN19YTUtILUdxdmtHaUpuQkkwTXp3cW96VkEya1lQd25kWkhVQTNsRFNZZE43MHFYelA0VkpxNHZTb21BTGF1Q3MzU2lPUG1qMUZ2amw4UVljcERxOXJrSQ?oc=5)
+
+---
 
 ### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
 2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
-
----
-
-### [Ebola, la corsa al vaccino: potrebbe essere pronto entro fine anno](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2VSZDFFbTh4UTRmWm9jTHpNMHRIdWJ0Zkl6MEFFeXIwQ3F4eThiX0ZLUHlVQTYwSTF4Y1hDT3FvMGIwOHc1U01vRjlSM1cwZ2V3bTcyeVdKaTBTdGdKVnlFUkUxeThBQ0s0NExHZTloUWE4Q2QweWRHaG5rSXNPX29XaHU4N051a3FabHpiSTdyS2E3OFktVW5tS0NlUmQ1YVE2QmpabWVkekZsYTB5RHBlZVpQWmFHamRZZTBfbEk?oc=5)
-
-2026-08-22 <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2VSZDFFbTh4UTRmWm9jTHpNMHRIdWJ0Zkl6MEFFeXIwQ3F4eThiX0ZLUHlVQTYwSTF4Y1hDT3FvMGIwOHc1U01vRjlSM1cwZ2V3bTcyeVdKaTBTdGdKVnlFUkUxeThBQ0s0NExHZTloUWE4Q2QweWRHaG5rSXNPX29XaHU4N051a3FabHpiSTdyS2E3OFktVW5tS0NlUmQ1YVE2QmpabWVkekZsYTB5RHBlZVpQWmFHamRZZTBfbEk?oc=5)
-
----
-
-### [RD Congo recibe la primera remesa de la vacuna 'Ervebo' para combatir el brote de ébola - Redacción médica](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTFXNEo2U1VfZlhaaXRtVEVFeDdkT0x6Skt2WXliRXY3MVBfR0lOeVcwbEl2U0tuRE9IQm02aUlUUGNkeWdGQkdFVHFBamNNelA4RmRnMlJ3WFZzVEJ6bGU2YVNBZ3BtcC1sUFFoWmpEY2xVRTZlMjRhWjZDdlZ5N2kwczdhN0wySktnd1FreDZjb1prRUFPZk5yd1dUU0N3U3R4VzhaR25Ub0I0elg2d1EwV3hFazZ2X3gxRTlxU0Jjekh6djE4cGdPRWlIckV4VVZnOENORWlZSG54MUhMaXVCN0RvazdXOXlIMjhn0gHzAUFVX3lxTE5QdWliN1dnLU5TeHZWTncxLUNxSjg2M3diTTA4bnJHMEdaYmJKRXNPSmpPQ1ZQMnNtMUdDLWVkNy1PVmpFLWdSTkFPOGN2UzNfeVFocHNCekI1TkJsVjVObEVSM0UtWFNnVjRNUjByNVFxc3MzNnBxbk5HVmRwYU54cmNyaWw2c2RjZjBOeEliWTc4Sk5mOG1Bb2FFRllZZ2tHajg2WEc5ZDFCeU5LMWppY215NjZVZ3dBX2FxWGVaS3R3UFNIYlVyLWJyRGkwTkI5bVEtV0s0eEdzOW40cGpqOWVVY0tXZHdXOFo1bUJNS1ZzNA?oc=5)
-
-2026-08-22 <span class="news-indication-tag">MS</span>
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTFXNEo2U1VfZlhaaXRtVEVFeDdkT0x6Skt2WXliRXY3MVBfR0lOeVcwbEl2U0tuRE9IQm02aUlUUGNkeWdGQkdFVHFBamNNelA4RmRnMlJ3WFZzVEJ6bGU2YVNBZ3BtcC1sUFFoWmpEY2xVRTZlMjRhWjZDdlZ5N2kwczdhN0wySktnd1FreDZjb1prRUFPZk5yd1dUU0N3U3R4VzhaR25Ub0I0elg2d1EwV3hFazZ2X3gxRTlxU0Jjekh6djE4cGdPRWlIckV4VVZnOENORWlZSG54MUhMaXVCN0RvazdXOXlIMjhn0gHzAUFVX3lxTE5QdWliN1dnLU5TeHZWTncxLUNxSjg2M3diTTA4bnJHMEdaYmJKRXNPSmpPQ1ZQMnNtMUdDLWVkNy1PVmpFLWdSTkFPOGN2UzNfeVFocHNCekI1TkJsVjVObEVSM0UtWFNnVjRNUjByNVFxc3MzNnBxbk5HVmRwYU54cmNyaWw2c2RjZjBOeEliWTc4Sk5mOG1Bb2FFRllZZ2tHajg2WEc5ZDFCeU5LMWppY215NjZVZ3dBX2FxWGVaS3R3UFNIYlVyLWJyRGkwTkI5bVEtV0s0eEdzOW40cGpqOWVVY0tXZHdXOFo1bUJNS1ZzNA?oc=5)
-
----
-
-### [Troubles cognitifs, épuisement... Qu'est-ce que le "syndrome de fatigue chronique" désormais reconnu par l'Assurance maladie ?](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQODRIRzNuWFVJaHc4aFdmQTBodHpRb1Y2eS03MGQtX04wLVlxMk1UTmh3SkNhUEotNmtlNlVSMllNUE81YmJGWWJUcVQ1Ylg4Q1NQT0RHWHZfYjBLalRFOGNJZzR6ajRZcVRjYUlZeHFkTk5qS3V4ZV81YVlWdjM1TlVTeEFST0ZOWjh3bDNlRXdRbUhWS0xlMTJCdE1kd0FSNF9xNDVsWVBiUkc1RFlWMGlBMGE4ejBzWkdGZnNmYnJyNUVEWmFURGNnOWRBRl9ZeE5pQmNPYjE5dnhsbnN1Wm13OV9LZUhLNXh0S3RRNWs?oc=5)
-
-2026-08-22 <span class="news-indication-tag">MS</span>
-
-來源：[RTL](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQODRIRzNuWFVJaHc4aFdmQTBodHpRb1Y2eS03MGQtX04wLVlxMk1UTmh3SkNhUEotNmtlNlVSMllNUE81YmJGWWJUcVQ1Ylg4Q1NQT0RHWHZfYjBLalRFOGNJZzR6ajRZcVRjYUlZeHFkTk5qS3V4ZV81YVlWdjM1TlVTeEFST0ZOWjh3bDNlRXdRbUhWS0xlMTJCdE1kd0FSNF9xNDVsWVBiUkc1RFlWMGlBMGE4ejBzWkdGZnNmYnJyNUVEWmFURGNnOWRBRl9ZeE5pQmNPYjE5dnhsbnN1Wm13OV9LZUhLNXh0S3RRNWs?oc=5)
 
 ---
 
@@ -110,19 +118,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Età biologica: possiamo davvero sapere se stiamo invecchiando più lentamente?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEFiNmxKS19oUTIweVdGb2lIcnFDYkRxSHpPanJRaUNkSGhEN0RQT0tKZWNIZmpoTnBnVHV5bjhnRWFSdHdnSzAxSjNaTHJBN2hnRkVlR19UTGdzM2ZOZkd6Wl9JTjRlUERTNk5UeVhrLThzbHlaQlNNVEJjdE5EMGs4MldvYWtCTkZRVnZHbVVMNmJfaGRJTVRSVFFZODZwNWx0N3UtdzBXUU8xZk93Q0wwVjIwYlR1Q1hDLVA2djN1ZGxZZWFkcl9FWms5bHlR?oc=5)
+### [Gefäßverkalkung: Vitamin K2 verlangsamt Ablagerungen um 25%](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3diekxkdUtDUnhuc3ZMcF9UQmRocUp4c1g1QzN2d1VJTTV0QzhHOGJMUElyWjVmcjBvT0JqSXVJVWtVOG03SENzTktPREZHVHozd0k4N3N3Y29Xa1Q2RTBCZnVZYkpOYlYtUldkWmpzSTBTdGZhOEJxSG9yQmtpUjJvS1VyemFOM1BwOUpDNzYyeS1NYkszc0xhRFh6WGt0UjVwZlpINkczOW9JMDBXUzF3QlRHRTA?oc=5)
 
 2026-08-21 <span class="news-indication-tag">MS</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEFiNmxKS19oUTIweVdGb2lIcnFDYkRxSHpPanJRaUNkSGhEN0RQT0tKZWNIZmpoTnBnVHV5bjhnRWFSdHdnSzAxSjNaTHJBN2hnRkVlR19UTGdzM2ZOZkd6Wl9JTjRlUERTNk5UeVhrLThzbHlaQlNNVEJjdE5EMGs4MldvYWtCTkZRVnZHbVVMNmJfaGRJTVRSVFFZODZwNWx0N3UtdzBXUU8xZk93Q0wwVjIwYlR1Q1hDLVA2djN1ZGxZZWFkcl9FWms5bHlR?oc=5)
-
----
-
-### [“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQkM3VmhjbXVQWHpqSjhuUTU1VXVZV0dUUV9CN2lBZnBqVXdONjY4ajNPbTNRYmx3RTBwZFBWajRGS1NIQklMeDZpZE9YeFBLVGcyWWhMay1zQXplMS1Bcm5DWDhTVzAtTEJUOU9pQ015T0JCbE44VnNMX1B1UQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3diekxkdUtDUnhuc3ZMcF9UQmRocUp4c1g1QzN2d1VJTTV0QzhHOGJMUElyWjVmcjBvT0JqSXVJVWtVOG03SENzTktPREZHVHozd0k4N3N3Y29Xa1Q2RTBCZnVZYkpOYlYtUldkWmpzSTBTdGZhOEJxSG9yQmtpUjJvS1VyemFOM1BwOUpDNzYyeS1NYkszc0xhRFh6WGt0UjVwZlpINkczOW9JMDBXUzF3QlRHRTA?oc=5)
 
 ---
 
@@ -131,38 +131,6 @@ permalink: /news/interferon-beta-1a/
 2026-08-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
-
----
-
-### [Treppensteigen: Ab wann das Risiko für Herzkrankheiten und Tod sinken könnte](https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1RZRExvb0xMRWtCVGlkX0R3RC1PSVhaWVlvRXdocXZhd1YzOFBsYzVYUnQ2bnRLc1dabkhJTW4xTlJhTTN6bzAwaUZWc0UtUjJ6T294a3J5ZkVsTDRCTG9nRGl3b3hNdDExUy1obW5kWlp1elBDTVd4TVRlV19fVXhoaEwzdzNiQkl4c2x4NHBZalZ6NjBhci10WFpEODQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[vienna.at](https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1RZRExvb0xMRWtCVGlkX0R3RC1PSVhaWVlvRXdocXZhd1YzOFBsYzVYUnQ2bnRLc1dabkhJTW4xTlJhTTN6bzAwaUZWc0UtUjJ6T294a3J5ZkVsTDRCTG9nRGl3b3hNdDExUy1obW5kWlp1elBDTVd4TVRlV19fVXhoaEwzdzNiQkl4c2x4NHBZalZ6NjBhci10WFpEODQ?oc=5)
-
----
-
-### [Herzinfarkt: Experten erklären, wie dieses Vitamin Gefäßverkalkung bremsen kann](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQclphdFpQbWowLWVQYVd4RHFlVWtyaGZIYUxKTDNfR0lQaV9WbVFSSlYtOTFoYUpNX041b1FGMHYzbmFlNlo0UTl3eGs2UkljZElsVWJjQVBkYkJUMkg2VjNISXFud25kN2tPSW5Ia3RHaXVNZnhWV0ZId0x6WnRVRXZVa09ubWNJMjFhTlBGWnJvUmFYVVRuenB6Y3VMTTl5THRlZU1pX2V6dVY0b3dnc3QwUUlrRkd0N0J2TXJQOTJzNE1RTjdIREZVbWxKaThrellqSEZWSWhtWjRqN19JeHJn?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQclphdFpQbWowLWVQYVd4RHFlVWtyaGZIYUxKTDNfR0lQaV9WbVFSSlYtOTFoYUpNX041b1FGMHYzbmFlNlo0UTl3eGs2UkljZElsVWJjQVBkYkJUMkg2VjNISXFud25kN2tPSW5Ia3RHaXVNZnhWV0ZId0x6WnRVRXZVa09ubWNJMjFhTlBGWnJvUmFYVVRuenB6Y3VMTTl5THRlZU1pX2V6dVY0b3dnc3QwUUlrRkd0N0J2TXJQOTJzNE1RTjdIREZVbWxKaThrellqSEZWSWhtWjRqN19JeHJn?oc=5)
-
----
-
-### [Reizdarm: Diese pflanzlichen Behandlungen wirken nachweisbar](https://news.google.com/rss/articles/CBMixgFBVV95cUxNblNRR3JfM1h5UllEWUF1QzRzeTVWWWhlUDc5QlZzcW9KaGhmNUdWZDJqYVpsRHJTelNUaGxRMWZRRV9SeHRPdlMzclFlMExFRHhWMVpQMG4tV01CNUlCTk5MV3BkTmwyeC0yOFh0cGQxTkpoWnNVMFFmZTM1cHlRSElCNU43WWtCeU1DcWZidUlldzlrNDhmUDR5OEtaWHozdTNTSVZxRnhwMWVpWTRVeWFYMHNpS1U3UEJiTGJIa1FZdUloWVE?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixgFBVV95cUxNblNRR3JfM1h5UllEWUF1QzRzeTVWWWhlUDc5QlZzcW9KaGhmNUdWZDJqYVpsRHJTelNUaGxRMWZRRV9SeHRPdlMzclFlMExFRHhWMVpQMG4tV01CNUlCTk5MV3BkTmwyeC0yOFh0cGQxTkpoWnNVMFFmZTM1cHlRSElCNU43WWtCeU1DcWZidUlldzlrNDhmUDR5OEtaWHozdTNTSVZxRnhwMWVpWTRVeWFYMHNpS1U3UEJiTGJIa1FZdUloWVE?oc=5)
-
----
-
-### [We put cottage cheese through an evidence check – and the health claims didn’t stack up - The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmZjSmc2N3VjTU5YTEptOV9UX1AzUDlOQm1FQkJsSE1rR2lUdDdmWW4tRGdkWjBHSFBaeFJKWllzTjY4b0VadF81RlNCWGd5Z1pZRTAzTDA3eGlvdUdqUE9wcE5rRTdzSmJCbk5fMG9sZWxtZzFNX3ctaUhISV9hcjNFV19xcVUyR2ZuRjdudk1HbUpzaEM0Zm93ekwydzZ3cjgtaVRYX1N1cDZadDlpblMtVUkxOTM2dk9N?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmZjSmc2N3VjTU5YTEptOV9UX1AzUDlOQm1FQkJsSE1rR2lUdDdmWW4tRGdkWjBHSFBaeFJKWllzTjY4b0VadF81RlNCWGd5Z1pZRTAzTDA3eGlvdUdqUE9wcE5rRTdzSmJCbk5fMG9sZWxtZzFNX3ctaUhISV9hcjNFV19xcVUyR2ZuRjdudk1HbUpzaEM0Zm93ekwydzZ3cjgtaVRYX1N1cDZadDlpblMtVUkxOTM2dk9N?oc=5)
 
 ---
 

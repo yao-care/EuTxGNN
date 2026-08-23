@@ -14,7 +14,7 @@ permalink: /news/binimetinib/
 ---
 
 <p class="key-answer" data-question="Binimetinib 有什麼相關新聞？">
-<strong>Binimetinib</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Binimetinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/binimetinib/
 <p><a href="{{ '/drugs/binimetinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
+
+### [Bauchspeicheldrüsenkrebs: Diese Pflanzenstoffe könnten Therapie unterstützen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFUyVEhET3JMbGJSRE1iNjlFSUZNM2dnM0s1LV9FNE5NZ1g3WGtET0xXT0x5QURlYld0Wmh3UU9VV0drdVhZeXNoZTROQ3c5MXFEajFUYWZRWFpISS1MZkQyWXBEeHNwOFptdnFfT3FLMjRaM0NwUnU4akNLS2g1a2xpRG0wMmt4Y2ZSUlctYmlLZEtwVWJ5aVY0dzZ6VFVyM1g5MGk0WGpabHJYNlNIV3FwM2dJZHM2VGlSbXNodXhrV3JQQ2syZ0p5OW5IN3h1VHRuZW9R?oc=5)
+
+2026-08-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFUyVEhET3JMbGJSRE1iNjlFSUZNM2dnM0s1LV9FNE5NZ1g3WGtET0xXT0x5QURlYld0Wmh3UU9VV0drdVhZeXNoZTROQ3c5MXFEajFUYWZRWFpISS1MZkQyWXBEeHNwOFptdnFfT3FLMjRaM0NwUnU4akNLS2g1a2xpRG0wMmt4Y2ZSUlctYmlLZEtwVWJ5aVY0dzZ6VFVyM1g5MGk0WGpabHJYNlNIV3FwM2dJZHM2VGlSbXNodXhrV3JQQ2syZ0p5OW5IN3h1VHRuZW9R?oc=5)
+
+---
+
+### [Un nuovo test delle urine potrebbe aiutare a curare il cancro alla vescica - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV2ZTbnN6c19qN013V2I2enc2SXE2M2g4TGs1N2VKdHBPaU03TTlZNGtCSXAwRFVfelhoZlFlY2h2aTlULTFLclZGVVFBSWwydklITHJhTlVQenpSMTRZQjFUckhWVlVuZUlZbjJzTFY2T3NpT0paZ2NpQ0hVS0RqMTVlZEVNdG1oRXU2Y0FjcUVXeHN6RUMzYzBreWdYSkI4dnhZVFZJMDhzeFBKMTVscHpocmJBUHJLeFR3Ukc3LUhVYzVzRHpOZm9PNmo2RE1Ncjh6SFg1Ym13ZjNjeTQ0eTU1aUliT19xS01qOFJseE51QXlteWgwaVFn0gHKAUFVX3lxTE15ZEloVkYtQVBtbVB5VHJTdXJHWXpRSlcxaFF1bkRmYTQyVktWa1JjX0hjOG1yQldOSjlSYU5XNktjR3JfSU1CdWJGM1lveHBJaWVUS2RySXlpeC15czF1NmIzN0dEZTNDMjU1WGk1Q0ZXTnFnUXdBTkdLVWw4WWNDMWhGVUJuV1lZNWFIV3pHUjlZcGxPVTBRbnpuMm12cUw2c2J1aUNycENNUjdOR1ZpSi00Y3V5djhhOFdTWTZyWElhMWN0NWEzalE?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancro</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV2ZTbnN6c19qN013V2I2enc2SXE2M2g4TGs1N2VKdHBPaU03TTlZNGtCSXAwRFVfelhoZlFlY2h2aTlULTFLclZGVVFBSWwydklITHJhTlVQenpSMTRZQjFUckhWVlVuZUlZbjJzTFY2T3NpT0paZ2NpQ0hVS0RqMTVlZEVNdG1oRXU2Y0FjcUVXeHN6RUMzYzBreWdYSkI4dnhZVFZJMDhzeFBKMTVscHpocmJBUHJLeFR3Ukc3LUhVYzVzRHpOZm9PNmo2RE1Ncjh6SFg1Ym13ZjNjeTQ0eTU1aUliT19xS01qOFJseE51QXlteWgwaVFn0gHKAUFVX3lxTE15ZEloVkYtQVBtbVB5VHJTdXJHWXpRSlcxaFF1bkRmYTQyVktWa1JjX0hjOG1yQldOSjlSYU5XNktjR3JfSU1CdWJGM1lveHBJaWVUS2RySXlpeC15czF1NmIzN0dEZTNDMjU1WGk1Q0ZXTnFnUXdBTkdLVWw4WWNDMWhGVUJuV1lZNWFIV3pHUjlZcGxPVTBRbnpuMm12cUw2c2J1aUNycENNUjdOR1ZpSi00Y3V5djhhOFdTWTZyWElhMWN0NWEzalE?oc=5)
+
+---
+
+### [Un estudio apunta al potencial del microbioma oral para detectar el cáncer colorrectal, aunque con limitaciones para su aplicación clínica](https://news.google.com/rss/articles/CBMi-gFBVV95cUxORnVrdWw3V1YycDNLZ0FlbUVHV3VyVjFqWFZ4QVdrRmwxZWxXVlhJY1ZfR1ZpV1lsdnlmT3lzTmZVWU92a1lQSEpIU1hxYjJMdFhFYVllb0ttd01TWE1sMzl2MlMxa0YtMkcwZlBQVFQ2N3Q2RmQ5MFFkU3lkNTU2REhxWWRIRjVLdldvdFVlRGwydlRBQ1hHb1dodTNzWGp1YVZBSEFSSEc1cDdXWUpvaGM3ZllRTjBndmlZTmkzM3ZUSjJQRHZleEowSEc4RTUwSWFScjJzSlFaRUVOMzBPRzJ5REV1MjVIbnQya29IRHlpaFVZQlhYTU5n?oc=5)
+
+2026-08-23 <span class="news-indication-tag">tumor</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi-gFBVV95cUxORnVrdWw3V1YycDNLZ0FlbUVHV3VyVjFqWFZ4QVdrRmwxZWxXVlhJY1ZfR1ZpV1lsdnlmT3lzTmZVWU92a1lQSEpIU1hxYjJMdFhFYVllb0ttd01TWE1sMzl2MlMxa0YtMkcwZlBQVFQ2N3Q2RmQ5MFFkU3lkNTU2REhxWWRIRjVLdldvdFVlRGwydlRBQ1hHb1dodTNzWGp1YVZBSEFSSEc1cDdXWUpvaGM3ZllRTjBndmlZTmkzM3ZUSjJQRHZleEowSEc4RTUwSWFScjJzSlFaRUVOMzBPRzJ5REV1MjVIbnQya29IRHlpaFVZQlhYTU5n?oc=5)
+
+---
 
 ### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
@@ -86,19 +110,19 @@ permalink: /news/binimetinib/
 
 ---
 
+### [Michel Sadelain, le pionnier des cellules tueuses de cancers : « Mes ancêtres n’étaient pas gaulois mais… - Le Parisien](https://news.google.com/rss/articles/CBMijAJBVV95cUxOeHU2MkJRSEpmeU1yeV9tdU5vbU1HUkxtbEpXbWt2d0NMMzFZMUtjamlyWUYzQUNyeWZaTWtiSVZqM2J5UTJCaGdaQUc3eFI3NlJJekV4QTRULW80RTF2RVVnRS1yNEJZWDlQUEhvSE12ZDB6dUE0UXFJUm5Fb0xrckNRV2YwN0psZG9KQlhFZjNuNXN0TVBMWW1lQXVPQWQ3ZWRrclVPWmFreThYNEdDUlRadi1wOGl5OUt2ZTVIWklKYTZYc2FDZ2xmbG5NckNCUmhkYW1oZE9keUM3a1BrNzcxSFU2RVFGRzVwallqYTd5ZGdJbEItZm1NMGNlLWJPWDczclgxTEptQS1q?oc=5)
+
+2026-08-22 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMijAJBVV95cUxOeHU2MkJRSEpmeU1yeV9tdU5vbU1HUkxtbEpXbWt2d0NMMzFZMUtjamlyWUYzQUNyeWZaTWtiSVZqM2J5UTJCaGdaQUc3eFI3NlJJekV4QTRULW80RTF2RVVnRS1yNEJZWDlQUEhvSE12ZDB6dUE0UXFJUm5Fb0xrckNRV2YwN0psZG9KQlhFZjNuNXN0TVBMWW1lQXVPQWQ3ZWRrclVPWmFreThYNEdDUlRadi1wOGl5OUt2ZTVIWklKYTZYc2FDZ2xmbG5NckNCUmhkYW1oZE9keUM3a1BrNzcxSFU2RVFGRzVwallqYTd5ZGdJbEItZm1NMGNlLWJPWDczclgxTEptQS1q?oc=5)
+
+---
+
 ### [Dundee gran's pain was put down to a bruised rib – then she was diagnosed with lung cancer - The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
 
 2026-08-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
-
----
-
-### [Algo en la saliva guarda pistas sobre el cáncer colorrectal](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">tumor</span>
-
-來源：[dw.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Q4OVEwaU13ZUhCc2R3anlGeEp3aTY0MWZlQTlZX195d0ktN3J4NVoxSE5kcEFSZ3NoQkVnenlTMWF6SWtOZllLZ3gwVktIODVsTTBSZWdTS0Z4eUZDN3V1RF9kSlR2STJhWU1TSDd6Sk0wNFRReXU1RXdTOENrQnFGd29mdXR6dmRQTUpPZnJqa3hkOVVkREJpRDIxQdIBngFBVV95cUxNR1ZBcGRUTGswcXRLbDNSZlJCdTJPUzZJWklzanY5TzdIem5EOFh6Skh2YjRsenI1X3hHUnhVbC01U00yTWlIWWZPV3lrWmlYS3I1cXo2M2ZBcVctczA3bF9tUEU4c1Ezb0NqS0FMSUczZjJPYnlhRXhwWEZheWVnRGYzN0xiLXJDVDdlRGtRYno5YmNpTnZYX01HckthZw?oc=5)
 
 ---
 
@@ -115,54 +139,6 @@ permalink: /news/binimetinib/
 2026-08-21 <span class="news-indication-tag">cancer</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2xua2I3S25iUjFMS0swYU9yc3VhX1NCWk9NZVdDay12X3FHdzV3alVrbnp1UWFzeDFrSWgyVGVRZ0xVb3hiQTFKdkdhbHE0Rm84RVd5YnYyd2xHYTVpaFNrUExfTzlyRGViNEpfUWRhcW5iTnFOcHRWOFV1Y1B5N2J2SEJhdHNRVm5heGtSQkh2Mi1QMTVqYTcxektxTVpQRzJ3dmd0TjdoZWtuSDNhcVEwdzI3UQ?oc=5)
-
----
-
-### [Bauchspeicheldrüsenkrebs: Diese Pflanzenstoffe könnten bei der Therapie helfen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHUzc3ZOTEtTUWd1UnNsd3JyVG12dkVhZHhUdl9LNWw0T09zYVhMel90M2hBY2tscFJWZk5WN2NLazVoZlRyeURPWkszWE9ucmFOODJSeWd1bjlWQWFXUmVXbWJVRWdXU0g2V3dmcWR2eGptNHp6d3RaYUNzVHBkSTdOMEVCTnhEbDFKXzdGNFRKX0ZnRUZVcmlLYS1xenNkSzVhMi1qeDJaOHdUOXhpaUkzRnNOTGt1MWRMT3ZBYXFTVFFXTnFzaWNsTFhUMWJQV0NRTzlPbw?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHUzc3ZOTEtTUWd1UnNsd3JyVG12dkVhZHhUdl9LNWw0T09zYVhMel90M2hBY2tscFJWZk5WN2NLazVoZlRyeURPWkszWE9ucmFOODJSeWd1bjlWQWFXUmVXbWJVRWdXU0g2V3dmcWR2eGptNHp6d3RaYUNzVHBkSTdOMEVCTnhEbDFKXzdGNFRKX0ZnRUZVcmlLYS1xenNkSzVhMi1qeDJaOHdUOXhpaUkzRnNOTGt1MWRMT3ZBYXFTVFFXTnFzaWNsTFhUMWJQV0NRTzlPbw?oc=5)
-
----
-
-### [À 10 000 mètres, le risque invisible : pilotes et hôtesses davantage exposés aux cancers liés aux rayonnements - Air Journal](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOckVlSGwtakljTHJRVUpqaWxEZ0toSXR6YWxBbFRWN0hrTzdLcENnc0x0OWNJRWpXNks5cENXSVRBVk9LckpNdmpRSUVRSWp6dXFUc25aNkFaMXdrUVJmd1RWR2FrVFByR3BjdWhrUEJYMjc0dDB3VVE1RHRoVXRrLU9DVHVKTktROXpybFVOZUdjSkJncGV1d1dUNzllN2tCNG81eDRlY2RnaTh5dENiSEFYTWNMdTVzMS1PbHV3eTZiRkpFa1A1T0RNdjRWclQ2c1ByQkVDamVUcjhwZXRWUEMzZnNRSlA2eXRQYzJETQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Air Journal](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOckVlSGwtakljTHJRVUpqaWxEZ0toSXR6YWxBbFRWN0hrTzdLcENnc0x0OWNJRWpXNks5cENXSVRBVk9LckpNdmpRSUVRSWp6dXFUc25aNkFaMXdrUVJmd1RWR2FrVFByR3BjdWhrUEJYMjc0dDB3VVE1RHRoVXRrLU9DVHVKTktROXpybFVOZUdjSkJncGV1d1dUNzllN2tCNG81eDRlY2RnaTh5dENiSEFYTWNMdTVzMS1PbHV3eTZiRkpFa1A1T0RNdjRWclQ2c1ByQkVDamVUcjhwZXRWUEMzZnNRSlA2eXRQYzJETQ?oc=5)
-
----
-
-### [Heartbroken woman tells boyfriend 'leave me' after being diagnosed with aggressive cancer](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVowUUhWYnBUVl93Q3dBcmtlUTlCanZYUzUzOGVGUE4yY2x5WjgzSWxLX0JuQ2otcEpTXzI0WUEyOHh2WEdtTUFNbXVDX3ZtS2haTl9qOHRteW1SOVdQN1dXd0gwTFZCZm90UmdWZ0lqcWJXZEg4NlcyNmc1ZFpQd1lOYThBWm1fUWlueHV3?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVowUUhWYnBUVl93Q3dBcmtlUTlCanZYUzUzOGVGUE4yY2x5WjgzSWxLX0JuQ2otcEpTXzI0WUEyOHh2WEdtTUFNbXVDX3ZtS2haTl9qOHRteW1SOVdQN1dXd0gwTFZCZm90UmdWZ0lqcWJXZEg4NlcyNmc1ZFpQd1lOYThBWm1fUWlueHV3?oc=5)
-
----
-
-### [DHSC sets out updated guidance on when GPs should offer PSA testing - Pulse Today](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3ZDczdNRzlGRHc2aUtqVVNKMTBxR1JFZmNPb2lnOE42N3NLbDBsM3k0VUZWYVNPdWFPVzZPS3pPOXlfTEZyOG9nZWdyZFVHR0wtLXJHMzZOTzRJbmp2V1p0ejVvbkpROVktWWpjNVpLNmdzdUtZcV9aQ095emxTSGRhdURYeE5uVlMwSS14T0U4eUtKTzNfYjRJeUpBM2hxY2FFREc1a2FDbHVyaEFuX3pGZXJnRm5FNUM0bDlyVlYwZWlfYVV4TktmLWZqTXBybFFza1VRRGpyV3ZLQldXNmVqb0R3UG8?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Pulse Today](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3ZDczdNRzlGRHc2aUtqVVNKMTBxR1JFZmNPb2lnOE42N3NLbDBsM3k0VUZWYVNPdWFPVzZPS3pPOXlfTEZyOG9nZWdyZFVHR0wtLXJHMzZOTzRJbmp2V1p0ejVvbkpROVktWWpjNVpLNmdzdUtZcV9aQ095emxTSGRhdURYeE5uVlMwSS14T0U4eUtKTzNfYjRJeUpBM2hxY2FFREc1a2FDbHVyaEFuX3pGZXJnRm5FNUM0bDlyVlYwZWlfYVV4TktmLWZqTXBybFFza1VRRGpyV3ZLQldXNmVqb0R3UG8?oc=5)
-
----
-
-### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
-
----
-
-### [El Hospital Puerta de Hierro de Majadahonda participa en una investigación genómica clave sobre cáncer de pulmón](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOG5qVl9oRjhGTDlQT0VsUTd2YlJyY2hWeWp4ZVAyTHN3ZmRvTVBqVGhGMy1RTXczWlJkb29FQURkT2RaRlNpZWh6Z1o2dmJ4cmpQR1YwYlVMRmFRbGw1RWcwTXhlVG5oR2U3bEpRX0Zrenh5aGJ3ZzJNV1A1QlBNYmFjVTFhVkR2QUl1TEdnY21sZXJOcWYtb2ZJYzZKZVhOek0zbHFDd2ZJUXNKNEpqSElaTVdIX2lYZkNwb3Buak0zUDY5SmpWZ1p5bkpYODJwWjJwWUZpWm9Db0lvclVLQk01dTBpMS1FQmlTTk1EMA?oc=5)
-
-2026-08-21 <span class="news-indication-tag">tumor</span>
-
-來源：[InfoPozuelo.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOG5qVl9oRjhGTDlQT0VsUTd2YlJyY2hWeWp4ZVAyTHN3ZmRvTVBqVGhGMy1RTXczWlJkb29FQURkT2RaRlNpZWh6Z1o2dmJ4cmpQR1YwYlVMRmFRbGw1RWcwTXhlVG5oR2U3bEpRX0Zrenh5aGJ3ZzJNV1A1QlBNYmFjVTFhVkR2QUl1TEdnY21sZXJOcWYtb2ZJYzZKZVhOek0zbHFDd2ZJUXNKNEpqSElaTVdIX2lYZkNwb3Buak0zUDY5SmpWZ1p5bkpYODJwWjJwWUZpWm9Db0lvclVLQk01dTBpMS1FQmlTTk1EMA?oc=5)
 
 ---
 

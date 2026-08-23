@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。25 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。24 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>25 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>24 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,15 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（24 則）
+
+### [Un estudio revela nuevas claves del último gran brote de peste de Europa - Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
+
+2026-08-23
+
+來源：[Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
+
+---
 
 ### [US-Studie: Wie das Corona-Virus schlummernde Erreger im Körper reaktiviert](https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGlST1Y0RzJjUXl6ZmVUWXJNM1dob0huSUIwNlVIUzNYVWFxcHduaXJxdVV1eldJREt3X3FiMGhOMTcyMXZUZFBjTW45NElsem9DeEpESjV4ZXVlYVBOcW50MG1wT3pUcVlheFE5Tk1OcFNSUlFjSTMtQ2JlcHRXTVBPaWdTdUJ5RFVZZGNuMWNDYS1YWi02UDVkNDBFWF9oU19pNTZYZEJmRnBINmI0NWlhdi1LU0xfUjVjSw?oc=5)
 
@@ -90,6 +98,14 @@ permalink: /news/atrial-fibrillation/
 2026-08-23
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk9jaGpfM19YajNtcE42ek9yTno4ZGtFQmxlNE8tMm5vUXBCVWZtSE5XeUlZZHpUYXI5ODlsb0lhV0xSU09fNEpVNnV4X0hWdlN4emwyaEMweFNTYmQ0R1F6a084by1YcU5TV1ZuVUo4S05ka1cxOW9hMGw3dTdzRTEwQmQwM0lMOTZ1N2MyTi1PRWsxN1EwdkUxUFdrMERnemdodzhDUm9aV0tBd0dRNW9LbW5QXzgwYWdobWhud3IwMXEybDVweG4tSkVPTDMyYU1GbGlUTXBTZ9IB3wFBVV95cUxNUE9PSGs2bzlzNFM5ZlM2cHRqS0JKMTFFaURQRUM4M2pHc1hmenViMm5weFc2Q1c3VzdKRndXX1UyT2ZWYTdGUmxqUEZzT0VBU096Qi1qTjVjVGY4SDZwWk4tRlZCOU1IcVNrMjdDQnRMUkNiZ3BmUlgyZmtPZUpocXlyNThhQmtPNGUzVzlES1FEMjZGb19mOUxWUGNDUHZSRDNxOWdRMjBJTlJQVTYzRDdUUGlmTWpWNWxTcnRfdmVUaDlHbGFwdjBmY0N1SGlmZk1sVm45Z0dNODRJc1hn?oc=5)
+
+---
+
+### [Krafttraining gegen Hypertonie: 44% weniger Herzinfarkte bei Frauen](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
+
+2026-08-22
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
 
 ---
 
@@ -122,14 +138,6 @@ permalink: /news/atrial-fibrillation/
 2026-08-22
 
 來源：[taz.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXJVaXhQOVMwVGd0SUczbmtTZTJud3BidmtyWEU1SHo4eWprbXl1aXRwMkVxdWpDSU05emNVbHA3YWdLbXFiWW5KNGt3VGVlSWNYb2prZ2MtblFTWlJWYzdWa21SN0syRDlySWNkOUI2aWEyMGlDdUpRRnJIaHNvSUtxTDhyVkhUX3V1Ui1ObFR6UkQt?oc=5)
-
----
-
-### [West Nile in Italia, si amplia la diffusione territoriale del virus: è presente in 16 regioni](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWtyVERfS0FqTERWWXpNWVhWdEpCaDhoRWFWT0lxQVZCdkpwNGQ1Z3dzZFdDbVhsTGtobXNDLWFwRXExVEdqMnV6cVpQM28zOHJRZWJ3S1ROZU1rTjJnaGNXY1NZMWlxTmdXT0tlN2hLQmFlQklraTNlbEtYd0hrVm5jT05QaUJNX2ZpelUxZFItdUtJcndlZ19sRnlCS1pv0gFoQVVfeXFMTWVEZ2JoT0FMVnkxdDlXaW50eTZyejNTdVVMY3YzUXBlYkVJN2ZST1JmUHdBRUZnY2FxeXByUUpNM3lZb1pPdjBCSUtiTll0Z0RWMWhYLVphUzVCY0IyX2ZHXzhNc0QzQ3U?oc=5)
-
-2026-08-22
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWtyVERfS0FqTERWWXpNWVhWdEpCaDhoRWFWT0lxQVZCdkpwNGQ1Z3dzZFdDbVhsTGtobXNDLWFwRXExVEdqMnV6cVpQM28zOHJRZWJ3S1ROZU1rTjJnaGNXY1NZMWlxTmdXT0tlN2hLQmFlQklraTNlbEtYd0hrVm5jT05QaUJNX2ZpelUxZFItdUtJcndlZ19sRnlCS1pv0gFoQVVfeXFMTWVEZ2JoT0FMVnkxdDlXaW50eTZyejNTdVVMY3YzUXBlYkVJN2ZST1JmUHdBRUZnY2FxeXByUUpNM3lZb1pPdjBCSUtiTll0Z0RWMWhYLVphUzVCY0IyX2ZHXzhNc0QzQ3U?oc=5)
 
 ---
 
@@ -173,11 +181,27 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [Nuovo caso di West Nile nella Bat: donna ricoverata in ospedale a Bisceglie](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNW5vWDJ4d1J6dkNib1lXODJ2TmNUUTFDZDJpdWdLcDl3SUpoNUZ0OG9WWFVYeDUxXzU2c0UtZ0V2NkxKNmpLeVhoSEVhLV8zT19ZSmRvVUswRFAyS3BmU0V2ZjJ5QzIyaVIxT21Bd3FsUlFlY0c5SFdRYzg3Z1QwMy14V3BFQ0RlLTBXMmtxVGlUOWRsZ1pmSXM3MkVKUGvSAaQBQVVfeXFMUHRLcjNEa2x4S0hNcktHVVZjTVlGVS1Tek9HSTBtR2hiV3h1ZlJCcWdPRjZ4Qnc0YzdqeU9CM0owS29uNXl3amN5bHlkVmt3NXE0cXZDOHFSQTJEcVVvWWdDa2JjbGJPOXFiS2pWTWs3dExWT2VlZGZJckZWX3FoTFRsZDYyX3Jacm02WUNMTVVKMnNZLVRuaFBwR0ZDRWZHN2JGemQ?oc=5)
+
+2026-08-22
+
+來源：[BisceglieViva](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNW5vWDJ4d1J6dkNib1lXODJ2TmNUUTFDZDJpdWdLcDl3SUpoNUZ0OG9WWFVYeDUxXzU2c0UtZ0V2NkxKNmpLeVhoSEVhLV8zT19ZSmRvVUswRFAyS3BmU0V2ZjJ5QzIyaVIxT21Bd3FsUlFlY0c5SFdRYzg3Z1QwMy14V3BFQ0RlLTBXMmtxVGlUOWRsZ1pmSXM3MkVKUGvSAaQBQVVfeXFMUHRLcjNEa2x4S0hNcktHVVZjTVlGVS1Tek9HSTBtR2hiV3h1ZlJCcWdPRjZ4Qnc0YzdqeU9CM0owS29uNXl3amN5bHlkVmt3NXE0cXZDOHFSQTJEcVVvWWdDa2JjbGJPOXFiS2pWTWs3dExWT2VlZGZJckZWX3FoTFRsZDYyX3Jacm02WUNMTVVKMnNZLVRuaFBwR0ZDRWZHN2JGemQ?oc=5)
+
+---
+
 ### [Affetto da deformità vertebrale per una forma gravissima di scoliosi, 12enne operato all'Aoum con una tecnica innovativa mini-invasiva](https://news.google.com/rss/articles/CBMihAJBVV95cUxORXhadVIycUt3WWgyNEJUTnJ0QUpWcXVhRzJQcUZUX3JhUzJzazctQk03djVlaEJVUzBuVFBnbERTVjMxUjlFTEk0dEJQSVBvMHVzMExobFFQcHZZWmR6WVNZN3M1V3FzUXhnSGlwV3l1R1Z2Y1FYbVJZVUdlN3FjdENuS3ZNWjNyLUp4X2otZ2hrelQtN1p2Sm80V0RSM3lDM2hXUlRMcno4TlhMZ2ZKNkNEbTg3OGNDMDRuTE9CUFdUV2RuZUtxR1k0bHlQRkdubnBVcjdFZFl2dElzSjY3c2VHY1cwZ0gxTFZXRXhUVWlUZGhMWE95MXNJYkxYRXQ3bjBMUw?oc=5)
 
 2026-08-22
 
 來源：[AnconaToday](https://news.google.com/rss/articles/CBMihAJBVV95cUxORXhadVIycUt3WWgyNEJUTnJ0QUpWcXVhRzJQcUZUX3JhUzJzazctQk03djVlaEJVUzBuVFBnbERTVjMxUjlFTEk0dEJQSVBvMHVzMExobFFQcHZZWmR6WVNZN3M1V3FzUXhnSGlwV3l1R1Z2Y1FYbVJZVUdlN3FjdENuS3ZNWjNyLUp4X2otZ2hrelQtN1p2Sm80V0RSM3lDM2hXUlRMcno4TlhMZ2ZKNkNEbTg3OGNDMDRuTE9CUFdUV2RuZUtxR1k0bHlQRkdubnBVcjdFZFl2dElzSjY3c2VHY1cwZ0gxTFZXRXhUVWlUZGhMWE95MXNJYkxYRXQ3bjBMUw?oc=5)
+
+---
+
+### [Which eggs can you trust after the latest salmonella outbreak? - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxQbTVJcDM2ZWVTOGRxa01wZlNXOGVqWDByY0Y1eUd0dHRsTWZaOWVJQTM2NFBzVzdoei10UE1JUmJWMjBEd2ZlOXJyVS0xS3VJd0VLLW9RcEtfbXIyVVBWMk1RRDBEYk02UV9mLUlpbzFFUW1ITi1zdGxpalVna3VhRmZWcnBCUzBPVExaN0txOGxRMlJ3N1huRWUyZG81a1ZWMUVMblE5Q3JjTWVXUUdxYVFSdXRKMjI1M3NRcUpB?oc=5)
+
+2026-08-22
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxQbTVJcDM2ZWVTOGRxa01wZlNXOGVqWDByY0Y1eUd0dHRsTWZaOWVJQTM2NFBzVzdoei10UE1JUmJWMjBEd2ZlOXJyVS0xS3VJd0VLLW9RcEtfbXIyVVBWMk1RRDBEYk02UV9mLUlpbzFFUW1ITi1zdGxpalVna3VhRmZWcnBCUzBPVExaN0txOGxRMlJ3N1huRWUyZG81a1ZWMUVMblE5Q3JjTWVXUUdxYVFSdXRKMjI1M3NRcUpB?oc=5)
 
 ---
 
@@ -189,35 +213,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Children ‘must not eat runny eggs’ amid salmonella outbreak - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUFlSXNaR2I1Rm5uTE8wZjV6RnBQUXlFWlc0cklIdXBqZGVmeGJkdjA4aF80TkwtRjJXRzVMX3NTNmFhd0pxVnZuZ0hubE0yTGd5TE9FYjEwRkRkVDl1V0xFanhKdTNjakRXRHlTWmQwYkNHU3ZidjFzTGFzS2QzZmM2bXRqTnpoUVFldnhidkVVMjBKampnQ28wclFTWTZTM3c?oc=5)
-
-2026-08-21
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUFlSXNaR2I1Rm5uTE8wZjV6RnBQUXlFWlc0cklIdXBqZGVmeGJkdjA4aF80TkwtRjJXRzVMX3NTNmFhd0pxVnZuZ0hubE0yTGd5TE9FYjEwRkRkVDl1V0xFanhKdTNjakRXRHlTWmQwYkNHU3ZidjFzTGFzS2QzZmM2bXRqTnpoUVFldnhidkVVMjBKampnQ28wclFTWTZTM3c?oc=5)
-
----
-
-### [Solitudine affollata: perché capita di sentirsi soli tra amici](https://news.google.com/rss/articles/CBMifkFVX3lxTFAzWC11dnZEUnBqWDZIVlBLckxvR3Y0ZHQ4YjVRbTJ0bWMwZDFpRE9QU01qTk1nWHl2N1VPcUFhOThJcWJTc2xSdFFvN3N5WmVjWkljZmpsdE15eTZaUWE5M0VfbUwzS09RVkExSTJjdkVoV0NGODItTzNnLXJQdw?oc=5)
-
-2026-08-21
-
-來源：[Studenti.it](https://news.google.com/rss/articles/CBMifkFVX3lxTFAzWC11dnZEUnBqWDZIVlBLckxvR3Y0ZHQ4YjVRbTJ0bWMwZDFpRE9QU01qTk1nWHl2N1VPcUFhOThJcWJTc2xSdFFvN3N5WmVjWkljZmpsdE15eTZaUWE5M0VfbUwzS09RVkExSTJjdkVoV0NGODItTzNnLXJQdw?oc=5)
-
----
-
 ### ['Lucky' mum praises baby study after gene find](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95ejFjb0hteUNuT0xZUkxOZnQ1c1NoazZNakNITjA5RFdnWVROd2MtV3ZJemh5VEd2Y1RvOVQtRW5wQWFpaXg2NEpTZVE4RXdNTllCYjlBN0JQWlh0?oc=5)
 
 2026-08-21
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95ejFjb0hteUNuT0xZUkxOZnQ1c1NoazZNakNITjA5RFdnWVROd2MtV3ZJemh5VEd2Y1RvOVQtRW5wQWFpaXg2NEpTZVE4RXdNTllCYjlBN0JQWlh0?oc=5)
-
----
-
-### [Ebola vaccine trial to start in DR Congo as warning issued over speed of infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE10QkV6NDdyeHdEXzFNdU1PZzA4WTF3cjlpV2RSV3JHMlN3SjdYdk1qWmwxMktmS2RKRkwwWURIYUk0THlSS253aW5jSnp1YmJFN19DZ1VrS1ZKd0xh?oc=5)
-
-2026-08-21
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE10QkV6NDdyeHdEXzFNdU1PZzA4WTF3cjlpV2RSV3JHMlN3SjdYdk1qWmwxMktmS2RKRkwwWURIYUk0THlSS253aW5jSnp1YmJFN19DZ1VrS1ZKd0xh?oc=5)
 
 ---
 
@@ -245,19 +245,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Heartbroken woman tells boyfriend 'leave me' after being diagnosed with aggressive cancer](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVowUUhWYnBUVl93Q3dBcmtlUTlCanZYUzUzOGVGUE4yY2x5WjgzSWxLX0JuQ2otcEpTXzI0WUEyOHh2WEdtTUFNbXVDX3ZtS2haTl9qOHRteW1SOVdQN1dXd0gwTFZCZm90UmdWZ0lqcWJXZEg4NlcyNmc1ZFpQd1lOYThBWm1fUWlueHV3?oc=5)
+### [Studio finlandese: bere caffé abitualmente aumenta gli ormoni sessuali - Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2ZybF9LRnlFUXdjU05CZzJCUTNyUWNuY1hHVlc1TUV4bUtIVDJoOXhVX1UteHpLNFJNQnJXMl9TZTg4Ri1KSS1PZ1NxNWhkd3lpTzRlWWM2UUZEakh2aTV0ODlsaDRFbU9McGFRVzlzZWl6dkllSm5xVDNIczdDd1kxamJIbllxMHFj?oc=5)
 
 2026-08-21
 
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVowUUhWYnBUVl93Q3dBcmtlUTlCanZYUzUzOGVGUE4yY2x5WjgzSWxLX0JuQ2otcEpTXzI0WUEyOHh2WEdtTUFNbXVDX3ZtS2haTl9qOHRteW1SOVdQN1dXd0gwTFZCZm90UmdWZ0lqcWJXZEg4NlcyNmc1ZFpQd1lOYThBWm1fUWlueHV3?oc=5)
-
----
-
-### ['My mum died in agony after bowel blunder during surgery' - Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1FZmZkdkdXTWhHWU1Zd1RNanlmaUlYYlgtQkthMWp4Vk1yZS10NVZiMG94SjdhZ01sc0xaSUIwVDlrYkszRG9ET2xyY1dFWS1oVVRBSlk4c1dFNzdSemZQeDVydldybHhfbGxUTEFqYjBLLU1hRThyRnQ4Wklwb0HSAYQBQVVfeXFMT213a3BtRHd6VUJXQ09MbnRmSVE2dlBjUzl4cmFXWmZENVgzTDItYjRoWGpLZlJmTHpZRzdCaVdYSXFCQUFVcndXM0VjazlnWXZOaTE4NnJmb1VyMkM4VnpKUy1Jc2lJdnZZTGZrMlZRczN1YXI0azhYX21QbWU0LUVFX0l3?oc=5)
-
-2026-08-21
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1FZmZkdkdXTWhHWU1Zd1RNanlmaUlYYlgtQkthMWp4Vk1yZS10NVZiMG94SjdhZ01sc0xaSUIwVDlrYkszRG9ET2xyY1dFWS1oVVRBSlk4c1dFNzdSemZQeDVydldybHhfbGxUTEFqYjBLLU1hRThyRnQ4Wklwb0HSAYQBQVVfeXFMT213a3BtRHd6VUJXQ09MbnRmSVE2dlBjUzl4cmFXWmZENVgzTDItYjRoWGpLZlJmTHpZRzdCaVdYSXFCQUFVcndXM0VjazlnWXZOaTE4NnJmb1VyMkM4VnpKUy1Jc2lJdnZZTGZrMlZRczN1YXI0azhYX21QbWU0LUVFX0l3?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2ZybF9LRnlFUXdjU05CZzJCUTNyUWNuY1hHVlc1TUV4bUtIVDJoOXhVX1UteHpLNFJNQnJXMl9TZTg4Ri1KSS1PZ1NxNWhkd3lpTzRlWWM2UUZEakh2aTV0ODlsaDRFbU9McGFRVzlzZWl6dkllSm5xVDNIczdDd1kxamJIbllxMHFj?oc=5)
 
 ---
 
