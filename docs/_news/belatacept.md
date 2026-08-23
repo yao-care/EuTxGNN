@@ -14,7 +14,7 @@ permalink: /news/belatacept/
 ---
 
 <p class="key-answer" data-question="Belatacept 有什麼相關新聞？">
-<strong>Belatacept</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Belatacept</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/belatacept/
 <li>indolent plasma cell myeloma（96.9%）</li>
 <li>relapsing-remitting multiple sclerosis（96.8%）</li>
 <li>Crohn's colitis（96.2%）</li>
-<li>heart disease（94.6%）</li>
+<li class="indication-matched">heart disease（94.6%）<span class="indication-tag">📰 heart disease</span></li>
 <li>Laubry-Pezzi syndrome（94.1%）</li>
 <li>hyperthyroidism（93.8%）</li>
 <li>genetic syndromic Pierre Robin syndrome（93.7%）</li>
@@ -52,21 +52,37 @@ permalink: /news/belatacept/
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（24 則）
 
-### [La oración del Papa por la R. D. del Congo y Centroáfrica - Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2JXQTRRTXhZTGRIa3ZyN2xycHIzOHliSWp3MFpoOUliRzRKbGdPaEgtaGM1R2tOa01iT254UHNZcnNzeFczLVhRZGo1R1otZjVxVEREcUZZOVZMZ1N0R3k0UFd5d2t6emVtT29VMjR6SDBQTlJadUtlcDlEV3o0NWg1OUtkVV85dy1GNDVXS0F2WF9jME8wcGg0MkgwRW5Ka1pjNFNfb2VWY3VVYmd3d0FMa0dEUQ?oc=5)
+### [Nueva terapia ralentiza la progresión de la esclerosis múltiple](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEJLYUk0V2piZVE2LUVCQl9BSnhCeWtJRlBRZkJrQWM3MXctR3E4SFF6ODZGVml5cGhsVHVEUDRGYk5zR1duX2VtSDZMaExnZ3NRX3plb1VRTEp1Q0FuRXY2b0pjMjU3by1IVnNSWUVzNHg2cUFDNkRFTmM4TGxPZ1VXT3I5azFiNU9MdWdHVW5zS05neG5SUThZLW1JX3JOSnpNbQ?oc=5)
 
-2026-08-23 <span class="news-indication-tag">MS</span>
+2026-08-23 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2JXQTRRTXhZTGRIa3ZyN2xycHIzOHliSWp3MFpoOUliRzRKbGdPaEgtaGM1R2tOa01iT254UHNZcnNzeFczLVhRZGo1R1otZjVxVEREcUZZOVZMZ1N0R3k0UFd5d2t6emVtT29VMjR6SDBQTlJadUtlcDlEV3o0NWg1OUtkVV85dy1GNDVXS0F2WF9jME8wcGg0MkgwRW5Ka1pjNFNfb2VWY3VVYmd3d0FMa0dEUQ?oc=5)
+來源：[enpositivo.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEJLYUk0V2piZVE2LUVCQl9BSnhCeWtJRlBRZkJrQWM3MXctR3E4SFF6ODZGVml5cGhsVHVEUDRGYk5zR1duX2VtSDZMaExnZ3NRX3plb1VRTEp1Q0FuRXY2b0pjMjU3by1IVnNSWUVzNHg2cUFDNkRFTmM4TGxPZ1VXT3I5azFiNU9MdWdHVW5zS05neG5SUThZLW1JX3JOSnpNbQ?oc=5)
 
 ---
 
-### [Treppensteigen: Sterberisiko sinkt um 24 Prozent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
+### [From forehead wrinkles to eye bumps and a key sign on your ears - the 6 signs of hidden heart disease on your face - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
+
+2026-08-23 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
+
+---
+
+### [Glucosio e chetoni: il nuovo indice che fotografa il metabolismo. Le implicazioni nel cancro](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3RBRGNrQWNTODN0cXdWZkdxUzBlQVBvRkl1SnA2SDlNQk5feHdmdjlUVG9YcENlUDNNZjBfSmpvMXBVOHk0MFRSaURmMVdoLXhrd0l3enF1d1RlUUpYU05IVEw0Y1hWWC00LW5KaWxtRXY1YmhmNzZRSkdENkFkYm8wWDlRb3Z0VjZ4QXFwUVk5Q09FSG5YTUJESnVNYjE3bW1ha042akdhWU9EYnJ3OHlBZGlpaVFtTTE2NDd2UkNJcTF3dTl5cTNDNFltVXI0TE9uTExxdUhLeDhqWmJ4OXM0LTQ?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3RBRGNrQWNTODN0cXdWZkdxUzBlQVBvRkl1SnA2SDlNQk5feHdmdjlUVG9YcENlUDNNZjBfSmpvMXBVOHk0MFRSaURmMVdoLXhrd0l3enF1d1RlUUpYU05IVEw0Y1hWWC00LW5KaWxtRXY1YmhmNzZRSkdENkFkYm8wWDlRb3Z0VjZ4QXFwUVk5Q09FSG5YTUJESnVNYjE3bW1ha042akdhWU9EYnJ3OHlBZGlpaVFtTTE2NDd2UkNJcTF3dTl5cTNDNFltVXI0TE9uTExxdUhLeDhqWmJ4OXM0LTQ?oc=5)
+
+---
+
+### [Ebola in Rd Congo, il Papa: la comunità internazionale aiuti a salvare vite umane - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
 
 2026-08-23 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
+來源：[Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
 
 ---
 
@@ -75,6 +91,30 @@ permalink: /news/belatacept/
 2026-08-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
+
+---
+
+### [Pope appeals for international aid for Ebola victims in DRC - Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
+
+---
+
+### [This is how we do it: ‘Since having cancer, I’m more open – before I was straight, now I’m queer’ - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzRzVGM4M2pUTlRVMEZuRERldThmcTB0eU1xN3dEemtHcC14SDM3NXFNOU1KaUs1bTNZUHFTVGtPMkFJMkNoLVpZNlNKbF9oaVgxVmt2X0RIMG9NRjQ3YklPRjFlZmw5UDV4aUF2aGlqanlLcFJ1bUNuX0hSUURDTjNFQ2JrVWFVZHRPNGdIbHpDd0s5YXEyYXAzc2dCdkNTcVRqRHYtX2gwcjBuU3cxdXFtd0dlLU1OMzg2UHdyd0RQeXNmRF9fczh6aWRpNkVvQmdzZF96dk0?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzRzVGM4M2pUTlRVMEZuRERldThmcTB0eU1xN3dEemtHcC14SDM3NXFNOU1KaUs1bTNZUHFTVGtPMkFJMkNoLVpZNlNKbF9oaVgxVmt2X0RIMG9NRjQ3YklPRjFlZmw5UDV4aUF2aGlqanlLcFJ1bUNuX0hSUURDTjNFQ2JrVWFVZHRPNGdIbHpDd0s5YXEyYXAzc2dCdkNTcVRqRHYtX2gwcjBuU3cxdXFtd0dlLU1OMzg2UHdyd0RQeXNmRF9fczh6aWRpNkVvQmdzZF96dk0?oc=5)
+
+---
+
+### [Treppensteigen: Sterberisiko sinkt um 24 Prozent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
 
 ---
 
@@ -102,11 +142,19 @@ permalink: /news/belatacept/
 
 ---
 
-### [Le prime dosi del vaccino contro l'ebola sono arrivate nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DeExoN19YTUtILUdxdmtHaUpuQkkwTXp3cW96VkEya1lQd25kWkhVQTNsRFNZZE43MHFYelA0VkpxNHZTb21BTGF1Q3MzU2lPUG1qMUZ2amw4UVljcERxOXJrSQ?oc=5)
+### [I had NINE heart problems and women called me disgusting - then I lost 15st - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
 
 2026-08-23 <span class="news-indication-tag">MS</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DeExoN19YTUtILUdxdmtHaUpuQkkwTXp3cW96VkEya1lQd25kWkhVQTNsRFNZZE43MHFYelA0VkpxNHZTb21BTGF1Q3MzU2lPUG1qMUZ2amw4UVljcERxOXJrSQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
+
+---
+
+### [Cancer de l'estomac : les scientifiques alertent sur une bactérie très répandue mais souvent ignorée - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTXhnRjRhWG9uNE8zX2ViUTdPWjNHdUt4di03V1ZuZFpZRXhMMjE0THhYSk1zcVQ3TEpnc1VSYWYyMXhnS0NrdzBSUjl3M0JoTTBFakp4SHJFWTZiZXVyUzdtR3hGbGZvTjNfUkxkMTZsMUpGMUplR1N2QmlZV2FVaWZ1bHRyNnpDV0xrRW9lcC1YR0VUZ1Z0ZjZPakJqWXlUOFBMRTdUSThTNTVNLVl6R2dSMFBZMG5wM0t0cXFXVUVjNVk3aTNYMjNmbDZISnFqVGlLN0JibkJhSVp0MmY0WWgxQjkta2dkNW9hQ290OA?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTXhnRjRhWG9uNE8zX2ViUTdPWjNHdUt4di03V1ZuZFpZRXhMMjE0THhYSk1zcVQ3TEpnc1VSYWYyMXhnS0NrdzBSUjl3M0JoTTBFakp4SHJFWTZiZXVyUzdtR3hGbGZvTjNfUkxkMTZsMUpGMUplR1N2QmlZV2FVaWZ1bHRyNnpDV0xrRW9lcC1YR0VUZ1Z0ZjZPakJqWXlUOFBMRTdUSThTNTVNLVl6R2dSMFBZMG5wM0t0cXFXVUVjNVk3aTNYMjNmbDZISnFqVGlLN0JibkJhSVp0MmY0WWgxQjkta2dkNW9hQ290OA?oc=5)
 
 ---
 
@@ -126,11 +174,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [UK has 100,000 more men living with prostate cancer since 2020 as cases surge](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmhBZWRzZ2RuNlhDbVVFdXhiOEUwLTJ5ejdfYmljTU54RHpUWmpkLV8tMXUwendqQUp3M0wzY0ZjWnNQM0hacXFXSDIwOVpDYU1fcEJFRWY0T3l3clcwOFFYVDlZUElyNEpGUjNLVkhpR19VcXozamRvUVB5T0RNNUlaSVM0SDd5eGlLbDlVbi1XUjVrVUpKTTZJRExGdVN5S2gydEw5RW9FMHA4djdESUln?oc=5)
+### [Da funghi champignon possibile azione anti-cancro prostata, si studia meccanismo](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDFLLTVoY1VhTFZyelYwMmY1SnNIMnZTZmctWmQxOEJpcUZQUEVxQWpKbU5KVUllOHhfMC1uNE0wQnpOazdQUS0xTG9LTTRQeVh2WFM3cWdpcC1sRVBxdDZrMU1ZWnp4c25sRFBFU2JVSHFBTVZURHRNMk5pNXFvQXlPcG1XcklScmF2X2dTOWxtdUdENEswLTVncm1wUmY2Z1RicEFfbGExZklkcEkwTlJhZFo?oc=5)
 
-2026-08-22 <span class="news-indication-tag">cancer</span>
+2026-08-22 <span class="news-indication-tag">cancro</span>
 
-來源：[ITVX](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmhBZWRzZ2RuNlhDbVVFdXhiOEUwLTJ5ejdfYmljTU54RHpUWmpkLV8tMXUwendqQUp3M0wzY0ZjWnNQM0hacXFXSDIwOVpDYU1fcEJFRWY0T3l3clcwOFFYVDlZUElyNEpGUjNLVkhpR19VcXozamRvUVB5T0RNNUlaSVM0SDd5eGlLbDlVbi1XUjVrVUpKTTZJRExGdVN5S2gydEw5RW9FMHA4djdESUln?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDFLLTVoY1VhTFZyelYwMmY1SnNIMnZTZmctWmQxOEJpcUZQUEVxQWpKbU5KVUllOHhfMC1uNE0wQnpOazdQUS0xTG9LTTRQeVh2WFM3cWdpcC1sRVBxdDZrMU1ZWnp4c25sRFBFU2JVSHFBTVZURHRNMk5pNXFvQXlPcG1XcklScmF2X2dTOWxtdUdENEswLTVncm1wUmY2Z1RicEFfbGExZklkcEkwTlJhZFo?oc=5)
 
 ---
 
@@ -139,6 +187,14 @@ permalink: /news/belatacept/
 2026-08-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
+
+---
+
+### [This yeast supplement may boost cancer-fighting immunity - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">cancer</span>
+
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
 
 ---
 
@@ -158,6 +214,14 @@ permalink: /news/belatacept/
 
 ---
 
+### [El test de la OMS que te dice si necesitas ejercicios de fuerza muscular](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oLVBrbS1JNGZGWUdNWjZQck1JUGdOLWVlYUhBUndjOG8xRFdnWm5mOVpvdkZrMEhDQmRUVjdIQ2ttUnotU1I1cGE4d2xtdUVtVDNaRmRxSDNrdVJ6ZmlzeGw2MkZXdw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[que.es](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oLVBrbS1JNGZGWUdNWjZQck1JUGdOLWVlYUhBUndjOG8xRFdnWm5mOVpvdkZrMEhDQmRUVjdIQ2ttUnotU1I1cGE4d2xtdUVtVDNaRmRxSDNrdVJ6ZmlzeGw2MkZXdw?oc=5)
+
+---
+
 ### [Dundee gran's pain was put down to a bruised rib – then she was diagnosed with lung cancer - The Courier](https://news.google.com/rss/articles/CBMijwFBVV95cUxQODhzYl9ackV5N3R4SHBfLW1UdFR1SE1WUldoRGZDLTAtV1pCQ3N2MXlTNVNvbWUwVVdEVTlBX2dFYTNEcUZHUUFhUVFUc3doVEVSbEI3Y3pvdGYtbExRenBnVFNISm00ZzNJbWhYVk1oYmFQem1YdTZDbnFBaVRqOURWQ285YXRLQmpuUTlNcw?oc=5)
 
 2026-08-22 <span class="news-indication-tag">cancer</span>
@@ -166,51 +230,19 @@ permalink: /news/belatacept/
 
 ---
 
+### [Prostate cancer cases surge by 100,000 in six years - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdLT3N4RUUxOXBMMDNyR1d4c3I2VUtQUmJoYUIxMWlBa1MwOTc2RTNWYzNmRE95M2ZwV1NrWUtycnhwTjBBYTN1Z0ZDRmV6WXpiNWhsYVlha1JnR3p0clQyalEtVmJFOFgtbzVMWEt1YlZCWWd1VGl4b2kzcXJPY2ZYbEZpeEtPd09wekE5MjVpSDdtd0hnRU5XTQ?oc=5)
+
+2026-08-22 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdLT3N4RUUxOXBMMDNyR1d4c3I2VUtQUmJoYUIxMWlBa1MwOTc2RTNWYzNmRE95M2ZwV1NrWUtycnhwTjBBYTN1Z0ZDRmV6WXpiNWhsYVlha1JnR3p0clQyalEtVmJFOFgtbzVMWEt1YlZCWWd1VGl4b2kzcXJPY2ZYbEZpeEtPd09wekE5MjVpSDdtd0hnRU5XTQ?oc=5)
+
+---
+
 ### [“Per fare sesso ho bisogno del crack”. Dentro l'abisso del chemsex che sta distruggendo i romani](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
 
 2026-08-22 <span class="news-indication-tag">MS</span>
 
 來源：[RomaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
-
----
-
-### [De ser incapaz de caminar 100 metros a moverse con total libertad: la historia de Jonathan y su esclerosis múltiple - La Voz de Asturias](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV1pURDctN01IUnRmZFY1N2xRM28zMWJ4X3VSTWNjXzlqUG54Z2JuOTFha0pzRl8wSEZEZ2Z4ZnNkb3E1MExVWE83eXVEOHBJYmRrVjVfOXBKV18zTmlMMkNiczltMFNDNEhGel94SFhhUm9JZHNCcWxUZmJMY1VIakp3bUdVQ2Zha2FMaUJENGRDZW1UbGkzaThyUG5oNmhYbzBxU21hd1VBWV8tUUx2cEpWWmh0cGZwd2lhODl4NjFrdEJMTWo3eF9MSEF3QnJ4Uzl0THBTcmFDaHlGRnNhT05GT25rRG1RQlRWV3p2YXR3TG9aSHc?oc=5)
-
-2026-08-22 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV1pURDctN01IUnRmZFY1N2xRM28zMWJ4X3VSTWNjXzlqUG54Z2JuOTFha0pzRl8wSEZEZ2Z4ZnNkb3E1MExVWE83eXVEOHBJYmRrVjVfOXBKV18zTmlMMkNiczltMFNDNEhGel94SFhhUm9JZHNCcWxUZmJMY1VIakp3bUdVQ2Zha2FMaUJENGRDZW1UbGkzaThyUG5oNmhYbzBxU21hd1VBWV8tUUx2cEpWWmh0cGZwd2lhODl4NjFrdEJMTWo3eF9MSEF3QnJ4Uzl0THBTcmFDaHlGRnNhT05GT25rRG1RQlRWV3p2YXR3TG9aSHc?oc=5)
-
----
-
-### [Gefäßverkalkung: Vitamin K2 verlangsamt Ablagerungen um 25%](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3diekxkdUtDUnhuc3ZMcF9UQmRocUp4c1g1QzN2d1VJTTV0QzhHOGJMUElyWjVmcjBvT0JqSXVJVWtVOG03SENzTktPREZHVHozd0k4N3N3Y29Xa1Q2RTBCZnVZYkpOYlYtUldkWmpzSTBTdGZhOEJxSG9yQmtpUjJvS1VyemFOM1BwOUpDNzYyeS1NYkszc0xhRFh6WGt0UjVwZlpINkczOW9JMDBXUzF3QlRHRTA?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3diekxkdUtDUnhuc3ZMcF9UQmRocUp4c1g1QzN2d1VJTTV0QzhHOGJMUElyWjVmcjBvT0JqSXVJVWtVOG03SENzTktPREZHVHozd0k4N3N3Y29Xa1Q2RTBCZnVZYkpOYlYtUldkWmpzSTBTdGZhOEJxSG9yQmtpUjJvS1VyemFOM1BwOUpDNzYyeS1NYkszc0xhRFh6WGt0UjVwZlpINkczOW9JMDBXUzF3QlRHRTA?oc=5)
-
----
-
-### [Menopause can lead to suicidal thoughts — my mum took her own life - The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
-
----
-
-### [Just one can of fizzy drink a day DOUBLES stomach cancer risk – except one type - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVm8ybjlHSm9pSU9QQTFFbFFhRS0tX1d6NDVpdnZQTHRzMnd4bGtiM1hSQmVjLVBtd2RSWU9RR1hFSzBFMVpMTUUtd1BrcHRCTEJwbXVZUmtSTTFWTVVsWUw3cVpGQjB0SUFGdjgydGN2YjkzTTA2SjFBY2dRUDV1U0Z3cHcwMmhk?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVm8ybjlHSm9pSU9QQTFFbFFhRS0tX1d6NDVpdnZQTHRzMnd4bGtiM1hSQmVjLVBtd2RSWU9RR1hFSzBFMVpMTUUtd1BrcHRCTEJwbXVZUmtSTTFWTVVsWUw3cVpGQjB0SUFGdjgydGN2YjkzTTA2SjFBY2dRUDV1U0Z3cHcwMmhk?oc=5)
-
----
-
-### [Les personnes qui vivent plus de 100 ans en bonne santé ont toutes ce point commun : les scientifiques le trouvent "remarquable" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2xua2I3S25iUjFMS0swYU9yc3VhX1NCWk9NZVdDay12X3FHdzV3alVrbnp1UWFzeDFrSWgyVGVRZ0xVb3hiQTFKdkdhbHE0Rm84RVd5YnYyd2xHYTVpaFNrUExfTzlyRGViNEpfUWRhcW5iTnFOcHRWOFV1Y1B5N2J2SEJhdHNRVm5heGtSQkh2Mi1QMTVqYTcxektxTVpQRzJ3dmd0TjdoZWtuSDNhcVEwdzI3UQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2xua2I3S25iUjFMS0swYU9yc3VhX1NCWk9NZVdDay12X3FHdzV3alVrbnp1UWFzeDFrSWgyVGVRZ0xVb3hiQTFKdkdhbHE0Rm84RVd5YnYyd2xHYTVpaFNrUExfTzlyRGViNEpfUWRhcW5iTnFOcHRWOFV1Y1B5N2J2SEJhdHNRVm5heGtSQkh2Mi1QMTVqYTcxektxTVpQRzJ3dmd0TjdoZWtuSDNhcVEwdzI3UQ?oc=5)
 
 ---
 

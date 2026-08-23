@@ -14,7 +14,7 @@ permalink: /news/tafasitamab/
 ---
 
 <p class="key-answer" data-question="Tafasitamab 有什麼相關新聞？">
-<strong>Tafasitamab</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tafasitamab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/tafasitamab/
 <p><a href="{{ '/drugs/tafasitamab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（20 則）
+
+### [Neue Kinderkrankheit? Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
+
+2026-08-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[MDR.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
+
+---
+
+### [Glucosio e chetoni: il nuovo indice che fotografa il metabolismo. Le implicazioni nel cancro](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3RBRGNrQWNTODN0cXdWZkdxUzBlQVBvRkl1SnA2SDlNQk5feHdmdjlUVG9YcENlUDNNZjBfSmpvMXBVOHk0MFRSaURmMVdoLXhrd0l3enF1d1RlUUpYU05IVEw0Y1hWWC00LW5KaWxtRXY1YmhmNzZRSkdENkFkYm8wWDlRb3Z0VjZ4QXFwUVk5Q09FSG5YTUJESnVNYjE3bW1ha042akdhWU9EYnJ3OHlBZGlpaVFtTTE2NDd2UkNJcTF3dTl5cTNDNFltVXI0TE9uTExxdUhLeDhqWmJ4OXM0LTQ?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX3RBRGNrQWNTODN0cXdWZkdxUzBlQVBvRkl1SnA2SDlNQk5feHdmdjlUVG9YcENlUDNNZjBfSmpvMXBVOHk0MFRSaURmMVdoLXhrd0l3enF1d1RlUUpYU05IVEw0Y1hWWC00LW5KaWxtRXY1YmhmNzZRSkdENkFkYm8wWDlRb3Z0VjZ4QXFwUVk5Q09FSG5YTUJESnVNYjE3bW1ha042akdhWU9EYnJ3OHlBZGlpaVFtTTE2NDd2UkNJcTF3dTl5cTNDNFltVXI0TE9uTExxdUhLeDhqWmJ4OXM0LTQ?oc=5)
+
+---
+
+### [Experimental compound helps burn fat without muscle loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5BS1dMWnlrU1ROUWZCS3RLdXU5bU1yYTgzZDhSVDVqYU9Gd1FELVhwbkwzNUhPN0tyZDVTbWtZekxSVVpEVC1nQks2NndlQ1AxZjVRQjVkcnBSUGxNa0tzMGZUSm8tTmtWbzVTTGdhNA?oc=5)
+
+2026-08-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5BS1dMWnlrU1ROUWZCS3RLdXU5bU1yYTgzZDhSVDVqYU9Gd1FELVhwbkwzNUhPN0tyZDVTbWtZekxSVVpEVC1nQks2NndlQ1AxZjVRQjVkcnBSUGxNa0tzMGZUSm8tTmtWbzVTTGdhNA?oc=5)
+
+---
+
+### [This is how we do it: ‘Since having cancer, I’m more open – before I was straight, now I’m queer’ - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzRzVGM4M2pUTlRVMEZuRERldThmcTB0eU1xN3dEemtHcC14SDM3NXFNOU1KaUs1bTNZUHFTVGtPMkFJMkNoLVpZNlNKbF9oaVgxVmt2X0RIMG9NRjQ3YklPRjFlZmw5UDV4aUF2aGlqanlLcFJ1bUNuX0hSUURDTjNFQ2JrVWFVZHRPNGdIbHpDd0s5YXEyYXAzc2dCdkNTcVRqRHYtX2gwcjBuU3cxdXFtd0dlLU1OMzg2UHdyd0RQeXNmRF9fczh6aWRpNkVvQmdzZF96dk0?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzRzVGM4M2pUTlRVMEZuRERldThmcTB0eU1xN3dEemtHcC14SDM3NXFNOU1KaUs1bTNZUHFTVGtPMkFJMkNoLVpZNlNKbF9oaVgxVmt2X0RIMG9NRjQ3YklPRjFlZmw5UDV4aUF2aGlqanlLcFJ1bUNuX0hSUURDTjNFQ2JrVWFVZHRPNGdIbHpDd0s5YXEyYXAzc2dCdkNTcVRqRHYtX2gwcjBuU3cxdXFtd0dlLU1OMzg2UHdyd0RQeXNmRF9fczh6aWRpNkVvQmdzZF96dk0?oc=5)
+
+---
 
 ### [Bauchspeicheldrüsenkrebs: Diese Pflanzenstoffe könnten Therapie unterstützen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFUyVEhET3JMbGJSRE1iNjlFSUZNM2dnM0s1LV9FNE5NZ1g3WGtET0xXT0x5QURlYld0Wmh3UU9VV0drdVhZeXNoZTROQ3c5MXFEajFUYWZRWFpISS1MZkQyWXBEeHNwOFptdnFfT3FLMjRaM0NwUnU4akNLS2g1a2xpRG0wMmt4Y2ZSUlctYmlLZEtwVWJ5aVY0dzZ6VFVyM1g5MGk0WGpabHJYNlNIV3FwM2dJZHM2VGlSbXNodXhrV3JQQ2syZ0p5OW5IN3h1VHRuZW9R?oc=5)
 
@@ -75,6 +107,14 @@ permalink: /news/tafasitamab/
 2026-08-23 <span class="news-indication-tag">cancro</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV2ZTbnN6c19qN013V2I2enc2SXE2M2g4TGs1N2VKdHBPaU03TTlZNGtCSXAwRFVfelhoZlFlY2h2aTlULTFLclZGVVFBSWwydklITHJhTlVQenpSMTRZQjFUckhWVlVuZUlZbjJzTFY2T3NpT0paZ2NpQ0hVS0RqMTVlZEVNdG1oRXU2Y0FjcUVXeHN6RUMzYzBreWdYSkI4dnhZVFZJMDhzeFBKMTVscHpocmJBUHJLeFR3Ukc3LUhVYzVzRHpOZm9PNmo2RE1Ncjh6SFg1Ym13ZjNjeTQ0eTU1aUliT19xS01qOFJseE51QXlteWgwaVFn0gHKAUFVX3lxTE15ZEloVkYtQVBtbVB5VHJTdXJHWXpRSlcxaFF1bkRmYTQyVktWa1JjX0hjOG1yQldOSjlSYU5XNktjR3JfSU1CdWJGM1lveHBJaWVUS2RySXlpeC15czF1NmIzN0dEZTNDMjU1WGk1Q0ZXTnFnUXdBTkdLVWw4WWNDMWhGVUJuV1lZNWFIV3pHUjlZcGxPVTBRbnpuMm12cUw2c2J1aUNycENNUjdOR1ZpSi00Y3V5djhhOFdTWTZyWElhMWN0NWEzalE?oc=5)
+
+---
+
+### [Cancer de l'estomac : les scientifiques alertent sur une bactérie très répandue mais souvent ignorée - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTXhnRjRhWG9uNE8zX2ViUTdPWjNHdUt4di03V1ZuZFpZRXhMMjE0THhYSk1zcVQ3TEpnc1VSYWYyMXhnS0NrdzBSUjl3M0JoTTBFakp4SHJFWTZiZXVyUzdtR3hGbGZvTjNfUkxkMTZsMUpGMUplR1N2QmlZV2FVaWZ1bHRyNnpDV0xrRW9lcC1YR0VUZ1Z0ZjZPakJqWXlUOFBMRTdUSThTNTVNLVl6R2dSMFBZMG5wM0t0cXFXVUVjNVk3aTNYMjNmbDZISnFqVGlLN0JibkJhSVp0MmY0WWgxQjkta2dkNW9hQ290OA?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTXhnRjRhWG9uNE8zX2ViUTdPWjNHdUt4di03V1ZuZFpZRXhMMjE0THhYSk1zcVQ3TEpnc1VSYWYyMXhnS0NrdzBSUjl3M0JoTTBFakp4SHJFWTZiZXVyUzdtR3hGbGZvTjNfUkxkMTZsMUpGMUplR1N2QmlZV2FVaWZ1bHRyNnpDV0xrRW9lcC1YR0VUZ1Z0ZjZPakJqWXlUOFBMRTdUSThTNTVNLVl6R2dSMFBZMG5wM0t0cXFXVUVjNVk3aTNYMjNmbDZISnFqVGlLN0JibkJhSVp0MmY0WWgxQjkta2dkNW9hQ290OA?oc=5)
 
 ---
 
@@ -102,6 +142,14 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Da funghi champignon possibile azione anti-cancro prostata, si studia meccanismo](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDFLLTVoY1VhTFZyelYwMmY1SnNIMnZTZmctWmQxOEJpcUZQUEVxQWpKbU5KVUllOHhfMC1uNE0wQnpOazdQUS0xTG9LTTRQeVh2WFM3cWdpcC1sRVBxdDZrMU1ZWnp4c25sRFBFU2JVSHFBTVZURHRNMk5pNXFvQXlPcG1XcklScmF2X2dTOWxtdUdENEswLTVncm1wUmY2Z1RicEFfbGExZklkcEkwTlJhZFo?oc=5)
+
+2026-08-22 <span class="news-indication-tag">cancro</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDFLLTVoY1VhTFZyelYwMmY1SnNIMnZTZmctWmQxOEJpcUZQUEVxQWpKbU5KVUllOHhfMC1uNE0wQnpOazdQUS0xTG9LTTRQeVh2WFM3cWdpcC1sRVBxdDZrMU1ZWnp4c25sRFBFU2JVSHFBTVZURHRNMk5pNXFvQXlPcG1XcklScmF2X2dTOWxtdUdENEswLTVncm1wUmY2Z1RicEFfbGExZklkcEkwTlJhZFo?oc=5)
+
+---
+
 ### [Mir fällt nichts mehr ein](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktkS1FRN1dkQnBFbDZnQXVTVXVzNXNQc3M5SmdFUm52UlY4SWlYaFZKemx2WG5abjFOaDhZc0xJeDJMb2loZnFGVU1KWnZ0Y25BM3M5Z1VlRE9tNlhDMmE4cFNHd3FFNDRxVjhkQmhuS1J6WVZmcEpheVR2UzlsYWhpSjd4S2c?oc=5)
 
 2026-08-22 <span class="news-indication-tag">psoriasis</span>
@@ -118,27 +166,19 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [UK has 100,000 more men living with prostate cancer since 2020 as cases surge](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmhBZWRzZ2RuNlhDbVVFdXhiOEUwLTJ5ejdfYmljTU54RHpUWmpkLV8tMXUwendqQUp3M0wzY0ZjWnNQM0hacXFXSDIwOVpDYU1fcEJFRWY0T3l3clcwOFFYVDlZUElyNEpGUjNLVkhpR19VcXozamRvUVB5T0RNNUlaSVM0SDd5eGlLbDlVbi1XUjVrVUpKTTZJRExGdVN5S2gydEw5RW9FMHA4djdESUln?oc=5)
-
-2026-08-22 <span class="news-indication-tag">cancer</span>
-
-來源：[ITVX](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmhBZWRzZ2RuNlhDbVVFdXhiOEUwLTJ5ejdfYmljTU54RHpUWmpkLV8tMXUwendqQUp3M0wzY0ZjWnNQM0hacXFXSDIwOVpDYU1fcEJFRWY0T3l3clcwOFFYVDlZUElyNEpGUjNLVkhpR19VcXozamRvUVB5T0RNNUlaSVM0SDd5eGlLbDlVbi1XUjVrVUpKTTZJRExGdVN5S2gydEw5RW9FMHA4djdESUln?oc=5)
-
----
-
-### [Besorgniserregender Trend: Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
-
-2026-08-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[MDR.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
-
----
-
 ### [Doctors missed by small baby's 2kg tumour six times, then it spread](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
 
 2026-08-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
+
+---
+
+### [This yeast supplement may boost cancer-fighting immunity - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">cancer</span>
+
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
 
 ---
 
@@ -166,27 +206,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Farmaci per il diabete usati per dimagrire, è boom in Italia: quali sono i rischi. Intervista al farmacologo Garattini](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
+### [Prostate cancer cases surge by 100,000 in six years - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdLT3N4RUUxOXBMMDNyR1d4c3I2VUtQUmJoYUIxMWlBa1MwOTc2RTNWYzNmRE95M2ZwV1NrWUtycnhwTjBBYTN1Z0ZDRmV6WXpiNWhsYVlha1JnR3p0clQyalEtVmJFOFgtbzVMWEt1YlZCWWd1VGl4b2kzcXJPY2ZYbEZpeEtPd09wekE5MjVpSDdtd0hnRU5XTQ?oc=5)
 
-2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
+2026-08-22 <span class="news-indication-tag">cancer</span>
 
-來源：[TGLA7](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
-
----
-
-### [Just one can of fizzy drink a day DOUBLES stomach cancer risk – except one type - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVm8ybjlHSm9pSU9QQTFFbFFhRS0tX1d6NDVpdnZQTHRzMnd4bGtiM1hSQmVjLVBtd2RSWU9RR1hFSzBFMVpMTUUtd1BrcHRCTEJwbXVZUmtSTTFWTVVsWUw3cVpGQjB0SUFGdjgydGN2YjkzTTA2SjFBY2dRUDV1U0Z3cHcwMmhk?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVm8ybjlHSm9pSU9QQTFFbFFhRS0tX1d6NDVpdnZQTHRzMnd4bGtiM1hSQmVjLVBtd2RSWU9RR1hFSzBFMVpMTUUtd1BrcHRCTEJwbXVZUmtSTTFWTVVsWUw3cVpGQjB0SUFGdjgydGN2YjkzTTA2SjFBY2dRUDV1U0Z3cHcwMmhk?oc=5)
-
----
-
-### [Les personnes qui vivent plus de 100 ans en bonne santé ont toutes ce point commun : les scientifiques le trouvent "remarquable" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2xua2I3S25iUjFMS0swYU9yc3VhX1NCWk9NZVdDay12X3FHdzV3alVrbnp1UWFzeDFrSWgyVGVRZ0xVb3hiQTFKdkdhbHE0Rm84RVd5YnYyd2xHYTVpaFNrUExfTzlyRGViNEpfUWRhcW5iTnFOcHRWOFV1Y1B5N2J2SEJhdHNRVm5heGtSQkh2Mi1QMTVqYTcxektxTVpQRzJ3dmd0TjdoZWtuSDNhcVEwdzI3UQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2xua2I3S25iUjFMS0swYU9yc3VhX1NCWk9NZVdDay12X3FHdzV3alVrbnp1UWFzeDFrSWgyVGVRZ0xVb3hiQTFKdkdhbHE0Rm84RVd5YnYyd2xHYTVpaFNrUExfTzlyRGViNEpfUWRhcW5iTnFOcHRWOFV1Y1B5N2J2SEJhdHNRVm5heGtSQkh2Mi1QMTVqYTcxektxTVpQRzJ3dmd0TjdoZWtuSDNhcVEwdzI3UQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdLT3N4RUUxOXBMMDNyR1d4c3I2VUtQUmJoYUIxMWlBa1MwOTc2RTNWYzNmRE95M2ZwV1NrWUtycnhwTjBBYTN1Z0ZDRmV6WXpiNWhsYVlha1JnR3p0clQyalEtVmJFOFgtbzVMWEt1YlZCWWd1VGl4b2kzcXJPY2ZYbEZpeEtPd09wekE5MjVpSDdtd0hnRU5XTQ?oc=5)
 
 ---
 

@@ -54,11 +54,27 @@ permalink: /news/interferon-beta-1a/
 
 ## 相關新聞（10 則）
 
-### [La oración del Papa por la R. D. del Congo y Centroáfrica - Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2JXQTRRTXhZTGRIa3ZyN2xycHIzOHliSWp3MFpoOUliRzRKbGdPaEgtaGM1R2tOa01iT254UHNZcnNzeFczLVhRZGo1R1otZjVxVEREcUZZOVZMZ1N0R3k0UFd5d2t6emVtT29VMjR6SDBQTlJadUtlcDlEV3o0NWg1OUtkVV85dy1GNDVXS0F2WF9jME8wcGg0MkgwRW5Ka1pjNFNfb2VWY3VVYmd3d0FMa0dEUQ?oc=5)
+### [Nueva terapia ralentiza la progresión de la esclerosis múltiple](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEJLYUk0V2piZVE2LUVCQl9BSnhCeWtJRlBRZkJrQWM3MXctR3E4SFF6ODZGVml5cGhsVHVEUDRGYk5zR1duX2VtSDZMaExnZ3NRX3plb1VRTEp1Q0FuRXY2b0pjMjU3by1IVnNSWUVzNHg2cUFDNkRFTmM4TGxPZ1VXT3I5azFiNU9MdWdHVW5zS05neG5SUThZLW1JX3JOSnpNbQ?oc=5)
+
+2026-08-23 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[enpositivo.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEJLYUk0V2piZVE2LUVCQl9BSnhCeWtJRlBRZkJrQWM3MXctR3E4SFF6ODZGVml5cGhsVHVEUDRGYk5zR1duX2VtSDZMaExnZ3NRX3plb1VRTEp1Q0FuRXY2b0pjMjU3by1IVnNSWUVzNHg2cUFDNkRFTmM4TGxPZ1VXT3I5azFiNU9MdWdHVW5zS05neG5SUThZLW1JX3JOSnpNbQ?oc=5)
+
+---
+
+### [Ebola in Rd Congo, il Papa: la comunità internazionale aiuti a salvare vite umane - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
 
 2026-08-23 <span class="news-indication-tag">MS</span>
 
-來源：[Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2JXQTRRTXhZTGRIa3ZyN2xycHIzOHliSWp3MFpoOUliRzRKbGdPaEgtaGM1R2tOa01iT254UHNZcnNzeFczLVhRZGo1R1otZjVxVEREcUZZOVZMZ1N0R3k0UFd5d2t6emVtT29VMjR6SDBQTlJadUtlcDlEV3o0NWg1OUtkVV85dy1GNDVXS0F2WF9jME8wcGg0MkgwRW5Ka1pjNFNfb2VWY3VVYmd3d0FMa0dEUQ?oc=5)
+來源：[Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
+
+---
+
+### [Pope appeals for international aid for Ebola victims in DRC - Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Le prime dosi del vaccino contro l'ebola sono arrivate nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DeExoN19YTUtILUdxdmtHaUpuQkkwTXp3cW96VkEya1lQd25kWkhVQTNsRFNZZE43MHFYelA0VkpxNHZTb21BTGF1Q3MzU2lPUG1qMUZ2amw4UVljcERxOXJrSQ?oc=5)
+### [I had NINE heart problems and women called me disgusting - then I lost 15st - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
 
 2026-08-23 <span class="news-indication-tag">MS</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DeExoN19YTUtILUdxdmtHaUpuQkkwTXp3cW96VkEya1lQd25kWkhVQTNsRFNZZE43MHFYelA0VkpxNHZTb21BTGF1Q3MzU2lPUG1qMUZ2amw4UVljcERxOXJrSQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
 
 ---
 
@@ -102,35 +118,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [El test de la OMS que te dice si necesitas ejercicios de fuerza muscular](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oLVBrbS1JNGZGWUdNWjZQck1JUGdOLWVlYUhBUndjOG8xRFdnWm5mOVpvdkZrMEhDQmRUVjdIQ2ttUnotU1I1cGE4d2xtdUVtVDNaRmRxSDNrdVJ6ZmlzeGw2MkZXdw?oc=5)
+
+2026-08-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[que.es](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oLVBrbS1JNGZGWUdNWjZQck1JUGdOLWVlYUhBUndjOG8xRFdnWm5mOVpvdkZrMEhDQmRUVjdIQ2ttUnotU1I1cGE4d2xtdUVtVDNaRmRxSDNrdVJ6ZmlzeGw2MkZXdw?oc=5)
+
+---
+
 ### [“Per fare sesso ho bisogno del crack”. Dentro l'abisso del chemsex che sta distruggendo i romani](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
 
 2026-08-22 <span class="news-indication-tag">MS</span>
 
 來源：[RomaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
-
----
-
-### [De ser incapaz de caminar 100 metros a moverse con total libertad: la historia de Jonathan y su esclerosis múltiple - La Voz de Asturias](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV1pURDctN01IUnRmZFY1N2xRM28zMWJ4X3VSTWNjXzlqUG54Z2JuOTFha0pzRl8wSEZEZ2Z4ZnNkb3E1MExVWE83eXVEOHBJYmRrVjVfOXBKV18zTmlMMkNiczltMFNDNEhGel94SFhhUm9JZHNCcWxUZmJMY1VIakp3bUdVQ2Zha2FMaUJENGRDZW1UbGkzaThyUG5oNmhYbzBxU21hd1VBWV8tUUx2cEpWWmh0cGZwd2lhODl4NjFrdEJMTWo3eF9MSEF3QnJ4Uzl0THBTcmFDaHlGRnNhT05GT25rRG1RQlRWV3p2YXR3TG9aSHc?oc=5)
-
-2026-08-22 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV1pURDctN01IUnRmZFY1N2xRM28zMWJ4X3VSTWNjXzlqUG54Z2JuOTFha0pzRl8wSEZEZ2Z4ZnNkb3E1MExVWE83eXVEOHBJYmRrVjVfOXBKV18zTmlMMkNiczltMFNDNEhGel94SFhhUm9JZHNCcWxUZmJMY1VIakp3bUdVQ2Zha2FMaUJENGRDZW1UbGkzaThyUG5oNmhYbzBxU21hd1VBWV8tUUx2cEpWWmh0cGZwd2lhODl4NjFrdEJMTWo3eF9MSEF3QnJ4Uzl0THBTcmFDaHlGRnNhT05GT25rRG1RQlRWV3p2YXR3TG9aSHc?oc=5)
-
----
-
-### [Gefäßverkalkung: Vitamin K2 verlangsamt Ablagerungen um 25%](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3diekxkdUtDUnhuc3ZMcF9UQmRocUp4c1g1QzN2d1VJTTV0QzhHOGJMUElyWjVmcjBvT0JqSXVJVWtVOG03SENzTktPREZHVHozd0k4N3N3Y29Xa1Q2RTBCZnVZYkpOYlYtUldkWmpzSTBTdGZhOEJxSG9yQmtpUjJvS1VyemFOM1BwOUpDNzYyeS1NYkszc0xhRFh6WGt0UjVwZlpINkczOW9JMDBXUzF3QlRHRTA?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3diekxkdUtDUnhuc3ZMcF9UQmRocUp4c1g1QzN2d1VJTTV0QzhHOGJMUElyWjVmcjBvT0JqSXVJVWtVOG03SENzTktPREZHVHozd0k4N3N3Y29Xa1Q2RTBCZnVZYkpOYlYtUldkWmpzSTBTdGZhOEJxSG9yQmtpUjJvS1VyemFOM1BwOUpDNzYyeS1NYkszc0xhRFh6WGt0UjVwZlpINkczOW9JMDBXUzF3QlRHRTA?oc=5)
-
----
-
-### [Menopause can lead to suicidal thoughts — my mum took her own life - The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
-
-2026-08-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjNPR1J6REJmNnNnZ0l1T0E1R1pXOElQQThJZHoweVRCbHozZjlfOWw0T192dzNzb3RTa3BLaE8waVFUeS1ZcVlOUWVWV3FQbVdHVHd2Nm05MDNocGJkNFBRNDZVd05JM1UxMjFMU3lDR0ZZdWxYSUoyLWJ0YmlqWGxEZlA3SWItLTFmR3NSMnNzV0l1X2E2THNEcDhqWVZvdEV2OHVzMnJaZFBBdW5ZVTFONno?oc=5)
 
 ---
 

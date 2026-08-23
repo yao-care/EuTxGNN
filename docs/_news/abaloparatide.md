@@ -54,6 +54,22 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（6 則）
 
+### [Neue Kinderkrankheit? Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
+
+2026-08-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[MDR.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
+
+---
+
+### [Experimental compound helps burn fat without muscle loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5BS1dMWnlrU1ROUWZCS3RLdXU5bU1yYTgzZDhSVDVqYU9Gd1FELVhwbkwzNUhPN0tyZDVTbWtZekxSVVpEVC1nQks2NndlQ1AxZjVRQjVkcnBSUGxNa0tzMGZUSm8tTmtWbzVTTGdhNA?oc=5)
+
+2026-08-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5BS1dMWnlrU1ROUWZCS3RLdXU5bU1yYTgzZDhSVDVqYU9Gd1FELVhwbkwzNUhPN0tyZDVTbWtZekxSVVpEVC1nQks2NndlQ1AxZjVRQjVkcnBSUGxNa0tzMGZUSm8tTmtWbzVTTGdhNA?oc=5)
+
+---
+
 ### [Diabete, perché ossa apparentemente normali possono essere più fragili](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
 
 2026-08-23 <span class="news-indication-tag">diabete</span>
@@ -78,27 +94,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Besorgniserregender Trend: Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
-
-2026-08-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[MDR.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
-
----
-
 ### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
 2026-08-22 <span class="news-indication-tag">migraine</span>
 
 來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
-
----
-
-### [Farmaci per il diabete usati per dimagrire, è boom in Italia: quali sono i rischi. Intervista al farmacologo Garattini](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
-
-2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-來源：[TGLA7](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FPWEVNR0tNbEtzQWMxMkJndHk1YkJYNWlGNEhoT054bGtMSkJEdG1FU2JESXhCMGlqcEhNd0JWWTlUSWFFV3Y4WUJjeF9YS0NFLWN0TUV2Y0FBVUMtMmllQzZaV2NSNUlJeEd3VjhBLTlEa0toN3lWdkJjcDVJeWF5NE1qbXhqN2h5VnhLWkxGQVVGbVlkNkFwZ3E4UHJlVWRKaHMtYm5yV3JuOXlRR3Z0b0hsQdIBuwFBVV95cUxQQlVKamRYZFA2aldub1EtcU1Oc1MyLS1CdTUyTlpJdktzbFFMYkVOcGJINHUtbDVvZnVMUGpYZ2lMRUdRNE9BUkNyaE9YWXhEZmVvWnJWYzBpZVpNNzI5UEFrbWhjQ3MySlZYYzU5aUxBcGEyWDB6cnVTb013bjhVYkVTLXB4MnZhS2s3V2EzTFdlNTJidWhNUHU4eXZvLW5tLWxaZ1BoTTNZWThPRnNHYTJIZTZkMWdEVkRR?oc=5)
 
 ---
 

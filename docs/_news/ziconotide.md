@@ -54,6 +54,14 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（4 則）
 
+### [Experimental compound helps burn fat without muscle loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5BS1dMWnlrU1ROUWZCS3RLdXU5bU1yYTgzZDhSVDVqYU9Gd1FELVhwbkwzNUhPN0tyZDVTbWtZekxSVVpEVC1nQks2NndlQ1AxZjVRQjVkcnBSUGxNa0tzMGZUSm8tTmtWbzVTTGdhNA?oc=5)
+
+2026-08-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5BS1dMWnlrU1ROUWZCS3RLdXU5bU1yYTgzZDhSVDVqYU9Gd1FELVhwbkwzNUhPN0tyZDVTbWtZekxSVVpEVC1nQks2NndlQ1AxZjVRQjVkcnBSUGxNa0tzMGZUSm8tTmtWbzVTTGdhNA?oc=5)
+
+---
+
 ### [Semaglutide slimming jab study aims to help alcohol dependency](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
 
 2026-08-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
@@ -67,14 +75,6 @@ permalink: /news/ziconotide/
 2026-08-23 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
-
----
-
-### [Farmaci anti-obesità e intelligenza artificiale: la nuova corsa della medicina passa anche dall’Italia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVlpWWtxV1E1QjRGV3ZOU0Q3eFcyX2pNTE5ZbXNaV1RGUnVFWG1mZnN6NE1jcm4xNGNja1pHUF9FNFpmcFBERTMxM1ZGTTg2eG1mbGhCcGRXMGRTblNlR00wYzBtenNvNlI1SlNzeXlyb09FajB4c3ZIVThDSXEtdy10OWpaaFBybWcwUkRNb1VONHl1QnU1QmRwRWF4VmhUclJIOGpFYi1lYl9lcTdJMnJfWlpxYjRybllsdktkcHRpWU5ReDViMHRraDF0MUotdWs3NkNOcDFmQ29QaW9LNkpNb05UblU2TWQ0ZFdCeXA?oc=5)
-
-2026-08-22 <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVlpWWtxV1E1QjRGV3ZOU0Q3eFcyX2pNTE5ZbXNaV1RGUnVFWG1mZnN6NE1jcm4xNGNja1pHUF9FNFpmcFBERTMxM1ZGTTg2eG1mbGhCcGRXMGRTblNlR00wYzBtenNvNlI1SlNzeXlyb09FajB4c3ZIVThDSXEtdy10OWpaaFBybWcwUkRNb1VONHl1QnU1QmRwRWF4VmhUclJIOGpFYi1lYl9lcTdJMnJfWlpxYjRybllsdktkcHRpWU5ReDViMHRraDF0MUotdWs3NkNOcDFmQ29QaW9LNkpNb05UblU2TWQ0ZFdCeXA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [I grassi che nutrono il cervello: dall’ADHD alla depressione alle demenze: cosa sappiamo davvero su omega-3 e salute mentale](https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ2FvdmlHeUJKeF9EVm53ZmJCU0I1eVE2MGlsX25FM0ZHdkE4V3NoLTV2cUVFZV9pZWFSelVoVHlReHN1OUN6d3RURGM1SGszNFdtYVFUMUI0cXU3bEpGOEs5Z2k4b2Z1cy1kbGtab3BtMjNOck1DN2c2a19oaHZycW1BdDA1TTBMeWdzWHNPUzVpak9nOGgzeHBTSG1MUUZCRjlqbjZjYk1KUXZOM3I2T3Q3OGRDaEoxTkl0cmx4M1NEcDhFMDBEdXJJVHdLZklwdEFGNDFZYWQwazVSRHB6Y0RoMEx6SER6ejdrUGhjSlFUb0RUNDN5TngwRG1uOW8tRWc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">depression</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ2FvdmlHeUJKeF9EVm53ZmJCU0I1eVE2MGlsX25FM0ZHdkE4V3NoLTV2cUVFZV9pZWFSelVoVHlReHN1OUN6d3RURGM1SGszNFdtYVFUMUI0cXU3bEpGOEs5Z2k4b2Z1cy1kbGtab3BtMjNOck1DN2c2a19oaHZycW1BdDA1TTBMeWdzWHNPUzVpak9nOGgzeHBTSG1MUUZCRjlqbjZjYk1KUXZOM3I2T3Q3OGRDaEoxTkl0cmx4M1NEcDhFMDBEdXJJVHdLZklwdEFGNDFZYWQwazVSRHB6Y0RoMEx6SER6ejdrUGhjSlFUb0RUNDN5TngwRG1uOW8tRWc?oc=5)
+
+---
 
 ### [Daily vitamin B6 pill could ease depression within a month - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1Rzd0puY1VucWpVbjVsU05YX3Nhc2ZDSVB0aVljQUlWVV80VzBLQndkS0djZGpQMnJfbnhLdVpkMUVHQWEtNnBTd0J2TWhIRUlJRjRYZUdyOGFnUDB6dnlrczZmODJTRTJTajB2bEItQVp6dFlhNGE1LU5wZzBrdnVRak9pTzM4TGdnSEM1SQ?oc=5)
 
