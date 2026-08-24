@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Beber zumo de remolacha todos los días está bien, pero los beneficios podrían ser incluso mayores en embarazadas con enfermedad renal crónica - El Economista](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNTDlzaU5qWmdjajlUeEQ5RDhZOVBMOTNheEpQdk84cTZMUDRpRDVXdDV3UTU3TnB6NWl6RlIwUlVhZl9fVkhSdnhMWEtlUkFyOTd6RC1HS1gtVHNrbE9Yckhkb2N1SE5BNFllMFBOYVkxcVgwQXZlQXpDdEY1cTZpXzZ2X0xUNjRmYzRveXdVQXZXLThtbWFXZnpWYXpHdHJyS3ZGTkJncEphR1ZDQkJpYlRrb2xpdDQzZTNud0lDYTNTbUFsSmxMM042S2lDY2hxd19rVzZEc2duQnR3cEpPU2ZRSnJEVzQ4NW9tTC1tMV81bTM0ZEQ1dU10SEJvTlprTWFWMTlBX3dfRXlfd25UTk9hRGlBcTBVRGVWX0VmaTYzWjFyYWwtc0c0VVpqdWN5TC1kcGREenJSRndiOXFfVU9aS1RILUNUQ1ZzZk4xN0liQTNa0gG_AkFVX3lxTFBSalNHdGJzMElsYUMzZ2FDTTNWSzM5MlZEMFlTREUtY2VMVnNRTi1HOERJLXY4Q0tvN01wXzRZUUhNbmVKOGxuRzR5T080bmxvd0FlZHZEQm8yaS1URTkyWlBsdURHWGM1YnJxQmhFMmRMU05zbUJEZU5KRGc0SGw0U3VXZVdDV01pU0NqeVEyUHhNOV9HVVJON1B4VVdsTms1d1VVNlJGa1EyN1RrNU82cHVDeDNVUmhySVZBNF9mVHk1RkxNMll1NHM0QzMtNmlHTFNmUTlsb0NiczY0b25BTmxUak9UREVJbWxHS3lXanR6XzljRXFzUmZCTDJ6YkMxMWZfV3ozbWg3QWdNbUZWMURRNUhrQ3JaeS05eGxudk9HU2piRm0yTUdsTVlOdlhFNUs4UmtFUnNHbkNTbTg?oc=5)
+
+2026-08-24 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNTDlzaU5qWmdjajlUeEQ5RDhZOVBMOTNheEpQdk84cTZMUDRpRDVXdDV3UTU3TnB6NWl6RlIwUlVhZl9fVkhSdnhMWEtlUkFyOTd6RC1HS1gtVHNrbE9Yckhkb2N1SE5BNFllMFBOYVkxcVgwQXZlQXpDdEY1cTZpXzZ2X0xUNjRmYzRveXdVQXZXLThtbWFXZnpWYXpHdHJyS3ZGTkJncEphR1ZDQkJpYlRrb2xpdDQzZTNud0lDYTNTbUFsSmxMM042S2lDY2hxd19rVzZEc2duQnR3cEpPU2ZRSnJEVzQ4NW9tTC1tMV81bTM0ZEQ1dU10SEJvTlprTWFWMTlBX3dfRXlfd25UTk9hRGlBcTBVRGVWX0VmaTYzWjFyYWwtc0c0VVpqdWN5TC1kcGREenJSRndiOXFfVU9aS1RILUNUQ1ZzZk4xN0liQTNa0gG_AkFVX3lxTFBSalNHdGJzMElsYUMzZ2FDTTNWSzM5MlZEMFlTREUtY2VMVnNRTi1HOERJLXY4Q0tvN01wXzRZUUhNbmVKOGxuRzR5T080bmxvd0FlZHZEQm8yaS1URTkyWlBsdURHWGM1YnJxQmhFMmRMU05zbUJEZU5KRGc0SGw0U3VXZVdDV01pU0NqeVEyUHhNOV9HVVJON1B4VVdsTms1d1VVNlJGa1EyN1RrNU82cHVDeDNVUmhySVZBNF9mVHk1RkxNMll1NHM0QzMtNmlHTFNmUTlsb0NiczY0b25BTmxUak9UREVJbWxHS3lXanR6XzljRXFzUmZCTDJ6YkMxMWZfV3ozbWg3QWdNbUZWMURRNUhrQ3JaeS05eGxudk9HU2piRm0yTUdsTVlOdlhFNUs4UmtFUnNHbkNTbTg?oc=5)
+
+---
 
 
 <div class="disclaimer">

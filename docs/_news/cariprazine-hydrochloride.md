@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（20 則）
 
-### [Warum Parkinson, MS und MND unterschiedlich zunehmen - Gelbe Liste](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3V4MERUQTNNRlhoU3lsbEtrZzd2UE5SM3AyeWJKZ3RzSFB2SExDMWtZcURobGR6UjEyQVVaU1pDdU5VZmNRWmcxd2d0X3VaRmZZbVkwU1N0RjVNM0pBeEZkTF95eENPSDNGNlFyeWJSbEVEMTRwR1VhSFpNQnhvWUhtR0tld21FWExBbk1ZZjVVbHEyc0Z6STc1VFZ2dTNDTG5QSWhBaURYaEFQ?oc=5)
+### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt eine Grenze](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVfUzZQTVhFM1VZNzhmMXk4NjBJWHV4dW9MbE1helI2blRFOGlhb1R4bVJCZjNEalQ4Z0VrU21jREJJXzhsdEZwVEM4dnhSQ3NNMjhLWXdmY0NLMFlScTZyWERUSllhdDFmeGpER1hFU0Q0dERubjZOcWxYTC1hQlVaUmpZYWIyMFRNc09CbTZGWC1OTVQ5R2s0ZE41ZHdNQThheWR6Y09jSlFTdC1FcXF2Q0VHSmZmTWtVdFRsYmQ2SDh6QVEwSkQwcldtUGVFVkZCbFhoSVU2VUE?oc=5)
 
 2026-08-24 <span class="news-indication-tag">MS</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3V4MERUQTNNRlhoU3lsbEtrZzd2UE5SM3AyeWJKZ3RzSFB2SExDMWtZcURobGR6UjEyQVVaU1pDdU5VZmNRWmcxd2d0X3VaRmZZbVkwU1N0RjVNM0pBeEZkTF95eENPSDNGNlFyeWJSbEVEMTRwR1VhSFpNQnhvWUhtR0tld21FWExBbk1ZZjVVbHEyc0Z6STc1VFZ2dTNDTG5QSWhBaURYaEFQ?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVfUzZQTVhFM1VZNzhmMXk4NjBJWHV4dW9MbE1helI2blRFOGlhb1R4bVJCZjNEalQ4Z0VrU21jREJJXzhsdEZwVEM4dnhSQ3NNMjhLWXdmY0NLMFlScTZyWERUSllhdDFmeGpER1hFU0Q0dERubjZOcWxYTC1hQlVaUmpZYWIyMFRNc09CbTZGWC1OTVQ5R2s0ZE41ZHdNQThheWR6Y09jSlFTdC1FcXF2Q0VHSmZmTWtVdFRsYmQ2SDh6QVEwSkQwcldtUGVFVkZCbFhoSVU2VUE?oc=5)
 
 ---
 
-### [Frühere MS-Diagnose nach McDonald 2024: Was die neuen Kriterien in der Praxis verändern](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaF9kTWlVN3lvNXdlMjFhWWVDUExYV0RHVndRdEJvUWlERGJBOEVleUdwSkNyV183UGl4NnVBbHN6MGJmeHlPVk1FNDl1Y1p5akZ3Um9XcHBmR1ppS3ktOHh2dWZ2THRycHIwbVI2YkNXUndxV2NmdEI1SzVSVm5NVTRWRWxTSWVfTUZpYWNCR19LZXJkNUpKekFnVG5EclRaeW5hMHdCN2gyeU0zZWlncFVR?oc=5)
+### [Herz-Kreislauf: Wer das Herz stärken will, muss nicht joggen oder Radfahren](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGd4bjd2MlpGYXBrb0dXVlM2SFF0UkpUZ0dkeFROSFVEazFGaHhOV3hmZV8xYlJ4SGd4aGs1T1BDME9JR29oZUV4cUFObmE0aVR6LWQ0bjdJVl9pZ2dadHBzMlZsWURiX3FoNFlobUlkdmRnZTd3bGJ5c2ZORDMxVzFoX29GUDFlZDZyd1VQMkZ2T1pfNlFETlRiamZmdV96dGMzUTJZM2N1SXptZjVnMDg5NUV1VUlUR0RIRmxkN3EtWl9abHI1czEydWV3eW0ycnNWaDl6UDg4UQ?oc=5)
 
 2026-08-24 <span class="news-indication-tag">MS</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaF9kTWlVN3lvNXdlMjFhWWVDUExYV0RHVndRdEJvUWlERGJBOEVleUdwSkNyV183UGl4NnVBbHN6MGJmeHlPVk1FNDl1Y1p5akZ3Um9XcHBmR1ppS3ktOHh2dWZ2THRycHIwbVI2YkNXUndxV2NmdEI1SzVSVm5NVTRWRWxTSWVfTUZpYWNCR19LZXJkNUpKekFnVG5EclRaeW5hMHdCN2gyeU0zZWlncFVR?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGd4bjd2MlpGYXBrb0dXVlM2SFF0UkpUZ0dkeFROSFVEazFGaHhOV3hmZV8xYlJ4SGd4aGs1T1BDME9JR29oZUV4cUFObmE0aVR6LWQ0bjdJVl9pZ2dadHBzMlZsWURiX3FoNFlobUlkdmRnZTd3bGJ5c2ZORDMxVzFoX29GUDFlZDZyd1VQMkZ2T1pfNlFETlRiamZmdV96dGMzUTJZM2N1SXptZjVnMDg5NUV1VUlUR0RIRmxkN3EtWl9abHI1czEydWV3eW0ycnNWaDl6UDg4UQ?oc=5)
 
 ---
 
@@ -78,11 +78,59 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+### [My boy, 15, could have months to live after docs misdiagnosed common symptom - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
+
+---
+
+### [Daily vitamin can 'reduce depression symptoms' in a month - it only costs £2.50 - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
+
+2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
+
+---
+
+### [Cancer exists, keeping quiet is dangerous, Oncologist warns Nigerians - Punch Newspapers](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1Vla3RkMUE5dmZBMjRqYWh1SmxhN180WHpiYjM0d1hEWUd5Q3gxemZlZXhrUThtSE93dEM0SlN6S3gzZU5UUzJHTml6YVJYVExtQ1hkYl92MnhUekRIbjNJTTNrbHdIT1RqYUtmLWJQQXU0THBqSlFIUmtoVHI0a0F3NTJZZWYyb3hhcG4wQnp3UQ?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Punch Newspapers](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1Vla3RkMUE5dmZBMjRqYWh1SmxhN180WHpiYjM0d1hEWUd5Q3gxemZlZXhrUThtSE93dEM0SlN6S3gzZU5UUzJHTml6YVJYVExtQ1hkYl92MnhUekRIbjNJTTNrbHdIT1RqYUtmLWJQQXU0THBqSlFIUmtoVHI0a0F3NTJZZWYyb3hhcG4wQnp3UQ?oc=5)
+
+---
+
+### [Warum Parkinson, MS und MND unterschiedlich zunehmen - Gelbe Liste](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3V4MERUQTNNRlhoU3lsbEtrZzd2UE5SM3AyeWJKZ3RzSFB2SExDMWtZcURobGR6UjEyQVVaU1pDdU5VZmNRWmcxd2d0X3VaRmZZbVkwU1N0RjVNM0pBeEZkTF95eENPSDNGNlFyeWJSbEVEMTRwR1VhSFpNQnhvWUhtR0tld21FWExBbk1ZZjVVbHEyc0Z6STc1VFZ2dTNDTG5QSWhBaURYaEFQ?oc=5)
 
 2026-08-24 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3V4MERUQTNNRlhoU3lsbEtrZzd2UE5SM3AyeWJKZ3RzSFB2SExDMWtZcURobGR6UjEyQVVaU1pDdU5VZmNRWmcxd2d0X3VaRmZZbVkwU1N0RjVNM0pBeEZkTF95eENPSDNGNlFyeWJSbEVEMTRwR1VhSFpNQnhvWUhtR0tld21FWExBbk1ZZjVVbHEyc0Z6STc1VFZ2dTNDTG5QSWhBaURYaEFQ?oc=5)
+
+---
+
+### [South West animal attractions open despite bluetongue outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNnpZYWxwQlJTOHRibmNqUHNyWHVyMEtvYkpoVlVqM09adnl3UFJOTTV0ZW5sWmI2MC0wcXZERFJKdVRVaWNCTmFCZG1iUzYwVDJ6QmZWLTZnX241?oc=5)
+
+2026-08-24 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNnpZYWxwQlJTOHRibmNqUHNyWHVyMEtvYkpoVlVqM09adnl3UFJOTTV0ZW5sWmI2MC0wcXZERFJKdVRVaWNCTmFCZG1iUzYwVDJ6QmZWLTZnX241?oc=5)
+
+---
+
+### [Frühere MS-Diagnose: Neue McDonald-Kriterien verändern die Praxis](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1dUc0dMZnJCOEUzd1V3Y3BBV19GNTVfa2NvY29Tb3hReFlCZlA0YVZORHRxa29ucGs0OXluYWJ1Y1JkYnZoMnNNTkpxS3VfbU9YY2NIZ1lwWWRvRHVRZ3hET25IUWhncEpvOWNaS1ExUG14Y3dhX1AxWmpIOTB1MF96cThTY0VyV1ZXNngyOHgyLXFhVHNXaEZaRjBUV1hGd3N6OHk5ZTZzNnZ1bE1zc0JB?oc=5)
+
+2026-08-24 <span class="news-indication-tag">MS</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1dUc0dMZnJCOEUzd1V3Y3BBV19GNTVfa2NvY29Tb3hReFlCZlA0YVZORHRxa29ucGs0OXluYWJ1Y1JkYnZoMnNNTkpxS3VfbU9YY2NIZ1lwWWRvRHVRZ3hET25IUWhncEpvOWNaS1ExUG14Y3dhX1AxWmpIOTB1MF96cThTY0VyV1ZXNngyOHgyLXFhVHNXaEZaRjBUV1hGd3N6OHk5ZTZzNnZ1bE1zc0JB?oc=5)
+
+---
+
+### [Frühere MS-Diagnose nach McDonald 2024: Was die neuen Kriterien in der Praxis verändern](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW9pX0xDb1hqSUFzSmdVT1cwOFRYcDVLRDM5amxfT2RiSk5ZcUJGLVlnWVpKbEhMYUdYT3ZoaXZ1Q0ZiUVdkbWZXZ19FWGRXUFd4bjhhZEhiSjlvZERfZ1lDNm9GNEN6UlpLOXFLbWtoc3pDR3NYcUNIc2tEV0dkMVZocFQwMlBQb2NXN2tMajRlQ2IwYTBrX3NfVzMyMHRmT2hDVzNsdGpoR2M?oc=5)
+
+2026-08-24 <span class="news-indication-tag">MS</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW9pX0xDb1hqSUFzSmdVT1cwOFRYcDVLRDM5amxfT2RiSk5ZcUJGLVlnWVpKbEhMYUdYT3ZoaXZ1Q0ZiUVdkbWZXZ19FWGRXUFd4bjhhZEhiSjlvZERfZ1lDNm9GNEN6UlpLOXFLbWtoc3pDR3NYcUNIc2tEV0dkMVZocFQwMlBQb2NXN2tMajRlQ2IwYTBrX3NfVzMyMHRmT2hDVzNsdGpoR2M?oc=5)
 
 ---
 
@@ -91,14 +139,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
-
----
-
-### ["Il faut une réponse politique" : deux hommes vivant avec le VIH entament une grève de la faim contre la sérophobie - France 3 Régions](https://news.google.com/rss/articles/CBMikgJBVV95cUxOR2NWcEdaUFVXOTcxTUNHX0tEZUhmdGRGMXRKQTBtRmU4YjVCR1g0UURYVEhKQXIyN0ZDc3JDZ2MxSmd0RFlDNldGVTFudmhPemtNR3hZVTlOSDFVbGhLZFFfY05aX05QMk02aGJheG51Q0VfWDl5eG5EVFMzTnh4MlY5dk5kVmJCRWFiUldSUVBHejJEV0x4WnktZXUxOF9MSHFfdVoyUWt6eWR6akN4X3ZIT1pnaUNNTkRWSXQ0T3ozMTZwMGZfMG1GU0JwS3Fiby10TjBlWXRCTlFNVEpKdUhTeE9mdEdkZThacGNvQ3lhc0JvZEwxU1p3MWVEdTYzbEZJdG5ENFdkUWVEMWJwXzBn?oc=5)
-
-2026-08-24 <span class="news-indication-tag">MS</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMikgJBVV95cUxOR2NWcEdaUFVXOTcxTUNHX0tEZUhmdGRGMXRKQTBtRmU4YjVCR1g0UURYVEhKQXIyN0ZDc3JDZ2MxSmd0RFlDNldGVTFudmhPemtNR3hZVTlOSDFVbGhLZFFfY05aX05QMk02aGJheG51Q0VfWDl5eG5EVFMzTnh4MlY5dk5kVmJCRWFiUldSUVBHejJEV0x4WnktZXUxOF9MSHFfdVoyUWt6eWR6akN4X3ZIT1pnaUNNTkRWSXQ0T3ozMTZwMGZfMG1GU0JwS3Fiby10TjBlWXRCTlFNVEpKdUhTeE9mdEdkZThacGNvQ3lhc0JvZEwxU1p3MWVEdTYzbEZJdG5ENFdkUWVEMWJwXzBn?oc=5)
 
 ---
 
@@ -126,19 +166,27 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Nueva terapia ralentiza la progresión de la esclerosis múltiple](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEJLYUk0V2piZVE2LUVCQl9BSnhCeWtJRlBRZkJrQWM3MXctR3E4SFF6ODZGVml5cGhsVHVEUDRGYk5zR1duX2VtSDZMaExnZ3NRX3plb1VRTEp1Q0FuRXY2b0pjMjU3by1IVnNSWUVzNHg2cUFDNkRFTmM4TGxPZ1VXT3I5azFiNU9MdWdHVW5zS05neG5SUThZLW1JX3JOSnpNbQ?oc=5)
-
-2026-08-23 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[enpositivo.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEJLYUk0V2piZVE2LUVCQl9BSnhCeWtJRlBRZkJrQWM3MXctR3E4SFF6ODZGVml5cGhsVHVEUDRGYk5zR1duX2VtSDZMaExnZ3NRX3plb1VRTEp1Q0FuRXY2b0pjMjU3by1IVnNSWUVzNHg2cUFDNkRFTmM4TGxPZ1VXT3I5azFiNU9MdWdHVW5zS05neG5SUThZLW1JX3JOSnpNbQ?oc=5)
-
----
-
 ### [Trovato il "motore" del sonno: ecco come il cervello ci spinge a dormire - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
 
 2026-08-23 <span class="news-indication-tag">MS</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
+
+---
+
+### [Ebola in Rd Congo, il Papa: la comunità internazionale aiuti a salvare vite umane - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
+
+---
+
+### [Dissolvable 3D-printed patch aims to improve skin cancer treatment](https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNUlwR2tjdE51WUtjT2dINERGRmZFdmg3X0kycVdpSG8yb0ZWd05uVXhoajBmX3FtX0JZVXNTalBRbXN3RnFTTm0xSVBVQ0s3MzhDWXlMMjlxN3hoelQ2OXRJUWhuX0Jna2Fz?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[RTE.ie](https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNUlwR2tjdE51WUtjT2dINERGRmZFdmg3X0kycVdpSG8yb0ZWd05uVXhoajBmX3FtX0JZVXNTalBRbXN3RnFTTm0xSVBVQ0s3MzhDWXlMMjlxN3hoelQ2OXRJUWhuX0Jna2Fz?oc=5)
 
 ---
 

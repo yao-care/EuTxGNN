@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Una o dos onzas al día: la cantidad de chocolate negro que los expertos relacionan con beneficios para la salud mental](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEE0b1hFTm5oQ1FRNWVQdmdxeXpoMGlFNWlYd0thV1BfLTJHblBGeTVTOUVWMG1oNHc4QUF1cEZYZU83aTc4SlRLR19tSWpjYk0wWUxtdFR6czlpb2tPem5aNEpkMnNLMmc2UjV5c3oxbVgtN1hHcGJfOHlGNmVJazJkLTN0eG91d3JGc1FMTUo3R2xRRG80Mm5ORTRYcGVYMDFzczNQZUcyMlNjMEpYWmZIWUR4cVo2dW1wTEVqN2lqU2dDVU5jQUJ3SmtuX09uODhBZU1HeWM3XzE2M0hz?oc=5)
+### [Daily vitamin can 'reduce depression symptoms' in a month - it only costs £2.50 - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
 
-2026-08-24 <span class="news-indication-tag">depresión</span>
+2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEE0b1hFTm5oQ1FRNWVQdmdxeXpoMGlFNWlYd0thV1BfLTJHblBGeTVTOUVWMG1oNHc4QUF1cEZYZU83aTc4SlRLR19tSWpjYk0wWUxtdFR6czlpb2tPem5aNEpkMnNLMmc2UjV5c3oxbVgtN1hHcGJfOHlGNmVJazJkLTN0eG91d3JGc1FMTUo3R2xRRG80Mm5ORTRYcGVYMDFzczNQZUcyMlNjMEpYWmZIWUR4cVo2dW1wTEVqN2lqU2dDVU5jQUJ3SmtuX09uODhBZU1HeWM3XzE2M0hz?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
 
 ---
 
-### [Vitamina D en invierno: cómo prevenir su déficit y quiénes tienen mayor riesgo - El Mostrador](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRDVkX1hsdmhDczdWMHZIcEw1QU95RENBckxsQ01yZmlvSDA3TVFTUjFDRE1DYkQ0VVlWNUJTc3JCRHFBVTRuaHJoZ1lqTmJHWmluR0Z1Vkx3UjZDTDNKaWJISlZLZDIxMVVONWgzSWxLdFI4ZmNOd1FYbW53SEdWWFJEOG1FQzFoZ2NYenNWNE1qLXIxNmtPNEloTVpfYXRhQjBiZ0RoMDNneEtweHA3d25VR0pZUU50eFF0ekZVeUczMU5HaHlDQnU2bmRxRVNFUG9wUjlROEhNZw?oc=5)
+### [Un simple juego con manzanas podría revelar señales de depresión en solo tres minutos - Gizmodo en Español](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0FaRDZCMk1MQjFja0Q3NDJnZE1Ja3ZXTDlKTW1JREg1d0tFZVBRZGVpa0FraGZvdVJneHN3cFZKY2tjeWhDOVM1eHd3NER6cDVCY2Z5UlFLd3RUaEZjQ1hCUzJqS2hGSS1UX3I2a0luVk9lcFFRdUZUbVh0T0VOR0dBWFdmRkRQX2ZjTmpJbkRFTkhOQW8xOGw3YWRpUC1wYW03b2RWMDY3Q3kwYW8yRlRYRDFUU0hzcHVN?oc=5)
 
 2026-08-24 <span class="news-indication-tag">depresión</span>
 
-來源：[El Mostrador](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRDVkX1hsdmhDczdWMHZIcEw1QU95RENBckxsQ01yZmlvSDA3TVFTUjFDRE1DYkQ0VVlWNUJTc3JCRHFBVTRuaHJoZ1lqTmJHWmluR0Z1Vkx3UjZDTDNKaWJISlZLZDIxMVVONWgzSWxLdFI4ZmNOd1FYbW53SEdWWFJEOG1FQzFoZ2NYenNWNE1qLXIxNmtPNEloTVpfYXRhQjBiZ0RoMDNneEtweHA3d25VR0pZUU50eFF0ekZVeUczMU5HaHlDQnU2bmRxRVNFUG9wUjlROEhNZw?oc=5)
+來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0FaRDZCMk1MQjFja0Q3NDJnZE1Ja3ZXTDlKTW1JREg1d0tFZVBRZGVpa0FraGZvdVJneHN3cFZKY2tjeWhDOVM1eHd3NER6cDVCY2Z5UlFLd3RUaEZjQ1hCUzJqS2hGSS1UX3I2a0luVk9lcFFRdUZUbVh0T0VOR0dBWFdmRkRQX2ZjTmpJbkRFTkhOQW8xOGw3YWRpUC1wYW03b2RWMDY3Q3kwYW8yRlRYRDFUU0hzcHVN?oc=5)
+
+---
+
+### [El chocolate negro no cura la depresión pero puede influir "en el cerebro, la concentración y el bienestar emocional"](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVk0RFRkWk9LYkdoRFdMRHc2TDFQdVpZQXBkRUhoeUIzN2M1YnNWMU5Bckx6YTdha0dnMl9vRDh6SmtYLTctbklvNW5lcUtwU2RGQi1OQmhNNWhaZkdyVnRMWE9IYktNYWk4dVVVRW40b0FtNlNoTWhqY2pFVEt4ZUpFUmpkQlQyX085a3lodm5kb2E4TTV3dkNPcVNVck80LXNXLTNhN2k4NlU2R0dyMGxONGhTWnZDNDV1eA?oc=5)
+
+2026-08-24 <span class="news-indication-tag">depresión</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVk0RFRkWk9LYkdoRFdMRHc2TDFQdVpZQXBkRUhoeUIzN2M1YnNWMU5Bckx6YTdha0dnMl9vRDh6SmtYLTctbklvNW5lcUtwU2RGQi1OQmhNNWhaZkdyVnRMWE9IYktNYWk4dVVVRW40b0FtNlNoTWhqY2pFVEt4ZUpFUmpkQlQyX085a3lodm5kb2E4TTV3dkNPcVNVck80LXNXLTNhN2k4NlU2R0dyMGxONGhTWnZDNDV1eA?oc=5)
 
 ---
 
@@ -78,27 +86,11 @@ permalink: /news/vortioxetine/
 
 ---
 
-### [Un videojuego logra detectar la depresión en tres minutos, según un estudio - El Debate](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2JKeXZFS3piQlhCck9tWnluWG1kYVprZXlEVjR0RDh5WENRR2FEcGpmTldRb2dEbGVRaGo3ODVEcW9XM0dCLTA0ZUdpbFBTVW4xUVFiTUxNendKYWxZWGl6M1A2TjZtZkRfT3BoY1NzbkNnUFFsWGNKSk9obktLR28wZ0NLTWJWYy1CSjZRa2F5N3U0eG05VWxnaURCem01SUdwSkpyVnRSZUN1R2VvLTVUN3dtZVhQNldoVFlJOXRyaVlXTzVuQzRERWxBRWI2Z1JhRDlxRG5nR1pTNEh5WtIB5gFBVV95cUxPcENnR1h3Wk1GS2x5Z3B6OXNVSU1TdGRJcFpYMjJacGRabWwwaTBFMUtvYW0wQUJHZnFpQjg2VGRLVzJQdXkwaG5XUW9mVkYtSGR6ejFVUUZmYWowOGRMdlZBU2FJXzhDdllnMEJzVWR2R3djb0JIVU0yMmJWSW0weGtoUXNDUFNPOFFodU5OaWNYb2VVbTlXTWUtUUFUOFFKcjZMaVhTU1g4dFhiRlE5aUtfemMySHFoRHdsUUVWalNpMVZhRW5sZzVKUnlwU20xTFFWR3pNXzRIb1NiTmI3Z3JleVBhUQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">depresión</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2JKeXZFS3piQlhCck9tWnluWG1kYVprZXlEVjR0RDh5WENRR2FEcGpmTldRb2dEbGVRaGo3ODVEcW9XM0dCLTA0ZUdpbFBTVW4xUVFiTUxNendKYWxZWGl6M1A2TjZtZkRfT3BoY1NzbkNnUFFsWGNKSk9obktLR28wZ0NLTWJWYy1CSjZRa2F5N3U0eG05VWxnaURCem01SUdwSkpyVnRSZUN1R2VvLTVUN3dtZVhQNldoVFlJOXRyaVlXTzVuQzRERWxBRWI2Z1JhRDlxRG5nR1pTNEh5WtIB5gFBVV95cUxPcENnR1h3Wk1GS2x5Z3B6OXNVSU1TdGRJcFpYMjJacGRabWwwaTBFMUtvYW0wQUJHZnFpQjg2VGRLVzJQdXkwaG5XUW9mVkYtSGR6ejFVUUZmYWowOGRMdlZBU2FJXzhDdllnMEJzVWR2R3djb0JIVU0yMmJWSW0weGtoUXNDUFNPOFFodU5OaWNYb2VVbTlXTWUtUUFUOFFKcjZMaVhTU1g4dFhiRlE5aUtfemMySHFoRHdsUUVWalNpMVZhRW5sZzVKUnlwU20xTFFWR3pNXzRIb1NiTmI3Z3JleVBhUQ?oc=5)
-
----
-
 ### [I grassi che nutrono il cervello: dall’ADHD alla depressione alle demenze: cosa sappiamo davvero su omega-3 e salute mentale](https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ2FvdmlHeUJKeF9EVm53ZmJCU0I1eVE2MGlsX25FM0ZHdkE4V3NoLTV2cUVFZV9pZWFSelVoVHlReHN1OUN6d3RURGM1SGszNFdtYVFUMUI0cXU3bEpGOEs5Z2k4b2Z1cy1kbGtab3BtMjNOck1DN2c2a19oaHZycW1BdDA1TTBMeWdzWHNPUzVpak9nOGgzeHBTSG1MUUZCRjlqbjZjYk1KUXZOM3I2T3Q3OGRDaEoxTkl0cmx4M1NEcDhFMDBEdXJJVHdLZklwdEFGNDFZYWQwazVSRHB6Y0RoMEx6SER6ejdrUGhjSlFUb0RUNDN5TngwRG1uOW8tRWc?oc=5)
 
 2026-08-23 <span class="news-indication-tag">depression</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ2FvdmlHeUJKeF9EVm53ZmJCU0I1eVE2MGlsX25FM0ZHdkE4V3NoLTV2cUVFZV9pZWFSelVoVHlReHN1OUN6d3RURGM1SGszNFdtYVFUMUI0cXU3bEpGOEs5Z2k4b2Z1cy1kbGtab3BtMjNOck1DN2c2a19oaHZycW1BdDA1TTBMeWdzWHNPUzVpak9nOGgzeHBTSG1MUUZCRjlqbjZjYk1KUXZOM3I2T3Q3OGRDaEoxTkl0cmx4M1NEcDhFMDBEdXJJVHdLZklwdEFGNDFZYWQwazVSRHB6Y0RoMEx6SER6ejdrUGhjSlFUb0RUNDN5TngwRG1uOW8tRWc?oc=5)
-
----
-
-### [Daily vitamin B6 pill could ease depression within a month - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1Rzd0puY1VucWpVbjVsU05YX3Nhc2ZDSVB0aVljQUlWVV80VzBLQndkS0djZGpQMnJfbnhLdVpkMUVHQWEtNnBTd0J2TWhIRUlJRjRYZUdyOGFnUDB6dnlrczZmODJTRTJTajB2bEItQVp6dFlhNGE1LU5wZzBrdnVRak9pTzM4TGdnSEM1SQ?oc=5)
-
-2026-08-22 <span class="news-indication-tag">depression</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1Rzd0puY1VucWpVbjVsU05YX3Nhc2ZDSVB0aVljQUlWVV80VzBLQndkS0djZGpQMnJfbnhLdVpkMUVHQWEtNnBTd0J2TWhIRUlJRjRYZUdyOGFnUDB6dnlrczZmODJTRTJTajB2bEItQVp6dFlhNGE1LU5wZzBrdnVRak9pTzM4TGdnSEM1SQ?oc=5)
 
 ---
 

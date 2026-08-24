@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,23 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [My boy, 15, could have months to live after docs misdiagnosed common symptom - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
+
+2026-08-24
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
+
+---
+
+### [Due vitamine migliorano la salute dei polmoni in chi soffre di asma: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
+
+2026-08-24
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
+
+---
 
 ### [Un estudio revela nuevas claves del último gran brote de peste de Europa - Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（10 則）
+
+### [Schlaganfall: Vorteile der endovaskulären Thrombektomie bei großen Läsionen später erkennbar - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeTZMeUZQQ05UYkZoZ3NqbV9QaVZkd3pLeF9ydWUzektSNVYwVERfdzZWVUNpcVk0bExDYUdXT3JxMENtYzd4R01lMmRzZ0FyYkRFWjlRYWhmRmZXQ0JsWkNQNFZnMlFFM0ZsempTNzhiVXc2RkZEV3VYcFQ4Slo0SGhlSzVxYjhkMzdiZUFEOUFLYl9vcW1SdF9RdnY2TWVZVDhVamFXSEx5Uk5JSlY2X1lNejg0dDgtbUNOMG5hdllLUHhvYS1nMzVVaWVhOUlnNm96UlBMRHVXVUNYOWRkWlJaV1lJaWhxWElkUGh2MlVaSzQ?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeTZMeUZQQ05UYkZoZ3NqbV9QaVZkd3pLeF9ydWUzektSNVYwVERfdzZWVUNpcVk0bExDYUdXT3JxMENtYzd4R01lMmRzZ0FyYkRFWjlRYWhmRmZXQ0JsWkNQNFZnMlFFM0ZsempTNzhiVXc2RkZEV3VYcFQ4Slo0SGhlSzVxYjhkMzdiZUFEOUFLYl9vcW1SdF9RdnY2TWVZVDhVamFXSEx5Uk5JSlY2X1lNejg0dDgtbUNOMG5hdllLUHhvYS1nMzVVaWVhOUlnNm96UlBMRHVXVUNYOWRkWlJaV1lJaWhxWElkUGh2MlVaSzQ?oc=5)
+
+---
+
+### [Una investigación identifica un posible nuevo tratamiento para la obesidad y la diabetes que ayuda a quemar grasa - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3FXaXVqNUpTZ3RTbTYxT1JiXzZ2dUxoSHl2QkVNamFXOG9IdmExQmtrQnRfeDM5eTVxVFF2dXJSWDMtRnBvbkpzUEtKdWg5bEswakhfc09JNFdFTlJaOEdIS2FpOXhkUVN2bmU5RUJ2dDJWTDQxUmtMYnB4OFdiSkRFdFlOUk9tbDlVaG8tT3d5N1JsQ3AzSy12ekdnNzI0YURvVzFVZ25wRmlYZE5OaWxJSkstX1d1QVZxX9IBtwFBVV95cUxOSDFxMHZxd0p4S2VOcjlfckNaZ2I4dmdlVUVtcjkzQTZ2cllqVnJxRDBCTmRoS2NCeHdfMjBhQjd3dmlIZVNYQjVIdTc4aFVFOG9zTi1CRWt5YTUybFNyamVMRUo1Q0d2SC1oQkIybmVnSEpWLWp1T19SU29NMDExbU52R3F6cHBsb25zaDdfS2cydV9KRmRLbXBhRkcxYUJGVnY5OXR1YXN6dXhrWnNDSk1wbF9BNlk?oc=5)
+
+2026-08-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3FXaXVqNUpTZ3RTbTYxT1JiXzZ2dUxoSHl2QkVNamFXOG9IdmExQmtrQnRfeDM5eTVxVFF2dXJSWDMtRnBvbkpzUEtKdWg5bEswakhfc09JNFdFTlJaOEdIS2FpOXhkUVN2bmU5RUJ2dDJWTDQxUmtMYnB4OFdiSkRFdFlOUk9tbDlVaG8tT3d5N1JsQ3AzSy12ekdnNzI0YURvVzFVZ25wRmlYZE5OaWxJSkstX1d1QVZxX9IBtwFBVV95cUxOSDFxMHZxd0p4S2VOcjlfckNaZ2I4dmdlVUVtcjkzQTZ2cllqVnJxRDBCTmRoS2NCeHdfMjBhQjd3dmlIZVNYQjVIdTc4aFVFOG9zTi1CRWt5YTUybFNyamVMRUo1Q0d2SC1oQkIybmVnSEpWLWp1T19SU29NMDExbU52R3F6cHBsb25zaDdfS2cydV9KRmRLbXBhRkcxYUJGVnY5OXR1YXN6dXhrWnNDSk1wbF9BNlk?oc=5)
+
+---
+
+### [Cianuro contro l’ictus: il paradosso studiato nel cervello](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk9iQXJNN3BlZ3FrLXVRaEtlaW5kNEpma21JNjFmcjRqcUE2d0Zza0RkdnBzZl9qRlREYXZQWEpuU2ZCUUdjNk9iNDg2aGdob0gwb3BnLTZxdUFrcGdPQTlXZmdoaDl0TnVRR3M3cmxvRmR4NDRPbG04cWYtSzQwNzFqWGFoUUJqZ0YzcEtCejA1SDZXNEFVMEREak9qeVNMMDVOQ3NTekR3VFJuYk9oTlpIMjFhcEE?oc=5)
+
+2026-08-24 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk9iQXJNN3BlZ3FrLXVRaEtlaW5kNEpma21JNjFmcjRqcUE2d0Zza0RkdnBzZl9qRlREYXZQWEpuU2ZCUUdjNk9iNDg2aGdob0gwb3BnLTZxdUFrcGdPQTlXZmdoaDl0TnVRR3M3cmxvRmR4NDRPbG04cWYtSzQwNzFqWGFoUUJqZ0YzcEtCejA1SDZXNEFVMEREak9qeVNMMDVOQ3NTekR3VFJuYk9oTlpIMjFhcEE?oc=5)
+
+---
+
+### [All'ospedale di Circolo di Varese l'intelligenza artificiale accelera la diagnosi e il trattamento dell’ictus ischemico](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNak10aTdDVmZVTktJcjZHelRidmJTZkFQOTJ2bDN2QnRJTHdpZ3lCOGRvQzBuUUpGVExoN0hNREZ2VkYwdWVuQTRjdWdxNE55TG5DMnA5RHE0NDQ5V2hyckd0SElLSGRPMmdUMHoxc3RIZzZUX1AzdktaeHBqS0tDY01PalJGejJNZXQyY3Vrbl8zVjVVY0NreXNiblVWTXlrZjFxSndTNU1uYjI2UktyYmR0MGRCVHZoTnJUbFc2VDg0T0toZ0RZOTlPV09NLWt6OHNCQUtCV2dzbmZsMUszT2R1V3lNN2hsT095S1YzZFI?oc=5)
+
+2026-08-24 <span class="news-indication-tag">ictus</span>
+
+來源：[VareseNews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNak10aTdDVmZVTktJcjZHelRidmJTZkFQOTJ2bDN2QnRJTHdpZ3lCOGRvQzBuUUpGVExoN0hNREZ2VkYwdWVuQTRjdWdxNE55TG5DMnA5RHE0NDQ5V2hyckd0SElLSGRPMmdUMHoxc3RIZzZUX1AzdktaeHBqS0tDY01PalJGejJNZXQyY3Vrbl8zVjVVY0NreXNiblVWTXlrZjFxSndTNU1uYjI2UktyYmR0MGRCVHZoTnJUbFc2VDg0T0toZ0RZOTlPV09NLWt6OHNCQUtCV2dzbmZsMUszT2R1V3lNN2hsT095S1YzZFI?oc=5)
+
+---
+
+### [Ce complément alimentaire pourrait augmenter le risque d'AVC chez certaines personnes, selon une vaste étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNlpLNHUxT3ZEcjRPWGxBS0tkZUNrZjlMN0JkNzlYRy1IQXdqcXdsWkpqYlgwSV9IeU41cnVVRWNMTzJaWU1jXzdsLXRWTnlZR3JVMURMcTgyS2ZIS0VBNndMYnJMSzNKTDhEUnktMURlTXVlWjEzb1pJcjVvaEU3VWozNi1RRjZ2bmRXYlF1cGUycUU0NU0tUWxtVlNOMG9Cbzc2YzBiWGF1MXk0MmcyMDdKRE9pRkZGWlI4MjBYVjg2TGFneFRET0Z2U3lnRnVYWEZmdllsNVFFbDhCVldQcTBPODJMc0dsdkUxa1dvaTBYOWhRc1VyV1UtcEI1WkVOWjVhZHJnVmhReDZrN3NUbQ?oc=5)
+
+2026-08-24 <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNlpLNHUxT3ZEcjRPWGxBS0tkZUNrZjlMN0JkNzlYRy1IQXdqcXdsWkpqYlgwSV9IeU41cnVVRWNMTzJaWU1jXzdsLXRWTnlZR3JVMURMcTgyS2ZIS0VBNndMYnJMSzNKTDhEUnktMURlTXVlWjEzb1pJcjVvaEU3VWozNi1RRjZ2bmRXYlF1cGUycUU0NU0tUWxtVlNOMG9Cbzc2YzBiWGF1MXk0MmcyMDdKRE9pRkZGWlI4MjBYVjg2TGFneFRET0Z2U3lnRnVYWEZmdllsNVFFbDhCVldQcTBPODJMc0dsdkUxa1dvaTBYOWhRc1VyV1UtcEI1WkVOWjVhZHJnVmhReDZrN3NUbQ?oc=5)
+
+---
 
 ### [Mar Malagón, referente internacional en obesidad: «La ciencia debe formar parte de la estrategia de cualquier país» - Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
 
@@ -67,6 +107,14 @@ permalink: /news/orlistat/
 2026-08-23 <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+
+---
+
+### [Macrophage 'molecular scissors' may drive obesity-linked inflammation and metabolic damage - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">obesity</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
 
 ---
 

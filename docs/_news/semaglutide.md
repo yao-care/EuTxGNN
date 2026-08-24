@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [La FDA aprueba oveporexton (Takeda), el primer agonista de orexina para el tratamiento de narcolepsia tipo 1 - IM Farmacias](https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzdQN1VYYzRpZkVySTlYLWdTYk9uVGJaMkVMbW9lVkNuX3pORGtpc0ZMTnltVlJEX2h4cFNUQ0NOakJyLUVYMnptcmlFNDV1YUVSYnhmY3FqaVlXdnItRWx5SkFxejN1VmF4X01MTFQwMlcxWE8ybXhkNGc0QVNwdVZUN0FGX2N1ek1JcHFzZ0g5LTY2QmdkZFhPM243SEdpcllYQ3I4S3hTZjjSAaYBQVVfeXFMTzItNGVzOTBiMmNpb1JCQkQtRWtZUGY2Yk4xTjRZTVNYZzR5UGpvc1NyWTdfNFl4Sk03Ukg3dktVN2IybE9RdGcybE9UbFBnSVVad2xtRFpsZ0hoSGFxZ0x0Y3hrMzg2bVV1YkpKWk5qbnJtbkFhZzFJdjRzMnFVeGdlX0FxREhGaTFMM0dqN2Rwb0Zub21CLTB0d1BkZHBWNTVDNUNNZw?oc=5)
+
+2026-08-24 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzdQN1VYYzRpZkVySTlYLWdTYk9uVGJaMkVMbW9lVkNuX3pORGtpc0ZMTnltVlJEX2h4cFNUQ0NOakJyLUVYMnptcmlFNDV1YUVSYnhmY3FqaVlXdnItRWx5SkFxejN1VmF4X01MTFQwMlcxWE8ybXhkNGc0QVNwdVZUN0FGX2N1ek1JcHFzZ0g5LTY2QmdkZFhPM243SEdpcllYQ3I4S3hTZjjSAaYBQVVfeXFMTzItNGVzOTBiMmNpb1JCQkQtRWtZUGY2Yk4xTjRZTVNYZzR5UGpvc1NyWTdfNFl4Sk03Ukg3dktVN2IybE9RdGcybE9UbFBnSVVad2xtRFpsZ0hoSGFxZ0x0Y3hrMzg2bVV1YkpKWk5qbnJtbkFhZzFJdjRzMnFVeGdlX0FxREhGaTFMM0dqN2Rwb0Zub21CLTB0d1BkZHBWNTVDNUNNZw?oc=5)
+
+---
+
+### [Una investigación identifica un posible nuevo tratamiento para la obesidad y la diabetes que ayuda a quemar grasa - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3FXaXVqNUpTZ3RTbTYxT1JiXzZ2dUxoSHl2QkVNamFXOG9IdmExQmtrQnRfeDM5eTVxVFF2dXJSWDMtRnBvbkpzUEtKdWg5bEswakhfc09JNFdFTlJaOEdIS2FpOXhkUVN2bmU5RUJ2dDJWTDQxUmtMYnB4OFdiSkRFdFlOUk9tbDlVaG8tT3d5N1JsQ3AzSy12ekdnNzI0YURvVzFVZ25wRmlYZE5OaWxJSkstX1d1QVZxX9IBtwFBVV95cUxOSDFxMHZxd0p4S2VOcjlfckNaZ2I4dmdlVUVtcjkzQTZ2cllqVnJxRDBCTmRoS2NCeHdfMjBhQjd3dmlIZVNYQjVIdTc4aFVFOG9zTi1CRWt5YTUybFNyamVMRUo1Q0d2SC1oQkIybmVnSEpWLWp1T19SU29NMDExbU52R3F6cHBsb25zaDdfS2cydV9KRmRLbXBhRkcxYUJGVnY5OXR1YXN6dXhrWnNDSk1wbF9BNlk?oc=5)
+
+2026-08-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3FXaXVqNUpTZ3RTbTYxT1JiXzZ2dUxoSHl2QkVNamFXOG9IdmExQmtrQnRfeDM5eTVxVFF2dXJSWDMtRnBvbkpzUEtKdWg5bEswakhfc09JNFdFTlJaOEdIS2FpOXhkUVN2bmU5RUJ2dDJWTDQxUmtMYnB4OFdiSkRFdFlOUk9tbDlVaG8tT3d5N1JsQ3AzSy12ekdnNzI0YURvVzFVZ25wRmlYZE5OaWxJSkstX1d1QVZxX9IBtwFBVV95cUxOSDFxMHZxd0p4S2VOcjlfckNaZ2I4dmdlVUVtcjkzQTZ2cllqVnJxRDBCTmRoS2NCeHdfMjBhQjd3dmlIZVNYQjVIdTc4aFVFOG9zTi1CRWt5YTUybFNyamVMRUo1Q0d2SC1oQkIybmVnSEpWLWp1T19SU29NMDExbU52R3F6cHBsb25zaDdfS2cydV9KRmRLbXBhRkcxYUJGVnY5OXR1YXN6dXhrWnNDSk1wbF9BNlk?oc=5)
+
+---
 
 ### [Canarias actualiza su guía de abordaje de la diabetes de debut para pediatras](https://news.google.com/rss/articles/CBMixAFBVV95cUxObklRdENWejdkTGxmcVk4ZkdNT2lfQ2Ytc1hVMTAxdzhRTjZTWDJYUE1iQUljN1FWZm5hX292dFBnWHJwQnVFcVA2TTRoSGIxUVNEakJNZEhILXhyTUxiUFU5TEJ3dVhUdnF6eEJsMnlIeWRGXzE3ODZNMkNXU3pYVWxtUmZrQWxMbEJXaWtFdXl4NFAtSURRM215UmVqSlZqclNrbnM2dUJqeDdUU1FjVW52NXFQaE01UklGTHhBY3NhMU16?oc=5)
 
@@ -62,15 +78,23 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Alternativa a GLP-1: Un compuesto quema la grasa sin afectar al músculo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkxRaE0ybE1Ta2dNYUJuRFZVenlKMWxWdTBJcy1jMHl3ZXExejNwV3dFN01KVkhKZU9uTndRa2x0LVVkUWU5V1REX3FDbTR1Vzd6UWFQV2xvMTdzXzZ4aVQ5ZElSNlJ4bDJSX0RWWnBVRFc3UnpiLWJ4VW1CUEVKeGI4U1RENWVFdzFpdXFzd2VLdE9LTFRZcjRGUzQ4c1FjYmJid25rdm8zbGM3WVV2VGRB?oc=5)
+### [Un nouveau produit miracle pour perdre du poids : L'"Ozempic naturel" fait le buzz ... mais à quel prix ? - La Libre.be](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMWZwU3BUdjVYWlRVa09hUFJLQUFzTE1CMmlQZGd0eFJQc1hidFlIZjNPYXpfNnVwR2toM0s4cS1lRFRkZ0FyVk5nLUs5Sk92NVJocFlpbHp0UGlraHBjSFBhTXNxNWxVSHlGaGtqdV96UktUN1pBUTBncXdXQnlteFlvdVhaUnBQemVHdUZuOWExdUdxdFBFWDlIVjZFWGwwX3FQYUpaVG5FTzNaeVRqMU1vX2VwNERsQ1djMWdSM2x0OXF3Q1BCOHlyblZXTy1lcXA3andBQ2UycTJMbVF5eUxnaWRWQ1hVOWVaR1k2M0FIdFZNeUJqbWJNamMyb3Bq?oc=5)
 
-2026-08-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
+2026-08-24 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkxRaE0ybE1Ta2dNYUJuRFZVenlKMWxWdTBJcy1jMHl3ZXExejNwV3dFN01KVkhKZU9uTndRa2x0LVVkUWU5V1REX3FDbTR1Vzd6UWFQV2xvMTdzXzZ4aVQ5ZElSNlJ4bDJSX0RWWnBVRFc3UnpiLWJ4VW1CUEVKeGI4U1RENWVFdzFpdXFzd2VLdE9LTFRZcjRGUzQ4c1FjYmJid25rdm8zbGM3WVV2VGRB?oc=5)
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMWZwU3BUdjVYWlRVa09hUFJLQUFzTE1CMmlQZGd0eFJQc1hidFlIZjNPYXpfNnVwR2toM0s4cS1lRFRkZ0FyVk5nLUs5Sk92NVJocFlpbHp0UGlraHBjSFBhTXNxNWxVSHlGaGtqdV96UktUN1pBUTBncXdXQnlteFlvdVhaUnBQemVHdUZuOWExdUdxdFBFWDlIVjZFWGwwX3FQYUpaVG5FTzNaeVRqMU1vX2VwNERsQ1djMWdSM2x0OXF3Q1BCOHlyblZXTy1lcXA3andBQ2UycTJMbVF5eUxnaWRWQ1hVOWVaR1k2M0FIdFZNeUJqbWJNamMyb3Bq?oc=5)
 
 ---
 
-### [Bacterias probióticas de diseño para tratar la diabetes](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
+### [Blood sugar running high despite cutting back on sweets? Doctors explain 5 nutrients that may help your body manage glucose better - The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+
+2026-08-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+
+---
+
+### [Bacterias probióticas de diseño para regular la glucosa en diabetes de tipo 2](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
 
 2026-08-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
 
@@ -110,19 +134,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [GLP-1-Medikamente: Semaglutid und Tirzepatid schützen die Leber](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd25uaFF1SV9rYU9IT1NUMVVIV09uOURLdkN2ZjNtTlJxMWZYMVY4dWMxTVJYeUJtWjVOU1lscjZnU3BZdzQyU1B0UXM1QU9sZnB2THBTem5WRHdzaHB4NkZGRlhSRXlzSUwwVmFma2dZOEJfZ2VWdXZLc1BaOHZlZFNqanZjTE8tR1RiQ0tFQWFDeXB3OXM2cnRDX09CR3pmRVUzZXRnQkNEMjZncUZBSDJn?oc=5)
+### [Fettleber: Wie Semaglutid und Tirzepatid das Fortschreiten stoppen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWY5YlpaYS1fdkFKUERQVzdxa1o1eFhuQlFpRjNTYmtlajVnLUdsVWZqaThDN1Jpa2ZKUkw0dUhiSHAtUlNpYUV6YmVRYzF4QWJOWjdKZ2tELXlLXzNjUXkzRUpyWHc3YnRiLUtJeW1iSUhiT1NNa2F5RFZYOGU1TVdFNEFGV3JDMUV3X2g4NDM0N0F3aS1NU2JVT2dkTHh1bzhvb1Q3NTZxZ1l1bG03c1k3ejg?oc=5)
 
 2026-08-22 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd25uaFF1SV9rYU9IT1NUMVVIV09uOURLdkN2ZjNtTlJxMWZYMVY4dWMxTVJYeUJtWjVOU1lscjZnU3BZdzQyU1B0UXM1QU9sZnB2THBTem5WRHdzaHB4NkZGRlhSRXlzSUwwVmFma2dZOEJfZ2VWdXZLc1BaOHZlZFNqanZjTE8tR1RiQ0tFQWFDeXB3OXM2cnRDX09CR3pmRVUzZXRnQkNEMjZncUZBSDJn?oc=5)
-
----
-
-### [Jabs worried me, but I lost 1½ stone in five weeks on Wegovy pill - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3BpMzNvNG54SWtLYUlyb2RvR1QyUEJXMm1ldXZzNWR1eFhvRThlaXMwbUQ1OVBqUVJXVWpKbkhLdllvZXkzS2pZZTFjWjU5NXA0WE42NGoyWU1ZTFJld3psODRFT20yMFFDOHcwUUpXMUkwUV9HQlFFMUdkeE9FUUcxWl82cnNrYlFSbHFKQmR2NktRYUhB?oc=5)
-
-2026-08-22 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3BpMzNvNG54SWtLYUlyb2RvR1QyUEJXMm1ldXZzNWR1eFhvRThlaXMwbUQ1OVBqUVJXVWpKbkhLdllvZXkzS2pZZTFjWjU5NXA0WE42NGoyWU1ZTFJld3psODRFT20yMFFDOHcwUUpXMUkwUV9HQlFFMUdkeE9FUUcxWl82cnNrYlFSbHFKQmR2NktRYUhB?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWY5YlpaYS1fdkFKUERQVzdxa1o1eFhuQlFpRjNTYmtlajVnLUdsVWZqaThDN1Jpa2ZKUkw0dUhiSHAtUlNpYUV6YmVRYzF4QWJOWjdKZ2tELXlLXzNjUXkzRUpyWHc3YnRiLUtJeW1iSUhiT1NNa2F5RFZYOGU1TVdFNEFGV3JDMUV3X2g4NDM0N0F3aS1NU2JVT2dkTHh1bzhvb1Q3NTZxZ1l1bG03c1k3ejg?oc=5)
 
 ---
 

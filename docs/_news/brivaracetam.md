@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="Brivaracetam 有什麼相關新聞？">
-<strong>Brivaracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brivaracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,16 +45,22 @@ permalink: /news/brivaracetam/
 <li>Rett syndrome, congenital variant（98.8%）</li>
 <li>restless legs syndrome（98.1%）</li>
 <li>partial motor epilepsy（97.8%）</li>
-<li>epilepsy（96.2%）</li>
+<li class="indication-matched">epilepsy（96.2%）<span class="indication-tag">📰 Epilepsie</span></li>
 <li>trigeminal nerve neoplasm（95.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Hörgeräte könnten Demenzrisiko bei Epilepsie senken - Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXl4TWtTZHlNb0ZVSDJyNkpjTklMY29RdTdoTjJtSXpTZVE3UElaMDVYVFVwYllZSEpNeC1nTWZLdTFoS2FRbV9DczVwajliZURGYXp6NmJOR0ttTTdUQzhSdFE3OWswRTRsbll2ZUt4dTVBZGlVbHZKSUtKYUx0bXlqM3Z1SG94RGp5ZHRsaUpBdTkzMmF5LTU1TkN2cjM4M1E?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Epilepsie</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXl4TWtTZHlNb0ZVSDJyNkpjTklMY29RdTdoTjJtSXpTZVE3UElaMDVYVFVwYllZSEpNeC1nTWZLdTFoS2FRbV9DczVwajliZURGYXp6NmJOR0ttTTdUQzhSdFE3OWswRTRsbll2ZUt4dTVBZGlVbHZKSUtKYUx0bXlqM3Z1SG94RGp5ZHRsaUpBdTkzMmF5LTU1TkN2cjM4M1E?oc=5)
+
+---
 
 
 <div class="disclaimer">
