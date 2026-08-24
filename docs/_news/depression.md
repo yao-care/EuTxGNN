@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression（depression） 相關新聞"
+title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# dépression（depression） 相關新聞
+# depression 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depression 有什麼相關新聞？">
+<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [I grassi che nutrono il cervello: dall’ADHD alla depressione alle demenze: cosa sappiamo davvero su omega-3 e salute mentale](https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ2FvdmlHeUJKeF9EVm53ZmJCU0I1eVE2MGlsX25FM0ZHdkE4V3NoLTV2cUVFZV9pZWFSelVoVHlReHN1OUN6d3RURGM1SGszNFdtYVFUMUI0cXU3bEpGOEs5Z2k4b2Z1cy1kbGtab3BtMjNOck1DN2c2a19oaHZycW1BdDA1TTBMeWdzWHNPUzVpak9nOGgzeHBTSG1MUUZCRjlqbjZjYk1KUXZOM3I2T3Q3OGRDaEoxTkl0cmx4M1NEcDhFMDBEdXJJVHdLZklwdEFGNDFZYWQwazVSRHB6Y0RoMEx6SER6ejdrUGhjSlFUb0RUNDN5TngwRG1uOW8tRWc?oc=5)
 
@@ -58,22 +58,6 @@ permalink: /news/depression/
 2026-08-22
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG84clBZM1FDeWFFdGVwRkFHTUZ0eGk2TlZER1RnTkNWMUZWdER1QmoyZ1BIVkU2TWJjSjZnbngtTENfTGhPckV4aHJhbFpseGFRdDlESGdqQjRHQkZXWHc3SW4xWkdCcTY2ZlNBR202dGdNaHR4N3FKOHRrR05ZX3FnQjFSZ3FvSGFfLVpZeU14ZUVENGVVVE9FazBaSS1o?oc=5)
-
----
-
-### [Si on mangeait ce que consomment les Grecs tous les jours, on baisserait de 33% le risque de faire une dépression](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTNvTWdDbmNOSFZIcnVjSWtsSFRCMUhkcERqYnpHSnJ6NXk1a3NvMmlhX2RaMzZaeTU1andiT0NqRVJxN0RYTERfRk1ELTFUZXZFYVllNG5QSzNjcGpyLUtXZlo4cFgtRUtCV1RjWXBSaHg0MlgyR1VITWN5aHFRYzl0alZ6b1dqZi0wNjhLUjVUZnhvT01Mb0hfSS1weE9ndnFuUmRWdUMydDBoR0dZd2ZPZEdmLUQ1X2VEMkN1aUNHbUc1OUdFYk9tNEdfakMy?oc=5)
-
-2026-08-22
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTNvTWdDbmNOSFZIcnVjSWtsSFRCMUhkcERqYnpHSnJ6NXk1a3NvMmlhX2RaMzZaeTU1andiT0NqRVJxN0RYTERfRk1ELTFUZXZFYVllNG5QSzNjcGpyLUtXZlo4cFgtRUtCV1RjWXBSaHg0MlgyR1VITWN5aHFRYzl0alZ6b1dqZi0wNjhLUjVUZnhvT01Mb0hfSS1weE9ndnFuUmRWdUMydDBoR0dZd2ZPZEdmLUQ1X2VEMkN1aUNHbUc1OUdFYk9tNEdfakMy?oc=5)
-
----
-
-### [Depressione, nell’ippocampo i nuovi neuroni sembrano fermarsi prima di maturare](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
-
-2026-08-21
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnhsRDQtTndKWG52bjNWaUM1NkphWE1vaEU0Vng4M0M1WTVBS3puOGkzeGtCdEZZUFBITWxEQ0V4dEs0ajVFUkN3TWtPZEF4dXJ4YkV6b2ltQjd6ZzU2Y2dyZlYwSkJpY2NLNUViV1N1RzEwbnJvVUtmTnpuTzhOSkZadndQdHVMcTZxaW5jY045MG11NlQyclA0Z0xTbUJsemJ4ZlVQSE9iSUxLRm1yYnlMSHI5ZzY1dFRaTkhhUERtcnZDaUlHTnNnUW54RnM3WEZz?oc=5)
 
 ---
 

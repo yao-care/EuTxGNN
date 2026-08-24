@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [FDA autoriza PrecivityAD2 para evaluar Alzheimer con una muestra de sangre](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmxPY2w0SjlYUlJEWUpiZnd1N1kwMFpUZjhWMDRsNEJTSUdLZWZDYkVWS0tEdFFyZEI5cFN0dG1RSDlxQlBfRTk5TzBqTTRxS0V0Y0JqR0ZQN3RIOEd1R0hKYXJ0empYbHRHRTVHQ0xYd2NhYjNqNzJFU1JyS2NORi10OWZsbWxvVDEyT0FKX0VuZnliblJRMkNzM3pnUDd3bWtWTFZEVGNDa3RBTkNZczVR0gG3AUFVX3lxTE1mSzVXYUtyZTdJakRqeWNoc0xxSmc3b1ZqZVJkZ3lfZldoS2FsWHVHdV85M1hIWGhmd2owZVhBR1VtblBfeUt3UnVRQjBMVnltak9rV3RScldKSGZ4dnZNUkgyRGxuX0lXZTJuSVdyY2NqVlJ4Vmp5R3RDUzFxa1IyT0RseVI0aF9kWGNySjhtOUlqU1V2bWFmNlVIaE1ncDExdFA4VHJpd2dncTlGbHYzUWR3U1k5aw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[NotiPress](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmxPY2w0SjlYUlJEWUpiZnd1N1kwMFpUZjhWMDRsNEJTSUdLZWZDYkVWS0tEdFFyZEI5cFN0dG1RSDlxQlBfRTk5TzBqTTRxS0V0Y0JqR0ZQN3RIOEd1R0hKYXJ0empYbHRHRTVHQ0xYd2NhYjNqNzJFU1JyS2NORi10OWZsbWxvVDEyT0FKX0VuZnliblJRMkNzM3pnUDd3bWtWTFZEVGNDa3RBTkNZczVR0gG3AUFVX3lxTE1mSzVXYUtyZTdJakRqeWNoc0xxSmc3b1ZqZVJkZ3lfZldoS2FsWHVHdV85M1hIWGhmd2owZVhBR1VtblBfeUt3UnVRQjBMVnltak9rV3RScldKSGZ4dnZNUkgyRGxuX0lXZTJuSVdyY2NqVlJ4Vmp5R3RDUzFxa1IyT0RseVI0aF9kWGNySjhtOUlqU1V2bWFmNlVIaE1ncDExdFA4VHJpd2dncTlGbHYzUWR3U1k5aw?oc=5)
+
+---
 
 
 <div class="disclaimer">
