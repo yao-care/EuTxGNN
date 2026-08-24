@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Troppo magri per la loro altezza: l’allarme OMS su 11,7 milioni di bambini africani](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3k4bmdGc3Y2LXZCdGltLW03cC1QUDF3aGE1QUVHNTlEaHZsRUxWVWFXWldfLWJhS29XNnN3MDJwQlNLNDByaVFuSXV1SmFBeTNvRWt3aXlaUEVNUXBWMVltaVZTZ041SWIzOW5HSnF1Vlg3c0FLSEsyczFSMXRZR25PQVlINlEzODBlaTNDLW5jdHFnT1l2YTEyT1Z1LV9zc0xyekN5UUV4SThOSUJXczBIM205U2hPcjM4MkIxYkNwVXZxaFNSMFVyQ21XOTM5NTJHUWNqVQ?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [Trovato il "motore" del sonno: ecco come il cervello ci spinge a dormire - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
+
+---
+
 ### [Ebola in Rd Congo, il Papa: la comunità internazionale aiuti a salvare vite umane - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
 
 2026-08-23 <span class="news-indication-tag">MS</span>
@@ -80,17 +88,9 @@ permalink: /news/peginterferon-alfa-2a/
 
 ### [Pope appeals for international aid for Ebola victims in DRC - Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
 
-2026-08-23 <span class="news-indication-tag">MS</span>
+2026-08-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
-
----
-
-### [Treppensteigen: Sterberisiko sinkt um 24 Prozent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
-
-2026-08-23 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
 
 ---
 
@@ -99,6 +99,14 @@ permalink: /news/peginterferon-alfa-2a/
 2026-08-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
+
+---
+
+### [NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer - The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
 
 ---
 
@@ -123,22 +131,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-08-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
-
----
-
-### [A gut health scientist easily eats 50 grams of fiber a day. Here's her breakfast, lunch, and dinner. - Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnpYNDZ3a0RQd28tZWx1ZWc1Z3dSSHJoZ21KLVJ3bmVTS1lOak5wWmw3UDN1MjNHaW9WUHY0bVZpdFZqWVR2cHoyblNSWlhDbEJUTFhmZ1ljcDFyZV9RdTBUTzR6QXpQbGNmUmFzRV81MS1Qa250Wi01dURWTU9qd0JpUWxFOU9wSXExNF9fSmpuVmx4d19admh3?oc=5)
-
-2026-08-22 <span class="news-indication-tag">MS</span>
-
-來源：[Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnpYNDZ3a0RQd28tZWx1ZWc1Z3dSSHJoZ21KLVJ3bmVTS1lOak5wWmw3UDN1MjNHaW9WUHY0bVZpdFZqWVR2cHoyblNSWlhDbEJUTFhmZ1ljcDFyZV9RdTBUTzR6QXpQbGNmUmFzRV81MS1Qa250Wi01dURWTU9qd0JpUWxFOU9wSXExNF9fSmpuVmx4d19admh3?oc=5)
-
----
-
-### [“Per fare sesso ho bisogno del crack”. Dentro l'abisso del chemsex che sta distruggendo i romani](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
-
-2026-08-22 <span class="news-indication-tag">MS</span>
-
-來源：[RomaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
 
 ---
 

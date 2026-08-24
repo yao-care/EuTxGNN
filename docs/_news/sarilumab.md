@@ -78,11 +78,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Gestörter Energiestoffwechsel: Stoffwechselengpass hält chronische Darmentzündungen in Gang](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
+### [Darmentzündung: Ballaststoffmangel triggert schädliche Bakterien-Metabolite](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYzhocmJ1cE4xclF3aEFfMzJkUjNIVW1LTkItam5qSm1jcDZfWEFiUHpkVjZvaDBJZXZYLUxiQ1NPREhhWnUxWVh5dzBLQUtvdmZoVllEdkItTVE3Ri1ubFVEUlVQb29sbmRmc2FPVFVFaWhHNlJHNHc3b1RvbVZtTV9xaVdEdUlOdTRMc0ZPVDFJTGVPb2FEeEw1RW9jYjB3Z0ZYSEViYw?oc=5)
 
 2026-08-22 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYzhocmJ1cE4xclF3aEFfMzJkUjNIVW1LTkItam5qSm1jcDZfWEFiUHpkVjZvaDBJZXZYLUxiQ1NPREhhWnUxWVh5dzBLQUtvdmZoVllEdkItTVE3Ri1ubFVEUlVQb29sbmRmc2FPVFVFaWhHNlJHNHc3b1RvbVZtTV9xaVdEdUlOdTRMc0ZPVDFJTGVPb2FEeEw1RW9jYjB3Z0ZYSEViYw?oc=5)
 
 ---
 

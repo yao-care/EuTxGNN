@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（23 則）
+
+### [Studie am Uniklinikum in Homburg: Neue Therapie hilft auch bei schwerem Prostatakrebs - Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
+
+---
+
+### [ASS gegen Darmkrebs? Blutungsrisiko klarer als Nutzen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnc1QTRuRk53V3gzRGd1bE5FbVFTT3NBUG9CZ3lqOUQzRjlKOXUxbEJ1TGk4MEg0Wi0weENWam0xNmZHX194bVVsTkRXMmo2YlNvd2l2d2QyaWw4TzN5RFFadDBXN3lEcU56bHBMejByQ0pmMk1zOVVBQVhUYWVRSkdJc1hsclM0TkoxQUtXNDlJY1pYZUEwbjhtbEM0ZVk?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnc1QTRuRk53V3gzRGd1bE5FbVFTT3NBUG9CZ3lqOUQzRjlKOXUxbEJ1TGk4MEg0Wi0weENWam0xNmZHX194bVVsTkRXMmo2YlNvd2l2d2QyaWw4TzN5RFFadDBXN3lEcU56bHBMejByQ0pmMk1zOVVBQVhUYWVRSkdJc1hsclM0TkoxQUtXNDlJY1pYZUEwbjhtbEM0ZVk?oc=5)
+
+---
+
+### [Cancer patient fights to scrap VAT on sunscreen](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+
+---
+
+### [„Krebs kann T-Zellen zermürben“: Rockefeller-Forscher enthüllen, wie Tumorzellen das Immunsystem aushebeln - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJabzEzbU9TUUxRT0Q0YVUxaUJLY3RLMmpQbEVmX3EzUU80X3dpNDRHYk5acDZ3ZXBmcXN4ellfc0tuQlRYQnhFM0h3SUNyTGlpSC1qZm1OdmxuYXNfTEw2eFNwNXVvcmlnS0pnVlVpbHNIT0VZV2IzNk1nRk5nLTE1U1U0b0NFSmptcG5UbWVQSzZRMk42Q1U5a1gwOTNnM1BOZUtjZjVqSWI0X3d4WXBJMnVCVVI2amtDRk9DelZ6WXVFaC1WMmZSRl9GRnMzd1E?oc=5)
+
+2026-08-24 <span class="news-indication-tag">tumor</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJabzEzbU9TUUxRT0Q0YVUxaUJLY3RLMmpQbEVmX3EzUU80X3dpNDRHYk5acDZ3ZXBmcXN4ellfc0tuQlRYQnhFM0h3SUNyTGlpSC1qZm1OdmxuYXNfTEw2eFNwNXVvcmlnS0pnVlVpbHNIT0VZV2IzNk1nRk5nLTE1U1U0b0NFSmptcG5UbWVQSzZRMk42Q1U5a1gwOTNnM1BOZUtjZjVqSWI0X3d4WXBJMnVCVVI2amtDRk9DelZ6WXVFaC1WMmZSRl9GRnMzd1E?oc=5)
+
+---
+
+### [Bowel cancer patients spared surgery under new treatment - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+---
 
 ### [Why stomach cancer is often diagnosed too late - Business Daily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXFDUVUyMnR1aWJXNUhxcENHTnhFTjFZMERuOTBXVHRqQk9IYkhmZDZucU1LZDdNQlRndUZtalpmZS00VndCaThuR0NXMnQ1N3FwX3V6M2prLWVDd0RKdmNyY0ZhekZxZV8wdm1vSGxJTHVLTTgxTTk0WkxoUEFEUkNBRkpWSFJHdFNUMm54d0RjSWFyeExTcFVSRkFka0xPMU9fX2kwb1NJRDJ5b0t3THlNdk1WRXpNOHc?oc=5)
 
@@ -107,6 +147,14 @@ permalink: /news/amlodipine/
 2026-08-23 <span class="news-indication-tag">Krebs</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFUyVEhET3JMbGJSRE1iNjlFSUZNM2dnM0s1LV9FNE5NZ1g3WGtET0xXT0x5QURlYld0Wmh3UU9VV0drdVhZeXNoZTROQ3c5MXFEajFUYWZRWFpISS1MZkQyWXBEeHNwOFptdnFfT3FLMjRaM0NwUnU4akNLS2g1a2xpRG0wMmt4Y2ZSUlctYmlLZEtwVWJ5aVY0dzZ6VFVyM1g5MGk0WGpabHJYNlNIV3FwM2dJZHM2VGlSbXNodXhrV3JQQ2syZ0p5OW5IN3h1VHRuZW9R?oc=5)
+
+---
+
+### [NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer - The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
 
 ---
 
@@ -166,27 +214,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Concetta d’Alessandro, dermatóloga, sobre las manchas en verano: “Aunque solemos asociarlas al envejecimiento, son una manifestación visible del daño solar crónico. La piel tiene memoria” - La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUTJhZmlSZDI0d3ZDN0p3b2hVZWZQbHNqVlJnQTRrY3NZNUZ6X2pnaE93aVJqNHltelNBZDZtRElWN1NNSFVaU1VBNFg1VjdjQnhxcm9rRVBRTWQ5TTNOUEhnbzlUdkxFWllabmpqUEJrano1a29oVVp6Y1ZZc3dkZ080U1FaZ3JSMWlVbExmX1dLRUhIUnhFS0N1M2xlR2Y1MTU0OUlpaFJnM3ExZmh1dVZ5b04yN21EeXQ2SjZUcGNtZ1dhbnFQS1ZuUHRUM1JhVXVOVUQ2eEFKcFFkUVo1bUpIRm5rSGdRbUh6LTVtN1daYVZ3Qm44bjNjZk9xYnkxS2ZNRDhfTE82Ui0wcjFZWGQ5ZFhlTFY0aE0tMk5hOHZMbEs4V2gwQ21nbmtzN1lUZElfbWJ5WTJkZWtBSWgtNTVmd9IByAJBVV95cUxPT0hXQjhNMDVwX2U2ekVxYUxXWnB5NFJfWVRSNHVqTzk1UWpMcW5hX3JtQzJDLVdRQ3ptMkExbVdJMzFId0hBcGNaVTRfR0lUVUR0TFRVTlZvMmhuQUs0aVVrMmZ0M1lYQUZzemJ5cTVaV3VHVkVsMHRHYW55WHVWUkJKR0pBRU5PZXRiWDZickQ4MjRxX0tvOGphdWR5aG1vdVpHNFRwX0VKVmdtTmdNb2NrM2NPNmF4aHpwa3hmczBWbHpabUZPdGNpSi1tQmZ3X1RYMmNxVzZpbi1WZzVRYjQ1WGZQYU5vRHU2VWFOc0E2WjM5M2hWX3E1UE9mMUtCTHNQX0tJeU1nM2NkWVFkR0RXdHNqa2lWdFd4UHdCYzBDWDRUdmtPZlpwSjZEeldqSWNzWDVhSF94N2loOUJmMUt0S3l3TU5W?oc=5)
-
-2026-08-22 <span class="news-drug-tag">Amlodipine</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUTJhZmlSZDI0d3ZDN0p3b2hVZWZQbHNqVlJnQTRrY3NZNUZ6X2pnaE93aVJqNHltelNBZDZtRElWN1NNSFVaU1VBNFg1VjdjQnhxcm9rRVBRTWQ5TTNOUEhnbzlUdkxFWllabmpqUEJrano1a29oVVp6Y1ZZc3dkZ080U1FaZ3JSMWlVbExmX1dLRUhIUnhFS0N1M2xlR2Y1MTU0OUlpaFJnM3ExZmh1dVZ5b04yN21EeXQ2SjZUcGNtZ1dhbnFQS1ZuUHRUM1JhVXVOVUQ2eEFKcFFkUVo1bUpIRm5rSGdRbUh6LTVtN1daYVZ3Qm44bjNjZk9xYnkxS2ZNRDhfTE82Ui0wcjFZWGQ5ZFhlTFY0aE0tMk5hOHZMbEs4V2gwQ21nbmtzN1lUZElfbWJ5WTJkZWtBSWgtNTVmd9IByAJBVV95cUxPT0hXQjhNMDVwX2U2ekVxYUxXWnB5NFJfWVRSNHVqTzk1UWpMcW5hX3JtQzJDLVdRQ3ptMkExbVdJMzFId0hBcGNaVTRfR0lUVUR0TFRVTlZvMmhuQUs0aVVrMmZ0M1lYQUZzemJ5cTVaV3VHVkVsMHRHYW55WHVWUkJKR0pBRU5PZXRiWDZickQ4MjRxX0tvOGphdWR5aG1vdVpHNFRwX0VKVmdtTmdNb2NrM2NPNmF4aHpwa3hmczBWbHpabUZPdGNpSi1tQmZ3X1RYMmNxVzZpbi1WZzVRYjQ1WGZQYU5vRHU2VWFOc0E2WjM5M2hWX3E1UE9mMUtCTHNQX0tJeU1nM2NkWVFkR0RXdHNqa2lWdFd4UHdCYzBDWDRUdmtPZlpwSjZEeldqSWNzWDVhSF94N2loOUJmMUt0S3l3TU5W?oc=5)
-
----
-
 ### [Doctors missed by small baby's 2kg tumour six times, then it spread](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
 
 2026-08-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
-
----
-
-### [This yeast supplement may boost cancer-fighting immunity - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
 
 ---
 
@@ -203,14 +235,6 @@ permalink: /news/amlodipine/
 2026-08-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdLT3N4RUUxOXBMMDNyR1d4c3I2VUtQUmJoYUIxMWlBa1MwOTc2RTNWYzNmRE95M2ZwV1NrWUtycnhwTjBBYTN1Z0ZDRmV6WXpiNWhsYVlha1JnR3p0clQyalEtVmJFOFgtbzVMWEt1YlZCWWd1VGl4b2kzcXJPY2ZYbEZpeEtPd09wekE5MjVpSDdtd0hnRU5XTQ?oc=5)
-
----
-
-### [L'ondata estiva di norovirus e come distinguere la gastroenterite virale da un colpo di calore o una congestione](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQTJCUDJXSnVwVThsQXBaNkd1SXZDMi1NeVN0dVFxTFNJQ2JiNURDdjhheVlXVzV1N0tfRnpYT3E1ejhpSXZxanpLaVIyVjNhdU85SC03Um5nUl9xS1VqR0JWT1B5TFNUY1JzdlBfcDlzR2dwM3RTUUF3a2VPY25nVURYUTFOMFE0czJrOWpYOWJaa053bGg3WGwxUk5UQmIwc0hNUkVqU2F4Rk9HQ0V4TVpMX1otRkNpSThIVmhDQ0pEUWwydnZWR1RxYUc4aFFaR1AxRWx5Wkl0SEZCcElmOTBjX2FxTkJSU2NEb0lGRQ?oc=5)
-
-2026-08-22 <span class="news-drug-tag">Amlodipine</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQTJCUDJXSnVwVThsQXBaNkd1SXZDMi1NeVN0dVFxTFNJQ2JiNURDdjhheVlXVzV1N0tfRnpYT3E1ejhpSXZxanpLaVIyVjNhdU85SC03Um5nUl9xS1VqR0JWT1B5TFNUY1JzdlBfcDlzR2dwM3RTUUF3a2VPY25nVURYUTFOMFE0czJrOWpYOWJaa053bGg3WGwxUk5UQmIwc0hNUkVqU2F4Rk9HQ0V4TVpMX1otRkNpSThIVmhDQ0pEUWwydnZWR1RxYUc4aFFaR1AxRWx5Wkl0SEZCcElmOTBjX2FxTkJSU2NEb0lGRQ?oc=5)
 
 ---
 

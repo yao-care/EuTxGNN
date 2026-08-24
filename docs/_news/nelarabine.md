@@ -14,7 +14,7 @@ permalink: /news/nelarabine/
 ---
 
 <p class="key-answer" data-question="Nelarabine 有什麼相關新聞？">
-<strong>Nelarabine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nelarabine</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/nelarabine/
 <p><a href="{{ '/drugs/nelarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（25 則）
+
+### [Studie am Uniklinikum in Homburg: Neue Therapie hilft auch bei schwerem Prostatakrebs - Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
+
+---
+
+### [ASS gegen Darmkrebs? Blutungsrisiko klarer als Nutzen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnc1QTRuRk53V3gzRGd1bE5FbVFTT3NBUG9CZ3lqOUQzRjlKOXUxbEJ1TGk4MEg0Wi0weENWam0xNmZHX194bVVsTkRXMmo2YlNvd2l2d2QyaWw4TzN5RFFadDBXN3lEcU56bHBMejByQ0pmMk1zOVVBQVhUYWVRSkdJc1hsclM0TkoxQUtXNDlJY1pYZUEwbjhtbEM0ZVk?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnc1QTRuRk53V3gzRGd1bE5FbVFTT3NBUG9CZ3lqOUQzRjlKOXUxbEJ1TGk4MEg0Wi0weENWam0xNmZHX194bVVsTkRXMmo2YlNvd2l2d2QyaWw4TzN5RFFadDBXN3lEcU56bHBMejByQ0pmMk1zOVVBQVhUYWVRSkdJc1hsclM0TkoxQUtXNDlJY1pYZUEwbjhtbEM0ZVk?oc=5)
+
+---
+
+### [Cancer patient fights to scrap VAT on sunscreen](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+
+---
+
+### [„Krebs kann T-Zellen zermürben“: Rockefeller-Forscher enthüllen, wie Tumorzellen das Immunsystem aushebeln - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJabzEzbU9TUUxRT0Q0YVUxaUJLY3RLMmpQbEVmX3EzUU80X3dpNDRHYk5acDZ3ZXBmcXN4ellfc0tuQlRYQnhFM0h3SUNyTGlpSC1qZm1OdmxuYXNfTEw2eFNwNXVvcmlnS0pnVlVpbHNIT0VZV2IzNk1nRk5nLTE1U1U0b0NFSmptcG5UbWVQSzZRMk42Q1U5a1gwOTNnM1BOZUtjZjVqSWI0X3d4WXBJMnVCVVI2amtDRk9DelZ6WXVFaC1WMmZSRl9GRnMzd1E?oc=5)
+
+2026-08-24 <span class="news-indication-tag">tumor</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJabzEzbU9TUUxRT0Q0YVUxaUJLY3RLMmpQbEVmX3EzUU80X3dpNDRHYk5acDZ3ZXBmcXN4ellfc0tuQlRYQnhFM0h3SUNyTGlpSC1qZm1OdmxuYXNfTEw2eFNwNXVvcmlnS0pnVlVpbHNIT0VZV2IzNk1nRk5nLTE1U1U0b0NFSmptcG5UbWVQSzZRMk42Q1U5a1gwOTNnM1BOZUtjZjVqSWI0X3d4WXBJMnVCVVI2amtDRk9DelZ6WXVFaC1WMmZSRl9GRnMzd1E?oc=5)
+
+---
+
+### [Bowel cancer patients spared surgery under new treatment - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+---
 
 ### [Troppo magri per la loro altezza: l’allarme OMS su 11,7 milioni di bambini africani](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3k4bmdGc3Y2LXZCdGltLW03cC1QUDF3aGE1QUVHNTlEaHZsRUxWVWFXWldfLWJhS29XNnN3MDJwQlNLNDByaVFuSXV1SmFBeTNvRWt3aXlaUEVNUXBWMVltaVZTZ041SWIzOW5HSnF1Vlg3c0FLSEsyczFSMXRZR25PQVlINlEzODBlaTNDLW5jdHFnT1l2YTEyT1Z1LV9zc0xyekN5UUV4SThOSUJXczBIM205U2hPcjM4MkIxYkNwVXZxaFNSMFVyQ21XOTM5NTJHUWNqVQ?oc=5)
 
@@ -94,6 +134,14 @@ permalink: /news/nelarabine/
 
 ---
 
+### [Trovato il "motore" del sonno: ecco come il cervello ci spinge a dormire - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
+
+---
+
 ### [Ebola in Rd Congo, il Papa: la comunità internazionale aiuti a salvare vite umane - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
 
 2026-08-23 <span class="news-indication-tag">MS</span>
@@ -104,7 +152,7 @@ permalink: /news/nelarabine/
 
 ### [Pope appeals for international aid for Ebola victims in DRC - Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
 
-2026-08-23 <span class="news-indication-tag">MS</span>
+2026-08-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
 
@@ -115,14 +163,6 @@ permalink: /news/nelarabine/
 2026-08-23 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzRzVGM4M2pUTlRVMEZuRERldThmcTB0eU1xN3dEemtHcC14SDM3NXFNOU1KaUs1bTNZUHFTVGtPMkFJMkNoLVpZNlNKbF9oaVgxVmt2X0RIMG9NRjQ3YklPRjFlZmw5UDV4aUF2aGlqanlLcFJ1bUNuX0hSUURDTjNFQ2JrVWFVZHRPNGdIbHpDd0s5YXEyYXAzc2dCdkNTcVRqRHYtX2gwcjBuU3cxdXFtd0dlLU1OMzg2UHdyd0RQeXNmRF9fczh6aWRpNkVvQmdzZF96dk0?oc=5)
-
----
-
-### [Treppensteigen: Sterberisiko sinkt um 24 Prozent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
-
-2026-08-23 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
 
 ---
 
@@ -139,6 +179,14 @@ permalink: /news/nelarabine/
 2026-08-23 <span class="news-indication-tag">Krebs</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFUyVEhET3JMbGJSRE1iNjlFSUZNM2dnM0s1LV9FNE5NZ1g3WGtET0xXT0x5QURlYld0Wmh3UU9VV0drdVhZeXNoZTROQ3c5MXFEajFUYWZRWFpISS1MZkQyWXBEeHNwOFptdnFfT3FLMjRaM0NwUnU4akNLS2g1a2xpRG0wMmt4Y2ZSUlctYmlLZEtwVWJ5aVY0dzZ6VFVyM1g5MGk0WGpabHJYNlNIV3FwM2dJZHM2VGlSbXNodXhrV3JQQ2syZ0p5OW5IN3h1VHRuZW9R?oc=5)
+
+---
+
+### [NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer - The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
 
 ---
 
@@ -198,35 +246,11 @@ permalink: /news/nelarabine/
 
 ---
 
-### [This yeast supplement may boost cancer-fighting immunity - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
-
----
-
-### [A gut health scientist easily eats 50 grams of fiber a day. Here's her breakfast, lunch, and dinner. - Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnpYNDZ3a0RQd28tZWx1ZWc1Z3dSSHJoZ21KLVJ3bmVTS1lOak5wWmw3UDN1MjNHaW9WUHY0bVZpdFZqWVR2cHoyblNSWlhDbEJUTFhmZ1ljcDFyZV9RdTBUTzR6QXpQbGNmUmFzRV81MS1Qa250Wi01dURWTU9qd0JpUWxFOU9wSXExNF9fSmpuVmx4d19admh3?oc=5)
-
-2026-08-22 <span class="news-indication-tag">MS</span>
-
-來源：[Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnpYNDZ3a0RQd28tZWx1ZWc1Z3dSSHJoZ21KLVJ3bmVTS1lOak5wWmw3UDN1MjNHaW9WUHY0bVZpdFZqWVR2cHoyblNSWlhDbEJUTFhmZ1ljcDFyZV9RdTBUTzR6QXpQbGNmUmFzRV81MS1Qa250Wi01dURWTU9qd0JpUWxFOU9wSXExNF9fSmpuVmx4d19admh3?oc=5)
-
----
-
 ### [Prostate cancer cases surge by 100,000 in six years - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdLT3N4RUUxOXBMMDNyR1d4c3I2VUtQUmJoYUIxMWlBa1MwOTc2RTNWYzNmRE95M2ZwV1NrWUtycnhwTjBBYTN1Z0ZDRmV6WXpiNWhsYVlha1JnR3p0clQyalEtVmJFOFgtbzVMWEt1YlZCWWd1VGl4b2kzcXJPY2ZYbEZpeEtPd09wekE5MjVpSDdtd0hnRU5XTQ?oc=5)
 
 2026-08-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdLT3N4RUUxOXBMMDNyR1d4c3I2VUtQUmJoYUIxMWlBa1MwOTc2RTNWYzNmRE95M2ZwV1NrWUtycnhwTjBBYTN1Z0ZDRmV6WXpiNWhsYVlha1JnR3p0clQyalEtVmJFOFgtbzVMWEt1YlZCWWd1VGl4b2kzcXJPY2ZYbEZpeEtPd09wekE5MjVpSDdtd0hnRU5XTQ?oc=5)
-
----
-
-### [“Per fare sesso ho bisogno del crack”. Dentro l'abisso del chemsex che sta distruggendo i romani](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
-
-2026-08-22 <span class="news-indication-tag">MS</span>
-
-來源：[RomaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Neue Kinderkrankheit? Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/semaglutide/
 2026-08-22 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS1FnRmZ2OVNWSGgzNkdHdFJWc1otNGRndTNjMzczUnRTVzYtWG9pa0pXeXV6UDAxdXdNV0ppNzNTdzVWd2hVZTBlelZOUHhxaGVLcFVQUlZMVEtLYjJad21WT1UzMmxsQXFrVDNNSXRQNWg2dmZ1N1B3VUdqZWJkZEg4bUxaVkFNdHZjVWRsUXRpdlZoUkNMNnFOOHFuUDZ2OUZfa2dqX3oycDJxWkFDd2t3WVQ3OXBwcHZVUUhrekVyeG5vYllqQnpWWTZUM0VfUkZIQ3hheG9Mdw?oc=5)
-
----
-
-### [Una bacteria de diseño que funciona como el Ozempic en el intestino](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWTNkNEJ0WEp4Sl9CUFMzQTZRTTgwV3AyYmp1Ymk2bFBpaUpZUDlwd3RLZ2hFbmtfUVF3QWN1eThxNTFnVnVaOXdHZ0trRjBySWR5bnJ5TEZrTEt4UlZPQlBWRzlnWjRfUS0yS2lBTWt4WVhfRGpxcm01TjFQX1RRRkRKeDQtYUdudHlZS2p0S2RpZUtsUERQdU9vSGVTYzA2elpFZFlBREUtcVJTck9Zeg?oc=5)
-
-2026-08-22 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWTNkNEJ0WEp4Sl9CUFMzQTZRTTgwV3AyYmp1Ymk2bFBpaUpZUDlwd3RLZ2hFbmtfUVF3QWN1eThxNTFnVnVaOXdHZ0trRjBySWR5bnJ5TEZrTEt4UlZPQlBWRzlnWjRfUS0yS2lBTWt4WVhfRGpxcm01TjFQX1RRRkRKeDQtYUdudHlZS2p0S2RpZUtsUERQdU9vSGVTYzA2elpFZFlBREUtcVJTck9Zeg?oc=5)
 
 ---
 

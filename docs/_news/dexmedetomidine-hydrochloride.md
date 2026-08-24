@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Krafttraining gegen Hypertonie: 44% weniger Herzinfarkte bei Frauen](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
 
 2026-08-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5TakR6R3p0YzQwbGdHSmVwbjZVVGNMNVoyN0pGNUNJS0x0SU5xMV81TXF6UENiam5xRDFHOHljSkJPb2RaTFJZRXA3ZWx4cWZOMldsaVAzd1ZGbzlKWHByOUdwZkZSQS1sNjRCc2NmQVF6Q2hnU1EtdVJ6dmtSbHpXbkRyVHp1a1JWeVZJTDRBTDF3QjFXRzUtY1ltUXVDMndtSWN2UEZ6cnVEdjBldW11d3hSQQ?oc=5)
-
----
-
-### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">migraine</span>
-
-來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
 ---
 

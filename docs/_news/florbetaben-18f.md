@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="Florbetaben (18F) 有什麼相關新聞？">
-<strong>Florbetaben (18F)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetaben (18F)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/florbetaben-18f/
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [From forehead wrinkles to eye bumps and a key sign on your ears - the 6 signs of hidden heart disease on your face - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/florbetaben-18f/
 2026-08-22 <span class="news-indication-tag">arthritis</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQalUtLWt1cjF0SEFYRElldkZaMW5IamNjVlEwOW40RUJaVmtVT0J3c0RyUU9OdnpYMXUwWHV6ejdHU0w3c1lIczFqNV9qdk5LaDNhclNEOEdrbEd2bmkxUkZQTVhObzdfTzJ4Tml1RERTTnFfbEtadlh3Wlg1cUdHOUxOaGkteGJETVhRWERIRFhMajJDcGhRRQ?oc=5)
-
----
-
-### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">migraine</span>
-
-來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
 ---
 

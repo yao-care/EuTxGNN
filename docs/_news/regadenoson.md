@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Un estudio revela nuevas claves del último gran brote de peste de Europa - Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/regadenoson/
 2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
-
----
-
-### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">migraine</span>
-
-來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
 ---
 

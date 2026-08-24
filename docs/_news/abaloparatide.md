@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Neue Kinderkrankheit? Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/abaloparatide/
 2026-08-23 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
-
----
-
-### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">migraine</span>
-
-來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
 ---
 

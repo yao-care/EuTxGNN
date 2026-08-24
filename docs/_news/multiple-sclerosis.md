@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Troppo magri per la loro altezza: l’allarme OMS su 11,7 milioni di bambini africani](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3k4bmdGc3Y2LXZCdGltLW03cC1QUDF3aGE1QUVHNTlEaHZsRUxWVWFXWldfLWJhS29XNnN3MDJwQlNLNDByaVFuSXV1SmFBeTNvRWt3aXlaUEVNUXBWMVltaVZTZ041SWIzOW5HSnF1Vlg3c0FLSEsyczFSMXRZR25PQVlINlEzODBlaTNDLW5jdHFnT1l2YTEyT1Z1LV9zc0xyekN5UUV4SThOSUJXczBIM205U2hPcjM4MkIxYkNwVXZxaFNSMFVyQ21XOTM5NTJHUWNqVQ?oc=5)
 
@@ -69,6 +69,14 @@ permalink: /news/multiple-sclerosis/
 2026-08-23
 
 來源：[enpositivo.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEJLYUk0V2piZVE2LUVCQl9BSnhCeWtJRlBRZkJrQWM3MXctR3E4SFF6ODZGVml5cGhsVHVEUDRGYk5zR1duX2VtSDZMaExnZ3NRX3plb1VRTEp1Q0FuRXY2b0pjMjU3by1IVnNSWUVzNHg2cUFDNkRFTmM4TGxPZ1VXT3I5azFiNU9MdWdHVW5zS05neG5SUThZLW1JX3JOSnpNbQ?oc=5)
+
+---
+
+### [Trovato il "motore" del sonno: ecco come il cervello ci spinge a dormire - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
+
+2026-08-23
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
 
 ---
 
@@ -88,19 +96,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Treppensteigen: Sterberisiko sinkt um 24 Prozent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
-
-2026-08-23
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0o5RVE5UlNxZjFNdDB0SEJRXzVSakNEZ3NpZFRPMTJkM3ptTjRCWDNxV3J5Z3c0RmFoN1VOUkl4bFV1N1FPWXA0Nm1XMzUwdVNWWWo3UEYtQ1B5WE9DUDlwTTg2U0dNVkJhbC1lOURYMHM2OFJJaEh5QjNjT2h3YkVwM3dFYzI3MGNUelFvSjZGQ0NvSEd6aHdGZlc?oc=5)
-
----
-
 ### [Semaglutide slimming jab study aims to help alcohol dependency](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
 
 2026-08-23
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
+
+---
+
+### [NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer - The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
+
+2026-08-23
+
+來源：[The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
 
 ---
 
@@ -125,22 +133,6 @@ permalink: /news/multiple-sclerosis/
 2026-08-22
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
-
----
-
-### [A gut health scientist easily eats 50 grams of fiber a day. Here's her breakfast, lunch, and dinner. - Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnpYNDZ3a0RQd28tZWx1ZWc1Z3dSSHJoZ21KLVJ3bmVTS1lOak5wWmw3UDN1MjNHaW9WUHY0bVZpdFZqWVR2cHoyblNSWlhDbEJUTFhmZ1ljcDFyZV9RdTBUTzR6QXpQbGNmUmFzRV81MS1Qa250Wi01dURWTU9qd0JpUWxFOU9wSXExNF9fSmpuVmx4d19admh3?oc=5)
-
-2026-08-22
-
-來源：[Business Insider](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnpYNDZ3a0RQd28tZWx1ZWc1Z3dSSHJoZ21KLVJ3bmVTS1lOak5wWmw3UDN1MjNHaW9WUHY0bVZpdFZqWVR2cHoyblNSWlhDbEJUTFhmZ1ljcDFyZV9RdTBUTzR6QXpQbGNmUmFzRV81MS1Qa250Wi01dURWTU9qd0JpUWxFOU9wSXExNF9fSmpuVmx4d19admh3?oc=5)
-
----
-
-### [“Per fare sesso ho bisogno del crack”. Dentro l'abisso del chemsex che sta distruggendo i romani](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
-
-2026-08-22
-
-來源：[RomaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMG5mSHdHY3VOazRuRm9mSmZPWmhSbkRiNU9ROUYwZDBPdTJsUkRaQUpnRDA2RHJ4dC1qbEg2OF90N255ZklKMzBVQnNDMVZVTDNkQVFqSlJFdGhiVC1HanVmTGJvZnNNMm9LeXdsVzdWb0k?oc=5)
 
 ---
 

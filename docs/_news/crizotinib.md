@@ -14,7 +14,7 @@ permalink: /news/crizotinib/
 ---
 
 <p class="key-answer" data-question="Crizotinib 有什麼相關新聞？">
-<strong>Crizotinib</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Crizotinib</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/crizotinib/
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（19 則）
+
+### [Studie am Uniklinikum in Homburg: Neue Therapie hilft auch bei schwerem Prostatakrebs - Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
+
+---
+
+### [ASS gegen Darmkrebs? Blutungsrisiko klarer als Nutzen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnc1QTRuRk53V3gzRGd1bE5FbVFTT3NBUG9CZ3lqOUQzRjlKOXUxbEJ1TGk4MEg0Wi0weENWam0xNmZHX194bVVsTkRXMmo2YlNvd2l2d2QyaWw4TzN5RFFadDBXN3lEcU56bHBMejByQ0pmMk1zOVVBQVhUYWVRSkdJc1hsclM0TkoxQUtXNDlJY1pYZUEwbjhtbEM0ZVk?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnc1QTRuRk53V3gzRGd1bE5FbVFTT3NBUG9CZ3lqOUQzRjlKOXUxbEJ1TGk4MEg0Wi0weENWam0xNmZHX194bVVsTkRXMmo2YlNvd2l2d2QyaWw4TzN5RFFadDBXN3lEcU56bHBMejByQ0pmMk1zOVVBQVhUYWVRSkdJc1hsclM0TkoxQUtXNDlJY1pYZUEwbjhtbEM0ZVk?oc=5)
+
+---
+
+### [Cancer patient fights to scrap VAT on sunscreen](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+
+---
+
+### [„Krebs kann T-Zellen zermürben“: Rockefeller-Forscher enthüllen, wie Tumorzellen das Immunsystem aushebeln - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJabzEzbU9TUUxRT0Q0YVUxaUJLY3RLMmpQbEVmX3EzUU80X3dpNDRHYk5acDZ3ZXBmcXN4ellfc0tuQlRYQnhFM0h3SUNyTGlpSC1qZm1OdmxuYXNfTEw2eFNwNXVvcmlnS0pnVlVpbHNIT0VZV2IzNk1nRk5nLTE1U1U0b0NFSmptcG5UbWVQSzZRMk42Q1U5a1gwOTNnM1BOZUtjZjVqSWI0X3d4WXBJMnVCVVI2amtDRk9DelZ6WXVFaC1WMmZSRl9GRnMzd1E?oc=5)
+
+2026-08-24 <span class="news-indication-tag">tumor</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJabzEzbU9TUUxRT0Q0YVUxaUJLY3RLMmpQbEVmX3EzUU80X3dpNDRHYk5acDZ3ZXBmcXN4ellfc0tuQlRYQnhFM0h3SUNyTGlpSC1qZm1OdmxuYXNfTEw2eFNwNXVvcmlnS0pnVlVpbHNIT0VZV2IzNk1nRk5nLTE1U1U0b0NFSmptcG5UbWVQSzZRMk42Q1U5a1gwOTNnM1BOZUtjZjVqSWI0X3d4WXBJMnVCVVI2amtDRk9DelZ6WXVFaC1WMmZSRl9GRnMzd1E?oc=5)
+
+---
+
+### [Prueba de sangre para Alzheimer se convierte en la primera autorizada por la FDA para adultos a partir de los 40 años](https://news.google.com/rss/articles/CBMiigJBVV95cUxNaEg4SW5Pc05XQmYtdDhlN1BVb005cWMwUnk2VFBHRkhVdU90cy1BS3BvZ1RHUUlIeHN5T0ZfdGlOMHlMWGpOTUs3c29tSW5kY2hxV3F6Mk1OMXF5ZjQ4Z0liRDdIcnJwVkpxX3dCVk1jQnZ3V2dsN01QMm5HdHFBSHoyaXk2U2Q1RjVTSzIzekpLNVN1c0FXVl9FdVllNkNJcWY3djYtRld1emRGOXF6dVN1VHhsT2pPU21BSS1aZkRSTUtmb0xOamlZSGw1cEh5X19BcEo5TG5CaHo5eE55dDBlVjJocEhaWTlTTWJJSWZwOWZLQWlrbk90WkVfYkFjNzBtcVE4YzFDQdIBmAJBVV95cUxNY3JKLVhwTVo5UG9la2NCak1yZ2NlcUxxdTFEN1BoVkRkNF9LdlktVy1TM0UtWVVha2lGZmhRaW9IN0k5WXNCdGVfOXVkRUJmdmNIQzJFaFZWanBSSUFNbGwtcTB6Xy1wTnBMa2JwSkdoZUJwVHNXWDZCUDNTbWZKYjNYNGpjTkoyQ0xaSkp1X0JqZTNkNlNxNmdTdmtzVmxjcVlPOHRkRDZ1RzBTYk9jTUlXRXZYeTJoNnJaaVhFRG95YUYxeFh6WEZ4NzZXc090QVc1T3Y3SGhZN05tQmp0UkJHajZsVmhzd2JRYVdpRjMxYks3U0hiaC10dnhYOG4tYmY3eTZTMTRVVWo5dUEyakxWSk0zT3ly?oc=5)
+
+2026-08-24 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[labmedica.es](https://news.google.com/rss/articles/CBMiigJBVV95cUxNaEg4SW5Pc05XQmYtdDhlN1BVb005cWMwUnk2VFBHRkhVdU90cy1BS3BvZ1RHUUlIeHN5T0ZfdGlOMHlMWGpOTUs3c29tSW5kY2hxV3F6Mk1OMXF5ZjQ4Z0liRDdIcnJwVkpxX3dCVk1jQnZ3V2dsN01QMm5HdHFBSHoyaXk2U2Q1RjVTSzIzekpLNVN1c0FXVl9FdVllNkNJcWY3djYtRld1emRGOXF6dVN1VHhsT2pPU21BSS1aZkRSTUtmb0xOamlZSGw1cEh5X19BcEo5TG5CaHo5eE55dDBlVjJocEhaWTlTTWJJSWZwOWZLQWlrbk90WkVfYkFjNzBtcVE4YzFDQdIBmAJBVV95cUxNY3JKLVhwTVo5UG9la2NCak1yZ2NlcUxxdTFEN1BoVkRkNF9LdlktVy1TM0UtWVVha2lGZmhRaW9IN0k5WXNCdGVfOXVkRUJmdmNIQzJFaFZWanBSSUFNbGwtcTB6Xy1wTnBMa2JwSkdoZUJwVHNXWDZCUDNTbWZKYjNYNGpjTkoyQ0xaSkp1X0JqZTNkNlNxNmdTdmtzVmxjcVlPOHRkRDZ1RzBTYk9jTUlXRXZYeTJoNnJaaVhFRG95YUYxeFh6WEZ4NzZXc090QVc1T3Y3SGhZN05tQmp0UkJHajZsVmhzd2JRYVdpRjMxYks3U0hiaC10dnhYOG4tYmY3eTZTMTRVVWo5dUEyakxWSk0zT3ly?oc=5)
+
+---
+
+### [Bowel cancer patients spared surgery under new treatment - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+---
 
 ### [Why stomach cancer is often diagnosed too late - Business Daily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXFDUVUyMnR1aWJXNUhxcENHTnhFTjFZMERuOTBXVHRqQk9IYkhmZDZucU1LZDdNQlRndUZtalpmZS00VndCaThuR0NXMnQ1N3FwX3V6M2prLWVDd0RKdmNyY0ZhekZxZV8wdm1vSGxJTHVLTTgxTTk0WkxoUEFEUkNBRkpWSFJHdFNUMm54d0RjSWFyeExTcFVSRkFka0xPMU9fX2kwb1NJRDJ5b0t3THlNdk1WRXpNOHc?oc=5)
 
@@ -94,6 +142,14 @@ permalink: /news/crizotinib/
 
 ---
 
+### [NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer - The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
+
+---
+
 ### [Un nuovo test delle urine potrebbe aiutare a curare il cancro alla vescica - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV2ZTbnN6c19qN013V2I2enc2SXE2M2g4TGs1N2VKdHBPaU03TTlZNGtCSXAwRFVfelhoZlFlY2h2aTlULTFLclZGVVFBSWwydklITHJhTlVQenpSMTRZQjFUckhWVlVuZUlZbjJzTFY2T3NpT0paZ2NpQ0hVS0RqMTVlZEVNdG1oRXU2Y0FjcUVXeHN6RUMzYzBreWdYSkI4dnhZVFZJMDhzeFBKMTVscHpocmJBUHJLeFR3Ukc3LUhVYzVzRHpOZm9PNmo2RE1Ncjh6SFg1Ym13ZjNjeTQ0eTU1aUliT19xS01qOFJseE51QXlteWgwaVFn0gHKAUFVX3lxTE15ZEloVkYtQVBtbVB5VHJTdXJHWXpRSlcxaFF1bkRmYTQyVktWa1JjX0hjOG1yQldOSjlSYU5XNktjR3JfSU1CdWJGM1lveHBJaWVUS2RySXlpeC15czF1NmIzN0dEZTNDMjU1WGk1Q0ZXTnFnUXdBTkdLVWw4WWNDMWhGVUJuV1lZNWFIV3pHUjlZcGxPVTBRbnpuMm12cUw2c2J1aUNycENNUjdOR1ZpSi00Y3V5djhhOFdTWTZyWElhMWN0NWEzalE?oc=5)
 
 2026-08-23 <span class="news-indication-tag">cancro</span>
@@ -126,14 +182,6 @@ permalink: /news/crizotinib/
 
 ---
 
-### [FDA autoriza PrecivityAD2 para evaluar Alzheimer con una muestra de sangre](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmxPY2w0SjlYUlJEWUpiZnd1N1kwMFpUZjhWMDRsNEJTSUdLZWZDYkVWS0tEdFFyZEI5cFN0dG1RSDlxQlBfRTk5TzBqTTRxS0V0Y0JqR0ZQN3RIOEd1R0hKYXJ0empYbHRHRTVHQ0xYd2NhYjNqNzJFU1JyS2NORi10OWZsbWxvVDEyT0FKX0VuZnliblJRMkNzM3pnUDd3bWtWTFZEVGNDa3RBTkNZczVR0gG3AUFVX3lxTE1mSzVXYUtyZTdJakRqeWNoc0xxSmc3b1ZqZVJkZ3lfZldoS2FsWHVHdV85M1hIWGhmd2owZVhBR1VtblBfeUt3UnVRQjBMVnltak9rV3RScldKSGZ4dnZNUkgyRGxuX0lXZTJuSVdyY2NqVlJ4Vmp5R3RDUzFxa1IyT0RseVI0aF9kWGNySjhtOUlqU1V2bWFmNlVIaE1ncDExdFA4VHJpd2dncTlGbHYzUWR3U1k5aw?oc=5)
-
-2026-08-23 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[NotiPress](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmxPY2w0SjlYUlJEWUpiZnd1N1kwMFpUZjhWMDRsNEJTSUdLZWZDYkVWS0tEdFFyZEI5cFN0dG1RSDlxQlBfRTk5TzBqTTRxS0V0Y0JqR0ZQN3RIOEd1R0hKYXJ0empYbHRHRTVHQ0xYd2NhYjNqNzJFU1JyS2NORi10OWZsbWxvVDEyT0FKX0VuZnliblJRMkNzM3pnUDd3bWtWTFZEVGNDa3RBTkNZczVR0gG3AUFVX3lxTE1mSzVXYUtyZTdJakRqeWNoc0xxSmc3b1ZqZVJkZ3lfZldoS2FsWHVHdV85M1hIWGhmd2owZVhBR1VtblBfeUt3UnVRQjBMVnltak9rV3RScldKSGZ4dnZNUkgyRGxuX0lXZTJuSVdyY2NqVlJ4Vmp5R3RDUzFxa1IyT0RseVI0aF9kWGNySjhtOUlqU1V2bWFmNlVIaE1ncDExdFA4VHJpd2dncTlGbHYzUWR3U1k5aw?oc=5)
-
----
-
 ### [Da funghi champignon possibile azione anti-cancro prostata, si studia meccanismo](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDFLLTVoY1VhTFZyelYwMmY1SnNIMnZTZmctWmQxOEJpcUZQUEVxQWpKbU5KVUllOHhfMC1uNE0wQnpOazdQUS0xTG9LTTRQeVh2WFM3cWdpcC1sRVBxdDZrMU1ZWnp4c25sRFBFU2JVSHFBTVZURHRNMk5pNXFvQXlPcG1XcklScmF2X2dTOWxtdUdENEswLTVncm1wUmY2Z1RicEFfbGExZklkcEkwTlJhZFo?oc=5)
 
 2026-08-22 <span class="news-indication-tag">cancro</span>
@@ -147,14 +195,6 @@ permalink: /news/crizotinib/
 2026-08-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
-
----
-
-### [This yeast supplement may boost cancer-fighting immunity - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
 
 ---
 

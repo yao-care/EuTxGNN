@@ -14,7 +14,7 @@ permalink: /news/topotecan/
 ---
 
 <p class="key-answer" data-question="Topotecan 有什麼相關新聞？">
-<strong>Topotecan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Topotecan</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/topotecan/
 <p><a href="{{ '/drugs/topotecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（18 則）
+
+### [Studie am Uniklinikum in Homburg: Neue Therapie hilft auch bei schwerem Prostatakrebs - Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
+
+---
+
+### [ASS gegen Darmkrebs? Blutungsrisiko klarer als Nutzen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnc1QTRuRk53V3gzRGd1bE5FbVFTT3NBUG9CZ3lqOUQzRjlKOXUxbEJ1TGk4MEg0Wi0weENWam0xNmZHX194bVVsTkRXMmo2YlNvd2l2d2QyaWw4TzN5RFFadDBXN3lEcU56bHBMejByQ0pmMk1zOVVBQVhUYWVRSkdJc1hsclM0TkoxQUtXNDlJY1pYZUEwbjhtbEM0ZVk?oc=5)
+
+2026-08-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnc1QTRuRk53V3gzRGd1bE5FbVFTT3NBUG9CZ3lqOUQzRjlKOXUxbEJ1TGk4MEg0Wi0weENWam0xNmZHX194bVVsTkRXMmo2YlNvd2l2d2QyaWw4TzN5RFFadDBXN3lEcU56bHBMejByQ0pmMk1zOVVBQVhUYWVRSkdJc1hsclM0TkoxQUtXNDlJY1pYZUEwbjhtbEM0ZVk?oc=5)
+
+---
+
+### [Cancer patient fights to scrap VAT on sunscreen](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+
+---
+
+### [„Krebs kann T-Zellen zermürben“: Rockefeller-Forscher enthüllen, wie Tumorzellen das Immunsystem aushebeln - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJabzEzbU9TUUxRT0Q0YVUxaUJLY3RLMmpQbEVmX3EzUU80X3dpNDRHYk5acDZ3ZXBmcXN4ellfc0tuQlRYQnhFM0h3SUNyTGlpSC1qZm1OdmxuYXNfTEw2eFNwNXVvcmlnS0pnVlVpbHNIT0VZV2IzNk1nRk5nLTE1U1U0b0NFSmptcG5UbWVQSzZRMk42Q1U5a1gwOTNnM1BOZUtjZjVqSWI0X3d4WXBJMnVCVVI2amtDRk9DelZ6WXVFaC1WMmZSRl9GRnMzd1E?oc=5)
+
+2026-08-24 <span class="news-indication-tag">tumor</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWJabzEzbU9TUUxRT0Q0YVUxaUJLY3RLMmpQbEVmX3EzUU80X3dpNDRHYk5acDZ3ZXBmcXN4ellfc0tuQlRYQnhFM0h3SUNyTGlpSC1qZm1OdmxuYXNfTEw2eFNwNXVvcmlnS0pnVlVpbHNIT0VZV2IzNk1nRk5nLTE1U1U0b0NFSmptcG5UbWVQSzZRMk42Q1U5a1gwOTNnM1BOZUtjZjVqSWI0X3d4WXBJMnVCVVI2amtDRk9DelZ6WXVFaC1WMmZSRl9GRnMzd1E?oc=5)
+
+---
+
+### [Bowel cancer patients spared surgery under new treatment - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+---
 
 ### [Why stomach cancer is often diagnosed too late - Business Daily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXFDUVUyMnR1aWJXNUhxcENHTnhFTjFZMERuOTBXVHRqQk9IYkhmZDZucU1LZDdNQlRndUZtalpmZS00VndCaThuR0NXMnQ1N3FwX3V6M2prLWVDd0RKdmNyY0ZhekZxZV8wdm1vSGxJTHVLTTgxTTk0WkxoUEFEUkNBRkpWSFJHdFNUMm54d0RjSWFyeExTcFVSRkFka0xPMU9fX2kwb1NJRDJ5b0t3THlNdk1WRXpNOHc?oc=5)
 
@@ -91,6 +131,14 @@ permalink: /news/topotecan/
 2026-08-23 <span class="news-indication-tag">Krebs</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFUyVEhET3JMbGJSRE1iNjlFSUZNM2dnM0s1LV9FNE5NZ1g3WGtET0xXT0x5QURlYld0Wmh3UU9VV0drdVhZeXNoZTROQ3c5MXFEajFUYWZRWFpISS1MZkQyWXBEeHNwOFptdnFfT3FLMjRaM0NwUnU4akNLS2g1a2xpRG0wMmt4Y2ZSUlctYmlLZEtwVWJ5aVY0dzZ6VFVyM1g5MGk0WGpabHJYNlNIV3FwM2dJZHM2VGlSbXNodXhrV3JQQ2syZ0p5OW5IN3h1VHRuZW9R?oc=5)
+
+---
+
+### [NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer - The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
 
 ---
 
@@ -139,14 +187,6 @@ permalink: /news/topotecan/
 2026-08-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
-
----
-
-### [This yeast supplement may boost cancer-fighting immunity - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYzVSMmVhR2lfQ1lXNmg0ZWcwOUFnYWlERlJFbDl5a2Yxa2xVdll5MWJxeXhMUkxtNnE0bUtwNnZ5elNiM1RRX0g2VmQtLXJpVFRoR0dXeU8zdGFNMnBpTHVQaWtVMUhhN1hLUjZXdw?oc=5)
 
 ---
 

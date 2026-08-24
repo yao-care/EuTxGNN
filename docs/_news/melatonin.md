@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
 
 2026-08-23 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
-
----
-
-### [«Je vomissais dans les toilettes»: une infirmière soulagée après 40 ans de migraines grâce à un nouveau traitement - Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">migraine</span>
-
-來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjdsV0x5UEtBWjR5ZFNWelY4Q1pIdlRQaVE1X3ZQcVZSYWpYQ2JwdklMTWhtYnYtczRQMmVjNlcwWDFzRWdkTlQtSnl3SFJPVVp4Y2cyUFJHTENiUkFGSTFVY1BEdEYxS0F4aEljbEdHSjA3N0c5dEs0ZXJPODN2emdhMFd1RGxTOHhuY2tHUFhkTHYtcTc2bV8tand3dXEzdkJjWFdFWkNGQWVldEJLZy1UbmZPa3ZiR1lZcTM4T2ZuNHltdFBjZl9uR1NLUmJSaGZxTw?oc=5)
 
 ---
 
