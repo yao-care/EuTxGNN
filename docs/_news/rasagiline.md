@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Prueba de sangre para Alzheimer se convierte en la primera autorizada por la FDA para adultos a partir de los 40 años](https://news.google.com/rss/articles/CBMiigJBVV95cUxNaEg4SW5Pc05XQmYtdDhlN1BVb005cWMwUnk2VFBHRkhVdU90cy1BS3BvZ1RHUUlIeHN5T0ZfdGlOMHlMWGpOTUs3c29tSW5kY2hxV3F6Mk1OMXF5ZjQ4Z0liRDdIcnJwVkpxX3dCVk1jQnZ3V2dsN01QMm5HdHFBSHoyaXk2U2Q1RjVTSzIzekpLNVN1c0FXVl9FdVllNkNJcWY3djYtRld1emRGOXF6dVN1VHhsT2pPU21BSS1aZkRSTUtmb0xOamlZSGw1cEh5X19BcEo5TG5CaHo5eE55dDBlVjJocEhaWTlTTWJJSWZwOWZLQWlrbk90WkVfYkFjNzBtcVE4YzFDQdIBmAJBVV95cUxNY3JKLVhwTVo5UG9la2NCak1yZ2NlcUxxdTFEN1BoVkRkNF9LdlktVy1TM0UtWVVha2lGZmhRaW9IN0k5WXNCdGVfOXVkRUJmdmNIQzJFaFZWanBSSUFNbGwtcTB6Xy1wTnBMa2JwSkdoZUJwVHNXWDZCUDNTbWZKYjNYNGpjTkoyQ0xaSkp1X0JqZTNkNlNxNmdTdmtzVmxjcVlPOHRkRDZ1RzBTYk9jTUlXRXZYeTJoNnJaaVhFRG95YUYxeFh6WEZ4NzZXc090QVc1T3Y3SGhZN05tQmp0UkJHajZsVmhzd2JRYVdpRjMxYks3U0hiaC10dnhYOG4tYmY3eTZTMTRVVWo5dUEyakxWSk0zT3ly?oc=5)
-
-2026-08-24 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[labmedica.es](https://news.google.com/rss/articles/CBMiigJBVV95cUxNaEg4SW5Pc05XQmYtdDhlN1BVb005cWMwUnk2VFBHRkhVdU90cy1BS3BvZ1RHUUlIeHN5T0ZfdGlOMHlMWGpOTUs3c29tSW5kY2hxV3F6Mk1OMXF5ZjQ4Z0liRDdIcnJwVkpxX3dCVk1jQnZ3V2dsN01QMm5HdHFBSHoyaXk2U2Q1RjVTSzIzekpLNVN1c0FXVl9FdVllNkNJcWY3djYtRld1emRGOXF6dVN1VHhsT2pPU21BSS1aZkRSTUtmb0xOamlZSGw1cEh5X19BcEo5TG5CaHo5eE55dDBlVjJocEhaWTlTTWJJSWZwOWZLQWlrbk90WkVfYkFjNzBtcVE4YzFDQdIBmAJBVV95cUxNY3JKLVhwTVo5UG9la2NCak1yZ2NlcUxxdTFEN1BoVkRkNF9LdlktVy1TM0UtWVVha2lGZmhRaW9IN0k5WXNCdGVfOXVkRUJmdmNIQzJFaFZWanBSSUFNbGwtcTB6Xy1wTnBMa2JwSkdoZUJwVHNXWDZCUDNTbWZKYjNYNGpjTkoyQ0xaSkp1X0JqZTNkNlNxNmdTdmtzVmxjcVlPOHRkRDZ1RzBTYk9jTUlXRXZYeTJoNnJaaVhFRG95YUYxeFh6WEZ4NzZXc090QVc1T3Y3SGhZN05tQmp0UkJHajZsVmhzd2JRYVdpRjMxYks3U0hiaC10dnhYOG4tYmY3eTZTMTRVVWo5dUEyakxWSk0zT3ly?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

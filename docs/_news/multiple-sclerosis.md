@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,71 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（14 則）
+
+### [Warum Parkinson, MS und MND unterschiedlich zunehmen - Gelbe Liste](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3V4MERUQTNNRlhoU3lsbEtrZzd2UE5SM3AyeWJKZ3RzSFB2SExDMWtZcURobGR6UjEyQVVaU1pDdU5VZmNRWmcxd2d0X3VaRmZZbVkwU1N0RjVNM0pBeEZkTF95eENPSDNGNlFyeWJSbEVEMTRwR1VhSFpNQnhvWUhtR0tld21FWExBbk1ZZjVVbHEyc0Z6STc1VFZ2dTNDTG5QSWhBaURYaEFQ?oc=5)
+
+2026-08-24
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3V4MERUQTNNRlhoU3lsbEtrZzd2UE5SM3AyeWJKZ3RzSFB2SExDMWtZcURobGR6UjEyQVVaU1pDdU5VZmNRWmcxd2d0X3VaRmZZbVkwU1N0RjVNM0pBeEZkTF95eENPSDNGNlFyeWJSbEVEMTRwR1VhSFpNQnhvWUhtR0tld21FWExBbk1ZZjVVbHEyc0Z6STc1VFZ2dTNDTG5QSWhBaURYaEFQ?oc=5)
+
+---
+
+### [Frühere MS-Diagnose nach McDonald 2024: Was die neuen Kriterien in der Praxis verändern](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaF9kTWlVN3lvNXdlMjFhWWVDUExYV0RHVndRdEJvUWlERGJBOEVleUdwSkNyV183UGl4NnVBbHN6MGJmeHlPVk1FNDl1Y1p5akZ3Um9XcHBmR1ppS3ktOHh2dWZ2THRycHIwbVI2YkNXUndxV2NmdEI1SzVSVm5NVTRWRWxTSWVfTUZpYWNCR19LZXJkNUpKekFnVG5EclRaeW5hMHdCN2gyeU0zZWlncFVR?oc=5)
+
+2026-08-24
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaF9kTWlVN3lvNXdlMjFhWWVDUExYV0RHVndRdEJvUWlERGJBOEVleUdwSkNyV183UGl4NnVBbHN6MGJmeHlPVk1FNDl1Y1p5akZ3Um9XcHBmR1ppS3ktOHh2dWZ2THRycHIwbVI2YkNXUndxV2NmdEI1SzVSVm5NVTRWRWxTSWVfTUZpYWNCR19LZXJkNUpKekFnVG5EclRaeW5hMHdCN2gyeU0zZWlncFVR?oc=5)
+
+---
+
+### [I had NINE heart problems and women called me disgusting - then I lost 15st - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
+
+2026-08-24
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
+
+---
+
+### [How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+
+2026-08-24
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+
+---
+
+### [AI trial aims to detect depression in new mothers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
+
+2026-08-24
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
+
+---
+
+### ["Il faut une réponse politique" : deux hommes vivant avec le VIH entament une grève de la faim contre la sérophobie - France 3 Régions](https://news.google.com/rss/articles/CBMikgJBVV95cUxOR2NWcEdaUFVXOTcxTUNHX0tEZUhmdGRGMXRKQTBtRmU4YjVCR1g0UURYVEhKQXIyN0ZDc3JDZ2MxSmd0RFlDNldGVTFudmhPemtNR3hZVTlOSDFVbGhLZFFfY05aX05QMk02aGJheG51Q0VfWDl5eG5EVFMzTnh4MlY5dk5kVmJCRWFiUldSUVBHejJEV0x4WnktZXUxOF9MSHFfdVoyUWt6eWR6akN4X3ZIT1pnaUNNTkRWSXQ0T3ozMTZwMGZfMG1GU0JwS3Fiby10TjBlWXRCTlFNVEpKdUhTeE9mdEdkZThacGNvQ3lhc0JvZEwxU1p3MWVEdTYzbEZJdG5ENFdkUWVEMWJwXzBn?oc=5)
+
+2026-08-24
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMikgJBVV95cUxOR2NWcEdaUFVXOTcxTUNHX0tEZUhmdGRGMXRKQTBtRmU4YjVCR1g0UURYVEhKQXIyN0ZDc3JDZ2MxSmd0RFlDNldGVTFudmhPemtNR3hZVTlOSDFVbGhLZFFfY05aX05QMk02aGJheG51Q0VfWDl5eG5EVFMzTnh4MlY5dk5kVmJCRWFiUldSUVBHejJEV0x4WnktZXUxOF9MSHFfdVoyUWt6eWR6akN4X3ZIT1pnaUNNTkRWSXQ0T3ozMTZwMGZfMG1GU0JwS3Fiby10TjBlWXRCTlFNVEpKdUhTeE9mdEdkZThacGNvQ3lhc0JvZEwxU1p3MWVEdTYzbEZJdG5ENFdkUWVEMWJwXzBn?oc=5)
+
+---
+
+### [El diseño de virus con IA alerta a los investigadores sobre la bioseguridad - La Vanguardia](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU5BZHNJRGhOMDR2ZFhpalRaMjhYSEM3WHFkdE9ockF6cXBYOFZHa1NWbVFkcUNtM0RXUFhWdDNNRU1RUEw2dWMtaU04bEtFV1EtQzM1NUhSRXpDblM0dkp1eGFGVDFzLVVuVG1QejNkdUlRV3FEU1ZOdFN6OWdlMW1xUUJDN3ZTLVZRYzJ0Y01IVkR6Y2NZM0hMQnlCRF9hcnVCYWFpVmVSMThTWjI2cUdhSdIBuAFBVV95cUxOY0JNQ2xEZ2tjaEVpMm83T0J0cDVhR1FhdXV6d0wyMmYxQ0hOMTktZWNncy1DaGlRcV9HczF2d3RRYjJ2cks0R3VnU0gyN2FzbmlVLThhQmxxOXJQZU5yeVdDOGpkbUkzVWY3M3pnS3JucWJsNF9DYjZERkJibXR6NkNjOXh2cE0zYlN2cEVxdEVmY3dFQm5DeTQ5dTVISmNGNmNPX0w4S19hN0pLb0IyQjM2Y2doa2dK?oc=5)
+
+2026-08-24
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU5BZHNJRGhOMDR2ZFhpalRaMjhYSEM3WHFkdE9ockF6cXBYOFZHa1NWbVFkcUNtM0RXUFhWdDNNRU1RUEw2dWMtaU04bEtFV1EtQzM1NUhSRXpDblM0dkp1eGFGVDFzLVVuVG1QejNkdUlRV3FEU1ZOdFN6OWdlMW1xUUJDN3ZTLVZRYzJ0Y01IVkR6Y2NZM0hMQnlCRF9hcnVCYWFpVmVSMThTWjI2cUdhSdIBuAFBVV95cUxOY0JNQ2xEZ2tjaEVpMm83T0J0cDVhR1FhdXV6d0wyMmYxQ0hOMTktZWNncy1DaGlRcV9HczF2d3RRYjJ2cks0R3VnU0gyN2FzbmlVLThhQmxxOXJQZU5yeVdDOGpkbUkzVWY3M3pnS3JucWJsNF9DYjZERkJibXR6NkNjOXh2cE0zYlN2cEVxdEVmY3dFQm5DeTQ5dTVISmNGNmNPX0w4S19hN0pLb0IyQjM2Y2doa2dK?oc=5)
+
+---
+
+### [Tiny fish could unlock new MS drugs. Brexit is getting in the way.](https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNOaTM2ZkFQcjVpdGVnampUbXY2d1RsQU5xUnFWUUFuUlphVUdKcnhGVkY3NjhyRndUclJxajBxX1Q4NVp2Nkp3QzRGMGNHN1VWS3FzQ0lMZlJpajZLZ3cxNm80SjFxOVlyVGtEaGxMeW1COUNzSmxidTlGQzVSRGEweER2a2FNVTctMXdrcTBnNFNjRFFCak45Z1lqQQ?oc=5)
+
+2026-08-24
+
+來源：[politico.eu](https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNOaTM2ZkFQcjVpdGVnampUbXY2d1RsQU5xUnFWUUFuUlphVUdKcnhGVkY3NjhyRndUclJxajBxX1Q4NVp2Nkp3QzRGMGNHN1VWS3FzQ0lMZlJpajZLZ3cxNm80SjFxOVlyVGtEaGxMeW1COUNzSmxidTlGQzVSRGEweER2a2FNVTctMXdrcTBnNFNjRFFCak45Z1lqQQ?oc=5)
+
+---
 
 ### [Troppo magri per la loro altezza: l’allarme OMS su 11,7 milioni di bambini africani](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3k4bmdGc3Y2LXZCdGltLW03cC1QUDF3aGE1QUVHNTlEaHZsRUxWVWFXWldfLWJhS29XNnN3MDJwQlNLNDByaVFuSXV1SmFBeTNvRWt3aXlaUEVNUXBWMVltaVZTZ041SWIzOW5HSnF1Vlg3c0FLSEsyczFSMXRZR25PQVlINlEzODBlaTNDLW5jdHFnT1l2YTEyT1Z1LV9zc0xyekN5UUV4SThOSUJXczBIM205U2hPcjM4MkIxYkNwVXZxaFNSMFVyQ21XOTM5NTJHUWNqVQ?oc=5)
 
@@ -80,22 +144,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Ebola in Rd Congo, il Papa: la comunità internazionale aiuti a salvare vite umane - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
-
-2026-08-23
-
-來源：[Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
-
----
-
-### [Pope appeals for international aid for Ebola victims in DRC - Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
-
-2026-08-23
-
-來源：[Vatican News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZzTmJGRUNCYnJZVEJ4VFk3VDJyRUZTZFNXdUdESUE5eGRBdko2RXlxeFdtZkhlY2J2Y0toVlJwMlFxcWRnckgyLXdpUUFfWktDWUVWdWVWQ0RHemtBQnhxU3ViU291UHFfVXFJOHM1dVlNY3NESVRZdXRaZGltZUh5RlRUSWM0cHNxb0RZaHh0RFA1bUdpWldoQzU?oc=5)
-
----
-
 ### [Semaglutide slimming jab study aims to help alcohol dependency](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
 
 2026-08-23
@@ -112,27 +160,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [I had NINE heart problems and women called me disgusting - then I lost 15st - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
-
-2026-08-23
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
-
----
-
 ### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
 2026-08-23
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
-
----
-
-### [Doctors missed by small baby's 2kg tumour six times, then it spread](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
-
-2026-08-22
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU1iQzRtY2lyWDAxUnE3N0ZNQUkwOV9FSWl3MlFaa3hQaDFaZzJjTFZPM1kySVFMdnNTcW12eHE0Ulc5VzZPSm8wSEtGaTg4bTRQdVJyM3NIcGFvU3pOWkhMd3o0ckpqOWVkWndyNXhUbzJ0VVl5ZW95U001MkM3OHVzMWZBZF9rMDB0ZXo2SGNReDNiRnJHSlo1Y9IBoAFBVV95cUxQZ0NqcXlZRVBqc3dkRmhuLU5MVVplcTJSQkFPRFoybW1DMENwWEhSdWZxRzBfTkREUEpYOEpaaWtINUZIbEZ3OFRMaGpVdXR6Ym5IYUN2YUNBa1RGeG50ZVlNUUJLb0dzUGg4V3BEbmNIQXB3OGgzMk9tejhjY2Y4Z1NMOTdqMTNCU2lQMklWLW5ERmxhaTNKaUtnMHNzT3gy?oc=5)
 
 ---
 

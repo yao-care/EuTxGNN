@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
+
+### [Una o dos onzas al día: la cantidad de chocolate negro que los expertos relacionan con beneficios para la salud mental](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEE0b1hFTm5oQ1FRNWVQdmdxeXpoMGlFNWlYd0thV1BfLTJHblBGeTVTOUVWMG1oNHc4QUF1cEZYZU83aTc4SlRLR19tSWpjYk0wWUxtdFR6czlpb2tPem5aNEpkMnNLMmc2UjV5c3oxbVgtN1hHcGJfOHlGNmVJazJkLTN0eG91d3JGc1FMTUo3R2xRRG80Mm5ORTRYcGVYMDFzczNQZUcyMlNjMEpYWmZIWUR4cVo2dW1wTEVqN2lqU2dDVU5jQUJ3SmtuX09uODhBZU1HeWM3XzE2M0hz?oc=5)
+
+2026-08-24 <span class="news-indication-tag">depresión</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEE0b1hFTm5oQ1FRNWVQdmdxeXpoMGlFNWlYd0thV1BfLTJHblBGeTVTOUVWMG1oNHc4QUF1cEZYZU83aTc4SlRLR19tSWpjYk0wWUxtdFR6czlpb2tPem5aNEpkMnNLMmc2UjV5c3oxbVgtN1hHcGJfOHlGNmVJazJkLTN0eG91d3JGc1FMTUo3R2xRRG80Mm5ORTRYcGVYMDFzczNQZUcyMlNjMEpYWmZIWUR4cVo2dW1wTEVqN2lqU2dDVU5jQUJ3SmtuX09uODhBZU1HeWM3XzE2M0hz?oc=5)
+
+---
+
+### [Vitamina D en invierno: cómo prevenir su déficit y quiénes tienen mayor riesgo - El Mostrador](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRDVkX1hsdmhDczdWMHZIcEw1QU95RENBckxsQ01yZmlvSDA3TVFTUjFDRE1DYkQ0VVlWNUJTc3JCRHFBVTRuaHJoZ1lqTmJHWmluR0Z1Vkx3UjZDTDNKaWJISlZLZDIxMVVONWgzSWxLdFI4ZmNOd1FYbW53SEdWWFJEOG1FQzFoZ2NYenNWNE1qLXIxNmtPNEloTVpfYXRhQjBiZ0RoMDNneEtweHA3d25VR0pZUU50eFF0ekZVeUczMU5HaHlDQnU2bmRxRVNFUG9wUjlROEhNZw?oc=5)
+
+2026-08-24 <span class="news-indication-tag">depresión</span>
+
+來源：[El Mostrador](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRDVkX1hsdmhDczdWMHZIcEw1QU95RENBckxsQ01yZmlvSDA3TVFTUjFDRE1DYkQ0VVlWNUJTc3JCRHFBVTRuaHJoZ1lqTmJHWmluR0Z1Vkx3UjZDTDNKaWJISlZLZDIxMVVONWgzSWxLdFI4ZmNOd1FYbW53SEdWWFJEOG1FQzFoZ2NYenNWNE1qLXIxNmtPNEloTVpfYXRhQjBiZ0RoMDNneEtweHA3d25VR0pZUU50eFF0ekZVeUczMU5HaHlDQnU2bmRxRVNFUG9wUjlROEhNZw?oc=5)
+
+---
+
+### [AI trial aims to detect depression in new mothers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
+
+2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
+
+---
+
+### [Un videojuego logra detectar la depresión en tres minutos, según un estudio - El Debate](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2JKeXZFS3piQlhCck9tWnluWG1kYVprZXlEVjR0RDh5WENRR2FEcGpmTldRb2dEbGVRaGo3ODVEcW9XM0dCLTA0ZUdpbFBTVW4xUVFiTUxNendKYWxZWGl6M1A2TjZtZkRfT3BoY1NzbkNnUFFsWGNKSk9obktLR28wZ0NLTWJWYy1CSjZRa2F5N3U0eG05VWxnaURCem01SUdwSkpyVnRSZUN1R2VvLTVUN3dtZVhQNldoVFlJOXRyaVlXTzVuQzRERWxBRWI2Z1JhRDlxRG5nR1pTNEh5WtIB5gFBVV95cUxPcENnR1h3Wk1GS2x5Z3B6OXNVSU1TdGRJcFpYMjJacGRabWwwaTBFMUtvYW0wQUJHZnFpQjg2VGRLVzJQdXkwaG5XUW9mVkYtSGR6ejFVUUZmYWowOGRMdlZBU2FJXzhDdllnMEJzVWR2R3djb0JIVU0yMmJWSW0weGtoUXNDUFNPOFFodU5OaWNYb2VVbTlXTWUtUUFUOFFKcjZMaVhTU1g4dFhiRlE5aUtfemMySHFoRHdsUUVWalNpMVZhRW5sZzVKUnlwU20xTFFWR3pNXzRIb1NiTmI3Z3JleVBhUQ?oc=5)
+
+2026-08-24 <span class="news-indication-tag">depresión</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2JKeXZFS3piQlhCck9tWnluWG1kYVprZXlEVjR0RDh5WENRR2FEcGpmTldRb2dEbGVRaGo3ODVEcW9XM0dCLTA0ZUdpbFBTVW4xUVFiTUxNendKYWxZWGl6M1A2TjZtZkRfT3BoY1NzbkNnUFFsWGNKSk9obktLR28wZ0NLTWJWYy1CSjZRa2F5N3U0eG05VWxnaURCem01SUdwSkpyVnRSZUN1R2VvLTVUN3dtZVhQNldoVFlJOXRyaVlXTzVuQzRERWxBRWI2Z1JhRDlxRG5nR1pTNEh5WtIB5gFBVV95cUxPcENnR1h3Wk1GS2x5Z3B6OXNVSU1TdGRJcFpYMjJacGRabWwwaTBFMUtvYW0wQUJHZnFpQjg2VGRLVzJQdXkwaG5XUW9mVkYtSGR6ejFVUUZmYWowOGRMdlZBU2FJXzhDdllnMEJzVWR2R3djb0JIVU0yMmJWSW0weGtoUXNDUFNPOFFodU5OaWNYb2VVbTlXTWUtUUFUOFFKcjZMaVhTU1g4dFhiRlE5aUtfemMySHFoRHdsUUVWalNpMVZhRW5sZzVKUnlwU20xTFFWR3pNXzRIb1NiTmI3Z3JleVBhUQ?oc=5)
+
+---
 
 ### [I grassi che nutrono il cervello: dall’ADHD alla depressione alle demenze: cosa sappiamo davvero su omega-3 e salute mentale](https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ2FvdmlHeUJKeF9EVm53ZmJCU0I1eVE2MGlsX25FM0ZHdkE4V3NoLTV2cUVFZV9pZWFSelVoVHlReHN1OUN6d3RURGM1SGszNFdtYVFUMUI0cXU3bEpGOEs5Z2k4b2Z1cy1kbGtab3BtMjNOck1DN2c2a19oaHZycW1BdDA1TTBMeWdzWHNPUzVpak9nOGgzeHBTSG1MUUZCRjlqbjZjYk1KUXZOM3I2T3Q3OGRDaEoxTkl0cmx4M1NEcDhFMDBEdXJJVHdLZklwdEFGNDFZYWQwazVSRHB6Y0RoMEx6SER6ejdrUGhjSlFUb0RUNDN5TngwRG1uOW8tRWc?oc=5)
 
@@ -67,14 +99,6 @@ permalink: /news/tasimelteon/
 2026-08-22 <span class="news-indication-tag">depression</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1Rzd0puY1VucWpVbjVsU05YX3Nhc2ZDSVB0aVljQUlWVV80VzBLQndkS0djZGpQMnJfbnhLdVpkMUVHQWEtNnBTd0J2TWhIRUlJRjRYZUdyOGFnUDB6dnlrczZmODJTRTJTajB2bEItQVp6dFlhNGE1LU5wZzBrdnVRak9pTzM4TGdnSEM1SQ?oc=5)
-
----
-
-### [ADHS-Diagnosen und -Medikation steigen weltweit: Fokus auf Erwachsene - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG84clBZM1FDeWFFdGVwRkFHTUZ0eGk2TlZER1RnTkNWMUZWdER1QmoyZ1BIVkU2TWJjSjZnbngtTENfTGhPckV4aHJhbFpseGFRdDlESGdqQjRHQkZXWHc3SW4xWkdCcTY2ZlNBR202dGdNaHR4N3FKOHRrR05ZX3FnQjFSZ3FvSGFfLVpZeU14ZUVENGVVVE9FazBaSS1o?oc=5)
-
-2026-08-22 <span class="news-indication-tag">depression</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG84clBZM1FDeWFFdGVwRkFHTUZ0eGk2TlZER1RnTkNWMUZWdER1QmoyZ1BIVkU2TWJjSjZnbngtTENfTGhPckV4aHJhbFpseGFRdDlESGdqQjRHQkZXWHc3SW4xWkdCcTY2ZlNBR202dGdNaHR4N3FKOHRrR05ZX3FnQjFSZ3FvSGFfLVpZeU14ZUVENGVVVE9FazBaSS1o?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/perampanel/
 <li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
 <li>partial motor epilepsy（99.4%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
-<li class="indication-matched">epilepsy（99.0%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（99.0%）</li>
 <li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
 <li>trigeminal nerve neoplasm（98.7%）</li>
 <li>trigeminal neuralgia（97.2%）</li>
@@ -52,15 +52,9 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Una terapia génica ya puede cambiar la vida de niños con una rara epilepsia: "Hasta hace poco, no teníamos herramientas"](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaTYzOU9SXzRVYk5FMHZSeXVqZy04XzJYNnJlNHJ2aTBlSHp5MEZxOUxPcW5VVzdUVXJMMlg3dkNOdnBBQ3FaNWsteWZNVXVmUTNya25oVHM4M1AtT2lTVURlR0p4ZnkxVzluZHhWemx2QTlzbHc3M05KQXJhaWo5MFE3TlI3UUpVaTN2ZGdoeGVQVXZIUWVRNVlGTHU3eTZlaTc3eWZxczluMkpjRkNLN3o4Vk5sLXNZVnZzLVFjRXg1Q2xvTjFYdVRXTF9qRGI2RTA4LUpZX0VkOUhGdFJLX3V2M0ZWbnh6TlJ2R2lsZw?oc=5)
-
-2026-08-23 <span class="news-indication-tag">epilepsia</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaTYzOU9SXzRVYk5FMHZSeXVqZy04XzJYNnJlNHJ2aTBlSHp5MEZxOUxPcW5VVzdUVXJMMlg3dkNOdnBBQ3FaNWsteWZNVXVmUTNya25oVHM4M1AtT2lTVURlR0p4ZnkxVzluZHhWemx2QTlzbHc3M05KQXJhaWo5MFE3TlI3UUpVaTN2ZGdoeGVQVXZIUWVRNVlGTHU3eTZlaTc3eWZxczluMkpjRkNLN3o4Vk5sLXNZVnZzLVFjRXg1Q2xvTjFYdVRXTF9qRGI2RTA4LUpZX0VkOUhGdFJLX3V2M0ZWbnh6TlJ2R2lsZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

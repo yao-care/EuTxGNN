@@ -14,7 +14,7 @@ permalink: /news/voclosporin/
 ---
 
 <p class="key-answer" data-question="Voclosporin 有什麼相關新聞？">
-<strong>Voclosporin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voclosporin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/voclosporin/
 <p><a href="{{ '/drugs/voclosporin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Canarias actualiza su guía de abordaje de la diabetes de debut para pediatras](https://news.google.com/rss/articles/CBMixAFBVV95cUxObklRdENWejdkTGxmcVk4ZkdNT2lfQ2Ytc1hVMTAxdzhRTjZTWDJYUE1iQUljN1FWZm5hX292dFBnWHJwQnVFcVA2TTRoSGIxUVNEakJNZEhILXhyTUxiUFU5TEJ3dVhUdnF6eEJsMnlIeWRGXzE3ODZNMkNXU3pYVWxtUmZrQWxMbEJXaWtFdXl4NFAtSURRM215UmVqSlZqclNrbnM2dUJqeDdUU1FjVW52NXFQaE01UklGTHhBY3NhMU16?oc=5)
+
+2026-08-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMixAFBVV95cUxObklRdENWejdkTGxmcVk4ZkdNT2lfQ2Ytc1hVMTAxdzhRTjZTWDJYUE1iQUljN1FWZm5hX292dFBnWHJwQnVFcVA2TTRoSGIxUVNEakJNZEhILXhyTUxiUFU5TEJ3dVhUdnF6eEJsMnlIeWRGXzE3ODZNMkNXU3pYVWxtUmZrQWxMbEJXaWtFdXl4NFAtSURRM215UmVqSlZqclNrbnM2dUJqeDdUU1FjVW52NXFQaE01UklGTHhBY3NhMU16?oc=5)
+
+---
+
+### [Bacterias probióticas de diseño para tratar la diabetes](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
+
+2026-08-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Genotipia](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
+
+---
 
 ### [Neue Kinderkrankheit? Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
 
