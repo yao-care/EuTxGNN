@@ -54,6 +54,14 @@ permalink: /news/corifollitropin-alfa/
 
 ## 相關新聞（5 則）
 
+### [Emicrania, la nuova cura costa centinaia di euro: quanto vale davvero?](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWQycWdYZzBtQXgwQTF5Y0VfTXEzb0tJUGhKUFdOMnJWUGFyRDBRMElRVGN6RXhVVTNRTnF1V09hbzFHOFlzOUsyZ1RPQW1qcTdHX2pfbkJmb1ZmRGdqQVI5bUp6QUhnYk9hWEZDVnBNOHZXdWJ5MHJOaHhjWERBWExFTURpa2dHejdHRFdNamd1U1Vab3ZGY3VPbE5hczFlaUlESUYxc3psSzdLcHpxdkEyaDRwQ25abHU5MVhiY2QycE9md0E?oc=5)
+
+2026-08-25 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWQycWdYZzBtQXgwQTF5Y0VfTXEzb0tJUGhKUFdOMnJWUGFyRDBRMElRVGN6RXhVVTNRTnF1V09hbzFHOFlzOUsyZ1RPQW1qcTdHX2pfbkJmb1ZmRGdqQVI5bUp6QUhnYk9hWEZDVnBNOHZXdWJ5MHJOaHhjWERBWExFTURpa2dHejdHRFdNamd1U1Vab3ZGY3VPbE5hczFlaUlESUYxc3psSzdLcHpxdkEyaDRwQ25abHU5MVhiY2QycE9md0E?oc=5)
+
+---
+
 ### [Una alternativa al trasplante que podría restaurar función cardíaca en niños con cardiopatías genéticas](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
 
 2026-08-25 <span class="news-indication-tag">cardiopatía</span>
@@ -70,27 +78,19 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
-### [Limitar el sedentarismo durante el embarazo puede disminuir casi un 80% el riesgo de hipertensión, según un estudio - La Vanguardia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDJGM3prYk1CdGpSU3BwSHhVNUdHUVFGY1NNQWVySTFpazhzNzZTRG5DTE01QXFFN1pJbEZqVWtLczdTUUU1WG55ZndEbDlVM2pEN2tGZlBhc2d2YzVlSlNpM1Vsc2RpZGxjT012MzhucElVLVlTV3p3Z3FpdFVpVE5VQ2U4Q2NkTFFhVVBZQ1M0cUJGQk5YMk05Y0pxX1BwanZuM2dkc3R5YkNEYk5nX3VpbWY5dE1MNW5wSV8tcmR3aWEySWZ0MU8tWEkzXzdCT3FhSEFya1JKd1ZkeHfSAeMBQVVfeXFMT3dOMHRJczNPck41d3FZcUVzTktCSkNiY2R3VlZ6VWJfMGJWdVd2dzd4dHRHMnhxUHpHclZ5ZjhQdXdLU1VRd2VYSE96YVY5Y3doeXZSQVFJenFqV0JTYTB6NGZIVkJTVnhSeUltemJGZ2ZVaFNrcm9HNnFNcGlrRGNVci1LUzlPQ2JLM0Y0NU5CajJzNjJEbG83MnBtaV91ZUxHYjF5UmEwMjlyVVl3RVY2U3pfYkhDQXFRR1A0dURvLTAyTFhTbWdza3czUm9xVmVYZThkRXNYbkNBREhKZXhVY3c?oc=5)
+### [Doctors and scientists race to understand a rising form of heart failure - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
-2026-08-24 <span class="news-indication-tag">hipertensión</span>
+2026-08-24 <span class="news-indication-tag">heart failure</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDJGM3prYk1CdGpSU3BwSHhVNUdHUVFGY1NNQWVySTFpazhzNzZTRG5DTE01QXFFN1pJbEZqVWtLczdTUUU1WG55ZndEbDlVM2pEN2tGZlBhc2d2YzVlSlNpM1Vsc2RpZGxjT012MzhucElVLVlTV3p3Z3FpdFVpVE5VQ2U4Q2NkTFFhVVBZQ1M0cUJGQk5YMk05Y0pxX1BwanZuM2dkc3R5YkNEYk5nX3VpbWY5dE1MNW5wSV8tcmR3aWEySWZ0MU8tWEkzXzdCT3FhSEFya1JKd1ZkeHfSAeMBQVVfeXFMT3dOMHRJczNPck41d3FZcUVzTktCSkNiY2R3VlZ6VWJfMGJWdVd2dzd4dHRHMnhxUHpHclZ5ZjhQdXdLU1VRd2VYSE96YVY5Y3doeXZSQVFJenFqV0JTYTB6NGZIVkJTVnhSeUltemJGZ2ZVaFNrcm9HNnFNcGlrRGNVci1LUzlPQ2JLM0Y0NU5CajJzNjJEbG83MnBtaV91ZUxHYjF5UmEwMjlyVVl3RVY2U3pfYkhDQXFRR1A0dURvLTAyTFhTbWdza3czUm9xVmVYZThkRXNYbkNBREhKZXhVY3c?oc=5)
-
----
-
-### [From forehead wrinkles to eye bumps and a key sign on your ears - the 6 signs of hidden heart disease on your face - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
-
-2026-08-23 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
 ---
 
-### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+### [Derrière un cas de cholestérol sanguin élevé, un demi-siècle d’erreur de diagnostic - Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
 
-2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
 
 ---
 

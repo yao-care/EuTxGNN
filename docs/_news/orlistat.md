@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Ictus e droghe: quale sostanza è associata al rischio maggiore? L’analisi su oltre 100 milioni di persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+### [Breakthrough Stroke in AF Linked to Drug Interactions](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
 
-2026-08-25 <span class="news-indication-tag">ictus</span>
+2026-08-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
 
 ---
 
@@ -86,35 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Ce complément alimentaire pourrait augmenter le risque d'AVC chez certaines personnes, selon une vaste étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNlpLNHUxT3ZEcjRPWGxBS0tkZUNrZjlMN0JkNzlYRy1IQXdqcXdsWkpqYlgwSV9IeU41cnVVRWNMTzJaWU1jXzdsLXRWTnlZR3JVMURMcTgyS2ZIS0VBNndMYnJMSzNKTDhEUnktMURlTXVlWjEzb1pJcjVvaEU3VWozNi1RRjZ2bmRXYlF1cGUycUU0NU0tUWxtVlNOMG9Cbzc2YzBiWGF1MXk0MmcyMDdKRE9pRkZGWlI4MjBYVjg2TGFneFRET0Z2U3lnRnVYWEZmdllsNVFFbDhCVldQcTBPODJMc0dsdkUxa1dvaTBYOWhRc1VyV1UtcEI1WkVOWjVhZHJnVmhReDZrN3NUbQ?oc=5)
+### [Ictus e droghe: quale sostanza è associata al rischio maggiore? L’analisi su oltre 100 milioni di persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
 
-2026-08-24 <span class="news-indication-tag">AVC</span>
+2026-08-23 <span class="news-indication-tag">ictus</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNlpLNHUxT3ZEcjRPWGxBS0tkZUNrZjlMN0JkNzlYRy1IQXdqcXdsWkpqYlgwSV9IeU41cnVVRWNMTzJaWU1jXzdsLXRWTnlZR3JVMURMcTgyS2ZIS0VBNndMYnJMSzNKTDhEUnktMURlTXVlWjEzb1pJcjVvaEU3VWozNi1RRjZ2bmRXYlF1cGUycUU0NU0tUWxtVlNOMG9Cbzc2YzBiWGF1MXk0MmcyMDdKRE9pRkZGWlI4MjBYVjg2TGFneFRET0Z2U3lnRnVYWEZmdllsNVFFbDhCVldQcTBPODJMc0dsdkUxa1dvaTBYOWhRc1VyV1UtcEI1WkVOWjVhZHJnVmhReDZrN3NUbQ?oc=5)
-
----
-
-### [Mar Malagón, referente internacional en obesidad: «La ciencia debe formar parte de la estrategia de cualquier país» - Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
-
-2026-08-24 <span class="news-indication-tag">obesidad</span>
-
-來源：[Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
 
 ---
 
-### [Ce symptôme dans l’œil peut annoncer un AVC : comment repérer les signes rapidement - Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
+### [Macrophage 'molecular scissors' may drive obesity-linked inflammation and metabolic damage - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
 
-2026-08-23 <span class="news-indication-tag">AVC</span>
+2026-08-23 <span class="news-indication-tag">obesity</span>
 
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
-
----
-
-### [Tirzepatide associata a meno ictus: il nuovo studio su oltre 28mila pazienti](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEF5d3pZSlNQSTVreDJvLVNYNFFhckUya0FydkpNWUxBaDR1bi1pWmZPb0k1U0pibHdXZjVHQmVRaU9nSUhrem9VWGdkZlAyWU55TVBDWDc5UEVwdTFCaXlUTmU2T2VPdFk4ZzBKQ3k0V2hQZy01M1RES1lKQnQxbWZDX1ozOVg5UGd3TGM2NEU4VURobTVtbXJKQW84UHdEQlZFNUdKemNGSnJwSV9OT2VsejJDWW1IVUZ3MlZnYWV4TmpvYkxjbUxFbTBHT1B0?oc=5)
-
-2026-08-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEF5d3pZSlNQSTVreDJvLVNYNFFhckUya0FydkpNWUxBaDR1bi1pWmZPb0k1U0pibHdXZjVHQmVRaU9nSUhrem9VWGdkZlAyWU55TVBDWDc5UEVwdTFCaXlUTmU2T2VPdFk4ZzBKQ3k0V2hQZy01M1RES1lKQnQxbWZDX1ozOVg5UGd3TGM2NEU4VURobTVtbXJKQW84UHdEQlZFNUdKemNGSnJwSV9OT2VsejJDWW1IVUZ3MlZnYWV4TmpvYkxjbUxFbTBHT1B0?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
 
 ---
 

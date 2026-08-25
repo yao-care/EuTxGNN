@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Blood sugar running high despite cutting back on sweets? Doctors explain 5 nutrients that may help your body manage glucose better - The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+
+---
+
+### [9 foods to cut out of your diet to slash diabetes risk - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmVEcVB2WFFTbE9hUUhmcWp2c19vQl8zMzNvTmlvbDI1YWNFRWQ3Z0ZnblJuTmFQWktBRTVvNkN2OERFOEUxYmJlUmQwV2xiUEh3QjlhM0w4Ujc0aG94bDZTRmFmMEVsZmNsaEdVZHBJaU14TGNUdHZ5X0RpQ01pVzYwYjAyRGVVdTBwQWVR0gGTAUFVX3lxTE5mcTNWemxZVWlodUd2TXAtVndxd2tzTXRNemQ2Ty1NRU5Tek9CVG5XS3dUallUR1kzbWZVTy1LTjZYLTFkUVZTMWhUcm9SRmJPN3VvM3ZHZWFrUExmQnRPaGhOZzFzRGYyX0ljbExmcU14R3ZueGxKWk4waU9WMzViVXlTRnN4d1NYX1VncjV5Yzlacw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmVEcVB2WFFTbE9hUUhmcWp2c19vQl8zMzNvTmlvbDI1YWNFRWQ3Z0ZnblJuTmFQWktBRTVvNkN2OERFOEUxYmJlUmQwV2xiUEh3QjlhM0w4Ujc0aG94bDZTRmFmMEVsZmNsaEdVZHBJaU14TGNUdHZ5X0RpQ01pVzYwYjAyRGVVdTBwQWVR0gGTAUFVX3lxTE5mcTNWemxZVWlodUd2TXAtVndxd2tzTXRNemQ2Ty1NRU5Tek9CVG5XS3dUallUR1kzbWZVTy1LTjZYLTFkUVZTMWhUcm9SRmJPN3VvM3ZHZWFrUExmQnRPaGhOZzFzRGYyX0ljbExmcU14R3ZueGxKWk4waU9WMzViVXlTRnN4d1NYX1VncjV5Yzlacw?oc=5)
+
+---
+
+### [Diabete e pressione alta: per proteggere i reni conta anche quale farmaco scegliamo?](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOS10SUw2ZGNJWXRlNEpDTWxyV2x4eHRiSERDaXpRb3RITzdxUHNjTUJ6MnVjeTlpX29zS0hWekxtRXlCNXJqVk53NUJzbzZUYzhLNC1WTWUzLWZDTGxpSktqdXU0TlZ6SnVJaU5keVFGS21va3F2ajZDUUdqbzNSTlA2aXZ2VHpQRUZPSUtQY3B6cEgzUVNvWlo4Z1l0cnRsNHNtbmFyTUdoUVNUZXRVT0RLODFkdWZvRkU0SWdNSWxWY2JGWE5GVVNlMjJiZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOS10SUw2ZGNJWXRlNEpDTWxyV2x4eHRiSERDaXpRb3RITzdxUHNjTUJ6MnVjeTlpX29zS0hWekxtRXlCNXJqVk53NUJzbzZUYzhLNC1WTWUzLWZDTGxpSktqdXU0TlZ6SnVJaU5keVFGS21va3F2ajZDUUdqbzNSTlA2aXZ2VHpQRUZPSUtQY3B6cEgzUVNvWlo4Z1l0cnRsNHNtbmFyTUdoUVNUZXRVT0RLODFkdWZvRkU0SWdNSWxWY2JGWE5GVVNlMjJiZw?oc=5)
+
+---
 
 ### [Una alternativa al trasplante que podría restaurar función cardíaca en niños con cardiopatías genéticas](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
 
@@ -70,43 +94,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Neue Kinderkrankheit? Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
+### [Doctors and scientists race to understand a rising form of heart failure - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
-2026-08-23 <span class="news-indication-tag">diabetes</span>
+2026-08-24 <span class="news-indication-tag">heart failure</span>
 
-來源：[MDR.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
-
----
-
-### [From forehead wrinkles to eye bumps and a key sign on your ears - the 6 signs of hidden heart disease on your face - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
-
-2026-08-23 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
 ---
 
-### [Diabete, perché ossa apparentemente normali possono essere più fragili](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
+### [Derrière un cas de cholestérol sanguin élevé, un demi-siècle d’erreur de diagnostic - Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
 
-2026-08-23 <span class="news-indication-tag">diabete</span>
+2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
-
----
-
-### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
 
 ---
 
-### [Le remboursement des traitements contre le diabète s'envole à nouveau: un lien avec des détournements à des fins d'amaigrissement - La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
+### [Typ-2-Diabetes bei Kindern: Inzidenz in 20 Jahren stark gestiegen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0F1Q2hLYXl0SXFpbFRBZjBLVHZ2WDVkYVNQZ1VUVVBqeVZjQVltZ2E4dkdZN0dLYlZZWXBQTVFLM0RnaWdoX0ZtVFZ2bTlvcFdZSnVPSERheFdQaXhEc2JPNWxZeGlzSExGRWJ1enBrcFoxT2ktdDFqbjZ3azVrbjRubVYwREg4VTFEMmpqOC00N19aV25oUGFrRGQ?oc=5)
 
-2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span>
+2026-08-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0F1Q2hLYXl0SXFpbFRBZjBLVHZ2WDVkYVNQZ1VUVVBqeVZjQVltZ2E4dkdZN0dLYlZZWXBQTVFLM0RnaWdoX0ZtVFZ2bTlvcFdZSnVPSERheFdQaXhEc2JPNWxZeGlzSExGRWJ1enBrcFoxT2ktdDFqbjZ3azVrbjRubVYwREg4VTFEMmpqOC00N19aV25oUGFrRGQ?oc=5)
 
 ---
 

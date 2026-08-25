@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
+
+2026-08-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
+
+---
 
 ### [Diese Blutwerte können auf COPD-Risiken hinweisen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/idarucizumab/
 2026-08-24 <span class="news-indication-tag">BPCO</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdodDhVdzVTbHFGUGIyRG1aUmE0TEJaNWFWaEF5bW9WS2tiVUkyRl9vSVBMWklIQ1dick9SejhCWDlHYnZ0VmlrWGxuVEhMZlNRejA1a1c2LXFkeGFzTnZ2VWhHLVg4OXh4T2E0NkxHZ3U2ZnoxX2JvbElSd09OYURfVFZaZ3BfMk5vWmRjUXFrYWRYMHZ0RjhjbWNoaDJtekV3TWRpQ3dfV0ZFS2JmRkQzTllxeW9wazVtXzJSVkxGNk5yb2Z1Q2FRLVBnREE?oc=5)
+
+---
+
+### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+
+2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
 
 ---
 

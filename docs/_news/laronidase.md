@@ -62,19 +62,19 @@ permalink: /news/laronidase/
 
 ---
 
-### [From forehead wrinkles to eye bumps and a key sign on your ears - the 6 signs of hidden heart disease on your face - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
+### [Doctors and scientists race to understand a rising form of heart failure - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
-2026-08-23 <span class="news-indication-tag">heart disease</span>
+2026-08-24 <span class="news-indication-tag">heart failure</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFSbnF2QlJGZDJLcHI5ZWxSTzQ5TUJSSFpheHdxLVhJdHpCQU5vRmc4RElJWUNsc0Vra1c2aVpQbUlBZkN3a1QycWh4dlVCMFMwRTdrY3FHWjQtbUJHeklzcmRESU9ja040NkhPeVlxS0lNVjdCZnJFNkJMVk9mUExn?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
 ---
 
-### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+### [Derrière un cas de cholestérol sanguin élevé, un demi-siècle d’erreur de diagnostic - Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
 
-2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
 
 ---
 

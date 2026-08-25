@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obesity 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
+description: "obesity 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obesity 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesity 有什麼相關新聞？">
+<strong>obesity</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesity」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,11 +38,11 @@ permalink: /news/obesity/
 
 ## 相關新聞（1 則）
 
-### [Mar Malagón, referente internacional en obesidad: «La ciencia debe formar parte de la estrategia de cualquier país» - Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
+### [Macrophage 'molecular scissors' may drive obesity-linked inflammation and metabolic damage - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
 
-2026-08-24
+2026-08-23
 
-來源：[Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
 
 ---
 

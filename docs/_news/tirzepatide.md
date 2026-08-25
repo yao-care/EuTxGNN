@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Tirzepatide associata a meno ictus: il nuovo studio su oltre 28mila pazienti](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEF5d3pZSlNQSTVreDJvLVNYNFFhckUya0FydkpNWUxBaDR1bi1pWmZPb0k1U0pibHdXZjVHQmVRaU9nSUhrem9VWGdkZlAyWU55TVBDWDc5UEVwdTFCaXlUTmU2T2VPdFk4ZzBKQ3k0V2hQZy01M1RES1lKQnQxbWZDX1ozOVg5UGd3TGM2NEU4VURobTVtbXJKQW84UHdEQlZFNUdKemNGSnJwSV9OT2VsejJDWW1IVUZ3MlZnYWV4TmpvYkxjbUxFbTBHT1B0?oc=5)
+### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
 
-2026-08-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">ictus</span>
+2026-08-25 <span class="news-indication-tag">arthritis</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEF5d3pZSlNQSTVreDJvLVNYNFFhckUya0FydkpNWUxBaDR1bi1pWmZPb0k1U0pibHdXZjVHQmVRaU9nSUhrem9VWGdkZlAyWU55TVBDWDc5UEVwdTFCaXlUTmU2T2VPdFk4ZzBKQ3k0V2hQZy01M1RES1lKQnQxbWZDX1ozOVg5UGd3TGM2NEU4VURobTVtbXJKQW84UHdEQlZFNUdKemNGSnJwSV9OT2VsejJDWW1IVUZ3MlZnYWV4TmpvYkxjbUxFbTBHT1B0?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
 
 ---
 
-### [Le remboursement des traitements contre le diabète s'envole à nouveau: un lien avec des détournements à des fins d'amaigrissement - La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
+### [Doctors not 'fixated' on weight-loss drug, coroner](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPckctcUN3R2h4TFE0ZU1qMUw3MDFaa01uaWo1LTRYV2Fydl8wd0Jqam9HdnZXR0Q4TmlVa3VTaV9md1RjZ1J0UGdGLTZqZjl0Y1Bvb1BwUnZXM21S?oc=5)
 
-2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span>
+2026-08-24 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPckctcUN3R2h4TFE0ZU1qMUw3MDFaa01uaWo1LTRYV2Fydl8wd0Jqam9HdnZXR0Q4TmlVa3VTaV9md1RjZ1J0UGdGLTZqZjl0Y1Bvb1BwUnZXM21S?oc=5)
+
+---
+
+### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+
+2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
 
 ---
 

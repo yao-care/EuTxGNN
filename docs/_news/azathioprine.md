@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="Azathioprine 有什麼相關新聞？">
-<strong>Azathioprine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azathioprine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/azathioprine/
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
+
+2026-08-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
+
+---
+
+### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+
+2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+
+---
 
 
 <div class="disclaimer">

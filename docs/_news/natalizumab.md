@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li>psoriasis（99.2%）</li>
+<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -52,7 +52,39 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Blood sugar running high despite cutting back on sweets? Doctors explain 5 nutrients that may help your body manage glucose better - The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+
+---
+
+### [9 foods to cut out of your diet to slash diabetes risk - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmVEcVB2WFFTbE9hUUhmcWp2c19vQl8zMzNvTmlvbDI1YWNFRWQ3Z0ZnblJuTmFQWktBRTVvNkN2OERFOEUxYmJlUmQwV2xiUEh3QjlhM0w4Ujc0aG94bDZTRmFmMEVsZmNsaEdVZHBJaU14TGNUdHZ5X0RpQ01pVzYwYjAyRGVVdTBwQWVR0gGTAUFVX3lxTE5mcTNWemxZVWlodUd2TXAtVndxd2tzTXRNemQ2Ty1NRU5Tek9CVG5XS3dUallUR1kzbWZVTy1LTjZYLTFkUVZTMWhUcm9SRmJPN3VvM3ZHZWFrUExmQnRPaGhOZzFzRGYyX0ljbExmcU14R3ZueGxKWk4waU9WMzViVXlTRnN4d1NYX1VncjV5Yzlacw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmVEcVB2WFFTbE9hUUhmcWp2c19vQl8zMzNvTmlvbDI1YWNFRWQ3Z0ZnblJuTmFQWktBRTVvNkN2OERFOEUxYmJlUmQwV2xiUEh3QjlhM0w4Ujc0aG94bDZTRmFmMEVsZmNsaEdVZHBJaU14TGNUdHZ5X0RpQ01pVzYwYjAyRGVVdTBwQWVR0gGTAUFVX3lxTE5mcTNWemxZVWlodUd2TXAtVndxd2tzTXRNemQ2Ty1NRU5Tek9CVG5XS3dUallUR1kzbWZVTy1LTjZYLTFkUVZTMWhUcm9SRmJPN3VvM3ZHZWFrUExmQnRPaGhOZzFzRGYyX0ljbExmcU14R3ZueGxKWk4waU9WMzViVXlTRnN4d1NYX1VncjV5Yzlacw?oc=5)
+
+---
+
+### [¿Sol o agua del mar? Los rayos ultravioleta mejoran la psoriasis y la dermatitis atópica - La Vanguardia](https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1NoMUp5VGZLS1ZsNWNZUGdXRFMzUGFkdUNWbm10dldteUpCbXRHNGV3LTVQU0xaMFJhV0ZBUWdlOURYSFRKVHBqZ1c1RmI0WTF5dk90UTQtM2RuT2xINzdqQTNIcnd5VVpQd0lNSFdPNVVzTVRWQU1xeHJXd2xjQU9Ddmd4bXZ4NGtGY2x3MHZES1ZJakdLMXk1bldXMDF1RGhOTHU0eVNGMWxlRUVJWmFWd2R0RE1QaWJOUEF5QjR2cXVFZEhMYlJCNNIB0AFBVV95cUxONkJ5eVRKYlFUV2dORkRDYkNmTTk2Z2dJTUlkcUhacjhteUQ2MXo2TlNRaVpJNmVYNjBScDVLUl9lYVM1ZU1NR2ZjQ2d0LXd5d0pveWpJcTJJUHVMd0dVeEhJTmQ5SWF3dGZZV3N2N1FpdkJWc3RHQ0dwR001aTl4ZUhVUE9BVjZjb2NJM3pMdUYtc1NBZGhqS29vRThfYUlkX21pZTBZZzlBbnBoaGs0cndoZFAxb0JGYV9tZ2dqaDlxdDNCam5JUk9BOHJjWXpp?oc=5)
+
+2026-08-25 <span class="news-indication-tag">psoriasis</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1NoMUp5VGZLS1ZsNWNZUGdXRFMzUGFkdUNWbm10dldteUpCbXRHNGV3LTVQU0xaMFJhV0ZBUWdlOURYSFRKVHBqZ1c1RmI0WTF5dk90UTQtM2RuT2xINzdqQTNIcnd5VVpQd0lNSFdPNVVzTVRWQU1xeHJXd2xjQU9Ddmd4bXZ4NGtGY2x3MHZES1ZJakdLMXk1bldXMDF1RGhOTHU0eVNGMWxlRUVJWmFWd2R0RE1QaWJOUEF5QjR2cXVFZEhMYlJCNNIB0AFBVV95cUxONkJ5eVRKYlFUV2dORkRDYkNmTTk2Z2dJTUlkcUhacjhteUQ2MXo2TlNRaVpJNmVYNjBScDVLUl9lYVM1ZU1NR2ZjQ2d0LXd5d0pveWpJcTJJUHVMd0dVeEhJTmQ5SWF3dGZZV3N2N1FpdkJWc3RHQ0dwR001aTl4ZUhVUE9BVjZjb2NJM3pMdUYtc1NBZGhqS29vRThfYUlkX21pZTBZZzlBbnBoaGs0cndoZFAxb0JGYV9tZ2dqaDlxdDNCam5JUk9BOHJjWXpp?oc=5)
+
+---
+
+### [Diabete e pressione alta: per proteggere i reni conta anche quale farmaco scegliamo?](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOS10SUw2ZGNJWXRlNEpDTWxyV2x4eHRiSERDaXpRb3RITzdxUHNjTUJ6MnVjeTlpX29zS0hWekxtRXlCNXJqVk53NUJzbzZUYzhLNC1WTWUzLWZDTGxpSktqdXU0TlZ6SnVJaU5keVFGS21va3F2ajZDUUdqbzNSTlA2aXZ2VHpQRUZPSUtQY3B6cEgzUVNvWlo4Z1l0cnRsNHNtbmFyTUdoUVNUZXRVT0RLODFkdWZvRkU0SWdNSWxWY2JGWE5GVVNlMjJiZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOS10SUw2ZGNJWXRlNEpDTWxyV2x4eHRiSERDaXpRb3RITzdxUHNjTUJ6MnVjeTlpX29zS0hWekxtRXlCNXJqVk53NUJzbzZUYzhLNC1WTWUzLWZDTGxpSktqdXU0TlZ6SnVJaU5keVFGS21va3F2ajZDUUdqbzNSTlA2aXZ2VHpQRUZPSUtQY3B6cEgzUVNvWlo4Z1l0cnRsNHNtbmFyTUdoUVNUZXRVT0RLODFkdWZvRkU0SWdNSWxWY2JGWE5GVVNlMjJiZw?oc=5)
+
+---
 
 ### [Diese Blutwerte können auf COPD-Risiken hinweisen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
 
@@ -78,27 +110,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Neue Kinderkrankheit? Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
+### [Typ-2-Diabetes bei Kindern: Inzidenz in 20 Jahren stark gestiegen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0F1Q2hLYXl0SXFpbFRBZjBLVHZ2WDVkYVNQZ1VUVVBqeVZjQVltZ2E4dkdZN0dLYlZZWXBQTVFLM0RnaWdoX0ZtVFZ2bTlvcFdZSnVPSERheFdQaXhEc2JPNWxZeGlzSExGRWJ1enBrcFoxT2ktdDFqbjZ3azVrbjRubVYwREg4VTFEMmpqOC00N19aV25oUGFrRGQ?oc=5)
 
-2026-08-23 <span class="news-indication-tag">diabetes</span>
+2026-08-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[MDR.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
-
----
-
-### [Diabete, perché ossa apparentemente normali possono essere più fragili](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
-
-2026-08-23 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
-
----
-
-### [Le remboursement des traitements contre le diabète s'envole à nouveau: un lien avec des détournements à des fins d'amaigrissement - La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
-
-2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span>
-
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0F1Q2hLYXl0SXFpbFRBZjBLVHZ2WDVkYVNQZ1VUVVBqeVZjQVltZ2E4dkdZN0dLYlZZWXBQTVFLM0RnaWdoX0ZtVFZ2bTlvcFdZSnVPSERheFdQaXhEc2JPNWxZeGlzSExGRWJ1enBrcFoxT2ktdDFqbjZ3azVrbjRubVYwREg4VTFEMmpqOC00N19aV25oUGFrRGQ?oc=5)
 
 ---
 

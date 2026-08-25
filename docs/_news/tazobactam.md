@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
+
+2026-08-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
+
+---
+
+### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+
+2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+
+---
 
 ### [Due vitamine migliorano la salute dei polmoni in chi soffre di asma: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
 
 2026-08-24 <span class="news-indication-tag">asma</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
-
----
-
-### [Un estudio revela nuevas claves del último gran brote de peste de Europa - Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
-
-2026-08-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
 
 ---
 

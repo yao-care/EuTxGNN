@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Three ways to boost brain sharpness - The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzEwajhJVWM1elJrODVXS0lqbS03ZGktVElUTkdSMHhhdm1GVWhmZ1BZclJwVHlVZjhQdk85Z3hqTG5sNG9uR3NKdlluQjcyVl9maUpOZnM4cDNtdHlzVWl2UmdwVWlXM1FhdXgxVUhWMTdDR1NDeDdlTHMyNEduNGVPS0NCX2xtOTdVSFRwN1hHNy04eHh6MFI5SGJrc2FQbks3UGxCbw?oc=5)
 
@@ -54,19 +54,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [One Common Type of Physical Activity Linked to Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
+### [The physical activity paradox: not all forms of exercise lower your dementia risk – this type raises it - The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHdwZVA3T2gySGZzZ2hZRUtCWTAzVGRlbUtKejFjYUZxSVhNczhxdW1CQWxEcDR4c01KUTJoRENVTFo4S1RkZzJoelMzeENSWXQ5V1NuTWxiaTVMT0RFT1pxRGJNTEFHMVozVU1iOTMzZkdOQ0lPOTNJVDdaNEtMSzJnckI3bW16QThjQVRhM1M1NmF6U01TYW1ubS1fTmlHX2c3SVdzdk53TWd4aXR3ZDJvMEhqR0tDNGExeWcycDRVZVduNlRuQ3J3dUtwNzJ4?oc=5)
 
-2026-08-18
+2026-08-24
 
-來源：[Newsweek](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
-
----
-
-### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
-
-2026-08-18
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHdwZVA3T2gySGZzZ2hZRUtCWTAzVGRlbUtKejFjYUZxSVhNczhxdW1CQWxEcDR4c01KUTJoRENVTFo4S1RkZzJoelMzeENSWXQ5V1NuTWxiaTVMT0RFT1pxRGJNTEFHMVozVU1iOTMzZkdOQ0lPOTNJVDdaNEtMSzJnckI3bW16QThjQVRhM1M1NmF6U01TYW1ubS1fTmlHX2c3SVdzdk53TWd4aXR3ZDJvMEhqR0tDNGExeWcycDRVZVduNlRuQ3J3dUtwNzJ4?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/velpatasvir/
 
 ## 相關新聞（18 則）
 
-### [Herz-Kreislauf: Wer das Herz stärken will, muss nicht joggen oder Radfahren](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGd4bjd2MlpGYXBrb0dXVlM2SFF0UkpUZ0dkeFROSFVEazFGaHhOV3hmZV8xYlJ4SGd4aGs1T1BDME9JR29oZUV4cUFObmE0aVR6LWQ0bjdJVl9pZ2dadHBzMlZsWURiX3FoNFlobUlkdmRnZTd3bGJ5c2ZORDMxVzFoX29GUDFlZDZyd1VQMkZ2T1pfNlFETlRiamZmdV96dGMzUTJZM2N1SXptZjVnMDg5NUV1VUlUR0RIRmxkN3EtWl9abHI1czEydWV3eW0ycnNWaDl6UDg4UQ?oc=5)
+### [Con 35 muertes al día, la OMS emite nuevas recomendaciones para intentar frenar el brote de ébola - El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlFfU2NfUVIxdHhVajNodUxLTTU2SUl5V0lTTUxYd0x2NkE2VmVUdTZYTTRBaTZ4UnNzNW1SVmJvemhxMllUVjFMSUwwWElNZXhySEJ5RHlYZDBmLVNNN3ZSMFdaWHYxZWNtakZFaTUzVG9iT2pXSzlfYTd2bVRUVlJYYzB6VldQTjBDZE91ZWtJQ1NGcUhTd0Z3S3JBc0E0aHJRMG9tdzBTLUt0TExhV29R0gG3AUFVX3lxTE4tWExCNFFFZzJGcTd3Wjd0czlfeGJQZ1FGSUF0T3dtcUpTYnNCMmQ3WXU5QmN0azJlSHQ4U0hHVU9BZDBRcVljQ0VqYzN2ZmJBM1EyRkRZV0hEaVJRY0lKeDZGZ0JxY1l0UEg3eVlyOFhDZEUyMmxfOVZVeUJkdTF1WkRSLUpKSVJFZFZ0LXZVQm9tRFFBaFhSTVQtcnZCd0NCZkJCUkxGUGUxVU1Ja1RpMnVjNTlabw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGd4bjd2MlpGYXBrb0dXVlM2SFF0UkpUZ0dkeFROSFVEazFGaHhOV3hmZV8xYlJ4SGd4aGs1T1BDME9JR29oZUV4cUFObmE0aVR6LWQ0bjdJVl9pZ2dadHBzMlZsWURiX3FoNFlobUlkdmRnZTd3bGJ5c2ZORDMxVzFoX29GUDFlZDZyd1VQMkZ2T1pfNlFETlRiamZmdV96dGMzUTJZM2N1SXptZjVnMDg5NUV1VUlUR0RIRmxkN3EtWl9abHI1czEydWV3eW0ycnNWaDl6UDg4UQ?oc=5)
+來源：[El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlFfU2NfUVIxdHhVajNodUxLTTU2SUl5V0lTTUxYd0x2NkE2VmVUdTZYTTRBaTZ4UnNzNW1SVmJvemhxMllUVjFMSUwwWElNZXhySEJ5RHlYZDBmLVNNN3ZSMFdaWHYxZWNtakZFaTUzVG9iT2pXSzlfYTd2bVRUVlJYYzB6VldQTjBDZE91ZWtJQ1NGcUhTd0Z3S3JBc0E0aHJRMG9tdzBTLUt0TExhV29R0gG3AUFVX3lxTE4tWExCNFFFZzJGcTd3Wjd0czlfeGJQZ1FGSUF0T3dtcUpTYnNCMmQ3WXU5QmN0azJlSHQ4U0hHVU9BZDBRcVljQ0VqYzN2ZmJBM1EyRkRZV0hEaVJRY0lKeDZGZ0JxY1l0UEg3eVlyOFhDZEUyMmxfOVZVeUJkdTF1WkRSLUpKSVJFZFZ0LXZVQm9tRFFBaFhSTVQtcnZCd0NCZkJCUkxGUGUxVU1Ja1RpMnVjNTlabw?oc=5)
 
 ---
 
@@ -67,6 +67,22 @@ permalink: /news/velpatasvir/
 2026-08-25 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVfUzZQTVhFM1VZNzhmMXk4NjBJWHV4dW9MbE1helI2blRFOGlhb1R4bVJCZjNEalQ4Z0VrU21jREJJXzhsdEZwVEM4dnhSQ3NNMjhLWXdmY0NLMFlScTZyWERUSllhdDFmeGpER1hFU0Q0dERubjZOcWxYTC1hQlVaUmpZYWIyMFRNc09CbTZGWC1OTVQ5R2s0ZE41ZHdNQThheWR6Y09jSlFTdC1FcXF2Q0VHSmZmTWtVdFRsYmQ2SDh6QVEwSkQwcldtUGVFVkZCbFhoSVU2VUE?oc=5)
+
+---
+
+### [HPV, Hepatitis B, Melanom: Welche Krebsimpfstoffe es gibt – und warum ein universeller Impfstoff unrealistisch ist](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXRMR09JSGx1MzNuaWtlb194dFJUb2RCODgxYm9OdkFNallXWEo5a0tSSE1uakhXa0hmZXlNd0RDSW1tU0paLUtkWk1zOVZpWS1zYjZoaG5uYjE4Nk81WUduSXBKUzVMakNFWTlmRFZOVFVtbmtEQW1oMENaSW5nYUtCNHJoaS1yUnZKSG9MNHRjZFdyN2psWm1jWE9SYW10Vm10dE4ydzNZVXJQTWc?oc=5)
+
+2026-08-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[Kreiszeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXRMR09JSGx1MzNuaWtlb194dFJUb2RCODgxYm9OdkFNallXWEo5a0tSSE1uakhXa0hmZXlNd0RDSW1tU0paLUtkWk1zOVZpWS1zYjZoaG5uYjE4Nk81WUduSXBKUzVMakNFWTlmRFZOVFVtbmtEQW1oMENaSW5nYUtCNHJoaS1yUnZKSG9MNHRjZFdyN2psWm1jWE9SYW10Vm10dE4ydzNZVXJQTWc?oc=5)
+
+---
+
+### [Congo, sotto attacco chi prova a fermare Ebola: la denuncia della Croce Rossa](https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzQxcXN6ZjdsaDJZaDl2ZWtBX201NVFrTE1qMWhaWXVZM0k5S1FTQXNZNDFnUWVpLW5sNGc4NjR5QV9pdU00azBPZXBlTWFIQ2ZVTGE4b3dnZnNVZkNuVTY1WnllN1R6cnlFMmp3QVhyRHNhNGE2M244OC1ieWJ3eXlsekgyTG5pbVhBeDFEVDg5YjQ3WDBGM1FIY1dHUlRuMkRKWFBHdEg3NVQyb1BkWmZ2MWpELWJwZDAteVRxRVk2OHZidFpLZUxSYkRaRm8?oc=5)
+
+2026-08-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzQxcXN6ZjdsaDJZaDl2ZWtBX201NVFrTE1qMWhaWXVZM0k5S1FTQXNZNDFnUWVpLW5sNGc4NjR5QV9pdU00azBPZXBlTWFIQ2ZVTGE4b3dnZnNVZkNuVTY1WnllN1R6cnlFMmp3QVhyRHNhNGE2M244OC1ieWJ3eXlsekgyTG5pbVhBeDFEVDg5YjQ3WDBGM1FIY1dHUlRuMkRKWFBHdEg3NVQyb1BkWmZ2MWpELWJwZDAteVRxRVk2OHZidFpLZUxSYkRaRm8?oc=5)
 
 ---
 
@@ -83,6 +99,38 @@ permalink: /news/velpatasvir/
 2026-08-24 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
+
+---
+
+### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+
+2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+
+---
+
+### [Nierenfunktion im Alter erhalten: Dieser Fitness-Faktor spielt eine entscheidende Rolle](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1lXSlZ4bGNZZmxqNzRRcmlGYUdZOTd5QXZYUTdLOXdjLUEwcVl0dTYyRnR4bzhLeW5BZ09Ra0pIU3g4WllOMHRCcFRHVVo4bVpBa0tQOXVYWHFTTWdWYUpzc0kzWUQxQzRaYUh0Vl9aYjk0dXBSZk5GMldydG9ERWl1LWoxY3NXazdCX0ZnOHlFYVM5a0JUOEpOTDdlclExbDJlU2s5emdOSktwcTNwUG5NTXJRcHJ2S3hkYXh1LTZFMGs?oc=5)
+
+2026-08-24 <span class="news-indication-tag">MS</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1lXSlZ4bGNZZmxqNzRRcmlGYUdZOTd5QXZYUTdLOXdjLUEwcVl0dTYyRnR4bzhLeW5BZ09Ra0pIU3g4WllOMHRCcFRHVVo4bVpBa0tQOXVYWHFTTWdWYUpzc0kzWUQxQzRaYUh0Vl9aYjk0dXBSZk5GMldydG9ERWl1LWoxY3NXazdCX0ZnOHlFYVM5a0JUOEpOTDdlclExbDJlU2s5emdOSktwcTNwUG5NTXJRcHJ2S3hkYXh1LTZFMGs?oc=5)
+
+---
+
+### [‘Cancer can develop quietly,’ Aproko Doctor speaks after Ogogo’s death - The Nation Newspaper](https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlKSVdoSzktVUJDT1JYUXN4c01UeE9ydTZXN2FTbVFTTHdsdUFlUENlSEE0VHRqblVlU3pBb1ViaC00dGRTZHBrR18zMGQwNnEtRnVkdDlfQ0tqY3RWYkJGdG43RGRBNm45VlR1VVMzS3FWa05jRW5TeDJZWkF6WXJFbHpkaHFXNnl0MXJweFRJazVFZ0V1a2w2cEVVUdIBowFBVV95cUxQdnlFQnVFZGRHV0lHajl4ejBKWm1la1RsUUJKQU1udkJMS0taWmdta1R5N3A5WEphbW56RTc4N3c5QXA4TUVWYVV5ODVtX0ZmRGxzRmkwQ0REOXlxUUdEUGJURnlmRmRwMzZkaXNKaGZUc2p3Z25IUXZDckZuUWdGX0h1R2dvRnVmMGFRWDVrRFc3SjEwQnRFSFVjQm5oMGpPQVo4?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Nation Newspaper](https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlKSVdoSzktVUJDT1JYUXN4c01UeE9ydTZXN2FTbVFTTHdsdUFlUENlSEE0VHRqblVlU3pBb1ViaC00dGRTZHBrR18zMGQwNnEtRnVkdDlfQ0tqY3RWYkJGdG43RGRBNm45VlR1VVMzS3FWa05jRW5TeDJZWkF6WXJFbHpkaHFXNnl0MXJweFRJazVFZ0V1a2w2cEVVUdIBowFBVV95cUxQdnlFQnVFZGRHV0lHajl4ejBKWm1la1RsUUJKQU1udkJMS0taWmdta1R5N3A5WEphbW56RTc4N3c5QXA4TUVWYVV5ODVtX0ZmRGxzRmkwQ0REOXlxUUdEUGJURnlmRmRwMzZkaXNKaGZUc2p3Z25IUXZDckZuUWdGX0h1R2dvRnVmMGFRWDVrRFc3SjEwQnRFSFVjQm5oMGpPQVo4?oc=5)
+
+---
+
+### [The physical activity paradox: not all forms of exercise lower your dementia risk – this type raises it - The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHdwZVA3T2gySGZzZ2hZRUtCWTAzVGRlbUtKejFjYUZxSVhNczhxdW1CQWxEcDR4c01KUTJoRENVTFo4S1RkZzJoelMzeENSWXQ5V1NuTWxiaTVMT0RFT1pxRGJNTEFHMVozVU1iOTMzZkdOQ0lPOTNJVDdaNEtMSzJnckI3bW16QThjQVRhM1M1NmF6U01TYW1ubS1fTmlHX2c3SVdzdk53TWd4aXR3ZDJvMEhqR0tDNGExeWcycDRVZVduNlRuQ3J3dUtwNzJ4?oc=5)
+
+2026-08-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHdwZVA3T2gySGZzZ2hZRUtCWTAzVGRlbUtKejFjYUZxSVhNczhxdW1CQWxEcDR4c01KUTJoRENVTFo4S1RkZzJoelMzeENSWXQ5V1NuTWxiaTVMT0RFT1pxRGJNTEFHMVozVU1iOTMzZkdOQ0lPOTNJVDdaNEtMSzJnckI3bW16QThjQVRhM1M1NmF6U01TYW1ubS1fTmlHX2c3SVdzdk53TWd4aXR3ZDJvMEhqR0tDNGExeWcycDRVZVduNlRuQ3J3dUtwNzJ4?oc=5)
 
 ---
 
@@ -134,14 +182,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [AI trial aims to detect depression in new mothers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
-
-2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
-
----
-
 ### [El diseño de virus con IA alerta a los investigadores sobre la bioseguridad - La Vanguardia](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU5BZHNJRGhOMDR2ZFhpalRaMjhYSEM3WHFkdE9ockF6cXBYOFZHa1NWbVFkcUNtM0RXUFhWdDNNRU1RUEw2dWMtaU04bEtFV1EtQzM1NUhSRXpDblM0dkp1eGFGVDFzLVVuVG1QejNkdUlRV3FEU1ZOdFN6OWdlMW1xUUJDN3ZTLVZRYzJ0Y01IVkR6Y2NZM0hMQnlCRF9hcnVCYWFpVmVSMThTWjI2cUdhSdIBuAFBVV95cUxOY0JNQ2xEZ2tjaEVpMm83T0J0cDVhR1FhdXV6d0wyMmYxQ0hOMTktZWNncy1DaGlRcV9HczF2d3RRYjJ2cks0R3VnU0gyN2FzbmlVLThhQmxxOXJQZU5yeVdDOGpkbUkzVWY3M3pnS3JucWJsNF9DYjZERkJibXR6NkNjOXh2cE0zYlN2cEVxdEVmY3dFQm5DeTQ5dTVISmNGNmNPX0w4S19hN0pLb0IyQjM2Y2doa2dK?oc=5)
 
 2026-08-24 <span class="news-indication-tag">MS</span>
@@ -150,51 +190,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Troppo magri per la loro altezza: l’allarme OMS su 11,7 milioni di bambini africani](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3k4bmdGc3Y2LXZCdGltLW03cC1QUDF3aGE1QUVHNTlEaHZsRUxWVWFXWldfLWJhS29XNnN3MDJwQlNLNDByaVFuSXV1SmFBeTNvRWt3aXlaUEVNUXBWMVltaVZTZ041SWIzOW5HSnF1Vlg3c0FLSEsyczFSMXRZR25PQVlINlEzODBlaTNDLW5jdHFnT1l2YTEyT1Z1LV9zc0xyekN5UUV4SThOSUJXczBIM205U2hPcjM4MkIxYkNwVXZxaFNSMFVyQ21XOTM5NTJHUWNqVQ?oc=5)
-
-2026-08-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3k4bmdGc3Y2LXZCdGltLW03cC1QUDF3aGE1QUVHNTlEaHZsRUxWVWFXWldfLWJhS29XNnN3MDJwQlNLNDByaVFuSXV1SmFBeTNvRWt3aXlaUEVNUXBWMVltaVZTZ041SWIzOW5HSnF1Vlg3c0FLSEsyczFSMXRZR25PQVlINlEzODBlaTNDLW5jdHFnT1l2YTEyT1Z1LV9zc0xyekN5UUV4SThOSUJXczBIM205U2hPcjM4MkIxYkNwVXZxaFNSMFVyQ21XOTM5NTJHUWNqVQ?oc=5)
-
----
-
 ### [Trovato il "motore" del sonno: ecco come il cervello ci spinge a dormire - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
 
 2026-08-23 <span class="news-indication-tag">MS</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
-
----
-
-### [Ebola in Rd Congo, il Papa: la comunità internazionale aiuti a salvare vite umane - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
-
-2026-08-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnhLTTJnMFc5TmZrdFl5Q2ZweVFwanBJVE5zN2U5ekktREg1VVRFdGgxRHBjS2NmU0lmZjlLQnR3NERkNjlvZU11ZDFIZlVaVldEZERtNHJWWkpHa2RKVlRBMHM0T0pvRVBNSXBCQ0RIdVcyOUpNSDFLNU1feTlfM1dEUUxLM0hiMERKR25WcHh1U2d1SHlxYzM0YWRySVZvVUlsXzN3ZjdLT29Ld0lSc3Q5ZnVmZHVI?oc=5)
-
----
-
-### [NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer - The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
-
-2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
-
----
-
-### [Vapes could lead to health harms in children, doctors warn](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WSEdpeUVsbVhaV1ZxOHhPTTRkQ292R2xIN2hyMTgxUFlCWWQzeG1uLUlwNGNyNEdMVVZSRG4yTk1QWlRlU0RNSEJZWU5DOUJhdXprbTlwc0RPVE9C?oc=5)
-
-2026-08-20 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WSEdpeUVsbVhaV1ZxOHhPTTRkQ292R2xIN2hyMTgxUFlCWWQzeG1uLUlwNGNyNEdMVVZSRG4yTk1QWlRlU0RNSEJZWU5DOUJhdXprbTlwc0RPVE9C?oc=5)
-
----
-
-### [One Common Type of Physical Activity Linked to Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
-
-2026-08-18 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[Newsweek](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
 
 ---
 

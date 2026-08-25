@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（3 則）
 
-### [Alyssa Milano: «Dopo il parto mi sentivo una madre fallita. Sono finita in un reparto psichiatrico. Pensavo ogni giorno a tutti i modi in cui mio figlio sarebbe potuto morire» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMitwFBVV95cUxObkVsYmVEQXlUQnlXNEZrNlB1SWtjelMtNjNBS3JzZHIwRFg3VEpGeS0yeGo2c2FET005a3BObTJoVEdVSW95a0d4MHA1UnNzaUNYNU9SeWF2a2tPNFR1b01jTjdJS1pGYzV0TlUxSXFTa2NvdnoyRVAwcFhIX1laN3dCOVp3VWRscmhsNno1aXdLUzdBTVR6Tk5mNnA0Tzk0eFNFWXVxTHc3eGZPcnBDS0hXbTJMeWc?oc=5)
+### [Depressionen: Einsamkeit erhöht kognitives Risiko um 8-9%](https://news.google.com/rss/articles/CBMiswFBVV95cUxQcExUZU80ZDNQQjFLVFVZOTRpRTZoVG40NTVPSjlMY2htNXpzT3ZWOXZKUktYSTh1ck5kWFUyWjQyU2wwdGoyelk3Qk1UZkNqajlRVERUN3ppTXo2aTRTVGNwWXF5YXdxOF9SZ3dsVURlUXR2MGZqOFliQVVWMmUyRnp1WHl2VzZycVFkYkp1Mk5WaEFCQXlUaWF1WHVGdkl3ZnBpd2gtZWhkQWt4NmhOb0dSWQ?oc=5)
 
-2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-08-25 <span class="news-indication-tag">depression</span>
 
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMitwFBVV95cUxObkVsYmVEQXlUQnlXNEZrNlB1SWtjelMtNjNBS3JzZHIwRFg3VEpGeS0yeGo2c2FET005a3BObTJoVEdVSW95a0d4MHA1UnNzaUNYNU9SeWF2a2tPNFR1b01jTjdJS1pGYzV0TlUxSXFTa2NvdnoyRVAwcFhIX1laN3dCOVp3VWRscmhsNno1aXdLUzdBTVR6Tk5mNnA0Tzk0eFNFWXVxTHc3eGZPcnBDS0hXbTJMeWc?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQcExUZU80ZDNQQjFLVFVZOTRpRTZoVG40NTVPSjlMY2htNXpzT3ZWOXZKUktYSTh1ck5kWFUyWjQyU2wwdGoyelk3Qk1UZkNqajlRVERUN3ppTXo2aTRTVGNwWXF5YXdxOF9SZ3dsVURlUXR2MGZqOFliQVVWMmUyRnp1WHl2VzZycVFkYkp1Mk5WaEFCQXlUaWF1WHVGdkl3ZnBpd2gtZWhkQWt4NmhOb0dSWQ?oc=5)
+
+---
+
+### [Descubren el vínculo entre el deterioro anímico y el origen del Alzheimer - Libertad Digital](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczRmeS1HeDFfUEFDUklMWXdMLTZ4WHRHaVBCSUR5dmhBYWFMT2VKdnExczhIU0hkZ2hCLVBNUU5vcHRaRUcxeUNWdU9PVkR5SklpRVdFeU94OXc1SmdkNW5aSGc5WGVSc2xOM0drM2J5ankxcmxQT190WHJhbDNQMFN2RkJTbFVudTlzd29kcXVoOU0yRlJnX0JKODJJOHN1SjgtbTdFSEE2WWlHa0U4eXFFWVBOMjhDMGFhOGJTQkw5YjVtYWFGSWZFQWNOZGJDWEEwQXNPUEs5WGVqdTZvNC1tSmzSAe8BQVVfeXFMT0w5Sk1IcnAwOC1pbk41LVZFN2hOdENGTGtDY3paVzZyLV9Jc082cTIzamt6S1dfZ0tWd3FiY1I4bHliUmthR3o3dXpYZ3k5aGRlUmgzaWJoTEdQdjlHRVY1WVl6UFdPZGhJSXFxNkdoenhqTDlINnlrdGdVTG9sR0h4X0NoWlp2RkpNRU9jMmJQcVlTZV9Gckw0UlZIM3hmOFU1ZEVxVVlkZjFOWmpUbm1pWG5CbFVmdk9uSHpDdnhCQlMzTkxzc3p1X2dQRUY4dFJWTzRZMFRYdS02d2J6eXctdF9oQVFMXzZaT0xMeDg?oc=5)
+
+2026-08-25 <span class="news-indication-tag">depresión</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczRmeS1HeDFfUEFDUklMWXdMLTZ4WHRHaVBCSUR5dmhBYWFMT2VKdnExczhIU0hkZ2hCLVBNUU5vcHRaRUcxeUNWdU9PVkR5SklpRVdFeU94OXc1SmdkNW5aSGc5WGVSc2xOM0drM2J5ankxcmxQT190WHJhbDNQMFN2RkJTbFVudTlzd29kcXVoOU0yRlJnX0JKODJJOHN1SjgtbTdFSEE2WWlHa0U4eXFFWVBOMjhDMGFhOGJTQkw5YjVtYWFGSWZFQWNOZGJDWEEwQXNPUEs5WGVqdTZvNC1tSmzSAe8BQVVfeXFMT0w5Sk1IcnAwOC1pbk41LVZFN2hOdENGTGtDY3paVzZyLV9Jc082cTIzamt6S1dfZ0tWd3FiY1I4bHliUmthR3o3dXpYZ3k5aGRlUmgzaWJoTEdQdjlHRVY1WVl6UFdPZGhJSXFxNkdoenhqTDlINnlrdGdVTG9sR0h4X0NoWlp2RkpNRU9jMmJQcVlTZV9Gckw0UlZIM3hmOFU1ZEVxVVlkZjFOWmpUbm1pWG5CbFVmdk9uSHpDdnhCQlMzTkxzc3p1X2dQRUY4dFJWTzRZMFRYdS02d2J6eXctdF9oQVFMXzZaT0xMeDg?oc=5)
 
 ---
 
@@ -67,46 +75,6 @@ permalink: /news/agomelatine/
 2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
-
----
-
-### [Una o dos onzas al día: la cantidad de chocolate negro que los expertos relacionan con beneficios para la salud mental](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEE0b1hFTm5oQ1FRNWVQdmdxeXpoMGlFNWlYd0thV1BfLTJHblBGeTVTOUVWMG1oNHc4QUF1cEZYZU83aTc4SlRLR19tSWpjYk0wWUxtdFR6czlpb2tPem5aNEpkMnNLMmc2UjV5c3oxbVgtN1hHcGJfOHlGNmVJazJkLTN0eG91d3JGc1FMTUo3R2xRRG80Mm5ORTRYcGVYMDFzczNQZUcyMlNjMEpYWmZIWUR4cVo2dW1wTEVqN2lqU2dDVU5jQUJ3SmtuX09uODhBZU1HeWM3XzE2M0hz?oc=5)
-
-2026-08-24 <span class="news-indication-tag">depresión</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEE0b1hFTm5oQ1FRNWVQdmdxeXpoMGlFNWlYd0thV1BfLTJHblBGeTVTOUVWMG1oNHc4QUF1cEZYZU83aTc4SlRLR19tSWpjYk0wWUxtdFR6czlpb2tPem5aNEpkMnNLMmc2UjV5c3oxbVgtN1hHcGJfOHlGNmVJazJkLTN0eG91d3JGc1FMTUo3R2xRRG80Mm5ORTRYcGVYMDFzczNQZUcyMlNjMEpYWmZIWUR4cVo2dW1wTEVqN2lqU2dDVU5jQUJ3SmtuX09uODhBZU1HeWM3XzE2M0hz?oc=5)
-
----
-
-### [Un estudio revela que la formación de nuevas células cerebrales se detiene en adultos con depresión - Adamed TV](https://news.google.com/rss/articles/CBMiywFBVV95cUxPZzItTDl5Yi1vUzM1WjZvWUdkMDJUN0dJZmpCMUdpOGtXZ0l2Qjl5S0ItMXFCS1BkMndFY3BYbVdVb0c5Z2pBNkkySTF6ZkRwSFZIRzZPc2pBN2NLQy1BOUFkdDB6eXFjczRzeG1vbjNoUE9CdmpEZGhCTE5qWlBlQ3MzUVFWcnBMekszQXE1TV91ZWV2OV80NG1XWDgtemhUZlZUTHkza1RVd2hPQ1Frd1A4U3I1MDc5VlhjaDNab05hd05QM215aHAzSQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">depresión</span>
-
-來源：[Adamed TV](https://news.google.com/rss/articles/CBMiywFBVV95cUxPZzItTDl5Yi1vUzM1WjZvWUdkMDJUN0dJZmpCMUdpOGtXZ0l2Qjl5S0ItMXFCS1BkMndFY3BYbVdVb0c5Z2pBNkkySTF6ZkRwSFZIRzZPc2pBN2NLQy1BOUFkdDB6eXFjczRzeG1vbjNoUE9CdmpEZGhCTE5qWlBlQ3MzUVFWcnBMekszQXE1TV91ZWV2OV80NG1XWDgtemhUZlZUTHkza1RVd2hPQ1Frd1A4U3I1MDc5VlhjaDNab05hd05QM215aHAzSQ?oc=5)
-
----
-
-### [AI trial aims to detect depression in new mothers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
-
-2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
-
----
-
-### [Neurogenesis stalls in the brains of adults with major depressive disorder, study shows](https://news.google.com/rss/articles/CBMizwFBVV95cUxOalVmWWpPTWZoWjhwanhKTUpfR096T2w2bVRMVVZwV3hJVXdNR2FJNklPVEQ2cF9JaDVXZUZrLXh1MzJiSFpUOUR5V0xVa3E4OTZsbXBRdFhXNjRqUHFGTTVGVGF6WEJtU3R2ajVES2ozekcydVlTYTk4NEUxSElldWQyejhxRi1BOFNsSkh1R1ZRY1N6QkFSdW94cElXWUVJa1hTVDZaRGxiajZkQVBnaUhlYkdZZnRVOEthZDY5MFNqWVBWY0FTd1BUcFRVZTg?oc=5)
-
-2026-08-21 <span class="news-indication-tag">depression</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxOalVmWWpPTWZoWjhwanhKTUpfR096T2w2bVRMVVZwV3hJVXdNR2FJNklPVEQ2cF9JaDVXZUZrLXh1MzJiSFpUOUR5V0xVa3E4OTZsbXBRdFhXNjRqUHFGTTVGVGF6WEJtU3R2ajVES2ozekcydVlTYTk4NEUxSElldWQyejhxRi1BOFNsSkh1R1ZRY1N6QkFSdW94cElXWUVJa1hTVDZaRGxiajZkQVBnaUhlYkdZZnRVOEthZDY5MFNqWVBWY0FTd1BUcFRVZTg?oc=5)
-
----
-
-### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
-
-2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/naltrexone/
 
 ## 相關新聞（1 則）
 
-### [Mar Malagón, referente internacional en obesidad: «La ciencia debe formar parte de la estrategia de cualquier país» - Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
+### [Macrophage 'molecular scissors' may drive obesity-linked inflammation and metabolic damage - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
 
-2026-08-24 <span class="news-indication-tag">obesidad</span>
+2026-08-23 <span class="news-indication-tag">obesity</span>
 
-來源：[Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
 
 ---
 

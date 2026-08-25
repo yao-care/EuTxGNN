@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Limitar el sedentarismo durante el embarazo puede disminuir casi un 80% el riesgo de hipertensión, según un estudio - La Vanguardia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDJGM3prYk1CdGpSU3BwSHhVNUdHUVFGY1NNQWVySTFpazhzNzZTRG5DTE01QXFFN1pJbEZqVWtLczdTUUU1WG55ZndEbDlVM2pEN2tGZlBhc2d2YzVlSlNpM1Vsc2RpZGxjT012MzhucElVLVlTV3p3Z3FpdFVpVE5VQ2U4Q2NkTFFhVVBZQ1M0cUJGQk5YMk05Y0pxX1BwanZuM2dkc3R5YkNEYk5nX3VpbWY5dE1MNW5wSV8tcmR3aWEySWZ0MU8tWEkzXzdCT3FhSEFya1JKd1ZkeHfSAeMBQVVfeXFMT3dOMHRJczNPck41d3FZcUVzTktCSkNiY2R3VlZ6VWJfMGJWdVd2dzd4dHRHMnhxUHpHclZ5ZjhQdXdLU1VRd2VYSE96YVY5Y3doeXZSQVFJenFqV0JTYTB6NGZIVkJTVnhSeUltemJGZ2ZVaFNrcm9HNnFNcGlrRGNVci1LUzlPQ2JLM0Y0NU5CajJzNjJEbG83MnBtaV91ZUxHYjF5UmEwMjlyVVl3RVY2U3pfYkhDQXFRR1A0dURvLTAyTFhTbWdza3czUm9xVmVYZThkRXNYbkNBREhKZXhVY3c?oc=5)
+### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
 
-2026-08-24 <span class="news-indication-tag">hipertensión</span>
+2026-08-25 <span class="news-indication-tag">arthritis</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDJGM3prYk1CdGpSU3BwSHhVNUdHUVFGY1NNQWVySTFpazhzNzZTRG5DTE01QXFFN1pJbEZqVWtLczdTUUU1WG55ZndEbDlVM2pEN2tGZlBhc2d2YzVlSlNpM1Vsc2RpZGxjT012MzhucElVLVlTV3p3Z3FpdFVpVE5VQ2U4Q2NkTFFhVVBZQ1M0cUJGQk5YMk05Y0pxX1BwanZuM2dkc3R5YkNEYk5nX3VpbWY5dE1MNW5wSV8tcmR3aWEySWZ0MU8tWEkzXzdCT3FhSEFya1JKd1ZkeHfSAeMBQVVfeXFMT3dOMHRJczNPck41d3FZcUVzTktCSkNiY2R3VlZ6VWJfMGJWdVd2dzd4dHRHMnhxUHpHclZ5ZjhQdXdLU1VRd2VYSE96YVY5Y3doeXZSQVFJenFqV0JTYTB6NGZIVkJTVnhSeUltemJGZ2ZVaFNrcm9HNnFNcGlrRGNVci1LUzlPQ2JLM0Y0NU5CajJzNjJEbG83MnBtaV91ZUxHYjF5UmEwMjlyVVl3RVY2U3pfYkhDQXFRR1A0dURvLTAyTFhTbWdza3czUm9xVmVYZThkRXNYbkNBREhKZXhVY3c?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
+
+---
+
+### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+
+2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
 
 ---
 
