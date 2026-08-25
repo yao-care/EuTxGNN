@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [“Pensavo a tutti i modi in cui mio figlio sarebbe potuto morire mentre lavoravo. Dopo il parto mi sono sentita una madre fallita, ho chiesto un ricovero in psichiatria”: così Alyssa Milano - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPN2huNVVKTlI3R3JXLVY3dnhFWXUxc2Y3dWhtMFdhMWxkOHFlVVFLWVJwYm9DdVJHSjlQVW9kVEZ6QzNVOVNNTC15UUR1RzFYNEo3Q29YOXZZQlpLTDloaWVCWUhUSmV5VkdiMzJxdkJQN1J3LS1ON3pGN0Z6cEx6b083NFlqTzNGc2hIVU51dXRwUldJWXVXblEySlhZRXUwaEgwRjR4RmVxMnJCSEVTUXpWcG5vWUFHcEdJTlhscUNOUFBVbFcwUGM3MGNHSFlNRWRvN0hVbDM1clBkYnRGS1U2OVB1S293Z0xKNDlNalJQLVhxQUxWTm1aQlFjeWgzbFFOUXljcUJuVEFnUk1wdVhlb0lOM0xSWjNoamxIeGVtU3ViYTRsUmJ5ZXZ0YlhjNjNRUktoc3VyRFA2Y3VzZE0tb1UwQzNUSmltUkJITHlFRzZwcHRr?oc=5)
+
+2026-08-25
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPN2huNVVKTlI3R3JXLVY3dnhFWXUxc2Y3dWhtMFdhMWxkOHFlVVFLWVJwYm9DdVJHSjlQVW9kVEZ6QzNVOVNNTC15UUR1RzFYNEo3Q29YOXZZQlpLTDloaWVCWUhUSmV5VkdiMzJxdkJQN1J3LS1ON3pGN0Z6cEx6b083NFlqTzNGc2hIVU51dXRwUldJWXVXblEySlhZRXUwaEgwRjR4RmVxMnJCSEVTUXpWcG5vWUFHcEdJTlhscUNOUFBVbFcwUGM3MGNHSFlNRWRvN0hVbDM1clBkYnRGS1U2OVB1S293Z0xKNDlNalJQLVhxQUxWTm1aQlFjeWgzbFFOUXljcUJuVEFnUk1wdVhlb0lOM0xSWjNoamxIeGVtU3ViYTRsUmJ5ZXZ0YlhjNjNRUktoc3VyRFA2Y3VzZE0tb1UwQzNUSmltUkJITHlFRzZwcHRr?oc=5)
+
+---
 
 ### [Depressionen: Einsamkeit erhöht kognitives Risiko um 8-9%](https://news.google.com/rss/articles/CBMiswFBVV95cUxQcExUZU80ZDNQQjFLVFVZOTRpRTZoVG40NTVPSjlMY2htNXpzT3ZWOXZKUktYSTh1ck5kWFUyWjQyU2wwdGoyelk3Qk1UZkNqajlRVERUN3ppTXo2aTRTVGNwWXF5YXdxOF9SZ3dsVURlUXR2MGZqOFliQVVWMmUyRnp1WHl2VzZycVFkYkp1Mk5WaEFCQXlUaWF1WHVGdkl3ZnBpd2gtZWhkQWt4NmhOb0dSWQ?oc=5)
 
@@ -45,11 +53,11 @@ permalink: /news/depression/
 
 ---
 
-### [Descubren el vínculo entre el deterioro anímico y el origen del Alzheimer - Libertad Digital](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczRmeS1HeDFfUEFDUklMWXdMLTZ4WHRHaVBCSUR5dmhBYWFMT2VKdnExczhIU0hkZ2hCLVBNUU5vcHRaRUcxeUNWdU9PVkR5SklpRVdFeU94OXc1SmdkNW5aSGc5WGVSc2xOM0drM2J5ankxcmxQT190WHJhbDNQMFN2RkJTbFVudTlzd29kcXVoOU0yRlJnX0JKODJJOHN1SjgtbTdFSEE2WWlHa0U4eXFFWVBOMjhDMGFhOGJTQkw5YjVtYWFGSWZFQWNOZGJDWEEwQXNPUEs5WGVqdTZvNC1tSmzSAe8BQVVfeXFMT0w5Sk1IcnAwOC1pbk41LVZFN2hOdENGTGtDY3paVzZyLV9Jc082cTIzamt6S1dfZ0tWd3FiY1I4bHliUmthR3o3dXpYZ3k5aGRlUmgzaWJoTEdQdjlHRVY1WVl6UFdPZGhJSXFxNkdoenhqTDlINnlrdGdVTG9sR0h4X0NoWlp2RkpNRU9jMmJQcVlTZV9Gckw0UlZIM3hmOFU1ZEVxVVlkZjFOWmpUbm1pWG5CbFVmdk9uSHpDdnhCQlMzTkxzc3p1X2dQRUY4dFJWTzRZMFRYdS02d2J6eXctdF9oQVFMXzZaT0xMeDg?oc=5)
+### [La depresión durante el envejecimiento, elevada por una proteína](https://news.google.com/rss/articles/CBMingFBVV95cUxQTXMwWE0wUndEMnlMWDA0a0I0Z0ZZU0FJYkV4UUxLanp2NUw4N3Y3aEdoY2F3RXV4Mmt1NHIwVHVTRHVxSzVmMHdEdUhseF9Way1IRzhlMlhfY0hXMEpicWx0bm11NG1SaC1xM3Q2RVFTc05TTkYtaGhhd0p2MjZOUDMzbXFJWkhrMkNPbHBVbXg4bUNzQ1l0V1FsakJBdw?oc=5)
 
 2026-08-25
 
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczRmeS1HeDFfUEFDUklMWXdMLTZ4WHRHaVBCSUR5dmhBYWFMT2VKdnExczhIU0hkZ2hCLVBNUU5vcHRaRUcxeUNWdU9PVkR5SklpRVdFeU94OXc1SmdkNW5aSGc5WGVSc2xOM0drM2J5ankxcmxQT190WHJhbDNQMFN2RkJTbFVudTlzd29kcXVoOU0yRlJnX0JKODJJOHN1SjgtbTdFSEE2WWlHa0U4eXFFWVBOMjhDMGFhOGJTQkw5YjVtYWFGSWZFQWNOZGJDWEEwQXNPUEs5WGVqdTZvNC1tSmzSAe8BQVVfeXFMT0w5Sk1IcnAwOC1pbk41LVZFN2hOdENGTGtDY3paVzZyLV9Jc082cTIzamt6S1dfZ0tWd3FiY1I4bHliUmthR3o3dXpYZ3k5aGRlUmgzaWJoTEdQdjlHRVY1WVl6UFdPZGhJSXFxNkdoenhqTDlINnlrdGdVTG9sR0h4X0NoWlp2RkpNRU9jMmJQcVlTZV9Gckw0UlZIM3hmOFU1ZEVxVVlkZjFOWmpUbm1pWG5CbFVmdk9uSHpDdnhCQlMzTkxzc3p1X2dQRUY4dFJWTzRZMFRYdS02d2J6eXctdF9oQVFMXzZaT0xMeDg?oc=5)
+來源：[kissfm.es](https://news.google.com/rss/articles/CBMingFBVV95cUxQTXMwWE0wUndEMnlMWDA0a0I0Z0ZZU0FJYkV4UUxLanp2NUw4N3Y3aEdoY2F3RXV4Mmt1NHIwVHVTRHVxSzVmMHdEdUhseF9Way1IRzhlMlhfY0hXMEpicWx0bm11NG1SaC1xM3Q2RVFTc05TTkYtaGhhd0p2MjZOUDMzbXFJWkhrMkNPbHBVbXg4bUNzQ1l0V1FsakJBdw?oc=5)
 
 ---
 
@@ -58,6 +66,14 @@ permalink: /news/depression/
 2026-08-24
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
+
+---
+
+### [La vitamina que empieza a agotarse justo cuando termina el verano (y cómo frenar la caída con alimentos de temporada)](https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZHEtRlJkXzdlM1A0RzRNTVFKZ1RYWnZObzF3QXM1M1JUM1ZqX1B3VWJMMDdidHJ2bEE3MU03YWpUTmdXTWhNZ211Y2Rpb3F1aVZGY0hDRE1SaFNidWVvU3pzdm03VEpTbmU2Q0p4SC1yYUlxa185bA?oc=5)
+
+2026-08-24
+
+來源：[moncloa.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZHEtRlJkXzdlM1A0RzRNTVFKZ1RYWnZObzF3QXM1M1JUM1ZqX1B3VWJMMDdidHJ2bEE3MU03YWpUTmdXTWhNZ211Y2Rpb3F1aVZGY0hDRE1SaFNidWVvU3pzdm03VEpTbmU2Q0p4SC1yYUlxa185bA?oc=5)
 
 ---
 

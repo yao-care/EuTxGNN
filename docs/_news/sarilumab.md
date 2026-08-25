@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
-
-2026-08-25 <span class="news-indication-tag">arthritis</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
-
----
-
-### [Diese Blutwerte können auf COPD-Risiken hinweisen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
+### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">copd</span>
 
-來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 ---
 

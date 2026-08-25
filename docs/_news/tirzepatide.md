@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
+### [Mobile beauty therapist charged with illegally selling weight loss jab Mounjaro](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmROaGg5MHVZcm0teUFQUnpPRUdUUmx6MDdvUzl1LUI0dHozRkVDUmJrakE5QVdVV3RJQlVydzRibWlybXhwcFJyV2JFSnRfNmVfVUNETThtaTFqam5aRkFBaUFYeUNPMHJvemV6NFlkeE9PMzQtaGJpLXFTckRCUHg4T05wQ1FRRDJULW14cG55eC1Pem9GUkp3?oc=5)
 
-2026-08-25 <span class="news-indication-tag">arthritis</span>
+2026-08-25 <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
-
----
-
-### [Doctors not 'fixated' on weight-loss drug, coroner](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPckctcUN3R2h4TFE0ZU1qMUw3MDFaa01uaWo1LTRYV2Fydl8wd0Jqam9HdnZXR0Q4TmlVa3VTaV9md1RjZ1J0UGdGLTZqZjl0Y1Bvb1BwUnZXM21S?oc=5)
-
-2026-08-24 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPckctcUN3R2h4TFE0ZU1qMUw3MDFaa01uaWo1LTRYV2Fydl8wd0Jqam9HdnZXR0Q4TmlVa3VTaV9md1RjZ1J0UGdGLTZqZjl0Y1Bvb1BwUnZXM21S?oc=5)
+來源：[EDP24](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmROaGg5MHVZcm0teUFQUnpPRUdUUmx6MDdvUzl1LUI0dHozRkVDUmJrakE5QVdVV3RJQlVydzRibWlybXhwcFJyV2JFSnRfNmVfVUNETThtaTFqam5aRkFBaUFYeUNPMHJvemV6NFlkeE9PMzQtaGJpLXFTckRCUHg4T05wQ1FRRDJULW14cG55eC1Pem9GUkp3?oc=5)
 
 ---
 

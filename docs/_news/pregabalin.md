@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
-
-2026-08-25 <span class="news-indication-tag">arthritis</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Emicrania, la nuova cura costa centinaia di euro: quanto vale davvero?](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWQycWdYZzBtQXgwQTF5Y0VfTXEzb0tJUGhKUFdOMnJWUGFyRDBRMElRVGN6RXhVVTNRTnF1V09hbzFHOFlzOUsyZ1RPQW1qcTdHX2pfbkJmb1ZmRGdqQVI5bUp6QUhnYk9hWEZDVnBNOHZXdWJ5MHJOaHhjWERBWExFTURpa2dHejdHRFdNamd1U1Vab3ZGY3VPbE5hczFlaUlESUYxc3psSzdLcHpxdkEyaDRwQ25abHU5MVhiY2QycE9md0E?oc=5)
 

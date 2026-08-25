@@ -54,11 +54,11 @@ permalink: /news/dexrazoxane-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [Diese Blutwerte können auf COPD-Risiken hinweisen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
+### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">copd</span>
 
-來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 ---
 

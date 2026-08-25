@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
+
+### [El sexo y la edad determinan las potenciales complicaciones de la diabetes tipo 2 - Tribuna de Segovia.](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHFTS1FFdnY5SUdGLW9IdDE5RnZXSWIwb3FteTItUlN0bThxdEN1WVZXdl83VzBZYVBzVl8tQjkyY0V0dThVNkFvOUw0anZWdlQtam8zNkNsbGpfSmFTaE9nTWtyN1ZTSEh1bFB6aHVlMzFpcktGQWhlcVpBbUdFUDc0TjVBdUFuY1BHcVA1RVM5d1dEX3pwWG5VXzNPZ0NGTkFnZzQ4UVRBX2NZNTJndlZHV1ZNbVlpX1p2QnhZa3Q5SC12eDB3?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Tribuna de Segovia.](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHFTS1FFdnY5SUdGLW9IdDE5RnZXSWIwb3FteTItUlN0bThxdEN1WVZXdl83VzBZYVBzVl8tQjkyY0V0dThVNkFvOUw0anZWdlQtam8zNkNsbGpfSmFTaE9nTWtyN1ZTSEh1bFB6aHVlMzFpcktGQWhlcVpBbUdFUDc0TjVBdUFuY1BHcVA1RVM5d1dEX3pwWG5VXzNPZ0NGTkFnZzQ4UVRBX2NZNTJndlZHV1ZNbVlpX1p2QnhZa3Q5SC12eDB3?oc=5)
+
+---
+
+### [Diabetes Typ 1: Intervallfasten hat überraschende Wirkung auf Langzeitblutzucker](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Demenzrisiko um 43%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
+
+---
+
+### [Diabetes y desayuno: cuándo conviene comer para mantener la glucosa estable](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlFLWZwN0JwR2ZUbU5VcmVYRjBYVzlDNkNDUmlYa3Z1bGlwVUlTUTdQWGluZ3psMEk4SVgwam9XMUVHTExDb2VzOGhPY0tRMDd6ZjIwQUNCUlJKVks4aWE0N2pHaEYyWWJEejF1bXg5MmVHUjcwUXJwU2d2OFU3OU1WbVFMWXBNNzhYVWVrdXUzcUd6aV9jNHFBcWJqRGNndHJmMmVVSmpZX3FxRUVBWXQ0SnJwUTTSAdIBQVVfeXFMTzZUUldKY0ZyY0tZMzFzNXNrVFZPb2R0NGFYWHNNRHRZdzF2dkFsa0hPa0pxaWJiZHlEQ0VFUHBLRURWTkg4eVBjXzlmQWpNSnljODUxSllkMHhTYWJqcERtU00zOHY2a19nbTR3MFdiSjdRLUNxTnkzbWRaS2VVSTUwWGVXZnVySkM5X244NFFLN0pBcDE3bVlCelhtQ2l6TDRVT3gyMDU2SnE2WjBTQ3pOcEJ0cDE3dkF4OUZOREdhb0VJWjBzSGpyODlxRlBoX3BR?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlFLWZwN0JwR2ZUbU5VcmVYRjBYVzlDNkNDUmlYa3Z1bGlwVUlTUTdQWGluZ3psMEk4SVgwam9XMUVHTExDb2VzOGhPY0tRMDd6ZjIwQUNCUlJKVks4aWE0N2pHaEYyWWJEejF1bXg5MmVHUjcwUXJwU2d2OFU3OU1WbVFMWXBNNzhYVWVrdXUzcUd6aV9jNHFBcWJqRGNndHJmMmVVSmpZX3FxRUVBWXQ0SnJwUTTSAdIBQVVfeXFMTzZUUldKY0ZyY0tZMzFzNXNrVFZPb2R0NGFYWHNNRHRZdzF2dkFsa0hPa0pxaWJiZHlEQ0VFUHBLRURWTkg4eVBjXzlmQWpNSnljODUxSllkMHhTYWJqcERtU00zOHY2a19nbTR3MFdiSjdRLUNxTnkzbWRaS2VVSTUwWGVXZnVySkM5X244NFFLN0pBcDE3bVlCelhtQ2l6TDRVT3gyMDU2SnE2WjBTQ3pOcEJ0cDE3dkF4OUZOREdhb0VJWjBzSGpyODlxRlBoX3BR?oc=5)
+
+---
 
 ### [Blood sugar running high despite cutting back on sweets? Doctors explain 5 nutrients that may help your body manage glucose better - The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
 
@@ -83,14 +115,6 @@ permalink: /news/semaglutide/
 2026-08-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[Gomera Verde](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNENCazRTOGVFYTZoRGRuQllPWFRDcGVxNC0tU1pOTG1yc2ZrbFdJU1JtbF9ZNGlvbVhFQTRuT2E2d1BnOHJqTFducUJGeGwwa0U4cVp2N1U1eFJxbGNpWUFhSGtVTTZrUDhUVnNxdHVfc1pMcW5xRUV0MFlJX2FJbUtsYXhsVEhBeXFQYlRBRi1TYXQ1TW5WMDAyU2lJb29oZ3V5cllldHM1WWlOTjZ0b214NlMyeXBkVjB6VEY3aWlEVFFOUEtUZDdVaks?oc=5)
-
----
-
-### [Le psyllium, cet “Ozempic naturel” qui fait le buzz sur les réseaux sociaux, est-il vraiment efficace et sans danger ? “Cela n’a rien de comparable” - La Libre.be](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMWZwU3BUdjVYWlRVa09hUFJLQUFzTE1CMmlQZGd0eFJQc1hidFlIZjNPYXpfNnVwR2toM0s4cS1lRFRkZ0FyVk5nLUs5Sk92NVJocFlpbHp0UGlraHBjSFBhTXNxNWxVSHlGaGtqdV96UktUN1pBUTBncXdXQnlteFlvdVhaUnBQemVHdUZuOWExdUdxdFBFWDlIVjZFWGwwX3FQYUpaVG5FTzNaeVRqMU1vX2VwNERsQ1djMWdSM2x0OXF3Q1BCOHlyblZXTy1lcXA3andBQ2UycTJMbVF5eUxnaWRWQ1hVOWVaR1k2M0FIdFZNeUJqbWJNamMyb3Bq?oc=5)
-
-2026-08-24 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMWZwU3BUdjVYWlRVa09hUFJLQUFzTE1CMmlQZGd0eFJQc1hidFlIZjNPYXpfNnVwR2toM0s4cS1lRFRkZ0FyVk5nLUs5Sk92NVJocFlpbHp0UGlraHBjSFBhTXNxNWxVSHlGaGtqdV96UktUN1pBUTBncXdXQnlteFlvdVhaUnBQemVHdUZuOWExdUdxdFBFWDlIVjZFWGwwX3FQYUpaVG5FTzNaeVRqMU1vX2VwNERsQ1djMWdSM2x0OXF3Q1BCOHlyblZXTy1lcXA3andBQ2UycTJMbVF5eUxnaWRWQ1hVOWVaR1k2M0FIdFZNeUJqbWJNamMyb3Bq?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 maladie cardiaque</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart disease</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,23 +52,7 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Rheumatoide Arthritis: So wirksam ist die TCM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
-
-2026-08-25 <span class="news-indication-tag">arthritis</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjlVdF9sVndxbGkzUkdkTzI0M0VTdnJpLXVlSDRIcDNodVZ5eUZDMkh0ZjZVQW1sNGNkZVhNZFRlWDIzS1B0RS1TenhsNnpKZUdpR0dHckVSN0JuRHZQZFlDMHl2aFJ3ZWxYQTFHLVliVVk4b0pFaHVhTlIyMkhNbWk4eW50RkFSeHhvYzlpMThCcGRLdDhnUm91MG5WeS1tbVVHZ0s2OTI?oc=5)
-
----
-
-### [Una alternativa al trasplante que podría restaurar función cardíaca en niños con cardiopatías genéticas](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
-
-2026-08-25 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
 
@@ -91,6 +75,14 @@ permalink: /news/abemaciclib/
 2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
+
+---
+
+### [This Habit Could Lower Your Risk of Heart-Related Death by 39%, Study Says](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
+
+2026-08-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiopatía（heart disease） 相關新聞"
+title: "heart failure（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "cardiopatía（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
+description: "heart failure（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# cardiopatía（heart disease） 相關新聞
+# heart failure（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
-<strong>cardiopatía（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
+<strong>heart failure（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -87,14 +87,6 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（3 則）
 
-### [Una alternativa al trasplante que podría restaurar función cardíaca en niños con cardiopatías genéticas](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
-
-2026-08-25
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
-
----
-
 ### [Doctors and scientists race to understand a rising form of heart failure - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
 2026-08-24
@@ -108,6 +100,14 @@ permalink: /news/heart-disease/
 2026-08-24
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
+
+---
+
+### [This Habit Could Lower Your Risk of Heart-Related Death by 39%, Study Says](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
+
+2026-08-24
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
 
 ---
 

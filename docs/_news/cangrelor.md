@@ -54,14 +54,6 @@ permalink: /news/cangrelor/
 
 ## 相關新聞（3 則）
 
-### [Una alternativa al trasplante que podría restaurar función cardíaca en niños con cardiopatías genéticas](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
-
-2026-08-25 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
-
----
-
 ### [Doctors and scientists race to understand a rising form of heart failure - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
 2026-08-24 <span class="news-indication-tag">heart failure</span>
@@ -75,6 +67,14 @@ permalink: /news/cangrelor/
 2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
+
+---
+
+### [This Habit Could Lower Your Risk of Heart-Related Death by 39%, Study Says](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
+
+2026-08-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
 
 ---
 

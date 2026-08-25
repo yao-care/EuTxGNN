@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Una alternativa al trasplante que podría restaurar función cardíaca en niños con cardiopatías genéticas](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
-
-2026-08-25 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Breakthrough Stroke in AF Linked to Drug Interactions](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
 
@@ -86,14 +78,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [All'ospedale di Circolo di Varese l'intelligenza artificiale accelera la diagnosi e il trattamento dell’ictus ischemico](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNak10aTdDVmZVTktJcjZHelRidmJTZkFQOTJ2bDN2QnRJTHdpZ3lCOGRvQzBuUUpGVExoN0hNREZ2VkYwdWVuQTRjdWdxNE55TG5DMnA5RHE0NDQ5V2hyckd0SElLSGRPMmdUMHoxc3RIZzZUX1AzdktaeHBqS0tDY01PalJGejJNZXQyY3Vrbl8zVjVVY0NreXNiblVWTXlrZjFxSndTNU1uYjI2UktyYmR0MGRCVHZoTnJUbFc2VDg0T0toZ0RZOTlPV09NLWt6OHNCQUtCV2dzbmZsMUszT2R1V3lNN2hsT095S1YzZFI?oc=5)
-
-2026-08-24 <span class="news-indication-tag">ictus</span>
-
-來源：[VareseNews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNak10aTdDVmZVTktJcjZHelRidmJTZkFQOTJ2bDN2QnRJTHdpZ3lCOGRvQzBuUUpGVExoN0hNREZ2VkYwdWVuQTRjdWdxNE55TG5DMnA5RHE0NDQ5V2hyckd0SElLSGRPMmdUMHoxc3RIZzZUX1AzdktaeHBqS0tDY01PalJGejJNZXQyY3Vrbl8zVjVVY0NreXNiblVWTXlrZjFxSndTNU1uYjI2UktyYmR0MGRCVHZoTnJUbFc2VDg0T0toZ0RZOTlPV09NLWt6OHNCQUtCV2dzbmZsMUszT2R1V3lNN2hsT095S1YzZFI?oc=5)
-
----
-
 ### [Doctors and scientists race to understand a rising form of heart failure - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
 
 2026-08-24 <span class="news-indication-tag">heart failure</span>
@@ -110,11 +94,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Ictus e droghe: quale sostanza è associata al rischio maggiore? L’analisi su oltre 100 milioni di persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+### [This Habit Could Lower Your Risk of Heart-Related Death by 39%, Study Says](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
 
-2026-08-23 <span class="news-indication-tag">ictus</span>
+2026-08-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
 
 ---
 

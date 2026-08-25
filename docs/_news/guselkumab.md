@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/guselkumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>drug-induced osteoporosis（99.8%）</li>
 <li>severe nonproliferative diabetic retinopathy（99.8%）</li>
-<li class="indication-matched">psoriasis（99.8%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（99.8%）</li>
 <li>diabetic retinopathy（99.7%）</li>
 <li>renal osteodystrophy（99.7%）</li>
 <li>ulcerative colitis (disease)（99.7%）</li>
@@ -52,7 +52,39 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [El sexo y la edad determinan las potenciales complicaciones de la diabetes tipo 2 - Tribuna de Segovia.](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHFTS1FFdnY5SUdGLW9IdDE5RnZXSWIwb3FteTItUlN0bThxdEN1WVZXdl83VzBZYVBzVl8tQjkyY0V0dThVNkFvOUw0anZWdlQtam8zNkNsbGpfSmFTaE9nTWtyN1ZTSEh1bFB6aHVlMzFpcktGQWhlcVpBbUdFUDc0TjVBdUFuY1BHcVA1RVM5d1dEX3pwWG5VXzNPZ0NGTkFnZzQ4UVRBX2NZNTJndlZHV1ZNbVlpX1p2QnhZa3Q5SC12eDB3?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Tribuna de Segovia.](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHFTS1FFdnY5SUdGLW9IdDE5RnZXSWIwb3FteTItUlN0bThxdEN1WVZXdl83VzBZYVBzVl8tQjkyY0V0dThVNkFvOUw0anZWdlQtam8zNkNsbGpfSmFTaE9nTWtyN1ZTSEh1bFB6aHVlMzFpcktGQWhlcVpBbUdFUDc0TjVBdUFuY1BHcVA1RVM5d1dEX3pwWG5VXzNPZ0NGTkFnZzQ4UVRBX2NZNTJndlZHV1ZNbVlpX1p2QnhZa3Q5SC12eDB3?oc=5)
+
+---
+
+### [Diabetes Typ 1: Intervallfasten hat überraschende Wirkung auf Langzeitblutzucker](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Demenzrisiko um 43%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
+
+---
+
+### [Diabetes y desayuno: cuándo conviene comer para mantener la glucosa estable](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlFLWZwN0JwR2ZUbU5VcmVYRjBYVzlDNkNDUmlYa3Z1bGlwVUlTUTdQWGluZ3psMEk4SVgwam9XMUVHTExDb2VzOGhPY0tRMDd6ZjIwQUNCUlJKVks4aWE0N2pHaEYyWWJEejF1bXg5MmVHUjcwUXJwU2d2OFU3OU1WbVFMWXBNNzhYVWVrdXUzcUd6aV9jNHFBcWJqRGNndHJmMmVVSmpZX3FxRUVBWXQ0SnJwUTTSAdIBQVVfeXFMTzZUUldKY0ZyY0tZMzFzNXNrVFZPb2R0NGFYWHNNRHRZdzF2dkFsa0hPa0pxaWJiZHlEQ0VFUHBLRURWTkg4eVBjXzlmQWpNSnljODUxSllkMHhTYWJqcERtU00zOHY2a19nbTR3MFdiSjdRLUNxTnkzbWRaS2VVSTUwWGVXZnVySkM5X244NFFLN0pBcDE3bVlCelhtQ2l6TDRVT3gyMDU2SnE2WjBTQ3pOcEJ0cDE3dkF4OUZOREdhb0VJWjBzSGpyODlxRlBoX3BR?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlFLWZwN0JwR2ZUbU5VcmVYRjBYVzlDNkNDUmlYa3Z1bGlwVUlTUTdQWGluZ3psMEk4SVgwam9XMUVHTExDb2VzOGhPY0tRMDd6ZjIwQUNCUlJKVks4aWE0N2pHaEYyWWJEejF1bXg5MmVHUjcwUXJwU2d2OFU3OU1WbVFMWXBNNzhYVWVrdXUzcUd6aV9jNHFBcWJqRGNndHJmMmVVSmpZX3FxRUVBWXQ0SnJwUTTSAdIBQVVfeXFMTzZUUldKY0ZyY0tZMzFzNXNrVFZPb2R0NGFYWHNNRHRZdzF2dkFsa0hPa0pxaWJiZHlEQ0VFUHBLRURWTkg4eVBjXzlmQWpNSnljODUxSllkMHhTYWJqcERtU00zOHY2a19nbTR3MFdiSjdRLUNxTnkzbWRaS2VVSTUwWGVXZnVySkM5X244NFFLN0pBcDE3bVlCelhtQ2l6TDRVT3gyMDU2SnE2WjBTQ3pOcEJ0cDE3dkF4OUZOREdhb0VJWjBzSGpyODlxRlBoX3BR?oc=5)
+
+---
 
 ### [Blood sugar running high despite cutting back on sweets? Doctors explain 5 nutrients that may help your body manage glucose better - The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
 
@@ -67,14 +99,6 @@ permalink: /news/guselkumab/
 2026-08-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmVEcVB2WFFTbE9hUUhmcWp2c19vQl8zMzNvTmlvbDI1YWNFRWQ3Z0ZnblJuTmFQWktBRTVvNkN2OERFOEUxYmJlUmQwV2xiUEh3QjlhM0w4Ujc0aG94bDZTRmFmMEVsZmNsaEdVZHBJaU14TGNUdHZ5X0RpQ01pVzYwYjAyRGVVdTBwQWVR0gGTAUFVX3lxTE5mcTNWemxZVWlodUd2TXAtVndxd2tzTXRNemQ2Ty1NRU5Tek9CVG5XS3dUallUR1kzbWZVTy1LTjZYLTFkUVZTMWhUcm9SRmJPN3VvM3ZHZWFrUExmQnRPaGhOZzFzRGYyX0ljbExmcU14R3ZueGxKWk4waU9WMzViVXlTRnN4d1NYX1VncjV5Yzlacw?oc=5)
-
----
-
-### [¿Sol o agua del mar? Los rayos ultravioleta mejoran la psoriasis y la dermatitis atópica - La Vanguardia](https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1NoMUp5VGZLS1ZsNWNZUGdXRFMzUGFkdUNWbm10dldteUpCbXRHNGV3LTVQU0xaMFJhV0ZBUWdlOURYSFRKVHBqZ1c1RmI0WTF5dk90UTQtM2RuT2xINzdqQTNIcnd5VVpQd0lNSFdPNVVzTVRWQU1xeHJXd2xjQU9Ddmd4bXZ4NGtGY2x3MHZES1ZJakdLMXk1bldXMDF1RGhOTHU0eVNGMWxlRUVJWmFWd2R0RE1QaWJOUEF5QjR2cXVFZEhMYlJCNNIB0AFBVV95cUxONkJ5eVRKYlFUV2dORkRDYkNmTTk2Z2dJTUlkcUhacjhteUQ2MXo2TlNRaVpJNmVYNjBScDVLUl9lYVM1ZU1NR2ZjQ2d0LXd5d0pveWpJcTJJUHVMd0dVeEhJTmQ5SWF3dGZZV3N2N1FpdkJWc3RHQ0dwR001aTl4ZUhVUE9BVjZjb2NJM3pMdUYtc1NBZGhqS29vRThfYUlkX21pZTBZZzlBbnBoaGs0cndoZFAxb0JGYV9tZ2dqaDlxdDNCam5JUk9BOHJjWXpp?oc=5)
-
-2026-08-25 <span class="news-indication-tag">psoriasis</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1NoMUp5VGZLS1ZsNWNZUGdXRFMzUGFkdUNWbm10dldteUpCbXRHNGV3LTVQU0xaMFJhV0ZBUWdlOURYSFRKVHBqZ1c1RmI0WTF5dk90UTQtM2RuT2xINzdqQTNIcnd5VVpQd0lNSFdPNVVzTVRWQU1xeHJXd2xjQU9Ddmd4bXZ4NGtGY2x3MHZES1ZJakdLMXk1bldXMDF1RGhOTHU0eVNGMWxlRUVJWmFWd2R0RE1QaWJOUEF5QjR2cXVFZEhMYlJCNNIB0AFBVV95cUxONkJ5eVRKYlFUV2dORkRDYkNmTTk2Z2dJTUlkcUhacjhteUQ2MXo2TlNRaVpJNmVYNjBScDVLUl9lYVM1ZU1NR2ZjQ2d0LXd5d0pveWpJcTJJUHVMd0dVeEhJTmQ5SWF3dGZZV3N2N1FpdkJWc3RHQ0dwR001aTl4ZUhVUE9BVjZjb2NJM3pMdUYtc1NBZGhqS29vRThfYUlkX21pZTBZZzlBbnBoaGs0cndoZFAxb0JGYV9tZ2dqaDlxdDNCam5JUk9BOHJjWXpp?oc=5)
 
 ---
 

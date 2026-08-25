@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Emicrania, la nuova cura costa centinaia di euro: quanto vale davvero?](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWQycWdYZzBtQXgwQTF5Y0VfTXEzb0tJUGhKUFdOMnJWUGFyRDBRMElRVGN6RXhVVTNRTnF1V09hbzFHOFlzOUsyZ1RPQW1qcTdHX2pfbkJmb1ZmRGdqQVI5bUp6QUhnYk9hWEZDVnBNOHZXdWJ5MHJOaHhjWERBWExFTURpa2dHejdHRFdNamd1U1Vab3ZGY3VPbE5hczFlaUlESUYxc3psSzdLcHpxdkEyaDRwQ25abHU5MVhiY2QycE9md0E?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/ziconotide/
 2026-08-24 <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
-
----
-
-### [Macrophage 'molecular scissors' may drive obesity-linked inflammation and metabolic damage - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
-
-2026-08-23 <span class="news-indication-tag">obesity</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
 
 ---
 

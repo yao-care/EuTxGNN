@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
-
-### [Con 35 muertes al día, la OMS emite nuevas recomendaciones para intentar frenar el brote de ébola - El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlFfU2NfUVIxdHhVajNodUxLTTU2SUl5V0lTTUxYd0x2NkE2VmVUdTZYTTRBaTZ4UnNzNW1SVmJvemhxMllUVjFMSUwwWElNZXhySEJ5RHlYZDBmLVNNN3ZSMFdaWHYxZWNtakZFaTUzVG9iT2pXSzlfYTd2bVRUVlJYYzB6VldQTjBDZE91ZWtJQ1NGcUhTd0Z3S3JBc0E0aHJRMG9tdzBTLUt0TExhV29R0gG3AUFVX3lxTE4tWExCNFFFZzJGcTd3Wjd0czlfeGJQZ1FGSUF0T3dtcUpTYnNCMmQ3WXU5QmN0azJlSHQ4U0hHVU9BZDBRcVljQ0VqYzN2ZmJBM1EyRkRZV0hEaVJRY0lKeDZGZ0JxY1l0UEg3eVlyOFhDZEUyMmxfOVZVeUJkdTF1WkRSLUpKSVJFZFZ0LXZVQm9tRFFBaFhSTVQtcnZCd0NCZkJCUkxGUGUxVU1Ja1RpMnVjNTlabw?oc=5)
-
-2026-08-25 <span class="news-indication-tag">MS</span>
-
-來源：[El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlFfU2NfUVIxdHhVajNodUxLTTU2SUl5V0lTTUxYd0x2NkE2VmVUdTZYTTRBaTZ4UnNzNW1SVmJvemhxMllUVjFMSUwwWElNZXhySEJ5RHlYZDBmLVNNN3ZSMFdaWHYxZWNtakZFaTUzVG9iT2pXSzlfYTd2bVRUVlJYYzB6VldQTjBDZE91ZWtJQ1NGcUhTd0Z3S3JBc0E0aHJRMG9tdzBTLUt0TExhV29R0gG3AUFVX3lxTE4tWExCNFFFZzJGcTd3Wjd0czlfeGJQZ1FGSUF0T3dtcUpTYnNCMmQ3WXU5QmN0azJlSHQ4U0hHVU9BZDBRcVljQ0VqYzN2ZmJBM1EyRkRZV0hEaVJRY0lKeDZGZ0JxY1l0UEg3eVlyOFhDZEUyMmxfOVZVeUJkdTF1WkRSLUpKSVJFZFZ0LXZVQm9tRFFBaFhSTVQtcnZCd0NCZkJCUkxGUGUxVU1Ja1RpMnVjNTlabw?oc=5)
-
----
+## 相關新聞（16 則）
 
 ### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt eine Grenze](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVfUzZQTVhFM1VZNzhmMXk4NjBJWHV4dW9MbE1helI2blRFOGlhb1R4bVJCZjNEalQ4Z0VrU21jREJJXzhsdEZwVEM4dnhSQ3NNMjhLWXdmY0NLMFlScTZyWERUSllhdDFmeGpER1hFU0Q0dERubjZOcWxYTC1hQlVaUmpZYWIyMFRNc09CbTZGWC1OTVQ5R2s0ZE41ZHdNQThheWR6Y09jSlFTdC1FcXF2Q0VHSmZmTWtVdFRsYmQ2SDh6QVEwSkQwcldtUGVFVkZCbFhoSVU2VUE?oc=5)
 
 2026-08-25 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVfUzZQTVhFM1VZNzhmMXk4NjBJWHV4dW9MbE1helI2blRFOGlhb1R4bVJCZjNEalQ4Z0VrU21jREJJXzhsdEZwVEM4dnhSQ3NNMjhLWXdmY0NLMFlScTZyWERUSllhdDFmeGpER1hFU0Q0dERubjZOcWxYTC1hQlVaUmpZYWIyMFRNc09CbTZGWC1OTVQ5R2s0ZE41ZHdNQThheWR6Y09jSlFTdC1FcXF2Q0VHSmZmTWtVdFRsYmQ2SDh6QVEwSkQwcldtUGVFVkZCbFhoSVU2VUE?oc=5)
+
+---
+
+### [Treppensteigen: 39% weniger Herz-Kreislauf-Todesfälle laut Studie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWs3QnRBUDB6dEx6TVVSLWN5ZHRBN1hTY0QwNDJ3UGNtOC1QQnpSTXFWVWNSalBmQ3JvNG1XTGdEQ3p4bzRNV3F3a3oyTG1DT0xraUdQUkVZNXc1bURuQ3pQOEhFMXhYOGMtbTliQjhKN0hwdTA2a3kxQWw3YWRzUVpQUFdnNUhxdUR1TTlvMTJuQXFqaGQ4OGI0dVN6b3lSTlBDOFhTWTFmUHE4NHNibzJzX1VMZjVaUHJpY3FB?oc=5)
+
+2026-08-25 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWs3QnRBUDB6dEx6TVVSLWN5ZHRBN1hTY0QwNDJ3UGNtOC1QQnpSTXFWVWNSalBmQ3JvNG1XTGdEQ3p4bzRNV3F3a3oyTG1DT0xraUdQUkVZNXc1bURuQ3pQOEhFMXhYOGMtbTliQjhKN0hwdTA2a3kxQWw3YWRzUVpQUFdnNUhxdUR1TTlvMTJuQXFqaGQ4OGI0dVN6b3lSTlBDOFhTWTFmUHE4NHNibzJzX1VMZjVaUHJpY3FB?oc=5)
 
 ---
 
@@ -102,14 +102,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Nierenfunktion im Alter erhalten: Dieser Fitness-Faktor spielt eine entscheidende Rolle](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1lXSlZ4bGNZZmxqNzRRcmlGYUdZOTd5QXZYUTdLOXdjLUEwcVl0dTYyRnR4bzhLeW5BZ09Ra0pIU3g4WllOMHRCcFRHVVo4bVpBa0tQOXVYWHFTTWdWYUpzc0kzWUQxQzRaYUh0Vl9aYjk0dXBSZk5GMldydG9ERWl1LWoxY3NXazdCX0ZnOHlFYVM5a0JUOEpOTDdlclExbDJlU2s5emdOSktwcTNwUG5NTXJRcHJ2S3hkYXh1LTZFMGs?oc=5)
-
-2026-08-24 <span class="news-indication-tag">MS</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1lXSlZ4bGNZZmxqNzRRcmlGYUdZOTd5QXZYUTdLOXdjLUEwcVl0dTYyRnR4bzhLeW5BZ09Ra0pIU3g4WllOMHRCcFRHVVo4bVpBa0tQOXVYWHFTTWdWYUpzc0kzWUQxQzRaYUh0Vl9aYjk0dXBSZk5GMldydG9ERWl1LWoxY3NXazdCX0ZnOHlFYVM5a0JUOEpOTDdlclExbDJlU2s5emdOSktwcTNwUG5NTXJRcHJ2S3hkYXh1LTZFMGs?oc=5)
-
----
-
 ### [‘Cancer can develop quietly,’ Aproko Doctor speaks after Ogogo’s death - The Nation Newspaper](https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlKSVdoSzktVUJDT1JYUXN4c01UeE9ydTZXN2FTbVFTTHdsdUFlUENlSEE0VHRqblVlU3pBb1ViaC00dGRTZHBrR18zMGQwNnEtRnVkdDlfQ0tqY3RWYkJGdG43RGRBNm45VlR1VVMzS3FWa05jRW5TeDJZWkF6WXJFbHpkaHFXNnl0MXJweFRJazVFZ0V1a2w2cEVVUdIBowFBVV95cUxQdnlFQnVFZGRHV0lHajl4ejBKWm1la1RsUUJKQU1udkJMS0taWmdta1R5N3A5WEphbW56RTc4N3c5QXA4TUVWYVV5ODVtX0ZmRGxzRmkwQ0REOXlxUUdEUGJURnlmRmRwMzZkaXNKaGZUc2p3Z25IUXZDckZuUWdGX0h1R2dvRnVmMGFRWDVrRFc3SjEwQnRFSFVjQm5oMGpPQVo4?oc=5)
 
 2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -142,19 +134,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [South West animal attractions open despite bluetongue outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNnpZYWxwQlJTOHRibmNqUHNyWHVyMEtvYkpoVlVqM09adnl3UFJOTTV0ZW5sWmI2MC0wcXZERFJKdVRVaWNCTmFCZG1iUzYwVDJ6QmZWLTZnX241?oc=5)
-
-2026-08-24 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNnpZYWxwQlJTOHRibmNqUHNyWHVyMEtvYkpoVlVqM09adnl3UFJOTTV0ZW5sWmI2MC0wcXZERFJKdVRVaWNCTmFCZG1iUzYwVDJ6QmZWLTZnX241?oc=5)
-
----
-
 ### [Frühere MS-Diagnose: Neue McDonald-Kriterien verändern die Praxis](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1dUc0dMZnJCOEUzd1V3Y3BBV19GNTVfa2NvY29Tb3hReFlCZlA0YVZORHRxa29ucGs0OXluYWJ1Y1JkYnZoMnNNTkpxS3VfbU9YY2NIZ1lwWWRvRHVRZ3hET25IUWhncEpvOWNaS1ExUG14Y3dhX1AxWmpIOTB1MF96cThTY0VyV1ZXNngyOHgyLXFhVHNXaEZaRjBUV1hGd3N6OHk5ZTZzNnZ1bE1zc0JB?oc=5)
 
 2026-08-24 <span class="news-indication-tag">MS</span>
 
-來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1dUc0dMZnJCOEUzd1V3Y3BBV19GNTVfa2NvY29Tb3hReFlCZlA0YVZORHRxa29ucGs0OXluYWJ1Y1JkYnZoMnNNTkpxS3VfbU9YY2NIZ1lwWWRvRHVRZ3hET25IUWhncEpvOWNaS1ExUG14Y3dhX1AxWmpIOTB1MF96cThTY0VyV1ZXNngyOHgyLXFhVHNXaEZaRjBUV1hGd3N6OHk5ZTZzNnZ1bE1zc0JB?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1dUc0dMZnJCOEUzd1V3Y3BBV19GNTVfa2NvY29Tb3hReFlCZlA0YVZORHRxa29ucGs0OXluYWJ1Y1JkYnZoMnNNTkpxS3VfbU9YY2NIZ1lwWWRvRHVRZ3hET25IUWhncEpvOWNaS1ExUG14Y3dhX1AxWmpIOTB1MF96cThTY0VyV1ZXNngyOHgyLXFhVHNXaEZaRjBUV1hGd3N6OHk5ZTZzNnZ1bE1zc0JB?oc=5)
 
 ---
 
@@ -162,15 +146,15 @@ permalink: /news/rotigotine/
 
 2026-08-24 <span class="news-indication-tag">MS</span>
 
-來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW9pX0xDb1hqSUFzSmdVT1cwOFRYcDVLRDM5amxfT2RiSk5ZcUJGLVlnWVpKbEhMYUdYT3ZoaXZ1Q0ZiUVdkbWZXZ19FWGRXUFd4bjhhZEhiSjlvZERfZ1lDNm9GNEN6UlpLOXFLbWtoc3pDR3NYcUNIc2tEV0dkMVZocFQwMlBQb2NXN2tMajRlQ2IwYTBrX3NfVzMyMHRmT2hDVzNsdGpoR2M?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW9pX0xDb1hqSUFzSmdVT1cwOFRYcDVLRDM5amxfT2RiSk5ZcUJGLVlnWVpKbEhMYUdYT3ZoaXZ1Q0ZiUVdkbWZXZ19FWGRXUFd4bjhhZEhiSjlvZERfZ1lDNm9GNEN6UlpLOXFLbWtoc3pDR3NYcUNIc2tEV0dkMVZocFQwMlBQb2NXN2tMajRlQ2IwYTBrX3NfVzMyMHRmT2hDVzNsdGpoR2M?oc=5)
 
 ---
 
-### [How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+### [La vitamina que empieza a agotarse justo cuando termina el verano (y cómo frenar la caída con alimentos de temporada)](https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZHEtRlJkXzdlM1A0RzRNTVFKZ1RYWnZObzF3QXM1M1JUM1ZqX1B3VWJMMDdidHJ2bEE3MU03YWpUTmdXTWhNZ211Y2Rpb3F1aVZGY0hDRE1SaFNidWVvU3pzdm03VEpTbmU2Q0p4SC1yYUlxa185bA?oc=5)
 
-2026-08-24 <span class="news-indication-tag">MS</span>
+2026-08-24 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+來源：[moncloa.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZHEtRlJkXzdlM1A0RzRNTVFKZ1RYWnZObzF3QXM1M1JUM1ZqX1B3VWJMMDdidHJ2bEE3MU03YWpUTmdXTWhNZ211Y2Rpb3F1aVZGY0hDRE1SaFNidWVvU3pzdm03VEpTbmU2Q0p4SC1yYUlxa185bA?oc=5)
 
 ---
 
@@ -182,11 +166,19 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Trovato il "motore" del sonno: ecco come il cervello ci spinge a dormire - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
+### [This Habit Could Lower Your Risk of Heart-Related Death by 39%, Study Says](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
 
-2026-08-23 <span class="news-indication-tag">MS</span>
+2026-08-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3BQTGJDUVExMU40MEpzZzVvT2hXUVZPSk5wU1lVaDV3VEtNcmhoQlpBUEhvcGs1Z1MzSENsSTFabXVWc0ctdUQ4a1prYWN1MEdZNmxaakxLRnZpTm9YSHRCUW00bUs2MDg4VDBwZjAwVUFwaGtqa3FUNkRWZjFLd1hMMWk1eHllUzhEZVRrSVQ2ZU5fRkdMVzl5eTZRVDZkanBqeTRlTVpBaDVqUUs4bEZxYS1YVWxBQ3ZkOW44NDZoMFNTRUFQaTFjNUdSS3JNUFRyRDNDbw?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5)
+
+---
+
+### [Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00NWJYd1YxUU1kWmwtakZEWlZ4LTVIOFp1eTl2ZXB0UDk1NnVwVWQ4Ynd0bnAzM3g3R0NVVE9sUzlONENqalF1bUphcVNXanl1ZE10eWpxNmZoeU9G?oc=5)
+
+2026-08-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00NWJYd1YxUU1kWmwtakZEWlZ4LTVIOFp1eTl2ZXB0UDk1NnVwVWQ4Ynd0bnAzM3g3R0NVVE9sUzlONENqalF1bUphcVNXanl1ZE10eWpxNmZoeU9G?oc=5)
 
 ---
 
