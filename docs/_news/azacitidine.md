@@ -54,17 +54,33 @@ permalink: /news/azacitidine/
 
 ## 相關新聞（31 則）
 
-### [Home-testing kits now available for women in England who have missed cervical screening](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wYUZSR0tHaUhDdlUtVnFRWWlwQXNzOEFFTC1qMDA1bXFISU1BamF1ODM5Qk5FQXlPSnNwNXo1QjZTeUFVWVV2STNXb2k4SW1BNVhDRGZhcU9WbGR6?oc=5)
+### [NHS England to offer women ‘gamechanging’ free home testing kits for cervical cancer - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJ3U01YdDdFVTBjOThqY0NsZV9YYWhSZERkdXJFbW9NalRQY25yWk50VFFzaGk2OFFCT1c5c21vazZMRldCYndpdlB1SGRqMG5qdFB0b0dGd3hXV3pVMzFJLWk0ME1XZmo4N2Y2VjAyQXVmV21aSkNHQ2tsQzVHRzNWeXhEVUloY2FVaU85ZndDNERNSV9yekxyaExYcTNGOFBjUkhzSGliblhwUHhUWE1qc2xTM1NTc0NYeVRWVkZXQ0hlOC1ZMUVn?oc=5)
 
-2026-08-24 <span class="news-indication-tag">cancer</span>
+2026-08-25 <span class="news-indication-tag">cancer</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wYUZSR0tHaUhDdlUtVnFRWWlwQXNzOEFFTC1qMDA1bXFISU1BamF1ODM5Qk5FQXlPSnNwNXo1QjZTeUFVWVV2STNXb2k4SW1BNVhDRGZhcU9WbGR6?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJ3U01YdDdFVTBjOThqY0NsZV9YYWhSZERkdXJFbW9NalRQY25yWk50VFFzaGk2OFFCT1c5c21vazZMRldCYndpdlB1SGRqMG5qdFB0b0dGd3hXV3pVMzFJLWk0ME1XZmo4N2Y2VjAyQXVmV21aSkNHQ2tsQzVHRzNWeXhEVUloY2FVaU85ZndDNERNSV9yekxyaExYcTNGOFBjUkhzSGliblhwUHhUWE1qc2xTM1NTc0NYeVRWVkZXQ0hlOC1ZMUVn?oc=5)
+
+---
+
+### ['I had 9 organs removed after true cause of pain discovered'](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QbTQtZ3ZNTVVTRHRRWnU1UDFkVTI2MTNGSjBLYXJIU3drb2FuUENjbG9URG92aG9vOG94TzhkM2lEdXV5ZjRjb0t1aXFkSlZIdWJBZ2NERi1iNnhOdFhEYlAzX1VTNWNIaWJ2cmFDdEpyNDUwQjJvRUZUdw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QbTQtZ3ZNTVVTRHRRWnU1UDFkVTI2MTNGSjBLYXJIU3drb2FuUENjbG9URG92aG9vOG94TzhkM2lEdXV5ZjRjb0t1aXFkSlZIdWJBZ2NERi1iNnhOdFhEYlAzX1VTNWNIaWJ2cmFDdEpyNDUwQjJvRUZUdw?oc=5)
+
+---
+
+### [Tumori, quanto pesa l’aria che respiriamo? La nuova mappa mondiale](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVW5fS1FucGR5ZkZQTThmRmZHd0xzMnFyMm12bXQ2cUE3cjQ3Unl6ZDZ3RmlyQXVMZkFLVUhQa3RiQW5SMi1zS2t5ZWZ1SHdIMG5JMDlpekM4aU12Z2FhS2VSemN5bUFPbEpwR3JFMi1PMEJENjBQMEN1X3hNdWwxM3U2cTZFdDgtN3l4RmVwcGU2U1JyNEZxZzhzS195MmNmODdVMmlpNlc1aVRSTnpKUzlOenFuZTF5YzBFcEl5Nkc?oc=5)
+
+2026-08-25 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVW5fS1FucGR5ZkZQTThmRmZHd0xzMnFyMm12bXQ2cUE3cjQ3Unl6ZDZ3RmlyQXVMZkFLVUhQa3RiQW5SMi1zS2t5ZWZ1SHdIMG5JMDlpekM4aU12Z2FhS2VSemN5bUFPbEpwR3JFMi1PMEJENjBQMEN1X3hNdWwxM3U2cTZFdDgtN3l4RmVwcGU2U1JyNEZxZzhzS195MmNmODdVMmlpNlc1aVRSTnpKUzlOenFuZTF5YzBFcEl5Nkc?oc=5)
 
 ---
 
 ### [Angry about men’s lost ‘right’ to a prostate cancer test? Read this - The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWpNWDRFeHIyR2JkWHMzYnNkbEVnclhma3BzenE4azBIakRQQmNZX3Q3em0tM0lGZGhNdzdpdTNHbHBtRTM4OGhqWFhzaTM5Z01EdmYzaElSTktoYlR0eEc3SVdPbjB3V1UyWTFHNEpOMzRPNjNodEoxWDVJMVA0cjh2T2FXSWY5VHVhbmRXSWlLSU5qbTV4ZmZUZHdFZC1TRUhZNWdnWFUxWkZIQUlSRE9rbF9icmpBZ3VoYUVsaVNjTDFNMmd2MlRQSGE?oc=5)
 
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-08-24 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWpNWDRFeHIyR2JkWHMzYnNkbEVnclhma3BzenE4azBIakRQQmNZX3Q3em0tM0lGZGhNdzdpdTNHbHBtRTM4OGhqWFhzaTM5Z01EdmYzaElSTktoYlR0eEc3SVdPbjB3V1UyWTFHNEpOMzRPNjNodEoxWDVJMVA0cjh2T2FXSWY5VHVhbmRXSWlLSU5qbTV4ZmZUZHdFZC1TRUhZNWdnWFUxWkZIQUlSRE9rbF9icmpBZ3VoYUVsaVNjTDFNMmd2MlRQSGE?oc=5)
 
@@ -75,14 +91,6 @@ permalink: /news/azacitidine/
 2026-08-24 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90R1VqbmpVNHpmTzh4aUtPdGZ0Qm5lWkg3Q1p1QTEzRzc2dkZYTXJ5dlNDckhQcUxFZlRfQmlzeF9VMkRxZjF1YnZtSDkwX1o0S0dLc0hjR0wyVjZr?oc=5)
-
----
-
-### [My boy, 15, could have months to live after docs misdiagnosed common symptom - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
 
 ---
 
@@ -118,14 +126,6 @@ permalink: /news/azacitidine/
 
 ---
 
-### ['I had 9 organs removed after true cause of pain discovered'](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QbTQtZ3ZNTVVTRHRRWnU1UDFkVTI2MTNGSjBLYXJIU3drb2FuUENjbG9URG92aG9vOG94TzhkM2lEdXV5ZjRjb0t1aXFkSlZIdWJBZ2NERi1iNnhOdFhEYlAzX1VTNWNIaWJ2cmFDdEpyNDUwQjJvRUZUdw?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QbTQtZ3ZNTVVTRHRRWnU1UDFkVTI2MTNGSjBLYXJIU3drb2FuUENjbG9URG92aG9vOG94TzhkM2lEdXV5ZjRjb0t1aXFkSlZIdWJBZ2NERi1iNnhOdFhEYlAzX1VTNWNIaWJ2cmFDdEpyNDUwQjJvRUZUdw?oc=5)
-
----
-
 ### [Posible vía para la detección de cáncer de estómago y colorrectal: el microbioma de boca e intestino - EFE Salud](https://news.google.com/rss/articles/CBMijgFBVV95cUxONE5HakVhTVI2djJpalVEdC1pNF9UOUpOTkhWMGtjYzNMcTZEX0NEaHEwWlUwNTN1ZHY1MzRYZXB5WnRlSlhUNjNlRTFmT2ZHZ1pvMU14WnFnRjBJQ3NndlJSUGZBTk9fZDNhbmVzZTh2WmRsMkFpQjhqcEJ4M1FRNWxBUzV1cFhjSVM5NGNn?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumor</span>
@@ -155,6 +155,14 @@ permalink: /news/azacitidine/
 2026-08-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxONTFLLXNGclU4SERlTklOQXFveC10UGNjQ1pSZ0tXNk02T25IQVZDcUd5WnZ6MDFGd0htblY4UC1OaXFHNVcxeS1Ra2pUSHk4NDhBcENLVmF2WXVsa0JUN2NsZjh0QnZGNFJpcUIwUXNXcHlzLU9FYXhfMTczWDVBbDgtaHpJS2tKdy1ncFBrMzJra0ZsMWRuMUwzRUlhYzVjNS1EekZReGlCZTZVX0VUV0lKZE9NR0R2c25HWnB0RQ?oc=5)
+
+---
+
+### ['I was diagnosed with skin cancer aged 26 - unethical sunscreen tax must end now' - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2thTFJ5cGdaMTlDa0U5TGFDV2Jpd182MVdWZWZsaGRBWWV1QjVXeGJuWl9RSUlKTGVfdnF0d2JtbHFHNk50bGZpYVF1OERrRUQyQVBqUldGSktFNDhmX19ybjAxSi1vTFVQYXBaWl9DaE9tMEVNU3YtOF9zcWZlNWhlVDBENjlPRXfSAY8BQVVfeXFMUE1WcUh6NjNwQ2l0LU1xTlBob2dlU3B5UHd1aDhwYkNIUTVweTYxZHNNTG1PUkV3RXhETndJMVV6TDFhYzlJNVdMX0tOOGdVOG5QZ29ZbHk3a0c1aVV0cTZjM2hBdmZpcGowZ1dPOFVsbFl5U2JsLW01cnY0TjdyYXFrNjNyZTRuNVBZQ3dRc1E?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2thTFJ5cGdaMTlDa0U5TGFDV2Jpd182MVdWZWZsaGRBWWV1QjVXeGJuWl9RSUlKTGVfdnF0d2JtbHFHNk50bGZpYVF1OERrRUQyQVBqUldGSktFNDhmX19ybjAxSi1vTFVQYXBaWl9DaE9tMEVNU3YtOF9zcWZlNWhlVDBENjlPRXfSAY8BQVVfeXFMUE1WcUh6NjNwQ2l0LU1xTlBob2dlU3B5UHd1aDhwYkNIUTVweTYxZHNNTG1PUkV3RXhETndJMVV6TDFhYzlJNVdMX0tOOGdVOG5QZ29ZbHk3a0c1aVV0cTZjM2hBdmZpcGowZ1dPOFVsbFl5U2JsLW01cnY0TjdyYXFrNjNyZTRuNVBZQ3dRc1E?oc=5)
 
 ---
 
@@ -190,11 +198,11 @@ permalink: /news/azacitidine/
 
 ---
 
-### [Cancer patient fights to scrap VAT on sunscreen](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+### [Le cancer du sein d’une hôtesse de l’air reconnu d’origine professionnelle : une première en France - Le Republicain](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWXFldDFseGtiTUdtLXA3YUt1Q0s0bEwtSjJIby1MTUtQVVY4RTg2VWwxdVRlRmExbmFSeWJhcHFJRmJfd2VVSzh2Z3c3cWhQWlZiTHpCNUhyMXdiU012emVERlZEOThLeEdWTS1PejV3cnFMbllYV2xIM211Y1lMcU9taThKR2lSNXd6cmRCUDBDSjlNZ2pmd2UzU1pjaXV6QTdITm12U3cxLVlkQ3pkYnpjRVJaNTZaQ3ltdXlEa25USXlDV0ZMSUMtNl85UzJPTVNaYTV6RXVicmhuUGloSmZvYw?oc=5)
 
 2026-08-24 <span class="news-indication-tag">cancer</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ELV9uYXNtY3JxSlZmN1JIYUFtZHFuTmduS2RpcERkRWM3ejRZS09VRGNRNkljNjRUNVE0NUN0dnR3bHFIQllTbjJqR0Y4S05vaG5CMkRJRy1NU1lm?oc=5)
+來源：[Le Republicain-Lorrain](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWXFldDFseGtiTUdtLXA3YUt1Q0s0bEwtSjJIby1MTUtQVVY4RTg2VWwxdVRlRmExbmFSeWJhcHFJRmJfd2VVSzh2Z3c3cWhQWlZiTHpCNUhyMXdiU012emVERlZEOThLeEdWTS1PejV3cnFMbllYV2xIM211Y1lMcU9taThKR2lSNXd6cmRCUDBDSjlNZ2pmd2UzU1pjaXV6QTdITm12U3cxLVlkQ3pkYnpjRVJaNTZaQ3ltdXlEa25USXlDV0ZMSUMtNl85UzJPTVNaYTV6RXVicmhuUGloSmZvYw?oc=5)
 
 ---
 
@@ -203,14 +211,6 @@ permalink: /news/azacitidine/
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uVXM4dE9kNXQzb19KQkZ5dDFjR3lPMnlkSElmM1FJOUJzUlloYXZTQ3NnSS1XLVBIZWoxc3l3ZkFxcU9mOTgxdGl0Sm1JeE0yQjVMeHRDd2FSbXJl?oc=5)
-
----
-
-### [Rectal cancer trial offers non-surgical treatment hope](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RZ2lVS3lLT2tBS2pYazM1LVB4VjlsY1pGeFhJNWc2RWhlcmJKSFhScVluaTFzYlFqRkNBMXlyWThmNTdVSkRFTG0yN0ctOW9UNkNFWlF2bnJxODJF?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RZ2lVS3lLT2tBS2pYazM1LVB4VjlsY1pGeFhJNWc2RWhlcmJKSFhScVluaTFzYlFqRkNBMXlyWThmNTdVSkRFTG0yN0ctOW9UNkNFWlF2bnJxODJF?oc=5)
 
 ---
 
@@ -230,6 +230,22 @@ permalink: /news/azacitidine/
 
 ---
 
+### [Bowel cancer patients spared surgery under new treatment - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWpjaE5td3hLaTdQZ2JianF6OTViNTRzQ3RtNVdXaHNyaUFqYzR4Y3lVd1V1bHZlb0czNVFDcjczd3pvN1BtXzg3bmlGZVU3d2lzWGVzRWdnckZDa19tTWFxMXp2azhJUlpwcmdZdzluYzJ0VDNQWUNXbHhfMEo1UE9lU3RWMXY5YnJpYW1ya3RnWXZqOW5kUnZ3aW1yYUZuUHFkc3BDR0s5Z2JRb0JOUlNCYw?oc=5)
+
+---
+
+### [Why stomach cancer is often diagnosed too late - Business Daily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXFDUVUyMnR1aWJXNUhxcENHTnhFTjFZMERuOTBXVHRqQk9IYkhmZDZucU1LZDdNQlRndUZtalpmZS00VndCaThuR0NXMnQ1N3FwX3V6M2prLWVDd0RKdmNyY0ZhekZxZV8wdm1vSGxJTHVLTTgxTTk0WkxoUEFEUkNBRkpWSFJHdFNUMm54d0RjSWFyeExTcFVSRkFka0xPMU9fX2kwb1NJRDJ5b0t3THlNdk1WRXpNOHc?oc=5)
+
+2026-08-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Business Daily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXFDUVUyMnR1aWJXNUhxcENHTnhFTjFZMERuOTBXVHRqQk9IYkhmZDZucU1LZDdNQlRndUZtalpmZS00VndCaThuR0NXMnQ1N3FwX3V6M2prLWVDd0RKdmNyY0ZhekZxZV8wdm1vSGxJTHVLTTgxTTk0WkxoUEFEUkNBRkpWSFJHdFNUMm54d0RjSWFyeExTcFVSRkFka0xPMU9fX2kwb1NJRDJ5b0t3THlNdk1WRXpNOHc?oc=5)
+
+---
+
 ### [Cancer du pancréas : 6 signes à ne jamais ignorer selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0pnVHFacjRhVGN4b3g4aUV0VWdNeXdnenRmazcwVnMwMHJ0cEV0OXA0VHExVGxnTTdDWUVLTmxsNVRjeW5XRWZNbkJOUThEMWFKM0M0dmxXMHdRV0JnVDgwYjczcDVOaE93ZGJJWjBjTndxLW1waERJdUZ6QkY0RTN5OFk?oc=5)
 
 2026-08-23 <span class="news-indication-tag">cancer</span>
@@ -246,19 +262,11 @@ permalink: /news/azacitidine/
 
 ---
 
-### ['Lights were flickering, diagnosis was stab in heart and I'm facing death' - Daily Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTElkOU00YVNrTGtoS0FrV2pPck9pLXdRaExScmpqMFRHTVcyMnpsSnotUDE4VzN3TEdNQmpZMEY5NGc5MExBX2NYWEVOeDRmRERXNjJ4SmZ4blV1Uk5nRG9zQzhrTUtqd1Q5LURuN3NpYVBoX3BnaklOWkpSX3RkYk8xM0VaeE85Y2130gGQAUFVX3lxTE9VWVVHeENYblZGNkhUYUMtWGl3QkhibGt6djRaQjVSRTdrbWt4R3lRWnlPcXVZZC1oM1VQWWZ5b2FCLVFzei1FRDBORXliMUJNYTZtUXFKTkZPbDJ1ZXJrQ2hmUWFiTVpqb2VhYTdNWjhVa1ZMdE44RGFwdXU2enM3eXF1U2piNi1oVW00N1dqSg?oc=5)
+### ['Lights were flickering, diagnosis was stab in heart and I'm facing death' - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTElkOU00YVNrTGtoS0FrV2pPck9pLXdRaExScmpqMFRHTVcyMnpsSnotUDE4VzN3TEdNQmpZMEY5NGc5MExBX2NYWEVOeDRmRERXNjJ4SmZ4blV1Uk5nRG9zQzhrTUtqd1Q5LURuN3NpYVBoX3BnaklOWkpSX3RkYk8xM0VaeE85Y2130gGQAUFVX3lxTE9VWVVHeENYblZGNkhUYUMtWGl3QkhibGt6djRaQjVSRTdrbWt4R3lRWnlPcXVZZC1oM1VQWWZ5b2FCLVFzei1FRDBORXliMUJNYTZtUXFKTkZPbDJ1ZXJrQ2hmUWFiTVpqb2VhYTdNWjhVa1ZMdE44RGFwdXU2enM3eXF1U2piNi1oVW00N1dqSg?oc=5)
 
 2026-08-23 <span class="news-indication-tag">cancer</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTElkOU00YVNrTGtoS0FrV2pPck9pLXdRaExScmpqMFRHTVcyMnpsSnotUDE4VzN3TEdNQmpZMEY5NGc5MExBX2NYWEVOeDRmRERXNjJ4SmZ4blV1Uk5nRG9zQzhrTUtqd1Q5LURuN3NpYVBoX3BnaklOWkpSX3RkYk8xM0VaeE85Y2130gGQAUFVX3lxTE9VWVVHeENYblZGNkhUYUMtWGl3QkhibGt6djRaQjVSRTdrbWt4R3lRWnlPcXVZZC1oM1VQWWZ5b2FCLVFzei1FRDBORXliMUJNYTZtUXFKTkZPbDJ1ZXJrQ2hmUWFiTVpqb2VhYTdNWjhVa1ZMdE44RGFwdXU2enM3eXF1U2piNi1oVW00N1dqSg?oc=5)
-
----
-
-### [Bauchspeicheldrüsenkrebs: Diese Pflanzenstoffe könnten Therapie unterstützen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFUyVEhET3JMbGJSRE1iNjlFSUZNM2dnM0s1LV9FNE5NZ1g3WGtET0xXT0x5QURlYld0Wmh3UU9VV0drdVhZeXNoZTROQ3c5MXFEajFUYWZRWFpISS1MZkQyWXBEeHNwOFptdnFfT3FLMjRaM0NwUnU4akNLS2g1a2xpRG0wMmt4Y2ZSUlctYmlLZEtwVWJ5aVY0dzZ6VFVyM1g5MGk0WGpabHJYNlNIV3FwM2dJZHM2VGlSbXNodXhrV3JQQ2syZ0p5OW5IN3h1VHRuZW9R?oc=5)
-
-2026-08-23 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFUyVEhET3JMbGJSRE1iNjlFSUZNM2dnM0s1LV9FNE5NZ1g3WGtET0xXT0x5QURlYld0Wmh3UU9VV0drdVhZeXNoZTROQ3c5MXFEajFUYWZRWFpISS1MZkQyWXBEeHNwOFptdnFfT3FLMjRaM0NwUnU4akNLS2g1a2xpRG0wMmt4Y2ZSUlctYmlLZEtwVWJ5aVY0dzZ6VFVyM1g5MGk0WGpabHJYNlNIV3FwM2dJZHM2VGlSbXNodXhrV3JQQ2syZ0p5OW5IN3h1VHRuZW9R?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTElkOU00YVNrTGtoS0FrV2pPck9pLXdRaExScmpqMFRHTVcyMnpsSnotUDE4VzN3TEdNQmpZMEY5NGc5MExBX2NYWEVOeDRmRERXNjJ4SmZ4blV1Uk5nRG9zQzhrTUtqd1Q5LURuN3NpYVBoX3BnaklOWkpSX3RkYk8xM0VaeE85Y2130gGQAUFVX3lxTE9VWVVHeENYblZGNkhUYUMtWGl3QkhibGt6djRaQjVSRTdrbWt4R3lRWnlPcXVZZC1oM1VQWWZ5b2FCLVFzei1FRDBORXliMUJNYTZtUXFKTkZPbDJ1ZXJrQ2hmUWFiTVpqb2VhYTdNWjhVa1ZMdE44RGFwdXU2enM3eXF1U2piNi1oVW00N1dqSg?oc=5)
 
 ---
 
@@ -278,14 +286,6 @@ permalink: /news/azacitidine/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
-
-2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
-
----
-
 ### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
 
 2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
@@ -296,7 +296,7 @@ permalink: /news/azacitidine/
 
 ### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 
-2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Ictus e droghe: quale sostanza è associata al rischio maggiore? L’analisi su oltre 100 milioni di persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
 
-2026-08-24 <span class="news-indication-tag">ictus</span>
+2026-08-25 <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/orlistat/
 2026-08-24 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeTZMeUZQQ05UYkZoZ3NqbV9QaVZkd3pLeF9ydWUzektSNVYwVERfdzZWVUNpcVk0bExDYUdXT3JxMENtYzd4R01lMmRzZ0FyYkRFWjlRYWhmRmZXQ0JsWkNQNFZnMlFFM0ZsempTNzhiVXc2RkZEV3VYcFQ4Slo0SGhlSzVxYjhkMzdiZUFEOUFLYl9vcW1SdF9RdnY2TWVZVDhVamFXSEx5Uk5JSlY2X1lNejg0dDgtbUNOMG5hdllLUHhvYS1nMzVVaWVhOUlnNm96UlBMRHVXVUNYOWRkWlJaV1lJaWhxWElkUGh2MlVaSzQ?oc=5)
-
----
-
-### [Metabolische Gesundheit: BMI identifiziert nur 50% der Fettleibigen](https://news.google.com/rss/articles/CBMirgFBVV95cUxQODFGZDVmREgzbGVDbnV5S25zVG10eU5TZGJ1Nlh6UkU3M01pUkpNenhkQjFLQmtZdTNXd0Q0amNtU0l1RWVDcUVsRW9MVHNOcC15T2s5M25kdXZUNUkyQi1DOXRlNEJEbDRwdWlkT1NVUkpvMVNrVjBhYVhiMlBORkdiZ0d5UU1NazdrX3NVbEJWVmZMRTlYRlY2elpUa25tQ1RkcmNwRzl3VkkwLXc?oc=5)
-
-2026-08-24 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQODFGZDVmREgzbGVDbnV5S25zVG10eU5TZGJ1Nlh6UkU3M01pUkpNenhkQjFLQmtZdTNXd0Q0amNtU0l1RWVDcUVsRW9MVHNOcC15T2s5M25kdXZUNUkyQi1DOXRlNEJEbDRwdWlkT1NVUkpvMVNrVjBhYVhiMlBORkdiZ0d5UU1NazdrX3NVbEJWVmZMRTlYRlY2elpUa25tQ1RkcmNwRzl3VkkwLXc?oc=5)
 
 ---
 
@@ -102,6 +94,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Mar Malagón, referente internacional en obesidad: «La ciencia debe formar parte de la estrategia de cualquier país» - Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
+
+2026-08-24 <span class="news-indication-tag">obesidad</span>
+
+來源：[Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
+
+---
+
 ### [Ce symptôme dans l’œil peut annoncer un AVC : comment repérer les signes rapidement - Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
 
 2026-08-23 <span class="news-indication-tag">AVC</span>
@@ -115,14 +115,6 @@ permalink: /news/orlistat/
 2026-08-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEF5d3pZSlNQSTVreDJvLVNYNFFhckUya0FydkpNWUxBaDR1bi1pWmZPb0k1U0pibHdXZjVHQmVRaU9nSUhrem9VWGdkZlAyWU55TVBDWDc5UEVwdTFCaXlUTmU2T2VPdFk4ZzBKQ3k0V2hQZy01M1RES1lKQnQxbWZDX1ozOVg5UGd3TGM2NEU4VURobTVtbXJKQW84UHdEQlZFNUdKemNGSnJwSV9OT2VsejJDWW1IVUZ3MlZnYWV4TmpvYkxjbUxFbTBHT1B0?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
-
-2026-08-23 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
 
 ---
 

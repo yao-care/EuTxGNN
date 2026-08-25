@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Una alternativa al trasplante que podría restaurar función cardíaca en niños con cardiopatías genéticas](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
+
+2026-08-25 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmhnaE1SdVk3ZU0zQlJybGppVmlOMWVfSzJlSVpYV0JUd0JMd1BaU0NkdDBYbFNJakNSUU54UmltLU1fZVhCZjlueGRoUFZNVHZkUWN6dTVDWFRLNl9UbkRmZ2lmVHNCNUpJUGRfUlV0MWpoUHdWXzA4XzJPMTJwUVhxcGtPcUNldGxJdXg2WHY2WkF5X3ZYTkdZZnZLYlZqcjA5TXpheGJOQUNtVm5FUlQxbDZPZ3p6UlFpdzJZVUowVVA1RnFibGpZaVV4anRuclNiYUdtWFZhSnV0LXVUbUwxaVA?oc=5)
+
+---
 
 ### [Sanidad actualiza la guía para profesionales de Pediatría para el abordaje de la diabetes de debut - Gomera Verde](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNENCazRTOGVFYTZoRGRuQllPWFRDcGVxNC0tU1pOTG1yc2ZrbFdJU1JtbF9ZNGlvbVhFQTRuT2E2d1BnOHJqTFducUJGeGwwa0U4cVp2N1U1eFJxbGNpWUFhSGtVTTZrUDhUVnNxdHVfc1pMcW5xRUV0MFlJX2FJbUtsYXhsVEhBeXFQYlRBRi1TYXQ1TW5WMDAyU2lJb29oZ3V5cllldHM1WWlOTjZ0b214NlMyeXBkVjB6VEY3aWlEVFFOUEtUZDdVaks?oc=5)
 
 2026-08-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[Gomera Verde](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNENCazRTOGVFYTZoRGRuQllPWFRDcGVxNC0tU1pOTG1yc2ZrbFdJU1JtbF9ZNGlvbVhFQTRuT2E2d1BnOHJqTFducUJGeGwwa0U4cVp2N1U1eFJxbGNpWUFhSGtVTTZrUDhUVnNxdHVfc1pMcW5xRUV0MFlJX2FJbUtsYXhsVEhBeXFQYlRBRi1TYXQ1TW5WMDAyU2lJb29oZ3V5cllldHM1WWlOTjZ0b214NlMyeXBkVjB6VEY3aWlEVFFOUEtUZDdVaks?oc=5)
-
----
-
-### [Bacterias probióticas de diseño para regular la glucosa en diabetes de tipo 2](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
-
-2026-08-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Genotipia](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
 
 ---
 
@@ -99,6 +99,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+
+---
+
+### [Le remboursement des traitements contre le diabète s'envole à nouveau: un lien avec des détournements à des fins d'amaigrissement - La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
+
+2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span>
+
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
 
 ---
 

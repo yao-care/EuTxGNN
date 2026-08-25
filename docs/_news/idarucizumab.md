@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Diese Blutwerte können auf COPD-Risiken hinweisen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">copd</span>
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
+
+---
 
 ### [BPCO, il sangue potrebbe dare l’allarme prima che cali la funzione polmonare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdodDhVdzVTbHFGUGIyRG1aUmE0TEJaNWFWaEF5bW9WS2tiVUkyRl9vSVBMWklIQ1dick9SejhCWDlHYnZ0VmlrWGxuVEhMZlNRejA1a1c2LXFkeGFzTnZ2VWhHLVg4OXh4T2E0NkxHZ3U2ZnoxX2JvbElSd09OYURfVFZaZ3BfMk5vWmRjUXFrYWRYMHZ0RjhjbWNoaDJtekV3TWRpQ3dfV0ZFS2JmRkQzTllxeW9wazVtXzJSVkxGNk5yb2Z1Q2FRLVBnREE?oc=5)
 

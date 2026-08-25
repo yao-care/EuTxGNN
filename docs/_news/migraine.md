@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraña（migraine） 相關新聞"
+title: "emicrania（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "emicrania（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# migraña（migraine） 相關新聞
+# emicrania（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
+<strong>emicrania（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,15 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [La psicología sugiere que las personas que siempre se exigen al máximo no solo buscan hacerlo todo perfecto, sino que pueden ser más propensas a sufrir migrañas - El Economista](https://news.google.com/rss/articles/CBMi4wJBVV95cUxOeDBHckRQSGpkcUt2bUZ1alVCWG4zVlAxMTFudWpkQlJzckpMdjZBQUxfRTU2aHA1MzV4dUxUdUFIUlVJRVRqMDJHakNaOG5FS0o4d3NYaGpacUotRUdTeFNLcDJkMC14S2FPMk5yYzFmaUpYcDd6bEZQLVFNOG1INXVFdFpIdTlaYUNsSlFHVE42eG01NUE5c1ZqQXJlQTJGc2Mzd0ZpeFdGaWVyRXpWMERsQ19oQkJ0UnR3ZFNBNVAwc0ZESkdLMERVNUd2bi1nT1FOVkMzamw5RERfdjV4Z2t1clduM3FwLUFxV05QY3BnYmMzMThnNTlYMDYxc1NsNG1NZk5nYWRwazB2YlE1UlZkdTB4MUxPM1gyREQ2YmtSLXRTdFhtbldDZ0NvWXZxdElIRTQ4YmNNQ0FINUZXc1B6YVAwSW9LVlZJdkxIQTBDc05Sd0dyQk9WWld5eGJWd3dB0gHOAkFVX3lxTE45N1ItU0tfVXBRNVNRSENLTG11b29mUV9iTHVOVllydWVDbHd3d0pzcE82V3ZUOGxPNmdsT1c4WnhKUWp6R0RuRk1yN3RaSUhsVDVvWDRrNlFtSWRPZnpQa05DX0VNVWxlSWVnQy03akxWUGVpTS1SSmNmTGM5aUdGbzUxZUdBM0tsX094QWNtM05RUmVaWjlfekgteFVYa3V3SkY2SW16NEVGSzYxV0RuWE1TdENVS2czRkQwMU1wMzljSWRnVVBkdDZBMk1TNUxFUzgwcDJkYU11WDNpQmo3TmxuOGFXRmVkMFl3MFYxbUhtT1V1cTBJQXdycnBNMzBZMExtWW5jb25mdlVDRzduZDBrWU5xekJ4WF9TdXg0M21NVmtabldwdjBIeWIwN1FmMW9rS3JrTmNRZmVpVWl4NDQwMlBxWm50VEFpSGc?oc=5)
-
-2026-08-24
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi4wJBVV95cUxOeDBHckRQSGpkcUt2bUZ1alVCWG4zVlAxMTFudWpkQlJzckpMdjZBQUxfRTU2aHA1MzV4dUxUdUFIUlVJRVRqMDJHakNaOG5FS0o4d3NYaGpacUotRUdTeFNLcDJkMC14S2FPMk5yYzFmaUpYcDd6bEZQLVFNOG1INXVFdFpIdTlaYUNsSlFHVE42eG01NUE5c1ZqQXJlQTJGc2Mzd0ZpeFdGaWVyRXpWMERsQ19oQkJ0UnR3ZFNBNVAwc0ZESkdLMERVNUd2bi1nT1FOVkMzamw5RERfdjV4Z2t1clduM3FwLUFxV05QY3BnYmMzMThnNTlYMDYxc1NsNG1NZk5nYWRwazB2YlE1UlZkdTB4MUxPM1gyREQ2YmtSLXRTdFhtbldDZ0NvWXZxdElIRTQ4YmNNQ0FINUZXc1B6YVAwSW9LVlZJdkxIQTBDc05Sd0dyQk9WWld5eGJWd3dB0gHOAkFVX3lxTE45N1ItU0tfVXBRNVNRSENLTG11b29mUV9iTHVOVllydWVDbHd3d0pzcE82V3ZUOGxPNmdsT1c4WnhKUWp6R0RuRk1yN3RaSUhsVDVvWDRrNlFtSWRPZnpQa05DX0VNVWxlSWVnQy03akxWUGVpTS1SSmNmTGM5aUdGbzUxZUdBM0tsX094QWNtM05RUmVaWjlfekgteFVYa3V3SkY2SW16NEVGSzYxV0RuWE1TdENVS2czRkQwMU1wMzljSWRnVVBkdDZBMk1TNUxFUzgwcDJkYU11WDNpQmo3TmxuOGFXRmVkMFl3MFYxbUhtT1V1cTBJQXdycnBNMzBZMExtWW5jb25mdlVDRzduZDBrWU5xekJ4WF9TdXg0M21NVmtabldwdjBIeWIwN1FmMW9rS3JrTmNRZmVpVWl4NDQwMlBxWm50VEFpSGc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [L’emicrania lascia una firma nel sangue: coinvolte dieci proteine e il metabolismo dei grassi](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Diese Blutwerte können auf COPD-Risiken hinweisen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">copd</span>
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlRVa2xpMzdsTUFKSEpkeTczd1VqY0tpZ2lLZkNyTU1IdGtEcDJ6NmZZVnA3ZldENGJaTDYzYWh4enZWaEEtM0hYSEJVN1d5RC0tMUp2U0xVTU81N3hDSVhBTWwxRHRfb1dKODZsSldWdXhGOWR2Z2J1akFjUTZWUDM3cjZ2MmFlMHdrY21xY0w1czktYnFEWlVGbUZudkoyMHYtaDkyVnYtY2RBaUdIUjZsZw?oc=5)
+
+---
 
 ### [Sanidad actualiza la guía para profesionales de Pediatría para el abordaje de la diabetes de debut - Gomera Verde](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNENCazRTOGVFYTZoRGRuQllPWFRDcGVxNC0tU1pOTG1yc2ZrbFdJU1JtbF9ZNGlvbVhFQTRuT2E2d1BnOHJqTFducUJGeGwwa0U4cVp2N1U1eFJxbGNpWUFhSGtVTTZrUDhUVnNxdHVfc1pMcW5xRUV0MFlJX2FJbUtsYXhsVEhBeXFQYlRBRi1TYXQ1TW5WMDAyU2lJb29oZ3V5cllldHM1WWlOTjZ0b214NlMyeXBkVjB6VEY3aWlEVFFOUEtUZDdVaks?oc=5)
 
@@ -70,14 +78,6 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Bacterias probióticas de diseño para regular la glucosa en diabetes de tipo 2](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
-
-2026-08-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Genotipia](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
-
----
-
 ### [Neue Kinderkrankheit? Typ-2-Diabetes bei Jugendlichen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ21fRkhyQTZXRDl6V0pUQkhqNmFlTm90c3hVd3Z5U3paekNVcWxIXzZjRkV1bF9Fdm1Vc2JZSDNITDc0NXZLUU9TZmZXUi1FZ3ZRQmpUSzVlaU8wZGFBZ0hEaXFJSWVVcDBGTWFWMTVuZVQzQ0FobDRFcmR0a3hwaGs0MlJ6d0N6Rm1LaV9wYmxfSzFLRE5LaVUwRDN6WDN4cUNUTjBPZnRvaU9uX191dmhLSGMtelE?oc=5)
 
 2026-08-23 <span class="news-indication-tag">diabetes</span>
@@ -91,6 +91,14 @@ permalink: /news/vedolizumab/
 2026-08-23 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
+
+---
+
+### [Le remboursement des traitements contre le diabète s'envole à nouveau: un lien avec des détournements à des fins d'amaigrissement - La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
+
+2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span>
+
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
 
 ---
 

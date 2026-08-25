@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Metabolische Gesundheit: BMI identifiziert nur 50% der Fettleibigen](https://news.google.com/rss/articles/CBMirgFBVV95cUxQODFGZDVmREgzbGVDbnV5S25zVG10eU5TZGJ1Nlh6UkU3M01pUkpNenhkQjFLQmtZdTNXd0Q0amNtU0l1RWVDcUVsRW9MVHNOcC15T2s5M25kdXZUNUkyQi1DOXRlNEJEbDRwdWlkT1NVUkpvMVNrVjBhYVhiMlBORkdiZ0d5UU1NazdrX3NVbEJWVmZMRTlYRlY2elpUa25tQ1RkcmNwRzl3VkkwLXc?oc=5)
+### [Mar Malagón, referente internacional en obesidad: «La ciencia debe formar parte de la estrategia de cualquier país» - Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
 
-2026-08-24 <span class="news-indication-tag">Adipositas</span>
+2026-08-24 <span class="news-indication-tag">obesidad</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQODFGZDVmREgzbGVDbnV5S25zVG10eU5TZGJ1Nlh6UkU3M01pUkpNenhkQjFLQmtZdTNXd0Q0amNtU0l1RWVDcUVsRW9MVHNOcC15T2s5M25kdXZUNUkyQi1DOXRlNEJEbDRwdWlkT1NVUkpvMVNrVjBhYVhiMlBORkdiZ0d5UU1NazdrX3NVbEJWVmZMRTlYRlY2elpUa25tQ1RkcmNwRzl3VkkwLXc?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
-
-2026-08-23 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTFPTDFoSFdxdUhRTzEtemZpd1RtWWVRTmRRbFh2OHNTUEVoMjdIbjlNOGRuTzBpRU5oM1psTU5ocmRzcmtKXzIxQmtiMTNEcUNhY19KYTFlQmRjMU01S2ItUWpUUGxoa1J3WXpvYWgwQnJkN0JrQWdZdGNVb1FTX2VOOEduY3Y4QXU0NzJuTkcxVnlScm8xdm1RQ3V0cVZ3QjJZbmlwU01GWU9Ga1lMYzlPTk9sTnk1UFBYcHRrS19MQ1UwaDZYRmVYN2xZdVli?oc=5)
+來源：[Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
 
 ---
 

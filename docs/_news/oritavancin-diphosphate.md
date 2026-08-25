@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/oritavancin-diphosphate/
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [My boy, 15, could have months to live after docs misdiagnosed common symptom - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Due vitamine migliorano la salute dei polmoni in chi soffre di asma: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
 
@@ -75,14 +67,6 @@ permalink: /news/oritavancin-diphosphate/
 2026-08-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
-
----
-
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
-
-2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
 ---
 

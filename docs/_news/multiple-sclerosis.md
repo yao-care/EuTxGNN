@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。22 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。18 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>22 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>18 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（18 則）
+
+### [Herz-Kreislauf: Wer das Herz stärken will, muss nicht joggen oder Radfahren](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGd4bjd2MlpGYXBrb0dXVlM2SFF0UkpUZ0dkeFROSFVEazFGaHhOV3hmZV8xYlJ4SGd4aGs1T1BDME9JR29oZUV4cUFObmE0aVR6LWQ0bjdJVl9pZ2dadHBzMlZsWURiX3FoNFlobUlkdmRnZTd3bGJ5c2ZORDMxVzFoX29GUDFlZDZyd1VQMkZ2T1pfNlFETlRiamZmdV96dGMzUTJZM2N1SXptZjVnMDg5NUV1VUlUR0RIRmxkN3EtWl9abHI1czEydWV3eW0ycnNWaDl6UDg4UQ?oc=5)
+
+2026-08-25
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGd4bjd2MlpGYXBrb0dXVlM2SFF0UkpUZ0dkeFROSFVEazFGaHhOV3hmZV8xYlJ4SGd4aGs1T1BDME9JR29oZUV4cUFObmE0aVR6LWQ0bjdJVl9pZ2dadHBzMlZsWURiX3FoNFlobUlkdmRnZTd3bGJ5c2ZORDMxVzFoX29GUDFlZDZyd1VQMkZ2T1pfNlFETlRiamZmdV96dGMzUTJZM2N1SXptZjVnMDg5NUV1VUlUR0RIRmxkN3EtWl9abHI1czEydWV3eW0ycnNWaDl6UDg4UQ?oc=5)
+
+---
 
 ### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt eine Grenze](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVfUzZQTVhFM1VZNzhmMXk4NjBJWHV4dW9MbE1helI2blRFOGlhb1R4bVJCZjNEalQ4Z0VrU21jREJJXzhsdEZwVEM4dnhSQ3NNMjhLWXdmY0NLMFlScTZyWERUSllhdDFmeGpER1hFU0Q0dERubjZOcWxYTC1hQlVaUmpZYWIyMFRNc09CbTZGWC1OTVQ5R2s0ZE41ZHdNQThheWR6Y09jSlFTdC1FcXF2Q0VHSmZmTWtVdFRsYmQ2SDh6QVEwSkQwcldtUGVFVkZCbFhoSVU2VUE?oc=5)
 
@@ -64,11 +72,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Herz-Kreislauf: Wer das Herz stärken will, muss nicht joggen oder Radfahren](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGd4bjd2MlpGYXBrb0dXVlM2SFF0UkpUZ0dkeFROSFVEazFGaHhOV3hmZV8xYlJ4SGd4aGs1T1BDME9JR29oZUV4cUFObmE0aVR6LWQ0bjdJVl9pZ2dadHBzMlZsWURiX3FoNFlobUlkdmRnZTd3bGJ5c2ZORDMxVzFoX29GUDFlZDZyd1VQMkZ2T1pfNlFETlRiamZmdV96dGMzUTJZM2N1SXptZjVnMDg5NUV1VUlUR0RIRmxkN3EtWl9abHI1czEydWV3eW0ycnNWaDl6UDg4UQ?oc=5)
+### [I had NINE heart problems and women called me disgusting - then I lost 15st - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
 
-2026-08-24
+2026-08-25
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGd4bjd2MlpGYXBrb0dXVlM2SFF0UkpUZ0dkeFROSFVEazFGaHhOV3hmZV8xYlJ4SGd4aGs1T1BDME9JR29oZUV4cUFObmE0aVR6LWQ0bjdJVl9pZ2dadHBzMlZsWURiX3FoNFlobUlkdmRnZTd3bGJ5c2ZORDMxVzFoX29GUDFlZDZyd1VQMkZ2T1pfNlFETlRiamZmdV96dGMzUTJZM2N1SXptZjVnMDg5NUV1VUlUR0RIRmxkN3EtWl9abHI1czEydWV3eW0ycnNWaDl6UDg4UQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
 
 ---
 
@@ -77,38 +85,6 @@ permalink: /news/multiple-sclerosis/
 2026-08-24
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
-
----
-
-### [How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
-
-2026-08-24
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
-
----
-
-### [Angry about men’s lost ‘right’ to a prostate cancer test? Read this - The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWpNWDRFeHIyR2JkWHMzYnNkbEVnclhma3BzenE4azBIakRQQmNZX3Q3em0tM0lGZGhNdzdpdTNHbHBtRTM4OGhqWFhzaTM5Z01EdmYzaElSTktoYlR0eEc3SVdPbjB3V1UyWTFHNEpOMzRPNjNodEoxWDVJMVA0cjh2T2FXSWY5VHVhbmRXSWlLSU5qbTV4ZmZUZHdFZC1TRUhZNWdnWFUxWkZIQUlSRE9rbF9icmpBZ3VoYUVsaVNjTDFNMmd2MlRQSGE?oc=5)
-
-2026-08-24
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWpNWDRFeHIyR2JkWHMzYnNkbEVnclhma3BzenE4azBIakRQQmNZX3Q3em0tM0lGZGhNdzdpdTNHbHBtRTM4OGhqWFhzaTM5Z01EdmYzaElSTktoYlR0eEc3SVdPbjB3V1UyWTFHNEpOMzRPNjNodEoxWDVJMVA0cjh2T2FXSWY5VHVhbmRXSWlLSU5qbTV4ZmZUZHdFZC1TRUhZNWdnWFUxWkZIQUlSRE9rbF9icmpBZ3VoYUVsaVNjTDFNMmd2MlRQSGE?oc=5)
-
----
-
-### [I had NINE heart problems and women called me disgusting - then I lost 15st - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
-
-2026-08-24
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
-
----
-
-### [My boy, 15, could have months to live after docs misdiagnosed common symptom - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
-
-2026-08-24
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
 
 ---
 
@@ -152,6 +128,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+
+2026-08-24
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+
+---
+
 ### [AI trial aims to detect depression in new mothers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rakg4Q0ZkeVo4NktNZ3JBd2ZhYW9FcDlyUmV1elNENjFaTFZIMTRxWXB6YjlHNk82ekl2SWFlbXpsMEs4eHQwVTlSYng1RXQzckNfaHJZRVdZSEhY?oc=5)
 
 2026-08-24
@@ -165,14 +149,6 @@ permalink: /news/multiple-sclerosis/
 2026-08-24
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU5BZHNJRGhOMDR2ZFhpalRaMjhYSEM3WHFkdE9ockF6cXBYOFZHa1NWbVFkcUNtM0RXUFhWdDNNRU1RUEw2dWMtaU04bEtFV1EtQzM1NUhSRXpDblM0dkp1eGFGVDFzLVVuVG1QejNkdUlRV3FEU1ZOdFN6OWdlMW1xUUJDN3ZTLVZRYzJ0Y01IVkR6Y2NZM0hMQnlCRF9hcnVCYWFpVmVSMThTWjI2cUdhSdIBuAFBVV95cUxOY0JNQ2xEZ2tjaEVpMm83T0J0cDVhR1FhdXV6d0wyMmYxQ0hOMTktZWNncy1DaGlRcV9HczF2d3RRYjJ2cks0R3VnU0gyN2FzbmlVLThhQmxxOXJQZU5yeVdDOGpkbUkzVWY3M3pnS3JucWJsNF9DYjZERkJibXR6NkNjOXh2cE0zYlN2cEVxdEVmY3dFQm5DeTQ5dTVISmNGNmNPX0w4S19hN0pLb0IyQjM2Y2doa2dK?oc=5)
-
----
-
-### [Tiny fish could unlock new MS drugs. Brexit is getting in the way.](https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNOaTM2ZkFQcjVpdGVnampUbXY2d1RsQU5xUnFWUUFuUlphVUdKcnhGVkY3NjhyRndUclJxajBxX1Q4NVp2Nkp3QzRGMGNHN1VWS3FzQ0lMZlJpajZLZ3cxNm80SjFxOVlyVGtEaGxMeW1COUNzSmxidTlGQzVSRGEweER2a2FNVTctMXdrcTBnNFNjRFFCak45Z1lqQQ?oc=5)
-
-2026-08-24
-
-來源：[politico.eu](https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNOaTM2ZkFQcjVpdGVnampUbXY2d1RsQU5xUnFWUUFuUlphVUdKcnhGVkY3NjhyRndUclJxajBxX1Q4NVp2Nkp3QzRGMGNHN1VWS3FzQ0lMZlJpajZLZ3cxNm80SjFxOVlyVGtEaGxMeW1COUNzSmxidTlGQzVSRGEweER2a2FNVTctMXdrcTBnNFNjRFFCak45Z1lqQQ?oc=5)
 
 ---
 
@@ -205,14 +181,6 @@ permalink: /news/multiple-sclerosis/
 2026-08-23
 
 來源：[The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
-
----
-
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
-
-2026-08-23
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
 ---
 

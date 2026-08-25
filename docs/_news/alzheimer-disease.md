@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Three ways to boost brain sharpness - The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzEwajhJVWM1elJrODVXS0lqbS03ZGktVElUTkdSMHhhdm1GVWhmZ1BZclJwVHlVZjhQdk85Z3hqTG5sNG9uR3NKdlluQjcyVl9maUpOZnM4cDNtdHlzVWl2UmdwVWlXM1FhdXgxVUhWMTdDR1NDeDdlTHMyNEduNGVPS0NCX2xtOTdVSFRwN1hHNy04eHh6MFI5SGJrc2FQbks3UGxCbw?oc=5)
+
+2026-08-24
+
+來源：[The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzEwajhJVWM1elJrODVXS0lqbS03ZGktVElUTkdSMHhhdm1GVWhmZ1BZclJwVHlVZjhQdk85Z3hqTG5sNG9uR3NKdlluQjcyVl9maUpOZnM4cDNtdHlzVWl2UmdwVWlXM1FhdXgxVUhWMTdDR1NDeDdlTHMyNEduNGVPS0NCX2xtOTdVSFRwN1hHNy04eHh6MFI5SGJrc2FQbks3UGxCbw?oc=5)
+
+---
 
 ### [One Common Type of Physical Activity Linked to Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
 

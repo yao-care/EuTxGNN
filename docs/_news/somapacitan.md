@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [Sanidad actualiza la guía para profesionales de Pediatría para el abordaje de la diabetes de debut - Gomera Verde](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNENCazRTOGVFYTZoRGRuQllPWFRDcGVxNC0tU1pOTG1yc2ZrbFdJU1JtbF9ZNGlvbVhFQTRuT2E2d1BnOHJqTFducUJGeGwwa0U4cVp2N1U1eFJxbGNpWUFhSGtVTTZrUDhUVnNxdHVfc1pMcW5xRUV0MFlJX2FJbUtsYXhsVEhBeXFQYlRBRi1TYXQ1TW5WMDAyU2lJb29oZ3V5cllldHM1WWlOTjZ0b214NlMyeXBkVjB6VEY3aWlEVFFOUEtUZDdVaks?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [My boy, 15, could have months to live after docs misdiagnosed common symptom - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
-
----
-
 ### [Due vitamine migliorano la salute dei polmoni in chi soffre di asma: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
 
 2026-08-24 <span class="news-indication-tag">asma</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
-
----
-
-### [Bacterias probióticas de diseño para regular la glucosa en diabetes de tipo 2](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
-
-2026-08-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Genotipia](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
 
 ---
 
@@ -110,11 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
+### [Le remboursement des traitements contre le diabète s'envole à nouveau: un lien avec des détournements à des fins d'amaigrissement - La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
 
-2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+2026-08-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWlZsTjNJcE9QSGc5REFYbVp2amFfajVkcGNPd3d6Z1E4bGpLcV9ZTGxZZjVmSlhXd3Bxb2xVT01wRFREZFU5X0lZZURjajIxb1VrVTBldFNlUGR5MXItUWRTSzFOM0NzajNOYlpiUVFTUGk1cTMxU1AzemhnRUFGcmdYenI2b19na1lFRlN4aUNoeGsyc0tpQVhoT0NvRzNzUW41bXZHY21nYzlUTFhaUW1rQ1pBNG5hSzdxM2xSNlY2R2NMckVheEJWOWFLYUU0VGZCM1lmTXNSand0enl3c0lMU2d4aDJqOGNxOTdzR0cxWFdXajJpblBlcGpwcnV2V0UyY2hGVFFBM181QlFyMmJQeTVTUEZSMnpBWFJtR3Q5UG9fYVY4b1JB?oc=5)
 
 ---
 

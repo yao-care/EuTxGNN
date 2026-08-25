@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [La psicología sugiere que las personas que siempre se exigen al máximo no solo buscan hacerlo todo perfecto, sino que pueden ser más propensas a sufrir migrañas - El Economista](https://news.google.com/rss/articles/CBMi4wJBVV95cUxOeDBHckRQSGpkcUt2bUZ1alVCWG4zVlAxMTFudWpkQlJzckpMdjZBQUxfRTU2aHA1MzV4dUxUdUFIUlVJRVRqMDJHakNaOG5FS0o4d3NYaGpacUotRUdTeFNLcDJkMC14S2FPMk5yYzFmaUpYcDd6bEZQLVFNOG1INXVFdFpIdTlaYUNsSlFHVE42eG01NUE5c1ZqQXJlQTJGc2Mzd0ZpeFdGaWVyRXpWMERsQ19oQkJ0UnR3ZFNBNVAwc0ZESkdLMERVNUd2bi1nT1FOVkMzamw5RERfdjV4Z2t1clduM3FwLUFxV05QY3BnYmMzMThnNTlYMDYxc1NsNG1NZk5nYWRwazB2YlE1UlZkdTB4MUxPM1gyREQ2YmtSLXRTdFhtbldDZ0NvWXZxdElIRTQ4YmNNQ0FINUZXc1B6YVAwSW9LVlZJdkxIQTBDc05Sd0dyQk9WWld5eGJWd3dB0gHOAkFVX3lxTE45N1ItU0tfVXBRNVNRSENLTG11b29mUV9iTHVOVllydWVDbHd3d0pzcE82V3ZUOGxPNmdsT1c4WnhKUWp6R0RuRk1yN3RaSUhsVDVvWDRrNlFtSWRPZnpQa05DX0VNVWxlSWVnQy03akxWUGVpTS1SSmNmTGM5aUdGbzUxZUdBM0tsX094QWNtM05RUmVaWjlfekgteFVYa3V3SkY2SW16NEVGSzYxV0RuWE1TdENVS2czRkQwMU1wMzljSWRnVVBkdDZBMk1TNUxFUzgwcDJkYU11WDNpQmo3TmxuOGFXRmVkMFl3MFYxbUhtT1V1cTBJQXdycnBNMzBZMExtWW5jb25mdlVDRzduZDBrWU5xekJ4WF9TdXg0M21NVmtabldwdjBIeWIwN1FmMW9rS3JrTmNRZmVpVWl4NDQwMlBxWm50VEFpSGc?oc=5)
-
-2026-08-24 <span class="news-indication-tag">migraña</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi4wJBVV95cUxOeDBHckRQSGpkcUt2bUZ1alVCWG4zVlAxMTFudWpkQlJzckpMdjZBQUxfRTU2aHA1MzV4dUxUdUFIUlVJRVRqMDJHakNaOG5FS0o4d3NYaGpacUotRUdTeFNLcDJkMC14S2FPMk5yYzFmaUpYcDd6bEZQLVFNOG1INXVFdFpIdTlaYUNsSlFHVE42eG01NUE5c1ZqQXJlQTJGc2Mzd0ZpeFdGaWVyRXpWMERsQ19oQkJ0UnR3ZFNBNVAwc0ZESkdLMERVNUd2bi1nT1FOVkMzamw5RERfdjV4Z2t1clduM3FwLUFxV05QY3BnYmMzMThnNTlYMDYxc1NsNG1NZk5nYWRwazB2YlE1UlZkdTB4MUxPM1gyREQ2YmtSLXRTdFhtbldDZ0NvWXZxdElIRTQ4YmNNQ0FINUZXc1B6YVAwSW9LVlZJdkxIQTBDc05Sd0dyQk9WWld5eGJWd3dB0gHOAkFVX3lxTE45N1ItU0tfVXBRNVNRSENLTG11b29mUV9iTHVOVllydWVDbHd3d0pzcE82V3ZUOGxPNmdsT1c4WnhKUWp6R0RuRk1yN3RaSUhsVDVvWDRrNlFtSWRPZnpQa05DX0VNVWxlSWVnQy03akxWUGVpTS1SSmNmTGM5aUdGbzUxZUdBM0tsX094QWNtM05RUmVaWjlfekgteFVYa3V3SkY2SW16NEVGSzYxV0RuWE1TdENVS2czRkQwMU1wMzljSWRnVVBkdDZBMk1TNUxFUzgwcDJkYU11WDNpQmo3TmxuOGFXRmVkMFl3MFYxbUhtT1V1cTBJQXdycnBNMzBZMExtWW5jb25mdlVDRzduZDBrWU5xekJ4WF9TdXg0M21NVmtabldwdjBIeWIwN1FmMW9rS3JrTmNRZmVpVWl4NDQwMlBxWm50VEFpSGc?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [L’emicrania lascia una firma nel sangue: coinvolte dieci proteine e il metabolismo dei grassi](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
 
 2026-08-24 <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
-
----
-
-### [My boy, 15, could have months to live after docs misdiagnosed common symptom - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
 
 ---
 
@@ -91,14 +75,6 @@ permalink: /news/regadenoson/
 2026-08-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Extremadura 7Dias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlQwVXowN19ESVo5b0JYOU9IT1Nxd05qMDJXMC1JN09DNkVaVzlMc1BSZzJ3OE5pLXRXeXdBN1hxMHRYU2NDRlh3YkxaekNXZk1JNGlfdzZFSjVZemp3dmllY1RrOGJkR1VYZENoRUhVN1dPLVhDeF90UTdKXzJkTkNRdlY1WkdJTDFvamgwbk0wMjl0Yk1DZGNWd0JpQW1seGlNdHRKQl9UMW8tb3lqaUs5RUtVUQ?oc=5)
-
----
-
-### [Durchbruch in der Forschung: Bekanntes Asthma-Mittel könnte Krebs bremsen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
-
-2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
 
 ---
 
