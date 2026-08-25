@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [BPCO, il sangue potrebbe dare l’allarme prima che cali la funzione polmonare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdodDhVdzVTbHFGUGIyRG1aUmE0TEJaNWFWaEF5bW9WS2tiVUkyRl9vSVBMWklIQ1dick9SejhCWDlHYnZ0VmlrWGxuVEhMZlNRejA1a1c2LXFkeGFzTnZ2VWhHLVg4OXh4T2E0NkxHZ3U2ZnoxX2JvbElSd09OYURfVFZaZ3BfMk5vWmRjUXFrYWRYMHZ0RjhjbWNoaDJtekV3TWRpQ3dfV0ZFS2JmRkQzTllxeW9wazVtXzJSVkxGNk5yb2Z1Q2FRLVBnREE?oc=5)
+
+2026-08-24 <span class="news-indication-tag">BPCO</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdodDhVdzVTbHFGUGIyRG1aUmE0TEJaNWFWaEF5bW9WS2tiVUkyRl9vSVBMWklIQ1dick9SejhCWDlHYnZ0VmlrWGxuVEhMZlNRejA1a1c2LXFkeGFzTnZ2VWhHLVg4OXh4T2E0NkxHZ3U2ZnoxX2JvbElSd09OYURfVFZaZ3BfMk5vWmRjUXFrYWRYMHZ0RjhjbWNoaDJtekV3TWRpQ3dfV0ZFS2JmRkQzTllxeW9wazVtXzJSVkxGNk5yb2Z1Q2FRLVBnREE?oc=5)
+
+---
 
 ### [My boy, 15, could have months to live after docs misdiagnosed common symptom - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDBDUnVONmNxWWY5b05CcDVwMDFuMnlXbmI4Xzk3Mk1CbkJBb1BIdzZEa1U0MVZGTVRPbTdjeXM0NEtUaW1LTW9RNjlKOFBtMk9raEduZlozb2RnSXlhcmdwSU52TEZWdTJlZnpyald4X2Y3eGhHY05CcFV2T01TMnRGQVVqYjR5T24wOEQwc2NNbUU?oc=5)
 

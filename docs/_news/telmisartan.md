@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Ictus e droghe: quale sostanza è associata al rischio maggiore? L’analisi su oltre 100 milioni di persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+
+2026-08-24 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+
+---
 
 ### [Limitar el sedentarismo durante el embarazo puede disminuir casi un 80% el riesgo de hipertensión, según un estudio - La Vanguardia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDJGM3prYk1CdGpSU3BwSHhVNUdHUVFGY1NNQWVySTFpazhzNzZTRG5DTE01QXFFN1pJbEZqVWtLczdTUUU1WG55ZndEbDlVM2pEN2tGZlBhc2d2YzVlSlNpM1Vsc2RpZGxjT012MzhucElVLVlTV3p3Z3FpdFVpVE5VQ2U4Q2NkTFFhVVBZQ1M0cUJGQk5YMk05Y0pxX1BwanZuM2dkc3R5YkNEYk5nX3VpbWY5dE1MNW5wSV8tcmR3aWEySWZ0MU8tWEkzXzdCT3FhSEFya1JKd1ZkeHfSAeMBQVVfeXFMT3dOMHRJczNPck41d3FZcUVzTktCSkNiY2R3VlZ6VWJfMGJWdVd2dzd4dHRHMnhxUHpHclZ5ZjhQdXdLU1VRd2VYSE96YVY5Y3doeXZSQVFJenFqV0JTYTB6NGZIVkJTVnhSeUltemJGZ2ZVaFNrcm9HNnFNcGlrRGNVci1LUzlPQ2JLM0Y0NU5CajJzNjJEbG83MnBtaV91ZUxHYjF5UmEwMjlyVVl3RVY2U3pfYkhDQXFRR1A0dURvLTAyTFhTbWdza3czUm9xVmVYZThkRXNYbkNBREhKZXhVY3c?oc=5)
 
@@ -86,27 +94,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Derrière un cas de cholestérol sanguin élevé, un demi-siècle d’erreur de diagnostic - Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
-
----
-
 ### [Ce complément alimentaire pourrait augmenter le risque d'AVC chez certaines personnes, selon une vaste étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNlpLNHUxT3ZEcjRPWGxBS0tkZUNrZjlMN0JkNzlYRy1IQXdqcXdsWkpqYlgwSV9IeU41cnVVRWNMTzJaWU1jXzdsLXRWTnlZR3JVMURMcTgyS2ZIS0VBNndMYnJMSzNKTDhEUnktMURlTXVlWjEzb1pJcjVvaEU3VWozNi1RRjZ2bmRXYlF1cGUycUU0NU0tUWxtVlNOMG9Cbzc2YzBiWGF1MXk0MmcyMDdKRE9pRkZGWlI4MjBYVjg2TGFneFRET0Z2U3lnRnVYWEZmdllsNVFFbDhCVldQcTBPODJMc0dsdkUxa1dvaTBYOWhRc1VyV1UtcEI1WkVOWjVhZHJnVmhReDZrN3NUbQ?oc=5)
 
 2026-08-24 <span class="news-indication-tag">AVC</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMikAJBVV95cUxQNlpLNHUxT3ZEcjRPWGxBS0tkZUNrZjlMN0JkNzlYRy1IQXdqcXdsWkpqYlgwSV9IeU41cnVVRWNMTzJaWU1jXzdsLXRWTnlZR3JVMURMcTgyS2ZIS0VBNndMYnJMSzNKTDhEUnktMURlTXVlWjEzb1pJcjVvaEU3VWozNi1RRjZ2bmRXYlF1cGUycUU0NU0tUWxtVlNOMG9Cbzc2YzBiWGF1MXk0MmcyMDdKRE9pRkZGWlI4MjBYVjg2TGFneFRET0Z2U3lnRnVYWEZmdllsNVFFbDhCVldQcTBPODJMc0dsdkUxa1dvaTBYOWhRc1VyV1UtcEI1WkVOWjVhZHJnVmhReDZrN3NUbQ?oc=5)
-
----
-
-### [Ictus e droghe: quale sostanza è associata al rischio maggiore? L’analisi su oltre 100 milioni di persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
-
-2026-08-23 <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
 
 ---
 
@@ -118,11 +110,27 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Ce symptôme dans l’œil peut annoncer un AVC : comment repérer les signes rapidement - Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
+
+2026-08-23 <span class="news-indication-tag">AVC</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
+
+---
+
 ### [Tirzepatide associata a meno ictus: il nuovo studio su oltre 28mila pazienti](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEF5d3pZSlNQSTVreDJvLVNYNFFhckUya0FydkpNWUxBaDR1bi1pWmZPb0k1U0pibHdXZjVHQmVRaU9nSUhrem9VWGdkZlAyWU55TVBDWDc5UEVwdTFCaXlUTmU2T2VPdFk4ZzBKQ3k0V2hQZy01M1RES1lKQnQxbWZDX1ozOVg5UGd3TGM2NEU4VURobTVtbXJKQW84UHdEQlZFNUdKemNGSnJwSV9OT2VsejJDWW1IVUZ3MlZnYWV4TmpvYkxjbUxFbTBHT1B0?oc=5)
 
 2026-08-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEF5d3pZSlNQSTVreDJvLVNYNFFhckUya0FydkpNWUxBaDR1bi1pWmZPb0k1U0pibHdXZjVHQmVRaU9nSUhrem9VWGdkZlAyWU55TVBDWDc5UEVwdTFCaXlUTmU2T2VPdFk4ZzBKQ3k0V2hQZy01M1RES1lKQnQxbWZDX1ozOVg5UGd3TGM2NEU4VURobTVtbXJKQW84UHdEQlZFNUdKemNGSnJwSV9OT2VsejJDWW1IVUZ3MlZnYWV4TmpvYkxjbUxFbTBHT1B0?oc=5)
+
+---
+
+### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+
+2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
 
 ---
 

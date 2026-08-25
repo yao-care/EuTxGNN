@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（23 則）
 
 ### [Herz: Dieses Vitamin kann Gefäßverkalkung bremsen – doch es gibt eine Grenze](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVfUzZQTVhFM1VZNzhmMXk4NjBJWHV4dW9MbE1helI2blRFOGlhb1R4bVJCZjNEalQ4Z0VrU21jREJJXzhsdEZwVEM4dnhSQ3NNMjhLWXdmY0NLMFlScTZyWERUSllhdDFmeGpER1hFU0Q0dERubjZOcWxYTC1hQlVaUmpZYWIyMFRNc09CbTZGWC1OTVQ5R2s0ZE41ZHdNQThheWR6Y09jSlFTdC1FcXF2Q0VHSmZmTWtVdFRsYmQ2SDh6QVEwSkQwcldtUGVFVkZCbFhoSVU2VUE?oc=5)
 
-2026-08-24 <span class="news-indication-tag">MS</span>
+2026-08-25 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnVfUzZQTVhFM1VZNzhmMXk4NjBJWHV4dW9MbE1helI2blRFOGlhb1R4bVJCZjNEalQ4Z0VrU21jREJJXzhsdEZwVEM4dnhSQ3NNMjhLWXdmY0NLMFlScTZyWERUSllhdDFmeGpER1hFU0Q0dERubjZOcWxYTC1hQlVaUmpZYWIyMFRNc09CbTZGWC1OTVQ5R2s0ZE41ZHdNQThheWR6Y09jSlFTdC1FcXF2Q0VHSmZmTWtVdFRsYmQ2SDh6QVEwSkQwcldtUGVFVkZCbFhoSVU2VUE?oc=5)
 
@@ -70,11 +70,43 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Largest review of its kind confirms benefits of tai chi and other Chinese exercises - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
+
+2026-08-24 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
+
+---
+
+### [How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+
+2026-08-24 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGp4M0xYeGdTOXFuMHF0dFNaQmU0eFIxOVllSTB5aW1JODRhY3pUTUt6Z196ajBuQnpRTWFLQkhiMS1SdHlYTzF4VlhDalBqYk8xTGttQzhHUWt5RHhkdkJyU1pRR1ZXTUp5VUlTVnNrT3lJY0RVYlY1SlBrb01jTHRYdm1mMGR3cEVldC1IN2wwczdmLTBuNC1aeVQ2azZfdmN3Y1c1bktqcXBNTTc5b1RyYw?oc=5)
+
+---
+
+### [Angry about men’s lost ‘right’ to a prostate cancer test? Read this - The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWpNWDRFeHIyR2JkWHMzYnNkbEVnclhma3BzenE4azBIakRQQmNZX3Q3em0tM0lGZGhNdzdpdTNHbHBtRTM4OGhqWFhzaTM5Z01EdmYzaElSTktoYlR0eEc3SVdPbjB3V1UyWTFHNEpOMzRPNjNodEoxWDVJMVA0cjh2T2FXSWY5VHVhbmRXSWlLSU5qbTV4ZmZUZHdFZC1TRUhZNWdnWFUxWkZIQUlSRE9rbF9icmpBZ3VoYUVsaVNjTDFNMmd2MlRQSGE?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWpNWDRFeHIyR2JkWHMzYnNkbEVnclhma3BzenE4azBIakRQQmNZX3Q3em0tM0lGZGhNdzdpdTNHbHBtRTM4OGhqWFhzaTM5Z01EdmYzaElSTktoYlR0eEc3SVdPbjB3V1UyWTFHNEpOMzRPNjNodEoxWDVJMVA0cjh2T2FXSWY5VHVhbmRXSWlLSU5qbTV4ZmZUZHdFZC1TRUhZNWdnWFUxWkZIQUlSRE9rbF9icmpBZ3VoYUVsaVNjTDFNMmd2MlRQSGE?oc=5)
+
+---
+
 ### [I had NINE heart problems and women called me disgusting - then I lost 15st - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
 
 2026-08-24 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGZyaGxtWGxHbHp1U0VPOE9ZbmFNTFRmbXl5VlpGZXlyZk5HNVhsTDR6bVBtZ3BaTkZodkFfRS1qMEVoRFRXaVdSVmtDdlZrTm0zODV2ckdMek44NDJReFhwT3U5MVVBaFNUbm0zS2doU3RWT0t2MDRvOVpPakFVdE5EajM5blFuUFpmemI4N2R1YTlDYUdqeXJB?oc=5)
+
+---
+
+### [Ministerio de Salud realizó encuentro para avanzar en la eliminación de cuatro enfermedades de transmisión maternoinfantil - El Universo](https://news.google.com/rss/articles/CBMigwJBVV95cUxPV1RkVklWam1sZFpCN29zVm9IT2VETVpUekdhSVRHbUwxMU81MjItNXlrV0tMemJQa1ZLV2oyNVNLMHVPbGNSTVdnbkhRdmp1OTBUT3Q0MWh2WnZyUlFtZWxEeEt1b29HeXowY2oxdWowNzg5UUp2YWNnc2dSQ3QtbDdRVkhfd3lRa1FXSGZfaEpaTEFEdmRMd1V6aHE3NGs2a2VDZnZMMjFTUVpQQUZOUFlHa2FmeEYwcHE2aW1rS2NQcTgzWEJGeUIxUFpDLUMwQUNFRnhVdzV4ODRnU0hMYzN0N1l4aEk5Z0ljZEhpVndrWVMxMk83aDVHamdCalJDQ1NZ0gGXAkFVX3lxTE5RbldDbENVZkpsYVFOWmNFVUx6c0R2QnY2TjlzWUJBbkUzaU92N2s5Vmg0Q3REdXl5MXdvbGdlQWY5LS1JdVNaNjc5aGFLVnpVSktIUWxMajdiUml4S3RWQkViYXNLV1lydXRTMmJyal9Mb3puODV4eGRsTUFSb243XzgycnlsSWd6cGNFaWJmc3VnRm1IRFk1WERSbHlSQkt6VHZPTXE5TzgxS3F5LVBRdW5GZkJUR1hLVFZRZFI3TzVkLXVVSk12U3BEUF9NRjVhYlI5UXYxeDlhVE9yMW53XzFvT0o3UkFfdnE2VjBYcGlVNmRkaEFGWllldEVYLWRqQ1FtaUxJOWZHUXY5WXp0SUlnaVFZdw?oc=5)
+
+2026-08-24 <span class="news-indication-tag">hepatitis</span>
+
+來源：[El Universo](https://news.google.com/rss/articles/CBMigwJBVV95cUxPV1RkVklWam1sZFpCN29zVm9IT2VETVpUekdhSVRHbUwxMU81MjItNXlrV0tMemJQa1ZLV2oyNVNLMHVPbGNSTVdnbkhRdmp1OTBUT3Q0MWh2WnZyUlFtZWxEeEt1b29HeXowY2oxdWowNzg5UUp2YWNnc2dSQ3QtbDdRVkhfd3lRa1FXSGZfaEpaTEFEdmRMd1V6aHE3NGs2a2VDZnZMMjFTUVpQQUZOUFlHa2FmeEYwcHE2aW1rS2NQcTgzWEJGeUIxUFpDLUMwQUNFRnhVdzV4ODRnU0hMYzN0N1l4aEk5Z0ljZEhpVndrWVMxMk83aDVHamdCalJDQ1NZ0gGXAkFVX3lxTE5RbldDbENVZkpsYVFOWmNFVUx6c0R2QnY2TjlzWUJBbkUzaU92N2s5Vmg0Q3REdXl5MXdvbGdlQWY5LS1JdVNaNjc5aGFLVnpVSktIUWxMajdiUml4S3RWQkViYXNLV1lydXRTMmJyal9Mb3puODV4eGRsTUFSb243XzgycnlsSWd6cGNFaWJmc3VnRm1IRFk1WERSbHlSQkt6VHZPTXE5TzgxS3F5LVBRdW5GZkJUR1hLVFZRZFI3TzVkLXVVSk12U3BEUF9NRjVhYlI5UXYxeDlhVE9yMW53XzFvT0o3UkFfdnE2VjBYcGlVNmRkaEFGWllldEVYLWRqQ1FtaUxJOWZHUXY5WXp0SUlnaVFZdw?oc=5)
 
 ---
 
@@ -91,14 +123,6 @@ permalink: /news/teriflunomide/
 2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
-
----
-
-### [Cancer exists, keeping quiet is dangerous, Oncologist warns Nigerians - Punch Newspapers](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1Vla3RkMUE5dmZBMjRqYWh1SmxhN180WHpiYjM0d1hEWUd5Q3gxemZlZXhrUThtSE93dEM0SlN6S3gzZU5UUzJHTml6YVJYVExtQ1hkYl92MnhUekRIbjNJTTNrbHdIT1RqYUtmLWJQQXU0THBqSlFIUmtoVHI0a0F3NTJZZWYyb3hhcG4wQnp3UQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Punch Newspapers](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1Vla3RkMUE5dmZBMjRqYWh1SmxhN180WHpiYjM0d1hEWUd5Q3gxemZlZXhrUThtSE93dEM0SlN6S3gzZU5UUzJHTml6YVJYVExtQ1hkYl92MnhUekRIbjNJTTNrbHdIT1RqYUtmLWJQQXU0THBqSlFIUmtoVHI0a0F3NTJZZWYyb3hhcG4wQnp3UQ?oc=5)
 
 ---
 
@@ -122,7 +146,7 @@ permalink: /news/teriflunomide/
 
 2026-08-24 <span class="news-indication-tag">MS</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1dUc0dMZnJCOEUzd1V3Y3BBV19GNTVfa2NvY29Tb3hReFlCZlA0YVZORHRxa29ucGs0OXluYWJ1Y1JkYnZoMnNNTkpxS3VfbU9YY2NIZ1lwWWRvRHVRZ3hET25IUWhncEpvOWNaS1ExUG14Y3dhX1AxWmpIOTB1MF96cThTY0VyV1ZXNngyOHgyLXFhVHNXaEZaRjBUV1hGd3N6OHk5ZTZzNnZ1bE1zc0JB?oc=5)
+來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1dUc0dMZnJCOEUzd1V3Y3BBV19GNTVfa2NvY29Tb3hReFlCZlA0YVZORHRxa29ucGs0OXluYWJ1Y1JkYnZoMnNNTkpxS3VfbU9YY2NIZ1lwWWRvRHVRZ3hET25IUWhncEpvOWNaS1ExUG14Y3dhX1AxWmpIOTB1MF96cThTY0VyV1ZXNngyOHgyLXFhVHNXaEZaRjBUV1hGd3N6OHk5ZTZzNnZ1bE1zc0JB?oc=5)
 
 ---
 
@@ -130,7 +154,7 @@ permalink: /news/teriflunomide/
 
 2026-08-24 <span class="news-indication-tag">MS</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW9pX0xDb1hqSUFzSmdVT1cwOFRYcDVLRDM5amxfT2RiSk5ZcUJGLVlnWVpKbEhMYUdYT3ZoaXZ1Q0ZiUVdkbWZXZ19FWGRXUFd4bjhhZEhiSjlvZERfZ1lDNm9GNEN6UlpLOXFLbWtoc3pDR3NYcUNIc2tEV0dkMVZocFQwMlBQb2NXN2tMajRlQ2IwYTBrX3NfVzMyMHRmT2hDVzNsdGpoR2M?oc=5)
+來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW9pX0xDb1hqSUFzSmdVT1cwOFRYcDVLRDM5amxfT2RiSk5ZcUJGLVlnWVpKbEhMYUdYT3ZoaXZ1Q0ZiUVdkbWZXZ19FWGRXUFd4bjhhZEhiSjlvZERfZ1lDNm9GNEN6UlpLOXFLbWtoc3pDR3NYcUNIc2tEV0dkMVZocFQwMlBQb2NXN2tMajRlQ2IwYTBrX3NfVzMyMHRmT2hDVzNsdGpoR2M?oc=5)
 
 ---
 
@@ -182,22 +206,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Dissolvable 3D-printed patch aims to improve skin cancer treatment](https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNUlwR2tjdE51WUtjT2dINERGRmZFdmg3X0kycVdpSG8yb0ZWd05uVXhoajBmX3FtX0JZVXNTalBRbXN3RnFTTm0xSVBVQ0s3MzhDWXlMMjlxN3hoelQ2OXRJUWhuX0Jna2Fz?oc=5)
-
-2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[RTE.ie](https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNUlwR2tjdE51WUtjT2dINERGRmZFdmg3X0kycVdpSG8yb0ZWd05uVXhoajBmX3FtX0JZVXNTalBRbXN3RnFTTm0xSVBVQ0s3MzhDWXlMMjlxN3hoelQ2OXRJUWhuX0Jna2Fz?oc=5)
-
----
-
-### [Semaglutide slimming jab study aims to help alcohol dependency](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
-
-2026-08-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0QW4takdmN2Jabm94MkxBbWVhVHdZX0pLdnNPSVNtVXZZMTNrWmR3SzZsUzl4Vkdka2lnMzZXTTBFcFF3ZEVmY1Y1VFNxMzJrTW5lZW5fb2hXaC1z?oc=5)
-
----
-
 ### [NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer - The Star](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5)
 
 2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -211,6 +219,22 @@ permalink: /news/teriflunomide/
 2026-08-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa21jbk84NDVWNnZuRTZKQkJPR3RCR0hmeUpleVNEd3ZrLTYzWC1vMFlxVng0aDBpZWxyVWVsalRjdkxISUdTbDlNRmlSaFc2ekJXNE95NFFQa3ozZk11M2hiMC11QXEzaGYwdktqZk03V2ZKR2w2ckE0ZlV6cExCX3JmbkNrbi1lcVQxektlcDhzaVlabEZpNTJkYzFKNUNXOElsV2pTUEk0ZlRPZWhiQnVoS2s3dw?oc=5)
+
+---
+
+### [Vapes could lead to health harms in children, doctors warn](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WSEdpeUVsbVhaV1ZxOHhPTTRkQ292R2xIN2hyMTgxUFlCWWQzeG1uLUlwNGNyNEdMVVZSRG4yTk1QWlRlU0RNSEJZWU5DOUJhdXprbTlwc0RPVE9C?oc=5)
+
+2026-08-20 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WSEdpeUVsbVhaV1ZxOHhPTTRkQ292R2xIN2hyMTgxUFlCWWQzeG1uLUlwNGNyNEdMVVZSRG4yTk1QWlRlU0RNSEJZWU5DOUJhdXprbTlwc0RPVE9C?oc=5)
+
+---
+
+### [One Common Type of Physical Activity Linked to Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
+
+2026-08-18 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[Newsweek](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lopinavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Ministerio de Salud realizó encuentro para avanzar en la eliminación de cuatro enfermedades de transmisión maternoinfantil - El Universo](https://news.google.com/rss/articles/CBMigwJBVV95cUxPV1RkVklWam1sZFpCN29zVm9IT2VETVpUekdhSVRHbUwxMU81MjItNXlrV0tMemJQa1ZLV2oyNVNLMHVPbGNSTVdnbkhRdmp1OTBUT3Q0MWh2WnZyUlFtZWxEeEt1b29HeXowY2oxdWowNzg5UUp2YWNnc2dSQ3QtbDdRVkhfd3lRa1FXSGZfaEpaTEFEdmRMd1V6aHE3NGs2a2VDZnZMMjFTUVpQQUZOUFlHa2FmeEYwcHE2aW1rS2NQcTgzWEJGeUIxUFpDLUMwQUNFRnhVdzV4ODRnU0hMYzN0N1l4aEk5Z0ljZEhpVndrWVMxMk83aDVHamdCalJDQ1NZ0gGXAkFVX3lxTE5RbldDbENVZkpsYVFOWmNFVUx6c0R2QnY2TjlzWUJBbkUzaU92N2s5Vmg0Q3REdXl5MXdvbGdlQWY5LS1JdVNaNjc5aGFLVnpVSktIUWxMajdiUml4S3RWQkViYXNLV1lydXRTMmJyal9Mb3puODV4eGRsTUFSb243XzgycnlsSWd6cGNFaWJmc3VnRm1IRFk1WERSbHlSQkt6VHZPTXE5TzgxS3F5LVBRdW5GZkJUR1hLVFZRZFI3TzVkLXVVSk12U3BEUF9NRjVhYlI5UXYxeDlhVE9yMW53XzFvT0o3UkFfdnE2VjBYcGlVNmRkaEFGWllldEVYLWRqQ1FtaUxJOWZHUXY5WXp0SUlnaVFZdw?oc=5)
+
+2026-08-24 <span class="news-indication-tag">hepatitis</span>
+
+來源：[El Universo](https://news.google.com/rss/articles/CBMigwJBVV95cUxPV1RkVklWam1sZFpCN29zVm9IT2VETVpUekdhSVRHbUwxMU81MjItNXlrV0tMemJQa1ZLV2oyNVNLMHVPbGNSTVdnbkhRdmp1OTBUT3Q0MWh2WnZyUlFtZWxEeEt1b29HeXowY2oxdWowNzg5UUp2YWNnc2dSQ3QtbDdRVkhfd3lRa1FXSGZfaEpaTEFEdmRMd1V6aHE3NGs2a2VDZnZMMjFTUVpQQUZOUFlHa2FmeEYwcHE2aW1rS2NQcTgzWEJGeUIxUFpDLUMwQUNFRnhVdzV4ODRnU0hMYzN0N1l4aEk5Z0ljZEhpVndrWVMxMk83aDVHamdCalJDQ1NZ0gGXAkFVX3lxTE5RbldDbENVZkpsYVFOWmNFVUx6c0R2QnY2TjlzWUJBbkUzaU92N2s5Vmg0Q3REdXl5MXdvbGdlQWY5LS1JdVNaNjc5aGFLVnpVSktIUWxMajdiUml4S3RWQkViYXNLV1lydXRTMmJyal9Mb3puODV4eGRsTUFSb243XzgycnlsSWd6cGNFaWJmc3VnRm1IRFk1WERSbHlSQkt6VHZPTXE5TzgxS3F5LVBRdW5GZkJUR1hLVFZRZFI3TzVkLXVVSk12U3BEUF9NRjVhYlI5UXYxeDlhVE9yMW53XzFvT0o3UkFfdnE2VjBYcGlVNmRkaEFGWllldEVYLWRqQ1FtaUxJOWZHUXY5WXp0SUlnaVFZdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

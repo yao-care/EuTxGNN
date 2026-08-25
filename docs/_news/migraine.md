@@ -1,0 +1,101 @@
+---
+layout: default
+title: "migraña（migraine） 相關新聞"
+parent: 健康新聞
+nav_exclude: true
+description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+permalink: /news/migraine/
+---
+
+# migraña（migraine） 相關新聞
+
+[← 返回新聞總覽]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
+<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+</p>
+
+<div class="key-takeaway">
+本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+</div>
+
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
+<li><a href="{{ '/drugs/abaloparatide/' | relative_url }}">Abaloparatide</a></li>
+<li><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">Abiraterone Acetate</a></li>
+<li><a href="{{ '/drugs/acetylsalicylic-acid/' | relative_url }}">Acetylsalicylic Acid</a></li>
+<li><a href="{{ '/drugs/aclidinium-bromide/' | relative_url }}">Aclidinium Bromide</a></li>
+<li><a href="{{ '/drugs/alpelisib/' | relative_url }}">Alpelisib</a></li>
+<li><a href="{{ '/drugs/apixaban/' | relative_url }}">Apixaban</a></li>
+<li><a href="{{ '/drugs/apremilast/' | relative_url }}">Apremilast</a></li>
+<li><a href="{{ '/drugs/atropine-sulfate/' | relative_url }}">Atropine Sulfate</a></li>
+<li><a href="{{ '/drugs/caffeine-citrate/' | relative_url }}">Caffeine Citrate</a></li>
+<li><a href="{{ '/drugs/clascoterone/' | relative_url }}">Clascoterone</a></li>
+<li><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">Clopidogrel (As Hydrochloride)</a></li>
+<li><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">Corifollitropin Alfa</a></li>
+<li><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">Dexmedetomidine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/elexacaftor/' | relative_url }}">Elexacaftor</a></li>
+<li><a href="{{ '/drugs/eptinezumab/' | relative_url }}">Eptinezumab</a></li>
+<li><a href="{{ '/drugs/erenumab/' | relative_url }}">Erenumab</a></li>
+<li><a href="{{ '/drugs/fentanyl/' | relative_url }}">Fentanyl</a></li>
+<li><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">Florbetaben (18F)</a></li>
+<li><a href="{{ '/drugs/fluciclovine-18f/' | relative_url }}">Fluciclovine (18F)</a></li>
+<li><a href="{{ '/drugs/fremanezumab/' | relative_url }}">Fremanezumab</a></li>
+<li><a href="{{ '/drugs/galcanezumab/' | relative_url }}">Galcanezumab</a></li>
+<li><a href="{{ '/drugs/glycopyrronium/' | relative_url }}">Glycopyrronium</a></li>
+<li><a href="{{ '/drugs/inclisiran/' | relative_url }}">Inclisiran</a></li>
+<li><a href="{{ '/drugs/isavuconazole/' | relative_url }}">Isavuconazole</a></li>
+<li><a href="{{ '/drugs/lacosamide/' | relative_url }}">Lacosamide</a></li>
+<li><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">Lasmiditan Succinate</a></li>
+<li><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Lumacaftor</a></li>
+<li><a href="{{ '/drugs/melatonin/' | relative_url }}">Melatonin</a></li>
+<li><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">Memantine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">Mexiletine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/netupitant/' | relative_url }}">Netupitant</a></li>
+<li><a href="{{ '/drugs/ospemifene/' | relative_url }}">Ospemifene</a></li>
+<li><a href="{{ '/drugs/palonosetron-hydrochloride/' | relative_url }}">Palonosetron Hydrochloride</a></li>
+<li><a href="{{ '/drugs/parathyroid-hormone/' | relative_url }}">Parathyroid Hormone</a></li>
+<li><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">Parecoxib Sodium</a></li>
+<li><a href="{{ '/drugs/prasugrel/' | relative_url }}">Prasugrel</a></li>
+<li><a href="{{ '/drugs/pregabalin/' | relative_url }}">Pregabalin</a></li>
+<li><a href="{{ '/drugs/prilocaine/' | relative_url }}">Prilocaine</a></li>
+<li><a href="{{ '/drugs/regadenoson/' | relative_url }}">Regadenoson</a></li>
+<li><a href="{{ '/drugs/rimegepant/' | relative_url }}">Rimegepant</a></li>
+<li><a href="{{ '/drugs/selpercatinib/' | relative_url }}">Selpercatinib</a></li>
+<li><a href="{{ '/drugs/setmelanotide/' | relative_url }}">Setmelanotide</a></li>
+<li><a href="{{ '/drugs/tadalafil/' | relative_url }}">Tadalafil</a></li>
+<li><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">Thyrotropin Alfa</a></li>
+<li><a href="{{ '/drugs/tiratricol/' | relative_url }}">Tiratricol</a></li>
+<li><a href="{{ '/drugs/tucatinib/' | relative_url }}">Tucatinib</a></li>
+<li><a href="{{ '/drugs/umeclidinium-bromide/' | relative_url }}">Umeclidinium Bromide</a></li>
+<li><a href="{{ '/drugs/varenicline/' | relative_url }}">Varenicline</a></li>
+<li><a href="{{ '/drugs/ziconotide/' | relative_url }}">Ziconotide</a></li>
+</ul>
+</div>
+
+## 相關新聞（2 則）
+
+### [La psicología sugiere que las personas que siempre se exigen al máximo no solo buscan hacerlo todo perfecto, sino que pueden ser más propensas a sufrir migrañas - El Economista](https://news.google.com/rss/articles/CBMi4wJBVV95cUxOeDBHckRQSGpkcUt2bUZ1alVCWG4zVlAxMTFudWpkQlJzckpMdjZBQUxfRTU2aHA1MzV4dUxUdUFIUlVJRVRqMDJHakNaOG5FS0o4d3NYaGpacUotRUdTeFNLcDJkMC14S2FPMk5yYzFmaUpYcDd6bEZQLVFNOG1INXVFdFpIdTlaYUNsSlFHVE42eG01NUE5c1ZqQXJlQTJGc2Mzd0ZpeFdGaWVyRXpWMERsQ19oQkJ0UnR3ZFNBNVAwc0ZESkdLMERVNUd2bi1nT1FOVkMzamw5RERfdjV4Z2t1clduM3FwLUFxV05QY3BnYmMzMThnNTlYMDYxc1NsNG1NZk5nYWRwazB2YlE1UlZkdTB4MUxPM1gyREQ2YmtSLXRTdFhtbldDZ0NvWXZxdElIRTQ4YmNNQ0FINUZXc1B6YVAwSW9LVlZJdkxIQTBDc05Sd0dyQk9WWld5eGJWd3dB0gHOAkFVX3lxTE45N1ItU0tfVXBRNVNRSENLTG11b29mUV9iTHVOVllydWVDbHd3d0pzcE82V3ZUOGxPNmdsT1c4WnhKUWp6R0RuRk1yN3RaSUhsVDVvWDRrNlFtSWRPZnpQa05DX0VNVWxlSWVnQy03akxWUGVpTS1SSmNmTGM5aUdGbzUxZUdBM0tsX094QWNtM05RUmVaWjlfekgteFVYa3V3SkY2SW16NEVGSzYxV0RuWE1TdENVS2czRkQwMU1wMzljSWRnVVBkdDZBMk1TNUxFUzgwcDJkYU11WDNpQmo3TmxuOGFXRmVkMFl3MFYxbUhtT1V1cTBJQXdycnBNMzBZMExtWW5jb25mdlVDRzduZDBrWU5xekJ4WF9TdXg0M21NVmtabldwdjBIeWIwN1FmMW9rS3JrTmNRZmVpVWl4NDQwMlBxWm50VEFpSGc?oc=5)
+
+2026-08-24
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMi4wJBVV95cUxOeDBHckRQSGpkcUt2bUZ1alVCWG4zVlAxMTFudWpkQlJzckpMdjZBQUxfRTU2aHA1MzV4dUxUdUFIUlVJRVRqMDJHakNaOG5FS0o4d3NYaGpacUotRUdTeFNLcDJkMC14S2FPMk5yYzFmaUpYcDd6bEZQLVFNOG1INXVFdFpIdTlaYUNsSlFHVE42eG01NUE5c1ZqQXJlQTJGc2Mzd0ZpeFdGaWVyRXpWMERsQ19oQkJ0UnR3ZFNBNVAwc0ZESkdLMERVNUd2bi1nT1FOVkMzamw5RERfdjV4Z2t1clduM3FwLUFxV05QY3BnYmMzMThnNTlYMDYxc1NsNG1NZk5nYWRwazB2YlE1UlZkdTB4MUxPM1gyREQ2YmtSLXRTdFhtbldDZ0NvWXZxdElIRTQ4YmNNQ0FINUZXc1B6YVAwSW9LVlZJdkxIQTBDc05Sd0dyQk9WWld5eGJWd3dB0gHOAkFVX3lxTE45N1ItU0tfVXBRNVNRSENLTG11b29mUV9iTHVOVllydWVDbHd3d0pzcE82V3ZUOGxPNmdsT1c4WnhKUWp6R0RuRk1yN3RaSUhsVDVvWDRrNlFtSWRPZnpQa05DX0VNVWxlSWVnQy03akxWUGVpTS1SSmNmTGM5aUdGbzUxZUdBM0tsX094QWNtM05RUmVaWjlfekgteFVYa3V3SkY2SW16NEVGSzYxV0RuWE1TdENVS2czRkQwMU1wMzljSWRnVVBkdDZBMk1TNUxFUzgwcDJkYU11WDNpQmo3TmxuOGFXRmVkMFl3MFYxbUhtT1V1cTBJQXdycnBNMzBZMExtWW5jb25mdlVDRzduZDBrWU5xekJ4WF9TdXg0M21NVmtabldwdjBIeWIwN1FmMW9rS3JrTmNRZmVpVWl4NDQwMlBxWm50VEFpSGc?oc=5)
+
+---
+
+### [L’emicrania lascia una firma nel sangue: coinvolte dieci proteine e il metabolismo dei grassi](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
+
+2026-08-24
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+</div>

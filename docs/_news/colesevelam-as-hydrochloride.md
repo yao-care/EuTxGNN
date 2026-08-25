@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Una investigación identifica un posible nuevo tratamiento para la obesidad y la diabetes que ayuda a quemar grasa - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3FXaXVqNUpTZ3RTbTYxT1JiXzZ2dUxoSHl2QkVNamFXOG9IdmExQmtrQnRfeDM5eTVxVFF2dXJSWDMtRnBvbkpzUEtKdWg5bEswakhfc09JNFdFTlJaOEdIS2FpOXhkUVN2bmU5RUJ2dDJWTDQxUmtMYnB4OFdiSkRFdFlOUk9tbDlVaG8tT3d5N1JsQ3AzSy12ekdnNzI0YURvVzFVZ25wRmlYZE5OaWxJSkstX1d1QVZxX9IBtwFBVV95cUxOSDFxMHZxd0p4S2VOcjlfckNaZ2I4dmdlVUVtcjkzQTZ2cllqVnJxRDBCTmRoS2NCeHdfMjBhQjd3dmlIZVNYQjVIdTc4aFVFOG9zTi1CRWt5YTUybFNyamVMRUo1Q0d2SC1oQkIybmVnSEpWLWp1T19SU29NMDExbU52R3F6cHBsb25zaDdfS2cydV9KRmRLbXBhRkcxYUJGVnY5OXR1YXN6dXhrWnNDSk1wbF9BNlk?oc=5)
-
-2026-08-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3FXaXVqNUpTZ3RTbTYxT1JiXzZ2dUxoSHl2QkVNamFXOG9IdmExQmtrQnRfeDM5eTVxVFF2dXJSWDMtRnBvbkpzUEtKdWg5bEswakhfc09JNFdFTlJaOEdIS2FpOXhkUVN2bmU5RUJ2dDJWTDQxUmtMYnB4OFdiSkRFdFlOUk9tbDlVaG8tT3d5N1JsQ3AzSy12ekdnNzI0YURvVzFVZ25wRmlYZE5OaWxJSkstX1d1QVZxX9IBtwFBVV95cUxOSDFxMHZxd0p4S2VOcjlfckNaZ2I4dmdlVUVtcjkzQTZ2cllqVnJxRDBCTmRoS2NCeHdfMjBhQjd3dmlIZVNYQjVIdTc4aFVFOG9zTi1CRWt5YTUybFNyamVMRUo1Q0d2SC1oQkIybmVnSEpWLWp1T19SU29NMDExbU52R3F6cHBsb25zaDdfS2cydV9KRmRLbXBhRkcxYUJGVnY5OXR1YXN6dXhrWnNDSk1wbF9BNlk?oc=5)
-
----
-
-### [Canarias actualiza su guía de abordaje de la diabetes de debut para pediatras](https://news.google.com/rss/articles/CBMixAFBVV95cUxObklRdENWejdkTGxmcVk4ZkdNT2lfQ2Ytc1hVMTAxdzhRTjZTWDJYUE1iQUljN1FWZm5hX292dFBnWHJwQnVFcVA2TTRoSGIxUVNEakJNZEhILXhyTUxiUFU5TEJ3dVhUdnF6eEJsMnlIeWRGXzE3ODZNMkNXU3pYVWxtUmZrQWxMbEJXaWtFdXl4NFAtSURRM215UmVqSlZqclNrbnM2dUJqeDdUU1FjVW52NXFQaE01UklGTHhBY3NhMU16?oc=5)
+### [Sanidad actualiza la guía para profesionales de Pediatría para el abordaje de la diabetes de debut - Gomera Verde](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNENCazRTOGVFYTZoRGRuQllPWFRDcGVxNC0tU1pOTG1yc2ZrbFdJU1JtbF9ZNGlvbVhFQTRuT2E2d1BnOHJqTFducUJGeGwwa0U4cVp2N1U1eFJxbGNpWUFhSGtVTTZrUDhUVnNxdHVfc1pMcW5xRUV0MFlJX2FJbUtsYXhsVEhBeXFQYlRBRi1TYXQ1TW5WMDAyU2lJb29oZ3V5cllldHM1WWlOTjZ0b214NlMyeXBkVjB6VEY3aWlEVFFOUEtUZDdVaks?oc=5)
 
 2026-08-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMixAFBVV95cUxObklRdENWejdkTGxmcVk4ZkdNT2lfQ2Ytc1hVMTAxdzhRTjZTWDJYUE1iQUljN1FWZm5hX292dFBnWHJwQnVFcVA2TTRoSGIxUVNEakJNZEhILXhyTUxiUFU5TEJ3dVhUdnF6eEJsMnlIeWRGXzE3ODZNMkNXU3pYVWxtUmZrQWxMbEJXaWtFdXl4NFAtSURRM215UmVqSlZqclNrbnM2dUJqeDdUU1FjVW52NXFQaE01UklGTHhBY3NhMU16?oc=5)
-
----
-
-### [Blood sugar running high despite cutting back on sweets? Doctors explain 5 nutrients that may help your body manage glucose better - The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
-
-2026-08-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+來源：[Gomera Verde](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNENCazRTOGVFYTZoRGRuQllPWFRDcGVxNC0tU1pOTG1yc2ZrbFdJU1JtbF9ZNGlvbVhFQTRuT2E2d1BnOHJqTFducUJGeGwwa0U4cVp2N1U1eFJxbGNpWUFhSGtVTTZrUDhUVnNxdHVfc1pMcW5xRUV0MFlJX2FJbUtsYXhsVEhBeXFQYlRBRi1TYXQ1TW5WMDAyU2lJb29oZ3V5cllldHM1WWlOTjZ0b214NlMyeXBkVjB6VEY3aWlEVFFOUEtUZDdVaks?oc=5)
 
 ---
 
@@ -83,14 +67,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-08-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[Genotipia](https://news.google.com/rss/articles/CBMif0FVX3lxTE12UjItMWp6X3pNRV9mNWJEOG5wYnprV2RlRTY2dHpkclBraXdLMzVLR19FX0JjS0RuTHdNR0xWXzZ1QVROWHR0UU1WczZkOTFJQ0UzaFVPWEdkdGp1U2ZoVF9JRlpIN1BNdEp1TjVzdEQxemVxOFdHdEQ2d2lHVEE?oc=5)
-
----
-
-### [Derrière un cas de cholestérol sanguin élevé, un demi-siècle d’erreur de diagnostic - Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
 
 ---
 
@@ -115,6 +91,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-08-23 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY21LY3ktdnFQSzdkcXBMMGJ5OTJ3dkFxcEdQNDhQamhqNWRRc3RqblVGQjZ0QVpUd2dnZ2NSaVllNS1lcjROSzc1cVA4YzRDMElRU21WLWVoMTF1U2ktSFBodFF4cEdZOFBrUkdYNkpQSXRxMWwtZXdLZW5ZS0lUYnpvNkNQcndjYlcwRWd1d01nazhvcHgxRHg0NGxqa2JDV1ctOEg1bGltWXFaVks0czNyTlE4bVNqRlFNTWtEbmtBdUp1UFpiaA?oc=5)
+
+---
+
+### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+
+2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
 
 ---
 

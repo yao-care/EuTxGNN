@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [One Common Type of Physical Activity Linked to Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
+
+2026-08-18 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[Newsweek](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlFEQXFLdnV2ZkltTlhCSDZvUXRCSmRNeDhwZ2dTNmxKbUROYVB4XzViNUFGdUJ2NlpBWG5RbDBBS3pLa1hzcUtCdGp0bWZpeWU5cUZLTU9SUkYzUl9ZSUtwUUJjMW5CQ0htTUthcElaUFE3dFA2Nko0VnJFTmE1ZlRqaXZHSlRsd2N6TWx2bk0tYmNDYXc?oc=5)
+
+---
+
+### [Babies born under sugar rationing grew into adults with lower cancer risk - The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+
+2026-08-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBRZ2JHWmg2SklqZWIwY1N0QWxKTlgzTjlWOFN5dzNLT1Q4R2U3R0NGaEIteEhwdzFqOFdlRTNXU2Z0SlVIdzZ6LS0wbTBmUWs1RjNyT3h5WUNvZFpwMy1BeXA5WFBuV0M2Ui1yWHdKQkRkRE9ralBqR2l2Q21JVW04elYtRThFV0ZDZTNveGJ0WmZTQnFDNnpRdl8zWE1LT2ZwdldSY2VWV25n?oc=5)
+
+---
 
 
 <div class="disclaimer">

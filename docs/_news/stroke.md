@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。7 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>7 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Ictus e droghe: quale sostanza è associata al rischio maggiore? L’analisi su oltre 100 milioni di persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+
+2026-08-24
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+
+---
 
 ### [Schlaganfall: Vorteile der endovaskulären Thrombektomie bei großen Läsionen später erkennbar - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeTZMeUZQQ05UYkZoZ3NqbV9QaVZkd3pLeF9ydWUzektSNVYwVERfdzZWVUNpcVk0bExDYUdXT3JxMENtYzd4R01lMmRzZ0FyYkRFWjlRYWhmRmZXQ0JsWkNQNFZnMlFFM0ZsempTNzhiVXc2RkZEV3VYcFQ4Slo0SGhlSzVxYjhkMzdiZUFEOUFLYl9vcW1SdF9RdnY2TWVZVDhVamFXSEx5Uk5JSlY2X1lNejg0dDgtbUNOMG5hdllLUHhvYS1nMzVVaWVhOUlnNm96UlBMRHVXVUNYOWRkWlJaV1lJaWhxWElkUGh2MlVaSzQ?oc=5)
 
@@ -73,11 +81,11 @@ permalink: /news/stroke/
 
 ---
 
-### [Ictus e droghe: quale sostanza è associata al rischio maggiore? L’analisi su oltre 100 milioni di persone](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+### [Ce symptôme dans l’œil peut annoncer un AVC : comment repérer les signes rapidement - Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
 
 2026-08-23
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYl9lUEJyeGZvSjc1RVZhbWVrcW1yTEdwdURhaGU5RzM4MjNncjhGX1dTZGhoSlRRd0J0YnM1VzlqSG9qRWJVWHpTbDEyVkxMUWxGR0ZldFRtejlJS3RqbXRra0hURmlTRmVCOTBqbERZd2o3b0x5NmVfR210Qmo5MFh5eGQ1eWJBVUJNWHFmMENpV0dfRnZDM09pY3NmNy1GWTZIUEc4TGgzWjRFOWtuVThQS21XSmV4OTAyZjlPenRHTklpT1lrNWlUV3FTZUtGZjhZLTA5MmFXcUJrZVhxOGVFMXptXzQwRHg2YkU0cGdEc1RP?oc=5)
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
 
 ---
 

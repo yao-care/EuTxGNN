@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="Dopamine 有什麼相關新聞？">
-<strong>Dopamine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dopamine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/dopamine/
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [When scientists disrupted dopamine in hungry rats, the animals still showed pleasure when sweet food was placed in their mouths — they just lost the drive to work for it, suggesting dopamine governs wanting more than enjoyment - Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxPUnhJa3ZMUm5FeEdlOVBQOVQxQzhNYmRGZF83bnBldkhhQ19reWpVOHZIZW1acjBXZmpneWJIQkMxZ3B0Um5lQkhicGxfOVRUendnT1VXbFd1NDFXQTdydXhxLWRWajBHNWlVZ3FUckFaMExLbk5PT0RpNkFZN1VSdWE5UkcyOUJadllKWGpYRGFyVkFTSHFGUUNCNEt6YU1PZjNlZTZaNkRuVmFETVRUYzZGZzhJSm1LU3VtX2ZGb19JUHE0bWFlalNTc1FpUWFsS0ZaYXljanlUQmtES21XZWt4VVhOcmc4QzJUNFZEMHdHZ1FQdl9tUXZqOTdfQ1VHQTh4QkhOTjhVb0lMQllqamVMWGpjMlVsTmhkNENSLXJUd3lTMkZjNnJ2aUhMWEJ1am9WS0FkZC11UQ?oc=5)
-
-2026-08-23 <span class="news-drug-tag">Dopamine</span>
-
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxPUnhJa3ZMUm5FeEdlOVBQOVQxQzhNYmRGZF83bnBldkhhQ19reWpVOHZIZW1acjBXZmpneWJIQkMxZ3B0Um5lQkhicGxfOVRUendnT1VXbFd1NDFXQTdydXhxLWRWajBHNWlVZ3FUckFaMExLbk5PT0RpNkFZN1VSdWE5UkcyOUJadllKWGpYRGFyVkFTSHFGUUNCNEt6YU1PZjNlZTZaNkRuVmFETVRUYzZGZzhJSm1LU3VtX2ZGb19JUHE0bWFlalNTc1FpUWFsS0ZaYXljanlUQmtES21XZWt4VVhOcmc4QzJUNFZEMHdHZ1FQdl9tUXZqOTdfQ1VHQTh4QkhOTjhVb0lMQllqamVMWGpjMlVsTmhkNENSLXJUd3lTMkZjNnJ2aUhMWEJ1am9WS0FkZC11UQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

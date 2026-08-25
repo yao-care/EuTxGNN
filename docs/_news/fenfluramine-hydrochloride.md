@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Una investigación identifica un posible nuevo tratamiento para la obesidad y la diabetes que ayuda a quemar grasa - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3FXaXVqNUpTZ3RTbTYxT1JiXzZ2dUxoSHl2QkVNamFXOG9IdmExQmtrQnRfeDM5eTVxVFF2dXJSWDMtRnBvbkpzUEtKdWg5bEswakhfc09JNFdFTlJaOEdIS2FpOXhkUVN2bmU5RUJ2dDJWTDQxUmtMYnB4OFdiSkRFdFlOUk9tbDlVaG8tT3d5N1JsQ3AzSy12ekdnNzI0YURvVzFVZ25wRmlYZE5OaWxJSkstX1d1QVZxX9IBtwFBVV95cUxOSDFxMHZxd0p4S2VOcjlfckNaZ2I4dmdlVUVtcjkzQTZ2cllqVnJxRDBCTmRoS2NCeHdfMjBhQjd3dmlIZVNYQjVIdTc4aFVFOG9zTi1CRWt5YTUybFNyamVMRUo1Q0d2SC1oQkIybmVnSEpWLWp1T19SU29NMDExbU52R3F6cHBsb25zaDdfS2cydV9KRmRLbXBhRkcxYUJGVnY5OXR1YXN6dXhrWnNDSk1wbF9BNlk?oc=5)
+### [Metabolische Gesundheit: BMI identifiziert nur 50% der Fettleibigen](https://news.google.com/rss/articles/CBMirgFBVV95cUxQODFGZDVmREgzbGVDbnV5S25zVG10eU5TZGJ1Nlh6UkU3M01pUkpNenhkQjFLQmtZdTNXd0Q0amNtU0l1RWVDcUVsRW9MVHNOcC15T2s5M25kdXZUNUkyQi1DOXRlNEJEbDRwdWlkT1NVUkpvMVNrVjBhYVhiMlBORkdiZ0d5UU1NazdrX3NVbEJWVmZMRTlYRlY2elpUa25tQ1RkcmNwRzl3VkkwLXc?oc=5)
 
-2026-08-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-08-24 <span class="news-indication-tag">Adipositas</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3FXaXVqNUpTZ3RTbTYxT1JiXzZ2dUxoSHl2QkVNamFXOG9IdmExQmtrQnRfeDM5eTVxVFF2dXJSWDMtRnBvbkpzUEtKdWg5bEswakhfc09JNFdFTlJaOEdIS2FpOXhkUVN2bmU5RUJ2dDJWTDQxUmtMYnB4OFdiSkRFdFlOUk9tbDlVaG8tT3d5N1JsQ3AzSy12ekdnNzI0YURvVzFVZ25wRmlYZE5OaWxJSkstX1d1QVZxX9IBtwFBVV95cUxOSDFxMHZxd0p4S2VOcjlfckNaZ2I4dmdlVUVtcjkzQTZ2cllqVnJxRDBCTmRoS2NCeHdfMjBhQjd3dmlIZVNYQjVIdTc4aFVFOG9zTi1CRWt5YTUybFNyamVMRUo1Q0d2SC1oQkIybmVnSEpWLWp1T19SU29NMDExbU52R3F6cHBsb25zaDdfS2cydV9KRmRLbXBhRkcxYUJGVnY5OXR1YXN6dXhrWnNDSk1wbF9BNlk?oc=5)
-
----
-
-### [Mar Malagón, referente internacional en obesidad: «La ciencia debe formar parte de la estrategia de cualquier país» - Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
-
-2026-08-24 <span class="news-indication-tag">obesidad</span>
-
-來源：[Forbes España](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03clVvcm1kU0RzWVpyaW1hUVY0WVYwXy1DNDZQMVh6cklILTJTcExrUWlYUDMyU282RWxXTXpNQ0M0YVphTnBnSllLN3NZNjJPY2M0clZrMjQtcDNQSkM5ZGtWdnNvZw?oc=5)
-
----
-
-### [Macrophage 'molecular scissors' may drive obesity-linked inflammation and metabolic damage - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
-
-2026-08-23 <span class="news-indication-tag">obesity</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkhlaUlENHhBTWJTMzhSdUZXLTFnTkpRNFhEVXZMOWlNV0sxdmlPUnNUZzI0eUhSeGNJOHEtR0hCX0RCcjNaRU5FUFVQd0FibjFZcHNwZFZvaDVIUEk1REtMWUhQWGVNM1JnV3JpMFYyNDRSUWJMZGlONU5xMVROWjNHaE9DOHczTWdmNHhQbHU4Zw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQODFGZDVmREgzbGVDbnV5S25zVG10eU5TZGJ1Nlh6UkU3M01pUkpNenhkQjFLQmtZdTNXd0Q0amNtU0l1RWVDcUVsRW9MVHNOcC15T2s5M25kdXZUNUkyQi1DOXRlNEJEbDRwdWlkT1NVUkpvMVNrVjBhYVhiMlBORkdiZ0d5UU1NazdrX3NVbEJWVmZMRTlYRlY2elpUa25tQ1RkcmNwRzl3VkkwLXc?oc=5)
 
 ---
 
