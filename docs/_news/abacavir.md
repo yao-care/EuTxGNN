@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abacavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Allarme vaccinazioni, la Sardegna in coda alla classifica: a rischio l’immunizzazione contro epatite, tetano e morbillo - La Nuova Sardegna](https://news.google.com/rss/articles/CBMikAJBVV95cUxObTJ3SkMxcjhfc0lyVzJrWnh2NVZKSlNOTGRCWlJJUWUzeEJZWVlsUFEyT1ZQcFNqRkdyLU8zUG9ZQmdKQUhldXZtVEpWVVBkdjZvV2NvcGw1SGtROXVtSnNkOHVtTXkzbnhfRWk2OTk5NlFlN3ZMREJyN0k4ajF6Yl8tSjlZR2pyaS1RX0xibWtuZURwRVZDN3I1RTMxUUE0cHB4bHBQRUtSbFI0cHh3bXNmVEdwQ19jSGswVFJJQ0RpdjBwazBiNmFvdDZPck1KZW5aeFNmRmY5RzJYME1pTE9POEVabzFYOS1xNU11SFhXRXVJa1Rqc0tnUy1WRzEybEJCRjcyNTQyd2YtZWhZcQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">epatite</span>
+
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMikAJBVV95cUxObTJ3SkMxcjhfc0lyVzJrWnh2NVZKSlNOTGRCWlJJUWUzeEJZWVlsUFEyT1ZQcFNqRkdyLU8zUG9ZQmdKQUhldXZtVEpWVVBkdjZvV2NvcGw1SGtROXVtSnNkOHVtTXkzbnhfRWk2OTk5NlFlN3ZMREJyN0k4ajF6Yl8tSjlZR2pyaS1RX0xibWtuZURwRVZDN3I1RTMxUUE0cHB4bHBQRUtSbFI0cHh3bXNmVEdwQ19jSGswVFJJQ0RpdjBwazBiNmFvdDZPck1KZW5aeFNmRmY5RzJYME1pTE9POEVabzFYOS1xNU11SFhXRXVJa1Rqc0tnUy1WRzEybEJCRjcyNTQyd2YtZWhZcQ?oc=5)
+
+---
 
 ### [HPV, Hepatitis B, Melanom: Welche Krebsimpfstoffe es gibt – und warum ein universeller Impfstoff unrealistisch ist](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXRMR09JSGx1MzNuaWtlb194dFJUb2RCODgxYm9OdkFNallXWEo5a0tSSE1uakhXa0hmZXlNd0RDSW1tU0paLUtkWk1zOVZpWS1zYjZoaG5uYjE4Nk81WUduSXBKUzVMakNFWTlmRFZOVFVtbmtEQW1oMENaSW5nYUtCNHJoaS1yUnZKSG9MNHRjZFdyN2psWm1jWE9SYW10Vm10dE4ydzNZVXJQTWc?oc=5)
 

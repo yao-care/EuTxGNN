@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Millions of Brits have NO idea their daily habits risk dementia and are ‘missing the chance’ to stop it - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
+
+2026-08-25
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
+
+---
 
 ### [Three ways to boost brain sharpness - The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzEwajhJVWM1elJrODVXS0lqbS03ZGktVElUTkdSMHhhdm1GVWhmZ1BZclJwVHlVZjhQdk85Z3hqTG5sNG9uR3NKdlluQjcyVl9maUpOZnM4cDNtdHlzVWl2UmdwVWlXM1FhdXgxVUhWMTdDR1NDeDdlTHMyNEduNGVPS0NCX2xtOTdVSFRwN1hHNy04eHh6MFI5SGJrc2FQbks3UGxCbw?oc=5)
 

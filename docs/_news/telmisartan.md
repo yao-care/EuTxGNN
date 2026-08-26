@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Nicotine vapes best chance to quit smoking, major review finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
+
+2026-08-25 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
+
+---
+
+### [Aurelio Rojas, cardiólogo: "El café nos puede ayudar a mejorar la salud, es bueno para el corazón, para el cerebro y para el metabolismo; los beneficios empiezan a verse a partir de dos o tres tazas"](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaFowSWdpR0g0bmExRFdORlJ0aGR1S1Y4TFlxcVlpcVlHbG5QQzRfYnZkVm1jcVBCZExSVmpNUUN4Sk5JNm9GMUdvY2lZUFBwSUVxN1FZMi1ieU43c19SYmV6YUJfQTFOTl9PVnduTjZ6R1NJTDlxMFlod2Z4aGVDWUxJbk5vVEtWQzVfWkhoWEtacGdiYTFINUNlMHE4R1pzQzlJS1BvdEY1bnIyYjNCbXdCTno1dVNFOUR1N25rVlYwYWZ5T2N1cnR2ZHdGd2lXOHJDZ3E0d2Z5TmdESmFxaWtJUXlVbmlyaDEzTVFyMmNQVUNfR2hwLUh5YmtEb3pLbzdQdUxKbVExdm84OURpMy1Ld25oU3hQSGlNaHZ0NUpKSmNkeXltVE5n0gGvAkFVX3lxTE1ZNGhsMlZ5ckZJVlVULXZRc09TaEg2aFM5VHN1NkUzS1JOQV8yRWVERU9OdFkwM040T0pnaXNubkpaVDRSMzVIOFM2MGoyVkVxMUlXTUliM0NmQmlvTWlYeGl4UVFnZGZ4M2NmVDJ4US1GaGU2QVNMeHhkQnkxeGdPMlBzSUcyMjdSNlVnbW5xcFN1SmRNdGR4NG1YS2k3cUFjY2UyWWVYNUJXRHB5LUJGRktmUDd5b2x6ZFQ0V2I5d3hsNWVyYmhhZmFHNnZ3TDJIVHliTThveml5MElwaGtKYWNfUVA5dEZRbG1Pd2l1TEVUZUNRVEphcVVpdUQ4UGlVUjZ0NlRMc0h1U3gwM0RxZG1XREwwSXcxNXFDSkFyVDlrOC1DWndKRExqamVyZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaFowSWdpR0g0bmExRFdORlJ0aGR1S1Y4TFlxcVlpcVlHbG5QQzRfYnZkVm1jcVBCZExSVmpNUUN4Sk5JNm9GMUdvY2lZUFBwSUVxN1FZMi1ieU43c19SYmV6YUJfQTFOTl9PVnduTjZ6R1NJTDlxMFlod2Z4aGVDWUxJbk5vVEtWQzVfWkhoWEtacGdiYTFINUNlMHE4R1pzQzlJS1BvdEY1bnIyYjNCbXdCTno1dVNFOUR1N25rVlYwYWZ5T2N1cnR2ZHdGd2lXOHJDZ3E0d2Z5TmdESmFxaWtJUXlVbmlyaDEzTVFyMmNQVUNfR2hwLUh5YmtEb3pLbzdQdUxKbVExdm84OURpMy1Ld25oU3hQSGlNaHZ0NUpKSmNkeXltVE5n0gGvAkFVX3lxTE1ZNGhsMlZ5ckZJVlVULXZRc09TaEg2aFM5VHN1NkUzS1JOQV8yRWVERU9OdFkwM040T0pnaXNubkpaVDRSMzVIOFM2MGoyVkVxMUlXTUliM0NmQmlvTWlYeGl4UVFnZGZ4M2NmVDJ4US1GaGU2QVNMeHhkQnkxeGdPMlBzSUcyMjdSNlVnbW5xcFN1SmRNdGR4NG1YS2k3cUFjY2UyWWVYNUJXRHB5LUJGRktmUDd5b2x6ZFQ0V2I5d3hsNWVyYmhhZmFHNnZ3TDJIVHliTThveml5MElwaGtKYWNfUVA5dEZRbG1Pd2l1TEVUZUNRVEphcVVpdUQ4UGlVUjZ0NlRMc0h1U3gwM0RxZG1XREwwSXcxNXFDSkFyVDlrOC1DWndKRExqamVyZw?oc=5)
+
+---
 
 ### [Breakthrough Stroke in AF Linked to Drug Interactions](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
 
@@ -83,6 +99,14 @@ permalink: /news/telmisartan/
 2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
+
+---
+
+### [Ce symptôme dans l’œil peut annoncer un AVC : comment repérer les signes rapidement - Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
+
+2026-08-23 <span class="news-indication-tag">AVC</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJqcU54anFjX0FTeklwb0xNM1ZDTlVVLVZOQ05aaDZDV2lqVmM3U1dmeHpJLW54UVdLVkpCQVFfNm5jdnEwY01TbmZUb21DOGRzX1VGMmFiVVBTODhoY0hhNzhzSW5MX1VfWWtOUW5FQ0g0YmFMMExaZlV0UU1LYQ?oc=5)
 
 ---
 

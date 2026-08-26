@@ -14,7 +14,7 @@ permalink: /news/denosumab/
 ---
 
 <p class="key-answer" data-question="Denosumab 有什麼相關新聞？">
-<strong>Denosumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Denosumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/denosumab/
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
 
-### [Todo este tiempo hemos abordado mal los tratamientos para la diabetes](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
+### [Millones de personas con diabetes podrían estar recibiendo tratamientos que no les corresponde](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
 
 2026-08-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
-
----
-
-### [El sexo y la edad determinan las potenciales complicaciones de la diabetes tipo 2 - Tribuna de Soria.](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2IwQ3FCdHlXcUhpSHJZU1F4QWRMZHB5VWNjQkF1Y1Z2OEM4OWVRWVVnWFBaNm92UEtOS0V2Vk5uNWJjbUUzRTFOSHNDa2Q2NFF2YXhYS3E2M0sxZDIwOG10ekd3ci10b1Z0Y043WUIwTjdnT1d1QTF0amt2YVVud0ZhNlRidjN6Nm9QWThKWEtULUthd0M1QTZjakRmU3F0eDdfTVVBb1FiRmliT3FmQUQ1LWNoM0x0YmdKQV83VlVLVGdx?oc=5)
-
-2026-08-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Tribuna de Soria.](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2IwQ3FCdHlXcUhpSHJZU1F4QWRMZHB5VWNjQkF1Y1Z2OEM4OWVRWVVnWFBaNm92UEtOS0V2Vk5uNWJjbUUzRTFOSHNDa2Q2NFF2YXhYS3E2M0sxZDIwOG10ekd3ci10b1Z0Y043WUIwTjdnT1d1QTF0amt2YVVud0ZhNlRidjN6Nm9QWThKWEtULUthd0M1QTZjakRmU3F0eDdfTVVBb1FiRmliT3FmQUQ1LWNoM0x0YmdKQV83VlVLVGdx?oc=5)
 
 ---
 
@@ -86,27 +78,11 @@ permalink: /news/denosumab/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Demenzrisiko um 43%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
-
-2026-08-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
-
----
-
 ### [Dimagrire consumando più energia: la nuova frontiera contro obesità e diabete parte da una molecola degli anni Settanta](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
 
 2026-08-25 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
-
----
-
-### [Diabetes y desayuno: cuándo conviene comer para mantener la glucosa estable](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlFLWZwN0JwR2ZUbU5VcmVYRjBYVzlDNkNDUmlYa3Z1bGlwVUlTUTdQWGluZ3psMEk4SVgwam9XMUVHTExDb2VzOGhPY0tRMDd6ZjIwQUNCUlJKVks4aWE0N2pHaEYyWWJEejF1bXg5MmVHUjcwUXJwU2d2OFU3OU1WbVFMWXBNNzhYVWVrdXUzcUd6aV9jNHFBcWJqRGNndHJmMmVVSmpZX3FxRUVBWXQ0SnJwUTTSAdIBQVVfeXFMTzZUUldKY0ZyY0tZMzFzNXNrVFZPb2R0NGFYWHNNRHRZdzF2dkFsa0hPa0pxaWJiZHlEQ0VFUHBLRURWTkg4eVBjXzlmQWpNSnljODUxSllkMHhTYWJqcERtU00zOHY2a19nbTR3MFdiSjdRLUNxTnkzbWRaS2VVSTUwWGVXZnVySkM5X244NFFLN0pBcDE3bVlCelhtQ2l6TDRVT3gyMDU2SnE2WjBTQ3pOcEJ0cDE3dkF4OUZOREdhb0VJWjBzSGpyODlxRlBoX3BR?oc=5)
-
-2026-08-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlFLWZwN0JwR2ZUbU5VcmVYRjBYVzlDNkNDUmlYa3Z1bGlwVUlTUTdQWGluZ3psMEk4SVgwam9XMUVHTExDb2VzOGhPY0tRMDd6ZjIwQUNCUlJKVks4aWE0N2pHaEYyWWJEejF1bXg5MmVHUjcwUXJwU2d2OFU3OU1WbVFMWXBNNzhYVWVrdXUzcUd6aV9jNHFBcWJqRGNndHJmMmVVSmpZX3FxRUVBWXQ0SnJwUTTSAdIBQVVfeXFMTzZUUldKY0ZyY0tZMzFzNXNrVFZPb2R0NGFYWHNNRHRZdzF2dkFsa0hPa0pxaWJiZHlEQ0VFUHBLRURWTkg4eVBjXzlmQWpNSnljODUxSllkMHhTYWJqcERtU00zOHY2a19nbTR3MFdiSjdRLUNxTnkzbWRaS2VVSTUwWGVXZnVySkM5X244NFFLN0pBcDE3bVlCelhtQ2l6TDRVT3gyMDU2SnE2WjBTQ3pOcEJ0cDE3dkF4OUZOREdhb0VJWjBzSGpyODlxRlBoX3BR?oc=5)
 
 ---
 
@@ -142,11 +118,11 @@ permalink: /news/denosumab/
 
 ---
 
-### [Typ-2-Diabetes bei Kindern: Inzidenz in 20 Jahren stark gestiegen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0F1Q2hLYXl0SXFpbFRBZjBLVHZ2WDVkYVNQZ1VUVVBqeVZjQVltZ2E4dkdZN0dLYlZZWXBQTVFLM0RnaWdoX0ZtVFZ2bTlvcFdZSnVPSERheFdQaXhEc2JPNWxZeGlzSExGRWJ1enBrcFoxT2ktdDFqbjZ3azVrbjRubVYwREg4VTFEMmpqOC00N19aV25oUGFrRGQ?oc=5)
+### [Typ-2-Diabetes bei Jugendlichen nimmt zu: Besorgniserregender Trend auch in Deutschland](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
 
-2026-08-24 <span class="news-indication-tag">diabetes</span>
+2026-08-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0F1Q2hLYXl0SXFpbFRBZjBLVHZ2WDVkYVNQZ1VUVVBqeVZjQVltZ2E4dkdZN0dLYlZZWXBQTVFLM0RnaWdoX0ZtVFZ2bTlvcFdZSnVPSERheFdQaXhEc2JPNWxZeGlzSExGRWJ1enBrcFoxT2ktdDFqbjZ3azVrbjRubVYwREg4VTFEMmpqOC00N19aV25oUGFrRGQ?oc=5)
+來源：[MDR.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
 
 ---
 

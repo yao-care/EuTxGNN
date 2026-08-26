@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Wie du mit Psychobiotika deine Seele unterstützen kannst – 12 Tipps für den Alltag - Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2g2X1hIcDBLSXVsUGhiaTdxNVdBMUZGQlpEbE9WR3lUb2Q1c240OHN1Mjd6RkVKMDhJaXA5OUR5QjY3RklvVjhXLWUydG00VXVOeFJ3RHE1ek1wck45ZlJ1OXBtOS1TZjV2cEllcGM5S2RCcjdSTk1DQU0xRFN6ZXhaWE8xM1lHb2k1WXNQSHB0aElNWXItc040cEs1R0FHUjFOaw?oc=5)
 
 2026-08-25
 
 來源：[Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2g2X1hIcDBLSXVsUGhiaTdxNVdBMUZGQlpEbE9WR3lUb2Q1c240OHN1Mjd6RkVKMDhJaXA5OUR5QjY3RklvVjhXLWUydG00VXVOeFJ3RHE1ek1wck45ZlJ1OXBtOS1TZjV2cEllcGM5S2RCcjdSTk1DQU0xRFN6ZXhaWE8xM1lHb2k1WXNQSHB0aElNWXItc040cEs1R0FHUjFOaw?oc=5)
-
----
-
-### [“Pensavo a tutti i modi in cui mio figlio sarebbe potuto morire mentre lavoravo. Dopo il parto mi sono sentita una madre fallita, ho chiesto un ricovero in psichiatria”: così Alyssa Milano - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPN2huNVVKTlI3R3JXLVY3dnhFWXUxc2Y3dWhtMFdhMWxkOHFlVVFLWVJwYm9DdVJHSjlQVW9kVEZ6QzNVOVNNTC15UUR1RzFYNEo3Q29YOXZZQlpLTDloaWVCWUhUSmV5VkdiMzJxdkJQN1J3LS1ON3pGN0Z6cEx6b083NFlqTzNGc2hIVU51dXRwUldJWXVXblEySlhZRXUwaEgwRjR4RmVxMnJCSEVTUXpWcG5vWUFHcEdJTlhscUNOUFBVbFcwUGM3MGNHSFlNRWRvN0hVbDM1clBkYnRGS1U2OVB1S293Z0xKNDlNalJQLVhxQUxWTm1aQlFjeWgzbFFOUXljcUJuVEFnUk1wdVhlb0lOM0xSWjNoamxIeGVtU3ViYTRsUmJ5ZXZ0YlhjNjNRUktoc3VyRFA2Y3VzZE0tb1UwQzNUSmltUkJITHlFRzZwcHRr?oc=5)
-
-2026-08-25
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPN2huNVVKTlI3R3JXLVY3dnhFWXUxc2Y3dWhtMFdhMWxkOHFlVVFLWVJwYm9DdVJHSjlQVW9kVEZ6QzNVOVNNTC15UUR1RzFYNEo3Q29YOXZZQlpLTDloaWVCWUhUSmV5VkdiMzJxdkJQN1J3LS1ON3pGN0Z6cEx6b083NFlqTzNGc2hIVU51dXRwUldJWXVXblEySlhZRXUwaEgwRjR4RmVxMnJCSEVTUXpWcG5vWUFHcEdJTlhscUNOUFBVbFcwUGM3MGNHSFlNRWRvN0hVbDM1clBkYnRGS1U2OVB1S293Z0xKNDlNalJQLVhxQUxWTm1aQlFjeWgzbFFOUXljcUJuVEFnUk1wdVhlb0lOM0xSWjNoamxIeGVtU3ViYTRsUmJ5ZXZ0YlhjNjNRUktoc3VyRFA2Y3VzZE0tb1UwQzNUSmltUkJITHlFRzZwcHRr?oc=5)
 
 ---
 
