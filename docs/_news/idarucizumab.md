@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+2026-08-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+---
+
+### [Could a 20-Year-Old Drug Repair Cartilage Damaged by Osteoarthritis? A Yale Study Suggests It Can](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+
+---
 
 ### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 

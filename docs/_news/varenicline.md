@@ -54,19 +54,19 @@ permalink: /news/varenicline/
 
 ## 相關新聞（2 則）
 
+### [Bluthochdruck: Wirksame Pflanzenstoffe zur Prävention & Behandlung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN05LRHFZbDhlbTlnM2FhZmpZdEc4NjFnVzNMM3RieU9kb2g3NnI5U0NNN0xobjBodHBiREo1T1cwOWpUWi1GcGFuWmJ6a2U5VEQ0WXRrNXNPQk1xaGVwSlNGX25iRlNETDNXV1AxMW1oZzhET0dRUEtzbTU0UUk3WEs4cHpnSFRaZ1dwSjE3b21pSmJkWktNQmtoaU11cHl4LUhRa2Y4LTF6V3ltREJ2UTNMRDNjU2h1SXZydWphWll6ams?oc=5)
+
+2026-08-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN05LRHFZbDhlbTlnM2FhZmpZdEc4NjFnVzNMM3RieU9kb2g3NnI5U0NNN0xobjBodHBiREo1T1cwOWpUWi1GcGFuWmJ6a2U5VEQ0WXRrNXNPQk1xaGVwSlNGX25iRlNETDNXV1AxMW1oZzhET0dRUEtzbTU0UUk3WEs4cHpnSFRaZ1dwSjE3b21pSmJkWktNQmtoaU11cHl4LUhRa2Y4LTF6V3ltREJ2UTNMRDNjU2h1SXZydWphWll6ams?oc=5)
+
+---
+
 ### [Emicrania, la nuova cura costa centinaia di euro: quanto vale davvero?](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWQycWdYZzBtQXgwQTF5Y0VfTXEzb0tJUGhKUFdOMnJWUGFyRDBRMElRVGN6RXhVVTNRTnF1V09hbzFHOFlzOUsyZ1RPQW1qcTdHX2pfbkJmb1ZmRGdqQVI5bUp6QUhnYk9hWEZDVnBNOHZXdWJ5MHJOaHhjWERBWExFTURpa2dHejdHRFdNamd1U1Vab3ZGY3VPbE5hczFlaUlESUYxc3psSzdLcHpxdkEyaDRwQ25abHU5MVhiY2QycE9md0E?oc=5)
 
 2026-08-25 <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWQycWdYZzBtQXgwQTF5Y0VfTXEzb0tJUGhKUFdOMnJWUGFyRDBRMElRVGN6RXhVVTNRTnF1V09hbzFHOFlzOUsyZ1RPQW1qcTdHX2pfbkJmb1ZmRGdqQVI5bUp6QUhnYk9hWEZDVnBNOHZXdWJ5MHJOaHhjWERBWExFTURpa2dHejdHRFdNamd1U1Vab3ZGY3VPbE5hczFlaUlESUYxc3psSzdLcHpxdkEyaDRwQ25abHU5MVhiY2QycE9md0E?oc=5)
-
----
-
-### [L’emicrania lascia una firma nel sangue: coinvolte dieci proteine e il metabolismo dei grassi](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
 
 ---
 

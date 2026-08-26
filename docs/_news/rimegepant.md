@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,21 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
+
+### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+
+2026-08-26 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+
+---
 
 ### [Emicrania, la nuova cura costa centinaia di euro: quanto vale davvero?](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWQycWdYZzBtQXgwQTF5Y0VfTXEzb0tJUGhKUFdOMnJWUGFyRDBRMElRVGN6RXhVVTNRTnF1V09hbzFHOFlzOUsyZ1RPQW1qcTdHX2pfbkJmb1ZmRGdqQVI5bUp6QUhnYk9hWEZDVnBNOHZXdWJ5MHJOaHhjWERBWExFTURpa2dHejdHRFdNamd1U1Vab3ZGY3VPbE5hczFlaUlESUYxc3psSzdLcHpxdkEyaDRwQ25abHU5MVhiY2QycE9md0E?oc=5)
 
 2026-08-25 <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWQycWdYZzBtQXgwQTF5Y0VfTXEzb0tJUGhKUFdOMnJWUGFyRDBRMElRVGN6RXhVVTNRTnF1V09hbzFHOFlzOUsyZ1RPQW1qcTdHX2pfbkJmb1ZmRGdqQVI5bUp6QUhnYk9hWEZDVnBNOHZXdWJ5MHJOaHhjWERBWExFTURpa2dHejdHRFdNamd1U1Vab3ZGY3VPbE5hczFlaUlESUYxc3psSzdLcHpxdkEyaDRwQ25abHU5MVhiY2QycE9md0E?oc=5)
-
----
-
-### [L’emicrania lascia una firma nel sangue: coinvolte dieci proteine e il metabolismo dei grassi](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXpfMGFvZVo5X0tGamNrNENNMDFmaklpdW5hdGtoVEpYU0RaTFJoMmtpb0JLVElZbWpJYWNkME9RbHBwQ2FkQ0Y0dE9YWXQwUnRSU2tZSzdDV3kwa04wS2lpbnAxSzRrSGl2dnF1RUFJRFBkMTlMQjRvcExRcVYwSl9abndsZFlCYU5Fb3gwSExRYW1QZmJnZEF2LWZLNEpfWDJhSzFmTmxfSi00eXJtcWlwbEZidlZ0QXEzN1ZRWlFnZ1JvOEVENlJXUEpJbVlwWllsdW5GUEF4MUJFTFdHTmZ6bWx2QQ?oc=5)
-
----
-
-### [Doctors and scientists race to understand a rising form of heart failure - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
-
-2026-08-24 <span class="news-indication-tag">heart failure</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlJ5b1N3dktnemNFMjRlTldTTVAySElaN1lFMVQteGkyQ0RBSGFkdS1ZQ2JaamtZbmFjLXoyaWRtRkt6VEgtQU1Wamk2Q2diUHJZSThLSElxa3A1amRUeVJsTmpxMWdvamNiUWFfYnFZTHR6REJwRHpaM3NGWDNMWUpn?oc=5)
-
----
-
-### [Derrière un cas de cholestérol sanguin élevé, un demi-siècle d’erreur de diagnostic - Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
 
 ---
 

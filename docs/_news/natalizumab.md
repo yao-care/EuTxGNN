@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li>psoriasis（99.2%）</li>
+<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -52,7 +52,23 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [La diabetes tipo 2 no es igual para todos: ellas sufren más la salud mental y ellos el corazón y el riñón - El Economista](https://news.google.com/rss/articles/CBMilgJBVV95cUxOdEoyWWVkVnBrbDJDa3YxZmJoX3ZnLVNOYWZhSWp1ZmpSTkNwMWNHOHIxRmc3QUowQ0tteF9RTzBhZ3NQeHIwcTA5TjQ1S3Bfa2gzNEFuLTVTaFZXMzdmdUUzSE9nSE5ONFgzNG1HSXJEaU1HZnNvQ0ZnOW9rQlRtUDNKWC1XcmZHWHNPRy1rQmtlbl9MOTVpNFg0RUR2alZWRS1ETThpSUo1ZXcxdnQtcGNReHUxaVNJMWVnZTl0aU5vRVlOY2FvQ2plckZNNTE0RGJ0T1Rqa3U4WUtHWnhzVXRoZVVIYzZqZnpCcHZvcFpESnRfV1N4ZlQ3MWpPbkVNUEU3d2I4SnlueHFvdFgwZDJNdzRKd9IBgAJBVV95cUxNb3BPYXNRVHBaT2tUYTJJeHhlQ0owZnhlbjRxRy1xYk1pMzBCYjZ2WkZKVDhVVzE0Rmh6T0w2ZzlUR2ZydXhFbWNzQWJuRXpFdjdfTndaaXhsVXBtbnQzdHZYeDE5UzFIYl9qNm5tWHViajBITUR0ZURHbjJKbVl3VU5KRUU4Vkc2SWJHLTE3Y0JVVzVDeVptQzZ5QmVkSXptdWl0eXlpaGFLUE5lUnY1ZDJpalJTTndsQUl1WDg5cTB0SXRfUER6NDRWUUVzUDZfY0ZkOXZyR0J2NjFSR3VZTXozNERwUjdDOVZBN0pUa2gwOTJadEFqYjN6Z0JGUjZy?oc=5)
+
+2026-08-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMilgJBVV95cUxOdEoyWWVkVnBrbDJDa3YxZmJoX3ZnLVNOYWZhSWp1ZmpSTkNwMWNHOHIxRmc3QUowQ0tteF9RTzBhZ3NQeHIwcTA5TjQ1S3Bfa2gzNEFuLTVTaFZXMzdmdUUzSE9nSE5ONFgzNG1HSXJEaU1HZnNvQ0ZnOW9rQlRtUDNKWC1XcmZHWHNPRy1rQmtlbl9MOTVpNFg0RUR2alZWRS1ETThpSUo1ZXcxdnQtcGNReHUxaVNJMWVnZTl0aU5vRVlOY2FvQ2plckZNNTE0RGJ0T1Rqa3U4WUtHWnhzVXRoZVVIYzZqZnpCcHZvcFpESnRfV1N4ZlQ3MWpPbkVNUEU3d2I4SnlueHFvdFgwZDJNdzRKd9IBgAJBVV95cUxNb3BPYXNRVHBaT2tUYTJJeHhlQ0owZnhlbjRxRy1xYk1pMzBCYjZ2WkZKVDhVVzE0Rmh6T0w2ZzlUR2ZydXhFbWNzQWJuRXpFdjdfTndaaXhsVXBtbnQzdHZYeDE5UzFIYl9qNm5tWHViajBITUR0ZURHbjJKbVl3VU5KRUU4Vkc2SWJHLTE3Y0JVVzVDeVptQzZ5QmVkSXptdWl0eXlpaGFLUE5lUnY1ZDJpalJTTndsQUl1WDg5cTB0SXRfUER6NDRWUUVzUDZfY0ZkOXZyR0J2NjFSR3VZTXozNERwUjdDOVZBN0pUa2gwOTJadEFqYjN6Z0JGUjZy?oc=5)
+
+---
+
+### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+2026-08-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+---
 
 ### [Millones de personas con diabetes podrían estar recibiendo tratamientos que no les corresponde](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
 
@@ -78,6 +94,14 @@ permalink: /news/natalizumab/
 
 ---
 
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Demenzrisiko um 43%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
+
+---
+
 ### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">copd</span>
@@ -94,11 +118,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Blood sugar running high despite cutting back on sweets? Doctors explain 5 nutrients that may help your body manage glucose better - The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+### [Diabetes y desayuno: cuándo conviene comer para mantener la glucosa estable](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlFLWZwN0JwR2ZUbU5VcmVYRjBYVzlDNkNDUmlYa3Z1bGlwVUlTUTdQWGluZ3psMEk4SVgwam9XMUVHTExDb2VzOGhPY0tRMDd6ZjIwQUNCUlJKVks4aWE0N2pHaEYyWWJEejF1bXg5MmVHUjcwUXJwU2d2OFU3OU1WbVFMWXBNNzhYVWVrdXUzcUd6aV9jNHFBcWJqRGNndHJmMmVVSmpZX3FxRUVBWXQ0SnJwUTTSAdIBQVVfeXFMTzZUUldKY0ZyY0tZMzFzNXNrVFZPb2R0NGFYWHNNRHRZdzF2dkFsa0hPa0pxaWJiZHlEQ0VFUHBLRURWTkg4eVBjXzlmQWpNSnljODUxSllkMHhTYWJqcERtU00zOHY2a19nbTR3MFdiSjdRLUNxTnkzbWRaS2VVSTUwWGVXZnVySkM5X244NFFLN0pBcDE3bVlCelhtQ2l6TDRVT3gyMDU2SnE2WjBTQ3pOcEJ0cDE3dkF4OUZOREdhb0VJWjBzSGpyODlxRlBoX3BR?oc=5)
 
 2026-08-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[The Times of India](https://news.google.com/rss/articles/CBMiowJBVV95cUxObHJEbE15OFFTRWh5ZFliLTIzRVVmaG1MY2QzWEk0dzliM3hBX2xhcmRwbHJhb3NPN0I3akVPZzdDQVFSSFBtaERrYmpkemVwUGlxWVNobWRmdVRlOVpZdUVMY1NzdnVpMGticTZBa0k1bTlOWlFVd1VJUjVnT202bjNEQzdwY3pRXzFfQjVrUzFRTDdiQ21XNzlrZktWdndpTmZMV1A4QXF2Y29MMU1uVlFEYURZQl9ZQlpOMkcxS0tsSHVjV1NjRFJrNjNhOEowZ1BGdjM2NnVUYXRLTy1kZ2llTXNReHFJaXNPMWxGcGtfUkVYYk9taEtJeWZNZy1kaEFLZEFzZlVFVmlWYnN4TllQX25pQ1psb3JmbWZYd25BcmPSAasCQVVfeXFMT0pWSkNjVURNOEhDcnNvZWlIRHhydU9QMDBaUzJzRE1rUllpcm96RmJiM2hhTmRERDlXYzRLbmtHU3hiNmV5LWZHNTdFcWJ2cGw1WnhoOFF0UF9jWTVIMUdFZzVLZVROT1ZoNHUtczdzTE5BTmRkOWh4Rm53TG5HUk9ZTG1YR3p2X2FuVzJRMjdyZ3QyVmtLWkdxZlh4WDJwaHdPVmgzeWtmdHE3UjNGUGl4d2duTXNhZEFiMHZiSlRNcDFzVENXeTB0MXhvVTlCU1lfNjRnYnZPWE5hVTBKelJZSktWa0l1UEdkcmpqdXNfQ2dGWG1MTXM3NldlMUtJSjUtekpFTDB6U0NmZ2pBSmk5MUtLdHlPaG4tWDJFZVFhdkdvRzZaR2s2TFk?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlFLWZwN0JwR2ZUbU5VcmVYRjBYVzlDNkNDUmlYa3Z1bGlwVUlTUTdQWGluZ3psMEk4SVgwam9XMUVHTExDb2VzOGhPY0tRMDd6ZjIwQUNCUlJKVks4aWE0N2pHaEYyWWJEejF1bXg5MmVHUjcwUXJwU2d2OFU3OU1WbVFMWXBNNzhYVWVrdXUzcUd6aV9jNHFBcWJqRGNndHJmMmVVSmpZX3FxRUVBWXQ0SnJwUTTSAdIBQVVfeXFMTzZUUldKY0ZyY0tZMzFzNXNrVFZPb2R0NGFYWHNNRHRZdzF2dkFsa0hPa0pxaWJiZHlEQ0VFUHBLRURWTkg4eVBjXzlmQWpNSnljODUxSllkMHhTYWJqcERtU00zOHY2a19nbTR3MFdiSjdRLUNxTnkzbWRaS2VVSTUwWGVXZnVySkM5X244NFFLN0pBcDE3bVlCelhtQ2l6TDRVT3gyMDU2SnE2WjBTQ3pOcEJ0cDE3dkF4OUZOREdhb0VJWjBzSGpyODlxRlBoX3BR?oc=5)
 
 ---
 
@@ -131,14 +155,6 @@ permalink: /news/natalizumab/
 2026-08-24 <span class="news-indication-tag">BPCO</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdodDhVdzVTbHFGUGIyRG1aUmE0TEJaNWFWaEF5bW9WS2tiVUkyRl9vSVBMWklIQ1dick9SejhCWDlHYnZ0VmlrWGxuVEhMZlNRejA1a1c2LXFkeGFzTnZ2VWhHLVg4OXh4T2E0NkxHZ3U2ZnoxX2JvbElSd09OYURfVFZaZ3BfMk5vWmRjUXFrYWRYMHZ0RjhjbWNoaDJtekV3TWRpQ3dfV0ZFS2JmRkQzTllxeW9wazVtXzJSVkxGNk5yb2Z1Q2FRLVBnREE?oc=5)
-
----
-
-### [Typ-2-Diabetes bei Jugendlichen nimmt zu: Besorgniserregender Trend auch in Deutschland](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
-
-2026-08-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[MDR.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
 
 ---
 

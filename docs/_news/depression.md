@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,29 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Wie du mit Psychobiotika deine Seele unterstützen kannst – 12 Tipps für den Alltag - Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2g2X1hIcDBLSXVsUGhiaTdxNVdBMUZGQlpEbE9WR3lUb2Q1c240OHN1Mjd6RkVKMDhJaXA5OUR5QjY3RklvVjhXLWUydG00VXVOeFJ3RHE1ek1wck45ZlJ1OXBtOS1TZjV2cEllcGM5S2RCcjdSTk1DQU0xRFN6ZXhaWE8xM1lHb2k1WXNQSHB0aElNWXItc040cEs1R0FHUjFOaw?oc=5)
+### [Wie du mit Psychobiotika deine Seele unterstützen kannst – 12 Tipps für den Alltag - Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFlDbmlJQ1VZcmJmcWRUZXZyOFdfYWFDaXg1ano1NTNCNDZUSU10R0hJaUZVZE9OY3kwb3RrY04ySVFZZXNMSXFRYXRndm91ZFBuNWpwOUhhZk5DLUVCUUotbUR4T2hRMEluQnNTTjY1OEMyZTQxV0JoUWZGbFp2Q01xbTVDYno2SHJYc2ZLd0lnY1pCMjF3OE5GamhvXy10c0Y0dQ?oc=5)
+
+2026-08-26
+
+來源：[Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFlDbmlJQ1VZcmJmcWRUZXZyOFdfYWFDaXg1ano1NTNCNDZUSU10R0hJaUZVZE9OY3kwb3RrY04ySVFZZXNMSXFRYXRndm91ZFBuNWpwOUhhZk5DLUVCUUotbUR4T2hRMEluQnNTTjY1OEMyZTQxV0JoUWZGbFp2Q01xbTVDYno2SHJYc2ZLd0lnY1pCMjF3OE5GamhvXy10c0Y0dQ?oc=5)
+
+---
+
+### [Un estudio relaciona la falta de ejercicio en jóvenes con mayores posibilidades de sufrir trastornos mentales como depresión y ansiedad - La Vanguardia](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaWMtX2Rva0FRekZ4TjEyaWhVeWtFalNCRFlyZ01tS3ZQLVpVMlJNNG1pRk5BYlhuOGJsSjg3WUJxN2t5RGU2cElnVEU4ZVBhRUlKMEVFWjJGSVJqMGg2STdIc1d2YUFyam82VXYxTEZIcVJkZ21nMVZQVmtweEVzM016a29NNE00NHRMdzFkdndTVzR1QVZ0RjBHbFJnMkVfdzBEVnpGZUEwallYMVRqS1RFSDNFcTVQMWpEZFhBNVdlLWN5eE1DNmhkV2xtSnY4OGpuVklJR0ItNDZQeGlseU1iLXhFYWM0MU1VYTgwR0JMNVRPd2Nzb25acGVNVnfSAYQCQVVfeXFMTVZKUmd1WVYxQXFMdTNHZWdHVlp4X0tBckJNdGxIYnF3UXh5d2xHR29SdDVpTk5CSG5tTXdSdGwtRUhERnhYUHVKdUdlWVhUVjMwTnQ2TlNtd3pmalptdnMxT2ZqVWZpTmVna20yVXBoT2RYT2VPb1pDUFZhVEhnc1BRTjJOQzlZV1dwR01ObWpzZ2M1UThfRW0zUEY3bkphRkZWNjM0clBvRzJnUU54M1RsLWdWOU9nSWRnODlzSFlvVjlxRWFrSWJxaDJ6bURURkJKY05nTGxFRnZHblZjeHNqN1VsYmtSN1FkdnlYeGVWRUJsc3pLXy01dEZBUTRjbFRpUjg?oc=5)
+
+2026-08-26
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaWMtX2Rva0FRekZ4TjEyaWhVeWtFalNCRFlyZ01tS3ZQLVpVMlJNNG1pRk5BYlhuOGJsSjg3WUJxN2t5RGU2cElnVEU4ZVBhRUlKMEVFWjJGSVJqMGg2STdIc1d2YUFyam82VXYxTEZIcVJkZ21nMVZQVmtweEVzM016a29NNE00NHRMdzFkdndTVzR1QVZ0RjBHbFJnMkVfdzBEVnpGZUEwallYMVRqS1RFSDNFcTVQMWpEZFhBNVdlLWN5eE1DNmhkV2xtSnY4OGpuVklJR0ItNDZQeGlseU1iLXhFYWM0MU1VYTgwR0JMNVRPd2Nzb25acGVNVnfSAYQCQVVfeXFMTVZKUmd1WVYxQXFMdTNHZWdHVlp4X0tBckJNdGxIYnF3UXh5d2xHR29SdDVpTk5CSG5tTXdSdGwtRUhERnhYUHVKdUdlWVhUVjMwTnQ2TlNtd3pmalptdnMxT2ZqVWZpTmVna20yVXBoT2RYT2VPb1pDUFZhVEhnc1BRTjJOQzlZV1dwR01ObWpzZ2M1UThfRW0zUEY3bkphRkZWNjM0clBvRzJnUU54M1RsLWdWOU9nSWRnODlzSFlvVjlxRWFrSWJxaDJ6bURURkJKY05nTGxFRnZHblZjeHNqN1VsYmtSN1FkdnlYeGVWRUJsc3pLXy01dEZBUTRjbFRpUjg?oc=5)
+
+---
+
+### [Psychédéliques : peuvent-ils soigner la dépression ?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkRTMzNwVHVNZHlTNGdQenRQSzRGQzBRNmZaSE5rbmpEX2hnX085dWdmZDl0bWJfYlhFa21rWXF6VXpDRE9BY3N4dFhBTVVCYnhvYnhSUFlfa3VXRjlpQ3FaYUVOT0pyY2N4cVB1X3pwd3hjVFZnYkFydDdhTkhRNGtsNE05MUVvbWpFbTN5NVJRWVlTWC0walZLeURZOElBSWkwVF85T2c?oc=5)
 
 2026-08-25
 
-來源：[Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2g2X1hIcDBLSXVsUGhiaTdxNVdBMUZGQlpEbE9WR3lUb2Q1c240OHN1Mjd6RkVKMDhJaXA5OUR5QjY3RklvVjhXLWUydG00VXVOeFJ3RHE1ek1wck45ZlJ1OXBtOS1TZjV2cEllcGM5S2RCcjdSTk1DQU0xRFN6ZXhaWE8xM1lHb2k1WXNQSHB0aElNWXItc040cEs1R0FHUjFOaw?oc=5)
+來源：[rts.ch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkRTMzNwVHVNZHlTNGdQenRQSzRGQzBRNmZaSE5rbmpEX2hnX085dWdmZDl0bWJfYlhFa21rWXF6VXpDRE9BY3N4dFhBTVVCYnhvYnhSUFlfa3VXRjlpQ3FaYUVOT0pyY2N4cVB1X3pwd3hjVFZnYkFydDdhTkhRNGtsNE05MUVvbWpFbTN5NVJRWVlTWC0walZLeURZOElBSWkwVF85T2c?oc=5)
 
 ---
 

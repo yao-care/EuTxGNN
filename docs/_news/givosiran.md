@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Bluthochdruck: Wirksame Pflanzenstoffe zur Prävention & Behandlung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN05LRHFZbDhlbTlnM2FhZmpZdEc4NjFnVzNMM3RieU9kb2g3NnI5U0NNN0xobjBodHBiREo1T1cwOWpUWi1GcGFuWmJ6a2U5VEQ0WXRrNXNPQk1xaGVwSlNGX25iRlNETDNXV1AxMW1oZzhET0dRUEtzbTU0UUk3WEs4cHpnSFRaZ1dwSjE3b21pSmJkWktNQmtoaU11cHl4LUhRa2Y4LTF6V3ltREJ2UTNMRDNjU2h1SXZydWphWll6ams?oc=5)
+
+2026-08-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN05LRHFZbDhlbTlnM2FhZmpZdEc4NjFnVzNMM3RieU9kb2g3NnI5U0NNN0xobjBodHBiREo1T1cwOWpUWi1GcGFuWmJ6a2U5VEQ0WXRrNXNPQk1xaGVwSlNGX25iRlNETDNXV1AxMW1oZzhET0dRUEtzbTU0UUk3WEs4cHpnSFRaZ1dwSjE3b21pSmJkWktNQmtoaU11cHl4LUhRa2Y4LTF6V3ltREJ2UTNMRDNjU2h1SXZydWphWll6ams?oc=5)
+
+---
 
 ### [Allarme vaccinazioni, la Sardegna in coda alla classifica: a rischio l’immunizzazione contro epatite, tetano e morbillo - La Nuova Sardegna](https://news.google.com/rss/articles/CBMikAJBVV95cUxObTJ3SkMxcjhfc0lyVzJrWnh2NVZKSlNOTGRCWlJJUWUzeEJZWVlsUFEyT1ZQcFNqRkdyLU8zUG9ZQmdKQUhldXZtVEpWVVBkdjZvV2NvcGw1SGtROXVtSnNkOHVtTXkzbnhfRWk2OTk5NlFlN3ZMREJyN0k4ajF6Yl8tSjlZR2pyaS1RX0xibWtuZURwRVZDN3I1RTMxUUE0cHB4bHBQRUtSbFI0cHh3bXNmVEdwQ19jSGswVFJJQ0RpdjBwazBiNmFvdDZPck1KZW5aeFNmRmY5RzJYME1pTE9POEVabzFYOS1xNU11SFhXRXVJa1Rqc0tnUy1WRzEybEJCRjcyNTQyd2YtZWhZcQ?oc=5)
 

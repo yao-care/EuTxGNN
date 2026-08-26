@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Millions of Brits have NO idea their daily habits risk dementia and are ‘missing the chance’ to stop it - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
+### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
 
-2026-08-25
+2026-08-26
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+
+---
+
+### [Quarter of over-40s ‘unaware of preventable dementia risk factors’, survey finds - The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTU5JbmFsQ0hCbUpPM3hUZFJtaEFjTDFCMWdldWFlcVRnRTM5MnhyNzlPOUk1RGdLRGRUVUpRblNIUXNvNm9Iamc5Y2lRN0VSUTlqaVVObzZ0cmxZSndtZTd5cGtpaDhKdU81TFBoNXltM2FsbUpxdU5RZE50OW1TN0VYMEx0UUM4RzlNaU9QSmkzWUl0ZHQ4Y3gtWFNicmJ0bWtBX21BY1F2QW5I?oc=5)
+
+2026-08-26
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTU5JbmFsQ0hCbUpPM3hUZFJtaEFjTDFCMWdldWFlcVRnRTM5MnhyNzlPOUk1RGdLRGRUVUpRblNIUXNvNm9Iamc5Y2lRN0VSUTlqaVVObzZ0cmxZSndtZTd5cGtpaDhKdU81TFBoNXltM2FsbUpxdU5RZE50OW1TN0VYMEx0UUM4RzlNaU9QSmkzWUl0ZHQ4Y3gtWFNicmJ0bWtBX21BY1F2QW5I?oc=5)
 
 ---
 

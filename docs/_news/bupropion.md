@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Kolorektales Karzinom | Mit Adipositas drei Jahre früher zum Darmkrebs-Screening?](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
+
+2026-08-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[springermedizin.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
+
+---
+
+### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+2026-08-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+---
 
 ### [Dimagrire consumando più energia: la nuova frontiera contro obesità e diabete parte da una molecola degli anni Settanta](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
 

@@ -54,6 +54,22 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（5 則）
 
+### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+2026-08-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+---
+
+### [Could a 20-Year-Old Drug Repair Cartilage Damaged by Osteoarthritis? A Yale Study Suggests It Can](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+
+---
+
 ### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">copd</span>
@@ -75,22 +91,6 @@ permalink: /news/sarilumab/
 2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
-
----
-
-### [Due vitamine migliorano la salute dei polmoni in chi soffre di asma: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
-
-2026-08-24 <span class="news-indication-tag">asma</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2RmSlVyQnJpV3NHeXhZUFRORVlwbzBnVWp5RHZxV2k1enhkYkZMVUZNWXAxazNNX2xfaDAxOXBqQ2hNU3N0bVVFWEk4aURHWHBGYXFSVEh3YnRESXc3ZXZ3ejV0SmNhN3VfMkpieG1wUzdlUmFGRzd1YVZmUnI2OTZYc2xwcTQxVko2WEVEVzJPNVR6YzBRX2UzVWlrM1cxamxZOHNmeHNJN0tqN2NTNnVwaDIwTHdrTk5ZSGFsOTlUbGZjV0w1YXlSRlRQRzBFc2x2QzlmNkVwdURORjRpX1p30gHAAUFVX3lxTE5ySWZnNGJnbGxBQkhjYUVsY3NxWlF2NlR1ZTVHbWIxVmZ0SGxmVExoNEwzZFBaeFU5U0tWWlI5THNReGNjMGp6eng1WlRLWlgzLXBOTDNFLUM2ODE3TG85TmU4TmRkZTFMckt1Z1YzZEdLNHRhV1U0UDZpM0JSUndSaHdfRF9YVnN1WjgwQm9VcE9JLUdIbkZtZm1vb0M0bzJJdXJMbUFTdWJlbHhpcWstb21LUURJZmFKNWV4NkhTMA?oc=5)
-
----
-
-### [Gestörter Energiestoffwechsel: Stoffwechselengpass hält chronische Darmentzündungen in Gang](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
-
-2026-08-22 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVlMTVo3ajlndmNjeUJ1cEFMbmx3VXFQdzVnWmxja3dFZ1VMc0xaRzJyN1pWZ1NwVV9wYWEtZ1Zfd0ZocGlRaDIwM3JrQ3QtRi1tS3h5MXpUNVlmbzAyS0dmNlFmM2VPd01ablNJZk9oN013TzczT2lIeDVkZDBEdVluOFJIOWQ2azRGdGQ4R19taFVSQXpz?oc=5)
 
 ---
 
