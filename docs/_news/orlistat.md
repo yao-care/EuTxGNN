@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（3 則）
 
+### [Dimagrire consumando più energia: la nuova frontiera contro obesità e diabete parte da una molecola degli anni Settanta](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
+
+---
+
 ### [Breakthrough Stroke in AF Linked to Drug Interactions](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
 
 2026-08-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -67,14 +75,6 @@ permalink: /news/orlistat/
 2026-08-24 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeTZMeUZQQ05UYkZoZ3NqbV9QaVZkd3pLeF9ydWUzektSNVYwVERfdzZWVUNpcVk0bExDYUdXT3JxMENtYzd4R01lMmRzZ0FyYkRFWjlRYWhmRmZXQ0JsWkNQNFZnMlFFM0ZsempTNzhiVXc2RkZEV3VYcFQ4Slo0SGhlSzVxYjhkMzdiZUFEOUFLYl9vcW1SdF9RdnY2TWVZVDhVamFXSEx5Uk5JSlY2X1lNejg0dDgtbUNOMG5hdllLUHhvYS1nMzVVaWVhOUlnNm96UlBMRHVXVUNYOWRkWlJaV1lJaWhxWElkUGh2MlVaSzQ?oc=5)
-
----
-
-### [Cianuro contro l’ictus: il paradosso studiato nel cervello](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk9iQXJNN3BlZ3FrLXVRaEtlaW5kNEpma21JNjFmcjRqcUE2d0Zza0RkdnBzZl9qRlREYXZQWEpuU2ZCUUdjNk9iNDg2aGdob0gwb3BnLTZxdUFrcGdPQTlXZmdoaDl0TnVRR3M3cmxvRmR4NDRPbG04cWYtSzQwNzFqWGFoUUJqZ0YzcEtCejA1SDZXNEFVMEREak9qeVNMMDVOQ3NTekR3VFJuYk9oTlpIMjFhcEE?oc=5)
-
-2026-08-24 <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk9iQXJNN3BlZ3FrLXVRaEtlaW5kNEpma21JNjFmcjRqcUE2d0Zza0RkdnBzZl9qRlREYXZQWEpuU2ZCUUdjNk9iNDg2aGdob0gwb3BnLTZxdUFrcGdPQTlXZmdoaDl0TnVRR3M3cmxvRmR4NDRPbG04cWYtSzQwNzFqWGFoUUJqZ0YzcEtCejA1SDZXNEFVMEREak9qeVNMMDVOQ3NTekR3VFJuYk9oTlpIMjFhcEE?oc=5)
 
 ---
 

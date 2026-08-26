@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Wie du mit Psychobiotika deine Seele unterstützen kannst – 12 Tipps für den Alltag - Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2g2X1hIcDBLSXVsUGhiaTdxNVdBMUZGQlpEbE9WR3lUb2Q1c240OHN1Mjd6RkVKMDhJaXA5OUR5QjY3RklvVjhXLWUydG00VXVOeFJ3RHE1ek1wck45ZlJ1OXBtOS1TZjV2cEllcGM5S2RCcjdSTk1DQU0xRFN6ZXhaWE8xM1lHb2k1WXNQSHB0aElNWXItc040cEs1R0FHUjFOaw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2g2X1hIcDBLSXVsUGhiaTdxNVdBMUZGQlpEbE9WR3lUb2Q1c240OHN1Mjd6RkVKMDhJaXA5OUR5QjY3RklvVjhXLWUydG00VXVOeFJ3RHE1ek1wck45ZlJ1OXBtOS1TZjV2cEllcGM5S2RCcjdSTk1DQU0xRFN6ZXhaWE8xM1lHb2k1WXNQSHB0aElNWXItc040cEs1R0FHUjFOaw?oc=5)
+
+---
 
 ### [“Pensavo a tutti i modi in cui mio figlio sarebbe potuto morire mentre lavoravo. Dopo il parto mi sono sentita una madre fallita, ho chiesto un ricovero in psichiatria”: così Alyssa Milano - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPN2huNVVKTlI3R3JXLVY3dnhFWXUxc2Y3dWhtMFdhMWxkOHFlVVFLWVJwYm9DdVJHSjlQVW9kVEZ6QzNVOVNNTC15UUR1RzFYNEo3Q29YOXZZQlpLTDloaWVCWUhUSmV5VkdiMzJxdkJQN1J3LS1ON3pGN0Z6cEx6b083NFlqTzNGc2hIVU51dXRwUldJWXVXblEySlhZRXUwaEgwRjR4RmVxMnJCSEVTUXpWcG5vWUFHcEdJTlhscUNOUFBVbFcwUGM3MGNHSFlNRWRvN0hVbDM1clBkYnRGS1U2OVB1S293Z0xKNDlNalJQLVhxQUxWTm1aQlFjeWgzbFFOUXljcUJuVEFnUk1wdVhlb0lOM0xSWjNoamxIeGVtU3ViYTRsUmJ5ZXZ0YlhjNjNRUktoc3VyRFA2Y3VzZE0tb1UwQzNUSmltUkJITHlFRzZwcHRr?oc=5)
 
@@ -70,27 +78,11 @@ permalink: /news/duloxetine-hydrochloride/
 
 ---
 
-### [La depresión durante el envejecimiento, elevada por una proteína](https://news.google.com/rss/articles/CBMingFBVV95cUxQTXMwWE0wUndEMnlMWDA0a0I0Z0ZZU0FJYkV4UUxLanp2NUw4N3Y3aEdoY2F3RXV4Mmt1NHIwVHVTRHVxSzVmMHdEdUhseF9Way1IRzhlMlhfY0hXMEpicWx0bm11NG1SaC1xM3Q2RVFTc05TTkYtaGhhd0p2MjZOUDMzbXFJWkhrMkNPbHBVbXg4bUNzQ1l0V1FsakJBdw?oc=5)
+### [Depression may shut down the brain’s ability to make new neurons - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hrWVF6dmdEUDNiMk1DZTlwU0JSWk5XdXpJVkFuS0hlN0ZnSG8tb3FLVXZ6UlN1bkVLTU05dnpMR3Jfd1NiTmRBTXdBSkxWUjFnYzd4RGhDb0ZnSkZfUjVCaEpZbUxfZlhkemMtdw?oc=5)
 
-2026-08-25 <span class="news-indication-tag">depresión</span>
+2026-08-25 <span class="news-indication-tag">depression</span>
 
-來源：[kissfm.es](https://news.google.com/rss/articles/CBMingFBVV95cUxQTXMwWE0wUndEMnlMWDA0a0I0Z0ZZU0FJYkV4UUxLanp2NUw4N3Y3aEdoY2F3RXV4Mmt1NHIwVHVTRHVxSzVmMHdEdUhseF9Way1IRzhlMlhfY0hXMEpicWx0bm11NG1SaC1xM3Q2RVFTc05TTkYtaGhhd0p2MjZOUDMzbXFJWkhrMkNPbHBVbXg4bUNzQ1l0V1FsakJBdw?oc=5)
-
----
-
-### [Daily vitamin can 'reduce depression symptoms' in a month - it only costs £2.50 - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
-
-2026-08-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmVvQmlmb2tvc2tlQnUzNE14RUVkYkpzdkNLeVdGWE1YNG1DR0ZtbVNuUE9CNi1pdGoxTHVhRWZJT044UmF3T1lXeGdBWS1wc3o5cGtBUjhkVk1yRFlBaXN0a2Itc0FmMnJmNWNzSmdWc3VnaHhfVU50eW5CVE5KYm54NkJWUnpfZklPVVVlalN5a2JybnNIUE9R?oc=5)
-
----
-
-### [La vitamina que empieza a agotarse justo cuando termina el verano (y cómo frenar la caída con alimentos de temporada)](https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZHEtRlJkXzdlM1A0RzRNTVFKZ1RYWnZObzF3QXM1M1JUM1ZqX1B3VWJMMDdidHJ2bEE3MU03YWpUTmdXTWhNZ211Y2Rpb3F1aVZGY0hDRE1SaFNidWVvU3pzdm03VEpTbmU2Q0p4SC1yYUlxa185bA?oc=5)
-
-2026-08-24 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">MS</span>
-
-來源：[moncloa.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZHEtRlJkXzdlM1A0RzRNTVFKZ1RYWnZObzF3QXM1M1JUM1ZqX1B3VWJMMDdidHJ2bEE3MU03YWpUTmdXTWhNZ211Y2Rpb3F1aVZGY0hDRE1SaFNidWVvU3pzdm03VEpTbmU2Q0p4SC1yYUlxa185bA?oc=5)
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hrWVF6dmdEUDNiMk1DZTlwU0JSWk5XdXpJVkFuS0hlN0ZnSG8tb3FLVXZ6UlN1bkVLTU05dnpMR3Jfd1NiTmRBTXdBSkxWUjFnYzd4RGhDb0ZnSkZfUjVCaEpZbUxfZlhkemMtdw?oc=5)
 
 ---
 

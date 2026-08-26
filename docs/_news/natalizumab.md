@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（14 則）
 
-### [El sexo y la edad determinan las potenciales complicaciones de la diabetes tipo 2 - Tribuna de Segovia.](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHFTS1FFdnY5SUdGLW9IdDE5RnZXSWIwb3FteTItUlN0bThxdEN1WVZXdl83VzBZYVBzVl8tQjkyY0V0dThVNkFvOUw0anZWdlQtam8zNkNsbGpfSmFTaE9nTWtyN1ZTSEh1bFB6aHVlMzFpcktGQWhlcVpBbUdFUDc0TjVBdUFuY1BHcVA1RVM5d1dEX3pwWG5VXzNPZ0NGTkFnZzQ4UVRBX2NZNTJndlZHV1ZNbVlpX1p2QnhZa3Q5SC12eDB3?oc=5)
+### [Todo este tiempo hemos abordado mal los tratamientos para la diabetes](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
 
 2026-08-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[Tribuna de Segovia.](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHFTS1FFdnY5SUdGLW9IdDE5RnZXSWIwb3FteTItUlN0bThxdEN1WVZXdl83VzBZYVBzVl8tQjkyY0V0dThVNkFvOUw0anZWdlQtam8zNkNsbGpfSmFTaE9nTWtyN1ZTSEh1bFB6aHVlMzFpcktGQWhlcVpBbUdFUDc0TjVBdUFuY1BHcVA1RVM5d1dEX3pwWG5VXzNPZ0NGTkFnZzQ4UVRBX2NZNTJndlZHV1ZNbVlpX1p2QnhZa3Q5SC12eDB3?oc=5)
+來源：[WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
+
+---
+
+### [El sexo y la edad determinan las potenciales complicaciones de la diabetes tipo 2 - Tribuna de Soria.](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2IwQ3FCdHlXcUhpSHJZU1F4QWRMZHB5VWNjQkF1Y1Z2OEM4OWVRWVVnWFBaNm92UEtOS0V2Vk5uNWJjbUUzRTFOSHNDa2Q2NFF2YXhYS3E2M0sxZDIwOG10ekd3ci10b1Z0Y043WUIwTjdnT1d1QTF0amt2YVVud0ZhNlRidjN6Nm9QWThKWEtULUthd0M1QTZjakRmU3F0eDdfTVVBb1FiRmliT3FmQUQ1LWNoM0x0YmdKQV83VlVLVGdx?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Tribuna de Soria.](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2IwQ3FCdHlXcUhpSHJZU1F4QWRMZHB5VWNjQkF1Y1Z2OEM4OWVRWVVnWFBaNm92UEtOS0V2Vk5uNWJjbUUzRTFOSHNDa2Q2NFF2YXhYS3E2M0sxZDIwOG10ekd3ci10b1Z0Y043WUIwTjdnT1d1QTF0amt2YVVud0ZhNlRidjN6Nm9QWThKWEtULUthd0M1QTZjakRmU3F0eDdfTVVBb1FiRmliT3FmQUQ1LWNoM0x0YmdKQV83VlVLVGdx?oc=5)
+
+---
+
+### [Il diabete che arrivava da adulti oggi colpisce sempre più giovani: cosa sta succedendo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaHk4U282N3BTNXZTWWlBaExMVkFFOVRocV9UZE1mU3FRVWk2WlVoaS05Snd5YzlqamVyWGl5QjZRbFR0bS1FUGU2Q1ZTQ21adkg5LUQyRUg3RjE3X0t2aFphYXF6Uk1QaGZ2YUpUMUY0SG15MXlxdXRmWHJKaGhIQ3Jxd1I5WUhEQ0thTDZNSFdReTFJVmJTT0pBTlo2YmxxZ0doNHZQc2hVcF9LSDFmN0VuaUJwbUZPaWxHZVNNV2llLTJMbVhURDVGN0xPQ0hSeTlZ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaHk4U282N3BTNXZTWWlBaExMVkFFOVRocV9UZE1mU3FRVWk2WlVoaS05Snd5YzlqamVyWGl5QjZRbFR0bS1FUGU2Q1ZTQ21adkg5LUQyRUg3RjE3X0t2aFphYXF6Uk1QaGZ2YUpUMUY0SG15MXlxdXRmWHJKaGhIQ3Jxd1I5WUhEQ0thTDZNSFdReTFJVmJTT0pBTlo2YmxxZ0doNHZQc2hVcF9LSDFmN0VuaUJwbUZPaWxHZVNNV2llLTJMbVhURDVGN0xPQ0hSeTlZ?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ permalink: /news/natalizumab/
 2026-08-25 <span class="news-indication-tag">copd</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
+
+---
+
+### [Dimagrire consumando più energia: la nuova frontiera contro obesità e diabete parte da una molecola degli anni Settanta](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
 
 ---
 

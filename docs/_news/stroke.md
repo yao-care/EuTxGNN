@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Breakthrough Stroke in AF Linked to Drug Interactions](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
 
@@ -54,14 +54,6 @@ permalink: /news/stroke/
 2026-08-24
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeTZMeUZQQ05UYkZoZ3NqbV9QaVZkd3pLeF9ydWUzektSNVYwVERfdzZWVUNpcVk0bExDYUdXT3JxMENtYzd4R01lMmRzZ0FyYkRFWjlRYWhmRmZXQ0JsWkNQNFZnMlFFM0ZsempTNzhiVXc2RkZEV3VYcFQ4Slo0SGhlSzVxYjhkMzdiZUFEOUFLYl9vcW1SdF9RdnY2TWVZVDhVamFXSEx5Uk5JSlY2X1lNejg0dDgtbUNOMG5hdllLUHhvYS1nMzVVaWVhOUlnNm96UlBMRHVXVUNYOWRkWlJaV1lJaWhxWElkUGh2MlVaSzQ?oc=5)
-
----
-
-### [Cianuro contro l’ictus: il paradosso studiato nel cervello](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk9iQXJNN3BlZ3FrLXVRaEtlaW5kNEpma21JNjFmcjRqcUE2d0Zza0RkdnBzZl9qRlREYXZQWEpuU2ZCUUdjNk9iNDg2aGdob0gwb3BnLTZxdUFrcGdPQTlXZmdoaDl0TnVRR3M3cmxvRmR4NDRPbG04cWYtSzQwNzFqWGFoUUJqZ0YzcEtCejA1SDZXNEFVMEREak9qeVNMMDVOQ3NTekR3VFJuYk9oTlpIMjFhcEE?oc=5)
-
-2026-08-24
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk9iQXJNN3BlZ3FrLXVRaEtlaW5kNEpma21JNjFmcjRqcUE2d0Zza0RkdnBzZl9qRlREYXZQWEpuU2ZCUUdjNk9iNDg2aGdob0gwb3BnLTZxdUFrcGdPQTlXZmdoaDl0TnVRR3M3cmxvRmR4NDRPbG04cWYtSzQwNzFqWGFoUUJqZ0YzcEtCejA1SDZXNEFVMEREak9qeVNMMDVOQ3NTekR3VFJuYk9oTlpIMjFhcEE?oc=5)
 
 ---
 
