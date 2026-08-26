@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Aurelio Rojas, cardiólogo: "Si tomas café justo al despertar, no te da más energía y tienes menos efecto estimulante" - El Confidencial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamJvczF3X0p3SlQ3MTdnYzFlNXVoSm1EZ05tU3A2SjlxQ092MVNwMzhGVGZnX1FERDBFTHhBT3FBZXQtNlp6Z1JVbWFIVHAwdk5xaXloTWgwVThHazlrVXBJejJWamN0S2hNTFo4SXVZOHo5UV9LMDV5MVNULUxoa0VkN01TV2tUSHN5UnBmQ0tNVjAzTlQ5N1NjQTZwZHF1MGk5ZjNnVHJNSGttTWE2b0JORHY4RzhraC1sRnlsN25JdTZLb3lmTmYzSVN4aE0yZjFDVEp6TmNLb3M?oc=5)
+
+2026-08-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamJvczF3X0p3SlQ3MTdnYzFlNXVoSm1EZ05tU3A2SjlxQ092MVNwMzhGVGZnX1FERDBFTHhBT3FBZXQtNlp6Z1JVbWFIVHAwdk5xaXloTWgwVThHazlrVXBJejJWamN0S2hNTFo4SXVZOHo5UV9LMDV5MVNULUxoa0VkN01TV2tUSHN5UnBmQ0tNVjAzTlQ5N1NjQTZwZHF1MGk5ZjNnVHJNSGttTWE2b0JORHY4RzhraC1sRnlsN25JdTZLb3lmTmYzSVN4aE0yZjFDVEp6TmNLb3M?oc=5)
+
+---
+
+### [Shingles vaccine could protect against stroke and heart disease, study finds - Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
 
 2026-08-26 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
 
 ---
 
-### [Bluthochdruck: Wirksame Pflanzenstoffe zur Prävention & Behandlung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN05LRHFZbDhlbTlnM2FhZmpZdEc4NjFnVzNMM3RieU9kb2g3NnI5U0NNN0xobjBodHBiREo1T1cwOWpUWi1GcGFuWmJ6a2U5VEQ0WXRrNXNPQk1xaGVwSlNGX25iRlNETDNXV1AxMW1oZzhET0dRUEtzbTU0UUk3WEs4cHpnSFRaZ1dwSjE3b21pSmJkWktNQmtoaU11cHl4LUhRa2Y4LTF6V3ltREJ2UTNMRDNjU2h1SXZydWphWll6ams?oc=5)
+### [Gürtelrose-Impfung: Shingrix schützt offenbar vor Herzkrankheiten - Gesundheit](https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTh3NkZRWTFJMjRaNU9fWXdpWHdjaW1hbW1DS0NwVmNKNFJBT1hxd3p2c1RNNXR4T0F0S3JNTldJbjdHSDY5QzJYTzRpbVRXdmZjaE1tU3ZmRnkwajRFVjhzT3I3TFIzQk5MNFlWMi15TGowTTY3RXA4NWhUc2xHVmVGQTJOaUJuTzU2d3djVXg4MjZSZHF3?oc=5)
 
-2026-08-26 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-26 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN05LRHFZbDhlbTlnM2FhZmpZdEc4NjFnVzNMM3RieU9kb2g3NnI5U0NNN0xobjBodHBiREo1T1cwOWpUWi1GcGFuWmJ6a2U5VEQ0WXRrNXNPQk1xaGVwSlNGX25iRlNETDNXV1AxMW1oZzhET0dRUEtzbTU0UUk3WEs4cHpnSFRaZ1dwSjE3b21pSmJkWktNQmtoaU11cHl4LUhRa2Y4LTF6V3ltREJ2UTNMRDNjU2h1SXZydWphWll6ams?oc=5)
+來源：[SZ.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTh3NkZRWTFJMjRaNU9fWXdpWHdjaW1hbW1DS0NwVmNKNFJBT1hxd3p2c1RNNXR4T0F0S3JNTldJbjdHSDY5QzJYTzRpbVRXdmZjaE1tU3ZmRnkwajRFVjhzT3I3TFIzQk5MNFlWMi15TGowTTY3RXA4NWhUc2xHVmVGQTJOaUJuTzU2d3djVXg4MjZSZHF3?oc=5)
 
 ---
 
-### [Breakthrough Stroke in AF Linked to Drug Interactions](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
+### [Agopuntura dopo l’ictus, il trial riapre il confronto sul recupero del braccio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFh0REs5b0NqWWs1Q1M0OXlnRDRnamRtUklCdzhXMGQ0dXY2Q214ODk0TWJIeWlSVVZIYVA1SFdTZTFYbG5Md0E0SzJNUXlBRUd1VDByV0lIWmZFaldEMmtXQjBNSGRmR0JvNHFvdTcwMEtsMW96SFp3OFRaNDdYQUVST0s0bkVoamxnMGZQNlA5bzhielZzSktQNGR1bkFnMWRubk9EOUw0bHZHZFJNdllJLVlIbE1EQmx2M1dzeG1ra193Zk5BV05ESEk2SzNtVFE?oc=5)
 
-2026-08-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-08-26 <span class="news-indication-tag">ictus</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFh0REs5b0NqWWs1Q1M0OXlnRDRnamRtUklCdzhXMGQ0dXY2Q214ODk0TWJIeWlSVVZIYVA1SFdTZTFYbG5Md0E0SzJNUXlBRUd1VDByV0lIWmZFaldEMmtXQjBNSGRmR0JvNHFvdTcwMEtsMW96SFp3OFRaNDdYQUVST0s0bkVoamxnMGZQNlA5bzhielZzSktQNGR1bkFnMWRubk9EOUw0bHZHZFJNdllJLVlIbE1EQmx2M1dzeG1ra193Zk5BV05ESEk2SzNtVFE?oc=5)
+
+---
+
+### [Nicotine vapes best chance to quit smoking, major review finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
+
+2026-08-25 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
 
 ---
 

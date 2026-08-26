@@ -43,11 +43,27 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（4 則）
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Shingles vaccine could protect against stroke and heart disease, study finds - Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
 
 2026-08-26 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
+
+---
+
+### [Women using HRT at lower risk of dementia, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
+
+2026-08-26 <span class="news-indication-tag">dementia</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
+
+---
+
+### [Can vitamin D protect cognitive function, help delay dementia? - Medical News Today](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcERRYjNYSXctZUVPVGdjRGZFZ2RjdWJOemphUDZIVFlreWRrUUV3cWVZRTE3bmROekpCUU9jSER0dFFiVzFsV2E0WEJJS2JiSmJRNFNVUW0yWHFVcFNTR0NoZVlwSmNvbnREMmswaVNjaUhBYVpBMDQ2eFdMb3g3VUxsSEhlRnRsTS1TNXM0WXVWQmdPei0zdnpEY215MGF3SHd2X2xYTENDT1dhR3RlVGg3LXhuNEo5TjQw?oc=5)
+
+2026-08-26 <span class="news-indication-tag">dementia</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcERRYjNYSXctZUVPVGdjRGZFZ2RjdWJOemphUDZIVFlreWRrUUV3cWVZRTE3bmROekpCUU9jSER0dFFiVzFsV2E0WEJJS2JiSmJRNFNVUW0yWHFVcFNTR0NoZVlwSmNvbnREMmswaVNjaUhBYVpBMDQ2eFdMb3g3VUxsSEhlRnRsTS1TNXM0WXVWQmdPei0zdnpEY215MGF3SHd2X2xYTENDT1dhR3RlVGg3LXhuNEo5TjQw?oc=5)
 
 ---
 
@@ -56,22 +72,6 @@ permalink: /news/carbidopa/
 2026-08-26 <span class="news-indication-tag">dementia</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTU5JbmFsQ0hCbUpPM3hUZFJtaEFjTDFCMWdldWFlcVRnRTM5MnhyNzlPOUk1RGdLRGRUVUpRblNIUXNvNm9Iamc5Y2lRN0VSUTlqaVVObzZ0cmxZSndtZTd5cGtpaDhKdU81TFBoNXltM2FsbUpxdU5RZE50OW1TN0VYMEx0UUM4RzlNaU9QSmkzWUl0ZHQ4Y3gtWFNicmJ0bWtBX21BY1F2QW5I?oc=5)
-
----
-
-### [Three ways to boost brain sharpness - The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzEwajhJVWM1elJrODVXS0lqbS03ZGktVElUTkdSMHhhdm1GVWhmZ1BZclJwVHlVZjhQdk85Z3hqTG5sNG9uR3NKdlluQjcyVl9maUpOZnM4cDNtdHlzVWl2UmdwVWlXM1FhdXgxVUhWMTdDR1NDeDdlTHMyNEduNGVPS0NCX2xtOTdVSFRwN1hHNy04eHh6MFI5SGJrc2FQbks3UGxCbw?oc=5)
-
-2026-08-24 <span class="news-indication-tag">dementia</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzEwajhJVWM1elJrODVXS0lqbS03ZGktVElUTkdSMHhhdm1GVWhmZ1BZclJwVHlVZjhQdk85Z3hqTG5sNG9uR3NKdlluQjcyVl9maUpOZnM4cDNtdHlzVWl2UmdwVWlXM1FhdXgxVUhWMTdDR1NDeDdlTHMyNEduNGVPS0NCX2xtOTdVSFRwN1hHNy04eHh6MFI5SGJrc2FQbks3UGxCbw?oc=5)
-
----
-
-### [The physical activity paradox: not all forms of exercise lower your dementia risk – this type raises it - The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHdwZVA3T2gySGZzZ2hZRUtCWTAzVGRlbUtKejFjYUZxSVhNczhxdW1CQWxEcDR4c01KUTJoRENVTFo4S1RkZzJoelMzeENSWXQ5V1NuTWxiaTVMT0RFT1pxRGJNTEFHMVozVU1iOTMzZkdOQ0lPOTNJVDdaNEtMSzJnckI3bW16QThjQVRhM1M1NmF6U01TYW1ubS1fTmlHX2c3SVdzdk53TWd4aXR3ZDJvMEhqR0tDNGExeWcycDRVZVduNlRuQ3J3dUtwNzJ4?oc=5)
-
-2026-08-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHdwZVA3T2gySGZzZ2hZRUtCWTAzVGRlbUtKejFjYUZxSVhNczhxdW1CQWxEcDR4c01KUTJoRENVTFo4S1RkZzJoelMzeENSWXQ5V1NuTWxiaTVMT0RFT1pxRGJNTEFHMVozVU1iOTMzZkdOQ0lPOTNJVDdaNEtMSzJnckI3bW16QThjQVRhM1M1NmF6U01TYW1ubS1fTmlHX2c3SVdzdk53TWd4aXR3ZDJvMEhqR0tDNGExeWcycDRVZVduNlRuQ3J3dUtwNzJ4?oc=5)
 
 ---
 

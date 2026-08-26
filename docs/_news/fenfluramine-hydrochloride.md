@@ -54,19 +54,19 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（3 則）
 
+### [Los tres escalones del tratamiento de la obesidad: fármacos, endoscopia y cirugía](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGx3Sm8zN3RTa2VNS1l0dmdpZ0ZKam91S3plRTUtcnhhUnM3cUJ5S0VwRjNaUTlEMGV4VGdnc3l3MmtYV2Z4RXotdExoU3ZpZGFZcVZ2ZzA1dzJ4NnZfZ1RaM1pxem5QbC13RE5ZUG9idWtwUkR1MTFqQVEzTlFTNVhIckc2TDBmUVhnTE41ZDJ3QQ?oc=5)
+
+2026-08-26 <span class="news-indication-tag">obesidad</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGx3Sm8zN3RTa2VNS1l0dmdpZ0ZKam91S3plRTUtcnhhUnM3cUJ5S0VwRjNaUTlEMGV4VGdnc3l3MmtYV2Z4RXotdExoU3ZpZGFZcVZ2ZzA1dzJ4NnZfZ1RaM1pxem5QbC13RE5ZUG9idWtwUkR1MTFqQVEzTlFTNVhIckc2TDBmUVhnTE41ZDJ3QQ?oc=5)
+
+---
+
 ### [Kolorektales Karzinom | Mit Adipositas drei Jahre früher zum Darmkrebs-Screening?](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
 
 2026-08-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[springermedizin.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
-
----
-
-### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
-
-2026-08-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 ---
 

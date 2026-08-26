@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+### [CED: Stoffwechselengpass hält chronische Darmentzündungen aufrecht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3FqNS1MRFlVSlNKWW91M0xfRl96UmlZNXdIU2dNY3g5T0c2bXZCM3FleWVYNmM5eUVoNUxRMnJJcF94LVgxbkpMTHJWNTVRUFROMVJKZlM2WVhPcTY4X1BKaWFoOU9pUEVWNVpuWWZPQ09yR2xhVk5RZXJ1YnVHeUhucFZobjJpYzZtRm1YMnhSUkFmQ2xqMktlamdSQ01YOTB2VkxOZFZWTTBxRnlF?oc=5)
 
-2026-08-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+2026-08-26 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3FqNS1MRFlVSlNKWW91M0xfRl96UmlZNXdIU2dNY3g5T0c2bXZCM3FleWVYNmM5eUVoNUxRMnJJcF94LVgxbkpMTHJWNTVRUFROMVJKZlM2WVhPcTY4X1BKaWFoOU9pUEVWNVpuWWZPQ09yR2xhVk5RZXJ1YnVHeUhucFZobjJpYzZtRm1YMnhSUkFmQ2xqMktlamdSQ01YOTB2VkxOZFZWTTBxRnlF?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/sarilumab/
 2026-08-24 <span class="news-indication-tag">BPCO</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdodDhVdzVTbHFGUGIyRG1aUmE0TEJaNWFWaEF5bW9WS2tiVUkyRl9vSVBMWklIQ1dick9SejhCWDlHYnZ0VmlrWGxuVEhMZlNRejA1a1c2LXFkeGFzTnZ2VWhHLVg4OXh4T2E0NkxHZ3U2ZnoxX2JvbElSd09OYURfVFZaZ3BfMk5vWmRjUXFrYWRYMHZ0RjhjbWNoaDJtekV3TWRpQ3dfV0ZFS2JmRkQzTllxeW9wazVtXzJSVkxGNk5yb2Z1Q2FRLVBnREE?oc=5)
-
----
-
-### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
-
-2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
 
 ---
 

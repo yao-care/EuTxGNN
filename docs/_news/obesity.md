@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,19 +38,19 @@ permalink: /news/obesity/
 
 ## 相關新聞（3 則）
 
+### [Los tres escalones del tratamiento de la obesidad: fármacos, endoscopia y cirugía](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGx3Sm8zN3RTa2VNS1l0dmdpZ0ZKam91S3plRTUtcnhhUnM3cUJ5S0VwRjNaUTlEMGV4VGdnc3l3MmtYV2Z4RXotdExoU3ZpZGFZcVZ2ZzA1dzJ4NnZfZ1RaM1pxem5QbC13RE5ZUG9idWtwUkR1MTFqQVEzTlFTNVhIckc2TDBmUVhnTE41ZDJ3QQ?oc=5)
+
+2026-08-26
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGx3Sm8zN3RTa2VNS1l0dmdpZ0ZKam91S3plRTUtcnhhUnM3cUJ5S0VwRjNaUTlEMGV4VGdnc3l3MmtYV2Z4RXotdExoU3ZpZGFZcVZ2ZzA1dzJ4NnZfZ1RaM1pxem5QbC13RE5ZUG9idWtwUkR1MTFqQVEzTlFTNVhIckc2TDBmUVhnTE41ZDJ3QQ?oc=5)
+
+---
+
 ### [Kolorektales Karzinom | Mit Adipositas drei Jahre früher zum Darmkrebs-Screening?](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
 
 2026-08-26
 
 來源：[springermedizin.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
-
----
-
-### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
-
-2026-08-26
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 ---
 

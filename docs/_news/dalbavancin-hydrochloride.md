@@ -54,11 +54,11 @@ permalink: /news/dalbavancin-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Shingles vaccine could protect against stroke and heart disease, study finds - Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
 
 2026-08-26 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
 
 ---
 

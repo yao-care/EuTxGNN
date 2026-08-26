@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Aurelio Rojas, cardiólogo: "Si tomas café justo al despertar, no te da más energía y tienes menos efecto estimulante" - El Confidencial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamJvczF3X0p3SlQ3MTdnYzFlNXVoSm1EZ05tU3A2SjlxQ092MVNwMzhGVGZnX1FERDBFTHhBT3FBZXQtNlp6Z1JVbWFIVHAwdk5xaXloTWgwVThHazlrVXBJejJWamN0S2hNTFo4SXVZOHo5UV9LMDV5MVNULUxoa0VkN01TV2tUSHN5UnBmQ0tNVjAzTlQ5N1NjQTZwZHF1MGk5ZjNnVHJNSGttTWE2b0JORHY4RzhraC1sRnlsN25JdTZLb3lmTmYzSVN4aE0yZjFDVEp6TmNLb3M?oc=5)
+
+2026-08-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamJvczF3X0p3SlQ3MTdnYzFlNXVoSm1EZ05tU3A2SjlxQ092MVNwMzhGVGZnX1FERDBFTHhBT3FBZXQtNlp6Z1JVbWFIVHAwdk5xaXloTWgwVThHazlrVXBJejJWamN0S2hNTFo4SXVZOHo5UV9LMDV5MVNULUxoa0VkN01TV2tUSHN5UnBmQ0tNVjAzTlQ5N1NjQTZwZHF1MGk5ZjNnVHJNSGttTWE2b0JORHY4RzhraC1sRnlsN25JdTZLb3lmTmYzSVN4aE0yZjFDVEp6TmNLb3M?oc=5)
+
+---
+
+### [Shingles vaccine could protect against stroke and heart disease, study finds - Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
 
 2026-08-26 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
+
+---
+
+### [Los tres escalones del tratamiento de la obesidad: fármacos, endoscopia y cirugía](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGx3Sm8zN3RTa2VNS1l0dmdpZ0ZKam91S3plRTUtcnhhUnM3cUJ5S0VwRjNaUTlEMGV4VGdnc3l3MmtYV2Z4RXotdExoU3ZpZGFZcVZ2ZzA1dzJ4NnZfZ1RaM1pxem5QbC13RE5ZUG9idWtwUkR1MTFqQVEzTlFTNVhIckc2TDBmUVhnTE41ZDJ3QQ?oc=5)
+
+2026-08-26 <span class="news-indication-tag">obesidad</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGx3Sm8zN3RTa2VNS1l0dmdpZ0ZKam91S3plRTUtcnhhUnM3cUJ5S0VwRjNaUTlEMGV4VGdnc3l3MmtYV2Z4RXotdExoU3ZpZGFZcVZ2ZzA1dzJ4NnZfZ1RaM1pxem5QbC13RE5ZUG9idWtwUkR1MTFqQVEzTlFTNVhIckc2TDBmUVhnTE41ZDJ3QQ?oc=5)
 
 ---
 
@@ -70,11 +86,27 @@ permalink: /news/orlistat/
 
 ---
 
-### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+### [Gürtelrose-Impfung: Shingrix schützt offenbar vor Herzkrankheiten - Gesundheit](https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTh3NkZRWTFJMjRaNU9fWXdpWHdjaW1hbW1DS0NwVmNKNFJBT1hxd3p2c1RNNXR4T0F0S3JNTldJbjdHSDY5QzJYTzRpbVRXdmZjaE1tU3ZmRnkwajRFVjhzT3I3TFIzQk5MNFlWMi15TGowTTY3RXA4NWhUc2xHVmVGQTJOaUJuTzU2d3djVXg4MjZSZHF3?oc=5)
 
-2026-08-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+2026-08-26 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+來源：[SZ.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTh3NkZRWTFJMjRaNU9fWXdpWHdjaW1hbW1DS0NwVmNKNFJBT1hxd3p2c1RNNXR4T0F0S3JNTldJbjdHSDY5QzJYTzRpbVRXdmZjaE1tU3ZmRnkwajRFVjhzT3I3TFIzQk5MNFlWMi15TGowTTY3RXA4NWhUc2xHVmVGQTJOaUJuTzU2d3djVXg4MjZSZHF3?oc=5)
+
+---
+
+### [Agopuntura dopo l’ictus, il trial riapre il confronto sul recupero del braccio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFh0REs5b0NqWWs1Q1M0OXlnRDRnamRtUklCdzhXMGQ0dXY2Q214ODk0TWJIeWlSVVZIYVA1SFdTZTFYbG5Md0E0SzJNUXlBRUd1VDByV0lIWmZFaldEMmtXQjBNSGRmR0JvNHFvdTcwMEtsMW96SFp3OFRaNDdYQUVST0s0bkVoamxnMGZQNlA5bzhielZzSktQNGR1bkFnMWRubk9EOUw0bHZHZFJNdllJLVlIbE1EQmx2M1dzeG1ra193Zk5BV05ESEk2SzNtVFE?oc=5)
+
+2026-08-26 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFh0REs5b0NqWWs1Q1M0OXlnRDRnamRtUklCdzhXMGQ0dXY2Q214ODk0TWJIeWlSVVZIYVA1SFdTZTFYbG5Md0E0SzJNUXlBRUd1VDByV0lIWmZFaldEMmtXQjBNSGRmR0JvNHFvdTcwMEtsMW96SFp3OFRaNDdYQUVST0s0bkVoamxnMGZQNlA5bzhielZzSktQNGR1bkFnMWRubk9EOUw0bHZHZFJNdllJLVlIbE1EQmx2M1dzeG1ra193Zk5BV05ESEk2SzNtVFE?oc=5)
+
+---
+
+### [Nicotine vapes best chance to quit smoking, major review finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
+
+2026-08-25 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
 
 ---
 
@@ -83,14 +115,6 @@ permalink: /news/orlistat/
 2026-08-25 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
-
----
-
-### [Breakthrough Stroke in AF Linked to Drug Interactions](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
-
-2026-08-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWxfcU9Yd1dBYnFYZXVlV2tqcFVRMkQ0Z0laQ0Y4MHlLYktyLU1VRGhiUDRBSkZTQXkyaFB6N1ExeXpzRnNWUTBqbDZsZVgtNG5nekNnMWJJTlBWZjJ2Z1BraEhFeU80NUFwY3pxc2htcEx6VzY3dlVBcEtQYWtFcVhaUFFFbkVMNWtXUEJUNVVXS3hvd2xRRXZZRk5tUTNUakthSFNRY1BYX3lMbnc?oc=5)
 
 ---
 
