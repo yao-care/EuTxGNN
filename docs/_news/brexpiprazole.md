@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [La proteína relacionada con el azhéimer aumenta el riesgo de síntomas depresivos al envejecer - 65 y más](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUhpaXF3dkFGYmtYcThHVGFnSDZKNWNLa19iTGJodHNQUUs4enFWV3loWS0wSmstR2E3NVlqMC1LU2hKZ3k3T05fZ3lMbEREdnFubnBIcHU5R0dCbXU3UTZPdngwUGlISFZFZldDVW1RdDFpWW1ERGV5c1ptbUJSeG5tODZnc3RYaXZjb21QaUMtM3NaeWFTMVM3QnVGU2U0ZUxrZGN5Y0JnTUpVckxCcmdsNzVhbTc5a3ZUb2JLbw?oc=5)
+
+2026-08-27 <span class="news-indication-tag">depresión</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUhpaXF3dkFGYmtYcThHVGFnSDZKNWNLa19iTGJodHNQUUs4enFWV3loWS0wSmstR2E3NVlqMC1LU2hKZ3k3T05fZ3lMbEREdnFubnBIcHU5R0dCbXU3UTZPdngwUGlISFZFZldDVW1RdDFpWW1ERGV5c1ptbUJSeG5tODZnc3RYaXZjb21QaUMtM3NaeWFTMVM3QnVGU2U0ZUxrZGN5Y0JnTUpVckxCcmdsNzVhbTc5a3ZUb2JLbw?oc=5)
+
+---
 
 ### [Wie das Darmmikrobiom Gehirn und Erkrankungen beeinflusst – von GLP-1 bis Parkinson - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFVoc2RsTnltMGRSWkY5NkltMm9QenZidWFVSXV2WlRLV3JqYWR0N3ZmSVpGWWFGWXdxYjhkaUFfeFZZX21ZWGpVRG5nYnBxc3Q1QUNMRHg1REFLZjZWWk51N0htcWhiTUFNY1ByNy1sOC1GUVZrTTBGVVBYTW0yRWpLSExOWHdqZ1djMGRWcFVZRDR4ZWVadGlNMVBTQ0hwX0M0SnpLWHhBa0daOE9SenNlSQ?oc=5)
 
@@ -78,27 +86,11 @@ permalink: /news/brexpiprazole/
 
 ---
 
-### [El ejercicio regular, clave para reducir el riesgo de ansiedad y depresión en jóvenes universitarios](https://news.google.com/rss/articles/CBMihgJBVV95cUxPaVJ2SUZIVmcycDFpZWNOYUhha01uNlZsdkpwQ2NCQkFhcTA3VHl1OEhCMEJET004V2xFUWxkdEJyYnVkTU1mMDZyMG5rLWdoVml0Wmo5SkFEeTdoQVlyeV9CWVdUa2gyVDRua280SkxYVUZPX0ZURkZ6M3ZYWkRpVmstVUk3MVR4ZFZwdTBOcThGazFrNFJHV3AzWnRRUmd6ZUloTU1Dd19ZdjFWc1BZWjFsUnQyb3FTTkRodWFPNlVvbTBicW5Vbm00UUhaVzJGaG1sU0ZoQ1FKVEFYSUhLU1hQZEtxUjVnZnQtZEZRcVZBWktpQ3U4VjR6TzhBZ2QteUJ0MG530gGGAkFVX3lxTE5EVk5PNDBZSk9LRFlWajBreE5LN0JnbXZGQ3dBT19HTm1zclhrS3ZTQnpOeE1YblRxTG5jLUJ1Qnh3RzB4dGNwZl8zWWNIdnc0WVpJbE0yMXpUZ19RYUhlQnUyVlNkaVdfTUFtQUZnVlRodUN3dGRJbWdlZmtuOTdjeWhyNE5oS200RUhfYW9KNUlNcUVpeDctQ2hLaDJMcmRhMVA1dkZMcWE3TzNxWTdNWlZ4S3d3bUJyTGJrQy01YUVqUWRxSVhVOWw1M3J3QkJsQk5LZjc0UnlXem1qbnpEbFV6RjZqREpmd0JTaTdobjRrRzZMenFXU0JIZ280anhZbFdmVGc?oc=5)
-
-2026-08-25 <span class="news-indication-tag">depresión</span>
-
-來源：[Atresmedia](https://news.google.com/rss/articles/CBMihgJBVV95cUxPaVJ2SUZIVmcycDFpZWNOYUhha01uNlZsdkpwQ2NCQkFhcTA3VHl1OEhCMEJET004V2xFUWxkdEJyYnVkTU1mMDZyMG5rLWdoVml0Wmo5SkFEeTdoQVlyeV9CWVdUa2gyVDRua280SkxYVUZPX0ZURkZ6M3ZYWkRpVmstVUk3MVR4ZFZwdTBOcThGazFrNFJHV3AzWnRRUmd6ZUloTU1Dd19ZdjFWc1BZWjFsUnQyb3FTTkRodWFPNlVvbTBicW5Vbm00UUhaVzJGaG1sU0ZoQ1FKVEFYSUhLU1hQZEtxUjVnZnQtZEZRcVZBWktpQ3U4VjR6TzhBZ2QteUJ0MG530gGGAkFVX3lxTE5EVk5PNDBZSk9LRFlWajBreE5LN0JnbXZGQ3dBT19HTm1zclhrS3ZTQnpOeE1YblRxTG5jLUJ1Qnh3RzB4dGNwZl8zWWNIdnc0WVpJbE0yMXpUZ19RYUhlQnUyVlNkaVdfTUFtQUZnVlRodUN3dGRJbWdlZmtuOTdjeWhyNE5oS200RUhfYW9KNUlNcUVpeDctQ2hLaDJMcmRhMVA1dkZMcWE3TzNxWTdNWlZ4S3d3bUJyTGJrQy01YUVqUWRxSVhVOWw1M3J3QkJsQk5LZjc0UnlXem1qbnpEbFV6RjZqREpmd0JTaTdobjRrRzZMenFXU0JIZ280anhZbFdmVGc?oc=5)
-
----
-
-### [Depression may shut down the brain’s ability to make new neurons - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hrWVF6dmdEUDNiMk1DZTlwU0JSWk5XdXpJVkFuS0hlN0ZnSG8tb3FLVXZ6UlN1bkVLTU05dnpMR3Jfd1NiTmRBTXdBSkxWUjFnYzd4RGhDb0ZnSkZfUjVCaEpZbUxfZlhkemMtdw?oc=5)
+### [Depression may shut down the brain’s ability to make new neurons](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hrWVF6dmdEUDNiMk1DZTlwU0JSWk5XdXpJVkFuS0hlN0ZnSG8tb3FLVXZ6UlN1bkVLTU05dnpMR3Jfd1NiTmRBTXdBSkxWUjFnYzd4RGhDb0ZnSkZfUjVCaEpZbUxfZlhkemMtdw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">depression</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hrWVF6dmdEUDNiMk1DZTlwU0JSWk5XdXpJVkFuS0hlN0ZnSG8tb3FLVXZ6UlN1bkVLTU05dnpMR3Jfd1NiTmRBTXdBSkxWUjFnYzd4RGhDb0ZnSkZfUjVCaEpZbUxfZlhkemMtdw?oc=5)
-
----
-
-### [Depressione post partum, mamma uccide i tre figli: Lindsay Clancy rischia l'ergastolo. L'orrore nei suoi diari](https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0F1Z1Y3dUgyZEpzcWhfUkVycElXNGdIQ3MxQjR5ejhRMnlRTmFjUXJUMjExM0g5OWxqbmtlcnBsZ1ZQbzJxWkZRcllKZ1ZsRzN5VVdKTjVHcUJMbVhVNDVBdS1wSlFkdDdienVyUUZndlpGMzN5Q19UQ25NTmRZYncyMVJwSHUyOUVOczRvaHIycDlkSXJ4aldQUHhBbmhoTk9sbFRYTWxNNS02RFE4Smxwd2VQckc4Q2fSAaQBQVVfeXFMTl9nYTNsckdkRmgzUEotMm51ZkI3bEdRVnlFcF9JLXpiOU5NaVZBcFJyVDRkVy05cDU2bFlvTDhERzF0WFNjbF9hQjhHWmFzc1R6UzM4RE9UUF9IN1NNSnIwSlVGMzhTV1R1Q3NMd3JjcHRrSElidTk2T05jWGs2bGJtWUxCX1dpNmxPbHJGWHFlTFJvbGRPLUo5MVVxY3dudzVlTkE?oc=5)
-
-2026-08-25 <span class="news-indication-tag">depression</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0F1Z1Y3dUgyZEpzcWhfUkVycElXNGdIQ3MxQjR5ejhRMnlRTmFjUXJUMjExM0g5OWxqbmtlcnBsZ1ZQbzJxWkZRcllKZ1ZsRzN5VVdKTjVHcUJMbVhVNDVBdS1wSlFkdDdienVyUUZndlpGMzN5Q19UQ25NTmRZYncyMVJwSHUyOUVOczRvaHIycDlkSXJ4aldQUHhBbmhoTk9sbFRYTWxNNS02RFE4Smxwd2VQckc4Q2fSAaQBQVVfeXFMTl9nYTNsckdkRmgzUEotMm51ZkI3bEdRVnlFcF9JLXpiOU5NaVZBcFJyVDRkVy05cDU2bFlvTDhERzF0WFNjbF9hQjhHWmFzc1R6UzM4RE9UUF9IN1NNSnIwSlVGMzhTV1R1Q3NMd3JjcHRrSElidTk2T05jWGs2bGJtWUxCX1dpNmxPbHJGWHFlTFJvbGRPLUo5MVVxY3dudzVlTkE?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hrWVF6dmdEUDNiMk1DZTlwU0JSWk5XdXpJVkFuS0hlN0ZnSG8tb3FLVXZ6UlN1bkVLTU05dnpMR3Jfd1NiTmRBTXdBSkxWUjFnYzd4RGhDb0ZnSkZfUjVCaEpZbUxfZlhkemMtdw?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epatite（hepatitis） 相關新聞"
+title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# epatite（hepatitis） 相關新聞
+# hepatitis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hepatitis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -53,15 +53,7 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Allarme vaccinazioni, la Sardegna in coda alla classifica: a rischio l’immunizzazione contro epatite, tetano e morbillo - La Nuova Sardegna](https://news.google.com/rss/articles/CBMikAJBVV95cUxObTJ3SkMxcjhfc0lyVzJrWnh2NVZKSlNOTGRCWlJJUWUzeEJZWVlsUFEyT1ZQcFNqRkdyLU8zUG9ZQmdKQUhldXZtVEpWVVBkdjZvV2NvcGw1SGtROXVtSnNkOHVtTXkzbnhfRWk2OTk5NlFlN3ZMREJyN0k4ajF6Yl8tSjlZR2pyaS1RX0xibWtuZURwRVZDN3I1RTMxUUE0cHB4bHBQRUtSbFI0cHh3bXNmVEdwQ19jSGswVFJJQ0RpdjBwazBiNmFvdDZPck1KZW5aeFNmRmY5RzJYME1pTE9POEVabzFYOS1xNU11SFhXRXVJa1Rqc0tnUy1WRzEybEJCRjcyNTQyd2YtZWhZcQ?oc=5)
-
-2026-08-25
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMikAJBVV95cUxObTJ3SkMxcjhfc0lyVzJrWnh2NVZKSlNOTGRCWlJJUWUzeEJZWVlsUFEyT1ZQcFNqRkdyLU8zUG9ZQmdKQUhldXZtVEpWVVBkdjZvV2NvcGw1SGtROXVtSnNkOHVtTXkzbnhfRWk2OTk5NlFlN3ZMREJyN0k4ajF6Yl8tSjlZR2pyaS1RX0xibWtuZURwRVZDN3I1RTMxUUE0cHB4bHBQRUtSbFI0cHh3bXNmVEdwQ19jSGswVFJJQ0RpdjBwazBiNmFvdDZPck1KZW5aeFNmRmY5RzJYME1pTE9POEVabzFYOS1xNU11SFhXRXVJa1Rqc0tnUy1WRzEybEJCRjcyNTQyd2YtZWhZcQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [HPV, Hepatitis B, Melanom: Welche Krebsimpfstoffe es gibt – und warum ein universeller Impfstoff unrealistisch ist](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXRMR09JSGx1MzNuaWtlb194dFJUb2RCODgxYm9OdkFNallXWEo5a0tSSE1uakhXa0hmZXlNd0RDSW1tU0paLUtkWk1zOVZpWS1zYjZoaG5uYjE4Nk81WUduSXBKUzVMakNFWTlmRFZOVFVtbmtEQW1oMENaSW5nYUtCNHJoaS1yUnZKSG9MNHRjZFdyN2psWm1jWE9SYW10Vm10dE4ydzNZVXJQTWc?oc=5)
 

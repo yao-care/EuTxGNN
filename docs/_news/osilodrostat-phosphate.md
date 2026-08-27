@@ -14,7 +14,7 @@ permalink: /news/osilodrostat-phosphate/
 ---
 
 <p class="key-answer" data-question="Osilodrostat Phosphate 有什麼相關新聞？">
-<strong>Osilodrostat Phosphate</strong> 目前有 <strong>54 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Osilodrostat Phosphate</strong> 目前有 <strong>52 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/osilodrostat-phosphate/
 <p><a href="{{ '/drugs/osilodrostat-phosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（54 則）
+## 相關新聞（52 則）
+
+### [Herzgesundheit: „Die wissenschaftliche Evidenz“ ist „sehr bescheiden“ – Experte warnt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVk5RnZHNlQ1R3RpM1g5ak1LSVlabVFkMWNFMHFmZUhGWGRQVE1zblROWnhBaEJ1a250cnRmcmZPTVE4eWR2aExqSkNieDV6X1lZNl82OURGeWZXd3psdnZ0cHdPdnIySHg0RDNIcWNUMzB0OTRGWVFIeVBBRGtORUJfNEtqcG5BTWl1R25sVVI5M0NZMjM3WGpLX1VaRXZXbHJ0SkFnNEJmekwwR3VheEwxaXFGYTFzN1I5YVlNYlkzZVlrOHFKSkZFNXZxTXF6eFZWT2ppTGlWSnZrT1h3?oc=5)
+
+2026-08-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVk5RnZHNlQ1R3RpM1g5ak1LSVlabVFkMWNFMHFmZUhGWGRQVE1zblROWnhBaEJ1a250cnRmcmZPTVE4eWR2aExqSkNieDV6X1lZNl82OURGeWZXd3psdnZ0cHdPdnIySHg0RDNIcWNUMzB0OTRGWVFIeVBBRGtORUJfNEtqcG5BTWl1R25sVVI5M0NZMjM3WGpLX1VaRXZXbHJ0SkFnNEJmekwwR3VheEwxaXFGYTFzN1I5YVlNYlkzZVlrOHFKSkZFNXZxTXF6eFZWT2ppTGlWSnZrT1h3?oc=5)
+
+---
+
+### [Vitamin-B12-Mangel beheben: Sind Spritzen besser als Tabletten? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxQM09kMXBIU1F5VzdjZE9oYnp2VkRYc08zWTFwS1l3NHdJX01kNkVZNjlQNzR0ckE2Q3BrdDM0aVhGdE50ZUlsRTNxVUFsM0VMbXdkdm5sVndXcWhnODVoQkdjdmZILUpkZk9iNFpVRG84ZnNqQVB3S3BGVmdUS2RmSnVHbkpTQ1RXOTNhcHI1SlQzUWtBQ2FKZjkyZV8wbTU2aTgzM3c0N0tpM3dIVWpZMXpyRmxqbnVZRHpHV1pGOA?oc=5)
+
+2026-08-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxQM09kMXBIU1F5VzdjZE9oYnp2VkRYc08zWTFwS1l3NHdJX01kNkVZNjlQNzR0ckE2Q3BrdDM0aVhGdE50ZUlsRTNxVUFsM0VMbXdkdm5sVndXcWhnODVoQkdjdmZILUpkZk9iNFpVRG84ZnNqQVB3S3BGVmdUS2RmSnVHbkpTQ1RXOTNhcHI1SlQzUWtBQ2FKZjkyZV8wbTU2aTgzM3c0N0tpM3dIVWpZMXpyRmxqbnVZRHpHV1pGOA?oc=5)
+
+---
+
+### [Crean en el laboratorio células capaces de enseñar al sistema inmunitario a combatir el cáncer](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWVNVUxjWTdHMzBfenpTVGEwWEJQeUNpTVZEMW1EVTFDcnUxRF9DMTJXZ3ZJdWNHa3I1cmJGUHB2LWsweFF5b0RVSjVENUp5WE1PdG8tSXIzajlVd01CclIzeXNHd2pMby14YXhRVUUza1lDTkpzU0JVWm5FRWNhaFJPMU5fODZUTUdhVDY0Zl8tZXNpcDZPME1LOEVEM284ZGdVV0JvX0FvX3pPMkNqSjFYRdIBuAFBVV95cUxNNjhpLTJiajFKdXhPMGxYSjZPMEoydEZpdHU3YWlhWnRtOW9KdVlMdW1zMGZxX1M0eXphNGRhWWpXWVlOSXRMMTFHS1A0YklWVVpnclZySFBtbTFYUFpTdkViMFBVS0dMX3U1YW5NSkZlOEx6ci1mdUdkUVd3eWR4b19XMmtrZFJHTjFKUVI4cGJveGQ3YWVBNV9sLTNla2J6dzhwTnJIVnRvdTJKVlFETDBtTVBPc21X?oc=5)
+
+2026-08-27 <span class="news-indication-tag">tumor</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWVNVUxjWTdHMzBfenpTVGEwWEJQeUNpTVZEMW1EVTFDcnUxRF9DMTJXZ3ZJdWNHa3I1cmJGUHB2LWsweFF5b0RVSjVENUp5WE1PdG8tSXIzajlVd01CclIzeXNHd2pMby14YXhRVUUza1lDTkpzU0JVWm5FRWNhaFJPMU5fODZUTUdhVDY0Zl8tZXNpcDZPME1LOEVEM284ZGdVV0JvX0FvX3pPMkNqSjFYRdIBuAFBVV95cUxNNjhpLTJiajFKdXhPMGxYSjZPMEoydEZpdHU3YWlhWnRtOW9KdVlMdW1zMGZxX1M0eXphNGRhWWpXWVlOSXRMMTFHS1A0YklWVVpnclZySFBtbTFYUFpTdkViMFBVS0dMX3U1YW5NSkZlOEx6ci1mdUdkUVd3eWR4b19XMmtrZFJHTjFKUVI4cGJveGQ3YWVBNV9sLTNla2J6dzhwTnJIVnRvdTJKVlFETDBtTVBPc21X?oc=5)
+
+---
+
+### [World's first patient to undergo live AI-assisted brain surgery has tumour removed](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQVFBT2pRc2Y5YUE4bUdCSGlJdFFXZnB4QnJnQ09oVkN6aWlnYWI1LVFaV1FjRkdOMmpxQnY0M0lsLVlOaGdMeWRQY1RScEd5ME9WcE12MHV2aVZt?oc=5)
+
+2026-08-26 <span class="news-indication-tag">tumour</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQVFBT2pRc2Y5YUE4bUdCSGlJdFFXZnB4QnJnQ09oVkN6aWlnYWI1LVFaV1FjRkdOMmpxQnY0M0lsLVlOaGdMeWRQY1RScEd5ME9WcE12MHV2aVZt?oc=5)
+
+---
+
+### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+
+2026-08-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+
+---
 
 ### [El secreto del café que podría estar detrás de una vida más larga: científicos descubren cómo actúa contra el daño celular asociado al envejecimiento - La Nación](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFBHbzZfUXV4NVdWb2lreG1OMlRvQnQwMmM4UFlsRlJSRzNFMElmZ0Z1d0RMQmdLNHdVbDktX2NiY2k5cVZmYjhfR0tzazZUUFVnTXpqcGZ1ZG4wcGhmWU1xWFZ2N1ZlZkdYQlNET3F5b2w4VTFKd3ZSUUNaeVBTbmhRNW53WjdhYUtlU0QybnNNcldxSXpGUThManRyd0xiTUhDT3RIWDZpMmNXOU9yZk9Xa1FnaUZHRjRYZEsxLTRxSFY4ODY2SUVveUdzU01GSzA2Y0prNFFndmRVNlVxblV3LWVpYmZZUW1B?oc=5)
 
@@ -62,27 +102,51 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
-### [Tumore del pancreas, la FDA rompe il muro di RAS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0QyRklWdmUySWJ5LVI4LTVQczIyTGJ1N25JeC1qZ3RWRGl6UkljQ3lLcmxSbkl1UzQtd2tRNjN0V2NvNGVZUGxYazhyV2J6Y1pfekJGdXBQREh0b2lFd29fdkxhU292TFc4YlZBNmxBNXZuTlM0aFBxVzZXenhwTUlNVEl0N1A5a2tpcEhiZHRjaGpVOG5pVE9DRmNyemYtMUlEendVbWtwMU0?oc=5)
+### [Ce que vous avez mangé avant l'âge de 2 ans peut avoir des conséquences sur votre santé 70 ans plus tard, selon une étude](https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2JpbDB0NGs5cF8zLVh1ZldrWnRVdVhoQml2RWpsclNsblBRTVBIbWpBLVUzNzRNa0N4U2dHRmI2dzR6VU84YU9WbDB0LVRvOXRZSTJyR2cwa0hQQTZHSlpPQnJFc3duaGZSbzloUFVHYTUtaFY5ZlBFRndpQml1LWZwd2JpWDdfcmVnUG53QWtwX21JLXp1MFJidzRoNnQ5ZWUtOERjdmtJSjdVNzZPTVRQNUJXMDlleWfSAb8BQVVfeXFMTXJKbkNPb1RPZnp1dlFJU3doUzR0S0tpTkxpNGo5dmJhVlNRZEJEOU9ybGdub3lGN3ZUbjE1amJ4d29kLWh4N1lONFhuUEJKM3JERGNuTmVKOWpjaFJuRkwtbG9hNGgyZFRWZEZBN25ZTUppZnROU0pPR1lNMW5FTXYtN3REWUFpU0ZrV3BlNHF1SEJ1QzlhMG1aRlJUWjVSbnlTQ3MzYXAxb2ZuQ2pQQXZLU1pwN0JKWkt5TGZpdjA?oc=5)
+
+2026-08-26 <span class="news-indication-tag">cancer</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2JpbDB0NGs5cF8zLVh1ZldrWnRVdVhoQml2RWpsclNsblBRTVBIbWpBLVUzNzRNa0N4U2dHRmI2dzR6VU84YU9WbDB0LVRvOXRZSTJyR2cwa0hQQTZHSlpPQnJFc3duaGZSbzloUFVHYTUtaFY5ZlBFRndpQml1LWZwd2JpWDdfcmVnUG53QWtwX21JLXp1MFJidzRoNnQ5ZWUtOERjdmtJSjdVNzZPTVRQNUJXMDlleWfSAb8BQVVfeXFMTXJKbkNPb1RPZnp1dlFJU3doUzR0S0tpTkxpNGo5dmJhVlNRZEJEOU9ybGdub3lGN3ZUbjE1amJ4d29kLWh4N1lONFhuUEJKM3JERGNuTmVKOWpjaFJuRkwtbG9hNGgyZFRWZEZBN25ZTUppZnROU0pPR1lNMW5FTXYtN3REWUFpU0ZrV3BlNHF1SEJ1QzlhMG1aRlJUWjVSbnlTQ3MzYXAxb2ZuQ2pQQXZLU1pwN0JKWkt5TGZpdjA?oc=5)
+
+---
+
+### [Le médicament de Revolution contre le cancer du pancréas, qui sauve des vies, obtient une autorisation accélér](https://news.google.com/rss/articles/CBMipAJBVV95cUxNNlZJNFBTWG9TcXR5eGVYdUxqbDdCd29GT1Z4NlZVYU1JcTl3Z0VIb2M5dlZTYU5KaVVVbm0zbjRNT1NMNG5LcU1jNDIzcERWVTBiUE1JVjdoUUV2bmlSZWhuOVlRMGI0QWxhUWRvSG50RWhOeElfVzUycXRqRE9SdVhSY0JUdzE4VG1FYzM1Tlp1eEhWd1UzdnItVlVsUGVjNklKZ1VIemxUMUNNM1dYZ1RXMThfNGFYZFZNRWk0dEtrbHA0RU11N1pOeVlSZ05GNElucE5WTW9pUVNNd2JqejV1cGwwaHBCYk9NdGxhNndPZ1lqdnh5TW1UU2lsVzdaRzRQUnk2TmU3VUR1UFpzb240YXJJbXVWdEZYQzJERDNVenBB0gGqAkFVX3lxTFA5VU1tZzk2dll2bXh5aFRqOXE5dUtENi1PZFk4azVUcS1GRzhQZUF3WklScE41N2VYYkRkTWxZRFdkRElWOWhDUWNwNVdfYlhsa1dDejFnRDFJcHJSWDhIWVh2YnViZmdYTWRBRnp4WW9ET3dROEQzNW1oLXVhR05SanpnZGlzajNjdFYtWmFIRGhrZVhPWjFLdUZOTjRxb3BtTlktTVNjOGNrMDBnVEdlb1ZSNTRWcVRjakVxMW5WZkhFd2RQVXh6WW8tTk02RXNqNVBxZGpBanZvYmxVNG1qWVdjbW5wVzNHZUloWV9BRXM0TVA0WVJqQ1JuTm9hZVVEeUZOYlhpeVpRcnh5a2liS1VycnZRTkY2WjFydThZcFlULXZiUGY1dXc?oc=5)
+
+2026-08-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Boursorama](https://news.google.com/rss/articles/CBMipAJBVV95cUxNNlZJNFBTWG9TcXR5eGVYdUxqbDdCd29GT1Z4NlZVYU1JcTl3Z0VIb2M5dlZTYU5KaVVVbm0zbjRNT1NMNG5LcU1jNDIzcERWVTBiUE1JVjdoUUV2bmlSZWhuOVlRMGI0QWxhUWRvSG50RWhOeElfVzUycXRqRE9SdVhSY0JUdzE4VG1FYzM1Tlp1eEhWd1UzdnItVlVsUGVjNklKZ1VIemxUMUNNM1dYZ1RXMThfNGFYZFZNRWk0dEtrbHA0RU11N1pOeVlSZ05GNElucE5WTW9pUVNNd2JqejV1cGwwaHBCYk9NdGxhNndPZ1lqdnh5TW1UU2lsVzdaRzRQUnk2TmU3VUR1UFpzb240YXJJbXVWdEZYQzJERDNVenBB0gGqAkFVX3lxTFA5VU1tZzk2dll2bXh5aFRqOXE5dUtENi1PZFk4azVUcS1GRzhQZUF3WklScE41N2VYYkRkTWxZRFdkRElWOWhDUWNwNVdfYlhsa1dDejFnRDFJcHJSWDhIWVh2YnViZmdYTWRBRnp4WW9ET3dROEQzNW1oLXVhR05SanpnZGlzajNjdFYtWmFIRGhrZVhPWjFLdUZOTjRxb3BtTlktTVNjOGNrMDBnVEdlb1ZSNTRWcVRjakVxMW5WZkhFd2RQVXh6WW8tTk02RXNqNVBxZGpBanZvYmxVNG1qWVdjbW5wVzNHZUloWV9BRXM0TVA0WVJqQ1JuTm9hZVVEeUZOYlhpeVpRcnh5a2liS1VycnZRTkY2WjFydThZcFlULXZiUGY1dXc?oc=5)
+
+---
+
+### [German airport workers die from malaria caught from plane-riding mosquito - Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjMtWHdCTlF3WEpZQXdLQlpKRXVVbmpEWW0xRC13RWQ4bGx4WkpEbUJKeU5PM2JwMEIzcjJWdV9iWWluUWRFUmU2TFA0OEYtbHhCbmtPX0huVFJUdk13MDdmOXVTX01BdkF0aUE1MWJlUmVnd01IYlFSVXFGanNBSzFaSEFaNjVTTXppd2NMZVAzcGJPdFdnODh6UjBILXA4Q1BfMWZXaXVTN0luand4RmQ3cHLSAboBQVVfeXFMTjJ5bzJTTHItN1NjaEtRYnh6UWNZS0hKR1VjaV9iWDZKdS05anBjWkE5Qy1HNFFjX2QxdW1oX3Z5djdWMGxfa0hxT1FfY3ptUEpiei1WaW8yZ2UtZTJrY3hBSFFOaGJhbVNDSFFXSG9FMTJlY2FVdHpTSnMxQVhNcUp4OGh5MFZxZTN4a0NPNGZRZWxoNTIwbTJ0WDRjUVQ2X2swVnJiSVoyU1J6X09qMThCQmhrSHdUTHF3?oc=5)
+
+2026-08-26 <span class="news-indication-tag">AF</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjMtWHdCTlF3WEpZQXdLQlpKRXVVbmpEWW0xRC13RWQ4bGx4WkpEbUJKeU5PM2JwMEIzcjJWdV9iWWluUWRFUmU2TFA0OEYtbHhCbmtPX0huVFJUdk13MDdmOXVTX01BdkF0aUE1MWJlUmVnd01IYlFSVXFGanNBSzFaSEFaNjVTTXppd2NMZVAzcGJPdFdnODh6UjBILXA4Q1BfMWZXaXVTN0luand4RmQ3cHLSAboBQVVfeXFMTjJ5bzJTTHItN1NjaEtRYnh6UWNZS0hKR1VjaV9iWDZKdS05anBjWkE5Qy1HNFFjX2QxdW1oX3Z5djdWMGxfa0hxT1FfY3ptUEpiei1WaW8yZ2UtZTJrY3hBSFFOaGJhbVNDSFFXSG9FMTJlY2FVdHpTSnMxQVhNcUp4OGh5MFZxZTN4a0NPNGZRZWxoNTIwbTJ0WDRjUVQ2X2swVnJiSVoyU1J6X09qMThCQmhrSHdUTHF3?oc=5)
+
+---
+
+### [Breath test for 'deadliest' cancer trialled in Wrexham](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QMTRab0dyRFBDSXgzWDhuMUpWQnFpYUszSDY1U1plSDdmcnVwNWM4N01VN2U5RW5NOTk1Wmg5RkFPZFljNERKN1BrVE9kSDgxdXRWT3o5TC01Wkxw?oc=5)
+
+2026-08-26 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QMTRab0dyRFBDSXgzWDhuMUpWQnFpYUszSDY1U1plSDdmcnVwNWM4N01VN2U5RW5NOTk1Wmg5RkFPZFljNERKN1BrVE9kSDgxdXRWT3o5TC01Wkxw?oc=5)
+
+---
+
+### [Wie sich dem kognitiven Abbau vorbeugen lässt - Medical Tribune](https://news.google.com/rss/articles/CBMipAFBVV95cUxONnZDdEduQk43SWZNWjZENEZKQnc1SGRjbFZMSjFxWENfZjZCcXhEOTRqeTFHRlpGT0ItZHhVeVphSnRoWXdNMS1hM0dhdm9mQXlqTHRfelpzRThrU2cwWGZCZUxFWEhmZEtCT05KNENjSWRob3lmaktMTFlVZ05kWk1Db0g0cFo5XzIyRkZfQVk5Q3dnR1FvaURMakxmNkFlZmtpOQ?oc=5)
+
+2026-08-26 <span class="news-indication-tag">AF</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipAFBVV95cUxONnZDdEduQk43SWZNWjZENEZKQnc1SGRjbFZMSjFxWENfZjZCcXhEOTRqeTFHRlpGT0ItZHhVeVphSnRoWXdNMS1hM0dhdm9mQXlqTHRfelpzRThrU2cwWGZCZUxFWEhmZEtCT05KNENjSWRob3lmaktMTFlVZ05kWk1Db0g0cFo5XzIyRkZfQVk5Q3dnR1FvaURMakxmNkFlZmtpOQ?oc=5)
+
+---
+
+### [Tumore del pancreas metastatico, Fda approva daraxonrasib: raddoppia sopravvivenza rispetto alla chemioterapia](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXJkUkp6bGJKUnluaEdRemowUzVIREM2SnF6SWdvMkdNNjZJb1hsZUJsWlU0cXRMRXNfdmpoQmw4c3htbWR1WnVld0k5c2JaVDdqTTU3Y2VSUWZ3VEVoQ1dZMmI5VUVUdUtjdS11b2Q3ZGFBNmVIc3ZnTlBWZnRFdThjV2VHQnR4bmVpMGlqc0NuNGJRdTkxclBMMHFLVlpqZnRQQ01jTTFIaGV3T2ZvdHJQOXJZRzVTZ2tORURPSEVkSlZab0MtMmJqbW83Q1JMbmlXbWlUVk8yZDhkLXMta01fbw?oc=5)
 
 2026-08-26 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0QyRklWdmUySWJ5LVI4LTVQczIyTGJ1N25JeC1qZ3RWRGl6UkljQ3lLcmxSbkl1UzQtd2tRNjN0V2NvNGVZUGxYazhyV2J6Y1pfekJGdXBQREh0b2lFd29fdkxhU292TFc4YlZBNmxBNXZuTlM0aFBxVzZXenhwTUlNVEl0N1A5a2tpcEhiZHRjaGpVOG5pVE9DRmNyemYtMUlEendVbWtwMU0?oc=5)
-
----
-
-### [Mood-boosting benefits of birdsong drowned out by traffic noise, study finds - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUkFMekxGcHBYYjR5Tl9Ec2VKVGV2NjNWQXllMktyN1AxckVLSXFuY1ctV2owaElfcTMwRDhqUVJEWTJJS09PbUI5TFVhaUpwZGlNQXdmNnJ4Yzd6VkpLRFpaX0tmYlgxNzdnNHFTOVU1TUM3V3c1dXBLSmFSUUtnR18tM1lHNlIzR2VmbmFUeHpyQmQzb2dZTzNiOW5WazhsMWlIN01wR1pMbERaNXRPb2dyc29NbTlZV2x2Tzc1aHBDUjFfWXc?oc=5)
-
-2026-08-26 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUkFMekxGcHBYYjR5Tl9Ec2VKVGV2NjNWQXllMktyN1AxckVLSXFuY1ctV2owaElfcTMwRDhqUVJEWTJJS09PbUI5TFVhaUpwZGlNQXdmNnJ4Yzd6VkpLRFpaX0tmYlgxNzdnNHFTOVU1TUM3V3c1dXBLSmFSUUtnR18tM1lHNlIzR2VmbmFUeHpyQmQzb2dZTzNiOW5WazhsMWlIN01wR1pMbERaNXRPb2dyc29NbTlZV2x2Tzc1aHBDUjFfWXc?oc=5)
-
----
-
-### [20 Everyday Habits That Could Seriously Affect Your Health By Your 40s](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFdFblpjakMwVDlpWlBZSkhhR2plWVVrNVlvR0ZlbG8xRHVMdjJ5aVlpaXREd2ZLVnpBa25IN0c1bll0ZDJiRjUtdHVrb3BoRGtzbHQxQXBzX083cDFuekQ1VXhfaGV0REtxX19RM0l4aXFRUjNReDNDSVA2NUlBM0w5TFZvcXdUeGx6MmxoYw?oc=5)
-
-2026-08-26 <span class="news-indication-tag">AF</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFdFblpjakMwVDlpWlBZSkhhR2plWVVrNVlvR0ZlbG8xRHVMdjJ5aVlpaXREd2ZLVnpBa25IN0c1bll0ZDJiRjUtdHVrb3BoRGtzbHQxQXBzX083cDFuekQ1VXhfaGV0REtxX19RM0l4aXFRUjNReDNDSVA2NUlBM0w5TFZvcXdUeGx6MmxoYw?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXJkUkp6bGJKUnluaEdRemowUzVIREM2SnF6SWdvMkdNNjZJb1hsZUJsWlU0cXRMRXNfdmpoQmw4c3htbWR1WnVld0k5c2JaVDdqTTU3Y2VSUWZ3VEVoQ1dZMmI5VUVUdUtjdS11b2Q3ZGFBNmVIc3ZnTlBWZnRFdThjV2VHQnR4bmVpMGlqc0NuNGJRdTkxclBMMHFLVlpqZnRQQ01jTTFIaGV3T2ZvdHJQOXJZRzVTZ2tORURPSEVkSlZab0MtMmJqbW83Q1JMbmlXbWlUVk8yZDhkLXMta01fbw?oc=5)
 
 ---
 
@@ -94,11 +158,11 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
-### [Aurelio Rojas, cardiólogo: "Si tomas café justo al despertar, no te da más energía y tienes menos efecto estimulante" - El Confidencial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamJvczF3X0p3SlQ3MTdnYzFlNXVoSm1EZ05tU3A2SjlxQ092MVNwMzhGVGZnX1FERDBFTHhBT3FBZXQtNlp6Z1JVbWFIVHAwdk5xaXloTWgwVThHazlrVXBJejJWamN0S2hNTFo4SXVZOHo5UV9LMDV5MVNULUxoa0VkN01TV2tUSHN5UnBmQ0tNVjAzTlQ5N1NjQTZwZHF1MGk5ZjNnVHJNSGttTWE2b0JORHY4RzhraC1sRnlsN25JdTZLb3lmTmYzSVN4aE0yZjFDVEp6TmNLb3M?oc=5)
+### [I helped to bury Ebola victims. Then a mob beat me unconscious - The Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFNBX3JHTGlOTXpfRzU5VmJLbG9jUHRjYndtLUdReUN3Y0h6WWhsbmdibTYwWDZnNEYzOGpxblZENkFEY2JhZjFlMHhVWGNWWTNrWGc5aUVWZWtKYWxLa3dWaHVZZGI0RjlWcDhSaXJncTJ2MTBoTHBxSm41Z3dhM2R1RjRQdFVRa1hiT19xYzhCTXQyQWROSzg0TjU1TlI3UzY4TXBvdTN5TGZQYUdWTmlIYzYwdlNSSzB5R2tEdVRCWFFINHJr?oc=5)
 
-2026-08-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-08-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamJvczF3X0p3SlQ3MTdnYzFlNXVoSm1EZ05tU3A2SjlxQ092MVNwMzhGVGZnX1FERDBFTHhBT3FBZXQtNlp6Z1JVbWFIVHAwdk5xaXloTWgwVThHazlrVXBJejJWamN0S2hNTFo4SXVZOHo5UV9LMDV5MVNULUxoa0VkN01TV2tUSHN5UnBmQ0tNVjAzTlQ5N1NjQTZwZHF1MGk5ZjNnVHJNSGttTWE2b0JORHY4RzhraC1sRnlsN25JdTZLb3lmTmYzSVN4aE0yZjFDVEp6TmNLb3M?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFNBX3JHTGlOTXpfRzU5VmJLbG9jUHRjYndtLUdReUN3Y0h6WWhsbmdibTYwWDZnNEYzOGpxblZENkFEY2JhZjFlMHhVWGNWWTNrWGc5aUVWZWtKYWxLa3dWaHVZZGI0RjlWcDhSaXJncTJ2MTBoTHBxSm41Z3dhM2R1RjRQdFVRa1hiT19xYzhCTXQyQWROSzg0TjU1TlI3UzY4TXBvdTN5TGZQYUdWTmlIYzYwdlNSSzB5R2tEdVRCWFFINHJr?oc=5)
 
 ---
 
@@ -150,11 +214,11 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
-### [Frankfurt Airport employee dies after contracting malaria, operator Fraport says](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekxTekJYRjlza3JjTUtUMlBrdEZwYzN3aEJTSG5HM0c0NFdPeDd0QjRVTG10Zy1rNzhzYVdtVWIzMHVJc2xiYTZ1NTJLVkJ3dGRRR2pVcHF4ekhfZnRJSVhhNTNHd2VlUmowYVB4eW1TaUJGTzR4blhlekZveEJwekd4M3lXdFU4ZnMzQzBEMzdUUjZvSTY4ZnhKNlpOYU5KVDZvOTFNdUtCTHoxRjBJdjBLWkZxUDZ3UG13MHNmY0hLVkk?oc=5)
+### [West Lothian mum's nightmare as son diagnosed with rare brain disorder after long labour - Edinburgh Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYS1LUmxJNEdxZHlYUnl1ZGIyRnVHTkQtSVE3OTN3RE1VZGZqZ0ZYV01jOWUtdnlKNV9uVXNpeXM2OVRXWklqcjEtUGhBMmt4djBBWmgxeE5SUnpJWkRzVnVEY2hCdEd5dzhqLWxVdl9iend1TGxZYkcwd2hNQTFucEF6VXVkR3JnUWx2ZWwxWGtiZFVlUXNr0gGcAUFVX3lxTE5YVVg0QUxGd3RGRGRKT1ZNaXY5cWdlc3RyUlJleGxpSU5XVERvRGI0djJDLVR0UlMxdUJFT01TRWwtNGNpeVpqYnhCV2k0OGFUcnFlRzJwZ0Y1SnhoX09GaW5jdnBuYW93TFBldHI3Und0ZmNKUjROSnlZaGp4c1lxN1gxSUwxbkwta1laZkE1WmRmYkJaREwwamNCdA?oc=5)
 
 2026-08-26 <span class="news-indication-tag">AF</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekxTekJYRjlza3JjTUtUMlBrdEZwYzN3aEJTSG5HM0c0NFdPeDd0QjRVTG10Zy1rNzhzYVdtVWIzMHVJc2xiYTZ1NTJLVkJ3dGRRR2pVcHF4ekhfZnRJSVhhNTNHd2VlUmowYVB4eW1TaUJGTzR4blhlekZveEJwekd4M3lXdFU4ZnMzQzBEMzdUUjZvSTY4ZnhKNlpOYU5KVDZvOTFNdUtCTHoxRjBJdjBLWkZxUDZ3UG13MHNmY0hLVkk?oc=5)
+來源：[Edinburgh Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYS1LUmxJNEdxZHlYUnl1ZGIyRnVHTkQtSVE3OTN3RE1VZGZqZ0ZYV01jOWUtdnlKNV9uVXNpeXM2OVRXWklqcjEtUGhBMmt4djBBWmgxeE5SUnpJWkRzVnVEY2hCdEd5dzhqLWxVdl9iend1TGxZYkcwd2hNQTFucEF6VXVkR3JnUWx2ZWwxWGtiZFVlUXNr0gGcAUFVX3lxTE5YVVg0QUxGd3RGRGRKT1ZNaXY5cWdlc3RyUlJleGxpSU5XVERvRGI0djJDLVR0UlMxdUJFT01TRWwtNGNpeVpqYnhCV2k0OGFUcnFlRzJwZ0Y1SnhoX09GaW5jdnBuYW93TFBldHI3Und0ZmNKUjROSnlZaGp4c1lxN1gxSUwxbkwta1laZkE1WmRmYkJaREwwamNCdA?oc=5)
 
 ---
 
@@ -176,7 +240,7 @@ permalink: /news/osilodrostat-phosphate/
 
 ### [Intelligenza artificiale e cocktail di farmaci: il nuovo approccio per la cura del cancro - Corriere della Sera](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUXVTSTNUc3hZY3dvamUzSDJYSWxwM1RBWnNtTUc4d0EwYkFHcjZkZldYLXpCbDVOZHNtZDA4YmtTeDVjNUpIVUtPWTRRZmVtNVhBcWEwM1JzNzMyVTFqcUtVc3g4RnR2WThyYTNCaktZU2pLRFJtWUtEd1lmNUhZNlpJYVQ2R2E5RkVMNG5yRHp1WTZKZ01Bc1E3eUd5NGo0UDZsTGtENUNzTTdHQV9jS0hlV09ESHJvYWhRdXRFYXhpdzVGYkFSanphem56S2cxT2JzVlRXR3JadXpKMzNzOEJNT2o0Q21EdEdMSENLY2RqOVFOeG1nazIyV0dmdnh4SER2TURZcExiaUnSAZACQVVfeXFMTUxkOG1hOFN4V21leW1UMEdyUWZ2VTBUU0VUYTRyUnVYbmM5RU5maG9qQ0lfNzB3QlA3THItRzhVS294dGhYYkRPbFJaUGhJZlJTTmpXNlozTnl0aUtuMnFlQTE1OWRSS3BDQjVDZF9IVVV1U1I2RlVQTXd2eDlmR2JfYTI5ZGtUeW85LTBpaUxBaUdiS0tvNDk2WV9JUWEtNDB3cWl6SDI0ZHQ0ZnNfSlNXVzdhNmxLQW4zS21RN1RkNXhiMldYQWgzRHZvZ0RmdG1UMHhmZ1M0RVI3MXJNTWJXdkhhQUdNdUhDT3JoRmR1SXF1eFp5dnpnbEhXbVlobVdnWThtOXRWeUg2WUt1Wnc?oc=5)
 
-2026-08-26 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">MS</span>
+2026-08-26 <span class="news-indication-tag">cancro</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUXVTSTNUc3hZY3dvamUzSDJYSWxwM1RBWnNtTUc4d0EwYkFHcjZkZldYLXpCbDVOZHNtZDA4YmtTeDVjNUpIVUtPWTRRZmVtNVhBcWEwM1JzNzMyVTFqcUtVc3g4RnR2WThyYTNCaktZU2pLRFJtWUtEd1lmNUhZNlpJYVQ2R2E5RkVMNG5yRHp1WTZKZ01Bc1E3eUd5NGo0UDZsTGtENUNzTTdHQV9jS0hlV09ESHJvYWhRdXRFYXhpdzVGYkFSanphem56S2cxT2JzVlRXR3JadXpKMzNzOEJNT2o0Q21EdEdMSENLY2RqOVFOeG1nazIyV0dmdnh4SER2TURZcExiaUnSAZACQVVfeXFMTUxkOG1hOFN4V21leW1UMEdyUWZ2VTBUU0VUYTRyUnVYbmM5RU5maG9qQ0lfNzB3QlA3THItRzhVS294dGhYYkRPbFJaUGhJZlJTTmpXNlozTnl0aUtuMnFlQTE1OWRSS3BDQjVDZF9IVVV1U1I2RlVQTXd2eDlmR2JfYTI5ZGtUeW85LTBpaUxBaUdiS0tvNDk2WV9JUWEtNDB3cWl6SDI0ZHQ0ZnNfSlNXVzdhNmxLQW4zS21RN1RkNXhiMldYQWgzRHZvZ0RmdG1UMHhmZ1M0RVI3MXJNTWJXdkhhQUdNdUhDT3JoRmR1SXF1eFp5dnpnbEhXbVlobVdnWThtOXRWeUg2WUt1Wnc?oc=5)
 
@@ -187,6 +251,14 @@ permalink: /news/osilodrostat-phosphate/
 2026-08-26 <span class="news-indication-tag">tumor</span>
 
 來源：[Univrmagazine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb28xd1FoRG5FQ0trTERPZEt6SjRhVVVNV1gydjM1RTdod254MjJYejdYTlljdklLcFYzS3RNTWtZcGVuWDdPanVQQUF5NWg5N3gxY183ZWRLQTZQMmxpY2VsNGhtRVd1U0FQazNNV2VBei16QUZ5cnI3RmZqMWdQMTVOQTJ3aVVpOGw0N0RaZGhiUTVNYjdFQU9PbUswLURmZEQyUjE0cVRORmVDZjFRLUNla096YnlO?oc=5)
+
+---
+
+### [Il melanoma e la guerra della disinformazione: a Trieste l'incidenza è doppia e vi spieghiamo perché](https://news.google.com/rss/articles/CBMifkFVX3lxTE9nN3llZlZpSG5wSGw5SlBHU0xnOGRNMWQyMG9NQXlpcjVZTHVKRFk2S2NtTkpQWlVQZURXSXAyNV9rNXd3VnYzUTdQN2l4QVg2NXRpeDJyNmw2dGtNY2dVbVpUbktsTHF2R2FOYzNPSGpJWXAwbjY2bnU5SFQtUQ?oc=5)
+
+2026-08-26 <span class="news-indication-tag">tumor</span>
+
+來源：[TriestePrima](https://news.google.com/rss/articles/CBMifkFVX3lxTE9nN3llZlZpSG5wSGw5SlBHU0xnOGRNMWQyMG9NQXlpcjVZTHVKRFk2S2NtTkpQWlVQZURXSXAyNV9rNXd3VnYzUTdQN2l4QVg2NXRpeDJyNmw2dGtNY2dVbVpUbktsTHF2R2FOYzNPSGpJWXAwbjY2bnU5SFQtUQ?oc=5)
 
 ---
 
@@ -214,11 +286,27 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
+### [Mood-boosting benefits of birdsong drowned out by traffic noise, study finds - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUkFMekxGcHBYYjR5Tl9Ec2VKVGV2NjNWQXllMktyN1AxckVLSXFuY1ctV2owaElfcTMwRDhqUVJEWTJJS09PbUI5TFVhaUpwZGlNQXdmNnJ4Yzd6VkpLRFpaX0tmYlgxNzdnNHFTOVU1TUM3V3c1dXBLSmFSUUtnR18tM1lHNlIzR2VmbmFUeHpyQmQzb2dZTzNiOW5WazhsMWlIN01wR1pMbERaNXRPb2dyc29NbTlZV2x2Tzc1aHBDUjFfWXc?oc=5)
+
+2026-08-26 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUkFMekxGcHBYYjR5Tl9Ec2VKVGV2NjNWQXllMktyN1AxckVLSXFuY1ctV2owaElfcTMwRDhqUVJEWTJJS09PbUI5TFVhaUpwZGlNQXdmNnJ4Yzd6VkpLRFpaX0tmYlgxNzdnNHFTOVU1TUM3V3c1dXBLSmFSUUtnR18tM1lHNlIzR2VmbmFUeHpyQmQzb2dZTzNiOW5WazhsMWlIN01wR1pMbERaNXRPb2dyc29NbTlZV2x2Tzc1aHBDUjFfWXc?oc=5)
+
+---
+
 ### [La FDA aprueba el primer fármaco para la narcolepsia que ataca la causa - La Vanguardia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxONld1cUxwNDN2emJBWHVoYlNWVlVnZkZhZUpyWk44QmdlVGlfcmJELU9GZlVKcy04akdseFFRWFlnNVpCS0h0dnFyZ21UbkVGQXpZbHNUWkJTVk5iNjhfLThBWHFvMHEtOWJVNnFLd0JuR3RZSmRFNVVCMmktcW9GM2FKb3QtOWh6N1RBZXRYN1gxWm1TU0RwVWhfMFlCLTI3TFlyX2VKQ1ZoRU3SAbABQVVfeXFMTmxqRUFzc0h4dnlXWnl6YjQ2QjNOeGpGQ1U5WVRzVWVSNUlJUnZuMS00UWpHcGFGYm1DMk93V3dRa2Q1T19VM3paM01SckQtb3Q3dEp1STZHMm44TzdQUzNaVEZSTEdVcnlydHltNi1tMDFSN0JDSm91ZlZwRW9JTWcwazBKbDF6WU8zZE94cVF0MEs5STZYQ1V4WFRveUJNdDREUWY3V0tsdzBnVWFSQXk?oc=5)
 
 2026-08-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxONld1cUxwNDN2emJBWHVoYlNWVlVnZkZhZUpyWk44QmdlVGlfcmJELU9GZlVKcy04akdseFFRWFlnNVpCS0h0dnFyZ21UbkVGQXpZbHNUWkJTVk5iNjhfLThBWHFvMHEtOWJVNnFLd0JuR3RZSmRFNVVCMmktcW9GM2FKb3QtOWh6N1RBZXRYN1gxWm1TU0RwVWhfMFlCLTI3TFlyX2VKQ1ZoRU3SAbABQVVfeXFMTmxqRUFzc0h4dnlXWnl6YjQ2QjNOeGpGQ1U5WVRzVWVSNUlJUnZuMS00UWpHcGFGYm1DMk93V3dRa2Q1T19VM3paM01SckQtb3Q3dEp1STZHMm44TzdQUzNaVEZSTEdVcnlydHltNi1tMDFSN0JDSm91ZlZwRW9JTWcwazBKbDF6WU8zZE94cVF0MEs5STZYQ1V4WFRveUJNdDREUWY3V0tsdzBnVWFSQXk?oc=5)
+
+---
+
+### [Nebenwirkungen der Krebstherapie | ICI-induzierte Dermatitis: JAK-Inhibition als vielversprechende Therapieoption](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOFA2eHNpUHppTjJseGFrNFFtM1g4UE1PZHlZTEpHcmtfWFVSaDE5V2RXOGh0QkFkSjhmTmVjN0hoRnhmWkU5em5xTGlvUUl3UWJxcTNKaEtFZWFyUk0tR3dzSW5STFdidXltQVNzQ1NvZVJDdmxDbFFrT0gwcExDcEM5RllLc1VwcVhYVTkxeGduQ2pEMFB3bWZoT0oyaW9RSHp6UEwwZGd6Qmo3T0cyVmtiVk8wN2J1RXZSM0d6NFQ3TkJoUEx6dWg5eTg2ejBIMU45MWZlUUdka015VFR3LW4yMUV1SFVrSVFPY01nSkRVZUk?oc=5)
+
+2026-08-26 <span class="news-indication-tag">Krebs</span>
+
+來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOFA2eHNpUHppTjJseGFrNFFtM1g4UE1PZHlZTEpHcmtfWFVSaDE5V2RXOGh0QkFkSjhmTmVjN0hoRnhmWkU5em5xTGlvUUl3UWJxcTNKaEtFZWFyUk0tR3dzSW5STFdidXltQVNzQ1NvZVJDdmxDbFFrT0gwcExDcEM5RllLc1VwcVhYVTkxeGduQ2pEMFB3bWZoT0oyaW9RSHp6UEwwZGd6Qmo3T0cyVmtiVk8wN2J1RXZSM0d6NFQ3TkJoUEx6dWg5eTg2ejBIMU45MWZlUUdka015VFR3LW4yMUV1SFVrSVFPY01nSkRVZUk?oc=5)
 
 ---
 
@@ -238,6 +326,14 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
+### [Aurelio Rojas, cardiólogo: "El café nos puede ayudar a mejorar la salud, es bueno para el corazón, para el cerebro y para el metabolismo; los beneficios empiezan a verse a partir de dos o tres tazas"](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaFowSWdpR0g0bmExRFdORlJ0aGR1S1Y4TFlxcVlpcVlHbG5QQzRfYnZkVm1jcVBCZExSVmpNUUN4Sk5JNm9GMUdvY2lZUFBwSUVxN1FZMi1ieU43c19SYmV6YUJfQTFOTl9PVnduTjZ6R1NJTDlxMFlod2Z4aGVDWUxJbk5vVEtWQzVfWkhoWEtacGdiYTFINUNlMHE4R1pzQzlJS1BvdEY1bnIyYjNCbXdCTno1dVNFOUR1N25rVlYwYWZ5T2N1cnR2ZHdGd2lXOHJDZ3E0d2Z5TmdESmFxaWtJUXlVbmlyaDEzTVFyMmNQVUNfR2hwLUh5YmtEb3pLbzdQdUxKbVExdm84OURpMy1Ld25oU3hQSGlNaHZ0NUpKSmNkeXltVE5n0gGvAkFVX3lxTE1ZNGhsMlZ5ckZJVlVULXZRc09TaEg2aFM5VHN1NkUzS1JOQV8yRWVERU9OdFkwM040T0pnaXNubkpaVDRSMzVIOFM2MGoyVkVxMUlXTUliM0NmQmlvTWlYeGl4UVFnZGZ4M2NmVDJ4US1GaGU2QVNMeHhkQnkxeGdPMlBzSUcyMjdSNlVnbW5xcFN1SmRNdGR4NG1YS2k3cUFjY2UyWWVYNUJXRHB5LUJGRktmUDd5b2x6ZFQ0V2I5d3hsNWVyYmhhZmFHNnZ3TDJIVHliTThveml5MElwaGtKYWNfUVA5dEZRbG1Pd2l1TEVUZUNRVEphcVVpdUQ4UGlVUjZ0NlRMc0h1U3gwM0RxZG1XREwwSXcxNXFDSkFyVDlrOC1DWndKRExqamVyZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaFowSWdpR0g0bmExRFdORlJ0aGR1S1Y4TFlxcVlpcVlHbG5QQzRfYnZkVm1jcVBCZExSVmpNUUN4Sk5JNm9GMUdvY2lZUFBwSUVxN1FZMi1ieU43c19SYmV6YUJfQTFOTl9PVnduTjZ6R1NJTDlxMFlod2Z4aGVDWUxJbk5vVEtWQzVfWkhoWEtacGdiYTFINUNlMHE4R1pzQzlJS1BvdEY1bnIyYjNCbXdCTno1dVNFOUR1N25rVlYwYWZ5T2N1cnR2ZHdGd2lXOHJDZ3E0d2Z5TmdESmFxaWtJUXlVbmlyaDEzTVFyMmNQVUNfR2hwLUh5YmtEb3pLbzdQdUxKbVExdm84OURpMy1Ld25oU3hQSGlNaHZ0NUpKSmNkeXltVE5n0gGvAkFVX3lxTE1ZNGhsMlZ5ckZJVlVULXZRc09TaEg2aFM5VHN1NkUzS1JOQV8yRWVERU9OdFkwM040T0pnaXNubkpaVDRSMzVIOFM2MGoyVkVxMUlXTUliM0NmQmlvTWlYeGl4UVFnZGZ4M2NmVDJ4US1GaGU2QVNMeHhkQnkxeGdPMlBzSUcyMjdSNlVnbW5xcFN1SmRNdGR4NG1YS2k3cUFjY2UyWWVYNUJXRHB5LUJGRktmUDd5b2x6ZFQ0V2I5d3hsNWVyYmhhZmFHNnZ3TDJIVHliTThveml5MElwaGtKYWNfUVA5dEZRbG1Pd2l1TEVUZUNRVEphcVVpdUQ4UGlVUjZ0NlRMc0h1U3gwM0RxZG1XREwwSXcxNXFDSkFyVDlrOC1DWndKRExqamVyZw?oc=5)
+
+---
+
 ### [Cancer de l'estomac : cette habitude très courante qui peut tripler le risque de maladie](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMWFZYS1qbU9oOUluQXIxaUhtQkdOeklNMEdHTk51WHNET3NxS3FTSlBHOVQwT3oxWllCVDZlTFRUNlVDQ1FFa1hwa2dLMUlRcEJyYXJNNnVEeW0xWnotT0hSNVh0WUZzd2U3QU5xRUFUdDVrTGxBb0ZQUlRLdmhNYjdPU19yaEoxbHRCMTRYcGRQOVVQZWJVM0hJUWN2Ti1nekZSMmpKRUxiQzc4MHhiUGQxamlNNXAtVjR2dzdtUjk1QQ?oc=5)
 
 2026-08-25 <span class="news-indication-tag">cancer</span>
@@ -246,19 +342,11 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
-### [Allerta West Nile in Italia: due decessi in pochi giorni e 300 casi confermati. L’impegno dei biologi nel monitoraggio del virus - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQUd0WWxBUVcxc2hrSHJLOWNDQ1FKT2hLbEdoU0NUTmhreDEydTFPc2RGa0dxa052ZnY4dnhnbWZpcmlSVlZpR3dpYWRlc3RuNmFCVFpzdUh4WHZqSmYyUlNnWm9EZ3JXY2R1dmlLLU5GQ3ViLTRCUE1xNVNaeVFzcEw1dDdWYUhVVm0tQnJFSjdWTmNfLXEyOVpqVnpLRmFMRnc4ZEhBUEk5dkNrRDRISGRPUjJ5UjVaMGRSVkVBYi1rczI0TjhraHV6cXdkU2FmUUFZNUJmV0FvU3ZISXV4Umx5ellIaWdPeWd1RUpB?oc=5)
+### [Bambino Gesù, l’intervento su una bimba di un anno “provato” prima in 3D](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVdsOERMMmd4S1E5VzNVS0QteE9wR1V0VVJDSVY5ZHNId3QwQWl2ZEhqOExYUDh3TGZiNGRQalVtTTdwQ0R5SWRQSkg1bGlybnpaSlVmWXVLYXlYZU04bTNORGN5ejNLbzlRajBja0sxUndmTkQtcFBDa1ZWLU5pdk1NUjFsNi1HN01YblpsaW9RVFY3VlhrU1FEUm91X3g1bGp1YVRXOHFzTEYzLXpidE82dVJhYzZ5OEtaRzQ5ckNqeDI5LXc?oc=5)
 
-2026-08-25 <span class="news-indication-tag">AF</span>
+2026-08-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQUd0WWxBUVcxc2hrSHJLOWNDQ1FKT2hLbEdoU0NUTmhreDEydTFPc2RGa0dxa052ZnY4dnhnbWZpcmlSVlZpR3dpYWRlc3RuNmFCVFpzdUh4WHZqSmYyUlNnWm9EZ3JXY2R1dmlLLU5GQ3ViLTRCUE1xNVNaeVFzcEw1dDdWYUhVVm0tQnJFSjdWTmNfLXEyOVpqVnpLRmFMRnc4ZEhBUEk5dkNrRDRISGRPUjJ5UjVaMGRSVkVBYi1rczI0TjhraHV6cXdkU2FmUUFZNUJmV0FvU3ZISXV4Umx5ellIaWdPeWd1RUpB?oc=5)
-
----
-
-### [NHS England to offer women ‘gamechanging’ free home testing kits for cervical cancer - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJ3U01YdDdFVTBjOThqY0NsZV9YYWhSZERkdXJFbW9NalRQY25yWk50VFFzaGk2OFFCT1c5c21vazZMRldCYndpdlB1SGRqMG5qdFB0b0dGd3hXV3pVMzFJLWk0ME1XZmo4N2Y2VjAyQXVmV21aSkNHQ2tsQzVHRzNWeXhEVUloY2FVaU85ZndDNERNSV9yekxyaExYcTNGOFBjUkhzSGliblhwUHhUWE1qc2xTM1NTc0NYeVRWVkZXQ0hlOC1ZMUVn?oc=5)
-
-2026-08-25 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJ3U01YdDdFVTBjOThqY0NsZV9YYWhSZERkdXJFbW9NalRQY25yWk50VFFzaGk2OFFCT1c5c21vazZMRldCYndpdlB1SGRqMG5qdFB0b0dGd3hXV3pVMzFJLWk0ME1XZmo4N2Y2VjAyQXVmV21aSkNHQ2tsQzVHRzNWeXhEVUloY2FVaU85ZndDNERNSV9yekxyaExYcTNGOFBjUkhzSGliblhwUHhUWE1qc2xTM1NTc0NYeVRWVkZXQ0hlOC1ZMUVn?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVdsOERMMmd4S1E5VzNVS0QteE9wR1V0VVJDSVY5ZHNId3QwQWl2ZEhqOExYUDh3TGZiNGRQalVtTTdwQ0R5SWRQSkg1bGlybnpaSlVmWXVLYXlYZU04bTNORGN5ejNLbzlRajBja0sxUndmTkQtcFBDa1ZWLU5pdk1NUjFsNi1HN01YblpsaW9RVFY3VlhrU1FEUm91X3g1bGp1YVRXOHFzTEYzLXpidE82dVJhYzZ5OEtaRzQ5ckNqeDI5LXc?oc=5)
 
 ---
 
@@ -286,14 +374,6 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
-### [Projekt PANTIPA: Antikörper gegen Pseudomonas aeruginosa erreicht nächste Entwicklungsphase - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUFiaE9EYmFDWDQ3VXFCZG0xMlVUS0R3Qk5ydElsZTZ4WXZGdWZwRkx6NVJCMnBIa0V0QktnVTZ2OFd0VjM5N3A4ZklyM2E4ZmRSUkpuaUdIVTRRb19zaXo5ZnE3eUU5QWVIcFNVQXJON2QxdXdxTGhkUHY3TkdRY2NBa0tsbThnYzliS1R6TG1iRHJUNW1McnRpai13eGNRRlZWSlVWekFiUWREMXR5b3dHZGpHdW1IeXFhcjBFa0daTGpGbWhEYmJfTTZ0YTBLUkVFNGs2SWVXNHVvektlUFc0Tmg?oc=5)
-
-2026-08-25 <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUFiaE9EYmFDWDQ3VXFCZG0xMlVUS0R3Qk5ydElsZTZ4WXZGdWZwRkx6NVJCMnBIa0V0QktnVTZ2OFd0VjM5N3A4ZklyM2E4ZmRSUkpuaUdIVTRRb19zaXo5ZnE3eUU5QWVIcFNVQXJON2QxdXdxTGhkUHY3TkdRY2NBa0tsbThnYzliS1R6TG1iRHJUNW1McnRpai13eGNRRlZWSlVWekFiUWREMXR5b3dHZGpHdW1IeXFhcjBFa0daTGpGbWhEYmJfTTZ0YTBLUkVFNGs2SWVXNHVvektlUFc0Tmg?oc=5)
-
----
-
 ### [KI-Designer Viren: Stanford erzeugt 16 funktionierende Bakteriophagen](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUQyVE1UanBMR1BFUzNPUnRmSjRwUGYtakVTeVZya3F4QmJET2Q0a0tZZU9iTGJNYk1mZzNnS2NsZ3lGMlZSYk1IWDhHbzlsT1g4cjlSQzgxdXA0SUNnbERiUzV1RWtNTEJtNGF1akRZZ1FCdXFfVS0zMl9taG11M0kxWEluTDFaUUVMYmJjMm95VDF6THo4b2l0RQ?oc=5)
 
 2026-08-25 <span class="news-indication-tag">AF</span>
@@ -318,22 +398,6 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
-### [My stage four cancer spread to my brain - I blamed pain on my old mattress - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPYm9fZkFUNFFUdVh6MWVDWll6RTFtQkgyREluaktBbXUtLXl6bk82elpDbUxfbmVfUzNNV21HblJDbFdCVVB5bGd5dEJvX1lIbHVreFk0M3hLaWRNUzVNdzRPVmFXSS05Yk44Qy1xSmJ5cUVuMDVSa3JTSV9hMnU0TmpGVzZPUGZPcEE?oc=5)
-
-2026-08-25 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPYm9fZkFUNFFUdVh6MWVDWll6RTFtQkgyREluaktBbXUtLXl6bk82elpDbUxfbmVfUzNNV21HblJDbFdCVVB5bGd5dEJvX1lIbHVreFk0M3hLaWRNUzVNdzRPVmFXSS05Yk44Qy1xSmJ5cUVuMDVSa3JTSV9hMnU0TmpGVzZPUGZPcEE?oc=5)
-
----
-
-### [Neuroblastoma rimosso con simulazioni e ricostruzione 3D: così i medici hanno salvato una bimba di un anno](https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0oyenNHSU01S3d1WmF5UVg2SldvUkJ4N2RUMVNYd2lEMHYtZUNsT3dablBoUTQ5TktVRFp0U1ozRGVWMUVHYldfNDZHcWg0ZWNiZVNlbUxkQklpREVBaWtXclNzMmdIRFcyYXNNeUZPQnRuSG9PaEhidmdNVXVyZWs2ZVFsdWI1ajFUN1AzRkFuNDQ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">tumor</span>
-
-來源：[RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0oyenNHSU01S3d1WmF5UVg2SldvUkJ4N2RUMVNYd2lEMHYtZUNsT3dablBoUTQ5TktVRFp0U1ozRGVWMUVHYldfNDZHcWg0ZWNiZVNlbUxkQklpREVBaWtXclNzMmdIRFcyYXNNeUZPQnRuSG9PaEhidmdNVXVyZWs2ZVFsdWI1ajFUN1AzRkFuNDQ?oc=5)
-
----
-
 ### [ADHS & Schlafprobleme: Psychiater erklärt den Teufelskreis und gibt Tipps - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUHQyUGI3VlhGSnFSZDVxel9DVjZaYWxORTNvR0ctZVRmc01jd09fTFQwNW1PWU5KMkNSdWNveFk0YzRGajFUTEZ1TDQyMkdlcGZmaWlVVmhBc2JRWHJ6QWR3aVp6MHhPOHIzMHQ2clJUa3NPak1DSmMteDZ3ck0yWURrbUZ4RlRwMEFYTEoweWcyYWY5dnpxWXdaV1JKMUxKNk1wMjNtSk5fU2Nmd3U5SXlnbWMwcWFYZDJZRDY5YlUxdHIwVC1YRjgzaVBMelE?oc=5)
 
 2026-08-25 <span class="news-indication-tag">AF</span>
@@ -347,6 +411,14 @@ permalink: /news/osilodrostat-phosphate/
 2026-08-25 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmkxc3JRdGFJOG9WeTNaNVJiLTJ2dUJVYlFtLTQxVVpsT2pZRHZ3UXE2RWhFN3JmOU4wZU81bEZhZFZ0Y2ZCOVlrS3ZkTVhiRTlxNlJTQmRnTGRDclhEVE9LdDlHUEo0UV9YVXdDUVB6c0UzX3h5djBucEhxZEQ4djdCMjdldVRrRFUzWWJDX0owMWc1V0ZqaWZxSDR6bjZX?oc=5)
+
+---
+
+### [HPV home-testing kits available for women in England who have missed cervical screening](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wYUZSR0tHaUhDdlUtVnFRWWlwQXNzOEFFTC1qMDA1bXFISU1BamF1ODM5Qk5FQXlPSnNwNXo1QjZTeUFVWVV2STNXb2k4SW1BNVhDRGZhcU9WbGR6?oc=5)
+
+2026-08-25 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wYUZSR0tHaUhDdlUtVnFRWWlwQXNzOEFFTC1qMDA1bXFISU1BamF1ODM5Qk5FQXlPSnNwNXo1QjZTeUFVWVV2STNXb2k4SW1BNVhDRGZhcU9WbGR6?oc=5)
 
 ---
 
@@ -382,14 +454,6 @@ permalink: /news/osilodrostat-phosphate/
 
 ---
 
-### [Woman partially loses sight after hospital missed eye condition](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vSXA0NVI3SmZramFjcDY0T1ZCbThYMlZ5b1BYYkViOEw3V1h3WDlRWlN4UkdYX3VYVTdjR0VpWVptZzBVdnlaa0x0WTlaemxxQWhXOXcyNFlZaHNf?oc=5)
-
-2026-08-25 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vSXA0NVI3SmZramFjcDY0T1ZCbThYMlZ5b1BYYkViOEw3V1h3WDlRWlN4UkdYX3VYVTdjR0VpWVptZzBVdnlaa0x0WTlaemxxQWhXOXcyNFlZaHNf?oc=5)
-
----
-
 ### [Oxford cancer trial hopes to reduce risks for rare condition](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yU3gwSHJFTHJQX1F1Q1Fyb3BkLXVNRXltTWNmMjRfeEtVeDhQTmJwUWlpZVV0VDNWSXk3LVhrZXlaZzNKdnBDY2pVS2pMRHN6V0w2YlFYaUtrUFlo?oc=5)
 
 2026-08-25 <span class="news-indication-tag">cancer</span>
@@ -403,86 +467,6 @@ permalink: /news/osilodrostat-phosphate/
 2026-08-25 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxORnJjNTd3SWNBa0FyMFpJZ1BhOEZ3QVF1ZTZVN1Rad2hYU1N1U3BXNUVmWC1zc3BxcHJaZ29zWHNydERHYmVIMWRaT3N1SF9CTVJLd09GWkZyS3ZVRFJHWS00b1Y2SVZyWFFrcHZVbEpNbDFPTldmUVZHaXhhRy03eGVGbkhjZDY0b2dYSDJDQTFFQ0NEQWRhR2k0VzNIdF8waXU3b01kemRCcktEUGU1YWhR?oc=5)
-
----
-
-### [„Krebs kann T-Zellen zermürben“: Rockefeller-Forscher enthüllen, wie Tumorzellen das Immunsystem aushebeln - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUxDZUlnS2FzZzlLM1Z3TVR3M3k5TS0yakExRW1sczJqVXNfQTBkaDdSTjVLQ01uanA2RmJMTjZtaERUalljTmg2US02VUNUa2MxVTAyTF9fTHRRWnFJSlNSSk44NU9PbWcxamw0T001ZG1FN0VHZU5mVWlWNW5qdmVhbU4wanh2Q3NrZGdCUmM4WFdITXZZbnFTUHhkUjZUQzBSTmhUWFFQQWM3STV4WVZWUVhKVnEtQTdUMnNfRWp1WllLVGhPRGdJMFc?oc=5)
-
-2026-08-25 <span class="news-indication-tag">tumor</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUxDZUlnS2FzZzlLM1Z3TVR3M3k5TS0yakExRW1sczJqVXNfQTBkaDdSTjVLQ01uanA2RmJMTjZtaERUalljTmg2US02VUNUa2MxVTAyTF9fTHRRWnFJSlNSSk44NU9PbWcxamw0T001ZG1FN0VHZU5mVWlWNW5qdmVhbU4wanh2Q3NrZGdCUmM4WFdITXZZbnFTUHhkUjZUQzBSTmhUWFFQQWM3STV4WVZWUVhKVnEtQTdUMnNfRWp1WllLVGhPRGdJMFc?oc=5)
-
----
-
-### [Woman who ‘abused alcohol’ for seven years shares insane facial transformation after going sober](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEFfTktqSjA2OUwzVlBQX1FuQVYxMV9GdzVfbTJoNC05V0xqdHFUVVc4bVZ0X0Y4WTRfai1UR3h5YUdrSlI3cml5Rl93VndrRHVDLURYaDRYa1RRakxmQnozdFY5SVJJcG12VEpnOXZGMWl0bElUNlVEZG8talJCS2pnQ2ZBYk53LVBSbmhpaFZweW9NRDFpVXlGQi1ia1p4UjN1cnlINUc?oc=5)
-
-2026-08-24 <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEFfTktqSjA2OUwzVlBQX1FuQVYxMV9GdzVfbTJoNC05V0xqdHFUVVc4bVZ0X0Y4WTRfai1UR3h5YUdrSlI3cml5Rl93VndrRHVDLURYaDRYa1RRakxmQnozdFY5SVJJcG12VEpnOXZGMWl0bElUNlVEZG8talJCS2pnQ2ZBYk53LVBSbmhpaFZweW9NRDFpVXlGQi1ia1p4UjN1cnlINUc?oc=5)
-
----
-
-### [Angry about men’s lost ‘right’ to a prostate cancer test? Read this - The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWpNWDRFeHIyR2JkWHMzYnNkbEVnclhma3BzenE4azBIakRQQmNZX3Q3em0tM0lGZGhNdzdpdTNHbHBtRTM4OGhqWFhzaTM5Z01EdmYzaElSTktoYlR0eEc3SVdPbjB3V1UyWTFHNEpOMzRPNjNodEoxWDVJMVA0cjh2T2FXSWY5VHVhbmRXSWlLSU5qbTV4ZmZUZHdFZC1TRUhZNWdnWFUxWkZIQUlSRE9rbF9icmpBZ3VoYUVsaVNjTDFNMmd2MlRQSGE?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWpNWDRFeHIyR2JkWHMzYnNkbEVnclhma3BzenE4azBIakRQQmNZX3Q3em0tM0lGZGhNdzdpdTNHbHBtRTM4OGhqWFhzaTM5Z01EdmYzaElSTktoYlR0eEc3SVdPbjB3V1UyWTFHNEpOMzRPNjNodEoxWDVJMVA0cjh2T2FXSWY5VHVhbmRXSWlLSU5qbTV4ZmZUZHdFZC1TRUhZNWdnWFUxWkZIQUlSRE9rbF9icmpBZ3VoYUVsaVNjTDFNMmd2MlRQSGE?oc=5)
-
----
-
-### [Hoffnungsträger im Kampf gegen Krebs - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzQWZLYkpVWDhjSVpHbi1rVUpiRFlNeG5fQXpiMVJWSTFSeHhiYkF5XzROckpXS2xxbkg0NC16b19IREV3SzdXcHFESQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzQWZLYkpVWDhjSVpHbi1rVUpiRFlNeG5fQXpiMVJWSTFSeHhiYkF5XzROckpXS2xxbkg0NC16b19IREV3SzdXcHFESQ?oc=5)
-
----
-
-### [Forscher knacken Code: Molekularer Trick öffnet Tür zu neuer Glasgeneration - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxNVkNWNWpuR1ZVbFBoM2hWMUtZT18zS2dRMnNGVGVMZndiQjBsS2JJTGNPdkwyblZlRmlMdVFaNEktMmpkRzFrdlk5NjVXRjgzUGdMeUx5R1dsZGlVR0NBZ3VseXFleGNweWtQYVU0TjNJN3l3TmItRVBIemtWdzg4a3VTU2lUaGlCTTFyMFltY3ZodWRubEZuc2xIUkpSaFdoa3pBVnU2dFlEaFUwaEFTZkxzdzBQeXdXMWJ3WDVyMGtCWDJJWlktaDJNcWxkbVE?oc=5)
-
-2026-08-24 <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxNVkNWNWpuR1ZVbFBoM2hWMUtZT18zS2dRMnNGVGVMZndiQjBsS2JJTGNPdkwyblZlRmlMdVFaNEktMmpkRzFrdlk5NjVXRjgzUGdMeUx5R1dsZGlVR0NBZ3VseXFleGNweWtQYVU0TjNJN3l3TmItRVBIemtWdzg4a3VTU2lUaGlCTTFyMFltY3ZodWRubEZuc2xIUkpSaFdoa3pBVnU2dFlEaFUwaEFTZkxzdzBQeXdXMWJ3WDVyMGtCWDJJWlktaDJNcWxkbVE?oc=5)
-
----
-
-### [Studie am Uniklinikum in Homburg: Neue Therapie hilft auch bei schwerem Prostatakrebs - Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
-
-2026-08-24 <span class="news-indication-tag">Krebs</span>
-
-來源：[Saarbrücker Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnllWXFtZUNSUmNla1gyY05DYnNNOHdWb2kwMzhsbWJCUEVqVmxJdnkyN3FFck02TklEdkdiYkg2YVhybDdqN3B6MUhETVdWZm9vdjBNYmoxWlVwUDMzaFAzejNWd05sSzYzLVFGakxlS3ZiT0NyN2dZQVNUU3M3clY0bTVEejUwSEtZekhCTGRIZ18tYkVZYTBLOHl4WkVIcHhvYVVkQVh3ejgyTHg0N3JJNTYxN1hOLXc?oc=5)
-
----
-
-### [Im Schatten der Diagnose - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yT0w4dUhpTTFCOHpKYlU5WU13Z3RQRGRUeGNfRGZ6cnlDWFZJRWFXWnByMGJrSm1NeDgzSE1rUG4zQjlCdFVabDJkUWlQbXJtMmpqQzNIZEVUajA3VDBycHJVVS15NlU?oc=5)
-
-2026-08-22 <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yT0w4dUhpTTFCOHpKYlU5WU13Z3RQRGRUeGNfRGZ6cnlDWFZJRWFXWnByMGJrSm1NeDgzSE1rUG4zQjlCdFVabDJkUWlQbXJtMmpqQzNIZEVUajA3VDBycHJVVS15NlU?oc=5)
-
----
-
-### [Warum es in Europa zu immer mehr Sex-Infektionen kommt – Expertise](https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0VsU3lfRVRaWGp5MTN1emQ3MUpEaEhIeFJ6MWh0d2FEenFSblBaOGkwcFF2c1M2Z3ExLTlsMWR0TVZ6TGhLOXdhWHlpcHczOE1lLXU2TkhLVFRQeS02TllLVld5R1hOTmVEUkt1TjhUdlowTHNISWhFRWo5RTZ2R3FiT0xaYS1pUnZpTUVYejFXUXR6?oc=5)
-
-2026-08-21 <span class="news-indication-tag">AF</span>
-
-來源：[NewsFlix](https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0VsU3lfRVRaWGp5MTN1emQ3MUpEaEhIeFJ6MWh0d2FEenFSblBaOGkwcFF2c1M2Z3ExLTlsMWR0TVZ6TGhLOXdhWHlpcHczOE1lLXU2TkhLVFRQeS02TllLVld5R1hOTmVEUkt1TjhUdlowTHNISWhFRWo5RTZ2R3FiT0xaYS1pUnZpTUVYejFXUXR6?oc=5)
-
----
-
-### [Vergiss Joggen: Zwei Minuten Wandsitz haben diese ungeahnten Auswirkungen auf den Körper – laut Studien](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmZJSmQzMkR3Z042Z3VfZFZhc1NtZUZ5dE9hSkxkNk94bEdPNEhISjZQTUtBVWNoU1JnT2lHX2licDFoel9WWE13RFZLcXZqQjFodnI2cDZPY3VTMGNYNmlTX2MtdE81bHN2VEpDalJoU0dWNW1DWVBWUm9ia1RYQUR5dUdJM3hxMHUtNGJjUjEtVGFpRjJiYVJpbFpCVU5RZVMycGxiNlBzWkNJczVaVHk2c2V1bzVDSXZfX1c4d2JJNlFzRDNtQU03LXNoUQ?oc=5)
-
-2026-08-20 <span class="news-indication-tag">AF</span>
-
-來源：[wmn.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmZJSmQzMkR3Z042Z3VfZFZhc1NtZUZ5dE9hSkxkNk94bEdPNEhISjZQTUtBVWNoU1JnT2lHX2licDFoel9WWE13RFZLcXZqQjFodnI2cDZPY3VTMGNYNmlTX2MtdE81bHN2VEpDalJoU0dWNW1DWVBWUm9ia1RYQUR5dUdJM3hxMHUtNGJjUjEtVGFpRjJiYVJpbFpCVU5RZVMycGxiNlBzWkNJczVaVHk2c2V1bzVDSXZfX1c4d2JJNlFzRDNtQU03LXNoUQ?oc=5)
-
----
-
-### [Neuartige Immunstruktur im Schädelknochen entdeckt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEZkV29nVzNoc25qblRLUWs0UVZBNGNUaGtMNWFsdTFyeDhUdjIxNmU3dDVwQmNPcXQ2RFQwaWJTQ1ZOcGFZWk05RjZIRmo4eUppX2VTSUlicmZ1MW8zTUs4U1phSE83S1poN29UbHhkRnZfRUYwYlNobDZLYy1SX3ZLZXJZSURuWnlV?oc=5)
-
-2026-08-20 <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEZkV29nVzNoc25qblRLUWs0UVZBNGNUaGtMNWFsdTFyeDhUdjIxNmU3dDVwQmNPcXQ2RFQwaWJTQ1ZOcGFZWk05RjZIRmo4eUppX2VTSUlicmZ1MW8zTUs4U1phSE83S1poN29UbHhkRnZfRUYwYlNobDZLYy1SX3ZLZXJZSURuWnlV?oc=5)
 
 ---
 

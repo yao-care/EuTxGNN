@@ -62,11 +62,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Mobile beauty therapist charged with illegally selling weight loss jab Mounjaro](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmROaGg5MHVZcm0teUFQUnpPRUdUUmx6MDdvUzl1LUI0dHozRkVDUmJrakE5QVdVV3RJQlVydzRibWlybXhwcFJyV2JFSnRfNmVfVUNETThtaTFqam5aRkFBaUFYeUNPMHJvemV6NFlkeE9PMzQtaGJpLXFTckRCUHg4T05wQ1FRRDJULW14cG55eC1Pem9GUkp3?oc=5)
+### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
-2026-08-25 <span class="news-drug-tag">Tirzepatide</span>
+2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
-來源：[Edp24](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmROaGg5MHVZcm0teUFQUnpPRUdUUmx6MDdvUzl1LUI0dHozRkVDUmJrakE5QVdVV3RJQlVydzRibWlybXhwcFJyV2JFSnRfNmVfVUNETThtaTFqam5aRkFBaUFYeUNPMHJvemV6NFlkeE9PMzQtaGJpLXFTckRCUHg4T05wQ1FRRDJULW14cG55eC1Pem9GUkp3?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Bauernhof-Effekt: Bestimmte Bakterien senken Asthma um zwei Drittel](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUlkM05hU3U1WmRFbDN6Z3ZFa3FUS2pldHVXUWNQUHl6WUtIUnUzOEctUjB2NDFSSm1oT1pRWE9kSmhiODl5Q2JwTDRiZGVWTmJGWnQ4QUVnQ0l6Nnl4UTJNYktVRExqeklYOFlZVVBpOW11bWN3RURCVHBmYm54Zk5LM3h0Nl9xOU0xOXBOMU5aOFZFNlVuNTNDa1NYSjgwZGFCWUNaRGNhSEFKZExNaWhDTlVKZw?oc=5)
+
+2026-08-27 <span class="news-indication-tag">asthma</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUlkM05hU3U1WmRFbDN6Z3ZFa3FUS2pldHVXUWNQUHl6WUtIUnUzOEctUjB2NDFSSm1oT1pRWE9kSmhiODl5Q2JwTDRiZGVWTmJGWnQ4QUVnQ0l6Nnl4UTJNYktVRExqeklYOFlZVVBpOW11bWN3RURCVHBmYm54Zk5LM3h0Nl9xOU0xOXBOMU5aOFZFNlVuNTNDa1NYSjgwZGFCWUNaRGNhSEFKZExNaWhDTlVKZw?oc=5)
+
+---
+
+### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
+
+2026-08-26 <span class="news-indication-tag">Migräne</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [Aurelio Rojas, cardiólogo: "Si tomas café justo al despertar, no te da más energía y tienes menos efecto estimulante" - El Confidencial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamJvczF3X0p3SlQ3MTdnYzFlNXVoSm1EZ05tU3A2SjlxQ092MVNwMzhGVGZnX1FERDBFTHhBT3FBZXQtNlp6Z1JVbWFIVHAwdk5xaXloTWgwVThHazlrVXBJejJWamN0S2hNTFo4SXVZOHo5UV9LMDV5MVNULUxoa0VkN01TV2tUSHN5UnBmQ0tNVjAzTlQ5N1NjQTZwZHF1MGk5ZjNnVHJNSGttTWE2b0JORHY4RzhraC1sRnlsN25JdTZLb3lmTmYzSVN4aE0yZjFDVEp6TmNLb3M?oc=5)
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGZOWF9zZUcwM3JjazBRdDQwNkdoSlAxZURDMC1oRlAtQ25iYTJXNnd0VkhBejFINFJCWGhDS0tQdVUybzNrbFFZeGw2a1ZHSkdjcXNYbDVNZnl5TjFkTk4taXl0YmtMYzFoeEtiN3kzUUZkS0JWamdNNmhWYVY5b3ljMG1vaVRLdGJEeVVyNENMNlg3REg0TG8yaTJ1TXhfSWZEbV82UTRDUXdVbHhOXzRwak1QZS1tWW4ydXVXWlFMQUsxZ3RWZEh6a3VFeDZv?oc=5)
 
-2026-08-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-08-27 <span class="news-indication-tag">Adipositas</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamJvczF3X0p3SlQ3MTdnYzFlNXVoSm1EZ05tU3A2SjlxQ092MVNwMzhGVGZnX1FERDBFTHhBT3FBZXQtNlp6Z1JVbWFIVHAwdk5xaXloTWgwVThHazlrVXBJejJWamN0S2hNTFo4SXVZOHo5UV9LMDV5MVNULUxoa0VkN01TV2tUSHN5UnBmQ0tNVjAzTlQ5N1NjQTZwZHF1MGk5ZjNnVHJNSGttTWE2b0JORHY4RzhraC1sRnlsN25JdTZLb3lmTmYzSVN4aE0yZjFDVEp6TmNLb3M?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGZOWF9zZUcwM3JjazBRdDQwNkdoSlAxZURDMC1oRlAtQ25iYTJXNnd0VkhBejFINFJCWGhDS0tQdVUybzNrbFFZeGw2a1ZHSkdjcXNYbDVNZnl5TjFkTk4taXl0YmtMYzFoeEtiN3kzUUZkS0JWamdNNmhWYVY5b3ljMG1vaVRLdGJEeVVyNENMNlg3REg0TG8yaTJ1TXhfSWZEbV82UTRDUXdVbHhOXzRwak1QZS1tWW4ydXVXWlFMQUsxZ3RWZEh6a3VFeDZv?oc=5)
 
 ---
 
@@ -70,27 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Los tres escalones del tratamiento de la obesidad: fármacos, endoscopia y cirugía](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGx3Sm8zN3RTa2VNS1l0dmdpZ0ZKam91S3plRTUtcnhhUnM3cUJ5S0VwRjNaUTlEMGV4VGdnc3l3MmtYV2Z4RXotdExoU3ZpZGFZcVZ2ZzA1dzJ4NnZfZ1RaM1pxem5QbC13RE5ZUG9idWtwUkR1MTFqQVEzTlFTNVhIckc2TDBmUVhnTE41ZDJ3QQ?oc=5)
-
-2026-08-26 <span class="news-indication-tag">obesidad</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGx3Sm8zN3RTa2VNS1l0dmdpZ0ZKam91S3plRTUtcnhhUnM3cUJ5S0VwRjNaUTlEMGV4VGdnc3l3MmtYV2Z4RXotdExoU3ZpZGFZcVZ2ZzA1dzJ4NnZfZ1RaM1pxem5QbC13RE5ZUG9idWtwUkR1MTFqQVEzTlFTNVhIckc2TDBmUVhnTE41ZDJ3QQ?oc=5)
-
----
-
 ### [Kolorektales Karzinom | Mit Adipositas drei Jahre früher zum Darmkrebs-Screening?](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
 
 2026-08-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[springermedizin.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
-
----
-
-### [Gürtelrose-Impfung: Shingrix schützt offenbar vor Herzkrankheiten - Gesundheit](https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTh3NkZRWTFJMjRaNU9fWXdpWHdjaW1hbW1DS0NwVmNKNFJBT1hxd3p2c1RNNXR4T0F0S3JNTldJbjdHSDY5QzJYTzRpbVRXdmZjaE1tU3ZmRnkwajRFVjhzT3I3TFIzQk5MNFlWMi15TGowTTY3RXA4NWhUc2xHVmVGQTJOaUJuTzU2d3djVXg4MjZSZHF3?oc=5)
-
-2026-08-26 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[SZ.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTh3NkZRWTFJMjRaNU9fWXdpWHdjaW1hbW1DS0NwVmNKNFJBT1hxd3p2c1RNNXR4T0F0S3JNTldJbjdHSDY5QzJYTzRpbVRXdmZjaE1tU3ZmRnkwajRFVjhzT3I3TFIzQk5MNFlWMi15TGowTTY3RXA4NWhUc2xHVmVGQTJOaUJuTzU2d3djVXg4MjZSZHF3?oc=5)
 
 ---
 
@@ -110,19 +94,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Dimagrire consumando più energia: la nuova frontiera contro obesità e diabete parte da una molecola degli anni Settanta](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
+### [Aurelio Rojas, cardiólogo: "El café nos puede ayudar a mejorar la salud, es bueno para el corazón, para el cerebro y para el metabolismo; los beneficios empiezan a verse a partir de dos o tres tazas"](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaFowSWdpR0g0bmExRFdORlJ0aGR1S1Y4TFlxcVlpcVlHbG5QQzRfYnZkVm1jcVBCZExSVmpNUUN4Sk5JNm9GMUdvY2lZUFBwSUVxN1FZMi1ieU43c19SYmV6YUJfQTFOTl9PVnduTjZ6R1NJTDlxMFlod2Z4aGVDWUxJbk5vVEtWQzVfWkhoWEtacGdiYTFINUNlMHE4R1pzQzlJS1BvdEY1bnIyYjNCbXdCTno1dVNFOUR1N25rVlYwYWZ5T2N1cnR2ZHdGd2lXOHJDZ3E0d2Z5TmdESmFxaWtJUXlVbmlyaDEzTVFyMmNQVUNfR2hwLUh5YmtEb3pLbzdQdUxKbVExdm84OURpMy1Ld25oU3hQSGlNaHZ0NUpKSmNkeXltVE5n0gGvAkFVX3lxTE1ZNGhsMlZ5ckZJVlVULXZRc09TaEg2aFM5VHN1NkUzS1JOQV8yRWVERU9OdFkwM040T0pnaXNubkpaVDRSMzVIOFM2MGoyVkVxMUlXTUliM0NmQmlvTWlYeGl4UVFnZGZ4M2NmVDJ4US1GaGU2QVNMeHhkQnkxeGdPMlBzSUcyMjdSNlVnbW5xcFN1SmRNdGR4NG1YS2k3cUFjY2UyWWVYNUJXRHB5LUJGRktmUDd5b2x6ZFQ0V2I5d3hsNWVyYmhhZmFHNnZ3TDJIVHliTThveml5MElwaGtKYWNfUVA5dEZRbG1Pd2l1TEVUZUNRVEphcVVpdUQ4UGlVUjZ0NlRMc0h1U3gwM0RxZG1XREwwSXcxNXFDSkFyVDlrOC1DWndKRExqamVyZw?oc=5)
 
-2026-08-25 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-08-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0d1c1JSajBad0d5UmJKV0NvV1lrU2Z0WlFXM29JZ1B4d1RNeVBQZEtLOTFYV3N5cnBEMnI4N2xpYkRudVk0YTRleVI4T2VEejlFM0xOZlpiby1NUE8xV0l1R3RGekNjeHFLdEIzcUdGbjRVZ3kzQm9jTVFlLV9XZUlJLXI1ZS10VkJZVG9ybnVzZHF2aUpkQzFDTnljbWlkT3pKODRTRm1wTEcyNHNOU3BWVm00QmRFMjVrSUo5NERTRWprZW45NURKQlY2WklJaGR1VVd0ODNRYWtGeFdCN25ZY2RnSzZlWkRDakFWNzNFNFZ5WU5CandzbnFmUQ?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNaFowSWdpR0g0bmExRFdORlJ0aGR1S1Y4TFlxcVlpcVlHbG5QQzRfYnZkVm1jcVBCZExSVmpNUUN4Sk5JNm9GMUdvY2lZUFBwSUVxN1FZMi1ieU43c19SYmV6YUJfQTFOTl9PVnduTjZ6R1NJTDlxMFlod2Z4aGVDWUxJbk5vVEtWQzVfWkhoWEtacGdiYTFINUNlMHE4R1pzQzlJS1BvdEY1bnIyYjNCbXdCTno1dVNFOUR1N25rVlYwYWZ5T2N1cnR2ZHdGd2lXOHJDZ3E0d2Z5TmdESmFxaWtJUXlVbmlyaDEzTVFyMmNQVUNfR2hwLUh5YmtEb3pLbzdQdUxKbVExdm84OURpMy1Ld25oU3hQSGlNaHZ0NUpKSmNkeXltVE5n0gGvAkFVX3lxTE1ZNGhsMlZ5ckZJVlVULXZRc09TaEg2aFM5VHN1NkUzS1JOQV8yRWVERU9OdFkwM040T0pnaXNubkpaVDRSMzVIOFM2MGoyVkVxMUlXTUliM0NmQmlvTWlYeGl4UVFnZGZ4M2NmVDJ4US1GaGU2QVNMeHhkQnkxeGdPMlBzSUcyMjdSNlVnbW5xcFN1SmRNdGR4NG1YS2k3cUFjY2UyWWVYNUJXRHB5LUJGRktmUDd5b2x6ZFQ0V2I5d3hsNWVyYmhhZmFHNnZ3TDJIVHliTThveml5MElwaGtKYWNfUVA5dEZRbG1Pd2l1TEVUZUNRVEphcVVpdUQ4UGlVUjZ0NlRMc0h1U3gwM0RxZG1XREwwSXcxNXFDSkFyVDlrOC1DWndKRExqamVyZw?oc=5)
 
 ---
 
-### [Schlaganfall: Vorteile der endovaskulären Thrombektomie bei großen Läsionen später erkennbar - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeTZMeUZQQ05UYkZoZ3NqbV9QaVZkd3pLeF9ydWUzektSNVYwVERfdzZWVUNpcVk0bExDYUdXT3JxMENtYzd4R01lMmRzZ0FyYkRFWjlRYWhmRmZXQ0JsWkNQNFZnMlFFM0ZsempTNzhiVXc2RkZEV3VYcFQ4Slo0SGhlSzVxYjhkMzdiZUFEOUFLYl9vcW1SdF9RdnY2TWVZVDhVamFXSEx5Uk5JSlY2X1lNejg0dDgtbUNOMG5hdllLUHhvYS1nMzVVaWVhOUlnNm96UlBMRHVXVUNYOWRkWlJaV1lJaWhxWElkUGh2MlVaSzQ?oc=5)
+### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
-2026-08-24 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeTZMeUZQQ05UYkZoZ3NqbV9QaVZkd3pLeF9ydWUzektSNVYwVERfdzZWVUNpcVk0bExDYUdXT3JxMENtYzd4R01lMmRzZ0FyYkRFWjlRYWhmRmZXQ0JsWkNQNFZnMlFFM0ZsempTNzhiVXc2RkZEV3VYcFQ4Slo0SGhlSzVxYjhkMzdiZUFEOUFLYl9vcW1SdF9RdnY2TWVZVDhVamFXSEx5Uk5JSlY2X1lNejg0dDgtbUNOMG5hdllLUHhvYS1nMzVVaWVhOUlnNm96UlBMRHVXVUNYOWRkWlJaV1lJaWhxWElkUGh2MlVaSzQ?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 ---
 

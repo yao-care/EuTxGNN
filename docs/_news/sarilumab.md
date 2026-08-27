@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Bauernhof-Effekt: Bestimmte Bakterien senken Asthma um zwei Drittel](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUlkM05hU3U1WmRFbDN6Z3ZFa3FUS2pldHVXUWNQUHl6WUtIUnUzOEctUjB2NDFSSm1oT1pRWE9kSmhiODl5Q2JwTDRiZGVWTmJGWnQ4QUVnQ0l6Nnl4UTJNYktVRExqeklYOFlZVVBpOW11bWN3RURCVHBmYm54Zk5LM3h0Nl9xOU0xOXBOMU5aOFZFNlVuNTNDa1NYSjgwZGFCWUNaRGNhSEFKZExNaWhDTlVKZw?oc=5)
+
+2026-08-27 <span class="news-indication-tag">asthma</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUlkM05hU3U1WmRFbDN6Z3ZFa3FUS2pldHVXUWNQUHl6WUtIUnUzOEctUjB2NDFSSm1oT1pRWE9kSmhiODl5Q2JwTDRiZGVWTmJGWnQ4QUVnQ0l6Nnl4UTJNYktVRExqeklYOFlZVVBpOW11bWN3RURCVHBmYm54Zk5LM3h0Nl9xOU0xOXBOMU5aOFZFNlVuNTNDa1NYSjgwZGFCWUNaRGNhSEFKZExNaWhDTlVKZw?oc=5)
+
+---
+
+### [NEUER THERAPIE-ANSATZ: PHAGEN GEGEN MORBUS CROHN](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaS1YOWs2VFRSNlJEWmdWTmVrZzhaQ2hWaktFVm93VjdZS2dUbEZzSnJ0M1B5QVBRcnlZSGxiZWcwN05iNVVlcWg5Q0VZMW9KYS1WRWVub3gwSk5lN0xEQzViNm9YMnp3TEVFREZzcllYZmVJd0NvTlJnektCTENzUEpwdjF0ZFV1WlJPOXp5U2xzNk0?oc=5)
+
+2026-08-26 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[diepta.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaS1YOWs2VFRSNlJEWmdWTmVrZzhaQ2hWaktFVm93VjdZS2dUbEZzSnJ0M1B5QVBRcnlZSGxiZWcwN05iNVVlcWg5Q0VZMW9KYS1WRWVub3gwSk5lN0xEQzViNm9YMnp3TEVFREZzcllYZmVJd0NvTlJnektCTENzUEpwdjF0ZFV1WlJPOXp5U2xzNk0?oc=5)
+
+---
 
 ### [CED: Stoffwechselengpass hält chronische Darmentzündungen aufrecht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3FqNS1MRFlVSlNKWW91M0xfRl96UmlZNXdIU2dNY3g5T0c2bXZCM3FleWVYNmM5eUVoNUxRMnJJcF94LVgxbkpMTHJWNTVRUFROMVJKZlM2WVhPcTY4X1BKaWFoOU9pUEVWNVpuWWZPQ09yR2xhVk5RZXJ1YnVHeUhucFZobjJpYzZtRm1YMnhSUkFmQ2xqMktlamdSQ01YOTB2VkxOZFZWTTBxRnlF?oc=5)
 
@@ -78,11 +94,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [BPCO, il sangue potrebbe dare l’allarme prima che cali la funzione polmonare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdodDhVdzVTbHFGUGIyRG1aUmE0TEJaNWFWaEF5bW9WS2tiVUkyRl9vSVBMWklIQ1dick9SejhCWDlHYnZ0VmlrWGxuVEhMZlNRejA1a1c2LXFkeGFzTnZ2VWhHLVg4OXh4T2E0NkxHZ3U2ZnoxX2JvbElSd09OYURfVFZaZ3BfMk5vWmRjUXFrYWRYMHZ0RjhjbWNoaDJtekV3TWRpQ3dfV0ZFS2JmRkQzTllxeW9wazVtXzJSVkxGNk5yb2Z1Q2FRLVBnREE?oc=5)
+### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
-2026-08-24 <span class="news-indication-tag">BPCO</span>
+2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdodDhVdzVTbHFGUGIyRG1aUmE0TEJaNWFWaEF5bW9WS2tiVUkyRl9vSVBMWklIQ1dick9SejhCWDlHYnZ0VmlrWGxuVEhMZlNRejA1a1c2LXFkeGFzTnZ2VWhHLVg4OXh4T2E0NkxHZ3U2ZnoxX2JvbElSd09OYURfVFZaZ3BfMk5vWmRjUXFrYWRYMHZ0RjhjbWNoaDJtekV3TWRpQ3dfV0ZFS2JmRkQzTllxeW9wazVtXzJSVkxGNk5yb2Z1Q2FRLVBnREE?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 ---
 
