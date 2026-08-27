@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Shingles vaccine could protect against stroke and heart disease, study finds - Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
-
-2026-08-26 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTlhcjJTNk53VldwM014OGpTbWJBa0MxNmgtQzZFSHBUeF9sYUtzUHZxVWVYU1A1M283X192bnMzY01ua21TV24zX0tQZmdOZXVqb1pIQy16RXlZWHBaUW9WekEtNmlYMHNWSFNvNHFvMTFYSktwTXYtU0NlNFRPTlIzcnB4dHpHOEtFeDJQU085N3A5X0VxTVNRZzdfb2xjd2Zud3Y0N19ZU3BVNEhkRQ?oc=5)
-
----
-
-### [Women using HRT at lower risk of dementia, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
+### [Taking HRT for the menopause could cut risk of dementia - The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUNLbnY2SFI4dy1jdWhFbExRNVZCOVpZS3AtM1hKQkltN1l4MGJIcGVnSGlWUTJGYms5WHE0QkNCVFo4MV9RbWlORjVoUkljN1pqclVIS3BvRC1NWmIzMEFYMUxrbGp5c2lvRjJCb2lJdE14dDRGQVpQZEx0NVA2M053WjFhNllnRFgwRFY5c01lbUJfeU1OOGd5M08?oc=5)
 
 2026-08-26 <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUNLbnY2SFI4dy1jdWhFbExRNVZCOVpZS3AtM1hKQkltN1l4MGJIcGVnSGlWUTJGYms5WHE0QkNCVFo4MV9RbWlORjVoUkljN1pqclVIS3BvRC1NWmIzMEFYMUxrbGp5c2lvRjJCb2lJdE14dDRGQVpQZEx0NVA2M053WjFhNllnRFgwRFY5c01lbUJfeU1OOGd5M08?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/entacapone/
 
 ---
 
-### [Quarter of over-40s ‘unaware of preventable dementia risk factors’, survey finds - The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTU5JbmFsQ0hCbUpPM3hUZFJtaEFjTDFCMWdldWFlcVRnRTM5MnhyNzlPOUk1RGdLRGRUVUpRblNIUXNvNm9Iamc5Y2lRN0VSUTlqaVVObzZ0cmxZSndtZTd5cGtpaDhKdU81TFBoNXltM2FsbUpxdU5RZE50OW1TN0VYMEx0UUM4RzlNaU9QSmkzWUl0ZHQ4Y3gtWFNicmJ0bWtBX21BY1F2QW5I?oc=5)
+### [Millions of Brits have NO idea their daily habits risk dementia - 14 key ways - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
 
-2026-08-26 <span class="news-indication-tag">dementia</span>
+2026-08-25 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTU5JbmFsQ0hCbUpPM3hUZFJtaEFjTDFCMWdldWFlcVRnRTM5MnhyNzlPOUk1RGdLRGRUVUpRblNIUXNvNm9Iamc5Y2lRN0VSUTlqaVVObzZ0cmxZSndtZTd5cGtpaDhKdU81TFBoNXltM2FsbUpxdU5RZE50OW1TN0VYMEx0UUM4RzlNaU9QSmkzWUl0ZHQ4Y3gtWFNicmJ0bWtBX21BY1F2QW5I?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
 
 ---
 

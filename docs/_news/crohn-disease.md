@@ -3,7 +3,7 @@ layout: default
 title: "Morbus Crohn（crohn disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/crohn-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/crohn-disease/
 ---
 
 <p class="key-answer" data-question="Morbus Crohn（crohn disease） 有什麼相關新聞？">
-<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/crohn-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [NEUER THERAPIE-ANSATZ: PHAGEN GEGEN MORBUS CROHN](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaS1YOWs2VFRSNlJEWmdWTmVrZzhaQ2hWaktFVm93VjdZS2dUbEZzSnJ0M1B5QVBRcnlZSGxiZWcwN05iNVVlcWg5Q0VZMW9KYS1WRWVub3gwSk5lN0xEQzViNm9YMnp3TEVFREZzcllYZmVJd0NvTlJnektCTENzUEpwdjF0ZFV1WlJPOXp5U2xzNk0?oc=5)
 
 2026-08-26
 
 來源：[diepta.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaS1YOWs2VFRSNlJEWmdWTmVrZzhaQ2hWaktFVm93VjdZS2dUbEZzSnJ0M1B5QVBRcnlZSGxiZWcwN05iNVVlcWg5Q0VZMW9KYS1WRWVub3gwSk5lN0xEQzViNm9YMnp3TEVFREZzcllYZmVJd0NvTlJnektCTENzUEpwdjF0ZFV1WlJPOXp5U2xzNk0?oc=5)
-
----
-
-### [CED: Stoffwechselengpass hält chronische Darmentzündungen aufrecht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3FqNS1MRFlVSlNKWW91M0xfRl96UmlZNXdIU2dNY3g5T0c2bXZCM3FleWVYNmM5eUVoNUxRMnJJcF94LVgxbkpMTHJWNTVRUFROMVJKZlM2WVhPcTY4X1BKaWFoOU9pUEVWNVpuWWZPQ09yR2xhVk5RZXJ1YnVHeUhucFZobjJpYzZtRm1YMnhSUkFmQ2xqMktlamdSQ01YOTB2VkxOZFZWTTBxRnlF?oc=5)
-
-2026-08-26
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3FqNS1MRFlVSlNKWW91M0xfRl96UmlZNXdIU2dNY3g5T0c2bXZCM3FleWVYNmM5eUVoNUxRMnJJcF94LVgxbkpMTHJWNTVRUFROMVJKZlM2WVhPcTY4X1BKaWFoOU9pUEVWNVpuWWZPQ09yR2xhVk5RZXJ1YnVHeUhucFZobjJpYzZtRm1YMnhSUkFmQ2xqMktlamdSQ01YOTB2VkxOZFZWTTBxRnlF?oc=5)
 
 ---
 

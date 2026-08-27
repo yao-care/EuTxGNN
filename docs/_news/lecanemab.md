@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,61 +52,45 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Crean probiótico inteligente que ayuda a controlar la glucosa](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXBmYjVmY0xVVEQ0VDlsQVFLd1RDRTVpVXlFV0U2akNFWE4xQVltLTZHQUE4WVEtdk9DQjFXeHVyYXhFdEZabGpKTmwwU3pJdEdPVjNldHdfRGpvbVZqb1g2QkRuZVF6MFZhcWExRkJTbTBNOFlrTmFKRnQzS0I4UA?oc=5)
+### [Envejecer con diabetes tipo 1: retos de una población creciente](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRmlITGVxLW55SUI3SVFfZ05LcWdmTXd1RjdhTWJNaWw3aFQ2VUJnOWM0OEkySmowZmd3RVZyLU50YUt2a2piZkplV0x0dmRVWDdtU3U2NmstSnBsVGdNUmpCU2xvYXh6d3hkRmZwNXNFMWpuN29hR0ptUUlhaVM1OHFZNnJFTlROT1c4dkNuSUZaMGRXTHNpYW5vTjM2X0c3T1Y1YldPTEZRSE5pWHhkOXlxUkNJSTh3WEpROXY3dHJIaWFUSmR3eUdqUlZocl94cWRyYjMtRzUxQzFGTWlBSg?oc=5)
 
-2026-08-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+2026-08-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[consultorsalud](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXBmYjVmY0xVVEQ0VDlsQVFLd1RDRTVpVXlFV0U2akNFWE4xQVltLTZHQUE4WVEtdk9DQjFXeHVyYXhFdEZabGpKTmwwU3pJdEdPVjNldHdfRGpvbVZqb1g2QkRuZVF6MFZhcWExRkJTbTBNOFlrTmFKRnQzS0I4UA?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRmlITGVxLW55SUI3SVFfZ05LcWdmTXd1RjdhTWJNaWw3aFQ2VUJnOWM0OEkySmowZmd3RVZyLU50YUt2a2piZkplV0x0dmRVWDdtU3U2NmstSnBsVGdNUmpCU2xvYXh6d3hkRmZwNXNFMWpuN29hR0ptUUlhaVM1OHFZNnJFTlROT1c4dkNuSUZaMGRXTHNpYW5vTjM2X0c3T1Y1YldPTEZRSE5pWHhkOXlxUkNJSTh3WEpROXY3dHJIaWFUSmR3eUdqUlZocl94cWRyYjMtRzUxQzFGTWlBSg?oc=5)
 
 ---
 
-### ["La monitorización continua de glucosa ha supuesto un auténtico cambio de paradigma" - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1hwQm9FYzJfVGZWQnhwcldxMG9rdXVweGlCY3hSQjlhZl9VLXJuSmdjWEF1NG8zY1AzZW5OZERFbkJiOXV4bHo0bFhuVHZvNlFnVWI5dE56WWE3VlBYTW5qQ0dOQXVRbTJGYXVuTlFZZlVWVVFxWXo5VFBCblQ5MTdyTW5xV1poeHd5R0ZLdzBocVJUek1SUWpRakpFc1lIb1ppNVJIajNZWFhGRHg2dXJkbXVGX1VhM0dYZdIBtwFBVV95cUxOZU9FNDdERU5YQjYxQ1BEc3pRcFVLTDR2MmtlcTJaUTgycS1kV2UwNVljTktmUFh5Z19WR0Fta0ppSVpIcS1lYWR6ZEVLN2k2Rk5PRVUxZlNzS0hLLU9LNG00NnNMNW9LcFZrRzI3aFQtYjZSU3V3MVkyemNNVVdtVVFYVUF3ODgtVzBJc1JVYkdvNk9YdXhDV1NGNHU5Z0R1ckQ5X1Z0bEFmS3RfalEwMXhEa2xkR1k?oc=5)
+### [Los médicos lo dejan claro: "El sexo y la edad son los principales causantes de las complicaciones en la diabetes tipo 2" - Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
+
+---
+
+### [« Il agit seulement quand le sucre monte » : ce probiotique « vivant » pourrait changer le traitement du diabète - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
+
+2026-08-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
+
+---
+
+### [Capteurs, insulines, bandelettes: le vrai coût du diabète au Maroc, raconté par les patients et les médecins - Le360 - Le média des actualités du Maroc](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnp2NnB2NEdMQ0tUNFRZXzBXLXpjd2p3cFpPTDdHaTBwd2VTNEpPZ2ZabUw1OFFYSXdIWjIzM1hxMjE0M2V6WTc2TU1YYVA5cnBDWU5NcnJCb3VZN2NJa2wzSm1qVHVuRHhaRTFRaGdldHV0SlZ2LXhYUkRWTUtGRlNrcm1zLW9qa3FraEVPQkFQT2FVQ2UwY1A5bklZZUJJVG5nN3FIdkxwdHZreFpZRzd5dFlWRGZwalZiQktITl84SFRORktzd2t6WGZualczZ3ljckprUGdiQlFaa1ZNRWVFbzRtQQ?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabète</span>
+
+來源：[Le360 - Le média des actualités du Maroc](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnp2NnB2NEdMQ0tUNFRZXzBXLXpjd2p3cFpPTDdHaTBwd2VTNEpPZ2ZabUw1OFFYSXdIWjIzM1hxMjE0M2V6WTc2TU1YYVA5cnBDWU5NcnJCb3VZN2NJa2wzSm1qVHVuRHhaRTFRaGdldHV0SlZ2LXhYUkRWTUtGRlNrcm1zLW9qa3FraEVPQkFQT2FVQ2UwY1A5bklZZUJJVG5nN3FIdkxwdHZreFpZRzd5dFlWRGZwalZiQktITl84SFRORktzd2t6WGZualczZ3ljckprUGdiQlFaa1ZNRWVFbzRtQQ?oc=5)
+
+---
+
+### [Neue Diabetes-Studie: Warum Männer nach der Diagnose womöglich andere Risiken haben](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1pkWThOall3WUtfVm9tc1JKMkZ0NHVxX1lpclB2aGQwb01XOWVUR3V6Q1ZLclh5U0ktOFE1R1BlNUtHanJTTHg2M0F0aFdKRU9YQ2RxMnB3b2NzYzRKT0RoWjlsTFVpRE1EaVR5R2VBZ2s4QnBXREc1SFNJcGh1N3JUMC00aHZ4S0ppR3QtdHd4QjdnSnBjTEwtNlNocHNieV83d3VJMDBDM19SMmR3aTFMQ2RON0dyRjhCOGNPdEpXZjlGOTZzcg?oc=5)
 
 2026-08-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1hwQm9FYzJfVGZWQnhwcldxMG9rdXVweGlCY3hSQjlhZl9VLXJuSmdjWEF1NG8zY1AzZW5OZERFbkJiOXV4bHo0bFhuVHZvNlFnVWI5dE56WWE3VlBYTW5qQ0dOQXVRbTJGYXVuTlFZZlVWVVFxWXo5VFBCblQ5MTdyTW5xV1poeHd5R0ZLdzBocVJUek1SUWpRakpFc1lIb1ppNVJIajNZWFhGRHg2dXJkbXVGX1VhM0dYZdIBtwFBVV95cUxOZU9FNDdERU5YQjYxQ1BEc3pRcFVLTDR2MmtlcTJaUTgycS1kV2UwNVljTktmUFh5Z19WR0Fta0ppSVpIcS1lYWR6ZEVLN2k2Rk5PRVUxZlNzS0hLLU9LNG00NnNMNW9LcFZrRzI3aFQtYjZSU3V3MVkyemNNVVdtVVFYVUF3ODgtVzBJc1JVYkdvNk9YdXhDV1NGNHU5Z0R1ckQ5X1Z0bEFmS3RfalEwMXhEa2xkR1k?oc=5)
-
----
-
-### [Diabetes und Psyche: Frauen 16-39 Jahre am stärksten gefährdet](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVVaWkotUVA1OVdaQkxZUVAwYmtyM19pdXZjTkZYSE96WFBrSW1pUkJRcmdpa3pUNlJFVW1kVzhzLXdLTkIzWjBmVE9hZkZmek13Uko0SzZ2bEg0ZWpKelczUEpZZjUtZHBVMDhZbHlEbkR5THlHQnpxdHktU0tYbmFiNzBHNHpfOTVQOEJOSXRhVXNTNGFDSDZ4SzF4X2VtbkVkVl9xZXZxU1NCZTZ5UllR?oc=5)
-
-2026-08-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVVaWkotUVA1OVdaQkxZUVAwYmtyM19pdXZjTkZYSE96WFBrSW1pUkJRcmdpa3pUNlJFVW1kVzhzLXdLTkIzWjBmVE9hZkZmek13Uko0SzZ2bEg0ZWpKelczUEpZZjUtZHBVMDhZbHlEbkR5THlHQnpxdHktU0tYbmFiNzBHNHpfOTVQOEJOSXRhVXNTNGFDSDZ4SzF4X2VtbkVkVl9xZXZxU1NCZTZ5UllR?oc=5)
-
----
-
-### [Prediabetes: la enfermedad silenciosa de la que casi nadie habla](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWDhmSzhVdXhNcHVYemJ5UWptMUVDbVpHVDkwdEYwa1BIbXF4VHlSbUVoUTZYQ2FrSmYtdGQtYWRFWjZMbXRQYk4xUnFTNVpSOTVrWEtrLTZpeTB0YS1JRGpITnI3UnlWejVQckdKY3BpYk1tek9GZHNjWVNGdmlUUmJScjlRUlkzejNWd1pGWkd4ZXpQeENMR1hIT1ZXWnNXM0pFX2tZVXVkbUxXUjlaOFIyTE1sd0ZkWDZEX2N5N2ludw?oc=5)
-
-2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWDhmSzhVdXhNcHVYemJ5UWptMUVDbVpHVDkwdEYwa1BIbXF4VHlSbUVoUTZYQ2FrSmYtdGQtYWRFWjZMbXRQYk4xUnFTNVpSOTVrWEtrLTZpeTB0YS1JRGpITnI3UnlWejVQckdKY3BpYk1tek9GZHNjWVNGdmlUUmJScjlRUlkzejNWd1pGWkd4ZXpQeENMR1hIT1ZXWnNXM0pFX2tZVXVkbUxXUjlaOFIyTE1sd0ZkWDZEX2N5N2ludw?oc=5)
-
----
-
-### [Millones de personas con diabetes podrían estar recibiendo tratamientos que no les corresponde](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
-
-2026-08-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
-
----
-
-### [Diabetes Typ 1: Intervallfasten hat überraschende Wirkung auf Langzeitblutzucker](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
-
----
-
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Demenzrisiko um 43%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
-
-2026-08-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHRrMWhLdlVPRDUzUFA0TlRkNTdZLUs5X2VYMWcyNUg2M29WaEV3TlY0eGRUU0R3aVVUYjBvOC1hUE5fZjhjNXhHSzNsejZPbndpZHhFOXFCWDFCMUYtVXlYTFBmdmlwZnp5djllNE81VnZYVmZYeU5fNnptU3RUenBOWmtaRFB4aHhWdF9fUk0xc29oZUFoX1AwWmYtX0JaeFVNQURaS1Y1WDI3Mk5PbHIzdndiMTRDRDh5NjlR?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1pkWThOall3WUtfVm9tc1JKMkZ0NHVxX1lpclB2aGQwb01XOWVUR3V6Q1ZLclh5U0ktOFE1R1BlNUtHanJTTHg2M0F0aFdKRU9YQ2RxMnB3b2NzYzRKT0RoWjlsTFVpRE1EaVR5R2VBZ2s4QnBXREc1SFNJcGh1N3JUMC00aHZ4S0ppR3QtdHd4QjdnSnBjTEwtNlNocHNieV83d3VJMDBDM19SMmR3aTFMQ2RON0dyRjhCOGNPdEpXZjlGOTZzcg?oc=5)
 
 ---
 
@@ -118,11 +102,19 @@ permalink: /news/lecanemab/
 
 ---
 
-### [9 foods to cut out of your diet to slash diabetes risk - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmVEcVB2WFFTbE9hUUhmcWp2c19vQl8zMzNvTmlvbDI1YWNFRWQ3Z0ZnblJuTmFQWktBRTVvNkN2OERFOEUxYmJlUmQwV2xiUEh3QjlhM0w4Ujc0aG94bDZTRmFmMEVsZmNsaEdVZHBJaU14TGNUdHZ5X0RpQ01pVzYwYjAyRGVVdTBwQWVR0gGTAUFVX3lxTE5mcTNWemxZVWlodUd2TXAtVndxd2tzTXRNemQ2Ty1NRU5Tek9CVG5XS3dUallUR1kzbWZVTy1LTjZYLTFkUVZTMWhUcm9SRmJPN3VvM3ZHZWFrUExmQnRPaGhOZzFzRGYyX0ljbExmcU14R3ZueGxKWk4waU9WMzViVXlTRnN4d1NYX1VncjV5Yzlacw?oc=5)
+### [Typ-2-Diabetes bei Jugendlichen nimmt zu: Besorgniserregender Trend auch in Deutschland](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
 
-2026-08-25 <span class="news-indication-tag">diabetes</span>
+2026-08-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmVEcVB2WFFTbE9hUUhmcWp2c19vQl8zMzNvTmlvbDI1YWNFRWQ3Z0ZnblJuTmFQWktBRTVvNkN2OERFOEUxYmJlUmQwV2xiUEh3QjlhM0w4Ujc0aG94bDZTRmFmMEVsZmNsaEdVZHBJaU14TGNUdHZ5X0RpQ01pVzYwYjAyRGVVdTBwQWVR0gGTAUFVX3lxTE5mcTNWemxZVWlodUd2TXAtVndxd2tzTXRNemQ2Ty1NRU5Tek9CVG5XS3dUallUR1kzbWZVTy1LTjZYLTFkUVZTMWhUcm9SRmJPN3VvM3ZHZWFrUExmQnRPaGhOZzFzRGYyX0ljbExmcU14R3ZueGxKWk4waU9WMzViVXlTRnN4d1NYX1VncjV5Yzlacw?oc=5)
+來源：[MDR.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR05QeWNYOC1fTU1DZnlqa1MtZVQxX2FweDdhRFRYYXBvbkV6cjhmOTdVR0FGODYtc1lwXzFKaVpBemJ3amRPMGkxZm1GVWQyUjVOcXlORXhvOUI4VWo0ZUF5Tk80ekVzc1dJdl9EemJNbkdWYjZjZW82ZjAzOGJYMmhoaTBubnI5RmVxcEtOdXFOSUZmQkRxaWJyRkEtM2xTaFlINGx0VXN2RXV4TFBJQUFhbnJ3TTdO?oc=5)
+
+---
+
+### [Tirzepatid bei Typ-2-Diabetes: Kein belegter Zusatznutzen bei Kindern und Jugendlichen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjI1TkZPWERkWFZkVkV5dTU1akd2bFdpYldNdmVzRGRSTXpjWE1nNWZid0xCOXczUFViT1NEcjZFWHRZSzZ4NlFna3d2bmVyOWtGaDhVX01FNFF0dUhfQ3BlVmE3NXNFeFhJV2M2YUljeUhjZDRhQUt5YURnMWd1eFQ5ZWdTZXVYTUo2RU1Od3Nra3ltclRCOEg1SzJaY0NRbVk3VE1pYWdRbEVrYkttNGJNTmd0anExelVvRjBhYjk1aEFXRU5XaA?oc=5)
+
+2026-08-21 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjI1TkZPWERkWFZkVkV5dTU1akd2bFdpYldNdmVzRGRSTXpjWE1nNWZid0xCOXczUFViT1NEcjZFWHRZSzZ4NlFna3d2bmVyOWtGaDhVX01FNFF0dUhfQ3BlVmE3NXNFeFhJV2M2YUljeUhjZDRhQUt5YURnMWd1eFQ5ZWdTZXVYTUo2RU1Od3Nra3ltclRCOEg1SzJaY0NRbVk3VE1pYWdRbEVrYkttNGJNTmd0anExelVvRjBhYjk1aEFXRU5XaA?oc=5)
 
 ---
 

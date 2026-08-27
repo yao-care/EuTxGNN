@@ -54,11 +54,11 @@ permalink: /news/givosiran/
 
 ## 相關新聞（1 則）
 
-### [HPV, Hepatitis B, Melanom: Welche Krebsimpfstoffe es gibt – und warum ein universeller Impfstoff unrealistisch ist](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXRMR09JSGx1MzNuaWtlb194dFJUb2RCODgxYm9OdkFNallXWEo5a0tSSE1uakhXa0hmZXlNd0RDSW1tU0paLUtkWk1zOVZpWS1zYjZoaG5uYjE4Nk81WUduSXBKUzVMakNFWTlmRFZOVFVtbmtEQW1oMENaSW5nYUtCNHJoaS1yUnZKSG9MNHRjZFdyN2psWm1jWE9SYW10Vm10dE4ydzNZVXJQTWc?oc=5)
+### [Mit einer Impfung gegen Krebs: Neue Kampagne im Kreis Fulda zum Schutz vor HPV - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHV1eXk1RjR0RlVFcHg2dUhVQmt0NjdkczNxenJmY3dEeVJzWmptaGhzaGxVc3Jaekc0YklVMEhXWjQ1TEVBaTNnLVFKVE1hS2g0MzVRTnM5TG5YUGNiTXpFUHRTU2xJNUFMdWtKU0w5eHRGZXNRVzI5T3o1S1JOaGxNS1BXQkFTbHZVY3l2UDQ1TVUzWjY4dDBBdTQxRGdqRjl0VDRuQmliU3dPMm12VUFaN0dyTEFETFE?oc=5)
 
-2026-08-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[Kreiszeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXRMR09JSGx1MzNuaWtlb194dFJUb2RCODgxYm9OdkFNallXWEo5a0tSSE1uakhXa0hmZXlNd0RDSW1tU0paLUtkWk1zOVZpWS1zYjZoaG5uYjE4Nk81WUduSXBKUzVMakNFWTlmRFZOVFVtbmtEQW1oMENaSW5nYUtCNHJoaS1yUnZKSG9MNHRjZFdyN2psWm1jWE9SYW10Vm10dE4ydzNZVXJQTWc?oc=5)
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHV1eXk1RjR0RlVFcHg2dUhVQmt0NjdkczNxenJmY3dEeVJzWmptaGhzaGxVc3Jaekc0YklVMEhXWjQ1TEVBaTNnLVFKVE1hS2g0MzVRTnM5TG5YUGNiTXpFUHRTU2xJNUFMdWtKU0w5eHRGZXNRVzI5T3o1S1JOaGxNS1BXQkFTbHZVY3l2UDQ1TVUzWjY4dDBBdTQxRGdqRjl0VDRuQmliU3dPMm12VUFaN0dyTEFETFE?oc=5)
 
 ---
 

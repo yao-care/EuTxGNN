@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
 
-### [Could a 20-Year-Old Drug Repair Cartilage Damaged by Osteoarthritis? A Yale Study Suggests It Can](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+### [El uso excesivo de inhaladores aumenta el riesgo de infarto en pacientes con asma y EPOC - Diario de Navarra](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWNrSlBpb1h2czVMWWtRbmVqUGdjZnFmaHdBWTVvc0plOUxGX0VjdU1XV2tEMzhRTDNlZ0lfbUJEa2xRczU2bUdzREd6cVh6Vy1KM2hNdmlVU0FOaEpuODNlMFRTZXRPX1dQdjZhZl9hU0c2UzNQbUJBQ1pOd2pHdEl0a3lXMVlhaTRYQmdkVGtLd2hKbUJqYkQwRWxLYUtKSmVfajIwYk1OaHpITXRsWkZsOU5XSjdEU1VDSjRMdnMyUmV4STRQNXl0b0hZeWt3TEE?oc=5)
 
-2026-08-25 <span class="news-indication-tag">arthritis</span>
+2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWNrSlBpb1h2czVMWWtRbmVqUGdjZnFmaHdBWTVvc0plOUxGX0VjdU1XV2tEMzhRTDNlZ0lfbUJEa2xRczU2bUdzREd6cVh6Vy1KM2hNdmlVU0FOaEpuODNlMFRTZXRPX1dQdjZhZl9hU0c2UzNQbUJBQ1pOd2pHdEl0a3lXMVlhaTRYQmdkVGtLd2hKbUJqYkQwRWxLYUtKSmVfajIwYk1OaHpITXRsWkZsOU5XSjdEU1VDSjRMdnMyUmV4STRQNXl0b0hZeWt3TEE?oc=5)
 
 ---
 
-### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
+### [SEPAR pone en marcha el Año SEPAR de la Vía Aérea 2026-2027, bajo el lema "Escucha tu respiración" - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE4xa21xM1dJeTFEZ3V5bkFia3VLcDlTLTJwZmFMYkhOQnZUMWVWTFRmQ1NvZGZFalloSk5XYW1aLWZTMDFDVWNtNGwtR2NpTEdRTnZlN0FmUGl2NG04eUxCWXhUbDIyVnV0ejlSN3hlaVFkMWNLUnE0NFlEc01jT2dPbWFyMk1rLXhiNXJjck5BOGdyS2wzbTMwOUw2UDJ2OTZaQVUxTTgzSGRkeThmWUpKQlNsX0tU0gGzAUFVX3lxTE90eUdQZDBZc194TG1iTlRoNnJNVmdhVWpJMkcxa1BOQ1VkWGZHRUlNMXMtLVRJMUxEYnNPOHNsZ0w2U1dPRExERm9jM1Viemk3aExXZU1tU1B2aWNSX0RROXdaeG84U21vUVUyelYxa1VYSnBPYWhocl9taGJ4YjJnYm9MVGtubjdrb0l5ajFLdS13RmowdDdxWl8yUy1Jc3NKall3dHNkSGFRLTZLYXlZNmR3?oc=5)
 
-2026-08-25 <span class="news-indication-tag">copd</span>
+2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE4xa21xM1dJeTFEZ3V5bkFia3VLcDlTLTJwZmFMYkhOQnZUMWVWTFRmQ1NvZGZFalloSk5XYW1aLWZTMDFDVWNtNGwtR2NpTEdRTnZlN0FmUGl2NG04eUxCWXhUbDIyVnV0ejlSN3hlaVFkMWNLUnE0NFlEc01jT2dPbWFyMk1rLXhiNXJjck5BOGdyS2wzbTMwOUw2UDJ2OTZaQVUxTTgzSGRkeThmWUpKQlNsX0tU0gGzAUFVX3lxTE90eUdQZDBZc194TG1iTlRoNnJNVmdhVWpJMkcxa1BOQ1VkWGZHRUlNMXMtLVRJMUxEYnNPOHNsZ0w2U1dPRExERm9jM1Viemk3aExXZU1tU1B2aWNSX0RROXdaeG84U21vUVUyelYxa1VYSnBPYWhocl9taGJ4YjJnYm9MVGtubjdrb0l5ajFLdS13RmowdDdxWl8yUy1Jc3NKall3dHNkSGFRLTZLYXlZNmR3?oc=5)
+
+---
+
+### [Zelltherapie bei schwerer rheumatoider Arthritis erfolgreich - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
+
+2026-08-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
+
+---
+
+### [Un móvil y la voz: la nueva vía para anticipar las crisis de asma y EPOC](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlFpd3MxQjhsUjE3ZXI5ZUMyaDVEZUl5OS1sWTBLWkdDelBLZlJ3VWx5RmFQQTRNYjFzZ0VKSURwa2h2dkRXQ19ZYWlkMEpmTjFycGtWekFCVW1VU0tiYXdIYzF3WFhrTUxXbkVfdWxSS2tBTXZYSEU4OFdLNjhWUzE0bEY2bDdYa2ZCLVh0VVdLWEd6UkMtVk4wQWxRSWxTMXkxbTJ2TlpIcUhWT0JSN3ZnWUNWQ00?oc=5)
+
+2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlFpd3MxQjhsUjE3ZXI5ZUMyaDVEZUl5OS1sWTBLWkdDelBLZlJ3VWx5RmFQQTRNYjFzZ0VKSURwa2h2dkRXQ19ZYWlkMEpmTjFycGtWekFCVW1VU0tiYXdIYzF3WFhrTUxXbkVfdWxSS2tBTXZYSEU4OFdLNjhWUzE0bEY2bDdYa2ZCLVh0VVdLWEd6UkMtVk4wQWxRSWxTMXkxbTJ2TlpIcUhWT0JSN3ZnWUNWQ00?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/idarucizumab/
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+---
+
+### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">copd</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
 
 ---
 

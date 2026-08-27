@@ -3,7 +3,7 @@ layout: default
 title: "Hydroxocobalamin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Hydroxocobalamin 的相關健康新聞報導。原適應症：Treatment of known or suspected cyanide poisoning....。預測適應症 20 個。"
+description: "Hydroxocobalamin 的相關健康新聞報導。原適應症：Treatment of known or suspected cyanide poisoning....。預測適應症 9 個。"
 permalink: /news/hydroxocobalamin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydroxocobalamin/
 ---
 
 <p class="key-answer" data-question="Hydroxocobalamin 有什麼相關新聞？">
-<strong>Hydroxocobalamin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Hydroxocobalamin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,16 @@ permalink: /news/hydroxocobalamin/
 <ul>
 <li><strong>原適應症</strong>：Treatment of known or suspected cyanide poisoning. Cyanokit is to be administered together with appropriate decontamination and supportive measures.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>esophageal varices without bleeding（99.2%）</li>
-<li>esophageal varices with bleeding（99.2%）</li>
-<li>varicose disease（98.9%）</li>
-<li>immune-mediated necrotizing myopathy（98.7%）</li>
-<li>antisynthetase syndrome（98.6%）</li>
-<li>focal myositis（98.6%）</li>
-<li>inflammatory myopathy with abundant macrophages（98.5%）</li>
-<li>idiopathic eosinophilic myositis（98.5%）</li>
-<li>vitamin deficiency disorder（98.4%）</li>
-<li>congenital prothrombin deficiency（98.3%）</li>
-<li>biotin metabolic disease（98.1%）</li>
-<li>osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome（97.2%）</li>
-<li>C1 inhibitor deficiency（96.9%）</li>
-<li>maternally-inherited mitochondrial myopathy（96.7%）</li>
-<li>vitamin B12 deficiency（96.7%）</li>
-<li>maternally-inherited mitochondrial dystonia（96.6%）</li>
-<li>primary optic atrophy（96.5%）</li>
-<li>hypophosphatasia（96.5%）</li>
-<li>serpinopathy with toxic serpin polymerization（96.3%）</li>
-<li>Steel syndrome（96.0%）</li>
+<li><strong>預測適應症</strong>（9 個）：<ul>
+<li>Esophageal varices with bleeding | 99.23% | L5 | S0 | Hold（99.0%）</li>
+<li>Esophageal varices without bleeding | 99.23% | L5 | S0 | Hold（99.0%）</li>
+<li>Varicose disease | 98.89% | L5 | S0 | Hold（99.0%）</li>
+<li>Immune-mediated necrotizing myopathy | 98.69% | L5 | S0 | Hold（99.0%）</li>
+<li>Antisynthetase syndrome | 98.64% | L5 | S0 | Hold（99.0%）</li>
+<li>Focal myositis | 98.56% | L5 | S0 | Hold（99.0%）</li>
+<li>Inflammatory myopathy with abundant macrophages | 98.46% | L5 | S0 | Hold（99.0%）</li>
+<li>Idiopathic eosinophilic myositis | 98.46% | L5 | S0 | Hold（99.0%）</li>
+<li>Congenital prothrombin deficiency | 98.32% | L5 | S0 | Hold（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxocobalamin/' | relative_url }}">查看完整藥物報告 →</a></p>

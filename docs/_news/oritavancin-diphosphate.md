@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/oritavancin-diphosphate/
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Bauernhof-Effekt: Bestimmte Bakterien senken Asthma um zwei Drittel](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUlkM05hU3U1WmRFbDN6Z3ZFa3FUS2pldHVXUWNQUHl6WUtIUnUzOEctUjB2NDFSSm1oT1pRWE9kSmhiODl5Q2JwTDRiZGVWTmJGWnQ4QUVnQ0l6Nnl4UTJNYktVRExqeklYOFlZVVBpOW11bWN3RURCVHBmYm54Zk5LM3h0Nl9xOU0xOXBOMU5aOFZFNlVuNTNDa1NYSjgwZGFCWUNaRGNhSEFKZExNaWhDTlVKZw?oc=5)
+### [El uso excesivo de inhaladores aumenta el riesgo de infarto en pacientes con asma y EPOC - Diario de Navarra](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWNrSlBpb1h2czVMWWtRbmVqUGdjZnFmaHdBWTVvc0plOUxGX0VjdU1XV2tEMzhRTDNlZ0lfbUJEa2xRczU2bUdzREd6cVh6Vy1KM2hNdmlVU0FOaEpuODNlMFRTZXRPX1dQdjZhZl9hU0c2UzNQbUJBQ1pOd2pHdEl0a3lXMVlhaTRYQmdkVGtLd2hKbUJqYkQwRWxLYUtKSmVfajIwYk1OaHpITXRsWkZsOU5XSjdEU1VDSjRMdnMyUmV4STRQNXl0b0hZeWt3TEE?oc=5)
 
-2026-08-27 <span class="news-indication-tag">asthma</span>
+2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUlkM05hU3U1WmRFbDN6Z3ZFa3FUS2pldHVXUWNQUHl6WUtIUnUzOEctUjB2NDFSSm1oT1pRWE9kSmhiODl5Q2JwTDRiZGVWTmJGWnQ4QUVnQ0l6Nnl4UTJNYktVRExqeklYOFlZVVBpOW11bWN3RURCVHBmYm54Zk5LM3h0Nl9xOU0xOXBOMU5aOFZFNlVuNTNDa1NYSjgwZGFCWUNaRGNhSEFKZExNaWhDTlVKZw?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWNrSlBpb1h2czVMWWtRbmVqUGdjZnFmaHdBWTVvc0plOUxGX0VjdU1XV2tEMzhRTDNlZ0lfbUJEa2xRczU2bUdzREd6cVh6Vy1KM2hNdmlVU0FOaEpuODNlMFRTZXRPX1dQdjZhZl9hU0c2UzNQbUJBQ1pOd2pHdEl0a3lXMVlhaTRYQmdkVGtLd2hKbUJqYkQwRWxLYUtKSmVfajIwYk1OaHpITXRsWkZsOU5XSjdEU1VDSjRMdnMyUmV4STRQNXl0b0hZeWt3TEE?oc=5)
+
+---
+
+### [SEPAR pone en marcha el Año SEPAR de la Vía Aérea 2026-2027, bajo el lema "Escucha tu respiración" - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE4xa21xM1dJeTFEZ3V5bkFia3VLcDlTLTJwZmFMYkhOQnZUMWVWTFRmQ1NvZGZFalloSk5XYW1aLWZTMDFDVWNtNGwtR2NpTEdRTnZlN0FmUGl2NG04eUxCWXhUbDIyVnV0ejlSN3hlaVFkMWNLUnE0NFlEc01jT2dPbWFyMk1rLXhiNXJjck5BOGdyS2wzbTMwOUw2UDJ2OTZaQVUxTTgzSGRkeThmWUpKQlNsX0tU0gGzAUFVX3lxTE90eUdQZDBZc194TG1iTlRoNnJNVmdhVWpJMkcxa1BOQ1VkWGZHRUlNMXMtLVRJMUxEYnNPOHNsZ0w2U1dPRExERm9jM1Viemk3aExXZU1tU1B2aWNSX0RROXdaeG84U21vUVUyelYxa1VYSnBPYWhocl9taGJ4YjJnYm9MVGtubjdrb0l5ajFLdS13RmowdDdxWl8yUy1Jc3NKall3dHNkSGFRLTZLYXlZNmR3?oc=5)
+
+2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE4xa21xM1dJeTFEZ3V5bkFia3VLcDlTLTJwZmFMYkhOQnZUMWVWTFRmQ1NvZGZFalloSk5XYW1aLWZTMDFDVWNtNGwtR2NpTEdRTnZlN0FmUGl2NG04eUxCWXhUbDIyVnV0ejlSN3hlaVFkMWNLUnE0NFlEc01jT2dPbWFyMk1rLXhiNXJjck5BOGdyS2wzbTMwOUw2UDJ2OTZaQVUxTTgzSGRkeThmWUpKQlNsX0tU0gGzAUFVX3lxTE90eUdQZDBZc194TG1iTlRoNnJNVmdhVWpJMkcxa1BOQ1VkWGZHRUlNMXMtLVRJMUxEYnNPOHNsZ0w2U1dPRExERm9jM1Viemk3aExXZU1tU1B2aWNSX0RROXdaeG84U21vUVUyelYxa1VYSnBPYWhocl9taGJ4YjJnYm9MVGtubjdrb0l5ajFLdS13RmowdDdxWl8yUy1Jc3NKall3dHNkSGFRLTZLYXlZNmR3?oc=5)
+
+---
+
+### [Un móvil y la voz: la nueva vía para anticipar las crisis de asma y EPOC](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlFpd3MxQjhsUjE3ZXI5ZUMyaDVEZUl5OS1sWTBLWkdDelBLZlJ3VWx5RmFQQTRNYjFzZ0VKSURwa2h2dkRXQ19ZYWlkMEpmTjFycGtWekFCVW1VU0tiYXdIYzF3WFhrTUxXbkVfdWxSS2tBTXZYSEU4OFdLNjhWUzE0bEY2bDdYa2ZCLVh0VVdLWEd6UkMtVk4wQWxRSWxTMXkxbTJ2TlpIcUhWT0JSN3ZnWUNWQ00?oc=5)
+
+2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlFpd3MxQjhsUjE3ZXI5ZUMyaDVEZUl5OS1sWTBLWkdDelBLZlJ3VWx5RmFQQTRNYjFzZ0VKSURwa2h2dkRXQ19ZYWlkMEpmTjFycGtWekFCVW1VU0tiYXdIYzF3WFhrTUxXbkVfdWxSS2tBTXZYSEU4OFdLNjhWUzE0bEY2bDdYa2ZCLVh0VVdLWEd6UkMtVk4wQWxRSWxTMXkxbTJ2TlpIcUhWT0JSN3ZnWUNWQ00?oc=5)
 
 ---
 

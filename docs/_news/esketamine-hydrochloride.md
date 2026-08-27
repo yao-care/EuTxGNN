@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [La proteína relacionada con el azhéimer aumenta el riesgo de síntomas depresivos al envejecer - 65 y más](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUhpaXF3dkFGYmtYcThHVGFnSDZKNWNLa19iTGJodHNQUUs4enFWV3loWS0wSmstR2E3NVlqMC1LU2hKZ3k3T05fZ3lMbEREdnFubnBIcHU5R0dCbXU3UTZPdngwUGlISFZFZldDVW1RdDFpWW1ERGV5c1ptbUJSeG5tODZnc3RYaXZjb21QaUMtM3NaeWFTMVM3QnVGU2U0ZUxrZGN5Y0JnTUpVckxCcmdsNzVhbTc5a3ZUb2JLbw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">depresión</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUhpaXF3dkFGYmtYcThHVGFnSDZKNWNLa19iTGJodHNQUUs4enFWV3loWS0wSmstR2E3NVlqMC1LU2hKZ3k3T05fZ3lMbEREdnFubnBIcHU5R0dCbXU3UTZPdngwUGlISFZFZldDVW1RdDFpWW1ERGV5c1ptbUJSeG5tODZnc3RYaXZjb21QaUMtM3NaeWFTMVM3QnVGU2U0ZUxrZGN5Y0JnTUpVckxCcmdsNzVhbTc5a3ZUb2JLbw?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Wie das Darmmikrobiom Gehirn und Erkrankungen beeinflusst – von GLP-1 bis Parkinson - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFVoc2RsTnltMGRSWkY5NkltMm9QenZidWFVSXV2WlRLV3JqYWR0N3ZmSVpGWWFGWXdxYjhkaUFfeFZZX21ZWGpVRG5nYnBxc3Q1QUNMRHg1REFLZjZWWk51N0htcWhiTUFNY1ByNy1sOC1GUVZrTTBGVVBYTW0yRWpLSExOWHdqZ1djMGRWcFVZRDR4ZWVadGlNMVBTQ0hwX0M0SnpLWHhBa0daOE9SenNlSQ?oc=5)
 
@@ -83,14 +75,6 @@ permalink: /news/esketamine-hydrochloride/
 2026-08-25 <span class="news-indication-tag">dépression</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkRTMzNwVHVNZHlTNGdQenRQSzRGQzBRNmZaSE5rbmpEX2hnX085dWdmZDl0bWJfYlhFa21rWXF6VXpDRE9BY3N4dFhBTVVCYnhvYnhSUFlfa3VXRjlpQ3FaYUVOT0pyY2N4cVB1X3pwd3hjVFZnYkFydDdhTkhRNGtsNE05MUVvbWpFbTN5NVJRWVlTWC0walZLeURZOElBSWkwVF85T2c?oc=5)
-
----
-
-### [Depression may shut down the brain’s ability to make new neurons](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hrWVF6dmdEUDNiMk1DZTlwU0JSWk5XdXpJVkFuS0hlN0ZnSG8tb3FLVXZ6UlN1bkVLTU05dnpMR3Jfd1NiTmRBTXdBSkxWUjFnYzd4RGhDb0ZnSkZfUjVCaEpZbUxfZlhkemMtdw?oc=5)
-
-2026-08-25 <span class="news-indication-tag">depression</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hrWVF6dmdEUDNiMk1DZTlwU0JSWk5XdXpJVkFuS0hlN0ZnSG8tb3FLVXZ6UlN1bkVLTU05dnpMR3Jfd1NiTmRBTXdBSkxWUjFnYzd4RGhDb0ZnSkZfUjVCaEpZbUxfZlhkemMtdw?oc=5)
 
 ---
 
