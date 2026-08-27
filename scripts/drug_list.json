@@ -1,6 +1,6 @@
 {
-  "total": 724,
-  "generated_at": "2026-08-27T05:31:52.949546",
+  "total": 729,
+  "generated_at": "2026-08-27T21:23:37.614367",
   "drugs": [
     {
       "name": "Abacavir",
@@ -1878,24 +1878,24 @@
       "name": "Dopamine",
       "file": "dopamine.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "hypotensive disorder",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Doravirine",
       "file": "doravirine.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "HIV infectious disease",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Dostarlimab",
       "file": "dostarlimab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "rod-cone dystrophy, sensorineural deafness, and Fanconi-type renal dysfunction",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1907,27 +1907,35 @@
       "approved_indication": ""
     },
     {
+      "name": "Doxorubicin",
+      "file": "doxorubicin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Dronedarone",
       "file": "dronedarone.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "stroke disorder",
+      "indication_count": 10,
+      "predicted_indication": "Stroke (\"stroke disorder\")",
       "approved_indication": ""
     },
     {
       "name": "Drospirenone",
       "file": "drospirenone.md",
-      "evidence_level": "L1",
-      "indication_count": 52,
-      "predicted_indication": "acne (disease)",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Dulaglutide",
       "file": "dulaglutide.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "opsismodysplasia",
+      "indication_count": 10,
+      "predicted_indication": "Opsismodysplasia",
       "approved_indication": ""
     },
     {
@@ -1942,32 +1950,32 @@
       "name": "Duloxetine",
       "file": "duloxetine.md",
       "evidence_level": "L5",
-      "indication_count": 1,
-      "predicted_indication": "female stress incontinence",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Dupilumab",
       "file": "dupilumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "bronchitis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Durvalumab",
       "file": "durvalumab.md",
-      "evidence_level": "L2",
-      "indication_count": 50,
-      "predicted_indication": "prostatic urethra urothelial carcinoma",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Duvelisib",
       "file": "duvelisib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "Hodgkins lymphoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -2654,16 +2662,16 @@
       "name": "Granisetron",
       "file": "granisetron.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "manic bipolar affective disorder",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Grazoprevir",
       "file": "grazoprevir.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "chronic hepatitis C virus infection",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -2675,11 +2683,19 @@
       "approved_indication": ""
     },
     {
+      "name": "Guanfacine",
+      "file": "guanfacine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Guselkumab",
       "file": "guselkumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "drug-induced osteoporosis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -2691,43 +2707,51 @@
       "approved_indication": ""
     },
     {
+      "name": "Human Thrombin",
+      "file": "human_thrombin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Hydrochlorothiazide",
       "file": "hydrochlorothiazide.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "malignant hypertensive renal disease",
+      "indication_count": 10,
+      "predicted_indication": "Malignant hypertensive renal disease",
       "approved_indication": ""
     },
     {
       "name": "Hydrocortisone",
       "file": "hydrocortisone.md",
-      "evidence_level": "L2",
-      "indication_count": 171,
-      "predicted_indication": "alopecia areata",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Hydroxocobalamin",
       "file": "hydroxocobalamin.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "esophageal varices without bleeding",
+      "indication_count": 10,
+      "predicted_indication": "Esophageal varices with bleeding",
       "approved_indication": ""
     },
     {
       "name": "Ibrutinib",
       "file": "ibrutinib.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "mantle cell lymphoma",
+      "indication_count": 10,
+      "predicted_indication": "Polyclonal hypergammaglobulinemia",
       "approved_indication": ""
     },
     {
       "name": "Ibuprofen",
       "file": "ibuprofen.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "osteoarthritis susceptibility",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -4126,24 +4150,24 @@
       "name": "Pazopanib",
       "file": "pazopanib.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "clear cell renal carcinoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Pegaspargase",
       "file": "pegaspargase.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "acute lymphoblastic leukemia (disease)",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Pegfilgrastim",
       "file": "pegfilgrastim.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "severe nonproliferative diabetic retinopathy",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -4163,43 +4187,59 @@
       "approved_indication": ""
     },
     {
+      "name": "Peginterferon Alfa-2A",
+      "file": "peginterferon_alfa-2a.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Peginterferon Beta-1A",
+      "file": "peginterferon_beta-1a.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Pegvaliase",
       "file": "pegvaliase.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "diabetic retinopathy",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Pegvisomant",
       "file": "pegvisomant.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "borderline ovarian serous tumor",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Pembrolizumab",
       "file": "pembrolizumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "fibromatosis, gingival",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Pemetrexed",
       "file": "pemetrexed.md",
-      "evidence_level": "L3",
-      "indication_count": 51,
-      "predicted_indication": "malignant peritoneal mesothelioma",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Pemigatinib",
       "file": "pemigatinib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "multiple endocrine neoplasia",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
