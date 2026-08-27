@@ -2,7 +2,7 @@
 layout: default
 title: Lasmiditan
 parent: 僅模型預測 (L5)
-nav_order: 218
+nav_order: 239
 evidence_level: L5
 indication_count: 10
 ---

@@ -1,111 +1,116 @@
 ---
 layout: default
 title: Duloxetine
-description: "Duloxetine drug repurposing predictions from TxGNN. Evidence level L5 with 1 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 186
+parent: 僅模型預測 (L5)
+nav_order: 196
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Duloxetine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using superpowers checked — this is a self-contained content-generation task (populate the given evidence-pack-to-report template with the provided JSON), not a coding/debugging/design task, so no additional skill applies. I'll flag one honesty issue up front: `predicted_indications[0]` (top TxGNN score) is "benign paroxysmal torticollis of infancy," which has **zero** trials/literature and an L5/Hold status — I followed the spec's extraction rule literally rather than substituting a better-evidenced candidate from the same pack, and noted the discrepancy in the Conclusion so it isn't silently misleading.
+
+Also note: `drug.original_indications` and `taiwan_regulatory.licenses` are both empty, so "Original Indication" cannot be sourced from Taiwan regulatory data as instructed — I did not guess it. Instead I cited the one place original indications actually appear in this evidence pack (the PMID 31749717 abstract, itself provided data, not external knowledge), and labeled it clearly as such rather than presenting it as a confirmed local label indication.
+
+---
+
+# Duloxetine: From Major Depressive Disorder to Benign Paroxysmal Torticollis of Infancy
+
+## One-Sentence Summary
+
+> Duloxetine is a serotonin-norepinephrine reuptake inhibitor (SNRI), globally known for treating major depressive disorder, generalized anxiety disorder, diabetic peripheral neuropathic pain, and fibromyalgia (per literature cited in this evidence pack).
+> The TxGNN model's top-ranked prediction for this drug is **Benign Paroxysmal Torticollis of Infancy**, with a prediction score of 99.85%,
+> but **0 clinical trials** and **0 publications** currently support this specific direction — it is a pure model prediction with no corroborating evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Duloxetine |
-| DrugBank ID | [DB00476](https://go.drugbank.com/drugs/DB00476) |
-| Brand Names (EU) | Duloxetine Zentiva |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in the Taiwan/EU regulatory dataset (drug currently not marketed, 0 licenses on record). Per literature context within this evidence pack (PMID 31749717), Duloxetine is known to be approved elsewhere for major depressive disorder, generalized anxiety disorder, diabetic peripheral neuropathic pain, and fibromyalgia. |
+| Predicted New Indication | Benign Paroxysmal Torticollis of Infancy |
+| TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| Predicted Indications | 1 |
-| Top Prediction Score | 50.00% |
+| EU Market Status | 未上市 (Not Marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of major depressive disorder. Treatment of diabetic peripheral neuropathic pain. Treatment of generalised anxiety disorder. Cymbalta is indicated in adults.
+Detailed mechanism of action (MOA) data for Duloxetine is currently unavailable and is flagged as a blocking-adjacent data gap in this evidence pack (DG002). Based on known pharmacological class information, Duloxetine is a serotonin-norepinephrine reuptake inhibitor (SNRI), a class whose efficacy has been proven in mood and anxiety disorders and certain chronic pain states; mechanistically it acts on monoamine reuptake rather than on developmental or vestibular pathways.
 
----
+Benign paroxysmal torticollis of infancy is a self-limiting condition occurring in infancy, thought to be related to immature vestibular system development or to sit within the migraine spectrum. There is no established pharmacological or mechanistic link between SNRI activity and this condition, and no safety data exist for Duloxetine in this age group.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | female stress incontinence | 50.00% | KG |
+The TxGNN model assigned this pairing a very high similarity score, but that score reflects graph-embedding proximity rather than a validated biological rationale. Given the absence of any supporting mechanistic literature, trial data, or age-appropriate safety data, this specific prediction should be treated as a low-confidence, hypothesis-generating signal only, not as clinically actionable.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations are on record for Duloxetine (DB00476) in this jurisdiction — the drug is currently listed as not marketed (0 licenses).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Key warnings, contraindications, and drug-drug interaction data are all marked as data gaps or "not found" in this evidence pack; TFDA label warnings/contraindications retrieval is tracked as a blocking data gap, DG001.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This candidate has evidence level L5 — a model prediction with no supporting clinical trials, no literature, and no plausible mechanistic link to the drug's known SNRI pharmacology. Combined with the absence of any regulatory safety data (DG001, blocking) and MOA confirmation (DG002), there is currently no basis to advance this specific indication beyond exploratory research.
+
+**To proceed, the following is needed:**
+- TFDA/SmPC label data (warnings, contraindications) — required before any safety screening (blocking gap DG001)
+- Confirmed mechanism of action from DrugBank or equivalent source (DG002)
+- Preclinical or mechanistic rationale connecting SNRI activity to vestibular/migraine-spectrum pathophysiology, if this candidate is to be pursued further
+- Note: within this same prediction batch, other candidates for Duloxetine show substantially stronger evidence and may warrant priority review instead — notably **obsessive-compulsive disorder** (L2, includes a completed Phase 4 trial [NCT00464698](https://clinicaltrials.gov/study/NCT00464698) and a double-blind RCT, PMID 27811556) and **agoraphobia** (L4, supported by open-label and cohort literature on panic disorder). These were not the top-ranked TxGNN score but have meaningfully more clinical grounding than the rank-1 candidate covered above.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

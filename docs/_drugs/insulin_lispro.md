@@ -2,7 +2,7 @@
 layout: default
 title: Insulin Lispro
 parent: 僅模型預測 (L5)
-nav_order: 196
+nav_order: 217
 evidence_level: L5
 indication_count: 10
 ---

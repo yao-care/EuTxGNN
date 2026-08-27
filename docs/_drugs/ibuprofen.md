@@ -1,132 +1,112 @@
 ---
 layout: default
 title: Ibuprofen
-description: "Ibuprofen drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 285
+parent: 僅模型預測 (L5)
+nav_order: 209
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Ibuprofen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using the provided Evidence Pack, here is the drug repurposing evaluation report.
+
+---
+
+# Ibuprofen: From Pain and Inflammation to Acromesomelic Dysplasia, Hunter-Thompson Type
+
+## One-Sentence Summary
+
+Ibuprofen is a widely used non-steroidal anti-inflammatory drug (NSAID), globally established for pain, fever, and inflammation, though this Evidence Pack contains no Taiwan-specific licensing or original-indication record (the drug is currently **not marketed in Taiwan**). The TxGNN model's top-ranked prediction is **Acromesomelic Dysplasia, Hunter-Thompson Type**, a rare monogenic skeletal disorder, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the rationale text itself flags the mechanistic link as unclear.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ibuprofen |
-| DrugBank ID | [DB01050](https://go.drugbank.com/drugs/DB01050) |
-| Brand Names (EU) | Pedea |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.90% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in this Evidence Pack (no Taiwan license record); Ibuprofen is generally known as an analgesic/antipyretic/anti-inflammatory NSAID |
+| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
+| TxGNN Prediction Score | 99.74% |
+| Evidence Level | L5 (model prediction only, no clinical or literature support) |
+| Taiwan Market Status | 未上市 (Not Marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age.
+Mechanism of action data for Ibuprofen is not available in this Evidence Pack (`original_moa: [Data Gap]`). Based on general pharmacological knowledge, Ibuprofen is a propionic-acid-derivative NSAID that non-selectively inhibits COX-1/COX-2, reducing prostaglandin synthesis and thereby producing analgesic, antipyretic, and anti-inflammatory effects. No original indication record was found in the Taiwan regulatory data (0 licenses on file), so it is not possible to compare the original indication against the predicted one using local licensing data.
 
----
+Acromesomelic Dysplasia, Hunter-Thompson Type is a rare autosomal recessive skeletal disorder caused by *NPR2* gene defects, resulting in structural cartilage growth-pathway abnormalities. The evidence pack's own `repurposing_rationale` explicitly states that this pathology has **no known association** with Ibuprofen's COX-inhibition/anti-inflammatory mechanism, and specifically raises the possibility that the high TxGNN score reflects **sparse knowledge-graph data around rare skeletal disease nodes** rather than a genuine biological signal (a form of score collapse).
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | osteoarthritis susceptibility | 99.90% | DL |
-| 2 | osteoarthritis | 99.82% | DL |
-| 3 | rheumatoid arthritis | 99.77% | DL |
-| 4 | acromesomelic dysplasia, Hunter-Thompson type | 99.74% | DL |
-| 5 | brachyolmia-amelogenesis imperfecta syndrome | 99.71% | DL |
-| 6 | myosclerosis | 99.68% | DL |
-| 7 | brachyolmia | 99.67% | DL |
-| 8 | brachydactyly-syndactyly syndrome | 99.66% | DL |
-| 9 | pseudoachondroplasia | 99.66% | DL |
-| 10 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.60% | DL |
-| 11 | arthropathy | 99.53% | DL |
-| 12 | hypotrichosis simplex of the scalp | 98.59% | DL |
-| 13 | WHIM syndrome | 98.43% | DL |
-| 14 | congenital hypotrichosis milia | 98.31% | DL |
-| 15 | diffuse alopecia areata | 98.25% | DL |
-| 16 | rheumatoid nodulosis | 96.76% | DL |
-| 17 | rheumatoid factor-positive polyarticular juvenile idiopathic arthritis | 96.45% | DL |
-| 18 | juvenile idiopathic arthritis | 96.43% | DL |
-| 19 | juvenile arthritis due to defect in LACC1 | 96.31% | DL |
-| 20 | combined immunodeficiency due to moesin deficiency | 96.30% | DL |
-
-*Showing top 20 of 50 predictions.*
+Notably, 6 of the top 10 predictions for this drug (ranks 1, 2, 4, 5, 6, 7) are rare monogenic skeletal/craniofacial dysplasias with no plausible anti-inflammatory mechanism, and 2 more (ranks 8, 10) are hair-follicle/keratinization disorders similarly unrelated to NSAID pharmacology. Only rank 9 (WHIM syndrome) offers even a weak symptomatic rationale (possible relief of secondary inflammatory symptoms from recurrent infections, not disease modification). This clustering pattern across the top 10 predictions further supports the hypothesis that the ranking may be an artifact of graph sparsity for rare-disease nodes rather than a mechanistically grounded signal, and should be interpreted with caution.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Ibuprofen currently holds **no marketing authorizations** in Taiwan (`total_licenses: 0`); market status is recorded as **未上市 (Not Marketed)**. No license, product name, dosage form, or approved indication text is available in this Evidence Pack.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: key warnings, contraindications, and drug interaction data are all recorded as data gaps in this Evidence Pack. In particular, TFDA label warnings/contraindications (DG001) are flagged as a **Blocking** data gap, meaning this candidate cannot yet proceed to the S1 safety pre-screen stage.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This candidate is supported only by an L5 model prediction (score 99.74%) with zero clinical trials and zero publications, and the evidence pack's own rationale text questions whether the mechanistic link is real or an artifact of sparse rare-disease data in the knowledge graph. Combined with a Blocking gap in TFDA safety labeling data, there is currently insufficient basis to advance this candidate past initial screening.
+
+**To proceed, the following is needed:**
+- TFDA label (warnings/contraindications) retrieval and parsing — currently a Blocking gap (DG001)
+- Ibuprofen mechanism of action (MOA) data via DrugBank API — currently a High-severity gap (DG002)
+- Independent review of whether the NPR2/cartilage-growth pathway has any plausible link to COX inhibition, or whether this ranking reflects a systematic embedding artifact for rare skeletal-disease nodes (given the clustering pattern across ranks 1–10)
+- Broader literature/trial search (including rare-disease registries and case reports) before any further evidence-level upgrade is considered
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,106 @@
 ---
 layout: default
 title: Granisetron
-description: "Granisetron drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 276
+parent: 僅模型預測 (L5)
+nav_order: 200
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Granisetron
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Granisetron: From Chemotherapy-Induced Nausea and Vomiting to Manic Bipolar Affective Disorder
+
+## One-Sentence Summary
+
+Granisetron is a selective 5-HT3 receptor antagonist established for preventing chemotherapy- and radiotherapy-induced nausea and vomiting. The TxGNN model predicts it may also be effective for **Manic Bipolar Affective Disorder**, but this direction is currently supported by **0 clinical trials** and **0 publications** — the signal rests entirely on a mechanistic hypothesis, not on observed clinical data.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Granisetron |
-| DrugBank ID | [DB00889](https://go.drugbank.com/drugs/DB00889) |
-| Brand Names (EU) | Sancuso |
+| Item | Content |
+|------|------|
+| Original Indication | Chemotherapy-/radiotherapy-induced nausea and vomiting (general pharmacological knowledge for granisetron; no jurisdiction-specific license text is available because the drug is not marketed in the evaluated jurisdiction) |
+| Predicted New Indication | Manic Bipolar Affective Disorder |
+| TxGNN Prediction Score | 99.62% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.62% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Prevention of nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy, with or without cisplatin, for up to five consecutive days. Sancuso may be used in patients receiving their first chemotherapy regimen or in patients who have previously received chemotherapy.
+Detailed, sourced mechanism-of-action data for granisetron is not available in this evidence pack (flagged as a High-severity data gap). What is available comes from the model's own repurposing rationale, which identifies granisetron as a 5-HT3 (serotonin) receptor antagonist. The rationale proposes that 5-HT3 blockade could theoretically modulate central serotonin–dopamine crosstalk implicated in mood circuitry, drawing an analogy to exploratory adjunctive use of a related 5-HT3 antagonist (ondansetron) in mania. Critically, the evidence pack itself flags this as an extrapolation: granisetron has **no direct data** in bipolar disorder, and the link is described as a "mechanistic extension, lacking direct evidence."
 
----
+This same 5-HT3-antagonism mechanism appears repeatedly across the ten TxGNN predictions in this pack, but the model's own scoring treats it very differently depending on plausibility. For **manic bipolar affective disorder**, **Tourette syndrome**, and **trichotillomania**, the recommendation is "Research Question" — these are conditions with known serotonergic/dopaminergic involvement, so a central 5-HT3 mechanism is at least biologically conceivable. For **conjunctivitis, allergic/cold urticaria, angioedema, bronchitis, and nephrogenic SIAD**, the recommendation is "Hold" — these conditions have no plausible connection to 5-HT3 antagonism, and several (urticaria, angioedema) are actually **known adverse effects of granisetron**, suggesting the model may be picking up an adverse-event co-occurrence signal in the knowledge graph rather than a genuine therapeutic association.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | manic bipolar affective disorder | 99.62% | DL |
-| 2 | Tourette syndrome | 99.52% | DL |
-| 3 | acute contagious conjunctivitis | 99.49% | DL |
-| 4 | angioedema | 99.36% | DL |
-| 5 | allergic urticaria | 99.32% | DL |
-| 6 | nephrogenic syndrome of inappropriate antidiuresis | 99.32% | DL |
-| 7 | trichotillomania | 99.23% | DL |
-| 8 | bronchitis | 99.18% | DL |
-| 9 | cold urticaria | 99.10% | DL |
-| 10 | conjunctivitis | 99.09% | DL |
-| 11 | punctate epithelial keratoconjunctivitis | 98.32% | DL |
-| 12 | anaphylaxis | 98.24% | DL |
-| 13 | common cold | 97.99% | DL |
-| 14 | dysentery | 97.90% | DL |
-| 15 | renin-angiotensin-aldosterone system-blocker-induced angioedema | 97.87% | DL |
-| 16 | obsessive-compulsive disorder | 97.84% | DL |
-| 17 | acquired angioedema | 97.76% | DL |
-| 18 | schizotypal personality disorder | 97.72% | DL |
-| 19 | paranoid personality disorder | 97.72% | DL |
-| 20 | schizoid personality disorder | 97.72% | DL |
-
-*Showing top 20 of 50 predictions.*
+In short, the mania prediction is the most mechanistically defensible of the ten candidates, but it remains a hypothesis generated purely from graph-based inference, with no supporting trial or literature evidence to date.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Granisetron currently has **no marketing authorization on record** in the evaluated jurisdiction (market status: Not Marketed; 0 licenses). No product/dosage-form/indication data is available to tabulate.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information. (Warnings, contraindications, and drug–drug interaction data for granisetron were not retrievable in this evidence pack — this is logged as a Blocking data gap that must be resolved before any safety evaluation can proceed.)
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The predicted indication (manic bipolar affective disorder) is supported only by a model score and an unvalidated mechanistic hypothesis — there are zero clinical trials and zero publications, placing this at the lowest evidence tier (L5). Compounding this, a **Blocking** data gap on TFDA warning/contraindication information means a basic safety assessment (S1) cannot even be initiated, and granisetron holds no marketing authorization in the evaluated jurisdiction.
+
+**To proceed, the following is needed:**
+- TFDA/regulatory label data (warnings and contraindications) to resolve the Blocking data gap and enable a safety pre-screen
+- Verified mechanism-of-action data via DrugBank API to properly assess the biological plausibility of the serotonin–mania link
+- Preclinical or mechanistic studies specifically examining 5-HT3 antagonism in mood/impulse-control disorders (bipolar mania, Tourette syndrome, trichotillomania), since current support is inferred by analogy to other 5-HT3 antagonists rather than granisetron-specific data
+- Confirmation of current market/authorization status for granisetron in the target jurisdiction
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,143 +1,113 @@
 ---
 layout: default
 title: Drospirenone
-description: "drospirenone drug repurposing predictions from TxGNN. Evidence level L1 with 52 predicted indications."
-parent: Phase 3+ Evidence (L1)
-nav_order: 184
-evidence_level: L1
-indication_count: 52
+parent: 僅模型預測 (L5)
+nav_order: 194
+evidence_level: L5
+indication_count: 10
 ---
 
 # Drospirenone
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **52**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Drospirenone: From Hormonal Contraception to Elevated Plasma Zinc
+
+## One-Sentence Summary
+
+> Drospirenone is a spironolactone-derived progestin used in combined oral contraceptives and hormone replacement therapy, valued for its antimineralocorticoid and antiandrogenic activity.
+> The TxGNN model's top-ranked prediction suggests a possible association with **elevated plasma zinc**,
+> but this candidate currently has **no supporting clinical trials and no supporting literature** — the score reflects a knowledge-graph pattern only, not observed clinical or mechanistic evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Drospirenone |
-| DrugBank ID | [DB01395](https://go.drugbank.com/drugs/DB01395) |
-| Brand Names (EU) | Drospirenone, Lydisilka |
-| Evidence Level | L1 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 99.99% |
+| Item | Content |
+|------|------|
+| Original Indication | Not formally recorded in this evidence pack; based on supporting literature, drospirenone is used as the progestin component of combined oral contraceptives and menopausal hormone therapy |
+| Predicted New Indication | Zinc, elevated plasma |
+| TxGNN Prediction Score | 98.74% |
+| Evidence Level | L5 (model prediction only, no clinical or literature evidence) |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-oral contraceptive
+Detailed mechanism of action data for drospirenone is flagged as a data gap in this evidence pack. Based on the supporting literature that is available, drospirenone is a 17α-spirolactone derivative structurally related to spironolactone. It acts as a progestin with additional **antimineralocorticoid (anti-aldosterone)** and **antiandrogenic** activity, which is why it is combined with ethinyl estradiol or estetrol in oral contraceptive and hormone-therapy products — its antimineralocorticoid effect promotes sodium excretion and potassium retention, and its antiandrogenic effect is used clinically to manage acne and hirsutism in conditions such as PCOS.
 
----
+There is no established or literature-supported pharmacological pathway linking antimineralocorticoid/antiandrogenic progestin activity to **plasma zinc regulation**. Zinc homeostasis is governed primarily by intestinal absorption/transporter proteins (ZIP/ZnT families), renal handling, and metallothionein binding — none of which are known targets or downstream effects of drospirenone's aldosterone-receptor antagonism. The complete absence of clinical trials or publications connecting these two entities is consistent with this being a **knowledge-graph embedding artifact** rather than a biologically grounded signal: the high TxGNN score likely reflects proximity in the model's learned representation space rather than a real pharmacological relationship.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | acne (disease) | 99.99% | DL |
-| 2 | zinc, elevated plasma | 98.74% | DL |
-| 3 | dyschondrosteosis-nephritis syndrome | 93.61% | DL |
-| 4 | torticollis-keloids-cryptorchidism-renal dysplasia syndrome | 93.53% | DL |
-| 5 | infundibulopelvic stenosis-multicystic kidney syndrome | 93.33% | DL |
-| 6 | pyogenic arthritis-pyoderma gangrenosum-acne syndrome | 93.18% | DL |
-| 7 | 46,XX disorder of sex development-anorectal anomalies syndrome | 92.77% | DL |
-| 8 | thyrocerebrorenal syndrome | 92.76% | DL |
-| 9 | acrorenal syndrome | 92.75% | DL |
-| 10 | radial hypoplasia-triphalangeal thumbs-hypospadias-maxillary diastema syndrome | 92.67% | DL |
-| 11 | Mayer-Rokitansky-Kuster-Hauser syndrome | 92.65% | DL |
-| 12 | Guttmacher syndrome | 92.63% | DL |
-| 13 | renal nutcracker syndrome | 92.63% | DL |
-| 14 | nephrosis-deafness-urinary tract-digital malformations syndrome | 92.53% | DL |
-| 15 | trisomy 13 | 92.50% | DL |
-| 16 | Mayer-Rokitansky-Küster-Hauser syndrome type 2 | 92.36% | DL |
-| 17 | pericardial and diaphragmatic defect | 92.33% | DL |
-| 18 | diaphragmatic defect-limb deficiency-skull defect syndrome | 92.27% | DL |
-| 19 | renal-genital-middle ear anomalies | 92.26% | DL |
-| 20 | monosomy 13q34 | 92.25% | DL |
-
-*Showing top 20 of 52 predictions.*
+Given this, the prediction should be treated as a hypothesis-generation output only, not as a candidate with mechanistic or clinical support at this time.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| acne (disease) | L1 | 12 | 1 | 4 Phase 3 trial(s), 1 Phase 2 trial(s) |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations are currently recorded for drospirenone in this dataset (market status: Not Marketed; 0 authorizations on file).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*Note: Key warnings, contraindications, and drug-interaction data are all flagged as data gaps in this evidence pack (DG001, severity: Blocking) — this must be resolved with official labeling data before any safety assessment can proceed.*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked TxGNN prediction (elevated plasma zinc) has a high model score but zero supporting clinical trials or literature, and no plausible pharmacological mechanism connects drospirenone's known antimineralocorticoid/antiandrogenic activity to zinc homeostasis. This meets the criteria for **L5 — model prediction only**, and per the model's own scoring output the recommendation is already Hold.
+
+It is also worth flagging for data-quality purposes: among the other candidates in this batch, the literature sets returned for "dyschondrosteosis-nephritis syndrome" and "thyrocerebrorenal syndrome" (both rare congenital syndromes) consist entirely of PMS/PMDD/PCOS/oral-contraceptive publications with no relevance to those disease labels. This suggests a possible disease-label–to-literature mapping error in the underlying evidence retrieval pipeline for this drug's candidate set, and the full batch may warrant a QA re-run before any candidate from it is advanced.
+
+**To proceed, the following is needed:**
+- Official mechanism of action (MOA) data from DrugBank or the approved product labeling
+- TFDA/EMA labeling data — key warnings, contraindications, and drug interactions (currently a Blocking data gap, DG001)
+- Confirmed original indication and licensing history for this drug in the target market
+- A biological/mechanistic hypothesis or preclinical signal connecting drospirenone to zinc metabolism before this candidate is escalated beyond S0
+- Re-validation of the literature-to-disease mapping pipeline for this candidate batch, given the mismatches observed in ranks 2 and 7
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

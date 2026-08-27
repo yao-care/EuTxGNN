@@ -1,132 +1,122 @@
 ---
 layout: default
 title: Pembrolizumab
-description: "Pembrolizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 450
+parent: 僅模型預測 (L5)
+nav_order: 259
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Pembrolizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Pembrolizumab: From Advanced Malignancies to Gingival Fibromatosis
+
+## One-Sentence Summary
+
+Pembrolizumab is a PD-1 immune checkpoint inhibitor monoclonal antibody used across multiple advanced malignancies (e.g., non-small-cell lung cancer, melanoma — confirmed only indirectly through literature retrieved for other candidates in this evidence pack, since structured original-indication and MOA fields are currently blank). The TxGNN model's top-ranked prediction (rank 1 of 10 returned) proposes potential relevance to **Gingival Fibromatosis**, a benign fibrous gum-tissue overgrowth condition, but this pairing is supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic assessment explicitly concludes there is no known biological link between this condition and the PD-1/PD-L1 pathway.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Pembrolizumab |
-| DrugBank ID | [DB09037](https://go.drugbank.com/drugs/DB09037) |
-| Brand Names (EU) | Keytruda |
+| Item | Content |
+|------|------|
+| Original Indication | Not available as a structured field in this evidence pack (`drug.original_indications` is empty; drug is unmarketed in the EU per `taiwan_regulatory`). Supporting literature retrieved for other candidates confirms established use in advanced NSCLC, melanoma, HNSCC, HCC, and MSI-H/dMMR colorectal cancer. |
+| Predicted New Indication | Gingival Fibromatosis (fibromatosis, gingival) |
+| TxGNN Prediction Score | 99.40% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.40% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Melanoma Keytruda as monotherapy is indicated for the treatment of adults and adolescents aged 12 years and older with advanced (unresectable or metastatic) melanoma. Keytruda&nbsp;as monotherapy is indicated for the adjuvant treatment of adults and adolescents aged 12 years and older with Stage IIB, IIC, or with Stage III melanoma and lymph node involvement who have undergone complete resection. Non small cell lung carcinoma (NSCLC) Keytruda, in combination with platinum-containing chemotherapy
+Currently, detailed mechanism of action data for pembrolizumab is not available in this evidence pack — this is flagged as a High-severity data gap (DG002), with remediation planned via a DrugBank API query. Based on literature returned elsewhere in this pack (e.g., PMID 27398650 "Pembrolizumab (Keytruda)"; PMID 26558876 "CTLA-4 and PD-1 Pathways"), pembrolizumab is known to act as a humanized IgG4 monoclonal antibody that blocks the PD-1/PD-L1 interaction, restoring T-cell–mediated anti-tumor immune activity in immunogenic, checkpoint-driven malignancies.
 
----
+Gingival fibromatosis, however, is a benign, non-neoplastic fibrous connective-tissue overgrowth of the gums. It has no established tumor immune-evasion biology, no reported PD-L1 expression pattern, and no T-cell exhaustion phenotype — the biological axis pembrolizumab is designed to act on. The evidence pack's own `repurposing_rationale` for this candidate states plainly that there is "no known association with the PD-1/PD-L1 immune checkpoint pathway" and "no reasonable mechanism to explain efficacy." The high TxGNN score (99.40%) most likely reflects knowledge-graph embedding proximity rather than a biologically grounded pathway.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | fibromatosis, gingival | 99.40% | DL |
-| 2 | inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia | 99.37% | DL |
-| 3 | hamartoma of lung | 99.35% | DL |
-| 4 | lung hilum carcinoma | 99.35% | DL |
-| 5 | fibroma of lung | 99.34% | DL |
-| 6 | lung benign neoplasm | 99.32% | DL |
-| 7 | ovarioleukodystrophy | 99.32% | DL |
-| 8 | pulmonary sulcus neoplasm | 99.29% | DL |
-| 9 | lung germ cell tumor | 99.29% | DL |
-| 10 | Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome | 99.28% | DL |
-| 11 | junctional epidermolysis bullosa | 99.23% | DL |
-| 12 | dehydratase deficiency | 99.18% | DL |
-| 13 | lung cancer | 99.18% | DL |
-| 14 | junctional epidermolysis bullosa, non-Herlitz type | 99.15% | DL |
-| 15 | metastatic melanoma | 97.34% | DL |
-| 16 | non-cutaneous melanoma | 97.04% | DL |
-| 17 | epithelioid cell melanoma | 96.97% | DL |
-| 18 | choroideremia | 96.88% | DL |
-| 19 | eyelid melanoma | 96.83% | DL |
-| 20 | CDK4 linked melanoma | 96.79% | DL |
-
-*Showing top 20 of 50 predictions.*
+It is also worth noting that this evidence pack contains other candidates with markedly stronger support than the top-ranked one: "lung hilum carcinoma" (rank 4) and "lung germ cell tumor" (rank 8) both reach **L4 / Research Question** status, with mechanistically plausible links to pembrolizumab's known anti-tumor immunotherapy activity, even though the retrieved trials/literature for those two are still largely indirect (safety/adverse-event reports and broad "advanced solid tumor" basket trials rather than disease-specific efficacy data). This top-ranked candidate (Gingival Fibromatosis) is comparatively the weakest of the ten predictions returned, both mechanistically and evidentially.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Pembrolizumab currently has no EU marketing authorization on file in this evidence pack (`market_status: 未上市`, `total_licenses: 0`). No authorization records are available to list.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+*(Included because pembrolizumab is an antineoplastic agent — an immune checkpoint inhibitor used in cancer treatment, as evidenced by the oncology-focused literature retrieved for other candidates in this same evidence pack, e.g., PMID 27398650, PMID 26712084.)*
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (PD-1 immune checkpoint inhibitor) — not a conventional cytotoxic agent |
+| Myelosuppression Risk | Low — checkpoint inhibitors are not classically myelosuppressive; class safety literature in this pack focuses on immune-related adverse events rather than bone marrow toxicity (PMID 26874776, "Management of toxicities of immune checkpoint inhibitors") |
+| Emetogenicity Classification | Low — immunotherapy agents are generally low-emetogenic compared with cytotoxic chemotherapy |
+| Monitoring Items | Immune-related adverse event (irAE) surveillance: thyroid function, liver function, pulmonary/colitis symptoms, skin reactions, and neurologic/endocrine monitoring (PMID 32126176, "Neurologic complications of immune checkpoint inhibitors"; PMID 26874776). No structured haematological, hepatic, or renal monitoring protocol is available in the current evidence pack. |
+| Handling Protection | Standard IV biologic/monoclonal antibody handling precautions apply; pembrolizumab is not classified as a hazardous cytotoxic drug requiring special cytotoxic-handling protocols (unlike conventional chemotherapy agents) |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*(Note: `safety.key_warnings` and `safety.contraindications` are marked as data gaps in the evidence pack, and no drug-drug interaction records were found — `query_status: not_found`. This gap is flagged as Blocking (DG001) for progressing to S1 safety evaluation; remediation requires downloading and parsing the TFDA product label.)*
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked candidate (Gingival Fibromatosis) has no clinical trial or literature support, and the evidence pack's own mechanistic analysis finds no plausible biological link to pembrolizumab's PD-1/PD-L1 mechanism of action. Combined with the drug's unmarketed status in the EU and a Blocking-severity gap in safety/label data, there is no basis to advance this specific candidate.
+
+**To proceed, the following is needed:**
+- Confirmed mechanism of action data via DrugBank API query (per DG002)
+- TFDA/EMA label warnings, contraindications, and drug interaction data (per DG001, Blocking priority — required before any S1 safety evaluation)
+- Independent mechanistic or preclinical rationale connecting PD-1/PD-L1 biology to gingival fibromatosis before any further evaluation of this specific candidate
+- Consider redirecting evaluation effort toward the pack's higher-evidence candidates — "lung hilum carcinoma" (rank 4) and "lung germ cell tumor" (rank 8), both already at L4 / Research Question status — which show markedly stronger (if still indirect) mechanistic and literature support than the top-ranked prediction
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
