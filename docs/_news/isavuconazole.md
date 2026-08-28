@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
 
-### [CAR-T, cura definitiva per l'artrite reumatoide?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
 
-2026-08-27 <span class="news-indication-tag">artrite</span>
+2026-08-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
+
+---
+
+### [Artrite reumatoide, le cellule Car T efficaci sui casi difficili](https://news.google.com/rss/articles/CBMiiAJBVV95cUxObDB3MnpVU2I4STZhNVVodUl3RVVFTXZyLXlHM2JoSml6Zm1wcTFocGVoaUVWd0pmMDJNcE44YlpOQ1Y5c1pfaU1paERLbVRvOWRlWWlwOWhOZ3R4LVJ5eFVYN2xWOWNXT215UHZ2S1FlcFN3SlZTMENJS1FLVjAwVi0zMXlrNkhEM0tkNGhXRnpwSVcxQU1lTlVydUg4WWYwcGlKaWczb19hMUppcG1OQW5uTllweFdUb3NVeXNBcHFpVFpNYS1iaG1EODI5WVhjbDktSzVRTDUxYldzdnpmSS1QVnp6TVRNOEJsazgtUzBrQURXV01KYWVFdTBjaGtBS2FmdUV6TWHSAY4CQVVfeXFMT29KR1hpMVc3aTN2VmpweGJVVGFHNUZ0a3RHc2VacEJpQUFRX0l6dEhXSUxETm5lQ1ZqRmlSa0thZm8yQ3ByUDh6UFFMd2ttMkNYc3BsbkFOX2tjNml1Z1pKcl8wS3I3djNRQWFpcUNLSFpTcHI1S19ud1dLUTh1Y3lsWmMzdGlubmVRMWFOMmFmclRuUGVGX2ttWTc5N2lfNFRGbkFnNnN6ZzQ3dXN0SENSSk1RVnJpZHVENW5UZjVobUxhb0p5dm5VcE4tb043bWotSXJkcDVZYWhFSUVpQlNJWEFpTUxieXhsYy1ndlBBS256Nkd3b1J6TDN4TnNBRmd0cWNSa0VVUUZ3cWNB?oc=5)
+
+2026-08-28 <span class="news-indication-tag">artrite</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiAJBVV95cUxObDB3MnpVU2I4STZhNVVodUl3RVVFTXZyLXlHM2JoSml6Zm1wcTFocGVoaUVWd0pmMDJNcE44YlpOQ1Y5c1pfaU1paERLbVRvOWRlWWlwOWhOZ3R4LVJ5eFVYN2xWOWNXT215UHZ2S1FlcFN3SlZTMENJS1FLVjAwVi0zMXlrNkhEM0tkNGhXRnpwSVcxQU1lTlVydUg4WWYwcGlKaWczb19hMUppcG1OQW5uTllweFdUb3NVeXNBcHFpVFpNYS1iaG1EODI5WVhjbDktSzVRTDUxYldzdnpmSS1QVnp6TVRNOEJsazgtUzBrQURXV01KYWVFdTBjaGtBS2FmdUV6TWHSAY4CQVVfeXFMT29KR1hpMVc3aTN2VmpweGJVVGFHNUZ0a3RHc2VacEJpQUFRX0l6dEhXSUxETm5lQ1ZqRmlSa0thZm8yQ3ByUDh6UFFMd2ttMkNYc3BsbkFOX2tjNml1Z1pKcl8wS3I3djNRQWFpcUNLSFpTcHI1S19ud1dLUTh1Y3lsWmMzdGlubmVRMWFOMmFmclRuUGVGX2ttWTc5N2lfNFRGbkFnNnN6ZzQ3dXN0SENSSk1RVnJpZHVENW5UZjVobUxhb0p5dm5VcE4tb043bWotSXJkcDVZYWhFSUVpQlNJWEFpTUxieXhsYy1ndlBBS256Nkd3b1J6TDN4TnNBRmd0cWNSa0VVUUZ3cWNB?oc=5)
+
+---
+
+### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+
+---
+
+### [Laut Studie: Arthritis-Medikament kann Haare wieder wachsen lassen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
+
+2026-08-28 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
+
+---
+
+### [Bluthochdruck ab 30: Jeder +10 mmHg steigert Herzrisiko um 27%](https://news.google.com/rss/articles/CBMitwFBVV95cUxObHZ5TlFSb0JiSktYNEhrT1V6YkJyZlRkM3JJR2lJcUdpSU04a0dqbWVULXd2azFmWktPMnhSbjJjdTBQNS1XLWNnNVN3R0dzLThEVHIweG5vdVllbFZ3U1dpMXk2M3puX0ViZnBobmI2ZmxCSUtybDB6bFltYV9yWDAwaHR1VzRoMWFQMUtoQmdKYzB0bTVpT1Nibmc3SGRJQV9oQTI1a3NwYVZzNHpfd21lNFRPS0E?oc=5)
+
+2026-08-28 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxObHZ5TlFSb0JiSktYNEhrT1V6YkJyZlRkM3JJR2lJcUdpSU04a0dqbWVULXd2azFmWktPMnhSbjJjdTBQNS1XLWNnNVN3R0dzLThEVHIweG5vdVllbFZ3U1dpMXk2M3puX0ViZnBobmI2ZmxCSUtybDB6bFltYV9yWDAwaHR1VzRoMWFQMUtoQmdKYzB0bTVpT1Nibmc3SGRJQV9oQTI1a3NwYVZzNHpfd21lNFRPS0E?oc=5)
+
+---
+
+### [Research into protein interactions sheds new light on causes of autism - Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
+
+2026-08-27 <span class="news-indication-tag">heart failure</span>
+
+來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
 
 ---
 
@@ -70,14 +110,6 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Identifican en Morella la primera infección bacteriana en un dinosaurio de hace 125 millones de años](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZGVRQWNQcGJENlNCZ2Y4SG5Sb3k3ZE5QZ3JyV3Z3VDR3bUNqN1BYLWJWQ2E1bURNZXBycUxjYVV4M3ozNUxWeEpzeFE5MXZCdERpMnJOLWZQRFdxYmlRdVRPS2tpXy1VODVqMEpRY0dPTUNvdml5Uw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">artritis</span>
-
-來源：[noticiascv.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZGVRQWNQcGJENlNCZ2Y4SG5Sb3k3ZE5QZ3JyV3Z3VDR3bUNqN1BYLWJWQ2E1bURNZXBycUxjYVV4M3ozNUxWeEpzeFE5MXZCdERpMnJOLWZQRFdxYmlRdVRPS2tpXy1VODVqMEpRY0dPTUNvdml5Uw?oc=5)
-
----
-
 ### [Zelltherapie bei schwerer rheumatoider Arthritis erfolgreich - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
 
 2026-08-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
@@ -86,11 +118,11 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Scientists Find Signs of Artery Damage in Nearly 8 in 10 Young Adults](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVJaNUxWLXdWa28zaDI2QlQ2SGs1c2YzNFBldmdXeTNucFVmQ2VweDhfYVFmaUpLWkI2MTRVR0pycDFNbU5BWG8wdldjRFhwcDcwZUZld2JhVjVwXzMzVFhVcTdyS0ZiXzNIdlVVdzRjcW45MFJlRHN6WmNyUGlmN0M2ZlZ0TlpFRWlWMGpoYlg0UkZmT3YzbjdIYTgyR0swWk12LXJCdWdDdw?oc=5)
 
-2026-08-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-08-27 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVJaNUxWLXdWa28zaDI2QlQ2SGs1c2YzNFBldmdXeTNucFVmQ2VweDhfYVFmaUpLWkI2MTRVR0pycDFNbU5BWG8wdldjRFhwcDcwZUZld2JhVjVwXzMzVFhVcTdyS0ZiXzNIdlVVdzRjcW45MFJlRHN6WmNyUGlmN0M2ZlZ0TlpFRWlWMGpoYlg0UkZmT3YzbjdIYTgyR0swWk12LXJCdWdDdw?oc=5)
 
 ---
 
@@ -110,27 +142,11 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+### [Alopecia: Common Arthritis Drug Shows Promise for Hair Regrowth](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
-
----
-
-### [Derrière un cas de cholestérol sanguin élevé, un demi-siècle d’erreur de diagnostic - Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFpsSmNNWUx1Z0ZXYXREUHhWNEtmVmF3QThpWlo4YWo5WTYyQ01vZlpaV2MwWU45czJLRFNsWV9idy1yU0YyWkpjUV82bEZfMVpQYmd4TGxBZTRObUFyTVdGSEpKWE40R2E0R1VVX3puWlg4Z2ppbFNOYlVkaEQxV3lMZHJMRkxTaTJPU1FMWnBzcFlZMVZjdUM3cGRPMnFUNFM2MEdUd3JWVkZDVjVFeHNvMTk2QUt4S1JfWG9Ob0JxWHNsbXBsdThWMzRIVlNSOFI3MHRGVlc0WkczalRZT1NCX1Y0TTE3T2NTZE9oSzZnM0tuUktYNU0wVQ?oc=5)
-
----
-
-### [The three ‘primary drivers’ behind cancer cases in men, according to scientists - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
-
-2026-08-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnZ5Wml4TU5nLWJleGN6WWVia05XazduS1dGdXprU18xTDZtY0JIVUlEdVcyM3RrS3ozSHdGT0ZhcTAta0hyMk9wWVZlajNrYVJ2UEFodmd1alN5VFJpal9MaFA1d1RocHNVeWYyemVKRTc0Ml9SRk5VOWNDWFZ3eWIzczVtcHZxekdxSWViSmRFMGRoTk9HTktjSlVNUE83d1gxaVNqVVVUTlRVamE5N1p5Z25Ta3RMZ2VSWA?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 ---
 

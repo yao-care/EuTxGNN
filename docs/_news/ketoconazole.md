@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Rentrée scolaire : les virus aussi reprennent le chemin de l’école](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW9GVnl4NC1FTTdmbUx6ek1KQUdMQW9CYURzQTJpbjJMTTVhWFdkdW13Y1JMMVd5d2djOGtXRS03ZlVicG1QNzdDWklxQnNSblVSUlBBS0M2d2FBUGhJTHJXVEx6YWtRWW9mbGRILWthUmU3TVpqR1U0QTV2SWJVa1Jxb2xYNFpXYUotNzcyRlZEM1phaUdueWczdVhHV3gwTVNINjU0Y0hKZlNRLUFqQ04xNA?oc=5)
-
-2026-08-27 <span class="news-indication-tag">asthme</span>
-
-來源：[L'Union](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW9GVnl4NC1FTTdmbUx6ek1KQUdMQW9CYURzQTJpbjJMTTVhWFdkdW13Y1JMMVd5d2djOGtXRS03ZlVicG1QNzdDWklxQnNSblVSUlBBS0M2d2FBUGhJTHJXVEx6YWtRWW9mbGRILWthUmU3TVpqR1U0QTV2SWJVa1Jxb2xYNFpXYUotNzcyRlZEM1phaUdueWczdVhHV3gwTVNINjU0Y0hKZlNRLUFqQ04xNA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

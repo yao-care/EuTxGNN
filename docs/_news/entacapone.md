@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Alzheimer : ces ondes cérébrales pourraient trahir la maladie bien avant les premiers symptômes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVQZVFSMHVPZ1Z1aldBRTZOMkNQS21yTnRQVHNYU05rQl9jTkdZUzU2ZGk5ZzBNUHFpdDhXM3FmeWlVN1RQYzRnV2FzRkZJQzhRX2UtbzExTjJ6UTFiLVM5ZmpiakpoMlc3TGdtejFGNGw3M183a0RReHRmMExaRXJZSTNWWHhoZERaQk9NcVZET0VSOEV0a3AyWU4ybVhURzlxZTFVNVZ1SGpDTjhpLWdkaXAzenBmRHIyTUNMZGJ1bGdIR1pXYWU3akFJZ003ZUV0MzVjaExJRUpPREtmMk1jdEdVYTNJYzNHNkpzN05QLXM?oc=5)
 
-2026-08-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-08-28 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVQZVFSMHVPZ1Z1aldBRTZOMkNQS21yTnRQVHNYU05rQl9jTkdZUzU2ZGk5ZzBNUHFpdDhXM3FmeWlVN1RQYzRnV2FzRkZJQzhRX2UtbzExTjJ6UTFiLVM5ZmpiakpoMlc3TGdtejFGNGw3M183a0RReHRmMExaRXJZSTNWWHhoZERaQk9NcVZET0VSOEV0a3AyWU4ybVhURzlxZTFVNVZ1SGpDTjhpLWdkaXAzenBmRHIyTUNMZGJ1bGdIR1pXYWU3akFJZ003ZUV0MzVjaExJRUpPREtmMk1jdEdVYTNJYzNHNkpzN05QLXM?oc=5)
 
 ---
 
-### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1dZWUNRbzRNeGlsUnpEQjFVckVwQS1OVzhuVk9DcXBrakVodGlaV3FZQ2ZPYzlQRlAtQTY3eGotZVowdXowSWp4TG5wOTQtaEtVcFg1UGNpdWI3Mk1BX1JRQ0pOeFdPbFIzZTBqV1RFMDVuTkJOSG1jQkVVcjhncEwxOGFLZWJFV0s5UFhzNW9xV3VYSXlpOFd0VkdvLVhFT3hPRktKZmFXMDJWVzVWLTJTTGY?oc=5)
+### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
 
-2026-08-26 <span class="news-indication-tag">dementia</span>
+2026-08-28 <span class="news-indication-tag">dementia</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1dZWUNRbzRNeGlsUnpEQjFVckVwQS1OVzhuVk9DcXBrakVodGlaV3FZQ2ZPYzlQRlAtQTY3eGotZVowdXowSWp4TG5wOTQtaEtVcFg1UGNpdWI3Mk1BX1JRQ0pOeFdPbFIzZTBqV1RFMDVuTkJOSG1jQkVVcjhncEwxOGFLZWJFV0s5UFhzNW9xV3VYSXlpOFd0VkdvLVhFT3hPRktKZmFXMDJWVzVWLTJTTGY?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
+
+---
+
+### [The US switch in shingles vaccines revealed an unexpected heart health pattern](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5)
+
+2026-08-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5)
 
 ---
 

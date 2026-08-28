@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [CAR-T, cura definitiva per l'artrite reumatoide?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
+### [Artrite reumatoide, le cellule Car T efficaci sui casi difficili](https://news.google.com/rss/articles/CBMiiAJBVV95cUxObDB3MnpVU2I4STZhNVVodUl3RVVFTXZyLXlHM2JoSml6Zm1wcTFocGVoaUVWd0pmMDJNcE44YlpOQ1Y5c1pfaU1paERLbVRvOWRlWWlwOWhOZ3R4LVJ5eFVYN2xWOWNXT215UHZ2S1FlcFN3SlZTMENJS1FLVjAwVi0zMXlrNkhEM0tkNGhXRnpwSVcxQU1lTlVydUg4WWYwcGlKaWczb19hMUppcG1OQW5uTllweFdUb3NVeXNBcHFpVFpNYS1iaG1EODI5WVhjbDktSzVRTDUxYldzdnpmSS1QVnp6TVRNOEJsazgtUzBrQURXV01KYWVFdTBjaGtBS2FmdUV6TWHSAY4CQVVfeXFMT29KR1hpMVc3aTN2VmpweGJVVGFHNUZ0a3RHc2VacEJpQUFRX0l6dEhXSUxETm5lQ1ZqRmlSa0thZm8yQ3ByUDh6UFFMd2ttMkNYc3BsbkFOX2tjNml1Z1pKcl8wS3I3djNRQWFpcUNLSFpTcHI1S19ud1dLUTh1Y3lsWmMzdGlubmVRMWFOMmFmclRuUGVGX2ttWTc5N2lfNFRGbkFnNnN6ZzQ3dXN0SENSSk1RVnJpZHVENW5UZjVobUxhb0p5dm5VcE4tb043bWotSXJkcDVZYWhFSUVpQlNJWEFpTUxieXhsYy1ndlBBS256Nkd3b1J6TDN4TnNBRmd0cWNSa0VVUUZ3cWNB?oc=5)
 
-2026-08-27 <span class="news-indication-tag">artrite</span>
+2026-08-28 <span class="news-indication-tag">artrite</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiAJBVV95cUxObDB3MnpVU2I4STZhNVVodUl3RVVFTXZyLXlHM2JoSml6Zm1wcTFocGVoaUVWd0pmMDJNcE44YlpOQ1Y5c1pfaU1paERLbVRvOWRlWWlwOWhOZ3R4LVJ5eFVYN2xWOWNXT215UHZ2S1FlcFN3SlZTMENJS1FLVjAwVi0zMXlrNkhEM0tkNGhXRnpwSVcxQU1lTlVydUg4WWYwcGlKaWczb19hMUppcG1OQW5uTllweFdUb3NVeXNBcHFpVFpNYS1iaG1EODI5WVhjbDktSzVRTDUxYldzdnpmSS1QVnp6TVRNOEJsazgtUzBrQURXV01KYWVFdTBjaGtBS2FmdUV6TWHSAY4CQVVfeXFMT29KR1hpMVc3aTN2VmpweGJVVGFHNUZ0a3RHc2VacEJpQUFRX0l6dEhXSUxETm5lQ1ZqRmlSa0thZm8yQ3ByUDh6UFFMd2ttMkNYc3BsbkFOX2tjNml1Z1pKcl8wS3I3djNRQWFpcUNLSFpTcHI1S19ud1dLUTh1Y3lsWmMzdGlubmVRMWFOMmFmclRuUGVGX2ttWTc5N2lfNFRGbkFnNnN6ZzQ3dXN0SENSSk1RVnJpZHVENW5UZjVobUxhb0p5dm5VcE4tb043bWotSXJkcDVZYWhFSUVpQlNJWEFpTUxieXhsYy1ndlBBS256Nkd3b1J6TDN4TnNBRmd0cWNSa0VVUUZ3cWNB?oc=5)
 
 ---
 
-### [Identifican en Morella la primera infección bacteriana en un dinosaurio de hace 125 millones de años](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZGVRQWNQcGJENlNCZ2Y4SG5Sb3k3ZE5QZ3JyV3Z3VDR3bUNqN1BYLWJWQ2E1bURNZXBycUxjYVV4M3ozNUxWeEpzeFE5MXZCdERpMnJOLWZQRFdxYmlRdVRPS2tpXy1VODVqMEpRY0dPTUNvdml5Uw?oc=5)
+### [Laut Studie: Arthritis-Medikament kann Haare wieder wachsen lassen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
 
-2026-08-27 <span class="news-indication-tag">artritis</span>
+2026-08-28 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[noticiascv.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZGVRQWNQcGJENlNCZ2Y4SG5Sb3k3ZE5QZ3JyV3Z3VDR3bUNqN1BYLWJWQ2E1bURNZXBycUxjYVV4M3ozNUxWeEpzeFE5MXZCdERpMnJOLWZQRFdxYmlRdVRPS2tpXy1VODVqMEpRY0dPTUNvdml5Uw?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
 
 ---
 
@@ -78,30 +78,6 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Rentrée scolaire : les virus aussi reprennent le chemin de l’école](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW9GVnl4NC1FTTdmbUx6ek1KQUdMQW9CYURzQTJpbjJMTTVhWFdkdW13Y1JMMVd5d2djOGtXRS03ZlVicG1QNzdDWklxQnNSblVSUlBBS0M2d2FBUGhJTHJXVEx6YWtRWW9mbGRILWthUmU3TVpqR1U0QTV2SWJVa1Jxb2xYNFpXYUotNzcyRlZEM1phaUdueWczdVhHV3gwTVNINjU0Y0hKZlNRLUFqQ04xNA?oc=5)
-
-2026-08-27 <span class="news-indication-tag">asthme</span>
-
-來源：[L'Union](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW9GVnl4NC1FTTdmbUx6ek1KQUdMQW9CYURzQTJpbjJMTTVhWFdkdW13Y1JMMVd5d2djOGtXRS03ZlVicG1QNzdDWklxQnNSblVSUlBBS0M2d2FBUGhJTHJXVEx6YWtRWW9mbGRILWthUmU3TVpqR1U0QTV2SWJVa1Jxb2xYNFpXYUotNzcyRlZEM1phaUdueWczdVhHV3gwTVNINjU0Y0hKZlNRLUFqQ04xNA?oc=5)
-
----
-
-### [NEUER THERAPIE-ANSATZ: PHAGEN GEGEN MORBUS CROHN](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaS1YOWs2VFRSNlJEWmdWTmVrZzhaQ2hWaktFVm93VjdZS2dUbEZzSnJ0M1B5QVBRcnlZSGxiZWcwN05iNVVlcWg5Q0VZMW9KYS1WRWVub3gwSk5lN0xEQzViNm9YMnp3TEVFREZzcllYZmVJd0NvTlJnektCTENzUEpwdjF0ZFV1WlJPOXp5U2xzNk0?oc=5)
-
-2026-08-26 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[diepta.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaS1YOWs2VFRSNlJEWmdWTmVrZzhaQ2hWaktFVm93VjdZS2dUbEZzSnJ0M1B5QVBRcnlZSGxiZWcwN05iNVVlcWg5Q0VZMW9KYS1WRWVub3gwSk5lN0xEQzViNm9YMnp3TEVFREZzcllYZmVJd0NvTlJnektCTENzUEpwdjF0ZFV1WlJPOXp5U2xzNk0?oc=5)
-
----
-
-### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
-
-2026-08-25 <span class="news-indication-tag">copd</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
-
----
-
 ### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
@@ -110,11 +86,19 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">copd</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+
+---
+
+### [Alopecia: Common Arthritis Drug Shows Promise for Hair Regrowth](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 ---
 

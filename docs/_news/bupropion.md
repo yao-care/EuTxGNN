@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（8 則）
+
+### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
+
+2026-08-28 <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
+
+---
+
+### [La dieta keto gana terreno frente a la mediterránea en personas con obesidad - El Confidencial](https://news.google.com/rss/articles/CBMipgFBVV95cUxORGxHUXV3STZ1Q0VoODQ5RFVVSDgySTVtX0tLczdxZERhb0xTU0VvQUdWdWhwbk81NG5pN05veXNaSlI0U1dzZExla3hZY01jdDBjS2FVY0NZN0ppbWVlRGhPTDlxbTVYVXo0bUNrZ011T0NQMS1UeGlFYTlJWUMzWXh4SnBfUTh3UmVBOE5vdlF3N1RQVENZdVB4NjJwWDB4UGd1OVhB?oc=5)
+
+2026-08-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMipgFBVV95cUxORGxHUXV3STZ1Q0VoODQ5RFVVSDgySTVtX0tLczdxZERhb0xTU0VvQUdWdWhwbk81NG5pN05veXNaSlI0U1dzZExla3hZY01jdDBjS2FVY0NZN0ppbWVlRGhPTDlxbTVYVXo0bUNrZ011T0NQMS1UeGlFYTlJWUMzWXh4SnBfUTh3UmVBOE5vdlF3N1RQVENZdVB4NjJwWDB4UGd1OVhB?oc=5)
+
+---
+
+### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+
+---
 
 ### [The middle-aged disease that makes you feel tired and often goes undiagnosed - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
 
 2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
-
----
-
-### [La dieta cetogénica podría ser más beneficiosa que otras en personas con obesidad - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXNFa0xIdHEwbGU1NUs4WEwxMnJvdjJvY011bktsQ2FfMjFlS1JyMFdPVWsxaFBhMkZfYTl1S3phVFphczg1ZnN3bnpRZ2lMS2JjZ1RvcVNiSEU5WkRsXzgyNkpLREdWV1dELVFIV0lOVjlZLUVyY2RtUndBRDFwcVVmVDRsSjNibVhMUGdhUFE0STdGaWdpc1RHci1XQ0Qta0pMS1B5b2d1M3NFLTBIc2gyMGZwRktXR09feWFFc3lORWk5b1AwMg?oc=5)
-
-2026-08-27 <span class="news-indication-tag">obesidad</span>
-
-來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXNFa0xIdHEwbGU1NUs4WEwxMnJvdjJvY011bktsQ2FfMjFlS1JyMFdPVWsxaFBhMkZfYTl1S3phVFphczg1ZnN3bnpRZ2lMS2JjZ1RvcVNiSEU5WkRsXzgyNkpLREdWV1dELVFIV0lOVjlZLUVyY2RtUndBRDFwcVVmVDRsSjNibVhMUGdhUFE0STdGaWdpc1RHci1XQ0Qta0pMS1B5b2d1M3NFLTBIc2gyMGZwRktXR09feWFFc3lORWk5b1AwMg?oc=5)
 
 ---
 
@@ -86,38 +102,6 @@ permalink: /news/bupropion/
 
 ---
 
-### ["Un engouement croissant" : comment les traitements coupe-faim comme Ozempic ou Wegovy transforment l'économie américaine](https://news.google.com/rss/articles/CBMihAJBVV95cUxNOTktTklhTzBrMWZtcDYxUG9Qam1xOUlkN084dGo1RklldzB2dzBnRDFHVlZVNnVuc0dWOERkR0E3N25ZcGhZSjUzRnl4WThiRVBlNms2MWtmcU1QRnlrMlRBRzJjdlUxMEhUbk5Yaml1SjAxUjRCZlRkZDYzZ0szOFc5b0d5SnRqWURkcjRBaE1jUGR1VGFzUnFRR0VCX2dxNFp0Sk0yWlRpV3JjRjNHMUlvcUpBc1gwMmo0OGMybnRib3VQaGpEdWdGYzJxdDV2UllLN0NHQTFVV2NBbGpfc0xiNUI2OHliTkQ0dWxZb3RwcHFmcjFrRzJXU0cyNnZjVGJxNQ?oc=5)
-
-2026-08-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNOTktTklhTzBrMWZtcDYxUG9Qam1xOUlkN084dGo1RklldzB2dzBnRDFHVlZVNnVuc0dWOERkR0E3N25ZcGhZSjUzRnl4WThiRVBlNms2MWtmcU1QRnlrMlRBRzJjdlUxMEhUbk5Yaml1SjAxUjRCZlRkZDYzZ0szOFc5b0d5SnRqWURkcjRBaE1jUGR1VGFzUnFRR0VCX2dxNFp0Sk0yWlRpV3JjRjNHMUlvcUpBc1gwMmo0OGMybnRib3VQaGpEdWdGYzJxdDV2UllLN0NHQTFVV2NBbGpfc0xiNUI2OHliTkQ0dWxZb3RwcHFmcjFrRzJXU0cyNnZjVGJxNQ?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGZOWF9zZUcwM3JjazBRdDQwNkdoSlAxZURDMC1oRlAtQ25iYTJXNnd0VkhBejFINFJCWGhDS0tQdVUybzNrbFFZeGw2a1ZHSkdjcXNYbDVNZnl5TjFkTk4taXl0YmtMYzFoeEtiN3kzUUZkS0JWamdNNmhWYVY5b3ljMG1vaVRLdGJEeVVyNENMNlg3REg0TG8yaTJ1TXhfSWZEbV82UTRDUXdVbHhOXzRwak1QZS1tWW4ydXVXWlFMQUsxZ3RWZEh6a3VFeDZv?oc=5)
-
-2026-08-27 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGZOWF9zZUcwM3JjazBRdDQwNkdoSlAxZURDMC1oRlAtQ25iYTJXNnd0VkhBejFINFJCWGhDS0tQdVUybzNrbFFZeGw2a1ZHSkdjcXNYbDVNZnl5TjFkTk4taXl0YmtMYzFoeEtiN3kzUUZkS0JWamdNNmhWYVY5b3ljMG1vaVRLdGJEeVVyNENMNlg3REg0TG8yaTJ1TXhfSWZEbV82UTRDUXdVbHhOXzRwak1QZS1tWW4ydXVXWlFMQUsxZ3RWZEh6a3VFeDZv?oc=5)
-
----
-
-### [Malattie reumatologiche: i farmaci anti-obesità potrebbero rivoluzionare le cure - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzFfeHpkV2E5M25WUnVjUjJHSEVhLTF3bFRDU0toTVBNV1RrWGhVQV8yeWNFOFRWRHlXd0xMWDRoVHRPRi1DdENCZ3JfSmlLTDAxYkRvYkVnU0tRN3BGQVJabWhCc0Q0T1YtNWR4blJxQ01ZZGlXcTJFM2g5dXBmS3hjUW1NcDRna2FTTU0xV0ZrR2U2WWNybGVPMGN2UjQ5eldoTGNlbEZtcXROb25XTGt3cEE?oc=5)
-
-2026-08-26 <span class="news-indication-tag">obesità</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzFfeHpkV2E5M25WUnVjUjJHSEVhLTF3bFRDU0toTVBNV1RrWGhVQV8yeWNFOFRWRHlXd0xMWDRoVHRPRi1DdENCZ3JfSmlLTDAxYkRvYkVnU0tRN3BGQVJabWhCc0Q0T1YtNWR4blJxQ01ZZGlXcTJFM2g5dXBmS3hjUW1NcDRna2FTTU0xV0ZrR2U2WWNybGVPMGN2UjQ5eldoTGNlbEZtcXROb25XTGt3cEE?oc=5)
-
----
-
-### [Kolorektales Karzinom | Mit Adipositas drei Jahre früher zum Darmkrebs-Screening?](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
-
-2026-08-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
-
----
-
 ### [Adipositas: Bariatrische Operationen nach Therapie mit GLP-1-Rezeptoragonisten möglich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
 
 2026-08-25 <span class="news-indication-tag">Adipositas</span>
@@ -131,14 +115,6 @@ permalink: /news/bupropion/
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
-
----
-
-### [Tirzepatid bei Typ-2-Diabetes: Kein belegter Zusatznutzen bei Kindern und Jugendlichen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjI1TkZPWERkWFZkVkV5dTU1akd2bFdpYldNdmVzRGRSTXpjWE1nNWZid0xCOXczUFViT1NEcjZFWHRZSzZ4NlFna3d2bmVyOWtGaDhVX01FNFF0dUhfQ3BlVmE3NXNFeFhJV2M2YUljeUhjZDRhQUt5YURnMWd1eFQ5ZWdTZXVYTUo2RU1Od3Nra3ltclRCOEg1SzJaY0NRbVk3VE1pYWdRbEVrYkttNGJNTmd0anExelVvRjBhYjk1aEFXRU5XaA?oc=5)
-
-2026-08-21 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjI1TkZPWERkWFZkVkV5dTU1akd2bFdpYldNdmVzRGRSTXpjWE1nNWZid0xCOXczUFViT1NEcjZFWHRZSzZ4NlFna3d2bmVyOWtGaDhVX01FNFF0dUhfQ3BlVmE3NXNFeFhJV2M2YUljeUhjZDRhQUt5YURnMWd1eFQ5ZWdTZXVYTUo2RU1Od3Nra3ltclRCOEg1SzJaY0NRbVk3VE1pYWdRbEVrYkttNGJNTmd0anExelVvRjBhYjk1aEFXRU5XaA?oc=5)
 
 ---
 

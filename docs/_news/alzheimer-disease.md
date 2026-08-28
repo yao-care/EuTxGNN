@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,21 +44,29 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Alzheimer : ces ondes cérébrales pourraient trahir la maladie bien avant les premiers symptômes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVQZVFSMHVPZ1Z1aldBRTZOMkNQS21yTnRQVHNYU05rQl9jTkdZUzU2ZGk5ZzBNUHFpdDhXM3FmeWlVN1RQYzRnV2FzRkZJQzhRX2UtbzExTjJ6UTFiLVM5ZmpiakpoMlc3TGdtejFGNGw3M183a0RReHRmMExaRXJZSTNWWHhoZERaQk9NcVZET0VSOEV0a3AyWU4ybVhURzlxZTFVNVZ1SGpDTjhpLWdkaXAzenBmRHIyTUNMZGJ1bGdIR1pXYWU3akFJZ003ZUV0MzVjaExJRUpPREtmMk1jdEdVYTNJYzNHNkpzN05QLXM?oc=5)
 
-2026-08-27
+2026-08-28
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVQZVFSMHVPZ1Z1aldBRTZOMkNQS21yTnRQVHNYU05rQl9jTkdZUzU2ZGk5ZzBNUHFpdDhXM3FmeWlVN1RQYzRnV2FzRkZJQzhRX2UtbzExTjJ6UTFiLVM5ZmpiakpoMlc3TGdtejFGNGw3M183a0RReHRmMExaRXJZSTNWWHhoZERaQk9NcVZET0VSOEV0a3AyWU4ybVhURzlxZTFVNVZ1SGpDTjhpLWdkaXAzenBmRHIyTUNMZGJ1bGdIR1pXYWU3akFJZ003ZUV0MzVjaExJRUpPREtmMk1jdEdVYTNJYzNHNkpzN05QLXM?oc=5)
 
 ---
 
-### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1dZWUNRbzRNeGlsUnpEQjFVckVwQS1OVzhuVk9DcXBrakVodGlaV3FZQ2ZPYzlQRlAtQTY3eGotZVowdXowSWp4TG5wOTQtaEtVcFg1UGNpdWI3Mk1BX1JRQ0pOeFdPbFIzZTBqV1RFMDVuTkJOSG1jQkVVcjhncEwxOGFLZWJFV0s5UFhzNW9xV3VYSXlpOFd0VkdvLVhFT3hPRktKZmFXMDJWVzVWLTJTTGY?oc=5)
+### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
 
-2026-08-26
+2026-08-28
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1dZWUNRbzRNeGlsUnpEQjFVckVwQS1OVzhuVk9DcXBrakVodGlaV3FZQ2ZPYzlQRlAtQTY3eGotZVowdXowSWp4TG5wOTQtaEtVcFg1UGNpdWI3Mk1BX1JRQ0pOeFdPbFIzZTBqV1RFMDVuTkJOSG1jQkVVcjhncEwxOGFLZWJFV0s5UFhzNW9xV3VYSXlpOFd0VkdvLVhFT3hPRktKZmFXMDJWVzVWLTJTTGY?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
+
+---
+
+### [The US switch in shingles vaccines revealed an unexpected heart health pattern](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5)
+
+2026-08-28
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5)
 
 ---
 

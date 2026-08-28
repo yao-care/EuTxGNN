@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cobicistat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Mit einer Impfung gegen Krebs: Neue Kampagne im Kreis Fulda zum Schutz vor HPV - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHV1eXk1RjR0RlVFcHg2dUhVQmt0NjdkczNxenJmY3dEeVJzWmptaGhzaGxVc3Jaekc0YklVMEhXWjQ1TEVBaTNnLVFKVE1hS2g0MzVRTnM5TG5YUGNiTXpFUHRTU2xJNUFMdWtKU0w5eHRGZXNRVzI5T3o1S1JOaGxNS1BXQkFTbHZVY3l2UDQ1TVUzWjY4dDBBdTQxRGdqRjl0VDRuQmliU3dPMm12VUFaN0dyTEFETFE?oc=5)
-
-2026-08-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHV1eXk1RjR0RlVFcHg2dUhVQmt0NjdkczNxenJmY3dEeVJzWmptaGhzaGxVc3Jaekc0YklVMEhXWjQ1TEVBaTNnLVFKVE1hS2g0MzVRTnM5TG5YUGNiTXpFUHRTU2xJNUFMdWtKU0w5eHRGZXNRVzI5T3o1S1JOaGxNS1BXQkFTbHZVY3l2UDQ1TVUzWjY4dDBBdTQxRGdqRjl0VDRuQmliU3dPMm12VUFaN0dyTEFETFE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
