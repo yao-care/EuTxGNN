@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Taking HRT for the menopause could cut risk of dementia - The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUNLbnY2SFI4dy1jdWhFbExRNVZCOVpZS3AtM1hKQkltN1l4MGJIcGVnSGlWUTJGYms5WHE0QkNCVFo4MV9RbWlORjVoUkljN1pqclVIS3BvRC1NWmIzMEFYMUxrbGp5c2lvRjJCb2lJdE14dDRGQVpQZEx0NVA2M053WjFhNllnRFgwRFY5c01lbUJfeU1OOGd5M08?oc=5)
+### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+
+2026-08-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+
+---
+
+### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1dZWUNRbzRNeGlsUnpEQjFVckVwQS1OVzhuVk9DcXBrakVodGlaV3FZQ2ZPYzlQRlAtQTY3eGotZVowdXowSWp4TG5wOTQtaEtVcFg1UGNpdWI3Mk1BX1JRQ0pOeFdPbFIzZTBqV1RFMDVuTkJOSG1jQkVVcjhncEwxOGFLZWJFV0s5UFhzNW9xV3VYSXlpOFd0VkdvLVhFT3hPRktKZmFXMDJWVzVWLTJTTGY?oc=5)
 
 2026-08-26 <span class="news-indication-tag">dementia</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUNLbnY2SFI4dy1jdWhFbExRNVZCOVpZS3AtM1hKQkltN1l4MGJIcGVnSGlWUTJGYms5WHE0QkNCVFo4MV9RbWlORjVoUkljN1pqclVIS3BvRC1NWmIzMEFYMUxrbGp5c2lvRjJCb2lJdE14dDRGQVpQZEx0NVA2M053WjFhNllnRFgwRFY5c01lbUJfeU1OOGd5M08?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1dZWUNRbzRNeGlsUnpEQjFVckVwQS1OVzhuVk9DcXBrakVodGlaV3FZQ2ZPYzlQRlAtQTY3eGotZVowdXowSWp4TG5wOTQtaEtVcFg1UGNpdWI3Mk1BX1JRQ0pOeFdPbFIzZTBqV1RFMDVuTkJOSG1jQkVVcjhncEwxOGFLZWJFV0s5UFhzNW9xV3VYSXlpOFd0VkdvLVhFT3hPRktKZmFXMDJWVzVWLTJTTGY?oc=5)
 
 ---
 

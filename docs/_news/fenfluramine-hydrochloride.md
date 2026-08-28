@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [The middle-aged disease that makes you feel tired and often goes undiagnosed - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
+
+---
 
 ### [La dieta cetogénica podría ser más beneficiosa que otras en personas con obesidad - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXNFa0xIdHEwbGU1NUs4WEwxMnJvdjJvY011bktsQ2FfMjFlS1JyMFdPVWsxaFBhMkZfYTl1S3phVFphczg1ZnN3bnpRZ2lMS2JjZ1RvcVNiSEU5WkRsXzgyNkpLREdWV1dELVFIV0lOVjlZLUVyY2RtUndBRDFwcVVmVDRsSjNibVhMUGdhUFE0STdGaWdpc1RHci1XQ0Qta0pMS1B5b2d1M3NFLTBIc2gyMGZwRktXR09feWFFc3lORWk5b1AwMg?oc=5)
 
@@ -70,11 +78,27 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### [La obesidad tiene que dejar de ser un problema de salud pública](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
+
+2026-08-27 <span class="news-indication-tag">obesidad</span>
+
+來源：[AEC2](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
+
+---
+
 ### ["Un engouement croissant" : comment les traitements coupe-faim comme Ozempic ou Wegovy transforment l'économie américaine](https://news.google.com/rss/articles/CBMihAJBVV95cUxNOTktTklhTzBrMWZtcDYxUG9Qam1xOUlkN084dGo1RklldzB2dzBnRDFHVlZVNnVuc0dWOERkR0E3N25ZcGhZSjUzRnl4WThiRVBlNms2MWtmcU1QRnlrMlRBRzJjdlUxMEhUbk5Yaml1SjAxUjRCZlRkZDYzZ0szOFc5b0d5SnRqWURkcjRBaE1jUGR1VGFzUnFRR0VCX2dxNFp0Sk0yWlRpV3JjRjNHMUlvcUpBc1gwMmo0OGMybnRib3VQaGpEdWdGYzJxdDV2UllLN0NHQTFVV2NBbGpfc0xiNUI2OHliTkQ0dWxZb3RwcHFmcjFrRzJXU0cyNnZjVGJxNQ?oc=5)
 
 2026-08-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNOTktTklhTzBrMWZtcDYxUG9Qam1xOUlkN084dGo1RklldzB2dzBnRDFHVlZVNnVuc0dWOERkR0E3N25ZcGhZSjUzRnl4WThiRVBlNms2MWtmcU1QRnlrMlRBRzJjdlUxMEhUbk5Yaml1SjAxUjRCZlRkZDYzZ0szOFc5b0d5SnRqWURkcjRBaE1jUGR1VGFzUnFRR0VCX2dxNFp0Sk0yWlRpV3JjRjNHMUlvcUpBc1gwMmo0OGMybnRib3VQaGpEdWdGYzJxdDV2UllLN0NHQTFVV2NBbGpfc0xiNUI2OHliTkQ0dWxZb3RwcHFmcjFrRzJXU0cyNnZjVGJxNQ?oc=5)
+
+---
+
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGZOWF9zZUcwM3JjazBRdDQwNkdoSlAxZURDMC1oRlAtQ25iYTJXNnd0VkhBejFINFJCWGhDS0tQdVUybzNrbFFZeGw2a1ZHSkdjcXNYbDVNZnl5TjFkTk4taXl0YmtMYzFoeEtiN3kzUUZkS0JWamdNNmhWYVY5b3ljMG1vaVRLdGJEeVVyNENMNlg3REg0TG8yaTJ1TXhfSWZEbV82UTRDUXdVbHhOXzRwak1QZS1tWW4ydXVXWlFMQUsxZ3RWZEh6a3VFeDZv?oc=5)
+
+2026-08-27 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGZOWF9zZUcwM3JjazBRdDQwNkdoSlAxZURDMC1oRlAtQ25iYTJXNnd0VkhBejFINFJCWGhDS0tQdVUybzNrbFFZeGw2a1ZHSkdjcXNYbDVNZnl5TjFkTk4taXl0YmtMYzFoeEtiN3kzUUZkS0JWamdNNmhWYVY5b3ljMG1vaVRLdGJEeVVyNENMNlg3REg0TG8yaTJ1TXhfSWZEbV82UTRDUXdVbHhOXzRwak1QZS1tWW4ydXVXWlFMQUsxZ3RWZEh6a3VFeDZv?oc=5)
 
 ---
 
@@ -90,7 +114,7 @@ permalink: /news/fenfluramine-hydrochloride/
 
 2026-08-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
+來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXZEc2JWRHY3OHVBZEtLdVNYRXA2aUpDWUR5Y0NGYXE1Q3RxeXRSSFZaYjRnRE12TGdaZXowaHVDNkRvV2pNNVVaRHIyV1NnZm0ydVc2SkdGRDVZUUNYTms3SWVPZ2pyWEtvd20yd0NwUkxJcmowUTY3UEwwYmQ4X1BmZzBBa0pvVVVRdDV3RTVfUzFqZ01RMElia3g0ODNSMlRjdHhub1JBZ194VXYwUnlSWEhyQ1Vld0VzTnhfbmFFRW13Q3JRV0c0RQ?oc=5)
 
 ---
 

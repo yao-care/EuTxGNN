@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Upadacitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [El uso excesivo de inhaladores aumenta el riesgo de infarto en pacientes con asma y EPOC - Diario de Navarra](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWNrSlBpb1h2czVMWWtRbmVqUGdjZnFmaHdBWTVvc0plOUxGX0VjdU1XV2tEMzhRTDNlZ0lfbUJEa2xRczU2bUdzREd6cVh6Vy1KM2hNdmlVU0FOaEpuODNlMFRTZXRPX1dQdjZhZl9hU0c2UzNQbUJBQ1pOd2pHdEl0a3lXMVlhaTRYQmdkVGtLd2hKbUJqYkQwRWxLYUtKSmVfajIwYk1OaHpITXRsWkZsOU5XSjdEU1VDSjRMdnMyUmV4STRQNXl0b0hZeWt3TEE?oc=5)
+### [CAR-T, cura definitiva per l'artrite reumatoide?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+2026-08-27 <span class="news-indication-tag">artrite</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWNrSlBpb1h2czVMWWtRbmVqUGdjZnFmaHdBWTVvc0plOUxGX0VjdU1XV2tEMzhRTDNlZ0lfbUJEa2xRczU2bUdzREd6cVh6Vy1KM2hNdmlVU0FOaEpuODNlMFRTZXRPX1dQdjZhZl9hU0c2UzNQbUJBQ1pOd2pHdEl0a3lXMVlhaTRYQmdkVGtLd2hKbUJqYkQwRWxLYUtKSmVfajIwYk1OaHpITXRsWkZsOU5XSjdEU1VDSjRMdnMyUmV4STRQNXl0b0hZeWt3TEE?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
 
 ---
 
-### [SEPAR pone en marcha el Año SEPAR de la Vía Aérea 2026-2027, bajo el lema "Escucha tu respiración" - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE4xa21xM1dJeTFEZ3V5bkFia3VLcDlTLTJwZmFMYkhOQnZUMWVWTFRmQ1NvZGZFalloSk5XYW1aLWZTMDFDVWNtNGwtR2NpTEdRTnZlN0FmUGl2NG04eUxCWXhUbDIyVnV0ejlSN3hlaVFkMWNLUnE0NFlEc01jT2dPbWFyMk1rLXhiNXJjck5BOGdyS2wzbTMwOUw2UDJ2OTZaQVUxTTgzSGRkeThmWUpKQlNsX0tU0gGzAUFVX3lxTE90eUdQZDBZc194TG1iTlRoNnJNVmdhVWpJMkcxa1BOQ1VkWGZHRUlNMXMtLVRJMUxEYnNPOHNsZ0w2U1dPRExERm9jM1Viemk3aExXZU1tU1B2aWNSX0RROXdaeG84U21vUVUyelYxa1VYSnBPYWhocl9taGJ4YjJnYm9MVGtubjdrb0l5ajFLdS13RmowdDdxWl8yUy1Jc3NKall3dHNkSGFRLTZLYXlZNmR3?oc=5)
+### [Identifican en Morella la primera infección bacteriana en un dinosaurio de hace 125 millones de años](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZGVRQWNQcGJENlNCZ2Y4SG5Sb3k3ZE5QZ3JyV3Z3VDR3bUNqN1BYLWJWQ2E1bURNZXBycUxjYVV4M3ozNUxWeEpzeFE5MXZCdERpMnJOLWZQRFdxYmlRdVRPS2tpXy1VODVqMEpRY0dPTUNvdml5Uw?oc=5)
 
-2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+2026-08-27 <span class="news-indication-tag">artritis</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE4xa21xM1dJeTFEZ3V5bkFia3VLcDlTLTJwZmFMYkhOQnZUMWVWTFRmQ1NvZGZFalloSk5XYW1aLWZTMDFDVWNtNGwtR2NpTEdRTnZlN0FmUGl2NG04eUxCWXhUbDIyVnV0ejlSN3hlaVFkMWNLUnE0NFlEc01jT2dPbWFyMk1rLXhiNXJjck5BOGdyS2wzbTMwOUw2UDJ2OTZaQVUxTTgzSGRkeThmWUpKQlNsX0tU0gGzAUFVX3lxTE90eUdQZDBZc194TG1iTlRoNnJNVmdhVWpJMkcxa1BOQ1VkWGZHRUlNMXMtLVRJMUxEYnNPOHNsZ0w2U1dPRExERm9jM1Viemk3aExXZU1tU1B2aWNSX0RROXdaeG84U21vUVUyelYxa1VYSnBPYWhocl9taGJ4YjJnYm9MVGtubjdrb0l5ajFLdS13RmowdDdxWl8yUy1Jc3NKall3dHNkSGFRLTZLYXlZNmR3?oc=5)
+來源：[noticiascv.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZGVRQWNQcGJENlNCZ2Y4SG5Sb3k3ZE5QZ3JyV3Z3VDR3bUNqN1BYLWJWQ2E1bURNZXBycUxjYVV4M3ozNUxWeEpzeFE5MXZCdERpMnJOLWZQRFdxYmlRdVRPS2tpXy1VODVqMEpRY0dPTUNvdml5Uw?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/upadacitinib/
 
 ---
 
-### [Un móvil y la voz: la nueva vía para anticipar las crisis de asma y EPOC](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlFpd3MxQjhsUjE3ZXI5ZUMyaDVEZUl5OS1sWTBLWkdDelBLZlJ3VWx5RmFQQTRNYjFzZ0VKSURwa2h2dkRXQ19ZYWlkMEpmTjFycGtWekFCVW1VU0tiYXdIYzF3WFhrTUxXbkVfdWxSS2tBTXZYSEU4OFdLNjhWUzE0bEY2bDdYa2ZCLVh0VVdLWEd6UkMtVk4wQWxRSWxTMXkxbTJ2TlpIcUhWT0JSN3ZnWUNWQ00?oc=5)
+### [Rentrée scolaire : les virus aussi reprennent le chemin de l’école](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW9GVnl4NC1FTTdmbUx6ek1KQUdMQW9CYURzQTJpbjJMTTVhWFdkdW13Y1JMMVd5d2djOGtXRS03ZlVicG1QNzdDWklxQnNSblVSUlBBS0M2d2FBUGhJTHJXVEx6YWtRWW9mbGRILWthUmU3TVpqR1U0QTV2SWJVa1Jxb2xYNFpXYUotNzcyRlZEM1phaUdueWczdVhHV3gwTVNINjU0Y0hKZlNRLUFqQ04xNA?oc=5)
 
-2026-08-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+2026-08-27 <span class="news-indication-tag">asthme</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlFpd3MxQjhsUjE3ZXI5ZUMyaDVEZUl5OS1sWTBLWkdDelBLZlJ3VWx5RmFQQTRNYjFzZ0VKSURwa2h2dkRXQ19ZYWlkMEpmTjFycGtWekFCVW1VU0tiYXdIYzF3WFhrTUxXbkVfdWxSS2tBTXZYSEU4OFdLNjhWUzE0bEY2bDdYa2ZCLVh0VVdLWEd6UkMtVk4wQWxRSWxTMXkxbTJ2TlpIcUhWT0JSN3ZnWUNWQ00?oc=5)
+來源：[L'Union](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRW9GVnl4NC1FTTdmbUx6ek1KQUdMQW9CYURzQTJpbjJMTTVhWFdkdW13Y1JMMVd5d2djOGtXRS03ZlVicG1QNzdDWklxQnNSblVSUlBBS0M2d2FBUGhJTHJXVEx6YWtRWW9mbGRILWthUmU3TVpqR1U0QTV2SWJVa1Jxb2xYNFpXYUotNzcyRlZEM1phaUdueWczdVhHV3gwTVNINjU0Y0hKZlNRLUFqQ04xNA?oc=5)
 
 ---
 
@@ -91,6 +91,14 @@ permalink: /news/upadacitinib/
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+---
+
+### [Arthritis drug may help regrow up to 80% of hair in alopecia areata - Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
+
+2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxid1FEOTNQOUppemVlVVpNM1R0QVlNcjNCcV9ZZGhpbG5kbjdabmJDakRNOUhoRzlOWVI4V0ZWVE1Na2JHMk8wNHptemoyZEo0MWprcVR6N1JVV1p1LTdPU3NlUXF4dDdEeF9Qbnp3Q2JjbnpjLWxtb2NESDFzcWt3cUFHZUZCMEZ5dFNZeXZoX01OZkQtQldqLWsyTjQxWnVZZWd2U2tidmc4SFU1STJVN0k2NWhFNnc?oc=5)
 
 ---
 
