@@ -62,6 +62,22 @@ permalink: /news/orlistat/
 
 ---
 
+### [Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
+
+2026-08-29 <span class="news-indication-tag">stroke</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
+
+---
+
+### [Dieta keto vs. mediterránea: cuál mostró mayores beneficios para el hígado graso, según un estudio](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHZqRFBmRzJja3FwUTJJMW1GeUF3dFRWN1k1dDdwWDBtaVZVSzY4b3c2S29iVHNrTnNnckdjT2FVVllGeC10ZTNwaXVLTmpCUmlHVzA3UXVjd3psNkJoSUVVRTVYRGRqOE4yWW81R2lSOFE1RlVYRGlfX0xuVzdleTBNX2t3TU1JU2p0U3FWNUQ5RndmNElOQ2RWSGFNS01KT2FUaEFrSmVQS19yV1ZjUk1FS1BKN3hweDlXRFAzaXdzTXh0MjZjMmtma2lkQ1VLOGNn0gHuAUFVX3lxTE43c3JZbkFaTDc2UnUzWFZKRUJETjlmUGY3amFtSkE0TGJfbmlnb2RvdTYxQ2pUdEI2RTlCVmZTbV9ZaDFEMW1kMGtkNjBXcGhVZ0JsbUFKdm9hUGUzdHdJa0dSY05kX1IwQ2dfbmJoSU42QTVZWjBydFNqZC1QdVM0WVQ0TWxUdFdhT3VPRFdvM0xnSDhKcnl0S2gzaUxYSE5RamI5dml1QlllU3lfSm4xc2JNTDNUV2VJVWhkZ28xdHpVNVROcWtfUjNMRUt5STBzQ19jcFJDSWRFanc0UC1HUnIwS2RkU3BNcV9sc2c?oc=5)
+
+2026-08-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHZqRFBmRzJja3FwUTJJMW1GeUF3dFRWN1k1dDdwWDBtaVZVSzY4b3c2S29iVHNrTnNnckdjT2FVVllGeC10ZTNwaXVLTmpCUmlHVzA3UXVjd3psNkJoSUVVRTVYRGRqOE4yWW81R2lSOFE1RlVYRGlfX0xuVzdleTBNX2t3TU1JU2p0U3FWNUQ5RndmNElOQ2RWSGFNS01KT2FUaEFrSmVQS19yV1ZjUk1FS1BKN3hweDlXRFAzaXdzTXh0MjZjMmtma2lkQ1VLOGNn0gHuAUFVX3lxTE43c3JZbkFaTDc2UnUzWFZKRUJETjlmUGY3amFtSkE0TGJfbmlnb2RvdTYxQ2pUdEI2RTlCVmZTbV9ZaDFEMW1kMGtkNjBXcGhVZ0JsbUFKdm9hUGUzdHdJa0dSY05kX1IwQ2dfbmJoSU42QTVZWjBydFNqZC1QdVM0WVQ0TWxUdFdhT3VPRFdvM0xnSDhKcnl0S2gzaUxYSE5RamI5dml1QlllU3lfSm4xc2JNTDNUV2VJVWhkZ28xdHpVNVROcWtfUjNMRUt5STBzQ19jcFJDSWRFanc0UC1HUnIwS2RkU3BNcV9sc2c?oc=5)
+
+---
+
 ### [Xilitolo, dolcificante di chewing gum e marmellate, sotto accusa: rischi di infarto e ictus più alti - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkFzTlMwYl9CckN4WmdLZnkxeVFVRmVWMkRZVWZFaWpMLVE2eDBCQVF3YkliU055RWNGcldEbVozZFFFR3NTR0RVNGxCakV4b0V6MnFtTklLWnM4R0ZJajlBREp2MzM5ZGpNS0JhcUdyUzVYejdTbTgwVHBtTXN5X1h1SlhoMzVyY1F0ZlQ3VE9KOVJFV1Z0Y0FGRk0yNnNIbXRqZjZXT3ppWDV3Q3ZtSzBDODZMZ1hVXzAw0gGuAUFVX3lxTE03UUhmekhDN0lDb05CMUtVSzdRbWYydHZ6LUwwLWs5Snp2Ym40VFhrSDdmVGlyT0xMQXRhSk1QN2lRNHl4bWM2cTZuMG5JM0loRTFDcndEa1RPNG9MaUFRbnVUVmN2STBNQ3V2R1d5RE1sNEFCLWVlM1RDTEZGS0kxQVRVRzM3bTRhdzMtaDItTFFlSjdNamUwMUpDX0MwY0JCY2NQV0tUaFB0ZFRoUQ?oc=5)
 
 2026-08-28 <span class="news-indication-tag">ictus</span>
@@ -86,19 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Sweetener linked to heart attacks found in chewing gum - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVCSFNsUE04WTVpdEp2VXlha1NHV01mVnpBSzB2ZHlsTTMzQ1lzcDBWeTktVWlwOGFwVThOd3hVcTlDRmtKbGg3a3FQUFNqcU15NnN5WVh5R21uVFdDc0pBVE02TTR1ZmswOEI2Q1g4M2JZY3A0SG5wRi1oVUg2YlEzc0FEc01ETGc1NENn?oc=5)
+### [The #1 Nutrient for Reducing Stroke Risk, According to Dietitians](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMFUwQUlUbTZaZzMzOGxXakVHenB4bllLZktLRUFGdU95My1oQnlaaTFETG92ZHI4UklLQXpRaHkzU2VWQnk2R2xlTGVKaUhueHlKRG9BSXphMFNyWkNxV2JrSlRYa3BhQzczSElYUVU5YmExZ0RLSEg0ZFBsV2c?oc=5)
 
 2026-08-28 <span class="news-indication-tag">stroke</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVCSFNsUE04WTVpdEp2VXlha1NHV01mVnpBSzB2ZHlsTTMzQ1lzcDBWeTktVWlwOGFwVThOd3hVcTlDRmtKbGg3a3FQUFNqcU15NnN5WVh5R21uVFdDc0pBVE02TTR1ZmswOEI2Q1g4M2JZY3A0SG5wRi1oVUg2YlEzc0FEc01ETGc1NENn?oc=5)
-
----
-
-### [Dieta Keto o dieta mediterránea, ¿quién gana? Tú hígado lo tiene claro](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0tNZ2dtVlNOX241QzNxWTZYRkpYTEJEUDd4T1VNZzIyS3NOeUpRR3AwM3ZRWTdsZENXOEFWZVkwb2dyd1pKQnlfSFRscy1vSkFHN016bEVQRWIwMkVFcGlaVGVOeEg4SjlMZ0xhOWQ1blBQQWgtRVJXRWloRUpiTGE4V1F6MEpRMTBoRzlnZUVyN01WQlFTV0wwMTJCczBnZGVQeGhEMF95VkZreFE?oc=5)
-
-2026-08-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0tNZ2dtVlNOX241QzNxWTZYRkpYTEJEUDd4T1VNZzIyS3NOeUpRR3AwM3ZRWTdsZENXOEFWZVkwb2dyd1pKQnlfSFRscy1vSkFHN016bEVQRWIwMkVFcGlaVGVOeEg4SjlMZ0xhOWQ1blBQQWgtRVJXRWloRUpiTGE4V1F6MEpRMTBoRzlnZUVyN01WQlFTV0wwMTJCczBnZGVQeGhEMF95VkZreFE?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMFUwQUlUbTZaZzMzOGxXakVHenB4bllLZktLRUFGdU95My1oQnlaaTFETG92ZHI4UklLQXpRaHkzU2VWQnk2R2xlTGVKaUhueHlKRG9BSXphMFNyWkNxV2JrSlRYa3BhQzczSElYUVU5YmExZ0RLSEg0ZFBsV2c?oc=5)
 
 ---
 
@@ -120,7 +128,7 @@ permalink: /news/orlistat/
 
 ### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
 
-2026-08-28 <span class="news-indication-tag">Adipositas</span>
+2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
 
@@ -150,17 +158,9 @@ permalink: /news/orlistat/
 
 ---
 
-### [Il cervello si ripara meglio di quanto la scienza pensasse - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm9GS2RJeU1DX2ZjOURESndreUlzdjBEUFFoWnZpbkJfV25pVDhiZlNIdGN4WENINjFYVHZRd2RMTlpDZlhrNjhsMnJNbnBTRk5YTU1KTy0zZ3VTNC1jV0MySjZaSnJlNFNYRGE2Zms5U21yRFUxSDdOa3NWRXVOMjlPVzh5enA4Z0lEODdvN2ZuaVVlYUF6a0Q2TUdCbV9mSkxJNVdzRmxKcmZCcGFoeExWaUVtaGRGVkc2OU1xRGR6N2hL?oc=5)
-
-2026-08-28 <span class="news-indication-tag">ictus</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm9GS2RJeU1DX2ZjOURESndreUlzdjBEUFFoWnZpbkJfV25pVDhiZlNIdGN4WENINjFYVHZRd2RMTlpDZlhrNjhsMnJNbnBTRk5YTU1KTy0zZ3VTNC1jV0MySjZaSnJlNFNYRGE2Zms5U21yRFUxSDdOa3NWRXVOMjlPVzh5enA4Z0lEODdvN2ZuaVVlYUF6a0Q2TUdCbV9mSkxJNVdzRmxKcmZCcGFoeExWaUVtaGRGVkc2OU1xRGR6N2hL?oc=5)
-
----
-
 ### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">obesity</span>
+2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 

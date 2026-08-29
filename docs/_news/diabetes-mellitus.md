@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。10 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>10 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
@@ -140,6 +140,14 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
+### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
+
+2026-08-28
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
+
+---
+
 ### [Una investigación concluye que la diabetes tipo 2 se manifiesta de manera diferente según el peso corporal](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORlRSYVdsb0VNM1JWSkMzMVhuQklYdU8tdUNsS25mTm1JWkZMd1oyMHpTUDBhbFVJSGVqRmwzeGZxVExZUTQ5cmZJcUtqbGFuNE8zYTdZQkI4WXJLYmE1WmFzM1IzQ1pmMzdwWFU0N1ROZmdRNTlYRVM0Sm5SOF9DOVo5WUpnVDNrRWNDSmhMS25lSEc2MG82V2hWQWhtOV9RUE5WdGNNaTJDY0ZvTEZVU0puUFFHTUtSbk96RVNPSTllNDFrYWdtVkQtU1Y1QXdhUEtnTUJJY2wxZi1oUFREUmozREJkUDQ?oc=5)
 
 2026-08-28
@@ -156,6 +164,14 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
+### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+
+2026-08-27
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+
+---
+
 ### [A qué hora desayunar si tenés diabetes: las recomendaciones de los especialistas para evitar picos de glucosa](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM19DWWd1a3F1dEphbVBtay1IOXFKaE92aE9HaU9FeDF5TzNEQVJrMkNPbzF5TDllekRHX3VzVWtnZ0FsWUM1dGZwbVVnaWxhakF3TXh2aVpTY1ZzZmxLSHZaODVFWFRTV0RjaXdOTWRIZkZmVXE0dnVPNHU5S0EweE9TNk9aOXMzUnZXTnZET2NLcmc3WTBOSmU2cTI0enNKMkstb2wzMHpvWkgycDBmS2g4YUhYLWxNZFNUQmRaZjFnREZBMGpGNFEzaHB4c3phMGhJSktEM0FmWVY4cDBMRnNEN2ZYVGhwaXdnaldLUjItSEZr?oc=5)
 
 2026-08-27
@@ -169,14 +185,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-27
 
 來源：[Univadis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2M3QkhzMWhpUTFJMmhqc1JkRm9iQ1BkWndvRHdpNnN5OENLa0liVkVaSXV6ako0VDMtdE1Bb0RoUTVmeUw4dlJjTkZoMmgyYThQYzR2NWFZR19BMUZNa092c3F3VER6ei1PN21mcFVVazVKcF8xUHlyNnYyNG01dkg5alhqQzRhTmttWHV0UF96YmhmMzA0VWpDQUxXOVlvdnFlOFFHbEQ?oc=5)
-
----
-
-### [Los médicos lo dejan claro: "El sexo y la edad son los principales causantes de las complicaciones en la diabetes tipo 2" - Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
-
-2026-08-27
-
-來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
 
 ---
 

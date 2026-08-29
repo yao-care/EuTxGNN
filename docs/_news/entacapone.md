@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Alzheimer : ces ondes cérébrales pourraient trahir la maladie bien avant les premiers symptômes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVQZVFSMHVPZ1Z1aldBRTZOMkNQS21yTnRQVHNYU05rQl9jTkdZUzU2ZGk5ZzBNUHFpdDhXM3FmeWlVN1RQYzRnV2FzRkZJQzhRX2UtbzExTjJ6UTFiLVM5ZmpiakpoMlc3TGdtejFGNGw3M183a0RReHRmMExaRXJZSTNWWHhoZERaQk9NcVZET0VSOEV0a3AyWU4ybVhURzlxZTFVNVZ1SGpDTjhpLWdkaXAzenBmRHIyTUNMZGJ1bGdIR1pXYWU3akFJZ003ZUV0MzVjaExJRUpPREtmMk1jdEdVYTNJYzNHNkpzN05QLXM?oc=5)
-
-2026-08-28 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVQZVFSMHVPZ1Z1aldBRTZOMkNQS21yTnRQVHNYU05rQl9jTkdZUzU2ZGk5ZzBNUHFpdDhXM3FmeWlVN1RQYzRnV2FzRkZJQzhRX2UtbzExTjJ6UTFiLVM5ZmpiakpoMlc3TGdtejFGNGw3M183a0RReHRmMExaRXJZSTNWWHhoZERaQk9NcVZET0VSOEV0a3AyWU4ybVhURzlxZTFVNVZ1SGpDTjhpLWdkaXAzenBmRHIyTUNMZGJ1bGdIR1pXYWU3akFJZ003ZUV0MzVjaExJRUpPREtmMk1jdEdVYTNJYzNHNkpzN05QLXM?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
 

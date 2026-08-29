@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [La vacuna personalizada contra el melanoma entusiasma a los oncólogos](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcHNrRmNmS21MUm1NNTRzdFRUSjVSS1ljdXBONUlvMlhDRDNwYm9WcWRROEJyWS1YbU1rTjhQTUE5NFBqTGVzaFlLRm94dlZ3QmVJeS1RWV9FRm1FUS16TzNrYUpVQkgzV3NWNmJON3o0MjlJdDFRU3AwTm9MRmx5RzY0Vmg0c25HdVJPWXQ5eDRfMGtfcy1Uc2tRUHcwZ1IxUVRhX2ZRZ016N2xaRFlHS2VnQ3cyTC1SU1AwNlh4VzM1WnVLR2xSNXBYX1p3MXUyMFpRbU9BMlNCYlls0gHiAUFVX3lxTE5fNHZOdURlSzJQQ1hibkRtdzlPV0V5UGs1OEJMaWU1VUNUdFZvRnA2Ml9Wd3FEQ2lxbGYtaWtXZEpNTDM2cHg3UEJxQ1ROSVpCa2RkUURsTzBFMEItU1B0MkE2UWgyYUY0OHJfZEFoWjczdzFHbzJhY0h5R3RYV2lJdmI2Y0xBVVVPem80amlGWnlEWTRpLVV2YWFTOGIzdWQzaXVoQnNDVmZYRzVzTTdUUUltUzlNM1dvYUlhRk56ekFZeHlTMDlZWlRZN2ZHX19ONGJJNlFhclhES0lIRFRyZkE?oc=5)
-
-2026-08-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Perfil](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcHNrRmNmS21MUm1NNTRzdFRUSjVSS1ljdXBONUlvMlhDRDNwYm9WcWRROEJyWS1YbU1rTjhQTUE5NFBqTGVzaFlLRm94dlZ3QmVJeS1RWV9FRm1FUS16TzNrYUpVQkgzV3NWNmJON3o0MjlJdDFRU3AwTm9MRmx5RzY0Vmg0c25HdVJPWXQ5eDRfMGtfcy1Uc2tRUHcwZ1IxUVRhX2ZRZ016N2xaRFlHS2VnQ3cyTC1SU1AwNlh4VzM1WnVLR2xSNXBYX1p3MXUyMFpRbU9BMlNCYlls0gHiAUFVX3lxTE5fNHZOdURlSzJQQ1hibkRtdzlPV0V5UGs1OEJMaWU1VUNUdFZvRnA2Ml9Wd3FEQ2lxbGYtaWtXZEpNTDM2cHg3UEJxQ1ROSVpCa2RkUURsTzBFMEItU1B0MkE2UWgyYUY0OHJfZEFoWjczdzFHbzJhY0h5R3RYV2lJdmI2Y0xBVVVPem80amlGWnlEWTRpLVV2YWFTOGIzdWQzaXVoQnNDVmZYRzVzTTdUUUltUzlNM1dvYUlhRk56ekFZeHlTMDlZWlRZN2ZHX19ONGJJNlFhclhES0lIRFRyZkE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
 

@@ -62,6 +62,14 @@ permalink: /news/simvastatin/
 
 ---
 
+### [Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
+
+2026-08-29 <span class="news-indication-tag">stroke</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
+
+---
+
 ### [Xilitolo, dolcificante di chewing gum e marmellate, sotto accusa: rischi di infarto e ictus più alti - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkFzTlMwYl9CckN4WmdLZnkxeVFVRmVWMkRZVWZFaWpMLVE2eDBCQVF3YkliU055RWNGcldEbVozZFFFR3NTR0RVNGxCakV4b0V6MnFtTklLWnM4R0ZJajlBREp2MzM5ZGpNS0JhcUdyUzVYejdTbTgwVHBtTXN5X1h1SlhoMzVyY1F0ZlQ3VE9KOVJFV1Z0Y0FGRk0yNnNIbXRqZjZXT3ppWDV3Q3ZtSzBDODZMZ1hVXzAw0gGuAUFVX3lxTE03UUhmekhDN0lDb05CMUtVSzdRbWYydHZ6LUwwLWs5Snp2Ym40VFhrSDdmVGlyT0xMQXRhSk1QN2lRNHl4bWM2cTZuMG5JM0loRTFDcndEa1RPNG9MaUFRbnVUVmN2STBNQ3V2R1d5RE1sNEFCLWVlM1RDTEZGS0kxQVRVRzM3bTRhdzMtaDItTFFlSjdNamUwMUpDX0MwY0JCY2NQV0tUaFB0ZFRoUQ?oc=5)
 
 2026-08-28 <span class="news-indication-tag">ictus</span>
@@ -86,11 +94,11 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Sweetener linked to heart attacks found in chewing gum - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVCSFNsUE04WTVpdEp2VXlha1NHV01mVnpBSzB2ZHlsTTMzQ1lzcDBWeTktVWlwOGFwVThOd3hVcTlDRmtKbGg3a3FQUFNqcU15NnN5WVh5R21uVFdDc0pBVE02TTR1ZmswOEI2Q1g4M2JZY3A0SG5wRi1oVUg2YlEzc0FEc01ETGc1NENn?oc=5)
+### [The #1 Nutrient for Reducing Stroke Risk, According to Dietitians](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMFUwQUlUbTZaZzMzOGxXakVHenB4bllLZktLRUFGdU95My1oQnlaaTFETG92ZHI4UklLQXpRaHkzU2VWQnk2R2xlTGVKaUhueHlKRG9BSXphMFNyWkNxV2JrSlRYa3BhQzczSElYUVU5YmExZ0RLSEg0ZFBsV2c?oc=5)
 
 2026-08-28 <span class="news-indication-tag">stroke</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVCSFNsUE04WTVpdEp2VXlha1NHV01mVnpBSzB2ZHlsTTMzQ1lzcDBWeTktVWlwOGFwVThOd3hVcTlDRmtKbGg3a3FQUFNqcU15NnN5WVh5R21uVFdDc0pBVE02TTR1ZmswOEI2Q1g4M2JZY3A0SG5wRi1oVUg2YlEzc0FEc01ETGc1NENn?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMFUwQUlUbTZaZzMzOGxXakVHenB4bllLZktLRUFGdU95My1oQnlaaTFETG92ZHI4UklLQXpRaHkzU2VWQnk2R2xlTGVKaUhueHlKRG9BSXphMFNyWkNxV2JrSlRYa3BhQzczSElYUVU5YmExZ0RLSEg0ZFBsV2c?oc=5)
 
 ---
 
@@ -131,14 +139,6 @@ permalink: /news/simvastatin/
 2026-08-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5)
-
----
-
-### [Il cervello si ripara meglio di quanto la scienza pensasse - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm9GS2RJeU1DX2ZjOURESndreUlzdjBEUFFoWnZpbkJfV25pVDhiZlNIdGN4WENINjFYVHZRd2RMTlpDZlhrNjhsMnJNbnBTRk5YTU1KTy0zZ3VTNC1jV0MySjZaSnJlNFNYRGE2Zms5U21yRFUxSDdOa3NWRXVOMjlPVzh5enA4Z0lEODdvN2ZuaVVlYUF6a0Q2TUdCbV9mSkxJNVdzRmxKcmZCcGFoeExWaUVtaGRGVkc2OU1xRGR6N2hL?oc=5)
-
-2026-08-28 <span class="news-indication-tag">ictus</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm9GS2RJeU1DX2ZjOURESndreUlzdjBEUFFoWnZpbkJfV25pVDhiZlNIdGN4WENINjFYVHZRd2RMTlpDZlhrNjhsMnJNbnBTRk5YTU1KTy0zZ3VTNC1jV0MySjZaSnJlNFNYRGE2Zms5U21yRFUxSDdOa3NWRXVOMjlPVzh5enA4Z0lEODdvN2ZuaVVlYUF6a0Q2TUdCbV9mSkxJNVdzRmxKcmZCcGFoeExWaUVtaGRGVkc2OU1xRGR6N2hL?oc=5)
 
 ---
 
