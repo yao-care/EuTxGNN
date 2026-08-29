@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Alzheimer : ces ondes cérébrales pourraient trahir la maladie bien avant les premiers symptômes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVQZVFSMHVPZ1Z1aldBRTZOMkNQS21yTnRQVHNYU05rQl9jTkdZUzU2ZGk5ZzBNUHFpdDhXM3FmeWlVN1RQYzRnV2FzRkZJQzhRX2UtbzExTjJ6UTFiLVM5ZmpiakpoMlc3TGdtejFGNGw3M183a0RReHRmMExaRXJZSTNWWHhoZERaQk9NcVZET0VSOEV0a3AyWU4ybVhURzlxZTFVNVZ1SGpDTjhpLWdkaXAzenBmRHIyTUNMZGJ1bGdIR1pXYWU3akFJZ003ZUV0MzVjaExJRUpPREtmMk1jdEdVYTNJYzNHNkpzN05QLXM?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/alzheimer-disease/
 2026-08-26
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcERRYjNYSXctZUVPVGdjRGZFZ2RjdWJOemphUDZIVFlreWRrUUV3cWVZRTE3bmROekpCUU9jSER0dFFiVzFsV2E0WEJJS2JiSmJRNFNVUW0yWHFVcFNTR0NoZVlwSmNvbnREMmswaVNjaUhBYVpBMDQ2eFdMb3g3VUxsSEhlRnRsTS1TNXM0WXVWQmdPei0zdnpEY215MGF3SHd2X2xYTENDT1dhR3RlVGg3LXhuNEo5TjQw?oc=5)
-
----
-
-### [Millions of Brits have NO idea their daily habits risk dementia - 14 key ways - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
-
-2026-08-25
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
 
 ---
 

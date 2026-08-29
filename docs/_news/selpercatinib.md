@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/selpercatinib/
 2026-08-28 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxObHZ5TlFSb0JiSktYNEhrT1V6YkJyZlRkM3JJR2lJcUdpSU04a0dqbWVULXd2azFmWktPMnhSbjJjdTBQNS1XLWNnNVN3R0dzLThEVHIweG5vdVllbFZ3U1dpMXk2M3puX0ViZnBobmI2ZmxCSUtybDB6bFltYV9yWDAwaHR1VzRoMWFQMUtoQmdKYzB0bTVpT1Nibmc3SGRJQV9oQTI1a3NwYVZzNHpfd21lNFRPS0E?oc=5)
-
----
-
-### [Research into protein interactions sheds new light on causes of autism - Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart failure</span>
-
-來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
 
 ---
 

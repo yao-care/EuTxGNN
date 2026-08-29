@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
 
 ### [Cet édulcorant utilisé dans les chewing-gums, les dentifrice et les confitures serait lié à des AVC et des crises cardiaques](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXU3VG5VWnRWMVVmeURaQkdxcS1wZkNYdUpjZXpXV2tleHpaemktbmIzTE1laldaZDBDNTdYakRmbXpCdXpNdnVnM1hZUTlINlUtdldsVUFQQnVOX0tBSTR0Q2Y5OVgwNGRwN29oZnNYeE8yMlN2UGwzaFNoM2UxVms3VWZwYnZZR1IyM2RmSWVZWG93OWxnaDFOOEwtT3lsQktSdm5XYnlpbW5oWWZ0S0U3SDVjUdIBuwFBVV95cUxPWnRGRHBTazk3TVBMdjItZUllR2wxTmZUeXBXUHNqYVpzb0FLdElzYl9wVEJkQVhsOV9saW45dW9va1RfQl9mcldPNGs4dGdIVUxQcXdWbEN0clBzSlVhZlI4ZEJPVGxkSHpBVTZvNnc4SFI0TFI3RnladGJDTWVfUXZfaXJkOUVORjNoaEh6WEd4bVIzY3ByWkRtUEc4bXVQQmkyUnZfQmw3NDdxUWppSkM5NFJDSnd2TWlJ?oc=5)
 
 2026-08-28 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
 來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXU3VG5VWnRWMVVmeURaQkdxcS1wZkNYdUpjZXpXV2tleHpaemktbmIzTE1laldaZDBDNTdYakRmbXpCdXpNdnVnM1hZUTlINlUtdldsVUFQQnVOX0tBSTR0Q2Y5OVgwNGRwN29oZnNYeE8yMlN2UGwzaFNoM2UxVms3VWZwYnZZR1IyM2RmSWVZWG93OWxnaDFOOEwtT3lsQktSdm5XYnlpbW5oWWZ0S0U3SDVjUdIBuwFBVV95cUxPWnRGRHBTazk3TVBMdjItZUllR2wxTmZUeXBXUHNqYVpzb0FLdElzYl9wVEJkQVhsOV9saW45dW9va1RfQl9mcldPNGs4dGdIVUxQcXdWbEN0clBzSlVhZlI4ZEJPVGxkSHpBVTZvNnc4SFI0TFI3RnladGJDTWVfUXZfaXJkOUVORjNoaEh6WEd4bVIzY3ByWkRtUEc4bXVQQmkyUnZfQmw3NDdxUWppSkM5NFJDSnd2TWlJ?oc=5)
-
----
-
-### [Thousands of UK women have undiagnosed PTSD after childbirth each year, study finds - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcENPS1hGaTdPY0p5VE5JR1F4RV9mQXplbURfZF9Tejg5YXZJZFFmYWFaV2wwMTBDV010VFVhS2lodk56NDhhdWx3NlpCVjhJZlFGMFJ4S3lKMFV0XzlwNHVaYnlqeUxVQmVDSVBKSGxQeXdCa2VJWnc5T1g1UDJGNGhScUlwb0NpN2JCXy1pZUgxU3ppWTkxa2ZkVjROa1Z1SzBneUNTV2lZV0hJNTJILUtvRHEtYTBLZWhGUERUSFJ0ejFFWmgwX3hB?oc=5)
-
-2026-08-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcENPS1hGaTdPY0p5VE5JR1F4RV9mQXplbURfZF9Tejg5YXZJZFFmYWFaV2wwMTBDV010VFVhS2lodk56NDhhdWx3NlpCVjhJZlFGMFJ4S3lKMFV0XzlwNHVaYnlqeUxVQmVDSVBKSGxQeXdCa2VJWnc5T1g1UDJGNGhScUlwb0NpN2JCXy1pZUgxU3ppWTkxa2ZkVjROa1Z1SzBneUNTV2lZV0hJNTJILUtvRHEtYTBLZWhGUERUSFJ0ejFFWmgwX3hB?oc=5)
 
 ---
 
@@ -118,6 +110,14 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [Brain ‘tags’ decide which memories last forever and which fade away - The Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU1FUFVKdFNqUWhCNXNCUUVrNlFMNFdBUFJEb0l3NmJwcEMyTnl0ZFBRSEZROHJSVktJbWh2WnJUNnhUTFJHZWtCQzd6eWVjN0dWN3ZEeGNSaVk1TkJwX1pYWmxnbE9NWWRoRDIwZ2NPazhDSlVScm9WNXRkcFVmZDBxdlY?oc=5)
+
+2026-08-27 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU1FUFVKdFNqUWhCNXNCUUVrNlFMNFdBUFJEb0l3NmJwcEMyTnl0ZFBRSEZROHJSVktJbWh2WnJUNnhUTFJHZWtCQzd6eWVjN0dWN3ZEeGNSaVk1TkJwX1pYWmxnbE9NWWRoRDIwZ2NPazhDSlVScm9WNXRkcFVmZDBxdlY?oc=5)
+
+---
+
 ### [Mammograms could be used to identify heart disease in women - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2RfMWVCemU4dENkU215b20xSTltSE5WdVBVeWg1WjBqX29FdEdLSlVhdVdEWWYxa2lQOUh5ckpoaWlnd3g1VlltaDVOY2FwSFhjcVdBdFQxdXpta01ENUt1S3pfUElLZWlxNWw0d2ZBNkN3MEhLbVhiVk0tcEhPb1N1LXoyTVl6NGdBcjJXMGQ3Rzc2?oc=5)
 
 2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
@@ -158,11 +158,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Wie du mit Psychobiotika deine Seele unterstützen kannst – 12 Tipps für den Alltag - Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2NNblRLa1Q4REp4QWlOdXJDXzZsOVY2S2lGeVBNWmVLdFg4WEhOemt3NENiWDZUbmFLbXhhV0FrcnlPUkVEaDI3TWJtaUZUYmNibG5ZTW1Pa1ZzbHBUMG5IWHROb2FJUEZ4V242NE9RMUFaWVhuQ3FVcFQ2aXlxdkswemE2S3RrUVFvektXcHZZQ1htYVE0dWl4RGdBZlhmVWI3Vw?oc=5)
+### [Creatine, collagen or mushrooms in your coffee? The nutritionists’ verdict - The Times](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdXh2dVVSTktPYXN0bHRrcmdXcElvYkc1Qk1Gc2tZcmZBRU9MOUItQTA4MjFmMVkwY2RuUFdpOXE5SVV3NXU5c1g5OUFGWjE0WW5TRjlCVHo3RGhkMHNQRnhVMDRCclJhS2VSTklraHBaQ0FYSkNvbklRbk1BZlYtYXVMVmROODJySU1fZnFQTkNqNmFXVkZleHlORzZhZFBxelI3dm5JOFEydW1abWdzUV9LYTlGcm1fMGNJdXhkeUZSNjlabU13UzVnTVNPenJKcHd2My02cUJmeDNfWHc?oc=5)
 
-2026-08-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-08-27 <span class="news-indication-tag">MS</span>
 
-來源：[Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2NNblRLa1Q4REp4QWlOdXJDXzZsOVY2S2lGeVBNWmVLdFg4WEhOemt3NENiWDZUbmFLbXhhV0FrcnlPUkVEaDI3TWJtaUZUYmNibG5ZTW1Pa1ZzbHBUMG5IWHROb2FJUEZ4V242NE9RMUFaWVhuQ3FVcFQ2aXlxdkswemE2S3RrUVFvektXcHZZQ1htYVE0dWl4RGdBZlhmVWI3Vw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdXh2dVVSTktPYXN0bHRrcmdXcElvYkc1Qk1Gc2tZcmZBRU9MOUItQTA4MjFmMVkwY2RuUFdpOXE5SVV3NXU5c1g5OUFGWjE0WW5TRjlCVHo3RGhkMHNQRnhVMDRCclJhS2VSTklraHBaQ0FYSkNvbklRbk1BZlYtYXVMVmROODJySU1fZnFQTkNqNmFXVkZleHlORzZhZFBxelI3dm5JOFEydW1abWdzUV9LYTlGcm1fMGNJdXhkeUZSNjlabU13UzVnTVNPenJKcHd2My02cUJmeDNfWHc?oc=5)
 
 ---
 
@@ -174,19 +174,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [New hope for women with endometriosis symptoms](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JbGlBOVhpQkdWNG1BM3JtWGZrSDlQSXRYU09HV2I3Q0NOcy1EeE9ORUlGRTgzQU8xSUtWNHk2TWREVWlYdW5QOHNNeGtocWg4UkhoRk5WZkgxdDA0?oc=5)
-
-2026-08-26 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JbGlBOVhpQkdWNG1BM3JtWGZrSDlQSXRYU09HV2I3Q0NOcy1EeE9ORUlGRTgzQU8xSUtWNHk2TWREVWlYdW5QOHNNeGtocWg4UkhoRk5WZkgxdDA0?oc=5)
-
----
-
 ### [Nicotine vapes best chance to quit smoking, major review finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
 
 2026-08-25 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
+
+---
+
+### [KI-Designer Viren: Stanford erzeugt 16 funktionierende Bakteriophagen](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUQyVE1UanBMR1BFUzNPUnRmSjRwUGYtakVTeVZya3F4QmJET2Q0a0tZZU9iTGJNYk1mZzNnS2NsZ3lGMlZSYk1IWDhHbzlsT1g4cjlSQzgxdXA0SUNnbERiUzV1RWtNTEJtNGF1akRZZ1FCdXFfVS0zMl9taG11M0kxWEluTDFaUUVMYmJjMm95VDF6THo4b2l0RQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BornCity](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUQyVE1UanBMR1BFUzNPUnRmSjRwUGYtakVTeVZya3F4QmJET2Q0a0tZZU9iTGJNYk1mZzNnS2NsZ3lGMlZSYk1IWDhHbzlsT1g4cjlSQzgxdXA0SUNnbERiUzV1RWtNTEJtNGF1akRZZ1FCdXFfVS0zMl9taG11M0kxWEluTDFaUUVMYmJjMm95VDF6THo4b2l0RQ?oc=5)
 
 ---
 
@@ -198,11 +198,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+來源：[Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 ---
 
@@ -211,14 +211,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-08-24 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFk2ZXd5T01lSkhnOWpYOTNPYWJGMk5NN3ZiMkItSW1yRWxrOEtoZksxcTdDWkcwWlM2dmtkUnpBa2ZvdmtZZzVraU4wOUdPcEU5TUI2dmt6UE1tTVozcUEwVHJCbHJmaHpkdVBrVlB0VlE2VC12cktIdkRsNHh1eTdmN3RXa19EMHVyVjc2a3VldkhKYnRwQ3VqeTM0YUpjNEQydHc0cWxTY0duNE45Y1QxQ2IyQUZXODRJeA?oc=5)
-
----
-
-### [Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00NWJYd1YxUU1kWmwtakZEWlZ4LTVIOFp1eTl2ZXB0UDk1NnVwVWQ4Ynd0bnAzM3g3R0NVVE9sUzlONENqalF1bUphcVNXanl1ZE10eWpxNmZoeU9G?oc=5)
-
-2026-08-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00NWJYd1YxUU1kWmwtakZEWlZ4LTVIOFp1eTl2ZXB0UDk1NnVwVWQ4Ynd0bnAzM3g3R0NVVE9sUzlONENqalF1bUphcVNXanl1ZE10eWpxNmZoeU9G?oc=5)
 
 ---
 

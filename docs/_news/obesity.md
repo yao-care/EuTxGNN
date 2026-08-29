@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,19 +38,19 @@ permalink: /news/obesity/
 
 ## 相關新聞（8 則）
 
+### [Dieta Keto o dieta mediterránea, ¿quién gana? Tú hígado lo tiene claro](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0tNZ2dtVlNOX241QzNxWTZYRkpYTEJEUDd4T1VNZzIyS3NOeUpRR3AwM3ZRWTdsZENXOEFWZVkwb2dyd1pKQnlfSFRscy1vSkFHN016bEVQRWIwMkVFcGlaVGVOeEg4SjlMZ0xhOWQ1blBQQWgtRVJXRWloRUpiTGE4V1F6MEpRMTBoRzlnZUVyN01WQlFTV0wwMTJCczBnZGVQeGhEMF95VkZreFE?oc=5)
+
+2026-08-28
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0tNZ2dtVlNOX241QzNxWTZYRkpYTEJEUDd4T1VNZzIyS3NOeUpRR3AwM3ZRWTdsZENXOEFWZVkwb2dyd1pKQnlfSFRscy1vSkFHN016bEVQRWIwMkVFcGlaVGVOeEg4SjlMZ0xhOWQ1blBQQWgtRVJXRWloRUpiTGE4V1F6MEpRMTBoRzlnZUVyN01WQlFTV0wwMTJCczBnZGVQeGhEMF95VkZreFE?oc=5)
+
+---
+
 ### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
 
 2026-08-28
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
----
-
-### [La dieta keto gana terreno frente a la mediterránea en personas con obesidad - El Confidencial](https://news.google.com/rss/articles/CBMipgFBVV95cUxORGxHUXV3STZ1Q0VoODQ5RFVVSDgySTVtX0tLczdxZERhb0xTU0VvQUdWdWhwbk81NG5pN05veXNaSlI0U1dzZExla3hZY01jdDBjS2FVY0NZN0ppbWVlRGhPTDlxbTVYVXo0bUNrZ011T0NQMS1UeGlFYTlJWUMzWXh4SnBfUTh3UmVBOE5vdlF3N1RQVENZdVB4NjJwWDB4UGd1OVhB?oc=5)
-
-2026-08-28
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMipgFBVV95cUxORGxHUXV3STZ1Q0VoODQ5RFVVSDgySTVtX0tLczdxZERhb0xTU0VvQUdWdWhwbk81NG5pN05veXNaSlI0U1dzZExla3hZY01jdDBjS2FVY0NZN0ppbWVlRGhPTDlxbTVYVXo0bUNrZ011T0NQMS1UeGlFYTlJWUMzWXh4SnBfUTh3UmVBOE5vdlF3N1RQVENZdVB4NjJwWDB4UGd1OVhB?oc=5)
 
 ---
 

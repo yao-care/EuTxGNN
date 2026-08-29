@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
+### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+
+2026-08-28 <span class="news-indication-tag">artrite</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+
+---
+
 ### [Laut Studie: Arthritis-Medikament kann Haare wieder wachsen lassen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
 
 2026-08-28 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
@@ -78,19 +86,19 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
-### [Research into protein interactions sheds new light on causes of autism - Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart failure</span>
-
-來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
-
----
-
 ### [Mammograms could be used to identify heart disease in women - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2RfMWVCemU4dENkU215b20xSTltSE5WdVBVeWg1WjBqX29FdEdLSlVhdVdEWWYxa2lQOUh5ckpoaWlnd3g1VlltaDVOY2FwSFhjcVdBdFQxdXpta01ENUt1S3pfUElLZWlxNWw0d2ZBNkN3MEhLbVhiVk0tcEhPb1N1LXoyTVl6NGdBcjJXMGQ3Rzc2?oc=5)
 
 2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2RfMWVCemU4dENkU215b20xSTltSE5WdVBVeWg1WjBqX29FdEdLSlVhdVdEWWYxa2lQOUh5ckpoaWlnd3g1VlltaDVOY2FwSFhjcVdBdFQxdXpta01ENUt1S3pfUElLZWlxNWw0d2ZBNkN3MEhLbVhiVk0tcEhPb1N1LXoyTVl6NGdBcjJXMGQ3Rzc2?oc=5)
+
+---
+
+### [Se describe la primera infección bacteriana de origen cutáneo en un dinosaurio que vivió en Morella hace unos 125 millones de años](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkptbkVZaHRuZVI4M2RybUlDOXd3MWZvQjlfOTNJOV90ZmluOGF1TFJLTVlhQkpNMUhkMVlUeTBZSkNrLTNnWWZhU0VZM2hnRG5WQ3NfekU4Sjk5ZGJ1M1hsYzRDY0d3dF9ZLS1XVVlQbGk0eDJHdU1hV1M0eWZ2ZjEzczhkcEtMR3NkZHNYRzN6aVRNVHFEY0ZLaXJpek80NkVldTBvYXhNcmtwT1VaeGc3MmE5QUtNWk5jZzJXRjdKVHZuSllKbkZiM3dET1BPY3dpbEszY0pMNDBI?oc=5)
+
+2026-08-27 <span class="news-indication-tag">artritis</span>
+
+來源：[elperiodic.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkptbkVZaHRuZVI4M2RybUlDOXd3MWZvQjlfOTNJOV90ZmluOGF1TFJLTVlhQkpNMUhkMVlUeTBZSkNrLTNnWWZhU0VZM2hnRG5WQ3NfekU4Sjk5ZGJ1M1hsYzRDY0d3dF9ZLS1XVVlQbGk0eDJHdU1hV1M0eWZ2ZjEzczhkcEtMR3NkZHNYRzN6aVRNVHFEY0ZLaXJpek80NkVldTBvYXhNcmtwT1VaeGc3MmE5QUtNWk5jZzJXRjdKVHZuSllKbkZiM3dET1BPY3dpbEszY0pMNDBI?oc=5)
 
 ---
 
@@ -110,6 +118,14 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
+### [Could a 20-Year-Old Drug Repair Cartilage Damaged by Osteoarthritis? A Yale Study Suggests It Can](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+
+---
+
 ### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
@@ -118,7 +134,7 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
-### [Alopecia: Common Arthritis Drug Shows Promise for Hair Regrowth](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
+### [Common Rheumatoid Arthritis Drug May Support Hair Regrowth in Alopecia](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
 

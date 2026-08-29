@@ -3,7 +3,7 @@ layout: default
 title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。4 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，57 個相關藥物。
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,21 +85,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
 
 2026-08-28
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
-
----
-
-### [Research into protein interactions sheds new light on causes of autism - Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
-
-2026-08-27
-
-來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
 
 ---
 

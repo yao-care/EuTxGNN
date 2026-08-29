@@ -14,7 +14,7 @@ permalink: /news/aliskiren/
 ---
 
 <p class="key-answer" data-question="Aliskiren 有什麼相關新聞？">
-<strong>Aliskiren</strong> 目前有 <strong>48 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aliskiren</strong> 目前有 <strong>49 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/aliskiren/
 <p><a href="{{ '/drugs/aliskiren/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（48 則）
+## 相關新聞（49 則）
+
+### [Parabeni e tumori femminili, dove finiscono le prove e iniziano i sospetti](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWQzeFNjWGNpMGpPdHZrR3Y0WjlSNWUzY1lIdm9rekNMT3pHUkNiUVlYSjFMRXAxZkVLV0hyTFRWQmpDYU1zaXpMb0RNcUpQU0NqOFVZVk5HbFdWUnFBS1pZTzVxTTlCRFdyLTZ6dFNJLTMyTWNpajhzVGRCX0ZxQUpJdlV0NTFiaHpnV1lKeXZiWnhPdzVzVjJ4RHIwSzhNTlU5TFJSdDhlNkNLZC1PdlYxV3Yza2s3aTZ4ellfRnRGZWYta0t3UVBUNVV3dw?oc=5)
+
+2026-08-28 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWQzeFNjWGNpMGpPdHZrR3Y0WjlSNWUzY1lIdm9rekNMT3pHUkNiUVlYSjFMRXAxZkVLV0hyTFRWQmpDYU1zaXpMb0RNcUpQU0NqOFVZVk5HbFdWUnFBS1pZTzVxTTlCRFdyLTZ6dFNJLTMyTWNpajhzVGRCX0ZxQUpJdlV0NTFiaHpnV1lKeXZiWnhPdzVzVjJ4RHIwSzhNTlU5TFJSdDhlNkNLZC1PdlYxV3Yza2s3aTZ4ellfRnRGZWYta0t3UVBUNVV3dw?oc=5)
+
+---
+
+### [Mum diagnosed with bowel cancer after struggling to go to toilet for weeks denied surgery](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGkzSkMwdDlKVjVXLUFFQkczV1NfbVFhc0FhSHZ4d0NVMWRqeUkwZXRYdkJiQWR3YnhXanFaODF2R0QwVXBycDUxTDZzZGozQjVteW1rQjQxM3hocDA5Q2lhMVVkN3RTN1ZhNGVLdlJrSEttSFB6ZjlIZ1BRSGJHd3Y0UlJVa1R4TjhF?oc=5)
+
+2026-08-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGkzSkMwdDlKVjVXLUFFQkczV1NfbVFhc0FhSHZ4d0NVMWRqeUkwZXRYdkJiQWR3YnhXanFaODF2R0QwVXBycDUxTDZzZGozQjVteW1rQjQxM3hocDA5Q2lhMVVkN3RTN1ZhNGVLdlJrSEttSFB6ZjlIZ1BRSGJHd3Y0UlJVa1R4TjhF?oc=5)
+
+---
+
+### [Xilitolo, dolcificante di chewing gum e marmellate, sotto accusa: rischi di infarto e ictus più alti - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkFzTlMwYl9CckN4WmdLZnkxeVFVRmVWMkRZVWZFaWpMLVE2eDBCQVF3YkliU055RWNGcldEbVozZFFFR3NTR0RVNGxCakV4b0V6MnFtTklLWnM4R0ZJajlBREp2MzM5ZGpNS0JhcUdyUzVYejdTbTgwVHBtTXN5X1h1SlhoMzVyY1F0ZlQ3VE9KOVJFV1Z0Y0FGRk0yNnNIbXRqZjZXT3ppWDV3Q3ZtSzBDODZMZ1hVXzAw0gGuAUFVX3lxTE03UUhmekhDN0lDb05CMUtVSzdRbWYydHZ6LUwwLWs5Snp2Ym40VFhrSDdmVGlyT0xMQXRhSk1QN2lRNHl4bWM2cTZuMG5JM0loRTFDcndEa1RPNG9MaUFRbnVUVmN2STBNQ3V2R1d5RE1sNEFCLWVlM1RDTEZGS0kxQVRVRzM3bTRhdzMtaDItTFFlSjdNamUwMUpDX0MwY0JCY2NQV0tUaFB0ZFRoUQ?oc=5)
+
+2026-08-28 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkFzTlMwYl9CckN4WmdLZnkxeVFVRmVWMkRZVWZFaWpMLVE2eDBCQVF3YkliU055RWNGcldEbVozZFFFR3NTR0RVNGxCakV4b0V6MnFtTklLWnM4R0ZJajlBREp2MzM5ZGpNS0JhcUdyUzVYejdTbTgwVHBtTXN5X1h1SlhoMzVyY1F0ZlQ3VE9KOVJFV1Z0Y0FGRk0yNnNIbXRqZjZXT3ppWDV3Q3ZtSzBDODZMZ1hVXzAw0gGuAUFVX3lxTE03UUhmekhDN0lDb05CMUtVSzdRbWYydHZ6LUwwLWs5Snp2Ym40VFhrSDdmVGlyT0xMQXRhSk1QN2lRNHl4bWM2cTZuMG5JM0loRTFDcndEa1RPNG9MaUFRbnVUVmN2STBNQ3V2R1d5RE1sNEFCLWVlM1RDTEZGS0kxQVRVRzM3bTRhdzMtaDItTFFlSjdNamUwMUpDX0MwY0JCY2NQV0tUaFB0ZFRoUQ?oc=5)
+
+---
 
 ### [Cet édulcorant utilisé dans les chewing-gums, les dentifrice et les confitures serait lié à des AVC et des crises cardiaques](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXU3VG5VWnRWMVVmeURaQkdxcS1wZkNYdUpjZXpXV2tleHpaemktbmIzTE1laldaZDBDNTdYakRmbXpCdXpNdnVnM1hZUTlINlUtdldsVUFQQnVOX0tBSTR0Q2Y5OVgwNGRwN29oZnNYeE8yMlN2UGwzaFNoM2UxVms3VWZwYnZZR1IyM2RmSWVZWG93OWxnaDFOOEwtT3lsQktSdm5XYnlpbW5oWWZ0S0U3SDVjUdIBuwFBVV95cUxPWnRGRHBTazk3TVBMdjItZUllR2wxTmZUeXBXUHNqYVpzb0FLdElzYl9wVEJkQVhsOV9saW45dW9va1RfQl9mcldPNGs4dGdIVUxQcXdWbEN0clBzSlVhZlI4ZEJPVGxkSHpBVTZvNnc4SFI0TFI3RnladGJDTWVfUXZfaXJkOUVORjNoaEh6WEd4bVIzY3ByWkRtUEc4bXVQQmkyUnZfQmw3NDdxUWppSkM5NFJDSnd2TWlJ?oc=5)
 
@@ -70,35 +94,35 @@ permalink: /news/aliskiren/
 
 ---
 
+### [Sweetener used in chewing gum may raise heart and stroke risk - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTFxSzZkc0Rlc0xGcm9aUG9RdzFvUnRmTl9Nd29yVVBaYkRZRTZEc2s4T3JtUVNublNLRGI0MmJaQmU2Tk1sUzBfdFNuZUVsc0NLeGZ2OXVhX1I3aXBSS2VjdkxiOUNETXlHeUFEb2UtLURycGNlS28xRmpBS3p3dUNPai1MaThhUjJScUIzdDBOUXNCckJNVV9SQVB5ZzNhNHN2cDhoa0N4b0tONmc?oc=5)
+
+2026-08-28 <span class="news-indication-tag">stroke</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTFxSzZkc0Rlc0xGcm9aUG9RdzFvUnRmTl9Nd29yVVBaYkRZRTZEc2s4T3JtUVNublNLRGI0MmJaQmU2Tk1sUzBfdFNuZUVsc0NLeGZ2OXVhX1I3aXBSS2VjdkxiOUNETXlHeUFEb2UtLURycGNlS28xRmpBS3p3dUNPai1MaThhUjJScUIzdDBOUXNCckJNVV9SQVB5ZzNhNHN2cDhoa0N4b0tONmc?oc=5)
+
+---
+
+### [Wir bekommen immer früher Krebs – so senken Sie das Risiko - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0hvSGJWMFdjOGs1Mmc3UWY0S2F2Q1gyYXpud0ozNmE3LXhSLWhMbXMwWGY0d3pBSWQydDlDa1hFZ05UUHJ3bmk4UnJMLVBhS2YzdG8xTjFHTU5CR0xOb3BJWnBvZUhjNVM2Mmo4azcwN2NUelhrTG80RHcwRDQzQzVqbFZqeXlvczFYRGJGeEcwMUlRQzFSOVdBdmtEczd1?oc=5)
+
+2026-08-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0hvSGJWMFdjOGs1Mmc3UWY0S2F2Q1gyYXpud0ozNmE3LXhSLWhMbXMwWGY0d3pBSWQydDlDa1hFZ05UUHJ3bmk4UnJMLVBhS2YzdG8xTjFHTU5CR0xOb3BJWnBvZUhjNVM2Mmo4azcwN2NUelhrTG80RHcwRDQzQzVqbFZqeXlvczFYRGJGeEcwMUlRQzFSOVdBdmtEczd1?oc=5)
+
+---
+
+### [La jeune kiné raconte son combat contre le cancer dans un journal intime](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkRHZWFtR1JNUEx5cUdlNWRNT1MzT2dpVDZESy0wWUJuZkJNb0dYT1RTdjRMdFlXaUpTMGxmdEs5dWFJYW1LMU5GMm9JYlE3TlQxVmxTYnNCOTl5RjVPQldUWm9oVGswTVJJZERYdEFYemRxcUlBZHN1bngyT3puWGIwXzY3RDNxZkNiNE1RTDZacHh2WEpzUUp6TVFiRlc1T2VtaDF3RGxJSk9wVVIwdWowZU1DTGNrbUxKd053?oc=5)
+
+2026-08-28 <span class="news-indication-tag">cancer</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkRHZWFtR1JNUEx5cUdlNWRNT1MzT2dpVDZESy0wWUJuZkJNb0dYT1RTdjRMdFlXaUpTMGxmdEs5dWFJYW1LMU5GMm9JYlE3TlQxVmxTYnNCOTl5RjVPQldUWm9oVGswTVJJZERYdEFYemRxcUlBZHN1bngyT3puWGIwXzY3RDNxZkNiNE1RTDZacHh2WEpzUUp6TVFiRlc1T2VtaDF3RGxJSk9wVVIwdWowZU1DTGNrbUxKd053?oc=5)
+
+---
+
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
 
 2026-08-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
-
----
-
-### [Sweetener linked to heart attacks found in chewing gum - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVCSFNsUE04WTVpdEp2VXlha1NHV01mVnpBSzB2ZHlsTTMzQ1lzcDBWeTktVWlwOGFwVThOd3hVcTlDRmtKbGg3a3FQUFNqcU15NnN5WVh5R21uVFdDc0pBVE02TTR1ZmswOEI2Q1g4M2JZY3A0SG5wRi1oVUg2YlEzc0FEc01ETGc1NENn?oc=5)
-
-2026-08-28 <span class="news-indication-tag">stroke</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVCSFNsUE04WTVpdEp2VXlha1NHV01mVnpBSzB2ZHlsTTMzQ1lzcDBWeTktVWlwOGFwVThOd3hVcTlDRmtKbGg3a3FQUFNqcU15NnN5WVh5R21uVFdDc0pBVE02TTR1ZmswOEI2Q1g4M2JZY3A0SG5wRi1oVUg2YlEzc0FEc01ETGc1NENn?oc=5)
-
----
-
-### [Rekombinante Zoster-Impfung mit geringerem kardiovaskulärem Risiko assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEQxeXM5dlVlTUNvSk0yUWN2Q3ZvajN4RzgtbDN6SDFoVl9xNVg2MWpJOENoSzJ5a0F6U2YtYnlBdTlibWQ5WElkVm1GS1B0N2lrQmlaV2xwUzUwU05Tb1ZWV045Y0pOVWRLcGoxeVh3MGpBSXFTeUtoR1BCYmstNG1vY3FiZE9kU1RqNmhlRHdackEtTGNObkduTHk0QkdCTGRYdTNFcDI4alpUMENlVERWU280dzJlQ3l4aHJlWk9heFpEZ1pqcXN1R1pXSFhFb1FEandmUlUtMTRReGRr?oc=5)
-
-2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEQxeXM5dlVlTUNvSk0yUWN2Q3ZvajN4RzgtbDN6SDFoVl9xNVg2MWpJOENoSzJ5a0F6U2YtYnlBdTlibWQ5WElkVm1GS1B0N2lrQmlaV2xwUzUwU05Tb1ZWV045Y0pOVWRLcGoxeVh3MGpBSXFTeUtoR1BCYmstNG1vY3FiZE9kU1RqNmhlRHdackEtTGNObkduTHk0QkdCTGRYdTNFcDI4alpUMENlVERWU280dzJlQ3l4aHJlWk9heFpEZ1pqcXN1R1pXSFhFb1FEandmUlUtMTRReGRr?oc=5)
-
----
-
-### [Krebs: Das Risiko steigt bei Jüngeren – und der mögliche Grund überrascht](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjhXMVVIUnlYZXhraTVObmg0ZGdwNjFuaVJjSDlJczJuRXY4akVxQmNPUlNkNTh3UWFYQzE1ajhDdy1INGV0X1U4bVUxSU0zTG1rOVQtckh6MlN6WFVqNmI2WDVERHZUOFFKTGJHel90UU1HblN5djRWYVV1MG5MZlR5U3UwaGt0ZlpMZ0ZxYnhhTllIaUpzU3c2ZGxTS2RSRUlQU1RyV3BscGtNcWVNZTFHb3l1c0FvWW1zU1lkaXhRM19McHpfMG1OYlBDLTg?oc=5)
-
-2026-08-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[futurezone.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjhXMVVIUnlYZXhraTVObmg0ZGdwNjFuaVJjSDlJczJuRXY4akVxQmNPUlNkNTh3UWFYQzE1ajhDdy1INGV0X1U4bVUxSU0zTG1rOVQtckh6MlN6WFVqNmI2WDVERHZUOFFKTGJHel90UU1HblN5djRWYVV1MG5MZlR5U3UwaGt0ZlpMZ0ZxYnhhTllIaUpzU3c2ZGxTS2RSRUlQU1RyV3BscGtNcWVNZTFHb3l1c0FvWW1zU1lkaXhRM19McHpfMG1OYlBDLTg?oc=5)
 
 ---
 
@@ -115,6 +139,14 @@ permalink: /news/aliskiren/
 2026-08-28 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQV9ocHRLOUpmSEtsNFJaYnNSNHNjdUdKNndOV3VJSGJTYXMxaXJKSG5pZi1kRi13YlJnSGtyanhmSkllRnZDSW9MY1VaOWtrYVF3N0EybTNXTVpqWnhtNmhqV21QMWFWSm5NZW01Rmoza2pBVmZrVklyOGZmRlFWVUp0WGlfeWFuTFNKc3BTakFUbHM?oc=5)
+
+---
+
+### [Süßstoff Xylitol womöglich mit kardiovaskulären Risiken assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkpncndHRExOQWgyUGNZeENmMmNmekk4M2dfVlBNRXRZeHl2Q3NmYVE3cWUxUHg0T2FmX1RzNWRaTmN2SHRoY2JrTC0xU056WGM5NXBuWTUydjh1a0tTblotMVBMTHFJUGx0Y1NPX1V1dlcxNDg3czlIbWk4dGNRSURrbW9MY0xxWnpFNjVYRG81YXFHWVZ4LXlPMkE5M25wQWsxZXVFcWdLaGdtZVhqTFRkd09vblFWLXAzR3lvYWVoMDgyN01QWW1JYkN0V2F4eFE?oc=5)
+
+2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkpncndHRExOQWgyUGNZeENmMmNmekk4M2dfVlBNRXRZeHl2Q3NmYVE3cWUxUHg0T2FmX1RzNWRaTmN2SHRoY2JrTC0xU056WGM5NXBuWTUydjh1a0tTblotMVBMTHFJUGx0Y1NPX1V1dlcxNDg3czlIbWk4dGNRSURrbW9MY0xxWnpFNjVYRG81YXFHWVZ4LXlPMkE5M25wQWsxZXVFcWdLaGdtZVhqTFRkd09vblFWLXAzR3lvYWVoMDgyN01QWW1JYkN0V2F4eFE?oc=5)
 
 ---
 
@@ -166,19 +198,19 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Vitamin-B12-Mangel beheben: Sind Spritzen besser als Tabletten? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXVzVWRXZlhBVThTVm5Oa2t5VlhuaE1ZeDJnS3pTRXdQeml6WlpIc25BRWs5LTFsVWhRMEVtT1MwNWJaa0FSQ2lENHEtMDJzMG9GVUNIOGFzNGQ4ZzE4Z2JxTC1nN1IyZWp0MWthWjM5bTdiMGNKQ1MxRlFlTkluQ1RPQW1kaE50bkVwMWwzQW5GVW9xeThUR2huVWhTMzdtNFVROVp1Qzdpd0JWeHBIbzdIOUl4X19CZk9qdDU2QQ?oc=5)
-
-2026-08-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXVzVWRXZlhBVThTVm5Oa2t5VlhuaE1ZeDJnS3pTRXdQeml6WlpIc25BRWs5LTFsVWhRMEVtT1MwNWJaa0FSQ2lENHEtMDJzMG9GVUNIOGFzNGQ4ZzE4Z2JxTC1nN1IyZWp0MWthWjM5bTdiMGNKQ1MxRlFlTkluQ1RPQW1kaE50bkVwMWwzQW5GVW9xeThUR2huVWhTMzdtNFVROVp1Qzdpd0JWeHBIbzdIOUl4X19CZk9qdDU2QQ?oc=5)
-
----
-
 ### [Blackburn mum told she had piles eight times before devastating cancer diagnosis - Lancashire Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxONVJHV3dZQmMtQU1Ca3owR1hvTVQ1ZW4tLUcza2hzM3NEWXNnYU1YcmFSYkVIX05waGlGZnZ5cHJMYWhuZ2luaEtTdDRWdEFwcnpHTGlXVmZsSHFHNUlpTkVkVzBvci1wQlpfRGw2bG5FbU5DekE5UnNLbXlVclUwa2ltbnFsWVlsWmlfS0E5Sk5COHhpb0Z6TmozU0lTTlk?oc=5)
 
 2026-08-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Lancashire Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxONVJHV3dZQmMtQU1Ca3owR1hvTVQ1ZW4tLUcza2hzM3NEWXNnYU1YcmFSYkVIX05waGlGZnZ5cHJMYWhuZ2luaEtTdDRWdEFwcnpHTGlXVmZsSHFHNUlpTkVkVzBvci1wQlpfRGw2bG5FbU5DekE5UnNLbXlVclUwa2ltbnFsWVlsWmlfS0E5Sk5COHhpb0Z6TmozU0lTTlk?oc=5)
+
+---
+
+### [Pressione alta, non dimenticate le terapie: saltarle aumenta il rischio di infarto e ictus - la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnN5RVdNRlZEdm9TNDM5NEI0MTd3dmdPSjhfQV9vNFVybFlTTDIza19mT2pubmdLZEU0ZGFLVm5DaU83bG9pRFltWmN0VDAxb2k2eUxLME1PRllqX0UyaVVCTDY5Q3FKYURtQUVmU0NCNGoybXJldTI1WG5lRkxSS0RwRXVsb3pZQ1ZDTFlwclZSMS15QkgyLWxwMW9yb3ZUYzlQVnFZYmdFdnh5WUhPV0hXdEN2VHBlNEs1UkNXblRnMVg1d2lxQzNxeXpwR0FleExQdjBScDQ3U2lQSXBrQzN4MkJhU1VzSm1CWGNqMVl6VVhrUUd3QTlhNGpxQdIBgwJBVV95cUxPSUZ6Y0hCd19FRGtFdS0xdnQySzRXYXdLWXdPd09fWTk1RWJkZGZQdXNlOXFhUlpMZmJlRzh2RzVaOWY4bnVVdWdfZ3ZUUnVUaEs5WUhXMmtJRHBpZVdqT2ZkYUZ1d09LZ09Uak0ycVFrSjNCMEwwR1laXzNhR01ZSWFUTVZKcUtDQy1ha3VFSXlOUTk4a01oYjV4RncwRkw0Nk9HVnJtcTMxckFCT1FzX0czaDVWaHhEeVpqT2xoM1Y2SmVKeUJ5YmEtMHY2RENHaUdPb1YyNXIxVXp0TjkwbVB4eC1GX0hrV053cTAxRTNua0JVQVFOLUZWX0U1UGJ6YkE4?oc=5)
+
+2026-08-28 <span class="news-indication-tag">ictus</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnN5RVdNRlZEdm9TNDM5NEI0MTd3dmdPSjhfQV9vNFVybFlTTDIza19mT2pubmdLZEU0ZGFLVm5DaU83bG9pRFltWmN0VDAxb2k2eUxLME1PRllqX0UyaVVCTDY5Q3FKYURtQUVmU0NCNGoybXJldTI1WG5lRkxSS0RwRXVsb3pZQ1ZDTFlwclZSMS15QkgyLWxwMW9yb3ZUYzlQVnFZYmdFdnh5WUhPV0hXdEN2VHBlNEs1UkNXblRnMVg1d2lxQzNxeXpwR0FleExQdjBScDQ3U2lQSXBrQzN4MkJhU1VzSm1CWGNqMVl6VVhrUUd3QTlhNGpxQdIBgwJBVV95cUxPSUZ6Y0hCd19FRGtFdS0xdnQySzRXYXdLWXdPd09fWTk1RWJkZGZQdXNlOXFhUlpMZmJlRzh2RzVaOWY4bnVVdWdfZ3ZUUnVUaEs5WUhXMmtJRHBpZVdqT2ZkYUZ1d09LZ09Uak0ycVFrSjNCMEwwR1laXzNhR01ZSWFUTVZKcUtDQy1ha3VFSXlOUTk4a01oYjV4RncwRkw0Nk9HVnJtcTMxckFCT1FzX0czaDVWaHhEeVpqT2xoM1Y2SmVKeUJ5YmEtMHY2RENHaUdPb1YyNXIxVXp0TjkwbVB4eC1GX0hrV053cTAxRTNua0JVQVFOLUZWX0U1UGJ6YkE4?oc=5)
 
 ---
 
@@ -222,14 +254,6 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Research into protein interactions sheds new light on causes of autism - Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart failure</span>
-
-來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
-
----
-
 ### [Traitement du cancer : spécialisée dans l’immunothérapie, la start-up Fosca en plein développement en Dordogne - Sud Ouest](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWRiekl1dE5FeWlqS1Uzb1JFZ2k0UkZpY1VHSW5vd2U0QWZzVFlOUVJPYXVIbWFzakhpX0dKOF80dzNNR3IzYUJKeTJfNDF3ZkpzQlE2dWdaczg0YVk3YTJiRnQzd3VxR25YMEdIcWJZYzNWOVhxeUJXMjZrbWljc3NWZ01zSHR4SGlGeEZTLVMtbXBjRm1zNlJ2NmhtbGk5OGFhZWxxRGVPcXd5cW5jOXdtWG44UE12a2lDdi1HRDE4UHZhUC01c0xzZDY0M2VaOWEyNVhhejdpRmZaMXRNVWRHWU4?oc=5)
 
 2026-08-27 <span class="news-indication-tag">cancer</span>
@@ -251,14 +275,6 @@ permalink: /news/aliskiren/
 2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HcnNlU3BRU2hPRGVLaTJvYTdNSEVPRGZrTXpEdkpFZFdiU3lSTUQ0YW56RHNVQUdQbzljYl9CcUk4WnpiREN0dkQyNkdDSmFzWVNsMjVYQkszVG1X?oc=5)
-
----
-
-### [Première en Israël : un bassin imprimé en 3D implanté sur un adolescent atteint d'un cancer des os](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQjdCektBU1JNa3pkYUpjQkNabnBfTWJNdjB5Qk5QOGZFZVNhUFI5UkVyeGRjenFzODViZW1BYnZaSnlvTjFjcm5jckRUUHBVbDQxSUVrWWtBT0x6YlZiSlYyUU1ISDdEa2xSYkpEVXBOcFZiVFRYWDdXMXE3b1dZb0JUcEZCMzNfVF9pR0FyQzVoS0d0T3dVTjkyUGRTOTFPamNkQUpNQWlySEJHcVhhaDdzcnZFT2V2dUhEVGE4RVZYVlFQdXo3MDhLWVBQZzJ3bkd0eTl3cjFlRlJP?oc=5)
-
-2026-08-27 <span class="news-indication-tag">cancer</span>
-
-來源：[i24NEWS](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQjdCektBU1JNa3pkYUpjQkNabnBfTWJNdjB5Qk5QOGZFZVNhUFI5UkVyeGRjenFzODViZW1BYnZaSnlvTjFjcm5jckRUUHBVbDQxSUVrWWtBT0x6YlZiSlYyUU1ISDdEa2xSYkpEVXBOcFZiVFRYWDdXMXE3b1dZb0JUcEZCMzNfVF9pR0FyQzVoS0d0T3dVTjkyUGRTOTFPamNkQUpNQWlySEJHcVhhaDdzcnZFT2V2dUhEVGE4RVZYVlFQdXo3MDhLWVBQZzJ3bkd0eTl3cjFlRlJP?oc=5)
 
 ---
 
@@ -302,11 +318,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Tumore del pancreas metastatico, Ok Usa al farmaco che raddoppia la sopravvivenza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxObEJXTFlBRjVrRFdxek82bVBWTUdvTDdSMjdWZEQ2TURzc2dkMmwzVzJtWHNQV2ZQdWVHLVFCckp6RWJzaDIyVWhwaWYtMklRYzZtNURiVU5YSzN2RWcwMzNfd3JOdndMUDRHRDJIUGhzOUppWGE4ZEhiUW5wR2pRa1dKVDVxZHRsN3NsSTRoMjVialRMZ0JFRTd3Uk45QkhjTlVQVEZuekQ2bWQ5NThv?oc=5)
+### [La vacuna frente al herpes zóster muestra un menor riesgo de infarto e ictus](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRm84YkhJV3E2bE9SYWd2MHY1ZDZfVy13TUdRdzZ1QzN4ZnoyVjA4U1ViR3NieUFFUjBYUjZNdnZqQjFsOXJmclBKc1Rwb05KalVlV2pCM3pyZkxySkVqc1ZheVhpUmp0anExQ2F3bWEtYkhqejlWQXlSeDJIaHJ1VzRERVp1NjZsMGNBazhLeDM0cUJVT2ZYYUtpY0tnbmt5cUFGNGtraXF6Y1FjZmFzTE5vSTFHYzJSX1pMaEg2V2ZDLTExVFE?oc=5)
 
-2026-08-27 <span class="news-indication-tag">tumor</span>
+2026-08-27 <span class="news-indication-tag">ictus</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxObEJXTFlBRjVrRFdxek82bVBWTUdvTDdSMjdWZEQ2TURzc2dkMmwzVzJtWHNQV2ZQdWVHLVFCckp6RWJzaDIyVWhwaWYtMklRYzZtNURiVU5YSzN2RWcwMzNfd3JOdndMUDRHRDJIUGhzOUppWGE4ZEhiUW5wR2pRa1dKVDVxZHRsN3NsSTRoMjVialRMZ0JFRTd3Uk45QkhjTlVQVEZuekQ2bWQ5NThv?oc=5)
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRm84YkhJV3E2bE9SYWd2MHY1ZDZfVy13TUdRdzZ1QzN4ZnoyVjA4U1ViR3NieUFFUjBYUjZNdnZqQjFsOXJmclBKc1Rwb05KalVlV2pCM3pyZkxySkVqc1ZheVhpUmp0anExQ2F3bWEtYkhqejlWQXlSeDJIaHJ1VzRERVp1NjZsMGNBazhLeDM0cUJVT2ZYYUtpY0tnbmt5cUFGNGtraXF6Y1FjZmFzTE5vSTFHYzJSX1pMaEg2V2ZDLTExVFE?oc=5)
 
 ---
 
@@ -318,19 +334,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [La vacuna recombinante frente al herpes zóster se asocia con un menor riesgo cardiovascular a siete años - Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3NlYlg3b2hkUWJHMnRCRnRBbUYzNFdJaGd3YmRta1ZEckduU0dHYVZJWUVFMkk0emM3VF9BeU9xMWFKZ2FXMl9iR0M4NWhIcmxDVzZGUEU0dndYcDd5TEVHQ3dzZXdvM0dObEFLVkQwNGkyb2U4bFZ1Z0RJX21oSXBWNEkyUFJNMTZlcXhjLW15aWJXdEhaQWJfMmdFM0NzclVNOGpKeXVRTGdZb2Jaa0Vn?oc=5)
+### [Negli Stati Uniti è stato approvato un trattamento per la forma più comune di cancro al pancreas che allunga la vita dei pazienti - Il Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWFocmdTZWstSjEtSl9VNnlXbFJtaEl1M2JSNmlXS0E2Zkk1SS1LQXkwYUw3Vk9jQnJ1NVJJVENUdlZVOGhpbjdvejNaX3dJOEpDZm0wclZhY0lsRXVwM29GbXJUM09TZmJyeEJiMFlndDItMjhYWXRIX1JXbjJ2ZktpZTIwekdhOV93Z19nVWJoa0RZMTdoNVBqRQ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">ictus</span>
+2026-08-27 <span class="news-indication-tag">tumor</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3NlYlg3b2hkUWJHMnRCRnRBbUYzNFdJaGd3YmRta1ZEckduU0dHYVZJWUVFMkk0emM3VF9BeU9xMWFKZ2FXMl9iR0M4NWhIcmxDVzZGUEU0dndYcDd5TEVHQ3dzZXdvM0dObEFLVkQwNGkyb2U4bFZ1Z0RJX21oSXBWNEkyUFJNMTZlcXhjLW15aWJXdEhaQWJfMmdFM0NzclVNOGpKeXVRTGdZb2Jaa0Vn?oc=5)
-
----
-
-### [Un eccesso del dolcificante xilitolo nel sangue associato a rischio di infarto o ictus](https://news.google.com/rss/articles/CBMirgJBVV95cUxNeGMwUHdKTjBFdFFzS1hvU3VBV2ljSWFyck1NTXptam5URWc3LUMtS0FlQmk2TTF6dTEyMXlmcWhReWV4ZFdhajJTMDZBRlJYTGxkODBtdDVlVjBtMGhrQ1g4bDNTajlLNFRmWXd1TnhWWGJISXhueS1HT0ljR2NOLVNCcXdPaENTNndDbm50OV9DY3EyUDV5d0R6VGthYl9TUFlXOTg1UXhQTk5tRTdySG1LaFNYSXhDUVFQdWpzci03WHNIczBKYUYyTVR2dl85M0lvLXVvZ3NySEx1cjY0WnBOcnlCSi1aTGVubEpZZ2N4XzFVS211MFo2WlVQRThzdm1QbEUyNTJRcld1UEtVSWJRY0l1c3p6b2R0eXRHenN6YWc3R1hMYmJidERsQdIBswJBVV95cUxObXJsLTlHOWpRQkpDTWprVE9DeDdlblNlanAyb3pEZi1XMmRVeE54RldRbFp2aEtUaDNTT2JoLXBxU0Y5Z2REZzBTT1lrcmdGcVVBWWdDYWpseWtiYU9nQjRRdGFTRllycEhvVGhyb1FNcGpDM3Jhcm5HV3lLWVVkX04xZmRLT2RnZEVJN0RZQXduRnVEUFlCUmdYbzVUczI4X2ZKdFZvQTdjUUdjMFppUDAxamtscVd1T1gyMDNGSjU2TjU5VnhDZG80TWtBQ2Q2U01JM1BWMXdxcXczdU9hZFdySkEzUVV5VElLNGFtZlZoN2p4bTdqM25Mc1pPbm9zYzl6cTVhTnU3QlZkbUhZdW5SSkFmUUY3bzZ2dGZyTFI5VzlWSHVjdzJfczRVcXg5d2dF?oc=5)
-
-2026-08-27 <span class="news-indication-tag">ictus</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMirgJBVV95cUxNeGMwUHdKTjBFdFFzS1hvU3VBV2ljSWFyck1NTXptam5URWc3LUMtS0FlQmk2TTF6dTEyMXlmcWhReWV4ZFdhajJTMDZBRlJYTGxkODBtdDVlVjBtMGhrQ1g4bDNTajlLNFRmWXd1TnhWWGJISXhueS1HT0ljR2NOLVNCcXdPaENTNndDbm50OV9DY3EyUDV5d0R6VGthYl9TUFlXOTg1UXhQTk5tRTdySG1LaFNYSXhDUVFQdWpzci03WHNIczBKYUYyTVR2dl85M0lvLXVvZ3NySEx1cjY0WnBOcnlCSi1aTGVubEpZZ2N4XzFVS211MFo2WlVQRThzdm1QbEUyNTJRcld1UEtVSWJRY0l1c3p6b2R0eXRHenN6YWc3R1hMYmJidERsQdIBswJBVV95cUxObXJsLTlHOWpRQkpDTWprVE9DeDdlblNlanAyb3pEZi1XMmRVeE54RldRbFp2aEtUaDNTT2JoLXBxU0Y5Z2REZzBTT1lrcmdGcVVBWWdDYWpseWtiYU9nQjRRdGFTRllycEhvVGhyb1FNcGpDM3Jhcm5HV3lLWVVkX04xZmRLT2RnZEVJN0RZQXduRnVEUFlCUmdYbzVUczI4X2ZKdFZvQTdjUUdjMFppUDAxamtscVd1T1gyMDNGSjU2TjU5VnhDZG80TWtBQ2Q2U01JM1BWMXdxcXczdU9hZFdySkEzUVV5VElLNGFtZlZoN2p4bTdqM25Mc1pPbm9zYzl6cTVhTnU3QlZkbUhZdW5SSkFmUUY3bzZ2dGZyTFI5VzlWSHVjdzJfczRVcXg5d2dF?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWFocmdTZWstSjEtSl9VNnlXbFJtaEl1M2JSNmlXS0E2Zkk1SS1LQXkwYUw3Vk9jQnJ1NVJJVENUdlZVOGhpbjdvejNaX3dJOEpDZm0wclZhY0lsRXVwM29GbXJUM09TZmJyeEJiMFlndDItMjhYWXRIX1JXbjJ2ZktpZTIwekdhOV93Z19nVWJoa0RZMTdoNVBqRQ?oc=5)
 
 ---
 
@@ -390,14 +398,6 @@ permalink: /news/aliskiren/
 
 ---
 
-### [New mRNA immunotherapy eliminates pancreatic tumors in mice - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3o0S2MwV2M0aG1aWlRQdWpLQW1xZ0hjUXdkNk5fYnU3dGh1R3pocFpqQU9zdFdqd2dwdEs4eDZDZzhDR2VIQk9PT1lrUVRIbFE4TjRkNTNFUkFVWWxGSXJLbmY2aW56cU5Lak9kd3U5UEh2bHNmLVpONzgwT3ZWQk1JdFBuX3o0TWRUZXBR?oc=5)
-
-2026-08-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3o0S2MwV2M0aG1aWlRQdWpLQW1xZ0hjUXdkNk5fYnU3dGh1R3pocFpqQU9zdFdqd2dwdEs4eDZDZzhDR2VIQk9PT1lrUVRIbFE4TjRkNTNFUkFVWWxGSXJLbmY2aW56cU5Lak9kd3U5UEh2bHNmLVpONzgwT3ZWQk1JdFBuX3o0TWRUZXBR?oc=5)
-
----
-
 ### ['I was diagnosed with skin cancer aged 26 - unethical sunscreen tax must end now'](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaThNdDVHcmNsdVl3NEhPSVBHNHlqcnBSa0JxWDJYM2otbG5BZ0Jsd2Z4Ty1JOGNTZk50bTd3VkUzUWtaanhfTVE2MXdnT3lDb1VvdHlfNFFVTGJ0WjlJRVV1aV9QNExRSUxhRDBKdzUtanFEa1dXcm1YcnM4LWpfNg?oc=5)
 
 2026-08-25 <span class="news-indication-tag">cancer</span>
@@ -414,11 +414,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+來源：[Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 ---
 
@@ -430,11 +430,19 @@ permalink: /news/aliskiren/
 
 ---
 
-### ['Lights were flickering, diagnosis was stab in heart and I'm facing death' - Daily Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTElkOU00YVNrTGtoS0FrV2pPck9pLXdRaExScmpqMFRHTVcyMnpsSnotUDE4VzN3TEdNQmpZMEY5NGc5MExBX2NYWEVOeDRmRERXNjJ4SmZ4blV1Uk5nRG9zQzhrTUtqd1Q5LURuN3NpYVBoX3BnaklOWkpSX3RkYk8xM0VaeE85Y2130gGQAUFVX3lxTE9VWVVHeENYblZGNkhUYUMtWGl3QkhibGt6djRaQjVSRTdrbWt4R3lRWnlPcXVZZC1oM1VQWWZ5b2FCLVFzei1FRDBORXliMUJNYTZtUXFKTkZPbDJ1ZXJrQ2hmUWFiTVpqb2VhYTdNWjhVa1ZMdE44RGFwdXU2enM3eXF1U2piNi1oVW00N1dqSg?oc=5)
+### [Cancer du pancréas : quel est ce test sanguin pour détecter la maladie dès ses débuts ? - Pleine Vie](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTlJGMno1alBHTjRXc3dOTnA1Rk9hdTBpQkc4dVBnUWdwbFNMb1VuMnY1NzZNZjJ1ankyZzF1dmdzc3Z4ekJ2WTRsV25veXRKUU92Q2UtUlFDLUZHQ1JnT0VuQmZZdGZKTnMwaTYyaHdEZEQzT2NsZjRzY1FBMFB3anpLX2U5cnRuTW9ZcV9sa0dTRjRoVzJXUlNRNms4NDBhdVNtTG92S21SSVkxbU95b2hyOGRSNUNUWW56RUN3amlmWFhE?oc=5)
+
+2026-08-24 <span class="news-indication-tag">cancer</span>
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTlJGMno1alBHTjRXc3dOTnA1Rk9hdTBpQkc4dVBnUWdwbFNMb1VuMnY1NzZNZjJ1ankyZzF1dmdzc3Z4ekJ2WTRsV25veXRKUU92Q2UtUlFDLUZHQ1JnT0VuQmZZdGZKTnMwaTYyaHdEZEQzT2NsZjRzY1FBMFB3anpLX2U5cnRuTW9ZcV9sa0dTRjRoVzJXUlNRNms4NDBhdVNtTG92S21SSVkxbU95b2hyOGRSNUNUWW56RUN3amlmWFhE?oc=5)
+
+---
+
+### ['Lights were flickering, diagnosis was stab in heart and I'm facing death'](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTElkOU00YVNrTGtoS0FrV2pPck9pLXdRaExScmpqMFRHTVcyMnpsSnotUDE4VzN3TEdNQmpZMEY5NGc5MExBX2NYWEVOeDRmRERXNjJ4SmZ4blV1Uk5nRG9zQzhrTUtqd1Q5LURuN3NpYVBoX3BnaklOWkpSX3RkYk8xM0VaeE85Y2130gGQAUFVX3lxTE9VWVVHeENYblZGNkhUYUMtWGl3QkhibGt6djRaQjVSRTdrbWt4R3lRWnlPcXVZZC1oM1VQWWZ5b2FCLVFzei1FRDBORXliMUJNYTZtUXFKTkZPbDJ1ZXJrQ2hmUWFiTVpqb2VhYTdNWjhVa1ZMdE44RGFwdXU2enM3eXF1U2piNi1oVW00N1dqSg?oc=5)
 
 2026-08-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTElkOU00YVNrTGtoS0FrV2pPck9pLXdRaExScmpqMFRHTVcyMnpsSnotUDE4VzN3TEdNQmpZMEY5NGc5MExBX2NYWEVOeDRmRERXNjJ4SmZ4blV1Uk5nRG9zQzhrTUtqd1Q5LURuN3NpYVBoX3BnaklOWkpSX3RkYk8xM0VaeE85Y2130gGQAUFVX3lxTE9VWVVHeENYblZGNkhUYUMtWGl3QkhibGt6djRaQjVSRTdrbWt4R3lRWnlPcXVZZC1oM1VQWWZ5b2FCLVFzei1FRDBORXliMUJNYTZtUXFKTkZPbDJ1ZXJrQ2hmUWFiTVpqb2VhYTdNWjhVa1ZMdE44RGFwdXU2enM3eXF1U2piNi1oVW00N1dqSg?oc=5)
+來源：[Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTElkOU00YVNrTGtoS0FrV2pPck9pLXdRaExScmpqMFRHTVcyMnpsSnotUDE4VzN3TEdNQmpZMEY5NGc5MExBX2NYWEVOeDRmRERXNjJ4SmZ4blV1Uk5nRG9zQzhrTUtqd1Q5LURuN3NpYVBoX3BnaklOWkpSX3RkYk8xM0VaeE85Y2130gGQAUFVX3lxTE9VWVVHeENYblZGNkhUYUMtWGl3QkhibGt6djRaQjVSRTdrbWt4R3lRWnlPcXVZZC1oM1VQWWZ5b2FCLVFzei1FRDBORXliMUJNYTZtUXFKTkZPbDJ1ZXJrQ2hmUWFiTVpqb2VhYTdNWjhVa1ZMdE44RGFwdXU2enM3eXF1U2piNi1oVW00N1dqSg?oc=5)
 
 ---
 

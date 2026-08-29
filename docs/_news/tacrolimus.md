@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
+
+### [Psoriasi, il DNA indica 50 possibili bersagli terapeutici](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
+
+2026-08-29 <span class="news-indication-tag">soriasi</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
+
+---
 
 ### [EsmeDerm: Projekt für Menschen mit Psoriasis und Neurodermitis sucht Teilnehmer](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYmUwSG80N2RoY0dPaFFKamtPSTZiVlQtbmI4SkN4SkpkenlNdFFCMzRobklsRDdmU1hITE9sbHpFWjFRTENvV0lQRmNQc0tuUTMzQTloZW15eTNuZlIwMmZiaG55N1p6ZDZDeFpWWXU0YUZON0JLRW5sYWNFT21kMkRZWDhjN3dURlB5M1ktOWVMYTFBVEs5SHJBT1hzUWdZRWhRSXFoWTRLZHhRNi02WlhRNC1tb015TERISERwNHpOa1JrdzBmb2F0RlA0WDVvMDRwWQ?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/tacrolimus/
 
 ---
 
-### [Psoriasi, il DNA indica 50 possibili bersagli terapeutici](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
+### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
 
-2026-08-28 <span class="news-indication-tag">soriasi</span>
+2026-08-28 <span class="news-indication-tag">artrite</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
 
 ---
 
@@ -86,11 +94,27 @@ permalink: /news/tacrolimus/
 
 ---
 
+### [Se describe la primera infección bacteriana de origen cutáneo en un dinosaurio que vivió en Morella hace unos 125 millones de años](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkptbkVZaHRuZVI4M2RybUlDOXd3MWZvQjlfOTNJOV90ZmluOGF1TFJLTVlhQkpNMUhkMVlUeTBZSkNrLTNnWWZhU0VZM2hnRG5WQ3NfekU4Sjk5ZGJ1M1hsYzRDY0d3dF9ZLS1XVVlQbGk0eDJHdU1hV1M0eWZ2ZjEzczhkcEtMR3NkZHNYRzN6aVRNVHFEY0ZLaXJpek80NkVldTBvYXhNcmtwT1VaeGc3MmE5QUtNWk5jZzJXRjdKVHZuSllKbkZiM3dET1BPY3dpbEszY0pMNDBI?oc=5)
+
+2026-08-27 <span class="news-indication-tag">artritis</span>
+
+來源：[elperiodic.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkptbkVZaHRuZVI4M2RybUlDOXd3MWZvQjlfOTNJOV90ZmluOGF1TFJLTVlhQkpNMUhkMVlUeTBZSkNrLTNnWWZhU0VZM2hnRG5WQ3NfekU4Sjk5ZGJ1M1hsYzRDY0d3dF9ZLS1XVVlQbGk0eDJHdU1hV1M0eWZ2ZjEzczhkcEtMR3NkZHNYRzN6aVRNVHFEY0ZLaXJpek80NkVldTBvYXhNcmtwT1VaeGc3MmE5QUtNWk5jZzJXRjdKVHZuSllKbkZiM3dET1BPY3dpbEszY0pMNDBI?oc=5)
+
+---
+
 ### [Zelltherapie bei schwerer rheumatoider Arthritis erfolgreich - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
 
 2026-08-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
+
+---
+
+### [Could a 20-Year-Old Drug Repair Cartilage Damaged by Osteoarthritis? A Yale Study Suggests It Can](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
 
 ---
 
@@ -102,7 +126,7 @@ permalink: /news/tacrolimus/
 
 ---
 
-### [Alopecia: Common Arthritis Drug Shows Promise for Hair Regrowth](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
+### [Common Rheumatoid Arthritis Drug May Support Hair Regrowth in Alopecia](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
 

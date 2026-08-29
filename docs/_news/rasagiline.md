@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Alzheimer : ces ondes cérébrales pourraient trahir la maladie bien avant les premiers symptômes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVQZVFSMHVPZ1Z1aldBRTZOMkNQS21yTnRQVHNYU05rQl9jTkdZUzU2ZGk5ZzBNUHFpdDhXM3FmeWlVN1RQYzRnV2FzRkZJQzhRX2UtbzExTjJ6UTFiLVM5ZmpiakpoMlc3TGdtejFGNGw3M183a0RReHRmMExaRXJZSTNWWHhoZERaQk9NcVZET0VSOEV0a3AyWU4ybVhURzlxZTFVNVZ1SGpDTjhpLWdkaXAzenBmRHIyTUNMZGJ1bGdIR1pXYWU3akFJZ003ZUV0MzVjaExJRUpPREtmMk1jdEdVYTNJYzNHNkpzN05QLXM?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/rasagiline/
 2026-08-26 <span class="news-indication-tag">dementia</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcERRYjNYSXctZUVPVGdjRGZFZ2RjdWJOemphUDZIVFlreWRrUUV3cWVZRTE3bmROekpCUU9jSER0dFFiVzFsV2E0WEJJS2JiSmJRNFNVUW0yWHFVcFNTR0NoZVlwSmNvbnREMmswaVNjaUhBYVpBMDQ2eFdMb3g3VUxsSEhlRnRsTS1TNXM0WXVWQmdPei0zdnpEY215MGF3SHd2X2xYTENDT1dhR3RlVGg3LXhuNEo5TjQw?oc=5)
-
----
-
-### [Millions of Brits have NO idea their daily habits risk dementia - 14 key ways - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
-
-2026-08-25 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ItdGNiWlpxNHc2S1hndDRjV0xudDFwcEtQYUY3bDBMSzBuRW1UaDdLUDJtWlNkYVRtbDFLa1JmaTFybFV6VDg0NHNFTVR4N190a1JJd0xrcU8wQS1vNmFFOWJpV3ZvQjd1cU8xNjJ5T1lWQTR3RUtBaHNNRnhxNS1oaVRaeXFSaGc?oc=5)
 
 ---
 

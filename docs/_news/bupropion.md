@@ -54,19 +54,19 @@ permalink: /news/bupropion/
 
 ## 相關新聞（8 則）
 
+### [Dieta Keto o dieta mediterránea, ¿quién gana? Tú hígado lo tiene claro](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0tNZ2dtVlNOX241QzNxWTZYRkpYTEJEUDd4T1VNZzIyS3NOeUpRR3AwM3ZRWTdsZENXOEFWZVkwb2dyd1pKQnlfSFRscy1vSkFHN016bEVQRWIwMkVFcGlaVGVOeEg4SjlMZ0xhOWQ1blBQQWgtRVJXRWloRUpiTGE4V1F6MEpRMTBoRzlnZUVyN01WQlFTV0wwMTJCczBnZGVQeGhEMF95VkZreFE?oc=5)
+
+2026-08-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0tNZ2dtVlNOX241QzNxWTZYRkpYTEJEUDd4T1VNZzIyS3NOeUpRR3AwM3ZRWTdsZENXOEFWZVkwb2dyd1pKQnlfSFRscy1vSkFHN016bEVQRWIwMkVFcGlaVGVOeEg4SjlMZ0xhOWQ1blBQQWgtRVJXRWloRUpiTGE4V1F6MEpRMTBoRzlnZUVyN01WQlFTV0wwMTJCczBnZGVQeGhEMF95VkZreFE?oc=5)
+
+---
+
 ### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
 
 2026-08-28 <span class="news-indication-tag">Adipositas</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
----
-
-### [La dieta keto gana terreno frente a la mediterránea en personas con obesidad - El Confidencial](https://news.google.com/rss/articles/CBMipgFBVV95cUxORGxHUXV3STZ1Q0VoODQ5RFVVSDgySTVtX0tLczdxZERhb0xTU0VvQUdWdWhwbk81NG5pN05veXNaSlI0U1dzZExla3hZY01jdDBjS2FVY0NZN0ppbWVlRGhPTDlxbTVYVXo0bUNrZ011T0NQMS1UeGlFYTlJWUMzWXh4SnBfUTh3UmVBOE5vdlF3N1RQVENZdVB4NjJwWDB4UGd1OVhB?oc=5)
-
-2026-08-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMipgFBVV95cUxORGxHUXV3STZ1Q0VoODQ5RFVVSDgySTVtX0tLczdxZERhb0xTU0VvQUdWdWhwbk81NG5pN05veXNaSlI0U1dzZExla3hZY01jdDBjS2FVY0NZN0ppbWVlRGhPTDlxbTVYVXo0bUNrZ011T0NQMS1UeGlFYTlJWUMzWXh4SnBfUTh3UmVBOE5vdlF3N1RQVENZdVB4NjJwWDB4UGd1OVhB?oc=5)
 
 ---
 

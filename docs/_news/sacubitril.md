@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（18 則）
+
+### [La nuova frontiera del diabete: nasce il probiotico che libera GLP-1](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlRCM21BSzZzQkVoTEI1RnFxekFtX0NMRkljZWRfQ1VpajJmdjE0NFJlQ09TelpvNkVPbTY3SVYzVmttNEtwQXBscExIUHBNM1VmNUtGZ3psOEV2T2llRUF3QUhWaDh0MWo1MmY5amE2amJ6bGl4OFN3VTJGM29jMnlncnN0TVc0OTJIV2c2ZmlMelQzWU9UM253T0xfVUFKVjFMNjRTTk14ZEtJYkxJWlVSd2daZURzQ1Z5N3FaZWhMQndTN2c?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlRCM21BSzZzQkVoTEI1RnFxekFtX0NMRkljZWRfQ1VpajJmdjE0NFJlQ09TelpvNkVPbTY3SVYzVmttNEtwQXBscExIUHBNM1VmNUtGZ3psOEV2T2llRUF3QUhWaDh0MWo1MmY5amE2amJ6bGl4OFN3VTJGM29jMnlncnN0TVc0OTJIV2c2ZmlMelQzWU9UM253T0xfVUFKVjFMNjRTTk14ZEtJYkxJWlVSd2daZURzQ1Z5N3FaZWhMQndTN2c?oc=5)
+
+---
 
 ### [Artrite reumatoide, le cellule Car T efficaci sui casi difficili](https://news.google.com/rss/articles/CBMiiAJBVV95cUxObDB3MnpVU2I4STZhNVVodUl3RVVFTXZyLXlHM2JoSml6Zm1wcTFocGVoaUVWd0pmMDJNcE44YlpOQ1Y5c1pfaU1paERLbVRvOWRlWWlwOWhOZ3R4LVJ5eFVYN2xWOWNXT215UHZ2S1FlcFN3SlZTMENJS1FLVjAwVi0zMXlrNkhEM0tkNGhXRnpwSVcxQU1lTlVydUg4WWYwcGlKaWczb19hMUppcG1OQW5uTllweFdUb3NVeXNBcHFpVFpNYS1iaG1EODI5WVhjbDktSzVRTDUxYldzdnpmSS1QVnp6TVRNOEJsazgtUzBrQURXV01KYWVFdTBjaGtBS2FmdUV6TWHSAY4CQVVfeXFMT29KR1hpMVc3aTN2VmpweGJVVGFHNUZ0a3RHc2VacEJpQUFRX0l6dEhXSUxETm5lQ1ZqRmlSa0thZm8yQ3ByUDh6UFFMd2ttMkNYc3BsbkFOX2tjNml1Z1pKcl8wS3I3djNRQWFpcUNLSFpTcHI1S19ud1dLUTh1Y3lsWmMzdGlubmVRMWFOMmFmclRuUGVGX2ttWTc5N2lfNFRGbkFnNnN6ZzQ3dXN0SENSSk1RVnJpZHVENW5UZjVobUxhb0p5dm5VcE4tb043bWotSXJkcDVZYWhFSUVpQlNJWEFpTUxieXhsYy1ndlBBS256Nkd3b1J6TDN4TnNBRmd0cWNSa0VVUUZ3cWNB?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/sacubitril/
 2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
+
+---
+
+### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+
+2026-08-28 <span class="news-indication-tag">artrite</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
 
 ---
 
@@ -126,6 +142,22 @@ permalink: /news/sacubitril/
 
 ---
 
+### [Los médicos lo dejan claro: "El sexo y la edad son los principales causantes de las complicaciones en la diabetes tipo 2" - Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
+
+---
+
+### [Se describe la primera infección bacteriana de origen cutáneo en un dinosaurio que vivió en Morella hace unos 125 millones de años](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkptbkVZaHRuZVI4M2RybUlDOXd3MWZvQjlfOTNJOV90ZmluOGF1TFJLTVlhQkpNMUhkMVlUeTBZSkNrLTNnWWZhU0VZM2hnRG5WQ3NfekU4Sjk5ZGJ1M1hsYzRDY0d3dF9ZLS1XVVlQbGk0eDJHdU1hV1M0eWZ2ZjEzczhkcEtMR3NkZHNYRzN6aVRNVHFEY0ZLaXJpek80NkVldTBvYXhNcmtwT1VaeGc3MmE5QUtNWk5jZzJXRjdKVHZuSllKbkZiM3dET1BPY3dpbEszY0pMNDBI?oc=5)
+
+2026-08-27 <span class="news-indication-tag">artritis</span>
+
+來源：[elperiodic.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkptbkVZaHRuZVI4M2RybUlDOXd3MWZvQjlfOTNJOV90ZmluOGF1TFJLTVlhQkpNMUhkMVlUeTBZSkNrLTNnWWZhU0VZM2hnRG5WQ3NfekU4Sjk5ZGJ1M1hsYzRDY0d3dF9ZLS1XVVlQbGk0eDJHdU1hV1M0eWZ2ZjEzczhkcEtMR3NkZHNYRzN6aVRNVHFEY0ZLaXJpek80NkVldTBvYXhNcmtwT1VaeGc3MmE5QUtNWk5jZzJXRjdKVHZuSllKbkZiM3dET1BPY3dpbEszY0pMNDBI?oc=5)
+
+---
+
 ### [Zelltherapie bei schwerer rheumatoider Arthritis erfolgreich - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
 
 2026-08-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
@@ -136,17 +168,17 @@ permalink: /news/sacubitril/
 
 ### [« Il agit seulement quand le sucre monte » : ce probiotique « vivant » pourrait changer le traitement du diabète - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
 
-2026-08-27 <span class="news-indication-tag">diabète</span>
+2026-08-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
 
 ---
 
-### [Capteurs, insulines, bandelettes: le vrai coût du diabète au Maroc, raconté par les patients et les médecins](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnp2NnB2NEdMQ0tUNFRZXzBXLXpjd2p3cFpPTDdHaTBwd2VTNEpPZ2ZabUw1OFFYSXdIWjIzM1hxMjE0M2V6WTc2TU1YYVA5cnBDWU5NcnJCb3VZN2NJa2wzSm1qVHVuRHhaRTFRaGdldHV0SlZ2LXhYUkRWTUtGRlNrcm1zLW9qa3FraEVPQkFQT2FVQ2UwY1A5bklZZUJJVG5nN3FIdkxwdHZreFpZRzd5dFlWRGZwalZiQktITl84SFRORktzd2t6WGZualczZ3ljckprUGdiQlFaa1ZNRWVFbzRtQQ?oc=5)
+### [Could a 20-Year-Old Drug Repair Cartilage Damaged by Osteoarthritis? A Yale Study Suggests It Can](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
 
-2026-08-27 <span class="news-indication-tag">diabète</span>
+2026-08-25 <span class="news-indication-tag">arthritis</span>
 
-來源：[Le360](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnp2NnB2NEdMQ0tUNFRZXzBXLXpjd2p3cFpPTDdHaTBwd2VTNEpPZ2ZabUw1OFFYSXdIWjIzM1hxMjE0M2V6WTc2TU1YYVA5cnBDWU5NcnJCb3VZN2NJa2wzSm1qVHVuRHhaRTFRaGdldHV0SlZ2LXhYUkRWTUtGRlNrcm1zLW9qa3FraEVPQkFQT2FVQ2UwY1A5bklZZUJJVG5nN3FIdkxwdHZreFpZRzd5dFlWRGZwalZiQktITl84SFRORktzd2t6WGZualczZ3ljckprUGdiQlFaa1ZNRWVFbzRtQQ?oc=5)
+來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
 
 ---
 
@@ -158,7 +190,7 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Alopecia: Common Arthritis Drug Shows Promise for Hair Regrowth](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
+### [Common Rheumatoid Arthritis Drug May Support Hair Regrowth in Alopecia](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
 

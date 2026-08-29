@@ -54,19 +54,27 @@ permalink: /news/tasimelteon/
 
 ## 相關新聞（4 則）
 
-### [¿Por qué aumenta la depresión en la vejez? Este factor común con el Alzheimer tiene la respuesta](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVNqQzNmaHlQTXQ2SWdBUW9FMGJ6YTRzNDFteHhUelZDUEt1RzZLNHFMY21NY0lMc2VRVDhHUW45bUx6cEIxLXRpdk1VZGpBWGNJRFJDREVtVENwejFYMDd3NVhVc3VyZk9PZU1wa2xJZ3l4ekU5b1h1U1EzSWtSSnY1RzI0cEJUa04yYm5kUzFZSlBfRld3Y0I1anVNMkJOMHpuczE3YkUySHduaGpwNzctVU9Rek5Tbkd2VmZOdUhKdw?oc=5)
+### [Salsa-Tanzen: Acht Wochen reduzieren Depression und soziale Ängste](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnZ0S0czZFhDQ3UxTjY2OXhuN2NDeVpFbXllR2pBbUZwaUpCU1ktTktTdGhvNkk2OEV1UHM5SHkxdzlCLWpVVDM2ZkZhUUh4SkVvN1hoeUptM252VjV1cGZOZzU0Q09XbHdrSEQtbWdkZGlBMGVoRDhQRHg2aS0tY0lMR2J2SloxVnNfVGhnNlE0ZXU2R3IzdFRSNmwxQzNkOXYwSElKcmlTN2U1MDc4am1nQ2pMUQ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">depresión</span>
+2026-08-28 <span class="news-indication-tag">depression</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVNqQzNmaHlQTXQ2SWdBUW9FMGJ6YTRzNDFteHhUelZDUEt1RzZLNHFMY21NY0lMc2VRVDhHUW45bUx6cEIxLXRpdk1VZGpBWGNJRFJDREVtVENwejFYMDd3NVhVc3VyZk9PZU1wa2xJZ3l4ekU5b1h1U1EzSWtSSnY1RzI0cEJUa04yYm5kUzFZSlBfRld3Y0I1anVNMkJOMHpuczE3YkUySHduaGpwNzctVU9Rek5Tbkd2VmZOdUhKdw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnZ0S0czZFhDQ3UxTjY2OXhuN2NDeVpFbXllR2pBbUZwaUpCU1ktTktTdGhvNkk2OEV1UHM5SHkxdzlCLWpVVDM2ZkZhUUh4SkVvN1hoeUptM252VjV1cGZOZzU0Q09XbHdrSEQtbWdkZGlBMGVoRDhQRHg2aS0tY0lMR2J2SloxVnNfVGhnNlE0ZXU2R3IzdFRSNmwxQzNkOXYwSElKcmlTN2U1MDc4am1nQ2pMUQ?oc=5)
 
 ---
 
-### [Wie du mit Psychobiotika deine Seele unterstützen kannst – 12 Tipps für den Alltag - Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2NNblRLa1Q4REp4QWlOdXJDXzZsOVY2S2lGeVBNWmVLdFg4WEhOemt3NENiWDZUbmFLbXhhV0FrcnlPUkVEaDI3TWJtaUZUYmNibG5ZTW1Pa1ZzbHBUMG5IWHROb2FJUEZ4V242NE9RMUFaWVhuQ3FVcFQ2aXlxdkswemE2S3RrUVFvektXcHZZQ1htYVE0dWl4RGdBZlhmVWI3Vw?oc=5)
+### ["La depressione? Ci sono forme resistenti per le quali sperimentiamo nuovi farmaci. Se penso ai pazienti che non vedo più? Sì, vorrei sapere se hanno superato le fragilità che li hanno condotti da me": parla Massimo Ammaniti - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNOEh3XzNlNXlXel9McUJsVDBUU0pfZ2lUU1pSNDg5MkxjRHVDOXNKcjcwM19Ia19DdUM0d1MwNFJfZGhPNk1JZk03N0R0eXAxOEh4aUlnWUZRMWZjeVNfU01NdFV5dVNvX3Z3Mmh5enFEdEtWUl9JcFBpMnZIclJ1bVVVQVMyam5hVjFLMnljTzRWWGhOQjYtbGM3Q0c3Z3NtcVdvNU9zdU0ycE5GdHcwczl5b05lOFF3MWZTT2lsWG04WFJYQnY2cGdWMG1MM1hGczJscmxOemhDeU1CVy10bDMxOVlhU21ER2s1bDE0bXV4MmdsMEk2Y0lNb1RVd2ZYNm5selZrR242NkpsbWlkZHdpTVBvYVJRWVdnY2dTZlR6Z0tzdTN1ZFpYOVBNNGs3ZFhNRG9VMWxLUzhCMjdaLWdBd1o3VlQ3Z1FfU2ozSFNDMXhUQ1p3Y3FJTTdHT3pMRWpRaEh3?oc=5)
 
-2026-08-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-08-28 <span class="news-indication-tag">depression</span>
 
-來源：[Bild der Frau](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2NNblRLa1Q4REp4QWlOdXJDXzZsOVY2S2lGeVBNWmVLdFg4WEhOemt3NENiWDZUbmFLbXhhV0FrcnlPUkVEaDI3TWJtaUZUYmNibG5ZTW1Pa1ZzbHBUMG5IWHROb2FJUEZ4V242NE9RMUFaWVhuQ3FVcFQ2aXlxdkswemE2S3RrUVFvektXcHZZQ1htYVE0dWl4RGdBZlhmVWI3Vw?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNOEh3XzNlNXlXel9McUJsVDBUU0pfZ2lUU1pSNDg5MkxjRHVDOXNKcjcwM19Ia19DdUM0d1MwNFJfZGhPNk1JZk03N0R0eXAxOEh4aUlnWUZRMWZjeVNfU01NdFV5dVNvX3Z3Mmh5enFEdEtWUl9JcFBpMnZIclJ1bVVVQVMyam5hVjFLMnljTzRWWGhOQjYtbGM3Q0c3Z3NtcVdvNU9zdU0ycE5GdHcwczl5b05lOFF3MWZTT2lsWG04WFJYQnY2cGdWMG1MM1hGczJscmxOemhDeU1CVy10bDMxOVlhU21ER2s1bDE0bXV4MmdsMEk2Y0lNb1RVd2ZYNm5selZrR242NkpsbWlkZHdpTVBvYVJRWVdnY2dTZlR6Z0tzdTN1ZFpYOVBNNGs3ZFhNRG9VMWxLUzhCMjdaLWdBd1o3VlQ3Z1FfU2ozSFNDMXhUQ1p3Y3FJTTdHT3pMRWpRaEh3?oc=5)
+
+---
+
+### [¿Y si la depresión estuviese relacionada con el alzhéimer? Científicos descubren su vínculo en la vejez](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGhHUW5CSnVEd0hNWkdnNGVtTGRrM1NfMnFpc2lhc2xfRGlTRnVpX1hpVlFjZEo0aEg0MEw0LTFMUmE2NmNPM2p0bGp1YjVhZl9QSVQ1YU93bDBNSDVxT2Z3dzJqVWJYc2dNQnRVN1cxYTlZMmJFdXh2Y3FBWFJuOW1BNG1TaXVndTdCWlFIM0VMUlVISDBWSHVSaDVoTmtNZUh4X1lfbEFFOVJuakdrX3l3RG01WElfQ2xYUC12SEU?oc=5)
+
+2026-08-27 <span class="news-indication-tag">depresión</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGhHUW5CSnVEd0hNWkdnNGVtTGRrM1NfMnFpc2lhc2xfRGlTRnVpX1hpVlFjZEo0aEg0MEw0LTFMUmE2NmNPM2p0bGp1YjVhZl9QSVQ1YU93bDBNSDVxT2Z3dzJqVWJYc2dNQnRVN1cxYTlZMmJFdXh2Y3FBWFJuOW1BNG1TaXVndTdCWlFIM0VMUlVISDBWSHVSaDVoTmtNZUh4X1lfbEFFOVJuakdrX3l3RG01WElfQ2xYUC12SEU?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/tasimelteon/
 2026-08-26 <span class="news-indication-tag">depression</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0ZwUUs4bWJPNnpiUEJHU3FjNE1lenRSLU95MVRlVFF3d24wdXhTLWl0LUVGZFhwT1lXU3pEMGVpQmg0Ty02MU13Mnc3MDV4RFFNZEdKd0F0cVhFSjNmdV9NRXdzel9fN2p1Rjg1c3dSUVczUUdibDM5N01mRVVfZ293aTFqVFBtQnIyMTUwc1QtRnR5ODdQalhvbVdITFRkQzh1a0MzTnA0emVNMWVEWW9oNkVQR25WNXc?oc=5)
-
----
-
-### [No se observa una asociación clara entre el uso de semaglutida y el riesgo de depresión](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWtlbHpwRmUtVnJ3a0pwLTVOMlNmMV83SXVLTVQ3QWdtY3A1NXZ1dVo3SzVEb0phZ2VoUy1yTGYxV185YnhrVXZpVmZBYzdsR1l4RGNOV3NEckJQRTBycXFkU0VvZzQ3dlpTUF9fbDdDd1Q3RWlSZzlCeFphNmoxVWZTaVJEQno1cGFCbUJ4bTNGVHVuRFU0UGZwbWZLU2FQSEFCTW9DdlBQeFpQ?oc=5)
-
-2026-08-26 <span class="news-indication-tag">depresión</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWtlbHpwRmUtVnJ3a0pwLTVOMlNmMV83SXVLTVQ3QWdtY3A1NXZ1dVo3SzVEb0phZ2VoUy1yTGYxV185YnhrVXZpVmZBYzdsR1l4RGNOV3NEckJQRTBycXFkU0VvZzQ3dlpTUF9fbDdDd1Q3RWlSZzlCeFphNmoxVWZTaVJEQno1cGFCbUJ4bTNGVHVuRFU0UGZwbWZLU2FQSEFCTW9DdlBQeFpQ?oc=5)
 
 ---
 

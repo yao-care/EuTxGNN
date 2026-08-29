@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
+
+### [Psoriasi, il DNA indica 50 possibili bersagli terapeutici](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
+
+2026-08-29 <span class="news-indication-tag">soriasi</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
+
+---
+
+### [La nuova frontiera del diabete: nasce il probiotico che libera GLP-1](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlRCM21BSzZzQkVoTEI1RnFxekFtX0NMRkljZWRfQ1VpajJmdjE0NFJlQ09TelpvNkVPbTY3SVYzVmttNEtwQXBscExIUHBNM1VmNUtGZ3psOEV2T2llRUF3QUhWaDh0MWo1MmY5amE2amJ6bGl4OFN3VTJGM29jMnlncnN0TVc0OTJIV2c2ZmlMelQzWU9UM253T0xfVUFKVjFMNjRTTk14ZEtJYkxJWlVSd2daZURzQ1Z5N3FaZWhMQndTN2c?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlRCM21BSzZzQkVoTEI1RnFxekFtX0NMRkljZWRfQ1VpajJmdjE0NFJlQ09TelpvNkVPbTY3SVYzVmttNEtwQXBscExIUHBNM1VmNUtGZ3psOEV2T2llRUF3QUhWaDh0MWo1MmY5amE2amJ6bGl4OFN3VTJGM29jMnlncnN0TVc0OTJIV2c2ZmlMelQzWU9UM253T0xfVUFKVjFMNjRTTk14ZEtJYkxJWlVSd2daZURzQ1Z5N3FaZWhMQndTN2c?oc=5)
+
+---
 
 ### [EsmeDerm: Projekt für Menschen mit Psoriasis und Neurodermitis sucht Teilnehmer](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYmUwSG80N2RoY0dPaFFKamtPSTZiVlQtbmI4SkN4SkpkenlNdFFCMzRobklsRDdmU1hITE9sbHpFWjFRTENvV0lQRmNQc0tuUTMzQTloZW15eTNuZlIwMmZiaG55N1p6ZDZDeFpWWXU0YUZON0JLRW5sYWNFT21kMkRZWDhjN3dURlB5M1ktOWVMYTFBVEs5SHJBT1hzUWdZRWhRSXFoWTRLZHhRNi02WlhRNC1tb015TERISERwNHpOa1JrdzBmb2F0RlA0WDVvMDRwWQ?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/natalizumab/
 2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
-
----
-
-### [Psoriasi, il DNA indica 50 possibili bersagli terapeutici](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
-
-2026-08-28 <span class="news-indication-tag">soriasi</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
 
 ---
 
@@ -126,19 +134,27 @@ permalink: /news/natalizumab/
 
 ---
 
+### [Los médicos lo dejan claro: "El sexo y la edad son los principales causantes de las complicaciones en la diabetes tipo 2" - Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
+
+---
+
 ### [« Il agit seulement quand le sucre monte » : ce probiotique « vivant » pourrait changer le traitement du diabète - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
 
-2026-08-27 <span class="news-indication-tag">diabète</span>
+2026-08-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
 
 ---
 
-### [Capteurs, insulines, bandelettes: le vrai coût du diabète au Maroc, raconté par les patients et les médecins](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnp2NnB2NEdMQ0tUNFRZXzBXLXpjd2p3cFpPTDdHaTBwd2VTNEpPZ2ZabUw1OFFYSXdIWjIzM1hxMjE0M2V6WTc2TU1YYVA5cnBDWU5NcnJCb3VZN2NJa2wzSm1qVHVuRHhaRTFRaGdldHV0SlZ2LXhYUkRWTUtGRlNrcm1zLW9qa3FraEVPQkFQT2FVQ2UwY1A5bklZZUJJVG5nN3FIdkxwdHZreFpZRzd5dFlWRGZwalZiQktITl84SFRORktzd2t6WGZualczZ3ljckprUGdiQlFaa1ZNRWVFbzRtQQ?oc=5)
+### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
-2026-08-27 <span class="news-indication-tag">diabète</span>
+2026-08-25 <span class="news-indication-tag">copd</span>
 
-來源：[Le360](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnp2NnB2NEdMQ0tUNFRZXzBXLXpjd2p3cFpPTDdHaTBwd2VTNEpPZ2ZabUw1OFFYSXdIWjIzM1hxMjE0M2V6WTc2TU1YYVA5cnBDWU5NcnJCb3VZN2NJa2wzSm1qVHVuRHhaRTFRaGdldHV0SlZ2LXhYUkRWTUtGRlNrcm1zLW9qa3FraEVPQkFQT2FVQ2UwY1A5bklZZUJJVG5nN3FIdkxwdHZreFpZRzd5dFlWRGZwalZiQktITl84SFRORktzd2t6WGZualczZ3ljckprUGdiQlFaa1ZNRWVFbzRtQQ?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 ---
 
@@ -147,14 +163,6 @@ permalink: /news/natalizumab/
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
-
----
-
-### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">copd</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
 
 ---
 

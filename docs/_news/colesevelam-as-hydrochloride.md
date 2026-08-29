@@ -54,6 +54,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（13 則）
 
+### [La nuova frontiera del diabete: nasce il probiotico che libera GLP-1](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlRCM21BSzZzQkVoTEI1RnFxekFtX0NMRkljZWRfQ1VpajJmdjE0NFJlQ09TelpvNkVPbTY3SVYzVmttNEtwQXBscExIUHBNM1VmNUtGZ3psOEV2T2llRUF3QUhWaDh0MWo1MmY5amE2amJ6bGl4OFN3VTJGM29jMnlncnN0TVc0OTJIV2c2ZmlMelQzWU9UM253T0xfVUFKVjFMNjRTTk14ZEtJYkxJWlVSd2daZURzQ1Z5N3FaZWhMQndTN2c?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlRCM21BSzZzQkVoTEI1RnFxekFtX0NMRkljZWRfQ1VpajJmdjE0NFJlQ09TelpvNkVPbTY3SVYzVmttNEtwQXBscExIUHBNM1VmNUtGZ3psOEV2T2llRUF3QUhWaDh0MWo1MmY5amE2amJ6bGl4OFN3VTJGM29jMnlncnN0TVc0OTJIV2c2ZmlMelQzWU9UM253T0xfVUFKVjFMNjRTTk14ZEtJYkxJWlVSd2daZURzQ1Z5N3FaZWhMQndTN2c?oc=5)
+
+---
+
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
 
 2026-08-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
@@ -94,14 +102,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Research into protein interactions sheds new light on causes of autism - Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart failure</span>
-
-來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJ0LVhHSzVXdko0VURzTDhUQXd0U2ItSnV3OU5wT2hILS1mZ240M1dQYTVwVm4yVl9GUHV4MDFHVGFKbVBkZkNIdzJ1VmwwMkNJQW1xdmh1a25aRHBCR2FCUE5KQ2xlRTgycXZTSVllZDB2MzN0clZfZ1RWTGk2a1hCYl9zUGFLNjFlcVQ5WGJnVzBNTzVocFZwN203QzZYcy1MMw?oc=5)
-
----
-
 ### [A qué hora desayunar si tenés diabetes: las recomendaciones de los especialistas para evitar picos de glucosa](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM19DWWd1a3F1dEphbVBtay1IOXFKaE92aE9HaU9FeDF5TzNEQVJrMkNPbzF5TDllekRHX3VzVWtnZ0FsWUM1dGZwbVVnaWxhakF3TXh2aVpTY1ZzZmxLSHZaODVFWFRTV0RjaXdOTWRIZkZmVXE0dnVPNHU5S0EweE9TNk9aOXMzUnZXTnZET2NLcmc3WTBOSmU2cTI0enNKMkstb2wzMHpvWkgycDBmS2g4YUhYLWxNZFNUQmRaZjFnREZBMGpGNFEzaHB4c3phMGhJSktEM0FmWVY4cDBMRnNEN2ZYVGhwaXdnaldLUjItSEZr?oc=5)
 
 2026-08-27 <span class="news-indication-tag">diabetes</span>
@@ -134,9 +134,17 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Los médicos lo dejan claro: "El sexo y la edad son los principales causantes de las complicaciones en la diabetes tipo 2" - Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTB4T2t3SVc4aVZ0M1M2dXlvVnlmMExHVGZFWnktdVJXd3N0cThSeXVrbnhaWEZUM1pkS1VSLXN6ekt0S2VoanlqbVFvU2tCSXU1cXRlWV9BQkdHTWxadEdscmw4Y0lfbWdhY0pfZVU4YXdOS3lCdzZ6YlhzZU94alRDRGZjTzk3S3pnU201MDllV1JPZFdDaVRGOTIwWUZCaDV1RE9hMWtQVmJDaHJiZHZ3R1gtcTJMWWxpNzMtb2VEZnFvTlVscHRKMmdiOFZ4SktBTFZjV1hUZDhGV0hqYTl6LWE1c2_SAfQBQVVfeXFMTXlOYllZZDlUd0ttTVJubUpuZzJadExpNUh1c1hXQ05yMjJmdm5hTjFjdVJqMjc4YWl1Mms2NUxKdFRZMm8zaVNvZXNIcWFPNk5QZEdlSkI1bkw5Q0tLazRZQzhaSmVVNVc1RHozMGgxVjZXZm5QYnFDWGN3elN1TUZWZkdFekFyTjlneEZ4d3NRR3FKdVUzaDg4N3h5TTVnQkdTY1RsdEtCNmd6X2JjQXFjWVhxT2c1WHRsSW9ZcmhJcnVMZmFtdmhEVDVIUHQwbGFMOHdlVHhuQlVtSWozd2VVT1lRN2RTZmhreVJqNm0wWEFIMA?oc=5)
+
+---
+
 ### [« Il agit seulement quand le sucre monte » : ce probiotique « vivant » pourrait changer le traitement du diabète - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
 
-2026-08-27 <span class="news-indication-tag">diabète</span>
+2026-08-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
 
@@ -147,14 +155,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-08-27 <span class="news-indication-tag">heart disease</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVJaNUxWLXdWa28zaDI2QlQ2SGs1c2YzNFBldmdXeTNucFVmQ2VweDhfYVFmaUpLWkI2MTRVR0pycDFNbU5BWG8wdldjRFhwcDcwZUZld2JhVjVwXzMzVFhVcTdyS0ZiXzNIdlVVdzRjcW45MFJlRHN6WmNyUGlmN0M2ZlZ0TlpFRWlWMGpoYlg0UkZmT3YzbjdIYTgyR0swWk12LXJCdWdDdw?oc=5)
-
----
-
-### [Capteurs, insulines, bandelettes: le vrai coût du diabète au Maroc, raconté par les patients et les médecins](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnp2NnB2NEdMQ0tUNFRZXzBXLXpjd2p3cFpPTDdHaTBwd2VTNEpPZ2ZabUw1OFFYSXdIWjIzM1hxMjE0M2V6WTc2TU1YYVA5cnBDWU5NcnJCb3VZN2NJa2wzSm1qVHVuRHhaRTFRaGdldHV0SlZ2LXhYUkRWTUtGRlNrcm1zLW9qa3FraEVPQkFQT2FVQ2UwY1A5bklZZUJJVG5nN3FIdkxwdHZreFpZRzd5dFlWRGZwalZiQktITl84SFRORktzd2t6WGZualczZ3ljckprUGdiQlFaa1ZNRWVFbzRtQQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabète</span>
-
-來源：[Le360](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnp2NnB2NEdMQ0tUNFRZXzBXLXpjd2p3cFpPTDdHaTBwd2VTNEpPZ2ZabUw1OFFYSXdIWjIzM1hxMjE0M2V6WTc2TU1YYVA5cnBDWU5NcnJCb3VZN2NJa2wzSm1qVHVuRHhaRTFRaGdldHV0SlZ2LXhYUkRWTUtGRlNrcm1zLW9qa3FraEVPQkFQT2FVQ2UwY1A5bklZZUJJVG5nN3FIdkxwdHZreFpZRzd5dFlWRGZwalZiQktITl84SFRORktzd2t6WGZualczZ3ljckprUGdiQlFaa1ZNRWVFbzRtQQ?oc=5)
 
 ---
 
