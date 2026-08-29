@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
+
+### [Statine dopo i 70 anni, il grande trial scioglie un dubbio durato decenni](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
+
+2026-08-29 <span class="news-indication-tag">ictus</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
+
+---
 
 ### [Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
 
@@ -102,35 +110,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [The #1 Nutrient for Reducing Stroke Risk, According to Dietitians](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMFUwQUlUbTZaZzMzOGxXakVHenB4bllLZktLRUFGdU95My1oQnlaaTFETG92ZHI4UklLQXpRaHkzU2VWQnk2R2xlTGVKaUhueHlKRG9BSXphMFNyWkNxV2JrSlRYa3BhQzczSElYUVU5YmExZ0RLSEg0ZFBsV2c?oc=5)
-
-2026-08-28 <span class="news-indication-tag">stroke</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMFUwQUlUbTZaZzMzOGxXakVHenB4bllLZktLRUFGdU95My1oQnlaaTFETG92ZHI4UklLQXpRaHkzU2VWQnk2R2xlTGVKaUhueHlKRG9BSXphMFNyWkNxV2JrSlRYa3BhQzczSElYUVU5YmExZ0RLSEg0ZFBsV2c?oc=5)
-
----
-
-### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 ---
 
-### [Demenzerkrankungen: "riesiges Potenzial für Prävention" - Pharma Fakten](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbThnbFFiM210SUs4bU1DNWtmd2d3OGstcmRYbkNmMXFMejBQQ3BXUmVmcWxUTnRSVzRyUi05VGlWWVRIRVV5THZzcFdRSjZDUjRQbXF6cGEyZ1lNdVlsYVc1YzUxamYwRk93SG42RU5nWDFQeFJ6bUdTbU84VnRzdjBpRTFZTzBpTW1VRXN3?oc=5)
+### [Alzheimer & Co.: Gehirngesundheit im Fokus - Pharma Fakten](https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDcya3hTejAwaENaZnBBWEEzcEVHWG5Pb3dFck8xSmN4THhFTXI3OW1iS1NCdHMxdzZRTDFJSkZvWHVsWWVVajZrZEpURGFaeHFlSDFtLTV0QnRqcjBVR2JuUThteWdTVEVDNmozSGJmamZaNW1UTQ?oc=5)
 
 2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbThnbFFiM210SUs4bU1DNWtmd2d3OGstcmRYbkNmMXFMejBQQ3BXUmVmcWxUTnRSVzRyUi05VGlWWVRIRVV5THZzcFdRSjZDUjRQbXF6cGEyZ1lNdVlsYVc1YzUxamYwRk93SG42RU5nWDFQeFJ6bUdTbU84VnRzdjBpRTFZTzBpTW1VRXN3?oc=5)
-
----
-
-### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
+來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDcya3hTejAwaENaZnBBWEEzcEVHWG5Pb3dFck8xSmN4THhFTXI3OW1iS1NCdHMxdzZRTDFJSkZvWHVsWWVVajZrZEpURGFaeHFlSDFtLTV0QnRqcjBVR2JuUThteWdTVEVDNmozSGJmamZaNW1UTQ?oc=5)
 
 ---
 
@@ -155,14 +147,6 @@ permalink: /news/orlistat/
 2026-08-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5)
-
----
-
-### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 

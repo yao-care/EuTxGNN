@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [El duelo definitivo contra el insomnio: qué dice la ciencia de la melatonina, el magnesio y por qué mezclarlos no sirve de nada](https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVNhZGZpc2l0SEhybUxyeGYxbmZFNUVEWWNPMHlpMDRLdVpXY2xvRlhpUVFHN0owczdMVnV3dFBJdHN5eFFNeTE1RGY3N1RLaGJkUzRpa3ZmeHY4SGtmMU5XWkdpcGZOSE96anl3blRrYkRyc0xhcFc2WGtIcmEway1GY3dOZUpsT1hBRjI2TGRCSUNQdjl5RnFtQnNjNTRPeTZEYzAtSjg4bzRwTHlqem9OcWRhZ3htMWlydnAyVU94b21xQWZWaFUxQdIB0AFBVV95cUxNMTlqaTBMOFYxa1NCeEEwR2ZGMU5aa1dYSURPaUNCY2VHdDlkVEFobW5UMjVSRmNZX3V6cHlPNXdvUFJDTzBkRU1kLS1QeGdFV0l1SW1UTDZMZWMxa0w3Uk5mQ0cwZFdnSFp0QkNBQkxRb25iZnpzbm5RNXhRdkJyLWFKY1J0SGxVVEZQbC0yamxvcjNFNnRoZDU5aWNiekNwOEROeHFRVmVqeTlzRnNYYWUxXzJabV96bnI3dlRNd3RFbnF6YnBONU9YbXUxSDRi?oc=5)
+
+2026-08-29 <span class="news-drug-tag">Melatonin</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVNhZGZpc2l0SEhybUxyeGYxbmZFNUVEWWNPMHlpMDRLdVpXY2xvRlhpUVFHN0owczdMVnV3dFBJdHN5eFFNeTE1RGY3N1RLaGJkUzRpa3ZmeHY4SGtmMU5XWkdpcGZOSE96anl3blRrYkRyc0xhcFc2WGtIcmEway1GY3dOZUpsT1hBRjI2TGRCSUNQdjl5RnFtQnNjNTRPeTZEYzAtSjg4bzRwTHlqem9OcWRhZ3htMWlydnAyVU94b21xQWZWaFUxQdIB0AFBVV95cUxNMTlqaTBMOFYxa1NCeEEwR2ZGMU5aa1dYSURPaUNCY2VHdDlkVEFobW5UMjVSRmNZX3V6cHlPNXdvUFJDTzBkRU1kLS1QeGdFV0l1SW1UTDZMZWMxa0w3Uk5mQ0cwZFdnSFp0QkNBQkxRb25iZnpzbm5RNXhRdkJyLWFKY1J0SGxVVEZQbC0yamxvcjNFNnRoZDU5aWNiekNwOEROeHFRVmVqeTlzRnNYYWUxXzJabV96bnI3dlRNd3RFbnF6YnBONU9YbXUxSDRi?oc=5)
+
+---
 
 ### [Dieta keto vs. mediterránea: cuál mostró mayores beneficios para el hígado graso, según un estudio](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHZqRFBmRzJja3FwUTJJMW1GeUF3dFRWN1k1dDdwWDBtaVZVSzY4b3c2S29iVHNrTnNnckdjT2FVVllGeC10ZTNwaXVLTmpCUmlHVzA3UXVjd3psNkJoSUVVRTVYRGRqOE4yWW81R2lSOFE1RlVYRGlfX0xuVzdleTBNX2t3TU1JU2p0U3FWNUQ5RndmNElOQ2RWSGFNS01KT2FUaEFrSmVQS19yV1ZjUk1FS1BKN3hweDlXRFAzaXdzTXh0MjZjMmtma2lkQ1VLOGNn0gHuAUFVX3lxTE43c3JZbkFaTDc2UnUzWFZKRUJETjlmUGY3amFtSkE0TGJfbmlnb2RvdTYxQ2pUdEI2RTlCVmZTbV9ZaDFEMW1kMGtkNjBXcGhVZ0JsbUFKdm9hUGUzdHdJa0dSY05kX1IwQ2dfbmJoSU42QTVZWjBydFNqZC1QdVM0WVQ0TWxUdFdhT3VPRFdvM0xnSDhKcnl0S2gzaUxYSE5RamI5dml1QlllU3lfSm4xc2JNTDNUV2VJVWhkZ28xdHpVNVROcWtfUjNMRUt5STBzQ19jcFJDSWRFanc0UC1HUnIwS2RkU3BNcV9sc2c?oc=5)
 
 2026-08-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Infobae](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHZqRFBmRzJja3FwUTJJMW1GeUF3dFRWN1k1dDdwWDBtaVZVSzY4b3c2S29iVHNrTnNnckdjT2FVVllGeC10ZTNwaXVLTmpCUmlHVzA3UXVjd3psNkJoSUVVRTVYRGRqOE4yWW81R2lSOFE1RlVYRGlfX0xuVzdleTBNX2t3TU1JU2p0U3FWNUQ5RndmNElOQ2RWSGFNS01KT2FUaEFrSmVQS19yV1ZjUk1FS1BKN3hweDlXRFAzaXdzTXh0MjZjMmtma2lkQ1VLOGNn0gHuAUFVX3lxTE43c3JZbkFaTDc2UnUzWFZKRUJETjlmUGY3amFtSkE0TGJfbmlnb2RvdTYxQ2pUdEI2RTlCVmZTbV9ZaDFEMW1kMGtkNjBXcGhVZ0JsbUFKdm9hUGUzdHdJa0dSY05kX1IwQ2dfbmJoSU42QTVZWjBydFNqZC1QdVM0WVQ0TWxUdFdhT3VPRFdvM0xnSDhKcnl0S2gzaUxYSE5RamI5dml1QlllU3lfSm4xc2JNTDNUV2VJVWhkZ28xdHpVNVROcWtfUjNMRUt5STBzQ19jcFJDSWRFanc0UC1HUnIwS2RkU3BNcV9sc2c?oc=5)
-
----
-
-### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
----
-
-### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 

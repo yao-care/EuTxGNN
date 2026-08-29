@@ -14,7 +14,7 @@ permalink: /news/insulin-detemir/
 ---
 
 <p class="key-answer" data-question="Insulin Detemir 有什麼相關新聞？">
-<strong>Insulin Detemir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Insulin Detemir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,13 @@ permalink: /news/insulin-detemir/
 <p><a href="{{ '/drugs/insulin-detemir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
-### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
+### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
 2026-08-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
 ---
 
@@ -52,27 +52,19 @@ permalink: /news/insulin-detemir/
 
 ---
 
-### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 ---
 
-### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
----
-
-### [Una investigación concluye que la diabetes tipo 2 se manifiesta de manera diferente según el peso corporal](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORlRSYVdsb0VNM1JWSkMzMVhuQklYdU8tdUNsS25mTm1JWkZMd1oyMHpTUDBhbFVJSGVqRmwzeGZxVExZUTQ5cmZJcUtqbGFuNE8zYTdZQkI4WXJLYmE1WmFzM1IzQ1pmMzdwWFU0N1ROZmdRNTlYRVM0Sm5SOF9DOVo5WUpnVDNrRWNDSmhMS25lSEc2MG82V2hWQWhtOV9RUE5WdGNNaTJDY0ZvTEZVU0puUFFHTUtSbk96RVNPSTllNDFrYWdtVkQtU1Y1QXdhUEtnTUJJY2wxZi1oUFREUmozREJkUDQ?oc=5)
+### [La diabetes tipo 2 se manifiesta de manera diferente según el peso corporal - 65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSk1yZXJ5ZUh5SzA5TmxnNWVRVFZySkVNODFPV3hyMkk0a0JibGhHNU5YZGpOVGF3Tm81MXNBZFo2Y0N6TTF4c1J3R2p5dXdIUzBNLUg4NnpYNkJaYU1KdnA2bXV5M2VCa0s5YV9obF9vYkxVN3hxUTB1WHBpbHBVSGg2T09UNWtRS2hoUXFIQ3lvd090UEpvMnFMNlFfMFlKRHpnRjdVN2d0VFUyMkdj?oc=5)
 
 2026-08-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORlRSYVdsb0VNM1JWSkMzMVhuQklYdU8tdUNsS25mTm1JWkZMd1oyMHpTUDBhbFVJSGVqRmwzeGZxVExZUTQ5cmZJcUtqbGFuNE8zYTdZQkI4WXJLYmE1WmFzM1IzQ1pmMzdwWFU0N1ROZmdRNTlYRVM0Sm5SOF9DOVo5WUpnVDNrRWNDSmhMS25lSEc2MG82V2hWQWhtOV9RUE5WdGNNaTJDY0ZvTEZVU0puUFFHTUtSbk96RVNPSTllNDFrYWdtVkQtU1Y1QXdhUEtnTUJJY2wxZi1oUFREUmozREJkUDQ?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSk1yZXJ5ZUh5SzA5TmxnNWVRVFZySkVNODFPV3hyMkk0a0JibGhHNU5YZGpOVGF3Tm81MXNBZFo2Y0N6TTF4c1J3R2p5dXdIUzBNLUg4NnpYNkJaYU1KdnA2bXV5M2VCa0s5YV9obF9vYkxVN3hxUTB1WHBpbHBVSGg2T09UNWtRS2hoUXFIQ3lvd090UEpvMnFMNlFfMFlKRHpnRjdVN2d0VFUyMkdj?oc=5)
 
 ---
 
@@ -84,27 +76,11 @@ permalink: /news/insulin-detemir/
 
 ---
 
-### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
----
-
-### [A qué hora desayunar si tenés diabetes: las recomendaciones de los especialistas para evitar picos de glucosa](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM19DWWd1a3F1dEphbVBtay1IOXFKaE92aE9HaU9FeDF5TzNEQVJrMkNPbzF5TDllekRHX3VzVWtnZ0FsWUM1dGZwbVVnaWxhakF3TXh2aVpTY1ZzZmxLSHZaODVFWFRTV0RjaXdOTWRIZkZmVXE0dnVPNHU5S0EweE9TNk9aOXMzUnZXTnZET2NLcmc3WTBOSmU2cTI0enNKMkstb2wzMHpvWkgycDBmS2g4YUhYLWxNZFNUQmRaZjFnREZBMGpGNFEzaHB4c3phMGhJSktEM0FmWVY4cDBMRnNEN2ZYVGhwaXdnaldLUjItSEZr?oc=5)
+### [Studie: Keto, Mediterran und pflanzenbetont senken Gewicht – Keto verbessert zudem Fettleber und Blutzucker - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3RBNWFvSEZDSm1BT05lc1hTOEhMYXg0YWNiUkl2WUpnZGtTU0dlNWpDRmxnTmdWNVFRLVdJWDJKWlpzTllkYWRvQWwxVzFhV19SdjYwSnBCMTNzZlQ5dGZYRnV0RXFYMlhmeHdCMGRoSXZYcEJEQ0RKSm9PREptcHlRNXREUGNfNHdzVHZLS1pkcjFYMU9HOWFRMGNNbUlOQXIySE1JTmwwRkxFOUpWZzRVNTJvRVZaekFyMXhmWklqbkprNDhBbG04aWlpZUpa?oc=5)
 
 2026-08-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[Canal26](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM19DWWd1a3F1dEphbVBtay1IOXFKaE92aE9HaU9FeDF5TzNEQVJrMkNPbzF5TDllekRHX3VzVWtnZ0FsWUM1dGZwbVVnaWxhakF3TXh2aVpTY1ZzZmxLSHZaODVFWFRTV0RjaXdOTWRIZkZmVXE0dnVPNHU5S0EweE9TNk9aOXMzUnZXTnZET2NLcmc3WTBOSmU2cTI0enNKMkstb2wzMHpvWkgycDBmS2g4YUhYLWxNZFNUQmRaZjFnREZBMGpGNFEzaHB4c3phMGhJSktEM0FmWVY4cDBMRnNEN2ZYVGhwaXdnaldLUjItSEZr?oc=5)
-
----
-
-### [Envejecer con diabetes tipo 1: retos de una población creciente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2M3QkhzMWhpUTFJMmhqc1JkRm9iQ1BkWndvRHdpNnN5OENLa0liVkVaSXV6ako0VDMtdE1Bb0RoUTVmeUw4dlJjTkZoMmgyYThQYzR2NWFZR19BMUZNa092c3F3VER6ei1PN21mcFVVazVKcF8xUHlyNnYyNG01dkg5alhqQzRhTmttWHV0UF96YmhmMzA0VWpDQUxXOVlvdnFlOFFHbEQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2M3QkhzMWhpUTFJMmhqc1JkRm9iQ1BkWndvRHdpNnN5OENLa0liVkVaSXV6ako0VDMtdE1Bb0RoUTVmeUw4dlJjTkZoMmgyYThQYzR2NWFZR19BMUZNa092c3F3VER6ei1PN21mcFVVazVKcF8xUHlyNnYyNG01dkg5alhqQzRhTmttWHV0UF96YmhmMzA0VWpDQUxXOVlvdnFlOFFHbEQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3RBNWFvSEZDSm1BT05lc1hTOEhMYXg0YWNiUkl2WUpnZGtTU0dlNWpDRmxnTmdWNVFRLVdJWDJKWlpzTllkYWRvQWwxVzFhV19SdjYwSnBCMTNzZlQ5dGZYRnV0RXFYMlhmeHdCMGRoSXZYcEJEQ0RKSm9PREptcHlRNXREUGNfNHdzVHZLS1pkcjFYMU9HOWFRMGNNbUlOQXIySE1JTmwwRkxFOUpWZzRVNTJvRVZaekFyMXhmWklqbkprNDhBbG04aWlpZUpa?oc=5)
 
 ---
 
@@ -113,6 +89,14 @@ permalink: /news/insulin-detemir/
 2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+
+---
+
+### [Los expertos coinciden: este es el mejor desayuno para las personas con diabetes - La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWJXSkI0WE9pOE1pc2JTUTRwUWtMU19vSXN3WFc5SlBFWllyTmVFenRIWmZTdjVCZUV2bW5INFoxSmJDem0xa21XTEtmb0NFNlpTV1RmS0F3RWxiMlYwRHJQQTdLeS1yREdwODZuZC1iWTJ2V1IzTlozdzBSRUJBZmxZc1BZejhKelJCRFd6QnBnRHZqc1NDYkJlX2hVNHcwU0tMNThYel9kMGZIekpjYlBUb18tN016alJ2bGlMQnbSAdQBQVVfeXFMTVlaeUc3V0FWbkZ6aWhvTHJTNTBPNGpBdDNBcjBwenRhekdhckJFNklWOHZnRVNYU1k0dWU4czRtSURvZkdpZ2twZjI5dWVwMWlDb2p5bkIwX2NJVWg0ZFFhdHpPM2wwSUEzU3dMTVVJbU4yLW50aFFIa3N2cWFCVk0wSGpOenI1NVBsV09velJIdzc1NUdJQ0xYUGV4UkhuWjdNaVI4Si1NWWRyZXNKdloyUWRzQU9DNTZwc1ozVjFYUEZMZTg5ZWk4WUVoY040c280bXM?oc=5)
+
+2026-08-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWJXSkI0WE9pOE1pc2JTUTRwUWtMU19vSXN3WFc5SlBFWllyTmVFenRIWmZTdjVCZUV2bW5INFoxSmJDem0xa21XTEtmb0NFNlpTV1RmS0F3RWxiMlYwRHJQQTdLeS1yREdwODZuZC1iWTJ2V1IzTlozdzBSRUJBZmxZc1BZejhKelJCRFd6QnBnRHZqc1NDYkJlX2hVNHcwU0tMNThYel9kMGZIekpjYlBUb18tN016alJ2bGlMQnbSAdQBQVVfeXFMTVlaeUc3V0FWbkZ6aWhvTHJTNTBPNGpBdDNBcjBwenRhekdhckJFNklWOHZnRVNYU1k0dWU4czRtSURvZkdpZ2twZjI5dWVwMWlDb2p5bkIwX2NJVWg0ZFFhdHpPM2wwSUEzU3dMTVVJbU4yLW50aFFIa3N2cWFCVk0wSGpOenI1NVBsV09velJIdzc1NUdJQ0xYUGV4UkhuWjdNaVI4Si1NWWRyZXNKdloyUWRzQU9DNTZwc1ozVjFYUEZMZTg5ZWk4WUVoY040c280bXM?oc=5)
 
 ---
 

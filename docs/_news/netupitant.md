@@ -62,11 +62,11 @@ permalink: /news/netupitant/
 
 ---
 
-### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 ---
 

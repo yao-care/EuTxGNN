@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,29 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [Dieta keto vs. mediterránea: cuál mostró mayores beneficios para el hígado graso, según un estudio](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHZqRFBmRzJja3FwUTJJMW1GeUF3dFRWN1k1dDdwWDBtaVZVSzY4b3c2S29iVHNrTnNnckdjT2FVVllGeC10ZTNwaXVLTmpCUmlHVzA3UXVjd3psNkJoSUVVRTVYRGRqOE4yWW81R2lSOFE1RlVYRGlfX0xuVzdleTBNX2t3TU1JU2p0U3FWNUQ5RndmNElOQ2RWSGFNS01KT2FUaEFrSmVQS19yV1ZjUk1FS1BKN3hweDlXRFAzaXdzTXh0MjZjMmtma2lkQ1VLOGNn0gHuAUFVX3lxTE43c3JZbkFaTDc2UnUzWFZKRUJETjlmUGY3amFtSkE0TGJfbmlnb2RvdTYxQ2pUdEI2RTlCVmZTbV9ZaDFEMW1kMGtkNjBXcGhVZ0JsbUFKdm9hUGUzdHdJa0dSY05kX1IwQ2dfbmJoSU42QTVZWjBydFNqZC1QdVM0WVQ0TWxUdFdhT3VPRFdvM0xnSDhKcnl0S2gzaUxYSE5RamI5dml1QlllU3lfSm4xc2JNTDNUV2VJVWhkZ28xdHpVNVROcWtfUjNMRUt5STBzQ19jcFJDSWRFanc0UC1HUnIwS2RkU3BNcV9sc2c?oc=5)
 
 2026-08-28
 
 來源：[Infobae](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHZqRFBmRzJja3FwUTJJMW1GeUF3dFRWN1k1dDdwWDBtaVZVSzY4b3c2S29iVHNrTnNnckdjT2FVVllGeC10ZTNwaXVLTmpCUmlHVzA3UXVjd3psNkJoSUVVRTVYRGRqOE4yWW81R2lSOFE1RlVYRGlfX0xuVzdleTBNX2t3TU1JU2p0U3FWNUQ5RndmNElOQ2RWSGFNS01KT2FUaEFrSmVQS19yV1ZjUk1FS1BKN3hweDlXRFAzaXdzTXh0MjZjMmtma2lkQ1VLOGNn0gHuAUFVX3lxTE43c3JZbkFaTDc2UnUzWFZKRUJETjlmUGY3amFtSkE0TGJfbmlnb2RvdTYxQ2pUdEI2RTlCVmZTbV9ZaDFEMW1kMGtkNjBXcGhVZ0JsbUFKdm9hUGUzdHdJa0dSY05kX1IwQ2dfbmJoSU42QTVZWjBydFNqZC1QdVM0WVQ0TWxUdFdhT3VPRFdvM0xnSDhKcnl0S2gzaUxYSE5RamI5dml1QlllU3lfSm4xc2JNTDNUV2VJVWhkZ28xdHpVNVROcWtfUjNMRUt5STBzQ19jcFJDSWRFanc0UC1HUnIwS2RkU3BNcV9sc2c?oc=5)
-
----
-
-### [Keto bei Adipositas: Studie zeigt Vorteile für Leber- und Stoffwechselgesundheit - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
-2026-08-28
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWtRQW1BRWJsbVZieFNJR09oaFUyaTczeHpLdFV4M0FaR1JDR1RaODlxWnFkSE1BQkkwMDZBV0ZmSEdGUEFJNXE0Z3lUa3dTNTZPSW5RUTIwSkItdjlTQkUzc2JOTWw3OTZha1NULVJ4eWZLZW4zM0lwc0p4NFI0anNQeEFmWDlKTkthd09SWmZWdzduRzBHSGhrek0yaHlBczFXQ2l6ZG5FR3RjQ3JWbQ?oc=5)
-
----
-
-### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
-2026-08-27
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 

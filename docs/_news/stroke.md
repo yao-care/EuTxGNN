@@ -41,6 +41,14 @@ permalink: /news/stroke/
 
 ## 相關新聞（14 則）
 
+### [Statine dopo i 70 anni, il grande trial scioglie un dubbio durato decenni](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
+
+2026-08-29
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
+
+---
+
 ### [Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
 
 2026-08-29
@@ -81,27 +89,19 @@ permalink: /news/stroke/
 
 ---
 
-### [The #1 Nutrient for Reducing Stroke Risk, According to Dietitians](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMFUwQUlUbTZaZzMzOGxXakVHenB4bllLZktLRUFGdU95My1oQnlaaTFETG92ZHI4UklLQXpRaHkzU2VWQnk2R2xlTGVKaUhueHlKRG9BSXphMFNyWkNxV2JrSlRYa3BhQzczSElYUVU5YmExZ0RLSEg0ZFBsV2c?oc=5)
+### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 2026-08-28
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMFUwQUlUbTZaZzMzOGxXakVHenB4bllLZktLRUFGdU95My1oQnlaaTFETG92ZHI4UklLQXpRaHkzU2VWQnk2R2xlTGVKaUhueHlKRG9BSXphMFNyWkNxV2JrSlRYa3BhQzczSElYUVU5YmExZ0RLSEg0ZFBsV2c?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 ---
 
-### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+### [Alzheimer & Co.: Gehirngesundheit im Fokus - Pharma Fakten](https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDcya3hTejAwaENaZnBBWEEzcEVHWG5Pb3dFck8xSmN4THhFTXI3OW1iS1NCdHMxdzZRTDFJSkZvWHVsWWVVajZrZEpURGFaeHFlSDFtLTV0QnRqcjBVR2JuUThteWdTVEVDNmozSGJmamZaNW1UTQ?oc=5)
 
 2026-08-28
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
-
----
-
-### [Demenzerkrankungen: "riesiges Potenzial für Prävention" - Pharma Fakten](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbThnbFFiM210SUs4bU1DNWtmd2d3OGstcmRYbkNmMXFMejBQQ3BXUmVmcWxUTnRSVzRyUi05VGlWWVRIRVV5THZzcFdRSjZDUjRQbXF6cGEyZ1lNdVlsYVc1YzUxamYwRk93SG42RU5nWDFQeFJ6bUdTbU84VnRzdjBpRTFZTzBpTW1VRXN3?oc=5)
-
-2026-08-28
-
-來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbThnbFFiM210SUs4bU1DNWtmd2d3OGstcmRYbkNmMXFMejBQQ3BXUmVmcWxUTnRSVzRyUi05VGlWWVRIRVV5THZzcFdRSjZDUjRQbXF6cGEyZ1lNdVlsYVc1YzUxamYwRk93SG42RU5nWDFQeFJ6bUdTbU84VnRzdjBpRTFZTzBpTW1VRXN3?oc=5)
+來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDcya3hTejAwaENaZnBBWEEzcEVHWG5Pb3dFck8xSmN4THhFTXI3OW1iS1NCdHMxdzZRTDFJSkZvWHVsWWVVajZrZEpURGFaeHFlSDFtLTV0QnRqcjBVR2JuUThteWdTVEVDNmozSGJmamZaNW1UTQ?oc=5)
 
 ---
 

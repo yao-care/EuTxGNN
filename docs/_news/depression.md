@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,21 +35,29 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### ["La depressione? Ci sono forme resistenti per le quali sperimentiamo nuovi farmaci. Se penso ai pazienti che non vedo più? Sì, vorrei sapere se hanno superato le fragilità che li hanno condotti da me": parla Massimo Ammaniti - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNOEh3XzNlNXlXel9McUJsVDBUU0pfZ2lUU1pSNDg5MkxjRHVDOXNKcjcwM19Ia19DdUM0d1MwNFJfZGhPNk1JZk03N0R0eXAxOEh4aUlnWUZRMWZjeVNfU01NdFV5dVNvX3Z3Mmh5enFEdEtWUl9JcFBpMnZIclJ1bVVVQVMyam5hVjFLMnljTzRWWGhOQjYtbGM3Q0c3Z3NtcVdvNU9zdU0ycE5GdHcwczl5b05lOFF3MWZTT2lsWG04WFJYQnY2cGdWMG1MM1hGczJscmxOemhDeU1CVy10bDMxOVlhU21ER2s1bDE0bXV4MmdsMEk2Y0lNb1RVd2ZYNm5selZrR242NkpsbWlkZHdpTVBvYVJRWVdnY2dTZlR6Z0tzdTN1ZFpYOVBNNGs3ZFhNRG9VMWxLUzhCMjdaLWdBd1o3VlQ3Z1FfU2ozSFNDMXhUQ1p3Y3FJTTdHT3pMRWpRaEh3?oc=5)
+### [L'uso eccessivo dei social è collegato alla depressione](https://news.google.com/rss/articles/CBMiekFVX3lxTE9tNDltTWdFZVVFaXhBYjJaNTdqZnZvVF90aXF1Y2E3VEJzZGZkazh6NmdKS2NFQmlyRU9rV3F2aHRBcnlxMFhWWG1QQmNMRFUwYm56LUhZWTB0YTRmVk9NbUNRVFpwSTNWX3hMc1Vrb2lvWlN1bGRmRU93?oc=5)
 
-2026-08-28
+2026-08-29
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNOEh3XzNlNXlXel9McUJsVDBUU0pfZ2lUU1pSNDg5MkxjRHVDOXNKcjcwM19Ia19DdUM0d1MwNFJfZGhPNk1JZk03N0R0eXAxOEh4aUlnWUZRMWZjeVNfU01NdFV5dVNvX3Z3Mmh5enFEdEtWUl9JcFBpMnZIclJ1bVVVQVMyam5hVjFLMnljTzRWWGhOQjYtbGM3Q0c3Z3NtcVdvNU9zdU0ycE5GdHcwczl5b05lOFF3MWZTT2lsWG04WFJYQnY2cGdWMG1MM1hGczJscmxOemhDeU1CVy10bDMxOVlhU21ER2s1bDE0bXV4MmdsMEk2Y0lNb1RVd2ZYNm5selZrR242NkpsbWlkZHdpTVBvYVJRWVdnY2dTZlR6Z0tzdTN1ZFpYOVBNNGs3ZFhNRG9VMWxLUzhCMjdaLWdBd1o3VlQ3Z1FfU2ozSFNDMXhUQ1p3Y3FJTTdHT3pMRWpRaEh3?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMiekFVX3lxTE9tNDltTWdFZVVFaXhBYjJaNTdqZnZvVF90aXF1Y2E3VEJzZGZkazh6NmdKS2NFQmlyRU9rV3F2aHRBcnlxMFhWWG1QQmNMRFUwYm56LUhZWTB0YTRmVk9NbUNRVFpwSTNWX3hMc1Vrb2lvWlN1bGRmRU93?oc=5)
 
 ---
 
-### [Alzheimer-Früherkennung: Depressionen deuten auf Tau-Ablagerungen hin](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0ZwUUs4bWJPNnpiUEJHU3FjNE1lenRSLU95MVRlVFF3d24wdXhTLWl0LUVGZFhwT1lXU3pEMGVpQmg0Ty02MU13Mnc3MDV4RFFNZEdKd0F0cVhFSjNmdV9NRXdzel9fN2p1Rjg1c3dSUVczUUdibDM5N01mRVVfZ293aTFqVFBtQnIyMTUwc1QtRnR5ODdQalhvbVdITFRkQzh1a0MzTnA0emVNMWVEWW9oNkVQR25WNXc?oc=5)
+### [Alzheimer-Früherkennung: Depressionen deuten auf Tau-Ablagerungen hin - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0ZwUUs4bWJPNnpiUEJHU3FjNE1lenRSLU95MVRlVFF3d24wdXhTLWl0LUVGZFhwT1lXU3pEMGVpQmg0Ty02MU13Mnc3MDV4RFFNZEdKd0F0cVhFSjNmdV9NRXdzel9fN2p1Rjg1c3dSUVczUUdibDM5N01mRVVfZ293aTFqVFBtQnIyMTUwc1QtRnR5ODdQalhvbVdITFRkQzh1a0MzTnA0emVNMWVEWW9oNkVQR25WNXc?oc=5)
 
 2026-08-26
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0ZwUUs4bWJPNnpiUEJHU3FjNE1lenRSLU95MVRlVFF3d24wdXhTLWl0LUVGZFhwT1lXU3pEMGVpQmg0Ty02MU13Mnc3MDV4RFFNZEdKd0F0cVhFSjNmdV9NRXdzel9fN2p1Rjg1c3dSUVczUUdibDM5N01mRVVfZ293aTFqVFBtQnIyMTUwc1QtRnR5ODdQalhvbVdITFRkQzh1a0MzTnA0emVNMWVEWW9oNkVQR25WNXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0ZwUUs4bWJPNnpiUEJHU3FjNE1lenRSLU95MVRlVFF3d24wdXhTLWl0LUVGZFhwT1lXU3pEMGVpQmg0Ty02MU13Mnc3MDV4RFFNZEdKd0F0cVhFSjNmdV9NRXdzel9fN2p1Rjg1c3dSUVczUUdibDM5N01mRVVfZ293aTFqVFBtQnIyMTUwc1QtRnR5ODdQalhvbVdITFRkQzh1a0MzTnA0emVNMWVEWW9oNkVQR25WNXc?oc=5)
+
+---
+
+### [Descubren el vínculo entre el deterioro anímico y el origen del Alzheimer - Libertad Digital](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczRmeS1HeDFfUEFDUklMWXdMLTZ4WHRHaVBCSUR5dmhBYWFMT2VKdnExczhIU0hkZ2hCLVBNUU5vcHRaRUcxeUNWdU9PVkR5SklpRVdFeU94OXc1SmdkNW5aSGc5WGVSc2xOM0drM2J5ankxcmxQT190WHJhbDNQMFN2RkJTbFVudTlzd29kcXVoOU0yRlJnX0JKODJJOHN1SjgtbTdFSEE2WWlHa0U4eXFFWVBOMjhDMGFhOGJTQkw5YjVtYWFGSWZFQWNOZGJDWEEwQXNPUEs5WGVqdTZvNC1tSmzSAe8BQVVfeXFMT0w5Sk1IcnAwOC1pbk41LVZFN2hOdENGTGtDY3paVzZyLV9Jc082cTIzamt6S1dfZ0tWd3FiY1I4bHliUmthR3o3dXpYZ3k5aGRlUmgzaWJoTEdQdjlHRVY1WVl6UFdPZGhJSXFxNkdoenhqTDlINnlrdGdVTG9sR0h4X0NoWlp2RkpNRU9jMmJQcVlTZV9Gckw0UlZIM3hmOFU1ZEVxVVlkZjFOWmpUbm1pWG5CbFVmdk9uSHpDdnhCQlMzTkxzc3p1X2dQRUY4dFJWTzRZMFRYdS02d2J6eXctdF9oQVFMXzZaT0xMeDg?oc=5)
+
+2026-08-25
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczRmeS1HeDFfUEFDUklMWXdMLTZ4WHRHaVBCSUR5dmhBYWFMT2VKdnExczhIU0hkZ2hCLVBNUU5vcHRaRUcxeUNWdU9PVkR5SklpRVdFeU94OXc1SmdkNW5aSGc5WGVSc2xOM0drM2J5ankxcmxQT190WHJhbDNQMFN2RkJTbFVudTlzd29kcXVoOU0yRlJnX0JKODJJOHN1SjgtbTdFSEE2WWlHa0U4eXFFWVBOMjhDMGFhOGJTQkw5YjVtYWFGSWZFQWNOZGJDWEEwQXNPUEs5WGVqdTZvNC1tSmzSAe8BQVVfeXFMT0w5Sk1IcnAwOC1pbk41LVZFN2hOdENGTGtDY3paVzZyLV9Jc082cTIzamt6S1dfZ0tWd3FiY1I4bHliUmthR3o3dXpYZ3k5aGRlUmgzaWJoTEdQdjlHRVY1WVl6UFdPZGhJSXFxNkdoenhqTDlINnlrdGdVTG9sR0h4X0NoWlp2RkpNRU9jMmJQcVlTZV9Gckw0UlZIM3hmOFU1ZEVxVVlkZjFOWmpUbm1pWG5CbFVmdk9uSHpDdnhCQlMzTkxzc3p1X2dQRUY4dFJWTzRZMFRYdS02d2J6eXctdF9oQVFMXzZaT0xMeDg?oc=5)
 
 ---
 
