@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Dieta Keto o dieta mediterránea, ¿quién gana? Tú hígado lo tiene claro](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0tNZ2dtVlNOX241QzNxWTZYRkpYTEJEUDd4T1VNZzIyS3NOeUpRR3AwM3ZRWTdsZENXOEFWZVkwb2dyd1pKQnlfSFRscy1vSkFHN016bEVQRWIwMkVFcGlaVGVOeEg4SjlMZ0xhOWQ1blBQQWgtRVJXRWloRUpiTGE4V1F6MEpRMTBoRzlnZUVyN01WQlFTV0wwMTJCczBnZGVQeGhEMF95VkZreFE?oc=5)
 
@@ -62,14 +62,6 @@ permalink: /news/obesity/
 
 ---
 
-### [The middle-aged disease that makes you feel tired and often goes undiagnosed - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
-
-2026-08-27
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
-
----
-
 ### [Neue Adipositasdefinition könnte bei Auswahl bariatrischer Eingriffe helfen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0pDTG9DNE9HY3QyM2xnY0k4REpsTEh6OFU2NFdnRVlyMVdEdUE0a2FTSzNWRUpqaC1EcXRBNE1mbmJYZmNjWDZQR09xS0RvTHhJUEd6bUlwN3g4SDhNMGRpcWVCYUd5dzFtQkdMMWJQdmw3SmIzcGJUdU5TdE5TMzNoblhpT1I4NkdkSXRKUE9RcHh1RTFhZ0hHLUhma2lJcThzdkFoQXlSRFRKTEsxc0tJM2V4a1ZJclBrY3ZjbWYyYjJibWl0OE16WUo4ZHNxdG1zRzRUNmNPdzE4?oc=5)
 
 2026-08-27
@@ -78,11 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [La obesidad tiene que dejar de ser un problema de salud pública](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
+### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
 
-2026-08-27
+2026-08-26
 
-來源：[AEC2](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
 
 ---
 

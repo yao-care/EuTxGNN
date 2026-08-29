@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
+
+2026-08-29 <span class="news-indication-tag">arthritis</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
+
+---
 
 ### [Artrite reumatoide, le cellule Car T efficaci sui casi difficili](https://news.google.com/rss/articles/CBMiiAJBVV95cUxObDB3MnpVU2I4STZhNVVodUl3RVVFTXZyLXlHM2JoSml6Zm1wcTFocGVoaUVWd0pmMDJNcE44YlpOQ1Y5c1pfaU1paERLbVRvOWRlWWlwOWhOZ3R4LVJ5eFVYN2xWOWNXT215UHZ2S1FlcFN3SlZTMENJS1FLVjAwVi0zMXlrNkhEM0tkNGhXRnpwSVcxQU1lTlVydUg4WWYwcGlKaWczb19hMUppcG1OQW5uTllweFdUb3NVeXNBcHFpVFpNYS1iaG1EODI5WVhjbDktSzVRTDUxYldzdnpmSS1QVnp6TVRNOEJsazgtUzBrQURXV01KYWVFdTBjaGtBS2FmdUV6TWHSAY4CQVVfeXFMT29KR1hpMVc3aTN2VmpweGJVVGFHNUZ0a3RHc2VacEJpQUFRX0l6dEhXSUxETm5lQ1ZqRmlSa0thZm8yQ3ByUDh6UFFMd2ttMkNYc3BsbkFOX2tjNml1Z1pKcl8wS3I3djNRQWFpcUNLSFpTcHI1S19ud1dLUTh1Y3lsWmMzdGlubmVRMWFOMmFmclRuUGVGX2ttWTc5N2lfNFRGbkFnNnN6ZzQ3dXN0SENSSk1RVnJpZHVENW5UZjVobUxhb0p5dm5VcE4tb043bWotSXJkcDVZYWhFSUVpQlNJWEFpTUxieXhsYy1ndlBBS256Nkd3b1J6TDN4TnNBRmd0cWNSa0VVUUZ3cWNB?oc=5)
 
@@ -86,22 +94,6 @@ permalink: /news/golimumab/
 
 ---
 
-### [Zelltherapie bei schwerer rheumatoider Arthritis erfolgreich - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
-
-2026-08-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
-
----
-
-### [Could a 20-Year-Old Drug Repair Cartilage Damaged by Osteoarthritis? A Yale Study Suggests It Can](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
-
-2026-08-25 <span class="news-indication-tag">arthritis</span>
-
-來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
-
----
-
 ### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
@@ -110,7 +102,7 @@ permalink: /news/golimumab/
 
 ---
 
-### [Common Rheumatoid Arthritis Drug May Support Hair Regrowth in Alopecia](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
+### [Alopecia: Common Arthritis Drug Shows Promise for Hair Regrowth](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
 

@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
 
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
+### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
 
-2026-08-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-08-29 <span class="news-indication-tag">arthritis</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
+
+---
+
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
+
+2026-08-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
 
 ---
 
@@ -94,14 +102,6 @@ permalink: /news/memantine-hydrochloride/
 
 ---
 
-### [Bluthochdruck ab 30: Jeder +10 mmHg steigert Herzrisiko um 27%](https://news.google.com/rss/articles/CBMitwFBVV95cUxObHZ5TlFSb0JiSktYNEhrT1V6YkJyZlRkM3JJR2lJcUdpSU04a0dqbWVULXd2azFmWktPMnhSbjJjdTBQNS1XLWNnNVN3R0dzLThEVHIweG5vdVllbFZ3U1dpMXk2M3puX0ViZnBobmI2ZmxCSUtybDB6bFltYV9yWDAwaHR1VzRoMWFQMUtoQmdKYzB0bTVpT1Nibmc3SGRJQV9oQTI1a3NwYVZzNHpfd21lNFRPS0E?oc=5)
-
-2026-08-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxObHZ5TlFSb0JiSktYNEhrT1V6YkJyZlRkM3JJR2lJcUdpSU04a0dqbWVULXd2azFmWktPMnhSbjJjdTBQNS1XLWNnNVN3R0dzLThEVHIweG5vdVllbFZ3U1dpMXk2M3puX0ViZnBobmI2ZmxCSUtybDB6bFltYV9yWDAwaHR1VzRoMWFQMUtoQmdKYzB0bTVpT1Nibmc3SGRJQV9oQTI1a3NwYVZzNHpfd21lNFRPS0E?oc=5)
-
----
-
 ### [Mammograms could be used to identify heart disease in women - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2RfMWVCemU4dENkU215b20xSTltSE5WdVBVeWg1WjBqX29FdEdLSlVhdVdEWWYxa2lQOUh5ckpoaWlnd3g1VlltaDVOY2FwSFhjcVdBdFQxdXpta01ENUt1S3pfUElLZWlxNWw0d2ZBNkN3MEhLbVhiVk0tcEhPb1N1LXoyTVl6NGdBcjJXMGQ3Rzc2?oc=5)
 
 2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
@@ -118,35 +118,11 @@ permalink: /news/memantine-hydrochloride/
 
 ---
 
-### [Zelltherapie bei schwerer rheumatoider Arthritis erfolgreich - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
-
-2026-08-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TYngwY3Fsa1NDY1Qtb0Nic1o2QUUwMHlmb1dVQ3B5Nmlac0lzZExjREtEU05ZNWoyT0puSThfZFdNUW1LSVYwc0VnNA?oc=5)
-
----
-
-### [Scientists Find Signs of Artery Damage in Nearly 8 in 10 Young Adults](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVJaNUxWLXdWa28zaDI2QlQ2SGs1c2YzNFBldmdXeTNucFVmQ2VweDhfYVFmaUpLWkI2MTRVR0pycDFNbU5BWG8wdldjRFhwcDcwZUZld2JhVjVwXzMzVFhVcTdyS0ZiXzNIdlVVdzRjcW45MFJlRHN6WmNyUGlmN0M2ZlZ0TlpFRWlWMGpoYlg0UkZmT3YzbjdIYTgyR0swWk12LXJCdWdDdw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart disease</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVJaNUxWLXdWa28zaDI2QlQ2SGs1c2YzNFBldmdXeTNucFVmQ2VweDhfYVFmaUpLWkI2MTRVR0pycDFNbU5BWG8wdldjRFhwcDcwZUZld2JhVjVwXzMzVFhVcTdyS0ZiXzNIdlVVdzRjcW45MFJlRHN6WmNyUGlmN0M2ZlZ0TlpFRWlWMGpoYlg0UkZmT3YzbjdIYTgyR0swWk12LXJCdWdDdw?oc=5)
-
----
-
 ### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
 
 2026-08-26 <span class="news-indication-tag">Migräne</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
-
----
-
-### [Could a 20-Year-Old Drug Repair Cartilage Damaged by Osteoarthritis? A Yale Study Suggests It Can](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
-
-2026-08-25 <span class="news-indication-tag">arthritis</span>
-
-來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3pKVHVtYV9GZ3ZjcTM3cEx5NkFjakt2bkdCaGZFaGxBZjg5VFpNUzFEVFVHTnA5UmVIa09JclA1dTJSWVg2M2pLNDVpLWwtTTMtcW1wOHotQ3hMLVBxOEFwSFU5MU1mUlBIU1R4Y3kzRmMxMTZVLW85Zi0yWXdNOVhMRXZ1TEJOTTcyNk1qODNnRXBRQXVUdDIwMmtkUzJWOGE2X2hpMTZWT3BucEFhZmFuSVVIMEZma0xvUTdzZFhiZV9xQlFvUGcxU2xsZw?oc=5)
 
 ---
 
@@ -158,7 +134,7 @@ permalink: /news/memantine-hydrochloride/
 
 ---
 
-### [Common Rheumatoid Arthritis Drug May Support Hair Regrowth in Alopecia](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
+### [Alopecia: Common Arthritis Drug Shows Promise for Hair Regrowth](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGF6cTBpUUtRcXJTc2RuMFFSeVRVVjIzaUVkSXRpWGdSemh2cWdEM1p6X3VfSHlBY09nUklfbndTU2pVRnNiZHhwSXVSV0c5al9DOHJRZnRsM1U0dXc3UWhISE9ULVZCbFFUUkw3cUNlWjN0ZU4tOEFqdkZiQUx5V05Yb08yNUFHdks2bTI2LXRlQQ?oc=5)
 
 2026-08-24 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
 

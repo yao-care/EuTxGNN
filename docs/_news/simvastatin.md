@@ -54,6 +54,14 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（14 則）
 
+### [Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
+
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
+
+---
+
 ### [Xilitolo, dolcificante di chewing gum e marmellate, sotto accusa: rischi di infarto e ictus più alti - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkFzTlMwYl9CckN4WmdLZnkxeVFVRmVWMkRZVWZFaWpMLVE2eDBCQVF3YkliU055RWNGcldEbVozZFFFR3NTR0RVNGxCakV4b0V6MnFtTklLWnM4R0ZJajlBREp2MzM5ZGpNS0JhcUdyUzVYejdTbTgwVHBtTXN5X1h1SlhoMzVyY1F0ZlQ3VE9KOVJFV1Z0Y0FGRk0yNnNIbXRqZjZXT3ppWDV3Q3ZtSzBDODZMZ1hVXzAw0gGuAUFVX3lxTE03UUhmekhDN0lDb05CMUtVSzdRbWYydHZ6LUwwLWs5Snp2Ym40VFhrSDdmVGlyT0xMQXRhSk1QN2lRNHl4bWM2cTZuMG5JM0loRTFDcndEa1RPNG9MaUFRbnVUVmN2STBNQ3V2R1d5RE1sNEFCLWVlM1RDTEZGS0kxQVRVRzM3bTRhdzMtaDItTFFlSjdNamUwMUpDX0MwY0JCY2NQV0tUaFB0ZFRoUQ?oc=5)
 
 2026-08-28 <span class="news-indication-tag">ictus</span>
@@ -70,19 +78,19 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Sweetener used in chewing gum may raise heart and stroke risk - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTFxSzZkc0Rlc0xGcm9aUG9RdzFvUnRmTl9Nd29yVVBaYkRZRTZEc2s4T3JtUVNublNLRGI0MmJaQmU2Tk1sUzBfdFNuZUVsc0NLeGZ2OXVhX1I3aXBSS2VjdkxiOUNETXlHeUFEb2UtLURycGNlS28xRmpBS3p3dUNPai1MaThhUjJScUIzdDBOUXNCckJNVV9SQVB5ZzNhNHN2cDhoa0N4b0tONmc?oc=5)
+### [Rekombinante Zoster-Impfung mit geringerem kardiovaskulärem Risiko assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEQxeXM5dlVlTUNvSk0yUWN2Q3ZvajN4RzgtbDN6SDFoVl9xNVg2MWpJOENoSzJ5a0F6U2YtYnlBdTlibWQ5WElkVm1GS1B0N2lrQmlaV2xwUzUwU05Tb1ZWV045Y0pOVWRLcGoxeVh3MGpBSXFTeUtoR1BCYmstNG1vY3FiZE9kU1RqNmhlRHdackEtTGNObkduTHk0QkdCTGRYdTNFcDI4alpUMENlVERWU280dzJlQ3l4aHJlWk9heFpEZ1pqcXN1R1pXSFhFb1FEandmUlUtMTRReGRr?oc=5)
 
-2026-08-28 <span class="news-indication-tag">stroke</span>
+2026-08-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTFxSzZkc0Rlc0xGcm9aUG9RdzFvUnRmTl9Nd29yVVBaYkRZRTZEc2s4T3JtUVNublNLRGI0MmJaQmU2Tk1sUzBfdFNuZUVsc0NLeGZ2OXVhX1I3aXBSS2VjdkxiOUNETXlHeUFEb2UtLURycGNlS28xRmpBS3p3dUNPai1MaThhUjJScUIzdDBOUXNCckJNVV9SQVB5ZzNhNHN2cDhoa0N4b0tONmc?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEQxeXM5dlVlTUNvSk0yUWN2Q3ZvajN4RzgtbDN6SDFoVl9xNVg2MWpJOENoSzJ5a0F6U2YtYnlBdTlibWQ5WElkVm1GS1B0N2lrQmlaV2xwUzUwU05Tb1ZWV045Y0pOVWRLcGoxeVh3MGpBSXFTeUtoR1BCYmstNG1vY3FiZE9kU1RqNmhlRHdackEtTGNObkduTHk0QkdCTGRYdTNFcDI4alpUMENlVERWU280dzJlQ3l4aHJlWk9heFpEZ1pqcXN1R1pXSFhFb1FEandmUlUtMTRReGRr?oc=5)
 
 ---
 
-### [Süßstoff Xylitol womöglich mit kardiovaskulären Risiken assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkpncndHRExOQWgyUGNZeENmMmNmekk4M2dfVlBNRXRZeHl2Q3NmYVE3cWUxUHg0T2FmX1RzNWRaTmN2SHRoY2JrTC0xU056WGM5NXBuWTUydjh1a0tTblotMVBMTHFJUGx0Y1NPX1V1dlcxNDg3czlIbWk4dGNRSURrbW9MY0xxWnpFNjVYRG81YXFHWVZ4LXlPMkE5M25wQWsxZXVFcWdLaGdtZVhqTFRkd09vblFWLXAzR3lvYWVoMDgyN01QWW1JYkN0V2F4eFE?oc=5)
+### [Sweetener linked to heart attacks found in chewing gum - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVCSFNsUE04WTVpdEp2VXlha1NHV01mVnpBSzB2ZHlsTTMzQ1lzcDBWeTktVWlwOGFwVThOd3hVcTlDRmtKbGg3a3FQUFNqcU15NnN5WVh5R21uVFdDc0pBVE02TTR1ZmswOEI2Q1g4M2JZY3A0SG5wRi1oVUg2YlEzc0FEc01ETGc1NENn?oc=5)
 
-2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-28 <span class="news-indication-tag">stroke</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkpncndHRExOQWgyUGNZeENmMmNmekk4M2dfVlBNRXRZeHl2Q3NmYVE3cWUxUHg0T2FmX1RzNWRaTmN2SHRoY2JrTC0xU056WGM5NXBuWTUydjh1a0tTblotMVBMTHFJUGx0Y1NPX1V1dlcxNDg3czlIbWk4dGNRSURrbW9MY0xxWnpFNjVYRG81YXFHWVZ4LXlPMkE5M25wQWsxZXVFcWdLaGdtZVhqTFRkd09vblFWLXAzR3lvYWVoMDgyN01QWW1JYkN0V2F4eFE?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVCSFNsUE04WTVpdEp2VXlha1NHV01mVnpBSzB2ZHlsTTMzQ1lzcDBWeTktVWlwOGFwVThOd3hVcTlDRmtKbGg3a3FQUFNqcU15NnN5WVh5R21uVFdDc0pBVE02TTR1ZmswOEI2Q1g4M2JZY3A0SG5wRi1oVUg2YlEzc0FEc01ETGc1NENn?oc=5)
 
 ---
 
@@ -99,6 +107,14 @@ permalink: /news/simvastatin/
 2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbThnbFFiM210SUs4bU1DNWtmd2d3OGstcmRYbkNmMXFMejBQQ3BXUmVmcWxUTnRSVzRyUi05VGlWWVRIRVV5THZzcFdRSjZDUjRQbXF6cGEyZ1lNdVlsYVc1YzUxamYwRk93SG42RU5nWDFQeFJ6bUdTbU84VnRzdjBpRTFZTzBpTW1VRXN3?oc=5)
+
+---
+
+### [La genética ya permite distinguir qué pacientes con arteritis tienen más riesgo de sufrir ceguera, ictus o aneurismas](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSVZWWTR0V0xVYWlTbUpxUGk0MncwMWRHX09CdVB1bktGN1lFcmRaaVFtRUpzWG4zdFVidHZFeFdjbHgwWkIxaEhNMzZmUlhGS01MNWdkVDdhY1RkMkxOem1ldEkyNG5xbHl1RjlQMFZ5NTZkalBWMTJKeEV3Q042bzhRZzktZ0tHckdDdm1ueDFEcTV3ZU1UN0xuVG9JSzZxS2dSZU4wb1pPNVFNZFFJdE9YbzQyT3JiQnFYRmp5djNfNVhFZEtRdEdvODJ0Y1VWdVlteFhYWThGcVBMbEM3d09QZTI4WWR2U19NeA?oc=5)
+
+2026-08-28 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSVZWWTR0V0xVYWlTbUpxUGk0MncwMWRHX09CdVB1bktGN1lFcmRaaVFtRUpzWG4zdFVidHZFeFdjbHgwWkIxaEhNMzZmUlhGS01MNWdkVDdhY1RkMkxOem1ldEkyNG5xbHl1RjlQMFZ5NTZkalBWMTJKeEV3Q042bzhRZzktZ0tHckdDdm1ueDFEcTV3ZU1UN0xuVG9JSzZxS2dSZU4wb1pPNVFNZFFJdE9YbzQyT3JiQnFYRmp5djNfNVhFZEtRdEdvODJ0Y1VWdVlteFhYWThGcVBMbEM3d09QZTI4WWR2U19NeA?oc=5)
 
 ---
 
@@ -130,23 +146,7 @@ permalink: /news/simvastatin/
 
 2026-08-27 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEpZWTZOTGFQcnFJM2V5UEdPRzlHOS0xaDRFT2FtM29WdVB0dDdCaUkzalJidWNtQ2QxWFZfdTlITWpHcFFQeERRZ2FpQVlrT2lPb0hfRk8xNlVad0FFNXZrUWNtYU9lRlc1TXk4dnZjNm5jdG9ENVpPQjJyQUtPazY0TGRhTlEtVk1Mb01uRjl4cXJJYkprRUtkZE52eHFpRk8yS3NYbjhtbkk5Z2pKandsREFZNHlCUkR1WHJB?oc=5)
-
----
-
-### [El descubrimiento que puede ayudar a avanzar hacia una medicina más personalizada para la arteritis de células gigantes: encuentran marcadores genéticos vinculados a sus distintas manifestaciones - El Economista](https://news.google.com/rss/articles/CBMilwNBVV95cUxQZF96M0J4UHI3Um5tVGpVbEdndzA4UWl6WUo2U1g2Y2g4TDdXWkNmb2JDVVNGaWRZcXBWQm5VaTlzQ0g0c2ZvWi1UN2xLdHk0b3U1YTkyWDBUbjNZNktDdVQyc1dwUWVLOHQ4eGVTRkZDekNCWUx4NXg5S2ktZWNMMWRVNzJpLU5nSlVyeWJqdmYzSFJ2VWRTVTdwV3NONXg3QWF0bEduV20tZ2JoRWVhZTZUdGZMRjByZUEtLWZ2alR1bW9qTzBSa2xRR2ZVWC1mQ0hEVDFtOGMxekhKWW83TVo5WTl5aWFJSlhFdEtjYXViOGY2Q1FXbzlEcU9kZFZEb2VQQmpvNUl2TjNYcm5CeDIyVWxGWUxkMU96LWJVOFZ6ZjRrZVU2bnlDTWRrVVVLR1lUc2dFRUF5dkJ0cTRfNmpzbENLTnlvY3FwWmlzTjZSeHRCRkk4aUsyLVdVRmx5S1FjUlZLQTlFSGozUTFOVFkyNlhPRTRMbEJZdHJPOVpjeUxrQVFLMkpFSG5McDVSRTRsTE5ROA?oc=5)
-
-2026-08-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMilwNBVV95cUxQZF96M0J4UHI3Um5tVGpVbEdndzA4UWl6WUo2U1g2Y2g4TDdXWkNmb2JDVVNGaWRZcXBWQm5VaTlzQ0g0c2ZvWi1UN2xLdHk0b3U1YTkyWDBUbjNZNktDdVQyc1dwUWVLOHQ4eGVTRkZDekNCWUx4NXg5S2ktZWNMMWRVNzJpLU5nSlVyeWJqdmYzSFJ2VWRTVTdwV3NONXg3QWF0bEduV20tZ2JoRWVhZTZUdGZMRjByZUEtLWZ2alR1bW9qTzBSa2xRR2ZVWC1mQ0hEVDFtOGMxekhKWW83TVo5WTl5aWFJSlhFdEtjYXViOGY2Q1FXbzlEcU9kZFZEb2VQQmpvNUl2TjNYcm5CeDIyVWxGWUxkMU96LWJVOFZ6ZjRrZVU2bnlDTWRrVVVLR1lUc2dFRUF5dkJ0cTRfNmpzbENLTnlvY3FwWmlzTjZSeHRCRkk4aUsyLVdVRmx5S1FjUlZLQTlFSGozUTFOVFkyNlhPRTRMbEJZdHJPOVpjeUxrQVFLMkpFSG5McDVSRTRsTE5ROA?oc=5)
-
----
-
-### [La vacuna frente al herpes zóster muestra un menor riesgo de infarto e ictus](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRm84YkhJV3E2bE9SYWd2MHY1ZDZfVy13TUdRdzZ1QzN4ZnoyVjA4U1ViR3NieUFFUjBYUjZNdnZqQjFsOXJmclBKc1Rwb05KalVlV2pCM3pyZkxySkVqc1ZheVhpUmp0anExQ2F3bWEtYkhqejlWQXlSeDJIaHJ1VzRERVp1NjZsMGNBazhLeDM0cUJVT2ZYYUtpY0tnbmt5cUFGNGtraXF6Y1FjZmFzTE5vSTFHYzJSX1pMaEg2V2ZDLTExVFE?oc=5)
-
-2026-08-27 <span class="news-indication-tag">ictus</span>
-
-來源：[ConSalud.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRm84YkhJV3E2bE9SYWd2MHY1ZDZfVy13TUdRdzZ1QzN4ZnoyVjA4U1ViR3NieUFFUjBYUjZNdnZqQjFsOXJmclBKc1Rwb05KalVlV2pCM3pyZkxySkVqc1ZheVhpUmp0anExQ2F3bWEtYkhqejlWQXlSeDJIaHJ1VzRERVp1NjZsMGNBazhLeDM0cUJVT2ZYYUtpY0tnbmt5cUFGNGtraXF6Y1FjZmFzTE5vSTFHYzJSX1pMaEg2V2ZDLTExVFE?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEpZWTZOTGFQcnFJM2V5UEdPRzlHOS0xaDRFT2FtM29WdVB0dDdCaUkzalJidWNtQ2QxWFZfdTlITWpHcFFQeERRZ2FpQVlrT2lPb0hfRk8xNlVad0FFNXZrUWNtYU9lRlc1TXk4dnZjNm5jdG9ENVpPQjJyQUtPazY0TGRhTlEtVk1Mb01uRjl4cXJJYkprRUtkZE52eHFpRk8yS3NYbjhtbkk5Z2pKandsREFZNHlCUkR1WHJB?oc=5)
 
 ---
 

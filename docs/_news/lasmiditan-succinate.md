@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Dieta Keto o dieta mediterránea, ¿quién gana? Tú hígado lo tiene claro](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0tNZ2dtVlNOX241QzNxWTZYRkpYTEJEUDd4T1VNZzIyS3NOeUpRR3AwM3ZRWTdsZENXOEFWZVkwb2dyd1pKQnlfSFRscy1vSkFHN016bEVQRWIwMkVFcGlaVGVOeEg4SjlMZ0xhOWQ1blBQQWgtRVJXRWloRUpiTGE4V1F6MEpRMTBoRzlnZUVyN01WQlFTV0wwMTJCczBnZGVQeGhEMF95VkZreFE?oc=5)
 
@@ -72,17 +72,9 @@ permalink: /news/lasmiditan-succinate/
 
 ### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+2026-08-27 <span class="news-indication-tag">obesity</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
----
-
-### [The middle-aged disease that makes you feel tired and often goes undiagnosed - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [La obesidad tiene que dejar de ser un problema de salud pública](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
+### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
 
-2026-08-27 <span class="news-indication-tag">obesidad</span>
+2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AEC2](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
 
 ---
 

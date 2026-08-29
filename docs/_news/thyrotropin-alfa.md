@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
 
-2026-08-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-08-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlg1ZWpRdWZfUXdIdjhRQmdOOE15RktJaHFpOGFhZWRjRTNuYmdIUnN4WTl3QXR3enZFNEdpZzZMa002LVdMUEtSTEJBdUxjNlVNWVRLNlBDcTBEblZaZFlHSlRzWllSYXJiazhfaVZwRG8zdHZRM25CUzhjQmtWNi1lcjdQb3hsNTJDVmFwOFhsYWdjeGpUY3YwaXU0V1U5bnJ1MS05dnk5UlE?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
 
 ---
 
@@ -70,27 +70,11 @@ permalink: /news/thyrotropin-alfa/
 
 ---
 
-### [Bluthochdruck ab 30: Jeder +10 mmHg steigert Herzrisiko um 27%](https://news.google.com/rss/articles/CBMitwFBVV95cUxObHZ5TlFSb0JiSktYNEhrT1V6YkJyZlRkM3JJR2lJcUdpSU04a0dqbWVULXd2azFmWktPMnhSbjJjdTBQNS1XLWNnNVN3R0dzLThEVHIweG5vdVllbFZ3U1dpMXk2M3puX0ViZnBobmI2ZmxCSUtybDB6bFltYV9yWDAwaHR1VzRoMWFQMUtoQmdKYzB0bTVpT1Nibmc3SGRJQV9oQTI1a3NwYVZzNHpfd21lNFRPS0E?oc=5)
-
-2026-08-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxObHZ5TlFSb0JiSktYNEhrT1V6YkJyZlRkM3JJR2lJcUdpSU04a0dqbWVULXd2azFmWktPMnhSbjJjdTBQNS1XLWNnNVN3R0dzLThEVHIweG5vdVllbFZ3U1dpMXk2M3puX0ViZnBobmI2ZmxCSUtybDB6bFltYV9yWDAwaHR1VzRoMWFQMUtoQmdKYzB0bTVpT1Nibmc3SGRJQV9oQTI1a3NwYVZzNHpfd21lNFRPS0E?oc=5)
-
----
-
 ### [Mammograms could be used to identify heart disease in women - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2RfMWVCemU4dENkU215b20xSTltSE5WdVBVeWg1WjBqX29FdEdLSlVhdVdEWWYxa2lQOUh5ckpoaWlnd3g1VlltaDVOY2FwSFhjcVdBdFQxdXpta01ENUt1S3pfUElLZWlxNWw0d2ZBNkN3MEhLbVhiVk0tcEhPb1N1LXoyTVl6NGdBcjJXMGQ3Rzc2?oc=5)
 
 2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2RfMWVCemU4dENkU215b20xSTltSE5WdVBVeWg1WjBqX29FdEdLSlVhdVdEWWYxa2lQOUh5ckpoaWlnd3g1VlltaDVOY2FwSFhjcVdBdFQxdXpta01ENUt1S3pfUElLZWlxNWw0d2ZBNkN3MEhLbVhiVk0tcEhPb1N1LXoyTVl6NGdBcjJXMGQ3Rzc2?oc=5)
-
----
-
-### [Scientists Find Signs of Artery Damage in Nearly 8 in 10 Young Adults](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVJaNUxWLXdWa28zaDI2QlQ2SGs1c2YzNFBldmdXeTNucFVmQ2VweDhfYVFmaUpLWkI2MTRVR0pycDFNbU5BWG8wdldjRFhwcDcwZUZld2JhVjVwXzMzVFhVcTdyS0ZiXzNIdlVVdzRjcW45MFJlRHN6WmNyUGlmN0M2ZlZ0TlpFRWlWMGpoYlg0UkZmT3YzbjdIYTgyR0swWk12LXJCdWdDdw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart disease</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVJaNUxWLXdWa28zaDI2QlQ2SGs1c2YzNFBldmdXeTNucFVmQ2VweDhfYVFmaUpLWkI2MTRVR0pycDFNbU5BWG8wdldjRFhwcDcwZUZld2JhVjVwXzMzVFhVcTdyS0ZiXzNIdlVVdzRjcW45MFJlRHN6WmNyUGlmN0M2ZlZ0TlpFRWlWMGpoYlg0UkZmT3YzbjdIYTgyR0swWk12LXJCdWdDdw?oc=5)
 
 ---
 

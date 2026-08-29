@@ -14,7 +14,7 @@ permalink: /news/sitagliptin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Sitagliptin Hydrochloride 有什麼相關新聞？">
-<strong>Sitagliptin Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sitagliptin Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sitagliptin-hydrochloride/
 <p><a href="{{ '/drugs/sitagliptin-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### [La nuova frontiera del diabete: nasce il probiotico che libera GLP-1](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlRCM21BSzZzQkVoTEI1RnFxekFtX0NMRkljZWRfQ1VpajJmdjE0NFJlQ09TelpvNkVPbTY3SVYzVmttNEtwQXBscExIUHBNM1VmNUtGZ3psOEV2T2llRUF3QUhWaDh0MWo1MmY5amE2amJ6bGl4OFN3VTJGM29jMnlncnN0TVc0OTJIV2c2ZmlMelQzWU9UM253T0xfVUFKVjFMNjRTTk14ZEtJYkxJWlVSd2daZURzQ1Z5N3FaZWhMQndTN2c?oc=5)
+### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
-2026-08-28 <span class="news-indication-tag">diabete</span>
+2026-08-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlRCM21BSzZzQkVoTEI1RnFxekFtX0NMRkljZWRfQ1VpajJmdjE0NFJlQ09TelpvNkVPbTY3SVYzVmttNEtwQXBscExIUHBNM1VmNUtGZ3psOEV2T2llRUF3QUhWaDh0MWo1MmY5amE2amJ6bGl4OFN3VTJGM29jMnlncnN0TVc0OTJIV2c2ZmlMelQzWU9UM253T0xfVUFKVjFMNjRTTk14ZEtJYkxJWlVSd2daZURzQ1Z5N3FaZWhMQndTN2c?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/sitagliptin-hydrochloride/
 
 ---
 
-### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+### [Sunlight, blood sugar and diabetes: a new study finds an intriguing connection](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+2026-08-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
 ---
 
@@ -102,19 +102,11 @@ permalink: /news/sitagliptin-hydrochloride/
 
 ---
 
-### [The middle-aged disease that makes you feel tired and often goes undiagnosed - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEdXUHh0UW1IQjgxek9jN3NiOTZ4eDdvd2UtbVVIZF93N0lJT3h5WXc2Q1NVQ011SWw0c2lWcV9XWVNLVDRvdTdleGg0WF9EVExjM2RmZHNkSHZTaVZuZE55elZVU2xQdHUybnByOWNCSld0cVF2dXZPNkdEbkdFOFRCcE5ESVhFakNpbGFrZUdmSzZadEplNmN0OGl0Y18xSEExVQ?oc=5)
-
----
-
-### [Envejecer con diabetes tipo 1: retos de una población creciente](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRmlITGVxLW55SUI3SVFfZ05LcWdmTXd1RjdhTWJNaWw3aFQ2VUJnOWM0OEkySmowZmd3RVZyLU50YUt2a2piZkplV0x0dmRVWDdtU3U2NmstSnBsVGdNUmpCU2xvYXh6d3hkRmZwNXNFMWpuN29hR0ptUUlhaVM1OHFZNnJFTlROT1c4dkNuSUZaMGRXTHNpYW5vTjM2X0c3T1Y1YldPTEZRSE5pWHhkOXlxUkNJSTh3WEpROXY3dHJIaWFUSmR3eUdqUlZocl94cWRyYjMtRzUxQzFGTWlBSg?oc=5)
+### [Envejecer con diabetes tipo 1: retos de una población creciente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2M3QkhzMWhpUTFJMmhqc1JkRm9iQ1BkWndvRHdpNnN5OENLa0liVkVaSXV6ako0VDMtdE1Bb0RoUTVmeUw4dlJjTkZoMmgyYThQYzR2NWFZR19BMUZNa092c3F3VER6ei1PN21mcFVVazVKcF8xUHlyNnYyNG01dkg5alhqQzRhTmttWHV0UF96YmhmMzA0VWpDQUxXOVlvdnFlOFFHbEQ?oc=5)
 
 2026-08-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRmlITGVxLW55SUI3SVFfZ05LcWdmTXd1RjdhTWJNaWw3aFQ2VUJnOWM0OEkySmowZmd3RVZyLU50YUt2a2piZkplV0x0dmRVWDdtU3U2NmstSnBsVGdNUmpCU2xvYXh6d3hkRmZwNXNFMWpuN29hR0ptUUlhaVM1OHFZNnJFTlROT1c4dkNuSUZaMGRXTHNpYW5vTjM2X0c3T1Y1YldPTEZRSE5pWHhkOXlxUkNJSTh3WEpROXY3dHJIaWFUSmR3eUdqUlZocl94cWRyYjMtRzUxQzFGTWlBSg?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2M3QkhzMWhpUTFJMmhqc1JkRm9iQ1BkWndvRHdpNnN5OENLa0liVkVaSXV6ako0VDMtdE1Bb0RoUTVmeUw4dlJjTkZoMmgyYThQYzR2NWFZR19BMUZNa092c3F3VER6ei1PN21mcFVVazVKcF8xUHlyNnYyNG01dkg5alhqQzRhTmttWHV0UF96YmhmMzA0VWpDQUxXOVlvdnFlOFFHbEQ?oc=5)
 
 ---
 
@@ -126,11 +118,11 @@ permalink: /news/sitagliptin-hydrochloride/
 
 ---
 
-### [« Il agit seulement quand le sucre monte » : ce probiotique « vivant » pourrait changer le traitement du diabète - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
+### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
 
-2026-08-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
+2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXNDTzY2SllWTW9qWlRZZlhvT0RZWHk0bHFzUjg2S3FxRzloaWdJVUp2UGdpQzV5XzdjVVBYaVpsaFhwQVFPdmtXdlFZR3Vwb2FKQW9wQkNGTEV2RXo2R1QyeHVVdTNtd3VsOThrdUstS0VENmpJM1duZ2ExQk9SdEp2aXVWQ2lPNlFvbGRuQkwtUEhJcGppRTFScjduTkN0cUtpTFlzR1NUSlJmLU45ZHlXSFhkcFpMR1RlUEdyRjlBMFZ5b1hFaEp0TjVGM3o0S0Zhb283TU1kVHJRMUV5a1ZRblFIc3hnX01MV3ZlM3E?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
 
 ---
 
