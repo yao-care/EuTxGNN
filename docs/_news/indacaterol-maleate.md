@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/indacaterol-maleate/
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Long Covid e virus "fantasma": perché l'infezione sveglia i patogeni latenti nel nostro corpo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
 
 2026-08-30 <span class="news-indication-tag">asma</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
-
----
-
-### [Selon les scientifiques, un seul réflexe au retour de l’école suffit à tenir la gastro à distance](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
-
-2026-08-29 <span class="news-indication-tag">asthma</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
 
 ---
 

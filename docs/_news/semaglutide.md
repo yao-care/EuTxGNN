@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（13 則）
 
 ### [Mit Computermodell berechnet: Wie sich die Zahl der Diabetes-Typ-1-Betroffenen entwickelt](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnJkZ0hmdmtFNmtndlhzb3VHeEVkNnlMQ1otazBHSFctdFJ4OWtWUDNWUVk4VFRJSDBXeVFrREpWMm95VS00LVladkpVNlFndzBvYXBfRGp1ZGZjeXJ4eWlkZU52ZTFNTzEtczlfV0ZqazlCSU5tMmV4VUd2cUpmbURUdTVLcnhjMXZZWXF6dEwtdGFyMnpBaXB5YU5VWms2aG9lZA?oc=5)
 
 2026-08-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[n-tv.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnJkZ0hmdmtFNmtndlhzb3VHeEVkNnlMQ1otazBHSFctdFJ4OWtWUDNWUVk4VFRJSDBXeVFrREpWMm95VS00LVladkpVNlFndzBvYXBfRGp1ZGZjeXJ4eWlkZU52ZTFNTzEtczlfV0ZqazlCSU5tMmV4VUd2cUpmbURUdTVLcnhjMXZZWXF6dEwtdGFyMnpBaXB5YU5VWms2aG9lZA?oc=5)
+
+---
+
+### [El alimento «efecto Ozempic» que esta experta recomienda para perder peso fácilmente - La Verdad](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVW4wQTd4SlNyOGdmMWF2b1BvZkxqczNHZTZnaGE4U3lFeFZVLUxFV3FRZXd5NkdObzNwdV9PMVJjd29qUzZJSXlib1gxa3FyVTBnUGFWOWlWTGNGc1J4UmlVX21KQ1lpcUpfdDhHLWRmM21icXZjTTV5d2RPZzN3Yi1wV1h2bldfN0lMTHpHTU52eFFTX1MtTHpSUnE2LXphaUZGZHRJZzdEbkZR0gGyAUFVX3lxTE1lVTdXbGRlVjB3bUlHT3h4TFdKQ3lmNDQ2U0JRX2RBVm4wRjAxRVNyR01vbVd1ZFpKSkNLOE10dHJfQ2IwTExRWjBFODkzX3V4bmRuVGVrWVR3anJTZUxhT2RCVHlkT2RkSE5naVZBQW0tWlAyWHZRSWd3UDczQ0VuZEw2T2xTXzJkSEdYdTR5bzdVMlBFVy1yMUE4WTM2MHk1UlZON3RBS2QxeERpUnYtVlE?oc=5)
+
+2026-08-30 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[La Verdad](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVW4wQTd4SlNyOGdmMWF2b1BvZkxqczNHZTZnaGE4U3lFeFZVLUxFV3FRZXd5NkdObzNwdV9PMVJjd29qUzZJSXlib1gxa3FyVTBnUGFWOWlWTGNGc1J4UmlVX21KQ1lpcUpfdDhHLWRmM21icXZjTTV5d2RPZzN3Yi1wV1h2bldfN0lMTHpHTU52eFFTX1MtTHpSUnE2LXphaUZGZHRJZzdEbkZR0gGyAUFVX3lxTE1lVTdXbGRlVjB3bUlHT3h4TFdKQ3lmNDQ2U0JRX2RBVm4wRjAxRVNyR01vbVd1ZFpKSkNLOE10dHJfQ2IwTExRWjBFODkzX3V4bmRuVGVrWVR3anJTZUxhT2RCVHlkT2RkSE5naVZBQW0tWlAyWHZRSWd3UDczQ0VuZEw2T2xTXzJkSEdYdTR5bzdVMlBFVy1yMUE4WTM2MHk1UlZON3RBS2QxeERpUnYtVlE?oc=5)
 
 ---
 
@@ -78,6 +86,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [The Rare Vision Side Effect of Ozempic and Wegovy You Should Know About](https://news.google.com/rss/articles/CBMingFBVV95cUxPMzJreTctLUE5VGhFdV94Wm52em9UU3NqaGVMLUNSQlVoakQtUjJVaE1ndTNVaGV4RlBPLWYwTzBkak1uenNPcHQzQWdZLVZUcWhLODVfbllFYUxWWjUzVjdnb3hnRUxsVDVYc2V0bm9vUV8yNFFEQjBjc19kdmFYUkJvaE5LNlBLOHJvOUN6MUFzbUtuc25hUmExWjdfUQ?oc=5)
+
+2026-08-30 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxPMzJreTctLUE5VGhFdV94Wm52em9UU3NqaGVMLUNSQlVoakQtUjJVaE1ndTNVaGV4RlBPLWYwTzBkak1uenNPcHQzQWdZLVZUcWhLODVfbllFYUxWWjUzVjdnb3hnRUxsVDVYc2V0bm9vUV8yNFFEQjBjc19kdmFYUkJvaE5LNlBLOHJvOUN6MUFzbUtuc25hUmExWjdfUQ?oc=5)
+
+---
+
 ### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
 2026-08-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
@@ -94,11 +110,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+### [FDA: nuevo aval para Mounjaro de Lilly](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
 
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+來源：[pharmabiz.net](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
+
+---
+
+### [Sunlight, blood sugar and diabetes: a new study finds an intriguing connection](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
 ---
 
@@ -123,6 +147,14 @@ permalink: /news/semaglutide/
 2026-08-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
+
+---
+
+### [Augenhintergrund: KI scannt sechs Stoffwechselkrankheiten in 30 Sekunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNuWDZwbENYRGZFeXNYUGdheGdueE5rOUdyTFYxNy1IR0F2X3RlMDRaMVJNck9Qb2c1c05yVEFmQTlQWVlnWlh2cURWWEM3TFlnTEtKa0RWNl9PbzZDei1Xb1JDZ2dCNEVmeG5vbFdzSmtRVTJBYXYyMU9MNnV2Nm5nYVVQVkFzdmJIYVZoOGt6bHJqQVhnSGdhUzg3amlQWjZIc1VkdGo5Qk5MaFlrdVpUVm41UHVmWndBcw?oc=5)
+
+2026-08-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNuWDZwbENYRGZFeXNYUGdheGdueE5rOUdyTFYxNy1IR0F2X3RlMDRaMVJNck9Qb2c1c05yVEFmQTlQWVlnWlh2cURWWEM3TFlnTEtKa0RWNl9PbzZDei1Xb1JDZ2dCNEVmeG5vbFdzSmtRVTJBYXYyMU9MNnV2Nm5nYVVQVkFzdmJIYVZoOGt6bHJqQVhnSGdhUzg3amlQWjZIc1VkdGo5Qk5MaFlrdVpUVm41UHVmWndBcw?oc=5)
 
 ---
 

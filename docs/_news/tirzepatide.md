@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
 
@@ -62,27 +62,19 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [La FDA aprueba Mounjaro (tirzepatida) de Lilly para reducir el riesgo cardiovascular en adultos con diab - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMigwJBVV95cUxQRmlBdEI5ZTBKQ0xMNnZyYTc5V3E3WS1aZnAyMVpoS1ktbDRna1lmS0hEQTVsOV9jNW4taTNWc095Q1pHVFNXTkJLeVFUQ1B1OUJLay0zajdPS29yWnYtSjk5dVZFR21jQ0ZoYndJNXAzMWMxbGxlbXNaaWJKMFNqUXRRYk1Bc21yLUQxbWlyOERZOGpZTzJtd1ZXN05RZEFleDhvSUEwa2d2RWV3b0tNMHBzY3dwSG1EZjU4OXJUbXliOXh3LTliSmJ2dFRoYmNPUkd0aGt2dzB2a3VnR1JTTXg1bldMMlA4WTRHQXMtaHNDQjJyaUZQT3hpOWlPc1dRaFlr0gGIAkFVX3lxTE5kVUM0dWc1NnF1U0xSNERyZVdwMDNKWTd4Nld0UTB0aUlmYnhYNy05OEFMWXo5aG9lcTRpY2IxaTRlNkRyaTRzRnJuWF8xbldnTzVORmJZTS1EbmdSVFJMeE9lazEtN2oxdnJFRTdGNkdyS09qcUJlNXc5OHEzUGJNdGRXSW5qemFCSVZxSU9TT1dRSUUzNzRhQ3dnS2ZBNlNoNmFyazBsdUxGU09YQ3NpY0tST0F1dHc0bWVVZlNWbHpteGdnUWtQTnN0bVI5RzF3Q1FkR2ZtbFExN2E5RERQZmdsWXVnV1JSZzZEZXltZFpPS1NUaHVaeTJvclBQc1JUM3E4RGo2dw?oc=5)
+### [FDA: nuevo aval para Mounjaro de Lilly](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
 
-2026-08-28 <span class="news-drug-tag">Tirzepatide</span>
+2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMigwJBVV95cUxQRmlBdEI5ZTBKQ0xMNnZyYTc5V3E3WS1aZnAyMVpoS1ktbDRna1lmS0hEQTVsOV9jNW4taTNWc095Q1pHVFNXTkJLeVFUQ1B1OUJLay0zajdPS29yWnYtSjk5dVZFR21jQ0ZoYndJNXAzMWMxbGxlbXNaaWJKMFNqUXRRYk1Bc21yLUQxbWlyOERZOGpZTzJtd1ZXN05RZEFleDhvSUEwa2d2RWV3b0tNMHBzY3dwSG1EZjU4OXJUbXliOXh3LTliSmJ2dFRoYmNPUkd0aGt2dzB2a3VnR1JTTXg1bldMMlA4WTRHQXMtaHNDQjJyaUZQT3hpOWlPc1dRaFlr0gGIAkFVX3lxTE5kVUM0dWc1NnF1U0xSNERyZVdwMDNKWTd4Nld0UTB0aUlmYnhYNy05OEFMWXo5aG9lcTRpY2IxaTRlNkRyaTRzRnJuWF8xbldnTzVORmJZTS1EbmdSVFJMeE9lazEtN2oxdnJFRTdGNkdyS09qcUJlNXc5OHEzUGJNdGRXSW5qemFCSVZxSU9TT1dRSUUzNzRhQ3dnS2ZBNlNoNmFyazBsdUxGU09YQ3NpY0tST0F1dHc0bWVVZlNWbHpteGdnUWtQTnN0bVI5RzF3Q1FkR2ZtbFExN2E5RERQZmdsWXVnV1JSZzZEZXltZFpPS1NUaHVaeTJvclBQc1JUM3E4RGo2dw?oc=5)
+來源：[pharmabiz.net](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
 
 ---
 
 ### [Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
-2026-08-27 <span class="news-indication-tag">arthritis</span>
+2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
-
----
-
-### [CAR-T, cura definitiva per l'artrite reumatoide?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">artrite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
 
 ---
 

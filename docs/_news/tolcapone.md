@@ -56,17 +56,17 @@ permalink: /news/tolcapone/
 
 ### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-08-30 <span class="news-indication-tag">dementia</span>
+2026-08-30 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
 ---
 
-### [Doctor names 1 health change that 'can cut risk of dementia by half' - Daily Express](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbk02S0xUQ3NTVVFVenZlN1MyY1gyRkMyX1l4TlhvSHVkRVlveU9qWkhZbEJVWkZ6R0VCR0xlQ3VqSzZQWDRxQS1xYnUxaF9YTmFnR25OSlVwNTlObllHU29heDB0Q3Vlck1SaFFLNUstVy1wVzJmbDhyMkRrVDN2RXZiWHcwUGktNXNR0gGQAUFVX3lxTFBDaHM0dTRMUFNZdG5tNVFHNnlLSnR1V1dNLW9jeHNNSVUzYnN6aHphWnNVckZnSnRPaGZSWEp0SElhT1V4VHVqVW5BSTNZeGdIMUEwTjlla0tzdW1WcU1jY0k2LWc3cVBsaUVfYUdUWk9oMXhlSk5UclhmREpydUZqam5NSDVOb0lTSDYtTXpoLQ?oc=5)
+### [Dementia risk 'can be halved' with simple health change – according to doctor - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVVUWUhRLU9OcU8yODV4Nzd1dm12em81SUx2MC05YW1kalRPMGZ2YXZ1SkNpOTVHRW9nVks4M09rSkJqVnVNLWVLbFVvd0JlYWZWbGV2dmM2VDRTcmV2NnFkRGFPUUxGVXEzQWFBMTA5UFNNNFJ2UFJIX2ExRXhIVTM2UdIBiAFBVV95cUxNd0IzdlRicm1yaUpObi1YSEdWMllHY0liRFFaRHBuOExqc21TVWR5cktJN2w3WGl2Uy13ZlZWUC1mTXJsWHBfdnpHQ2lUQnpOeHJJNHRYejNVbm9TUzJ4bHhsQ0dKZGdrVmp2UDZibjFuS0VqS3NfNVFuTWpyQXdpcnlZazFhemF5?oc=5)
 
 2026-08-30 <span class="news-indication-tag">dementia</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbk02S0xUQ3NTVVFVenZlN1MyY1gyRkMyX1l4TlhvSHVkRVlveU9qWkhZbEJVWkZ6R0VCR0xlQ3VqSzZQWDRxQS1xYnUxaF9YTmFnR25OSlVwNTlObllHU29heDB0Q3Vlck1SaFFLNUstVy1wVzJmbDhyMkRrVDN2RXZiWHcwUGktNXNR0gGQAUFVX3lxTFBDaHM0dTRMUFNZdG5tNVFHNnlLSnR1V1dNLW9jeHNNSVUzYnN6aHphWnNVckZnSnRPaGZSWEp0SElhT1V4VHVqVW5BSTNZeGdIMUEwTjlla0tzdW1WcU1jY0k2LWc3cVBsaUVfYUdUWk9oMXhlSk5UclhmREpydUZqam5NSDVOb0lTSDYtTXpoLQ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVVUWUhRLU9OcU8yODV4Nzd1dm12em81SUx2MC05YW1kalRPMGZ2YXZ1SkNpOTVHRW9nVks4M09rSkJqVnVNLWVLbFVvd0JlYWZWbGV2dmM2VDRTcmV2NnFkRGFPUUxGVXEzQWFBMTA5UFNNNFJ2UFJIX2ExRXhIVTM2UdIBiAFBVV95cUxNd0IzdlRicm1yaUpObi1YSEdWMllHY0liRFFaRHBuOExqc21TVWR5cktJN2w3WGl2Uy13ZlZWUC1mTXJsWHBfdnpHQ2lUQnpOeHJJNHRYejNVbm9TUzJ4bHhsQ0dKZGdrVmp2UDZibjFuS0VqS3NfNVFuTWpyQXdpcnlZazFhemF5?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/tolcapone/
 
 ---
 
-### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
+### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
 
-2026-08-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-08-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
 
 ---
 
