@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/budesonide/
 <li>polyp of ureter（99.7%）</li>
 <li>neoplastic polyp（99.7%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.6%）</li>
-<li>asthma（99.5%）</li>
+<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asthma</span></li>
 <li>Crohn's colitis（99.3%）</li>
 <li>inflammatory bowel disease（99.2%）</li>
 <li>anus disease（99.0%）</li>
@@ -52,13 +52,21 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+### [Selon les scientifiques, un seul réflexe au retour de l’école suffit à tenir la gastro à distance](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
+
+2026-08-29 <span class="news-indication-tag">asthma</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
+
+---
+
+### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 ---
 

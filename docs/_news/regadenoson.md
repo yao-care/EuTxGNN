@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Selon les scientifiques, un seul réflexe au retour de l’école suffit à tenir la gastro à distance](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
+
+2026-08-29 <span class="news-indication-tag">asthma</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
+
+---
 
 ### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
 

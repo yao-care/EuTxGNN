@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Laut Studie: Arthritis-Medikament kann Haare wieder wachsen lassen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
+### [Selon les scientifiques, un seul réflexe au retour de l’école suffit à tenir la gastro à distance](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
 
-2026-08-28 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
+2026-08-29 <span class="news-indication-tag">asthma</span>
 
-來源：[BILD](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
+
+---
+
+### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+
+2026-08-28 <span class="news-indication-tag">artrite</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
 
 ---
 
@@ -74,7 +82,15 @@ permalink: /news/sarilumab/
 
 2026-08-27 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
+
+---
+
+### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">copd</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/sarilumab/
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
-
----
-
-### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
 
 ---
 

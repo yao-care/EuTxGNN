@@ -14,7 +14,7 @@ permalink: /news/perflutren/
 ---
 
 <p class="key-answer" data-question="Perflutren 有什麼相關新聞？">
-<strong>Perflutren</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perflutren</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/perflutren/
 <p><a href="{{ '/drugs/perflutren/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlJ0a3lZZkJyTThaRmZjZUFBbG4temVDbzA5YW9JLWZ1b3VhSVo0V0d1UkZqcFd1NGNBRl9HZDVmVDZmZ0RlRjloLTNGWFl6YURkTnEteW9ObllOR0tsZFJ6QWR0VEFtNjN0bDRjMExRM0FLSWFaTnJOY2F2STZsVlJjU0RWMFQ4Vm9jSWk5TWsyQTYwUEFaX3pwTW1EaG96TDBlSE8tSWZ2aVE?oc=5)
+
+2026-08-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlJ0a3lZZkJyTThaRmZjZUFBbG4temVDbzA5YW9JLWZ1b3VhSVo0V0d1UkZqcFd1NGNBRl9HZDVmVDZmZ0RlRjloLTNGWFl6YURkTnEteW9ObllOR0tsZFJ6QWR0VEFtNjN0bDRjMExRM0FLSWFaTnJOY2F2STZsVlJjU0RWMFQ4Vm9jSWk5TWsyQTYwUEFaX3pwTW1EaG96TDBlSE8tSWZ2aVE?oc=5)
+
+---
 
 ### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 

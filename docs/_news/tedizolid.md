@@ -54,11 +54,11 @@ permalink: /news/tedizolid/
 
 ## 相關新聞（1 則）
 
-### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 ---
 

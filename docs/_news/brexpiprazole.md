@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [L'uso eccessivo dei social è collegato alla depressione](https://news.google.com/rss/articles/CBMiekFVX3lxTE9tNDltTWdFZVVFaXhBYjJaNTdqZnZvVF90aXF1Y2E3VEJzZGZkazh6NmdKS2NFQmlyRU9rV3F2aHRBcnlxMFhWWG1QQmNMRFUwYm56LUhZWTB0YTRmVk9NbUNRVFpwSTNWX3hMc1Vrb2lvWlN1bGRmRU93?oc=5)
-
-2026-08-29 <span class="news-indication-tag">depression</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMiekFVX3lxTE9tNDltTWdFZVVFaXhBYjJaNTdqZnZvVF90aXF1Y2E3VEJzZGZkazh6NmdKS2NFQmlyRU9rV3F2aHRBcnlxMFhWWG1QQmNMRFUwYm56LUhZWTB0YTRmVk9NbUNRVFpwSTNWX3hMc1Vrb2lvWlN1bGRmRU93?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Alzheimer-Früherkennung: Depressionen deuten auf Tau-Ablagerungen hin - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0ZwUUs4bWJPNnpiUEJHU3FjNE1lenRSLU95MVRlVFF3d24wdXhTLWl0LUVGZFhwT1lXU3pEMGVpQmg0Ty02MU13Mnc3MDV4RFFNZEdKd0F0cVhFSjNmdV9NRXdzel9fN2p1Rjg1c3dSUVczUUdibDM5N01mRVVfZ293aTFqVFBtQnIyMTUwc1QtRnR5ODdQalhvbVdITFRkQzh1a0MzTnA0emVNMWVEWW9oNkVQR25WNXc?oc=5)
 
 2026-08-26 <span class="news-indication-tag">depression</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0ZwUUs4bWJPNnpiUEJHU3FjNE1lenRSLU95MVRlVFF3d24wdXhTLWl0LUVGZFhwT1lXU3pEMGVpQmg0Ty02MU13Mnc3MDV4RFFNZEdKd0F0cVhFSjNmdV9NRXdzel9fN2p1Rjg1c3dSUVczUUdibDM5N01mRVVfZ293aTFqVFBtQnIyMTUwc1QtRnR5ODdQalhvbVdITFRkQzh1a0MzTnA0emVNMWVEWW9oNkVQR25WNXc?oc=5)
-
----
-
-### [Descubren el vínculo entre el deterioro anímico y el origen del Alzheimer - Libertad Digital](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczRmeS1HeDFfUEFDUklMWXdMLTZ4WHRHaVBCSUR5dmhBYWFMT2VKdnExczhIU0hkZ2hCLVBNUU5vcHRaRUcxeUNWdU9PVkR5SklpRVdFeU94OXc1SmdkNW5aSGc5WGVSc2xOM0drM2J5ankxcmxQT190WHJhbDNQMFN2RkJTbFVudTlzd29kcXVoOU0yRlJnX0JKODJJOHN1SjgtbTdFSEE2WWlHa0U4eXFFWVBOMjhDMGFhOGJTQkw5YjVtYWFGSWZFQWNOZGJDWEEwQXNPUEs5WGVqdTZvNC1tSmzSAe8BQVVfeXFMT0w5Sk1IcnAwOC1pbk41LVZFN2hOdENGTGtDY3paVzZyLV9Jc082cTIzamt6S1dfZ0tWd3FiY1I4bHliUmthR3o3dXpYZ3k5aGRlUmgzaWJoTEdQdjlHRVY1WVl6UFdPZGhJSXFxNkdoenhqTDlINnlrdGdVTG9sR0h4X0NoWlp2RkpNRU9jMmJQcVlTZV9Gckw0UlZIM3hmOFU1ZEVxVVlkZjFOWmpUbm1pWG5CbFVmdk9uSHpDdnhCQlMzTkxzc3p1X2dQRUY4dFJWTzRZMFRYdS02d2J6eXctdF9oQVFMXzZaT0xMeDg?oc=5)
-
-2026-08-25 <span class="news-indication-tag">depresión</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczRmeS1HeDFfUEFDUklMWXdMLTZ4WHRHaVBCSUR5dmhBYWFMT2VKdnExczhIU0hkZ2hCLVBNUU5vcHRaRUcxeUNWdU9PVkR5SklpRVdFeU94OXc1SmdkNW5aSGc5WGVSc2xOM0drM2J5ankxcmxQT190WHJhbDNQMFN2RkJTbFVudTlzd29kcXVoOU0yRlJnX0JKODJJOHN1SjgtbTdFSEE2WWlHa0U4eXFFWVBOMjhDMGFhOGJTQkw5YjVtYWFGSWZFQWNOZGJDWEEwQXNPUEs5WGVqdTZvNC1tSmzSAe8BQVVfeXFMT0w5Sk1IcnAwOC1pbk41LVZFN2hOdENGTGtDY3paVzZyLV9Jc082cTIzamt6S1dfZ0tWd3FiY1I4bHliUmthR3o3dXpYZ3k5aGRlUmgzaWJoTEdQdjlHRVY1WVl6UFdPZGhJSXFxNkdoenhqTDlINnlrdGdVTG9sR0h4X0NoWlp2RkpNRU9jMmJQcVlTZV9Gckw0UlZIM3hmOFU1ZEVxVVlkZjFOWmpUbm1pWG5CbFVmdk9uSHpDdnhCQlMzTkxzc3p1X2dQRUY4dFJWTzRZMFRYdS02d2J6eXctdF9oQVFMXzZaT0xMeDg?oc=5)
 
 ---
 

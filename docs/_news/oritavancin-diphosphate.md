@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/oritavancin-diphosphate/
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Selon les scientifiques, un seul réflexe au retour de l’école suffit à tenir la gastro à distance](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
+
+2026-08-29 <span class="news-indication-tag">asthma</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREU5UWpyUDJhTTdOeGhlOEZvbU5FWFdHRXNGZzJQdXpOeE0xbWozdjg2bURWQ1dTc0JjQXE5R2wwOUUyeDdMY3NjU3d0a2ZENEhzRnQ0SUVScjQ0bjZMdFdubzJiMVU1dmxJVEd4cDN3YS1fRHR0emdzZGtncFoyaHl1cG1RcXJoRU9wRmN6anJfd1UxNnRMcGY3NWxYLVFlcEhLbUwzZHJMcGg3dWtqYndzVG11TnpmeHpJ?oc=5)
+
+---
 
 
 <div class="disclaimer">

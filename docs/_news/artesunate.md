@@ -62,11 +62,11 @@ permalink: /news/artesunate/
 
 ---
 
-### [Laut Studie: Arthritis-Medikament kann Haare wieder wachsen lassen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
+### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
 
-2026-08-28 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
+2026-08-28 <span class="news-indication-tag">artrite</span>
 
-來源：[BILD](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/artesunate/
 
 2026-08-27 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
 
 ---
 

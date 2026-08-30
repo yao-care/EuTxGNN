@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# Herzerkrankung（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlJ0a3lZZkJyTThaRmZjZUFBbG4temVDbzA5YW9JLWZ1b3VhSVo0V0d1UkZqcFd1NGNBRl9HZDVmVDZmZ0RlRjloLTNGWFl6YURkTnEteW9ObllOR0tsZFJ6QWR0VEFtNjN0bDRjMExRM0FLSWFaTnJOY2F2STZsVlJjU0RWMFQ4Vm9jSWk5TWsyQTYwUEFaX3pwTW1EaG96TDBlSE8tSWZ2aVE?oc=5)
+
+2026-08-30
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlJ0a3lZZkJyTThaRmZjZUFBbG4temVDbzA5YW9JLWZ1b3VhSVo0V0d1UkZqcFd1NGNBRl9HZDVmVDZmZ0RlRjloLTNGWFl6YURkTnEteW9ObllOR0tsZFJ6QWR0VEFtNjN0bDRjMExRM0FLSWFaTnJOY2F2STZsVlJjU0RWMFQ4Vm9jSWk5TWsyQTYwUEFaX3pwTW1EaG96TDBlSE8tSWZ2aVE?oc=5)
+
+---
 
 ### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 

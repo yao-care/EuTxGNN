@@ -54,11 +54,27 @@ permalink: /news/cabotegravir/
 
 ## 相關新聞（13 則）
 
-### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
+### [Typ-2-Diabetes: Neue Kapsel normalisiert Blutzucker in einer Woche - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmlWWUtPOW1DMUlwV0l0N2V1LXFEbGFyV0s3UG1yR05WaEJRcDRwRU9iZEdvOTk1OHVyVmFwRmZUXzNKeHlKal9OY19iZmx0TUw4T1FKQVY0a21lWkRMMkVnQ0NwQk5YNUFfV2Y3d0xDNFJWanVGS1Z5TEdwRm9JLWRzaW5za0RRVmRzbnNSNTQwY2ZTaXZBYWszb1IxUWtMNl95SzNBTWdxaEtFMFEzOWgxNWc?oc=5)
+
+2026-08-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmlWWUtPOW1DMUlwV0l0N2V1LXFEbGFyV0s3UG1yR05WaEJRcDRwRU9iZEdvOTk1OHVyVmFwRmZUXzNKeHlKal9OY19iZmx0TUw4T1FKQVY0a21lWkRMMkVnQ0NwQk5YNUFfV2Y3d0xDNFJWanVGS1Z5TEdwRm9JLWRzaW5za0RRVmRzbnNSNTQwY2ZTaXZBYWszb1IxUWtMNl95SzNBTWdxaEtFMFEzOWgxNWc?oc=5)
+
+---
+
+### [I walked for 15 minutes after every meal for a month – the effects were immediate - The Independent](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFRsNExhZzdtYlQ1ek1LZlU0REpLX3hybEprMjRhOHI0MjVWQjZxZ01ITjdTTW9iQ2hMYXl0em4xQ3lzS1RxSHBXc0ZqSkZndlJKeFRiZHl3bVJZLTFHZHdhb3lSTTl4TEk5eUFUSkEtTU5vTnUwNE5wSGs4OWkxNVYwbml4YXlmNVh6c0JuYWdIbTJiMDIwdWRiU1lwOEoxZUdsbzk5MFZqQXJmRHBrbzRNQnR4NGtpT0VaZ2Jfam1xSkF1MGREenh1Wld6NEdDNXRlLVBiMGtBQQ?oc=5)
+
+2026-08-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFRsNExhZzdtYlQ1ek1LZlU0REpLX3hybEprMjRhOHI0MjVWQjZxZ01ITjdTTW9iQ2hMYXl0em4xQ3lzS1RxSHBXc0ZqSkZndlJKeFRiZHl3bVJZLTFHZHdhb3lSTTl4TEk5eUFUSkEtTU5vTnUwNE5wSGs4OWkxNVYwbml4YXlmNVh6c0JuYWdIbTJiMDIwdWRiU1lwOEoxZUdsbzk5MFZqQXJmRHBrbzRNQnR4NGtpT0VaZ2Jfam1xSkF1MGREenh1Wld6NEdDNXRlLVBiMGtBQQ?oc=5)
+
+---
+
+### [Organe altern unterschiedlich schnell: Bluttest könnte biologisches Alter zeigen](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmpaZGpzdE51dHlxLU8yU2NBaWVkZWRad1pLTTl3QTAzSkw0RUlqMEFOOXNVM1lEeDRSSjBuWmxBYjY4VTh6TzV1bmJsb3RsVlJVQm1sMmJ2aEtfVkJ2WWVKR3M4V2VoVjg5RkY3aFhHRTZSVFBwV1ppaFpkcHhIMEtqaWExMklBNG4tUk9TWFZGcVNNRjJQT1k1SFE4STlkWFFwVnpKZExUWGlX?oc=5)
 
 2026-08-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
+來源：[VOL.AT](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmpaZGpzdE51dHlxLU8yU2NBaWVkZWRad1pLTTl3QTAzSkw0RUlqMEFOOXNVM1lEeDRSSjBuWmxBYjY4VTh6TzV1bmJsb3RsVlJVQm1sMmJ2aEtfVkJ2WWVKR3M4V2VoVjg5RkY3aFhHRTZSVFBwV1ppaFpkcHhIMEtqaWExMklBNG4tUk9TWFZGcVNNRjJQT1k1SFE4STlkWFFwVnpKZExUWGlX?oc=5)
 
 ---
 
@@ -70,27 +86,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+### [Nicht nur Brustkrebs: Mammografie erkennt auch Herz-Kreislauf-Erkrankungen - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUgyRFdJZnZLN0hHZThZUEk1eU5iTnAydFFhRmF1ZU5RcFpZNjZvUGJjRnlTci1MWElHTjRuVXU0azFCeWxDMnRkQ3VLbURZSHlTZnFlXzF4c2VrUFhvemF5NjhzTEFzQnViVkp4c202c0gwZFE2djJTWkFJSVZQQmp5S3dmWEFpZy02bkUxa2ZiSm56R2J4X05hcVhGUFQ2cWFDQk1GcU9hd1pFRGRYazFFUW5HRWFkblB2UkNpUnA2c2lnd2llQV9WcWp4akhINFNj?oc=5)
 
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
-
----
-
-### [Laut Studie: Arthritis-Medikament kann Haare wieder wachsen lassen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
-
-2026-08-28 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3IzWHZ1SDhLbHhKbXJWWGliWUxPdlNBU0xFcXdUa2JuTWVNTC1lQ1FqcDdjQV9sNmxpSFNNQVJYQWZjU1p1cUtabFAxWG1PSFZQZnpiU0Y3V05HVWFCa2g4LWlkLVZYdHluSkJrMFg2d1c0S0wxVFNvalFGX29jYlZRLXlmWFlidUZpTGlXcjFDR3dndDBlTUU2RjBoY1VhRXJyVktnVThpTWpNVjdsa3poZ0Q2MmZ2WlJzZTV1UTNpbjFiWWhhNUxRMA?oc=5)
+來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUgyRFdJZnZLN0hHZThZUEk1eU5iTnAydFFhRmF1ZU5RcFpZNjZvUGJjRnlTci1MWElHTjRuVXU0azFCeWxDMnRkQ3VLbURZSHlTZnFlXzF4c2VrUFhvemF5NjhzTEFzQnViVkp4c202c0gwZFE2djJTWkFJSVZQQmp5S3dmWEFpZy02bkUxa2ZiSm56R2J4X05hcVhGUFQ2cWFDQk1GcU9hd1pFRGRYazFFUW5HRWFkblB2UkNpUnA2c2lnd2llQV9WcWp4akhINFNj?oc=5)
 
 ---
 
-### [La diabetes tipo 2 se manifiesta de manera diferente según el peso corporal - 65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSk1yZXJ5ZUh5SzA5TmxnNWVRVFZySkVNODFPV3hyMkk0a0JibGhHNU5YZGpOVGF3Tm81MXNBZFo2Y0N6TTF4c1J3R2p5dXdIUzBNLUg4NnpYNkJaYU1KdnA2bXV5M2VCa0s5YV9obF9vYkxVN3hxUTB1WHBpbHBVSGg2T09UNWtRS2hoUXFIQ3lvd090UEpvMnFMNlFfMFlKRHpnRjdVN2d0VFUyMkdj?oc=5)
+### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
 
-2026-08-28 <span class="news-indication-tag">diabetes</span>
+2026-08-28 <span class="news-indication-tag">artrite</span>
 
-來源：[65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSk1yZXJ5ZUh5SzA5TmxnNWVRVFZySkVNODFPV3hyMkk0a0JibGhHNU5YZGpOVGF3Tm81MXNBZFo2Y0N6TTF4c1J3R2p5dXdIUzBNLUg4NnpYNkJaYU1KdnA2bXV5M2VCa0s5YV9obF9vYkxVN3hxUTB1WHBpbHBVSGg2T09UNWtRS2hoUXFIQ3lvd090UEpvMnFMNlFfMFlKRHpnRjdVN2d0VFUyMkdj?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
 
 ---
 
@@ -102,27 +110,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Studie: Keto, Mediterran und pflanzenbetont senken Gewicht – Keto verbessert zudem Fettleber und Blutzucker - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3RBNWFvSEZDSm1BT05lc1hTOEhMYXg0YWNiUkl2WUpnZGtTU0dlNWpDRmxnTmdWNVFRLVdJWDJKWlpzTllkYWRvQWwxVzFhV19SdjYwSnBCMTNzZlQ5dGZYRnV0RXFYMlhmeHdCMGRoSXZYcEJEQ0RKSm9PREptcHlRNXREUGNfNHdzVHZLS1pkcjFYMU9HOWFRMGNNbUlOQXIySE1JTmwwRkxFOUpWZzRVNTJvRVZaekFyMXhmWklqbkprNDhBbG04aWlpZUpa?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3RBNWFvSEZDSm1BT05lc1hTOEhMYXg0YWNiUkl2WUpnZGtTU0dlNWpDRmxnTmdWNVFRLVdJWDJKWlpzTllkYWRvQWwxVzFhV19SdjYwSnBCMTNzZlQ5dGZYRnV0RXFYMlhmeHdCMGRoSXZYcEJEQ0RKSm9PREptcHlRNXREUGNfNHdzVHZLS1pkcjFYMU9HOWFRMGNNbUlOQXIySE1JTmwwRkxFOUpWZzRVNTJvRVZaekFyMXhmWklqbkprNDhBbG04aWlpZUpa?oc=5)
-
----
-
 ### [CAR-T, cura definitiva per l'artrite reumatoide?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
 
 2026-08-27 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
-
----
-
-### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
-
-2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Jyb1B3b1B4cU1iOVAzMWRWQTRYMHpLcHBIRFZSNUY1ek5ERFptRTNrMFBzZFBXVndlSi10dW8xT0pJbUkwMGd3bFo4djZiNF9DWDVJME9qUF9BOExfSEdlT0RDX2RudVN4elRZMlJ1UWIwYURUQWxJc05xaGZZV3Q4amdLOWJia21yQU1nSi0tX2Vxc3BCdmIwTVM0YUVCZi1BRExBczZWQQ?oc=5)
 
 ---
 
@@ -134,19 +126,27 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Millones de personas con diabetes podrían estar recibiendo tratamientos que no les corresponde](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
+
+---
+
+### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">copd</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
+
+---
+
 ### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
-
----
-
-### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
 
 ---
 
