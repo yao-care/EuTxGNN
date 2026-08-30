@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
 
 ### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/sacubitril/
 2026-08-29 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
-
----
-
-### [La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2 - El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
-
-2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 ---
 

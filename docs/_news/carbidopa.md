@@ -51,11 +51,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### [The US switch in shingles vaccines revealed an unexpected heart health pattern](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5)
+### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
-2026-08-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-08-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
 ---
 

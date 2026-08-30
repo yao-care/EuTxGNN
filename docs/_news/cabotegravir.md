@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
 ### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/cabotegravir/
 2026-08-29 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
-
----
-
-### [La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2 - El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
-
-2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 ---
 
@@ -142,19 +134,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
-
-2026-08-25 <span class="news-indication-tag">copd</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
-
----
-
 ### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 2026-08-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+---
+
+### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
 
 ---
 

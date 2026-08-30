@@ -54,11 +54,11 @@ permalink: /news/rilpivirine-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [Gesundheitsamt empfiehlt dringend HPV-Impfung anlässlich des Welttags der sexuellen Gesundheit am 4. September - Landkreis Esslingen](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjEwbVRCTGp1dlF4a2NZOHJ3NzhQbnBOY0JjZDk2SUpIZ1JHazctUkxuZFliSWFyYW5XNUdoS05wMXF4bjk2ZmIyWS1tcXU4djB4VGQ2c1AxZDdQcXlCeHFMUXI2ckF4eU9EWEtPMkRWakZqb1pNcWhYWWo4Q2p1Z2lTNlc?oc=5)
+### [La hepatitis D deja de ser una enfermedad sin tratamiento para convertirse en una prioridad clínica - Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
-2026-08-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-08-29 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Landkreis Esslingen](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjEwbVRCTGp1dlF4a2NZOHJ3NzhQbnBOY0JjZDk2SUpIZ1JHazctUkxuZFliSWFyYW5XNUdoS05wMXF4bjk2ZmIyWS1tcXU4djB4VGQ2c1AxZDdQcXlCeHFMUXI2ckF4eU9EWEtPMkRWakZqb1pNcWhYWWo4Q2p1Z2lTNlc?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
 ---
 

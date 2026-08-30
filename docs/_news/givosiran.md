@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
+### [La hepatitis D deja de ser una enfermedad sin tratamiento para convertirse en una prioridad clínica - Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
-2026-08-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-08-29 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/givosiran/
 2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
-
----
-
-### [Gesundheitsamt empfiehlt dringend HPV-Impfung anlässlich des Welttags der sexuellen Gesundheit am 4. September - Landkreis Esslingen](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjEwbVRCTGp1dlF4a2NZOHJ3NzhQbnBOY0JjZDk2SUpIZ1JHazctUkxuZFliSWFyYW5XNUdoS05wMXF4bjk2ZmIyWS1tcXU4djB4VGQ2c1AxZDdQcXlCeHFMUXI2ckF4eU9EWEtPMkRWakZqb1pNcWhYWWo4Q2p1Z2lTNlc?oc=5)
-
-2026-08-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Landkreis Esslingen](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjEwbVRCTGp1dlF4a2NZOHJ3NzhQbnBOY0JjZDk2SUpIZ1JHazctUkxuZFliSWFyYW5XNUdoS05wMXF4bjk2ZmIyWS1tcXU4djB4VGQ2c1AxZDdQcXlCeHFMUXI2ckF4eU9EWEtPMkRWakZqb1pNcWhYWWo4Q2p1Z2lTNlc?oc=5)
 
 ---
 

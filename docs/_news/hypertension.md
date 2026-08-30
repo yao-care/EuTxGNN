@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
-
-2026-08-29
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 

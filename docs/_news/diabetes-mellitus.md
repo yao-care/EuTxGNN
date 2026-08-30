@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,21 +114,13 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
 
 2026-08-29
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
-
----
-
-### [La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2 - El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
-
-2026-08-28
-
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（21 則）
+
+### [Una bióloga, una oncóloga y la vacuna para tratar el melanoma](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbEpNc3hZLWdPZWpTbklZYlJ2TTFiSmEwZDhJR0lVRURmSS1yODNFaGI1czh5NXVYYlIwYW1WOWktVVAxaHVBQnE5LXJObENwUXJIUlgzeW9WejVNNHluY3VMYldhanJuUmJReHVWQzZINmxHaGFGSmxpMVBCSjlTYTlEaU5xaDdnM0tpUDJnYzRqZHJaMmdwMWdlMWIwcV9pM1VBZmgyb2k0bzVnUDlIV1pFSlF3cmJvT1FZQ1ZRUWJQZkQ5TWxPN0dIaWNSQXdVOHhiSjlENNIB3AFBVV95cUxONUJydDFuX2JCc2FJSVd3a09rU3hZQ0pZbVJtakkwN094cEZJNFd2NHItMjYyYTU3bWdWWGE1bmNGNlhmQlNiaHVuSHYzLWVyWGFOUHdzU1AyczJzbjJlTEQ4UEhHaHB1b0dnLTFtdDJILXhEM1MwanJLRFdmTmpqZ1BialRjTGM2LUQySHpZNVBpZnJBX2s5YzZ6QjhZUlJPcGFwNmdleG1RV3RicHhDWFBtUnI1UlJldXVEYkUwRnNHamNvTFZ2VG9LQk9ELUhVTWYxM19aY3BNVnA5?oc=5)
+
+2026-08-29 <span class="news-indication-tag">MS</span>
+
+來源：[naiz:](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbEpNc3hZLWdPZWpTbklZYlJ2TTFiSmEwZDhJR0lVRURmSS1yODNFaGI1czh5NXVYYlIwYW1WOWktVVAxaHVBQnE5LXJObENwUXJIUlgzeW9WejVNNHluY3VMYldhanJuUmJReHVWQzZINmxHaGFGSmxpMVBCSjlTYTlEaU5xaDdnM0tpUDJnYzRqZHJaMmdwMWdlMWIwcV9pM1VBZmgyb2k0bzVnUDlIV1pFSlF3cmJvT1FZQ1ZRUWJQZkQ5TWxPN0dIaWNSQXdVOHhiSjlENNIB3AFBVV95cUxONUJydDFuX2JCc2FJSVd3a09rU3hZQ0pZbVJtakkwN094cEZJNFd2NHItMjYyYTU3bWdWWGE1bmNGNlhmQlNiaHVuSHYzLWVyWGFOUHdzU1AyczJzbjJlTEQ4UEhHaHB1b0dnLTFtdDJILXhEM1MwanJLRFdmTmpqZ1BialRjTGM2LUQySHpZNVBpZnJBX2s5YzZ6QjhZUlJPcGFwNmdleG1RV3RicHhDWFBtUnI1UlJldXVEYkUwRnNHamNvTFZ2VG9LQk9ELUhVTWYxM19aY3BNVnA5?oc=5)
+
+---
 
 ### [How to get enough fibre: catch up on the latest health craze - The Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOZEU0M2RmeHJucVpneC1PYlJQUnozUGFLQlZacWpNWmxNVkZURnBTZVZKN3BfY2JQb011LWU1Wm9RbU9tQkVqVTlSMmxGNThFRTI4UEZxeXJHTXhzY215NGVqU0FsT1dvN3lGNnFNTl9sbTQzeVRzeEJLY1BzcnFzdDZfOE90QVQ2VlFlSThicXpmTjl2SVZlZ21PbHI0Zw?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Vacunas terapéuticas en cáncer: ¿Necesitaremos financiamiento de precisión? - El Espectador](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3dUei1EUkYxQVdtV2Q0Q200UW9xWE55SUVOak5Hbjl6RG5jSlRtSmNnN2otNzBCdEJPWnpxNVgxb1ZoUkNwY3EtV1FuUzA3UE5OZW1nUjBfZmg0Tl85OTdiRHlPQW1EbFhPWWRsTk5wejZ2aks2VmpHN3pYU01VTzE1amtQdFgxVTBKVzR6X1Q0dzlTaFFGa2V1d0RBSEVTLXVVSnJORm90UzdY?oc=5)
+### [La hepatitis D deja de ser una enfermedad sin tratamiento para convertirse en una prioridad clínica - Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
-2026-08-29 <span class="news-indication-tag">MS</span>
+2026-08-29 <span class="news-indication-tag">hepatitis</span>
 
-來源：[El Espectador](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3dUei1EUkYxQVdtV2Q0Q200UW9xWE55SUVOak5Hbjl6RG5jSlRtSmNnN2otNzBCdEJPWnpxNVgxb1ZoUkNwY3EtV1FuUzA3UE5OZW1nUjBfZmg0Tl85OTdiRHlPQW1EbFhPWWRsTk5wejZ2aks2VmpHN3pYU01VTzE1amtQdFgxVTBKVzR6X1Q0dzlTaFFGa2V1d0RBSEVTLXVVSnJORm90UzdY?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
 ---
 
@@ -78,19 +86,27 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [The Best Vitamin C Serums in 2026: To Brighten Skin and Boost Collagen](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TWlM1OS1xYWttTmVEUks5YmlTTTdDR2NfV191a2VyNFRNMFBqMXBhMW9JQ0FtY2tJRmlnbEhmNHRTVWlTTGktRTFjODBzZWM2cUVGeUpFc0JJTWZCUnhF?oc=5)
+
+2026-08-28 <span class="news-indication-tag">MS</span>
+
+來源：[Fortune](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TWlM1OS1xYWttTmVEUks5YmlTTTdDR2NfV191a2VyNFRNMFBqMXBhMW9JQ0FtY2tJRmlnbEhmNHRTVWlTTGktRTFjODBzZWM2cUVGeUpFc0JJTWZCUnhF?oc=5)
+
+---
+
+### [Darm-Hirn-Achse: NUTRIMIND-Projekt erforscht Mikrobiom und Psyche - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWNnMjJkNnRIVTd1SDhhT1BuNkNNQ1VBOFhJMU92ZWsyX0FfNGtZX19yZks3c1ViUzVVT19pNFRsNUI5bklrSHNiZmVYd3JUUDhVc2lNVDFQR1czd2kxYllRRGtuN2Y4eGg2UmJzTDV4LXZLUVNYVjF0R05SVFJ2VWRCSkZScmJqTEpfVTVOUXNJbjZMamhKNGZBVm5wTnF6TTlkTE1IWFczWTcyNGV0ejV3MA?oc=5)
+
+2026-08-28 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWNnMjJkNnRIVTd1SDhhT1BuNkNNQ1VBOFhJMU92ZWsyX0FfNGtZX19yZks3c1ViUzVVT19pNFRsNUI5bklrSHNiZmVYd3JUUDhVc2lNVDFQR1czd2kxYllRRGtuN2Y4eGg2UmJzTDV4LXZLUVNYVjF0R05SVFJ2VWRCSkZScmJqTEpfVTVOUXNJbjZMamhKNGZBVm5wTnF6TTlkTE1IWFczWTcyNGV0ejV3MA?oc=5)
+
+---
+
 ### [Cet édulcorant utilisé dans les chewing-gums, les dentifrice et les confitures serait lié à des AVC et des crises cardiaques](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXU3VG5VWnRWMVVmeURaQkdxcS1wZkNYdUpjZXpXV2tleHpaemktbmIzTE1laldaZDBDNTdYakRmbXpCdXpNdnVnM1hZUTlINlUtdldsVUFQQnVOX0tBSTR0Q2Y5OVgwNGRwN29oZnNYeE8yMlN2UGwzaFNoM2UxVms3VWZwYnZZR1IyM2RmSWVZWG93OWxnaDFOOEwtT3lsQktSdm5XYnlpbW5oWWZ0S0U3SDVjUdIBuwFBVV95cUxPWnRGRHBTazk3TVBMdjItZUllR2wxTmZUeXBXUHNqYVpzb0FLdElzYl9wVEJkQVhsOV9saW45dW9va1RfQl9mcldPNGs4dGdIVUxQcXdWbEN0clBzSlVhZlI4ZEJPVGxkSHpBVTZvNnc4SFI0TFI3RnladGJDTWVfUXZfaXJkOUVORjNoaEh6WEd4bVIzY3ByWkRtUEc4bXVQQmkyUnZfQmw3NDdxUWppSkM5NFJDSnd2TWlJ?oc=5)
 
 2026-08-28 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
 來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXU3VG5VWnRWMVVmeURaQkdxcS1wZkNYdUpjZXpXV2tleHpaemktbmIzTE1laldaZDBDNTdYakRmbXpCdXpNdnVnM1hZUTlINlUtdldsVUFQQnVOX0tBSTR0Q2Y5OVgwNGRwN29oZnNYeE8yMlN2UGwzaFNoM2UxVms3VWZwYnZZR1IyM2RmSWVZWG93OWxnaDFOOEwtT3lsQktSdm5XYnlpbW5oWWZ0S0U3SDVjUdIBuwFBVV95cUxPWnRGRHBTazk3TVBMdjItZUllR2wxTmZUeXBXUHNqYVpzb0FLdElzYl9wVEJkQVhsOV9saW45dW9va1RfQl9mcldPNGs4dGdIVUxQcXdWbEN0clBzSlVhZlI4ZEJPVGxkSHpBVTZvNnc4SFI0TFI3RnladGJDTWVfUXZfaXJkOUVORjNoaEh6WEd4bVIzY3ByWkRtUEc4bXVQQmkyUnZfQmw3NDdxUWppSkM5NFJDSnd2TWlJ?oc=5)
-
----
-
-### [Woody Harrelson urges Burnham to launch Covid vaccine inquiry - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUZzQjN4VnpPaVh4OHRGZTBJQTloTWNZWTk5TDMyMGpETDVaUTBZb2FOaXFDVFpNQ2dTeWxhbk80QWh0QW81SWxXbEx5TmdVU1p6eXRSTzl5T3ZCMWpPZ0NNY1p3c3lSQWluM2U5aVVNcTdieVhwVWpIM1h1RXB5eFpuWE5ER0ptOUtDLVY3TWR6a0w0czdzaG5vckgwRVhsVVE?oc=5)
-
-2026-08-28 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUZzQjN4VnpPaVh4OHRGZTBJQTloTWNZWTk5TDMyMGpETDVaUTBZb2FOaXFDVFpNQ2dTeWxhbk80QWh0QW81SWxXbEx5TmdVU1p6eXRSTzl5T3ZCMWpPZ0NNY1p3c3lSQWluM2U5aVVNcTdieVhwVWpIM1h1RXB5eFpuWE5ER0ptOUtDLVY3TWR6a0w0czdzaG5vckgwRVhsVVE?oc=5)
 
 ---
 
@@ -118,11 +134,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [En déversant 5 000 tonnes d'insecticide sur Bornéo en 1956, l'OMS a littéralement fait s'effondrer les toits des maisons](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbXk2dmJ3RzlrVElIeWdlWEVfSVVpY2RibmZvV0dyQnhOcnlSdlJ5SXN6QW5hQll4dEtpUnVzTGRzdm5QSFk0OFFMTl9mUmtxS3BfV0ZoQWdQRXhYbThIbXVDMFlNWUM4dmJZcDFaM091UzhUQmxqTDNOZm9kRko5UmlrNVBNUXBKREpGeURjSUluaEgxVGxaUmh4bUJKRFkzYWxxRk8tTzhmc2J0Vlh3S0F2ZzB5dXZiSng3ZzFQejdCQ3YyM0RnVlFTSXNqdGxfVzMxdWNwcw?oc=5)
+### [A parasitic stomach bug that can give you diarrhoea for months is sweeping the UK](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlBQaDBkd2JBWjFGRWR6TEtVREFrcHp4WjVZN3hqVTRvNWRPTmxaWjAxUzFrVXcwaEpoNTJTZmtjZklyNDhyS29LQWpqZGNzUWZlNnM4bGVfVTRSOFRUTHdSbms3bkM3N0gxczY3M2NRTXNvZWw3VWZnalJvcy1PUzNXNk9kbWVJc0h0aXRmUXh2NmhIRGNaSDRsSGpEVjd5VVVHeQ?oc=5)
 
 2026-08-27 <span class="news-indication-tag">MS</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbXk2dmJ3RzlrVElIeWdlWEVfSVVpY2RibmZvV0dyQnhOcnlSdlJ5SXN6QW5hQll4dEtpUnVzTGRzdm5QSFk0OFFMTl9mUmtxS3BfV0ZoQWdQRXhYbThIbXVDMFlNWUM4dmJZcDFaM091UzhUQmxqTDNOZm9kRko5UmlrNVBNUXBKREpGeURjSUluaEgxVGxaUmh4bUJKRFkzYWxxRk8tTzhmc2J0Vlh3S0F2ZzB5dXZiSng3ZzFQejdCQ3YyM0RnVlFTSXNqdGxfVzMxdWNwcw?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlBQaDBkd2JBWjFGRWR6TEtVREFrcHp4WjVZN3hqVTRvNWRPTmxaWjAxUzFrVXcwaEpoNTJTZmtjZklyNDhyS29LQWpqZGNzUWZlNnM4bGVfVTRSOFRUTHdSbms3bkM3N0gxczY3M2NRTXNvZWw3VWZnalJvcy1PUzNXNk9kbWVJc0h0aXRmUXh2NmhIRGNaSDRsSGpEVjd5VVVHeQ?oc=5)
 
 ---
 
@@ -142,35 +158,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Gesundheitsamt empfiehlt dringend HPV-Impfung anlässlich des Welttags der sexuellen Gesundheit am 4. September - Landkreis Esslingen](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjEwbVRCTGp1dlF4a2NZOHJ3NzhQbnBOY0JjZDk2SUpIZ1JHazctUkxuZFliSWFyYW5XNUdoS05wMXF4bjk2ZmIyWS1tcXU4djB4VGQ2c1AxZDdQcXlCeHFMUXI2ckF4eU9EWEtPMkRWakZqb1pNcWhYWWo4Q2p1Z2lTNlc?oc=5)
-
-2026-08-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Landkreis Esslingen](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjEwbVRCTGp1dlF4a2NZOHJ3NzhQbnBOY0JjZDk2SUpIZ1JHazctUkxuZFliSWFyYW5XNUdoS05wMXF4bjk2ZmIyWS1tcXU4djB4VGQ2c1AxZDdQcXlCeHFMUXI2ckF4eU9EWEtPMkRWakZqb1pNcWhYWWo4Q2p1Z2lTNlc?oc=5)
-
----
-
-### [New UKHSA alert as ‘parasite’ cases rise to highest levels in a decade - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzJZa2JQWEVjRE83SkhCZ2xFeUtqTm5GYnNYRkZLbWJzcFk2RWdGeURDTl8xNF9GRW9fS3NEN1FENk54Y1lTTmhOc3NvWmZIWGQ5cHl0X3F5akI2N1k5Si13Q2pEajdmdHF0V1d6STlCTEdkTVE5TS1uSDd5SUEzV1BR0gGHAUFVX3lxTE9sNlRlbGpuekx4bUsyZzA2V0ZNWmtNaVMxSzhzMTdoUHhjYWJmX3pIc2RVNWFCbzloMDRMcFNPX1JoQi1weHJ0QXJ3UUd2RmZOV0I2ZHZrdk85NmFqOXBUZThqSTJ6SEJYS241NEU0MTNvcXE3TUtiZFRkQk1mM2lNanl5bmJ2TQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzJZa2JQWEVjRE83SkhCZ2xFeUtqTm5GYnNYRkZLbWJzcFk2RWdGeURDTl8xNF9GRW9fS3NEN1FENk54Y1lTTmhOc3NvWmZIWGQ5cHl0X3F5akI2N1k5Si13Q2pEajdmdHF0V1d6STlCTEdkTVE5TS1uSDd5SUEzV1BR0gGHAUFVX3lxTE9sNlRlbGpuekx4bUsyZzA2V0ZNWmtNaVMxSzhzMTdoUHhjYWJmX3pIc2RVNWFCbzloMDRMcFNPX1JoQi1weHJ0QXJ3UUd2RmZOV0I2ZHZrdk85NmFqOXBUZThqSTJ6SEJYS241NEU0MTNvcXE3TUtiZFRkQk1mM2lNanl5bmJ2TQ?oc=5)
-
----
-
 ### [MS belastet soziale Teilhabe und Beruf stärker als bisher bekannt - Gelbe Liste](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVV0NmNTU1pYSWlCaldfbHZmU2h6YWxfbHB5SWdGWGt5VUdHdVMzeXRfWk9RNk9mSGUtckZXX0FyZDBFTWZ0c1VoRjZrNjNuSG13bllBRE5aWFlMWXhJWmJSa2dEbHRPNGEyNzlESk9fSkprZkw1TWEzZmhNQi1iMlRGVzU2NnJyREdtb0gtY1hUNFMtcmdXeUdZREFUM2w2NTIwekNBOWE5bnladzgxMU5B?oc=5)
 
 2026-08-27 <span class="news-indication-tag">MS</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVV0NmNTU1pYSWlCaldfbHZmU2h6YWxfbHB5SWdGWGt5VUdHdVMzeXRfWk9RNk9mSGUtckZXX0FyZDBFTWZ0c1VoRjZrNjNuSG13bllBRE5aWFlMWXhJWmJSa2dEbHRPNGEyNzlESk9fSkprZkw1TWEzZmhNQi1iMlRGVzU2NnJyREdtb0gtY1hUNFMtcmdXeUdZREFUM2w2NTIwekNBOWE5bnladzgxMU5B?oc=5)
-
----
-
-### [Wild swimming linked to higher risk of stomach bugs and skin rashes - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzN4Y0Ezak5jeVZRaVV2WUhBNVhSZ3ZqQkRyaHVNZHlpMFJTbDVlYUpNVW10WW5xV2h5MzZXanVmN0ZVbmhUbG9xdGd4WlJBcHRhTHdxSFBJTlptc1I0SG1MUXZXaW9WdmQyNWgtdk5sMzhEektjcXVxdkpYNC10UGU5SzNiVEVnenJlemJSVVJlU0ZiNmN4OGFodDF3YjlxS2Yzc2VHV2dITHM?oc=5)
-
-2026-08-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzN4Y0Ezak5jeVZRaVV2WUhBNVhSZ3ZqQkRyaHVNZHlpMFJTbDVlYUpNVW10WW5xV2h5MzZXanVmN0ZVbmhUbG9xdGd4WlJBcHRhTHdxSFBJTlptc1I0SG1MUXZXaW9WdmQyNWgtdk5sMzhEektjcXVxdkpYNC10UGU5SzNiVEVnenJlemJSVVJlU0ZiNmN4OGFodDF3YjlxS2Yzc2VHV2dITHM?oc=5)
 
 ---
 
@@ -214,11 +206,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 ---
 

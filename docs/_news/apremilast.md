@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="Apremilast 有什麼相關新聞？">
-<strong>Apremilast</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apremilast</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/apremilast/
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
 
 2026-08-29 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
-
----
-
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
-
-2026-08-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
 
 ---
 

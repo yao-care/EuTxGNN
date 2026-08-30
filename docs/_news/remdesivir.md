@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
-
-2026-08-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NsUHpOT3lnR1VZWnd2MS1tWHB5Z2E1WHREbk9lMUYyLVNrY0YxcERJWHJKclJhTWhOc2tkV0cyakdnUjBuXzhYRXRwQjljRmJLNFc5S0U0TnN1dkdTSUg1bHJsYU1GM3M1OUdrRkhsdVE1WURyb1RBeDNQazdjcmpzaFl5cXRuR1B5ZWZaci1BWkJacUNZdzduY085bnpxV3RGcVpqLWswOXM?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 
