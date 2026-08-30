@@ -62,19 +62,19 @@ permalink: /news/rimegepant/
 
 ---
 
-### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
-
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
-
----
-
 ### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
 
 2026-08-26 <span class="news-indication-tag">Migräne</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
+
+---
+
+### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
+
+2026-08-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
 ---
 

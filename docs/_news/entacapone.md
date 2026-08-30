@@ -70,27 +70,27 @@ permalink: /news/entacapone/
 
 ---
 
-### [C'est à partir de cet âge que le risque de démence grimpe en flèche, les cellules du cerveau se modifient - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDJObXRhSUpCa2g0elFRY0UwSHdCd1ZCY1ZWV09PR3pVSWdYenMydG9UVWZMUlFFR1UtdnByVTJxNnB5MkRab3ZpNzUyMGJVeERISmM2SS1aalRycnF6N3Rqa0VFclBXZlMyU094dFk0SXpCNEtudnRWT2hyclpvVDZJZ3BTbHhjS2IwRkFSSEYzVnMyNXpkQWhXMm9YZUdTaGpGVm1MLWRIcjItcnFCZw?oc=5)
+### [Deep Sleep Brain Waves Offer Protection Against Alzheimer’s, Shows New Research - Good News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOOVRUU3ZaZWNCa2kxTFVXY1ZCSkJMSGFUVzlvSnZPSGhzMmdYZnQwLVRfN1c4Y1kxSkdSXzByTW1xVjNrY0FUQ2o3LTJKay05UUIzOWRSOGN2ZXY2QzZwbEoxWWt0a1BuRGZoSFFkaWJtWWRvZ1pYc2pqaF9pRUdNOXdQWU9tQjBidHBMNFFjbEtpOWZoTUVYcG54a0ZOUQ?oc=5)
 
-2026-08-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
+2026-08-29 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDJObXRhSUpCa2g0elFRY0UwSHdCd1ZCY1ZWV09PR3pVSWdYenMydG9UVWZMUlFFR1UtdnByVTJxNnB5MkRab3ZpNzUyMGJVeERISmM2SS1aalRycnF6N3Rqa0VFclBXZlMyU094dFk0SXpCNEtudnRWT2hyclpvVDZJZ3BTbHhjS2IwRkFSSEYzVnMyNXpkQWhXMm9YZUdTaGpGVm1MLWRIcjItcnFCZw?oc=5)
+來源：[Good News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOOVRUU3ZaZWNCa2kxTFVXY1ZCSkJMSGFUVzlvSnZPSGhzMmdYZnQwLVRfN1c4Y1kxSkdSXzByTW1xVjNrY0FUQ2o3LTJKay05UUIzOWRSOGN2ZXY2QzZwbEoxWWt0a1BuRGZoSFFkaWJtWWRvZ1pYc2pqaF9pRUdNOXdQWU9tQjBidHBMNFFjbEtpOWZoTUVYcG54a0ZOUQ?oc=5)
 
 ---
 
-### [Scientists pinpoint exactly when women should start HRT to slash dementia risk - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1dZWUNRbzRNeGlsUnpEQjFVckVwQS1OVzhuVk9DcXBrakVodGlaV3FZQ2ZPYzlQRlAtQTY3eGotZVowdXowSWp4TG5wOTQtaEtVcFg1UGNpdWI3Mk1BX1JRQ0pOeFdPbFIzZTBqV1RFMDVuTkJOSG1jQkVVcjhncEwxOGFLZWJFV0s5UFhzNW9xV3VYSXlpOFd0VkdvLVhFT3hPRktKZmFXMDJWVzVWLTJTTGY?oc=5)
+### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
+
+2026-08-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
+
+---
+
+### [Women using HRT at lower risk of dementia, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
 
 2026-08-26 <span class="news-indication-tag">dementia</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1dZWUNRbzRNeGlsUnpEQjFVckVwQS1OVzhuVk9DcXBrakVodGlaV3FZQ2ZPYzlQRlAtQTY3eGotZVowdXowSWp4TG5wOTQtaEtVcFg1UGNpdWI3Mk1BX1JRQ0pOeFdPbFIzZTBqV1RFMDVuTkJOSG1jQkVVcjhncEwxOGFLZWJFV0s5UFhzNW9xV3VYSXlpOFd0VkdvLVhFT3hPRktKZmFXMDJWVzVWLTJTTGY?oc=5)
-
----
-
-### [Study uncovers surprise benefits of Shingrix shingles vaccine - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZTazlyUVJRb3pLVnBBRFFsRzg0MWNhbkstNmZfSThQenFScmZ1SEF3TTFnT082Y1RmSGZWeERrTU1LRHRYMmlEWHhiN1R0emNOQ0k2NWtNTXVtNzlEOHBvZXdwV0FvaXF0YjNXUWx4VFo3UlN1MjNRVnZNVVlfVWpmQUcxY1RVQWFTUHZaQmh0YVZSN1ItTkREdk9TQXZGeVlVel8wUE5KeVlhNU9V?oc=5)
-
-2026-08-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZTazlyUVJRb3pLVnBBRFFsRzg0MWNhbkstNmZfSThQenFScmZ1SEF3TTFnT082Y1RmSGZWeERrTU1LRHRYMmlEWHhiN1R0emNOQ0k2NWtNTXVtNzlEOHBvZXdwV0FvaXF0YjNXUWx4VFo3UlN1MjNRVnZNVVlfVWpmQUcxY1RVQWFTUHZaQmh0YVZSN1ItTkREdk9TQXZGeVlVel8wUE5KeVlhNU9V?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
 
 ---
 

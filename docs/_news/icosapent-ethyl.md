@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 heart disease</span></li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 heart failure</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -70,11 +70,11 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
-### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+### [Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
-2026-08-28 <span class="news-indication-tag">artrite</span>
+2026-08-27 <span class="news-indication-tag">arthritis</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
-### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
+### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-08-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
 ---
 

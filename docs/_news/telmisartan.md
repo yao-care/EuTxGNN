@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
-### [Demenz: Diese drei Faktoren entscheiden mit darüber, wie lange Ihr Gehirn fit bleibt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTFBCSGNqYkVQY2ZGdDdtcWRFWkJFOWNTaU12eHZlNlAwcGJ1S1lUNnVDSUpDdExnYm9adS14XzlXbGlxVFZLTnNQRl9ZWWlrZmFISTBfbW5qcFdZQ2VmdDVsUFAxdnNhWVV0N1JYNVk4anYtaTdYT3VJVHl1MXRvaklub2NjVU1kNTdNNHFUaVRJeHpybVBZWkRENmplLVVUbzhaV0lhUGdCX0FKQW9PT0gwdzE3elRjYjBzeDFrQXpWMk1peUlvNTBNWHAtOFFRbEp3Y1ppTkFHdWUwcF9QRTBONGVOZw?oc=5)
+### [Impfung schützt doppelt: Studie weckt neue Hoffnung gegen Demenz](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVJKQVdTMHJiN2IyY2RLdmNMQlEwUThFd3VSbWI2T1hfUGs5czVQY2FrVHh2Vzk5ZkxJTVZ5TUFsMWRGcTU2MDJ3NXh2Q25qVDI1NGFSRW5HTU9WOGJONi03RU15Y1JldEw3LUtVWE9ILVI4NTNKOTFiT1VOdENpRXNrVUhnZGx5bGJ6d2lsQV9GTEE0MUpLTjZWNW0xYnduaEVCdmZZeFg1ZUdHU0FzUk1RWUJOZExwV2NYeFF6WXNDbVRGVlJUMk1Bb3E?oc=5)
 
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTFBCSGNqYkVQY2ZGdDdtcWRFWkJFOWNTaU12eHZlNlAwcGJ1S1lUNnVDSUpDdExnYm9adS14XzlXbGlxVFZLTnNQRl9ZWWlrZmFISTBfbW5qcFdZQ2VmdDVsUFAxdnNhWVV0N1JYNVk4anYtaTdYT3VJVHl1MXRvaklub2NjVU1kNTdNNHFUaVRJeHpybVBZWkRENmplLVVUbzhaV0lhUGdCX0FKQW9PT0gwdzE3elRjYjBzeDFrQXpWMk1peUlvNTBNWHAtOFFRbEp3Y1ppTkFHdWUwcF9QRTBONGVOZw?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVJKQVdTMHJiN2IyY2RLdmNMQlEwUThFd3VSbWI2T1hfUGs5czVQY2FrVHh2Vzk5ZkxJTVZ5TUFsMWRGcTU2MDJ3NXh2Q25qVDI1NGFSRW5HTU9WOGJONi03RU15Y1JldEw3LUtVWE9ILVI4NTNKOTFiT1VOdENpRXNrVUhnZGx5bGJ6d2lsQV9GTEE0MUpLTjZWNW0xYnduaEVCdmZZeFg1ZUdHU0FzUk1RWUJOZExwV2NYeFF6WXNDbVRGVlJUMk1Bb3E?oc=5)
 
 ---
 
-### [Schlaganfall: Elektroakupunktur senkt Laktatwert um 29 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
+### [Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxOSjhzTDNXcXBfUXRDcWNzNEJULXFWMnI0b0VQLVRqV0VVYVQ0aFFzejZ1XzlXenhncUhFVHFXY1JKQ1g4WTBhbkhEWExNeGswM0V2cU9PMUlHT2t2N2lHY0g0ZG1hWkdjWUpoN1hiNHBBUTJkQzVkaVNFaVJDdFV5clhOZjdGMVNYTmhNb1VFekNyNXloRk9iT3ZUZmtuQQ?oc=5)
 
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-30 <span class="news-indication-tag">stroke</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxOSjhzTDNXcXBfUXRDcWNzNEJULXFWMnI0b0VQLVRqV0VVYVQ0aFFzejZ1XzlXenhncUhFVHFXY1JKQ1g4WTBhbkhEWExNeGswM0V2cU9PMUlHT2t2N2lHY0g0ZG1hWkdjWUpoN1hiNHBBUTJkQzVkaVNFaVJDdFV5clhOZjdGMVNYTmhNb1VFekNyNXloRk9iT3ZUZmtuQQ?oc=5)
 
 ---
 
@@ -94,27 +94,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Statine dopo i 70 anni, il grande trial scioglie un dubbio durato decenni](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
+### [Statine e colesterolo dopo i 70 anni: quando servono davvero contro l'infarto e i rischi da non sottovalutare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
 
 2026-08-29 <span class="news-indication-tag">ictus</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
 
 ---
 
-### [Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
+### [Traitement contre l’hypertension : cette étude remet en question le meilleur moment pour le prendre - Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t0bm1pVjdXVFBUX1dNMXhUbFJocDRQd3JhYk5DQUpVbXUteEExbTNzOEhTSlA0UzBRTGU4Z0MwTS1uUlNUQjBEVGRvV3diS2JmZ0hLS20xb092MFNKZ2FsMnV3Q2hwS2RtYU5OMV9vb3JpNlNWOGk2UDhxRVJMME9CYTY1Y2VkSVNHNTZB?oc=5)
 
-2026-08-29 <span class="news-indication-tag">stroke</span>
+2026-08-29 <span class="news-indication-tag">hypertension</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
-
----
-
-### [Recombinant-Varizellen-Zoster-Impfung und Herzgesundheit: Nature Medicine findet Muster - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQazBnUTBhSlNUQ2hoblAxZDlnaGtMM3h0Mnd4bS1MaWFnRlliUnhaTVJ4SHpuMkZhYWRScnpKRmU2NFNJYlliWHNLaXBzWnNwaF9NUHU0QVVOQnE1aExhTS1Ea0NXN0xkY29WQ0ZrdzFSTmJkbTBsRzFaNDFzTklwajBkZHluSzVvTTQ3U294WEF0bXpTc1Vua3VCMEpOUGt0Q3FnMHByOFo4LXB2MjFtZHh4SkhQS3M2Nmc?oc=5)
-
-2026-08-29 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQazBnUTBhSlNUQ2hoblAxZDlnaGtMM3h0Mnd4bS1MaWFnRlliUnhaTVJ4SHpuMkZhYWRScnpKRmU2NFNJYlliWHNLaXBzWnNwaF9NUHU0QVVOQnE1aExhTS1Ea0NXN0xkY29WQ0ZrdzFSTmJkbTBsRzFaNDFzTklwajBkZHluSzVvTTQ3U294WEF0bXpTc1Vua3VCMEpOUGt0Q3FnMHByOFo4LXB2MjFtZHh4SkhQS3M2Nmc?oc=5)
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t0bm1pVjdXVFBUX1dNMXhUbFJocDRQd3JhYk5DQUpVbXUteEExbTNzOEhTSlA0UzBRTGU4Z0MwTS1uUlNUQjBEVGRvV3diS2JmZ0hLS20xb092MFNKZ2FsMnV3Q2hwS2RtYU5OMV9vb3JpNlNWOGk2UDhxRVJMME9CYTY1Y2VkSVNHNTZB?oc=5)
 
 ---
 
@@ -126,19 +118,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Nicht nur Brustkrebs: Mammografie erkennt auch Herz-Kreislauf-Erkrankungen - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUgyRFdJZnZLN0hHZThZUEk1eU5iTnAydFFhRmF1ZU5RcFpZNjZvUGJjRnlTci1MWElHTjRuVXU0azFCeWxDMnRkQ3VLbURZSHlTZnFlXzF4c2VrUFhvemF5NjhzTEFzQnViVkp4c202c0gwZFE2djJTWkFJSVZQQmp5S3dmWEFpZy02bkUxa2ZiSm56R2J4X05hcVhGUFQ2cWFDQk1GcU9hd1pFRGRYazFFUW5HRWFkblB2UkNpUnA2c2lnd2llQV9WcWp4akhINFNj?oc=5)
+### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUgyRFdJZnZLN0hHZThZUEk1eU5iTnAydFFhRmF1ZU5RcFpZNjZvUGJjRnlTci1MWElHTjRuVXU0azFCeWxDMnRkQ3VLbURZSHlTZnFlXzF4c2VrUFhvemF5NjhzTEFzQnViVkp4c202c0gwZFE2djJTWkFJSVZQQmp5S3dmWEFpZy02bkUxa2ZiSm56R2J4X05hcVhGUFQ2cWFDQk1GcU9hd1pFRGRYazFFUW5HRWFkblB2UkNpUnA2c2lnd2llQV9WcWp4akhINFNj?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 ---
 
-### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
+### [Alzheimer & Co.: Gehirngesundheit im Fokus - Pharma Fakten](https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDcya3hTejAwaENaZnBBWEEzcEVHWG5Pb3dFck8xSmN4THhFTXI3OW1iS1NCdHMxdzZRTDFJSkZvWHVsWWVVajZrZEpURGFaeHFlSDFtLTV0QnRqcjBVR2JuUThteWdTVEVDNmozSGJmamZaNW1UTQ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
+來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDcya3hTejAwaENaZnBBWEEzcEVHWG5Pb3dFck8xSmN4THhFTXI3OW1iS1NCdHMxdzZRTDFJSkZvWHVsWWVVajZrZEpURGFaeHFlSDFtLTV0QnRqcjBVR2JuUThteWdTVEVDNmozSGJmamZaNW1UTQ?oc=5)
 
 ---
 
@@ -150,11 +142,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Study uncovers surprise benefits of Shingrix shingles vaccine - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZTazlyUVJRb3pLVnBBRFFsRzg0MWNhbkstNmZfSThQenFScmZ1SEF3TTFnT082Y1RmSGZWeERrTU1LRHRYMmlEWHhiN1R0emNOQ0k2NWtNTXVtNzlEOHBvZXdwV0FvaXF0YjNXUWx4VFo3UlN1MjNRVnZNVVlfVWpmQUcxY1RVQWFTUHZaQmh0YVZSN1ItTkREdk9TQXZGeVlVel8wUE5KeVlhNU9V?oc=5)
+### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
-2026-08-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-08-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZTazlyUVJRb3pLVnBBRFFsRzg0MWNhbkstNmZfSThQenFScmZ1SEF3TTFnT082Y1RmSGZWeERrTU1LRHRYMmlEWHhiN1R0emNOQ0k2NWtNTXVtNzlEOHBvZXdwV0FvaXF0YjNXUWx4VFo3UlN1MjNRVnZNVVlfVWpmQUcxY1RVQWFTUHZaQmh0YVZSN1ItTkREdk9TQXZGeVlVel8wUE5KeVlhNU9V?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
 ---
 

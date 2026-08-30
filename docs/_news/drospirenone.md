@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Long Covid e virus "fantasma": perché l'infezione sveglia i patogeni latenti nel nostro corpo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
+
+2026-08-30 <span class="news-indication-tag">asma</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/drospirenone/
 
 ---
 
-### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+### [Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
-2026-08-28 <span class="news-indication-tag">artrite</span>
+2026-08-27 <span class="news-indication-tag">arthritis</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
 ---
 

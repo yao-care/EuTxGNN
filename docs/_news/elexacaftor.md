@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlJ0a3lZZkJyTThaRmZjZUFBbG4temVDbzA5YW9JLWZ1b3VhSVo0V0d1UkZqcFd1NGNBRl9HZDVmVDZmZ0RlRjloLTNGWFl6YURkTnEteW9ObllOR0tsZFJ6QWR0VEFtNjN0bDRjMExRM0FLSWFaTnJOY2F2STZsVlJjU0RWMFQ4Vm9jSWk5TWsyQTYwUEFaX3pwTW1EaG96TDBlSE8tSWZ2aVE?oc=5)
 
 2026-08-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlJ0a3lZZkJyTThaRmZjZUFBbG4temVDbzA5YW9JLWZ1b3VhSVo0V0d1UkZqcFd1NGNBRl9HZDVmVDZmZ0RlRjloLTNGWFl6YURkTnEteW9ObllOR0tsZFJ6QWR0VEFtNjN0bDRjMExRM0FLSWFaTnJOY2F2STZsVlJjU0RWMFQ4Vm9jSWk5TWsyQTYwUEFaX3pwTW1EaG96TDBlSE8tSWZ2aVE?oc=5)
+
+---
+
+### [Traitement contre l’hypertension : cette étude remet en question le meilleur moment pour le prendre - Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t0bm1pVjdXVFBUX1dNMXhUbFJocDRQd3JhYk5DQUpVbXUteEExbTNzOEhTSlA0UzBRTGU4Z0MwTS1uUlNUQjBEVGRvV3diS2JmZ0hLS20xb092MFNKZ2FsMnV3Q2hwS2RtYU5OMV9vb3JpNlNWOGk2UDhxRVJMME9CYTY1Y2VkSVNHNTZB?oc=5)
+
+2026-08-29 <span class="news-indication-tag">hypertension</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t0bm1pVjdXVFBUX1dNMXhUbFJocDRQd3JhYk5DQUpVbXUteEExbTNzOEhTSlA0UzBRTGU4Z0MwTS1uUlNUQjBEVGRvV3diS2JmZ0hLS20xb092MFNKZ2FsMnV3Q2hwS2RtYU5OMV9vb3JpNlNWOGk2UDhxRVJMME9CYTY1Y2VkSVNHNTZB?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/elexacaftor/
 
 ---
 
-### [Nicht nur Brustkrebs: Mammografie erkennt auch Herz-Kreislauf-Erkrankungen - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUgyRFdJZnZLN0hHZThZUEk1eU5iTnAydFFhRmF1ZU5RcFpZNjZvUGJjRnlTci1MWElHTjRuVXU0azFCeWxDMnRkQ3VLbURZSHlTZnFlXzF4c2VrUFhvemF5NjhzTEFzQnViVkp4c202c0gwZFE2djJTWkFJSVZQQmp5S3dmWEFpZy02bkUxa2ZiSm56R2J4X05hcVhGUFQ2cWFDQk1GcU9hd1pFRGRYazFFUW5HRWFkblB2UkNpUnA2c2lnd2llQV9WcWp4akhINFNj?oc=5)
+### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUgyRFdJZnZLN0hHZThZUEk1eU5iTnAydFFhRmF1ZU5RcFpZNjZvUGJjRnlTci1MWElHTjRuVXU0azFCeWxDMnRkQ3VLbURZSHlTZnFlXzF4c2VrUFhvemF5NjhzTEFzQnViVkp4c202c0gwZFE2djJTWkFJSVZQQmp5S3dmWEFpZy02bkUxa2ZiSm56R2J4X05hcVhGUFQ2cWFDQk1GcU9hd1pFRGRYazFFUW5HRWFkblB2UkNpUnA2c2lnd2llQV9WcWp4akhINFNj?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
 
 ---
 
-### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+### [Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
-2026-08-28 <span class="news-indication-tag">artrite</span>
+2026-08-27 <span class="news-indication-tag">arthritis</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
 ---
 

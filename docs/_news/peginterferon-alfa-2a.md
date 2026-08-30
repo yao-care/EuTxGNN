@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
 
 ### [Maidstone woman's early cancer symptoms blamed on menopause](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
 
@@ -62,19 +62,35 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [Una bióloga celular, una oncóloga y la promesa de una vacuna terapéutica contra el melanoma](https://news.google.com/rss/articles/CBMiywFBVV95cUxONnVhLXJPSjV4MVVUZEtWbElOZkliU3ZtRWNjRGdLemhrZVNzYnZhVmE2Q3NQYndTYm1PWVczQXNxS0txWTRDVGdoR2MyQ2hfYzFPS1NydW8zYnY0WUlxbEFHTWZ1dE5Td0tYZEcyNGRzSzBOQjVuOFR6TTJ0UnlQZzUyeGZFSFdmUlpUeElGMzRDeFFpOS1HZGhfUUIybkFrMmJNM3J1Z0QyT2R0Rk93TEZGSy1STEI0NGxzUnc3RmlBQmpkM3dweklGUdIB0AFBVV95cUxOaFkyYldOMTEtZDZrZ1hUQk9mU3k0ZXphMG9MckxqSDMxOVBzLUpSb1VYZ1JJajBlSjUtUEFhLXRSa0daSXByQ3FSbU9QdjBVOWpRbWRXZy1FWDBodmVhYWFYQlVNN0tPUkFOek9wb0dqQjR4Q3hjcG1XWFVyY2dDaEdyeFhzdnZnWFd6aS1UdmNxUndXSmhndFU0Vk5zczlaTERTZndrOElBMUFBZmF6bDZzVzllcDdXVUZYTXBYTVAxQl9DbFRTcS1xZVZYTlU0?oc=5)
+
+2026-08-30 <span class="news-indication-tag">MS</span>
+
+來源：[naiz:](https://news.google.com/rss/articles/CBMiywFBVV95cUxONnVhLXJPSjV4MVVUZEtWbElOZkliU3ZtRWNjRGdLemhrZVNzYnZhVmE2Q3NQYndTYm1PWVczQXNxS0txWTRDVGdoR2MyQ2hfYzFPS1NydW8zYnY0WUlxbEFHTWZ1dE5Td0tYZEcyNGRzSzBOQjVuOFR6TTJ0UnlQZzUyeGZFSFdmUlpUeElGMzRDeFFpOS1HZGhfUUIybkFrMmJNM3J1Z0QyT2R0Rk93TEZGSy1STEI0NGxzUnc3RmlBQmpkM3dweklGUdIB0AFBVV95cUxOaFkyYldOMTEtZDZrZ1hUQk9mU3k0ZXphMG9MckxqSDMxOVBzLUpSb1VYZ1JJajBlSjUtUEFhLXRSa0daSXByQ3FSbU9QdjBVOWpRbWRXZy1FWDBodmVhYWFYQlVNN0tPUkFOek9wb0dqQjR4Q3hjcG1XWFVyY2dDaEdyeFhzdnZnWFd6aS1UdmNxUndXSmhndFU0Vk5zczlaTERTZndrOElBMUFBZmF6bDZzVzllcDdXVUZYTXBYTVAxQl9DbFRTcS1xZVZYTlU0?oc=5)
+
+---
+
+### [I lost both my legs and tips of my fingers from killer bug - here’s why students can’t ignore flu-like symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkx0cDVWeHMwZ3dKOVRWOVFLblVWMGlHZE9PYXpPZ0hUd2lyOTBrRHRSNnRQc2dmOEVrbFU3VFRMT3Z0RlhrUnBpUnlWWTFGNGZ2NlBpazBkNkVTRXVYUFM0WDVxZmoyZEljR1dVcGhYVWY4U1Z0dXBhOGh5ckxFM2V6SlA1RTV2YTE0QkFXZTNoaGtSamNsTlB4TQ?oc=5)
+
+2026-08-29 <span class="news-indication-tag">MS</span>
+
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkx0cDVWeHMwZ3dKOVRWOVFLblVWMGlHZE9PYXpPZ0hUd2lyOTBrRHRSNnRQc2dmOEVrbFU3VFRMT3Z0RlhrUnBpUnlWWTFGNGZ2NlBpazBkNkVTRXVYUFM0WDVxZmoyZEljR1dVcGhYVWY4U1Z0dXBhOGh5ckxFM2V6SlA1RTV2YTE0QkFXZTNoaGtSamNsTlB4TQ?oc=5)
+
+---
+
+### [Deep Sleep Brain Waves Offer Protection Against Alzheimer’s, Shows New Research - Good News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOOVRUU3ZaZWNCa2kxTFVXY1ZCSkJMSGFUVzlvSnZPSGhzMmdYZnQwLVRfN1c4Y1kxSkdSXzByTW1xVjNrY0FUQ2o3LTJKay05UUIzOWRSOGN2ZXY2QzZwbEoxWWt0a1BuRGZoSFFkaWJtWWRvZ1pYc2pqaF9pRUdNOXdQWU9tQjBidHBMNFFjbEtpOWZoTUVYcG54a0ZOUQ?oc=5)
+
+2026-08-29 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOOVRUU3ZaZWNCa2kxTFVXY1ZCSkJMSGFUVzlvSnZPSGhzMmdYZnQwLVRfN1c4Y1kxSkdSXzByTW1xVjNrY0FUQ2o3LTJKay05UUIzOWRSOGN2ZXY2QzZwbEoxWWt0a1BuRGZoSFFkaWJtWWRvZ1pYc2pqaF9pRUdNOXdQWU9tQjBidHBMNFFjbEtpOWZoTUVYcG54a0ZOUQ?oc=5)
+
+---
+
 ### [La hepatitis D deja de ser una enfermedad sin tratamiento para convertirse en una prioridad clínica - Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
 2026-08-29 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
-
----
-
-### [Darm-Hirn-Achse: NUTRIMIND-Projekt erforscht Mikrobiom und Psyche - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWNnMjJkNnRIVTd1SDhhT1BuNkNNQ1VBOFhJMU92ZWsyX0FfNGtZX19yZks3c1ViUzVVT19pNFRsNUI5bklrSHNiZmVYd3JUUDhVc2lNVDFQR1czd2kxYllRRGtuN2Y4eGg2UmJzTDV4LXZLUVNYVjF0R05SVFJ2VWRCSkZScmJqTEpfVTVOUXNJbjZMamhKNGZBVm5wTnF6TTlkTE1IWFczWTcyNGV0ejV3MA?oc=5)
-
-2026-08-28 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWNnMjJkNnRIVTd1SDhhT1BuNkNNQ1VBOFhJMU92ZWsyX0FfNGtZX19yZks3c1ViUzVVT19pNFRsNUI5bklrSHNiZmVYd3JUUDhVc2lNVDFQR1czd2kxYllRRGtuN2Y4eGg2UmJzTDV4LXZLUVNYVjF0R05SVFJ2VWRCSkZScmJqTEpfVTVOUXNJbjZMamhKNGZBVm5wTnF6TTlkTE1IWFczWTcyNGV0ejV3MA?oc=5)
 
 ---
 
@@ -102,27 +118,19 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [‘Grossly irresponsible’ Channel 4 doc receives more than 9,000 Ofcom complaints](https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1A0MV84SW90TmM1WkxmUGpNam9pY3ROS3FBRmdRV29iUUpydkk5TnZ4NmhqMndUVllBckhKdDZyUXVES2FGSTJESGhCcXNHd1JCWDhibXpCYWpkUjJ6b1NSMHVDM25JUmltRG5tUm5jeVBpYlJjaU93UlE2VDA0TExKQ1RETUNxUmg5MXRmMkVoUHlCeXVPaHpOM1pXX1N1UERpbE9kZ3BaR2t3?oc=5)
-
-2026-08-27 <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1A0MV84SW90TmM1WkxmUGpNam9pY3ROS3FBRmdRV29iUUpydkk5TnZ4NmhqMndUVllBckhKdDZyUXVES2FGSTJESGhCcXNHd1JCWDhibXpCYWpkUjJ6b1NSMHVDM25JUmltRG5tUm5jeVBpYlJjaU93UlE2VDA0TExKQ1RETUNxUmg5MXRmMkVoUHlCeXVPaHpOM1pXX1N1UERpbE9kZ3BaR2t3?oc=5)
-
----
-
-### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
-
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
-
----
-
 ### [MS belastet soziale Teilhabe und Beruf stärker als bisher bekannt - Gelbe Liste](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVV0NmNTU1pYSWlCaldfbHZmU2h6YWxfbHB5SWdGWGt5VUdHdVMzeXRfWk9RNk9mSGUtckZXX0FyZDBFTWZ0c1VoRjZrNjNuSG13bllBRE5aWFlMWXhJWmJSa2dEbHRPNGEyNzlESk9fSkprZkw1TWEzZmhNQi1iMlRGVzU2NnJyREdtb0gtY1hUNFMtcmdXeUdZREFUM2w2NTIwekNBOWE5bnladzgxMU5B?oc=5)
 
 2026-08-27 <span class="news-indication-tag">MS</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVV0NmNTU1pYSWlCaldfbHZmU2h6YWxfbHB5SWdGWGt5VUdHdVMzeXRfWk9RNk9mSGUtckZXX0FyZDBFTWZ0c1VoRjZrNjNuSG13bllBRE5aWFlMWXhJWmJSa2dEbHRPNGEyNzlESk9fSkprZkw1TWEzZmhNQi1iMlRGVzU2NnJyREdtb0gtY1hUNFMtcmdXeUdZREFUM2w2NTIwekNBOWE5bnladzgxMU5B?oc=5)
+
+---
+
+### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+
+2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
 
 ---
 
@@ -144,17 +152,17 @@ permalink: /news/peginterferon-alfa-2a/
 
 ### [Largest review of its kind confirms benefits of tai chi and other Chinese exercises - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
 
-2026-08-25 <span class="news-indication-tag">MS</span>
+2026-08-24 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
 
 ---
 
-### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 ---
 

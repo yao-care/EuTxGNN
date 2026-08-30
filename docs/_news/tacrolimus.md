@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
 
@@ -70,19 +70,11 @@ permalink: /news/tacrolimus/
 
 ---
 
-### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+### [Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
-2026-08-28 <span class="news-indication-tag">artrite</span>
+2026-08-27 <span class="news-indication-tag">arthritis</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
-
----
-
-### [Psoriasi, il DNA indica 50 possibili bersagli terapeutici](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
-
-2026-08-28 <span class="news-indication-tag">soriasi</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHNuUE0wb080TThOZnY4SHZ2Uk9tdTF4ZEVBUlVtM1h0RlBkZGpSSnRldWhHMHRKbzlzMEZoNDViMFBGempoOWx0anNtSGg1b2RVVVNVOVM4TFpiMVAtTFVERVliSFZ6NENUSnZ4VVE2VEJGakNMbFpSbmI1V3FqUWRLUW41TExIWXV2djh2MjZmVzJMTDM4bndSWGVuWlI1cFBNbFBIYWdDT0tjVTU3N3R2SU1VQm8?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
 ---
 

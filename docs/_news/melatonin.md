@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajdOc1hJQnBZdXhtcU1tLWZtMy1CUDZYdmtfNnJSSnFHelVXZ0d3ZzZpNWM2dUFrcGMzNVdQZEdPM2ZYRGNHMHFKUnE1VWNoVHNkVlV2LXU3b1RpMm1BbDRmVFVBQUp0RmJqaW45dnVaS1hSSVJuSmN0N1pTWTFYZ0xqUHcwN2NXX1llbFd4a1pqREJQMzJnLUZJd3l3Zkx2bWNWWk54MkdMcm1rUFljblpGeE5xd29YcTNzM3BuX2EzNl9FbjZPX2xCWmJOblAy?oc=5)
 
@@ -78,11 +78,27 @@ permalink: /news/melatonin/
 
 ---
 
+### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+
+2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+
+---
+
 ### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
 
 2026-08-26 <span class="news-indication-tag">Migräne</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
+
+---
+
+### [Adipositas: Bariatrische Operationen nach Therapie mit GLP-1-Rezeptoragonisten möglich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
+
+2026-08-25 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
 
 ---
 

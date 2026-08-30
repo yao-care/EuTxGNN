@@ -62,11 +62,11 @@ permalink: /news/meropenem/
 
 ---
 
-### [Artrite reumatoide, quando spegnere l'infiammazione non basta: il ruolo dell'IL-6 nel dolore](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+### [Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
-2026-08-28 <span class="news-indication-tag">artrite</span>
+2026-08-27 <span class="news-indication-tag">arthritis</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTNvX05vUUJNMFg4emI5MUlOd0lycXNGY1R6QU9OUVQtc2p6LVgyb2lyY0M1VEVjcHZ6T0NfNXBqZ1R0bzlKdUF2azlsSnVmek5QRnJaTkktbTdTMWtFcHFQMDlYZEM2STJtbTdIVGN3WkpWQ2FTY05hTUhUeG5tSW10OXhsaG91SWtKMGtZQ0RkbzVPNHV6eUpIMC1VM1NHeWJWZFhVaWs1QTBoWnZNX3VBUFFxRE1KNi1QQlhxWk12cTMwTWpMdjZiajI?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
 ---
 

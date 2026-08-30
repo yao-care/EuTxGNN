@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（17 則）
 
-### [Demenz: Diese drei Faktoren entscheiden mit darüber, wie lange Ihr Gehirn fit bleibt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTFBCSGNqYkVQY2ZGdDdtcWRFWkJFOWNTaU12eHZlNlAwcGJ1S1lUNnVDSUpDdExnYm9adS14XzlXbGlxVFZLTnNQRl9ZWWlrZmFISTBfbW5qcFdZQ2VmdDVsUFAxdnNhWVV0N1JYNVk4anYtaTdYT3VJVHl1MXRvaklub2NjVU1kNTdNNHFUaVRJeHpybVBZWkRENmplLVVUbzhaV0lhUGdCX0FKQW9PT0gwdzE3elRjYjBzeDFrQXpWMk1peUlvNTBNWHAtOFFRbEp3Y1ppTkFHdWUwcF9QRTBONGVOZw?oc=5)
+### [Impfung schützt doppelt: Studie weckt neue Hoffnung gegen Demenz](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVJKQVdTMHJiN2IyY2RLdmNMQlEwUThFd3VSbWI2T1hfUGs5czVQY2FrVHh2Vzk5ZkxJTVZ5TUFsMWRGcTU2MDJ3NXh2Q25qVDI1NGFSRW5HTU9WOGJONi03RU15Y1JldEw3LUtVWE9ILVI4NTNKOTFiT1VOdENpRXNrVUhnZGx5bGJ6d2lsQV9GTEE0MUpLTjZWNW0xYnduaEVCdmZZeFg1ZUdHU0FzUk1RWUJOZExwV2NYeFF6WXNDbVRGVlJUMk1Bb3E?oc=5)
 
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTFBCSGNqYkVQY2ZGdDdtcWRFWkJFOWNTaU12eHZlNlAwcGJ1S1lUNnVDSUpDdExnYm9adS14XzlXbGlxVFZLTnNQRl9ZWWlrZmFISTBfbW5qcFdZQ2VmdDVsUFAxdnNhWVV0N1JYNVk4anYtaTdYT3VJVHl1MXRvaklub2NjVU1kNTdNNHFUaVRJeHpybVBZWkRENmplLVVUbzhaV0lhUGdCX0FKQW9PT0gwdzE3elRjYjBzeDFrQXpWMk1peUlvNTBNWHAtOFFRbEp3Y1ppTkFHdWUwcF9QRTBONGVOZw?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVJKQVdTMHJiN2IyY2RLdmNMQlEwUThFd3VSbWI2T1hfUGs5czVQY2FrVHh2Vzk5ZkxJTVZ5TUFsMWRGcTU2MDJ3NXh2Q25qVDI1NGFSRW5HTU9WOGJONi03RU15Y1JldEw3LUtVWE9ILVI4NTNKOTFiT1VOdENpRXNrVUhnZGx5bGJ6d2lsQV9GTEE0MUpLTjZWNW0xYnduaEVCdmZZeFg1ZUdHU0FzUk1RWUJOZExwV2NYeFF6WXNDbVRGVlJUMk1Bb3E?oc=5)
 
 ---
 
-### [Schlaganfall: Elektroakupunktur senkt Laktatwert um 29 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
+### [Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxOSjhzTDNXcXBfUXRDcWNzNEJULXFWMnI0b0VQLVRqV0VVYVQ0aFFzejZ1XzlXenhncUhFVHFXY1JKQ1g4WTBhbkhEWExNeGswM0V2cU9PMUlHT2t2N2lHY0g0ZG1hWkdjWUpoN1hiNHBBUTJkQzVkaVNFaVJDdFV5clhOZjdGMVNYTmhNb1VFekNyNXloRk9iT3ZUZmtuQQ?oc=5)
 
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-30 <span class="news-indication-tag">stroke</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxOSjhzTDNXcXBfUXRDcWNzNEJULXFWMnI0b0VQLVRqV0VVYVQ0aFFzejZ1XzlXenhncUhFVHFXY1JKQ1g4WTBhbkhEWExNeGswM0V2cU9PMUlHT2t2N2lHY0g0ZG1hWkdjWUpoN1hiNHBBUTJkQzVkaVNFaVJDdFV5clhOZjdGMVNYTmhNb1VFekNyNXloRk9iT3ZUZmtuQQ?oc=5)
 
 ---
 
@@ -94,27 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Statine dopo i 70 anni, il grande trial scioglie un dubbio durato decenni](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
+### [Statine e colesterolo dopo i 70 anni: quando servono davvero contro l'infarto e i rischi da non sottovalutare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
 
 2026-08-29 <span class="news-indication-tag">ictus</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
-
----
-
-### [Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
-
-2026-08-29 <span class="news-indication-tag">stroke</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
-
----
-
-### [Recombinant-Varizellen-Zoster-Impfung und Herzgesundheit: Nature Medicine findet Muster - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQazBnUTBhSlNUQ2hoblAxZDlnaGtMM3h0Mnd4bS1MaWFnRlliUnhaTVJ4SHpuMkZhYWRScnpKRmU2NFNJYlliWHNLaXBzWnNwaF9NUHU0QVVOQnE1aExhTS1Ea0NXN0xkY29WQ0ZrdzFSTmJkbTBsRzFaNDFzTklwajBkZHluSzVvTTQ3U294WEF0bXpTc1Vua3VCMEpOUGt0Q3FnMHByOFo4LXB2MjFtZHh4SkhQS3M2Nmc?oc=5)
-
-2026-08-29 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQazBnUTBhSlNUQ2hoblAxZDlnaGtMM3h0Mnd4bS1MaWFnRlliUnhaTVJ4SHpuMkZhYWRScnpKRmU2NFNJYlliWHNLaXBzWnNwaF9NUHU0QVVOQnE1aExhTS1Ea0NXN0xkY29WQ0ZrdzFSTmJkbTBsRzFaNDFzTklwajBkZHluSzVvTTQ3U294WEF0bXpTc1Vua3VCMEpOUGt0Q3FnMHByOFo4LXB2MjFtZHh4SkhQS3M2Nmc?oc=5)
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
 
 ---
 
@@ -134,6 +118,22 @@ permalink: /news/orlistat/
 
 ---
 
+### [Mammografie-KI: Schlaganfallrisiko mit 86% Genauigkeit erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlgxNnBQakQySjBraW5VeGhJaGZNS2VnTTJKVl9WaTU0NVA4Qi1pcG5BQWVIRWJEZVFQYUF2TmFOVnVrRWJvNHIxNjhOb05kSmF2ckNEcXhwcGJvbUJ1bWpUVENJdFNaS2ZfRkt6RWFNT181WkFmOTlzODFOemNNN3VKMjR3blo5ekVhcl94SGE5RHktZTRUSEZnVnc4cUR2a2d4a0p3NFBHS29WbHBpMXpmSjRGbEs2?oc=5)
+
+---
+
+### [Alzheimer & Co.: Gehirngesundheit im Fokus - Pharma Fakten](https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDcya3hTejAwaENaZnBBWEEzcEVHWG5Pb3dFck8xSmN4THhFTXI3OW1iS1NCdHMxdzZRTDFJSkZvWHVsWWVVajZrZEpURGFaeHFlSDFtLTV0QnRqcjBVR2JuUThteWdTVEVDNmozSGJmamZaNW1UTQ?oc=5)
+
+2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMieEFVX3lxTE90VDcya3hTejAwaENaZnBBWEEzcEVHWG5Pb3dFck8xSmN4THhFTXI3OW1iS1NCdHMxdzZRTDFJSkZvWHVsWWVVajZrZEpURGFaeHFlSDFtLTV0QnRqcjBVR2JuUThteWdTVEVDNmozSGJmamZaNW1UTQ?oc=5)
+
+---
+
 ### [Neue Adipositasdefinition könnte bei Auswahl bariatrischer Eingriffe helfen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0pDTG9DNE9HY3QyM2xnY0k4REpsTEh6OFU2NFdnRVlyMVdEdUE0a2FTSzNWRUpqaC1EcXRBNE1mbmJYZmNjWDZQR09xS0RvTHhJUEd6bUlwN3g4SDhNMGRpcWVCYUd5dzFtQkdMMWJQdmw3SmIzcGJUdU5TdE5TMzNoblhpT1I4NkdkSXRKUE9RcHh1RTFhZ0hHLUhma2lJcThzdkFoQXlSRFRKTEsxc0tJM2V4a1ZJclBrY3ZjbWYyYjJibWl0OE16WUo4ZHNxdG1zRzRUNmNPdzE4?oc=5)
 
 2026-08-27 <span class="news-indication-tag">Adipositas</span>
@@ -150,11 +150,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Study uncovers surprise benefits of Shingrix shingles vaccine - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZTazlyUVJRb3pLVnBBRFFsRzg0MWNhbkstNmZfSThQenFScmZ1SEF3TTFnT082Y1RmSGZWeERrTU1LRHRYMmlEWHhiN1R0emNOQ0k2NWtNTXVtNzlEOHBvZXdwV0FvaXF0YjNXUWx4VFo3UlN1MjNRVnZNVVlfVWpmQUcxY1RVQWFTUHZaQmh0YVZSN1ItTkREdk9TQXZGeVlVel8wUE5KeVlhNU9V?oc=5)
+### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
 
-2026-08-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZTazlyUVJRb3pLVnBBRFFsRzg0MWNhbkstNmZfSThQenFScmZ1SEF3TTFnT082Y1RmSGZWeERrTU1LRHRYMmlEWHhiN1R0emNOQ0k2NWtNTXVtNzlEOHBvZXdwV0FvaXF0YjNXUWx4VFo3UlN1MjNRVnZNVVlfVWpmQUcxY1RVQWFTUHZaQmh0YVZSN1ItTkREdk9TQXZGeVlVel8wUE5KeVlhNU9V?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+
+---
+
+### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
+
+2026-08-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
 ---
 
@@ -163,6 +171,14 @@ permalink: /news/orlistat/
 2026-08-25 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
+
+---
+
+### [Adipositas: Bariatrische Operationen nach Therapie mit GLP-1-Rezeptoragonisten möglich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
+
+2026-08-25 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
 
 ---
 
