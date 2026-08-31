@@ -54,11 +54,11 @@ permalink: /news/cangrelor/
 
 ## 相關新聞（1 則）
 
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2tzY3pXeTR1eDd3R0VjRG9HNk1PcURHeXg3MWZJRFNNT3RIZS01VmF0VVBvcmx4cUZFZ05PbkRidjNxbnpJQUxxaFZPUDJUM2VmS0Y1TDNXc2Nvd0YzaUQ4bGd4bFptUmRPQTJuYkhQOW1wVXlmUXEtR0k4aV9meUpfakt3WUJMUjBURlZPdzctN0E5OFl5OHZQczNaMjFqNWVMZTViRDh1NDg?oc=5)
 
-2026-08-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-08-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2tzY3pXeTR1eDd3R0VjRG9HNk1PcURHeXg3MWZJRFNNT3RIZS01VmF0VVBvcmx4cUZFZ05PbkRidjNxbnpJQUxxaFZPUDJUM2VmS0Y1TDNXc2Nvd0YzaUQ4bGd4bFptUmRPQTJuYkhQOW1wVXlmUXEtR0k4aV9meUpfakt3WUJMUjBURlZPdzctN0E5OFl5OHZQczNaMjFqNWVMZTViRDh1NDg?oc=5)
 
 ---
 

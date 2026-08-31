@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Doomscrolling, FOMO e nomofobia: quando lo smartphone smette di essere uno strumento e comincia a comandare](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
+
+2026-08-31
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
+
+---
 
 ### [Long Covid e virus "fantasma": perché l'infezione sveglia i patogeni latenti nel nostro corpo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
 

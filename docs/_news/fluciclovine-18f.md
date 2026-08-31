@@ -14,7 +14,7 @@ permalink: /news/fluciclovine-18f/
 ---
 
 <p class="key-answer" data-question="Fluciclovine (18F) 有什麼相關新聞？">
-<strong>Fluciclovine (18F)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluciclovine (18F)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fluciclovine-18f/
 <p><a href="{{ '/drugs/fluciclovine-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Il caldo passa, l’ansia resta: così l’estate estrema entra nella nostra mente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
+
+---
 
 ### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
 

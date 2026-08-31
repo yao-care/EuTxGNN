@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Migräne（migraine） 相關新聞"
+title: "emicrania（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "emicrania（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# Migräne（migraine） 相關新聞
+# emicrania（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
+<strong>emicrania（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,15 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Il caldo passa, l’ansia resta: così l’estate estrema entra nella nostra mente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
+
+2026-08-31
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
+
+---
 
 ### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
 

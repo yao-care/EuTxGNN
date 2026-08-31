@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（15 則）
 
-### [Un estudio revela que la dieta keto reduce más la grasa del hígado que otras dietas, incluso perdiendo el mismo peso - La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
+### [La aterosclerosis silenciosa afecta ya a 1 de cada 13 adultos jóvenes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDBZR3hJYWRvbWlUY3NwZVRyYmlwak02b1pfd1Q4MWdvX1pPamNEUmdGd0tyMTl3TG1oRVQwYXp4ME9yTjZRMTB3eXVobGZoWGN6OGNoelNUQUMxb3dzdWdaMDBfYnJMUnN5Q25ydzRlZXRRYnZPVFdWbWtnNTNGdW84NVpFLUpSdUUxWWh2YzZrXzR3OEZXeXdXeEVYLWR0OFY5QWc1LTc?oc=5)
 
-2026-08-30 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
+來源：[Sinc](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDBZR3hJYWRvbWlUY3NwZVRyYmlwak02b1pfd1Q4MWdvX1pPamNEUmdGd0tyMTl3TG1oRVQwYXp4ME9yTjZRMTB3eXVobGZoWGN6OGNoelNUQUMxb3dzdWdaMDBfYnJMUnN5Q25ydzRlZXRRYnZPVFdWbWtnNTNGdW84NVpFLUpSdUUxWWh2YzZrXzR3OEZXeXdXeEVYLWR0OFY5QWc1LTc?oc=5)
 
 ---
 
-### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 24 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTVhbmdqaXlUaXRCLW9ReXVhWlRHQjhuWkJqV3lkT2liUHpKQ1RRNWVPYkttcWlFZHdpa2x6SkxRSHFiNjVtNWV0b0ZXRUN2WHZWQjdvejV3RGdsb1haejlNX2c4TWtuaXlVajZQWlVUV3Z0THE5WHFReG05akNjMWdON0dKZzBuY2lKUk1pNTRINHFkQllnbUUweHJEMkxNOUZrS0xxQWdYTE83T084?oc=5)
+### [La dieta que más reduce la grasa del hígado y revierte la prediabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
 
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTVhbmdqaXlUaXRCLW9ReXVhWlRHQjhuWkJqV3lkT2liUHpKQ1RRNWVPYkttcWlFZHdpa2x6SkxRSHFiNjVtNWV0b0ZXRUN2WHZWQjdvejV3RGdsb1haejlNX2c4TWtuaXlVajZQWlVUV3Z0THE5WHFReG05akNjMWdON0dKZzBuY2lKUk1pNTRINHFkQllnbUUweHJEMkxNOUZrS0xxQWdYTE83T084?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
+
+---
+
+### [Burgos suspende en tabaquismo, diabetes y obesidad abdominal - Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
+
+---
+
+### [Statine e demenza, il cuore protegge anche il cervello? Lo studio che riapre la partita della prevenzione](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdzZjUzluNkpQNmFoakFCWTZ4SWhmWFk5NlowRkNYdFBqZGQxMWd5VmVXWWVlR2JDeDExeWxPTzJwMkMzU1BUOHFhWWQ0VF9hcFU1Rjl2dHZlaVRaekl6RjgwLUM5clE2ekV4bGFONWJ3ZzVxbW56YVFDdWg1V09Ob19vVDFTZjlnQnpaM3Z5TE1rOTdJc3l4WVlMNUhWNi1zc0JNUm9CblU1YmJ3dE53Wk40OURuNjEyLU1qYU4yX2hDZW9WXy1fd0pDU1BENkZpZHlhT1RHcE5CR0FwWTlOMlJ2NnBzQm9pbDdEX252b2ljWGVZOFE?oc=5)
+
+2026-08-30 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdzZjUzluNkpQNmFoakFCWTZ4SWhmWFk5NlowRkNYdFBqZGQxMWd5VmVXWWVlR2JDeDExeWxPTzJwMkMzU1BUOHFhWWQ0VF9hcFU1Rjl2dHZlaVRaekl6RjgwLUM5clE2ekV4bGFONWJ3ZzVxbW56YVFDdWg1V09Ob19vVDFTZjlnQnpaM3Z5TE1rOTdJc3l4WVlMNUhWNi1zc0JNUm9CblU1YmJ3dE53Wk40OURuNjEyLU1qYU4yX2hDZW9WXy1fd0pDU1BENkZpZHlhT1RHcE5CR0FwWTlOMlJ2NnBzQm9pbDdEX252b2ljWGVZOFE?oc=5)
 
 ---
 
@@ -78,35 +94,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Millions could benefit from 3p pill ‘to slash risk of heart attack and dementia’ - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnYyNENITnBnTjduSnBZRUVudm01M3RJODZleHdGVS01LVlJazlJQXVkcWlRQTc2NjgzUVIzSFd5QnJkWllkaWlKRmRkSFBkaGFFTXpmRHZqZ29UMi1UY0ZjV1IxTFZya3pJUzJwOEhuWEEwSnhXaUZkaE5TOFlPaDZaTndXUmRvSU1hZk9FQjNZUXNSMDBiUWxUZFJWUkk?oc=5)
+
+2026-08-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnYyNENITnBnTjduSnBZRUVudm01M3RJODZleHdGVS01LVlJazlJQXVkcWlRQTc2NjgzUVIzSFd5QnJkWllkaWlKRmRkSFBkaGFFTXpmRHZqZ29UMi1UY0ZjV1IxTFZya3pJUzJwOEhuWEEwSnhXaUZkaE5TOFlPaDZaTndXUmRvSU1hZk9FQjNZUXNSMDBiUWxUZFJWUkk?oc=5)
+
+---
+
 ### [Cholestérol, AVC, infarctus : cette nouvelle pilule s'attaque à un marqueur que les traitements négligent - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa3ZEczRvaTcxc3VxMHhOaEtHdXBrWWQ3OGVqRkh2cHhySXYwQldqNm1RQ2daN0UwZFptS3VzNVIxc2JpZ0QzNTBPZlN5RlB6MVVjV3dJSXp5OHNXd0phbkplLUZlYUpUeF8xUkJIZElNd1kyb2dqcnBuZ1oyRHJlZ3gtTWRPZHYyeVk0NWRJQjhsczNMaGh2UmJFaFd1dnliZzNUMVZZczlJY1Zld0I4RFppbnF1dFhsenI3UG9LY0NsLXNWR0M3YmhUeTJhUHI5MHdyRjBJOVJHeEoxdmE5VmFGTGRLVmtwX1Uxc2lB?oc=5)
 
 2026-08-30 <span class="news-indication-tag">AVC</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa3ZEczRvaTcxc3VxMHhOaEtHdXBrWWQ3OGVqRkh2cHhySXYwQldqNm1RQ2daN0UwZFptS3VzNVIxc2JpZ0QzNTBPZlN5RlB6MVVjV3dJSXp5OHNXd0phbkplLUZlYUpUeF8xUkJIZElNd1kyb2dqcnBuZ1oyRHJlZ3gtTWRPZHYyeVk0NWRJQjhsczNMaGh2UmJFaFd1dnliZzNUMVZZczlJY1Zld0I4RFppbnF1dFhsenI3UG9LY0NsLXNWR0M3YmhUeTJhUHI5MHdyRjBJOVJHeEoxdmE5VmFGTGRLVmtwX1Uxc2lB?oc=5)
-
----
-
-### [Después de los 70, una pastilla para el colesterol podría marcar la diferencia frente a infartos e ictus - La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR09vbl8wWlRaR1Uxc1NidDQwdVBMZkFYQ0EwaElTb1NleU5NTjRZYllSWDBRRUwxWjRyWjhCRVliQ24tTlhIbTJKTGg4dlA5N3RvSmI0OGhySkx4MWFCQm9VMEZOczF5Q0VQQWktLTJoWDBZTkwzN2VoWmJja0xGOUp4WnFmdF9oY0R6S1BKa0otQkxLSW5td0tBN0kxNEI5dVZLQlFoLVBMVTJRcXpEODBoeTZDZE0xaWhGcWh6bVFXRm9Yem5va1E3RzdfRW5WQXlYWlNhSU45dmtkMEI4MlpPRWhfT0dVb1Nwd2FkVWhtWW00M0V1aA?oc=5)
-
-2026-08-30 <span class="news-indication-tag">ictus</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR09vbl8wWlRaR1Uxc1NidDQwdVBMZkFYQ0EwaElTb1NleU5NTjRZYllSWDBRRUwxWjRyWjhCRVliQ24tTlhIbTJKTGg4dlA5N3RvSmI0OGhySkx4MWFCQm9VMEZOczF5Q0VQQWktLTJoWDBZTkwzN2VoWmJja0xGOUp4WnFmdF9oY0R6S1BKa0otQkxLSW5td0tBN0kxNEI5dVZLQlFoLVBMVTJRcXpEODBoeTZDZE0xaWhGcWh6bVFXRm9Yem5va1E3RzdfRW5WQXlYWlNhSU45dmtkMEI4MlpPRWhfT0dVb1Nwd2FkVWhtWW00M0V1aA?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajdOc1hJQnBZdXhtcU1tLWZtMy1CUDZYdmtfNnJSSnFHelVXZ0d3ZzZpNWM2dUFrcGMzNVdQZEdPM2ZYRGNHMHFKUnE1VWNoVHNkVlV2LXU3b1RpMm1BbDRmVFVBQUp0RmJqaW45dnVaS1hSSVJuSmN0N1pTWTFYZ0xqUHcwN2NXX1llbFd4a1pqREJQMzJnLUZJd3l3Zkx2bWNWWk54MkdMcm1rUFljblpGeE5xd29YcTNzM3BuX2EzNl9FbjZPX2xCWmJOblAy?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajdOc1hJQnBZdXhtcU1tLWZtMy1CUDZYdmtfNnJSSnFHelVXZ0d3ZzZpNWM2dUFrcGMzNVdQZEdPM2ZYRGNHMHFKUnE1VWNoVHNkVlV2LXU3b1RpMm1BbDRmVFVBQUp0RmJqaW45dnVaS1hSSVJuSmN0N1pTWTFYZ0xqUHcwN2NXX1llbFd4a1pqREJQMzJnLUZJd3l3Zkx2bWNWWk54MkdMcm1rUFljblpGeE5xd29YcTNzM3BuX2EzNl9FbjZPX2xCWmJOblAy?oc=5)
-
----
-
-### [Statine e colesterolo dopo i 70 anni: quando servono davvero contro l'infarto e i rischi da non sottovalutare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
-
-2026-08-29 <span class="news-indication-tag">ictus</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
 
 ---
 
@@ -118,35 +118,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
-
-2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
-
----
-
-### [Demenz: Experten erklären, worauf Sie unbedingt achten sollten](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeS1rbkVUN2dXY21lN2NoS01lcXlSd3p4ZXBqWFV4aEJuNjU3V1FHN3JyZ1I4Si1odHNhVHRWZTJzcFpILXdNTDJ4M1N2dEFWaVowTUx2V1hCMWtLM244Z1RfVG1mM2hac3pvZEd5VldQNlJXNGxoc3pRdkZ1V0NPV0ttZnVvV28xeGdoVlFMMVRiRXE4X3duRkF0NGxzVG1mMkNJbnF5YnV4X2h5MzllZUNCa0h4SmhJZ0dObnhGRlBNZGdxdHRNaw?oc=5)
-
-2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeS1rbkVUN2dXY21lN2NoS01lcXlSd3p4ZXBqWFV4aEJuNjU3V1FHN3JyZ1I4Si1odHNhVHRWZTJzcFpILXdNTDJ4M1N2dEFWaVowTUx2V1hCMWtLM244Z1RfVG1mM2hac3pvZEd5VldQNlJXNGxoc3pRdkZ1V0NPV0ttZnVvV28xeGdoVlFMMVRiRXE4X3duRkF0NGxzVG1mMkNJbnF5YnV4X2h5MzllZUNCa0h4SmhJZ0dObnhGRlBNZGdxdHRNaw?oc=5)
-
----
-
 ### [Pressione alta, non dimenticate le terapie: saltarle aumenta il rischio di infarto e ictus - la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnN5RVdNRlZEdm9TNDM5NEI0MTd3dmdPSjhfQV9vNFVybFlTTDIza19mT2pubmdLZEU0ZGFLVm5DaU83bG9pRFltWmN0VDAxb2k2eUxLME1PRllqX0UyaVVCTDY5Q3FKYURtQUVmU0NCNGoybXJldTI1WG5lRkxSS0RwRXVsb3pZQ1ZDTFlwclZSMS15QkgyLWxwMW9yb3ZUYzlQVnFZYmdFdnh5WUhPV0hXdEN2VHBlNEs1UkNXblRnMVg1d2lxQzNxeXpwR0FleExQdjBScDQ3U2lQSXBrQzN4MkJhU1VzSm1CWGNqMVl6VVhrUUd3QTlhNGpxQdIBgwJBVV95cUxPSUZ6Y0hCd19FRGtFdS0xdnQySzRXYXdLWXdPd09fWTk1RWJkZGZQdXNlOXFhUlpMZmJlRzh2RzVaOWY4bnVVdWdfZ3ZUUnVUaEs5WUhXMmtJRHBpZVdqT2ZkYUZ1d09LZ09Uak0ycVFrSjNCMEwwR1laXzNhR01ZSWFUTVZKcUtDQy1ha3VFSXlOUTk4a01oYjV4RncwRkw0Nk9HVnJtcTMxckFCT1FzX0czaDVWaHhEeVpqT2xoM1Y2SmVKeUJ5YmEtMHY2RENHaUdPb1YyNXIxVXp0TjkwbVB4eC1GX0hrV053cTAxRTNua0JVQVFOLUZWX0U1UGJ6YkE4?oc=5)
 
 2026-08-28 <span class="news-indication-tag">ictus</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnN5RVdNRlZEdm9TNDM5NEI0MTd3dmdPSjhfQV9vNFVybFlTTDIza19mT2pubmdLZEU0ZGFLVm5DaU83bG9pRFltWmN0VDAxb2k2eUxLME1PRllqX0UyaVVCTDY5Q3FKYURtQUVmU0NCNGoybXJldTI1WG5lRkxSS0RwRXVsb3pZQ1ZDTFlwclZSMS15QkgyLWxwMW9yb3ZUYzlQVnFZYmdFdnh5WUhPV0hXdEN2VHBlNEs1UkNXblRnMVg1d2lxQzNxeXpwR0FleExQdjBScDQ3U2lQSXBrQzN4MkJhU1VzSm1CWGNqMVl6VVhrUUd3QTlhNGpxQdIBgwJBVV95cUxPSUZ6Y0hCd19FRGtFdS0xdnQySzRXYXdLWXdPd09fWTk1RWJkZGZQdXNlOXFhUlpMZmJlRzh2RzVaOWY4bnVVdWdfZ3ZUUnVUaEs5WUhXMmtJRHBpZVdqT2ZkYUZ1d09LZ09Uak0ycVFrSjNCMEwwR1laXzNhR01ZSWFUTVZKcUtDQy1ha3VFSXlOUTk4a01oYjV4RncwRkw0Nk9HVnJtcTMxckFCT1FzX0czaDVWaHhEeVpqT2xoM1Y2SmVKeUJ5YmEtMHY2RENHaUdPb1YyNXIxVXp0TjkwbVB4eC1GX0hrV053cTAxRTNua0JVQVFOLUZWX0U1UGJ6YkE4?oc=5)
-
----
-
-### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 
@@ -158,27 +134,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [La genética ya permite distinguir qué pacientes tienen más riesgo de sufrir ceguera, ictus o aneurismas por arteritis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFR5UFhTRjZGa1NGcVl1LXc5aVZxUHFZSEdNQmsxNkdwMFRuRlhvZnJTakp0cmJER1ZQQl9BZXQ1VXZaWUNZUjU2dk44YzNBaW5CcldWYk5xc0hBS1N4TGlFRnlLdFkxaGgwY1U3eTJhTUNVeWJ6TEJXZGpfVW9GYV82M3U1cDBGbFFWTlFMZzdQeFppdnY0LWNpaEFVQ3phNTY0S1VNZ3Z1RjlwLVEydmZtVjBJWjJGLXJQRzZiWUgyY2xOLUJSeG9wckg2em5EaGZ6dzZMYUU5cVpoTC1fRFN3?oc=5)
-
-2026-08-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFR5UFhTRjZGa1NGcVl1LXc5aVZxUHFZSEdNQmsxNkdwMFRuRlhvZnJTakp0cmJER1ZQQl9BZXQ1VXZaWUNZUjU2dk44YzNBaW5CcldWYk5xc0hBS1N4TGlFRnlLdFkxaGgwY1U3eTJhTUNVeWJ6TEJXZGpfVW9GYV82M3U1cDBGbFFWTlFMZzdQeFppdnY0LWNpaEFVQ3phNTY0S1VNZ3Z1RjlwLVEydmZtVjBJWjJGLXJQRzZiWUgyY2xOLUJSeG9wckg2em5EaGZ6dzZMYUU5cVpoTC1fRFN3?oc=5)
-
----
-
-### [La vacuna recombinante frente al herpes zóster se asocia con un menor riesgo cardiovascular a siete años - Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3NlYlg3b2hkUWJHMnRCRnRBbUYzNFdJaGd3YmRta1ZEckduU0dHYVZJWUVFMkk0emM3VF9BeU9xMWFKZ2FXMl9iR0M4NWhIcmxDVzZGUEU0dndYcDd5TEVHQ3dzZXdvM0dObEFLVkQwNGkyb2U4bFZ1Z0RJX21oSXBWNEkyUFJNMTZlcXhjLW15aWJXdEhaQWJfMmdFM0NzclVNOGpKeXVRTGdZb2Jaa0Vn?oc=5)
-
-2026-08-27 <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3NlYlg3b2hkUWJHMnRCRnRBbUYzNFdJaGd3YmRta1ZEckduU0dHYVZJWUVFMkk0emM3VF9BeU9xMWFKZ2FXMl9iR0M4NWhIcmxDVzZGUEU0dndYcDd5TEVHQ3dzZXdvM0dObEFLVkQwNGkyb2U4bFZ1Z0RJX21oSXBWNEkyUFJNMTZlcXhjLW15aWJXdEhaQWJfMmdFM0NzclVNOGpKeXVRTGdZb2Jaa0Vn?oc=5)
-
----
-
 ### [Un eccesso del dolcificante xilitolo nel sangue associato a rischio di infarto o ictus](https://news.google.com/rss/articles/CBMirgJBVV95cUxNeGMwUHdKTjBFdFFzS1hvU3VBV2ljSWFyck1NTXptam5URWc3LUMtS0FlQmk2TTF6dTEyMXlmcWhReWV4ZFdhajJTMDZBRlJYTGxkODBtdDVlVjBtMGhrQ1g4bDNTajlLNFRmWXd1TnhWWGJISXhueS1HT0ljR2NOLVNCcXdPaENTNndDbm50OV9DY3EyUDV5d0R6VGthYl9TUFlXOTg1UXhQTk5tRTdySG1LaFNYSXhDUVFQdWpzci03WHNIczBKYUYyTVR2dl85M0lvLXVvZ3NySEx1cjY0WnBOcnlCSi1aTGVubEpZZ2N4XzFVS211MFo2WlVQRThzdm1QbEUyNTJRcld1UEtVSWJRY0l1c3p6b2R0eXRHenN6YWc3R1hMYmJidERsQdIBswJBVV95cUxObXJsLTlHOWpRQkpDTWprVE9DeDdlblNlanAyb3pEZi1XMmRVeE54RldRbFp2aEtUaDNTT2JoLXBxU0Y5Z2REZzBTT1lrcmdGcVVBWWdDYWpseWtiYU9nQjRRdGFTRllycEhvVGhyb1FNcGpDM3Jhcm5HV3lLWVVkX04xZmRLT2RnZEVJN0RZQXduRnVEUFlCUmdYbzVUczI4X2ZKdFZvQTdjUUdjMFppUDAxamtscVd1T1gyMDNGSjU2TjU5VnhDZG80TWtBQ2Q2U01JM1BWMXdxcXczdU9hZFdySkEzUVV5VElLNGFtZlZoN2p4bTdqM25Mc1pPbm9zYzl6cTVhTnU3QlZkbUhZdW5SSkFmUUY3bzZ2dGZyTFI5VzlWSHVjdzJfczRVcXg5d2dF?oc=5)
 
 2026-08-27 <span class="news-indication-tag">ictus</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMirgJBVV95cUxNeGMwUHdKTjBFdFFzS1hvU3VBV2ljSWFyck1NTXptam5URWc3LUMtS0FlQmk2TTF6dTEyMXlmcWhReWV4ZFdhajJTMDZBRlJYTGxkODBtdDVlVjBtMGhrQ1g4bDNTajlLNFRmWXd1TnhWWGJISXhueS1HT0ljR2NOLVNCcXdPaENTNndDbm50OV9DY3EyUDV5d0R6VGthYl9TUFlXOTg1UXhQTk5tRTdySG1LaFNYSXhDUVFQdWpzci03WHNIczBKYUYyTVR2dl85M0lvLXVvZ3NySEx1cjY0WnBOcnlCSi1aTGVubEpZZ2N4XzFVS211MFo2WlVQRThzdm1QbEUyNTJRcld1UEtVSWJRY0l1c3p6b2R0eXRHenN6YWc3R1hMYmJidERsQdIBswJBVV95cUxObXJsLTlHOWpRQkpDTWprVE9DeDdlblNlanAyb3pEZi1XMmRVeE54RldRbFp2aEtUaDNTT2JoLXBxU0Y5Z2REZzBTT1lrcmdGcVVBWWdDYWpseWtiYU9nQjRRdGFTRllycEhvVGhyb1FNcGpDM3Jhcm5HV3lLWVVkX04xZmRLT2RnZEVJN0RZQXduRnVEUFlCUmdYbzVUczI4X2ZKdFZvQTdjUUdjMFppUDAxamtscVd1T1gyMDNGSjU2TjU5VnhDZG80TWtBQ2Q2U01JM1BWMXdxcXczdU9hZFdySkEzUVV5VElLNGFtZlZoN2p4bTdqM25Mc1pPbm9zYzl6cTVhTnU3QlZkbUhZdW5SSkFmUUY3bzZ2dGZyTFI5VzlWSHVjdzJfczRVcXg5d2dF?oc=5)
+
+---
+
+### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+
+2026-08-27 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
 
 ---
 
@@ -190,27 +158,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
-
-2026-08-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
-
----
-
 ### [Nicotine vapes best chance to quit smoking, major review finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
 
 2026-08-25 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
-
----
-
-### [Adipositas: Bariatrische Operationen nach Therapie mit GLP-1-Rezeptoragonisten möglich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
-
-2026-08-25 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
 
 ---
 

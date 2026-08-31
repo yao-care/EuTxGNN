@@ -14,7 +14,7 @@ permalink: /news/macimorelin-acetate/
 ---
 
 <p class="key-answer" data-question="Macimorelin Acetate 有什麼相關新聞？">
-<strong>Macimorelin Acetate</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macimorelin Acetate</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,133 @@ permalink: /news/macimorelin-acetate/
 <p><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（41 則）
+
+### [Herz und Gehirn: Der erstaunliche Nebeneffekt der Gürtelrose-Impfung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWlBMT25EaUVjcGhCdnVvNk5GOEZNeFhGQldoeGNfVUpqUVNvS3o1LWdXZlhHcWJsMTF0dGg5Q1F2ZENFcUdrS1RHTTRFZVAyMmlvM3FIeUtYcm9mWnhGQVdHZnlOWWo5cEl5WDc5eEdKQllaczBLU1p4a3ljTXoweXFONFpaNXRIME91X0U0em5sUmZFRDhLWmtwT1p4ZXotSWttLXJaWFFjRndxVUNOWmlOLUQwVnU3TGZOWVhpcGJiSmxlaHNCLXllaTlOUQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWlBMT25EaUVjcGhCdnVvNk5GOEZNeFhGQldoeGNfVUpqUVNvS3o1LWdXZlhHcWJsMTF0dGg5Q1F2ZENFcUdrS1RHTTRFZVAyMmlvM3FIeUtYcm9mWnhGQVdHZnlOWWo5cEl5WDc5eEdKQllaczBLU1p4a3ljTXoweXFONFpaNXRIME91X0U0em5sUmZFRDhLWmtwT1p4ZXotSWttLXJaWFFjRndxVUNOWmlOLUQwVnU3TGZOWVhpcGJiSmxlaHNCLXllaTlOUQ?oc=5)
+
+---
+
+### [CAR-T-Therapie gegen Rheuma: Immunsystem neu starten, statt lebenslang therapieren - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+
+2026-08-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+
+---
+
+### [La aterosclerosis silenciosa afecta ya a 1 de cada 13 adultos jóvenes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDBZR3hJYWRvbWlUY3NwZVRyYmlwak02b1pfd1Q4MWdvX1pPamNEUmdGd0tyMTl3TG1oRVQwYXp4ME9yTjZRMTB3eXVobGZoWGN6OGNoelNUQUMxb3dzdWdaMDBfYnJMUnN5Q25ydzRlZXRRYnZPVFdWbWtnNTNGdW84NVpFLUpSdUUxWWh2YzZrXzR3OEZXeXdXeEVYLWR0OFY5QWc1LTc?oc=5)
+
+2026-08-31 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDBZR3hJYWRvbWlUY3NwZVRyYmlwak02b1pfd1Q4MWdvX1pPamNEUmdGd0tyMTl3TG1oRVQwYXp4ME9yTjZRMTB3eXVobGZoWGN6OGNoelNUQUMxb3dzdWdaMDBfYnJMUnN5Q25ydzRlZXRRYnZPVFdWbWtnNTNGdW84NVpFLUpSdUUxWWh2YzZrXzR3OEZXeXdXeEVYLWR0OFY5QWc1LTc?oc=5)
+
+---
+
+### [El ejercicio activa una vía cerebral que puede ayudar a frenar el deterioro cognitivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN1hxUDk2U2JhSm5tSFVRRnVpS3NXUnFjZzhSb0dvUzA3SFpSSjc5dGlHZnFac0llejgtMWVTUjJ5d24wc2NtZ2p3blNSbkVGN0gxYjJoUEZPeG9nZFBVR2hSUG9QaFRCODhZNXotLW5LRWlNb2RQNnV4WnpFekVSZmZYNjNOcXhmem5Tc0xoaWRkOE1lbVRYMi01UWxBNWx3ODdrY0g3RUd4bU1uYkVRaGhwdkRYV1FLSDZneFc5b19XMVRycGNoT0l4OEpjTVVH0gHrAUFVX3lxTE9GcDZnRXFIM2ZKVm5uQlZ4QUU4SGVlRW90R0JMWm1SbVUxckU5bmZzY0pnU3JoWHNRSnpHVWlMdXFhOW5RUWJ1RDZIUkp4d19MUkhPLUI2Y0ZIellILVl3WXBHZmp3TXRseUhBLWZrV1RBWEdoMG1NU0JON0JobjlmWUQ4VExJOF9RNHFSWEZBcllMZldkLU1NTG1TRjJQaTlNN3g2NEtGZlVPTThiV0p0VG9oS0VGaFlPMWdPR2pzSmVtNjBscnpiejdRaVFqRzZVeGRXMGFfdjVyWExEaExTZHlvZkxvcE9fSUU?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN1hxUDk2U2JhSm5tSFVRRnVpS3NXUnFjZzhSb0dvUzA3SFpSSjc5dGlHZnFac0llejgtMWVTUjJ5d24wc2NtZ2p3blNSbkVGN0gxYjJoUEZPeG9nZFBVR2hSUG9QaFRCODhZNXotLW5LRWlNb2RQNnV4WnpFekVSZmZYNjNOcXhmem5Tc0xoaWRkOE1lbVRYMi01UWxBNWx3ODdrY0g3RUd4bU1uYkVRaGhwdkRYV1FLSDZneFc5b19XMVRycGNoT0l4OEpjTVVH0gHrAUFVX3lxTE9GcDZnRXFIM2ZKVm5uQlZ4QUU4SGVlRW90R0JMWm1SbVUxckU5bmZzY0pnU3JoWHNRSnpHVWlMdXFhOW5RUWJ1RDZIUkp4d19MUkhPLUI2Y0ZIellILVl3WXBHZmp3TXRseUhBLWZrV1RBWEdoMG1NU0JON0JobjlmWUQ4VExJOF9RNHFSWEZBcllMZldkLU1NTG1TRjJQaTlNN3g2NEtGZlVPTThiV0p0VG9oS0VGaFlPMWdPR2pzSmVtNjBscnpiejdRaVFqRzZVeGRXMGFfdjVyWExEaExTZHlvZkxvcE9fSUU?oc=5)
+
+---
+
+### [Pronto soccorso di Cona affollato: i tempi di attesa si allungano - La Nuova Ferrara](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0s3V0c0cG1BRXlUOS0wMTBpcDRiaUdzN0wwQ3J6OTlKMHplR2lYcnBITTVpbEoxVHVycS1vdE43QmtOMTNKT1h5eWdxWkM4b0ZvTVRMN082bW5IdFVVRWpSZmNnaWRESUhWWndqLU9jR2Nrc2lsMkFWTTlXODRnNUtsbW1XNW9FOEtxMXhhNkdjQWFPWGdzV1d1RXNhVVY3Q09vT2czcjZhU3R4RTV4RkxSa19DaW81Zi0tYmd0M0tSendOT2dJMl9UTHJNYnhEZGlIZg?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[La Nuova Ferrara](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0s3V0c0cG1BRXlUOS0wMTBpcDRiaUdzN0wwQ3J6OTlKMHplR2lYcnBITTVpbEoxVHVycS1vdE43QmtOMTNKT1h5eWdxWkM4b0ZvTVRMN082bW5IdFVVRWpSZmNnaWRESUhWWndqLU9jR2Nrc2lsMkFWTTlXODRnNUtsbW1XNW9FOEtxMXhhNkdjQWFPWGdzV1d1RXNhVVY3Q09vT2czcjZhU3R4RTV4RkxSa19DaW81Zi0tYmd0M0tSendOT2dJMl9UTHJNYnhEZGlIZg?oc=5)
+
+---
+
+### [Vorhofflimmern: Neue Evidenz für DOAK](https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3RvVnV3YlJTemh2bEEwSDdRSlpXT2syQXhXbTVQSENJRnctRUFqbVZ1SEFPQ1ZoQnZnZlcyWDVDYW9ObWZ3c2VMTk1GZnJ6Mm94UzFub0s5ZnloSjlVUThRdy1aQXJ1UUIwVmo2R2J2aDRkWjZUQ3hRb1l3UHZLWjhodmdpWXRqOGlScGNvTGtrbmdBaktNU0hmMHlhMnQzX0E?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3RvVnV3YlJTemh2bEEwSDdRSlpXT2syQXhXbTVQSENJRnctRUFqbVZ1SEFPQ1ZoQnZnZlcyWDVDYW9ObWZ3c2VMTk1GZnJ6Mm94UzFub0s5ZnloSjlVUThRdy1aQXJ1UUIwVmo2R2J2aDRkWjZUQ3hRb1l3UHZLWjhodmdpWXRqOGlScGNvTGtrbmdBaktNU0hmMHlhMnQzX0E?oc=5)
+
+---
+
+### [Alzheimer-Schutz: Wie Schlafspindeln kognitiven Abbau bremsen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTNOUWNncV9ya2lGMHdCWEhUWkhoNlBQeDNTd2k5Vy0yT0loUTJjdDhKUHhlVHdFcmt1ZXk5bENyWkdKNEZCcGRaVmw1aEdzbWxaQUNNYmNIcHV4WEJCcldhMEhJQ0dYQ2d2WHVjNHBmZkVSYnd0dVdtam40WnZwLTlodWJ0U3RySVhORTJ6dFBrVG5JSGNiNFB0LXptVWtBam5EOTJidFc5UGc1YWc?oc=5)
+
+2026-08-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTNOUWNncV9ya2lGMHdCWEhUWkhoNlBQeDNTd2k5Vy0yT0loUTJjdDhKUHhlVHdFcmt1ZXk5bENyWkdKNEZCcGRaVmw1aEdzbWxaQUNNYmNIcHV4WEJCcldhMEhJQ0dYQ2d2WHVjNHBmZkVSYnd0dVdtam40WnZwLTlodWJ0U3RySVhORTJ6dFBrVG5JSGNiNFB0LXptVWtBam5EOTJidFc5UGc1YWc?oc=5)
+
+---
+
+### [Is it true that … mental health is affected by inflammation? - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSy0ydE40N0NtYVYyaUhUNnhQc051X3NocTl0bEFwX2pKUjZIWUVWYktDQUVjSDFNYl9xWWNhMjVSRTNHVFhLZE1rQU9wZmZkYjNUWl9tV1JfZGNLTTczZ2VwdmsxRmV5UUo3MUtYOXJGZGxGdGVCV0xCaHlRYWdtTDdDTzRNWE5TakRkeWNaU191QVNiOU5FWC1MZnpTY1hFYWV5YTNZdGtnQzNkWUkw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSy0ydE40N0NtYVYyaUhUNnhQc051X3NocTl0bEFwX2pKUjZIWUVWYktDQUVjSDFNYl9xWWNhMjVSRTNHVFhLZE1rQU9wZmZkYjNUWl9tV1JfZGNLTTczZ2VwdmsxRmV5UUo3MUtYOXJGZGxGdGVCV0xCaHlRYWdtTDdDTzRNWE5TakRkeWNaU191QVNiOU5FWC1MZnpTY1hFYWV5YTNZdGtnQzNkWUkw?oc=5)
+
+---
+
+### [Keto-Diät ist gesünder als gedacht - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMid0FVX3lxTE1Hc2R3Y2kzZUhVZXl2NGN3bHVUdktWTjlkcFhiaWp6UW9rbjVMaWlFRlp1UDhkLUpnS0hCS1dWTV9GY19FNnlJbGdhRnZDN1hGMnZESjNuT1dhNTM4R1I1b1VCd1gzV0ctRVJtWlk3cnJieFVwbjVB?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMid0FVX3lxTE1Hc2R3Y2kzZUhVZXl2NGN3bHVUdktWTjlkcFhiaWp6UW9rbjVMaWlFRlp1UDhkLUpnS0hCS1dWTV9GY19FNnlJbGdhRnZDN1hGMnZESjNuT1dhNTM4R1I1b1VCd1gzV0ctRVJtWlk3cnJieFVwbjVB?oc=5)
+
+---
+
+### [Detectar enfermedades cardiovasculares a partir de mamografías: otro avance de la IA](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGpUR1hEMEs3RzNQMUVremgwRGYwa3ZGOGs3S3ZvakRBdGtsRTg1bnV2Wk5UYTI5TWJhLXZhYzMyeVU3U25fOTJJODA4WHVjNkd0WWxwWUxBeXRvTjF1ZlhqNmxKZEpOejNUcFVlYVlnN3VMMlE2UUhxbjlmVUd6a2owMnpTSWZSU3VfbGpVVVp4dEpwSThSdE16MUNzZ0NHSHJnU2l1WEJCYmlrMXhKNWEtVTNCbzgzVWpaODV5S3lIVmQzdGRWdjQtSHNJWGJfNG53?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGpUR1hEMEs3RzNQMUVremgwRGYwa3ZGOGs3S3ZvakRBdGtsRTg1bnV2Wk5UYTI5TWJhLXZhYzMyeVU3U25fOTJJODA4WHVjNkd0WWxwWUxBeXRvTjF1ZlhqNmxKZEpOejNUcFVlYVlnN3VMMlE2UUhxbjlmVUd6a2owMnpTSWZSU3VfbGpVVVp4dEpwSThSdE16MUNzZ0NHSHJnU2l1WEJCYmlrMXhKNWEtVTNCbzgzVWpaODV5S3lIVmQzdGRWdjQtSHNJWGJfNG53?oc=5)
+
+---
+
+### [West Nile Virus, nuovo caso in Piemonte ma nessun allarme: "Numeri stabili"](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLU9aR3pwVDRndzBJMTdoc0UwX0lGbHpSX29xem0wb3ItckVUTV9WZHdHbjJrODhoM1FNYW9xeG9sbkVwLUdXYWVpQUk2elhQNzRsTEdwWkxrWEZLVV95LUs3NGpxT19ZNW5rS3RRMDVCTFV4N1J4M0VXUElKT3FVOWhfRXpBYzR0X1lMN3BwSnpWMl9KUFhkN0xIcWZWMmNZUlZoLWNMZzlfRDljSU1RWjVwa3Z5aTRfWUhFR3dBQjdKSDF1LWkzY1lLSjNkUG8wRmRtek9GQ0ZMVmxtam9VcTY1czlNS3JnU01BS1FFbEc2UlVESlFN0gHqAUFVX3lxTE82VDVtcTBBaDVLUHVNNVhOQW9JOGZhdWltSjNsbE5WR2l0N01qb29IMnhSX1VUclpEUFlUNFQxTmRQR2Eza2NnLTJvVlAtcTViemhnNEVTZTBKVHBDVGtmXzdfUXR4c3JXa3lHWlpYU0Z0NGViX29WWlMxY3BVZGktcm9XWkF3c3BLblVPZkRndlhON3ptTWJlbl82T2ZORlhfWWNqR1lmd3hzdmo3MnYtOUEtZ29UdTJIaGROeWNxUUV2M1NkTzlDMzAtaVpwYjdpQmNzWmVCeEZNWEM1b0lQQjU1azlmYUlxZw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[TargatoCN](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLU9aR3pwVDRndzBJMTdoc0UwX0lGbHpSX29xem0wb3ItckVUTV9WZHdHbjJrODhoM1FNYW9xeG9sbkVwLUdXYWVpQUk2elhQNzRsTEdwWkxrWEZLVV95LUs3NGpxT19ZNW5rS3RRMDVCTFV4N1J4M0VXUElKT3FVOWhfRXpBYzR0X1lMN3BwSnpWMl9KUFhkN0xIcWZWMmNZUlZoLWNMZzlfRDljSU1RWjVwa3Z5aTRfWUhFR3dBQjdKSDF1LWkzY1lLSjNkUG8wRmRtek9GQ0ZMVmxtam9VcTY1czlNS3JnU01BS1FFbEc2UlVESlFN0gHqAUFVX3lxTE82VDVtcTBBaDVLUHVNNVhOQW9JOGZhdWltSjNsbE5WR2l0N01qb29IMnhSX1VUclpEUFlUNFQxTmRQR2Eza2NnLTJvVlAtcTViemhnNEVTZTBKVHBDVGtmXzdfUXR4c3JXa3lHWlpYU0Z0NGViX29WWlMxY3BVZGktcm9XWkF3c3BLblVPZkRndlhON3ptTWJlbl82T2ZORlhfWWNqR1lmd3hzdmo3MnYtOUEtZ29UdTJIaGROeWNxUUV2M1NkTzlDMzAtaVpwYjdpQmNzWmVCeEZNWEM1b0lQQjU1azlmYUlxZw?oc=5)
+
+---
+
+### [HIV-PrEP: Diese Möglichkeiten gibt es](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNSRnhib3RSNnFyblYtUzFza2pzemdwQ2ZOdFNJVkZVdDVVZkZuY3RpMDRVYV9UWm45M1pjYnBGYlVMcnFUUmFXcU1ITFlLMkFZRl9NWnZ6TVBDMXZPNEllM1VzOXJEbUhLMG51NzRjUnVpNENzX2lNanAxdExNckZTOE1JQUxRSDBaMm9ZTjc?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNSRnhib3RSNnFyblYtUzFza2pzemdwQ2ZOdFNJVkZVdDVVZkZuY3RpMDRVYV9UWm45M1pjYnBGYlVMcnFUUmFXcU1ITFlLMkFZRl9NWnZ6TVBDMXZPNEllM1VzOXJEbUhLMG51NzRjUnVpNENzX2lNanAxdExNckZTOE1JQUxRSDBaMm9ZTjc?oc=5)
+
+---
+
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2tzY3pXeTR1eDd3R0VjRG9HNk1PcURHeXg3MWZJRFNNT3RIZS01VmF0VVBvcmx4cUZFZ05PbkRidjNxbnpJQUxxaFZPUDJUM2VmS0Y1TDNXc2Nvd0YzaUQ4bGd4bFptUmRPQTJuYkhQOW1wVXlmUXEtR0k4aV9meUpfakt3WUJMUjBURlZPdzctN0E5OFl5OHZQczNaMjFqNWVMZTViRDh1NDg?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2tzY3pXeTR1eDd3R0VjRG9HNk1PcURHeXg3MWZJRFNNT3RIZS01VmF0VVBvcmx4cUZFZ05PbkRidjNxbnpJQUxxaFZPUDJUM2VmS0Y1TDNXc2Nvd0YzaUQ4bGd4bFptUmRPQTJuYkhQOW1wVXlmUXEtR0k4aV9meUpfakt3WUJMUjBURlZPdzctN0E5OFl5OHZQczNaMjFqNWVMZTViRDh1NDg?oc=5)
+
+---
+
+### [Coffee Drinkers Have Less Fat, More Muscle, And Surprising Sex Hormone Differences](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXJTQ0RkdmFRdF83Y2ZxaFVBa2dYSXVnY1VWd19iSjdXcXFaY2RhZDFSV0h1dVF6b2NTNVptVlpmRExNNUhnOUNvUDFiSmp2R3JiOUFJOXl5U2lySDc2dzJyeU1JalFrZWhWU2xtLWQ4akVXTHZ2YzNuZll4NUxTTy1QUnBoNjA5SzZOWjBxa2N6TEdKVWItcHhMY1FnQjA1bzl5M3QzZDc3c0JYVEE?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXJTQ0RkdmFRdF83Y2ZxaFVBa2dYSXVnY1VWd19iSjdXcXFaY2RhZDFSV0h1dVF6b2NTNVptVlpmRExNNUhnOUNvUDFiSmp2R3JiOUFJOXl5U2lySDc2dzJyeU1JalFrZWhWU2xtLWQ4akVXTHZ2YzNuZll4NUxTTy1QUnBoNjA5SzZOWjBxa2N6TEdKVWItcHhMY1FnQjA1bzl5M3QzZDc3c0JYVEE?oc=5)
+
+---
 
 ### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-08-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
 ---
 
-### [Un estudio revela que la dieta keto reduce más la grasa del hígado que otras dietas, incluso perdiendo el mismo peso - La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
+### [Influenza 2026, dall’Australia arriva il primo segnale: meno casi, ma i ricoveri stanno salendo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ09xZm9ZMFVLSHM2Ym5MMWhuTHZoaDFqdGFLRkZOazRraW5KOXhIc25rNHVJUWhJcUpxV01naVpPdnNTTzJNQTdCVHUwNlh6bXc3QU5xTmsydWZHalVCWjhyaDEzMTF1RFdMeEQxRDhxbE1uZGl1bUYzYXNDQm1ubXNXcGg1WFEtTjEtY1VrcEJvTHlJenBCbVBoalVzVUhydDBoUXo0SjNNOEQ4X3JlcHNnUEx2ZGRUTW1EWEMxTWxYeXphRzJFZjJzSEZxOFpib0dQNUNFeTNadw?oc=5)
 
-2026-08-30 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-08-30 <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
-
----
-
-### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 24 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTVhbmdqaXlUaXRCLW9ReXVhWlRHQjhuWkJqV3lkT2liUHpKQ1RRNWVPYkttcWlFZHdpa2x6SkxRSHFiNjVtNWV0b0ZXRUN2WHZWQjdvejV3RGdsb1haejlNX2c4TWtuaXlVajZQWlVUV3Z0THE5WHFReG05akNjMWdON0dKZzBuY2lKUk1pNTRINHFkQllnbUUweHJEMkxNOUZrS0xxQWdYTE83T084?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTVhbmdqaXlUaXRCLW9ReXVhWlRHQjhuWkJqV3lkT2liUHpKQ1RRNWVPYkttcWlFZHdpa2x6SkxRSHFiNjVtNWV0b0ZXRUN2WHZWQjdvejV3RGdsb1haejlNX2c4TWtuaXlVajZQWlVUV3Z0THE5WHFReG05akNjMWdON0dKZzBuY2lKUk1pNTRINHFkQllnbUUweHJEMkxNOUZrS0xxQWdYTE83T084?oc=5)
-
----
-
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ09xZm9ZMFVLSHM2Ym5MMWhuTHZoaDFqdGFLRkZOazRraW5KOXhIc25rNHVJUWhJcUpxV01naVpPdnNTTzJNQTdCVHUwNlh6bXc3QU5xTmsydWZHalVCWjhyaDEzMTF1RFdMeEQxRDhxbE1uZGl1bUYzYXNDQm1ubXNXcGg1WFEtTjEtY1VrcEJvTHlJenBCbVBoalVzVUhydDBoUXo0SjNNOEQ4X3JlcHNnUEx2ZGRUTW1EWEMxTWxYeXphRzJFZjJzSEZxOFpib0dQNUNFeTNadw?oc=5)
 
 ---
 
@@ -110,11 +206,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [El estudio React revela que la aterosclerosis silenciosa afecta ya a unode cada 13 jóvenes de entre 18 y 29 años](https://news.google.com/rss/articles/CBMid0FVX3lxTE54c3lxM0FBdl93bWh6VGgwUW00UDJ0YjhUaGtyQmpJZnNhLW5pR1FHcXpyc1hCVmtyOWktQmVYSHEtU2R0Y0lkUnBUdHcyRHB2RGgxT2JqRkt5b254OUY2dENZVTZKOEpUNmZadDctdXc1NUpFWTl3?oc=5)
+### [Arzt­vor­trag in Stadt­kli­nik: Warum bei Sep­sis Eile ge­bo­ten ist - Die Rheinpfalz](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmthR2RfbEdLeS1YVkhBYW5uaVp4d3BYNlhQMnlDbEZRTUFpUndwOHpTalFMUEtuVVRKWHQ2Z2xxQ1QxaDdVT1RrUEk1Nk4weTZRNmpmRVd1SWU1ZDI1d21DbFRTU0tWVDljU3BYVk5hX08ybDhLLU90bE5OU0xFbElrRUdCY1NubHBvY0J3R3J2cUdpRFRfWE5XUDRfUVV2QWJleFhwU1AtVHNlMnp2ZE5sZ2UtLWh3N21mVzJZb3JmZ2RxOUJtTWsxM1A?oc=5)
 
 2026-08-30 <span class="news-indication-tag">AF</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMid0FVX3lxTE54c3lxM0FBdl93bWh6VGgwUW00UDJ0YjhUaGtyQmpJZnNhLW5pR1FHcXpyc1hCVmtyOWktQmVYSHEtU2R0Y0lkUnBUdHcyRHB2RGgxT2JqRkt5b254OUY2dENZVTZKOEpUNmZadDctdXc1NUpFWTl3?oc=5)
+來源：[Die Rheinpfalz](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmthR2RfbEdLeS1YVkhBYW5uaVp4d3BYNlhQMnlDbEZRTUFpUndwOHpTalFMUEtuVVRKWHQ2Z2xxQ1QxaDdVT1RrUEk1Nk4weTZRNmpmRVd1SWU1ZDI1d21DbFRTU0tWVDljU3BYVk5hX08ybDhLLU90bE5OU0xFbElrRUdCY1NubHBvY0J3R3J2cUdpRFRfWE5XUDRfUVV2QWJleFhwU1AtVHNlMnp2ZE5sZ2UtLWh3N21mVzJZb3JmZ2RxOUJtTWsxM1A?oc=5)
+
+---
+
+### [Millions could benefit from 3p pill ‘to slash risk of heart attack and dementia’ - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnYyNENITnBnTjduSnBZRUVudm01M3RJODZleHdGVS01LVlJazlJQXVkcWlRQTc2NjgzUVIzSFd5QnJkWllkaWlKRmRkSFBkaGFFTXpmRHZqZ29UMi1UY0ZjV1IxTFZya3pJUzJwOEhuWEEwSnhXaUZkaE5TOFlPaDZaTndXUmRvSU1hZk9FQjNZUXNSMDBiUWxUZFJWUkk?oc=5)
+
+2026-08-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnYyNENITnBnTjduSnBZRUVudm01M3RJODZleHdGVS01LVlJazlJQXVkcWlRQTc2NjgzUVIzSFd5QnJkWllkaWlKRmRkSFBkaGFFTXpmRHZqZ29UMi1UY0ZjV1IxTFZya3pJUzJwOEhuWEEwSnhXaUZkaE5TOFlPaDZaTndXUmRvSU1hZk9FQjNZUXNSMDBiUWxUZFJWUkk?oc=5)
 
 ---
 
@@ -126,11 +230,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Vitamin D und Demenz: Ältere Menschen mit hoher täglicher Dosis schnitten in Denktests deutlich besser ab - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNG5nWG1VWk5RREVSYmE5T0NDUENqSFZydFNwMXJVSnFrRW5XUXpSSllISjVLZ2hWd0FyZ1RIY3lzUXMyUFo1WkMwa1RISmdSalpqMVd5a3VVdnNzMWZCQ1Zydm8zZlFoWnRERWZick1aaURqcjd2S0hsVUMxMjVETmEzRkpGRXUwaWNhR0FxN3lUTjVKNERXYzB2emphLXFwanpjTHdpMlRWcm9kTnltUjF4bGRpX1ZCYjAySUFBVDNHZVFRN3VzcEtUdnZ0QUhyMFBOQ1I0ZVhicUJkZ0xr?oc=5)
+### [Vitamin D in der Schwangerschaft: Kinder profitieren möglicherweise noch zehn Jahre später - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcEJpUzg1bThHU01lbkdiQXNlUlVBTTh2ekxJRWRCZFZpZ2wxS0U2eV9lc0p6ZnZla3ZvVVJyanRrak85ZkZRcE9TTFNIalpNVk5FajZaUEFILWlyMGotQTBwZkYxQ0gxWk5VRGsyUjdva1ZzSmFhcGZ5V2VOOGxJTnJZLURaTFpjXzRub1dvdnZZdUl5VmU5SUIxZUtQNk0wTmtCQ2MzMU52Q3c3eTRNUm9hUFBVU29wbDkwdk9KaEx0U211X1dlT2lvUXFMbEFMUktwV3ptTkprWnk0Z1E3UW5nbzl4dw?oc=5)
 
 2026-08-30 <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNG5nWG1VWk5RREVSYmE5T0NDUENqSFZydFNwMXJVSnFrRW5XUXpSSllISjVLZ2hWd0FyZ1RIY3lzUXMyUFo1WkMwa1RISmdSalpqMVd5a3VVdnNzMWZCQ1Zydm8zZlFoWnRERWZick1aaURqcjd2S0hsVUMxMjVETmEzRkpGRXUwaWNhR0FxN3lUTjVKNERXYzB2emphLXFwanpjTHdpMlRWcm9kTnltUjF4bGRpX1ZCYjAySUFBVDNHZVFRN3VzcEtUdnZ0QUhyMFBOQ1I0ZVhicUJkZ0xr?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcEJpUzg1bThHU01lbkdiQXNlUlVBTTh2ekxJRWRCZFZpZ2wxS0U2eV9lc0p6ZnZla3ZvVVJyanRrak85ZkZRcE9TTFNIalpNVk5FajZaUEFILWlyMGotQTBwZkYxQ0gxWk5VRGsyUjdva1ZzSmFhcGZ5V2VOOGxJTnJZLURaTFpjXzRub1dvdnZZdUl5VmU5SUIxZUtQNk0wTmtCQ2MzMU52Q3c3eTRNUm9hUFBVU29wbDkwdk9KaEx0U211X1dlT2lvUXFMbEFMUktwV3ptTkprWnk0Z1E3UW5nbzl4dw?oc=5)
 
 ---
 
@@ -142,14 +246,6 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [La IA podría detectar enfermedades cardiacas en mujeres mediante mamografías](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHNUX0tCdVRZZkZEQjNfUm05OXJyMm1OLUk0SGl5Z3lURjVjNE5IVzRWX1NJakVUVklMZkRHT2toTXFxZ2E2dHYxTk9BNWRZcXk5UWlBT1dnWGh6QzJwb1dFRDRodERsSDU5d3RSY2pLMkNuWkluWVJnQy02X2oyZ3FNRy1kaXE0dU1IUU1JYTJxNlZtczV6TE5lS1ZfSmhCc1pSTTFvbGZJalZUYWQ0YzZKRFFiZzVYcGfSAdQBQVVfeXFMT1Y5NWh6MzU2VHhFT3c3MXZ0YVpyX2ZMV3ZoN1Y5QUJ4WHNMZmlmYVR6OFoxbEpscnFERHJrTzhUUE1NcVBKenJKVVMteXZqUzZ4QTNIbzZnSWtsZHk5akxfWTRRb1pwRWRnVHZyMXh2LS1KQzFKVFBySTZ3eHk4c1daYW41dHB5c0tYTDZuS1lsQ2tDdm05ZFhiWTJFa1dNeTVDTjE3aUF6QlBPdksyNFZDM1JPbXpNX1JmbnlLX19BeEYxZ2tVeEZDbGRDUzZueUluQ1M?oc=5)
-
-2026-08-29 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHNUX0tCdVRZZkZEQjNfUm05OXJyMm1OLUk0SGl5Z3lURjVjNE5IVzRWX1NJakVUVklMZkRHT2toTXFxZ2E2dHYxTk9BNWRZcXk5UWlBT1dnWGh6QzJwb1dFRDRodERsSDU5d3RSY2pLMkNuWkluWVJnQy02X2oyZ3FNRy1kaXE0dU1IUU1JYTJxNlZtczV6TE5lS1ZfSmhCc1pSTTFvbGZJalZUYWQ0YzZKRFFiZzVYcGfSAdQBQVVfeXFMT1Y5NWh6MzU2VHhFT3c3MXZ0YVpyX2ZMV3ZoN1Y5QUJ4WHNMZmlmYVR6OFoxbEpscnFERHJrTzhUUE1NcVBKenJKVVMteXZqUzZ4QTNIbzZnSWtsZHk5akxfWTRRb1pwRWRnVHZyMXh2LS1KQzFKVFBySTZ3eHk4c1daYW41dHB5c0tYTDZuS1lsQ2tDdm05ZFhiWTJFa1dNeTVDTjE3aUF6QlBPdksyNFZDM1JPbXpNX1JmbnlLX19BeEYxZ2tVeEZDbGRDUzZueUluQ1M?oc=5)
-
----
-
 ### [Deafness, blindness, baldness, confusion and drooling among shock side effects reported by Viagra users - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzRCcVNYb0s0YVVPVEVxajdNQ05RdnRKZXp5WWFzWjJUWnFzVHZtY2c1TkZCcVRtSndZS2VmdmxCWkNuOGhBZmFBdGJwTVJla29OdWpTTzhaT0wyRVRMSTI1cGY3eVQtZGRVTkF3ODZkQnZzd1NvbjE4bmx5eWtzaFktdlhJbkk?oc=5)
 
 2026-08-29 <span class="news-indication-tag">AF</span>
@@ -158,19 +254,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [La recomendación de Carlos Barnés, oftalmólogo, para después de verano: “Una revisión oftalmológica permite diagnosticar y pautar el tratamiento para frenar el avance de la sequedad ocular antes de que afecte a la calidad de vida” - La Vanguardia](https://news.google.com/rss/articles/CBMi1AJBVV95cUxOY1Z3c3NmOTV5aFJuZkRYNXVEM0h4dzRuUjdNQUU1Z3JPQWR5MmFPSzNreWV4QmprbjhYdjFXNGV3MGoxc0FqdDM5TTg2eU1GOThwT0VmeUV6ZVJ5d0tWeWs1dFJqc0VvcVc4YXdTeTM3OHprY3k1b2hBbnptQTB4ZkZfczliZzJfTXEzMlVRMEhVbDlab0xaWFNRU0JPNGJuYWRPS3BlblVCWXBnRkk4Z0pBSVgtV0FqRXp5OHkwWWpGak0yc0pwUmtlWFM1R0dDOEZrRE1KVEstMzd5V28xRFRkSWpjbDBxUWttQkVpVHZBdDdVYlJXeHdib0RpT1NCNm1vdEdPRDdCcnpVMHJRVWpmdWlMaXdYTnlBb2UzeXE1TW53d2RMRXJKTnpxcU1DZ2Y4cDhmdXFwdnE5Q0o0b2NDV3otcXVJeFBNcTc5YzhKMnFk0gHaAkFVX3lxTE9wakxsc0M4cTFqbmRvckFSbUlnSmRsT3pwT1B4M1FFQWlFWmVMY2xzVXNMMHhuaGZOVW0xTW04aGlrdjd0ejdrdm1KZEV1RTJubHlVcTdxZ1BBak5POFZVRG9xV3BFcGZWWWZtSlhrUU52d2lPNDgtWGw0MVMtNE5SZHcwdEV0bUxadHNBMGtEQ25rcjFPU1dWa3ljNndBZXhBSXM1TTVPeXhtclBBWWljaGF2YmdrcGcybDFkQWRaOFFCT0pDU3BERktadDBMbjhDWHRERENONXZtRWRRQUZXMTNoZHNZSElibm5hZlFETzZ2bk1BeFpZdHhCRHU0Z2dFelRFakotVTJGR0JmWkd1ZFVIbkg0bzNjOUw5RjcwMUJWUkc5UEEtdUJCWS1oSHJmUjV3RzVKeFV4bU83bkUyTG40MnNINm9IV3FTeVZwOHZTSk1PVFBIWmc?oc=5)
+### [Las seis vitaminas que evitan la caída del pelo y favorecen la salud capilar](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkVqRkpGdFlwYVlha3hhZnY2WDFfYjY2MGpYVFdNOFVUQmNMOW5iNHJOelRjTVE4ODlMOTZzblpvalIxUWRKWVVaQTd5YkF0TUxJSVQwcmxiMVhrZFZ3VFBickMtV1oxd0xMYm0zUkR6X3Y5aTJ2YzBzSmJIWFBJRkZGQmhGQ05tc2RXLXBSbEx4QjVSaGVILV9sR0tKWE9kYmdkbWdqM3RObE9laHdLcTU5TnY1bWh2M1HSAdQBQVVfeXFMT1ZHWlVST0x3bWJ4c1l3X3kya2VoMEl1SHBSYzNhRkpMNjYtTnZ3Wkt6OE5zY1BNUVhCTll1Qk4yY0VQTEtpTGJzYVZRdnBrYzZmaWdHcWJmWkt6TXhveVYzR2Zid3ZXeGVSYk5idDlPbUFEc2sxdHdJNDZKVzlOWEJUTVR5N29oMVZ0R2UweHo2NDdzTVozVGZjNEI2ZU9NZF80SnNaanVaU2podThRZ1djVWhxVWJ5SkwxanhYQU5WZWxleHJNZFBUTFVLaklYNndzZUU?oc=5)
 
 2026-08-29 <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi1AJBVV95cUxOY1Z3c3NmOTV5aFJuZkRYNXVEM0h4dzRuUjdNQUU1Z3JPQWR5MmFPSzNreWV4QmprbjhYdjFXNGV3MGoxc0FqdDM5TTg2eU1GOThwT0VmeUV6ZVJ5d0tWeWs1dFJqc0VvcVc4YXdTeTM3OHprY3k1b2hBbnptQTB4ZkZfczliZzJfTXEzMlVRMEhVbDlab0xaWFNRU0JPNGJuYWRPS3BlblVCWXBnRkk4Z0pBSVgtV0FqRXp5OHkwWWpGak0yc0pwUmtlWFM1R0dDOEZrRE1KVEstMzd5V28xRFRkSWpjbDBxUWttQkVpVHZBdDdVYlJXeHdib0RpT1NCNm1vdEdPRDdCcnpVMHJRVWpmdWlMaXdYTnlBb2UzeXE1TW53d2RMRXJKTnpxcU1DZ2Y4cDhmdXFwdnE5Q0o0b2NDV3otcXVJeFBNcTc5YzhKMnFk0gHaAkFVX3lxTE9wakxsc0M4cTFqbmRvckFSbUlnSmRsT3pwT1B4M1FFQWlFWmVMY2xzVXNMMHhuaGZOVW0xTW04aGlrdjd0ejdrdm1KZEV1RTJubHlVcTdxZ1BBak5POFZVRG9xV3BFcGZWWWZtSlhrUU52d2lPNDgtWGw0MVMtNE5SZHcwdEV0bUxadHNBMGtEQ25rcjFPU1dWa3ljNndBZXhBSXM1TTVPeXhtclBBWWljaGF2YmdrcGcybDFkQWRaOFFCT0pDU3BERktadDBMbjhDWHRERENONXZtRWRRQUZXMTNoZHNZSElibm5hZlFETzZ2bk1BeFpZdHhCRHU0Z2dFelRFakotVTJGR0JmWkd1ZFVIbkg0bzNjOUw5RjcwMUJWUkc5UEEtdUJCWS1oSHJmUjV3RzVKeFV4bU83bkUyTG40MnNINm9IV3FTeVZwOHZTSk1PVFBIWmc?oc=5)
-
----
-
-### [¿Cuánto tiempo hay que dormir y hacer ejercicio para reducir la probabilidad de demencia?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUlE4b0EyUG9zby1WRVROeXZzSDZiLWxrOEVETHllSHJJNXVta19aZk5xcWpSUkFOa040M1ZsQ1Rkbk1OY0ZCVkp6UzZfdzR3a0xuME5VNGY5SDlCMFR2Sy1VYTZHTHIwcHBKamhLTW52UHdOSDBqUlUtNm1fVVByQ2dhMU1NaVpMTEdFTHpjeC1ncEJ2TTQyVnJFR28tNVVyNnI5bFVkQ3dhN3FyM1JqeDQzazR6N0hKTFVnMVdqbzBFVXhmOUZFYi16VmRIZms3RXZBTk5mbjRlVDY1?oc=5)
-
-2026-08-29 <span class="news-indication-tag">AF</span>
-
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUlE4b0EyUG9zby1WRVROeXZzSDZiLWxrOEVETHllSHJJNXVta19aZk5xcWpSUkFOa040M1ZsQ1Rkbk1OY0ZCVkp6UzZfdzR3a0xuME5VNGY5SDlCMFR2Sy1VYTZHTHIwcHBKamhLTW52UHdOSDBqUlUtNm1fVVByQ2dhMU1NaVpMTEdFTHpjeC1ncEJ2TTQyVnJFR28tNVVyNnI5bFVkQ3dhN3FyM1JqeDQzazR6N0hKTFVnMVdqbzBFVXhmOUZFYi16VmRIZms3RXZBTk5mbjRlVDY1?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkVqRkpGdFlwYVlha3hhZnY2WDFfYjY2MGpYVFdNOFVUQmNMOW5iNHJOelRjTVE4ODlMOTZzblpvalIxUWRKWVVaQTd5YkF0TUxJSVQwcmxiMVhrZFZ3VFBickMtV1oxd0xMYm0zUkR6X3Y5aTJ2YzBzSmJIWFBJRkZGQmhGQ05tc2RXLXBSbEx4QjVSaGVILV9sR0tKWE9kYmdkbWdqM3RObE9laHdLcTU5TnY1bWh2M1HSAdQBQVVfeXFMT1ZHWlVST0x3bWJ4c1l3X3kya2VoMEl1SHBSYzNhRkpMNjYtTnZ3Wkt6OE5zY1BNUVhCTll1Qk4yY0VQTEtpTGJzYVZRdnBrYzZmaWdHcWJmWkt6TXhveVYzR2Zid3ZXeGVSYk5idDlPbUFEc2sxdHdJNDZKVzlOWEJUTVR5N29oMVZ0R2UweHo2NDdzTVozVGZjNEI2ZU9NZF80SnNaanVaU2podThRZ1djVWhxVWJ5SkwxanhYQU5WZWxleHJNZFBUTFVLaklYNndzZUU?oc=5)
 
 ---
 
@@ -182,19 +270,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Orangensaft verändert tausende Gene im menschlichen Körper - Forschung und Wissen](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbFZaMndBR3E3SDNKQWQ1ejByOGVLZDRMUmlPWk1NdzZxdXM5d0U1M0tSdFg4NENsVEtUeWNERU55NXF5ZzhrOEVMSnRwdFZkTEQzWGhuTXJtNWZJYzFOeEFSd18zaGFpV0JpR3MzZ1dkcnc4ZU1SVkgzeWJEWl9meEdUdnRJYzRIdWpCb3JGU3BWSW5CQU1Ib2NkNHpyMk5rb3dCeGNKSFlUcFVKRk05TE4yZndWaUJrb2g3bjd5cmc5WkdJ?oc=5)
+### [Wissenschaft - Was beim Tanzen im Gehirn passiert](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXFxZUU0NmFETEZoNnljUTdhemo1eFRrNkJPWWZCdFJGRGRZMWlmMEgtUDFvS0Y0eGsxNjFGeXZRN3hWTWI5VHRmWXJ6ZkIzYjgwZEgzZ05ybzdWNDM2NGJqeUpBbTdNNTZOUFNMNC1zeF9Kbk1ROWR0Z0l1SzdGQmR2SGIwUkJldlNqak12WUZ4VGRudXlkTmRUdHNieEtXSmJNbWctT2pLcW5SUlVRSmw1S0kwa2JYcF9KMU9NZHg0R0h2?oc=5)
 
 2026-08-29 <span class="news-indication-tag">AF</span>
 
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbFZaMndBR3E3SDNKQWQ1ejByOGVLZDRMUmlPWk1NdzZxdXM5d0U1M0tSdFg4NENsVEtUeWNERU55NXF5ZzhrOEVMSnRwdFZkTEQzWGhuTXJtNWZJYzFOeEFSd18zaGFpV0JpR3MzZ1dkcnc4ZU1SVkgzeWJEWl9meEdUdnRJYzRIdWpCb3JGU3BWSW5CQU1Ib2NkNHpyMk5rb3dCeGNKSFlUcFVKRk05TE4yZndWaUJrb2g3bjd5cmc5WkdJ?oc=5)
+來源：[radioeins](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXFxZUU0NmFETEZoNnljUTdhemo1eFRrNkJPWWZCdFJGRGRZMWlmMEgtUDFvS0Y0eGsxNjFGeXZRN3hWTWI5VHRmWXJ6ZkIzYjgwZEgzZ05ybzdWNDM2NGJqeUpBbTdNNTZOUFNMNC1zeF9Kbk1ROWR0Z0l1SzdGQmR2SGIwUkJldlNqak12WUZ4VGRudXlkTmRUdHNieEtXSmJNbWctT2pLcW5SUlVRSmw1S0kwa2JYcF9KMU9NZHg0R0h2?oc=5)
 
 ---
 
-### [People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
+### [In Italia aumentano le morti per overdose, +7,8% in un anno](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOHBLUldIdjZpcl92UnNoaVZTYm9xX0dlUHdNVXhGa2tNVWlCWmFlQ0N4d0RpY3dteXF5dWtPU0RhbGxyQWt2MlFIMFVaeEtqNWhzRUtCWGZJWGdoYkh5cHdMdUJrVk1qY1lyR0FISS0tQ25JTnNJMjZwYXdndkxlbkgySTFEUkRtdkZSY3QwdXlvcTJxallOcjJ2aE8xT1BlREtXbFByS0JweGNqdHQtS2NBRnpQTUNzSHRpc3JyZ05ZaVRjcmZlWmdtMi1LemZPYi13Zlg0VVZjTWZSakdsNGpNcVFUWFh5ZTNRUFAyR3g0Y3lxVEtEcFVB0gH_AUFVX3lxTE5xMlpVM3BxdjQ1cUJmTUR4ZFZvazJTYjFoclhodkgyR050MzE0S3JKU1hqNHVKQkFnQUVCaDBkemdBeFd6QVpYNGNEUGhoUkRURmtFTWdQSlcyY2x2by1mYVNsUlZ3V0dQUDBrUF9VempEdVVOcXJ4cUlwRTlwWXlsTmtiNExURUpqVUt0My04WXZjVDdybHlEdDZacGExbU5rS2pnMVZMRXRGYlJzck5zSFdvN2lEUDU1RDZCWnpJM0lKRWtlQVlORTgzZ2stVDB2eFRRdTFTQ01rYXNreGNiVWNTajR1YUpPYmQ3ckJDN0d4enl6UVA1OU53cUVNZw?oc=5)
 
-2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-08-28 <span class="news-indication-tag">AF</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOHBLUldIdjZpcl92UnNoaVZTYm9xX0dlUHdNVXhGa2tNVWlCWmFlQ0N4d0RpY3dteXF5dWtPU0RhbGxyQWt2MlFIMFVaeEtqNWhzRUtCWGZJWGdoYkh5cHdMdUJrVk1qY1lyR0FISS0tQ25JTnNJMjZwYXdndkxlbkgySTFEUkRtdkZSY3QwdXlvcTJxallOcjJ2aE8xT1BlREtXbFByS0JweGNqdHQtS2NBRnpQTUNzSHRpc3JyZ05ZaVRjcmZlWmdtMi1LemZPYi13Zlg0VVZjTWZSakdsNGpNcVFUWFh5ZTNRUFAyR3g0Y3lxVEtEcFVB0gH_AUFVX3lxTE5xMlpVM3BxdjQ1cUJmTUR4ZFZvazJTYjFoclhodkgyR050MzE0S3JKU1hqNHVKQkFnQUVCaDBkemdBeFd6QVpYNGNEUGhoUkRURmtFTWdQSlcyY2x2by1mYVNsUlZ3V0dQUDBrUF9VempEdVVOcXJ4cUlwRTlwWXlsTmtiNExURUpqVUt0My04WXZjVDdybHlEdDZacGExbU5rS2pnMVZMRXRGYlJzck5zSFdvN2lEUDU1RDZCWnpJM0lKRWtlQVlORTgzZ2stVDB2eFRRdTFTQ01rYXNreGNiVWNTajR1YUpPYmQ3ckJDN0d4enl6UVA1OU53cUVNZw?oc=5)
 
 ---
 
@@ -206,11 +294,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Methylierung bringt Parasiten in Bewegung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnBpTjJXbEVlSGR3cm1jVkNmN1JvRmJvRjl6MTFKYWZqV3Bmc0ZVRTRMZFFFLXRCbTd5aGJ6UXBWSVZDUmF5dERnLTFFbmpzbXBUaE9ZNi1la1Zzck9qaFJyLWc5S2dKYzI1Y0ZMTnJ1bHNxaUN6SDRQak5kTlFLcTd0WmFIbGgzZVU5UlJqeFJLNkR0V2RBUGMxYnhKQThZ?oc=5)
+### [Methylierung bringt Parasiten in Bewegung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEthVWM5dkluX2ZFX3ZnaFN0d3V2VmZnRXMtQUdaVkFSZ1R1Uzd1Qkk2YTA3dU41cGk2MmFpUWUtWTR3UURDNk1uRTRybHhvNTJOdDZKT0o4Z0VNWXZiYklFSzlrdjA0YmlLTUVlY0UtT3NEaFZuQ3E5U0h2dldmUGRQQnVLaElqZ0pOMS1Zaw?oc=5)
 
 2026-08-28 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnBpTjJXbEVlSGR3cm1jVkNmN1JvRmJvRjl6MTFKYWZqV3Bmc0ZVRTRMZFFFLXRCbTd5aGJ6UXBWSVZDUmF5dERnLTFFbmpzbXBUaE9ZNi1la1Zzck9qaFJyLWc5S2dKYzI1Y0ZMTnJ1bHNxaUN6SDRQak5kTlFLcTd0WmFIbGgzZVU5UlJqeFJLNkR0V2RBUGMxYnhKQThZ?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEthVWM5dkluX2ZFX3ZnaFN0d3V2VmZnRXMtQUdaVkFSZ1R1Uzd1Qkk2YTA3dU41cGk2MmFpUWUtWTR3UURDNk1uRTRybHhvNTJOdDZKT0o4Z0VNWXZiYklFSzlrdjA0YmlLTUVlY0UtT3NEaFZuQ3E5U0h2dldmUGRQQnVLaElqZ0pOMS1Zaw?oc=5)
+
+---
+
+### [Demenzerkrankungen: "riesiges Potenzial für Prävention" - Pharma Fakten](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbThnbFFiM210SUs4bU1DNWtmd2d3OGstcmRYbkNmMXFMejBQQ3BXUmVmcWxUTnRSVzRyUi05VGlWWVRIRVV5THZzcFdRSjZDUjRQbXF6cGEyZ1lNdVlsYVc1YzUxamYwRk93SG42RU5nWDFQeFJ6bUdTbU84VnRzdjBpRTFZTzBpTW1VRXN3?oc=5)
+
+2026-08-28 <span class="news-indication-tag">AF</span>
+
+來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbThnbFFiM210SUs4bU1DNWtmd2d3OGstcmRYbkNmMXFMejBQQ3BXUmVmcWxUTnRSVzRyUi05VGlWWVRIRVV5THZzcFdRSjZDUjRQbXF6cGEyZ1lNdVlsYVc1YzUxamYwRk93SG42RU5nWDFQeFJ6bUdTbU84VnRzdjBpRTFZTzBpTW1VRXN3?oc=5)
 
 ---
 
@@ -219,14 +315,6 @@ permalink: /news/macimorelin-acetate/
 2026-08-28 <span class="news-indication-tag">AF</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiekFVX3lxTFBNRVdDaUZhZmRXT2V6LXQ4X05pNzVRSVQ0ZVlSNGpZTFBuLThteWQ0WHNFR1YzSUR1M3NVbkpxbXRPbE1uRy04SUY0TlI5dDFDOWZjVDNVSXYydWJFa3Y4ZFRmRXppUWVvT28zcE1iQ1JEQVdmYnp1Ui1B?oc=5)
-
----
-
-### [UK salmonella cases nearing 500 as egg investigations continue](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMUYtQ2N0XzJWS0diTzh1UnFXTzZrMUM1eHpRTXZWeXh5U0hIZkUxVUxwWUV5SkFqYVRjbjR4SG5Dbmw4SW80SWs0STY1U3laZTl0U3l0TUlHcnZm?oc=5)
-
-2026-08-27 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMUYtQ2N0XzJWS0diTzh1UnFXTzZrMUM1eHpRTXZWeXh5U0hIZkUxVUxwWUV5SkFqYVRjbjR4SG5Dbmw4SW80SWs0STY1U3laZTl0U3l0TUlHcnZm?oc=5)
 
 ---
 
@@ -286,35 +374,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [KI-Designer Viren: Stanford erzeugt 16 funktionierende Bakteriophagen](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUQyVE1UanBMR1BFUzNPUnRmSjRwUGYtakVTeVZya3F4QmJET2Q0a0tZZU9iTGJNYk1mZzNnS2NsZ3lGMlZSYk1IWDhHbzlsT1g4cjlSQzgxdXA0SUNnbERiUzV1RWtNTEJtNGF1akRZZ1FCdXFfVS0zMl9taG11M0kxWEluTDFaUUVMYmJjMm95VDF6THo4b2l0RQ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUQyVE1UanBMR1BFUzNPUnRmSjRwUGYtakVTeVZya3F4QmJET2Q0a0tZZU9iTGJNYk1mZzNnS2NsZ3lGMlZSYk1IWDhHbzlsT1g4cjlSQzgxdXA0SUNnbERiUzV1RWtNTEJtNGF1akRZZ1FCdXFfVS0zMl9taG11M0kxWEluTDFaUUVMYmJjMm95VDF6THo4b2l0RQ?oc=5)
-
----
-
 ### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
-
----
-
-### [Augenhintergrund: KI scannt sechs Stoffwechselkrankheiten in 30 Sekunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNuWDZwbENYRGZFeXNYUGdheGdueE5rOUdyTFYxNy1IR0F2X3RlMDRaMVJNck9Qb2c1c05yVEFmQTlQWVlnWlh2cURWWEM3TFlnTEtKa0RWNl9PbzZDei1Xb1JDZ2dCNEVmeG5vbFdzSmtRVTJBYXYyMU9MNnV2Nm5nYVVQVkFzdmJIYVZoOGt6bHJqQVhnSGdhUzg3amlQWjZIc1VkdGo5Qk5MaFlrdVpUVm41UHVmWndBcw?oc=5)
-
-2026-08-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNuWDZwbENYRGZFeXNYUGdheGdueE5rOUdyTFYxNy1IR0F2X3RlMDRaMVJNck9Qb2c1c05yVEFmQTlQWVlnWlh2cURWWEM3TFlnTEtKa0RWNl9PbzZDei1Xb1JDZ2dCNEVmeG5vbFdzSmtRVTJBYXYyMU9MNnV2Nm5nYVVQVkFzdmJIYVZoOGt6bHJqQVhnSGdhUzg3amlQWjZIc1VkdGo5Qk5MaFlrdVpUVm41UHVmWndBcw?oc=5)
-
----
-
-### [Dad's 'guilt' after passing on genetic cancer risk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpeFUxY085cEVJc1REZVRkdTFWclo4YVpERXNtOXhaUDVKU2IwZF9ENUVWeTdjYmVHTnVWd0NBWjdKTzNIYW1JU2w3bHFDSld6UV9mTTFBczQ5LXhs?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpeFUxY085cEVJc1REZVRkdTFWclo4YVpERXNtOXhaUDVKU2IwZF9ENUVWeTdjYmVHTnVWd0NBWjdKTzNIYW1JU2w3bHFDSld6UV9mTTFBczQ5LXhs?oc=5)
 
 ---
 

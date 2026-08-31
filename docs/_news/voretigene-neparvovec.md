@@ -14,7 +14,7 @@ permalink: /news/voretigene-neparvovec/
 ---
 
 <p class="key-answer" data-question="Voretigene Neparvovec 有什麼相關新聞？">
-<strong>Voretigene Neparvovec</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voretigene Neparvovec</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/voretigene-neparvovec/
 <p><a href="{{ '/drugs/voretigene-neparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
+### [AstraZeneca, ipertensione non controllata o resistente al trattamento: baxdrostat efficace a 52 settimane - Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
 
-2026-08-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-08-31 <span class="news-indication-tag">ipertensione</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
+來源：[Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+
+---
+
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2tzY3pXeTR1eDd3R0VjRG9HNk1PcURHeXg3MWZJRFNNT3RIZS01VmF0VVBvcmx4cUZFZ05PbkRidjNxbnpJQUxxaFZPUDJUM2VmS0Y1TDNXc2Nvd0YzaUQ4bGd4bFptUmRPQTJuYkhQOW1wVXlmUXEtR0k4aV9meUpfakt3WUJMUjBURlZPdzctN0E5OFl5OHZQczNaMjFqNWVMZTViRDh1NDg?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2tzY3pXeTR1eDd3R0VjRG9HNk1PcURHeXg3MWZJRFNNT3RIZS01VmF0VVBvcmx4cUZFZ05PbkRidjNxbnpJQUxxaFZPUDJUM2VmS0Y1TDNXc2Nvd0YzaUQ4bGd4bFptUmRPQTJuYkhQOW1wVXlmUXEtR0k4aV9meUpfakt3WUJMUjBURlZPdzctN0E5OFl5OHZQczNaMjFqNWVMZTViRDh1NDg?oc=5)
+
+---
+
+### [Ipertensione e diabete: così l'intelligenza artificiale li scopre con un video del volto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
+
+2026-08-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/voretigene-neparvovec/
 2026-08-29 <span class="news-indication-tag">hypertension</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t0bm1pVjdXVFBUX1dNMXhUbFJocDRQd3JhYk5DQUpVbXUteEExbTNzOEhTSlA0UzBRTGU4Z0MwTS1uUlNUQjBEVGRvV3diS2JmZ0hLS20xb092MFNKZ2FsMnV3Q2hwS2RtYU5OMV9vb3JpNlNWOGk2UDhxRVJMME9CYTY1Y2VkSVNHNTZB?oc=5)
-
----
-
-### [Augenhintergrund: KI scannt sechs Stoffwechselkrankheiten in 30 Sekunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNuWDZwbENYRGZFeXNYUGdheGdueE5rOUdyTFYxNy1IR0F2X3RlMDRaMVJNck9Qb2c1c05yVEFmQTlQWVlnWlh2cURWWEM3TFlnTEtKa0RWNl9PbzZDei1Xb1JDZ2dCNEVmeG5vbFdzSmtRVTJBYXYyMU9MNnV2Nm5nYVVQVkFzdmJIYVZoOGt6bHJqQVhnSGdhUzg3amlQWjZIc1VkdGo5Qk5MaFlrdVpUVm41UHVmWndBcw?oc=5)
-
-2026-08-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNuWDZwbENYRGZFeXNYUGdheGdueE5rOUdyTFYxNy1IR0F2X3RlMDRaMVJNck9Qb2c1c05yVEFmQTlQWVlnWlh2cURWWEM3TFlnTEtKa0RWNl9PbzZDei1Xb1JDZ2dCNEVmeG5vbFdzSmtRVTJBYXYyMU9MNnV2Nm5nYVVQVkFzdmJIYVZoOGt6bHJqQVhnSGdhUzg3amlQWjZIc1VkdGo5Qk5MaFlrdVpUVm41UHVmWndBcw?oc=5)
 
 ---
 

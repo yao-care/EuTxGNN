@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [La OMS mantiene la Emergencia de Salud Pública de Importancia Internacional pero descarta calificarla de pandemia - Gaceta Médica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLU1VSEEwME10NEk1RmpuWVctSUl1aHhqVXNmTHJNV01pcktDaVdtVXgwSTNKZkxWUjhuYzROVGctcl82bmhWZHBZallsS0JhVzBMaEU4eWp0b0Izek1CZ1o4T28zUjhlOC1fMDhNYWNvMUxKTmlTc0pjTnAxYVFBMElmajlaS1BicTNlYjlqRXpfdXRMdjNMQ0VpdXFhZWdpOG5wQVl0b0M3Zw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">MS</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLU1VSEEwME10NEk1RmpuWVctSUl1aHhqVXNmTHJNV01pcktDaVdtVXgwSTNKZkxWUjhuYzROVGctcl82bmhWZHBZallsS0JhVzBMaEU4eWp0b0Izek1CZ1o4T28zUjhlOC1fMDhNYWNvMUxKTmlTc0pjTnAxYVFBMElmajlaS1BicTNlYjlqRXpfdXRMdjNMQ0VpdXFhZWdpOG5wQVl0b0M3Zw?oc=5)
+
+---
+
+### [Alzheimer-Schutz: Wie Schlafspindeln kognitiven Abbau bremsen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTNOUWNncV9ya2lGMHdCWEhUWkhoNlBQeDNTd2k5Vy0yT0loUTJjdDhKUHhlVHdFcmt1ZXk5bENyWkdKNEZCcGRaVmw1aEdzbWxaQUNNYmNIcHV4WEJCcldhMEhJQ0dYQ2d2WHVjNHBmZkVSYnd0dVdtam40WnZwLTlodWJ0U3RySVhORTJ6dFBrVG5JSGNiNFB0LXptVWtBam5EOTJidFc5UGc1YWc?oc=5)
+
+2026-08-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTNOUWNncV9ya2lGMHdCWEhUWkhoNlBQeDNTd2k5Vy0yT0loUTJjdDhKUHhlVHdFcmt1ZXk5bENyWkdKNEZCcGRaVmw1aEdzbWxaQUNNYmNIcHV4WEJCcldhMEhJQ0dYQ2d2WHVjNHBmZkVSYnd0dVdtam40WnZwLTlodWJ0U3RySVhORTJ6dFBrVG5JSGNiNFB0LXptVWtBam5EOTJidFc5UGc1YWc?oc=5)
+
+---
+
+### [Doomscrolling, FOMO e nomofobia: quando lo smartphone smette di essere uno strumento e comincia a comandare](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
+
+2026-08-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
+
+---
 
 ### [Xilitol y riesgo cardiovascular en la población general](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VmajhyZ2VUODZUaFlWeWxLMDh0NXFXMW9Ec0JQNVpLQ3BuT0xnTHljRU9DUkk1UmpiWjVFd21ndGV0OW5NZDBCVGFLbnBZZlBINHFuYmQxS3g4LWZtZ1Jlai1ua1gzb3lfdWpvT2djeHNpNjE4N20ya0NDdmhyeG43dURMMVUyeVRtdW9uYU1jQ2Q0clJkVlZGY2JDTmFkQmRqM3M1R0RsR1NSUVZn?oc=5)
 
@@ -78,7 +102,7 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [I lost both my legs and tips of my fingers from killer bug - here’s why students can’t ignore flu-like symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkx0cDVWeHMwZ3dKOVRWOVFLblVWMGlHZE9PYXpPZ0hUd2lyOTBrRHRSNnRQc2dmOEVrbFU3VFRMT3Z0RlhrUnBpUnlWWTFGNGZ2NlBpazBkNkVTRXVYUFM0WDVxZmoyZEljR1dVcGhYVWY4U1Z0dXBhOGh5ckxFM2V6SlA1RTV2YTE0QkFXZTNoaGtSamNsTlB4TQ?oc=5)
+### [I lost my legs and fingers from killer bug - here’s why not to ignore symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkx0cDVWeHMwZ3dKOVRWOVFLblVWMGlHZE9PYXpPZ0hUd2lyOTBrRHRSNnRQc2dmOEVrbFU3VFRMT3Z0RlhrUnBpUnlWWTFGNGZ2NlBpazBkNkVTRXVYUFM0WDVxZmoyZEljR1dVcGhYVWY4U1Z0dXBhOGh5ckxFM2V6SlA1RTV2YTE0QkFXZTNoaGtSamNsTlB4TQ?oc=5)
 
 2026-08-29 <span class="news-indication-tag">MS</span>
 
@@ -110,14 +134,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
-
-2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
-
----
-
 ### [NHS confirms full list of two flu jab rule changes for autumn 2026 - Birmingham Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNy1HYWZKa2R2YkJGVFFSaWJCdlFnNE00WGswX2JjYW9YNC1ya1FqM01ZR19FQkdBa24ycGJvQ0M3VkVmb3VNZVpwT0MyS25HRUpIaXYxVEVkYVZUTXlocnpEYWx4TmcyQWJzZmJ0ZTBJbHdhbXhjSXZ3c3Q1X1BXMU91TlFPWDc1Sk5lbjF0a1DSAZYBQVVfeXFMT05hN2ZMd2ZFeFZCemU0c0hxZ3hmbmkxTTBBLVBFUF9wT21EY1lpOWlic0l6NXBmdS15Tkp0ZmxaSHB0dGdacXhpYUFQekREblM5ekpLS0F1SE04d1d1NE5jWE9FQi0yV1Z6VE51Q3JKSzFrS0I4R3ZCTldyRkFObzAzZGNDOGJDRDVudnVaTV9xcXQ5XzlB?oc=5)
 
 2026-08-28 <span class="news-indication-tag">MS</span>
@@ -142,19 +158,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [Il vaccino contro il fuoco di Sant’Antonio potrebbe proteggere anche il cuore](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDRPQmFrYUNRQWRsSWtVYmprTjdqaUdvblhXckp6Vkt4aGg0VWNoMktoLUo0emthQ0pRd1FfS0NYOE8yR2ZOZWk2UElZRzR5ZGFNd2Y0OTBRamJsOFFUdnRZVUJCQW1KQ1Rad1dzbnNKd09IcUxwQ1BZaTRoekRic3dnRkpoNUc0QUJLU05jRVQwTzBSdEY4MnVwVHk0c3BYdmV3dUFVQ0tyYlJfNDFUdkIyY3VqWXJVLWhYeTZURDZlbW94Z3hTYVBiTi14d3dtOHc?oc=5)
+
+2026-08-26 <span class="news-indication-tag">MS</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDRPQmFrYUNRQWRsSWtVYmprTjdqaUdvblhXckp6Vkt4aGg0VWNoMktoLUo0emthQ0pRd1FfS0NYOE8yR2ZOZWk2UElZRzR5ZGFNd2Y0OTBRamJsOFFUdnRZVUJCQW1KQ1Rad1dzbnNKd09IcUxwQ1BZaTRoekRic3dnRkpoNUc0QUJLU05jRVQwTzBSdEY4MnVwVHk0c3BYdmV3dUFVQ0tyYlJfNDFUdkIyY3VqWXJVLWhYeTZURDZlbW94Z3hTYVBiTi14d3dtOHc?oc=5)
+
+---
+
 ### [Nicotine vapes best chance to quit smoking, major review finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
 
 2026-08-25 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
-
----
-
-### [KI-Designer Viren: Stanford erzeugt 16 funktionierende Bakteriophagen](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUQyVE1UanBMR1BFUzNPUnRmSjRwUGYtakVTeVZya3F4QmJET2Q0a0tZZU9iTGJNYk1mZzNnS2NsZ3lGMlZSYk1IWDhHbzlsT1g4cjlSQzgxdXA0SUNnbERiUzV1RWtNTEJtNGF1akRZZ1FCdXFfVS0zMl9taG11M0kxWEluTDFaUUVMYmJjMm95VDF6THo4b2l0RQ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUQyVE1UanBMR1BFUzNPUnRmSjRwUGYtakVTeVZya3F4QmJET2Q0a0tZZU9iTGJNYk1mZzNnS2NsZ3lGMlZSYk1IWDhHbzlsT1g4cjlSQzgxdXA0SUNnbERiUzV1RWtNTEJtNGF1akRZZ1FCdXFfVS0zMl9taG11M0kxWEluTDFaUUVMYmJjMm95VDF6THo4b2l0RQ?oc=5)
 
 ---
 
@@ -171,14 +187,6 @@ permalink: /news/pibrentasvir/
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
-
----
-
-### [Multiple Sklerose: Neue Diagnose-Kriterien ermöglichen frühe Erkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFk2ZXd5T01lSkhnOWpYOTNPYWJGMk5NN3ZiMkItSW1yRWxrOEtoZksxcTdDWkcwWlM2dmtkUnpBa2ZvdmtZZzVraU4wOUdPcEU5TUI2dmt6UE1tTVozcUEwVHJCbHJmaHpkdVBrVlB0VlE2VC12cktIdkRsNHh1eTdmN3RXa19EMHVyVjc2a3VldkhKYnRwQ3VqeTM0YUpjNEQydHc0cWxTY0duNE45Y1QxQ2IyQUZXODRJeA?oc=5)
-
-2026-08-24 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFk2ZXd5T01lSkhnOWpYOTNPYWJGMk5NN3ZiMkItSW1yRWxrOEtoZksxcTdDWkcwWlM2dmtkUnpBa2ZvdmtZZzVraU4wOUdPcEU5TUI2dmt6UE1tTVozcUEwVHJCbHJmaHpkdVBrVlB0VlE2VC12cktIdkRsNHh1eTdmN3RXa19EMHVyVjc2a3VldkhKYnRwQ3VqeTM0YUpjNEQydHc0cWxTY0duNE45Y1QxQ2IyQUZXODRJeA?oc=5)
 
 ---
 

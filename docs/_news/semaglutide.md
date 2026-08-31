@@ -54,9 +54,49 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（18 則）
 
+### [Las estatinas se vinculan con menor riesgo de demencia en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmFCSE1Jb0l6SW5DeE4tRFExZ3dnNmlCTnA3QjhXRUh2d1NyU3I4T2FXOTlSZW04N2VqT3NrTHRNZTktWkRnaVNrbUMyR3RTazgydFhFQmZvMkxidDIxci1LS1hudTRtckVodWZMSGctZUtoQ3k0SVhCTGVLOVBDUjNBcG9qR0daZVZNNUdfMWI2ZXEyZHJNWUwyWWl3azYzU3JraEJWNnNpWGdxaFNmbVNXVUpMN1B1SDhxZ9IBwgFBVV95cUxQVGJkMXBrNWN2UTBrVmtvejJ2MlpZLUdlWXEzOTRGU2NhdmNidkk2MDJtNndSVUZqMTBOeHdGbG5hSGxTaU54dExhTEV4LUpWTkU5WEJISDEyS2lJSlVrUi1Jd2xlbmRLUkp2X3BhREFCZE41a2dLRzZhZ3o4R1BsMHV0M2J0bEtxaHcwdmxUOUlINDIwRlAwaHR1MjZkdDZyaHBzd0lNSjZBRmI0M2ZUOGZUVjg5VDU0TUp5eVRkcTVoQQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmFCSE1Jb0l6SW5DeE4tRFExZ3dnNmlCTnA3QjhXRUh2d1NyU3I4T2FXOTlSZW04N2VqT3NrTHRNZTktWkRnaVNrbUMyR3RTazgydFhFQmZvMkxidDIxci1LS1hudTRtckVodWZMSGctZUtoQ3k0SVhCTGVLOVBDUjNBcG9qR0daZVZNNUdfMWI2ZXEyZHJNWUwyWWl3azYzU3JraEJWNnNpWGdxaFNmbVNXVUpMN1B1SDhxZ9IBwgFBVV95cUxQVGJkMXBrNWN2UTBrVmtvejJ2MlpZLUdlWXEzOTRGU2NhdmNidkk2MDJtNndSVUZqMTBOeHdGbG5hSGxTaU54dExhTEV4LUpWTkU5WEJISDEyS2lJSlVrUi1Jd2xlbmRLUkp2X3BhREFCZE41a2dLRzZhZ3o4R1BsMHV0M2J0bEtxaHcwdmxUOUlINDIwRlAwaHR1MjZkdDZyaHBzd0lNSjZBRmI0M2ZUOGZUVjg5VDU0TUp5eVRkcTVoQQ?oc=5)
+
+---
+
+### [Zu hoher Blutzucker: Diese Symptome sind laut Experten Warnzeichen für Diabetes - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
+
+---
+
+### ['I was one of the first on Wegovy weight loss pill - the effects have been big' - Daily Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
+
+2026-08-31 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
+
+---
+
+### [La dieta que más reduce la grasa del hígado y revierte la prediabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
+
+---
+
+### [Burgos suspende en tabaquismo, diabetes y obesidad abdominal - Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
+
+---
+
 ### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-08-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
@@ -70,11 +110,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Mit Computermodell berechnet: Wie sich die Zahl der Diabetes-Typ-1-Betroffenen entwickelt](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnJkZ0hmdmtFNmtndlhzb3VHeEVkNnlMQ1otazBHSFctdFJ4OWtWUDNWUVk4VFRJSDBXeVFrREpWMm95VS00LVladkpVNlFndzBvYXBfRGp1ZGZjeXJ4eWlkZU52ZTFNTzEtczlfV0ZqazlCSU5tMmV4VUd2cUpmbURUdTVLcnhjMXZZWXF6dEwtdGFyMnpBaXB5YU5VWms2aG9lZA?oc=5)
+### [Ipertensione e diabete: così l'intelligenza artificiale li scopre con un video del volto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
 
-2026-08-30 <span class="news-indication-tag">diabetes</span>
+2026-08-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
 
-來源：[n-tv.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnJkZ0hmdmtFNmtndlhzb3VHeEVkNnlMQ1otazBHSFctdFJ4OWtWUDNWUVk4VFRJSDBXeVFrREpWMm95VS00LVladkpVNlFndzBvYXBfRGp1ZGZjeXJ4eWlkZU52ZTFNTzEtczlfV0ZqazlCSU5tMmV4VUd2cUpmbURUdTVLcnhjMXZZWXF6dEwtdGFyMnpBaXB5YU5VWms2aG9lZA?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
 
 ---
 
@@ -110,22 +150,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Biologisches Alter: KI-Gewebeuhren erkennen Krebs und Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
-
-2026-08-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXF2eXJpUVpnWW9VTnJscmFIWGFaWDZTRloyWVhsRHF2SkQ3cVhfTWJPMUZjY1pxci1wX3RrMm1ra2x3cjluVzQwNDFrWm43dlNUSkpMMU1uQmtCeUtLOV9XTjR0MU9qV1lmLWQ2bmhJYk9Kb0RyUjdMdmU0ZHZyT1ZhTmxTazZpRDdjV3NoZWdWb3BGU3F6UDNWdm5nUW9yOHd2QmU2bDQweHNuMEdn?oc=5)
-
----
-
-### [Semaglutide per dimagrire, quasi uno su due interrompe entro un anno](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1NXZ3dhSXBKdnNsTUtLNUl1ZFNBTkhqUFF6Z2pNbEFpcGw1ZmhGeDdGN0dYamdOYmdlSUN2YjVpSU41YmVaSXNPWjBRRnRnU2hISGxLZXhOTDZoRUp4LUU4aTNhSmNiQWNlR3hIRkFqbXpHVC1Wbmo4OWQzUEFHLWdNek90ckJoU3labVI2NzlqQU0xWGM0TzFuTWlCaTdzY1FtQmFtR3FjRC1DYU1JYm5qd0cxRWNkYVE2Y1BwTXZsTkNPVUE?oc=5)
-
-2026-08-29 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1NXZ3dhSXBKdnNsTUtLNUl1ZFNBTkhqUFF6Z2pNbEFpcGw1ZmhGeDdGN0dYamdOYmdlSUN2YjVpSU41YmVaSXNPWjBRRnRnU2hISGxLZXhOTDZoRUp4LUU4aTNhSmNiQWNlR3hIRkFqbXpHVC1Wbmo4OWQzUEFHLWdNek90ckJoU3labVI2NzlqQU0xWGM0TzFuTWlCaTdzY1FtQmFtR3FjRC1DYU1JYm5qd0cxRWNkYVE2Y1BwTXZsTkNPVUE?oc=5)
-
----
-
 ### [La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2 - El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
@@ -139,14 +163,6 @@ permalink: /news/semaglutide/
 2026-08-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
-
----
-
-### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 
@@ -174,27 +190,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabetes Typ 1: Intervallfasten hat überraschende Wirkung auf Langzeitblutzucker](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
+### [People’s bodies are changing in the age of Ozempic. How are we meant to talk about it? - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNakR4eHR5VUZ5VXBZVHpmV0hWOGo5SmN2UW56RlluZDFTbXJSdWN5UnVPMnVEcVB3TnUxajdRN3V3ajJpaVFBQXFnNGtGNldoNUExUE11WkRlV3B2blM1b1ZXOWVPcE1JdWx5WjhyU2IxTk1OLVNSckFBamRnV0dUSzQ5ZGZkTVRoS1hhbXQ5QmxGeTA?oc=5)
 
-2026-08-25 <span class="news-indication-tag">diabetes</span>
+2026-08-25 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
-
----
-
-### [EEUU aprueba el primer tratamiento para la narcolepsia dirigido a la orexina - Redacción médica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR0s0ZW82cUo0Xy1Tb0ZST1lLZ0NFRzBtWFk5bGdmTlhhdGRVMmRuTTBkd0s1TEZBNEJ0bHZTVlhVRnFVelpxdWIxS295eWlxelhZZy1tVml2RW92MExQMG13OVd6Vl90Sk81SWFsVGNBYXlYRUdpMXZyTUh0NTRxa3dpYWRmT2Z0dm8zRzNBdHExbm44ZGZpdGtzbDdPZXM5amFqS1R6Slpvb0lCeC16bWlnYmlZbW9rY05qNGJPU0RVODljMzRqdG9KaHhBcGdsWDVfZEpLMVpudDBnSUtlZ3NfVC05eVl5c2VwQjk5TdIB9AFBVV95cUxPYm01OFo3R0doX2pFT3lRQnZnNlM0UFY2d2Vsb3UyQWE0NURJTHo1TFZhbzlFODJzX3o3ejQtelh0S0lleEE1MTZfR0NORGVQWFJMWUdsU1E1WE5uR1pDbkRUNHIwaDNqaVNRWjhSakNvYkR4UGJwYXhNVmV5Tm94enU1cnVFcGJLdXZlTjJoMC14T0pkZlluenphNVN5N0dYMDhQNjlxTW5Ya3ozOEFib1l5MkhfVnNqaVBjcWp2MlRTamR3ZXRKVzVpR2plV1BqQWVlOEtra0p5SHhXTUVnSU14aGZOWk9VWm0tdF9JUzJtbWlh?oc=5)
-
-2026-08-24 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR0s0ZW82cUo0Xy1Tb0ZST1lLZ0NFRzBtWFk5bGdmTlhhdGRVMmRuTTBkd0s1TEZBNEJ0bHZTVlhVRnFVelpxdWIxS295eWlxelhZZy1tVml2RW92MExQMG13OVd6Vl90Sk81SWFsVGNBYXlYRUdpMXZyTUh0NTRxa3dpYWRmT2Z0dm8zRzNBdHExbm44ZGZpdGtzbDdPZXM5amFqS1R6Slpvb0lCeC16bWlnYmlZbW9rY05qNGJPU0RVODljMzRqdG9KaHhBcGdsWDVfZEpLMVpudDBnSUtlZ3NfVC05eVl5c2VwQjk5TdIB9AFBVV95cUxPYm01OFo3R0doX2pFT3lRQnZnNlM0UFY2d2Vsb3UyQWE0NURJTHo1TFZhbzlFODJzX3o3ejQtelh0S0lleEE1MTZfR0NORGVQWFJMWUdsU1E1WE5uR1pDbkRUNHIwaDNqaVNRWjhSakNvYkR4UGJwYXhNVmV5Tm94enU1cnVFcGJLdXZlTjJoMC14T0pkZlluenphNVN5N0dYMDhQNjlxTW5Ya3ozOEFib1l5MkhfVnNqaVBjcWp2MlRTamR3ZXRKVzVpR2plV1BqQWVlOEtra0p5SHhXTUVnSU14aGZOWk9VWm0tdF9JUzJtbWlh?oc=5)
-
----
-
-### [Augenhintergrund: KI scannt sechs Stoffwechselkrankheiten in 30 Sekunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNuWDZwbENYRGZFeXNYUGdheGdueE5rOUdyTFYxNy1IR0F2X3RlMDRaMVJNck9Qb2c1c05yVEFmQTlQWVlnWlh2cURWWEM3TFlnTEtKa0RWNl9PbzZDei1Xb1JDZ2dCNEVmeG5vbFdzSmtRVTJBYXYyMU9MNnV2Nm5nYVVQVkFzdmJIYVZoOGt6bHJqQVhnSGdhUzg3amlQWjZIc1VkdGo5Qk5MaFlrdVpUVm41UHVmWndBcw?oc=5)
-
-2026-08-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNuWDZwbENYRGZFeXNYUGdheGdueE5rOUdyTFYxNy1IR0F2X3RlMDRaMVJNck9Qb2c1c05yVEFmQTlQWVlnWlh2cURWWEM3TFlnTEtKa0RWNl9PbzZDei1Xb1JDZ2dCNEVmeG5vbFdzSmtRVTJBYXYyMU9MNnV2Nm5nYVVQVkFzdmJIYVZoOGt6bHJqQVhnSGdhUzg3amlQWjZIc1VkdGo5Qk5MaFlrdVpUVm41UHVmWndBcw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNakR4eHR5VUZ5VXBZVHpmV0hWOGo5SmN2UW56RlluZDFTbXJSdWN5UnVPMnVEcVB3TnUxajdRN3V3ajJpaVFBQXFnNGtGNldoNUExUE11WkRlV3B2blM1b1ZXOWVPcE1JdWx5WjhyU2IxTk1OLVNSckFBamRnV0dUSzQ5ZGZkTVRoS1hhbXQ5QmxGeTA?oc=5)
 
 ---
 

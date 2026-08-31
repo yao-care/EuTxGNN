@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Un estudio revela que la dieta keto reduce más la grasa del hígado que otras dietas, incluso perdiendo el mismo peso - La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
+### [La dieta que más reduce la grasa del hígado y revierte la prediabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
 
-2026-08-30 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
+
+---
+
+### [Il caldo passa, l’ansia resta: così l’estate estrema entra nella nostra mente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
+
+---
+
+### [Burgos suspende en tabaquismo, diabetes y obesidad abdominal - Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
 
 ---
 
@@ -67,22 +83,6 @@ permalink: /news/ziconotide/
 2026-08-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOU5sb1pBTXowYnNWbEpqQWR1VzJfblI4M3pTUmplZHJhaHVZUHY3QnJhSU9ZV2s5c0ZxeXRhZ2xlQnhxaEUtamxRN3NaVGNTdkhzMVNILUQ3ZjVJN0IwOTVFaXBSNXVPcGRKOG1PdVpYekV0LVp2aE9qMWxibERLOElSSzNmY0xEbFdGXzI3YVNVdXVqbG5XZGZuX2NMSHgycXJQNzRfMloxSFZaOFJaU0ZSdETSAboBQVVfeXFMTmpHdFprNnNFa25ZUXRzTXNTSmxKcUZSQnQ1X2szRWhaTm9ab3l6M3V4S1ZiZDUybnc2R3FsaF9zZ0JTeDFHRmU0Wm1CMUROT1o5aExDZWJ4bW9hOE9UanVkdl9CY0hOZVRYV2o2dUw3TTRsUEJpRldIQ281LWwzS0ZCZFdnM1VrR1A1bUZYejhOQkV1Mm90SkRxLWgyckxULWF3Q2daTFlSX0tUZnhzU1hLVWtfOXE2M2hn?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajdOc1hJQnBZdXhtcU1tLWZtMy1CUDZYdmtfNnJSSnFHelVXZ0d3ZzZpNWM2dUFrcGMzNVdQZEdPM2ZYRGNHMHFKUnE1VWNoVHNkVlV2LXU3b1RpMm1BbDRmVFVBQUp0RmJqaW45dnVaS1hSSVJuSmN0N1pTWTFYZ0xqUHcwN2NXX1llbFd4a1pqREJQMzJnLUZJd3l3Zkx2bWNWWk54MkdMcm1rUFljblpGeE5xd29YcTNzM3BuX2EzNl9FbjZPX2xCWmJOblAy?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajdOc1hJQnBZdXhtcU1tLWZtMy1CUDZYdmtfNnJSSnFHelVXZ0d3ZzZpNWM2dUFrcGMzNVdQZEdPM2ZYRGNHMHFKUnE1VWNoVHNkVlV2LXU3b1RpMm1BbDRmVFVBQUp0RmJqaW45dnVaS1hSSVJuSmN0N1pTWTFYZ0xqUHcwN2NXX1llbFd4a1pqREJQMzJnLUZJd3l3Zkx2bWNWWk54MkdMcm1rUFljblpGeE5xd29YcTNzM3BuX2EzNl9FbjZPX2xCWmJOblAy?oc=5)
-
----
-
-### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 
@@ -107,14 +107,6 @@ permalink: /news/ziconotide/
 2026-08-26 <span class="news-indication-tag">Migräne</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
-
----
-
-### [Adipositas: Bariatrische Operationen nach Therapie mit GLP-1-Rezeptoragonisten möglich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
-
-2026-08-25 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONU1kVkkxeHJ5alhJU2JoUkZucEllVTZiZ0dSbDMtaHVxTmpSTll5OVhVWVNRLXJzc3B4a1VndVQ1MmhPbUhGWUxjcFVJWUp0QWtnbXBqMkdWcVB0MEhGNDdsZE55Ny04U3d6WjJiUjRhbnp1QWhRUV9ZZHJXZV9TZ1I4dXZaZ25FTGdQMVM1YXBQRm5kUUxGbk9iVzJMSW5RT0NOeDY3OGQ5Q0xVRVFJWVctWDNpR19aaWZ1N19BV0ZaM3VHSzR4ajN6RTVFYTA0RklxdFdYWENBaFlROE1kSkFiRzdiUHFUcGc?oc=5)
 
 ---
 
