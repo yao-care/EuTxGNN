@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
 
 ### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 24 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTVhbmdqaXlUaXRCLW9ReXVhWlRHQjhuWkJqV3lkT2liUHpKQ1RRNWVPYkttcWlFZHdpa2x6SkxRSHFiNjVtNWV0b0ZXRUN2WHZWQjdvejV3RGdsb1haejlNX2c4TWtuaXlVajZQWlVUV3Z0THE5WHFReG05akNjMWdON0dKZzBuY2lKUk1pNTRINHFkQllnbUUweHJEMkxNOUZrS0xxQWdYTE83T084?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/telmisartan/
 2026-08-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
-
----
-
-### [Brustkrebs-Screening kann auch Herzerkrankungen aufdecken - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
----
-
-### [Schlaganfall: Elektroakupunktur senkt Laktatwert um 29 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
 
 ---
 
@@ -128,17 +112,9 @@ permalink: /news/telmisartan/
 
 ### [People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
 
-2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
-
----
-
-### [Arteritis de células gigantes: hallan 4 subgrupos genéticos - Diario Occidente](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDJrYVBjd0V1VjQ2Mkp6aWRsVFZLNWlNMHFURUZYQUxwRFRGazFvWDZoWDBTcFR6RFdneHJkMjFwMThxZjJyTUgwbVVsVWFWX3V1c1RfX3BrWDNLNVg4Umg4b0I5eFhIOW8zSDZoZFR0U005QUFhenU4TlhZbURkNGVvSWdnM0x3SHQ0Y1RYcDN6RHlZU1dmZ2NKR1_SAacBQVVfeXFMUHB0eHJwOWVIbTktRk5wSzRUZm5kNTlIc08xR2dHdDRrQkFPclM1YmZhblNkbHNWZmFlc2lFVGI0eGZNMHJIeF95WkxoUUJsQ1JHQ0tLaFBrWm9GSFpnQk9xQkJ1WUZUaGZmTE1aSFZuLU5rWUs2NVNDdTlRNm1zLW4yMDAxblR4STdYaE12blp2a2hoZ2d2a3BGaFlHaDZVNzc4RXRaSDQ?oc=5)
-
-2026-08-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Diario Occidente](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDJrYVBjd0V1VjQ2Mkp6aWRsVFZLNWlNMHFURUZYQUxwRFRGazFvWDZoWDBTcFR6RFdneHJkMjFwMThxZjJyTUgwbVVsVWFWX3V1c1RfX3BrWDNLNVg4Umg4b0I5eFhIOW8zSDZoZFR0U005QUFhenU4TlhZbURkNGVvSWdnM0x3SHQ0Y1RYcDN6RHlZU1dmZ2NKR1_SAacBQVVfeXFMUHB0eHJwOWVIbTktRk5wSzRUZm5kNTlIc08xR2dHdDRrQkFPclM1YmZhblNkbHNWZmFlc2lFVGI0eGZNMHJIeF95WkxoUUJsQ1JHQ0tLaFBrWm9GSFpnQk9xQkJ1WUZUaGZmTE1aSFZuLU5rWUs2NVNDdTlRNm1zLW4yMDAxblR4STdYaE12blp2a2hoZ2d2a3BGaFlHaDZVNzc4RXRaSDQ?oc=5)
 
 ---
 
@@ -147,6 +123,22 @@ permalink: /news/telmisartan/
 2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeS1rbkVUN2dXY21lN2NoS01lcXlSd3p4ZXBqWFV4aEJuNjU3V1FHN3JyZ1I4Si1odHNhVHRWZTJzcFpILXdNTDJ4M1N2dEFWaVowTUx2V1hCMWtLM244Z1RfVG1mM2hac3pvZEd5VldQNlJXNGxoc3pRdkZ1V0NPV0ttZnVvV28xeGdoVlFMMVRiRXE4X3duRkF0NGxzVG1mMkNJbnF5YnV4X2h5MzllZUNCa0h4SmhJZ0dObnhGRlBNZGdxdHRNaw?oc=5)
+
+---
+
+### [Pressione alta, non dimenticate le terapie: saltarle aumenta il rischio di infarto e ictus - la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnN5RVdNRlZEdm9TNDM5NEI0MTd3dmdPSjhfQV9vNFVybFlTTDIza19mT2pubmdLZEU0ZGFLVm5DaU83bG9pRFltWmN0VDAxb2k2eUxLME1PRllqX0UyaVVCTDY5Q3FKYURtQUVmU0NCNGoybXJldTI1WG5lRkxSS0RwRXVsb3pZQ1ZDTFlwclZSMS15QkgyLWxwMW9yb3ZUYzlQVnFZYmdFdnh5WUhPV0hXdEN2VHBlNEs1UkNXblRnMVg1d2lxQzNxeXpwR0FleExQdjBScDQ3U2lQSXBrQzN4MkJhU1VzSm1CWGNqMVl6VVhrUUd3QTlhNGpxQdIBgwJBVV95cUxPSUZ6Y0hCd19FRGtFdS0xdnQySzRXYXdLWXdPd09fWTk1RWJkZGZQdXNlOXFhUlpMZmJlRzh2RzVaOWY4bnVVdWdfZ3ZUUnVUaEs5WUhXMmtJRHBpZVdqT2ZkYUZ1d09LZ09Uak0ycVFrSjNCMEwwR1laXzNhR01ZSWFUTVZKcUtDQy1ha3VFSXlOUTk4a01oYjV4RncwRkw0Nk9HVnJtcTMxckFCT1FzX0czaDVWaHhEeVpqT2xoM1Y2SmVKeUJ5YmEtMHY2RENHaUdPb1YyNXIxVXp0TjkwbVB4eC1GX0hrV053cTAxRTNua0JVQVFOLUZWX0U1UGJ6YkE4?oc=5)
+
+2026-08-28 <span class="news-indication-tag">ictus</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnN5RVdNRlZEdm9TNDM5NEI0MTd3dmdPSjhfQV9vNFVybFlTTDIza19mT2pubmdLZEU0ZGFLVm5DaU83bG9pRFltWmN0VDAxb2k2eUxLME1PRllqX0UyaVVCTDY5Q3FKYURtQUVmU0NCNGoybXJldTI1WG5lRkxSS0RwRXVsb3pZQ1ZDTFlwclZSMS15QkgyLWxwMW9yb3ZUYzlQVnFZYmdFdnh5WUhPV0hXdEN2VHBlNEs1UkNXblRnMVg1d2lxQzNxeXpwR0FleExQdjBScDQ3U2lQSXBrQzN4MkJhU1VzSm1CWGNqMVl6VVhrUUd3QTlhNGpxQdIBgwJBVV95cUxPSUZ6Y0hCd19FRGtFdS0xdnQySzRXYXdLWXdPd09fWTk1RWJkZGZQdXNlOXFhUlpMZmJlRzh2RzVaOWY4bnVVdWdfZ3ZUUnVUaEs5WUhXMmtJRHBpZVdqT2ZkYUZ1d09LZ09Uak0ycVFrSjNCMEwwR1laXzNhR01ZSWFUTVZKcUtDQy1ha3VFSXlOUTk4a01oYjV4RncwRkw0Nk9HVnJtcTMxckFCT1FzX0czaDVWaHhEeVpqT2xoM1Y2SmVKeUJ5YmEtMHY2RENHaUdPb1YyNXIxVXp0TjkwbVB4eC1GX0hrV053cTAxRTNua0JVQVFOLUZWX0U1UGJ6YkE4?oc=5)
+
+---
+
+### [La genética ya permite distinguir qué pacientes tienen más riesgo de sufrir ceguera, ictus o aneurismas por arteritis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFR5UFhTRjZGa1NGcVl1LXc5aVZxUHFZSEdNQmsxNkdwMFRuRlhvZnJTakp0cmJER1ZQQl9BZXQ1VXZaWUNZUjU2dk44YzNBaW5CcldWYk5xc0hBS1N4TGlFRnlLdFkxaGgwY1U3eTJhTUNVeWJ6TEJXZGpfVW9GYV82M3U1cDBGbFFWTlFMZzdQeFppdnY0LWNpaEFVQ3phNTY0S1VNZ3Z1RjlwLVEydmZtVjBJWjJGLXJQRzZiWUgyY2xOLUJSeG9wckg2em5EaGZ6dzZMYUU5cVpoTC1fRFN3?oc=5)
+
+2026-08-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFR5UFhTRjZGa1NGcVl1LXc5aVZxUHFZSEdNQmsxNkdwMFRuRlhvZnJTakp0cmJER1ZQQl9BZXQ1VXZaWUNZUjU2dk44YzNBaW5CcldWYk5xc0hBS1N4TGlFRnlLdFkxaGgwY1U3eTJhTUNVeWJ6TEJXZGpfVW9GYV82M3U1cDBGbFFWTlFMZzdQeFppdnY0LWNpaEFVQ3phNTY0S1VNZ3Z1RjlwLVEydmZtVjBJWjJGLXJQRzZiWUgyY2xOLUJSeG9wckg2em5EaGZ6dzZMYUU5cVpoTC1fRFN3?oc=5)
 
 ---
 
@@ -166,11 +158,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-08-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（17 則）
+
+### [Rheumatoide Arthritis: CAR-T-Zellen bringen drei Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
+
+2026-08-30 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
+
+---
+
+### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+
+2026-08-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+
+---
 
 ### [Mit Computermodell berechnet: Wie sich die Zahl der Diabetes-Typ-1-Betroffenen entwickelt](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnJkZ0hmdmtFNmtndlhzb3VHeEVkNnlMQ1otazBHSFctdFJ4OWtWUDNWUVk4VFRJSDBXeVFrREpWMm95VS00LVladkpVNlFndzBvYXBfRGp1ZGZjeXJ4eWlkZU52ZTFNTzEtczlfV0ZqazlCSU5tMmV4VUd2cUpmbURUdTVLcnhjMXZZWXF6dEwtdGFyMnpBaXB5YU5VWms2aG9lZA?oc=5)
 
@@ -86,19 +102,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
-
-2026-08-29 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
-
----
-
-### [FDA: nuevo aval para Mounjaro de Lilly](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
+### [La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2 - El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[pharmabiz.net](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 ---
 
@@ -115,6 +123,14 @@ permalink: /news/sacubitril/
 2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
+
+---
+
+### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 
@@ -139,6 +155,14 @@ permalink: /news/sacubitril/
 2026-08-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
+
+---
+
+### [Diabetes Typ 1: Intervallfasten hat überraschende Wirkung auf Langzeitblutzucker](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
 
 ---
 

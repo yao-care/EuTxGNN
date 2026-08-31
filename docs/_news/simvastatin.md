@@ -62,14 +62,6 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Schlaganfall: Elektroakupunktur senkt Laktatwert um 29 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
-
----
-
 ### [Cholestérol, AVC, infarctus : cette nouvelle pilule s'attaque à un marqueur que les traitements négligent - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa3ZEczRvaTcxc3VxMHhOaEtHdXBrWWQ3OGVqRkh2cHhySXYwQldqNm1RQ2daN0UwZFptS3VzNVIxc2JpZ0QzNTBPZlN5RlB6MVVjV3dJSXp5OHNXd0phbkplLUZlYUpUeF8xUkJIZElNd1kyb2dqcnBuZ1oyRHJlZ3gtTWRPZHYyeVk0NWRJQjhsczNMaGh2UmJFaFd1dnliZzNUMVZZczlJY1Zld0I4RFppbnF1dFhsenI3UG9LY0NsLXNWR0M3YmhUeTJhUHI5MHdyRjBJOVJHeEoxdmE5VmFGTGRLVmtwX1Uxc2lB?oc=5)
 
 2026-08-30 <span class="news-indication-tag">AVC</span>
@@ -104,17 +96,9 @@ permalink: /news/simvastatin/
 
 ### [People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
 
-2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
-
----
-
-### [Arteritis de células gigantes: hallan 4 subgrupos genéticos - Diario Occidente](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDJrYVBjd0V1VjQ2Mkp6aWRsVFZLNWlNMHFURUZYQUxwRFRGazFvWDZoWDBTcFR6RFdneHJkMjFwMThxZjJyTUgwbVVsVWFWX3V1c1RfX3BrWDNLNVg4Umg4b0I5eFhIOW8zSDZoZFR0U005QUFhenU4TlhZbURkNGVvSWdnM0x3SHQ0Y1RYcDN6RHlZU1dmZ2NKR1_SAacBQVVfeXFMUHB0eHJwOWVIbTktRk5wSzRUZm5kNTlIc08xR2dHdDRrQkFPclM1YmZhblNkbHNWZmFlc2lFVGI0eGZNMHJIeF95WkxoUUJsQ1JHQ0tLaFBrWm9GSFpnQk9xQkJ1WUZUaGZmTE1aSFZuLU5rWUs2NVNDdTlRNm1zLW4yMDAxblR4STdYaE12blp2a2hoZ2d2a3BGaFlHaDZVNzc4RXRaSDQ?oc=5)
-
-2026-08-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Diario Occidente](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDJrYVBjd0V1VjQ2Mkp6aWRsVFZLNWlNMHFURUZYQUxwRFRGazFvWDZoWDBTcFR6RFdneHJkMjFwMThxZjJyTUgwbVVsVWFWX3V1c1RfX3BrWDNLNVg4Umg4b0I5eFhIOW8zSDZoZFR0U005QUFhenU4TlhZbURkNGVvSWdnM0x3SHQ0Y1RYcDN6RHlZU1dmZ2NKR1_SAacBQVVfeXFMUHB0eHJwOWVIbTktRk5wSzRUZm5kNTlIc08xR2dHdDRrQkFPclM1YmZhblNkbHNWZmFlc2lFVGI0eGZNMHJIeF95WkxoUUJsQ1JHQ0tLaFBrWm9GSFpnQk9xQkJ1WUZUaGZmTE1aSFZuLU5rWUs2NVNDdTlRNm1zLW4yMDAxblR4STdYaE12blp2a2hoZ2d2a3BGaFlHaDZVNzc4RXRaSDQ?oc=5)
 
 ---
 
@@ -123,6 +107,22 @@ permalink: /news/simvastatin/
 2026-08-28 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeS1rbkVUN2dXY21lN2NoS01lcXlSd3p4ZXBqWFV4aEJuNjU3V1FHN3JyZ1I4Si1odHNhVHRWZTJzcFpILXdNTDJ4M1N2dEFWaVowTUx2V1hCMWtLM244Z1RfVG1mM2hac3pvZEd5VldQNlJXNGxoc3pRdkZ1V0NPV0ttZnVvV28xeGdoVlFMMVRiRXE4X3duRkF0NGxzVG1mMkNJbnF5YnV4X2h5MzllZUNCa0h4SmhJZ0dObnhGRlBNZGdxdHRNaw?oc=5)
+
+---
+
+### [Pressione alta, non dimenticate le terapie: saltarle aumenta il rischio di infarto e ictus - la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnN5RVdNRlZEdm9TNDM5NEI0MTd3dmdPSjhfQV9vNFVybFlTTDIza19mT2pubmdLZEU0ZGFLVm5DaU83bG9pRFltWmN0VDAxb2k2eUxLME1PRllqX0UyaVVCTDY5Q3FKYURtQUVmU0NCNGoybXJldTI1WG5lRkxSS0RwRXVsb3pZQ1ZDTFlwclZSMS15QkgyLWxwMW9yb3ZUYzlQVnFZYmdFdnh5WUhPV0hXdEN2VHBlNEs1UkNXblRnMVg1d2lxQzNxeXpwR0FleExQdjBScDQ3U2lQSXBrQzN4MkJhU1VzSm1CWGNqMVl6VVhrUUd3QTlhNGpxQdIBgwJBVV95cUxPSUZ6Y0hCd19FRGtFdS0xdnQySzRXYXdLWXdPd09fWTk1RWJkZGZQdXNlOXFhUlpMZmJlRzh2RzVaOWY4bnVVdWdfZ3ZUUnVUaEs5WUhXMmtJRHBpZVdqT2ZkYUZ1d09LZ09Uak0ycVFrSjNCMEwwR1laXzNhR01ZSWFUTVZKcUtDQy1ha3VFSXlOUTk4a01oYjV4RncwRkw0Nk9HVnJtcTMxckFCT1FzX0czaDVWaHhEeVpqT2xoM1Y2SmVKeUJ5YmEtMHY2RENHaUdPb1YyNXIxVXp0TjkwbVB4eC1GX0hrV053cTAxRTNua0JVQVFOLUZWX0U1UGJ6YkE4?oc=5)
+
+2026-08-28 <span class="news-indication-tag">ictus</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnN5RVdNRlZEdm9TNDM5NEI0MTd3dmdPSjhfQV9vNFVybFlTTDIza19mT2pubmdLZEU0ZGFLVm5DaU83bG9pRFltWmN0VDAxb2k2eUxLME1PRllqX0UyaVVCTDY5Q3FKYURtQUVmU0NCNGoybXJldTI1WG5lRkxSS0RwRXVsb3pZQ1ZDTFlwclZSMS15QkgyLWxwMW9yb3ZUYzlQVnFZYmdFdnh5WUhPV0hXdEN2VHBlNEs1UkNXblRnMVg1d2lxQzNxeXpwR0FleExQdjBScDQ3U2lQSXBrQzN4MkJhU1VzSm1CWGNqMVl6VVhrUUd3QTlhNGpxQdIBgwJBVV95cUxPSUZ6Y0hCd19FRGtFdS0xdnQySzRXYXdLWXdPd09fWTk1RWJkZGZQdXNlOXFhUlpMZmJlRzh2RzVaOWY4bnVVdWdfZ3ZUUnVUaEs5WUhXMmtJRHBpZVdqT2ZkYUZ1d09LZ09Uak0ycVFrSjNCMEwwR1laXzNhR01ZSWFUTVZKcUtDQy1ha3VFSXlOUTk4a01oYjV4RncwRkw0Nk9HVnJtcTMxckFCT1FzX0czaDVWaHhEeVpqT2xoM1Y2SmVKeUJ5YmEtMHY2RENHaUdPb1YyNXIxVXp0TjkwbVB4eC1GX0hrV053cTAxRTNua0JVQVFOLUZWX0U1UGJ6YkE4?oc=5)
+
+---
+
+### [La genética ya permite distinguir qué pacientes tienen más riesgo de sufrir ceguera, ictus o aneurismas por arteritis](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFR5UFhTRjZGa1NGcVl1LXc5aVZxUHFZSEdNQmsxNkdwMFRuRlhvZnJTakp0cmJER1ZQQl9BZXQ1VXZaWUNZUjU2dk44YzNBaW5CcldWYk5xc0hBS1N4TGlFRnlLdFkxaGgwY1U3eTJhTUNVeWJ6TEJXZGpfVW9GYV82M3U1cDBGbFFWTlFMZzdQeFppdnY0LWNpaEFVQ3phNTY0S1VNZ3Z1RjlwLVEydmZtVjBJWjJGLXJQRzZiWUgyY2xOLUJSeG9wckg2em5EaGZ6dzZMYUU5cVpoTC1fRFN3?oc=5)
+
+2026-08-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFR5UFhTRjZGa1NGcVl1LXc5aVZxUHFZSEdNQmsxNkdwMFRuRlhvZnJTakp0cmJER1ZQQl9BZXQ1VXZaWUNZUjU2dk44YzNBaW5CcldWYk5xc0hBS1N4TGlFRnlLdFkxaGgwY1U3eTJhTUNVeWJ6TEJXZGpfVW9GYV82M3U1cDBGbFFWTlFMZzdQeFppdnY0LWNpaEFVQ3phNTY0S1VNZ3Z1RjlwLVEydmZtVjBJWjJGLXJQRzZiWUgyY2xOLUJSeG9wckg2em5EaGZ6dzZMYUU5cVpoTC1fRFN3?oc=5)
 
 ---
 
@@ -142,11 +142,11 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+### [Shingles vaccine protects pensioners from stroke and heart attack - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-08-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFZMNzdTSnlIY1RDSkx1WkZJM2V1NjZScHhJcEFHRi01RG43U2ltaVlwQWhVdkhtNkNzWjZTVnVwRUtraXJkQlBCRG1TWWVUZ1BoRmM1YnJCQi1nX21hVXh6Yk5WdUFFU21LMFdhbV9wTjJRcnJIcnJRM1ZLYnRZRFRYV1YtLTh1TEVLNktxbkZ6UUtZVUo3U1ByYkd1ME1FeUpZ?oc=5)
 
 ---
 

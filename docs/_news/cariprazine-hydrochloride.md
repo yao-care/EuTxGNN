@@ -54,11 +54,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ## 相關新聞（15 則）
 
-### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+### [Xilitol y riesgo cardiovascular en la población general](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VmajhyZ2VUODZUaFlWeWxLMDh0NXFXMW9Ec0JQNVpLQ3BuT0xnTHljRU9DUkk1UmpiWjVFd21ndGV0OW5NZDBCVGFLbnBZZlBINHFuYmQxS3g4LWZtZ1Jlai1ua1gzb3lfdWpvT2djeHNpNjE4N20ya0NDdmhyeG43dURMMVUyeVRtdW9uYU1jQ2Q0clJkVlZGY2JDTmFkQmRqM3M1R0RsR1NSUVZn?oc=5)
 
-2026-08-30 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-08-31 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VmajhyZ2VUODZUaFlWeWxLMDh0NXFXMW9Ec0JQNVpLQ3BuT0xnTHljRU9DUkk1UmpiWjVFd21ndGV0OW5NZDBCVGFLbnBZZlBINHFuYmQxS3g4LWZtZ1Jlai1ua1gzb3lfdWpvT2djeHNpNjE4N20ya0NDdmhyeG43dURMMVUyeVRtdW9uYU1jQ2Q0clJkVlZGY2JDTmFkQmRqM3M1R0RsR1NSUVZn?oc=5)
 
 ---
 
@@ -102,19 +102,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
+
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
+
+---
+
 ### [NHS confirms full list of two flu jab rule changes for autumn 2026 - Birmingham Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNy1HYWZKa2R2YkJGVFFSaWJCdlFnNE00WGswX2JjYW9YNC1ya1FqM01ZR19FQkdBa24ycGJvQ0M3VkVmb3VNZVpwT0MyS25HRUpIaXYxVEVkYVZUTXlocnpEYWx4TmcyQWJzZmJ0ZTBJbHdhbXhjSXZ3c3Q1X1BXMU91TlFPWDc1Sk5lbjF0a1DSAZYBQVVfeXFMT05hN2ZMd2ZFeFZCemU0c0hxZ3hmbmkxTTBBLVBFUF9wT21EY1lpOWlic0l6NXBmdS15Tkp0ZmxaSHB0dGdacXhpYUFQekREblM5ekpLS0F1SE04d1d1NE5jWE9FQi0yV1Z6VE51Q3JKSzFrS0I4R3ZCTldyRkFObzAzZGNDOGJDRDVudnVaTV9xcXQ5XzlB?oc=5)
 
 2026-08-28 <span class="news-indication-tag">MS</span>
 
 來源：[Birmingham Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNy1HYWZKa2R2YkJGVFFSaWJCdlFnNE00WGswX2JjYW9YNC1ya1FqM01ZR19FQkdBa24ycGJvQ0M3VkVmb3VNZVpwT0MyS25HRUpIaXYxVEVkYVZUTXlocnpEYWx4TmcyQWJzZmJ0ZTBJbHdhbXhjSXZ3c3Q1X1BXMU91TlFPWDc1Sk5lbjF0a1DSAZYBQVVfeXFMT05hN2ZMd2ZFeFZCemU0c0hxZ3hmbmkxTTBBLVBFUF9wT21EY1lpOWlic0l6NXBmdS15Tkp0ZmxaSHB0dGdacXhpYUFQekREblM5ekpLS0F1SE04d1d1NE5jWE9FQi0yV1Z6VE51Q3JKSzFrS0I4R3ZCTldyRkFObzAzZGNDOGJDRDVudnVaTV9xcXQ5XzlB?oc=5)
-
----
-
-### [A parasitic stomach bug that can give you diarrhoea for months is sweeping the UK](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlBQaDBkd2JBWjFGRWR6TEtVREFrcHp4WjVZN3hqVTRvNWRPTmxaWjAxUzFrVXcwaEpoNTJTZmtjZklyNDhyS29LQWpqZGNzUWZlNnM4bGVfVTRSOFRUTHdSbms3bkM3N0gxczY3M2NRTXNvZWw3VWZnalJvcy1PUzNXNk9kbWVJc0h0aXRmUXh2NmhIRGNaSDRsSGpEVjd5VVVHeQ?oc=5)
-
-2026-08-27 <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlBQaDBkd2JBWjFGRWR6TEtVREFrcHp4WjVZN3hqVTRvNWRPTmxaWjAxUzFrVXcwaEpoNTJTZmtjZklyNDhyS29LQWpqZGNzUWZlNnM4bGVfVTRSOFRUTHdSbms3bkM3N0gxczY3M2NRTXNvZWw3VWZnalJvcy1PUzNXNk9kbWVJc0h0aXRmUXh2NmhIRGNaSDRsSGpEVjd5VVVHeQ?oc=5)
 
 ---
 
@@ -158,11 +158,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 ---
 

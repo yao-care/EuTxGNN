@@ -3,7 +3,7 @@ layout: default
 title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,29 +85,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
 
 2026-08-30
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
-
----
-
-### [Brustkrebs-Screening kann auch Herzerkrankungen aufdecken - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
-2026-08-30
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
----
-
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
-
-2026-08-27
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
 
 ---
 

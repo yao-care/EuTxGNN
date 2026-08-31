@@ -14,7 +14,7 @@ permalink: /news/axicabtagene-ciloleucel/
 ---
 
 <p class="key-answer" data-question="Axicabtagene Ciloleucel 有什麼相關新聞？">
-<strong>Axicabtagene Ciloleucel</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Axicabtagene Ciloleucel</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/axicabtagene-ciloleucel/
 <p><a href="{{ '/drugs/axicabtagene-ciloleucel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（32 則）
 
 ### ['I took my bowel screening test two years late - then I was diagnosed with stage four cancer' - STV News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMnVqSWw2RTdmZERqaVZwSUxOaDFBSG4yMXFiTTd2WE1Bb2J4cDVYbjFMRTBBM1RPLWZweUo5NG4tYTdyMmdDYVhWdTU4WFZHOTZUMXBrRUR2czlvem56Mzc3OWM1cGF4OU1jT1R0dWxFTWJER1ZVMUtNak5XcUlITmlaUUp0V1ZIaFNLNkRkaDlRWVZfMVFuNEJNUklEZnJsYjhhamZwMUZELVZJODFtODRSN1lEbFQ3ZWNXNDlwNA?oc=5)
 
 2026-08-30 <span class="news-indication-tag">cancer</span>
 
 來源：[STV News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMnVqSWw2RTdmZERqaVZwSUxOaDFBSG4yMXFiTTd2WE1Bb2J4cDVYbjFMRTBBM1RPLWZweUo5NG4tYTdyMmdDYVhWdTU4WFZHOTZUMXBrRUR2czlvem56Mzc3OWM1cGF4OU1jT1R0dWxFTWJER1ZVMUtNak5XcUlITmlaUUp0V1ZIaFNLNkRkaDlRWVZfMVFuNEJNUklEZnJsYjhhamZwMUZELVZJODFtODRSN1lEbFQ3ZWNXNDlwNA?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: CAR-T-Zellen bringen drei Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
+
+2026-08-30 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [Brustkrebs-Screening kann auch Herzerkrankungen aufdecken - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
----
-
 ### [Miele di corbezzolo contro il tumore del colon: cosa hanno scoperto davvero gli studi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUZsbGFiMjRVX3ZpRl9mcjU4azhTVmxySGM0ODdkT2xpa2NEaUl0cEYwa2E0dVZwYTRsVEl3VThMSW9VWC1GeTZMTm5xV0d5N1Q3TXQ3WThvdURwc24wWDB1bzdEZTVNZ1hkSWVMeGFhUTNidkpVX3BzMXVvNmNSeDdBUjFFcURqak91TkQ5SWVmRXp4eTlCd3pHQ0NYX3hsQlZtMGFLWDQyUmhSVlVDSE1oOWdmd2x0WVgxTzU4ZjAzS0I2YnVFLWl5ajRoQ3Rx?oc=5)
 
 2026-08-30 <span class="news-indication-tag">tumor</span>
@@ -102,11 +102,11 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [Mum demands change after losing 'most of lower eyelid' to health condition - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxORnllNTlSdEx4R3I2OGtnaFN4amZscTdZdFh3WjEyaHNJMHZXenJISFJfSWVYRHhVeGhZcnlKWUMxR0RjeWlCTGVNZXBwbW5qZ20yZlg3RW1NaDFsUF9RZDFIbkxBTnBiYTRsNWQ3ak5XUmlkbDRrTENhbWNBal9hODNfWdIBiAFBVV95cUxPQU94TFRIa2FheklNOVBDQ1RpTzQzR3lUZ3dSR1BiSGN2ZEtSTHFGdkJuUURsZkx6RnVtTEdtZl9ZSHVpcDZiVHJQUjVUSnZTTzF5QlpjZEJfUTdvREpDOHZBaGdqWnNlREpZWjRpWXZQOGlDTDF4ZlgxdndxaGhkZWRoQ0dZWjc5?oc=5)
+### [Mum demands change after losing 'most of lower eyelid' to health condition - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxORnllNTlSdEx4R3I2OGtnaFN4amZscTdZdFh3WjEyaHNJMHZXenJISFJfSWVYRHhVeGhZcnlKWUMxR0RjeWlCTGVNZXBwbW5qZ20yZlg3RW1NaDFsUF9RZDFIbkxBTnBiYTRsNWQ3ak5XUmlkbDRrTENhbWNBal9hODNfWdIBiAFBVV95cUxPQU94TFRIa2FheklNOVBDQ1RpTzQzR3lUZ3dSR1BiSGN2ZEtSTHFGdkJuUURsZkx6RnVtTEdtZl9ZSHVpcDZiVHJQUjVUSnZTTzF5QlpjZEJfUTdvREpDOHZBaGdqWnNlREpZWjRpWXZQOGlDTDF4ZlgxdndxaGhkZWRoQ0dZWjc5?oc=5)
 
 2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxORnllNTlSdEx4R3I2OGtnaFN4amZscTdZdFh3WjEyaHNJMHZXenJISFJfSWVYRHhVeGhZcnlKWUMxR0RjeWlCTGVNZXBwbW5qZ20yZlg3RW1NaDFsUF9RZDFIbkxBTnBiYTRsNWQ3ak5XUmlkbDRrTENhbWNBal9hODNfWdIBiAFBVV95cUxPQU94TFRIa2FheklNOVBDQ1RpTzQzR3lUZ3dSR1BiSGN2ZEtSTHFGdkJuUURsZkx6RnVtTEdtZl9ZSHVpcDZiVHJQUjVUSnZTTzF5QlpjZEJfUTdvREpDOHZBaGdqWnNlREpZWjRpWXZQOGlDTDF4ZlgxdndxaGhkZWRoQ0dZWjc5?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxORnllNTlSdEx4R3I2OGtnaFN4amZscTdZdFh3WjEyaHNJMHZXenJISFJfSWVYRHhVeGhZcnlKWUMxR0RjeWlCTGVNZXBwbW5qZ20yZlg3RW1NaDFsUF9RZDFIbkxBTnBiYTRsNWQ3ak5XUmlkbDRrTENhbWNBal9hODNfWdIBiAFBVV95cUxPQU94TFRIa2FheklNOVBDQ1RpTzQzR3lUZ3dSR1BiSGN2ZEtSTHFGdkJuUURsZkx6RnVtTEdtZl9ZSHVpcDZiVHJQUjVUSnZTTzF5QlpjZEJfUTdvREpDOHZBaGdqWnNlREpZWjRpWXZQOGlDTDF4ZlgxdndxaGhkZWRoQ0dZWjc5?oc=5)
 
 ---
 
@@ -142,14 +142,6 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [Una bióloga celular, una oncóloga y la promesa de una vacuna terapéutica contra el melanoma](https://news.google.com/rss/articles/CBMizwFBVV95cUxNbFl2Y1VydnZFUG5paDJnMVJzTlk1TEkzRndBXy1kUlJTTHM1YjNZaW5zaVM3Y2lnMTRfMFZPR3Izenpqa1RMRDM2OXc1ZnB6aTJjNzVzNkdyYkNsR2RIa2Myc3A1Nm1yRmlrbG1xaTVpNjJtWVhkSDJULTF5cDVQdm5QY3dZelRNbFJCQ1c3QnRXZGdRZDVxY2d0X2FTZXpUNXpFRk9fTmUxVUVHUG1vVjhwZ3NrUnBqdS1LaHdYNGhPUWIzSFpRcHZyTWxabXc?oc=5)
-
-2026-08-30 <span class="news-indication-tag">cancer</span>
-
-來源：[naiz:](https://news.google.com/rss/articles/CBMizwFBVV95cUxNbFl2Y1VydnZFUG5paDJnMVJzTlk1TEkzRndBXy1kUlJTTHM1YjNZaW5zaVM3Y2lnMTRfMFZPR3Izenpqa1RMRDM2OXc1ZnB6aTJjNzVzNkdyYkNsR2RIa2Myc3A1Nm1yRmlrbG1xaTVpNjJtWVhkSDJULTF5cDVQdm5QY3dZelRNbFJCQ1c3QnRXZGdRZDVxY2d0X2FTZXpUNXpFRk9fTmUxVUVHUG1vVjhwZ3NrUnBqdS1LaHdYNGhPUWIzSFpRcHZyTWxabXc?oc=5)
-
----
-
 ### [Alta presencia del virus del papiloma y lesiones precancerosas en trasplantados de riñón](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUpnOFRhelU5aFpFNmtleVRaUlpEYURzTV9VQVRFWmtLVWx2Y0IzR0ZCNW1JYnJLTVFlYmlsclpRTkprbDVLejQ1Nzkza2RmU1RBN2t5UWRDZENUQ1M2dFVocDU3MndxcEJTTWpPLVBNWTJaaGdmZ3VhYTVWcnJnbU5mZzNOZ1o4d3UydWdLMEs3cExBVTBXUk5EYUZkdEJMNGNydWMwWXJ5TmVUM1ZLZG9rY1k?oc=5)
 
 2026-08-29 <span class="news-indication-tag">cancer</span>
@@ -182,11 +174,19 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
+### [Wir bekommen immer früher Krebs – so senken Sie das Risiko - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0hvSGJWMFdjOGs1Mmc3UWY0S2F2Q1gyYXpud0ozNmE3LXhSLWhMbXMwWGY0d3pBSWQydDlDa1hFZ05UUHJ3bmk4UnJMLVBhS2YzdG8xTjFHTU5CR0xOb3BJWnBvZUhjNVM2Mmo4azcwN2NUelhrTG80RHcwRDQzQzVqbFZqeXlvczFYRGJGeEcwMUlRQzFSOVdBdmtEczd1?oc=5)
 
-2026-08-29 <span class="news-indication-tag">arthritis</span>
+2026-08-28 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0hvSGJWMFdjOGs1Mmc3UWY0S2F2Q1gyYXpud0ozNmE3LXhSLWhMbXMwWGY0d3pBSWQydDlDa1hFZ05UUHJ3bmk4UnJMLVBhS2YzdG8xTjFHTU5CR0xOb3BJWnBvZUhjNVM2Mmo4azcwN2NUelhrTG80RHcwRDQzQzVqbFZqeXlvczFYRGJGeEcwMUlRQzFSOVdBdmtEczd1?oc=5)
+
+---
+
+### [Hautkrebs: Schon ein Sonnenbrand kann das Leben verändern](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXVUcnZYV2ZyY2U1R1dtZktXMktRQVM3Tnloa3d1eGV1dWc2UEVnNGR6eVAwZldsUTBDX0kwTFR4RWtjOFhRRnVxaDdtWTRPMzJFcm1LcDRFLV8ycHlWclk1Ny1VSm5ERTdnQUlxTVBBLWpSSFZqODRVSWdBRDhPWmxxQ0k5bE5aUnhLczFZb1lQeHFiVG16VUNIcGdST2xzd3A1bFQxeVZrelFtVk1xS1pJVVJWTUY0LWFjVg?oc=5)
+
+2026-08-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXVUcnZYV2ZyY2U1R1dtZktXMktRQVM3Tnloa3d1eGV1dWc2UEVnNGR6eVAwZldsUTBDX0kwTFR4RWtjOFhRRnVxaDdtWTRPMzJFcm1LcDRFLV8ycHlWclk1Ny1VSm5ERTdnQUlxTVBBLWpSSFZqODRVSWdBRDhPWmxxQ0k5bE5aUnhLczFZb1lQeHFiVG16VUNIcGdST2xzd3A1bFQxeVZrelFtVk1xS1pJVVJWTUY0LWFjVg?oc=5)
 
 ---
 
@@ -238,14 +238,6 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [First patient to have brain surgery with real-time AI assistance](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQVFBT2pRc2Y5YUE4bUdCSGlJdFFXZnB4QnJnQ09oVkN6aWlnYWI1LVFaV1FjRkdOMmpxQnY0M0lsLVlOaGdMeWRQY1RScEd5ME9WcE12MHV2aVZt?oc=5)
-
-2026-08-26 <span class="news-indication-tag">tumour</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQVFBT2pRc2Y5YUE4bUdCSGlJdFFXZnB4QnJnQ09oVkN6aWlnYWI1LVFaV1FjRkdOMmpxQnY0M0lsLVlOaGdMeWRQY1RScEd5ME9WcE12MHV2aVZt?oc=5)
-
----
-
 ### [Breath test for 'deadliest' cancer trialled in Wrexham](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QMTRab0dyRFBDSXgzWDhuMUpWQnFpYUszSDY1U1plSDdmcnVwNWM4N01VN2U5RW5NOTk1Wmg5RkFPZFljNERKN1BrVE9kSDgxdXRWT3o5TC01Wkxw?oc=5)
 
 2026-08-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -258,7 +250,7 @@ permalink: /news/axicabtagene-ciloleucel/
 
 2026-08-26 <span class="news-indication-tag">Krebs</span>
 
-來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2RNanF6cWRFWXpHX3dBcUxpSHlUcnNyYkVQQTdIdG4zRld4RDM0RlJvcXlqQmpfc2lfQkZzemZZOENQZUtfcFpRYy1kT3U1SXg3V3labVZtc3ZyZXN0TVR6cHM3T2NDUVhRM2pQZ1NJYjdqQ2pGeW1WT0dQMld1SkNrR0lRTXJRUERoUmdrdFBDQQ?oc=5)
+來源：[scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2RNanF6cWRFWXpHX3dBcUxpSHlUcnNyYkVQQTdIdG4zRld4RDM0RlJvcXlqQmpfc2lfQkZzemZZOENQZUtfcFpRYy1kT3U1SXg3V3labVZtc3ZyZXN0TVR6cHM3T2NDUVhRM2pQZ1NJYjdqQ2pGeW1WT0dQMld1SkNrR0lRTXJRUERoUmdrdFBDQQ?oc=5)
 
 ---
 
@@ -278,11 +270,19 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+### [Ist zu viel Vitamin B12 schädlich? Ärztin sieht beliebte Präparate „sehr kritisch“ - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVBLbkh2U2JwUWg5Q3dHWDctenpyZmpIWUhvel9FbnMtMnpzQlg1bEx4dXhNNnBmNlcxY2UwUVJnSTRnYlV6cTNJN2I3SXdpb0p0T0VEUkduVVVOSlZOWXVWTExDelhka1ViSjhSMGVBdHZjTUdUbElCZlFRcnZQX1E2YUd4SDVWVWVKdlQ1MDNJdFBxekxHVzBGR2FfS19aWXYyM25MbG4ydw?oc=5)
+
+2026-08-25 <span class="news-indication-tag">Krebs</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVBLbkh2U2JwUWg5Q3dHWDctenpyZmpIWUhvel9FbnMtMnpzQlg1bEx4dXhNNnBmNlcxY2UwUVJnSTRnYlV6cTNJN2I3SXdpb0p0T0VEUkduVVVOSlZOWXVWTExDelhka1ViSjhSMGVBdHZjTUdUbElCZlFRcnZQX1E2YUd4SDVWVWVKdlQ1MDNJdFBxekxHVzBGR2FfS19aWXYyM25MbG4ydw?oc=5)
+
+---
+
+### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 ---
 
@@ -304,17 +304,9 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ### [A childhood shaped by sugar rationing was linked to mental health more than 50 years later](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUtleWJSM2REVjFfSDdQVkxGdGtpdDFHeVE5c1JycjVBMS1VSXljT0NrWVVzVXlqa256VUN3Y3NVS2xSYkhOS0NTWFBCMkEzU18zMVdNSmV2ejNwQm9sV2tLQ3N0YXhiSGk4VTh6cG1zTHd5VHhDSHUtZlRSb3ZXaEhqaFFUek95OWJXanA2U3Izd21GZ09IenJJY21zblhpOHF2LXI5NlZxRTlrcUYwTEtRTUVXQXdUd2tra0l5cUFoTHJlMUh5OFc5Q3ZmRk5yQkhNVQ?oc=5)
 
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-08-24 <span class="news-indication-tag">cancer</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUtleWJSM2REVjFfSDdQVkxGdGtpdDFHeVE5c1JycjVBMS1VSXljT0NrWVVzVXlqa256VUN3Y3NVS2xSYkhOS0NTWFBCMkEzU18zMVdNSmV2ejNwQm9sV2tLQ3N0YXhiSGk4VTh6cG1zTHd5VHhDSHUtZlRSb3ZXaEhqaFFUek95OWJXanA2U3Izd21GZ09IenJJY21zblhpOHF2LXI5NlZxRTlrcUYwTEtRTUVXQXdUd2tra0l5cUFoTHJlMUh5OFc5Q3ZmRk5yQkhNVQ?oc=5)
-
----
-
-### [Hautkrebsprävention: Von Evidenz bis gesetzlichem Arbeitsschutz](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlFpcVZpTnBHdzZ5NEZEWHpBWXhUY2oxTTFuRGZIZ2tybEhMYk5HWnNCNmgwdVF5Y0pBS3JHQk9OZnNfejlsV3BGYWl2bU9zVTgtcXBKc3RBb3dYQ0ttTTBnY283NUdTbktFbEZaa3hKTWtOQ2l2WTdRWTFoVUhMbFhmcVI4VVg0?oc=5)
-
-2026-08-23 <span class="news-indication-tag">Krebs</span>
-
-來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlFpcVZpTnBHdzZ5NEZEWHpBWXhUY2oxTTFuRGZIZ2tybEhMYk5HWnNCNmgwdVF5Y0pBS3JHQk9OZnNfejlsV3BGYWl2bU9zVTgtcXBKc3RBb3dYQ0ttTTBnY283NUdTbktFbEZaa3hKTWtOQ2l2WTdRWTFoVUhMbFhmcVI4VVg0?oc=5)
 
 ---
 

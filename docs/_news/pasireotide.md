@@ -14,7 +14,7 @@ permalink: /news/pasireotide/
 ---
 
 <p class="key-answer" data-question="Pasireotide 有什麼相關新聞？">
-<strong>Pasireotide</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pasireotide</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/pasireotide/
 <p><a href="{{ '/drugs/pasireotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（32 則）
+
+### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+
+2026-08-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+
+---
 
 ### [Un estudio revela que la dieta keto reduce más la grasa del hígado que otras dietas, incluso perdiendo el mismo peso - La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
 
@@ -70,7 +78,7 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Wissenschaftler veröffentlichen weltweit erste anatomische Karte des Vagusnervs](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS0Q3U1d4Q2V3NThmc1Q0dkRYRDZNUFYyWmg0bDVwQ3FtcUQtMXdIbXpwUUhxT0JZOEVwZzgxSzFDRl9PSDR2UUo2S0h4dFRtUDEwa2ZuSnFfdk5GSXROWndtMVNHeDFaeE1qQWVRM19SX2tJd1dhUmphNDcwUmhzNVM2czFTbUZvZnpSZWs5NENka0tVTFdjemtQcjRDbkdzUEJGR19Qcm1GZy1GajRtZ3gyci00cGhoXzRJNEJ3RjBjSkM1QWJrMFdXdE1tZVpodUNFTzIxUzJ2NkRwMVV6c0w3WUhCMTlw?oc=5)
+### [Herz-Kreislauf: Wissenschaftler zeigen weltweit erste anatomische Karte des Vagusnervs](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS0Q3U1d4Q2V3NThmc1Q0dkRYRDZNUFYyWmg0bDVwQ3FtcUQtMXdIbXpwUUhxT0JZOEVwZzgxSzFDRl9PSDR2UUo2S0h4dFRtUDEwa2ZuSnFfdk5GSXROWndtMVNHeDFaeE1qQWVRM19SX2tJd1dhUmphNDcwUmhzNVM2czFTbUZvZnpSZWs5NENka0tVTFdjemtQcjRDbkdzUEJGR19Qcm1GZy1GajRtZ3gyci00cGhoXzRJNEJ3RjBjSkM1QWJrMFdXdE1tZVpodUNFTzIxUzJ2NkRwMVV6c0w3WUhCMTlw?oc=5)
 
 2026-08-30 <span class="news-indication-tag">AF</span>
 
@@ -86,11 +94,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Mum demands change after losing 'most of lower eyelid' to health condition - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxORnllNTlSdEx4R3I2OGtnaFN4amZscTdZdFh3WjEyaHNJMHZXenJISFJfSWVYRHhVeGhZcnlKWUMxR0RjeWlCTGVNZXBwbW5qZ20yZlg3RW1NaDFsUF9RZDFIbkxBTnBiYTRsNWQ3ak5XUmlkbDRrTENhbWNBal9hODNfWdIBiAFBVV95cUxPQU94TFRIa2FheklNOVBDQ1RpTzQzR3lUZ3dSR1BiSGN2ZEtSTHFGdkJuUURsZkx6RnVtTEdtZl9ZSHVpcDZiVHJQUjVUSnZTTzF5QlpjZEJfUTdvREpDOHZBaGdqWnNlREpZWjRpWXZQOGlDTDF4ZlgxdndxaGhkZWRoQ0dZWjc5?oc=5)
+### [Mum demands change after losing 'most of lower eyelid' to health condition - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxORnllNTlSdEx4R3I2OGtnaFN4amZscTdZdFh3WjEyaHNJMHZXenJISFJfSWVYRHhVeGhZcnlKWUMxR0RjeWlCTGVNZXBwbW5qZ20yZlg3RW1NaDFsUF9RZDFIbkxBTnBiYTRsNWQ3ak5XUmlkbDRrTENhbWNBal9hODNfWdIBiAFBVV95cUxPQU94TFRIa2FheklNOVBDQ1RpTzQzR3lUZ3dSR1BiSGN2ZEtSTHFGdkJuUURsZkx6RnVtTEdtZl9ZSHVpcDZiVHJQUjVUSnZTTzF5QlpjZEJfUTdvREpDOHZBaGdqWnNlREpZWjRpWXZQOGlDTDF4ZlgxdndxaGhkZWRoQ0dZWjc5?oc=5)
 
 2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxORnllNTlSdEx4R3I2OGtnaFN4amZscTdZdFh3WjEyaHNJMHZXenJISFJfSWVYRHhVeGhZcnlKWUMxR0RjeWlCTGVNZXBwbW5qZ20yZlg3RW1NaDFsUF9RZDFIbkxBTnBiYTRsNWQ3ak5XUmlkbDRrTENhbWNBal9hODNfWdIBiAFBVV95cUxPQU94TFRIa2FheklNOVBDQ1RpTzQzR3lUZ3dSR1BiSGN2ZEtSTHFGdkJuUURsZkx6RnVtTEdtZl9ZSHVpcDZiVHJQUjVUSnZTTzF5QlpjZEJfUTdvREpDOHZBaGdqWnNlREpZWjRpWXZQOGlDTDF4ZlgxdndxaGhkZWRoQ0dZWjc5?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxORnllNTlSdEx4R3I2OGtnaFN4amZscTdZdFh3WjEyaHNJMHZXenJISFJfSWVYRHhVeGhZcnlKWUMxR0RjeWlCTGVNZXBwbW5qZ20yZlg3RW1NaDFsUF9RZDFIbkxBTnBiYTRsNWQ3ak5XUmlkbDRrTENhbWNBal9hODNfWdIBiAFBVV95cUxPQU94TFRIa2FheklNOVBDQ1RpTzQzR3lUZ3dSR1BiSGN2ZEtSTHFGdkJuUURsZkx6RnVtTEdtZl9ZSHVpcDZiVHJQUjVUSnZTTzF5QlpjZEJfUTdvREpDOHZBaGdqWnNlREpZWjRpWXZQOGlDTDF4ZlgxdndxaGhkZWRoQ0dZWjc5?oc=5)
 
 ---
 
@@ -115,14 +123,6 @@ permalink: /news/pasireotide/
 2026-08-30 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNG5nWG1VWk5RREVSYmE5T0NDUENqSFZydFNwMXJVSnFrRW5XUXpSSllISjVLZ2hWd0FyZ1RIY3lzUXMyUFo1WkMwa1RISmdSalpqMVd5a3VVdnNzMWZCQ1Zydm8zZlFoWnRERWZick1aaURqcjd2S0hsVUMxMjVETmEzRkpGRXUwaWNhR0FxN3lUTjVKNERXYzB2emphLXFwanpjTHdpMlRWcm9kTnltUjF4bGRpX1ZCYjAySUFBVDNHZVFRN3VzcEtUdnZ0QUhyMFBOQ1I0ZVhicUJkZ0xr?oc=5)
-
----
-
-### [Haferflocken: 70 Gramm täglich senken Cholesterin um 15 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFOM0ZVTkNsdVhrMWwtMWg5a1U3alNzR1ZoTzVfZUNrMldBR2VkTHVHRmpEWnBPNWxEZEcya2FlSTllbzJMN3JJRjJaTTI3VmxnUnBidVgzdGN5NFVPbjJWNDQ0SUxyZy1kWkJJXzJURmJKMkdMekVCd3liTlJ3RmhJVEhReXhmLTNoT3FNYUhlT3h1V0JnZzhKbUFDaVJ2MHN0VEV3WFA3dWtzSjJ6ZHNR?oc=5)
-
-2026-08-30 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlFOM0ZVTkNsdVhrMWwtMWg5a1U3alNzR1ZoTzVfZUNrMldBR2VkTHVHRmpEWnBPNWxEZEcya2FlSTllbzJMN3JJRjJaTTI3VmxnUnBidVgzdGN5NFVPbjJWNDQ0SUxyZy1kWkJJXzJURmJKMkdMekVCd3liTlJ3RmhJVEhReXhmLTNoT3FNYUhlT3h1V0JnZzhKbUFDaVJ2MHN0VEV3WFA3dWtzSjJ6ZHNR?oc=5)
 
 ---
 
@@ -158,19 +158,19 @@ permalink: /news/pasireotide/
 
 ---
 
+### [¿Cuánto tiempo hay que dormir y hacer ejercicio para reducir la probabilidad de demencia?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUlE4b0EyUG9zby1WRVROeXZzSDZiLWxrOEVETHllSHJJNXVta19aZk5xcWpSUkFOa040M1ZsQ1Rkbk1OY0ZCVkp6UzZfdzR3a0xuME5VNGY5SDlCMFR2Sy1VYTZHTHIwcHBKamhLTW52UHdOSDBqUlUtNm1fVVByQ2dhMU1NaVpMTEdFTHpjeC1ncEJ2TTQyVnJFR28tNVVyNnI5bFVkQ3dhN3FyM1JqeDQzazR6N0hKTFVnMVdqbzBFVXhmOUZFYi16VmRIZms3RXZBTk5mbjRlVDY1?oc=5)
+
+2026-08-29 <span class="news-indication-tag">AF</span>
+
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUlE4b0EyUG9zby1WRVROeXZzSDZiLWxrOEVETHllSHJJNXVta19aZk5xcWpSUkFOa040M1ZsQ1Rkbk1OY0ZCVkp6UzZfdzR3a0xuME5VNGY5SDlCMFR2Sy1VYTZHTHIwcHBKamhLTW52UHdOSDBqUlUtNm1fVVByQ2dhMU1NaVpMTEdFTHpjeC1ncEJ2TTQyVnJFR28tNVVyNnI5bFVkQ3dhN3FyM1JqeDQzazR6N0hKTFVnMVdqbzBFVXhmOUZFYi16VmRIZms3RXZBTk5mbjRlVDY1?oc=5)
+
+---
+
 ### [Bat crawls into woman’s mouth as she sleeps - The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxONElxSEQ0Z0JHSWUwelFvMGs1M2R4REdPaWhiYmhvRTl3dE9ieks4NHFyaW0za3luS0dqV2pNMTA0LVk2d0U1aU8wWW15WkowUG5LVURReUlYb1lrSUJJQ0czZWFVdDVYWXgzeTcxYnFtR3hqM1VRa1VlY0gwMHB5aURod1pPMlZOeEE?oc=5)
 
 2026-08-29 <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxONElxSEQ0Z0JHSWUwelFvMGs1M2R4REdPaWhiYmhvRTl3dE9ieks4NHFyaW0za3luS0dqV2pNMTA0LVk2d0U1aU8wWW15WkowUG5LVURReUlYb1lrSUJJQ0czZWFVdDVYWXgzeTcxYnFtR3hqM1VRa1VlY0gwMHB5aURod1pPMlZOeEE?oc=5)
-
----
-
-### [Britain's longest living child liver transplant patient is loving life - 36 years after op - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3ZLOU5fMjAySTh0RWQ0Sm9FdWpPTS1ieXB6Z1hBbHMtX0l1TkI0WjF3NU9NZXNkTkhEODdWRXZTYnRjdE5tTzZBZEFqZ3dSdzhhOU81RnAyTUhETzdmWFJBYkFaU1UyTGpRVmc4cG43MXN3MVZPREVkUGRmaDg4U2xMNG5OZkR1WXfSAY8BQVVfeXFMTV9LdUlubFZGbnRSTER1dWpscVltNWRaelJqeXY5NGxoRkZaWFRKVnU5WDlvRVBfNGhrb01LdWtHNi1DX2laMG1qaGt1UG5xZ2pJSzIyMldZSjVfT19vbThoVGJUWmRKb0ZmRzc0b2p5VjR4R185NzYzSTFnV051MzhuMlFuNHBOczB0c3NsT2s?oc=5)
-
-2026-08-29 <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3ZLOU5fMjAySTh0RWQ0Sm9FdWpPTS1ieXB6Z1hBbHMtX0l1TkI0WjF3NU9NZXNkTkhEODdWRXZTYnRjdE5tTzZBZEFqZ3dSdzhhOU81RnAyTUhETzdmWFJBYkFaU1UyTGpRVmc4cG43MXN3MVZPREVkUGRmaDg4U2xMNG5OZkR1WXfSAY8BQVVfeXFMTV9LdUlubFZGbnRSTER1dWpscVltNWRaelJqeXY5NGxoRkZaWFRKVnU5WDlvRVBfNGhrb01LdWtHNi1DX2laMG1qaGt1UG5xZ2pJSzIyMldZSjVfT19vbThoVGJUWmRKb0ZmRzc0b2p5VjR4R185NzYzSTFnV051MzhuMlFuNHBOczB0c3NsT2s?oc=5)
 
 ---
 
@@ -184,25 +184,17 @@ permalink: /news/pasireotide/
 
 ### [People with atrial fibrillation at intermediate risk of stroke benefit from oral anticoagulants, clinical trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
 
-2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTZOR09WbzhlbkhtVDM5MEIybWlPVHBQWmdOS1ltNmV5akZvZUpVOU9aby1zY19fZndIb0hmYzF2QVJkRkVsTmJyeGVYWE9aaGZOTlpraVRFWEhGTEtGWXhQbzJwaVFGVFpyQXd1czBMSkxNYXV1VDJULUVVTWVQTTJ1WTJjRGdDUE1nZUxEOTNoTk15Rmc?oc=5)
 
 ---
 
-### [West Nile, 17 morti: "Caldo e siccità alimentano la circolazione" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdGJKVm1UYmJfMlBOWUZhdzlPNXpKWTk2a2FHWTVBajhYT2JmT25ROUdoNllFMTdmdnBYT1JuWDdGd25FdWNFd3dTYVNxVDVKT1JiS2VXQVU5Q0VJeG02V1Rwd1I4S1JWSkpyM3Z1Um9UcmlYOVQwcnF4WVNuVmljSmdTeU93empaTWF1XzZmM191SWRGV1FaR3NERVN3ZTRXbkJ2MkJjSHBqeUdFdkhFVDlPa1hxMFhBQktLbjFKRlpJTFQ0aXJSdm1lc0c0VXpDb1NjOFRKWU5yNjNNY3U5QzIxcUQyeGpEQzJMWks2N09Ldw?oc=5)
+### [La Febbre del Nilo ora fa paura: c’è la seconda vittima al Brotzu di Cagliari - Casteddu On line](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFZUZlpmQjE5ZGZSVWtjYVZmem5GbnJWRlJfeUNKMkd6RUtFOHRManhwU0pTcGxzVmlUdG8xQTd4VlRjX1VsV2UyVXVSLW9JVTBDRDBrM294MnN1bFkxSHlPSnV4bmxscFdqbmdpdVFVWWw1Z0g5NGhGM1ZzWGFVNHA1ejU5dE5WT1RaQ1VtQ2RjcGFsR3k0czBvWGNPcXdGOGpod0VUaUZxQQ?oc=5)
 
 2026-08-28 <span class="news-indication-tag">AF</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdGJKVm1UYmJfMlBOWUZhdzlPNXpKWTk2a2FHWTVBajhYT2JmT25ROUdoNllFMTdmdnBYT1JuWDdGd25FdWNFd3dTYVNxVDVKT1JiS2VXQVU5Q0VJeG02V1Rwd1I4S1JWSkpyM3Z1Um9UcmlYOVQwcnF4WVNuVmljSmdTeU93empaTWF1XzZmM191SWRGV1FaR3NERVN3ZTRXbkJ2MkJjSHBqeUdFdkhFVDlPa1hxMFhBQktLbjFKRlpJTFQ0aXJSdm1lc0c0VXpDb1NjOFRKWU5yNjNNY3U5QzIxcUQyeGpEQzJMWks2N09Ldw?oc=5)
-
----
-
-### [1 Month of Eating Vegan May Reduce Inflammation and Slow Aging, Study Shows - Verywell Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJWRmJTVThvNE1fa0c0bGV5MkE2ODIxSjBRb254b1JHVHRmOW1wdUN1b3U1SGtNRmxoLU5JM1hLS1A5N3VpWUMtb0tSelVzMDd6ZWNsYWxaOU5vMmlJODFsSXBUY2tpZGExVWh2blRMWW9EU2VjSC1uLU9kRkxPZGVvM21Oajg?oc=5)
-
-2026-08-28 <span class="news-indication-tag">AF</span>
-
-來源：[Verywell Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJWRmJTVThvNE1fa0c0bGV5MkE2ODIxSjBRb254b1JHVHRmOW1wdUN1b3U1SGtNRmxoLU5JM1hLS1A5N3VpWUMtb0tSelVzMDd6ZWNsYWxaOU5vMmlJODFsSXBUY2tpZGExVWh2blRMWW9EU2VjSC1uLU9kRkxPZGVvM21Oajg?oc=5)
+來源：[Casteddu On line](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFZUZlpmQjE5ZGZSVWtjYVZmem5GbnJWRlJfeUNKMkd6RUtFOHRManhwU0pTcGxzVmlUdG8xQTd4VlRjX1VsV2UyVXVSLW9JVTBDRDBrM294MnN1bFkxSHlPSnV4bmxscFdqbmdpdVFVWWw1Z0g5NGhGM1ZzWGFVNHA1ejU5dE5WT1RaQ1VtQ2RjcGFsR3k0czBvWGNPcXdGOGpod0VUaUZxQQ?oc=5)
 
 ---
 
@@ -294,11 +286,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 ---
 
@@ -315,14 +307,6 @@ permalink: /news/pasireotide/
 2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpeFUxY085cEVJc1REZVRkdTFWclo4YVpERXNtOXhaUDVKU2IwZF9ENUVWeTdjYmVHTnVWd0NBWjdKTzNIYW1JU2w3bHFDSld6UV9mTTFBczQ5LXhs?oc=5)
-
----
-
-### [A childhood shaped by sugar rationing was linked to mental health more than 50 years later](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUtleWJSM2REVjFfSDdQVkxGdGtpdDFHeVE5c1JycjVBMS1VSXljT0NrWVVzVXlqa256VUN3Y3NVS2xSYkhOS0NTWFBCMkEzU18zMVdNSmV2ejNwQm9sV2tLQ3N0YXhiSGk4VTh6cG1zTHd5VHhDSHUtZlRSb3ZXaEhqaFFUek95OWJXanA2U3Izd21GZ09IenJJY21zblhpOHF2LXI5NlZxRTlrcUYwTEtRTUVXQXdUd2tra0l5cUFoTHJlMUh5OFc5Q3ZmRk5yQkhNVQ?oc=5)
-
-2026-08-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUtleWJSM2REVjFfSDdQVkxGdGtpdDFHeVE5c1JycjVBMS1VSXljT0NrWVVzVXlqa256VUN3Y3NVS2xSYkhOS0NTWFBCMkEzU18zMVdNSmV2ejNwQm9sV2tLQ3N0YXhiSGk4VTh6cG1zTHd5VHhDSHUtZlRSb3ZXaEhqaFFUek95OWJXanA2U3Izd21GZ09IenJJY21zblhpOHF2LXI5NlZxRTlrcUYwTEtRTUVXQXdUd2tra0l5cUFoTHJlMUh5OFc5Q3ZmRk5yQkhNVQ?oc=5)
 
 ---
 

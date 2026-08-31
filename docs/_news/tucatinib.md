@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="Tucatinib 有什麼相關新聞？">
-<strong>Tucatinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tucatinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/tucatinib/
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
+
+### [Rheumatoide Arthritis: CAR-T-Zellen bringen drei Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
+
+2026-08-30 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
+
+---
 
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
 
 2026-08-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
-
----
-
-### [Brustkrebs-Screening kann auch Herzerkrankungen aufdecken - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
 
 ---
 
@@ -78,27 +78,11 @@ permalink: /news/tucatinib/
 
 ---
 
-### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
-
-2026-08-29 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
-
----
-
 ### [Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
 
 2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5)
-
----
-
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
 
 ---
 

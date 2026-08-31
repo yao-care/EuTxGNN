@@ -54,6 +54,14 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（8 則）
 
+### [Rheumatoide Arthritis: CAR-T-Zellen bringen drei Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
+
+2026-08-30 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
+
+---
+
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
 
 2026-08-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
@@ -67,14 +75,6 @@ permalink: /news/elexacaftor/
 2026-08-29 <span class="news-indication-tag">hypertension</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t0bm1pVjdXVFBUX1dNMXhUbFJocDRQd3JhYk5DQUpVbXUteEExbTNzOEhTSlA0UzBRTGU4Z0MwTS1uUlNUQjBEVGRvV3diS2JmZ0hLS20xb092MFNKZ2FsMnV3Q2hwS2RtYU5OMV9vb3JpNlNWOGk2UDhxRVJMME9CYTY1Y2VkSVNHNTZB?oc=5)
-
----
-
-### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
-
-2026-08-29 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ferric-maltol/
 ---
 
 <p class="key-answer" data-question="Ferric Maltol 有什麼相關新聞？">
-<strong>Ferric Maltol</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ferric Maltol</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ferric-maltol/
 <p><a href="{{ '/drugs/ferric-maltol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（13 則）
+
+### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+
+2026-08-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+
+---
 
 ### [Mit Computermodell berechnet: Wie sich die Zahl der Diabetes-Typ-1-Betroffenen entwickelt](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnJkZ0hmdmtFNmtndlhzb3VHeEVkNnlMQ1otazBHSFctdFJ4OWtWUDNWUVk4VFRJSDBXeVFrREpWMm95VS00LVladkpVNlFndzBvYXBfRGp1ZGZjeXJ4eWlkZU52ZTFNTzEtczlfV0ZqazlCSU5tMmV4VUd2cUpmbURUdTVLcnhjMXZZWXF6dEwtdGFyMnpBaXB5YU5VWms2aG9lZA?oc=5)
 
@@ -86,11 +94,11 @@ permalink: /news/ferric-maltol/
 
 ---
 
-### [FDA: nuevo aval para Mounjaro de Lilly](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
+### [La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2 - El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[pharmabiz.net](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 ---
 
@@ -99,6 +107,14 @@ permalink: /news/ferric-maltol/
 2026-08-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
+
+---
+
+### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 
@@ -123,6 +139,14 @@ permalink: /news/ferric-maltol/
 2026-08-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
+
+---
+
+### [Diabetes Typ 1: Intervallfasten hat überraschende Wirkung auf Langzeitblutzucker](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
+
+2026-08-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWZxN2hxSVRmQ2hmbGh3NExyU25rbkJreFVvY050RnlZVzYxN0l4Yk90dHh5WGNPVWFBdnZwcF9pazdnQWRRUU5tWDhyZGZkRW1nVjh3ZHBoVTlfYnRZZjJYQU00T2xZaHVmXy04TDdjX0FjdEh1TTRtR2ctQW5RZUI5Wml4UUdkVldPU2pKMzBxRkl3WjBfczYwT3hYblg3VkdLT2RBVk5ReEtFX3RwRG1KYS15bXhndTBkOG9fbUFxc2Zsd0JGUFZJc0tHQQ?oc=5)
 
 ---
 

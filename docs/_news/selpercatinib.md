@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVpYMkNjZThPN0trNlhWWFFISlA5WDZBdE9GTl9FY0YyZFhFMEYySGs3cmlwNHZjTHQtemlyWXMtdXFEUzl5WmdYQXlsQ0RJZDdfYUQzdS1TclNSOW9lMVhVWHJBc0liTWZQeUQxNXQzdDgxc296d2ZjQjFRUHZLZ21wT2dCeDFxUVVjMXZGeU94TlZmT29ILVdVWWJ2WDJRU1RtUVcyR0JEX2M?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/selpercatinib/
 
 ---
 
-### [Brustkrebs-Screening kann auch Herzerkrankungen aufdecken - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUU1dVgwRWljLTJ5NV90TTRJREN6STZRa21SOVhPdjczTUpsWUhwUlc3Ml9lS2VyYTRHd295VGNSWFMtdExaRzVudEllNVhUc2FOZ0hSMXREai13bnpFbVBrREg5cFB1TWRURDlmYTNHdXZJUUU0anVLdnJiN0xneDJiRGVXZm1KRllST2FrRG10Q2JyNmlIaHFFb0ctTGhQ?oc=5)
-
----
-
 ### [Traitement contre l’hypertension : cette étude remet en question le meilleur moment pour le prendre - Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t0bm1pVjdXVFBUX1dNMXhUbFJocDRQd3JhYk5DQUpVbXUteEExbTNzOEhTSlA0UzBRTGU4Z0MwTS1uUlNUQjBEVGRvV3diS2JmZ0hLS20xb092MFNKZ2FsMnV3Q2hwS2RtYU5OMV9vb3JpNlNWOGk2UDhxRVJMME9CYTY1Y2VkSVNHNTZB?oc=5)
 
 2026-08-29 <span class="news-indication-tag">hypertension</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t0bm1pVjdXVFBUX1dNMXhUbFJocDRQd3JhYk5DQUpVbXUteEExbTNzOEhTSlA0UzBRTGU4Z0MwTS1uUlNUQjBEVGRvV3diS2JmZ0hLS20xb092MFNKZ2FsMnV3Q2hwS2RtYU5OMV9vb3JpNlNWOGk2UDhxRVJMME9CYTY1Y2VkSVNHNTZB?oc=5)
-
----
-
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
 
 ---
 

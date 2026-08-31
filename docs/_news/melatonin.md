@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
 
 ### [Un estudio revela que la dieta keto reduce más la grasa del hígado que otras dietas, incluso perdiendo el mismo peso - La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
 
 2026-08-30 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWRodmRETXgxQk0yRmphN2tTT3JQVDgteTZKN2hMVEg0eGpiZXZEbE00QUdjcGRxRkM5eFBQZ2JTYlNkd1MzYlVQbUtGcEgyTnVHaHVjVXlBVVh5ZGxValRycDFfRjRYeE16bGZPdTJxQ1lEZ2JSY3I3djlIUE1QM0pRU2ZTUjZZQktwVkp0X3lUVVJ5SDBXaERHeF80LXBWUTFra2pkVjRVTFBIdGNOaTZyeDhDWWNsUG5LNmZaLTNCZ0pHbGZ5dTktUENfVFduOFc3MTBrcS1JeXlyT05B0gHkAUFVX3lxTFA3Tm5ENko2TVQ5bHlOWl96NnRWVGozVGhITGhsemw1Qy0zcUJ0VmpzaVNnRGF5ZW43S3Y0Rk1ZeWNqQnhzN1pnYUVjQkNRMmczell3dEhaXzc5a3E3WUY3ME1QQkhyak14MVpKT3NVcFpRYUxlMVZiYkZ6ZnJDREpIYm5JT3FuaUl5cVg2THFQVEtJQWZ4ekVkNGFQSHBZTXBiU3JxQlRzb29CWFp1WlZBTXFjUlZOeXFKcGZSM0tZczd5enhPc21jcHBQRGtNaVdKek9tMWVOS1d3WDFULW5rSGVFSA?oc=5)
+
+---
+
+### [L'intelligenza artificiale ha scoperto una molecola che imita l'Ozempic, senza effetti collaterali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOU5sb1pBTXowYnNWbEpqQWR1VzJfblI4M3pTUmplZHJhaHVZUHY3QnJhSU9ZV2s5c0ZxeXRhZ2xlQnhxaEUtamxRN3NaVGNTdkhzMVNILUQ3ZjVJN0IwOTVFaXBSNXVPcGRKOG1PdVpYekV0LVp2aE9qMWxibERLOElSSzNmY0xEbFdGXzI3YVNVdXVqbG5XZGZuX2NMSHgycXJQNzRfMloxSFZaOFJaU0ZSdETSAboBQVVfeXFMTmpHdFprNnNFa25ZUXRzTXNTSmxKcUZSQnQ1X2szRWhaTm9ab3l6M3V4S1ZiZDUybnc2R3FsaF9zZ0JTeDFHRmU0Wm1CMUROT1o5aExDZWJ4bW9hOE9UanVkdl9CY0hOZVRYV2o2dUw3TTRsUEJpRldIQ281LWwzS0ZCZFdnM1VrR1A1bUZYejhOQkV1Mm90SkRxLWgyckxULWF3Q2daTFlSX0tUZnhzU1hLVWtfOXE2M2hn?oc=5)
+
+2026-08-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOU5sb1pBTXowYnNWbEpqQWR1VzJfblI4M3pTUmplZHJhaHVZUHY3QnJhSU9ZV2s5c0ZxeXRhZ2xlQnhxaEUtamxRN3NaVGNTdkhzMVNILUQ3ZjVJN0IwOTVFaXBSNXVPcGRKOG1PdVpYekV0LVp2aE9qMWxibERLOElSSzNmY0xEbFdGXzI3YVNVdXVqbG5XZGZuX2NMSHgycXJQNzRfMloxSFZaOFJaU0ZSdETSAboBQVVfeXFMTmpHdFprNnNFa25ZUXRzTXNTSmxKcUZSQnQ1X2szRWhaTm9ab3l6M3V4S1ZiZDUybnc2R3FsaF9zZ0JTeDFHRmU0Wm1CMUROT1o5aExDZWJ4bW9hOE9UanVkdl9CY0hOZVRYV2o2dUw3TTRsUEJpRldIQ281LWwzS0ZCZFdnM1VrR1A1bUZYejhOQkV1Mm90SkRxLWgyckxULWF3Q2daTFlSX0tUZnhzU1hLVWtfOXE2M2hn?oc=5)
+
+---
+
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajdOc1hJQnBZdXhtcU1tLWZtMy1CUDZYdmtfNnJSSnFHelVXZ0d3ZzZpNWM2dUFrcGMzNVdQZEdPM2ZYRGNHMHFKUnE1VWNoVHNkVlV2LXU3b1RpMm1BbDRmVFVBQUp0RmJqaW45dnVaS1hSSVJuSmN0N1pTWTFYZ0xqUHcwN2NXX1llbFd4a1pqREJQMzJnLUZJd3l3Zkx2bWNWWk54MkdMcm1rUFljblpGeE5xd29YcTNzM3BuX2EzNl9FbjZPX2xCWmJOblAy?oc=5)
+
+2026-08-30 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajdOc1hJQnBZdXhtcU1tLWZtMy1CUDZYdmtfNnJSSnFHelVXZ0d3ZzZpNWM2dUFrcGMzNVdQZEdPM2ZYRGNHMHFKUnE1VWNoVHNkVlV2LXU3b1RpMm1BbDRmVFVBQUp0RmJqaW45dnVaS1hSSVJuSmN0N1pTWTFYZ0xqUHcwN2NXX1llbFd4a1pqREJQMzJnLUZJd3l3Zkx2bWNWWk54MkdMcm1rUFljblpGeE5xd29YcTNzM3BuX2EzNl9FbjZPX2xCWmJOblAy?oc=5)
+
+---
+
+### [Jesús Fernández, profesor de enfermería, sobre la melatonina: “Un uso excesivo puede producir somnolencia durante el día, dolor de cabeza o una reducción de la capacidad de atención” - La Vanguardia](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeU0zLUtzT21wRVdMMlpkQWcwblZoVFNXejlEaERVbE9EeHhqWFZaXzRZRWtDdXVNb1BXQzRXYUhtaDN4bTFZM2MtZll4eEp0TWgzdVY3NzRMaGRUT01tc00wUlVGb1lhaXRoeGFYY3RqYWRxX2swVGlSNXlNaFpDMEN4d0ZjbGJOMm9mNllibnBFNVNGdFB6dlQ4SFMxN3M5OEU2ZXZLakh0MHk2ZXZZNkV3Ui1fcVkxQm5adHp0TUlFWjBQeEZsM0FEc1J1a2hCWkhteHFhUXBOY01kWHM5MFV5NDA0b3dnN2JzMF9MX2p4SEY4cjNkTlFHTFFobkNjcFFqTTVINmRmU1pFUUt0ZXdvMjBmQ01Pc2kyOVRHajJRelREeU5kYmxqbw?oc=5)
+
+2026-08-29 <span class="news-drug-tag">Melatonin</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeU0zLUtzT21wRVdMMlpkQWcwblZoVFNXejlEaERVbE9EeHhqWFZaXzRZRWtDdXVNb1BXQzRXYUhtaDN4bTFZM2MtZll4eEp0TWgzdVY3NzRMaGRUT01tc00wUlVGb1lhaXRoeGFYY3RqYWRxX2swVGlSNXlNaFpDMEN4d0ZjbGJOMm9mNllibnBFNVNGdFB6dlQ4SFMxN3M5OEU2ZXZLakh0MHk2ZXZZNkV3Ui1fcVkxQm5adHp0TUlFWjBQeEZsM0FEc1J1a2hCWkhteHFhUXBOY01kWHM5MFV5NDA0b3dnN2JzMF9MX2p4SEY4cjNkTlFHTFFobkNjcFFqTTVINmRmU1pFUUt0ZXdvMjBmQ01Pc2kyOVRHajJRelREeU5kYmxqbw?oc=5)
+
+---
+
+### [Obesity: Keto May Offer More Benefits Than Mediterranean Diet](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
+
+2026-08-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9SMTZLakZ6QzhDN2RhUEd3TWkxWll1QV9abDJ1Y1hPckNDTkxnMXZxVE1mNGhhVkNWNldDS3BHRzF0bk04ZG52dkpGRllpVURseEhrQmdnSmN4eDRrbDJQRmVBMGZnZl80Vi1mNlpPYmdVT3BhOGNaUG9XcFRfOQ?oc=5)
 
 ---
 

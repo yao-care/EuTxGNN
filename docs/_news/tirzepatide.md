@@ -54,19 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（5 則）
 
-### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
+### [Rheumatoide Arthritis: CAR-T-Zellen bringen drei Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
 
-2026-08-29 <span class="news-indication-tag">arthritis</span>
+2026-08-30 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFZDUXhJNlBRY2xnRjlkZk5WY2k0VXp0U2s4T3J1U0poTnZpOWI2d0VTYmRWdU5TLXppUHI0Q0pPUkdxSVZfV01FRk5pa3dIVjBvc2ZnXzhCY05PTExHbVZEdWNTV3RLQzJ5WEhORkxrUnhVSnEwLUlfR2k1QldxcHRTcVVDT0g3NlhLaUpkaTNnSXQxSU1LR2V1dTVhR0lZR0NNS3kzYlR4Y2NoaGNCWERqREsxVENFZlpj?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWkzbEpDZEd0TDA4SDV2bGpzV1RUODVOWG5hSTNTQUNmYl93QmI4M3RmWFd4a2FXMUlTcVdEeHJxTE5kZEw5SXI5eFRrMDRiUUI0bDhWQUtvY2ZVQjM4MEZseFI4dXBuQTV5V19hUDVCZHBOcjFLcTlEQU8wS1phcTFwZEs3RGZ4NG1tWlFfcTNsVFZNYmQxY1p5Ym1vYm5NTC1SVlExUGk3MU45OHFfY3A1Z0tOT09zUENF?oc=5)
 
 ---
 
-### [FDA: nuevo aval para Mounjaro de Lilly](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
+### [La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2 - El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[pharmabiz.net](https://news.google.com/rss/articles/CBMickFVX3lxTE5rUmhHODh3N1ctaE5aMWl3OUZDTGdWeFR3ZTh4MEVNemFuN1VQTHkwa2pYSHBFVlpwaDJuRkFfNFAta1FtemRULTVTVWlOemNLQzQ2U3VWX1JXYlUxN2xKSk5SVDRkRk1nRC1xT3NRRjBwQQ?oc=5)
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 ---
 
