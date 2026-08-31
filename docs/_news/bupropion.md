@@ -54,27 +54,27 @@ permalink: /news/bupropion/
 
 ## 相關新聞（6 則）
 
+### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+
+---
+
+### [Das steckt hinter dem Jo-Jo-Effekt: Adipositas verändert Immunzellen – selbst nach erfolgreicher Diät - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
+
+---
+
 ### [La dieta que más reduce la grasa del hígado y revierte la prediabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
 
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
-
----
-
-### [Burgos suspende en tabaquismo, diabetes y obesidad abdominal - Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
-
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
-
----
-
-### [L'intelligenza artificiale ha scoperto una molecola che imita l'Ozempic, senza effetti collaterali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOU5sb1pBTXowYnNWbEpqQWR1VzJfblI4M3pTUmplZHJhaHVZUHY3QnJhSU9ZV2s5c0ZxeXRhZ2xlQnhxaEUtamxRN3NaVGNTdkhzMVNILUQ3ZjVJN0IwOTVFaXBSNXVPcGRKOG1PdVpYekV0LVp2aE9qMWxibERLOElSSzNmY0xEbFdGXzI3YVNVdXVqbG5XZGZuX2NMSHgycXJQNzRfMloxSFZaOFJaU0ZSdETSAboBQVVfeXFMTmpHdFprNnNFa25ZUXRzTXNTSmxKcUZSQnQ1X2szRWhaTm9ab3l6M3V4S1ZiZDUybnc2R3FsaF9zZ0JTeDFHRmU0Wm1CMUROT1o5aExDZWJ4bW9hOE9UanVkdl9CY0hOZVRYV2o2dUw3TTRsUEJpRldIQ281LWwzS0ZCZFdnM1VrR1A1bUZYejhOQkV1Mm90SkRxLWgyckxULWF3Q2daTFlSX0tUZnhzU1hLVWtfOXE2M2hn?oc=5)
-
-2026-08-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOU5sb1pBTXowYnNWbEpqQWR1VzJfblI4M3pTUmplZHJhaHVZUHY3QnJhSU9ZV2s5c0ZxeXRhZ2xlQnhxaEUtamxRN3NaVGNTdkhzMVNILUQ3ZjVJN0IwOTVFaXBSNXVPcGRKOG1PdVpYekV0LVp2aE9qMWxibERLOElSSzNmY0xEbFdGXzI3YVNVdXVqbG5XZGZuX2NMSHgycXJQNzRfMloxSFZaOFJaU0ZSdETSAboBQVVfeXFMTmpHdFprNnNFa25ZUXRzTXNTSmxKcUZSQnQ1X2szRWhaTm9ab3l6M3V4S1ZiZDUybnc2R3FsaF9zZ0JTeDFHRmU0Wm1CMUROT1o5aExDZWJ4bW9hOE9UanVkdl9CY0hOZVRYV2o2dUw3TTRsUEJpRldIQ281LWwzS0ZCZFdnM1VrR1A1bUZYejhOQkV1Mm90SkRxLWgyckxULWF3Q2daTFlSX0tUZnhzU1hLVWtfOXE2M2hn?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/bupropion/
 
 ---
 
-### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+### [La obesidad tiene que dejar de ser un problema de salud pública](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
 
-2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-27 <span class="news-indication-tag">obesidad</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
+來源：[aecomunicacioncientifica.org](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
 
 ---
 

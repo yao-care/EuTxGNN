@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [El síntoma de la depresión que avisa del Alzheimer antes de perder la memoria - Libertad Digital](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZTJ1UXdiaDVfWnJiSVNhai01cE9yc1VaT1I5SEZsdFROWVFSbTBVS3RTTlhSSEQ4dnd4OFJCQVR0MzNER0Q5SjNxbF9oQkNWNmRnaXRHOFBUdXZfMWp2dkx1UEtvMHFMSHRfcVZkdnUyTXpLT1lia1VpUHFPQzlKSWlHQnN5RUdqSzIwUEJCM0tGeU03bEdjdnZDM3JrNWRQOUZTMmhzNmNoWHh5SllIRzFjR0tIeGRaNmhmNndPeEtVSjIzNngwWGZ4b25JLVpmWml2S3ZnQ3lxZU1wMEZ0YlN2ZEM1RVRCc0HSAfQBQVVfeXFMT2w0NFgzV3J3bnlocFExRlVlS2dtamZ5b2d0M2xxSl9udHp5M1JoNDdoYURDRkQyNHA4NjFSdXNtR0pxczNnNlktOV9pcGdBOHltT1RZV3FCU2hIYkIzQUpMRVVuTVB3UTN3ZjNDa3gtbmUyNE1wSC1OLU1qQTZSNTI0WG9rcWh3UU93aVNVeUxZUUh6b2pGYmw0Zm1JZHNKS1ZJd0EtZDY4UnNCSDRkQlpDNHBaT2g1eDBnYlJkZG9CdERETlJ1cktDb2lXLVlvR2oxTE1faWRyXzh6NnZWcy1YSjhHTzA5QVpoTmFtRUVNYWV2VA?oc=5)
 
 2026-08-31 <span class="news-indication-tag">depresión</span>
 
 來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZTJ1UXdiaDVfWnJiSVNhai01cE9yc1VaT1I5SEZsdFROWVFSbTBVS3RTTlhSSEQ4dnd4OFJCQVR0MzNER0Q5SjNxbF9oQkNWNmRnaXRHOFBUdXZfMWp2dkx1UEtvMHFMSHRfcVZkdnUyTXpLT1lia1VpUHFPQzlKSWlHQnN5RUdqSzIwUEJCM0tGeU03bEdjdnZDM3JrNWRQOUZTMmhzNmNoWHh5SllIRzFjR0tIeGRaNmhmNndPeEtVSjIzNngwWGZ4b25JLVpmWml2S3ZnQ3lxZU1wMEZ0YlN2ZEM1RVRCc0HSAfQBQVVfeXFMT2w0NFgzV3J3bnlocFExRlVlS2dtamZ5b2d0M2xxSl9udHp5M1JoNDdoYURDRkQyNHA4NjFSdXNtR0pxczNnNlktOV9pcGdBOHltT1RZV3FCU2hIYkIzQUpMRVVuTVB3UTN3ZjNDa3gtbmUyNE1wSC1OLU1qQTZSNTI0WG9rcWh3UU93aVNVeUxZUUh6b2pGYmw0Zm1JZHNKS1ZJd0EtZDY4UnNCSDRkQlpDNHBaT2g1eDBnYlJkZG9CdERETlJ1cktDb2lXLVlvR2oxTE1faWRyXzh6NnZWcy1YSjhHTzA5QVpoTmFtRUVNYWV2VA?oc=5)
-
----
-
-### [Social, oltre 150 minuti al giorno aumenta il rischio di depressione](https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1YtdUt0OGlhUGVMSEt4dldLZTlqOVM2bmhaRW9GOGVJR3pVdUFhdVI3YXhlcTFxNzd4TmZzdDMwWDFrbHNYUHZUZnd0LURMdUdiQVV3MGFrNTNkLUZvVVhibXB1bC1jakZ0LUFZOE0xTV9XSDg3NktiTzF3NjkyTEwwNG9HTlBQY2JnMXhpRTNUNlHSAWhBVV95cUxPblhFeGpnQlpyM0otNWNPYVRIaE5wSUdCdmM1RFhENzNHSWZDQXhVVXlrc0wzeURnY29zSklNWFBKaTViT3RoRkNkdDdIS0dHX0JnMFRQVHZxZFA2MHBpUHVNQXZnWHZzRw?oc=5)
-
-2026-08-30 <span class="news-indication-tag">depression</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1YtdUt0OGlhUGVMSEt4dldLZTlqOVM2bmhaRW9GOGVJR3pVdUFhdVI3YXhlcTFxNzd4TmZzdDMwWDFrbHNYUHZUZnd0LURMdUdiQVV3MGFrNTNkLUZvVVhibXB1bC1jakZ0LUFZOE0xTV9XSDg3NktiTzF3NjkyTEwwNG9HTlBQY2JnMXhpRTNUNlHSAWhBVV95cUxPblhFeGpnQlpyM0otNWNPYVRIaE5wSUdCdmM1RFhENzNHSWZDQXhVVXlrc0wzeURnY29zSklNWFBKaTViT3RoRkNkdDdIS0dHX0JnMFRQVHZxZFA2MHBpUHVNQXZnWHZzRw?oc=5)
 
 ---
 

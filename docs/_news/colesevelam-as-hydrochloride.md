@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,51 +52,75 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（16 則）
 
-### [Las estatinas se vinculan con menor riesgo de demencia en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmFCSE1Jb0l6SW5DeE4tRFExZ3dnNmlCTnA3QjhXRUh2d1NyU3I4T2FXOTlSZW04N2VqT3NrTHRNZTktWkRnaVNrbUMyR3RTazgydFhFQmZvMkxidDIxci1LS1hudTRtckVodWZMSGctZUtoQ3k0SVhCTGVLOVBDUjNBcG9qR0daZVZNNUdfMWI2ZXEyZHJNWUwyWWl3azYzU3JraEJWNnNpWGdxaFNmbVNXVUpMN1B1SDhxZ9IBwgFBVV95cUxQVGJkMXBrNWN2UTBrVmtvejJ2MlpZLUdlWXEzOTRGU2NhdmNidkk2MDJtNndSVUZqMTBOeHdGbG5hSGxTaU54dExhTEV4LUpWTkU5WEJISDEyS2lJSlVrUi1Jd2xlbmRLUkp2X3BhREFCZE41a2dLRzZhZ3o4R1BsMHV0M2J0bEtxaHcwdmxUOUlINDIwRlAwaHR1MjZkdDZyaHBzd0lNSjZBRmI0M2ZUOGZUVjg5VDU0TUp5eVRkcTVoQQ?oc=5)
+### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
 
-2026-08-31 <span class="news-indication-tag">diabetes</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmFCSE1Jb0l6SW5DeE4tRFExZ3dnNmlCTnA3QjhXRUh2d1NyU3I4T2FXOTlSZW04N2VqT3NrTHRNZTktWkRnaVNrbUMyR3RTazgydFhFQmZvMkxidDIxci1LS1hudTRtckVodWZMSGctZUtoQ3k0SVhCTGVLOVBDUjNBcG9qR0daZVZNNUdfMWI2ZXEyZHJNWUwyWWl3azYzU3JraEJWNnNpWGdxaFNmbVNXVUpMN1B1SDhxZ9IBwgFBVV95cUxQVGJkMXBrNWN2UTBrVmtvejJ2MlpZLUdlWXEzOTRGU2NhdmNidkk2MDJtNndSVUZqMTBOeHdGbG5hSGxTaU54dExhTEV4LUpWTkU5WEJISDEyS2lJSlVrUi1Jd2xlbmRLUkp2X3BhREFCZE41a2dLRzZhZ3o4R1BsMHV0M2J0bEtxaHcwdmxUOUlINDIwRlAwaHR1MjZkdDZyaHBzd0lNSjZBRmI0M2ZUOGZUVjg5VDU0TUp5eVRkcTVoQQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
 
 ---
 
-### [Zu hoher Blutzucker: Diese Symptome sind laut Experten Warnzeichen für Diabetes - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
+### [There are hidden benefits to the shingles vaccine but timing is key - The Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXh6YjJfcl9UUDRaRjhNV2kxOW5GWWVCXzZKeGxOMzVsc1dNWWlfeE5fOEJ6c3VCcHNpenRZa0VCMW1iRURHdThENm9tbDZXZVUwZUxyUDJEQTVuUE80SjE5NGxOblpDQ1IxSmowU3J4ZTdHYzB3T090NmhjZmVYWDR6RlRFNzVhRmtGdVNjcDFjVWVhQUcyb29ZTGUtczNBWTczb2dDSDJhYzFOREpOUnVZN2RVX0lpS1NhSnk2NDg4TlJQZmpDbWh3?oc=5)
+
+2026-08-31 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXh6YjJfcl9UUDRaRjhNV2kxOW5GWWVCXzZKeGxOMzVsc1dNWWlfeE5fOEJ6c3VCcHNpenRZa0VCMW1iRURHdThENm9tbDZXZVUwZUxyUDJEQTVuUE80SjE5NGxOblpDQ1IxSmowU3J4ZTdHYzB3T090NmhjZmVYWDR6RlRFNzVhRmtGdVNjcDFjVWVhQUcyb29ZTGUtczNBWTczb2dDSDJhYzFOREpOUnVZN2RVX0lpS1NhSnk2NDg4TlJQZmpDbWh3?oc=5)
+
+---
+
+### [Tirzepatide, svolta per diabete e cuore: FDA amplia l’indicazione sul rischio cardiovascolare](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOWhZZVJKcEF1dmlyMGRyb19BTWYyV2ZoenctcUhjN3ZIR1QwRVg2MkJuSWxxVHlZcWc2UmdOaGpQZGtNUDJqaVl5OXRPZkdJWGl3Mktia1lnY0xnNUgyazdrR0lKVGlCTW1udmdLQWs4Y19pTjNLTVgyRl85eEN6bjZ3TnhWM2hNQUJSdUdpTENlMzNKaUV6VXFscVJZY0txOWJPOWNlQThWSDFPZk5BekV0MEZDbUVLSE9kdHlWM0Z1NUpkZk9FblVpVWNYMlpMM1BTRGZTbjg2QXFoSU9nVVlzQQ?oc=5)
+
+2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOWhZZVJKcEF1dmlyMGRyb19BTWYyV2ZoenctcUhjN3ZIR1QwRVg2MkJuSWxxVHlZcWc2UmdOaGpQZGtNUDJqaVl5OXRPZkdJWGl3Mktia1lnY0xnNUgyazdrR0lKVGlCTW1udmdLQWs4Y19pTjNLTVgyRl85eEN6bjZ3TnhWM2hNQUJSdUdpTENlMzNKaUV6VXFscVJZY0txOWJPOWNlQThWSDFPZk5BekV0MEZDbUVLSE9kdHlWM0Z1NUpkZk9FblVpVWNYMlpMM1BTRGZTbjg2QXFoSU9nVVlzQQ?oc=5)
+
+---
+
+### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzFBZlktbkNBdlViX2g0bUZkWDJaMmdmUVRTaDNhLXVxRmt3R1NudnhHUm5NNDRMdlRrcmRoc1Z4S2pXSDVUR1R4WHNZc3RVSzFDMlFmTE1VbWd0ckw5TnI2YmowcjM4RERnOTRUNXNaOTlPQUdJU1NTMFc2eWpsX3pjMVZkaHBnTlg5OHQyZG9LcHVmQjFPUmdVQVJwRm9ONmJJOUdlUE9BNlU?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzFBZlktbkNBdlViX2g0bUZkWDJaMmdmUVRTaDNhLXVxRmt3R1NudnhHUm5NNDRMdlRrcmRoc1Z4S2pXSDVUR1R4WHNZc3RVSzFDMlFmTE1VbWd0ckw5TnI2YmowcjM4RERnOTRUNXNaOTlPQUdJU1NTMFc2eWpsX3pjMVZkaHBnTlg5OHQyZG9LcHVmQjFPUmdVQVJwRm9ONmJJOUdlUE9BNlU?oc=5)
+
+---
+
+### [Bahnbrechend: Herzkrankheiten mit KI in zwei Sekunden erkennbar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">cardiac disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
+
+---
+
+### [Zu hoher Blutzucker: Diese Symptome sind laut Experten Warnzeichen für Diabetes](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
 
 2026-08-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
+來源：[abendblatt.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
+
+---
+
+### [Vinculan el tratamiento precoz con estatinas a un menor riesgo de demencia en diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
 
 ---
 
 ### [La dieta que más reduce la grasa del hígado y revierte la prediabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
 
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR21TZmR1MjYzU1NNMU8zNjBVYmtFLU95MGpjTDFKdUluRWZfdklkdkYxUGpEUHA2Uzl0RzRqUXluRWZMMi1WMzRwbm1NWFlpV2owa0oxdFF5aVlxM0tJNEYwcW9rVThqd0lsSG1HbkRfT1h6RWR1V3E5YXJMOFkwdzhzdjI4YnAtUm0tUDhYRkQ4WjdmY1VDUExmeFdQZDNseTZHZms4NFRRZGx3VEU1akNBNFA?oc=5)
 
 ---
 
-### [Burgos suspende en tabaquismo, diabetes y obesidad abdominal - Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
-
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVFQcUctXzFzanBHNEJpQWxrUzlzRjFhdW01RU5kYUdNbWZJYURJekFlamJWWTl4VUZwUUg3enNKdXRqLUllanhVaW1vWG1YV1M1N2xvUFlzNjdKTVdVSk9Hdk9fUGhwaW1CempRTlN1T2tyWGJ0dG5Gejlmbm5GOExYd3hjUkdTbmRHNzlkVTNMSVlQT3kzVWFOQUtfYVZPXzFSN044UTNJMHlha2Z1V0dLVTJUSHJMUVBoMjhrUldUU2g4dFBaVzlzRHJxRWk5RUlvd2YyWU4?oc=5)
-
----
-
-### [Vermeidbares Risiko für Herzerkrankungen: Was Kardiologen gegen Bluthochdruck empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2tzY3pXeTR1eDd3R0VjRG9HNk1PcURHeXg3MWZJRFNNT3RIZS01VmF0VVBvcmx4cUZFZ05PbkRidjNxbnpJQUxxaFZPUDJUM2VmS0Y1TDNXc2Nvd0YzaUQ4bGd4bFptUmRPQTJuYkhQOW1wVXlmUXEtR0k4aV9meUpfakt3WUJMUjBURlZPdzctN0E5OFl5OHZQczNaMjFqNWVMZTViRDh1NDg?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2tzY3pXeTR1eDd3R0VjRG9HNk1PcURHeXg3MWZJRFNNT3RIZS01VmF0VVBvcmx4cUZFZ05PbkRidjNxbnpJQUxxaFZPUDJUM2VmS0Y1TDNXc2Nvd0YzaUQ4bGd4bFptUmRPQTJuYkhQOW1wVXlmUXEtR0k4aV9meUpfakt3WUJMUjBURlZPdzctN0E5OFl5OHZQczNaMjFqNWVMZTViRDh1NDg?oc=5)
-
----
-
 ### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-08-31 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
@@ -126,6 +150,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Colesterolo LDL, trattare prima e meglio: le nuove evidenze da ESC Congress 2026](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXNoQ3lOQU10d0x4Z1VySTZrRFNibmx5WE9UbkpYV0hKT1diLVMtWC1TWWE3aFVpVDBNYUJoczBPdmNjVk14Q21QNjc4bHQ1UllmRnJMSjhERWJ4TXJmNmJ0ekFhT18zTzJ5dmUxVHQ1Yk1XZVl6bXVCNDR5ZXlaVkxzMTBqWEd4d0JPOFJzODZQZmU0N1pza0c0aHZGRzFpVzJHeGJjWFJHdw?oc=5)
+
+2026-08-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span>
+
+來源：[CardioInfo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXNoQ3lOQU10d0x4Z1VySTZrRFNibmx5WE9UbkpYV0hKT1diLVMtWC1TWWE3aFVpVDBNYUJoczBPdmNjVk14Q21QNjc4bHQ1UllmRnJMSjhERWJ4TXJmNmJ0ekFhT18zTzJ5dmUxVHQ1Yk1XZVl6bXVCNDR5ZXlaVkxzMTBqWEd4d0JPOFJzODZQZmU0N1pza0c0aHZGRzFpVzJHeGJjWFJHdw?oc=5)
+
+---
+
 ### [La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2 - El Globalfarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ0MktZREhoV0ZNZTJrc2ZPcWRETUtibXZRbXVZeHM4dTB6bFBGVnIybjBCa1Y3SFo3cUdQRmFwcDFoRVIwSDFXY21QelUzNFJkWFE2eXJOTGhFZHpLcGxUTGt2NEdmcUREb0JRRVJUYmlHMWppQ3gydmNtS09fa1F1emNNRVJHMG9seTROS09HeGktcW9iRkVnSHVXaUt2SWtaZkFNWDZlYW9YNWMxZkEtZw?oc=5)
 
 2026-08-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
@@ -142,27 +174,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
-
-2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
-
----
-
 ### [Los expertos coinciden: este es el mejor desayuno para las personas con diabetes - La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWJXSkI0WE9pOE1pc2JTUTRwUWtMU19vSXN3WFc5SlBFWllyTmVFenRIWmZTdjVCZUV2bW5INFoxSmJDem0xa21XTEtmb0NFNlpTV1RmS0F3RWxiMlYwRHJQQTdLeS1yREdwODZuZC1iWTJ2V1IzTlozdzBSRUJBZmxZc1BZejhKelJCRFd6QnBnRHZqc1NDYkJlX2hVNHcwU0tMNThYel9kMGZIekpjYlBUb18tN016alJ2bGlMQnbSAdQBQVVfeXFMTVlaeUc3V0FWbkZ6aWhvTHJTNTBPNGpBdDNBcjBwenRhekdhckJFNklWOHZnRVNYU1k0dWU4czRtSURvZkdpZ2twZjI5dWVwMWlDb2p5bkIwX2NJVWg0ZFFhdHpPM2wwSUEzU3dMTVVJbU4yLW50aFFIa3N2cWFCVk0wSGpOenI1NVBsV09velJIdzc1NUdJQ0xYUGV4UkhuWjdNaVI4Si1NWWRyZXNKdloyUWRzQU9DNTZwc1ozVjFYUEZMZTg5ZWk4WUVoY040c280bXM?oc=5)
 
 2026-08-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWJXSkI0WE9pOE1pc2JTUTRwUWtMU19vSXN3WFc5SlBFWllyTmVFenRIWmZTdjVCZUV2bW5INFoxSmJDem0xa21XTEtmb0NFNlpTV1RmS0F3RWxiMlYwRHJQQTdLeS1yREdwODZuZC1iWTJ2V1IzTlozdzBSRUJBZmxZc1BZejhKelJCRFd6QnBnRHZqc1NDYkJlX2hVNHcwU0tMNThYel9kMGZIekpjYlBUb18tN016alJ2bGlMQnbSAdQBQVVfeXFMTVlaeUc3V0FWbkZ6aWhvTHJTNTBPNGpBdDNBcjBwenRhekdhckJFNklWOHZnRVNYU1k0dWU4czRtSURvZkdpZ2twZjI5dWVwMWlDb2p5bkIwX2NJVWg0ZFFhdHpPM2wwSUEzU3dMTVVJbU4yLW50aFFIa3N2cWFCVk0wSGpOenI1NVBsV09velJIdzc1NUdJQ0xYUGV4UkhuWjdNaVI4Si1NWWRyZXNKdloyUWRzQU9DNTZwc1ozVjFYUEZMZTg5ZWk4WUVoY040c280bXM?oc=5)
-
----
-
-### [Millones de personas con diabetes podrían estar recibiendo tratamientos que no les corresponde](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
-
-2026-08-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFROQUN6R2VjbUNVT19LTURMZU9Eck44YU1oVU94Rmd6X3VBTHZ1MmhULW9TaWpVMlBTdzZUNXhzN3kxa2o2SzBZQWJNQjZCNUFHX3JfVnh4Wks5M19qTE1hbnRDZGwteVlQSDFFd09MeVVFV2xKOFlCamg2N3F4dE5jeDNZYzR5ZURYZGFSRTZuZy12aUZEdmJvbk9jZjZQSFE?oc=5)
 
 ---
 

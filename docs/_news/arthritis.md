@@ -3,7 +3,7 @@ layout: default
 title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。4 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。6 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>4 則</strong>相關新聞報導，73 個相關藥物。
+<strong>arthritis</strong> 目前有 <strong>6 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,13 +101,29 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [CAR-T-Therapie gegen Rheuma: Immunsystem neu starten, statt lebenslang therapieren - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+### [Rheumatoide Arthritis: CAR-T-Zelltherapie bringt 90% Autoantikörper-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGRDYWFidmNacFNJaEpyYUdMV2hZSlNmY2NUR1hrUEV6TjQwMEt5RE4zZDMySlYxR05MX2N2SzBlOGtnYXdWUDBpSkNtT0VUV3lsZ0ZQN2MxYnY2RnF3cThvWEd1UTh6ZGwtcTRUYnNBQk9rRU1XX2UxMVdfeGZlWEczbEM3X3lJdFNENXpQTFM2cVViR1lHdUxod0FSRWxQR1JIWkpXeWRmNmM?oc=5)
 
 2026-08-31
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGRDYWFidmNacFNJaEpyYUdMV2hZSlNmY2NUR1hrUEV6TjQwMEt5RE4zZDMySlYxR05MX2N2SzBlOGtnYXdWUDBpSkNtT0VUV3lsZ0ZQN2MxYnY2RnF3cThvWEd1UTh6ZGwtcTRUYnNBQk9rRU1XX2UxMVdfeGZlWEczbEM3X3lJdFNENXpQTFM2cVViR1lHdUxod0FSRWxQR1JIWkpXeWRmNmM?oc=5)
+
+---
+
+### [Kann ein Arthritis-Medikament gegen kreisrunden Haarausfall helfen?](https://news.google.com/rss/articles/CBMipgFBVV95cUxONDlDeHVzQVBvTnZIZTl0XzFadDJlR25FeHVTdnVRYnhFWnlEeHFxV0NEOGYzaVAtdzBxUmF0VlVyV0pZUUZSX2trNVNrR2g1TjJ0M1FvZUUtcG91d29lbEJ4WkoxcTFDTGV1SnRJNzdTQ2VDanJGUkx6ekxtM2xNS3RvTTl3MnlSdzFmZGs2SG9QWUJYSVVfR0lkd0gyUVZoLTZkZk9B?oc=5)
+
+2026-08-31
+
+來源：[scinexx.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxONDlDeHVzQVBvTnZIZTl0XzFadDJlR25FeHVTdnVRYnhFWnlEeHFxV0NEOGYzaVAtdzBxUmF0VlVyV0pZUUZSX2trNVNrR2g1TjJ0M1FvZUUtcG91d29lbEJ4WkoxcTFDTGV1SnRJNzdTQ2VDanJGUkx6ekxtM2xNS3RvTTl3MnlSdzFmZGs2SG9QWUJYSVVfR0lkd0gyUVZoLTZkZk9B?oc=5)
+
+---
+
+### [Drug used for arthritis shows promise against severe hair loss - Interesting Engineering](https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hXY0J1Mnpfekx4NVNtNGhxdDVJWFpBYnFXVTBEVXMzYzljNW45YUFVby15V3lORXpOelRXNUJaczFpVVI5T1NnZkZkcmp5WVJxaGphX1NNd3hJSnFtWTZmdnBGaWVRa2lJOFVBcFhYRHFnTzU0aEVYYlVPT0RkV1J1ckRzZw?oc=5)
+
+2026-08-30
+
+來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hXY0J1Mnpfekx4NVNtNGhxdDVJWFpBYnFXVTBEVXMzYzljNW45YUFVby15V3lORXpOelRXNUJaczFpVVI5T1NnZkZkcmp5WVJxaGphX1NNd3hJSnFtWTZmdnBGaWVRa2lJOFVBcFhYRHFnTzU0aEVYYlVPT0RkV1J1ckRzZw?oc=5)
 
 ---
 
@@ -119,19 +135,19 @@ permalink: /news/arthritis/
 
 ---
 
-### [Effektives Mittel gegen Haarausfall gefunden](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SODhGb3dBNUlsYzNfSzFObjR5NWRLUmp2WlkyOGFEMlpSMm5sNzVmLXVyWlYzVlNkY0V1UXVzR0FYYkNoOWdnWnQ1RGRFWmt3M1FPNkxxdkRSLXpNQnVrOVVsbGdxWENUT3BmVmt0YzY3M282bG9wNWFMbF8?oc=5)
-
-2026-08-26
-
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SODhGb3dBNUlsYzNfSzFObjR5NWRLUmp2WlkyOGFEMlpSMm5sNzVmLXVyWlYzVlNkY0V1UXVzR0FYYkNoOWdnWnQ1RGRFWmt3M1FPNkxxdkRSLXpNQnVrOVVsbGdxWENUT3BmVmt0YzY3M282bG9wNWFMbF8?oc=5)
-
----
-
 ### [Treat-to-Target bei Psoriasis-Arthritis: Übergewicht und Adipositas gezielt berücksichtigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
 
 2026-08-25
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNktydWFoYWkyM2RVS1lzUmotWk9vUkpmbHV5NnlMYXVFeXU1UG1iTzg4aEVjWDFXSVhHaDI0bDdoZUd1VnBkMlA3Q2EtT2M4eWRMd0ZscGg2VkFfRUtoRmZaTUkzNGtPeHYtM1VPNTJUWnlpRFprV19iOFV6VjFhTVQ0N256YVo2MUphUUpyWFN3aENtaXNaeUk0YkxUcVRfS2lQWVR1QTRVR1FMR3FzUGFMQ1l5cWhoZ0NvR0dDSWFsUXNrc0FEZEJ4MnJ6TVItSnFOUmIxNHVsVHNWQ3JUNmFVR01IMUFUUXFPRkJHYW8?oc=5)
+
+---
+
+### [Largest review of its kind confirms benefits of tai chi and other Chinese exercises - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
+
+2026-08-24
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
 
 ---
 

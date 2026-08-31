@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Doomscrolling, FOMO e nomofobia: quando lo smartphone smette di essere uno strumento e comincia a comandare](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
-
-2026-08-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Il caldo passa, l’ansia resta: così l’estate estrema entra nella nostra mente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
 
 2026-08-31 <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
-
----
-
-### [Long Covid e virus "fantasma": perché l'infezione sveglia i patogeni latenti nel nostro corpo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
-
-2026-08-30 <span class="news-indication-tag">asma</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
 
 ---
 

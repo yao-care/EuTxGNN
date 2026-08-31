@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Doomscrolling, FOMO e nomofobia: quando lo smartphone smette di essere uno strumento e comincia a comandare](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
-
-2026-08-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
-
----
-
-### [Long Covid e virus "fantasma": perché l'infezione sveglia i patogeni latenti nel nostro corpo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
-
-2026-08-30 <span class="news-indication-tag">asma</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzY5a1FPUkJuZDZ1NWpKbkdwdzg1eWk2NkVWRXZwa1RQVzJITHcwYnFYVzA2ZF9ONU5zaU15NGhuWGp4NXRTbHhNaF9yZkkyZUhjWTFQaENkcEJWS2R6bXhUcDNhcDVMRE1JOEdFdzVCWEdxSjdBc2Q2cWh4NHB4OHoxd3RTM3hleDBHZ2hfYWdCWjdEZ2FnY09MMG9XZndFOUVKb2Q1aWNLTjlKWENiVDdXRE9OeGdVbnRYV0pfWU9BMjRtMXpZQnBYcjlBUlY4TFFqRG1CZmRDcVFKZDNBU3p4R2U?oc=5)
-
----
-
-### [COPD-Risiko: TyG-Index als neuer Biomarker identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+### [TyG-Index: Metabolischer Blutwert weist auf COPD-Risiko hin - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 2026-08-25 <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NhU1pGSnVYY1RrWWg1d0NaUU9nRTk3NnJlajV0dWdQUUt0cHhGenpZUW5mdXAxLXRBdVpPOXhkYURvVHpzX1VFdWM4U3RIZjFEbUxQNnh6cWtjNjc4RTNubUZkcVBZX3F6VmZETWluV05kMDNMc0VRWkotbXBHZjhKZGhONlVrSG42eGZmVkZEYnpiYkk2VVRQdjJseVJSZTNzSWpBUQ?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEp6VC1SRWZKSjItenBhLWJ1Rm5QMTk5eFFGX1RrY2M5Vzh3R0lqcnA5cHBVSWZEVlR0MXEyRVVRTEUxZlA2a29UYjczVlF1MERob3ZLNC04LWF5VnRkTFpCUGNDQWd0Q0o5RTVkVlRwZEJ1SzF4T01GbEpYN2U4T25DLVRCWGpxenRtcEpJbmVjNUZ0dkRXRnVUZw?oc=5)
 
 ---
 

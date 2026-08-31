@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "morbo di Parkinson（parkinson disease） 相關新聞"
+title: "maladie de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "morbo di Parkinson（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
-# morbo di Parkinson（parkinson disease） 相關新聞
+# maladie de Parkinson（parkinson disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="morbo di Parkinson（parkinson disease） 有什麼相關新聞？">
-<strong>morbo di Parkinson（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="maladie de Parkinson（parkinson disease） 有什麼相關新聞？">
+<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「morbo di Parkinson」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie de Parkinson」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ permalink: /news/parkinson-disease/
 
 ## 相關新聞（1 則）
 
-### [I sintomi da non sottovalutare nel Parkinson che compaiono prima dei tipici tremori - Corriere della Sera](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWdqX0VsbnhKcGZWRjVodnBreDNUSFZrOWNiVnRwZkZaM3o3Y01DSE9HMUxBQTVQUUMxLWQzQkMxdUFiR0xic1BDeGh0MWFVeWI3Z2dpWXBjaWVKcDFhNHNFb0xXdXl1UXd0RThrX3h1V25tLTQ1RzZMbmpORVU4ZUo4LWJjaUtRRkkwVm1HU3JpUVNFSzc3UkNmMXNDc3RVTmt3YVJpVdIBrAFBVV95cUxNZ3Q3N28wR3RkbHFucjJ4NE5GbVd6TWdWTUNNTVJhZGpxSGtDQ2VrX1dGWDZyeU5QdEhBRlFJa3loOHhVR0JfY0dmNkU0RWR5UXNOX0VxVk5HalR3QzFydGpScWV0SFZPOVg2MGs5ZE1sM3J0LUtabFZpTkxVMnBoaVFRQ1FRWkEtT0RLd2VBM0FrYzBjNnB0WEg0anFHLWRPR0laZEFsUG9sU2ha?oc=5)
+### [Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
 
 2026-08-31
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWdqX0VsbnhKcGZWRjVodnBreDNUSFZrOWNiVnRwZkZaM3o3Y01DSE9HMUxBQTVQUUMxLWQzQkMxdUFiR0xic1BDeGh0MWFVeWI3Z2dpWXBjaWVKcDFhNHNFb0xXdXl1UXd0RThrX3h1V25tLTQ1RzZMbmpORVU4ZUo4LWJjaUtRRkkwVm1HU3JpUVNFSzc3UkNmMXNDc3RVTmt3YVJpVdIBrAFBVV95cUxNZ3Q3N28wR3RkbHFucjJ4NE5GbVd6TWdWTUNNTVJhZGpxSGtDQ2VrX1dGWDZyeU5QdEhBRlFJa3loOHhVR0JfY0dmNkU0RWR5UXNOX0VxVk5HalR3QzFydGpScWV0SFZPOVg2MGs5ZE1sM3J0LUtabFZpTkxVMnBoaVFRQ1FRWkEtT0RLd2VBM0FrYzBjNnB0WEg0anFHLWRPR0laZEFsUG9sU2ha?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
 
 ---
 

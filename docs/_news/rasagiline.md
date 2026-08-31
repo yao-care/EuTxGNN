@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,19 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [I sintomi da non sottovalutare nel Parkinson che compaiono prima dei tipici tremori - Corriere della Sera](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWdqX0VsbnhKcGZWRjVodnBreDNUSFZrOWNiVnRwZkZaM3o3Y01DSE9HMUxBQTVQUUMxLWQzQkMxdUFiR0xic1BDeGh0MWFVeWI3Z2dpWXBjaWVKcDFhNHNFb0xXdXl1UXd0RThrX3h1V25tLTQ1RzZMbmpORVU4ZUo4LWJjaUtRRkkwVm1HU3JpUVNFSzc3UkNmMXNDc3RVTmt3YVJpVdIBrAFBVV95cUxNZ3Q3N28wR3RkbHFucjJ4NE5GbVd6TWdWTUNNTVJhZGpxSGtDQ2VrX1dGWDZyeU5QdEhBRlFJa3loOHhVR0JfY0dmNkU0RWR5UXNOX0VxVk5HalR3QzFydGpScWV0SFZPOVg2MGs5ZE1sM3J0LUtabFZpTkxVMnBoaVFRQ1FRWkEtT0RLd2VBM0FrYzBjNnB0WEg0anFHLWRPR0laZEFsUG9sU2ha?oc=5)
+### [Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
 
-2026-08-31 <span class="news-indication-tag">morbo di Parkinson</span>
+2026-08-31 <span class="news-indication-tag">maladie de Parkinson</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWdqX0VsbnhKcGZWRjVodnBreDNUSFZrOWNiVnRwZkZaM3o3Y01DSE9HMUxBQTVQUUMxLWQzQkMxdUFiR0xic1BDeGh0MWFVeWI3Z2dpWXBjaWVKcDFhNHNFb0xXdXl1UXd0RThrX3h1V25tLTQ1RzZMbmpORVU4ZUo4LWJjaUtRRkkwVm1HU3JpUVNFSzc3UkNmMXNDc3RVTmt3YVJpVdIBrAFBVV95cUxNZ3Q3N28wR3RkbHFucjJ4NE5GbVd6TWdWTUNNTVJhZGpxSGtDQ2VrX1dGWDZyeU5QdEhBRlFJa3loOHhVR0JfY0dmNkU0RWR5UXNOX0VxVk5HalR3QzFydGpScWV0SFZPOVg2MGs5ZE1sM3J0LUtabFZpTkxVMnBoaVFRQ1FRWkEtT0RLd2VBM0FrYzBjNnB0WEg0anFHLWRPR0laZEFsUG9sU2ha?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
 
 ---
 
 ### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-08-31 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/rasagiline/
 2026-08-29 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[Good News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOOVRUU3ZaZWNCa2kxTFVXY1ZCSkJMSGFUVzlvSnZPSGhzMmdYZnQwLVRfN1c4Y1kxSkdSXzByTW1xVjNrY0FUQ2o3LTJKay05UUIzOWRSOGN2ZXY2QzZwbEoxWWt0a1BuRGZoSFFkaWJtWWRvZ1pYc2pqaF9pRUdNOXdQWU9tQjBidHBMNFFjbEtpOWZoTUVYcG54a0ZOUQ?oc=5)
-
----
-
-### [Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
-
-2026-08-27 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,25 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（13 則）
 
-### [La OMS mantiene la Emergencia de Salud Pública de Importancia Internacional pero descarta calificarla de pandemia - Gaceta Médica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLU1VSEEwME10NEk1RmpuWVctSUl1aHhqVXNmTHJNV01pcktDaVdtVXgwSTNKZkxWUjhuYzROVGctcl82bmhWZHBZallsS0JhVzBMaEU4eWp0b0Izek1CZ1o4T28zUjhlOC1fMDhNYWNvMUxKTmlTc0pjTnAxYVFBMElmajlaS1BicTNlYjlqRXpfdXRMdjNMQ0VpdXFhZWdpOG5wQVl0b0M3Zw?oc=5)
+### [US health officials exclude measles-related deaths in Pennsylvania from counts - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5)
+
+---
+
+### [Avalan la seguridad y eficacia de Nobivac DP PLUS de MSD Animal Health en hurones](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1VvZENfS01zLVNZMXFOdDdWNzZjSGw3S01kTGNsRGp5TVBHRzA3dUFaZlZfSzhjUnNGRUpWbUhIUkNNVjRxTGRSZFdkVnREcTRVS2I3MlhRR0VYSEFqYmtmRkl1U2VDWThQS3RfM2R0c1lBVXNMZlFVS3pvdUhwWHpLUS1ONzB1Vm5tdi11eVJyRC1lcFpfeDJITGozYzFVYzZOV0ViWUZ5V0nSAbABQVVfeXFMTXFsLTVLYXRMRE41YVZkVlJiSkQyNFQyMWRBMjQtU3BYdDNvczRnLXBmODQ3RWVKQzdFVTV5X0d4UEVpdW9YQWM1WU96cWRhMVRWYWJMblJjUmgtM29zMU9CajM0WjRmWlA0aFU5SnIzQUNLdWhrckl2ZEl5VHZLOTlxdEdHUFBrbkJIUF9iRllmZV8zQk5ZTHNTUG1UQlM4SUNvSW54eFM4cXBWQmtubFY?oc=5)
+
+2026-08-31 <span class="news-indication-tag">MS</span>
+
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1VvZENfS01zLVNZMXFOdDdWNzZjSGw3S01kTGNsRGp5TVBHRzA3dUFaZlZfSzhjUnNGRUpWbUhIUkNNVjRxTGRSZFdkVnREcTRVS2I3MlhRR0VYSEFqYmtmRkl1U2VDWThQS3RfM2R0c1lBVXNMZlFVS3pvdUhwWHpLUS1ONzB1Vm5tdi11eVJyRC1lcFpfeDJITGozYzFVYzZOV0ViWUZ5V0nSAbABQVVfeXFMTXFsLTVLYXRMRE41YVZkVlJiSkQyNFQyMWRBMjQtU3BYdDNvczRnLXBmODQ3RWVKQzdFVTV5X0d4UEVpdW9YQWM1WU96cWRhMVRWYWJMblJjUmgtM29zMU9CajM0WjRmWlA0aFU5SnIzQUNLdWhrckl2ZEl5VHZLOTlxdEdHUFBrbkJIUF9iRllmZV8zQk5ZTHNTUG1UQlM4SUNvSW54eFM4cXBWQmtubFY?oc=5)
+
+---
+
+### [La OMS mantiene la Emergencia de Salud Pública por el brote de ébola pero descarta calificarla de pandemia - Gaceta Médica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLU1VSEEwME10NEk1RmpuWVctSUl1aHhqVXNmTHJNV01pcktDaVdtVXgwSTNKZkxWUjhuYzROVGctcl82bmhWZHBZallsS0JhVzBMaEU4eWp0b0Izek1CZ1o4T28zUjhlOC1fMDhNYWNvMUxKTmlTc0pjTnAxYVFBMElmajlaS1BicTNlYjlqRXpfdXRMdjNMQ0VpdXFhZWdpOG5wQVl0b0M3Zw?oc=5)
 
 2026-08-31 <span class="news-indication-tag">MS</span>
 
@@ -62,27 +78,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Alzheimer-Schutz: Wie Schlafspindeln kognitiven Abbau bremsen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTNOUWNncV9ya2lGMHdCWEhUWkhoNlBQeDNTd2k5Vy0yT0loUTJjdDhKUHhlVHdFcmt1ZXk5bENyWkdKNEZCcGRaVmw1aEdzbWxaQUNNYmNIcHV4WEJCcldhMEhJQ0dYQ2d2WHVjNHBmZkVSYnd0dVdtam40WnZwLTlodWJ0U3RySVhORTJ6dFBrVG5JSGNiNFB0LXptVWtBam5EOTJidFc5UGc1YWc?oc=5)
-
-2026-08-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTNOUWNncV9ya2lGMHdCWEhUWkhoNlBQeDNTd2k5Vy0yT0loUTJjdDhKUHhlVHdFcmt1ZXk5bENyWkdKNEZCcGRaVmw1aEdzbWxaQUNNYmNIcHV4WEJCcldhMEhJQ0dYQ2d2WHVjNHBmZkVSYnd0dVdtam40WnZwLTlodWJ0U3RySVhORTJ6dFBrVG5JSGNiNFB0LXptVWtBam5EOTJidFc5UGc1YWc?oc=5)
-
----
-
 ### [Doomscrolling, FOMO e nomofobia: quando lo smartphone smette di essere uno strumento e comincia a comandare](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
-
-2026-08-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
-
----
-
-### [Xilitol y riesgo cardiovascular en la población general](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VmajhyZ2VUODZUaFlWeWxLMDh0NXFXMW9Ec0JQNVpLQ3BuT0xnTHljRU9DUkk1UmpiWjVFd21ndGV0OW5NZDBCVGFLbnBZZlBINHFuYmQxS3g4LWZtZ1Jlai1ua1gzb3lfdWpvT2djeHNpNjE4N20ya0NDdmhyeG43dURMMVUyeVRtdW9uYU1jQ2Q0clJkVlZGY2JDTmFkQmRqM3M1R0RsR1NSUVZn?oc=5)
 
 2026-08-31 <span class="news-indication-tag">MS</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VmajhyZ2VUODZUaFlWeWxLMDh0NXFXMW9Ec0JQNVpLQ3BuT0xnTHljRU9DUkk1UmpiWjVFd21ndGV0OW5NZDBCVGFLbnBZZlBINHFuYmQxS3g4LWZtZ1Jlai1ua1gzb3lfdWpvT2djeHNpNjE4N20ya0NDdmhyeG43dURMMVUyeVRtdW9uYU1jQ2Q0clJkVlZGY2JDTmFkQmRqM3M1R0RsR1NSUVZn?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVg0N1lfU0hkLXhNWm9UdmJpQWcyUE1iRXRvM3o3eGIwQmJhSWh5TkNrQ3ZDdHRsR0lrM0Zya0dVSWRkUVYyVTdpRFVkVi14empnbFB3b3R4YmJQdkN2Uk5rdjBITmtjcFhQWnBsRHlCN2diVzJ1MUJnaGVWS052ejdxSGNGT0lqSkFMYThnMENlbU1QbDVHMVFLWV81dloxVEw0cmFQVEF6T21MZF9VWHdsUEJzUHVIN2l4cFNmWEVXbkhvNUtXQ2xtdDU5R0ppb2ljVU55MW5GZWRHZVlPM25TS1JJdWdqWDBvOA?oc=5)
 
 ---
 
@@ -134,6 +134,14 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [Kind von Hundertjährigen: geringeres Risiko für Herzkrankheit und frühen Tod](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1tUndCRzllNEZvOW5VMERsVEJ0VklRbGxEZV9ZVDNQc3gybFB0LWZsV3p5b1dLUVZuN2lTczkyeXd4Z2I4V3p5VnhVVlZzVDNFTktkbE1mNmt2SkhvSGRoSFJRY0lvODlBSnZOYUdJX1Y1aXp2TGc3NUFkeTVpMUlhemVCaW1uTzk1NE5jVnRxakZRUEhyVk9IZFpmMXVZRmJIUWs1OGdQeGE0QzJzb0NDOGtSTGVZNzZKeXBn?oc=5)
+
+2026-08-28 <span class="news-indication-tag">MS</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1tUndCRzllNEZvOW5VMERsVEJ0VklRbGxEZV9ZVDNQc3gybFB0LWZsV3p5b1dLUVZuN2lTczkyeXd4Z2I4V3p5VnhVVlZzVDNFTktkbE1mNmt2SkhvSGRoSFJRY0lvODlBSnZOYUdJX1Y1aXp2TGc3NUFkeTVpMUlhemVCaW1uTzk1NE5jVnRxakZRUEhyVk9IZFpmMXVZRmJIUWs1OGdQeGE0QzJzb0NDOGtSTGVZNzZKeXBn?oc=5)
+
+---
+
 ### [MS belastet soziale Teilhabe und Beruf stärker als bisher bekannt - Gelbe Liste](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVV0NmNTU1pYSWlCaldfbHZmU2h6YWxfbHB5SWdGWGt5VUdHdVMzeXRfWk9RNk9mSGUtckZXX0FyZDBFTWZ0c1VoRjZrNjNuSG13bllBRE5aWFlMWXhJWmJSa2dEbHRPNGEyNzlESk9fSkprZkw1TWEzZmhNQi1iMlRGVzU2NnJyREdtb0gtY1hUNFMtcmdXeUdZREFUM2w2NTIwekNBOWE5bnladzgxMU5B?oc=5)
 
 2026-08-27 <span class="news-indication-tag">MS</span>
@@ -142,43 +150,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Feeling tired and generally unwell? The signs of middle-age disease that’s soared five-fold as 25% undiagnosed - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
-
-2026-08-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZzQ09adFFFXzhoWEY4dnhNcVI4THRKci1seVJ4SnUyTDVDTV9nNWdWeDEtTHZ6Y0cxcVluQnZ2eDF6R3RaUkp6ZWxYS1NWdnVUUzY2SUY5UVIxQjdCM0FxZVdDb1RTQjhfbzFvTEhycy0xMTk1LUkzZFN5Y1NiTy1XdUE2ZVF4ODM3Q0E0Z2Rvbk1WWWlWM2xTNkdJZU9mNTlpNk53?oc=5)
-
----
-
-### [Il vaccino contro il fuoco di Sant’Antonio potrebbe proteggere anche il cuore](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDRPQmFrYUNRQWRsSWtVYmprTjdqaUdvblhXckp6Vkt4aGg0VWNoMktoLUo0emthQ0pRd1FfS0NYOE8yR2ZOZWk2UElZRzR5ZGFNd2Y0OTBRamJsOFFUdnRZVUJCQW1KQ1Rad1dzbnNKd09IcUxwQ1BZaTRoekRic3dnRkpoNUc0QUJLU05jRVQwTzBSdEY4MnVwVHk0c3BYdmV3dUFVQ0tyYlJfNDFUdkIyY3VqWXJVLWhYeTZURDZlbW94Z3hTYVBiTi14d3dtOHc?oc=5)
-
-2026-08-26 <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDRPQmFrYUNRQWRsSWtVYmprTjdqaUdvblhXckp6Vkt4aGg0VWNoMktoLUo0emthQ0pRd1FfS0NYOE8yR2ZOZWk2UElZRzR5ZGFNd2Y0OTBRamJsOFFUdnRZVUJCQW1KQ1Rad1dzbnNKd09IcUxwQ1BZaTRoekRic3dnRkpoNUc0QUJLU05jRVQwTzBSdEY4MnVwVHk0c3BYdmV3dUFVQ0tyYlJfNDFUdkIyY3VqWXJVLWhYeTZURDZlbW94Z3hTYVBiTi14d3dtOHc?oc=5)
-
----
-
-### [Nicotine vapes best chance to quit smoking, major review finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
-
-2026-08-25 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSlN4Y1Y2dm5ZMVpCTTVlWlZmMzVPUkhQV3dfRVJHd0FCS2oyZmhBOEZ0bEFsVnIwQlEtVkZsNjhoNkJiODBkOEs5VldYdHRIbk42UGo0X2Q2Qjdk?oc=5)
-
----
-
 ### [Largest review of its kind confirms benefits of tai chi and other Chinese exercises - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
 
-2026-08-24 <span class="news-indication-tag">MS</span>
+2026-08-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
-
----
-
-### [Girl, 4, diagnosed with Wilms tumour after mum noticed changes in her behaviour - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
-
-2026-08-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHNCMURWVnFaZjFSS3BuWXJjanV1YllIazZzdUM5SjFraUxSczJwMF84WTlCbzBNRkh1dFBzV3NmazVJd0xFa0I2dkFrNExkUVhHUXlod0hnV2F3TGhTNEpaMmN6alo5WHMzMzNkMUZRaUZyRzhudnpGRXJiVXItWVFVNm1XZjh0ekHSAY8BQVVfeXFMUFRQUlVpLW9YRWFiTlpKVDhOeWp3Sm80RTE5bi1BeVNObDBGRkltSUo5cnhqOHZZYm9yT2JiaEhKZm13X05nNTdTT1h0dGRlRWlNWkdSOVBlWm15c1BiNC1ZRmVuaG1tWmVxczRRSTRBNk9kVUM3eWpNZGhNZ0NSMXNHV0E0OFdqUlAzLUNSTDg?oc=5)
 
 ---
 
