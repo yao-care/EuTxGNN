@@ -14,7 +14,7 @@ permalink: /news/corifollitropin-alfa/
 ---
 
 <p class="key-answer" data-question="Corifollitropin Alfa 有什麼相關新聞？">
-<strong>Corifollitropin Alfa</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Corifollitropin Alfa</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,27 @@ permalink: /news/corifollitropin-alfa/
 <p><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [KI-Diagnose von Bluthochdruck und Diabetes aus 5-Sekunden-Face-Videos - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
+
+2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
+
+---
+
+### [Perché l’emicrania colpisce in modo così diverso? La risposta cercata nel DNA di 2,5 milioni di persone](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
+
+2026-09-01 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
+
+---
 
 ### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
 
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+2026-09-01 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
 
@@ -64,17 +80,33 @@ permalink: /news/corifollitropin-alfa/
 
 ### [Bahnbrechend: Herzkrankheiten mit KI in zwei Sekunden erkennbar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
 
-2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">cardiac disease</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
 
 ---
 
-### [AstraZeneca, ipertensione non controllata o resistente al trattamento: baxdrostat efficace a 52 settimane - Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+### [I thought we wasted docs time - Phoebe looked normal but was sickest in hospital - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNN21HTGRZM21qdDNUcm5qUVlVeGd2QnlxWmZsU3hzNnBGYUV0WFdGNXNfVXRycjdlUEtaRUpmeVNjR3FUWVgtaHFFUEEtazNOWGp1LWdZeEZHczRyYzJ5RktVeHVwOFQxWG1fT1pfZGx2SWEtMnJkenBJbWNyUlhpUWZvdnZtSzRKU0N0aG9faTAwdTB5d0ZPeg?oc=5)
+
+2026-08-31 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNN21HTGRZM21qdDNUcm5qUVlVeGd2QnlxWmZsU3hzNnBGYUV0WFdGNXNfVXRycjdlUEtaRUpmeVNjR3FUWVgtaHFFUEEtazNOWGp1LWdZeEZHczRyYzJ5RktVeHVwOFQxWG1fT1pfZGx2SWEtMnJkenBJbWNyUlhpUWZvdnZtSzRKU0N0aG9faTAwdTB5d0ZPeg?oc=5)
+
+---
+
+### [Ipertensione resistente ai farmaci, una nuova molecola funziona anche a lungo termine](https://news.google.com/rss/articles/CBMihwJBVV95cUxOU0RMeFJtcXBLaTIzVjJZWUFLOHY0aW00LUdXQmoxUWNvNDladThNNXItNFlkcmlsTnBsangzOWZXRkJrZERELXVnN3NHdHBKdm9JTDJCb0pFdTQySXl3TVE4SFJQa2piVkpPSUJ4dEZab2NYNjJNbFlOVjNhVVUwVXRFYVZGeHd0dXEwN2ROcWdQY2diSVN6N21KVjM3eUFwdE5wVVhnR0Q4SVBuWEphOTNQOGgySnBPSGIwOXU1OEFuZzlrMWpwNTVjb1dTUUtkYjBPeG9ic1hhYklvUjhlMl8zZzc0akRkNzM2OGxUdmlMeVhDX2JwUTZkR2VYUG1Dd3FmSG9JMNIBjAJBVV95cUxPSlhmcHJrZlNqV3NlUjZRZG1HdDhqM2F2YkRKWmlxWHJDN282eTVBMVI0Y1RWYlJ5QVc4dW5vaWU5VUFQNUVhLTdvLXduOFNkN1l1ZUdLRnJmX29FenA2N2NpaFFNWll0LUxGTFJPQ2Y1eWctNjJGeEJqQmhzQzJEX2V3Q3hsM3FCbFY3R1hIeFpnSHFneGFvaUNjZG9JdVpwRFV4M2NWUlA5QWg5dFcxTFZUc29pZjBvdHVyZUZDTGlWYS1EWXZiYUJ2OW9ud1gxOFZzV01oWHdydWllanRvVm1EbzZUZmNYM25HNGFBbXFsQzFyNDJpZnhtRTQwamJ5ZFRpU0NkSk15Rlhh?oc=5)
 
 2026-08-31 <span class="news-indication-tag">ipertensione</span>
 
-來源：[Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMihwJBVV95cUxOU0RMeFJtcXBLaTIzVjJZWUFLOHY0aW00LUdXQmoxUWNvNDladThNNXItNFlkcmlsTnBsangzOWZXRkJrZERELXVnN3NHdHBKdm9JTDJCb0pFdTQySXl3TVE4SFJQa2piVkpPSUJ4dEZab2NYNjJNbFlOVjNhVVUwVXRFYVZGeHd0dXEwN2ROcWdQY2diSVN6N21KVjM3eUFwdE5wVVhnR0Q4SVBuWEphOTNQOGgySnBPSGIwOXU1OEFuZzlrMWpwNTVjb1dTUUtkYjBPeG9ic1hhYklvUjhlMl8zZzc0akRkNzM2OGxUdmlMeVhDX2JwUTZkR2VYUG1Dd3FmSG9JMNIBjAJBVV95cUxPSlhmcHJrZlNqV3NlUjZRZG1HdDhqM2F2YkRKWmlxWHJDN282eTVBMVI0Y1RWYlJ5QVc4dW5vaWU5VUFQNUVhLTdvLXduOFNkN1l1ZUdLRnJmX29FenA2N2NpaFFNWll0LUxGTFJPQ2Y1eWctNjJGeEJqQmhzQzJEX2V3Q3hsM3FCbFY3R1hIeFpnSHFneGFvaUNjZG9JdVpwRFV4M2NWUlA5QWg5dFcxTFZUc29pZjBvdHVyZUZDTGlWYS1EWXZiYUJ2OW9ud1gxOFZzV01oWHdydWllanRvVm1EbzZUZmNYM25HNGFBbXFsQzFyNDJpZnhtRTQwamJ5ZFRpU0NkSk15Rlhh?oc=5)
+
+---
+
+### [A personalized elimination diet changed the gut microbiome in people with migraine](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaU5yQnJjTkNXQ0paWEhGTnJCcC1HSFQ4RE9UREdBNjJaS2trWlUwbkdFY1FBcGlfWFdhN1BrUFFfTlBFTzlMWUNZdzFiZ3NWQXMyNEwwSW9fWTdLZm5PcEtPOW16eEY0elRQaXNGYXY2dUVHcTBNbEtwSmZ6bUg3cXJBWXFndEtiVUFJQkQ3Ny11ZGtpd3k4UXJ2RjZYS1A0Qm85aTNuWmRTQnl0N01HQ2hnVE8wck1FN1MtYUVfNGliLWd0XzEwbXBR?oc=5)
+
+2026-08-31 <span class="news-indication-tag">migraine</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaU5yQnJjTkNXQ0paWEhGTnJCcC1HSFQ4RE9UREdBNjJaS2trWlUwbkdFY1FBcGlfWFdhN1BrUFFfTlBFTzlMWUNZdzFiZ3NWQXMyNEwwSW9fWTdLZm5PcEtPOW16eEY0elRQaXNGYXY2dUVHcTBNbEtwSmZ6bUg3cXJBWXFndEtiVUFJQkQ3Ny11ZGtpd3k4UXJ2RjZYS1A0Qm85aTNuWmRTQnl0N01HQ2hnVE8wck1FN1MtYUVfNGliLWd0XzEwbXBR?oc=5)
 
 ---
 
@@ -86,11 +118,11 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
-### [Un video del volto e l'IA scopre in pochi secondi diabete e ipertensione](https://news.google.com/rss/articles/CBMikwJBVV95cUxPdE53RnU2RmZieFE5LThnVzQ4MWxHanVTZGx3ak50eF9kQ1M0dnUwOFAyVGNvLUZLaFNVSU02dk1sNXJ2cnhOdE9aSGJWWWVCN0haWlphYlItVXpDMWZBSHgzb0ZTM29VZmFPYjRlRXhGbnQzc2J3UzFyaDJLeUFVaGp1aUZiQzNpZjQ0ZG9QOVFvQUlDWDdockVpeUwzeElMT3ZwV21qVXdLcTRtaEI2ZFBwSjVUTlFRZTJiRDF6TjdKWU9OLVhqdlg3YTMyMDdwRE9KMHVvcTVCQzdoSVpBVGYwd2djaUVxS0gyOFBpY0dIVUNmdnVTVlM3NXpzenBmOU1zQVIzbU9FamxteW9FakRsY9IBmAJBVV95cUxNVm0yYktoc0xUSGV1TThtdmhtcU5ON3UtVlFZNHR5eE1CdnVVLXBNT2U0MTNZakVVY3VCLVV5X3NsN2NYLTRJNWFzUEJJcnc0Mk5fTXJiZDgxc01hWHNEWENsZXBYaWNkb1gybzdMSzZjdEJ6RmZjelFSUWV6d01sbWZ4dGNGRTRtbFk3U3pJNGxwcVR5V1pyTi1RUm1xOGNSRlZ2M0RwR3BUcjBwc3p0VFpmTnFaMlNhRmdnUGdrS0FaNC1xcTJ1UzNQOFhDY1ZKS3UxTkJLbmprRzBIR1l0OGZiNkttdk1QNXd1blZQcU1NSW1pcC1SQkgyZml6cWQtblBKSzlBcmQ2WnF3RWhfVE5yZFc2V01w?oc=5)
+### [Ipertensione e diabete: così l'intelligenza artificiale li scopre con un video del volto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
 
 2026-08-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
 
-來源：[ANSA](https://news.google.com/rss/articles/CBMikwJBVV95cUxPdE53RnU2RmZieFE5LThnVzQ4MWxHanVTZGx3ak50eF9kQ1M0dnUwOFAyVGNvLUZLaFNVSU02dk1sNXJ2cnhOdE9aSGJWWWVCN0haWlphYlItVXpDMWZBSHgzb0ZTM29VZmFPYjRlRXhGbnQzc2J3UzFyaDJLeUFVaGp1aUZiQzNpZjQ0ZG9QOVFvQUlDWDdockVpeUwzeElMT3ZwV21qVXdLcTRtaEI2ZFBwSjVUTlFRZTJiRDF6TjdKWU9OLVhqdlg3YTMyMDdwRE9KMHVvcTVCQzdoSVpBVGYwd2djaUVxS0gyOFBpY0dIVUNmdnVTVlM3NXpzenBmOU1zQVIzbU9FamxteW9FakRsY9IBmAJBVV95cUxNVm0yYktoc0xUSGV1TThtdmhtcU5ON3UtVlFZNHR5eE1CdnVVLXBNT2U0MTNZakVVY3VCLVV5X3NsN2NYLTRJNWFzUEJJcnc0Mk5fTXJiZDgxc01hWHNEWENsZXBYaWNkb1gybzdMSzZjdEJ6RmZjelFSUWV6d01sbWZ4dGNGRTRtbFk3U3pJNGxwcVR5V1pyTi1RUm1xOGNSRlZ2M0RwR3BUcjBwc3p0VFpmTnFaMlNhRmdnUGdrS0FaNC1xcTJ1UzNQOFhDY1ZKS3UxTkJLbmprRzBIR1l0OGZiNkttdk1QNXd1blZQcU1NSW1pcC1SQkgyZml6cWQtblBKSzlBcmQ2WnF3RWhfVE5yZFc2V01w?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
 
 ---
 
@@ -107,14 +139,6 @@ permalink: /news/corifollitropin-alfa/
 2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
-
----
-
-### [Wenn sich hinter der Migräne ein Sjögren-Syndrom verbirgt - Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
-
-2026-08-26 <span class="news-indication-tag">Migräne</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXk1Ui1rVUJ1S29rZVBrTF9Rb0FQWXlkMjJPck5iWG9wLV93NmJXQWpNUTRJaEhJdXo1eHQtNi1nV18wNW1RLUZwTnNNREt3cWdqZVZ2dVlSV01ETGZON1I2RktaSG12SnlEeEliNXU5SzExWDIzc3VpcHlDeXpscldnQW5FZjZPcWtMRW1Kdmp2dzFfUlB3RVVGSU0zQWJuZWcwRWZpOHFIbDJGR3BObTZNb0U3dw?oc=5)
 
 ---
 
