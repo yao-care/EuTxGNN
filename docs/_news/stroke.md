@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。10 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。11 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>10 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>11 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
 ### [Aterosclerosis: la enfermedad que ya está presente en uno de cada 13 jóvenes y causa infartos e ictus - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHZvOUtLd3hmT2pXNHZoUFNLdVZtbzRSOEozLUxLQ014aFppR0xuQXIyVlc0dzBla2lya1ZVMXNhcXlEeVhFbzY5SHpRVlVURlhaLUJud3dtUE45c2VtNlVocU9PSlJBYmZ6MTB5aVdIT1AzNXIxUFhYYWpaV3NDWFRheThBUzZ0U0dudzNMeTRLYmVEUDA2VTgtUklWUGo4Q19fak5WYmZDdUIzWjdSMnBQSmo2ZTBCU21wVXJwU1BfZUXSAcgBQVVfeXFMUGcwZlJsQUsyaDZRc1JYZ2dRMXZpQ0QzWHJEZ1hLZWxaS3BibnRod1VwUUFoTENrNTZIRGZLSWJSTHFBRlBjc3lMaGNiSUlaQVA1QWJCSWRuLV9QN2tfYzRka0xJMll5Y191V01oVU1nRFZMWGVDSndMYUZ4d0RaaVd0eVJLT0d2TGxzOHVVSjF2ODQ1clV6bHhtd3g4VmFwRnJkX3FQWFZxMC0wcTFEbHphbXBoRVFfWmtoQlpMVDd4V0ZwV0pHY2M?oc=5)
 
@@ -81,19 +81,19 @@ permalink: /news/stroke/
 
 ---
 
-### [Exercise intervention associated with reduced atrial fibrillation burden](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZJcEtwZEQ3TFhLMHB2VnJFU2xtVFJGd0hIcExJaXgyZWFSdlZ6T0xoRFRaYl9KOF9jS2pkYnFEOFphdGtiMG93X1paYW9wX0lDZTR5RlNfcEdzMzB6c0ZhYnROdHRWMVFiYWpGbnJTR21JVWRUR2pqM0RDeWJwWl96VHdFUS0tVU5yazd2c0g3RFNGQTZYZlZCalpaNlZKTnhIU19NMDJqcW5uVGJ1bzEtMnJjN0RLUkxjOQ?oc=5)
+### [Statines : le médicament ne réduit pas que le cholestérol pour ces patients - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
 
 2026-08-31
 
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZJcEtwZEQ3TFhLMHB2VnJFU2xtVFJGd0hIcExJaXgyZWFSdlZ6T0xoRFRaYl9KOF9jS2pkYnFEOFphdGtiMG93X1paYW9wX0lDZTR5RlNfcEdzMzB6c0ZhYnROdHRWMVFiYWpGbnJTR21JVWRUR2pqM0RDeWJwWl96VHdFUS0tVU5yazd2c0g3RFNGQTZYZlZCalpaNlZKTnhIU19NMDJqcW5uVGJ1bzEtMnJjN0RLUkxjOQ?oc=5)
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
 
 ---
 
-### [Statine e demenza, il cuore protegge anche il cervello? Lo studio che riapre la partita della prevenzione](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdzZjUzluNkpQNmFoakFCWTZ4SWhmWFk5NlowRkNYdFBqZGQxMWd5VmVXWWVlR2JDeDExeWxPTzJwMkMzU1BUOHFhWWQ0VF9hcFU1Rjl2dHZlaVRaekl6RjgwLUM5clE2ekV4bGFONWJ3ZzVxbW56YVFDdWg1V09Ob19vVDFTZjlnQnpaM3Z5TE1rOTdJc3l4WVlMNUhWNi1zc0JNUm9CblU1YmJ3dE53Wk40OURuNjEyLU1qYU4yX2hDZW9WXy1fd0pDU1BENkZpZHlhT1RHcE5CR0FwWTlOMlJ2NnBzQm9pbDdEX252b2ljWGVZOFE?oc=5)
+### [Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
 
 2026-08-30
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdzZjUzluNkpQNmFoakFCWTZ4SWhmWFk5NlowRkNYdFBqZGQxMWd5VmVXWWVlR2JDeDExeWxPTzJwMkMzU1BUOHFhWWQ0VF9hcFU1Rjl2dHZlaVRaekl6RjgwLUM5clE2ekV4bGFONWJ3ZzVxbW56YVFDdWg1V09Ob19vVDFTZjlnQnpaM3Z5TE1rOTdJc3l4WVlMNUhWNi1zc0JNUm9CblU1YmJ3dE53Wk40OURuNjEyLU1qYU4yX2hDZW9WXy1fd0pDU1BENkZpZHlhT1RHcE5CR0FwWTlOMlJ2NnBzQm9pbDdEX252b2ljWGVZOFE?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
 
 ---
 
@@ -102,6 +102,14 @@ permalink: /news/stroke/
 2026-08-29
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMikgFBVV95cUxORkpKck1vTGtIcGRYSlNnX0VFVkNrN3VLWjFoM1hsU28wbi13RUU1dGp4RW9FZnFlRnZHc2lrTU5iNmUyMGRJakxkZ0dHdjcyYWQ2TEQ2emZ5YzVBX1FjUWhSeHJtai1Zel92M1FmRGF2cnRvMXFRQU1GYjdIVHA5Y3owNndEZFhPYUdIc1IwWVNrZw?oc=5)
+
+---
+
+### [Statine e colesterolo dopo i 70 anni: quando servono davvero contro l'infarto e i rischi da non sottovalutare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
+
+2026-08-29
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
 
 ---
 

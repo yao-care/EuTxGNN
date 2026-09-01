@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### ["Übermenschliche" Technologie: KI erkennt Herzleiden innerhalb von Sekunden](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
+
+2026-09-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+
+來源：[n-tv.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
+
+---
 
 ### [Perché l’emicrania colpisce in modo così diverso? La risposta cercata nel DNA di 2,5 milioni di persone](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
 
 2026-09-01 <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
-
----
-
-### [Bahnbrechend: Herzkrankheiten mit KI in zwei Sekunden erkennbar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
 
 ---
 
@@ -86,17 +86,9 @@ permalink: /news/rimegepant/
 
 ---
 
-### [Il caldo passa, l’ansia resta: così l’estate estrema entra nella nostra mente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
-
----
-
 ### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-08-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 

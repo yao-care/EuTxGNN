@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
-
-### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
-
-2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
-
----
-
-### [AstraZeneca, ipertensione non controllata o resistente al trattamento: baxdrostat efficace a 52 settimane - Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
-
-2026-09-01 <span class="news-indication-tag">ipertensione</span>
-
-來源：[Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [KI-Diagnose von Bluthochdruck und Diabetes aus 5-Sekunden-Face-Videos - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
 
 2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
-
----
-
-### [AI-based diagnosis of hypertension and diabetes from a single facial video - European Society of Cardiology](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM05idFhzSlNTTEllRzVmTERudlBRT0YxdDhUdFdlbVBXa2NUamdtbmcwa3BKd0ZvTHR0Wk5QU2NIZmt4X05tTDg4d2VhandwWURaeTBPWkx4MWQyZURLZGppelRNdHA0aGNkYUIyLXU1cUdpNE9UQUNhbDRWSmpGQkF0X1h0UVdOaTlHeU9Mb3c4ZGVjeGMzRnVoS1R5Z2k4NkNiTUVTSXF0ajdpRkRZMld1d2lwVnIzcVhnSlZSTkJ1Undl?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
-
-來源：[European Society of Cardiology](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM05idFhzSlNTTEllRzVmTERudlBRT0YxdDhUdFdlbVBXa2NUamdtbmcwa3BKd0ZvTHR0Wk5QU2NIZmt4X05tTDg4d2VhandwWURaeTBPWkx4MWQyZURLZGppelRNdHA0aGNkYUIyLXU1cUdpNE9UQUNhbDRWSmpGQkF0X1h0UVdOaTlHeU9Mb3c4ZGVjeGMzRnVoS1R5Z2k4NkNiTUVTSXF0ajdpRkRZMld1d2lwVnIzcVhnSlZSTkJ1Undl?oc=5)
 
 ---
 
@@ -94,35 +70,27 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
-### [Stress proteins actively sustain joint inflammation in osteoarthritis, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
+### [Studie: CAR-T-Zellen bei schwerer rheumatoider Arthritis](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
-2026-08-31 <span class="news-indication-tag">arthritis</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
 ---
 
-### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli - Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
+### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
 
 2026-08-31 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
 
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
+來源：[futuroprossimo.it](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
 
 ---
 
-### [Drug used for arthritis shows promise against severe hair loss - Interesting Engineering](https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hXY0J1Mnpfekx4NVNtNGhxdDVJWFpBYnFXVTBEVXMzYzljNW45YUFVby15V3lORXpOelRXNUJaczFpVVI5T1NnZkZkcmp5WVJxaGphX1NNd3hJSnFtWTZmdnBGaWVRa2lJOFVBcFhYRHFnTzU0aEVYYlVPT0RkV1J1ckRzZw?oc=5)
+### [8 Common Food Preservatives Were Linked to High Blood Pressure — Here’s Where You’ll Find Them - Food & Wine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW92TmxkZHNvZjljblJNVVA4QWlCa1hBeTNIUkdGZWhqcy0tWGJTVTE4M2lxNlVUSkkxVDRHd0w3TnZtOEIyMGtCOWlfcjAzSlZPZV83em1INUNZa1haSmJnVENoQnlzX2pBemJzSXU3T0dwa2o1YlpWa283dFBIejdlZzNVTVFwMlJGNkJzNEF4eE93QTVzNWlRa1BXOWI3LU1JUkpaOEdXVlcxSmg4?oc=5)
 
-2026-08-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+2026-08-27 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hXY0J1Mnpfekx4NVNtNGhxdDVJWFpBYnFXVTBEVXMzYzljNW45YUFVby15V3lORXpOelRXNUJaczFpVVI5T1NnZkZkcmp5WVJxaGphX1NNd3hJSnFtWTZmdnBGaWVRa2lJOFVBcFhYRHFnTzU0aEVYYlVPT0RkV1J1ckRzZw?oc=5)
-
----
-
-### [Ipertensione e diabete: così l'intelligenza artificiale li scopre con un video del volto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
-
-2026-08-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
+來源：[Food & Wine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW92TmxkZHNvZjljblJNVVA4QWlCa1hBeTNIUkdGZWhqcy0tWGJTVTE4M2lxNlVUSkkxVDRHd0w3TnZtOEIyMGtCOWlfcjAzSlZPZV83em1INUNZa1haSmJnVENoQnlzX2pBemJzSXU3T0dwa2o1YlpWa283dFBIejdlZzNVTVFwMlJGNkJzNEF4eE93QTVzNWlRa1BXOWI3LU1JUkpaOEdXVlcxSmg4?oc=5)
 
 ---
 

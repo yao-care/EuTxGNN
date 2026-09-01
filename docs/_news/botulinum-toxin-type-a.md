@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
-
-2026-08-31 <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

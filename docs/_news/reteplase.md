@@ -54,11 +54,11 @@ permalink: /news/reteplase/
 
 ## 相關新聞（3 則）
 
-### [Bahnbrechend: Herzkrankheiten mit KI in zwei Sekunden erkennbar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
+### ["Übermenschliche" Technologie: KI erkennt Herzleiden innerhalb von Sekunden](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
 
-2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+2026-09-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
+來源：[n-tv.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /news/reteplase/
 
 ### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-08-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 

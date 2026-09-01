@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
-
-### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
-
-2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
-
----
-
-### [Diabetes: Probiotikum als vielversprechende Option zur Behandlung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1JXb3BFSDVQUGNtM0lWd1gtclpZNlpCOURsbWxISFlYMnU2VnUxYk5obmpEZDBIV2h0dFhaeHFHQ20wNFF0YUVzRUN1ajVFRjI1bm9jUFk1ZVBrX1NqZVdSNEQ1YzlXeTMwOVkxTm0yLXJGQjVJbUROVVE0SlFMUDFpcm5BS1Q5LU1PNkZnTm8yVDhCN2hXWDdyMmNYQ1VBcmNlOGJQdm8zOE9zdkZDekwwR2E5X0RwcmdQZEdqeVh1V28?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1JXb3BFSDVQUGNtM0lWd1gtclpZNlpCOURsbWxISFlYMnU2VnUxYk5obmpEZDBIV2h0dFhaeHFHQ20wNFF0YUVzRUN1ajVFRjI1bm9jUFk1ZVBrX1NqZVdSNEQ1YzlXeTMwOVkxTm0yLXJGQjVJbUROVVE0SlFMUDFpcm5BS1Q5LU1PNkZnTm8yVDhCN2hXWDdyMmNYQ1VBcmNlOGJQdm8zOE9zdkZDekwwR2E5X0RwcmdQZEdqeVh1V28?oc=5)
-
----
+## 相關新聞（12 則）
 
 ### [KI-Diagnose von Bluthochdruck und Diabetes aus 5-Sekunden-Face-Videos - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
 
 2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
+
+---
+
+### [Major update for anyone taking Atorvastatin and Simvastatin in UK - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+
+2026-09-01 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
 ---
 
@@ -86,19 +78,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [AI-based diagnosis of hypertension and diabetes from a single facial video - European Society of Cardiology](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM05idFhzSlNTTEllRzVmTERudlBRT0YxdDhUdFdlbVBXa2NUamdtbmcwa3BKd0ZvTHR0Wk5QU2NIZmt4X05tTDg4d2VhandwWURaeTBPWkx4MWQyZURLZGppelRNdHA0aGNkYUIyLXU1cUdpNE9UQUNhbDRWSmpGQkF0X1h0UVdOaTlHeU9Mb3c4ZGVjeGMzRnVoS1R5Z2k4NkNiTUVTSXF0ajdpRkRZMld1d2lwVnIzcVhnSlZSTkJ1Undl?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
-
-來源：[European Society of Cardiology](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM05idFhzSlNTTEllRzVmTERudlBRT0YxdDhUdFdlbVBXa2NUamdtbmcwa3BKd0ZvTHR0Wk5QU2NIZmt4X05tTDg4d2VhandwWURaeTBPWkx4MWQyZURLZGppelRNdHA0aGNkYUIyLXU1cUdpNE9UQUNhbDRWSmpGQkF0X1h0UVdOaTlHeU9Mb3c4ZGVjeGMzRnVoS1R5Z2k4NkNiTUVTSXF0ajdpRkRZMld1d2lwVnIzcVhnSlZSTkJ1Undl?oc=5)
-
----
-
 ### [Systemischer Lupus erythematodes oder Rheumatoider Arthritis: Frühe Hydroxychloroquin-Adhärenz, weni](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
 
 2026-09-01 <span class="news-indication-tag">arthritis</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
+
+---
+
+### [Studie: CAR-T-Zellen bei schwerer rheumatoider Arthritis](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
+
+2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
 ---
 
@@ -110,67 +102,35 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Statine und Demenz: Frühe Behandlung senkt Risiko um 15%](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVJMdTN2SHhnOVJMaXdBZHVGbVZwakFwUmpTeEFqRm5FaXhPTDNudHFDMmpSa1p3Smp1eXB2YXFNN2N3Y1RTZFlMVUJWbnNmTmM0ZUQyeW9wVUpnNjU4MVNHQlMzU1lFZWJydFE5RWNHekhEVFczNVk3UDJ3aWFNRnkyRVVYRTdCcUNjNTMxRDdoV2RuMk9icUpISzF6S01GTk9aMGdkZVprMTF3aXVwUTBn?oc=5)
+### [Typ-2-Diabetes: Statine sind mit einem geringeren Demenzrisiko assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVc0SkMzWkQ1UVRBMkxHSEprR1A1SjdLMFJWd0lNUHdmaUszdTVmUTd1YUlCRUNuYXpfUnp1ZnE0elVtZ1VWamNvT2JFaE9LUWFOU1hoSFIxRU1EQVFuT1N0amJqR29EWjBwWHhRNWVGSEFGZmQ0SUE5WXNDMExULUY1WmljcElRZ2dSY0lVZUxETk14b05KUUxWREhSZVlzZUFV?oc=5)
 
 2026-08-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVJMdTN2SHhnOVJMaXdBZHVGbVZwakFwUmpTeEFqRm5FaXhPTDNudHFDMmpSa1p3Smp1eXB2YXFNN2N3Y1RTZFlMVUJWbnNmTmM0ZUQyeW9wVUpnNjU4MVNHQlMzU1lFZWJydFE5RWNHekhEVFczNVk3UDJ3aWFNRnkyRVVYRTdCcUNjNTMxRDdoV2RuMk9icUpISzF6S01GTk9aMGdkZVprMTF3aXVwUTBn?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVc0SkMzWkQ1UVRBMkxHSEprR1A1SjdLMFJWd0lNUHdmaUszdTVmUTd1YUlCRUNuYXpfUnp1ZnE0elVtZ1VWamNvT2JFaE9LUWFOU1hoSFIxRU1EQVFuT1N0amJqR29EWjBwWHhRNWVGSEFGZmQ0SUE5WXNDMExULUY1WmljcElRZ2dSY0lVZUxETk14b05KUUxWREhSZVlzZUFV?oc=5)
 
 ---
 
-### [Stress proteins actively sustain joint inflammation in osteoarthritis, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
-
----
-
-### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli - Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
+### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
 
 2026-08-31 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
 
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
+來源：[futuroprossimo.it](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
 
 ---
 
-### [Vinculan el tratamiento precoz con estatinas a un menor riesgo de demencia en diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
+### [Vinculan el tratamiento precoz con estatinas a un menor riesgo de demencia en diabetes tipo 2](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
 
 2026-08-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
 
 ---
 
-### [The scale told a similar story across three diets. The liver told a different one](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXY4czdNQkNURmlrZEJMaUh4d1JkRkV1N1E2Vlpsb2J0alhwcVVwdXpmc2YybGNrVzNpdS1oTm1sMGxMMWZBVnFrUDV6ejJndEw0T2JZWTZETEd3VmotSFVtWFJBajBBeU1NcjFkRjlMM3B0MEljbnUtcmZpQm1mUDVxVnNmdDNoMWFqYWdkdVpoNTlDQnBtZ2tiX1JxNkk3TF9xUDlqYVkzQngtNkdOQWtScVk1eG5ubnJTRkdkdUVQd0toQUpz?oc=5)
+### [Typ-2-Diabetes: Neue Kapsel normalisiert Blutzucker in einer Woche - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmlWWUtPOW1DMUlwV0l0N2V1LXFEbGFyV0s3UG1yR05WaEJRcDRwRU9iZEdvOTk1OHVyVmFwRmZUXzNKeHlKal9OY19iZmx0TUw4T1FKQVY0a21lWkRMMkVnQ0NwQk5YNUFfV2Y3d0xDNFJWanVGS1Z5TEdwRm9JLWRzaW5za0RRVmRzbnNSNTQwY2ZTaXZBYWszb1IxUWtMNl95SzNBTWdxaEtFMFEzOWgxNWc?oc=5)
 
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+2026-08-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXY4czdNQkNURmlrZEJMaUh4d1JkRkV1N1E2Vlpsb2J0alhwcVVwdXpmc2YybGNrVzNpdS1oTm1sMGxMMWZBVnFrUDV6ejJndEw0T2JZWTZETEd3VmotSFVtWFJBajBBeU1NcjFkRjlMM3B0MEljbnUtcmZpQm1mUDVxVnNmdDNoMWFqYWdkdVpoNTlDQnBtZ2tiX1JxNkk3TF9xUDlqYVkzQngtNkdOQWtScVk1eG5ubnJTRkdkdUVQd0toQUpz?oc=5)
-
----
-
-### [Drug used for arthritis shows promise against severe hair loss - Interesting Engineering](https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hXY0J1Mnpfekx4NVNtNGhxdDVJWFpBYnFXVTBEVXMzYzljNW45YUFVby15V3lORXpOelRXNUJaczFpVVI5T1NnZkZkcmp5WVJxaGphX1NNd3hJSnFtWTZmdnBGaWVRa2lJOFVBcFhYRHFnTzU0aEVYYlVPT0RkV1J1ckRzZw?oc=5)
-
-2026-08-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hXY0J1Mnpfekx4NVNtNGhxdDVJWFpBYnFXVTBEVXMzYzljNW45YUFVby15V3lORXpOelRXNUJaczFpVVI5T1NnZkZkcmp5WVJxaGphX1NNd3hJSnFtWTZmdnBGaWVRa2lJOFVBcFhYRHFnTzU0aEVYYlVPT0RkV1J1ckRzZw?oc=5)
-
----
-
-### [Ipertensione e diabete: così l'intelligenza artificiale li scopre con un video del volto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
-
-2026-08-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
-
----
-
-### [I walked for 15 minutes after every meal for a month – the effects were immediate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFRsNExhZzdtYlQ1ek1LZlU0REpLX3hybEprMjRhOHI0MjVWQjZxZ01ITjdTTW9iQ2hMYXl0em4xQ3lzS1RxSHBXc0ZqSkZndlJKeFRiZHl3bVJZLTFHZHdhb3lSTTl4TEk5eUFUSkEtTU5vTnUwNE5wSGs4OWkxNVYwbml4YXlmNVh6c0JuYWdIbTJiMDIwdWRiU1lwOEoxZUdsbzk5MFZqQXJmRHBrbzRNQnR4NGtpT0VaZ2Jfam1xSkF1MGREenh1Wld6NEdDNXRlLVBiMGtBQQ?oc=5)
-
-2026-08-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFRsNExhZzdtYlQ1ek1LZlU0REpLX3hybEprMjRhOHI0MjVWQjZxZ01ITjdTTW9iQ2hMYXl0em4xQ3lzS1RxSHBXc0ZqSkZndlJKeFRiZHl3bVJZLTFHZHdhb3lSTTl4TEk5eUFUSkEtTU5vTnUwNE5wSGs4OWkxNVYwbml4YXlmNVh6c0JuYWdIbTJiMDIwdWRiU1lwOEoxZUdsbzk5MFZqQXJmRHBrbzRNQnR4NGtpT0VaZ2Jfam1xSkF1MGREenh1Wld6NEdDNXRlLVBiMGtBQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmlWWUtPOW1DMUlwV0l0N2V1LXFEbGFyV0s3UG1yR05WaEJRcDRwRU9iZEdvOTk1OHVyVmFwRmZUXzNKeHlKal9OY19iZmx0TUw4T1FKQVY0a21lWkRMMkVnQ0NwQk5YNUFfV2Y3d0xDNFJWanVGS1Z5TEdwRm9JLWRzaW5za0RRVmRzbnNSNTQwY2ZTaXZBYWszb1IxUWtMNl95SzNBTWdxaEtFMFEzOWgxNWc?oc=5)
 
 ---
 

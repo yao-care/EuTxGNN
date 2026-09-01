@@ -3,7 +3,7 @@ layout: default
 title: "emicrania（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
+description: "emicrania（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
+<strong>emicrania（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,7 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Perché l’emicrania colpisce in modo così diverso? La risposta cercata nel DNA di 2,5 milioni di persone](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
 
@@ -92,14 +92,6 @@ permalink: /news/migraine/
 2026-08-31
 
 來源：[news-medical.net](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaU5yQnJjTkNXQ0paWEhGTnJCcC1HSFQ4RE9UREdBNjJaS2trWlUwbkdFY1FBcGlfWFdhN1BrUFFfTlBFTzlMWUNZdzFiZ3NWQXMyNEwwSW9fWTdLZm5PcEtPOW16eEY0elRQaXNGYXY2dUVHcTBNbEtwSmZ6bUg3cXJBWXFndEtiVUFJQkQ3Ny11ZGtpd3k4UXJ2RjZYS1A0Qm85aTNuWmRTQnl0N01HQ2hnVE8wck1FN1MtYUVfNGliLWd0XzEwbXBR?oc=5)
-
----
-
-### [Il caldo passa, l’ansia resta: così l’estate estrema entra nella nostra mente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
-
-2026-08-31
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
+
+### [Sclerosi multipla, globuli rossi per “rieducare” il sistema immunitario](https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2J3eTI3dzVsalFVNkxnZHZzZllXc3VySHZNVzlYbGdPRlBGSU5FWXhPTERMM3E1U0RiOGE0VEZzMWExT2MyWVE4SHdkTWU5ZUpmaFd4Nmt3QTZ0RG5SUEs1UjlFOURpYTBHY0RPd2JPZW81dW9WSnEyVExuM0tZU01hYmFrckJOaXlXcEx2bl82bng1VjZLbGlobDNCclhtUm41amJUdklpWjlnbnZVdjlfOVZkZUh2Ny12WkU4Q0pPbEhkWFln?oc=5)
+
+2026-09-01 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2J3eTI3dzVsalFVNkxnZHZzZllXc3VySHZNVzlYbGdPRlBGSU5FWXhPTERMM3E1U0RiOGE0VEZzMWExT2MyWVE4SHdkTWU5ZUpmaFd4Nmt3QTZ0RG5SUEs1UjlFOURpYTBHY0RPd2JPZW81dW9WSnEyVExuM0tZU01hYmFrckJOaXlXcEx2bl82bng1VjZLbGlobDNCclhtUm41amJUdklpWjlnbnZVdjlfOVZkZUh2Ny12WkU4Q0pPbEhkWFln?oc=5)
+
+---
 
 ### [Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUV5ZTMzRXM5eThMN0xSNS1udDhFaXFITXFKQVdKMUVKSWtkMTBkZ1hqd3paZGhEcW9Qckh6Zl9qaGk3cFAteEtLV3Fkd0hZQmlITWFVMFB6Y3NBclRCMDhXeWxYWkpVU1ZKeHcySW95MlB4bVAzN1RwY2tiU2RVcDcycEFtUQ?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [NHS confirms major vaccine rollout for pensioners aged between 65 and 74 - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n0gGHAUFVX3lxTFBETXdNdU9LRlhlc2phdVo5MXluZS1Yam5Id2RTbkRGRS1IeDM4UEQzdG5VTnc1WUtoMVU2dHR5SHlveUExaEhpYUE5cHBkRzVLQ2s3WWxBTjM0UkVpYUpKdVBETE1lQVdvRTVuM2FPRkJBQjdPVmJJNjc5VWFnYzVXTlRiLXNBRQ?oc=5)
+### [NHS confirms major vaccine rollout for pensioners aged between 65 and 74 - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n?oc=5)
 
 2026-09-01 <span class="news-indication-tag">MS</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n0gGHAUFVX3lxTFBETXdNdU9LRlhlc2phdVo5MXluZS1Yam5Id2RTbkRGRS1IeDM4UEQzdG5VTnc1WUtoMVU2dHR5SHlveUExaEhpYUE5cHBkRzVLQ2s3WWxBTjM0UkVpYUpKdVBETE1lQVdvRTVuM2FPRkJBQjdPVmJJNjc5VWFnYzVXTlRiLXNBRQ?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/peginterferon-alfa-2a/
 2026-09-01 <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ieVVDbWxmalM5ZVFNZHZuMDczYjZvS2lSWmNHZW5seUJHYkItYWRzblpWYkJrcVg0bnBBZ2Y0YUphUk42S0pDeHJFaw?oc=5)
+
+---
+
+### [McDonald Kriterien 2024 ermöglichen eine frühe MS-Diagnose - Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxPYUdlN2p4ZGNGZ0xzYmhhenlPUjd6MzdRWms4MFB1UEZkMGt4QU5NTW94Rm41cDF1ZzBBOGYzeGZlVUttLXhFaHZRZmNLRWYxVERIamhDSllNWWVhWENBTUR2ZUNpWHU0d1B5SC1yc2xQaGRhVmZ1NGtsSkx3UDd5aGd6NXhiZkVTRURSeDhYY09KMkU1enpJcDBmS1RLdw?oc=5)
+
+2026-09-01 <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxPYUdlN2p4ZGNGZ0xzYmhhenlPUjd6MzdRWms4MFB1UEZkMGt4QU5NTW94Rm41cDF1ZzBBOGYzeGZlVUttLXhFaHZRZmNLRWYxVERIamhDSllNWWVhWENBTUR2ZUNpWHU0d1B5SC1yc2xQaGRhVmZ1NGtsSkx3UDd5aGd6NXhiZkVTRURSeDhYY09KMkU1enpJcDBmS1RLdw?oc=5)
 
 ---
 
@@ -94,6 +110,14 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [GLP-1 weight loss drugs effective even at low starter doses](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
+
+2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
+
+---
+
 ### [There are hidden benefits to the shingles vaccine but timing is key - The Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXh6YjJfcl9UUDRaRjhNV2kxOW5GWWVCXzZKeGxOMzVsc1dNWWlfeE5fOEJ6c3VCcHNpenRZa0VCMW1iRURHdThENm9tbDZXZVUwZUxyUDJEQTVuUE80SjE5NGxOblpDQ1IxSmowU3J4ZTdHYzB3T090NmhjZmVYWDR6RlRFNzVhRmtGdVNjcDFjVWVhQUcyb29ZTGUtczNBWTczb2dDSDJhYzFOREpOUnVZN2RVX0lpS1NhSnk2NDg4TlJQZmpDbWh3?oc=5)
 
 2026-08-31 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -110,11 +134,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Statines : le médicament ne réduit pas que le cholestérol pour ces patients](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
+### [Statines : le médicament ne réduit pas que le cholestérol pour ces patients - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
 
-2026-08-31 <span class="news-indication-tag">MS</span>
+2026-08-31 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
-來源：[pourquoidocteur.fr](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
 
 ---
 
@@ -134,35 +158,19 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Experts call for safer weight loss as concerns grow over GLP-1 use](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
+### [Hypermobility - the little-known 'bendy disease' that causes pain and fatigue](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92Y1JGTk54dkEtR2NMcGF3OXpSc3FoNnNFMFp1bFdyc1VSd18zcXNDOENmR3pGdDNXMms0N0ZKTDdmQ3hZQUFsY2U1SVlvcjJWZDNnZ2RaWnh6ZS15?oc=5)
 
-2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-27 <span class="news-indication-tag">MS</span>
 
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
-
----
-
-### [Deep Sleep Brain Waves Offer Protection Against Alzheimer’s, Shows New Research](https://news.google.com/rss/articles/CBMingFBVV95cUxOOVRUU3ZaZWNCa2kxTFVXY1ZCSkJMSGFUVzlvSnZPSGhzMmdYZnQwLVRfN1c4Y1kxSkdSXzByTW1xVjNrY0FUQ2o3LTJKay05UUIzOWRSOGN2ZXY2QzZwbEoxWWt0a1BuRGZoSFFkaWJtWWRvZ1pYc2pqaF9pRUdNOXdQWU9tQjBidHBMNFFjbEtpOWZoTUVYcG54a0ZOUQ?oc=5)
-
-2026-08-29 <span class="news-indication-tag">MS</span>
-
-來源：[goodnewsnetwork.org](https://news.google.com/rss/articles/CBMingFBVV95cUxOOVRUU3ZaZWNCa2kxTFVXY1ZCSkJMSGFUVzlvSnZPSGhzMmdYZnQwLVRfN1c4Y1kxSkdSXzByTW1xVjNrY0FUQ2o3LTJKay05UUIzOWRSOGN2ZXY2QzZwbEoxWWt0a1BuRGZoSFFkaWJtWWRvZ1pYc2pqaF9pRUdNOXdQWU9tQjBidHBMNFFjbEtpOWZoTUVYcG54a0ZOUQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92Y1JGTk54dkEtR2NMcGF3OXpSc3FoNnNFMFp1bFdyc1VSd18zcXNDOENmR3pGdDNXMms0N0ZKTDdmQ3hZQUFsY2U1SVlvcjJWZDNnZ2RaWnh6ZS15?oc=5)
 
 ---
 
 ### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-08-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
-
----
-
-### [Due persone sono morte di morbillo negli Stati Uniti: sono le prime nel 2026 - Il Post](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUllczEwV0JlZkhjZjRIRUIySk5MM0dVOGpORmljOUVHVGk2Yl9aUnc5WFI0OXZLcktmMnItZHg2Z090RGx6WlRzdXB5SXRZQVN4S1R6ZFFRMHFQN2FsNndWUU1OU09FUDVUT0R5OF9mZ3JTbkZRNHZPbDJ0UEhrbUhzcw?oc=5)
-
-2026-08-25 <span class="news-indication-tag">MS</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUllczEwV0JlZkhjZjRIRUIySk5MM0dVOGpORmljOUVHVGk2Yl9aUnc5WFI0OXZLcktmMnItZHg2Z090RGx6WlRzdXB5SXRZQVN4S1R6ZFFRMHFQN2FsNndWUU1OU09FUDVUT0R5OF9mZ3JTbkZRNHZPbDJ0UEhrbUhzcw?oc=5)
 
 ---
 

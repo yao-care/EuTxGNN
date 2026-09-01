@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（8 則）
 
 ### [Perché è così difficile non riprendere peso: il tessuto adiposo "ricorda" l'obesità anche dopo la dieta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0ZvVXlSaFZTSm1ESFNTVjNhWkpCRHE0Y0VBVklZaTFyNXRncnRoeXJkZmpvS1ZJNXkwdGVQVG5oeDZLQ2pQRUdaaHFyejZadG5iVVVtTTdQOWRudExEN0NOWEp1QlBfOHVFdzRzY2M4QkFPbXlpTk9MMlZtSDRETXNpOTl2SnlTaERWVVh0cktiTWxMWWN1WUlEQ0I3czdtQnJjWkI0WTM1c2JXWWgzRkZUTWVlQm84N0dsR2x1dmVobGxzY2NYOUcwQ0x4UmJqNFluaVk1WGt2bkh3RW9KMzhHWjdrSEFhcWZCQ1ZGZzNUdw?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/ziconotide/
 2026-09-01 <span class="news-indication-tag">Adipositas</span>
 
 來源：[E-HEALTH-COM](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ25fQ3NmcmJuNUZRVXJEZ2QtWHRpNUdxVlAzN3ZNS0tYek5CSEdxTFk3S2I2a3pXdEMtMk5JOHB3cmg1czFDbGdrZG9nOEF5Um1UNFBHMWx1SjN5UUdzTlpjRzgwbk1qQ2M2UG1yU1YtUW41VjF0cW5qWXloQUhPMjB4NXJGX0pmS0NOeXNrRFRWMFo2UWxOaG5BTm5HS1RqMnJxdQ?oc=5)
-
----
-
-### [Perder peso no es solo cuestión de disciplina: tu cuerpo “recuerda la obesidad” y eso no se arregla con fuerza de voluntad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWtrWUtweHZMSE92NDJYblFTZHhnS3V2SmJFR3FYcU14RWllTmFIaUJoWTVLN0h3R3R5ZnRtTWdCUEwzNHlfLVJhMU4tMmtTTnViSnRLWklvZ1ZoLUxoazlHb1I4RE81b0xFeXYtWFhrRlg5SW9TMGwxUjVPVlE3bGVfdE5hTUdfdFBOYkVnOHVKU2NncGhoNjRfZ004YnItajgzR3A0dlQ3NUdET19salQtS0RGTGxVdTllUks5MWxldzZXd2t4NFhKNC1xbkh30gHWAUFVX3lxTE5UMjRQMjM5NHprazNyYVhfNGR3M3RpS3lzaEYtVWk4b3RuZ0p4MHJ6RzdrMDlma3FsM3owNXlQajMxQUEyczhjbXM4NWEtV3UzbVh1TFoyekt2aVRKN0VoMXpncnc4SnEycW5xbllHTzhqTFNscEZIOTRiU295NW82VmxQczVtbnlHZGhMTlBFYzVMQWZYRk5FQTFraHR3OW1pSEt0MV9XWkgzQm5YR0hTeWZMb1p0WHpxb3YyRjZlUkRfSjYzN1lXRnk2c2FKLVhkMktLVFE?oc=5)
-
-2026-09-01 <span class="news-indication-tag">obesidad</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWtrWUtweHZMSE92NDJYblFTZHhnS3V2SmJFR3FYcU14RWllTmFIaUJoWTVLN0h3R3R5ZnRtTWdCUEwzNHlfLVJhMU4tMmtTTnViSnRLWklvZ1ZoLUxoazlHb1I4RE81b0xFeXYtWFhrRlg5SW9TMGwxUjVPVlE3bGVfdE5hTUdfdFBOYkVnOHVKU2NncGhoNjRfZ004YnItajgzR3A0dlQ3NUdET19salQtS0RGTGxVdTllUks5MWxldzZXd2t4NFhKNC1xbkh30gHWAUFVX3lxTE5UMjRQMjM5NHprazNyYVhfNGR3M3RpS3lzaEYtVWk4b3RuZ0p4MHJ6RzdrMDlma3FsM3owNXlQajMxQUEyczhjbXM4NWEtV3UzbVh1TFoyekt2aVRKN0VoMXpncnc4SnEycW5xbllHTzhqTFNscEZIOTRiU295NW82VmxQczVtbnlHZGhMTlBFYzVMQWZYRk5FQTFraHR3OW1pSEt0MV9XWkgzQm5YR0hTeWZMb1p0WHpxb3YyRjZlUkRfSjYzN1lXRnk2c2FKLVhkMktLVFE?oc=5)
 
 ---
 
@@ -94,6 +86,22 @@ permalink: /news/ziconotide/
 
 ---
 
+### [GLP-1 weight loss drugs effective even at low starter doses](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
+
+2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
+
+---
+
+### [Immune cells may have a biological memory that makes weight loss harder after obesity - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUtjd1BVdXlpb1V0ZjcyMDJualV4X2ZqN0EyMmlFbXUtZVNQb3ZBeTAtaW5scC1JdnJvOG92SHNOY3lOb0ZBWUUxZ3ZmTkNWUVlDSTRhLVc2ZlhySEM5eG5TUG9ieTk0OXFxNXNuMTZHV2h3eTdtbEtnQW9fdWpoQkxnY0lDLUw5?oc=5)
+
+2026-08-31 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUtjd1BVdXlpb1V0ZjcyMDJualV4X2ZqN0EyMmlFbXUtZVNQb3ZBeTAtaW5scC1JdnJvOG92SHNOY3lOb0ZBWUUxZ3ZmTkNWUVlDSTRhLVc2ZlhySEM5eG5TUG9ieTk0OXFxNXNuMTZHV2h3eTdtbEtnQW9fdWpoQkxnY0lDLUw5?oc=5)
+
+---
+
 ### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
 
 2026-08-31 <span class="news-indication-tag">Adipositas</span>
@@ -102,43 +110,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Das steckt hinter dem Jo-Jo-Effekt: Adipositas verändert Immunzellen – selbst nach erfolgreicher Diät - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
-
----
-
 ### [A personalized elimination diet changed the gut microbiome in people with migraine](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaU5yQnJjTkNXQ0paWEhGTnJCcC1HSFQ4RE9UREdBNjJaS2trWlUwbkdFY1FBcGlfWFdhN1BrUFFfTlBFTzlMWUNZdzFiZ3NWQXMyNEwwSW9fWTdLZm5PcEtPOW16eEY0elRQaXNGYXY2dUVHcTBNbEtwSmZ6bUg3cXJBWXFndEtiVUFJQkQ3Ny11ZGtpd3k4UXJ2RjZYS1A0Qm85aTNuWmRTQnl0N01HQ2hnVE8wck1FN1MtYUVfNGliLWd0XzEwbXBR?oc=5)
 
 2026-08-31 <span class="news-indication-tag">migraine</span>
 
 來源：[news-medical.net](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaU5yQnJjTkNXQ0paWEhGTnJCcC1HSFQ4RE9UREdBNjJaS2trWlUwbkdFY1FBcGlfWFdhN1BrUFFfTlBFTzlMWUNZdzFiZ3NWQXMyNEwwSW9fWTdLZm5PcEtPOW16eEY0elRQaXNGYXY2dUVHcTBNbEtwSmZ6bUg3cXJBWXFndEtiVUFJQkQ3Ny11ZGtpd3k4UXJ2RjZYS1A0Qm85aTNuWmRTQnl0N01HQ2hnVE8wck1FN1MtYUVfNGliLWd0XzEwbXBR?oc=5)
-
----
-
-### [The scale told a similar story across three diets. The liver told a different one](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXY4czdNQkNURmlrZEJMaUh4d1JkRkV1N1E2Vlpsb2J0alhwcVVwdXpmc2YybGNrVzNpdS1oTm1sMGxMMWZBVnFrUDV6ejJndEw0T2JZWTZETEd3VmotSFVtWFJBajBBeU1NcjFkRjlMM3B0MEljbnUtcmZpQm1mUDVxVnNmdDNoMWFqYWdkdVpoNTlDQnBtZ2tiX1JxNkk3TF9xUDlqYVkzQngtNkdOQWtScVk1eG5ubnJTRkdkdUVQd0toQUpz?oc=5)
-
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXY4czdNQkNURmlrZEJMaUh4d1JkRkV1N1E2Vlpsb2J0alhwcVVwdXpmc2YybGNrVzNpdS1oTm1sMGxMMWZBVnFrUDV6ejJndEw0T2JZWTZETEd3VmotSFVtWFJBajBBeU1NcjFkRjlMM3B0MEljbnUtcmZpQm1mUDVxVnNmdDNoMWFqYWdkdVpoNTlDQnBtZ2tiX1JxNkk3TF9xUDlqYVkzQngtNkdOQWtScVk1eG5ubnJTRkdkdUVQd0toQUpz?oc=5)
-
----
-
-### [Experts call for safer weight loss as concerns grow over GLP-1 use](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
-
-2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
-
----
-
-### [Il caldo passa, l’ansia resta: così l’estate estrema entra nella nostra mente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmZQYllTaVBYQ2xWZlljT2VjR0VxZnBKVXZ2TDhGLWhTYk9LbmVvaXhYa1NOaldLSjFDaHpxQmdGUFA0Z0R1b2ZaV1d1bWlHMXI0c1VYeUx5VTUyU2lqZ3pLVlZPY0tXSV9DUnAtdllna3FpMy1sU1ZCV21xeE1OTHc4WjJZRlFvM3JUSENTYjJRTW9JaXhvdm9qbGJ1WU9aWmFNYUMycWVaVXpCMkxKRkNBelJZSnZ0dkxlMVh6TG1lUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
-
-### [Diabetes: Probiotikum als vielversprechende Option zur Behandlung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1JXb3BFSDVQUGNtM0lWd1gtclpZNlpCOURsbWxISFlYMnU2VnUxYk5obmpEZDBIV2h0dFhaeHFHQ20wNFF0YUVzRUN1ajVFRjI1bm9jUFk1ZVBrX1NqZVdSNEQ1YzlXeTMwOVkxTm0yLXJGQjVJbUROVVE0SlFMUDFpcm5BS1Q5LU1PNkZnTm8yVDhCN2hXWDdyMmNYQ1VBcmNlOGJQdm8zOE9zdkZDekwwR2E5X0RwcmdQZEdqeVh1V28?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1JXb3BFSDVQUGNtM0lWd1gtclpZNlpCOURsbWxISFlYMnU2VnUxYk5obmpEZDBIV2h0dFhaeHFHQ20wNFF0YUVzRUN1ajVFRjI1bm9jUFk1ZVBrX1NqZVdSNEQ1YzlXeTMwOVkxTm0yLXJGQjVJbUROVVE0SlFMUDFpcm5BS1Q5LU1PNkZnTm8yVDhCN2hXWDdyMmNYQ1VBcmNlOGJQdm8zOE9zdkZDekwwR2E5X0RwcmdQZEdqeVh1V28?oc=5)
-
----
+## 相關新聞（11 則）
 
 ### [KI-Diagnose von Bluthochdruck und Diabetes aus 5-Sekunden-Face-Videos - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
 
 2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
+
+---
+
+### [Major update for anyone taking Atorvastatin and Simvastatin in UK - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+
+2026-09-01 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [AI-based diagnosis of hypertension and diabetes from a single facial video - European Society of Cardiology](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM05idFhzSlNTTEllRzVmTERudlBRT0YxdDhUdFdlbVBXa2NUamdtbmcwa3BKd0ZvTHR0Wk5QU2NIZmt4X05tTDg4d2VhandwWURaeTBPWkx4MWQyZURLZGppelRNdHA0aGNkYUIyLXU1cUdpNE9UQUNhbDRWSmpGQkF0X1h0UVdOaTlHeU9Mb3c4ZGVjeGMzRnVoS1R5Z2k4NkNiTUVTSXF0ajdpRkRZMld1d2lwVnIzcVhnSlZSTkJ1Undl?oc=5)
+### [La pastilla que imita los efectos del ejercicio avanza en humanos: así funciona el nuevo fármaco experimental](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFFMQWRZTHk2akFJbll0VGpESUVCZE9ZbWl2UnZJUXpudjFONm9tU2JkbEJVcHo5dHZtcTQ0U0dnd2Y4WHJDTG1YQ2hPU181ZTc2ejBjWjFacnhPUGdXTWJfRDVlaTVFZXhXcmJiTzFiMEJWMGJZeXJ6Ym5mN3FzVjFpM1hxd2kzelJORUpMZGZldW5GXzk1NXpYR0hRZVB5MVdEd0NneEZoVkg2b25zTlhzc1dhMlBVWHR2ZF93?oc=5)
 
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
+2026-09-01 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[European Society of Cardiology](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM05idFhzSlNTTEllRzVmTERudlBRT0YxdDhUdFdlbVBXa2NUamdtbmcwa3BKd0ZvTHR0Wk5QU2NIZmt4X05tTDg4d2VhandwWURaeTBPWkx4MWQyZURLZGppelRNdHA0aGNkYUIyLXU1cUdpNE9UQUNhbDRWSmpGQkF0X1h0UVdOaTlHeU9Mb3c4ZGVjeGMzRnVoS1R5Z2k4NkNiTUVTSXF0ajdpRkRZMld1d2lwVnIzcVhnSlZSTkJ1Undl?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFFMQWRZTHk2akFJbll0VGpESUVCZE9ZbWl2UnZJUXpudjFONm9tU2JkbEJVcHo5dHZtcTQ0U0dnd2Y4WHJDTG1YQ2hPU181ZTc2ejBjWjFacnhPUGdXTWJfRDVlaTVFZXhXcmJiTzFiMEJWMGJZeXJ6Ym5mN3FzVjFpM1hxd2kzelJORUpMZGZldW5GXzk1NXpYR0hRZVB5MVdEd0NneEZoVkg2b25zTlhzc1dhMlBVWHR2ZF93?oc=5)
 
 ---
 
@@ -94,59 +94,35 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Statine und Demenz: Frühe Behandlung senkt Risiko um 15%](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVJMdTN2SHhnOVJMaXdBZHVGbVZwakFwUmpTeEFqRm5FaXhPTDNudHFDMmpSa1p3Smp1eXB2YXFNN2N3Y1RTZFlMVUJWbnNmTmM0ZUQyeW9wVUpnNjU4MVNHQlMzU1lFZWJydFE5RWNHekhEVFczNVk3UDJ3aWFNRnkyRVVYRTdCcUNjNTMxRDdoV2RuMk9icUpISzF6S01GTk9aMGdkZVprMTF3aXVwUTBn?oc=5)
+### [Typ-2-Diabetes: Statine sind mit einem geringeren Demenzrisiko assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVc0SkMzWkQ1UVRBMkxHSEprR1A1SjdLMFJWd0lNUHdmaUszdTVmUTd1YUlCRUNuYXpfUnp1ZnE0elVtZ1VWamNvT2JFaE9LUWFOU1hoSFIxRU1EQVFuT1N0amJqR29EWjBwWHhRNWVGSEFGZmQ0SUE5WXNDMExULUY1WmljcElRZ2dSY0lVZUxETk14b05KUUxWREhSZVlzZUFV?oc=5)
 
 2026-08-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVJMdTN2SHhnOVJMaXdBZHVGbVZwakFwUmpTeEFqRm5FaXhPTDNudHFDMmpSa1p3Smp1eXB2YXFNN2N3Y1RTZFlMVUJWbnNmTmM0ZUQyeW9wVUpnNjU4MVNHQlMzU1lFZWJydFE5RWNHekhEVFczNVk3UDJ3aWFNRnkyRVVYRTdCcUNjNTMxRDdoV2RuMk9icUpISzF6S01GTk9aMGdkZVprMTF3aXVwUTBn?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVc0SkMzWkQ1UVRBMkxHSEprR1A1SjdLMFJWd0lNUHdmaUszdTVmUTd1YUlCRUNuYXpfUnp1ZnE0elVtZ1VWamNvT2JFaE9LUWFOU1hoSFIxRU1EQVFuT1N0amJqR29EWjBwWHhRNWVGSEFGZmQ0SUE5WXNDMExULUY1WmljcElRZ2dSY0lVZUxETk14b05KUUxWREhSZVlzZUFV?oc=5)
 
 ---
 
-### [Una píldora en fase de ensayo clínico recrea los efectos en nuestro cuerpo de hacer ejercicio físico](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTmltX1h6TXpHM1BCVWJqS2g1RWVWdlZEQlNFVWVtTzcxdHFudG1iZkg3N3FJakpKU1NxZl81Uk81WlpkR0Z0d3hCTHF1SVFNeHVrYWlUcVpRRzJkYVp1dU1TcUpJYjdZNHhEb0R1dlU4SzFHdEoxUC1Uc0h4bWVEVHlGOUJOU0FBYThIbnZJWmN6eWpEQ3ZzaGRidC1ieFotX09iRnZZdTlxQTc1RU9rWEdrVmlNR0xRWldST0o1WVpCTTR2M1lkWGlvYTVZaWliM0p2bHBiWDQtOWljelZ3bm94eHA1d1dUS1laczJB0gHuAUFVX3lxTE80dktVdzBZbWJFQXFzZnBVRFh3eV83ek1WczZKVnFsb0YxNHNwR2dOM2VxZmRQdzBpM3VCVjhSVDlNLVpUSTBjS3VFaEdKcFRndWg4N0dKNUNmTFFXMS1SaUZ0YTVqMktnYTZHQVNRTE9HdnR5VjFNRF9QdmNveHlwY1ktNlVJeW1EbUtKeDNWeEtidTRDdjFIRzJLc3E1eWZVOWl3SUhraGg4a2VBUDhtZkc0bnV4OVgxMXZSd3haOTAxR0pBVnI0dlhSWTVac3hqNWtMVkx2TEEyMndrRkNIbDJrWnk3Q1BzYTA0X1E?oc=5)
-
-2026-08-31 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[antena3.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTmltX1h6TXpHM1BCVWJqS2g1RWVWdlZEQlNFVWVtTzcxdHFudG1iZkg3N3FJakpKU1NxZl81Uk81WlpkR0Z0d3hCTHF1SVFNeHVrYWlUcVpRRzJkYVp1dU1TcUpJYjdZNHhEb0R1dlU4SzFHdEoxUC1Uc0h4bWVEVHlGOUJOU0FBYThIbnZJWmN6eWpEQ3ZzaGRidC1ieFotX09iRnZZdTlxQTc1RU9rWEdrVmlNR0xRWldST0o1WVpCTTR2M1lkWGlvYTVZaWliM0p2bHBiWDQtOWljelZ3bm94eHA1d1dUS1laczJB0gHuAUFVX3lxTE80dktVdzBZbWJFQXFzZnBVRFh3eV83ek1WczZKVnFsb0YxNHNwR2dOM2VxZmRQdzBpM3VCVjhSVDlNLVpUSTBjS3VFaEdKcFRndWg4N0dKNUNmTFFXMS1SaUZ0YTVqMktnYTZHQVNRTE9HdnR5VjFNRF9QdmNveHlwY1ktNlVJeW1EbUtKeDNWeEtidTRDdjFIRzJLc3E1eWZVOWl3SUhraGg4a2VBUDhtZkc0bnV4OVgxMXZSd3haOTAxR0pBVnI0dlhSWTVac3hqNWtMVkx2TEEyMndrRkNIbDJrWnk3Q1BzYTA0X1E?oc=5)
-
----
-
-### [Vinculan el tratamiento precoz con estatinas a un menor riesgo de demencia en diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
+### [Vinculan el tratamiento precoz con estatinas a un menor riesgo de demencia en diabetes tipo 2](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
 
 2026-08-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
 
 ---
 
 ### ['I was one of the first on Wegovy weight loss pill - the effects have been big' - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
 
-2026-08-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
 
 ---
 
-### [The scale told a similar story across three diets. The liver told a different one](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXY4czdNQkNURmlrZEJMaUh4d1JkRkV1N1E2Vlpsb2J0alhwcVVwdXpmc2YybGNrVzNpdS1oTm1sMGxMMWZBVnFrUDV6ejJndEw0T2JZWTZETEd3VmotSFVtWFJBajBBeU1NcjFkRjlMM3B0MEljbnUtcmZpQm1mUDVxVnNmdDNoMWFqYWdkdVpoNTlDQnBtZ2tiX1JxNkk3TF9xUDlqYVkzQngtNkdOQWtScVk1eG5ubnJTRkdkdUVQd0toQUpz?oc=5)
+### [Typ-2-Diabetes: Neue Kapsel normalisiert Blutzucker in einer Woche - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmlWWUtPOW1DMUlwV0l0N2V1LXFEbGFyV0s3UG1yR05WaEJRcDRwRU9iZEdvOTk1OHVyVmFwRmZUXzNKeHlKal9OY19iZmx0TUw4T1FKQVY0a21lWkRMMkVnQ0NwQk5YNUFfV2Y3d0xDNFJWanVGS1Z5TEdwRm9JLWRzaW5za0RRVmRzbnNSNTQwY2ZTaXZBYWszb1IxUWtMNl95SzNBTWdxaEtFMFEzOWgxNWc?oc=5)
 
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+2026-08-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXY4czdNQkNURmlrZEJMaUh4d1JkRkV1N1E2Vlpsb2J0alhwcVVwdXpmc2YybGNrVzNpdS1oTm1sMGxMMWZBVnFrUDV6ejJndEw0T2JZWTZETEd3VmotSFVtWFJBajBBeU1NcjFkRjlMM3B0MEljbnUtcmZpQm1mUDVxVnNmdDNoMWFqYWdkdVpoNTlDQnBtZ2tiX1JxNkk3TF9xUDlqYVkzQngtNkdOQWtScVk1eG5ubnJTRkdkdUVQd0toQUpz?oc=5)
-
----
-
-### [Ipertensione e diabete: così l'intelligenza artificiale li scopre con un video del volto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
-
-2026-08-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
-
----
-
-### [I walked for 15 minutes after every meal for a month – the effects were immediate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFRsNExhZzdtYlQ1ek1LZlU0REpLX3hybEprMjRhOHI0MjVWQjZxZ01ITjdTTW9iQ2hMYXl0em4xQ3lzS1RxSHBXc0ZqSkZndlJKeFRiZHl3bVJZLTFHZHdhb3lSTTl4TEk5eUFUSkEtTU5vTnUwNE5wSGs4OWkxNVYwbml4YXlmNVh6c0JuYWdIbTJiMDIwdWRiU1lwOEoxZUdsbzk5MFZqQXJmRHBrbzRNQnR4NGtpT0VaZ2Jfam1xSkF1MGREenh1Wld6NEdDNXRlLVBiMGtBQQ?oc=5)
-
-2026-08-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFRsNExhZzdtYlQ1ek1LZlU0REpLX3hybEprMjRhOHI0MjVWQjZxZ01ITjdTTW9iQ2hMYXl0em4xQ3lzS1RxSHBXc0ZqSkZndlJKeFRiZHl3bVJZLTFHZHdhb3lSTTl4TEk5eUFUSkEtTU5vTnUwNE5wSGs4OWkxNVYwbml4YXlmNVh6c0JuYWdIbTJiMDIwdWRiU1lwOEoxZUdsbzk5MFZqQXJmRHBrbzRNQnR4NGtpT0VaZ2Jfam1xSkF1MGREenh1Wld6NEdDNXRlLVBiMGtBQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmlWWUtPOW1DMUlwV0l0N2V1LXFEbGFyV0s3UG1yR05WaEJRcDRwRU9iZEdvOTk1OHVyVmFwRmZUXzNKeHlKal9OY19iZmx0TUw4T1FKQVY0a21lWkRMMkVnQ0NwQk5YNUFfV2Y3d0xDNFJWanVGS1Z5TEdwRm9JLWRzaW5za0RRVmRzbnNSNTQwY2ZTaXZBYWszb1IxUWtMNl95SzNBTWdxaEtFMFEzOWgxNWc?oc=5)
 
 ---
 
@@ -163,14 +139,6 @@ permalink: /news/semaglutide/
 2026-08-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWJXSkI0WE9pOE1pc2JTUTRwUWtMU19vSXN3WFc5SlBFWllyTmVFenRIWmZTdjVCZUV2bW5INFoxSmJDem0xa21XTEtmb0NFNlpTV1RmS0F3RWxiMlYwRHJQQTdLeS1yREdwODZuZC1iWTJ2V1IzTlozdzBSRUJBZmxZc1BZejhKelJCRFd6QnBnRHZqc1NDYkJlX2hVNHcwU0tMNThYel9kMGZIekpjYlBUb18tN016alJ2bGlMQnbSAdQBQVVfeXFMTVlaeUc3V0FWbkZ6aWhvTHJTNTBPNGpBdDNBcjBwenRhekdhckJFNklWOHZnRVNYU1k0dWU4czRtSURvZkdpZ2twZjI5dWVwMWlDb2p5bkIwX2NJVWg0ZFFhdHpPM2wwSUEzU3dMTVVJbU4yLW50aFFIa3N2cWFCVk0wSGpOenI1NVBsV09velJIdzc1NUdJQ0xYUGV4UkhuWjdNaVI4Si1NWWRyZXNKdloyUWRzQU9DNTZwc1ozVjFYUEZMZTg5ZWk4WUVoY040c280bXM?oc=5)
-
----
-
-### [People’s bodies are changing in the age of Ozempic. How are we meant to talk about it? - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNakR4eHR5VUZ5VXBZVHpmV0hWOGo5SmN2UW56RlluZDFTbXJSdWN5UnVPMnVEcVB3TnUxajdRN3V3ajJpaVFBQXFnNGtGNldoNUExUE11WkRlV3B2blM1b1ZXOWVPcE1JdWx5WjhyU2IxTk1OLVNSckFBamRnV0dUSzQ5ZGZkTVRoS1hhbXQ5QmxGeTA?oc=5)
-
-2026-08-25 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNakR4eHR5VUZ5VXBZVHpmV0hWOGo5SmN2UW56RlluZDFTbXJSdWN5UnVPMnVEcVB3TnUxajdRN3V3ajJpaVFBQXFnNGtGNldoNUExUE11WkRlV3B2blM1b1ZXOWVPcE1JdWx5WjhyU2IxTk1OLVNSckFBamRnV0dUSzQ5ZGZkTVRoS1hhbXQ5QmxGeTA?oc=5)
 
 ---
 

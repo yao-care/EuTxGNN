@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
+### ["Übermenschliche" Technologie: KI erkennt Herzleiden innerhalb von Sekunden](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
 
-2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+2026-09-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
+來源：[n-tv.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ permalink: /news/abemaciclib/
 
 ---
 
-### [Bahnbrechend: Herzkrankheiten mit KI in zwei Sekunden erkennbar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
+### [Studie: CAR-T-Zellen bei schwerer rheumatoider Arthritis](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
-2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
-
----
-
-### [Stress proteins actively sustain joint inflammation in osteoarthritis, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
 ---
 
@@ -94,25 +86,17 @@ permalink: /news/abemaciclib/
 
 ---
 
-### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli - Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
+### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
 
 2026-08-31 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
 
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
-
----
-
-### [Drug used for arthritis shows promise against severe hair loss - Interesting Engineering](https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hXY0J1Mnpfekx4NVNtNGhxdDVJWFpBYnFXVTBEVXMzYzljNW45YUFVby15V3lORXpOelRXNUJaczFpVVI5T1NnZkZkcmp5WVJxaGphX1NNd3hJSnFtWTZmdnBGaWVRa2lJOFVBcFhYRHFnTzU0aEVYYlVPT0RkV1J1ckRzZw?oc=5)
-
-2026-08-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hXY0J1Mnpfekx4NVNtNGhxdDVJWFpBYnFXVTBEVXMzYzljNW45YUFVby15V3lORXpOelRXNUJaczFpVVI5T1NnZkZkcmp5WVJxaGphX1NNd3hJSnFtWTZmdnBGaWVRa2lJOFVBcFhYRHFnTzU0aEVYYlVPT0RkV1J1ckRzZw?oc=5)
+來源：[futuroprossimo.it](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
 
 ---
 
 ### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-08-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 

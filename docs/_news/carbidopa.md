@@ -43,27 +43,27 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（4 則）
 
-### [Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
+### [Major update for anyone taking Atorvastatin and Simvastatin in UK - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
-2026-08-31 <span class="news-indication-tag">maladie de Parkinson</span>
+2026-09-01 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
-
----
-
-### [Dementia risk 'can be halved' with simple health change – according to doctor - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVVUWUhRLU9OcU8yODV4Nzd1dm12em81SUx2MC05YW1kalRPMGZ2YXZ1SkNpOTVHRW9nVks4M09rSkJqVnVNLWVLbFVvd0JlYWZWbGV2dmM2VDRTcmV2NnFkRGFPUUxGVXEzQWFBMTA5UFNNNFJ2UFJIX2ExRXhIVTM2UdIBiAFBVV95cUxNd0IzdlRicm1yaUpObi1YSEdWMllHY0liRFFaRHBuOExqc21TVWR5cktJN2w3WGl2Uy13ZlZWUC1mTXJsWHBfdnpHQ2lUQnpOeHJJNHRYejNVbm9TUzJ4bHhsQ0dKZGdrVmp2UDZibjFuS0VqS3NfNVFuTWpyQXdpcnlZazFhemF5?oc=5)
-
-2026-08-30 <span class="news-indication-tag">dementia</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVVUWUhRLU9OcU8yODV4Nzd1dm12em81SUx2MC05YW1kalRPMGZ2YXZ1SkNpOTVHRW9nVks4M09rSkJqVnVNLWVLbFVvd0JlYWZWbGV2dmM2VDRTcmV2NnFkRGFPUUxGVXEzQWFBMTA5UFNNNFJ2UFJIX2ExRXhIVTM2UdIBiAFBVV95cUxNd0IzdlRicm1yaUpObi1YSEdWMllHY0liRFFaRHBuOExqc21TVWR5cktJN2w3WGl2Uy13ZlZWUC1mTXJsWHBfdnpHQ2lUQnpOeHJJNHRYejNVbm9TUzJ4bHhsQ0dKZGdrVmp2UDZibjFuS0VqS3NfNVFuTWpyQXdpcnlZazFhemF5?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
 ---
 
-### [Women using HRT at lower risk of dementia, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
+### [Convertir des cellules cérébrales en neurones pour lutter contre les maladies neurodégénératives - Le Monde.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVRqa1JFalhVaG10bHhhMmpsQ2VUQXlpcDdmUFcxbndZa0hhUlVrXy1ZdUZVVF9uTUloX1pZOFNPeERSU3Y1TXRWM1RDVEdmd0hlY3liQW1YOFQzTVNhcFF6ekJ5Qk5JcHlLVmpITUFKMUZXdG96UkFBM01PTGhWeFN2X0RCNXFaNkozUWQ0VXhPbWNaNjBqUE1EdXJuYzhoX1hmcXJaM1pGUXBwNUltMHY1aHdWdlRLMGtCYXhXMlhqWXNaZjdWbDVjbm5qNkotSHZKUWhhdDkwVkswbFBHNHBZTDRZcWhTRTkxb0xHZmlwMDhWUjk5d2wzeTA?oc=5)
 
-2026-08-26 <span class="news-indication-tag">dementia</span>
+2026-09-01 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVRqa1JFalhVaG10bHhhMmpsQ2VUQXlpcDdmUFcxbndZa0hhUlVrXy1ZdUZVVF9uTUloX1pZOFNPeERSU3Y1TXRWM1RDVEdmd0hlY3liQW1YOFQzTVNhcFF6ekJ5Qk5JcHlLVmpITUFKMUZXdG96UkFBM01PTGhWeFN2X0RCNXFaNkozUWQ0VXhPbWNaNjBqUE1EdXJuYzhoX1hmcXJaM1pGUXBwNUltMHY1aHdWdlRLMGtCYXhXMlhqWXNaZjdWbDVjbm5qNkotSHZKUWhhdDkwVkswbFBHNHBZTDRZcWhTRTkxb0xHZmlwMDhWUjk5d2wzeTA?oc=5)
+
+---
+
+### [Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
+
+2026-08-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
 
 ---
 

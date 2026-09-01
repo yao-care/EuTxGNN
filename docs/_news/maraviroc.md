@@ -14,7 +14,7 @@ permalink: /news/maraviroc/
 ---
 
 <p class="key-answer" data-question="Maraviroc 有什麼相關新聞？">
-<strong>Maraviroc</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Maraviroc</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/maraviroc/
 <p><a href="{{ '/drugs/maraviroc/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（31 則）
+
+### [Krebs: Das Risiko steigt bei Jüngeren – und der mögliche Grund überrascht](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjJpZUJHTVdWc2psUHNLVlRaVENsQ2ROWmhtUlVUT05zdVZucDl0Tk5SY1RjTWtTUzFfcTlVd0lzSHMzRndrR1V4UTJ1Y0x2bHRSWHhOcWxMdzBzZ1BvWFFreHkxaDhUYXRmcjZZRVFfSmphNnlMaHNTMU9pWXlPNFZpcWM5Y0RQdFNGejNZblRMRnE2N3pVd19KTlhxbVJJUXlwd1pyYVVuS0kwNDRycTZ3bDgyVFNDYXluN0dpYkt2TTJMVHJHZGdMNjg?oc=5)
+
+2026-09-01 <span class="news-indication-tag">Krebs</span>
+
+來源：[futurezone.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjJpZUJHTVdWc2psUHNLVlRaVENsQ2ROWmhtUlVUT05zdVZucDl0Tk5SY1RjTWtTUzFfcTlVd0lzSHMzRndrR1V4UTJ1Y0x2bHRSWHhOcWxMdzBzZ1BvWFFreHkxaDhUYXRmcjZZRVFfSmphNnlMaHNTMU9pWXlPNFZpcWM5Y0RQdFNGejNZblRMRnE2N3pVd19KTlhxbVJJUXlwd1pyYVVuS0kwNDRycTZ3bDgyVFNDYXluN0dpYkt2TTJMVHJHZGdMNjg?oc=5)
+
+---
+
+### ["Übermenschliche" Technologie: KI erkennt Herzleiden innerhalb von Sekunden](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
+
+2026-09-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+
+來源：[n-tv.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
+
+---
+
+### [Morning cancer treatment could boost chances of survival - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1h3dHF1YnpRVUFTT0FSd19UY2dHemlPNEtnc1lZV3NMbmpNZzg2RjVrdkl1VmN4c3lGV2tQX042ZFFrVGZDdnM3cDFLMDFPUm56YkFFVWFDSlByNFQxYnpFUEU4MTZZRmhmU3VaSWJ3dEFmVWs2dU14VjZqNGhIRVcxd0lqNHNKSWt5aXVtTEhITW9K?oc=5)
+
+2026-09-01 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1h3dHF1YnpRVUFTT0FSd19UY2dHemlPNEtnc1lZV3NMbmpNZzg2RjVrdkl1VmN4c3lGV2tQX042ZFFrVGZDdnM3cDFLMDFPUm56YkFFVWFDSlByNFQxYnpFUEU4MTZZRmhmU3VaSWJ3dEFmVWs2dU14VjZqNGhIRVcxd0lqNHNKSWt5aXVtTEhITW9K?oc=5)
+
+---
+
+### [Pénurie de dermatologues : 100 kinés vont traquer les cancers de la peau et les mélanomes, le dispositif s’étend en Occitanie - Midi Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT29tNGg2SFlEalN5dnVCQnVqZkRQeERZX1doU2o5UkVqbERldnFzdU8xTno5OEF2cGd0aDU4VUlPdzluTDZhc19Pdkk4bk42YURfMC1NV0RCeFZrWHF1U0c1X1BUTEhiTk43andyZ0tWMUZmUFFUdUNJamJyTDhKWUdpX3pWeVJ2UlRjaHA4UmhjTUJveUhtNFpya2FscFh3MkhGYUhQcjB2d0wweVZ1WXhobGJ6YXQ3ZHp3ZExNUnBLUFVzaWNJaE0wV1p6bWhtMUFMdWcySlJ5elNpTThJWHRDcGZDNlgzeGtaTjhIbkxHbnFDYnRfRVVlbmVnSUE?oc=5)
+
+2026-09-01 <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT29tNGg2SFlEalN5dnVCQnVqZkRQeERZX1doU2o5UkVqbERldnFzdU8xTno5OEF2cGd0aDU4VUlPdzluTDZhc19Pdkk4bk42YURfMC1NV0RCeFZrWHF1U0c1X1BUTEhiTk43andyZ0tWMUZmUFFUdUNJamJyTDhKWUdpX3pWeVJ2UlRjaHA4UmhjTUJveUhtNFpya2FscFh3MkhGYUhQcjB2d0wweVZ1WXhobGJ6YXQ3ZHp3ZExNUnBLUFVzaWNJaE0wV1p6bWhtMUFMdWcySlJ5elNpTThJWHRDcGZDNlgzeGtaTjhIbkxHbnFDYnRfRVVlbmVnSUE?oc=5)
+
+---
+
+### [Je suis oncologue et je m’impose cette habitude chaque matin pour réduire mon risque de cancer - Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeDBVQ3lyM1FNa2kxdW1JTmFNSklKWGVoSWRSZ2xfcmdya3BjZUpkYUcwbjEwaFVTS2RPdkl4X0hvT19Id2RkNkk0SVZpNURiTnJISGw3UzVXemJYbEVOU2N4Q0pya2dVcFBoRV9YOU5LR2hibWhFS3E1Y3dhRU1VN0R3?oc=5)
+
+2026-09-01 <span class="news-indication-tag">cancer</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeDBVQ3lyM1FNa2kxdW1JTmFNSklKWGVoSWRSZ2xfcmdya3BjZUpkYUcwbjEwaFVTS2RPdkl4X0hvT19Id2RkNkk0SVZpNURiTnJISGw3UzVXemJYbEVOU2N4Q0pya2dVcFBoRV9YOU5LR2hibWhFS3E1Y3dhRU1VN0R3?oc=5)
+
+---
 
 ### [El primer paciente del mundo al que le retiraron un tumor en el cerebro con ayuda de la IA](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wNF9ySUxLVTVRMXo5Y0JXYWlkYkE2VnRGRERmQ1U1c1VldlZ3STRwcDJQcVpzZllXOEpGRG5vOHktZDNSMDB6RzhPc2VaZkV5SE0yZC05Q3phN2PSAWBBVV95cUxOeXZuNVB6RE1oRWVKTTBlXzI5dlVFbVU4bFo3SGdSenAweFZfN1hjRTNMaF9EWlRjVVFmLXVMbjdpNGxtZndtWTFyODBhbjNLOGl3eVFUYnBoM1dsTWJWZy0?oc=5)
 
@@ -75,14 +115,6 @@ permalink: /news/maraviroc/
 2026-09-01 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU1UVjlibGo2dG1rNm5pcnEtN05sYkI5SmZ5Uzhhb2haNUtlRlphM2FvQmptTVZVOG45VFRHSm1uNTZ6bXNCR3ZXMjNZU3ozTmw2U3h3V2p1ZGJXUTBtcTRjbzNMLTlTZHF2TEs1VDZmaWFMVzNrWkFmajBFSXFpVGthYUdqN2VrX1VBTUlaVWk2V091eXY5WVpMaHJHTHpnTXlqT0N4ZEdfU25tYkZQRWU3U1l2UjNRaUJHMHdIT21UVUtMWXdOT01R?oc=5)
-
----
-
-### [Rückenschmerzen als Warnsignal für Bauchspeicheldrüsenkrebs: Wann Sie aufmerksam werden sollten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNMEVHT3dxZkdweVhleVlHaUQ5ODFqbzhwZ0poNGZPamMxLWwtRGY5SF8xWjlMT3VYWWtmTVhxdDAySnJna0o5MS1NcWllSElOVS1TNEcwMG9TSElZME44NzhuUkFxMU5EN19kRWczYS15MkxaYklNTGJKRXhpVVdJZmtTMTIwTnhSalV0bjMzdFY3WUJVSmdXaWpyZlVHTjIzR3k4WUhTeVVraDdrWkpHMjJSRzFqVDE5T2JfYjZHVDNQemFMVmx1dW5JakM1STdONlBIZkptdE9kQURuX0JyMTVLUVlPRWw4NFhHbksxa1pxSTVreWRXX2JtQVd4VUw2WUxQUGRGcG1NVHhrT09KdA?oc=5)
-
-2026-09-01 <span class="news-indication-tag">Krebs</span>
-
-來源：[CHIP](https://news.google.com/rss/articles/CBMikAJBVV95cUxNMEVHT3dxZkdweVhleVlHaUQ5ODFqbzhwZ0poNGZPamMxLWwtRGY5SF8xWjlMT3VYWWtmTVhxdDAySnJna0o5MS1NcWllSElOVS1TNEcwMG9TSElZME44NzhuUkFxMU5EN19kRWczYS15MkxaYklNTGJKRXhpVVdJZmtTMTIwTnhSalV0bjMzdFY3WUJVSmdXaWpyZlVHTjIzR3k4WUhTeVVraDdrWkpHMjJSRzFqVDE5T2JfYjZHVDNQemFMVmx1dW5JakM1STdONlBIZkptdE9kQURuX0JyMTVLUVlPRWw4NFhHbksxa1pxSTVreWRXX2JtQVd4VUw2WUxQUGRGcG1NVHhrT09KdA?oc=5)
 
 ---
 
@@ -114,7 +146,7 @@ permalink: /news/maraviroc/
 
 2026-09-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[WDR](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWItWlZmY0hlekN4WTRrXzNwVV9NX0liSzJ1TXhuY2FqYmdYMTZxcVlhWVdTXzVVTENVamJfZlo3VHp3dC02eUYzY0pvTW5heVRqQWpoaGp0R0VsUmNEVlNxVll6UWx5bVhMakhTdjdOa1U2NkFnMjZpZm5pajJ2MWtmWlczZDdDdUVub2RXUFVhaXlJOXpOWHBuLUdtZ1dIOVY1VkRfUUhzRXJfR1BpaWE2aHJDNFFZRHRwMA?oc=5)
+來源：[wdr.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWItWlZmY0hlekN4WTRrXzNwVV9NX0liSzJ1TXhuY2FqYmdYMTZxcVlhWVdTXzVVTENVamJfZlo3VHp3dC02eUYzY0pvTW5heVRqQWpoaGp0R0VsUmNEVlNxVll6UWx5bVhMakhTdjdOa1U2NkFnMjZpZm5pajJ2MWtmWlczZDdDdUVub2RXUFVhaXlJOXpOWHBuLUdtZ1dIOVY1VkRfUUhzRXJfR1BpaWE2aHJDNFFZRHRwMA?oc=5)
 
 ---
 
@@ -142,27 +174,11 @@ permalink: /news/maraviroc/
 
 ---
 
-### [Cancer treatment in mornings could double survival time - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmtHNkpYbzNaTW5IMkR1VnRITzJpVWVtODZDeTJLLVdjS0tjYk9UVE45MGo0cVZlNUxwbUszRWpiZ1BQOGRSbVplXzk2Y1BFOFdEbU5DaldsZnlwZ29TV1NnWjJzYl9hdURSc2didTFkRFh3OTNvaERwVEU2dXZIMC1TYTFuNExvWDM1T3ZZaW95STNHbzExNERwc0M?oc=5)
-
-2026-08-31 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmtHNkpYbzNaTW5IMkR1VnRITzJpVWVtODZDeTJLLVdjS0tjYk9UVE45MGo0cVZlNUxwbUszRWpiZ1BQOGRSbVplXzk2Y1BFOFdEbU5DaldsZnlwZ29TV1NnWjJzYl9hdURSc2didTFkRFh3OTNvaERwVEU2dXZIMC1TYTFuNExvWDM1T3ZZaW95STNHbzExNERwc0M?oc=5)
-
----
-
 ### [Científicos identifican el papel de los fibroblastos en la respuesta a inmunoterapia contra el cáncer de hígado a través de tumor virtual](https://news.google.com/rss/articles/CBMiggJBVV95cUxQQVpuNERia1JpWXJxOHBXemNldXNrek1ZbUdXY1VOVzUwM2pwR3RWUm5QWDI4YnJ5ekg2WkpLTE9Nb1NCempIbG1vSEVValBEb3Znc0RsbTZvZnhOdXNuQ2phOTluMVB2TlpFZmJCR1VGOHFNcnVJZFZDT2dYazlnSHk3TWs1ZWpHemNsOEE3VWRPb2VMWW8waXlGZjBFVThhSkt0aWluenlGRVNQdU56NXRaU2REQnZoVTREWlVGdzQ5SlFGSVJFOGFyWHZNX0s5X0hBODdfY181SFRhSlh6bjYtRWJvRmhOT1FDRlNTdkRSY0t1Qmd2WW9BSUtaVjFCVHc?oc=5)
 
 2026-08-31 <span class="news-indication-tag">tumor</span>
 
 來源：[saluddigital.com](https://news.google.com/rss/articles/CBMiggJBVV95cUxQQVpuNERia1JpWXJxOHBXemNldXNrek1ZbUdXY1VOVzUwM2pwR3RWUm5QWDI4YnJ5ekg2WkpLTE9Nb1NCempIbG1vSEVValBEb3Znc0RsbTZvZnhOdXNuQ2phOTluMVB2TlpFZmJCR1VGOHFNcnVJZFZDT2dYazlnSHk3TWs1ZWpHemNsOEE3VWRPb2VMWW8waXlGZjBFVThhSkt0aWluenlGRVNQdU56NXRaU2REQnZoVTREWlVGdzQ5SlFGSVJFOGFyWHZNX0s5X0hBODdfY181SFRhSlh6bjYtRWJvRmhOT1FDRlNTdkRSY0t1Qmd2WW9BSUtaVjFCVHc?oc=5)
-
----
-
-### [Bahnbrechend: Herzkrankheiten mit KI in zwei Sekunden erkennbar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
 
 ---
 
@@ -174,11 +190,11 @@ permalink: /news/maraviroc/
 
 ---
 
-### [Thymus und Krebs: Höhere Strahlung erhöht Metastasen-Risiko um 95%](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVJRQ0dFMkpjUnM1N2djQ1Z2b1VGQ3lXNzhLYWtYVnRqWFdpSlhROVMzMXpHbmM0TC1zRUZ0dmRNMEFtbVRRakwwRVJxX2VlY3dDZ3h4WVg0eVFka3R0dnNEQlBSb01GVDRaU2h2ZHZkYklGUkVITUtldlEwZUE3aWZ1dVdTRjJBaFZHbGJ5SE94d0hfeUhjenoxU1g1ZXltanBKcTh1WHBNak0tVjdkVjl6VkFWdw?oc=5)
+### [Thymus und Krebs: Höhere Strahlung erhöht Metastasen-Risiko um 95% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVJRQ0dFMkpjUnM1N2djQ1Z2b1VGQ3lXNzhLYWtYVnRqWFdpSlhROVMzMXpHbmM0TC1zRUZ0dmRNMEFtbVRRakwwRVJxX2VlY3dDZ3h4WVg0eVFka3R0dnNEQlBSb01GVDRaU2h2ZHZkYklGUkVITUtldlEwZUE3aWZ1dVdTRjJBaFZHbGJ5SE94d0hfeUhjenoxU1g1ZXltanBKcTh1WHBNak0tVjdkVjl6VkFWdw?oc=5)
 
 2026-08-31 <span class="news-indication-tag">Krebs</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVJRQ0dFMkpjUnM1N2djQ1Z2b1VGQ3lXNzhLYWtYVnRqWFdpSlhROVMzMXpHbmM0TC1zRUZ0dmRNMEFtbVRRakwwRVJxX2VlY3dDZ3h4WVg0eVFka3R0dnNEQlBSb01GVDRaU2h2ZHZkYklGUkVITUtldlEwZUE3aWZ1dVdTRjJBaFZHbGJ5SE94d0hfeUhjenoxU1g1ZXltanBKcTh1WHBNak0tVjdkVjl6VkFWdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVJRQ0dFMkpjUnM1N2djQ1Z2b1VGQ3lXNzhLYWtYVnRqWFdpSlhROVMzMXpHbmM0TC1zRUZ0dmRNMEFtbVRRakwwRVJxX2VlY3dDZ3h4WVg0eVFka3R0dnNEQlBSb01GVDRaU2h2ZHZkYklGUkVITUtldlEwZUE3aWZ1dVdTRjJBaFZHbGJ5SE94d0hfeUhjenoxU1g1ZXltanBKcTh1WHBNak0tVjdkVjl6VkFWdw?oc=5)
 
 ---
 
@@ -214,11 +230,27 @@ permalink: /news/maraviroc/
 
 ---
 
-### [Tumore al pancreas, ok alla prima cura in pillola: come funziona e quando sarà disponibile in Italia. "Meglio della chemioterapia" - La Nazione](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5YjNaWE82RXJTUTZ5c2V0Rmk1YmZ1M2U0dUctM0lQN2Q4YkR0UmpLX09xVUJSbkdjZ09TSjdPMk9sUHJaZXlKcndzUzJ0b2FxbmZuVzQ5bmx5d0ZKMHhHSHBPLU13MzQ?oc=5)
+### [Hochrisiko-Prostatakrebs ohne Metastasen: Testosteron als Biomarker für Docetaxel-Zusatz - Biermann Medizin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3VPQm1SdXNpOGQ4b3JzY1g2NE92TGszUmhLM0xqVnAwQVZBbHphYVhwcWRuT1ozV0tXdnBXQzc1Vmd6ZDFTaThfWmZrRk9UYXZfUDlpQXFVNkwxeVJYV0NtdXdINjlmNEVqYXRTQmJvWk5QZjdBQUhRX2FpRTA1bGZhZFpDVEY4ZjZmNUxBaG5NaFpIeEtrd1RtVmdTdl8zZTNVdkFYU0xrNHdvelBYa0dPNDVXd09w?oc=5)
+
+2026-08-31 <span class="news-drug-tag">Docetaxel</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3VPQm1SdXNpOGQ4b3JzY1g2NE92TGszUmhLM0xqVnAwQVZBbHphYVhwcWRuT1ozV0tXdnBXQzc1Vmd6ZDFTaThfWmZrRk9UYXZfUDlpQXFVNkwxeVJYV0NtdXdINjlmNEVqYXRTQmJvWk5QZjdBQUhRX2FpRTA1bGZhZFpDVEY4ZjZmNUxBaG5NaFpIeEtrd1RtVmdTdl8zZTNVdkFYU0xrNHdvelBYa0dPNDVXd09w?oc=5)
+
+---
+
+### [Herzgesundheit: Herzschlag schützt vor Tumorwachstum](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUR3V1NfVDY5aThlYVAzTGxzVlJPTjJnaXVUNUxMUDBXY1JOcDdrZkZaWU0xeXgwQW9BZDBZZ21OVlJiaE1vS0dPMTUzRGhWTHZyTUlzR2pSSjkwVHgzZlluZ3dkbzl2a1AxVV82M2pYNDJrNS0yTWJoSEtMYTRxYzRzMEszOVlOVEJYTjd5UWhQUG8?oc=5)
 
 2026-08-30 <span class="news-indication-tag">tumor</span>
 
-來源：[La Nazione](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5YjNaWE82RXJTUTZ5c2V0Rmk1YmZ1M2U0dUctM0lQN2Q4YkR0UmpLX09xVUJSbkdjZ09TSjdPMk9sUHJaZXlKcndzUzJ0b2FxbmZuVzQ5bmx5d0ZKMHhHSHBPLU13MzQ?oc=5)
+來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUR3V1NfVDY5aThlYVAzTGxzVlJPTjJnaXVUNUxMUDBXY1JOcDdrZkZaWU0xeXgwQW9BZDBZZ21OVlJiaE1vS0dPMTUzRGhWTHZyTUlzR2pSSjkwVHgzZlluZ3dkbzl2a1AxVV82M2pYNDJrNS0yTWJoSEtMYTRxYzRzMEszOVlOVEJYTjd5UWhQUG8?oc=5)
+
+---
+
+### [Schilddrüsenkrebs: Warnzeichen beachten](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEhJRDFTZ0xIN0RHRktreWxKcU5DdDRwQlpSOTMyMTkzdk01TmNUMzdSSFNIM3pteTd2M2E5VFNpTTUxeHZERlB2SmZPQlctcXdvajlaanotNVFGR21ZSk92bXZkTDhsM1EySTFJMUJHdEFWa0stWXUtc0VRRkRTNWVQdHJUcEFJRnV6a0JqMA?oc=5)
+
+2026-08-30 <span class="news-indication-tag">Krebs</span>
+
+來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEhJRDFTZ0xIN0RHRktreWxKcU5DdDRwQlpSOTMyMTkzdk01TmNUMzdSSFNIM3pteTd2M2E5VFNpTTUxeHZERlB2SmZPQlctcXdvajlaanotNVFGR21ZSk92bXZkTDhsM1EySTFJMUJHdEFWa0stWXUtc0VRRkRTNWVQdHJUcEFJRnV6a0JqMA?oc=5)
 
 ---
 
@@ -238,11 +270,11 @@ permalink: /news/maraviroc/
 
 ---
 
-### [Cardiologist referrals improve cholesterol levels in prostate cancer patients, but may not be necessary for all - Medical Xpress](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmhFYUZlUHdKcHlMSS1SVW5yd0prdC1pQ0hZLUJuSnNqaEhZenBLWWtWZlZjZDBHR0JNVmRzV1dYbVR2dW0tWHlPcUx3WXMzYVdBSThwZm1QN1c0ZnlKRm5vQ1U5d1Rld2dXM2hIVzJfRGt1Mm1CRF82MThSNldnbjF4VUpyNURacFFHdlVLdExUSmJTaXVvWmxn?oc=5)
+### [We’re getting cancer younger. Here’s how to reduce your risk - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxOLXI4a3ZfSkl3OEFibnNpdUtRZkFWV2YyNzNaWHpqX2Z3WGR0dENueE1xZGFwWWVvcnpGS2JheVFMSlpuWlpHcFV6M2VwZFNhYzJPLTQzY3F6YzdpejVldVR2REk1dlV1QU1JS1dtRUZZMEpOZnVyOWFpVERqSDZNck5ZTWVnd1JVWGU3ZlhwNThYTHZRdmotU1VNM0tEdw?oc=5)
 
-2026-08-30 <span class="news-indication-tag">cancer</span>
+2026-08-28 <span class="news-indication-tag">cancer</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmhFYUZlUHdKcHlMSS1SVW5yd0prdC1pQ0hZLUJuSnNqaEhZenBLWWtWZlZjZDBHR0JNVmRzV1dYbVR2dW0tWHlPcUx3WXMzYVdBSThwZm1QN1c0ZnlKRm5vQ1U5d1Rld2dXM2hIVzJfRGt1Mm1CRF82MThSNldnbjF4VUpyNURacFFHdlVLdExUSmJTaXVvWmxn?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxOLXI4a3ZfSkl3OEFibnNpdUtRZkFWV2YyNzNaWHpqX2Z3WGR0dENueE1xZGFwWWVvcnpGS2JheVFMSlpuWlpHcFV6M2VwZFNhYzJPLTQzY3F6YzdpejVldVR2REk1dlV1QU1JS1dtRUZZMEpOZnVyOWFpVERqSDZNck5ZTWVnd1JVWGU3ZlhwNThYTHZRdmotU1VNM0tEdw?oc=5)
 
 ---
 
@@ -254,11 +286,11 @@ permalink: /news/maraviroc/
 
 ---
 
-### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
+### [Negli Stati Uniti è stato approvato un trattamento per la forma più comune di cancro al pancreas che allunga la vita dei pazienti - Il Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWFocmdTZWstSjEtSl9VNnlXbFJtaEl1M2JSNmlXS0E2Zkk1SS1LQXkwYUw3Vk9jQnJ1NVJJVENUdlZVOGhpbjdvejNaX3dJOEpDZm0wclZhY0lsRXVwM29GbXJUM09TZmJyeEJiMFlndDItMjhYWXRIX1JXbjJ2ZktpZTIwekdhOV93Z19nVWJoa0RZMTdoNVBqRQ?oc=5)
 
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-08-27 <span class="news-indication-tag">tumor</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWFocmdTZWstSjEtSl9VNnlXbFJtaEl1M2JSNmlXS0E2Zkk1SS1LQXkwYUw3Vk9jQnJ1NVJJVENUdlZVOGhpbjdvejNaX3dJOEpDZm0wclZhY0lsRXVwM29GbXJUM09TZmJyeEJiMFlndDItMjhYWXRIX1JXbjJ2ZktpZTIwekdhOV93Z19nVWJoa0RZMTdoNVBqRQ?oc=5)
 
 ---
 
@@ -267,22 +299,6 @@ permalink: /news/maraviroc/
 2026-08-26 <span class="news-indication-tag">tumour</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQVFBT2pRc2Y5YUE4bUdCSGlJdFFXZnB4QnJnQ09oVkN6aWlnYWI1LVFaV1FjRkdOMmpxQnY0M0lsLVlOaGdMeWRQY1RScEd5ME9WcE12MHV2aVZt?oc=5)
-
----
-
-### [Rektumkarzinom | Organerhalt könnte beim Rektumkrebs Routine werden](https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3NDNFNwSE0tb2VEOUUtUHIxcmRrMHRkZUJ4bU5VTGg2akpfcTFaTV9DTGF2aXVHbDBKWlFnR0NtVEJ2cm5MbWlWVWV1QzgtaXF2a1VVZEJsRXNKOG9TSTFWX1NnYlFOY3gzU1hwODhwTjIycmFtZTJfYVprYW1zS0RCUXR3TUJ2UW9hVWZUamdncHF4QXByS2NLd2VrYlNqd2lmM3FnaW41a1dpRXZVZ3Uza21keEhEVEdHXzNR?oc=5)
-
-2026-08-26 <span class="news-indication-tag">Krebs</span>
-
-來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3NDNFNwSE0tb2VEOUUtUHIxcmRrMHRkZUJ4bU5VTGg2akpfcTFaTV9DTGF2aXVHbDBKWlFnR0NtVEJ2cm5MbWlWVWV1QzgtaXF2a1VVZEJsRXNKOG9TSTFWX1NnYlFOY3gzU1hwODhwTjIycmFtZTJfYVprYW1zS0RCUXR3TUJ2UW9hVWZUamdncHF4QXByS2NLd2VrYlNqd2lmM3FnaW41a1dpRXZVZ3Uza21keEhEVEdHXzNR?oc=5)
-
----
-
-### [Le cancer du sein d’une hôtesse de l’air reconnu d’origine professionnelle, une première en France qui pourrait faire effet boule de neige - Le Parisien](https://news.google.com/rss/articles/CBMivAJBVV95cUxNZTZENlU0Nm4tN3M5VlJLbE96NFE1UGR3NkUwT1pzSmlBdlc2dTZTOU9PWml4b3ZaZ2Zjd0JRR185b3BWa0JLNXkzaGlrNGhLUHhhNk1rV0RuYmo0S0Q3b3lTMVVESmZON0ljSl8yaGM0YlY2d1dibWJEUW5zaW13bU5hdEJJMVc4elFfcGtxdjh2enlEM2tSSjY4ZlEtdXpOcGwxdFZ0SG82MnI3RVZQODdKS1M3OXdxa3JrcTRrQkZlcElaMXhNcFBVRGJoZ3pxNEhtOGNGNlM3N3JLbnhKX09FdjJISUdQR0RqRmJmS2RHaGJIdml6ektHZE9RYVFrcnBLTDh0WGExTk9HT1FuVnRSX19BRFVPYUk4LUpjbTlpRkYzdmpocnZ6OHNMekJYcnp6eHF3T1NIV0tZ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMivAJBVV95cUxNZTZENlU0Nm4tN3M5VlJLbE96NFE1UGR3NkUwT1pzSmlBdlc2dTZTOU9PWml4b3ZaZ2Zjd0JRR185b3BWa0JLNXkzaGlrNGhLUHhhNk1rV0RuYmo0S0Q3b3lTMVVESmZON0ljSl8yaGM0YlY2d1dibWJEUW5zaW13bU5hdEJJMVc4elFfcGtxdjh2enlEM2tSSjY4ZlEtdXpOcGwxdFZ0SG82MnI3RVZQODdKS1M3OXdxa3JrcTRrQkZlcElaMXhNcFBVRGJoZ3pxNEhtOGNGNlM3N3JLbnhKX09FdjJISUdQR0RqRmJmS2RHaGJIdml6ektHZE9RYVFrcnBLTDh0WGExTk9HT1FuVnRSX19BRFVPYUk4LUpjbTlpRkYzdmpocnZ6OHNMekJYcnp6eHF3T1NIV0tZ?oc=5)
 
 ---
 

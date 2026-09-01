@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,19 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
 
-### [AstraZeneca, ipertensione non controllata o resistente al trattamento: baxdrostat efficace a 52 settimane - Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+### ["Übermenschliche" Technologie: KI erkennt Herzleiden innerhalb von Sekunden](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
 
-2026-09-01 <span class="news-indication-tag">ipertensione</span>
+2026-09-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+來源：[n-tv.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
 
 ---
 
 ### [Aterosclerosis: la enfermedad que ya está presente en uno de cada 13 jóvenes y causa infartos e ictus - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHZvOUtLd3hmT2pXNHZoUFNLdVZtbzRSOEozLUxLQ014aFppR0xuQXIyVlc0dzBla2lya1ZVMXNhcXlEeVhFbzY5SHpRVlVURlhaLUJud3dtUE45c2VtNlVocU9PSlJBYmZ6MTB5aVdIT1AzNXIxUFhYYWpaV3NDWFRheThBUzZ0U0dudzNMeTRLYmVEUDA2VTgtUklWUGo4Q19fak5WYmZDdUIzWjdSMnBQSmo2ZTBCU21wVXJwU1BfZUXSAcgBQVVfeXFMUGcwZlJsQUsyaDZRc1JYZ2dRMXZpQ0QzWHJEZ1hLZWxaS3BibnRod1VwUUFoTENrNTZIRGZLSWJSTHFBRlBjc3lMaGNiSUlaQVA1QWJCSWRuLV9QN2tfYzRka0xJMll5Y191V01oVU1nRFZMWGVDSndMYUZ4d0RaaVd0eVJLT0d2TGxzOHVVSjF2ODQ1clV6bHhtd3g4VmFwRnJkX3FQWFZxMC0wcTFEbHphbXBoRVFfWmtoQlpMVDd4V0ZwV0pHY2M?oc=5)
 
-2026-09-01 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-09-01 <span class="news-indication-tag">ictus</span>
 
 來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHZvOUtLd3hmT2pXNHZoUFNLdVZtbzRSOEozLUxLQ014aFppR0xuQXIyVlc0dzBla2lya1ZVMXNhcXlEeVhFbzY5SHpRVlVURlhaLUJud3dtUE45c2VtNlVocU9PSlJBYmZ6MTB5aVdIT1AzNXIxUFhYYWpaV3NDWFRheThBUzZ0U0dudzNMeTRLYmVEUDA2VTgtUklWUGo4Q19fak5WYmZDdUIzWjdSMnBQSmo2ZTBCU21wVXJwU1BfZUXSAcgBQVVfeXFMUGcwZlJsQUsyaDZRc1JYZ2dRMXZpQ0QzWHJEZ1hLZWxaS3BibnRod1VwUUFoTENrNTZIRGZLSWJSTHFBRlBjc3lMaGNiSUlaQVA1QWJCSWRuLV9QN2tfYzRka0xJMll5Y191V01oVU1nRFZMWGVDSndMYUZ4d0RaaVd0eVJLT0d2TGxzOHVVSjF2ODQ1clV6bHhtd3g4VmFwRnJkX3FQWFZxMC0wcTFEbHphbXBoRVFfWmtoQlpMVDd4V0ZwV0pHY2M?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/telmisartan/
 2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
-
----
-
-### [AI-based diagnosis of hypertension and diabetes from a single facial video - European Society of Cardiology](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM05idFhzSlNTTEllRzVmTERudlBRT0YxdDhUdFdlbVBXa2NUamdtbmcwa3BKd0ZvTHR0Wk5QU2NIZmt4X05tTDg4d2VhandwWURaeTBPWkx4MWQyZURLZGppelRNdHA0aGNkYUIyLXU1cUdpNE9UQUNhbDRWSmpGQkF0X1h0UVdOaTlHeU9Mb3c4ZGVjeGMzRnVoS1R5Z2k4NkNiTUVTSXF0ajdpRkRZMld1d2lwVnIzcVhnSlZSTkJ1Undl?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span>
-
-來源：[European Society of Cardiology](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM05idFhzSlNTTEllRzVmTERudlBRT0YxdDhUdFdlbVBXa2NUamdtbmcwa3BKd0ZvTHR0Wk5QU2NIZmt4X05tTDg4d2VhandwWURaeTBPWkx4MWQyZURLZGppelRNdHA0aGNkYUIyLXU1cUdpNE9UQUNhbDRWSmpGQkF0X1h0UVdOaTlHeU9Mb3c4ZGVjeGMzRnVoS1R5Z2k4NkNiTUVTSXF0ajdpRkRZMld1d2lwVnIzcVhnSlZSTkJ1Undl?oc=5)
 
 ---
 
@@ -118,14 +110,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bahnbrechend: Herzkrankheiten mit KI in zwei Sekunden erkennbar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
-
----
-
 ### [‘Superhuman’ software takes just seconds to spot heart disease - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVJwRHR5LWRtdHlDVEk4WGVHeTBOd2ItSjBGTmhHNi00SEN3UG1mbW1FMThMaHByUWlMQk83akRMaHBQd1JUdTZQU3hnUFhBUG9mN01xN0F0OFJTWjFyaHE3TXNhV1JoQ0tkZVpQWmptdHlVZHo2bG9GZDZ3T0RGQld3TUowSjVnaVRtYkdvc21GbkxJYkZsNQ?oc=5)
 
 2026-08-31 <span class="news-indication-tag">heart disease</span>
@@ -134,27 +118,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Exercise intervention associated with reduced atrial fibrillation burden](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZJcEtwZEQ3TFhLMHB2VnJFU2xtVFJGd0hIcExJaXgyZWFSdlZ6T0xoRFRaYl9KOF9jS2pkYnFEOFphdGtiMG93X1paYW9wX0lDZTR5RlNfcEdzMzB6c0ZhYnROdHRWMVFiYWpGbnJTR21JVWRUR2pqM0RDeWJwWl96VHdFUS0tVU5yazd2c0g3RFNGQTZYZlZCalpaNlZKTnhIU19NMDJqcW5uVGJ1bzEtMnJjN0RLUkxjOQ?oc=5)
+### [Statines : le médicament ne réduit pas que le cholestérol pour ces patients - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
 
-2026-08-31 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-08-31 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZJcEtwZEQ3TFhLMHB2VnJFU2xtVFJGd0hIcExJaXgyZWFSdlZ6T0xoRFRaYl9KOF9jS2pkYnFEOFphdGtiMG93X1paYW9wX0lDZTR5RlNfcEdzMzB6c0ZhYnROdHRWMVFiYWpGbnJTR21JVWRUR2pqM0RDeWJwWl96VHdFUS0tVU5yazd2c0g3RFNGQTZYZlZCalpaNlZKTnhIU19NMDJqcW5uVGJ1bzEtMnJjN0RLUkxjOQ?oc=5)
-
----
-
-### [Statine e demenza, il cuore protegge anche il cervello? Lo studio che riapre la partita della prevenzione](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdzZjUzluNkpQNmFoakFCWTZ4SWhmWFk5NlowRkNYdFBqZGQxMWd5VmVXWWVlR2JDeDExeWxPTzJwMkMzU1BUOHFhWWQ0VF9hcFU1Rjl2dHZlaVRaekl6RjgwLUM5clE2ekV4bGFONWJ3ZzVxbW56YVFDdWg1V09Ob19vVDFTZjlnQnpaM3Z5TE1rOTdJc3l4WVlMNUhWNi1zc0JNUm9CblU1YmJ3dE53Wk40OURuNjEyLU1qYU4yX2hDZW9WXy1fd0pDU1BENkZpZHlhT1RHcE5CR0FwWTlOMlJ2NnBzQm9pbDdEX252b2ljWGVZOFE?oc=5)
-
-2026-08-30 <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdzZjUzluNkpQNmFoakFCWTZ4SWhmWFk5NlowRkNYdFBqZGQxMWd5VmVXWWVlR2JDeDExeWxPTzJwMkMzU1BUOHFhWWQ0VF9hcFU1Rjl2dHZlaVRaekl6RjgwLUM5clE2ekV4bGFONWJ3ZzVxbW56YVFDdWg1V09Ob19vVDFTZjlnQnpaM3Z5TE1rOTdJc3l4WVlMNUhWNi1zc0JNUm9CblU1YmJ3dE53Wk40OURuNjEyLU1qYU4yX2hDZW9WXy1fd0pDU1BENkZpZHlhT1RHcE5CR0FwWTlOMlJ2NnBzQm9pbDdEX252b2ljWGVZOFE?oc=5)
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
 
 ---
 
-### [Ipertensione e diabete: così l'intelligenza artificiale li scopre con un video del volto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
+### [Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
 
-2026-08-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+2026-08-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZMNjdvSlZibmRlckNVYmc4c2stSWhuZVROTTVKeWtoRTZxeWdHbl9CTnpUTUVlWFIyQUpDY1MyWUMyX0Y0N2x3d2NhdkRpM25HR3pmQ0ZtN29rMTlqNndUQy1EVlp5S2lncklvNE9UT0xIclB1QlpMWHA1dUI5T3VQZmZUZm5hWlV6NWJKMkotT1Zmd19YTHVWUXlqVnNDczFkWFRNS29wZVpoVVFRU3BwZmpjTDN6?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
 
 ---
 
@@ -163,6 +139,14 @@ permalink: /news/telmisartan/
 2026-08-29 <span class="news-indication-tag">AVC</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMikgFBVV95cUxORkpKck1vTGtIcGRYSlNnX0VFVkNrN3VLWjFoM1hsU28wbi13RUU1dGp4RW9FZnFlRnZHc2lrTU5iNmUyMGRJakxkZ0dHdjcyYWQ2TEQ2emZ5YzVBX1FjUWhSeHJtai1Zel92M1FmRGF2cnRvMXFRQU1GYjdIVHA5Y3owNndEZFhPYUdIc1IwWVNrZw?oc=5)
+
+---
+
+### [Statine e colesterolo dopo i 70 anni: quando servono davvero contro l'infarto e i rischi da non sottovalutare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
+
+2026-08-29 <span class="news-indication-tag">ictus</span>
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
 
 ---
 
@@ -184,9 +168,17 @@ permalink: /news/telmisartan/
 
 ### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 
-2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-08-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
+
+---
+
+### [8 Common Food Preservatives Were Linked to High Blood Pressure — Here’s Where You’ll Find Them - Food & Wine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW92TmxkZHNvZjljblJNVVA4QWlCa1hBeTNIUkdGZWhqcy0tWGJTVTE4M2lxNlVUSkkxVDRHd0w3TnZtOEIyMGtCOWlfcjAzSlZPZV83em1INUNZa1haSmJnVENoQnlzX2pBemJzSXU3T0dwa2o1YlpWa283dFBIejdlZzNVTVFwMlJGNkJzNEF4eE93QTVzNWlRa1BXOWI3LU1JUkpaOEdXVlcxSmg4?oc=5)
+
+2026-08-27 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Food & Wine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW92TmxkZHNvZjljblJNVVA4QWlCa1hBeTNIUkdGZWhqcy0tWGJTVTE4M2lxNlVUSkkxVDRHd0w3TnZtOEIyMGtCOWlfcjAzSlZPZV83em1INUNZa1haSmJnVENoQnlzX2pBemJzSXU3T0dwa2o1YlpWa283dFBIejdlZzNVTVFwMlJGNkJzNEF4eE93QTVzNWlRa1BXOWI3LU1JUkpaOEdXVlcxSmg4?oc=5)
 
 ---
 
