@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
-
-### [US health officials exclude measles-related deaths in Pennsylvania from counts - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5)
-
----
+## 相關新聞（10 則）
 
 ### [Avalan la seguridad y eficacia de Nobivac DP PLUS de MSD Animal Health en hurones](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1VvZENfS01zLVNZMXFOdDdWNzZjSGw3S01kTGNsRGp5TVBHRzA3dUFaZlZfSzhjUnNGRUpWbUhIUkNNVjRxTGRSZFdkVnREcTRVS2I3MlhRR0VYSEFqYmtmRkl1U2VDWThQS3RfM2R0c1lBVXNMZlFVS3pvdUhwWHpLUS1ONzB1Vm5tdi11eVJyRC1lcFpfeDJITGozYzFVYzZOV0ViWUZ5V0nSAbABQVVfeXFMTXFsLTVLYXRMRE41YVZkVlJiSkQyNFQyMWRBMjQtU3BYdDNvczRnLXBmODQ3RWVKQzdFVTV5X0d4UEVpdW9YQWM1WU96cWRhMVRWYWJMblJjUmgtM29zMU9CajM0WjRmWlA0aFU5SnIzQUNLdWhrckl2ZEl5VHZLOTlxdEdHUFBrbkJIUF9iRllmZV8zQk5ZTHNTUG1UQlM4SUNvSW54eFM4cXBWQmtubFY?oc=5)
 
@@ -86,11 +78,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Morbillo, l’America torna indietro di 35 anni: quasi 2.800 casi e l’allarme riaccende la guerra sui vaccini](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcXkyN0g5a1JHYnZ4TS1HOUhTYmhOdTRYYXloX2ZWS3VrbUY2VDFGeFk1UGxZQjNjS3NLRGRrei1nb3BpRk5Nam9saFdzZ0N4VjU5OUFJNHlwcjZYemdodkd6b3VrVXAtUnhHRndkN2d0aERMVC1FcGU0RFBiZFZFU2IxQ19uOVAzeXpsSFNSbDVzNGdqLVRuekNPV2taUUR0VU00VGtTc3oxaFd5eDk4bXNfdGg1eUlTMWRiOHN4WkJnNm55T3lpd1dFRi1JalBXVzBUbi1kTkw5SHZuTjBaVHBDV1NCNjEzSl9adXVJcEdaNlRi?oc=5)
+### [Xilitol y riesgo cardiovascular en la población general](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VmajhyZ2VUODZUaFlWeWxLMDh0NXFXMW9Ec0JQNVpLQ3BuT0xnTHljRU9DUkk1UmpiWjVFd21ndGV0OW5NZDBCVGFLbnBZZlBINHFuYmQxS3g4LWZtZ1Jlai1ua1gzb3lfdWpvT2djeHNpNjE4N20ya0NDdmhyeG43dURMMVUyeVRtdW9uYU1jQ2Q0clJkVlZGY2JDTmFkQmRqM3M1R0RsR1NSUVZn?oc=5)
 
-2026-08-30 <span class="news-indication-tag">MS</span>
+2026-08-31 <span class="news-indication-tag">MS</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcXkyN0g5a1JHYnZ4TS1HOUhTYmhOdTRYYXloX2ZWS3VrbUY2VDFGeFk1UGxZQjNjS3NLRGRrei1nb3BpRk5Nam9saFdzZ0N4VjU5OUFJNHlwcjZYemdodkd6b3VrVXAtUnhHRndkN2d0aERMVC1FcGU0RFBiZFZFU2IxQ19uOVAzeXpsSFNSbDVzNGdqLVRuekNPV2taUUR0VU00VGtTc3oxaFd5eDk4bXNfdGg1eUlTMWRiOHN4WkJnNm55T3lpd1dFRi1JalBXVzBUbi1kTkw5SHZuTjBaVHBDV1NCNjEzSl9adXVJcEdaNlRi?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VmajhyZ2VUODZUaFlWeWxLMDh0NXFXMW9Ec0JQNVpLQ3BuT0xnTHljRU9DUkk1UmpiWjVFd21ndGV0OW5NZDBCVGFLbnBZZlBINHFuYmQxS3g4LWZtZ1Jlai1ua1gzb3lfdWpvT2djeHNpNjE4N20ya0NDdmhyeG43dURMMVUyeVRtdW9uYU1jQ2Q0clJkVlZGY2JDTmFkQmRqM3M1R0RsR1NSUVZn?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/rotigotine/
 2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
-
----
-
-### [I lost my legs and fingers from killer bug - here’s why not to ignore symptoms - The Scottish Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkx0cDVWeHMwZ3dKOVRWOVFLblVWMGlHZE9PYXpPZ0hUd2lyOTBrRHRSNnRQc2dmOEVrbFU3VFRMT3Z0RlhrUnBpUnlWWTFGNGZ2NlBpazBkNkVTRXVYUFM0WDVxZmoyZEljR1dVcGhYVWY4U1Z0dXBhOGh5ckxFM2V6SlA1RTV2YTE0QkFXZTNoaGtSamNsTlB4TQ?oc=5)
-
-2026-08-29 <span class="news-indication-tag">MS</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkx0cDVWeHMwZ3dKOVRWOVFLblVWMGlHZE9PYXpPZ0hUd2lyOTBrRHRSNnRQc2dmOEVrbFU3VFRMT3Z0RlhrUnBpUnlWWTFGNGZ2NlBpazBkNkVTRXVYUFM0WDVxZmoyZEljR1dVcGhYVWY4U1Z0dXBhOGh5ckxFM2V6SlA1RTV2YTE0QkFXZTNoaGtSamNsTlB4TQ?oc=5)
 
 ---
 
@@ -126,19 +110,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [NHS confirms full list of two flu jab rule changes for autumn 2026 - Birmingham Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNy1HYWZKa2R2YkJGVFFSaWJCdlFnNE00WGswX2JjYW9YNC1ya1FqM01ZR19FQkdBa24ycGJvQ0M3VkVmb3VNZVpwT0MyS25HRUpIaXYxVEVkYVZUTXlocnpEYWx4TmcyQWJzZmJ0ZTBJbHdhbXhjSXZ3c3Q1X1BXMU91TlFPWDc1Sk5lbjF0a1DSAZYBQVVfeXFMT05hN2ZMd2ZFeFZCemU0c0hxZ3hmbmkxTTBBLVBFUF9wT21EY1lpOWlic0l6NXBmdS15Tkp0ZmxaSHB0dGdacXhpYUFQekREblM5ekpLS0F1SE04d1d1NE5jWE9FQi0yV1Z6VE51Q3JKSzFrS0I4R3ZCTldyRkFObzAzZGNDOGJDRDVudnVaTV9xcXQ5XzlB?oc=5)
+### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 
-2026-08-28 <span class="news-indication-tag">MS</span>
+2026-08-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNy1HYWZKa2R2YkJGVFFSaWJCdlFnNE00WGswX2JjYW9YNC1ya1FqM01ZR19FQkdBa24ycGJvQ0M3VkVmb3VNZVpwT0MyS25HRUpIaXYxVEVkYVZUTXlocnpEYWx4TmcyQWJzZmJ0ZTBJbHdhbXhjSXZ3c3Q1X1BXMU91TlFPWDc1Sk5lbjF0a1DSAZYBQVVfeXFMT05hN2ZMd2ZFeFZCemU0c0hxZ3hmbmkxTTBBLVBFUF9wT21EY1lpOWlic0l6NXBmdS15Tkp0ZmxaSHB0dGdacXhpYUFQekREblM5ekpLS0F1SE04d1d1NE5jWE9FQi0yV1Z6VE51Q3JKSzFrS0I4R3ZCTldyRkFObzAzZGNDOGJDRDVudnVaTV9xcXQ5XzlB?oc=5)
-
----
-
-### [Kind von Hundertjährigen: geringeres Risiko für Herzkrankheit und frühen Tod](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1tUndCRzllNEZvOW5VMERsVEJ0VklRbGxEZV9ZVDNQc3gybFB0LWZsV3p5b1dLUVZuN2lTczkyeXd4Z2I4V3p5VnhVVlZzVDNFTktkbE1mNmt2SkhvSGRoSFJRY0lvODlBSnZOYUdJX1Y1aXp2TGc3NUFkeTVpMUlhemVCaW1uTzk1NE5jVnRxakZRUEhyVk9IZFpmMXVZRmJIUWs1OGdQeGE0QzJzb0NDOGtSTGVZNzZKeXBn?oc=5)
-
-2026-08-28 <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1tUndCRzllNEZvOW5VMERsVEJ0VklRbGxEZV9ZVDNQc3gybFB0LWZsV3p5b1dLUVZuN2lTczkyeXd4Z2I4V3p5VnhVVlZzVDNFTktkbE1mNmt2SkhvSGRoSFJRY0lvODlBSnZOYUdJX1Y1aXp2TGc3NUFkeTVpMUlhemVCaW1uTzk1NE5jVnRxakZRUEhyVk9IZFpmMXVZRmJIUWs1OGdQeGE0QzJzb0NDOGtSTGVZNzZKeXBn?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
 
 ---
 
@@ -150,11 +126,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Largest review of its kind confirms benefits of tai chi and other Chinese exercises - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
+### [Due persone sono morte di morbillo negli Stati Uniti: sono le prime nel 2026 - Il Post](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUllczEwV0JlZkhjZjRIRUIySk5MM0dVOGpORmljOUVHVGk2Yl9aUnc5WFI0OXZLcktmMnItZHg2Z090RGx6WlRzdXB5SXRZQVN4S1R6ZFFRMHFQN2FsNndWUU1OU09FUDVUT0R5OF9mZ3JTbkZRNHZPbDJ0UEhrbUhzcw?oc=5)
 
-2026-08-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+2026-08-25 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxORll3UG9vem5iTWVkTnFQc0kwY0tIQ1NUZUxvdlNnTzJJRU9UVHg5SzNLU1VxaU5STENiMVdvNnY5MlNMX1Bad2ZSN3N2aG56ajh5bUd3TWVOeWVpSm93X0owNVRpcGsxOWgxNUpHOUdfZW9UNi1oLVdBdXNqVHdqWVhnRFJqUm5pQWlYYy1KSFFLMkExQmhKbjJYR2d4NzZibDQ4WmVwcFFyN05qTWFfQk8wa0RMb2oyWFpUd0VqMHlLTnBJWkpHY3FYOA?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUllczEwV0JlZkhjZjRIRUIySk5MM0dVOGpORmljOUVHVGk2Yl9aUnc5WFI0OXZLcktmMnItZHg2Z090RGx6WlRzdXB5SXRZQVN4S1R6ZFFRMHFQN2FsNndWUU1OU09FUDVUT0R5OF9mZ3JTbkZRNHZPbDJ0UEhrbUhzcw?oc=5)
 
 ---
 

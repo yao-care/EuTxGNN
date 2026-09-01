@@ -37,11 +37,11 @@ permalink: /news/parkinson-disease/
 
 ## 相關新聞（1 則）
 
-### [Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
+### [Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ?](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
 
 2026-08-31
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
+來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkl6bjdTWTVidFFKakJsZ0dOVnBMNTEzMnNQT0s0cTVUaV82LWs0Uk4xMUV5LVF6MXJLZ19RSEZYV0lzVEtJNjBxSDdvanlwd1J5Z1luOTRKRmdlWnR5REMwNlZnVzBoUWZfMkU3aUJxTEJLNFVxaHh4Q3RBS3FUNEJRV1F6a3N0bU9zeldZeS1TcW5Dc25lWml2UDJFTDBsc01uNlkzN1VBVUNCRml0VmVjTnJmY3Vnd2daSGhHRzRKX2pvVzNtVW1n?oc=5)
 
 ---
 
