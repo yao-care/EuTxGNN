@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,29 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [Convertir des cellules cérébrales en neurones pour lutter contre les maladies neurodégénératives - Le Monde.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVRqa1JFalhVaG10bHhhMmpsQ2VUQXlpcDdmUFcxbndZa0hhUlVrXy1ZdUZVVF9uTUloX1pZOFNPeERSU3Y1TXRWM1RDVEdmd0hlY3liQW1YOFQzTVNhcFF6ekJ5Qk5JcHlLVmpITUFKMUZXdG96UkFBM01PTGhWeFN2X0RCNXFaNkozUWQ0VXhPbWNaNjBqUE1EdXJuYzhoX1hmcXJaM1pGUXBwNUltMHY1aHdWdlRLMGtCYXhXMlhqWXNaZjdWbDVjbm5qNkotSHZKUWhhdDkwVkswbFBHNHBZTDRZcWhTRTkxb0xHZmlwMDhWUjk5d2wzeTA?oc=5)
-
-2026-09-01
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVRqa1JFalhVaG10bHhhMmpsQ2VUQXlpcDdmUFcxbndZa0hhUlVrXy1ZdUZVVF9uTUloX1pZOFNPeERSU3Y1TXRWM1RDVEdmd0hlY3liQW1YOFQzTVNhcFF6ekJ5Qk5JcHlLVmpITUFKMUZXdG96UkFBM01PTGhWeFN2X0RCNXFaNkozUWQ0VXhPbWNaNjBqUE1EdXJuYzhoX1hmcXJaM1pGUXBwNUltMHY1aHdWdlRLMGtCYXhXMlhqWXNaZjdWbDVjbm5qNkotSHZKUWhhdDkwVkswbFBHNHBZTDRZcWhTRTkxb0xHZmlwMDhWUjk5d2wzeTA?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
 2026-08-31
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
-
----
-
-### [Atorvastatin reduces major cardiovascular events but misses disability-free survival goal](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
-
-2026-08-29
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 
 ---
 

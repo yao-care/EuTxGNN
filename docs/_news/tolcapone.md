@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [El Parkinson crece; podría ser una carga de salud pública - El Heraldo de Puebla](https://news.google.com/rss/articles/CBMinAFBVV95cUxOckJSQ3NEMk5YeERabm1ncUQwaHJnSjRkWV91VmxUei1iak83QmtJWXZRd1lXdm5OSmJUc25fanlvVUtVT0tJSnlNZXgxbjdWQkpubDdOMko5LVVtTFo4Wm1nWXM0Y3lRSkJtNWhQYnN0eDBuVi1lcjBzY0lrOTYybnRyb095a0FBMzdTOFJwdHUwTXF3cVFtMm12b1c?oc=5)
-
-2026-09-02 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[El Heraldo de Puebla](https://news.google.com/rss/articles/CBMinAFBVV95cUxOckJSQ3NEMk5YeERabm1ncUQwaHJnSjRkWV91VmxUei1iak83QmtJWXZRd1lXdm5OSmJUc25fanlvVUtVT0tJSnlNZXgxbjdWQkpubDdOMko5LVVtTFo4Wm1nWXM0Y3lRSkJtNWhQYnN0eDBuVi1lcjBzY0lrOTYybnRyb095a0FBMzdTOFJwdHUwTXF3cVFtMm12b1c?oc=5)
-
----
-
-### [Convertir des cellules cérébrales en neurones pour lutter contre les maladies neurodégénératives - Le Monde.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVRqa1JFalhVaG10bHhhMmpsQ2VUQXlpcDdmUFcxbndZa0hhUlVrXy1ZdUZVVF9uTUloX1pZOFNPeERSU3Y1TXRWM1RDVEdmd0hlY3liQW1YOFQzTVNhcFF6ekJ5Qk5JcHlLVmpITUFKMUZXdG96UkFBM01PTGhWeFN2X0RCNXFaNkozUWQ0VXhPbWNaNjBqUE1EdXJuYzhoX1hmcXJaM1pGUXBwNUltMHY1aHdWdlRLMGtCYXhXMlhqWXNaZjdWbDVjbm5qNkotSHZKUWhhdDkwVkswbFBHNHBZTDRZcWhTRTkxb0xHZmlwMDhWUjk5d2wzeTA?oc=5)
-
-2026-09-01 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVRqa1JFalhVaG10bHhhMmpsQ2VUQXlpcDdmUFcxbndZa0hhUlVrXy1ZdUZVVF9uTUloX1pZOFNPeERSU3Y1TXRWM1RDVEdmd0hlY3liQW1YOFQzTVNhcFF6ekJ5Qk5JcHlLVmpITUFKMUZXdG96UkFBM01PTGhWeFN2X0RCNXFaNkozUWQ0VXhPbWNaNjBqUE1EdXJuYzhoX1hmcXJaM1pGUXBwNUltMHY1aHdWdlRLMGtCYXhXMlhqWXNaZjdWbDVjbm5qNkotSHZKUWhhdDkwVkswbFBHNHBZTDRZcWhTRTkxb0xHZmlwMDhWUjk5d2wzeTA?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-08-31 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
-
----
-
-### [Atorvastatin reduces major cardiovascular events but misses disability-free survival goal](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
-
-2026-08-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 
 ---
 

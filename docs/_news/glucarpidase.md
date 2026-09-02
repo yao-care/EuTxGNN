@@ -14,7 +14,7 @@ permalink: /news/glucarpidase/
 ---
 
 <p class="key-answer" data-question="Glucarpidase 有什麼相關新聞？">
-<strong>Glucarpidase</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glucarpidase</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/glucarpidase/
 <p><a href="{{ '/drugs/glucarpidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（7 則）
 
-### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula, al margen de la función cardíaca](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
-
----
-
-### [Cholesterin: Bei diesen Patienten senken Statine das Risiko für Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUxfQjQxcTdLQktmREUxN19GZlRLSFh1UkRGMnBuTS1xeDJGQURDR2Q3U3ZSdjBubVhrSXRoVjNUa2kxeU4xRDZ2a3dMeWdxSzhvanVocVcyU1dsSkxYQzlQVXhfNkk1Z1lTVExLNlFUalVLMUZOLXpEczI3SExnQ25fai1YUFFMWDZQSi02VFY0azlGTzMyV0hhTGk5ZzQ4TmJoeGJFSk9BdkJFeVIyQjNLRGZKZWEzUWYwbC1jQXNIb2V3VzFxdENMRC1jbjB5SXI5Uw?oc=5)
+### [Diabetes-Medikamente: 81% mehr Ketoazidose-Fälle in acht Jahren - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXVQdzV3aXNGc1BoLVJ6VElJN1Q3dlE0V05XVDJJdmVIWHNGUk8yYVpURHZBMlpDaDhheW5DMHVlY1hMQU5rM3RnOXFUcVYySVN4LUlGdmZwc0JNaGl3YWl6VmgzRXRIMDNydTNvTEJzSGlSMGVIM3JIZC1VMFh0QzFwalRacXh3alJBTi1YZzNJNmYzUndvdXJwb3pRT0ZhRTJhTzM5U3d4R09Ma2wtOUtTZFZ5RzJPeFVR?oc=5)
 
 2026-09-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUxfQjQxcTdLQktmREUxN19GZlRLSFh1UkRGMnBuTS1xeDJGQURDR2Q3U3ZSdjBubVhrSXRoVjNUa2kxeU4xRDZ2a3dMeWdxSzhvanVocVcyU1dsSkxYQzlQVXhfNkk1Z1lTVExLNlFUalVLMUZOLXpEczI3SExnQ25fai1YUFFMWDZQSi02VFY0azlGTzMyV0hhTGk5ZzQ4TmJoeGJFSk9BdkJFeVIyQjNLRGZKZWEzUWYwbC1jQXNIb2V3VzFxdENMRC1jbjB5SXI5Uw?oc=5)
-
----
-
-### [Dieta keto vs dieta mediterránea: qué funciona mejor según la ciencia](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJUdFRRQ2xHMlcxZzkxNGRlQi16dDZTT20zeDZLZ0E2dGtHejFnZTNKazJlaHJ4TEo1TmJ1dF9GaE10d3kwdHNxaXNPVlJzZmZCYjhzX1RKaXU5RlV4SkZUM2J4Q2RsV1Y4aGxfeEJKNVNtU09sXzVGZHVHelNIR2EwQlZlSzFHVGxubGpGNm1ReU1HOEtDVFNpMGlOOTkxVEVkejBtT0ZMYXpNOW5hZkhfR1A?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJUdFRRQ2xHMlcxZzkxNGRlQi16dDZTT20zeDZLZ0E2dGtHejFnZTNKazJlaHJ4TEo1TmJ1dF9GaE10d3kwdHNxaXNPVlJzZmZCYjhzX1RKaXU5RlV4SkZUM2J4Q2RsV1Y4aGxfeEJKNVNtU09sXzVGZHVHelNIR2EwQlZlSzFHVGxubGpGNm1ReU1HOEtDVFNpMGlOOTkxVEVkejBtT0ZMYXpNOW5hZkhfR1A?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXVQdzV3aXNGc1BoLVJ6VElJN1Q3dlE0V05XVDJJdmVIWHNGUk8yYVpURHZBMlpDaDhheW5DMHVlY1hMQU5rM3RnOXFUcVYySVN4LUlGdmZwc0JNaGl3YWl6VmgzRXRIMDNydTNvTEJzSGlSMGVIM3JIZC1VMFh0QzFwalRacXh3alJBTi1YZzNJNmYzUndvdXJwb3pRT0ZhRTJhTzM5U3d4R09Ma2wtOUtTZFZ5RzJPeFVR?oc=5)
 
 ---
 
@@ -86,14 +70,6 @@ permalink: /news/glucarpidase/
 
 ---
 
-### [Farmaci per dimagrire, quali funzionano di più? La nuova classifica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
-
----
-
 ### [Diabetes: Probiotikum als vielversprechende Option zur Behandlung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1JXb3BFSDVQUGNtM0lWd1gtclpZNlpCOURsbWxISFlYMnU2VnUxYk5obmpEZDBIV2h0dFhaeHFHQ20wNFF0YUVzRUN1ajVFRjI1bm9jUFk1ZVBrX1NqZVdSNEQ1YzlXeTMwOVkxTm0yLXJGQjVJbUROVVE0SlFMUDFpcm5BS1Q5LU1PNkZnTm8yVDhCN2hXWDdyMmNYQ1VBcmNlOGJQdm8zOE9zdkZDekwwR2E5X0RwcmdQZEdqeVh1V28?oc=5)
 
 2026-09-01 <span class="news-indication-tag">diabetes</span>
@@ -102,17 +78,25 @@ permalink: /news/glucarpidase/
 
 ---
 
-### [Why ‘bungalow legs’ may mean the end of my single-storey dream - The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTAwZERUa0ppTU13dGRJR3lSZUR0aF94R0M4NEw1SXItcXNqcXRpZkpzU0o2REluQVczajBRYnlBeUp4YWd3ZmJvbFJjcG9kUTQ0bXY2MDhrMkVYWDBwYXRmYXpFc0ZKOV9fM3UyYUNfOHdaU2FsYVpHMnVfZ1VMWERmTG5TT2JBNVU2YTJzanc2NW8xOVdzbm0yZXhaempKN0M0bU1zeGhzZlhxelBsWHA2WkQwOUliQ3E4UnppQVdpVHdRbG1JMg?oc=5)
+### [Wer bei Diabetes früh Statine nimmt, tut womöglich seinem Gehirn etwas Gutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXhTdGVUZ1p0NzZmZjhRc2hOTWhfQnVvS1ZzX0VKd2NDQVZMUlJCUTVQdTZEdTFRSklqYkxmTVJlSXdDaEZneG5CaU5MSnl2TXBENFFPN0VjbC1sTUsyUy1ISnBIalN4Q1hiSTl6VDhYQUEzVmlBX3RtckpZUV9UTWpCbGdrOHkxZjJNNFM1R2hlZjBFMldlYU0yOGlCQVVvRDk1NW5iQjdNTjFBTmhrV29ONEhacXhHN3pDUW1Dcmhkc28?oc=5)
 
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
+2026-09-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTAwZERUa0ppTU13dGRJR3lSZUR0aF94R0M4NEw1SXItcXNqcXRpZkpzU0o2REluQVczajBRYnlBeUp4YWd3ZmJvbFJjcG9kUTQ0bXY2MDhrMkVYWDBwYXRmYXpFc0ZKOV9fM3UyYUNfOHdaU2FsYVpHMnVfZ1VMWERmTG5TT2JBNVU2YTJzanc2NW8xOVdzbm0yZXhaempKN0M0bU1zeGhzZlhxelBsWHA2WkQwOUliQ3E4UnppQVdpVHdRbG1JMg?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXhTdGVUZ1p0NzZmZjhRc2hOTWhfQnVvS1ZzX0VKd2NDQVZMUlJCUTVQdTZEdTFRSklqYkxmTVJlSXdDaEZneG5CaU5MSnl2TXBENFFPN0VjbC1sTUsyUy1ISnBIalN4Q1hiSTl6VDhYQUEzVmlBX3RtckpZUV9UTWpCbGdrOHkxZjJNNFM1R2hlZjBFMldlYU0yOGlCQVVvRDk1NW5iQjdNTjFBTmhrV29ONEhacXhHN3pDUW1Dcmhkc28?oc=5)
+
+---
+
+### [La dieta keto es más eficaz que otras para perder peso y mejorar la respuesta cardiometabólica a corto plazo](https://news.google.com/rss/articles/CBMijAFBVV95cUxQajVTXzRObGNYOWk0LS1oUDZyeDNiem9tYWd5LVZCWGdqNkJhQlpISHdpZW94Q1Y3Vm9QQ24xOG16VDBEX0pjbFVxdDhGamFTMmhHVVdhclFmSUN6bC01YmVtYmJvR0ZQZDJJS0hkV1JHaTJ5V0VOZFRXNFBTOTNBVG13b1IwNmtaV3pfR9IBjAFBVV95cUxOcF9GVm50UTN1TmlSbVRVVHJaNmx1ckREd0hXQXN1cTVVQm02OXFKTUJZVkkzaHZybnNKYWxXcVpqREdLZFBVczdfRERNZ29ld0ZSTGxHYzhCRk1KbTNwd2FQSERLT3UwRnluUmprMUxwMnRHNE1QX191TkxqaVdnWkJjVHduNzUzTWFjeg?oc=5)
+
+2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Expansión](https://news.google.com/rss/articles/CBMijAFBVV95cUxQajVTXzRObGNYOWk0LS1oUDZyeDNiem9tYWd5LVZCWGdqNkJhQlpISHdpZW94Q1Y3Vm9QQ24xOG16VDBEX0pjbFVxdDhGamFTMmhHVVdhclFmSUN6bC01YmVtYmJvR0ZQZDJJS0hkV1JHaTJ5V0VOZFRXNFBTOTNBVG13b1IwNmtaV3pfR9IBjAFBVV95cUxOcF9GVm50UTN1TmlSbVRVVHJaNmx1ckREd0hXQXN1cTVVQm02OXFKTUJZVkkzaHZybnNKYWxXcVpqREdLZFBVczdfRERNZ29ld0ZSTGxHYzhCRk1KbTNwd2FQSERLT3UwRnluUmprMUxwMnRHNE1QX191TkxqaVdnWkJjVHduNzUzTWFjeg?oc=5)
 
 ---
 
 ### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-08-31 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
@@ -123,22 +107,6 @@ permalink: /news/glucarpidase/
 2026-08-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmlWWUtPOW1DMUlwV0l0N2V1LXFEbGFyV0s3UG1yR05WaEJRcDRwRU9iZEdvOTk1OHVyVmFwRmZUXzNKeHlKal9OY19iZmx0TUw4T1FKQVY0a21lWkRMMkVnQ0NwQk5YNUFfV2Y3d0xDNFJWanVGS1Z5TEdwRm9JLWRzaW5za0RRVmRzbnNSNTQwY2ZTaXZBYWszb1IxUWtMNl95SzNBTWdxaEtFMFEzOWgxNWc?oc=5)
-
----
-
-### [ESC in München: KI erkennt Bluthochdruck und Diabetes am Gesicht per Smartphone - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
-
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
-
----
-
-### [Sunlight, blood sugar and diabetes: a new study finds an intriguing connection](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
-
-2026-08-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
 ---
 

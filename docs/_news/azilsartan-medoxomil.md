@@ -14,7 +14,7 @@ permalink: /news/azilsartan-medoxomil/
 ---
 
 <p class="key-answer" data-question="Azilsartan Medoxomil 有什麼相關新聞？">
-<strong>Azilsartan Medoxomil</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azilsartan Medoxomil</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/azilsartan-medoxomil/
 <p><a href="{{ '/drugs/azilsartan-medoxomil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（38 則）
+## 相關新聞（32 則）
 
 ### [El beneficio de la trombectomía en el ictus de gran núcleo se mantiene, e incluso aumenta, al año de seguimiento](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcHF5QzVIc0ZZR0JENjJiekZmV0doOVRLTWlIY09GRC1tbVRrcDZCMmR1Nnlncm9yRkEyWmhQRXBuSTZqdUhuWC1Gc21Fd1FGS0pkdlYtQWVTbnVqdEY3MzlJYzIwR3dJWFNHNHF5Z1JEbTFxYTFka0dVaUUwS3Bsc3ZXT1R4TGc0eE93UXVQc2FEdVZuMHJLVTREVGV1REhrcERmY1ZRME95WkdWSHRJbmtHNzhxd1ctNVB6d1JrRTh0el81RXFMV1Q0aVRGMDI5MGFYOUVkSmZmcXpC?oc=5)
 
@@ -78,27 +78,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [I spotted random bruises on my legs on honeymoon - now I have no idea how long I have left - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHpWdlJiem5FRmhNMXNWQll6eHZsOVZRZnNZTkd4S3BOeUJ5T0QtSVRheFlVRENtMDJvUmk1N2dnZzhkYm43UTdxOFB5Vi16R2NSaTZtdEkyUlBsX0VEMUF1Q3NidzRZZjh0ZE9mX3NmWXhfak9RZFRmZXY3LXNxNTdHVUtEakhJLTBOLTh0Wk1hX2g3bXBObV93?oc=5)
-
-2026-09-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHpWdlJiem5FRmhNMXNWQll6eHZsOVZRZnNZTkd4S3BOeUJ5T0QtSVRheFlVRENtMDJvUmk1N2dnZzhkYm43UTdxOFB5Vi16R2NSaTZtdEkyUlBsX0VEMUF1Q3NidzRZZjh0ZE9mX3NmWXhfak9RZFRmZXY3LXNxNTdHVUtEakhJLTBOLTh0Wk1hX2g3bXBObV93?oc=5)
-
----
-
 ### [Impfstoff gegen Gürtelrose schützt vor Herzschwäche und Demenz](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
 
 2026-09-02 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[faz.net](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
-
----
-
-### [I dismissed leg aches that kept me awake for three years but it was the first sign of cancer age 21 - now it’s spread - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNQURVcGFEMkFRMUtCOXNJQWIwVUJPSnQ0OHFkRmx0ai1UektUN1BqbnVrRFNvWUw1MnBIT05hTkZlcXNjMWtpSHU1WkZaY09QaVU0SDRISUdUWFlwb3lOcjh0N3R3bF95NjFYM1lMUnJGZ3o3UDFWVUFVWGNZal83QUh2X1JjUjQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNQURVcGFEMkFRMUtCOXNJQWIwVUJPSnQ0OHFkRmx0ai1UektUN1BqbnVrRFNvWUw1MnBIT05hTkZlcXNjMWtpSHU1WkZaY09QaVU0SDRISUdUWFlwb3lOcjh0N3R3bF95NjFYM1lMUnJGZ3o3UDFWVUFVWGNZal83QUh2X1JjUjQ?oc=5)
+來源：[FAZ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
 
 ---
 
@@ -106,15 +90,7 @@ permalink: /news/azilsartan-medoxomil/
 
 2026-09-02 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[zm-online.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
-
----
-
-### [Santé. Boissons sucrées et cancer de l'estomac : un lien identifié pour la première fois - Le Progrès](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdEdPb3ZzTmg2TmI2dTNZZnMtTGZlaGxDZDF6TjUwZi1VbkRRaTY2Ykd3U3VobDA0dk00WW4xaG5QR01uTkJPaVFoWmlic2VRVlBSRzJseS1OM3B3a0h4ekExczdkbWFvU3ZteTAtSXQ3Mm1iUldnaWdvRkZWUHIyMUVWT2FsMm16OWIxek15bHpCdEt5OWNNeDhnbmRLSGxPZk8xNlJVT29QdF9yT3hVMVVhWFRkQWxMVU1CUkVfZ0tCbG5qZzd3LWVn?oc=5)
-
-2026-09-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdEdPb3ZzTmg2TmI2dTNZZnMtTGZlaGxDZDF6TjUwZi1VbkRRaTY2Ykd3U3VobDA0dk00WW4xaG5QR01uTkJPaVFoWmlic2VRVlBSRzJseS1OM3B3a0h4ekExczdkbWFvU3ZteTAtSXQ3Mm1iUldnaWdvRkZWUHIyMUVWT2FsMm16OWIxek15bHpCdEt5OWNNeDhnbmRLSGxPZk8xNlJVT29QdF9yT3hVMVVhWFRkQWxMVU1CUkVfZ0tCbG5qZzd3LWVn?oc=5)
+來源：[zm-online](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
 
 ---
 
@@ -123,14 +99,6 @@ permalink: /news/azilsartan-medoxomil/
 2026-09-02 <span class="news-indication-tag">tumor</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMV9BTWFCY01ITXBrRlV0RzViRGZDYmtHZ0p5VWl3S2dnMWh4eXJzN09pWmFkOTJWMVhGbmNpa2hQWFNUdGpaQW1jWlFMakJZbkd5c2pPN01ZVTY4TVdiZHBTRk0zSW1ldVdsV2piazZlSjhITVBhWnlmUi0yOTltLTJlaWtTLUJJOG1hRHFmNTY2cy1zSkR3ekVRTGdyWlJPdEs3STdNTWFaTE1HUW10b1FwTlJyOEx6VjFjOW9ybzJCZHpmTVhJWVJGeUJUM1lNdjNhUFAzY014UG1neHRFWA?oc=5)
-
----
-
-### [An oncologist's 6 rules for reducing cancer risk – and they're surprisingly simple - Women's Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0I3YWFBQW5qUDZ0MHZvb3gzYTNhdDJZbTFkVEhJbjN5OUpkWWFtOXpFWnNScUQ4TTRlTnR3empaU0hGaFZoOE1WR2FVN2JUanltTTJLNW84R0N0N0h3QkhiTngyRmZaTV9FcFRhNTdyTnNzODZXU1BTV2Noem1CSnRoYWNBQzNTZUd2RHdGSmxQVmRUTUNrSlRyWEFsWHdL?oc=5)
-
-2026-09-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Women's Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0I3YWFBQW5qUDZ0MHZvb3gzYTNhdDJZbTFkVEhJbjN5OUpkWWFtOXpFWnNScUQ4TTRlTnR3empaU0hGaFZoOE1WR2FVN2JUanltTTJLNW84R0N0N0h3QkhiTngyRmZaTV9FcFRhNTdyTnNzODZXU1BTV2Noem1CSnRoYWNBQzNTZUd2RHdGSmxQVmRUTUNrSlRyWEFsWHdL?oc=5)
 
 ---
 
@@ -154,39 +122,23 @@ permalink: /news/azilsartan-medoxomil/
 
 2026-09-02 <span class="news-indication-tag">tumor</span>
 
-來源：[agi.it](https://news.google.com/rss/articles/CBMieEFVX3lxTFBWWGFYRlpvanY3R2ZVNFRFSmNQOFNfeGZaWmc3S01zQUM0MzdWcHAyVDVIWFdkNUcyelAzUEhOME9iYnBsLUo3ZFVpSDRISnFicFJacS1Pc0hsamx0U3RIcm1nV0JvdVdNcGlNU043S3FnRXZXUXhTWg?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMieEFVX3lxTFBWWGFYRlpvanY3R2ZVNFRFSmNQOFNfeGZaWmc3S01zQUM0MzdWcHAyVDVIWFdkNUcyelAzUEhOME9iYnBsLUo3ZFVpSDRISnFicFJacS1Pc0hsamx0U3RIcm1nV0JvdVdNcGlNU043S3FnRXZXUXhTWg?oc=5)
 
 ---
 
-### [Urine test can spot more than nine in 10 bladder cancers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yMVJpVVQtT1ozMmFrckxqNDVTa0wxNlhMZnFaTkFTSFVYeXl5a1BVUEpwdm5WSDJWTzJLYkdzYS15MTM4NVBWN3pHSzd0S3lFMzNEZVlrenZmNnhT?oc=5)
+### [Tumore al pancreas, una nuova pillola quasi raddoppia la sopravvivenza](https://news.google.com/rss/articles/CBMixwFBVV95cUxNblNTeXNBeUNteTlTYmZ5RFlnSWM0azM2ZEU4ZGg0UzVETzJncjYtODd2elV0WlhndTRualY4azZCdGlSXzY3elJBUmJPOWl1X2NWbDBxOENHUDFtd3JOWDdvdGlHWU5pQk50OTZ1SkgzRkM5Z2Q1aTNqaVFONjlpR1AzRlRDa0NELXhqRnlQT1RJYVdMOGo0ZENreURrUlZIVERLS1N1SGplRHBPYUJ6cGZ2SGN0dVpNMEl3R1YxTnJyWVJYaVIw?oc=5)
 
-2026-09-02 <span class="news-indication-tag">cancer</span>
+2026-09-01 <span class="news-indication-tag">tumor</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yMVJpVVQtT1ozMmFrckxqNDVTa0wxNlhMZnFaTkFTSFVYeXl5a1BVUEpwdm5WSDJWTzJLYkdzYS15MTM4NVBWN3pHSzd0S3lFMzNEZVlrenZmNnhT?oc=5)
-
----
-
-### [La vacunación frente al herpes zóster se asocia con menos enfermedad cardiovascular en personas mayores de 60 años - El Español](https://news.google.com/rss/articles/CBMigwJBVV95cUxOb1FWM19ZRmRaLTFoU3lxd3hRcExsYUl1S3VtMUNKX3lSQjlCN3dQMF9pNlBrNXMwbzRfRVpDcjdPUS1Lc3o1aU04dm9Zd3hYSElYNkVRX0dWNU53bDRlVWpfcVdVTFVFT2VKcHRFazZEczRXVFhEY1dDM29FNUN5al9uSW9objRjbjVKa2Jmcl8xZElIckVTWGZxTl9iWk9EemVxbkRsZVJNeG90UjJZbzFaeDZsZmRJWkV4NXRMeUxEZlB6WXdidWF2ZXpRb0ppS3lock1lNFNJbXJId0puS1FrLVZEcUxjSFhLeWZNT25YZ0dfS2ttSHdHRFZ4TkJBQllR0gGIAkFVX3lxTE81V1hWdkh4c0V4NU54QXkwZzdEUDFnc0hFUHRXUFFrUHFWRmY2ZDZULWZoLW1telVvWmRQM0RqTmNWd3V5MXpSekwwQk1yZjdUV0NzaFZIZWlha3daM2VkVFFOX2VqRldiXzg1SEpraVIzRXBjSkFTU24xeEgzaTBfWXZYdG43d2lwRFRYOXEzV19DYVBIakY2cW41YXVXNFhwZXczanlkTEJQbFFEdmZOVk9TQ2h1S3JRVFJoeEFoOC16WDkwN2NrZE52YnJYUVM0QUJTMmlBN3FwR0RDbjktV3d6R0ZyYUNwSmUwQUpZN0xNdGhucnh0ZEZ2aEN5WGFwRjVTaHg0Wg?oc=5)
-
-2026-09-02 <span class="news-indication-tag">ictus</span>
-
-來源：[El Español](https://news.google.com/rss/articles/CBMigwJBVV95cUxOb1FWM19ZRmRaLTFoU3lxd3hRcExsYUl1S3VtMUNKX3lSQjlCN3dQMF9pNlBrNXMwbzRfRVpDcjdPUS1Lc3o1aU04dm9Zd3hYSElYNkVRX0dWNU53bDRlVWpfcVdVTFVFT2VKcHRFazZEczRXVFhEY1dDM29FNUN5al9uSW9objRjbjVKa2Jmcl8xZElIckVTWGZxTl9iWk9EemVxbkRsZVJNeG90UjJZbzFaeDZsZmRJWkV4NXRMeUxEZlB6WXdidWF2ZXpRb0ppS3lock1lNFNJbXJId0puS1FrLVZEcUxjSFhLeWZNT25YZ0dfS2ttSHdHRFZ4TkJBQllR0gGIAkFVX3lxTE81V1hWdkh4c0V4NU54QXkwZzdEUDFnc0hFUHRXUFFrUHFWRmY2ZDZULWZoLW1telVvWmRQM0RqTmNWd3V5MXpSekwwQk1yZjdUV0NzaFZIZWlha3daM2VkVFFOX2VqRldiXzg1SEpraVIzRXBjSkFTU24xeEgzaTBfWXZYdG43d2lwRFRYOXEzV19DYVBIakY2cW41YXVXNFhwZXczanlkTEJQbFFEdmZOVk9TQ2h1S3JRVFJoeEFoOC16WDkwN2NrZE52YnJYUVM0QUJTMmlBN3FwR0RDbjktV3d6R0ZyYUNwSmUwQUpZN0xNdGhucnh0ZEZ2aEN5WGFwRjVTaHg0Wg?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxNblNTeXNBeUNteTlTYmZ5RFlnSWM0azM2ZEU4ZGg0UzVETzJncjYtODd2elV0WlhndTRualY4azZCdGlSXzY3elJBUmJPOWl1X2NWbDBxOENHUDFtd3JOWDdvdGlHWU5pQk50OTZ1SkgzRkM5Z2Q1aTNqaVFONjlpR1AzRlRDa0NELXhqRnlQT1RJYVdMOGo0ZENreURrUlZIVERLS1N1SGplRHBPYUJ6cGZ2SGN0dVpNMEl3R1YxTnJyWVJYaVIw?oc=5)
 
 ---
 
-### [CKM Syndrome: 79% of Young Adults Show Early Signs](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
+### [Primera cirugía cerebral del mundo con inteligencia artificial en tiempo real permite extirpar un tumor con éxito](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTMwWDRmY0NxVlNRTENEVTU4QmVCWm5ZWHFrT0NIWWJTNlp6cG0wd2xETFpzdldIQS0yeWlRcEhLSXdzT2xGWXlvUE1MemlBQ3hDOTVhd0FZWnhFVFpNazBmd3FMeW9xZWtOV0Rvci16WGZ5TXlVSjg1bXl5R3ZXZDFWelBSX0NwMUdOR2xSRndfVG5JVVQyXzdnalFKT1I2Qm4wckpIMUtaVUhDT0tBTXhrdnlaeDI2S1ZveEMyaw?oc=5)
 
-2026-09-01 <span class="news-indication-tag">heart disease</span>
+2026-09-01 <span class="news-indication-tag">tumor</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
-
----
-
-### [Why ‘bungalow legs’ may mean the end of my single-storey dream - The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTAwZERUa0ppTU13dGRJR3lSZUR0aF94R0M4NEw1SXItcXNqcXRpZkpzU0o2REluQVczajBRYnlBeUp4YWd3ZmJvbFJjcG9kUTQ0bXY2MDhrMkVYWDBwYXRmYXpFc0ZKOV9fM3UyYUNfOHdaU2FsYVpHMnVfZ1VMWERmTG5TT2JBNVU2YTJzanc2NW8xOVdzbm0yZXhaempKN0M0bU1zeGhzZlhxelBsWHA2WkQwOUliQ3E4UnppQVdpVHdRbG1JMg?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTAwZERUa0ppTU13dGRJR3lSZUR0aF94R0M4NEw1SXItcXNqcXRpZkpzU0o2REluQVczajBRYnlBeUp4YWd3ZmJvbFJjcG9kUTQ0bXY2MDhrMkVYWDBwYXRmYXpFc0ZKOV9fM3UyYUNfOHdaU2FsYVpHMnVfZ1VMWERmTG5TT2JBNVU2YTJzanc2NW8xOVdzbm0yZXhaempKN0M0bU1zeGhzZlhxelBsWHA2WkQwOUliQ3E4UnppQVdpVHdRbG1JMg?oc=5)
+來源：[cfg.sld.cu](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTMwWDRmY0NxVlNRTENEVTU4QmVCWm5ZWHFrT0NIWWJTNlp6cG0wd2xETFpzdldIQS0yeWlRcEhLSXdzT2xGWXlvUE1MemlBQ3hDOTVhd0FZWnhFVFpNazBmd3FMeW9xZWtOV0Rvci16WGZ5TXlVSjg1bXl5R3ZXZDFWelBSX0NwMUdOR2xSRndfVG5JVVQyXzdnalFKT1I2Qm4wckpIMUtaVUhDT0tBTXhrdnlaeDI2S1ZveEMyaw?oc=5)
 
 ---
 
@@ -206,11 +158,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [El primer paciente del mundo al que le retiraron un tumor en el cerebro con ayuda de la IA](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wNF9ySUxLVTVRMXo5Y0JXYWlkYkE2VnRGRERmQ1U1c1VldlZ3STRwcDJQcVpzZllXOEpGRG5vOHktZDNSMDB6RzhPc2VaZkV5SE0yZC05Q3phN2PSAWBBVV95cUxOeXZuNVB6RE1oRWVKTTBlXzI5dlVFbVU4bFo3SGdSenAweFZfN1hjRTNMaF9EWlRjVVFmLXVMbjdpNGxtZndtWTFyODBhbjNLOGl3eVFUYnBoM1dsTWJWZy0?oc=5)
+### [Aterosclerosis: la enfermedad que ya está presente en uno de cada 13 jóvenes y causa infartos e ictus](https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1dJZWU2eWd1NG9lZVMzYTZ6U3l1TnBPMGxMODBMLVp0TFZQWGtLSUszaFAwbWFtZmNlanQ2QkNMR2FGMk16ZG9ZekxQQmxDVko4VG5hbzktckFFUjdnVFdBcncyandqTU9pOVdpTDhBWUpMRV9nREpubTAxWnZtOGNzM1BReGVNZTU4UHFWanNzUUtVU3Y3blRQenBLMkItT29rczRaWEZ2QUdHLVF3Mm5B0gG3AUFVX3lxTE9FRGttOV8wUTVEbGdlaV9IbUZSS1VoZEpkX1R4bzRsUXp6SVh4ZG5kNTY3U1pDTWsza0Yzc1hZQ0FqUHBDWGhoZlpWSjJLc0hjQndnRDV4Q0l0M0xxRl9DdnR2SEg4MUtfck5WVlU4TnNNYlVPUEdmUzE2T2Faa014aVJzRXY4NVlwZENxS1FxblJOVnJPQ1V6WTc1ZjdBaEloUzNFa1ZQN3hDNmVqQ0k4SFhkV0FQcw?oc=5)
 
-2026-09-01 <span class="news-indication-tag">tumor</span>
+2026-09-01 <span class="news-indication-tag">ictus</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wNF9ySUxLVTVRMXo5Y0JXYWlkYkE2VnRGRERmQ1U1c1VldlZ3STRwcDJQcVpzZllXOEpGRG5vOHktZDNSMDB6RzhPc2VaZkV5SE0yZC05Q3phN2PSAWBBVV95cUxOeXZuNVB6RE1oRWVKTTBlXzI5dlVFbVU4bFo3SGdSenAweFZfN1hjRTNMaF9EWlRjVVFmLXVMbjdpNGxtZndtWTFyODBhbjNLOGl3eVFUYnBoM1dsTWJWZy0?oc=5)
+來源：[Deia](https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1dJZWU2eWd1NG9lZVMzYTZ6U3l1TnBPMGxMODBMLVp0TFZQWGtLSUszaFAwbWFtZmNlanQ2QkNMR2FGMk16ZG9ZekxQQmxDVko4VG5hbzktckFFUjdnVFdBcncyandqTU9pOVdpTDhBWUpMRV9nREpubTAxWnZtOGNzM1BReGVNZTU4UHFWanNzUUtVU3Y3blRQenBLMkItT29rczRaWEZ2QUdHLVF3Mm5B0gG3AUFVX3lxTE9FRGttOV8wUTVEbGdlaV9IbUZSS1VoZEpkX1R4bzRsUXp6SVh4ZG5kNTY3U1pDTWsza0Yzc1hZQ0FqUHBDWGhoZlpWSjJLc0hjQndnRDV4Q0l0M0xxRl9DdnR2SEg4MUtfck5WVlU4TnNNYlVPUEdmUzE2T2Faa014aVJzRXY4NVlwZENxS1FxblJOVnJPQ1V6WTc1ZjdBaEloUzNFa1ZQN3hDNmVqQ0k4SFhkV0FQcw?oc=5)
 
 ---
 
@@ -222,11 +174,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Va in ospedale per un’ernia, scopre un tumore di 30 centimetri nell’addome](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU1UVjlibGo2dG1rNm5pcnEtN05sYkI5SmZ5Uzhhb2haNUtlRlphM2FvQmptTVZVOG45VFRHSm1uNTZ6bXNCR3ZXMjNZU3ozTmw2U3h3V2p1ZGJXUTBtcTRjbzNMLTlTZHF2TEs1VDZmaWFMVzNrWkFmajBFSXFpVGthYUdqN2VrX1VBTUlaVWk2V091eXY5WVpMaHJHTHpnTXlqT0N4ZEdfU25tYkZQRWU3U1l2UjNRaUJHMHdIT21UVUtMWXdOT01R?oc=5)
+### [L'oncologo Ermanno Leo: «Il cancro c'era già nelle mummie, oggi è diventato un grande business. Ho operato più di 35 mila persone. Curai Gino Paoli» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnhWdEF4WGdwTHpENGt3eWpFMDhiSHhHOFJYMWRhaktlVTdDdXU3dnZhQ0htaWtVVmRIZzByQzRwdjQ2bkNGN3hCMlZ6bnBrTFYtOE5WTWlxWlhqSS04ZkI1a2s1bUdxN1JUbElPYkhoVTlZcUFuSlZoWDFqQUx5b1F1NFhJYUNRVnZMTkFrSDNrSGRadGlpakFZRkNmZnpnYnA1TE1HNXJ6X2pJT3pHVzRPRF90ekpHeTNaN2V3ZlPSAcYBQVVfeXFMTzYyZjBKbkc2SU9waDA0SG5vVWZXR29MVHZEam1YRE03Uko1SmRRTUFXMG5obW9GYlRhSGo3ZkVucEx2b1hqbjFWSjRFZmNXclVsR1ZOX1NMNDJhNW0tUjBBUFhRSHdzVVZpaGlieUU0b3o2eFh6Y1ZyVTlYYVhHSW9kbjdBcmxVRkFxSzctb0R0VWxJZWhZVzJpa05mUXJ3cDkzSENHZzJjODlHUFVQVjg1SEZTMVVsRlFXOHU5U0oyeTRKb1ZB?oc=5)
 
-2026-09-01 <span class="news-indication-tag">tumor</span>
+2026-09-01 <span class="news-indication-tag">cancro</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU1UVjlibGo2dG1rNm5pcnEtN05sYkI5SmZ5Uzhhb2haNUtlRlphM2FvQmptTVZVOG45VFRHSm1uNTZ6bXNCR3ZXMjNZU3ozTmw2U3h3V2p1ZGJXUTBtcTRjbzNMLTlTZHF2TEs1VDZmaWFMVzNrWkFmajBFSXFpVGthYUdqN2VrX1VBTUlaVWk2V091eXY5WVpMaHJHTHpnTXlqT0N4ZEdfU25tYkZQRWU3U1l2UjNRaUJHMHdIT21UVUtMWXdOT01R?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnhWdEF4WGdwTHpENGt3eWpFMDhiSHhHOFJYMWRhaktlVTdDdXU3dnZhQ0htaWtVVmRIZzByQzRwdjQ2bkNGN3hCMlZ6bnBrTFYtOE5WTWlxWlhqSS04ZkI1a2s1bUdxN1JUbElPYkhoVTlZcUFuSlZoWDFqQUx5b1F1NFhJYUNRVnZMTkFrSDNrSGRadGlpakFZRkNmZnpnYnA1TE1HNXJ6X2pJT3pHVzRPRF90ekpHeTNaN2V3ZlPSAcYBQVVfeXFMTzYyZjBKbkc2SU9waDA0SG5vVWZXR29MVHZEam1YRE03Uko1SmRRTUFXMG5obW9GYlRhSGo3ZkVucEx2b1hqbjFWSjRFZmNXclVsR1ZOX1NMNDJhNW0tUjBBUFhRSHdzVVZpaGlieUU0b3o2eFh6Y1ZyVTlYYVhHSW9kbjdBcmxVRkFxSzctb0R0VWxJZWhZVzJpa05mUXJ3cDkzSENHZzJjODlHUFVQVjg1SEZTMVVsRlFXOHU5U0oyeTRKb1ZB?oc=5)
 
 ---
 
@@ -238,19 +190,35 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+### [Vacuna del herpes zóster: el hallazgo inesperado que previene infartos en mayores de 60 años - Redacción médica](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcWlqbFhmQks1OE5kdXI2N05ic1ZsVGxvZlpQS1ZsRXhIZHRJR0c3akZjSGQyaEl3NUNSWlB1cXEyN0lRNV91WVBvYi1GWGMwNnlTSVp6cm81RVRwTmsxSWZPSUJteXhCQldQdklpSzdIaFhqbnJzanl3Nk5BOWExNm5KNU5oWmIySEdzc2QyX2pYWElJUVMtRW85dFdVd1l5dDZIUkVjekxieHRIZE55TTVfUHVOS0JDeW15a1ZONHE5X2pGWEF4WlhNYVY2aFFUSFhSRFI0N3hYU0pRSmNHeTMwZVM2aTJWaTZFc0NWZ0tJdGk40gH6AUFVX3lxTE1tTzM3dUhGblBDYi1HWXRyb2xjaGJBQTV2VTA4RzRZdEJsRGtRMnpWeEczMXBFSU96dTFUek9zYTJrRF9yV0lHdVRXbG5sWXRkSGUyZExmN1U2cGtYSWxYa3E0OWQ1dmpRMzdaNUNjNmZOZVZnczctWGYxdHc2S0J0SkluS3hhTVJIVlc4OHRLUXlScWlxMUJXdllqdm43TUgxVVBQeklMUEw0SDVMQU1Cc0tmTXhPMkJ6eE9nNGhQYnVqa0k4eU9teTFhZW56RnB3UF9RR1p2OVlWQ2VZQ0NSa0lpM2tEQ1pQSFpfRE40NXlqOUd0b2RPYmc?oc=5)
 
-2026-09-01 <span class="news-indication-tag">heart disease</span>
+2026-09-01 <span class="news-indication-tag">ictus</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcWlqbFhmQks1OE5kdXI2N05ic1ZsVGxvZlpQS1ZsRXhIZHRJR0c3akZjSGQyaEl3NUNSWlB1cXEyN0lRNV91WVBvYi1GWGMwNnlTSVp6cm81RVRwTmsxSWZPSUJteXhCQldQdklpSzdIaFhqbnJzanl3Nk5BOWExNm5KNU5oWmIySEdzc2QyX2pYWElJUVMtRW85dFdVd1l5dDZIUkVjekxieHRIZE55TTVfUHVOS0JDeW15a1ZONHE5X2pGWEF4WlhNYVY2aFFUSFhSRFI0N3hYU0pRSmNHeTMwZVM2aTJWaTZFc0NWZ0tJdGk40gH6AUFVX3lxTE1tTzM3dUhGblBDYi1HWXRyb2xjaGJBQTV2VTA4RzRZdEJsRGtRMnpWeEczMXBFSU96dTFUek9zYTJrRF9yV0lHdVRXbG5sWXRkSGUyZExmN1U2cGtYSWxYa3E0OWQ1dmpRMzdaNUNjNmZOZVZnczctWGYxdHc2S0J0SkluS3hhTVJIVlc4OHRLUXlScWlxMUJXdllqdm43TUgxVVBQeklMUEw0SDVMQU1Cc0tmTXhPMkJ6eE9nNGhQYnVqa0k4eU9teTFhZW56RnB3UF9RR1p2OVlWQ2VZQ0NSa0lpM2tEQ1pQSFpfRE40NXlqOUd0b2RPYmc?oc=5)
 
 ---
 
-### [La reirradiación con protonterapia logra un 67% de supervivencia en cáncer de cabeza y cuello, según un estudio - Cantabria Liberal](https://news.google.com/rss/articles/CBMiggJBVV95cUxNQjhtbjVpd3BnUnZoVmZBTmhZallJMTFpOHZWRENTREJrMXJjQ0VUcG5nUkV3Ml9RejhjMnU5aDRMZlpqUnRqaWlfMlBlREFoeFZEbTQwZVpFZEpQU0phSVFPak1UY3ctSjRRYkZ1VDNBelk3bnRBc0J6azdJUEpodUtSa2JidElMOEJ2bVUyTEk0SnV3SC1wbUJ5YTRQSTM3aVpzempJUjAza08xWEpnbDZ6aGk2anVoZUpKbkkyNU03NUhrNmZTZVVBRUo0bFZ0VnFXajM2Y1BQQTZ4TUZUNnJLTHVSOUlUMmY3dTZweERwU2RUV0JBNGpqUGRBRWFCR2c?oc=5)
+### [La reirradiación con protonterapia logra una supervivencia del 67% en pacientes con recaída de cáncer de cabeza y cuello](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdmg0b1dMVDFDZ2xhZjBPdTFPTVlDbWdPWFh3V09SVnBTS2RVYmg1LTVFZ3l6NEJoWmxUSFZNcDBwM0VFZERwMGNEaE0zLWhoN3NiXzFRb1RVX2MzMk1INFpqNDVMeWFMUnpJVThfU2V3VWpMMjdZdFp4Y002cW94VWR0RWNmTkowdmNWQm9EOUZFVGhtcHhXTFVUSHBRdXY0MFo2c0ltaVBHc3MxYzQwRE81UnVBSEhCVkV1bGprOXVOdERUQ2hGOW42ODB2OFo2V0RHX2N6NDdKb2NIZTNVRU9iRWkzaEJmM3c?oc=5)
 
 2026-08-31 <span class="news-indication-tag">tumor</span>
 
-來源：[Cantabria Liberal](https://news.google.com/rss/articles/CBMiggJBVV95cUxNQjhtbjVpd3BnUnZoVmZBTmhZallJMTFpOHZWRENTREJrMXJjQ0VUcG5nUkV3Ml9RejhjMnU5aDRMZlpqUnRqaWlfMlBlREFoeFZEbTQwZVpFZEpQU0phSVFPak1UY3ctSjRRYkZ1VDNBelk3bnRBc0J6azdJUEpodUtSa2JidElMOEJ2bVUyTEk0SnV3SC1wbUJ5YTRQSTM3aVpzempJUjAza08xWEpnbDZ6aGk2anVoZUpKbkkyNU03NUhrNmZTZVVBRUo0bFZ0VnFXajM2Y1BQQTZ4TUZUNnJLTHVSOUlUMmY3dTZweERwU2RUV0JBNGpqUGRBRWFCR2c?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdmg0b1dMVDFDZ2xhZjBPdTFPTVlDbWdPWFh3V09SVnBTS2RVYmg1LTVFZ3l6NEJoWmxUSFZNcDBwM0VFZERwMGNEaE0zLWhoN3NiXzFRb1RVX2MzMk1INFpqNDVMeWFMUnpJVThfU2V3VWpMMjdZdFp4Y002cW94VWR0RWNmTkowdmNWQm9EOUZFVGhtcHhXTFVUSHBRdXY0MFo2c0ltaVBHc3MxYzQwRE81UnVBSEhCVkV1bGprOXVOdERUQ2hGOW42ODB2OFo2V0RHX2N6NDdKb2NIZTNVRU9iRWkzaEJmM3c?oc=5)
+
+---
+
+### [Statines : le médicament ne réduit pas que le cholestérol pour ces patients - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AVC</span>
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
+
+---
+
+### [Thymus und Krebs: Höhere Strahlung erhöht Metastasen-Risiko um 95% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVJRQ0dFMkpjUnM1N2djQ1Z2b1VGQ3lXNzhLYWtYVnRqWFdpSlhROVMzMXpHbmM0TC1zRUZ0dmRNMEFtbVRRakwwRVJxX2VlY3dDZ3h4WVg0eVFka3R0dnNEQlBSb01GVDRaU2h2ZHZkYklGUkVITUtldlEwZUE3aWZ1dVdTRjJBaFZHbGJ5SE94d0hfeUhjenoxU1g1ZXltanBKcTh1WHBNak0tVjdkVjl6VkFWdw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVJRQ0dFMkpjUnM1N2djQ1Z2b1VGQ3lXNzhLYWtYVnRqWFdpSlhROVMzMXpHbmM0TC1zRUZ0dmRNMEFtbVRRakwwRVJxX2VlY3dDZ3h4WVg0eVFka3R0dnNEQlBSb01GVDRaU2h2ZHZkYklGUkVITUtldlEwZUE3aWZ1dVdTRjJBaFZHbGJ5SE94d0hfeUhjenoxU1g1ZXltanBKcTh1WHBNak0tVjdkVjl6VkFWdw?oc=5)
 
 ---
 
@@ -270,14 +238,6 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Handheld Device Accurately Detects Cancer and HIV Without Lab](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzlVYmdVcnBtYWt1bXd2YUktZzRBbjJiRjNwZ3pzTGhYNzZrUHlOVmFKaEg1TEd5ZmNaWDB3QkNLejllZHlHbjR0bG5SRmptTkQydW56MDJyZkpRaHduVlpLTllPd3R5Y1d0YzZQeW9MY3RLWC1mbFo1czczQnp2YjBkNEV5LWc0cFU1MDdPaWsxdllFZm5JaWtxOGdpMmszeFZoX0dzNWpGeUU?oc=5)
-
-2026-08-31 <span class="news-indication-tag">cancer</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzlVYmdVcnBtYWt1bXd2YUktZzRBbjJiRjNwZ3pzTGhYNzZrUHlOVmFKaEg1TEd5ZmNaWDB3QkNLejllZHlHbjR0bG5SRmptTkQydW56MDJyZkpRaHduVlpLTllPd3R5Y1d0YzZQeW9MY3RLWC1mbFo1czczQnp2YjBkNEV5LWc0cFU1MDdPaWsxdllFZm5JaWtxOGdpMmszeFZoX0dzNWpGeUU?oc=5)
-
----
-
 ### [Tumore della prostata, lo specialista abbassa il colesterolo: ma nel trial gli eventi non calano](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFMyX1NSTEVxU0w2QndZVXRBMnNMTHpPLXNTQkQ0ZUFPVUpHT0dfWGxtNDFaR0NMR05nOHAySm82NERHRW5uNU1BdXlXUmc1OTVqZTVpQlp4aENEM0YydGxPRzZIa2M2VjNKQkJiclZCZlc5aHg0aGJ2bDJBM09zUVllSFdTVXZLNXBNM0hDeW1uM2hnUFBBM0daUXozM1VnSnpHTGZpQ0lIRWZGeGJaMVg0M0FGeWtTYnJ4aFZpYmVJTThJeFZNYzdiUlZHejZOSU14QWl3UXB0cUg0cTUzTV8xMFRoZEs1Q2c?oc=5)
 
 2026-08-30 <span class="news-indication-tag">tumor</span>
@@ -286,43 +246,35 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Tumore alla prostata: ecco come cambia "faccia" per sfuggire alle cure - The Wom Healthy](https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2Z0c25KemVwT1I0eWlXcjVMclRuUmRvN1IwYTAxVkMwQkZQYXczdl81UDdER0NNeExyOTVfalI1MWdjX0FHV0NPNzZHbTFJUHprVXdKX2VJa1pVOGpfMkk5UTIya3MtR3ZuWFBzemtEN2NuQXZ2YUFIc2l0V0I0QXFreHM5OWFocTd5cXA3SE1CdHIybkpKU2NFQmVsZ0Z6UWs4c1EzUkNNVGVjRC1EOV9iZU5LWldDQVZybzlNb2M4QVRaZzdCNmM4UkFfUQ?oc=5)
+### [Infarti e ictus, svolta nelle cure grazie alle statine: così si abbattono i rischi per gli over 70 - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3ZwTjMzV0czdi1wcHlZTVg3M0hoVjFoZ1BSdzV6aFFKQktKY01MUjJHSjk3SW82STJ3dFAxdkw5eHVwei1EelozcUtrSlhPSVo3dGpMeXpOWFdNNEpGd0xHa0NhaHctUlVJcXhQWjU4bDdDc2x2SDIxWkdjQzRmSnAxUksxRWE1TkZKTWhPZ254dG53ZEtjMVJhZG5nNVpPSXpIcDZod3diNTgyekVTZlhNZ25zTkZH?oc=5)
 
-2026-08-30 <span class="news-indication-tag">tumor</span>
+2026-08-30 <span class="news-indication-tag">ictus</span>
 
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2Z0c25KemVwT1I0eWlXcjVMclRuUmRvN1IwYTAxVkMwQkZQYXczdl81UDdER0NNeExyOTVfalI1MWdjX0FHV0NPNzZHbTFJUHprVXdKX2VJa1pVOGpfMkk5UTIya3MtR3ZuWFBzemtEN2NuQXZ2YUFIc2l0V0I0QXFreHM5OWFocTd5cXA3SE1CdHIybkpKU2NFQmVsZ0Z6UWs4c1EzUkNNVGVjRC1EOV9iZU5LWldDQVZybzlNb2M4QVRaZzdCNmM4UkFfUQ?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3ZwTjMzV0czdi1wcHlZTVg3M0hoVjFoZ1BSdzV6aFFKQktKY01MUjJHSjk3SW82STJ3dFAxdkw5eHVwei1EelozcUtrSlhPSVo3dGpMeXpOWFdNNEpGd0xHa0NhaHctUlVJcXhQWjU4bDdDc2x2SDIxWkdjQzRmSnAxUksxRWE1TkZKTWhPZ254dG53ZEtjMVJhZG5nNVpPSXpIcDZod3diNTgyekVTZlhNZ25zTkZH?oc=5)
 
 ---
 
-### [Statine e colesterolo dopo i 70 anni: quando servono davvero contro l'infarto e i rischi da non sottovalutare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
+### [Maidstone woman's early cancer symptoms blamed on menopause](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
 
-2026-08-29 <span class="news-indication-tag">ictus</span>
+2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWUtNU1hXzMwTWNXOGZ4NjJyeFY5WlhkR19mNlJyblp3QVc4UEtmNS1JOVdfUU5WWEhNUkpDUC1SRUJLa1NBUDFJa0t3a2xNalRrR3NxNmJfVE50Q0dXVzZDQ0hoeVdFWDJHTmR4cmktYUQxbEMxTGt5em9XUDV3SEVxTWRDSTJRcWJqY1A1OURtZjNHaDh6Z0dvdHdNdHdlTFNreU9ONmJCWndEaHoxYXRIbmZNaGFmOExsTVE5MGZBa1NWWVZBWjRDeHpFaVZTcjZIR2FKRGpvUnRhUjZVOC1pLXpmSG0ybkE?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
+
+---
+
+### [Atorvastatin reduces major cardiovascular events but misses disability-free survival goal](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
+
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 
 ---
 
 ### [Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
 
-2026-08-29 <span class="news-indication-tag">stroke</span>
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
-
----
-
-### [Harnblasenkarzinom | Der Trend geht zur multimodalen Therapie von Blasenkrebs](https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2VmbUMwTjhtSDNTbjVlMzBYQm1qdU96OFA0Q2pFR3dQTTFha3BqeGRoU3VDeGV4SjFWUzZldGZwVlZtR3VaQlFvUjZKODZSOUFDV1JRb1RGUjlVbjNTZU9BT1p6MEtQbTVpVnpCNEV1S2xHWUhDaFZrcGNDWE5hN0gyZ0FJM0pIdzBueUFnMHF3akJmTVlrcGhLdENjYkRHcllxN2JfbXRCT1lmN3BUUXNaLVY3ZjhsODk0NTVVelM2T3N5Mmo5MVpmZ2JDbWM?oc=5)
-
-2026-08-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2VmbUMwTjhtSDNTbjVlMzBYQm1qdU96OFA0Q2pFR3dQTTFha3BqeGRoU3VDeGV4SjFWUzZldGZwVlZtR3VaQlFvUjZKODZSOUFDV1JRb1RGUjlVbjNTZU9BT1p6MEtQbTVpVnpCNEV1S2xHWUhDaFZrcGNDWE5hN0gyZ0FJM0pIdzBueUFnMHF3akJmTVlrcGhLdENjYkRHcllxN2JfbXRCT1lmN3BUUXNaLVY3ZjhsODk0NTVVelM2T3N5Mmo5MVpmZ2JDbWM?oc=5)
-
----
-
-### [ESC in München: KI erkennt Bluthochdruck und Diabetes am Gesicht per Smartphone - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
-
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
 
 ---
 
@@ -342,11 +294,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Negli Stati Uniti è stato approvato un trattamento per la forma più comune di cancro al pancreas che allunga la vita dei pazienti - Il Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWFocmdTZWstSjEtSl9VNnlXbFJtaEl1M2JSNmlXS0E2Zkk1SS1LQXkwYUw3Vk9jQnJ1NVJJVENUdlZVOGhpbjdvejNaX3dJOEpDZm0wclZhY0lsRXVwM29GbXJUM09TZmJyeEJiMFlndDItMjhYWXRIX1JXbjJ2ZktpZTIwekdhOV93Z19nVWJoa0RZMTdoNVBqRQ?oc=5)
+### [Prostatakrebs-Screening entdeckt klinisch relevante Tumoren bei Trägern von BRCA1/BRCA2-Keimbahnvarianten - Biermann Medizin](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHFyX1Z5a3hPOV83dS1YdmdxbWRYZFBBb3E2M1FleFdMam5OZzExaGI1Z2Q4cDNnUG5ZaEh2UTRkdlE2dnQxOTBLV2xHOUdvV2t4SXNrYTBWTEV3ZXR5bHViNmVJZUxsS0NKSmxONGVxYko2dVkyNjdTRWU4SlhBMUNJclZwdDRjd05WMkhKSF81ZktsQnBpOUwtS09Ibk9fbXduX0pabl9kZlRaeTV2QnVyLUUta3A1UUxEWGVOajl1Wkt2TTRtZUsyNmFpTmJa?oc=5)
 
-2026-08-27 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-08-28 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWFocmdTZWstSjEtSl9VNnlXbFJtaEl1M2JSNmlXS0E2Zkk1SS1LQXkwYUw3Vk9jQnJ1NVJJVENUdlZVOGhpbjdvejNaX3dJOEpDZm0wclZhY0lsRXVwM29GbXJUM09TZmJyeEJiMFlndDItMjhYWXRIX1JXbjJ2ZktpZTIwekdhOV93Z19nVWJoa0RZMTdoNVBqRQ?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHFyX1Z5a3hPOV83dS1YdmdxbWRYZFBBb3E2M1FleFdMam5OZzExaGI1Z2Q4cDNnUG5ZaEh2UTRkdlE2dnQxOTBLV2xHOUdvV2t4SXNrYTBWTEV3ZXR5bHViNmVJZUxsS0NKSmxONGVxYko2dVkyNjdTRWU4SlhBMUNJclZwdDRjd05WMkhKSF81ZktsQnBpOUwtS09Ibk9fbXduX0pabl9kZlRaeTV2QnVyLUUta3A1UUxEWGVOajl1Wkt2TTRtZUsyNmFpTmJa?oc=5)
 
 ---
 

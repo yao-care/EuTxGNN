@@ -3,7 +3,7 @@ layout: default
 title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Hipertensión: cuál es la mejor dieta para controlar la presión arterial, según un cardiólogo - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUJ0T2c5UEVod0pHbU1NQ1IzZ1o2S1BwZjJKYl9iMkIzclE0ckMwdnItWC02TVdPRW44VGJxM2N3LU95NXhuMThocnN5emVkX29sMnJJeDZNUlFMbUFRZkVLb0d6M2V6bXI3ZFdkWXhKNVhEX3dncUIzQUlNY0ZVVzc2N3FrLXZBUkt3Z3h5QnMyX3Y3WE04MWNRTHJvNzFPSzhBQXZjandIWG50N2hKOEdlZ2wxZmpvR1MyNWlDNnV6aWlKVU9BWlV5alAwd9IB0wFBVV95cUxOalNpdmVNTzlYZjBRMVpMNDk3bThaMjUtd3lBXzVWMkZxeDVUU3d3am5JYmJWVTZQaGIxLXcwdWY0NkFXRHV6d3Ewd3dzbGs0ZDc5dmV2dnY0cFFqUE1EdElWQXN3ZDNCUUJUVU5GcGk3ald3X2M3UHF6Q2NXV2o0dnR1NXB5dGg4cXlhVFB3c3hpeTVVRFdWMl9hcDVZMnBJSm81NUF6VW9ZTlZQU19CV0pRM1N4eGtZYXROSXJNaElRMkVTS182aGtVV1ZNeVZEMnd3?oc=5)
 
@@ -97,15 +97,7 @@ permalink: /news/hypertension/
 
 2026-09-02
 
-來源：[faz.net](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
-
----
-
-### [ESC in München: KI erkennt Bluthochdruck und Diabetes am Gesicht per Smartphone - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
-
-2026-08-28
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
+來源：[FAZ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
 
 ---
 

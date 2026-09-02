@@ -66,15 +66,15 @@ permalink: /news/givosiran/
 
 2026-09-02 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[faz.net](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
+來源：[FAZ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
 
 ---
 
-### [ESC in München: KI erkennt Bluthochdruck und Diabetes am Gesicht per Smartphone - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
+### [La hepatitis D deja de ser una enfermedad sin tratamiento para convertirse en una prioridad clínica - Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
-2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-29 <span class="news-indication-tag">hepatitis</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
 ---
 

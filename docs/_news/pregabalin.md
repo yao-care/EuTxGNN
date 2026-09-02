@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（1 則）
 
 ### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
 2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
-
----
-
-### [Perché l’emicrania colpisce in modo così diverso? La risposta cercata nel DNA di 2,5 milioni di persone](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
-
-2026-09-01 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
-
----
-
-### [Systemischer Lupus erythematodes oder Rheumatoider Arthritis: Frühe Hydroxychloroquin-Adhärenz, weni](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
-
-2026-09-01 <span class="news-indication-tag">arthritis</span>
-
-來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
-
----
-
-### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli - Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
-
-2026-08-31 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
-
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
 
 ---
 

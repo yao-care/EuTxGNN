@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（4 則）
 
-### [Intelligenza artificiale, microbioma e farmaci anti-obesità cambiano la nutrizione](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUdhSkhCYXA3U3VqZ19qWEtaalJrRGpFeVJ6Uk9qYlczTzlpV3Z1RkVVb1lNUmFHUVVhT2VtWDIzRFJVNXBreG9lSE1ob3BnUzFMV0J6QW1DRHNPdDRVLVdNaHVwZEJrVDFUSmJKX004ZzVicjhrUUJuVGxnX1FIbGlQWE93UG9Yak80MUxkMHVyMFM4OTJtTnJUMTRaS0xSU25BTG45cHNHMldMUWVZdmtFeFYzU01rSU1JNWpxWTBrYUdHT0JDWEpSMUVYYXo4XzJYQ3JmV0k?oc=5)
+### [Folge 418: Adipositas: Studie entwickelt KI-Prognose über Behandlungserfolg](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSV9mcHZQcHNTd3JkZms1MF93QWRHOHF6QV96S2EwSDZVVE1UYkJRVDROdEpDOFd2Y0dlZ1R1cFdiWko3YnRxMk1SaGFvbldWMUJFdWdFTnJ2Q0VWa19IRkgxajhZeks0Vjh5SGRMczB6Zkxqb01pdWtzaFF0MXgyV3NST0RGa1pCRGVMLXVTZzR0WmowcEFwWDYxYk83bUJac2ttUExfZ05zam0tSGVRVmJ0T1g0aXBJVWxHV28tdUFiMVk2R0NHYw?oc=5)
 
-2026-09-02 <span class="news-indication-tag">obesità</span>
+2026-09-02 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUdhSkhCYXA3U3VqZ19qWEtaalJrRGpFeVJ6Uk9qYlczTzlpV3Z1RkVVb1lNUmFHUVVhT2VtWDIzRFJVNXBreG9lSE1ob3BnUzFMV0J6QW1DRHNPdDRVLVdNaHVwZEJrVDFUSmJKX004ZzVicjhrUUJuVGxnX1FIbGlQWE93UG9Yak80MUxkMHVyMFM4OTJtTnJUMTRaS0xSU25BTG45cHNHMldMUWVZdmtFeFYzU01rSU1JNWpxWTBrYUdHT0JDWEpSMUVYYXo4XzJYQ3JmV0k?oc=5)
-
----
-
-### [Farmaci per dimagrire, quali funzionano di più? La nuova classifica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
-
----
-
-### [Perché è così difficile non riprendere peso: il tessuto adiposo "ricorda" l'obesità anche dopo la dieta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0ZvVXlSaFZTSm1ESFNTVjNhWkpCRHE0Y0VBVklZaTFyNXRncnRoeXJkZmpvS1ZJNXkwdGVQVG5oeDZLQ2pQRUdaaHFyejZadG5iVVVtTTdQOWRudExEN0NOWEp1QlBfOHVFdzRzY2M4QkFPbXlpTk9MMlZtSDRETXNpOTl2SnlTaERWVVh0cktiTWxMWWN1WUlEQ0I3czdtQnJjWkI0WTM1c2JXWWgzRkZUTWVlQm84N0dsR2x1dmVobGxzY2NYOUcwQ0x4UmJqNFluaVk1WGt2bkh3RW9KMzhHWjdrSEFhcWZCQ1ZGZzNUdw?oc=5)
-
-2026-09-01 <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0ZvVXlSaFZTSm1ESFNTVjNhWkpCRHE0Y0VBVklZaTFyNXRncnRoeXJkZmpvS1ZJNXkwdGVQVG5oeDZLQ2pQRUdaaHFyejZadG5iVVVtTTdQOWRudExEN0NOWEp1QlBfOHVFdzRzY2M4QkFPbXlpTk9MMlZtSDRETXNpOTl2SnlTaERWVVh0cktiTWxMWWN1WUlEQ0I3czdtQnJjWkI0WTM1c2JXWWgzRkZUTWVlQm84N0dsR2x1dmVobGxzY2NYOUcwQ0x4UmJqNFluaVk1WGt2bkh3RW9KMzhHWjdrSEFhcWZCQ1ZGZzNUdw?oc=5)
-
----
-
-### [Aktuelle Umfrage zeigt: Menschen mit Adipositas sind bereit für Veränderung; der ...](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vZ2p0Rk1PNGN6VFhoMWI5Skd2QVVNcFFfWDE2UGctNDBMS0QyNjlrYTdKc1hxQTdUYmo3dUwzNkZXSW84QURTWExzZlp2RlJqeWlnVWtvTQ?oc=5)
-
-2026-09-01 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Presseportal](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vZ2p0Rk1PNGN6VFhoMWI5Skd2QVVNcFFfWDE2UGctNDBMS0QyNjlrYTdKc1hxQTdUYmo3dUwzNkZXSW84QURTWExzZlp2RlJqeWlnVWtvTQ?oc=5)
+來源：[RTL+](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSV9mcHZQcHNTd3JkZms1MF93QWRHOHF6QV96S2EwSDZVVE1UYkJRVDROdEpDOFd2Y0dlZ1R1cFdiWko3YnRxMk1SaGFvbldWMUJFdWdFTnJ2Q0VWa19IRkgxajhZeks0Vjh5SGRMczB6Zkxqb01pdWtzaFF0MXgyV3NST0RGa1pCRGVMLXVTZzR0WmowcEFwWDYxYk83bUJac2ttUExfZ05zam0tSGVRVmJ0T1g0aXBJVWxHV28tdUFiMVk2R0NHYw?oc=5)
 
 ---
 
@@ -91,22 +67,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-09-01 <span class="news-indication-tag">obesidad</span>
 
 來源：[Interempresas.net](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVJvaHZ6NTFJQWpPWmk2YmRtakUzcTFJRlB1SFZjZE8wc2hERzQzMEZRZUFONVFiazdEWjh4aXo1Vnl4VGZONGJEa2o3M2JXMy1XSi1BdGxxS2F1ZlJDWWNtN1BBdF8xSDRKcWxEcDJVRWlqSGZFcU5YUVZDNnNVekl6eU1DbnFnQnNfLTBFYWZscDNobHZVWTZhQm11TmxFQXlndEFpQWZQTWd2Qzd3Mg?oc=5)
-
----
-
-### [Adipositas: Studie entwickelt KI-Prognose über Behandlungserfolg](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ25fQ3NmcmJuNUZRVXJEZ2QtWHRpNUdxVlAzN3ZNS0tYek5CSEdxTFk3S2I2a3pXdEMtMk5JOHB3cmg1czFDbGdrZG9nOEF5Um1UNFBHMWx1SjN5UUdzTlpjRzgwbk1qQ2M2UG1yU1YtUW41VjF0cW5qWXloQUhPMjB4NXJGX0pmS0NOeXNrRFRWMFo2UWxOaG5BTm5HS1RqMnJxdQ?oc=5)
-
-2026-09-01 <span class="news-indication-tag">Adipositas</span>
-
-來源：[E-HEALTH-COM](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ25fQ3NmcmJuNUZRVXJEZ2QtWHRpNUdxVlAzN3ZNS0tYek5CSEdxTFk3S2I2a3pXdEMtMk5JOHB3cmg1czFDbGdrZG9nOEF5Um1UNFBHMWx1SjN5UUdzTlpjRzgwbk1qQ2M2UG1yU1YtUW41VjF0cW5qWXloQUhPMjB4NXJGX0pmS0NOeXNrRFRWMFo2UWxOaG5BTm5HS1RqMnJxdQ?oc=5)
-
----
-
-### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
 
 ---
 

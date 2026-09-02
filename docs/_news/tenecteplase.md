@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="Tenecteplase 有什麼相關新聞？">
-<strong>Tenecteplase</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenecteplase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/tenecteplase/
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（1 則）
 
 ### [KI-Mammografie kann Herz-Kreislauf-Erkrankungen erkennen](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
 
 2026-09-02 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[zm-online.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
-
----
-
-### [CKM Syndrome: 79% of Young Adults Show Early Signs](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
-
-2026-09-01 <span class="news-indication-tag">heart disease</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
-
----
-
-### [Why ‘bungalow legs’ may mean the end of my single-storey dream - The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTAwZERUa0ppTU13dGRJR3lSZUR0aF94R0M4NEw1SXItcXNqcXRpZkpzU0o2REluQVczajBRYnlBeUp4YWd3ZmJvbFJjcG9kUTQ0bXY2MDhrMkVYWDBwYXRmYXpFc0ZKOV9fM3UyYUNfOHdaU2FsYVpHMnVfZ1VMWERmTG5TT2JBNVU2YTJzanc2NW8xOVdzbm0yZXhaempKN0M0bU1zeGhzZlhxelBsWHA2WkQwOUliQ3E4UnppQVdpVHdRbG1JMg?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTAwZERUa0ppTU13dGRJR3lSZUR0aF94R0M4NEw1SXItcXNqcXRpZkpzU0o2REluQVczajBRYnlBeUp4YWd3ZmJvbFJjcG9kUTQ0bXY2MDhrMkVYWDBwYXRmYXpFc0ZKOV9fM3UyYUNfOHdaU2FsYVpHMnVfZ1VMWERmTG5TT2JBNVU2YTJzanc2NW8xOVdzbm0yZXhaempKN0M0bU1zeGhzZlhxelBsWHA2WkQwOUliQ3E4UnppQVdpVHdRbG1JMg?oc=5)
-
----
-
-### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
-
-2026-09-01 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+來源：[zm-online](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
 
 ---
 

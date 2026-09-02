@@ -3,7 +3,7 @@ layout: default
 title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "CKD（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
-<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Nierenfunktion bei Herzpatienten prüfen: DGfN fordert eGFR und UACR - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGpmdVR0TWNNUW9aU0lNRmRaa2ZCMlpyOTQ1cjJFakJxMHRkR1h0VnNnbnZGZEcydkFVMmpJRkp6TjV5dmlYMnpRVl95U3JaWEtjOUk0MFNKVVgtc3ZWd3d4OUJYcElRN29NNUV6WkFsVXRWU2Fwb2toWVlEeEdyYVJRNmhaMzFKVlYyb3o4QXJUMmpfZEZhWmxtQUZ3Q1kwamNIaVNxY0NHaWxWaS0wUTdpOC1VTFBt?oc=5)
 
 2026-09-01
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGpmdVR0TWNNUW9aU0lNRmRaa2ZCMlpyOTQ1cjJFakJxMHRkR1h0VnNnbnZGZEcydkFVMmpJRkp6TjV5dmlYMnpRVl95U3JaWEtjOUk0MFNKVVgtc3ZWd3d4OUJYcElRN29NNUV6WkFsVXRWU2Fwb2toWVlEeEdyYVJRNmhaMzFKVlYyb3o4QXJUMmpfZEZhWmxtQUZ3Q1kwamNIaVNxY0NHaWxWaS0wUTdpOC1VTFBt?oc=5)
-
----
-
-### [Las nuevas guías ESC recomiendan cribar la enfermedad renal crónica en todos los pacientes con enfermedad cardiovascular](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ1pmTExrWUxTSldoYkwwWnZ5X3ZXVVd0NDh3MVZMOFNsNE9aUVVVbmF6N2JXbWU1UkNpRkVLVTY0Z1dZMjNwUmE0N0l1ajZ4UDJGcl91bWtqeUZiMVFDaDdyd3BxSUJGQlppM2pYLXRkbGNMNWEzQjNnQWY2SUt2UWZOclM3NUVJVU5PbkhRWWkwaC1JS3ZLQ3hGWnNkVllSLUFDU3VLSnpHd0RNeUxrWmJVUnBMaEdvcktLVl8tQnBXZGdUNEJJbUQtdw?oc=5)
-
-2026-08-30
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ1pmTExrWUxTSldoYkwwWnZ5X3ZXVVd0NDh3MVZMOFNsNE9aUVVVbmF6N2JXbWU1UkNpRkVLVTY0Z1dZMjNwUmE0N0l1ajZ4UDJGcl91bWtqeUZiMVFDaDdyd3BxSUJGQlppM2pYLXRkbGNMNWEzQjNnQWY2SUt2UWZOclM3NUVJVU5PbkhRWWkwaC1JS3ZLQ3hGWnNkVllSLUFDU3VLSnpHd0RNeUxrWmJVUnBMaEdvcktLVl8tQnBXZGdUNEJJbUQtdw?oc=5)
 
 ---
 
