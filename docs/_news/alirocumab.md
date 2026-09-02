@@ -54,11 +54,11 @@ permalink: /news/alirocumab/
 
 ## 相關新聞（1 則）
 
-### [Niere und Herz immer gemeinsam denken - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FTmljYmpEMEx6eUxyZXVnaHVwZGh1NXUtUVJub1ZmNUVZYXUtdHdkSW9OUldvRFMyOThCWG5vd3ZNenJTMXcya01OVQ?oc=5)
+### [Nierenfunktion bei Herzpatienten prüfen: DGfN fordert eGFR und UACR - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGpmdVR0TWNNUW9aU0lNRmRaa2ZCMlpyOTQ1cjJFakJxMHRkR1h0VnNnbnZGZEcydkFVMmpJRkp6TjV5dmlYMnpRVl95U3JaWEtjOUk0MFNKVVgtc3ZWd3d4OUJYcElRN29NNUV6WkFsVXRWU2Fwb2toWVlEeEdyYVJRNmhaMzFKVlYyb3o4QXJUMmpfZEZhWmxtQUZ3Q1kwamNIaVNxY0NHaWxWaS0wUTdpOC1VTFBt?oc=5)
 
 2026-09-01 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FTmljYmpEMEx6eUxyZXVnaHVwZGh1NXUtUVJub1ZmNUVZYXUtdHdkSW9OUldvRFMyOThCWG5vd3ZNenJTMXcya01OVQ?oc=5)
+來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGpmdVR0TWNNUW9aU0lNRmRaa2ZCMlpyOTQ1cjJFakJxMHRkR1h0VnNnbnZGZEcydkFVMmpJRkp6TjV5dmlYMnpRVl95U3JaWEtjOUk0MFNKVVgtc3ZWd3d4OUJYcElRN29NNUV6WkFsVXRWU2Fwb2toWVlEeEdyYVJRNmhaMzFKVlYyb3o4QXJUMmpfZEZhWmxtQUZ3Q1kwamNIaVNxY0NHaWxWaS0wUTdpOC1VTFBt?oc=5)
 
 ---
 

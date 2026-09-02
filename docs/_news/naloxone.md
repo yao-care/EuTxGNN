@@ -14,7 +14,7 @@ permalink: /news/naloxone/
 ---
 
 <p class="key-answer" data-question="Naloxone 有什麼相關新聞？">
-<strong>Naloxone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naloxone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/naloxone/
 <p><a href="{{ '/drugs/naloxone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Overdose, il farmaco che può salvare una vita: perché il naloxone dovrebbe essere più diffuso](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONkdTeW1PX3ZrRnpkTk5jS1dIQWZOU1dPLXZnVTMwS3JFVGdObndMaEdBRTJyVnJobmxZTzVqUzBCTlQtaGhXbkpkaFlJSV9YcTFFTWxfMFY5bXhpVlNxVG9VT0xTZTFBOXhlVWpIWlRQRFNxZlR3MV9CMldSX3RjY1dXSmxpSjk4SkEzV1g0cGJIc2VWZXdiMElZX3Z4ZENTdTloODNDUmNPMXZ6OXRhcDFaVnFXRDNla1FHbklmV0JQc0hLUjVvQlZvcGw3LXZCRl82T2V0Y3lneks4SFYzWHB2T2w?oc=5)
+
+2026-09-01 <span class="news-drug-tag">Naloxone</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONkdTeW1PX3ZrRnpkTk5jS1dIQWZOU1dPLXZnVTMwS3JFVGdObndMaEdBRTJyVnJobmxZTzVqUzBCTlQtaGhXbkpkaFlJSV9YcTFFTWxfMFY5bXhpVlNxVG9VT0xTZTFBOXhlVWpIWlRQRFNxZlR3MV9CMldSX3RjY1dXSmxpSjk4SkEzV1g0cGJIc2VWZXdiMElZX3Z4ZENTdTloODNDUmNPMXZ6OXRhcDFaVnFXRDNla1FHbklmV0JQc0hLUjVvQlZvcGw3LXZCRl82T2V0Y3lneks4SFYzWHB2T2w?oc=5)
+
+---
 
 
 <div class="disclaimer">
