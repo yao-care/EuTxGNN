@@ -78,14 +78,6 @@ permalink: /news/bupropion/
 
 ---
 
-### [GLP-1 weight loss drugs effective even at low starter doses](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
-
-2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
-
----
-
 ### [Immune cells may have a biological memory that makes weight loss harder after obesity - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUtjd1BVdXlpb1V0ZjcyMDJualV4X2ZqN0EyMmlFbXUtZVNQb3ZBeTAtaW5scC1JdnJvOG92SHNOY3lOb0ZBWUUxZ3ZmTkNWUVlDSTRhLVc2ZlhySEM5eG5TUG9ieTk0OXFxNXNuMTZHV2h3eTdtbEtnQW9fdWpoQkxnY0lDLUw5?oc=5)
 
 2026-08-31 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
@@ -94,11 +86,19 @@ permalink: /news/bupropion/
 
 ---
 
-### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+### [Das steckt hinter dem Jo-Jo-Effekt: Adipositas verändert Immunzellen – selbst nach erfolgreicher Diät - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
 
 2026-08-31 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
+
+---
+
+### [Experts call for safer weight loss as concerns grow over GLP-1 use](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
+
+2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
 
 ---
 

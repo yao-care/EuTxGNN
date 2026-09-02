@@ -44,19 +44,19 @@ permalink: /news/ambrisentan/
 
 ## 相關新聞（2 則）
 
+### [AstraZeneca, ipertensione non controllata o resistente al trattamento: baxdrostat efficace a 52 settimane - Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+
+2026-09-01 <span class="news-indication-tag">ipertensione</span>
+
+來源：[Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+
+---
+
 ### [KI-Diagnose von Bluthochdruck und Diabetes aus 5-Sekunden-Face-Videos - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
 
 2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
-
----
-
-### [8 Common Food Preservatives Were Linked to High Blood Pressure — Here’s Where You’ll Find Them - Food & Wine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW92TmxkZHNvZjljblJNVVA4QWlCa1hBeTNIUkdGZWhqcy0tWGJTVTE4M2lxNlVUSkkxVDRHd0w3TnZtOEIyMGtCOWlfcjAzSlZPZV83em1INUNZa1haSmJnVENoQnlzX2pBemJzSXU3T0dwa2o1YlpWa283dFBIejdlZzNVTVFwMlJGNkJzNEF4eE93QTVzNWlRa1BXOWI3LU1JUkpaOEdXVlcxSmg4?oc=5)
-
-2026-08-27 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Food & Wine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW92TmxkZHNvZjljblJNVVA4QWlCa1hBeTNIUkdGZWhqcy0tWGJTVTE4M2lxNlVUSkkxVDRHd0w3TnZtOEIyMGtCOWlfcjAzSlZPZV83em1INUNZa1haSmJnVENoQnlzX2pBemJzSXU3T0dwa2o1YlpWa283dFBIejdlZzNVTVFwMlJGNkJzNEF4eE93QTVzNWlRa1BXOWI3LU1JUkpaOEdXVlcxSmg4?oc=5)
 
 ---
 

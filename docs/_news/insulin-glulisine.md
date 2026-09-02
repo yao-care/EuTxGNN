@@ -14,7 +14,7 @@ permalink: /news/insulin-glulisine/
 ---
 
 <p class="key-answer" data-question="Insulin Glulisine 有什麼相關新聞？">
-<strong>Insulin Glulisine</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Glulisine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/insulin-glulisine/
 <p><a href="{{ '/drugs/insulin-glulisine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
+
+### [Diabetes: Probiotikum als vielversprechende Option zur Behandlung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1JXb3BFSDVQUGNtM0lWd1gtclpZNlpCOURsbWxISFlYMnU2VnUxYk5obmpEZDBIV2h0dFhaeHFHQ20wNFF0YUVzRUN1ajVFRjI1bm9jUFk1ZVBrX1NqZVdSNEQ1YzlXeTMwOVkxTm0yLXJGQjVJbUROVVE0SlFMUDFpcm5BS1Q5LU1PNkZnTm8yVDhCN2hXWDdyMmNYQ1VBcmNlOGJQdm8zOE9zdkZDekwwR2E5X0RwcmdQZEdqeVh1V28?oc=5)
+
+2026-09-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1JXb3BFSDVQUGNtM0lWd1gtclpZNlpCOURsbWxISFlYMnU2VnUxYk5obmpEZDBIV2h0dFhaeHFHQ20wNFF0YUVzRUN1ajVFRjI1bm9jUFk1ZVBrX1NqZVdSNEQ1YzlXeTMwOVkxTm0yLXJGQjVJbUROVVE0SlFMUDFpcm5BS1Q5LU1PNkZnTm8yVDhCN2hXWDdyMmNYQ1VBcmNlOGJQdm8zOE9zdkZDekwwR2E5X0RwcmdQZEdqeVh1V28?oc=5)
+
+---
+
+### [Statine und Demenz: Früher Start senkt Risiko um 15 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVJzenlBbW42aTZGeW93SWFBUGRXZE1iMHBtU2pCYnUtam93UUJ2T083RTU2ZWhNNXI5SF93QV9neE9zR1lsSW1mc0pIRHBZVHMxQzF0X2Z3dS0yS3dONnNEWjhZc0NuandvZEdtbVRtZzIwZmhYUWtaYjNkcW1kUlVDYV8yYTN6YXg0RXZuMFFNUTVDZmFOcG5idC1nSG1JQXNEQ2RkQUs3NXd5?oc=5)
+
+2026-09-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVJzenlBbW42aTZGeW93SWFBUGRXZE1iMHBtU2pCYnUtam93UUJ2T083RTU2ZWhNNXI5SF93QV9neE9zR1lsSW1mc0pIRHBZVHMxQzF0X2Z3dS0yS3dONnNEWjhZc0NuandvZEdtbVRtZzIwZmhYUWtaYjNkcW1kUlVDYV8yYTN6YXg0RXZuMFFNUTVDZmFOcG5idC1nSG1JQXNEQ2RkQUs3NXd5?oc=5)
+
+---
 
 ### [KI-Diagnose von Bluthochdruck und Diabetes aus 5-Sekunden-Face-Videos - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/insulin-glulisine/
 
 ---
 
-### [Major update for anyone taking Atorvastatin and Simvastatin in UK - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+### [Major update for anyone taking Atorvastatin and Simvastatin in UK - Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
 2026-09-01 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
 ---
 
@@ -86,19 +102,27 @@ permalink: /news/insulin-glulisine/
 
 ---
 
-### [Typ-2-Diabetes: Statine sind mit einem geringeren Demenzrisiko assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVc0SkMzWkQ1UVRBMkxHSEprR1A1SjdLMFJWd0lNUHdmaUszdTVmUTd1YUlCRUNuYXpfUnp1ZnE0elVtZ1VWamNvT2JFaE9LUWFOU1hoSFIxRU1EQVFuT1N0amJqR29EWjBwWHhRNWVGSEFGZmQ0SUE5WXNDMExULUY1WmljcElRZ2dSY0lVZUxETk14b05KUUxWREhSZVlzZUFV?oc=5)
+### [KI: Manche Organe altern viel schneller – Forscher entdecken überraschende Muster](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWW1NdF9TQnNWazMwSzU2aGtrMEV6T2p1bXdjMHhGaDhNdmxNMGZSeG5tQ1JnTExTZkk4RmlfU3MzX0ZkSWF0U0NZVTdhQ0MxSFJKV2xrTzVGdnRjZ2RjWnV2UWNjZXBMZU5kelJReEZBNDZoSkhaaGRGX05JZjZ5VmJhT0tST1g0b3VCMlhXZ3ZOS3B4THJ0WkpJeWo4MU13Q0ZMQzRFeEQ2clhTOVZzb19UVXdKVDBhTTJ3SlY4X2dYV3RPZkR3ZHAtNW5XU3k0blZ4TmxvUXljb2htNF9EUw?oc=5)
 
-2026-08-31 <span class="news-indication-tag">diabetes</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVc0SkMzWkQ1UVRBMkxHSEprR1A1SjdLMFJWd0lNUHdmaUszdTVmUTd1YUlCRUNuYXpfUnp1ZnE0elVtZ1VWamNvT2JFaE9LUWFOU1hoSFIxRU1EQVFuT1N0amJqR29EWjBwWHhRNWVGSEFGZmQ0SUE5WXNDMExULUY1WmljcElRZ2dSY0lVZUxETk14b05KUUxWREhSZVlzZUFV?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWW1NdF9TQnNWazMwSzU2aGtrMEV6T2p1bXdjMHhGaDhNdmxNMGZSeG5tQ1JnTExTZkk4RmlfU3MzX0ZkSWF0U0NZVTdhQ0MxSFJKV2xrTzVGdnRjZ2RjWnV2UWNjZXBMZU5kelJReEZBNDZoSkhaaGRGX05JZjZ5VmJhT0tST1g0b3VCMlhXZ3ZOS3B4THJ0WkpJeWo4MU13Q0ZMQzRFeEQ2clhTOVZzb19UVXdKVDBhTTJ3SlY4X2dYV3RPZkR3ZHAtNW5XU3k0blZ4TmxvUXljb2htNF9EUw?oc=5)
 
 ---
 
-### [Vinculan el tratamiento precoz con estatinas a un menor riesgo de demencia en diabetes tipo 2](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
+### [Zu hoher Blutzucker: Diese Symptome sind laut Experten Warnzeichen für Diabetes - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
 
 2026-08-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
+
+---
+
+### [Vinculan el tratamiento precoz con estatinas a un menor riesgo de demencia en diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZVVzMxZ3lPTk52Z3NncDFPWGV4RmVLdlZlRHp5aFZJRTVLZjhKRjZRWlRBaTZUUDJUTVczQ3B5bVNEV0dDUWt5WFNfcU9NZmRFb0wyS09RekhOZzlNa2NydHpKbmpvRjh3RDByWHF4Nm81STJEeHVCWEtWM2VIMzhXb0wzanA1ODRrM0RnR0VqcmhDWmRqZWtlamVPOGd5Ymc1ZVdOTDN6b0tRS3ZtWThBNzdrU3NzcEVsNXY4bVJrWTjSAb4BQVVfeXFMTzBwTm96eWhwZ2dEYUtaY25HTFFsenJPWkgwREdLZGNvU0dLc2YwRnYyLTNtQlZleDBfUFNTeWZGeFdHOWNYV0VzTWJaZldFWk5YdTlXWkM3dm1UT1A1VjFOeFdybHMyQ0lQMjh1c2JPRmF2UXpBWHcxdmFuRVdZcHBfVXRQSmRPWTlWcGwwY3lCMkh1bk5BeTMxWnByQjV4VFdpRzJJT2ZSZXBZNFI2WG9aQ2RGeW5YSEFDX3V6UQ?oc=5)
 
 ---
 
@@ -114,7 +138,7 @@ permalink: /news/insulin-glulisine/
 
 2026-08-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
 ---
 

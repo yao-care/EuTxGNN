@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="Hydrochlorothiazide 有什麼相關新聞？">
-<strong>Hydrochlorothiazide</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydrochlorothiazide</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/hydrochlorothiazide/
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（38 則）
+
+### [CKM Syndrome: 79% of Young Adults Show Early Signs](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
+
+2026-09-01 <span class="news-indication-tag">heart disease</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
+
+---
+
+### [Why ‘bungalow legs’ may mean the end of my single-storey dream - The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTAwZERUa0ppTU13dGRJR3lSZUR0aF94R0M4NEw1SXItcXNqcXRpZkpzU0o2REluQVczajBRYnlBeUp4YWd3ZmJvbFJjcG9kUTQ0bXY2MDhrMkVYWDBwYXRmYXpFc0ZKOV9fM3UyYUNfOHdaU2FsYVpHMnVfZ1VMWERmTG5TT2JBNVU2YTJzanc2NW8xOVdzbm0yZXhaempKN0M0bU1zeGhzZlhxelBsWHA2WkQwOUliQ3E4UnppQVdpVHdRbG1JMg?oc=5)
+
+2026-09-01 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTAwZERUa0ppTU13dGRJR3lSZUR0aF94R0M4NEw1SXItcXNqcXRpZkpzU0o2REluQVczajBRYnlBeUp4YWd3ZmJvbFJjcG9kUTQ0bXY2MDhrMkVYWDBwYXRmYXpFc0ZKOV9fM3UyYUNfOHdaU2FsYVpHMnVfZ1VMWERmTG5TT2JBNVU2YTJzanc2NW8xOVdzbm0yZXhaempKN0M0bU1zeGhzZlhxelBsWHA2WkQwOUliQ3E4UnppQVdpVHdRbG1JMg?oc=5)
+
+---
 
 ### [Krebs: Das Risiko steigt bei Jüngeren – und der mögliche Grund überrascht](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjJpZUJHTVdWc2psUHNLVlRaVENsQ2ROWmhtUlVUT05zdVZucDl0Tk5SY1RjTWtTUzFfcTlVd0lzSHMzRndrR1V4UTJ1Y0x2bHRSWHhOcWxMdzBzZ1BvWFFreHkxaDhUYXRmcjZZRVFfSmphNnlMaHNTMU9pWXlPNFZpcWM5Y0RQdFNGejNZblRMRnE2N3pVd19KTlhxbVJJUXlwd1pyYVVuS0kwNDRycTZ3bDgyVFNDYXluN0dpYkt2TTJMVHJHZGdMNjg?oc=5)
 
 2026-09-01 <span class="news-indication-tag">Krebs</span>
 
 來源：[futurezone.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjJpZUJHTVdWc2psUHNLVlRaVENsQ2ROWmhtUlVUT05zdVZucDl0Tk5SY1RjTWtTUzFfcTlVd0lzSHMzRndrR1V4UTJ1Y0x2bHRSWHhOcWxMdzBzZ1BvWFFreHkxaDhUYXRmcjZZRVFfSmphNnlMaHNTMU9pWXlPNFZpcWM5Y0RQdFNGejNZblRMRnE2N3pVd19KTlhxbVJJUXlwd1pyYVVuS0kwNDRycTZ3bDgyVFNDYXluN0dpYkt2TTJMVHJHZGdMNjg?oc=5)
-
----
-
-### ["Übermenschliche" Technologie: KI erkennt Herzleiden innerhalb von Sekunden](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
-
-2026-09-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
-
-來源：[n-tv.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPclV0ZmttalprakZOSlN0RDNpZ1BoNk1oZTdCbE1lTVBRX2dRWklJX2loVFpfVlZ6RHpEaEN5cUY5MG05ZGZoM1p3Qmg2cVVnVnY5el9Bc2ZRTjJZQ0szb1lERUdST0RDX19HMm0xZGhldi1QaGl2bzFDX2Z0d08zbjIwUUFPNGpwRkdfa0Z6Zkw?oc=5)
 
 ---
 
@@ -76,11 +84,27 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Je suis oncologue et je m’impose cette habitude chaque matin pour réduire mon risque de cancer - Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeDBVQ3lyM1FNa2kxdW1JTmFNSklKWGVoSWRSZ2xfcmdya3BjZUpkYUcwbjEwaFVTS2RPdkl4X0hvT19Id2RkNkk0SVZpNURiTnJISGw3UzVXemJYbEVOU2N4Q0pya2dVcFBoRV9YOU5LR2hibWhFS3E1Y3dhRU1VN0R3?oc=5)
+### [AstraZeneca, ipertensione non controllata o resistente al trattamento: baxdrostat efficace a 52 settimane - Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+
+2026-09-01 <span class="news-indication-tag">ipertensione</span>
+
+來源：[Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+
+---
+
+### [Je suis oncologue et je m’impose cette habitude chaque matin pour réduire mon risque de cancer](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeDBVQ3lyM1FNa2kxdW1JTmFNSklKWGVoSWRSZ2xfcmdya3BjZUpkYUcwbjEwaFVTS2RPdkl4X0hvT19Id2RkNkk0SVZpNURiTnJISGw3UzVXemJYbEVOU2N4Q0pya2dVcFBoRV9YOU5LR2hibWhFS3E1Y3dhRU1VN0R3?oc=5)
 
 2026-09-01 <span class="news-indication-tag">cancer</span>
 
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeDBVQ3lyM1FNa2kxdW1JTmFNSklKWGVoSWRSZ2xfcmdya3BjZUpkYUcwbjEwaFVTS2RPdkl4X0hvT19Id2RkNkk0SVZpNURiTnJISGw3UzVXemJYbEVOU2N4Q0pya2dVcFBoRV9YOU5LR2hibWhFS3E1Y3dhRU1VN0R3?oc=5)
+來源：[fr.style.yahoo.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeDBVQ3lyM1FNa2kxdW1JTmFNSklKWGVoSWRSZ2xfcmdya3BjZUpkYUcwbjEwaFVTS2RPdkl4X0hvT19Id2RkNkk0SVZpNURiTnJISGw3UzVXemJYbEVOU2N4Q0pya2dVcFBoRV9YOU5LR2hibWhFS3E1Y3dhRU1VN0R3?oc=5)
+
+---
+
+### [La IA debuta en una neurocirugía en vivo y logra un éxito sin precedentes: salva la vista de un paciente operado de un tumor cerebral - El Economista](https://news.google.com/rss/articles/CBMivwJBVV95cUxQY3hUakV3R0YyTWs3eW9NUUdxajlHWnd1bTdJeVktd2doNXc5MnZiemxHdUNsZktMUllfSXJnS3lQSnk5QVQ5VGJOVC1Sa1QwUE03UlYtLTZ5WmxyRmZnblBIaFYyRGJFMVNGUlpBazJMaFBEOWRqN0M3LTlhMDVjYmEwNW4zTUh4c0N1WmtlZ3NIRnF6cFdqOC1oWGN2YjJOTUZzS29CeWxBMXpnSmVFQmd2bTR4T3JoaVQtRVJYYjVQZE5tWEZ3LXRwN2pwbmZuM3d1Und4akVOd2g0N0M1Q3dmZWc1VUY4dzZ1U3k4UXFLbFl5dU80cndxc1VwSi1faXhkZ0Rvc01ORUtZM0RwRGNRdUY0ellpSkthcEYxcmtSeUpvdFJJdjZqa0RyTWsxU2pibUhQRDRNdENrckxN0gGqAkFVX3lxTE5iRzZURVdQZUxvYmpUQ3dwYXRkZmxjTWRMY2lTdU5jZkVaV2pYMmJvMjNmUmRKdTVRR0I2enVuaVdjQUhGSUR5X3pVaktWZ2luTVowbWRFU3k4WDMzY1AwWno0Qi1oa1U4cWc1MGo4MFlzV0k5RE9oVndmZmV5Q3V4VVRuejJIYUNKM3RBVVp3elprZnJCV3NDYlVaVFZFZUJ2aDhfWXBzbmhHSUNKUENCUU9kNTVYQVF4QzRQeWo3RGNabEVkSkp0M0RPRlJFMFZrMHN5LURMMTJqZGNXel9TQmNMc2xSWVp3c2N4ZnNoak1jcEFRWDBiY19NTkt1U0lyVHJNVU81VnNOTzl5S3dZeEc2MkdkWjNIRU1pU3pGMEFCY1V5bnNOMkE?oc=5)
+
+2026-09-01 <span class="news-indication-tag">tumor</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMivwJBVV95cUxQY3hUakV3R0YyTWs3eW9NUUdxajlHWnd1bTdJeVktd2doNXc5MnZiemxHdUNsZktMUllfSXJnS3lQSnk5QVQ5VGJOVC1Sa1QwUE03UlYtLTZ5WmxyRmZnblBIaFYyRGJFMVNGUlpBazJMaFBEOWRqN0M3LTlhMDVjYmEwNW4zTUh4c0N1WmtlZ3NIRnF6cFdqOC1oWGN2YjJOTUZzS29CeWxBMXpnSmVFQmd2bTR4T3JoaVQtRVJYYjVQZE5tWEZ3LXRwN2pwbmZuM3d1Und4akVOd2g0N0M1Q3dmZWc1VUY4dzZ1U3k4UXFLbFl5dU80cndxc1VwSi1faXhkZ0Rvc01ORUtZM0RwRGNRdUY0ellpSkthcEYxcmtSeUpvdFJJdjZqa0RyTWsxU2pibUhQRDRNdENrckxN0gGqAkFVX3lxTE5iRzZURVdQZUxvYmpUQ3dwYXRkZmxjTWRMY2lTdU5jZkVaV2pYMmJvMjNmUmRKdTVRR0I2enVuaVdjQUhGSUR5X3pVaktWZ2luTVowbWRFU3k4WDMzY1AwWno0Qi1oa1U4cWc1MGo4MFlzV0k5RE9oVndmZmV5Q3V4VVRuejJIYUNKM3RBVVp3elprZnJCV3NDYlVaVFZFZUJ2aDhfWXBzbmhHSUNKUENCUU9kNTVYQVF4QzRQeWo3RGNabEVkSkp0M0RPRlJFMFZrMHN5LURMMTJqZGNXel9TQmNMc2xSWVp3c2N4ZnNoak1jcEFRWDBiY19NTkt1U0lyVHJNVU81VnNOTzl5S3dZeEc2MkdkWjNIRU1pU3pGMEFCY1V5bnNOMkE?oc=5)
 
 ---
 
@@ -92,14 +116,6 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [El primer paciente del mundo al que le retiraron un tumor en el cerebro con ayuda de la IA](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wNF9ySUxLVTVRMXo5Y0JXYWlkYkE2VnRGRERmQ1U1c1VldlZ3STRwcDJQcVpzZllXOEpGRG5vOHktZDNSMDB6RzhPc2VaZkV5SE0yZC05Q3phN2PSAWBBVV95cUxOeXZuNVB6RE1oRWVKTTBlXzI5dlVFbVU4bFo3SGdSenAweFZfN1hjRTNMaF9EWlRjVVFmLXVMbjdpNGxtZndtWTFyODBhbjNLOGl3eVFUYnBoM1dsTWJWZy0?oc=5)
-
-2026-09-01 <span class="news-indication-tag">tumor</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wNF9ySUxLVTVRMXo5Y0JXYWlkYkE2VnRGRERmQ1U1c1VldlZ3STRwcDJQcVpzZllXOEpGRG5vOHktZDNSMDB6RzhPc2VaZkV5SE0yZC05Q3phN2PSAWBBVV95cUxOeXZuNVB6RE1oRWVKTTBlXzI5dlVFbVU4bFo3SGdSenAweFZfN1hjRTNMaF9EWlRjVVFmLXVMbjdpNGxtZndtWTFyODBhbjNLOGl3eVFUYnBoM1dsTWJWZy0?oc=5)
-
----
-
 ### [Tumore della prostata, il PSA può salvare vite. Ma il vero errore è farlo a tutti allo stesso modo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWFEzSHdPT2J5X3p3WXhrQWxLY25OTWpVZHlvSTR2YURpNlR1c0lreDBhLVRSQ2tGZlJTU0Z6NkxOMzQyZ2FheDIyOFhxc2ZaWnl3UExONzdmRjRjMjg1amxaclc3YmJFeW5YUzVWcmF1R09WcGFxNDBMbEgzUXZiLXhDRnFFY1EtNmR6SzZoTDd0eWtxWG5Cdm9WakhNTnhBWGhCWVprQlNYQ0pvbGk5YTlqX2FMVF9UZXlyckRybjN4TlVORlpTT0tiSXczN0RZTl9RZEF2el95dFc2WG44eA?oc=5)
 
 2026-09-01 <span class="news-indication-tag">tumor</span>
@@ -108,11 +124,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Va in ospedale per un’ernia, scopre un tumore di 30 centimetri nell’addome](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU1UVjlibGo2dG1rNm5pcnEtN05sYkI5SmZ5Uzhhb2haNUtlRlphM2FvQmptTVZVOG45VFRHSm1uNTZ6bXNCR3ZXMjNZU3ozTmw2U3h3V2p1ZGJXUTBtcTRjbzNMLTlTZHF2TEs1VDZmaWFMVzNrWkFmajBFSXFpVGthYUdqN2VrX1VBTUlaVWk2V091eXY5WVpMaHJHTHpnTXlqT0N4ZEdfU25tYkZQRWU3U1l2UjNRaUJHMHdIT21UVUtMWXdOT01R?oc=5)
+### [Rückenschmerzen als Warnsignal für Bauchspeicheldrüsenkrebs: Wann Sie aufmerksam werden sollten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNMEVHT3dxZkdweVhleVlHaUQ5ODFqbzhwZ0poNGZPamMxLWwtRGY5SF8xWjlMT3VYWWtmTVhxdDAySnJna0o5MS1NcWllSElOVS1TNEcwMG9TSElZME44NzhuUkFxMU5EN19kRWczYS15MkxaYklNTGJKRXhpVVdJZmtTMTIwTnhSalV0bjMzdFY3WUJVSmdXaWpyZlVHTjIzR3k4WUhTeVVraDdrWkpHMjJSRzFqVDE5T2JfYjZHVDNQemFMVmx1dW5JakM1STdONlBIZkptdE9kQURuX0JyMTVLUVlPRWw4NFhHbksxa1pxSTVreWRXX2JtQVd4VUw2WUxQUGRGcG1NVHhrT09KdA?oc=5)
 
-2026-09-01 <span class="news-indication-tag">tumor</span>
+2026-09-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU1UVjlibGo2dG1rNm5pcnEtN05sYkI5SmZ5Uzhhb2haNUtlRlphM2FvQmptTVZVOG45VFRHSm1uNTZ6bXNCR3ZXMjNZU3ozTmw2U3h3V2p1ZGJXUTBtcTRjbzNMLTlTZHF2TEs1VDZmaWFMVzNrWkFmajBFSXFpVGthYUdqN2VrX1VBTUlaVWk2V091eXY5WVpMaHJHTHpnTXlqT0N4ZEdfU25tYkZQRWU3U1l2UjNRaUJHMHdIT21UVUtMWXdOT01R?oc=5)
+來源：[CHIP](https://news.google.com/rss/articles/CBMikAJBVV95cUxNMEVHT3dxZkdweVhleVlHaUQ5ODFqbzhwZ0poNGZPamMxLWwtRGY5SF8xWjlMT3VYWWtmTVhxdDAySnJna0o5MS1NcWllSElOVS1TNEcwMG9TSElZME44NzhuUkFxMU5EN19kRWczYS15MkxaYklNTGJKRXhpVVdJZmtTMTIwTnhSalV0bjMzdFY3WUJVSmdXaWpyZlVHTjIzR3k4WUhTeVVraDdrWkpHMjJSRzFqVDE5T2JfYjZHVDNQemFMVmx1dW5JakM1STdONlBIZkptdE9kQURuX0JyMTVLUVlPRWw4NFhHbksxa1pxSTVreWRXX2JtQVd4VUw2WUxQUGRGcG1NVHhrT09KdA?oc=5)
 
 ---
 
@@ -132,11 +148,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [I’m an oncologist. These simple habits can help reduce your cancer risk - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHlLMWtOVVFqUHRXenZpNzV2RGF1bEtkVER4eUk0U29oc016YlZIR3psUGxuaUVUUHZLdzZvOUJjam5qazFwMU9hbmJ5a2I5TzdsYnVpVTB6aVk1LUhQdWRHTVJLY2JCenc1ZnlvMEYtVUYyQjYtcGhNbDFrZGFuY0tNdzJZX1AxQUVuYmtzQ2lLSlRleURF?oc=5)
+### [Early-onset bowel cancer shows distinct biological and clinical features](https://news.google.com/rss/articles/CBMivAFBVV95cUxONU1ldzVhRTNySFFWdkx6eW9QVUNobDg3N0pKWDRKQ2NuQWpXQjAyWTh6MEZ2amxZcnk1X3ZYbzZvTEszSlp3bmZQSmF4V2REWWpObVNUZzJJZDA3T0xETk0wLWUzRm90cVZoNEV5Z09nT1l0UTdkQzktOExmT3JaQks1dlA2VWNQRnJOcTBPTF93bXk2MXRsZ0VVNWNDaDhCVGxyb2h2N2FQNl9oUkd1Tkk3YjVRMDJvbEg2eQ?oc=5)
 
-2026-09-01 <span class="news-indication-tag">cancer</span>
+2026-09-01 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHlLMWtOVVFqUHRXenZpNzV2RGF1bEtkVER4eUk0U29oc016YlZIR3psUGxuaUVUUHZLdzZvOUJjam5qazFwMU9hbmJ5a2I5TzdsYnVpVTB6aVk1LUhQdWRHTVJLY2JCenc1ZnlvMEYtVUYyQjYtcGhNbDFrZGFuY0tNdzJZX1AxQUVuYmtzQ2lLSlRleURF?oc=5)
+來源：[News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxONU1ldzVhRTNySFFWdkx6eW9QVUNobDg3N0pKWDRKQ2NuQWpXQjAyWTh6MEZ2amxZcnk1X3ZYbzZvTEszSlp3bmZQSmF4V2REWWpObVNUZzJJZDA3T0xETk0wLWUzRm90cVZoNEV5Z09nT1l0UTdkQzktOExmT3JaQks1dlA2VWNQRnJOcTBPTF93bXk2MXRsZ0VVNWNDaDhCVGxyb2h2N2FQNl9oUkd1Tkk3YjVRMDJvbEg2eQ?oc=5)
 
 ---
 
@@ -144,7 +160,7 @@ permalink: /news/hydrochlorothiazide/
 
 2026-09-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[wdr.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWItWlZmY0hlekN4WTRrXzNwVV9NX0liSzJ1TXhuY2FqYmdYMTZxcVlhWVdTXzVVTENVamJfZlo3VHp3dC02eUYzY0pvTW5heVRqQWpoaGp0R0VsUmNEVlNxVll6UWx5bVhMakhTdjdOa1U2NkFnMjZpZm5pajJ2MWtmWlczZDdDdUVub2RXUFVhaXlJOXpOWHBuLUdtZ1dIOVY1VkRfUUhzRXJfR1BpaWE2aHJDNFFZRHRwMA?oc=5)
+來源：[WDR](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWItWlZmY0hlekN4WTRrXzNwVV9NX0liSzJ1TXhuY2FqYmdYMTZxcVlhWVdTXzVVTENVamJfZlo3VHp3dC02eUYzY0pvTW5heVRqQWpoaGp0R0VsUmNEVlNxVll6UWx5bVhMakhTdjdOa1U2NkFnMjZpZm5pajJ2MWtmWlczZDdDdUVub2RXUFVhaXlJOXpOWHBuLUdtZ1dIOVY1VkRfUUhzRXJfR1BpaWE2aHJDNFFZRHRwMA?oc=5)
 
 ---
 
@@ -180,11 +196,19 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [‘Superhuman’ software takes just seconds to spot heart disease - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVJwRHR5LWRtdHlDVEk4WGVHeTBOd2ItSjBGTmhHNi00SEN3UG1mbW1FMThMaHByUWlMQk83akRMaHBQd1JUdTZQU3hnUFhBUG9mN01xN0F0OFJTWjFyaHE3TXNhV1JoQ0tkZVpQWmptdHlVZHo2bG9GZDZ3T0RGQld3TUowSjVnaVRtYkdvc21GbkxJYkZsNQ?oc=5)
+### [Bahnbrechend: Herzkrankheiten mit KI in zwei Sekunden erkennbar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[Nordisch.info](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWdlVEttbTVqUnp4Umpuc0J4SmRId1VlTldnWHdaOTl6MjRxazk0alI3bU1qaWNJRTc0dV9acnItNWxuaXpaODQ2SzZ5b2lJWmVpM05JVTZkRURCNWdEcXJnQW1OWnVLVktlNmxyNlFhQTJrYjhYM3h6d2l1N1psMWVMUURZa2h1WmVBYkx4bm5SWGlIM0l4Z1J3ZTUzTFdxcGhYTUw1eXg?oc=5)
+
+---
+
+### [NHS trials AI to spot heart disease in just two seconds - as 400K on waitlist - The Sun](https://news.google.com/rss/articles/CBMingFBVV95cUxPR3RoYzB0Sk9FOE9XeW9hWkkzTG9QTE41alpQeWJCMTJ0cEl6UUFfLWdTY09ycWduOUJxcUswSWhTSVl1TmdXXzJjblNTYjRqaUFpb3J6a3Zqa0M4cHVvUmVvMzdzdnFvcFRmLTN3Um1JR1ZxZEk4NmxRT1R4b25FRUdZYlgwXzBGQUlLdUs4N01GdEtZejM3aFlKT1k0UQ?oc=5)
 
 2026-08-31 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVJwRHR5LWRtdHlDVEk4WGVHeTBOd2ItSjBGTmhHNi00SEN3UG1mbW1FMThMaHByUWlMQk83akRMaHBQd1JUdTZQU3hnUFhBUG9mN01xN0F0OFJTWjFyaHE3TXNhV1JoQ0tkZVpQWmptdHlVZHo2bG9GZDZ3T0RGQld3TUowSjVnaVRtYkdvc21GbkxJYkZsNQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMingFBVV95cUxPR3RoYzB0Sk9FOE9XeW9hWkkzTG9QTE41alpQeWJCMTJ0cEl6UUFfLWdTY09ycWduOUJxcUswSWhTSVl1TmdXXzJjblNTYjRqaUFpb3J6a3Zqa0M4cHVvUmVvMzdzdnFvcFRmLTN3Um1JR1ZxZEk4NmxRT1R4b25FRUdZYlgwXzBGQUlLdUs4N01GdEtZejM3aFlKT1k0UQ?oc=5)
 
 ---
 
@@ -212,6 +236,14 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [KI: Manche Organe altern viel schneller – Forscher entdecken überraschende Muster](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWW1NdF9TQnNWazMwSzU2aGtrMEV6T2p1bXdjMHhGaDhNdmxNMGZSeG5tQ1JnTExTZkk4RmlfU3MzX0ZkSWF0U0NZVTdhQ0MxSFJKV2xrTzVGdnRjZ2RjWnV2UWNjZXBMZU5kelJReEZBNDZoSkhaaGRGX05JZjZ5VmJhT0tST1g0b3VCMlhXZ3ZOS3B4THJ0WkpJeWo4MU13Q0ZMQzRFeEQ2clhTOVZzb19UVXdKVDBhTTJ3SlY4X2dYV3RPZkR3ZHAtNW5XU3k0blZ4TmxvUXljb2htNF9EUw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWW1NdF9TQnNWazMwSzU2aGtrMEV6T2p1bXdjMHhGaDhNdmxNMGZSeG5tQ1JnTExTZkk4RmlfU3MzX0ZkSWF0U0NZVTdhQ0MxSFJKV2xrTzVGdnRjZ2RjWnV2UWNjZXBMZU5kelJReEZBNDZoSkhaaGRGX05JZjZ5VmJhT0tST1g0b3VCMlhXZ3ZOS3B4THJ0WkpJeWo4MU13Q0ZMQzRFeEQ2clhTOVZzb19UVXdKVDBhTTJ3SlY4X2dYV3RPZkR3ZHAtNW5XU3k0blZ4TmxvUXljb2htNF9EUw?oc=5)
+
+---
+
 ### [I put bad odour down to being a tired mum hitting 40 - I was shocked to find out it was cancer and I'd ignored the signs - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFlxV1p6UHo2VkhBVHVkZFNpbWwtUzAwN2dLdWdGSUhlX1Nhd29mdFFQVVlqbGlMcDRwYnVSek5uYWxjM3FWeHJDbzJLWEZyRDJ1OGFPd0tZeWJURjVaakFzbUR0Mnp6NFAzTjNJTE5IN1lMdUw4VW4yLWY0TzFfLU5hQnVmc3NMUnk0?oc=5)
 
 2026-08-31 <span class="news-indication-tag">cancer</span>
@@ -228,6 +260,14 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [Palermo, all’ospedale La Maddalena asportato un tumore raro di 30 cm](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNWpEQmR5ckhldFROY29VSC1CQnd2LW5XY3hpRHBkLTdRQjRlWTQtWHF0VGYyRGpqV3FDOHJHdEI2TVdrZlBtS25TUERlbmlsY1k5TjNpTkNaOVdqOTNkSUtBQVYxMjZaMnR6d0cwV25MMEE1X1hWODdKM1IyS1hmOWpqYXN5UQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">tumor</span>
+
+來源：[LiveSicilia](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNWpEQmR5ckhldFROY29VSC1CQnd2LW5XY3hpRHBkLTdRQjRlWTQtWHF0VGYyRGpqV3FDOHJHdEI2TVdrZlBtS25TUERlbmlsY1k5TjNpTkNaOVdqOTNkSUtBQVYxMjZaMnR6d0cwV25MMEE1X1hWODdKM1IyS1hmOWpqYXN5UQ?oc=5)
+
+---
+
 ### [Scomparsa dopo una lunga lotta contro il cancro, il padre: "Grazie al personale sanitario per l'amore e la dedizione"](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDMtY2dxQUllYi1hTjZ4UTNOLWpWRnRjbG1KSENfbVBPVlJJMm5hTVZudlNCSEY4bHUzZnlmaUZZMUtmRlNZQTRnWWFCR1lQdk9OdEptUElYU09rXzFHcm1JUEszZWdKRmlncHU0NUxZRkUySXkyaUxDZFZIcEdrbGlreHJCNnA1UnlQcEFJYkxWY1VDTlE?oc=5)
 
 2026-08-31 <span class="news-indication-tag">cancro</span>
@@ -236,35 +276,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Hochrisiko-Prostatakrebs ohne Metastasen: Testosteron als Biomarker für Docetaxel-Zusatz - Biermann Medizin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3VPQm1SdXNpOGQ4b3JzY1g2NE92TGszUmhLM0xqVnAwQVZBbHphYVhwcWRuT1ozV0tXdnBXQzc1Vmd6ZDFTaThfWmZrRk9UYXZfUDlpQXFVNkwxeVJYV0NtdXdINjlmNEVqYXRTQmJvWk5QZjdBQUhRX2FpRTA1bGZhZFpDVEY4ZjZmNUxBaG5NaFpIeEtrd1RtVmdTdl8zZTNVdkFYU0xrNHdvelBYa0dPNDVXd09w?oc=5)
+### [Tumori, la cura "salva cellule" finita in un cassetto: ecco che fine ha fatto il centro etneo di protonterapia](https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkZ0NkNDVGV0MzZJVUdHT0NSeUVwaTFwU29VZ3BqeEhWOUZiSWtmSXUtLWRHRGhOQnppZ0tpck1CQV9Fd0twbjNtdU0wQUF3S3dRWi1TV2k5ZHVXNEVUTUpxSEhRVXRBVmFCb25rTnZlcWpJSnBrem9aRGhsTTVlSWttUHJ6X0xUckJDQmpURFJIeE44aEJv?oc=5)
 
-2026-08-31 <span class="news-drug-tag">Docetaxel</span> <span class="news-indication-tag">Krebs</span>
+2026-08-31 <span class="news-indication-tag">tumor</span>
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3VPQm1SdXNpOGQ4b3JzY1g2NE92TGszUmhLM0xqVnAwQVZBbHphYVhwcWRuT1ozV0tXdnBXQzc1Vmd6ZDFTaThfWmZrRk9UYXZfUDlpQXFVNkwxeVJYV0NtdXdINjlmNEVqYXRTQmJvWk5QZjdBQUhRX2FpRTA1bGZhZFpDVEY4ZjZmNUxBaG5NaFpIeEtrd1RtVmdTdl8zZTNVdkFYU0xrNHdvelBYa0dPNDVXd09w?oc=5)
-
----
-
-### [Herzgesundheit: Herzschlag schützt vor Tumorwachstum](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUR3V1NfVDY5aThlYVAzTGxzVlJPTjJnaXVUNUxMUDBXY1JOcDdrZkZaWU0xeXgwQW9BZDBZZ21OVlJiaE1vS0dPMTUzRGhWTHZyTUlzR2pSSjkwVHgzZlluZ3dkbzl2a1AxVV82M2pYNDJrNS0yTWJoSEtMYTRxYzRzMEszOVlOVEJYTjd5UWhQUG8?oc=5)
-
-2026-08-30 <span class="news-indication-tag">tumor</span>
-
-來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUR3V1NfVDY5aThlYVAzTGxzVlJPTjJnaXVUNUxMUDBXY1JOcDdrZkZaWU0xeXgwQW9BZDBZZ21OVlJiaE1vS0dPMTUzRGhWTHZyTUlzR2pSSjkwVHgzZlluZ3dkbzl2a1AxVV82M2pYNDJrNS0yTWJoSEtMYTRxYzRzMEszOVlOVEJYTjd5UWhQUG8?oc=5)
-
----
-
-### [Schilddrüsenkrebs: Warnzeichen beachten](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEhJRDFTZ0xIN0RHRktreWxKcU5DdDRwQlpSOTMyMTkzdk01TmNUMzdSSFNIM3pteTd2M2E5VFNpTTUxeHZERlB2SmZPQlctcXdvajlaanotNVFGR21ZSk92bXZkTDhsM1EySTFJMUJHdEFWa0stWXUtc0VRRkRTNWVQdHJUcEFJRnV6a0JqMA?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Krebs</span>
-
-來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEhJRDFTZ0xIN0RHRktreWxKcU5DdDRwQlpSOTMyMTkzdk01TmNUMzdSSFNIM3pteTd2M2E5VFNpTTUxeHZERlB2SmZPQlctcXdvajlaanotNVFGR21ZSk92bXZkTDhsM1EySTFJMUJHdEFWa0stWXUtc0VRRkRTNWVQdHJUcEFJRnV6a0JqMA?oc=5)
-
----
-
-### [Tumore della prostata, lo specialista abbassa il colesterolo: ma nel trial gli eventi non calano](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFMyX1NSTEVxU0w2QndZVXRBMnNMTHpPLXNTQkQ0ZUFPVUpHT0dfWGxtNDFaR0NMR05nOHAySm82NERHRW5uNU1BdXlXUmc1OTVqZTVpQlp4aENEM0YydGxPRzZIa2M2VjNKQkJiclZCZlc5aHg0aGJ2bDJBM09zUVllSFdTVXZLNXBNM0hDeW1uM2hnUFBBM0daUXozM1VnSnpHTGZpQ0lIRWZGeGJaMVg0M0FGeWtTYnJ4aFZpYmVJTThJeFZNYzdiUlZHejZOSU14QWl3UXB0cUg0cTUzTV8xMFRoZEs1Q2c?oc=5)
-
-2026-08-30 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFMyX1NSTEVxU0w2QndZVXRBMnNMTHpPLXNTQkQ0ZUFPVUpHT0dfWGxtNDFaR0NMR05nOHAySm82NERHRW5uNU1BdXlXUmc1OTVqZTVpQlp4aENEM0YydGxPRzZIa2M2VjNKQkJiclZCZlc5aHg0aGJ2bDJBM09zUVllSFdTVXZLNXBNM0hDeW1uM2hnUFBBM0daUXozM1VnSnpHTGZpQ0lIRWZGeGJaMVg0M0FGeWtTYnJ4aFZpYmVJTThJeFZNYzdiUlZHejZOSU14QWl3UXB0cUg0cTUzTV8xMFRoZEs1Q2c?oc=5)
+來源：[CataniaToday](https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkZ0NkNDVGV0MzZJVUdHT0NSeUVwaTFwU29VZ3BqeEhWOUZiSWtmSXUtLWRHRGhOQnppZ0tpck1CQV9Fd0twbjNtdU0wQUF3S3dRWi1TV2k5ZHVXNEVUTUpxSEhRVXRBVmFCb25rTnZlcWpJSnBrem9aRGhsTTVlSWttUHJ6X0xUckJDQmpURFJIeE44aEJv?oc=5)
 
 ---
 
@@ -276,11 +292,27 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [Cardiologist referrals improve cholesterol levels in prostate cancer patients, but may not be necessary for all - Medical Xpress](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmhFYUZlUHdKcHlMSS1SVW5yd0prdC1pQ0hZLUJuSnNqaEhZenBLWWtWZlZjZDBHR0JNVmRzV1dYbVR2dW0tWHlPcUx3WXMzYVdBSThwZm1QN1c0ZnlKRm5vQ1U5d1Rld2dXM2hIVzJfRGt1Mm1CRF82MThSNldnbjF4VUpyNURacFFHdlVLdExUSmJTaXVvWmxn?oc=5)
+
+2026-08-30 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmhFYUZlUHdKcHlMSS1SVW5yd0prdC1pQ0hZLUJuSnNqaEhZenBLWWtWZlZjZDBHR0JNVmRzV1dYbVR2dW0tWHlPcUx3WXMzYVdBSThwZm1QN1c0ZnlKRm5vQ1U5d1Rld2dXM2hIVzJfRGt1Mm1CRF82MThSNldnbjF4VUpyNURacFFHdlVLdExUSmJTaXVvWmxn?oc=5)
+
+---
+
 ### [We’re getting cancer younger. Here’s how to reduce your risk - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxOLXI4a3ZfSkl3OEFibnNpdUtRZkFWV2YyNzNaWHpqX2Z3WGR0dENueE1xZGFwWWVvcnpGS2JheVFMSlpuWlpHcFV6M2VwZFNhYzJPLTQzY3F6YzdpejVldVR2REk1dlV1QU1JS1dtRUZZMEpOZnVyOWFpVERqSDZNck5ZTWVnd1JVWGU3ZlhwNThYTHZRdmotU1VNM0tEdw?oc=5)
 
 2026-08-28 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxOLXI4a3ZfSkl3OEFibnNpdUtRZkFWV2YyNzNaWHpqX2Z3WGR0dENueE1xZGFwWWVvcnpGS2JheVFMSlpuWlpHcFV6M2VwZFNhYzJPLTQzY3F6YzdpejVldVR2REk1dlV1QU1JS1dtRUZZMEpOZnVyOWFpVERqSDZNck5ZTWVnd1JVWGU3ZlhwNThYTHZRdmotU1VNM0tEdw?oc=5)
+
+---
+
+### [Prostatakrebs-Screening entdeckt klinisch relevante Tumoren bei Trägern von BRCA1/BRCA2-Keimbahnvarianten - Biermann Medizin](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHFyX1Z5a3hPOV83dS1YdmdxbWRYZFBBb3E2M1FleFdMam5OZzExaGI1Z2Q4cDNnUG5ZaEh2UTRkdlE2dnQxOTBLV2xHOUdvV2t4SXNrYTBWTEV3ZXR5bHViNmVJZUxsS0NKSmxONGVxYko2dVkyNjdTRWU4SlhBMUNJclZwdDRjd05WMkhKSF81ZktsQnBpOUwtS09Ibk9fbXduX0pabl9kZlRaeTV2QnVyLUUta3A1UUxEWGVOajl1Wkt2TTRtZUsyNmFpTmJa?oc=5)
+
+2026-08-28 <span class="news-indication-tag">tumor</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHFyX1Z5a3hPOV83dS1YdmdxbWRYZFBBb3E2M1FleFdMam5OZzExaGI1Z2Q4cDNnUG5ZaEh2UTRkdlE2dnQxOTBLV2xHOUdvV2t4SXNrYTBWTEV3ZXR5bHViNmVJZUxsS0NKSmxONGVxYko2dVkyNjdTRWU4SlhBMUNJclZwdDRjd05WMkhKSF81ZktsQnBpOUwtS09Ibk9fbXduX0pabl9kZlRaeTV2QnVyLUUta3A1UUxEWGVOajl1Wkt2TTRtZUsyNmFpTmJa?oc=5)
 
 ---
 
@@ -292,22 +324,6 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [AI can detect heart disease in women using mammograms, study suggests - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
-
-2026-08-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0MtOVFfZmlXTEVsRVoxSGdpRmZzdmkxcW9sYjFmR19yOVQwbXZPWHdsMDNiSTBZa2wtU3VkLVdrQ01QNEltNnZTUDFPOER5dXdPUEZsUDVnZlN5Z2wycml1d1B1WGtJNGQ4QktSRlpMOE5fZ2k2MllLYVFLTzh3N1RoMUdMQ194aS1BMkt4b0g?oc=5)
-
----
-
-### [8 Common Food Preservatives Were Linked to High Blood Pressure — Here’s Where You’ll Find Them - Food & Wine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW92TmxkZHNvZjljblJNVVA4QWlCa1hBeTNIUkdGZWhqcy0tWGJTVTE4M2lxNlVUSkkxVDRHd0w3TnZtOEIyMGtCOWlfcjAzSlZPZV83em1INUNZa1haSmJnVENoQnlzX2pBemJzSXU3T0dwa2o1YlpWa283dFBIejdlZzNVTVFwMlJGNkJzNEF4eE93QTVzNWlRa1BXOWI3LU1JUkpaOEdXVlcxSmg4?oc=5)
-
-2026-08-27 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Food & Wine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW92TmxkZHNvZjljblJNVVA4QWlCa1hBeTNIUkdGZWhqcy0tWGJTVTE4M2lxNlVUSkkxVDRHd0w3TnZtOEIyMGtCOWlfcjAzSlZPZV83em1INUNZa1haSmJnVENoQnlzX2pBemJzSXU3T0dwa2o1YlpWa283dFBIejdlZzNVTVFwMlJGNkJzNEF4eE93QTVzNWlRa1BXOWI3LU1JUkpaOEdXVlcxSmg4?oc=5)
-
----
-
 ### [Negli Stati Uniti è stato approvato un trattamento per la forma più comune di cancro al pancreas che allunga la vita dei pazienti - Il Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWFocmdTZWstSjEtSl9VNnlXbFJtaEl1M2JSNmlXS0E2Zkk1SS1LQXkwYUw3Vk9jQnJ1NVJJVENUdlZVOGhpbjdvejNaX3dJOEpDZm0wclZhY0lsRXVwM29GbXJUM09TZmJyeEJiMFlndDItMjhYWXRIX1JXbjJ2ZktpZTIwekdhOV93Z19nVWJoa0RZMTdoNVBqRQ?oc=5)
 
 2026-08-27 <span class="news-indication-tag">tumor</span>
@@ -316,11 +332,19 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [First patient to have brain surgery with real-time AI assistance](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQVFBT2pRc2Y5YUE4bUdCSGlJdFFXZnB4QnJnQ09oVkN6aWlnYWI1LVFaV1FjRkdOMmpxQnY0M0lsLVlOaGdMeWRQY1RScEd5ME9WcE12MHV2aVZt?oc=5)
+### [World's first patient to undergo live AI-assisted brain surgery has tumour removed](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQVFBT2pRc2Y5YUE4bUdCSGlJdFFXZnB4QnJnQ09oVkN6aWlnYWI1LVFaV1FjRkdOMmpxQnY0M0lsLVlOaGdMeWRQY1RScEd5ME9WcE12MHV2aVZt?oc=5)
 
 2026-08-26 <span class="news-indication-tag">tumour</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQVFBT2pRc2Y5YUE4bUdCSGlJdFFXZnB4QnJnQ09oVkN6aWlnYWI1LVFaV1FjRkdOMmpxQnY0M0lsLVlOaGdMeWRQY1RScEd5ME9WcE12MHV2aVZt?oc=5)
+
+---
+
+### [Rektumkarzinom | Organerhalt könnte beim Rektumkrebs Routine werden](https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3NDNFNwSE0tb2VEOUUtUHIxcmRrMHRkZUJ4bU5VTGg2akpfcTFaTV9DTGF2aXVHbDBKWlFnR0NtVEJ2cm5MbWlWVWV1QzgtaXF2a1VVZEJsRXNKOG9TSTFWX1NnYlFOY3gzU1hwODhwTjIycmFtZTJfYVprYW1zS0RCUXR3TUJ2UW9hVWZUamdncHF4QXByS2NLd2VrYlNqd2lmM3FnaW41a1dpRXZVZ3Uza21keEhEVEdHXzNR?oc=5)
+
+2026-08-26 <span class="news-indication-tag">Krebs</span>
+
+來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3NDNFNwSE0tb2VEOUUtUHIxcmRrMHRkZUJ4bU5VTGg2akpfcTFaTV9DTGF2aXVHbDBKWlFnR0NtVEJ2cm5MbWlWVWV1QzgtaXF2a1VVZEJsRXNKOG9TSTFWX1NnYlFOY3gzU1hwODhwTjIycmFtZTJfYVprYW1zS0RCUXR3TUJ2UW9hVWZUamdncHF4QXByS2NLd2VrYlNqd2lmM3FnaW41a1dpRXZVZ3Uza21keEhEVEdHXzNR?oc=5)
 
 ---
 

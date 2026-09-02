@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Major update for anyone taking Atorvastatin and Simvastatin in UK - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+### [Major update for anyone taking Atorvastatin and Simvastatin in UK - Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
 2026-09-01 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
 ---
 
-### [Convertir des cellules cérébrales en neurones pour lutter contre les maladies neurodégénératives - Le Monde.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVRqa1JFalhVaG10bHhhMmpsQ2VUQXlpcDdmUFcxbndZa0hhUlVrXy1ZdUZVVF9uTUloX1pZOFNPeERSU3Y1TXRWM1RDVEdmd0hlY3liQW1YOFQzTVNhcFF6ekJ5Qk5JcHlLVmpITUFKMUZXdG96UkFBM01PTGhWeFN2X0RCNXFaNkozUWQ0VXhPbWNaNjBqUE1EdXJuYzhoX1hmcXJaM1pGUXBwNUltMHY1aHdWdlRLMGtCYXhXMlhqWXNaZjdWbDVjbm5qNkotSHZKUWhhdDkwVkswbFBHNHBZTDRZcWhTRTkxb0xHZmlwMDhWUjk5d2wzeTA?oc=5)
+### [Women using HRT at lower risk of dementia, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
 
-2026-09-01 <span class="news-indication-tag">maladie d'Alzheimer</span>
+2026-08-26 <span class="news-indication-tag">dementia</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVRqa1JFalhVaG10bHhhMmpsQ2VUQXlpcDdmUFcxbndZa0hhUlVrXy1ZdUZVVF9uTUloX1pZOFNPeERSU3Y1TXRWM1RDVEdmd0hlY3liQW1YOFQzTVNhcFF6ekJ5Qk5JcHlLVmpITUFKMUZXdG96UkFBM01PTGhWeFN2X0RCNXFaNkozUWQ0VXhPbWNaNjBqUE1EdXJuYzhoX1hmcXJaM1pGUXBwNUltMHY1aHdWdlRLMGtCYXhXMlhqWXNaZjdWbDVjbm5qNkotSHZKUWhhdDkwVkswbFBHNHBZTDRZcWhTRTkxb0xHZmlwMDhWUjk5d2wzeTA?oc=5)
-
----
-
-### [Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
-
-2026-08-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5)
 
 ---
 

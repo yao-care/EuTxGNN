@@ -14,7 +14,7 @@ permalink: /news/glycopyrronium/
 ---
 
 <p class="key-answer" data-question="Glycopyrronium 有什麼相關新聞？">
-<strong>Glycopyrronium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glycopyrronium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/glycopyrronium/
 <p><a href="{{ '/drugs/glycopyrronium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Perché l’emicrania colpisce in modo così diverso? La risposta cercata nel DNA di 2,5 milioni di persone](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
-
-2026-09-01 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
-
----
-
-### [A personalized elimination diet changed the gut microbiome in people with migraine](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaU5yQnJjTkNXQ0paWEhGTnJCcC1HSFQ4RE9UREdBNjJaS2trWlUwbkdFY1FBcGlfWFdhN1BrUFFfTlBFTzlMWUNZdzFiZ3NWQXMyNEwwSW9fWTdLZm5PcEtPOW16eEY0elRQaXNGYXY2dUVHcTBNbEtwSmZ6bUg3cXJBWXFndEtiVUFJQkQ3Ny11ZGtpd3k4UXJ2RjZYS1A0Qm85aTNuWmRTQnl0N01HQ2hnVE8wck1FN1MtYUVfNGliLWd0XzEwbXBR?oc=5)
-
-2026-08-31 <span class="news-indication-tag">migraine</span>
-
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaU5yQnJjTkNXQ0paWEhGTnJCcC1HSFQ4RE9UREdBNjJaS2trWlUwbkdFY1FBcGlfWFdhN1BrUFFfTlBFTzlMWUNZdzFiZ3NWQXMyNEwwSW9fWTdLZm5PcEtPOW16eEY0elRQaXNGYXY2dUVHcTBNbEtwSmZ6bUg3cXJBWXFndEtiVUFJQkQ3Ny11ZGtpd3k4UXJ2RjZYS1A0Qm85aTNuWmRTQnl0N01HQ2hnVE8wck1FN1MtYUVfNGliLWd0XzEwbXBR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
