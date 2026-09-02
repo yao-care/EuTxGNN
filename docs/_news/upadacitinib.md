@@ -54,6 +54,14 @@ permalink: /news/upadacitinib/
 
 ## 相關新聞（4 則）
 
+### [Dermatite atopica, Aifa estende rimborso di upadacitinib dai 12 anni di età - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWW5qbnphZl92VFk0bGdpcndxbFU5a2dQV1ZMREczak5fSGdpcmVpWmltWXluX0M5ZGJVNHYzUTJnMjJVZTlOTk1CaG9WS1ByWmxzbEVWbWsyeEhtUUlzZlZmSEVveFpleEdkSlJ2Y0g0R2c4d3ZWbkMtRVljZnp1VjF1OUxCS3pqdGY3S3p1X29UZVZrUFFTTlpqSHBVemZmQThzZFY0Q0x2MEIwMUZrbGJrRWQ5X1Mtb2ZoQ0w1WkVCWWtfNzRtQ3owN1lmbXZvVGdFTlU4UWctQUIxaC1R?oc=5)
+
+2026-09-02 <span class="news-drug-tag">Upadacitinib</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWW5qbnphZl92VFk0bGdpcndxbFU5a2dQV1ZMREczak5fSGdpcmVpWmltWXluX0M5ZGJVNHYzUTJnMjJVZTlOTk1CaG9WS1ByWmxzbEVWbWsyeEhtUUlzZlZmSEVveFpleEdkSlJ2Y0g0R2c4d3ZWbkMtRVljZnp1VjF1OUxCS3pqdGY3S3p1X29UZVZrUFFTTlpqSHBVemZmQThzZFY0Q0x2MEIwMUZrbGJrRWQ5X1Mtb2ZoQ0w1WkVCWWtfNzRtQ3owN1lmbXZvVGdFTlU4UWctQUIxaC1R?oc=5)
+
+---
+
 ### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
 2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
@@ -66,15 +74,7 @@ permalink: /news/upadacitinib/
 
 2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
-
----
-
-### [Stress proteins actively sustain joint inflammation in osteoarthritis, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
 
 ---
 

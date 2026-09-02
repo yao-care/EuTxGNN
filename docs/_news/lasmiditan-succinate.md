@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
+
+### [Intelligenza artificiale, microbioma e farmaci anti-obesità cambiano la nutrizione](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUdhSkhCYXA3U3VqZ19qWEtaalJrRGpFeVJ6Uk9qYlczTzlpV3Z1RkVVb1lNUmFHUVVhT2VtWDIzRFJVNXBreG9lSE1ob3BnUzFMV0J6QW1DRHNPdDRVLVdNaHVwZEJrVDFUSmJKX004ZzVicjhrUUJuVGxnX1FIbGlQWE93UG9Yak80MUxkMHVyMFM4OTJtTnJUMTRaS0xSU25BTG45cHNHMldMUWVZdmtFeFYzU01rSU1JNWpxWTBrYUdHT0JDWEpSMUVYYXo4XzJYQ3JmV0k?oc=5)
+
+2026-09-02 <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUdhSkhCYXA3U3VqZ19qWEtaalJrRGpFeVJ6Uk9qYlczTzlpV3Z1RkVVb1lNUmFHUVVhT2VtWDIzRFJVNXBreG9lSE1ob3BnUzFMV0J6QW1DRHNPdDRVLVdNaHVwZEJrVDFUSmJKX004ZzVicjhrUUJuVGxnX1FIbGlQWE93UG9Yak80MUxkMHVyMFM4OTJtTnJUMTRaS0xSU25BTG45cHNHMldMUWVZdmtFeFYzU01rSU1JNWpxWTBrYUdHT0JDWEpSMUVYYXo4XzJYQ3JmV0k?oc=5)
+
+---
+
+### [Farmaci per dimagrire, quali funzionano di più? La nuova classifica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
+
+---
 
 ### [Perché è così difficile non riprendere peso: il tessuto adiposo "ricorda" l'obesità anche dopo la dieta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0ZvVXlSaFZTSm1ESFNTVjNhWkpCRHE0Y0VBVklZaTFyNXRncnRoeXJkZmpvS1ZJNXkwdGVQVG5oeDZLQ2pQRUdaaHFyejZadG5iVVVtTTdQOWRudExEN0NOWEp1QlBfOHVFdzRzY2M4QkFPbXlpTk9MMlZtSDRETXNpOTl2SnlTaERWVVh0cktiTWxMWWN1WUlEQ0I3czdtQnJjWkI0WTM1c2JXWWgzRkZUTWVlQm84N0dsR2x1dmVobGxzY2NYOUcwQ0x4UmJqNFluaVk1WGt2bkh3RW9KMzhHWjdrSEFhcWZCQ1ZGZzNUdw?oc=5)
 
@@ -86,11 +102,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [GLP-1 weight loss drugs effective even at low starter doses](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
+### [Perché l’emicrania colpisce in modo così diverso? La risposta cercata nel DNA di 2,5 milioni di persone](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
 
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+2026-09-01 <span class="news-indication-tag">emicrania</span>
 
-來源：[reuters.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
 
 ---
 
@@ -99,6 +115,22 @@ permalink: /news/lasmiditan-succinate/
 2026-08-31 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+
+---
+
+### [Experts call for safer weight loss as concerns grow over GLP-1 use](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
+
+2026-08-31 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
+
+---
+
+### [La obesidad tiene que dejar de ser un problema de salud pública](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
+
+2026-08-27 <span class="news-indication-tag">obesidad</span>
+
+來源：[AEC2](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
 
 ---
 

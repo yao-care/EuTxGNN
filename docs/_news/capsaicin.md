@@ -38,9 +38,9 @@ permalink: /news/capsaicin/
 
 ### [KI-Mammografie kann Herz-Kreislauf-Erkrankungen erkennen](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
 
-2026-09-02 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-09-02 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[zm-online](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
+來源：[zm-online.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
 
 ---
 
@@ -60,11 +60,11 @@ permalink: /news/capsaicin/
 
 ---
 
-### [NHS trials AI to spot heart disease in just two seconds - as 400K on waitlist - The Sun](https://news.google.com/rss/articles/CBMingFBVV95cUxPR3RoYzB0Sk9FOE9XeW9hWkkzTG9QTE41alpQeWJCMTJ0cEl6UUFfLWdTY09ycWduOUJxcUswSWhTSVl1TmdXXzJjblNTYjRqaUFpb3J6a3Zqa0M4cHVvUmVvMzdzdnFvcFRmLTN3Um1JR1ZxZEk4NmxRT1R4b25FRUdZYlgwXzBGQUlLdUs4N01GdEtZejM3aFlKT1k0UQ?oc=5)
+### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
 
-2026-08-31 <span class="news-indication-tag">heart disease</span>
+2026-09-01 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMingFBVV95cUxPR3RoYzB0Sk9FOE9XeW9hWkkzTG9QTE41alpQeWJCMTJ0cEl6UUFfLWdTY09ycWduOUJxcUswSWhTSVl1TmdXXzJjblNTYjRqaUFpb3J6a3Zqa0M4cHVvUmVvMzdzdnFvcFRmLTN3Um1JR1ZxZEk4NmxRT1R4b25FRUdZYlgwXzBGQUlLdUs4N01GdEtZejM3aFlKT1k0UQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [KI-Mammografie kann Herz-Kreislauf-Erkrankungen erkennen](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
 
-2026-09-02 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-09-02 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[zm-online](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
+來源：[zm-online.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
 
 ---
 
@@ -78,11 +78,19 @@ permalink: /news/rimegepant/
 
 ---
 
-### [NHS trials AI to spot heart disease in just two seconds - as 400K on waitlist - The Sun](https://news.google.com/rss/articles/CBMingFBVV95cUxPR3RoYzB0Sk9FOE9XeW9hWkkzTG9QTE41alpQeWJCMTJ0cEl6UUFfLWdTY09ycWduOUJxcUswSWhTSVl1TmdXXzJjblNTYjRqaUFpb3J6a3Zqa0M4cHVvUmVvMzdzdnFvcFRmLTN3Um1JR1ZxZEk4NmxRT1R4b25FRUdZYlgwXzBGQUlLdUs4N01GdEtZejM3aFlKT1k0UQ?oc=5)
+### [Perché l’emicrania colpisce in modo così diverso? La risposta cercata nel DNA di 2,5 milioni di persone](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
 
-2026-08-31 <span class="news-indication-tag">heart disease</span>
+2026-09-01 <span class="news-indication-tag">emicrania</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMingFBVV95cUxPR3RoYzB0Sk9FOE9XeW9hWkkzTG9QTE41alpQeWJCMTJ0cEl6UUFfLWdTY09ycWduOUJxcUswSWhTSVl1TmdXXzJjblNTYjRqaUFpb3J6a3Zqa0M4cHVvUmVvMzdzdnFvcFRmLTN3Um1JR1ZxZEk4NmxRT1R4b25FRUdZYlgwXzBGQUlLdUs4N01GdEtZejM3aFlKT1k0UQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
+
+---
+
+### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+
+2026-09-01 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
 
 ---
 

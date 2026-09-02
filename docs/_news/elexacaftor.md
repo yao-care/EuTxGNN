@@ -54,6 +54,22 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（7 則）
 
+### [Hipertensión: cuál es la mejor dieta para controlar la presión arterial, según un cardiólogo - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUJ0T2c5UEVod0pHbU1NQ1IzZ1o2S1BwZjJKYl9iMkIzclE0ckMwdnItWC02TVdPRW44VGJxM2N3LU95NXhuMThocnN5emVkX29sMnJJeDZNUlFMbUFRZkVLb0d6M2V6bXI3ZFdkWXhKNVhEX3dncUIzQUlNY0ZVVzc2N3FrLXZBUkt3Z3h5QnMyX3Y3WE04MWNRTHJvNzFPSzhBQXZjandIWG50N2hKOEdlZ2wxZmpvR1MyNWlDNnV6aWlKVU9BWlV5alAwd9IB0wFBVV95cUxOalNpdmVNTzlYZjBRMVpMNDk3bThaMjUtd3lBXzVWMkZxeDVUU3d3am5JYmJWVTZQaGIxLXcwdWY0NkFXRHV6d3Ewd3dzbGs0ZDc5dmV2dnY0cFFqUE1EdElWQXN3ZDNCUUJUVU5GcGk3ald3X2M3UHF6Q2NXV2o0dnR1NXB5dGg4cXlhVFB3c3hpeTVVRFdWMl9hcDVZMnBJSm81NUF6VW9ZTlZQU19CV0pRM1N4eGtZYXROSXJNaElRMkVTS182aGtVV1ZNeVZEMnd3?oc=5)
+
+2026-09-02 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUJ0T2c5UEVod0pHbU1NQ1IzZ1o2S1BwZjJKYl9iMkIzclE0ckMwdnItWC02TVdPRW44VGJxM2N3LU95NXhuMThocnN5emVkX29sMnJJeDZNUlFMbUFRZkVLb0d6M2V6bXI3ZFdkWXhKNVhEX3dncUIzQUlNY0ZVVzc2N3FrLXZBUkt3Z3h5QnMyX3Y3WE04MWNRTHJvNzFPSzhBQXZjandIWG50N2hKOEdlZ2wxZmpvR1MyNWlDNnV6aWlKVU9BWlV5alAwd9IB0wFBVV95cUxOalNpdmVNTzlYZjBRMVpMNDk3bThaMjUtd3lBXzVWMkZxeDVUU3d3am5JYmJWVTZQaGIxLXcwdWY0NkFXRHV6d3Ewd3dzbGs0ZDc5dmV2dnY0cFFqUE1EdElWQXN3ZDNCUUJUVU5GcGk3ald3X2M3UHF6Q2NXV2o0dnR1NXB5dGg4cXlhVFB3c3hpeTVVRFdWMl9hcDVZMnBJSm81NUF6VW9ZTlZQU19CV0pRM1N4eGtZYXROSXJNaElRMkVTS182aGtVV1ZNeVZEMnd3?oc=5)
+
+---
+
+### [Impfstoff gegen Gürtelrose schützt vor Herzschwäche und Demenz](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
+
+2026-09-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[faz.net](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dOWWhWbWptS2RvWjUzZkYxb3hPVTFkLS1VV3pxM1k2SG5Pc2hHU2E2YzVhTkFUak1JNDhRUGtfUzRGSXNqMVpILXV5OW5YODJXZ1F1UDdzSU1BaVkwMnFTWmVic1Q0Y01XUWs3cGZzVUZyWWxxUjYzMHN3U3Y5VXlHbUtCNW1pUXhieFpBZjRQMEh3T3k1ZFJyckNSTXlBckdtRVR2Mm5ibl9nN2xVNTFvclgwU2V3MVV2dDEwZHJyTENqUjBXWnFxdlotQmlHc2E3djNR?oc=5)
+
+---
+
 ### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
 2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
@@ -62,27 +78,11 @@ permalink: /news/elexacaftor/
 
 ---
 
-### [AstraZeneca, ipertensione non controllata o resistente al trattamento: baxdrostat efficace a 52 settimane - Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
+### [Perché l’emicrania colpisce in modo così diverso? La risposta cercata nel DNA di 2,5 milioni di persone](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
 
-2026-09-01 <span class="news-indication-tag">ipertensione</span>
+2026-09-01 <span class="news-indication-tag">emicrania</span>
 
-來源：[Daily Health Industry -](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnZnR000YUpyTnFDMGRTZWllS19ZVUpQZDltM2pCMWI1MFJ4UW5QTDMtazBKZndVQ1JSeDROZzA5RmxBM2Q2UjNNNlc4V2dRc0V5VDNXMnZ4ZU5yZ2c0T3MwbWk5dGpYQmhWVFNXMWNHNXVOQVZqYndla3FDMjZXQ3FveTdoM1ZwZ3BwdVlVbTE0VWFvenY3MmNzOC14OXdtb0dTT0Z6cEVxTnR5Zko5S3JEbklHOXFxQ2szWmVLcnYyUzd2UlVhd3hleXhDbFVvZlY4Mnh3?oc=5)
-
----
-
-### [Neue Hoffnung im Kampf gegen Demenz: Kann eine Gürtelrose-Impfung helfen? | NRW - Haller Kreisblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWU1vUXlRdDJPZVhBMzZWelJ3RGRwbHM3T2JZVDNyeUt2c3B2alE0RVk5U3FJZHFtM1RqR3Nxc3dpemltNVhNOXNfSlJ2NVUzdjBsRk8wWHFkTDl5ZlFwbVFMVUtJUjI3WHNVSFJwbWtudi10azM2TjFSeWxMVVVUdWRmQWQwYzRnam92bERNNlpVbXgzVE9sUmN2NlpidkRVcnVDLWE3TlFGZ3YyaVFMZGtGRElnQmd6eXlsbjRIX0RSSFlRTGNGQjlB?oc=5)
-
-2026-09-01 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Haller Kreisblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWU1vUXlRdDJPZVhBMzZWelJ3RGRwbHM3T2JZVDNyeUt2c3B2alE0RVk5U3FJZHFtM1RqR3Nxc3dpemltNVhNOXNfSlJ2NVUzdjBsRk8wWHFkTDl5ZlFwbVFMVUtJUjI3WHNVSFJwbWtudi10azM2TjFSeWxMVVVUdWRmQWQwYzRnam92bERNNlpVbXgzVE9sUmN2NlpidkRVcnVDLWE3TlFGZ3YyaVFMZGtGRElnQmd6eXlsbjRIX0RSSFlRTGNGQjlB?oc=5)
-
----
-
-### [KI-Diagnose von Bluthochdruck und Diabetes aus 5-Sekunden-Face-Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnJiT05OdTFYbUVoWVlHV1RhZWp6SnpOdzB6SVl0d2dOMzJFcl9uMHBoTDFFOVNiY1VFeTVYX0VvTzNpX25LQS1mSFRvenZxeUEwVXdYUnIxelJNRU9kam5pMF9iSnpjdW9QOGxBOHFjYkpLODBLeDZ5NTQ3V0JJUVczZTNOSGZxd2M1bGVqU3ZyZXBHU3owWjFFOFhFUXZTM3ZtQ0gxU2xSNHVuM2tNdG5TVzViZFJ1S1VfU0RWQUdqemdYTEJEMWJSR1VfdmEyanFEYy1OWkJTV0oyM21CR2c5bFBLYlpJaVFBVU5EblV6dDQ?oc=5)
 
 ---
 
@@ -90,15 +90,7 @@ permalink: /news/elexacaftor/
 
 2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
-
----
-
-### [Stress proteins actively sustain joint inflammation in osteoarthritis, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
 
 ---
 
@@ -107,6 +99,14 @@ permalink: /news/elexacaftor/
 2026-08-31 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
 
 來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
+
+---
+
+### [ESC in München: KI erkennt Bluthochdruck und Diabetes am Gesicht per Smartphone - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula, al margen de la función cardíaca](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
+
+---
+
+### [Cholesterin: Bei diesen Patienten senken Statine das Risiko für Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUxfQjQxcTdLQktmREUxN19GZlRLSFh1UkRGMnBuTS1xeDJGQURDR2Q3U3ZSdjBubVhrSXRoVjNUa2kxeU4xRDZ2a3dMeWdxSzhvanVocVcyU1dsSkxYQzlQVXhfNkk1Z1lTVExLNlFUalVLMUZOLXpEczI3SExnQ25fai1YUFFMWDZQSi02VFY0azlGTzMyV0hhTGk5ZzQ4TmJoeGJFSk9BdkJFeVIyQjNLRGZKZWEzUWYwbC1jQXNIb2V3VzFxdENMRC1jbjB5SXI5Uw?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUxfQjQxcTdLQktmREUxN19GZlRLSFh1UkRGMnBuTS1xeDJGQURDR2Q3U3ZSdjBubVhrSXRoVjNUa2kxeU4xRDZ2a3dMeWdxSzhvanVocVcyU1dsSkxYQzlQVXhfNkk1Z1lTVExLNlFUalVLMUZOLXpEczI3SExnQ25fai1YUFFMWDZQSi02VFY0azlGTzMyV0hhTGk5ZzQ4TmJoeGJFSk9BdkJFeVIyQjNLRGZKZWEzUWYwbC1jQXNIb2V3VzFxdENMRC1jbjB5SXI5Uw?oc=5)
+
+---
 
 ### [Dieta keto vs dieta mediterránea: qué funciona mejor según la ciencia](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJUdFRRQ2xHMlcxZzkxNGRlQi16dDZTT20zeDZLZ0E2dGtHejFnZTNKazJlaHJ4TEo1TmJ1dF9GaE10d3kwdHNxaXNPVlJzZmZCYjhzX1RKaXU5RlV4SkZUM2J4Q2RsV1Y4aGxfeEJKNVNtU09sXzVGZHVHelNIR2EwQlZlSzFHVGxubGpGNm1ReU1HOEtDVFNpMGlOOTkxVEVkejBtT0ZMYXpNOW5hZkhfR1A?oc=5)
 
 2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJUdFRRQ2xHMlcxZzkxNGRlQi16dDZTT20zeDZLZ0E2dGtHejFnZTNKazJlaHJ4TEo1TmJ1dF9GaE10d3kwdHNxaXNPVlJzZmZCYjhzX1RKaXU5RlV4SkZUM2J4Q2RsV1Y4aGxfeEJKNVNtU09sXzVGZHVHelNIR2EwQlZlSzFHVGxubGpGNm1ReU1HOEtDVFNpMGlOOTkxVEVkejBtT0ZMYXpNOW5hZkhfR1A?oc=5)
+
+---
+
+### [Las estatinas reducen el riesgo de demencia en pacientes con diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHNYNWRKdUFJZEJZb3Z4dENteC14eTRVUzVnSTZoRENFSFF4bWNGRFlJdlRHSUgyRE1Qd0xmV2syVVpXaDNxUTRseklTVDdPakdNR2ZfTG5zbWI0eXRTRm5sOUJSYTlJNlk0UVBQUmxmMkxWTVBBQVNpaWs2VllUQ2pwZWI4bm1HVGRjWnN3ZVZ5azVLck9qcmpZZnpGZ092MFVvLVhFOEEyUS13Tkhn?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHNYNWRKdUFJZEJZb3Z4dENteC14eTRVUzVnSTZoRENFSFF4bWNGRFlJdlRHSUgyRE1Qd0xmV2syVVpXaDNxUTRseklTVDdPakdNR2ZfTG5zbWI0eXRTRm5sOUJSYTlJNlk0UVBQUmxmMkxWTVBBQVNpaWs2VllUQ2pwZWI4bm1HVGRjWnN3ZVZ5azVLck9qcmpZZnpGZ092MFVvLVhFOEEyUS13Tkhn?oc=5)
+
+---
+
+### [Farmaci per dimagrire, quali funzionano di più? La nuova classifica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
 
 ---
 
@@ -78,43 +110,19 @@ permalink: /news/metformin/
 
 ---
 
-### [Hat Metformin einen kardiovaskulären Nutzen bei Herzinsuffizienz?](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUt5M28xUmdJUzlvUXhFSkxuRS1lc094dXhvbzBRZVRlck8xQmQwZDdKUmY3ZE9ZTlBqRDFFNUZaMHVCMXpob1pTTi05QmZNSHhRWEpGUkRfem92eFJFaXVMWkNldlR4eE9ROHcxQ242bFhRbWVaa190TWlkSE94UWJpT19jYW0zWk9ZTDRfSkpZU2F2OW9iT1Z3Qkw3b0Q1cmVjWUZ3cDFkWFNkbTAwa0N6RQ?oc=5)
+### [Unter Metformin regelmäßig Vitamin B12 kontrollieren](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkkyenM0QS16dDhmc2t5c2VmenAxVjNJbWE3dGxEN3FfeWZqWl90bUdQVW85Rm80eS1GbGJXN3FrNkdHdmdZUFFKSl9IVG9tcmlIWXZvTDF6eTVoVXlKN3NFZW1yZ1BNc0hSOWZYOTl1M2NZUkk2LXRJYlRQalBjUGZVcFpnejhjSnQ3SzZaVWp6SVd4N1hNdkhyZVhOZmdFSWVJZ293?oc=5)
 
 2026-09-01 <span class="news-drug-tag">Metformin</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUt5M28xUmdJUzlvUXhFSkxuRS1lc094dXhvbzBRZVRlck8xQmQwZDdKUmY3ZE9ZTlBqRDFFNUZaMHVCMXpob1pTTi05QmZNSHhRWEpGUkRfem92eFJFaXVMWkNldlR4eE9ROHcxQ242bFhRbWVaa190TWlkSE94UWJpT19jYW0zWk9ZTDRfSkpZU2F2OW9iT1Z3Qkw3b0Q1cmVjWUZ3cDFkWFNkbTAwa0N6RQ?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkkyenM0QS16dDhmc2t5c2VmenAxVjNJbWE3dGxEN3FfeWZqWl90bUdQVW85Rm80eS1GbGJXN3FrNkdHdmdZUFFKSl9IVG9tcmlIWXZvTDF6eTVoVXlKN3NFZW1yZ1BNc0hSOWZYOTl1M2NZUkk2LXRJYlRQalBjUGZVcFpnejhjSnQ3SzZaVWp6SVd4N1hNdkhyZVhOZmdFSWVJZ293?oc=5)
 
 ---
 
-### [KI-Diagnose von Bluthochdruck und Diabetes aus 5-Sekunden-Face-Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
+### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-31 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEVBSjZCRFU4Sl9PendZUVNvcHdYUUhmY3hIdnRTVGhuUnJYc2RRYWhzT1F6eDVIbi1KajBlQVZIblNwN1BFejdOSnFpYzNxbTZPS1R1RFNYS2FBZmM2TVA3ek1Sd1NhRnlXYnVFVm5GSmxjMzhWZUgyTU54WUZyRFJwZ1VIbTZMbGtlVmhxa1RWZjRPR3lJSGNuTThWdzlhbEs4?oc=5)
-
----
-
-### [GLP-1 weight loss drugs effective even at low starter doses](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[reuters.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
-
----
-
-### [Statine und Demenz: Frühe Behandlung senkt Risiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVJMdTN2SHhnOVJMaXdBZHVGbVZwakFwUmpTeEFqRm5FaXhPTDNudHFDMmpSa1p3Smp1eXB2YXFNN2N3Y1RTZFlMVUJWbnNmTmM0ZUQyeW9wVUpnNjU4MVNHQlMzU1lFZWJydFE5RWNHekhEVFczNVk3UDJ3aWFNRnkyRVVYRTdCcUNjNTMxRDdoV2RuMk9icUpISzF6S01GTk9aMGdkZVprMTF3aXVwUTBn?oc=5)
-
-2026-08-31 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVJMdTN2SHhnOVJMaXdBZHVGbVZwakFwUmpTeEFqRm5FaXhPTDNudHFDMmpSa1p3Smp1eXB2YXFNN2N3Y1RTZFlMVUJWbnNmTmM0ZUQyeW9wVUpnNjU4MVNHQlMzU1lFZWJydFE5RWNHekhEVFczNVk3UDJ3aWFNRnkyRVVYRTdCcUNjNTMxRDdoV2RuMk9icUpISzF6S01GTk9aMGdkZVprMTF3aXVwUTBn?oc=5)
-
----
-
-### [Resumen semanal: La etiqueta de Mounjaro se amplía y las proyecciones de ingresos suben a $85–$87 mil millones](https://news.google.com/rss/articles/CBMibEFVX3lxTFAzRkVNaWJjOE9qSEhicklyeFBkVTUxWWM1NGx3N3V6b3IyM2VrUWF5Q192bjZpandwb2JqcWprWGRRaXlxSllWOWN4X2RzUVg3UW9YbXlZYkpVb3RUNzktSUo5bU5OUUZ4czlZVw?oc=5)
-
-2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[TradingView](https://news.google.com/rss/articles/CBMibEFVX3lxTFAzRkVNaWJjOE9qSEhicklyeFBkVTUxWWM1NGx3N3V6b3IyM2VrUWF5Q192bjZpandwb2JqcWprWGRRaXlxSllWOWN4X2RzUVg3UW9YbXlZYkpVb3RUNzktSUo5bU5OUUZ4czlZVw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
 ---
 
@@ -126,19 +134,19 @@ permalink: /news/metformin/
 
 ---
 
+### [ESC in München: KI erkennt Bluthochdruck und Diabetes am Gesicht per Smartphone - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjBOTDdKNU12SnBVNk1DZ05BQXVJb1lCdG9aNXZiSVFicU1tc1lwbUllUUdqMzBPZkFjU3dIVXpCdjBEQnpnR1JVeE95QTlNZDRoMk9uSS01eTM2RnpaQUhZWjRHRzVKNF90Y25JOXFPeDkwLWUwVFlveWl1SkR2N3Ffa0NrV0pxOWxTcDFKR2pOTDI2eGhhRWJUcm1STDh1bmJZN1hqUnVjdUhSLXU1YQ?oc=5)
+
+---
+
 ### [Sunlight, blood sugar and diabetes: a new study finds an intriguing connection](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
 2026-08-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
-
----
-
-### [Los expertos coinciden: este es el mejor desayuno para las personas con diabetes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWJXSkI0WE9pOE1pc2JTUTRwUWtMU19vSXN3WFc5SlBFWllyTmVFenRIWmZTdjVCZUV2bW5INFoxSmJDem0xa21XTEtmb0NFNlpTV1RmS0F3RWxiMlYwRHJQQTdLeS1yREdwODZuZC1iWTJ2V1IzTlozdzBSRUJBZmxZc1BZejhKelJCRFd6QnBnRHZqc1NDYkJlX2hVNHcwU0tMNThYel9kMGZIekpjYlBUb18tN016alJ2bGlMQnbSAdQBQVVfeXFMTVlaeUc3V0FWbkZ6aWhvTHJTNTBPNGpBdDNBcjBwenRhekdhckJFNklWOHZnRVNYU1k0dWU4czRtSURvZkdpZ2twZjI5dWVwMWlDb2p5bkIwX2NJVWg0ZFFhdHpPM2wwSUEzU3dMTVVJbU4yLW50aFFIa3N2cWFCVk0wSGpOenI1NVBsV09velJIdzc1NUdJQ0xYUGV4UkhuWjdNaVI4Si1NWWRyZXNKdloyUWRzQU9DNTZwc1ozVjFYUEZMZTg5ZWk4WUVoY040c280bXM?oc=5)
-
-2026-08-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[larazon.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWJXSkI0WE9pOE1pc2JTUTRwUWtMU19vSXN3WFc5SlBFWllyTmVFenRIWmZTdjVCZUV2bW5INFoxSmJDem0xa21XTEtmb0NFNlpTV1RmS0F3RWxiMlYwRHJQQTdLeS1yREdwODZuZC1iWTJ2V1IzTlozdzBSRUJBZmxZc1BZejhKelJCRFd6QnBnRHZqc1NDYkJlX2hVNHcwU0tMNThYel9kMGZIekpjYlBUb18tN016alJ2bGlMQnbSAdQBQVVfeXFMTVlaeUc3V0FWbkZ6aWhvTHJTNTBPNGpBdDNBcjBwenRhekdhckJFNklWOHZnRVNYU1k0dWU4czRtSURvZkdpZ2twZjI5dWVwMWlDb2p5bkIwX2NJVWg0ZFFhdHpPM2wwSUEzU3dMTVVJbU4yLW50aFFIa3N2cWFCVk0wSGpOenI1NVBsV09velJIdzc1NUdJQ0xYUGV4UkhuWjdNaVI4Si1NWWRyZXNKdloyUWRzQU9DNTZwc1ozVjFYUEZMZTg5ZWk4WUVoY040c280bXM?oc=5)
 
 ---
 
