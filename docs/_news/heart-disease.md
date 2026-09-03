@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung（heart disease） 相關新聞"
+title: "heart failure（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "heart failure（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung（heart disease） 相關新聞
+# heart failure（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
+<strong>heart failure（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -87,19 +87,19 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（2 則）
 
-### [KI kann Herzprobleme in Sekunden erkennen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+### [The six most important things you can do today to stop heart failure](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
-2026-09-02
+2026-09-03
 
-來源：[Scinexx](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 ---
 
-### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+### [Un medicamento contra la diabetes muestra un beneficio inesperado tras el implante de una válvula cardíaca: mejora el pronóstico más allá de la función del corazón](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
 
-2026-09-01
+2026-09-02
 
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+來源：[eleconomista.es](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
 
 ---
 

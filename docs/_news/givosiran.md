@@ -54,11 +54,11 @@ permalink: /news/givosiran/
 
 ## 相關新聞（1 則）
 
-### [KI kann Herzprobleme in Sekunden erkennen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+### [La hepatitis D deja de ser una enfermedad sin tratamiento para convertirse en una prioridad clínica - Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-08-29 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Scinexx](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
 
 ---
 

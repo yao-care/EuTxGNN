@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+### [Adipositas: KI-Modell prognostiziert Therapieerfolg mit 89,8% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
 
-2026-09-03 <span class="news-indication-tag">obesity</span>
+2026-09-02 <span class="news-indication-tag">Adipositas</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
 
 ---
 
-### [The drugs found to slow down ageing – and you might already be taking them - The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNloyUEZfRXdNWVN4TVFrR014UTV5RGlHNllzOTduZXNtT29lMWxqSkdUVkFEMVpPQW9Wb3BkRnVUemExMG93ZHVfUXpGanp0MzVwU1NmM2oxNGlVMVE2YTlocE9hMFJUSWMzQ0hheW9mekhONkFLamhwS2t4azFjeXB0UTIxaXNBekZwZg?oc=5)
+### [Intelligenza artificiale, microbioma e farmaci anti-obesità cambiano la nutrizione](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUdhSkhCYXA3U3VqZ19qWEtaalJrRGpFeVJ6Uk9qYlczTzlpV3Z1RkVVb1lNUmFHUVVhT2VtWDIzRFJVNXBreG9lSE1ob3BnUzFMV0J6QW1DRHNPdDRVLVdNaHVwZEJrVDFUSmJKX004ZzVicjhrUUJuVGxnX1FIbGlQWE93UG9Yak80MUxkMHVyMFM4OTJtTnJUMTRaS0xSU25BTG45cHNHMldMUWVZdmtFeFYzU01rSU1JNWpxWTBrYUdHT0JDWEpSMUVYYXo4XzJYQ3JmV0k?oc=5)
 
-2026-09-02 <span class="news-indication-tag">obesity</span>
+2026-09-02 <span class="news-indication-tag">obesità</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNloyUEZfRXdNWVN4TVFrR014UTV5RGlHNllzOTduZXNtT29lMWxqSkdUVkFEMVpPQW9Wb3BkRnVUemExMG93ZHVfUXpGanp0MzVwU1NmM2oxNGlVMVE2YTlocE9hMFJUSWMzQ0hheW9mekhONkFLamhwS2t4azFjeXB0UTIxaXNBekZwZg?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUdhSkhCYXA3U3VqZ19qWEtaalJrRGpFeVJ6Uk9qYlczTzlpV3Z1RkVVb1lNUmFHUVVhT2VtWDIzRFJVNXBreG9lSE1ob3BnUzFMV0J6QW1DRHNPdDRVLVdNaHVwZEJrVDFUSmJKX004ZzVicjhrUUJuVGxnX1FIbGlQWE93UG9Yak80MUxkMHVyMFM4OTJtTnJUMTRaS0xSU25BTG45cHNHMldMUWVZdmtFeFYzU01rSU1JNWpxWTBrYUdHT0JDWEpSMUVYYXo4XzJYQ3JmV0k?oc=5)
 
 ---
 
@@ -78,27 +78,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Adipositas: Studie entwickelt KI-Prognose über Behandlungserfolg](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ25fQ3NmcmJuNUZRVXJEZ2QtWHRpNUdxVlAzN3ZNS0tYek5CSEdxTFk3S2I2a3pXdEMtMk5JOHB3cmg1czFDbGdrZG9nOEF5Um1UNFBHMWx1SjN5UUdzTlpjRzgwbk1qQ2M2UG1yU1YtUW41VjF0cW5qWXloQUhPMjB4NXJGX0pmS0NOeXNrRFRWMFo2UWxOaG5BTm5HS1RqMnJxdQ?oc=5)
-
-2026-09-01 <span class="news-indication-tag">Adipositas</span>
-
-來源：[E-HEALTH-COM](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ25fQ3NmcmJuNUZRVXJEZ2QtWHRpNUdxVlAzN3ZNS0tYek5CSEdxTFk3S2I2a3pXdEMtMk5JOHB3cmg1czFDbGdrZG9nOEF5Um1UNFBHMWx1SjN5UUdzTlpjRzgwbk1qQ2M2UG1yU1YtUW41VjF0cW5qWXloQUhPMjB4NXJGX0pmS0NOeXNrRFRWMFo2UWxOaG5BTm5HS1RqMnJxdQ?oc=5)
-
----
-
-### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
 
 2026-08-31 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
-
----
-
-### [La obesidad tiene que dejar de ser un problema de salud pública](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
-
-2026-08-27 <span class="news-indication-tag">obesidad</span>
-
-來源：[AEC2](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2k5SkRuRE4zTmZLdkRHb2QtdEVhTWs2RVREN2NrT1QtMGZPMzFqQ2hTZm5nSHphR0RyOFN2dkRGR3U5NGhEY3JjTExwWWxtU3VaZG9tOU1kQU40andxanY2WXFsVFQ1bmU2d0FiVnUwaVZjNFcxdHBaQm1icDhWZFNsVEt3X1ZPUzRkR0xwNEZBR0VGU2REdnlPdFUyZExDdEVR?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
 
 ---
 

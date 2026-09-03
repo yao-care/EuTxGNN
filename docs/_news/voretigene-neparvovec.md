@@ -14,7 +14,7 @@ permalink: /news/voretigene-neparvovec/
 ---
 
 <p class="key-answer" data-question="Voretigene Neparvovec 有什麼相關新聞？">
-<strong>Voretigene Neparvovec</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voretigene Neparvovec</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/voretigene-neparvovec/
 <p><a href="{{ '/drugs/voretigene-neparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [KI kann Herzprobleme in Sekunden erkennen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Scinexx](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

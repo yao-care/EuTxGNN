@@ -54,19 +54,19 @@ permalink: /news/tobramycin/
 
 ## 相關新聞（2 則）
 
-### [KI kann Herzprobleme in Sekunden erkennen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+### [The six most important things you can do today to stop heart failure](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-09-03 <span class="news-indication-tag">heart failure</span>
 
-來源：[Scinexx](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 ---
 
-### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+### [Un medicamento contra la diabetes muestra un beneficio inesperado tras el implante de una válvula cardíaca: mejora el pronóstico más allá de la función del corazón](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
 
-2026-09-01 <span class="news-indication-tag">heart disease</span>
+2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
 
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+來源：[eleconomista.es](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
 
 ---
 
