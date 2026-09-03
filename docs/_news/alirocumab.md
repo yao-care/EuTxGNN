@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Nierenfunktion bei Herzpatienten prüfen: DGfN fordert eGFR und UACR - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGpmdVR0TWNNUW9aU0lNRmRaa2ZCMlpyOTQ1cjJFakJxMHRkR1h0VnNnbnZGZEcydkFVMmpJRkp6TjV5dmlYMnpRVl95U3JaWEtjOUk0MFNKVVgtc3ZWd3d4OUJYcElRN29NNUV6WkFsVXRWU2Fwb2toWVlEeEdyYVJRNmhaMzFKVlYyb3o4QXJUMmpfZEZhWmxtQUZ3Q1kwamNIaVNxY0NHaWxWaS0wUTdpOC1VTFBt?oc=5)
 
-2026-09-01 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-09-01 <span class="news-indication-tag">CKD</span>
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGpmdVR0TWNNUW9aU0lNRmRaa2ZCMlpyOTQ1cjJFakJxMHRkR1h0VnNnbnZGZEcydkFVMmpJRkp6TjV5dmlYMnpRVl95U3JaWEtjOUk0MFNKVVgtc3ZWd3d4OUJYcElRN29NNUV6WkFsVXRWU2Fwb2toWVlEeEdyYVJRNmhaMzFKVlYyb3o4QXJUMmpfZEZhWmxtQUZ3Q1kwamNIaVNxY0NHaWxWaS0wUTdpOC1VTFBt?oc=5)
+
+---
+
+### [Las nuevas guías ESC recomiendan cribar la enfermedad renal crónica en todos los pacientes con enfermedad cardiovascular](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ1pmTExrWUxTSldoYkwwWnZ5X3ZXVVd0NDh3MVZMOFNsNE9aUVVVbmF6N2JXbWU1UkNpRkVLVTY0Z1dZMjNwUmE0N0l1ajZ4UDJGcl91bWtqeUZiMVFDaDdyd3BxSUJGQlppM2pYLXRkbGNMNWEzQjNnQWY2SUt2UWZOclM3NUVJVU5PbkhRWWkwaC1JS3ZLQ3hGWnNkVllSLUFDU3VLSnpHd0RNeUxrWmJVUnBMaEdvcktLVl8tQnBXZGdUNEJJbUQtdw?oc=5)
+
+2026-08-30 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ1pmTExrWUxTSldoYkwwWnZ5X3ZXVVd0NDh3MVZMOFNsNE9aUVVVbmF6N2JXbWU1UkNpRkVLVTY0Z1dZMjNwUmE0N0l1ajZ4UDJGcl91bWtqeUZiMVFDaDdyd3BxSUJGQlppM2pYLXRkbGNMNWEzQjNnQWY2SUt2UWZOclM3NUVJVU5PbkhRWWkwaC1JS3ZLQ3hGWnNkVllSLUFDU3VLSnpHd0RNeUxrWmJVUnBMaEdvcktLVl8tQnBXZGdUNEJJbUQtdw?oc=5)
 
 ---
 

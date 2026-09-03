@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
-### [La RD Congo supera la barrera de los 3.000 muertos por ébola](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTRMSDVNMjJvNzNKWnFtZGlDSjh5d1NwelMxR09MZXlDS2xlZFdMdlVGYktGU0dQenlKREpIbEJCR2E1RVVXMHVCaWwzNEVLVEhNT2xkc0JmSnpIQ2tWdWNWVXFGa3I5SjhWMmtrcEtDLVdNWFFNNmpDQThzT1B5SWJER2xXNFlZWDhXM3BIVy1yV3hvQkNUZFpabW5mZ0FpSzhtSHNsdnBCdWRoS2fSAa4BQVVfeXFMTy1Xbmg3dzZmNGUyUXRiMktWa2NfQjdBaEo3NklNcEpUY29mLWY3Skl5R0RFOE9nNENOT2ZDcXZ3TkpmalBobC1wVkpoNjdmYnFWMVdZMmdscmozclZmYURLR0V3UkFmLWxjYUtGNThQam1OOFhTVTJlNWp0RjhfeV9obkpnQktXdHV2c1VaelJlXzcxMWxGclc4QVJjdU5hd1MzS2FJSzVyWndka0t3?oc=5)
+### [RD Congo supera las 3.000 muertes por el brote de ébola, sin que los contagios se ralenticen - France 24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjc1cGFuUkRoOElnbmlPc2s2VmtoU1J0eEJVdEZaUEd3QTBMUUZsSlZZaU94U0NxRnlrNEQzNHYxN2lBUHpBUDUzZDRsTFRYV3ZrUWYxRUJRb3ZIM2FMbXdzRElUaXNEdDl0cUc5YVQ5TGJSNHFWQVhQNFhpemR5b1J4N1hzNmxMTE5aMzYySDlxR0g1NXc4eGhnd0lwN2ZGWUhBTHFqQWF6NGl3REtYLUo4ZTFTTXF0NWRBbnpMRktoSnpBRUpIeEJrdUpLeVlRMW1RUFJvSTVVdmdjYkE?oc=5)
+
+2026-09-03 <span class="news-indication-tag">MS</span>
+
+來源：[France 24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjc1cGFuUkRoOElnbmlPc2s2VmtoU1J0eEJVdEZaUEd3QTBMUUZsSlZZaU94U0NxRnlrNEQzNHYxN2lBUHpBUDUzZDRsTFRYV3ZrUWYxRUJRb3ZIM2FMbXdzRElUaXNEdDl0cUc5YVQ5TGJSNHFWQVhQNFhpemR5b1J4N1hzNmxMTE5aMzYySDlxR0g1NXc4eGhnd0lwN2ZGWUhBTHFqQWF6NGl3REtYLUo4ZTFTTXF0NWRBbnpMRktoSnpBRUpIeEJrdUpLeVlRMW1RUFJvSTVVdmdjYkE?oc=5)
+
+---
+
+### [La tecnología del ARN mensajero permite dar “salto cuántico” hacia la cura del cáncer | El Colombiano - El Colombiano](https://news.google.com/rss/articles/CBMingFBVV95cUxPV2FuM1RHTVlreHhGYm9CS2NSNlBCWUd6TExjRkJKTzlveDZnWWl1SUtwSnpjS2JpWHV6aGZUejlxUlFib09JRXBoa2R6MW9wODFneHAwajZ6OEJjLVdPUW5TTXJMSjdoRE9lV3FtbXp6dGRLV0JqQ3BNN0JUdlRGWUNGNW9hcnRxWUs5RGI4YVBlUWVfQXVoMzBjWURlQdIBowFBVV95cUxNeWVacldhbXc4OC1nUzhyMFJ5aC15ZFFlaUh5Vkt0cUE4cnRaV2NLdlVjdXhrVk83ZEJiTHEyc3lrTk9hT0NwRGJjQmJhRFRITTA4ZFRtblFTeWNfc1drdzk0Q0xlVE1OWklPbU9Va2tBM0x6c21ldjQ0a2lWNVI4MkpPcTYxRnFjaVN3VnhfdXR2LW9ydTNWa0pMLTBqbGxNemk0?oc=5)
 
 2026-09-02 <span class="news-indication-tag">MS</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTRMSDVNMjJvNzNKWnFtZGlDSjh5d1NwelMxR09MZXlDS2xlZFdMdlVGYktGU0dQenlKREpIbEJCR2E1RVVXMHVCaWwzNEVLVEhNT2xkc0JmSnpIQ2tWdWNWVXFGa3I5SjhWMmtrcEtDLVdNWFFNNmpDQThzT1B5SWJER2xXNFlZWDhXM3BIVy1yV3hvQkNUZFpabW5mZ0FpSzhtSHNsdnBCdWRoS2fSAa4BQVVfeXFMTy1Xbmg3dzZmNGUyUXRiMktWa2NfQjdBaEo3NklNcEpUY29mLWY3Skl5R0RFOE9nNENOT2ZDcXZ3TkpmalBobC1wVkpoNjdmYnFWMVdZMmdscmozclZmYURLR0V3UkFmLWxjYUtGNThQam1OOFhTVTJlNWp0RjhfeV9obkpnQktXdHV2c1VaelJlXzcxMWxGclc4QVJjdU5hd1MzS2FJSzVyWndka0t3?oc=5)
+來源：[El Colombiano](https://news.google.com/rss/articles/CBMingFBVV95cUxPV2FuM1RHTVlreHhGYm9CS2NSNlBCWUd6TExjRkJKTzlveDZnWWl1SUtwSnpjS2JpWHV6aGZUejlxUlFib09JRXBoa2R6MW9wODFneHAwajZ6OEJjLVdPUW5TTXJMSjdoRE9lV3FtbXp6dGRLV0JqQ3BNN0JUdlRGWUNGNW9hcnRxWUs5RGI4YVBlUWVfQXVoMzBjWURlQdIBowFBVV95cUxNeWVacldhbXc4OC1nUzhyMFJ5aC15ZFFlaUh5Vkt0cUE4cnRaV2NLdlVjdXhrVk83ZEJiTHEyc3lrTk9hT0NwRGJjQmJhRFRITTA4ZFRtblFTeWNfc1drdzk0Q0xlVE1OWklPbU9Va2tBM0x6c21ldjQ0a2lWNVI4MkpPcTYxRnFjaVN3VnhfdXR2LW9ydTNWa0pMLTBqbGxNemk0?oc=5)
+
+---
+
+### [Edinburgh dad had no symptoms before routine tests revealed 'aggresive' tumour - Edinburgh Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2xfdU1sMVNOaXFfZU1nM3h6Nm9XY0VZeWJab1N4RFIxS01ZTTdmbmg3U2JycjZqRlJCdDFTNmxsdmZWdUtrcjNQV0UzN3BZeklqX1Fkb3dBMEdtODN6Q1AwaWJQUWlrVXNCYnNPOEhpWm1KVm9qQ1pzWTNwQ0MzNk5FMEdNcjZuZEdjeGVqMXNJbWNaRUJDWA?oc=5)
+
+2026-09-02 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span>
+
+來源：[Edinburgh Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2xfdU1sMVNOaXFfZU1nM3h6Nm9XY0VZeWJab1N4RFIxS01ZTTdmbmg3U2JycjZqRlJCdDFTNmxsdmZWdUtrcjNQV0UzN3BZeklqX1Fkb3dBMEdtODN6Q1AwaWJQUWlrVXNCYnNPOEhpWm1KVm9qQ1pzWTNwQ0MzNk5FMEdNcjZuZEdjeGVqMXNJbWNaRUJDWA?oc=5)
+
+---
+
+### [Multiple Sklerose: Neue Blutzellen-Therapie zeigt Toleranzbildung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZktyMW5TeHJmSUJUdWNaYXo1dWtmUDVsZzN3a0s0VlBYNXFSbnd6ZEZQNFNOajBVWWt1Yng3LVBCRkl0bWx6aWI0Y2VUdWtkXzQ1TXhLUUhtMHozNnA3dDFxWWM5b3R2UHdraGVuN0plLXV0aDU2azU0Z3I1Tl8tVXp5dXV6OXdRZmdFY0dUTEVxUG8yTEVJeFB0eTJPcFdkcFhHbDJ6U0s2NXVmem5YaDItcw?oc=5)
+
+2026-09-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZktyMW5TeHJmSUJUdWNaYXo1dWtmUDVsZzN3a0s0VlBYNXFSbnd6ZEZQNFNOajBVWWt1Yng3LVBCRkl0bWx6aWI0Y2VUdWtkXzQ1TXhLUUhtMHozNnA3dDFxWWM5b3R2UHdraGVuN0plLXV0aDU2azU0Z3I1Tl8tVXp5dXV6OXdRZmdFY0dUTEVxUG8yTEVJeFB0eTJPcFdkcFhHbDJ6U0s2NXVmem5YaDItcw?oc=5)
+
+---
+
+### [BBC expert says ‘thing you should worry about’ with UK kitchen egg storage - Daily Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE43WTlfOWZ2TTFhbWpiOVFPaDdnU1diU2hFWi1rM05Kd243ODdvc1BHdWNXZmN0V2tiRXlMNlljSGM1SnFqN29XU0JBWXJHd2R2QXRkMWxFWGR2dThRVWpYTml5b0hJRHRxZXVmZVU2TnlJQ20wdTZPcUg1WdIBgAFBVV95cUxNV0xqSFR3VnVCY0FLbHVVaVJUc3NHSnhxdXNCaE9HemdwUnFZdzRXclM1dklUM2EwLVNXbW83dUVlelVSSkRQd2dxS083RHlqalVKQVA4dlVEYmdBX1lrWE94V05OVllFTmFmeldsb1Q4SWF0d1lDM1RoZ3hTSlcyMQ?oc=5)
+
+2026-09-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE43WTlfOWZ2TTFhbWpiOVFPaDdnU1diU2hFWi1rM05Kd243ODdvc1BHdWNXZmN0V2tiRXlMNlljSGM1SnFqN29XU0JBWXJHd2R2QXRkMWxFWGR2dThRVWpYTml5b0hJRHRxZXVmZVU2TnlJQ20wdTZPcUg1WdIBgAFBVV95cUxNV0xqSFR3VnVCY0FLbHVVaVJUc3NHSnhxdXNCaE9HemdwUnFZdzRXclM1dklUM2EwLVNXbW83dUVlelVSSkRQd2dxS083RHlqalVKQVA4dlVEYmdBX1lrWE94V05OVllFTmFmeldsb1Q4SWF0d1lDM1RoZ3hTSlcyMQ?oc=5)
 
 ---
 
@@ -70,6 +102,14 @@ permalink: /news/glecaprevir/
 
 ---
 
+### [Popular sugar alternative could increase heart attack and stroke risk - Daily Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXhaVWxUdFU3a3cyOW55WHlhRjJpYXpzaGpmZXlxV0lLMkE4SFVBbXlPM3B6UllrV1p5d1gxTC1xTW1EUkdyVGM1M3p2bHVxaXNic015VE5Ja3BGdGRkUTVxNjBBbjJoeUtWZzdWQndqMk1GeEU2RjN3emNWUGZZNURSSUhQNkFGb2U5djRDamg3ci1xLVhINm1qd9IBoAFBVV95cUxOWFliSS1GdFpqS0NYTlpsMl9TT18wX2wtcDduSzZZc3hKUVJKeXhfbmZRMkhJWEJKcFZ1LXpUbElQbnktYTlkTmdaUVQzOVhkOElBTjQwWUk5VlBWOTlOWW92c2pBU05aTktvanZwdkhEVGpBaDlGRm4tWmJVcWxqLUl5RmNiQnNreTZrTXdpS2JFWTdkQVZpWmkzU24zY2JS?oc=5)
+
+2026-09-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXhaVWxUdFU3a3cyOW55WHlhRjJpYXpzaGpmZXlxV0lLMkE4SFVBbXlPM3B6UllrV1p5d1gxTC1xTW1EUkdyVGM1M3p2bHVxaXNic015VE5Ja3BGdGRkUTVxNjBBbjJoeUtWZzdWQndqMk1GeEU2RjN3emNWUGZZNURSSUhQNkFGb2U5djRDamg3ci1xLVhINm1qd9IBoAFBVV95cUxOWFliSS1GdFpqS0NYTlpsMl9TT18wX2wtcDduSzZZc3hKUVJKeXhfbmZRMkhJWEJKcFZ1LXpUbElQbnktYTlkTmdaUVQzOVhkOElBTjQwWUk5VlBWOTlOWW92c2pBU05aTktvanZwdkhEVGpBaDlGRm4tWmJVcWxqLUl5RmNiQnNreTZrTXdpS2JFWTdkQVZpWmkzU24zY2JS?oc=5)
+
+---
+
 ### [Morbillo, negli Usa anche i morti diventano terreno di scontro. L’Italia ha una legge da difendere](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTGVxemVHNkE5dkVwWkdDS20yN3VMSXNsc2RrVjRBQWQ0d3ZQcHVzVEg3ajlxQTF5STV2MFd6OGJIdFFEY0hMcjVSRUJCdjVwQi1GaUJYUkhGdktYc1Z5bHpJbmJBVVYwc3dMM3Zpa1l3VGJpN1hkSURJZnpsNE9OREFSNkoxWUN0Mlp0dnJhSlIyMnJicEl6UC01Ti1VekpDSElHanhYTFhTY2VtUGVwN1g1WXN6dWdNVlZPdzExbGlhSkVVR1FaU0l4NnRvZnkwaXlva2hzSGVOR0JGZ2NV?oc=5)
 
 2026-09-01 <span class="news-indication-tag">MS</span>
@@ -78,11 +118,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [MS-Therapie: Mainzer Wirkstoffpflaster auf dem Weg in klinische Studie](https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0NESUZ2TmYzdHZ2ZUs0SVNTODdZRXZiX0tYdWs2RWptT09WZHNHdVBwOFY3T1dDeFFHcW9LX1B5c2pqQWRVMXFUelVMLUpNZUdRbUpTR2lSSDZhV3kxQThyUDNNbjh1WHdsY0J5dE5NT2hYaW54WXEyLVFjak5xM0VnbzBROXlIMTg5SDhuS3hsS3JsMnh1YUoxT2I4RXBOVWJaUjFudzBmYzZuTXJ2UVpOQVYyV25pSlhMeTl0ZmVTSy0tcHE5cllsVE1RQQ?oc=5)
+### [H1N1 can cause pneumonia, but that's not the only danger: The rare complications doctors have documented - The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYlY2ODNvV01ESHQ3bUNQcFVHazRGQWhscEVwTzg2X2tUWFRDZGgxaFlYNzNkdHRWTlpUYnFvYUUtV2xJdnFrZVViRVNPYkl4NEJrQWlmTllNWXdwSGM0Q3JYd3E5aUN4bmJiNVhnclpPWk0xRkIycEV3MnNSUENQcUF4dFNtRGxsTV9FY2NBUmxkc0pEUFJ4T0dvWW5sVXFsdlZCOVpQZlBHWi1ST2tDLTJxRkFBVjJ1b3VRRW5zSXpudUo5cGViR2VkSWJVSmcwZjZSa3lQSTN5WG4wZUtRS0VNNGp3VkVON3YzMm1uVkNTRS11MEM1dkloN1RJQdIBhgJBVV95cUxORklBcnduZ3B0X2dYYllBMnUxa01fd0oyenBSYnhUZXVOYnJnVGVIS2Q3cXQ4aC1CNTFwajk5azlkVGZxT0l3R3Nqb2N0YmxvaWMxN1ZhR3QzQkF1cGJBT2k4QTNqY1dVa3hGc05OSW9DUlBMaDZvcF9SR09PN1psU1ROdVdDdWR2OVoxYTZRcU9XUFdNUkl2N25XQjJuQ3F1VFlmUnNoYVh6NHoySGlnRG1MdmM1TWN4anFSaHpHamtsbXhzUDljNDR1NzBhTUdDZXBoc2lsZGM5UVhjdV9sWlVhNmhXT2loejM5VmZQR3RTZHRTV3RYTmlGVDk5SGo0cG9aejlR?oc=5)
 
 2026-09-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[merkurist.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0NESUZ2TmYzdHZ2ZUs0SVNTODdZRXZiX0tYdWs2RWptT09WZHNHdVBwOFY3T1dDeFFHcW9LX1B5c2pqQWRVMXFUelVMLUpNZUdRbUpTR2lSSDZhV3kxQThyUDNNbjh1WHdsY0J5dE5NT2hYaW54WXEyLVFjak5xM0VnbzBROXlIMTg5SDhuS3hsS3JsMnh1YUoxT2I4RXBOVWJaUjFudzBmYzZuTXJ2UVpOQVYyV25pSlhMeTl0ZmVTSy0tcHE5cllsVE1RQQ?oc=5)
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYlY2ODNvV01ESHQ3bUNQcFVHazRGQWhscEVwTzg2X2tUWFRDZGgxaFlYNzNkdHRWTlpUYnFvYUUtV2xJdnFrZVViRVNPYkl4NEJrQWlmTllNWXdwSGM0Q3JYd3E5aUN4bmJiNVhnclpPWk0xRkIycEV3MnNSUENQcUF4dFNtRGxsTV9FY2NBUmxkc0pEUFJ4T0dvWW5sVXFsdlZCOVpQZlBHWi1ST2tDLTJxRkFBVjJ1b3VRRW5zSXpudUo5cGViR2VkSWJVSmcwZjZSa3lQSTN5WG4wZUtRS0VNNGp3VkVON3YzMm1uVkNTRS11MEM1dkloN1RJQdIBhgJBVV95cUxORklBcnduZ3B0X2dYYllBMnUxa01fd0oyenBSYnhUZXVOYnJnVGVIS2Q3cXQ4aC1CNTFwajk5azlkVGZxT0l3R3Nqb2N0YmxvaWMxN1ZhR3QzQkF1cGJBT2k4QTNqY1dVa3hGc05OSW9DUlBMaDZvcF9SR09PN1psU1ROdVdDdWR2OVoxYTZRcU9XUFdNUkl2N25XQjJuQ3F1VFlmUnNoYVh6NHoySGlnRG1MdmM1TWN4anFSaHpHamtsbXhzUDljNDR1NzBhTUdDZXBoc2lsZGM5UVhjdV9sWlVhNmhXT2loejM5VmZQR3RTZHRTV3RYTmlGVDk5SGo0cG9aejlR?oc=5)
 
 ---
 
@@ -118,43 +158,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
-
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
-
----
-
-### [Maidstone woman's early cancer symptoms blamed on menopause](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
-
-2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
-
----
-
 ### [RFK Jr slams media and ‘demagogic’ leaders as he downplays ‘so-called measles deaths’ - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTlreTJWTnljeEpPNGNCT2NocEh4Qkhqdm1yN3lyWTM5c2V0UHFwSmJWWERFTDIxdTZDaFprblRtT3NqTGZwTXhQajR3N3VIa3VQYnZDMzFFY3hqY1FqRHJSN0NWWmZvVkdPRDZZU0RIVmhlNnpkZFBzU3VzTUhWdGQxaVd0NWFuNWoxS3VUelpLUGphbE1hMllYUGVlTlV0eTZtaUd5QWhDQUhYQ09aTA?oc=5)
 
 2026-08-29 <span class="news-indication-tag">MS</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTlreTJWTnljeEpPNGNCT2NocEh4Qkhqdm1yN3lyWTM5c2V0UHFwSmJWWERFTDIxdTZDaFprblRtT3NqTGZwTXhQajR3N3VIa3VQYnZDMzFFY3hqY1FqRHJSN0NWWmZvVkdPRDZZU0RIVmhlNnpkZFBzU3VzTUhWdGQxaVd0NWFuNWoxS3VUelpLUGphbE1hMllYUGVlTlV0eTZtaUd5QWhDQUhYQ09aTA?oc=5)
-
----
-
-### [La hepatitis D deja de ser una enfermedad sin tratamiento para convertirse en una prioridad clínica - Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
-
-2026-08-29 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
-
----
-
-### [Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
-
-2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhaTnpVOTh0OFRqck9aTUItc3pEMVo2c2VKeXEzR2ZLMXctVGZiMjdQaG5fSUlTYWt5ckt4b0NSdTJud3J3MFk5Qm52SlFVeTgwMDZ2TFB2SEZYSVBmcmlZRUNlTks1bkNiTjB3R24zVlVWRnV5NlV1bl8zQzNEaU9HZi10MHBoR2FoeW02Si11YllveVBNRUczVy1XYTlncGh6Sw?oc=5)
 
 ---
 

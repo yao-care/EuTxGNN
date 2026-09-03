@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
 
-### [KI-Mammografie kann Herz-Kreislauf-Erkrankungen erkennen](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
+### [La inteligencia artificial puede ayudar a diagnosticar la migraña, pero el nuevo modelo va más allá: también identifica subgrupos de pacientes con características diferentes - El Economista](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOUHc4TkVhMFpBbEVDaUFjaWJIM1NOYTAzM05XYUpZem9ZMFctVXMyYWQ3MnZuM1BaUjA1N3JsOExvRTFrNHRHVDNXMGJfRzVIWTE2cm9xejNZV25jSUtNcDBVbjhIY2EtbENJUldsVGxLczlhVTJLQXE5SHd5SEEtWGktb09EMlljLU5WWXczS2dxaUY1OWROMHVQUENnNFlEQzUzTE10UjRJcDVWeXh5aVJOSldQWkRrYWhaNkU2a1pkY3FaSl9XUUdzZ3JYMDJVcFZrUXpFUmpHNzJzSTA3OUp6OXNkSkRoOGpSeUE0bThNUGtkX2pYRXlPdFVaWjNDam5mSl9vdUNqZW9DVDNsT20xTDVGd0pCZ25ja3pjRUhSTEhVd2lhdjJSX0xFbV9LSzVJT1EyZ3duLVVIcUZqUzBHVkdsQXgyN1VJWVRUSXRua2lGUHRxTGF1MU5sSzd4UXpFTGluM21zRTJNdlR4OUVoQdIB3gJBVV95cUxQa3d2MnBnMTBuRVk2VjNfUVJoNXY0a0dlOEhzSFo0djRDRVhoTmxUS3dCbVRTTjJ6WExJUVE2Unl5TVhYMTBrQm1XS21Tb19pYkw0R294ZmhOdUszRW5JLTV2NkF3OHdqdmtiWVJuRjBPWDBoTWhjZDVvcks2VnZIdERrSmg5dGhndnhkQ3RTX0ItRC1VQWpkcGYzRWdaQjR5UDVuQTFkNkVyUDh1MzZrZ1Q4dUZ3XzVFcHZrTGdwTEc3OG0wR2JEQlZLQlFDWHFsZjdWM05zUGxNRjhRdi1Ha1hQYzBIamJYUzJ1anR0S1oyOXQ3RVU3R1J3LVNmd2hVNUdEUzg2SUQxbmduY3U3eG5GSVFPbWRxVWVkeU1fWDZFU2dIRzY0TjRTQjAwVXotSlhDX3Q2TzV2bDBKeFVIM3loQ21zbHF4QWU3SG5rVXFQWHJmVjJDaDRfcVlaZw?oc=5)
 
-2026-09-02 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+2026-09-02 <span class="news-indication-tag">migraña</span>
 
-來源：[zm-online](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUM0eXZaZWxZUTZhNG9ETEl3Wk5JTVVZTEdyLXdjQlhoNEJwTG9RNzVjOHUzVUsxTW1nUDNhdnV4elVKOGwxMWtMUFVRN0E5dGQ5YzlZYWpMTVlsckkzc2lvWm1UZmdKTWpwQjVMTW81NlhVcG43WHZfOW9pZDBFbUN0V2JBVkNnbHdtV2RDY3BMa3FoZlAtbXBLZw?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOUHc4TkVhMFpBbEVDaUFjaWJIM1NOYTAzM05XYUpZem9ZMFctVXMyYWQ3MnZuM1BaUjA1N3JsOExvRTFrNHRHVDNXMGJfRzVIWTE2cm9xejNZV25jSUtNcDBVbjhIY2EtbENJUldsVGxLczlhVTJLQXE5SHd5SEEtWGktb09EMlljLU5WWXczS2dxaUY1OWROMHVQUENnNFlEQzUzTE10UjRJcDVWeXh5aVJOSldQWkRrYWhaNkU2a1pkY3FaSl9XUUdzZ3JYMDJVcFZrUXpFUmpHNzJzSTA3OUp6OXNkSkRoOGpSeUE0bThNUGtkX2pYRXlPdFVaWjNDam5mSl9vdUNqZW9DVDNsT20xTDVGd0pCZ25ja3pjRUhSTEhVd2lhdjJSX0xFbV9LSzVJT1EyZ3duLVVIcUZqUzBHVkdsQXgyN1VJWVRUSXRua2lGUHRxTGF1MU5sSzd4UXpFTGluM21zRTJNdlR4OUVoQdIB3gJBVV95cUxQa3d2MnBnMTBuRVk2VjNfUVJoNXY0a0dlOEhzSFo0djRDRVhoTmxUS3dCbVRTTjJ6WExJUVE2Unl5TVhYMTBrQm1XS21Tb19pYkw0R294ZmhOdUszRW5JLTV2NkF3OHdqdmtiWVJuRjBPWDBoTWhjZDVvcks2VnZIdERrSmg5dGhndnhkQ3RTX0ItRC1VQWpkcGYzRWdaQjR5UDVuQTFkNkVyUDh1MzZrZ1Q4dUZ3XzVFcHZrTGdwTEc3OG0wR2JEQlZLQlFDWHFsZjdWM05zUGxNRjhRdi1Ha1hQYzBIamJYUzJ1anR0S1oyOXQ3RVU3R1J3LVNmd2hVNUdEUzg2SUQxbmduY3U3eG5GSVFPbWRxVWVkeU1fWDZFU2dIRzY0TjRTQjAwVXotSlhDX3Q2TzV2bDBKeFVIM3loQ21zbHF4QWU3SG5rVXFQWHJmVjJDaDRfcVlaZw?oc=5)
+
+---
+
+### [KI kann Herzprobleme in Sekunden erkennen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Scinexx](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+
+---
+
+### [Experto recuerda que no todos los pacientes de migraña son candidatos a cirugía](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUhCQV9TVFBMNzNZUkV0TGdORmNDRnB6a3FhT0k5dllDSmFId2x0VURpOFo2MWZiVVNPUEJzeW02Yzh4M2pnNGlGSFhGMk9va2pwYlVTT3VSZTlrczRUTlAwY25FMWVHNVQtZ0VISmFENER2NFo5Yi1BNGVzLS1zT204VlZvY0RKOVR0cWhzU2xLWHZVT0JNZ2t6eDg0NHhaWkJFRmJSUjJzcUFKUVpyWXpRb1FURkhxR1IzMDRjUGsxZ09IbWlMTkxHTEtZdXpRRy1NTmVhYw?oc=5)
+
+2026-09-01 <span class="news-indication-tag">migraña</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUhCQV9TVFBMNzNZUkV0TGdORmNDRnB6a3FhT0k5dllDSmFId2x0VURpOFo2MWZiVVNPUEJzeW02Yzh4M2pnNGlGSFhGMk9va2pwYlVTT3VSZTlrczRUTlAwY25FMWVHNVQtZ0VISmFENER2NFo5Yi1BNGVzLS1zT204VlZvY0RKOVR0cWhzU2xLWHZVT0JNZ2t6eDg0NHhaWkJFRmJSUjJzcUFKUVpyWXpRb1FURkhxR1IzMDRjUGsxZ09IbWlMTkxHTEtZdXpRRy1NTmVhYw?oc=5)
+
+---
+
+### [‘Superhuman’ AI tool spots heart disease in less than 2 seconds](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
+
+2026-09-01 <span class="news-indication-tag">heart disease</span>
+
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/alogliptin/
 ---
 
 <p class="key-answer" data-question="Alogliptin 有什麼相關新聞？">
-<strong>Alogliptin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alogliptin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/alogliptin/
 <p><a href="{{ '/drugs/alogliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
 
-### [Diabetes-Medikamente: 81% mehr Ketoazidose-Fälle in acht Jahren - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXVQdzV3aXNGc1BoLVJ6VElJN1Q3dlE0V05XVDJJdmVIWHNGUk8yYVpURHZBMlpDaDhheW5DMHVlY1hMQU5rM3RnOXFUcVYySVN4LUlGdmZwc0JNaGl3YWl6VmgzRXRIMDNydTNvTEJzSGlSMGVIM3JIZC1VMFh0QzFwalRacXh3alJBTi1YZzNJNmYzUndvdXJwb3pRT0ZhRTJhTzM5U3d4R09Ma2wtOUtTZFZ5RzJPeFVR?oc=5)
+### [KI kann Herzprobleme in Sekunden erkennen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Scinexx](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmV3ZnR4Um1oaGJET0g3REFDdl81djZ2dGpUNjd2bUVFOHFlT2ZWM1JybWJwLW9EemxoTVhSYXJyY1ZIVDRzYWNjRHdHQXJ2YUhtcWtwdUhEY2Zla042SkVRUnZrTDIwWnluUVh1TjJKWFFIMFR4Zk1Qb3I4SFY5RVZMLW0?oc=5)
+
+---
+
+### [El dato que sorprende sobre la diabetes tipo 1 en Zaragoza: 8 de cada 10 diagnósticos nuevos son adultos - hoy aragón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMzRoYWJtb2x6THd3YmRLQ0MtTmliQURxQTktS0JfeUNpRTVMS1FHejQyNjEwMTlIRlZyQzhNM2oxMnJsMUVBbnRhVjNvVEpXOUxDX0Fac2F5eU5oRWtIRHBCSjNKaXpRUDRXRlhwT2ExMGpPWXloVTJ6c1hJcnRKLUFyNUNhZWNncWxjYVp0QkVseHR0dmk3aEViZjlBTlliNUg1dEI1elU5RkN4Y3M0TGh1NVhoSTJOLTF0TEV3LUFTQ0FBSVJKYXBXRFFRUWl2ekQ3d1NzYkZXOUZHdER3NU4tbkd2TmdZNlhNSUJB?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[hoy aragón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMzRoYWJtb2x6THd3YmRLQ0MtTmliQURxQTktS0JfeUNpRTVMS1FHejQyNjEwMTlIRlZyQzhNM2oxMnJsMUVBbnRhVjNvVEpXOUxDX0Fac2F5eU5oRWtIRHBCSjNKaXpRUDRXRlhwT2ExMGpPWXloVTJ6c1hJcnRKLUFyNUNhZWNncWxjYVp0QkVseHR0dmk3aEViZjlBTlliNUg1dEI1elU5RkN4Y3M0TGh1NVhoSTJOLTF0TEV3LUFTQ0FBSVJKYXBXRFFRUWl2ekQ3d1NzYkZXOUZHdER3NU4tbkd2TmdZNlhNSUJB?oc=5)
+
+---
+
+### [Diabetesmedikamente: Diese Faktoren erhöhen das Risiko für schwere Nebenwirkungen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbVhEOV81djdlZzBubDBhWFgtV2FKTFNNLVp6N3dfQUg5a0pTd3ZINTlsUXRKMEF4VGRmNHZDb0VHWWtwTDRuSXlZRnp2Slhzd3Qwa3V2Q2VfOEFSbmhGYl9NWmVlZXBFREpxMUFfajJYVnRabXBsanhvdmxCNGFLV3lDTnliRXNBTkMxU0h2V2VuU3NUbHotZXRZLUJ6YVVLdGRmdlYyaS1BMm1WN3h2RlpSUlNYdk5uZDA1dEpsNS1PeHVRakFGYQ?oc=5)
 
 2026-09-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXVQdzV3aXNGc1BoLVJ6VElJN1Q3dlE0V05XVDJJdmVIWHNGUk8yYVpURHZBMlpDaDhheW5DMHVlY1hMQU5rM3RnOXFUcVYySVN4LUlGdmZwc0JNaGl3YWl6VmgzRXRIMDNydTNvTEJzSGlSMGVIM3JIZC1VMFh0QzFwalRacXh3alJBTi1YZzNJNmYzUndvdXJwb3pRT0ZhRTJhTzM5U3d4R09Ma2wtOUtTZFZ5RzJPeFVR?oc=5)
+來源：[t-online.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbVhEOV81djdlZzBubDBhWFgtV2FKTFNNLVp6N3dfQUg5a0pTd3ZINTlsUXRKMEF4VGRmNHZDb0VHWWtwTDRuSXlZRnp2Slhzd3Qwa3V2Q2VfOEFSbmhGYl9NWmVlZXBFREpxMUFfajJYVnRabXBsanhvdmxCNGFLV3lDTnliRXNBTkMxU0h2V2VuU3NUbHotZXRZLUJ6YVVLdGRmdlYyaS1BMm1WN3h2RlpSUlNYdk5uZDA1dEpsNS1PeHVRakFGYQ?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/alogliptin/
 
 ---
 
-### [Wer bei Diabetes früh Statine nimmt, tut womöglich seinem Gehirn etwas Gutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXhTdGVUZ1p0NzZmZjhRc2hOTWhfQnVvS1ZzX0VKd2NDQVZMUlJCUTVQdTZEdTFRSklqYkxmTVJlSXdDaEZneG5CaU5MSnl2TXBENFFPN0VjbC1sTUsyUy1ISnBIalN4Q1hiSTl6VDhYQUEzVmlBX3RtckpZUV9UTWpCbGdrOHkxZjJNNFM1R2hlZjBFMldlYU0yOGlCQVVvRDk1NW5iQjdNTjFBTmhrV29ONEhacXhHN3pDUW1Dcmhkc28?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXhTdGVUZ1p0NzZmZjhRc2hOTWhfQnVvS1ZzX0VKd2NDQVZMUlJCUTVQdTZEdTFRSklqYkxmTVJlSXdDaEZneG5CaU5MSnl2TXBENFFPN0VjbC1sTUsyUy1ISnBIalN4Q1hiSTl6VDhYQUEzVmlBX3RtckpZUV9UTWpCbGdrOHkxZjJNNFM1R2hlZjBFMldlYU0yOGlCQVVvRDk1NW5iQjdNTjFBTmhrV29ONEhacXhHN3pDUW1Dcmhkc28?oc=5)
-
----
-
 ### [La dieta keto es más eficaz que otras para perder peso y mejorar la respuesta cardiometabólica a corto plazo](https://news.google.com/rss/articles/CBMijAFBVV95cUxQajVTXzRObGNYOWk0LS1oUDZyeDNiem9tYWd5LVZCWGdqNkJhQlpISHdpZW94Q1Y3Vm9QQ24xOG16VDBEX0pjbFVxdDhGamFTMmhHVVdhclFmSUN6bC01YmVtYmJvR0ZQZDJJS0hkV1JHaTJ5V0VOZFRXNFBTOTNBVG13b1IwNmtaV3pfR9IBjAFBVV95cUxOcF9GVm50UTN1TmlSbVRVVHJaNmx1ckREd0hXQXN1cTVVQm02OXFKTUJZVkkzaHZybnNKYWxXcVpqREdLZFBVczdfRERNZ29ld0ZSTGxHYzhCRk1KbTNwd2FQSERLT3UwRnluUmprMUxwMnRHNE1QX191TkxqaVdnWkJjVHduNzUzTWFjeg?oc=5)
 
 2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -94,11 +102,19 @@ permalink: /news/alogliptin/
 
 ---
 
-### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+### [Statine und Demenz: Frühe Behandlung senkt Risiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVJMdTN2SHhnOVJMaXdBZHVGbVZwakFwUmpTeEFqRm5FaXhPTDNudHFDMmpSa1p3Smp1eXB2YXFNN2N3Y1RTZFlMVUJWbnNmTmM0ZUQyeW9wVUpnNjU4MVNHQlMzU1lFZWJydFE5RWNHekhEVFczNVk3UDJ3aWFNRnkyRVVYRTdCcUNjNTMxRDdoV2RuMk9icUpISzF6S01GTk9aMGdkZVprMTF3aXVwUTBn?oc=5)
 
-2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVJMdTN2SHhnOVJMaXdBZHVGbVZwakFwUmpTeEFqRm5FaXhPTDNudHFDMmpSa1p3Smp1eXB2YXFNN2N3Y1RTZFlMVUJWbnNmTmM0ZUQyeW9wVUpnNjU4MVNHQlMzU1lFZWJydFE5RWNHekhEVFczNVk3UDJ3aWFNRnkyRVVYRTdCcUNjNTMxRDdoV2RuMk9icUpISzF6S01GTk9aMGdkZVprMTF3aXVwUTBn?oc=5)
+
+---
+
+### [Statins can reduce dementia risk by up to 15%, long-term study suggests](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
 ---
 
@@ -107,6 +123,14 @@ permalink: /news/alogliptin/
 2026-08-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmlWWUtPOW1DMUlwV0l0N2V1LXFEbGFyV0s3UG1yR05WaEJRcDRwRU9iZEdvOTk1OHVyVmFwRmZUXzNKeHlKal9OY19iZmx0TUw4T1FKQVY0a21lWkRMMkVnQ0NwQk5YNUFfV2Y3d0xDNFJWanVGS1Z5TEdwRm9JLWRzaW5za0RRVmRzbnNSNTQwY2ZTaXZBYWszb1IxUWtMNl95SzNBTWdxaEtFMFEzOWgxNWc?oc=5)
+
+---
+
+### [Sunlight, blood sugar and diabetes: a new study finds an intriguing connection](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
+
+2026-08-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
 ---
 
