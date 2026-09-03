@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+
+2026-09-03 <span class="news-indication-tag">obesity</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+
+---
 
 ### [Adipositas: KI-Modell prognostiziert Therapieerfolg mit 89,8% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
 
@@ -75,22 +83,6 @@ permalink: /news/naltrexone/
 2026-08-31 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
-
----
-
-### [Das steckt hinter dem Jo-Jo-Effekt: Adipositas verändert Immunzellen – selbst nach erfolgreicher Diät](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Adipositas</span>
-
-來源：[fr.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
-
----
-
-### [Experts call for safer weight loss as concerns grow over GLP-1 use](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
-
-2026-08-31 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/febuxostat/
 
 ## 相關新聞（1 則）
 
-### [Neue Hoffnung im Kampf gegen Demenz: Gürtelrose-Impfung könnte laut Studie schützen - Neue Westfälische](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWJ3aGxTS1loMDQ4QjNsMjJ6MGR4WnpEM29vLVVjOGJHMU0wU0hMUmREQWNhUU1JUnVmX2pRYzBsT254QjN4TXpVUEZldlNGalZDYlRuYWZtWVZIMDg1RHZNdVpPdGdXb09QdWllWFhyU0oxT1M1TnJCTFBTaS1ZNXlTSlQtZFQ3dGZKczB1Yi1ZRjE4T2g0bmlDYWdMbHhUOGdibDRkUG8zMEhldkhzYjFKWjh3MEp1enpBaFhjeHdnSzRKR3pR?oc=5)
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
 
-2026-09-02 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-03 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWJ3aGxTS1loMDQ4QjNsMjJ6MGR4WnpEM29vLVVjOGJHMU0wU0hMUmREQWNhUU1JUnVmX2pRYzBsT254QjN4TXpVUEZldlNGalZDYlRuYWZtWVZIMDg1RHZNdVpPdGdXb09QdWllWFhyU0oxT1M1TnJCTFBTaS1ZNXlTSlQtZFQ3dGZKczB1Yi1ZRjE4T2g0bmlDYWdMbHhUOGdibDRkUG8zMEhldkhzYjFKWjh3MEp1enpBaFhjeHdnSzRKR3pR?oc=5)
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
 
 ---
 

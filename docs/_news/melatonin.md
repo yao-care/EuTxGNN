@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Avance en migraña: La IA, potencial aliada en el diagnóstico más allá de los síntomas](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSTJ1U1B0LV9zQ1RMNHZ3ZjZReFVfWTZpQmZYMVUzTHhhaEtraEdrdG9BWlRaZU1EQ2NTT3NPcGhhbUZOdmtWc2syMHctM0xrREdJX1NubHdsRFl5QXhkX3MyLVVMS1haZV9lMG9QSFBHVVZHSmZsV093MldRTE1GOWVWdFhpMGo3bEdDMjktcUJiSm5JajV4bVJ3am1qWTRhT1JJcmFoMzlCcUQtdUwwdzh5d0J3eWlMRUozcTJMYVJEbGVFb3UwU3o0a29ER3BxTm9Ueg?oc=5)
+### [¿El magnesio funciona mejor que la melatonina para dormir? - The New York Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDFUMVBhOUNhc3pJY3JDbkxnMGVCXzZEM1RSR1FkeWgzQU02ZGdzdUpFbkNwSUJPSm1Sc25VdUZ5YUN0TmhmaTlyRVJhOXBYNFBUaXI4emFvQy1LUWY3LXFmZUc0NlUzT3hsNUhCNGJKUHBzaEJMRHZ6R3BOTzVuakU0bGpzeldnYUE?oc=5)
+
+2026-09-03 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">MS</span>
+
+來源：[The New York Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDFUMVBhOUNhc3pJY3JDbkxnMGVCXzZEM1RSR1FkeWgzQU02ZGdzdUpFbkNwSUJPSm1Sc25VdUZ5YUN0TmhmaTlyRVJhOXBYNFBUaXI4emFvQy1LUWY3LXFmZUc0NlUzT3hsNUhCNGJKUHBzaEJMRHZ6R3BOTzVuakU0bGpzeldnYUE?oc=5)
+
+---
+
+### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+
+2026-09-03 <span class="news-indication-tag">obesity</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+
+---
+
+### [La inteligencia artificial puede ayudar a diagnosticar la migraña, pero el nuevo modelo va más allá: también identifica subgrupos de pacientes con características diferentes - El Economista](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOUHc4TkVhMFpBbEVDaUFjaWJIM1NOYTAzM05XYUpZem9ZMFctVXMyYWQ3MnZuM1BaUjA1N3JsOExvRTFrNHRHVDNXMGJfRzVIWTE2cm9xejNZV25jSUtNcDBVbjhIY2EtbENJUldsVGxLczlhVTJLQXE5SHd5SEEtWGktb09EMlljLU5WWXczS2dxaUY1OWROMHVQUENnNFlEQzUzTE10UjRJcDVWeXh5aVJOSldQWkRrYWhaNkU2a1pkY3FaSl9XUUdzZ3JYMDJVcFZrUXpFUmpHNzJzSTA3OUp6OXNkSkRoOGpSeUE0bThNUGtkX2pYRXlPdFVaWjNDam5mSl9vdUNqZW9DVDNsT20xTDVGd0pCZ25ja3pjRUhSTEhVd2lhdjJSX0xFbV9LSzVJT1EyZ3duLVVIcUZqUzBHVkdsQXgyN1VJWVRUSXRua2lGUHRxTGF1MU5sSzd4UXpFTGluM21zRTJNdlR4OUVoQdIB3gJBVV95cUxQa3d2MnBnMTBuRVk2VjNfUVJoNXY0a0dlOEhzSFo0djRDRVhoTmxUS3dCbVRTTjJ6WExJUVE2Unl5TVhYMTBrQm1XS21Tb19pYkw0R294ZmhOdUszRW5JLTV2NkF3OHdqdmtiWVJuRjBPWDBoTWhjZDVvcks2VnZIdERrSmg5dGhndnhkQ3RTX0ItRC1VQWpkcGYzRWdaQjR5UDVuQTFkNkVyUDh1MzZrZ1Q4dUZ3XzVFcHZrTGdwTEc3OG0wR2JEQlZLQlFDWHFsZjdWM05zUGxNRjhRdi1Ha1hQYzBIamJYUzJ1anR0S1oyOXQ3RVU3R1J3LVNmd2hVNUdEUzg2SUQxbmduY3U3eG5GSVFPbWRxVWVkeU1fWDZFU2dIRzY0TjRTQjAwVXotSlhDX3Q2TzV2bDBKeFVIM3loQ21zbHF4QWU3SG5rVXFQWHJmVjJDaDRfcVlaZw?oc=5)
 
 2026-09-02 <span class="news-indication-tag">migraña</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSTJ1U1B0LV9zQ1RMNHZ3ZjZReFVfWTZpQmZYMVUzTHhhaEtraEdrdG9BWlRaZU1EQ2NTT3NPcGhhbUZOdmtWc2syMHctM0xrREdJX1NubHdsRFl5QXhkX3MyLVVMS1haZV9lMG9QSFBHVVZHSmZsV093MldRTE1GOWVWdFhpMGo3bEdDMjktcUJiSm5JajV4bVJ3am1qWTRhT1JJcmFoMzlCcUQtdUwwdzh5d0J3eWlMRUozcTJMYVJEbGVFb3UwU3o0a29ER3BxTm9Ueg?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOUHc4TkVhMFpBbEVDaUFjaWJIM1NOYTAzM05XYUpZem9ZMFctVXMyYWQ3MnZuM1BaUjA1N3JsOExvRTFrNHRHVDNXMGJfRzVIWTE2cm9xejNZV25jSUtNcDBVbjhIY2EtbENJUldsVGxLczlhVTJLQXE5SHd5SEEtWGktb09EMlljLU5WWXczS2dxaUY1OWROMHVQUENnNFlEQzUzTE10UjRJcDVWeXh5aVJOSldQWkRrYWhaNkU2a1pkY3FaSl9XUUdzZ3JYMDJVcFZrUXpFUmpHNzJzSTA3OUp6OXNkSkRoOGpSeUE0bThNUGtkX2pYRXlPdFVaWjNDam5mSl9vdUNqZW9DVDNsT20xTDVGd0pCZ25ja3pjRUhSTEhVd2lhdjJSX0xFbV9LSzVJT1EyZ3duLVVIcUZqUzBHVkdsQXgyN1VJWVRUSXRua2lGUHRxTGF1MU5sSzd4UXpFTGluM21zRTJNdlR4OUVoQdIB3gJBVV95cUxQa3d2MnBnMTBuRVk2VjNfUVJoNXY0a0dlOEhzSFo0djRDRVhoTmxUS3dCbVRTTjJ6WExJUVE2Unl5TVhYMTBrQm1XS21Tb19pYkw0R294ZmhOdUszRW5JLTV2NkF3OHdqdmtiWVJuRjBPWDBoTWhjZDVvcks2VnZIdERrSmg5dGhndnhkQ3RTX0ItRC1VQWpkcGYzRWdaQjR5UDVuQTFkNkVyUDh1MzZrZ1Q4dUZ3XzVFcHZrTGdwTEc3OG0wR2JEQlZLQlFDWHFsZjdWM05zUGxNRjhRdi1Ha1hQYzBIamJYUzJ1anR0S1oyOXQ3RVU3R1J3LVNmd2hVNUdEUzg2SUQxbmduY3U3eG5GSVFPbWRxVWVkeU1fWDZFU2dIRzY0TjRTQjAwVXotSlhDX3Q2TzV2bDBKeFVIM3loQ21zbHF4QWU3SG5rVXFQWHJmVjJDaDRfcVlaZw?oc=5)
+
+---
+
+### [Melatonina e rischio per il cuore: perché l'allarme dei social è smentito dai dati reali](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMXdrQ0JYcG5JUmZwUVN4TXBiSTQyMWdtWmZmM1d0bVhYcnhuYm42cGwtUmV0a1VvSmxYb1FxcE1RQ0NxN3hKQmQyc09RRDJpcjU5SEc4M1hDZjFYcUtkZGhCTkdXX1dQRXFiNXFHMjh2LXZpa3lDN2REeHhhMUdOMk1JNDZHejVVWWxDMy1icHhUa1dHbWVlX1dsMWlWSVNKSWJ2Sm5sTTNwS2xJTGtJY21jRXU3N1JabjdmTjlMSmF2MVYtVWY3Yk1hLWpWMlZodXNCQUtGbzVMdVNOVTFN?oc=5)
+
+2026-09-02 <span class="news-drug-tag">Melatonin</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMXdrQ0JYcG5JUmZwUVN4TXBiSTQyMWdtWmZmM1d0bVhYcnhuYm42cGwtUmV0a1VvSmxYb1FxcE1RQ0NxN3hKQmQyc09RRDJpcjU5SEc4M1hDZjFYcUtkZGhCTkdXX1dQRXFiNXFHMjh2LXZpa3lDN2REeHhhMUdOMk1JNDZHejVVWWxDMy1icHhUa1dHbWVlX1dsMWlWSVNKSWJ2Sm5sTTNwS2xJTGtJY21jRXU3N1JabjdmTjlMSmF2MVYtVWY3Yk1hLWpWMlZodXNCQUtGbzVMdVNOVTFN?oc=5)
 
 ---
 
@@ -67,22 +91,6 @@ permalink: /news/melatonin/
 2026-09-02 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
-
----
-
-### [El error que muchos cometen con el magnesio: la cantidad diaria no es la misma que el límite de los suplementos - hoy aragón](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcWUtXzEzazl5RkdwOG1zT2x1d0JVNUlJT2pLTlRISFpjY3pSS2tsSVNMV3hpWnJLaHNiSFp5Y2NSUWJuMnFRRlVXaG9xVkE2VFA0ZFFRVnc4aS1WRVh3Y1NaR3RUS0hCa1R3VU9BTVZvamFaWXVoczFweWZYZE5Dc24yT2wzV0xDVlZQQ0MtcUN3UkJFNUJsemwzekpvX3lQWjN1ZkZJUVE2aW5uNklWYWloeWZyS0lwTjVobUx2UGUyR2JtbFhPOUxiVVlKWTlKdl9LcmpNLWhwaURmYkp6TGZXTG13a3kt?oc=5)
-
-2026-09-02 <span class="news-drug-tag">Melatonin</span>
-
-來源：[hoy aragón](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcWUtXzEzazl5RkdwOG1zT2x1d0JVNUlJT2pLTlRISFpjY3pSS2tsSVNMV3hpWnJLaHNiSFp5Y2NSUWJuMnFRRlVXaG9xVkE2VFA0ZFFRVnc4aS1WRVh3Y1NaR3RUS0hCa1R3VU9BTVZvamFaWXVoczFweWZYZE5Dc24yT2wzV0xDVlZQQ0MtcUN3UkJFNUJsemwzekpvX3lQWjN1ZkZJUVE2aW5uNklWYWloeWZyS0lwTjVobUx2UGUyR2JtbFhPOUxiVVlKWTlKdl9LcmpNLWhwaURmYkp6TGZXTG13a3kt?oc=5)
-
----
-
-### [Experto recuerda que no todos los pacientes de migraña son candidatos a cirugía](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUhCQV9TVFBMNzNZUkV0TGdORmNDRnB6a3FhT0k5dllDSmFId2x0VURpOFo2MWZiVVNPUEJzeW02Yzh4M2pnNGlGSFhGMk9va2pwYlVTT3VSZTlrczRUTlAwY25FMWVHNVQtZ0VISmFENER2NFo5Yi1BNGVzLS1zT204VlZvY0RKOVR0cWhzU2xLWHZVT0JNZ2t6eDg0NHhaWkJFRmJSUjJzcUFKUVpyWXpRb1FURkhxR1IzMDRjUGsxZ09IbWlMTkxHTEtZdXpRRy1NTmVhYw?oc=5)
-
-2026-09-01 <span class="news-indication-tag">migraña</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUhCQV9TVFBMNzNZUkV0TGdORmNDRnB6a3FhT0k5dllDSmFId2x0VURpOFo2MWZiVVNPUEJzeW02Yzh4M2pnNGlGSFhGMk9va2pwYlVTT3VSZTlrczRUTlAwY25FMWVHNVQtZ0VISmFENER2NFo5Yi1BNGVzLS1zT204VlZvY0RKOVR0cWhzU2xLWHZVT0JNZ2t6eDg0NHhaWkJFRmJSUjJzcUFKUVpyWXpRb1FURkhxR1IzMDRjUGsxZ09IbWlMTkxHTEtZdXpRRy1NTmVhYw?oc=5)
 
 ---
 
@@ -99,22 +107,6 @@ permalink: /news/melatonin/
 2026-08-31 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
-
----
-
-### [Das steckt hinter dem Jo-Jo-Effekt: Adipositas verändert Immunzellen – selbst nach erfolgreicher Diät](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Adipositas</span>
-
-來源：[fr.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnBCdndaRTcwdzAxeDNzT0xKRVJkZHJMeHNJTjhMV1h6WXVQYUZiNTZEaDZUVU5pUjA2b2doTlJXS2s3SzBtdmc1QjZ1TUFQblRnTnN1QXBOeXhuRF9tcFFlc1FFRmNxUWIzU29sdDdsRC14MGtmZXFpcmlVQ0ZSaGFtWWYzZmx4aTM5YnJOZHVJQjd5Y09zMVZOQTJFcGtTOHExdXN3Yw?oc=5)
-
----
-
-### [Experts call for safer weight loss as concerns grow over GLP-1 use](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
-
-2026-08-31 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
 
 ---
 

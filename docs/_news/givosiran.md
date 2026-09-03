@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Neue Hoffnung im Kampf gegen Demenz: Gürtelrose-Impfung könnte laut Studie schützen - Neue Westfälische](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWJ3aGxTS1loMDQ4QjNsMjJ6MGR4WnpEM29vLVVjOGJHMU0wU0hMUmREQWNhUU1JUnVmX2pRYzBsT254QjN4TXpVUEZldlNGalZDYlRuYWZtWVZIMDg1RHZNdVpPdGdXb09QdWllWFhyU0oxT1M1TnJCTFBTaS1ZNXlTSlQtZFQ3dGZKczB1Yi1ZRjE4T2g0bmlDYWdMbHhUOGdibDRkUG8zMEhldkhzYjFKWjh3MEp1enpBaFhjeHdnSzRKR3pR?oc=5)
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
 
-2026-09-02 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-03 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWJ3aGxTS1loMDQ4QjNsMjJ6MGR4WnpEM29vLVVjOGJHMU0wU0hMUmREQWNhUU1JUnVmX2pRYzBsT254QjN4TXpVUEZldlNGalZDYlRuYWZtWVZIMDg1RHZNdVpPdGdXb09QdWllWFhyU0oxT1M1TnJCTFBTaS1ZNXlTSlQtZFQ3dGZKczB1Yi1ZRjE4T2g0bmlDYWdMbHhUOGdibDRkUG8zMEhldkhzYjFKWjh3MEp1enpBaFhjeHdnSzRKR3pR?oc=5)
-
----
-
-### [La hepatitis D deja de ser una enfermedad sin tratamiento para convertirse en una prioridad clínica - Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
-
-2026-08-29 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNRVGZBa3YxaUdhQTVJSGU1QUphNXlnc3lCbC12Z2h6a0d5TVN6c0p0X0VUN3hiOXNTMDJISHBIRjFSMERYUzY4SnlJUzRyWWNSdnNOb0Qtc3ZwR1VlcFNCQkdwYnktaTBhVDUyTzlfdUxPU0plSVF2SUhieVVZakFVNkh1QTl5amhnb2l3?oc=5)
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
 
 ---
 

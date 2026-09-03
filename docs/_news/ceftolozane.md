@@ -14,7 +14,7 @@ permalink: /news/ceftolozane/
 ---
 
 <p class="key-answer" data-question="Ceftolozane 有什麼相關新聞？">
-<strong>Ceftolozane</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ceftolozane</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ceftolozane/
 <p><a href="{{ '/drugs/ceftolozane/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Demuestran el beneficio de las caminatas en el control del asma - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX05Kc1lsenNrWG4xVEFLMG14d3VLaG5QZHhGRGdIbU1aWjJ4NFBpZE11VDBlaVpObGRxczJqS2ZZZHRDUEZzUlprYVZNWl9uYkN0QWxHU3pwWUkxcVh4Q1M2TlRHVXd5SWpRVXpQVXB1QVctM0JibGFmWFBUMks4WWFzSWlKelllbHB4cGhvRzhvSjdpODE3R1pxZFBHc2VyV3JuMUR0cGEwQVluRHVyMXhTVW9rVDZlRkHSAbQBQVVfeXFMT3UwdTZtVWtDXzg4U3ZJSjJsQ0RhcEx2R0E3eWJWSWFRRER5bExRaXN2M3FJcHFwYmRWeWtjTG1vSXJMNjI5Z2pCR0ZQMXRtZllDd0xwLW5ER1ZuamFLVGlRV2xFczFXS2dPb0FSdk1lcEJIN0JDbWdHVU03d0ZKRGdJWG1JUW5BVnFNS0FNeld2Ukd5cVlJUzhRbDlJczkxZ1FLY0d2OURGaXJRX2lyTi1fZFcw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">asma</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX05Kc1lsenNrWG4xVEFLMG14d3VLaG5QZHhGRGdIbU1aWjJ4NFBpZE11VDBlaVpObGRxczJqS2ZZZHRDUEZzUlprYVZNWl9uYkN0QWxHU3pwWUkxcVh4Q1M2TlRHVXd5SWpRVXpQVXB1QVctM0JibGFmWFBUMks4WWFzSWlKelllbHB4cGhvRzhvSjdpODE3R1pxZFBHc2VyV3JuMUR0cGEwQVluRHVyMXhTVW9rVDZlRkHSAbQBQVVfeXFMT3UwdTZtVWtDXzg4U3ZJSjJsQ0RhcEx2R0E3eWJWSWFRRER5bExRaXN2M3FJcHFwYmRWeWtjTG1vSXJMNjI5Z2pCR0ZQMXRtZllDd0xwLW5ER1ZuamFLVGlRV2xFczFXS2dPb0FSdk1lcEJIN0JDbWdHVU03d0ZKRGdJWG1JUW5BVnFNS0FNeld2Ukd5cVlJUzhRbDlJczkxZ1FLY0d2OURGaXJRX2lyTi1fZFcw?oc=5)
+
+---
 
 
 <div class="disclaimer">

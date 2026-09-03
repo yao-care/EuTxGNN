@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
 
-2026-09-03 <span class="news-indication-tag">heart failure</span>
+2026-09-03 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
 
 ---
 
-### [Ictus, il coagulo non c’è più ma il cervello può restare senza sangue](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSThGZUdnbmticENLT3F6MkIzTjkwZC1YQmZXai1qWFNVakRNQkJLSjY4V1VlQ0NxRE1HZG1PV1IwdHUxUUtjVFBDY3Qtd2FwYkpfajl3dUxHekYteDNiUlgtQ0QyVWtxLUVkdzNpbGQ3S0pacFNoMHNYbS1mZ2o4MWVtV2xOMmwzajFYNGFFR3BTdXdITkQxREt4aDlFVHJUWUREamRJYkphUFo4NFI1WG5XN0FVVXdXYjRZbEJEak9fLTg2UHc?oc=5)
+### [The six most important things you can do today to stop heart failure](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
-2026-09-02 <span class="news-indication-tag">ictus</span>
+2026-09-03 <span class="news-indication-tag">heart failure</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSThGZUdnbmticENLT3F6MkIzTjkwZC1YQmZXai1qWFNVakRNQkJLSjY4V1VlQ0NxRE1HZG1PV1IwdHUxUUtjVFBDY3Qtd2FwYkpfajl3dUxHekYteDNiUlgtQ0QyVWtxLUVkdzNpbGQ3S0pacFNoMHNYbS1mZ2o4MWVtV2xOMmwzajFYNGFFR3BTdXdITkQxREt4aDlFVHJUWUREamRJYkphUFo4NFI1WG5XN0FVVXdXYjRZbEJEak9fLTg2UHc?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 ---
 
@@ -78,19 +78,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [El beneficio de la trombectomía en el ictus de gran núcleo se mantiene, e incluso aumenta, al año de seguimiento](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcHF5QzVIc0ZZR0JENjJiekZmV0doOVRLTWlIY09GRC1tbVRrcDZCMmR1Nnlncm9yRkEyWmhQRXBuSTZqdUhuWC1Gc21Fd1FGS0pkdlYtQWVTbnVqdEY3MzlJYzIwR3dJWFNHNHF5Z1JEbTFxYTFka0dVaUUwS3Bsc3ZXT1R4TGc0eE93UXVQc2FEdVZuMHJLVTREVGV1REhrcERmY1ZRME95WkdWSHRJbmtHNzhxd1ctNVB6d1JrRTh0el81RXFMV1Q0aVRGMDI5MGFYOUVkSmZmcXpC?oc=5)
+### [Eating dinner too late is wrecking your gut, heart and brain health](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NOMFNOWmFZUkN0MzBEUC1LNjBmVWFXeVViamZXeWJpLVJiQnNsd0ozMUxYbWtmenZVdTJLWkEybTR5THNza0NVVzdpQkxhYmE4QnlaWWtJVmhrcXlxSDh5OWZZQUVpUW9BTWd1UUJGRm9tc0V4Sm94Rnc2UFNoQzlnWmxZZVBzNVdqLWFURTBwWWhaY0RocUR1UDY1OGpnYUxHZEdtaHRFeDJKRTBOdA?oc=5)
 
-2026-09-02 <span class="news-indication-tag">ictus</span>
+2026-09-02 <span class="news-indication-tag">cardiovascular disease</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcHF5QzVIc0ZZR0JENjJiekZmV0doOVRLTWlIY09GRC1tbVRrcDZCMmR1Nnlncm9yRkEyWmhQRXBuSTZqdUhuWC1Gc21Fd1FGS0pkdlYtQWVTbnVqdEY3MzlJYzIwR3dJWFNHNHF5Z1JEbTFxYTFka0dVaUUwS3Bsc3ZXT1R4TGc0eE93UXVQc2FEdVZuMHJLVTREVGV1REhrcERmY1ZRME95WkdWSHRJbmtHNzhxd1ctNVB6d1JrRTh0el81RXFMV1Q0aVRGMDI5MGFYOUVkSmZmcXpC?oc=5)
-
----
-
-### [Neue Hoffnung im Kampf gegen Demenz: Gürtelrose-Impfung könnte laut Studie schützen - Neue Westfälische](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWJ3aGxTS1loMDQ4QjNsMjJ6MGR4WnpEM29vLVVjOGJHMU0wU0hMUmREQWNhUU1JUnVmX2pRYzBsT254QjN4TXpVUEZldlNGalZDYlRuYWZtWVZIMDg1RHZNdVpPdGdXb09QdWllWFhyU0oxT1M1TnJCTFBTaS1ZNXlTSlQtZFQ3dGZKczB1Yi1ZRjE4T2g0bmlDYWdMbHhUOGdibDRkUG8zMEhldkhzYjFKWjh3MEp1enpBaFhjeHdnSzRKR3pR?oc=5)
-
-2026-09-02 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWJ3aGxTS1loMDQ4QjNsMjJ6MGR4WnpEM29vLVVjOGJHMU0wU0hMUmREQWNhUU1JUnVmX2pRYzBsT254QjN4TXpVUEZldlNGalZDYlRuYWZtWVZIMDg1RHZNdVpPdGdXb09QdWllWFhyU0oxT1M1TnJCTFBTaS1ZNXlTSlQtZFQ3dGZKczB1Yi1ZRjE4T2g0bmlDYWdMbHhUOGdibDRkUG8zMEhldkhzYjFKWjh3MEp1enpBaFhjeHdnSzRKR3pR?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NOMFNOWmFZUkN0MzBEUC1LNjBmVWFXeVViamZXeWJpLVJiQnNsd0ozMUxYbWtmenZVdTJLWkEybTR5THNza0NVVzdpQkxhYmE4QnlaWWtJVmhrcXlxSDh5OWZZQUVpUW9BTWd1UUJGRm9tc0V4Sm94Rnc2UFNoQzlnWmxZZVBzNVdqLWFURTBwWWhaY0RocUR1UDY1OGpnYUxHZEdtaHRFeDJKRTBOdA?oc=5)
 
 ---
 
@@ -110,27 +102,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Schlaganfall: Elektroakupunktur senkt Laktatwert um 29 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
-
-2026-08-30 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpGTmFMMzJTMVN4bllucjlsWHdORzAxaFRaT0NacktSQ3N5enJObjBqQUhTSklTdEczYUppR0M2SXc0aVVWSlJTdjNQZy1xbHdXSkNUcVM2RUR0YjN5cXN5QlItQWtFSUI1RDB0Z2tRdV92NWZHN1lfMmRRR1pmTVo4dVlmTTAzNGl0UVhVWjd4Tm4zMHRVYUFsbXJma21hb3ZhMGFmSkxVUE96endR?oc=5)
-
----
-
 ### [Atorvastatin reduces major cardiovascular events but misses disability-free survival goal](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 
 2026-08-29 <span class="news-indication-tag">stroke</span>
 
-來源：[news-medical.net](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
-
----
-
-### [Statine dopo i 70 anni, il grande trial scioglie un dubbio durato decenni](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
-
-2026-08-29 <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOENUOWw5SWliTnNvU004WkFENjladmNFVTBwUWFTeEZtNS03V2w1aEtzMldTbVpXOTQ2WWhvcEdBRXZGV1dGblR3ZmxIWFc1LTJEMFdkbjlCX2RSZEVYQldRY3VkTnVoNjFLS1JkdWtHTERoTzdhOENiVUN4NGFUa3ZFeS1tVzlpdUpRdlB4ck9McWo0MTRtQlROWGhJZHlUMDdWQ1dTZjkyTDh0Skw0STVDMW9DX3IwSUFabl9QQUFneG1ldGdUMEhrcUc?oc=5)
+來源：[News-Medical](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 
 ---
 

@@ -54,27 +54,27 @@ permalink: /news/ivacaftor/
 
 ## 相關新聞（3 則）
 
-### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 36-52 Wochen Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE9OQjYwWnRTSDRCYXZmMVNIX0NEa2QxN3ZpTkQxNlRpT1J5R1YwZjJNNWYtNXBoYkVMazg4N0FWaThjVlN2TkFkZEdtb0hzRDBMODlxV0dOMHBOeXYxRWlEZl83T0c4Nlc4LWdKaHpnRTFOb0c1Y2FjNTZCekdyTjhTaUNXcVlyamV0UnlPMDd2U1JtX3RWUWN3WjdGd3ZvcDBMYXpuSVdoN1JHUlZmMnFTNllNdw?oc=5)
-
-2026-09-01 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE9OQjYwWnRTSDRCYXZmMVNIX0NEa2QxN3ZpTkQxNlRpT1J5R1YwZjJNNWYtNXBoYkVMazg4N0FWaThjVlN2TkFkZEdtb0hzRDBMODlxV0dOMHBOeXYxRWlEZl83T0c4Nlc4LWdKaHpnRTFOb0c1Y2FjNTZCekdyTjhTaUNXcVlyamV0UnlPMDd2U1JtX3RWUWN3WjdGd3ZvcDBMYXpuSVdoN1JHUlZmMnFTNllNdw?oc=5)
-
----
-
-### [Stress proteins actively sustain joint inflammation in osteoarthritis, study finds](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
+### [Stress proteins actively sustain joint inflammation in osteoarthritis, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
 
 2026-08-31 <span class="news-indication-tag">arthritis</span>
 
-來源：[medicalxpress.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRENHc096b1IzYjZLdzlfLXZ2OVJsR0tqek9qejZtQlBkRWplU3FQbGNGT2RIbVlYdFV0bmR6Z3Ftal93NENRZWZDTmtUZFBvbGhqMVVHdjEzR2dIeHRXdnlOTy1rcEFpNHJzc3BpNHhXU2h6OVVaTGFhcFZQbXJXVGpOMEtmLW96dFNDLVhqUQ?oc=5)
 
 ---
 
-### [Kann ein Arthritis-Medikament gegen kreisrunden Haarausfall helfen?](https://news.google.com/rss/articles/CBMipgFBVV95cUxONDlDeHVzQVBvTnZIZTl0XzFadDJlR25FeHVTdnVRYnhFWnlEeHFxV0NEOGYzaVAtdzBxUmF0VlVyV0pZUUZSX2trNVNrR2g1TjJ0M1FvZUUtcG91d29lbEJ4WkoxcTFDTGV1SnRJNzdTQ2VDanJGUkx6ekxtM2xNS3RvTTl3MnlSdzFmZGs2SG9QWUJYSVVfR0lkd0gyUVZoLTZkZk9B?oc=5)
+### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli - Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
 
-2026-08-31 <span class="news-indication-tag">arthritis</span>
+2026-08-31 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
 
-來源：[Scinexx](https://news.google.com/rss/articles/CBMipgFBVV95cUxONDlDeHVzQVBvTnZIZTl0XzFadDJlR25FeHVTdnVRYnhFWnlEeHFxV0NEOGYzaVAtdzBxUmF0VlVyV0pZUUZSX2trNVNrR2g1TjJ0M1FvZUUtcG91d29lbEJ4WkoxcTFDTGV1SnRJNzdTQ2VDanJGUkx6ekxtM2xNS3RvTTl3MnlSdzFmZGs2SG9QWUJYSVVfR0lkd0gyUVZoLTZkZk9B?oc=5)
+來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
+
+---
+
+### [CAR-T-Zellen haben rheumatoide Arthritis bei 3 austherapierten Patienten dauerhaft beseitigt - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
 
 ---
 

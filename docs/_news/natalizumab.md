@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（99.2%）</li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -54,11 +54,19 @@ permalink: /news/natalizumab/
 
 ## 相關新聞（9 則）
 
-### [Statine und Demenz: Früher Therapiestart senkt Risiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkRXUUI3RU9GbGxEZm8yMjVpc0F2c20zV0hMS3h1dVQtSnh4bjN5YVlTMFd0TFBSZEgwdWtxNlZnY0hZb1haMnFOLXVfaktLdWNLVGFZeFYtbXQyWTFQYTRhbXNZQW1aSVV2amQ4U0twRHFSQUNqT05pSXBFcExpSk5tT0pCaGt5YnFWczVHXzBzeldScmlIdXdQYU9CUkxGSWxLQ3A4OVFNZVd5YTJZaE15TWJfQUU?oc=5)
+### [Risiko für Typ-2-Diabetes abhängig vom Subtyp der Endometriose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkRXUUI3RU9GbGxEZm8yMjVpc0F2c20zV0hMS3h1dVQtSnh4bjN5YVlTMFd0TFBSZEgwdWtxNlZnY0hZb1haMnFOLXVfaktLdWNLVGFZeFYtbXQyWTFQYTRhbXNZQW1aSVV2amQ4U0twRHFSQUNqT05pSXBFcExpSk5tT0pCaGt5YnFWczVHXzBzeldScmlIdXdQYU9CUkxGSWxLQ3A4OVFNZVd5YTJZaE15TWJfQUU?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
+
+---
+
+### [Cholesterinsenker: Schützen sie neben dem Herz auch das Gehirn?](https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0MwckEySkNTTUZQTnJhM0k4eVlBdkIwcG95Q3liTVRCVWh2UEVGSDFQZFRyYmo0eGxSNDBsbHVLRXBPdVFhVnk5THBrU2NtNHFxb29Ga2VwSWs4bGE3VnVvbk9RYnp4NUlSeWtjanZfOUoyMHJIaEwtS3NKdnU1MlY2cmNJc3BSd2FJckd4bG4xSDdLZEF4LUlSZkhSRzh6Wm1FZ0d3?oc=5)
+
+2026-09-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[Kurier](https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0MwckEySkNTTUZQTnJhM0k4eVlBdkIwcG95Q3liTVRCVWh2UEVGSDFQZFRyYmo0eGxSNDBsbHVLRXBPdVFhVnk5THBrU2NtNHFxb29Ga2VwSWs4bGE3VnVvbk9RYnp4NUlSeWtjanZfOUoyMHJIaEwtS3NKdnU1MlY2cmNJc3BSd2FJckd4bG4xSDdLZEF4LUlSZkhSRzh6Wm1FZ0d3?oc=5)
 
 ---
 
@@ -66,7 +74,7 @@ permalink: /news/natalizumab/
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
 
 ---
 
@@ -78,35 +86,27 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Se prevé que los casos de diabetes tipo 1 aumenten un 30% en todo el mundo para 2049](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3ZWekxuM0dnemNBcTl3MzdOYmRVbkhmUTZjRlB5Zlpid0ZEQXB0V1hNNE9hSHVoZ0kyRFRIX2tmX0dyVG9Hc3F0YUxkUUhsSmstb0ZGTXRDb2RGNDVGYWFVTkxpQlVvZTNTTEZYVFhzaHloZlhWZjBkSUpsTGxxLW1HcjF4NEJKc1VQOWtsQm1ZYVB6aWpoSGVwdGlMTWZYa09VWUJZeGtKbEdqcEJuUm1JTmhBYTlPWGpiaDhLd0pOYU3SAd4BQVVfeXFMUDY1ZUdHRVVXb1JoajdBYm9SV1NVTlA3a2M2V2FaYmFOdk1xYXNvZ0Q3Rm5kZkZaeElqajNSTVNjQ1QzcmxoSGdtU2E4YVpQX0JiUy1ycVVzNHlnc3J1UUJjZmtCMVdEWHBZSXdvbkNtSThGcUM0YmlHT2ptMUZPdkRzTkZYQVpvVWFoRnNESzlZNElqMk15bmEyVm5ReXlxUlVZUHNOVWhNNFdoQjk4MzJnVVFFUXMzYUs2TGlPQ2ptYU1oalo4VjZlNUZiODVHaFZsdHhpZWhZSG1LNXpn?oc=5)
+### [El dato que sorprende sobre la diabetes tipo 1 en Zaragoza: 8 de cada 10 diagnósticos nuevos son adultos - Hoy Aragón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMzRoYWJtb2x6THd3YmRLQ0MtTmliQURxQTktS0JfeUNpRTVMS1FHejQyNjEwMTlIRlZyQzhNM2oxMnJsMUVBbnRhVjNvVEpXOUxDX0Fac2F5eU5oRWtIRHBCSjNKaXpRUDRXRlhwT2ExMGpPWXloVTJ6c1hJcnRKLUFyNUNhZWNncWxjYVp0QkVseHR0dmk3aEViZjlBTlliNUg1dEI1elU5RkN4Y3M0TGh1NVhoSTJOLTF0TEV3LUFTQ0FBSVJKYXBXRFFRUWl2ekQ3d1NzYkZXOUZHdER3NU4tbkd2TmdZNlhNSUJB?oc=5)
 
 2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3ZWekxuM0dnemNBcTl3MzdOYmRVbkhmUTZjRlB5Zlpid0ZEQXB0V1hNNE9hSHVoZ0kyRFRIX2tmX0dyVG9Hc3F0YUxkUUhsSmstb0ZGTXRDb2RGNDVGYWFVTkxpQlVvZTNTTEZYVFhzaHloZlhWZjBkSUpsTGxxLW1HcjF4NEJKc1VQOWtsQm1ZYVB6aWpoSGVwdGlMTWZYa09VWUJZeGtKbEdqcEJuUm1JTmhBYTlPWGpiaDhLd0pOYU3SAd4BQVVfeXFMUDY1ZUdHRVVXb1JoajdBYm9SV1NVTlA3a2M2V2FaYmFOdk1xYXNvZ0Q3Rm5kZkZaeElqajNSTVNjQ1QzcmxoSGdtU2E4YVpQX0JiUy1ycVVzNHlnc3J1UUJjZmtCMVdEWHBZSXdvbkNtSThGcUM0YmlHT2ptMUZPdkRzTkZYQVpvVWFoRnNESzlZNElqMk15bmEyVm5ReXlxUlVZUHNOVWhNNFdoQjk4MzJnVVFFUXMzYUs2TGlPQ2ptYU1oalo4VjZlNUZiODVHaFZsdHhpZWhZSG1LNXpn?oc=5)
+來源：[Hoy Aragón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMzRoYWJtb2x6THd3YmRLQ0MtTmliQURxQTktS0JfeUNpRTVMS1FHejQyNjEwMTlIRlZyQzhNM2oxMnJsMUVBbnRhVjNvVEpXOUxDX0Fac2F5eU5oRWtIRHBCSjNKaXpRUDRXRlhwT2ExMGpPWXloVTJ6c1hJcnRKLUFyNUNhZWNncWxjYVp0QkVseHR0dmk3aEViZjlBTlliNUg1dEI1elU5RkN4Y3M0TGh1NVhoSTJOLTF0TEV3LUFTQ0FBSVJKYXBXRFFRUWl2ekQ3d1NzYkZXOUZHdER3NU4tbkd2TmdZNlhNSUJB?oc=5)
 
 ---
 
-### [Las estatinas reducen el riesgo de demencia en pacientes con diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHNYNWRKdUFJZEJZb3Z4dENteC14eTRVUzVnSTZoRENFSFF4bWNGRFlJdlRHSUgyRE1Qd0xmV2syVVpXaDNxUTRseklTVDdPakdNR2ZfTG5zbWI0eXRTRm5sOUJSYTlJNlk0UVBQUmxmMkxWTVBBQVNpaWs2VllUQ2pwZWI4bm1HVGRjWnN3ZVZ5azVLck9qcmpZZnpGZ092MFVvLVhFOEEyUS13Tkhn?oc=5)
+### [Major update for anyone taking Atorvastatin and Simvastatin in UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
-2026-09-02 <span class="news-indication-tag">diabetes</span>
+2026-09-01 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHNYNWRKdUFJZEJZb3Z4dENteC14eTRVUzVnSTZoRENFSFF4bWNGRFlJdlRHSUgyRE1Qd0xmV2syVVpXaDNxUTRseklTVDdPakdNR2ZfTG5zbWI0eXRTRm5sOUJSYTlJNlk0UVBQUmxmMkxWTVBBQVNpaWs2VllUQ2pwZWI4bm1HVGRjWnN3ZVZ5azVLck9qcmpZZnpGZ092MFVvLVhFOEEyUS13Tkhn?oc=5)
-
----
-
-### [Statines : le médicament ne réduit pas que le cholestérol pour ces patients - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
-
-2026-08-31 <span class="news-indication-tag">diabète</span>
-
-來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzc0d0RPY2lCcVlZc3dVLXlmaW5FSy1KUXhGX053R3FfeUN4bFlFb3hHNjJHd0NCM1JKUnZjWnpqLThlYjlWSFAtM1hKNi1CNzJfQW9LT0VIYzA3SkZhTTFfREZ3Z3FleUV3OWhMOUxWRTdOSm9oeWZnc080RzZkY24taHZud0xWTWV0XzI0X29Vb2R2U3NBQ0ZvdDJXaHEwQjFZaGg2S1Rua1pYUUk1d0dn?oc=5)
+來源：[Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
 
 ---
 
-### [Mit Computermodell berechnet: Wie sich die Zahl der Diabetes-Typ-1-Betroffenen entwickelt](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnJkZ0hmdmtFNmtndlhzb3VHeEVkNnlMQ1otazBHSFctdFJ4OWtWUDNWUVk4VFRJSDBXeVFrREpWMm95VS00LVladkpVNlFndzBvYXBfRGp1ZGZjeXJ4eWlkZU52ZTFNTzEtczlfV0ZqazlCSU5tMmV4VUd2cUpmbURUdTVLcnhjMXZZWXF6dEwtdGFyMnpBaXB5YU5VWms2aG9lZA?oc=5)
+### [Las estatinas se asocian con un menor riesgo de demencia en pacientes con diabetes tipo 2 - Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTllaFFIUTdhXzZKbTlKVWRwQkZ5a0FaVHJjWml6Q3NCdWJTSEtNNm9ETVEwcUlVQmo5S3hDYzk3Z0hBRHpjbjVxeWFkNXlzMFcyS1RheENjd2NjdUFoVEdobGptdEw3c0dkc204YXUyeGQtalVsbGthVkxSdXhudHBfM2xwS28wdDh3eUJOSDd1N3FHNlBiWGFPZ0Z6ZjdIaEpCNGI2WEtHUDZ4aC1CM0Jyd3F6Z3ItVGhzNm9NbEcyWXFwd253?oc=5)
 
 2026-08-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[n-tv.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnJkZ0hmdmtFNmtndlhzb3VHeEVkNnlMQ1otazBHSFctdFJ4OWtWUDNWUVk4VFRJSDBXeVFrREpWMm95VS00LVladkpVNlFndzBvYXBfRGp1ZGZjeXJ4eWlkZU52ZTFNTzEtczlfV0ZqazlCSU5tMmV4VUd2cUpmbURUdTVLcnhjMXZZWXF6dEwtdGFyMnpBaXB5YU5VWms2aG9lZA?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTllaFFIUTdhXzZKbTlKVWRwQkZ5a0FaVHJjWml6Q3NCdWJTSEtNNm9ETVEwcUlVQmo5S3hDYzk3Z0hBRHpjbjVxeWFkNXlzMFcyS1RheENjd2NjdUFoVEdobGptdEw3c0dkc204YXUyeGQtalVsbGthVkxSdXhudHBfM2xwS28wdDh3eUJOSDd1N3FHNlBiWGFPZ0Z6ZjdIaEpCNGI2WEtHUDZ4aC1CM0Jyd3F6Z3ItVGhzNm9NbEcyWXFwd253?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [EsmeDerm: Projekt für Menschen mit Psoriasis und Neurodermitis sucht Teilnehmer](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYmUwSG80N2RoY0dPaFFKamtPSTZiVlQtbmI4SkN4SkpkenlNdFFCMzRobklsRDdmU1hITE9sbHpFWjFRTENvV0lQRmNQc0tuUTMzQTloZW15eTNuZlIwMmZiaG55N1p6ZDZDeFpWWXU0YUZON0JLRW5sYWNFT21kMkRZWDhjN3dURlB5M1ktOWVMYTFBVEs5SHJBT1hzUWdZRWhRSXFoWTRLZHhRNi02WlhRNC1tb015TERISERwNHpOa1JrdzBmb2F0RlA0WDVvMDRwWQ?oc=5)
+### [Sunlight, blood sugar and diabetes: a new study finds an intriguing connection](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
-2026-08-28 <span class="news-indication-tag">psoriasis</span>
+2026-08-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYmUwSG80N2RoY0dPaFFKamtPSTZiVlQtbmI4SkN4SkpkenlNdFFCMzRobklsRDdmU1hITE9sbHpFWjFRTENvV0lQRmNQc0tuUTMzQTloZW15eTNuZlIwMmZiaG55N1p6ZDZDeFpWWXU0YUZON0JLRW5sYWNFT21kMkRZWDhjN3dURlB5M1ktOWVMYTFBVEs5SHJBT1hzUWdZRWhRSXFoWTRLZHhRNi02WlhRNC1tb015TERISERwNHpOa1JrdzBmb2F0RlA0WDVvMDRwWQ?oc=5)
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkZWM29jUTBBT3NDeTcyMFlnZko4NEFEYUdrZWJjZ01mbUJURXZxeTVsdk8tSjdkUHROY1JEbjdxWXVVcDdTUjN3djdGYjRkWlFnRlQ3RmVldVhNMGdOZFBJb2poSVVGbnRtS0lWMU5uMXZyVFVPSG9fdUxoaXQ1QTNGYWJ6eC14eHA1Z1VrWHlldzRUblQtR3hZRGo3X1BDaEE3U256WUFIWFVZRjRjTkRUOXlpXzdhM3FoUjQ2SHVBZw?oc=5)
 
 ---
 

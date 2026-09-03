@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Desarrollan nanopartículas que inducen regeneración de neuronas en modelos de enfermedad de Alzheimer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnczcF9fTGw3bjdCSm5Kb1paVnNtcHFzdzd1dkZ5MGNvNXV5OWJCWFpmeExFQncxOGQzT1c1YzhOTkIyZGRObG5vZmYzQk11ZU5yRE9LWlRHOHc5M2tlNzE1NGtBM1kzQzlmR0hmRDNQZGpkVjB4TC05WEhxV05TZnNBeWhnVUE4WVlsOEItRUJpS3JsT1RyYXBLVElqME1Vcm5UcmJOcFo4NkNTM25jUi1mZklVNDM0WEsyUHdPcVhlNGlIMlhiRnJ2MUhUSkVqanNaSW9PckE0a2hGZzFYU19TTzU0RzktakIxWDNUU0Y?oc=5)
+
+2026-09-03
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnczcF9fTGw3bjdCSm5Kb1paVnNtcHFzdzd1dkZ5MGNvNXV5OWJCWFpmeExFQncxOGQzT1c1YzhOTkIyZGRObG5vZmYzQk11ZU5yRE9LWlRHOHc5M2tlNzE1NGtBM1kzQzlmR0hmRDNQZGpkVjB4TC05WEhxV05TZnNBeWhnVUE4WVlsOEItRUJpS3JsT1RyYXBLVElqME1Vcm5UcmJOcFo4NkNTM25jUi1mZklVNDM0WEsyUHdPcVhlNGlIMlhiRnJ2MUhUSkVqanNaSW9PckE0a2hGZzFYU19TTzU0RzktakIxWDNUU0Y?oc=5)
+
+---
+
+### [Major update for anyone taking Atorvastatin and Simvastatin in UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+
+2026-09-01
+
+來源：[Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+
+---
 
 ### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
 
