@@ -54,11 +54,11 @@ permalink: /news/alirocumab/
 
 ## 相關新聞（1 則）
 
-### [CKD-Früherkennung: 100 Millionen Europäer betroffen, oft unentdeckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDF0VFZXRXhkRWNoa0FtbHBmdGxWbndfSGhaUGI3N0xlSDBOYWpwVG5tVlk2TVVlYmVyLWVxVHJHaWVnaGxTYnVBLWpFc1RLOE0yclJPeTJSNUY4NV9rQVZlN1M0WDFDbEVNQ0JyTm1wUXUyTnNmWEYteFVTMFFGVGJ5cFJadVhLMjJYZ1NFUlZyQjZLSW1IVWE5UWtyWXFwbUs2ZWhsSElVMkRWWGhoQ2VPTWFpYmM?oc=5)
+### [Jeder zweite ist krank, ohne es zu wissen: Fachleute fordern neue Nieren-Checks für Herzschwäche-Patienten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3NQVHhDajJiRV85WWtMRWdGNGhxX04xa0dld2VwM0xSYlJSTXBOckJRSHQtdFA5d05KZlUzQzg1Q2V0MmtJc25IbzdLRjZxQS1yTTVwb1pqY0hXUEg5WHNuUXR4MFJxVVNwdWxHclA4bEJqc3RiXzJ4NzNQVzV1RW53eEh5dm1ZWnJaaGRoTk5iQzBEYXdVc0ZhT3BsTjRDdUxKRnRWTlBMMTBBM3l1S2xoblpuZUxhNW0yYnlnaGxMZzRVbDRDQS10LUpoRGNI?oc=5)
 
-2026-09-02 <span class="news-indication-tag">CKD</span>
+2026-09-03 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDF0VFZXRXhkRWNoa0FtbHBmdGxWbndfSGhaUGI3N0xlSDBOYWpwVG5tVlk2TVVlYmVyLWVxVHJHaWVnaGxTYnVBLWpFc1RLOE0yclJPeTJSNUY4NV9rQVZlN1M0WDFDbEVNQ0JyTm1wUXUyTnNmWEYteFVTMFFGVGJ5cFJadVhLMjJYZ1NFUlZyQjZLSW1IVWE5UWtyWXFwbUs2ZWhsSElVMkRWWGhoQ2VPTWFpYmM?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3NQVHhDajJiRV85WWtMRWdGNGhxX04xa0dld2VwM0xSYlJSTXBOckJRSHQtdFA5d05KZlUzQzg1Q2V0MmtJc25IbzdLRjZxQS1yTTVwb1pqY0hXUEg5WHNuUXR4MFJxVVNwdWxHclA4bEJqc3RiXzJ4NzNQVzV1RW53eEh5dm1ZWnJaaGRoTk5iQzBEYXdVc0ZhT3BsTjRDdUxKRnRWTlBMMTBBM3l1S2xoblpuZUxhNW0yYnlnaGxMZzRVbDRDQS10LUpoRGNI?oc=5)
 
 ---
 

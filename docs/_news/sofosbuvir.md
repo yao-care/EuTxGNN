@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
-
-### [La OMS reconoce que no controla aún cadenas de transmisión del ébola desconocidas en la República Democrática del Congo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXdpUmRMbV9WOXdLVm1vSUN2ZGZhSjhZRmxBY0xwRnZ4Nk13TjlxTUtQMmkxcXltcFRGYUROTXZtalpTZHhwd1JHSElwcWZLRWxuaEFUbVBfeU1fbHE5UlYyR21uUEc2WjVsYzRKS0lHRkotZW9yWXAwRmU4T1FSVjI5eFUySWd2enlpQ1NKV3NMVUZMTzgtYzhYOTlqMGcwOVZoVHNzVjFCQWU5bjRJUVVoUkdLMXVxR09lVDNkMENCSy1uYzYwNlNwdk85R3BNSjdXMGRGRVk?oc=5)
-
-2026-09-03 <span class="news-indication-tag">MS</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXdpUmRMbV9WOXdLVm1vSUN2ZGZhSjhZRmxBY0xwRnZ4Nk13TjlxTUtQMmkxcXltcFRGYUROTXZtalpTZHhwd1JHSElwcWZLRWxuaEFUbVBfeU1fbHE5UlYyR21uUEc2WjVsYzRKS0lHRkotZW9yWXAwRmU4T1FSVjI5eFUySWd2enlpQ1NKV3NMVUZMTzgtYzhYOTlqMGcwOVZoVHNzVjFCQWU5bjRJUVVoUkdLMXVxR09lVDNkMENCSy1uYzYwNlNwdk85R3BNSjdXMGRGRVk?oc=5)
-
----
+## 相關新聞（9 則）
 
 ### [Autoimmunreaktion bei Multiple Sklerose gezielt abstellen](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDdubTA1bXNPSU90cDNSamJRQ3UzVUVJcElvVzF6cWRCdkxZRWZ3NllYRXVxQ20zak1MS2pVU0pPWDFickYzcngybGlVdXhMam5OVFdFS2F6U0l3dUF1Y0M4X1hHWnZXZmd6ZWRueExyemZGYVRVMkFIcXlpdnptTjNtV3VCb2Q2dHBwaXd4b1dDa0JTUERz0gGcAUFVX3lxTE1zWWFvdnZrcXo2Q3hiSFNkYS13QjBOVWZ0NjZCa29GRDhkNmRsdm9UQTNZS0R4QlR1dXJqa0FjM1BwQlgyLThsWUZMa0g0VXhXWkcwNzI0LTFabl9sa05iRlFiY0FRMjdCbEw0cDMzeTJnOFRfSUpDdnp1MjNqWDZla0FwVnluSkE5T1BfcVNaQ1FmZzduamp5YktuWg?oc=5)
 
 2026-09-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Moneycab](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDdubTA1bXNPSU90cDNSamJRQ3UzVUVJcElvVzF6cWRCdkxZRWZ3NllYRXVxQ20zak1MS2pVU0pPWDFickYzcngybGlVdXhMam5OVFdFS2F6U0l3dUF1Y0M4X1hHWnZXZmd6ZWRueExyemZGYVRVMkFIcXlpdnptTjNtV3VCb2Q2dHBwaXd4b1dDa0JTUERz0gGcAUFVX3lxTE1zWWFvdnZrcXo2Q3hiSFNkYS13QjBOVWZ0NjZCa29GRDhkNmRsdm9UQTNZS0R4QlR1dXJqa0FjM1BwQlgyLThsWUZMa0g0VXhXWkcwNzI0LTFabl9sa05iRlFiY0FRMjdCbEw0cDMzeTJnOFRfSUpDdnp1MjNqWDZla0FwVnluSkE5T1BfcVNaQ1FmZzduamp5YktuWg?oc=5)
+來源：[moneycab.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDdubTA1bXNPSU90cDNSamJRQ3UzVUVJcElvVzF6cWRCdkxZRWZ3NllYRXVxQ20zak1MS2pVU0pPWDFickYzcngybGlVdXhMam5OVFdFS2F6U0l3dUF1Y0M4X1hHWnZXZmd6ZWRueExyemZGYVRVMkFIcXlpdnptTjNtV3VCb2Q2dHBwaXd4b1dDa0JTUERz0gGcAUFVX3lxTE1zWWFvdnZrcXo2Q3hiSFNkYS13QjBOVWZ0NjZCa29GRDhkNmRsdm9UQTNZS0R4QlR1dXJqa0FjM1BwQlgyLThsWUZMa0g0VXhXWkcwNzI0LTFabl9sa05iRlFiY0FRMjdCbEw0cDMzeTJnOFRfSUpDdnp1MjNqWDZla0FwVnluSkE5T1BfcVNaQ1FmZzduamp5YktuWg?oc=5)
+
+---
+
+### [New mums with PTSD need better care, says UEA report](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZjgtVDZPTG1XN0daNkE5U1VrdzBwMnBXUFJoT3dPVTJRdl91RVZsT09femNEVFlpMXhWdHZTcTNVNTl2dTRNVEN0bXgyUjBjNlRqV0RTN2M1bmlu?oc=5)
+
+2026-09-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZjgtVDZPTG1XN0daNkE5U1VrdzBwMnBXUFJoT3dPVTJRdl91RVZsT09femNEVFlpMXhWdHZTcTNVNTl2dTRNVEN0bXgyUjBjNlRqV0RTN2M1bmlu?oc=5)
 
 ---
 
@@ -78,43 +78,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Ebola, oltre 3.000 morti in Congo: perché questa epidemia è così difficile da fermare](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTS1wT3JOQXVTYThjajRpam5TcUdSZzJHekUwVE9nczI2WW1xLUEwaFBJcnc2SEdXSFBRR0Q0TW1JVlBQcVZBRlpxbUlkWnZVaGY4NTJEZWJkT2Uta3psa1VzWXFyVjA0OFptQkxUY3NXRENhU3ZzMEVac0t3emlkUlk4R0s1SGU0LWxhQktqeGllUXNWdWxUWGZLQmdoS0tsRjVNMWIzekhCd2c5V2p6Mm51VElkVEprUW92OU0tOXktMXNNMS1VWTRXVlBYeFVKajNTekc0WUk2QQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTS1wT3JOQXVTYThjajRpam5TcUdSZzJHekUwVE9nczI2WW1xLUEwaFBJcnc2SEdXSFBRR0Q0TW1JVlBQcVZBRlpxbUlkWnZVaGY4NTJEZWJkT2Uta3psa1VzWXFyVjA0OFptQkxUY3NXRENhU3ZzMEVac0t3emlkUlk4R0s1SGU0LWxhQktqeGllUXNWdWxUWGZLQmdoS0tsRjVNMWIzekhCd2c5V2p6Mm51VElkVEprUW92OU0tOXktMXNNMS1VWTRXVlBYeFVKajNTekc0WUk2QQ?oc=5)
-
----
-
-### [I’m a women’s cancer expert – four symptoms you should never ignore - The i Paper](https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3dHcW1TN1l2NmphRGJjSDd6TmhZblNpMERmQVRXV3Z4TlZRTkVMVDZQX1poaUFlVFFEa2F4TWo5MFpZc3FJZl9kSmNRVzlFYWN0Y0pvV05rM3FIWmwxeFJybWJfMmd3eWx6Ny0tUGp5cXVQOU9tX3R2ZDlWNEVUY2RnVnFZM3BpTHFvNXdUdTNmX3BQeVE?oc=5)
-
-2026-09-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3dHcW1TN1l2NmphRGJjSDd6TmhZblNpMERmQVRXV3Z4TlZRTkVMVDZQX1poaUFlVFFEa2F4TWo5MFpZc3FJZl9kSmNRVzlFYWN0Y0pvV05rM3FIWmwxeFJybWJfMmd3eWx6Ny0tUGp5cXVQOU9tX3R2ZDlWNEVUY2RnVnFZM3BpTHFvNXdUdTNmX3BQeVE?oc=5)
-
----
-
-### [„Ohne eine Epstein-Barr-Virus-Infektion gibt es keine Multiple Sklerose“](https://news.google.com/rss/articles/CBMixAFBVV95cUxObV96OFc2Umx6Tk9XUlJTeDM2b0JiNVNWT3lvMi1mTDZjZnZJZnhING5NWHcxTkVObXpTYjB1Zkg5QTBOVWpQb2dqekZ3RmpvS0NCOHU4RWtlVlNiNGQtYnFMM3ZRdlNDM3lIZHljZVNNQ3Rnd1hNcEZ3QnRDekkyTFpKejM0WldBRE11aUVYUTNYRWFBRGlpM3Z0ZHZ2endYRFZyT3c0cHljU05WbmFTeWVLUHRjZHZjZ2N3aWFYek9OZjV4?oc=5)
+### [„Ohne eine Epstein-Barr-Virus-Infektion gibt es keine Multiple Sklerose“ - Kölner Stadt](https://news.google.com/rss/articles/CBMixAFBVV95cUxObV96OFc2Umx6Tk9XUlJTeDM2b0JiNVNWT3lvMi1mTDZjZnZJZnhING5NWHcxTkVObXpTYjB1Zkg5QTBOVWpQb2dqekZ3RmpvS0NCOHU4RWtlVlNiNGQtYnFMM3ZRdlNDM3lIZHljZVNNQ3Rnd1hNcEZ3QnRDekkyTFpKejM0WldBRE11aUVYUTNYRWFBRGlpM3Z0ZHZ2endYRFZyT3c0cHljU05WbmFTeWVLUHRjZHZjZ2N3aWFYek9OZjV4?oc=5)
 
 2026-09-02 <span class="news-indication-tag">Multiple Sklerose</span>
 
-來源：[ksta.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxObV96OFc2Umx6Tk9XUlJTeDM2b0JiNVNWT3lvMi1mTDZjZnZJZnhING5NWHcxTkVObXpTYjB1Zkg5QTBOVWpQb2dqekZ3RmpvS0NCOHU4RWtlVlNiNGQtYnFMM3ZRdlNDM3lIZHljZVNNQ3Rnd1hNcEZ3QnRDekkyTFpKejM0WldBRE11aUVYUTNYRWFBRGlpM3Z0ZHZ2endYRFZyT3c0cHljU05WbmFTeWVLUHRjZHZjZ2N3aWFYek9OZjV4?oc=5)
-
----
-
-### [Ritorno a scuola, scattano le verifiche dell'Ulss sui bimbi non vaccinati - Il Giornale di Vicenza](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbU5LRms0aFRtdmRyYmZucnhPcVVDLWdKenFScEhWblpwVmhvcnJPR2ZXb1UySXpoaWxXWGQ2cjYzVll1dzJMM2N2ZnVVVW13cVd4bTFtcno1eUhyWF9BczZhXzVUNFp6MHdiWGV6Um1QWEg0QUtUa3BrSmpLVGx2cTk0UHl1OWp4M0ZJVUNJVDVBczNFdWJ5bmdodnRkRl9WRVNDN2QybFY0eW9kbmlicmMwNnNCZW1ZOC1FUGVFQTFHeHZNd1djWUhvd9IB0AFBVV95cUxOT1pxeEh6SmwxejNaRThENmcxb0pWNTdLUkw3U1AwX0MtTVNFVU92YnlqNG5PaXl0STVCeUI0S3BJYXR6bEwwZnhjSDVTYzNnQUEwME00UVBuRzk3MjlRWEJfNjRsT1QyWkIwRW9CbksxWHRmNlRoMklGV0FOWnV6X0VXOHdsMkgtdGZGUllUV3htbjc0ZXdJWThaN0FtNERTQVlrVk9MeThyaEV6Nk9xbkt5YUFGSjNhVnhKYmVmd0wxbkhPQWhETDlVZU5wLXA3?oc=5)
-
-2026-09-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Giornale di Vicenza](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbU5LRms0aFRtdmRyYmZucnhPcVVDLWdKenFScEhWblpwVmhvcnJPR2ZXb1UySXpoaWxXWGQ2cjYzVll1dzJMM2N2ZnVVVW13cVd4bTFtcno1eUhyWF9BczZhXzVUNFp6MHdiWGV6Um1QWEg0QUtUa3BrSmpLVGx2cTk0UHl1OWp4M0ZJVUNJVDVBczNFdWJ5bmdodnRkRl9WRVNDN2QybFY0eW9kbmlicmMwNnNCZW1ZOC1FUGVFQTFHeHZNd1djWUhvd9IB0AFBVV95cUxOT1pxeEh6SmwxejNaRThENmcxb0pWNTdLUkw3U1AwX0MtTVNFVU92YnlqNG5PaXl0STVCeUI0S3BJYXR6bEwwZnhjSDVTYzNnQUEwME00UVBuRzk3MjlRWEJfNjRsT1QyWkIwRW9CbksxWHRmNlRoMklGV0FOWnV6X0VXOHdsMkgtdGZGUllUV3htbjc0ZXdJWThaN0FtNERTQVlrVk9MeThyaEV6Nk9xbkt5YUFGSjNhVnhKYmVmd0wxbkhPQWhETDlVZU5wLXA3?oc=5)
-
----
-
-### [Testosterone bought by menopausal women posing as men due to NHS issues](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lNFVlbFpQdGxDT1ZUSlAwRUVDdW1qNGg5T0NFYXUtUS1hTTlHSTNscE10YjVBakVweWUxZXNBUnRyQzFwbXd3Rks1eFQ2d2lSVnBWYWtOSmVseUlF?oc=5)
-
-2026-09-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lNFVlbFpQdGxDT1ZUSlAwRUVDdW1qNGg5T0NFYXUtUS1hTTlHSTNscE10YjVBakVweWUxZXNBUnRyQzFwbXd3Rks1eFQ2d2lSVnBWYWtOSmVseUlF?oc=5)
+來源：[Kölner Stadt-Anzeiger](https://news.google.com/rss/articles/CBMixAFBVV95cUxObV96OFc2Umx6Tk9XUlJTeDM2b0JiNVNWT3lvMi1mTDZjZnZJZnhING5NWHcxTkVObXpTYjB1Zkg5QTBOVWpQb2dqekZ3RmpvS0NCOHU4RWtlVlNiNGQtYnFMM3ZRdlNDM3lIZHljZVNNQ3Rnd1hNcEZ3QnRDekkyTFpKejM0WldBRE11aUVYUTNYRWFBRGlpM3Z0ZHZ2endYRFZyT3c0cHljU05WbmFTeWVLUHRjZHZjZ2N3aWFYek9OZjV4?oc=5)
 
 ---
 
@@ -134,11 +102,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [RFK Jr slams media and ‘demagogic’ leaders as he downplays ‘so-called measles deaths’ - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTlreTJWTnljeEpPNGNCT2NocEh4Qkhqdm1yN3lyWTM5c2V0UHFwSmJWWERFTDIxdTZDaFprblRtT3NqTGZwTXhQajR3N3VIa3VQYnZDMzFFY3hqY1FqRHJSN0NWWmZvVkdPRDZZU0RIVmhlNnpkZFBzU3VzTUhWdGQxaVd0NWFuNWoxS3VUelpLUGphbE1hMllYUGVlTlV0eTZtaUd5QWhDQUhYQ09aTA?oc=5)
+### [Alzheimer-Schutz: Wie Schlafspindeln kognitiven Abbau bremsen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTNOUWNncV9ya2lGMHdCWEhUWkhoNlBQeDNTd2k5Vy0yT0loUTJjdDhKUHhlVHdFcmt1ZXk5bENyWkdKNEZCcGRaVmw1aEdzbWxaQUNNYmNIcHV4WEJCcldhMEhJQ0dYQ2d2WHVjNHBmZkVSYnd0dVdtam40WnZwLTlodWJ0U3RySVhORTJ6dFBrVG5JSGNiNFB0LXptVWtBam5EOTJidFc5UGc1YWc?oc=5)
 
-2026-08-29 <span class="news-indication-tag">MS</span>
+2026-08-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTlreTJWTnljeEpPNGNCT2NocEh4Qkhqdm1yN3lyWTM5c2V0UHFwSmJWWERFTDIxdTZDaFprblRtT3NqTGZwTXhQajR3N3VIa3VQYnZDMzFFY3hqY1FqRHJSN0NWWmZvVkdPRDZZU0RIVmhlNnpkZFBzU3VzTUhWdGQxaVd0NWFuNWoxS3VUelpLUGphbE1hMllYUGVlTlV0eTZtaUd5QWhDQUhYQ09aTA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTNOUWNncV9ya2lGMHdCWEhUWkhoNlBQeDNTd2k5Vy0yT0loUTJjdDhKUHhlVHdFcmt1ZXk5bENyWkdKNEZCcGRaVmw1aEdzbWxaQUNNYmNIcHV4WEJCcldhMEhJQ0dYQ2d2WHVjNHBmZkVSYnd0dVdtam40WnZwLTlodWJ0U3RySVhORTJ6dFBrVG5JSGNiNFB0LXptVWtBam5EOTJidFc5UGc1YWc?oc=5)
+
+---
+
+### [Maidstone woman's early cancer symptoms blamed on menopause](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
+
+2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
 
 ---
 

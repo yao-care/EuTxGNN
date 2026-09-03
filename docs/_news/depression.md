@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression（depression） 相關新聞"
+title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# dépression（depression） 相關新聞
+# depression 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depression 有什麼相關新聞？">
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Ados et smartphones : pourquoi l'accès aux applis addictives peut générer anxiété et dépendance - Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxObU90NG5maDdjcnJsV1Q5OWZ3ZWV4MEhMcTlTUjBCOVN2ZFdMOVUyZzg5Y0pMemloOTNIajBvY1pNMnlkMlcxU3dGYXpsRmdrZE5sYzdlUmRzZk9lMlNfRUUybUdjN19Da0h2a29HYUhncmhLRER6TGNRb2hSQjF3aQ?oc=5)
+### [Ketamina e depressione bipolare resistente, quattro infusioni riducono i sintomi in due settimane](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeTlFckN3dGRFdFhtaHFicGExSjk1dXNadnVwU3RqOWU0T3puR0x0anFXd2hFX2lzX19OTVk1VURhZFJqVFZPN3ExeDZOd1VYemFJVzg3R0hwR1ZCX0FWNUFsT29SOE9YSUctd1laUEpxcWdCWVZOXzZUWkFnZTdqY3hsWFE4c3NkVnllRkF4Z1FSMEQ4U3pPX1MxNW9VMXJyOE53ZWJzZTBvZUR0Mk1BVHdrakszRzFzSjVVUmVkbDAySTNEeDJ2Mk4tWW9iVS1qcnZEa2NJSzhXUzM2TnotSnRYZWYxb2dsdXV5Uw?oc=5)
 
-2026-09-01
+2026-09-03
 
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMigAFBVV95cUxObU90NG5maDdjcnJsV1Q5OWZ3ZWV4MEhMcTlTUjBCOVN2ZFdMOVUyZzg5Y0pMemloOTNIajBvY1pNMnlkMlcxU3dGYXpsRmdrZE5sYzdlUmRzZk9lMlNfRUUybUdjN19Da0h2a29HYUhncmhLRER6TGNRb2hSQjF3aQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeTlFckN3dGRFdFhtaHFicGExSjk1dXNadnVwU3RqOWU0T3puR0x0anFXd2hFX2lzX19OTVk1VURhZFJqVFZPN3ExeDZOd1VYemFJVzg3R0hwR1ZCX0FWNUFsT29SOE9YSUctd1laUEpxcWdCWVZOXzZUWkFnZTdqY3hsWFE4c3NkVnllRkF4Z1FSMEQ4U3pPX1MxNW9VMXJyOE53ZWJzZTBvZUR0Mk1BVHdrakszRzFzSjVVUmVkbDAySTNEeDJ2Mk4tWW9iVS1qcnZEa2NJSzhXUzM2TnotSnRYZWYxb2dsdXV5Uw?oc=5)
+
+---
+
+### [Depressione, salvare le staminali del cervello può proteggere memoria e umore. Cosa sappiamo sull’iperico](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHJEZmpaa3lqYWFRRE5fY3NvRThUemo4YVp2QjBzTDVBU1NLRzgza04xVWU2dGIyamtlZXEwRnFFNnFSZDg5M09GSDN6QnZNbERfa0xrRVc5TWNLckxsWHVReWFNeHFTOTR5NzU2ZDBzYW9LVGNDWjVTbXdpcW5QWjVONEdDOGUzYkIwOVlHSzF0T2ZVZmV1U2E0Z0l6c0tCT2g0Um55RVVpcXVFdnZiWGZyNDRETzg5bVVGTlNNa0VURzdVb3pZZUJUOU5hUHJoWE9uWGpJbERYR2ppMHROMEVRd0IwMnhn?oc=5)
+
+2026-09-03
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHJEZmpaa3lqYWFRRE5fY3NvRThUemo4YVp2QjBzTDVBU1NLRzgza04xVWU2dGIyamtlZXEwRnFFNnFSZDg5M09GSDN6QnZNbERfa0xrRVc5TWNLckxsWHVReWFNeHFTOTR5NzU2ZDBzYW9LVGNDWjVTbXdpcW5QWjVONEdDOGUzYkIwOVlHSzF0T2ZVZmV1U2E0Z0l6c0tCT2g0Um55RVVpcXVFdnZiWGZyNDRETzg5bVVGTlNNa0VURzdVb3pZZUJUOU5hUHJoWE9uWGpJbERYR2ppMHROMEVRd0IwMnhn?oc=5)
 
 ---
 

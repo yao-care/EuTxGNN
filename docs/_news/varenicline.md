@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Avance en migraña: La IA, potencial aliada en el diagnóstico más allá de los síntomas](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSTJ1U1B0LV9zQ1RMNHZ3ZjZReFVfWTZpQmZYMVUzTHhhaEtraEdrdG9BWlRaZU1EQ2NTT3NPcGhhbUZOdmtWc2syMHctM0xrREdJX1NubHdsRFl5QXhkX3MyLVVMS1haZV9lMG9QSFBHVVZHSmZsV093MldRTE1GOWVWdFhpMGo3bEdDMjktcUJiSm5JajV4bVJ3am1qWTRhT1JJcmFoMzlCcUQtdUwwdzh5d0J3eWlMRUozcTJMYVJEbGVFb3UwU3o0a29ER3BxTm9Ueg?oc=5)
 
 2026-09-02 <span class="news-indication-tag">migraña</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSTJ1U1B0LV9zQ1RMNHZ3ZjZReFVfWTZpQmZYMVUzTHhhaEtraEdrdG9BWlRaZU1EQ2NTT3NPcGhhbUZOdmtWc2syMHctM0xrREdJX1NubHdsRFl5QXhkX3MyLVVMS1haZV9lMG9QSFBHVVZHSmZsV093MldRTE1GOWVWdFhpMGo3bEdDMjktcUJiSm5JajV4bVJ3am1qWTRhT1JJcmFoMzlCcUQtdUwwdzh5d0J3eWlMRUozcTJMYVJEbGVFb3UwU3o0a29ER3BxTm9Ueg?oc=5)
+
+---
+
+### [Neue Hoffnung im Kampf gegen Demenz: Gürtelrose-Impfung könnte laut Studie schützen - Neue Westfälische](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWJ3aGxTS1loMDQ4QjNsMjJ6MGR4WnpEM29vLVVjOGJHMU0wU0hMUmREQWNhUU1JUnVmX2pRYzBsT254QjN4TXpVUEZldlNGalZDYlRuYWZtWVZIMDg1RHZNdVpPdGdXb09QdWllWFhyU0oxT1M1TnJCTFBTaS1ZNXlTSlQtZFQ3dGZKczB1Yi1ZRjE4T2g0bmlDYWdMbHhUOGdibDRkUG8zMEhldkhzYjFKWjh3MEp1enpBaFhjeHdnSzRKR3pR?oc=5)
+
+2026-09-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWJ3aGxTS1loMDQ4QjNsMjJ6MGR4WnpEM29vLVVjOGJHMU0wU0hMUmREQWNhUU1JUnVmX2pRYzBsT254QjN4TXpVUEZldlNGalZDYlRuYWZtWVZIMDg1RHZNdVpPdGdXb09QdWllWFhyU0oxT1M1TnJCTFBTaS1ZNXlTSlQtZFQ3dGZKczB1Yi1ZRjE4T2g0bmlDYWdMbHhUOGdibDRkUG8zMEhldkhzYjFKWjh3MEp1enpBaFhjeHdnSzRKR3pR?oc=5)
 
 ---
 
