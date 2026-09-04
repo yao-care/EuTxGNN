@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Desarrollan nanopartículas que inducen regeneración de neuronas en modelos de enfermedad de Alzheimer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnczcF9fTGw3bjdCSm5Kb1paVnNtcHFzdzd1dkZ5MGNvNXV5OWJCWFpmeExFQncxOGQzT1c1YzhOTkIyZGRObG5vZmYzQk11ZU5yRE9LWlRHOHc5M2tlNzE1NGtBM1kzQzlmR0hmRDNQZGpkVjB4TC05WEhxV05TZnNBeWhnVUE4WVlsOEItRUJpS3JsT1RyYXBLVElqME1Vcm5UcmJOcFo4NkNTM25jUi1mZklVNDM0WEsyUHdPcVhlNGlIMlhiRnJ2MUhUSkVqanNaSW9PckE0a2hGZzFYU19TTzU0RzktakIxWDNUU0Y?oc=5)
-
-2026-09-03 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnczcF9fTGw3bjdCSm5Kb1paVnNtcHFzdzd1dkZ5MGNvNXV5OWJCWFpmeExFQncxOGQzT1c1YzhOTkIyZGRObG5vZmYzQk11ZU5yRE9LWlRHOHc5M2tlNzE1NGtBM1kzQzlmR0hmRDNQZGpkVjB4TC05WEhxV05TZnNBeWhnVUE4WVlsOEItRUJpS3JsT1RyYXBLVElqME1Vcm5UcmJOcFo4NkNTM25jUi1mZklVNDM0WEsyUHdPcVhlNGlIMlhiRnJ2MUhUSkVqanNaSW9PckE0a2hGZzFYU19TTzU0RzktakIxWDNUU0Y?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

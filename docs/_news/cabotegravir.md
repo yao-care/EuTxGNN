@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+---
+
+### [Les professeurs d'exercice physique sont d'accord : "Monter les escaliers est six fois plus rentable que n'importe quel autre exercice. Une séance d'une minute à un rythme confortable suffit"](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+
+2026-09-04 <span class="news-indication-tag">EPOC</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+
+---
 
 ### [Un fármaco contra la diabetes reduce el riesgo de complicaciones tras una TAVI - PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
 
@@ -67,6 +83,14 @@ permalink: /news/cabotegravir/
 2026-09-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMizwFBVV95cUxQaURMd3hRNjAtdzlfVllDNlZ6LVFTY3JiWURmUVpNZWpIV0J5ZUd1YXctT2NIREVseU56dTNoemN1UWtXdTZBMTVkaERHdGxncWh5eElIYWdrMEMzeEx4MGVCODZIcndjMGJ2Z3RZNWdiQXE5TldUT2M1akxTWmN6NjczWS1GQ00zZ3ViaDRoQ3hSVWhTbkVaRmg4MjJXVFRvXzM0bEZGamdtcWhzTmp2ODloQ05FZlNPRkFKR3BTT01TTEtNcUc1bmtjbUxLUk0?oc=5)
+
+---
+
+### [My 38JJ boobs were like butcher meat & crippled me but NHS refused surgery - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
 
 ---
 
@@ -94,19 +118,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Running can be good for osteoarthritis, says study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
-
-2026-09-03 <span class="news-indication-tag">arthritis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
-
----
-
 ### [Keine Versorgungsgerechtigkeit bei stationärer Diabetes-Behandlung](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
 
 ---
 
@@ -118,11 +134,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [C'est fini : ces 5 médicaments pris par des millions de Français vont disparaître des pharmacies d'ici la fin d'année](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
+### [C'est fini : ces 5 médicaments pris par des millions de Français vont disparaître des pharmacies d'ici la fin d'année - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
 
 2026-09-02 <span class="news-indication-tag">diabète</span>
 
-來源：[sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
 
 ---
 
@@ -134,11 +150,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [CAR-T-Zellen haben rheumatoide Arthritis bei 3 austherapierten Patienten dauerhaft beseitigt - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
+### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
-2026-08-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Les professeurs d'exercice physique sont d'accord : "Monter les escaliers est six fois plus rentable que n'importe quel autre exercice. Une séance d'une minute à un rythme confortable suffit"](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+
+2026-09-04 <span class="news-indication-tag">EPOC</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+
+---
 
 ### [Asma infantil: cómo evitar un rebrote al inicio del curso escolar](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
 

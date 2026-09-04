@@ -62,6 +62,14 @@ permalink: /news/abemaciclib/
 
 ---
 
+### [My 38JJ boobs were like butcher meat & crippled me but NHS refused surgery - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
+
+---
+
 ### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">heart failure</span>
@@ -70,11 +78,11 @@ permalink: /news/abemaciclib/
 
 ---
 
-### [Running can be good for osteoarthritis, says study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
+### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
-2026-09-03 <span class="news-indication-tag">arthritis</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/abemaciclib/
 2026-09-01 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5)
-
----
-
-### [CAR-T-Zellen haben rheumatoide Arthritis bei 3 austherapierten Patienten dauerhaft beseitigt - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
 
 ---
 

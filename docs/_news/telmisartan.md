@@ -86,11 +86,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Sweetener used in chewing gum and jam linked to strokes and heart attacks - The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakEyMFJWM3hHaTBGM18tX2tkMnRKNU03bS1JMkJKczJMT0dCVnFmb2FObWNONDQwdXMwa003ZmJWbTd2WE43TDdOcnJ6QW8zOUY4bDJIbFZPNnpaY1F2ZzNpMVgyc3VtdEhLX3NVR2VpTFJQWTNQbERZNmJocVE3N2s5QnUxS0JIektqYjhkVFZ4dmFZLXlBN1dRNHhwTkpQM2dBV3AtN3NYU1RIbE5HOGg3T01LZ1E0WDBCbFhzQ2xCV1ZkUmJqbDQ5cE54c3px?oc=5)
+### [5 Processed Foods to Eat Every Week If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
-2026-08-28 <span class="news-indication-tag">stroke</span>
+2026-08-30 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakEyMFJWM3hHaTBGM18tX2tkMnRKNU03bS1JMkJKczJMT0dCVnFmb2FObWNONDQwdXMwa003ZmJWbTd2WE43TDdOcnJ6QW8zOUY4bDJIbFZPNnpaY1F2ZzNpMVgyc3VtdEhLX3NVR2VpTFJQWTNQbERZNmJocVE3N2s5QnUxS0JIektqYjhkVFZ4dmFZLXlBN1dRNHhwTkpQM2dBV3AtN3NYU1RIbE5HOGg3T01LZ1E0WDBCbFhzQ2xCV1ZkUmJqbDQ5cE54c3px?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
 ---
 

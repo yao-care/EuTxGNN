@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Bluthochdruck: Diese Pflanzenstoffe wirken nachweisbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHkxYkdHSUJvYVNsNkxqRjBvYkZMQnlLRWY1Mlh4V1F1UzhwS1JIeGdfVU1lY0FBNkdZNWlWRkthY1c1VXlobDhPd2RCZGpERTVxVFg4Q25hdy1kUDlaczFYSHpnNnNvQnNsRWRXR2RpNTd3ZlY4bmM2UG5ma1FUMkNsaDZ3bTdqQ0pPamdfcWY5ZWtqalNYSHpvV3dydUlhNW9YRkwwRVk2X0Zyd2pyb1c0Y3Y?oc=5)
 
 2026-09-03 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHkxYkdHSUJvYVNsNkxqRjBvYkZMQnlLRWY1Mlh4V1F1UzhwS1JIeGdfVU1lY0FBNkdZNWlWRkthY1c1VXlobDhPd2RCZGpERTVxVFg4Q25hdy1kUDlaczFYSHpnNnNvQnNsRWRXR2RpNTd3ZlY4bmM2UG5ma1FUMkNsaDZ3bTdqQ0pPamdfcWY5ZWtqalNYSHpvV3dydUlhNW9YRkwwRVk2X0Zyd2pyb1c0Y3Y?oc=5)
+
+---
+
+### [5 Processed Foods to Eat Every Week If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
+
+2026-08-30 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
 ---
 

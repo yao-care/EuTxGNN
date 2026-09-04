@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+---
+
+### [Les professeurs d'exercice physique sont d'accord : "Monter les escaliers est six fois plus rentable que n'importe quel autre exercice. Une séance d'une minute à un rythme confortable suffit"](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+
+2026-09-04 <span class="news-indication-tag">EPOC</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+
+---
 
 ### [Un fármaco contra la diabetes reduce el riesgo de complicaciones tras una TAVI - PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
 
@@ -98,7 +114,7 @@ permalink: /news/vedolizumab/
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
 
 ---
 
@@ -110,11 +126,11 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [C'est fini : ces 5 médicaments pris par des millions de Français vont disparaître des pharmacies d'ici la fin d'année](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
+### [C'est fini : ces 5 médicaments pris par des millions de Français vont disparaître des pharmacies d'ici la fin d'année - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
 
 2026-09-02 <span class="news-indication-tag">diabète</span>
 
-來源：[sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
 
 ---
 

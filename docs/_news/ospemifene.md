@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="Ospemifene 有什麼相關新聞？">
-<strong>Ospemifene</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ospemifene</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ospemifene/
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
 ### [AI is starting to see migraine as more than just a headache](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
 
@@ -78,6 +78,14 @@ permalink: /news/ospemifene/
 
 ---
 
+### [My 38JJ boobs were like butcher meat & crippled me but NHS refused surgery - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
+
+---
+
 ### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">heart failure</span>
@@ -86,11 +94,11 @@ permalink: /news/ospemifene/
 
 ---
 
-### [Running can be good for osteoarthritis, says study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
+### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
-2026-09-03 <span class="news-indication-tag">arthritis</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
 ---
 
@@ -102,11 +110,11 @@ permalink: /news/ospemifene/
 
 ---
 
-### [CAR-T-Zellen haben rheumatoide Arthritis bei 3 austherapierten Patienten dauerhaft beseitigt - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
+### [5 Processed Foods to Eat Every Week If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
-2026-08-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+2026-08-30 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
 ---
 

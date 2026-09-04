@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Running can be good for osteoarthritis, says study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
+### [My 38JJ boobs were like butcher meat & crippled me but NHS refused surgery - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
 
-2026-09-03 <span class="news-indication-tag">arthritis</span>
+2026-09-03 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
+
+---
+
+### [I lost 16st with help of Mounjaro and Wegovy - I have a weight-loss jabs warning - Daily Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQc1FLUW9henA4N054RGZ5ZnI0LUx3SnVleGl0VklkZlVKZDU1d2NwMzV4TEF0b2JlTjc3QTFXMXRoYjdtOGI5c0dTYkZNUmdqUTNwdnJFNUNCQ0tHdVJkTWRJRDdVeFpVWnJWaFBZZHo0OXB1U3lCUFBoOHZvS0pTc0NB0gGHAUFVX3lxTE9CRTBsQ0ZQODhsMWJKOGxId3RGbTNjNTJLdEluTVk1ZWdkSzFLVHdQeUhNZkxVNmVoUWRkR1NyWGhaX1lDQ1JMTGtpSnFESUpHNXM2OWU4Y0tjU0NrV3hMUEZIRDZXNEtPLXIwb1JEb2dTVWtHZDc3bkVDdGR3TFF1Z0lDWnpmTQ?oc=5)
+
+2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQc1FLUW9henA4N054RGZ5ZnI0LUx3SnVleGl0VklkZlVKZDU1d2NwMzV4TEF0b2JlTjc3QTFXMXRoYjdtOGI5c0dTYkZNUmdqUTNwdnJFNUNCQ0tHdVJkTWRJRDdVeFpVWnJWaFBZZHo0OXB1U3lCUFBoOHZvS0pTc0NB0gGHAUFVX3lxTE9CRTBsQ0ZQODhsMWJKOGxId3RGbTNjNTJLdEluTVk1ZWdkSzFLVHdQeUhNZkxVNmVoUWRkR1NyWGhaX1lDQ1JMTGtpSnFESUpHNXM2OWU4Y0tjU0NrV3hMUEZIRDZXNEtPLXIwb1JEb2dTVWtHZDc3bkVDdGR3TFF1Z0lDWnpmTQ?oc=5)
+
+---
+
+### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
+
+2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/tirzepatide/
 2026-08-31 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
 
 來源：[Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnJ5SE9OX2I4Um1KMm8zaDdHaVJMNE5VQTdrY25iend5ZFc2bHAxQjlhLXJ6YXRLanhXaU5wNk54Q1Nrd0R0TmJDSzI1YlhoazdzMWoxQWM1RlRNQ290WElqUkExbmNrQ3k4ZmZ6bVEwdGdmaFZGNkNqblNsR01BNGJPeldCLXdScnlMSU9EeFRKQXBXZDc2bVVybzhVaF9OR21zV3I4QmZCRTBOVjB2THhEU0p1VmpUbUhDWlN3ZG1ISFU4S0xZ?oc=5)
-
----
-
-### [CAR-T-Zellen haben rheumatoide Arthritis bei 3 austherapierten Patienten dauerhaft beseitigt - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
 
 ---
 

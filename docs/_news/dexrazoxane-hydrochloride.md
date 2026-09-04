@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Les professeurs d'exercice physique sont d'accord : "Monter les escaliers est six fois plus rentable que n'importe quel autre exercice. Une séance d'une minute à un rythme confortable suffit"](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+
+2026-09-04 <span class="news-indication-tag">EPOC</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+
+---
 
 
 <div class="disclaimer">

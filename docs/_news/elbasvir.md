@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（23 則）
+
+### [GLP-1-Medikamente und Haarausfall: Ein Gen könnte erklären, warum manche Männer betroffen sind - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
+
+2026-09-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
+
+---
 
 ### [NHS confirms double vaccine for older adults aged 65-80](https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWQta090ZWNrd1pYaG9ER1FzZmJpV0NBWVBqVDBvcVhaYzhzSEhFdmVRT3ZrQVg5bzJibTZrSm1rX3d2N3dEZ2ptcEdLSlFhd1JuVVpXbDhDWHVZSnBqNG0xaWc5SlFqa2FXQWdWcXVyYWFHLUpzQ1pMUVNTbTJXWDFjbGlmZw?oc=5)
 
 2026-09-04 <span class="news-indication-tag">MS</span>
 
-來源：[aol.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWQta090ZWNrd1pYaG9ER1FzZmJpV0NBWVBqVDBvcVhaYzhzSEhFdmVRT3ZrQVg5bzJibTZrSm1rX3d2N3dEZ2ptcEdLSlFhd1JuVVpXbDhDWHVZSnBqNG0xaWc5SlFqa2FXQWdWcXVyYWFHLUpzQ1pMUVNTbTJXWDFjbGlmZw?oc=5)
+來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWQta090ZWNrd1pYaG9ER1FzZmJpV0NBWVBqVDBvcVhaYzhzSEhFdmVRT3ZrQVg5bzJibTZrSm1rX3d2N3dEZ2ptcEdLSlFhd1JuVVpXbDhDWHVZSnBqNG0xaWc5SlFqa2FXQWdWcXVyYWFHLUpzQ1pMUVNTbTJXWDFjbGlmZw?oc=5)
 
 ---
 
@@ -78,6 +86,22 @@ permalink: /news/elbasvir/
 
 ---
 
+### [CAR-T create nel corpo, il paziente diventa la fabbrica](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUxXS2o3cFlfVVBZMjY1Wnk4aGszSHJ2NEtCeVU4U3RGZDF1RXl4c2N1ZlVxSWdWaUVKb2VaWmlRVkREMDM3YTU1emlYbmdKbjN6SXJNd1kwWTlRck50VGE4TmI3UTk1c2RuMFgxVUpxR1ZFalNTb0p3VjZoOFBMS2J0Mlg1VlA4OFhSMklTV3Q4MENIdEZjR0VTcVNzMzJaa3A0ZGJ0VnR3S3RCUTk3ckVFX1I?oc=5)
+
+2026-09-04 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUxXS2o3cFlfVVBZMjY1Wnk4aGszSHJ2NEtCeVU4U3RGZDF1RXl4c2N1ZlVxSWdWaUVKb2VaWmlRVkREMDM3YTU1emlYbmdKbjN6SXJNd1kwWTlRck50VGE4TmI3UTk1c2RuMFgxVUpxR1ZFalNTb0p3VjZoOFBMS2J0Mlg1VlA4OFhSMklTV3Q4MENIdEZjR0VTcVNzMzJaa3A0ZGJ0VnR3S3RCUTk3ckVFX1I?oc=5)
+
+---
+
+### [Pig kidneys successfully transplanted into humans - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTJCblBuMDFwcEV0eGhXZFZCZDhTNGZjb0t3NkxvQTdWUERjT3VlUWZTaWVabU1mbGVwNzVjVi1FcFJDMTdxLXRIek5NU2VQd0NmVHdOMzJJR181Z0llcFJ2Q0VrTWF1eW5LcktabHVINU1xSFpyN3dQYWg1ajh5bjhuLWU?oc=5)
+
+2026-09-04 <span class="news-indication-tag">MS</span>
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTJCblBuMDFwcEV0eGhXZFZCZDhTNGZjb0t3NkxvQTdWUERjT3VlUWZTaWVabU1mbGVwNzVjVi1FcFJDMTdxLXRIek5NU2VQd0NmVHdOMzJJR181Z0llcFJ2Q0VrTWF1eW5LcktabHVINU1xSFpyN3dQYWg1ajh5bjhuLWU?oc=5)
+
+---
+
 ### [La vacuna contra el cáncer de Moderna y MSD generará unas ventas de 1.000 M impulsadas por los tumores pulmonares - El Español](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdHFKXzBuLWlPQ1NncnhUUUtLYUNNSnZrWk1qbXEtTzFQZ3hQRzZZY1Vjc3cteFdfcFp0UndhVjBaOHdVZ2VWOV9TNFk5UE1EaGR5Tm1kaTNmaVVtczZzc05WTlhISUMxUnB1dDV2blpyRDJpcTVsYmp6cW5KWXZUejNiMmpMclhqNmhsRy1sT2YwZ09aYWh4ZEc2RmRYUGE1a3cxSjRZM0tyMThqMFUzQ2l1S1luY2lxZlhrbkQzNC1UWFFHcDBDTGViMzN1U08ydmp3NGFNUGllYlJBM2piZXN5c0hVeTN6XzVscHdBWdIB9AFBVV95cUxORjdPOHVabDFJMFJkSWp1Skl5bUFpYTgzbnlUMjhZUmdTTHpJOTJCNERYcHg0akNRSko0eTlNNm5nbzJqTGUyaVhLT2dxSGJpeWhzNkhiTXAxb2FVMUh5ZzUzcmNYaDBMYUlVUlllTVFSNG9NUzhKa2I0Y21PQW1ZQXp0azNQaHJmQVpYOW1ZaGp4akZNbHA1TElfRHp1VGpiZ0U3MUZSMl9zaGV6WWgtRXREUkdJUEJLMjhQUDAwSVByeUxWMkozbG8xQUhGMk0xWTB3a1BISncxYlNoT3hpUmk1cWJSZVpKN2pKbnpUWkhvQ1Ew?oc=5)
 
 2026-09-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -86,11 +110,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Unión Africana: la epidemia de ébola en RDC sigue descontrolada pero hay "buenas señales"](https://news.google.com/rss/articles/CBMidkFVX3lxTFB6Sk1aZWF2SlFhekFBdzd0bmpjM2dPZmkzODRtQjBYMHJSOFB4aXdla25KQ3NhZTc4VnRMU0I2eDNKSmNUT1JUTlhtLVJHNXFyc08tb1F4Y1c1cjEzUmZjbE13MktxYUhOOTBtX2ZPcTBYOG5jZEE?oc=5)
+### [Los antioxidantes ayudan al cáncer a protegerse del sistema inmune](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlNkYktQdDJFWmpTOW13anZidE5TV1Q2SkhyNENScW5wY2FmVTVKdTV2VVpKM1JHcEFzNTlnM21hQ2t1c05SSXh4Vll0ZTZRZ1M4cDF0LTZ3MTE0dGtvZVQ1NDhJSS1EcWVaTXFBLXFiQjdFanVpNVNUclljR19ZcVFmNUsxNjVRV3RQWW90aUdvTWwyaFVobVdaT21RR3Vha0VBcHVCNDdNczZqTS1uSmtMd9IBuAFBVV95cUxQYmFlcndHdERYaVE0UkJQdmNyV1JCLXA1WGF2UVQ5b2VHY3k3UzdEUUJ4WFFpZjNneEZtcUJ2VDFobF9hRWEwMDNQVnJmUWNIYjdyaXV0SGZxX0cyMGo1Y0JBMi1iTjlkd3dQeXlnNG43ZkFLTllwRTRVU25Ia1V1dFpxY3NoQWR3YVExOGRZYkFjOFFtbWJCV0gtLVMzaFJMMlM0VDdUS18tTFdlaGZZdWd2NUloNU40?oc=5)
 
-2026-09-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[efe.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFB6Sk1aZWF2SlFhekFBdzd0bmpjM2dPZmkzODRtQjBYMHJSOFB4aXdla25KQ3NhZTc4VnRMU0I2eDNKSmNUT1JUTlhtLVJHNXFyc08tb1F4Y1c1cjEzUmZjbE13MktxYUhOOTBtX2ZPcTBYOG5jZEE?oc=5)
+來源：[lavanguardia.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlNkYktQdDJFWmpTOW13anZidE5TV1Q2SkhyNENScW5wY2FmVTVKdTV2VVpKM1JHcEFzNTlnM21hQ2t1c05SSXh4Vll0ZTZRZ1M4cDF0LTZ3MTE0dGtvZVQ1NDhJSS1EcWVaTXFBLXFiQjdFanVpNVNUclljR19ZcVFmNUsxNjVRV3RQWW90aUdvTWwyaFVobVdaT21RR3Vha0VBcHVCNDdNczZqTS1uSmtMd9IBuAFBVV95cUxQYmFlcndHdERYaVE0UkJQdmNyV1JCLXA1WGF2UVQ5b2VHY3k3UzdEUUJ4WFFpZjNneEZtcUJ2VDFobF9hRWEwMDNQVnJmUWNIYjdyaXV0SGZxX0cyMGo1Y0JBMi1iTjlkd3dQeXlnNG43ZkFLTllwRTRVU25Ia1V1dFpxY3NoQWR3YVExOGRZYkFjOFFtbWJCV0gtLVMzaFJMMlM0VDdUS18tTFdlaGZZdWd2NUloNU40?oc=5)
 
 ---
 
@@ -102,11 +126,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Two teenagers in hospital with meningitis B](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZS3JTQU5TQ0VsQnB1eU1CVS1JVTZFWUNfRVlROXhmQXFDVTNSZGJ4TGl0OEtWRHhxM0RMVWkxVTNGMjBBeFVwR0pTV0FKekZfV09aMURWTVJHamhB?oc=5)
+### [Meningitis symptoms to watch out for as two Suffolk teenagers catch infection - Ipswich Star](https://news.google.com/rss/articles/CBMikAFBVV95cUxObGpnaXd4ckw0X0JTa0l1LVFsX0tGcFBxdDBtYXlOMmtlMkNCc05MSEJvMFB2amdKaXZxY3NLUUdhV1JoenNSTXZjRE80aG90bUtWR1dvWnNHTG5BVVM1LUJ2b21rRWctZFVsUmJnZjJDQ2ItbmRBTjZPSzhWdDVIRkFfcGJKLVVFSUs0b185NTQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZS3JTQU5TQ0VsQnB1eU1CVS1JVTZFWUNfRVlROXhmQXFDVTNSZGJ4TGl0OEtWRHhxM0RMVWkxVTNGMjBBeFVwR0pTV0FKekZfV09aMURWTVJHamhB?oc=5)
+來源：[Ipswich Star](https://news.google.com/rss/articles/CBMikAFBVV95cUxObGpnaXd4ckw0X0JTa0l1LVFsX0tGcFBxdDBtYXlOMmtlMkNCc05MSEJvMFB2amdKaXZxY3NLUUdhV1JoenNSTXZjRE80aG90bUtWR1dvWnNHTG5BVVM1LUJ2b21rRWctZFVsUmJnZjJDQ2ItbmRBTjZPSzhWdDVIRkFfcGJKLVVFSUs0b185NTQ?oc=5)
 
 ---
 
@@ -150,11 +174,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Edinburgh dad had no symptoms before routine tests revealed 'aggresive' tumour - Edinburgh Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2xfdU1sMVNOaXFfZU1nM3h6Nm9XY0VZeWJab1N4RFIxS01ZTTdmbmg3U2JycjZqRlJCdDFTNmxsdmZWdUtrcjNQV0UzN3BZeklqX1Fkb3dBMEdtODN6Q1AwaWJQUWlrVXNCYnNPOEhpWm1KVm9qQ1pzWTNwQ0MzNk5FMEdNcjZuZEdjeGVqMXNJbWNaRUJDWA?oc=5)
+### [The drugs found to slow down ageing – and you might already be taking them - The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNloyUEZfRXdNWVN4TVFrR014UTV5RGlHNllzOTduZXNtT29lMWxqSkdUVkFEMVpPQW9Wb3BkRnVUemExMG93ZHVfUXpGanp0MzVwU1NmM2oxNGlVMVE2YTlocE9hMFJUSWMzQ0hheW9mekhONkFLamhwS2t4azFjeXB0UTIxaXNBekZwZg?oc=5)
 
-2026-09-02 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span>
+2026-09-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Edinburgh Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2xfdU1sMVNOaXFfZU1nM3h6Nm9XY0VZeWJab1N4RFIxS01ZTTdmbmg3U2JycjZqRlJCdDFTNmxsdmZWdUtrcjNQV0UzN3BZeklqX1Fkb3dBMEdtODN6Q1AwaWJQUWlrVXNCYnNPOEhpWm1KVm9qQ1pzWTNwQ0MzNk5FMEdNcjZuZEdjeGVqMXNJbWNaRUJDWA?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNloyUEZfRXdNWVN4TVFrR014UTV5RGlHNllzOTduZXNtT29lMWxqSkdUVkFEMVpPQW9Wb3BkRnVUemExMG93ZHVfUXpGanp0MzVwU1NmM2oxNGlVMVE2YTlocE9hMFJUSWMzQ0hheW9mekhONkFLamhwS2t4azFjeXB0UTIxaXNBekZwZg?oc=5)
 
 ---
 
@@ -166,27 +190,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Testosterone bought by menopausal women posing as men due to NHS issues](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lNFVlbFpQdGxDT1ZUSlAwRUVDdW1qNGg5T0NFYXUtUS1hTTlHSTNscE10YjVBakVweWUxZXNBUnRyQzFwbXd3Rks1eFQ2d2lSVnBWYWtOSmVseUlF?oc=5)
-
-2026-09-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lNFVlbFpQdGxDT1ZUSlAwRUVDdW1qNGg5T0NFYXUtUS1hTTlHSTNscE10YjVBakVweWUxZXNBUnRyQzFwbXd3Rks1eFQ2d2lSVnBWYWtOSmVseUlF?oc=5)
-
----
-
 ### [CKM Syndrome: 79% of Young Adults Show Early Signs](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
 
 2026-09-01 <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
-
----
-
-### [Sclerosi multipla, globuli rossi per “rieducare” il sistema immunitario](https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2J3eTI3dzVsalFVNkxnZHZzZllXc3VySHZNVzlYbGdPRlBGSU5FWXhPTERMM3E1U0RiOGE0VEZzMWExT2MyWVE4SHdkTWU5ZUpmaFd4Nmt3QTZ0RG5SUEs1UjlFOURpYTBHY0RPd2JPZW81dW9WSnEyVExuM0tZU01hYmFrckJOaXlXcEx2bl82bng1VjZLbGlobDNCclhtUm41amJUdklpWjlnbnZVdjlfOVZkZUh2Ny12WkU4Q0pPbEhkWFln?oc=5)
-
-2026-09-01 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2J3eTI3dzVsalFVNkxnZHZzZllXc3VySHZNVzlYbGdPRlBGSU5FWXhPTERMM3E1U0RiOGE0VEZzMWExT2MyWVE4SHdkTWU5ZUpmaFd4Nmt3QTZ0RG5SUEs1UjlFOURpYTBHY0RPd2JPZW81dW9WSnEyVExuM0tZU01hYmFrckJOaXlXcEx2bl82bng1VjZLbGlobDNCclhtUm41amJUdklpWjlnbnZVdjlfOVZkZUh2Ny12WkU4Q0pPbEhkWFln?oc=5)
 
 ---
 

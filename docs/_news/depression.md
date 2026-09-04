@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Depressione, salvare le staminali del cervello può proteggere memoria e umore. Cosa sappiamo sull’iperico](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHJEZmpaa3lqYWFRRE5fY3NvRThUemo4YVp2QjBzTDVBU1NLRzgza04xVWU2dGIyamtlZXEwRnFFNnFSZDg5M09GSDN6QnZNbERfa0xrRVc5TWNLckxsWHVReWFNeHFTOTR5NzU2ZDBzYW9LVGNDWjVTbXdpcW5QWjVONEdDOGUzYkIwOVlHSzF0T2ZVZmV1U2E0Z0l6c0tCT2g0Um55RVVpcXVFdnZiWGZyNDRETzg5bVVGTlNNa0VURzdVb3pZZUJUOU5hUHJoWE9uWGpJbERYR2ppMHROMEVRd0IwMnhn?oc=5)
 
 2026-09-03
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHJEZmpaa3lqYWFRRE5fY3NvRThUemo4YVp2QjBzTDVBU1NLRzgza04xVWU2dGIyamtlZXEwRnFFNnFSZDg5M09GSDN6QnZNbERfa0xrRVc5TWNLckxsWHVReWFNeHFTOTR5NzU2ZDBzYW9LVGNDWjVTbXdpcW5QWjVONEdDOGUzYkIwOVlHSzF0T2ZVZmV1U2E0Z0l6c0tCT2g0Um55RVVpcXVFdnZiWGZyNDRETzg5bVVGTlNNa0VURzdVb3pZZUJUOU5hUHJoWE9uWGpJbERYR2ppMHROMEVRd0IwMnhn?oc=5)
+
+---
+
+### [US medical groups urge people to get flu and Covid shots in counter to Trump guidance - The Guardian](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEo0SVRlUS1RUFMwb0xxM0VkeWkzNzlmMDgwYXR1U3JZVUlKd2k0RjN3aVhWbzFWbHFHVDVpcmpmTmhGdjdFSHJWaDlweGdOdFdqY3NfcU1qMUwzS19mTTBsdVp1ZlJXNGQ2UXFkVXYyRDh0N1d2SUlUQ3J6a0Ffeg?oc=5)
+
+2026-09-02
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEo0SVRlUS1RUFMwb0xxM0VkeWkzNzlmMDgwYXR1U3JZVUlKd2k0RjN3aVhWbzFWbHFHVDVpcmpmTmhGdjdFSHJWaDlweGdOdFdqY3NfcU1qMUwzS19mTTBsdVp1ZlJXNGQ2UXFkVXYyRDh0N1d2SUlUQ3J6a0Ffeg?oc=5)
 
 ---
 

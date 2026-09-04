@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabete（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
+description: "diabete（diabetes mellitus） 的相關健康新聞報導。10 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabete（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>10 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+2026-09-04
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+---
 
 ### [Un fármaco contra la diabetes reduce el riesgo de complicaciones tras una TAVI - PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
 
@@ -160,7 +168,7 @@ permalink: /news/diabetes-mellitus/
 
 2026-09-03
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
 
 ---
 
@@ -172,11 +180,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [C'est fini : ces 5 médicaments pris par des millions de Français vont disparaître des pharmacies d'ici la fin d'année](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
+### [C'est fini : ces 5 médicaments pris par des millions de Français vont disparaître des pharmacies d'ici la fin d'année - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
 
 2026-09-02
 
-來源：[sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
 
 ---
 
