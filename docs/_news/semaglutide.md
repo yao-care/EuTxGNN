@@ -54,6 +54,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（19 則）
 
+### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
+
+---
+
 ### [GLP-1-Medikamente und Haarausfall: Ein Gen könnte erklären, warum manche Männer betroffen sind - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
 
 2026-09-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
@@ -62,11 +70,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [La semaglutida prolonga la supervivencia y mejora parámetros asociados al envejecimiento en un modelo animal - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX1piRWVoSDJxM285ckY2b2gxN3Yzb1d5Mks3LXJvRTVNdUhqMTlPczM0SmpMVUVTT01ZQ3ZqUlhEY1hyQ2NZNVlMTkNPamdHalRVN1l5OHdaYktjTUNyajJ0MUswNnVHT3N2ZjlxN0NLNUVaQnpyUWVCU1JKV1NuVXdEdzMzTEloRHRZNVZJdTJwWmFrVnNkNmZkUmFrcVp1OWU5a000T1ZwNHBrTzhuRTJqNzZwSG53bnpFVVZaUzNWQdIBvAFBVV95cUxPX245RzU0b3BCeHNmQWNkWjg5T3NkZVB1NnVhSzN3ck1lTUduSUhCTUtUSlRMXzVyQ2dMdUw0Ml9XdjAtTWVjYjVmNjNMSVU0QjRneko5SU9jdG4yaktBeFQ1d3QwNnlmWVh3UUItMm4wRlBaejhpbHlMVlI3ckNyTTFBN2IzZks0SnJfdXBUQ0o5NnpIVmFpZjRqcWlnMXFEWXhjZXlsZVRIODNkZXRfa1MzVktQcS0yRmVOZQ?oc=5)
+### [Ozempic no solo adelgaza: también podría frenar el envejecimiento, según un estudio en ratones](https://news.google.com/rss/articles/CBMigwJBVV95cUxOTnA2OGJCcWd4b2hNSHk4bmwyVXZOOFlxT012YUxEMW5MenFrb2FJZVJET0YtTGhGR2VzTWNLTFlTWEVSWmlmZHZpaFcwU3hTTlpqQkhSUzRDQXU0NXRiVU9xWEw4QzF2dGoybkE3M2tIWm5NeFFZbVFNeWU3MnE0VmZfNDZ5UVpEZ1J4WGFJRTk1WmxXT1JtZkJ0dXM3TXBtODBLUU14MU9NeGhGLXl3RjhvNl96VTF6NHVvZk02eGtNTUJOQ0pIS0t2c056a2o1THN1bkNrbDU2QnlZMThjeXhYNEVnMXI4b3ZYeDAzV0UzNG5TM3Jvbk12RUhORGZXNG5n0gGDAkFVX3lxTE93YlNrX19YdVFaVjlJS3JOZG44MF9QdER3R21vTGl6TmItTVRrVEhQRHBMOVRjVU5fV3R1dmI3UDdzSWdKWVpNLXBON19WZXJWLW1yNWEwSUJYMk1NWW1vOWlFMkFmYjFZNlpMOXgzT3VjVUoydjJ0Y2lXbFdnXzZGejA1OTBnQlpIam9UOHFMb1FTRW1NZmtselpxSy0yREM0SkxwNXJIeTRLNC1qalhiZUNKM2w4NkJILTBQWFR2bVk2aDFKcU1rc3FiejNtTzNBemV0d1RZNTZDNnJkRnhSbmJScHpzZGVQY3l5czc5UEFCbVFieUZraVpGWU52M0JNMjg?oc=5)
 
 2026-09-04 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX1piRWVoSDJxM285ckY2b2gxN3Yzb1d5Mks3LXJvRTVNdUhqMTlPczM0SmpMVUVTT01ZQ3ZqUlhEY1hyQ2NZNVlMTkNPamdHalRVN1l5OHdaYktjTUNyajJ0MUswNnVHT3N2ZjlxN0NLNUVaQnpyUWVCU1JKV1NuVXdEdzMzTEloRHRZNVZJdTJwWmFrVnNkNmZkUmFrcVp1OWU5a000T1ZwNHBrTzhuRTJqNzZwSG53bnpFVVZaUzNWQdIBvAFBVV95cUxPX245RzU0b3BCeHNmQWNkWjg5T3NkZVB1NnVhSzN3ck1lTUduSUhCTUtUSlRMXzVyQ2dMdUw0Ml9XdjAtTWVjYjVmNjNMSVU0QjRneko5SU9jdG4yaktBeFQ1d3QwNnlmWVh3UUItMm4wRlBaejhpbHlMVlI3ckNyTTFBN2IzZks0SnJfdXBUQ0o5NnpIVmFpZjRqcWlnMXFEWXhjZXlsZVRIODNkZXRfa1MzVktQcS0yRmVOZQ?oc=5)
+來源：[LaSexta](https://news.google.com/rss/articles/CBMigwJBVV95cUxOTnA2OGJCcWd4b2hNSHk4bmwyVXZOOFlxT012YUxEMW5MenFrb2FJZVJET0YtTGhGR2VzTWNLTFlTWEVSWmlmZHZpaFcwU3hTTlpqQkhSUzRDQXU0NXRiVU9xWEw4QzF2dGoybkE3M2tIWm5NeFFZbVFNeWU3MnE0VmZfNDZ5UVpEZ1J4WGFJRTk1WmxXT1JtZkJ0dXM3TXBtODBLUU14MU9NeGhGLXl3RjhvNl96VTF6NHVvZk02eGtNTUJOQ0pIS0t2c056a2o1THN1bkNrbDU2QnlZMThjeXhYNEVnMXI4b3ZYeDAzV0UzNG5TM3Jvbk12RUhORGZXNG5n0gGDAkFVX3lxTE93YlNrX19YdVFaVjlJS3JOZG44MF9QdER3R21vTGl6TmItTVRrVEhQRHBMOVRjVU5fV3R1dmI3UDdzSWdKWVpNLXBON19WZXJWLW1yNWEwSUJYMk1NWW1vOWlFMkFmYjFZNlpMOXgzT3VjVUoydjJ0Y2lXbFdnXzZGejA1OTBnQlpIam9UOHFMb1FTRW1NZmtselpxSy0yREM0SkxwNXJIeTRLNC1qalhiZUNKM2w4NkJILTBQWFR2bVk2aDFKcU1rc3FiejNtTzNBemV0d1RZNTZDNnJkRnhSbmJScHpzZGVQY3l5czc5UEFCbVFieUZraVpGWU52M0JNMjg?oc=5)
+
+---
+
+### [Vivere per mesi col rene di un maiale - Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTFBORUVIRzNoWHJIS3dyb1J1ZThFRVl3b2pBcVRYaXpHekFUWjlKSldkT2N4c1ZjakdJYWw3RnB0Mlg1QVFZUURZeWpDTDlCRTRmc3pIM2lqMjd2LTRoNmpRVUg1LUNCVFB3SkhybjB4czQ?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabete</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTFBORUVIRzNoWHJIS3dyb1J1ZThFRVl3b2pBcVRYaXpHekFUWjlKSldkT2N4c1ZjakdJYWw3RnB0Mlg1QVFZUURZeWpDTDlCRTRmc3pIM2lqMjd2LTRoNmpRVUg1LUNCVFB3SkhybjB4czQ?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/semaglutide/
 2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
-
----
-
-### [Un fármaco contra la diabetes reduce el riesgo de complicaciones tras una TAVI - PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
-
-來源：[PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
 
 ---
 
@@ -138,13 +146,13 @@ permalink: /news/semaglutide/
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
 
 ---
 
 ### [El impacto global de la diabetes Tipo 1 en 2049 - Reporte Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSV9BWGx5T0p5Y3ZSUFFDTmd1b2dnaFY4UkF3NnA1b3RFZHctT1kza3ZocFVlSG5mcUp5TlhZUFJ0RnNnWUpKSHA1eVhEZTVseExhcUZXLVZ2MUUwME4tWFBTZjlzNnF3d21fbmIzbUM3SUY5VUN2blAxR1BvS2ZhOG9Vdw?oc=5)
 
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-09-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[Reporte Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSV9BWGx5T0p5Y3ZSUFFDTmd1b2dnaFY4UkF3NnA1b3RFZHctT1kza3ZocFVlSG5mcUp5TlhZUFJ0RnNnWUpKSHA1eVhEZTVseExhcUZXLVZ2MUUwME4tWFBTZjlzNnF3d21fbmIzbUM3SUY5VUN2blAxR1BvS2ZhOG9Vdw?oc=5)
 
@@ -160,17 +168,17 @@ permalink: /news/semaglutide/
 
 ### [The drugs found to slow down ageing – and you might already be taking them - The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNloyUEZfRXdNWVN4TVFrR014UTV5RGlHNllzOTduZXNtT29lMWxqSkdUVkFEMVpPQW9Wb3BkRnVUemExMG93ZHVfUXpGanp0MzVwU1NmM2oxNGlVMVE2YTlocE9hMFJUSWMzQ0hheW9mekhONkFLamhwS2t4azFjeXB0UTIxaXNBekZwZg?oc=5)
 
-2026-09-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNloyUEZfRXdNWVN4TVFrR014UTV5RGlHNllzOTduZXNtT29lMWxqSkdUVkFEMVpPQW9Wb3BkRnVUemExMG93ZHVfUXpGanp0MzVwU1NmM2oxNGlVMVE2YTlocE9hMFJUSWMzQ0hheW9mekhONkFLamhwS2t4azFjeXB0UTIxaXNBekZwZg?oc=5)
 
 ---
 
-### [In Italia spendiamo un sacco di soldi per i farmaci come Ozempic](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
+### [In Italia spendiamo un sacco di soldi per i farmaci come Ozempic - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
 
 2026-09-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
-來源：[ilpost.it](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
 
 ---
 
@@ -195,14 +203,6 @@ permalink: /news/semaglutide/
 2026-08-31 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[Daily Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
-
----
-
-### [Experts call for safer weight loss as concerns grow over GLP-1 use](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
-
-2026-08-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkhkdmVibG8xRUpDRzBzVDhaQUdMTEY4MmEwd3h2anh5Y1RXc2k1WkNVMTJxdVJ5eEVZRUF1VWM4ZXJDckprRmlGQm9YTGpld3p3LUlYblZQNENxODUxM2Q2MW13S2dfY0pNWTA3clIwdTE1Zllxdlc0TGhoblRZOXRoUE1qSUtQSVlCcnpndXVva3JKRk95dnhkRGp0X1JMcG5QN3MteUpGVVg1dWVrak5hdlY?oc=5)
 
 ---
 

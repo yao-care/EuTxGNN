@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Nano-ERASER mejora el deterioro cognitivo del Alzheimer en ratones](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjBqeUp0eHlMWlN0eUo4LXcxN2F5OUV6alppRy1zUDF2R2ZXTHhKYTAtYXRKajBkTEJvdjlhQ2tBVTZyRU9hQjZHby1wY2hIWmhfaVNsYmpiMzY0b0QzYmRvYjVITkVTeVlQRVFaSUVVbHVDNF8xS0RzNkZ6UlROYnVuRXJscHoyNHRESWt1QWt3dWNzLWNKUHZ2OUJQMDUya19zMXJKcnpWUQ?oc=5)
+
+2026-09-04 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[DiarioBitcoin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjBqeUp0eHlMWlN0eUo4LXcxN2F5OUV6alppRy1zUDF2R2ZXTHhKYTAtYXRKajBkTEJvdjlhQ2tBVTZyRU9hQjZHby1wY2hIWmhfaVNsYmpiMzY0b0QzYmRvYjVITkVTeVlQRVFaSUVVbHVDNF8xS0RzNkZ6UlROYnVuRXJscHoyNHRESWt1QWt3dWNzLWNKUHZ2OUJQMDUya19zMXJKcnpWUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

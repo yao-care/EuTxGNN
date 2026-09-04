@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Vuelta al cole con alergias o asma: las claves de los expertos para un inicio de curso seguro y sin riesgos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlB6Q2w4Q190MWpHcTd5SFNDQ2FWeVlVOXlWTnR2RkswQzlHUE5uX2pEZWxQY2tOTWxHX0hQR1JNaHpvZ1ZKTU5xblFBRTlDeDJwbzhBSDlLV0o5WTlERDNQczJzRFFsRWE3NVJKVjhaVU0ySy1EMlF0YzZ1YWg2S0NlMmowR1lFUzEwbUx1V203NWFYZEpTVlp4Y3drdHZMa0V6NWhiTDIxbk1RMDhrS0VpcEtRWUpJX09kX084UFJ1VVVKRWo4elRyRnFZYVRIS0ZuTmhES0w4VnBzVWc?oc=5)
+
+2026-09-04
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlB6Q2w4Q190MWpHcTd5SFNDQ2FWeVlVOXlWTnR2RkswQzlHUE5uX2pEZWxQY2tOTWxHX0hQR1JNaHpvZ1ZKTU5xblFBRTlDeDJwbzhBSDlLV0o5WTlERDNQczJzRFFsRWE3NVJKVjhaVU0ySy1EMlF0YzZ1YWg2S0NlMmowR1lFUzEwbUx1V203NWFYZEpTVlp4Y3drdHZMa0V6NWhiTDIxbk1RMDhrS0VpcEtRWUpJX09kX084UFJ1VVVKRWo4elRyRnFZYVRIS0ZuTmhES0w4VnBzVWc?oc=5)
+
+---
 
 ### [Asma infantil: cómo evitar un rebrote al inicio del curso escolar](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
 
 2026-09-03
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
+來源：[espanol.medscape.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
 
 ---
 

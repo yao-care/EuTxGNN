@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,14 +37,6 @@ permalink: /news/obesity/
 </div>
 
 ## 相關新聞（8 則）
-
-### [Los expertos en obesidad reivindican desde Ribeira llevar la ciencia más allá de las grandes ciudades - La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRnVpZlNXeGlBLVNFWEtFa0dUZzlQeWlrWFdzRWoySlRUdzEydXZEZEJjUFRMb0VxMEdHQXNDbU9FLXVMeUtoejBUUlc5RDVHQWFBVFZ2cF9VNmstVWJqNVpyUFBFX29tTnVtR3FOOGJjTWV2Y3dJVjY2djhxVEJld0VsblZtYW04N3VMWFFpZWM0RlF4c3Z1ZW80ZGRLMklhSEV6ZkVHbV9pSDBHU3ZuaWpNRTlaN3BEWFdZSXdNZFd5dE1JRkliSE5ueE9xOTdwRWNneFZsVVloSk5RWWxKVVVvUTBnbUlzR3RCWFFKdTNKbllrN3E4ejdyX2bSAZgCQVVfeXFMTnV1WEo5WDVVV2I1LTNENnBRN1l4cDFPZ2FjcExCMXhCVnhzS005NHJ1WVd0NWlYaWJ1RXhfV0dSVVQ2TVFLS3FJcnVlakNpOHlrQU55RTV6TklVTUZsay11UU9ERmI4dGtqUHZKY2x5bXc2d2Q2TmdWWFBXZkE3LXBoLTV1ZzQyYnJPRG1lRGhjeWE0Z2x3SGU5cUtSQlF2amxUNEpzUmt5ajBSaVI5elhGc2pab09YNU41bi1FemJuaHdDaDFFMVJoczhQelJUMmNyVGJOQl9TUXROaVFUWnhuX2h4MEFlV0JfVU8zTjMxNVMtSmpxZjR3U2M2ZlBHOWM3RDh4RUlKMUFySWJwcDJaeFdJUFRNMQ?oc=5)
-
-2026-09-04
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRnVpZlNXeGlBLVNFWEtFa0dUZzlQeWlrWFdzRWoySlRUdzEydXZEZEJjUFRMb0VxMEdHQXNDbU9FLXVMeUtoejBUUlc5RDVHQWFBVFZ2cF9VNmstVWJqNVpyUFBFX29tTnVtR3FOOGJjTWV2Y3dJVjY2djhxVEJld0VsblZtYW04N3VMWFFpZWM0RlF4c3Z1ZW80ZGRLMklhSEV6ZkVHbV9pSDBHU3ZuaWpNRTlaN3BEWFdZSXdNZFd5dE1JRkliSE5ueE9xOTdwRWNneFZsVVloSk5RWWxKVVVvUTBnbUlzR3RCWFFKdTNKbllrN3E4ejdyX2bSAZgCQVVfeXFMTnV1WEo5WDVVV2I1LTNENnBRN1l4cDFPZ2FjcExCMXhCVnhzS005NHJ1WVd0NWlYaWJ1RXhfV0dSVVQ2TVFLS3FJcnVlakNpOHlrQU55RTV6TklVTUZsay11UU9ERmI4dGtqUHZKY2x5bXc2d2Q2TmdWWFBXZkE3LXBoLTV1ZzQyYnJPRG1lRGhjeWE0Z2x3SGU5cUtSQlF2amxUNEpzUmt5ajBSaVI5elhGc2pab09YNU41bi1FemJuaHdDaDFFMVJoczhQelJUMmNyVGJOQl9TUXROaVFUWnhuX2h4MEFlV0JfVU8zTjMxNVMtSmpxZjR3U2M2ZlBHOWM3RDh4RUlKMUFySWJwcDJaeFdJUFRNMQ?oc=5)
-
----
 
 ### [„Adipositas-Paradoxon“ bei Darmkrebs könnte durch Gewichtsverlust vor Diagnose entstehen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDMyMmVuck9jS0h6Z0ZQWERkblNBVUhxRjctSThBRk9pYXE4bTZ2dlQ5WmJxMzQwS0UyMkhjbWYzUnRtN3owSllqNHk5QkRZM1BZU21LLTNrbE1HbFJsa3lLd3l0a0pwWjRobFhLYlA5cnVlV1Q1Yl90dVM5eWg1V09vQVBJbU5IazBfQW9mdmtoR3pZajRqNDhQSEpiWVNOYjUzR1dWX3Rra3c3TXNiM0tfdXFQVUt1RmhTNUVaRnhFNWxmSTR2a0QwVk5lZzV6dWNtdjN5TjNITFR1OGVMTDFkTHJBQUhxS0s0?oc=5)
 
@@ -94,11 +86,19 @@ permalink: /news/obesity/
 
 ---
 
-### [In Italia spendiamo un sacco di soldi per i farmaci come Ozempic](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
+### [In Italia spendiamo un sacco di soldi per i farmaci come Ozempic - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
 
 2026-09-02
 
-來源：[ilpost.it](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
+
+---
+
+### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+
+2026-08-31
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Los expertos en obesidad reivindican desde Ribeira llevar la ciencia más allá de las grandes ciudades - La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRnVpZlNXeGlBLVNFWEtFa0dUZzlQeWlrWFdzRWoySlRUdzEydXZEZEJjUFRMb0VxMEdHQXNDbU9FLXVMeUtoejBUUlc5RDVHQWFBVFZ2cF9VNmstVWJqNVpyUFBFX29tTnVtR3FOOGJjTWV2Y3dJVjY2djhxVEJld0VsblZtYW04N3VMWFFpZWM0RlF4c3Z1ZW80ZGRLMklhSEV6ZkVHbV9pSDBHU3ZuaWpNRTlaN3BEWFdZSXdNZFd5dE1JRkliSE5ueE9xOTdwRWNneFZsVVloSk5RWWxKVVVvUTBnbUlzR3RCWFFKdTNKbllrN3E4ejdyX2bSAZgCQVVfeXFMTnV1WEo5WDVVV2I1LTNENnBRN1l4cDFPZ2FjcExCMXhCVnhzS005NHJ1WVd0NWlYaWJ1RXhfV0dSVVQ2TVFLS3FJcnVlakNpOHlrQU55RTV6TklVTUZsay11UU9ERmI4dGtqUHZKY2x5bXc2d2Q2TmdWWFBXZkE3LXBoLTV1ZzQyYnJPRG1lRGhjeWE0Z2x3SGU5cUtSQlF2amxUNEpzUmt5ajBSaVI5elhGc2pab09YNU41bi1FemJuaHdDaDFFMVJoczhQelJUMmNyVGJOQl9TUXROaVFUWnhuX2h4MEFlV0JfVU8zTjMxNVMtSmpxZjR3U2M2ZlBHOWM3RDh4RUlKMUFySWJwcDJaeFdJUFRNMQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">obesidad</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRnVpZlNXeGlBLVNFWEtFa0dUZzlQeWlrWFdzRWoySlRUdzEydXZEZEJjUFRMb0VxMEdHQXNDbU9FLXVMeUtoejBUUlc5RDVHQWFBVFZ2cF9VNmstVWJqNVpyUFBFX29tTnVtR3FOOGJjTWV2Y3dJVjY2djhxVEJld0VsblZtYW04N3VMWFFpZWM0RlF4c3Z1ZW80ZGRLMklhSEV6ZkVHbV9pSDBHU3ZuaWpNRTlaN3BEWFdZSXdNZFd5dE1JRkliSE5ueE9xOTdwRWNneFZsVVloSk5RWWxKVVVvUTBnbUlzR3RCWFFKdTNKbllrN3E4ejdyX2bSAZgCQVVfeXFMTnV1WEo5WDVVV2I1LTNENnBRN1l4cDFPZ2FjcExCMXhCVnhzS005NHJ1WVd0NWlYaWJ1RXhfV0dSVVQ2TVFLS3FJcnVlakNpOHlrQU55RTV6TklVTUZsay11UU9ERmI4dGtqUHZKY2x5bXc2d2Q2TmdWWFBXZkE3LXBoLTV1ZzQyYnJPRG1lRGhjeWE0Z2x3SGU5cUtSQlF2amxUNEpzUmt5ajBSaVI5elhGc2pab09YNU41bi1FemJuaHdDaDFFMVJoczhQelJUMmNyVGJOQl9TUXROaVFUWnhuX2h4MEFlV0JfVU8zTjMxNVMtSmpxZjR3U2M2ZlBHOWM3RDh4RUlKMUFySWJwcDJaeFdJUFRNMQ?oc=5)
-
----
+## 相關新聞（9 則）
 
 ### [„Adipositas-Paradoxon“ bei Darmkrebs könnte durch Gewichtsverlust vor Diagnose entstehen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDMyMmVuck9jS0h6Z0ZQWERkblNBVUhxRjctSThBRk9pYXE4bTZ2dlQ5WmJxMzQwS0UyMkhjbWYzUnRtN3owSllqNHk5QkRZM1BZU21LLTNrbE1HbFJsa3lLd3l0a0pwWjRobFhLYlA5cnVlV1Q1Yl90dVM5eWg1V09vQVBJbU5IazBfQW9mdmtoR3pZajRqNDhQSEpiWVNOYjUzR1dWX3Rra3c3TXNiM0tfdXFQVUt1RmhTNUVaRnhFNWxmSTR2a0QwVk5lZzV6dWNtdjN5TjNITFR1OGVMTDFkTHJBQUhxS0s0?oc=5)
 
@@ -75,6 +67,14 @@ permalink: /news/orlistat/
 2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+---
+
+### [New injectable treatment helps the brain rebuild after stroke - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tNW9MSkd3cmVuSGpMc01LRmRqdVBRV0k3bkVpZ3Y4ZVpDTU4tSi1hdzdDMXpteHQyN1VrRkZSQnhpT3ZXeXFiOGVRZkpyRksxQ2NESlhhMEM4RU5WX1RHcjRJaXV0eWRyZGxUckZtRQ?oc=5)
+
+2026-09-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tNW9MSkd3cmVuSGpMc01LRmRqdVBRV0k3bkVpZ3Y4ZVpDTU4tSi1hdzdDMXpteHQyN1VrRkZSQnhpT3ZXeXFiOGVRZkpyRksxQ2NESlhhMEM4RU5WX1RHcjRJaXV0eWRyZGxUckZtRQ?oc=5)
 
 ---
 
@@ -110,11 +110,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [In Italia spendiamo un sacco di soldi per i farmaci come Ozempic](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
+### [In Italia spendiamo un sacco di soldi per i farmaci come Ozempic - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
 
 2026-09-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
-來源：[ilpost.it](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE90U1BOUVZkYkJodHh5WllXZzVJQ1hBeHdMMWk5bTJKQU1PRFAxa25zS0hMMVlaMmxOY0FDdVJNUGQ1MmM5RExLaGk4ejRDNTl6TkhodS1YMW9hS2lmZjVjQy1DVXBGeGprUmY5OTd2LV9NSHhZSjlBLVhpcnM?oc=5)
+
+---
+
+### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
 
 ---
 

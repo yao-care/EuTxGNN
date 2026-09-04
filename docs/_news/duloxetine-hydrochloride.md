@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Depressione, salvare le staminali del cervello può proteggere memoria e umore. Cosa sappiamo sull’iperico](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHJEZmpaa3lqYWFRRE5fY3NvRThUemo4YVp2QjBzTDVBU1NLRzgza04xVWU2dGIyamtlZXEwRnFFNnFSZDg5M09GSDN6QnZNbERfa0xrRVc5TWNLckxsWHVReWFNeHFTOTR5NzU2ZDBzYW9LVGNDWjVTbXdpcW5QWjVONEdDOGUzYkIwOVlHSzF0T2ZVZmV1U2E0Z0l6c0tCT2g0Um55RVVpcXVFdnZiWGZyNDRETzg5bVVGTlNNa0VURzdVb3pZZUJUOU5hUHJoWE9uWGpJbERYR2ppMHROMEVRd0IwMnhn?oc=5)
-
-2026-09-03 <span class="news-indication-tag">depression</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHJEZmpaa3lqYWFRRE5fY3NvRThUemo4YVp2QjBzTDVBU1NLRzgza04xVWU2dGIyamtlZXEwRnFFNnFSZDg5M09GSDN6QnZNbERfa0xrRVc5TWNLckxsWHVReWFNeHFTOTR5NzU2ZDBzYW9LVGNDWjVTbXdpcW5QWjVONEdDOGUzYkIwOVlHSzF0T2ZVZmV1U2E0Z0l6c0tCT2g0Um55RVVpcXVFdnZiWGZyNDRETzg5bVVGTlNNa0VURzdVb3pZZUJUOU5hUHJoWE9uWGpJbERYR2ppMHROMEVRd0IwMnhn?oc=5)
-
----
-
-### [US medical groups urge people to get flu and Covid shots in counter to Trump guidance - The Guardian](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEo0SVRlUS1RUFMwb0xxM0VkeWkzNzlmMDgwYXR1U3JZVUlKd2k0RjN3aVhWbzFWbHFHVDVpcmpmTmhGdjdFSHJWaDlweGdOdFdqY3NfcU1qMUwzS19mTTBsdVp1ZlJXNGQ2UXFkVXYyRDh0N1d2SUlUQ3J6a0Ffeg?oc=5)
-
-2026-09-02 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEo0SVRlUS1RUFMwb0xxM0VkeWkzNzlmMDgwYXR1U3JZVUlKd2k0RjN3aVhWbzFWbHFHVDVpcmpmTmhGdjdFSHJWaDlweGdOdFdqY3NfcU1qMUwzS19mTTBsdVp1ZlJXNGQ2UXFkVXYyRDh0N1d2SUlUQ3J6a0Ffeg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

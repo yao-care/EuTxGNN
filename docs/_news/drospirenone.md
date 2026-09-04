@@ -54,11 +54,19 @@ permalink: /news/drospirenone/
 
 ## 相關新聞（5 則）
 
+### [Vuelta al cole con alergias o asma: las claves de los expertos para un inicio de curso seguro y sin riesgos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlB6Q2w4Q190MWpHcTd5SFNDQ2FWeVlVOXlWTnR2RkswQzlHUE5uX2pEZWxQY2tOTWxHX0hQR1JNaHpvZ1ZKTU5xblFBRTlDeDJwbzhBSDlLV0o5WTlERDNQczJzRFFsRWE3NVJKVjhaVU0ySy1EMlF0YzZ1YWg2S0NlMmowR1lFUzEwbUx1V203NWFYZEpTVlp4Y3drdHZMa0V6NWhiTDIxbk1RMDhrS0VpcEtRWUpJX09kX084UFJ1VVVKRWo4elRyRnFZYVRIS0ZuTmhES0w4VnBzVWc?oc=5)
+
+2026-09-04 <span class="news-indication-tag">asma</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlB6Q2w4Q190MWpHcTd5SFNDQ2FWeVlVOXlWTnR2RkswQzlHUE5uX2pEZWxQY2tOTWxHX0hQR1JNaHpvZ1ZKTU5xblFBRTlDeDJwbzhBSDlLV0o5WTlERDNQczJzRFFsRWE3NVJKVjhaVU0ySy1EMlF0YzZ1YWg2S0NlMmowR1lFUzEwbUx1V203NWFYZEpTVlp4Y3drdHZMa0V6NWhiTDIxbk1RMDhrS0VpcEtRWUpJX09kX084UFJ1VVVKRWo4elRyRnFZYVRIS0ZuTmhES0w4VnBzVWc?oc=5)
+
+---
+
 ### [Asma infantil: cómo evitar un rebrote al inicio del curso escolar](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
 
 2026-09-03 <span class="news-indication-tag">asma</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
+來源：[espanol.medscape.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/drospirenone/
 2026-09-03 <span class="news-indication-tag">asma</span>
 
 來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelYwNkVLemxmUGhnWEhFSWhhZnhLYVhUbjZ4UzY1OWJRdWV0RHQtcUlMcDhpb203d1U5TUI0TnNsdXdQWTBTYW5aNFlna2RRVkM0U0txZ2o3U2xZQUw2SXFPTkprem5qMERPNTRGcC1JUlNBQlNsclR6WGk5S0Fhd0xPOXpvODNieFN1bGpBS1ZfYXJ1RVdkeE1VWDV1d3VBaWtjbUsxNHpUQ1F5SnfSAagBQVVfeXFMTXhlZzlTUVZPVy1LN2phcW5hdXNnOVhYRFhfV0h1d3RKMWhxRGtwVnoxWjBkYVl4ekVUelhHR20zUkJGRWVBWkJTaEFaT1Voekh2c1h1VlNtOEwtekMwZDZ5X2FLVUE4bDFLeFliS3lFX1ZxdEpqYndubFB3cUthX1pKZU1venZtYUhsa01oaC1qZWIyUFJhOHpsMlNkSmlIcEpWVTNnTElN?oc=5)
-
----
-
-### [My 38JJ boobs were like butcher meat & crippled me but NHS refused surgery - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXlNdFNzQVkzczhkREhoa3JPOEc0Wllnd2x5ZzYtWG9lN3g3aGVvQjhDNGpIc25ZemcxVnhhc1F6QlB6T0w1MDVLNS01XzNKNE85MTFTN0tVQ1Ixd2N4eWtfNHpuY09CalViMV9BUl9yc25fRnJHUy10NUtvTzVvekpWeEljR2x6eHdYTw?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ permalink: /news/drospirenone/
 
 ### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
-2026-09-01 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 

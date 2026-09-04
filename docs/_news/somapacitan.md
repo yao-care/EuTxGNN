@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
+
+### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
+
+---
+
+### [Vuelta al cole con alergias o asma: las claves de los expertos para un inicio de curso seguro y sin riesgos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlB6Q2w4Q190MWpHcTd5SFNDQ2FWeVlVOXlWTnR2RkswQzlHUE5uX2pEZWxQY2tOTWxHX0hQR1JNaHpvZ1ZKTU5xblFBRTlDeDJwbzhBSDlLV0o5WTlERDNQczJzRFFsRWE3NVJKVjhaVU0ySy1EMlF0YzZ1YWg2S0NlMmowR1lFUzEwbUx1V203NWFYZEpTVlp4Y3drdHZMa0V6NWhiTDIxbk1RMDhrS0VpcEtRWUpJX09kX084UFJ1VVVKRWo4elRyRnFZYVRIS0ZuTmhES0w4VnBzVWc?oc=5)
+
+2026-09-04 <span class="news-indication-tag">asma</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlB6Q2w4Q190MWpHcTd5SFNDQ2FWeVlVOXlWTnR2RkswQzlHUE5uX2pEZWxQY2tOTWxHX0hQR1JNaHpvZ1ZKTU5xblFBRTlDeDJwbzhBSDlLV0o5WTlERDNQczJzRFFsRWE3NVJKVjhaVU0ySy1EMlF0YzZ1YWg2S0NlMmowR1lFUzEwbUx1V203NWFYZEpTVlp4Y3drdHZMa0V6NWhiTDIxbk1RMDhrS0VpcEtRWUpJX09kX084UFJ1VVVKRWo4elRyRnFZYVRIS0ZuTmhES0w4VnBzVWc?oc=5)
+
+---
+
+### [Vivere per mesi col rene di un maiale - Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTFBORUVIRzNoWHJIS3dyb1J1ZThFRVl3b2pBcVRYaXpHekFUWjlKSldkT2N4c1ZjakdJYWw3RnB0Mlg1QVFZUURZeWpDTDlCRTRmc3pIM2lqMjd2LTRoNmpRVUg1LUNCVFB3SkhybjB4czQ?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabete</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTFBORUVIRzNoWHJIS3dyb1J1ZThFRVl3b2pBcVRYaXpHekFUWjlKSldkT2N4c1ZjakdJYWw3RnB0Mlg1QVFZUURZeWpDTDlCRTRmc3pIM2lqMjd2LTRoNmpRVUg1LUNCVFB3SkhybjB4czQ?oc=5)
+
+---
 
 ### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
 
@@ -66,15 +90,7 @@ permalink: /news/somapacitan/
 
 2026-09-03 <span class="news-indication-tag">asma</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
-
----
-
-### [Un fármaco contra la diabetes reduce el riesgo de complicaciones tras una TAVI - PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
-
-來源：[PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
+來源：[espanol.medscape.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
 
 ---
 
@@ -122,13 +138,13 @@ permalink: /news/somapacitan/
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
 
 ---
 
 ### [El impacto global de la diabetes Tipo 1 en 2049 - Reporte Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSV9BWGx5T0p5Y3ZSUFFDTmd1b2dnaFY4UkF3NnA1b3RFZHctT1kza3ZocFVlSG5mcUp5TlhZUFJ0RnNnWUpKSHA1eVhEZTVseExhcUZXLVZ2MUUwME4tWFBTZjlzNnF3d21fbmIzbUM3SUY5VUN2blAxR1BvS2ZhOG9Vdw?oc=5)
 
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-09-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[Reporte Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSV9BWGx5T0p5Y3ZSUFFDTmd1b2dnaFY4UkF3NnA1b3RFZHctT1kza3ZocFVlSG5mcUp5TlhZUFJ0RnNnWUpKSHA1eVhEZTVseExhcUZXLVZ2MUUwME4tWFBTZjlzNnF3d21fbmIzbUM3SUY5VUN2blAxR1BvS2ZhOG9Vdw?oc=5)
 
