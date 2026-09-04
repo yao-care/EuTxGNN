@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,45 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
+
+2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
+
+---
+
+### [Fettleber: Warum Abnehmen nicht mit jeder Diät gleich wirkt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQaURMd3hRNjAtdzlfVllDNlZ6LVFTY3JiWURmUVpNZWpIV0J5ZUd1YXctT2NIREVseU56dTNoemN1UWtXdTZBMTVkaERHdGxncWh5eElIYWdrMEMzeEx4MGVCODZIcndjMGJ2Z3RZNWdiQXE5TldUT2M1akxTWmN6NjczWS1GQ00zZ3ViaDRoQ3hSVWhTbkVaRmg4MjJXVFRvXzM0bEZGamdtcWhzTmp2ODloQ05FZlNPRkFKR3BTT01TTEtNcUc1bmtjbUxLUk0?oc=5)
+
+2026-09-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMizwFBVV95cUxQaURMd3hRNjAtdzlfVllDNlZ6LVFTY3JiWURmUVpNZWpIV0J5ZUd1YXctT2NIREVseU56dTNoemN1UWtXdTZBMTVkaERHdGxncWh5eElIYWdrMEMzeEx4MGVCODZIcndjMGJ2Z3RZNWdiQXE5TldUT2M1akxTWmN6NjczWS1GQ00zZ3ViaDRoQ3hSVWhTbkVaRmg4MjJXVFRvXzM0bEZGamdtcWhzTmp2ODloQ05FZlNPRkFKR3BTT01TTEtNcUc1bmtjbUxLUk0?oc=5)
+
+---
+
+### [Adipositas: KI-Modell sagt Abnehm-Erfolg anhand von Darmbakterien voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
+
+---
 
 ### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
 
 ---
 
-### [La inteligencia artificial puede ayudar a diagnosticar la migraña, pero el nuevo modelo va más allá: también identifica subgrupos de pacientes con características diferentes - El Economista](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOUHc4TkVhMFpBbEVDaUFjaWJIM1NOYTAzM05XYUpZem9ZMFctVXMyYWQ3MnZuM1BaUjA1N3JsOExvRTFrNHRHVDNXMGJfRzVIWTE2cm9xejNZV25jSUtNcDBVbjhIY2EtbENJUldsVGxLczlhVTJLQXE5SHd5SEEtWGktb09EMlljLU5WWXczS2dxaUY1OWROMHVQUENnNFlEQzUzTE10UjRJcDVWeXh5aVJOSldQWkRrYWhaNkU2a1pkY3FaSl9XUUdzZ3JYMDJVcFZrUXpFUmpHNzJzSTA3OUp6OXNkSkRoOGpSeUE0bThNUGtkX2pYRXlPdFVaWjNDam5mSl9vdUNqZW9DVDNsT20xTDVGd0pCZ25ja3pjRUhSTEhVd2lhdjJSX0xFbV9LSzVJT1EyZ3duLVVIcUZqUzBHVkdsQXgyN1VJWVRUSXRua2lGUHRxTGF1MU5sSzd4UXpFTGluM21zRTJNdlR4OUVoQdIB3gJBVV95cUxQa3d2MnBnMTBuRVk2VjNfUVJoNXY0a0dlOEhzSFo0djRDRVhoTmxUS3dCbVRTTjJ6WExJUVE2Unl5TVhYMTBrQm1XS21Tb19pYkw0R294ZmhOdUszRW5JLTV2NkF3OHdqdmtiWVJuRjBPWDBoTWhjZDVvcks2VnZIdERrSmg5dGhndnhkQ3RTX0ItRC1VQWpkcGYzRWdaQjR5UDVuQTFkNkVyUDh1MzZrZ1Q4dUZ3XzVFcHZrTGdwTEc3OG0wR2JEQlZLQlFDWHFsZjdWM05zUGxNRjhRdi1Ha1hQYzBIamJYUzJ1anR0S1oyOXQ3RVU3R1J3LVNmd2hVNUdEUzg2SUQxbmduY3U3eG5GSVFPbWRxVWVkeU1fWDZFU2dIRzY0TjRTQjAwVXotSlhDX3Q2TzV2bDBKeFVIM3loQ21zbHF4QWU3SG5rVXFQWHJmVjJDaDRfcVlaZw?oc=5)
+### [Farmaci per dimagrire, quali funzionano di più? La nuova classifica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
 
-2026-09-02 <span class="news-indication-tag">migraña</span>
+2026-09-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOUHc4TkVhMFpBbEVDaUFjaWJIM1NOYTAzM05XYUpZem9ZMFctVXMyYWQ3MnZuM1BaUjA1N3JsOExvRTFrNHRHVDNXMGJfRzVIWTE2cm9xejNZV25jSUtNcDBVbjhIY2EtbENJUldsVGxLczlhVTJLQXE5SHd5SEEtWGktb09EMlljLU5WWXczS2dxaUY1OWROMHVQUENnNFlEQzUzTE10UjRJcDVWeXh5aVJOSldQWkRrYWhaNkU2a1pkY3FaSl9XUUdzZ3JYMDJVcFZrUXpFUmpHNzJzSTA3OUp6OXNkSkRoOGpSeUE0bThNUGtkX2pYRXlPdFVaWjNDam5mSl9vdUNqZW9DVDNsT20xTDVGd0pCZ25ja3pjRUhSTEhVd2lhdjJSX0xFbV9LSzVJT1EyZ3duLVVIcUZqUzBHVkdsQXgyN1VJWVRUSXRua2lGUHRxTGF1MU5sSzd4UXpFTGluM21zRTJNdlR4OUVoQdIB3gJBVV95cUxQa3d2MnBnMTBuRVk2VjNfUVJoNXY0a0dlOEhzSFo0djRDRVhoTmxUS3dCbVRTTjJ6WExJUVE2Unl5TVhYMTBrQm1XS21Tb19pYkw0R294ZmhOdUszRW5JLTV2NkF3OHdqdmtiWVJuRjBPWDBoTWhjZDVvcks2VnZIdERrSmg5dGhndnhkQ3RTX0ItRC1VQWpkcGYzRWdaQjR5UDVuQTFkNkVyUDh1MzZrZ1Q4dUZ3XzVFcHZrTGdwTEc3OG0wR2JEQlZLQlFDWHFsZjdWM05zUGxNRjhRdi1Ha1hQYzBIamJYUzJ1anR0S1oyOXQ3RVU3R1J3LVNmd2hVNUdEUzg2SUQxbmduY3U3eG5GSVFPbWRxVWVkeU1fWDZFU2dIRzY0TjRTQjAwVXotSlhDX3Q2TzV2bDBKeFVIM3loQ21zbHF4QWU3SG5rVXFQWHJmVjJDaDRfcVlaZw?oc=5)
-
----
-
-### [Adipositas: KI-Modell prognostiziert Therapieerfolg mit 89,8% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
-
-2026-09-02 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
-
----
-
-### [Obesidad canina: el problema de salud que se agrava en verano](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVJvaHZ6NTFJQWpPWmk2YmRtakUzcTFJRlB1SFZjZE8wc2hERzQzMEZRZUFONVFiazdEWjh4aXo1Vnl4VGZONGJEa2o3M2JXMy1XSi1BdGxxS2F1ZlJDWWNtN1BBdF8xSDRKcWxEcDJVRWlqSGZFcU5YUVZDNnNVekl6eU1DbnFnQnNfLTBFYWZscDNobHZVWTZhQm11TmxFQXlndEFpQWZQTWd2Qzd3Mg?oc=5)
-
-2026-09-01 <span class="news-indication-tag">obesidad</span>
-
-來源：[Interempresas.net](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVJvaHZ6NTFJQWpPWmk2YmRtakUzcTFJRlB1SFZjZE8wc2hERzQzMEZRZUFONVFiazdEWjh4aXo1Vnl4VGZONGJEa2o3M2JXMy1XSi1BdGxxS2F1ZlJDWWNtN1BBdF8xSDRKcWxEcDJVRWlqSGZFcU5YUVZDNnNVekl6eU1DbnFnQnNfLTBFYWZscDNobHZVWTZhQm11TmxFQXlndEFpQWZQTWd2Qzd3Mg?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
 
 ---
 

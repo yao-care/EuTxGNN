@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
+
+---
+
+### [Running can be good for osteoarthritis, says study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
+
+2026-09-03 <span class="news-indication-tag">arthritis</span>
+
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
-### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli - Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
-
-2026-08-31 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
-
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
-
----
-
 ### [CAR-T-Zellen haben rheumatoide Arthritis bei 3 austherapierten Patienten dauerhaft beseitigt - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
 
 2026-08-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
+
+---
+
+### [Kreisrunder Haarausfall: Neue Hoffnung durch ein Arthritis-Mittel](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaldtbUN1TGZsaE9qdDZCRGJZN1JyZTBWTHFFcWlHN3o4aWVsLUlmOVV2RXdJQ01DNHd4aE9zZW9CZGE2dHRiVmExTUkzcGpzWkgwQlFoc1VjRkxMU3RTaUI5NkVqRFd0aFhVRHhaNlpnVDFkeHZqblpmMmt4TENVN0tjSkE3T2RYZHRWRkZDa29yaDQwelFZakdZREZMRm53R2NOZ1J2dUdvNEZuU3h4TnJRQkZEbHlOVlVYeVNKal9ZeXFIN3BINHF3?oc=5)
+
+2026-08-28 <span class="news-indication-tag">arthritis</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaldtbUN1TGZsaE9qdDZCRGJZN1JyZTBWTHFFcWlHN3o4aWVsLUlmOVV2RXdJQ01DNHd4aE9zZW9CZGE2dHRiVmExTUkzcGpzWkgwQlFoc1VjRkxMU3RTaUI5NkVqRFd0aFhVRHhaNlpnVDFkeHZqblpmMmt4TENVN0tjSkE3T2RYZHRWRkZDa29yaDQwelFZakdZREZMRm53R2NOZ1J2dUdvNEZuU3h4TnJRQkZEbHlOVlVYeVNKal9ZeXFIN3BINHF3?oc=5)
 
 ---
 

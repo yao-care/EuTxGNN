@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,53 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
+
+2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
+
+---
+
+### [Fettleber: Warum Abnehmen nicht mit jeder Diät gleich wirkt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQaURMd3hRNjAtdzlfVllDNlZ6LVFTY3JiWURmUVpNZWpIV0J5ZUd1YXctT2NIREVseU56dTNoemN1UWtXdTZBMTVkaERHdGxncWh5eElIYWdrMEMzeEx4MGVCODZIcndjMGJ2Z3RZNWdiQXE5TldUT2M1akxTWmN6NjczWS1GQ00zZ3ViaDRoQ3hSVWhTbkVaRmg4MjJXVFRvXzM0bEZGamdtcWhzTmp2ODloQ05FZlNPRkFKR3BTT01TTEtNcUc1bmtjbUxLUk0?oc=5)
+
+2026-09-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMizwFBVV95cUxQaURMd3hRNjAtdzlfVllDNlZ6LVFTY3JiWURmUVpNZWpIV0J5ZUd1YXctT2NIREVseU56dTNoemN1UWtXdTZBMTVkaERHdGxncWh5eElIYWdrMEMzeEx4MGVCODZIcndjMGJ2Z3RZNWdiQXE5TldUT2M1akxTWmN6NjczWS1GQ00zZ3ViaDRoQ3hSVWhTbkVaRmg4MjJXVFRvXzM0bEZGamdtcWhzTmp2ODloQ05FZlNPRkFKR3BTT01TTEtNcUc1bmtjbUxLUk0?oc=5)
+
+---
+
+### [Adipositas: KI-Modell sagt Abnehm-Erfolg anhand von Darmbakterien voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
+
+---
 
 ### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
 
 ---
 
-### [Adipositas: KI-Modell prognostiziert Therapieerfolg mit 89,8% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
+### [Ictus, il coagulo non c’è più ma il cervello può restare senza sangue](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSThGZUdnbmticENLT3F6MkIzTjkwZC1YQmZXai1qWFNVakRNQkJLSjY4V1VlQ0NxRE1HZG1PV1IwdHUxUUtjVFBDY3Qtd2FwYkpfajl3dUxHekYteDNiUlgtQ0QyVWtxLUVkdzNpbGQ3S0pacFNoMHNYbS1mZ2o4MWVtV2xOMmwzajFYNGFFR3BTdXdITkQxREt4aDlFVHJUWUREamRJYkphUFo4NFI1WG5XN0FVVXdXYjRZbEJEak9fLTg2UHc?oc=5)
 
-2026-09-02 <span class="news-indication-tag">Adipositas</span>
+2026-09-02 <span class="news-indication-tag">ictus</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSThGZUdnbmticENLT3F6MkIzTjkwZC1YQmZXai1qWFNVakRNQkJLSjY4V1VlQ0NxRE1HZG1PV1IwdHUxUUtjVFBDY3Qtd2FwYkpfajl3dUxHekYteDNiUlgtQ0QyVWtxLUVkdzNpbGQ3S0pacFNoMHNYbS1mZ2o4MWVtV2xOMmwzajFYNGFFR3BTdXdITkQxREt4aDlFVHJUWUREamRJYkphUFo4NFI1WG5XN0FVVXdXYjRZbEJEak9fLTg2UHc?oc=5)
 
 ---
 
-### [Obesidad canina: el problema de salud que se agrava en verano](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVJvaHZ6NTFJQWpPWmk2YmRtakUzcTFJRlB1SFZjZE8wc2hERzQzMEZRZUFONVFiazdEWjh4aXo1Vnl4VGZONGJEa2o3M2JXMy1XSi1BdGxxS2F1ZlJDWWNtN1BBdF8xSDRKcWxEcDJVRWlqSGZFcU5YUVZDNnNVekl6eU1DbnFnQnNfLTBFYWZscDNobHZVWTZhQm11TmxFQXlndEFpQWZQTWd2Qzd3Mg?oc=5)
+### [Farmaci per dimagrire, quali funzionano di più? La nuova classifica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
 
-2026-09-01 <span class="news-indication-tag">obesidad</span>
+2026-09-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Interempresas.net](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVJvaHZ6NTFJQWpPWmk2YmRtakUzcTFJRlB1SFZjZE8wc2hERzQzMEZRZUFONVFiazdEWjh4aXo1Vnl4VGZONGJEa2o3M2JXMy1XSi1BdGxxS2F1ZlJDWWNtN1BBdF8xSDRKcWxEcDJVRWlqSGZFcU5YUVZDNnNVekl6eU1DbnFnQnNfLTBFYWZscDNobHZVWTZhQm11TmxFQXlndEFpQWZQTWd2Qzd3Mg?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXozdTVFTEppam9DRkJLR01KeHpWTkVLM2dvUHZDV1BvU1JKdmhoNHIxenpsOU9LVlZkS05MQmpJR1hVTlVrbjJqcDhMRWZUaFF6aW5QVEhNbGRVUVBkR1QzSk9ubF9NbWN5Zjk2Y2tpdVE3NGlZNFB6bWlZYm1uV2NVdDJ4RTg0VXo0ZW1pcDhwQVJiLXdFOTROQlAyZGpOcEZaTF96dEVUeXpNekZzcFNMOU9tN3RtNE5xVzdZODZKRVE?oc=5)
 
 ---
 
@@ -88,7 +112,7 @@ permalink: /news/orlistat/
 
 ### [Atorvastatin reduces major cardiovascular events but misses disability-free survival goal](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 
-2026-08-29 <span class="news-indication-tag">stroke</span>
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 

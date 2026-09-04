@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Un fármaco contra la diabetes reduce el riesgo de complicaciones tras una TAVI - PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
+
+來源：[PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
+
+---
 
 ### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFdoWW1YU2xZMXRMZ3JYQlR3M2xaS01Yd3lKVXFpOVJER1JWQWlYSkg4QzJpNmw3UlBreExSWkZ3TV9Udkl6ZjBJMG4ydEUyOGdCRUF1b2M0N1owU0daOVROem1wX2dTdnJFQ1lUWmcxRzI2UWhrNzBac3BxVHktLVR1RnZWMUZUd0NZZm00c2V0c2I5bVVZM1Zua1VyTzJnOVRwdTg4dUVGTkpldmN5X0hjZmRrdFZtdV9FYlRBZC1CYXpMZW05UQ?oc=5)
 
@@ -62,35 +70,19 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [The six most important things you can do today to stop heart failure](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">heart failure</span>
 
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 ---
 
-### [Un medicamento contra la diabetes muestra un beneficio inesperado tras el implante de una válvula cardíaca: mejora el pronóstico más allá de la función del corazón - El Economista](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
+### [Running can be good for osteoarthritis, says study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
 
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
+2026-09-03 <span class="news-indication-tag">arthritis</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
-
----
-
-### [Eating dinner too late is wrecking your gut, heart and brain health](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NOMFNOWmFZUkN0MzBEUC1LNjBmVWFXeVViamZXeWJpLVJiQnNsd0ozMUxYbWtmenZVdTJLWkEybTR5THNza0NVVzdpQkxhYmE4QnlaWWtJVmhrcXlxSDh5OWZZQUVpUW9BTWd1UUJGRm9tc0V4Sm94Rnc2UFNoQzlnWmxZZVBzNVdqLWFURTBwWWhaY0RocUR1UDY1OGpnYUxHZEdtaHRFeDJKRTBOdA?oc=5)
-
-2026-09-02 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NOMFNOWmFZUkN0MzBEUC1LNjBmVWFXeVViamZXeWJpLVJiQnNsd0ozMUxYbWtmenZVdTJLWkEybTR5THNza0NVVzdpQkxhYmE4QnlaWWtJVmhrcXlxSDh5OWZZQUVpUW9BTWd1UUJGRm9tc0V4Sm94Rnc2UFNoQzlnWmxZZVBzNVdqLWFURTBwWWhaY0RocUR1UDY1OGpnYUxHZEdtaHRFeDJKRTBOdA?oc=5)
-
----
-
-### [79% of Young Adults Show Signs of Cardiovascular, Kidney, Metabolic Issues](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
-
-2026-09-01 <span class="news-indication-tag">heart disease</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
 
 ---
 
@@ -110,19 +102,19 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [Upadacitinib: una pillola per l’artrite fa ricrescere i capelli - Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
-
-2026-08-31 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
-
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiogFBVV95cUxON05QS3J4LUI1anhfb2pWZzl6RUR5Y0VIekMwMmVmS3pneW1TWWtsQklMdzRpVEFOb1BSZEg2elFKM0JJZEFjMkpaN0JvYzFab2VLbGNENVNQakdWdm81UVVUVGRYNmNjblFKUVBXdjJDem5DT3dPT2pqc0k5eXlJNlNmQ2VTMXZ0OXlBX1BKZm9Eby1ac184UVFwRVhpN0RYMkE?oc=5)
-
----
-
 ### [CAR-T-Zellen haben rheumatoide Arthritis bei 3 austherapierten Patienten dauerhaft beseitigt - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
 
 2026-08-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ21ac2xJZnVIV2NmY3h2bzdYamVMX0REV0JncW03QUZyaHhzcjczUUJoY1JaQlRleUthcWFXR2l0R0JLeFVEanM4RHlYcWxLUEF5UFg0c2xJOFQ3U2FHQThOTEpVZGZWY09ienR3MWQ5dnFVakFmNHFBOGZ4Nm5USWdUTjlQX29qTlVYZTl4QVJEeW8zMjdQbWp2MHIwTlBaYXB4TjUyUC1fUG5wbDZncEFBMmJXQnAtVXc0ajJIcjNSQ2NERmJKaWhBRQ?oc=5)
+
+---
+
+### [Kreisrunder Haarausfall: Neue Hoffnung durch ein Arthritis-Mittel](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaldtbUN1TGZsaE9qdDZCRGJZN1JyZTBWTHFFcWlHN3o4aWVsLUlmOVV2RXdJQ01DNHd4aE9zZW9CZGE2dHRiVmExTUkzcGpzWkgwQlFoc1VjRkxMU3RTaUI5NkVqRFd0aFhVRHhaNlpnVDFkeHZqblpmMmt4TENVN0tjSkE3T2RYZHRWRkZDa29yaDQwelFZakdZREZMRm53R2NOZ1J2dUdvNEZuU3h4TnJRQkZEbHlOVlVYeVNKal9ZeXFIN3BINHF3?oc=5)
+
+2026-08-28 <span class="news-indication-tag">arthritis</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaldtbUN1TGZsaE9qdDZCRGJZN1JyZTBWTHFFcWlHN3o4aWVsLUlmOVV2RXdJQ01DNHd4aE9zZW9CZGE2dHRiVmExTUkzcGpzWkgwQlFoc1VjRkxMU3RTaUI5NkVqRFd0aFhVRHhaNlpnVDFkeHZqblpmMmt4TENVN0tjSkE3T2RYZHRWRkZDa29yaDQwelFZakdZREZMRm53R2NOZ1J2dUdvNEZuU3h4TnJRQkZEbHlOVlVYeVNKal9ZeXFIN3BINHF3?oc=5)
 
 ---
 

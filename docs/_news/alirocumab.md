@@ -56,7 +56,7 @@ permalink: /news/alirocumab/
 
 ### [Jeder zweite ist krank, ohne es zu wissen: Fachleute fordern neue Nieren-Checks für Herzschwäche-Patienten - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3NQVHhDajJiRV85WWtMRWdGNGhxX04xa0dld2VwM0xSYlJSTXBOckJRSHQtdFA5d05KZlUzQzg1Q2V0MmtJc25IbzdLRjZxQS1yTTVwb1pqY0hXUEg5WHNuUXR4MFJxVVNwdWxHclA4bEJqc3RiXzJ4NzNQVzV1RW53eEh5dm1ZWnJaaGRoTk5iQzBEYXdVc0ZhT3BsTjRDdUxKRnRWTlBMMTBBM3l1S2xoblpuZUxhNW0yYnlnaGxMZzRVbDRDQS10LUpoRGNI?oc=5)
 
-2026-09-03 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-09-03 <span class="news-indication-tag">CKD</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3NQVHhDajJiRV85WWtMRWdGNGhxX04xa0dld2VwM0xSYlJSTXBOckJRSHQtdFA5d05KZlUzQzg1Q2V0MmtJc25IbzdLRjZxQS1yTTVwb1pqY0hXUEg5WHNuUXR4MFJxVVNwdWxHclA4bEJqc3RiXzJ4NzNQVzV1RW53eEh5dm1ZWnJaaGRoTk5iQzBEYXdVc0ZhT3BsTjRDdUxKRnRWTlBMMTBBM3l1S2xoblpuZUxhNW0yYnlnaGxMZzRVbDRDQS10LUpoRGNI?oc=5)
 

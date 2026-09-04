@@ -62,17 +62,17 @@ permalink: /news/opicapone/
 
 ---
 
-### [Major update for anyone taking Atorvastatin and Simvastatin in UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
-2026-09-01 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-31 <span class="news-indication-tag">dementia</span>
 
-來源：[Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
 
 ---
 
 ### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
 
-2026-08-28 <span class="news-indication-tag">dementia</span>
+2026-08-28 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
 

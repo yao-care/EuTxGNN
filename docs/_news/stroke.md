@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "accident vasculaire cérébral（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "accident vasculaire cérébral（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# accident vasculaire cérébral（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="accident vasculaire cérébral（stroke） 有什麼相關新聞？">
-<strong>accident vasculaire cérébral（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「accident vasculaire cérébral」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Ictus, il coagulo non c’è più ma il cervello può restare senza sangue](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSThGZUdnbmticENLT3F6MkIzTjkwZC1YQmZXai1qWFNVakRNQkJLSjY4V1VlQ0NxRE1HZG1PV1IwdHUxUUtjVFBDY3Qtd2FwYkpfajl3dUxHekYteDNiUlgtQ0QyVWtxLUVkdzNpbGQ3S0pacFNoMHNYbS1mZ2o4MWVtV2xOMmwzajFYNGFFR3BTdXdITkQxREt4aDlFVHJUWUREamRJYkphUFo4NFI1WG5XN0FVVXdXYjRZbEJEak9fLTg2UHc?oc=5)
+
+2026-09-02
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSThGZUdnbmticENLT3F6MkIzTjkwZC1YQmZXai1qWFNVakRNQkJLSjY4V1VlQ0NxRE1HZG1PV1IwdHUxUUtjVFBDY3Qtd2FwYkpfajl3dUxHekYteDNiUlgtQ0QyVWtxLUVkdzNpbGQ3S0pacFNoMHNYbS1mZ2o4MWVtV2xOMmwzajFYNGFFR3BTdXdITkQxREt4aDlFVHJUWUREamRJYkphUFo4NFI1WG5XN0FVVXdXYjRZbEJEak9fLTg2UHc?oc=5)
+
+---
 
 ### [Atorvastatin reduces major cardiovascular events but misses disability-free survival goal](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 

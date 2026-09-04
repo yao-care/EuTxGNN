@@ -54,17 +54,17 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（5 則）
 
-### [Major update for anyone taking Atorvastatin and Simvastatin in UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+### [Ictus, il coagulo non c’è più ma il cervello può restare senza sangue](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSThGZUdnbmticENLT3F6MkIzTjkwZC1YQmZXai1qWFNVakRNQkJLSjY4V1VlQ0NxRE1HZG1PV1IwdHUxUUtjVFBDY3Qtd2FwYkpfajl3dUxHekYteDNiUlgtQ0QyVWtxLUVkdzNpbGQ3S0pacFNoMHNYbS1mZ2o4MWVtV2xOMmwzajFYNGFFR3BTdXdITkQxREt4aDlFVHJUWUREamRJYkphUFo4NFI1WG5XN0FVVXdXYjRZbEJEak9fLTg2UHc?oc=5)
 
-2026-09-01 <span class="news-drug-tag">Simvastatin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-09-02 <span class="news-indication-tag">ictus</span>
 
-來源：[Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1YVjNGTm9WZXpOTVBfS01jU0hZa1MzdVVTWHdDRnIyMTRNeDBIczAwajZQVW15UmpTZ1RyVVN1aG4xSW1GTkVwTkNxVWxCZ19NWUgyYkpyRUpnUkt1NkkxbmV4bmJFNVFTM0JaSndULTJzcXowblhwZ1lYN00zdmJJVUU5WDhUdVRQQTNB0gGTAUFVX3lxTE41akdVWnFMZVFFRXNCSjQ2VENpRlNFMmplMDl5SnVPUHhhZF9HSHNzSTQ5ejFGNHhneHVxeUVZOW1UM1ZVRzhoNVB2TGswMTRfU2V6dlZVcXIwQktpNHdqdTl0c001X2FFVHFkd1VkSXNiXy0zMFNqZURqZDZib3FJYWI5b3pTam83RFRFUHU2T1djNA?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSThGZUdnbmticENLT3F6MkIzTjkwZC1YQmZXai1qWFNVakRNQkJLSjY4V1VlQ0NxRE1HZG1PV1IwdHUxUUtjVFBDY3Qtd2FwYkpfajl3dUxHekYteDNiUlgtQ0QyVWtxLUVkdzNpbGQ3S0pacFNoMHNYbS1mZ2o4MWVtV2xOMmwzajFYNGFFR3BTdXdITkQxREt4aDlFVHJUWUREamRJYkphUFo4NFI1WG5XN0FVVXdXYjRZbEJEak9fLTg2UHc?oc=5)
 
 ---
 
 ### [Atorvastatin reduces major cardiovascular events but misses disability-free survival goal](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 
-2026-08-29 <span class="news-indication-tag">stroke</span>
+2026-08-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUdaamduU0kyX0F5b0xjMzgycHNWSjBmdEZGbEdBaHdSVllMakV0RUc2MnZzUUZVTDVsSzBqU2hnQUYtVjBxWEFiRG9HWjdaMmozck5wV0hZdU5UTkZXX3ZFRDRVRUVYbnhyMjIyMWtSeU0xVC0za1dGRFREdnVtRElrUXd5YmktQnJYRjE3QmNqZWxCaGNYNXVYY0RVMVU2Y05ld3VBN25qSVBUdzIwaENfaUlaT3g5VTcxOV9ZcmU3T21yU3NrT0l5OGxKazVoeEtOSkItZWpCS3NtbmMyLTFXRllvNGxXcnR5OWRqd05OdXBTTENvcUU5M2RkcUZfNUo1NlBVcw?oc=5)
 

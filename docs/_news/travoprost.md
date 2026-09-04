@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="Travoprost 有什麼相關新聞？">
-<strong>Travoprost</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Travoprost</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,21 @@ permalink: /news/travoprost/
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [The six most important things you can do today to stop heart failure](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+### [Un fármaco contra la diabetes reduce el riesgo de complicaciones tras una TAVI - PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
+
+來源：[PR Noticias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUY9IBswFBVV95cUxNVW43WWktLW9PYy1sWEs1cmRsRTB4d3BnUHFwUXVaaWhRemZkM19BMjB0MUdyeVZtdmlQQ0hRZmoycmFraWRQSUVIRlptdHdpZlQ3VGZadkw2NENHLVRKNVNXekZDWnlTWC13X2YtOEJLbzduVGhxZzgzcG9RYXJDZkRpTDBfYnBpZHZhdUxZblItVXNmVi1yQ1pTTlRJbmhQU2lJUUR5V3UtLXJrZ2o2aTBUYw?oc=5)
+
+---
+
+### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">heart failure</span>
 
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
-
----
-
-### [Un medicamento contra la diabetes muestra un beneficio inesperado tras el implante de una válvula cardíaca: mejora el pronóstico más allá de la función del corazón - El Economista](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
-
----
-
-### [Eating dinner too late is wrecking your gut, heart and brain health](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NOMFNOWmFZUkN0MzBEUC1LNjBmVWFXeVViamZXeWJpLVJiQnNsd0ozMUxYbWtmenZVdTJLWkEybTR5THNza0NVVzdpQkxhYmE4QnlaWWtJVmhrcXlxSDh5OWZZQUVpUW9BTWd1UUJGRm9tc0V4Sm94Rnc2UFNoQzlnWmxZZVBzNVdqLWFURTBwWWhaY0RocUR1UDY1OGpnYUxHZEdtaHRFeDJKRTBOdA?oc=5)
-
-2026-09-02 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NOMFNOWmFZUkN0MzBEUC1LNjBmVWFXeVViamZXeWJpLVJiQnNsd0ozMUxYbWtmenZVdTJLWkEybTR5THNza0NVVzdpQkxhYmE4QnlaWWtJVmhrcXlxSDh5OWZZQUVpUW9BTWd1UUJGRm9tc0V4Sm94Rnc2UFNoQzlnWmxZZVBzNVdqLWFURTBwWWhaY0RocUR1UDY1OGpnYUxHZEdtaHRFeDJKRTBOdA?oc=5)
-
----
-
-### [79% of Young Adults Show Signs of Cardiovascular, Kidney, Metabolic Issues](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
-
-2026-09-01 <span class="news-indication-tag">heart disease</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRi1JaHpHSlY4QkxkQzRQOEJkUHcxbmNLRGhqaEVNR2ozci1icHRDbU1FMlRKcE4tWEptVGNCUU1fNWlGVGotcmkwTkluRXNOWDlXRnN1TFpkeVNQWkk4R1pOVnNjV0ZyT1VhX0xLcnJDLUMzSnlieFRYdFVMUU1mNWpIbG5BMXhUSEVHRkwzQ1RzbjZhNmx1STVZSHhVTjF2bUJR?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 ---
 
