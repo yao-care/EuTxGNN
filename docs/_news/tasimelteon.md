@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Ketamina e depressione bipolare resistente, quattro infusioni riducono i sintomi in due settimane](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeTlFckN3dGRFdFhtaHFicGExSjk1dXNadnVwU3RqOWU0T3puR0x0anFXd2hFX2lzX19OTVk1VURhZFJqVFZPN3ExeDZOd1VYemFJVzg3R0hwR1ZCX0FWNUFsT29SOE9YSUctd1laUEpxcWdCWVZOXzZUWkFnZTdqY3hsWFE4c3NkVnllRkF4Z1FSMEQ4U3pPX1MxNW9VMXJyOE53ZWJzZTBvZUR0Mk1BVHdrakszRzFzSjVVUmVkbDAySTNEeDJ2Mk4tWW9iVS1qcnZEa2NJSzhXUzM2TnotSnRYZWYxb2dsdXV5Uw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">depression</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeTlFckN3dGRFdFhtaHFicGExSjk1dXNadnVwU3RqOWU0T3puR0x0anFXd2hFX2lzX19OTVk1VURhZFJqVFZPN3ExeDZOd1VYemFJVzg3R0hwR1ZCX0FWNUFsT29SOE9YSUctd1laUEpxcWdCWVZOXzZUWkFnZTdqY3hsWFE4c3NkVnllRkF4Z1FSMEQ4U3pPX1MxNW9VMXJyOE53ZWJzZTBvZUR0Mk1BVHdrakszRzFzSjVVUmVkbDAySTNEeDJ2Mk4tWW9iVS1qcnZEa2NJSzhXUzM2TnotSnRYZWYxb2dsdXV5Uw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Depressione, salvare le staminali del cervello può proteggere memoria e umore. Cosa sappiamo sull’iperico](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHJEZmpaa3lqYWFRRE5fY3NvRThUemo4YVp2QjBzTDVBU1NLRzgza04xVWU2dGIyamtlZXEwRnFFNnFSZDg5M09GSDN6QnZNbERfa0xrRVc5TWNLckxsWHVReWFNeHFTOTR5NzU2ZDBzYW9LVGNDWjVTbXdpcW5QWjVONEdDOGUzYkIwOVlHSzF0T2ZVZmV1U2E0Z0l6c0tCT2g0Um55RVVpcXVFdnZiWGZyNDRETzg5bVVGTlNNa0VURzdVb3pZZUJUOU5hUHJoWE9uWGpJbERYR2ppMHROMEVRd0IwMnhn?oc=5)
 

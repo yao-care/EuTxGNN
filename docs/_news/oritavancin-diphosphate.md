@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/oritavancin-diphosphate/
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Asma infantil: cómo evitar un rebrote al inicio del curso escolar](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1LXJUNE5TZTh4bnFDU2lKWnBfSzliY0JuWVNlTllkeVhqTjQzQ1lYNUZCX1JwTEp1ZUViM2FlSmsxTWlWZmJOQnJWa2FabjVsQWNDeXgzZ0ZCcmZJWmdmQ3VMRTFta2xtakFScWNid284a0xEbmJLZFV1ajJOeDJ2b3B0RDJ5SXBJWEwyZ3N1LVJhZl9uOGY0MmptTjBMRzcxbGNaeGx3OG9BTzNB?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/oritavancin-diphosphate/
 
 ---
 
-### [Demuestran el beneficio de las caminatas en el control del asma - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX05Kc1lsenNrWG4xVEFLMG14d3VLaG5QZHhGRGdIbU1aWjJ4NFBpZE11VDBlaVpObGRxczJqS2ZZZHRDUEZzUlprYVZNWl9uYkN0QWxHU3pwWUkxcVh4Q1M2TlRHVXd5SWpRVXpQVXB1QVctM0JibGFmWFBUMks4WWFzSWlKelllbHB4cGhvRzhvSjdpODE3R1pxZFBHc2VyV3JuMUR0cGEwQVluRHVyMXhTVW9rVDZlRkHSAbQBQVVfeXFMT3UwdTZtVWtDXzg4U3ZJSjJsQ0RhcEx2R0E3eWJWSWFRRER5bExRaXN2M3FJcHFwYmRWeWtjTG1vSXJMNjI5Z2pCR0ZQMXRtZllDd0xwLW5ER1ZuamFLVGlRV2xFczFXS2dPb0FSdk1lcEJIN0JDbWdHVU03d0ZKRGdJWG1JUW5BVnFNS0FNeld2Ukd5cVlJUzhRbDlJczkxZ1FLY0d2OURGaXJRX2lyTi1fZFcw?oc=5)
+### [Demuestran el beneficio de las caminatas en el control del asma - IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelYwNkVLemxmUGhnWEhFSWhhZnhLYVhUbjZ4UzY1OWJRdWV0RHQtcUlMcDhpb203d1U5TUI0TnNsdXdQWTBTYW5aNFlna2RRVkM0U0txZ2o3U2xZQUw2SXFPTkprem5qMERPNTRGcC1JUlNBQlNsclR6WGk5S0Fhd0xPOXpvODNieFN1bGpBS1ZfYXJ1RVdkeE1VWDV1d3VBaWtjbUsxNHpUQ1F5SnfSAagBQVVfeXFMTXhlZzlTUVZPVy1LN2phcW5hdXNnOVhYRFhfV0h1d3RKMWhxRGtwVnoxWjBkYVl4ekVUelhHR20zUkJGRWVBWkJTaEFaT1Voekh2c1h1VlNtOEwtekMwZDZ5X2FLVUE4bDFLeFliS3lFX1ZxdEpqYndubFB3cUthX1pKZU1venZtYUhsa01oaC1qZWIyUFJhOHpsMlNkSmlIcEpWVTNnTElN?oc=5)
 
 2026-09-03 <span class="news-indication-tag">asma</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX05Kc1lsenNrWG4xVEFLMG14d3VLaG5QZHhGRGdIbU1aWjJ4NFBpZE11VDBlaVpObGRxczJqS2ZZZHRDUEZzUlprYVZNWl9uYkN0QWxHU3pwWUkxcVh4Q1M2TlRHVXd5SWpRVXpQVXB1QVctM0JibGFmWFBUMks4WWFzSWlKelllbHB4cGhvRzhvSjdpODE3R1pxZFBHc2VyV3JuMUR0cGEwQVluRHVyMXhTVW9rVDZlRkHSAbQBQVVfeXFMT3UwdTZtVWtDXzg4U3ZJSjJsQ0RhcEx2R0E3eWJWSWFRRER5bExRaXN2M3FJcHFwYmRWeWtjTG1vSXJMNjI5Z2pCR0ZQMXRtZllDd0xwLW5ER1ZuamFLVGlRV2xFczFXS2dPb0FSdk1lcEJIN0JDbWdHVU03d0ZKRGdJWG1JUW5BVnFNS0FNeld2Ukd5cVlJUzhRbDlJczkxZ1FLY0d2OURGaXJRX2lyTi1fZFcw?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelYwNkVLemxmUGhnWEhFSWhhZnhLYVhUbjZ4UzY1OWJRdWV0RHQtcUlMcDhpb203d1U5TUI0TnNsdXdQWTBTYW5aNFlna2RRVkM0U0txZ2o3U2xZQUw2SXFPTkprem5qMERPNTRGcC1JUlNBQlNsclR6WGk5S0Fhd0xPOXpvODNieFN1bGpBS1ZfYXJ1RVdkeE1VWDV1d3VBaWtjbUsxNHpUQ1F5SnfSAagBQVVfeXFMTXhlZzlTUVZPVy1LN2phcW5hdXNnOVhYRFhfV0h1d3RKMWhxRGtwVnoxWjBkYVl4ekVUelhHR20zUkJGRWVBWkJTaEFaT1Voekh2c1h1VlNtOEwtekMwZDZ5X2FLVUE4bDFLeFliS3lFX1ZxdEpqYndubFB3cUthX1pKZU1venZtYUhsa01oaC1qZWIyUFJhOHpsMlNkSmlIcEpWVTNnTElN?oc=5)
+
+---
+
+### [Il "colesterolo fantasma" scritto nei geni: ora una sola iniezione all'anno lo abbatte del 97%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ3VZUmo0RE9mVmhvZkMyaHdVVmI2YkR2Q1VZOHBBcmtJd21RYW5FR0NUcV9MVE1rMG5vc1NheV9KdGJ0RElsRTJrU2xfczVrT1hNQ05NdlVLb09FZzRoWVBfenVqbU5tYm4tcmN0OURKVXpFeHFGTVlKSDdwcFYyYkF4MDF4czV5aHpIYjBOMW1qVVRLM2w3MldRckp4d2tEcEtaZ3BISFhnenFhZk1QdUQ3WUFpQ2RkMUY0Z0Mwc2J5TkhlVjVEOHlpNG1Nb2t2SnlRSGxHNGhSMDZ5Q0tUT1hrZXk?oc=5)
+
+2026-09-02 <span class="news-indication-tag">asma</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ3VZUmo0RE9mVmhvZkMyaHdVVmI2YkR2Q1VZOHBBcmtJd21RYW5FR0NUcV9MVE1rMG5vc1NheV9KdGJ0RElsRTJrU2xfczVrT1hNQ05NdlVLb09FZzRoWVBfenVqbU5tYm4tcmN0OURKVXpFeHFGTVlKSDdwcFYyYkF4MDF4czV5aHpIYjBOMW1qVVRLM2w3MldRckp4d2tEcEtaZ3BISFhnenFhZk1QdUQ3WUFpQ2RkMUY0Z0Mwc2J5TkhlVjVEOHlpNG1Nb2t2SnlRSGxHNGhSMDZ5Q0tUT1hrZXk?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/alirocumab/
 
 ---
 
-### [ESC 2026. Arriva la nuova definizione di infarto e le prime linee guida sull’asse cuore-rene: le novità da Monaco - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMExXTjVHNS1qMVNhcTRST0xPQVMwVU0zTDBIY1ZJZDNtdUItNmhVZmxWMWZJS2VCd2lxVFl2bmRrSUZid2ppX24zbWV0NlZkelB3SWZ3cFpleV9acXhnYXdweUJWZ3M5MExlZTA1UXpyTWxlYVktUnJUcjhJUXhMYW84dFAzblMwWFROcnAzXzRVSTF0ZzktWElXNUM4cjl5ZFUxM016QjhKUDl1enpxdVZfekxXeW9tUXg3TDNkdjh4T1JoWF9tZTMzTkQ2RDgydmNTT0dBN2pidHpHZXlseklfNGQyTW9zcDRiMW5PM3pxQ28?oc=5)
+### [Scompenso cardiaco, nuove linee guida ESC: cambia classificazione e approccio terapeutico](https://news.google.com/rss/articles/CBMixAFBVV95cUxNblpHTUpnSlM5MldWNlV6M2g5NExjdU1lWWlnVU01SzdySjBCV09qWEJWTHlibEZTNUlCTUhSM0FuMHN6VkRmOU1mcjNEeHd4LU1FSk5lWkhBUHpXX1h2ZEV2NDJlMzl2dFkzVWRaenJIT2RSd0ZpOGlEUHMyb2pDTDZhVHh2bHFHMEFfQ3JkWGFwcHM4bHRUWDBEQ0lzTTF2MzRjRTBEcTF0UFdvU1RIMUZGbWJkS3lySlVNMWNMZll1eURk?oc=5)
 
-2026-09-02 <span class="news-indication-tag">CKD</span>
+2026-09-03 <span class="news-indication-tag">CKD</span>
 
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMExXTjVHNS1qMVNhcTRST0xPQVMwVU0zTDBIY1ZJZDNtdUItNmhVZmxWMWZJS2VCd2lxVFl2bmRrSUZid2ppX24zbWV0NlZkelB3SWZ3cFpleV9acXhnYXdweUJWZ3M5MExlZTA1UXpyTWxlYVktUnJUcjhJUXhMYW84dFAzblMwWFROcnAzXzRVSTF0ZzktWElXNUM4cjl5ZFUxM016QjhKUDl1enpxdVZfekxXeW9tUXg3TDNkdjh4T1JoWF9tZTMzTkQ2RDgydmNTT0dBN2pidHpHZXlseklfNGQyTW9zcDRiMW5PM3pxQ28?oc=5)
+來源：[doctor33.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxNblpHTUpnSlM5MldWNlV6M2g5NExjdU1lWWlnVU01SzdySjBCV09qWEJWTHlibEZTNUlCTUhSM0FuMHN6VkRmOU1mcjNEeHd4LU1FSk5lWkhBUHpXX1h2ZEV2NDJlMzl2dFkzVWRaenJIT2RSd0ZpOGlEUHMyb2pDTDZhVHh2bHFHMEFfQ3JkWGFwcHM4bHRUWDBEQ0lzTTF2MzRjRTBEcTF0UFdvU1RIMUZGbWJkS3lySlVNMWNMZll1eURk?oc=5)
 
 ---
 

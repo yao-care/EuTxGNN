@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Desarrollan nanopartículas que inducen regeneración de neuronas en modelos de enfermedad de Alzheimer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnczcF9fTGw3bjdCSm5Kb1paVnNtcHFzdzd1dkZ5MGNvNXV5OWJCWFpmeExFQncxOGQzT1c1YzhOTkIyZGRObG5vZmYzQk11ZU5yRE9LWlRHOHc5M2tlNzE1NGtBM1kzQzlmR0hmRDNQZGpkVjB4TC05WEhxV05TZnNBeWhnVUE4WVlsOEItRUJpS3JsT1RyYXBLVElqME1Vcm5UcmJOcFo4NkNTM25jUi1mZklVNDM0WEsyUHdPcVhlNGlIMlhiRnJ2MUhUSkVqanNaSW9PckE0a2hGZzFYU19TTzU0RzktakIxWDNUU0Y?oc=5)
 
 2026-09-03 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnczcF9fTGw3bjdCSm5Kb1paVnNtcHFzdzd1dkZ5MGNvNXV5OWJCWFpmeExFQncxOGQzT1c1YzhOTkIyZGRObG5vZmYzQk11ZU5yRE9LWlRHOHc5M2tlNzE1NGtBM1kzQzlmR0hmRDNQZGpkVjB4TC05WEhxV05TZnNBeWhnVUE4WVlsOEItRUJpS3JsT1RyYXBLVElqME1Vcm5UcmJOcFo4NkNTM25jUi1mZklVNDM0WEsyUHdPcVhlNGlIMlhiRnJ2MUhUSkVqanNaSW9PckE0a2hGZzFYU19TTzU0RzktakIxWDNUU0Y?oc=5)
-
----
-
-### [Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
-
-2026-08-31 <span class="news-indication-tag">dementia</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5)
-
----
-
-### [Scientists pinpoint when women should start HRT to cut dementia risk - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
-
-2026-08-28 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEFYN2JfTTY2LUNROEQxT3V6Rkh2ODhraGhqRlpfVTBRRWd3RGxiQTFBcGRWdmItaU5MY25zcjMxbE5GMnFGTndWVmJfRVBvdWxlVjdWMjZwdTRsX1JBeDJlbGVqR2ZRRTd0STN0dkVXSFBOYldycFpTUTdVRkhROUZZNmVnRjJ0ckU5VExNQ2E5dVdzSmtfZWRzSEI5MzFaWDhkLWQ0RnBhcFFPUDBBMFc0ZFJGRjVYekE4cFdR?oc=5)
 
 ---
 
