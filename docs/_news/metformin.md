@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
 ### [Diagnose Diabetes: Was die Erkrankung heute bedeutet](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkczUkpVQlpmNVVsRXpGa2hBTlM1c1luZmRzcTcySk9sVEpNNVkzSGphdTN6bklCaTkzUmx1Q2IyUmZqM1FsTWpLdHp1Z3Q5b1dnN0p6TTE2a3ZHYlNGQXBjUHprYTlwWHNmV1ppVlRJV2pucWFQU2lOQ3RaSG8tTlhMVVE1cFBLRERTWWJn?oc=5)
 
 2026-09-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[regio-aktuell24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkczUkpVQlpmNVVsRXpGa2hBTlM1c1luZmRzcTcySk9sVEpNNVkzSGphdTN6bklCaTkzUmx1Q2IyUmZqM1FsTWpLdHp1Z3Q5b1dnN0p6TTE2a3ZHYlNGQXBjUHprYTlwWHNmV1ppVlRJV2pucWFQU2lOQ3RaSG8tTlhMVVE1cFBLRERTWWJn?oc=5)
+
+---
+
+### [Con el hígado graso, poca broma - Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RTRFU1h0T0tFc0dESUtkZUhXdXlreTk5T3FlQ3ZUUHlOOHZqa3p3ckw2Tmp3SnpqV1dlODhUQ3hYamtmOVZGb2VzQ09NaHFkNl9hZWlFeGg1Z0hrd1BKMmVRZnBJU2s1YXVJ?oc=5)
+
+2026-09-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RTRFU1h0T0tFc0dESUtkZUhXdXlreTk5T3FlQ3ZUUHlOOHZqa3p3ckw2Tmp3SnpqV1dlODhUQ3hYamtmOVZGb2VzQ09NaHFkNl9hZWlFeGg1Z0hrd1BKMmVRZnBJU2s1YXVJ?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Pharmacist issues urgent warning to millions taking metformin over hidden side-effect - Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUdEYXpOaXBKaXRSaHdIaHY1N1dWZm83czQ2N2NBRG1kZ1FIMDBHR1VlQ0tXb2tnVGt5UEhvcEpMUXk4Z2p0aGh5M2J3T05iVnRjX0xobkFmZHVid1RGb25RU2xxVHVKdmhOZlAtaVRrX01KYlpCMnAtN1FkVVE3VEJJaldyVmRyenZtMHVnam3SAZYBQVVfeXFMTWRBSm9vYkpoYkZvcXdEN0d0enZjNV9LX28yWFo5VUxYb0pEZGNNbFhhMVM5Y2swU3l1ZDZkWk9ybkR0Wmp0T2NOOUtlbl9vTFh3STVJc2lhRG11bXFtQzFGMl9UMTBWZlRNdXROWVF3cjBWMG9fYU5nTTdWYVZITmZ5bUVISjFVWG9aQ0otWm80cmdpYjd3?oc=5)
+### [Pharmacist issues urgent warning to millions taking metformin over hidden side-effect](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUdEYXpOaXBKaXRSaHdIaHY1N1dWZm83czQ2N2NBRG1kZ1FIMDBHR1VlQ0tXb2tnVGt5UEhvcEpMUXk4Z2p0aGh5M2J3T05iVnRjX0xobkFmZHVid1RGb25RU2xxVHVKdmhOZlAtaVRrX01KYlpCMnAtN1FkVVE3VEJJaldyVmRyenZtMHVnam3SAZYBQVVfeXFMTWRBSm9vYkpoYkZvcXdEN0d0enZjNV9LX28yWFo5VUxYb0pEZGNNbFhhMVM5Y2swU3l1ZDZkWk9ybkR0Wmp0T2NOOUtlbl9vTFh3STVJc2lhRG11bXFtQzFGMl9UMTBWZlRNdXROWVF3cjBWMG9fYU5nTTdWYVZITmZ5bUVISjFVWG9aQ0otWm80cmdpYjd3?oc=5)
 
 2026-09-04 <span class="news-drug-tag">Metformin</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUdEYXpOaXBKaXRSaHdIaHY1N1dWZm83czQ2N2NBRG1kZ1FIMDBHR1VlQ0tXb2tnVGt5UEhvcEpMUXk4Z2p0aGh5M2J3T05iVnRjX0xobkFmZHVid1RGb25RU2xxVHVKdmhOZlAtaVRrX01KYlpCMnAtN1FkVVE3VEJJaldyVmRyenZtMHVnam3SAZYBQVVfeXFMTWRBSm9vYkpoYkZvcXdEN0d0enZjNV9LX28yWFo5VUxYb0pEZGNNbFhhMVM5Y2swU3l1ZDZkWk9ybkR0Wmp0T2NOOUtlbl9vTFh3STVJc2lhRG11bXFtQzFGMl9UMTBWZlRNdXROWVF3cjBWMG9fYU5nTTdWYVZITmZ5bUVISjFVWG9aQ0otWm80cmdpYjd3?oc=5)
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUdEYXpOaXBKaXRSaHdIaHY1N1dWZm83czQ2N2NBRG1kZ1FIMDBHR1VlQ0tXb2tnVGt5UEhvcEpMUXk4Z2p0aGh5M2J3T05iVnRjX0xobkFmZHVid1RGb25RU2xxVHVKdmhOZlAtaVRrX01KYlpCMnAtN1FkVVE3VEJJaldyVmRyenZtMHVnam3SAZYBQVVfeXFMTWRBSm9vYkpoYkZvcXdEN0d0enZjNV9LX28yWFo5VUxYb0pEZGNNbFhhMVM5Y2swU3l1ZDZkWk9ybkR0Wmp0T2NOOUtlbl9vTFh3STVJc2lhRG11bXFtQzFGMl9UMTBWZlRNdXROWVF3cjBWMG9fYU5nTTdWYVZITmZ5bUVISjFVWG9aQ0otWm80cmdpYjd3?oc=5)
 
 ---
 
@@ -90,23 +98,7 @@ permalink: /news/metformin/
 
 2026-09-04 <span class="news-indication-tag">diabète</span>
 
-來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
-
----
-
-### [Vivere per mesi col rene di un maiale - Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTFBORUVIRzNoWHJIS3dyb1J1ZThFRVl3b2pBcVRYaXpHekFUWjlKSldkT2N4c1ZjakdJYWw3RnB0Mlg1QVFZUURZeWpDTDlCRTRmc3pIM2lqMjd2LTRoNmpRVUg1LUNCVFB3SkhybjB4czQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">diabete</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTFBORUVIRzNoWHJIS3dyb1J1ZThFRVl3b2pBcVRYaXpHekFUWjlKSldkT2N4c1ZjakdJYWw3RnB0Mlg1QVFZUURZeWpDTDlCRTRmc3pIM2lqMjd2LTRoNmpRVUg1LUNCVFB3SkhybjB4czQ?oc=5)
-
----
-
-### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
-
-2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+來源：[medisite.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
 
 ---
 
@@ -118,11 +110,19 @@ permalink: /news/metformin/
 
 ---
 
-### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+### [Un estudio reveló que una dieta puede reducir la grasa hepática en un 67 % y revertir la prediabetes.](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkRzVGtzMXdOUkdCUGsza3g2VkxJb1JKNGRsbGsyM0hIV2tyaUhYUHBJRk8zX0hrYS00ckROMnh0NEFrYmpBeVdjY1RpTjBXTk9FWEpuOGJaRUxUd1lSSlBBMklicUlZdEFEV2hHVTM4cGliV1ZzSncwS20zNzJnblJHVzZGbmxpNnBaQS1fWlE4MEd3b09HWmkweEw1eEE?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkRzVGtzMXdOUkdCUGsza3g2VkxJb1JKNGRsbGsyM0hIV2tyaUhYUHBJRk8zX0hrYS00ckROMnh0NEFrYmpBeVdjY1RpTjBXTk9FWEpuOGJaRUxUd1lSSlBBMklicUlZdEFEV2hHVTM4cGliV1ZzSncwS20zNzJnblJHVzZGbmxpNnBaQS1fWlE4MEd3b09HWmkweEw1eEE?oc=5)
+
+---
+
+### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
 
 2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
 
 ---
 
@@ -131,14 +131,6 @@ permalink: /news/metformin/
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
-
----
-
-### [Un estudio encierra a 42 personas para descubrir cuál es la mejor dieta: una arrasa sobre las demás, pero tien - Diario AS](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
-
-2026-09-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
 
 ---
 

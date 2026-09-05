@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Kann eine Impfung gegen Gürtelrose das Demenzrisiko mindern?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkhWeVNXZW8tSVpPQkYtQzhseHA0QjRET2ZaLWtzcnJaZTdKTTVkcnZaUnppV0piUmUyZmwwMVBGS3FNNzkwSDdGT21heDYzaG41N2V0SjRUQkxWNlIyWDMwNnd5eUtzRG9pVHBIU3IydV83ZFpGY3B6Rm9FNjZCbmNvbGI1Tmo1V2tydmt6ZDVEZjc5RTIzOGdKcXl5Q19BRGZkeE5uSlFvS2M?oc=5)
-
-2026-09-05 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Telepolis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkhWeVNXZW8tSVpPQkYtQzhseHA0QjRET2ZaLWtzcnJaZTdKTTVkcnZaUnppV0piUmUyZmwwMVBGS3FNNzkwSDdGT21heDYzaG41N2V0SjRUQkxWNlIyWDMwNnd5eUtzRG9pVHBIU3IydV83ZFpGY3B6Rm9FNjZCbmNvbGI1Tmo1V2tydmt6ZDVEZjc5RTIzOGdKcXl5Q19BRGZkeE5uSlFvS2M?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Evolocumab reduce en un 20% el riesgo de muerte en pacientes con alto riesgo de sufrir un primer infarto de miocardio o ictus - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRUktd1d6b3J2Z2JMUmJFTFpWYWhyanVxLVR3ZXBzcEQtSTBrVnVaX0JTQ29CN0hxMGhZYXVRejl6MFlXdi1jRk1xc241Q3dvb0JjanZOWGdXMU9IOEVHdEtKZ1EwcUZFcE50R1lQOXprMTNmUWNDNlhPSnU2TEFvSHpPaU4yazZ2cEdHVGpJRE1lOGhqSmI1MWhTdVJHWjduZVlrYzdPajdfakZTUWxCNXdLWERYWjIxS0VYb01TWlZlbkljdXpSSFU1V1lELV9lRVNUTS16S0lXSnZWaElmY2RR?oc=5)
 
@@ -78,19 +70,19 @@ permalink: /news/telmisartan/
 
 ---
 
+### [7 días en 7 noticias: lo imperdible del 28 de agosto al 3 de septiembre de 2026](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGxOZGpPdGRDUnY3N0NyTFl1SDFXMDBGT0V1Sjd2VWpLcnNtcmZNUGFDckpNYmJFdzUza29uMzhuTmM3X1JSRHpBUjVaN2dmTktzR3E1S20xbDlNM2lvRlN5dTV4RE9lb2FYb3RlZE1JRVRkVjBORE9iUWIyVXJXOUFpS2t4dUdyRlNEeTZyS0RiR0xPQi1hNEg5NEhLX3psTkJ3MHZOWFU2b1Y2ZUZLcmFn?oc=5)
+
+2026-09-04 <span class="news-indication-tag">ictus</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGxOZGpPdGRDUnY3N0NyTFl1SDFXMDBGT0V1Sjd2VWpLcnNtcmZNUGFDckpNYmJFdzUza29uMzhuTmM3X1JSRHpBUjVaN2dmTktzR3E1S20xbDlNM2lvRlN5dTV4RE9lb2FYb3RlZE1JRVRkVjBORE9iUWIyVXJXOUFpS2t4dUdyRlNEeTZyS0RiR0xPQi1hNEg5NEhLX3psTkJ3MHZOWFU2b1Y2ZUZLcmFn?oc=5)
+
+---
+
 ### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 2026-09-04 <span class="news-indication-tag">heart disease</span>
 
 來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
----
-
-### [Zwiebeln senken Blutdruck: Quercetin reduziert Werte um 6 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXRoZ2JOQmhWMDhyNnN6bmZ5X2pBMFF0M2FBN1NTaXY3bmM3clllaVVqeG5NTEtvZVNDNWlPSnZNajBpYk9oalJtdWh4TXNmYTF4TWs2X3hLSzJ4aFNILTNmOGxsRzA5Vnp0OWZGYV9GWC11Zy1mSTRaMWREWGdQN3FsT3VsOEM2R2VPWTNGMDNGNU5NQkhWZ2E4OFRkcUhtcUZBQ2otNkUzU21PQmhF?oc=5)
-
-2026-09-04 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXRoZ2JOQmhWMDhyNnN6bmZ5X2pBMFF0M2FBN1NTaXY3bmM3clllaVVqeG5NTEtvZVNDNWlPSnZNajBpYk9oalJtdWh4TXNmYTF4TWs2X3hLSzJ4aFNILTNmOGxsRzA5Vnp0OWZGYV9GWC11Zy1mSTRaMWREWGdQN3FsT3VsOEM2R2VPWTNGMDNGNU5NQkhWZ2E4OFRkcUhtcUZBQ2otNkUzU21PQmhF?oc=5)
 
 ---
 
@@ -107,14 +99,6 @@ permalink: /news/telmisartan/
 2026-09-03 <span class="news-indication-tag">heart failure</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
-
----
-
-### [5 Processed Foods to Eat Every Week If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
-
-2026-08-30 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。9 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。11 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>9 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>11 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,23 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [Zuccheri, microbiota e obesità: scoperta una relazione nell'intestino](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0xURHpUdHRCVURjOFVLQ3VPSUlhMVhtbHgzM25QQ1lmcmI0ZEdoSl9jaTFCSWJMWWt2ZUk1elFUNmVoaTE3QnlWU2lzM1dzc0Nhdjh3RkFaMzF0OXQwTnM3aFZvTUFzVG1aZ3RQakUzV3NESUd0WXRad0Q0YTNzVFVhVlM5Vjg3cTdGRmVVWHQwUWcxb1U1WEUtRGVJZHVDNDJWN1VnZmZzZk1FRVh2SWYzZzJ6bE5Zemh1VW5Mb000NVQ0aUE?oc=5)
+
+2026-09-05
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0xURHpUdHRCVURjOFVLQ3VPSUlhMVhtbHgzM25QQ1lmcmI0ZEdoSl9jaTFCSWJMWWt2ZUk1elFUNmVoaTE3QnlWU2lzM1dzc0Nhdjh3RkFaMzF0OXQwTnM3aFZvTUFzVG1aZ3RQakUzV3NESUd0WXRad0Q0YTNzVFVhVlM5Vjg3cTdGRmVVWHQwUWcxb1U1WEUtRGVJZHVDNDJWN1VnZmZzZk1FRVh2SWYzZzJ6bE5Zemh1VW5Mb000NVQ0aUE?oc=5)
+
+---
+
+### [Con el hígado graso, poca broma - Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RTRFU1h0T0tFc0dESUtkZUhXdXlreTk5T3FlQ3ZUUHlOOHZqa3p3ckw2Tmp3SnpqV1dlODhUQ3hYamtmOVZGb2VzQ09NaHFkNl9hZWlFeGg1Z0hrd1BKMmVRZnBJU2s1YXVJ?oc=5)
+
+2026-09-05
+
+來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RTRFU1h0T0tFc0dESUtkZUhXdXlreTk5T3FlQ3ZUUHlOOHZqa3p3ckw2Tmp3SnpqV1dlODhUQ3hYamtmOVZGb2VzQ09NaHFkNl9hZWlFeGg1Z0hrd1BKMmVRZnBJU2s1YXVJ?oc=5)
+
+---
 
 ### [Cuando comer deja de ser un placer: la advertencia detrás del fenómeno Ozempic](https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXMxVTR0b19veGozLUhIM2dNUVZMMVJSYzkzWGRjN25pRWc2QVotMHJURzlWV1hzYTNwNUl5V3AtVE5YY3dYMEZiWlpMNng5bEplRXRLLVotcGZzYXdKV19BS2ZRa1Y2dUg3allZcnlKNHoyck42bFMzaE92MjZscTFmSXdNZl9xM1kyZXUyUzdzSHhXa3pScE5YS2xtS2dRQWM4d1VZZFNiazNkOGtWRmFFNDFCS1NmR1dsTkExOTNrWVhtSWlIY2RPaw?oc=5)
 
@@ -54,11 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Los expertos en obesidad reivindican desde Ribeira llevar la ciencia más allá de las grandes ciudades - La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRnVpZlNXeGlBLVNFWEtFa0dUZzlQeWlrWFdzRWoySlRUdzEydXZEZEJjUFRMb0VxMEdHQXNDbU9FLXVMeUtoejBUUlc5RDVHQWFBVFZ2cF9VNmstVWJqNVpyUFBFX29tTnVtR3FOOGJjTWV2Y3dJVjY2djhxVEJld0VsblZtYW04N3VMWFFpZWM0RlF4c3Z1ZW80ZGRLMklhSEV6ZkVHbV9pSDBHU3ZuaWpNRTlaN3BEWFdZSXdNZFd5dE1JRkliSE5ueE9xOTdwRWNneFZsVVloSk5RWWxKVVVvUTBnbUlzR3RCWFFKdTNKbllrN3E4ejdyX2bSAZgCQVVfeXFMTnV1WEo5WDVVV2I1LTNENnBRN1l4cDFPZ2FjcExCMXhCVnhzS005NHJ1WVd0NWlYaWJ1RXhfV0dSVVQ2TVFLS3FJcnVlakNpOHlrQU55RTV6TklVTUZsay11UU9ERmI4dGtqUHZKY2x5bXc2d2Q2TmdWWFBXZkE3LXBoLTV1ZzQyYnJPRG1lRGhjeWE0Z2x3SGU5cUtSQlF2amxUNEpzUmt5ajBSaVI5elhGc2pab09YNU41bi1FemJuaHdDaDFFMVJoczhQelJUMmNyVGJOQl9TUXROaVFUWnhuX2h4MEFlV0JfVU8zTjMxNVMtSmpxZjR3U2M2ZlBHOWM3RDh4RUlKMUFySWJwcDJaeFdJUFRNMQ?oc=5)
+### [Ribeira inaugura su primer gran curso sobre obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGlOYTZZNUhRYkJjX25JSFVfZWs4V3FnS2s1dTVyc2xWT0dfUlBiMnFmUUNtOUJqSHVYQmxBampoY3cxYU9wSDc5Wmkzdkg3U0VBcDhoNThqaE5rSnJJVlpoRl9laFRkX2ZVMjJ5SmREYWdWNWJLUFhKclBSMEZndmRaQWEwSHl3Qk1xNGwybTJHQVJFcnl4WEtWWjg1WGVtVzgwdkRlclM5d2dJbVo1TVh5ZGZEbW12LU1qLWlTbHBueHIwb0w5XzRDWmVGZw?oc=5)
 
 2026-09-04
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRnVpZlNXeGlBLVNFWEtFa0dUZzlQeWlrWFdzRWoySlRUdzEydXZEZEJjUFRMb0VxMEdHQXNDbU9FLXVMeUtoejBUUlc5RDVHQWFBVFZ2cF9VNmstVWJqNVpyUFBFX29tTnVtR3FOOGJjTWV2Y3dJVjY2djhxVEJld0VsblZtYW04N3VMWFFpZWM0RlF4c3Z1ZW80ZGRLMklhSEV6ZkVHbV9pSDBHU3ZuaWpNRTlaN3BEWFdZSXdNZFd5dE1JRkliSE5ueE9xOTdwRWNneFZsVVloSk5RWWxKVVVvUTBnbUlzR3RCWFFKdTNKbllrN3E4ejdyX2bSAZgCQVVfeXFMTnV1WEo5WDVVV2I1LTNENnBRN1l4cDFPZ2FjcExCMXhCVnhzS005NHJ1WVd0NWlYaWJ1RXhfV0dSVVQ2TVFLS3FJcnVlakNpOHlrQU55RTV6TklVTUZsay11UU9ERmI4dGtqUHZKY2x5bXc2d2Q2TmdWWFBXZkE3LXBoLTV1ZzQyYnJPRG1lRGhjeWE0Z2x3SGU5cUtSQlF2amxUNEpzUmt5ajBSaVI5elhGc2pab09YNU41bi1FemJuaHdDaDFFMVJoczhQelJUMmNyVGJOQl9TUXROaVFUWnhuX2h4MEFlV0JfVU8zTjMxNVMtSmpxZjR3U2M2ZlBHOWM3RDh4RUlKMUFySWJwcDJaeFdJUFRNMQ?oc=5)
+來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGlOYTZZNUhRYkJjX25JSFVfZWs4V3FnS2s1dTVyc2xWT0dfUlBiMnFmUUNtOUJqSHVYQmxBampoY3cxYU9wSDc5Wmkzdkg3U0VBcDhoNThqaE5rSnJJVlpoRl9laFRkX2ZVMjJ5SmREYWdWNWJLUFhKclBSMEZndmRaQWEwSHl3Qk1xNGwybTJHQVJFcnl4WEtWWjg1WGVtVzgwdkRlclM5d2dJbVo1TVh5ZGZEbW12LU1qLWlTbHBueHIwb0w5XzRDWmVGZw?oc=5)
 
 ---
 
@@ -70,19 +86,19 @@ permalink: /news/obesity/
 
 ---
 
-### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+### [Los biomarcadores de la obesidad tienen efectos a largo plazo en el sistema inmunitario.](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUTlacTFsTFd6X3BTZkRseHFrTUt3NElZdks4bWh5TWZBZ1E1cmNqcXkwUGdoaExZSEtLbWZpLWk4V2lZSjY3WG1UVGc0dlRKZ1hzSkNRc2Z5Yjh6SncyeWg0UVZUVTZqc1lRdEh1LTNWcVlJcEhDVW9RSDBJNE8wUjhDX2xDZmRqbUQ2bDE3R0JLdw?oc=5)
 
 2026-09-04
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUTlacTFsTFd6X3BTZkRseHFrTUt3NElZdks4bWh5TWZBZ1E1cmNqcXkwUGdoaExZSEtLbWZpLWk4V2lZSjY3WG1UVGc0dlRKZ1hzSkNRc2Z5Yjh6SncyeWg0UVZUVTZqc1lRdEh1LTNWcVlJcEhDVW9RSDBJNE8wUjhDX2xDZmRqbUQ2bDE3R0JLdw?oc=5)
 
 ---
 
-### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
 
 2026-09-04
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Adipositas: KI-Modell prognostiziert Therapieerfolg mit 89,8% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
+### [Adipositas: KI-Modell prognostiziert Therapieerfolg mit 89,8% Genauigkeit](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
 
 2026-09-02
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# enfermedad de Alzheimer（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,13 +44,29 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Nano-ERASER mejora el deterioro cognitivo del Alzheimer en ratones](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjBqeUp0eHlMWlN0eUo4LXcxN2F5OUV6alppRy1zUDF2R2ZXTHhKYTAtYXRKajBkTEJvdjlhQ2tBVTZyRU9hQjZHby1wY2hIWmhfaVNsYmpiMzY0b0QzYmRvYjVITkVTeVlQRVFaSUVVbHVDNF8xS0RzNkZ6UlROYnVuRXJscHoyNHRESWt1QWt3dWNzLWNKUHZ2OUJQMDUya19zMXJKcnpWUQ?oc=5)
+### [Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented - The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
 
 2026-09-05
 
-來源：[diariobitcoin.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjBqeUp0eHlMWlN0eUo4LXcxN2F5OUV6alppRy1zUDF2R2ZXTHhKYTAtYXRKajBkTEJvdjlhQ2tBVTZyRU9hQjZHby1wY2hIWmhfaVNsYmpiMzY0b0QzYmRvYjVITkVTeVlQRVFaSUVVbHVDNF8xS0RzNkZ6UlROYnVuRXJscHoyNHRESWt1QWt3dWNzLWNKUHZ2OUJQMDUya19zMXJKcnpWUQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
+
+---
+
+### [Is food messing with your mood? 4 expert-backed changes to try](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBidENsZzcxLU5VS2Z5ajhHcXoyTnRzWXhKRG94SU5BTkFLX1J1NkhoVWRRUThTMlBwbnRiLVhBNG05a1VXM05vX0tyZ2k2cWRacG51Y1BYLTNwYWNf?oc=5)
+
+2026-09-02
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBidENsZzcxLU5VS2Z5ajhHcXoyTnRzWXhKRG94SU5BTkFLX1J1NkhoVWRRUThTMlBwbnRiLVhBNG05a1VXM05vX0tyZ2k2cWRacG51Y1BYLTNwYWNf?oc=5)
+
+---
+
+### [Families hit by long waits for dementia diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VSmk2OEVQN3FXNXdRT2dDeWNWQktpTThnTURrOG5xQUJLeVZvczB1Q3FXRVg1dlZQeGtsbDVKckUySS12YVFWVFN2MEZXNXNfY19qOFdSbTgwckhh?oc=5)
+
+2026-09-02
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VSmk2OEVQN3FXNXdRT2dDeWNWQktpTThnTURrOG5xQUJLeVZvczB1Q3FXRVg1dlZQeGtsbDVKckUySS12YVFWVFN2MEZXNXNfY19qOFdSbTgwckhh?oc=5)
 
 ---
 

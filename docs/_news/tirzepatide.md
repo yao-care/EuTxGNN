@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [I lost 16st with help of Mounjaro and Wegovy - I have a weight-loss jabs warning - Daily Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQc1FLUW9henA4N054RGZ5ZnI0LUx3SnVleGl0VklkZlVKZDU1d2NwMzV4TEF0b2JlTjc3QTFXMXRoYjdtOGI5c0dTYkZNUmdqUTNwdnJFNUNCQ0tHdVJkTWRJRDdVeFpVWnJWaFBZZHo0OXB1U3lCUFBoOHZvS0pTc0NB0gGHAUFVX3lxTE9CRTBsQ0ZQODhsMWJKOGxId3RGbTNjNTJLdEluTVk1ZWdkSzFLVHdQeUhNZkxVNmVoUWRkR1NyWGhaX1lDQ1JMTGtpSnFESUpHNXM2OWU4Y0tjU0NrV3hMUEZIRDZXNEtPLXIwb1JEb2dTVWtHZDc3bkVDdGR3TFF1Z0lDWnpmTQ?oc=5)
+### [I lost 16st with help of Mounjaro and Wegovy - I have a weight-loss jabs warning](https://news.google.com/rss/articles/CBMiggFBVV95cUxQc1FLUW9henA4N054RGZ5ZnI0LUx3SnVleGl0VklkZlVKZDU1d2NwMzV4TEF0b2JlTjc3QTFXMXRoYjdtOGI5c0dTYkZNUmdqUTNwdnJFNUNCQ0tHdVJkTWRJRDdVeFpVWnJWaFBZZHo0OXB1U3lCUFBoOHZvS0pTc0NB0gGHAUFVX3lxTE9CRTBsQ0ZQODhsMWJKOGxId3RGbTNjNTJLdEluTVk1ZWdkSzFLVHdQeUhNZkxVNmVoUWRkR1NyWGhaX1lDQ1JMTGtpSnFESUpHNXM2OWU4Y0tjU0NrV3hMUEZIRDZXNEtPLXIwb1JEb2dTVWtHZDc3bkVDdGR3TFF1Z0lDWnpmTQ?oc=5)
 
 2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQc1FLUW9henA4N054RGZ5ZnI0LUx3SnVleGl0VklkZlVKZDU1d2NwMzV4TEF0b2JlTjc3QTFXMXRoYjdtOGI5c0dTYkZNUmdqUTNwdnJFNUNCQ0tHdVJkTWRJRDdVeFpVWnJWaFBZZHo0OXB1U3lCUFBoOHZvS0pTc0NB0gGHAUFVX3lxTE9CRTBsQ0ZQODhsMWJKOGxId3RGbTNjNTJLdEluTVk1ZWdkSzFLVHdQeUhNZkxVNmVoUWRkR1NyWGhaX1lDQ1JMTGtpSnFESUpHNXM2OWU4Y0tjU0NrV3hMUEZIRDZXNEtPLXIwb1JEb2dTVWtHZDc3bkVDdGR3TFF1Z0lDWnpmTQ?oc=5)
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMiggFBVV95cUxQc1FLUW9henA4N054RGZ5ZnI0LUx3SnVleGl0VklkZlVKZDU1d2NwMzV4TEF0b2JlTjc3QTFXMXRoYjdtOGI5c0dTYkZNUmdqUTNwdnJFNUNCQ0tHdVJkTWRJRDdVeFpVWnJWaFBZZHo0OXB1U3lCUFBoOHZvS0pTc0NB0gGHAUFVX3lxTE9CRTBsQ0ZQODhsMWJKOGxId3RGbTNjNTJLdEluTVk1ZWdkSzFLVHdQeUhNZkxVNmVoUWRkR1NyWGhaX1lDQ1JMTGtpSnFESUpHNXM2OWU4Y0tjU0NrV3hMUEZIRDZXNEtPLXIwb1JEb2dTVWtHZDc3bkVDdGR3TFF1Z0lDWnpmTQ?oc=5)
+
+---
+
+### [Running can be good for osteoarthritis, says study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
+
+2026-09-03 <span class="news-indication-tag">arthritis</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FZWhWWHo2SW0wOXc5b3VjQUFVSW9ZQUpXSjM1dXlIdGJPM2xNX01WYzF1Vy1ZTV80WkN0NzVYTFR3N0RQU29yNXpEVDVsRWUzOElQay03dDM3QWlu?oc=5)
 
 ---
 
