@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabete（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
+description: "diabete（diabetes mellitus） 的相關健康新聞報導。10 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabete（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>10 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,13 +114,29 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [L’obesità cambia continente: nei Paesi poveri i bambini rischiano di morire di troppo cibo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
+
+2026-09-04
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
+
+---
 
 ### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
 
 2026-09-04
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
+
+---
+
+### [Diabète : le laboratoire Novo Nordisk annonce le retrait de 5 médicaments majeurs du diabète d'ici fin 2026](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
+
+2026-09-04
+
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
 
 ---
 
@@ -140,6 +156,14 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
+### [Risiko für Typ-2-Diabetes abhängig vom Subtyp der Endometriose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
+
+2026-09-03
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
+
+---
+
 ### [Fettleber: Warum Abnehmen nicht mit jeder Diät gleich wirkt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQaURMd3hRNjAtdzlfVllDNlZ6LVFTY3JiWURmUVpNZWpIV0J5ZUd1YXctT2NIREVseU56dTNoemN1UWtXdTZBMTVkaERHdGxncWh5eElIYWdrMEMzeEx4MGVCODZIcndjMGJ2Z3RZNWdiQXE5TldUT2M1akxTWmN6NjczWS1GQ00zZ3ViaDRoQ3hSVWhTbkVaRmg4MjJXVFRvXzM0bEZGamdtcWhzTmp2ODloQ05FZlNPRkFKR3BTT01TTEtNcUc1bmtjbUxLUk0?oc=5)
 
 2026-09-03
@@ -148,19 +172,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Un estudio encierra a 42 personas para descubrir cuál es la mejor dieta: una arrasa sobre las demás, pero tien - Diario AS](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
+### [Un estudio encierra a 42 personas para descubrir cuál es la mejor dieta: una arrasa sobre las demás, pero tien](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
 
 2026-09-03
 
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
-
----
-
-### [Risiko für Typ-2-Diabetes abhängig vom Subtyp der Endometriose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
-
-2026-09-03
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
+來源：[as.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
 
 ---
 
@@ -177,30 +193,6 @@ permalink: /news/diabetes-mellitus/
 2026-09-03
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
-
----
-
-### [El impacto global de la diabetes Tipo 1 en 2049 - Reporte Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSV9BWGx5T0p5Y3ZSUFFDTmd1b2dnaFY4UkF3NnA1b3RFZHctT1kza3ZocFVlSG5mcUp5TlhZUFJ0RnNnWUpKSHA1eVhEZTVseExhcUZXLVZ2MUUwME4tWFBTZjlzNnF3d21fbmIzbUM3SUY5VUN2blAxR1BvS2ZhOG9Vdw?oc=5)
-
-2026-09-02
-
-來源：[Reporte Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSV9BWGx5T0p5Y3ZSUFFDTmd1b2dnaFY4UkF3NnA1b3RFZHctT1kza3ZocFVlSG5mcUp5TlhZUFJ0RnNnWUpKSHA1eVhEZTVseExhcUZXLVZ2MUUwME4tWFBTZjlzNnF3d21fbmIzbUM3SUY5VUN2blAxR1BvS2ZhOG9Vdw?oc=5)
-
----
-
-### [C'est fini : ces 5 médicaments pris par des millions de Français vont disparaître des pharmacies d'ici la fin d'année - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
-
-2026-09-02
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnlFY2ZTR0VqbmRkd0NQX3BvT3RuUlN1X29MUHE0akJoRFpMTmdHVlVfc0w0QkxpMHNEa0wzMTZkN3d4MmFkY3lUenQyUzE2Q1ZicEtrRjdUNjhsWG1qTU9UbTNpRE81SnlUQXBscGwyM0lpc2xPY2E5c2JFYkJGa1RnaFlfYmxvQ3o4VWZjNUpXVnh6N1FwaWhvQU9hRmpwMTliRFhoYmVNUm1wZlYwWFlKUDR5eGFDWEpaOGVMQ1Z2dzJpdUMxdXMxa0dJNmVRN0FQYjVSX0dWNGRhWEQ1blZBUXpYZEtSejdxYmI1eXBDVnp4RHRhSg?oc=5)
-
----
-
-### [GIFT, un probiotico sente il glucosio e produce l’ormone di Ozempic - Futuro Prossimo](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2dfSjR3anpsV2UtWkRMczg5elFCOXlFWktHMS1CTmJUQjhZM25vTTJBVU5BUTBIMU8ycmtDQWhxRGxIZzhOdzd4VnQxMzJ2OUVKb1FrYnpvUHowMjY3eU9CMk5LSnUzaklXM3Q3MGdqOHhaXzRJSFVyYTgzQzlFbUpBa3Z3ei1fUTBmeTVjUlVMWFdoV0dZYld0VVd3ZUtBdE1FajRjRQ?oc=5)
-
-2026-09-02
-
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2dfSjR3anpsV2UtWkRMczg5elFCOXlFWktHMS1CTmJUQjhZM25vTTJBVU5BUTBIMU8ycmtDQWhxRGxIZzhOdzd4VnQxMzJ2OUVKb1FrYnpvUHowMjY3eU9CMk5LSnUzaklXM3Q3MGdqOHhaXzRJSFVyYTgzQzlFbUpBa3Z3ei1fUTBmeTVjUlVMWFdoV0dZYld0VVd3ZUtBdE1FajRjRQ?oc=5)
 
 ---
 

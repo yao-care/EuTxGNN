@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [L’obesità cambia continente: nei Paesi poveri i bambini rischiano di morire di troppo cibo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
+
+---
+
+### [¿El magnesio funciona mejor que la melatonina para dormir?](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTZtY1lMSUZOXzZBWFN3TU9hb0dQZzRxcFdRYzE5VmR2VDV4NDgwOGZfY1NHTlp2Qjd3MGR4UnlZT0VGQlRERWFudkpqZzJjeFpmNlNWNWlmU2MwRElkakhvbjJmTHNmV0dMcXRfX2tPSmlKQllsenRjYWlqdUd3V2ZPcU5lYm4zX3d5cjVJdGxUamEwZVpWU2JBUWJZZ1ZhVEtRdjJqZldROFVxX0RYd1lSVDFCSll0Ny14cXVPc1JkU0c2TkxB?oc=5)
+
+2026-09-04 <span class="news-drug-tag">Melatonin</span>
+
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTZtY1lMSUZOXzZBWFN3TU9hb0dQZzRxcFdRYzE5VmR2VDV4NDgwOGZfY1NHTlp2Qjd3MGR4UnlZT0VGQlRERWFudkpqZzJjeFpmNlNWNWlmU2MwRElkakhvbjJmTHNmV0dMcXRfX2tPSmlKQllsenRjYWlqdUd3V2ZPcU5lYm4zX3d5cjVJdGxUamEwZVpWU2JBUWJZZ1ZhVEtRdjJqZldROFVxX0RYd1lSVDFCSll0Ny14cXVPc1JkU0c2TkxB?oc=5)
+
+---
+
+### [Semaglutide, che sorpresa: il farmaco contro l'obesità allunga (anche) la vita - Il Messaggero](https://news.google.com/rss/articles/CBMipwFBVV95cUxObnJrZ2l5TzhwUmxTMjMxQWVBMXFIMFVOUFExX2FaclJlNUFKbTB4aWlGU1pxVDNKUGVoNmZPRkxubkozV1VPeWRBSndOS3lTSW9ISHFzeldqbFdDSWRtclMtTnRBa244eENidksxa1ZXVWJSdUl6d000NmZZdlV6ZHozVG9DN0xVN3hxUS1kX0Z1U0J2MzRka1hPOWMxaVdfaTF1OXZrTdIBpAFBVV95cUxPVmp3QkV3SS04SjVpS0ZmMHY5RG84bmhmLUc2aDJibHhVd293bHVDMVllSGZaV3ZTelUyNlRPNl90UG93YnF1dGVEdDhPSEgzQnFQdjZSdGoydndpYy1aRTV5bjFrU3NDMnU1TlNDYlI4ZUllTTJqdTkyYXpBY0gzZzNOTkh1RVZ4ZGNraTFUV3Q0NmhJdExwVW95SlMzV2pQRVBUdw?oc=5)
+
+2026-09-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipwFBVV95cUxObnJrZ2l5TzhwUmxTMjMxQWVBMXFIMFVOUFExX2FaclJlNUFKbTB4aWlGU1pxVDNKUGVoNmZPRkxubkozV1VPeWRBSndOS3lTSW9ISHFzeldqbFdDSWRtclMtTnRBa244eENidksxa1ZXVWJSdUl6d000NmZZdlV6ZHozVG9DN0xVN3hxUS1kX0Z1U0J2MzRka1hPOWMxaVdfaTF1OXZrTdIBpAFBVV95cUxPVmp3QkV3SS04SjVpS0ZmMHY5RG84bmhmLUc2aDJibHhVd293bHVDMVllSGZaV3ZTelUyNlRPNl90UG93YnF1dGVEdDhPSEgzQnFQdjZSdGoydndpYy1aRTV5bjFrU3NDMnU1TlNDYlI4ZUllTTJqdTkyYXpBY0gzZzNOTkh1RVZ4ZGNraTFUV3Q0NmhJdExwVW95SlMzV2pQRVBUdw?oc=5)
+
+---
 
 ### [„Adipositas-Paradoxon“ bei Darmkrebs könnte durch Gewichtsverlust vor Diagnose entstehen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDMyMmVuck9jS0h6Z0ZQWERkblNBVUhxRjctSThBRk9pYXE4bTZ2dlQ5WmJxMzQwS0UyMkhjbWYzUnRtN3owSllqNHk5QkRZM1BZU21LLTNrbE1HbFJsa3lLd3l0a0pwWjRobFhLYlA5cnVlV1Q1Yl90dVM5eWg1V09vQVBJbU5IazBfQW9mdmtoR3pZajRqNDhQSEpiWVNOYjUzR1dWX3Rra3c3TXNiM0tfdXFQVUt1RmhTNUVaRnhFNWxmSTR2a0QwVk5lZzV6dWNtdjN5TjNITFR1OGVMTDFkTHJBQUhxS0s0?oc=5)
 
@@ -74,23 +98,7 @@ permalink: /news/melatonin/
 
 2026-09-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
-
----
-
-### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
-
-2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
-
----
-
-### [¿El magnesio funciona mejor que la melatonina para dormir? - The New York Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDFUMVBhOUNhc3pJY3JDbkxnMGVCXzZEM1RSR1FkeWgzQU02ZGdzdUpFbkNwSUJPSm1Sc25VdUZ5YUN0TmhmaTlyRVJhOXBYNFBUaXI4emFvQy1LUWY3LXFmZUc0NlUzT3hsNUhCNGJKUHBzaEJMRHZ6R3BOTzVuakU0bGpzeldnYUE?oc=5)
-
-2026-09-03 <span class="news-drug-tag">Melatonin</span>
-
-來源：[The New York Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDFUMVBhOUNhc3pJY3JDbkxnMGVCXzZEM1RSR1FkeWgzQU02ZGdzdUpFbkNwSUJPSm1Sc25VdUZ5YUN0TmhmaTlyRVJhOXBYNFBUaXI4emFvQy1LUWY3LXFmZUc0NlUzT3hsNUhCNGJKUHBzaEJMRHZ6R3BOTzVuakU0bGpzeldnYUE?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
 
 ---
 
@@ -102,11 +110,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Feeling tired or getting frequent muscle cramps? Here’s what low magnesium levels may signal - The Times of India](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeldKUTVIRzQ4SHBkSnhJeThTUUNVTnE5Z3RKc1lfOWExV2ZVUGZCT19uMXBCU1NmUVBBc2RFNmtPOVdrbmJxelBTVDVUTTR2eWpQams3TDlCS0QxWkZwRktHUVJ4Z1NCbFBXNVk4LWlqelpaYmY2NUJ5MlM3cUVzQ21CY1VwRG9LQ054VmJEbG5RanhsXzJvVkFUcjNQM2k2LXVITDZWVlRYdGFLZUtCdC05QVZKSl9aZU0wV3Jvak1ObGpnbVZDUXFvTHc5R1FoUnozZTRZTER0ZkhrcWlIVXhRMGV1RlZIUk9EYUwyNNIB9wFBVV95cUxOc2ZCVUJIRnN5VjB1U1NSVi03dVB6TUpXYTNKQlo3WUJZaFBiNWFJQzg0ckpxWDhxcG1rNG9hLU5tcS1mNm1GRXVyTGFzdDRzcl9Od1NyQVB1VDluRmt4NW9IeVBDWDFoMUM5Vkh6aHcyLUJxWTIyM2k4VzU3NjlKVTVvck9GTVA1VVlBZEtYRnlVakdNQTJZWjNsNTVfeldCSUEwTE9ydlZ4bWlCVUtlbFZvakhzbTVnQ2FMNXlaMG5Rc1JMM0llYWVyRkx3TjRiN00wTG9pSGtnREdIWFJsRTQtd01VVlQxU2YxNHRQUG9xcThEWXVr?oc=5)
+### [Feeling tired or getting frequent muscle cramps? Here’s what low magnesium levels may signal](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeldKUTVIRzQ4SHBkSnhJeThTUUNVTnE5Z3RKc1lfOWExV2ZVUGZCT19uMXBCU1NmUVBBc2RFNmtPOVdrbmJxelBTVDVUTTR2eWpQams3TDlCS0QxWkZwRktHUVJ4Z1NCbFBXNVk4LWlqelpaYmY2NUJ5MlM3cUVzQ21CY1VwRG9LQ054VmJEbG5RanhsXzJvVkFUcjNQM2k2LXVITDZWVlRYdGFLZUtCdC05QVZKSl9aZU0wV3Jvak1ObGpnbVZDUXFvTHc5R1FoUnozZTRZTER0ZkhrcWlIVXhRMGV1RlZIUk9EYUwyNNIB9wFBVV95cUxOc2ZCVUJIRnN5VjB1U1NSVi03dVB6TUpXYTNKQlo3WUJZaFBiNWFJQzg0ckpxWDhxcG1rNG9hLU5tcS1mNm1GRXVyTGFzdDRzcl9Od1NyQVB1VDluRmt4NW9IeVBDWDFoMUM5Vkh6aHcyLUJxWTIyM2k4VzU3NjlKVTVvck9GTVA1VVlBZEtYRnlVakdNQTJZWjNsNTVfeldCSUEwTE9ydlZ4bWlCVUtlbFZvakhzbTVnQ2FMNXlaMG5Rc1JMM0llYWVyRkx3TjRiN00wTG9pSGtnREdIWFJsRTQtd01VVlQxU2YxNHRQUG9xcThEWXVr?oc=5)
 
 2026-09-03 <span class="news-drug-tag">Melatonin</span>
 
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeldKUTVIRzQ4SHBkSnhJeThTUUNVTnE5Z3RKc1lfOWExV2ZVUGZCT19uMXBCU1NmUVBBc2RFNmtPOVdrbmJxelBTVDVUTTR2eWpQams3TDlCS0QxWkZwRktHUVJ4Z1NCbFBXNVk4LWlqelpaYmY2NUJ5MlM3cUVzQ21CY1VwRG9LQ054VmJEbG5RanhsXzJvVkFUcjNQM2k2LXVITDZWVlRYdGFLZUtCdC05QVZKSl9aZU0wV3Jvak1ObGpnbVZDUXFvTHc5R1FoUnozZTRZTER0ZkhrcWlIVXhRMGV1RlZIUk9EYUwyNNIB9wFBVV95cUxOc2ZCVUJIRnN5VjB1U1NSVi03dVB6TUpXYTNKQlo3WUJZaFBiNWFJQzg0ckpxWDhxcG1rNG9hLU5tcS1mNm1GRXVyTGFzdDRzcl9Od1NyQVB1VDluRmt4NW9IeVBDWDFoMUM5Vkh6aHcyLUJxWTIyM2k4VzU3NjlKVTVvck9GTVA1VVlBZEtYRnlVakdNQTJZWjNsNTVfeldCSUEwTE9ydlZ4bWlCVUtlbFZvakhzbTVnQ2FMNXlaMG5Rc1JMM0llYWVyRkx3TjRiN00wTG9pSGtnREdIWFJsRTQtd01VVlQxU2YxNHRQUG9xcThEWXVr?oc=5)
+來源：[timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeldKUTVIRzQ4SHBkSnhJeThTUUNVTnE5Z3RKc1lfOWExV2ZVUGZCT19uMXBCU1NmUVBBc2RFNmtPOVdrbmJxelBTVDVUTTR2eWpQams3TDlCS0QxWkZwRktHUVJ4Z1NCbFBXNVk4LWlqelpaYmY2NUJ5MlM3cUVzQ21CY1VwRG9LQ054VmJEbG5RanhsXzJvVkFUcjNQM2k2LXVITDZWVlRYdGFLZUtCdC05QVZKSl9aZU0wV3Jvak1ObGpnbVZDUXFvTHc5R1FoUnozZTRZTER0ZkhrcWlIVXhRMGV1RlZIUk9EYUwyNNIB9wFBVV95cUxOc2ZCVUJIRnN5VjB1U1NSVi03dVB6TUpXYTNKQlo3WUJZaFBiNWFJQzg0ckpxWDhxcG1rNG9hLU5tcS1mNm1GRXVyTGFzdDRzcl9Od1NyQVB1VDluRmt4NW9IeVBDWDFoMUM5Vkh6aHcyLUJxWTIyM2k4VzU3NjlKVTVvck9GTVA1VVlBZEtYRnlVakdNQTJZWjNsNTVfeldCSUEwTE9ydlZ4bWlCVUtlbFZvakhzbTVnQ2FMNXlaMG5Rc1JMM0llYWVyRkx3TjRiN00wTG9pSGtnREdIWFJsRTQtd01VVlQxU2YxNHRQUG9xcThEWXVr?oc=5)
 
 ---
 
@@ -118,11 +126,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
 
 2026-09-03 <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
 
 ---
 

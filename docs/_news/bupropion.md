@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [L’obesità cambia continente: nei Paesi poveri i bambini rischiano di morire di troppo cibo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
+
+---
+
+### [Semaglutide, che sorpresa: il farmaco contro l'obesità allunga (anche) la vita - Il Messaggero](https://news.google.com/rss/articles/CBMipwFBVV95cUxObnJrZ2l5TzhwUmxTMjMxQWVBMXFIMFVOUFExX2FaclJlNUFKbTB4aWlGU1pxVDNKUGVoNmZPRkxubkozV1VPeWRBSndOS3lTSW9ISHFzeldqbFdDSWRtclMtTnRBa244eENidksxa1ZXVWJSdUl6d000NmZZdlV6ZHozVG9DN0xVN3hxUS1kX0Z1U0J2MzRka1hPOWMxaVdfaTF1OXZrTdIBpAFBVV95cUxPVmp3QkV3SS04SjVpS0ZmMHY5RG84bmhmLUc2aDJibHhVd293bHVDMVllSGZaV3ZTelUyNlRPNl90UG93YnF1dGVEdDhPSEgzQnFQdjZSdGoydndpYy1aRTV5bjFrU3NDMnU1TlNDYlI4ZUllTTJqdTkyYXpBY0gzZzNOTkh1RVZ4ZGNraTFUV3Q0NmhJdExwVW95SlMzV2pQRVBUdw?oc=5)
+
+2026-09-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipwFBVV95cUxObnJrZ2l5TzhwUmxTMjMxQWVBMXFIMFVOUFExX2FaclJlNUFKbTB4aWlGU1pxVDNKUGVoNmZPRkxubkozV1VPeWRBSndOS3lTSW9ISHFzeldqbFdDSWRtclMtTnRBa244eENidksxa1ZXVWJSdUl6d000NmZZdlV6ZHozVG9DN0xVN3hxUS1kX0Z1U0J2MzRka1hPOWMxaVdfaTF1OXZrTdIBpAFBVV95cUxPVmp3QkV3SS04SjVpS0ZmMHY5RG84bmhmLUc2aDJibHhVd293bHVDMVllSGZaV3ZTelUyNlRPNl90UG93YnF1dGVEdDhPSEgzQnFQdjZSdGoydndpYy1aRTV5bjFrU3NDMnU1TlNDYlI4ZUllTTJqdTkyYXpBY0gzZzNOTkh1RVZ4ZGNraTFUV3Q0NmhJdExwVW95SlMzV2pQRVBUdw?oc=5)
+
+---
 
 ### [„Adipositas-Paradoxon“ bei Darmkrebs könnte durch Gewichtsverlust vor Diagnose entstehen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDMyMmVuck9jS0h6Z0ZQWERkblNBVUhxRjctSThBRk9pYXE4bTZ2dlQ5WmJxMzQwS0UyMkhjbWYzUnRtN3owSllqNHk5QkRZM1BZU21LLTNrbE1HbFJsa3lLd3l0a0pwWjRobFhLYlA5cnVlV1Q1Yl90dVM5eWg1V09vQVBJbU5IazBfQW9mdmtoR3pZajRqNDhQSEpiWVNOYjUzR1dWX3Rra3c3TXNiM0tfdXFQVUt1RmhTNUVaRnhFNWxmSTR2a0QwVk5lZzV6dWNtdjN5TjNITFR1OGVMTDFkTHJBQUhxS0s0?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/bupropion/
 2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
-
----
-
-### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
-
-2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 ---
 
@@ -94,11 +102,11 @@ permalink: /news/bupropion/
 
 ---
 
-### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
 
 2026-09-03 <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TRmdoa19WTkYxNjJFMG9NVVRGSy1lVE1nTmxmaWt6cGtzZlpzRTZZU2tJUmdRc2pHSFVYOXljSndyWl9IMmxrb3dJelJjajdPTW5PSU1aMzZERUdQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
 
 ---
 
