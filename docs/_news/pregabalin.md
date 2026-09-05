@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [AI is starting to see migraine as more than just a headache](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
 
 2026-09-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
 
 ---
 
-### [CAR-T-Therapie gegen Rheuma: Immunsystem neu starten, statt lebenslang therapieren - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
-2026-08-31 <span class="news-indication-tag">arthritis</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
+
+---
+
+### [Systemischer Lupus erythematodes oder Rheumatoider Arthritis: Frühe Hydroxychloroquin-Adhärenz, weni](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
+
+2026-09-01 <span class="news-indication-tag">arthritis</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
 
 ---
 

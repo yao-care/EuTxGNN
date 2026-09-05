@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（33 則）
+
+### [Kann eine Impfung gegen Gürtelrose das Demenzrisiko mindern?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkhWeVNXZW8tSVpPQkYtQzhseHA0QjRET2ZaLWtzcnJaZTdKTTVkcnZaUnppV0piUmUyZmwwMVBGS3FNNzkwSDdGT21heDYzaG41N2V0SjRUQkxWNlIyWDMwNnd5eUtzRG9pVHBIU3IydV83ZFpGY3B6Rm9FNjZCbmNvbGI1Tmo1V2tydmt6ZDVEZjc5RTIzOGdKcXl5Q19BRGZkeE5uSlFvS2M?oc=5)
+
+2026-09-05 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Telepolis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkhWeVNXZW8tSVpPQkYtQzhseHA0QjRET2ZaLWtzcnJaZTdKTTVkcnZaUnppV0piUmUyZmwwMVBGS3FNNzkwSDdGT21heDYzaG41N2V0SjRUQkxWNlIyWDMwNnd5eUtzRG9pVHBIU3IydV83ZFpGY3B6Rm9FNjZCbmNvbGI1Tmo1V2tydmt6ZDVEZjc5RTIzOGdKcXl5Q19BRGZkeE5uSlFvS2M?oc=5)
+
+---
+
+### [I'm hoping for my happy ending, says cancer survivor mum](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MdmpqVGFtTmlCRmZzWTBrR2VaZHFPYllOSFhnNzNyeVlPNHNZVG44S1pLWFlFWWd3TWZuQnhRWWpkd3ZpZ0cyRFBvc2FiaHpyOHhhRjR1Y2VDSVBN?oc=5)
+
+2026-09-05 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MdmpqVGFtTmlCRmZzWTBrR2VaZHFPYllOSFhnNzNyeVlPNHNZVG44S1pLWFlFWWd3TWZuQnhRWWpkd3ZpZ0cyRFBvc2FiaHpyOHhhRjR1Y2VDSVBN?oc=5)
+
+---
+
+### [Evolocumab reduce en un 20% el riesgo de muerte en pacientes con alto riesgo de sufrir un primer infarto de miocardio o ictus - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRUktd1d6b3J2Z2JMUmJFTFpWYWhyanVxLVR3ZXBzcEQtSTBrVnVaX0JTQ29CN0hxMGhZYXVRejl6MFlXdi1jRk1xc241Q3dvb0JjanZOWGdXMU9IOEVHdEtKZ1EwcUZFcE50R1lQOXprMTNmUWNDNlhPSnU2TEFvSHpPaU4yazZ2cEdHVGpJRE1lOGhqSmI1MWhTdVJHWjduZVlrYzdPajdfakZTUWxCNXdLWERYWjIxS0VYb01TWlZlbkljdXpSSFU1V1lELV9lRVNUTS16S0lXSnZWaElmY2RR?oc=5)
+
+2026-09-05 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRUktd1d6b3J2Z2JMUmJFTFpWYWhyanVxLVR3ZXBzcEQtSTBrVnVaX0JTQ29CN0hxMGhZYXVRejl6MFlXdi1jRk1xc241Q3dvb0JjanZOWGdXMU9IOEVHdEtKZ1EwcUZFcE50R1lQOXprMTNmUWNDNlhPSnU2TEFvSHpPaU4yazZ2cEdHVGpJRE1lOGhqSmI1MWhTdVJHWjduZVlrYzdPajdfakZTUWxCNXdLWERYWjIxS0VYb01TWlZlbkljdXpSSFU1V1lELV9lRVNUTS16S0lXSnZWaElmY2RR?oc=5)
+
+---
+
+### [HIV, un farmaco antitumorale riduce il “serbatoio” del virus nei primati](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjVGdkIyUHl1Sl83c1o1R1B4ek01bDNNczQ3QXFNTndPbDhmVDBzRXdJcUg1YXp3UlJuQ0FpVl9RcXNPbVlHaUkwcUprbDBLVFk4TjBYNEt1Nm1sczFsWDJ0Rm5wVGRXWV9DbHIzSmdoZkRGMjJuVnQtSXR2OEJycW4wS0h5eXZNMnc1c01mSDNKajEyTXlqcVhFVXlDUHJDUlJ1dGhwWVZ6V2c5VzVXMU1UOHNQbjNlTWtPNTZwMWV4b2hrWU5fcQ?oc=5)
+
+2026-09-04 <span class="news-indication-tag">tumor</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjVGdkIyUHl1Sl83c1o1R1B4ek01bDNNczQ3QXFNTndPbDhmVDBzRXdJcUg1YXp3UlJuQ0FpVl9RcXNPbVlHaUkwcUprbDBLVFk4TjBYNEt1Nm1sczFsWDJ0Rm5wVGRXWV9DbHIzSmdoZkRGMjJuVnQtSXR2OEJycW4wS0h5eXZNMnc1c01mSDNKajEyTXlqcVhFVXlDUHJDUlJ1dGhwWVZ6V2c5VzVXMU1UOHNQbjNlTWtPNTZwMWV4b2hrWU5fcQ?oc=5)
+
+---
 
 ### [Ce ventre gonflé sans raison touche 18 000 femmes par an, ces signes ne doivent jamais être ignorés - Le Tribunal du Net](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTFkb0N5NEtKVW5Ec2h5bENwSmZQYVFBZS1mTTR3eVI3UUpPbldqcjF4MFRVR3NwNEdPVXU0ejlocFVvdE1jOFFVRlNnTXh6UzdsOWV3YVNvX0hXRnpVRUNoSll5S05fME1sSGIzSWlqR29BRkZZaTdDVUE5Yks5d2dBcVFaZmMzZVdxbldKZ2FkcDVDTnp3eg?oc=5)
 
 2026-09-04 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTFkb0N5NEtKVW5Ec2h5bENwSmZQYVFBZS1mTTR3eVI3UUpPbldqcjF4MFRVR3NwNEdPVXU0ejlocFVvdE1jOFFVRlNnTXh6UzdsOWV3YVNvX0hXRnpVRUNoSll5S05fME1sSGIzSWlqR29BRkZZaTdDVUE5Yks5d2dBcVFaZmMzZVdxbldKZ2FkcDVDTnp3eg?oc=5)
+
+---
+
+### [Sindrome del cuore infranto o infarto? Un nuovo punteggio li distingue in quasi 9 casi su 10](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUlJUelFVWllnbzVNbXBrSlVUam5JYWRDYkxyNGtnSlNxdEFvQU5oMXJLSmlfTk9rcURNRUtEUU9mVDV2WENxb1VISDRVZE95OHRUVDc4V2FjX2pEY3ZNVlRXWGJrR204MUFLa0tadUp6ZngxWVZlbzJYY0lZa01jTU1HRVQ0OW5kN2J5aUtnNlFtclRGMzlteDRwNmVQVlVzcnY0TWJVTmF4LW9zWkJPbXVMdlRPVk5TQ3hsMG9pTmtwZjFyYkh5czNBU2pMS2RVX1BtT0pJYTZFQQ?oc=5)
+
+2026-09-04 <span class="news-drug-tag">Amlodipine</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUlJUelFVWllnbzVNbXBrSlVUam5JYWRDYkxyNGtnSlNxdEFvQU5oMXJLSmlfTk9rcURNRUtEUU9mVDV2WENxb1VISDRVZE95OHRUVDc4V2FjX2pEY3ZNVlRXWGJrR204MUFLa0tadUp6ZngxWVZlbzJYY0lZa01jTU1HRVQ0OW5kN2J5aUtnNlFtclRGMzlteDRwNmVQVlVzcnY0TWJVTmF4LW9zWkJPbXVMdlRPVk5TQ3hsMG9pTmtwZjFyYkh5czNBU2pMS2RVX1BtT0pJYTZFQQ?oc=5)
 
 ---
 
@@ -94,27 +134,19 @@ permalink: /news/amlodipine/
 
 ---
 
-### [„Adipositas-Paradoxon“ bei Darmkrebs könnte durch Gewichtsverlust vor Diagnose entstehen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDMyMmVuck9jS0h6Z0ZQWERkblNBVUhxRjctSThBRk9pYXE4bTZ2dlQ5WmJxMzQwS0UyMkhjbWYzUnRtN3owSllqNHk5QkRZM1BZU21LLTNrbE1HbFJsa3lLd3l0a0pwWjRobFhLYlA5cnVlV1Q1Yl90dVM5eWg1V09vQVBJbU5IazBfQW9mdmtoR3pZajRqNDhQSEpiWVNOYjUzR1dWX3Rra3c3TXNiM0tfdXFQVUt1RmhTNUVaRnhFNWxmSTR2a0QwVk5lZzV6dWNtdjN5TjNITFR1OGVMTDFkTHJBQUhxS0s0?oc=5)
-
-2026-09-04 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDMyMmVuck9jS0h6Z0ZQWERkblNBVUhxRjctSThBRk9pYXE4bTZ2dlQ5WmJxMzQwS0UyMkhjbWYzUnRtN3owSllqNHk5QkRZM1BZU21LLTNrbE1HbFJsa3lLd3l0a0pwWjRobFhLYlA5cnVlV1Q1Yl90dVM5eWg1V09vQVBJbU5IazBfQW9mdmtoR3pZajRqNDhQSEpiWVNOYjUzR1dWX3Rra3c3TXNiM0tfdXFQVUt1RmhTNUVaRnhFNWxmSTR2a0QwVk5lZzV6dWNtdjN5TjNITFR1OGVMTDFkTHJBQUhxS0s0?oc=5)
-
----
-
 ### [Krebs: So wirksame sind die Pflanzenstoffe aus Bittermelonen](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjF3cWhGRHFoMzFoY0hNUmxuV2lwbzN4VlZUZDRlZHRRVG1GNy1vcDI5MjR4WkoyM1FVR1dHZFR6bDNIcXowU2s0b3dDWHAycTUyTUEya1g4NjBBc2UyLVVMRDRrNnhMYVdqVWVRTUdKSXl1UWhqd05HWjI5MjEzQmQ5TmlUVlVhV09FNjVHeFEtVnBCdmRUemRvUHgyUzFrYWpGcWhGSGFWa0FWaVEydnlqOHNsTlA5ZHE5Wg?oc=5)
 
 2026-09-04 <span class="news-indication-tag">Krebs</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjF3cWhGRHFoMzFoY0hNUmxuV2lwbzN4VlZUZDRlZHRRVG1GNy1vcDI5MjR4WkoyM1FVR1dHZFR6bDNIcXowU2s0b3dDWHAycTUyTUEya1g4NjBBc2UyLVVMRDRrNnhMYVdqVWVRTUdKSXl1UWhqd05HWjI5MjEzQmQ5TmlUVlVhV09FNjVHeFEtVnBCdmRUemRvUHgyUzFrYWpGcWhGSGFWa0FWaVEydnlqOHNsTlA5ZHE5Wg?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjF3cWhGRHFoMzFoY0hNUmxuV2lwbzN4VlZUZDRlZHRRVG1GNy1vcDI5MjR4WkoyM1FVR1dHZFR6bDNIcXowU2s0b3dDWHAycTUyTUEya1g4NjBBc2UyLVVMRDRrNnhMYVdqVWVRTUdKSXl1UWhqd05HWjI5MjEzQmQ5TmlUVlVhV09FNjVHeFEtVnBCdmRUemRvUHgyUzFrYWpGcWhGSGFWa0FWaVEydnlqOHNsTlA5ZHE5Wg?oc=5)
 
 ---
 
-### [La biopsia líquida con IA detecta cáncer de hígado en poblaciones de distinto riesgo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUZzZ2tzeVJsdTNsTGN0eGs4dXRoX2stMllucHNBdnpyNFZueWR1dTlIZ1hyVC1oSFdyYjZUUExJczRhTlRIeS1MYzVBYS05Z1hkd0wwaHJTUGx5SzFkQXFONGxfSXpVSmYzY3VDcmVhZVp6Q0lzS2NGODliQUhXTFJMYmlfaUQ5MDQ5ZTIySmR1ZDczRXlsbnpCUk9IbmM1V18wakZINkx0T0NuX1pyTHB4UkZIV2Ro?oc=5)
+### [La biopsia líquida con IA detecta cáncer de hígado en poblaciones de distinto riesgo - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUZzZ2tzeVJsdTNsTGN0eGs4dXRoX2stMllucHNBdnpyNFZueWR1dTlIZ1hyVC1oSFdyYjZUUExJczRhTlRIeS1MYzVBYS05Z1hkd0wwaHJTUGx5SzFkQXFONGxfSXpVSmYzY3VDcmVhZVp6Q0lzS2NGODliQUhXTFJMYmlfaUQ5MDQ5ZTIySmR1ZDczRXlsbnpCUk9IbmM1V18wakZINkx0T0NuX1pyTHB4UkZIV2Ro?oc=5)
 
 2026-09-04 <span class="news-drug-tag">Amlodipine</span>
 
-來源：[elmedicointeractivo.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUZzZ2tzeVJsdTNsTGN0eGs4dXRoX2stMllucHNBdnpyNFZueWR1dTlIZ1hyVC1oSFdyYjZUUExJczRhTlRIeS1MYzVBYS05Z1hkd0wwaHJTUGx5SzFkQXFONGxfSXpVSmYzY3VDcmVhZVp6Q0lzS2NGODliQUhXTFJMYmlfaUQ5MDQ5ZTIySmR1ZDczRXlsbnpCUk9IbmM1V18wakZINkx0T0NuX1pyTHB4UkZIV2Ro?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUZzZ2tzeVJsdTNsTGN0eGs4dXRoX2stMllucHNBdnpyNFZueWR1dTlIZ1hyVC1oSFdyYjZUUExJczRhTlRIeS1MYzVBYS05Z1hkd0wwaHJTUGx5SzFkQXFONGxfSXpVSmYzY3VDcmVhZVp6Q0lzS2NGODliQUhXTFJMYmlfaUQ5MDQ5ZTIySmR1ZDczRXlsbnpCUk9IbmM1V18wakZINkx0T0NuX1pyTHB4UkZIV2Ro?oc=5)
 
 ---
 
@@ -126,19 +158,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Alcol e tumori, ecco i rischi per la salute: basta «un solo drink» per aumentare la comparsa del cancro. Il nuovo studio - Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSENzejhiUmFxMVdYdkt6QzIzT2x1b2FHOXpOalpWUlVnTG1iY29JM09hVVRSdlNyYmNXTEVZN085SjVlQUdXamdJYkgzX1NzZUJlRmx0dEdsX0N0ZGxJNmxYR0tyMlcyS1E3R2hCc3MtSDNDMjZobWdFV0pUTnJyMlROaFJ3cVBYRnprb2dCckUyc0kyY0diQUhZbV9ndXhFbl9jSGgxWnpraXpy0gGfAUFVX3lxTE1QQzNkVmRYZFpvOWpEMjR6Ri11amVzRXkzbnpvOTFLVDRDSU9TMzNZTnlUSHRaeWhTaUhLcjVMb1NIbTZveE84ZW5OdnYwNzNtOEVlU2JIVmlNbEFWcGkzQ1BvWlhfc2JKRGV3Sjc2RldXUE9wU1JEVlBUOTNRWXF2ZUxmMk12V1B1NFpJOW1VTHpVaDFuTzZ6enFoblhtWQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSENzejhiUmFxMVdYdkt6QzIzT2x1b2FHOXpOalpWUlVnTG1iY29JM09hVVRSdlNyYmNXTEVZN085SjVlQUdXamdJYkgzX1NzZUJlRmx0dEdsX0N0ZGxJNmxYR0tyMlcyS1E3R2hCc3MtSDNDMjZobWdFV0pUTnJyMlROaFJ3cVBYRnprb2dCckUyc0kyY0diQUhZbV9ndXhFbl9jSGgxWnpraXpy0gGfAUFVX3lxTE1QQzNkVmRYZFpvOWpEMjR6Ri11amVzRXkzbnpvOTFLVDRDSU9TMzNZTnlUSHRaeWhTaUhLcjVMb1NIbTZveE84ZW5OdnYwNzNtOEVlU2JIVmlNbEFWcGkzQ1BvWlhfc2JKRGV3Sjc2RldXUE9wU1JEVlBUOTNRWXF2ZUxmMk12V1B1NFpJOW1VTHpVaDFuTzZ6enFoblhtWQ?oc=5)
-
----
-
-### [Krebstumore schützen sich mit Antioxidantien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWRrTlRDZTBYcXAxRFptempWaTNvYnNFQW1BZTkxN2dlRUp5UkJqcUxUV0YtRkRMMXV4MFBqTUNYcUpvM2FINU1NZldkbndkRVlLM2pNaUJJb0V4OUNHSmVBOU45WHJFbXNRcHVsNjFNX0VTQjRnTkNJSENHeW9xb0p5OA?oc=5)
+### [Krebstumore schützen sich mit Antioxidantien](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWRrTlRDZTBYcXAxRFptempWaTNvYnNFQW1BZTkxN2dlRUp5UkJqcUxUV0YtRkRMMXV4MFBqTUNYcUpvM2FINU1NZldkbndkRVlLM2pNaUJJb0V4OUNHSmVBOU45WHJFbXNRcHVsNjFNX0VTQjRnTkNJSENHeW9xb0p5OA?oc=5)
 
 2026-09-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWRrTlRDZTBYcXAxRFptempWaTNvYnNFQW1BZTkxN2dlRUp5UkJqcUxUV0YtRkRMMXV4MFBqTUNYcUpvM2FINU1NZldkbndkRVlLM2pNaUJJb0V4OUNHSmVBOU45WHJFbXNRcHVsNjFNX0VTQjRnTkNJSENHeW9xb0p5OA?oc=5)
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWRrTlRDZTBYcXAxRFptempWaTNvYnNFQW1BZTkxN2dlRUp5UkJqcUxUV0YtRkRMMXV4MFBqTUNYcUpvM2FINU1NZldkbndkRVlLM2pNaUJJb0V4OUNHSmVBOU45WHJFbXNRcHVsNjFNX0VTQjRnTkNJSENHeW9xb0p5OA?oc=5)
 
 ---
 
@@ -147,6 +171,14 @@ permalink: /news/amlodipine/
 2026-09-04 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ2FibTA3LXZSc1ZGQWRkMU4zdFBpZnd6MVNnMEV4MUhGRFUzbHZmaDJxa2ZRMzdWNHg1aG9GVmZkOHp1VjA0YmkzSnB1M3hJdDVXS3JUeDhFdnVUYWNCZGdSSHVkbGRTTk12TVk1OURYRGMwSmNvQXZVeUROWUUwZ1B0Q3dWUQ?oc=5)
+
+---
+
+### [Zwiebeln senken Blutdruck: Quercetin reduziert Werte um 6 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXRoZ2JOQmhWMDhyNnN6bmZ5X2pBMFF0M2FBN1NTaXY3bmM3clllaVVqeG5NTEtvZVNDNWlPSnZNajBpYk9oalJtdWh4TXNmYTF4TWs2X3hLSzJ4aFNILTNmOGxsRzA5Vnp0OWZGYV9GWC11Zy1mSTRaMWREWGdQN3FsT3VsOEM2R2VPWTNGMDNGNU5NQkhWZ2E4OFRkcUhtcUZBQ2otNkUzU21PQmhF?oc=5)
+
+2026-09-04 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXRoZ2JOQmhWMDhyNnN6bmZ5X2pBMFF0M2FBN1NTaXY3bmM3clllaVVqeG5NTEtvZVNDNWlPSnZNajBpYk9oalJtdWh4TXNmYTF4TWs2X3hLSzJ4aFNILTNmOGxsRzA5Vnp0OWZGYV9GWC11Zy1mSTRaMWREWGdQN3FsT3VsOEM2R2VPWTNGMDNGNU5NQkhWZ2E4OFRkcUhtcUZBQ2otNkUzU21PQmhF?oc=5)
 
 ---
 
@@ -166,27 +198,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [La vacuna contra el cáncer de Moderna y MSD generará unas ventas de 1.000 M impulsadas por los tumores pulmonares - El Español](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdHFKXzBuLWlPQ1NncnhUUUtLYUNNSnZrWk1qbXEtTzFQZ3hQRzZZY1Vjc3cteFdfcFp0UndhVjBaOHdVZ2VWOV9TNFk5UE1EaGR5Tm1kaTNmaVVtczZzc05WTlhISUMxUnB1dDV2blpyRDJpcTVsYmp6cW5KWXZUejNiMmpMclhqNmhsRy1sT2YwZ09aYWh4ZEc2RmRYUGE1a3cxSjRZM0tyMThqMFUzQ2l1S1luY2lxZlhrbkQzNC1UWFFHcDBDTGViMzN1U08ydmp3NGFNUGllYlJBM2piZXN5c0hVeTN6XzVscHdBWdIB9AFBVV95cUxORjdPOHVabDFJMFJkSWp1Skl5bUFpYTgzbnlUMjhZUmdTTHpJOTJCNERYcHg0akNRSko0eTlNNm5nbzJqTGUyaVhLT2dxSGJpeWhzNkhiTXAxb2FVMUh5ZzUzcmNYaDBMYUlVUlllTVFSNG9NUzhKa2I0Y21PQW1ZQXp0azNQaHJmQVpYOW1ZaGp4akZNbHA1TElfRHp1VGpiZ0U3MUZSMl9zaGV6WWgtRXREUkdJUEJLMjhQUDAwSVByeUxWMkozbG8xQUhGMk0xWTB3a1BISncxYlNoT3hpUmk1cWJSZVpKN2pKbnpUWkhvQ1Ew?oc=5)
-
-2026-09-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[El Español](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdHFKXzBuLWlPQ1NncnhUUUtLYUNNSnZrWk1qbXEtTzFQZ3hQRzZZY1Vjc3cteFdfcFp0UndhVjBaOHdVZ2VWOV9TNFk5UE1EaGR5Tm1kaTNmaVVtczZzc05WTlhISUMxUnB1dDV2blpyRDJpcTVsYmp6cW5KWXZUejNiMmpMclhqNmhsRy1sT2YwZ09aYWh4ZEc2RmRYUGE1a3cxSjRZM0tyMThqMFUzQ2l1S1luY2lxZlhrbkQzNC1UWFFHcDBDTGViMzN1U08ydmp3NGFNUGllYlJBM2piZXN5c0hVeTN6XzVscHdBWdIB9AFBVV95cUxORjdPOHVabDFJMFJkSWp1Skl5bUFpYTgzbnlUMjhZUmdTTHpJOTJCNERYcHg0akNRSko0eTlNNm5nbzJqTGUyaVhLT2dxSGJpeWhzNkhiTXAxb2FVMUh5ZzUzcmNYaDBMYUlVUlllTVFSNG9NUzhKa2I0Y21PQW1ZQXp0azNQaHJmQVpYOW1ZaGp4akZNbHA1TElfRHp1VGpiZ0U3MUZSMl9zaGV6WWgtRXREUkdJUEJLMjhQUDAwSVByeUxWMkozbG8xQUhGMk0xWTB3a1BISncxYlNoT3hpUmk1cWJSZVpKN2pKbnpUWkhvQ1Ew?oc=5)
-
----
-
 ### [« Une découverte très prometteuse » : une étude estime que les psychédéliques pourraient aider à supporter la chimiothérapie - Le Parisien](https://news.google.com/rss/articles/CBMioAJBVV95cUxNaVBpcjBIdXZnQnUyaFhFdW9CRTJ5VHZMUlBJbmhyNk51bzZUUzVpLUdOSnE3WWFwV1F0RUNKZ0l3NURUTTFtX1NHTy1WZm5VOTBjQ2JYTlR0TXRwbTZyUDFRNnU0T2E4dVZGVy1fazJjTnQ2NDV5OUYyV1liY3F2bEliR05GWEJIOC00TERoeXlYNEU1RmR4ZFFhZjRWd2t0cXhGTGJZTFlBMlZjRUx0V2Q1ZWROazk5eXRIaGFFWG5mblhpQUYyRFJCT1hRNExheS1DMHQ0cUVKcEFsU3ROUWlvYUVrbGY2WFdHYWtRQUlZbTF3Yi1PSzBoSlUzbVJlOWt3TWp5SVQ5d1dDaUY2dEttQ2VhakFob0IzUHRuTlo?oc=5)
 
 2026-09-03 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Parisien](https://news.google.com/rss/articles/CBMioAJBVV95cUxNaVBpcjBIdXZnQnUyaFhFdW9CRTJ5VHZMUlBJbmhyNk51bzZUUzVpLUdOSnE3WWFwV1F0RUNKZ0l3NURUTTFtX1NHTy1WZm5VOTBjQ2JYTlR0TXRwbTZyUDFRNnU0T2E4dVZGVy1fazJjTnQ2NDV5OUYyV1liY3F2bEliR05GWEJIOC00TERoeXlYNEU1RmR4ZFFhZjRWd2t0cXhGTGJZTFlBMlZjRUx0V2Q1ZWROazk5eXRIaGFFWG5mblhpQUYyRFJCT1hRNExheS1DMHQ0cUVKcEFsU3ROUWlvYUVrbGY2WFdHYWtRQUlZbTF3Yi1PSzBoSlUzbVJlOWt3TWp5SVQ5d1dDaUY2dEttQ2VhakFob0IzUHRuTlo?oc=5)
-
----
-
-### [Bluthochdruck: Diese Pflanzenstoffe wirken nachweisbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHkxYkdHSUJvYVNsNkxqRjBvYkZMQnlLRWY1Mlh4V1F1UzhwS1JIeGdfVU1lY0FBNkdZNWlWRkthY1c1VXlobDhPd2RCZGpERTVxVFg4Q25hdy1kUDlaczFYSHpnNnNvQnNsRWRXR2RpNTd3ZlY4bmM2UG5ma1FUMkNsaDZ3bTdqQ0pPamdfcWY5ZWtqalNYSHpvV3dydUlhNW9YRkwwRVk2X0Zyd2pyb1c0Y3Y?oc=5)
-
-2026-09-03 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHkxYkdHSUJvYVNsNkxqRjBvYkZMQnlLRWY1Mlh4V1F1UzhwS1JIeGdfVU1lY0FBNkdZNWlWRkthY1c1VXlobDhPd2RCZGpERTVxVFg4Q25hdy1kUDlaczFYSHpnNnNvQnNsRWRXR2RpNTd3ZlY4bmM2UG5ma1FUMkNsaDZ3bTdqQ0pPamdfcWY5ZWtqalNYSHpvV3dydUlhNW9YRkwwRVk2X0Zyd2pyb1c0Y3Y?oc=5)
 
 ---
 
@@ -214,6 +230,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Un chirurgien alerte sur 3 symptômes méconnus du cancer du pancréas, un tueur silencieux en forte progression - Pleine Vie](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3NCeVFsYUt2QUtxOTVTbU1McFNtVFdtQWFhZFphdzI2VVI4bFM2bjZxenIyLUlrU1ZlTEJ1ZEhOTVREUW56QmtVa3FXNVY0V3JXVi1zeEhvYjFFR3owT3VqNmo5X3FJVXlYTUxWOVFubzRyZzRsVjM0RTFoZmxHTXNKb29DNzIxTGFJMzBVZHFKNDZ5c3hKRXowT29hcGRMSGRuWmR2SExxSy1ka3NvZUV0TGM1TzFpOU9qZGtn?oc=5)
+
+2026-09-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3NCeVFsYUt2QUtxOTVTbU1McFNtVFdtQWFhZFphdzI2VVI4bFM2bjZxenIyLUlrU1ZlTEJ1ZEhOTVREUW56QmtVa3FXNVY0V3JXVi1zeEhvYjFFR3owT3VqNmo5X3FJVXlYTUxWOVFubzRyZzRsVjM0RTFoZmxHTXNKb29DNzIxTGFJMzBVZHFKNDZ5c3hKRXowT29hcGRMSGRuWmR2SExxSy1ka3NvZUV0TGM1TzFpOU9qZGtn?oc=5)
+
+---
+
 ### [Una IA "sobrehumana" detecta enfermedades cardíacas en menos de 2 segundos con hasta un 90% de eficacia - El Confidencial](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXY4NnlDWlhNVWxkTXBQenZUbjZmMjFUTVZPVm45SmNmYlRLUzdjRFQxa1FOSi1RNkNNa3c3VEFUZ1ZTckJBSjgwaHhkRkdLdW9nVlVmR3RQVDdTQTZoWlZuMW9rdUpVNWw0a3Y1bHFnSG5QSDY4VGNvWGZaWE5Zb21faEJBakl5X0lFeVFpT1Rmc3g3eDg4UmFfZ0k0MzJWQW5lSDJvQUR4UUhqYk9FZXpwMFRIQQ?oc=5)
 
 2026-09-03 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">AF</span>
@@ -226,23 +250,7 @@ permalink: /news/amlodipine/
 
 2026-09-03 <span class="news-indication-tag">tumor</span>
 
-來源：[ANSA](https://news.google.com/rss/articles/CBMingJBVV95cUxPejU5c2VXZy1NQXg1eEl5eDNUaS1keUhzRFNQNVNkTUVVMk8yUzF2TE5wX1NhTjdicVVES2Q4NzFXSVh0aGVFcEl5bUpTZURlRVBiQ0NOLVk3QVh2RUtwU0pTN3cwT2R4UWZxaDJmYUR0WXQweldfdVFfaGcxTjZUZDM5Y3VQNTY0WXRhcWk4ZGt2c2FxRjBNb2ZVTk5JUklUNmxUU1VXS2hGZjRPbWVoWFZRcUNFdzlodVV0c3lISW1nQWVIb3BUVjRqWDFpNlJLN0VhZHlKYWlsVzQyZGVzVTd0bmRkdFBRenRPZG1tQXREMDBObFNKSlg4QWNIY1lxZ3d5dUVfT2hvMzc5RG01S2t4ajJXd3Z2dGRmbTd30gGjAkFVX3lxTE53TXZmSnVKTTBULVlhQWJzeEs4ZHVXYWt0Y0hfQW96bVFIUzUwNXBaZnNnUEdZRU5GNWJ4WFZ3c1ZnTXE3RTFaUzdMUWJKbUhjaDVrUk51TUNXZDVTSlNfNVR1alNVQ09iYlhWUW8yTndEQ1RTaTNLLXh3S3dfcTZDVGo4QndMeFViUFBUb0dKdU56aGV0QVU1VkxlRGRXZXp3eGtzbWN2WENOUXhxX05Ua3RCdlpUdkI3VGFhNUZRcElUZ2U0aUhWeHc4cXRIVVpiSWFiRTY5MFhKSEREdjB5ZjFBWFd1dGlQRkRfdWpHaDREbWJIbTVkVURQOVY0VnFWbE9zbGY2cjlWMTJ0MnBESHZzano1YXJ5d1dxVFB6c2VISQ?oc=5)
-
----
-
-### [Tumore alla prostata: la dieta potrebbe fare la differenza dopo la diagnosi - la Repubblica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcF9wNXVNOEwyWjhZOThHcVpDNnAxQ2FuU0ZrQ1pEbEdleGJDQTBCWVY3cVhxOVBzSHN1NDRnSXl3dXdYS0hVcjlhZF95MmJnS2NvZjkzeU5ESkZvQzBVZUhlQUxTR0wyeC1IX2Q5aGFsZU1mZjhBRlVUd0QwUGgyTk5YakVmSDRaNjZVc01aWndydjg3Y29LUjRNZDJfMXRYVm96Ny02cWZBc24yR3M2LXBJaTRRWVJsUDBucjhTVHFsdEFkQWfSAcsBQVVfeXFMT3pLZ2F2N0ttSjJNS0NhYmFrSWhqRVFoZExxalhlbHFLLUdVVkQyUDYzUzhQUGtpUS1zc2cwd1RSd0dtR2JMRjJwZnRXeWxtYTJody1xSkVPX1VacTZVajFmM2hIYVUwOFlHQjFNRW04eExWZlJCVFhoNEdtTXBxNkM4N2FINVlMUGxYTWRSVmYtbVVzUHBmaEJpd0JYSkZ0YzB3VEZtUEpNMHoxR1MxTTZuUHlYOXpKSzVNT2txUlBWWmJKUEpQU2FTQWs?oc=5)
-
-2026-09-03 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcF9wNXVNOEwyWjhZOThHcVpDNnAxQ2FuU0ZrQ1pEbEdleGJDQTBCWVY3cVhxOVBzSHN1NDRnSXl3dXdYS0hVcjlhZF95MmJnS2NvZjkzeU5ESkZvQzBVZUhlQUxTR0wyeC1IX2Q5aGFsZU1mZjhBRlVUd0QwUGgyTk5YakVmSDRaNjZVc01aWndydjg3Y29LUjRNZDJfMXRYVm96Ny02cWZBc24yR3M2LXBJaTRRWVJsUDBucjhTVHFsdEFkQWfSAcsBQVVfeXFMT3pLZ2F2N0ttSjJNS0NhYmFrSWhqRVFoZExxalhlbHFLLUdVVkQyUDYzUzhQUGtpUS1zc2cwd1RSd0dtR2JMRjJwZnRXeWxtYTJody1xSkVPX1VacTZVajFmM2hIYVUwOFlHQjFNRW04eExWZlJCVFhoNEdtTXBxNkM4N2FINVlMUGxYTWRSVmYtbVVzUHBmaEJpd0JYSkZ0YzB3VEZtUEpNMHoxR1MxTTZuUHlYOXpKSzVNT2txUlBWWmJKUEpQU2FTQWs?oc=5)
-
----
-
-### [Tumore alla vescica, test delle urine fai da te ne individua 9 su 10: ecco come funziona - Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnR5T2p0U3ltRUxIZ0VHY2RibkJRMkRvTnFWcFJSWm9GLVpYazVmY1lXbXhxdzBmb0FLVlNDM2xweU9QcHBfX0dpS1VWYkVPaGZPMUp2Vm9mWjFZY1dhVkIzTjRqSmZNUlQwTjBLTGNiaW9sRnN3eFFYV2lNa19VQUNkM1lXOXpMMFg4VWNoY0tCSHdsblJqSEZRXzZRVG_SAaQBQVVfeXFMTTFEcVZrSi1pOGEzbkVPZlV2ejFOZW9SZmdNejhUR1h5U1JNcXd0ZmZjRFJ0RTk4VXRnRHFEZFF5NzRkcFdnMjlZbXN6ZHBLbEMwLVVTVnlXSnVTeWcxVWdra1hBSEoxd203dHRSR2FpZFEzSWU3VTl1c0txeklMbEZVM2h0RTltYU9IQ1JRdi16REtVeUR5U0k4dkM4NGtNczlhWDM?oc=5)
-
-2026-09-03 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnR5T2p0U3ltRUxIZ0VHY2RibkJRMkRvTnFWcFJSWm9GLVpYazVmY1lXbXhxdzBmb0FLVlNDM2xweU9QcHBfX0dpS1VWYkVPaGZPMUp2Vm9mWjFZY1dhVkIzTjRqSmZNUlQwTjBLTGNiaW9sRnN3eFFYV2lNa19VQUNkM1lXOXpMMFg4VWNoY0tCSHdsblJqSEZRXzZRVG_SAaQBQVVfeXFMTTFEcVZrSi1pOGEzbkVPZlV2ejFOZW9SZmdNejhUR1h5U1JNcXd0ZmZjRFJ0RTk4VXRnRHFEZFF5NzRkcFdnMjlZbXN6ZHBLbEMwLVVTVnlXSnVTeWcxVWdra1hBSEoxd203dHRSR2FpZFEzSWU3VTl1c0txeklMbEZVM2h0RTltYU9IQ1JRdi16REtVeUR5U0k4dkM4NGtNczlhWDM?oc=5)
+來源：[ansa.it](https://news.google.com/rss/articles/CBMingJBVV95cUxPejU5c2VXZy1NQXg1eEl5eDNUaS1keUhzRFNQNVNkTUVVMk8yUzF2TE5wX1NhTjdicVVES2Q4NzFXSVh0aGVFcEl5bUpTZURlRVBiQ0NOLVk3QVh2RUtwU0pTN3cwT2R4UWZxaDJmYUR0WXQweldfdVFfaGcxTjZUZDM5Y3VQNTY0WXRhcWk4ZGt2c2FxRjBNb2ZVTk5JUklUNmxUU1VXS2hGZjRPbWVoWFZRcUNFdzlodVV0c3lISW1nQWVIb3BUVjRqWDFpNlJLN0VhZHlKYWlsVzQyZGVzVTd0bmRkdFBRenRPZG1tQXREMDBObFNKSlg4QWNIY1lxZ3d5dUVfT2hvMzc5RG01S2t4ajJXd3Z2dGRmbTd30gGjAkFVX3lxTE53TXZmSnVKTTBULVlhQWJzeEs4ZHVXYWt0Y0hfQW96bVFIUzUwNXBaZnNnUEdZRU5GNWJ4WFZ3c1ZnTXE3RTFaUzdMUWJKbUhjaDVrUk51TUNXZDVTSlNfNVR1alNVQ09iYlhWUW8yTndEQ1RTaTNLLXh3S3dfcTZDVGo4QndMeFViUFBUb0dKdU56aGV0QVU1VkxlRGRXZXp3eGtzbWN2WENOUXhxX05Ua3RCdlpUdkI3VGFhNUZRcElUZ2U0aUhWeHc4cXRIVVpiSWFiRTY5MFhKSEREdjB5ZjFBWFd1dGlQRkRfdWpHaDREbWJIbTVkVURQOVY0VnFWbE9zbGY2cjlWMTJ0MnBESHZzano1YXJ5d1dxVFB6c2VISQ?oc=5)
 
 ---
 
@@ -259,6 +267,14 @@ permalink: /news/amlodipine/
 2026-09-03 <span class="news-indication-tag">heart failure</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+
+---
+
+### [An oncologist's 6 rules for reducing cancer risk – and they're surprisingly simple - Women's Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0I3YWFBQW5qUDZ0MHZvb3gzYTNhdDJZbTFkVEhJbjN5OUpkWWFtOXpFWnNScUQ4TTRlTnR3empaU0hGaFZoOE1WR2FVN2JUanltTTJLNW84R0N0N0h3QkhiTngyRmZaTV9FcFRhNTdyTnNzODZXU1BTV2Noem1CSnRoYWNBQzNTZUd2RHdGSmxQVmRUTUNrSlRyWEFsWHdL?oc=5)
+
+2026-09-02 <span class="news-indication-tag">cancer</span>
+
+來源：[Women's Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0I3YWFBQW5qUDZ0MHZvb3gzYTNhdDJZbTFkVEhJbjN5OUpkWWFtOXpFWnNScUQ4TTRlTnR3empaU0hGaFZoOE1WR2FVN2JUanltTTJLNW84R0N0N0h3QkhiTngyRmZaTV9FcFRhNTdyTnNzODZXU1BTV2Noem1CSnRoYWNBQzNTZUd2RHdGSmxQVmRUTUNrSlRyWEFsWHdL?oc=5)
 
 ---
 
@@ -286,11 +302,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Quali alimenti favoriscono il riposo notturno e il ripristino del ritmo circadiano a settembre - La Cucina Italiana](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVmhxVXVvT214aG9xRElFMzRpSWR2VGdZQ0VBaHFQOWZxYjgxT0NfajBkaTUtRDVSYWZJOVBjc0FqdWNGWElvSGhLajI4UXNRS293cHF3aVkyVFByNmJWXzFIajZrSWQtd1M2VU54UkFTSUktYmJqOUhmWTF4YUNTN0NfR0dtZ0ZLT3Q3MnluM0xuUzFlcjNvYU1semZDSmh3djFXcGlnR2NyOFpQY2xwaEMzZXF1WldzalFHMFRR?oc=5)
+### [5 Processed Foods to Eat Every Week If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
-2026-09-01 <span class="news-drug-tag">Amlodipine</span>
+2026-08-30 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[La Cucina Italiana](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVmhxVXVvT214aG9xRElFMzRpSWR2VGdZQ0VBaHFQOWZxYjgxT0NfajBkaTUtRDVSYWZJOVBjc0FqdWNGWElvSGhLajI4UXNRS293cHF3aVkyVFByNmJWXzFIajZrSWQtd1M2VU54UkFTSUktYmJqOUhmWTF4YUNTN0NfR0dtZ0ZLT3Q3MnluM0xuUzFlcjNvYU1semZDSmh3djFXcGlnR2NyOFpQY2xwaEMzZXF1WldzalFHMFRR?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
 ---
 
@@ -299,14 +315,6 @@ permalink: /news/amlodipine/
 2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
-
----
-
-### [I milanesi e il vaccino sperimentale contro recidive e metastasi dei melanomi: «Ho pensato ai miei figli e mi sono offerta volontaria - Corriere Milano](https://news.google.com/rss/articles/CBMivgJBVV95cUxNQzRaM0c4SEFMV2hsaHVkU0c3ekN5b05ENzl0dzhidjJyelVDckZnbVl0OXhUQjY2S1k1T2hCV2NPZWNHNUNBVEZLVmtVNW5aYk03RFRYQ1lpNjlZQUFQNmpDSXUtY2VHdkNDOTRVQ0RoUURMQUpQUjhYcGhjUTBZblNJRllzVjR4Z0lZQkJVdGFyaXpQT0cwTjk0aTVuNnVNaEE4YnI5TWhGSDVuOVZRNDRNRTNXQ0RpMy1PQVZnWmhwQTNqdURsOTVzbnJGNkk3dnROc2FNUGRwemU5Vk9oSjF6SFV1MFhURVg3VGlkdUtzSlBLT25sdFNPUVdMWFl5M2lpSVp3LUtxNkFYTU1VUFlDeGxqaW45YWFBaGlaTVVtWXAwdl9GODV3RlVxaUVOM29tR3BsT3RfMDJjcGc?oc=5)
-
-2026-08-29 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere Milano](https://news.google.com/rss/articles/CBMivgJBVV95cUxNQzRaM0c4SEFMV2hsaHVkU0c3ekN5b05ENzl0dzhidjJyelVDckZnbVl0OXhUQjY2S1k1T2hCV2NPZWNHNUNBVEZLVmtVNW5aYk03RFRYQ1lpNjlZQUFQNmpDSXUtY2VHdkNDOTRVQ0RoUURMQUpQUjhYcGhjUTBZblNJRllzVjR4Z0lZQkJVdGFyaXpQT0cwTjk0aTVuNnVNaEE4YnI5TWhGSDVuOVZRNDRNRTNXQ0RpMy1PQVZnWmhwQTNqdURsOTVzbnJGNkk3dnROc2FNUGRwemU5Vk9oSjF6SFV1MFhURVg3VGlkdUtzSlBLT25sdFNPUVdMWFl5M2lpSVp3LUtxNkFYTU1VUFlDeGxqaW45YWFBaGlaTVVtWXAwdl9GODV3RlVxaUVOM29tR3BsT3RfMDJjcGc?oc=5)
 
 ---
 

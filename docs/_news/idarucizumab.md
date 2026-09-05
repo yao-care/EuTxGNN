@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Les professeurs d'exercice physique sont d'accord : "Monter les escaliers est six fois plus rentable que n'importe quel autre exercice. Une séance d'une minute à un rythme confortable suffit"](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/idarucizumab/
 
 ---
 
-### [CAR-T-Therapie gegen Rheuma: Immunsystem neu starten, statt lebenslang therapieren - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
-2026-08-31 <span class="news-indication-tag">arthritis</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
+
+---
+
+### [Systemischer Lupus erythematodes oder Rheumatoider Arthritis: Frühe Hydroxychloroquin-Adhärenz, weni](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
+
+2026-09-01 <span class="news-indication-tag">arthritis</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
 
 ---
 

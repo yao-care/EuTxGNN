@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
 
@@ -78,11 +78,19 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
-### [CAR-T-Therapie gegen Rheuma: Immunsystem neu starten, statt lebenslang therapieren - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+### [CAR-T-Zelltherapie in Phase-1-Studie bei rheumatoider Arthritis erfolgreich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
 
-2026-08-31 <span class="news-indication-tag">arthritis</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQclpJS0YwRlBlSUx0Z3hkeDdzZHUtSWFQMEJOVnRZTnlOcTRXUld1SnZfWWRleTZxVHpjMHRxT3dZYkNid2pQd2tYVFpqaFNiYjhOdjBhY0lBUFEyeWxIWGNaYU44eVFGZDhkSEtUS2g4SHd0NTRTanY0TEl2RXhGYmNSUmxpRFhGQzRMeUZWRjJPc1NnQ0l2NE1PaUpKbnlaSl9oeFo3RE16b0xWUHRtUHFJQmlwYVNQdWpBajJHV0VWT2djYkhlaHpwT2I4ektDSUxaQUVzZC1EcEh6?oc=5)
+
+---
+
+### [Systemischer Lupus erythematodes oder Rheumatoider Arthritis: Frühe Hydroxychloroquin-Adhärenz, weni](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
+
+2026-09-01 <span class="news-indication-tag">arthritis</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjJFYjFkeS1NZjNRM1NqeGU1RzViZW9TRmR0LUNaWVBBcC1sTDR2M0k4OTNZczMzcFBoa2JIaXdQbTk2cU1tS1N1OXo2aDBrVkpvUXV4Z0ZzQWFJYzFaZUM4ZDVtdkVIM3hsYVVqUks2SDVONUlieVhKSEU3UXpISmtaV3Q1RkRRSElKLXJzLXFDVzVjYzVsalVTQlAxaklqaWN3amx1LUxIQ1phdmR5S1kzaFpxbS1lTjlONHBhcw?oc=5)
 
 ---
 

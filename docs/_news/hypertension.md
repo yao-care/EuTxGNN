@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,29 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Bluthochdruck: Diese Pflanzenstoffe wirken nachweisbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHkxYkdHSUJvYVNsNkxqRjBvYkZMQnlLRWY1Mlh4V1F1UzhwS1JIeGdfVU1lY0FBNkdZNWlWRkthY1c1VXlobDhPd2RCZGpERTVxVFg4Q25hdy1kUDlaczFYSHpnNnNvQnNsRWRXR2RpNTd3ZlY4bmM2UG5ma1FUMkNsaDZ3bTdqQ0pPamdfcWY5ZWtqalNYSHpvV3dydUlhNW9YRkwwRVk2X0Zyd2pyb1c0Y3Y?oc=5)
+### [Kann eine Impfung gegen Gürtelrose das Demenzrisiko mindern?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkhWeVNXZW8tSVpPQkYtQzhseHA0QjRET2ZaLWtzcnJaZTdKTTVkcnZaUnppV0piUmUyZmwwMVBGS3FNNzkwSDdGT21heDYzaG41N2V0SjRUQkxWNlIyWDMwNnd5eUtzRG9pVHBIU3IydV83ZFpGY3B6Rm9FNjZCbmNvbGI1Tmo1V2tydmt6ZDVEZjc5RTIzOGdKcXl5Q19BRGZkeE5uSlFvS2M?oc=5)
 
-2026-09-03
+2026-09-05
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHkxYkdHSUJvYVNsNkxqRjBvYkZMQnlLRWY1Mlh4V1F1UzhwS1JIeGdfVU1lY0FBNkdZNWlWRkthY1c1VXlobDhPd2RCZGpERTVxVFg4Q25hdy1kUDlaczFYSHpnNnNvQnNsRWRXR2RpNTd3ZlY4bmM2UG5ma1FUMkNsaDZ3bTdqQ0pPamdfcWY5ZWtqalNYSHpvV3dydUlhNW9YRkwwRVk2X0Zyd2pyb1c0Y3Y?oc=5)
+來源：[Telepolis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkhWeVNXZW8tSVpPQkYtQzhseHA0QjRET2ZaLWtzcnJaZTdKTTVkcnZaUnppV0piUmUyZmwwMVBGS3FNNzkwSDdGT21heDYzaG41N2V0SjRUQkxWNlIyWDMwNnd5eUtzRG9pVHBIU3IydV83ZFpGY3B6Rm9FNjZCbmNvbGI1Tmo1V2tydmt6ZDVEZjc5RTIzOGdKcXl5Q19BRGZkeE5uSlFvS2M?oc=5)
+
+---
+
+### [Zwiebeln senken Blutdruck: Quercetin reduziert Werte um 6 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXRoZ2JOQmhWMDhyNnN6bmZ5X2pBMFF0M2FBN1NTaXY3bmM3clllaVVqeG5NTEtvZVNDNWlPSnZNajBpYk9oalJtdWh4TXNmYTF4TWs2X3hLSzJ4aFNILTNmOGxsRzA5Vnp0OWZGYV9GWC11Zy1mSTRaMWREWGdQN3FsT3VsOEM2R2VPWTNGMDNGNU5NQkhWZ2E4OFRkcUhtcUZBQ2otNkUzU21PQmhF?oc=5)
+
+2026-09-04
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXRoZ2JOQmhWMDhyNnN6bmZ5X2pBMFF0M2FBN1NTaXY3bmM3clllaVVqeG5NTEtvZVNDNWlPSnZNajBpYk9oalJtdWh4TXNmYTF4TWs2X3hLSzJ4aFNILTNmOGxsRzA5Vnp0OWZGYV9GWC11Zy1mSTRaMWREWGdQN3FsT3VsOEM2R2VPWTNGMDNGNU5NQkhWZ2E4OFRkcUhtcUZBQ2otNkUzU21PQmhF?oc=5)
+
+---
+
+### [5 Processed Foods to Eat Every Week If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
+
+2026-08-30
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFZLMDd5bkRWQW42c0szQU82SE9pLW9neF90MGpFbnV5cVZnYjJFR0dBRmlrdVV2MWp6Qy04a25VUXNZS3dLQmdpOXprY1QxUkhaWVdMT3VsaWlFMHp2OWc1MFRWTjg0Q1BxVHo0b3BUUjk1VWVyaEk3bVAzRks2UQ?oc=5)
 
 ---
 

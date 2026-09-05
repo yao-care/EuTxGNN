@@ -54,11 +54,11 @@ permalink: /news/alirocumab/
 
 ## 相關新聞（2 則）
 
-### [ESC 2026 | Neue Leitlinie macht „kardiorenal“ endgültig salonfähig](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjE3bjJ6Um1BNDZkQUdVeEx4ZWdyWmRWNEJhcEFXQVQ5T3BEMGpiUnRhWi1PZEFvT0NjSVluY0hST1R0UERkUVFLME54NGNzWGtpem1SU01GYlFhYXdja0JzQUUtd014dGVqNDA2Q0lwVWRqdjJMVFlZTzBrRzdxWGphMTR2V1RqbzdEenRoRkMySWxGcjJZT1V2d3lvVm1zUlJqRUxyb1NCYXZkNDVFbHBXRDF5ZklBaXdnWUV3?oc=5)
+### [Nephrologie: Nierenfunktion und Herzrisiko frühzeitig gemeinsam beurteilen](https://news.google.com/rss/articles/CBMilwFBVV95cUxPelJHbEdmazlGRDd2YXcwdGc0b1Z6Y3hGaGNxNy1pR1pWSG5JVFZvMEFpMXdoZHFZS2dyNTk1c0oxSGhwZXprUFJONlQ5aHRybFdVaThDekYyS0w5M3VNelBwRllpQW85aUpHdWRRd0FVOTZ4dGRFd0RSSGdjNkdfampOZ1JzQlQzMnowRzlOSGt2T3lEdVYw?oc=5)
 
-2026-09-04 <span class="news-indication-tag">CKD</span>
+2026-09-05 <span class="news-indication-tag">CKD</span>
 
-來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjE3bjJ6Um1BNDZkQUdVeEx4ZWdyWmRWNEJhcEFXQVQ5T3BEMGpiUnRhWi1PZEFvT0NjSVluY0hST1R0UERkUVFLME54NGNzWGtpem1SU01GYlFhYXdja0JzQUUtd014dGVqNDA2Q0lwVWRqdjJMVFlZTzBrRzdxWGphMTR2V1RqbzdEenRoRkMySWxGcjJZT1V2d3lvVm1zUlJqRUxyb1NCYXZkNDVFbHBXRDF5ZklBaXdnWUV3?oc=5)
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPelJHbEdmazlGRDd2YXcwdGc0b1Z6Y3hGaGNxNy1pR1pWSG5JVFZvMEFpMXdoZHFZS2dyNTk1c0oxSGhwZXprUFJONlQ5aHRybFdVaThDekYyS0w5M3VNelBwRllpQW85aUpHdWRRd0FVOTZ4dGRFd0RSSGdjNkdfampOZ1JzQlQzMnowRzlOSGt2T3lEdVYw?oc=5)
 
 ---
 

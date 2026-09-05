@@ -14,7 +14,7 @@ permalink: /news/concizumab/
 ---
 
 <p class="key-answer" data-question="Concizumab 有什麼相關新聞？">
-<strong>Concizumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Concizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/concizumab/
 <p><a href="{{ '/drugs/concizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [Diagnose Diabetes: Was die Erkrankung heute bedeutet](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkczUkpVQlpmNVVsRXpGa2hBTlM1c1luZmRzcTcySk9sVEpNNVkzSGphdTN6bklCaTkzUmx1Q2IyUmZqM1FsTWpLdHp1Z3Q5b1dnN0p6TTE2a3ZHYlNGQXBjUHprYTlwWHNmV1ppVlRJV2pucWFQU2lOQ3RaSG8tTlhMVVE1cFBLRERTWWJn?oc=5)
+
+2026-09-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[regio-aktuell24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkczUkpVQlpmNVVsRXpGa2hBTlM1c1luZmRzcTcySk9sVEpNNVkzSGphdTN6bklCaTkzUmx1Q2IyUmZqM1FsTWpLdHp1Z3Q5b1dnN0p6TTE2a3ZHYlNGQXBjUHprYTlwWHNmV1ppVlRJV2pucWFQU2lOQ3RaSG8tTlhMVVE1cFBLRERTWWJn?oc=5)
+
+---
 
 ### [L’obesità cambia continente: nei Paesi poveri i bambini rischiano di morire di troppo cibo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
 
 2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
 
 ---
 
@@ -94,6 +102,14 @@ permalink: /news/concizumab/
 
 ---
 
+### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+
+---
+
 ### [Risiko für Typ-2-Diabetes abhängig vom Subtyp der Endometriose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
@@ -102,27 +118,11 @@ permalink: /news/concizumab/
 
 ---
 
-### [Fettleber: Warum Abnehmen nicht mit jeder Diät gleich wirkt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQaURMd3hRNjAtdzlfVllDNlZ6LVFTY3JiWURmUVpNZWpIV0J5ZUd1YXctT2NIREVseU56dTNoemN1UWtXdTZBMTVkaERHdGxncWh5eElIYWdrMEMzeEx4MGVCODZIcndjMGJ2Z3RZNWdiQXE5TldUT2M1akxTWmN6NjczWS1GQ00zZ3ViaDRoQ3hSVWhTbkVaRmg4MjJXVFRvXzM0bEZGamdtcWhzTmp2ODloQ05FZlNPRkFKR3BTT01TTEtNcUc1bmtjbUxLUk0?oc=5)
-
-2026-09-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMizwFBVV95cUxQaURMd3hRNjAtdzlfVllDNlZ6LVFTY3JiWURmUVpNZWpIV0J5ZUd1YXctT2NIREVseU56dTNoemN1UWtXdTZBMTVkaERHdGxncWh5eElIYWdrMEMzeEx4MGVCODZIcndjMGJ2Z3RZNWdiQXE5TldUT2M1akxTWmN6NjczWS1GQ00zZ3ViaDRoQ3hSVWhTbkVaRmg4MjJXVFRvXzM0bEZGamdtcWhzTmp2ODloQ05FZlNPRkFKR3BTT01TTEtNcUc1bmtjbUxLUk0?oc=5)
-
----
-
-### [Un estudio encierra a 42 personas para descubrir cuál es la mejor dieta: una arrasa sobre las demás, pero tien](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
+### [Un estudio encierra a 42 personas para descubrir cuál es la mejor dieta: una arrasa sobre las demás, pero tien - Diario AS](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[as.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
-
----
-
-### [Statine und Demenz: Früher Therapiestart senkt Risiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkRXUUI3RU9GbGxEZm8yMjVpc0F2c20zV0hMS3h1dVQtSnh4bjN5YVlTMFd0TFBSZEgwdWtxNlZnY0hZb1haMnFOLXVfaktLdWNLVGFZeFYtbXQyWTFQYTRhbXNZQW1aSVV2amQ4U0twRHFSQUNqT05pSXBFcExpSk5tT0pCaGt5YnFWczVHXzBzeldScmlIdXdQYU9CUkxGSWxLQ3A4OVFNZVd5YTJZaE15TWJfQUU?oc=5)
-
-2026-09-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkRXUUI3RU9GbGxEZm8yMjVpc0F2c20zV0hMS3h1dVQtSnh4bjN5YVlTMFd0TFBSZEgwdWtxNlZnY0hZb1haMnFOLXVfaktLdWNLVGFZeFYtbXQyWTFQYTRhbXNZQW1aSVV2amQ4U0twRHFSQUNqT05pSXBFcExpSk5tT0pCaGt5YnFWczVHXzBzeldScmlIdXdQYU9CUkxGSWxLQ3A4OVFNZVd5YTJZaE15TWJfQUU?oc=5)
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdlJzVjdQcVVHa0ZpYmg5b2ZfWWowNDU0UEVGZFBnTkh2bENhS3RFOGpQQk9ibGhldHJYVmM1dTVCLXktT1lDbkJJRThNUmRtX2FzR0pxcGh0Zml3XzRDdkU5T0pqMG5CRmR0MkFfQWFBNjNEVnJkN01GZnRCMV9wdXlpcnBFZGExMC13UFBuSFlhVmNZZmtIZjNJSVV1UkpONXdUNlJvRnVlUzY0RGVHc1Q2bzRyVWQ0V2FsZWd0MFgyN296Z1BfNVNydjNEb0tyaTk0V3I4dERpdGFDNVh0WE4wZk9wVGRXN2Zlb21OeDNUbk1WakNLQW0yNHJZUdIBkgJBVV95cUxPXzlrOHl2R0pXM3pibGpfYmI3OVh0ZG9kY0tzSGl6ZGVkMEpiYm52TXZVYnlFTzhzdlNKZVY0TWdFMk1PZWZVUjVsYmRKS2VaOWY3NUY0TVFicEJEZWNGR04yZlVFaGdkbTU0R1VjbndWZnluaElIUmpTTDZvVjREQXZzTkI3Umt2aVVUbVdBS0tiblA4cU54ZGkzQXB2cXhtVE5MVVQ2TmtBTjNpQkQ5ZnlrM05Jc1hkUHNmX0pfMHNSMi1LT09HX2d5bnZHZlZuZEJKaW9ocHp0OXJKWFh3NWVwaGM3Qkt1cXg4YXllaGxEbFQ4QUZDcFRoei1IVjNlQ05mSXlJOF9rWFZLeVVYdUFR?oc=5)
 
 ---
 
@@ -131,6 +131,14 @@ permalink: /news/concizumab/
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+
+---
+
+### [Cholesterin: Bei diesen Patienten senken Statine das Risiko für Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUxfQjQxcTdLQktmREUxN19GZlRLSFh1UkRGMnBuTS1xeDJGQURDR2Q3U3ZSdjBubVhrSXRoVjNUa2kxeU4xRDZ2a3dMeWdxSzhvanVocVcyU1dsSkxYQzlQVXhfNkk1Z1lTVExLNlFUalVLMUZOLXpEczI3SExnQ25fai1YUFFMWDZQSi02VFY0azlGTzMyV0hhTGk5ZzQ4TmJoeGJFSk9BdkJFeVIyQjNLRGZKZWEzUWYwbC1jQXNIb2V3VzFxdENMRC1jbjB5SXI5Uw?oc=5)
+
+2026-09-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUxfQjQxcTdLQktmREUxN19GZlRLSFh1UkRGMnBuTS1xeDJGQURDR2Q3U3ZSdjBubVhrSXRoVjNUa2kxeU4xRDZ2a3dMeWdxSzhvanVocVcyU1dsSkxYQzlQVXhfNkk1Z1lTVExLNlFUalVLMUZOLXpEczI3SExnQ25fai1YUFFMWDZQSi02VFY0azlGTzMyV0hhTGk5ZzQ4TmJoeGJFSk9BdkJFeVIyQjNLRGZKZWEzUWYwbC1jQXNIb2V3VzFxdENMRC1jbjB5SXI5Uw?oc=5)
 
 ---
 
