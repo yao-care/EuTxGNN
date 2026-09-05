@@ -14,7 +14,7 @@ permalink: /news/onasemnogene-abeparvovec/
 ---
 
 <p class="key-answer" data-question="Onasemnogene Abeparvovec 有什麼相關新聞？">
-<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/onasemnogene-abeparvovec/
 <p><a href="{{ '/drugs/onasemnogene-abeparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（35 則）
+
+### [Rückenschmerzen als Warnzeichen für Bauchspeicheldrüsenkrebs: Wann Sie aufmerksam werden sollten](https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVE0T1ZOYWVqVTNickc1Vy1OVVRuUGE0d0hrblBHX2R6QjNwNVZEeklsNURzYlB3SWdSZ044dHVxZzFWUEszTW1qS3VqdTNpSjlTUlpybWFNZVBQNVdZT3NESU9nclQ5aEhnQ0FyQ1pkLVhtdVRmOWthejEwb1ZTT2NNejhNMjhoWG0wb3ZWOTB0UnJKeFRQMVpmTUoxVDRWdndpTG5NR3NGREl3Tk90ZnRxYlo3QUpURnpHOW05WGh1a01CUEZxb21jNURtZEpxbkNqdEFnMnc5RDhiQ2JNdk8zOEdRMWt3Yk84MGRDV19LZ1hKdkotaFRGSGNDZEhNV2ZFRWEwaUNsSUgwanJPRWtB?oc=5)
+
+2026-09-05 <span class="news-indication-tag">Krebs</span>
+
+來源：[CHIP](https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVE0T1ZOYWVqVTNickc1Vy1OVVRuUGE0d0hrblBHX2R6QjNwNVZEeklsNURzYlB3SWdSZ044dHVxZzFWUEszTW1qS3VqdTNpSjlTUlpybWFNZVBQNVdZT3NESU9nclQ5aEhnQ0FyQ1pkLVhtdVRmOWthejEwb1ZTT2NNejhNMjhoWG0wb3ZWOTB0UnJKeFRQMVpmTUoxVDRWdndpTG5NR3NGREl3Tk90ZnRxYlo3QUpURnpHOW05WGh1a01CUEZxb21jNURtZEpxbkNqdEFnMnc5RDhiQ2JNdk8zOEdRMWt3Yk84MGRDV19LZ1hKdkotaFRGSGNDZEhNV2ZFRWEwaUNsSUgwanJPRWtB?oc=5)
+
+---
+
+### [Family launches urgent appeal as North Devon mum fights rare, inoperable brain tumour - Devon Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUhRRjIxdjRQaUZDdE9LZTZKOG9WRkUydEFENFFYUWlCNDlKOVJ2QXgzMDRLdVV3QlA3SWhLeEtuOEpFazYyM2VqVWxlX3AzS2xoWll2X3Joakt6aWlqbVVONmw4QUVLMFliWUY5cVhid3ljejEzU0dUajRQWDU1cU54cGJoNllEOW9xa042MNIBlAFBVV95cUxNT0FoWWx6MnJwc04tZ01LM2lQRy10TlNwNndZVGhCQlZGclBLczJ0WnBNeVdvVzA4bUZVYkpsY1VZQUpmRUJGUEJsNEstMlBzSjNxYmRrRW80akVXV1NXcVplLVpwdUFPbmJSMjJvQWNwa19icXhzTHB1LWFPblFtcWhwcGFzSVpKcXVrZG9HVzNjRDRM?oc=5)
+
+2026-09-05 <span class="news-indication-tag">tumour</span>
+
+來源：[Devon Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUhRRjIxdjRQaUZDdE9LZTZKOG9WRkUydEFENFFYUWlCNDlKOVJ2QXgzMDRLdVV3QlA3SWhLeEtuOEpFazYyM2VqVWxlX3AzS2xoWll2X3Joakt6aWlqbVVONmw4QUVLMFliWUY5cVhid3ljejEzU0dUajRQWDU1cU54cGJoNllEOW9xa042MNIBlAFBVV95cUxNT0FoWWx6MnJwc04tZ01LM2lQRy10TlNwNndZVGhCQlZGclBLczJ0WnBNeVdvVzA4bUZVYkpsY1VZQUpmRUJGUEJsNEstMlBzSjNxYmRrRW80akVXV1NXcVplLVpwdUFPbmJSMjJvQWNwa19icXhzTHB1LWFPblFtcWhwcGFzSVpKcXVrZG9HVzNjRDRM?oc=5)
+
+---
 
 ### [Prostate Cancer: Cases Rising 3% Annually as Experts Urge Screening](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjQ5bnNVQWdIWkk1UktZdXFCaVppSG1XYjRyTzVpMEdkSlAzTHZzRHpHVUsxN1hfY0ZjRk5Oa1VRRDR2dFJrZS14SF9Ua3E5ZTFmYjdmYVNYQkRWRUJwc1FqV25FclItSTFYOERZOWtraC1obnhjeTVrMHlkZl9ObjAyOUY4TDFfSERoOEpiUW5FUFYtRDluZFRiWF9tTWVt?oc=5)
 
@@ -70,11 +86,11 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Diagnose Diabetes: Was die Erkrankung heute bedeutet](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkczUkpVQlpmNVVsRXpGa2hBTlM1c1luZmRzcTcySk9sVEpNNVkzSGphdTN6bklCaTkzUmx1Q2IyUmZqM1FsTWpLdHp1Z3Q5b1dnN0p6TTE2a3ZHYlNGQXBjUHprYTlwWHNmV1ppVlRJV2pucWFQU2lOQ3RaSG8tTlhMVVE1cFBLRERTWWJn?oc=5)
+### [Voici le lien insoupçonné entre notre alimentation et un type courant de cancer du poumon - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekRoclplTDNqWHlGRmFXcFYyUUgtRDR6MTRJSWRmNjVJMnB3U09PTTBDVXo4MVFfNWVnamRyY0ViVUszRTlWa19hN2FpYWdVUVBQWGdWVzlDY1ROVFMxNFBadVFRbXVkUm9teTB1Xy1haU5xSTJWdHJGbVZkYlZFTER5Q1RQOGRmaHBsek90ZjhzNFJIdHh5NHVPZzE5ZHVuNU44MHBVQ25BSTM1eGljZWNTbjdVcWxtcUR6UWdzTW1RQ0lZLXlibnhjNVZ3U1VON1hkU2ZOcGlLT1ZD?oc=5)
 
-2026-09-05 <span class="news-indication-tag">diabetes</span>
+2026-09-05 <span class="news-indication-tag">cancer</span>
 
-來源：[regio-aktuell24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkczUkpVQlpmNVVsRXpGa2hBTlM1c1luZmRzcTcySk9sVEpNNVkzSGphdTN6bklCaTkzUmx1Q2IyUmZqM1FsTWpLdHp1Z3Q5b1dnN0p6TTE2a3ZHYlNGQXBjUHprYTlwWHNmV1ppVlRJV2pucWFQU2lOQ3RaSG8tTlhMVVE1cFBLRERTWWJn?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekRoclplTDNqWHlGRmFXcFYyUUgtRDR6MTRJSWRmNjVJMnB3U09PTTBDVXo4MVFfNWVnamRyY0ViVUszRTlWa19hN2FpYWdVUVBQWGdWVzlDY1ROVFMxNFBadVFRbXVkUm9teTB1Xy1haU5xSTJWdHJGbVZkYlZFTER5Q1RQOGRmaHBsek90ZjhzNFJIdHh5NHVPZzE5ZHVuNU44MHBVQ25BSTM1eGljZWNTbjdVcWxtcUR6UWdzTW1RQ0lZLXlibnhjNVZ3U1VON1hkU2ZOcGlLT1ZD?oc=5)
 
 ---
 
@@ -118,6 +134,14 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
+### [Berkane : Des appels à enquêter sur les pesticides et des les décès dus au cancer du cerveau](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSkRIcmF2RUtFbWhYeGVVeWFGYUs1Yi1nWF9zN1dBNHlORkdtMmw0U1VMeFJqdnlWeksxeVJERk00dnVxUFZnVkJiUnp0ZklzVHVpSTRvdjhQSUNkUHhOaXZ6a1VGaUtoRG44dU1iTy1ZejNVOGhBRENJMTdwemFDNlRqX2xnUjJsVGlsbm1NVFBITWhzOG1UQW13?oc=5)
+
+2026-09-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Yabiladi.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSkRIcmF2RUtFbWhYeGVVeWFGYUs1Yi1nWF9zN1dBNHlORkdtMmw0U1VMeFJqdnlWeksxeVJERk00dnVxUFZnVkJiUnp0ZklzVHVpSTRvdjhQSUNkUHhOaXZ6a1VGaUtoRG44dU1iTy1ZejNVOGhBRENJMTdwemFDNlRqX2xnUjJsVGlsbm1NVFBITWhzOG1UQW13?oc=5)
+
+---
+
 ### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
 
 2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
@@ -134,11 +158,19 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Microbiota, nell’intestino i segnali di tumori e malattie croniche decenni prima di ammalarsi](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnl5WHZvaVNDMlJWU1VMLU5HYlM3UVBsNFpKalVWVWRsblk2U2draGZ2OGE0RkZrbDBFaE1obXdpbHpnclVTUm43UXdXUmRJV2h4X1dWYkUwdmMwOVo2cUdoTHlkSXl4OWk5MS1iWlNETUF3eHMzRWZVNmNON1VhQUtCTFMwZ3NQSFZLNmhibkRSV0pGZmNQTjFRX3ZiUVFUUXZpd21CckxCRUVXZXA2QjFoZw?oc=5)
+### [Microbiota, nell’intestino i segnali di tumori e malattie croniche decenni prima di ammalarsi - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnl5WHZvaVNDMlJWU1VMLU5HYlM3UVBsNFpKalVWVWRsblk2U2draGZ2OGE0RkZrbDBFaE1obXdpbHpnclVTUm43UXdXUmRJV2h4X1dWYkUwdmMwOVo2cUdoTHlkSXl4OWk5MS1iWlNETUF3eHMzRWZVNmNON1VhQUtCTFMwZ3NQSFZLNmhibkRSV0pGZmNQTjFRX3ZiUVFUUXZpd21CckxCRUVXZXA2QjFoZw?oc=5)
 
 2026-09-04 <span class="news-indication-tag">tumor</span>
 
-來源：[quotidiano.net](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnl5WHZvaVNDMlJWU1VMLU5HYlM3UVBsNFpKalVWVWRsblk2U2draGZ2OGE0RkZrbDBFaE1obXdpbHpnclVTUm43UXdXUmRJV2h4X1dWYkUwdmMwOVo2cUdoTHlkSXl4OWk5MS1iWlNETUF3eHMzRWZVNmNON1VhQUtCTFMwZ3NQSFZLNmhibkRSV0pGZmNQTjFRX3ZiUVFUUXZpd21CckxCRUVXZXA2QjFoZw?oc=5)
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnl5WHZvaVNDMlJWU1VMLU5HYlM3UVBsNFpKalVWVWRsblk2U2draGZ2OGE0RkZrbDBFaE1obXdpbHpnclVTUm43UXdXUmRJV2h4X1dWYkUwdmMwOVo2cUdoTHlkSXl4OWk5MS1iWlNETUF3eHMzRWZVNmNON1VhQUtCTFMwZ3NQSFZLNmhibkRSV0pGZmNQTjFRX3ZiUVFUUXZpd21CckxCRUVXZXA2QjFoZw?oc=5)
+
+---
+
+### [Psilocybine : prévenir les effets de la chimiothérapie](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkJrUkNtQkN2cmlNMWZhNThxVldqRkhpa1dTLThmbENJS3R1SEpKTl9vemMxY1k4U3AyNU9PdVN0Nzkta2FIdGM4ZldUaUhJR21NWko3Smt2Zk9IMFk1OWlQVG92dUp1cGwwUzRSRFpKNF96MG16QV9BODgxaDdrYnU3aWl6a2RQRmR5VW52QnE3b0VVTndHTDhxWTFOanNaY0FsVzRCaEo0WWFoVkRBVWpkNW9tS0Vu?oc=5)
+
+2026-09-04 <span class="news-indication-tag">cancer</span>
+
+來源：[rts.ch](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkJrUkNtQkN2cmlNMWZhNThxVldqRkhpa1dTLThmbENJS3R1SEpKTl9vemMxY1k4U3AyNU9PdVN0Nzkta2FIdGM4ZldUaUhJR21NWko3Smt2Zk9IMFk1OWlQVG92dUp1cGwwUzRSRFpKNF96MG16QV9BODgxaDdrYnU3aWl6a2RQRmR5VW52QnE3b0VVTndHTDhxWTFOanNaY0FsVzRCaEo0WWFoVkRBVWpkNW9tS0Vu?oc=5)
 
 ---
 
@@ -154,7 +186,7 @@ permalink: /news/onasemnogene-abeparvovec/
 
 2026-09-04 <span class="news-indication-tag">diabète</span>
 
-來源：[medisite.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
 
 ---
 
@@ -174,14 +206,6 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Un estudio reveló que una dieta puede reducir la grasa hepática en un 67 % y revertir la prediabetes.](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkRzVGtzMXdOUkdCUGsza3g2VkxJb1JKNGRsbGsyM0hIV2tyaUhYUHBJRk8zX0hrYS00ckROMnh0NEFrYmpBeVdjY1RpTjBXTk9FWEpuOGJaRUxUd1lSSlBBMklicUlZdEFEV2hHVTM4cGliV1ZzSncwS20zNzJnblJHVzZGbmxpNnBaQS1fWlE4MEd3b09HWmkweEw1eEE?oc=5)
-
-2026-09-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkRzVGtzMXdOUkdCUGsza3g2VkxJb1JKNGRsbGsyM0hIV2tyaUhYUHBJRk8zX0hrYS00ckROMnh0NEFrYmpBeVdjY1RpTjBXTk9FWEpuOGJaRUxUd1lSSlBBMklicUlZdEFEV2hHVTM4cGliV1ZzSncwS20zNzJnblJHVzZGbmxpNnBaQS1fWlE4MEd3b09HWmkweEw1eEE?oc=5)
-
----
-
 ### [Les professeurs d'exercice physique sont d'accord : "Monter les escaliers est six fois plus rentable que n'importe quel autre exercice. Une séance d'une minute à un rythme confortable suffit"](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
 
 2026-09-04 <span class="news-indication-tag">EPOC</span>
@@ -198,35 +222,19 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Ïly, Réunionnaise de 6 ans, a vaincu son cancer : « Notre fille s’est battue »](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdERScWEyRldfRXZxeHpqQkFEc3ZiczAyOU11SHdSWG5uQ1RmMHhHSkdLaFpWanZjbTA0YTNTOW9LN2ZfUnIyOHkza25tVEZobG42UndfbDlJQXloSkctcWtGTHBqSzJRa0FJR1Utd3U2SFdVNXJBRmtKcVlSTXA3SS1BOGFHZTlDUnZVSnBtUmowSDVONlAtUy1PSzN5ZlJOODBWcHF5V2cwWkhhSlJ1RG51eUM5WC1PZVBCX0g1MXdtOUNsMTZMVGZfck0xMEFNWjVDS3BOLVdZTFEx?oc=5)
+### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
 
-2026-09-04 <span class="news-indication-tag">cancer</span>
+2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[Linfo.re](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdERScWEyRldfRXZxeHpqQkFEc3ZiczAyOU11SHdSWG5uQ1RmMHhHSkdLaFpWanZjbTA0YTNTOW9LN2ZfUnIyOHkza25tVEZobG42UndfbDlJQXloSkctcWtGTHBqSzJRa0FJR1Utd3U2SFdVNXJBRmtKcVlSTXA3SS1BOGFHZTlDUnZVSnBtUmowSDVONlAtUy1PSzN5ZlJOODBWcHF5V2cwWkhhSlJ1RG51eUM5WC1PZVBCX0g1MXdtOUNsMTZMVGZfck0xMEFNWjVDS3BOLVdZTFEx?oc=5)
-
----
-
-### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
 
 ---
 
-### [« Une découverte très prometteuse » : une étude estime que les psychédéliques pourraient aider à supporter la chimiothérapie - Le Parisien](https://news.google.com/rss/articles/CBMioAJBVV95cUxNaVBpcjBIdXZnQnUyaFhFdW9CRTJ5VHZMUlBJbmhyNk51bzZUUzVpLUdOSnE3WWFwV1F0RUNKZ0l3NURUTTFtX1NHTy1WZm5VOTBjQ2JYTlR0TXRwbTZyUDFRNnU0T2E4dVZGVy1fazJjTnQ2NDV5OUYyV1liY3F2bEliR05GWEJIOC00TERoeXlYNEU1RmR4ZFFhZjRWd2t0cXhGTGJZTFlBMlZjRUx0V2Q1ZWROazk5eXRIaGFFWG5mblhpQUYyRFJCT1hRNExheS1DMHQ0cUVKcEFsU3ROUWlvYUVrbGY2WFdHYWtRQUlZbTF3Yi1PSzBoSlUzbVJlOWt3TWp5SVQ5d1dDaUY2dEttQ2VhakFob0IzUHRuTlo?oc=5)
+### [Descubren cómo las células cancerosas evaden el sistema inmunitario mediante antioxidantes - La Patria](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYnc2MWl3eHlxTERTSVhlUFQ5RzQ2V1pTWDVRekFpaVhGSzgwRmNCaHQzSU5xMGc5a0RlQldmWnhoZnRreWlKWXJxVTB4a051NDlsRWFUeU1TbXgxVkFZaFlQRjhlVDM3THZKN1BMdmprVDZVVjU1Q0t3dWVnYWRocXk3amVsNnhKNGR1dnFRclBrYW9BWUF2czBzT3FhRlVHbnNZaFNzUnRITVBZTzY3RGR0eWV5bV9kUVJfY0xn?oc=5)
 
 2026-09-03 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMioAJBVV95cUxNaVBpcjBIdXZnQnUyaFhFdW9CRTJ5VHZMUlBJbmhyNk51bzZUUzVpLUdOSnE3WWFwV1F0RUNKZ0l3NURUTTFtX1NHTy1WZm5VOTBjQ2JYTlR0TXRwbTZyUDFRNnU0T2E4dVZGVy1fazJjTnQ2NDV5OUYyV1liY3F2bEliR05GWEJIOC00TERoeXlYNEU1RmR4ZFFhZjRWd2t0cXhGTGJZTFlBMlZjRUx0V2Q1ZWROazk5eXRIaGFFWG5mblhpQUYyRFJCT1hRNExheS1DMHQ0cUVKcEFsU3ROUWlvYUVrbGY2WFdHYWtRQUlZbTF3Yi1PSzBoSlUzbVJlOWt3TWp5SVQ5d1dDaUY2dEttQ2VhakFob0IzUHRuTlo?oc=5)
-
----
-
-### [Psilocibina prima della chemio, l’effetto inatteso sui nervi](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3FyRFQ1aWZCelc4b2c1RFJNUEZIcUtTREJZeTFweHJWazA3UXBuWk5YUnVVQjFWU0xBSm1XNFZqeGw0X1ZIUURFbUJLZVJydzVhOTNBT3FRZmNNcGMyeFI5dlVmU0lWNGR3Y2JRanBLaDNGbFlQQjg2bktuRHBpT2dDNG1vbEJVdW1ONVMxWUJfM1hRTUNpU05iSW05OERkZ1VqT2JYbkZfZzVNWlNhRjRSeXIxUXpFeUE?oc=5)
-
-2026-09-03 <span class="news-indication-tag">cancro</span>
-
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3FyRFQ1aWZCelc4b2c1RFJNUEZIcUtTREJZeTFweHJWazA3UXBuWk5YUnVVQjFWU0xBSm1XNFZqeGw0X1ZIUURFbUJLZVJydzVhOTNBT3FRZmNNcGMyeFI5dlVmU0lWNGR3Y2JRanBLaDNGbFlQQjg2bktuRHBpT2dDNG1vbEJVdW1ONVMxWUJfM1hRTUNpU05iSW05OERkZ1VqT2JYbkZfZzVNWlNhRjRSeXIxUXpFeUE?oc=5)
+來源：[La Patria](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYnc2MWl3eHlxTERTSVhlUFQ5RzQ2V1pTWDVRekFpaVhGSzgwRmNCaHQzSU5xMGc5a0RlQldmWnhoZnRreWlKWXJxVTB4a051NDlsRWFUeU1TbXgxVkFZaFlQRjhlVDM3THZKN1BMdmprVDZVVjU1Q0t3dWVnYWRocXk3amVsNnhKNGR1dnFRclBrYW9BWUF2czBzT3FhRlVHbnNZaFNzUnRITVBZTzY3RGR0eWV5bV9kUVJfY0xn?oc=5)
 
 ---
 
@@ -243,6 +251,14 @@ permalink: /news/onasemnogene-abeparvovec/
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
+
+---
+
+### [Las vacunas contra la covid‑19 ayudan al sistema inmunitario a encontrar tumores que antes se le escapaban](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVBhcVZoa2xvY21uM2swRngxYjVqUXNsMm5Mem5TVENjRUs2LUZVaDloYTNUSmt0OE1HRFNnRHllRnhTdkQwY21xMjcxem02ZjFsVmIwNTVuQ3IxWWlFSU5rUmVCUk1fZDV1VHQ1Y3BRMUZMY3B4SmF1V2FuXzNEbzdnXy1oRUtLTHlmc282RjdxVDdyWk84SzhWYTA0aTNFZ1ZMQi1lbVRDbERkZG43YlMtVlg5bGpiSjZOZExiLWw?oc=5)
+
+2026-09-03 <span class="news-indication-tag">tumor</span>
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVBhcVZoa2xvY21uM2swRngxYjVqUXNsMm5Mem5TVENjRUs2LUZVaDloYTNUSmt0OE1HRFNnRHllRnhTdkQwY21xMjcxem02ZjFsVmIwNTVuQ3IxWWlFSU5rUmVCUk1fZDV1VHQ1Y3BRMUZMY3B4SmF1V2FuXzNEbzdnXy1oRUtLTHlmc282RjdxVDdyWk84SzhWYTA0aTNFZ1ZMQi1lbVRDbERkZG43YlMtVlg5bGpiSjZOZExiLWw?oc=5)
 
 ---
 
@@ -315,14 +331,6 @@ permalink: /news/onasemnogene-abeparvovec/
 2026-09-01 <span class="news-indication-tag">cancer</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcDc0bEZ1Szd3NVVsMktJNkxJVnlMRTBRb1htcU1rWWNPZzlQZDU0ZUVnd1M0ckU5d0pDRHZZd1RrZFkzSmgxTjhHV09sYTA2Smh4N1F3WnlIT1NzTW9RMlEzcnlua29vRy1iVE5uMTk5MU5iYng4SmNTSXRFdGpTcGEtWUd0R2RoZ3hLMzdodUc1bHNjTTc0b2tndHRhaUpDa2tuaHdLdWhHbVFEYTRzNHo0cXRlMjNiTHg3cQ?oc=5)
-
----
-
-### [Maidstone woman's early cancer symptoms blamed on menopause](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
-
-2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
 
 ---
 

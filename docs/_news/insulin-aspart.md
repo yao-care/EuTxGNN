@@ -14,7 +14,7 @@ permalink: /news/insulin-aspart/
 ---
 
 <p class="key-answer" data-question="Insulin Aspart 有什麼相關新聞？">
-<strong>Insulin Aspart</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Aspart</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/insulin-aspart/
 <p><a href="{{ '/drugs/insulin-aspart/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
-
-### [Diagnose Diabetes: Was die Erkrankung heute bedeutet](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkczUkpVQlpmNVVsRXpGa2hBTlM1c1luZmRzcTcySk9sVEpNNVkzSGphdTN6bklCaTkzUmx1Q2IyUmZqM1FsTWpLdHp1Z3Q5b1dnN0p6TTE2a3ZHYlNGQXBjUHprYTlwWHNmV1ppVlRJV2pucWFQU2lOQ3RaSG8tTlhMVVE1cFBLRERTWWJn?oc=5)
-
-2026-09-05 <span class="news-indication-tag">diabetes</span>
-
-來源：[regio-aktuell24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkczUkpVQlpmNVVsRXpGa2hBTlM1c1luZmRzcTcySk9sVEpNNVkzSGphdTN6bklCaTkzUmx1Q2IyUmZqM1FsTWpLdHp1Z3Q5b1dnN0p6TTE2a3ZHYlNGQXBjUHprYTlwWHNmV1ppVlRJV2pucWFQU2lOQ3RaSG8tTlhMVVE1cFBLRERTWWJn?oc=5)
-
----
+## 相關新聞（8 則）
 
 ### [Con el hígado graso, poca broma - Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RTRFU1h0T0tFc0dESUtkZUhXdXlreTk5T3FlQ3ZUUHlOOHZqa3p3ckw2Tmp3SnpqV1dlODhUQ3hYamtmOVZGb2VzQ09NaHFkNl9hZWlFeGg1Z0hrd1BKMmVRZnBJU2s1YXVJ?oc=5)
 
@@ -90,23 +82,15 @@ permalink: /news/insulin-aspart/
 
 2026-09-04 <span class="news-indication-tag">diabète</span>
 
-來源：[medisite.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
 
 ---
 
-### [Un estudio reveló que una dieta puede reducir la grasa hepática en un 67 % y revertir la prediabetes.](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkRzVGtzMXdOUkdCUGsza3g2VkxJb1JKNGRsbGsyM0hIV2tyaUhYUHBJRk8zX0hrYS00ckROMnh0NEFrYmpBeVdjY1RpTjBXTk9FWEpuOGJaRUxUd1lSSlBBMklicUlZdEFEV2hHVTM4cGliV1ZzSncwS20zNzJnblJHVzZGbmxpNnBaQS1fWlE4MEd3b09HWmkweEw1eEE?oc=5)
+### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
 
-2026-09-04 <span class="news-indication-tag">diabetes</span>
+2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkRzVGtzMXdOUkdCUGsza3g2VkxJb1JKNGRsbGsyM0hIV2tyaUhYUHBJRk8zX0hrYS00ckROMnh0NEFrYmpBeVdjY1RpTjBXTk9FWEpuOGJaRUxUd1lSSlBBMklicUlZdEFEV2hHVTM4cGliV1ZzSncwS20zNzJnblJHVzZGbmxpNnBaQS1fWlE4MEd3b09HWmkweEw1eEE?oc=5)
-
----
-
-### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
 
 ---
 

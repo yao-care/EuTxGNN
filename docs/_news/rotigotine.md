@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（18 則）
 
 ### [Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented - The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
 
@@ -78,19 +78,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [F: Un maire interdit aux moustiques-tigres de survoler sa commune - 20 Minuten](https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0xlaVNDMmlYV2dsRE05REtuakl2bDhBZkhaLXpnV2I2M0ZYS3pPd0lwejBQZWRYQlpBVDNydlpRS3pXSlRjTXA2QlNaQXpUdnEzMWRsTjZHZnJscVlUQ200S29mekZLTllVZ2RUTXVONVdTNXktTllHak04bWR4czJTOTlYUnR5eTNIZHZxTU15bzRpVllLVElzX0pxcEY3bjBNeFpYXzVyMWNjMkE?oc=5)
+### [Sin ir al colegio por miedo al ébola en el epicentro del virus: “Es mejor un niño analfabeto, pero vivo” - EL PAÍS](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdlZjdjFtUGxBNDNrekpUWkFQNFlJc254R21BZHMtSGl0LUZmN3NJMkFJa1REdXJLUWl5N2xIU0ROWGJFcVdaZXBERVhyT05GODlWTzFZSGFrclJIVkF2VWR1NVJ0anBrRFBySFJRb3NFanZvZG9nN3pmbE9SbEZtbEV1ZzdHdjdscmd2RFFiMjU3VEpWeFcyZnoxYUhQS1plNnJKSWc3ajh1N25jVXkzdy1WT04tajhPZmxhUGNwNkVDUXBKbFJWVnVRR3RBdFdGdnhBajVON2t4LUI1MnZrdjBSN3fSAfgBQVVfeXFMTUl0Vmt5UlhpMEI5aGVScHhqVE5waDdFcG5Za2tYRThMX3pwSllDWEd3SktURVppaDFib2tkdmplNERrQVcyQWVMeGt1TTF6Q1ZzNF9Yb0tldkNLYUY2MTE1dDRTaGR5S3EwMlo3X1JFX0gtaWI3V0d3OFFsZm1NRVUzVE1xOEVfblBMV2xnbHR0TFJFZFRvZXFEZDhUMm1Jd1hUeUV4bWZfT2V2Z0hnVVQxa2dwQ3NkZnhMeTRLZnJjQ05FQXhGTUlWX0poWHJMLTVNNzJVbm9sZG5qaVU3QmtvaWNCekliUm14a0xWQjVoMFBXUXhrYUk?oc=5)
 
-2026-09-05 <span class="news-indication-tag">MS</span>
+2026-09-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[20 Minuten](https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0xlaVNDMmlYV2dsRE05REtuakl2bDhBZkhaLXpnV2I2M0ZYS3pPd0lwejBQZWRYQlpBVDNydlpRS3pXSlRjTXA2QlNaQXpUdnEzMWRsTjZHZnJscVlUQ200S29mekZLTllVZ2RUTXVONVdTNXktTllHak04bWR4czJTOTlYUnR5eTNIZHZxTU15bzRpVllLVElzX0pxcEY3bjBNeFpYXzVyMWNjMkE?oc=5)
-
----
-
-### [„Wenn der Online-Anbieter schon nicht nach dem Rezept fragt, ist dem nicht zu trauen“ - RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNenlzRHRxQ2VMRHRhVHhSV0lfMFFkRFNDdmRTUk9NbWdad3RoZUNDNEpacmFvZGRPckl0VmdrR0lhRXJxaWl1VTFyLXl2WGo2SC1PZFBVUWZnY3hYWElCSktzYllxblo5ckR2SEpRZEVpbkFqX2JEOHVIdkVtX3o4Zjl3NWhNZDVCUkY1V20tS3hDenEwYnNZQXFFQUQzRUczVkJTWEd3TmpYeE9TWnJKU0pBYWpwMmgxTDZidG5lbkYzQms?oc=5)
-
-2026-09-05 <span class="news-indication-tag">MS</span>
-
-來源：[RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNenlzRHRxQ2VMRHRhVHhSV0lfMFFkRFNDdmRTUk9NbWdad3RoZUNDNEpacmFvZGRPckl0VmdrR0lhRXJxaWl1VTFyLXl2WGo2SC1PZFBVUWZnY3hYWElCSktzYllxblo5ckR2SEpRZEVpbkFqX2JEOHVIdkVtX3o4Zjl3NWhNZDVCUkY1V20tS3hDenEwYnNZQXFFQUQzRUczVkJTWEd3TmpYeE9TWnJKU0pBYWpwMmgxTDZidG5lbkYzQms?oc=5)
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdlZjdjFtUGxBNDNrekpUWkFQNFlJc254R21BZHMtSGl0LUZmN3NJMkFJa1REdXJLUWl5N2xIU0ROWGJFcVdaZXBERVhyT05GODlWTzFZSGFrclJIVkF2VWR1NVJ0anBrRFBySFJRb3NFanZvZG9nN3pmbE9SbEZtbEV1ZzdHdjdscmd2RFFiMjU3VEpWeFcyZnoxYUhQS1plNnJKSWc3ajh1N25jVXkzdy1WT04tajhPZmxhUGNwNkVDUXBKbFJWVnVRR3RBdFdGdnhBajVON2t4LUI1MnZrdjBSN3fSAfgBQVVfeXFMTUl0Vmt5UlhpMEI5aGVScHhqVE5waDdFcG5Za2tYRThMX3pwSllDWEd3SktURVppaDFib2tkdmplNERrQVcyQWVMeGt1TTF6Q1ZzNF9Yb0tldkNLYUY2MTE1dDRTaGR5S3EwMlo3X1JFX0gtaWI3V0d3OFFsZm1NRVUzVE1xOEVfblBMV2xnbHR0TFJFZFRvZXFEZDhUMm1Jd1hUeUV4bWZfT2V2Z0hnVVQxa2dwQ3NkZnhMeTRLZnJjQ05FQXhGTUlWX0poWHJMLTVNNzJVbm9sZG5qaVU3QmtvaWNCekliUm14a0xWQjVoMFBXUXhrYUk?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [GLP-1-Medikamente und Haarausfall: Ein Gen könnte erklären, warum manche Männer betroffen sind - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
+### [GLP-1-Medikamente und Haarausfall: Ein Gen könnte erklären, warum manche Männer betroffen sind](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
 
 2026-09-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
 
 ---
 
@@ -134,19 +126,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [AI is starting to see migraine as more than just a headache](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
-
-2026-09-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
-
-來源：[euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
-
----
-
-### [Myelinpeptide gegen Multiple Sklerose: Chancen, aber auch strenge Regeln - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnMtclZMSXZhSkx3UzY1LVFZVmphZkF2WlIyeWljcWFrc2ZnR1BmQ0QxVnNJQmNDUVZ2TGM0UkNxYWF5V1EyZGdIRXpaejc0ZWVwTUdEWEo5cW5KWkpWUFMxY1lNQWtkV0dKQUQyckgtS01IYVd2TDFpQVJobldIZTAyVi1taGpoYmdtbUFaMkxxR1Fyc2NMcnpNRXVyUndmdkEwZg?oc=5)
+### [Myelinpeptide gegen Multiple Sklerose: Chancen, aber auch strenge Regeln](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnMtclZMSXZhSkx3UzY1LVFZVmphZkF2WlIyeWljcWFrc2ZnR1BmQ0QxVnNJQmNDUVZ2TGM0UkNxYWF5V1EyZGdIRXpaejc0ZWVwTUdEWEo5cW5KWkpWUFMxY1lNQWtkV0dKQUQyckgtS01IYVd2TDFpQVJobldIZTAyVi1taGpoYmdtbUFaMkxxR1Fyc2NMcnpNRXVyUndmdkEwZg?oc=5)
 
 2026-09-04 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnMtclZMSXZhSkx3UzY1LVFZVmphZkF2WlIyeWljcWFrc2ZnR1BmQ0QxVnNJQmNDUVZ2TGM0UkNxYWF5V1EyZGdIRXpaejc0ZWVwTUdEWEo5cW5KWkpWUFMxY1lNQWtkV0dKQUQyckgtS01IYVd2TDFpQVJobldIZTAyVi1taGpoYmdtbUFaMkxxR1Fyc2NMcnpNRXVyUndmdkEwZg?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnMtclZMSXZhSkx3UzY1LVFZVmphZkF2WlIyeWljcWFrc2ZnR1BmQ0QxVnNJQmNDUVZ2TGM0UkNxYWF5V1EyZGdIRXpaejc0ZWVwTUdEWEo5cW5KWkpWUFMxY1lNQWtkV0dKQUQyckgtS01IYVd2TDFpQVJobldIZTAyVi1taGpoYmdtbUFaMkxxR1Fyc2NMcnpNRXVyUndmdkEwZg?oc=5)
 
 ---
 
@@ -158,11 +142,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Multiple Sklerose: Hamburger Forscher entdecken Nervenzell-Schutzfaktor](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDRoTldMc1RDWW50SEJETkVtQXNNUXJpNkwtWEV4dWdjSFJzUGw5RS1LMHpOaGNpY2tTYzVjWnNkOU4zN0puVkJndEVhMGNKYTlWTU1GUUc4aXJaQ05zLUV4YWZieURZanhGUE42b1haV3NWdUEwQU1NV1hCUmlvdEEySU9Nd2VuN0UxdTdfMTNlTFJza1hscmx6NDRmN0lWbGJrS19mVkJSWFBTdTJqdTRhOG5GeXI1TmRn?oc=5)
+### [Multiple Sklerose: Hamburger Forscher entdecken Nervenzell-Schutzfaktor - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDRoTldMc1RDWW50SEJETkVtQXNNUXJpNkwtWEV4dWdjSFJzUGw5RS1LMHpOaGNpY2tTYzVjWnNkOU4zN0puVkJndEVhMGNKYTlWTU1GUUc4aXJaQ05zLUV4YWZieURZanhGUE42b1haV3NWdUEwQU1NV1hCUmlvdEEySU9Nd2VuN0UxdTdfMTNlTFJza1hscmx6NDRmN0lWbGJrS19mVkJSWFBTdTJqdTRhOG5GeXI1TmRn?oc=5)
 
-2026-09-03 <span class="news-indication-tag">Multiple Sklerose</span>
+2026-09-03 <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDRoTldMc1RDWW50SEJETkVtQXNNUXJpNkwtWEV4dWdjSFJzUGw5RS1LMHpOaGNpY2tTYzVjWnNkOU4zN0puVkJndEVhMGNKYTlWTU1GUUc4aXJaQ05zLUV4YWZieURZanhGUE42b1haV3NWdUEwQU1NV1hCUmlvdEEySU9Nd2VuN0UxdTdfMTNlTFJza1hscmx6NDRmN0lWbGJrS19mVkJSWFBTdTJqdTRhOG5GeXI1TmRn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDRoTldMc1RDWW50SEJETkVtQXNNUXJpNkwtWEV4dWdjSFJzUGw5RS1LMHpOaGNpY2tTYzVjWnNkOU4zN0puVkJndEVhMGNKYTlWTU1GUUc4aXJaQ05zLUV4YWZieURZanhGUE42b1haV3NWdUEwQU1NV1hCUmlvdEEySU9Nd2VuN0UxdTdfMTNlTFJza1hscmx6NDRmN0lWbGJrS19mVkJSWFBTdTJqdTRhOG5GeXI1TmRn?oc=5)
 
 ---
 
@@ -190,11 +174,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Doctors baffled as boy, six, dies from disease barely seen in over 200 years](https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3Zlb3djZkpTTEt0QjZEejNnODByZlB4cVJSTVR1Y2ppLVF0SUxqMGo3ZFhjbzg4bEk3RG1DUmtVYXJ6VWkxYi1sX2w3eWJidWtOTDlqN0hiMWlOcXdOZU5OU04tSk9TOFlTQ1BlVk9sTkdLZnUwdlJFRC1YS2wzNHpMSHhVQdIBiwFBVV95cUxOa1E4Z1I5QTFhSmZaQ1lPemVZcV9MMmdKQlRuczBUamtJa0tkQllsQnVkSDRzNTBhZlZwVzctcUQxdGt1LTFtVFhTbXg2Tm9kc00wLUM5cWJsdFk4UUU5T05ITGU4aW1QYUNSNzB5U2NwVWtvNXpfUlZhcXpUTmN6ZDItZ2RTMDJZWWJV?oc=5)
+### [Doctors baffled as boy, six, dies from disease barely seen in over 200 years - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3Zlb3djZkpTTEt0QjZEejNnODByZlB4cVJSTVR1Y2ppLVF0SUxqMGo3ZFhjbzg4bEk3RG1DUmtVYXJ6VWkxYi1sX2w3eWJidWtOTDlqN0hiMWlOcXdOZU5OU04tSk9TOFlTQ1BlVk9sTkdLZnUwdlJFRC1YS2wzNHpMSHhVQdIBiwFBVV95cUxOa1E4Z1I5QTFhSmZaQ1lPemVZcV9MMmdKQlRuczBUamtJa0tkQllsQnVkSDRzNTBhZlZwVzctcUQxdGt1LTFtVFhTbXg2Tm9kc00wLUM5cWJsdFk4UUU5T05ITGU4aW1QYUNSNzB5U2NwVWtvNXpfUlZhcXpUTmN6ZDItZ2RTMDJZWWJV?oc=5)
 
 2026-09-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3Zlb3djZkpTTEt0QjZEejNnODByZlB4cVJSTVR1Y2ppLVF0SUxqMGo3ZFhjbzg4bEk3RG1DUmtVYXJ6VWkxYi1sX2w3eWJidWtOTDlqN0hiMWlOcXdOZU5OU04tSk9TOFlTQ1BlVk9sTkdLZnUwdlJFRC1YS2wzNHpMSHhVQdIBiwFBVV95cUxOa1E4Z1I5QTFhSmZaQ1lPemVZcV9MMmdKQlRuczBUamtJa0tkQllsQnVkSDRzNTBhZlZwVzctcUQxdGt1LTFtVFhTbXg2Tm9kc00wLUM5cWJsdFk4UUU5T05ITGU4aW1QYUNSNzB5U2NwVWtvNXpfUlZhcXpUTmN6ZDItZ2RTMDJZWWJV?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3Zlb3djZkpTTEt0QjZEejNnODByZlB4cVJSTVR1Y2ppLVF0SUxqMGo3ZFhjbzg4bEk3RG1DUmtVYXJ6VWkxYi1sX2w3eWJidWtOTDlqN0hiMWlOcXdOZU5OU04tSk9TOFlTQ1BlVk9sTkdLZnUwdlJFRC1YS2wzNHpMSHhVQdIBiwFBVV95cUxOa1E4Z1I5QTFhSmZaQ1lPemVZcV9MMmdKQlRuczBUamtJa0tkQllsQnVkSDRzNTBhZlZwVzctcUQxdGt1LTFtVFhTbXg2Tm9kc00wLUM5cWJsdFk4UUU5T05ITGU4aW1QYUNSNzB5U2NwVWtvNXpfUlZhcXpUTmN6ZDItZ2RTMDJZWWJV?oc=5)
 
 ---
 
@@ -206,19 +190,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [NHS confirms major vaccine rollout for pensioners aged between 65 and 74](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n0gGHAUFVX3lxTFBETXdNdU9LRlhlc2phdVo5MXluZS1Yam5Id2RTbkRGRS1IeDM4UEQzdG5VTnc1WUtoMVU2dHR5SHlveUExaEhpYUE5cHBkRzVLQ2s3WWxBTjM0UkVpYUpKdVBETE1lQVdvRTVuM2FPRkJBQjdPVmJJNjc5VWFnYzVXTlRiLXNBRQ?oc=5)
+### [NHS confirms major vaccine rollout for pensioners aged between 65 and 74 - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n0gGHAUFVX3lxTFBETXdNdU9LRlhlc2phdVo5MXluZS1Yam5Id2RTbkRGRS1IeDM4UEQzdG5VTnc1WUtoMVU2dHR5SHlveUExaEhpYUE5cHBkRzVLQ2s3WWxBTjM0UkVpYUpKdVBETE1lQVdvRTVuM2FPRkJBQjdPVmJJNjc5VWFnYzVXTlRiLXNBRQ?oc=5)
 
 2026-09-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[express.co.uk](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n0gGHAUFVX3lxTFBETXdNdU9LRlhlc2phdVo5MXluZS1Yam5Id2RTbkRGRS1IeDM4UEQzdG5VTnc1WUtoMVU2dHR5SHlveUExaEhpYUE5cHBkRzVLQ2s3WWxBTjM0UkVpYUpKdVBETE1lQVdvRTVuM2FPRkJBQjdPVmJJNjc5VWFnYzVXTlRiLXNBRQ?oc=5)
-
----
-
-### [Maidstone woman's early cancer symptoms blamed on menopause](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
-
-2026-08-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xU3RSN0NxaXlxY01GdVRZUzRlRVJ0ellmd0N6OHdFN0pzZTlyZmZxckdsaFhyZURPYmNLdDdZR2ttTmV6UllNRGN3Z0JHRlh3TFgyY1BjczZBOEpX?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n0gGHAUFVX3lxTFBETXdNdU9LRlhlc2phdVo5MXluZS1Yam5Id2RTbkRGRS1IeDM4UEQzdG5VTnc1WUtoMVU2dHR5SHlveUExaEhpYUE5cHBkRzVLQ2s3WWxBTjM0UkVpYUpKdVBETE1lQVdvRTVuM2FPRkJBQjdPVmJJNjc5VWFnYzVXTlRiLXNBRQ?oc=5)
 
 ---
 

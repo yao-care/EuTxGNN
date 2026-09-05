@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,31 +52,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [Scompenso cardiaco, nuove linee guida ESC: cambia classificazione e approccio terapeutico](https://news.google.com/rss/articles/CBMixAFBVV95cUxNblpHTUpnSlM5MldWNlV6M2g5NExjdU1lWWlnVU01SzdySjBCV09qWEJWTHlibEZTNUlCTUhSM0FuMHN6VkRmOU1mcjNEeHd4LU1FSk5lWkhBUHpXX1h2ZEV2NDJlMzl2dFkzVWRaenJIT2RSd0ZpOGlEUHMyb2pDTDZhVHh2bHFHMEFfQ3JkWGFwcHM4bHRUWDBEQ0lzTTF2MzRjRTBEcTF0UFdvU1RIMUZGbWJkS3lySlVNMWNMZll1eURk?oc=5)
-
-2026-09-03 <span class="news-indication-tag">CKD</span>
-
-來源：[Doctor33](https://news.google.com/rss/articles/CBMixAFBVV95cUxNblpHTUpnSlM5MldWNlV6M2g5NExjdU1lWWlnVU01SzdySjBCV09qWEJWTHlibEZTNUlCTUhSM0FuMHN6VkRmOU1mcjNEeHd4LU1FSk5lWkhBUHpXX1h2ZEV2NDJlMzl2dFkzVWRaenJIT2RSd0ZpOGlEUHMyb2pDTDZhVHh2bHFHMEFfQ3JkWGFwcHM4bHRUWDBEQ0lzTTF2MzRjRTBEcTF0UFdvU1RIMUZGbWJkS3lySlVNMWNMZll1eURk?oc=5)
-
----
-
-### [CKD-Früherkennung: 100 Millionen Europäer betroffen, oft unentdeckt](https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDF0VFZXRXhkRWNoa0FtbHBmdGxWbndfSGhaUGI3N0xlSDBOYWpwVG5tVlk2TVVlYmVyLWVxVHJHaWVnaGxTYnVBLWpFc1RLOE0yclJPeTJSNUY4NV9rQVZlN1M0WDFDbEVNQ0JyTm1wUXUyTnNmWEYteFVTMFFGVGJ5cFJadVhLMjJYZ1NFUlZyQjZLSW1IVWE5UWtyWXFwbUs2ZWhsSElVMkRWWGhoQ2VPTWFpYmM?oc=5)
-
-2026-09-02 <span class="news-indication-tag">CKD</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDF0VFZXRXhkRWNoa0FtbHBmdGxWbndfSGhaUGI3N0xlSDBOYWpwVG5tVlk2TVVlYmVyLWVxVHJHaWVnaGxTYnVBLWpFc1RLOE0yclJPeTJSNUY4NV9rQVZlN1M0WDFDbEVNQ0JyTm1wUXUyTnNmWEYteFVTMFFGVGJ5cFJadVhLMjJYZ1NFUlZyQjZLSW1IVWE5UWtyWXFwbUs2ZWhsSElVMkRWWGhoQ2VPTWFpYmM?oc=5)
-
----
-
-### [Gesunder Smoothie? So viel Fruktose steckt wirklich drin](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGlMNTQxQnJ0T0ExQmliR1ZJUURoLVRjUHh5WndGQ1hVNnN5ak0zRnJld3E5ekRlaFhSNWFDMWR6YnNBMlEzRkhfWE5OT0Z3dy1BTDlNMGZpMVlDRnhISURHa3ZwbkhQajNsaXdMeUNWR0tXcmxLS1k2T2Ixak5MX1RkRmx0Nm9jZDI4UVVzSU0wanRzdzhGczM5R05MU3pWbWsyWWFVbTh0bGdaaVZaUXI4ckpxQTdFMFptRUdlSVc?oc=5)
-
-2026-09-01 <span class="news-indication-tag">CKD</span>
-
-來源：[Blick](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGlMNTQxQnJ0T0ExQmliR1ZJUURoLVRjUHh5WndGQ1hVNnN5ak0zRnJld3E5ekRlaFhSNWFDMWR6YnNBMlEzRkhfWE5OT0Z3dy1BTDlNMGZpMVlDRnhISURHa3ZwbkhQajNsaXdMeUNWR0tXcmxLS1k2T2Ixak5MX1RkRmx0Nm9jZDI4UVVzSU0wanRzdzhGczM5R05MU3pWbWsyWWFVbTh0bGdaaVZaUXI4ckpxQTdFMFptRUdlSVc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
