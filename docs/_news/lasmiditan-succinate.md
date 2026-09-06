@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
 ### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
-
----
-
-### [Zuccheri, microbiota e obesità: scoperta una relazione nell'intestino](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0xURHpUdHRCVURjOFVLQ3VPSUlhMVhtbHgzM25QQ1lmcmI0ZEdoSl9jaTFCSWJMWWt2ZUk1elFUNmVoaTE3QnlWU2lzM1dzc0Nhdjh3RkFaMzF0OXQwTnM3aFZvTUFzVG1aZ3RQakUzV3NESUd0WXRad0Q0YTNzVFVhVlM5Vjg3cTdGRmVVWHQwUWcxb1U1WEUtRGVJZHVDNDJWN1VnZmZzZk1FRVh2SWYzZzJ6bE5Zemh1VW5Mb000NVQ0aUE?oc=5)
-
-2026-09-05 <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0xURHpUdHRCVURjOFVLQ3VPSUlhMVhtbHgzM25QQ1lmcmI0ZEdoSl9jaTFCSWJMWWt2ZUk1elFUNmVoaTE3QnlWU2lzM1dzc0Nhdjh3RkFaMzF0OXQwTnM3aFZvTUFzVG1aZ3RQakUzV3NESUd0WXRad0Q0YTNzVFVhVlM5Vjg3cTdGRmVVWHQwUWcxb1U1WEUtRGVJZHVDNDJWN1VnZmZzZk1FRVh2SWYzZzJ6bE5Zemh1VW5Mb000NVQ0aUE?oc=5)
 
 ---
 
@@ -115,14 +107,6 @@ permalink: /news/lasmiditan-succinate/
 2026-09-02 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
-
----
-
-### [Keto-Diät senkt Leberfett um 67 Prozent – und schlägt zwei beliebte Ernährungsformen - smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
 
 ---
 

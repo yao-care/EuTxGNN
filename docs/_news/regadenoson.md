@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Masque de grossesse et mélasma: les hormones n’expliquent pas tout](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUx3OHJLbXcwV3BlYUlUNU9xYlBSZ3NqZ1J4ZzRfZjFyaDVOR1N4bDlkMG5PMXRYM3gzM0pYSk1iam9vaW5MWHdxZkJaSDZneEhIMWswZ050Zjh4UERpZHoyYThYajFsWlgzX3M5Y0dhaDFoYW9tdURVSjdLd0RYRFd5NGxxNDRmNUFpMThWbkx2MU9abzk5UkZXV1ZTM2YtWVloM2xIaGxjSTdVTkE4QjVnMkxCWGxWZjNvekwwbw?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[rts.ch](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUx3OHJLbXcwV3BlYUlUNU9xYlBSZ3NqZ1J4ZzRfZjFyaDVOR1N4bDlkMG5PMXRYM3gzM0pYSk1iam9vaW5MWHdxZkJaSDZneEhIMWswZ050Zjh4UERpZHoyYThYajFsWlgzX3M5Y0dhaDFoYW9tdURVSjdLd0RYRFd5NGxxNDRmNUFpMThWbkx2MU9abzk5UkZXV1ZTM2YtWVloM2xIaGxjSTdVTkE4QjVnMkxCWGxWZjNvekwwbw?oc=5)
+
+---
 
 ### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 

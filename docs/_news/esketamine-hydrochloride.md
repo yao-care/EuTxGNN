@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
-
----
-
-### [Dopo il parto controlliamo tutto. Tranne, troppo spesso, la salute mentale della madre](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbjNjdENpZTlWRTU1enhuejJRX2dZcThPSnpWV2VSQ2t0cDJaTHU3NVhDaFRsRF9RSUstc1JuX1BlNzFxY3Rhd1Mwb3dXTjJSMjVVZEc1dFRnWi1JanUzYllpNTBrZTNCRVlENVZvNW1MYUJxS2NSVTRLZWhKVVV4WGQ4eFA2Z01uejdCWFFaOFpXOGE2YURBbEhOcmFnY2RFQS1aZDZEcmxBU0xXX0xvTEJPa3BuZFlLdFBBQWd4NGd0UktXNm5FOVJGSXNQOXM?oc=5)
-
-2026-09-05 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbjNjdENpZTlWRTU1enhuejJRX2dZcThPSnpWV2VSQ2t0cDJaTHU3NVhDaFRsRF9RSUstc1JuX1BlNzFxY3Rhd1Mwb3dXTjJSMjVVZEc1dFRnWi1JanUzYllpNTBrZTNCRVlENVZvNW1MYUJxS2NSVTRLZWhKVVV4WGQ4eFA2Z01uejdCWFFaOFpXOGE2YURBbEhOcmFnY2RFQS1aZDZEcmxBU0xXX0xvTEJPa3BuZFlLdFBBQWd4NGd0UktXNm5FOVJGSXNQOXM?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/budesonide/
 
 ## 相關新聞（3 則）
 
+### [Masque de grossesse et mélasma: les hormones n’expliquent pas tout](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUx3OHJLbXcwV3BlYUlUNU9xYlBSZ3NqZ1J4ZzRfZjFyaDVOR1N4bDlkMG5PMXRYM3gzM0pYSk1iam9vaW5MWHdxZkJaSDZneEhIMWswZ050Zjh4UERpZHoyYThYajFsWlgzX3M5Y0dhaDFoYW9tdURVSjdLd0RYRFd5NGxxNDRmNUFpMThWbkx2MU9abzk5UkZXV1ZTM2YtWVloM2xIaGxjSTdVTkE4QjVnMkxCWGxWZjNvekwwbw?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[rts.ch](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUx3OHJLbXcwV3BlYUlUNU9xYlBSZ3NqZ1J4ZzRfZjFyaDVOR1N4bDlkMG5PMXRYM3gzM0pYSk1iam9vaW5MWHdxZkJaSDZneEhIMWswZ050Zjh4UERpZHoyYThYajFsWlgzX3M5Y0dhaDFoYW9tdURVSjdLd0RYRFd5NGxxNDRmNUFpMThWbkx2MU9abzk5UkZXV1ZTM2YtWVloM2xIaGxjSTdVTkE4QjVnMkxCWGxWZjNvekwwbw?oc=5)
+
+---
+
 ### [Alergias y vuelta al cole: cómo preparar a los niños y coordinarse con el colegio](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
 
 2026-09-06 <span class="news-indication-tag">asma</span>
@@ -67,14 +75,6 @@ permalink: /news/budesonide/
 2026-09-04 <span class="news-indication-tag">EPOC</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
-
----
-
-### [Brepocitinib lindert Hautsymptome bei Dermatomyositis - Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNm5qdjg4NklnWWtVaThmRm51dnZhV3ltZ1IwdFJSZEpHVnd1Q2JJSTl3RXFlVmxVd2FBdzFxZ1VMTkM0TWJWdGJlV1BidDRETDJVaEZQWDdXb0FHTWl6MnhJaFVLNTNyeHR1WmxadkJSNW43OWo5NEV1OUhPazFjMC1jc0J6d3poOUZfUDBQUGc?oc=5)
-
-2026-09-03 <span class="news-indication-tag">EPOC</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNm5qdjg4NklnWWtVaThmRm51dnZhV3ltZ1IwdFJSZEpHVnd1Q2JJSTl3RXFlVmxVd2FBdzFxZ1VMTkM0TWJWdGJlV1BidDRETDJVaEZQWDdXb0FHTWl6MnhJaFVLNTNyeHR1WmxadkJSNW43OWo5NEV1OUhPazFjMC1jc0J6d3poOUZfUDBQUGc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fluticasone-propionate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Propionate 有什麼相關新聞？">
-<strong>Fluticasone Propionate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Propionate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fluticasone-propionate/
 <p><a href="{{ '/drugs/fluticasone-propionate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Masque de grossesse et mélasma: les hormones n’expliquent pas tout](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUx3OHJLbXcwV3BlYUlUNU9xYlBSZ3NqZ1J4ZzRfZjFyaDVOR1N4bDlkMG5PMXRYM3gzM0pYSk1iam9vaW5MWHdxZkJaSDZneEhIMWswZ050Zjh4UERpZHoyYThYajFsWlgzX3M5Y0dhaDFoYW9tdURVSjdLd0RYRFd5NGxxNDRmNUFpMThWbkx2MU9abzk5UkZXV1ZTM2YtWVloM2xIaGxjSTdVTkE4QjVnMkxCWGxWZjNvekwwbw?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[rts.ch](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUx3OHJLbXcwV3BlYUlUNU9xYlBSZ3NqZ1J4ZzRfZjFyaDVOR1N4bDlkMG5PMXRYM3gzM0pYSk1iam9vaW5MWHdxZkJaSDZneEhIMWswZ050Zjh4UERpZHoyYThYajFsWlgzX3M5Y0dhaDFoYW9tdURVSjdLd0RYRFd5NGxxNDRmNUFpMThWbkx2MU9abzk5UkZXV1ZTM2YtWVloM2xIaGxjSTdVTkE4QjVnMkxCWGxWZjNvekwwbw?oc=5)
+
+---
 
 ### [Alergias y vuelta al cole: cómo preparar a los niños y coordinarse con el colegio](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
 

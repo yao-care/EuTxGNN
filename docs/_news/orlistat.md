@@ -62,11 +62,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Zuccheri, microbiota e obesità: scoperta una relazione nell'intestino](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0xURHpUdHRCVURjOFVLQ3VPSUlhMVhtbHgzM25QQ1lmcmI0ZEdoSl9jaTFCSWJMWWt2ZUk1elFUNmVoaTE3QnlWU2lzM1dzc0Nhdjh3RkFaMzF0OXQwTnM3aFZvTUFzVG1aZ3RQakUzV3NESUd0WXRad0Q0YTNzVFVhVlM5Vjg3cTdGRmVVWHQwUWcxb1U1WEUtRGVJZHVDNDJWN1VnZmZzZk1FRVh2SWYzZzJ6bE5Zemh1VW5Mb000NVQ0aUE?oc=5)
+### [The Coronary Artery Inflammation Controversy - Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
 
-2026-09-05 <span class="news-indication-tag">obesità</span>
+2026-09-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0xURHpUdHRCVURjOFVLQ3VPSUlhMVhtbHgzM25QQ1lmcmI0ZEdoSl9jaTFCSWJMWWt2ZUk1elFUNmVoaTE3QnlWU2lzM1dzc0Nhdjh3RkFaMzF0OXQwTnM3aFZvTUFzVG1aZ3RQakUzV3NESUd0WXRad0Q0YTNzVFVhVlM5Vjg3cTdGRmVVWHQwUWcxb1U1WEUtRGVJZHVDNDJWN1VnZmZzZk1FRVh2SWYzZzJ6bE5Zemh1VW5Mb000NVQ0aUE?oc=5)
+來源：[Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/orlistat/
 
 2026-09-05 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[PalermoToday](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
+來源：[palermotoday.it](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
 
 ---
 
@@ -99,6 +99,14 @@ permalink: /news/orlistat/
 2026-09-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[MUNDIARIO](https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXMxVTR0b19veGozLUhIM2dNUVZMMVJSYzkzWGRjN25pRWc2QVotMHJURzlWV1hzYTNwNUl5V3AtVE5YY3dYMEZiWlpMNng5bEplRXRLLVotcGZzYXdKV19BS2ZRa1Y2dUg3allZcnlKNHoyck42bFMzaE92MjZscTFmSXdNZl9xM1kyZXUyUzdzSHhXa3pScE5YS2xtS2dRQWM4d1VZZFNiazNkOGtWRmFFNDFCS1NmR1dsTkExOTNrWVhtSWlIY2RPaw?oc=5)
+
+---
+
+### [Vous voulez mieux dormir ? Des experts recommandent cette habitude de sommeil](https://news.google.com/rss/articles/CBMizwJBVV95cUxOak5jSEE0eGhVOGJsRTRScmltNXpQbWtsUnBNTk5GVHhwMHNzME9HY0xUMUdnYWUyU21aeGVVOFJoQlR1eTJPTU94aWg0emFPRjFUTTROX0lUSktVdHJGZmVoejFXVlJlSTNNRWFBejNIdU5GUUI0Mm1kYVBkOHZjTEVtYUg1Y29xREhhQzhwX3FnTVNnVHJ1czZSUEFrMHNscVNpcWlFSEFwUl90TUgwRVBFRWpIeDdjNUlJOTVRMTNqaE9hWm1GSXdoSi1wbUJ6M2c3R0xVT3FvZU1ac1lkcUJLajdvVE1jUzJnb01aa2FRZE9HMEpaVUg4NDFOLWlGSTFjc3pLczJBeEFTRy1wYnFHWmJURjh5b3ltMnF2c2NCUE02bU5KcW5XMU00SThlOERZU3lJdHJaanNEdnRwUXpYNmZ3TWZ6b3luTlItOA?oc=5)
+
+2026-09-04 <span class="news-indication-tag">accident vasculaire cérébral</span>
+
+來源：[moustique.be](https://news.google.com/rss/articles/CBMizwJBVV95cUxOak5jSEE0eGhVOGJsRTRScmltNXpQbWtsUnBNTk5GVHhwMHNzME9HY0xUMUdnYWUyU21aeGVVOFJoQlR1eTJPTU94aWg0emFPRjFUTTROX0lUSktVdHJGZmVoejFXVlJlSTNNRWFBejNIdU5GUUI0Mm1kYVBkOHZjTEVtYUg1Y29xREhhQzhwX3FnTVNnVHJ1czZSUEFrMHNscVNpcWlFSEFwUl90TUgwRVBFRWpIeDdjNUlJOTVRMTNqaE9hWm1GSXdoSi1wbUJ6M2c3R0xVT3FvZU1ac1lkcUJLajdvVE1jUzJnb01aa2FRZE9HMEpaVUg4NDFOLWlGSTFjc3pLczJBeEFTRy1wYnFHWmJURjh5b3ltMnF2c2NCUE02bU5KcW5XMU00SThlOERZU3lJdHJaanNEdnRwUXpYNmZ3TWZ6b3luTlItOA?oc=5)
 
 ---
 
@@ -131,14 +139,6 @@ permalink: /news/orlistat/
 2026-09-02 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
-
----
-
-### [Keto-Diät senkt Leberfett um 67 Prozent – und schlägt zwei beliebte Ernährungsformen - smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
 
 ---
 
