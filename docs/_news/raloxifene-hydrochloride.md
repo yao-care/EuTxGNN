@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [In Sicilia oltre 17 mila ricoveri per infarto e ictus, l’appello dei fisioterapisti contro le liste d’attesa](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
+### [Stroke-Unit in Gefahr: Warum Rettungswagen an Altscherbitz vorbeifahren könnten - LVZ - Leipziger Volkszeitung](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUU5QV21fcTRYWFhZZnVhNHRuY0gxemNSUjZXUjZSR2JnS21mUi1KSmJ5MElPYmNxdHNCZmdObEFWMVpPTHJSRUZtY3BjYmRrejFGc3RUMm9CX2hlQnJRdmEzQk5oVlVRZWNTb0gxYlJ3ZWFiMmQ3dVozT25OSGRkQTdZUkhteDhqZVlkbU14ZjNSRjNXUTRDV25pZnRUU0NUNjVoaEx6T1ROX21SRjgyel9MVUVndGJ1MGxDY2lfZ2p4bDZUY2tKSTI2bHNIbVcxSFB4Qk13SVZNUUJJMi1pU1FRNGxVdE1zZjYxcnp5eGIwR3fSAY8CQVVfeXFMT2dJQXliNjBJakVMY2ZKMWtYUzByYnlKcWI1SU56WVltWG1HdmlKWXg4RllqWmt6OF9qVWg0SGNaNnVoMmhtb1dFSHdvclZiNVJTamVLRkxYTWZCc0hrUjV3U01ScGZpNjlfS2ZnY0hKSVRvUU5TTWlnWUxIem12TlF0Sy0tSXA0QkU1UzlDdzNwNkQxVW4tVVNJczRHay1VSmdBOTA4RmlvTk94b1NRSDhpR2trd1BaLTJHTHJSSDZBT2VwOTNSNUhfS2VCR2MzNlkyQTZDSGgxWWYyckRycVQ1amJnQUtEcjl2VUlGZGdwdHRmYXJpNkwtam5fNHpULWhHU2hITzRkZDhybURyVQ?oc=5)
 
-2026-09-05 <span class="news-indication-tag">ictus</span>
+2026-09-06 <span class="news-indication-tag">stroke</span>
 
-來源：[palermotoday.it](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
+來源：[LVZ - Leipziger Volkszeitung](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUU5QV21fcTRYWFhZZnVhNHRuY0gxemNSUjZXUjZSR2JnS21mUi1KSmJ5MElPYmNxdHNCZmdObEFWMVpPTHJSRUZtY3BjYmRrejFGc3RUMm9CX2hlQnJRdmEzQk5oVlVRZWNTb0gxYlJ3ZWFiMmQ3dVozT25OSGRkQTdZUkhteDhqZVlkbU14ZjNSRjNXUTRDV25pZnRUU0NUNjVoaEx6T1ROX21SRjgyel9MVUVndGJ1MGxDY2lfZ2p4bDZUY2tKSTI2bHNIbVcxSFB4Qk13SVZNUUJJMi1pU1FRNGxVdE1zZjYxcnp5eGIwR3fSAY8CQVVfeXFMT2dJQXliNjBJakVMY2ZKMWtYUzByYnlKcWI1SU56WVltWG1HdmlKWXg4RllqWmt6OF9qVWg0SGNaNnVoMmhtb1dFSHdvclZiNVJTamVLRkxYTWZCc0hrUjV3U01ScGZpNjlfS2ZnY0hKSVRvUU5TTWlnWUxIem12TlF0Sy0tSXA0QkU1UzlDdzNwNkQxVW4tVVNJczRHay1VSmdBOTA4RmlvTk94b1NRSDhpR2trd1BaLTJHTHJSSDZBT2VwOTNSNUhfS2VCR2MzNlkyQTZDSGgxWWYyckRycVQ1amJnQUtEcjl2VUlGZGdwdHRmYXJpNkwtam5fNHpULWhHU2hITzRkZDhybURyVQ?oc=5)
 
 ---
 
@@ -67,22 +67,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-09-05 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">ictus</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRUktd1d6b3J2Z2JMUmJFTFpWYWhyanVxLVR3ZXBzcEQtSTBrVnVaX0JTQ29CN0hxMGhZYXVRejl6MFlXdi1jRk1xc241Q3dvb0JjanZOWGdXMU9IOEVHdEtKZ1EwcUZFcE50R1lQOXprMTNmUWNDNlhPSnU2TEFvSHpPaU4yazZ2cEdHVGpJRE1lOGhqSmI1MWhTdVJHWjduZVlrYzdPajdfakZTUWxCNXdLWERYWjIxS0VYb01TWlZlbkljdXpSSFU1V1lELV9lRVNUTS16S0lXSnZWaElmY2RR?oc=5)
-
----
-
-### [7 días en 7 noticias: lo imperdible del 28 de agosto al 3 de septiembre de 2026](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGxOZGpPdGRDUnY3N0NyTFl1SDFXMDBGT0V1Sjd2VWpLcnNtcmZNUGFDckpNYmJFdzUza29uMzhuTmM3X1JSRHpBUjVaN2dmTktzR3E1S20xbDlNM2lvRlN5dTV4RE9lb2FYb3RlZE1JRVRkVjBORE9iUWIyVXJXOUFpS2t4dUdyRlNEeTZyS0RiR0xPQi1hNEg5NEhLX3psTkJ3MHZOWFU2b1Y2ZUZLcmFn?oc=5)
-
-2026-09-04 <span class="news-indication-tag">ictus</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGxOZGpPdGRDUnY3N0NyTFl1SDFXMDBGT0V1Sjd2VWpLcnNtcmZNUGFDckpNYmJFdzUza29uMzhuTmM3X1JSRHpBUjVaN2dmTktzR3E1S20xbDlNM2lvRlN5dTV4RE9lb2FYb3RlZE1JRVRkVjBORE9iUWIyVXJXOUFpS2t4dUdyRlNEeTZyS0RiR0xPQi1hNEg5NEhLX3psTkJ3MHZOWFU2b1Y2ZUZLcmFn?oc=5)
-
----
-
-### [New injectable treatment helps the brain rebuild after stroke - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tNW9MSkd3cmVuSGpMc01LRmRqdVBRV0k3bkVpZ3Y4ZVpDTU4tSi1hdzdDMXpteHQyN1VrRkZSQnhpT3ZXeXFiOGVRZkpyRksxQ2NESlhhMEM4RU5WX1RHcjRJaXV0eWRyZGxUckZtRQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1tNW9MSkd3cmVuSGpMc01LRmRqdVBRV0k3bkVpZ3Y4ZVpDTU4tSi1hdzdDMXpteHQyN1VrRkZSQnhpT3ZXeXFiOGVRZkpyRksxQ2NESlhhMEM4RU5WX1RHcjRJaXV0eWRyZGxUckZtRQ?oc=5)
 
 ---
 

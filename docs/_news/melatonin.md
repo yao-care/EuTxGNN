@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [Zuccheri, microbiota e obesità: scoperta una relazione nell'intestino](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0xURHpUdHRCVURjOFVLQ3VPSUlhMVhtbHgzM25QQ1lmcmI0ZEdoSl9jaTFCSWJMWWt2ZUk1elFUNmVoaTE3QnlWU2lzM1dzc0Nhdjh3RkFaMzF0OXQwTnM3aFZvTUFzVG1aZ3RQakUzV3NESUd0WXRad0Q0YTNzVFVhVlM5Vjg3cTdGRmVVWHQwUWcxb1U1WEUtRGVJZHVDNDJWN1VnZmZzZk1FRVh2SWYzZzJ6bE5Zemh1VW5Mb000NVQ0aUE?oc=5)
 
@@ -78,33 +78,25 @@ permalink: /news/melatonin/
 
 ---
 
-### [L’obesità cambia continente: nei Paesi poveri i bambini rischiano di morire di troppo cibo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
-
-2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
-
----
-
-### [Los expertos en obesidad reivindican desde Ribeira llevar la ciencia más allá de las grandes ciudades - La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRnVpZlNXeGlBLVNFWEtFa0dUZzlQeWlrWFdzRWoySlRUdzEydXZEZEJjUFRMb0VxMEdHQXNDbU9FLXVMeUtoejBUUlc5RDVHQWFBVFZ2cF9VNmstVWJqNVpyUFBFX29tTnVtR3FOOGJjTWV2Y3dJVjY2djhxVEJld0VsblZtYW04N3VMWFFpZWM0RlF4c3Z1ZW80ZGRLMklhSEV6ZkVHbV9pSDBHU3ZuaWpNRTlaN3BEWFdZSXdNZFd5dE1JRkliSE5ueE9xOTdwRWNneFZsVVloSk5RWWxKVVVvUTBnbUlzR3RCWFFKdTNKbllrN3E4ejdyX2bSAZgCQVVfeXFMTnV1WEo5WDVVV2I1LTNENnBRN1l4cDFPZ2FjcExCMXhCVnhzS005NHJ1WVd0NWlYaWJ1RXhfV0dSVVQ2TVFLS3FJcnVlakNpOHlrQU55RTV6TklVTUZsay11UU9ERmI4dGtqUHZKY2x5bXc2d2Q2TmdWWFBXZkE3LXBoLTV1ZzQyYnJPRG1lRGhjeWE0Z2x3SGU5cUtSQlF2amxUNEpzUmt5ajBSaVI5elhGc2pab09YNU41bi1FemJuaHdDaDFFMVJoczhQelJUMmNyVGJOQl9TUXROaVFUWnhuX2h4MEFlV0JfVU8zTjMxNVMtSmpxZjR3U2M2ZlBHOWM3RDh4RUlKMUFySWJwcDJaeFdJUFRNMQ?oc=5)
+### [Ribeira inaugura su primer gran curso sobre obesidad - La Voz de Galicia](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGlOYTZZNUhRYkJjX25JSFVfZWs4V3FnS2s1dTVyc2xWT0dfUlBiMnFmUUNtOUJqSHVYQmxBampoY3cxYU9wSDc5Wmkzdkg3U0VBcDhoNThqaE5rSnJJVlpoRl9laFRkX2ZVMjJ5SmREYWdWNWJLUFhKclBSMEZndmRaQWEwSHl3Qk1xNGwybTJHQVJFcnl4WEtWWjg1WGVtVzgwdkRlclM5d2dJbVo1TVh5ZGZEbW12LU1qLWlTbHBueHIwb0w5XzRDWmVGZw?oc=5)
 
 2026-09-04 <span class="news-indication-tag">obesidad</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRnVpZlNXeGlBLVNFWEtFa0dUZzlQeWlrWFdzRWoySlRUdzEydXZEZEJjUFRMb0VxMEdHQXNDbU9FLXVMeUtoejBUUlc5RDVHQWFBVFZ2cF9VNmstVWJqNVpyUFBFX29tTnVtR3FOOGJjTWV2Y3dJVjY2djhxVEJld0VsblZtYW04N3VMWFFpZWM0RlF4c3Z1ZW80ZGRLMklhSEV6ZkVHbV9pSDBHU3ZuaWpNRTlaN3BEWFdZSXdNZFd5dE1JRkliSE5ueE9xOTdwRWNneFZsVVloSk5RWWxKVVVvUTBnbUlzR3RCWFFKdTNKbllrN3E4ejdyX2bSAZgCQVVfeXFMTnV1WEo5WDVVV2I1LTNENnBRN1l4cDFPZ2FjcExCMXhCVnhzS005NHJ1WVd0NWlYaWJ1RXhfV0dSVVQ2TVFLS3FJcnVlakNpOHlrQU55RTV6TklVTUZsay11UU9ERmI4dGtqUHZKY2x5bXc2d2Q2TmdWWFBXZkE3LXBoLTV1ZzQyYnJPRG1lRGhjeWE0Z2x3SGU5cUtSQlF2amxUNEpzUmt5ajBSaVI5elhGc2pab09YNU41bi1FemJuaHdDaDFFMVJoczhQelJUMmNyVGJOQl9TUXROaVFUWnhuX2h4MEFlV0JfVU8zTjMxNVMtSmpxZjR3U2M2ZlBHOWM3RDh4RUlKMUFySWJwcDJaeFdJUFRNMQ?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGlOYTZZNUhRYkJjX25JSFVfZWs4V3FnS2s1dTVyc2xWT0dfUlBiMnFmUUNtOUJqSHVYQmxBampoY3cxYU9wSDc5Wmkzdkg3U0VBcDhoNThqaE5rSnJJVlpoRl9laFRkX2ZVMjJ5SmREYWdWNWJLUFhKclBSMEZndmRaQWEwSHl3Qk1xNGwybTJHQVJFcnl4WEtWWjg1WGVtVzgwdkRlclM5d2dJbVo1TVh5ZGZEbW12LU1qLWlTbHBueHIwb0w5XzRDWmVGZw?oc=5)
 
 ---
 
-### [AI is starting to see migraine as more than just a headache](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
+### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
 
-2026-09-04 <span class="news-indication-tag">migraine</span>
+2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
 
 ---
 
 ### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
-2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
@@ -126,19 +118,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Keto-Diät senkt Leberfett um 67 Prozent – und schlägt zwei beliebte Ernährungsformen - smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
+### [Keto-Diät senkt Leberfett um 67 Prozent – und schlägt zwei beliebte Ernährungsformen](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
 
-2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
-
----
-
-### [Übergewicht und Adipositas im Schulalter mit späterer Kinderlosigkeit von Frauen assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNlJRWklFRHhRdktNcjVFZ3h6XzRMRTdYZzI2and0dWlnT3hSZ2kxWkY0SkV6Rkhyb1FNQmppMng5OHg1VTNMZzIwRXRvMVJQbUloTDN0VVNFSzVQeUJFQ3JHbFFNbmFMZ055NTVHRS1WNV9pdHpXc2JuZzFRazVLYW4zem5FZDFxTWt4STRUQXlMcnZWLUNKdV9kS0JxZGo0R251dkh6ZWNVdGhOdWpRZzltVXJVWFA3a1BqcGdXTDhyMDd1WGYzQVNQc285NkVkQzdtaTJnLUZwNlJnWUdHN2VoeTFvcms2MHFLXzZvMjRtZw?oc=5)
+來源：[smartup-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
 
 ---
 

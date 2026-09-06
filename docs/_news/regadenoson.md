@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Alergias en la escuela: protocolos, medicación y formación para actuar a tiempo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYlJzOWlLVkNJZ1pQU1ZFdjAzV2dMNGNsWDZaQy1UcTVhUXZ4aWR4V2NiUWFaU2RNazJQMm1DTGNkTzJmcS1vSExMdVVMcU00TkNFWjZwazBmUVZsX0tWa1NURXZQc28xQnphWkpBUEpGS0UwRTV5M3ptaXpUMEU1LTI2UzRMc25RanE5S0FPTzMySGRHUUZjM0hJVnppcHpkQjVocGNJclRqWkxVUm1JVGhnVzhMNWNTSjdFWHVB0gG4AUFVX3lxTE5JdEo0czhLM3ZqRWlvcWVub3puQkNoWWcyRFRGb3p3WENlbm1PX1VZWVVvMWZkZWI2N3pvWGJCdnpNUlRmN2Z2cV9SU2xEQ1pvcUFYOC1ybENFVEltSG9iUXZNT3IxUE1lMEVkb0dYZlZDd2FiZ2ZrbFJjUlUwZGUxVkFiTVByZVBGRW9OemlqdUUwbDc4dVl2cmRQMndFZzJTWTF1LXNWc3k1UnMwQUlKRXpYS0x0Qnk?oc=5)
+### [Alergias y vuelta al cole: cómo preparar a los niños y coordinarse con el colegio](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
 
-2026-09-04 <span class="news-indication-tag">asma</span>
+2026-09-06 <span class="news-indication-tag">asma</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYlJzOWlLVkNJZ1pQU1ZFdjAzV2dMNGNsWDZaQy1UcTVhUXZ4aWR4V2NiUWFaU2RNazJQMm1DTGNkTzJmcS1vSExMdVVMcU00TkNFWjZwazBmUVZsX0tWa1NURXZQc28xQnphWkpBUEpGS0UwRTV5M3ptaXpUMEU1LTI2UzRMc25RanE5S0FPTzMySGRHUUZjM0hJVnppcHpkQjVocGNJclRqWkxVUm1JVGhnVzhMNWNTSjdFWHVB0gG4AUFVX3lxTE5JdEo0czhLM3ZqRWlvcWVub3puQkNoWWcyRFRGb3p3WENlbm1PX1VZWVVvMWZkZWI2N3pvWGJCdnpNUlRmN2Z2cV9SU2xEQ1pvcUFYOC1ybENFVEltSG9iUXZNT3IxUE1lMEVkb0dYZlZDd2FiZ2ZrbFJjUlUwZGUxVkFiTVByZVBGRW9OemlqdUUwbDc4dVl2cmRQMndFZzJTWTF1LXNWc3k1UnMwQUlKRXpYS0x0Qnk?oc=5)
-
----
-
-### [AI is starting to see migraine as more than just a headache](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
-
-2026-09-04 <span class="news-indication-tag">migraine</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzBGZkxJa19PeDRuV2lqMHBvMTFmZkxHbjZicmFXUmxSVGEyQkM3cWJWcjFvWTJ0a1NkT24tOHNlWjBaTzA4OXNRcEo3UlNoTWxxUlM2eEp6YkQ5SHQ1U2wxTkpkSFJhZEFtUmU2V005djN1VnZGa2dwd2FUMGxxWlNDYWVWa0FZeXhQWkFfZzJqT096ZEcwaWFxVVdfbmpJMlZ6dA?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
 
 ---
 
