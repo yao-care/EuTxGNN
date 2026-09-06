@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
 ### [Con el hígado graso, poca broma - Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RTRFU1h0T0tFc0dESUtkZUhXdXlreTk5T3FlQ3ZUUHlOOHZqa3p3ckw2Tmp3SnpqV1dlODhUQ3hYamtmOVZGb2VzQ09NaHFkNl9hZWlFeGg1Z0hrd1BKMmVRZnBJU2s1YXVJ?oc=5)
 
@@ -66,7 +66,7 @@ permalink: /news/somapacitan/
 
 2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0xhYl9oN1AwNFNWSXhYTElQUFlJa3lZX21jQnVEckdTN20wNzBPcThwMFB1T3NaZjQ0cFVSLUJLOEM0Q0l5T2dyWTRfdDdwRk5LWnl6c2hNa0tSNjhBWm5ILWJWVEswQ0ZpdkxsRGJnR1pKTXQ2WGF5NzBiMF9nZ09pWEVMc2liUmR3X3kzRl8yZVlzSUJzSm9tOVBINGJYVnVkaEFQUkxMTGNXdTRibzU0Mm43djcwYTVtRWp3Vk1pYXFJSHJqYjVOU1BycGozMG43eTZfdUxKNE9fdkdvdw?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Alergólogos instan a revisar antes del curso el informe médico y el tratamiento de los niños con alergia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEhQWkVJSEdaa3pXT05mRllrc09JbFg5T1poSzh6cEJFYVBaWDdCWERBRm1QNDFJU3poUUNlaXhZUE5UXzRKUXczbnlMMXNOSDMzeUw1SE1FYzhNMEVQUjNpYlhSd1NGUDVPeERUWk0wQlNnQnZNb0RtV042dzFfc3V4cEtqUjRsVWZaTnpVNFA1aTFTOHlTU3Zua1VWd0hNbFVfLXhTaWpMOWZSX3NScWZNWWhFTFR6TUZNdVkwWDk3eGItUldpNVBMUTlqY3pZOUp1X9IB2gFBVV95cUxPNFAtR25udTJhRF9jdENJSFZvN0tkYVpFUDRqejNrYVJQT09jVXI4bndrMHpzOTlKemx4YlV3TlprSnl3c1pYZFMtX1pibUFUQmd4djNPNDZZVGVaMTg5TDczU2tsV3liVmVKUWd4UXA4VHBEcDVISDI3NDZiSU9zajF1dXNsOWo0ZEczSkJpNDZJWjVmYXFvdjM0U08tVnNSbU1jVXBTN1Y2NmRrQ3NMYUpEcFJ5MkJrX3VwbDJTZTVnOWZnSEFuR0ZSUURka1prUXhCYnBycWJfUQ?oc=5)
+### [Alergias en la escuela: protocolos, medicación y formación para actuar a tiempo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYlJzOWlLVkNJZ1pQU1ZFdjAzV2dMNGNsWDZaQy1UcTVhUXZ4aWR4V2NiUWFaU2RNazJQMm1DTGNkTzJmcS1vSExMdVVMcU00TkNFWjZwazBmUVZsX0tWa1NURXZQc28xQnphWkpBUEpGS0UwRTV5M3ptaXpUMEU1LTI2UzRMc25RanE5S0FPTzMySGRHUUZjM0hJVnppcHpkQjVocGNJclRqWkxVUm1JVGhnVzhMNWNTSjdFWHVB0gG4AUFVX3lxTE5JdEo0czhLM3ZqRWlvcWVub3puQkNoWWcyRFRGb3p3WENlbm1PX1VZWVVvMWZkZWI2N3pvWGJCdnpNUlRmN2Z2cV9SU2xEQ1pvcUFYOC1ybENFVEltSG9iUXZNT3IxUE1lMEVkb0dYZlZDd2FiZ2ZrbFJjUlUwZGUxVkFiTVByZVBGRW9OemlqdUUwbDc4dVl2cmRQMndFZzJTWTF1LXNWc3k1UnMwQUlKRXpYS0x0Qnk?oc=5)
 
 2026-09-04 <span class="news-indication-tag">asma</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEhQWkVJSEdaa3pXT05mRllrc09JbFg5T1poSzh6cEJFYVBaWDdCWERBRm1QNDFJU3poUUNlaXhZUE5UXzRKUXczbnlMMXNOSDMzeUw1SE1FYzhNMEVQUjNpYlhSd1NGUDVPeERUWk0wQlNnQnZNb0RtV042dzFfc3V4cEtqUjRsVWZaTnpVNFA1aTFTOHlTU3Zua1VWd0hNbFVfLXhTaWpMOWZSX3NScWZNWWhFTFR6TUZNdVkwWDk3eGItUldpNVBMUTlqY3pZOUp1X9IB2gFBVV95cUxPNFAtR25udTJhRF9jdENJSFZvN0tkYVpFUDRqejNrYVJQT09jVXI4bndrMHpzOTlKemx4YlV3TlprSnl3c1pYZFMtX1pibUFUQmd4djNPNDZZVGVaMTg5TDczU2tsV3liVmVKUWd4UXA4VHBEcDVISDI3NDZiSU9zajF1dXNsOWo0ZEczSkJpNDZJWjVmYXFvdjM0U08tVnNSbU1jVXBTN1Y2NmRrQ3NMYUpEcFJ5MkJrX3VwbDJTZTVnOWZnSEFuR0ZSUURka1prUXhCYnBycWJfUQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYlJzOWlLVkNJZ1pQU1ZFdjAzV2dMNGNsWDZaQy1UcTVhUXZ4aWR4V2NiUWFaU2RNazJQMm1DTGNkTzJmcS1vSExMdVVMcU00TkNFWjZwazBmUVZsX0tWa1NURXZQc28xQnphWkpBUEpGS0UwRTV5M3ptaXpUMEU1LTI2UzRMc25RanE5S0FPTzMySGRHUUZjM0hJVnppcHpkQjVocGNJclRqWkxVUm1JVGhnVzhMNWNTSjdFWHVB0gG4AUFVX3lxTE5JdEo0czhLM3ZqRWlvcWVub3puQkNoWWcyRFRGb3p3WENlbm1PX1VZWVVvMWZkZWI2N3pvWGJCdnpNUlRmN2Z2cV9SU2xEQ1pvcUFYOC1ybENFVEltSG9iUXZNT3IxUE1lMEVkb0dYZlZDd2FiZ2ZrbFJjUlUwZGUxVkFiTVByZVBGRW9OemlqdUUwbDc4dVl2cmRQMndFZzJTWTF1LXNWc3k1UnMwQUlKRXpYS0x0Qnk?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+### [Dieta keto vs dieta mediterránea: qué funciona mejor según la ciencia](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJUdFRRQ2xHMlcxZzkxNGRlQi16dDZTT20zeDZLZ0E2dGtHejFnZTNKazJlaHJ4TEo1TmJ1dF9GaE10d3kwdHNxaXNPVlJzZmZCYjhzX1RKaXU5RlV4SkZUM2J4Q2RsV1Y4aGxfeEJKNVNtU09sXzVGZHVHelNIR2EwQlZlSzFHVGxubGpGNm1ReU1HOEtDVFNpMGlOOTkxVEVkejBtT0ZMYXpNOW5hZkhfR1A?oc=5)
 
-2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJUdFRRQ2xHMlcxZzkxNGRlQi16dDZTT20zeDZLZ0E2dGtHejFnZTNKazJlaHJ4TEo1TmJ1dF9GaE10d3kwdHNxaXNPVlJzZmZCYjhzX1RKaXU5RlV4SkZUM2J4Q2RsV1Y4aGxfeEJKNVNtU09sXzVGZHVHelNIR2EwQlZlSzFHVGxubGpGNm1ReU1HOEtDVFNpMGlOOTkxVEVkejBtT0ZMYXpNOW5hZkhfR1A?oc=5)
 
 ---
 
@@ -123,6 +123,22 @@ permalink: /news/somapacitan/
 2026-09-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUxfQjQxcTdLQktmREUxN19GZlRLSFh1UkRGMnBuTS1xeDJGQURDR2Q3U3ZSdjBubVhrSXRoVjNUa2kxeU4xRDZ2a3dMeWdxSzhvanVocVcyU1dsSkxYQzlQVXhfNkk1Z1lTVExLNlFUalVLMUZOLXpEczI3SExnQ25fai1YUFFMWDZQSi02VFY0azlGTzMyV0hhTGk5ZzQ4TmJoeGJFSk9BdkJFeVIyQjNLRGZKZWEzUWYwbC1jQXNIb2V3VzFxdENMRC1jbjB5SXI5Uw?oc=5)
+
+---
+
+### [Keto-Diät senkt Leberfett um 67 Prozent – und schlägt zwei beliebte Ernährungsformen - smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
+
+2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
+
+---
+
+### [El número de personas con diabetes tipo 1 aumentará un 29% en todo el mundo para 2049](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVl1b0FiVGE2Tmtic01WeXdBT1Y0aC13Z285SjBtOExtWnB1WTl6YmNHb09RZXc2MHVpc2F3SVN2enhEOGs0dmJGVXNPX1BvdTZwUVBjUllja3VtWEFOMEprTGNqaUE0elZFSXN1OGxyTTY5NUFCZXRiUnFuelhvQ0N5OXdzR0NkYWVxbDMtbDRUMGpKRjh5Y2tqSFFYWmcxV0E?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVl1b0FiVGE2Tmtic01WeXdBT1Y0aC13Z285SjBtOExtWnB1WTl6YmNHb09RZXc2MHVpc2F3SVN2enhEOGs0dmJGVXNPX1BvdTZwUVBjUllja3VtWEFOMEprTGNqaUE0elZFSXN1OGxyTTY5NUFCZXRiUnFuelhvQ0N5OXdzR0NkYWVxbDMtbDRUMGpKRjh5Y2tqSFFYWmcxV0E?oc=5)
 
 ---
 

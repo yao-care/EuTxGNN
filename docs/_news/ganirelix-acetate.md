@@ -14,7 +14,7 @@ permalink: /news/ganirelix-acetate/
 ---
 
 <p class="key-answer" data-question="Ganirelix Acetate 有什麼相關新聞？">
-<strong>Ganirelix Acetate</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ganirelix Acetate</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,25 @@ permalink: /news/ganirelix-acetate/
 <p><a href="{{ '/drugs/ganirelix-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（33 則）
 
-### [Hartburn headteacher opens park after MND diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yVGpiOHRyZ0RUTk5pS3Nlc0lTWTVaVzVnVFpIS1lyMmo3TVRBM0psTHlsR21jLXdFTVo1UWFnMFRzQ2JVTndhNGxqanRWUDhscW5sVmVxbnFXaXps?oc=5)
+### [RFK Jr finally admits that measles was the cause of infant’s death in Pennsylvania - The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVpoQlJqb1FySHNRXzZXWjlDVUctQ0l6bjU5SmNYRmVWMjUyQlJfWnJFeG5SLU1jVlU2RTRJXzFaRFdPejA2WnNsV25nQ210OGoxQnZBcEdVQXg2SjVHQnQ5LXFvM1ZpTk9fV1M5OWE3T2Y5RDhlalZJREt3V2kzTzRoVlhNRktGVFcxcGtEaEpSQ0VWR0dNZHVHYjlSOHRMTllyYkNUcWZqa3RYc2c?oc=5)
+
+2026-09-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVpoQlJqb1FySHNRXzZXWjlDVUctQ0l6bjU5SmNYRmVWMjUyQlJfWnJFeG5SLU1jVlU2RTRJXzFaRFdPejA2WnNsV25nQ210OGoxQnZBcEdVQXg2SjVHQnQ5LXFvM1ZpTk9fV1M5OWE3T2Y5RDhlalZJREt3V2kzTzRoVlhNRktGVFcxcGtEaEpSQ0VWR0dNZHVHYjlSOHRMTllyYkNUcWZqa3RYc2c?oc=5)
+
+---
+
+### [A single workout may help protect memory after a short night's sleep - Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE81WlBhU0htZ3VzMTJBOFlfSzlYaWdpakJIMFdMWVNJNU91c2hSZnhCczRGSjZGbWtHM3BZdEh0em13U1BvbWtDZ0loazlVNVJUa3VQaU9JNnZlaWJsa0pQRjlUODNIaFE3YUM2LTFJcDRkZDZrYjA4bXNn?oc=5)
+
+2026-09-05 <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE81WlBhU0htZ3VzMTJBOFlfSzlYaWdpakJIMFdMWVNJNU91c2hSZnhCczRGSjZGbWtHM3BZdEh0em13U1BvbWtDZ0loazlVNVJUa3VQaU9JNnZlaWJsa0pQRjlUODNIaFE3YUM2LTFJcDRkZDZrYjA4bXNn?oc=5)
+
+---
+
+### [Head opens school playpark after MND diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yVGpiOHRyZ0RUTk5pS3Nlc0lTWTVaVzVnVFpIS1lyMmo3TVRBM0psTHlsR21jLXdFTVo1UWFnMFRzQ2JVTndhNGxqanRWUDhscW5sVmVxbnFXaXps?oc=5)
 
 2026-09-05 <span class="news-indication-tag">AF</span>
 
@@ -67,6 +83,14 @@ permalink: /news/ganirelix-acetate/
 2026-09-05 <span class="news-indication-tag">fibrilación auricular</span>
 
 來源：[El Periódico de Aragón](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXZjNWpxY0l3RHZyWUNpU3A2ZkZOb3lRTDB2MDZhdHlXeWMwMWY1QkJpUDVUbnZwbzdpVUc2b2VTcWtBN0Nzc0lBbnlFRlhBT3BuQ3JJUWVPNFdNV3NVVnlVR0pHd3lnd0dNNlB2emNBOEpqUFdHWjB1d2dPenYwUWNRSTdsYVpyLVk1ME0wQ2lBSHZCUnBEWUROLXc5ZWpOb0hNOGJjX2I5Q19ObHNiWEtPamIzQVUyTTB2U9IBwgFBVV95cUxQblJEVWpGdzA0ejRKY1hDUlk4N1VReEpiNkc4QnQ5Y09GMXg0MVltNW9YV1kteTZoT0hTTUNDOGJjVlR2bElUZ210cVFyZndJZGg5eEdNaGhqV0JBdDVZNmR4YVF4RkMzcFQ1LWRKdVZwUXpZTjNlSFU0UkxSblhTc3p4Ukw0dDAzTjJCY216eWNUXzhlMFJQTnlicVFQREVIRFJBRFNoSW9QZGR4S0M0MmNKRFgzMTR2YWJ3clRXRDlrQQ?oc=5)
+
+---
+
+### [Café et médicaments : 4 précautions à prendre pour éviter les mauvaises surprises - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMixAFBVV95cUxObEdBcWFsRnBoWHFmdWpqbkk3UWE0c1JiMmNrQVpHLTdFTDFvM3hrUE1mdU9WdlNpOGlMLUNvN3ZFQlRPU3A1QVQyRGRZOU53Y3lzczM3cWJ1QUp0T3owVVR2amJVUG5HQ3R3QWZWX1liX1lGdFhIOUE4RF9yWFRId0lGXzg4QUJqSnJKbXpGWTM2M2xyQmZqYnhvcHd0ZDQ0NXM4aGRESHZFT0Q5UW5MSmMyWWdGaHFrdEFvVlJHY2Qxamp1?oc=5)
+
+2026-09-05 <span class="news-indication-tag">AF</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMixAFBVV95cUxObEdBcWFsRnBoWHFmdWpqbkk3UWE0c1JiMmNrQVpHLTdFTDFvM3hrUE1mdU9WdlNpOGlMLUNvN3ZFQlRPU3A1QVQyRGRZOU53Y3lzczM3cWJ1QUp0T3owVVR2amJVUG5HQ3R3QWZWX1liX1lGdFhIOUE4RF9yWFRId0lGXzg4QUJqSnJKbXpGWTM2M2xyQmZqYnhvcHd0ZDQ0NXM4aGRESHZFT0Q5UW5MSmMyWWdGaHFrdEFvVlJHY2Qxamp1?oc=5)
 
 ---
 
@@ -98,13 +122,13 @@ permalink: /news/ganirelix-acetate/
 
 2026-09-05 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbjNjdENpZTlWRTU1enhuejJRX2dZcThPSnpWV2VSQ2t0cDJaTHU3NVhDaFRsRF9RSUstc1JuX1BlNzFxY3Rhd1Mwb3dXTjJSMjVVZEc1dFRnWi1JanUzYllpNTBrZTNCRVlENVZvNW1MYUJxS2NSVTRLZWhKVVV4WGQ4eFA2Z01uejdCWFFaOFpXOGE2YURBbEhOcmFnY2RFQS1aZDZEcmxBU0xXX0xvTEJPa3BuZFlLdFBBQWd4NGd0UktXNm5FOVJGSXNQOXM?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbjNjdENpZTlWRTU1enhuejJRX2dZcThPSnpWV2VSQ2t0cDJaTHU3NVhDaFRsRF9RSUstc1JuX1BlNzFxY3Rhd1Mwb3dXTjJSMjVVZEc1dFRnWi1JanUzYllpNTBrZTNCRVlENVZvNW1MYUJxS2NSVTRLZWhKVVV4WGQ4eFA2Z01uejdCWFFaOFpXOGE2YURBbEhOcmFnY2RFQS1aZDZEcmxBU0xXX0xvTEJPa3BuZFlLdFBBQWd4NGd0UktXNm5FOVJGSXNQOXM?oc=5)
 
 ---
 
 ### [Sin ir al colegio por miedo al ébola en el epicentro del virus: “Es mejor un niño analfabeto, pero vivo” - EL PAÍS](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdlZjdjFtUGxBNDNrekpUWkFQNFlJc254R21BZHMtSGl0LUZmN3NJMkFJa1REdXJLUWl5N2xIU0ROWGJFcVdaZXBERVhyT05GODlWTzFZSGFrclJIVkF2VWR1NVJ0anBrRFBySFJRb3NFanZvZG9nN3pmbE9SbEZtbEV1ZzdHdjdscmd2RFFiMjU3VEpWeFcyZnoxYUhQS1plNnJKSWc3ajh1N25jVXkzdy1WT04tajhPZmxhUGNwNkVDUXBKbFJWVnVRR3RBdFdGdnhBajVON2t4LUI1MnZrdjBSN3fSAfgBQVVfeXFMTUl0Vmt5UlhpMEI5aGVScHhqVE5waDdFcG5Za2tYRThMX3pwSllDWEd3SktURVppaDFib2tkdmplNERrQVcyQWVMeGt1TTF6Q1ZzNF9Yb0tldkNLYUY2MTE1dDRTaGR5S3EwMlo3X1JFX0gtaWI3V0d3OFFsZm1NRVUzVE1xOEVfblBMV2xnbHR0TFJFZFRvZXFEZDhUMm1Jd1hUeUV4bWZfT2V2Z0hnVVQxa2dwQ3NkZnhMeTRLZnJjQ05FQXhGTUlWX0poWHJMLTVNNzJVbm9sZG5qaVU3QmtvaWNCekliUm14a0xWQjVoMFBXUXhrYUk?oc=5)
 
-2026-09-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-05 <span class="news-indication-tag">AF</span>
 
 來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdlZjdjFtUGxBNDNrekpUWkFQNFlJc254R21BZHMtSGl0LUZmN3NJMkFJa1REdXJLUWl5N2xIU0ROWGJFcVdaZXBERVhyT05GODlWTzFZSGFrclJIVkF2VWR1NVJ0anBrRFBySFJRb3NFanZvZG9nN3pmbE9SbEZtbEV1ZzdHdjdscmd2RFFiMjU3VEpWeFcyZnoxYUhQS1plNnJKSWc3ajh1N25jVXkzdy1WT04tajhPZmxhUGNwNkVDUXBKbFJWVnVRR3RBdFdGdnhBajVON2t4LUI1MnZrdjBSN3fSAfgBQVVfeXFMTUl0Vmt5UlhpMEI5aGVScHhqVE5waDdFcG5Za2tYRThMX3pwSllDWEd3SktURVppaDFib2tkdmplNERrQVcyQWVMeGt1TTF6Q1ZzNF9Yb0tldkNLYUY2MTE1dDRTaGR5S3EwMlo3X1JFX0gtaWI3V0d3OFFsZm1NRVUzVE1xOEVfblBMV2xnbHR0TFJFZFRvZXFEZDhUMm1Jd1hUeUV4bWZfT2V2Z0hnVVQxa2dwQ3NkZnhMeTRLZnJjQ05FQXhGTUlWX0poWHJMLTVNNzJVbm9sZG5qaVU3QmtvaWNCekliUm14a0xWQjVoMFBXUXhrYUk?oc=5)
 
@@ -114,23 +138,15 @@ permalink: /news/ganirelix-acetate/
 
 2026-09-04 <span class="news-indication-tag">AF</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVzdaSFBsT3VKdnIxWUxOY2pabHdITWh4Y3lKcUpZMjFiQ3dpbDF2N3lvLU0wYXFwYVNOVU9BMGRtNWRGbF9jY3ZuWDNQLTd5enJkSmRsS2h4OFU2U1U3MEk0bkFaWnZXbG0ydm9CRnI2VDZxVVlPTkF4UkVXYlVxYnMzMlZsVGhLWmpSWFJZb3V3MGRLUjRPOFllOVYtM3lEZElDS3ZIbWhrY3U1OXgwdnhYSm93RzNVcjJtaWRabFJNVlRvUDFKa1dMbVAxeDh5ZDByUk1YZTNFNE5mZ1lWUXlPLTVrbDYwYl9Hb2NmTzQxNlE3aDBQV0ZJQTlveXlnYlZEUkVxOTlTdjg?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVzdaSFBsT3VKdnIxWUxOY2pabHdITWh4Y3lKcUpZMjFiQ3dpbDF2N3lvLU0wYXFwYVNOVU9BMGRtNWRGbF9jY3ZuWDNQLTd5enJkSmRsS2h4OFU2U1U3MEk0bkFaWnZXbG0ydm9CRnI2VDZxVVlPTkF4UkVXYlVxYnMzMlZsVGhLWmpSWFJZb3V3MGRLUjRPOFllOVYtM3lEZElDS3ZIbWhrY3U1OXgwdnhYSm93RzNVcjJtaWRabFJNVlRvUDFKa1dMbVAxeDh5ZDByUk1YZTNFNE5mZ1lWUXlPLTVrbDYwYl9Hb2NmTzQxNlE3aDBQV0ZJQTlveXlnYlZEUkVxOTlTdjg?oc=5)
 
 ---
 
-### [Wards closed at Carmarthen's Glangwili Hospital after scabies and flu outbreaks](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkcxUER2OXk1azYxUHpMYk83Z1c2R3M3RGFtMHluRnk1amJDTnlSVFRlaUE2cTl5QlBOM2prTHJ0WC1PYXU4d0VaamFONldTdDczR2tGdHd3MWo0Z0kzcmJwUk5LMGRxY1NqV29pQXo2T2RqT2dobjJRNmFVY2V4aUZpeDJPdTh1Mjg4MTRqbEtVZDhGeDRndjhsQ04zMzDSAaQBQVVfeXFMT3B1U0MxVk9GbkpQa25QTUYtamFlamozRWVFRndxWks4Mkg3dGRhUnM3Z3ltU3c1Uy1IOFFGVm1wX0lWUk5qa0wzbUdJcGhEVUI1dGNiS1Z5cllsU1c1YXU2UGFfaEU0VnlDVE9qYmN5ampKWEFWT0xuenVNaU5lUktfVHl3UUFRSV9paUdYb3IzRzg2Ni1VVF9hMWFNa19lY3QzbVI?oc=5)
+### [Wards closed at Carmarthen's Glangwili Hospital after scabies and flu outbreaks - Wales Online](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkcxUER2OXk1azYxUHpMYk83Z1c2R3M3RGFtMHluRnk1amJDTnlSVFRlaUE2cTl5QlBOM2prTHJ0WC1PYXU4d0VaamFONldTdDczR2tGdHd3MWo0Z0kzcmJwUk5LMGRxY1NqV29pQXo2T2RqT2dobjJRNmFVY2V4aUZpeDJPdTh1Mjg4MTRqbEtVZDhGeDRndjhsQ04zMzDSAaQBQVVfeXFMT3B1U0MxVk9GbkpQa25QTUYtamFlamozRWVFRndxWks4Mkg3dGRhUnM3Z3ltU3c1Uy1IOFFGVm1wX0lWUk5qa0wzbUdJcGhEVUI1dGNiS1Z5cllsU1c1YXU2UGFfaEU0VnlDVE9qYmN5ampKWEFWT0xuenVNaU5lUktfVHl3UUFRSV9paUdYb3IzRzg2Ni1VVF9hMWFNa19lY3QzbVI?oc=5)
 
 2026-09-04 <span class="news-indication-tag">AF</span>
 
-來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkcxUER2OXk1azYxUHpMYk83Z1c2R3M3RGFtMHluRnk1amJDTnlSVFRlaUE2cTl5QlBOM2prTHJ0WC1PYXU4d0VaamFONldTdDczR2tGdHd3MWo0Z0kzcmJwUk5LMGRxY1NqV29pQXo2T2RqT2dobjJRNmFVY2V4aUZpeDJPdTh1Mjg4MTRqbEtVZDhGeDRndjhsQ04zMzDSAaQBQVVfeXFMT3B1U0MxVk9GbkpQa25QTUYtamFlamozRWVFRndxWks4Mkg3dGRhUnM3Z3ltU3c1Uy1IOFFGVm1wX0lWUk5qa0wzbUdJcGhEVUI1dGNiS1Z5cllsU1c1YXU2UGFfaEU0VnlDVE9qYmN5ampKWEFWT0xuenVNaU5lUktfVHl3UUFRSV9paUdYb3IzRzg2Ni1VVF9hMWFNa19lY3QzbVI?oc=5)
-
----
-
-### [Salud Pública reporta 40 muertes infantiles y una reducción acumulada del 5 % en 2026 - Diario de Salud](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEQtdzNNNU1YMnRoeHRXWTJXblJGMGpWNnFlRjVUNFI2clpsVkJmU04yQXRlM2dDMWtMZzNhTk9PVUFHdzg3QUxPZzFnN0dlM05jMzlXWjlnei1CZWhZeXVnYjBvOXUyUzZjQ1lob2EyRmxNaWFrNE01eGp1WUsyUUxXU3M1X19YNHpkSXVhUjktNDF2ZzI4MzJUZF9JUWpyY1htd3BHTGdYbFVMZm40NUNLSTV0RGtrbFNHSmlYc3dyRWxOdXR0SmloTEQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEQtdzNNNU1YMnRoeHRXWTJXblJGMGpWNnFlRjVUNFI2clpsVkJmU04yQXRlM2dDMWtMZzNhTk9PVUFHdzg3QUxPZzFnN0dlM05jMzlXWjlnei1CZWhZeXVnYjBvOXUyUzZjQ1lob2EyRmxNaWFrNE01eGp1WUsyUUxXU3M1X19YNHpkSXVhUjktNDF2ZzI4MzJUZF9JUWpyY1htd3BHTGdYbFVMZm40NUNLSTV0RGtrbFNHSmlYc3dyRWxOdXR0SmloTEQ?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkcxUER2OXk1azYxUHpMYk83Z1c2R3M3RGFtMHluRnk1amJDTnlSVFRlaUE2cTl5QlBOM2prTHJ0WC1PYXU4d0VaamFONldTdDczR2tGdHd3MWo0Z0kzcmJwUk5LMGRxY1NqV29pQXo2T2RqT2dobjJRNmFVY2V4aUZpeDJPdTh1Mjg4MTRqbEtVZDhGeDRndjhsQ04zMzDSAaQBQVVfeXFMT3B1U0MxVk9GbkpQa25QTUYtamFlamozRWVFRndxWks4Mkg3dGRhUnM3Z3ltU3c1Uy1IOFFGVm1wX0lWUk5qa0wzbUdJcGhEVUI1dGNiS1Z5cllsU1c1YXU2UGFfaEU0VnlDVE9qYmN5ampKWEFWT0xuenVNaU5lUktfVHl3UUFRSV9paUdYb3IzRzg2Ni1VVF9hMWFNa19lY3QzbVI?oc=5)
 
 ---
 
@@ -162,7 +178,7 @@ permalink: /news/ganirelix-acetate/
 
 2026-09-04 <span class="news-indication-tag">AF</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFp0S0J2V19pcGhsWWdqUnFKd1c1aWZPUm1vUm9FQ1JYUWFfekpWSTVqS25rS1UtalJsb0EtY015eEU2SWUwRVFYTVBEOFYzREV2OWs0TGZWRnlmbTNzYjM3VUFHZkpDOFlwSDZPdlF6UjM5NXF6RTF5Q2ZQR0RRU2I1czhXb3R2MzNvTkxsYmgtQmcyYnRIemljNUNBa1NvcVk0eVJiTUcyMFRkR0RSYXcwdnZnZF85Y0t1TjIwTWptdlE?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFp0S0J2V19pcGhsWWdqUnFKd1c1aWZPUm1vUm9FQ1JYUWFfekpWSTVqS25rS1UtalJsb0EtY015eEU2SWUwRVFYTVBEOFYzREV2OWs0TGZWRnlmbTNzYjM3VUFHZkpDOFlwSDZPdlF6UjM5NXF6RTF5Q2ZQR0RRU2I1czhXb3R2MzNvTkxsYmgtQmcyYnRIemljNUNBa1NvcVk0eVJiTUcyMFRkR0RSYXcwdnZnZF85Y0t1TjIwTWptdlE?oc=5)
 
 ---
 
@@ -178,7 +194,7 @@ permalink: /news/ganirelix-acetate/
 
 2026-09-04 <span class="news-indication-tag">AF</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGlSbWp2OVljRmswZ0tCcWZCd3hjcXlOclpjVWdKR0I1SXBCaEtxTEItMXV2bkllb3l6MlFhcXRhcjFMd3AtUHYtM0pEdlVaNkp3U2EzYnhWc0FJc0o2Vk5qMlJwSUJLeklNZFdFRW1mdGo2NXZpekFoNktwT3pwZ1NFaDZvWGZGQ25xZmE0UHlIdE5VWVZGODJNbmtmQWY2cU5IaTJqVmk3TWM1bHNSVHRnZ2xKcTNueDZfUG5vZy1lOU5ERGJWd25yTG1jc1IzOTZqQ0Y2dw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGlSbWp2OVljRmswZ0tCcWZCd3hjcXlOclpjVWdKR0I1SXBCaEtxTEItMXV2bkllb3l6MlFhcXRhcjFMd3AtUHYtM0pEdlVaNkp3U2EzYnhWc0FJc0o2Vk5qMlJwSUJLeklNZFdFRW1mdGo2NXZpekFoNktwT3pwZ1NFaDZvWGZGQ25xZmE0UHlIdE5VWVZGODJNbmtmQWY2cU5IaTJqVmk3TWM1bHNSVHRnZ2xKcTNueDZfUG5vZy1lOU5ERGJWd25yTG1jc1IzOTZqQ0Y2dw?oc=5)
 
 ---
 
@@ -200,7 +216,7 @@ permalink: /news/ganirelix-acetate/
 
 ### [Krebstumore schützen sich mit Antioxidantien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWRrTlRDZTBYcXAxRFptempWaTNvYnNFQW1BZTkxN2dlRUp5UkJqcUxUV0YtRkRMMXV4MFBqTUNYcUpvM2FINU1NZldkbndkRVlLM2pNaUJJb0V4OUNHSmVBOU45WHJFbXNRcHVsNjFNX0VTQjRnTkNJSENHeW9xb0p5OA?oc=5)
 
-2026-09-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWRrTlRDZTBYcXAxRFptempWaTNvYnNFQW1BZTkxN2dlRUp5UkJqcUxUV0YtRkRMMXV4MFBqTUNYcUpvM2FINU1NZldkbndkRVlLM2pNaUJJb0V4OUNHSmVBOU45WHJFbXNRcHVsNjFNX0VTQjRnTkNJSENHeW9xb0p5OA?oc=5)
 
@@ -214,11 +230,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Keto-Diät: 67% Reduktion von Leberfett in fünf Monaten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+### [Herzschwäche: Digitoxin senkt Sterblichkeit um 18 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVdkMEFBaE1LbE85Z0dCdXA0N0tnZFVta19uODZqUkhkT0o2akpRMWU2WUNFdGFaaGVHRTRKNVlqeE03WFIyQTBZYzF3TmJPVnl2Q0JpT0tXdEowRkVtVEltV3V6UTNIb0xWVERzNzJJSGtXYnJMQVhHSWsyT2tKN0hMQnQ5aXVBSDY0MzVEQU1Qd2pUb0hlVXVVMk9wNWdwZnJuY3B2MkpPQQ?oc=5)
 
-2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-04 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRk1nUXlCQzBYOUoyU0FHSU1sUWtpSHpoZ1ZBTEVjS2FtMnRPT0tmcmg0SXFrb1dfZWdlY3YxaFhBaFdDTzNaaWNHaDhSUXNiNHJGWVB5aXhRcWJVTHd1NnBFZlJTTkwxcmFIXzZKMzRXZ2FLRG5yT3lDQmhkTzJ3RWNjelhBcGNHOTZGS3ZYaTlUNnQ3TjFJY3dfMVF4WjQzb1h1R1ljSUViQzAxcGpkeQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVdkMEFBaE1LbE85Z0dCdXA0N0tnZFVta19uODZqUkhkT0o2akpRMWU2WUNFdGFaaGVHRTRKNVlqeE03WFIyQTBZYzF3TmJPVnl2Q0JpT0tXdEowRkVtVEltV3V6UTNIb0xWVERzNzJJSGtXYnJMQVhHSWsyT2tKN0hMQnQ5aXVBSDY0MzVEQU1Qd2pUb0hlVXVVMk9wNWdwZnJuY3B2MkpPQQ?oc=5)
 
 ---
 
@@ -238,27 +254,19 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Paedophilic thoughts made me want to die… I found it's a disorder affecting 1m - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUy1lTHNad1ZMTGUxNldySVIzeGFHdzFNb0RpR2tIcVRId1ZhMW9qdE5wbG5jREZrZ3hGRE9lUGcwSlZrNTJRS21BZzBoMkhjcnpuTE95ZE1TNEV5TW9td0FhZ1RiNGlFdmlFR2ozd1pSZGR0bnpJUFJ1UmNMaGRQT3IwYVVwUGlFYTJXZHJfd0lITXBrcWpVSg?oc=5)
+### [Una IA "sobrehumana" detecta enfermedades cardíacas en menos de 2 segundos con hasta un 90% de eficacia - El Confidencial](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXY4NnlDWlhNVWxkTXBQenZUbjZmMjFUTVZPVm45SmNmYlRLUzdjRFQxa1FOSi1RNkNNa3c3VEFUZ1ZTckJBSjgwaHhkRkdLdW9nVlVmR3RQVDdTQTZoWlZuMW9rdUpVNWw0a3Y1bHFnSG5QSDY4VGNvWGZaWE5Zb21faEJBakl5X0lFeVFpT1Rmc3g3eDg4UmFfZ0k0MzJWQW5lSDJvQUR4UUhqYk9FZXpwMFRIQQ?oc=5)
 
-2026-09-03 <span class="news-indication-tag">AF</span>
+2026-09-03 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUy1lTHNad1ZMTGUxNldySVIzeGFHdzFNb0RpR2tIcVRId1ZhMW9qdE5wbG5jREZrZ3hGRE9lUGcwSlZrNTJRS21BZzBoMkhjcnpuTE95ZE1TNEV5TW9td0FhZ1RiNGlFdmlFR2ozd1pSZGR0bnpJUFJ1UmNMaGRQT3IwYVVwUGlFYTJXZHJfd0lITXBrcWpVSg?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXY4NnlDWlhNVWxkTXBQenZUbjZmMjFUTVZPVm45SmNmYlRLUzdjRFQxa1FOSi1RNkNNa3c3VEFUZ1ZTckJBSjgwaHhkRkdLdW9nVlVmR3RQVDdTQTZoWlZuMW9rdUpVNWw0a3Y1bHFnSG5QSDY4VGNvWGZaWE5Zb21faEJBakl5X0lFeVFpT1Rmc3g3eDg4UmFfZ0k0MzJWQW5lSDJvQUR4UUhqYk9FZXpwMFRIQQ?oc=5)
 
 ---
 
-### [Doctors baffled as boy, six, dies from disease barely seen in over 200 years - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3Zlb3djZkpTTEt0QjZEejNnODByZlB4cVJSTVR1Y2ppLVF0SUxqMGo3ZFhjbzg4bEk3RG1DUmtVYXJ6VWkxYi1sX2w3eWJidWtOTDlqN0hiMWlOcXdOZU5OU04tSk9TOFlTQ1BlVk9sTkdLZnUwdlJFRC1YS2wzNHpMSHhVQdIBiwFBVV95cUxOa1E4Z1I5QTFhSmZaQ1lPemVZcV9MMmdKQlRuczBUamtJa0tkQllsQnVkSDRzNTBhZlZwVzctcUQxdGt1LTFtVFhTbXg2Tm9kc00wLUM5cWJsdFk4UUU5T05ITGU4aW1QYUNSNzB5U2NwVWtvNXpfUlZhcXpUTmN6ZDItZ2RTMDJZWWJV?oc=5)
+### [Doctors baffled as boy, six, dies from disease barely seen in over 200 years - Daily Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3Zlb3djZkpTTEt0QjZEejNnODByZlB4cVJSTVR1Y2ppLVF0SUxqMGo3ZFhjbzg4bEk3RG1DUmtVYXJ6VWkxYi1sX2w3eWJidWtOTDlqN0hiMWlOcXdOZU5OU04tSk9TOFlTQ1BlVk9sTkdLZnUwdlJFRC1YS2wzNHpMSHhVQdIBiwFBVV95cUxOa1E4Z1I5QTFhSmZaQ1lPemVZcV9MMmdKQlRuczBUamtJa0tkQllsQnVkSDRzNTBhZlZwVzctcUQxdGt1LTFtVFhTbXg2Tm9kc00wLUM5cWJsdFk4UUU5T05ITGU4aW1QYUNSNzB5U2NwVWtvNXpfUlZhcXpUTmN6ZDItZ2RTMDJZWWJV?oc=5)
 
 2026-09-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3Zlb3djZkpTTEt0QjZEejNnODByZlB4cVJSTVR1Y2ppLVF0SUxqMGo3ZFhjbzg4bEk3RG1DUmtVYXJ6VWkxYi1sX2w3eWJidWtOTDlqN0hiMWlOcXdOZU5OU04tSk9TOFlTQ1BlVk9sTkdLZnUwdlJFRC1YS2wzNHpMSHhVQdIBiwFBVV95cUxOa1E4Z1I5QTFhSmZaQ1lPemVZcV9MMmdKQlRuczBUamtJa0tkQllsQnVkSDRzNTBhZlZwVzctcUQxdGt1LTFtVFhTbXg2Tm9kc00wLUM5cWJsdFk4UUU5T05ITGU4aW1QYUNSNzB5U2NwVWtvNXpfUlZhcXpUTmN6ZDItZ2RTMDJZWWJV?oc=5)
-
----
-
-### [Low B12, Folate in Fathers Linked to Birth Defects](https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2NHOWdXWFZJcUp5bG5UQzVTME5fZHFRVzBYOWFGbXE3cWZxS0t4RHVTaVRndVhCNFVrTGlfYjQyZE1NdHY1NWJvdU5Wd2x5UTBvcWE5ckxGRGltN3l6Zm9LNU9FUG40dGtFV0hNWXoybHNLc1lOX1lZQkIwa3I0dURLLWxack9hVk5uNnBtdTVHYXh4Y1FLaQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">AF</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2NHOWdXWFZJcUp5bG5UQzVTME5fZHFRVzBYOWFGbXE3cWZxS0t4RHVTaVRndVhCNFVrTGlfYjQyZE1NdHY1NWJvdU5Wd2x5UTBvcWE5ckxGRGltN3l6Zm9LNU9FUG40dGtFV0hNWXoybHNLc1lOX1lZQkIwa3I0dURLLWxack9hVk5uNnBtdTVHYXh4Y1FLaQ?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3Zlb3djZkpTTEt0QjZEejNnODByZlB4cVJSTVR1Y2ppLVF0SUxqMGo3ZFhjbzg4bEk3RG1DUmtVYXJ6VWkxYi1sX2w3eWJidWtOTDlqN0hiMWlOcXdOZU5OU04tSk9TOFlTQ1BlVk9sTkdLZnUwdlJFRC1YS2wzNHpMSHhVQdIBiwFBVV95cUxOa1E4Z1I5QTFhSmZaQ1lPemVZcV9MMmdKQlRuczBUamtJa0tkQllsQnVkSDRzNTBhZlZwVzctcUQxdGt1LTFtVFhTbXg2Tm9kc00wLUM5cWJsdFk4UUU5T05ITGU4aW1QYUNSNzB5U2NwVWtvNXpfUlZhcXpUTmN6ZDItZ2RTMDJZWWJV?oc=5)
 
 ---
 
@@ -278,11 +286,35 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
+### [Keto-Diät senkt Leberfett um 67 Prozent – und schlägt zwei beliebte Ernährungsformen - smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
+
+2026-09-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2RaTXplZHdsQm9SUmZBNjRVb2xqN1k1dFN2MWZWNmNfSlJsb0otRmxQWk05NGdnX2xFTmNlSXVvMEp4MGsybE9SS0JiemUtd3BnVk1KUzFueHFZMER0THItMjRVUFUwcjhXS29Td0pYVlVVV0syR2RmbHpzUmxud2lmV3E3QkU5d0YwS2NFcVh5YzZlbEZBWVg2bnlnQlo3aGdFOXhfZjFVb3hvcUNoWElib05Hb2JRd0ppNDh3?oc=5)
+
+---
+
 ### [NHS confirms major vaccine rollout for pensioners aged between 65 and 74 - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n0gGHAUFVX3lxTFBETXdNdU9LRlhlc2phdVo5MXluZS1Yam5Id2RTbkRGRS1IeDM4UEQzdG5VTnc1WUtoMVU2dHR5SHlveUExaEhpYUE5cHBkRzVLQ2s3WWxBTjM0UkVpYUpKdVBETE1lQVdvRTVuM2FPRkJBQjdPVmJJNjc5VWFnYzVXTlRiLXNBRQ?oc=5)
 
 2026-09-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkNTUEZzX3B2MEZSMWFSUk5yR3VXSTJqM3NxWC16d0VLeXJfaDc0VTFXTld5TjJIeFA5bWRQLVh0dXNPSWY1a05lOGlTR2Z5dmhsYkdMMlBaUUc2Rklkek5rbldFWEdmX3EtXzA0MmpyZVRjTFNiZU1MeDVLUjhrYy1n0gGHAUFVX3lxTFBETXdNdU9LRlhlc2phdVo5MXluZS1Yam5Id2RTbkRGRS1IeDM4UEQzdG5VTnc1WUtoMVU2dHR5SHlveUExaEhpYUE5cHBkRzVLQ2s3WWxBTjM0UkVpYUpKdVBETE1lQVdvRTVuM2FPRkJBQjdPVmJJNjc5VWFnYzVXTlRiLXNBRQ?oc=5)
+
+---
+
+### [El número de personas con diabetes tipo 1 aumentará un 29% en todo el mundo para 2049](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVl1b0FiVGE2Tmtic01WeXdBT1Y0aC13Z285SjBtOExtWnB1WTl6YmNHb09RZXc2MHVpc2F3SVN2enhEOGs0dmJGVXNPX1BvdTZwUVBjUllja3VtWEFOMEprTGNqaUE0elZFSXN1OGxyTTY5NUFCZXRiUnFuelhvQ0N5OXdzR0NkYWVxbDMtbDRUMGpKRjh5Y2tqSFFYWmcxV0E?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVl1b0FiVGE2Tmtic01WeXdBT1Y0aC13Z285SjBtOExtWnB1WTl6YmNHb09RZXc2MHVpc2F3SVN2enhEOGs0dmJGVXNPX1BvdTZwUVBjUllja3VtWEFOMEprTGNqaUE0elZFSXN1OGxyTTY5NUFCZXRiUnFuelhvQ0N5OXdzR0NkYWVxbDMtbDRUMGpKRjh5Y2tqSFFYWmcxV0E?oc=5)
+
+---
+
+### [Is it true that … mental health is affected by inflammation? - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSy0ydE40N0NtYVYyaUhUNnhQc051X3NocTl0bEFwX2pKUjZIWUVWYktDQUVjSDFNYl9xWWNhMjVSRTNHVFhLZE1rQU9wZmZkYjNUWl9tV1JfZGNLTTczZ2VwdmsxRmV5UUo3MUtYOXJGZGxGdGVCV0xCaHlRYWdtTDdDTzRNWE5TakRkeWNaU191QVNiOU5FWC1MZnpTY1hFYWV5YTNZdGtnQzNkWUkw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSy0ydE40N0NtYVYyaUhUNnhQc051X3NocTl0bEFwX2pKUjZIWUVWYktDQUVjSDFNYl9xWWNhMjVSRTNHVFhLZE1rQU9wZmZkYjNUWl9tV1JfZGNLTTczZ2VwdmsxRmV5UUo3MUtYOXJGZGxGdGVCV0xCaHlRYWdtTDdDTzRNWE5TakRkeWNaU191QVNiOU5FWC1MZnpTY1hFYWV5YTNZdGtnQzNkWUkw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（6 則）
-
-### [Fibrillazione atriale e infarto, antiaggreganti potenti con i DOAC](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMHRSYkowdTJrYlNxemN6c2xaUndWMEROQ0wydVlHMTlsaDVaVGRZcGl1YTNMRTBlaUFNQ2VqM2NQUmI2R0FGajU3QmxUWGFJN182dXJoQ2R1alBXZ1YzcE9wbTg2bzNiTDl3cndQQUlRQS04VkhUZVJWa1Fid0oxcUk0cjNnUUhZV21WZDd1S01KMmFSUlhmYkx2SlIzc2hCN0stcHpKVm16SDRRTGZscHhYb1MyR1VCcUgxcGV6OEFJNjV4NHMydllxRXpaZzZ6dHVIWVZ2ck1BRk4zeGhCbjN1NmhwSWdFZDB4SmtNVzBqSE1CSlpmT1kwaEJ1akU?oc=5)
-
-2026-09-05
-
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMHRSYkowdTJrYlNxemN6c2xaUndWMEROQ0wydVlHMTlsaDVaVGRZcGl1YTNMRTBlaUFNQ2VqM2NQUmI2R0FGajU3QmxUWGFJN182dXJoQ2R1alBXZ1YzcE9wbTg2bzNiTDl3cndQQUlRQS04VkhUZVJWa1Fid0oxcUk0cjNnUUhZV21WZDd1S01KMmFSUlhmYkx2SlIzc2hCN0stcHpKVm16SDRRTGZscHhYb1MyR1VCcUgxcGV6OEFJNjV4NHMydllxRXpaZzZ6dHVIWVZ2ck1BRk4zeGhCbjN1NmhwSWdFZDB4SmtNVzBqSE1CSlpmT1kwaEJ1akU?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [In Sicilia oltre 17 mila ricoveri per infarto e ictus, l’appello dei fisioterapisti contro le liste d’attesa](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
 
 2026-09-05
 
-來源：[PalermoToday](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
+來源：[palermotoday.it](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
 
 ---
 
