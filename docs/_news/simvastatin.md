@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Stroke-Unit in Gefahr: Warum Rettungswagen an Altscherbitz vorbeifahren könnten - LVZ - Leipziger Volkszeitung](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUU5QV21fcTRYWFhZZnVhNHRuY0gxemNSUjZXUjZSR2JnS21mUi1KSmJ5MElPYmNxdHNCZmdObEFWMVpPTHJSRUZtY3BjYmRrejFGc3RUMm9CX2hlQnJRdmEzQk5oVlVRZWNTb0gxYlJ3ZWFiMmQ3dVozT25OSGRkQTdZUkhteDhqZVlkbU14ZjNSRjNXUTRDV25pZnRUU0NUNjVoaEx6T1ROX21SRjgyel9MVUVndGJ1MGxDY2lfZ2p4bDZUY2tKSTI2bHNIbVcxSFB4Qk13SVZNUUJJMi1pU1FRNGxVdE1zZjYxcnp5eGIwR3fSAY8CQVVfeXFMT2dJQXliNjBJakVMY2ZKMWtYUzByYnlKcWI1SU56WVltWG1HdmlKWXg4RllqWmt6OF9qVWg0SGNaNnVoMmhtb1dFSHdvclZiNVJTamVLRkxYTWZCc0hrUjV3U01ScGZpNjlfS2ZnY0hKSVRvUU5TTWlnWUxIem12TlF0Sy0tSXA0QkU1UzlDdzNwNkQxVW4tVVNJczRHay1VSmdBOTA4RmlvTk94b1NRSDhpR2trd1BaLTJHTHJSSDZBT2VwOTNSNUhfS2VCR2MzNlkyQTZDSGgxWWYyckRycVQ1amJnQUtEcjl2VUlGZGdwdHRmYXJpNkwtam5fNHpULWhHU2hITzRkZDhybURyVQ?oc=5)
 
 2026-09-06 <span class="news-indication-tag">stroke</span>
 
 來源：[LVZ - Leipziger Volkszeitung](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUU5QV21fcTRYWFhZZnVhNHRuY0gxemNSUjZXUjZSR2JnS21mUi1KSmJ5MElPYmNxdHNCZmdObEFWMVpPTHJSRUZtY3BjYmRrejFGc3RUMm9CX2hlQnJRdmEzQk5oVlVRZWNTb0gxYlJ3ZWFiMmQ3dVozT25OSGRkQTdZUkhteDhqZVlkbU14ZjNSRjNXUTRDV25pZnRUU0NUNjVoaEx6T1ROX21SRjgyel9MVUVndGJ1MGxDY2lfZ2p4bDZUY2tKSTI2bHNIbVcxSFB4Qk13SVZNUUJJMi1pU1FRNGxVdE1zZjYxcnp5eGIwR3fSAY8CQVVfeXFMT2dJQXliNjBJakVMY2ZKMWtYUzByYnlKcWI1SU56WVltWG1HdmlKWXg4RllqWmt6OF9qVWg0SGNaNnVoMmhtb1dFSHdvclZiNVJTamVLRkxYTWZCc0hrUjV3U01ScGZpNjlfS2ZnY0hKSVRvUU5TTWlnWUxIem12TlF0Sy0tSXA0QkU1UzlDdzNwNkQxVW4tVVNJczRHay1VSmdBOTA4RmlvTk94b1NRSDhpR2trd1BaLTJHTHJSSDZBT2VwOTNSNUhfS2VCR2MzNlkyQTZDSGgxWWYyckRycVQ1amJnQUtEcjl2VUlGZGdwdHRmYXJpNkwtam5fNHpULWhHU2hITzRkZDhybURyVQ?oc=5)
+
+---
+
+### [In Sicilia oltre 17 mila ricoveri per infarto e ictus, l’appello dei fisioterapisti contro le liste d’attesa](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
+
+2026-09-05 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[PalermoToday](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Infarti e ictus, svolta nelle cure grazie alle statine: così si abbattono i rischi per gli over 70 - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3ZwTjMzV0czdi1wcHlZTVg3M0hoVjFoZ1BSdzV6aFFKQktKY01MUjJHSjk3SW82STJ3dFAxdkw5eHVwei1EelozcUtrSlhPSVo3dGpMeXpOWFdNNEpGd0xHa0NhaHctUlVJcXhQWjU4bDdDc2x2SDIxWkdjQzRmSnAxUksxRWE1TkZKTWhPZ254dG53ZEtjMVJhZG5nNVpPSXpIcDZod3diNTgyekVTZlhNZ25zTkZH?oc=5)
+### [Colesterolo LDL, ecco a chi servono davvero i farmaci orali per abbassarlo - Sky TG24](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVlkeUlhRGxWZWltMVdta1lZYTIwX2tzZkExb3ZWNkc1TjA5WUVpUEoyeTRMOVlKZ05wUWsweFFaeTJCM0NJLUNhZ2psLUFma1plQ1o2YjZkT0tGbTdad3p1dmF2UWgyZEFXX3hrZmVkTWNhVmdDeXBrUFhJZ2JTaW9ybGl1ZzBx?oc=5)
 
-2026-08-30 <span class="news-indication-tag">ictus</span>
+2026-09-03 <span class="news-indication-tag">ictus</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3ZwTjMzV0czdi1wcHlZTVg3M0hoVjFoZ1BSdzV6aFFKQktKY01MUjJHSjk3SW82STJ3dFAxdkw5eHVwei1EelozcUtrSlhPSVo3dGpMeXpOWFdNNEpGd0xHa0NhaHctUlVJcXhQWjU4bDdDc2x2SDIxWkdjQzRmSnAxUksxRWE1TkZKTWhPZ254dG53ZEtjMVJhZG5nNVpPSXpIcDZod3diNTgyekVTZlhNZ25zTkZH?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVlkeUlhRGxWZWltMVdta1lZYTIwX2tzZkExb3ZWNkc1TjA5WUVpUEoyeTRMOVlKZ05wUWsweFFaeTJCM0NJLUNhZ2psLUFma1plQ1o2YjZkT0tGbTdad3p1dmF2UWgyZEFXX3hrZmVkTWNhVmdDeXBrUFhJZ2JTaW9ybGl1ZzBx?oc=5)
 
 ---
 
