@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Une IA « superhumaine » peut repérer les maladies du cœur en deux secondes - Journal du Geek](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmJtOHNYemNxT2szdGZVcHQ4RTFNVm9PcldnV1BKNERlaEdfaXJXWGhUYzVuMjh5TXNWYUVtbUozQjhMVkFLSjFWdzJNejluaXZQQ2ktTV9kbnlGcUtkMVBRZHNMQUFpUXc5TjBrMmVqV0hoUlFYaUg2ZFd2ZUxsY3ZlbGUxbEN3Mmh3N01jQjJVUEV4d3hNaU9KUXBWQWE4b0ZQNGNEZ19WTWJBbEZ4NDR2aw?oc=5)
-
-2026-09-06 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Journal du Geek](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmJtOHNYemNxT2szdGZVcHQ4RTFNVm9PcldnV1BKNERlaEdfaXJXWGhUYzVuMjh5TXNWYUVtbUozQjhMVkFLSjFWdzJNejluaXZQQ2ktTV9kbnlGcUtkMVBRZHNMQUFpUXc5TjBrMmVqV0hoUlFYaUg2ZFd2ZUxsY3ZlbGUxbEN3Mmh3N01jQjJVUEV4d3hNaU9KUXBWQWE4b0ZQNGNEZ19WTWJBbEZ4NDR2aw?oc=5)
-
----
-
-### [Bluthochdruck: Diese Pflanzenstoffe helfen nachweisbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTN3ejRocUZsU0NoT1hDR2p5aFg1c1FxM0VTa3EteUNuTXY2b2lVajUwTnFTMG5BQ3VVQmVmQ3FQcS0tN3d3RWpvRDJsZUtteXZ0X2c5dlBtQWl0VmZoLVlvWms5U0dTa0V1YThZVFBaQUdONW4zbXR2Tm4xWURLU240bVBfVGZ1TXlDREFJQ1MwWjI3TENFbWNJZ04zd05DellsVHdhV0xzREJOekxjTC1BUDA?oc=5)
-
-2026-09-06 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTN3ejRocUZsU0NoT1hDR2p5aFg1c1FxM0VTa3EteUNuTXY2b2lVajUwTnFTMG5BQ3VVQmVmQ3FQcS0tN3d3RWpvRDJsZUtteXZ0X2c5dlBtQWl0VmZoLVlvWms5U0dTa0V1YThZVFBaQUdONW4zbXR2Tm4xWURLU240bVBfVGZ1TXlDREFJQ1MwWjI3TENFbWNJZ04zd05DellsVHdhV0xzREJOekxjTC1BUDA?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 ---
 
@@ -86,19 +70,19 @@ permalink: /news/selpercatinib/
 
 ---
 
-### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
+### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
-2026-09-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
+2026-09-05 <span class="news-indication-tag">heart failure</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 ---
 
-### [What went right this week: the good news that matters](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 2026-09-04 <span class="news-indication-tag">heart disease</span>
 
-來源：[positive.news](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 ---
 
@@ -110,11 +94,11 @@ permalink: /news/selpercatinib/
 
 ---
 
-### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula, al margen de la función cardíaca](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
 
-2026-09-03 <span class="news-indication-tag">heart failure</span>
+2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
 
 ---
 

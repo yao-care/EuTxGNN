@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,15 +46,21 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li>epilepsy（99.2%）</li>
+<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 epilepsia</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Un 40% de las personas con síndrome de Down y alzhéimer desarrollan epilepsia, lo que empeora la demencia - La Opinión A Coruña](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWZyWTBaaVFUUE5zbHd6WHlNQllVTVZrbjNxaV9iT2RQQUFsbFRMMG8xZzBLcGpJV0JaZ2ZZSU1IUDNlUVA3U044eDJXSTlaTnhScWVkdVoyaUotXzBpZ1U4aTRKaGRhRzV5VG4zb3l4WHlSQ2MxMGk5M0piLTlBVFlMQXNaTkxDdzN3dVo5aEgyZGJQQ2EwY0NlMXE3RXgwQjN4ZWE4YTVYRFJqVnVNSERWbW5iNFh0R082dGI4RGN2anRzUlRCNzBnaXMtY2x5cTJ0WGx1ZFB6dXFyMllNVnc0YnZoRHkxblpqS9IB8gFBVV95cUxOVzVsdVJWcm1KUzU4Ty1yNG1BY3NxYnY3eTctTDhqMEZUWDBzOUhZa3Q2S0NxZHZjWTRUakRyb2huQnp6MGZDM2kxWkxpcUxLRnk3S0VsNi04ZHJQUTExUk1xUHJMY2hyQmdqQVg5WGQ4MjRxUW1mSGYxdkRnM2YwUzVvMlpuYzlnTjUyUkNUSFhTcGI5VEVVQm5CTnZ3XzdLekc4WURubmtTdzNqOVFyVUpudGFJYVdKTHc3QV9vRjg4dUttQTZpbTM0b3E4YWtMWWlqYU5BVUQ5MmtoS2dLT3M2NzJ5azhyRlJXb2R2R2dyQQ?oc=5)
+
+2026-09-07 <span class="news-indication-tag">epilepsia</span>
+
+來源：[La Opinión A Coruña](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWZyWTBaaVFUUE5zbHd6WHlNQllVTVZrbjNxaV9iT2RQQUFsbFRMMG8xZzBLcGpJV0JaZ2ZZSU1IUDNlUVA3U044eDJXSTlaTnhScWVkdVoyaUotXzBpZ1U4aTRKaGRhRzV5VG4zb3l4WHlSQ2MxMGk5M0piLTlBVFlMQXNaTkxDdzN3dVo5aEgyZGJQQ2EwY0NlMXE3RXgwQjN4ZWE4YTVYRFJqVnVNSERWbW5iNFh0R082dGI4RGN2anRzUlRCNzBnaXMtY2x5cTJ0WGx1ZFB6dXFyMllNVnc0YnZoRHkxblpqS9IB8gFBVV95cUxOVzVsdVJWcm1KUzU4Ty1yNG1BY3NxYnY3eTctTDhqMEZUWDBzOUhZa3Q2S0NxZHZjWTRUakRyb2huQnp6MGZDM2kxWkxpcUxLRnk3S0VsNi04ZHJQUTExUk1xUHJMY2hyQmdqQVg5WGQ4MjRxUW1mSGYxdkRnM2YwUzVvMlpuYzlnTjUyUkNUSFhTcGI5VEVVQm5CTnZ3XzdLekc4WURubmtTdzNqOVFyVUpudGFJYVdKTHc3QV9vRjg4dUttQTZpbTM0b3E4YWtMWWlqYU5BVUQ5MmtoS2dLT3M2NzJ5azhyRlJXb2R2R2dyQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

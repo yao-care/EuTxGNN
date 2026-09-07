@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [¿Qué factores se asocian con un mayor riesgo de depresión en mujeres tras una pérdida gestacional?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtJZV9YUGhzQ0h6M1hvNXFlRHlBRGVpdjA3c3hKQWxaY0x0ODhOY0NibnhINUtiWHJfQmpBb2NCZ2xtRzFuRXcwZ3QydWJQUGdJbVFjaUphZjNRTFNRX0JVeEZuQ2k4WDU4VkJBa01ScTlkRmYyWUNzRnZwOXAyWFpQbzdDYnFtN0dKM1YtQjdHdnlBUXB1d0JibllHSkRhdUxRNkh5eUVoY0Y5VVVJSlQ1clQ5d0g4dE1oQQ?oc=5)
+
+2026-09-07
+
+來源：[infocop.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtJZV9YUGhzQ0h6M1hvNXFlRHlBRGVpdjA3c3hKQWxaY0x0ODhOY0NibnhINUtiWHJfQmpBb2NCZ2xtRzFuRXcwZ3QydWJQUGdJbVFjaUphZjNRTFNRX0JVeEZuQ2k4WDU4VkJBa01ScTlkRmYyWUNzRnZwOXAyWFpQbzdDYnFtN0dKM1YtQjdHdnlBUXB1d0JibllHSkRhdUxRNkh5eUVoY0Y5VVVJSlQ1clQ5d0g4dE1oQQ?oc=5)
+
+---
 
 ### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 2026-09-06
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 ---
 

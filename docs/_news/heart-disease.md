@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie cardiaque（heart disease） 相關新聞"
+title: "heart failure（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie cardiaque（heart disease） 的相關健康新聞報導。4 則新聞、57 個相關藥物。"
+description: "heart failure（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# maladie cardiaque（heart disease） 相關新聞
+# heart failure（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie cardiaque（heart disease） 有什麼相關新聞？">
-<strong>maladie cardiaque（heart disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
+<strong>heart failure（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie cardiaque」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,37 +85,29 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [Une IA « superhumaine » peut repérer les maladies du cœur en deux secondes - Journal du Geek](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmJtOHNYemNxT2szdGZVcHQ4RTFNVm9PcldnV1BKNERlaEdfaXJXWGhUYzVuMjh5TXNWYUVtbUozQjhMVkFLSjFWdzJNejluaXZQQ2ktTV9kbnlGcUtkMVBRZHNMQUFpUXc5TjBrMmVqV0hoUlFYaUg2ZFd2ZUxsY3ZlbGUxbEN3Mmh3N01jQjJVUEV4d3hNaU9KUXBWQWE4b0ZQNGNEZ19WTWJBbEZ4NDR2aw?oc=5)
-
-2026-09-06
-
-來源：[Journal du Geek](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmJtOHNYemNxT2szdGZVcHQ4RTFNVm9PcldnV1BKNERlaEdfaXJXWGhUYzVuMjh5TXNWYUVtbUozQjhMVkFLSjFWdzJNejluaXZQQ2ktTV9kbnlGcUtkMVBRZHNMQUFpUXc5TjBrMmVqV0hoUlFYaUg2ZFd2ZUxsY3ZlbGUxbEN3Mmh3N01jQjJVUEV4d3hNaU9KUXBWQWE4b0ZQNGNEZ19WTWJBbEZ4NDR2aw?oc=5)
-
----
-
-### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
-
-2026-09-04
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHJWenZVN1FiU05zRDNOMkFZdGVMWWp3Z3MwMm1qeXZvQ3FFRmZJblFlMGZIY092OFU2cjB0aGR0TTd1aFpqak9OU094dlNRMW1sbGpqd1FZSGsxS09NdmVzckFuT3VWZ2p0SWEzSS04ak5ha0RDcDR2U21hNkp5WXlaRHdvSndhTGJiOTB0UVhHYWdvWjJmX2s0dlJkb0xDMXAxbkFMdDFTWjBrNzJvYWQzSlpxcndTekhMc1ExY3diRllnOHpsTUVLcVd3MlBkUURYVlN4U2lrTXNKdWtDOHlQWU8xZw?oc=5)
-
----
-
-### [What went right this week: the good news that matters](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
-2026-09-04
-
-來源：[positive.news](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
-2026-09-03
+2026-09-05
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
+
+---
+
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+
+2026-09-04
+
+來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+
+---
+
+### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula, al margen de la función cardíaca](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
+
+2026-09-02
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
 
 ---
 

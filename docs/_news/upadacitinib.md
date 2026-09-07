@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Upadacitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Depemokimab para el asma y rinosinusitis RSCcPN: puede administrarse en casa, lo que favorece la adherencia terapéutica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
 
@@ -66,7 +66,7 @@ permalink: /news/upadacitinib/
 
 2026-09-06 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
 
 ---
 
@@ -98,7 +98,7 @@ permalink: /news/upadacitinib/
 
 2026-09-06 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 
@@ -107,6 +107,14 @@ permalink: /news/upadacitinib/
 2026-09-06 <span class="news-indication-tag">asma</span>
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
+
+---
+
+### [Asthma oft schlechter kontrolliert als gedacht: Warum gezieltes Nachfragen in der Hausarztpraxis entscheidend ist - Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
+
+2026-09-02 <span class="news-indication-tag">asthma</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
 
 ---
 

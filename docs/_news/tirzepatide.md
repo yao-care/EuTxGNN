@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Artrite reumatoide, perché colpisce proprio alcune dita? La risposta potrebbe iniziare prima della nascita](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
 
 2026-09-06 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
+
+---
+
+### [FDA aprueba Mounjaro para reducir riesgo cardiovascular en diabetes tipo 2](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDdTMVRYVU92TDl5MVFydFFkODRCM3pKdkNHUFpQdnJXWS15ZzdjVjdiX3Fxalpfa2lRb1NvM1RSbWdjc2lGckVFSzhUcWRXUXlYY2ZKS3BnajJIdEFQVDlWSDZrcnN6VGhLc3IwWUFoU3JjMENiOHg2QVhZNzR4cnJZNTA0WVRMNFJVSkxVZXBMUTlLNHlTYVNiVGRtVHpneGhJTDgwUW9kSzkzbkNCMHFSTGpvVVcwdVJYX0prU3czN2ppc1hUQm1BSVBBcll5X21MVVVaSC1ZMjMtcjM2ZURQc0hhYy1O?oc=5)
+
+2026-09-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDdTMVRYVU92TDl5MVFydFFkODRCM3pKdkNHUFpQdnJXWS15ZzdjVjdiX3Fxalpfa2lRb1NvM1RSbWdjc2lGckVFSzhUcWRXUXlYY2ZKS3BnajJIdEFQVDlWSDZrcnN6VGhLc3IwWUFoU3JjMENiOHg2QVhZNzR4cnJZNTA0WVRMNFJVSkxVZXBMUTlLNHlTYVNiVGRtVHpneGhJTDgwUW9kSzkzbkNCMHFSTGpvVVcwdVJYX0prU3czN2ppc1hUQm1BSVBBcll5X21MVVVaSC1ZMjMtcjM2ZURQc0hhYy1O?oc=5)
 
 ---
 
@@ -74,7 +82,7 @@ permalink: /news/tirzepatide/
 
 2026-09-06 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/macitentan/
 ---
 
 <p class="key-answer" data-question="Macitentan 有什麼相關新聞？">
-<strong>Macitentan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macitentan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/macitentan/
 <p><a href="{{ '/drugs/macitentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Bluthochdruck: Diese Pflanzenstoffe helfen nachweisbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTN3ejRocUZsU0NoT1hDR2p5aFg1c1FxM0VTa3EteUNuTXY2b2lVajUwTnFTMG5BQ3VVQmVmQ3FQcS0tN3d3RWpvRDJsZUtteXZ0X2c5dlBtQWl0VmZoLVlvWms5U0dTa0V1YThZVFBaQUdONW4zbXR2Tm4xWURLU240bVBfVGZ1TXlDREFJQ1MwWjI3TENFbWNJZ04zd05DellsVHdhV0xzREJOekxjTC1BUDA?oc=5)
-
-2026-09-06 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTN3ejRocUZsU0NoT1hDR2p5aFg1c1FxM0VTa3EteUNuTXY2b2lVajUwTnFTMG5BQ3VVQmVmQ3FQcS0tN3d3RWpvRDJsZUtteXZ0X2c5dlBtQWl0VmZoLVlvWms5U0dTa0V1YThZVFBaQUdONW4zbXR2Tm4xWURLU240bVBfVGZ1TXlDREFJQ1MwWjI3TENFbWNJZ04zd05DellsVHdhV0xzREJOekxjTC1BUDA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Arythmie, hypertension, troubles de la mémoire... : les conséquences de l'apnée du sommeil](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1Z5YXNHRHlZWWdjUVZnTmNqVHAzd19zeTBTZ18zUGFvVEd4NWx4Z1hXUE5uMG9WWUhPalRUaDQ3ZGZNbmdUay1SeFNidElxWXFZcmMtcnkwSkMzMkxLZURtT20zY0pQQ0M0bUlHdm1CNkFuM3lVQzBsNDJ4cFgzZkRHbXlUbUxn?oc=5)
 

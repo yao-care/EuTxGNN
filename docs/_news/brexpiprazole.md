@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [¿Qué factores se asocian con un mayor riesgo de depresión en mujeres tras una pérdida gestacional?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtJZV9YUGhzQ0h6M1hvNXFlRHlBRGVpdjA3c3hKQWxaY0x0ODhOY0NibnhINUtiWHJfQmpBb2NCZ2xtRzFuRXcwZ3QydWJQUGdJbVFjaUphZjNRTFNRX0JVeEZuQ2k4WDU4VkJBa01ScTlkRmYyWUNzRnZwOXAyWFpQbzdDYnFtN0dKM1YtQjdHdnlBUXB1d0JibllHSkRhdUxRNkh5eUVoY0Y5VVVJSlQ1clQ5d0g4dE1oQQ?oc=5)
+
+2026-09-07 <span class="news-indication-tag">depresión</span>
+
+來源：[infocop.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtJZV9YUGhzQ0h6M1hvNXFlRHlBRGVpdjA3c3hKQWxaY0x0ODhOY0NibnhINUtiWHJfQmpBb2NCZ2xtRzFuRXcwZ3QydWJQUGdJbVFjaUphZjNRTFNRX0JVeEZuQ2k4WDU4VkJBa01ScTlkRmYyWUNzRnZwOXAyWFpQbzdDYnFtN0dKM1YtQjdHdnlBUXB1d0JibllHSkRhdUxRNkh5eUVoY0Y5VVVJSlQ1clQ5d0g4dE1oQQ?oc=5)
+
+---
 
 ### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 ---
 

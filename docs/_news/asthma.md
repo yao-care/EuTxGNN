@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。5 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>5 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Depemokimab para el asma y rinosinusitis RSCcPN: puede administrarse en casa, lo que favorece la adherencia terapéutica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
 
@@ -106,6 +106,14 @@ permalink: /news/asthma/
 2026-09-06
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
+
+---
+
+### [Asthma oft schlechter kontrolliert als gedacht: Warum gezieltes Nachfragen in der Hausarztpraxis entscheidend ist - Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
+
+2026-09-02
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
 
 ---
 

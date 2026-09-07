@@ -66,7 +66,7 @@ permalink: /news/sarilumab/
 
 2026-09-06 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
 
 ---
 
@@ -98,7 +98,7 @@ permalink: /news/sarilumab/
 
 2026-09-06 <span class="news-indication-tag">artrite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 
@@ -110,11 +110,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Les professeurs d'exercice physique sont d'accord : "Monter les escaliers est six fois plus rentable que n'importe quel autre exercice. Une séance d'une minute à un rythme confortable suffit"](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+### [Asthma oft schlechter kontrolliert als gedacht: Warum gezieltes Nachfragen in der Hausarztpraxis entscheidend ist - Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
 
-2026-09-04 <span class="news-indication-tag">EPOC</span>
+2026-09-02 <span class="news-indication-tag">asthma</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50NVpvWFdoYUlGNldGSHgyME5PcWhqT05wNFkyUW1zMDRZSUxaV1pTel9rM0dtUjd2dFZCUHRBYUlrNmJUZ3FVNFd3eEhTWUhJTEpXTTZlLVdIS19JbDdUMXN1c0Y?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
 
 ---
 
