@@ -14,7 +14,7 @@ permalink: /news/evolocumab/
 ---
 
 <p class="key-answer" data-question="Evolocumab 有什麼相關新聞？">
-<strong>Evolocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Evolocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/evolocumab/
 <p><a href="{{ '/drugs/evolocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El fármaco evolocumab muestra una reducción del 20% en el riesgo de mortalidad en pacientes de alto riesgo sin antecedentes de infarto o ictus - El Periódico](https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXJEMWV3ZHFPQ2JNY2V6RmYwenJOVmJhR09NRm5kbVM4SldSRTVpUnRiSUM3TTludHcta2ZLaUIzNFZ5bVpPdUx2WTM4Z0dFNlF1TW9qQnhVVWdwNmREanVaM1c0STQwaFZZSlRLRUczcVA4THhaZkFIbnRsUm1CMDhKYlVlalJyeUpBZVpINDRIRTBlWENXb1RKeXJQYUNMX3dKWF9HeUxJaUY1X2pMMEhFMUJ6QkRUdUt0bGJjRV94Zmpy0gHEAUFVX3lxTE5lb21zTW5HS2M1Q3YweGRUVVJxMklnbU4tZDBRal9ZLTl5VkVNUDR4OHVPTThKZ0Ezanl0TWptNHM1WXp2WWxqdzRveVVfRTBFRGZCQ25VTDh1bDUtLXVkbjlNTlYtTm4zVHRUSHhCUDBkMjZ1enJYMVRtUEQxYll4V3ZJVHd6Yl9HMTVtM2NHNElNYy1WREQzdmpCSkNKLU9EMk9pQVNVRFNDN1VSYU85eVhURVhMUTBVWUxXNjdiNnk2MHk?oc=5)
-
-2026-09-01 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">ictus</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXJEMWV3ZHFPQ2JNY2V6RmYwenJOVmJhR09NRm5kbVM4SldSRTVpUnRiSUM3TTludHcta2ZLaUIzNFZ5bVpPdUx2WTM4Z0dFNlF1TW9qQnhVVWdwNmREanVaM1c0STQwaFZZSlRLRUczcVA4THhaZkFIbnRsUm1CMDhKYlVlalJyeUpBZVpINDRIRTBlWENXb1RKeXJQYUNMX3dKWF9HeUxJaUY1X2pMMEhFMUJ6QkRUdUt0bGJjRV94Zmpy0gHEAUFVX3lxTE5lb21zTW5HS2M1Q3YweGRUVVJxMklnbU4tZDBRal9ZLTl5VkVNUDR4OHVPTThKZ0Ezanl0TWptNHM1WXp2WWxqdzRveVVfRTBFRGZCQ25VTDh1bDUtLXVkbjlNTlYtTm4zVHRUSHhCUDBkMjZ1enJYMVRtUEQxYll4V3ZJVHd6Yl9HMTVtM2NHNElNYy1WREQzdmpCSkNKLU9EMk9pQVNVRFNDN1VSYU85eVhURVhMUTBVWUxXNjdiNnk2MHk?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

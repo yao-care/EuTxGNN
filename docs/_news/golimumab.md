@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
+
+2026-09-07 <span class="news-indication-tag">artritis</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
+
+---
 
 ### [Artrite reumatoide, perché colpisce proprio alcune dita? La risposta potrebbe iniziare prima della nascita](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/golimumab/
 
 ---
 
-### [CAR-T-Zellen gegen rheumatoide Arthritis: Phase-1 COMPARE zeigt Remission ohne Medikamente - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmwzQXROaml4S1BSQVpKODVvckVQMXhqX3NnNUV5MVdjLUEwSUh5b3RTRGI2MEJkUW0takFYZjZndFFkTWNucEpXNTRRekllU3JYb1FUQjJjb0VIQWp5N3RWcmxnbktYQmJmbW9wbjFnUGlzLWFBd2pESDdhaWhVdEhwVHhITjM2bUhBTi1rMzhUeW5QdFNlNkxZbnBZWFJGWUFsZGpESWFHNUxWWDFMajlZSGRUTDhFWmJRTE53?oc=5)
+### [Charité: CAR-T-Zell-Therapie bei schwerer rheumatoider Arthritis](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
 2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmwzQXROaml4S1BSQVpKODVvckVQMXhqX3NnNUV5MVdjLUEwSUh5b3RTRGI2MEJkUW0takFYZjZndFFkTWNucEpXNTRRekllU3JYb1FUQjJjb0VIQWp5N3RWcmxnbktYQmJmbW9wbjFnUGlzLWFBd2pESDdhaWhVdEhwVHhITjM2bUhBTi1rMzhUeW5QdFNlNkxZbnBZWFJGWUFsZGpESWFHNUxWWDFMajlZSGRUTDhFWmJRTE53?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
 ---
 

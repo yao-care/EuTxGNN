@@ -54,6 +54,14 @@ permalink: /news/thyrotropin-alfa/
 
 ## 相關新聞（6 則）
 
+### [Hypertension artérielle : ces réflexes du quotidien pour faire baisser durablement votre tension - Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+
+2026-09-07 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+
+---
+
 ### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
@@ -90,15 +98,7 @@ permalink: /news/thyrotropin-alfa/
 
 2026-09-04 <span class="news-indication-tag">migraine</span>
 
-來源：[medscape.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
-
----
-
-### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula, al margen de la función cardíaca](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
 
 ---
 

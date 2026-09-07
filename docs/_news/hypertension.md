@@ -3,7 +3,7 @@ layout: default
 title: "hypertension 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hypertension 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "hypertension 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="hypertension 有什麼相關新聞？">
-<strong>hypertension</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>hypertension</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Hypertension artérielle : ces réflexes du quotidien pour faire baisser durablement votre tension - Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+
+2026-09-07
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+
+---
 
 ### [Arythmie, hypertension, troubles de la mémoire... : les conséquences de l'apnée du sommeil](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1Z5YXNHRHlZWWdjUVZnTmNqVHAzd19zeTBTZ18zUGFvVEd4NWx4Z1hXUE5uMG9WWUhPalRUaDQ3ZGZNbmdUay1SeFNidElxWXFZcmMtcnkwSkMzMkxLZURtT20zY0pQQ0M0bUlHdm1CNkFuM3lVQzBsNDJ4cFgzZkRHbXlUbUxn?oc=5)
 

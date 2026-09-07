@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [El error en la terapia con testosterona que dispara el riesgo de ictus - Libertad Digital](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFZ5ZUExWEpybTFDY2VqMVpibnVCZk11a0FTR0N6OFZFcG9zTmdIWk1KRlQ5aWdCZFMyTzRFNzVubFlvQlVFbXliYjdRVU9TdkJmTTVlMFJZN0xONS01dlcwazVVbmVGb3kxX2U2S29rVFlxU2h4U3M5amxxMDNoRkhocDJZTEFQTFBEM2I0SUF0T0hhUDRIWmN6b25qc25GQ1hDXzhtNTBNb05mVmk3SktUVTZOQUpLQVFZTUJXS3RRV2dvZGRtMmdHRFRETmlPMUlwandxREIyOTVvOEx2T9IB6wFBVV95cUxPNUJIQWxIRmJqODFIQ3cybFFka05PMzB6WXFnNHFyOW9uMHpLWkZ1R1RPN1ktckFIWkFRQ2wwbGhTbm1COEpHNHl3RExreFFQTUl1LUplWXZCZHNwRDEzVUdEWndnTEZBZDhFTlliSUdJUGI3dTRSNHViSHZHRzVzSmhQaWFrT2JGZ3Exd1Jfc1FJNll1aTc4N00wWGpIZ1dIeFBfem9hZFFCLWJNRmRGekRfUTVXdS1PaDBKbjNLMHpMT192OFk1d3MtdVIxMjB3YkJ1N2RDWmFsaERzX09lV3VCZml3ZEJQYU1n?oc=5)
+
+2026-09-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">fibrilación auricular</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFZ5ZUExWEpybTFDY2VqMVpibnVCZk11a0FTR0N6OFZFcG9zTmdIWk1KRlQ5aWdCZFMyTzRFNzVubFlvQlVFbXliYjdRVU9TdkJmTTVlMFJZN0xONS01dlcwazVVbmVGb3kxX2U2S29rVFlxU2h4U3M5amxxMDNoRkhocDJZTEFQTFBEM2I0SUF0T0hhUDRIWmN6b25qc25GQ1hDXzhtNTBNb05mVmk3SktUVTZOQUpLQVFZTUJXS3RRV2dvZGRtMmdHRFRETmlPMUlwandxREIyOTVvOEx2T9IB6wFBVV95cUxPNUJIQWxIRmJqODFIQ3cybFFka05PMzB6WXFnNHFyOW9uMHpLWkZ1R1RPN1ktckFIWkFRQ2wwbGhTbm1COEpHNHl3RExreFFQTUl1LUplWXZCZHNwRDEzVUdEWndnTEZBZDhFTlliSUdJUGI3dTRSNHViSHZHRzVzSmhQaWFrT2JGZ3Exd1Jfc1FJNll1aTc4N00wWGpIZ1dIeFBfem9hZFFCLWJNRmRGekRfUTVXdS1PaDBKbjNLMHpMT192OFk1d3MtdVIxMjB3YkJ1N2RDWmFsaERzX09lV3VCZml3ZEJQYU1n?oc=5)
+
+---
+
+### [A stroke at 22 made me believe I was 5 years old again](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmRxS3NSSExJalkxWXhrQzdnbHVnN3dYMlRsQ3U2SzFpWlNRY0pqUU9RcGVWMU1OT2tVbjhJLWZzN3lKYXBkX3U5RnV4V1ptbnVPVUFLdHAxT1FoWkJ2blliVzV3RTZVbGI2UTlORWNlZjJ3bWpYcXk1XzNzWHVhMndETdIBiAFBVV95cUxNVXlsLV9KVmRtLVVqT29nNWpMN1cxT2FGRzFlZ1dtUjJYVE1kMFJ4QUFXSjFhMW9yOXJzWE9DUzdPa1Q3TjVIamg0NkM4VXZ4Y0ptMlhuM3FFNGNyRnNEME9oTUpIeUxoa3psemFDTU14NU1pZnp4V0V5RlFxSkRjX3psZnRvZkJy?oc=5)
+
+2026-09-07 <span class="news-indication-tag">stroke</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmRxS3NSSExJalkxWXhrQzdnbHVnN3dYMlRsQ3U2SzFpWlNRY0pqUU9RcGVWMU1OT2tVbjhJLWZzN3lKYXBkX3U5RnV4V1ptbnVPVUFLdHAxT1FoWkJ2blliVzV3RTZVbGI2UTlORWNlZjJ3bWpYcXk1XzNzWHVhMndETdIBiAFBVV95cUxNVXlsLV9KVmRtLVVqT29nNWpMN1cxT2FGRzFlZ1dtUjJYVE1kMFJ4QUFXSjFhMW9yOXJzWE9DUzdPa1Q3TjVIamg0NkM4VXZ4Y0ptMlhuM3FFNGNyRnNEME9oTUpIeUxoa3psemFDTU14NU1pZnp4V0V5RlFxSkRjX3psZnRvZkJy?oc=5)
+
+---
+
+### [La enfermedad que causa la mayoría de los infartos se acumula silenciosamente en las arterias desde la juventud - Emisora Costa del Sol 93.1 FM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjN4bk5WSGc2V0xzV1kxeWZpN0FWS1gyUlBrTmExTGlKQzJmYWQwVGhsMmxYWU4tZUdDTlpoN3QycVItdjZiMnBqY0RXU1dVcjIwWFppcTRuWVhrRnhVUFVwNnJodTZiZk5vanJpTW1uNGtrcWdyMURLLU9pQzQyWmpxMnhpRm93SmpndWF1REVYUmZMNU9iZEJtTExLTXZBNFRFam85Yk96akF2UWdyY3J3NzBKLU1GN18xMmZDNXFhWjJHeWFzb0dHc1J3NjZocEc5Z2l3VC11R25FNFA4TlRKVVI?oc=5)
+
+2026-09-06 <span class="news-indication-tag">ictus</span>
+
+來源：[Emisora Costa del Sol 93.1 FM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjN4bk5WSGc2V0xzV1kxeWZpN0FWS1gyUlBrTmExTGlKQzJmYWQwVGhsMmxYWU4tZUdDTlpoN3QycVItdjZiMnBqY0RXU1dVcjIwWFppcTRuWVhrRnhVUFVwNnJodTZiZk5vanJpTW1uNGtrcWdyMURLLU9pQzQyWmpxMnhpRm93SmpndWF1REVYUmZMNU9iZEJtTExLTXZBNFRFam85Yk96akF2UWdyY3J3NzBKLU1GN18xMmZDNXFhWjJHeWFzb0dHc1J3NjZocEc5Z2l3VC11R25FNFA4TlRKVVI?oc=5)
+
+---
 
 ### [The Coronary Artery Inflammation Controversy - Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
 
 2026-09-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 來源：[Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
-
----
-
-### [Giornata mondiale della fisioterapia 2026. Tornare a muoversi, tornare a vivere](https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQWNYTDlVT3hSTnVWR3NMOTFDR0JQUzlNZmRfa3M1Vy12cUo1bDVlZjJDeS1USXVpUWN2cjVlNXJyUjdDZElLMHZDQVFKYUtYRkhmMmRqMEZINkg2WjJBSFZpWU5GYVpkd2l6aVRrTk5raGM?oc=5)
-
-2026-09-01 <span class="news-indication-tag">ictus</span>
-
-來源：[LiveSicilia](https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQWNYTDlVT3hSTnVWR3NMOTFDR0JQUzlNZmRfa3M1Vy12cUo1bDVlZjJDeS1USXVpUWN2cjVlNXJyUjdDZElLMHZDQVFKYUtYRkhmMmRqMEZINkg2WjJBSFZpWU5GYVpkd2l6aVRrTk5raGM?oc=5)
-
----
-
-### [El fármaco evolocumab muestra una reducción del 20% en el riesgo de mortalidad en pacientes de alto riesgo sin antecedentes de infarto o ictus - El Periódico](https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXJEMWV3ZHFPQ2JNY2V6RmYwenJOVmJhR09NRm5kbVM4SldSRTVpUnRiSUM3TTludHcta2ZLaUIzNFZ5bVpPdUx2WTM4Z0dFNlF1TW9qQnhVVWdwNmREanVaM1c0STQwaFZZSlRLRUczcVA4THhaZkFIbnRsUm1CMDhKYlVlalJyeUpBZVpINDRIRTBlWENXb1RKeXJQYUNMX3dKWF9HeUxJaUY1X2pMMEhFMUJ6QkRUdUt0bGJjRV94Zmpy0gHEAUFVX3lxTE5lb21zTW5HS2M1Q3YweGRUVVJxMklnbU4tZDBRal9ZLTl5VkVNUDR4OHVPTThKZ0Ezanl0TWptNHM1WXp2WWxqdzRveVVfRTBFRGZCQ25VTDh1bDUtLXVkbjlNTlYtTm4zVHRUSHhCUDBkMjZ1enJYMVRtUEQxYll4V3ZJVHd6Yl9HMTVtM2NHNElNYy1WREQzdmpCSkNKLU9EMk9pQVNVRFNDN1VSYU85eVhURVhMUTBVWUxXNjdiNnk2MHk?oc=5)
-
-2026-09-01 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">ictus</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXJEMWV3ZHFPQ2JNY2V6RmYwenJOVmJhR09NRm5kbVM4SldSRTVpUnRiSUM3TTludHcta2ZLaUIzNFZ5bVpPdUx2WTM4Z0dFNlF1TW9qQnhVVWdwNmREanVaM1c0STQwaFZZSlRLRUczcVA4THhaZkFIbnRsUm1CMDhKYlVlalJyeUpBZVpINDRIRTBlWENXb1RKeXJQYUNMX3dKWF9HeUxJaUY1X2pMMEhFMUJ6QkRUdUt0bGJjRV94Zmpy0gHEAUFVX3lxTE5lb21zTW5HS2M1Q3YweGRUVVJxMklnbU4tZDBRal9ZLTl5VkVNUDR4OHVPTThKZ0Ezanl0TWptNHM1WXp2WWxqdzRveVVfRTBFRGZCQ25VTDh1bDUtLXVkbjlNTlYtTm4zVHRUSHhCUDBkMjZ1enJYMVRtUEQxYll4V3ZJVHd6Yl9HMTVtM2NHNElNYy1WREQzdmpCSkNKLU9EMk9pQVNVRFNDN1VSYU85eVhURVhMUTBVWUxXNjdiNnk2MHk?oc=5)
 
 ---
 

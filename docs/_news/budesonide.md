@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Lachen gegen Luftnot: Studie zeigt, wie eine Lachtherapie bei COPD helfen kann](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElMYzZiRUdfMS1tN3Z2UXVGS0dWLVY5bDlSMUVRMlRkQllDdktGVTJYVVFpMmNrWU52Vm92WUZYV0cxZ3k0dENrQXMyRTFwLURGZnY0MGh1RjBWSHY0eW9DYkRURlhDMzJqdkN2aGZNYmRBd3p3V1FtOUhWTWRMOFRsN3lnX1J2dmQ5TTVZby1mX3E2OURyWEZIcTVDWlMzOWNGTlRET3dVOFZyZThvdWYzQVdUSkhuclRrdg?oc=5)
+
+2026-09-07 <span class="news-indication-tag">copd</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElMYzZiRUdfMS1tN3Z2UXVGS0dWLVY5bDlSMUVRMlRkQllDdktGVTJYVVFpMmNrWU52Vm92WUZYV0cxZ3k0dENrQXMyRTFwLURGZnY0MGh1RjBWSHY0eW9DYkRURlhDMzJqdkN2aGZNYmRBd3p3V1FtOUhWTWRMOFRsN3lnX1J2dmQ5TTVZby1mX3E2OURyWEZIcTVDWlMzOWNGTlRET3dVOFZyZThvdWYzQVdUSkhuclRrdg?oc=5)
+
+---
+
+### [Laughter could be best medicine for lung disease patients - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+
+2026-09-07 <span class="news-indication-tag">copd</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+
+---
 
 ### [Depemokimab para el asma y rinosinusitis RSCcPN: puede administrarse en casa, lo que favorece la adherencia terapéutica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
 

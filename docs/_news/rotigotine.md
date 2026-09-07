@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（22 則）
+
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+---
+
+### [¿Una vacuna contra el melanoma? Qué hay realmente detrás del anuncio de Merck y Moderna](https://news.google.com/rss/articles/CBMitgFBVV95cUxQckZvalJoMmY5bW55YzZ5VUJHcmk3ZnJSbEpkUHVGUGFvV3FQRExSbHRjUk5uWENCbXBWeVcycGpwLWdRYWpxXzVJOWFrY0dSZF9Gd1lJRU9GR1k4bXk2dUZicGRtN2dKWEZnSWo4elMzOFQyZWVWbDNaTy1taVpDNkR1YkdTM240WlAwZkJ1ZzlfS1FfUVZCTnNfS3R4aGVLMTVYNlNYZ2V1Vzd4cHgteWFMWVVlUQ?oc=5)
+
+2026-09-07 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+來源：[EHU](https://news.google.com/rss/articles/CBMitgFBVV95cUxQckZvalJoMmY5bW55YzZ5VUJHcmk3ZnJSbEpkUHVGUGFvV3FQRExSbHRjUk5uWENCbXBWeVcycGpwLWdRYWpxXzVJOWFrY0dSZF9Gd1lJRU9GR1k4bXk2dUZicGRtN2dKWEZnSWo4elMzOFQyZWVWbDNaTy1taVpDNkR1YkdTM240WlAwZkJ1ZzlfS1FfUVZCTnNfS3R4aGVLMTVYNlNYZ2V1Vzd4cHgteWFMWVVlUQ?oc=5)
+
+---
+
+### [Oltre il colore degli occhi: 5 cose incredibili sul tuo carattere che sono scritte nel DNA](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yMWVaR1JMWGxvUm9kTk9MVlVPMzlvWjY4dVJ2eVdBVXYwUloybnl6ekZsTF9WOW94aGZyNHZTeGxhb0YxZktBWXB1SDVxSFp0QndvUGFPZVpIbVZGaDdINS1RTFl2QQ?oc=5)
+
+2026-09-07 <span class="news-indication-tag">MS</span>
+
+來源：[Studenti.it](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yMWVaR1JMWGxvUm9kTk9MVlVPMzlvWjY4dVJ2eVdBVXYwUloybnl6ekZsTF9WOW94aGZyNHZTeGxhb0YxZktBWXB1SDVxSFp0QndvUGFPZVpIbVZGaDdINS1RTFl2QQ?oc=5)
+
+---
+
+### [Roma, la lebbra è in città. Ed è d'importazione - Il Tempo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQi1wcHk3UDB4V2V3cFFfRDRDbXBPZ1RZT0ZNUHdpU0ttWTFIMk1qSFB2Vk1lajlEQm1hdU9LWFlZZ1JUMTBvU0FSRDBfY3dJbjc3MmVxcm5FN0IwYUkzMEhCczhWVnljNzBhZDlmUkFxZk04WW9UM2pVX0x0cWh4RFAwSlp1U3RIandERTNCSEx6WVlRSEk4aDVYMmdzMnF3ekRQTGpvWUNLZnM1N3NzddIBtgFBVV95cUxQQ1JoRkY5LUQ1S3RWTm1RQTVsWklydk5hS1ZkMFRlUW9SZnVHb2lvUkFSRnllNGpfaWp0eHdtNjVST3ozLXMzX0lfdVp5VDRZNDZKRlhNR2FQQlFMX19KT0dlN1g2RWJsWXB4MUkycVFxdl82WDZyeXlidlVqeWNSTWVNdldsTWNPek11aXJ1eEVPMHhZV1lVYmZ5TTgtdUZpbnVERFI2M0dZV1JHZnV5NENjU2lLQQ?oc=5)
+
+2026-09-07 <span class="news-indication-tag">MS</span>
+
+來源：[Il Tempo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQi1wcHk3UDB4V2V3cFFfRDRDbXBPZ1RZT0ZNUHdpU0ttWTFIMk1qSFB2Vk1lajlEQm1hdU9LWFlZZ1JUMTBvU0FSRDBfY3dJbjc3MmVxcm5FN0IwYUkzMEhCczhWVnljNzBhZDlmUkFxZk04WW9UM2pVX0x0cWh4RFAwSlp1U3RIandERTNCSEx6WVlRSEk4aDVYMmdzMnF3ekRQTGpvWUNLZnM1N3NzddIBtgFBVV95cUxQQ1JoRkY5LUQ1S3RWTm1RQTVsWklydk5hS1ZkMFRlUW9SZnVHb2lvUkFSRnllNGpfaWp0eHdtNjVST3ozLXMzX0lfdVp5VDRZNDZKRlhNR2FQQlFMX19KT0dlN1g2RWJsWXB4MUkycVFxdl82WDZyeXlidlVqeWNSTWVNdldsTWNPek11aXJ1eEVPMHhZV1lVYmZ5TTgtdUZpbnVERFI2M0dZV1JHZnV5NENjU2lLQQ?oc=5)
+
+---
 
 ### [Being a carer 'nearly broke me' but love 'carried me through'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
 
 2026-09-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
 
 ---
 
@@ -70,19 +102,19 @@ permalink: /news/rotigotine/
 
 ---
 
-### [This Vitamin Deficiency Can Cause Fatigue, Headaches And Memory Problems — And Drinking Raises Your Risk](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTDZLVDBtZjVaR2gyakE1a0xfTG0tbmpqTFA3MnNkZFROdWRBU0FVZlREd2NsQkN0bVdpcTZ0QjFYaXY4d1FUXy1vb1I2NE1rbXF1OTcxVUJWNGNhbVRtVV83Q3l4NmliVExHdktPY2N1c3NvNldGeFFDMjU?oc=5)
+### [Newborn baby's nail infection led to brain tumour diagnosis - Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2QtLWpqN0k1TVdVN09uMldDU3RSd2U1X0w2WmlLeTZNN0NYMnNMcHFleTB5UWtILVU5SXkxNEx5MElvT2k4RWJRQ3lublRzaG16eFVmUGZ4VkVNRzJXdnl3Uks0MWxEYTZyZ3VONzcxOEJJQkxVaHUtRUJzMEI2T2xndFk1aXhLY2t4Yll6c0tlNVkySHhyZzZn?oc=5)
 
-2026-09-06 <span class="news-indication-tag">MS</span>
+2026-09-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTDZLVDBtZjVaR2gyakE1a0xfTG0tbmpqTFA3MnNkZFROdWRBU0FVZlREd2NsQkN0bVdpcTZ0QjFYaXY4d1FUXy1vb1I2NE1rbXF1OTcxVUJWNGNhbVRtVV83Q3l4NmliVExHdktPY2N1c3NvNldGeFFDMjU?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2QtLWpqN0k1TVdVN09uMldDU3RSd2U1X0w2WmlLeTZNN0NYMnNMcHFleTB5UWtILVU5SXkxNEx5MElvT2k4RWJRQ3lublRzaG16eFVmUGZ4VkVNRzJXdnl3Uks0MWxEYTZyZ3VONzcxOEJJQkxVaHUtRUJzMEI2T2xndFk1aXhLY2t4Yll6c0tlNVkySHhyZzZn?oc=5)
 
 ---
 
-### [Éxito de la primera vacuna personalizada contra el melanoma, el cáncer de piel más agresivo - Zamora News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNay1xYVpRVVJKWGdYOWdnNEo4VXhxakc5WVM1RWNWUUNQVVNGU3BMU3R2WnhaS1gwQjZVMXdpbWJ1SU0zajRzd1JlN1g2ejhITXpaS3I1Zno5d1d5TnNNS25FWThMZEJXUEJ1UlNxcDVJcms5VGpjNlRxd2c1U084bmZtZWdDSm1vUDRnZmdpeWdtdHR3clpzYXd4YXVUdFhpbTVYVnU1LW5YY3ktTVVrbmd5emZpLS1JVGhhWmQ3MEFLeE9jZzR1NDRpU01JY0M2MUNTZk130gHbAUFVX3lxTE4tcXl4bTA3QjRJVnNvNmJMcV9TaUdMTEt5TEdERjQ5UDNUa0VycExxSlJ4MUZZU0ozUFdUMGlWZWlzREV1WGoxX3JEUEthSm1Jc3lCV2FJM0R4Z2dhaWN6THdmUGpTa05BQXZtV29OMjVKcUtKckZIZk1uZWZvTlNUcHc2NTJIRU5ySFlDazV2NEwzdW9qN3NxdkZLa19mbmE1cGtVRmFBbVNTRlBBVUtETzRaaUxwRllselJKR0hXUGZIT1JyUV9PaVgyUjl3SmliTkNpMU9MYnpmSQ?oc=5)
+### [Vagus Nerve Stimulation Could Unlock the Brain’s Hidden Learning Potential](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnVndDRYMEc5aWFWa3kyR1J3UnhBaXRzUGptVHplY0xTUTdzYXZjajkwSHhMckI0TFVjWlpLbVltb1JvNG9Cc0gzQUszcjhuWVpiQVpkVzJxWFo4SFRsbXlBeW54UzQxUUxiNkRkSzhMcE5uWUhBZjltVk1pY3FNUWppYldTaVF2UmJMeklteGRlb09WTGxaNFZlcmgtdDc1?oc=5)
 
-2026-09-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-09-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Zamora News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNay1xYVpRVVJKWGdYOWdnNEo4VXhxakc5WVM1RWNWUUNQVVNGU3BMU3R2WnhaS1gwQjZVMXdpbWJ1SU0zajRzd1JlN1g2ejhITXpaS3I1Zno5d1d5TnNNS25FWThMZEJXUEJ1UlNxcDVJcms5VGpjNlRxd2c1U084bmZtZWdDSm1vUDRnZmdpeWdtdHR3clpzYXd4YXVUdFhpbTVYVnU1LW5YY3ktTVVrbmd5emZpLS1JVGhhWmQ3MEFLeE9jZzR1NDRpU01JY0M2MUNTZk130gHbAUFVX3lxTE4tcXl4bTA3QjRJVnNvNmJMcV9TaUdMTEt5TEdERjQ5UDNUa0VycExxSlJ4MUZZU0ozUFdUMGlWZWlzREV1WGoxX3JEUEthSm1Jc3lCV2FJM0R4Z2dhaWN6THdmUGpTa05BQXZtV29OMjVKcUtKckZIZk1uZWZvTlNUcHc2NTJIRU5ySFlDazV2NEwzdW9qN3NxdkZLa19mbmE1cGtVRmFBbVNTRlBBVUtETzRaaUxwRllselJKR0hXUGZIT1JyUV9PaVgyUjl3SmliTkNpMU9MYnpmSQ?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnVndDRYMEc5aWFWa3kyR1J3UnhBaXRzUGptVHplY0xTUTdzYXZjajkwSHhMckI0TFVjWlpLbVltb1JvNG9Cc0gzQUszcjhuWVpiQVpkVzJxWFo4SFRsbXlBeW54UzQxUUxiNkRkSzhMcE5uWUhBZjltVk1pY3FNUWppYldTaVF2UmJMeklteGRlb09WTGxaNFZlcmgtdDc1?oc=5)
 
 ---
 
@@ -90,7 +122,7 @@ permalink: /news/rotigotine/
 
 2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE14OHNFWWhlbTV4bE9tU3cyQnZhMzFUaU5PRXZhTzF3Q1FJRndLTG5RNnpTUUdqanl2akhURzhEaTdXVG9VaFpFWTh4QzBkNFlGZTdtYzFYTExJZHpZ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE14OHNFWWhlbTV4bE9tU3cyQnZhMzFUaU5PRXZhTzF3Q1FJRndLTG5RNnpTUUdqanl2akhURzhEaTdXVG9VaFpFWTh4QzBkNFlGZTdtYzFYTExJZHpZ?oc=5)
 
 ---
 
@@ -126,22 +158,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [GLP-1-Medikamente und Haarausfall: Ein Gen könnte erklären, warum manche Männer betroffen sind - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
-
-2026-09-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEsxVVBOeEc2WVcwc0ZQOElwQkg2aWVERzU0X3JSSFdjMTR3RFpiSGF2QmNMNVB1Q0hza010VUhjZTFhSXZmcFFxU3RUME1LMWJwQWl4S3hPUFlBMFJ1WlJscEpJMm1wSkNSSlh1aG5uRm9uOUZUcWIxbUY5a1FKVXM4cEdDc3dHeUdacEwtSk5Hc3lybEpocW5hODFQZERXYnhrQQ?oc=5)
-
----
-
-### [Genetically modified pig kidney keeps man alive for record nine months - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1NwWTRLdzBDR2VIZUJzVjdLV29QWTZRd0VxWEx0eEFneTRGUXRqb2hCWXJnOGJTY2R5bTVEUXJORVlBbEdqNUFORjdmWU9LUFM0LXliTE42czFta1dOMV9FZUxPVUJzR0ZCRWNSRlBDSG9hSjBhT1pRWUhyLVZZWkdOYVhqTzFINmZNWXNPREpIU3FDdnhieTQ1bGRxUHNlLXhhNjduNTlsQUhaUzVpVEp6TzI?oc=5)
-
-2026-09-04 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1NwWTRLdzBDR2VIZUJzVjdLV29QWTZRd0VxWEx0eEFneTRGUXRqb2hCWXJnOGJTY2R5bTVEUXJORVlBbEdqNUFORjdmWU9LUFM0LXliTE42czFta1dOMV9FZUxPVUJzR0ZCRWNSRlBDSG9hSjBhT1pRWUhyLVZZWkdOYVhqTzFINmZNWXNPREpIU3FDdnhieTQ1bGRxUHNlLXhhNjduNTlsQUhaUzVpVEp6TzI?oc=5)
-
----
-
 ### [NHS confirms double vaccine for older adults aged 65-80 - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGM1U0NkS2JtdHp1S1JpQUl2Yl8wZHRqUGhDRHVDNTlLbjhpaE4yQk5iMnNUTnlJbUc1eEF2ZHVPeTNrS01XOHR2Sll3WDNRQ3lPd1FqQ3ZFdzBuZDZXS0h1cFZjTW1hZlB1MlJpMER6cFRTbDVDYndlQnJKbHJHQ00yTTRmS1JqTzJqRDZB0gGTAUFVX3lxTE9sdmJaeHBDYWhzdzlvLUN5T29GdWUxaUFfZm1Ib2Z2QU5nUERteGNlR29fVnFXbDg3OTViQndrUFNrRFQ1d1VRVmxJSGdxRVBBQUNnOEhreHRhdzlOR0xac3lfSm1TVW1oQW8xcmc0bFRqRElpU05kcVN1Z3h0Wk1TQ0ZGS0d0ZXNFd04xZ21SRV9lOA?oc=5)
 
 2026-09-04 <span class="news-indication-tag">MS</span>
@@ -150,11 +166,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Krebs-Immuntherapie: Wie Tumorzellen T-Zellen mit PRDX1 entwaffnen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPM1BMVHJqc0kxb25yTC13ZGJNaTlnMkk1RXhJbnk2QnhpMGwyaFREdl9iUHpzajdZaVZib29ra3JLbXdBNHpWSGZvNU1EbTlRWEtlY1p3ZF9JX1BVbkQ2Y0JMU0R0X0lhOF9zQXY5azY3MFpfYlhpbUp6MmQ2ZEVORFBTNXl4SmZlME5QOXJyRUJJcW4yT1FOdVNWS2V6SHBYT3ZjYTFMek9FNWJON0RzRUI1X2s?oc=5)
+### [Krebszellen nutzen Antioxidantien als Schutzschild – und bremsen damit T-Zellen aus - smart up news](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeW1ST3RUb1lFMWhFX0VDRkZRZ1IxYzgyRHF3anRCVmNTRmlzV2tVVTFYWlJWZXM2QWwzVm5ILUlDS3hrRl8zTW90NE9rbDJTTEl0MThrbjl1dzFVVWMxc1pQWG5jUUswbVpaNkhaZUJWTjZfc2tTN1U1UVdwZzBhT1ZBZ1ZTbkZSTGxLSFNRXzczWjBnLTA2NC05cUdaTWxfM2dMaXgwVzJEUVNueWl0Ykp2ekN2QTJO?oc=5)
 
 2026-09-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPM1BMVHJqc0kxb25yTC13ZGJNaTlnMkk1RXhJbnk2QnhpMGwyaFREdl9iUHpzajdZaVZib29ra3JLbXdBNHpWSGZvNU1EbTlRWEtlY1p3ZF9JX1BVbkQ2Y0JMU0R0X0lhOF9zQXY5azY3MFpfYlhpbUp6MmQ2ZEVORFBTNXl4SmZlME5QOXJyRUJJcW4yT1FOdVNWS2V6SHBYT3ZjYTFMek9FNWJON0RzRUI1X2s?oc=5)
+來源：[smart up news](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeW1ST3RUb1lFMWhFX0VDRkZRZ1IxYzgyRHF3anRCVmNTRmlzV2tVVTFYWlJWZXM2QWwzVm5ILUlDS3hrRl8zTW90NE9rbDJTTEl0MThrbjl1dzFVVWMxc1pQWG5jUUswbVpaNkhaZUJWTjZfc2tTN1U1UVdwZzBhT1ZBZ1ZTbkZSTGxLSFNRXzczWjBnLTA2NC05cUdaTWxfM2dMaXgwVzJEUVNueWl0Ykp2ekN2QTJO?oc=5)
 
 ---
 
@@ -178,15 +194,7 @@ permalink: /news/rotigotine/
 
 2026-09-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZS3JTQU5TQ0VsQnB1eU1CVS1JVTZFWUNfRVlROXhmQXFDVTNSZGJ4TGl0OEtWRHhxM0RMVWkxVTNGMjBBeFVwR0pTV0FKekZfV09aMURWTVJHamhB?oc=5)
-
----
-
-### [Immune therapy engineered inside the body eases multiple sclerosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UYnJZSjgyUmtsRmx1eHVzdmZweWstLWtxbmM1ZnV6UE1VazgwWGxqcnNmVDIyOTdSRWNjUVFQOTgxVWVwSE9sQldhWGNyNTBIelhaT3dDeWVuMi1PQUYw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">multiple sclerosis</span>
-
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UYnJZSjgyUmtsRmx1eHVzdmZweWstLWtxbmM1ZnV6UE1VazgwWGxqcnNmVDIyOTdSRWNjUVFQOTgxVWVwSE9sQldhWGNyNTBIelhaT3dDeWVuMi1PQUYw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZS3JTQU5TQ0VsQnB1eU1CVS1JVTZFWUNfRVlROXhmQXFDVTNSZGJ4TGl0OEtWRHhxM0RMVWkxVTNGMjBBeFVwR0pTV0FKekZfV09aMURWTVJHamhB?oc=5)
 
 ---
 
@@ -198,11 +206,27 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Flu vaccine rollout begins as NHS regroups from 'busiest summer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFYndrQnlGYzVkM0xmUE5DS3ZnYVFlSDM1SmJ2b0h5WHg0ZGlMdmZNV3RQeS01YlhfbVhQejRfaGhVZjJNaWFSVjlLSVZYUmE2bHZVcEpzeWE5eHlp?oc=5)
+
+2026-09-02 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFYndrQnlGYzVkM0xmUE5DS3ZnYVFlSDM1SmJ2b0h5WHg0ZGlMdmZNV3RQeS01YlhfbVhQejRfaGhVZjJNaWFSVjlLSVZYUmE2bHZVcEpzeWE5eHlp?oc=5)
+
+---
+
 ### [MS-Therapie: Mainzer Wirkstoffpflaster auf dem Weg in klinische Studie](https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0NESUZ2TmYzdHZ2ZUs0SVNTODdZRXZiX0tYdWs2RWptT09WZHNHdVBwOFY3T1dDeFFHcW9LX1B5c2pqQWRVMXFUelVMLUpNZUdRbUpTR2lSSDZhV3kxQThyUDNNbjh1WHdsY0J5dE5NT2hYaW54WXEyLVFjak5xM0VnbzBROXlIMTg5SDhuS3hsS3JsMnh1YUoxT2I4RXBOVWJaUjFudzBmYzZuTXJ2UVpOQVYyV25pSlhMeTl0ZmVTSy0tcHE5cllsVE1RQQ?oc=5)
 
 2026-09-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[merkurist.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0NESUZ2TmYzdHZ2ZUs0SVNTODdZRXZiX0tYdWs2RWptT09WZHNHdVBwOFY3T1dDeFFHcW9LX1B5c2pqQWRVMXFUelVMLUpNZUdRbUpTR2lSSDZhV3kxQThyUDNNbjh1WHdsY0J5dE5NT2hYaW54WXEyLVFjak5xM0VnbzBROXlIMTg5SDhuS3hsS3JsMnh1YUoxT2I4RXBOVWJaUjFudzBmYzZuTXJ2UVpOQVYyV25pSlhMeTl0ZmVTSy0tcHE5cllsVE1RQQ?oc=5)
+
+---
+
+### [Ébola en RD Congo: más de 6.000 contagios y casi 3.000 muertes](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SU2E3T2F4SDlpbDI2MmNlYTRLTXNWTlk5VUlyb0V2bzhrTkRWWmozbjRKS3BGZWZJeXRBNExWRUZUbVY0Q2dyQmx5YkwwVUVNdk1nbnRFZERTZlF2MXZHOF8wdjZNdVVjU1FSQzlwM2ZZNTNYMVlzQ0lUVlRWdw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">MS</span>
+
+來源：[es-us.noticias.yahoo.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SU2E3T2F4SDlpbDI2MmNlYTRLTXNWTlk5VUlyb0V2bzhrTkRWWmozbjRKS3BGZWZJeXRBNExWRUZUbVY0Q2dyQmx5YkwwVUVNdk1nbnRFZERTZlF2MXZHOF8wdjZNdVVjU1FSQzlwM2ZZNTNYMVlzQ0lUVlRWdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Hypertension artérielle : ces réflexes du quotidien pour faire baisser durablement votre tension - Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+
+2026-09-07 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+
+---
+
+### [El error en la terapia con testosterona que dispara el riesgo de ictus - Libertad Digital](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFZ5ZUExWEpybTFDY2VqMVpibnVCZk11a0FTR0N6OFZFcG9zTmdIWk1KRlQ5aWdCZFMyTzRFNzVubFlvQlVFbXliYjdRVU9TdkJmTTVlMFJZN0xONS01dlcwazVVbmVGb3kxX2U2S29rVFlxU2h4U3M5amxxMDNoRkhocDJZTEFQTFBEM2I0SUF0T0hhUDRIWmN6b25qc25GQ1hDXzhtNTBNb05mVmk3SktUVTZOQUpLQVFZTUJXS3RRV2dvZGRtMmdHRFRETmlPMUlwandxREIyOTVvOEx2T9IB6wFBVV95cUxPNUJIQWxIRmJqODFIQ3cybFFka05PMzB6WXFnNHFyOW9uMHpLWkZ1R1RPN1ktckFIWkFRQ2wwbGhTbm1COEpHNHl3RExreFFQTUl1LUplWXZCZHNwRDEzVUdEWndnTEZBZDhFTlliSUdJUGI3dTRSNHViSHZHRzVzSmhQaWFrT2JGZ3Exd1Jfc1FJNll1aTc4N00wWGpIZ1dIeFBfem9hZFFCLWJNRmRGekRfUTVXdS1PaDBKbjNLMHpMT192OFk1d3MtdVIxMjB3YkJ1N2RDWmFsaERzX09lV3VCZml3ZEJQYU1n?oc=5)
+
+2026-09-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">fibrilación auricular</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFZ5ZUExWEpybTFDY2VqMVpibnVCZk11a0FTR0N6OFZFcG9zTmdIWk1KRlQ5aWdCZFMyTzRFNzVubFlvQlVFbXliYjdRVU9TdkJmTTVlMFJZN0xONS01dlcwazVVbmVGb3kxX2U2S29rVFlxU2h4U3M5amxxMDNoRkhocDJZTEFQTFBEM2I0SUF0T0hhUDRIWmN6b25qc25GQ1hDXzhtNTBNb05mVmk3SktUVTZOQUpLQVFZTUJXS3RRV2dvZGRtMmdHRFRETmlPMUlwandxREIyOTVvOEx2T9IB6wFBVV95cUxPNUJIQWxIRmJqODFIQ3cybFFka05PMzB6WXFnNHFyOW9uMHpLWkZ1R1RPN1ktckFIWkFRQ2wwbGhTbm1COEpHNHl3RExreFFQTUl1LUplWXZCZHNwRDEzVUdEWndnTEZBZDhFTlliSUdJUGI3dTRSNHViSHZHRzVzSmhQaWFrT2JGZ3Exd1Jfc1FJNll1aTc4N00wWGpIZ1dIeFBfem9hZFFCLWJNRmRGekRfUTVXdS1PaDBKbjNLMHpMT192OFk1d3MtdVIxMjB3YkJ1N2RDWmFsaERzX09lV3VCZml3ZEJQYU1n?oc=5)
+
+---
+
+### [A stroke at 22 made me believe I was 5 years old again](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmRxS3NSSExJalkxWXhrQzdnbHVnN3dYMlRsQ3U2SzFpWlNRY0pqUU9RcGVWMU1OT2tVbjhJLWZzN3lKYXBkX3U5RnV4V1ptbnVPVUFLdHAxT1FoWkJ2blliVzV3RTZVbGI2UTlORWNlZjJ3bWpYcXk1XzNzWHVhMndETdIBiAFBVV95cUxNVXlsLV9KVmRtLVVqT29nNWpMN1cxT2FGRzFlZ1dtUjJYVE1kMFJ4QUFXSjFhMW9yOXJzWE9DUzdPa1Q3TjVIamg0NkM4VXZ4Y0ptMlhuM3FFNGNyRnNEME9oTUpIeUxoa3psemFDTU14NU1pZnp4V0V5RlFxSkRjX3psZnRvZkJy?oc=5)
+
+2026-09-07 <span class="news-indication-tag">stroke</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmRxS3NSSExJalkxWXhrQzdnbHVnN3dYMlRsQ3U2SzFpWlNRY0pqUU9RcGVWMU1OT2tVbjhJLWZzN3lKYXBkX3U5RnV4V1ptbnVPVUFLdHAxT1FoWkJ2blliVzV3RTZVbGI2UTlORWNlZjJ3bWpYcXk1XzNzWHVhMndETdIBiAFBVV95cUxNVXlsLV9KVmRtLVVqT29nNWpMN1cxT2FGRzFlZ1dtUjJYVE1kMFJ4QUFXSjFhMW9yOXJzWE9DUzdPa1Q3TjVIamg0NkM4VXZ4Y0ptMlhuM3FFNGNyRnNEME9oTUpIeUxoa3psemFDTU14NU1pZnp4V0V5RlFxSkRjX3psZnRvZkJy?oc=5)
+
+---
+
+### [La enfermedad que causa la mayoría de los infartos se acumula silenciosamente en las arterias desde la juventud - Emisora Costa del Sol 93.1 FM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjN4bk5WSGc2V0xzV1kxeWZpN0FWS1gyUlBrTmExTGlKQzJmYWQwVGhsMmxYWU4tZUdDTlpoN3QycVItdjZiMnBqY0RXU1dVcjIwWFppcTRuWVhrRnhVUFVwNnJodTZiZk5vanJpTW1uNGtrcWdyMURLLU9pQzQyWmpxMnhpRm93SmpndWF1REVYUmZMNU9iZEJtTExLTXZBNFRFam85Yk96akF2UWdyY3J3NzBKLU1GN18xMmZDNXFhWjJHeWFzb0dHc1J3NjZocEc5Z2l3VC11R25FNFA4TlRKVVI?oc=5)
+
+2026-09-06 <span class="news-indication-tag">ictus</span>
+
+來源：[Emisora Costa del Sol 93.1 FM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjN4bk5WSGc2V0xzV1kxeWZpN0FWS1gyUlBrTmExTGlKQzJmYWQwVGhsMmxYWU4tZUdDTlpoN3QycVItdjZiMnBqY0RXU1dVcjIwWFppcTRuWVhrRnhVUFVwNnJodTZiZk5vanJpTW1uNGtrcWdyMURLLU9pQzQyWmpxMnhpRm93SmpndWF1REVYUmZMNU9iZEJtTExLTXZBNFRFam85Yk96akF2UWdyY3J3NzBKLU1GN18xMmZDNXFhWjJHeWFzb0dHc1J3NjZocEc5Z2l3VC11R25FNFA4TlRKVVI?oc=5)
+
+---
 
 ### [Arythmie, hypertension, troubles de la mémoire... : les conséquences de l'apnée du sommeil](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1Z5YXNHRHlZWWdjUVZnTmNqVHAzd19zeTBTZ18zUGFvVEd4NWx4Z1hXUE5uMG9WWUhPalRUaDQ3ZGZNbmdUay1SeFNidElxWXFZcmMtcnkwSkMzMkxLZURtT20zY0pQQ0M0bUlHdm1CNkFuM3lVQzBsNDJ4cFgzZkRHbXlUbUxn?oc=5)
 
@@ -83,30 +115,6 @@ permalink: /news/telmisartan/
 2026-09-04 <span class="news-indication-tag">heart disease</span>
 
 來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
----
-
-### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula, al margen de la función cardíaca](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
-
----
-
-### [Giornata mondiale della fisioterapia 2026. Tornare a muoversi, tornare a vivere](https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQWNYTDlVT3hSTnVWR3NMOTFDR0JQUzlNZmRfa3M1Vy12cUo1bDVlZjJDeS1USXVpUWN2cjVlNXJyUjdDZElLMHZDQVFKYUtYRkhmMmRqMEZINkg2WjJBSFZpWU5GYVpkd2l6aVRrTk5raGM?oc=5)
-
-2026-09-01 <span class="news-indication-tag">ictus</span>
-
-來源：[LiveSicilia](https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQWNYTDlVT3hSTnVWR3NMOTFDR0JQUzlNZmRfa3M1Vy12cUo1bDVlZjJDeS1USXVpUWN2cjVlNXJyUjdDZElLMHZDQVFKYUtYRkhmMmRqMEZINkg2WjJBSFZpWU5GYVpkd2l6aVRrTk5raGM?oc=5)
-
----
-
-### [El fármaco evolocumab muestra una reducción del 20% en el riesgo de mortalidad en pacientes de alto riesgo sin antecedentes de infarto o ictus - El Periódico](https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXJEMWV3ZHFPQ2JNY2V6RmYwenJOVmJhR09NRm5kbVM4SldSRTVpUnRiSUM3TTludHcta2ZLaUIzNFZ5bVpPdUx2WTM4Z0dFNlF1TW9qQnhVVWdwNmREanVaM1c0STQwaFZZSlRLRUczcVA4THhaZkFIbnRsUm1CMDhKYlVlalJyeUpBZVpINDRIRTBlWENXb1RKeXJQYUNMX3dKWF9HeUxJaUY1X2pMMEhFMUJ6QkRUdUt0bGJjRV94Zmpy0gHEAUFVX3lxTE5lb21zTW5HS2M1Q3YweGRUVVJxMklnbU4tZDBRal9ZLTl5VkVNUDR4OHVPTThKZ0Ezanl0TWptNHM1WXp2WWxqdzRveVVfRTBFRGZCQ25VTDh1bDUtLXVkbjlNTlYtTm4zVHRUSHhCUDBkMjZ1enJYMVRtUEQxYll4V3ZJVHd6Yl9HMTVtM2NHNElNYy1WREQzdmpCSkNKLU9EMk9pQVNVRFNDN1VSYU85eVhURVhMUTBVWUxXNjdiNnk2MHk?oc=5)
-
-2026-09-01 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">ictus</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXJEMWV3ZHFPQ2JNY2V6RmYwenJOVmJhR09NRm5kbVM4SldSRTVpUnRiSUM3TTludHcta2ZLaUIzNFZ5bVpPdUx2WTM4Z0dFNlF1TW9qQnhVVWdwNmREanVaM1c0STQwaFZZSlRLRUczcVA4THhaZkFIbnRsUm1CMDhKYlVlalJyeUpBZVpINDRIRTBlWENXb1RKeXJQYUNMX3dKWF9HeUxJaUY1X2pMMEhFMUJ6QkRUdUt0bGJjRV94Zmpy0gHEAUFVX3lxTE5lb21zTW5HS2M1Q3YweGRUVVJxMklnbU4tZDBRal9ZLTl5VkVNUDR4OHVPTThKZ0Ezanl0TWptNHM1WXp2WWxqdzRveVVfRTBFRGZCQ25VTDh1bDUtLXVkbjlNTlYtTm4zVHRUSHhCUDBkMjZ1enJYMVRtUEQxYll4V3ZJVHd6Yl9HMTVtM2NHNElNYy1WREQzdmpCSkNKLU9EMk9pQVNVRFNDN1VSYU85eVhURVhMUTBVWUxXNjdiNnk2MHk?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Lachen gegen Luftnot: Studie zeigt, wie eine Lachtherapie bei COPD helfen kann](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElMYzZiRUdfMS1tN3Z2UXVGS0dWLVY5bDlSMUVRMlRkQllDdktGVTJYVVFpMmNrWU52Vm92WUZYV0cxZ3k0dENrQXMyRTFwLURGZnY0MGh1RjBWSHY0eW9DYkRURlhDMzJqdkN2aGZNYmRBd3p3V1FtOUhWTWRMOFRsN3lnX1J2dmQ5TTVZby1mX3E2OURyWEZIcTVDWlMzOWNGTlRET3dVOFZyZThvdWYzQVdUSkhuclRrdg?oc=5)
+
+2026-09-07 <span class="news-indication-tag">copd</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElMYzZiRUdfMS1tN3Z2UXVGS0dWLVY5bDlSMUVRMlRkQllDdktGVTJYVVFpMmNrWU52Vm92WUZYV0cxZ3k0dENrQXMyRTFwLURGZnY0MGh1RjBWSHY0eW9DYkRURlhDMzJqdkN2aGZNYmRBd3p3V1FtOUhWTWRMOFRsN3lnX1J2dmQ5TTVZby1mX3E2OURyWEZIcTVDWlMzOWNGTlRET3dVOFZyZThvdWYzQVdUSkhuclRrdg?oc=5)
+
+---
+
+### [Laughter could be best medicine for lung disease patients - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+
+2026-09-07 <span class="news-indication-tag">copd</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（11 則）
+
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+---
+
+### [Leberfett massiv gesenkt: Diese Diät schlägt zwei bekannte Konzepte - FIT FOR FUN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
+
+2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
+
+---
+
+### [Obesità, i nuovi farmaci arrivano agli adolescenti. Ma il SSN deve decidere chi curare, come e a quali costi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJhR0FoVG12RlVUZkptZTFGZFp1dllVNTZvbjJQSjM3bGxvNEtxM096cHI2a1cwbzlNdnRZUTYtbFRGczI2dTRaaExqV3BLRlNkS2JZX3NScjFfU25YZjZuVGxCbF90YXVEQnVNNUFMR0NZdmU5YzlmRENwR0NVakhwTm1CN1JWU2hJdHktQTlHdnNEamZqaG1EbzUwTmluTEFtbWpGaGtiencwSjg3bzVsVEl5MElDUzFEMGNwM2RjVmptQ3Z1eS1XbjZmSlY3Tm5lbHdCLXFXdUU2ZHB5cFZSU2xJTUR4bVB0Ng?oc=5)
+
+2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJhR0FoVG12RlVUZkptZTFGZFp1dllVNTZvbjJQSjM3bGxvNEtxM096cHI2a1cwbzlNdnRZUTYtbFRGczI2dTRaaExqV3BLRlNkS2JZX3NScjFfU25YZjZuVGxCbF90YXVEQnVNNUFMR0NZdmU5YzlmRENwR0NVakhwTm1CN1JWU2hJdHktQTlHdnNEamZqaG1EbzUwTmluTEFtbWpGaGtiencwSjg3bzVsVEl5MElDUzFEMGNwM2RjVmptQ3Z1eS1XbjZmSlY3Tm5lbHdCLXFXdUU2ZHB5cFZSU2xJTUR4bVB0Ng?oc=5)
+
+---
 
 ### [Adipositas und Rheuma: Entzündliche Veränderungen im Immunsystem sind umkehrbar - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1VGU1bVJPYmVtbkNJcXRQbUhoa2VhUkM3bU5fMjJDU1VVRHNjNG9jMmlrX2tscEtFLTAwU25IVWZUNnFUdndoRFl2dw?oc=5)
 
@@ -70,11 +94,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [¿Milagro para adelgazar o riesgo para la salud? Lo que debes saber sobre el Ozempic](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlTUlJib0xLQktyZGd0blJaaXZJVDVVX2V1aGg0OXlFVEswYlRzc2JTWnE3LXBrcHk4SGk1UlJ4M1dvckZ2c2FZdW44LUVKaVEwSkZEVGw4N0Nib0FJQmRrWWtPTnEwejF1UmVnaFM1bjRuQmZpQzdTUGpZdGM5Rk5mcWttXzd0UmxFTjlCazRIMElNd1k2M08yeThZZVBEN1UwVw?oc=5)
+### [Profesionales llegados de varios puntos de España comparten en Ribeira los últimos estudios sobre la obesidad - El Correo Gallego](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXg5RzI3VklQWmplZlQ1c21RU2JQZXRBRFFCVzA2aVAtZnVxSWgtT1psU1JyZmtkeWwyN2tJMmdlTlFNdVZJelRpUjhSR3RDRDRRT1lXNVdkMGx0RlV3NWtFSFFUNC15Y1A4b0ZlOHVTTUlHeThjTktnNzRFZDUwekRPR3NxNGxyQ0E4c0VHcTF1Q3lIeWJlamVTWlYtRmw4dVhKUUdOY2txTENBNUJXbjNEbXd4OXM4S3EzZERRdDbSAcYBQVVfeXFMTWNfNjlWdlcxTjBaaWdlbXJadzBON0hQZ0tfaGE0TWtWMXV6MG1UUTAyMDQ0QUJzVGY5Skt1Vk1LSXhvalp6Z0JSc0VFUFZBc092THZWQkJVWVhQbW1Oa19wQnpEbjdMYlFiazdIWjRQRWNlT0JINTJmWlk2eldhVWpKWC13dk1fdXdTMjNUQXY2ckJFdHljY2VLQ2JweXktTTZKa0NaQWlMOGRTdkRZQm1zSU1tQlNVUS1JUm8yN0syWFNrcTR3?oc=5)
 
-2026-09-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-09-04 <span class="news-indication-tag">obesidad</span>
 
-來源：[extra.ec](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlTUlJib0xLQktyZGd0blJaaXZJVDVVX2V1aGg0OXlFVEswYlRzc2JTWnE3LXBrcHk4SGk1UlJ4M1dvckZ2c2FZdW44LUVKaVEwSkZEVGw4N0Nib0FJQmRrWWtPTnEwejF1UmVnaFM1bjRuQmZpQzdTUGpZdGM5Rk5mcWttXzd0UmxFTjlCazRIMElNd1k2M08yeThZZVBEN1UwVw?oc=5)
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXg5RzI3VklQWmplZlQ1c21RU2JQZXRBRFFCVzA2aVAtZnVxSWgtT1psU1JyZmtkeWwyN2tJMmdlTlFNdVZJelRpUjhSR3RDRDRRT1lXNVdkMGx0RlV3NWtFSFFUNC15Y1A4b0ZlOHVTTUlHeThjTktnNzRFZDUwekRPR3NxNGxyQ0E4c0VHcTF1Q3lIeWJlamVTWlYtRmw4dVhKUUdOY2txTENBNUJXbjNEbXd4OXM4S3EzZERRdDbSAcYBQVVfeXFMTWNfNjlWdlcxTjBaaWdlbXJadzBON0hQZ0tfaGE0TWtWMXV6MG1UUTAyMDQ0QUJzVGY5Skt1Vk1LSXhvalp6Z0JSc0VFUFZBc092THZWQkJVWVhQbW1Oa19wQnpEbjdMYlFiazdIWjRQRWNlT0JINTJmWlk2eldhVWpKWC13dk1fdXdTMjNUQXY2ckJFdHljY2VLQ2JweXktTTZKa0NaQWlMOGRTdkRZQm1zSU1tQlNVUS1JUm8yN0syWFNrcTR3?oc=5)
 
 ---
 
@@ -82,7 +106,15 @@ permalink: /news/melatonin/
 
 2026-09-04 <span class="news-indication-tag">migraine</span>
 
-來源：[medscape.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
+
+---
+
+### [Les prescriptions de médicaments anti-obésité explosent chez les jeunes américains](https://news.google.com/rss/articles/CBMiggFBVV95cUxPcl9Tbm9HU3o5N2xwSnlibEt2WVJZSU9hRS1VdEhmcE9zVW9VdFk4Rm5CakhSY3FXdEpLMGQwaWRxMk1lTWhYQk1ZbFh5RFZSWXB2UDdoYmY3RTVwSVVnQ2pDZG5LM29fXzZwRW1XUFFJWVB0UHpoRFdjWU5ISWp1b05R?oc=5)
+
+2026-09-04 <span class="news-indication-tag">obésité</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxPcl9Tbm9HU3o5N2xwSnlibEt2WVJZSU9hRS1VdEhmcE9zVW9VdFk4Rm5CakhSY3FXdEpLMGQwaWRxMk1lTWhYQk1ZbFh5RFZSWXB2UDdoYmY3RTVwSVVnQ2pDZG5LM29fXzZwRW1XUFFJWVB0UHpoRFdjWU5ISWp1b05R?oc=5)
 
 ---
 

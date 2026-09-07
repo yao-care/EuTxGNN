@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
+
+2026-09-07 <span class="news-indication-tag">artritis</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
+
+---
+
+### [Hypertension artérielle : ces réflexes du quotidien pour faire baisser durablement votre tension - Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+
+2026-09-07 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+
+---
 
 ### [Artrite reumatoide, perché colpisce proprio alcune dita? La risposta potrebbe iniziare prima della nascita](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
 
@@ -102,19 +118,11 @@ permalink: /news/erdafitinib/
 
 ---
 
-### [Un fármaco para diabetes mejora el pronóstico tras implante percutáneo de válvula, al margen de la función cardíaca](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart failure</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTQzY0trUHFhUEgwU1VZS0NBVy1lMVVHbFAwZ2hVTkljYzh1eUFxcEVGdUVoZDBSc015clZXR1Y4V25kWVpuRzkwQnY5S3NXdGp6UEZFa2hsaHhTNTFzSlFLVzJTYUxJQ051WmlybGNqcVlqd2RXQTV6Ui1aU0RxZDI0ZExjVW9LWVQzclFNZ2VxeXVnVTI3ZlgzWUcwNFNZcEZlZUw2dU8zR0NLYTRXb2dQY0xpUDJpNlJlSEwxVGxXcXpaMi1DWHJCWWtjdUE0bFI2WUo4WXJKeEpRNlpYOXNJUXFGUVV5ek1RNms1ZUJVUQ?oc=5)
-
----
-
-### [CAR-T-Zellen gegen rheumatoide Arthritis: Phase-1 COMPARE zeigt Remission ohne Medikamente - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmwzQXROaml4S1BSQVpKODVvckVQMXhqX3NnNUV5MVdjLUEwSUh5b3RTRGI2MEJkUW0takFYZjZndFFkTWNucEpXNTRRekllU3JYb1FUQjJjb0VIQWp5N3RWcmxnbktYQmJmbW9wbjFnUGlzLWFBd2pESDdhaWhVdEhwVHhITjM2bUhBTi1rMzhUeW5QdFNlNkxZbnBZWFJGWUFsZGpESWFHNUxWWDFMajlZSGRUTDhFWmJRTE53?oc=5)
+### [Charité: CAR-T-Zell-Therapie bei schwerer rheumatoider Arthritis](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
 2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmwzQXROaml4S1BSQVpKODVvckVQMXhqX3NnNUV5MVdjLUEwSUh5b3RTRGI2MEJkUW0takFYZjZndFFkTWNucEpXNTRRekllU3JYb1FUQjJjb0VIQWp5N3RWcmxnbktYQmJmbW9wbjFnUGlzLWFBd2pESDdhaWhVdEhwVHhITjM2bUhBTi1rMzhUeW5QdFNlNkxZbnBZWFJGWUFsZGpESWFHNUxWWDFMajlZSGRUTDhFWmJRTE53?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
 
 ---
 

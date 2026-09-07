@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（13 則）
+
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+---
+
+### [Leberfett massiv gesenkt: Diese Diät schlägt zwei bekannte Konzepte - FIT FOR FUN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
+
+2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
+
+---
+
+### [Obesità, i nuovi farmaci arrivano agli adolescenti. Ma il SSN deve decidere chi curare, come e a quali costi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJhR0FoVG12RlVUZkptZTFGZFp1dllVNTZvbjJQSjM3bGxvNEtxM096cHI2a1cwbzlNdnRZUTYtbFRGczI2dTRaaExqV3BLRlNkS2JZX3NScjFfU25YZjZuVGxCbF90YXVEQnVNNUFMR0NZdmU5YzlmRENwR0NVakhwTm1CN1JWU2hJdHktQTlHdnNEamZqaG1EbzUwTmluTEFtbWpGaGtiencwSjg3bzVsVEl5MElDUzFEMGNwM2RjVmptQ3Z1eS1XbjZmSlY3Tm5lbHdCLXFXdUU2ZHB5cFZSU2xJTUR4bVB0Ng?oc=5)
+
+2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJhR0FoVG12RlVUZkptZTFGZFp1dllVNTZvbjJQSjM3bGxvNEtxM096cHI2a1cwbzlNdnRZUTYtbFRGczI2dTRaaExqV3BLRlNkS2JZX3NScjFfU25YZjZuVGxCbF90YXVEQnVNNUFMR0NZdmU5YzlmRENwR0NVakhwTm1CN1JWU2hJdHktQTlHdnNEamZqaG1EbzUwTmluTEFtbWpGaGtiencwSjg3bzVsVEl5MElDUzFEMGNwM2RjVmptQ3Z1eS1XbjZmSlY3Tm5lbHdCLXFXdUU2ZHB5cFZSU2xJTUR4bVB0Ng?oc=5)
+
+---
+
+### [El error en la terapia con testosterona que dispara el riesgo de ictus - Libertad Digital](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFZ5ZUExWEpybTFDY2VqMVpibnVCZk11a0FTR0N6OFZFcG9zTmdIWk1KRlQ5aWdCZFMyTzRFNzVubFlvQlVFbXliYjdRVU9TdkJmTTVlMFJZN0xONS01dlcwazVVbmVGb3kxX2U2S29rVFlxU2h4U3M5amxxMDNoRkhocDJZTEFQTFBEM2I0SUF0T0hhUDRIWmN6b25qc25GQ1hDXzhtNTBNb05mVmk3SktUVTZOQUpLQVFZTUJXS3RRV2dvZGRtMmdHRFRETmlPMUlwandxREIyOTVvOEx2T9IB6wFBVV95cUxPNUJIQWxIRmJqODFIQ3cybFFka05PMzB6WXFnNHFyOW9uMHpLWkZ1R1RPN1ktckFIWkFRQ2wwbGhTbm1COEpHNHl3RExreFFQTUl1LUplWXZCZHNwRDEzVUdEWndnTEZBZDhFTlliSUdJUGI3dTRSNHViSHZHRzVzSmhQaWFrT2JGZ3Exd1Jfc1FJNll1aTc4N00wWGpIZ1dIeFBfem9hZFFCLWJNRmRGekRfUTVXdS1PaDBKbjNLMHpMT192OFk1d3MtdVIxMjB3YkJ1N2RDWmFsaERzX09lV3VCZml3ZEJQYU1n?oc=5)
+
+2026-09-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">fibrilación auricular</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFZ5ZUExWEpybTFDY2VqMVpibnVCZk11a0FTR0N6OFZFcG9zTmdIWk1KRlQ5aWdCZFMyTzRFNzVubFlvQlVFbXliYjdRVU9TdkJmTTVlMFJZN0xONS01dlcwazVVbmVGb3kxX2U2S29rVFlxU2h4U3M5amxxMDNoRkhocDJZTEFQTFBEM2I0SUF0T0hhUDRIWmN6b25qc25GQ1hDXzhtNTBNb05mVmk3SktUVTZOQUpLQVFZTUJXS3RRV2dvZGRtMmdHRFRETmlPMUlwandxREIyOTVvOEx2T9IB6wFBVV95cUxPNUJIQWxIRmJqODFIQ3cybFFka05PMzB6WXFnNHFyOW9uMHpLWkZ1R1RPN1ktckFIWkFRQ2wwbGhTbm1COEpHNHl3RExreFFQTUl1LUplWXZCZHNwRDEzVUdEWndnTEZBZDhFTlliSUdJUGI3dTRSNHViSHZHRzVzSmhQaWFrT2JGZ3Exd1Jfc1FJNll1aTc4N00wWGpIZ1dIeFBfem9hZFFCLWJNRmRGekRfUTVXdS1PaDBKbjNLMHpMT192OFk1d3MtdVIxMjB3YkJ1N2RDWmFsaERzX09lV3VCZml3ZEJQYU1n?oc=5)
+
+---
 
 ### [Adipositas und Rheuma: Entzündliche Veränderungen im Immunsystem sind umkehrbar - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1VGU1bVJPYmVtbkNJcXRQbUhoa2VhUkM3bU5fMjJDU1VVRHNjNG9jMmlrX2tscEtFLTAwU25IVWZUNnFUdndoRFl2dw?oc=5)
 
@@ -62,11 +94,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [¿Milagro para adelgazar o riesgo para la salud? Lo que debes saber sobre el Ozempic](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlTUlJib0xLQktyZGd0blJaaXZJVDVVX2V1aGg0OXlFVEswYlRzc2JTWnE3LXBrcHk4SGk1UlJ4M1dvckZ2c2FZdW44LUVKaVEwSkZEVGw4N0Nib0FJQmRrWWtPTnEwejF1UmVnaFM1bjRuQmZpQzdTUGpZdGM5Rk5mcWttXzd0UmxFTjlCazRIMElNd1k2M08yeThZZVBEN1UwVw?oc=5)
+### [A stroke at 22 made me believe I was 5 years old again](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmRxS3NSSExJalkxWXhrQzdnbHVnN3dYMlRsQ3U2SzFpWlNRY0pqUU9RcGVWMU1OT2tVbjhJLWZzN3lKYXBkX3U5RnV4V1ptbnVPVUFLdHAxT1FoWkJ2blliVzV3RTZVbGI2UTlORWNlZjJ3bWpYcXk1XzNzWHVhMndETdIBiAFBVV95cUxNVXlsLV9KVmRtLVVqT29nNWpMN1cxT2FGRzFlZ1dtUjJYVE1kMFJ4QUFXSjFhMW9yOXJzWE9DUzdPa1Q3TjVIamg0NkM4VXZ4Y0ptMlhuM3FFNGNyRnNEME9oTUpIeUxoa3psemFDTU14NU1pZnp4V0V5RlFxSkRjX3psZnRvZkJy?oc=5)
 
-2026-09-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-09-07 <span class="news-indication-tag">stroke</span>
 
-來源：[extra.ec](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlTUlJib0xLQktyZGd0blJaaXZJVDVVX2V1aGg0OXlFVEswYlRzc2JTWnE3LXBrcHk4SGk1UlJ4M1dvckZ2c2FZdW44LUVKaVEwSkZEVGw4N0Nib0FJQmRrWWtPTnEwejF1UmVnaFM1bjRuQmZpQzdTUGpZdGM5Rk5mcWttXzd0UmxFTjlCazRIMElNd1k2M08yeThZZVBEN1UwVw?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmRxS3NSSExJalkxWXhrQzdnbHVnN3dYMlRsQ3U2SzFpWlNRY0pqUU9RcGVWMU1OT2tVbjhJLWZzN3lKYXBkX3U5RnV4V1ptbnVPVUFLdHAxT1FoWkJ2blliVzV3RTZVbGI2UTlORWNlZjJ3bWpYcXk1XzNzWHVhMndETdIBiAFBVV95cUxNVXlsLV9KVmRtLVVqT29nNWpMN1cxT2FGRzFlZ1dtUjJYVE1kMFJ4QUFXSjFhMW9yOXJzWE9DUzdPa1Q3TjVIamg0NkM4VXZ4Y0ptMlhuM3FFNGNyRnNEME9oTUpIeUxoa3psemFDTU14NU1pZnp4V0V5RlFxSkRjX3psZnRvZkJy?oc=5)
+
+---
+
+### [La enfermedad que causa la mayoría de los infartos se acumula silenciosamente en las arterias desde la juventud - Emisora Costa del Sol 93.1 FM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjN4bk5WSGc2V0xzV1kxeWZpN0FWS1gyUlBrTmExTGlKQzJmYWQwVGhsMmxYWU4tZUdDTlpoN3QycVItdjZiMnBqY0RXU1dVcjIwWFppcTRuWVhrRnhVUFVwNnJodTZiZk5vanJpTW1uNGtrcWdyMURLLU9pQzQyWmpxMnhpRm93SmpndWF1REVYUmZMNU9iZEJtTExLTXZBNFRFam85Yk96akF2UWdyY3J3NzBKLU1GN18xMmZDNXFhWjJHeWFzb0dHc1J3NjZocEc5Z2l3VC11R25FNFA4TlRKVVI?oc=5)
+
+2026-09-06 <span class="news-indication-tag">ictus</span>
+
+來源：[Emisora Costa del Sol 93.1 FM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjN4bk5WSGc2V0xzV1kxeWZpN0FWS1gyUlBrTmExTGlKQzJmYWQwVGhsMmxYWU4tZUdDTlpoN3QycVItdjZiMnBqY0RXU1dVcjIwWFppcTRuWVhrRnhVUFVwNnJodTZiZk5vanJpTW1uNGtrcWdyMURLLU9pQzQyWmpxMnhpRm93SmpndWF1REVYUmZMNU9iZEJtTExLTXZBNFRFam85Yk96akF2UWdyY3J3NzBKLU1GN18xMmZDNXFhWjJHeWFzb0dHc1J3NjZocEc5Z2l3VC11R25FNFA4TlRKVVI?oc=5)
 
 ---
 
@@ -75,6 +115,22 @@ permalink: /news/orlistat/
 2026-09-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 來源：[Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
+
+---
+
+### [Profesionales llegados de varios puntos de España comparten en Ribeira los últimos estudios sobre la obesidad - El Correo Gallego](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXg5RzI3VklQWmplZlQ1c21RU2JQZXRBRFFCVzA2aVAtZnVxSWgtT1psU1JyZmtkeWwyN2tJMmdlTlFNdVZJelRpUjhSR3RDRDRRT1lXNVdkMGx0RlV3NWtFSFFUNC15Y1A4b0ZlOHVTTUlHeThjTktnNzRFZDUwekRPR3NxNGxyQ0E4c0VHcTF1Q3lIeWJlamVTWlYtRmw4dVhKUUdOY2txTENBNUJXbjNEbXd4OXM4S3EzZERRdDbSAcYBQVVfeXFMTWNfNjlWdlcxTjBaaWdlbXJadzBON0hQZ0tfaGE0TWtWMXV6MG1UUTAyMDQ0QUJzVGY5Skt1Vk1LSXhvalp6Z0JSc0VFUFZBc092THZWQkJVWVhQbW1Oa19wQnpEbjdMYlFiazdIWjRQRWNlT0JINTJmWlk2eldhVWpKWC13dk1fdXdTMjNUQXY2ckJFdHljY2VLQ2JweXktTTZKa0NaQWlMOGRTdkRZQm1zSU1tQlNVUS1JUm8yN0syWFNrcTR3?oc=5)
+
+2026-09-04 <span class="news-indication-tag">obesidad</span>
+
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXg5RzI3VklQWmplZlQ1c21RU2JQZXRBRFFCVzA2aVAtZnVxSWgtT1psU1JyZmtkeWwyN2tJMmdlTlFNdVZJelRpUjhSR3RDRDRRT1lXNVdkMGx0RlV3NWtFSFFUNC15Y1A4b0ZlOHVTTUlHeThjTktnNzRFZDUwekRPR3NxNGxyQ0E4c0VHcTF1Q3lIeWJlamVTWlYtRmw4dVhKUUdOY2txTENBNUJXbjNEbXd4OXM4S3EzZERRdDbSAcYBQVVfeXFMTWNfNjlWdlcxTjBaaWdlbXJadzBON0hQZ0tfaGE0TWtWMXV6MG1UUTAyMDQ0QUJzVGY5Skt1Vk1LSXhvalp6Z0JSc0VFUFZBc092THZWQkJVWVhQbW1Oa19wQnpEbjdMYlFiazdIWjRQRWNlT0JINTJmWlk2eldhVWpKWC13dk1fdXdTMjNUQXY2ckJFdHljY2VLQ2JweXktTTZKa0NaQWlMOGRTdkRZQm1zSU1tQlNVUS1JUm8yN0syWFNrcTR3?oc=5)
+
+---
+
+### [Les prescriptions de médicaments anti-obésité explosent chez les jeunes américains](https://news.google.com/rss/articles/CBMiggFBVV95cUxPcl9Tbm9HU3o5N2xwSnlibEt2WVJZSU9hRS1VdEhmcE9zVW9VdFk4Rm5CakhSY3FXdEpLMGQwaWRxMk1lTWhYQk1ZbFh5RFZSWXB2UDdoYmY3RTVwSVVnQ2pDZG5LM29fXzZwRW1XUFFJWVB0UHpoRFdjWU5ISWp1b05R?oc=5)
+
+2026-09-04 <span class="news-indication-tag">obésité</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxPcl9Tbm9HU3o5N2xwSnlibEt2WVJZSU9hRS1VdEhmcE9zVW9VdFk4Rm5CakhSY3FXdEpLMGQwaWRxMk1lTWhYQk1ZbFh5RFZSWXB2UDdoYmY3RTVwSVVnQ2pDZG5LM29fXzZwRW1XUFFJWVB0UHpoRFdjWU5ISWp1b05R?oc=5)
 
 ---
 
@@ -99,22 +155,6 @@ permalink: /news/orlistat/
 2026-09-02 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
-
----
-
-### [Giornata mondiale della fisioterapia 2026. Tornare a muoversi, tornare a vivere](https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQWNYTDlVT3hSTnVWR3NMOTFDR0JQUzlNZmRfa3M1Vy12cUo1bDVlZjJDeS1USXVpUWN2cjVlNXJyUjdDZElLMHZDQVFKYUtYRkhmMmRqMEZINkg2WjJBSFZpWU5GYVpkd2l6aVRrTk5raGM?oc=5)
-
-2026-09-01 <span class="news-indication-tag">ictus</span>
-
-來源：[LiveSicilia](https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQWNYTDlVT3hSTnVWR3NMOTFDR0JQUzlNZmRfa3M1Vy12cUo1bDVlZjJDeS1USXVpUWN2cjVlNXJyUjdDZElLMHZDQVFKYUtYRkhmMmRqMEZINkg2WjJBSFZpWU5GYVpkd2l6aVRrTk5raGM?oc=5)
-
----
-
-### [El fármaco evolocumab muestra una reducción del 20% en el riesgo de mortalidad en pacientes de alto riesgo sin antecedentes de infarto o ictus - El Periódico](https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXJEMWV3ZHFPQ2JNY2V6RmYwenJOVmJhR09NRm5kbVM4SldSRTVpUnRiSUM3TTludHcta2ZLaUIzNFZ5bVpPdUx2WTM4Z0dFNlF1TW9qQnhVVWdwNmREanVaM1c0STQwaFZZSlRLRUczcVA4THhaZkFIbnRsUm1CMDhKYlVlalJyeUpBZVpINDRIRTBlWENXb1RKeXJQYUNMX3dKWF9HeUxJaUY1X2pMMEhFMUJ6QkRUdUt0bGJjRV94Zmpy0gHEAUFVX3lxTE5lb21zTW5HS2M1Q3YweGRUVVJxMklnbU4tZDBRal9ZLTl5VkVNUDR4OHVPTThKZ0Ezanl0TWptNHM1WXp2WWxqdzRveVVfRTBFRGZCQ25VTDh1bDUtLXVkbjlNTlYtTm4zVHRUSHhCUDBkMjZ1enJYMVRtUEQxYll4V3ZJVHd6Yl9HMTVtM2NHNElNYy1WREQzdmpCSkNKLU9EMk9pQVNVRFNDN1VSYU85eVhURVhMUTBVWUxXNjdiNnk2MHk?oc=5)
-
-2026-09-01 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">ictus</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXJEMWV3ZHFPQ2JNY2V6RmYwenJOVmJhR09NRm5kbVM4SldSRTVpUnRiSUM3TTludHcta2ZLaUIzNFZ5bVpPdUx2WTM4Z0dFNlF1TW9qQnhVVWdwNmREanVaM1c0STQwaFZZSlRLRUczcVA4THhaZkFIbnRsUm1CMDhKYlVlalJyeUpBZVpINDRIRTBlWENXb1RKeXJQYUNMX3dKWF9HeUxJaUY1X2pMMEhFMUJ6QkRUdUt0bGJjRV94Zmpy0gHEAUFVX3lxTE5lb21zTW5HS2M1Q3YweGRUVVJxMklnbU4tZDBRal9ZLTl5VkVNUDR4OHVPTThKZ0Ezanl0TWptNHM1WXp2WWxqdzRveVVfRTBFRGZCQ25VTDh1bDUtLXVkbjlNTlYtTm4zVHRUSHhCUDBkMjZ1enJYMVRtUEQxYll4V3ZJVHd6Yl9HMTVtM2NHNElNYy1WREQzdmpCSkNKLU9EMk9pQVNVRFNDN1VSYU85eVhURVhMUTBVWUxXNjdiNnk2MHk?oc=5)
 
 ---
 

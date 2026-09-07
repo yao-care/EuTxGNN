@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Nuevas guías internacionales sobre el diagnóstico y tratamiento de la enfermedad renal crónica en gatos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0tmUEdTTGhJRzEtMTVJTWdhWW40OWIyY1FHbUJSRk1Rall4cEtoVzJTcjB0MFhHbzhxaVFoZEdGNHBYbzlXaEVTeXdndmZzNWwyQ0NFVTl5U25ZdW94M2s5YTZhbjB0ZDVfUEZaQk1vWUZrOGNvcFM1Ym4yQlhIdTVQX2hIMU1XajFXb0pmV014QVVBNGF4enM0aVdORVNCUE1VWXJkMmRRYjNxbjJnSzdTaGp5eEQ0N01meFlPREkxSnZuNUFVd2FHazTSAdIBQVVfeXFMUFcxWHB1d0RKeldIR05Xck5Ld2pReW9KMUdJRjZmbHZtc0N4dGVDUmtJdWc0NUFCRlRYc3ExcF94U0NTcjU5UlJkSWMxa0w3MW42RndyN1doWmR6RkkzWGxFWXBaYjREODFoU1k3eWk1Ym5JTFZWQXg5S0pmcUJNVDc5ZktoZUVabFFoUHkzOS1UQzhXZHFPdmszdHF6cFBwRGZ6bWxpcVNmZ0o2elBRNFZPYWFXLWQyRmp4SmhNVEhqOUpuS1NjOXl1cUFGeXVDQWJB?oc=5)
+
+2026-09-07 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0tmUEdTTGhJRzEtMTVJTWdhWW40OWIyY1FHbUJSRk1Rall4cEtoVzJTcjB0MFhHbzhxaVFoZEdGNHBYbzlXaEVTeXdndmZzNWwyQ0NFVTl5U25ZdW94M2s5YTZhbjB0ZDVfUEZaQk1vWUZrOGNvcFM1Ym4yQlhIdTVQX2hIMU1XajFXb0pmV014QVVBNGF4enM0aVdORVNCUE1VWXJkMmRRYjNxbjJnSzdTaGp5eEQ0N01meFlPREkxSnZuNUFVd2FHazTSAdIBQVVfeXFMUFcxWHB1d0RKeldIR05Xck5Ld2pReW9KMUdJRjZmbHZtc0N4dGVDUmtJdWc0NUFCRlRYc3ExcF94U0NTcjU5UlJkSWMxa0w3MW42RndyN1doWmR6RkkzWGxFWXBaYjREODFoU1k3eWk1Ym5JTFZWQXg5S0pmcUJNVDc5ZktoZUVabFFoUHkzOS1UQzhXZHFPdmszdHF6cFBwRGZ6bWxpcVNmZ0o2elBRNFZPYWFXLWQyRmp4SmhNVEhqOUpuS1NjOXl1cUFGeXVDQWJB?oc=5)
+
+---
 
 
 <div class="disclaimer">
