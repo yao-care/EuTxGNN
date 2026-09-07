@@ -62,19 +62,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [The Coronary Artery Inflammation Controversy - Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
+### [The Coronary Artery Inflammation Controversy](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
 
 2026-09-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
 
-來源：[Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
-
----
-
-### [In Sicilia oltre 17 mila ricoveri per infarto e ictus, l’appello dei fisioterapisti contro le liste d’attesa](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
-
-2026-09-05 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[palermotoday.it](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
+來源：[erictopol.substack.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
 
 ---
 
@@ -110,11 +102,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+---
+
 ### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Depemokimab para el asma y rinosinusitis RSCcPN: puede administrarse en casa, lo que favorece la adherencia terapéutica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
+
+---
+
+### [¿Tienes asma? Caminar más cada día mejoró el control de la enfermedad, los síntomas y la calidad de vida tanto como entrenar en cinta dos veces por semana - La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
+
+---
 
 ### [Masque de grossesse et mélasma: les hormones n’expliquent pas tout](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUx3OHJLbXcwV3BlYUlUNU9xYlBSZ3NqZ1J4ZzRfZjFyaDVOR1N4bDlkMG5PMXRYM3gzM0pYSk1iam9vaW5MWHdxZkJaSDZneEhIMWswZ050Zjh4UERpZHoyYThYajFsWlgzX3M5Y0dhaDFoYW9tdURVSjdLd0RYRFd5NGxxNDRmNUFpMThWbkx2MU9abzk5UkZXV1ZTM2YtWVloM2xIaGxjSTdVTkE4QjVnMkxCWGxWZjNvekwwbw?oc=5)
 
@@ -66,7 +82,7 @@ permalink: /news/regadenoson/
 
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 ---
 
@@ -82,7 +98,7 @@ permalink: /news/regadenoson/
 
 2026-09-04 <span class="news-indication-tag">migraine</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
+來源：[medscape.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
-### [Cette IA révolutionnaire détecte les maladies cardiaques en seulement 2 secondes avec une efficacité de 90 - La Crème Du Gaming](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZjVKLTVFTWYzeHRyTWhKZHVyN0hKYWQ3QnFMYkJHcG9mTmt6T0RYWGtnRjdRdWNPRFowWXhxZFdnTG1ZZ1lGYkp1YUwzYUVzRGdDcGJUa0RtTjlLUVVaZXBnb2ZJNHlzZk8yZGEzZklfYWRmcTFxV2x0ajlWQURST3pVN1diODRnWE1QSUx6WXZsV2ZSN2cyQ0dyQlZUT25MSW5IV0Jnd2lSV2NLWVFESlpFRXBPeVQ4dk5td3owbDNOZXd2Yk90SHRTbEFCTUdwTHBVM1NWeWY0V1JaTGJkbmszb0ZZcWZVODlFUkxzOUc?oc=5)
+### [Une IA « superhumaine » peut repérer les maladies du cœur en deux secondes - Journal du Geek](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmJtOHNYemNxT2szdGZVcHQ4RTFNVm9PcldnV1BKNERlaEdfaXJXWGhUYzVuMjh5TXNWYUVtbUozQjhMVkFLSjFWdzJNejluaXZQQ2ktTV9kbnlGcUtkMVBRZHNMQUFpUXc5TjBrMmVqV0hoUlFYaUg2ZFd2ZUxsY3ZlbGUxbEN3Mmh3N01jQjJVUEV4d3hNaU9KUXBWQWE4b0ZQNGNEZ19WTWJBbEZ4NDR2aw?oc=5)
 
 2026-09-06 <span class="news-indication-tag">maladie cardiaque</span>
 
-來源：[La Crème Du Gaming](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZjVKLTVFTWYzeHRyTWhKZHVyN0hKYWQ3QnFMYkJHcG9mTmt6T0RYWGtnRjdRdWNPRFowWXhxZFdnTG1ZZ1lGYkp1YUwzYUVzRGdDcGJUa0RtTjlLUVVaZXBnb2ZJNHlzZk8yZGEzZklfYWRmcTFxV2x0ajlWQURST3pVN1diODRnWE1QSUx6WXZsV2ZSN2cyQ0dyQlZUT25MSW5IV0Jnd2lSV2NLWVFESlpFRXBPeVQ4dk5td3owbDNOZXd2Yk90SHRTbEFCTUdwTHBVM1NWeWY0V1JaTGJkbmszb0ZZcWZVODlFUkxzOUc?oc=5)
+來源：[Journal du Geek](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmJtOHNYemNxT2szdGZVcHQ4RTFNVm9PcldnV1BKNERlaEdfaXJXWGhUYzVuMjh5TXNWYUVtbUozQjhMVkFLSjFWdzJNejluaXZQQ2ktTV9kbnlGcUtkMVBRZHNMQUFpUXc5TjBrMmVqV0hoUlFYaUg2ZFd2ZUxsY3ZlbGUxbEN3Mmh3N01jQjJVUEV4d3hNaU9KUXBWQWE4b0ZQNGNEZ19WTWJBbEZ4NDR2aw?oc=5)
 
 ---
 
@@ -86,19 +86,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [The Coronary Artery Inflammation Controversy - Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
+### [The Coronary Artery Inflammation Controversy](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
 
 2026-09-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
 
-來源：[Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
-
----
-
-### [In Sicilia oltre 17 mila ricoveri per infarto e ictus, l’appello dei fisioterapisti contro le liste d’attesa](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
-
-2026-09-05 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[palermotoday.it](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy13dVZ5SnpBY0tqVWNxWTNEY2tkOC00bUJ3NFV6cW16dl9hbFlFM2hvRXg4QVplU2dheXpmNWpTQmRPSVRjLWp1eTlaU3NHdVJDVTU1amI2STN1amdkZzNLQUN3UTFrMGk0WnJNSHNqTVljWW40SDAyYXZQWXBETXZxVXFHNHZMTm44djhhVGJfOHFVWnU4Ng?oc=5)
+來源：[erictopol.substack.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBqVm5OdEN2d1pzZDFqTnprTW4tenBrVEZoXzBfWWFlVTRvTG93aE03akRSOHJULUdaQllWR0t1OWNrSG5HTlNUSFVoeUxlaVpQeE9HRGVLWjJwQXFSYnFKa044UUEzZ01VeTgwMHFmLXlrekU?oc=5)
 
 ---
 
@@ -126,11 +118,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+### [What went right this week: the good news that matters](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 2026-09-04 <span class="news-indication-tag">heart disease</span>
 
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+來源：[positive.news](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 ---
 

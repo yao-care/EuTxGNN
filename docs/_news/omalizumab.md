@@ -54,11 +54,43 @@ permalink: /news/omalizumab/
 
 ## 相關新聞（36 則）
 
+### [Depemokimab para el asma y rinosinusitis RSCcPN: puede administrarse en casa, lo que favorece la adherencia terapéutica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
+
+---
+
+### [Cancer survivors living with chemo hair loss celebrate resilience](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TXhHbnJxaHdZUG42YW93bWJxdjN3OURXeHg4SzJGaEdJVHVmaTFGSjhtT3pwbUtjbVJndngzdUwzTFRiLTRpeGMyWlpSZHpKVGEyOVlWcXZDUko2?oc=5)
+
+2026-09-06 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TXhHbnJxaHdZUG42YW93bWJxdjN3OURXeHg4SzJGaEdJVHVmaTFGSjhtT3pwbUtjbVJndngzdUwzTFRiLTRpeGMyWlpSZHpKVGEyOVlWcXZDUko2?oc=5)
+
+---
+
+### [Krebs bei Männern oft zu spät erkannt – diese Untersuchungen könnten ihnen das Leben retten](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmRzTVBXcWg2cU9XeWc5N1RwWTdkYkp6V01wV3ZXSnBYMTZrREFPdnpOamM5T1U4YjJjT0V4TUpORHNiSXhjLWloUVNXajZrQTg0Z1M3cWVyaFh0MFFGVWtESEZNanZvLTJmUDlBSkJwNUtaLU1kS0FfbXhyTlZFS3ZsWEdnTmh3LVA1SnByUFBWS3dyOGdSbzduSkZaNFcydzhXUzM3dTFqNGpZ?oc=5)
+
+2026-09-06 <span class="news-indication-tag">Krebs</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmRzTVBXcWg2cU9XeWc5N1RwWTdkYkp6V01wV3ZXSnBYMTZrREFPdnpOamM5T1U4YjJjT0V4TUpORHNiSXhjLWloUVNXajZrQTg0Z1M3cWVyaFh0MFFGVWtESEZNanZvLTJmUDlBSkJwNUtaLU1kS0FfbXhyTlZFS3ZsWEdnTmh3LVA1SnByUFBWS3dyOGdSbzduSkZaNFcydzhXUzM3dTFqNGpZ?oc=5)
+
+---
+
+### [¿Tienes asma? Caminar más cada día mejoró el control de la enfermedad, los síntomas y la calidad de vida tanto como entrenar en cinta dos veces por semana - La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
+
+---
+
 ### [Glioblastoma recidivato, due immunoterapie prima dell’intervento “svegliano” le difese nel tumore](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ1VGaVFWeko1Sl9aNjlhU1dxV210N3ptWmFMc0NTdWlxY2ZWUGQxUDl6dWRtOGFWckdEMWNPMnVEMmprYm4zVkVBT2lHQUd1TTNKLWJxd1I3ejZJbm5QU28zeDhteUJDZ3J3UlFHdmFTMjF2VDA3OVotY0NEYjJpNmtqbXYwQXptcHlVeEJadmdKNWp2c2VkV19qNEZBUno3SF9wNFExZEVqWlFQQ2JYaEhhUjFaczdTR3Bwa3hENzRaSmVGTnV0Y0dLci1HdjRjRmZlUTZ6c3RJSm9iQlRfVmRhYTM2b25x?oc=5)
 
 2026-09-06 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ1VGaVFWeko1Sl9aNjlhU1dxV210N3ptWmFMc0NTdWlxY2ZWUGQxUDl6dWRtOGFWckdEMWNPMnVEMmprYm4zVkVBT2lHQUd1TTNKLWJxd1I3ejZJbm5QU28zeDhteUJDZ3J3UlFHdmFTMjF2VDA3OVotY0NEYjJpNmtqbXYwQXptcHlVeEJadmdKNWp2c2VkV19qNEZBUno3SF9wNFExZEVqWlFQQ2JYaEhhUjFaczdTR3Bwa3hENzRaSmVGTnV0Y0dLci1HdjRjRmZlUTZ6c3RJSm9iQlRfVmRhYTM2b25x?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ1VGaVFWeko1Sl9aNjlhU1dxV210N3ptWmFMc0NTdWlxY2ZWUGQxUDl6dWRtOGFWckdEMWNPMnVEMmprYm4zVkVBT2lHQUd1TTNKLWJxd1I3ejZJbm5QU28zeDhteUJDZ3J3UlFHdmFTMjF2VDA3OVotY0NEYjJpNmtqbXYwQXptcHlVeEJadmdKNWp2c2VkV19qNEZBUno3SF9wNFExZEVqWlFQQ2JYaEhhUjFaczdTR3Bwa3hENzRaSmVGTnV0Y0dLci1HdjRjRmZlUTZ6c3RJSm9iQlRfVmRhYTM2b25x?oc=5)
 
 ---
 
@@ -70,7 +102,7 @@ permalink: /news/omalizumab/
 
 ---
 
-### [Prescribe exercise for prostate cancer patients, study finds - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakU3ZENtNnlQV1pOM3lVTXJuM1NFcEg3bTBjS0pycHN5QktJbXN1N0Y1X19Zclc2NEdmYlM4Nkp3LXBYdk41cFFDMENDYVdhSUV2UGJVSnhIZzlBeUlmX2FvZHg1SFlFVVF2eFYxNU5iY21wSjNnVnFjSndLTlR5bmYyYW45VU45T002NnE5RXRCZWlJNzdzWUhuYlRqWW92WjdmenhlVQ?oc=5)
+### [Prescribe exercise for prostate cancer patients, study says - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakU3ZENtNnlQV1pOM3lVTXJuM1NFcEg3bTBjS0pycHN5QktJbXN1N0Y1X19Zclc2NEdmYlM4Nkp3LXBYdk41cFFDMENDYVdhSUV2UGJVSnhIZzlBeUlmX2FvZHg1SFlFVVF2eFYxNU5iY21wSjNnVnFjSndLTlR5bmYyYW45VU45T002NnE5RXRCZWlJNzdzWUhuYlRqWW92WjdmenhlVQ?oc=5)
 
 2026-09-06 <span class="news-indication-tag">cancer</span>
 
@@ -106,7 +138,7 @@ permalink: /news/omalizumab/
 
 2026-09-06 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFpDa3NicjFJVTR0NC1CNzRRZmEyY3BqUmhkZld2cFdOR1YtZW1UUUV3MGJ5YmlJRHpLUGVCZnJseXVJMkxWak00cjkxajJlZzZfRF95TWZlVWY5WG9SZWFXQ3JVTDdVVzg3UU5xOXlEMEdEQVM5cWNIZWxtRzJEdFo0dHhZYm5XblVFRzQ5alEzXzF6QkV2TjgxWmZHSXcxTG1FLWdFWUxpTEtrRS0zVHpwZF9DazRXdXF6dHR1RGVBY1FVTTF0VQ?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFpDa3NicjFJVTR0NC1CNzRRZmEyY3BqUmhkZld2cFdOR1YtZW1UUUV3MGJ5YmlJRHpLUGVCZnJseXVJMkxWak00cjkxajJlZzZfRF95TWZlVWY5WG9SZWFXQ3JVTDdVVzg3UU5xOXlEMEdEQVM5cWNIZWxtRzJEdFo0dHhZYm5XblVFRzQ5alEzXzF6QkV2TjgxWmZHSXcxTG1FLWdFWUxpTEtrRS0zVHpwZF9DazRXdXF6dHR1RGVBY1FVTTF0VQ?oc=5)
 
 ---
 
@@ -162,7 +194,7 @@ permalink: /news/omalizumab/
 
 2026-09-05 <span class="news-indication-tag">cancro</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXlJUmJmSFZCblV5T2laMUwzNkNZTER6SmdpaXVPb1g1V1haNFl5eS1DQW1tSkJEcWZ1TWlJQTNYZXRWbmZuTWphQXY5bGxzTHVBVkpqNFBQcExnRHJUYk12XzNLNGRMelZVVnlFaVZQYk1oZFZBcTBIcklMMGFUNk1CbE9PTjhyRjN0Nm94SzhQMEdzNlVXaGIzY1dDOFpRQWtjX3NHZkVJYkNHNGJXOElKY1dsNVN0bjRpUXlSRE5lODE2MnhxZDdfT2g3ckVhXzVVblE2c2R3WDFUSWJfU2pOckk?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXlJUmJmSFZCblV5T2laMUwzNkNZTER6SmdpaXVPb1g1V1haNFl5eS1DQW1tSkJEcWZ1TWlJQTNYZXRWbmZuTWphQXY5bGxzTHVBVkpqNFBQcExnRHJUYk12XzNLNGRMelZVVnlFaVZQYk1oZFZBcTBIcklMMGFUNk1CbE9PTjhyRjN0Nm94SzhQMEdzNlVXaGIzY1dDOFpRQWtjX3NHZkVJYkNHNGJXOElKY1dsNVN0bjRpUXlSRE5lODE2MnhxZDdfT2g3ckVhXzVVblE2c2R3WDFUSWJfU2pOckk?oc=5)
 
 ---
 
@@ -178,7 +210,7 @@ permalink: /news/omalizumab/
 
 2026-09-05 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFFvSlI5MVh2Ql9hZ09XSG0wbDhqRDBjeUhxU0l6M0NwNWNJVUltem1aT0lqWklheXVwVm5zbmxJaDVfbzAwVGx3NTRsVVpCRjBFWnZPVkVRZmhuamlGX0wxYzktdXFiUi1Eb1I2bHY3cWJnZTB4dnZhTm9lajd4ZDJDSGVaTkJKNnVjNVRzaFlzS3FDc0xtSURBbFVadXV0aUJqbTQ5T0xzZFBXQ3V5ZDVja0F0RzRRalJQZ19yV1NxbWVtYWRmRW9RSE8yU2ZDcHI3bkNGeGZCcDU5VDF3?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFFvSlI5MVh2Ql9hZ09XSG0wbDhqRDBjeUhxU0l6M0NwNWNJVUltem1aT0lqWklheXVwVm5zbmxJaDVfbzAwVGx3NTRsVVpCRjBFWnZPVkVRZmhuamlGX0wxYzktdXFiUi1Eb1I2bHY3cWJnZTB4dnZhTm9lajd4ZDJDSGVaTkJKNnVjNVRzaFlzS3FDc0xtSURBbFVadXV0aUJqbTQ5T0xzZFBXQ3V5ZDVja0F0RzRRalJQZ19yV1NxbWVtYWRmRW9RSE8yU2ZDcHI3bkNGeGZCcDU5VDF3?oc=5)
 
 ---
 
@@ -186,7 +218,7 @@ permalink: /news/omalizumab/
 
 2026-09-05 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHZWcWktQ0pFbm1meWNsVVFFTDBqc0VoTG1PeG94bHNoNGVWLWdndzdjZV9sQl9OWUVYZ0h2YVp4UG9JcXByTENzRVlxRHBHOEsya1NveFVsNVNMbkc4WkFSTUlpZThHSUtMejRyZHg1OVhFaTFERkVhMjJrbzgtT3RLcXhMTXJxeHNrTERkdW5EZWtfTDZPOC16RnJmRGdJekN4b3FxZVQwUmw4YU1LQ3dqY0pTcllCYk90X0FJcVJEQ0JaanVIR3BTYjYzM01zb1kxNi13Vk4?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHZWcWktQ0pFbm1meWNsVVFFTDBqc0VoTG1PeG94bHNoNGVWLWdndzdjZV9sQl9OWUVYZ0h2YVp4UG9JcXByTENzRVlxRHBHOEsya1NveFVsNVNMbkc4WkFSTUlpZThHSUtMejRyZHg1OVhFaTFERkVhMjJrbzgtT3RLcXhMTXJxeHNrTERkdW5EZWtfTDZPOC16RnJmRGdJekN4b3FxZVQwUmw4YU1LQ3dqY0pTcllCYk90X0FJcVJEQ0JaanVIR3BTYjYzM01zb1kxNi13Vk4?oc=5)
 
 ---
 
@@ -195,22 +227,6 @@ permalink: /news/omalizumab/
 2026-09-05 <span class="news-indication-tag">Krebs</span>
 
 來源：[CHIP](https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVE0T1ZOYWVqVTNickc1Vy1OVVRuUGE0d0hrblBHX2R6QjNwNVZEeklsNURzYlB3SWdSZ044dHVxZzFWUEszTW1qS3VqdTNpSjlTUlpybWFNZVBQNVdZT3NESU9nclQ5aEhnQ0FyQ1pkLVhtdVRmOWthejEwb1ZTT2NNejhNMjhoWG0wb3ZWOTB0UnJKeFRQMVpmTUoxVDRWdndpTG5NR3NGREl3Tk90ZnRxYlo3QUpURnpHOW05WGh1a01CUEZxb21jNURtZEpxbkNqdEFnMnc5RDhiQ2JNdk8zOEdRMWt3Yk84MGRDV19LZ1hKdkotaFRGSGNDZEhNV2ZFRWEwaUNsSUgwanJPRWtB?oc=5)
-
----
-
-### [Family launches urgent appeal as North Devon mum fights rare, inoperable brain tumour - Devon Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUhRRjIxdjRQaUZDdE9LZTZKOG9WRkUydEFENFFYUWlCNDlKOVJ2QXgzMDRLdVV3QlA3SWhLeEtuOEpFazYyM2VqVWxlX3AzS2xoWll2X3Joakt6aWlqbVVONmw4QUVLMFliWUY5cVhid3ljejEzU0dUajRQWDU1cU54cGJoNllEOW9xa042MNIBlAFBVV95cUxNT0FoWWx6MnJwc04tZ01LM2lQRy10TlNwNndZVGhCQlZGclBLczJ0WnBNeVdvVzA4bUZVYkpsY1VZQUpmRUJGUEJsNEstMlBzSjNxYmRrRW80akVXV1NXcVplLVpwdUFPbmJSMjJvQWNwa19icXhzTHB1LWFPblFtcWhwcGFzSVpKcXVrZG9HVzNjRDRM?oc=5)
-
-2026-09-05 <span class="news-indication-tag">tumour</span>
-
-來源：[Devon Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUhRRjIxdjRQaUZDdE9LZTZKOG9WRkUydEFENFFYUWlCNDlKOVJ2QXgzMDRLdVV3QlA3SWhLeEtuOEpFazYyM2VqVWxlX3AzS2xoWll2X3Joakt6aWlqbVVONmw4QUVLMFliWUY5cVhid3ljejEzU0dUajRQWDU1cU54cGJoNllEOW9xa042MNIBlAFBVV95cUxNT0FoWWx6MnJwc04tZ01LM2lQRy10TlNwNndZVGhCQlZGclBLczJ0WnBNeVdvVzA4bUZVYkpsY1VZQUpmRUJGUEJsNEstMlBzSjNxYmRrRW80akVXV1NXcVplLVpwdUFPbmJSMjJvQWNwa19icXhzTHB1LWFPblFtcWhwcGFzSVpKcXVrZG9HVzNjRDRM?oc=5)
-
----
-
-### [Dijon. Septembre rouge : les cancers du sang « peuvent toucher tout le monde » - Le Bien Public](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXhtV2ExTFgtUGwtMkNqeE4yWW1pWGIxVERBY1VSX3Q2RldQdmJsMm9TbnVsTGhaMi1lOGpCb1ZoYy02TThNVnZSMmx5SzkybW9DZ25pUGV2LVF6YXBIeEhMMElRckV3bWtRVFd4SVMyMklZbWxyNXB1LXRkeE51eU5pb2NuZXY0ZnBVTDE5NkpQZGFaelByQnZSbXEyUVJmcWR5bU1xMF9uSkdvUGc?oc=5)
-
-2026-09-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Bien Public](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXhtV2ExTFgtUGwtMkNqeE4yWW1pWGIxVERBY1VSX3Q2RldQdmJsMm9TbnVsTGhaMi1lOGpCb1ZoYy02TThNVnZSMmx5SzkybW9DZ25pUGV2LVF6YXBIeEhMMElRckV3bWtRVFd4SVMyMklZbWxyNXB1LXRkeE51eU5pb2NuZXY0ZnBVTDE5NkpQZGFaelByQnZSbXEyUVJmcWR5bU1xMF9uSkdvUGc?oc=5)
 
 ---
 
@@ -246,19 +262,19 @@ permalink: /news/omalizumab/
 
 ---
 
-### [She thought she was tired from university, then she woke up - Manchester Evening News](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnJYQzV4NDlDSXlaZmJYQTZuVTFPNHpYWDc3NFlmSWNBRzZWMW8zY0VLOUZtdUplZzA3NzNEUm1HdW5nNEJXbXBoaDZvS29GcnRqYzdnTzZsR2U5WkladTlCR0VDa3JjZ0ZrWXRlTU81NmhOc3Q0NEdISnJ6MEtqVC1ndjU4TUNLOExlNzNvUktCOW44ZEdsaFdHaUVqQVBpSFo4NTlaNXpEZXlZWHfSAbMBQVVfeXFMUGZHYWZyZWgwRWN3RkZlS2RtWDY1cG02dlROSEliYkxpS1Axelp0LS1qaDU3cloyWGNfbXd0aU1DNGViT2hMcFlJLVh6T2I1NzA5NWxHaHo1YmFJbF9SMTE5VzRQNXhWdV82REwzTWhBMHdrT2MzS0Rza1BUcXFybUVIOEtZVTNXYkpGeUdqSDZOQ25lLU5UWHFlWnVVdzhfUUk4UEd6cjJucHN0ZDI3Vk85Qzg?oc=5)
-
-2026-09-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnJYQzV4NDlDSXlaZmJYQTZuVTFPNHpYWDc3NFlmSWNBRzZWMW8zY0VLOUZtdUplZzA3NzNEUm1HdW5nNEJXbXBoaDZvS29GcnRqYzdnTzZsR2U5WkladTlCR0VDa3JjZ0ZrWXRlTU81NmhOc3Q0NEdISnJ6MEtqVC1ndjU4TUNLOExlNzNvUktCOW44ZEdsaFdHaUVqQVBpSFo4NTlaNXpEZXlZWHfSAbMBQVVfeXFMUGZHYWZyZWgwRWN3RkZlS2RtWDY1cG02dlROSEliYkxpS1Axelp0LS1qaDU3cloyWGNfbXd0aU1DNGViT2hMcFlJLVh6T2I1NzA5NWxHaHo1YmFJbF9SMTE5VzRQNXhWdV82REwzTWhBMHdrT2MzS0Rza1BUcXFybUVIOEtZVTNXYkpGeUdqSDZOQ25lLU5UWHFlWnVVdzhfUUk4UEd6cjJucHN0ZDI3Vk85Qzg?oc=5)
-
----
-
 ### [Psilocybine : prévenir les effets de la chimiothérapie](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkJrUkNtQkN2cmlNMWZhNThxVldqRkhpa1dTLThmbENJS3R1SEpKTl9vemMxY1k4U3AyNU9PdVN0Nzkta2FIdGM4ZldUaUhJR21NWko3Smt2Zk9IMFk1OWlQVG92dUp1cGwwUzRSRFpKNF96MG16QV9BODgxaDdrYnU3aWl6a2RQRmR5VW52QnE3b0VVTndHTDhxWTFOanNaY0FsVzRCaEo0WWFoVkRBVWpkNW9tS0Vu?oc=5)
 
 2026-09-04 <span class="news-indication-tag">cancer</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkJrUkNtQkN2cmlNMWZhNThxVldqRkhpa1dTLThmbENJS3R1SEpKTl9vemMxY1k4U3AyNU9PdVN0Nzkta2FIdGM4ZldUaUhJR21NWko3Smt2Zk9IMFk1OWlQVG92dUp1cGwwUzRSRFpKNF96MG16QV9BODgxaDdrYnU3aWl6a2RQRmR5VW52QnE3b0VVTndHTDhxWTFOanNaY0FsVzRCaEo0WWFoVkRBVWpkNW9tS0Vu?oc=5)
+
+---
+
+### [Avere rapporti sessuali frequenti previene il cancro alla prostata? - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzF2aGFKUkdtUFdEd3BLQkxDUGR5akpuNDlSeXJLMmJyczlnd2oyNDlUand1Uk8yb25BUWgtYUxFTDkweVB0TUxYRlhhRUxTbGk5STN1ZURIc3ZnbmcteW1UY25OM05RMVpwUkJxTHA5V1FXeUJMT003anM0ak1rRDMxcnZFQnd3OWZmb3UyTnZjeWlhVEpoYWV2eUNCS0U?oc=5)
+
+2026-09-04 <span class="news-indication-tag">cancro</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzF2aGFKUkdtUFdEd3BLQkxDUGR5akpuNDlSeXJLMmJyczlnd2oyNDlUand1Uk8yb25BUWgtYUxFTDkweVB0TUxYRlhhRUxTbGk5STN1ZURIc3ZnbmcteW1UY25OM05RMVpwUkJxTHA5V1FXeUJMT003anM0ak1rRDMxcnZFQnd3OWZmb3UyTnZjeWlhVEpoYWV2eUNCS0U?oc=5)
 
 ---
 
@@ -270,27 +286,19 @@ permalink: /news/omalizumab/
 
 ---
 
-### [Krebstumore schützen sich mit Antioxidantien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWRrTlRDZTBYcXAxRFptempWaTNvYnNFQW1BZTkxN2dlRUp5UkJqcUxUV0YtRkRMMXV4MFBqTUNYcUpvM2FINU1NZldkbndkRVlLM2pNaUJJb0V4OUNHSmVBOU45WHJFbXNRcHVsNjFNX0VTQjRnTkNJSENHeW9xb0p5OA?oc=5)
-
-2026-09-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWRrTlRDZTBYcXAxRFptempWaTNvYnNFQW1BZTkxN2dlRUp5UkJqcUxUV0YtRkRMMXV4MFBqTUNYcUpvM2FINU1NZldkbndkRVlLM2pNaUJJb0V4OUNHSmVBOU45WHJFbXNRcHVsNjFNX0VTQjRnTkNJSENHeW9xb0p5OA?oc=5)
-
----
-
-### [Thymus: Dieses kleine Organ könnte den Therapieerfolg bei Krebs mitbestimmen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGt6LVJWQjFJUkVoWWVMMzVaSGZsY2tGOEZfbFRKb041SUE4YVlpNDZicFRIbXVjTk1ZXzJ3amtGc0FfeUltTlFCd0V0c3NYTGl4S3d3TEJxLVdhTXZHY3NzVFZoUDdvZmstZ19oTG5DSmwzMkltWFhPWXJNR3hCMUE5d0tfRVZVcEVrN3lfb3M2RlQ3T3lOLXFWek5PZDBLM3U0dlBGUm5LODJLSXVTTUIxcEdueHlWcF9PdzRoY1RkTzB4b3ZtV3FMNDdHenI5T195QzhLRQ?oc=5)
+### [Thymus: Dieses kleine Organ könnte den Therapieerfolg bei Krebs mitbestimmen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGt6LVJWQjFJUkVoWWVMMzVaSGZsY2tGOEZfbFRKb041SUE4YVlpNDZicFRIbXVjTk1ZXzJ3amtGc0FfeUltTlFCd0V0c3NYTGl4S3d3TEJxLVdhTXZHY3NzVFZoUDdvZmstZ19oTG5DSmwzMkltWFhPWXJNR3hCMUE5d0tfRVZVcEVrN3lfb3M2RlQ3T3lOLXFWek5PZDBLM3U0dlBGUm5LODJLSXVTTUIxcEdueHlWcF9PdzRoY1RkTzB4b3ZtV3FMNDdHenI5T195QzhLRQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">Krebs</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGt6LVJWQjFJUkVoWWVMMzVaSGZsY2tGOEZfbFRKb041SUE4YVlpNDZicFRIbXVjTk1ZXzJ3amtGc0FfeUltTlFCd0V0c3NYTGl4S3d3TEJxLVdhTXZHY3NzVFZoUDdvZmstZ19oTG5DSmwzMkltWFhPWXJNR3hCMUE5d0tfRVZVcEVrN3lfb3M2RlQ3T3lOLXFWek5PZDBLM3U0dlBGUm5LODJLSXVTTUIxcEdueHlWcF9PdzRoY1RkTzB4b3ZtV3FMNDdHenI5T195QzhLRQ?oc=5)
+來源：[morgenpost.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGt6LVJWQjFJUkVoWWVMMzVaSGZsY2tGOEZfbFRKb041SUE4YVlpNDZicFRIbXVjTk1ZXzJ3amtGc0FfeUltTlFCd0V0c3NYTGl4S3d3TEJxLVdhTXZHY3NzVFZoUDdvZmstZ19oTG5DSmwzMkltWFhPWXJNR3hCMUE5d0tfRVZVcEVrN3lfb3M2RlQ3T3lOLXFWek5PZDBLM3U0dlBGUm5LODJLSXVTTUIxcEdueHlWcF9PdzRoY1RkTzB4b3ZtV3FMNDdHenI5T195QzhLRQ?oc=5)
 
 ---
 
-### [Cancer cells release antioxidants to prevent immune cells from destroying them - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1NRQXZrODJPYUVMZ2tNUnpSaHdmM2ZrTFNkY2lGVjlPMkExYndGVWtsaXZSbHBKVF9IWFUtV01mbzloX0N5ZTEyUjlUbUFYcUVRSlpHa2ZjQ0tkeWIzTjVVRlpxUnZhTXF0Tzk0eF9hM1dicWtDNjRuX25nXzhtMl9idDhyQUlDZlcxUW1oZXc?oc=5)
+### [ERC Starting Grant für DDZ-Forscherin: Wie Muskeln Stoffwechsel und Krebs beeinflussen](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlBEbGhXaUxzVXZHTlBYbFZnTHNGTzkwblRxa08wQjBULXhROXZ3T20wNWpuTjQ5UEJBVHM1cWhSNHZBOWZSVzFZV0V1YmRGdWRtUG5Kc0xaYmZpNVJJVFl0YWNfUDhEZ0Q1dE15MWJya2FreEIxVmx1Z1ZPSXRHWEIzMkIwYUluWUlWRlNYZXpOcEkyNTBWa0d5VUdDdXR0QUxjYjM4RjJVVHhqOGh1amU3Rk1ub3NDVjFFaWJzRkZ3Vk9LS2c?oc=5)
 
-2026-09-03 <span class="news-indication-tag">cancer</span>
+2026-09-03 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1NRQXZrODJPYUVMZ2tNUnpSaHdmM2ZrTFNkY2lGVjlPMkExYndGVWtsaXZSbHBKVF9IWFUtV01mbzloX0N5ZTEyUjlUbUFYcUVRSlpHa2ZjQ0tkeWIzTjVVRlpxUnZhTXF0Tzk0eF9hM1dicWtDNjRuX25nXzhtMl9idDhyQUlDZlcxUW1oZXc?oc=5)
+來源：[juraforum.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlBEbGhXaUxzVXZHTlBYbFZnTHNGTzkwblRxa08wQjBULXhROXZ3T20wNWpuTjQ5UEJBVHM1cWhSNHZBOWZSVzFZV0V1YmRGdWRtUG5Kc0xaYmZpNVJJVFl0YWNfUDhEZ0Q1dE15MWJya2FreEIxVmx1Z1ZPSXRHWEIzMkIwYUluWUlWRlNYZXpOcEkyNTBWa0d5VUdDdXR0QUxjYjM4RjJVVHhqOGh1amU3Rk1ub3NDVjFFaWJzRkZ3Vk9LS2c?oc=5)
 
 ---
 
@@ -310,22 +318,6 @@ permalink: /news/omalizumab/
 
 ---
 
-### [Revolutionärer Durchbruch bei bestimmter Krebsart: Neue Therapie erhöht Überlebenschancen](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcG1jZjUwOG9jdDVmYk5DcGhkelFWRjlLc0JRM21xRHhwM1ZIRE9jZUR3VXRFek1kQXZnbFFwNDVaUTlacGhlc2xzSmZnRnpTZURqMDdBVHVTVUwxaDVrTU9mZ2lkeEVMc2owM2d6SGs0eU5fT1hxZzU4NzZYdk1CbUVPRVc1SVVLaVk1aG1fLVdUZnB6TGVFNWZIZ3lNMnRoWFBPTmdjblZDMHptQTJWag?oc=5)
-
-2026-09-03 <span class="news-indication-tag">Krebs</span>
-
-來源：[HNA](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcG1jZjUwOG9jdDVmYk5DcGhkelFWRjlLc0JRM21xRHhwM1ZIRE9jZUR3VXRFek1kQXZnbFFwNDVaUTlacGhlc2xzSmZnRnpTZURqMDdBVHVTVUwxaDVrTU9mZ2lkeEVMc2owM2d6SGs0eU5fT1hxZzU4NzZYdk1CbUVPRVc1SVVLaVk1aG1fLVdUZnB6TGVFNWZIZ3lNMnRoWFBPTmdjblZDMHptQTJWag?oc=5)
-
----
-
-### [An oncologist's 6 rules for reducing cancer risk – and they're surprisingly simple - Women's Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0I3YWFBQW5qUDZ0MHZvb3gzYTNhdDJZbTFkVEhJbjN5OUpkWWFtOXpFWnNScUQ4TTRlTnR3empaU0hGaFZoOE1WR2FVN2JUanltTTJLNW84R0N0N0h3QkhiTngyRmZaTV9FcFRhNTdyTnNzODZXU1BTV2Noem1CSnRoYWNBQzNTZUd2RHdGSmxQVmRUTUNrSlRyWEFsWHdL?oc=5)
-
-2026-09-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Women's Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0I3YWFBQW5qUDZ0MHZvb3gzYTNhdDJZbTFkVEhJbjN5OUpkWWFtOXpFWnNScUQ4TTRlTnR3empaU0hGaFZoOE1WR2FVN2JUanltTTJLNW84R0N0N0h3QkhiTngyRmZaTV9FcFRhNTdyTnNzODZXU1BTV2Noem1CSnRoYWNBQzNTZUd2RHdGSmxQVmRUTUNrSlRyWEFsWHdL?oc=5)
-
----
-
 ### [Urine test can spot more than nine in 10 bladder cancers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yMVJpVVQtT1ozMmFrckxqNDVTa0wxNlhMZnFaTkFTSFVYeXl5a1BVUEpwdm5WSDJWTzJLYkdzYS15MTM4NVBWN3pHSzd0S3lFMzNEZVlrenZmNnhT?oc=5)
 
 2026-09-02 <span class="news-indication-tag">cancer</span>
@@ -339,6 +331,14 @@ permalink: /news/omalizumab/
 2026-09-01 <span class="news-indication-tag">cancer</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcDc0bEZ1Szd3NVVsMktJNkxJVnlMRTBRb1htcU1rWWNPZzlQZDU0ZUVnd1M0ckU5d0pDRHZZd1RrZFkzSmgxTjhHV09sYTA2Smh4N1F3WnlIT1NzTW9RMlEzcnlua29vRy1iVE5uMTk5MU5iYng4SmNTSXRFdGpTcGEtWUd0R2RoZ3hLMzdodUc1bHNjTTc0b2tndHRhaUpDa2tuaHdLdWhHbVFEYTRzNHo0cXRlMjNiTHg3cQ?oc=5)
+
+---
+
+### [Neue Impfung gegen schwarzen Hautkrebs: Ist das der Durchbruch für Krebsbehandlungen?](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWItWlZmY0hlekN4WTRrXzNwVV9NX0liSzJ1TXhuY2FqYmdYMTZxcVlhWVdTXzVVTENVamJfZlo3VHp3dC02eUYzY0pvTW5heVRqQWpoaGp0R0VsUmNEVlNxVll6UWx5bVhMakhTdjdOa1U2NkFnMjZpZm5pajJ2MWtmWlczZDdDdUVub2RXUFVhaXlJOXpOWHBuLUdtZ1dIOVY1VkRfUUhzRXJfR1BpaWE2aHJDNFFZRHRwMA?oc=5)
+
+2026-09-01 <span class="news-indication-tag">Krebs</span>
+
+來源：[WDR](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWItWlZmY0hlekN4WTRrXzNwVV9NX0liSzJ1TXhuY2FqYmdYMTZxcVlhWVdTXzVVTENVamJfZlo3VHp3dC02eUYzY0pvTW5heVRqQWpoaGp0R0VsUmNEVlNxVll6UWx5bVhMakhTdjdOa1U2NkFnMjZpZm5pajJ2MWtmWlczZDdDdUVub2RXUFVhaXlJOXpOWHBuLUdtZ1dIOVY1VkRfUUhzRXJfR1BpaWE2aHJDNFFZRHRwMA?oc=5)
 
 ---
 

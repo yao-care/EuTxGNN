@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Con el hígado graso, poca broma - Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RTRFU1h0T0tFc0dESUtkZUhXdXlreTk5T3FlQ3ZUUHlOOHZqa3p3ckw2Tmp3SnpqV1dlODhUQ3hYamtmOVZGb2VzQ09NaHFkNl9hZWlFeGg1Z0hrd1BKMmVRZnBJU2s1YXVJ?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/bupropion/
 
 ---
 
+### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
+
+---
+
 ### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 ---
 

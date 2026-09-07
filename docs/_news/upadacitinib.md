@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Upadacitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [Depemokimab para el asma y rinosinusitis RSCcPN: puede administrarse en casa, lo que favorece la adherencia terapéutica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ3FKREgyamxXeDFfNmNjNjFyY25SQnA2RVRsd09iYVYzbGtMZUN0YXRzTlZJZ1BXZm1fdzlZMmFGUlRFcTB6bnVfa3dMaWRXa0ljU2xfa3Btc0N3LVladHNZU05tRmp1dHAtTHhVUG5SbXdROVZtSURONm9SX0hxME5pSXRFSzJBV09xbnhZWXVqaWpUbm9yWl8zNjNMNnFjODl6aXZ3NjVVZWphZTBYSWg4alc3NURwclNmNFBQYzR2QzFRclVjbU5NU0JoWjBaOS0yXzVaV3JoeGc?oc=5)
+
+---
+
+### [Artrite reumatoide, perché colpisce proprio alcune dita? La risposta potrebbe iniziare prima della nascita](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
+
+2026-09-06 <span class="news-indication-tag">artrite</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
+
+---
+
+### [¿Tienes asma? Caminar más cada día mejoró el control de la enfermedad, los síntomas y la calidad de vida tanto como entrenar en cinta dos veces por semana - La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
+
+2026-09-06 <span class="news-indication-tag">asma</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
+
+---
 
 ### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
 
@@ -74,7 +98,7 @@ permalink: /news/upadacitinib/
 
 2026-09-06 <span class="news-indication-tag">artrite</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 
@@ -86,11 +110,11 @@ permalink: /news/upadacitinib/
 
 ---
 
-### [CAR-T-Therapie gegen Rheuma: Immunsystem neu starten, statt lebenslang therapieren - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+### [CAR-T-Zellen gegen rheumatoide Arthritis: Phase-1 COMPARE zeigt Remission ohne Medikamente - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmwzQXROaml4S1BSQVpKODVvckVQMXhqX3NnNUV5MVdjLUEwSUh5b3RTRGI2MEJkUW0takFYZjZndFFkTWNucEpXNTRRekllU3JYb1FUQjJjb0VIQWp5N3RWcmxnbktYQmJmbW9wbjFnUGlzLWFBd2pESDdhaWhVdEhwVHhITjM2bUhBTi1rMzhUeW5QdFNlNkxZbnBZWFJGWUFsZGpESWFHNUxWWDFMajlZSGRUTDhFWmJRTE53?oc=5)
 
-2026-08-31 <span class="news-indication-tag">arthritis</span>
+2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xUckg0MGIyVTd5YVNlcGVNWVY5VGVwVmUzSmh6QkllUUlNNTNlTVJnS3lvRWZZX1NvWXFrMjFLMnBPYVNnRlY0SjdoNnRuajR0SGtxYmNPU1lhMllpWjRGdGxGTXpaRkZHaE5mbnEzLVRIMFFnNUtaVkp2cEFIb25fOHNFcXF6ZUhVTUQ1aXhTOVVRNEpkQjNwUkRWWnNE?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmwzQXROaml4S1BSQVpKODVvckVQMXhqX3NnNUV5MVdjLUEwSUh5b3RTRGI2MEJkUW0takFYZjZndFFkTWNucEpXNTRRekllU3JYb1FUQjJjb0VIQWp5N3RWcmxnbktYQmJmbW9wbjFnUGlzLWFBd2pESDdhaWhVdEhwVHhITjM2bUhBTi1rMzhUeW5QdFNlNkxZbnBZWFJGWUFsZGpESWFHNUxWWDFMajlZSGRUTDhFWmJRTE53?oc=5)
 
 ---
 

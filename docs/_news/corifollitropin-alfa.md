@@ -54,11 +54,11 @@ permalink: /news/corifollitropin-alfa/
 
 ## 相關新聞（8 則）
 
-### [Cette IA révolutionnaire détecte les maladies cardiaques en seulement 2 secondes avec une efficacité de 90 - La Crème Du Gaming](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZjVKLTVFTWYzeHRyTWhKZHVyN0hKYWQ3QnFMYkJHcG9mTmt6T0RYWGtnRjdRdWNPRFowWXhxZFdnTG1ZZ1lGYkp1YUwzYUVzRGdDcGJUa0RtTjlLUVVaZXBnb2ZJNHlzZk8yZGEzZklfYWRmcTFxV2x0ajlWQURST3pVN1diODRnWE1QSUx6WXZsV2ZSN2cyQ0dyQlZUT25MSW5IV0Jnd2lSV2NLWVFESlpFRXBPeVQ4dk5td3owbDNOZXd2Yk90SHRTbEFCTUdwTHBVM1NWeWY0V1JaTGJkbmszb0ZZcWZVODlFUkxzOUc?oc=5)
+### [Une IA « superhumaine » peut repérer les maladies du cœur en deux secondes - Journal du Geek](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmJtOHNYemNxT2szdGZVcHQ4RTFNVm9PcldnV1BKNERlaEdfaXJXWGhUYzVuMjh5TXNWYUVtbUozQjhMVkFLSjFWdzJNejluaXZQQ2ktTV9kbnlGcUtkMVBRZHNMQUFpUXc5TjBrMmVqV0hoUlFYaUg2ZFd2ZUxsY3ZlbGUxbEN3Mmh3N01jQjJVUEV4d3hNaU9KUXBWQWE4b0ZQNGNEZ19WTWJBbEZ4NDR2aw?oc=5)
 
 2026-09-06 <span class="news-indication-tag">maladie cardiaque</span>
 
-來源：[La Crème Du Gaming](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZjVKLTVFTWYzeHRyTWhKZHVyN0hKYWQ3QnFMYkJHcG9mTmt6T0RYWGtnRjdRdWNPRFowWXhxZFdnTG1ZZ1lGYkp1YUwzYUVzRGdDcGJUa0RtTjlLUVVaZXBnb2ZJNHlzZk8yZGEzZklfYWRmcTFxV2x0ajlWQURST3pVN1diODRnWE1QSUx6WXZsV2ZSN2cyQ0dyQlZUT25MSW5IV0Jnd2lSV2NLWVFESlpFRXBPeVQ4dk5td3owbDNOZXd2Yk90SHRTbEFCTUdwTHBVM1NWeWY0V1JaTGJkbmszb0ZZcWZVODlFUkxzOUc?oc=5)
+來源：[Journal du Geek](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmJtOHNYemNxT2szdGZVcHQ4RTFNVm9PcldnV1BKNERlaEdfaXJXWGhUYzVuMjh5TXNWYUVtbUozQjhMVkFLSjFWdzJNejluaXZQQ2ktTV9kbnlGcUtkMVBRZHNMQUFpUXc5TjBrMmVqV0hoUlFYaUg2ZFd2ZUxsY3ZlbGUxbEN3Mmh3N01jQjJVUEV4d3hNaU9KUXBWQWE4b0ZQNGNEZ19WTWJBbEZ4NDR2aw?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/corifollitropin-alfa/
 
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+### [What went right this week: the good news that matters](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 2026-09-04 <span class="news-indication-tag">heart disease</span>
 
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+來源：[positive.news](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 ---
 
@@ -106,7 +106,7 @@ permalink: /news/corifollitropin-alfa/
 
 2026-09-04 <span class="news-indication-tag">migraine</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
+來源：[medscape.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
 
 ---
 

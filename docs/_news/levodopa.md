@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,7 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [The dementia-proof daily routine to protect your brain - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUZVWnpQZjZTN0N0Z0h0SVRuXzBMZlAtNjFYaW9EdVY3TVlLVUlHX2poZjVIRmMwVExveEZha2lNRDk0MEloTVB1UWJyQ0w1VkpDUGlqZTdGVExnWE1EbzFSQjBfd0V6Wmw5LU9VUWdVOXZ6emdsd3dsNVpWamdKLXhaYzkxLTFZOENUUWVFaXlyeV9JYU10RWQ3NUgxVzRTYXRqWDJwV2swdw?oc=5)
 
@@ -61,22 +61,6 @@ permalink: /news/levodopa/
 2026-09-05 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmZmeFZaOW5iaThPWFpQRmh2WVNiWFpmNWJQT3dGUW5TV0haZlNsNG5JNjZaZFBCMFE5VzlmNGVRSXNHd3l3QlRBNkp4T2JINkc2X3RRaXVVVlVCV3Rxa2NrMlBGcGgwOTFqWXh6d0dVUXlTR3hwVGJBUG5pdURReEJfcjRTM2l4dWVUZVJ4R255b3FZMllSWDA0QQ?oc=5)
-
----
-
-### [Des scientifiques lillois découvrent un gène pouvant multiplier par dix le risque de développer la maladie d'Alzheimer - France 3 Régions](https://news.google.com/rss/articles/CBMipAJBVV95cUxOd1l5cjluSVNvZXBUNXY5ZF9Xams1d1dLeTNsVU9XV2xSZkpEMTFSLWlTdDhXN184cnhvQ2xxbVNRdHVxRXIxZkVWWDIzN0NTNDBmUTRaMl9GQlJlZDgxdmZwQi1hdHZJZENoWU5ZSEk5VVY5cW9BWDlxamt1Q1BGNTVhdEE5Znkxdm9ydUVnUWFNTWc1S2hWd1J6NEhuZEdUcjJQeklBTktQdlRiTjRidldRS0pfNXdsamRWbzhaVEduQWVTSlliQXlyNVd5YjVLVVFRWUpYTzU2ajF0UlZxM29Wc0ljYjgzQzFZalJGRDA5U3NjZWZlZXdDbVdVSDNLd1M3Z0pDMUMtQVJQNFN4R3dxMldBNnBtV2F6d0wxRWQxRHFl?oc=5)
-
-2026-09-05 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipAJBVV95cUxOd1l5cjluSVNvZXBUNXY5ZF9Xams1d1dLeTNsVU9XV2xSZkpEMTFSLWlTdDhXN184cnhvQ2xxbVNRdHVxRXIxZkVWWDIzN0NTNDBmUTRaMl9GQlJlZDgxdmZwQi1hdHZJZENoWU5ZSEk5VVY5cW9BWDlxamt1Q1BGNTVhdEE5Znkxdm9ydUVnUWFNTWc1S2hWd1J6NEhuZEdUcjJQeklBTktQdlRiTjRidldRS0pfNXdsamRWbzhaVEduQWVTSlliQXlyNVd5YjVLVVFRWUpYTzU2ajF0UlZxM29Wc0ljYjgzQzFZalJGRDA5U3NjZWZlZXdDbVdVSDNLd1M3Z0pDMUMtQVJQNFN4R3dxMldBNnBtV2F6d0wxRWQxRHFl?oc=5)
-
----
-
-### [5 Small Changes To Eating Habits That Can Be Signs Of Dementia](https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTYyQ3l3YUFFMUw1V2tBR3ppdW16eTBlYnRFc1pkblBmcloyX05sWERZX1ZROUQ3b1lhZzlYOHRPZWRlMDBBb3BSNERyUENEOG9Cd2ZWMkJwSmlWNnBUMFJ1dlhfX012WDEtTUM5ZkJYSjZyRGVGcVJsdzJtMHV5OGxSaFc3dzFxcVowRHNfOWtKVEE3Vmh6Wld6Qjg4M3MxQUFaWUIwTHpNNHRYN1ViYmx5eGbSAboBQVVfeXFMTjBjX19iUl9Ua3U2c1IwcmhwQkRnTlIxVFRfM3Z6c0FYVnpFUXNmMURPaVVGUDhheE9ZcmR2UUFoMWhDN2NCX1ByaW5CelYtOTZVYTd3TlVxeVphQk0wN0lkUG9XTmJaVFpueWJPODVnOEkxSzczeXNJX05KVWVzZnFoQzhJWXdYQVFkTDZWbkFucGxVZGRwbkdCN2N3SnZlVi1hTjJfamc4T1hJZWtIMmEySWNOUHRQMFhn?oc=5)
-
-2026-09-01 <span class="news-indication-tag">dementia</span>
-
-來源：[HuffPost](https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTYyQ3l3YUFFMUw1V2tBR3ppdW16eTBlYnRFc1pkblBmcloyX05sWERZX1ZROUQ3b1lhZzlYOHRPZWRlMDBBb3BSNERyUENEOG9Cd2ZWMkJwSmlWNnBUMFJ1dlhfX012WDEtTUM5ZkJYSjZyRGVGcVJsdzJtMHV5OGxSaFc3dzFxcVowRHNfOWtKVEE3Vmh6Wld6Qjg4M3MxQUFaWUIwTHpNNHRYN1ViYmx5eGbSAboBQVVfeXFMTjBjX19iUl9Ua3U2c1IwcmhwQkRnTlIxVFRfM3Z6c0FYVnpFUXNmMURPaVVGUDhheE9ZcmR2UUFoMWhDN2NCX1ByaW5CelYtOTZVYTd3TlVxeVphQk0wN0lkUG9XTmJaVFpueWJPODVnOEkxSzczeXNJX05KVWVzZnFoQzhJWXdYQVFkTDZWbkFucGxVZGRwbkdCN2N3SnZlVi1hTjJfamc4T1hJZWtIMmEySWNOUHRQMFhn?oc=5)
 
 ---
 

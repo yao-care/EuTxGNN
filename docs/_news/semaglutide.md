@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（19 則）
+
+### [HbA1c is not the whole story: What doctors check to know if your diabetes is truly under control - The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb1NUNnNtWHlqYnAyTFFnWUkyVTFxZUcxdmotVkRTZjhXcDV0ejRiWTdqenpxYUFyZzQwZ1BvNHNCV3MwbU1Wd2pEaWo4OEJZazhOWWtZOHI3a2E0SDVBMkJWLThmdG13clBiNlQwdTNFTWV3ZDkzZ09taXpodVlLNXVld05NVFI2Y1ZaQmhKVl8zc05mQ2tvelNjVThaM3h3RkxLbms3MDBiOGwtd2JQUWxobU5IY2VwNWNPTnpESXdLdFBCY3dWVmxvMEpoYW1RVzNoTXdVM0dtbUhldWZYV19VTXltLU9ZbWlkNkJSZy00bksxRkHSAf4BQVVfeXFMT1J1bTkzVUtyUHlFb2oxWUJsNEtIUXhLa002QWFadnB0dFh4N09MQ0lMRWthbHhYVGhfZzNmSDI1OGxUUUVXRzRjTEkzLUN5YW1seWJIR2JKUjRMaEdvOXNRMkNCWkNWMy1oTUVsLWVhOU9IZWxFMzJFZnhvOVJwd3JBNkpQbnpYQUdiaU5ucEF1ZXZjN0hKemNDRjR5WnAweW0tcTFkbkZ3SkRnVndua0g5dTVldXNINVhiLWFZak13MF9KNlVTOTFtYlpXNHM2MDU2bThaSk1UTXA4VVVHTTZyYlgxQXhYajVra1JEcGI4UDhfdlByOTZaRHl0T3c?oc=5)
+
+2026-09-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb1NUNnNtWHlqYnAyTFFnWUkyVTFxZUcxdmotVkRTZjhXcDV0ejRiWTdqenpxYUFyZzQwZ1BvNHNCV3MwbU1Wd2pEaWo4OEJZazhOWWtZOHI3a2E0SDVBMkJWLThmdG13clBiNlQwdTNFTWV3ZDkzZ09taXpodVlLNXVld05NVFI2Y1ZaQmhKVl8zc05mQ2tvelNjVThaM3h3RkxLbms3MDBiOGwtd2JQUWxobU5IY2VwNWNPTnpESXdLdFBCY3dWVmxvMEpoYW1RVzNoTXdVM0dtbUhldWZYV19VTXltLU9ZbWlkNkJSZy00bksxRkHSAf4BQVVfeXFMT1J1bTkzVUtyUHlFb2oxWUJsNEtIUXhLa002QWFadnB0dFh4N09MQ0lMRWthbHhYVGhfZzNmSDI1OGxUUUVXRzRjTEkzLUN5YW1seWJIR2JKUjRMaEdvOXNRMkNCWkNWMy1oTUVsLWVhOU9IZWxFMzJFZnhvOVJwd3JBNkpQbnpYQUdiaU5ucEF1ZXZjN0hKemNDRjR5WnAweW0tcTFkbkZ3SkRnVndua0g5dTVldXNINVhiLWFZak13MF9KNlVTOTFtYlpXNHM2MDU2bThaSk1UTXA4VVVHTTZyYlgxQXhYajVra1JEcGI4UDhfdlByOTZaRHl0T3c?oc=5)
+
+---
+
+### [Dieta keto vs dieta mediterránea: qué funciona mejor según la ciencia](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJUdFRRQ2xHMlcxZzkxNGRlQi16dDZTT20zeDZLZ0E2dGtHejFnZTNKazJlaHJ4TEo1TmJ1dF9GaE10d3kwdHNxaXNPVlJzZmZCYjhzX1RKaXU5RlV4SkZUM2J4Q2RsV1Y4aGxfeEJKNVNtU09sXzVGZHVHelNIR2EwQlZlSzFHVGxubGpGNm1ReU1HOEtDVFNpMGlOOTkxVEVkejBtT0ZMYXpNOW5hZkhfR1A?oc=5)
+
+2026-09-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJUdFRRQ2xHMlcxZzkxNGRlQi16dDZTT20zeDZLZ0E2dGtHejFnZTNKazJlaHJ4TEo1TmJ1dF9GaE10d3kwdHNxaXNPVlJzZmZCYjhzX1RKaXU5RlV4SkZUM2J4Q2RsV1Y4aGxfeEJKNVNtU09sXzVGZHVHelNIR2EwQlZlSzFHVGxubGpGNm1ReU1HOEtDVFNpMGlOOTkxVEVkejBtT0ZMYXpNOW5hZkhfR1A?oc=5)
+
+---
 
 ### [Un estudio preclínico apunta que los agonistas del receptor GLP-1 podrían retrasar el envejecimiento](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGJfakVRYWNEOUdUd3I5cGZldmVmTVlfWEYyTUlBLVhYdE5Ud3VCUERuTDllMjZqUEFjbnhNemRKb1lUdVk3cEpySHFPSWxmaHRGcXR2T1VRNjlYeVdRd0U0ZGlFYU91Y2ZicGlNUXhvS01PN2IwckthaWJVNTFITVlVY0RRRXdrODE3T2U1YXpyd0hPT3VlUTF2RGxHcWJZbFkySmhDaHlIVTkyQVVzTU9yMEVyQXJ1UXBrTHhxaFlvdnJLYjhmMg?oc=5)
 
@@ -74,7 +90,7 @@ permalink: /news/semaglutide/
 
 2026-09-06 <span class="news-indication-tag">diabete</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPck9PdEVQUzJMV0hSU1p3ak02LTJNN3AyVlNzN3hVQWFHRVpOMWVmWXRFUHZYVjNkREVaY0hEdlpLNHdpaHVOVE1GY1RnZEtKZ2g3T29IWjN4R1ZjWHJSQkxjSER5Z3I5ZUUwMDFSbDk5aGxUNDg2dC1UWGhOcXBXbThGZkQ0WU0zeEhWeGVlT2JfbGtjSVZuUW8xMnhoWjByb3F0VGhtZWcxVDlRcF9zSTlVc0kyVGFiNmszUTNLd3FscTJjazlUVEVfZHFEb2Y1TTktQV9abC15dU5sRGxlend4S2JjU3VISHRzTA?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPck9PdEVQUzJMV0hSU1p3ak02LTJNN3AyVlNzN3hVQWFHRVpOMWVmWXRFUHZYVjNkREVaY0hEdlpLNHdpaHVOVE1GY1RnZEtKZ2g3T29IWjN4R1ZjWHJSQkxjSER5Z3I5ZUUwMDFSbDk5aGxUNDg2dC1UWGhOcXBXbThGZkQ0WU0zeEhWeGVlT2JfbGtjSVZuUW8xMnhoWjByb3F0VGhtZWcxVDlRcF9zSTlVc0kyVGFiNmszUTNLd3FscTJjazlUVEVfZHFEb2Y1TTktQV9abC15dU5sRGxlend4S2JjU3VISHRzTA?oc=5)
 
 ---
 
@@ -110,11 +126,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabète : le laboratoire Novo Nordisk annonce le retrait de 5 médicaments majeurs du diabète d'ici fin 2026](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
+### [Obesità: orforglipron riduce il peso fino al 9,6% in persone con diabete](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
 
-2026-09-04 <span class="news-indication-tag">diabète</span>
+2026-09-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[medisite.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkx3eGlUTlZOeEZxUU1aaVdyb2IwSkZwTlRXSGZnUzI1b1FvNFJqcFFSblZUdG9hVjRaRnRuZzAxV3ZtcmVGdGI5UDNBUWRTbUJRX2hyZDU2NkRjcWdtQjhwYm8zSGhpTFlkY1lWN0xUclJOZzE5UFBaUk5GTlF3dU81Z3JGUkdfeDc2ZFNYS1pQdmVFY3c5b2l4eVpDMm5BTERiT3F6RWF5S0F0ZFpmakJ2amxvWnpmTjhUNnFmclRYZzV3YWh4bmFoUThCVkRGbjNVNFZwSS1pbHJCcS1Z?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2IzZVZBdDZKSzhscmRBeXYtZWUzem9Ya2g3eXJiRzdSSFVJRVRhVVF5UjdOdjQtazdXZDdfS3FpeWJwUlBuaURaeDBfd1Q2XzVkTVlZSjdqb3RaZ2JsTVZLRzYwcy1rNnFUZW80STZBcUxCUlJhME5pR2FxOXd4SHVwY0gxNFlZbjdESklQclZFYWQtTnM1V0hqcDFpRHJhS0hsN1N0bmRyU0x5clZBWjhncw?oc=5)
 
 ---
 
@@ -122,7 +138,7 @@ permalink: /news/semaglutide/
 
 2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 ---
 
@@ -134,11 +150,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Keine Versorgungsgerechtigkeit bei stationärer Diabetes-Behandlung](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+### [Diabetes drug metformin could be repurposed to help slow aging mechanisms - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOVW4xLTJDOTJMWWlRUWRlWkJUZWVwaG1VVk9NTHN2QnpWS3ZtMjdwS3BIMFJBMkhuSTZJMklBdWxVbFRTX3JWLTZ5TG9WMllCY3hFdmRCalRmZXN1TFBKT3NfM0hIV1VLcHNqdGxSQmJDUk9rMTBBNDRWa2lIS013WDQ2R29nS3B2SkxEYg?oc=5)
 
-2026-09-03 <span class="news-indication-tag">diabetes</span>
+2026-09-03 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOVW4xLTJDOTJMWWlRUWRlWkJUZWVwaG1VVk9NTHN2QnpWS3ZtMjdwS3BIMFJBMkhuSTZJMklBdWxVbFRTX3JWLTZ5TG9WMllCY3hFdmRCalRmZXN1TFBKT3NfM0hIV1VLcHNqdGxSQmJDUk9rMTBBNDRWa2lIS013WDQ2R29nS3B2SkxEYg?oc=5)
 
 ---
 
@@ -146,7 +162,7 @@ permalink: /news/semaglutide/
 
 2026-09-02 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IM0lmbkJEeFExQjhQM0FhR1daVDRjSml1X3ZpQjhCNVg1RF91Q3M3VkU5QWg5RHpVMk1RS2I4c2VJWWhWLXFweXp2Y0QtVWt1SzFHeWlMYnlTa09vV1cw?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IM0lmbkJEeFExQjhQM0FhR1daVDRjSml1X3ZpQjhCNVg1RF91Q3M3VkU5QWg5RHpVMk1RS2I4c2VJWWhWLXFweXp2Y0QtVWt1SzFHeWlMYnlTa09vV1cw?oc=5)
 
 ---
 
@@ -166,11 +182,27 @@ permalink: /news/semaglutide/
 
 ---
 
-### ['I was one of the first on Wegovy weight loss pill - the effects have been big'](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
+### [El número de personas con diabetes tipo 1 aumentará un 29% en todo el mundo para 2049](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVl1b0FiVGE2Tmtic01WeXdBT1Y0aC13Z285SjBtOExtWnB1WTl6YmNHb09RZXc2MHVpc2F3SVN2enhEOGs0dmJGVXNPX1BvdTZwUVBjUllja3VtWEFOMEprTGNqaUE0elZFSXN1OGxyTTY5NUFCZXRiUnFuelhvQ0N5OXdzR0NkYWVxbDMtbDRUMGpKRjh5Y2tqSFFYWmcxV0E?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVl1b0FiVGE2Tmtic01WeXdBT1Y0aC13Z285SjBtOExtWnB1WTl6YmNHb09RZXc2MHVpc2F3SVN2enhEOGs0dmJGVXNPX1BvdTZwUVBjUllja3VtWEFOMEprTGNqaUE0elZFSXN1OGxyTTY5NUFCZXRiUnFuelhvQ0N5OXdzR0NkYWVxbDMtbDRUMGpKRjh5Y2tqSFFYWmcxV0E?oc=5)
+
+---
+
+### [Zu hoher Blutzucker: Diese Symptome sind laut Experten Warnzeichen für Diabetes - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
+
+2026-08-31 <span class="news-indication-tag">diabetes</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RpdDNiaGRyTHNZalNsbFBhcmN1T2g0MU5fWVh5bFhmWmppaDR3WTdJczduMzU3dEJTOWNJRHR0Z1BoZmxRNFZSdTZvOFFCUXNoZHA1LUVjUHdxYmZYVjhhVkt6OTRFaXhWTEZySWw0VUhRU1hub0VtRkcyLVZIOVRNeGJMOThpdVBFS1g2cFBaX1RSQUJadWZ1Z29iYk5GRmc?oc=5)
+
+---
+
+### ['I was one of the first on Wegovy weight loss pill - the effects have been big' - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
 
 2026-08-31 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MUHpkY0xDZnZYT3NBNEtUMTV2dXBMMVdiTk1IVnJMbFRZYW8wOVdyVTJLTExJYzFKa2lhMmRna1RvMEJoaFI5QmlyZk5SYUFPcnhpcjlmR2JoYjBoeFhkSS1Cc3hjQ2hzM2R1SWNCc3A4amRGSDhFNWFXZ9IBgAFBVV95cUxQWW9Lck8xUkFUTGpsRC1qQzZaNUtXVUdvWkhlUV9SeWVVZjEwNGdMSHF3d2NZaE4zeEtHRVhFR1BaX0xOQ19JWXZ1c1JLQl9LY09WelA5Y1Q1SlppakRMNndfeHJuNHVqSWNIaDJ1Um54X0Y3TnJKNkIzWU45ZlIwUA?oc=5)
 
 ---
 
