@@ -14,7 +14,7 @@ permalink: /news/ublituximab/
 ---
 
 <p class="key-answer" data-question="Ublituximab 有什麼相關新聞？">
-<strong>Ublituximab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ublituximab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ublituximab/
 <p><a href="{{ '/drugs/ublituximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
-### [Vermeiden Sie diese drei Risikofaktoren, und Sie leben zwölf Jahre länger ohne Demenz](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
-
----
-
-### [Gestationsdiabetes: Kardiometabolische Risiken langfristig erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
+### [Typ-2-Diabetes: Frauen entwickeln psychische Probleme 50% häufiger - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
 
 ---
 
@@ -118,11 +110,19 @@ permalink: /news/ublituximab/
 
 ---
 
-### [Diabete, due farmaci molto usati non sembrano equivalenti per il rischio di fibrillazione atriale](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPck9PdEVQUzJMV0hSU1p3ak02LTJNN3AyVlNzN3hVQWFHRVpOMWVmWXRFUHZYVjNkREVaY0hEdlpLNHdpaHVOVE1GY1RnZEtKZ2g3T29IWjN4R1ZjWHJSQkxjSER5Z3I5ZUUwMDFSbDk5aGxUNDg2dC1UWGhOcXBXbThGZkQ0WU0zeEhWeGVlT2JfbGtjSVZuUW8xMnhoWjByb3F0VGhtZWcxVDlRcF9zSTlVc0kyVGFiNmszUTNLd3FscTJjazlUVEVfZHFEb2Y1TTktQV9abC15dU5sRGxlend4S2JjU3VISHRzTA?oc=5)
+### [Alzheimer verändert das Gehirn sieben Jahre vor den ersten Ablagerungen - Forschung und Wissen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmJKbEhVTkN0R0QtMDltRlo2bFNoNk1HdWoybWxJS2c1d0pnbjNNQUdDT1NsV0FOc2hFdi13X1JVTEltWUR5bUFyZWk4alQxYlBqUmtBLVZkQjdTOTI5bXlYTUd4NmlCTzFKTTJRazYwMGk4TEd4dEpHSHpzTGV3M0lDdXRTU3JTdUNnWHM4QWY2blJPUFhGWVUyVjFZTFd5eDZESXljTlF2SFZvYURuRnIzOTJhdTZtdzQ3VlV6Y1BqNjN3OW1kTm9UeWpFRjhuWVV6QQ?oc=5)
 
-2026-09-06 <span class="news-indication-tag">diabete</span>
+2026-09-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPck9PdEVQUzJMV0hSU1p3ak02LTJNN3AyVlNzN3hVQWFHRVpOMWVmWXRFUHZYVjNkREVaY0hEdlpLNHdpaHVOVE1GY1RnZEtKZ2g3T29IWjN4R1ZjWHJSQkxjSER5Z3I5ZUUwMDFSbDk5aGxUNDg2dC1UWGhOcXBXbThGZkQ0WU0zeEhWeGVlT2JfbGtjSVZuUW8xMnhoWjByb3F0VGhtZWcxVDlRcF9zSTlVc0kyVGFiNmszUTNLd3FscTJjazlUVEVfZHFEb2Y1TTktQV9abC15dU5sRGxlend4S2JjU3VISHRzTA?oc=5)
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmJKbEhVTkN0R0QtMDltRlo2bFNoNk1HdWoybWxJS2c1d0pnbjNNQUdDT1NsV0FOc2hFdi13X1JVTEltWUR5bUFyZWk4alQxYlBqUmtBLVZkQjdTOTI5bXlYTUd4NmlCTzFKTTJRazYwMGk4TEd4dEpHSHpzTGV3M0lDdXRTU3JTdUNnWHM4QWY2blJPUFhGWVUyVjFZTFd5eDZESXljTlF2SFZvYURuRnIzOTJhdTZtdzQ3VlV6Y1BqNjN3OW1kTm9UeWpFRjhuWVV6QQ?oc=5)
+
+---
+
+### [Diabetes: Ginseng-Inhaltsstoffe zeigt therapeutischen Nutzen](https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1ExR1kycktfUF93SFU3aG53dkNsU3phQlFrOVNBZkFtcGJLT3J1MzRVd1JqcC1ENG1OR1dRUlV3aVhDaFM5SUJvbFkxanB0bDFuUlp1Uk1aeDdUb2czMXFydEh0b1A0RVB3dVZrWmtuTzZ3cEdNa090VDAtSUF3WFpMbGxQX1gybkJPaDJwdE4wQkcwNFFlZHZmNWdscDlVRVJqbU5PX1dDbzB0dkdTSHdmUURmMFRYS1lmbA?oc=5)
+
+2026-09-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1ExR1kycktfUF93SFU3aG53dkNsU3phQlFrOVNBZkFtcGJLT3J1MzRVd1JqcC1ENG1OR1dRUlV3aVhDaFM5SUJvbFkxanB0bDFuUlp1Uk1aeDdUb2czMXFydEh0b1A0RVB3dVZrWmtuTzZ3cEdNa090VDAtSUF3WFpMbGxQX1gybkJPaDJwdE4wQkcwNFFlZHZmNWdscDlVRVJqbU5PX1dDbzB0dkdTSHdmUURmMFRYS1lmbA?oc=5)
 
 ---
 
@@ -131,14 +131,6 @@ permalink: /news/ublituximab/
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
-
----
-
-### [Un medicamento contra la diabetes muestra un beneficio inesperado tras el implante de una válvula cardíaca: mejora el pronóstico más allá de la función del corazón - El Economista](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
 
 ---
 

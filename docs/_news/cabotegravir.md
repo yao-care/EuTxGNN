@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（16 則）
 
-### [Vermeiden Sie diese drei Risikofaktoren, und Sie leben zwölf Jahre länger ohne Demenz](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
-
----
-
-### [Lachen gegen Luftnot: Studie zeigt, wie eine Lachtherapie bei COPD helfen kann](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElMYzZiRUdfMS1tN3Z2UXVGS0dWLVY5bDlSMUVRMlRkQllDdktGVTJYVVFpMmNrWU52Vm92WUZYV0cxZ3k0dENrQXMyRTFwLURGZnY0MGh1RjBWSHY0eW9DYkRURlhDMzJqdkN2aGZNYmRBd3p3V1FtOUhWTWRMOFRsN3lnX1J2dmQ5TTVZby1mX3E2OURyWEZIcTVDWlMzOWNGTlRET3dVOFZyZThvdWYzQVdUSkhuclRrdg?oc=5)
-
-2026-09-07 <span class="news-indication-tag">copd</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElMYzZiRUdfMS1tN3Z2UXVGS0dWLVY5bDlSMUVRMlRkQllDdktGVTJYVVFpMmNrWU52Vm92WUZYV0cxZ3k0dENrQXMyRTFwLURGZnY0MGh1RjBWSHY0eW9DYkRURlhDMzJqdkN2aGZNYmRBd3p3V1FtOUhWTWRMOFRsN3lnX1J2dmQ5TTVZby1mX3E2OURyWEZIcTVDWlMzOWNGTlRET3dVOFZyZThvdWYzQVdUSkhuclRrdg?oc=5)
-
----
-
-### [Gestationsdiabetes: Kardiometabolische Risiken langfristig erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
+### [Typ-2-Diabetes: Frauen entwickeln psychische Probleme 50% häufiger - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
+
+---
+
+### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
+
+2026-09-07 <span class="news-indication-tag">artritis</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
+
+---
+
+### [A single IV treatment retrains immune cells to fight autoimmune diseases in early trial - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBROEw5aUJZS0k3LTNtRmhZbUFEckdENEd0M3dpUkFYTk9zX3Q2R1F1bHAyMkZkWmpycEJodnhteTI0cmFORE1VM3plZGdqNF9FeE5BdmpTMmV5aVhmTzFMb21LX0NFdzJfeHUtWWZ3M2dmOG1mcFc1d29sS2EwREFXWGw?oc=5)
+
+2026-09-07 <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBROEw5aUJZS0k3LTNtRmhZbUFEckdENEd0M3dpUkFYTk9zX3Q2R1F1bHAyMkZkWmpycEJodnhteTI0cmFORE1VM3plZGdqNF9FeE5BdmpTMmV5aVhmTzFMb21LX0NFdzJfeHUtWWZ3M2dmOG1mcFc1d29sS2EwREFXWGw?oc=5)
 
 ---
 
@@ -102,19 +102,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
-
-2026-09-07 <span class="news-indication-tag">artritis</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
-
----
-
 ### [Wenn ADHS auf Diabetes trifft: Experten geben Tipps für betroffene Kinder - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzcyNl9CTG0tQUEtbkh2SDdEWE5IRmNvNTg4WkM0QkNuRkR5SVFRZ1VETExneVVOUUl3bnhxVzFXT0xDb0RPSnN2LW4yVkZZY0NsY2pydzBZWHFCV3hNbjJXSVVxSHJZbFAwU2lubmxZV3BVaWh2eTNoaGFoN19PR1ZERzJqbGR1dGJUSDI4eHZCYVZ2MWVEeHNhaHNOVTVkdWtkemdXSFdHZVhJeW5WeXZWRHlzLXJzR1p2OF9kSGdxWGRpWkE?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzcyNl9CTG0tQUEtbkh2SDdEWE5IRmNvNTg4WkM0QkNuRkR5SVFRZ1VETExneVVOUUl3bnhxVzFXT0xDb0RPSnN2LW4yVkZZY0NsY2pydzBZWHFCV3hNbjJXSVVxSHJZbFAwU2lubmxZV3BVaWh2eTNoaGFoN19PR1ZERzJqbGR1dGJUSDI4eHZCYVZ2MWVEeHNhaHNOVTVkdWtkemdXSFdHZVhJeW5WeXZWRHlzLXJzR1p2OF9kSGdxWGRpWkE?oc=5)
+
+---
+
+### [Polyarthrite rhumatoïde : trois patients en rémission grâce à ce nouveau traitement](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTZZcmFFRGUzSWZFU21qV0lVN20yTVlkcTNKNkxoS3NJTWExeDd5UW5hYnFIUmtxaHRkR1hxOHkxZllNUU1ibkx5dUlQUjdia2Z1ZUNxWnlxcF85TVNpU3NLODVmUVlWSjlOQ2dxV2JUVEZOTGZIU0pOTDczbS1YZGZfb240TEQtS0IyVw?oc=5)
+
+2026-09-07 <span class="news-indication-tag">arthrite</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTZZcmFFRGUzSWZFU21qV0lVN20yTVlkcTNKNkxoS3NJTWExeDd5UW5hYnFIUmtxaHRkR1hxOHkxZllNUU1ibkx5dUlQUjdia2Z1ZUNxWnlxcF85TVNpU3NLODVmUVlWSjlOQ2dxV2JUVEZOTGZIU0pOTDczbS1YZGZfb240TEQtS0IyVw?oc=5)
 
 ---
 
@@ -134,11 +134,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Laughter could be best medicine for lung disease patients - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+### [Alzheimer verändert das Gehirn sieben Jahre vor den ersten Ablagerungen - Forschung und Wissen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmJKbEhVTkN0R0QtMDltRlo2bFNoNk1HdWoybWxJS2c1d0pnbjNNQUdDT1NsV0FOc2hFdi13X1JVTEltWUR5bUFyZWk4alQxYlBqUmtBLVZkQjdTOTI5bXlYTUd4NmlCTzFKTTJRazYwMGk4TEd4dEpHSHpzTGV3M0lDdXRTU3JTdUNnWHM4QWY2blJPUFhGWVUyVjFZTFd5eDZESXljTlF2SFZvYURuRnIzOTJhdTZtdzQ3VlV6Y1BqNjN3OW1kTm9UeWpFRjhuWVV6QQ?oc=5)
 
-2026-09-07 <span class="news-indication-tag">copd</span>
+2026-09-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmJKbEhVTkN0R0QtMDltRlo2bFNoNk1HdWoybWxJS2c1d0pnbjNNQUdDT1NsV0FOc2hFdi13X1JVTEltWUR5bUFyZWk4alQxYlBqUmtBLVZkQjdTOTI5bXlYTUd4NmlCTzFKTTJRazYwMGk4TEd4dEpHSHpzTGV3M0lDdXRTU3JTdUNnWHM4QWY2blJPUFhGWVUyVjFZTFd5eDZESXljTlF2SFZvYURuRnIzOTJhdTZtdzQ3VlV6Y1BqNjN3OW1kTm9UeWpFRjhuWVV6QQ?oc=5)
 
 ---
 
@@ -150,14 +150,6 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
-2026-09-06 <span class="news-indication-tag">arthrite</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
----
-
 ### [Artrite reumatoide, il cuore non è condannato: nove fattori possono cambiare profondamente il rischio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 2026-09-06 <span class="news-indication-tag">artrite</span>
@@ -166,11 +158,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Diabete, due farmaci molto usati non sembrano equivalenti per il rischio di fibrillazione atriale](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPck9PdEVQUzJMV0hSU1p3ak02LTJNN3AyVlNzN3hVQWFHRVpOMWVmWXRFUHZYVjNkREVaY0hEdlpLNHdpaHVOVE1GY1RnZEtKZ2g3T29IWjN4R1ZjWHJSQkxjSER5Z3I5ZUUwMDFSbDk5aGxUNDg2dC1UWGhOcXBXbThGZkQ0WU0zeEhWeGVlT2JfbGtjSVZuUW8xMnhoWjByb3F0VGhtZWcxVDlRcF9zSTlVc0kyVGFiNmszUTNLd3FscTJjazlUVEVfZHFEb2Y1TTktQV9abC15dU5sRGxlend4S2JjU3VISHRzTA?oc=5)
+### [Diabetes: Ginseng-Inhaltsstoffe zeigt therapeutischen Nutzen](https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1ExR1kycktfUF93SFU3aG53dkNsU3phQlFrOVNBZkFtcGJLT3J1MzRVd1JqcC1ENG1OR1dRUlV3aVhDaFM5SUJvbFkxanB0bDFuUlp1Uk1aeDdUb2czMXFydEh0b1A0RVB3dVZrWmtuTzZ3cEdNa090VDAtSUF3WFpMbGxQX1gybkJPaDJwdE4wQkcwNFFlZHZmNWdscDlVRVJqbU5PX1dDbzB0dkdTSHdmUURmMFRYS1lmbA?oc=5)
 
-2026-09-06 <span class="news-indication-tag">diabete</span>
+2026-09-06 <span class="news-indication-tag">diabetes</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPck9PdEVQUzJMV0hSU1p3ak02LTJNN3AyVlNzN3hVQWFHRVpOMWVmWXRFUHZYVjNkREVaY0hEdlpLNHdpaHVOVE1GY1RnZEtKZ2g3T29IWjN4R1ZjWHJSQkxjSER5Z3I5ZUUwMDFSbDk5aGxUNDg2dC1UWGhOcXBXbThGZkQ0WU0zeEhWeGVlT2JfbGtjSVZuUW8xMnhoWjByb3F0VGhtZWcxVDlRcF9zSTlVc0kyVGFiNmszUTNLd3FscTJjazlUVEVfZHFEb2Y1TTktQV9abC15dU5sRGxlend4S2JjU3VISHRzTA?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1ExR1kycktfUF93SFU3aG53dkNsU3phQlFrOVNBZkFtcGJLT3J1MzRVd1JqcC1ENG1OR1dRUlV3aVhDaFM5SUJvbFkxanB0bDFuUlp1Uk1aeDdUb2czMXFydEh0b1A0RVB3dVZrWmtuTzZ3cEdNa090VDAtSUF3WFpMbGxQX1gybkJPaDJwdE4wQkcwNFFlZHZmNWdscDlVRVJqbU5PX1dDbzB0dkdTSHdmUURmMFRYS1lmbA?oc=5)
 
 ---
 
@@ -179,14 +171,6 @@ permalink: /news/cabotegravir/
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
-
----
-
-### [Un medicamento contra la diabetes muestra un beneficio inesperado tras el implante de una válvula cardíaca: mejora el pronóstico más allá de la función del corazón - El Economista](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcDBlVTQwNnQwd180QVczb01fdDkwZkl4cVM2T0d2NURSMGI5VjhkVmdJWjQ2TmRwX1NpMVF2bl9QYjhOZHczc25WQ1cyc2FuSUF2cWN6Nml6Z1lXbF9XcUlzTnFRSjR5ZUI2QnR2cjltcGJVTVNESDI3S1pMdGdfYTBTVlgzVlQ0M1UzY2ljN0lsZEtVX19TQmVRRHVlTmUwaldLYTJ3UGpuc2xlTVJud3g0d1NkcnVBSE12cDE4NkNYSVBaQklJWWJzRUlUQ0hvNWJfNzVTSjlyWmVzS2w2TkVyRGZ2MkRudjROdTNPS21kX0RrckhESm9PdmgxNVphbi1aVVJXSzQzVzVfNHlTV3JFbnNEYWtxNEMydTlONnhzZ3B2ZUdNRXNPZmFsMS1VWnh6ZDFZOW1Sb1g3R0wzcG5KSVpoWVVHRHplTUdJcXcyanIxaWV6TnpHSjVaTFNJMDBpdGtCSQ?oc=5)
 
 ---
 

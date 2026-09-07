@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
-### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
+### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
 
 2026-09-07 <span class="news-indication-tag">artritis</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
 
 ---
 
-### [Britain's 'overprescribing epidemic' sends 1,000 elderly people a day to A&E](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXFTbHdRWFNmbHhIbWI3RkEwVHlCWWdOckNjTS0yMmhsM1RRTjNJR3BhNlVJQWE5U0p2ZFBFd0ltZGF0dU54Y05hWm4zbWpsTXgwU3VjUUkzMXhlYkEwbXFzdU9TeEJFQUkzSGlaUHV3RU9ELTZEUU9sVHA1NnUtRi05eUlfaHVTbDQySEwwT0stR2t4WlFSeE1JMGhHQVFXOGc?oc=5)
+### [A single IV treatment retrains immune cells to fight autoimmune diseases in early trial - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBROEw5aUJZS0k3LTNtRmhZbUFEckdENEd0M3dpUkFYTk9zX3Q2R1F1bHAyMkZkWmpycEJodnhteTI0cmFORE1VM3plZGdqNF9FeE5BdmpTMmV5aVhmTzFMb21LX0NFdzJfeHUtWWZ3M2dmOG1mcFc1d29sS2EwREFXWGw?oc=5)
+
+2026-09-07 <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBROEw5aUJZS0k3LTNtRmhZbUFEckdENEd0M3dpUkFYTk9zX3Q2R1F1bHAyMkZkWmpycEJodnhteTI0cmFORE1VM3plZGdqNF9FeE5BdmpTMmV5aVhmTzFMb21LX0NFdzJfeHUtWWZ3M2dmOG1mcFc1d29sS2EwREFXWGw?oc=5)
+
+---
+
+### [Auch Ibuprofen: Hausarzt nennt vier gängige Medikamente, die Albträume auslösen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmxMd05GSlZxRXAyV0pfQkJ3T3pJZzREUWVobzNVTWJZN2l2WDBaTXQ0czVEVC0zemk2R2k2cUp3T0NxbFk0R2Q4dTl0RGFaODdnYW1BS3VqRXFKeG1uMTl1TXZLbk96U3JLRThGeDl6eDEzZFh2bER0bnRLVEhRVjk2UHpqRm5ZMW1fb1Rqd0ZmYUJ6ZXRYQkJLSG1iNC1LTFRQdE8xVU1XZzdxTjJmMklKbw?oc=5)
+
+2026-09-07 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmxMd05GSlZxRXAyV0pfQkJ3T3pJZzREUWVobzNVTWJZN2l2WDBaTXQ0czVEVC0zemk2R2k2cUp3T0NxbFk0R2Q4dTl0RGFaODdnYW1BS3VqRXFKeG1uMTl1TXZLbk96U3JLRThGeDl6eDEzZFh2bER0bnRLVEhRVjk2UHpqRm5ZMW1fb1Rqd0ZmYUJ6ZXRYQkJLSG1iNC1LTFRQdE8xVU1XZzdxTjJmMklKbw?oc=5)
+
+---
+
+### [Polyarthrite rhumatoïde : trois patients en rémission grâce à ce nouveau traitement](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTZZcmFFRGUzSWZFU21qV0lVN20yTVlkcTNKNkxoS3NJTWExeDd5UW5hYnFIUmtxaHRkR1hxOHkxZllNUU1ibkx5dUlQUjdia2Z1ZUNxWnlxcF85TVNpU3NLODVmUVlWSjlOQ2dxV2JUVEZOTGZIU0pOTDczbS1YZGZfb240TEQtS0IyVw?oc=5)
+
+2026-09-07 <span class="news-indication-tag">arthrite</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTZZcmFFRGUzSWZFU21qV0lVN20yTVlkcTNKNkxoS3NJTWExeDd5UW5hYnFIUmtxaHRkR1hxOHkxZllNUU1ibkx5dUlQUjdia2Z1ZUNxWnlxcF85TVNpU3NLODVmUVlWSjlOQ2dxV2JUVEZOTGZIU0pOTDczbS1YZGZfb240TEQtS0IyVw?oc=5)
+
+---
+
+### [Britain's 'overprescribing epidemic' sends 1,000 elderly people a day to A&E - GB News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXFTbHdRWFNmbHhIbWI3RkEwVHlCWWdOckNjTS0yMmhsM1RRTjNJR3BhNlVJQWE5U0p2ZFBFd0ltZGF0dU54Y05hWm4zbWpsTXgwU3VjUUkzMXhlYkEwbXFzdU9TeEJFQUkzSGlaUHV3RU9ELTZEUU9sVHA1NnUtRi05eUlfaHVTbDQySEwwT0stR2t4WlFSeE1JMGhHQVFXOGc?oc=5)
 
 2026-09-07 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Ibuprofen</span>
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXFTbHdRWFNmbHhIbWI3RkEwVHlCWWdOckNjTS0yMmhsM1RRTjNJR3BhNlVJQWE5U0p2ZFBFd0ltZGF0dU54Y05hWm4zbWpsTXgwU3VjUUkzMXhlYkEwbXFzdU9TeEJFQUkzSGlaUHV3RU9ELTZEUU9sVHA1NnUtRi05eUlfaHVTbDQySEwwT0stR2t4WlFSeE1JMGhHQVFXOGc?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXFTbHdRWFNmbHhIbWI3RkEwVHlCWWdOckNjTS0yMmhsM1RRTjNJR3BhNlVJQWE5U0p2ZFBFd0ltZGF0dU54Y05hWm4zbWpsTXgwU3VjUUkzMXhlYkEwbXFzdU9TeEJFQUkzSGlaUHV3RU9ELTZEUU9sVHA1NnUtRi05eUlfaHVTbDQySEwwT0stR2t4WlFSeE1JMGhHQVFXOGc?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/ibuprofen/
 2026-09-06 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWx4dEZ4U0hkdlRlZkVXQVFCbExPWWM4Z1RUVlFCNjZ4SzV6b2NaUUhHOENJY0hNMFZhaG80YUlhZWlkYnlxZXV2Q3UxMVFQRGd2TWtra2RrWUhILVdUSndPMzlTZi1Hc1U3dS1qX3hCekRLN3RXRk5lX3BpTnZ0Y0VBam05M2RsTVJ1WktDSm02R1U0RXJDS0Z2dkU5emFpWUpVdkpoa3hGOS1CTFhoUlVaZXlHY0JVNmV3WmgxT3lEQlpfT1F5b0hRWUI0X0dXTHdYcDdrQ2RmdU1CTWZmVkJiUzRPSnVnQkxvVnZYa05mWDNFYmNN?oc=5)
-
----
-
-### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
-2026-09-06 <span class="news-indication-tag">arthrite</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
 
 ---
 

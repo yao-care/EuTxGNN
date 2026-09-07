@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（24 則）
 
-### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+### [Bovine TB: Gaps in evidence about impact of vaccinating badgers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TYW03UGFWSV9IYU9ZaWhxbENyRHBkTkxKWndpSWhWZ0htekhQQ0ZIUVJQSXB4b2dJT3VudFB4OGtKWlNMQlYwRy1DYVg4XzZFcnlkN3JCLUk1UXBs?oc=5)
 
-2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-07 <span class="news-indication-tag">MS</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TYW03UGFWSV9IYU9ZaWhxbENyRHBkTkxKWndpSWhWZ0htekhQQ0ZIUVJQSXB4b2dJT3VudFB4OGtKWlNMQlYwRy1DYVg4XzZFcnlkN3JCLUk1UXBs?oc=5)
+
+---
+
+### [Santé sexuelle : le ministère de la santé a présenté sa feuille de route pour 2026-2030 - Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUlFYSTNWWk5PRWYyMkZ2c3piMEIwTE5ONXZhSUdJUnZoLVRHNGRUMmJDeHBqU0ViZ2ZtZkxkazVzcUdCbXNWVS12LWtZQ2g5UmI0NEtNT1Uzdi1tdG1sVlptSnhDNXdOMkNNblpSdDVYaWhKWS0yN1hRRkw5b0FOZnp0dGhWdUY0LXgzZzZBak1seHQ4X2tVUjFxQTRvTGtBYURweFlHTW1GUTJ0akgyNXlkMTFodkg3VGtxUjY0ZDc3aWJvYzdCcUR0ZEwyTUMxeTRXOXNYbTBpai1FeDd6clk5X1ByeG5B?oc=5)
+
+2026-09-07 <span class="news-indication-tag">MS</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUlFYSTNWWk5PRWYyMkZ2c3piMEIwTE5ONXZhSUdJUnZoLVRHNGRUMmJDeHBqU0ViZ2ZtZkxkazVzcUdCbXNWVS12LWtZQ2g5UmI0NEtNT1Uzdi1tdG1sVlptSnhDNXdOMkNNblpSdDVYaWhKWS0yN1hRRkw5b0FOZnp0dGhWdUY0LXgzZzZBak1seHQ4X2tVUjFxQTRvTGtBYURweFlHTW1GUTJ0akgyNXlkMTFodkg3VGtxUjY0ZDc3aWJvYzdCcUR0ZEwyTUMxeTRXOXNYbTBpai1FeDd6clk5X1ByeG5B?oc=5)
+
+---
+
+### [No place on Covid memorial wall for teenager who killed himself during lockdown - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2I4WWpvSFN2d2lVQzRpakpCLUV3M05xbEY1dW9LdXFPVHZ2aWZna21QZ1NuZF9YdzFITFByYjVuZExYLXRmbmpkNnJSdEdKTXZTWW9QV0F5R0VGLWo4c3FIM1BRejBhdVFINGNlMlZkU2VpVzhBUUN0RkpYZHdaTkFaZmkwaVRWZkFXeFhRelhqY1dOSnBnWTJzSjk?oc=5)
+
+2026-09-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2I4WWpvSFN2d2lVQzRpakpCLUV3M05xbEY1dW9LdXFPVHZ2aWZna21QZ1NuZF9YdzFITFByYjVuZExYLXRmbmpkNnJSdEdKTXZTWW9QV0F5R0VGLWo4c3FIM1BRejBhdVFINGNlMlZkU2VpVzhBUUN0RkpYZHdaTkFaZmkwaVRWZkFXeFhRelhqY1dOSnBnWTJzSjk?oc=5)
+
+---
+
+### [Quanto ereditiamo del nostro carattere - Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
+
+2026-09-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
+
+---
+
+### [Sclerosi multipla, non è solo il sistema immunitario: due maxi-studi puntano anche sui neuroni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHgyQVhsbElLT2ppNHVYSVZGakJSOFBTQm5Ia3pvUkxNUkhIRUhrM2RWVXJROGhUNTZxYnBPN1VWdGM2TUExNjZGcmdJLXBmaFRxb3BEV2JOdXZkMGdmdi1qalN4UGY4RWExNVg3b1VWLVQxMzBzSzhzbHZmTUpZblMtQUMzbHNtV0dfVW41Skd0M2V2Sm56SFBJdHNEb1FDdjZUSldrMDR3RnFDOVhrQU5kRWk3Tzl4OXhqUVlvbFVFVTI0OWhJNXlac1E4R2NiLXluSnJnUFVJNnA5SFdnaG9Xem9fUnc?oc=5)
+
+2026-09-07 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHgyQVhsbElLT2ppNHVYSVZGakJSOFBTQm5Ia3pvUkxNUkhIRUhrM2RWVXJROGhUNTZxYnBPN1VWdGM2TUExNjZGcmdJLXBmaFRxb3BEV2JOdXZkMGdmdi1qalN4UGY4RWExNVg3b1VWLVQxMzBzSzhzbHZmTUpZblMtQUMzbHNtV0dfVW41Skd0M2V2Sm56SFBJdHNEb1FDdjZUSldrMDR3RnFDOVhrQU5kRWk3Tzl4OXhqUVlvbFVFVTI0OWhJNXlac1E4R2NiLXluSnJnUFVJNnA5SFdnaG9Xem9fUnc?oc=5)
 
 ---
 
@@ -70,11 +102,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Oltre il colore degli occhi: 5 cose incredibili sul tuo carattere che sono scritte nel DNA](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yMWVaR1JMWGxvUm9kTk9MVlVPMzlvWjY4dVJ2eVdBVXYwUloybnl6ekZsTF9WOW94aGZyNHZTeGxhb0YxZktBWXB1SDVxSFp0QndvUGFPZVpIbVZGaDdINS1RTFl2QQ?oc=5)
+### [Los equipos funerarios del ébola en Congo enfrentan ira, fatiga y miedo al contagio - AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3B2LU9MUUVKbGtJdEtab3V0MkxhemhJZFhUa3JhcWRmQmhVckluY0FxVl9WNmlwclM4OVpsUFFQT3FkZ1l0VjVwUENkbjRWNzRZVGVBS2lJNUhRVEROZk9iYVJ0SXBzbGdNSjhoSVRDX3JyM1lJblpmNGEyMmFOZzlOTWl4QmQxRzlIV3lIaUxOaDhFS0ZLZ2NySWZfNXo5MWc?oc=5)
 
 2026-09-07 <span class="news-indication-tag">MS</span>
 
-來源：[Studenti.it](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yMWVaR1JMWGxvUm9kTk9MVlVPMzlvWjY4dVJ2eVdBVXYwUloybnl6ekZsTF9WOW94aGZyNHZTeGxhb0YxZktBWXB1SDVxSFp0QndvUGFPZVpIbVZGaDdINS1RTFl2QQ?oc=5)
+來源：[AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3B2LU9MUUVKbGtJdEtab3V0MkxhemhJZFhUa3JhcWRmQmhVckluY0FxVl9WNmlwclM4OVpsUFFQT3FkZ1l0VjVwUENkbjRWNzRZVGVBS2lJNUhRVEROZk9iYVJ0SXBzbGdNSjhoSVRDX3JyM1lJblpmNGEyMmFOZzlOTWl4QmQxRzlIV3lIaUxOaDhFS0ZLZ2NySWZfNXo5MWc?oc=5)
+
+---
+
+### [Pedro Zapater, catedrático de farmacología: “El gran problema con los suplementos naturales es que no suelen pasar los mismos controles de calidad y de seguridad que los medicamentos”](https://news.google.com/rss/articles/CBMiqwJBVV95cUxObG5xamw5UWdZdGNRZmhVVWxSa0tGMWxjN3hkcDdSQ1B5bDRldzZfeXU1SUdYSmlqMWdXckp5OHdvTHFtakhnX0Qwb2FETUdBcVZTYTRxTGVoeG4zUFY3X1FrVFc5aW1qbDBtdnBKTFhTenRFV3ZINXJRMF9taEljSkJFQjVYVTBwZUpmdTRId3U5c2txNkVWZXIyTWU3Q0txbWQ0QXBEdTExVzU4ZzN2TldLRUNkN20zZnhOUTdRdFdmRkFXeVQ0ZkFRVUJJRkFvMkw0T2VSS2JfdmZUc0hDV1ZDMHlxbGJpWkpVMkpwUC05ejA0MmxhMW1YZTBLZkxCTE1yX2pRa1FTRTVQeG5CLVJINEJEQWlSTnlrVHlsTHQtOHl3eno2UWx3UdIBsAJBVV95cUxNWEpWc1ExOWZxc2JJMURESUZOU1c4QUJaT2JoT2MyWVBzbURfWmJTVV9YRUs2bUswR2JiVTZkR05hS3FiTmdOY0l4T3dweDg5ZUx2WWlnWnZyQklRN1htbWtld2VweHlDU1F0dWdPRVdLWTlCcGNuTW9RNTJZZWtYSDdOcUNrZWxFZS15YUdyRE1hekhXTXZvOV81a21ISGVvaFdFR0dGT1NvRnp2TV9LRFdoV1VpbmVUMktkcXdvbWpRQkFiSmVheXd0MXltVXN4ZmxhX0FBSHFma2VpQWVodzZ0UzhPQXZZcTVubjZXb19WUDY4M3NocHBVcEliRnc0UHNONTNEUXNfeEh2SHk3ZkhuTHlnSmM5ZzV6dUpSYzhSNEdaY1ExQ1NkeVhPdEtm?oc=5)
+
+2026-09-07 <span class="news-indication-tag">MS</span>
+
+來源：[lavanguardia.com](https://news.google.com/rss/articles/CBMiqwJBVV95cUxObG5xamw5UWdZdGNRZmhVVWxSa0tGMWxjN3hkcDdSQ1B5bDRldzZfeXU1SUdYSmlqMWdXckp5OHdvTHFtakhnX0Qwb2FETUdBcVZTYTRxTGVoeG4zUFY3X1FrVFc5aW1qbDBtdnBKTFhTenRFV3ZINXJRMF9taEljSkJFQjVYVTBwZUpmdTRId3U5c2txNkVWZXIyTWU3Q0txbWQ0QXBEdTExVzU4ZzN2TldLRUNkN20zZnhOUTdRdFdmRkFXeVQ0ZkFRVUJJRkFvMkw0T2VSS2JfdmZUc0hDV1ZDMHlxbGJpWkpVMkpwUC05ejA0MmxhMW1YZTBLZkxCTE1yX2pRa1FTRTVQeG5CLVJINEJEQWlSTnlrVHlsTHQtOHl3eno2UWx3UdIBsAJBVV95cUxNWEpWc1ExOWZxc2JJMURESUZOU1c4QUJaT2JoT2MyWVBzbURfWmJTVV9YRUs2bUswR2JiVTZkR05hS3FiTmdOY0l4T3dweDg5ZUx2WWlnWnZyQklRN1htbWtld2VweHlDU1F0dWdPRVdLWTlCcGNuTW9RNTJZZWtYSDdOcUNrZWxFZS15YUdyRE1hekhXTXZvOV81a21ISGVvaFdFR0dGT1NvRnp2TV9LRFdoV1VpbmVUMktkcXdvbWpRQkFiSmVheXd0MXltVXN4ZmxhX0FBSHFma2VpQWVodzZ0UzhPQXZZcTVubjZXb19WUDY4M3NocHBVcEliRnc0UHNONTNEUXNfeEh2SHk3ZkhuTHlnSmM5ZzV6dUpSYzhSNEdaY1ExQ1NkeVhPdEtm?oc=5)
 
 ---
 
@@ -123,14 +163,6 @@ permalink: /news/pibrentasvir/
 2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE14OHNFWWhlbTV4bE9tU3cyQnZhMzFUaU5PRXZhTzF3Q1FJRndLTG5RNnpTUUdqanl2akhURzhEaTdXVG9VaFpFWTh4QzBkNFlGZTdtYzFYTExJZHpZ?oc=5)
-
----
-
-### [RFK Jr. responds after coroner confirms measles death in Pennsylvania - The Independent](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdEd3NW4yRDJEWE9mNERqMUp5aEtLOEhKN1JJb1l6Wm1oUXRUUzhQTjk4LVpTNmJJcE9NR1JWcGZEd0hWZ0VpLWMtTWRQa285T0hlb3Vya0xRVTZGeG45ckYzd1kxQUZzSV9jU2pua05QUEpuNnJhMW9fcXJteHpxOVl6bldITm8wT2ZsXw?oc=5)
-
-2026-09-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdEd3NW4yRDJEWE9mNERqMUp5aEtLOEhKN1JJb1l6Wm1oUXRUUzhQTjk4LVpTNmJJcE9NR1JWcGZEd0hWZ0VpLWMtTWRQa285T0hlb3Vya0xRVTZGeG45ckYzd1kxQUZzSV9jU2pua05QUEpuNnJhMW9fcXJteHpxOVl6bldITm8wT2ZsXw?oc=5)
 
 ---
 
@@ -206,27 +238,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Flu vaccine rollout begins as NHS regroups from 'busiest summer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFYndrQnlGYzVkM0xmUE5DS3ZnYVFlSDM1SmJ2b0h5WHg0ZGlMdmZNV3RQeS01YlhfbVhQejRfaGhVZjJNaWFSVjlLSVZYUmE2bHZVcEpzeWE5eHlp?oc=5)
-
-2026-09-02 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFYndrQnlGYzVkM0xmUE5DS3ZnYVFlSDM1SmJ2b0h5WHg0ZGlMdmZNV3RQeS01YlhfbVhQejRfaGhVZjJNaWFSVjlLSVZYUmE2bHZVcEpzeWE5eHlp?oc=5)
-
----
-
 ### [MS-Therapie: Mainzer Wirkstoffpflaster auf dem Weg in klinische Studie](https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0NESUZ2TmYzdHZ2ZUs0SVNTODdZRXZiX0tYdWs2RWptT09WZHNHdVBwOFY3T1dDeFFHcW9LX1B5c2pqQWRVMXFUelVMLUpNZUdRbUpTR2lSSDZhV3kxQThyUDNNbjh1WHdsY0J5dE5NT2hYaW54WXEyLVFjak5xM0VnbzBROXlIMTg5SDhuS3hsS3JsMnh1YUoxT2I4RXBOVWJaUjFudzBmYzZuTXJ2UVpOQVYyV25pSlhMeTl0ZmVTSy0tcHE5cllsVE1RQQ?oc=5)
 
 2026-09-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[merkurist.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0NESUZ2TmYzdHZ2ZUs0SVNTODdZRXZiX0tYdWs2RWptT09WZHNHdVBwOFY3T1dDeFFHcW9LX1B5c2pqQWRVMXFUelVMLUpNZUdRbUpTR2lSSDZhV3kxQThyUDNNbjh1WHdsY0J5dE5NT2hYaW54WXEyLVFjak5xM0VnbzBROXlIMTg5SDhuS3hsS3JsMnh1YUoxT2I4RXBOVWJaUjFudzBmYzZuTXJ2UVpOQVYyV25pSlhMeTl0ZmVTSy0tcHE5cllsVE1RQQ?oc=5)
-
----
-
-### [Ébola en RD Congo: más de 6.000 contagios y casi 3.000 muertes](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SU2E3T2F4SDlpbDI2MmNlYTRLTXNWTlk5VUlyb0V2bzhrTkRWWmozbjRKS3BGZWZJeXRBNExWRUZUbVY0Q2dyQmx5YkwwVUVNdk1nbnRFZERTZlF2MXZHOF8wdjZNdVVjU1FSQzlwM2ZZNTNYMVlzQ0lUVlRWdw?oc=5)
-
-2026-08-31 <span class="news-indication-tag">MS</span>
-
-來源：[es-us.noticias.yahoo.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SU2E3T2F4SDlpbDI2MmNlYTRLTXNWTlk5VUlyb0V2bzhrTkRWWmozbjRKS3BGZWZJeXRBNExWRUZUbVY0Q2dyQmx5YkwwVUVNdk1nbnRFZERTZlF2MXZHOF8wdjZNdVVjU1FSQzlwM2ZZNTNYMVlzQ0lUVlRWdw?oc=5)
 
 ---
 
