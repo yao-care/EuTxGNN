@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "emicrania（migraine） 相關新聞"
+title: "migraine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraine 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# emicrania（migraine） 相關新聞
+# migraine 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraine 有什麼相關新聞？">
+<strong>migraine</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraine」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,15 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
-
-2026-09-06
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [New Migraine Prevention Guidelines Released](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
 

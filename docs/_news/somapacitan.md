@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（16 則）
 
-### [Vermeiden Sie diese drei Risikofaktoren, und Sie leben zwölf Jahre länger ohne Demenz](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
+### [Ketogene Diät: 67% Leberfettreduktion bei Adipositas und Prädiabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjJpalhRUWFVQzJobzY3RmphSTVSUy02Z1pMb2dUZXdWS1RQSlhfNXpHYjJzY0s1eEVRRUUwS0MxUTZsbGFBVFNObFNKMkJVYjlScWUyZHdOOVhjMjV1SnktQU5CM29SdWs0Yk85WGtWaHNxc0Vnb2lXaWJpT3RfbExBdmlidWtVRmI5NGJsdjdBdGJWYWVwVzZPbndab0tmY09Ic25sVkZuS3pDZFg0VTZ3?oc=5)
 
-2026-09-08 <span class="news-indication-tag">diabetes</span>
+2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjJpalhRUWFVQzJobzY3RmphSTVSUy02Z1pMb2dUZXdWS1RQSlhfNXpHYjJzY0s1eEVRRUUwS0MxUTZsbGFBVFNObFNKMkJVYjlScWUyZHdOOVhjMjV1SnktQU5CM29SdWs0Yk85WGtWaHNxc0Vnb2lXaWJpT3RfbExBdmlidWtVRmI5NGJsdjdBdGJWYWVwVzZPbndab0tmY09Ic25sVkZuS3pDZFg0VTZ3?oc=5)
 
 ---
 
-### [Los nutricionistas de Baleares avisan: «La dieta Keto es peligrosa para la salud» - Ultima Hora](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXphQ2prV2syc1BmWTlhTVFXalEwblJSSHlYUk9Fc2ZBRmx0aDJqQW4zeVVUMUhleHFHNnEzNlcxZEtYdjFrMUVkVHliTk82bmpVRGJNMzFfeTVKRHNEODZMQ0RSY1BvWTZGMzVFMEI3WUl1YkUzci1Pb1pVbmRwT25tUlZ4dmluRlhWR0N0OHNFNUdFM09ZYVdoSGk5Q1BiSkdWZGFveFBMTnItT2c3aE5fbnN3S29zUVhWVTVSMHZsb25mYWc?oc=5)
+### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’ - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
-2026-09-08 <span class="news-indication-tag">diabetes</span>
+2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">stroke</span>
 
-來源：[Ultima Hora](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXphQ2prV2syc1BmWTlhTVFXalEwblJSSHlYUk9Fc2ZBRmx0aDJqQW4zeVVUMUhleHFHNnEzNlcxZEtYdjFrMUVkVHliTk82bmpVRGJNMzFfeTVKRHNEODZMQ0RSY1BvWTZGMzVFMEI3WUl1YkUzci1Pb1pVbmRwT25tUlZ4dmluRlhWR0N0OHNFNUdFM09ZYVdoSGk5Q1BiSkdWZGFveFBMTnItT2c3aE5fbnN3S29zUVhWVTVSMHZsb25mYWc?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
 ---
 
@@ -78,19 +78,43 @@ permalink: /news/somapacitan/
 
 ---
 
-### [„Epidemie der Fettleber total unterschätzt“: 30 Millionen Menschen in Deutschland betroffen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
-
-2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
-
----
-
-### [Gestationsdiabetes: Kardiometabolische Risiken langfristig erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWi1rWTR2UC1oS3I2bWoxd1hHZG85cUItSlMzSXRpRFhNZTh0RE9mX2VKOGFWSmdtRlAzSXNTMUhtX1Z5blYwNDd5emdRNzlZSHk1aENtYlczUnA4a0w2R3FuMW56bWVlRkZnRk5rU0JoaER5TG5vMEtGa0JudzlZT3RiZm1FYjFmZUlxU0V4cHBHSVY1el9MOExRMy1QRHExN2N5bFJ1aFhINlUyZ1p0M3N2Tlp2Q2VJVmEtVDZKSzNZek1WY3Rlb21YYWxKVDhKa3pPYWRjYkxDN05jQ1FVTF9BN1k?oc=5)
+### [Gestationsdiabetes: Typ-2-Diabetes nicht nur häufiger, sondern auch früher und schwerer - Biermann Medizin](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1gtYUNabUlZMUU3R0FWX1NuYUU4Y3BvNURJOGtJT3BOYXZOQ1Vzb2RqcnlkaERIc2xJQ2dPNmxqOVNYM21Ib01qbzF6NUhLdmhsRFV4VkNkLWlaU3U3YjFjZ056amlwRmNGT1lzc3VKQjhJcGR2VFVHR0R1ZDhtX29fLWY4ZUxQVmttYWMwYnZIcE96OTVzZHFtbGtMcjlIdXZiWlFvR1NEQk84Q085czBVakdRUFU?oc=5)
 
 2026-09-08 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWi1rWTR2UC1oS3I2bWoxd1hHZG85cUItSlMzSXRpRFhNZTh0RE9mX2VKOGFWSmdtRlAzSXNTMUhtX1Z5blYwNDd5emdRNzlZSHk1aENtYlczUnA4a0w2R3FuMW56bWVlRkZnRk5rU0JoaER5TG5vMEtGa0JudzlZT3RiZm1FYjFmZUlxU0V4cHBHSVY1el9MOExRMy1QRHExN2N5bFJ1aFhINlUyZ1p0M3N2Tlp2Q2VJVmEtVDZKSzNZek1WY3Rlb21YYWxKVDhKa3pPYWRjYkxDN05jQ1FVTF9BN1k?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1gtYUNabUlZMUU3R0FWX1NuYUU4Y3BvNURJOGtJT3BOYXZOQ1Vzb2RqcnlkaERIc2xJQ2dPNmxqOVNYM21Ib01qbzF6NUhLdmhsRFV4VkNkLWlaU3U3YjFjZ056amlwRmNGT1lzc3VKQjhJcGR2VFVHR0R1ZDhtX29fLWY4ZUxQVmttYWMwYnZIcE96OTVzZHFtbGtMcjlIdXZiWlFvR1NEQk84Q085czBVakdRUFU?oc=5)
+
+---
+
+### [Blutfette: Cholesterin-Senkung lohnt sich auch im höheren Alter](https://news.google.com/rss/articles/CBMioAFBVV95cUxNU21acW5SS3pUMjVqbjRNeWYweFlGUEVZbncyM19Ya0wyWUNzdWlGbVBJY1Q2c3R2Z0xHZWJZb08tZ3dCc1liZTQ0aDFYbDFWM294OUQwSXowZVM4SGRBY0M1eVJWSENEZ25GQmNoTF8zenM5MWxKcWVtM0tSdFBEb2tGamJjUjhtX0FSTktsUWY3bHpQNXBYUUdLOVhYQUxI?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNU21acW5SS3pUMjVqbjRNeWYweFlGUEVZbncyM19Ya0wyWUNzdWlGbVBJY1Q2c3R2Z0xHZWJZb08tZ3dCc1liZTQ0aDFYbDFWM294OUQwSXowZVM4SGRBY0M1eVJWSENEZ25GQmNoTF8zenM5MWxKcWVtM0tSdFBEb2tGamJjUjhtX0FSTktsUWY3bHpQNXBYUUdLOVhYQUxI?oc=5)
+
+---
+
+### [Hepatozelluläre Steatose: Botenstoff des Immunsystems schützt die Leber - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VfRXUxME0wMDRxQm1IODExdDFQR3U1cDNRQU1md2owLTRTMzg5cnBOMklTY1JiZWtaRlkyaTJyUVkya3J0OVM1TFVRU28tcHdNSjNNdm1BR2dLNzR4ZUZkMVMwMVMwcjFkN2o0bmFhMTFOSUVTamludnVMdmN2QTBqaVZWN1ZqSzdpRnhXQ1dyUW1aM1VJV1lneFZSRWtXYzFN?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VfRXUxME0wMDRxQm1IODExdDFQR3U1cDNRQU1md2owLTRTMzg5cnBOMklTY1JiZWtaRlkyaTJyUVkya3J0OVM1TFVRU28tcHdNSjNNdm1BR2dLNzR4ZUZkMVMwMVMwcjFkN2o0bmFhMTFOSUVTamludnVMdmN2QTBqaVZWN1ZqSzdpRnhXQ1dyUW1aM1VJV1lneFZSRWtXYzFN?oc=5)
+
+---
+
+### [Los nutricionistas de Baleares avisan: «La dieta Keto es peligrosa para la salud» - Ultima Hora](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXphQ2prV2syc1BmWTlhTVFXalEwblJSSHlYUk9Fc2ZBRmx0aDJqQW4zeVVUMUhleHFHNnEzNlcxZEtYdjFrMUVkVHliTk82bmpVRGJNMzFfeTVKRHNEODZMQ0RSY1BvWTZGMzVFMEI3WUl1YkUzci1Pb1pVbmRwT25tUlZ4dmluRlhWR0N0OHNFNUdFM09ZYVdoSGk5Q1BiSkdWZGFveFBMTnItT2c3aE5fbnN3S29zUVhWVTVSMHZsb25mYWc?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ultima Hora](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXphQ2prV2syc1BmWTlhTVFXalEwblJSSHlYUk9Fc2ZBRmx0aDJqQW4zeVVUMUhleHFHNnEzNlcxZEtYdjFrMUVkVHliTk82bmpVRGJNMzFfeTVKRHNEODZMQ0RSY1BvWTZGMzVFMEI3WUl1YkUzci1Pb1pVbmRwT25tUlZ4dmluRlhWR0N0OHNFNUdFM09ZYVdoSGk5Q1BiSkdWZGFveFBMTnItT2c3aE5fbnN3S29zUVhWVTVSMHZsb25mYWc?oc=5)
+
+---
+
+### [Fat jabs could slash risk of killer asthma attacks up to 40%, study suggests - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
+
+2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
 
 ---
 
@@ -110,30 +134,6 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Científicos reprograman células humanas para generar insulina y combatir la diabetes](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFUxZktiQ0QzdnRmbFB1OUtkSjZqZVQxQ0JCWkdnRjM4Rk9wU0lrU2VzSGpheVlFWXd6VHN4a2hjRzE2Q2c4Zko4UjZuakVxN0ZmMkE1Qkl3Ni16b0dsVGc5bnA0Zm90R3Zrc2d6eExVVFA3Y1p1UWxGS0s3ZDFfOHB1Zjl1aUFCYjRDRjFpM1RZanZHbW95bmNYdlNEVzdjc185cWJ4cHhzUjVLUkxvbndBOWhZZw?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[WIRED](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFUxZktiQ0QzdnRmbFB1OUtkSjZqZVQxQ0JCWkdnRjM4Rk9wU0lrU2VzSGpheVlFWXd6VHN4a2hjRzE2Q2c4Zko4UjZuakVxN0ZmMkE1Qkl3Ni16b0dsVGc5bnA0Zm90R3Zrc2d6eExVVFA3Y1p1UWxGS0s3ZDFfOHB1Zjl1aUFCYjRDRjFpM1RZanZHbW95bmNYdlNEVzdjc185cWJ4cHhzUjVLUkxvbndBOWhZZw?oc=5)
-
----
-
-### [Typ-2-Diabetes: Frauen entwickeln psychische Probleme 50% häufiger - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
-
----
-
-### [Statine könnten Menschen mit Diabetes vor Demenz schützen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVFlLb2NrT04wTzVuMDJIYU5fRWNoSmRwck9qT25uOGczcUhJUVlKMlYzaDlBdVAxb2lpQnpRMDdHWkYyZkJRM0xpMUFkNVUzQ0tSVnB1RWdIWVNsQ21JcEFGaEc4WU1UQ19aWldscUhNU0ZETFBVdUowRzc2ZTJjNEdVQzZuMEc4MVJXLXFpeXpyN2pFaFRjWmRtNlNCYnNxajlNMFFnU2tCNEJSVk5WNXFRQVVud25lOElWM3MyM2kxeThQ?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVFlLb2NrT04wTzVuMDJIYU5fRWNoSmRwck9qT25uOGczcUhJUVlKMlYzaDlBdVAxb2lpQnpRMDdHWkYyZkJRM0xpMUFkNVUzQ0tSVnB1RWdIWVNsQ21JcEFGaEc4WU1UQ19aWldscUhNU0ZETFBVdUowRzc2ZTJjNEdVQzZuMEc4MVJXLXFpeXpyN2pFaFRjWmRtNlNCYnNxajlNMFFnU2tCNEJSVk5WNXFRQVVud25lOElWM3MyM2kxeThQ?oc=5)
-
----
-
 ### [Muskel-Botenstoffe und Krebs: ERC Starting Grant für DDZ-Forscherin - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTE5xUWl4UWt2YXhNUEhZOXhlZzlfZ2pBa2t5NnlqZ1VGdzNTSEJpNzZuYjdYcklZbDAzVkw2c3A0UkROY1ZqOTR6WnI5VnU0U3g4M2dYNVJPeFBMemhPRjhxSHJTYlZiZENMaVkyTy1aOUJOcXVDUFVqZ2FxQ3pWVEZ6YmVJY1VkeEZidnFhZjZSelZ1Umh2MEZhQnlUNUMySWhBYmw0SzV6c29icUF0eFlwYU9XTkR1?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
@@ -142,27 +142,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Wenn ADHS auf Diabetes trifft: Experten geben Tipps für betroffene Kinder - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzcyNl9CTG0tQUEtbkh2SDdEWE5IRmNvNTg4WkM0QkNuRkR5SVFRZ1VETExneVVOUUl3bnhxVzFXT0xDb0RPSnN2LW4yVkZZY0NsY2pydzBZWHFCV3hNbjJXSVVxSHJZbFAwU2lubmxZV3BVaWh2eTNoaGFoN19PR1ZERzJqbGR1dGJUSDI4eHZCYVZ2MWVEeHNhaHNOVTVkdWtkemdXSFdHZVhJeW5WeXZWRHlzLXJzR1p2OF9kSGdxWGRpWkE?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzcyNl9CTG0tQUEtbkh2SDdEWE5IRmNvNTg4WkM0QkNuRkR5SVFRZ1VETExneVVOUUl3bnhxVzFXT0xDb0RPSnN2LW4yVkZZY0NsY2pydzBZWHFCV3hNbjJXSVVxSHJZbFAwU2lubmxZV3BVaWh2eTNoaGFoN19PR1ZERzJqbGR1dGJUSDI4eHZCYVZ2MWVEeHNhaHNOVTVkdWtkemdXSFdHZVhJeW5WeXZWRHlzLXJzR1p2OF9kSGdxWGRpWkE?oc=5)
-
----
-
 ### [Diabete, quanto rischiano cuore e reni? Un esame del sangue te lo dirà, per prevenzione e cure su misura](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbS0tRTVLanNnVEIwcEhMMGhmWFJ1RUVZOGdpLVhRQjhTUTdfbE5jV0EzNFpGZThJUWhjNWtPaW5nNERCUXFPa05kODVaYzM4enE1ZDhqQVM5bDFYcDRFeG1abWkxYjF4WldtQVZycmVKdVU0UnZ6ZUJYaThjb1QtWUZqTTBLOGpLRW9McFVfdWtjM1dhay1QaEZhUUhzMFdocGpkeThMM0M3Y3PSAbABQVVfeXFMUHloQ3JsWDJNLWhQUzV5ZXlJRG1lTzJtUENVV2Z1STZwSnJvdF9nSFoyMzlfT21XWUgxVkdrZ08tbl8zaXA3U0JhVXdYQzg1UEpmNmxqeUhIMHlVQ2JjN2RkMGJOczB6MThCRV9HVVZTQ1B1bjd5TUlsOVJyWmtwenYxUW9KaWNvVDJ1TEZhcjNCTkJzSUluYmlLWG5jcU0xVzc3YlJEVWUxQkdEWEE2QmQ?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabete</span>
 
-來源：[DiLei](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbS0tRTVLanNnVEIwcEhMMGhmWFJ1RUVZOGdpLVhRQjhTUTdfbE5jV0EzNFpGZThJUWhjNWtPaW5nNERCUXFPa05kODVaYzM4enE1ZDhqQVM5bDFYcDRFeG1abWkxYjF4WldtQVZycmVKdVU0UnZ6ZUJYaThjb1QtWUZqTTBLOGpLRW9McFVfdWtjM1dhay1QaEZhUUhzMFdocGpkeThMM0M3Y3PSAbABQVVfeXFMUHloQ3JsWDJNLWhQUzV5ZXlJRG1lTzJtUENVV2Z1STZwSnJvdF9nSFoyMzlfT21XWUgxVkdrZ08tbl8zaXA3U0JhVXdYQzg1UEpmNmxqeUhIMHlVQ2JjN2RkMGJOczB6MThCRV9HVVZTQ1B1bjd5TUlsOVJyWmtwenYxUW9KaWNvVDJ1TEZhcjNCTkJzSUluYmlLWG5jcU0xVzc3YlJEVWUxQkdEWEE2QmQ?oc=5)
+來源：[dilei.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbS0tRTVLanNnVEIwcEhMMGhmWFJ1RUVZOGdpLVhRQjhTUTdfbE5jV0EzNFpGZThJUWhjNWtPaW5nNERCUXFPa05kODVaYzM4enE1ZDhqQVM5bDFYcDRFeG1abWkxYjF4WldtQVZycmVKdVU0UnZ6ZUJYaThjb1QtWUZqTTBLOGpLRW9McFVfdWtjM1dhay1QaEZhUUhzMFdocGpkeThMM0M3Y3PSAbABQVVfeXFMUHloQ3JsWDJNLWhQUzV5ZXlJRG1lTzJtUENVV2Z1STZwSnJvdF9nSFoyMzlfT21XWUgxVkdrZ08tbl8zaXA3U0JhVXdYQzg1UEpmNmxqeUhIMHlVQ2JjN2RkMGJOczB6MThCRV9HVVZTQ1B1bjd5TUlsOVJyWmtwenYxUW9KaWNvVDJ1TEZhcjNCTkJzSUluYmlLWG5jcU0xVzc3YlJEVWUxQkdEWEE2QmQ?oc=5)
 
 ---
 
-### [Diabete gestazionale, il myo-inositolo riduce il rischio? La svolta del 2026 e il ruolo decisivo della dieta](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaUMxWXFoSFR4RjZqWWdJRUlBNVh2ZzVoZzlEeDFRWU5WUnZ3OTBDLWY0RU1VcmlfaW5fYmJZRUJHVnZuamNYRU5COERaOHJvbXBYZVlnM250djE0NDJ0d1Z3MlNMMzlhQVZSS2hhci13a0Z2d1BUNzVSS3AyZGU3ZmtReVRCZXpYazk2UXZhQUlMR2pvVGFtTkZWeUNnbHFOaTFkbHlzcmxSTk0tVWJUMHV5T0JCUlEyWXlubFlXQU9YTXZpT1p5aHUweFNCOW5EQmVyTXNsWVQyWlphUkJwczVVTzBPd3VvM1E3cmFRS0xmb2d2MThyRlpB?oc=5)
+### [C’è un segno sul viso che nessun dermatologo collega al cuore - Futuro Prossimo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTU4eHUwdW8ySDF4V2pzS09meTdMdlF2TTQ2U0wwMVpRbkItS09RaEZrSjhKcFBUSHd1TGdQekdxWXhJUERVSEtLQXVNaVRQcjZlY2gybHM5Wmc5M3VYRXFJMDhtUlBOVExsUHY4TjFxZHFCTTBSRTV4M0t5Nmt3NEFlenZlYXV0Qm9mM0dwMHlDOW9QQ3pVbWZiQUtQUk9mUmUzNFJkTjgwLXM?oc=5)
 
-2026-09-07 <span class="news-indication-tag">diabete</span>
+2026-09-07 <span class="news-indication-tag">asma</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaUMxWXFoSFR4RjZqWWdJRUlBNVh2ZzVoZzlEeDFRWU5WUnZ3OTBDLWY0RU1VcmlfaW5fYmJZRUJHVnZuamNYRU5COERaOHJvbXBYZVlnM250djE0NDJ0d1Z3MlNMMzlhQVZSS2hhci13a0Z2d1BUNzVSS3AyZGU3ZmtReVRCZXpYazk2UXZhQUlMR2pvVGFtTkZWeUNnbHFOaTFkbHlzcmxSTk0tVWJUMHV5T0JCUlEyWXlubFlXQU9YTXZpT1p5aHUweFNCOW5EQmVyTXNsWVQyWlphUkJwczVVTzBPd3VvM1E3cmFRS0xmb2d2MThyRlpB?oc=5)
+來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTU4eHUwdW8ySDF4V2pzS09meTdMdlF2TTQ2U0wwMVpRbkItS09RaEZrSjhKcFBUSHd1TGdQekdxWXhJUERVSEtLQXVNaVRQcjZlY2gybHM5Wmc5M3VYRXFJMDhtUlBOVExsUHY4TjFxZHFCTTBSRTV4M0t5Nmt3NEFlenZlYXV0Qm9mM0dwMHlDOW9QQ3pVbWZiQUtQUk9mUmUzNFJkTjgwLXM?oc=5)
 
 ---
 
@@ -171,22 +163,6 @@ permalink: /news/somapacitan/
 2026-09-06 <span class="news-indication-tag">asma</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
-
----
-
-### [A che ora assumere la metformina per la glicemia: come farla funzionare meglio](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3dIMUZGRzBDWnR5aXBTWEFjR3V5U182Mjlua2ZscVZscndSc3hwZFdPZHMwdHJnQ3hmUzBadXVGVS0xeUVPd3JDU1lQSnBUYzVpUldYdDYxMGZoM0FrSXVzMEZmWWVOeGJqcHdSSTJzb0I1cm5Cd0xUSGZqQ0x4TTRpVUdSRDB4bG16bk85dURrY2xISjNyR0M3LXF2aENEMWQ5MVNkWnhKQmtFWF9pclFyWm5pNjd5N1BaTHEwUFBXWjBVOXlKUlR6aFB4OFBxVHJCTy01UQ?oc=5)
-
-2026-09-04 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetic</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3dIMUZGRzBDWnR5aXBTWEFjR3V5U182Mjlua2ZscVZscndSc3hwZFdPZHMwdHJnQ3hmUzBadXVGVS0xeUVPd3JDU1lQSnBUYzVpUldYdDYxMGZoM0FrSXVzMEZmWWVOeGJqcHdSSTJzb0I1cm5Cd0xUSGZqQ0x4TTRpVUdSRDB4bG16bk85dURrY2xISjNyR0M3LXF2aENEMWQ5MVNkWnhKQmtFWF9pclFyWm5pNjd5N1BaTHEwUFBXWjBVOXlKUlR6aFB4OFBxVHJCTy01UQ?oc=5)
-
----
-
-### [Risiko für Typ-2-Diabetes abhängig vom Subtyp der Endometriose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
-
-2026-09-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
 
 ---
 
@@ -203,14 +179,6 @@ permalink: /news/somapacitan/
 2026-09-02 <span class="news-indication-tag">asthma</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
-
----
-
-### [Keto, Low Fat oder mediterran? Welche Ernährung beim Abnehmen weitere Vorteile bringt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnhrVUR0bzRmT1NicVZFX25PV2tjdzlIaFdCbi1HeG9jZldUR3RWT0FqNHlvOElQektmYTYxc3JFODdzejNKcURsN2k0T0xzakpkcjZFZng2d2p0UjNneVdPell4TzVXZXRxdXE5LTZRMlc3cGpOLXVjNDdtZGdhMGtfcmgxanNNVzdoQnpFNUV4bkwwSG1KUlFrWEEzeDlacjFQTVRVeXgzT2pqNU0xeGpn?oc=5)
-
-2026-09-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnhrVUR0bzRmT1NicVZFX25PV2tjdzlIaFdCbi1HeG9jZldUR3RWT0FqNHlvOElQektmYTYxc3JFODdzejNKcURsN2k0T0xzakpkcjZFZng2d2p0UjNneVdPell4TzVXZXRxdXE5LTZRMlc3cGpOLXVjNDdtZGdhMGtfcmgxanNNVzdoQnpFNUV4bkwwSG1KUlFrWEEzeDlacjFQTVRVeXgzT2pqNU0xeGpn?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# cardiopatía（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Logran identificar pacientes con miocardiopatía dilatada con mayor riesgo de muerte súbita y arritmias - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEpjR2UydHRqc1JJOEpkOUdiWHR6dDdvcTdTZGFZN3RpbDdoSjRSNVMwWDF5ODd2LWxrQ2FpM0ExVVk1QmJ3UHlWdmdSX3FqNWU3bzZqS3dWN3RXRnBpVGdMa0l1WG1KNkRkMmVQTXdCVS1VcWRsaUUzRUZNd08ycUlvMU0tU0oyb29CeXFrMmtNVS0zQ1ZRaVpCaUJ4R3BCTm05Y0hWM2RqNkxlMXM0OGE3YVRmMkxGallOMnNXd09mQ25hWnNGajRRak9fX2tx?oc=5)
+
+2026-09-08
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEpjR2UydHRqc1JJOEpkOUdiWHR6dDdvcTdTZGFZN3RpbDdoSjRSNVMwWDF5ODd2LWxrQ2FpM0ExVVk1QmJ3UHlWdmdSX3FqNWU3bzZqS3dWN3RXRnBpVGdMa0l1WG1KNkRkMmVQTXdCVS1VcWRsaUUzRUZNd08ycUlvMU0tU0oyb29CeXFrMmtNVS0zQ1ZRaVpCaUJ4R3BCTm05Y0hWM2RqNkxlMXM0OGE3YVRmMkxGallOMnNXd09mQ25hWnNGajRRak9fX2tx?oc=5)
+
+---
 
 ### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 

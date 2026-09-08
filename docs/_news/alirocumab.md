@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [No place on Covid memorial wall for teenager who killed himself during lockdown - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2I4WWpvSFN2d2lVQzRpakpCLUV3M05xbEY1dW9LdXFPVHZ2aWZna21QZ1NuZF9YdzFITFByYjVuZExYLXRmbmpkNnJSdEdKTXZTWW9QV0F5R0VGLWo4c3FIM1BRejBhdVFINGNlMlZkU2VpVzhBUUN0RkpYZHdaTkFaZmkwaVRWZkFXeFhRelhqY1dOSnBnWTJzSjk?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/alirocumab/
 2026-09-07 <span class="news-indication-tag">enfermedad renal crónica</span>
 
 來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0tmUEdTTGhJRzEtMTVJTWdhWW40OWIyY1FHbUJSRk1Rall4cEtoVzJTcjB0MFhHbzhxaVFoZEdGNHBYbzlXaEVTeXdndmZzNWwyQ0NFVTl5U25ZdW94M2s5YTZhbjB0ZDVfUEZaQk1vWUZrOGNvcFM1Ym4yQlhIdTVQX2hIMU1XajFXb0pmV014QVVBNGF4enM0aVdORVNCUE1VWXJkMmRRYjNxbjJnSzdTaGp5eEQ0N01meFlPREkxSnZuNUFVd2FHazTSAdIBQVVfeXFMUFcxWHB1d0RKeldIR05Xck5Ld2pReW9KMUdJRjZmbHZtc0N4dGVDUmtJdWc0NUFCRlRYc3ExcF94U0NTcjU5UlJkSWMxa0w3MW42RndyN1doWmR6RkkzWGxFWXBaYjREODFoU1k3eWk1Ym5JTFZWQXg5S0pmcUJNVDc5ZktoZUVabFFoUHkzOS1UQzhXZHFPdmszdHF6cFBwRGZ6bWxpcVNmZ0o2elBRNFZPYWFXLWQyRmp4SmhNVEhqOUpuS1NjOXl1cUFGeXVDQWJB?oc=5)
+
+---
+
+### [Nierenerkrankung: 100 Millionen Europäer bleiben undiagnostiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2FKLWF5Yjlrb01VTkszREtrZmp0NklDRnhJSzJzd1JpNXVGYnlIdjNGM0EtT2t0bXFJQnI4em1qTERDNXJUQUQ3LVFmMjJpZS0wdXdFcmFwMFRpMEk4Y3hRajFTU1NTSHI4Tm4zRjZfYjY4djZJZ3ZwMXlwelBOTzdmOVVOeFl1cWkxZkVvWWhrX3lnWkJxMGExRzQ4R3VNQTdMODRmOTlTb3pRbjdlQ3ZLYjM?oc=5)
+
+2026-09-02 <span class="news-indication-tag">CKD</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2FKLWF5Yjlrb01VTkszREtrZmp0NklDRnhJSzJzd1JpNXVGYnlIdjNGM0EtT2t0bXFJQnI4em1qTERDNXJUQUQ3LVFmMjJpZS0wdXdFcmFwMFRpMEk4Y3hRajFTU1NTSHI4Tm4zRjZfYjY4djZJZ3ZwMXlwelBOTzdmOVVOeFl1cWkxZkVvWWhrX3lnWkJxMGExRzQ4R3VNQTdMODRmOTlTb3pRbjdlQ3ZLYjM?oc=5)
 
 ---
 

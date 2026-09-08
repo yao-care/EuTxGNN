@@ -54,11 +54,11 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（3 則）
 
-### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
+### [Logran identificar pacientes con miocardiopatía dilatada con mayor riesgo de muerte súbita y arritmias - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEpjR2UydHRqc1JJOEpkOUdiWHR6dDdvcTdTZGFZN3RpbDdoSjRSNVMwWDF5ODd2LWxrQ2FpM0ExVVk1QmJ3UHlWdmdSX3FqNWU3bzZqS3dWN3RXRnBpVGdMa0l1WG1KNkRkMmVQTXdCVS1VcWRsaUUzRUZNd08ycUlvMU0tU0oyb29CeXFrMmtNVS0zQ1ZRaVpCaUJ4R3BCTm05Y0hWM2RqNkxlMXM0OGE3YVRmMkxGallOMnNXd09mQ25hWnNGajRRak9fX2tx?oc=5)
 
-2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
+2026-09-08 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEpjR2UydHRqc1JJOEpkOUdiWHR6dDdvcTdTZGFZN3RpbDdoSjRSNVMwWDF5ODd2LWxrQ2FpM0ExVVk1QmJ3UHlWdmdSX3FqNWU3bzZqS3dWN3RXRnBpVGdMa0l1WG1KNkRkMmVQTXdCVS1VcWRsaUUzRUZNd08ycUlvMU0tU0oyb29CeXFrMmtNVS0zQ1ZRaVpCaUJ4R3BCTm05Y0hWM2RqNkxlMXM0OGE3YVRmMkxGallOMnNXd09mQ25hWnNGajRRak9fX2tx?oc=5)
 
 ---
 

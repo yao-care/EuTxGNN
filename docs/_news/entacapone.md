@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Dr. Obeso: «La tecnología de ultrasonidos permite tratar la enfermedad de Parkinson sin abrir el cráneo»](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
+
+2026-09-08 <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
+
+---
 
 ### [Dementia could be 'REVERSED' as surgery 'flushes out toxic proteins' from brain - The Sun](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVRUMVVxLUlUd3hSUm5EU1lvTjZ6ak9KMXdsSXV5dy1vNGIydWlJbl9lbXlWbXlTWmphUV9MYUFWOF9kZkJsYWQ2TlVBemtnT0JKTFlUbVFBVGN0Vlc0M2pfR2ZSVVRiOVE1Mm5aeWFlT1FQcEhCemxUY25uUXZEVHJmRnhZeGt5YUFkczVPWGRiLVMyemFZMVY3VWRCUWpPUUJCa1E4a1pDWHhjSUE?oc=5)
 
@@ -66,13 +74,13 @@ permalink: /news/entacapone/
 
 2026-09-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
 
 ---
 
 ### [The dementia-proof daily routine to protect your brain - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUZVWnpQZjZTN0N0Z0h0SVRuXzBMZlAtNjFYaW9EdVY3TVlLVUlHX2poZjVIRmMwVExveEZha2lNRDk0MEloTVB1UWJyQ0w1VkpDUGlqZTdGVExnWE1EbzFSQjBfd0V6Wmw5LU9VUWdVOXZ6emdsd3dsNVpWamdKLXhaYzkxLTFZOENUUWVFaXlyeV9JYU10RWQ3NUgxVzRTYXRqWDJwV2swdw?oc=5)
 
-2026-09-06 <span class="news-indication-tag">dementia</span>
+2026-09-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUZVWnpQZjZTN0N0Z0h0SVRuXzBMZlAtNjFYaW9EdVY3TVlLVUlHX2poZjVIRmMwVExveEZha2lNRDk0MEloTVB1UWJyQ0w1VkpDUGlqZTdGVExnWE1EbzFSQjBfd0V6Wmw5LU9VUWdVOXZ6emdsd3dsNVpWamdKLXhaYzkxLTFZOENUUWVFaXlyeV9JYU10RWQ3NUgxVzRTYXRqWDJwV2swdw?oc=5)
 

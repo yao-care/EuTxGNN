@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="Rasburicase 有什麼相關新聞？">
-<strong>Rasburicase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasburicase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/rasburicase/
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [« Une tueuse silencieuse » : 17 millions de Français sont touchés par l’hypertension, le mal du siècle - Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
+### [17 millions de personnes touchées en France : l’Assurance maladie lance une campagne pour sensibiliser à l’hypertension](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcXhlc0l5X0ktU0VjcDNPRjg4WGxNYmNlQXhxaFpYbEJOVkdkZDQ3cTNDRXhVbWc3TlVnN0VDck9SdU12eGdtekhJMG5SbWF4N19lQnpMU0EtVXRnY2xXNnBNOHNWSFZZMnlSU19kRmw4TDdtbmJHOEJQM25IVDgwSzRkQ1NCd2k1YmMyUFdLOGdqU2Z5RmRSVXk1VVpZenJwdlNvVm45ZEJrX3JEcEgwUFJqZTdZZm5HRFRXY0p3UlVDN1lZLW43WDZkZUk0aG1QYkV5d3l1S1QxMDZ4czB3TU0tOGxoV1lWVzgwLXdmdklLWE14X3hTOGJweTlPYldBMXFN?oc=5)
 
 2026-09-08 <span class="news-indication-tag">hypertension</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
+來源：[actu.orange.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcXhlc0l5X0ktU0VjcDNPRjg4WGxNYmNlQXhxaFpYbEJOVkdkZDQ3cTNDRXhVbWc3TlVnN0VDck9SdU12eGdtekhJMG5SbWF4N19lQnpMU0EtVXRnY2xXNnBNOHNWSFZZMnlSU19kRmw4TDdtbmJHOEJQM25IVDgwSzRkQ1NCd2k1YmMyUFdLOGdqU2Z5RmRSVXk1VVpZenJwdlNvVm45ZEJrX3JEcEgwUFJqZTdZZm5HRFRXY0p3UlVDN1lZLW43WDZkZUk0aG1QYkV5d3l1S1QxMDZ4czB3TU0tOGxoV1lWVzgwLXdmdklLWE14X3hTOGJweTlPYldBMXFN?oc=5)
 
 ---
 
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
+### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
-2026-09-07 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+2026-09-07 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
----
-
-### [Arythmie, hypertension, troubles de la mémoire... : les conséquences de l'apnée du sommeil](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1Z5YXNHRHlZWWdjUVZnTmNqVHAzd19zeTBTZ18zUGFvVEd4NWx4Z1hXUE5uMG9WWUhPalRUaDQ3ZGZNbmdUay1SeFNidElxWXFZcmMtcnkwSkMzMkxLZURtT20zY0pQQ0M0bUlHdm1CNkFuM3lVQzBsNDJ4cFgzZkRHbXlUbUxn?oc=5)
-
-2026-09-06 <span class="news-indication-tag">hypertension</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1Z5YXNHRHlZWWdjUVZnTmNqVHAzd19zeTBTZ18zUGFvVEd4NWx4Z1hXUE5uMG9WWUhPalRUaDQ3ZGZNbmdUay1SeFNidElxWXFZcmMtcnkwSkMzMkxLZURtT20zY0pQQ0M0bUlHdm1CNkFuM3lVQzBsNDJ4cFgzZkRHbXlUbUxn?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

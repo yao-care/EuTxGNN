@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Depressione e cervello: perché l'ippocampo fatica a generare nuovi neuroni](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcm9lT0VUemNFYlVfZlA4cGgxN2N6eHpXMzNZQ0RDUkhreU9sbmFVb0s0bm5vaF81d0tqNXczTjhkT3lxb3dsYUxsMjFEYmZvSTR3UVRxOUdQQWI5ZjUzWlFoS1BHZ083VXBJODN1dm40WFJXckl4VkFtTFRUZlNkV21RYzFaYmplOGxpOXlHZnhNYlFUX0dKZWdaTXhTZVVkVDlHUGVHSG5YemVRSmJZdWprSTNjanl3UWhyd1pmVFpKWEtuRzJucV9xbnJlUQ?oc=5)
 
 2026-09-07 <span class="news-indication-tag">depression</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcm9lT0VUemNFYlVfZlA4cGgxN2N6eHpXMzNZQ0RDUkhreU9sbmFVb0s0bm5vaF81d0tqNXczTjhkT3lxb3dsYUxsMjFEYmZvSTR3UVRxOUdQQWI5ZjUzWlFoS1BHZ083VXBJODN1dm40WFJXckl4VkFtTFRUZlNkV21RYzFaYmplOGxpOXlHZnhNYlFUX0dKZWdaTXhTZVVkVDlHUGVHSG5YemVRSmJZdWprSTNjanl3UWhyd1pmVFpKWEtuRzJucV9xbnJlUQ?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcm9lT0VUemNFYlVfZlA4cGgxN2N6eHpXMzNZQ0RDUkhreU9sbmFVb0s0bm5vaF81d0tqNXczTjhkT3lxb3dsYUxsMjFEYmZvSTR3UVRxOUdQQWI5ZjUzWlFoS1BHZ083VXBJODN1dm40WFJXckl4VkFtTFRUZlNkV21RYzFaYmplOGxpOXlHZnhNYlFUX0dKZWdaTXhTZVVkVDlHUGVHSG5YemVRSmJZdWprSTNjanl3UWhyd1pmVFpKWEtuRzJucV9xbnJlUQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/duloxetine-hydrochloride/
 2026-09-07 <span class="news-indication-tag">depresión</span>
 
 來源：[infocop.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtJZV9YUGhzQ0h6M1hvNXFlRHlBRGVpdjA3c3hKQWxaY0x0ODhOY0NibnhINUtiWHJfQmpBb2NCZ2xtRzFuRXcwZ3QydWJQUGdJbVFjaUphZjNRTFNRX0JVeEZuQ2k4WDU4VkJBa01ScTlkRmYyWUNzRnZwOXAyWFpQbzdDYnFtN0dKM1YtQjdHdnlBUXB1d0JibllHSkRhdUxRNkh5eUVoY0Y5VVVJSlQ1clQ5d0g4dE1oQQ?oc=5)
-
----
-
-### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
-
-2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 ---
 
