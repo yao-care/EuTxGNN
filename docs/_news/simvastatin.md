@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’ - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
+### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">stroke</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/simvastatin/
 2026-09-07 <span class="news-indication-tag">AVC</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEhzNkNVMmhuNFhDUV9qM2hfQ3NPZUE5Uk5tU0pkV3UwczFyOFRGZ3lqcFRQTTV3dTZJLVQtQ2lEYUhmUWlXYmZ4bXZrUHZwMXhiRDZ6TnFGbGE5SG9RcTcwUTRLeG9wMnFqb244d3FMREdDZGVLUWZXWmhEeGF3dDBnVHY3R1FLaHFsUE5TamF3ZWtCcjBVNjZoQkplVjh1TGlUbjlrNHpMX0RZOTY2RFdzWlZLY2F1Wnk3MlVxRzlnbmlhbG0yTzhaUmNVcFNBNF92QW5MVXlNYVI2eTBFUVI0Ump6Q1IxSkNKLWdGcnhFZnNuOWZDQQ?oc=5)
-
----
-
-### [La importancia de la testosterona: un estudio estadounidense relaciona el nivel de esta hormona con mayor riesgo de fibrilación auricular - La Vanguardia](https://news.google.com/rss/articles/CBMijgJBVV95cUxPdWNHaTAyMEJfc2tKcDJtamJqQUIzd2xoZDVGLWxfMFR3ZUxkN2tiZlpYX2p5NW90QVR3aTFiMnhzZ2NYMDVuNWVickNSbE9tTTRDbHc1OEFoZlhydXhuZ094N0VPaHU3U0xpb1ZxTHgxbUNXUkNtNWh0TWs3cXpPTEg2aC1jU082dEEtazJPOGRZRy03RXlUb2VobnFGVm1JVWJUeF9jalpqUjV0cW4yMTZ3ZXhPUGowdVVHY0ZsRzJIaVRRdnNrMHdFNmtOYjVsV2RsVWQ3eUMycDZ6QzRTNVFMalVYcTVfWmwxOTN5Wkc1VjBVaXp6VGlMZEp5YlpyTUluaERXTGd4QjE4cEHSAZMCQVVfeXFMTUpxcm9DREx6ejRnNHVPVDJKaG9uOXpYVnAwZFRzNXNtelZXczJrR3pUaU5iYlItcDVyN1VUTUtiZGxjc1htOV8tdFYwZnRiNmxGcjRaQVZIaVhSeUZJeS1tYmtXUzk4ajl0NlZBTHdyTEpNQzJYaUtaY3IxelBySmdSU1RXSXF3SjlQUk5MeURCeVpSVzlWR285TElEdGpMS1dUclR5Qy1CZE5OOUlHMjlqWVpRcWZMT0FWa2EtcEdhTXRpaldxZldrdFFLWFI5QTlScUhRaGp5NHdqN2FnZ0Q2a2xVYkN3akZnOU1NTkhVYmxhSTBWNlBjQVRDUk80eTM2dG12NFBuLTFPNEtPWXVtSWM?oc=5)
-
-2026-09-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">fibrilación auricular</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMijgJBVV95cUxPdWNHaTAyMEJfc2tKcDJtamJqQUIzd2xoZDVGLWxfMFR3ZUxkN2tiZlpYX2p5NW90QVR3aTFiMnhzZ2NYMDVuNWVickNSbE9tTTRDbHc1OEFoZlhydXhuZ094N0VPaHU3U0xpb1ZxTHgxbUNXUkNtNWh0TWs3cXpPTEg2aC1jU082dEEtazJPOGRZRy03RXlUb2VobnFGVm1JVWJUeF9jalpqUjV0cW4yMTZ3ZXhPUGowdVVHY0ZsRzJIaVRRdnNrMHdFNmtOYjVsV2RsVWQ3eUMycDZ6QzRTNVFMalVYcTVfWmwxOTN5Wkc1VjBVaXp6VGlMZEp5YlpyTUluaERXTGd4QjE4cEHSAZMCQVVfeXFMTUpxcm9DREx6ejRnNHVPVDJKaG9uOXpYVnAwZFRzNXNtelZXczJrR3pUaU5iYlItcDVyN1VUTUtiZGxjc1htOV8tdFYwZnRiNmxGcjRaQVZIaVhSeUZJeS1tYmtXUzk4ajl0NlZBTHdyTEpNQzJYaUtaY3IxelBySmdSU1RXSXF3SjlQUk5MeURCeVpSVzlWR285TElEdGpMS1dUclR5Qy1CZE5OOUlHMjlqWVpRcWZMT0FWa2EtcEdhTXRpaldxZldrdFFLWFI5QTlScUhRaGp5NHdqN2FnZ0Q2a2xVYkN3akZnOU1NTkhVYmxhSTBWNlBjQVRDUk80eTM2dG12NFBuLTFPNEtPWXVtSWM?oc=5)
 
 ---
 

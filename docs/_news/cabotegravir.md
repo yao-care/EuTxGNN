@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（15 則）
+
+### [Diabete, scoperto il “freno” genetico che impedisce alle cellule del pancreas di cambiare identità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnQtYXJpZ3hkUzY0YVhOcWFHM1poUU4xbUhXWUtxNk1RT2cxZXhCNC1YOTlOSXFfaHNXSUxYSjVMUjhhcHl2bzQyMExzSEZBWm5OSXZfRkxvY2E0UDRxRjJJa2RXUFFkbDY5aFNyM0lGdmppWnBwNUlHbVZBSWVscUNWeWI1REJJSnZ5Vmt1cmlNajZpR1JYYUlQUS1sanp0bE44MVllbFhoaXNScjBuRFpiV1BhZ25JNHVjOFVOTXN5NV9DOXNRS1V4TThCTGhEYWVpOHpHLWhFbEI2LU9FRVotNkVTSGcyT1Y0?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabete</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnQtYXJpZ3hkUzY0YVhOcWFHM1poUU4xbUhXWUtxNk1RT2cxZXhCNC1YOTlOSXFfaHNXSUxYSjVMUjhhcHl2bzQyMExzSEZBWm5OSXZfRkxvY2E0UDRxRjJJa2RXUFFkbDY5aFNyM0lGdmppWnBwNUlHbVZBSWVscUNWeWI1REJJSnZ5Vmt1cmlNajZpR1JYYUlQUS1sanp0bE44MVllbFhoaXNScjBuRFpiV1BhZ25JNHVjOFVOTXN5NV9DOXNRS1V4TThCTGhEYWVpOHpHLWhFbEI2LU9FRVotNkVTSGcyT1Y0?oc=5)
+
+---
+
+### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
+
+2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">BPCO</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
+
+---
 
 ### [Ketogene Diät: 67% Leberfettreduktion bei Adipositas und Prädiabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjJpalhRUWFVQzJobzY3RmphSTVSUy02Z1pMb2dUZXdWS1RQSlhfNXpHYjJzY0s1eEVRRUUwS0MxUTZsbGFBVFNObFNKMkJVYjlScWUyZHdOOVhjMjV1SnktQU5CM29SdWs0Yk85WGtWaHNxc0Vnb2lXaWJpT3RfbExBdmlidWtVRmI5NGJsdjdBdGJWYWVwVzZPbndab0tmY09Ic25sVkZuS3pDZFg0VTZ3?oc=5)
 
@@ -67,6 +83,14 @@ permalink: /news/cabotegravir/
 2026-09-08 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDJidHpGX0tkWVZzbnNXQXc2TW1DNEZfcFZWVFJQTE05eW1ydlBTNXNFemZCWGJnSUx6MnFZTDhLaldRQkJLRFlDTkVxc19QWWZOTmlPSmsxYk1EdF8yUW9PdjdfQk12Z0VjdjlZaENINXYxUXJ3RFVRc21MX1pfMmFLMFFXR0dCdTBUbEhyTWJYbHB2NkJDaTVXQkdvZ2dZNElCeEhRZHdaUzRJZG9Yd0VTVEFKbDNaaGNV?oc=5)
+
+---
+
+### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+
+2026-09-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 ---
 
@@ -110,14 +134,6 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Fat jabs could slash risk of killer asthma attacks up to 40%, study suggests - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
-
-2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
-
----
-
 ### [BPCO, ridere come ginnastica respiratoria? Nel trial ha ridotto la sensazione di dispnea](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
 
 2026-09-07 <span class="news-indication-tag">BPCO</span>
@@ -131,14 +147,6 @@ permalink: /news/cabotegravir/
 2026-09-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
-
----
-
-### [Muskel-Botenstoffe und Krebs: ERC Starting Grant für DDZ-Forscherin - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTE5xUWl4UWt2YXhNUEhZOXhlZzlfZ2pBa2t5NnlqZ1VGdzNTSEJpNzZuYjdYcklZbDAzVkw2c3A0UkROY1ZqOTR6WnI5VnU0U3g4M2dYNVJPeFBMemhPRjhxSHJTYlZiZENMaVkyTy1aOUJOcXVDUFVqZ2FxQ3pWVEZ6YmVJY1VkeEZidnFhZjZSelZ1Umh2MEZhQnlUNUMySWhBYmw0SzV6c29icUF0eFlwYU9XTkR1?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTE5xUWl4UWt2YXhNUEhZOXhlZzlfZ2pBa2t5NnlqZ1VGdzNTSEJpNzZuYjdYcklZbDAzVkw2c3A0UkROY1ZqOTR6WnI5VnU0U3g4M2dYNVJPeFBMemhPRjhxSHJTYlZiZENMaVkyTy1aOUJOcXVDUFVqZ2FxQ3pWVEZ6YmVJY1VkeEZidnFhZjZSelZ1Umh2MEZhQnlUNUMySWhBYmw0SzV6c29icUF0eFlwYU9XTkR1?oc=5)
 
 ---
 
@@ -158,43 +166,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Laughter could be best medicine for lung disease patients - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+### [Teure Low-Sugar-Produkte: Warum Zuckerersatz nicht automatisch gesünder ist](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWQ2WHkwS3JtWkZVNEc1bGZsVjByeU5jVi1uNUZ4NmV4QWxid3FSR2V6bVhwR0NycEdyMDJlcGVtT1I1SnFGS04zYW5Cd2dKUWVxVlVRejJuSC0zcldqbHJKN2tqaFAxZF8wZy05MG94bHhLUFFiMWhkRk5JTjRJTTN0ZVY0Y2R1TFpEWVRjTkJmUHY5RWtCeGJOaTBHQV9XN3RQS0NkQWpVNHVoeGpTaG1PazBONFhvS2ZteWsxOA?oc=5)
 
-2026-09-07 <span class="news-indication-tag">copd</span>
+2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
-
----
-
-### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
-2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
----
-
-### [Artrite reumatoide, il cuore non è condannato: nove fattori possono cambiare profondamente il rischio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
-
-2026-09-06 <span class="news-indication-tag">artrite</span>
-
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
-
----
-
-### [Brepocitinib lindert Hautsymptome bei Dermatomyositis - Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNm5qdjg4NklnWWtVaThmRm51dnZhV3ltZ1IwdFJSZEpHVnd1Q2JJSTl3RXFlVmxVd2FBdzFxZ1VMTkM0TWJWdGJlV1BidDRETDJVaEZQWDdXb0FHTWl6MnhJaFVLNTNyeHR1WmxadkJSNW43OWo5NEV1OUhPazFjMC1jc0J6d3poOUZfUDBQUGc?oc=5)
-
-2026-09-03 <span class="news-indication-tag">EPOC</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNm5qdjg4NklnWWtVaThmRm51dnZhV3ltZ1IwdFJSZEpHVnd1Q2JJSTl3RXFlVmxVd2FBdzFxZ1VMTkM0TWJWdGJlV1BidDRETDJVaEZQWDdXb0FHTWl6MnhJaFVLNTNyeHR1WmxadkJSNW43OWo5NEV1OUhPazFjMC1jc0J6d3poOUZfUDBQUGc?oc=5)
-
----
-
-### [Keine Versorgungsgerechtigkeit bei stationärer Diabetes-Behandlung](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
-
-2026-09-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[Telepolis](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWQ2WHkwS3JtWkZVNEc1bGZsVjByeU5jVi1uNUZ4NmV4QWxid3FSR2V6bVhwR0NycEdyMDJlcGVtT1I1SnFGS04zYW5Cd2dKUWVxVlVRejJuSC0zcldqbHJKN2tqaFAxZF8wZy05MG94bHhLUFFiMWhkRk5JTjRJTTN0ZVY0Y2R1TFpEWVRjTkJmUHY5RWtCeGJOaTBHQV9XN3RQS0NkQWpVNHVoeGpTaG1PazBONFhvS2ZteWsxOA?oc=5)
 
 ---
 

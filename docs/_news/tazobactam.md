@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
+
+2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">BPCO</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: CAR-T-Zellen bringen 83% der Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDJidHpGX0tkWVZzbnNXQXc2TW1DNEZfcFZWVFJQTE05eW1ydlBTNXNFemZCWGJnSUx6MnFZTDhLaldRQkJLRFlDTkVxc19QWWZOTmlPSmsxYk1EdF8yUW9PdjdfQk12Z0VjdjlZaENINXYxUXJ3RFVRc21MX1pfMmFLMFFXR0dCdTBUbEhyTWJYbHB2NkJDaTVXQkdvZ2dZNElCeEhRZHdaUzRJZG9Yd0VTVEFKbDNaaGNV?oc=5)
 
@@ -62,19 +70,27 @@ permalink: /news/tazobactam/
 
 ---
 
-### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’ - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
+### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">stroke</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
 ---
 
-### [Fat jabs could slash risk of killer asthma attacks up to 40%, study suggests - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
+### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
-2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-09-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+
+---
+
+### [Fat jabs could slash risk of killer asthma attacks up to 40%, study suggests](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
+
+2026-09-07 <span class="news-indication-tag">asthma</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
 
 ---
 
@@ -99,30 +115,6 @@ permalink: /news/tazobactam/
 2026-09-07 <span class="news-indication-tag">asma</span>
 
 來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTU4eHUwdW8ySDF4V2pzS09meTdMdlF2TTQ2U0wwMVpRbkItS09RaEZrSjhKcFBUSHd1TGdQekdxWXhJUERVSEtLQXVNaVRQcjZlY2gybHM5Wmc5M3VYRXFJMDhtUlBOVExsUHY4TjFxZHFCTTBSRTV4M0t5Nmt3NEFlenZlYXV0Qm9mM0dwMHlDOW9QQ3pVbWZiQUtQUk9mUmUzNFJkTjgwLXM?oc=5)
-
----
-
-### [¿Tienes asma? Caminar más cada día mejoró el control de la enfermedad, los síntomas y la calidad de vida tanto como entrenar en cinta dos veces por semana - La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
-
-2026-09-06 <span class="news-indication-tag">asma</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
-
----
-
-### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
-2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
----
-
-### [Artrite reumatoide, il cuore non è condannato: nove fattori possono cambiare profondamente il rischio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
-
-2026-09-06 <span class="news-indication-tag">artrite</span>
-
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 

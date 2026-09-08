@@ -62,11 +62,11 @@ permalink: /news/opicapone/
 
 ---
 
-### [Dementia could be 'REVERSED' as surgery 'flushes out toxic proteins' from brain - The Sun](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVRUMVVxLUlUd3hSUm5EU1lvTjZ6ak9KMXdsSXV5dy1vNGIydWlJbl9lbXlWbXlTWmphUV9MYUFWOF9kZkJsYWQ2TlVBemtnT0JKTFlUbVFBVGN0Vlc0M2pfR2ZSVVRiOVE1Mm5aeWFlT1FQcEhCemxUY25uUXZEVHJmRnhZeGt5YUFkczVPWGRiLVMyemFZMVY3VWRCUWpPUUJCa1E4a1pDWHhjSUE?oc=5)
+### [Dementia could be 'REVERSED' as surgery 'flushes out toxic proteins' from brain](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVRUMVVxLUlUd3hSUm5EU1lvTjZ6ak9KMXdsSXV5dy1vNGIydWlJbl9lbXlWbXlTWmphUV9MYUFWOF9kZkJsYWQ2TlVBemtnT0JKTFlUbVFBVGN0Vlc0M2pfR2ZSVVRiOVE1Mm5aeWFlT1FQcEhCemxUY25uUXZEVHJmRnhZeGt5YUFkczVPWGRiLVMyemFZMVY3VWRCUWpPUUJCa1E4a1pDWHhjSUE?oc=5)
 
 2026-09-07 <span class="news-indication-tag">dementia</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVRUMVVxLUlUd3hSUm5EU1lvTjZ6ak9KMXdsSXV5dy1vNGIydWlJbl9lbXlWbXlTWmphUV9MYUFWOF9kZkJsYWQ2TlVBemtnT0JKTFlUbVFBVGN0Vlc0M2pfR2ZSVVRiOVE1Mm5aeWFlT1FQcEhCemxUY25uUXZEVHJmRnhZeGt5YUFkczVPWGRiLVMyemFZMVY3VWRCUWpPUUJCa1E4a1pDWHhjSUE?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVRUMVVxLUlUd3hSUm5EU1lvTjZ6ak9KMXdsSXV5dy1vNGIydWlJbl9lbXlWbXlTWmphUV9MYUFWOF9kZkJsYWQ2TlVBemtnT0JKTFlUbVFBVGN0Vlc0M2pfR2ZSVVRiOVE1Mm5aeWFlT1FQcEhCemxUY25uUXZEVHJmRnhZeGt5YUFkczVPWGRiLVMyemFZMVY3VWRCUWpPUUJCa1E4a1pDWHhjSUE?oc=5)
 
 ---
 

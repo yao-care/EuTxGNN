@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
 
 ### [Ketogene Diät: 67% Leberfettreduktion bei Adipositas und Prädiabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjJpalhRUWFVQzJobzY3RmphSTVSUy02Z1pMb2dUZXdWS1RQSlhfNXpHYjJzY0s1eEVRRUUwS0MxUTZsbGFBVFNObFNKMkJVYjlScWUyZHdOOVhjMjV1SnktQU5CM29SdWs0Yk85WGtWaHNxc0Vnb2lXaWJpT3RfbExBdmlidWtVRmI5NGJsdjdBdGJWYWVwVzZPbndab0tmY09Ic25sVkZuS3pDZFg0VTZ3?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’ - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
+### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">stroke</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
 ---
 
@@ -94,35 +94,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+---
+
 ### [Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work? - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
 
 2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
-
----
-
-### [Schlafapnoe: Lasst die Masken fallen!](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzlmYWtoTUtDcVdTWV9tb0h6YzYyTXF2ZGk1NkVybUNBTndHTkxoNl90RzdxUmF2N2l4bjV1bXY0TDNSQ3g0eS1QelhyUkpiTy05TFczcnVDOS0wdGdjTVhtcHJDNklVQzVsd0pfSDVPWjFCeDJTSU1idUlGM2ExaThnaXdzaVJZQkNFVXN3?oc=5)
-
-2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzlmYWtoTUtDcVdTWV9tb0h6YzYyTXF2ZGk1NkVybUNBTndHTkxoNl90RzdxUmF2N2l4bjV1bXY0TDNSQ3g0eS1QelhyUkpiTy05TFczcnVDOS0wdGdjTVhtcHJDNklVQzVsd0pfSDVPWjFCeDJTSU1idUlGM2ExaThnaXdzaVJZQkNFVXN3?oc=5)
-
----
-
-### [Obesità, i nuovi farmaci arrivano agli adolescenti. Ma il SSN deve decidere chi curare, come e a quali costi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJhR0FoVG12RlVUZkptZTFGZFp1dllVNTZvbjJQSjM3bGxvNEtxM096cHI2a1cwbzlNdnRZUTYtbFRGczI2dTRaaExqV3BLRlNkS2JZX3NScjFfU25YZjZuVGxCbF90YXVEQnVNNUFMR0NZdmU5YzlmRENwR0NVakhwTm1CN1JWU2hJdHktQTlHdnNEamZqaG1EbzUwTmluTEFtbWpGaGtiencwSjg3bzVsVEl5MElDUzFEMGNwM2RjVmptQ3Z1eS1XbjZmSlY3Tm5lbHdCLXFXdUU2ZHB5cFZSU2xJTUR4bVB0Ng?oc=5)
-
-2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJhR0FoVG12RlVUZkptZTFGZFp1dllVNTZvbjJQSjM3bGxvNEtxM096cHI2a1cwbzlNdnRZUTYtbFRGczI2dTRaaExqV3BLRlNkS2JZX3NScjFfU25YZjZuVGxCbF90YXVEQnVNNUFMR0NZdmU5YzlmRENwR0NVakhwTm1CN1JWU2hJdHktQTlHdnNEamZqaG1EbzUwTmluTEFtbWpGaGtiencwSjg3bzVsVEl5MElDUzFEMGNwM2RjVmptQ3Z1eS1XbjZmSlY3Tm5lbHdCLXFXdUU2ZHB5cFZSU2xJTUR4bVB0Ng?oc=5)
-
----
-
-### [La importancia de la testosterona: un estudio estadounidense relaciona el nivel de esta hormona con mayor riesgo de fibrilación auricular - La Vanguardia](https://news.google.com/rss/articles/CBMijgJBVV95cUxPdWNHaTAyMEJfc2tKcDJtamJqQUIzd2xoZDVGLWxfMFR3ZUxkN2tiZlpYX2p5NW90QVR3aTFiMnhzZ2NYMDVuNWVickNSbE9tTTRDbHc1OEFoZlhydXhuZ094N0VPaHU3U0xpb1ZxTHgxbUNXUkNtNWh0TWs3cXpPTEg2aC1jU082dEEtazJPOGRZRy03RXlUb2VobnFGVm1JVWJUeF9jalpqUjV0cW4yMTZ3ZXhPUGowdVVHY0ZsRzJIaVRRdnNrMHdFNmtOYjVsV2RsVWQ3eUMycDZ6QzRTNVFMalVYcTVfWmwxOTN5Wkc1VjBVaXp6VGlMZEp5YlpyTUluaERXTGd4QjE4cEHSAZMCQVVfeXFMTUpxcm9DREx6ejRnNHVPVDJKaG9uOXpYVnAwZFRzNXNtelZXczJrR3pUaU5iYlItcDVyN1VUTUtiZGxjc1htOV8tdFYwZnRiNmxGcjRaQVZIaVhSeUZJeS1tYmtXUzk4ajl0NlZBTHdyTEpNQzJYaUtaY3IxelBySmdSU1RXSXF3SjlQUk5MeURCeVpSVzlWR285TElEdGpMS1dUclR5Qy1CZE5OOUlHMjlqWVpRcWZMT0FWa2EtcEdhTXRpaldxZldrdFFLWFI5QTlScUhRaGp5NHdqN2FnZ0Q2a2xVYkN3akZnOU1NTkhVYmxhSTBWNlBjQVRDUk80eTM2dG12NFBuLTFPNEtPWXVtSWM?oc=5)
-
-2026-09-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">fibrilación auricular</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMijgJBVV95cUxPdWNHaTAyMEJfc2tKcDJtamJqQUIzd2xoZDVGLWxfMFR3ZUxkN2tiZlpYX2p5NW90QVR3aTFiMnhzZ2NYMDVuNWVickNSbE9tTTRDbHc1OEFoZlhydXhuZ094N0VPaHU3U0xpb1ZxTHgxbUNXUkNtNWh0TWs3cXpPTEg2aC1jU082dEEtazJPOGRZRy03RXlUb2VobnFGVm1JVWJUeF9jalpqUjV0cW4yMTZ3ZXhPUGowdVVHY0ZsRzJIaVRRdnNrMHdFNmtOYjVsV2RsVWQ3eUMycDZ6QzRTNVFMalVYcTVfWmwxOTN5Wkc1VjBVaXp6VGlMZEp5YlpyTUluaERXTGd4QjE4cEHSAZMCQVVfeXFMTUpxcm9DREx6ejRnNHVPVDJKaG9uOXpYVnAwZFRzNXNtelZXczJrR3pUaU5iYlItcDVyN1VUTUtiZGxjc1htOV8tdFYwZnRiNmxGcjRaQVZIaVhSeUZJeS1tYmtXUzk4ajl0NlZBTHdyTEpNQzJYaUtaY3IxelBySmdSU1RXSXF3SjlQUk5MeURCeVpSVzlWR285TElEdGpMS1dUclR5Qy1CZE5OOUlHMjlqWVpRcWZMT0FWa2EtcEdhTXRpaldxZldrdFFLWFI5QTlScUhRaGp5NHdqN2FnZ0Q2a2xVYkN3akZnOU1NTkhVYmxhSTBWNlBjQVRDUk80eTM2dG12NFBuLTFPNEtPWXVtSWM?oc=5)
 
 ---
 
@@ -139,14 +123,6 @@ permalink: /news/orlistat/
 2026-09-03 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
-
----
-
-### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
 
 ---
 

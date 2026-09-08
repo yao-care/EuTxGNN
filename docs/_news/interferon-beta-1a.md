@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（26 則）
+
+### [OMS: brote de ébola sigue “fuera de control” y faltan camas](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1QwNkhnTnBxZWFNMFZWVlpBWFZHdHRfTXVfTE5wSG55X0pHVHVyN2NDcDh4eWhXdHpwODRIRmNGR0M2eUJUVElIM3BxaU5FdTk5cVYxRG9ZRmEzMWhaNnhyMW56Qk9lS1p3dlNucU02WFBtaUttaFU0X1hRLUNIeV9aakhQRjFGMG5LZDhEWjYtZ1NjdDgxdktn0gGaAUFVX3lxTE9mcFFnUllzTmhBZDdRSTdZcmxEVTJvT0xBQUprTm1oUnlkZFRBb3NKZWdFbkpzcXJEcFNQWnBZaF9rZmNjSGhwNDduM1c2TG1WTXpMVEp5dER2RzlQazFHcFNvdjVvVnZ4aTY1QUJpd0VGN1c3Z0VmT19VZzdkX3ZjdjJVTGpxeW4yaGJHVHFuWVlSU1Y2SENFblE?oc=5)
+
+2026-09-08 <span class="news-indication-tag">MS</span>
+
+來源：[dw.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1QwNkhnTnBxZWFNMFZWVlpBWFZHdHRfTXVfTE5wSG55X0pHVHVyN2NDcDh4eWhXdHpwODRIRmNGR0M2eUJUVElIM3BxaU5FdTk5cVYxRG9ZRmEzMWhaNnhyMW56Qk9lS1p3dlNucU02WFBtaUttaFU0X1hRLUNIeV9aakhQRjFGMG5LZDhEWjYtZ1NjdDgxdktn0gGaAUFVX3lxTE9mcFFnUllzTmhBZDdRSTdZcmxEVTJvT0xBQUprTm1oUnlkZFRBb3NKZWdFbkpzcXJEcFNQWnBZaF9rZmNjSGhwNDduM1c2TG1WTXpMVEp5dER2RzlQazFHcFNvdjVvVnZ4aTY1QUJpd0VGN1c3Z0VmT19VZzdkX3ZjdjJVTGpxeW4yaGJHVHFuWVlSU1Y2SENFblE?oc=5)
+
+---
+
+### [Editing genetico, due bambini morti nei trial in Cina: i casi rimasti nascosti per mesi](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHlEME10ZE9iSTdxck9wM0Y1MkdBMU1LbHhIeVpudmFDTFpnclVKazlJQTNsZGxoM0k0MWZGdUlGYmxZWG8yU0MyTGU4c3dia3pLbWlhZXNVWTI1TERFaXdIZm0xTDhjMDZQT2VSWV80Z3pRcjdnUFctRTNHUlhoa1dnTEdQTEFrUEdiVGJQVVBCeU1DZXdzbFhvRzBxT0FiT1R4SG5mMzJwNWxSc2o5bDlvR20yYkdPUHNPaEJyMmJtS3V2MGsyLTFYSGlueHBxWFh0Z1FsTnRoVjJ3?oc=5)
+
+2026-09-08 <span class="news-indication-tag">MS</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHlEME10ZE9iSTdxck9wM0Y1MkdBMU1LbHhIeVpudmFDTFpnclVKazlJQTNsZGxoM0k0MWZGdUlGYmxZWG8yU0MyTGU4c3dia3pLbWlhZXNVWTI1TERFaXdIZm0xTDhjMDZQT2VSWV80Z3pRcjdnUFctRTNHUlhoa1dnTEdQTEFrUEdiVGJQVVBCeU1DZXdzbFhvRzBxT0FiT1R4SG5mMzJwNWxSc2o5bDlvR20yYkdPUHNPaEJyMmJtS3V2MGsyLTFYSGlueHBxWFh0Z1FsTnRoVjJ3?oc=5)
+
+---
+
+### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+
+2026-09-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+
+---
 
 ### [Hepatozelluläre Steatose: Botenstoff des Immunsystems schützt die Leber - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VfRXUxME0wMDRxQm1IODExdDFQR3U1cDNRQU1md2owLTRTMzg5cnBOMklTY1JiZWtaRlkyaTJyUVkya3J0OVM1TFVRU28tcHdNSjNNdm1BR2dLNzR4ZUZkMVMwMVMwcjFkN2o0bmFhMTFOSUVTamludnVMdmN2QTBqaVZWN1ZqSzdpRnhXQ1dyUW1aM1VJV1lneFZSRWtXYzFN?oc=5)
 
@@ -78,11 +102,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [How to lose 2st by Christmas with our 3/3/3 plan... no fat jabs, gyms or calorie counting in sight - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWg5Z01DWFpxRFRJU3B2dVBSUDZPR3JTVFdOeHYtaGRSamNwekF6WDVHckhKNklzMTVzTE53MVJfRVA4UGY2azljbXVtT0hNS1FvUnJiT3RuXy0zV1ZRTXBmRzRYclZaRXlnSmxoaEVFNUlmQjN2dDA4M2JYM2Q4NzhTNWZDY0hXWmVJNg?oc=5)
+### [How to lose 2st by Christmas with our 3/3/3 plan... no fat jabs, gyms or calorie counting in sight](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWg5Z01DWFpxRFRJU3B2dVBSUDZPR3JTVFdOeHYtaGRSamNwekF6WDVHckhKNklzMTVzTE53MVJfRVA4UGY2azljbXVtT0hNS1FvUnJiT3RuXy0zV1ZRTXBmRzRYclZaRXlnSmxoaEVFNUlmQjN2dDA4M2JYM2Q4NzhTNWZDY0hXWmVJNg?oc=5)
 
 2026-09-07 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWg5Z01DWFpxRFRJU3B2dVBSUDZPR3JTVFdOeHYtaGRSamNwekF6WDVHckhKNklzMTVzTE53MVJfRVA4UGY2azljbXVtT0hNS1FvUnJiT3RuXy0zV1ZRTXBmRzRYclZaRXlnSmxoaEVFNUlmQjN2dDA4M2JYM2Q4NzhTNWZDY0hXWmVJNg?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWg5Z01DWFpxRFRJU3B2dVBSUDZPR3JTVFdOeHYtaGRSamNwekF6WDVHckhKNklzMTVzTE53MVJfRVA4UGY2azljbXVtT0hNS1FvUnJiT3RuXy0zV1ZRTXBmRzRYclZaRXlnSmxoaEVFNUlmQjN2dDA4M2JYM2Q4NzhTNWZDY0hXWmVJNg?oc=5)
+
+---
+
+### [Multiancestry genome-wide association and multiomics analyses elucidate spatiocellular features of multiple sclerosis genetics](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OVUx1ZzR3M1F5Z3JRNGI2czBpV3JVcFFGU2F1MU1NZzZZQjdTZ3BMa01MYmdNVVI5cDgxT1pUa1pxNlAxQkZ0UWg4SUVHRUxXSUQxaGJrQmZrTEp4R2h3?oc=5)
+
+2026-09-07 <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OVUx1ZzR3M1F5Z3JRNGI2czBpV3JVcFFGU2F1MU1NZzZZQjdTZ3BMa01MYmdNVVI5cDgxT1pUa1pxNlAxQkZ0UWg4SUVHRUxXSUQxaGJrQmZrTEp4R2h3?oc=5)
 
 ---
 
@@ -102,11 +134,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Santé sexuelle : le ministère de la santé a présenté sa feuille de route pour 2026-2030 - Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUlFYSTNWWk5PRWYyMkZ2c3piMEIwTE5ONXZhSUdJUnZoLVRHNGRUMmJDeHBqU0ViZ2ZtZkxkazVzcUdCbXNWVS12LWtZQ2g5UmI0NEtNT1Uzdi1tdG1sVlptSnhDNXdOMkNNblpSdDVYaWhKWS0yN1hRRkw5b0FOZnp0dGhWdUY0LXgzZzZBak1seHQ4X2tVUjFxQTRvTGtBYURweFlHTW1GUTJ0akgyNXlkMTFodkg3VGtxUjY0ZDc3aWJvYzdCcUR0ZEwyTUMxeTRXOXNYbTBpai1FeDd6clk5X1ByeG5B?oc=5)
+### [The Guardian view on skin cancer: fear the heat of the sun | Editorial - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
 
-2026-09-07 <span class="news-indication-tag">MS</span>
+2026-09-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUlFYSTNWWk5PRWYyMkZ2c3piMEIwTE5ONXZhSUdJUnZoLVRHNGRUMmJDeHBqU0ViZ2ZtZkxkazVzcUdCbXNWVS12LWtZQ2g5UmI0NEtNT1Uzdi1tdG1sVlptSnhDNXdOMkNNblpSdDVYaWhKWS0yN1hRRkw5b0FOZnp0dGhWdUY0LXgzZzZBak1seHQ4X2tVUjFxQTRvTGtBYURweFlHTW1GUTJ0akgyNXlkMTFodkg3VGtxUjY0ZDc3aWJvYzdCcUR0ZEwyTUMxeTRXOXNYbTBpai1FeDd6clk5X1ByeG5B?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
 
 ---
 
@@ -118,19 +150,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+---
+
 ### [Sclerosi multipla, non è solo il sistema immunitario: due maxi-studi puntano anche sui neuroni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHgyQVhsbElLT2ppNHVYSVZGakJSOFBTQm5Ia3pvUkxNUkhIRUhrM2RWVXJROGhUNTZxYnBPN1VWdGM2TUExNjZGcmdJLXBmaFRxb3BEV2JOdXZkMGdmdi1qalN4UGY4RWExNVg3b1VWLVQxMzBzSzhzbHZmTUpZblMtQUMzbHNtV0dfVW41Skd0M2V2Sm56SFBJdHNEb1FDdjZUSldrMDR3RnFDOVhrQU5kRWk3Tzl4OXhqUVlvbFVFVTI0OWhJNXlac1E4R2NiLXluSnJnUFVJNnA5SFdnaG9Xem9fUnc?oc=5)
 
 2026-09-07 <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHgyQVhsbElLT2ppNHVYSVZGakJSOFBTQm5Ia3pvUkxNUkhIRUhrM2RWVXJROGhUNTZxYnBPN1VWdGM2TUExNjZGcmdJLXBmaFRxb3BEV2JOdXZkMGdmdi1qalN4UGY4RWExNVg3b1VWLVQxMzBzSzhzbHZmTUpZblMtQUMzbHNtV0dfVW41Skd0M2V2Sm56SFBJdHNEb1FDdjZUSldrMDR3RnFDOVhrQU5kRWk3Tzl4OXhqUVlvbFVFVTI0OWhJNXlac1E4R2NiLXluSnJnUFVJNnA5SFdnaG9Xem9fUnc?oc=5)
-
----
-
-### [Schlafapnoe: Lasst die Masken fallen!](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzlmYWtoTUtDcVdTWV9tb0h6YzYyTXF2ZGk1NkVybUNBTndHTkxoNl90RzdxUmF2N2l4bjV1bXY0TDNSQ3g0eS1QelhyUkpiTy05TFczcnVDOS0wdGdjTVhtcHJDNklVQzVsd0pfSDVPWjFCeDJTSU1idUlGM2ExaThnaXdzaVJZQkNFVXN3?oc=5)
-
-2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzlmYWtoTUtDcVdTWV9tb0h6YzYyTXF2ZGk1NkVybUNBTndHTkxoNl90RzdxUmF2N2l4bjV1bXY0TDNSQ3g0eS1QelhyUkpiTy05TFczcnVDOS0wdGdjTVhtcHJDNklVQzVsd0pfSDVPWjFCeDJTSU1idUlGM2ExaThnaXdzaVJZQkNFVXN3?oc=5)
 
 ---
 
@@ -152,25 +184,25 @@ permalink: /news/interferon-beta-1a/
 
 ### [¿Una vacuna contra el melanoma? Qué hay realmente detrás del anuncio de Merck y Moderna](https://news.google.com/rss/articles/CBMitgFBVV95cUxQckZvalJoMmY5bW55YzZ5VUJHcmk3ZnJSbEpkUHVGUGFvV3FQRExSbHRjUk5uWENCbXBWeVcycGpwLWdRYWpxXzVJOWFrY0dSZF9Gd1lJRU9GR1k4bXk2dUZicGRtN2dKWEZnSWo4elMzOFQyZWVWbDNaTy1taVpDNkR1YkdTM240WlAwZkJ1ZzlfS1FfUVZCTnNfS3R4aGVLMTVYNlNYZ2V1Vzd4cHgteWFMWVVlUQ?oc=5)
 
-2026-09-07 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+2026-09-07 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[EHU](https://news.google.com/rss/articles/CBMitgFBVV95cUxQckZvalJoMmY5bW55YzZ5VUJHcmk3ZnJSbEpkUHVGUGFvV3FQRExSbHRjUk5uWENCbXBWeVcycGpwLWdRYWpxXzVJOWFrY0dSZF9Gd1lJRU9GR1k4bXk2dUZicGRtN2dKWEZnSWo4elMzOFQyZWVWbDNaTy1taVpDNkR1YkdTM240WlAwZkJ1ZzlfS1FfUVZCTnNfS3R4aGVLMTVYNlNYZ2V1Vzd4cHgteWFMWVVlUQ?oc=5)
 
 ---
 
-### [Peu de personnes connaissent la différence entre huile d'olive vierge et vierge extra : voici ce que cela signifie - Yahoo Life France](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmVLT0RydUhKRnJGMnlSMEZYX0c2TDltSExyOEJ1VGJpWWhnUVhQWmFMUlM4bHJ0R2M1ak10Sjd2bXVQVVE2VzlSQk5xcWM3OUNnYktaWWNXRVk5cEwxbGVqUVZEMjQzd0h1TFNlZmtmRzhGZTBUbXRuSzVoVDdUcndxZHRFaUhZUFlnVTdhN1RQMEE?oc=5)
-
-2026-09-07 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmVLT0RydUhKRnJGMnlSMEZYX0c2TDltSExyOEJ1VGJpWWhnUVhQWmFMUlM4bHJ0R2M1ak10Sjd2bXVQVVE2VzlSQk5xcWM3OUNnYktaWWNXRVk5cEwxbGVqUVZEMjQzd0h1TFNlZmtmRzhGZTBUbXRuSzVoVDdUcndxZHRFaUhZUFlnVTdhN1RQMEE?oc=5)
-
----
-
-### [Roma, la lebbra è in città. Ed è d'importazione - Il Tempo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQi1wcHk3UDB4V2V3cFFfRDRDbXBPZ1RZT0ZNUHdpU0ttWTFIMk1qSFB2Vk1lajlEQm1hdU9LWFlZZ1JUMTBvU0FSRDBfY3dJbjc3MmVxcm5FN0IwYUkzMEhCczhWVnljNzBhZDlmUkFxZk04WW9UM2pVX0x0cWh4RFAwSlp1U3RIandERTNCSEx6WVlRSEk4aDVYMmdzMnF3ekRQTGpvWUNLZnM1N3NzddIBtgFBVV95cUxQQ1JoRkY5LUQ1S3RWTm1RQTVsWklydk5hS1ZkMFRlUW9SZnVHb2lvUkFSRnllNGpfaWp0eHdtNjVST3ozLXMzX0lfdVp5VDRZNDZKRlhNR2FQQlFMX19KT0dlN1g2RWJsWXB4MUkycVFxdl82WDZyeXlidlVqeWNSTWVNdldsTWNPek11aXJ1eEVPMHhZV1lVYmZ5TTgtdUZpbnVERFI2M0dZV1JHZnV5NENjU2lLQQ?oc=5)
+### [Roma, la lebbra è in città. Ed è d'importazione](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQi1wcHk3UDB4V2V3cFFfRDRDbXBPZ1RZT0ZNUHdpU0ttWTFIMk1qSFB2Vk1lajlEQm1hdU9LWFlZZ1JUMTBvU0FSRDBfY3dJbjc3MmVxcm5FN0IwYUkzMEhCczhWVnljNzBhZDlmUkFxZk04WW9UM2pVX0x0cWh4RFAwSlp1U3RIandERTNCSEx6WVlRSEk4aDVYMmdzMnF3ekRQTGpvWUNLZnM1N3NzddIBtgFBVV95cUxQQ1JoRkY5LUQ1S3RWTm1RQTVsWklydk5hS1ZkMFRlUW9SZnVHb2lvUkFSRnllNGpfaWp0eHdtNjVST3ozLXMzX0lfdVp5VDRZNDZKRlhNR2FQQlFMX19KT0dlN1g2RWJsWXB4MUkycVFxdl82WDZyeXlidlVqeWNSTWVNdldsTWNPek11aXJ1eEVPMHhZV1lVYmZ5TTgtdUZpbnVERFI2M0dZV1JHZnV5NENjU2lLQQ?oc=5)
 
 2026-09-07 <span class="news-indication-tag">MS</span>
 
-來源：[Il Tempo](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQi1wcHk3UDB4V2V3cFFfRDRDbXBPZ1RZT0ZNUHdpU0ttWTFIMk1qSFB2Vk1lajlEQm1hdU9LWFlZZ1JUMTBvU0FSRDBfY3dJbjc3MmVxcm5FN0IwYUkzMEhCczhWVnljNzBhZDlmUkFxZk04WW9UM2pVX0x0cWh4RFAwSlp1U3RIandERTNCSEx6WVlRSEk4aDVYMmdzMnF3ekRQTGpvWUNLZnM1N3NzddIBtgFBVV95cUxQQ1JoRkY5LUQ1S3RWTm1RQTVsWklydk5hS1ZkMFRlUW9SZnVHb2lvUkFSRnllNGpfaWp0eHdtNjVST3ozLXMzX0lfdVp5VDRZNDZKRlhNR2FQQlFMX19KT0dlN1g2RWJsWXB4MUkycVFxdl82WDZyeXlidlVqeWNSTWVNdldsTWNPek11aXJ1eEVPMHhZV1lVYmZ5TTgtdUZpbnVERFI2M0dZV1JHZnV5NENjU2lLQQ?oc=5)
+來源：[iltempo.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQi1wcHk3UDB4V2V3cFFfRDRDbXBPZ1RZT0ZNUHdpU0ttWTFIMk1qSFB2Vk1lajlEQm1hdU9LWFlZZ1JUMTBvU0FSRDBfY3dJbjc3MmVxcm5FN0IwYUkzMEhCczhWVnljNzBhZDlmUkFxZk04WW9UM2pVX0x0cWh4RFAwSlp1U3RIandERTNCSEx6WVlRSEk4aDVYMmdzMnF3ekRQTGpvWUNLZnM1N3NzddIBtgFBVV95cUxQQ1JoRkY5LUQ1S3RWTm1RQTVsWklydk5hS1ZkMFRlUW9SZnVHb2lvUkFSRnllNGpfaWp0eHdtNjVST3ozLXMzX0lfdVp5VDRZNDZKRlhNR2FQQlFMX19KT0dlN1g2RWJsWXB4MUkycVFxdl82WDZyeXlidlVqeWNSTWVNdldsTWNPek11aXJ1eEVPMHhZV1lVYmZ5TTgtdUZpbnVERFI2M0dZV1JHZnV5NENjU2lLQQ?oc=5)
+
+---
+
+### [Teure Low-Sugar-Produkte: Warum Zuckerersatz nicht automatisch gesünder ist](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWQ2WHkwS3JtWkZVNEc1bGZsVjByeU5jVi1uNUZ4NmV4QWxid3FSR2V6bVhwR0NycEdyMDJlcGVtT1I1SnFGS04zYW5Cd2dKUWVxVlVRejJuSC0zcldqbHJKN2tqaFAxZF8wZy05MG94bHhLUFFiMWhkRk5JTjRJTTN0ZVY0Y2R1TFpEWVRjTkJmUHY5RWtCeGJOaTBHQV9XN3RQS0NkQWpVNHVoeGpTaG1PazBONFhvS2ZteWsxOA?oc=5)
+
+2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Telepolis](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWQ2WHkwS3JtWkZVNEc1bGZsVjByeU5jVi1uNUZ4NmV4QWxid3FSR2V6bVhwR0NycEdyMDJlcGVtT1I1SnFGS04zYW5Cd2dKUWVxVlVRejJuSC0zcldqbHJKN2tqaFAxZF8wZy05MG94bHhLUFFiMWhkRk5JTjRJTTN0ZVY0Y2R1TFpEWVRjTkJmUHY5RWtCeGJOaTBHQV9XN3RQS0NkQWpVNHVoeGpTaG1PazBONFhvS2ZteWsxOA?oc=5)
 
 ---
 
@@ -198,6 +230,22 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [How Mental Health Influences Bladder Function and Lower Urinary Tract Symptoms](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEJKWng1d1lIMmZpaE5VSDJMX2ZWYXRVZ3htVnNrSDNKbC1WaEM3YzEzYWJrZnFaM0o1ZW5LRU8xS2x0UFg1Z25PNU0zOUh1dkItR1o3LWwxX2FGS05iV3ZuOUNVcTZXRGQ1Y1NzNHRWRXV0NHlnWWdsTHd2R0RKZlAwWFkwWEpLNi1lNlVDVnNDM3RHWEFDNHlYVWxlUlBwYWZJVUptZVVRZ0xwZUctc1BJOTAzN0JlSnBJ?oc=5)
+
+2026-09-07 <span class="news-indication-tag">MS</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEJKWng1d1lIMmZpaE5VSDJMX2ZWYXRVZ3htVnNrSDNKbC1WaEM3YzEzYWJrZnFaM0o1ZW5LRU8xS2x0UFg1Z25PNU0zOUh1dkItR1o3LWwxX2FGS05iV3ZuOUNVcTZXRGQ1Y1NzNHRWRXV0NHlnWWdsTHd2R0RKZlAwWFkwWEpLNi1lNlVDVnNDM3RHWEFDNHlYVWxlUlBwYWZJVUptZVVRZ0xwZUctc1BJOTAzN0JlSnBJ?oc=5)
+
+---
+
+### [Vagus Nerve Stimulation Could Unlock the Brain’s Hidden Learning Potential](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnVndDRYMEc5aWFWa3kyR1J3UnhBaXRzUGptVHplY0xTUTdzYXZjajkwSHhMckI0TFVjWlpLbVltb1JvNG9Cc0gzQUszcjhuWVpiQVpkVzJxWFo4SFRsbXlBeW54UzQxUUxiNkRkSzhMcE5uWUhBZjltVk1pY3FNUWppYldTaVF2UmJMeklteGRlb09WTGxaNFZlcmgtdDc1?oc=5)
+
+2026-09-07 <span class="news-indication-tag">MS</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnVndDRYMEc5aWFWa3kyR1J3UnhBaXRzUGptVHplY0xTUTdzYXZjajkwSHhMckI0TFVjWlpLbVltb1JvNG9Cc0gzQUszcjhuWVpiQVpkVzJxWFo4SFRsbXlBeW54UzQxUUxiNkRkSzhMcE5uWUhBZjltVk1pY3FNUWppYldTaVF2UmJMeklteGRlb09WTGxaNFZlcmgtdDc1?oc=5)
+
+---
+
 ### [Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented - The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
 
 2026-09-05 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
@@ -206,27 +254,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Nearly half of adults left sunburnt and many are 'not protecting themselves', cancer charity warns - Sky News](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeW5yR3hTLXR6UUdybEpSdFBDNW1rSnFsd0VzNFo5T2VMbVFoUGtFQVU0Y0QzdFZWRmV6YnV2T3R6Mnp0V3pueTZMVGFmTEVxTU05Y2RITXM3clhVSHZGYThfdUN1Yl83S2FTYWFYeW9OX3MyWjNlbkNTelVjTW5ULWhzMmpaZGdJbXYxZkNXRUlFa3pUZkllY21PTW5SMFFPZ2FKa0p5bVBHTFlzMV9nQk5JZktURndObjJKSlU3SjhWOEdRQVJ0OEhBYw?oc=5)
+### [Immune therapy engineered inside the body eases multiple sclerosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UYnJZSjgyUmtsRmx1eHVzdmZweWstLWtxbmM1ZnV6UE1VazgwWGxqcnNmVDIyOTdSRWNjUVFQOTgxVWVwSE9sQldhWGNyNTBIelhaT3dDeWVuMi1PQUYw?oc=5)
 
-2026-09-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-09-03 <span class="news-indication-tag">multiple sclerosis</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeW5yR3hTLXR6UUdybEpSdFBDNW1rSnFsd0VzNFo5T2VMbVFoUGtFQVU0Y0QzdFZWRmV6YnV2T3R6Mnp0V3pueTZMVGFmTEVxTU05Y2RITXM3clhVSHZGYThfdUN1Yl83S2FTYWFYeW9OX3MyWjNlbkNTelVjTW5ULWhzMmpaZGdJbXYxZkNXRUlFa3pUZkllY21PTW5SMFFPZ2FKa0p5bVBHTFlzMV9nQk5JZktURndObjJKSlU3SjhWOEdRQVJ0OEhBYw?oc=5)
-
----
-
-### [NHS confirms rule change for patients aged 65 to 74 in England from September - Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGhPTEhfaFBHYjBxN0FPcE0zMFJnSS1HTkJKUFg5bC00aXg1eDhvOXlDTlc4R0VjVmQtYTRDNklzOC1Qei1ydkxVN3NMLWpyNzZaMURFTkNEUE1rT3Z5M2M2TUEzQXhSOFhUYkxVcndXQ2U4ckY0VFZHUW1lZ0drRU5mQ0VMWEhxZXRqZHZCZzAxcHcwSDNGVFFB0gGfAUFVX3lxTE0yclpjdGhEMDNCVDlHMmRkR0N5MHZBVk1jcm5sZUtVWElvTi1oZUZEV2ZWZnZnb2VpOEtoUHNsZHBYeXZ6X1dLcUFMRlg5Ykt6a2NkUS1weXczNHZoN3QyOGhlYUN0eEE4d2lDc3BPNVFtOEZKSExiSmpEZnJHd0ZJZnZGVXRQVDlmb3EwR3NMcTAzQmxzRkhFN1RFZi03Zw?oc=5)
-
-2026-09-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGhPTEhfaFBHYjBxN0FPcE0zMFJnSS1HTkJKUFg5bC00aXg1eDhvOXlDTlc4R0VjVmQtYTRDNklzOC1Qei1ydkxVN3NMLWpyNzZaMURFTkNEUE1rT3Z5M2M2TUEzQXhSOFhUYkxVcndXQ2U4ckY0VFZHUW1lZ0drRU5mQ0VMWEhxZXRqZHZCZzAxcHcwSDNGVFFB0gGfAUFVX3lxTE0yclpjdGhEMDNCVDlHMmRkR0N5MHZBVk1jcm5sZUtVWElvTi1oZUZEV2ZWZnZnb2VpOEtoUHNsZHBYeXZ6X1dLcUFMRlg5Ykt6a2NkUS1weXczNHZoN3QyOGhlYUN0eEE4d2lDc3BPNVFtOEZKSExiSmpEZnJHd0ZJZnZGVXRQVDlmb3EwR3NMcTAzQmxzRkhFN1RFZi03Zw?oc=5)
-
----
-
-### [NHS confirms double vaccine for older adults aged 65-80 - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGM1U0NkS2JtdHp1S1JpQUl2Yl8wZHRqUGhDRHVDNTlLbjhpaE4yQk5iMnNUTnlJbUc1eEF2ZHVPeTNrS01XOHR2Sll3WDNRQ3lPd1FqQ3ZFdzBuZDZXS0h1cFZjTW1hZlB1MlJpMER6cFRTbDVDYndlQnJKbHJHQ00yTTRmS1JqTzJqRDZB0gGTAUFVX3lxTE9sdmJaeHBDYWhzdzlvLUN5T29GdWUxaUFfZm1Ib2Z2QU5nUERteGNlR29fVnFXbDg3OTViQndrUFNrRFQ1d1VRVmxJSGdxRVBBQUNnOEhreHRhdzlOR0xac3lfSm1TVW1oQW8xcmc0bFRqRElpU05kcVN1Z3h0Wk1TQ0ZGS0d0ZXNFd04xZ21SRV9lOA?oc=5)
-
-2026-09-04 <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGM1U0NkS2JtdHp1S1JpQUl2Yl8wZHRqUGhDRHVDNTlLbjhpaE4yQk5iMnNUTnlJbUc1eEF2ZHVPeTNrS01XOHR2Sll3WDNRQ3lPd1FqQ3ZFdzBuZDZXS0h1cFZjTW1hZlB1MlJpMER6cFRTbDVDYndlQnJKbHJHQ00yTTRmS1JqTzJqRDZB0gGTAUFVX3lxTE9sdmJaeHBDYWhzdzlvLUN5T29GdWUxaUFfZm1Ib2Z2QU5nUERteGNlR29fVnFXbDg3OTViQndrUFNrRFQ1d1VRVmxJSGdxRVBBQUNnOEhreHRhdzlOR0xac3lfSm1TVW1oQW8xcmc0bFRqRElpU05kcVN1Z3h0Wk1TQ0ZGS0d0ZXNFd04xZ21SRV9lOA?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UYnJZSjgyUmtsRmx1eHVzdmZweWstLWtxbmM1ZnV6UE1VazgwWGxqcnNmVDIyOTdSRWNjUVFQOTgxVWVwSE9sQldhWGNyNTBIelhaT3dDeWVuMi1PQUYw?oc=5)
 
 ---
 

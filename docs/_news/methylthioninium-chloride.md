@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Fat jabs could slash risk of killer asthma attacks up to 40%, study suggests - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
+### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
 
-2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">BPCO</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
 
 ---
 
@@ -67,22 +67,6 @@ permalink: /news/methylthioninium-chloride/
 2026-09-07 <span class="news-indication-tag">BPCO</span>
 
 來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
-
----
-
-### [Laughter could be best medicine for lung disease patients - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
-
-2026-09-07 <span class="news-indication-tag">copd</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
-
----
-
-### [Brepocitinib lindert Hautsymptome bei Dermatomyositis - Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNm5qdjg4NklnWWtVaThmRm51dnZhV3ltZ1IwdFJSZEpHVnd1Q2JJSTl3RXFlVmxVd2FBdzFxZ1VMTkM0TWJWdGJlV1BidDRETDJVaEZQWDdXb0FHTWl6MnhJaFVLNTNyeHR1WmxadkJSNW43OWo5NEV1OUhPazFjMC1jc0J6d3poOUZfUDBQUGc?oc=5)
-
-2026-09-03 <span class="news-indication-tag">EPOC</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNm5qdjg4NklnWWtVaThmRm51dnZhV3ltZ1IwdFJSZEpHVnd1Q2JJSTl3RXFlVmxVd2FBdzFxZ1VMTkM0TWJWdGJlV1BidDRETDJVaEZQWDdXb0FHTWl6MnhJaFVLNTNyeHR1WmxadkJSNW43OWo5NEV1OUhPazFjMC1jc0J6d3poOUZfUDBQUGc?oc=5)
 
 ---
 

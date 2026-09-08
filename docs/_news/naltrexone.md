@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [Ketogene Diät: 67% Leberfettreduktion bei Adipositas und Prädiabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjJpalhRUWFVQzJobzY3RmphSTVSUy02Z1pMb2dUZXdWS1RQSlhfNXpHYjJzY0s1eEVRRUUwS0MxUTZsbGFBVFNObFNKMkJVYjlScWUyZHdOOVhjMjV1SnktQU5CM29SdWs0Yk85WGtWaHNxc0Vnb2lXaWJpT3RfbExBdmlidWtVRmI5NGJsdjdBdGJWYWVwVzZPbndab0tmY09Ic25sVkZuS3pDZFg0VTZ3?oc=5)
 
@@ -70,27 +70,19 @@ permalink: /news/naltrexone/
 
 ---
 
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+---
+
 ### [Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work? - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
 
 2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
-
----
-
-### [Schlafapnoe: Lasst die Masken fallen!](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzlmYWtoTUtDcVdTWV9tb0h6YzYyTXF2ZGk1NkVybUNBTndHTkxoNl90RzdxUmF2N2l4bjV1bXY0TDNSQ3g0eS1QelhyUkpiTy05TFczcnVDOS0wdGdjTVhtcHJDNklVQzVsd0pfSDVPWjFCeDJTSU1idUlGM2ExaThnaXdzaVJZQkNFVXN3?oc=5)
-
-2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzlmYWtoTUtDcVdTWV9tb0h6YzYyTXF2ZGk1NkVybUNBTndHTkxoNl90RzdxUmF2N2l4bjV1bXY0TDNSQ3g0eS1QelhyUkpiTy05TFczcnVDOS0wdGdjTVhtcHJDNklVQzVsd0pfSDVPWjFCeDJTSU1idUlGM2ExaThnaXdzaVJZQkNFVXN3?oc=5)
-
----
-
-### [Obesità, i nuovi farmaci arrivano agli adolescenti. Ma il SSN deve decidere chi curare, come e a quali costi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJhR0FoVG12RlVUZkptZTFGZFp1dllVNTZvbjJQSjM3bGxvNEtxM096cHI2a1cwbzlNdnRZUTYtbFRGczI2dTRaaExqV3BLRlNkS2JZX3NScjFfU25YZjZuVGxCbF90YXVEQnVNNUFMR0NZdmU5YzlmRENwR0NVakhwTm1CN1JWU2hJdHktQTlHdnNEamZqaG1EbzUwTmluTEFtbWpGaGtiencwSjg3bzVsVEl5MElDUzFEMGNwM2RjVmptQ3Z1eS1XbjZmSlY3Tm5lbHdCLXFXdUU2ZHB5cFZSU2xJTUR4bVB0Ng?oc=5)
-
-2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJhR0FoVG12RlVUZkptZTFGZFp1dllVNTZvbjJQSjM3bGxvNEtxM096cHI2a1cwbzlNdnRZUTYtbFRGczI2dTRaaExqV3BLRlNkS2JZX3NScjFfU25YZjZuVGxCbF90YXVEQnVNNUFMR0NZdmU5YzlmRENwR0NVakhwTm1CN1JWU2hJdHktQTlHdnNEamZqaG1EbzUwTmluTEFtbWpGaGtiencwSjg3bzVsVEl5MElDUzFEMGNwM2RjVmptQ3Z1eS1XbjZmSlY3Tm5lbHdCLXFXdUU2ZHB5cFZSU2xJTUR4bVB0Ng?oc=5)
 
 ---
 
@@ -107,14 +99,6 @@ permalink: /news/naltrexone/
 2026-09-03 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
-
----
-
-### [The overlooked factor driving the childhood obesity crisis](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
 
 ---
 

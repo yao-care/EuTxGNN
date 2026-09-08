@@ -14,7 +14,7 @@ permalink: /news/ravulizumab/
 ---
 
 <p class="key-answer" data-question="Ravulizumab 有什麼相關新聞？">
-<strong>Ravulizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ravulizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/ravulizumab/
 <p><a href="{{ '/drugs/ravulizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Langzeitdaten bestätigen Ravulizumab bei AQP4-positiver NMOSD - Gelbe Liste](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDllbmlRbDZhX2pEU2F4cEYwazVvTk1OUE5HSExUaF8tTEUydElobFpIZS1Wb09XcWdkTFZUQnBsV055Q09QM093OWhSRU92WjlzZlkyZ3dJNVdVU1Vhb0pxSHc3WVNPRG5qNGpmaDBEMzJaMm44WFNTbG1KcWhobEhhdkQxNmNzanBNNQ?oc=5)
-
-2026-09-07 <span class="news-drug-tag">Ravulizumab</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDllbmlRbDZhX2pEU2F4cEYwazVvTk1OUE5HSExUaF8tTEUydElobFpIZS1Wb09XcWdkTFZUQnBsV055Q09QM093OWhSRU92WjlzZlkyZ3dJNVdVU1Vhb0pxSHc3WVNPRG5qNGpmaDBEMzJaMm44WFNTbG1KcWhobEhhdkQxNmNzanBNNQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
