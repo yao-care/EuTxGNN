@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Netupitant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Hypertension artérielle : ces réflexes du quotidien pour faire baisser durablement votre tension - Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+### [Hypertension artérielle : ces réflexes du quotidien pour faire baisser durablement votre tension](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
 
 2026-09-07 <span class="news-indication-tag">hypertension</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+來源：[leparisien.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/netupitant/
 2026-09-06 <span class="news-indication-tag">hypertension</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1Z5YXNHRHlZWWdjUVZnTmNqVHAzd19zeTBTZ18zUGFvVEd4NWx4Z1hXUE5uMG9WWUhPalRUaDQ3ZGZNbmdUay1SeFNidElxWXFZcmMtcnkwSkMzMkxLZURtT20zY0pQQ0M0bUlHdm1CNkFuM3lVQzBsNDJ4cFgzZkRHbXlUbUxn?oc=5)
-
----
-
-### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
-
-2026-09-05 <span class="news-indication-tag">heart failure</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="Tedizolid 有什麼相關新聞？">
-<strong>Tedizolid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tedizolid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/tedizolid/
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Sorpresa en Barcelona: revelan que Ozempic reduce hasta un 40% las crisis de asma](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
+
+2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
+
+---
+
+### [Laughter could be best medicine for lung disease patients - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+
+2026-09-07 <span class="news-indication-tag">copd</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVZXS21KTWU3LWNyVjVaRHNsZGxBLVJXZkNSd1lELXAwTHlhOEVWVGgtYlhzWUU5dVhqRzZoNkpkazVXWVJDazFBMmZNUXkzZFhDV2lteXdwSGdCbmZzeVdrNlZmOEtoelFFSmtvWTlVU25ydldSM21lOHM1LUFLdW5oNHVBTzRFTzRiLWhBTUdSR0VycjVDUGlJYllZc2djZnVUSg?oc=5)
+
+---
 
 
 <div class="disclaimer">

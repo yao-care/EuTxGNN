@@ -14,7 +14,7 @@ permalink: /news/atosiban-as-acetate/
 ---
 
 <p class="key-answer" data-question="Atosiban (As Acetate) 有什麼相關新聞？">
-<strong>Atosiban (As Acetate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Atosiban (As Acetate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/atosiban-as-acetate/
 <p><a href="{{ '/drugs/atosiban-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
-
-2026-09-05 <span class="news-indication-tag">heart failure</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 

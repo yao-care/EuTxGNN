@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。24 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。26 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>24 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>26 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,37 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（26 則）
 
-### [Bovine TB: Gaps in evidence about impact of vaccinating badgers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TYW03UGFWSV9IYU9ZaWhxbENyRHBkTkxKWndpSWhWZ0htekhQQ0ZIUVJQSXB4b2dJT3VudFB4OGtKWlNMQlYwRy1DYVg4XzZFcnlkN3JCLUk1UXBs?oc=5)
+### [Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
 
-2026-09-07
+2026-09-08
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TYW03UGFWSV9IYU9ZaWhxbENyRHBkTkxKWndpSWhWZ0htekhQQ0ZIUVJQSXB4b2dJT3VudFB4OGtKWlNMQlYwRy1DYVg4XzZFcnlkN3JCLUk1UXBs?oc=5)
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
 
 ---
 
-### [Santé sexuelle : le ministère de la santé a présenté sa feuille de route pour 2026-2030 - Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUlFYSTNWWk5PRWYyMkZ2c3piMEIwTE5ONXZhSUdJUnZoLVRHNGRUMmJDeHBqU0ViZ2ZtZkxkazVzcUdCbXNWVS12LWtZQ2g5UmI0NEtNT1Uzdi1tdG1sVlptSnhDNXdOMkNNblpSdDVYaWhKWS0yN1hRRkw5b0FOZnp0dGhWdUY0LXgzZzZBak1seHQ4X2tVUjFxQTRvTGtBYURweFlHTW1GUTJ0akgyNXlkMTFodkg3VGtxUjY0ZDc3aWJvYzdCcUR0ZEwyTUMxeTRXOXNYbTBpai1FeDd6clk5X1ByeG5B?oc=5)
+### [El brote de ébola en RD Congo supera los 6.600 casos y deja 3.175 muertos](https://news.google.com/rss/articles/CBMid0FVX3lxTE1WQjZiSm4zMmQtT3pQRUJ0cnVZbm02WExMVWNSaV9UanNrbHpSSkt2cUlRVFVIRnRwNW4zLTRSQnBLUXNDWUl2aGF2cE9mSjlDVVFtRDJ1Y0dla3BwajBEdmxVeVhrNWhaZzVsTzBOSXhoeUVQX05J?oc=5)
 
 2026-09-07
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUlFYSTNWWk5PRWYyMkZ2c3piMEIwTE5ONXZhSUdJUnZoLVRHNGRUMmJDeHBqU0ViZ2ZtZkxkazVzcUdCbXNWVS12LWtZQ2g5UmI0NEtNT1Uzdi1tdG1sVlptSnhDNXdOMkNNblpSdDVYaWhKWS0yN1hRRkw5b0FOZnp0dGhWdUY0LXgzZzZBak1seHQ4X2tVUjFxQTRvTGtBYURweFlHTW1GUTJ0akgyNXlkMTFodkg3VGtxUjY0ZDc3aWJvYzdCcUR0ZEwyTUMxeTRXOXNYbTBpai1FeDd6clk5X1ByeG5B?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMid0FVX3lxTE1WQjZiSm4zMmQtT3pQRUJ0cnVZbm02WExMVWNSaV9UanNrbHpSSkt2cUlRVFVIRnRwNW4zLTRSQnBLUXNDWUl2aGF2cE9mSjlDVVFtRDJ1Y0dla3BwajBEdmxVeVhrNWhaZzVsTzBOSXhoeUVQX05J?oc=5)
+
+---
+
+### [Contraception, sida… Que dit le nouveau plan pour la santé sexuelle ? - 20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxQQVhfcFBFSENUbnI0NFJXbEZjWGlCVWd0RjdqbExVVU1jdzV4cFFybjlnM0JlODh3SW9pVkFGZWctZ21FOVNCTExVSHR0anhNNXg0cC1OU0FCQVdvclVKZHlxTmtDOFNpQWVNREpVSHl6OUZjUGNCT0tfcTUyUGRGdkRnSUhiT0FDSUF6LU8tZTNrZzFiajdaMnhtLTlTV1JEaU04aHdEV3NRbV9xWER1UTBDaFpmc0lnWThTajlEVnBobFN0Wks1X1Zn?oc=5)
+
+2026-09-07
+
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxQQVhfcFBFSENUbnI0NFJXbEZjWGlCVWd0RjdqbExVVU1jdzV4cFFybjlnM0JlODh3SW9pVkFGZWctZ21FOVNCTExVSHR0anhNNXg0cC1OU0FCQVdvclVKZHlxTmtDOFNpQWVNREpVSHl6OUZjUGNCT0tfcTUyUGRGdkRnSUhiT0FDSUF6LU8tZTNrZzFiajdaMnhtLTlTV1JEaU04aHdEV3NRbV9xWER1UTBDaFpmc0lnWThTajlEVnBobFN0Wks1X1Zn?oc=5)
+
+---
+
+### [What to do about the UK’s mental health crisis - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMjVMYTVrRGVrOFVWckxWM01lYmp0WTM5aW5vMlNrbmdYNi1BNWxjenl3T0RwTGZfbVo2dlBqSmRHakJsaFAyb0dIaGNSa1Z1RWpEN2dISFpMdlc2cWc4bGxEV1d5dFNJeUpUVWI3Zlo?oc=5)
+
+2026-09-07
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMjVMYTVrRGVrOFVWckxWM01lYmp0WTM5aW5vMlNrbmdYNi1BNWxjenl3T0RwTGZfbVo2dlBqSmRHakJsaFAyb0dIaGNSa1Z1RWpEN2dISFpMdlc2cWc4bGxEV1d5dFNJeUpUVWI3Zlo?oc=5)
 
 ---
 
@@ -88,6 +104,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+2026-09-07
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+---
+
 ### [Sclerosi multipla, non è solo il sistema immunitario: due maxi-studi puntano anche sui neuroni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHgyQVhsbElLT2ppNHVYSVZGakJSOFBTQm5Ia3pvUkxNUkhIRUhrM2RWVXJROGhUNTZxYnBPN1VWdGM2TUExNjZGcmdJLXBmaFRxb3BEV2JOdXZkMGdmdi1qalN4UGY4RWExNVg3b1VWLVQxMzBzSzhzbHZmTUpZblMtQUMzbHNtV0dfVW41Skd0M2V2Sm56SFBJdHNEb1FDdjZUSldrMDR3RnFDOVhrQU5kRWk3Tzl4OXhqUVlvbFVFVTI0OWhJNXlac1E4R2NiLXluSnJnUFVJNnA5SFdnaG9Xem9fUnc?oc=5)
 
 2026-09-07
@@ -101,22 +125,6 @@ permalink: /news/multiple-sclerosis/
 2026-09-07
 
 來源：[EHU](https://news.google.com/rss/articles/CBMitgFBVV95cUxQckZvalJoMmY5bW55YzZ5VUJHcmk3ZnJSbEpkUHVGUGFvV3FQRExSbHRjUk5uWENCbXBWeVcycGpwLWdRYWpxXzVJOWFrY0dSZF9Gd1lJRU9GR1k4bXk2dUZicGRtN2dKWEZnSWo4elMzOFQyZWVWbDNaTy1taVpDNkR1YkdTM240WlAwZkJ1ZzlfS1FfUVZCTnNfS3R4aGVLMTVYNlNYZ2V1Vzd4cHgteWFMWVVlUQ?oc=5)
-
----
-
-### [Los equipos funerarios del ébola en Congo enfrentan ira, fatiga y miedo al contagio - AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3B2LU9MUUVKbGtJdEtab3V0MkxhemhJZFhUa3JhcWRmQmhVckluY0FxVl9WNmlwclM4OVpsUFFQT3FkZ1l0VjVwUENkbjRWNzRZVGVBS2lJNUhRVEROZk9iYVJ0SXBzbGdNSjhoSVRDX3JyM1lJblpmNGEyMmFOZzlOTWl4QmQxRzlIV3lIaUxOaDhFS0ZLZ2NySWZfNXo5MWc?oc=5)
-
-2026-09-07
-
-來源：[AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3B2LU9MUUVKbGtJdEtab3V0MkxhemhJZFhUa3JhcWRmQmhVckluY0FxVl9WNmlwclM4OVpsUFFQT3FkZ1l0VjVwUENkbjRWNzRZVGVBS2lJNUhRVEROZk9iYVJ0SXBzbGdNSjhoSVRDX3JyM1lJblpmNGEyMmFOZzlOTWl4QmQxRzlIV3lIaUxOaDhFS0ZLZ2NySWZfNXo5MWc?oc=5)
-
----
-
-### [Pedro Zapater, catedrático de farmacología: “El gran problema con los suplementos naturales es que no suelen pasar los mismos controles de calidad y de seguridad que los medicamentos”](https://news.google.com/rss/articles/CBMiqwJBVV95cUxObG5xamw5UWdZdGNRZmhVVWxSa0tGMWxjN3hkcDdSQ1B5bDRldzZfeXU1SUdYSmlqMWdXckp5OHdvTHFtakhnX0Qwb2FETUdBcVZTYTRxTGVoeG4zUFY3X1FrVFc5aW1qbDBtdnBKTFhTenRFV3ZINXJRMF9taEljSkJFQjVYVTBwZUpmdTRId3U5c2txNkVWZXIyTWU3Q0txbWQ0QXBEdTExVzU4ZzN2TldLRUNkN20zZnhOUTdRdFdmRkFXeVQ0ZkFRVUJJRkFvMkw0T2VSS2JfdmZUc0hDV1ZDMHlxbGJpWkpVMkpwUC05ejA0MmxhMW1YZTBLZkxCTE1yX2pRa1FTRTVQeG5CLVJINEJEQWlSTnlrVHlsTHQtOHl3eno2UWx3UdIBsAJBVV95cUxNWEpWc1ExOWZxc2JJMURESUZOU1c4QUJaT2JoT2MyWVBzbURfWmJTVV9YRUs2bUswR2JiVTZkR05hS3FiTmdOY0l4T3dweDg5ZUx2WWlnWnZyQklRN1htbWtld2VweHlDU1F0dWdPRVdLWTlCcGNuTW9RNTJZZWtYSDdOcUNrZWxFZS15YUdyRE1hekhXTXZvOV81a21ISGVvaFdFR0dGT1NvRnp2TV9LRFdoV1VpbmVUMktkcXdvbWpRQkFiSmVheXd0MXltVXN4ZmxhX0FBSHFma2VpQWVodzZ0UzhPQXZZcTVubjZXb19WUDY4M3NocHBVcEliRnc0UHNONTNEUXNfeEh2SHk3ZkhuTHlnSmM5ZzV6dUpSYzhSNEdaY1ExQ1NkeVhPdEtm?oc=5)
-
-2026-09-07
-
-來源：[lavanguardia.com](https://news.google.com/rss/articles/CBMiqwJBVV95cUxObG5xamw5UWdZdGNRZmhVVWxSa0tGMWxjN3hkcDdSQ1B5bDRldzZfeXU1SUdYSmlqMWdXckp5OHdvTHFtakhnX0Qwb2FETUdBcVZTYTRxTGVoeG4zUFY3X1FrVFc5aW1qbDBtdnBKTFhTenRFV3ZINXJRMF9taEljSkJFQjVYVTBwZUpmdTRId3U5c2txNkVWZXIyTWU3Q0txbWQ0QXBEdTExVzU4ZzN2TldLRUNkN20zZnhOUTdRdFdmRkFXeVQ0ZkFRVUJJRkFvMkw0T2VSS2JfdmZUc0hDV1ZDMHlxbGJpWkpVMkpwUC05ejA0MmxhMW1YZTBLZkxCTE1yX2pRa1FTRTVQeG5CLVJINEJEQWlSTnlrVHlsTHQtOHl3eno2UWx3UdIBsAJBVV95cUxNWEpWc1ExOWZxc2JJMURESUZOU1c4QUJaT2JoT2MyWVBzbURfWmJTVV9YRUs2bUswR2JiVTZkR05hS3FiTmdOY0l4T3dweDg5ZUx2WWlnWnZyQklRN1htbWtld2VweHlDU1F0dWdPRVdLWTlCcGNuTW9RNTJZZWtYSDdOcUNrZWxFZS15YUdyRE1hekhXTXZvOV81a21ISGVvaFdFR0dGT1NvRnp2TV9LRFdoV1VpbmVUMktkcXdvbWpRQkFiSmVheXd0MXltVXN4ZmxhX0FBSHFma2VpQWVodzZ0UzhPQXZZcTVubjZXb19WUDY4M3NocHBVcEliRnc0UHNONTNEUXNfeEh2SHk3ZkhuTHlnSmM5ZzV6dUpSYzhSNEdaY1ExQ1NkeVhPdEtm?oc=5)
 
 ---
 
@@ -144,11 +152,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Newborn baby's nail infection led to brain tumour diagnosis - Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2QtLWpqN0k1TVdVN09uMldDU3RSd2U1X0w2WmlLeTZNN0NYMnNMcHFleTB5UWtILVU5SXkxNEx5MElvT2k4RWJRQ3lublRzaG16eFVmUGZ4VkVNRzJXdnl3Uks0MWxEYTZyZ3VONzcxOEJJQkxVaHUtRUJzMEI2T2xndFk1aXhLY2t4Yll6c0tlNVkySHhyZzZn?oc=5)
+### [Newborn baby's nail infection led to brain tumour diagnosis](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2QtLWpqN0k1TVdVN09uMldDU3RSd2U1X0w2WmlLeTZNN0NYMnNMcHFleTB5UWtILVU5SXkxNEx5MElvT2k4RWJRQ3lublRzaG16eFVmUGZ4VkVNRzJXdnl3Uks0MWxEYTZyZ3VONzcxOEJJQkxVaHUtRUJzMEI2T2xndFk1aXhLY2t4Yll6c0tlNVkySHhyZzZn?oc=5)
 
 2026-09-07
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2QtLWpqN0k1TVdVN09uMldDU3RSd2U1X0w2WmlLeTZNN0NYMnNMcHFleTB5UWtILVU5SXkxNEx5MElvT2k4RWJRQ3lublRzaG16eFVmUGZ4VkVNRzJXdnl3Uks0MWxEYTZyZ3VONzcxOEJJQkxVaHUtRUJzMEI2T2xndFk1aXhLY2t4Yll6c0tlNVkySHhyZzZn?oc=5)
+來源：[news.sky.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2QtLWpqN0k1TVdVN09uMldDU3RSd2U1X0w2WmlLeTZNN0NYMnNMcHFleTB5UWtILVU5SXkxNEx5MElvT2k4RWJRQ3lublRzaG16eFVmUGZ4VkVNRzJXdnl3Uks0MWxEYTZyZ3VONzcxOEJJQkxVaHUtRUJzMEI2T2xndFk1aXhLY2t4Yll6c0tlNVkySHhyZzZn?oc=5)
+
+---
+
+### [Scottish researchers named Caledochytrium aldermaii, a microbe whose offspring grow inside the mother — sometimes nested generations deep — until the outer cell bursts open](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGtFeENTQ1RaWDFqb1VwelpVSktzZGdTVFUzUng2MG9OZTY4SVV0Z0phRTByZ2tLRER6bTR1WEk0QklRRUpEOUVycXNtcHRvUzhYd1plS1U4bml4U2VscFNKcnluQnFTMWNUVWxBR1ZuMGdvTGczRlhUOEFZRFFSd2dON05BQQ?oc=5)
+
+2026-09-07
+
+來源：[spacedaily.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGtFeENTQ1RaWDFqb1VwelpVSktzZGdTVFUzUng2MG9OZTY4SVV0Z0phRTByZ2tLRER6bTR1WEk0QklRRUpEOUVycXNtcHRvUzhYd1plS1U4bml4U2VscFNKcnluQnFTMWNUVWxBR1ZuMGdvTGczRlhUOEFZRFFSd2dON05BQQ?oc=5)
 
 ---
 
@@ -168,19 +184,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented - The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
+### [Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
 
 2026-09-05
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
 
 ---
 
-### [Nearly half of adults left sunburnt and many are 'not protecting themselves', cancer charity warns - Sky News](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeW5yR3hTLXR6UUdybEpSdFBDNW1rSnFsd0VzNFo5T2VMbVFoUGtFQVU0Y0QzdFZWRmV6YnV2T3R6Mnp0V3pueTZMVGFmTEVxTU05Y2RITXM3clhVSHZGYThfdUN1Yl83S2FTYWFYeW9OX3MyWjNlbkNTelVjTW5ULWhzMmpaZGdJbXYxZkNXRUlFa3pUZkllY21PTW5SMFFPZ2FKa0p5bVBHTFlzMV9nQk5JZktURndObjJKSlU3SjhWOEdRQVJ0OEhBYw?oc=5)
+### [Nearly half of adults left sunburnt and many are 'not protecting themselves', cancer charity warns](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeW5yR3hTLXR6UUdybEpSdFBDNW1rSnFsd0VzNFo5T2VMbVFoUGtFQVU0Y0QzdFZWRmV6YnV2T3R6Mnp0V3pueTZMVGFmTEVxTU05Y2RITXM3clhVSHZGYThfdUN1Yl83S2FTYWFYeW9OX3MyWjNlbkNTelVjTW5ULWhzMmpaZGdJbXYxZkNXRUlFa3pUZkllY21PTW5SMFFPZ2FKa0p5bVBHTFlzMV9nQk5JZktURndObjJKSlU3SjhWOEdRQVJ0OEhBYw?oc=5)
 
 2026-09-05
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeW5yR3hTLXR6UUdybEpSdFBDNW1rSnFsd0VzNFo5T2VMbVFoUGtFQVU0Y0QzdFZWRmV6YnV2T3R6Mnp0V3pueTZMVGFmTEVxTU05Y2RITXM3clhVSHZGYThfdUN1Yl83S2FTYWFYeW9OX3MyWjNlbkNTelVjTW5ULWhzMmpaZGdJbXYxZkNXRUlFa3pUZkllY21PTW5SMFFPZ2FKa0p5bVBHTFlzMV9nQk5JZktURndObjJKSlU3SjhWOEdRQVJ0OEhBYw?oc=5)
+來源：[news.sky.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeW5yR3hTLXR6UUdybEpSdFBDNW1rSnFsd0VzNFo5T2VMbVFoUGtFQVU0Y0QzdFZWRmV6YnV2T3R6Mnp0V3pueTZMVGFmTEVxTU05Y2RITXM3clhVSHZGYThfdUN1Yl83S2FTYWFYeW9OX3MyWjNlbkNTelVjTW5ULWhzMmpaZGdJbXYxZkNXRUlFa3pUZkllY21PTW5SMFFPZ2FKa0p5bVBHTFlzMV9nQk5JZktURndObjJKSlU3SjhWOEdRQVJ0OEhBYw?oc=5)
 
 ---
 
@@ -189,6 +205,14 @@ permalink: /news/multiple-sclerosis/
 2026-09-05
 
 來源：[Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGhPTEhfaFBHYjBxN0FPcE0zMFJnSS1HTkJKUFg5bC00aXg1eDhvOXlDTlc4R0VjVmQtYTRDNklzOC1Qei1ydkxVN3NMLWpyNzZaMURFTkNEUE1rT3Z5M2M2TUEzQXhSOFhUYkxVcndXQ2U4ckY0VFZHUW1lZ0drRU5mQ0VMWEhxZXRqZHZCZzAxcHcwSDNGVFFB0gGfAUFVX3lxTE0yclpjdGhEMDNCVDlHMmRkR0N5MHZBVk1jcm5sZUtVWElvTi1oZUZEV2ZWZnZnb2VpOEtoUHNsZHBYeXZ6X1dLcUFMRlg5Ykt6a2NkUS1weXczNHZoN3QyOGhlYUN0eEE4d2lDc3BPNVFtOEZKSExiSmpEZnJHd0ZJZnZGVXRQVDlmb3EwR3NMcTAzQmxzRkhFN1RFZi03Zw?oc=5)
+
+---
+
+### [Medieval manuscripts are "biological time capsules" for deadly sheeppox virus - Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWVWWU1ySExYRXV5REVyR3lmTmY4WnVlVHhUN0FnVklaSnp0ZkZKN3psSzMwRWRpODBTNUlIZmNQd19qYkY1VE1jQWVVejhLQnpsSEkzZE54Wk9naUtaSFVndU9ndlZTR1hwallwS25FV25MTmdHVGtwNFdVWFBpcmxEWU40RWZkeDlBNkpFQ1lsVGVtaWMwWDFuUUhfUnlOdktKTFN2SFVtdkM1c0l0VlZseEx2MEE?oc=5)
+
+2026-09-04
+
+來源：[Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWVWWU1ySExYRXV5REVyR3lmTmY4WnVlVHhUN0FnVklaSnp0ZkZKN3psSzMwRWRpODBTNUlIZmNQd19qYkY1VE1jQWVVejhLQnpsSEkzZE54Wk9naUtaSFVndU9ndlZTR1hwallwS25FV25MTmdHVGtwNFdVWFBpcmxEWU40RWZkeDlBNkpFQ1lsVGVtaWMwWDFuUUhfUnlOdktKTFN2SFVtdkM1c0l0VlZseEx2MEE?oc=5)
 
 ---
 
@@ -221,14 +245,6 @@ permalink: /news/multiple-sclerosis/
 2026-09-03
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDRoTldMc1RDWW50SEJETkVtQXNNUXJpNkwtWEV4dWdjSFJzUGw5RS1LMHpOaGNpY2tTYzVjWnNkOU4zN0puVkJndEVhMGNKYTlWTU1GUUc4aXJaQ05zLUV4YWZieURZanhGUE42b1haV3NWdUEwQU1NV1hCUmlvdEEySU9Nd2VuN0UxdTdfMTNlTFJza1hscmx6NDRmN0lWbGJrS19mVkJSWFBTdTJqdTRhOG5GeXI1TmRn?oc=5)
-
----
-
-### [Two teenagers in hospital with meningitis B](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZS3JTQU5TQ0VsQnB1eU1CVS1JVTZFWUNfRVlROXhmQXFDVTNSZGJ4TGl0OEtWRHhxM0RMVWkxVTNGMjBBeFVwR0pTV0FKekZfV09aMURWTVJHamhB?oc=5)
-
-2026-09-03
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZS3JTQU5TQ0VsQnB1eU1CVS1JVTZFWUNfRVlROXhmQXFDVTNSZGJ4TGl0OEtWRHhxM0RMVWkxVTNGMjBBeFVwR0pTV0FKekZfV09aMURWTVJHamhB?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart failure（heart disease） 相關新聞"
+title: "heart disease 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart failure（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart failure（heart disease） 相關新聞
+# heart disease 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
-<strong>heart failure（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
+<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,15 +85,7 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [The six most important things you can do today to stop heart failure - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
-
-2026-09-05
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29XN3hfcXdqZURXUFZMNEliaDhROFBDY3lGdVhxWG1xVEtXTUNwRGotQ01LdExUcGlPVWI1UkZ6YXBDdURJTEdkZHgyV2RSYTEzQzMySHMxQkFLTmhmRWNnMFI2XzlJZWMtR1NDWlpab1dMZWRvdlpxYnpWLTQwalM3MnVuUEVHRE4zbDlSZUpLdzVyNWJpOC1lSVYzYVZrQWM5OTlDMTY3ZVJsaTRYSmNSbFI5QQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 

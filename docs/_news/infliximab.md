@@ -14,7 +14,7 @@ permalink: /news/infliximab/
 ---
 
 <p class="key-answer" data-question="Infliximab 有什麼相關新聞？">
-<strong>Infliximab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Infliximab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/infliximab/
 <p><a href="{{ '/drugs/infliximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
+### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
 
 2026-09-07 <span class="news-indication-tag">artritis</span>
 
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
-
----
-
-### [A single IV treatment retrains immune cells to fight autoimmune diseases in early trial - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBROEw5aUJZS0k3LTNtRmhZbUFEckdENEd0M3dpUkFYTk9zX3Q2R1F1bHAyMkZkWmpycEJodnhteTI0cmFORE1VM3plZGdqNF9FeE5BdmpTMmV5aVhmTzFMb21LX0NFdzJfeHUtWWZ3M2dmOG1mcFc1d29sS2EwREFXWGw?oc=5)
-
-2026-09-07 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBROEw5aUJZS0k3LTNtRmhZbUFEckdENEd0M3dpUkFYTk9zX3Q2R1F1bHAyMkZkWmpycEJodnhteTI0cmFORE1VM3plZGdqNF9FeE5BdmpTMmV5aVhmTzFMb21LX0NFdzJfeHUtWWZ3M2dmOG1mcFc1d29sS2EwREFXWGw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/infliximab/
 
 ---
 
-### [Charité: CAR-T-Zell-Therapie bei schwerer rheumatoider Arthritis](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
+### [CAR-T-Zellen gegen rheumatoide Arthritis: Phase-1 COMPARE zeigt Remission ohne Medikamente - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmwzQXROaml4S1BSQVpKODVvckVQMXhqX3NnNUV5MVdjLUEwSUh5b3RTRGI2MEJkUW0takFYZjZndFFkTWNucEpXNTRRekllU3JYb1FUQjJjb0VIQWp5N3RWcmxnbktYQmJmbW9wbjFnUGlzLWFBd2pESDdhaWhVdEhwVHhITjM2bUhBTi1rMzhUeW5QdFNlNkxZbnBZWFJGWUFsZGpESWFHNUxWWDFMajlZSGRUTDhFWmJRTE53?oc=5)
 
 2026-09-01 <span class="news-indication-tag">arthritis</span>
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFNaNnFYeEFreFVWclA0Z0hxSUVKMC1UdzEtUnEzcWtKVklZVlNQQzFCTU1ZajBJVUxlQmVKVXRyMENOTUxCczIwMFdFX1JQSUNHak9WTE1YeFdEb0tvdDNsX1I2NGRBTVRacVlGWkEwYjc4dm5WMGVXWlJoU3pqZmx0RFRjalREZ2Q5aEh1SHlzQjZXaERrV2ZB?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmwzQXROaml4S1BSQVpKODVvckVQMXhqX3NnNUV5MVdjLUEwSUh5b3RTRGI2MEJkUW0takFYZjZndFFkTWNucEpXNTRRekllU3JYb1FUQjJjb0VIQWp5N3RWcmxnbktYQmJmbW9wbjFnUGlzLWFBd2pESDdhaWhVdEhwVHhITjM2bUhBTi1rMzhUeW5QdFNlNkxZbnBZWFJGWUFsZGpESWFHNUxWWDFMajlZSGRUTDhFWmJRTE53?oc=5)
 
 ---
 

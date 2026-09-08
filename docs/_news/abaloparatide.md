@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
+
+### [Vermeiden Sie diese drei Risikofaktoren, und Sie leben zwölf Jahre länger ohne Demenz](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
+
+---
+
+### [Neue Optionen für Nutzer von AID-Systemen in Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
+
+2026-09-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Frauen entwickeln psychische Probleme 50% häufiger - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Leberfett massiv gesenkt: Diese Diät schlägt zwei bekannte Konzepte - FIT FOR FUN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
+### [Leberfett massiv gesenkt: Diese Diät schlägt zwei bekannte Konzepte](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
+來源：[fitforfun.de](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
 
 ---
 
@@ -110,14 +126,6 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Alzheimer verändert das Gehirn sieben Jahre vor den ersten Ablagerungen - Forschung und Wissen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmJKbEhVTkN0R0QtMDltRlo2bFNoNk1HdWoybWxJS2c1d0pnbjNNQUdDT1NsV0FOc2hFdi13X1JVTEltWUR5bUFyZWk4alQxYlBqUmtBLVZkQjdTOTI5bXlYTUd4NmlCTzFKTTJRazYwMGk4TEd4dEpHSHpzTGV3M0lDdXRTU3JTdUNnWHM4QWY2blJPUFhGWVUyVjFZTFd5eDZESXljTlF2SFZvYURuRnIzOTJhdTZtdzQ3VlV6Y1BqNjN3OW1kTm9UeWpFRjhuWVV6QQ?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmJKbEhVTkN0R0QtMDltRlo2bFNoNk1HdWoybWxJS2c1d0pnbjNNQUdDT1NsV0FOc2hFdi13X1JVTEltWUR5bUFyZWk4alQxYlBqUmtBLVZkQjdTOTI5bXlYTUd4NmlCTzFKTTJRazYwMGk4TEd4dEpHSHpzTGV3M0lDdXRTU3JTdUNnWHM4QWY2blJPUFhGWVUyVjFZTFd5eDZESXljTlF2SFZvYURuRnIzOTJhdTZtdzQ3VlV6Y1BqNjN3OW1kTm9UeWpFRjhuWVV6QQ?oc=5)
-
----
-
 ### [Emicrania senza aura, cosa resta nel cervello quando si escludono ansia, depressione e sonno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
 
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
@@ -139,6 +147,14 @@ permalink: /news/abaloparatide/
 2026-09-04 <span class="news-indication-tag">migraine</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
+
+---
+
+### [Risiko für Typ-2-Diabetes abhängig vom Subtyp der Endometriose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
+
+2026-09-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
 
 ---
 

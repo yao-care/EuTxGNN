@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Depressione e cervello: perché l'ippocampo fatica a generare nuovi neuroni](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcm9lT0VUemNFYlVfZlA4cGgxN2N6eHpXMzNZQ0RDUkhreU9sbmFVb0s0bm5vaF81d0tqNXczTjhkT3lxb3dsYUxsMjFEYmZvSTR3UVRxOUdQQWI5ZjUzWlFoS1BHZ083VXBJODN1dm40WFJXckl4VkFtTFRUZlNkV21RYzFaYmplOGxpOXlHZnhNYlFUX0dKZWdaTXhTZVVkVDlHUGVHSG5YemVRSmJZdWprSTNjanl3UWhyd1pmVFpKWEtuRzJucV9xbnJlUQ?oc=5)
 
 2026-09-07
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcm9lT0VUemNFYlVfZlA4cGgxN2N6eHpXMzNZQ0RDUkhreU9sbmFVb0s0bm5vaF81d0tqNXczTjhkT3lxb3dsYUxsMjFEYmZvSTR3UVRxOUdQQWI5ZjUzWlFoS1BHZ083VXBJODN1dm40WFJXckl4VkFtTFRUZlNkV21RYzFaYmplOGxpOXlHZnhNYlFUX0dKZWdaTXhTZVVkVDlHUGVHSG5YemVRSmJZdWprSTNjanl3UWhyd1pmVFpKWEtuRzJucV9xbnJlUQ?oc=5)
+
+---
+
+### [What to do about the UK’s mental health crisis - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMjVMYTVrRGVrOFVWckxWM01lYmp0WTM5aW5vMlNrbmdYNi1BNWxjenl3T0RwTGZfbVo2dlBqSmRHakJsaFAyb0dIaGNSa1Z1RWpEN2dISFpMdlc2cWc4bGxEV1d5dFNJeUpUVWI3Zlo?oc=5)
+
+2026-09-07
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMjVMYTVrRGVrOFVWckxWM01lYmp0WTM5aW5vMlNrbmdYNi1BNWxjenl3T0RwTGZfbVo2dlBqSmRHakJsaFAyb0dIaGNSa1Z1RWpEN2dISFpMdlc2cWc4bGxEV1d5dFNJeUpUVWI3Zlo?oc=5)
 
 ---
 

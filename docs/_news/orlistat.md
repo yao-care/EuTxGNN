@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
+
+### [Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
+
+2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
+
+---
+
+### [Sorpresa en Barcelona: revelan que Ozempic reduce hasta un 40% las crisis de asma](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
+
+2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
+
+---
+
+### [Si ves esta marca en el rostro, cuidado: un estudio relaciona esta señal con peligro de ataque cardíaco y derrame cerebral](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTF1Z01pMmM1WXY5cHZVdVpWalhVTGJ4T29PRWhVbkJxbmtZZFdaQTVfUHV3V0x6VGNPZTJvM1lKclotRi03NGhHTHM1U19TMHVDUlhzTFQxazV5dWFyNjkxRjIwUDNLUmE0OU1JV0U4ZExKcXI0NjlocGVhNUVLanU1cEFqTTRNNjVmd00tVE1udVVyTEVIeGFEUTdHdWt1U3BvZFZTcWtKckVRYmpSX21sbjBFN3E4RUp0ZDlWa0lQYjc5VHlaaVFmc2daQXhhTFhEaXlILUNJTnpFWGxaN2tZY1hqWTNJQ21iQ0xFNE5xTXEyMmfSAZACQVVfeXFMTWppbW16UUhsSzU1OFdzY0xVTkRXa08yYjBaMVFWWjlfbWd0Q3RSU2RRUFo1bnZidDhOOVFSbG5pSGt6dURZUUZkbXl3UHI2ekI4OGtmYTJWY05MVkFETGM4dWtrbFhoenhIOWFTYWZHeHhyTXM2U3Z6YWdveDN5cE9EQS1yWGUwQV9Cc0FibDI4MTBMWGFuWG5ZZ1JoUTVEc2w2V2FqUG1UX2NCYVRqcXlJZ0t5RVloTS12aXFWRnlQWGdvWS1zTGhCZFhIeWJOek05X0RZS05UTVA3UmVYVEs3UHZTNVMxd1M4TDJqQS1ZZGtndEtaSDBtQ2lQUURhQ0lySHQwM1dLNVhZRE10eV8?oc=5)
+
+2026-09-07 <span class="news-indication-tag">ictus</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTF1Z01pMmM1WXY5cHZVdVpWalhVTGJ4T29PRWhVbkJxbmtZZFdaQTVfUHV3V0x6VGNPZTJvM1lKclotRi03NGhHTHM1U19TMHVDUlhzTFQxazV5dWFyNjkxRjIwUDNLUmE0OU1JV0U4ZExKcXI0NjlocGVhNUVLanU1cEFqTTRNNjVmd00tVE1udVVyTEVIeGFEUTdHdWt1U3BvZFZTcWtKckVRYmpSX21sbjBFN3E4RUp0ZDlWa0lQYjc5VHlaaVFmc2daQXhhTFhEaXlILUNJTnpFWGxaN2tZY1hqWTNJQ21iQ0xFNE5xTXEyMmfSAZACQVVfeXFMTWppbW16UUhsSzU1OFdzY0xVTkRXa08yYjBaMVFWWjlfbWd0Q3RSU2RRUFo1bnZidDhOOVFSbG5pSGt6dURZUUZkbXl3UHI2ekI4OGtmYTJWY05MVkFETGM4dWtrbFhoenhIOWFTYWZHeHhyTXM2U3Z6YWdveDN5cE9EQS1yWGUwQV9Cc0FibDI4MTBMWGFuWG5ZZ1JoUTVEc2w2V2FqUG1UX2NCYVRqcXlJZ0t5RVloTS12aXFWRnlQWGdvWS1zTGhCZFhIeWJOek05X0RZS05UTVA3UmVYVEs3UHZTNVMxd1M4TDJqQS1ZZGtndEtaSDBtQ2lQUURhQ0lySHQwM1dLNVhZRE10eV8?oc=5)
+
+---
 
 ### [Infarctus et AVC : ces marques autour des yeux pourraient alerter sur un risque accru, selon une étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEhzNkNVMmhuNFhDUV9qM2hfQ3NPZUE5Uk5tU0pkV3UwczFyOFRGZ3lqcFRQTTV3dTZJLVQtQ2lEYUhmUWlXYmZ4bXZrUHZwMXhiRDZ6TnFGbGE5SG9RcTcwUTRLeG9wMnFqb244d3FMREdDZGVLUWZXWmhEeGF3dDBnVHY3R1FLaHFsUE5TamF3ZWtCcjBVNjZoQkplVjh1TGlUbjlrNHpMX0RZOTY2RFdzWlZLY2F1Wnk3MlVxRzlnbmlhbG0yTzhaUmNVcFNBNF92QW5MVXlNYVI2eTBFUVI0Ump6Q1IxSkNKLWdGcnhFZnNuOWZDQQ?oc=5)
 
@@ -62,19 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ1pSdVVjd0V4d2R2d0ZNMnpNaDh2djYxTXNRVFY5NG9QTHUyd19mNC1idGEtVTN1Tno0STNmbEFxN0FxVGkxU1hLNHpELWZpbzFRY0lINXdqNjZFN21vWkhUVW0wOXFGd0ZXRVlsZjRncFlkUHVibThJNGhoa1h0Tkt5OGdOTHVqUm5EU1Q3U0JOVkZvQmFkWXU5a3pnUU92ZDlBdDl2X3hmcmdpcGFCRDFLOThCMUpwYjNwZGFwWDIyV0VBTnhfX2FuQUpCUGJFMThRQWE4UjVBaERiNGRnQjhhdlJyejFkNEgtYUp4dw?oc=5)
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
 
-2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ1pSdVVjd0V4d2R2d0ZNMnpNaDh2djYxTXNRVFY5NG9QTHUyd19mNC1idGEtVTN1Tno0STNmbEFxN0FxVGkxU1hLNHpELWZpbzFRY0lINXdqNjZFN21vWkhUVW0wOXFGd0ZXRVlsZjRncFlkUHVibThJNGhoa1h0Tkt5OGdOTHVqUm5EU1Q3U0JOVkZvQmFkWXU5a3pnUU92ZDlBdDl2X3hmcmdpcGFCRDFLOThCMUpwYjNwZGFwWDIyV0VBTnhfX2FuQUpCUGJFMThRQWE4UjVBaERiNGRnQjhhdlJyejFkNEgtYUp4dw?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
 
 ---
 
-### [Leberfett massiv gesenkt: Diese Diät schlägt zwei bekannte Konzepte - FIT FOR FUN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
+### [Leberfett massiv gesenkt: Diese Diät schlägt zwei bekannte Konzepte](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
+來源：[fitforfun.de](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
 
 ---
 
@@ -94,11 +118,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Adipositas und Rheuma: Entzündliche Veränderungen im Immunsystem sind umkehrbar - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1VGU1bVJPYmVtbkNJcXRQbUhoa2VhUkM3bU5fMjJDU1VVRHNjNG9jMmlrX2tscEtFLTAwU25IVWZUNnFUdndoRFl2dw?oc=5)
+### [Adipositas und Rheuma: Entzündliche Veränderungen im Immunsystem sind umkehrbar](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1VGU1bVJPYmVtbkNJcXRQbUhoa2VhUkM3bU5fMjJDU1VVRHNjNG9jMmlrX2tscEtFLTAwU25IVWZUNnFUdndoRFl2dw?oc=5)
 
-2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-07 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1VGU1bVJPYmVtbkNJcXRQbUhoa2VhUkM3bU5fMjJDU1VVRHNjNG9jMmlrX2tscEtFLTAwU25IVWZUNnFUdndoRFl2dw?oc=5)
+來源：[idw-online.de](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1VGU1bVJPYmVtbkNJcXRQbUhoa2VhUkM3bU5fMjJDU1VVRHNjNG9jMmlrX2tscEtFLTAwU25IVWZUNnFUdndoRFl2dw?oc=5)
 
 ---
 
@@ -107,6 +131,14 @@ permalink: /news/orlistat/
 2026-09-07 <span class="news-indication-tag">stroke</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmRxS3NSSExJalkxWXhrQzdnbHVnN3dYMlRsQ3U2SzFpWlNRY0pqUU9RcGVWMU1OT2tVbjhJLWZzN3lKYXBkX3U5RnV4V1ptbnVPVUFLdHAxT1FoWkJ2blliVzV3RTZVbGI2UTlORWNlZjJ3bWpYcXk1XzNzWHVhMndETdIBiAFBVV95cUxNVXlsLV9KVmRtLVVqT29nNWpMN1cxT2FGRzFlZ1dtUjJYVE1kMFJ4QUFXSjFhMW9yOXJzWE9DUzdPa1Q3TjVIamg0NkM4VXZ4Y0ptMlhuM3FFNGNyRnNEME9oTUpIeUxoa3psemFDTU14NU1pZnp4V0V5RlFxSkRjX3psZnRvZkJy?oc=5)
+
+---
+
+### [La enfermedad que causa la mayoría de los infartos se acumula silenciosamente en las arterias desde la juventud - Emisora Costa del Sol 93.1 FM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjN4bk5WSGc2V0xzV1kxeWZpN0FWS1gyUlBrTmExTGlKQzJmYWQwVGhsMmxYWU4tZUdDTlpoN3QycVItdjZiMnBqY0RXU1dVcjIwWFppcTRuWVhrRnhVUFVwNnJodTZiZk5vanJpTW1uNGtrcWdyMURLLU9pQzQyWmpxMnhpRm93SmpndWF1REVYUmZMNU9iZEJtTExLTXZBNFRFam85Yk96akF2UWdyY3J3NzBKLU1GN18xMmZDNXFhWjJHeWFzb0dHc1J3NjZocEc5Z2l3VC11R25FNFA4TlRKVVI?oc=5)
+
+2026-09-06 <span class="news-indication-tag">ictus</span>
+
+來源：[Emisora Costa del Sol 93.1 FM](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjN4bk5WSGc2V0xzV1kxeWZpN0FWS1gyUlBrTmExTGlKQzJmYWQwVGhsMmxYWU4tZUdDTlpoN3QycVItdjZiMnBqY0RXU1dVcjIwWFppcTRuWVhrRnhVUFVwNnJodTZiZk5vanJpTW1uNGtrcWdyMURLLU9pQzQyWmpxMnhpRm93SmpndWF1REVYUmZMNU9iZEJtTExLTXZBNFRFam85Yk96akF2UWdyY3J3NzBKLU1GN18xMmZDNXFhWjJHeWFzb0dHc1J3NjZocEc5Z2l3VC11R25FNFA4TlRKVVI?oc=5)
 
 ---
 
@@ -122,7 +154,15 @@ permalink: /news/orlistat/
 
 2026-09-03 <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
+來源：[bbc.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOHZicmZWMlVpUHoyT0NhZEFta3R0UDlydjBlbllOaUVUeWVTaUhsMEtBSERSTjN4M2Q0WmFhUGVFSEtjRmp4RlVnWngtZWZodHlGMk5iTi1Ddw?oc=5)
+
+---
+
+### [Adipositas: KI-Modell prognostiziert Therapieerfolg mit 89,8% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
+
+2026-09-02 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpPWGdNSHdnSkRxMjlKOTB5LThLbWlGcVVvR3VJdDBaUGtjYkswa0xvU3VtZmZBWm1NVW1PQ1lLRXZybmpTVzEtSXdpVm5NYmduY2ZJUW5qN1pGNFR5R0V3NnllcWtqN2xGNTVrb1JGaVVYLUxsOVpEcmdGMzh3MHpYUXBxNzJTMUlTd2IwbGJGYVp0NllnUnNCcDVyVlhTR1poYmU4eXZQQXJvaVR0X2pBdl83NWM?oc=5)
 
 ---
 
@@ -131,22 +171,6 @@ permalink: /news/orlistat/
 2026-09-02 <span class="news-indication-tag">obesidad</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMipwJBVV95cUxNN0ozT214MXp0ZmExQzFkUWlBOGp5cGs5cDFWM0VVWFIxbmhaVFQ5S01FM3RfNWV4a213eHFmbGVtemhWaTktblRHenBXUE93aHQ3Rjg4czJEOGNFa3RtblhWTGNGd1pzdUhHZW13dFZUQjhIdTJNZm94Nnctc1ZxbzdwNUdZck5jd3JhTDZ0MTYtU3p3dUoxLUF0THNTSTZ2RnR0bUZ2OWk1ZEQwYkxIMEZVLTVrLUtINkN0U3RYcjVUNGZkY2pXTm5YWm9LRmlNX0tYa3ExblloVko4MDktMHpsQTVTaFNVampvcE5OekpCSWl2aDI5b1ZZNE9DY0ExdDBidnFvdTZNNU9FOUh0NGhhY0xPaDR5M1Z4cFpUdW1qY2xYRGRj0gGsAkFVX3lxTFB6SThiTVhTMjBnWnhrVWN0cERaMUp5NklRbXBKcHFTQ3BObjVuTGdLel95cWkteEhaZTlHWXVBdVRIOVF3aFJJX2liaWZYY2lwRFNlck9xb2o1ZnNuX0JVS3ZJNGYwUXhLXzNKU3dta2pxYkRYWXRrUjdsMlBRX0ZfVEg1eVNmUHowcWpEaGl4YzdyU2tHNl9WSGRiWlVhV1JxWUctd2xWdld6NWlDMmZIbTI5VW1KcW1pcEdWYnM5akRsQ05HTWJVZUxXSTQ3bHpzWDhRY09HUlJSNXFSZTgtNktuUmZjeHZ2ajc1bmh5VFlZclhoRWpBaGVLY05keFVZTHMxbXVMUlVQR3YzUnVNLWJGbjVVei1hMUc2RW5RT0hPNjdBLV9RQjBlMw?oc=5)
-
----
-
-### [Aterosclerosis: la enfermedad que ya está presente en uno de cada 13 jóvenes y causa infartos e ictus](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHZvOUtLd3hmT2pXNHZoUFNLdVZtbzRSOEozLUxLQ014aFppR0xuQXIyVlc0dzBla2lya1ZVMXNhcXlEeVhFbzY5SHpRVlVURlhaLUJud3dtUE45c2VtNlVocU9PSlJBYmZ6MTB5aVdIT1AzNXIxUFhYYWpaV3NDWFRheThBUzZ0U0dudzNMeTRLYmVEUDA2VTgtUklWUGo4Q19fak5WYmZDdUIzWjdSMnBQSmo2ZTBCU21wVXJwU1BfZUXSAcgBQVVfeXFMUGcwZlJsQUsyaDZRc1JYZ2dRMXZpQ0QzWHJEZ1hLZWxaS3BibnRod1VwUUFoTENrNTZIRGZLSWJSTHFBRlBjc3lMaGNiSUlaQVA1QWJCSWRuLV9QN2tfYzRka0xJMll5Y191V01oVU1nRFZMWGVDSndMYUZ4d0RaaVd0eVJLT0d2TGxzOHVVSjF2ODQ1clV6bHhtd3g4VmFwRnJkX3FQWFZxMC0wcTFEbHphbXBoRVFfWmtoQlpMVDd4V0ZwV0pHY2M?oc=5)
-
-2026-09-01 <span class="news-indication-tag">ictus</span>
-
-來源：[noticiasdenavarra.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHZvOUtLd3hmT2pXNHZoUFNLdVZtbzRSOEozLUxLQ014aFppR0xuQXIyVlc0dzBla2lya1ZVMXNhcXlEeVhFbzY5SHpRVlVURlhaLUJud3dtUE45c2VtNlVocU9PSlJBYmZ6MTB5aVdIT1AzNXIxUFhYYWpaV3NDWFRheThBUzZ0U0dudzNMeTRLYmVEUDA2VTgtUklWUGo4Q19fak5WYmZDdUIzWjdSMnBQSmo2ZTBCU21wVXJwU1BfZUXSAcgBQVVfeXFMUGcwZlJsQUsyaDZRc1JYZ2dRMXZpQ0QzWHJEZ1hLZWxaS3BibnRod1VwUUFoTENrNTZIRGZLSWJSTHFBRlBjc3lMaGNiSUlaQVA1QWJCSWRuLV9QN2tfYzRka0xJMll5Y191V01oVU1nRFZMWGVDSndMYUZ4d0RaaVd0eVJLT0d2TGxzOHVVSjF2ODQ1clV6bHhtd3g4VmFwRnJkX3FQWFZxMC0wcTFEbHphbXBoRVFfWmtoQlpMVDd4V0ZwV0pHY2M?oc=5)
-
----
-
-### [Adipositas-Therapie: KI-Modell sagt Erfolg mit 89,8% Genauigkeit voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3NHejJYM0NrdHJtN1ZTTF9YRkdKVkhNUU9QLWdCb2dFR3BuVVFrU2VSeXlfbXNWZGg0cW9yWkU1U2NKTzd2RFpoRDE4WXM0N21BclNaT1ZlVzZwVzh2TUZQVHZOUmhEYjBkemhmV002UkRHMHpEdDRUb1prMTEtUWtzN29Tbk1IN2k4S2pQSjV6bnZHanc3YXpQdGlxMDZnWDVscVJaRmpWRWRla19oV3MxZ1FRNHVMRFJF?oc=5)
-
-2026-08-31 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3NHejJYM0NrdHJtN1ZTTF9YRkdKVkhNUU9QLWdCb2dFR3BuVVFrU2VSeXlfbXNWZGg0cW9yWkU1U2NKTzd2RFpoRDE4WXM0N21BclNaT1ZlVzZwVzh2TUZQVHZOUmhEYjBkemhmV002UkRHMHpEdDRUb1prMTEtUWtzN29Tbk1IN2k4S2pQSjV6bnZHanc3YXpQdGlxMDZnWDVscVJaRmpWRWRla19oV3MxZ1FRNHVMRFJF?oc=5)
 
 ---
 
