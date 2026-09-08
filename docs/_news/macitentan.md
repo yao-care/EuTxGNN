@@ -14,7 +14,7 @@ permalink: /news/macitentan/
 ---
 
 <p class="key-answer" data-question="Macitentan 有什麼相關新聞？">
-<strong>Macitentan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macitentan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/macitentan/
 <p><a href="{{ '/drugs/macitentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Hypertension artérielle : ces réflexes du quotidien pour faire baisser durablement votre tension](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+### [« Une tueuse silencieuse » : 17 millions de Français sont touchés par l’hypertension, le mal du siècle - Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
 
-2026-09-07 <span class="news-indication-tag">hypertension</span>
+2026-09-08 <span class="news-indication-tag">hypertension</span>
 
-來源：[leparisien.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
+
+---
+
+### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
+
+2026-09-07 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+
+來源：[theconversation.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

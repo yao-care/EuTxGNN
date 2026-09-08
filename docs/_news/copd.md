@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "EPOC（copd） 相關新聞"
+title: "BPCO（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "BPCO（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
-# EPOC（copd） 相關新聞
+# BPCO（copd） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="BPCO（copd） 有什麼相關新聞？">
+<strong>BPCO（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「EPOC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「BPCO」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -56,11 +56,11 @@ permalink: /news/copd/
 
 ## 相關新聞（2 則）
 
-### [Sorpresa en Barcelona: revelan que Ozempic reduce hasta un 40% las crisis de asma](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
+### [BPCO, ridere come ginnastica respiratoria? Nel trial ha ridotto la sensazione di dispnea](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
 
 2026-09-07
 
-來源：[ABC](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
 
 ---
 

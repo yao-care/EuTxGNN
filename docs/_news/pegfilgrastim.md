@@ -14,7 +14,7 @@ permalink: /news/pegfilgrastim/
 ---
 
 <p class="key-answer" data-question="Pegfilgrastim 有什麼相關新聞？">
-<strong>Pegfilgrastim</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pegfilgrastim</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/pegfilgrastim/
 <p><a href="{{ '/drugs/pegfilgrastim/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（17 則）
 
 ### [Vermeiden Sie diese drei Risikofaktoren, und Sie leben zwölf Jahre länger ohne Demenz](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYkdESmNDUFhpaFFvWlQydmlxTDNEemx2dHliQWJwcWNNZWFyV2Z5VUpDMzV2RmRWQzhXVmJwTWI1QkNvSGRDSnFEanB6NFkwX2ludUJjeDBTeEx3NGJwX256MFdDVTQ0QnkzREtOb1o1R3FudWxfazhldEZvS3VraUhuNDBKT1hTb0ZpU1U1VGdmQlZwVjNDelhtU08yc1hwTEYwdktacHYxZVM4MTB1b2thbGh4SGNRN0FYaWRpdlJ5WmsySlhiR1lQOXZfQ290V1V5NWh5S2FZRUJDVzB5MVI2dW8zNUFyWmtMZnVzOA?oc=5)
+
+---
+
+### [Los nutricionistas de Baleares avisan: «La dieta Keto es peligrosa para la salud» - Ultima Hora](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXphQ2prV2syc1BmWTlhTVFXalEwblJSSHlYUk9Fc2ZBRmx0aDJqQW4zeVVUMUhleHFHNnEzNlcxZEtYdjFrMUVkVHliTk82bmpVRGJNMzFfeTVKRHNEODZMQ0RSY1BvWTZGMzVFMEI3WUl1YkUzci1Pb1pVbmRwT25tUlZ4dmluRlhWR0N0OHNFNUdFM09ZYVdoSGk5Q1BiSkdWZGFveFBMTnItT2c3aE5fbnN3S29zUVhWVTVSMHZsb25mYWc?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ultima Hora](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXphQ2prV2syc1BmWTlhTVFXalEwblJSSHlYUk9Fc2ZBRmx0aDJqQW4zeVVUMUhleHFHNnEzNlcxZEtYdjFrMUVkVHliTk82bmpVRGJNMzFfeTVKRHNEODZMQ0RSY1BvWTZGMzVFMEI3WUl1YkUzci1Pb1pVbmRwT25tUlZ4dmluRlhWR0N0OHNFNUdFM09ZYVdoSGk5Q1BiSkdWZGFveFBMTnItT2c3aE5fbnN3S29zUVhWVTVSMHZsb25mYWc?oc=5)
+
+---
+
+### [Diabetes-Management: KI prognostiziert Blutzucker mit 98,45% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZno0MlZLQmFIdGQ0SE1tY0hpUW56QnFDbUF6ZnptN1RueDBNS1dPdU53MzNnbFVKeWE5Z0NMZzBkbGhRLUR5Q25KcGdXaExUam9kbVpxd3BGcDdSRzdRdXRmc3ZCVDFpbHF4d2hFd3lBRUNJaWtKbERLdzc5SDhJZUo5enduWERFaVdiSlN5RGpMRUYzb09RRFE0Zlo1QzBJamxEanJiUEpwaFlMdGpxX0FOVS1RZw?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZno0MlZLQmFIdGQ0SE1tY0hpUW56QnFDbUF6ZnptN1RueDBNS1dPdU53MzNnbFVKeWE5Z0NMZzBkbGhRLUR5Q25KcGdXaExUam9kbVpxd3BGcDdSRzdRdXRmc3ZCVDFpbHF4d2hFd3lBRUNJaWtKbERLdzc5SDhJZUo5enduWERFaVdiSlN5RGpMRUYzb09RRFE0Zlo1QzBJamxEanJiUEpwaFlMdGpxX0FOVS1RZw?oc=5)
+
+---
+
+### [„Epidemie der Fettleber total unterschätzt“: 30 Millionen Menschen in Deutschland betroffen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
+
+---
+
+### [Gestationsdiabetes: Kardiometabolische Risiken langfristig erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWi1rWTR2UC1oS3I2bWoxd1hHZG85cUItSlMzSXRpRFhNZTh0RE9mX2VKOGFWSmdtRlAzSXNTMUhtX1Z5blYwNDd5emdRNzlZSHk1aENtYlczUnA4a0w2R3FuMW56bWVlRkZnRk5rU0JoaER5TG5vMEtGa0JudzlZT3RiZm1FYjFmZUlxU0V4cHBHSVY1el9MOExRMy1QRHExN2N5bFJ1aFhINlUyZ1p0M3N2Tlp2Q2VJVmEtVDZKSzNZek1WY3Rlb21YYWxKVDhKa3pPYWRjYkxDN05jQ1FVTF9BN1k?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWi1rWTR2UC1oS3I2bWoxd1hHZG85cUItSlMzSXRpRFhNZTh0RE9mX2VKOGFWSmdtRlAzSXNTMUhtX1Z5blYwNDd5emdRNzlZSHk1aENtYlczUnA4a0w2R3FuMW56bWVlRkZnRk5rU0JoaER5TG5vMEtGa0JudzlZT3RiZm1FYjFmZUlxU0V4cHBHSVY1el9MOExRMy1QRHExN2N5bFJ1aFhINlUyZ1p0M3N2Tlp2Q2VJVmEtVDZKSzNZek1WY3Rlb21YYWxKVDhKa3pPYWRjYkxDN05jQ1FVTF9BN1k?oc=5)
 
 ---
 
@@ -70,19 +102,19 @@ permalink: /news/pegfilgrastim/
 
 ---
 
+### [Científicos reprograman células humanas para generar insulina y combatir la diabetes](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFUxZktiQ0QzdnRmbFB1OUtkSjZqZVQxQ0JCWkdnRjM4Rk9wU0lrU2VzSGpheVlFWXd6VHN4a2hjRzE2Q2c4Zko4UjZuakVxN0ZmMkE1Qkl3Ni16b0dsVGc5bnA0Zm90R3Zrc2d6eExVVFA3Y1p1UWxGS0s3ZDFfOHB1Zjl1aUFCYjRDRjFpM1RZanZHbW95bmNYdlNEVzdjc185cWJ4cHhzUjVLUkxvbndBOWhZZw?oc=5)
+
+2026-09-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFUxZktiQ0QzdnRmbFB1OUtkSjZqZVQxQ0JCWkdnRjM4Rk9wU0lrU2VzSGpheVlFWXd6VHN4a2hjRzE2Q2c4Zko4UjZuakVxN0ZmMkE1Qkl3Ni16b0dsVGc5bnA0Zm90R3Zrc2d6eExVVFA3Y1p1UWxGS0s3ZDFfOHB1Zjl1aUFCYjRDRjFpM1RZanZHbW95bmNYdlNEVzdjc185cWJ4cHhzUjVLUkxvbndBOWhZZw?oc=5)
+
+---
+
 ### [Typ-2-Diabetes: Frauen entwickeln psychische Probleme 50% häufiger - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOa195LTRXZnNRU1dENkhLeUVPVkRUcjNhQVFZMGtiakdYUkNlb25laFU2bm1IZW9RNHVwV29KME83RGt5WHdXMDRUaTBzd3h1cTUwN3hQbHFXSDFRd2Zsa1VHV0tESWg0Y3NkODl4dW5CNkxxaVF0SE1mUU92SWlneVZ0R1gyWFRreEhwajFfQTdfWjdjMTBsbHEybkJuT0pBc0tqWTZ5UmFBU0F0OXRidDBR?oc=5)
-
----
-
-### [Leberfett massiv gesenkt: Diese Diät schlägt zwei bekannte Konzepte](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[fitforfun.de](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlsZXV5WWJvR2o4ckxfTlVnLUd1NzZkNDZoc0d0X3lUekViWHNtUFhfLWdRMWxrVXZ5RHBvSzNGbmJPdXFFMWIwSXBEQjhVcWVyQXI5X1FXU3o4bGRqT1FaYVVhdjFHbFFKLVZFUE1EV21kaFI0NllwRGo2RHJwRVZheW9ENWV3SlJuVlZPcW43RndRREFxYngwRy1oT0p1VG45Q1ZvY1JOdEZpX2txSW16VkFuRHNSTGc0MTlYeXBmUjJZbklUYlVxVUZsWElTdDBLRW1LYUlFZk9fWDV6QTlIdFRKQkpDM2c?oc=5)
 
 ---
 
@@ -110,11 +142,11 @@ permalink: /news/pegfilgrastim/
 
 ---
 
-### [Diabetes: Risiko schwerer Nebenwirkungen bei diesen Medikamenten](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLU13X3lVcUpidXpINkluVFYwWllQZDdWUGNLS1FveEJKbHUwblBGRURIWlFmdldvbVU5V2k1d2F5R1FEVTlqZU1ra0w4TkpUZnZ1TDB5SnFyMGlCd21PTEVlUm9HcUU0YlVVeEFrc0FjZmZkWnR5NlpoSmxXZlNabmJyY2pTTXVrTjBWb0M1R2ZkVDdlSWp1YmQ1dmdnSV9OUUpLN1NHQ2RWQk1KOFRyVzdCQkdzN0dEZGVpZk5XaXVJZw?oc=5)
+### [Diabete, quanto rischiano cuore e reni? Un esame del sangue te lo dirà, per prevenzione e cure su misura](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbS0tRTVLanNnVEIwcEhMMGhmWFJ1RUVZOGdpLVhRQjhTUTdfbE5jV0EzNFpGZThJUWhjNWtPaW5nNERCUXFPa05kODVaYzM4enE1ZDhqQVM5bDFYcDRFeG1abWkxYjF4WldtQVZycmVKdVU0UnZ6ZUJYaThjb1QtWUZqTTBLOGpLRW9McFVfdWtjM1dhay1QaEZhUUhzMFdocGpkeThMM0M3Y3PSAbABQVVfeXFMUHloQ3JsWDJNLWhQUzV5ZXlJRG1lTzJtUENVV2Z1STZwSnJvdF9nSFoyMzlfT21XWUgxVkdrZ08tbl8zaXA3U0JhVXdYQzg1UEpmNmxqeUhIMHlVQ2JjN2RkMGJOczB6MThCRV9HVVZTQ1B1bjd5TUlsOVJyWmtwenYxUW9KaWNvVDJ1TEZhcjNCTkJzSUluYmlLWG5jcU0xVzc3YlJEVWUxQkdEWEE2QmQ?oc=5)
 
-2026-09-07 <span class="news-indication-tag">diabetes</span>
+2026-09-07 <span class="news-indication-tag">diabete</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLU13X3lVcUpidXpINkluVFYwWllQZDdWUGNLS1FveEJKbHUwblBGRURIWlFmdldvbVU5V2k1d2F5R1FEVTlqZU1ra0w4TkpUZnZ1TDB5SnFyMGlCd21PTEVlUm9HcUU0YlVVeEFrc0FjZmZkWnR5NlpoSmxXZlNabmJyY2pTTXVrTjBWb0M1R2ZkVDdlSWp1YmQ1dmdnSV9OUUpLN1NHQ2RWQk1KOFRyVzdCQkdzN0dEZGVpZk5XaXVJZw?oc=5)
+來源：[DiLei](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbS0tRTVLanNnVEIwcEhMMGhmWFJ1RUVZOGdpLVhRQjhTUTdfbE5jV0EzNFpGZThJUWhjNWtPaW5nNERCUXFPa05kODVaYzM4enE1ZDhqQVM5bDFYcDRFeG1abWkxYjF4WldtQVZycmVKdVU0UnZ6ZUJYaThjb1QtWUZqTTBLOGpLRW9McFVfdWtjM1dhay1QaEZhUUhzMFdocGpkeThMM0M3Y3PSAbABQVVfeXFMUHloQ3JsWDJNLWhQUzV5ZXlJRG1lTzJtUENVV2Z1STZwSnJvdF9nSFoyMzlfT21XWUgxVkdrZ08tbl8zaXA3U0JhVXdYQzg1UEpmNmxqeUhIMHlVQ2JjN2RkMGJOczB6MThCRV9HVVZTQ1B1bjd5TUlsOVJyWmtwenYxUW9KaWNvVDJ1TEZhcjNCTkJzSUluYmlLWG5jcU0xVzc3YlJEVWUxQkdEWEE2QmQ?oc=5)
 
 ---
 
@@ -126,11 +158,11 @@ permalink: /news/pegfilgrastim/
 
 ---
 
-### [Diabetes: Ginseng-Inhaltsstoffe zeigt therapeutischen Nutzen](https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1ExR1kycktfUF93SFU3aG53dkNsU3phQlFrOVNBZkFtcGJLT3J1MzRVd1JqcC1ENG1OR1dRUlV3aVhDaFM5SUJvbFkxanB0bDFuUlp1Uk1aeDdUb2czMXFydEh0b1A0RVB3dVZrWmtuTzZ3cEdNa090VDAtSUF3WFpMbGxQX1gybkJPaDJwdE4wQkcwNFFlZHZmNWdscDlVRVJqbU5PX1dDbzB0dkdTSHdmUURmMFRYS1lmbA?oc=5)
+### [A che ora assumere la metformina per la glicemia: come farla funzionare meglio](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3dIMUZGRzBDWnR5aXBTWEFjR3V5U182Mjlua2ZscVZscndSc3hwZFdPZHMwdHJnQ3hmUzBadXVGVS0xeUVPd3JDU1lQSnBUYzVpUldYdDYxMGZoM0FrSXVzMEZmWWVOeGJqcHdSSTJzb0I1cm5Cd0xUSGZqQ0x4TTRpVUdSRDB4bG16bk85dURrY2xISjNyR0M3LXF2aENEMWQ5MVNkWnhKQmtFWF9pclFyWm5pNjd5N1BaTHEwUFBXWjBVOXlKUlR6aFB4OFBxVHJCTy01UQ?oc=5)
 
-2026-09-06 <span class="news-indication-tag">diabetes</span>
+2026-09-04 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetic</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1ExR1kycktfUF93SFU3aG53dkNsU3phQlFrOVNBZkFtcGJLT3J1MzRVd1JqcC1ENG1OR1dRUlV3aVhDaFM5SUJvbFkxanB0bDFuUlp1Uk1aeDdUb2czMXFydEh0b1A0RVB3dVZrWmtuTzZ3cEdNa090VDAtSUF3WFpMbGxQX1gybkJPaDJwdE4wQkcwNFFlZHZmNWdscDlVRVJqbU5PX1dDbzB0dkdTSHdmUURmMFRYS1lmbA?oc=5)
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3dIMUZGRzBDWnR5aXBTWEFjR3V5U182Mjlua2ZscVZscndSc3hwZFdPZHMwdHJnQ3hmUzBadXVGVS0xeUVPd3JDU1lQSnBUYzVpUldYdDYxMGZoM0FrSXVzMEZmWWVOeGJqcHdSSTJzb0I1cm5Cd0xUSGZqQ0x4TTRpVUdSRDB4bG16bk85dURrY2xISjNyR0M3LXF2aENEMWQ5MVNkWnhKQmtFWF9pclFyWm5pNjd5N1BaTHEwUFBXWjBVOXlKUlR6aFB4OFBxVHJCTy01UQ?oc=5)
 
 ---
 
@@ -146,7 +178,15 @@ permalink: /news/pegfilgrastim/
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2NhOE9ZancxQ3RZUHhaVFhFbWpNQndOajFGY1BxbEllQm1LeEEzd2ZoVDFqZHI4YzBPdExhYUN5c2hUTjJWU19Mb2Rhd0JDVlVXdmRUZ1lycVFjR2hIaGhldXh1V3pxLXdhQ3hpVEFoZGtMNWR2bDljN25uTGsxZzdweEhkNGU0OEVvX0pObWx2ZG1ad1g5eUxqNzJkc0lRa2VFOURNVE1zcHByX1FkWE1nWkxfMFR3VVh0NjFMWjFocWcwUW5NLUdR?oc=5)
+
+---
+
+### [Keto, Low Fat oder mediterran? Welche Ernährung beim Abnehmen weitere Vorteile bringt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnhrVUR0bzRmT1NicVZFX25PV2tjdzlIaFdCbi1HeG9jZldUR3RWT0FqNHlvOElQektmYTYxc3JFODdzejNKcURsN2k0T0xzakpkcjZFZng2d2p0UjNneVdPell4TzVXZXRxdXE5LTZRMlc3cGpOLXVjNDdtZGdhMGtfcmgxanNNVzdoQnpFNUV4bkwwSG1KUlFrWEEzeDlacjFQTVRVeXgzT2pqNU0xeGpn?oc=5)
+
+2026-09-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnhrVUR0bzRmT1NicVZFX25PV2tjdzlIaFdCbi1HeG9jZldUR3RWT0FqNHlvOElQektmYTYxc3JFODdzejNKcURsN2k0T0xzakpkcjZFZng2d2p0UjNneVdPell4TzVXZXRxdXE5LTZRMlc3cGpOLXVjNDdtZGdhMGtfcmgxanNNVzdoQnpFNUV4bkwwSG1KUlFrWEEzeDlacjFQTVRVeXgzT2pqNU0xeGpn?oc=5)
 
 ---
 

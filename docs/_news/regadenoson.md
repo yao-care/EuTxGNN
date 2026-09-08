@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Sorpresa en Barcelona: revelan que Ozempic reduce hasta un 40% las crisis de asma](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
-
-2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
-
----
-
-### [Quanto ereditiamo del nostro carattere - Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
+### [Più di mille varianti genetiche plasmano la personalità: lo studio che riscrive il rapporto tra DNA e carattere - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGd6bnBLUTlQTXVKMlNwM1VrM1pJZjlhaXdQeTJBWXBfenc4NmZ3cGQ5Mmh3aVR1VkxpVlJkRHh0OThPZTAwSU1ZWGY1dDJLck5SVDh1Y3Zta3BXX1gwQVlVek9DYllSbFFoLUJmTzl6ajVUeTlHNzBrQ1d3Nm9XUXNmUUEyTGRURlpDaERuN2pDcEIwTXVwVmpLQk9VNDlFZHRJNU1nUVZFcmV6VzYxYXBBZjdJbmMtYnpBUzcxMW10MWFDbjk4dzZocGpYVVJFbTc0NWlJOGxudw?oc=5)
 
 2026-09-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
+來源：[Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGd6bnBLUTlQTXVKMlNwM1VrM1pJZjlhaXdQeTJBWXBfenc4NmZ3cGQ5Mmh3aVR1VkxpVlJkRHh0OThPZTAwSU1ZWGY1dDJLck5SVDh1Y3Zta3BXX1gwQVlVek9DYllSbFFoLUJmTzl6ajVUeTlHNzBrQ1d3Nm9XUXNmUUEyTGRURlpDaERuN2pDcEIwTXVwVmpLQk9VNDlFZHRJNU1nUVZFcmV6VzYxYXBBZjdJbmMtYnpBUzcxMW10MWFDbjk4dzZocGpYVVJFbTc0NWlJOGxudw?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ permalink: /news/regadenoson/
 2026-09-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDFuS21VemdtNTB4Z1EzMzl6c1dQb0FmNkpCeGJZbGtRV2g3YjFRQkhxN1VwM3NoMHhRVjE3a1hmUVdnWnJBLUJ5cnJRa3FDMkktZ0huVU42a3AwdGNRcERaNnRCQmx1Z2FOd3IycVVfZUJxTDF2Nk5Zdll3QUlaZ0pkTlZ3YVA2ZmNBT1B2cjNyMnc2RlRRMzB3MjFYb1VZaEhzV3Q0SW02QlluMHdRbTN1aEZMVkpySFdpRjJMQVk0LUcwYTZtSTBPdmV5YkFGcHdPN2RjRHZjSWRqRlNqcmN0R1g?oc=5)
-
----
-
-### [Alergias y vuelta al cole: cómo preparar a los niños y coordinarse con el colegio](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
-
-2026-09-06 <span class="news-indication-tag">asma</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
 
 ---
 

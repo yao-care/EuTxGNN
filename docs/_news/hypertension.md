@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hypertension 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hypertension 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hypertension 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hypertension 有什麼相關新聞？">
-<strong>hypertension</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hypertension」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Hypertension artérielle : ces réflexes du quotidien pour faire baisser durablement votre tension](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+### [« Une tueuse silencieuse » : 17 millions de Français sont touchés par l’hypertension, le mal du siècle - Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
+
+2026-09-08
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
+
+---
+
+### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 2026-09-07
 
-來源：[leparisien.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxObWtCXzBySTZJX1ZROXlVTDVRZTI1V1ZWeWkxU09DWEdLRG9iTHU0TUZjYnhLaXN0S0hBQjRaejFhS040RGNZNko1UXkxLUtvZVpTZFJUVEZFT3JDZUVpOEFOR3A0N0VqbXhySnZjSGpMUTZYSGRiT3R1d0JZWVluanFuTUVhSVJWTUtJSkNCZ1oxU2lOQXY3aHRkYUdfbGJDRTRnaWc2Tk1rbUVvU0gwWlc5d0l4Nkh5NnVEeVZFSmY5UHhQTk5jQjRSLUxHU2NsNkR0bGlaVERxeExBa2RiMk1kbl9PaFdxYUpRLWFfRjlpbEp4cXVkZVZaaUwxNVd3UmJ6Q1lPYUl6WFUxV2EzeHNXanpIaGFqbnJLYXhKdUxKMVk1?oc=5)
+來源：[theconversation.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

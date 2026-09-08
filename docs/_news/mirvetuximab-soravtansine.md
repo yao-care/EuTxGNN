@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="Mirvetuximab Soravtansine 有什麼相關新聞？">
-<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/mirvetuximab-soravtansine/
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Sorpresa en Barcelona: revelan que Ozempic reduce hasta un 40% las crisis de asma](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
-
-2026-09-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm1aUk5yMUlQX05XdW9yZjJSbmFnUDBZSHBrMXVoNTViaGdwdjN4eURhQmU1Z09YRkhyZTJ3NFA1OXhpVU1lUlp0a1o0X25LaXY4OGRCdWx4N2g0elppdEI4aTJ6d1JZb3RTcjN1d1BKSmloMFVFT1l0SU1URkFXRmxldlo4ak5rdW1mQ0pPMWU1UHhwQzVEVUM2aHJlel93S29n0gGoAUFVX3lxTE5DRjlYU1dwZUMtdFFoM1o5b3NRMHRjV19rbWRGMjRqVEFQNm56SUlQVGZUU2RuME9YRXNjejY5cG5hTlVSRzFBX0V4QzJ3a3Z2eW1sNUp3NklfZXBpMThVNmozMnJ0M2xJWThvMXhBZDl0eTE4WHVSa3B4Um5sdUFEVGtxdUhqR0Z3V2JFa2VlNUVrWUtIbngxcXRITmNyVC1ETkJSRXJ3aw?oc=5)
-
----
-
-### [Quanto ereditiamo del nostro carattere - Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
+### [Più di mille varianti genetiche plasmano la personalità: lo studio che riscrive il rapporto tra DNA e carattere - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGd6bnBLUTlQTXVKMlNwM1VrM1pJZjlhaXdQeTJBWXBfenc4NmZ3cGQ5Mmh3aVR1VkxpVlJkRHh0OThPZTAwSU1ZWGY1dDJLck5SVDh1Y3Zta3BXX1gwQVlVek9DYllSbFFoLUJmTzl6ajVUeTlHNzBrQ1d3Nm9XUXNmUUEyTGRURlpDaERuN2pDcEIwTXVwVmpLQk9VNDlFZHRJNU1nUVZFcmV6VzYxYXBBZjdJbmMtYnpBUzcxMW10MWFDbjk4dzZocGpYVVJFbTc0NWlJOGxudw?oc=5)
 
 2026-09-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
+來源：[Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGd6bnBLUTlQTXVKMlNwM1VrM1pJZjlhaXdQeTJBWXBfenc4NmZ3cGQ5Mmh3aVR1VkxpVlJkRHh0OThPZTAwSU1ZWGY1dDJLck5SVDh1Y3Zta3BXX1gwQVlVek9DYllSbFFoLUJmTzl6ajVUeTlHNzBrQ1d3Nm9XUXNmUUEyTGRURlpDaERuN2pDcEIwTXVwVmpLQk9VNDlFZHRJNU1nUVZFcmV6VzYxYXBBZjdJbmMtYnpBUzcxMW10MWFDbjk4dzZocGpYVVJFbTc0NWlJOGxudw?oc=5)
 
 ---
 
@@ -75,14 +67,6 @@ permalink: /news/mirvetuximab-soravtansine/
 2026-09-06 <span class="news-indication-tag">asma</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMWFPQU0zMnAtRTdOQVU3UTJfOE1zM2kxenJLam1TMlZuQzZKSGxVT3A0aG9ObGJiZDFzbHdfVlVZenFEdXNRUzNRQnFXdlRkdGs5ZFhPaHg3MGFPc3UyTzNiNndad1RUQXhyR0lFSEpWZWZGSy0ySHNidnY0akdfQ3VELXh6ajFFazBoeDRLWUN5VUNQLVVVRWhrc19RQW00UUtkMzNXZ19YTVdFVGt6QzRSaDV0M0VLUTBNWG82dWszRkpVUjFnSFQzVkxrQ0FiRDZacm52VWhiWnpQajRVUWpWQnNMa2laS1R2N0w4X01rNmNJaG1NanQ1QkNvSmd0SEw5b2RiTFFMR2ZvR1kxM1dpZlZPVzTSAZwCQVVfeXFMTUFyWlNjVVYxVVc3eWt1TEVjeHhVX0NEdmdGMWRNYnBlMjZZLVFSempJbHhRSFFYel95aTV0QnlBb2FheVNmY21DSXpHN3d0M2ItWUNQTWlBTllBWU83d1JpQ2cyM1dEajl5YVl4WE5vSnpBd2ZzeHR6a3Q4TVJja0RuTjVTcXBVcVdaakFnYzNmWmZ5dkdOSExSYm1Mdzh4Ny16eVpxc3dXSk05UzZDNVJ3T2JLWWhmR3J4cUFpajFsNTRTY2lyWENNaDI0NG9ORGdCV29mYkJoWmhMb2FWMkVmcDFEck5pZ0JWeFA3SklVcHJTbmE5aUJzMXZ4MnF4eHktcW53SnVJVG9ZcEJrVXdfRUl0OFFsb3RyXy0?oc=5)
-
----
-
-### [Alergias y vuelta al cole: cómo preparar a los niños y coordinarse con el colegio](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
-
-2026-09-06 <span class="news-indication-tag">asma</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmt5b2R6VHlnWU9UZGUwamJibTllU1ZWY05aalVaNFl4d2ZiS1BMSVJkcXZxeTJsbkRfNWltSi1yaHZqN29zbTlPVnkwTjUzb19mUXRYMWUwQjh4YVlDTDBUOS11M2MtbWlDVTBGZGMwX2RieUUtMWdfem9JNlQxV1E1cjU2VHZuaVdPOG5EZHBGVUt2UlNXUWtrdmTSAaIBQVVfeXFMTkd0SUM2SldMWEMzUVBmdC1GSFkxcC1nYndNdE5hMjRTb3RrbkJzMnhYZUVGajUta3Z4R0U5RFlGb2M4ZHZHNFk0LVVzWVFncWxIc1Bsb2labXBjTXRjRHFTUm1OZ0pxSVdCeGxxVF9ZRldUVGVCRlB6RzBnWDNicFM3T2ozcmpqalVYWVR1cTlhYUo4dENBMjRRTmNLN016RzVB?oc=5)
 
 ---
 

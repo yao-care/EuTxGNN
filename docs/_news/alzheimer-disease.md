@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [Mal dormir pourrait favoriser l'émergence de la maladie d'Alzheimer, selon une nouvelle étude belge - La Libre.be](https://news.google.com/rss/articles/CBMiggJBVV95cUxQdm5ZV2hiSENTc2draS1nUU5waDQxSEdNQ21hLUIxMl9vbXMyY081U1NjLU83dHVLMFZpUHJXcTFTQjhTSlBzdEhlal9vbVNCWklaU0s3eWxKVUJNNFBDUU96bC1iN3pSM2ZnZFprWmhxaEV0TV9IUTkxLWJDYTh2cHAtNk5leWxlN053QjVJeF9iOFhMYlRHZkxHdEE4NjhNSkdMMnZCc05oNF85Vk1McUhkUWlhSjFnaHNLN3J2RG9iV0JmNTdySllORlppY0tsc2I5MlpsOHlVTVBVblJtZWdpSnRFbGFrT251RE5NMXUyNXd3Y0V2dV9Uc0JxaFVTN0E?oc=5)
-
-2026-09-07
-
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMiggJBVV95cUxQdm5ZV2hiSENTc2draS1nUU5waDQxSEdNQ21hLUIxMl9vbXMyY081U1NjLU83dHVLMFZpUHJXcTFTQjhTSlBzdEhlal9vbVNCWklaU0s3eWxKVUJNNFBDUU96bC1iN3pSM2ZnZFprWmhxaEV0TV9IUTkxLWJDYTh2cHAtNk5leWxlN053QjVJeF9iOFhMYlRHZkxHdEE4NjhNSkdMMnZCc05oNF85Vk1McUhkUWlhSjFnaHNLN3J2RG9iV0JmNTdySllORlppY0tsc2I5MlpsOHlVTVBVblJtZWdpSnRFbGFrT251RE5NMXUyNXd3Y0V2dV9Uc0JxaFVTN0E?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Dementia could be 'REVERSED' as surgery 'flushes out toxic proteins' from brain - The Sun](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVRUMVVxLUlUd3hSUm5EU1lvTjZ6ak9KMXdsSXV5dy1vNGIydWlJbl9lbXlWbXlTWmphUV9MYUFWOF9kZkJsYWQ2TlVBemtnT0JKTFlUbVFBVGN0Vlc0M2pfR2ZSVVRiOVE1Mm5aeWFlT1FQcEhCemxUY25uUXZEVHJmRnhZeGt5YUFkczVPWGRiLVMyemFZMVY3VWRCUWpPUUJCa1E4a1pDWHhjSUE?oc=5)
 
@@ -66,7 +58,7 @@ permalink: /news/alzheimer-disease/
 
 2026-09-07
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
+### [Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented - The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
 
 2026-09-05
 
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Y4TV9fOW9mcHoxZnZaakIyNlhNYmNZNHVRd3NkMXhzNkpEZFZvNlhRTzhtT2pRUy1DMmhuM2dwNjBPSGhpWFBVMzk1TnUyYjVlYXNVX0t4SXYzTTdDZlRIYlpmTWVzeUxqZ3MyTGwxMG11OGphTjM5M1d2RUcwancwbU8?oc=5)
 
 ---
 
