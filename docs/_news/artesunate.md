@@ -14,7 +14,7 @@ permalink: /news/artesunate/
 ---
 
 <p class="key-answer" data-question="Artesunate 有什麼相關新聞？">
-<strong>Artesunate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Artesunate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/artesunate/
 <p><a href="{{ '/drugs/artesunate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Rheumatoide Arthritis: CAR-T-Zellen bringen 83% der Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDJidHpGX0tkWVZzbnNXQXc2TW1DNEZfcFZWVFJQTE05eW1ydlBTNXNFemZCWGJnSUx6MnFZTDhLaldRQkJLRFlDTkVxc19QWWZOTmlPSmsxYk1EdF8yUW9PdjdfQk12Z0VjdjlZaENINXYxUXJ3RFVRc21MX1pfMmFLMFFXR0dCdTBUbEhyTWJYbHB2NkJDaTVXQkdvZ2dZNElCeEhRZHdaUzRJZG9Yd0VTVEFKbDNaaGNV?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/artesunate/
 
 ---
 
-### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
+### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGpDaTl5N1F2RWpOZUdPS3k1bTVjcm96RjZaakotV3dqeUFWZlRxejQyQzVJZmVocFV6U2dDaHdyYUdoT2dBcFA3WXZXbTY4SHJNaUJ1VmxEQWh4eFFraVdOaFFyQ2hCeXpXcDdpdC1YSmQ4UFNOX0RmU3pONnFuTVgzUFNlenowSVpHVzVpQnJYYWZpSFFlV05yUEpJbkFPSEUxNl95S1poNGtXa0hjaWpwUWVFMVpZNmhkcXJWM0jSAbsBQVVfeXFMTVJUVzJPaFRDMU12VW1nX3BxblpvdzY5bTRadGQxek5VVUt6Q0ZTUDRKUXhFWHJCSWZIQ0RQaUxYT3gxYzQzTk5sNVFmUUVGUHlqbVdFR0U2VlVkU1VhNy1tMkFlQjl4cl8zVmctNmw1cGtKdUNqb1dvTTFoMHdyUWpTdThmSDlraXhtR1dNZ1VUSF9oLWx2RkN0Nnd3X2dTbkVpVjR0U3RWU1FnQV8wUUFKYnFqd0NTejhRbw?oc=5)
 
 2026-09-07 <span class="news-indication-tag">artritis</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHZhN3FmV25aX3JWNGtvNmV3bXNoV3d5Wlk3YXBTNFg5cWpONkYxSXBFRTlBQkxFRzA0Q1J4RlZ0YkMwWE5XZGUtb2loczdISWRSaW5kbFdsek85RnJjU2ppdjBMUzF6NmVyY2VSelNlRFZjRW5QTHZHeEdrVmNycXZPVU9KVEVyT1B3cXNXU09WS1pDU1JackJwZXdya3lHRWRJN3E2T0dPcUZMTlJVLVA4TVl3Tk8tc3E40gG2AUFVX3lxTE9pczhCeE1wU1R3X2Z3U25aakFwUmtfdXpZN0VfQTkyYmJzZGlxOHl4QW9CTVFPSHIyMExXd1NFaDktMFhiX2NNUXVlc3d3SUlQSk9wWFhQVldpR0RBaHpwTTFrd2k1RFdRTllHLXVMN0NMc29GWU55WGF2cGZqWXlHaVRsaHZQbFRIM3NidnROZWlmM2t1em1NTTV4VzQ1ZmRvQU5ocm1oMzZKcTQ2dzd1cDNUbUxn?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGpDaTl5N1F2RWpOZUdPS3k1bTVjcm96RjZaakotV3dqeUFWZlRxejQyQzVJZmVocFV6U2dDaHdyYUdoT2dBcFA3WXZXbTY4SHJNaUJ1VmxEQWh4eFFraVdOaFFyQ2hCeXpXcDdpdC1YSmQ4UFNOX0RmU3pONnFuTVgzUFNlenowSVpHVzVpQnJYYWZpSFFlV05yUEpJbkFPSEUxNl95S1poNGtXa0hjaWpwUWVFMVpZNmhkcXJWM0jSAbsBQVVfeXFMTVJUVzJPaFRDMU12VW1nX3BxblpvdzY5bTRadGQxek5VVUt6Q0ZTUDRKUXhFWHJCSWZIQ0RQaUxYT3gxYzQzTk5sNVFmUUVGUHlqbVdFR0U2VlVkU1VhNy1tMkFlQjl4cl8zVmctNmw1cGtKdUNqb1dvTTFoMHdyUWpTdThmSDlraXhtR1dNZ1VUSF9oLWx2RkN0Nnd3X2dTbkVpVjR0U3RWU1FnQV8wUUFKYnFqd0NTejhRbw?oc=5)
+
+---
+
+### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
+
+2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
 
 ---
 

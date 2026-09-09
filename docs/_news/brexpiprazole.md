@@ -54,11 +54,11 @@ permalink: /news/brexpiprazole/
 
 ## 相關新聞（1 則）
 
-### [Depressione e cervello: perché l'ippocampo fatica a generare nuovi neuroni](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcm9lT0VUemNFYlVfZlA4cGgxN2N6eHpXMzNZQ0RDUkhreU9sbmFVb0s0bm5vaF81d0tqNXczTjhkT3lxb3dsYUxsMjFEYmZvSTR3UVRxOUdQQWI5ZjUzWlFoS1BHZ083VXBJODN1dm40WFJXckl4VkFtTFRUZlNkV21RYzFaYmplOGxpOXlHZnhNYlFUX0dKZWdaTXhTZVVkVDlHUGVHSG5YemVRSmJZdWprSTNjanl3UWhyd1pmVFpKWEtuRzJucV9xbnJlUQ?oc=5)
+### [¿Qué factores se asocian con un mayor riesgo de depresión en mujeres tras una pérdida gestacional?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtJZV9YUGhzQ0h6M1hvNXFlRHlBRGVpdjA3c3hKQWxaY0x0ODhOY0NibnhINUtiWHJfQmpBb2NCZ2xtRzFuRXcwZ3QydWJQUGdJbVFjaUphZjNRTFNRX0JVeEZuQ2k4WDU4VkJBa01ScTlkRmYyWUNzRnZwOXAyWFpQbzdDYnFtN0dKM1YtQjdHdnlBUXB1d0JibllHSkRhdUxRNkh5eUVoY0Y5VVVJSlQ1clQ5d0g4dE1oQQ?oc=5)
 
-2026-09-07 <span class="news-indication-tag">depression</span>
+2026-09-07 <span class="news-indication-tag">depresión</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcm9lT0VUemNFYlVfZlA4cGgxN2N6eHpXMzNZQ0RDUkhreU9sbmFVb0s0bm5vaF81d0tqNXczTjhkT3lxb3dsYUxsMjFEYmZvSTR3UVRxOUdQQWI5ZjUzWlFoS1BHZ083VXBJODN1dm40WFJXckl4VkFtTFRUZlNkV21RYzFaYmplOGxpOXlHZnhNYlFUX0dKZWdaTXhTZVVkVDlHUGVHSG5YemVRSmJZdWprSTNjanl3UWhyd1pmVFpKWEtuRzJucV9xbnJlUQ?oc=5)
+來源：[infocop.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtJZV9YUGhzQ0h6M1hvNXFlRHlBRGVpdjA3c3hKQWxaY0x0ODhOY0NibnhINUtiWHJfQmpBb2NCZ2xtRzFuRXcwZ3QydWJQUGdJbVFjaUphZjNRTFNRX0JVeEZuQ2k4WDU4VkJBa01ScTlkRmYyWUNzRnZwOXAyWFpQbzdDYnFtN0dKM1YtQjdHdnlBUXB1d0JibllHSkRhdUxRNkh5eUVoY0Y5VVVJSlQ1clQ5d0g4dE1oQQ?oc=5)
 
 ---
 
