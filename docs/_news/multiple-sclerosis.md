@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。26 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。28 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>26 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>28 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,37 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（28 則）
+
+### [Abnehmspritze abgesetzt, Gewicht zurueck: Chirurg aus Izmir zur Operation nach Ozempic und Wegovy](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTG9UVW5OaGhiWUlFUU9NSWFsQk1ZUXYtMW4tdXhhSlZ0THkxS1dPNkxfWFlCVmlQRFRfZEpZTjZYMFc4Z3hzS3hWWEozTWQtdm83SXlLS2NsNDl4b090ajZJRmlOVHhEcmZtWXVwajJiM1F6andSOG1ZSjlqWVNvUG1yVWJyUlRGcG5saGtiTjNYMjI0OXpEUXc1Y2hXV1hRVzVhemlkcGtxbnpHVmgwNTFidGFhRkVXVmlyd3JiTkZxcVNmT1ZlSjZlTkhkU010cmZsUG82dGg?oc=5)
+
+2026-09-09
+
+來源：[businessportal24](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTG9UVW5OaGhiWUlFUU9NSWFsQk1ZUXYtMW4tdXhhSlZ0THkxS1dPNkxfWFlCVmlQRFRfZEpZTjZYMFc4Z3hzS3hWWEozTWQtdm83SXlLS2NsNDl4b090ajZJRmlOVHhEcmZtWXVwajJiM1F6andSOG1ZSjlqWVNvUG1yVWJyUlRGcG5saGtiTjNYMjI0OXpEUXc1Y2hXV1hRVzVhemlkcGtxbnpHVmgwNTFidGFhRkVXVmlyd3JiTkZxcVNmT1ZlSjZlTkhkU010cmZsUG82dGg?oc=5)
+
+---
+
+### [Neue Wirkstoffkombinationen erleichtern die Therapie von Leberkrebs](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZFByOFZEbFd0Z1NhbEZmRkg0amRYeDYxT2Y3Nk9CVnlGemZkOFdnLTZnOW5GU0pzU19GZHNWRllzaC02Qnk3cmhqMU90T1FheW9xaXp4U1ZZZFlFQnhKSEJYcFV4T0ZnTTkwd2c3RVpTdWE2amlJajFtWnI2OHFYNU92RlA2VE0wQkl1YjFWWHhBbGtKdzd1Qm83SkhEM0IzZWtGRHo0Y2lIa3ljbF9wLVg1ekZ1eHNUMVY5SDJIdWpXX2Y0NjdDZjVMLWJqLUY1UUFlc2JDTFQ?oc=5)
+
+2026-09-09
+
+來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZFByOFZEbFd0Z1NhbEZmRkg0amRYeDYxT2Y3Nk9CVnlGemZkOFdnLTZnOW5GU0pzU19GZHNWRllzaC02Qnk3cmhqMU90T1FheW9xaXp4U1ZZZFlFQnhKSEJYcFV4T0ZnTTkwd2c3RVpTdWE2amlJajFtWnI2OHFYNU92RlA2VE0wQkl1YjFWWHhBbGtKdzd1Qm83SkhEM0IzZWtGRHo0Y2lIa3ljbF9wLVg1ekZ1eHNUMVY5SDJIdWpXX2Y0NjdDZjVMLWJqLUY1UUFlc2JDTFQ?oc=5)
+
+---
 
 ### [El éxito de la vacuna intismeran autogene frente al melanoma abre la puerta al uso de neoantígenos por ARNm en otros cánceres](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMXNJZW8xZUZJU3pRZFRaemdZTWJFeWpsNzA3QzRKV0pFdnhuOTNSVkZ2dUJOeE9DbHdnX2hNYUV5czZzRXdOM3g0TERibEJ3b3lKQlo4MXZRXzdmVlQ4NXpoUlJWYmROc1lwMzc1aU5xZkk2dTdleGw1TlI0THR2dGZZbGN5OGk3cTdYMk1wVzZhS21WNXd1RWtmODlFTW5lOXpZVW5wM3FoZEpGVURrQjF4dGo2QXh5UFhDVjRJcklEcXZsemwyT1RuOUhsRVQyZkNNU2JZanhod2tjY1Z5X1RsMzJTQQ?oc=5)
 
 2026-09-08
 
 來源：[Farmacosalud](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMXNJZW8xZUZJU3pRZFRaemdZTWJFeWpsNzA3QzRKV0pFdnhuOTNSVkZ2dUJOeE9DbHdnX2hNYUV5czZzRXdOM3g0TERibEJ3b3lKQlo4MXZRXzdmVlQ4NXpoUlJWYmROc1lwMzc1aU5xZkk2dTdleGw1TlI0THR2dGZZbGN5OGk3cTdYMk1wVzZhS21WNXd1RWtmODlFTW5lOXpZVW5wM3FoZEpGVURrQjF4dGo2QXh5UFhDVjRJcklEcXZsemwyT1RuOUhsRVQyZkNNU2JZanhod2tjY1Z5X1RsMzJTQQ?oc=5)
+
+---
+
+### [The Guardian view on skin cancer: fear the heat of the sun | Editorial - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
+
+2026-09-08
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
 
 ---
 
@@ -72,11 +96,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+### [Eigentor des Immunsystems: Wie ein Pilz tödlich wird](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
 
 2026-09-08
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+來源：[MDR.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
+
+---
+
+### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+
+2026-09-08
+
+來源：[gacetamedica.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+
+---
+
+### [Quasi 4 tumori su 10 dipendono da fattori che possiamo cambiare: ecco da dove cominciare](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcE9VT3JNVWxJSjJtYml1NWhaNThwM2xocVF6UTI0OHp1NlEzS0ZOZnJOZjQ1YzZEaHJORFBmd0NDVlJXcGdTSzZfYUJHM09oVHIxQzh1ODFTbTRiTUNxcGhkT3BGYkZHcEMzMVYyczFzaUhpLXpuQ2M2R3dwVE9Ubk1DYUwwVkZSeU9OamZxTVdydDVraW5rbHdWWVV4Zld6NkVYV29JQUY3elJrNDc5R0ZRTE5yRXZiTzlpMXBIRHpNM3NYN09zLVJOT2F0NmxDYWZNaw?oc=5)
+
+2026-09-08
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcE9VT3JNVWxJSjJtYml1NWhaNThwM2xocVF6UTI0OHp1NlEzS0ZOZnJOZjQ1YzZEaHJORFBmd0NDVlJXcGdTSzZfYUJHM09oVHIxQzh1ODFTbTRiTUNxcGhkT3BGYkZHcEMzMVYyczFzaUhpLXpuQ2M2R3dwVE9Ubk1DYUwwVkZSeU9OamZxTVdydDVraW5rbHdWWVV4Zld6NkVYV29JQUY3elJrNDc5R0ZRTE5yRXZiTzlpMXBIRHpNM3NYN09zLVJOT2F0NmxDYWZNaw?oc=5)
 
 ---
 
@@ -104,6 +144,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Used grounds from one university cafeteria in England were baked into biochar and used to filter water. Each gram pulled 4.9 milligrams of lead out of contaminated water and stripped as much as 98 percent of it. - Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQY1g5RFpCWGxNYTBTdDJnOFpfeTJGNDNWemkwSDNKdTJRUVBRN1pzWVdvNTV5MUFua3JmaUh5MlRQWEV3UkhjT1MxOERYUmwxLVpaV0QzSWU0bFVqanl0TE9WUnl2RmN5Q2lCdkZpeHdWWDd5NGZsX1pxbENXd0FaNzc2ZC05d3ZULXNFemtzNUFDYklIVm9wYVdWUXpwamdaYUZKZWg5Mm5aSkRaczM5N0RxeHl2endNVlh5RFJHOGUtOXZON0lqRHpLRVA3b3lKUGpHemZsTElEaEFlXzM4Ulg1MUFqRUkxazA5d1VtTDd5bWVnUE5HTWpOaUdrZjdKLW84MWxYUnBMbE1sWF9XOExtbHdYYmVIdm1lTHhjYUhKQW1USHJlMmcxRGI3emM?oc=5)
+
+2026-09-08
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQY1g5RFpCWGxNYTBTdDJnOFpfeTJGNDNWemkwSDNKdTJRUVBRN1pzWVdvNTV5MUFua3JmaUh5MlRQWEV3UkhjT1MxOERYUmwxLVpaV0QzSWU0bFVqanl0TE9WUnl2RmN5Q2lCdkZpeHdWWDd5NGZsX1pxbENXd0FaNzc2ZC05d3ZULXNFemtzNUFDYklIVm9wYVdWUXpwamdaYUZKZWg5Mm5aSkRaczM5N0RxeHl2endNVlh5RFJHOGUtOXZON0lqRHpLRVA3b3lKUGpHemZsTElEaEFlXzM4Ulg1MUFqRUkxazA5d1VtTDd5bWVnUE5HTWpOaUdrZjdKLW84MWxYUnBMbE1sWF9XOExtbHdYYmVIdm1lTHhjYUhKQW1USHJlMmcxRGI3emM?oc=5)
+
+---
+
 ### [How to lose 2st by Christmas with our 3/3/3 plan... no fat jabs, gyms or calorie counting in sight - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWg5Z01DWFpxRFRJU3B2dVBSUDZPR3JTVFdOeHYtaGRSamNwekF6WDVHckhKNklzMTVzTE53MVJfRVA4UGY2azljbXVtT0hNS1FvUnJiT3RuXy0zV1ZRTXBmRzRYclZaRXlnSmxoaEVFNUlmQjN2dDA4M2JYM2Q4NzhTNWZDY0hXWmVJNg?oc=5)
 
 2026-09-07
@@ -117,14 +165,6 @@ permalink: /news/multiple-sclerosis/
 2026-09-07
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OVUx1ZzR3M1F5Z3JRNGI2czBpV3JVcFFGU2F1MU1NZzZZQjdTZ3BMa01MYmdNVVI5cDgxT1pUa1pxNlAxQkZ0UWg4SUVHRUxXSUQxaGJrQmZrTEp4R2h3?oc=5)
-
----
-
-### [Cervello, la musica può ridurre lo stress: gli scienziati hanno visto cosa succede](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzFCYlpONlQyNUNwcHB4VTU4ZjNwNDBGcjdDMUJ6WWNEb2xTcDhwQzRzSE1pYkZ4MXRNNXM5STloZ3RJcmJYRllCRFZNVHgxaGt1SmNjRHNpSmZ5ZHpYdlVYQVU3LUs4RmdienNWYW1Ia1g1VGhBSUI3bDJwRDRLOG9xNDJmX0ZZMThPcFFzRHg1S19QemFPWmpOd1psUl9CaDhVMHY4akJVeVE40gFoQVVfeXFMT1l3dkcxSVRaamVsa0xVY3lWTXZ6WXpMMVo5Z216dHFjSkVfZVkwaUxaWGRkeThJbzNPUUc2YlJKTW9hZjM3U1RsUEw2TEhDNXQ2TnRjX3pfcXdrZEhUSkF3dm1uNUlFT1c?oc=5)
-
-2026-09-07
-
-來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzFCYlpONlQyNUNwcHB4VTU4ZjNwNDBGcjdDMUJ6WWNEb2xTcDhwQzRzSE1pYkZ4MXRNNXM5STloZ3RJcmJYRllCRFZNVHgxaGt1SmNjRHNpSmZ5ZHpYdlVYQVU3LUs4RmdienNWYW1Ia1g1VGhBSUI3bDJwRDRLOG9xNDJmX0ZZMThPcFFzRHg1S19QemFPWmpOd1psUl9CaDhVMHY4akJVeVE40gFoQVVfeXFMT1l3dkcxSVRaamVsa0xVY3lWTXZ6WXpMMVo5Z216dHFjSkVfZVkwaUxaWGRkeThJbzNPUUc2YlJKTW9hZjM3U1RsUEw2TEhDNXQ2TnRjX3pfcXdrZEhUSkF3dm1uNUlFT1c?oc=5)
 
 ---
 
@@ -144,22 +184,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Roma, torna la lebbra. Ed è di importazione | Libero Quotidiano.it](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjZMdnhPeG03SEZ0NkhHYldzUHBOc1MwU1FRbmhuNW0tV0RBT19xYzRvTWl6R3ZhWUR6OEYybGhnWFpUOFJWZHVNblFQdjBCcWphM19lMjFJY1NDckZDNzN5THJrTm40c3FGc1h4T2RHSVFzaG1RVzRvR1JnX3prREtCc2RNcUYxVW1qbNIBkAFBVV95cUxQNFhRRTQ0QkpoLU9jWVY3Yld3NHRzZlFmaU9aUVNCUDdVcWIxVlBEZnFuTHRiSmJwWUgyMUNuOGVmeV8xdHZzbERVa3NKOXJjX19qcjZGRFg1S3hkTmNHanJiWVRndk8tTWMwNU9WV2d0dlN2WG9VVEpHV1REZXRXTnZPTm1wQUJUYjY2cGpXMnE?oc=5)
-
-2026-09-07
-
-來源：[liberoquotidiano.it](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjZMdnhPeG03SEZ0NkhHYldzUHBOc1MwU1FRbmhuNW0tV0RBT19xYzRvTWl6R3ZhWUR6OEYybGhnWFpUOFJWZHVNblFQdjBCcWphM19lMjFJY1NDckZDNzN5THJrTm40c3FGc1h4T2RHSVFzaG1RVzRvR1JnX3prREtCc2RNcUYxVW1qbNIBkAFBVV95cUxQNFhRRTQ0QkpoLU9jWVY3Yld3NHRzZlFmaU9aUVNCUDdVcWIxVlBEZnFuTHRiSmJwWUgyMUNuOGVmeV8xdHZzbERVa3NKOXJjX19qcjZGRFg1S3hkTmNHanJiWVRndk8tTWMwNU9WV2d0dlN2WG9VVEpHV1REZXRXTnZPTm1wQUJUYjY2cGpXMnE?oc=5)
-
----
-
-### [The Guardian view on skin cancer: fear the heat of the sun | Editorial - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
-
-2026-09-07
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
-
----
-
 ### [No place on Covid memorial wall for teenager who killed himself during lockdown - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2I4WWpvSFN2d2lVQzRpakpCLUV3M05xbEY1dW9LdXFPVHZ2aWZna21QZ1NuZF9YdzFITFByYjVuZExYLXRmbmpkNnJSdEdKTXZTWW9QV0F5R0VGLWo4c3FIM1BRejBhdVFINGNlMlZkU2VpVzhBUUN0RkpYZHdaTkFaZmkwaVRWZkFXeFhRelhqY1dOSnBnWTJzSjk?oc=5)
 
 2026-09-07
@@ -168,11 +192,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
 
 2026-09-07
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
 
 ---
 
@@ -208,35 +232,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [How Mental Health Influences Bladder Function and Lower Urinary Tract Symptoms](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEJKWng1d1lIMmZpaE5VSDJMX2ZWYXRVZ3htVnNrSDNKbC1WaEM3YzEzYWJrZnFaM0o1ZW5LRU8xS2x0UFg1Z25PNU0zOUh1dkItR1o3LWwxX2FGS05iV3ZuOUNVcTZXRGQ1Y1NzNHRWRXV0NHlnWWdsTHd2R0RKZlAwWFkwWEpLNi1lNlVDVnNDM3RHWEFDNHlYVWxlUlBwYWZJVUptZVVRZ0xwZUctc1BJOTAzN0JlSnBJ?oc=5)
-
-2026-09-07
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEJKWng1d1lIMmZpaE5VSDJMX2ZWYXRVZ3htVnNrSDNKbC1WaEM3YzEzYWJrZnFaM0o1ZW5LRU8xS2x0UFg1Z25PNU0zOUh1dkItR1o3LWwxX2FGS05iV3ZuOUNVcTZXRGQ1Y1NzNHRWRXV0NHlnWWdsTHd2R0RKZlAwWFkwWEpLNi1lNlVDVnNDM3RHWEFDNHlYVWxlUlBwYWZJVUptZVVRZ0xwZUctc1BJOTAzN0JlSnBJ?oc=5)
-
----
-
-### [Vagus Nerve Stimulation Could Unlock the Brain’s Hidden Learning Potential](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnVndDRYMEc5aWFWa3kyR1J3UnhBaXRzUGptVHplY0xTUTdzYXZjajkwSHhMckI0TFVjWlpLbVltb1JvNG9Cc0gzQUszcjhuWVpiQVpkVzJxWFo4SFRsbXlBeW54UzQxUUxiNkRkSzhMcE5uWUhBZjltVk1pY3FNUWppYldTaVF2UmJMeklteGRlb09WTGxaNFZlcmgtdDc1?oc=5)
-
-2026-09-07
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnVndDRYMEc5aWFWa3kyR1J3UnhBaXRzUGptVHplY0xTUTdzYXZjajkwSHhMckI0TFVjWlpLbVltb1JvNG9Cc0gzQUszcjhuWVpiQVpkVzJxWFo4SFRsbXlBeW54UzQxUUxiNkRkSzhMcE5uWUhBZjltVk1pY3FNUWppYldTaVF2UmJMeklteGRlb09WTGxaNFZlcmgtdDc1?oc=5)
-
----
-
-### [This Vitamin Deficiency Can Cause Fatigue, Headaches And Memory Problems — And Drinking Raises Your Risk](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTDZLVDBtZjVaR2gyakE1a0xfTG0tbmpqTFA3MnNkZFROdWRBU0FVZlREd2NsQkN0bVdpcTZ0QjFYaXY4d1FUXy1vb1I2NE1rbXF1OTcxVUJWNGNhbVRtVV83Q3l4NmliVExHdktPY2N1c3NvNldGeFFDMjU?oc=5)
+### [The sleeping x eating secret: 15 ways to better rest, a healthier diet – and a happier life - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUV1WmxGUmtmNHE2b1JacTZ5LTVWcUZ4NUdac0wyZUU0WjNOWXktSEM4VVlTRlJ2NkxwN25oeUFnTlBPbjVOUklkbnk3VkJLeVJiWVF1TW5nOUxOSkJxNHBMdDVLSk1iMUpTWTRJWWZRSnplejF4NWlRLWdyNDlYOWdPd1Ezd0QzeGRPUnhoaWItel9Ubmg2UDFlUmFTdGh3YzVEbW55ZmNHT19ESzEwam12QnVHbjNpb1EzRnF1ZHVYd01nUlVfbDhzOGo?oc=5)
 
 2026-09-06
 
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTDZLVDBtZjVaR2gyakE1a0xfTG0tbmpqTFA3MnNkZFROdWRBU0FVZlREd2NsQkN0bVdpcTZ0QjFYaXY4d1FUXy1vb1I2NE1rbXF1OTcxVUJWNGNhbVRtVV83Q3l4NmliVExHdktPY2N1c3NvNldGeFFDMjU?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUV1WmxGUmtmNHE2b1JacTZ5LTVWcUZ4NUdac0wyZUU0WjNOWXktSEM4VVlTRlJ2NkxwN25oeUFnTlBPbjVOUklkbnk3VkJLeVJiWVF1TW5nOUxOSkJxNHBMdDVLSk1iMUpTWTRJWWZRSnplejF4NWlRLWdyNDlYOWdPd1Ezd0QzeGRPUnhoaWItel9Ubmg2UDFlUmFTdGh3YzVEbW55ZmNHT19ESzEwam12QnVHbjNpb1EzRnF1ZHVYd01nUlVfbDhzOGo?oc=5)
 
 ---
 
-### [Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths - Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkNLaTNfTV9qZEFpbkF1UnZ5ekdTM01vUngzN09PSVlVZlFXOXVTRTM4Y2hLek1pQkR2UVREd3JrY05Lci0zb2dzTVhSMDJXZEtxcGZtQzFVSEF4cGMxS0xzTTVhQTM0dnI3MHJpSUhCLU94ZENjTkExVzhjTlduaXBJbEJwWVgzcmZsNEtpSThBWEFpRHR6cl9kZm9Pc1o1ZVhGb1RmYzJBZGVSY25vYWc1clZwWWs?oc=5)
+### [Medieval manuscripts are "biological time capsules" for deadly sheeppox virus](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWVWWU1ySExYRXV5REVyR3lmTmY4WnVlVHhUN0FnVklaSnp0ZkZKN3psSzMwRWRpODBTNUlIZmNQd19qYkY1VE1jQWVVejhLQnpsSEkzZE54Wk9naUtaSFVndU9ndlZTR1hwallwS25FV25MTmdHVGtwNFdVWFBpcmxEWU40RWZkeDlBNkpFQ1lsVGVtaWMwWDFuUUhfUnlOdktKTFN2SFVtdkM1c0l0VlZseEx2MEE?oc=5)
 
 2026-09-04
 
-來源：[Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkNLaTNfTV9qZEFpbkF1UnZ5ekdTM01vUngzN09PSVlVZlFXOXVTRTM4Y2hLek1pQkR2UVREd3JrY05Lci0zb2dzTVhSMDJXZEtxcGZtQzFVSEF4cGMxS0xzTTVhQTM0dnI3MHJpSUhCLU94ZENjTkExVzhjTlduaXBJbEJwWVgzcmZsNEtpSThBWEFpRHR6cl9kZm9Pc1o1ZVhGb1RmYzJBZGVSY25vYWc1clZwWWs?oc=5)
+來源：[arstechnica.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWVWWU1ySExYRXV5REVyR3lmTmY4WnVlVHhUN0FnVklaSnp0ZkZKN3psSzMwRWRpODBTNUlIZmNQd19qYkY1VE1jQWVVejhLQnpsSEkzZE54Wk9naUtaSFVndU9ndlZTR1hwallwS25FV25MTmdHVGtwNFdVWFBpcmxEWU40RWZkeDlBNkpFQ1lsVGVtaWMwWDFuUUhfUnlOdktKTFN2SFVtdkM1c0l0VlZseEx2MEE?oc=5)
 
 ---
 
@@ -261,6 +269,14 @@ permalink: /news/multiple-sclerosis/
 2026-09-03
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UYnJZSjgyUmtsRmx1eHVzdmZweWstLWtxbmM1ZnV6UE1VazgwWGxqcnNmVDIyOTdSRWNjUVFQOTgxVWVwSE9sQldhWGNyNTBIelhaT3dDeWVuMi1PQUYw?oc=5)
+
+---
+
+### [Adipositas: KI-Modell sagt Abnehm-Erfolg anhand von Darmbakterien voraus](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
+
+2026-09-03
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
 
 ---
 

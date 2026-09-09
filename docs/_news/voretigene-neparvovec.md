@@ -14,7 +14,7 @@ permalink: /news/voretigene-neparvovec/
 ---
 
 <p class="key-answer" data-question="Voretigene Neparvovec 有什麼相關新聞？">
-<strong>Voretigene Neparvovec</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voretigene Neparvovec</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/voretigene-neparvovec/
 <p><a href="{{ '/drugs/voretigene-neparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Bluthochdruck: Diese pflanzlichen Verbindungen helfen nachweisbar](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1lnUkNXcHdBR09wcnprc0ZtWVFhdUozV1J0ZS1oXzhsN3YySk1pSjFibFFaRDZvaFBhZkVXc1FBVDlXeG9lTDZ1VW9kWXpheWtGZEx2bWZjdFZUaThBLWFMSklTZGlTdDYyUURFT1NjbGpNRERJM01xRzBUV2FmUC1VRUdPZ0tnZHRvRktDQzZNd3F2MUJHaWIyZXEzY2UxRWgxUWNGRkJlcUU1YlNyWW0yN0pnSkpDNUU5MWV4MWJKZ3M?oc=5)
-
-2026-09-08 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1lnUkNXcHdBR09wcnprc0ZtWVFhdUozV1J0ZS1oXzhsN3YySk1pSjFibFFaRDZvaFBhZkVXc1FBVDlXeG9lTDZ1VW9kWXpheWtGZEx2bWZjdFZUaThBLWFMSklTZGlTdDYyUURFT1NjbGpNRERJM01xRzBUV2FmUC1VRUdPZ0tnZHRvRktDQzZNd3F2MUJHaWIyZXEzY2UxRWgxUWNGRkJlcUU1YlNyWW0yN0pnSkpDNUU5MWV4MWJKZ3M?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [17 millions de personnes touchées en France : l’Assurance maladie lance une campagne pour sensibiliser à l’hypertension - Orange Actualités](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcXhlc0l5X0ktU0VjcDNPRjg4WGxNYmNlQXhxaFpYbEJOVkdkZDQ3cTNDRXhVbWc3TlVnN0VDck9SdU12eGdtekhJMG5SbWF4N19lQnpMU0EtVXRnY2xXNnBNOHNWSFZZMnlSU19kRmw4TDdtbmJHOEJQM25IVDgwSzRkQ1NCd2k1YmMyUFdLOGdqU2Z5RmRSVXk1VVpZenJwdlNvVm45ZEJrX3JEcEgwUFJqZTdZZm5HRFRXY0p3UlVDN1lZLW43WDZkZUk0aG1QYkV5d3l1S1QxMDZ4czB3TU0tOGxoV1lWVzgwLXdmdklLWE14X3hTOGJweTlPYldBMXFN?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/voretigene-neparvovec/
 
 ---
 
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
+### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 2026-09-07 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
+來源：[theconversation.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [¿Fumar protege contra el Párkinson? Un estudio apunta al monóxido de carbono exhalado como factor protector, no al tabaco](https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3JsNGszMFRBLWhTRTBQQzhpNVNuS3dmem54VGFQc0hGamhSV1gtdTI5aDRPXzFXSVJmdm81dHZNUGhvcDdVQVBObC1COVpuV3JMdHpOdVZ3NjFRZUxJb2IyYkpfcUFEWk1ZZklMUnJxdzdyekU2ZDZlSkJyREZ1b3VIdFExMko0Ym1qa9IBjAFBVV95cUxPUTlQa1hEa2VZOGN5ZEpLXzNFeVk1LUcxdXVlc2JkVFhFSWc0dUx5dWtBNm1iSDlBek8yc2RxYzdIUVdjU0ZFTkdLYThNODdna3M5bGNsUV9ZWHFuLWJZZnVsdVVCUVp4OUdwWXJxYlktZGY1UnZ0ZTgtc0EzaEFlUExVaktQbV9QOEhNaQ?oc=5)
-
-2026-09-08 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[expansion.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3JsNGszMFRBLWhTRTBQQzhpNVNuS3dmem54VGFQc0hGamhSV1gtdTI5aDRPXzFXSVJmdm81dHZNUGhvcDdVQVBObC1COVpuV3JMdHpOdVZ3NjFRZUxJb2IyYkpfcUFEWk1ZZklMUnJxdzdyekU2ZDZlSkJyREZ1b3VIdFExMko0Ym1qa9IBjAFBVV95cUxPUTlQa1hEa2VZOGN5ZEpLXzNFeVk1LUcxdXVlc2JkVFhFSWc0dUx5dWtBNm1iSDlBek8yc2RxYzdIUVdjU0ZFTkdLYThNODdna3M5bGNsUV9ZWHFuLWJZZnVsdVVCUVp4OUdwWXJxYlktZGY1UnZ0ZTgtc0EzaEFlUExVaktQbV9QOEhNaQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
 
@@ -74,15 +66,7 @@ permalink: /news/botulinum-toxin-type-a/
 
 2026-09-08 <span class="news-indication-tag">enfermedad de Parkinson</span>
 
-來源：[okdiario.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
-
----
-
-### [BPCO, ridere come ginnastica respiratoria? Nel trial ha ridotto la sensazione di dispnea](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
-
-2026-09-07 <span class="news-indication-tag">BPCO</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
 
 ---
 

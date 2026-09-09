@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "enfermedad de Parkinson（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="enfermedad de Parkinson（parkinson disease） 有什麼相關新聞？">
-<strong>enfermedad de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>enfermedad de Parkinson（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [¿Fumar protege contra el Párkinson? Un estudio apunta al monóxido de carbono exhalado como factor protector, no al tabaco](https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3JsNGszMFRBLWhTRTBQQzhpNVNuS3dmem54VGFQc0hGamhSV1gtdTI5aDRPXzFXSVJmdm81dHZNUGhvcDdVQVBObC1COVpuV3JMdHpOdVZ3NjFRZUxJb2IyYkpfcUFEWk1ZZklMUnJxdzdyekU2ZDZlSkJyREZ1b3VIdFExMko0Ym1qa9IBjAFBVV95cUxPUTlQa1hEa2VZOGN5ZEpLXzNFeVk1LUcxdXVlc2JkVFhFSWc0dUx5dWtBNm1iSDlBek8yc2RxYzdIUVdjU0ZFTkdLYThNODdna3M5bGNsUV9ZWHFuLWJZZnVsdVVCUVp4OUdwWXJxYlktZGY1UnZ0ZTgtc0EzaEFlUExVaktQbV9QOEhNaQ?oc=5)
-
-2026-09-08
-
-來源：[expansion.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3JsNGszMFRBLWhTRTBQQzhpNVNuS3dmem54VGFQc0hGamhSV1gtdTI5aDRPXzFXSVJmdm81dHZNUGhvcDdVQVBObC1COVpuV3JMdHpOdVZ3NjFRZUxJb2IyYkpfcUFEWk1ZZklMUnJxdzdyekU2ZDZlSkJyREZ1b3VIdFExMko0Ym1qa9IBjAFBVV95cUxPUTlQa1hEa2VZOGN5ZEpLXzNFeVk1LUcxdXVlc2JkVFhFSWc0dUx5dWtBNm1iSDlBek8yc2RxYzdIUVdjU0ZFTkdLYThNODdna3M5bGNsUV9ZWHFuLWJZZnVsdVVCUVp4OUdwWXJxYlktZGY1UnZ0ZTgtc0EzaEFlUExVaktQbV9QOEhNaQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Dr. Obeso: «La tecnología de ultrasonidos permite tratar la enfermedad de Parkinson sin abrir el cráneo»](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
 
 2026-09-08
 
-來源：[okdiario.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
 
 ---
 

@@ -54,6 +54,22 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（11 則）
 
+### [Morbus Crohn: Genetischer Marker HLA-DRB1*01:03 prognostiziert schwere Verläufe](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
+
+2026-09-09 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
+
+---
+
+### [Semaglutide e asma, fino al 40% di attacchi in meno: il beneficio inatteso dei farmaci GLP-1](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
+
+2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">colite ulcerosa</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
+
+---
+
 ### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
 
 2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">BPCO</span>
@@ -62,11 +78,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Rheumatoide Arthritis: CAR-T-Zellen bringen 83% der Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDJidHpGX0tkWVZzbnNXQXc2TW1DNEZfcFZWVFJQTE05eW1ydlBTNXNFemZCWGJnSUx6MnFZTDhLaldRQkJLRFlDTkVxc19QWWZOTmlPSmsxYk1EdF8yUW9PdjdfQk12Z0VjdjlZaENINXYxUXJ3RFVRc21MX1pfMmFLMFFXR0dCdTBUbEhyTWJYbHB2NkJDaTVXQkdvZ2dZNElCeEhRZHdaUzRJZG9Yd0VTVEFKbDNaaGNV?oc=5)
+### [Eigentor des Immunsystems: Wie ein Pilz tödlich wird](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
 
-2026-09-08 <span class="news-indication-tag">arthritis</span>
+2026-09-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDJidHpGX0tkWVZzbnNXQXc2TW1DNEZfcFZWVFJQTE05eW1ydlBTNXNFemZCWGJnSUx6MnFZTDhLaldRQkJLRFlDTkVxc19QWWZOTmlPSmsxYk1EdF8yUW9PdjdfQk12Z0VjdjlZaENINXYxUXJ3RFVRc21MX1pfMmFLMFFXR0dCdTBUbEhyTWJYbHB2NkJDaTVXQkdvZ2dZNElCeEhRZHdaUzRJZG9Yd0VTVEFKbDNaaGNV?oc=5)
+來源：[MDR.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
 
 ---
 
@@ -78,27 +94,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 2026-09-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
-
----
-
-### [Fat jabs could slash risk of killer asthma attacks up to 40%, study suggests - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
-
-2026-09-07 <span class="news-indication-tag">asthma</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
-
----
-
-### [BPCO, ridere come ginnastica respiratoria? Nel trial ha ridotto la sensazione di dispnea](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
-
-2026-09-07 <span class="news-indication-tag">BPCO</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
+來源：[gacetamedica.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGpDaTl5N1F2RWpOZUdPS3k1bTVjcm96RjZaakotV3dqeUFWZlRxejQyQzVJZmVocFV6U2dDaHdyYUdoT2dBcFA3WXZXbTY4SHJNaUJ1VmxEQWh4eFFraVdOaFFyQ2hCeXpXcDdpdC1YSmQ4UFNOX0RmU3pONnFuTVgzUFNlenowSVpHVzVpQnJYYWZpSFFlV05yUEpJbkFPSEUxNl95S1poNGtXa0hjaWpwUWVFMVpZNmhkcXJWM0jSAbsBQVVfeXFMTVJUVzJPaFRDMU12VW1nX3BxblpvdzY5bTRadGQxek5VVUt6Q0ZTUDRKUXhFWHJCSWZIQ0RQaUxYT3gxYzQzTk5sNVFmUUVGUHlqbVdFR0U2VlVkU1VhNy1tMkFlQjl4cl8zVmctNmw1cGtKdUNqb1dvTTFoMHdyUWpTdThmSDlraXhtR1dNZ1VUSF9oLWx2RkN0Nnd3X2dTbkVpVjR0U3RWU1FnQV8wUUFKYnFqd0NTejhRbw?oc=5)
+### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
 
 2026-09-07 <span class="news-indication-tag">artritis</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGpDaTl5N1F2RWpOZUdPS3k1bTVjcm96RjZaakotV3dqeUFWZlRxejQyQzVJZmVocFV6U2dDaHdyYUdoT2dBcFA3WXZXbTY4SHJNaUJ1VmxEQWh4eFFraVdOaFFyQ2hCeXpXcDdpdC1YSmQ4UFNOX0RmU3pONnFuTVgzUFNlenowSVpHVzVpQnJYYWZpSFFlV05yUEpJbkFPSEUxNl95S1poNGtXa0hjaWpwUWVFMVpZNmhkcXJWM0jSAbsBQVVfeXFMTVJUVzJPaFRDMU12VW1nX3BxblpvdzY5bTRadGQxek5VVUt6Q0ZTUDRKUXhFWHJCSWZIQ0RQaUxYT3gxYzQzTk5sNVFmUUVGUHlqbVdFR0U2VlVkU1VhNy1tMkFlQjl4cl8zVmctNmw1cGtKdUNqb1dvTTFoMHdyUWpTdThmSDlraXhtR1dNZ1VUSF9oLWx2RkN0Nnd3X2dTbkVpVjR0U3RWU1FnQV8wUUFKYnFqd0NTejhRbw?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
 
 ---
 
@@ -134,11 +134,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Asthma oft schlechter kontrolliert als gedacht: Warum gezieltes Nachfragen in der Hausarztpraxis entscheidend ist - Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
+### [Artrite reumatoide, il cuore non è condannato: nove fattori possono cambiare profondamente il rischio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
-2026-09-02 <span class="news-indication-tag">asthma</span>
+2026-09-06 <span class="news-indication-tag">artrite</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 

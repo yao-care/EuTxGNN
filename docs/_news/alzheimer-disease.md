@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Dementia could be 'REVERSED' as surgery 'flushes out toxic proteins' from brain - The Sun](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVRUMVVxLUlUd3hSUm5EU1lvTjZ6ak9KMXdsSXV5dy1vNGIydWlJbl9lbXlWbXlTWmphUV9MYUFWOF9kZkJsYWQ2TlVBemtnT0JKTFlUbVFBVGN0Vlc0M2pfR2ZSVVRiOVE1Mm5aeWFlT1FQcEhCemxUY25uUXZEVHJmRnhZeGt5YUFkczVPWGRiLVMyemFZMVY3VWRCUWpPUUJCa1E4a1pDWHhjSUE?oc=5)
+### [How to spot dementia in your dog or cat](https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdDUzTTRnQUktV25wS2lWX0EzRE9hb3JhdHZLWENHT195eHFXbVAtd2Qzdk5KNm10eTB0dl9GUWh1Z2FoTzVyZk05TkpRMjhmWXVaWEV2blFpNmdnOWd5Y1dzOXliazYydzJvR0tR?oc=5)
 
-2026-09-07
+2026-09-08
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVRUMVVxLUlUd3hSUm5EU1lvTjZ6ak9KMXdsSXV5dy1vNGIydWlJbl9lbXlWbXlTWmphUV9MYUFWOF9kZkJsYWQ2TlVBemtnT0JKTFlUbVFBVGN0Vlc0M2pfR2ZSVVRiOVE1Mm5aeWFlT1FQcEhCemxUY25uUXZEVHJmRnhZeGt5YUFkczVPWGRiLVMyemFZMVY3VWRCUWpPUUJCa1E4a1pDWHhjSUE?oc=5)
+來源：[Futurity](https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdDUzTTRnQUktV25wS2lWX0EzRE9hb3JhdHZLWENHT195eHFXbVAtd2Qzdk5KNm10eTB0dl9GUWh1Z2FoTzVyZk05TkpRMjhmWXVaWEV2blFpNmdnOWd5Y1dzOXliazYydzJvR0tR?oc=5)
 
 ---
 
@@ -59,14 +59,6 @@ permalink: /news/alzheimer-disease/
 2026-09-07
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
-
----
-
-### [The dementia-proof daily routine to protect your brain - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUZVWnpQZjZTN0N0Z0h0SVRuXzBMZlAtNjFYaW9EdVY3TVlLVUlHX2poZjVIRmMwVExveEZha2lNRDk0MEloTVB1UWJyQ0w1VkpDUGlqZTdGVExnWE1EbzFSQjBfd0V6Wmw5LU9VUWdVOXZ6emdsd3dsNVpWamdKLXhaYzkxLTFZOENUUWVFaXlyeV9JYU10RWQ3NUgxVzRTYXRqWDJwV2swdw?oc=5)
-
-2026-09-06
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUZVWnpQZjZTN0N0Z0h0SVRuXzBMZlAtNjFYaW9EdVY3TVlLVUlHX2poZjVIRmMwVExveEZha2lNRDk0MEloTVB1UWJyQ0w1VkpDUGlqZTdGVExnWE1EbzFSQjBfd0V6Wmw5LU9VUWdVOXZ6emdsd3dsNVpWamdKLXhaYzkxLTFZOENUUWVFaXlyeV9JYU10RWQ3NUgxVzRTYXRqWDJwV2swdw?oc=5)
 
 ---
 

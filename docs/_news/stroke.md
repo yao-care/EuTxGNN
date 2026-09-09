@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Anzeichen im Gesicht: Dieses Merkmal warnt vor Herzinfarkt oder Schlaganfall - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
+
+2026-09-09
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
+
+---
 
 ### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’ - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
@@ -49,19 +57,19 @@ permalink: /news/stroke/
 
 ---
 
+### [Xylitol Linked to Increased Long-Term Cardiovascular Risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
+
+2026-09-08
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
+
+---
+
 ### [El propio cerebro podría ser un enemigo para la recuperación tras un ictus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFpxcWUtQklzZUs4azk3RlNvczIwTVBOQTVpZ2F6Rmp3TGRuMWhibzg1TDA2c0NfOWhJWnZJT3YtX2hEYTUwTG1YdVlxUnZMcGE3SUZ5OUx6OFpzSEUyNi1YeXVhTE8yLUpqRUl5T3k3Z0Qyb2M5SER4WnFvc0tIcGNjbmhZX1ozWXJpZ3p4cmZkdEp2RXdvU0tLZ1JXczZ2TFJlQWdnMGpDYktLOGZlcWJ6b0ZkNWxDRmxFUlJZWGFKREJj?oc=5)
 
 2026-09-08
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFpxcWUtQklzZUs4azk3RlNvczIwTVBOQTVpZ2F6Rmp3TGRuMWhibzg1TDA2c0NfOWhJWnZJT3YtX2hEYTUwTG1YdVlxUnZMcGE3SUZ5OUx6OFpzSEUyNi1YeXVhTE8yLUpqRUl5T3k3Z0Qyb2M5SER4WnFvc0tIcGNjbmhZX1ozWXJpZ3p4cmZkdEp2RXdvU0tLZ1JXczZ2TFJlQWdnMGpDYktLOGZlcWJ6b0ZkNWxDRmxFUlJZWGFKREJj?oc=5)
-
----
-
-### [Si ves esta marca en el rostro, cuidado: un estudio relaciona esta señal con peligro de ataque cardíaco y derrame cerebral](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTF1Z01pMmM1WXY5cHZVdVpWalhVTGJ4T29PRWhVbkJxbmtZZFdaQTVfUHV3V0x6VGNPZTJvM1lKclotRi03NGhHTHM1U19TMHVDUlhzTFQxazV5dWFyNjkxRjIwUDNLUmE0OU1JV0U4ZExKcXI0NjlocGVhNUVLanU1cEFqTTRNNjVmd00tVE1udVVyTEVIeGFEUTdHdWt1U3BvZFZTcWtKckVRYmpSX21sbjBFN3E4RUp0ZDlWa0lQYjc5VHlaaVFmc2daQXhhTFhEaXlILUNJTnpFWGxaN2tZY1hqWTNJQ21iQ0xFNE5xTXEyMmfSAZACQVVfeXFMTWppbW16UUhsSzU1OFdzY0xVTkRXa08yYjBaMVFWWjlfbWd0Q3RSU2RRUFo1bnZidDhOOVFSbG5pSGt6dURZUUZkbXl3UHI2ekI4OGtmYTJWY05MVkFETGM4dWtrbFhoenhIOWFTYWZHeHhyTXM2U3Z6YWdveDN5cE9EQS1yWGUwQV9Cc0FibDI4MTBMWGFuWG5ZZ1JoUTVEc2w2V2FqUG1UX2NCYVRqcXlJZ0t5RVloTS12aXFWRnlQWGdvWS1zTGhCZFhIeWJOek05X0RZS05UTVA3UmVYVEs3UHZTNVMxd1M4TDJqQS1ZZGtndEtaSDBtQ2lQUURhQ0lySHQwM1dLNVhZRE10eV8?oc=5)
-
-2026-09-07
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTF1Z01pMmM1WXY5cHZVdVpWalhVTGJ4T29PRWhVbkJxbmtZZFdaQTVfUHV3V0x6VGNPZTJvM1lKclotRi03NGhHTHM1U19TMHVDUlhzTFQxazV5dWFyNjkxRjIwUDNLUmE0OU1JV0U4ZExKcXI0NjlocGVhNUVLanU1cEFqTTRNNjVmd00tVE1udVVyTEVIeGFEUTdHdWt1U3BvZFZTcWtKckVRYmpSX21sbjBFN3E4RUp0ZDlWa0lQYjc5VHlaaVFmc2daQXhhTFhEaXlILUNJTnpFWGxaN2tZY1hqWTNJQ21iQ0xFNE5xTXEyMmfSAZACQVVfeXFMTWppbW16UUhsSzU1OFdzY0xVTkRXa08yYjBaMVFWWjlfbWd0Q3RSU2RRUFo1bnZidDhOOVFSbG5pSGt6dURZUUZkbXl3UHI2ekI4OGtmYTJWY05MVkFETGM4dWtrbFhoenhIOWFTYWZHeHhyTXM2U3Z6YWdveDN5cE9EQS1yWGUwQV9Cc0FibDI4MTBMWGFuWG5ZZ1JoUTVEc2w2V2FqUG1UX2NCYVRqcXlJZ0t5RVloTS12aXFWRnlQWGdvWS1zTGhCZFhIeWJOek05X0RZS05UTVA3UmVYVEs3UHZTNVMxd1M4TDJqQS1ZZGtndEtaSDBtQ2lQUURhQ0lySHQwM1dLNVhZRE10eV8?oc=5)
 
 ---
 

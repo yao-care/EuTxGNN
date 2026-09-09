@@ -62,11 +62,11 @@ permalink: /news/rimegepant/
 
 ---
 
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+### [Ecco quando il mal di testa è un campanello d’allarme - il Giornale](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVFsSlFXcE9lSTVva1NpbTI4cDVMVmZsZzY0My1aWXluUEU5M3dxcXAxLWNYMjlZYWY4NVIxYWwxTjV3eFp6cDdZTGctMnJRb00wU3p5Q3gwdVJrWl9hWEVvdlQ2cGY3b2lTVVZlb0pYMldBUEdLMkJFT3R6N3J6cl9tdGo4dUR6S2NUaVRMWk1ZcVUzNmZaaF9R?oc=5)
 
-2026-09-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+2026-09-07 <span class="news-indication-tag">emicrania</span>
 
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+來源：[il Giornale](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVFsSlFXcE9lSTVva1NpbTI4cDVMVmZsZzY0My1aWXluUEU5M3dxcXAxLWNYMjlZYWY4NVIxYWwxTjV3eFp6cDdZTGctMnJRb00wU3p5Q3gwdVJrWl9hWEVvdlQ2cGY3b2lTVVZlb0pYMldBUEdLMkJFT3R6N3J6cl9tdGo4dUR6S2NUaVRMWk1ZcVUzNmZaaF9R?oc=5)
 
 ---
 

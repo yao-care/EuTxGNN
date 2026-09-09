@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/indacaterol-maleate/
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Semaglutide e asma, fino al 40% di attacchi in meno: il beneficio inatteso dei farmaci GLP-1](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
+
+2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">colite ulcerosa</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
+
+---
 
 ### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
 
@@ -70,14 +78,6 @@ permalink: /news/indacaterol-maleate/
 
 ---
 
-### [Fat jabs could slash risk of killer asthma attacks up to 40%, study suggests - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
-
-2026-09-07 <span class="news-indication-tag">asthma</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUw5R0xmWW9oMGNnV0syWVVFd2NPeW1KaWpRTkdtc2FxR29Fb3hwM0VpeXNVUVVrQXk3VWtpZm8tNzhaWkU3OUs1MmhQWU5EdXpxY3djeDVlRVNyTmlzTEZKWGMtdXI5NGpJa0JZdVFrLVpkOFU0R1ZCaVBtQ2JScXpwTXo?oc=5)
-
----
-
 ### [Più di mille varianti genetiche plasmano la personalità: lo studio che riscrive il rapporto tra DNA e carattere - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGd6bnBLUTlQTXVKMlNwM1VrM1pJZjlhaXdQeTJBWXBfenc4NmZ3cGQ5Mmh3aVR1VkxpVlJkRHh0OThPZTAwSU1ZWGY1dDJLck5SVDh1Y3Zta3BXX1gwQVlVek9DYllSbFFoLUJmTzl6ajVUeTlHNzBrQ1d3Nm9XUXNmUUEyTGRURlpDaERuN2pDcEIwTXVwVmpLQk9VNDlFZHRJNU1nUVZFcmV6VzYxYXBBZjdJbmMtYnpBUzcxMW10MWFDbjk4dzZocGpYVVJFbTc0NWlJOGxudw?oc=5)
 
 2026-09-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
@@ -91,14 +91,6 @@ permalink: /news/indacaterol-maleate/
 2026-09-07 <span class="news-indication-tag">asma</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzhhM0xrSUhYY1M5LTNyR29NZUJ3RlhIQlk3SGxNVWY5alhnaUhvUmVzb3hra1dvUEJHZHRhV0RkSEJMc0dBVWZMTkpWUGhNdFpyWDB4M3EzanE3WDYxT3hkY1RiZUItOHNscFJjN0EwV0lxZmtlR0lSV0xaenR4dXVFNGRweXRJRkcwMF9TTDZmMzVnMV9kRmpFWDhCU2d0V0RiQlZYQWhiTi1nYURISmRRQlFtdEl3X3hPZHAyZGFqUk1HYmQzd0twdUxxQkJPOXRjM1lPcXE1eXVhMEpN?oc=5)
-
----
-
-### [Asthma oft schlechter kontrolliert als gedacht: Warum gezieltes Nachfragen in der Hausarztpraxis entscheidend ist - Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
-
-2026-09-02 <span class="news-indication-tag">asthma</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHoyYnN2bHM1X2hZcmlpMXV4b0djYkdWc1RZWlRkYV9NVjNFSUZ3MHV4WUMwbUVGQ2tVOVozaWVtSC03RzZQTGRDaWlpY3FOWkpZeDBnQlFHd3ZHSVNhVnEwbmRwT3VvVVpLMGlteGJzbllXYTBSaHdQWG0xRTFkWTlVQzVCbVBkSzAzU2NOOHd5dk9R?oc=5)
 
 ---
 

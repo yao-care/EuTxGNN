@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Bluthochdruck: Diese pflanzlichen Verbindungen helfen nachweisbar](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1lnUkNXcHdBR09wcnprc0ZtWVFhdUozV1J0ZS1oXzhsN3YySk1pSjFibFFaRDZvaFBhZkVXc1FBVDlXeG9lTDZ1VW9kWXpheWtGZEx2bWZjdFZUaThBLWFMSklTZGlTdDYyUURFT1NjbGpNRERJM01xRzBUV2FmUC1VRUdPZ0tnZHRvRktDQzZNd3F2MUJHaWIyZXEzY2UxRWgxUWNGRkJlcUU1YlNyWW0yN0pnSkpDNUU5MWV4MWJKZ3M?oc=5)
+### [Anzeichen im Gesicht: Dieses Merkmal warnt vor Herzinfarkt oder Schlaganfall - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
 
-2026-09-08 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
+2026-09-09 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1lnUkNXcHdBR09wcnprc0ZtWVFhdUozV1J0ZS1oXzhsN3YySk1pSjFibFFaRDZvaFBhZkVXc1FBVDlXeG9lTDZ1VW9kWXpheWtGZEx2bWZjdFZUaThBLWFMSklTZGlTdDYyUURFT1NjbGpNRERJM01xRzBUV2FmUC1VRUdPZ0tnZHRvRktDQzZNd3F2MUJHaWIyZXEzY2UxRWgxUWNGRkJlcUU1YlNyWW0yN0pnSkpDNUU5MWV4MWJKZ3M?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
 
 ---
 
@@ -86,19 +86,19 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Xylitol Linked to Increased Long-Term Cardiovascular Risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
+
+2026-09-08 <span class="news-indication-tag">stroke</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
+
+---
+
 ### [El propio cerebro podría ser un enemigo para la recuperación tras un ictus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFpxcWUtQklzZUs4azk3RlNvczIwTVBOQTVpZ2F6Rmp3TGRuMWhibzg1TDA2c0NfOWhJWnZJT3YtX2hEYTUwTG1YdVlxUnZMcGE3SUZ5OUx6OFpzSEUyNi1YeXVhTE8yLUpqRUl5T3k3Z0Qyb2M5SER4WnFvc0tIcGNjbmhZX1ozWXJpZ3p4cmZkdEp2RXdvU0tLZ1JXczZ2TFJlQWdnMGpDYktLOGZlcWJ6b0ZkNWxDRmxFUlJZWGFKREJj?oc=5)
 
 2026-09-08 <span class="news-indication-tag">ictus</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFpxcWUtQklzZUs4azk3RlNvczIwTVBOQTVpZ2F6Rmp3TGRuMWhibzg1TDA2c0NfOWhJWnZJT3YtX2hEYTUwTG1YdVlxUnZMcGE3SUZ5OUx6OFpzSEUyNi1YeXVhTE8yLUpqRUl5T3k3Z0Qyb2M5SER4WnFvc0tIcGNjbmhZX1ozWXJpZ3p4cmZkdEp2RXdvU0tLZ1JXczZ2TFJlQWdnMGpDYktLOGZlcWJ6b0ZkNWxDRmxFUlJZWGFKREJj?oc=5)
-
----
-
-### [Si ves esta marca en el rostro, cuidado: un estudio relaciona esta señal con peligro de ataque cardíaco y derrame cerebral](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTF1Z01pMmM1WXY5cHZVdVpWalhVTGJ4T29PRWhVbkJxbmtZZFdaQTVfUHV3V0x6VGNPZTJvM1lKclotRi03NGhHTHM1U19TMHVDUlhzTFQxazV5dWFyNjkxRjIwUDNLUmE0OU1JV0U4ZExKcXI0NjlocGVhNUVLanU1cEFqTTRNNjVmd00tVE1udVVyTEVIeGFEUTdHdWt1U3BvZFZTcWtKckVRYmpSX21sbjBFN3E4RUp0ZDlWa0lQYjc5VHlaaVFmc2daQXhhTFhEaXlILUNJTnpFWGxaN2tZY1hqWTNJQ21iQ0xFNE5xTXEyMmfSAZACQVVfeXFMTWppbW16UUhsSzU1OFdzY0xVTkRXa08yYjBaMVFWWjlfbWd0Q3RSU2RRUFo1bnZidDhOOVFSbG5pSGt6dURZUUZkbXl3UHI2ekI4OGtmYTJWY05MVkFETGM4dWtrbFhoenhIOWFTYWZHeHhyTXM2U3Z6YWdveDN5cE9EQS1yWGUwQV9Cc0FibDI4MTBMWGFuWG5ZZ1JoUTVEc2w2V2FqUG1UX2NCYVRqcXlJZ0t5RVloTS12aXFWRnlQWGdvWS1zTGhCZFhIeWJOek05X0RZS05UTVA3UmVYVEs3UHZTNVMxd1M4TDJqQS1ZZGtndEtaSDBtQ2lQUURhQ0lySHQwM1dLNVhZRE10eV8?oc=5)
-
-2026-09-07 <span class="news-indication-tag">ictus</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTF1Z01pMmM1WXY5cHZVdVpWalhVTGJ4T29PRWhVbkJxbmtZZFdaQTVfUHV3V0x6VGNPZTJvM1lKclotRi03NGhHTHM1U19TMHVDUlhzTFQxazV5dWFyNjkxRjIwUDNLUmE0OU1JV0U4ZExKcXI0NjlocGVhNUVLanU1cEFqTTRNNjVmd00tVE1udVVyTEVIeGFEUTdHdWt1U3BvZFZTcWtKckVRYmpSX21sbjBFN3E4RUp0ZDlWa0lQYjc5VHlaaVFmc2daQXhhTFhEaXlILUNJTnpFWGxaN2tZY1hqWTNJQ21iQ0xFNE5xTXEyMmfSAZACQVVfeXFMTWppbW16UUhsSzU1OFdzY0xVTkRXa08yYjBaMVFWWjlfbWd0Q3RSU2RRUFo1bnZidDhOOVFSbG5pSGt6dURZUUZkbXl3UHI2ekI4OGtmYTJWY05MVkFETGM4dWtrbFhoenhIOWFTYWZHeHhyTXM2U3Z6YWdveDN5cE9EQS1yWGUwQV9Cc0FibDI4MTBMWGFuWG5ZZ1JoUTVEc2w2V2FqUG1UX2NCYVRqcXlJZ0t5RVloTS12aXFWRnlQWGdvWS1zTGhCZFhIeWJOek05X0RZS05UTVA3UmVYVEs3UHZTNVMxd1M4TDJqQS1ZZGtndEtaSDBtQ2lQUURhQ0lySHQwM1dLNVhZRE10eV8?oc=5)
 
 ---
 
@@ -110,19 +110,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
+### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 2026-09-07 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
----
-
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+來源：[theconversation.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

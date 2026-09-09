@@ -14,7 +14,7 @@ permalink: /news/pretomanid/
 ---
 
 <p class="key-answer" data-question="Pretomanid 有什麼相關新聞？">
-<strong>Pretomanid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pretomanid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/pretomanid/
 <p><a href="{{ '/drugs/pretomanid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Logran identificar pacientes con miocardiopatía dilatada con mayor riesgo de muerte súbita y arritmias - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEpjR2UydHRqc1JJOEpkOUdiWHR6dDdvcTdTZGFZN3RpbDdoSjRSNVMwWDF5ODd2LWxrQ2FpM0ExVVk1QmJ3UHlWdmdSX3FqNWU3bzZqS3dWN3RXRnBpVGdMa0l1WG1KNkRkMmVQTXdCVS1VcWRsaUUzRUZNd08ycUlvMU0tU0oyb29CeXFrMmtNVS0zQ1ZRaVpCaUJ4R3BCTm05Y0hWM2RqNkxlMXM0OGE3YVRmMkxGallOMnNXd09mQ25hWnNGajRRak9fX2tx?oc=5)
 
 2026-09-08 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEpjR2UydHRqc1JJOEpkOUdiWHR6dDdvcTdTZGFZN3RpbDdoSjRSNVMwWDF5ODd2LWxrQ2FpM0ExVVk1QmJ3UHlWdmdSX3FqNWU3bzZqS3dWN3RXRnBpVGdMa0l1WG1KNkRkMmVQTXdCVS1VcWRsaUUzRUZNd08ycUlvMU0tU0oyb29CeXFrMmtNVS0zQ1ZRaVpCaUJ4R3BCTm05Y0hWM2RqNkxlMXM0OGE3YVRmMkxGallOMnNXd09mQ25hWnNGajRRak9fX2tx?oc=5)
-
----
-
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 ---
 

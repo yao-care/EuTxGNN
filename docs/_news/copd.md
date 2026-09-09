@@ -3,7 +3,7 @@ layout: default
 title: "BPCO（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "BPCO（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "BPCO（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="BPCO（copd） 有什麼相關新聞？">
-<strong>BPCO（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<strong>BPCO（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,13 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
 
 2026-09-08
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
-
----
-
-### [BPCO, ridere come ginnastica respiratoria? Nel trial ha ridotto la sensazione di dispnea](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
-
-2026-09-07
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVgycE9GUVVNalUwWmZBM3JCeXpnWnJXTnV2Y3JpTnRqQi1DdG5qNmNYYm02Y1dscmZGdk56Y0p4eGZKblF4YXJRRHp5OVRDcEs3SVZrc191U1h2MVRXYmg2UTJLTG95OTJ2cEFJT1RrbHVOZGFoZFA2ZGl6NmhCel9vSjFNcXc4Ym5iZmU0emgzaVdnWDZzZnNqNXhkZzVNYTktSXRkQXhwUnlxaE1RWkxsX29yZGo4QlZCRmg2ZmE5UXM4ZkR3Um51YmU2c0FUaTJB?oc=5)
 
 ---
 
