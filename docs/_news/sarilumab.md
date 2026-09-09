@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
+
+2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
+
+---
 
 ### [Schweres Asthma verursacht Veränderungen im Gehirn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 2026-09-09 <span class="news-indication-tag">asthma</span>
 
-來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
+來源：[scinexx.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 ---
 
-### [Morbus Crohn: Genetischer Marker HLA-DRB1*01:03 prognostiziert schwere Verläufe - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
+### [Caminar puede ser tan beneficioso como los aeróbicos para los pacientes asmáticos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDB6ZG5VZGNYODJuVlBWNVVmZ1ZnYVVpYUFqUWRwQ0N0eEpYYjJ2T1BtVTdsZW5xcGl1b3RVNlIzblJWN2lIR0trY0t4MEpPczZmZ3BrOVhSODlFZnQwelhvVVExbkNEWXdJX2Z1eXJSZEltdWkyQjgzZHg5QkNxVnA0T2lYVFR4UXdTZEpkV0dFd1hTSXZuQUE4d2hieFRvdl94X1pHcDlaS3FWbUcyWEZFS3QxMTN2aWxOaENsbFDSAdsBQVVfeXFMTmpDWnMybmVjSktJZG8wUjNHVEpUdlNreXNuRC1reUZ6VURqeXZ4b0NDNGV5MnBUaGRlQlNYalNZM1ZENUdOT19xQmZEcGktUW5vUk0xd0w1c19KT1pwbVJMM1NfM0Vhcjg5WkExblYzODllV3RvNVRiOGt3azV4bDNMQ18ySnFSblUycXJ5b0gxRy1jb09XcHRFVEctdEJIbm9vYnZuM3hRVC1Wb2pOMUpnSGlKYXA5dXBLd29fYmtnejdFYjdCSjFiOVBwaW1DQlhCNE4wMlhReW8w?oc=5)
 
-2026-09-09 <span class="news-indication-tag">Morbus Crohn</span>
+2026-09-09 <span class="news-indication-tag">asma</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDB6ZG5VZGNYODJuVlBWNVVmZ1ZnYVVpYUFqUWRwQ0N0eEpYYjJ2T1BtVTdsZW5xcGl1b3RVNlIzblJWN2lIR0trY0t4MEpPczZmZ3BrOVhSODlFZnQwelhvVVExbkNEWXdJX2Z1eXJSZEltdWkyQjgzZHg5QkNxVnA0T2lYVFR4UXdTZEpkV0dFd1hTSXZuQUE4d2hieFRvdl94X1pHcDlaS3FWbUcyWEZFS3QxMTN2aWxOaENsbFDSAdsBQVVfeXFMTmpDWnMybmVjSktJZG8wUjNHVEpUdlNreXNuRC1reUZ6VURqeXZ4b0NDNGV5MnBUaGRlQlNYalNZM1ZENUdOT19xQmZEcGktUW5vUk0xd0w1c19KT1pwbVJMM1NfM0Vhcjg5WkExblYzODllV3RvNVRiOGt3azV4bDNMQ18ySnFSblUycXJ5b0gxRy1jb09XcHRFVEctdEJIbm9vYnZuM3hRVC1Wb2pOMUpnSGlKYXA5dXBLd29fYmtnejdFYjdCSjFiOVBwaW1DQlhCNE4wMlhReW8w?oc=5)
 
 ---
 
@@ -78,27 +86,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
-
-2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">BPCO</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
-
----
-
 ### [Eigentor des Immunsystems: Wie ein Pilz tödlich wird](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
 
 2026-09-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
 
 來源：[MDR.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
-
----
-
-### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
-
-2026-09-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 ---
 
@@ -118,11 +110,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Artrite reumatoide, il cuore non è condannato: nove fattori possono cambiare profondamente il rischio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
+### [Asthma und COPD: Häufige Anwendung von Inhalationsspray mit höherem Herzrisiko verbunden](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
 
-2026-09-06 <span class="news-indication-tag">artrite</span>
+2026-09-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。5 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>5 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Schweres Asthma verursacht Veränderungen im Gehirn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 2026-09-09
 
-來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
+來源：[scinexx.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
+
+---
+
+### [Caminar puede ser tan beneficioso como los aeróbicos para los pacientes asmáticos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDB6ZG5VZGNYODJuVlBWNVVmZ1ZnYVVpYUFqUWRwQ0N0eEpYYjJ2T1BtVTdsZW5xcGl1b3RVNlIzblJWN2lIR0trY0t4MEpPczZmZ3BrOVhSODlFZnQwelhvVVExbkNEWXdJX2Z1eXJSZEltdWkyQjgzZHg5QkNxVnA0T2lYVFR4UXdTZEpkV0dFd1hTSXZuQUE4d2hieFRvdl94X1pHcDlaS3FWbUcyWEZFS3QxMTN2aWxOaENsbFDSAdsBQVVfeXFMTmpDWnMybmVjSktJZG8wUjNHVEpUdlNreXNuRC1reUZ6VURqeXZ4b0NDNGV5MnBUaGRlQlNYalNZM1ZENUdOT19xQmZEcGktUW5vUk0xd0w1c19KT1pwbVJMM1NfM0Vhcjg5WkExblYzODllV3RvNVRiOGt3azV4bDNMQ18ySnFSblUycXJ5b0gxRy1jb09XcHRFVEctdEJIbm9vYnZuM3hRVC1Wb2pOMUpnSGlKYXA5dXBLd29fYmtnejdFYjdCSjFiOVBwaW1DQlhCNE4wMlhReW8w?oc=5)
+
+2026-09-09
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDB6ZG5VZGNYODJuVlBWNVVmZ1ZnYVVpYUFqUWRwQ0N0eEpYYjJ2T1BtVTdsZW5xcGl1b3RVNlIzblJWN2lIR0trY0t4MEpPczZmZ3BrOVhSODlFZnQwelhvVVExbkNEWXdJX2Z1eXJSZEltdWkyQjgzZHg5QkNxVnA0T2lYVFR4UXdTZEpkV0dFd1hTSXZuQUE4d2hieFRvdl94X1pHcDlaS3FWbUcyWEZFS3QxMTN2aWxOaENsbFDSAdsBQVVfeXFMTmpDWnMybmVjSktJZG8wUjNHVEpUdlNreXNuRC1reUZ6VURqeXZ4b0NDNGV5MnBUaGRlQlNYalNZM1ZENUdOT19xQmZEcGktUW5vUk0xd0w1c19KT1pwbVJMM1NfM0Vhcjg5WkExblYzODllV3RvNVRiOGt3azV4bDNMQ18ySnFSblUycXJ5b0gxRy1jb09XcHRFVEctdEJIbm9vYnZuM3hRVC1Wb2pOMUpnSGlKYXA5dXBLd29fYmtnejdFYjdCSjFiOVBwaW1DQlhCNE4wMlhReW8w?oc=5)
 
 ---
 
@@ -93,19 +101,19 @@ permalink: /news/asthma/
 
 ---
 
-### [Asma e BPCO, il sensore che scopre gli errori nell’uso dell’inalatore](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
-
-2026-09-08
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0ZGY1dfSlYzS3Q1T2U1YVJLWC01RTdBSldKd2hlZDdTZE51TjkxaExha3laa1h0M3BRbnBsbzJkNDBLQk1NVm9BLS1WNWxUemt0N1pSaXR0ZGFNQ1NiczZiV3IyQVpzcWptc0llN0I0emtFaE5mZl9hbk5ITG16a1NwTzhnb0xrQXdwS2RqTkNHVnZEOEF2VVhHcVBvd1ZyRmE0UHBCTm1WbXJKMmdXREI3SEhiLTRSank2TmNmMU5TNHNq?oc=5)
-
----
-
 ### [Quanto ereditiamo del nostro carattere - Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
 
 2026-09-07
 
 來源：[Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
+
+---
+
+### [Asthma und COPD: Häufige Anwendung von Inhalationsspray mit höherem Herzrisiko verbunden](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
+
+2026-09-03
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Morbus Crohn（crohn disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/crohn-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/crohn-disease/
 ---
 
 <p class="key-answer" data-question="Morbus Crohn（crohn disease） 有什麼相關新聞？">
-<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/crohn-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Morbus Crohn: Genetischer Marker HLA-DRB1*01:03 prognostiziert schwere Verläufe - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
-
-2026-09-09
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Eigentor des Immunsystems: Wie ein Pilz tödlich wird](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
 
