@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "emicrania（migraine） 相關新聞"
+title: "migraine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraine 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# emicrania（migraine） 相關新聞
+# migraine 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraine 有什麼相關新聞？">
+<strong>migraine</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraine」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,15 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Ecco quando il mal di testa è un campanello d’allarme - il Giornale](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVFsSlFXcE9lSTVva1NpbTI4cDVMVmZsZzY0My1aWXluUEU5M3dxcXAxLWNYMjlZYWY4NVIxYWwxTjV3eFp6cDdZTGctMnJRb00wU3p5Q3gwdVJrWl9hWEVvdlQ2cGY3b2lTVVZlb0pYMldBUEdLMkJFT3R6N3J6cl9tdGo4dUR6S2NUaVRMWk1ZcVUzNmZaaF9R?oc=5)
-
-2026-09-07
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVFsSlFXcE9lSTVva1NpbTI4cDVMVmZsZzY0My1aWXluUEU5M3dxcXAxLWNYMjlZYWY4NVIxYWwxTjV3eFp6cDdZTGctMnJRb00wU3p5Q3gwdVJrWl9hWEVvdlQ2cGY3b2lTVVZlb0pYMldBUEdLMkJFT3R6N3J6cl9tdGo4dUR6S2NUaVRMWk1ZcVUzNmZaaF9R?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [New Migraine Prevention Guidelines Released](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
 

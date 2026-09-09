@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
+
+### [Statine im Alter: 30% weniger Herzinfarkte bei über 70-Jährigen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+
+2026-09-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+
+---
 
 ### [La dieta que logra reducir un 67% la grasa del hígado y puede ayudar a revertir la prediabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[20Minutos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
-
----
-
-### [Typ-2-Diabetes: Frühe Statintherapie senkt Demenzrisiko um 15%](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVl0emxpLWtpQ1Vock4zRHBhcElXYVBLWXN4MnhHN2doVW12Zzk4YXVJV1VlTTRHRHBhVS1TSXdzSzhwaExfR1owWGIwdVlpaU9QblBCQnZBbVpFeTk2blp6Qm9nVHlIa2YwaUdnSGVSUm9zS2xCd3RnXzVVMDRDbGdVMDVtcTJGUDNEQWh5UUZ3dHdzRlc5YkktbnludHB1RlhUbmZQWHRTOWZuZDFjMV9jV0ZmdEdwaHc?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVl0emxpLWtpQ1Vock4zRHBhcElXYVBLWXN4MnhHN2doVW12Zzk4YXVJV1VlTTRHRHBhVS1TSXdzSzhwaExfR1owWGIwdVlpaU9QblBCQnZBbVpFeTk2blp6Qm9nVHlIa2YwaUdnSGVSUm9zS2xCd3RnXzVVMDRDbGdVMDVtcTJGUDNEQWh5UUZ3dHdzRlc5YkktbnludHB1RlhUbmZQWHRTOWZuZDFjMV9jV0ZmdEdwaHc?oc=5)
 
 ---
 
@@ -102,11 +102,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 2026-09-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[gacetamedica.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 ---
 
@@ -139,14 +139,6 @@ permalink: /news/sacubitril/
 2026-09-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFUxZktiQ0QzdnRmbFB1OUtkSjZqZVQxQ0JCWkdnRjM4Rk9wU0lrU2VzSGpheVlFWXd6VHN4a2hjRzE2Q2c4Zko4UjZuakVxN0ZmMkE1Qkl3Ni16b0dsVGc5bnA0Zm90R3Zrc2d6eExVVFA3Y1p1UWxGS0s3ZDFfOHB1Zjl1aUFCYjRDRjFpM1RZanZHbW95bmNYdlNEVzdjc185cWJ4cHhzUjVLUkxvbndBOWhZZw?oc=5)
-
----
-
-### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
-
-2026-09-07 <span class="news-indication-tag">artritis</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
 
 ---
 

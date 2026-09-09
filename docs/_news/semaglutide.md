@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [Los nuevos efectos de Ozempic que sorprenden a los expertos: alcohol, adicciones y enfermedades respiratorias](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmRkRE1FS0lYUVNoMlNxZ0kxVUM2OGhVR3BiVnhBb3h5N1pnbWFlZzdkV251NXpYdDdvbjlUeTVNUDFvd20xUUZiU3NYTXFmejdMSGNYaERhcm1UMURtaHNqLUhXUVk4YzNBQkczZWJkZHpwY1E2R0oweHJKc2I2QnliczJxYVBmcEFleGZrVmE3TEtoSVY5VmNZS0c1R1M4cnZ2d1Ywb1VSZFBNTUl3WEZfeTdidlQ4WktBbE5UdFN3UExzWXpmQWE1S3pLWGdVbDZQLUxOcUxkMGQ5X1B1Yg?oc=5)
+
+2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmRkRE1FS0lYUVNoMlNxZ0kxVUM2OGhVR3BiVnhBb3h5N1pnbWFlZzdkV251NXpYdDdvbjlUeTVNUDFvd20xUUZiU3NYTXFmejdMSGNYaERhcm1UMURtaHNqLUhXUVk4YzNBQkczZWJkZHpwY1E2R0oweHJKc2I2QnliczJxYVBmcEFleGZrVmE3TEtoSVY5VmNZS0c1R1M4cnZ2d1Ywb1VSZFBNTUl3WEZfeTdidlQ4WktBbE5UdFN3UExzWXpmQWE1S3pLWGdVbDZQLUxOcUxkMGQ5X1B1Yg?oc=5)
+
+---
+
+### [Statine im Alter: 30% weniger Herzinfarkte bei über 70-Jährigen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+
+2026-09-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+
+---
 
 ### [La dieta que logra reducir un 67% la grasa del hígado y puede ayudar a revertir la prediabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
 
@@ -62,19 +78,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Abnehmspritze abgesetzt, Gewicht zurueck: Chirurg aus Izmir zur Operation nach Ozempic und Wegovy](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTG9UVW5OaGhiWUlFUU9NSWFsQk1ZUXYtMW4tdXhhSlZ0THkxS1dPNkxfWFlCVmlQRFRfZEpZTjZYMFc4Z3hzS3hWWEozTWQtdm83SXlLS2NsNDl4b090ajZJRmlOVHhEcmZtWXVwajJiM1F6andSOG1ZSjlqWVNvUG1yVWJyUlRGcG5saGtiTjNYMjI0OXpEUXc1Y2hXV1hRVzVhemlkcGtxbnpHVmgwNTFidGFhRkVXVmlyd3JiTkZxcVNmT1ZlSjZlTkhkU010cmZsUG82dGg?oc=5)
+### [Abnehmspritze abgesetzt, Gewicht zurueck: Chirurg aus Izmir zur Operation nach Ozempic und Wegovy](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGtnT3BJSkZVMWZZZnpST1FnZUtkTVpVS3RqdEpScGt1Nk1BT2lvRnBOXzQ3cW1BVzBSZW5ZWEY0cHBZM01TMmE2NWczakRWYXlHVXAtLXQ1cW1kWEM4WkR6cXlSYVZ5Y3ZqV2R4ODNuY3llQmpoR2JWcElnMWF3WVdJdDBhZ3hpSW0yZXByeFk4Q0xpc0JmSFVuVmhTdVJNbjBZUUZrci1uZVVZWlF1Tlg1YXNGSGRIcUprTG03eExEelhjbjVJcTh1VG8tX2wy?oc=5)
 
 2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[businessportal24](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTG9UVW5OaGhiWUlFUU9NSWFsQk1ZUXYtMW4tdXhhSlZ0THkxS1dPNkxfWFlCVmlQRFRfZEpZTjZYMFc4Z3hzS3hWWEozTWQtdm83SXlLS2NsNDl4b090ajZJRmlOVHhEcmZtWXVwajJiM1F6andSOG1ZSjlqWVNvUG1yVWJyUlRGcG5saGtiTjNYMjI0OXpEUXc1Y2hXV1hRVzVhemlkcGtxbnpHVmgwNTFidGFhRkVXVmlyd3JiTkZxcVNmT1ZlSjZlTkhkU010cmZsUG82dGg?oc=5)
-
----
-
-### [Typ-2-Diabetes: Frühe Statintherapie senkt Demenzrisiko um 15%](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVl0emxpLWtpQ1Vock4zRHBhcElXYVBLWXN4MnhHN2doVW12Zzk4YXVJV1VlTTRHRHBhVS1TSXdzSzhwaExfR1owWGIwdVlpaU9QblBCQnZBbVpFeTk2blp6Qm9nVHlIa2YwaUdnSGVSUm9zS2xCd3RnXzVVMDRDbGdVMDVtcTJGUDNEQWh5UUZ3dHdzRlc5YkktbnludHB1RlhUbmZQWHRTOWZuZDFjMV9jV0ZmdEdwaHc?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVl0emxpLWtpQ1Vock4zRHBhcElXYVBLWXN4MnhHN2doVW12Zzk4YXVJV1VlTTRHRHBhVS1TSXdzSzhwaExfR1owWGIwdVlpaU9QblBCQnZBbVpFeTk2blp6Qm9nVHlIa2YwaUdnSGVSUm9zS2xCd3RnXzVVMDRDbGdVMDVtcTJGUDNEQWh5UUZ3dHdzRlc5YkktbnludHB1RlhUbmZQWHRTOWZuZDFjMV9jV0ZmdEdwaHc?oc=5)
+來源：[openPR.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGtnT3BJSkZVMWZZZnpST1FnZUtkTVpVS3RqdEpScGt1Nk1BT2lvRnBOXzQ3cW1BVzBSZW5ZWEY0cHBZM01TMmE2NWczakRWYXlHVXAtLXQ1cW1kWEM4WkR6cXlSYVZ5Y3ZqV2R4ODNuY3llQmpoR2JWcElnMWF3WVdJdDBhZ3hpSW0yZXByeFk4Q0xpc0JmSFVuVmhTdVJNbjBZUUZrci1uZVVZWlF1Tlg1YXNGSGRIcUprTG03eExEelhjbjVJcTh1VG8tX2wy?oc=5)
 
 ---
 
@@ -110,11 +118,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work? - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
+### [Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
 
 2026-09-08 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
 
 ---
 

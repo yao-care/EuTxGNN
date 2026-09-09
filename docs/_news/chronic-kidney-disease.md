@@ -3,7 +3,7 @@ layout: default
 title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "CKD（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
-<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [No place on Covid memorial wall for teenager who killed himself during lockdown - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2I4WWpvSFN2d2lVQzRpakpCLUV3M05xbEY1dW9LdXFPVHZ2aWZna21QZ1NuZF9YdzFITFByYjVuZExYLXRmbmpkNnJSdEdKTXZTWW9QV0F5R0VGLWo4c3FIM1BRejBhdVFINGNlMlZkU2VpVzhBUUN0RkpYZHdaTkFaZmkwaVRWZkFXeFhRelhqY1dOSnBnWTJzSjk?oc=5)
 
 2026-09-07
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2I4WWpvSFN2d2lVQzRpakpCLUV3M05xbEY1dW9LdXFPVHZ2aWZna21QZ1NuZF9YdzFITFByYjVuZExYLXRmbmpkNnJSdEdKTXZTWW9QV0F5R0VGLWo4c3FIM1BRejBhdVFINGNlMlZkU2VpVzhBUUN0RkpYZHdaTkFaZmkwaVRWZkFXeFhRelhqY1dOSnBnWTJzSjk?oc=5)
-
----
-
-### [Nuevas guías iCatCare 2026: cómo detectar la enfermedad renal crónica en gatos a tiempo](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqc0tVNEl5azJxYkVQNlBEZHNxaXR1RFhJR0NWanQwUUhWbndfY3ZMNjY1X3ExMThHWFIyeElmeE5FSmhDQ0l4QkFUU29hckV6QXAtbVU3bFJKSVNVanVNSm5mODBURTZuSE9wTDNMd0trZC1pVXd4Y3dn?oc=5)
-
-2026-09-07
-
-來源：[que.es](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqc0tVNEl5azJxYkVQNlBEZHNxaXR1RFhJR0NWanQwUUhWbndfY3ZMNjY1X3ExMThHWFIyeElmeE5FSmhDQ0l4QkFUU29hckV6QXAtbVU3bFJKSVNVanVNSm5mODBURTZuSE9wTDNMd0trZC1pVXd4Y3dn?oc=5)
 
 ---
 

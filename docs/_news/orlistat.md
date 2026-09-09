@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（14 則）
+
+### [Los nuevos efectos de Ozempic que sorprenden a los expertos: alcohol, adicciones y enfermedades respiratorias](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmRkRE1FS0lYUVNoMlNxZ0kxVUM2OGhVR3BiVnhBb3h5N1pnbWFlZzdkV251NXpYdDdvbjlUeTVNUDFvd20xUUZiU3NYTXFmejdMSGNYaERhcm1UMURtaHNqLUhXUVk4YzNBQkczZWJkZHpwY1E2R0oweHJKc2I2QnliczJxYVBmcEFleGZrVmE3TEtoSVY5VmNZS0c1R1M4cnZ2d1Ywb1VSZFBNTUl3WEZfeTdidlQ4WktBbE5UdFN3UExzWXpmQWE1S3pLWGdVbDZQLUxOcUxkMGQ5X1B1Yg?oc=5)
+
+2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmRkRE1FS0lYUVNoMlNxZ0kxVUM2OGhVR3BiVnhBb3h5N1pnbWFlZzdkV251NXpYdDdvbjlUeTVNUDFvd20xUUZiU3NYTXFmejdMSGNYaERhcm1UMURtaHNqLUhXUVk4YzNBQkczZWJkZHpwY1E2R0oweHJKc2I2QnliczJxYVBmcEFleGZrVmE3TEtoSVY5VmNZS0c1R1M4cnZ2d1Ywb1VSZFBNTUl3WEZfeTdidlQ4WktBbE5UdFN3UExzWXpmQWE1S3pLWGdVbDZQLUxOcUxkMGQ5X1B1Yg?oc=5)
+
+---
 
 ### [Anzeichen im Gesicht: Dieses Merkmal warnt vor Herzinfarkt oder Schlaganfall - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
 
 2026-09-09 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
+
+---
+
+### [Nach Krebsdiagnose steigt das Schlaganfallrisiko – aber nicht bei allen](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm9lbXJ6amozc1BuWjhqT0VHQjg1cGc3eUJOZUhLLW8yQkVETXdRMEg0eGQ0a1dHdTcwLTNOalNobDUwbDdWMzVIWnA1SGlKRVU4UUZCZ19QWktmdEtvUTZPZDFWR0Y0V2FIVklSZzRFVG1tanRhdzV3b2dkeWhETEJ1VHl2MTZyMDFQZHVSU0lGTnZORmJETmFwYnJhSHNqNEQzVElObkN3YVhyOWpJc2RmM19Xbnh1SngzdDJqQzhidmQxeGN2TDR3?oc=5)
+
+2026-09-09 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm9lbXJ6amozc1BuWjhqT0VHQjg1cGc3eUJOZUhLLW8yQkVETXdRMEg0eGQ0a1dHdTcwLTNOalNobDUwbDdWMzVIWnA1SGlKRVU4UUZCZ19QWktmdEtvUTZPZDFWR0Y0V2FIVklSZzRFVG1tanRhdzV3b2dkeWhETEJ1VHl2MTZyMDFQZHVSU0lGTnZORmJETmFwYnJhSHNqNEQzVElObkN3YVhyOWpJc2RmM19Xbnh1SngzdDJqQzhidmQxeGN2TDR3?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/orlistat/
 2026-09-08 <span class="news-indication-tag">Adipositas</span>
 
 來源：[diebewertung.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx3bXhobmQtUlpkbFVFbnNTRGRqUkZ3M0s5bmNFb01JYWlYdFJVYUJJM1p2MEJrMk4tQXFSRVgzd1Z2QkplUXNqZlFfbk8tdlJwdHJLU2ZBUl9wVnNEUTBka3VkbzRiZXltS2JDQXhEMHlTVG9FUWMwb3JCUEtoMnJMcGhYc0JGeGhTMmVDR1V5QQ?oc=5)
+
+---
+
+### [GLP-1 gegen Schlafapnoe: Tirzepatid senkt Atemaussetzer, CPAP bleibt Standard - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
+
+2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
 
 ---
 
@@ -96,25 +120,33 @@ permalink: /news/orlistat/
 
 ### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’ - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
-2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">stroke</span>
+2026-09-08 <span class="news-indication-tag">stroke</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
 
 ---
 
+### [El cerebro podría convertirse en el peor enemigo tras sufrir un ictus](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
+
+2026-09-08 <span class="news-indication-tag">ictus</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
+
+---
+
 ### [Xylitol Linked to Increased Long-Term Cardiovascular Risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
 
-2026-09-08 <span class="news-indication-tag">stroke</span>
+2026-09-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
 
 ---
 
-### [El propio cerebro podría ser un enemigo para la recuperación tras un ictus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFpxcWUtQklzZUs4azk3RlNvczIwTVBOQTVpZ2F6Rmp3TGRuMWhibzg1TDA2c0NfOWhJWnZJT3YtX2hEYTUwTG1YdVlxUnZMcGE3SUZ5OUx6OFpzSEUyNi1YeXVhTE8yLUpqRUl5T3k3Z0Qyb2M5SER4WnFvc0tIcGNjbmhZX1ozWXJpZ3p4cmZkdEp2RXdvU0tLZ1JXczZ2TFJlQWdnMGpDYktLOGZlcWJ6b0ZkNWxDRmxFUlJZWGFKREJj?oc=5)
+### [Si ves esta marca en el rostro, cuidado: un estudio relaciona esta señal con peligro de ataque cardíaco y derrame cerebral](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTF1Z01pMmM1WXY5cHZVdVpWalhVTGJ4T29PRWhVbkJxbmtZZFdaQTVfUHV3V0x6VGNPZTJvM1lKclotRi03NGhHTHM1U19TMHVDUlhzTFQxazV5dWFyNjkxRjIwUDNLUmE0OU1JV0U4ZExKcXI0NjlocGVhNUVLanU1cEFqTTRNNjVmd00tVE1udVVyTEVIeGFEUTdHdWt1U3BvZFZTcWtKckVRYmpSX21sbjBFN3E4RUp0ZDlWa0lQYjc5VHlaaVFmc2daQXhhTFhEaXlILUNJTnpFWGxaN2tZY1hqWTNJQ21iQ0xFNE5xTXEyMmfSAZACQVVfeXFMTWppbW16UUhsSzU1OFdzY0xVTkRXa08yYjBaMVFWWjlfbWd0Q3RSU2RRUFo1bnZidDhOOVFSbG5pSGt6dURZUUZkbXl3UHI2ekI4OGtmYTJWY05MVkFETGM4dWtrbFhoenhIOWFTYWZHeHhyTXM2U3Z6YWdveDN5cE9EQS1yWGUwQV9Cc0FibDI4MTBMWGFuWG5ZZ1JoUTVEc2w2V2FqUG1UX2NCYVRqcXlJZ0t5RVloTS12aXFWRnlQWGdvWS1zTGhCZFhIeWJOek05X0RZS05UTVA3UmVYVEs3UHZTNVMxd1M4TDJqQS1ZZGtndEtaSDBtQ2lQUURhQ0lySHQwM1dLNVhZRE10eV8?oc=5)
 
-2026-09-08 <span class="news-indication-tag">ictus</span>
+2026-09-07 <span class="news-indication-tag">ictus</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFpxcWUtQklzZUs4azk3RlNvczIwTVBOQTVpZ2F6Rmp3TGRuMWhibzg1TDA2c0NfOWhJWnZJT3YtX2hEYTUwTG1YdVlxUnZMcGE3SUZ5OUx6OFpzSEUyNi1YeXVhTE8yLUpqRUl5T3k3Z0Qyb2M5SER4WnFvc0tIcGNjbmhZX1ozWXJpZ3p4cmZkdEp2RXdvU0tLZ1JXczZ2TFJlQWdnMGpDYktLOGZlcWJ6b0ZkNWxDRmxFUlJZWGFKREJj?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTF1Z01pMmM1WXY5cHZVdVpWalhVTGJ4T29PRWhVbkJxbmtZZFdaQTVfUHV3V0x6VGNPZTJvM1lKclotRi03NGhHTHM1U19TMHVDUlhzTFQxazV5dWFyNjkxRjIwUDNLUmE0OU1JV0U4ZExKcXI0NjlocGVhNUVLanU1cEFqTTRNNjVmd00tVE1udVVyTEVIeGFEUTdHdWt1U3BvZFZTcWtKckVRYmpSX21sbjBFN3E4RUp0ZDlWa0lQYjc5VHlaaVFmc2daQXhhTFhEaXlILUNJTnpFWGxaN2tZY1hqWTNJQ21iQ0xFNE5xTXEyMmfSAZACQVVfeXFMTWppbW16UUhsSzU1OFdzY0xVTkRXa08yYjBaMVFWWjlfbWd0Q3RSU2RRUFo1bnZidDhOOVFSbG5pSGt6dURZUUZkbXl3UHI2ekI4OGtmYTJWY05MVkFETGM4dWtrbFhoenhIOWFTYWZHeHhyTXM2U3Z6YWdveDN5cE9EQS1yWGUwQV9Cc0FibDI4MTBMWGFuWG5ZZ1JoUTVEc2w2V2FqUG1UX2NCYVRqcXlJZ0t5RVloTS12aXFWRnlQWGdvWS1zTGhCZFhIeWJOek05X0RZS05UTVA3UmVYVEs3UHZTNVMxd1M4TDJqQS1ZZGtndEtaSDBtQ2lQUURhQ0lySHQwM1dLNVhZRE10eV8?oc=5)
 
 ---
 
@@ -126,19 +158,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
-
-2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
-
----
-
-### [Adipositas: KI-Modell sagt Abnehm-Erfolg anhand von Darmbakterien voraus](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
+### [Adipositas: KI-Modell sagt Abnehm-Erfolg anhand von Darmbakterien voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
 
 2026-09-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
 
 ---
 

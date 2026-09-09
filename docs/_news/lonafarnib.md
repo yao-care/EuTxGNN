@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [17 millions de personnes touchées en France : l’Assurance maladie lance une campagne pour sensibiliser à l’hypertension - Orange Actualités](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcXhlc0l5X0ktU0VjcDNPRjg4WGxNYmNlQXhxaFpYbEJOVkdkZDQ3cTNDRXhVbWc3TlVnN0VDck9SdU12eGdtekhJMG5SbWF4N19lQnpMU0EtVXRnY2xXNnBNOHNWSFZZMnlSU19kRmw4TDdtbmJHOEJQM25IVDgwSzRkQ1NCd2k1YmMyUFdLOGdqU2Z5RmRSVXk1VVpZenJwdlNvVm45ZEJrX3JEcEgwUFJqZTdZZm5HRFRXY0p3UlVDN1lZLW43WDZkZUk0aG1QYkV5d3l1S1QxMDZ4czB3TU0tOGxoV1lWVzgwLXdmdklLWE14X3hTOGJweTlPYldBMXFN?oc=5)
+### [Hypertension : l'Assurance Maladie lance un nouveau réflexe de 2 minutes qui fait gagner des années de vie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
 
-2026-09-08 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+2026-09-08 <span class="news-indication-tag">hypertension</span>
 
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcXhlc0l5X0ktU0VjcDNPRjg4WGxNYmNlQXhxaFpYbEJOVkdkZDQ3cTNDRXhVbWc3TlVnN0VDck9SdU12eGdtekhJMG5SbWF4N19lQnpMU0EtVXRnY2xXNnBNOHNWSFZZMnlSU19kRmw4TDdtbmJHOEJQM25IVDgwSzRkQ1NCd2k1YmMyUFdLOGdqU2Z5RmRSVXk1VVpZenJwdlNvVm45ZEJrX3JEcEgwUFJqZTdZZm5HRFRXY0p3UlVDN1lZLW43WDZkZUk0aG1QYkV5d3l1S1QxMDZ4czB3TU0tOGxoV1lWVzgwLXdmdklLWE14X3hTOGJweTlPYldBMXFN?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
 
 ---
 
@@ -70,27 +70,19 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 2026-09-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[gacetamedica.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 ---
 
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
+### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 2026-09-07 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
----
-
-### [La vulnerabilidad a la artritis reumatoide puede aparecer incluso antes del nacimiento - IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
-
-2026-09-07 <span class="news-indication-tag">artritis</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFVRZHh0WmFrMFA4TGF4NWV0ZkZHQXhNOFlyZ0pBZU5lOXRxb3hPTVBpeEdHU1JKbjU5aEE0VkNWS0NBYnFjaDUxMnJmN1Jjcm1ZMGs2MUVSMGpwNnM2dGFxVXFlZ0FPS3haMGllVXRPVmg1NFRveGNvMmcyV3R3VHJkTjVVcmNZcUF4NktlMXI2ZTU5b19Tek96bjJfUlhnNmljMXRwcW43ZTZycm0w0gGqAUFVX3lxTE9ud2xOcThTZzJHOGtfU0hHVEFuQnZnbjdwcndXV0pQNXduNU50RlZRVlJ1Q0o5UFN5ZS1mR0RhQlltNG9PQUlQVVR4ZGlkLU8xb2lQTWxQLUJ0ZUFNTkFWN0tNeEdvYXVKS1NvVGREYVlYNzFiRFJkalFQV3lwalpVRGVuTG5SdHoyVURldWJWalFGb2V4M1Q1STZCOFNjVURYR1dUODkyb3dB?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

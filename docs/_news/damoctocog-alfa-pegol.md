@@ -14,7 +14,7 @@ permalink: /news/damoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Damoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>51 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>55 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,63 @@ permalink: /news/damoctocog-alfa-pegol/
 <p><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（51 則）
+## 相關新聞（55 則）
+
+### [Prostatakrebs: Diese acht Muster verraten, welcher Tumor tötet - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY05pQzVUaVAyMWlRTnNDQVFnNVQzQ01adEJVMjQ2NnhKMlFST09maFByTmxLSG54RkF2NjN2QjMyMjlJeklocmR3c3hHSmpTcnpQRDR3YzN0V210VG52OW4xWEVIQkkzMFR4ZVRnSzZJRmZLQlV6OUlZNmhvWDdveXlvbF9oZUhlWnRyNFp6UTdpUlFXTHpTOXRiekdyNW5vUjF5ZVdINS1EbE12RTRhRXRsdVJWLUZYN3NLQUozbHVBZ2s?oc=5)
+
+2026-09-09 <span class="news-indication-tag">tumor</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY05pQzVUaVAyMWlRTnNDQVFnNVQzQ01adEJVMjQ2NnhKMlFST09maFByTmxLSG54RkF2NjN2QjMyMjlJeklocmR3c3hHSmpTcnpQRDR3YzN0V210VG52OW4xWEVIQkkzMFR4ZVRnSzZJRmZLQlV6OUlZNmhvWDdveXlvbF9oZUhlWnRyNFp6UTdpUlFXTHpTOXRiekdyNW5vUjF5ZVdINS1EbE12RTRhRXRsdVJWLUZYN3NLQUozbHVBZ2s?oc=5)
+
+---
+
+### [Krebs: Dieses kaum bekannte Organ könnte bei der Therapie entscheidend sein](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
+
+2026-09-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
+
+---
+
+### [Prostate cancer test that diagnosed Jeremy Clarkson offered to 10,000 men - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVBCV0U2ckZNSk1aQ29tTUMtZ3NBYURGT3BfUXA3bVJBM1hlVlphbnNMUGRLRHVYUHNKWFpkang5Yl9mbkVFc3J6a0xJWXhuaDJNakRlYmVPMnRVX0RkU29KTVQ3Qm5XZWJGYWNuTXRCYTloaWtmT09mUkZES09pZDFvRmhYbHhvUEl2SjJMR0M0X2tqY2c?oc=5)
+
+2026-09-09 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVBCV0U2ckZNSk1aQ29tTUMtZ3NBYURGT3BfUXA3bVJBM1hlVlphbnNMUGRLRHVYUHNKWFpkang5Yl9mbkVFc3J6a0xJWXhuaDJNakRlYmVPMnRVX0RkU29KTVQ3Qm5XZWJGYWNuTXRCYTloaWtmT09mUkZES09pZDFvRmhYbHhvUEl2SjJMR0M0X2tqY2c?oc=5)
+
+---
+
+### [Tumore seno, Fabi (Aiom): "13mila pazienti all'anno candidate a test genomico"](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSVZLYXVhRWtJMHNyODZjaV9aR1QyMWF5M09XU2xoQVZHUlMyMHZ3d2NJRHVrYzdmaUxodkRidGRzQ3M0TEFxUDRRWi1EVlloRGhqbjVldkVIMFFtNTNucFNmQ1JkVExtaXJNVjg3XzVaZ2JOc1ZUQ3BiUkhxNnRKWmNzaVJZRDNlckhiSm4wMzdVUnh3YWZodENJaU1HTHVYWkVNWGpkM1VTdUVJRks3bC1XS2ZhTE11NW1nTThDVXI2RTM4TTZSZUh2dHF3eHVYMW1tQTdvZGtTWDV0?oc=5)
+
+2026-09-09 <span class="news-indication-tag">tumor</span>
+
+來源：[iltirreno.it](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSVZLYXVhRWtJMHNyODZjaV9aR1QyMWF5M09XU2xoQVZHUlMyMHZ3d2NJRHVrYzdmaUxodkRidGRzQ3M0TEFxUDRRWi1EVlloRGhqbjVldkVIMFFtNTNucFNmQ1JkVExtaXJNVjg3XzVaZ2JOc1ZUQ3BiUkhxNnRKWmNzaVJZRDNlckhiSm4wMzdVUnh3YWZodENJaU1HTHVYWkVNWGpkM1VTdUVJRks3bC1XS2ZhTE11NW1nTThDVXI2RTM4TTZSZUh2dHF3eHVYMW1tQTdvZGtTWDV0?oc=5)
+
+---
+
+### [Schweres Asthma verursacht Veränderungen im Gehirn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
+
+2026-09-09 <span class="news-indication-tag">asthma</span>
+
+來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
+
+---
+
+### [Antioxidanzien könnten mit geringerem Risiko für Gebärmutterhalskrebs verbunden sein – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZmlJQVRiRm9XTmdMTzdieDlVQm5IalhlTnZ0Qnl2MTZtRDV0dThOSTQ1WTdDNHAzVHBnWlNEUTZ6aWFGWnBGbzE3MU9zUzNram9xb1QtVGd5WXZKektad1NDbkkzcGs4THE4VElaYzBKelNOcEwyanhsMWVMaVlpTlRGcHlEc2xuY0pmNDJVMnFoYjR2ZjFfYkt3WXdfR3Y2Y0dJcmVVS1BTelp3QkdEQzRoalhaanlNbm5KN19fSm1PN2ozNFhVVG9ueXlkSmRGWFY1X1ItWDFRXy1OU3QxMjNRUlh1WEFN?oc=5)
+
+2026-09-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZmlJQVRiRm9XTmdMTzdieDlVQm5IalhlTnZ0Qnl2MTZtRDV0dThOSTQ1WTdDNHAzVHBnWlNEUTZ6aWFGWnBGbzE3MU9zUzNram9xb1QtVGd5WXZKektad1NDbkkzcGs4THE4VElaYzBKelNOcEwyanhsMWVMaVlpTlRGcHlEc2xuY0pmNDJVMnFoYjR2ZjFfYkt3WXdfR3Y2Y0dJcmVVS1BTelp3QkdEQzRoalhaanlNbm5KN19fSm1PN2ozNFhVVG9ueXlkSmRGWFY1X1ItWDFRXy1OU3QxMjNRUlh1WEFN?oc=5)
+
+---
+
+### [Statine im Alter: 30% weniger Herzinfarkte bei über 70-Jährigen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+
+2026-09-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+
+---
 
 ### [La dieta que logra reducir un 67% la grasa del hígado y puede ayudar a revertir la prediabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
 
@@ -62,11 +118,27 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Typ-2-Diabetes: Frühe Statintherapie senkt Demenzrisiko um 15%](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVl0emxpLWtpQ1Vock4zRHBhcElXYVBLWXN4MnhHN2doVW12Zzk4YXVJV1VlTTRHRHBhVS1TSXdzSzhwaExfR1owWGIwdVlpaU9QblBCQnZBbVpFeTk2blp6Qm9nVHlIa2YwaUdnSGVSUm9zS2xCd3RnXzVVMDRDbGdVMDVtcTJGUDNEQWh5UUZ3dHdzRlc5YkktbnludHB1RlhUbmZQWHRTOWZuZDFjMV9jV0ZmdEdwaHc?oc=5)
+### [Bowel Cancer Under 50: Rethinking Screening and Diagnosis](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVZpSW5fZmFHVko3a3BuZmlWNG1RTGVZUUdKRVk0clBFcFFPRHFWYTd4Y1lINE9QSk5BdFhkNlBONkFsOXcwMGhCRnJSQnN5QU9EWlVLcjlacGFxZm1pVFNGNXdaV3dSM1dycUN5NWRwemUxRlZHUTU5amV5TkUweUtZdzNxUXluOEhTOGxIMG5iek91QVVUWTVNZi1pVjFWbDItVFNhOFUyZw?oc=5)
 
-2026-09-09 <span class="news-indication-tag">diabetes</span>
+2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVl0emxpLWtpQ1Vock4zRHBhcElXYVBLWXN4MnhHN2doVW12Zzk4YXVJV1VlTTRHRHBhVS1TSXdzSzhwaExfR1owWGIwdVlpaU9QblBCQnZBbVpFeTk2blp6Qm9nVHlIa2YwaUdnSGVSUm9zS2xCd3RnXzVVMDRDbGdVMDVtcTJGUDNEQWh5UUZ3dHdzRlc5YkktbnludHB1RlhUbmZQWHRTOWZuZDFjMV9jV0ZmdEdwaHc?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVZpSW5fZmFHVko3a3BuZmlWNG1RTGVZUUdKRVk0clBFcFFPRHFWYTd4Y1lINE9QSk5BdFhkNlBONkFsOXcwMGhCRnJSQnN5QU9EWlVLcjlacGFxZm1pVFNGNXdaV3dSM1dycUN5NWRwemUxRlZHUTU5amV5TkUweUtZdzNxUXluOEhTOGxIMG5iek91QVVUWTVNZi1pVjFWbDItVFNhOFUyZw?oc=5)
+
+---
+
+### [La exposición a la bacteria Helicobacter pylori podría estar relacionadas con más de 1 de cada 5 casos de cáncer de intestino - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxPWnYzdTdmcGNKRkdYTW5TZy00dlNCVUtUY25RTVRjbWhMLWRhMTRfZ0k5SDRDZ3RmZUd5NndabUxCZU1vYk5JcElFdHhhQTFDczZIdG0tbnFXVzBIdjNaalRzalFabmQ5VTNGXzNWdFYxNXJCZ3dGMHVNRjhNTjRoT0ZLdUdPT3ZrZ1dMMHJ3SWc5dW82aVk5MHQ4VmVpcC1oczBxb1NBZkVWeU9aTVpsS0V5TUpNNzdBYnlXd3FJSzl2cnV3OFE3cHE0cTRTWkR2VlZUNnRQNlNEM3RIXzVWWGROX0J3VHU1TWFGUDByczRidnc5VkZKaHRRMzZnaG900gGcAkFVX3lxTFBTbWtyVy1pV0ZqUEZvUlNTbExscWNtUHFFeVZiTC11QkZXY2loLWdsVkFpVVR3UXFFRTBndVdLbGZYSmVmS0JuX2tReThjamlORG9uNnZMQnJSN09IbVFnTUhRUUstZXVrQ3duMllBODhhTGVHc3VTa3Y3bmw0XzJhSTdWOXF5cWx2N2F4RW81UlVyeldOQ2xhcXNTUHhwSHhGQWQ4d0tlMGFta1pvUndocDVJV2E1RmpFaHBlakcyZHFBNGN2eGd1T1FLQWpOd2Fjb0NPbDhjMjJ1VVZnUnI3RnR5VEp3ZjczUHdkMXlCVVpHc2pkM0ZrZHRzc3hlT3VpRVdTYWFkSUtlNW10Y3NwaHFKQUI5TXZxV3BF?oc=5)
+
+2026-09-09 <span class="news-indication-tag">tumor</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxPWnYzdTdmcGNKRkdYTW5TZy00dlNCVUtUY25RTVRjbWhMLWRhMTRfZ0k5SDRDZ3RmZUd5NndabUxCZU1vYk5JcElFdHhhQTFDczZIdG0tbnFXVzBIdjNaalRzalFabmQ5VTNGXzNWdFYxNXJCZ3dGMHVNRjhNTjRoT0ZLdUdPT3ZrZ1dMMHJ3SWc5dW82aVk5MHQ4VmVpcC1oczBxb1NBZkVWeU9aTVpsS0V5TUpNNzdBYnlXd3FJSzl2cnV3OFE3cHE0cTRTWkR2VlZUNnRQNlNEM3RIXzVWWGROX0J3VHU1TWFGUDByczRidnc5VkZKaHRRMzZnaG900gGcAkFVX3lxTFBTbWtyVy1pV0ZqUEZvUlNTbExscWNtUHFFeVZiTC11QkZXY2loLWdsVkFpVVR3UXFFRTBndVdLbGZYSmVmS0JuX2tReThjamlORG9uNnZMQnJSN09IbVFnTUhRUUstZXVrQ3duMllBODhhTGVHc3VTa3Y3bmw0XzJhSTdWOXF5cWx2N2F4RW81UlVyeldOQ2xhcXNTUHhwSHhGQWQ4d0tlMGFta1pvUndocDVJV2E1RmpFaHBlakcyZHFBNGN2eGd1T1FLQWpOd2Fjb0NPbDhjMjJ1VVZnUnI3RnR5VEp3ZjczUHdkMXlCVVpHc2pkM0ZrZHRzc3hlT3VpRVdTYWFkSUtlNW10Y3NwaHFKQUI5TXZxV3BF?oc=5)
+
+---
+
+### [Nach Krebsdiagnose steigt das Schlaganfallrisiko – aber nicht bei allen](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm9lbXJ6amozc1BuWjhqT0VHQjg1cGc3eUJOZUhLLW8yQkVETXdRMEg0eGQ0a1dHdTcwLTNOalNobDUwbDdWMzVIWnA1SGlKRVU4UUZCZ19QWktmdEtvUTZPZDFWR0Y0V2FIVklSZzRFVG1tanRhdzV3b2dkeWhETEJ1VHl2MTZyMDFQZHVSU0lGTnZORmJETmFwYnJhSHNqNEQzVElObkN3YVhyOWpJc2RmM19Xbnh1SngzdDJqQzhidmQxeGN2TDR3?oc=5)
+
+2026-09-09 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm9lbXJ6amozc1BuWjhqT0VHQjg1cGc3eUJOZUhLLW8yQkVETXdRMEg0eGQ0a1dHdTcwLTNOalNobDUwbDdWMzVIWnA1SGlKRVU4UUZCZ19QWktmdEtvUTZPZDFWR0Y0V2FIVklSZzRFVG1tanRhdzV3b2dkeWhETEJ1VHl2MTZyMDFQZHVSU0lGTnZORmJETmFwYnJhSHNqNEQzVElObkN3YVhyOWpJc2RmM19Xbnh1SngzdDJqQzhidmQxeGN2TDR3?oc=5)
 
 ---
 
@@ -86,11 +158,19 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Drinking very hot drinks could triple risk of oesophageal cancer, study finds - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTJFRWZVXzBBSWJldjVTMHR0blV5OFJCUjIzRHF0QVFic2NlbW9YXzk5TUZHa1NKR3h0N3BXUFZzV2VaeWJUWDhrRm5nY3dkYjFxdmhyU2tPVzlEVzkta1hTSVhGckZsc21mWEZZTlFFZEpJYWYyMVFlblBQTVRrOWxVajgxWGI5SVBoNGZiYXJWdjMzcmRyWUJJTEg?oc=5)
+### [Zu viel Vitamin B12: „Sehr kritisch“ – Ärztin warnt vor Überdosierung - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTN3dS1sQTNiMXJweGRxS1h0UjZIN0I5Z1piSHJjYm5WWldGWXBJVDE5dm9qZkVTTFBYa0FsMW81aVVNMGRCSHRYakhEVmcweGlLQm54cXRqeWg0WTQxdnZEYXBEZ2xhd0VtUU5YZWZURl9uMlBCZWd0T1dZc0FON0ZTeHdGR0hpNk44X1lCeXZwc2VROHgydlNDRFE2Z0F5dVgxTklSWGhFWTk1eVp4QVhaZWVFLV83?oc=5)
 
-2026-09-09 <span class="news-indication-tag">cancer</span>
+2026-09-09 <span class="news-indication-tag">Krebs</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTJFRWZVXzBBSWJldjVTMHR0blV5OFJCUjIzRHF0QVFic2NlbW9YXzk5TUZHa1NKR3h0N3BXUFZzV2VaeWJUWDhrRm5nY3dkYjFxdmhyU2tPVzlEVzkta1hTSVhGckZsc21mWEZZTlFFZEpJYWYyMVFlblBQTVRrOWxVajgxWGI5SVBoNGZiYXJWdjMzcmRyWUJJTEg?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTN3dS1sQTNiMXJweGRxS1h0UjZIN0I5Z1piSHJjYm5WWldGWXBJVDE5dm9qZkVTTFBYa0FsMW81aVVNMGRCSHRYakhEVmcweGlLQm54cXRqeWg0WTQxdnZEYXBEZ2xhd0VtUU5YZWZURl9uMlBCZWd0T1dZc0FON0ZTeHdGR0hpNk44X1lCeXZwc2VROHgydlNDRFE2Z0F5dVgxTklSWGhFWTk1eVp4QVhaZWVFLV83?oc=5)
+
+---
+
+### [Drinking very hot drinks could triple risk of oesophageal cancer, study finds](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTJFRWZVXzBBSWJldjVTMHR0blV5OFJCUjIzRHF0QVFic2NlbW9YXzk5TUZHa1NKR3h0N3BXUFZzV2VaeWJUWDhrRm5nY3dkYjFxdmhyU2tPVzlEVzkta1hTSVhGckZsc21mWEZZTlFFZEpJYWYyMVFlblBQTVRrOWxVajgxWGI5SVBoNGZiYXJWdjMzcmRyWUJJTEg?oc=5)
+
+2026-09-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTJFRWZVXzBBSWJldjVTMHR0blV5OFJCUjIzRHF0QVFic2NlbW9YXzk5TUZHa1NKR3h0N3BXUFZzV2VaeWJUWDhrRm5nY3dkYjFxdmhyU2tPVzlEVzkta1hTSVhGckZsc21mWEZZTlFFZEpJYWYyMVFlblBQTVRrOWxVajgxWGI5SVBoNGZiYXJWdjMzcmRyWUJJTEg?oc=5)
 
 ---
 
@@ -118,11 +198,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Darmkrebs-Prävention: 50 Gramm Vollkorn senken Risiko um 52%](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEpLRlA5RDV2Mm00LTJmQUcydEpON05veEdGRkFkcEJqMTcwNDJKSGdyQzRCZDRPV2tLbFB6T20tUEZMUEFTNk1uRFdUc19XWTFoOXdhajJkd3Q2cmhsekRKbEM2VDFmaDFmOG5wT0s0VnJ3b2FqOHlibXRKZklkYXc2MjJrdjBwTl9FMkZ0VHVXZVZ2Uk9tVHpuNm05MHc2QkVXTmZ0WWdwQm5XVHZjMzVkUTh1RzA?oc=5)
+### [Fettleber: Ketogene Diät reduziert Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
 
-2026-09-09 <span class="news-indication-tag">Krebs</span>
+2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEpLRlA5RDV2Mm00LTJmQUcydEpON05veEdGRkFkcEJqMTcwNDJKSGdyQzRCZDRPV2tLbFB6T20tUEZMUEFTNk1uRFdUc19XWTFoOXdhajJkd3Q2cmhsekRKbEM2VDFmaDFmOG5wT0s0VnJ3b2FqOHlibXRKZklkYXc2MjJrdjBwTl9FMkZ0VHVXZVZ2Uk9tVHpuNm05MHc2QkVXTmZ0WWdwQm5XVHZjMzVkUTh1RzA?oc=5)
+來源：[BornCity](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
 
 ---
 
@@ -131,14 +211,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-09-08 <span class="news-indication-tag">cancer</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMijwJBVV95cUxQNG9NZ3dDNlUwOHk0c3lQRDIxX3N1YTZ5NVpMa3BZQW9fM2ZieW5kRDhCem5qR0h0WnE1dVNXd0trV0pVNkRYSnQ3bk9FeFhiNmRUWVhSa1pFT1Z3Qng1TUxkUDVZeEthdk1qT2NOMm9DWU1YMkozVE5JdFR0aXdFWE9Wc1k5VE13WjV5aTdqSHlOczdEZjZVNEdzQjBQNnZpYlVsV2ZpZERjX1YxVUoyQXJhT2N5bXVPVzJhM2lsQnZFN3RWVGFZdF91aDE2Q1M3akhuX3Rmd1dhWW9ObFlpVEdqVkZGWENMd2l1c3AwY0xwRWw1OFpKbllYd0k0UFBRMTUyTktSdkNfMlplZjcw?oc=5)
-
----
-
-### [Fettleber: Ketogene Diät reduziert Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
-
-2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
 
 ---
 
@@ -182,11 +254,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [The Guardian view on skin cancer: fear the heat of the sun | Editorial - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
+### [The Guardian view on skin cancer: fear the heat of the sun | Editorial](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
 
 2026-09-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtSd3kxYTNtd0JkWkgxX0VpUkRpSlF0QWF1Q2V6N1dqX1kyMnA1UWJIbE4tcHlLVFdpVl9WV2w5ZjVyNXhnNHdRVllOMzJRSG94WmJnNG9SVlRKTEZNdXBQcDBZTERwa3BXTmlGNTBIbC1TVXoyTmd0Qk93bE5NUXI0UW0yV1hRSWRsOW9wNFVQSzBCSTdQbUhNUVNmTzhOekRsc2NvSVkwUmNzT1pYbw?oc=5)
 
 ---
 
@@ -238,14 +310,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’ - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
-
-2026-09-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">stroke</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
-
----
-
 ### [Prostatakrebs: Überlebensvorteil mit weniger gesättigten Fetten?](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFRaVnc1akNMb3VCNE5KbFhUM1RiRnB0OXZ6cnktWHJueTlSOFdHNUVqb0lrVTJUajJJYnNLdTZqSk9IemNPWVIwbWJzRFJ1bXY1emRQQTZVMko0b1BLSW4tN3dFOTVCOGU3VjJ6Q3QtV1ItZnBEU2dDQ2d1SE5wdXQyQzQzdGVWSlRCVXBydmhkdG8xajN6a2ZqQ0hiYmNvN1JLVC0tUEZjMUZHX0dmRWE1SQ?oc=5)
 
 2026-09-08 <span class="news-indication-tag">Krebs</span>
@@ -262,27 +326,19 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Tumore alla vescica: addio cistoscopia? Un test fai da te scova 9 casi su 10 - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjhSVGE1MnFUOUJLUEQ0bnZtdC05b3pNYkkzR01MNVlVM1dPX3JLUVZjaGZxWFdzZWpXTkZyMDNOUGEyV2JKdWNPamtsSHRhY2tJVzhKNEJvVGs1N3lnSi0zTTM4blZLTTJjbEZMLUVXcFdmZ2ZhZkZWY2NXT2dwdnEyQ1ZLQ0ZyRl83ckMyMUVnTWhnTEtIOWlRTUxyQjk0RVVpbUtMeWRDc0xCcUpEeTR2QW5DY2tXdDUyaFROVUI2cjl1UGl1dUNEbF85cVdVOGg1cGxaNWLSAcYBQVVfeXFMTUptQXdrOHltOHJyczZpUlhuZWo2TTZvdjRhLUNVbTJpV2lqcmlGd0dPNGV2TDMyZ1F6X2M2UFhwc3d1a3F1aTNxODJJZ19jNGJtekk2N05jRGV5M0RiUVFCclNZT0lpZF9jUWI3RWtnZmRLeGk1RWFHOS1qcDRVRkRwb2FWUEtkYjBoQ19US3g0LW9fSlpxeGFtOHlpRmY5X1FHT2hVU2txTXBBYk5IemdNa3N0OTIyU2xUYVhQc1R5b3Y4Y0Fn?oc=5)
-
-2026-09-08 <span class="news-indication-tag">tumor</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjhSVGE1MnFUOUJLUEQ0bnZtdC05b3pNYkkzR01MNVlVM1dPX3JLUVZjaGZxWFdzZWpXTkZyMDNOUGEyV2JKdWNPamtsSHRhY2tJVzhKNEJvVGs1N3lnSi0zTTM4blZLTTJjbEZMLUVXcFdmZ2ZhZkZWY2NXT2dwdnEyQ1ZLQ0ZyRl83ckMyMUVnTWhnTEtIOWlRTUxyQjk0RVVpbUtMeWRDc0xCcUpEeTR2QW5DY2tXdDUyaFROVUI2cjl1UGl1dUNEbF85cVdVOGg1cGxaNWLSAcYBQVVfeXFMTUptQXdrOHltOHJyczZpUlhuZWo2TTZvdjRhLUNVbTJpV2lqcmlGd0dPNGV2TDMyZ1F6X2M2UFhwc3d1a3F1aTNxODJJZ19jNGJtekk2N05jRGV5M0RiUVFCclNZT0lpZF9jUWI3RWtnZmRLeGk1RWFHOS1qcDRVRkRwb2FWUEtkYjBoQ19US3g0LW9fSlpxeGFtOHlpRmY5X1FHT2hVU2txTXBBYk5IemdNa3N0OTIyU2xUYVhQc1R5b3Y4Y0Fn?oc=5)
-
----
-
-### [Quasi 4 tumori su 10 dipendono da fattori che possiamo cambiare: ecco da dove cominciare](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcE9VT3JNVWxJSjJtYml1NWhaNThwM2xocVF6UTI0OHp1NlEzS0ZOZnJOZjQ1YzZEaHJORFBmd0NDVlJXcGdTSzZfYUJHM09oVHIxQzh1ODFTbTRiTUNxcGhkT3BGYkZHcEMzMVYyczFzaUhpLXpuQ2M2R3dwVE9Ubk1DYUwwVkZSeU9OamZxTVdydDVraW5rbHdWWVV4Zld6NkVYV29JQUY3elJrNDc5R0ZRTE5yRXZiTzlpMXBIRHpNM3NYN09zLVJOT2F0NmxDYWZNaw?oc=5)
-
-2026-09-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcE9VT3JNVWxJSjJtYml1NWhaNThwM2xocVF6UTI0OHp1NlEzS0ZOZnJOZjQ1YzZEaHJORFBmd0NDVlJXcGdTSzZfYUJHM09oVHIxQzh1ODFTbTRiTUNxcGhkT3BGYkZHcEMzMVYyczFzaUhpLXpuQ2M2R3dwVE9Ubk1DYUwwVkZSeU9OamZxTVdydDVraW5rbHdWWVV4Zld6NkVYV29JQUY3elJrNDc5R0ZRTE5yRXZiTzlpMXBIRHpNM3NYN09zLVJOT2F0NmxDYWZNaw?oc=5)
-
----
-
 ### [„Epidemie der Fettleber total unterschätzt“: 30 Millionen Menschen in Deutschland betroffen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
 
 2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
+
+---
+
+### [Xylitol Linked to Increased Long-Term Cardiovascular Risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
+
+2026-09-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
 
 ---
 
@@ -318,14 +374,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Più di mille varianti genetiche plasmano la personalità: lo studio che riscrive il rapporto tra DNA e carattere - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGd6bnBLUTlQTXVKMlNwM1VrM1pJZjlhaXdQeTJBWXBfenc4NmZ3cGQ5Mmh3aVR1VkxpVlJkRHh0OThPZTAwSU1ZWGY1dDJLck5SVDh1Y3Zta3BXX1gwQVlVek9DYllSbFFoLUJmTzl6ajVUeTlHNzBrQ1d3Nm9XUXNmUUEyTGRURlpDaERuN2pDcEIwTXVwVmpLQk9VNDlFZHRJNU1nUVZFcmV6VzYxYXBBZjdJbmMtYnpBUzcxMW10MWFDbjk4dzZocGpYVVJFbTc0NWlJOGxudw?oc=5)
-
-2026-09-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGd6bnBLUTlQTXVKMlNwM1VrM1pJZjlhaXdQeTJBWXBfenc4NmZ3cGQ5Mmh3aVR1VkxpVlJkRHh0OThPZTAwSU1ZWGY1dDJLck5SVDh1Y3Zta3BXX1gwQVlVek9DYllSbFFoLUJmTzl6ajVUeTlHNzBrQ1d3Nm9XUXNmUUEyTGRURlpDaERuN2pDcEIwTXVwVmpLQk9VNDlFZHRJNU1nUVZFcmV6VzYxYXBBZjdJbmMtYnpBUzcxMW10MWFDbjk4dzZocGpYVVJFbTc0NWlJOGxudw?oc=5)
-
----
-
 ### [Científicos reprograman células humanas para generar insulina y combatir la diabetes](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFUxZktiQ0QzdnRmbFB1OUtkSjZqZVQxQ0JCWkdnRjM4Rk9wU0lrU2VzSGpheVlFWXd6VHN4a2hjRzE2Q2c4Zko4UjZuakVxN0ZmMkE1Qkl3Ni16b0dsVGc5bnA0Zm90R3Zrc2d6eExVVFA3Y1p1UWxGS0s3ZDFfOHB1Zjl1aUFCYjRDRjFpM1RZanZHbW95bmNYdlNEVzdjc185cWJ4cHhzUjVLUkxvbndBOWhZZw?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span>
@@ -342,11 +390,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Un segnale di infarto può nascondersi sul viso: cos’è lo xantelasma e perché è considerato un indicatore](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzhhM0xrSUhYY1M5LTNyR29NZUJ3RlhIQlk3SGxNVWY5alhnaUhvUmVzb3hra1dvUEJHZHRhV0RkSEJMc0dBVWZMTkpWUGhNdFpyWDB4M3EzanE3WDYxT3hkY1RiZUItOHNscFJjN0EwV0lxZmtlR0lSV0xaenR4dXVFNGRweXRJRkcwMF9TTDZmMzVnMV9kRmpFWDhCU2d0V0RiQlZYQWhiTi1nYURISmRRQlFtdEl3X3hPZHAyZGFqUk1HYmQzd0twdUxxQkJPOXRjM1lPcXE1eXVhMEpN?oc=5)
+### [Quanto ereditiamo del nostro carattere - Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
 
-2026-09-07 <span class="news-indication-tag">asma</span>
+2026-09-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzhhM0xrSUhYY1M5LTNyR29NZUJ3RlhIQlk3SGxNVWY5alhnaUhvUmVzb3hra1dvUEJHZHRhV0RkSEJMc0dBVWZMTkpWUGhNdFpyWDB4M3EzanE3WDYxT3hkY1RiZUItOHNscFJjN0EwV0lxZmtlR0lSV0xaenR4dXVFNGRweXRJRkcwMF9TTDZmMzVnMV9kRmpFWDhCU2d0V0RiQlZYQWhiTi1nYURISmRRQlFtdEl3X3hPZHAyZGFqUk1HYmQzd0twdUxxQkJPOXRjM1lPcXE1eXVhMEpN?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
 
 ---
 
@@ -382,14 +430,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Newborn baby's nail infection led to brain tumour diagnosis - Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2QtLWpqN0k1TVdVN09uMldDU3RSd2U1X0w2WmlLeTZNN0NYMnNMcHFleTB5UWtILVU5SXkxNEx5MElvT2k4RWJRQ3lublRzaG16eFVmUGZ4VkVNRzJXdnl3Uks0MWxEYTZyZ3VONzcxOEJJQkxVaHUtRUJzMEI2T2xndFk1aXhLY2t4Yll6c0tlNVkySHhyZzZn?oc=5)
-
-2026-09-07 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2QtLWpqN0k1TVdVN09uMldDU3RSd2U1X0w2WmlLeTZNN0NYMnNMcHFleTB5UWtILVU5SXkxNEx5MElvT2k4RWJRQ3lublRzaG16eFVmUGZ4VkVNRzJXdnl3Uks0MWxEYTZyZ3VONzcxOEJJQkxVaHUtRUJzMEI2T2xndFk1aXhLY2t4Yll6c0tlNVkySHhyZzZn?oc=5)
-
----
-
 ### [Prescribe exercise for prostate cancer patients, study says - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakU3ZENtNnlQV1pOM3lVTXJuM1NFcEg3bTBjS0pycHN5QktJbXN1N0Y1X19Zclc2NEdmYlM4Nkp3LXBYdk41cFFDMENDYVdhSUV2UGJVSnhIZzlBeUlmX2FvZHg1SFlFVVF2eFYxNU5iY21wSjNnVnFjSndLTlR5bmYyYW45VU45T002NnE5RXRCZWlJNzdzWUhuYlRqWW92WjdmenhlVQ?oc=5)
 
 2026-09-06 <span class="news-indication-tag">cancer</span>
@@ -422,14 +462,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [New study uncovers bacterial route to testosterone production](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkV5Mlp1T3JrYXVGRXplYm5pa3haWGhRMWFVREJDQ1ZfOGJFdFl1cDZZOU1FTDBFa0ozNGNsNnVQdl81NUZXeUpaLVBSQ3VDWTViOUZKZ0ItZnRlZ0RoQkthVFpad0tXQm1kbDV4MUM5a2NDdWdEc1hOdEN6MmZIVTF1VUJ6UFdlZVBXWUtMMzJ3dzg3QkRqclMxa2tCd0hFTy1aYzBIdXkydkEzOGc?oc=5)
-
-2026-09-05 <span class="news-indication-tag">cancer</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkV5Mlp1T3JrYXVGRXplYm5pa3haWGhRMWFVREJDQ1ZfOGJFdFl1cDZZOU1FTDBFa0ozNGNsNnVQdl81NUZXeUpaLVBSQ3VDWTViOUZKZ0ItZnRlZ0RoQkthVFpad0tXQm1kbDV4MUM5a2NDdWdEc1hOdEN6MmZIVTF1VUJ6UFdlZVBXWUtMMzJ3dzg3QkRqclMxa2tCd0hFTy1aYzBIdXkydkEzOGc?oc=5)
-
----
-
 ### [Risiko für Typ-2-Diabetes abhängig vom Subtyp der Endometriose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnFjT0h3bDNsVmdnV1RRNXROOGtVdE1pMEpFbmxLc19fYlJKeVAxWWpjTXRFYUxhZjQ3WjI1Y2NiNUlqSkUxcW9RU2lmejdPTVE2Vl92U2c5ZEhLUHI3N3hCWjhIbFRZbDNLdl9MbTZXQVhVdEpLMG9ORnJ6TkhsenFTblJBS3N0Ri1oVmh5SmtwT3dNVERpZC1EalBtREFVcndENlMwWDZPdmljb1BnMzUxNWw3ZW5SSFZ3OXd6SkxvYlZpQThTQmdQSQ?oc=5)
 
 2026-09-03 <span class="news-indication-tag">diabetes</span>
@@ -450,7 +482,7 @@ permalink: /news/damoctocog-alfa-pegol/
 
 2026-09-03 <span class="news-indication-tag">tumor</span>
 
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQl9kdzNqVm5HdFMzaEZQczV2SFZfTWRxWWhTZ3pIc1VvR1QxRmdScWZwM20zS2JEZkI5UERmRmJJV0g0eVlyQlNpcnJnZDEwRjFIMUZrNDFTQ1NQWE54MkJWTEpkSGNHemRPTHFZQWFHVmtCcGw1UmtFUzlvTDc4QUJES3ZEUUJaMmVBcVZ2X0pXYl85cU11NzhIR2JtdjZQMmVNbG9LZ0tGX1dLdHJHazZRdHU5NHJiRmdKLVVSTzdSUldFZ0o3MDVR?oc=5)
+來源：[my-personaltrainer.it](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQl9kdzNqVm5HdFMzaEZQczV2SFZfTWRxWWhTZ3pIc1VvR1QxRmdScWZwM20zS2JEZkI5UERmRmJJV0g0eVlyQlNpcnJnZDEwRjFIMUZrNDFTQ1NQWE54MkJWTEpkSGNHemRPTHFZQWFHVmtCcGw1UmtFUzlvTDc4QUJES3ZEUUJaMmVBcVZ2X0pXYl85cU11NzhIR2JtdjZQMmVNbG9LZ0tGX1dLdHJHazZRdHU5NHJiRmdKLVVSTzdSUldFZ0o3MDVR?oc=5)
 
 ---
 

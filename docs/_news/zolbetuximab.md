@@ -54,19 +54,19 @@ permalink: /news/zolbetuximab/
 
 ## 相關新聞（13 則）
 
+### [Statine im Alter: 30% weniger Herzinfarkte bei über 70-Jährigen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+
+2026-09-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+
+---
+
 ### [La dieta que logra reducir un 67% la grasa del hígado y puede ayudar a revertir la prediabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[20Minutos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
-
----
-
-### [Typ-2-Diabetes: Frühe Statintherapie senkt Demenzrisiko um 15%](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVl0emxpLWtpQ1Vock4zRHBhcElXYVBLWXN4MnhHN2doVW12Zzk4YXVJV1VlTTRHRHBhVS1TSXdzSzhwaExfR1owWGIwdVlpaU9QblBCQnZBbVpFeTk2blp6Qm9nVHlIa2YwaUdnSGVSUm9zS2xCd3RnXzVVMDRDbGdVMDVtcTJGUDNEQWh5UUZ3dHdzRlc5YkktbnludHB1RlhUbmZQWHRTOWZuZDFjMV9jV0ZmdEdwaHc?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVl0emxpLWtpQ1Vock4zRHBhcElXYVBLWXN4MnhHN2doVW12Zzk4YXVJV1VlTTRHRHBhVS1TSXdzSzhwaExfR1owWGIwdVlpaU9QblBCQnZBbVpFeTk2blp6Qm9nVHlIa2YwaUdnSGVSUm9zS2xCd3RnXzVVMDRDbGdVMDVtcTJGUDNEQWh5UUZ3dHdzRlc5YkktbnludHB1RlhUbmZQWHRTOWZuZDFjMV9jV0ZmdEdwaHc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [17 millions de personnes touchées en France : l’Assurance maladie lance une campagne pour sensibiliser à l’hypertension - Orange Actualités](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcXhlc0l5X0ktU0VjcDNPRjg4WGxNYmNlQXhxaFpYbEJOVkdkZDQ3cTNDRXhVbWc3TlVnN0VDck9SdU12eGdtekhJMG5SbWF4N19lQnpMU0EtVXRnY2xXNnBNOHNWSFZZMnlSU19kRmw4TDdtbmJHOEJQM25IVDgwSzRkQ1NCd2k1YmMyUFdLOGdqU2Z5RmRSVXk1VVpZenJwdlNvVm45ZEJrX3JEcEgwUFJqZTdZZm5HRFRXY0p3UlVDN1lZLW43WDZkZUk0aG1QYkV5d3l1S1QxMDZ4czB3TU0tOGxoV1lWVzgwLXdmdklLWE14X3hTOGJweTlPYldBMXFN?oc=5)
+### [Hypertension : l'Assurance Maladie lance un nouveau réflexe de 2 minutes qui fait gagner des années de vie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
 
-2026-09-08 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+2026-09-08 <span class="news-indication-tag">hypertension</span>
 
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcXhlc0l5X0ktU0VjcDNPRjg4WGxNYmNlQXhxaFpYbEJOVkdkZDQ3cTNDRXhVbWc3TlVnN0VDck9SdU12eGdtekhJMG5SbWF4N19lQnpMU0EtVXRnY2xXNnBNOHNWSFZZMnlSU19kRmw4TDdtbmJHOEJQM25IVDgwSzRkQ1NCd2k1YmMyUFdLOGdqU2Z5RmRSVXk1VVpZenJwdlNvVm45ZEJrX3JEcEgwUFJqZTdZZm5HRFRXY0p3UlVDN1lZLW43WDZkZUk0aG1QYkV5d3l1S1QxMDZ4czB3TU0tOGxoV1lWVzgwLXdmdklLWE14X3hTOGJweTlPYldBMXFN?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ permalink: /news/thyrotropin-alfa/
 
 ---
 
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
+### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 2026-09-07 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
----
-
-### [Ecco quando il mal di testa è un campanello d’allarme - il Giornale](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVFsSlFXcE9lSTVva1NpbTI4cDVMVmZsZzY0My1aWXluUEU5M3dxcXAxLWNYMjlZYWY4NVIxYWwxTjV3eFp6cDdZTGctMnJRb00wU3p5Q3gwdVJrWl9hWEVvdlQ2cGY3b2lTVVZlb0pYMldBUEdLMkJFT3R6N3J6cl9tdGo4dUR6S2NUaVRMWk1ZcVUzNmZaaF9R?oc=5)
-
-2026-09-07 <span class="news-indication-tag">emicrania</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVFsSlFXcE9lSTVva1NpbTI4cDVMVmZsZzY0My1aWXluUEU5M3dxcXAxLWNYMjlZYWY4NVIxYWwxTjV3eFp6cDdZTGctMnJRb00wU3p5Q3gwdVJrWl9hWEVvdlQ2cGY3b2lTVVZlb0pYMldBUEdLMkJFT3R6N3J6cl9tdGo4dUR6S2NUaVRMWk1ZcVUzNmZaaF9R?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

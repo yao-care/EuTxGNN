@@ -14,7 +14,7 @@ permalink: /news/tiratricol/
 ---
 
 <p class="key-answer" data-question="Tiratricol 有什麼相關新聞？">
-<strong>Tiratricol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tiratricol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tiratricol/
 <p><a href="{{ '/drugs/tiratricol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Ecco quando il mal di testa è un campanello d’allarme - il Giornale](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVFsSlFXcE9lSTVva1NpbTI4cDVMVmZsZzY0My1aWXluUEU5M3dxcXAxLWNYMjlZYWY4NVIxYWwxTjV3eFp6cDdZTGctMnJRb00wU3p5Q3gwdVJrWl9hWEVvdlQ2cGY3b2lTVVZlb0pYMldBUEdLMkJFT3R6N3J6cl9tdGo4dUR6S2NUaVRMWk1ZcVUzNmZaaF9R?oc=5)
-
-2026-09-07 <span class="news-indication-tag">emicrania</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVFsSlFXcE9lSTVva1NpbTI4cDVMVmZsZzY0My1aWXluUEU5M3dxcXAxLWNYMjlZYWY4NVIxYWwxTjV3eFp6cDdZTGctMnJRb00wU3p5Q3gwdVJrWl9hWEVvdlQ2cGY3b2lTVVZlb0pYMldBUEdLMkJFT3R6N3J6cl9tdGo4dUR6S2NUaVRMWk1ZcVUzNmZaaF9R?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [New Migraine Prevention Guidelines Released](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
 

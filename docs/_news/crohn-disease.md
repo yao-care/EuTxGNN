@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（2 則）
 
-### [Morbus Crohn: Genetischer Marker HLA-DRB1*01:03 prognostiziert schwere Verläufe](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
+### [Morbus Crohn: Genetischer Marker HLA-DRB1*01:03 prognostiziert schwere Verläufe - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
 
 2026-09-09
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxObFZwRnEtRTNKZkFSSVhZRGtONVdqWU12a1U2b0NsZWNKVnVSUm1qc3JpMmNqaFhuVXdKTXVxS3luOGtsNnJPTndvQW81bkVnTUdvcmtKdXNSVHkwcy1QSUxtZzV2b3lmbzJZeE1UN1hoN0U2LURkU0NBbUNBenhDckFKblF2cHF2Um56YXJETFk4TUw2NzZ4Q1hJWnRrNDZCRnR6VVFBbjk3aHQzaFhPUkQzbnZ1TkNPc3c?oc=5)
 
 ---
 
