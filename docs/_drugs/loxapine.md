@@ -1,134 +1,122 @@
 ---
 layout: default
 title: Loxapine
-description: "loxapine drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 354
+parent: 僅模型預測 (L5)
+nav_order: 366
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Loxapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Loxapine: From Schizophrenia to Manic Bipolar Affective Disorder
+
+## One-Sentence Summary
+
+> Loxapine is a first-generation (typical) antipsychotic of the dibenzoxazepine class, originally used for schizophrenia.
+> The TxGNN model predicts it may be effective for **Manic Bipolar Affective Disorder**,
+> with **20 publications** — including data from Phase III RCTs — currently supporting this direction, though no clinical trials are indexed under this specific predicted indication in this evidence pack.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Loxapine |
-| DrugBank ID | [DB00408](https://go.drugbank.com/drugs/DB00408) |
-| Brand Names (EU) | Adasuve |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.99% |
+| Item | Content |
+|------|------|
+| Original Indication | Schizophrenia (first-generation/typical antipsychotic) |
+| Predicted New Indication | Manic Bipolar Affective Disorder |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L1 |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Adasuve is indicated for the rapid control of mild-to-moderate agitation in adult patients with schizophrenia or bipolar disorder. Patients should receive regular treatment immediately after control of acute agitation symptoms.
+Loxapine is a dibenzoxazepine-class typical antipsychotic with strong D2 dopamine and 5-HT2A serotonin receptor antagonism — a mechanism shared with other antipsychotics used in mania management (e.g., olanzapine, risperidone). No structured MOA field is available from the regulatory source for this candidate, but the mechanistic rationale behind this prediction is well documented in the supporting literature.
 
----
+Schizophrenia and bipolar mania are both psychotic-spectrum conditions with overlapping dopaminergic dysregulation, which is why antipsychotics developed for one indication are frequently repurposed for the other. In fact, an inhaled formulation of loxapine (Adasuve®) has already been approved in the US and EU for the acute treatment of agitation in both schizophrenia **and** bipolar I disorder, lending real-world clinical precedent to the TxGNN prediction.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | manic bipolar affective disorder | 99.99% | DL |
-| 2 | schizophrenia | 99.97% | DL |
-| 3 | retinal dystrophy with or without extraocular anomalies | 99.95% | DL |
-| 4 | hydranencephaly (disease) | 99.93% | DL |
-| 5 | myopia X-linked | 99.93% | DL |
-| 6 | congenital disorder of glycosylation with defective fucosylation | 99.92% | DL |
-| 7 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 99.92% | DL |
-| 8 | myopia 26, X-linked, female-limited | 99.92% | DL |
-| 9 | polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.92% | DL |
-| 10 | syndromic myopia | 99.92% | DL |
-| 11 | atypical glycine encephalopathy | 99.90% | DL |
-| 12 | bipolar disorder | 99.84% | DL |
-| 13 | major affective disorder | 99.82% | DL |
-| 14 | distal 17p13.3 microdeletion syndrome | 99.78% | DL |
-| 15 | attention deficit hyperactivity disorder, inattentive type | 99.61% | DL |
-| 16 | hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome | 99.61% | DL |
-| 17 | anxiety disorder | 99.56% | DL |
-| 18 | attention deficit-hyperactivity disorder | 99.49% | DL |
-| 19 | Malan overgrowth syndrome | 99.45% | DL |
-| 20 | benign paroxysmal torticollis of infancy | 99.42% | DL |
-
-*Showing top 20 of 50 predictions.*
+One caveat: the bulk of the supporting evidence concerns loxapine's use in controlling **acute agitation** in the context of bipolar disorder, rather than treatment of the manic episode itself. These are overlapping but not fully equivalent clinical targets, and this distinction should be considered when interpreting the evidence level.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## About TxGNN Predictions
+Currently no related clinical trials registered under this specific predicted indication.
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+*(Note: several literature entries below reference two completed Phase III RCTs — NCT00628589 and NCT00721955 — but these were not independently captured in the structured clinical trial evidence for this candidate.)*
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29724638](https://pubmed.ncbi.nlm.nih.gov/29724638/) | 2018 | RCT | Eur Neuropsychopharmacol | PLACID trial: inhaled loxapine vs. IM aripiprazole in acutely agitated patients with schizophrenia or bipolar I disorder |
+| [22226343](https://pubmed.ncbi.nlm.nih.gov/22226343/) | 2012 | RCT (pooled analysis) | Int J Clin Pract | Effect-size analysis from 2 Phase III RCTs of inhaled loxapine for agitation in schizophrenia/bipolar disorder |
+| [29163985](https://pubmed.ncbi.nlm.nih.gov/29163985/) | 2017 | RCT (post-hoc) | BJPsych Open | PANSS-EC responder analysis from two Phase III RCTs (NCT00628589, NCT00721955) in schizophrenia and bipolar I agitation |
+| [28376877](https://pubmed.ncbi.nlm.nih.gov/28376877/) | 2017 | RCT (protocol) | BMC Psychiatry | Study design of the PLACID trial comparing inhaled loxapine vs. IM aripiprazole for acute agitation |
+| [23740380](https://pubmed.ncbi.nlm.nih.gov/23740380/) | 2013 | Review | CNS Drugs | Comprehensive review of inhaled loxapine (Adasuve), approved in the US/EU for acute agitation in bipolar disorder/schizophrenia |
+| [27121764](https://pubmed.ncbi.nlm.nih.gov/27121764/) | 2016 | Review | Curr Med Res Opin | Review of inhaled loxapine for urgent treatment of acute agitation in schizophrenia/bipolar disorder |
+| [31496709](https://pubmed.ncbi.nlm.nih.gov/31496709/) | 2019 | Review | Neuropsychiatr Dis Treat | Safety, efficacy, and patient acceptability of inhaled loxapine for acute agitation in schizophrenia/bipolar I disorder |
+| [38301034](https://pubmed.ncbi.nlm.nih.gov/38301034/) | 2024 | Review | Prim Care Companion CNS Disord | Alternative approaches for managing acute agitation in schizophrenia and bipolar disorder |
+| [37581475](https://pubmed.ncbi.nlm.nih.gov/37581475/) | 2023 | Review | Expert Opin Pharmacother | Improving pharmacotherapeutic treatment of agitation associated with bipolar disorder |
+| [35913401](https://pubmed.ncbi.nlm.nih.gov/35913401/) | 2022 | Review | Expert Rev Neurother | 50 years of experience with loxapine for rapid non-coercive tranquilization of acute behavioral disturbances |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No marketing authorizations are on record for this candidate. Market status is currently **Not Marketed** (0 authorizations), so no license table is available.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+Literature evidence — including two completed Phase III RCTs and a dedicated head-to-head trial (PLACID) — supports loxapine's efficacy in acute agitation associated with bipolar I disorder, and an inhaled formulation is already approved for this use elsewhere. However, the evidence centers on agitation control rather than core manic symptom treatment, and critical safety/regulatory data are still missing.
+
+**To proceed, the following is needed:**
+- TFDA/SmPC warnings and contraindications data (currently a blocking data gap, DG001)
+- Confirmed mechanism-of-action documentation from DrugBank (DG002)
+- Formal linkage of the referenced Phase III trials (NCT00628589, NCT00721955) into structured clinical trial evidence
+- Clarification of indication scope: "acute agitation in bipolar disorder" vs. treatment of the manic episode itself
+- Confirmation of intended marketing/authorization pathway, given the drug is currently not marketed in this jurisdiction
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

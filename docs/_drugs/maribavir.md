@@ -1,132 +1,95 @@
 ---
 layout: default
 title: Maribavir
-description: "Maribavir drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 364
+parent: 僅模型預測 (L5)
+nav_order: 376
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Maribavir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Maribavir: From CMV-Targeted Antiviral Therapy to Bronchitis (Predicted)
+
+## One-Sentence Summary
+
+> Maribavir is a UL97 kinase inhibitor developed to block cytomegalovirus (CMV) replication; it is not currently marketed in this jurisdiction and no approved indication is on file.
+> The TxGNN model predicts a possible link to **Bronchitis**, but this ranks among the model's lowest-confidence outputs, with **0 clinical trials** and **0 publications** currently supporting the direction — and the evidence pack's own rationale notes no known biological connection between CMV suppression and bronchitis pathology.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Maribavir |
-| DrugBank ID | [DB06234](https://go.drugbank.com/drugs/DB06234) |
-| Brand Names (EU) | Livtencity |
+| Item | Content |
+|------|------|
+| Original Indication | Not on file (drug not marketed; no approved indication text available) |
+| Predicted New Indication | Bronchitis |
+| TxGNN Prediction Score | 87.79% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 87.79% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action documentation is a flagged data gap (DG002, High severity). However, the evidence pack's repurposing rationale indicates Maribavir is a **UL97 kinase inhibitor**, acting specifically against cytomegalovirus (CMV) replication — a narrow, virus-specific mechanism rather than a broad antimicrobial or anti-inflammatory action.
+
+The rationale explicitly states there is **no known mechanistic link** between CMV replication inhibition and bronchitis, which is typically driven by bacterial/viral respiratory pathogens (often unrelated to CMV) or allergic inflammation. The evidence pack attributes the TxGNN score to likely indirect associations between viral-disease and respiratory-disease nodes within the knowledge graph, rather than a substantiated biological hypothesis.
+
+This same pattern holds across all ten ranked predictions in this candidate set (bronchitis, diabetic retinopathy variants, filariasis, and several GI neoplasms) — each rationale independently notes the absence of a plausible mechanistic connection to Maribavir's CMV-targeted activity. This is a strong signal that the current prediction batch reflects model-level associations rather than biologically grounded repurposing candidates.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## EU Market Information
+
+Maribavir is **not currently marketed** in this jurisdiction (0 authorizations on file), so no marketing authorization details are available for review.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*Note: TFDA/regulatory label warnings and contraindications (DG001) are flagged as a **Blocking** data gap — safety data cannot currently support a formal S1 safety screen.*
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- All ten TxGNN-predicted indications for Maribavir are Evidence Level L5 (model prediction only) with zero supporting clinical trials or literature, and the model's own mechanistic rationale for the top candidate (bronchitis) states no known biological plausibility exists.
+- A Blocking data gap (DG001 — missing TFDA warnings/contraindications) independently prevents progression to the S1 safety review stage regardless of indication-level evidence.
+
+**To proceed, the following is needed:**
+- Resolve DG001: obtain TFDA (or applicable regulatory) label warnings and contraindications
+- Resolve DG002: confirm detailed mechanism-of-action documentation via DrugBank API
+- Generate or identify preclinical/mechanistic literature specifically linking CMV/UL97 pathway modulation to bronchitis (or a higher-ranked, mechanistically plausible indication) before advancing beyond S0
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-LIVTENCITY is indicated for the treatment of cytomegalovirus (CMV) infection and/or disease that are refractory (with or without resistance) to one or more prior therapies, including ganciclovir, valganciclovir, cidofovir or foscarnet in adult patients who have undergone a haematopoietic stem cell transplant (HSCT) or solid organ transplant (SOT). Consideration should be given to official guidance on the appropriate use of antiviral agents.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | bronchitis | 87.79% | DL |
-| 2 | severe nonproliferative diabetic retinopathy | 79.11% | DL |
-| 3 | bronchial neoplasm (disease) | 77.78% | DL |
-| 4 | diabetic retinopathy | 76.24% | DL |
-| 5 | filariasis | 74.26% | DL |
-| 6 | rectosigmoid junction neoplasm | 73.41% | DL |
-| 7 | colonic lymphangioma | 73.32% | DL |
-| 8 | lipoma of colon | 73.23% | DL |
-| 9 | cecum neuroendocrine tumor G1 | 73.13% | DL |
-| 10 | cecum villous adenoma | 73.07% | DL |
-| 11 | cecal disease | 73.07% | DL |
-| 12 | colonic neoplasm | 72.96% | DL |
-| 13 | cavernous hemangioma of colon | 72.95% | DL |
-| 14 | colon leiomyoma | 72.94% | DL |
-| 15 | benign neoplasm of cecum | 72.92% | DL |
-| 16 | indolent plasma cell myeloma | 72.73% | DL |
-| 17 | dermatitis | 72.65% | DL |
-| 18 | plasma cell myeloma | 72.38% | DL |
-| 19 | diabetic cataract | 71.82% | DL |
-| 20 | ductal or ductular proliferation | 71.70% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

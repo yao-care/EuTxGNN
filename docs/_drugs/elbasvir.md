@@ -1,134 +1,131 @@
 ---
 layout: default
 title: Elbasvir
-description: "elbasvir drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 198
+parent: 僅模型預測 (L5)
+nav_order: 207
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Elbasvir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Elbasvir: From Chronic Hepatitis C to Hepatitis B Virus Infection
+
+## One-Sentence Summary
+
+Elbasvir is an HCV NS5A inhibitor, marketed in combination with grazoprevir (Zepatier®) for chronic hepatitis C genotypes 1, 4, and 6.
+The TxGNN model predicts it may be effective for **Hepatitis B Virus Infection**, with a **99.71% prediction score**,
+but the **13 clinical trials** and **18 publications** retrieved are all existing HCV studies — none evaluate Elbasvir against HBV, and the evidence pack's own mechanistic review concludes there is **no direct mechanistic support** for this repurposing.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Elbasvir |
-| DrugBank ID | [DB11574](https://go.drugbank.com/drugs/DB11574) |
-| Brand Names (EU) | Elbasvir |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.94% |
+| Item | Content |
+|------|------|
+| Original Indication | Chronic Hepatitis C (genotype 1, 4, 6) — as Elbasvir/Grazoprevir combination (Zepatier®); inferred from evidence-pack literature, not recorded in the regulatory dataset |
+| Predicted New Indication | Hepatitis B Virus Infection |
+| TxGNN Prediction Score | 99.71% |
+| Evidence Level | L4 (per evidence-pack scoring; see caveat below) |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-ZEPATIER is indicated for the treatment of chronic hepatitis C (CHC) in adult and paediatric patients 12 years of age and older who weigh at least 30 kg (see sections 4.2, 4.4 and 5.1). For hepatitis C virus (HCV) genotype-specific activity see sections 4.4 and 5.1.
+Detailed, formally sourced MOA data (e.g., from a DrugBank API query) is currently a flagged data gap (DG002). Based on information recoverable from the evidence pack's own literature and trial descriptions, Elbasvir is an **HCV NS5A protein inhibitor**, acting on the HCV replication complex; it is marketed only in fixed-dose combination with grazoprevir (Zepatier®) for chronic HCV genotype 1/4/6 infection.
 
----
+Hepatitis B virus, however, belongs to the *Hepadnaviridae* family and replicates via reverse transcription of a covalently closed circular DNA (cccDNA) template — a mechanism entirely distinct from HCV's positive-strand RNA replication complex, and HBV has no NS5A-homologous target. The evidence pack's own repurposing rationale states this explicitly: *"HBV has no NS5A-homologous target; the replication mechanisms are entirely different. No direct mechanistic support exists."*
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | chronic hepatitis C virus infection | 99.94% | DL |
-| 2 | hepatitis C virus infection | 99.80% | DL |
-| 3 | hepatitis B virus infection | 99.71% | DL |
-| 4 | hepatitis E virus infection | 99.66% | DL |
-| 5 | hepatitis A virus infection | 99.65% | DL |
-| 6 | hepatitis, viral, animal | 99.65% | DL |
-| 7 | Omsk hemorrhagic fever | 99.64% | DL |
-| 8 | Kyasanur forest disease | 99.63% | DL |
-| 9 | HIV infectious disease | 99.61% | DL |
-| 10 | feline acquired immunodeficiency syndrome | 99.46% | DL |
-| 11 | simian immunodeficiency virus infection | 99.46% | DL |
-| 12 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 99.32% | DL |
-| 13 | fibroma of prostate | 98.24% | DL |
-| 14 | benign reproductive system neoplasm | 98.12% | DL |
-| 15 | Brenner tumor | 98.12% | DL |
-| 16 | benign prostate phyllodes tumor | 98.06% | DL |
-| 17 | male reproductive organ cancer | 97.77% | DL |
-| 18 | chronic hepatitis B virus infection | 97.71% | DL |
-| 19 | prostate leiomyoma | 97.43% | DL |
-| 20 | obsolete familial combined hyperlipidemia | 97.37% | DL |
-
-*Showing top 20 of 50 predictions.*
+Consistent with this, all 13 clinical trials retrieved for this pairing are existing Elbasvir/Grazoprevir (or related MK-5172/MK-8742) HCV studies — none tested Elbasvir in HBV patients or HBV models. This is best read as a **TxGNN embedding-space association** (both are viral hepatitis targets in the knowledge graph) rather than a mechanism- or evidence-backed repurposing signal.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## About TxGNN Predictions
+*Note: relevance grading in the evidence pack marks these trials "C" (low relevance) — they are HCV studies retrieved under the HBV query and do not test Elbasvir against HBV. Included here for completeness/audit trail.*
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02940496](https://clinicaltrials.gov/study/NCT02940496) | Phase 2 | Completed | 15 | Pembrolizumab (not Elbasvir) in HCV+/- HCC patients; unrelated to HBV |
+| [NCT03423641](https://clinicaltrials.gov/study/NCT03423641) | N/A | Completed | 33,808 | DAA safety database study in HCV patients; not an HBV study |
+| [NCT02105688](https://clinicaltrials.gov/study/NCT02105688) | Phase 3 | Completed | 301 | Grazoprevir/Elbasvir in HCV GT1/4/6 patients on opiate substitution therapy; HCV, not HBV |
+| [NCT01932762](https://clinicaltrials.gov/study/NCT01932762) | Phase 2 | Completed | 98 | Grazoprevir ± Elbasvir ± ribavirin in chronic HCV GT2/4/5/6; HCV, not HBV |
+| [NCT03797066](https://clinicaltrials.gov/study/NCT03797066) | Phase 4 | Terminated | 13 | Zepatier (Grazoprevir/Elbasvir) point-of-care testing in homeless HCV patients; HCV, not HBV |
+| [NCT03110055](https://clinicaltrials.gov/study/NCT03110055) | N/A | Unknown | 20 | Zepatier + TACE vs. TACE alone in HCV-related HCC; HCV, not HBV |
+| [NCT02332707](https://clinicaltrials.gov/study/NCT02332707) | Phase 2 | Completed | 443 | Grazoprevir/Uprifosbuvir + Elbasvir/Ruzasvir in chronic HCV GT1/2; HCV, not HBV |
+| [NCT02332720](https://clinicaltrials.gov/study/NCT02332720) | Phase 2 | Completed | 413 | Same regimen in chronic HCV GT3/4/5/6; HCV, not HBV |
+| [NCT03823911](https://clinicaltrials.gov/study/NCT03823911) | Phase 4 | Completed | 87 | Cardiovascular risk after HCV eradication in HIV/HCV patients; HCV, not HBV |
+| [NCT02600325](https://clinicaltrials.gov/study/NCT02600325) | Phase 3 | Completed | 80 | Grazoprevir/Elbasvir in acute HCV GT1/4 (Dutch DAHHS-2 study); HCV, not HBV |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+*Note: none of the retrieved publications report direct evidence of Elbasvir efficacy in HBV; most are HCV-focused reviews that mention HBV only in passing (e.g., comparative epidemiology or drug-pricing context).*
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [25529080](https://pubmed.ncbi.nlm.nih.gov/25529080/) | 2015 | Review | Liver International | Discusses progress toward HCV eradication and a functional HBV cure as parallel but distinct goals; no Elbasvir–HBV data |
+| [26904396](https://pubmed.ncbi.nlm.nih.gov/26904396/) | 2016 | Review | Acta Pharm. Sin. B | Explicitly contrasts HCV (curable via DAAs targeting NS3/4A, NS5B, NS5A) with HBV, which lacks these targets |
+| [31114957](https://pubmed.ncbi.nlm.nih.gov/31114957/) | 2019 | Review | Clinical Pharmacokinetics | 2019 update on licensed HCV DAA regimens including elbasvir/grazoprevir; no HBV content |
+| [30049677](https://pubmed.ncbi.nlm.nih.gov/30049677/) | 2018 | Review/Case report | BMJ Case Reports | HCV extrahepatic manifestations (dermatomyositis case); unrelated to HBV |
+| [40414600](https://pubmed.ncbi.nlm.nih.gov/40414600/) | 2025 | Review | Annals of Hepatology | Cross-sectional comparison of HBV vs. HCV antiviral drug pricing; not an efficacy study |
+| [41734217](https://pubmed.ncbi.nlm.nih.gov/41734217/) | 2025 | Retrospective (pending classification) | Klin Mikrobiol Infekc Lek | Retrospective review of antiviral treatment for chronic HBV **and** HCV in children (Ostrava); does not isolate Elbasvir/HBV data |
+| [34298832](https://pubmed.ncbi.nlm.nih.gov/34298832/) | 2021 | Review (pending classification) | Cancers | HCC in chronic kidney disease, largely HCV-driven cohorts; not HBV/Elbasvir-specific |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EU marketing authorization is on record for Elbasvir in this evidence pack (`market_status: 未上市 / Not Marketed`, `total_licenses: 0`). This is a significant data gap: it means no SmPC-derived safety, dosing, or indication text is available from the regulatory dataset for this candidate, and it should be independently verified before further evaluation (Elbasvir is known to have been marketed historically only as the fixed-dose combination Zepatier® with grazoprevir).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (No key warnings, contraindications, or drug-interaction data were returned in this evidence pack — DDI query status: not found.)
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The evidence pack's own mechanistic review rules out a plausible pharmacological basis for this pairing — HBV has no NS5A-homologous target, and its reverse-transcription/cccDNA replication mechanism is fundamentally different from HCV. All 13 clinical trials and the literature retrieved are existing HCV (Elbasvir/Grazoprevir) studies misattributed to the HBV query, not genuine HBV evidence. Combined with the absence of any EU marketing authorization on file, there is no basis to advance this candidate beyond a Hold.
+
+**To proceed, the following is needed:**
+- Formal MOA confirmation via DrugBank API (currently blocking — DG002)
+- TFDA/EMA label (SmPC) warnings and contraindications, currently a blocking data gap for safety screening (DG001)
+- Verification of actual EU marketing-authorization status (the "not marketed" record here should be cross-checked against Zepatier's historical EU approval/withdrawal history)
+- If pursued further: genuine preclinical or in-vitro evidence of NS5A-independent anti-HBV activity for Elbasvir, since no such studies currently exist in the collected evidence
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

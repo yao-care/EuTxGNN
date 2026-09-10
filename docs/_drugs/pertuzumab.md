@@ -1,134 +1,120 @@
 ---
 layout: default
 title: Pertuzumab
-description: "pertuzumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 456
+parent: 僅模型預測 (L5)
+nav_order: 468
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Pertuzumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using no additional skill — this is a direct content-generation task with an already fully specified template; I'll follow it exactly against the supplied Evidence Pack.
+
+A few data-fidelity notes before the report: `predicted_indications[0]` is **"normal breast-like subtype of breast carcinoma"**, which per the pack's own `repurposing_rationale` is flagged as a likely TxGNN over-generalization artifact (L4/Hold), not the strongest candidate in the pack (ranks 2–3 have L1/Proceed-with-Guardrails evidence, but those are PR-status stratifications of Pertuzumab's *existing* approved indication, not a new indication). I've followed the instruction to build the report around `predicted_indications[0]` as specified, and flagged this context where relevant so the report isn't misleading.
+
+---
+
+# Pertuzumab: From HER2-Positive Breast Cancer to Normal Breast-Like Subtype of Breast Carcinoma
+
+## One-Sentence Summary
+
+> Pertuzumab is a HER2-targeted monoclonal antibody whose approved use is referenced throughout the evidence pack as HER2-positive breast cancer (structured indication/MOA fields are a data gap in this pack).
+> The TxGNN model's top-ranked prediction is **normal breast-like (PAM50 "normal-like") subtype of breast carcinoma**,
+> but **0 of the 6 identified clinical trials specifically enrolled this subtype**, and **no supporting literature** was found — the biological rationale is weak and possibly contradictory to the drug's mechanism.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Pertuzumab |
-| DrugBank ID | [DB06366](https://go.drugbank.com/drugs/DB06366) |
-| Brand Names (EU) | Perjeta |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.97% |
+| Item | Content |
+|------|------|
+| Original Indication | HER2-positive breast cancer (inferred from evidence annotations; structured license/indication data is a data gap) |
+| Predicted New Indication | Normal breast-like subtype of breast carcinoma |
+| TxGNN Prediction Score | 99.93% |
+| Evidence Level | L4 |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap in this pack). Based on the available context, Pertuzumab is a HER2-targeted monoclonal antibody used in HER2-positive breast cancer, where it blocks HER2 domain II-mediated heterodimerization (notably with HER3), complementing trastuzumab's mechanism.
+
+The predicted indication, however, raises a biological concern: PAM50 "normal-like" breast carcinoma is a subtype typically characterized as **low-proliferation and HER2-negative leaning**, which sits awkwardly against an anti-HER2 mechanism of action. This mismatch is explicitly noted in the pack's own scoring rationale.
+
+Consistent with this concern, all six identified clinical trials are general HER2-positive neoadjuvant treatment studies (T-DXd trials, vaccine combinations, precision-medicine platforms) — none specifically enrolled or stratified for the "normal-like" molecular subtype. The most plausible explanation is that TxGNN's knowledge-graph embedding over-generalized "breast cancer" trial evidence across molecular subtypes that are not mechanistically interchangeable. This prediction should be treated as **hypothesis-generating only**, not as an actionable repurposing signal.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT05900206](https://clinicaltrials.gov/study/NCT05900206) | Phase 2 | Recruiting | 370 | Trastuzumab deruxtecan (T-DXd) vs. standard preoperative treatment in HER2+ breast cancer; biology-driven neoadjuvant selection (ARIADNE) — general HER2+ trial, no normal-like subtype stratification |
+| [NCT01796197](https://clinicaltrials.gov/study/NCT01796197) | Phase 2 | Completed | 23 | Paclitaxel + trastuzumab + pertuzumab as preoperative therapy for inflammatory breast cancer; small sample, general HER2+ population |
+| [NCT04329065](https://clinicaltrials.gov/study/NCT04329065) | Phase 2 | Recruiting | 25 | WOKVAC vaccine combined with neoadjuvant chemotherapy and HER2-targeted therapy; non-subtype-specific |
+| [NCT05582499](https://clinicaltrials.gov/study/NCT05582499) | Phase 2 | Recruiting | 716 | Precision neoadjuvant treatment platform for operable breast cancer; no evidence of subtype-specific stratification |
+| [NCT04750122](https://clinicaltrials.gov/study/NCT04750122) | Phase 1/2 | Recruiting | 46 | Drug-screening (patient-derived tumor-like cell clusters)-guided neoadjuvant therapy for HER2+ early breast cancer |
+| [NCT06348134](https://clinicaltrials.gov/study/NCT06348134) | Phase 2 | Recruiting | 74 | Optimal neoadjuvant-to-adjuvant anti-HER2 therapy in Nigerian women with HER2+ breast cancer |
+
+**Note:** All six trials were graded "C" relevance (indirect) — none specifically enrolled or reported outcomes for the PAM50 normal-like subtype.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+Pertuzumab is currently **not marketed** under this evidence pack (0 authorizations on record; no license entries available).
+
+## Cytotoxicity
+
+Pertuzumab is a monoclonal antibody targeted therapy used in an oncology context (HER2-positive breast cancer), so this section is included.
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (HER2-targeted monoclonal antibody; not a conventional cytotoxic agent) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (normal breast-like subtype) has weak, indirect evidence — no trial or publication specifically supports Pertuzumab's use in this subtype, and the mechanistic link is biologically questionable given the subtype's typical HER2-negative leaning. This is best treated as a data-quality/over-generalization artifact of the TxGNN model rather than a genuine repurposing signal.
+
+**To proceed, the following is needed:**
+- Confirmed HER2 amplification/overexpression status specifically within PAM50 "normal-like" tumors, to establish a valid biological rationale
+- Core drug-level data gaps must be closed first: original indication/MOA (DG002) and TFDA/EMA label warnings and contraindications (DG001, Blocking)
+- If a repurposing signal is still desired, ranks 2–3 in this pack ("progesterone-receptor positive/negative breast cancer") have substantially stronger evidence (L1, multiple completed Phase 3 RCTs) — but note these represent PR-status stratification within Pertuzumab's **existing** HER2-positive breast cancer indication, not a novel indication, and should be labeled accordingly rather than presented as new repurposing candidates
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Early breast cancer (EBC) Phesgo is indicated for use in combination with chemotherapy in:  the neoadjuvant treatment of adult patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer at high risk of recurrence the adjuvant treatment of adult patients with HER2-positive early breast cancer at high risk of recurrence  Metastatic breast cancer (MBC) Phesgo is indicated for use in combination with docetaxel in adult patients with HER2-positive metastatic or locally 
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | HER2 positive breast carcinoma | 99.97% | DL |
-| 2 | normal breast-like subtype of breast carcinoma | 99.93% | DL |
-| 3 | progesterone-receptor positive breast cancer | 99.93% | DL |
-| 4 | progesterone-receptor negative breast cancer | 99.93% | DL |
-| 5 | breast tumor luminal A or B | 99.93% | DL |
-| 6 | ectomesenchymoma | 99.71% | DL |
-| 7 | malignant cutaneous granular cell skin tumor | 99.71% | DL |
-| 8 | human herpesvirus 8-related tumor | 99.70% | DL |
-| 9 | middle ear neuroendocrine tumor | 99.68% | DL |
-| 10 | prostatic urethra urothelial carcinoma | 99.51% | DL |
-| 11 | kidney pelvis sarcomatoid transitional cell carcinoma | 99.51% | DL |
-| 12 | infiltrating bladder urothelial carcinoma sarcomatoid variant | 99.49% | DL |
-| 13 | renal pelvis papillary urothelial carcinoma | 99.47% | DL |
-| 14 | esotropia | 99.45% | DL |
-| 15 | drug-induced osteoporosis | 99.33% | DL |
-| 16 | cervical neuroblastoma | 99.18% | DL |
-| 17 | schwannoma of jugular foramen | 99.18% | DL |
-| 18 | inner ear neoplasm | 99.18% | DL |
-| 19 | benign neoplasm of buccal mucosa | 99.17% | DL |
-| 20 | benign neoplasm of hypopharynx | 99.17% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

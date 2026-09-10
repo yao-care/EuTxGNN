@@ -1,132 +1,106 @@
 ---
 layout: default
 title: Ganaxolone
-description: "Ganaxolone drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 261
+parent: 僅模型預測 (L5)
+nav_order: 270
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Ganaxolone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Ganaxolone: From Epilepsy (Neurodevelopmental Seizure Disorders) to Alcohol Withdrawal Delirium
+
+## One-Sentence Summary
+
+Ganaxolone is a synthetic neuroactive steroid whose confirmed original indication is not present in this evidence pack (Taiwan market status: not marketed, 0 authorizations). The TxGNN model's top-ranked prediction is **Alcohol Withdrawal Delirium**, but this specific prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure mechanism-based extrapolation with no direct evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ganaxolone |
-| DrugBank ID | [DB05087](https://go.drugbank.com/drugs/DB05087) |
-| Brand Names (EU) | Ztalmy |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 94.85% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — no Taiwan marketing authorization on record (evidence pack references epilepsy/neurodevelopmental seizure disorders in related rationale text, but this is not a confirmed regulatory indication) |
+| Predicted New Indication | Alcohol Withdrawal Delirium |
+| TxGNN Prediction Score | 94.85% |
+| Evidence Level | L5 (model prediction only, no supporting studies) |
+| Market Status (Taiwan) | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Ztalmy is indicated for the adjunctive treatment of epileptic seizures associated with cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) in patients 2 to 17 years of age. Ztalmy may be continued in patients 18 years of age and older.
+Detailed mechanism of action data for Ganaxolone is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the information that is available, Ganaxolone is described in the evidence rationale as a synthetic neuroactive steroid acting as a **positive allosteric modulator (PAM) at the GABA-A receptor** — the same general receptor target used by benzodiazepines and barbiturates, the current standard-of-care drug classes for alcohol withdrawal management.
 
----
+This shared receptor mechanism is the entire basis of the prediction: theoretically, GABA-A potentiation could suppress the central nervous system hyperexcitability that drives alcohol withdrawal delirium, in a manner analogous to benzodiazepine therapy. However, this rationale is explicitly described in the source data as **"pure mechanistic extrapolation"** — no clinical trial, case report, or preclinical study specific to alcohol withdrawal delirium exists to support it. The TxGNN score reflects the strength of the knowledge-graph relationship, not clinical validation.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | alcohol withdrawal delirium | 94.85% | DL |
-| 2 | hallucinogen abuse | 93.07% | DL |
-| 3 | barbiturate abuse | 93.07% | DL |
-| 4 | antidepressant type abuse | 93.07% | DL |
-| 5 | phencyclidine abuse | 82.76% | DL |
-| 6 | alcohol withdrawal | 81.80% | DL |
-| 7 | autism spectrum disorder | 79.30% | DL |
-| 8 | gaze palsy, familial horizontal, with progressive scoliosis | 77.04% | DL |
-| 9 | asperger syndrome, susceptibility to | 76.13% | DL |
-| 10 | autism susceptibility 1 | 75.45% | DL |
-| 11 | drug dependence | 74.69% | DL |
-| 12 | alcohol-related disorders | 73.30% | DL |
-| 13 | amelocerebrohypohidrotic syndrome | 73.06% | DL |
-| 14 | Wernicke-Korsakoff syndrome | 72.65% | DL |
-| 15 | autism, susceptibility to | 72.05% | DL |
-| 16 | intellectual disability | 70.95% | DL |
-| 17 | adenosarcoma | 70.71% | DL |
-| 18 | uterine ligament adenosarcoma | 70.67% | DL |
-| 19 | 16q24.3 microdeletion syndrome | 70.06% | DL |
-| 20 | chromosome 15q11.2 deletion syndrome | 69.93% | DL |
-
-*Showing top 20 of 50 predictions.*
+It is worth noting that other, lower-ranked predictions in this same evidence pack for closely related conditions have meaningfully stronger support: **"alcohol withdrawal"** (rank 6) has L4 evidence including an animal pharmacogenetic study directly involving ganaxolone in ethanol withdrawal, and **"autism spectrum disorder"** (rank 7) has L3 evidence with 13 literature hits, including a direct ganaxolone behavioral study in an autism mouse model and clinical linkage through CDKL5-related epilepsy syndromes. These may be more productive candidates for further evaluation than the top-ranked but evidence-free prediction discussed here.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations on record. Ganaxolone's market status in Taiwan is "Not Marketed" with 0 total licenses/authorizations, so no product/dosage-form/indication table can be generated.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug-drug interaction data were queried but not found in the available sources; the TFDA package insert data gap is classified as **Blocking** and must be resolved before any safety assessment can proceed — see Conclusion.)
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This prediction (Alcohol Withdrawal Delirium) carries a high TxGNN score but zero clinical or literature evidence, and Ganaxolone has no marketing authorization or safety labeling on file in Taiwan. There is currently no basis to move this specific candidate past a mechanism-only hypothesis.
+
+**To proceed, the following is needed:**
+- TFDA package insert (warnings/contraindications) — currently a Blocking data gap
+- Confirmed mechanism of action documentation for Ganaxolone — currently a High-severity data gap
+- Any clinical or preclinical study specifically evaluating Ganaxolone in alcohol withdrawal delirium
+- Consider redirecting evaluation effort to the higher-evidence candidates identified in the same evidence pack ("alcohol withdrawal," L4/S1; "autism spectrum disorder," L3/S1), which already carry a "Research Question" recommendation rather than "Hold"
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

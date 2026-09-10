@@ -2,7 +2,7 @@
 layout: default
 title: Isatuximab
 parent: 僅模型預測 (L5)
-nav_order: 223
+nav_order: 325
 evidence_level: L5
 indication_count: 10
 ---

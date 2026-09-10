@@ -1,132 +1,92 @@
 ---
 layout: default
 title: Fingolimod
-description: "Fingolimod drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 247
+parent: 僅模型預測 (L5)
+nav_order: 256
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Fingolimod
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Fingolimod: From Multiple Sclerosis to Borderline Ovarian Serous Tumor
+
+## One-Sentence Summary
+
+Fingolimod (marketed originally as Gilenya) is a sphingosine-1-phosphate (S1P) receptor modulator used for relapsing multiple sclerosis. The TxGNN model's top-ranked prediction for this drug is **Borderline Ovarian Serous Tumor**, but this specific candidate is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph score with no direct clinical or literature backing.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Fingolimod |
-| DrugBank ID | [DB08868](https://go.drugbank.com/drugs/DB08868) |
-| Brand Names (EU) | Fingolimod |
+| Item | Content |
+|------|------|
+| Original Indication | Multiple Sclerosis (relapsing forms) — not found in the supplied regulatory license data |
+| Predicted New Indication | Borderline Ovarian Serous Tumor |
+| TxGNN Prediction Score | 94.94% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.67% |
+| Market Status | Not marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data was not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on publicly known pharmacology, fingolimod is a sphingosine-1-phosphate receptor 1 (S1P1) modulator that causes internalization of S1P1 on lymphocytes, sequestering them in lymph nodes — its approved mechanism for multiple sclerosis is immunomodulatory, not antineoplastic.
+
+The TxGNN score for borderline ovarian serous tumor derives purely from knowledge-graph embedding similarity — this node shares graph neighborhood structure with other ovarian tumor nodes rather than reflecting any direct trial or literature signal. Separately, the fingolimod analogue FTY720 has documented preclinical anti-tumor activity in **malignant** ovarian cancer cell lines and xenografts (via SphK1/S1P pathway inhibition), but that evidence pool attaches to other nodes in this same prediction set (ranks 5 and 8: "serous neoplasm" and "ovarian benign neoplasm"), not to the top-ranked borderline serous tumor entity itself. Borderline (low malignant potential) serous tumors have a distinct biology from the malignant epithelial ovarian cancer cell lines studied in the existing FTY720 literature, so mechanistic extrapolation to this specific entity is currently unsupported.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+*Note: within this same prediction batch, related ovarian-tumor nodes have some preclinical support — "serous neoplasm" (1 paper, PMID 30120964) and "ovarian benign neoplasm" (8 papers, evidence level L4) — but none of that literature is attached to the top-ranked borderline serous tumor candidate reported here, and the "ovarian benign neoplasm" literature set actually studies malignant epithelial ovarian cancer models, suggesting a possible TxGNN node-labeling mismatch worth clarifying before further action.*
+
+## Market Information
+
+Fingolimod has no marketing authorization on record in this jurisdiction (market status: not marketed; 0 authorizations), so no license table is available.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (TFDA label warnings/contraindications are an unresolved Blocking data gap — DG001 — and must be obtained before any safety evaluation can proceed.)
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (borderline ovarian serous tumor) is supported only by knowledge-graph similarity, with zero clinical trials or publications; combined with an unresolved Blocking safety data gap (TFDA warnings/contraindications), this candidate does not meet the bar to proceed to safety screening (S1).
+
+**To proceed, the following is needed:**
+- TFDA label PDF (warnings, contraindications) — resolves DG001, currently Blocking
+- Confirmed mechanism-of-action data from DrugBank — resolves DG002
+- Direct preclinical or clinical evidence specific to borderline (low malignant potential) serous tumors, rather than extrapolation from malignant epithelial ovarian cancer models
+- Clarification of the TxGNN node mapping for "ovarian benign neoplasm" (rank 8), since its attached literature describes malignant cell lines/xenografts — if that node is more accurately "ovarian cancer," it is a stronger candidate (L4, Research Question) than the current top-ranked, evidence-free node
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Indicated as single disease modifying therapy in highly active relapsing remitting multiple sclerosis for the following groups of adult and paediatric patients aged 10 years and older: Patients with highly active disease despite a full and adequate course of treatment with at least one disease modifying therapy (for exceptions and information about washout periods see sections 4.4 and 5.1) or Patients with rapidly evolving severe relapsing remitting multiple sclerosis defined by 2 or more disabl
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | relapsing-remitting multiple sclerosis | 98.67% | DL |
-| 2 | borderline ovarian serous tumor | 94.94% | DL |
-| 3 | ovarian papillary cystadenoma | 94.62% | DL |
-| 4 | malignant ovarian Brenner tumor | 94.59% | DL |
-| 5 | rete ovarii cystadenoma | 94.57% | DL |
-| 6 | serous neoplasm | 94.32% | DL |
-| 7 | ovarian mucinous cystadenofibroma | 94.27% | DL |
-| 8 | mucinous ovarian cystadenoma | 94.25% | DL |
-| 9 | ovarian benign neoplasm | 94.22% | DL |
-| 10 | ovarian surface papilloma | 94.05% | DL |
-| 11 | Immunoerythromyeloid hypoplasia | 93.62% | DL |
-| 12 | dermatofibrosarcoma protuberans | 93.53% | DL |
-| 13 | non-severe combined immunodeficiency | 93.30% | DL |
-| 14 | fibroblastic neoplasm | 92.61% | DL |
-| 15 | mucinous ovarian cancer | 92.52% | DL |
-| 16 | heart fibrosarcoma | 92.46% | DL |
-| 17 | severe combined immunodeficiency (disease) | 92.28% | DL |
-| 18 | conventional fibrosarcoma | 92.18% | DL |
-| 19 | kidney fibrosarcoma | 91.97% | DL |
-| 20 | low grade fibromyxoid sarcoma | 91.82% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

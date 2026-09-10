@@ -1,132 +1,91 @@
 ---
 layout: default
 title: Naloxone
-description: "Naloxone drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 393
+parent: 僅模型預測 (L5)
+nav_order: 405
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Naloxone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using no specialized skill — this is a direct content-generation task with an explicit, fully-specified output template, so I'll follow it literally against the given Evidence Pack.
+
+# Naloxone: From Opioid Overdose Reversal to Continuous Spikes and Waves During Sleep
+
+## One-Sentence Summary
+
+Naloxone is a competitive opioid receptor antagonist, established as the standard emergency treatment for opioid overdose and opioid-induced respiratory depression.
+The TxGNN model predicts it may be effective for **Continuous Spikes and Waves During Sleep (CSWS)**, a rare pediatric epileptic encephalopathy,
+but currently **0 clinical trials** and **0 publications** support this specific direction — this is a model-only signal.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Naloxone |
-| DrugBank ID | [DB01183](https://go.drugbank.com/drugs/DB01183) |
-| Brand Names (EU) | Naloxone |
+| Item | Content |
+|------|------|
+| Original Indication | Opioid overdose / opioid-induced respiratory depression (not present in this Evidence Pack's regulatory records — see data gaps below) |
+| Predicted New Indication | Continuous spikes and waves during sleep |
+| TxGNN Prediction Score | 88.17% (absolute rank 81,482) |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 97.42% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on generally known pharmacology, Naloxone is a non-selective opioid receptor (mu, kappa, delta) antagonist, whose clinical utility is well established in reversing opioid-induced CNS and respiratory depression. Whether this receptor antagonism has any bearing on the pathophysiology of continuous spikes and waves during sleep (CSWS, also known as ESES — Electrical Status Epilepticus during Slow-wave Sleep) is not addressed in the available evidence.
+
+CSWS is a childhood epileptic encephalopathy driven by disrupted GABAergic/thalamocortical network activity during sleep, a mechanism domain that does not overlap in any documented way with opioid receptor pharmacology. Unlike other predictions in this evidence pack (e.g., naloxone/naltrexone in psychotic disorders, tardive dyskinesia, or hypoglycemia counterregulation, which are backed by decades of opioid-system-related literature), the CSWS prediction has **no supporting clinical trial or literature evidence** at all in the pack. This should be treated as a pure knowledge-graph signal until an independent mechanistic or clinical rationale is found.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The TxGNN score is high, but this specific drug–disease pair has zero corroborating clinical trials or literature, and no plausible mechanistic link between opioid receptor antagonism and CSWS is documented. This is an L5, model-only signal and does not meet the bar to advance.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (TFDA label warnings/contraindications — currently Blocking safety review) via TFDA label PDF retrieval
+- Resolve DG002 (Naloxone MOA detail) via DrugBank API query
+- Targeted literature/clinical search specifically on opioid antagonists in pediatric epileptic encephalopathies (CSWS/ESES) to confirm or rule out a mechanistic rationale
+- Confirm actual original indication and regulatory licensing status for Naloxone (regulatory record in this pack shows 0 licenses / Not Marketed, which is inconsistent with Naloxone's known global approval status and should be re-verified)
+- Consider reprioritizing evaluation toward the same evidence pack's higher-evidence candidates for Naloxone (e.g., **psychotic disorder** — 11 trials/22 publications, **hypoglycemia** — 7 trials/22 publications, **schizophreniform disorder** — 1 trial/22 publications), which show substantially stronger mechanistic and clinical support
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment is intended for use in adults and adolescents over 15 years of age who have agreed to be treated for addiction.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | opiate dependence | 97.42% | DL |
-| 2 | morphine dependence | 96.69% | DL |
-| 3 | substance abuse/dependence | 91.45% | DL |
-| 4 | continuous spikes and waves during sleep | 88.17% | DL |
-| 5 | lissencephaly with cerebellar hypoplasia | 87.40% | DL |
-| 6 | progressive encephalopathy with leukodystrophy due to DECR deficiency | 87.24% | DL |
-| 7 | schizophreniform disorder | 86.35% | DL |
-| 8 | nasal cavity disease | 84.84% | DL |
-| 9 | psychotic disorder | 82.58% | DL |
-| 10 | hypoglycemia | 81.53% | DL |
-| 11 | acute pulmonary heart disease | 80.87% | DL |
-| 12 | drug-induced dyskinesia | 80.64% | DL |
-| 13 | acute laryngopharyngitis | 80.62% | DL |
-| 14 | early-onset familial noncirrhotic portal hypertension | 80.19% | DL |
-| 15 | idiopathic copper-associated cirrhosis | 80.19% | DL |
-| 16 | primitive portal vein thrombosis | 80.19% | DL |
-| 17 | hepatopulmonary syndrome | 80.19% | DL |
-| 18 | hepatoportal sclerosis | 80.19% | DL |
-| 19 | acute intermittent porphyria | 79.78% | DL |
-| 20 | congestive heart failure | 79.60% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

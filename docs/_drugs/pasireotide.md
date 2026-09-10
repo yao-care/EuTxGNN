@@ -1,132 +1,112 @@
 ---
 layout: default
 title: Pasireotide
-description: "Pasireotide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 441
+parent: 僅模型預測 (L5)
+nav_order: 453
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Pasireotide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Pasireotide: From Cushing's Disease/Acromegaly to Nephrogenic Syndrome of Inappropriate Antidiuresis
+
+## One-Sentence Summary
+
+> Pasireotide is a somatostatin analog with known clinical use in Cushing's disease and acromegaly (general drug class knowledge; not present in this evidence pack).
+> The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**,
+> but currently **no clinical trials** and **no published literature** support this direction — this is a model-prediction-only signal.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Pasireotide |
-| DrugBank ID | [DB06663](https://go.drugbank.com/drugs/DB06663) |
-| Brand Names (EU) | Signifor |
+| Item | Content |
+|------|------|
+| Original Indication | Not recorded in evidence pack (drug class: somatostatin analog) |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN Prediction Score | 96.12% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 96.83% |
+| EU Market Status | 未上市 (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Signifor is indicated for the treatment of adult patients with Cushing’s disease for whom surgery is not an option or for whom surgery has failed. Signifor is indicated for the treatment of adult patients with acromegaly for whom surgery is not an option or has not been curative and who are inadequately controlled on treatment with another somatostatin analogue.
+Detailed mechanism of action data is not available in this evidence pack — it is explicitly flagged as a High-severity data gap (DG002) requiring a DrugBank API query. Likewise, the drug's original indication is not recorded (`original_indications: []`). No pharmacological or clinical rationale can currently be constructed from the supplied data alone.
 
----
+For context, pasireotide is generally known as a cyclohexapeptide somatostatin analog with broad affinity across somatostatin receptor subtypes (predominantly SSTR5), used in conditions such as Cushing's disease and acromegaly. NSIAD, in contrast, is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2) gene, a pathway mechanistically distinct from somatostatin receptor signaling. No direct or indirect molecular link between the two has been identified in the evidence pack.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | adrenal gland hyperfunction | 96.83% | DL |
-| 2 | nephrogenic syndrome of inappropriate antidiuresis | 96.12% | DL |
-| 3 | Ambras type hypertrichosis universalis congenita | 93.83% | DL |
-| 4 | malformation syndrome with odontal and/or periodontal component | 93.62% | DL |
-| 5 | syndrome with a Dandy-Walker malformation as major feature | 93.25% | DL |
-| 6 | hypertrichosis (disease) | 93.22% | DL |
-| 7 | carbamoyl phosphate synthetase I deficiency disease | 92.92% | DL |
-| 8 | isolated genetic hair shaft abnormality | 92.82% | DL |
-| 9 | hyperargininemia | 89.75% | DL |
-| 10 | tinea nigra | 89.74% | DL |
-| 11 | duodenal obstruction | 89.03% | DL |
-| 12 | duodenogastric reflux | 86.42% | DL |
-| 13 | duodenal ulcer (disease) | 84.27% | DL |
-| 14 | cranioectodermal dysplasia | 79.17% | DL |
-| 15 | RHYNS syndrome | 78.93% | DL |
-| 16 | renal tubule disease | 77.21% | DL |
-| 17 | Senior-Boichis syndrome | 77.21% | DL |
-| 18 | candidiasis | 76.18% | DL |
-| 19 | nephrogenic diabetes insipidus | 75.65% | DL |
-| 20 | epulis | 75.59% | DL |
-
-*Showing top 20 of 50 predictions.*
+The remaining nine predicted indications in this pack (ranks 2–10) reinforce this picture: where rationale text is available, it explicitly describes the predictions as **knowledge-graph noise** with no plausible mechanistic link (e.g., a congenital chromosomal rearrangement syndrome, and a periodontitis-related prediction where the only literature theme — diabetes/inflammation — is unrelated to pasireotide, and where pasireotide's known hyperglycemic side effect could theoretically worsen rather than treat the condition). This pattern across the candidate list lowers overall confidence in the top-ranked prediction as well.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Pasireotide is currently **not marketed** in this jurisdiction (0 authorizations on record), so no marketing authorization table is available.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> Note: TFDA/label-level warnings and contraindications for this drug are recorded as a **Blocking** data gap (DG001) — this prevents formal S1 safety screening and must be resolved before any further evaluation.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- The top-ranked predicted indication (NSIAD) has zero supporting clinical trials or literature — it is an unvalidated model output (L5), and no plausible mechanistic link to somatostatin receptor pharmacology is apparent (NSIAD is an AVPR2-driven condition).
+- A Blocking-severity safety data gap (missing TFDA warnings/contraindications) currently prevents even a baseline safety assessment.
+- Other candidate indications in this pack were independently annotated as low-confidence knowledge-graph noise, further reducing confidence in this drug's repurposing pipeline output at this time.
+
+**To proceed, the following is needed:**
+- TFDA label data (warnings, contraindications) — required to clear the Blocking gap (DG001)
+- Formal mechanism of action data via DrugBank API (DG002)
+- Confirmed original indication(s) for this drug in the regulatory dataset
+- Any preclinical or mechanistic evidence specifically connecting somatostatin signaling to AVPR2-mediated antidiuresis, if it exists, before further investment in this candidate
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,112 @@
 ---
 layout: default
 title: Pirfenidone
-description: "Pirfenidone drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 460
+parent: 僅模型預測 (L5)
+nav_order: 472
 evidence_level: L5
-indication_count: 52
+indication_count: 10
 ---
 
 # Pirfenidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Pirfenidone: From Idiopathic Pulmonary Fibrosis to Extracutaneous Mastocytoma
+
+## One-Sentence Summary
+
+> Pirfenidone is an antifibrotic agent whose established use is idiopathic pulmonary fibrosis (IPF), acting via inhibition of TGF-β1 signaling and reduction of fibroblast proliferation/collagen synthesis.
+> The TxGNN model predicts it may be effective for **Extracutaneous Mastocytoma**,
+> but currently **0 clinical trials** and **0 publications** support this specific direction — this is a model prediction only, with a mechanistically weak rationale.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Pirfenidone |
-| DrugBank ID | [DB04951](https://go.drugbank.com/drugs/DB04951) |
-| Brand Names (EU) | Esbriet, Pirfenidone axunio (previously Pirfenidone AET) |
-| Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 99.71% |
+| Item | Content |
+|------|------|
+| Original Indication | Idiopathic Pulmonary Fibrosis (IPF) — inferred from mechanistic notes in the evidence pack; no formal indication text is available because the drug carries **no active authorization** in this jurisdiction |
+| Predicted New Indication | Extracutaneous Mastocytoma |
+| TxGNN Prediction Score | 99.71% |
+| Evidence Level | L5 (model prediction only, no clinical or literature support) |
+| EU Market Status | ✗ Not marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Pirfenidone AET is indicated in adults for the treatment of mild to moderate idiopathic pulmonary fibrosis (IPF).
+Detailed structured mechanism-of-action (MOA) data is not currently available for this drug in the record (flagged as a High-severity data gap). Based on information embedded in the evidence pack's rationale notes, Pirfenidone is known to inhibit TGF-β1 signaling and downstream non-SMAD pathways, thereby reducing fibroblast proliferation, myofibroblast activity, and collagen deposition — the pharmacological basis for its established use in idiopathic pulmonary fibrosis.
 
----
+Extracutaneous mastocytoma, however, is a mast cell proliferative disorder typically driven by **KIT mutations** (e.g., KIT D816V), not by fibrotic tissue remodeling. There is no established biological pathway connecting TGF-β1/collagen-synthesis inhibition to mast cell proliferation control. The evidence pack itself flags this as a **weak mechanistic link**.
 
-## Predicted New Indications
+Consequently, the very high TxGNN score (99.71%) for this pairing is not corroborated by any clinical trial, real-world evidence, or preclinical literature. This pattern — a high similarity/embedding score with no biological or empirical backing — is consistent with a knowledge-graph artifact (e.g., surface-level lexical/semantic proximity) rather than a genuine repurposing signal, and should be treated with caution.
 
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | extracutaneous mastocytoma | 99.71% | DL |
-| 2 | dermatofibrosarcoma protuberans | 99.41% | DL |
-| 3 | aggressive systemic mastocytosis | 99.33% | DL |
-| 4 | heart fibrosarcoma | 99.29% | DL |
-| 5 | conventional fibrosarcoma | 99.26% | DL |
-| 6 | autosomal recessive familial Mediterranean fever | 99.25% | DL |
-| 7 | kidney fibrosarcoma | 99.24% | DL |
-| 8 | hepatic infarction | 99.24% | DL |
-| 9 | fibroblastic neoplasm | 99.23% | DL |
-| 10 | low grade fibromyxoid sarcoma | 99.19% | DL |
-| 11 | hepatic veno-occlusive disease | 99.04% | DL |
-| 12 | peliosis hepatis | 98.88% | DL |
-| 13 | Kimura disease | 98.83% | DL |
-| 14 | syndrome with combined immunodeficiency | 98.79% | DL |
-| 15 | X-linked lymphoproliferative syndrome | 98.77% | DL |
-| 16 | leishmaniasis, diffuse cutaneous | 98.75% | DL |
-| 17 | familial rhabdoid tumor | 98.73% | DL |
-| 18 | Castleman disease | 98.70% | DL |
-| 19 | benign PEComa | 98.67% | DL |
-| 20 | lymphangiomyoma | 98.67% | DL |
-
-*Showing top 20 of 52 predictions.*
+> **Note on other candidates in this evidence pack:** Among the 10 diseases predicted for Pirfenidone, rank #9 ("fibroblastic neoplasm," score 99.23%) is supported by **L3 evidence** — including a pilot clinical study in FAP-associated desmoid tumors and multiple in-vitro studies in Dupuytren's disease fibroblasts — but also carries a safety signal (two case reports of malignant fibroblastic tumor emergence/aggravation during Pirfenidone use). This candidate has materially stronger evidence than the top-ranked prediction discussed above and may warrant separate evaluation.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+This drug currently has **no active marketing authorization** on record in this jurisdiction (market status: 未上市 / Not marketed; total authorizations: 0). No license table can be produced from the evidence pack.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Key warnings, contraindications, and drug-interaction data are marked as data gaps in this evidence pack — notably, TFDA/regulatory label warnings and contraindications are flagged as a **Blocking** severity gap, meaning safety evaluation cannot proceed until this is resolved.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (Extracutaneous Mastocytoma) has a high TxGNN score but zero supporting clinical trials, zero literature, and a mechanistically implausible link (antifibrotic TGF-β1 inhibition vs. KIT-driven mast cell proliferation). This is evidence level L5 — model prediction only — and does not meet the bar to advance past initial screening.
+
+**To proceed, the following is needed:**
+- Resolve the **Blocking** data gap: obtain formal regulatory label warnings/contraindications (source: national regulatory agency label PDF) before any safety-stage (S1) evaluation of Pirfenidone can begin, regardless of indication.
+- Obtain structured MOA data from DrugBank (High-severity gap) to properly assess mechanistic plausibility across all 10 predicted indications.
+- If pursuing repurposing, prioritize re-evaluation of the **fibroblastic neoplasm (Dupuytren's disease / desmoid tumor)** candidate instead, given its stronger L3 evidence base — while also investigating the reported malignant-transformation safety signal before advancing it.
+- No further action recommended on the extracutaneous mastocytoma pairing absent new preclinical or clinical data.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

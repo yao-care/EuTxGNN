@@ -1,132 +1,111 @@
 ---
 layout: default
 title: Pretomanid
-description: "Pretomanid drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 471
+parent: 僅模型預測 (L5)
+nav_order: 483
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Pretomanid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Pretomanid: From Drug-Resistant Tuberculosis to Candidiasis
+
+## One-Sentence Summary
+
+> Pretomanid is a nitroimidazooxazine antimycobacterial agent, used as part of the BPaL regimen (bedaquiline + pretomanid + linezolid) for extensively drug-resistant tuberculosis (XDR-TB) and treatment-intolerant/non-responsive multidrug-resistant tuberculosis (MDR-TB).
+> The TxGNN model predicts it may be effective for **Candidiasis**,
+> but **0 clinical trials** and **0 publications** currently support this direction, and the evidence pack explicitly flags the mechanistic link as biologically implausible.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Pretomanid |
-| DrugBank ID | [DB05154](https://go.drugbank.com/drugs/DB05154) |
-| Brand Names (EU) | Dovprela (previously Pretomanid FGK) |
+| Item | Content |
+|------|---------|
+| Original Indication | Drug-resistant tuberculosis (XDR-TB / treatment-intolerant or non-responsive MDR-TB), as part of the BPaL regimen — *no formal marketing authorization text available; drug is not marketed in this jurisdiction* |
+| Predicted New Indication | Candidiasis |
+| TxGNN Prediction Score | 99.69% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.69% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Dovprela is indicated in combination with bedaquiline and linezolid, in adults, for the treatment of pulmonary extensively drug resistant (XDR), or treatment-intolerant or nonresponsive multidrug-resistant (MDR) tuberculosis (TB). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Currently, detailed mechanism of action data is not available in the structured `original_moa` field (marked as a data gap). However, based on mechanistic notes elsewhere in the evidence pack, pretomanid is a nitroimidazooxazine prodrug that requires activation by a mycobacteria-specific F420-coenzyme-dependent deazaflavin nitroreductase system. This activation pathway is unique to mycobacteria and is central to pretomanid's bactericidal activity against both replicating and non-replicating *M. tuberculosis*.
 
----
+Candida species are fungi and do not possess this mycobacterial F420-dependent activation system. The evidence pack's own rationale for this prediction states explicitly: **"No plausible mechanism: Pretomanid's antimicrobial activity depends on the mycobacteria-specific F420 coenzyme reductase system; Candida (a fungus) does not have this metabolic pathway, and there is no clinical or preclinical evidence supporting this."**
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | candidiasis | 99.69% | DL |
-| 2 | leprosy | 99.27% | DL |
-| 3 | coronary artery disease | 99.25% | DL |
-| 4 | myocardial ischemia | 99.17% | DL |
-| 5 | anomalous left coronary artery from the pulmonary artery | 99.08% | DL |
-| 6 | HIV infectious disease | 98.85% | DL |
-| 7 | oral candidiasis | 98.72% | DL |
-| 8 | Bacteroidaceae infectious disease | 98.67% | DL |
-| 9 | thrombocytopenia | 98.65% | DL |
-| 10 | fascioliasis | 98.63% | DL |
-| 11 | acne (disease) | 98.63% | DL |
-| 12 | feline acquired immunodeficiency syndrome | 98.49% | DL |
-| 13 | simian immunodeficiency virus infection | 98.49% | DL |
-| 14 | marcothrombocytopenia with mitral valve insufficiency | 98.48% | DL |
-| 15 | hereditary thrombocytopenia with normal platelets | 98.48% | DL |
-| 16 | opisthorchiasis | 98.42% | DL |
-| 17 | anaerobic bacteria infectious disease | 98.40% | DL |
-| 18 | multiple endocrine neoplasia | 98.39% | DL |
-| 19 | transient neonatal thrombocytopenia | 98.38% | DL |
-| 20 | breast fibrocystic disease | 98.38% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given the complete absence of clinical trials, literature, or mechanistic rationale, this prediction should be treated as a likely embedding-similarity artifact of the TxGNN model rather than a genuine repurposing signal. For context, two other predictions in this evidence pack (leprosy, rank 2; HIV infectious disease, rank 6) did generate clinical trial and literature hits, but both were also found to lack support on closer review: a direct in vitro study (PMID 17005816) shows *M. leprae* is naturally resistant to pretomanid (PA-824), and the HIV-related trials/literature concern TB treatment *in* HIV-co-infected patients rather than any direct antiretroviral activity of pretomanid. No candidate in this evidence pack currently clears the bar for further development.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Pretomanid is currently **not marketed** in this jurisdiction (total authorizations: 0). No license records are available to summarize.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: `key_warnings`, `contraindications`, and drug-drug interaction data are all marked as data gaps in this evidence pack, including a Blocking-severity gap for TFDA label warnings/contraindications.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- The top-ranked predicted indication (candidiasis) has no supporting clinical trials, no literature, and an explicitly stated implausible mechanism (fungal vs. mycobacteria-specific drug activation pathway). This is best interpreted as model noise rather than a genuine repurposing signal.
+- The only two predictions in this evidence pack with actual trial/literature support (leprosy, HIV) were independently found to be non-viable — one due to direct evidence of natural drug resistance, the other due to a data-labeling mismatch (TB treatment in HIV+ patients, not anti-HIV activity).
+
+**To proceed, the following is needed:**
+- Resolve the Blocking-severity data gap (DG001): TFDA/official label warnings and contraindications must be obtained before any safety pre-screening (S1) can begin for any candidate.
+- Resolve the High-severity data gap (DG002): formal MOA data from DrugBank API to support or refute mechanistic plausibility assessments.
+- If candidiasis repurposing is to be pursued further, in vitro antifungal susceptibility data for pretomanid against *Candida* spp. would be the minimum evidence needed to justify moving past S0.
+- No further action recommended on this candidate set without new primary evidence.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

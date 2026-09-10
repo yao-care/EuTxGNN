@@ -1,132 +1,106 @@
 ---
 layout: default
 title: Prasterone
-description: "Prasterone drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 467
+parent: 僅模型預測 (L5)
+nav_order: 479
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Prasterone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Prasterone: From No Approved Indication to Heparin Cofactor 2 Deficiency
+
+## One-Sentence Summary
+
+Prasterone (DHEA) has no recorded original indication in this evidence pack and is not currently marketed in this jurisdiction. The TxGNN model predicts a possible link to **Heparin Cofactor 2 Deficiency**, but this is a Level 5 (L5) prediction with **zero clinical trials** and **zero supporting publications**, and the model's own generated rationale explicitly flags the score as a graph-embedding artifact rather than a validated biological mechanism.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Prasterone |
-| DrugBank ID | [DB01708](https://go.drugbank.com/drugs/DB01708) |
-| Brand Names (EU) | Intrarosa |
+| Item | Content |
+|------|------|
+| Original Indication | No approved indication on file; drug is not currently marketed in this jurisdiction |
+| Predicted New Indication | Heparin cofactor 2 deficiency |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.99% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Intrarosa is indicated for the treatment of vulvar and vaginal atrophy in postmenopausal women having moderate to severe symptoms.
+Currently, detailed mechanism of action data is not available. Based on the limited information present in this evidence pack, Prasterone (DHEA) is described as a gonadal steroid hormone precursor. No approved original indication or licensing history is on file, so it is not possible to compare this candidate against an established clinical use case, and no independent MOA source could be verified.
 
----
+More importantly, the evidence pack's own analysis of the top-ranked prediction states directly that there is **no known mechanistic pathway** connecting DHEA's endocrine metabolism to Heparin Cofactor II (a serine protease inhibitor) gene deficiency. The high TxGNN score is attributed to knowledge-graph proximity between nodes, not to any documented pharmacological or physiological relationship — the rationale text itself describes this as "非生物學依據" (not a biological basis).
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | heparin cofactor 2 deficiency | 99.99% | DL |
-| 2 | factor 5 excess with spontaneous thrombosis | 99.98% | DL |
-| 3 | antithrombin deficiency type 2 | 99.98% | DL |
-| 4 | thrombophilia | 99.91% | DL |
-| 5 | pediatric systemic lupus erythematosus | 99.25% | DL |
-| 6 | severe nonproliferative diabetic retinopathy | 99.25% | DL |
-| 7 | thrombophilia due to protein S deficiency, autosomal recessive | 99.13% | DL |
-| 8 | scleroderma (disease) | 99.11% | DL |
-| 9 | complement component 4a deficiency | 99.05% | DL |
-| 10 | pseudo-von Willebrand disease | 99.01% | DL |
-| 11 | primary release disorder of platelets | 99.01% | DL |
-| 12 | acne (disease) | 98.54% | DL |
-| 13 | anus disease | 97.79% | DL |
-| 14 | granulomatous disease, chronic, autosomal recessive, 5 | 97.37% | DL |
-| 15 | inflammatory bowel disease | 97.26% | DL |
-| 16 | granulomatous disease with defect in neutrophil chemotaxis | 97.20% | DL |
-| 17 | fetal and neonatal alloimmune thrombocytopenia | 97.05% | DL |
-| 18 | peeling skin syndrome | 97.00% | DL |
-| 19 | spondyloarthropathy, susceptibility to | 96.97% | DL |
-| 20 | diabetic retinopathy | 96.90% | DL |
-
-*Showing top 20 of 51 predictions.*
+A further caution emerges from a lower-ranked but evidence-backed prediction in the same pack: for "thrombophilia" (rank 4, L4), the associated literature describes hyperandrogenic states (e.g., PCOS, Leydig cell tumors) as being **associated with increased thrombotic risk**, not reduced risk. Since DHEA is an androgen precursor, this is a directionally concerning signal — it suggests androgen exposure may exacerbate, rather than treat, disorders of coagulation and clotting-factor regulation. Given that three of the top five predictions in this pack (ranks 1, 2, 3) are inherited clotting-factor deficiencies, this pattern should be treated as a safety caution rather than supportive evidence.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations are on file for Prasterone in this jurisdiction (0 total licenses). The drug is currently listed as not marketed.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (Heparin cofactor 2 deficiency) is an L5, AI-only signal with no supporting clinical trials or literature, and the model's own rationale explicitly disclaims a biological basis. Related evidence elsewhere in the pack (thrombophilia, rank 4) points toward androgen excess *increasing* thrombotic risk, which runs counter to using this drug for clotting-factor–related indications.
+
+**To proceed, the following is needed:**
+- TFDA/regulatory label data — warnings and contraindications (currently a Blocking gap, DG001)
+- Verified mechanism of action (MOA) for Prasterone (DG002)
+- Original approved indication and licensing history, since the drug is not currently marketed in this jurisdiction
+- Independent preclinical or mechanistic evidence directly linking DHEA/androgen pathways to hemostasis or coagulation-factor regulation before further evaluation is warranted
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

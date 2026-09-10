@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Lixisenatide
-description: "Lixisenatide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 348
+parent: 僅模型預測 (L5)
+nav_order: 360
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Lixisenatide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Lixisenatide: From Type 2 Diabetes Mellitus to Opsismodysplasia
+
+## One-Sentence Summary
+
+Lixisenatide is a GLP-1 receptor agonist established for type 2 diabetes mellitus (formal regulatory indication text not available in this jurisdiction, where the drug is currently unmarketed). The TxGNN model's top prediction is **Opsismodysplasia**, a rare skeletal dysplasia, but this is supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags the link as a knowledge-graph proximity artifact rather than a mechanistic signal.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Lixisenatide |
-| DrugBank ID | [DB09265](https://go.drugbank.com/drugs/DB09265) |
-| Brand Names (EU) | Lixisenatide |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 97.56% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available from regulatory licenses (drug not marketed in this jurisdiction); known class use is Type 2 Diabetes Mellitus |
+| Predicted New Indication | Opsismodysplasia |
+| TxGNN Prediction Score | 97.56% |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Suliqua is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control as an adjunct to diet and exercise in addition to metformin with or without SGLT-2 inhibitors.
+Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on known information, Lixisenatide is a GLP-1 receptor agonist that increases insulin secretion and reduces insulin resistance, with established use in type 2 diabetes mellitus.
 
----
+Opsismodysplasia is a rare skeletal dysplasia caused by INPPL1 gene mutations. There is no known physiological connection between GLP-1 receptor signaling and this bone development pathway. The evidence pack's own repurposing rationale explicitly states the high TxGNN score likely reflects graph-proximity clustering rather than a mechanistic inference, and no preclinical or clinical data exist to substantiate the link.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | opsismodysplasia | 97.56% | DL |
-| 2 | focal stiff limb syndrome | 97.46% | DL |
-| 3 | classic stiff person syndrome | 97.46% | DL |
-| 4 | thiamine-responsive dysfunction syndrome | 97.23% | DL |
-| 5 | diabetes mellitus (disease) | 97.16% | DL |
-| 6 | drug-induced localized lipodystrophy | 96.22% | DL |
-| 7 | pancreatic agenesis | 96.02% | DL |
-| 8 | centrifugal lipodystrophy | 96.01% | DL |
-| 9 | pressure-induced localized lipoatrophy | 95.92% | DL |
-| 10 | idiopathic localized lipodystrophy | 95.67% | DL |
-| 11 | autoimmune oophoritis | 82.03% | DL |
-| 12 | type 1 diabetes mellitus | 79.34% | DL |
-| 13 | cholangiocarcinoma, susceptibility to | 65.44% | DL |
-| 14 | atrial flutter (disease) | 64.48% | DL |
-| 15 | hemoglobin C-beta-thalassemia syndrome | 64.26% | DL |
-| 16 | hypercarotenemia and vitamin A deficiency, autosomal recessive | 62.05% | DL |
-| 17 | retinal dystrophy with or without extraocular anomalies | 61.77% | DL |
-| 18 | pancreas, dorsal, agenesis of | 60.88% | DL |
-| 19 | familial chronic myelocytic leukemia-like syndrome | 60.47% | DL |
-| 20 | lymphopenic hypergammaglobulinemia, antibody deficiency, autoimmune hemolytic anemia, and glomerulonephritis | 59.99% | DL |
-
-*Showing top 20 of 50 predictions.*
+Across all 10 TxGNN-ranked candidates for this drug, only one (rank 6, pancreatic agenesis) has any supporting literature, and even that single preclinical study (a tumor-cachexia rat model) addresses a different biological question than the predicted indication. This pattern — high model scores with consistently absent or mismatched external evidence — indicates the current signal is exploratory only and not yet actionable.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+Currently no related literature available for the top-ranked prediction (Opsismodysplasia).
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+*Note: One tangentially related preclinical study exists for a lower-ranked candidate (rank 6, pancreatic agenesis) — [Quintilhano et al., 2021, PMID 32911572](https://pubmed.ncbi.nlm.nih.gov/32911572/), Cell Biochemistry and Function — examining lixisenatide's effect on cachexia in tumor-bearing rats. This does not directly support pancreatic agenesis (a congenital PDX1/PTF1A-related disorder) and is not evidence for the top-ranked indication.*
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Not currently marketed in this jurisdiction — 0 marketing authorizations on record.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*Note: TFDA/label warnings and contraindications data are marked as a Blocking-severity gap (DG001) — this evaluation cannot proceed past initial safety screening (S1) without this data.*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top prediction (Opsismodysplasia) has no clinical, preclinical, or literature support, and the mechanistic rationale is explicitly assessed as non-biological (graph-proximity artifact). Combined with a Blocking data gap on safety labeling and a High-severity gap on mechanism of action, there is insufficient basis to advance this candidate.
+
+**To proceed, the following is needed:**
+- TFDA/regulatory label warnings and contraindications (Blocking gap, DG001)
+- Confirmed mechanism of action data via DrugBank or equivalent source (DG002)
+- Any preclinical or in vitro evidence directly linking GLP-1 receptor activity to skeletal/connective tissue pathways relevant to opsismodysplasia
+- Re-screening of lower-ranked candidates (e.g., lipodystrophy-related indications) where a plausible metabolic mechanism exists, even though direct evidence is currently absent
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

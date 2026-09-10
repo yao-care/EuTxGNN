@@ -1,132 +1,122 @@
 ---
 layout: default
 title: Melatonin
-description: "Melatonin drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 366
+parent: 僅模型預測 (L5)
+nav_order: 378
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Melatonin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Melatonin: From No EU-Approved Indication to Migraine with Brainstem Aura
+
+## One-Sentence Summary
+
+> Melatonin currently has **no EU marketing authorization on record** in this evidence pack (0 licenses; market status: Not Marketed), so its original approved indication cannot be characterized from the available data.
+> The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura**,
+> but this specific subtype is currently supported only by **20 publications and no dedicated clinical trials** — the evidence is extrapolated from broader migraine research rather than subtype-specific studies.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Melatonin |
-| DrugBank ID | [DB01065](https://go.drugbank.com/drugs/DB01065) |
-| Brand Names (EU) | Melatonin Neurim |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.80% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — no EU marketing authorization on record in this evidence pack |
+| Predicted New Indication | Migraine with Brainstem Aura |
+| TxGNN Prediction Score | 87.90% |
+| Evidence Level | L3 |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Melatonin Neurim is indicated as monotherapy for the short-term treatment of primary insomnia characterised by poor quality of sleep in patients who are aged 55 or over.
+Currently, detailed mechanism of action data for melatonin is not available in this evidence pack, and no EU-approved indication is on record to compare against. Based on the general pharmacology reflected in the supporting literature, melatonin acts as an MT1/MT2 receptor agonist with anti-inflammatory and circadian-regulatory properties.
 
----
+The repurposing rationale for this specific prediction notes that migraine (in general) is associated with reduced nocturnal melatonin excretion and interacts with the serotonergic system, which modulates both pain transmission and the circadian timing of headache attacks — providing biological plausibility for melatonin as a migraine-related intervention. However, **"migraine with brainstem aura" is a distinct, rarer subtype**, and none of the identified clinical trials or literature specifically isolate this subtype. Existing RCT evidence (e.g., NCT01357031, a completed Phase 3 trial) does not stratify by aura subtype, so the mechanistic link here is extrapolated from general migraine biology rather than subtype-specific data.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | insomnia (disease) | 99.80% | DL |
-| 2 | sleep disorder, initiating and maintaining sleep | 96.11% | DL |
-| 3 | migraine with brainstem aura | 87.90% | DL |
-| 4 | obesity disorder | 85.77% | DL |
-| 5 | restless legs syndrome | 85.65% | DL |
-| 6 | migraine disorder | 85.52% | DL |
-| 7 | hypervitaminosis | 84.39% | DL |
-| 8 | obsolete hypertelorism (disease) | 83.11% | DL |
-| 9 | monogenic obesity | 81.24% | DL |
-| 10 | frontorhiny | 79.42% | DL |
-| 11 | proximal 16p11.2 microdeletion syndrome | 78.45% | DL |
-| 12 | acute encephalopathy with biphasic seizures and late reduced diffusion | 78.33% | DL |
-| 13 | fibrosis of extraocular muscles, congenital, with synergistic divergence | 69.86% | DL |
-| 14 | hypercarotenemia and vitamin A deficiency, autosomal recessive | 69.10% | DL |
-| 15 | hyperparathyroidism, primary, caused by water clear cell hyperplasia | 67.85% | DL |
-| 16 | retinal aplasia | 66.11% | DL |
-| 17 | melanoma, malignant familial intraocular | 64.98% | DL |
-| 18 | atrophoderma vermiculata | 64.46% | DL |
-| 19 | triphalangeal thumb, Nonopposable | 64.13% | DL |
-| 20 | sella turcica, bridged | 64.13% | DL |
-
-*Showing top 20 of 50 predictions.*
+Notably, a closely related but broader predicted indication in this evidence pack — **"migraine disorder"** (unstratified) — is supported by considerably stronger evidence (Evidence Level L1, including a completed Phase 3 RCT with n=192 and a published meta-analysis). This suggests melatonin's therapeutic signal is real for migraine generally, but the brainstem-aura-specific claim should be treated as a lower-confidence extrapolation until subtype-specific data becomes available.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered specifically for migraine with brainstem aura.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27165014](https://pubmed.ncbi.nlm.nih.gov/27165014/) | 2016 | RCT | J Neurol Neurosurg Psychiatry | Randomized trial comparing melatonin 3mg, amitriptyline 25mg, and placebo for migraine prevention (general migraine, not aura-stratified) |
+| [24909684](https://pubmed.ncbi.nlm.nih.gov/24909684/) | 2015 | RCT/Safety-Efficacy | Current Drug Safety | Safety and efficacy of melatonin in pediatric migraine prophylaxis |
+| [38166859](https://pubmed.ncbi.nlm.nih.gov/38166859/) | 2024 | RCT | BMC Neurology | Agomelatine (melatonin receptor agonist) vs placebo for headache severity/frequency in episodic migraine without aura |
+| [18810607](https://pubmed.ncbi.nlm.nih.gov/18810607/) | 2008 | Open-label trial | Neurol Sci | 3-month melatonin (3mg) prophylaxis trial in children with migraine and tension-type headache; ~67% reported improvement |
+| [9595871](https://pubmed.ncbi.nlm.nih.gov/9595871/) | 1998 | Case series | Headache | Melatonin 5mg resolved headache in patients with delayed sleep phase syndrome, including one with disabling migraine attacks |
+| [30906963](https://pubmed.ncbi.nlm.nih.gov/30906963/) | 2019 | Review | Neurol Sci | Reviews the bidirectional relationship between sleep disorders and migraine subtypes, including those with aura |
+| [22644189](https://pubmed.ncbi.nlm.nih.gov/22644189/) | 2012 | Review | Neurol Sci | Reviews future migraine prophylaxis drugs, including circadian/melatonergic mechanisms |
+| [31054199](https://pubmed.ncbi.nlm.nih.gov/31054199/) | 2019 | Biomarker study | Headache | Found melatonin metabolite levels are not a reliable biomarker for predicting pediatric episodic migraine |
+| [7641249](https://pubmed.ncbi.nlm.nih.gov/7641249/) | 1995 | Observational | Cephalalgia | Nocturnal melatonin excretion significantly decreased in women with menstrually-associated migraine without aura |
+| [7954740](https://pubmed.ncbi.nlm.nih.gov/7954740/) | 1994 | Observational | Cephalalgia | Urinary melatonin excretion reduced throughout ovarian cycle in menstrually-related migraine patients |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EU marketing authorizations are on record for melatonin in this evidence pack (0 licenses; market status: Not Marketed).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*(Note: `safety.key_warnings`, `safety.contraindications`, and `safety.ddi` are all marked as Data Gaps in this evidence pack — DG001 flags this as a **Blocking** gap that prevents a full S1 safety initial assessment.)*
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The predicted indication (migraine with brainstem aura) has no dedicated clinical trials and relies on evidence extrapolated from general migraine research; combined with a Blocking data gap on TFDA/EMA warnings and contraindications (DG001), a safety-informed decision cannot yet be made.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (Blocking): obtain SmPC/label warnings and contraindications for melatonin
+- Resolve DG002 (High): obtain detailed mechanism of action data from DrugBank
+- Subtype-stratified clinical evidence specifically for migraine with (vs. without) brainstem aura
+- Clarification of melatonin's EU regulatory/marketing status, since 0 licenses are currently on record
+- Consider evaluating the broader "migraine disorder" indication in parallel, which has substantially stronger evidence (L1, Phase 3 RCT, meta-analysis) and may be a more defensible near-term repurposing candidate
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

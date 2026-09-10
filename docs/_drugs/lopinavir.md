@@ -1,134 +1,116 @@
 ---
 layout: default
 title: Lopinavir
-description: "lopinavir drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 352
+parent: 僅模型預測 (L5)
+nav_order: 364
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Lopinavir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Lopinavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+
+## One-Sentence Summary
+
+> Lopinavir (co-formulated with ritonavir as Lopinavir/Ritonavir, brand name Kaletra) is an HIV-1 protease inhibitor originally used for HIV-1 infection.
+> The TxGNN model's top-ranked prediction suggests it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**,
+> but this is currently supported by **0 clinical trials** and only **3 publications** (all animal-model studies), placing it at the lowest evidence tier.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Lopinavir |
-| DrugBank ID | [DB01601](https://go.drugbank.com/drugs/DB01601) |
-| Brand Names (EU) | Lopinavir |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.95% |
+| Item | Content |
+|------|------|
+| Original Indication | HIV-1 Infection (established antiretroviral use, as part of Lopinavir/Ritonavir combination therapy) |
+| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
+| TxGNN Prediction Score | 99.90% |
+| Evidence Level | L4 |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Lopinavir/ritonavir is indicated in combination with other antiretroviral medicinal products for the treatment of human immunodeficiency virus (HIV-1) infected adults, adolescents and children above the age of 2 years. The choice of lopinavir/ritonavir to treat protease inhibitor experienced HIV-1 infected patients should be based on individual viral resistance testing and treatment history of patients.
+Currently, detailed mechanism of action data is not available from DrugBank for this evidence pack. Based on well-established pharmacology, Lopinavir is a HIV-1 protease inhibitor, boosted by ritonavir (Lopinavir/Ritonavir, Kaletra), and its efficacy in HIV-1 infection has been extensively proven in clinical practice.
 
----
+The predicted new indication, SIV infection, is a lentivirus disease affecting non-human primates. SIV protease shares high structural homology with HIV-1 protease, which is why SIV-infected macaque models have long served as a preclinical platform to test antiretroviral regimens intended for human HIV-1 treatment.
 
-## Predicted New Indications
+However, this prediction is essentially a veterinary/animal-model application rather than a genuine human clinical indication. The high TxGNN score (99.90%) likely reflects tight embedding-space proximity between "SIV" and "HIV" nodes in the knowledge graph, rather than an unmet human therapeutic need. It should be read as a technical extension of the existing HIV-1 indication, not a novel repurposing opportunity for human patients.
 
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | HIV infectious disease | 99.95% | DL |
-| 2 | simian immunodeficiency virus infection | 99.90% | DL |
-| 3 | feline acquired immunodeficiency syndrome | 99.90% | DL |
-| 4 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 99.90% | DL |
-| 5 | AIDS | 99.19% | DL |
-| 6 | chronic hepatitis C virus infection | 98.30% | DL |
-| 7 | AIDS related complex | 98.24% | DL |
-| 8 | congenital human immunodeficiency virus | 98.24% | DL |
-| 9 | obsolete familial combined hyperlipidemia | 95.24% | DL |
-| 10 | hepatitis B virus infection | 93.19% | DL |
-| 11 | hepatitis C virus infection | 88.29% | DL |
-| 12 | fibroma of prostate | 87.09% | DL |
-| 13 | Brenner tumor | 86.28% | DL |
-| 14 | benign reproductive system neoplasm | 86.17% | DL |
-| 15 | benign prostate phyllodes tumor | 85.56% | DL |
-| 16 | hepatitis E virus infection | 85.38% | DL |
-| 17 | hepatitis, viral, animal | 85.21% | DL |
-| 18 | hepatitis A virus infection | 84.96% | DL |
-| 19 | Omsk hemorrhagic fever | 84.84% | DL |
-| 20 | Kyasanur forest disease | 84.40% | DL |
-
-*Showing top 20 of 50 predictions.*
+**Note:** Within the same evidence pack, two other predicted indications — *congenital human immunodeficiency virus* (rank 4) and *AIDS related complex* (rank 5) — carry **L1 evidence** (multiple completed Phase 3 RCTs, "Proceed with Guardrails"). These are stronger, clinically meaningful signals but represent extensions of the already-approved HIV-1 indication rather than the model's top-ranked (rank 1) prediction reported above.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Animal Study (Macaque) | Journal of Virology | Quadruple antiretroviral therapy produced rapid viral decay in SIV-infected cynomolgus macaques |
+| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Animal Study (SHIV construct) | Microbes and Infection | Novel SHIV bearing an HIV-1-derived protease gene, used as an in vivo platform for testing protease inhibitors |
+| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Animal Study (Macaque) | Journal of Virological Methods | Oral HAART including Lopinavir/Ritonavir affected CD8 subset in SHIV-infected monkeys |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Lopinavir currently holds no EU marketing authorizations on record (market status: **not marketed**, 0 licenses).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: TFDA/EMA label warnings and contraindications are flagged as a Blocking data gap — DG001 — pending SmPC PDF retrieval and parsing.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (SIV infection) has no clinical trial support and is backed only by three Tier-3 animal-model publications. It represents a veterinary/preclinical model condition rather than a human therapeutic need, and the high TxGNN score is best explained by knowledge-graph node proximity (SIV↔HIV) rather than a genuine repurposing signal.
+
+**To proceed, the following is needed:**
+- Confirm this candidate should not advance as a human indication; redirect evaluation focus to the higher-evidence candidates in this same evidence pack (congenital HIV infection and AIDS related complex, both L1 / Proceed with Guardrails)
+- Resolve DG001 (TFDA/EMA label warnings and contraindications — Blocking)
+- Resolve DG002 (detailed mechanism of action from DrugBank)
+- Verify EU marketing authorization status, since current data shows 0 licenses
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

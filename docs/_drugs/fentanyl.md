@@ -1,132 +1,105 @@
 ---
 layout: default
 title: Fentanyl
-description: "Fentanyl drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 241
+parent: 僅模型預測 (L5)
+nav_order: 250
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Fentanyl
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Fentanyl: From Opioid Analgesic Use to Nephrogenic Syndrome of Inappropriate Antidiuresis
+
+## One-Sentence Summary
+
+Fentanyl is a potent synthetic opioid used clinically as an analgesic and anesthetic adjunct. The TxGNN model's top-ranked prediction is that it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis**, but this candidate is currently supported by **0 clinical trials** and **0 publications** — the mechanistic rationale actually points in the opposite direction (opioids are more commonly associated with *causing* SIADH-like dysregulation than treating it).
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Fentanyl |
-| DrugBank ID | [DB00813](https://go.drugbank.com/drugs/DB00813) |
-| Brand Names (EU) | PecFent |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — no formal indication or license text was captured for this drug in the current evidence pack (drug is not marketed in the evaluated jurisdiction). Generically, fentanyl is known as an opioid analgesic. |
+| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis |
+| TxGNN Prediction Score | 99.46% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.46% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available for this candidate (flagged as a High-severity data gap — DrugBank MOA lookup pending). Based on general pharmacological knowledge, fentanyl is a synthetic opioid and potent μ-opioid receptor agonist, primarily used for severe acute/chronic pain management and as an anesthesia adjunct.
+
+For this specific prediction, the mechanistic story is weak and arguably runs counter to the proposed indication. The evidence pack's own rationale notes that opioids are known to be associated with dysregulated antidiuretic hormone (ADH) secretion as an **adverse effect**, not a therapeutic one — meaning the direction of the proposed mechanism is inconsistent with treating a syndrome of inappropriate antidiuresis. No clinical trials or literature were found linking fentanyl to this indication, so the prediction currently rests entirely on the TxGNN model's statistical association, without any corroborating mechanistic or empirical support.
+
+Given this, the reasoning underlying the drug's original opioid-analgesic use does not translate meaningfully to this new indication, and the prediction should be treated as exploratory only.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## EU Market Information
+
+Fentanyl currently has no marketing authorizations recorded in this evidence pack (market status: Not Marketed, 0 total licenses). No product/indication table can be generated.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*(Note: key warnings, contraindications, and drug-interaction data are all currently unavailable/not found in this evidence pack, including a Blocking-severity gap for TFDA label warnings and contraindications.)*
+
+## Alternative Candidates Worth Noting
+
+The top-ranked prediction (by TxGNN score alone) has the weakest evidentiary support in this pack. Two lower-ranked candidates have materially stronger evidence and may be more productive lines of inquiry:
+
+| Rank | Disease | Evidence Level | Decision Stage | Note |
+|------|---------|-----------------|-----------------|------|
+| 4 | Myofascial pain syndrome | L2 | S2 (Research Question) | Phase 3 RCT (NCT00343733, n=120) plus a review on long-term opioid use in TMJ dysfunction; reflects fentanyl's established analgesic role rather than disease-specific mechanism. |
+| 10 | Tendinitis | L3 | S1 (Research Question) | Multiple RCTs support transdermal/postoperative fentanyl for tendon/rotator-cuff surgical pain, again as generalized analgesia rather than a tendinitis-specific mechanism. |
+
+Both are extensions of fentanyl's known analgesic use rather than novel disease-modifying indications, but they are far better supported than the rank-1 candidate above.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The highest-scoring TxGNN prediction (nephrogenic syndrome of inappropriate antidiuresis) has no clinical trial or literature support and a mechanistic direction that may actually contradict the proposed benefit. Separately, a Blocking-severity data gap (missing TFDA/regulatory label warnings and contraindications) prevents any safety evaluation from proceeding regardless of indication.
+
+**To proceed, the following is needed:**
+- Regulatory label data (warnings, contraindications) — currently Blocking (DG001)
+- Confirmed mechanism of action from DrugBank — currently High-severity gap (DG002)
+- If pursuing repurposing at all, redirect focus to the better-evidenced candidates (myofascial pain syndrome, tendinitis) and verify that cited trials involve fentanyl itself rather than adjunct/comparator regional anesthesia techniques
+- Original approved indication and license data, to properly assess similarity between old and new indications
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-PecFent is indicated for the management of breakthrough pain in adults who are already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain. Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg of oxycodone daily, at least 8 mg of oral hyd
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | nephrogenic syndrome of inappropriate antidiuresis | 99.46% | DL |
-| 2 | Tourette syndrome | 99.05% | DL |
-| 3 | trichotillomania | 98.87% | DL |
-| 4 | myofascial pain syndrome | 98.09% | DL |
-| 5 | migraine disorder | 98.06% | DL |
-| 6 | manic bipolar affective disorder | 97.73% | DL |
-| 7 | migraine with brainstem aura | 97.71% | DL |
-| 8 | headache disorder | 97.26% | DL |
-| 9 | methemoglobinemia | 97.22% | DL |
-| 10 | idiopathic granulomatous myositis | 97.04% | DL |
-| 11 | myositis fibrosa | 97.04% | DL |
-| 12 | tendinitis | 97.04% | DL |
-| 13 | fibromyalgia | 96.82% | DL |
-| 14 | hypertrichosis (disease) | 96.54% | DL |
-| 15 | trigeminal autonomic cephalalgia | 96.42% | DL |
-| 16 | Ambras type hypertrichosis universalis congenita | 96.35% | DL |
-| 17 | syndrome with a Dandy-Walker malformation as major feature | 96.21% | DL |
-| 18 | inclusion body myositis | 96.18% | DL |
-| 19 | restless legs syndrome | 96.17% | DL |
-| 20 | malformation syndrome with odontal and/or periodontal component | 96.12% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

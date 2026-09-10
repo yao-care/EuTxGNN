@@ -1,145 +1,103 @@
 ---
 layout: default
 title: Filgrastim
-description: "filgrastim drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
-parent: Phase 2 Evidence (L2)
-nav_order: 246
-evidence_level: L2
-indication_count: 50
+parent: 僅模型預測 (L5)
+nav_order: 255
+evidence_level: L5
+indication_count: 10
 ---
 
 # Filgrastim
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Filgrastim: From Neutropenia to Primary Release Disorder of Platelets
+
+## One-Sentence Summary
+
+Filgrastim (recombinant human G-CSF) is originally used to treat neutropenia and to mobilize peripheral blood stem cells prior to transplantation. TxGNN predicts a possible effect on **Primary Release Disorder of Platelets** with a very high model score (99.998%), but the supporting evidence — **14 clinical trials** and **1 publication** — consists almost entirely of transplant-support studies in which filgrastim was used incidentally for stem cell mobilization, not as a treatment targeting platelet release function.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Filgrastim |
-| DrugBank ID | [DB00099](https://go.drugbank.com/drugs/DB00099) |
-| Brand Names (EU) | Ratiograstim |
-| Evidence Level | L2 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 100.00% |
+| Item | Content |
+|------|------|
+| Original Indication | Neutropenia / peripheral blood stem cell mobilization (drug's known pharmacological use; no formal TFDA label text is available in this evidence pack) |
+| Predicted New Indication | Primary release disorder of platelets |
+| TxGNN Prediction Score | 99.998% |
+| Evidence Level | L4 |
+| Market Status (Taiwan) | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on known pharmacology, filgrastim is a recombinant G-CSF that stimulates proliferation and differentiation of granulocyte precursors and mobilizes hematopoietic stem cells — it is not known to act on platelet dense-granule or alpha-granule secretion pathways, which are the defective mechanisms in primary platelet release disorders.
+
+The evidence pack's own mechanistic assessment is explicit on this point: there is no known direct pharmacological link between G-CSF signaling and platelet granule release. The reviewers hypothesize that TxGNN's very high score (rank 48 of all candidate diseases) likely reflects an indirect knowledge-graph connection through "stem cell transplantation" nodes rather than a genuine pharmacological relationship.
+
+Consistent with this, none of the 14 retrieved clinical trials or the single retrieved publication studied filgrastim as a treatment for platelet release disorders — they are transplant, GVHD-prophylaxis, or unrelated-condition studies in which filgrastim appears only as a supportive stem-cell-mobilization agent. This pattern supports treating the prediction as model-driven rather than mechanism-driven.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00245037](https://clinicaltrials.gov/study/NCT00245037) | Phase 1/2 | Completed | 147 | Non-myeloablative allogeneic HSCT for hematologic malignancies; filgrastim used for stem cell mobilization/support, not targeted at a platelet disorder (graded low relevance) |
+| [NCT01335932](https://clinicaltrials.gov/study/NCT01335932) | Phase 2 | Completed | 160 | RCT of ganciclovir/valganciclovir for CMV reactivation prevention in respiratory failure; filgrastim not the study drug (graded low relevance) |
+| [NCT04047628](https://clinicaltrials.gov/study/NCT04047628) | Phase 3 | Recruiting | 156 | AHSCT vs. best available therapy for treatment-resistant relapsing MS; general transplant context, no link to platelet release function (graded low relevance) |
+| [NCT00043979](https://clinicaltrials.gov/study/NCT00043979) | Phase 2 | Completed | 60 | Allogeneic/syngeneic stem cell transplant for high-risk pediatric sarcomas; filgrastim as supportive care only |
+| [NCT00076752](https://clinicaltrials.gov/study/NCT00076752) | Phase 2 | Completed | 9 | Autologous HSCT for severe systemic lupus erythematosus; filgrastim used for stem cell mobilization |
+| [NCT00923364](https://clinicaltrials.gov/study/NCT00923364) | Phase 2 | Completed | 19 | Reduced-intensity HSCT for patients with GATA2 mutations; filgrastim as supportive agent |
+| [NCT00354172](https://clinicaltrials.gov/study/NCT00354172) | Phase 2 | Terminated | 16 | Umbilical cord blood transplant with NK cells for myeloid leukemia; filgrastim as supportive agent |
+| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | Recruiting | 358 | Platform trial of post-transplant cyclophosphamide-based GVHD prophylaxis after mismatched unrelated donor PBSCT; filgrastim as supportive agent |
+| [NCT05436418](https://clinicaltrials.gov/study/NCT05436418) | Phase 1/2 | Recruiting | 260 | Dose-finding for post-transplant cyclophosphamide GVHD prophylaxis after reduced-intensity PBSCT; filgrastim as supportive agent |
+| [NCT02646098](https://clinicaltrials.gov/study/NCT02646098) | Phase 2 | Completed | 64 | CD34+ selected vs. unselected autologous SCT in advanced mantle cell/DLBCL lymphoma; filgrastim as supportive agent |
+
+*(4 additional lower-relevance trials in the evidence pack are omitted here; none directly studied platelet release function.)*
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29770133](https://pubmed.ncbi.nlm.nih.gov/29770133/) | 2018 | Review/Observational | Frontiers in Immunology | G-CSF mobilization in healthy donors preferentially mobilizes lymphocyte subsets during peripheral blood stem cell collection; describes G-CSF immunomodulatory effects in donors, not disease-specific evidence for a platelet release disorder |
+
+## Safety Considerations
+
+A Blocking-severity data gap exists: TFDA label warnings and contraindications for filgrastim have not been retrieved, which prevents this candidate from entering the S1 safety pre-assessment stage. No drug interaction data was found (query returned no results). Please refer to the SmPC/TFDA label for safety information once retrieved.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Evidence level is L4 (mechanism/preclinical-adjacent at best), no trial or publication directly studied filgrastim for this indication, and the evidence pack's own mechanistic review concludes there is no plausible pharmacological link — the high TxGNN score likely reflects an indirect knowledge-graph artifact. A Blocking safety data gap also prevents progression to the S1 safety stage.
+
+**To proceed, the following is needed:**
+- TFDA label warnings/contraindications for filgrastim (Blocking gap, DG001)
+- Confirmed mechanism of action via DrugBank API (High-severity gap, DG002)
+- Direct pharmacological or preclinical evidence linking G-CSF signaling to platelet granule release
+- Clinical studies specifically enrolling patients with primary platelet release disorders, rather than incidental filgrastim use in transplant-support settings
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Ratiograstim is indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with established cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes) and for the reduction in the duration of neutropenia in patients undergoing myeloablative therapy followed by bone-marrow transplantation considered to be at increased risk of prolonged severe neutropenia. The safety and efficacy
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | primary release disorder of platelets | 100.00% | DL |
-| 2 | pseudo-von Willebrand disease | 100.00% | DL |
-| 3 | Glanzmann thrombasthenia | 100.00% | DL |
-| 4 | Scott syndrome | 99.96% | DL |
-| 5 | hemorrhagic disorder due to a constitutional thrombocytopenia | 99.91% | DL |
-| 6 | bleeding diathesis due to a collagen receptor defect | 99.91% | DL |
-| 7 | C1 inhibitor deficiency | 99.84% | DL |
-| 8 | serpinopathy with toxic serpin polymerization | 99.81% | DL |
-| 9 | fetal and neonatal alloimmune thrombocytopenia | 99.77% | DL |
-| 10 | platelet-type bleeding disorder | 99.69% | DL |
-| 11 | hereditary angioedema with C1Inh deficiency | 99.68% | DL |
-| 12 | Ehlers-Danlos syndrome, fibronectinemic type | 99.61% | DL |
-| 13 | severe congenital neutropenia | 99.60% | DL |
-| 14 | Peyronie disease | 99.58% | DL |
-| 15 | primary immunodeficiency syndrome due to p14 deficiency | 99.57% | DL |
-| 16 | cyclic hematopoiesis | 99.50% | DL |
-| 17 | mixed-type autoimmune hemolytic anemia | 99.44% | DL |
-| 18 | proteinuria | 99.43% | DL |
-| 19 | primary CD59 deficiency | 99.42% | DL |
-| 20 | drug-induced autoimmune hemolytic anemia | 99.42% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-
----
-
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| primary release disorder of platelets | L2 | 14 | 0 | 1 Phase 3 trial(s), 10 Phase 2 trial(s) |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

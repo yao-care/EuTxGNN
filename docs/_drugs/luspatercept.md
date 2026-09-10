@@ -1,132 +1,131 @@
 ---
 layout: default
 title: Luspatercept
-description: "Luspatercept drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 357
+parent: 僅模型預測 (L5)
+nav_order: 369
 evidence_level: L5
-indication_count: 52
+indication_count: 10
 ---
 
 # Luspatercept
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Luspatercept: From Anemia in β-Thalassemia/MDS to Pyruvate Kinase Deficiency of Red Cells
+
+## One-Sentence Summary
+
+> Luspatercept is a biologic used internationally to treat anemia associated with transfusion-dependent β-thalassemia and myelodysplastic syndromes (MDS), both driven by ineffective erythropoiesis.
+> The TxGNN model predicts it may also be relevant for **Pyruvate Kinase Deficiency of Red Cells**, a hereditary hemolytic anemia with a similar underlying pathophysiology.
+> However, this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure computational hypothesis (L5) that has not yet been tested.
+
+**Note on candidate selection:** This Evidence Pack contains 10 TxGNN-predicted indications for luspatercept. The single highest-scoring prediction (*monosomy X*, score 95.99%) is explicitly flagged in the evidence pack's own rationale as likely knowledge-graph noise with no plausible mechanistic link. Among the 10 candidates, only three (Pyruvate Kinase Deficiency, Thalassemia beta+ silent allele, Hb Bart's hydrops fetalis) reach decision stage S1 ("Research Question") rather than S0 ("Hold"). This report focuses on **Pyruvate Kinase Deficiency of Red Cells** as the most biologically coherent and clinically meaningful candidate; the full candidate landscape is summarized near the end of this report.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Luspatercept |
-| DrugBank ID | [DB12281](https://go.drugbank.com/drugs/DB12281) |
-| Brand Names (EU) | Reblozyl |
-| Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 96.32% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available from Taiwan regulatory data (drug not marketed in Taiwan). Per evidence-pack rationale text, internationally approved for anemia in transfusion-dependent β-thalassemia and MDS |
+| Predicted New Indication | Pyruvate Kinase Deficiency of Red Cells |
+| TxGNN Prediction Score | 93.84% (rank 43,686 of all drug-disease pairs) |
+| Evidence Level | L5 — model prediction only, no clinical trials or literature |
+| Taiwan Market Status | Not marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold (flagged internally as "Research Question") |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Reblozyl is indicated in adults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).Reblozyl is indicated in adults for the treatment of anaemia associated with transfusion dependent and non transfusion dependent beta thalassaemia.&nbsp; Reblozyl is indicated in adults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).Reblozyl is indicated in adult
+Detailed formal mechanism-of-action data is flagged as a data gap (DG002) in this evidence pack. However, the pack's own rationale text describes luspatercept as an **ActRIIB-Fc fusion protein ("ligand trap")** that binds TGF-β superfamily ligands (GDF11, activin B) and inhibits downstream Smad2/3 signaling, thereby promoting **late-stage erythroid maturation**. This mechanism is distinct from erythropoietin-stimulating agents, acting instead on the terminal differentiation step of red blood cell production.
 
----
+Luspatercept's established indications — β-thalassemia and MDS — share a common pathophysiological feature: **ineffective erythropoiesis**, where red blood cell precursors fail to mature properly, leading to chronic anemia despite adequate or excessive erythroid precursor numbers. Pyruvate kinase (PK) deficiency of red cells is a hereditary enzymopathy causing chronic hemolytic anemia with a **compensatory but ineffective erythropoiesis** response — mechanistically analogous to the underlying biology luspatercept already addresses in its approved indications.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | dominant beta-thalassemia | 96.32% | DL |
-| 2 | monosomy X | 96.00% | DL |
-| 3 | hepatic infarction | 95.70% | DL |
-| 4 | hepatic veno-occlusive disease | 94.91% | DL |
-| 5 | peliosis hepatis | 94.75% | DL |
-| 6 | syndrome with combined immunodeficiency | 94.28% | DL |
-| 7 | pyruvate kinase deficiency of red cells | 93.84% | DL |
-| 8 | thalassemia, beta+, silent allele | 93.32% | DL |
-| 9 | familial apolipoprotein C-II deficiency | 93.05% | DL |
-| 10 | adenosine deaminase deficiency | 92.86% | DL |
-| 11 | Hb Bart's hydrops fetalis | 92.75% | DL |
-| 12 | beta-thalassemia with other manifestations | 92.61% | DL |
-| 13 | mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies | 92.34% | DL |
-| 14 | partial deletion of the short arm of chromosome 16 | 92.14% | DL |
-| 15 | hemolytic anemia due to glucophosphate isomerase deficiency | 91.92% | DL |
-| 16 | liver angiosarcoma | 91.84% | DL |
-| 17 | pyropoikilocytosis, hereditary | 91.80% | DL |
-| 18 | reticular dysgenesis | 91.66% | DL |
-| 19 | beta thalassemia | 91.57% | DL |
-| 20 | severe combined immunodeficiency due to LCK deficiency | 91.50% | DL |
-
-*Showing top 20 of 52 predictions.*
+Because luspatercept acts downstream, at the late erythroid maturation stage rather than on a disease-specific upstream defect, there is a plausible (though untested) rationale that it could partially normalize red cell output in PK deficiency as well. This is explicitly framed in the evidence pack as a *hypothesis extrapolated from mechanistic analogy*, not as evidence of proven efficacy — safety data on the use of luspatercept in a distinct hemolytic anemia population are entirely unavailable.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Luspatercept currently holds **no marketing authorizations in Taiwan** (market status: 未上市, total licenses: 0). No product, dosage form, or approved indication text is available from the local regulatory dataset for this evidence pack.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Critical data gap:** TFDA label warnings and contraindications (DG001) are marked as a **Blocking** data gap in this evidence pack — this must be resolved before any safety-stage (S1) evaluation can proceed. No drug-drug interaction data was found (`query_status: not_found`).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Other Predicted Indications in This Evidence Pack
+
+For transparency, the full set of 10 TxGNN-predicted indications for luspatercept is summarized below, ranked by TxGNN score. Only three reach decision stage S1 ("Research Question"); the rest are held at S0 due to weak or absent mechanistic plausibility per the evidence pack's own rationale.
+
+| Rank | Disease | TxGNN Score | Decision Stage | Recommendation | Mechanistic Plausibility |
+|------|---------|-----------|-----------------|-----------------|---------------------------|
+| 1 | Monosomy X (Turner syndrome) | 95.99% | S0 | Hold | Likely KG noise — no direct link |
+| 2 | Hepatic infarction | 95.70% | S0 | Hold | No plausible pathway |
+| 3 | Hepatic veno-occlusive disease | 94.91% | S0 | Hold | Speculative TGF-β/fibrosis link, unvalidated |
+| 4 | Peliosis hepatis | 94.75% | S0 | Hold | No direct mechanistic link |
+| 5 | Combined immunodeficiency syndrome | 94.28% | S0 | Hold | No plausible pathway |
+| **6** | **Pyruvate kinase deficiency of red cells** | **93.84%** | **S1** | **Research Question** | Shared ineffective erythropoiesis biology |
+| 7 | Thalassemia, beta+, silent allele | 93.32% | S1 | Research Question | Mechanistically overlaps with approved β-thalassemia indication |
+| 8 | Familial apolipoprotein C-II deficiency | 93.05% | S0 | Hold | No known pathway overlap |
+| 9 | Adenosine deaminase deficiency | 92.86% | S0 | Hold | No plausible pathway |
+| 10 | Hb Bart's hydrops fetalis | 92.75% | S1 | Research Question | Same thalassemia-family biology; fetal safety unknown |
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This prediction is supported only by mechanistic analogy (L5, model prediction only) with zero clinical trials and zero publications. Additionally, luspatercept is not currently marketed in Taiwan, and a **Blocking** safety data gap (TFDA warnings/contraindications) prevents any progression to a formal safety-stage evaluation.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (Blocking): obtain TFDA/international label warnings and contraindications
+- Resolve DG002 (High): confirm formal MOA documentation via DrugBank API
+- Identify or commission preclinical/proof-of-concept data specific to PK deficiency of red cells
+- Monitor ClinicalTrials.gov and PubMed for emerging evidence, as this candidate is currently a pure research question with no active studies
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

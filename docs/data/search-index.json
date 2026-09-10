@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27",
-  "drug_count": 729,
-  "indication_count": 2571,
+  "generated": "2026-09-10",
+  "drug_count": 793,
+  "indication_count": 2628,
   "drugs": [
     {
       "name": "Abacavir",
@@ -19995,6 +19995,14 @@
       ]
     },
     {
+      "name": "Efmoroctocog Alfa",
+      "slug": "efmoroctocog_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Eftrenonacog Alfa",
       "slug": "eftrenonacog-alfa",
       "brands": [
@@ -20104,6 +20112,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Eftrenonacog Alfa",
+      "slug": "eftrenonacog_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Elacestrant",
@@ -20659,6 +20675,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Eliglustat",
+      "slug": "eliglustat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Elotuzumab",
@@ -21438,6 +21462,14 @@
       ]
     },
     {
+      "name": "Enalapril",
+      "slug": "enalapril",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Encorafenib",
       "slug": "encorafenib",
       "brands": [
@@ -21660,6 +21692,14 @@
       ]
     },
     {
+      "name": "Enfortumab Vedotin",
+      "slug": "enfortumab_vedotin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Enfuvirtide",
       "slug": "enfuvirtide",
       "brands": [
@@ -21880,6 +21920,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Enoxaparin",
+      "slug": "enoxaparin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Entacapone",
@@ -22333,7 +22381,7 @@
         "Eurneffy"
       ],
       "original": "Emergency treatment of allergic reactions (anaphylaxis) due to insect stings or bites, foods, medicinal products and other allergens as well as idiopathic or exercise induced anaphylaxis. Treatment is...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "bronchitis",
@@ -22445,7 +22493,7 @@
         "Integrilin"
       ],
       "original": "Integrilin is intended for use with acetylsalicylic acid and unfractionated heparin. Integrilin is indicated for the prevention of early myocardial infarction in patients presenting with unstable angi...",
-      "level": "L4",
+      "level": "L5",
       "indications": [
         {
           "name": "rheumatoid arthritis",
@@ -23327,6 +23375,14 @@
       ]
     },
     {
+      "name": "Ertapenem",
+      "slug": "ertapenem",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Esketamine Hydrochloride",
       "slug": "esketamine-hydrochloride",
       "brands": [
@@ -23438,6 +23494,14 @@
       ]
     },
     {
+      "name": "Esketamine",
+      "slug": "esketamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Eslicarbazepine Acetate",
       "slug": "eslicarbazepine-acetate",
       "brands": [
@@ -23547,6 +23611,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Eslicarbazepine Acetate",
+      "slug": "eslicarbazepine_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Esomeprazole",
@@ -23994,13 +24066,21 @@
       ]
     },
     {
+      "name": "Etelcalcetide",
+      "slug": "etelcalcetide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Etravirine",
       "slug": "etravirine",
       "brands": [
         "Intelence"
       ],
       "original": "Intelence, in combination with a boosted protease inhibitor and other antiretroviral medicinal products, is indicated for the treatment of human-immunodeficiency-virus-type-1 (HIV-1) infection in anti...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "HIV infectious disease",
@@ -24778,7 +24858,7 @@
         "Febuxostat Krka"
       ],
       "original": "Febuxostat Krka is indicated for the treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty arthritis)....",
-      "level": "L4",
+      "level": "L5",
       "indications": [
         {
           "name": "obsolete hyperuricemia (disease)",
@@ -24994,6 +25074,14 @@
       ]
     },
     {
+      "name": "Fenfluramine",
+      "slug": "fenfluramine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Fenofibrate",
       "slug": "fenofibrate",
       "brands": [
@@ -25115,103 +25203,13 @@
       "level": "L5",
       "indications": [
         {
-          "name": "nephrogenic syndrome of inappropriate antidiuresis",
-          "score": 99.46,
+          "name": "Myofascial pain syndrome | L2 | S2 (Research Question) | Phase 3 RCT (NCT00343733, n=120) plus a review on long-term opioid use in TMJ dysfunction; reflects fentanyl's established analgesic role rather than disease-specific mechanism.",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Tourette syndrome",
-          "score": 99.05,
-          "level": "L5"
-        },
-        {
-          "name": "trichotillomania",
-          "score": 98.87,
-          "level": "L5"
-        },
-        {
-          "name": "myofascial pain syndrome",
-          "score": 98.09,
-          "level": "L5"
-        },
-        {
-          "name": "migraine disorder",
-          "score": 98.06,
-          "level": "L5"
-        },
-        {
-          "name": "manic bipolar affective disorder",
-          "score": 97.73,
-          "level": "L5"
-        },
-        {
-          "name": "migraine with brainstem aura",
-          "score": 97.71,
-          "level": "L5"
-        },
-        {
-          "name": "headache disorder",
-          "score": 97.26,
-          "level": "L5"
-        },
-        {
-          "name": "methemoglobinemia",
-          "score": 97.22,
-          "level": "L5"
-        },
-        {
-          "name": "idiopathic granulomatous myositis",
-          "score": 97.04,
-          "level": "L5"
-        },
-        {
-          "name": "myositis fibrosa",
-          "score": 97.04,
-          "level": "L5"
-        },
-        {
-          "name": "tendinitis",
-          "score": 97.04,
-          "level": "L5"
-        },
-        {
-          "name": "fibromyalgia",
-          "score": 96.82,
-          "level": "L5"
-        },
-        {
-          "name": "hypertrichosis (disease)",
-          "score": 96.54,
-          "level": "L5"
-        },
-        {
-          "name": "trigeminal autonomic cephalalgia",
-          "score": 96.42,
-          "level": "L5"
-        },
-        {
-          "name": "Ambras type hypertrichosis universalis congenita",
-          "score": 96.35,
-          "level": "L5"
-        },
-        {
-          "name": "syndrome with a Dandy-Walker malformation as major feature",
-          "score": 96.21,
-          "level": "L5"
-        },
-        {
-          "name": "inclusion body myositis",
-          "score": 96.18,
-          "level": "L5"
-        },
-        {
-          "name": "restless legs syndrome",
-          "score": 96.17,
-          "level": "L5"
-        },
-        {
-          "name": "malformation syndrome with odontal and/or periodontal component",
-          "score": 96.12,
+          "name": "Tendinitis | L3 | S1 (Research Question) | Multiple RCTs support transdermal/postoperative fentanyl for tendon/rotator-cuff surgical pain, again as generalized analgesia rather than a tendinitis-specific mechanism.",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -25328,6 +25326,14 @@
       ]
     },
     {
+      "name": "Ferric Maltol",
+      "slug": "ferric_maltol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Fesoterodine Fumarate",
       "slug": "fesoterodine-fumarate",
       "brands": [
@@ -25437,6 +25443,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Fesoterodine",
+      "slug": "fesoterodine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Fidaxomicin",
@@ -25661,13 +25675,21 @@
       ]
     },
     {
+      "name": "Filgotinib",
+      "slug": "filgotinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Filgrastim",
       "slug": "filgrastim",
       "brands": [
         "Ratiograstim"
       ],
       "original": "Ratiograstim is indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with established cytotoxic chemotherapy for malignancy (with the...",
-      "level": "L2",
+      "level": "L5",
       "indications": [
         {
           "name": "primary release disorder of platelets",
@@ -25994,6 +26016,14 @@
       ]
     },
     {
+      "name": "Florbetaben 18F",
+      "slug": "florbetaben_18f",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Florbetapir (18F)",
       "slug": "florbetapir-18f",
       "brands": [
@@ -26103,6 +26133,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Florbetapir 18F",
+      "slug": "florbetapir_18f",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Fluciclovine (18F)",
@@ -26216,6 +26254,14 @@
       ]
     },
     {
+      "name": "Fluciclovine 18F",
+      "slug": "fluciclovine_18f",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Flutemetamol (18F)",
       "slug": "flutemetamol-18f",
       "brands": [
@@ -26325,6 +26371,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Flutemetamol 18F",
+      "slug": "flutemetamol_18f",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Fluticasone Furoate",
@@ -26552,6 +26606,22 @@
       ]
     },
     {
+      "name": "Fluticasone Furoate",
+      "slug": "fluticasone_furoate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluticasone Propionate",
+      "slug": "fluticasone_propionate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Fondaparinux Sodium",
       "slug": "fondaparinux-sodium",
       "brands": [
@@ -26661,6 +26731,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Fondaparinux",
+      "slug": "fondaparinux",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Fosaprepitant",
@@ -26883,6 +26961,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Fostamatinib",
+      "slug": "fostamatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Fremanezumab",
@@ -27551,6 +27637,14 @@
       ]
     },
     {
+      "name": "Ganirelix",
+      "slug": "ganirelix",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Gefitinib",
       "slug": "gefitinib",
       "brands": [
@@ -27773,6 +27867,14 @@
       ]
     },
     {
+      "name": "Gemtuzumab Ozogamicin",
+      "slug": "gemtuzumab_ozogamicin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Gilteritinib Fumarate",
       "slug": "gilteritinib-fumarate",
       "brands": [
@@ -27882,6 +27984,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Gilteritinib",
+      "slug": "gilteritinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Gimeracil",
@@ -28215,6 +28325,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Glasdegib",
+      "slug": "glasdegib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Glecaprevir",
@@ -28770,6 +28888,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Glycerol Phenylbutyrate",
+      "slug": "glycerol_phenylbutyrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Glycopyrronium",
@@ -30074,6 +30200,14 @@
       ]
     },
     {
+      "name": "Icatibant",
+      "slug": "icatibant",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Icosapent Ethyl",
       "slug": "icosapent-ethyl",
       "brands": [
@@ -30183,6 +30317,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Icosapent Ethyl",
+      "slug": "icosapent_ethyl",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Idarucizumab",
@@ -30748,7 +30890,7 @@
         "Imatinib Teva"
       ],
       "original": "Imatinib Teva is indicated for the treatment of  Adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr?abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marro...",
-      "level": "L2",
+      "level": "L5",
       "indications": [
         {
           "name": "dermatofibrosarcoma protuberans",
@@ -30970,106 +31112,51 @@
         "Imipenem"
       ],
       "original": "",
-      "level": "L2",
+      "level": "L5",
       "indications": [
         {
-          "name": "diffuse scleroderma",
+          "name": "Diffuse scleroderma (rank 1, highest score)",
           "score": 99.99,
           "level": "L5"
         },
         {
-          "name": "paratyphoid fever",
+          "name": "Paratyphoid fever",
           "score": 99.99,
-          "level": "L5"
+          "level": "L3"
         },
         {
-          "name": "bacterial arthritis",
+          "name": "Salmonellosis",
           "score": 99.99,
-          "level": "L5"
+          "level": "L3"
         },
         {
-          "name": "salmonellosis",
+          "name": "Sinusitis",
           "score": 99.99,
-          "level": "L5"
+          "level": "L3"
         },
         {
-          "name": "sinusitis",
-          "score": 99.99,
-          "level": "L5"
+          "name": "Chronic rhinosinusitis",
+          "score": 99.98,
+          "level": "L4"
         },
         {
-          "name": "chronic rhinosinusitis",
+          "name": "Typhoid fever",
+          "score": 99.98,
+          "level": "L3"
+        },
+        {
+          "name": "Chronic ethmoidal sinusitis",
+          "score": 99.98,
+          "level": "L4"
+        },
+        {
+          "name": "Paranasal sinus neoplasm",
           "score": 99.98,
           "level": "L5"
         },
         {
-          "name": "typhoid fever",
-          "score": 99.98,
-          "level": "L5"
-        },
-        {
-          "name": "chronic ethmoidal sinusitis",
-          "score": 99.98,
-          "level": "L5"
-        },
-        {
-          "name": "paranasal sinus neoplasm (disease)",
-          "score": 99.98,
-          "level": "L5"
-        },
-        {
-          "name": "staphylococcus aureus infection",
-          "score": 99.95,
-          "level": "L5"
-        },
-        {
-          "name": "peritonitis",
-          "score": 99.9,
-          "level": "L5"
-        },
-        {
-          "name": "bacterial pneumonia",
-          "score": 99.88,
-          "level": "L5"
-        },
-        {
-          "name": "eosinophilia-myalgia syndrome",
+          "name": "Eosinophilia-myalgia syndrome",
           "score": 99.85,
-          "level": "L5"
-        },
-        {
-          "name": "infectious otitis media",
-          "score": 99.83,
-          "level": "L5"
-        },
-        {
-          "name": "epiglottitis",
-          "score": 99.83,
-          "level": "L5"
-        },
-        {
-          "name": "streptococcal pneumonia",
-          "score": 99.81,
-          "level": "L5"
-        },
-        {
-          "name": "conjunctivitis",
-          "score": 99.8,
-          "level": "L5"
-        },
-        {
-          "name": "scleroderma, familial progressive",
-          "score": 99.76,
-          "level": "L5"
-        },
-        {
-          "name": "suppurative otitis media",
-          "score": 99.75,
-          "level": "L5"
-        },
-        {
-          "name": "chronic otitis media",
-          "score": 99.75,
           "level": "L5"
         }
       ]
@@ -31520,6 +31607,14 @@
       ]
     },
     {
+      "name": "Indacaterol",
+      "slug": "indacaterol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Inebilizumab",
       "slug": "inebilizumab",
       "brands": [
@@ -31529,103 +31624,48 @@
       "level": "L5",
       "indications": [
         {
-          "name": "drug-induced osteoporosis",
-          "score": 96.44,
+          "name": "Drug-induced osteoporosis | 96.44% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "psoriasis",
-          "score": 95.75,
+          "name": "Psoriasis | 95.75% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pityriasis lichenoides",
-          "score": 94.03,
+          "name": "Pityriasis lichenoides | 94.03% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "plasma cell myeloma",
-          "score": 92.75,
+          "name": "Indolent plasma cell myeloma | 92.65% | L4 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "indolent plasma cell myeloma",
-          "score": 92.65,
+          "name": "Ulcerative colitis | 92.38% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "ulcerative colitis (disease)",
-          "score": 92.38,
+          "name": "Congenital hypotrichosis with juvenile macular dystrophy | 91.59% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "congenital hypotrichosis with juvenile macular dystrophy",
-          "score": 91.59,
+          "name": "HER2-positive breast carcinoma | 91.55% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "HER2 positive breast carcinoma",
-          "score": 91.55,
+          "name": "Parapsoriasis | 91.49% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "parapsoriasis",
-          "score": 91.49,
-          "level": "L5"
-        },
-        {
-          "name": "severe nonproliferative diabetic retinopathy",
-          "score": 90.6,
-          "level": "L5"
-        },
-        {
-          "name": "acute lichenoid pityriasis",
-          "score": 90.26,
-          "level": "L5"
-        },
-        {
-          "name": "primary release disorder of platelets",
-          "score": 89.69,
-          "level": "L5"
-        },
-        {
-          "name": "progesterone-receptor positive breast cancer",
-          "score": 89.51,
-          "level": "L5"
-        },
-        {
-          "name": "normal breast-like subtype of breast carcinoma",
-          "score": 89.51,
-          "level": "L5"
-        },
-        {
-          "name": "breast tumor luminal A or B",
-          "score": 89.36,
-          "level": "L5"
-        },
-        {
-          "name": "rheumatoid arthritis",
-          "score": 89.21,
-          "level": "L5"
-        },
-        {
-          "name": "pustulosis palmaris et plantaris",
-          "score": 89.21,
-          "level": "L5"
-        },
-        {
-          "name": "progesterone-receptor negative breast cancer",
-          "score": 89.13,
-          "level": "L5"
-        },
-        {
-          "name": "inflammatory bowel disease",
-          "score": 89.07,
-          "level": "L5"
-        },
-        {
-          "name": "psoriasis 14, pustular",
-          "score": 88.6,
+          "name": "Severe nonproliferative diabetic retinopathy | 90.60% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -31641,103 +31681,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "rheumatoid arthritis",
-          "score": 93.42,
+          "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 90.22% | L5 | S0 | **Hold** — no mechanistic link, model artifact",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-          "score": 90.22,
+          "name": "Brachydactyly-syndactyly syndrome | 89.88% | L5 | S0 | **Hold** — model artifact",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "brachydactyly-syndactyly syndrome",
-          "score": 89.88,
+          "name": "Rheumatoid vasculitis | 85.32% | L3 | S1 | Research Question — conflicting signal (treats vs. induces)",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "rheumatoid vasculitis",
-          "score": 85.32,
+          "name": "Hypermobility of coccyx | 82.49% | L5 | S0 | **Hold** — model artifact",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "ankylosing spondylitis",
-          "score": 82.92,
+          "name": "Anus disease (perianal Crohn's) | 81.21% | L2 | S3 | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hypermobility of coccyx",
-          "score": 82.49,
+          "name": "Kummell disease | 81.15% | L5 | S0 | **Hold** — model artifact",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "anus disease",
-          "score": 81.21,
+          "name": "Inflammatory spondylopathy | 80.92% | L1 | S3 | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Kummell disease",
-          "score": 81.15,
+          "name": "Polyarticular juvenile rheumatoid arthritis | 80.14% | L1 | S3 | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "inflammatory spondylopathy",
-          "score": 80.92,
+          "name": "Bronchitis | 77.87% | L4 | S0 | **Hold** — evidence shows adverse pulmonary events, not efficacy",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "polyarticular juvenile rheumatoid arthritis",
-          "score": 80.14,
-          "level": "L5"
-        },
-        {
-          "name": "bronchitis",
-          "score": 77.87,
-          "level": "L5"
-        },
-        {
-          "name": "spondyloarthropathy, susceptibility to",
-          "score": 77.73,
-          "level": "L5"
-        },
-        {
-          "name": "Crohn disease of the esophagus",
-          "score": 77.58,
-          "level": "L5"
-        },
-        {
-          "name": "functional neutrophil defect",
-          "score": 77.53,
-          "level": "L5"
-        },
-        {
-          "name": "granulomatous disease, chronic, autosomal recessive, 5",
-          "score": 77.2,
-          "level": "L5"
-        },
-        {
-          "name": "granulomatous disease with defect in neutrophil chemotaxis",
-          "score": 76.88,
-          "level": "L5"
-        },
-        {
-          "name": "inflammatory bowel disease",
-          "score": 76.85,
-          "level": "L5"
-        },
-        {
-          "name": "vertebral disease",
-          "score": 75.14,
-          "level": "L5"
-        },
-        {
-          "name": "WHIM syndrome",
-          "score": 73.11,
-          "level": "L5"
-        },
-        {
-          "name": "osteoarthritis susceptibility",
-          "score": 72.62,
+          "name": "Crohn disease of the esophagus | 77.58% | L3 | S2 | Research Question",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -31854,6 +31844,14 @@
       ]
     },
     {
+      "name": "Inotersen",
+      "slug": "inotersen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Inotuzumab Ozogamicin",
       "slug": "inotuzumab-ozogamicin",
       "brands": [
@@ -31963,6 +31961,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Inotuzumab Ozogamicin",
+      "slug": "inotuzumab_ozogamicin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Insulin Aspart",
@@ -37315,6 +37321,14 @@
       ]
     },
     {
+      "name": "Lonoctocog Alfa",
+      "slug": "lonoctocog_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Lopinavir",
       "slug": "lopinavir",
       "brands": [
@@ -37765,7 +37779,7 @@
         "Latuda"
       ],
       "original": "Treatment of schizophrenia in adults aged 18 years and over.",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "manic bipolar affective disorder",
@@ -37879,103 +37893,48 @@
       "level": "L5",
       "indications": [
         {
-          "name": "dominant beta-thalassemia",
-          "score": 96.32,
+          "name": "Monosomy X (Turner syndrome) | 95.99% | S0 | Hold | Likely KG noise — no direct link",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "monosomy X",
-          "score": 96.0,
+          "name": "Hepatic infarction | 95.70% | S0 | Hold | No plausible pathway",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hepatic infarction",
-          "score": 95.7,
+          "name": "Hepatic veno-occlusive disease | 94.91% | S0 | Hold | Speculative TGF-β/fibrosis link, unvalidated",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hepatic veno-occlusive disease",
-          "score": 94.91,
+          "name": "Peliosis hepatis | 94.75% | S0 | Hold | No direct mechanistic link",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "peliosis hepatis",
-          "score": 94.75,
+          "name": "Combined immunodeficiency syndrome | 94.28% | S0 | Hold | No plausible pathway",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "syndrome with combined immunodeficiency",
-          "score": 94.28,
+          "name": "Thalassemia, beta+, silent allele | 93.32% | S1 | Research Question | Mechanistically overlaps with approved β-thalassemia indication",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pyruvate kinase deficiency of red cells",
-          "score": 93.84,
+          "name": "Familial apolipoprotein C-II deficiency | 93.05% | S0 | Hold | No known pathway overlap",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "thalassemia, beta+, silent allele",
-          "score": 93.32,
+          "name": "Adenosine deaminase deficiency | 92.86% | S0 | Hold | No plausible pathway",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "familial apolipoprotein C-II deficiency",
-          "score": 93.05,
-          "level": "L5"
-        },
-        {
-          "name": "adenosine deaminase deficiency",
-          "score": 92.86,
-          "level": "L5"
-        },
-        {
-          "name": "Hb Bart's hydrops fetalis",
-          "score": 92.75,
-          "level": "L5"
-        },
-        {
-          "name": "beta-thalassemia with other manifestations",
-          "score": 92.61,
-          "level": "L5"
-        },
-        {
-          "name": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
-          "score": 92.34,
-          "level": "L5"
-        },
-        {
-          "name": "partial deletion of the short arm of chromosome 16",
-          "score": 92.14,
-          "level": "L5"
-        },
-        {
-          "name": "hemolytic anemia due to glucophosphate isomerase deficiency",
-          "score": 91.92,
-          "level": "L5"
-        },
-        {
-          "name": "liver angiosarcoma",
-          "score": 91.84,
-          "level": "L5"
-        },
-        {
-          "name": "pyropoikilocytosis, hereditary",
-          "score": 91.8,
-          "level": "L5"
-        },
-        {
-          "name": "reticular dysgenesis",
-          "score": 91.66,
-          "level": "L5"
-        },
-        {
-          "name": "beta thalassemia",
-          "score": 91.57,
-          "level": "L5"
-        },
-        {
-          "name": "severe combined immunodeficiency due to LCK deficiency",
-          "score": 91.5,
+          "name": "Hb Bart's hydrops fetalis | 92.75% | S1 | Research Question | Same thalassemia-family biology; fetal safety unknown",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -37990,103 +37949,48 @@
       "level": "L5",
       "indications": [
         {
-          "name": "hereditary thrombocytopenia with normal platelets",
-          "score": 100.0,
+          "name": "Macrothrombocytopenia with mitral valve insufficiency | 99.995% | pending | pending | Scoring not yet completed in this evidence pack",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "marcothrombocytopenia with mitral valve insufficiency",
-          "score": 100.0,
+          "name": "Transient neonatal thrombocytopenia | 99.995% | L5 | Hold | Self-limiting condition; no neonatal safety/PK data for TPO‑RA class",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "transient neonatal thrombocytopenia",
-          "score": 99.99,
+          "name": "Dense granule disease | 99.995% | L5 | Hold | Functional (not quantitative) platelet disorder — mechanism mismatch",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "dense granule disease",
-          "score": 99.99,
+          "name": "Platelet storage pool deficiency | 99.958% | L5 | Hold | Same mechanism mismatch as rank 4",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "thrombocytopenia",
-          "score": 99.99,
+          "name": "Amyotrophic lateral sclerosis | 99.948% | L5 | Hold | No known TPO/MPL pathway link; likely graph noise",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "platelet storage pool deficiency",
-          "score": 99.96,
+          "name": "Lower motor neuron syndrome, late-adult onset | 99.948% | L5 | Hold | Likely graph noise",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "amyotrophic lateral sclerosis",
-          "score": 99.95,
+          "name": "ALS, susceptibility to | 99.946% | L5 | Hold | Genetic susceptibility category, not a treatable disease entity",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "lower motor neuron syndrome with late-adult onset",
-          "score": 99.95,
+          "name": "Bilateral parasagittal parieto-occipital polymicrogyria | 99.945% | L5 | Hold | Cortical malformation; no mechanistic link",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "amyotrophic lateral sclerosis, susceptibility to",
-          "score": 99.95,
-          "level": "L5"
-        },
-        {
-          "name": "bilateral parasagittal parieto-occipital polymicrogyria",
-          "score": 99.95,
-          "level": "L5"
-        },
-        {
-          "name": "axial spondylometaphyseal dysplasia",
-          "score": 99.94,
-          "level": "L5"
-        },
-        {
-          "name": "amyotrohpic lateral sclerosis type 22",
-          "score": 99.94,
-          "level": "L5"
-        },
-        {
-          "name": "Mills syndrome",
-          "score": 99.94,
-          "level": "L5"
-        },
-        {
-          "name": "monomelic amyotrophy",
-          "score": 99.94,
-          "level": "L5"
-        },
-        {
-          "name": "trichomegaly-retina pigmentary degeneration-dwarfism syndrome",
-          "score": 99.94,
-          "level": "L5"
-        },
-        {
-          "name": "autosomal dominant mitochondrial myopathy with exercise intolerance",
-          "score": 99.93,
-          "level": "L5"
-        },
-        {
-          "name": "lethal arthrogryposis-anterior horn cell disease syndrome",
-          "score": 99.93,
-          "level": "L5"
-        },
-        {
-          "name": "kidney pelvis sarcomatoid transitional cell carcinoma",
-          "score": 98.85,
-          "level": "L5"
-        },
-        {
-          "name": "neuronopathy, distal hereditary motor",
-          "score": 98.85,
-          "level": "L5"
-        },
-        {
-          "name": "prostatic urethra urothelial carcinoma",
-          "score": 98.8,
+          "name": "Axial spondylometaphyseal dysplasia | 99.943% | L5 | Hold | Skeletal dysplasia; no mechanistic link",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -38203,6 +38107,14 @@
       ]
     },
     {
+      "name": "Lutropin Alfa",
+      "slug": "lutropin_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Macimorelin Acetate",
       "slug": "macimorelin-acetate",
       "brands": [
@@ -38312,6 +38224,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Macimorelin",
+      "slug": "macimorelin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Macitentan",
@@ -39091,6 +39011,14 @@
       ]
     },
     {
+      "name": "Melphalan",
+      "slug": "melphalan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Memantine Hydrochloride",
       "slug": "memantine-hydrochloride",
       "brands": [
@@ -39200,6 +39128,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Memantine",
+      "slug": "memantine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Mepolizumab",
@@ -39433,103 +39369,48 @@
       "level": "L5",
       "indications": [
         {
-          "name": "focal stiff limb syndrome",
-          "score": 99.45,
+          "name": "Classic Stiff Person Syndrome | 99.45% | L5 | No mechanistic link; autoimmune disorder unrelated to known glucose-lowering action",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "classic stiff person syndrome",
-          "score": 99.45,
+          "name": "Opsismodysplasia | 99.40% | L5 | Rare skeletal dysplasia, no mechanistic link",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "diabetes mellitus (disease)",
-          "score": 99.43,
+          "name": "Thiamine-Responsive Dysfunction Syndrome | 99.40% | L5 | Metformin is known to *interfere* with B12/thiamine metabolism — a potential risk signal, not a therapeutic rationale",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "opsismodysplasia",
-          "score": 99.4,
+          "name": "Drug-Induced Localized Lipodystrophy | 99.06% | L5 | No supporting evidence",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "thiamine-responsive dysfunction syndrome",
-          "score": 99.4,
+          "name": "Centrifugal Lipodystrophy | 98.99% | L5 | No supporting evidence",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "drug-induced localized lipodystrophy",
-          "score": 99.06,
+          "name": "Pressure-Induced Localized Lipoatrophy | 98.96% | L5 | No supporting evidence",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "centrifugal lipodystrophy",
-          "score": 98.99,
+          "name": "Pancreatic Agenesis | 98.91% | L4 | 20 papers reviewed; only 1 indirect case report (Alström syndrome), not disease-specific",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pressure-induced localized lipoatrophy",
-          "score": 98.96,
+          "name": "Idiopathic Localized Lipodystrophy | 98.90% | L5 | No supporting evidence",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pancreatic agenesis",
-          "score": 98.91,
-          "level": "L5"
-        },
-        {
-          "name": "idiopathic localized lipodystrophy",
-          "score": 98.9,
-          "level": "L5"
-        },
-        {
-          "name": "homozygous familial hypercholesterolemia",
-          "score": 92.3,
-          "level": "L5"
-        },
-        {
-          "name": "autoimmune oophoritis",
-          "score": 83.94,
-          "level": "L5"
-        },
-        {
-          "name": "hypervitaminosis",
-          "score": 82.4,
-          "level": "L5"
-        },
-        {
-          "name": "type 1 diabetes mellitus",
-          "score": 79.77,
-          "level": "L5"
-        },
-        {
-          "name": "pulmonary atresia-intact ventricular septum syndrome",
-          "score": 77.36,
-          "level": "L5"
-        },
-        {
-          "name": "pulmonic stenosis (disease)",
-          "score": 76.27,
-          "level": "L5"
-        },
-        {
-          "name": "genetic vascular tumor",
-          "score": 73.85,
-          "level": "L5"
-        },
-        {
-          "name": "arterial duct anomaly",
-          "score": 73.33,
-          "level": "L5"
-        },
-        {
-          "name": "proximal 16p11.2 microdeletion syndrome",
-          "score": 73.09,
-          "level": "L5"
-        },
-        {
-          "name": "subaortic stenosis, membranous",
-          "score": 71.88,
+          "name": "Homozygous Familial Hypercholesterolemia | 92.30% | L4 | Only 2 papers; 1988 in-vitro fibroblast study showing indirect cholesterol-lowering effect, not clinically validated",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -39758,6 +39639,14 @@
       ]
     },
     {
+      "name": "Methoxy Polyethylene Glycol-Epoetin Beta",
+      "slug": "methoxy_polyethylene_glycol-epoetin_beta",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Methylnaltrexone Bromide",
       "slug": "methylnaltrexone-bromide",
       "brands": [
@@ -39869,6 +39758,14 @@
       ]
     },
     {
+      "name": "Methylnaltrexone",
+      "slug": "methylnaltrexone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Methylphenidate Hydrochloride",
       "slug": "methylphenidate-hydrochloride",
       "brands": [
@@ -39975,6 +39872,60 @@
         {
           "name": "Balo concentric sclerosis",
           "score": 95.76,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Methylphenidate",
+      "slug": "methylphenidate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Faciodigitogenital syndrome | Unscored | — | No clinical trials or literature; scoring fields incomplete. Not a usable candidate.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Chondromyxoid fibroma | L5 | Hold | Benign cartilage tumor; no mechanistic link to a CNS stimulant.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Dysthymic disorder | L4 | Research Question | Case-series-level evidence only, as antidepressant augmentation in ADHD-comorbid low mood; no RCTs.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Trichotillomania | L4 | Hold | ⚠️ **Signal runs opposite to the prediction** — multiple case reports describe methylphenidate *inducing or worsening* hair-pulling, not treating it. Should be tracked as an adverse-effect signal, not a repurposing opportunity.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Cerebellar ataxia | L4 | Research Question | Case-report evidence for treating comorbid attentional symptoms in hereditary ataxias (e.g., Joubert syndrome); not a treatment for the ataxia itself.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Autosomal dominant cerebellar ataxia | L5 | Hold | Sole reference is a DAT-PET imaging/pathophysiology study, not treatment evidence.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Spinocerebellar degeneration with slow eye movements | L5 | Hold | Imaging/pathophysiology literature only; no therapeutic rationale.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Benign paroxysmal torticollis of infancy | L5 | Hold | No trials or literature; no plausible mechanistic link.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Insomnia (disease) | L3 | Research Question | ⚠️ **Mechanistic contradiction** — methylphenidate is a stimulant whose typical adverse effect is insomnia. Supporting trials mostly address wakefulness/apathy (e.g., Alzheimer's, MS fatigue) rather than treating insomnia itself; likely reflects TxGNN conflating \"arousal modulation\" with \"insomnia treatment.\"",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -40089,6 +40040,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Methylthioninium",
+      "slug": "methylthioninium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Metreleptin",
@@ -40311,6 +40270,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Mexiletine",
+      "slug": "mexiletine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Micafungin",
@@ -40868,6 +40835,14 @@
       ]
     },
     {
+      "name": "Migalastat",
+      "slug": "migalastat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Miglustat",
       "slug": "miglustat",
       "brands": [
@@ -41199,6 +41174,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Mirvetuximab Soravtansine",
+      "slug": "mirvetuximab_soravtansine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Mitotane",
@@ -41647,6 +41630,14 @@
       ]
     },
     {
+      "name": "Mometasone Furoate",
+      "slug": "mometasone_furoate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Moroctocog Alfa",
       "slug": "moroctocog-alfa",
       "brands": [
@@ -41758,6 +41749,14 @@
       ]
     },
     {
+      "name": "Moroctocog Alfa",
+      "slug": "moroctocog_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Mycophenolate Mofetil",
       "slug": "mycophenolate-mofetil",
       "brands": [
@@ -41867,6 +41866,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Mycophenolate Mofetil",
+      "slug": "mycophenolate_mofetil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Naloxone",
@@ -43314,6 +43321,14 @@
       ]
     },
     {
+      "name": "Niraparib",
+      "slug": "niraparib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Nitisinone",
       "slug": "nitisinone",
       "brands": [
@@ -43534,6 +43549,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Nitric Oxide",
+      "slug": "nitric_oxide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Nivolumab",
@@ -43759,6 +43782,14 @@
       ]
     },
     {
+      "name": "Nomegestrol Acetate",
+      "slug": "nomegestrol_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Nonacog Beta Pegol",
       "slug": "nonacog-beta-pegol",
       "brands": [
@@ -43868,6 +43899,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Nonacog Beta Pegol",
+      "slug": "nonacog_beta_pegol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Norelgestromin",
@@ -44203,6 +44242,14 @@
       ]
     },
     {
+      "name": "Nusinersen",
+      "slug": "nusinersen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Obinutuzumab",
       "slug": "obinutuzumab",
       "brands": [
@@ -44534,6 +44581,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Octreotide",
+      "slug": "octreotide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Ofatumumab",
@@ -44980,13 +45035,21 @@
       ]
     },
     {
+      "name": "Olopatadine",
+      "slug": "olopatadine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Omalizumab",
       "slug": "omalizumab",
       "brands": [
         "Xolair"
       ],
       "original": "Allergic asthma Xolair is indicated in adults, adolescents and children (6 to &lt;12&nbsp;years of age). Xolair treatment should only be considered for patients with convincing IgE (immunoglobulin E) ...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "bronchitis",
@@ -45200,6 +45263,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Onasemnogene Abeparvovec",
+      "slug": "onasemnogene_abeparvovec",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Opicapone",
@@ -45422,6 +45493,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Oritavancin",
+      "slug": "oritavancin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Orlistat",
@@ -45757,6 +45836,14 @@
       ]
     },
     {
+      "name": "Osilodrostat",
+      "slug": "osilodrostat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Ospemifene",
       "slug": "ospemifene",
       "brands": [
@@ -45874,7 +45961,7 @@
         "Oteracil"
       ],
       "original": "Teysuno is indicated in adults: - for the treatment of advanced gastric cancer when given in combination with cisplatin (see section 5.1). - as monotherapy or in combination with oxaliplatin or irinot...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "colonic neoplasm",
@@ -46201,6 +46288,14 @@
       ]
     },
     {
+      "name": "Ozanimod",
+      "slug": "ozanimod",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Paclitaxel",
       "slug": "paclitaxel",
       "brands": [
@@ -46210,7 +46305,7 @@
         "Abraxane"
       ],
       "original": "Apexelsin monotherapy is indicated for the treatment of metastatic breast cancer in adult patients who have failed first-line treatment for metastatic disease and for whom standard, anthracycline cont...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "female breast carcinoma",
@@ -46759,6 +46854,14 @@
       ]
     },
     {
+      "name": "Palonosetron",
+      "slug": "palonosetron",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Panitumumab",
       "slug": "panitumumab",
       "brands": [
@@ -47092,6 +47195,14 @@
       ]
     },
     {
+      "name": "Parathyroid Hormone",
+      "slug": "parathyroid_hormone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Parecoxib Sodium",
       "slug": "parecoxib-sodium",
       "brands": [
@@ -47201,6 +47312,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Parecoxib",
+      "slug": "parecoxib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Pasireotide",
@@ -47423,6 +47542,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Patisiran",
+      "slug": "patisiran",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Pazopanib",
@@ -48662,6 +48789,14 @@
       ]
     },
     {
+      "name": "Pentosan Polysulfate",
+      "slug": "pentosan_polysulfate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Perampanel",
       "slug": "perampanel",
       "brands": [
@@ -49002,7 +49137,7 @@
         "Phenylephrine"
       ],
       "original": "Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement surgery...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "pharyngitis",
@@ -49558,7 +49693,7 @@
         "Plerixafor Accord"
       ],
       "original": "Adult patients Plerixafor Accord is indicated in combination with granulocyte-colony stimulating factor (G-CSF) to enhance mobilisation of haematopoietic stem cells to the peripheral blood for collect...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "plasma cell myeloma",
@@ -49774,6 +49909,14 @@
       ]
     },
     {
+      "name": "Polatuzumab Vedotin",
+      "slug": "polatuzumab_vedotin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Pomalidomide",
       "slug": "pomalidomide",
       "brands": [
@@ -49894,103 +50037,13 @@
       "level": "L5",
       "indications": [
         {
-          "name": "chronic myelogenous leukemia, BCR-ABL1 positive",
-          "score": 99.3,
-          "level": "L5"
-        },
-        {
-          "name": "fibromatosis, gingival",
-          "score": 99.04,
-          "level": "L5"
-        },
-        {
-          "name": "liposarcoma",
+          "name": "Liposarcoma | 99.00% | L4 | Research Question",
           "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia",
-          "score": 98.98,
-          "level": "L5"
-        },
-        {
-          "name": "ovarian myxoid liposarcoma",
-          "score": 98.93,
-          "level": "L5"
-        },
-        {
-          "name": "hamartoma of lung",
-          "score": 98.93,
-          "level": "L5"
-        },
-        {
-          "name": "fibroma of lung",
-          "score": 98.87,
-          "level": "L5"
-        },
-        {
-          "name": "junctional epidermolysis bullosa",
-          "score": 98.86,
-          "level": "L5"
-        },
-        {
-          "name": "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome",
-          "score": 98.83,
-          "level": "L5"
-        },
-        {
-          "name": "lung benign neoplasm",
-          "score": 98.83,
-          "level": "L5"
-        },
-        {
-          "name": "lung hilum carcinoma",
-          "score": 98.81,
-          "level": "L5"
-        },
-        {
-          "name": "Ewing sarcoma",
-          "score": 98.79,
-          "level": "L5"
-        },
-        {
-          "name": "familial thrombocytosis",
-          "score": 98.77,
-          "level": "L5"
-        },
-        {
-          "name": "pulmonary sulcus neoplasm",
-          "score": 98.75,
-          "level": "L5"
-        },
-        {
-          "name": "lung germ cell tumor",
-          "score": 98.75,
-          "level": "L5"
-        },
-        {
-          "name": "reactive thrombocytosis",
-          "score": 98.72,
-          "level": "L5"
-        },
-        {
-          "name": "ovarioleukodystrophy",
-          "score": 98.53,
-          "level": "L5"
-        },
-        {
-          "name": "lung cancer",
-          "score": 98.36,
-          "level": "L5"
-        },
-        {
-          "name": "junctional epidermolysis bullosa, non-Herlitz type",
-          "score": 98.35,
-          "level": "L5"
-        },
-        {
-          "name": "dehydratase deficiency",
-          "score": 98.06,
+          "name": "Lung benign neoplasm | 98.83% | L3 | Research Question",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -70877,6 +70930,17 @@
       ]
     },
     {
+      "name": "ALS, susceptibility to | 99.946% | L5 | Hold | Genetic susceptibility category, not a treatable disease entity",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Acute Laryngopharyngitis | 99.89% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -70948,6 +71012,17 @@
       ]
     },
     {
+      "name": "Adenosine deaminase deficiency | 92.86% | S0 | Hold | No plausible pathway",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Luspatercept",
+          "slug": "luspatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Adrenal gland hyperfunction | 79.06% | L5 | Hold | Weak — no known PDE5–adrenal cortex mechanistic link",
       "drug_count": 1,
       "drugs": [
@@ -71004,7 +71079,7 @@
     },
     {
       "name": "Ambras type hypertrichosis universalis congenita",
-      "drug_count": 35,
+      "drug_count": 34,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -71070,6 +71145,17 @@
       ]
     },
     {
+      "name": "Amyotrophic lateral sclerosis | 99.948% | L5 | Hold | No known TPO/MPL pathway link; likely graph noise",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Angelucci syndrome",
       "drug_count": 2,
       "drugs": [
@@ -71092,6 +71178,17 @@
         {
           "drug": "Hydroxocobalamin",
           "slug": "hydroxocobalamin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Anus disease (perianal Crohn's) | 81.21% | L2 | S3 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
           "score": 99.0
         }
       ]
@@ -71152,6 +71249,17 @@
       ]
     },
     {
+      "name": "Autosomal dominant cerebellar ataxia | L5 | Hold | Sole reference is a DAT-PET imaging/pathophysiology study, not treatment evidence.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Autosomal ichthyosis syndrome w/ fatal disease course | 99.90% | L5 | Hold | Skin barrier defect (ABCA12/SNAP29); no lysosomal link; ICV route anatomically unfeasible for skin disease",
       "drug_count": 1,
       "drugs": [
@@ -71186,6 +71294,17 @@
           "drug": "Brinzolamide",
           "slug": "brinzolamide",
           "score": 95.0
+        }
+      ]
+    },
+    {
+      "name": "Axial spondylometaphyseal dysplasia | 99.943% | L5 | Hold | Skeletal dysplasia; no mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
         }
       ]
     },
@@ -71325,6 +71444,28 @@
       ]
     },
     {
+      "name": "Benign paroxysmal torticollis of infancy | L5 | Hold | No trials or literature; no plausible mechanistic link.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Bilateral parasagittal parieto-occipital polymicrogyria | 99.945% | L5 | Hold | Cortical malformation; no mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Blau syndrome",
       "drug_count": 1,
       "drugs": [
@@ -71342,6 +71483,17 @@
         {
           "drug": "Blinatumomab",
           "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Brachydactyly-syndactyly syndrome | 89.88% | L5 | S0 | **Hold** — model artifact",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
           "score": 99.0
         }
       ]
@@ -71494,6 +71646,17 @@
           "drug": "Apalutamide",
           "slug": "apalutamide",
           "score": 97.58
+        }
+      ]
+    },
+    {
+      "name": "Bronchitis | 77.87% | L4 | S0 | **Hold** — evidence shows adverse pulmonary events, not efficacy",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
+          "score": 99.0
         }
       ]
     },
@@ -71708,12 +71871,34 @@
       ]
     },
     {
+      "name": "Centrifugal Lipodystrophy | 98.99% | L5 | No supporting evidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Centrifugal lipodystrophy | 95.37% | Implausible — no mechanistic evidence",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Dulaglutide",
           "slug": "dulaglutide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Cerebellar ataxia | L4 | Research Question | Case-report evidence for treating comorbid attentional symptoms in hereditary ataxias (e.g., Joubert syndrome); not a treatment for the ataxia itself.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
           "score": 99.0
         }
       ]
@@ -71870,6 +72055,28 @@
       ]
     },
     {
+      "name": "Chondromyxoid fibroma | L5 | Hold | Benign cartilage tumor; no mechanistic link to a CNS stimulant.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Chronic ethmoidal sinusitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.98
+        }
+      ]
+    },
+    {
       "name": "Chronic pulmonary heart disease | 97.80% | L3 | S1 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -71881,12 +72088,34 @@
       ]
     },
     {
+      "name": "Chronic rhinosinusitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.98
+        }
+      ]
+    },
+    {
       "name": "Classic Stiff Person Syndrome | 97.92% | ✗ Identical score to Rank 1; same KG node, same implausibility",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Canagliflozin",
           "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Classic Stiff Person Syndrome | 99.45% | L5 | No mechanistic link; autoimmune disorder unrelated to known glucose-lowering action",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
           "score": 99.0
         }
       ]
@@ -71945,6 +72174,17 @@
       ]
     },
     {
+      "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 90.22% | L5 | S0 | **Hold** — no mechanistic link, model artifact",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.94% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -71956,12 +72196,34 @@
       ]
     },
     {
+      "name": "Combined immunodeficiency syndrome | 94.28% | S0 | Hold | No plausible pathway",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Luspatercept",
+          "slug": "luspatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Congenital Human Immunodeficiency Virus | **L1** | **Proceed with Guardrails**",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Darunavir",
           "slug": "darunavir",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Congenital hypotrichosis with juvenile macular dystrophy | 91.59% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
           "score": 99.0
         }
       ]
@@ -72031,7 +72293,7 @@
     },
     {
       "name": "Crohn disease of the esophagus",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -72044,14 +72306,20 @@
           "score": 96.51
         },
         {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 77.58
-        },
-        {
           "drug": "Sarilumab",
           "slug": "sarilumab",
           "score": 66.15
+        }
+      ]
+    },
+    {
+      "name": "Crohn disease of the esophagus | 77.58% | L3 | S2 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
+          "score": 99.0
         }
       ]
     },
@@ -72167,6 +72435,17 @@
       ]
     },
     {
+      "name": "Dense granule disease | 99.995% | L5 | Hold | Functional (not quantitative) platelet disorder — mechanism mismatch",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Dermatitis | 79.28% | Hold | Only supporting evidence (PMID 23679347) is a COPD safety extension study — dermatitis appears as an adverse event, not a treatment target",
       "drug_count": 1,
       "drugs": [
@@ -72200,6 +72479,17 @@
       ]
     },
     {
+      "name": "Diffuse scleroderma (rank 1, highest score)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.99
+        }
+      ]
+    },
+    {
       "name": "Dorfman-Chanarin disease",
       "drug_count": 1,
       "drugs": [
@@ -72217,6 +72507,17 @@
         {
           "drug": "Canagliflozin",
           "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Drug-Induced Localized Lipodystrophy | 99.06% | L5 | No supporting evidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
           "score": 99.0
         }
       ]
@@ -72255,12 +72556,34 @@
       ]
     },
     {
+      "name": "Drug-induced osteoporosis | 96.44% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Duodenal obstruction | 99.56% | L5 | Hold (no plausible mechanism)",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Dronedarone",
           "slug": "dronedarone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Dysthymic disorder | L4 | Research Question | Case-series-level evidence only, as antidepressant augmentation in ADHD-comorbid low mood; no RCTs.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
           "score": 99.0
         }
       ]
@@ -72388,6 +72711,17 @@
       ]
     },
     {
+      "name": "Eosinophilia-myalgia syndrome",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.85
+        }
+      ]
+    },
+    {
       "name": "Epstein-Barr virus-associated carcinoma",
       "drug_count": 1,
       "drugs": [
@@ -72476,7 +72810,7 @@
     },
     {
       "name": "Ewing sarcoma",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Dasatinib Monohydrate",
@@ -72575,12 +72909,34 @@
       ]
     },
     {
+      "name": "Faciodigitogenital syndrome | Unscored | — | No clinical trials or literature; scoring fields incomplete. Not a usable candidate.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Familial Combined Hyperlipidemia (obsolete term) | L5 | **Hold** — obsolete ontology term; lipid effect is an adverse reaction, not a therapeutic target",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Darunavir",
           "slug": "darunavir",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Familial apolipoprotein C-II deficiency | 93.05% | S0 | Hold | No known pathway overlap",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Luspatercept",
+          "slug": "luspatercept",
           "score": 99.0
         }
       ]
@@ -72939,7 +73295,7 @@
     },
     {
       "name": "HER2 positive breast carcinoma",
-      "drug_count": 37,
+      "drug_count": 36,
       "drugs": [
         {
           "drug": "Pertuzumab",
@@ -73000,6 +73356,17 @@
         {
           "drug": "Catumaxomab",
           "slug": "catumaxomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "HER2-positive breast carcinoma | 91.55% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
           "score": 99.0
         }
       ]
@@ -73077,13 +73444,13 @@
       ]
     },
     {
-      "name": "Hb Bart's hydrops fetalis",
+      "name": "Hb Bart's hydrops fetalis | 92.75% | S1 | Research Question | Same thalassemia-family biology; fetal safety unknown",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Luspatercept",
           "slug": "luspatercept",
-          "score": 92.75
+          "score": 99.0
         }
       ]
     },
@@ -73148,12 +73515,34 @@
       ]
     },
     {
+      "name": "Hepatic infarction | 95.70% | S0 | Hold | No plausible pathway",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Luspatercept",
+          "slug": "luspatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Hepatic infarction | 99.89% | L5 | 0 | 0 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Anakinra",
           "slug": "anakinra",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hepatic veno-occlusive disease | 94.91% | S0 | Hold | Speculative TGF-β/fibrosis link, unvalidated",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Luspatercept",
+          "slug": "luspatercept",
           "score": 99.0
         }
       ]
@@ -73258,6 +73647,17 @@
       ]
     },
     {
+      "name": "Homozygous Familial Hypercholesterolemia | 92.30% | L4 | Only 2 papers; 1988 in-vitro fibroblast study showing indirect cholesterol-lowering effect, not clinically validated",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Human Herpesvirus 8-Related Tumor | 99.97% | L4 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -73354,6 +73754,17 @@
           "drug": "Vestronidase Alfa",
           "slug": "vestronidase-alfa",
           "score": 97.5
+        }
+      ]
+    },
+    {
+      "name": "Hypermobility of coccyx | 82.49% | L5 | S0 | **Hold** — model artifact",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
+          "score": 99.0
         }
       ]
     },
@@ -73465,6 +73876,17 @@
         {
           "drug": "Canagliflozin",
           "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Idiopathic Localized Lipodystrophy | 98.90% | L5 | No supporting evidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
           "score": 99.0
         }
       ]
@@ -73627,6 +74049,17 @@
       ]
     },
     {
+      "name": "Indolent plasma cell myeloma | 92.65% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Indolent plasma cell myeloma | 93.31% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -73688,6 +74121,28 @@
         {
           "drug": "Hydroxocobalamin",
           "slug": "hydroxocobalamin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Inflammatory spondylopathy | 80.92% | L1 | S3 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Insomnia (disease) | L3 | Research Question | ⚠️ **Mechanistic contradiction** — methylphenidate is a stimulant whose typical adverse effect is insomnia. Supporting trials mostly address wakefulness/apathy (e.g., Alzheimer's, MS fatigue) rather than treating insomnia itself; likely reflects TxGNN conflating \"arousal modulation\" with \"insomnia treatment.\"",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
           "score": 99.0
         }
       ]
@@ -74030,7 +74485,7 @@
     },
     {
       "name": "Kummell disease",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Tocilizumab",
@@ -74076,11 +74531,17 @@
           "drug": "Secukinumab",
           "slug": "secukinumab",
           "score": 90.06
-        },
+        }
+      ]
+    },
+    {
+      "name": "Kummell disease | 81.15% | L5 | S0 | **Hold** — model artifact",
+      "drug_count": 1,
+      "drugs": [
         {
           "drug": "Infliximab",
           "slug": "infliximab",
-          "score": 81.15
+          "score": 99.0
         }
       ]
     },
@@ -74326,7 +74787,7 @@
     },
     {
       "name": "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -74367,11 +74828,6 @@
           "drug": "Pembrolizumab",
           "slug": "pembrolizumab",
           "score": 99.28
-        },
-        {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.83
         },
         {
           "drug": "Erlotinib",
@@ -74430,6 +74886,39 @@
           "drug": "Elacestrant",
           "slug": "elacestrant",
           "score": 81.79
+        }
+      ]
+    },
+    {
+      "name": "Liposarcoma | 99.00% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ponatinib",
+          "slug": "ponatinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Lower motor neuron syndrome, late-adult onset | 99.948% | L5 | Hold | Likely graph noise",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Lung benign neoplasm | 98.83% | L3 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ponatinib",
+          "slug": "ponatinib",
+          "score": 99.0
         }
       ]
     },
@@ -74542,6 +75031,17 @@
           "drug": "Glycopyrronium",
           "slug": "glycopyrronium",
           "score": 89.48
+        }
+      ]
+    },
+    {
+      "name": "Macrothrombocytopenia with mitral valve insufficiency | 99.995% | pending | pending | Scoring not yet completed in this evidence pack",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
         }
       ]
     },
@@ -74770,7 +75270,7 @@
     },
     {
       "name": "Mills syndrome",
-      "drug_count": 17,
+      "drug_count": 16,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -74781,11 +75281,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.98
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.94
         },
         {
           "drug": "Avapritinib",
@@ -74821,6 +75316,11 @@
           "drug": "Nintedanib",
           "slug": "nintedanib",
           "score": 98.63
+        },
+        {
+          "drug": "Alpelisib",
+          "slug": "alpelisib",
+          "score": 98.08
         }
       ]
     },
@@ -74859,6 +75359,17 @@
           "drug": "Florbetaben (18F)",
           "slug": "florbetaben-18f",
           "score": 97.97
+        }
+      ]
+    },
+    {
+      "name": "Monosomy X (Turner syndrome) | 95.99% | S0 | Hold | Likely KG noise — no direct link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Luspatercept",
+          "slug": "luspatercept",
+          "score": 99.0
         }
       ]
     },
@@ -74949,6 +75460,17 @@
         {
           "drug": "Cerliponase Alfa",
           "slug": "cerliponase_alfa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Myofascial pain syndrome | L2 | S2 (Research Question) | Phase 3 RCT (NCT00343733, n=120) plus a review on long-term opioid use in TMJ dysfunction; reflects fentanyl's established analgesic role rather than disease-specific mechanism.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Fentanyl",
+          "slug": "fentanyl",
           "score": 99.0
         }
       ]
@@ -75200,6 +75722,17 @@
       ]
     },
     {
+      "name": "Opsismodysplasia | 99.40% | L5 | Rare skeletal dysplasia, no mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "PAGOD syndrome",
       "drug_count": 1,
       "drugs": [
@@ -75405,6 +75938,17 @@
       ]
     },
     {
+      "name": "Pancreatic Agenesis | 98.91% | L4 | 20 papers reviewed; only 1 indirect case report (Alström syndrome), not disease-specific",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Pancreatic agenesis | 95.55% | Implausible — structural/developmental defect, not reversible pharmacologically",
       "drug_count": 1,
       "drugs": [
@@ -75449,6 +75993,39 @@
       ]
     },
     {
+      "name": "Paranasal sinus neoplasm",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.98
+        }
+      ]
+    },
+    {
+      "name": "Parapsoriasis | 91.49% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Paratyphoid fever",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.99
+        }
+      ]
+    },
+    {
       "name": "Parkinson disease",
       "drug_count": 5,
       "drugs": [
@@ -75476,6 +76053,17 @@
           "drug": "Botulinum Toxin Type A",
           "slug": "botulinum-toxin-type-a",
           "score": 77.69
+        }
+      ]
+    },
+    {
+      "name": "Peliosis hepatis | 94.75% | S0 | Hold | No direct mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Luspatercept",
+          "slug": "luspatercept",
+          "score": 99.0
         }
       ]
     },
@@ -75638,6 +76226,17 @@
       ]
     },
     {
+      "name": "Pityriasis lichenoides | 94.03% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Plasma cell myeloma | 91.83% | L4 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -75706,6 +76305,17 @@
       ]
     },
     {
+      "name": "Platelet storage pool deficiency | 99.958% | L5 | Hold | Same mechanism mismatch as rank 4",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Plummer-Vinson syndrome",
       "drug_count": 2,
       "drugs": [
@@ -75718,6 +76328,17 @@
           "drug": "Alendronic Acid",
           "slug": "alendronic-acid",
           "score": 90.37
+        }
+      ]
+    },
+    {
+      "name": "Polyarticular juvenile rheumatoid arthritis | 80.14% | L1 | S3 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
+          "score": 99.0
         }
       ]
     },
@@ -75761,6 +76382,17 @@
         {
           "drug": "Canagliflozin",
           "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Pressure-Induced Localized Lipoatrophy | 98.96% | L5 | No supporting evidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
           "score": 99.0
         }
       ]
@@ -75938,6 +76570,17 @@
         {
           "drug": "Blinatumomab",
           "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Psoriasis | 95.75% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
           "score": 99.0
         }
       ]
@@ -76246,6 +76889,17 @@
       ]
     },
     {
+      "name": "Rheumatoid vasculitis | 85.32% | L3 | S1 | Research Question — conflicting signal (treats vs. induces)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Infliximab",
+          "slug": "infliximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Richter syndrome",
       "drug_count": 12,
       "drugs": [
@@ -76358,6 +77012,17 @@
           "drug": "Caffeine Citrate",
           "slug": "caffeine-citrate",
           "score": 98.99
+        }
+      ]
+    },
+    {
+      "name": "Salmonellosis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.99
         }
       ]
     },
@@ -76587,6 +77252,17 @@
       ]
     },
     {
+      "name": "Severe nonproliferative diabetic retinopathy | 90.60% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Sezary syndrome",
       "drug_count": 3,
       "drugs": [
@@ -76659,6 +77335,17 @@
           "drug": "Baloxavir Marboxil",
           "slug": "baloxavir-marboxil",
           "score": 97.81
+        }
+      ]
+    },
+    {
+      "name": "Sinusitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.99
         }
       ]
     },
@@ -76748,6 +77435,17 @@
           "drug": "Artesunate",
           "slug": "artesunate",
           "score": 79.18
+        }
+      ]
+    },
+    {
+      "name": "Spinocerebellar degeneration with slow eye movements | L5 | Hold | Imaging/pathophysiology literature only; no therapeutic rationale.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
+          "score": 99.0
         }
       ]
     },
@@ -76960,12 +77658,45 @@
       ]
     },
     {
+      "name": "Tendinitis | L3 | S1 (Research Question) | Multiple RCTs support transdermal/postoperative fentanyl for tendon/rotator-cuff surgical pain, again as generalized analgesia rather than a tendinitis-specific mechanism.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Fentanyl",
+          "slug": "fentanyl",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Thalassemia, beta+, silent allele | 93.32% | S1 | Research Question | Mechanistically overlaps with approved β-thalassemia indication",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Luspatercept",
+          "slug": "luspatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Thiamine-Responsive Dysfunction Syndrome | 97.70% | ✗ Symptomatic glucose control for one component of a B1-deficiency syndrome; not a true repurposing",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Canagliflozin",
           "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Thiamine-Responsive Dysfunction Syndrome | 99.40% | L5 | Metformin is known to *interfere* with B12/thiamine metabolism — a potential risk signal, not a therapeutic rationale",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "slug": "metformin",
           "score": 99.0
         }
       ]
@@ -77016,7 +77747,7 @@
     },
     {
       "name": "Tourette syndrome",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Lacosamide",
@@ -77037,11 +77768,6 @@
           "drug": "Guanfacine Hydrochloride",
           "slug": "guanfacine-hydrochloride",
           "score": 99.27
-        },
-        {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 99.05
         },
         {
           "drug": "Risperidone",
@@ -77067,6 +77793,11 @@
           "drug": "Dexmedetomidine Hydrochloride",
           "slug": "dexmedetomidine-hydrochloride",
           "score": 97.69
+        },
+        {
+          "drug": "Methylphenidate Hydrochloride",
+          "slug": "methylphenidate-hydrochloride",
+          "score": 96.76
         }
       ]
     },
@@ -77093,6 +77824,17 @@
       ]
     },
     {
+      "name": "Transient neonatal thrombocytopenia | 99.995% | L5 | Hold | Self-limiting condition; no neonatal safety/PK data for TPO‑RA class",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lusutrombopag",
+          "slug": "lusutrombopag",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Transitional Cell Carcinoma (general) | 98.07% | ✅ High — broad EpCAM-positive class; peritoneal cases can parallel original indication | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -77111,6 +77853,17 @@
           "drug": "Hydrocortisone",
           "slug": "hydrocortisone",
           "score": 99.26
+        }
+      ]
+    },
+    {
+      "name": "Trichotillomania | L4 | Hold | ⚠️ **Signal runs opposite to the prediction** — multiple case reports describe methylphenidate *inducing or worsening* hair-pulling, not treating it. Should be tracked as an adverse-effect signal, not a repurposing opportunity.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
+          "score": 99.0
         }
       ]
     },
@@ -77155,6 +77908,28 @@
           "drug": "Teprotumumab",
           "slug": "teprotumumab",
           "score": 99.37
+        }
+      ]
+    },
+    {
+      "name": "Typhoid fever",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Imipenem",
+          "slug": "imipenem",
+          "score": 99.98
+        }
+      ]
+    },
+    {
+      "name": "Ulcerative colitis | 92.38% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Inebilizumab",
+          "slug": "inebilizumab",
+          "score": 99.0
         }
       ]
     },
@@ -77305,7 +78080,7 @@
     },
     {
       "name": "WHIM syndrome",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Diflunisal",
@@ -77341,11 +78116,6 @@
           "drug": "Leflunomide",
           "slug": "leflunomide",
           "score": 75.88
-        },
-        {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 73.11
         }
       ]
     },
@@ -78852,7 +79622,7 @@
     },
     {
       "name": "acute lichenoid pityriasis",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Risankizumab",
@@ -78873,11 +79643,6 @@
           "drug": "Tacrolimus",
           "slug": "tacrolimus",
           "score": 98.9
-        },
-        {
-          "drug": "Inebilizumab",
-          "slug": "inebilizumab",
-          "score": 90.26
         },
         {
           "drug": "Vedolizumab",
@@ -79565,7 +80330,7 @@
     },
     {
       "name": "adenosine deaminase deficiency",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Susoctocog Alfa",
@@ -79591,11 +80356,6 @@
           "drug": "Aflibercept",
           "slug": "aflibercept",
           "score": 95.76
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 92.86
         }
       ]
     },
@@ -80718,7 +81478,7 @@
     },
     {
       "name": "amyotrohpic lateral sclerosis type 22",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -80729,11 +81489,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.98
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.94
         },
         {
           "drug": "Avapritinib",
@@ -80769,12 +81524,17 @@
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 98.58
+        },
+        {
+          "drug": "Regorafenib",
+          "slug": "regorafenib",
+          "score": 98.4
         }
       ]
     },
     {
       "name": "amyotrophic lateral sclerosis",
-      "drug_count": 26,
+      "drug_count": 25,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -80785,11 +81545,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.95
         },
         {
           "drug": "Avapritinib",
@@ -80825,12 +81580,17 @@
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 99.0
+        },
+        {
+          "drug": "Nintedanib",
+          "slug": "nintedanib",
+          "score": 98.78
         }
       ]
     },
     {
       "name": "amyotrophic lateral sclerosis, susceptibility to",
-      "drug_count": 19,
+      "drug_count": 18,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -80841,11 +81601,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.98
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.95
         },
         {
           "drug": "Avapritinib",
@@ -80881,6 +81636,11 @@
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 98.57
+        },
+        {
+          "drug": "Regorafenib",
+          "slug": "regorafenib",
+          "score": 98.37
         }
       ]
     },
@@ -81173,7 +81933,7 @@
     },
     {
       "name": "ankylosing spondylitis",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Tocilizumab",
@@ -81491,7 +82251,7 @@
     },
     {
       "name": "anus disease",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -81512,11 +82272,6 @@
           "drug": "Prasterone",
           "slug": "prasterone",
           "score": 97.79
-        },
-        {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 81.21
         },
         {
           "drug": "Vedolizumab",
@@ -81840,17 +82595,6 @@
           "drug": "Latanoprost",
           "slug": "latanoprost",
           "score": 99.56
-        }
-      ]
-    },
-    {
-      "name": "arterial duct anomaly",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 73.33
         }
       ]
     },
@@ -82709,7 +83453,7 @@
     },
     {
       "name": "autoimmune oophoritis",
-      "drug_count": 21,
+      "drug_count": 20,
       "drugs": [
         {
           "drug": "Insulin Aspart",
@@ -82969,7 +83713,7 @@
     },
     {
       "name": "autosomal dominant mitochondrial myopathy with exercise intolerance",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -82980,11 +83724,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.98
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.93
         },
         {
           "drug": "Avapritinib",
@@ -83352,7 +84091,7 @@
     },
     {
       "name": "axial spondylometaphyseal dysplasia",
-      "drug_count": 18,
+      "drug_count": 17,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -83363,11 +84102,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.94
         },
         {
           "drug": "Avapritinib",
@@ -83403,18 +84137,18 @@
           "drug": "Erdafitinib",
           "slug": "erdafitinib",
           "score": 98.83
+        },
+        {
+          "drug": "Vinflunine",
+          "slug": "vinflunine",
+          "score": 98.56
         }
       ]
     },
     {
       "name": "bacterial arthritis",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.99
-        },
         {
           "drug": "Cilastatin",
           "slug": "cilastatin",
@@ -83460,13 +84194,8 @@
     },
     {
       "name": "bacterial pneumonia",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.88
-        },
         {
           "drug": "Amikacin Sulfate",
           "slug": "amikacin-sulfate",
@@ -84397,17 +85126,6 @@
       ]
     },
     {
-      "name": "beta thalassemia",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 91.57
-        }
-      ]
-    },
-    {
       "name": "beta-ketothiolase deficiency",
       "drug_count": 5,
       "drugs": [
@@ -84440,7 +85158,7 @@
     },
     {
       "name": "beta-thalassemia with other manifestations",
-      "drug_count": 15,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Eptifibatide",
@@ -84507,7 +85225,7 @@
     },
     {
       "name": "bilateral parasagittal parieto-occipital polymicrogyria",
-      "drug_count": 18,
+      "drug_count": 17,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -84518,11 +85236,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.95
         },
         {
           "drug": "Avapritinib",
@@ -84558,6 +85271,11 @@
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 98.73
+        },
+        {
+          "drug": "Erdafitinib",
+          "slug": "erdafitinib",
+          "score": 98.64
         }
       ]
     },
@@ -85333,7 +86051,7 @@
     },
     {
       "name": "brachydactyly-syndactyly syndrome",
-      "drug_count": 53,
+      "drug_count": 52,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -85861,7 +86579,7 @@
     },
     {
       "name": "breast tumor luminal A or B",
-      "drug_count": 24,
+      "drug_count": 23,
       "drugs": [
         {
           "drug": "Pertuzumab",
@@ -86060,7 +86778,7 @@
     },
     {
       "name": "bronchitis",
-      "drug_count": 46,
+      "drug_count": 45,
       "drugs": [
         {
           "drug": "Omalizumab",
@@ -87052,7 +87770,7 @@
     },
     {
       "name": "centrifugal lipodystrophy",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -87095,14 +87813,14 @@
           "score": 99.04
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 98.99
-        },
-        {
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 98.6
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 98.39
         }
       ]
     },
@@ -88293,13 +89011,8 @@
     },
     {
       "name": "chronic ethmoidal sinusitis",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.98
-        },
         {
           "drug": "Cilastatin",
           "slug": "cilastatin",
@@ -88547,7 +89260,7 @@
     },
     {
       "name": "chronic myelogenous leukemia, BCR-ABL1 positive",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Duvelisib",
@@ -88568,11 +89281,6 @@
           "drug": "Venetoclax",
           "slug": "venetoclax",
           "score": 99.36
-        },
-        {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 99.3
         },
         {
           "drug": "Cytarabine",
@@ -88614,13 +89322,8 @@
     },
     {
       "name": "chronic otitis media",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.75
-        },
         {
           "drug": "Ertapenem Sodium",
           "slug": "ertapenem-sodium",
@@ -88723,13 +89426,8 @@
     },
     {
       "name": "chronic rhinosinusitis",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.98
-        },
         {
           "drug": "Cilastatin",
           "slug": "cilastatin",
@@ -88872,7 +89570,7 @@
     },
     {
       "name": "classic stiff person syndrome",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -88910,11 +89608,6 @@
           "score": 99.46
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 99.45
-        },
-        {
           "drug": "Insulin Lispro",
           "slug": "insulin-lispro",
           "score": 99.36
@@ -88923,6 +89616,11 @@
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 99.08
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 99.06
         }
       ]
     },
@@ -89257,7 +89955,7 @@
     },
     {
       "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-      "drug_count": 46,
+      "drug_count": 45,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -90396,7 +91094,7 @@
     },
     {
       "name": "congenital hypotrichosis with juvenile macular dystrophy",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Guselkumab",
@@ -90417,11 +91115,6 @@
           "drug": "Golimumab",
           "slug": "golimumab",
           "score": 96.16
-        },
-        {
-          "drug": "Inebilizumab",
-          "slug": "inebilizumab",
-          "score": 91.59
         },
         {
           "drug": "Tafasitamab",
@@ -90794,17 +91487,12 @@
     },
     {
       "name": "conjunctivitis",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Dexrazoxane Hydrochloride",
           "slug": "dexrazoxane-hydrochloride",
           "score": 99.96
-        },
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.8
         },
         {
           "drug": "Levofloxacin",
@@ -90845,6 +91533,11 @@
           "drug": "Nomegestrol Acetate",
           "slug": "nomegestrol-acetate",
           "score": 97.12
+        },
+        {
+          "drug": "Remdesivir",
+          "slug": "remdesivir",
+          "score": 96.57
         }
       ]
     },
@@ -91839,7 +92532,7 @@
     },
     {
       "name": "dehydratase deficiency",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -91877,11 +92570,6 @@
           "score": 99.18
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.06
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 89.87
@@ -91917,16 +92605,11 @@
     },
     {
       "name": "dense granule disease",
-      "drug_count": 18,
+      "drug_count": 17,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
           "slug": "avatrombopag-maleate",
-          "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
           "score": 99.99
         },
         {
@@ -91968,6 +92651,11 @@
           "drug": "Tezacaftor",
           "slug": "tezacaftor",
           "score": 97.88
+        },
+        {
+          "drug": "Teriflunomide",
+          "slug": "teriflunomide",
+          "score": 97.8
         }
       ]
     },
@@ -92296,7 +92984,7 @@
     },
     {
       "name": "diabetes mellitus (disease)",
-      "drug_count": 21,
+      "drug_count": 20,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -92334,11 +93022,6 @@
           "score": 99.47
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 99.43
-        },
-        {
           "drug": "Insulin Lispro",
           "slug": "insulin-lispro",
           "score": 99.35
@@ -92347,6 +93030,11 @@
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 99.1
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 98.95
         }
       ]
     },
@@ -92850,13 +93538,8 @@
     },
     {
       "name": "diffuse scleroderma",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.99
-        },
         {
           "drug": "Amikacin Sulfate",
           "slug": "amikacin-sulfate",
@@ -93258,17 +93941,6 @@
       ]
     },
     {
-      "name": "dominant beta-thalassemia",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 96.32
-        }
-      ]
-    },
-    {
       "name": "drug dependence",
       "drug_count": 1,
       "drugs": [
@@ -93353,7 +94025,7 @@
     },
     {
       "name": "drug-induced localized lipodystrophy",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -93396,20 +94068,20 @@
           "score": 99.09
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 99.06
-        },
-        {
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 98.65
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 98.46
         }
       ]
     },
     {
       "name": "drug-induced osteoporosis",
-      "drug_count": 31,
+      "drug_count": 30,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -94447,17 +95119,6 @@
       ]
     },
     {
-      "name": "eosinophilia-myalgia syndrome",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.85
-        }
-      ]
-    },
-    {
       "name": "eosinophilic angiocentric fibrosis",
       "drug_count": 1,
       "drugs": [
@@ -94659,7 +95320,7 @@
     },
     {
       "name": "epiglottitis",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Dexrazoxane Hydrochloride",
@@ -94670,11 +95331,6 @@
           "drug": "Meropenem",
           "slug": "meropenem",
           "score": 99.91
-        },
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.83
         },
         {
           "drug": "Amikacin Sulfate",
@@ -94710,6 +95366,11 @@
           "drug": "Colesevelam (As Hydrochloride)",
           "slug": "colesevelam-as-hydrochloride",
           "score": 83.45
+        },
+        {
+          "drug": "Tedizolid",
+          "slug": "tedizolid",
+          "score": 82.78
         }
       ]
     },
@@ -96154,7 +96815,7 @@
     },
     {
       "name": "familial apolipoprotein C-II deficiency",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Asfotase Alfa",
@@ -96714,7 +97375,7 @@
     },
     {
       "name": "familial thrombocytosis",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Anagrelide",
@@ -96725,11 +97386,6 @@
           "drug": "Midostaurin",
           "slug": "midostaurin",
           "score": 98.92
-        },
-        {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.77
         },
         {
           "drug": "Azacitidine",
@@ -97366,7 +98022,7 @@
     },
     {
       "name": "fibroma of lung",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -97407,11 +98063,6 @@
           "drug": "Pembrolizumab",
           "slug": "pembrolizumab",
           "score": 99.34
-        },
-        {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.87
         },
         {
           "drug": "Erlotinib",
@@ -97478,7 +98129,7 @@
     },
     {
       "name": "fibromatosis, gingival",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -97521,20 +98172,20 @@
           "score": 99.4
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 99.04
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 95.27
+        },
+        {
+          "drug": "Nilotinib",
+          "slug": "nilotinib",
+          "score": 94.64
         }
       ]
     },
     {
       "name": "fibromyalgia",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Lacosamide",
@@ -97577,14 +98228,14 @@
           "score": 97.23
         },
         {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 96.82
-        },
-        {
           "drug": "Midazolam",
           "slug": "midazolam",
           "score": 88.87
+        },
+        {
+          "drug": "Ulipristal",
+          "slug": "ulipristal",
+          "score": 85.63
         }
       ]
     },
@@ -97766,7 +98417,7 @@
     },
     {
       "name": "focal stiff limb syndrome",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -97804,11 +98455,6 @@
           "score": 99.46
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 99.45
-        },
-        {
           "drug": "Insulin Lispro",
           "slug": "insulin-lispro",
           "score": 99.36
@@ -97817,6 +98463,11 @@
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 99.08
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 99.06
         }
       ]
     },
@@ -98077,7 +98728,7 @@
     },
     {
       "name": "functional neutrophil defect",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -98088,11 +98739,6 @@
           "drug": "Belimumab",
           "slug": "belimumab",
           "score": 97.15
-        },
-        {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 77.53
         },
         {
           "drug": "Sarilumab",
@@ -98862,17 +99508,6 @@
       ]
     },
     {
-      "name": "genetic vascular tumor",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 73.85
-        }
-      ]
-    },
-    {
       "name": "geotrichosis",
       "drug_count": 2,
       "drugs": [
@@ -99447,7 +100082,7 @@
     },
     {
       "name": "granulomatous disease with defect in neutrophil chemotaxis",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -99463,11 +100098,6 @@
           "drug": "Prasterone",
           "slug": "prasterone",
           "score": 97.2
-        },
-        {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 76.88
         },
         {
           "drug": "Sarilumab",
@@ -99489,7 +100119,7 @@
     },
     {
       "name": "granulomatous disease, chronic, autosomal recessive, 5",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -99505,11 +100135,6 @@
           "drug": "Prasterone",
           "slug": "prasterone",
           "score": 97.37
-        },
-        {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 77.2
         },
         {
           "drug": "Sarilumab",
@@ -99677,7 +100302,7 @@
     },
     {
       "name": "hamartoma of lung",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -99720,20 +100345,20 @@
           "score": 99.35
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.93
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 95.07
+        },
+        {
+          "drug": "Ixekizumab",
+          "slug": "ixekizumab",
+          "score": 91.62
         }
       ]
     },
     {
       "name": "headache disorder",
-      "drug_count": 37,
+      "drug_count": 36,
       "drugs": [
         {
           "drug": "Indacaterol Maleate",
@@ -100293,7 +100918,7 @@
     },
     {
       "name": "hemolytic anemia due to glucophosphate isomerase deficiency",
-      "drug_count": 15,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Eptifibatide",
@@ -100746,7 +101371,7 @@
     },
     {
       "name": "hepatic infarction",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Canakinumab",
@@ -100772,11 +101397,6 @@
           "drug": "Interferon Beta-1B",
           "slug": "interferon-beta-1b",
           "score": 98.19
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 95.7
         },
         {
           "drug": "Alemtuzumab",
@@ -100848,7 +101468,7 @@
     },
     {
       "name": "hepatic veno-occlusive disease",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Canakinumab",
@@ -100874,11 +101494,6 @@
           "drug": "Interferon Beta-1B",
           "slug": "interferon-beta-1b",
           "score": 97.43
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 94.91
         },
         {
           "drug": "Alemtuzumab",
@@ -101575,16 +102190,11 @@
     },
     {
       "name": "hereditary thrombocytopenia with normal platelets",
-      "drug_count": 19,
+      "drug_count": 18,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
           "slug": "avatrombopag-maleate",
-          "score": 100.0
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
           "score": 100.0
         },
         {
@@ -101626,6 +102236,11 @@
           "drug": "Palbociclib",
           "slug": "palbociclib",
           "score": 98.31
+        },
+        {
+          "drug": "Teriflunomide",
+          "slug": "teriflunomide",
+          "score": 98.13
         }
       ]
     },
@@ -101778,7 +102393,7 @@
     },
     {
       "name": "homozygous familial hypercholesterolemia",
-      "drug_count": 52,
+      "drug_count": 51,
       "drugs": [
         {
           "drug": "Simvastatin",
@@ -102554,7 +103169,7 @@
     },
     {
       "name": "hypermobility of coccyx",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Tocilizumab",
@@ -102855,7 +103470,7 @@
     },
     {
       "name": "hypertrichosis (disease)",
-      "drug_count": 36,
+      "drug_count": 35,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -102971,7 +103586,7 @@
     },
     {
       "name": "hypervitaminosis",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Fenfluramine Hydrochloride",
@@ -103012,11 +103627,6 @@
           "drug": "Melatonin",
           "slug": "melatonin",
           "score": 84.39
-        },
-        {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 82.4
         },
         {
           "drug": "Galcanezumab",
@@ -103547,7 +104157,7 @@
     },
     {
       "name": "idiopathic granulomatous myositis",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Pregabalin",
@@ -103595,15 +104205,15 @@
           "score": 97.19
         },
         {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 97.04
+          "drug": "Isavuconazole",
+          "slug": "isavuconazole",
+          "score": 94.83
         }
       ]
     },
     {
       "name": "idiopathic localized lipodystrophy",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -103646,14 +104256,14 @@
           "score": 98.97
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 98.9
-        },
-        {
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 98.52
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 98.25
         }
       ]
     },
@@ -104041,7 +104651,7 @@
     },
     {
       "name": "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -104084,20 +104694,20 @@
           "score": 99.37
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.98
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 93.34
+        },
+        {
+          "drug": "Nivolumab",
+          "slug": "nivolumab",
+          "score": 88.16
         }
       ]
     },
     {
       "name": "inclusion body myositis",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Pregabalin",
@@ -104125,11 +104735,6 @@
           "score": 96.25
         },
         {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 96.18
-        },
-        {
           "drug": "Ulipristal",
           "slug": "ulipristal",
           "score": 83.53
@@ -104143,7 +104748,7 @@
     },
     {
       "name": "indolent plasma cell myeloma",
-      "drug_count": 28,
+      "drug_count": 27,
       "drugs": [
         {
           "drug": "Plerixafor",
@@ -104418,13 +105023,8 @@
     },
     {
       "name": "infectious otitis media",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.83
-        },
         {
           "drug": "Meropenem",
           "slug": "meropenem",
@@ -104552,7 +105152,7 @@
     },
     {
       "name": "inflammatory bowel disease",
-      "drug_count": 10,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -104583,16 +105183,6 @@
           "drug": "Certolizumab Pegol",
           "slug": "certolizumab-pegol",
           "score": 95.7
-        },
-        {
-          "drug": "Inebilizumab",
-          "slug": "inebilizumab",
-          "score": 89.07
-        },
-        {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 76.85
         },
         {
           "drug": "Vedolizumab",
@@ -104629,7 +105219,7 @@
     },
     {
       "name": "inflammatory spondylopathy",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Tocilizumab",
@@ -105761,7 +106351,7 @@
     },
     {
       "name": "junctional epidermolysis bullosa",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -105804,11 +106394,6 @@
           "score": 99.23
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.86
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 92.89
@@ -105817,7 +106402,7 @@
     },
     {
       "name": "junctional epidermolysis bullosa, non-Herlitz type",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -105853,11 +106438,6 @@
           "drug": "Pembrolizumab",
           "slug": "pembrolizumab",
           "score": 99.15
-        },
-        {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.35
         },
         {
           "drug": "Erlotinib",
@@ -106174,7 +106754,7 @@
     },
     {
       "name": "kidney pelvis sarcomatoid transitional cell carcinoma",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Ramucirumab",
@@ -106202,11 +106782,6 @@
           "score": 99.04
         },
         {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 98.85
-        },
-        {
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 95.63
@@ -106225,6 +106800,11 @@
           "drug": "Alemtuzumab",
           "slug": "alemtuzumab",
           "score": 93.09
+        },
+        {
+          "drug": "Inotuzumab Ozogamicin",
+          "slug": "inotuzumab-ozogamicin",
+          "score": 89.55
         }
       ]
     },
@@ -106622,7 +107202,7 @@
     },
     {
       "name": "lethal arthrogryposis-anterior horn cell disease syndrome",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -106633,11 +107213,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.93
         },
         {
           "drug": "Avapritinib",
@@ -106673,6 +107248,11 @@
           "drug": "Elexacaftor",
           "slug": "elexacaftor",
           "score": 97.09
+        },
+        {
+          "drug": "Cannabidiol",
+          "slug": "cannabidiol",
+          "score": 93.18
         }
       ]
     },
@@ -106993,7 +107573,7 @@
     },
     {
       "name": "liposarcoma",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Pemetrexed",
@@ -107082,17 +107662,12 @@
     },
     {
       "name": "liver angiosarcoma",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
           "score": 99.3
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 91.84
         }
       ]
     },
@@ -107318,7 +107893,7 @@
     },
     {
       "name": "lower motor neuron syndrome with late-adult onset",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -107329,11 +107904,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.95
         },
         {
           "drug": "Avapritinib",
@@ -107369,6 +107939,11 @@
           "drug": "Nintedanib",
           "slug": "nintedanib",
           "score": 98.47
+        },
+        {
+          "drug": "Cannabidiol",
+          "slug": "cannabidiol",
+          "score": 93.21
         }
       ]
     },
@@ -107412,7 +107987,7 @@
     },
     {
       "name": "lung benign neoplasm",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -107455,20 +108030,20 @@
           "score": 99.32
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.83
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 95.0
+        },
+        {
+          "drug": "Ixekizumab",
+          "slug": "ixekizumab",
+          "score": 91.3
         }
       ]
     },
     {
       "name": "lung cancer",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -107511,11 +108086,6 @@
           "score": 99.18
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.36
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 94.33
@@ -107540,7 +108110,7 @@
     },
     {
       "name": "lung germ cell tumor",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -107583,11 +108153,6 @@
           "score": 99.29
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.75
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 94.51
@@ -107596,7 +108161,7 @@
     },
     {
       "name": "lung hilum carcinoma",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -107639,14 +108204,14 @@
           "score": 99.35
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.81
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 94.96
+        },
+        {
+          "drug": "Ixekizumab",
+          "slug": "ixekizumab",
+          "score": 91.2
         }
       ]
     },
@@ -108463,7 +109028,7 @@
     },
     {
       "name": "malformation syndrome with odontal and/or periodontal component",
-      "drug_count": 37,
+      "drug_count": 36,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -109159,7 +109724,7 @@
     },
     {
       "name": "manic bipolar affective disorder",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Asenapine Maleate",
@@ -109282,16 +109847,11 @@
     },
     {
       "name": "marcothrombocytopenia with mitral valve insufficiency",
-      "drug_count": 19,
+      "drug_count": 18,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
           "slug": "avatrombopag-maleate",
-          "score": 100.0
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
           "score": 100.0
         },
         {
@@ -109333,6 +109893,11 @@
           "drug": "Palbociclib",
           "slug": "palbociclib",
           "score": 98.31
+        },
+        {
+          "drug": "Teriflunomide",
+          "slug": "teriflunomide",
+          "score": 98.13
         }
       ]
     },
@@ -109948,17 +110513,12 @@
     },
     {
       "name": "methemoglobinemia",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Zonisamide",
           "slug": "zonisamide",
           "score": 99.63
-        },
-        {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 97.22
         }
       ]
     },
@@ -110254,7 +110814,7 @@
     },
     {
       "name": "migraine disorder",
-      "drug_count": 55,
+      "drug_count": 54,
       "drugs": [
         {
           "drug": "Parathyroid Hormone",
@@ -110310,7 +110870,7 @@
     },
     {
       "name": "migraine with brainstem aura",
-      "drug_count": 55,
+      "drug_count": 54,
       "drugs": [
         {
           "drug": "Thyrotropin Alfa",
@@ -110492,7 +111052,7 @@
     },
     {
       "name": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Asfotase Alfa",
@@ -110528,11 +111088,6 @@
           "drug": "Angiotensin Ii Acetate",
           "slug": "angiotensin-ii-acetate",
           "score": 92.47
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 92.34
         }
       ]
     },
@@ -110926,7 +111481,7 @@
     },
     {
       "name": "monomelic amyotrophy",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -110937,11 +111492,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.94
         },
         {
           "drug": "Avapritinib",
@@ -110977,6 +111527,11 @@
           "drug": "Elexacaftor",
           "slug": "elexacaftor",
           "score": 96.98
+        },
+        {
+          "drug": "Cannabidiol",
+          "slug": "cannabidiol",
+          "score": 93.07
         }
       ]
     },
@@ -110993,7 +111548,7 @@
     },
     {
       "name": "monosomy X",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Teprotumumab",
@@ -111014,11 +111569,6 @@
           "drug": "Canakinumab",
           "slug": "canakinumab",
           "score": 99.31
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 96.0
         },
         {
           "drug": "Artenimol",
@@ -111816,7 +112366,7 @@
     },
     {
       "name": "myofascial pain syndrome",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Lacosamide",
@@ -111837,11 +112387,6 @@
           "drug": "Pregabalin",
           "slug": "pregabalin",
           "score": 98.64
-        },
-        {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 98.09
         },
         {
           "drug": "Midazolam",
@@ -112042,7 +112587,7 @@
     },
     {
       "name": "myositis fibrosa",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Pregabalin",
@@ -112085,14 +112630,14 @@
           "score": 97.19
         },
         {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 97.04
-        },
-        {
           "drug": "Isavuconazole",
           "slug": "isavuconazole",
           "score": 94.83
+        },
+        {
+          "drug": "Midazolam",
+          "slug": "midazolam",
+          "score": 92.52
         }
       ]
     },
@@ -112823,7 +113368,7 @@
     },
     {
       "name": "nephrogenic syndrome of inappropriate antidiuresis",
-      "drug_count": 39,
+      "drug_count": 38,
       "drugs": [
         {
           "drug": "Aprepitant",
@@ -113229,17 +113774,12 @@
     },
     {
       "name": "neuronopathy, distal hereditary motor",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
           "slug": "avatrombopag-maleate",
           "score": 99.36
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 98.85
         }
       ]
     },
@@ -113907,7 +114447,7 @@
     },
     {
       "name": "normal breast-like subtype of breast carcinoma",
-      "drug_count": 26,
+      "drug_count": 25,
       "drugs": [
         {
           "drug": "Pertuzumab",
@@ -114881,7 +115421,7 @@
     },
     {
       "name": "opsismodysplasia",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -114919,11 +115459,6 @@
           "score": 99.46
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 99.4
-        },
-        {
           "drug": "Insulin Lispro",
           "slug": "insulin-lispro",
           "score": 99.34
@@ -114932,6 +115467,11 @@
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 99.12
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 99.03
         }
       ]
     },
@@ -115257,7 +115797,7 @@
     },
     {
       "name": "osteoarthritis susceptibility",
-      "drug_count": 19,
+      "drug_count": 18,
       "drugs": [
         {
           "drug": "Diflunisal",
@@ -115793,7 +116333,7 @@
     },
     {
       "name": "ovarian myxoid liposarcoma",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Imatinib",
@@ -116014,7 +116554,7 @@
     },
     {
       "name": "ovarioleukodystrophy",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -116050,11 +116590,6 @@
           "drug": "Pembrolizumab",
           "slug": "pembrolizumab",
           "score": 99.32
-        },
-        {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.53
         },
         {
           "drug": "Erlotinib",
@@ -116221,7 +116756,7 @@
     },
     {
       "name": "pancreatic agenesis",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -116264,14 +116799,14 @@
           "score": 99.09
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 98.91
-        },
-        {
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 98.61
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 98.07
         }
       ]
     },
@@ -116526,13 +117061,8 @@
     },
     {
       "name": "paranasal sinus neoplasm (disease)",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.98
-        },
         {
           "drug": "Cilastatin",
           "slug": "cilastatin",
@@ -116606,7 +117136,7 @@
     },
     {
       "name": "parapsoriasis",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Risankizumab",
@@ -116627,11 +117157,6 @@
           "drug": "Tacrolimus",
           "slug": "tacrolimus",
           "score": 99.24
-        },
-        {
-          "drug": "Inebilizumab",
-          "slug": "inebilizumab",
-          "score": 91.49
         },
         {
           "drug": "Tafasitamab",
@@ -116742,13 +117267,8 @@
     },
     {
       "name": "paratyphoid fever",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.99
-        },
         {
           "drug": "Dexrazoxane Hydrochloride",
           "slug": "dexrazoxane-hydrochloride",
@@ -117005,7 +117525,7 @@
     },
     {
       "name": "partial deletion of the short arm of chromosome 16",
-      "drug_count": 15,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Eptifibatide",
@@ -117276,7 +117796,7 @@
     },
     {
       "name": "peliosis hepatis",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Canakinumab",
@@ -117302,11 +117822,6 @@
           "drug": "Interferon Beta-1B",
           "slug": "interferon-beta-1b",
           "score": 97.67
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 94.75
         },
         {
           "drug": "Alemtuzumab",
@@ -117720,17 +118235,12 @@
     },
     {
       "name": "peritonitis",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Dexrazoxane Hydrochloride",
           "slug": "dexrazoxane-hydrochloride",
           "score": 99.93
-        },
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.9
         },
         {
           "drug": "Inotersen Sodium",
@@ -118077,7 +118587,7 @@
     },
     {
       "name": "pityriasis lichenoides",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Risankizumab",
@@ -118108,11 +118618,6 @@
           "drug": "Ozanimod Hydrochloride",
           "slug": "ozanimod-hydrochloride",
           "score": 94.92
-        },
-        {
-          "drug": "Inebilizumab",
-          "slug": "inebilizumab",
-          "score": 94.03
         },
         {
           "drug": "Tafasitamab",
@@ -118206,7 +118711,7 @@
     },
     {
       "name": "plasma cell myeloma",
-      "drug_count": 29,
+      "drug_count": 28,
       "drugs": [
         {
           "drug": "Plerixafor",
@@ -118304,13 +118809,8 @@
     },
     {
       "name": "platelet storage pool deficiency",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.96
-        },
         {
           "drug": "Avatrombopag Maleate",
           "slug": "avatrombopag-maleate",
@@ -118638,7 +119138,7 @@
     },
     {
       "name": "polyarticular juvenile rheumatoid arthritis",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Tocilizumab",
@@ -120008,7 +120508,7 @@
     },
     {
       "name": "pressure-induced localized lipoatrophy",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -120051,14 +120551,14 @@
           "score": 99.03
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 98.96
-        },
-        {
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 98.58
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 98.34
         }
       ]
     },
@@ -120587,7 +121087,7 @@
     },
     {
       "name": "primary release disorder of platelets",
-      "drug_count": 58,
+      "drug_count": 57,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -120731,7 +121231,7 @@
     },
     {
       "name": "progesterone-receptor negative breast cancer",
-      "drug_count": 26,
+      "drug_count": 25,
       "drugs": [
         {
           "drug": "Pertuzumab",
@@ -120787,7 +121287,7 @@
     },
     {
       "name": "progesterone-receptor positive breast cancer",
-      "drug_count": 26,
+      "drug_count": 25,
       "drugs": [
         {
           "drug": "Pertuzumab",
@@ -121176,7 +121676,7 @@
     },
     {
       "name": "prostatic urethra urothelial carcinoma",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Ramucirumab",
@@ -121202,11 +121702,6 @@
           "drug": "Trastuzumab",
           "slug": "trastuzumab",
           "score": 99.04
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 98.8
         },
         {
           "drug": "Vinflunine",
@@ -121310,7 +121805,7 @@
     },
     {
       "name": "proximal 16p11.2 microdeletion syndrome",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Fenfluramine Hydrochloride",
@@ -121351,11 +121846,6 @@
           "drug": "Melatonin",
           "slug": "melatonin",
           "score": 78.45
-        },
-        {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 73.09
         }
       ]
     },
@@ -121579,7 +122069,7 @@
     },
     {
       "name": "psoriasis",
-      "drug_count": 21,
+      "drug_count": 20,
       "drugs": [
         {
           "drug": "Volanesorsen Sodium",
@@ -121635,7 +122125,7 @@
     },
     {
       "name": "psoriasis 14, pustular",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Risankizumab",
@@ -121651,11 +122141,6 @@
           "drug": "Natalizumab",
           "slug": "natalizumab",
           "score": 97.56
-        },
-        {
-          "drug": "Inebilizumab",
-          "slug": "inebilizumab",
-          "score": 88.6
         }
       ]
     },
@@ -122176,17 +122661,6 @@
       ]
     },
     {
-      "name": "pulmonary atresia-intact ventricular septum syndrome",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 77.36
-        }
-      ]
-    },
-    {
       "name": "pulmonary blastoma",
       "drug_count": 5,
       "drugs": [
@@ -122512,7 +122986,7 @@
     },
     {
       "name": "pulmonary sulcus neoplasm",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Alectinib Hydrochloride",
@@ -122555,11 +123029,6 @@
           "score": 99.29
         },
         {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.75
-        },
-        {
           "drug": "Erlotinib",
           "slug": "erlotinib",
           "score": 94.51
@@ -122599,17 +123068,6 @@
           "drug": "Basiliximab",
           "slug": "basiliximab",
           "score": 92.62
-        }
-      ]
-    },
-    {
-      "name": "pulmonic stenosis (disease)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 76.27
         }
       ]
     },
@@ -122687,7 +123145,7 @@
     },
     {
       "name": "pustulosis palmaris et plantaris",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Risankizumab",
@@ -122708,11 +123166,6 @@
           "drug": "Tacrolimus",
           "slug": "tacrolimus",
           "score": 97.76
-        },
-        {
-          "drug": "Inebilizumab",
-          "slug": "inebilizumab",
-          "score": 89.21
         }
       ]
     },
@@ -122859,7 +123312,7 @@
     },
     {
       "name": "pyropoikilocytosis, hereditary",
-      "drug_count": 13,
+      "drug_count": 12,
       "drugs": [
         {
           "drug": "Eptifibatide",
@@ -122915,7 +123368,7 @@
     },
     {
       "name": "pyruvate kinase deficiency of red cells",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Eptifibatide",
@@ -123004,7 +123457,7 @@
     },
     {
       "name": "reactive thrombocytosis",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
         {
           "drug": "Anagrelide",
@@ -123015,11 +123468,6 @@
           "drug": "Midostaurin",
           "slug": "midostaurin",
           "score": 98.76
-        },
-        {
-          "drug": "Ponatinib",
-          "slug": "ponatinib",
-          "score": 98.72
         }
       ]
     },
@@ -123959,7 +124407,7 @@
     },
     {
       "name": "restless legs syndrome",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Levetiracetam",
@@ -124007,9 +124455,9 @@
           "score": 96.17
         },
         {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 96.17
+          "drug": "Choriogonadotropin Alfa",
+          "slug": "choriogonadotropin-alfa",
+          "score": 95.43
         }
       ]
     },
@@ -124051,7 +124499,7 @@
     },
     {
       "name": "reticular dysgenesis",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Susoctocog Alfa",
@@ -124072,11 +124520,6 @@
           "drug": "Aflibercept",
           "slug": "aflibercept",
           "score": 94.34
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 91.66
         },
         {
           "drug": "Velaglucerase Alfa",
@@ -124437,7 +124880,7 @@
     },
     {
       "name": "rheumatoid arthritis",
-      "drug_count": 68,
+      "drug_count": 66,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -124575,7 +125018,7 @@
     },
     {
       "name": "rheumatoid vasculitis",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Tocilizumab",
@@ -124826,13 +125269,8 @@
     },
     {
       "name": "salmonellosis",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.99
-        },
         {
           "drug": "Amikacin Sulfate",
           "slug": "amikacin-sulfate",
@@ -125320,17 +125758,6 @@
           "drug": "Prasterone",
           "slug": "prasterone",
           "score": 99.11
-        }
-      ]
-    },
-    {
-      "name": "scleroderma, familial progressive",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.76
         }
       ]
     },
@@ -125882,7 +126309,7 @@
     },
     {
       "name": "severe combined immunodeficiency due to LCK deficiency",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Alirocumab",
@@ -125898,11 +126325,6 @@
           "drug": "Aflibercept",
           "slug": "aflibercept",
           "score": 94.19
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 91.5
         },
         {
           "drug": "Ipilimumab",
@@ -125996,7 +126418,7 @@
     },
     {
       "name": "severe nonproliferative diabetic retinopathy",
-      "drug_count": 61,
+      "drug_count": 60,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -126379,13 +126801,8 @@
     },
     {
       "name": "sinusitis",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.99
-        },
         {
           "drug": "Cilastatin",
           "slug": "cilastatin",
@@ -126935,7 +127352,7 @@
     },
     {
       "name": "spondyloarthropathy, susceptibility to",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Diflunisal",
@@ -126981,11 +127398,6 @@
           "drug": "Prasterone",
           "slug": "prasterone",
           "score": 96.97
-        },
-        {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 77.73
         }
       ]
     },
@@ -127188,13 +127600,8 @@
     },
     {
       "name": "staphylococcus aureus infection",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.95
-        },
         {
           "drug": "Cilastatin",
           "slug": "cilastatin",
@@ -127371,13 +127778,8 @@
     },
     {
       "name": "streptococcal pneumonia",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.81
-        },
         {
           "drug": "Avibactam",
           "slug": "avibactam",
@@ -127485,17 +127887,6 @@
           "drug": "Dostarlimab",
           "slug": "dostarlimab",
           "score": 50.0
-        }
-      ]
-    },
-    {
-      "name": "subaortic stenosis, membranous",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 71.88
         }
       ]
     },
@@ -127690,13 +128081,8 @@
     },
     {
       "name": "suppurative otitis media",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.75
-        },
         {
           "drug": "Colesevelam (As Hydrochloride)",
           "slug": "colesevelam-as-hydrochloride",
@@ -127907,7 +128293,7 @@
     },
     {
       "name": "syndrome with a Dandy-Walker malformation as major feature",
-      "drug_count": 33,
+      "drug_count": 32,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -127963,7 +128349,7 @@
     },
     {
       "name": "syndrome with combined immunodeficiency",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Canakinumab",
@@ -127989,11 +128375,6 @@
           "drug": "Interferon Beta-1B",
           "slug": "interferon-beta-1b",
           "score": 97.06
-        },
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 94.28
         },
         {
           "drug": "Alemtuzumab",
@@ -128332,7 +128713,7 @@
     },
     {
       "name": "tendinitis",
-      "drug_count": 18,
+      "drug_count": 17,
       "drugs": [
         {
           "drug": "Pregabalin",
@@ -128380,9 +128761,9 @@
           "score": 97.2
         },
         {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 97.04
+          "drug": "Isavuconazole",
+          "slug": "isavuconazole",
+          "score": 95.04
         }
       ]
     },
@@ -128691,17 +129072,6 @@
       ]
     },
     {
-      "name": "thalassemia, beta+, silent allele",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Luspatercept",
-          "slug": "luspatercept",
-          "score": 93.32
-        }
-      ]
-    },
-    {
       "name": "theca steroid-producing cell malignant tumor of ovary, not further specified",
       "drug_count": 2,
       "drugs": [
@@ -128750,7 +129120,7 @@
     },
     {
       "name": "thiamine-responsive dysfunction syndrome",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -128788,11 +129158,6 @@
           "score": 99.47
         },
         {
-          "drug": "Metformin",
-          "slug": "metformin",
-          "score": 99.4
-        },
-        {
           "drug": "Insulin Lispro",
           "slug": "insulin-lispro",
           "score": 99.37
@@ -128801,6 +129166,11 @@
           "drug": "Insulin Degludec",
           "slug": "insulin-degludec",
           "score": 99.1
+        },
+        {
+          "drug": "Empagliflozin",
+          "slug": "empagliflozin",
+          "score": 98.99
         }
       ]
     },
@@ -128931,16 +129301,11 @@
     },
     {
       "name": "thrombocytopenia",
-      "drug_count": 19,
+      "drug_count": 18,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
           "slug": "avatrombopag-maleate",
-          "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
           "score": 99.99
         },
         {
@@ -128982,6 +129347,11 @@
           "drug": "Palbociclib",
           "slug": "palbociclib",
           "score": 98.51
+        },
+        {
+          "drug": "Tezacaftor",
+          "slug": "tezacaftor",
+          "score": 98.35
         }
       ]
     },
@@ -129762,17 +130132,12 @@
     },
     {
       "name": "transient neonatal thrombocytopenia",
-      "drug_count": 19,
+      "drug_count": 18,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
           "slug": "avatrombopag-maleate",
           "score": 100.0
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.99
         },
         {
           "drug": "Lomitapide",
@@ -129813,6 +130178,11 @@
           "drug": "Palbociclib",
           "slug": "palbociclib",
           "score": 98.24
+        },
+        {
+          "drug": "Teriflunomide",
+          "slug": "teriflunomide",
+          "score": 98.1
         }
       ]
     },
@@ -129929,7 +130299,7 @@
     },
     {
       "name": "trichomegaly-retina pigmentary degeneration-dwarfism syndrome",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -129940,11 +130310,6 @@
           "drug": "Riluzole",
           "slug": "riluzole",
           "score": 99.99
-        },
-        {
-          "drug": "Lusutrombopag",
-          "slug": "lusutrombopag",
-          "score": 99.94
         },
         {
           "drug": "Avapritinib",
@@ -129980,6 +130345,11 @@
           "drug": "Nintedanib",
           "slug": "nintedanib",
           "score": 98.66
+        },
+        {
+          "drug": "Vinflunine",
+          "slug": "vinflunine",
+          "score": 98.25
         }
       ]
     },
@@ -130007,7 +130377,7 @@
     },
     {
       "name": "trichotillomania",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Lacosamide",
@@ -130050,20 +130420,20 @@
           "score": 99.16
         },
         {
-          "drug": "Fentanyl",
-          "slug": "fentanyl",
-          "score": 98.87
-        },
-        {
           "drug": "Methylphenidate Hydrochloride",
           "slug": "methylphenidate-hydrochloride",
           "score": 98.83
+        },
+        {
+          "drug": "Asenapine Maleate",
+          "slug": "asenapine-maleate",
+          "score": 98.8
         }
       ]
     },
     {
       "name": "trigeminal autonomic cephalalgia",
-      "drug_count": 35,
+      "drug_count": 34,
       "drugs": [
         {
           "drug": "Acetylsalicylic Acid",
@@ -130427,7 +130797,7 @@
     },
     {
       "name": "type 1 diabetes mellitus",
-      "drug_count": 21,
+      "drug_count": 20,
       "drugs": [
         {
           "drug": "Insulin Aspart",
@@ -130520,13 +130890,8 @@
     },
     {
       "name": "typhoid fever",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Imipenem",
-          "slug": "imipenem",
-          "score": 99.98
-        },
         {
           "drug": "Amikacin Sulfate",
           "slug": "amikacin-sulfate",
@@ -130578,7 +130943,7 @@
     },
     {
       "name": "ulcerative colitis (disease)",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Guselkumab",
@@ -130599,11 +130964,6 @@
           "drug": "Belimumab",
           "slug": "belimumab",
           "score": 96.5
-        },
-        {
-          "drug": "Inebilizumab",
-          "slug": "inebilizumab",
-          "score": 92.38
         },
         {
           "drug": "Voclosporin",
@@ -131746,7 +132106,7 @@
     },
     {
       "name": "vertebral disease",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Diflunisal",
@@ -131787,11 +132147,6 @@
           "drug": "Ixekizumab",
           "slug": "ixekizumab",
           "score": 95.13
-        },
-        {
-          "drug": "Infliximab",
-          "slug": "infliximab",
-          "score": 75.14
         }
       ]
     },

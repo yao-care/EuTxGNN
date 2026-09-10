@@ -1,132 +1,130 @@
 ---
 layout: default
 title: Nilotinib
-description: "Nilotinib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 403
+parent: 僅模型預測 (L5)
+nav_order: 415
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Nilotinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Nilotinib: From Chronic Myeloid Leukemia to Dermatofibrosarcoma Protuberans
+
+## One-Sentence Summary
+
+> Nilotinib is a BCR-ABL/PDGFR/KIT tyrosine kinase inhibitor; this specific original-indication text is not captured in the current Evidence Pack, but the drug is publicly known to have been developed and approved for chronic myeloid leukemia (CML).
+> The TxGNN model predicts it may be effective for **Dermatofibrosarcoma Protuberans (DFSP)**,
+> with **no dedicated clinical trials** and **1 supporting review article** currently available for this specific drug–disease pair.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Nilotinib |
-| DrugBank ID | [DB04868](https://go.drugbank.com/drugs/DB04868) |
-| Brand Names (EU) | Nilotinib Accord |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.31% |
+| Item | Content |
+|------|------|
+| Original Indication | Not captured in this Evidence Pack (data gap, see DG002); generally known to be Chronic Myeloid Leukemia (CML) |
+| Predicted New Indication | Dermatofibrosarcoma Protuberans |
+| TxGNN Prediction Score | 99.31% |
+| Evidence Level | L4 |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Nilotinib Accord is indicated for the treatment of: - adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase, - adult patients with chronic phase and accelerated phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib. Efficacy data in patients with CML in blast crisis are not available, - paediatric patients with chronic phase Philadelphia chromosome positi
+Currently, detailed mechanism of action data is not available in this Evidence Pack (data gap DG002). Based on general pharmacological knowledge, nilotinib is a second-generation tyrosine kinase inhibitor originally developed against BCR-ABL for chronic myeloid leukemia, and it also potently inhibits PDGFR-α/β and KIT — targets that are unrelated to the BCR-ABL fusion driving CML but are shared with several soft-tissue sarcomas.
 
----
+Dermatofibrosarcoma protuberans is a distinct tumour type driven in most cases by the COL1A1-PDGFB fusion gene, which causes constitutive PDGFR-β activation. Because nilotinib is a PDGFR inhibitor, it is mechanistically plausible that it could suppress this driver alteration, independent of its original CML indication.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | dermatofibrosarcoma protuberans | 99.31% | DL |
-| 2 | liposarcoma | 98.85% | DL |
-| 3 | ovarian myxoid liposarcoma | 98.74% | DL |
-| 4 | Ewing sarcoma | 98.45% | DL |
-| 5 | ganglioneuroblastoma (disease) | 97.02% | DL |
-| 6 | heart fibrosarcoma | 97.01% | DL |
-| 7 | vertebral anomalies and variable endocrine and T-cell dysfunction | 96.94% | DL |
-| 8 | kidney fibrosarcoma | 96.90% | DL |
-| 9 | fibroblastic neoplasm | 96.90% | DL |
-| 10 | conventional fibrosarcoma | 96.79% | DL |
-| 11 | low grade fibromyxoid sarcoma | 96.61% | DL |
-| 12 | uterine corpus sarcoma | 96.36% | DL |
-| 13 | retroperitoneal neoplasm | 96.22% | DL |
-| 14 | vulva sarcoma | 95.61% | DL |
-| 15 | neuroblastoma | 95.59% | DL |
-| 16 | myeloid leukemia | 95.35% | DL |
-| 17 | chronic myelogenous leukemia, BCR-ABL1 positive | 94.87% | DL |
-| 18 | liver fibrosarcoma | 94.81% | DL |
-| 19 | fibromatosis, gingival | 94.64% | DL |
-| 20 | chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation | 94.33% | DL |
-
-*Showing top 20 of 50 predictions.*
+The strongest supporting argument is a class-effect precedent: imatinib, a first-generation PDGFR/BCR-ABL/KIT inhibitor closely related to nilotinib, is already an approved and guideline-recommended treatment for DFSP. This establishes that PDGFR blockade is a clinically validated strategy in this tumour, lending biological plausibility to the TxGNN prediction for nilotinib — although no dedicated nilotinib-specific trial or case series in DFSP currently exists in the Evidence Pack.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
+Currently no related clinical trials registered.
 
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+*(Note: a Phase 1/2 trial of nilotinib in sarcomas — NCT02587169 — exists but is registered under liposarcoma/leiomyosarcoma, not DFSP; see the drug's other predicted indications for that evidence.)*
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Review | Pharmacological Research | Reviews the role of small-molecule PDGFR inhibitors — including nilotinib — in treating PDGF-driven neoplastic disorders; supports the mechanistic rationale but provides no DFSP-specific clinical data. |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorization data is available for nilotinib in this dataset (0 authorizations, market status: Not marketed). This should be re-verified against the current EMA register, since nilotinib is authorized in the EU under the brand name Tasigna for CML — its absence here likely reflects an incomplete data pull rather than a true market gap.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Nilotinib is an antineoplastic tyrosine kinase inhibitor (targeted therapy class), so this section is included.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (BCR-ABL / PDGFR / KIT tyrosine kinase inhibitor), not conventional cytotoxic chemotherapy |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+**Important note:** TFDA/EMA label warnings and contraindications (DG001) are flagged as a **Blocking** data gap in this Evidence Pack — the package insert has not yet been retrieved and parsed. This must be resolved before any Stage 1 (S1) safety screening can be completed. Drug interaction data was also queried with no results found (`query_status: not_found`).
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- The top prediction (DFSP) is supported only by mechanistic class-effect reasoning and a general PDGFR-inhibitor review article (L4) — there is no clinical trial or case-level evidence for nilotinib specifically in DFSP.
+- A Blocking-severity data gap exists on TFDA/EMA safety labeling, which prevents any Stage 1 safety evaluation from being completed.
+- EU market authorization status is unresolved (0 licenses recorded), which needs reconciliation before regulatory pathway planning.
+
+**To proceed, the following is needed:**
+- Retrieve and parse the official nilotinib package insert (TFDA/EMA SmPC) to close DG001 and DG002
+- Confirm actual EU market/authorization status (likely a data extraction gap given nilotinib's known EU approval as Tasigna)
+- Seek case reports, off-label use data, or a pilot study of nilotinib specifically in DFSP, given the existing imatinib class-effect precedent
+- Note: the rank-2 candidate (liposarcoma) already has stronger evidence (L2, a completed Phase 1 trial NCT02587169 and a published Phase 1 paper) and may be a more actionable next candidate to evaluate in parallel
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

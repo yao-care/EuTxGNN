@@ -1,134 +1,132 @@
 ---
 layout: default
 title: Lusutrombopag
-description: "lusutrombopag drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 358
+parent: 僅模型預測 (L5)
+nav_order: 370
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Lusutrombopag
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using no additional skill invocation — this is a direct content-generation task fully specified by the provided report template; I'll apply it directly to the evidence pack.
+
+# Lusutrombopag: Original Indication Unconfirmed → Predicted Application in Hereditary Thrombocytopenia with Normal Platelets
+
+## One-Sentence Summary
+
+> Lusutrombopag's original approved indication and detailed mechanism of action are not yet documented in this evidence pack (both flagged as data gaps, one of them **Blocking**). The TxGNN model's top prediction is **Hereditary Thrombocytopenia with Normal Platelets** (score 99.995%), but this is supported by **zero clinical trials** and **zero publications** — the prediction currently rests entirely on the AI model's knowledge-graph score.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Lusutrombopag |
-| DrugBank ID | [DB13125](https://go.drugbank.com/drugs/DB13125) |
-| Brand Names (EU) | Mulpleo (previously Lusutrombopag Shionogi) |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 100.00% |
+| Item | Content |
+|------|---------|
+| Original Indication | **Not available** — no regulatory license or approved indication text on file (Blocking data gap, DG001) |
+| Predicted New Indication | Hereditary Thrombocytopenia with Normal Platelets *(see caveat below — disease name is internally contradictory)* |
+| TxGNN Prediction Score | 99.995% |
+| Evidence Level | **L5** (model prediction only, no clinical/literature support) |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Mulpleo is indicated for the treatment of severe thrombocytopenia in adult patients with chronic liver disease undergoing invasive procedures
+Currently, detailed mechanism of action (MOA) data for Lusutrombopag is not available in the structured drug record (data gap DG002, High severity), and no original approved indication is on file for this evidence pack. However, the TxGNN rationale text generated alongside each prediction independently identifies Lusutrombopag as a **thrombopoietin receptor agonist (TPO‑RA)** — a drug class that stimulates megakaryocyte maturation and raises platelet counts. This class-level mechanism is the implicit basis for the model linking Lusutrombopag to a cluster of platelet-related phenotypes.
 
----
+Looking across all 10 ranked predictions, three distinct mechanistic tiers emerge, and the evidence pack's own rationale text is candid about which ones hold up:
 
-## Predicted New Indications
+- **Quantitatively plausible (ranks 1–3):** hereditary thrombocytopenia with normal platelets, macrothrombocytopenia with mitral valve insufficiency, and transient neonatal thrombocytopenia are all disorders of *low platelet count*, which is mechanistically consistent with a TPO‑RA's known pharmacology.
+- **Mechanistically mismatched (ranks 4–5):** dense granule disease and platelet storage pool deficiency are disorders of platelet *function* (granule content), not platelet *number*. The rationale explicitly states that increasing platelet production cannot correct a storage/secretion defect — these are flagged as poor mechanistic fits despite high model scores.
+- **Likely graph noise (ranks 6–10):** amyotrophic lateral sclerosis and related neuromuscular/neurodevelopmental/skeletal conditions have no known TPO/MPL receptor pathway involvement. The rationale itself describes these as probable knowledge-graph artifacts (indirect node connections) rather than genuine pharmacological hypotheses.
 
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | hereditary thrombocytopenia with normal platelets | 100.00% | DL |
-| 2 | marcothrombocytopenia with mitral valve insufficiency | 100.00% | DL |
-| 3 | transient neonatal thrombocytopenia | 99.99% | DL |
-| 4 | dense granule disease | 99.99% | DL |
-| 5 | thrombocytopenia | 99.99% | DL |
-| 6 | platelet storage pool deficiency | 99.96% | DL |
-| 7 | amyotrophic lateral sclerosis | 99.95% | DL |
-| 8 | lower motor neuron syndrome with late-adult onset | 99.95% | DL |
-| 9 | amyotrophic lateral sclerosis, susceptibility to | 99.95% | DL |
-| 10 | bilateral parasagittal parieto-occipital polymicrogyria | 99.95% | DL |
-| 11 | axial spondylometaphyseal dysplasia | 99.94% | DL |
-| 12 | amyotrohpic lateral sclerosis type 22 | 99.94% | DL |
-| 13 | Mills syndrome | 99.94% | DL |
-| 14 | monomelic amyotrophy | 99.94% | DL |
-| 15 | trichomegaly-retina pigmentary degeneration-dwarfism syndrome | 99.94% | DL |
-| 16 | autosomal dominant mitochondrial myopathy with exercise intolerance | 99.93% | DL |
-| 17 | lethal arthrogryposis-anterior horn cell disease syndrome | 99.93% | DL |
-| 18 | kidney pelvis sarcomatoid transitional cell carcinoma | 98.85% | DL |
-| 19 | neuronopathy, distal hereditary motor | 98.85% | DL |
-| 20 | prostatic urethra urothelial carcinoma | 98.80% | DL |
-
-*Showing top 20 of 50 predictions.*
+**Important caveat on the top-ranked prediction:** the rationale for rank 1 explicitly flags that "hereditary thrombocytopenia with **normal platelets**" is a self-contradictory disease label, most likely an ontology/naming error in the underlying disease vocabulary rather than a real, distinct clinical entity. This should be resolved before any further evaluation of this specific candidate.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations are on file. `market_status = "未上市" (Not Marketed)`, `total_licenses = 0`. Lusutrombopag currently has no recorded EU regulatory presence in this evidence pack.
 
 ---
 
-## Citation
+## Other Predicted Indications (Ranks 2–10, Supplementary)
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Rank | Predicted Indication | Score | Evidence Level | Recommendation | Note |
+|------|----------------------|-------|-----------------|-----------------|------|
+| 2 | Macrothrombocytopenia with mitral valve insufficiency | 99.995% | pending | pending | Scoring not yet completed in this evidence pack |
+| 3 | Transient neonatal thrombocytopenia | 99.995% | L5 | Hold | Self-limiting condition; no neonatal safety/PK data for TPO‑RA class |
+| 4 | Dense granule disease | 99.995% | L5 | Hold | Functional (not quantitative) platelet disorder — mechanism mismatch |
+| 5 | Platelet storage pool deficiency | 99.958% | L5 | Hold | Same mechanism mismatch as rank 4 |
+| 6 | Amyotrophic lateral sclerosis | 99.948% | L5 | Hold | No known TPO/MPL pathway link; likely graph noise |
+| 7 | Lower motor neuron syndrome, late-adult onset | 99.948% | L5 | Hold | Likely graph noise |
+| 8 | ALS, susceptibility to | 99.946% | L5 | Hold | Genetic susceptibility category, not a treatable disease entity |
+| 9 | Bilateral parasagittal parieto-occipital polymicrogyria | 99.945% | L5 | Hold | Cortical malformation; no mechanistic link |
+| 10 | Axial spondylometaphyseal dysplasia | 99.943% | L5 | Hold | Skeletal dysplasia; no mechanistic link |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+⚠️ **Blocking data gap (DG001):** TFDA/SmPC-level warnings and contraindications for Lusutrombopag are not yet available in this evidence pack. This is classified as **Blocking severity** — it directly prevents entry into Stage 1 (S1) safety pre-screening. Drug interaction (DDI) query also returned no results (`query_status = not_found`).
+
+Please refer to the SmPC for safety information once obtained; do not proceed with clinical or regulatory evaluation until this gap is resolved.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All 10 predicted indications are supported solely by TxGNN model scores with zero clinical trials and zero literature (L5 across the board). The single highest-ranked candidate carries a likely ontology-naming error, and half of the remaining candidates are flagged by the evidence pack's own mechanistic rationale as either mismatched (functional vs. quantitative platelet disorders) or probable knowledge-graph noise (ALS/neurodevelopmental/skeletal conditions). Combined with a **Blocking** safety data gap, this candidate cannot advance past S0.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (Blocking): obtain TFDA/SmPC warnings and contraindications
+- Resolve DG002: confirm Lusutrombopag's MOA via DrugBank API
+- Obtain the confirmed, regulator-sourced original approved indication(s) for Lusutrombopag
+- Clarify whether "hereditary thrombocytopenia with normal platelets" is a valid distinct ontology entry or a labeling/data error before further evaluating rank 1
+- If pursuing rank 3 (transient neonatal thrombocytopenia), commission a dedicated neonatal safety/PK literature search before any advancement beyond S0
+- Deprioritize ranks 4–10 from further research resource allocation given mechanistic mismatch or likely graph-noise status
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

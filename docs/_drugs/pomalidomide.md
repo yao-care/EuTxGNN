@@ -1,132 +1,127 @@
 ---
 layout: default
 title: Pomalidomide
-description: "Pomalidomide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 464
+parent: 僅模型預測 (L5)
+nav_order: 476
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Pomalidomide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Pomalidomide: From Relapsed/Refractory Multiple Myeloma to Indolent Plasma Cell Myeloma
+
+## One-Sentence Summary
+
+> Pomalidomide is a third-generation immunomodulatory drug (IMiD) already used for relapsed/refractory multiple myeloma.
+> The TxGNN model predicts it may also be effective for **Indolent (Smoldering) Plasma Cell Myeloma**,
+> with **1 completed Phase 2 clinical trial** and **2 supporting publications** currently available for this specific candidate.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Pomalidomide |
-| DrugBank ID | [DB08910](https://go.drugbank.com/drugs/DB08910) |
-| Brand Names (EU) | Pomalidomide Accord |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 93.96% |
+| Item | Content |
+|------|------|
+| Original Indication | Not confirmed via marketing authorization data (data gap); mechanistic evidence references relapsed/refractory multiple myeloma |
+| Predicted New Indication | Indolent Plasma Cell Myeloma |
+| TxGNN Prediction Score | 93.96% |
+| Evidence Level | L2 |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Pomalidomide Accord in combination with bortezomib and dexamethasone is indicated in the treatment of adult patients with multiple myeloma who have received at least one prior treatment regimen including lenalidomide. Pomalidomide Accord in combination with dexamethasone is indicated in the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide and bortezomib, and have demonstrated disease pro
+Detailed mechanism-of-action data for pomalidomide is not available in the structured `original_moa` field of this Evidence Pack (data gap). However, the repurposing rationale attached to this candidate describes the mechanism directly: pomalidomide is a third-generation IMiD that binds cereblon (CRBN), an E3 ubiquitin ligase, driving degradation of the transcription factors IKZF1 and IKZF3. This suppresses plasma cell proliferation and enhances T-cell/NK-cell anti-tumour immunity — the basis for its established use in relapsed/refractory multiple myeloma.
 
----
+Indolent (smoldering) plasma cell myeloma sits on the same disease continuum as active multiple myeloma, representing an earlier, lower tumour-burden stage of the same clonal plasma cell disorder. Because the pathogenic mechanism (clonal plasma cell proliferation) is shared, the CRBN/IKZF1/IKZF3 mechanism is directly applicable without requiring cross-disease extrapolation — this is the strongest category of TxGNN prediction, essentially a "same disease, earlier stage" extension rather than a novel mechanistic hypothesis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | indolent plasma cell myeloma | 93.96% | DL |
-| 2 | plasma cell myeloma | 92.01% | DL |
-| 3 | CMM7 | 74.95% | DL |
-| 4 | pediatric leptomeningeal melanoma | 73.55% | DL |
-| 5 | vulvar melanoma (disease) | 73.32% | DL |
-| 6 | epithelioid cell uveal melanoma | 72.21% | DL |
-| 7 | melanoma | 63.30% | DL |
-| 8 | cholangiocarcinoma, susceptibility to | 60.26% | DL |
-| 9 | congenital temporomandibular joint ankylosis | 59.62% | DL |
-| 10 | polydipsia | 59.25% | DL |
-| 11 | ganglioneuroblastoma (disease) | 58.68% | DL |
-| 12 | atrial flutter (disease) | 58.09% | DL |
-| 13 | myeloid leukemia | 57.66% | DL |
-| 14 | GCGR-related hyperglucagonemia | 57.22% | DL |
-| 15 | epidural abscess | 56.12% | DL |
-| 16 | dental caries | 56.05% | DL |
-| 17 | mitral valve stenosis | 55.71% | DL |
-| 18 | conduct disorder | 55.70% | DL |
-| 19 | fetal growth restriction | 55.40% | DL |
-| 20 | anuria | 54.85% | DL |
-
-*Showing top 20 of 50 predictions.*
+This is supported by direct trial evidence: NCT02046915 tested pomalidomide + dexamethasone specifically in a relapsed myeloma population, matching both the drug and the underlying disease biology, though the single-arm design limits it to hypothesis-supporting rather than confirmatory evidence.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02046915](https://clinicaltrials.gov/study/NCT02046915) | Phase 2 | Completed | 60 | Single-arm study of pomalidomide + dexamethasone, with response-adapted cyclophosphamide added, in relapsed myeloma; designed to balance efficacy against the substantial myelosuppression risk seen when IMiDs are combined with alkylating agents. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [22180161](https://pubmed.ncbi.nlm.nih.gov/22180161/) | 2012 | Review | American Journal of Hematology | Updated diagnosis, risk-stratification, and management guidance for multiple myeloma, providing disease-context background for indolent/smoldering staging. |
+| [21181954](https://pubmed.ncbi.nlm.nih.gov/21181954/) | 2011 | Review | American Journal of Hematology | Earlier version of the same myeloma diagnosis/management update, establishing the disease framework within which indolent myeloma is staged. |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorization records are currently present in this dataset (0 authorizations, market status: not marketed). This should be verified independently, as the absence of records here may reflect a data collection gap rather than confirmed non-marketing status.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Pomalidomide is an antineoplastic agent (approved oncology indication: relapsed/refractory multiple myeloma) and is therefore evaluated for cytotoxicity risk.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted/immunomodulatory therapy (Immunomodulatory Imide Drug, IMiD; thalidomide analog) — not a conventional cytotoxic agent |
+| Myelosuppression Risk | High — trial evidence (NCT02046915) explicitly notes patients are at "substantial risk of critical myelosuppression," particularly when combined with alkylating agents |
+| Emetogenicity Classification | Please refer to the SmPC — no emetogenicity data provided in this Evidence Pack |
+| Monitoring Items | Complete blood count (CBC) with differential, given the documented myelosuppression risk; renal function (IMiDs are renally handled); consider thromboembolism monitoring given class-wide VTE risk |
+| Handling Protection | As a thalidomide-class IMiD with known teratogenic potential, handling should follow pregnancy-prevention/REMS-equivalent controls in addition to standard antineoplastic handling precautions |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. No key warnings, contraindications, or drug-drug interaction data were available in this Evidence Pack (DDI query status: not found).
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+The mechanistic link is direct rather than extrapolated — indolent plasma cell myeloma and the approved indication share the same underlying clonal biology — and is supported by a completed Phase 2 trial in a closely related patient population, justifying advancement with guardrails rather than a full "Go."
+
+**To proceed, the following is needed:**
+- **Blocking gap**: TFDA/regulatory label warnings and contraindications must be obtained (currently unavailable), as this is required before any S1 safety pre-assessment can proceed.
+- Confirmed drug-level mechanism of action (MOA) from DrugBank, to replace the current data gap and validate the mechanistic rationale independently of trial free-text.
+- A confirmatory (ideally randomized) trial specifically in the indolent/smoldering myeloma population, since the current supporting trial (NCT02046915) enrolled relapsed/active myeloma patients, not the indolent subgroup itself.
+- Drug interaction data, given none is currently available for this candidate.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

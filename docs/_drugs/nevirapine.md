@@ -1,132 +1,121 @@
 ---
 layout: default
 title: Nevirapine
-description: "Nevirapine drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 402
+parent: 僅模型預測 (L5)
+nav_order: 414
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Nevirapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Nevirapine: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+
+## One-Sentence Summary
+
+> Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI), established in the literature for treating HIV-1 infection.
+> The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**,
+> but this is supported only by **0 clinical trials** and **16 preclinical/mechanistic publications** — and several of those publications indicate wild-type SIV is naturally resistant to NNRTIs, weakening the case.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Nevirapine |
-| DrugBank ID | [DB00238](https://go.drugbank.com/drugs/DB00238) |
-| Brand Names (EU) | Viramune |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.91% |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented in this EU regulatory data pack (0 authorizations on file); per literature context, Nevirapine is used as an antiretroviral (NNRTI) for HIV-1 infection |
+| Predicted New Indication | Simian Immunodeficiency Virus Infection |
+| TxGNN Prediction Score | 99.85% |
+| Evidence Level | L4 |
+| EU Market Status | 未上市 (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Viramune 50 mg/5 mL oral suspension and 200 mg tablets Viramune is indicated in combination with other anti-retroviral medicinal products for the treatment of HIV-1 infected adults, adolescents, and children of any age.Most of the experience with Viramune is in combination with nucleoside reverse transcriptase inhibitors (NRTIs). The choice of a subsequent therapy after Viramune should be based on clinical experience and resistance testing. Viramune 400 mg prolonged-release tablets Viramune is i
+Currently, detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the supporting literature, Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) used against HIV-1. Mechanistically, the rationale for extending it to SIV infection rests on the fact that HIV and SIV are both lentiviruses with structurally related reverse transcriptase enzymes.
 
----
+However, the collected evidence actually undercuts this rationale rather than supporting it. Multiple in vitro/preclinical papers (e.g. PMID 7541200, 15040537) report that **wild-type SIV reverse transcriptase has a structurally divergent NNRTI binding pocket and is naturally resistant to nevirapine and other NNRTIs**. Sensitivity is only observed in engineered chimeric viruses (SHIV/RT-SHIV) that have been genetically modified to carry HIV-1's reverse transcriptase gene, purely as a laboratory tool for studying drug-resistance evolution in non-human primate models — not as a therapeutic target in naturally occurring SIV infection.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | HIV infectious disease | 99.91% | DL |
-| 2 | simian immunodeficiency virus infection | 99.85% | DL |
-| 3 | feline acquired immunodeficiency syndrome | 99.85% | DL |
-| 4 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 99.82% | DL |
-| 5 | AIDS | 99.38% | DL |
-| 6 | fibroma of prostate | 98.99% | DL |
-| 7 | Brenner tumor | 98.92% | DL |
-| 8 | benign reproductive system neoplasm | 98.90% | DL |
-| 9 | benign prostate phyllodes tumor | 98.77% | DL |
-| 10 | male reproductive organ cancer | 98.62% | DL |
-| 11 | AIDS related complex | 98.52% | DL |
-| 12 | congenital human immunodeficiency virus | 98.52% | DL |
-| 13 | prostate leiomyoma | 98.45% | DL |
-| 14 | prostate cancer/brain cancer susceptibility | 98.40% | DL |
-| 15 | obsolete familial combined hyperlipidemia | 97.66% | DL |
-| 16 | breast fibrocystic disease | 97.06% | DL |
-| 17 | apocrine adenosis of breast | 96.23% | DL |
-| 18 | blunt duct adenosis of breast | 96.23% | DL |
-| 19 | benign mammary dysplasia | 95.66% | DL |
-| 20 | mycotic corneal ulcer | 94.04% | DL |
-
-*Showing top 20 of 50 predictions.*
+In short, the biological similarity that TxGNN is picking up on (HIV vs. SIV as related lentiviruses) does not translate into real antiviral activity against native SIV, and there is no human clinical relevance here — SIV does not infect humans. This candidate is best understood as identifying nevirapine's established role as a *research tool* in NNRTI-resistance animal models, not a genuine drug-repurposing opportunity.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [15564466](https://pubmed.ncbi.nlm.nih.gov/15564466/) | 2004 | In vitro/Preclinical | Journal of Virology | Constructed an SIV-HIV chimera expressing HIV-1 reverse transcriptase to study NNRTI resistance in pigtail macaques, since NNRTIs do not effectively inhibit native SIV RT |
+| [19195672](https://pubmed.ncbi.nlm.nih.gov/19195672/) | 2009 | Preclinical (animal model) | Virology | Characterized vaginal transmission of an RT-SHIV (HIV-1 RT inserted into SIV backbone) in rhesus macaques as a model system, not a treatment study |
+| [7541200](https://pubmed.ncbi.nlm.nih.gov/7541200/) | 1995 | In vitro susceptibility | Biochem Biophys Res Commun | Built a hybrid SIV/HIV-1 RT chimera (RT-SHIV) specifically because native SIV is not sensitive to HIV-1-specific NNRTIs; chimera was sensitive to both NRTIs and NNRTIs |
+| [11375059](https://pubmed.ncbi.nlm.nih.gov/11375059/) | 2001 | In vivo animal model | AIDS Res Hum Retroviruses | Cynomolgus monkeys infected with RT-SHIV used as an in vivo model to study emergence and reversal of NNRTI drug resistance |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro susceptibility comparison | Antiviral Therapy | Evaluated 16 approved anti-HIV-1 drugs (including presumably nevirapine-class NNRTIs) against HIV-2, SIV, and SHIV strains to guide treatment/PEP use — relevant to differential species susceptibility |
+| [12234864](https://pubmed.ncbi.nlm.nih.gov/12234864/) | 2002 | Pending | Antimicrob Agents Chemother | Tested integrase inhibitor L-708,906 combined with zidovudine, **nevirapine**, or nelfinavir against SIV(MAC251); combinations with nevirapine were subsynergistic |
+| [27748043](https://pubmed.ncbi.nlm.nih.gov/27748043/) | 2017 | Pending | Chem Biol Drug Des | Small molecule 3G11 inhibits HIV-1 RT specifically but does NOT block SIVmac or other retroviruses — illustrates species-specific RT inhibitor activity |
+| [11020686](https://pubmed.ncbi.nlm.nih.gov/11020686/) | 2000 | Pending | Ann Emerg Med | Reviews postexposure prophylaxis rationale, citing animal (SIV) studies showing antiretrovirals can reduce SIV transmission as indirect support for human PEP |
+| [1283296](https://pubmed.ncbi.nlm.nih.gov/1283296/) | 1992 | Pending | Antimicrob Agents Chemother | FTC (an NRTI, not nevirapine) shown active against HIV-1, HIV-2, SIV, and FIV in cell culture systems |
+| [16859727](https://pubmed.ncbi.nlm.nih.gov/16859727/) | 2006 | Pending | Virology | Tested NRTIs and NNRTIs against HIV-1 and SIV virions for inhibiting endogenous reverse transcription, exploring potential as topical "lentivirucides" |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EU marketing authorizations are currently on file for Nevirapine in this data pack (market status: **未上市 / Not marketed**, 0 authorizations recorded).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*(Note: `safety.key_warnings` and `safety.contraindications` are both flagged as data gaps in this evidence pack, and no drug interaction records were found. TFDA/EMA label warnings are listed as a Blocking data gap — DG001 — required before any safety (S1) assessment can proceed.)*
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Evidence level is L4 (preclinical/mechanistic only, no clinical trials), and the literature itself indicates wild-type SIV is naturally resistant to nevirapine — sensitivity has only been demonstrated in artificially engineered chimeric viruses used as laboratory research tools. There is also no human clinical relevance, as SIV does not infect humans. The mechanistic and clinical case for repurposing is weak.
+
+**To proceed, the following is needed:**
+- Nevirapine mechanism-of-action data (DG002, High severity) to properly assess mechanistic plausibility
+- TFDA/EMA product label warnings and contraindications (DG001, Blocking — required before any S1 safety assessment)
+- Clarification of the clinical/translational rationale, since the target organism (SIV) is non-human and the existing evidence describes a research-tool use case rather than a therapeutic indication
+- If a genuine human-relevant indication is intended, re-examine other candidates in this evidence pack — e.g., "AIDS related complex" (rank 10, L2/S3, Proceed with Guardrails) is better supported but falls within nevirapine's original approved use rather than representing a novel repurposing opportunity
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Mifamurtide
-description: "Mifamurtide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 382
+parent: 僅模型預測 (L5)
+nav_order: 394
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Mifamurtide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Mifamurtide: From Osteosarcoma (Unconfirmed) to Filariasis
+
+## One-Sentence Summary
+
+> Mifamurtide is a liposomal formulation of muramyl tripeptide phosphatidylethanolamine (MTP-PE), though its original indication is not confirmed in this evidence pack.
+> The TxGNN model predicts it may be effective for **Filariasis**,
+> but currently **no clinical trials** and **no supporting literature** exist for this specific pairing — the prediction rests solely on an indirect, low-confidence mechanistic inference.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Mifamurtide |
-| DrugBank ID | [DB13615](https://go.drugbank.com/drugs/DB13615) |
-| Brand Names (EU) | Mepact |
+| Item | Content |
+|------|------|
+| Original Indication | Not available (no license data or original indication text in this evidence pack) |
+| Predicted New Indication | Filariasis |
+| TxGNN Prediction Score | 93.06% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 93.06% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Mepact is indicated in children, adolescents and young adults for the treatment of high-grade resectable non-metastatic osteosarcoma after macroscopically complete surgical resection. It is used in combination with postoperative multi-agent chemotherapy. Safety and efficacy have been assessed in studies of patients two to 30 years of age at initial diagnosis.
+Currently, detailed mechanism of action data is not available in this evidence pack. Based on the repurposing rationale provided, Mifamurtide is a liposomal MTP-PE (muramyl tripeptide phosphatidylethanolamine) that activates NOD2 signaling in monocytes/macrophages, inducing pro-inflammatory cytokines (TNF-α, IL-1, IL-6). This is a general macrophage-activating immunostimulant mechanism rather than a disease-specific one.
 
----
+The proposed link to filariasis is that enhanced macrophage activation might theoretically improve host immune clearance of filarial parasites. However, this is explicitly flagged in the rationale as a weak, indirect inference — there is no direct literature or trial evidence connecting Mifamurtide to filariasis, and the established first-line treatment for filariasis is antiparasitic chemotherapy, not immune stimulation. The biological plausibility here is low.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | filariasis | 93.06% | DL |
-| 2 | primary hereditary glaucoma | 86.67% | DL |
-| 3 | autoimmune oophoritis | 85.19% | DL |
-| 4 | autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 84.06% | DL |
-| 5 | type 1 diabetes mellitus | 83.77% | DL |
-| 6 | brain small vessel disease 1 with or without ocular anomalies | 83.34% | DL |
-| 7 | open-angle glaucoma | 82.86% | DL |
-| 8 | cholecystolithiasis | 81.83% | DL |
-| 9 | trigeminal autonomic cephalalgia | 77.84% | DL |
-| 10 | diabetic nephropathy | 77.64% | DL |
-| 11 | headache disorder | 76.60% | DL |
-| 12 | thromboangiitis obliterans | 75.41% | DL |
-| 13 | unclassified myelodysplastic syndrome | 73.37% | DL |
-| 14 | refractory cytopenia of childhood | 71.80% | DL |
-| 15 | partial deletion of the long arm of chromosome 5 | 71.78% | DL |
-| 16 | myelodysplastic syndrome | 71.05% | DL |
-| 17 | aregenerative anemia | 70.86% | DL |
-| 18 | severe congenital hypochromic anemia with ringed sideroblasts | 70.39% | DL |
-| 19 | tendinitis | 70.00% | DL |
-| 20 | congenital hypotrichosis milia | 69.84% | DL |
-
-*Showing top 20 of 50 predictions.*
+Notably, several other top-10 predictions for this drug (autoimmune oophoritis, type 1 diabetes mellitus, diabetic nephropathy) show **mechanistically contradictory** rationale — Mifamurtide's pro-inflammatory action could plausibly *worsen* these autoimmune/inflammatory conditions rather than treat them. This pattern across the candidate set suggests the model is picking up on the drug's general immunostimulant signature rather than disease-specific therapeutic relevance, which should temper confidence in the top-ranked prediction as well.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations are currently on record for this drug in the evidence pack (market status: not marketed, 0 licenses).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*Note: Mechanism of action, key warnings, and contraindications are flagged as a Blocking data gap (DG001) in this evidence pack — TFDA/EMA label data has not yet been retrieved, which prevents a preliminary safety (S1) assessment.*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (filariasis) has no clinical trial or literature support and rests on a single, explicitly weak mechanistic inference (L5, S0). Several lower-ranked candidates for this same drug show mechanistically contradictory rationale, suggesting the model's overall signal for Mifamurtide reflects generic immunostimulant activity rather than indication-specific therapeutic relevance. Combined with the absence of EU marketing status and a Blocking-severity safety data gap, there is insufficient basis to advance this candidate.
+
+**To proceed, the following is needed:**
+- Confirmed original indication and mechanism of action (DrugBank API query, per DG002)
+- TFDA/EMA label warnings, contraindications, and DDI data (per DG001, Blocking — required before any S1 safety evaluation)
+- Direct clinical or preclinical evidence specifically linking Mifamurtide to filariasis (or reconsideration of lower-scoring but mechanistically coherent candidates)
+- Clarification of "not marketed" status in this evidence pack, given inconsistency with the drug's known regulatory history
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

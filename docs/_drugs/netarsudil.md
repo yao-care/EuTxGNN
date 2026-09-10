@@ -1,132 +1,112 @@
 ---
 layout: default
 title: Netarsudil
-description: "Netarsudil drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 400
+parent: 僅模型預測 (L5)
+nav_order: 412
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Netarsudil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Netarsudil: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+
+## One-Sentence Summary
+
+Netarsudil is a Rho-kinase (ROCK) inhibitor originally developed and approved elsewhere (as Rhopressa®/Rocklatan®) for lowering intraocular pressure in open-angle glaucoma and ocular hypertension.
+TxGNN's top-ranked prediction suggests possible efficacy in **Primary Hereditary Glaucoma**,
+but currently only **1 indirect clinical trial** and **no dedicated publications** support this specific subtype — the drug's much stronger evidence base (multiple completed Phase 3 RCTs) actually applies to glaucoma broadly, not this rarer hereditary form.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Netarsudil |
-| DrugBank ID | [DB13931](https://go.drugbank.com/drugs/DB13931) |
-| Brand Names (EU) | Rhokiinsa |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.60% |
+| Item | Content |
+|------|------|
+| Original Indication | Open-angle glaucoma / ocular hypertension (approved internationally; not authorized in this jurisdiction) |
+| Predicted New Indication | Primary Hereditary Glaucoma |
+| TxGNN Prediction Score | 99.50% |
+| Evidence Level | L4 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Reduction of elevated intraocular pressure (IOP) in adult patients with primary open-angle glaucoma or ocular hypertension.
+Currently, detailed mechanism-of-action data is not available in our regulatory dataset. Based on known information, Netarsudil is a Rho-kinase (ROCK) inhibitor that also blocks the norepinephrine transporter; it lowers intraocular pressure primarily by increasing trabecular (conventional) outflow and reducing episcleral venous pressure. This mechanism underlies its existing approvals for open-angle glaucoma and ocular hypertension.
 
----
+Primary hereditary glaucoma is a genetically-driven subtype in the same broad disease family, sharing the same final common pathway — elevated intraocular pressure due to impaired trabecular outflow. Since ROCK inhibition acts directly on the trabecular meshwork regardless of underlying etiology, there is a plausible mechanistic argument for benefit in hereditary forms as well.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | open-angle glaucoma | 99.60% | DL |
-| 2 | primary hereditary glaucoma | 99.50% | DL |
-| 3 | glaucoma | 99.47% | DL |
-| 4 | hypoglycemia | 98.66% | DL |
-| 5 | Axenfeld anomaly | 98.63% | DL |
-| 6 | glaucoma 1, open angle | 98.48% | DL |
-| 7 | open angle glaucoma | 98.10% | DL |
-| 8 | hydrophthalmos | 97.54% | DL |
-| 9 | hereditary thrombocytopenia with normal platelets | 97.48% | DL |
-| 10 | dense granule disease | 97.47% | DL |
-| 11 | marcothrombocytopenia with mitral valve insufficiency | 97.45% | DL |
-| 12 | transient neonatal thrombocytopenia | 97.32% | DL |
-| 13 | lingual-facial-buccal dyskinesia | 97.24% | DL |
-| 14 | thrombocytopenia | 97.04% | DL |
-| 15 | visceral calciphylaxis | 96.99% | DL |
-| 16 | chronic tic disorder | 96.90% | DL |
-| 17 | benign shuddering attacks | 96.88% | DL |
-| 18 | extrapyramidal and movement disease | 96.88% | DL |
-| 19 | psychogenic movement disorders | 96.46% | DL |
-| 20 | benign paroxysmal tonic upgaze of childhood with ataxia | 96.45% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, this theoretical plausibility should not be overstated: the only trial currently linked to this specific prediction (NCT06969586) does not actually study primary hereditary glaucoma — it examines corneal endothelial protection in Fuchs Endothelial Corneal Dystrophy patients who also have glaucoma, and was graded "C" relevance (indirect). By contrast, closely related TxGNN predictions in this same evidence pack — "glaucoma," "open angle glaucoma," and "glaucoma 1, open angle" — are supported by numerous completed Phase 2/3 RCTs (evidence level L1), because these largely reflect netarsudil's already-established approved use rather than a novel indication. The hereditary-glaucoma-specific claim therefore remains a research question rather than a validated repurposing opportunity.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06969586](https://clinicaltrials.gov/study/NCT06969586) | N/A | Enrolling by Invitation | 50 | Evaluates whether topical ROCK inhibitors protect corneal endothelial cells after cataract surgery in patients with glaucoma and Fuchs Endothelial Corneal Dystrophy — an indirect safety/corneal-protection study, not a primary-hereditary-glaucoma efficacy trial. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+Currently no related literature available specific to primary hereditary glaucoma.
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+*(Note: extensive literature exists for netarsudil in glaucoma/ocular hypertension generally — see related predictions "glaucoma" and "open angle glaucoma" in the full evidence pack — but none focus on the hereditary subtype.)*
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Netarsudil is not currently authorized or marketed in this jurisdiction (market status: Not Marketed; 0 licenses on record). No product/authorization details are available locally.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information. No local warnings, contraindications, or drug-interaction records are currently available for this jurisdiction, and this drug is not yet licensed here.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The only trial linked to primary hereditary glaucoma is indirect (Grade C relevance, studying corneal endothelial effects rather than disease-specific efficacy), and no dedicated publications exist. While the drug's ROCK-inhibitor mechanism is well validated for glaucoma broadly (L1 evidence), that evidence does not directly establish efficacy in the hereditary subtype, and the drug is not yet authorized in this jurisdiction.
+
+**To proceed, the following is needed:**
+- Direct clinical evidence (trials or case series) in genetically-confirmed primary hereditary glaucoma patients
+- Local mechanism-of-action and SmPC/label data (currently a Blocking data gap — DG001, DG002)
+- Regulatory filing status and marketing authorization pathway for this jurisdiction
+- A safety monitoring plan accounting for known class-related ocular adverse effects (e.g., corneal changes, punctal stenosis) reported in the broader glaucoma population
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

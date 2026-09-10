@@ -1,132 +1,107 @@
 ---
 layout: default
 title: Elotuzumab
-description: "Elotuzumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 201
+parent: 僅模型預測 (L5)
+nav_order: 210
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Elotuzumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Elotuzumab: From Multiple Myeloma to Indolent Plasma Cell Myeloma
+
+## One-Sentence Summary
+
+Elotuzumab is an anti-SLAMF7 (CS1) immunostimulatory monoclonal antibody originally developed for relapsed/refractory multiple myeloma (used in combination with lenalidomide/pomalidomide + dexamethasone). The TxGNN model predicts it may be effective for **Indolent (Smoldering) Plasma Cell Myeloma**, but this direction is currently supported by only **1 indirectly-related clinical trial** and **2 non-RCT publications**.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Elotuzumab |
-| DrugBank ID | [DB06317](https://go.drugbank.com/drugs/DB06317) |
-| Brand Names (EU) | Empliciti |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.62% |
+| Item | Content |
+|------|------|
+| Original Indication | Multiple Myeloma (relapsed/refractory, per known mechanism-of-action description; no EU marketing authorization on file) |
+| Predicted New Indication | Indolent Plasma Cell Myeloma |
+| TxGNN Prediction Score | 98.62% |
+| Evidence Level | L3 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data is not on file in the standard drug record (DrugBank MOA field: Data Gap), but supplementary rationale data indicates Elotuzumab is an anti-SLAMF7 (CS1) immunostimulatory monoclonal antibody. It works by activating NK-cell-mediated antibody-dependent cellular cytotoxicity (ADCC) and by directly binding SLAMF7, a surface antigen highly expressed on malignant plasma cells. Its established use is in active multiple myeloma, typically combined with lenalidomide/pomalidomide and dexamethasone.
+
+Indolent (smoldering) plasma cell myeloma sits on the same disease spectrum as active multiple myeloma — it is the asymptomatic, early-stage counterpart in which clonal plasma cells already express SLAMF7 but have not yet caused end-organ damage. Mechanistically, targeting SLAMF7 in this earlier stage is plausible, since the target antigen itself does not depend on disease activity.
+
+However, mechanistic plausibility does not equal clinical readiness: the standard of care for indolent/smoldering myeloma is observation rather than active treatment, so introducing an immunotherapy here raises a clinical-management question that goes beyond simple repositioning of an approved drug to an adjacent indication.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03019666](https://clinicaltrials.gov/study/NCT03019666) | Phase 1 | Completed | 39 | Trial of NAM-expanded haploidentical/mismatched-related-donor NK cells (± short-course IL-2) in relapsed/refractory multiple myeloma and NHL; NK cells are the effector population for elotuzumab's ADCC mechanism, but the trial title does not name elotuzumab as a study drug, so relevance is indirect (Grade B) rather than direct evidence of elotuzumab use in indolent myeloma. |
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27610224](https://pubmed.ncbi.nlm.nih.gov/27610224/) | 2016 | Review | F1000Research | Discusses revised diagnostic criteria under which former "ultra-high-risk smoldering myeloma" is now reclassified as myeloma requiring treatment, and reviews evolving triplet-therapy response rates. |
+| [31413971](https://pubmed.ncbi.nlm.nih.gov/31413971/) | 2017 | Cohort | Journal of Patient-Centered Research and Reviews | Pilot study of vaccination practice patterns in multiple myeloma patients within a large health system, evaluated via EMR/data analytics. |
+
+## EU Market Information
+
+Elotuzumab currently has no EU marketing authorization on file (market status: Not Marketed, 0 authorizations recorded).
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (anti-SLAMF7 monoclonal antibody, ADCC-based mechanism) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Evidence for elotuzumab in indolent plasma cell myeloma consists of a single indirectly-related Phase 1 trial (no elotuzumab arm confirmed) and two non-RCT publications (L3), with no dedicated trial evaluating elotuzumab specifically in this population. A blocking data gap on TFDA/label safety information (warnings, contraindications) currently prevents even an initial S1 safety screen, and the drug has no EU marketing authorization. Separately, indolent/smoldering myeloma's standard of care is observation, making active pharmacologic intervention itself a contested clinical question independent of repurposing merits.
+
+**To proceed, the following is needed:**
+- Elotuzumab SmPC/label safety data (warnings, contraindications, drug interactions) — currently a blocking gap
+- Confirmed detailed mechanism-of-action documentation from DrugBank or equivalent source
+- A dedicated clinical trial evaluating elotuzumab specifically in smoldering/indolent multiple myeloma, rather than inferring relevance from an NK-cell-therapy trial in active disease
+- Clarification of EU regulatory/marketing status and pathway, since the drug is currently unmarketed in this dataset
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Empliciti is indicated in combination with lenalidomide and dexamethasone for the treatment of multiple myeloma in adult patients who have received at least one prior therapy (see sections 4.2 and 5.1).
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | indolent plasma cell myeloma | 98.62% | DL |
-| 2 | plasma cell myeloma | 98.00% | DL |
-| 3 | lipoma of colon | 76.32% | DL |
-| 4 | cecum villous adenoma | 76.07% | DL |
-| 5 | colonic lymphangioma | 75.67% | DL |
-| 6 | colon leiomyoma | 75.35% | DL |
-| 7 | rectosigmoid junction neoplasm | 75.30% | DL |
-| 8 | cecum neuroendocrine tumor G1 | 75.28% | DL |
-| 9 | cecal disease | 74.83% | DL |
-| 10 | benign neoplasm of cecum | 74.70% | DL |
-| 11 | cavernous hemangioma of colon | 73.91% | DL |
-| 12 | uterine ligament adenocarcinoma | 73.22% | DL |
-| 13 | endocervical carcinoma | 70.79% | DL |
-| 14 | adenoid cystic carcinoma of the cervix uteri | 70.61% | DL |
-| 15 | uterine ligament serous adenocarcinoma | 70.48% | DL |
-| 16 | bronchitis | 70.25% | DL |
-| 17 | bronchial neoplasm (disease) | 69.57% | DL |
-| 18 | minimally invasive lung adenocarcinoma | 69.03% | DL |
-| 19 | signet ring cell variant cervical mucinous adenocarcinoma | 68.70% | DL |
-| 20 | intestinal variant cervical mucinous adenocarcinoma | 68.50% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

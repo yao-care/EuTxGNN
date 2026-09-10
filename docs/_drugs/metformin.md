@@ -1,132 +1,118 @@
 ---
 layout: default
 title: Metformin
-description: "Metformin drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 371
+parent: 僅模型預測 (L5)
+nav_order: 383
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Metformin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Metformin: From Type 2 Diabetes to Focal Stiff Limb Syndrome
+
+## One-Sentence Summary
+
+Metformin is a globally established first-line biguanide agent for Type 2 Diabetes Mellitus. The TxGNN model predicts a possible new application in **Focal Stiff Limb Syndrome**, but the current Evidence Pack contains **only a model prediction score (99.45%)** — no clinical trials and no supporting literature exist for this specific indication.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Metformin |
-| DrugBank ID | [DB00331](https://go.drugbank.com/drugs/DB00331) |
-| Brand Names (EU) | Metformin |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented in this Evidence Pack (no Taiwan/EU license data available); Metformin is globally recognized as a first-line treatment for Type 2 Diabetes Mellitus |
+| Predicted New Indication | Focal Stiff Limb Syndrome |
+| TxGNN Prediction Score | 99.45% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.45% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Synjardy is indicated in adults and children aged 10 years and above for the treatment of type 2 diabetes mellitus as an adjunct to diet and exercise:•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in patients insufficiently controlled on their maximally tolerated dose of metformin alone•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in combination with other medicinal products for the treatment of diabetes, in patients insufficiently controlled with metformin and these medicinal
+Currently, detailed mechanism of action data is not available (data gap). Based on general background knowledge, Metformin belongs to the biguanide class of antidiabetic agents, acting primarily by reducing hepatic glucose production, decreasing intestinal glucose absorption, and improving peripheral insulin sensitivity. Its efficacy in Type 2 Diabetes Mellitus is well established.
 
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | focal stiff limb syndrome | 99.45% | DL |
-| 2 | classic stiff person syndrome | 99.45% | DL |
-| 3 | diabetes mellitus (disease) | 99.43% | DL |
-| 4 | opsismodysplasia | 99.40% | DL |
-| 5 | thiamine-responsive dysfunction syndrome | 99.40% | DL |
-| 6 | drug-induced localized lipodystrophy | 99.06% | DL |
-| 7 | centrifugal lipodystrophy | 98.99% | DL |
-| 8 | pressure-induced localized lipoatrophy | 98.96% | DL |
-| 9 | pancreatic agenesis | 98.91% | DL |
-| 10 | idiopathic localized lipodystrophy | 98.90% | DL |
-| 11 | homozygous familial hypercholesterolemia | 92.30% | DL |
-| 12 | autoimmune oophoritis | 83.94% | DL |
-| 13 | hypervitaminosis | 82.40% | DL |
-| 14 | type 1 diabetes mellitus | 79.77% | DL |
-| 15 | pulmonary atresia-intact ventricular septum syndrome | 77.36% | DL |
-| 16 | pulmonic stenosis (disease) | 76.27% | DL |
-| 17 | genetic vascular tumor | 73.85% | DL |
-| 18 | arterial duct anomaly | 73.33% | DL |
-| 19 | proximal 16p11.2 microdeletion syndrome | 73.09% | DL |
-| 20 | subaortic stenosis, membranous | 71.88% | DL |
-
-*Showing top 20 of 50 predictions.*
+There is, however, no known pharmacological or mechanistic rationale connecting Metformin to Focal Stiff Limb Syndrome, a rare neuromuscular/autoimmune disorder. The prediction rests solely on the TxGNN knowledge-graph score (0.994); no mechanistic literature or clinical evidence supports this link. The same holds for the other top-ranked candidates in this pack (e.g., Classic Stiff Person Syndrome, Opsismodysplasia), which also lack any biological rationale beyond the model score.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Other Candidate Indications Reviewed (Ranks 2–10)
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+For context, nine additional TxGNN-predicted indications were reviewed in this pack. All were assessed as **Hold**, either due to a complete absence of supporting evidence (L5) or only weak, indirect preclinical/case-report evidence (L4):
 
----
+| Rank | Predicted Indication | Score | Evidence Level | Note |
+|------|----------------------|-------|-----------------|------|
+| 2 | Classic Stiff Person Syndrome | 99.45% | L5 | No mechanistic link; autoimmune disorder unrelated to known glucose-lowering action |
+| 3 | Opsismodysplasia | 99.40% | L5 | Rare skeletal dysplasia, no mechanistic link |
+| 4 | Thiamine-Responsive Dysfunction Syndrome | 99.40% | L5 | Metformin is known to *interfere* with B12/thiamine metabolism — a potential risk signal, not a therapeutic rationale |
+| 5 | Drug-Induced Localized Lipodystrophy | 99.06% | L5 | No supporting evidence |
+| 6 | Centrifugal Lipodystrophy | 98.99% | L5 | No supporting evidence |
+| 7 | Pressure-Induced Localized Lipoatrophy | 98.96% | L5 | No supporting evidence |
+| 8 | Pancreatic Agenesis | 98.91% | L4 | 20 papers reviewed; only 1 indirect case report (Alström syndrome), not disease-specific |
+| 9 | Idiopathic Localized Lipodystrophy | 98.90% | L5 | No supporting evidence |
+| 10 | Homozygous Familial Hypercholesterolemia | 92.30% | L4 | Only 2 papers; 1988 in-vitro fibroblast study showing indirect cholesterol-lowering effect, not clinically validated |
 
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+None of these candidates currently meet a threshold for further development.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. **Note:** TFDA label warnings/contraindications (DG001) are flagged as a **Blocking** data gap in this Evidence Pack — safety evaluation (S1 stage) cannot proceed until this data is obtained.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All 10 predicted indications in this Evidence Pack are supported only by the TxGNN model score (L5) or minimal indirect preclinical/case-report evidence (L4), with no clinical trials confirming human efficacy for any of them. Additionally, a **Blocking** data gap (missing TFDA warnings/contraindications) prevents even a preliminary safety assessment.
+
+**To proceed, the following is needed:**
+- TFDA label PDF (warnings, contraindications) — resolves Blocking gap DG001
+- DrugBank MOA data — resolves High-severity gap DG002
+- Targeted literature/mechanistic search specifically on Focal Stiff Limb Syndrome and Metformin (none currently exists)
+- If pursuing rank 8 (Pancreatic Agenesis) or rank 10 (HoFH), dedicated mechanistic studies to confirm the preliminary preclinical signals before any clinical consideration
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

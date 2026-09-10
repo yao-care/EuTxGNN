@@ -2,7 +2,7 @@
 layout: default
 title: Lidocaine
 parent: 僅模型預測 (L5)
-nav_order: 251
+nav_order: 355
 evidence_level: L5
 indication_count: 10
 ---

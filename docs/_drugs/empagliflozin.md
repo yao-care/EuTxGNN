@@ -1,132 +1,105 @@
 ---
 layout: default
 title: Empagliflozin
-description: "Empagliflozin drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 205
+parent: 僅模型預測 (L5)
+nav_order: 214
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Empagliflozin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Empagliflozin: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
+
+## One-Sentence Summary
+
+Empagliflozin is an SGLT2 inhibitor originally developed for type 2 diabetes mellitus; detailed mechanism-of-action data for this candidate is currently unavailable (data gap, see below). The TxGNN model predicts it may be effective for **Classic Stiff Person Syndrome**, but this prediction currently has **0 supporting clinical trials** and **0 supporting publications**.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Empagliflozin |
-| DrugBank ID | [DB09038](https://go.drugbank.com/drugs/DB09038) |
-| Brand Names (EU) | Jardiance |
+| Item | Content |
+|------|------|
+| Original Indication | Type 2 Diabetes Mellitus (SGLT2 inhibitor class; no EU marketing-authorization record exists in this dataset) |
+| Predicted New Indication | Classic Stiff Person Syndrome |
+| TxGNN Prediction Score | 99.06% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.06% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Type 2 diabetes mellitus Jardiance is indicated in adults and children aged 10 years and above for the treatment of insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise  as monotherapy when metformin is considered inappropriate due to intolerance in addition to other medicinal products for the treatment of diabetes  For study results with respect to combination of therapies, effects on glycaemic control, cardiovascular and renal events, and the populations studie
+Currently, detailed mechanism-of-action data is not available in this evidence pack. Based on general knowledge, Empagliflozin belongs to the SGLT2 (sodium-glucose cotransporter-2) inhibitor class, which lowers blood glucose by blocking renal glucose reabsorption; its efficacy in type 2 diabetes mellitus (and related cardio-renal indications) is well established in the wider literature, even though no such authorization record appears in this dataset.
 
----
+Classic Stiff Person Syndrome (SPS), however, is an autoimmune neurological disorder driven by anti-GAD65 antibodies that disrupt GABAergic neurotransmission. There is no known pharmacological overlap between GABAergic autoimmune neurotransmission and renal glucose-transporter inhibition.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | classic stiff person syndrome | 99.06% | DL |
-| 2 | focal stiff limb syndrome | 99.06% | DL |
-| 3 | opsismodysplasia | 99.03% | DL |
-| 4 | thiamine-responsive dysfunction syndrome | 98.99% | DL |
-| 5 | diabetes mellitus (disease) | 98.95% | DL |
-| 6 | drug-induced localized lipodystrophy | 98.46% | DL |
-| 7 | centrifugal lipodystrophy | 98.39% | DL |
-| 8 | pressure-induced localized lipoatrophy | 98.34% | DL |
-| 9 | idiopathic localized lipodystrophy | 98.25% | DL |
-| 10 | pancreatic agenesis | 98.07% | DL |
-| 11 | autoimmune oophoritis | 92.37% | DL |
-| 12 | type 1 diabetes mellitus | 92.30% | DL |
-| 13 | homozygous familial hypercholesterolemia | 88.13% | DL |
-| 14 | polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 72.71% | DL |
-| 15 | retinal dystrophy with or without extraocular anomalies | 72.35% | DL |
-| 16 | diabetes mellitus, insulin-dependent, X-linked, susceptibility to | 71.83% | DL |
-| 17 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 68.69% | DL |
-| 18 | myopia X-linked | 68.03% | DL |
-| 19 | syndromic myopia | 65.73% | DL |
-| 20 | atrial flutter (disease) | 64.23% | DL |
-
-*Showing top 20 of 50 predictions.*
+The evidence pack's own repurposing rationale is explicit about this gap: it states the high TxGNN score for this candidate is most likely driven by knowledge-graph co-occurrence or embedding similarity rather than any genuine mechanistic relationship. In other words, this is a model-artifact-level prediction, not a mechanism-driven hypothesis, and should be treated accordingly.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Empagliflozin has no marketing authorization records in the current EU regulatory dataset (market status: Not Marketed, 0 authorizations on file).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (Classic Stiff Person Syndrome) has no clinical trials, no supporting literature, and — per the model's own rationale — no known mechanistic link to Empagliflozin's SGLT2-inhibitory activity. The high TxGNN score most likely reflects graph-embedding similarity rather than biological plausibility, so this candidate does not currently warrant advancement.
+
+**To proceed, the following is needed:**
+- TFDA/EMA product labeling (warnings and contraindications) — currently a **Blocking** data gap (DG001), required before any safety pre-screening (S1) can occur
+- Confirmed mechanism-of-action data for Empagliflozin — currently a **High**-severity data gap (DG002), needed for mechanistic-relevance analysis
+- If this line of research continues, consider prioritizing lower-ranked candidates with at least partial metabolic/mechanistic plausibility instead (e.g., thiamine-responsive dysfunction syndrome, drug-induced/idiopathic lipodystrophy, or pancreatic agenesis — the latter already has 2 tangential PubMed records), rather than the top-ranked but mechanistically unsupported hit
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

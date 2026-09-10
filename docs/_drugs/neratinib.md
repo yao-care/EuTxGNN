@@ -1,132 +1,124 @@
 ---
 layout: default
 title: Neratinib
-description: "Neratinib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 399
+parent: 僅模型預測 (L5)
+nav_order: 411
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Neratinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Neratinib: From HER2-Positive Breast Cancer to Normal Breast-Like Subtype of Breast Carcinoma
+
+## One-Sentence Summary
+
+> Neratinib is an irreversible pan-HER tyrosine kinase inhibitor whose efficacy in HER2-positive breast cancer is established in the literature evidence provided (e.g., the ExteNET trial).
+> The TxGNN model predicts it may be effective for **Normal Breast-Like Subtype of Breast Carcinoma**,
+> with only **1 clinical trial** and **no dedicated publications** currently supporting this specific direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Neratinib |
-| DrugBank ID | [DB11828](https://go.drugbank.com/drugs/DB11828) |
-| Brand Names (EU) | Nerlynx |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.81% |
+| Item | Content |
+|------|------|
+| Original Indication | HER2-positive breast cancer (inferred from literature evidence; no EU marketing authorization record found in this dataset) |
+| Predicted New Indication | Normal Breast-Like Subtype of Breast Carcinoma |
+| TxGNN Prediction Score | 99.68% |
+| Evidence Level | L3 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Nerlynx is indicated for the extended adjuvant treatment of adult patients with early stage hormone receptor positive HER2-overexpressed/amplified breast cancer and who are less than one year from the completion of prior adjuvant trastuzumab based therapy.
+Currently, detailed mechanism of action data is not available (data gap, pending DrugBank API lookup). Based on known information, Neratinib belongs to the irreversible pan-HER (HER1/EGFR, HER2, HER4) tyrosine kinase inhibitor class. Its efficacy in HER2-positive breast cancer has been demonstrated in supporting literature (e.g., the ExteNET Phase 3 trial for extended adjuvant therapy), which is consistent with public knowledge of this drug class.
 
----
+The predicted new indication, "normal breast-like subtype of breast carcinoma," refers to one of the intrinsic molecular subtypes of breast cancer (alongside Luminal A/B, HER2-enriched, and Basal-like). This subtype is typically characterized as HER2-negative/low, which creates a mechanistic tension with neratinib's HER2-driven mode of action. The only supporting trial in this evidence pack (NCT01670877) actually enrolled patients with **HER2 non-amplified but HER2-mutant** metastatic breast cancer — a genomically defined population that is related to, but not identical with, the transcriptomically defined "normal-like" subtype.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | HER2 positive breast carcinoma | 99.81% | DL |
-| 2 | normal breast-like subtype of breast carcinoma | 99.68% | DL |
-| 3 | progesterone-receptor positive breast cancer | 99.68% | DL |
-| 4 | progesterone-receptor negative breast cancer | 99.67% | DL |
-| 5 | breast tumor luminal A or B | 99.67% | DL |
-| 6 | synovium cancer | 98.08% | DL |
-| 7 | tenosynovial giant cell tumor | 97.38% | DL |
-| 8 | malignant giant cell tumor | 96.07% | DL |
-| 9 | tenosynovial giant cell tumor, localized type | 95.80% | DL |
-| 10 | fibroblastic neoplasm | 95.56% | DL |
-| 11 | kidney fibrosarcoma | 95.53% | DL |
-| 12 | conventional fibrosarcoma | 95.51% | DL |
-| 13 | benign PEComa | 95.43% | DL |
-| 14 | lymphangiomyoma | 95.40% | DL |
-| 15 | heart fibrosarcoma | 95.34% | DL |
-| 16 | uterine corpus perivascular epithelioid cell tumor | 95.33% | DL |
-| 17 | low grade fibromyxoid sarcoma | 95.29% | DL |
-| 18 | dermatofibrosarcoma protuberans | 95.11% | DL |
-| 19 | cutaneous undifferentiated pleomorphic sarcoma | 94.70% | DL |
-| 20 | malignant tenosynovial giant cell tumor | 94.69% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given this mismatch between the trial population and the predicted disease label, the mechanistic rationale should be considered **provisional**: it plausibly reflects a subset of HER2-negative tumors carrying activating HER2/HER-family mutations that remain sensitive to pan-HER inhibition, rather than a validated efficacy signal in the "normal-like" subtype as a whole.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01670877](https://clinicaltrials.gov/study/NCT01670877) | Phase 2 | Completed | 56 | Evaluated neratinib alone and in combination with fulvestrant in metastatic breast cancer that is HER2 non-amplified but harbors an activating HER2 mutation — a population mechanistically adjacent to, but not synonymous with, the "normal-like" subtype. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Neratinib currently has no EU marketing authorization record in this evidence pack (0 licenses, market status: Not Marketed). Regulatory status should be independently verified against the EMA product database before any decision advances beyond Hold.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (pan-HER tyrosine kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+> ⚠ Note: Safety data collection (TFDA/EMA label warnings and contraindications) is flagged as a **Blocking** data gap (DG001) — this must be resolved before the candidate can enter the S1 safety initial evaluation stage.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The predicted indication is supported by only one completed, non-randomized Phase 2 trial whose enrolled population (HER2-mutant, HER2 non-amplified metastatic breast cancer) does not precisely match the predicted disease label ("normal breast-like subtype"), and there is no supporting literature. Combined with a Blocking safety data gap and the absence of any EU marketing authorization, the evidence is insufficient to proceed past Hold at this time.
+
+**To proceed, the following is needed:**
+- TFDA/EMA SmPC safety data (warnings, contraindications, DDI) — required to clear the Blocking data gap (DG001)
+- Confirmed mechanism of action via DrugBank API (DG002)
+- Clarification of disease ontology mapping between "normal-like breast carcinoma" (transcriptomic subtype) and the HER2-mutant trial population (genomic subtype)
+- Additional trials or literature specific to HER2-negative/normal-like breast cancer to validate the mechanistic rationale
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,124 @@
 ---
 layout: default
 title: Panitumumab
-description: "Panitumumab drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 437
+parent: 僅模型預測 (L5)
+nav_order: 449
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Panitumumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Panitumumab: From Metastatic Colorectal Cancer to Drug-induced Osteoporosis
+
+## One-Sentence Summary
+
+Panitumumab is a fully human anti-EGFR monoclonal antibody originally used to treat metastatic colorectal cancer.
+The TxGNN model predicts it may be effective for **Drug-induced Osteoporosis**,
+but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a purely AI-driven association with no direct experimental or clinical evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Panitumumab |
-| DrugBank ID | [DB01269](https://go.drugbank.com/drugs/DB01269) |
-| Brand Names (EU) | Vectibix |
+| Item | Content |
+|------|------|
+| Original Indication | Metastatic colorectal cancer (per DrugBank general knowledge; no EU marketing authorization record found for this jurisdiction) |
+| Predicted New Indication | Drug-induced Osteoporosis |
+| TxGNN Prediction Score | 99.13% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.13% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Vectibix is indicated for the treatment of adult patients with wild-type RAS metastatic colorectal cancer (mCRC):  in first-line in combination with Folfox or Folfiri. in second-line in combination with Folfiri for patients who have received first-line fluoropyrimidine-based chemotherapy (excluding irinotecan). as monotherapy after failure of fluoropyrimidine-, oxaliplatin-, and irinotecan-containing chemotherapy regimens.
+Currently, detailed mechanism of action data is not available (data gap). Based on known information, Panitumumab is a fully human IgG2 monoclonal antibody that targets EGFR (epidermal growth factor receptor), and its efficacy in metastatic colorectal cancer is well established. EGFR signaling has some documented role in bone remodeling (osteoclast/osteoblast regulation), which is likely the basis for the knowledge-graph connection TxGNN identified between this drug and osteoporosis.
 
----
+However, per the model's own rationale, this link is indirect: it appears to reflect gene-level EGFR–bone pathway associations in the knowledge graph rather than a validated pharmacological mechanism for drug-induced bone loss. There is no clinical or literature evidence currently supporting this specific indication, and the same caveat applies to the other nine predictions in this pack (all EGFR-related eye/lens or bone conditions with similarly weak, gene-level-only rationale).
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | drug-induced osteoporosis | 99.13% | DL |
-| 2 | severe nonproliferative diabetic retinopathy | 99.05% | DL |
-| 3 | diabetic retinopathy | 98.96% | DL |
-| 4 | diabetic cataract | 98.90% | DL |
-| 5 | nuclear senile cataract | 98.81% | DL |
-| 6 | cortical cataract | 98.81% | DL |
-| 7 | craniostenosis cataract | 98.77% | DL |
-| 8 | mature cataract | 98.77% | DL |
-| 9 | diabetes mellitus type 2 associated cataract | 98.77% | DL |
-| 10 | immature cataract | 98.77% | DL |
-| 11 | tetanic cataract | 98.77% | DL |
-| 12 | senile cataract | 98.75% | DL |
-| 13 | rectal cloacogenic carcinoma | 98.11% | DL |
-| 14 | gallbladder adenosquamous carcinoma | 98.05% | DL |
-| 15 | adenosquamous prostate carcinoma | 98.01% | DL |
-| 16 | external ear basal cell carcinoma | 98.00% | DL |
-| 17 | urethral verrucous carcinoma | 98.00% | DL |
-| 18 | squamous cell carcinoma | 97.99% | DL |
-| 19 | pancreatic adenosquamous carcinoma | 97.98% | DL |
-| 20 | HER2 positive breast carcinoma | 97.98% | DL |
-
-*Showing top 20 of 51 predictions.*
+Given the absence of mechanistic specificity, clinical trials, or published literature, this prediction should be treated as a hypothesis-generating signal only, not a basis for clinical or regulatory action at this stage.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations were found for Panitumumab in this jurisdiction — the drug is currently listed as **not marketed** (0 licenses on record).
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Panitumumab is an antineoplastic agent (anti-EGFR monoclonal antibody used in metastatic colorectal cancer), so this section applies.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (Anti-EGFR monoclonal antibody; not conventional cytotoxic chemotherapy) |
+| Myelosuppression Risk | Low — typical of anti-EGFR monoclonal antibodies; please refer to the SmPC for detailed haematological data |
+| Emetogenicity Classification | Low (minimal emetogenic potential typical of monoclonal antibody therapy) |
+| Monitoring Items | Skin/dermatologic toxicity, serum electrolytes (magnesium, calcium), infusion-related reactions; CBC and renal/hepatic function per SmPC |
+| Handling Protection | Standard biologic infusion precautions; not classified as a cytotoxic hazardous drug requiring special cytotoxic handling procedures |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*(Key warnings, contraindications, and drug-interaction data are currently unavailable — this is flagged as a Blocking data gap (DG001), preventing safety pre-screening.)*
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All ten predicted indications are Evidence Level L5 (AI prediction only, decision stage S0) with zero supporting clinical trials or publications, and the mechanistic rationale for the top-ranked indication (drug-induced osteoporosis) is explicitly described as an indirect, gene-level knowledge-graph association rather than a validated pharmacological link. Combined with the Blocking safety data gap and the drug's non-marketed status in this jurisdiction, there is currently insufficient basis to advance this candidate.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (resolve DG001, Blocking)
+- Confirmed mechanism of action data from DrugBank or primary literature (resolve DG002, High)
+- Generation of preclinical or clinical evidence specifically linking EGFR inhibition to bone metabolism/osteoporosis
+- Regulatory status confirmation, since no marketing authorization currently exists in this jurisdiction
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

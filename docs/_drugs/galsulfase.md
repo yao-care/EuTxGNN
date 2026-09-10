@@ -1,132 +1,89 @@
 ---
 layout: default
 title: Galsulfase
-description: "Galsulfase drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 260
+parent: 僅模型預測 (L5)
+nav_order: 269
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Galsulfase
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Galsulfase: From Mucopolysaccharidosis VI (Maroteaux-Lamy Syndrome) to Ptosis-Strabismus-Ectopic Pupils Syndrome
+
+*Note: The evidence pack's `taiwan_regulatory.licenses` and `drug.original_indications` are empty, and `original_moa` is flagged as a data gap (DG002). The original indication/MOA above is reconstructed from the mechanistic annotation embedded in this same evidence pack (rank-10 rationale, which identifies galsulfase as N‑acetylgalactosamine‑4‑sulfatase used for MPS VI), not from an independent source.*
+
+## One-Sentence Summary
+
+Galsulfase (DrugBank DB01279) is an enzyme replacement therapy whose target enzyme, per this evidence pack, is used in Mucopolysaccharidosis VI (Maroteaux-Lamy syndrome); the drug is currently **not marketed in Taiwan**. The TxGNN model's top-ranked prediction is **Ptosis-Strabismus-Ectopic Pupils Syndrome**, but this pairing has **0 clinical trials and 0 publications**, and the model's own rationale states there is no known mechanistic link.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Galsulfase |
-| DrugBank ID | [DB01279](https://go.drugbank.com/drugs/DB01279) |
-| Brand Names (EU) | Naglazyme |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 97.89% |
+| Item | Content |
+|------|------|
+| Predicted New Indication | Ptosis-Strabismus-Ectopic Pupils Syndrome |
+| TxGNN Prediction Score | 97.89% (model rank 17,520) |
+| Evidence Level | L5 (model prediction only) |
+| Market Status (Taiwan) | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+The evidence pack does not provide a confirmed `original_moa` field for galsulfase (flagged as data gap DG002, severity High). However, the rationale attached to this drug's own predictions (specifically the rank-10 candidate) identifies galsulfase as N-acetylgalactosamine-4-sulfatase, an enzyme-replacement therapy for Mucopolysaccharidosis VI (Maroteaux-Lamy syndrome), acting via chondroitin/dermatan sulfate metabolism.
+
+For the top-ranked candidate, **Ptosis-Strabismus-Ectopic Pupils Syndrome**, the evidence pack's own mechanistic assessment is explicit and negative: this is a rare congenital ocular structural/neurodevelopmental syndrome with no known connection to galsulfase's sulfate-metabolizing enzyme-replacement mechanism. The pack states this pairing reflects "TxGNN embedding similarity only, with no mechanistic plausibility support" — i.e., the prediction is driven by graph-embedding proximity rather than any biological rationale.
+
+By contrast, the same evidence pack's rank-10 candidate, Scheie syndrome, is at least in the correct disease family (a mucopolysaccharidosis), though it targets a different enzyme deficiency (MPS I / α-L-iduronidase, treated with laronidase) than galsulfase's actual target (MPS VI). That candidate has some literature support (see below) but is not the top-ranked prediction and was not selected as this report's primary subject.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## Safety Considerations
+
+Detailed safety information (key warnings, contraindications, drug interactions) is not currently available in this evidence pack. TFDA labeling data was queried but is a blocking data gap (DG001). Please refer to the manufacturer's official product labeling once available.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (Ptosis-Strabismus-Ectopic Pupils Syndrome) has no clinical trials, no literature, and the model's own rationale explicitly disclaims any mechanistic link — this is a pure embedding-similarity artifact (L5), not a biologically grounded repurposing hypothesis.
+
+**To proceed, the following is needed:**
+- TFDA label/warnings and contraindications (DG001, Blocking) — required before any S1 safety screening
+- Confirmed mechanism of action for galsulfase from DrugBank (DG002, High)
+- A biologically plausible rationale connecting galsulfase's sulfatase-replacement mechanism to this specific ocular/neurodevelopmental syndrome, or reprioritization toward a mechanistically closer candidate (e.g., rank-10 Scheie syndrome, which at least sits within the mucopolysaccharidosis disease family, despite targeting a different enzyme deficiency than galsulfase)
+- Confirmation of Taiwan market status before any regulatory pathway planning, since the drug currently holds zero local authorizations
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Naglazyme is indicated for long-term enzyme-replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis VI (MPS VI; N-acetylgalactosamine-4-sulfatase deficiency; Maroteaux-Lamy syndrome) (see section 5.1). As for all lysosomal genetic disorders, it is of primary importance, especially in severe forms, to initiate treatment as early as possible, before appearance of non-reversible clinical manifestations of the disease. A key issue is to treat young patients aged &lt;5 yea
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | ptosis-strabismus-ectopic pupils syndrome | 97.89% | DL |
-| 2 | camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye | 97.87% | DL |
-| 3 | congenital Horner syndrome (disease) | 97.84% | DL |
-| 4 | ptosis-vocal cord paralysis syndrome | 97.83% | DL |
-| 5 | ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome | 97.67% | DL |
-| 6 | jaw-winking syndrome | 97.65% | DL |
-| 7 | congenital entropion | 97.64% | DL |
-| 8 | epiblepharon | 97.55% | DL |
-| 9 | congenital ectropion | 97.48% | DL |
-| 10 | mucopolysaccharidosis | 96.93% | DL |
-| 11 | Scheie syndrome | 94.79% | DL |
-| 12 | Steel syndrome | 93.88% | DL |
-| 13 | inborn disorder of lysosomal amino acid transport | 92.43% | DL |
-| 14 | proximal myopathy with extrapyramidal signs | 91.31% | DL |
-| 15 | Hurler syndrome | 90.23% | DL |
-| 16 | Charcot-Marie-Tooth disease | 90.05% | DL |
-| 17 | Sanfilippo syndrome | 88.67% | DL |
-| 18 | lysosomal storage disease with skeletal involvement | 87.99% | DL |
-| 19 | alpha-mannosidosis | 87.23% | DL |
-| 20 | skeletal muscle disease | 86.19% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

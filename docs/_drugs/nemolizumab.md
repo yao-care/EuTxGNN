@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Nemolizumab
-description: "Nemolizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 397
+parent: 僅模型預測 (L5)
+nav_order: 409
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Nemolizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Nemolizumab: From Pruritus-Related Dermatitis to Diabetic Cataract
+
+## One-Sentence Summary
+
+> Nemolizumab is an anti-IL-31 receptor A (IL-31RA) monoclonal antibody used for pruritus-associated conditions such as atopic dermatitis and prurigo nodularis.
+> The TxGNN model predicts it may be effective for **Diabetic Cataract**,
+> but **no clinical trials** and **no publications** currently support this direction — this is a model-only prediction with no independent mechanistic evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Nemolizumab |
-| DrugBank ID | [DB15252](https://go.drugbank.com/drugs/DB15252) |
-| Brand Names (EU) | Nemluvio |
+| Item | Content |
+|------|------|
+| Original Indication | Not available (no approved indications on file) |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 98.55% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.55% |
+| EU Market Status | 未上市 (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Atopic dermatitis (AD)&nbsp;Nemluvio is indicated for the treatment of moderate-to-severe atopic dermatitis in patients aged 12 years and older who are candidates for systemic therapy. Prurigo nodularis (PN)&nbsp;Nemluvio is indicated for the treatment of adults with moderate-to-severe prurigo nodularis who are candidates for systemic therapy.
+Currently, detailed mechanism of action data is not available. Based on known information, Nemolizumab is an anti-IL-31RA monoclonal antibody that blocks the itch-signaling pathway in sensory neurons and keratinocytes, and is clinically used for pruritic skin conditions such as atopic dermatitis and prurigo nodularis.
 
----
+There is no established mechanistic link between IL-31/IL-31RA signaling and diabetic cataract pathophysiology, which is driven primarily by hyperglycemia-induced polyol pathway activation, sorbitol accumulation, and oxidative stress in the lens — not by IL-31-dependent inflammation. Notably, this drug's entire top-10 predicted indication list is dominated by cataract subtypes and stages (diabetic, tetanic, immature, mature, nuclear senile, cortical, senile cataract) plus diabetic retinopathy, none of which are independently or mechanistically tied to IL-31RA blockade.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 98.55% | DL |
-| 2 | diabetes mellitus type 2 associated cataract | 98.49% | DL |
-| 3 | tetanic cataract | 98.49% | DL |
-| 4 | immature cataract | 98.49% | DL |
-| 5 | craniostenosis cataract | 98.49% | DL |
-| 6 | mature cataract | 98.49% | DL |
-| 7 | cortical cataract | 98.47% | DL |
-| 8 | nuclear senile cataract | 98.47% | DL |
-| 9 | senile cataract | 98.41% | DL |
-| 10 | diabetic retinopathy | 98.24% | DL |
-| 11 | severe nonproliferative diabetic retinopathy | 97.97% | DL |
-| 12 | antithrombin deficiency type 2 | 97.71% | DL |
-| 13 | factor 5 excess with spontaneous thrombosis | 97.65% | DL |
-| 14 | heparin cofactor 2 deficiency | 97.59% | DL |
-| 15 | thrombophilia | 97.31% | DL |
-| 16 | diffuse gastric adenocarcinoma | 95.51% | DL |
-| 17 | hemorrhagic disease of newborn | 95.25% | DL |
-| 18 | gastric carcinoma | 94.83% | DL |
-| 19 | gastric adenocarcinoma and proximal polyposis of the stomach | 94.83% | DL |
-| 20 | bronchitis | 94.74% | DL |
-
-*Showing top 20 of 50 predictions.*
+This clustering pattern strongly suggests the TxGNN prediction reflects a **knowledge graph artifact** — likely driven by shared indirect nodes (e.g., diabetes-related comorbidity edges) — rather than a genuine pharmacological signal. No supporting clinical or preclinical evidence currently exists for any of these predicted indications.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations on file — this drug is currently **not marketed** (未上市) with 0 registered licenses.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: Warnings, contraindications, and DDI data are currently unavailable — flagged as a Blocking data gap (DG001) that must be resolved before any safety evaluation can proceed.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This prediction is supported only by an L5 TxGNN model score with zero clinical trials, zero literature, and no plausible mechanistic link — the clustering of unrelated cataract subtypes across the top-10 predictions strongly indicates knowledge-graph noise rather than a genuine repurposing signal. Combined with the drug's non-marketed status in the EU and missing safety data, there is no basis to advance this candidate at this time.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (TFDA/regulatory label warnings and contraindications) — currently Blocking
+- Resolve DG002 (confirmed mechanism of action) to properly assess mechanistic plausibility
+- Independent preclinical evidence establishing any IL-31/IL-31RA involvement in lens pathology or diabetic ocular complications
+- Re-evaluate once EU marketing authorization status is established, or deprioritize in favor of higher-scoring, mechanistically coherent candidates from this drug's prediction set
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

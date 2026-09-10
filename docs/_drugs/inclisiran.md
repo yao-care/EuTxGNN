@@ -1,132 +1,114 @@
 ---
 layout: default
 title: Inclisiran
-description: "Inclisiran drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 298
+parent: 僅模型預測 (L5)
+nav_order: 307
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Inclisiran
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Inclisiran: From Familial Hypercholesterolemia to Aortic Malformation
+
+## One-Sentence Summary
+
+Inclisiran is a PCSK9-targeting siRNA therapeutic used for LDL-cholesterol lowering, most extensively studied in familial hypercholesterolemia (FH). Among 10 TxGNN-predicted new indications reviewed for this candidate, only **Aortic Malformation** advanced beyond a pure AI prediction, supported by **2 ongoing Phase 3 clinical trials**; the other 9 candidates (including "potassium deficiency disease," which scored highest on the model) have **no clinical trial or literature support at all** and several are flagged as likely keyword/disease-label mismatches.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Inclisiran |
-| DrugBank ID | [DB14901](https://go.drugbank.com/drugs/DB14901) |
-| Brand Names (EU) | Leqvio |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.93% |
+| Item | Content |
+|------|------|
+| Original Indication | Familial Hypercholesterolemia (inferred from associated trial context; no TFDA-approved label text available) |
+| Predicted New Indication | Aortic Malformation |
+| TxGNN Prediction Score | 99.76% |
+| Evidence Level | L2 |
+| Taiwan Market Status | 未上市 (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:  in combination with a statin or statin with other lipid-lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin, or alone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated.
+Detailed mechanism-of-action data for Inclisiran is not available in this evidence pack (DrugBank MOA field is a data gap). Based on information embedded in the associated trial and rationale records, Inclisiran is a small interfering RNA (siRNA) that silences hepatic PCSK9 expression, reducing LDL-receptor degradation and thereby lowering circulating LDL-cholesterol. Its established use is in familial hypercholesterolemia and related dyslipidemias.
 
----
+The predicted new indication, "aortic malformation," is mechanistically plausible only in a loose sense: sustained LDL-C reduction could theoretically slow atherosclerotic vascular disease, but the term "malformation" typically denotes a structural congenital anomaly rather than an acquired atherosclerotic process — a mismatch the model itself does not resolve.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | potassium deficiency disease | 99.93% | DL |
-| 2 | esophageal disease | 99.87% | DL |
-| 3 | atypical coarctation of aorta | 99.86% | DL |
-| 4 | migraine disorder | 99.83% | DL |
-| 5 | non-syndromic esophageal malformation | 99.83% | DL |
-| 6 | migraine with brainstem aura | 99.78% | DL |
-| 7 | migraine with or without aura, susceptibility to | 99.78% | DL |
-| 8 | aortic malformation | 99.76% | DL |
-| 9 | esophageal ulcer | 99.73% | DL |
-| 10 | Raynaud disease | 99.73% | DL |
-| 11 | peptic esophagitis | 99.68% | DL |
-| 12 | cauda equina syndrome | 99.67% | DL |
-| 13 | gastrin secretion abnormality | 99.65% | DL |
-| 14 | ulerythema ophryogenesis | 99.64% | DL |
-| 15 | irritable bowel syndrome | 99.59% | DL |
-| 16 | atrophoderma vermiculata | 99.53% | DL |
-| 17 | peptic ulcer disease | 99.48% | DL |
-| 18 | esophageal diverticulosis | 99.48% | DL |
-| 19 | phaeochromocytoma | 99.48% | DL |
-| 20 | dyskinesia of esophagus | 99.47% | DL |
-
-*Showing top 20 of 50 predictions.*
+Critically, the two supporting trials (NCT06597019, NCT06597006) are titled around **heterozygous and homozygous familial hypercholesterolemia in children**, not aortic malformation. Both were graded "B" relevance specifically because the disease label attached to them needs manual confirmation — it is plausible the trials were indexed under an aortic-valve/vascular complication of FH rather than a true congenital malformation. This should be resolved before any downstream decision relies on this evidence.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06597019](https://clinicaltrials.gov/study/NCT06597019) | Phase 3 | Recruiting | 51 | Double-blind Inclisiran vs. placebo (Year 1) followed by open-label Inclisiran (Year 2) in children 6–<12 years with heterozygous familial hypercholesterolemia and elevated LDL-C; evaluates safety, tolerability, and efficacy |
+| [NCT06597006](https://clinicaltrials.gov/study/NCT06597006) | Phase 3 | Recruiting | 9 | Companion study in children 2–<12 years with homozygous familial hypercholesterolemia and elevated LDL-C; same double-blind/open-label design |
 
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Both trials are ongoing (estimated completion 2029-04-15) and were not designed with "aortic malformation" as a stated primary indication — this label needs verification against the source registry entry.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+Currently no related literature available for the "Aortic Malformation" indication.
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+*(Note: a separate candidate indication in this evidence pack, "migraine with or without aura, susceptibility to," returned 20 PubMed hits, but on review these are epilepsy-genetics and neuroinflammation papers unrelated to Inclisiran or PCSK9 biology — a keyword mismatch, not supporting evidence, and therefore not reported as a viable repurposing lead.)*
 
 ---
 
-## Data Access
+## Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Inclisiran currently has no marketing authorization on record in Taiwan (market status: 未上市; 0 licenses). No dosage form or approved indication text is available for this drug in the current dataset.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information. No verified key warnings, contraindications, or drug-drug interaction data are currently available for Inclisiran in this evidence pack (TFDA label data collection is flagged as a blocking data gap).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+Of 10 TxGNN-predicted indications for Inclisiran, "Aortic Malformation" is the only one with any real-world clinical evidence (2 Phase 3 trials, L2), while all others remain pure model predictions (L5) with explicitly stated absence of mechanistic or evidentiary support. However, the supporting trials appear to target pediatric familial hypercholesterolemia rather than aortic malformation itself, so the evidence cannot yet be taken at face value.
+
+**To proceed, the following is needed:**
+- TFDA label/warning and contraindication data (currently blocking — DG001)
+- DrugBank mechanism-of-action confirmation (DG002)
+- Manual verification of the actual disease/endpoint definitions in NCT06597019 and NCT06597006 against the "aortic malformation" label
+- Wait for interim or completed results from both trials (currently recruiting, estimated completion 2029)
+- Drug-drug interaction and safety monitoring data before any clinical consideration
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

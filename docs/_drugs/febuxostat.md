@@ -1,143 +1,98 @@
 ---
 layout: default
 title: Febuxostat
-description: "febuxostat drug repurposing predictions from TxGNN. Evidence level L4 with 50 predicted indications."
-parent: Preclinical Evidence (L4)
-nav_order: 238
-evidence_level: L4
-indication_count: 50
+parent: 僅模型預測 (L5)
+nav_order: 247
+evidence_level: L5
+indication_count: 10
 ---
 
 # Febuxostat
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Febuxostat: From Gout/Hyperuricemia to Renal Hypouricemia
+
+## One-Sentence Summary
+
+Febuxostat is a xanthine oxidase (XO) inhibitor whose established pharmacology is to **lower** serum uric acid (used in gout/hyperuricemia management); no formal original-indication record is present in this evidence pack (Taiwan market status: not marketed). The TxGNN model's top-ranked prediction is **Renal Hypouricemia** — a condition of **low** urate — with a 99.99% score, but the evidence pack itself flags this as a likely mechanistic false positive, supported only by **1 low-relevance clinical trial** and **2 tangential review articles**.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Febuxostat |
-| DrugBank ID | [DB04854](https://go.drugbank.com/drugs/DB04854) |
-| Brand Names (EU) | Febuxostat Krka |
-| Evidence Level | L4 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 100.00% |
+| Item | Content |
+|------|------|
+| Original Indication | Not formally recorded in this pack (no Taiwan licenses on file); pharmacologically an XO inhibitor used for gout/hyperuricemia per rationale notes |
+| Predicted New Indication | Renal Hypouricemia (hypouricemia, renal) |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 |
+| EU Market Status | 未上市 (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data is not available as a structured field in this pack (`original_moa: [Data Gap]`). However, the rationale notes attached to the candidate confirm Febuxostat is a xanthine oxidase inhibitor, pharmacologically equivalent in class to allopurinol, whose proven effect is **reducing** uric acid production — the standard treatment direction for hyperuricemia and gout.
+
+Renal hypouricemia is the opposite clinical entity: serum urate is abnormally **low**, typically due to URAT1/GLUT9 transporter defects that cause excessive renal urate wasting. Prescribing a urate-**lowering** drug for a urate-**deficiency** disorder is mechanistically contradictory.
+
+The evidence pack's own rationale explicitly calls this out: it attributes the high TxGNN score to likely embedding confusion between "hypouricemia" and "hyperuricemia," notes that the one linked clinical trial (NCT04398251) is graded relevance **C** (title is an institution name, status Unknown, no demonstrable link to the disease), and that the two literature hits do not support this indication — one is a general review of hypouricemia etiology, the other discusses febuxostat only in the context of *preventing exercise-induced kidney injury*, not treating renal hypouricemia itself. The pack recommends this be manually verified as a possible data-pipeline error rather than acted upon.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Phase 4 | Unknown | 100 | Studied uric acid control effects on stone recurrence and renal function in hyperuricemia patients with calculi; title/registry entry does not describe a renal-hypouricemia-specific design. Relevance graded **C** (low) — status unknown, disease link unconfirmed. |
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Review | Internal Medicine (Tokyo) | Discusses febuxostat as prophylaxis against exercise-induced acute kidney injury in patients who already have renal hypouricemia — not as a treatment for the hypouricemia itself. |
+| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clinical Rheumatology | General narrative review of hypouricemia etiology and classification for rheumatologists; does not evaluate febuxostat as a therapeutic option. |
+
+## EU Market Information
+
+No marketing authorizations are currently on file for this candidate (`total_licenses: 0`, market status: 未上市／Not marketed).
+
+## Safety Considerations
+
+No structured safety data (warnings, contraindications, or drug interactions) is available in this evidence pack — DDI query returned no results. Please refer to the SmPC for safety information. Note: the pack flags TFDA label/warning data as a **Blocking** gap (DG001), meaning this candidate cannot proceed to a safety pre-assessment (S1) until that data is obtained.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (Renal Hypouricemia) is mechanistically contradictory to the drug's known pharmacology, and both linked evidence items fail to substantiate the indication on inspection — one trial is low-relevance/unconfirmed, and neither publication supports treating renal hypouricemia with febuxostat. This pattern is consistent with a disease-name/embedding artifact rather than a genuine signal.
+
+**To proceed, the following is needed:**
+- Manual verification of whether "hypouricemia, renal" was correctly mapped in the underlying TxGNN disease vocabulary (possible hyperuricemia/hypouricemia confusion)
+- TFDA label warnings/contraindications (Blocking gap, DG001) before any safety pre-assessment
+- Confirmed mechanism-of-action source, e.g., DrugBank API (High-priority gap, DG002)
+
+**Worth noting separately:** two lower-ranked candidates in this same pack — *hypoxanthine guanine phosphoribosyltransferase partial deficiency* (rank 2, L4, decision stage S1) and *Lesch-Nyhan syndrome* (rank 3, L4, S1) — have mechanistically coherent, clinically plausible rationale (XO inhibition addressing purine-salvage-pathway hyperuricemia, mirroring existing off-label allopurinol use) and are flagged internally as "Research Question," making them stronger candidates for follow-up than the rank-1 prediction covered in this report.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Febuxostat Krka is indicated for the treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty arthritis). Febuxostat Krka is indicated in adults.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | obsolete hyperuricemia (disease) | 100.00% | DL |
-| 2 | hypouricemia, renal | 99.99% | DL |
-| 3 | hypoxanthine guanine phosphoribosyltransferase partial deficiency | 99.98% | DL |
-| 4 | Lesch-Nyhan syndrome | 99.68% | DL |
-| 5 | primitive portal vein thrombosis | 91.89% | DL |
-| 6 | early-onset familial noncirrhotic portal hypertension | 91.89% | DL |
-| 7 | hepatoportal sclerosis | 91.89% | DL |
-| 8 | idiopathic copper-associated cirrhosis | 91.89% | DL |
-| 9 | hepatopulmonary syndrome | 91.89% | DL |
-| 10 | hepatic porphyria | 91.21% | DL |
-| 11 | disorder of phenylalanine metabolism | 79.04% | DL |
-| 12 | disorder of tyrosine metabolism | 77.22% | DL |
-| 13 | teratogenic Pierre Robin syndrome | 77.16% | DL |
-| 14 | cholelithiasis | 70.48% | DL |
-| 15 | Tay-Sachs disease, b variant | 65.26% | DL |
-| 16 | tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria | 64.00% | DL |
-| 17 | Wiskott-Aldrich syndrome 2 | 63.35% | DL |
-| 18 | Tay-Sachs disease, B1 variant | 62.94% | DL |
-| 19 | anuria | 61.59% | DL |
-| 20 | alacrima, achalasia, and intellectual disability syndrome | 60.84% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| hypouricemia, renal | L4 | 1 | 0 | AI prediction only |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

@@ -1,132 +1,112 @@
 ---
 layout: default
 title: Nintedanib
-description: "Nintedanib drug repurposing predictions from TxGNN. Evidence level L5 with 55 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 404
+parent: 僅模型預測 (L5)
+nav_order: 416
 evidence_level: L5
-indication_count: 55
+indication_count: 10
 ---
 
 # Nintedanib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **55**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Nintedanib: From Idiopathic Pulmonary Fibrosis to Dermatofibrosarcoma Protuberans
+
+## One-Sentence Summary
+
+> Nintedanib is a triple angiokinase inhibitor whose established use is in fibrotic and certain oncology indications (idiopathic pulmonary fibrosis, and combination oncology use elsewhere).
+> The TxGNN model predicts it may be effective for **Dermatofibrosarcoma Protuberans (DFSP)**,
+> with **0 clinical trials** and **1 supporting publication** currently available in this evidence pack.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Nintedanib |
-| DrugBank ID | [DB09079](https://go.drugbank.com/drugs/DB09079) |
-| Brand Names (EU) | Nintedanib Accord, Ofev, Vargatef |
-| Evidence Level | L5 |
-| Predicted Indications | 55 |
-| Top Prediction Score | 99.15% |
+| Item | Content |
+|------|------|
+| Original Indication | Idiopathic Pulmonary Fibrosis (referenced within evidence pack's mechanistic rationale; not formally documented via TW license data) |
+| Predicted New Indication | Dermatofibrosarcoma Protuberans |
+| TxGNN Prediction Score | 99.15% |
+| Evidence Level | L4 |
+| Market Status (Taiwan) | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Vargatef is indicated in combination with docetaxel for the treatment of adult patients with locally advanced, metastatic or locally recurrent non-small cell lung cancer (NSCLC) of adenocarcinoma tumour histology after first line chemotherapy.
+The drug's formal `original_moa` field is marked as a data gap in this evidence pack. However, the repurposing rationale documented alongside the top prediction describes Nintedanib as a **triple angiokinase inhibitor targeting VEGFR, FGFR, and PDGFRα/β**. This mechanistic detail, while not captured in the structured MOA field, is directly sourced from the evidence pack and can be used to assess biological plausibility.
 
----
+DFSP is a tumor with a well-characterized molecular driver: the **COL1A1-PDGFB fusion gene**, which causes constitutive activation of PDGFRB. This makes DFSP a textbook example of a PDGFR-addicted tumor — a fact already validated in clinical practice, since **imatinib (a PDGFR inhibitor) is the established standard-of-care systemic therapy for DFSP**. Nintedanib's inhibitory activity against PDGFRα/β therefore provides a mechanistically coherent rationale for testing it in this same molecular context, even though direct clinical evidence in DFSP is currently absent.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | dermatofibrosarcoma protuberans | 99.15% | DL |
-| 2 | liposarcoma | 99.13% | DL |
-| 3 | ovarian myxoid liposarcoma | 99.12% | DL |
-| 4 | heart fibrosarcoma | 98.88% | DL |
-| 5 | axial spondylometaphyseal dysplasia | 98.87% | DL |
-| 6 | amyotrohpic lateral sclerosis type 22 | 98.86% | DL |
-| 7 | fibroblastic neoplasm | 98.84% | DL |
-| 8 | kidney fibrosarcoma | 98.83% | DL |
-| 9 | conventional fibrosarcoma | 98.81% | DL |
-| 10 | amyotrophic lateral sclerosis, susceptibility to | 98.80% | DL |
-| 11 | amyotrophic lateral sclerosis | 98.78% | DL |
-| 12 | bilateral parasagittal parieto-occipital polymicrogyria | 98.75% | DL |
-| 13 | low grade fibromyxoid sarcoma | 98.74% | DL |
-| 14 | trichomegaly-retina pigmentary degeneration-dwarfism syndrome | 98.66% | DL |
-| 15 | Mills syndrome | 98.63% | DL |
-| 16 | familial rhabdoid tumor | 98.51% | DL |
-| 17 | lower motor neuron syndrome with late-adult onset | 98.47% | DL |
-| 18 | extracutaneous mastocytoma | 98.46% | DL |
-| 19 | monomelic amyotrophy | 98.31% | DL |
-| 20 | autosomal dominant mitochondrial myopathy with exercise intolerance | 98.25% | DL |
-
-*Showing top 20 of 55 predictions.*
+That said, the connection to Nintedanib's own approved use (a fibrotic lung disease) is indirect — the shared thread is pathway biology (PDGFR/FGFR signaling in fibroblast/pericyte proliferation), not disease similarity. This is a mechanism-driven hypothesis rather than an indication-adjacency hypothesis, which is consistent with the L4 evidence classification.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Review | Pharmacological Research | Reviews the role of small-molecule PDGFR inhibitors in oncology; supports PDGFR as a druggable target in PDGFR-driven neoplasms, providing indirect mechanistic support rather than direct evidence for Nintedanib in DFSP. |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations currently on file for Nintedanib in this jurisdiction (0 licenses; market status: **Not Marketed**). Regulatory/label data must be sourced separately (see Data Gap DG001 below) before any safety review can proceed.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> ⚠️ Note: This evidence pack flags the absence of TFDA label warnings/contraindications as a **Blocking** data gap (DG001) — this must be resolved before Stage 1 (S1) safety screening can be completed.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The mechanistic rationale (PDGFR inhibition in a COL1A1-PDGFB fusion-driven tumor, with imatinib as clinical precedent) is biologically plausible, but evidence is currently limited to a single review article with no direct clinical trials in DFSP. Combined with a **Blocking** safety data gap (no TFDA label/contraindication data available), the candidate cannot yet advance past the research-question stage.
+
+**To proceed, the following is needed:**
+- TFDA-equivalent label data (warnings, contraindications) to complete S1 safety screening (DG001)
+- Confirmed DrugBank MOA record to formally validate the mechanistic linkage (DG002)
+- Preclinical or case-level evidence of Nintedanib activity in PDGFR-driven sarcomas (e.g., DFSP, fibrosarcoma) before considering translational/clinical follow-up
+- Continued literature/trial monitoring, as current evidence level (L4) reflects mechanism-only support
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

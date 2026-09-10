@@ -2,7 +2,7 @@
 layout: default
 title: Hydrochlorothiazide
 parent: 僅模型預測 (L5)
-nav_order: 205
+nav_order: 290
 evidence_level: L5
 indication_count: 10
 ---

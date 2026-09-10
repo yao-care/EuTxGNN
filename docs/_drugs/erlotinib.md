@@ -1,132 +1,127 @@
 ---
 layout: default
 title: Erlotinib
-description: "Erlotinib drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 223
+parent: 僅模型預測 (L5)
+nav_order: 232
 evidence_level: L5
-indication_count: 52
+indication_count: 10
 ---
 
 # Erlotinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Erlotinib: From Non-Small Cell Lung Cancer to Ewing Sarcoma
+
+## One-Sentence Summary
+
+> Erlotinib is an EGFR (HER1) tyrosine kinase inhibitor most widely known as an anticancer agent (per attached literature, e.g. PMID 32164971).
+> The TxGNN model predicts it may be effective for **Ewing Sarcoma**,
+> currently supported by **1 clinical trial** (withdrawn, 0 enrolled) and **2 publications**, with no completed trial data confirming efficacy.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Erlotinib |
-| DrugBank ID | [DB00530](https://go.drugbank.com/drugs/DB00530) |
-| Brand Names (EU) | Tarceva |
-| Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 95.77% |
+| Item | Content |
+|------|------|
+| Original Indication | No regulatory record available in this evidence pack (`taiwan_regulatory.licenses` empty; general anticancer/NSCLC use noted only in cross-referenced literature, not sourced from regulatory data) |
+| Predicted New Indication | Ewing Sarcoma |
+| TxGNN Prediction Score | 95.77% |
+| Evidence Level | L4 |
+| EU Market Status | Not Marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Research Question (Decision Stage S1) |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Non-small cell lung cancer (NSCLC) Tarceva is also indicated for switch maintenance treatment in patients with locally advanced or metastatic non-small cell lung cancer with EGFR activating mutations and stable disease after first-line chemotherapy. Tarceva is also indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapy regimen. In patients with tumours without EGFR activating mutations, Tarceva is in
+Currently, detailed mechanism of action data is not available (data gap DG002, severity High). Based on information embedded in the evidence pack's rationale and cross-referenced literature, Erlotinib is an EGFR (HER1) tyrosine kinase inhibitor (EGFR-TKI) whose known anticancer activity operates by blocking EGFR-driven proliferation signaling.
 
----
+The system's own repurposing rationale for this prediction states: some Ewing sarcoma tumors express EGFR/HER3, so an EGFR-TKI could theoretically show activity. However, Ewing sarcoma is primarily driven by the EWSR1-FLI1 fusion oncoprotein rather than EGFR signaling, making this mechanistic link indirect and relatively weak rather than a primary driver-pathway match.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | Ewing sarcoma | 95.77% | DL |
-| 2 | fibromatosis, gingival | 95.27% | DL |
-| 3 | fibroma of lung | 95.12% | DL |
-| 4 | hamartoma of lung | 95.07% | DL |
-| 5 | lung benign neoplasm | 95.00% | DL |
-| 6 | lung hilum carcinoma | 94.96% | DL |
-| 7 | pulmonary sulcus neoplasm | 94.51% | DL |
-| 8 | lung germ cell tumor | 94.51% | DL |
-| 9 | lung cancer | 94.33% | DL |
-| 10 | inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia | 93.34% | DL |
-| 11 | junctional epidermolysis bullosa | 92.89% | DL |
-| 12 | Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome | 92.60% | DL |
-| 13 | ovarioleukodystrophy | 92.18% | DL |
-| 14 | junctional epidermolysis bullosa, non-Herlitz type | 90.62% | DL |
-| 15 | salivary gland type cancer of the breast | 90.05% | DL |
-| 16 | dehydratase deficiency | 89.87% | DL |
-| 17 | breast papillomatosis | 89.53% | DL |
-| 18 | uterine corpus sarcoma | 89.02% | DL |
-| 19 | giant adenofibroma of the breast | 88.84% | DL |
-| 20 | diabetic mastopathy | 88.84% | DL |
-
-*Showing top 20 of 52 predictions.*
+Consistent with this weak/indirect link, the only related clinical trial identified (NCT02689336) was a genomically-targeted pediatric basket trial requiring an EGFR/ERBB2/JAK2 mutation for eligibility — it was withdrawn with zero enrollment, so no actual efficacy or safety signal exists yet. The supporting literature is likewise general (pediatric oncology review; a xenograft evaluation of a related EGFR/HER3-targeting combination), not Ewing-sarcoma-specific clinical evidence.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02689336](https://clinicaltrials.gov/study/NCT02689336) | Phase 2 | Withdrawn | 0 | Genomically-targeted pediatric basket trial combining erlotinib + temozolomide for relapsed/refractory solid tumors with EGFR/ERBB2/JAK2V617F mutations; withdrawn before enrollment, no outcome data generated. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29080385](https://pubmed.ncbi.nlm.nih.gov/29080385/) | 2018 | Cohort/Trial evaluation | Pediatric blood & cancer | Evaluated patritumab (anti-HER3) with/without erlotinib combined with standard cytotoxics (cisplatin, vincristine, cyclophosphamide) in pediatric sarcoma xenograft models expressing EGFR/HER3. |
+| [26835334](https://pubmed.ncbi.nlm.nih.gov/26835334/) | 2014 | Review | Translational pediatrics | General review of advances in pediatric cancer treatment; discusses risk-adapted therapy approaches, not Ewing-sarcoma/erlotinib-specific data. |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Currently no EU marketing authorization records available (`market_status`: 未上市 / Not Marketed; `total_licenses`: 0).
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Erlotinib is classified here as antineoplastic based on its EGFR-TKI mechanism referenced in the repurposing rationale and cross-referenced literature (all predicted indications in this pack are oncology-related).
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (EGFR-TKI), not conventional cytotoxic chemotherapy |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and DDI data are all flagged as data gaps in this evidence pack — DG001, severity Blocking.)
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Research Question (Decision Stage S1)**
+
+**Rationale:**
+- Evidence level is L4 (mechanistic/preclinical only) — the sole related trial (NCT02689336) was withdrawn with zero enrollment, and the mechanistic link (EGFR/HER3 expression in a subset of Ewing sarcoma) is indirect since EWSR1-FLI1 fusion, not EGFR, is the primary disease driver.
+
+**To proceed, the following is needed:**
+- TFDA/SmPC full prescribing information (warnings, contraindications, DDI) — currently blocking (DG001), required before any S1 safety pre-assessment can proceed
+- Complete mechanism of action (MOA) documentation (DG002)
+- A newly enrolled, non-withdrawn clinical trial or biomarker-selected cohort in EGFR/HER3-expressing Ewing sarcoma to generate actual efficacy/safety signal
+- EU/Taiwan regulatory and market status confirmation, since no licenses are currently on record for this drug
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

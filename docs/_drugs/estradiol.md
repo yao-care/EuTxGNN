@@ -1,134 +1,89 @@
 ---
 layout: default
 title: Estradiol
-description: "estradiol drug repurposing predictions from TxGNN. Evidence level L5 with 53 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 228
+parent: 僅模型預測 (L5)
+nav_order: 237
 evidence_level: L5
-indication_count: 53
+indication_count: 10
 ---
 
 # Estradiol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **53**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Estradiol: From Unrecorded Original Indication to Symptomatic Form of Fragile X Syndrome in Female Carriers
+
+## One-Sentence Summary
+
+This Evidence Pack does not contain Estradiol's original approved indication or mechanism-of-action data (both marked as data gaps), and the drug currently has **0 marketing authorizations** in this jurisdiction. TxGNN's top-ranked candidate is **Symptomatic Form of Fragile X Syndrome in Female Carrier**, with a prediction score of **98.76%**, but this is currently supported by **zero clinical trials** and **zero publications** — a pure model prediction with no mechanistic or empirical backing.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Estradiol |
-| DrugBank ID | [DB00783](https://go.drugbank.com/drugs/DB00783) |
-| Brand Names (EU) | Estradiol, Zoely |
+| Item | Content |
+|------|------|
+| Original Indication | Not on file (no original indication or license data provided) |
+| Predicted New Indication | Symptomatic form of fragile X syndrome in female carrier |
+| TxGNN Prediction Score | 98.76% |
 | Evidence Level | L5 |
-| Predicted Indications | 53 |
-| Top Prediction Score | 99.96% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data is not available in this Evidence Pack for Estradiol, and no original indication was captured either — both are flagged as data gaps (MOA: High severity, TFDA label/warnings: Blocking severity). This limits our ability to assess mechanistic plausibility against a known baseline indication.
+
+For the predicted indication itself, the rationale provided is explicit: there is **no known mechanistic relationship** between estradiol and FMR1-related X-linked fragile X syndrome. Fragile X syndrome in female carriers arises from a CGG-repeat expansion in the *FMR1* gene, a genetic/neurodevelopmental mechanism unrelated to estrogen receptor signaling. The 98.76% score therefore reflects the TxGNN knowledge-graph embedding model's output alone (rank 11,373 among all predictions), with no corroborating clinical trial or literature evidence — consistent with the L5 "model prediction only" classification already assigned in this pack.
+
+Notably, this Evidence Pack contains other, better-evidenced Estradiol candidates further down the ranked list — most prominently **anovulation** (rank 2, L3 evidence, 42 clinical trials and 20 publications, including a physiologically direct role for estradiol in endometrial preparation and ovulation induction protocols). If a repurposing signal is being pursued for Estradiol, that candidate merits separate evaluation; it is not covered by this report because the template scope is fixed to the top-ranked (rank 1) candidate.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This is an L5, model-only prediction with no clinical trials, no literature, and no known mechanistic link between estradiol and fragile X syndrome — the rationale data explicitly states the connection is "purely a model prediction score." There is no basis to advance this candidate past the research-hypothesis stage.
+
+**To proceed, the following is needed:**
+- TFDA label / SmPC warnings and contraindications (currently blocking — required before any S1 safety screening can occur)
+- Estradiol mechanism-of-action data from DrugBank (currently missing — needed for mechanistic relevance analysis)
+- Basic original-indication and licensing data for Estradiol (currently absent from this pack, and the drug shows 0 marketing authorizations)
+- If repurposing interest continues, in vitro/in vivo studies testing any estrogen-pathway involvement in FMR1-related pathology, since none currently exist
+- Consider redirecting evaluation effort to the anovulation candidate (rank 2), which already has L3 evidence (42 trials, 20 publications) and a plausible physiological rationale
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Oral contraception
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | acne (disease) | 99.96% | DL |
-| 2 | symptomatic form of fragile X syndrome in female carrier | 98.76% | DL |
-| 3 | ovarian remnant syndrome | 98.58% | DL |
-| 4 | anovulation | 98.58% | DL |
-| 5 | partial trisomy/tetrasomy of the short arm of chromosome 18 | 98.56% | DL |
-| 6 | partial trisomy/tetrasomy of the short arm of chromosome 12 | 98.56% | DL |
-| 7 | partial trisomy/tetrasomy of the short arm of chromosome 5 | 98.54% | DL |
-| 8 | blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome | 98.52% | DL |
-| 9 | luteoma of pregnancy | 98.47% | DL |
-| 10 | partial autosomal trisomy/tetrasomy | 98.45% | DL |
-| 11 | ovarian ectopic pregnancy | 98.44% | DL |
-| 12 | primary ovarian failure | 98.44% | DL |
-| 13 | blepharophimosis-epicanthus inversus-ptosis | 98.41% | DL |
-| 14 | ovarian dysfunction | 98.36% | DL |
-| 15 | zinc, elevated plasma | 98.23% | DL |
-| 16 | stapes ankylosis with broad thumbs and toes | 98.15% | DL |
-| 17 | telecanthus | 98.15% | DL |
-| 18 | ovarian hyperstimulation syndrome | 97.48% | DL |
-| 19 | sebaceous gland anomaly | 94.61% | DL |
-| 20 | pyogenic arthritis-pyoderma gangrenosum-acne syndrome | 93.17% | DL |
-
-*Showing top 20 of 53 predictions.*
-
----
-
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

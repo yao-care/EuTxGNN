@@ -1,132 +1,125 @@
 ---
 layout: default
 title: Posaconazole
-description: "Posaconazole drug repurposing predictions from TxGNN. Evidence level L5 with 56 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 466
+parent: 僅模型預測 (L5)
+nav_order: 478
 evidence_level: L5
-indication_count: 56
+indication_count: 10
 ---
 
 # Posaconazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **56**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using the report template requirements below, here is the evaluation report generated directly from the Evidence Pack.
+
+---
+
+# Posaconazole: From Invasive Fungal Infection Prophylaxis to Pneumocystosis
+
+## One-Sentence Summary
+
+> Posaconazole is a triazole antifungal already used for prophylaxis of invasive Aspergillus and Candida infections in high-risk immunocompromised patients (e.g., allogeneic stem-cell transplant / GVHD populations).
+> The TxGNN model predicts it may also be effective against **Pneumocystosis (Pneumocystis jirovecii pneumonia)**,
+> currently supported by **2 clinical trials (both indirect)** and **5 publications (mostly guidelines/reviews)**.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Posaconazole |
-| DrugBank ID | [DB01263](https://go.drugbank.com/drugs/DB01263) |
-| Brand Names (EU) | Posaconazole AHCL, Posaconazole Accord |
-| Evidence Level | L5 |
-| Predicted Indications | 56 |
-| Top Prediction Score | 99.77% |
+| Item | Content |
+|------|------|
+| Original Indication | Prophylaxis of invasive fungal infections (invasive aspergillosis/candidiasis) in high-risk immunocompromised patients — no formal license text available in this evidence pack |
+| Predicted New Indication | Pneumocystosis (Pneumocystis jirovecii pneumonia, PCP) |
+| TxGNN Prediction Score | 99.77% |
+| Evidence Level | L3 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Posaconazole AHCL oral suspension is indicated for use in the treatment of the following fungal infections in adults:  Invasive aspergillosis in patients with disease that is refractory to amphotericin B or itraconazole or in patients who are intolerant of these medicinal products; Fusariosis in patients with disease that is refractory to amphotericin B or in patients who are intolerant of amphotericin B; Chromoblastomycosis and mycetoma in patients with disease that is refractory to itraconazol
+Posaconazole is a triazole antifungal that inhibits fungal CYP51 (lanosterol 14α-demethylase), blocking ergosterol synthesis essential for fungal cell membrane integrity. Although its established use centers on invasive Aspergillus and Candida infections, it also has theoretical activity against *Pneumocystis jirovecii*, an atypical fungus that shares this same enzymatic target.
 
----
+In clinical practice, posaconazole is already used off-label/adjacently as prophylaxis against invasive fungal disease — including Pneumocystis pneumonia — in high-risk populations such as allogeneic hematopoietic stem cell transplant recipients and patients with graft-versus-host disease (GVHD). This makes the TxGNN prediction mechanistically plausible: it is less a "novel" repurposing and more a formal recognition of an indication class the drug already touches.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | pneumocystosis | 99.77% | DL |
-| 2 | mycetoma | 99.36% | DL |
-| 3 | aspergillosis | 98.98% | DL |
-| 4 | vulvovaginal candidiasis | 98.92% | DL |
-| 5 | leprosy | 98.84% | DL |
-| 6 | candidiasis | 98.73% | DL |
-| 7 | multibacillary leprosy | 98.61% | DL |
-| 8 | Ambras type hypertrichosis universalis congenita | 98.55% | DL |
-| 9 | malformation syndrome with odontal and/or periodontal component | 98.46% | DL |
-| 10 | isolated genetic hair shaft abnormality | 98.44% | DL |
-| 11 | syndrome with a Dandy-Walker malformation as major feature | 98.43% | DL |
-| 12 | hypertrichosis (disease) | 98.35% | DL |
-| 13 | fusariosis | 98.08% | DL |
-| 14 | paucibacillary leprosy | 97.98% | DL |
-| 15 | lepromatous leprosy | 97.84% | DL |
-| 16 | borderline leprosy | 97.84% | DL |
-| 17 | multidrug-resistant tuberculosis | 97.77% | DL |
-| 18 | hyperargininemia | 97.50% | DL |
-| 19 | Cryptococcal meningitis | 97.36% | DL |
-| 20 | geotrichosis | 97.01% | DL |
-
-*Showing top 20 of 56 predictions.*
+However, posaconazole is **not** considered standard therapy for active PCP treatment — trimethoprim-sulfamethoxazole (TMP-SMX) remains first-line. The clinical trial and literature evidence currently available reflects this: it largely concerns prophylaxis in transplant/GVHD populations rather than a direct treatment trial of posaconazole against PCP.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04368559](https://clinicaltrials.gov/study/NCT04368559) | Phase 3 | Active, not recruiting | 602 | Evaluates IV rezafungin (not posaconazole) vs. standard antimicrobial regimen for prevention of invasive fungal disease in allogeneic transplant recipients. **Relevance: Grade C** — different drug, same disease area only. |
+| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | Recruiting | 358 | Platform trial comparing GVHD-prophylaxis drug combinations in mismatched unrelated donor transplant recipients — a population where posaconazole is a standard antifungal prophylactic agent. **Relevance: Grade B** — indirect; posaconazole not the primary study intervention. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [41232547](https://pubmed.ncbi.nlm.nih.gov/41232547/) | 2025 | Review/Guideline | Lancet Infect Dis | British Society for Medical Mycology 2025 update on diagnosis of serious fungal disease. |
+| [41362140](https://pubmed.ncbi.nlm.nih.gov/41362140/) | 2025 | Review/Guideline | Chin J Tuberc Respir Dis | 2025 Chinese clinical guideline on diagnosis/management of invasive pulmonary fungal disease. |
+| [26901377](https://pubmed.ncbi.nlm.nih.gov/26901377/) | 2016 | Review | Swiss Med Wkly | Overview of invasive candidiasis, aspergillosis, cryptococcosis, and PCP; notes posaconazole prophylaxis reduces invasive candidiasis in high-risk hemato-oncology patients. |
+| [35596686](https://pubmed.ncbi.nlm.nih.gov/35596686/) | 2022 | Cohort | Transpl Infect Dis | Retrospective review of infectious complications (including fungal) in acute GVHD after liver transplantation. |
+| [21973267](https://pubmed.ncbi.nlm.nih.gov/21973267/) | 2011 | Review (PK) | Clin Pharmacokinet | Reviews pulmonary epithelial lining fluid penetration of antifungal agents, including posaconazole. |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations are recorded in this evidence pack (`total_licenses = 0`, market status: Not Marketed). Formal indication text cannot be extracted from local regulatory sources.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: Key warnings, contraindications, and DDI data are all marked as missing in this evidence pack — this is flagged as a **Blocking** data gap (DG001), meaning a formal safety pre-screen (S1) cannot currently be completed.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Evidence level is L3, but both cited trials are indirect (Grade B/C relevance — neither studies posaconazole as the primary intervention for pneumocystosis), and there is no formal SmPC/warning data available (Blocking gap DG001). The drug also has zero current marketing authorizations in the target jurisdiction. Combined, this is insufficient to move past the research-question stage.
+
+**To proceed, the following is needed:**
+- TFDA/SmPC warnings, contraindications, and DDI data (DG001 — Blocking; source: official label PDF)
+- Formal MOA and original indication text via DrugBank API (DG002)
+- Direct clinical evidence evaluating posaconazole itself (not surrogate agents like rezafungin) for PCP prophylaxis or treatment efficacy
+- Confirmation of regulatory pathway, given the drug is not currently marketed in this jurisdiction
+
+*Note: Ranks 3–10 in this prediction set (leprosy, hypertrichosis, Dandy-Walker syndrome, periodontal malformation syndromes, etc.) are flagged by the evidence pack itself as mechanistically implausible (antifungal drug vs. non-fungal/genetic conditions) with no supporting trials or literature — these are model-noise and are already correctly scored L5/Hold and excluded from further consideration.*
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

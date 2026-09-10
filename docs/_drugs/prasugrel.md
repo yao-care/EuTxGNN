@@ -1,132 +1,102 @@
 ---
 layout: default
 title: Prasugrel
-description: "Prasugrel drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 468
+parent: 僅模型預測 (L5)
+nav_order: 480
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Prasugrel
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Prasugrel: From Acute Coronary Syndrome (Post-PCI Antiplatelet Therapy) to Pulmonary Hypertension
+
+## One-Sentence Summary
+
+Prasugrel is a P2Y12 platelet ADP receptor antagonist historically used alongside aspirin in acute coronary syndrome patients undergoing PCI. The TxGNN model's top prediction suggests possible efficacy for **Pulmonary Hypertension**, but the **2 clinical trials** and **2 publications** currently attached to this pairing are not mechanistically relevant — the evidence pack itself flags this as a likely coincidental keyword match rather than genuine supporting evidence.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Prasugrel |
-| DrugBank ID | [DB06209](https://go.drugbank.com/drugs/DB06209) |
-| Brand Names (EU) | Efient |
+| Item | Content |
+|------|------|
+| Original Indication | Acute coronary syndrome, post-PCI antiplatelet therapy (inferred from literature evidence; no structured EU regulatory record on file) |
+| Predicted New Indication | Pulmonary Hypertension |
+| TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.88% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, structured mechanism-of-action data is not available for Prasugrel in this evidence pack (`original_moa` is a data gap). Based on the repurposing rationale text provided, Prasugrel is a thienopyridine prodrug that acts as an irreversible antagonist of the platelet P2Y12 ADP receptor, inhibiting platelet aggregation — the same mechanistic class as clopidogrel and ticagrelor.
+
+The theoretical link to pulmonary hypertension rests on the idea that certain PH subtypes (notably CTEPH) involve chronic microthrombus formation, where antiplatelet therapy could plausibly play an adjunctive role. However, current PAH/CTEPH treatment guidelines do not support antiplatelet monotherapy, and there is no established efficacy signal — bleeding risk is not offset by demonstrated benefit in this context.
+
+Critically, the clinical trials and literature actually attached to this prediction (NOAC management in atrial fibrillation, cancer-associated thrombosis trial eligibility, clopidogrel adherence in ACS, and COVID-19 comorbidity registries) **do not address prasugrel treatment or pulmonary hypertension outcomes at all**. The evidence pack's own annotation concludes this is most likely a knowledge-graph keyword coincidence rather than a genuine mechanistic signal — this should be treated as an unverified AI prediction, not an evidence-supported hypothesis.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03993119](https://clinicaltrials.gov/study/NCT03993119) | N/A | Completed | 500 | Observational, cross-sectional study describing NOAC management in elderly patients with non-valvular atrial fibrillation in Spain — no direct relevance to prasugrel or pulmonary hypertension |
+| [NCT04846556](https://clinicaltrials.gov/study/NCT04846556) | N/A | Completed | 300 | Retrospective study on eligibility for cancer-associated thrombosis trials (e.g., CARAVAGGIO) — does not involve prasugrel treatment or PH endpoints |
+
+Both trials were graded "C" (low relevance) in the underlying evidence review.
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [21241206](https://pubmed.ncbi.nlm.nih.gov/21241206/) | 2011 | Cohort | Curr Med Res Opin | Examines clopidogrel use, adherence, and persistence in ACS patients post-PCI; notes prasugrel as an alternative per guidelines, but does not address pulmonary hypertension |
+| [34713782](https://pubmed.ncbi.nlm.nih.gov/34713782/) | 2021 | Cohort | Kardiologiia | Analyzes background chronic-disease therapy prior to COVID-19 infection and its effect on mortality outcomes; no direct link to prasugrel efficacy or PH |
+
+Neither publication provides direct or indirect evidence for prasugrel's use in pulmonary hypertension.
+
+## EU Market Information
+
+Prasugrel currently has **no EU marketing authorization on file** in this dataset (`market_status: 未上市` / Not Marketed, `total_licenses: 0`). No product listings are available to summarize.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. No structured warnings, contraindications, or drug-drug interaction data were available in this evidence pack (TFDA label data is flagged as a **Blocking** data gap — DG001).
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (pulmonary hypertension) has only L5 evidence — a TxGNN score alone, with all attached clinical trials and literature judged clinically irrelevant by the evidence review itself. Combined with the absence of EU marketing status, MOA data, and safety/label information, there is currently no basis to advance this candidate.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (TFDA label warnings/contraindications) — currently blocking safety pre-screening (S1)
+- Resolve DG002 (confirmed mechanism of action via DrugBank) to properly assess mechanistic plausibility
+- Identify clinical trials or literature that specifically evaluate prasugrel (or class-level P2Y12 inhibitors) in pulmonary hypertension/CTEPH populations
+- Consider re-evaluating **rank 2 (migraine disorder, L3 evidence, decision stage S1, "Research Question")** instead — it is supported by class-relevant thienopyridine/PFO literature (PMID 30478067, PMID 30478066) and represents a materially stronger evidentiary basis than the top-ranked pulmonary hypertension candidate
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Efient, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in patients with acute coronary syndrome (i.e. unstable angina, non-ST-segment-elevation myocardial infarction [UA / NSTEMI] or ST-segment-elevation myocardial infarction [STEMI]) undergoing primary or delayed percutaneous coronary intervention (PCI).
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | pulmonary hypertension | 99.88% | DL |
-| 2 | migraine disorder | 99.88% | DL |
-| 3 | migraine with brainstem aura | 99.83% | DL |
-| 4 | kyphoscoliotic heart disease | 99.81% | DL |
-| 5 | rheumatoid arthritis | 99.74% | DL |
-| 6 | homozygous familial hypercholesterolemia | 99.74% | DL |
-| 7 | hypoalphalipoproteinemia | 99.72% | DL |
-| 8 | migraine with or without aura, susceptibility to | 99.67% | DL |
-| 9 | brachydactyly-syndactyly syndrome | 99.60% | DL |
-| 10 | leprosy | 99.46% | DL |
-| 11 | obsolete susceptibility to ischemic stroke | 99.46% | DL |
-| 12 | atrophoderma vermiculata | 99.46% | DL |
-| 13 | peripheral vascular disease | 99.43% | DL |
-| 14 | hypertrichosis (disease) | 99.43% | DL |
-| 15 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.42% | DL |
-| 16 | pulmonary hypertension, primary, autosomal recessive | 99.38% | DL |
-| 17 | Prinzmetal angina | 99.38% | DL |
-| 18 | peripheral arterial disease | 99.38% | DL |
-| 19 | obsolete familial combined hyperlipidemia | 99.32% | DL |
-| 20 | ulerythema ophryogenesis | 99.31% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

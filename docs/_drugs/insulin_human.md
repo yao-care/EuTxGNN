@@ -2,7 +2,7 @@
 layout: default
 title: Insulin Human
 parent: 僅模型預測 (L5)
-nav_order: 216
+nav_order: 318
 evidence_level: L5
 indication_count: 10
 ---

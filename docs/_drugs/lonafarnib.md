@@ -1,132 +1,92 @@
 ---
 layout: default
 title: Lonafarnib
-description: "Lonafarnib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 350
+parent: 僅模型預測 (L5)
+nav_order: 362
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Lonafarnib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Lonafarnib: From Hutchinson-Gilford Progeria Syndrome to Leprosy
+
+## One-Sentence Summary
+
+Lonafarnib is a farnesyltransferase inhibitor (FTI) originally developed and approved for Hutchinson-Gilford Progeria Syndrome (HGPS), where it blocks Ras protein farnesylation. The TxGNN model predicts it may be effective for **Leprosy**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and no known mechanistic link between the drug and this disease has been identified.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Lonafarnib |
-| DrugBank ID | [DB06448](https://go.drugbank.com/drugs/DB06448) |
-| Brand Names (EU) | Zokinvy |
+| Item | Content |
+|------|------|
+| Original Indication | Hutchinson-Gilford Progeria Syndrome (HGPS) |
+| Predicted New Indication | Leprosy |
+| TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.14% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Lonafarnib is a farnesyltransferase inhibitor (FTI) that blocks post-translational farnesylation of Ras and related proteins. Its approved use is in HGPS, a rare progeroid genetic disorder, where inhibiting farnesylation of defective progerin/lamin A reduces nuclear membrane abnormalities.
+
+For the top-ranked prediction, **leprosy**, no known mechanistic relationship exists. Leprosy pathophysiology is driven by *Mycobacterium leprae* infection, host immune evasion, and granulomatous inflammation — pathways that do not overlap with known farnesyltransferase biology. The high TxGNN score for this pairing is most plausibly explained by indirect, noisy connections within the underlying knowledge graph rather than a genuine pharmacological rationale.
+
+Notably, a lower-ranked candidate in this evidence pack — **rheumatoid arthritis** (rank 2, score 98.82%) — has a more plausible theoretical basis: FTI-mediated blockade of Ras/MEK/ERK signaling could in principle reduce synoviocyte proliferation and inflammation. However, the only literature retrieved for that pairing (PMID 36543278) concerns a traditional Chinese medicine formula acting on the same pathway, not lonafarnib itself, so it remains indirect, pathway-level evidence rather than drug-specific support.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+Lonafarnib currently holds no EU marketing authorization (market status: not marketed; 0 authorizations on file), so no product/dosage-form/indication information is available.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (leprosy) is an L5, model-only prediction with no clinical trials, no literature, and no identifiable mechanistic link — the repurposing rationale itself flags this as likely knowledge-graph noise. There is currently no basis to advance this pairing.
+
+**To proceed, the following is needed:**
+- Resolve blocking data gap DG001 (TFDA/regulatory label warnings and contraindications) before any safety pre-screening (S1) can occur
+- Resolve high-priority data gap DG002 (confirmed MOA record) to support mechanistic-linkage analysis
+- If pursuing repurposing further, prioritize investigation of the rheumatoid arthritis signal (rank 2) instead, since it has a pathway-level rationale (Ras/MEK/ERK), and seek lonafarnib-specific preclinical or clinical evidence for that pathway rather than the leprosy pairing
+- DrugBank category and toxicity data to determine whether cytotoxic-drug handling precautions apply
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Zokinvy is indicated for the treatment of patients 12 months of age and older with a genetically confirmed diagnosis of Hutchinson-Gilford progeria syndrome or a processing-deficient progeroid laminopathy associated with either a heterozygous LMNA mutation with progerin-like protein accumulation or a homozygous or compound heterozygous ZMPSTE24 mutation.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | leprosy | 99.14% | DL |
-| 2 | rheumatoid arthritis | 98.82% | DL |
-| 3 | Prinzmetal angina | 98.57% | DL |
-| 4 | homozygous familial hypercholesterolemia | 98.32% | DL |
-| 5 | hyperthyroidism | 98.17% | DL |
-| 6 | pulmonary hypertension | 98.16% | DL |
-| 7 | brachydactyly-syndactyly syndrome | 98.10% | DL |
-| 8 | nephrogenic syndrome of inappropriate antidiuresis | 97.97% | DL |
-| 9 | kyphoscoliotic heart disease | 97.96% | DL |
-| 10 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 97.95% | DL |
-| 11 | resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta | 97.85% | DL |
-| 12 | heart disease | 97.80% | DL |
-| 13 | multiple endocrine neoplasia | 97.66% | DL |
-| 14 | Laubry-Pezzi syndrome | 97.65% | DL |
-| 15 | Pierre Robin syndrome associated with a chromosomal anomaly | 97.63% | DL |
-| 16 | Jeune syndrome situs inversus | 97.62% | DL |
-| 17 | genetic syndromic Pierre Robin syndrome | 97.59% | DL |
-| 18 | orofacial clefting syndrome | 97.56% | DL |
-| 19 | partial deletion of the long arm of chromosome 7 | 97.55% | DL |
-| 20 | disorder of fucoglycosan synthesis | 97.54% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

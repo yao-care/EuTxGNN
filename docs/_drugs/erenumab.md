@@ -1,132 +1,115 @@
 ---
 layout: default
 title: Erenumab
-description: "Erenumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 221
+parent: 僅模型預測 (L5)
+nav_order: 230
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Erenumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Erenumab: From Migraine Prevention to Migraine with Brainstem Aura
+
+## One-Sentence Summary
+
+> Erenumab is a CGRP-receptor monoclonal antibody already used for general migraine prevention.
+> The TxGNN model predicts it may also be effective for the specific subtype **Migraine with Brainstem Aura**,
+> with **0 clinical trials** and **20 publications** (mostly indirect subgroup/secondary analyses) currently supporting this direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Erenumab |
-| DrugBank ID | [DB14039](https://go.drugbank.com/drugs/DB14039) |
-| Brand Names (EU) | Aimovig |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.89% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in this evidence pack (no EU/Taiwan license record); erenumab's established clinical use per literature is general migraine prevention |
+| Predicted New Indication | Migraine with Brainstem Aura |
+| TxGNN Prediction Score | 99.89% |
+| Evidence Level | L2 |
+| EU Market Status | ✗ Not marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Aimovig is indicated for prophylaxis of migraine in adults who have at least 4 migraine days per month when initiating treatment with Aimovig.
+Currently, formal mechanism-of-action documentation for erenumab is not available in this evidence pack. Based on the repurposing rationale provided, erenumab is a monoclonal antibody that directly blocks the CGRP (calcitonin gene-related peptide) receptor, inhibiting CGRP-mediated activation of the trigeminovascular system — the core pathophysiological pathway underlying migraine.
 
----
+This predicted indication is not a typical "repurposing" case. Erenumab is already established for migraine prevention broadly; "migraine with brainstem aura" is a specific clinical subtype rather than an unrelated disease. Existing evidence largely comes from secondary/post-hoc analyses of migraine trials that pooled "with and without aura" populations, rather than dedicated randomized trials in the brainstem-aura subtype specifically.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | migraine with brainstem aura | 99.89% | DL |
-| 2 | migraine disorder | 99.88% | DL |
-| 3 | atrophoderma vermiculata | 98.37% | DL |
-| 4 | migraine with or without aura, susceptibility to | 98.33% | DL |
-| 5 | ulerythema ophryogenesis | 97.53% | DL |
-| 6 | amenorrhea (disease) | 97.43% | DL |
-| 7 | antithrombin deficiency type 2 | 97.26% | DL |
-| 8 | factor 5 excess with spontaneous thrombosis | 97.13% | DL |
-| 9 | heparin cofactor 2 deficiency | 97.13% | DL |
-| 10 | thrombophilia | 95.93% | DL |
-| 11 | sciatic neuropathy | 93.52% | DL |
-| 12 | severe nonproliferative diabetic retinopathy | 85.69% | DL |
-| 13 | hemorrhagic disease of newborn | 81.02% | DL |
-| 14 | HER2 positive breast carcinoma | 80.10% | DL |
-| 15 | normal breast-like subtype of breast carcinoma | 77.55% | DL |
-| 16 | progesterone-receptor positive breast cancer | 77.55% | DL |
-| 17 | breast tumor luminal A or B | 77.19% | DL |
-| 18 | progesterone-receptor negative breast cancer | 76.51% | DL |
-| 19 | infectious bovine rhinotracheitis | 73.49% | DL |
-| 20 | malignant catarrh | 73.49% | DL |
-
-*Showing top 20 of 50 predictions.*
+Mechanistically, the rationale is sound: CGRP-mediated trigeminovascular activation is common to migraine with and without aura, including aura subtypes. However, because no trial has isolated the brainstem-aura population, and cardiovascular/vascular safety in aura patients has required dedicated post-hoc scrutiny (e.g., PMID 34928306, 36942409), this is scored L2 rather than L1, reflecting supportive-but-not-subtype-specific evidence.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34928306](https://pubmed.ncbi.nlm.nih.gov/34928306/) | 2022 | RCT (secondary analysis) | JAMA Neurology | Secondary analysis of RCTs assessing erenumab safety/efficacy in migraine with vs. without aura; addresses elevated vascular risk in the aura subgroup |
+| [30360965](https://pubmed.ncbi.nlm.nih.gov/30360965/) | 2018 | RCT (Phase 3b) | Lancet | Randomized, double-blind, placebo-controlled trial of erenumab in episodic migraine patients who failed 2–4 prior preventives |
+| [37012858](https://pubmed.ncbi.nlm.nih.gov/37012858/) | 2023 | Systematic Review | Int Immunopharmacol | Systematic review of erenumab efficacy in episodic and chronic migraine prophylaxis |
+| [36942409](https://pubmed.ncbi.nlm.nih.gov/36942409/) | 2023 | Cohort (post-hoc) | Headache | Pooled long-term trial data assessing cardiovascular safety of erenumab by aura status and CV risk |
+| [40275185](https://pubmed.ncbi.nlm.nih.gov/40275185/) | 2025 | Cohort/Biomarker | J Headache Pain | Plasma suPAR (inflammation biomarker) linked to erenumab treatment response |
+| [35151970](https://pubmed.ncbi.nlm.nih.gov/35151970/) | 2022 | Cohort (real-world) | Clin Neurol Neurosurg | Croatian real-world effectiveness/safety data in treatment-resistant chronic migraine |
+| [32867533](https://pubmed.ncbi.nlm.nih.gov/32867533/) | 2021 | Cohort (physiological) | Cephalalgia | Erenumab does not alter cerebral hemodynamics or endothelial function in migraine without aura |
+| [33125303](https://pubmed.ncbi.nlm.nih.gov/33125303/) | 2021 | Cohort/Case series | J Pain Palliat Care Pharmacother | Retrospective review of erenumab + onabotulinumtoxinA combination in intractable chronic migraine |
+| [40596876](https://pubmed.ncbi.nlm.nih.gov/40596876/) | 2025 | Cohort (switch study) | J Headache Pain | Tolerability of switching from erenumab to fremanezumab after erenumab-related adverse events |
+| [35230406](https://pubmed.ncbi.nlm.nih.gov/35230406/) | 2022 | Review/News summary | JAMA | Summary reporting erenumab as safe and effective in patients with migraine with aura |
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*Note: A blocking data gap (DG001 – TFDA label warnings/contraindications) prevents completion of the S1 safety screening stage for this candidate.*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+Erenumab's CGRP-receptor mechanism is well supported for migraine broadly, and multiple RCTs and post-hoc/cohort analyses address the aura subgroup (including vascular safety), giving L2 evidence. However, no trial or publication isolates "migraine with brainstem aura" specifically, and this is not a true novel-indication repurposing case but a subtype extension of an already-established use.
+
+**To proceed, the following is needed:**
+- TFDA label warnings/contraindications (DG001, blocking — required before S1 safety evaluation can proceed)
+- Formal MOA documentation from DrugBank (DG002)
+- Taiwan/EU regulatory and market authorization status (currently absent from this evidence pack)
+- Subtype-specific clinical data (trial or registry) for migraine with brainstem aura, rather than pooled aura-status subgroup analyses
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

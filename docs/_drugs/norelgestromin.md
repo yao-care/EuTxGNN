@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Norelgestromin
-description: "Norelgestromin drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 411
+parent: 僅模型預測 (L5)
+nav_order: 423
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Norelgestromin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Norelgestromin: From Contraceptive Use to Amenorrhea
+
+## One-Sentence Summary
+
+Norelgestromin is the active metabolite of norgestimate, used clinically as the progestin component of combined hormonal contraceptive patches. The TxGNN model predicts it may be effective for **Amenorrhea**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure AI-model prediction with no direct evidence base.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Norelgestromin |
-| DrugBank ID | [DB06713](https://go.drugbank.com/drugs/DB06713) |
-| Brand Names (EU) | Norelgestromin |
+| Item | Content |
+|------|------|
+| Original Indication | Not recorded in the regulatory dataset (drug not marketed in the EU). Based on established pharmacology, norelgestromin is used as the progestin component of combined hormonal contraceptive patches. |
+| Predicted New Indication | Amenorrhea |
+| TxGNN Prediction Score | 99.51% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.51% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Female contraception. Evra is intended for women of fertile age. The safety and efficacy has been established in women aged 18 to 45 years.
+Currently, detailed mechanism of action data is not available for norelgestromin in this evidence pack. Based on known pharmacology, norelgestromin is a progestin (the active metabolite of norgestimate) that acts on the hypothalamic-pituitary-ovarian axis, suppressing ovulation via negative feedback and altering endometrial receptivity — the basis of its established use in contraception.
 
----
+The link to amenorrhea is mechanistically ambiguous rather than clearly supportive: progestin-based contraceptives (e.g., long-acting injectables and patches) are themselves a well-documented **cause** of amenorrhea as a side effect, not an established treatment for it. TxGNN appears to have picked up this bidirectional pharmacological association from the knowledge graph without being able to distinguish causal direction. No clinical trial or published literature in this dataset supports using norelgestromin therapeutically to treat amenorrhea, so the causal direction of this relationship remains unresolved.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | amenorrhea (disease) | 99.51% | DL |
-| 2 | acne (disease) | 98.49% | DL |
-| 3 | breast fibrocystic disease | 97.51% | DL |
-| 4 | apocrine adenosis of breast | 96.25% | DL |
-| 5 | blunt duct adenosis of breast | 96.25% | DL |
-| 6 | benign mammary dysplasia | 95.88% | DL |
-| 7 | breast abscess | 95.41% | DL |
-| 8 | fat necrosis of breast | 95.41% | DL |
-| 9 | lactation disease | 95.21% | DL |
-| 10 | primary ovarian failure | 95.12% | DL |
-| 11 | breast adenosis | 94.98% | DL |
-| 12 | scalp dermatosis | 94.41% | DL |
-| 13 | tetragametic chimerism | 93.79% | DL |
-| 14 | ovarian remnant syndrome | 93.49% | DL |
-| 15 | anovulation | 93.49% | DL |
-| 16 | symptomatic form of fragile X syndrome in female carrier | 93.46% | DL |
-| 17 | partial trisomy/tetrasomy of the short arm of chromosome 12 | 93.45% | DL |
-| 18 | partial trisomy/tetrasomy of the short arm of chromosome 18 | 93.44% | DL |
-| 19 | partial trisomy/tetrasomy of the short arm of chromosome 5 | 93.38% | DL |
-| 20 | polysomy of X chromosome | 93.25% | DL |
-
-*Showing top 20 of 50 predictions.*
+Among the other candidates in this prediction set, **acne** (rank 2, score 98.5%) has the strongest independent mechanistic rationale: norgestimate/ethinyl estradiol combinations are already an approved class-level treatment for acne via reduction of free testosterone and sebaceous androgen receptor activity. This represents a genuine class-effect signal, though direct evidence for norelgestromin itself is still absent.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations are currently recorded for norelgestromin in this dataset (market status: not marketed, 0 authorizations).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: TFDA/EMA label warnings and contraindications are currently a blocking data gap — see Conclusion below.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (amenorrhea) is supported only by an AI model score (L5), with zero clinical trials or literature, and the proposed mechanistic link is directionally ambiguous — progestins are a known *cause* of amenorrhea, not an established treatment. Combined with the absence of any EU marketing authorization and a **blocking** data gap on safety labeling, there is currently no basis to advance this candidate beyond a research question.
+
+**To proceed, the following is needed:**
+- TFDA/EMA product label (SmPC) warnings, contraindications, and DDI data (DG001, blocking — required before any S1 safety screening)
+- Confirmed mechanism of action from DrugBank or primary literature (DG002)
+- Independent literature or preclinical evidence clarifying the causal direction between progestin exposure and amenorrhea
+- If pursuing the acne signal instead (rank 2), targeted literature search for norelgestromin/norgestimate-specific acne studies to confirm the class-effect assumption
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

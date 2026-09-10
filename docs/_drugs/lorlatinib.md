@@ -1,132 +1,102 @@
 ---
 layout: default
 title: Lorlatinib
-description: "Lorlatinib drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 353
+parent: 僅模型預測 (L5)
+nav_order: 365
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Lorlatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Lorlatinib: From ALK-Positive NSCLC to Gingival Fibromatosis
+
+## One-Sentence Summary
+
+Lorlatinib is a third-generation ALK/ROS1 tyrosine kinase inhibitor; per literature evidence in this pack it is used for ALK-positive metastatic non-small cell lung cancer (NSCLC), though the drug's formal original indication and EU authorization status are Data Gaps in this record. The TxGNN model's top-ranked prediction is **Gingival Fibromatosis**, but this pairing has **0 clinical trials** and **0 publications** supporting it — it is a pure AI embedding-similarity signal with no mechanistic basis.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Lorlatinib |
-| DrugBank ID | [DB12130](https://go.drugbank.com/drugs/DB12130) |
-| Brand Names (EU) | Lorviqua |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in this dataset (Data Gap). Literature evidence in this pack consistently describes lorlatinib as a treatment for ALK-positive NSCLC. |
+| Predicted New Indication | Gingival Fibromatosis (fibromatosis, gingival) |
+| TxGNN Prediction Score | 99.81% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.81% |
+| EU Market Status | 未上市 (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available for Lorlatinib in this evidence pack (flagged as Blocking/High data gaps DG001–DG002). Based on the literature evidence collected elsewhere in this pack (e.g., PMID 38554546, PMID 33207094), Lorlatinib is a brain-penetrant, third-generation ALK/ROS1 tyrosine kinase inhibitor with demonstrated efficacy in ALK-positive metastatic NSCLC, most notably in the Phase 3 CROWN trial.
+
+Gingival fibromatosis is a benign, non-neoplastic overgrowth of gingival connective tissue, typically driven by fibroblast proliferation and extracellular matrix accumulation — a pathway with no established link to ALK or ROS1 kinase signaling. The evidence pack's own rationale field is explicit on this point: *"無已知機轉關聯...僅為 KG embedding 相似度預測，無支持文獻或試驗"* ("no known mechanistic link; this is a pure knowledge-graph embedding similarity prediction, with no supporting literature or trials"). There is no pharmacological or clinical rationale connecting the original indication to this predicted one — the signal should be treated as model noise rather than a genuine repurposing hypothesis.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+Lorlatinib currently has **0 recorded authorizations** and a market status of "未上市" (Not marketed) in this evidence pack's regulatory dataset. No license records are available to summarize.
+
+## Cytotoxicity
+
+*(Included because lorlatinib is an antineoplastic agent per literature evidence in this pack — ALK/ROS1-targeted therapy for NSCLC.)*
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (ALK/ROS1 tyrosine kinase inhibitor) — not conventional cytotoxic chemotherapy |
+| Myelosuppression Risk | Low. Literature in this pack describes lorlatinib's adverse-event profile as dominated by metabolic effects (hypercholesterolemia, hypertriglyceridemia, weight gain) rather than classic myelosuppression (PMID 38554546, PMID 30890623); no formal hematotoxicity data available in this pack |
+| Emetogenicity Classification | Low (typical of oral targeted kinase inhibitors; not formally assessed in this pack) |
+| Monitoring Items | Fasting lipid panel (cholesterol, triglycerides), body weight, mood/cognitive status, pulmonary symptoms — based on literature signals for hyperlipidemia (PMID 39537504, 33789526), metabolic syndrome (PMID 40157899), and rare pulmonary toxicity/ARDS (PMID 31985497) |
+| Handling Protection | Standard oral oncology drug handling applies; this pack contains no formal hazardous-drug classification — confirm against SmPC before establishing handling protocol |
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and DDI data are all marked as Data Gaps in this evidence pack, including a Blocking-severity gap for TFDA/EMA label warnings — DG001.)
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (gingival fibromatosis) has zero clinical trials, zero literature evidence, and no plausible mechanistic link to lorlatinib's ALK/ROS1 pathway — the pack's own rationale field confirms this is a knowledge-graph artifact, not a scientific hypothesis worth pursuing.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (Blocking): obtain TFDA/EMA SmPC warnings and contraindications before any safety review can begin
+- Resolve DG002: obtain confirmed MOA and original indication/regulatory status for lorlatinib (currently empty/Data Gap despite being a marketed oncology drug elsewhere)
+- If further repurposing signals from this drug are of interest, prioritize disease-ontology QC over raw TxGNN rank: rank 6 ("lung germ cell tumor") appears to be a mislabeled node — its cited literature is entirely about ALK-driven **neuroblastoma** (Phase 1 trial support exists), not germ cell tumors. Ranks 4 ("lung hilum carcinoma") and 5 ("lung benign neoplasm") are populated almost entirely by literature on the *already-approved* ALK+ NSCLC indication, not a genuine new indication
+- Do not advance rank 1 (gingival fibromatosis) or the other zero-evidence L5 candidates (ranks 2, 3, 7, 8, 9, 10) without new supporting data
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Lorviqua as monotherapy is indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK)?positive advanced non?small cell lung cancer (NSCLC) previously not treated with an ALK inhibitor. Lorviqua as monotherapy is indicated for the treatment of adult patients with ALK?positive advanced NSCLC whose disease has progressed after:  alectinib or ceritinib as the first ALK tyrosine kinase inhibitor (TKI) therapy; or crizotinib and at least one other ALK TKI.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | fibromatosis, gingival | 99.81% | DL |
-| 2 | fibroma of lung | 99.75% | DL |
-| 3 | hamartoma of lung | 99.75% | DL |
-| 4 | lung hilum carcinoma | 99.74% | DL |
-| 5 | lung benign neoplasm | 99.74% | DL |
-| 6 | pulmonary sulcus neoplasm | 99.73% | DL |
-| 7 | lung germ cell tumor | 99.73% | DL |
-| 8 | inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia | 99.72% | DL |
-| 9 | junctional epidermolysis bullosa | 99.72% | DL |
-| 10 | Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome | 99.69% | DL |
-| 11 | ovarioleukodystrophy | 99.65% | DL |
-| 12 | junctional epidermolysis bullosa, non-Herlitz type | 99.62% | DL |
-| 13 | lung cancer | 99.60% | DL |
-| 14 | dehydratase deficiency | 99.58% | DL |
-| 15 | Ewing sarcoma | 97.61% | DL |
-| 16 | amyotrohpic lateral sclerosis type 22 | 92.52% | DL |
-| 17 | vertebral anomalies and variable endocrine and T-cell dysfunction | 91.92% | DL |
-| 18 | ganglioneuroblastoma (disease) | 91.84% | DL |
-| 19 | amyotrophic lateral sclerosis, susceptibility to | 91.26% | DL |
-| 20 | axial spondylometaphyseal dysplasia | 90.54% | DL |
-
-*Showing top 20 of 51 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

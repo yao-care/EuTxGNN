@@ -1,132 +1,109 @@
 ---
 layout: default
 title: Evinacumab
-description: "Evinacumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 233
+parent: 僅模型預測 (L5)
+nav_order: 242
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Evinacumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Evinacumab: From Unspecified Original Indication to Diabetic Cataract
+
+## One-Sentence Summary
+
+> Evinacumab (DrugBank ID: DB15354) is an ANGPTL3-targeting monoclonal antibody; its original approved indication is not recorded in this evidence pack, and the drug currently has **no EU marketing authorization** on file.
+> The TxGNN model's top prediction is **Diabetic Cataract**, but this prediction is supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags it as a likely false positive.
+> A lower-ranked candidate in the same pack — **Diabetic Retinopathy** — has a 2026 mechanistic publication linking ANGPTL3 to retinal vascular leakage, making it a more credible research lead than the top-ranked prediction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Evinacumab |
-| DrugBank ID | [DB15354](https://go.drugbank.com/drugs/DB15354) |
-| Brand Names (EU) | Evkeeza |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.52% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in evidence pack (original_indications and original_moa are unrecorded) |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 98.52% |
+| Evidence Level | L5 (model prediction only, no supporting studies) |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Evkeeza is indicated as an adjunct to diet and other low-density lipoprotein-cholesterol (LDL-C) lowering therapies for the treatment of adult and adolescent patients aged 12 years and older with homozygous familial hypercholesterolaemia (HoFH).
+Detailed mechanism-of-action data for Evinacumab and its original approved indication were not available in this evidence pack. Based on information present elsewhere in the pack (the rationale for the diabetic retinopathy candidate), Evinacumab is an **ANGPTL3 (Angiopoietin-like protein 3) monoclonal antibody**, a class of drug that primarily modulates lipoprotein metabolism.
 
----
+For the top-ranked prediction, **diabetic cataract**, the model's own repurposing rationale explicitly states there is **no known direct mechanistic link** between ANGPTL3 inhibition and the lens osmotic/glycation pathology underlying diabetic cataract. It further notes that ranks 1–9 in this candidate set are all cataract subtypes clustered at nearly identical scores (0.984–0.985), which is characteristic of a **knowledge-graph node-clustering artifact** rather than a genuine biological signal — i.e., a suspected model false positive.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 98.52% | DL |
-| 2 | immature cataract | 98.45% | DL |
-| 3 | craniostenosis cataract | 98.45% | DL |
-| 4 | diabetes mellitus type 2 associated cataract | 98.45% | DL |
-| 5 | mature cataract | 98.45% | DL |
-| 6 | tetanic cataract | 98.45% | DL |
-| 7 | cortical cataract | 98.42% | DL |
-| 8 | nuclear senile cataract | 98.42% | DL |
-| 9 | senile cataract | 98.36% | DL |
-| 10 | diabetic retinopathy | 98.22% | DL |
-| 11 | antithrombin deficiency type 2 | 98.03% | DL |
-| 12 | factor 5 excess with spontaneous thrombosis | 97.98% | DL |
-| 13 | severe nonproliferative diabetic retinopathy | 97.94% | DL |
-| 14 | heparin cofactor 2 deficiency | 97.94% | DL |
-| 15 | thrombophilia | 97.68% | DL |
-| 16 | diffuse gastric adenocarcinoma | 95.62% | DL |
-| 17 | hemorrhagic disease of newborn | 95.12% | DL |
-| 18 | gastric carcinoma | 94.95% | DL |
-| 19 | gastric adenocarcinoma and proximal polyposis of the stomach | 94.93% | DL |
-| 20 | bronchitis | 94.87% | DL |
-
-*Showing top 20 of 50 predictions.*
+By contrast, rank 10 in the same pack, **diabetic retinopathy**, is supported by a 2026 mechanistic publication showing an ANGPTL3–integrin α5 axis drives retinal vascular leakage in diabetic retinopathy — a biologically plausible link to ANGPTL3 inhibition, though still preclinical/mechanistic (L4) with no clinical trial or case evidence yet. This candidate warrants more attention than the nominal top-ranked cataract prediction.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+Currently no related literature available.
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+*(Note: the pack does contain one relevant publication, but it supports the rank-10 candidate, diabetic retinopathy, not the top-ranked diabetic cataract prediction: [41555340](https://pubmed.ncbi.nlm.nih.gov/41555340/), 2026, Mechanistic/Preclinical, *Journal of Translational Medicine* — "The ANGPTL3–integrin α5 axis drives retinal vascular leakage in diabetic retinopathy.")*
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Evinacumab currently has no EU marketing authorization on record (total_licenses = 0).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (diabetic cataract) has no clinical trial or literature support, and the evidence pack itself flags it as a likely knowledge-graph clustering artifact rather than a genuine mechanistic signal. There is insufficient basis to advance this specific candidate.
+
+**To proceed, the following is needed:**
+- Basic drug-level data currently missing: original approved indication, mechanism of action, and TFDA/EMA label warnings and contraindications (flagged as Blocking in this pack's data gaps)
+- If pursuing an ophthalmic angle, redirect attention to the mechanistically-supported **diabetic retinopathy** candidate (rank 10, L4, decision stage S1) rather than the top-ranked cataract prediction, and monitor for follow-up preclinical or clinical studies on the ANGPTL3–integrin α5 axis
+- DDI and contraindication data (currently not_found) before any safety-related (S1) evaluation can proceed
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

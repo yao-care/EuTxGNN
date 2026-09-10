@@ -1,132 +1,121 @@
 ---
 layout: default
 title: Lomitapide
-description: "Lomitapide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 349
+parent: 僅模型預測 (L5)
+nav_order: 361
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Lomitapide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Lomitapide: From Homozygous Familial Hypercholesterolemia to Hyperlipoproteinemia
+
+## One-Sentence Summary
+
+Lomitapide is a microsomal triglyceride transfer protein (MTP) inhibitor originally developed and used for homozygous familial hypercholesterolemia (HoFH). Among the 10 TxGNN-predicted indications in this evidence pack, only **Hyperlipoproteinemia** is backed by real-world evidence — **12 clinical trials and 19 publications** — while the nine higher-ranked candidates (all rare platelet disorders) have **zero clinical trials or literature** and appear to be a systematic prediction artifact rather than genuine signals.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Lomitapide |
-| DrugBank ID | [DB08827](https://go.drugbank.com/drugs/DB08827) |
-| Brand Names (EU) | Lojuxta |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.92% |
+| Item | Content |
+|------|------|
+| Original Indication | Homozygous Familial Hypercholesterolemia (HoFH) — inferred from clinical evidence context; no formal Taiwan/EU license record is available in this dataset |
+| Predicted New Indication | Hyperlipoproteinemia (rank 9 of 10; the only candidate with supporting evidence) |
+| TxGNN Prediction Score | 99.74% |
+| Evidence Level | L1 |
+| EU Market Status | 未上市 (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
+
+**Note on the top-ranked candidates**: TxGNN's highest-scoring predictions (rank 1–8, 10; scores 0.995–0.999) are all rare platelet/hemostasis disorders — e.g. *marcothrombocytopenia with mitral valve insufficiency*, *Glanzmann thrombasthenia*, *dense granule disease*. None have any supporting clinical trial or literature evidence, and the evidence pack itself flags this as a likely **systematic clustering bias** in the knowledge graph rather than a genuine mechanistic signal. These are scored "Hold" and are not discussed further in this report.
+
+## Why is This Prediction Reasonable?
+
+Lomitapide is a microsomal triglyceride transfer protein (MTP) inhibitor. It blocks the assembly and secretion of hepatic VLDL and intestinal chylomicrons, thereby directly lowering ApoB-containing lipoproteins (LDL-C). This is the drug's well-established core pharmacology, already exploited clinically in HoFH.
+
+"Hyperlipoproteinemia" as a predicted indication is not a mechanistically distant "new use" — it is a broader disease-classification term that encompasses HoFH and related dyslipidemias. In other words, the TxGNN model is largely re-identifying the drug's known therapeutic space rather than proposing a genuinely novel repurposing hypothesis. The supporting trials (see below) are overwhelmingly Lomitapide-in-HoFH studies (adult, pediatric, Japanese, and long-term follow-on populations), plus one related program in familial chylomicronemia syndrome (FCS), which is mechanistically adjacent (triglyceride/ApoB metabolism).
+
+Given the drug's original MOA and the disease overlap, the biological plausibility is high — but this should be framed as **evidence consolidation/label-adjacent expansion** rather than true repurposing into an unrelated therapeutic area.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04681170](https://clinicaltrials.gov/study/NCT04681170) | Phase 3 | Completed | 46 | Single-arm, open-label study of Lomitapide efficacy/long-term safety in pediatric HoFH patients on stable lipid-lowering therapy |
+| [NCT00730236](https://clinicaltrials.gov/study/NCT00730236) | Phase 3 | Completed | 29 | Pivotal registration trial of AEGR-733 (Lomitapide) in HoFH; basis for original approval |
+| [NCT02173158](https://clinicaltrials.gov/study/NCT02173158) | Phase 3 | Completed | 9 | Efficacy/safety of Lomitapide in Japanese HoFH patients on concurrent lipid-lowering therapy |
+| [NCT00943306](https://clinicaltrials.gov/study/NCT00943306) | Phase 3 | Completed | 19 | Long-term follow-on study confirming continued efficacy/safety of Lomitapide in HoFH |
+| [NCT02135705](https://clinicaltrials.gov/study/NCT02135705) | N/A | Recruiting | 300 | LOWER Registry — global, long-term, prospective observational cohort on real-world safety/effectiveness |
+| [NCT06832371](https://clinicaltrials.gov/study/NCT06832371) | N/A | Active, not recruiting | 73 | Observational study evaluating major adverse cardiovascular events (MACE) in HoFH patients on Lomitapide |
+| [NCT00690443](https://clinicaltrials.gov/study/NCT00690443) | Phase 2 | Completed | 44 | Randomized, double-blind trial of AEGR-733 + atorvastatin vs. atorvastatin monotherapy in moderate hypercholesterolemia |
+| [NCT00559962](https://clinicaltrials.gov/study/NCT00559962) | Phase 2 | Completed | 260 | Randomized, placebo-controlled study of low-dose MTP inhibitor on hepatic fat accumulation |
+| [NCT01556906](https://clinicaltrials.gov/study/NCT01556906) | Phase 2 | Completed | 6 | Open-label dose-escalation study establishing safety/tolerability of Lomitapide across 4 dose levels in HoFH |
+
+*Three trials (NCT02399852, NCT02765841 — both withdrawn with 0 enrollment; NCT05611528 — an Evinacumab trial, not Lomitapide) were excluded as low-relevance or off-target.*
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [39426393](https://pubmed.ncbi.nlm.nih.gov/39426393/) | 2024 | Phase 3 Study | Lancet Diabetes Endocrinol | APH-19: efficacy/safety results of Lomitapide in pediatric HoFH patients on standard-of-care lipid-lowering therapy |
+| [40494715](https://pubmed.ncbi.nlm.nih.gov/40494715/) | 2025 | Review | J Clin Lipidol | Over 10 years of long-term efficacy and safety experience with Lomitapide in HoFH |
+| [36152419](https://pubmed.ncbi.nlm.nih.gov/36152419/) | 2022 | Review | Atherosclerosis | Efficacy/safety of Lomitapide extended to familial chylomicronemia syndrome (FCS) |
+| [35148370](https://pubmed.ncbi.nlm.nih.gov/35148370/) | 2022 | Review | Eur J Prev Cardiol | Understanding the efficacy and safety of Lomitapide in HoFH |
+| [33829367](https://pubmed.ncbi.nlm.nih.gov/33829367/) | 2021 | Review | Advances in Therapy | Real-world case reports of Lomitapide use in HoFH patients in Saudi Arabia |
+| [31741187](https://pubmed.ncbi.nlm.nih.gov/31741187/) | 2019 | Review | Curr Atheroscler Rep | Lomitapide and Mipomersen — MTP and apoB100 synthesis inhibition mechanisms |
+| [28598687](https://pubmed.ncbi.nlm.nih.gov/28598687/) | 2017 | Review | Expert Opin Pharmacother | Lomitapide for the treatment of hypercholesterolemia |
+| [25936301](https://pubmed.ncbi.nlm.nih.gov/25936301/) | 2015 | Review | Atherosclerosis Suppl | Mipomersen and Lomitapide as new HoFH treatment options |
+| [24231894](https://pubmed.ncbi.nlm.nih.gov/24231894/) | 2014 | Review | J Cardiovasc Nurs | Lomitapide and Mipomersen — novel lipid-lowering agents for FH management |
+| [21846156](https://pubmed.ncbi.nlm.nih.gov/21846156/) | 2011 | Review | Am J Cardiovasc Drugs | Early development review of Lomitapide as an MTP inhibitor for hypercholesterolemia |
+
+## EU Market Information
+
+Lomitapide is currently **not marketed** in this dataset's regulatory registry (market status: 未上市, total authorizations: 0). No marketing authorization records are available to summarize.
+
+## Safety Considerations
+
+Structured safety fields (key warnings, contraindications, DDI) are marked as data gaps (DG001, severity: Blocking) and could not be populated from TFDA/EMA sources in this pack.
+
+Contextual note from the evidence review: one prediction rationale in this pack independently flags that Lomitapide carries **serious hepatotoxicity and teratogenicity warnings**, consistent with its known boxed-warning profile as an MTP inhibitor. This has not been formally verified against a parsed SmPC/label in this evidence pack.
+
+Please refer to the SmPC for complete safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+Multiple completed Phase 2/3 trials and a substantial literature base support Lomitapide's efficacy in the HoFH/hyperlipoproteinemia space, but this largely reflects the drug's *already-established* therapeutic use rather than a novel repurposing opportunity. Formal safety documentation (TFDA/EMA label) is missing and is flagged as a Blocking gap, preventing a full S1 safety assessment.
+
+**To proceed, the following is needed:**
+- TFDA/EMA product label (warnings, contraindications) to close the Blocking data gap (DG001) before any safety-stage evaluation
+- Confirmed mechanism of action data via DrugBank API to formally close DG002 (currently inferred only from trial/literature narrative)
+- Clarification of whether "Hyperlipoproteinemia" represents a distinct regulatory opportunity or is already covered under existing HoFH indications in relevant markets
+- No further action recommended on the nine platelet-disorder predictions (ranks 1–8, 10) unless independent mechanistic or clinical evidence emerges — current pattern is consistent with a knowledge-graph prediction artifact
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Lojuxta is indicated as an adjunct to a low?fat diet and other lipid?lowering medicinal products with or without low-density-lipoprotein (LDL) apheresis in adult patients with homozygous familial hypercholesterolaemia (HoFH). Genetic confirmation of HoFH should be obtained whenever possible. Other forms of primary hyperlipoproteinaemia and secondary causes of hypercholesterolaemia (e.g. nephrotic syndrome, hypothyroidism) must be excluded.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | marcothrombocytopenia with mitral valve insufficiency | 99.92% | DL |
-| 2 | hereditary thrombocytopenia with normal platelets | 99.92% | DL |
-| 3 | dense granule disease | 99.92% | DL |
-| 4 | transient neonatal thrombocytopenia | 99.92% | DL |
-| 5 | homozygous familial hypercholesterolemia | 99.91% | DL |
-| 6 | thrombocytopenia | 99.88% | DL |
-| 7 | primary release disorder of platelets | 99.85% | DL |
-| 8 | pseudo-von Willebrand disease | 99.85% | DL |
-| 9 | Glanzmann thrombasthenia | 99.76% | DL |
-| 10 | hyperlipoproteinemia | 99.74% | DL |
-| 11 | platelet storage pool deficiency | 99.54% | DL |
-| 12 | hyperlipidemia, familial combined, LPL related | 99.46% | DL |
-| 13 | primary hyperoxaluria | 98.97% | DL |
-| 14 | Scott syndrome | 98.67% | DL |
-| 15 | obsolete familial combined hyperlipidemia | 98.59% | DL |
-| 16 | fibroma of prostate | 98.52% | DL |
-| 17 | fetal and neonatal alloimmune thrombocytopenia | 98.38% | DL |
-| 18 | cholesterol-ester transfer protein deficiency | 98.35% | DL |
-| 19 | benign reproductive system neoplasm | 98.29% | DL |
-| 20 | prostate cancer/brain cancer susceptibility | 98.21% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

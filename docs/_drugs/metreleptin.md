@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Metreleptin
-description: "Metreleptin drug repurposing predictions from TxGNN. Evidence level L5 with 53 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 377
+parent: 僅模型預測 (L5)
+nav_order: 389
 evidence_level: L5
-indication_count: 53
+indication_count: 10
 ---
 
 # Metreleptin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **53**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Metreleptin: From Original Indication (Not Available) to Familial Generalized Lentiginosis
+
+## One-Sentence Summary
+
+Metreleptin's original approved indication is not recorded in this evidence pack, and no market authorization currently exists in Taiwan. The TxGNN model predicts a possible link to **Familial Generalized Lentiginosis**, but this is supported by **0 clinical trials** and **0 publications** — the prediction rests entirely on knowledge-graph topology, not biological or clinical evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Metreleptin |
-| DrugBank ID | [DB09046](https://go.drugbank.com/drugs/DB09046) |
-| Brand Names (EU) | Myalepta |
-| Evidence Level | L5 |
-| Predicted Indications | 53 |
-| Top Prediction Score | 99.71% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — evidence pack contains no recorded original indication and no license records |
+| Predicted New Indication | Familial Generalized Lentiginosis |
+| TxGNN Prediction Score | 99.71% |
+| Evidence Level | L5 (model prediction only, no supporting studies) |
+| EU/TW Market Status | Not Marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Myalepta is indicated as an adjunct to diet as a replacement therapy to treat the complications of leptin deficiency in lipodystrophy (LD) patients:  with confirmed congenital generalised LD (Berardinelli-Seip syndrome) or acquired generalised LD (Lawrence syndrome) in adults and children 2 years of age and above with confirmed familial partial LD or acquired partial LD (Barraquer-Simons syndrome), in adults and children 12 years of age and above for whom standard treatments have failed to achie
+Detailed mechanism of action data is not available in the structured record (flagged as a High-severity data gap, DG002). Based on the repurposing rationale accompanying this prediction, Metreleptin is a leptin analog that primarily acts on hypothalamic leptin receptors to regulate energy metabolism and fat distribution — this is the only mechanistic anchor available for this drug.
 
----
+There is no known or reported biological relationship between the leptin signaling pathway and familial generalized lentiginosis, a pigmentary skin disorder. The rationale note explicitly states that the TxGNN model's high score reflects knowledge-graph topological similarity rather than any established mechanistic or clinical connection. The same caveat applies to the remaining nine predicted indications in this pack (including two unrelated syndromes, two rare pigmentary/genetic disorders, and three unrelated malignancies), none of which have a plausible link to leptin biology based on currently available information.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | familial generalized lentiginosis | 99.71% | DL |
-| 2 | gastrocutaneous syndrome | 99.70% | DL |
-| 3 | Moynahan syndrome | 99.67% | DL |
-| 4 | rhabdoid tumor | 99.62% | DL |
-| 5 | osteopathia striata-pigmentary dermopathy-white forelock syndrome | 99.62% | DL |
-| 6 | congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome | 99.61% | DL |
-| 7 | acromelanosis | 99.61% | DL |
-| 8 | leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome | 99.58% | DL |
-| 9 | benign neoplasm of adrenal gland | 99.52% | DL |
-| 10 | peripheral nerve schwannoma | 99.50% | DL |
-| 11 | schwannoma of twelfth cranial nerve | 99.48% | DL |
-| 12 | sympathetic neurilemmoma | 99.46% | DL |
-| 13 | trigeminal schwannoma | 99.45% | DL |
-| 14 | microcystic/reticular schwannoma | 99.45% | DL |
-| 15 | glaucoma | 99.13% | DL |
-| 16 | lipoatrophic diabetes | 99.06% | DL |
-| 17 | Gaucher disease | 99.04% | DL |
-| 18 | proximal myopathy with extrapyramidal signs | 99.04% | DL |
-| 19 | autosomal ichthyosis syndrome with fatal disease course | 98.97% | DL |
-| 20 | pseudo-von Willebrand disease | 98.96% | DL |
-
-*Showing top 20 of 53 predictions.*
+Because the original indication itself is not recorded in this evidence pack, no comparison between the original and predicted indications can be made at this time. This further limits confidence in the biological plausibility of the prediction.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU/Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorization records are available. Metreleptin is currently not marketed in this jurisdiction (0 licenses on file).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Key warnings, contraindications, and drug-drug interaction data are all currently missing from this evidence pack — TFDA label/warning data is flagged as a Blocking-severity gap, DG001.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction is supported only by TxGNN topological score (L5, no clinical trials, no literature), the original indication and mechanism of action are both undocumented in this pack, and a Blocking-severity safety data gap (missing TFDA label/warnings) prevents any preliminary safety assessment (S1). There is no basis to proceed further at this time.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (Blocking gap, DG001) — required before any S1 safety screening
+- Confirmed mechanism of action from DrugBank or primary literature (High-priority gap, DG002)
+- The drug's actual original indication(s), currently missing from the evidence pack
+- Any preclinical or case-level evidence connecting leptin signaling to the predicted indication, before this candidate can be re-scored above L5
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,134 +1,96 @@
 ---
 layout: default
 title: Delamanid
-description: "delamanid drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 166
+parent: 僅模型預測 (L5)
+nav_order: 176
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Delamanid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Delamanid: From Multidrug-Resistant Tuberculosis to Bovine Tuberculosis
+
+## One-Sentence Summary
+
+Delamanid is a nitroimidazole antimycobacterial originally used for multidrug-resistant pulmonary tuberculosis (MDR-TB). The TxGNN model predicts it may also be effective for **Bovine Tuberculosis** (zoonotic *Mycobacterium bovis* infection), but this direction is currently supported only by a prediction score and **1 indirect publication** (a pathogen genomics study, not a drug-efficacy study) — **no clinical trials exist** for this specific pairing.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Delamanid |
-| DrugBank ID | [DB11637](https://go.drugbank.com/drugs/DB11637) |
-| Brand Names (EU) | Deltyba |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.94% |
+| Item | Content |
+|------|------|
+| Original Indication | Multidrug-resistant tuberculosis (MDR-TB) — noted in evidence-pack rationale; no EU/TFDA label text available in this pack |
+| Predicted New Indication | Tuberculosis, Bovine |
+| TxGNN Prediction Score | 99.91% |
+| Evidence Level | L4 |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data (`original_moa`) is not available for delamanid in this evidence pack. Based on the repurposing rationale associated with this prediction, delamanid is a nitro-dihydro-imidazooxazole prodrug that is activated by the mycobacterial Ddn nitroreductase system and subsequently inhibits mycolic acid (cell wall) synthesis — a mechanism it shares with its approved indication of MDR pulmonary tuberculosis caused by *Mycobacterium tuberculosis*.
+
+*Mycobacterium bovis*, the causative agent of bovine tuberculosis, belongs to the same *Mycobacterium tuberculosis* complex and shares the mycolic acid synthesis pathway and Ddn activation system. This provides a plausible mechanistic bridge: in theory, delamanid should retain activity against *M. bovis*.
+
+However, this extrapolation carries important caveats noted directly in the evidence pack: *M. bovis* has intrinsic resistance to pyrazinamide, and drug-susceptibility data for other anti-TB agents (including delamanid specifically) against *M. bovis* is scarce. Zoonotic TB is effectively an orphan indication here, and no delamanid-specific in vitro or clinical susceptibility data currently exists.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [39487429](https://pubmed.ncbi.nlm.nih.gov/39487429/) | 2024 | Cohort/Epidemiology | BMC Genomics | Whole-genome sequencing study characterizing genetic diversity and drug-resistance patterns of *M. bovis* isolates from zoonotic human TB cases; this is a pathogen genomics study and does not evaluate delamanid efficacy directly |
+
+## EU Market Information
+
+Delamanid currently has no EU marketing authorizations recorded in this evidence pack (0 licenses; market status: Not Marketed).
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The only supporting evidence for this specific prediction is the TxGNN score plus a single pathogen-genomics publication that does not test delamanid; there are no clinical trials, no drug-specific susceptibility data against *M. bovis*, and no EU marketing authorization to anchor a safety/regulatory pathway. This falls short of the threshold to proceed even under guardrails.
+
+**To proceed, the following is needed:**
+- TFDA/EMA product label (SmPC) with warnings and contraindications — currently a **blocking** data gap (DG001) that prevents any S1 safety screening
+- Confirmed mechanism of action via DrugBank API (DG002)
+- In vitro/preclinical susceptibility data of delamanid specifically against *M. bovis*
+- Any clinical or case-series evidence of delamanid use in human zoonotic/bovine TB
+
+**Note:** Within this same evidence pack, a related candidate indication — *inactive tuberculosis* (latent/non-active TB, rank 3) — has substantially stronger evidence (L2, including an ongoing Phase 3 trial, NCT03568383, PHOENIx MDR-TB, n=5,832, and 20 supporting publications). If the goal is to identify the most defensible repurposing direction for delamanid, that candidate warrants prioritized evaluation over bovine tuberculosis.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of at least 10 kg when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability (see sections 4.2, 4.4 and 5.1). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | multidrug-resistant tuberculosis | 99.94% | DL |
-| 2 | tuberculosis, bovine | 99.91% | DL |
-| 3 | tuberculoma | 99.91% | DL |
-| 4 | tuberculosis, avian | 99.91% | DL |
-| 5 | inactive tuberculosis | 99.91% | DL |
-| 6 | tuberculous ascites | 99.91% | DL |
-| 7 | allergic urticaria | 99.56% | DL |
-| 8 | cutaneous tuberculosis | 99.10% | DL |
-| 9 | fascioliasis | 98.95% | DL |
-| 10 | inhalational botulism | 98.93% | DL |
-| 11 | urea cycle disorder | 98.84% | DL |
-| 12 | toxin-mediated infectious botulism | 98.66% | DL |
-| 13 | hyperamylasemia | 98.61% | DL |
-| 14 | polyclonal hyperviscosity syndrome | 98.61% | DL |
-| 15 | leishmaniasis, diffuse cutaneous | 98.56% | DL |
-| 16 | congenital analbuminemia | 98.42% | DL |
-| 17 | Clostridium infectious disease | 98.16% | DL |
-| 18 | extrapulmonary tuberculosis | 98.07% | DL |
-| 19 | blood group incompatibility | 97.99% | DL |
-| 20 | vulvovaginal candidiasis | 97.79% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

@@ -2,7 +2,7 @@
 layout: default
 title: Hydroxocobalamin
 parent: 僅模型預測 (L5)
-nav_order: 207
+nav_order: 292
 evidence_level: L5
 indication_count: 10
 ---

@@ -1,132 +1,107 @@
 ---
 layout: default
 title: Fidaxomicin
-description: "Fidaxomicin drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 244
+parent: 僅模型預測 (L5)
+nav_order: 253
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Fidaxomicin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Fidaxomicin: Original Indication Not Available — Predicted New Indication: Staphylococcal Scalded Skin Syndrome
+
+## One-Sentence Summary
+
+Fidaxomicin is not currently marketed in the region covered by this evidence pack (0 authorizations, market status "Not marketed"), and its original indication/MOA data are not available in this dataset. The TxGNN model's top prediction is **Staphylococcal Scalded Skin Syndrome**, but this candidate has **0 clinical trials** and **0 publications** supporting it, and the model's own rationale flags the mechanistic link as weak.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Fidaxomicin |
-| DrugBank ID | [DB08874](https://go.drugbank.com/drugs/DB08874) |
-| Brand Names (EU) | Dificlir |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — evidence pack has no license/indication data for this region (drug not marketed) |
+| Predicted New Indication | Staphylococcal Scalded Skin Syndrome |
+| TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.71% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Dificlir film-coated tablets is indicated for the treatment of Clostridioides difficile infections (CDI) also known as C. difficile-associated diarrhoea (CDAD) in adult and paediatric patients with a body weight of at least 12.5 kg. Consideration should be given to official guidelines on the appropriate use of antibacterial agents. Dificlir granules for oral suspension is indicated for the treatment of Clostridioides  difficile infections (CDI) also known as C. difficile-associated diarrhoea (CD
+Detailed mechanism-of-action data for Fidaxomicin is not available in this evidence pack (flagged as data gap DG002, High severity). Based on general pharmacology, Fidaxomicin is a narrow-spectrum macrolide antibiotic that inhibits bacterial RNA polymerase and is essentially not absorbed systemically after oral dosing — its activity is confined to the gut lumen, which is why it is used for luminal *Clostridioides difficile* infection.
 
----
+For the top-ranked prediction, the evidence pack's own rationale explicitly weighs against mechanistic plausibility: Staphylococcal Scalded Skin Syndrome is driven by an exfoliative toxin from *S. aureus* rather than by an eradicable infection burden, and it requires a drug that reaches the skin or neutralizes circulating toxin. Since Fidaxomicin is not systemically absorbed, it cannot reach the skin lesions or the toxin. The rationale text states this connection is "mechanistically weak, reflecting only a high TxGNN score with no clinical or literature support."
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | staphylococcal scalded skin syndrome | 99.71% | DL |
-| 2 | Clostridium infectious disease | 99.70% | DL |
-| 3 | bullous impetigo | 99.70% | DL |
-| 4 | inhalational botulism | 99.69% | DL |
-| 5 | impetigo | 99.68% | DL |
-| 6 | toxin-mediated infectious botulism | 99.66% | DL |
-| 7 | vulvovaginal candidiasis | 99.65% | DL |
-| 8 | hordeolum | 99.64% | DL |
-| 9 | staphylococcus aureus pneumonia | 99.21% | DL |
-| 10 | punctate epithelial keratoconjunctivitis | 99.02% | DL |
-| 11 | parasitic skin disease | 98.62% | DL |
-| 12 | aleutian mink disease | 98.45% | DL |
-| 13 | feline panleukopenia | 98.42% | DL |
-| 14 | hyperamylasemia | 98.41% | DL |
-| 15 | polyclonal hyperviscosity syndrome | 98.41% | DL |
-| 16 | pleural empyema (disease) | 98.33% | DL |
-| 17 | fascioliasis | 98.32% | DL |
-| 18 | erythema infectiosum | 98.30% | DL |
-| 19 | congenital analbuminemia | 98.20% | DL |
-| 20 | candidemia | 98.15% | DL |
-
-*Showing top 20 of 51 predictions.*
+Among the 10 candidates in this evidence pack, only rank 8 (*Staphylococcus aureus pneumonia*, L4) has any literature backing (one 2019 review), though the same systemic-absorption limitation applies there too. All 10 candidates carry a "Hold" recommendation, and 9 of 10 have no clinical or literature evidence whatsoever (L5). This is a case where the model's high similarity score is not corroborated by mechanism or external evidence.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Fidaxomicin has no marketing authorization in the region covered by this evidence pack (market status: Not marketed; 0 authorizations on record).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and DDI data are all flagged as data gaps in this evidence pack — including a **Blocking**-severity gap, DG001, for TFDA label warnings/contraindications, which prevents any S1 safety pre-assessment.)
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction has zero clinical or literature evidence (L5), and the model's own mechanistic rationale argues against plausibility given Fidaxomicin's lack of systemic absorption. The drug is also not currently marketed in this region, and a Blocking-severity data gap (missing label warnings/contraindications) prevents even an initial safety assessment.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (Blocking): obtain official label/SmPC warnings and contraindications before any S1 safety evaluation can proceed
+- Resolve DG002 (High): confirm mechanism of action via DrugBank or equivalent source
+- Original indication and regulatory history for Fidaxomicin (not present in this evidence pack)
+- If pursuing repurposing, consider re-evaluating rank 8 (*S. aureus* pneumonia, L4) instead, as it is the only candidate with any literature support — though systemic bioavailability remains a fundamental barrier for all candidates in this list
+- Independent confirmation of mechanistic plausibility before allocating further review resources to this candidate set
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

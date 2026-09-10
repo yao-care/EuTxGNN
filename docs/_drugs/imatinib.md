@@ -1,143 +1,120 @@
 ---
 layout: default
 title: Imatinib
-description: "imatinib drug repurposing predictions from TxGNN. Evidence level L2 with 56 predicted indications."
-parent: Phase 2 Evidence (L2)
-nav_order: 293
-evidence_level: L2
-indication_count: 56
+parent: 僅模型預測 (L5)
+nav_order: 302
+evidence_level: L5
+indication_count: 10
 ---
 
 # Imatinib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **56**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Imatinib: From Chronic Myeloid Leukaemia/GIST to Heart Fibrosarcoma
+
+## One-Sentence Summary
+
+Imatinib is a tyrosine kinase inhibitor originally developed for chronic myeloid leukaemia (CML) and gastrointestinal stromal tumours (GIST). The TxGNN model predicts it may be effective for **Heart Fibrosarcoma**, but this direction is currently supported by **0 clinical trials** and only **1 publication**, and that publication's own title states the new indications lack robust evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Imatinib |
-| DrugBank ID | [DB00619](https://go.drugbank.com/drugs/DB00619) |
-| Brand Names (EU) | Glivec, Imatinib Accord, Imatinib Teva |
-| Evidence Level | L2 |
-| Predicted Indications | 56 |
-| Top Prediction Score | 99.99% |
+| Item | Content |
+|------|------|
+| Original Indication | Chronic Myeloid Leukaemia (CML) / Gastrointestinal Stromal Tumours (GIST) |
+| Predicted New Indication | Heart Fibrosarcoma |
+| TxGNN Prediction Score | 99.94% |
+| Evidence Level | L4 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Imatinib Teva is indicated for the treatment of  Adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr?abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow transplantation is not considered as the first line of treatment. Adult and paediatric patients with Ph+ CML in chronic phase after failure of interferon?alpha therapy, or in accelerated phase or blast crisis. Adult and paediatric patients with newly diagnosed Philadelphia chromosome positive acut
+Currently, detailed mechanism of action data for this candidate is not available from the structured drug record (DrugBank query returned no MOA text). Based on information present elsewhere in this evidence pack, Imatinib is a small-molecule tyrosine kinase inhibitor acting on BCR-ABL, KIT, and PDGFR, and its efficacy in CML and GIST is well established and clinically proven.
 
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | dermatofibrosarcoma protuberans | 99.99% | DL |
-| 2 | heart fibrosarcoma | 99.94% | DL |
-| 3 | fibroblastic neoplasm | 99.94% | DL |
-| 4 | conventional fibrosarcoma | 99.93% | DL |
-| 5 | kidney fibrosarcoma | 99.93% | DL |
-| 6 | low grade fibromyxoid sarcoma | 99.93% | DL |
-| 7 | liposarcoma | 99.88% | DL |
-| 8 | liver fibrosarcoma | 99.86% | DL |
-| 9 | autosomal recessive familial Mediterranean fever | 99.86% | DL |
-| 10 | ovarian myxoid liposarcoma | 99.85% | DL |
-| 11 | familial rhabdoid tumor | 99.83% | DL |
-| 12 | benign PEComa | 99.81% | DL |
-| 13 | uterine corpus perivascular epithelioid cell tumor | 99.81% | DL |
-| 14 | lymphangiomyoma | 99.80% | DL |
-| 15 | lymphangioleiomyomatosis | 99.77% | DL |
-| 16 | bone fibrosarcoma | 99.75% | DL |
-| 17 | cutaneous undifferentiated pleomorphic sarcoma | 99.74% | DL |
-| 18 | cutaneous leiomyosarcoma (disease) | 99.73% | DL |
-| 19 | central nervous system fibrosarcoma | 99.72% | DL |
-| 20 | vulva sarcoma | 99.67% | DL |
-
-*Showing top 20 of 56 predictions.*
+The proposed link to heart fibrosarcoma is an extension of Imatinib's known activity against PDGFR/KIT-driven fibroblastic and mesenchymal tumour lineages (the same biology underlying its approved use in dermatofibrosarcoma protuberans) to a cardiac anatomical location. However, this is a mechanistic inference rather than a demonstrated effect: there is no cardiac-specific trial or case data, and the single supporting publication is itself a review whose title explicitly frames newer Imatinib indications as lacking robust evidence. The prediction should therefore be read as biologically plausible but mechanistically indirect and clinically unproven.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| dermatofibrosarcoma protuberans | L2 | 9 | 20 | 7 Phase 2 trial(s), 2 review(s)/meta-analysis |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Review | Prescrire international | Reviews Imatinib's expanding indications beyond CML/GIST (e.g., Philadelphia chromosome-positive ALL), noting that while some non-comparative trial data exist, evidence for newer indications remains inconclusive rather than robust. |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+This product currently holds no EU marketing authorization (market status: Not Marketed; 0 authorizations on record).
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Imatinib is an antineoplastic agent (originally indicated for CML and GIST), so this section applies.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor targeting BCR-ABL/KIT/PDGFR) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction for heart fibrosarcoma rests on a single review-level publication with no direct clinical trial or case-level evidence, and that publication itself describes the broader class of newer Imatinib indications as lacking robust support. The mechanistic link is inferred by extension from other fibroblastic tumour types rather than demonstrated for the cardiac site specifically.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (currently a blocking data gap, DG001) before any safety evaluation can proceed
+- Confirmed mechanism of action data from DrugBank (DG002), to properly assess mechanistic relevance to heart fibrosarcoma
+- Cardiac-specific case reports, case series, or a dedicated trial to move beyond model-prediction-only status
+- Drug-drug interaction data (current DDI query returned no results)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

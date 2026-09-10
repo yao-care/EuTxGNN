@@ -1,143 +1,148 @@
 ---
 layout: default
 title: Paclitaxel
-description: "paclitaxel drug repurposing predictions from TxGNN. Evidence level L1 with 71 predicted indications."
-parent: Phase 3+ Evidence (L1)
-nav_order: 432
-evidence_level: L1
-indication_count: 71
+parent: 僅模型預測 (L5)
+nav_order: 444
+evidence_level: L5
+indication_count: 10
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **71**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Paclitaxel: From an Unspecified Original Indication to Female Breast Carcinoma
+
+## One-Sentence Summary
+
+> Paclitaxel is a taxane-class chemotherapy agent; however, this evidence pack does not contain its documented original indication (data gap) or EU marketing/label data.
+> The TxGNN model's top prediction is **Female Breast Carcinoma**, supported by more than 50 clinical trials and 20 publications —
+> but the evidence pack's own mechanistic analysis flags this as very likely a **re-confirmation of Paclitaxel's already-established standard indication**, not a genuine repurposing discovery.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Paclitaxel |
-| DrugBank ID | [DB01229](https://go.drugbank.com/drugs/DB01229) |
-| Brand Names (EU) | Abraxane, Apexelsin, Naveruclif, Pazenir |
+| Item | Content |
+|------|---------|
+| Original Indication | Not available (no EMA license records in this evidence pack) |
+| Predicted New Indication | Female Breast Carcinoma |
+| TxGNN Prediction Score | 99.995% |
 | Evidence Level | L1 |
-| Predicted Indications | 71 |
-| Top Prediction Score | 100.00% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Apexelsin monotherapy is indicated for the treatment of metastatic breast cancer in adult patients who have failed first-line treatment for metastatic disease and for whom standard, anthracycline containing therapy is not indicated. Apexelsin in combination with gemcitabine is indicated for the first-line treatment of adult patients with metastatic adenocarcinoma of the pancreas. Apexelsin in combination with carboplatin is indicated for the first-line treatment of non-small cell lung cancer in 
+Detailed DrugBank mechanism-of-action data is marked as a data gap in this evidence pack. Based on the mechanistic rationale attached to the top prediction, Paclitaxel acts as a **microtubule-stabilizing agent**: it binds β-tubulin and inhibits microtubule depolymerization, arresting cells in the M phase of mitosis. This produces cytotoxic effects preferentially in rapidly proliferating cells, including breast carcinoma cells.
 
----
+However, a critical caveat must be flagged: the evidence pack's own rationale for this candidate states explicitly that this is **not actually a novel repurposing signal**. Paclitaxel is a globally established standard chemotherapy for breast cancer, and the "prediction" appears here only because the `original_indications` field in the source drug record was empty (a data pipeline gap), causing an already-known indication to be scored as if it were new. The same issue affects several other top-ranked candidates in this evidence pack (e.g., ER-negative breast cancer, ER-positive breast cancer, hormone-resistant breast carcinoma), which are simply clinical subtypes/contexts of the same established indication rather than independent repurposing opportunities.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | female breast carcinoma | 100.00% | DL |
-| 2 | hereditary breast ovarian cancer syndrome | 99.95% | DL |
-| 3 | estrogen-receptor negative breast cancer | 99.91% | DL |
-| 4 | Ehrlich tumor carcinoma | 99.91% | DL |
-| 5 | hormone-resistant breast carcinoma | 99.91% | DL |
-| 6 | estrogen-receptor positive breast cancer | 99.91% | DL |
-| 7 | bilateral breast carcinoma | 99.89% | DL |
-| 8 | breast carcinoma by gene expression profile | 99.89% | DL |
-| 9 | nipple carcinoma | 99.89% | DL |
-| 10 | ovarian clear cell adenocarcinoma | 99.88% | DL |
-| 11 | parameningeal embryonal rhabdomyosarcoma | 99.73% | DL |
-| 12 | botryoid-type embryonal rhabdomyosarcoma of the vagina | 99.73% | DL |
-| 13 | borderline epithelial tumor of ovary | 99.72% | DL |
-| 14 | rhabdomyosarcoma (disease) | 99.72% | DL |
-| 15 | embryonal extrahepatic bile duct rhabdomyosarcoma | 99.71% | DL |
-| 16 | prostate embryonal rhabdomyosarcoma | 99.69% | DL |
-| 17 | maligant granulosa cell tumor of ovary | 99.66% | DL |
-| 18 | Ewing sarcoma | 99.66% | DL |
-| 19 | extrahepatic bile duct rhabdomyosarcoma | 99.66% | DL |
-| 20 | ovarian endometrioid adenocarcinoma | 99.65% | DL |
-
-*Showing top 20 of 71 predictions.*
+Because the mechanism (microtubule inhibition via β-tubulin binding) does not depend on hormone-receptor status, it mechanistically explains efficacy across ER-positive, ER-negative, and hormone-resistant breast cancer subtypes alike — which is consistent with why the model scores these subtypes so highly. This strengthens the plausibility of the *biology*, but does not change the conclusion that this is a known-indication reconfirmation rather than a new discovery requiring separate regulatory pursuit.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| female breast carcinoma | L1 | 20 | 0 | 5 Phase 3 trial(s), 7 Phase 2 trial(s) |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00991263](https://clinicaltrials.gov/study/NCT00991263) | N/A (translational) | Completed | 3,677 | Landmark analysis of breast cancer intrinsic subtypes and paclitaxel benefit, using CALGB 9344/9741 trial samples — foundational evidence for paclitaxel's role in adjuvant therapy. |
+| [NCT07327021](https://clinicaltrials.gov/study/NCT07327021) | Phase 2 | Recruiting | 54 | MRI-guided neoadjuvant de-escalation trial in stage II–III triple-negative breast cancer (TNBC). |
+| [NCT00272987](https://clinicaltrials.gov/study/NCT00272987) | Phase 3 | Terminated | 63 | Double-blind RCT of paclitaxel + trastuzumab ± lapatinib in ErbB2-overexpressing metastatic breast cancer; stopped early. |
+| [NCT01275677](https://clinicaltrials.gov/study/NCT01275677) | Phase 3 | Completed | 3,270 | Adjuvant chemotherapy (incl. weekly paclitaxel) alone vs. plus trastuzumab in node-positive/high-risk HER2-low breast cancer. |
+| [NCT00433420](https://clinicaltrials.gov/study/NCT00433420) | Phase 3 | Active, not recruiting | 2,000 | EC→paclitaxel vs. FEC→paclitaxel (q3w or q2w with pegfilgrastim support) in node-positive breast cancer. |
+| [NCT00003088](https://clinicaltrials.gov/study/NCT00003088) | Phase 3 | Completed | 2,005 | Sequential doxorubicin/paclitaxel/cyclophosphamide vs. concurrent AC→paclitaxel at different intervals in node-positive stage II/IIIA breast cancer. |
+| [NCT02125344](https://clinicaltrials.gov/study/NCT02125344) | Phase 3 | Completed | 961 | GeparOcto: two dose-dense, dose-intensified neoadjuvant regimens (incl. paclitaxel) in high-risk early breast cancer. |
+| [NCT01901146](https://clinicaltrials.gov/study/NCT01901146) | Phase 3 | Completed | 725 | Double-blind biosimilar comparison (ABP 980 vs. trastuzumab, paclitaxel backbone) in HER2-positive early breast cancer. |
+| [NCT00915018](https://clinicaltrials.gov/study/NCT00915018) | Phase 2 | Completed | 479 | Neratinib + paclitaxel vs. trastuzumab + paclitaxel as first-line therapy for ErbB2-positive metastatic breast cancer. |
+| [NCT00553358](https://clinicaltrials.gov/study/NCT00553358) | Phase 3 | Completed | 455 | Neo-ALTTO: neoadjuvant lapatinib, trastuzumab, and their combination, all plus paclitaxel, in HER2-positive primary breast cancer. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [31783552](https://pubmed.ncbi.nlm.nih.gov/31783552/) | 2019 | Review | Biomolecules | Comprehensive review of paclitaxel's mechanistic and clinical effects in breast cancer, including resistance mechanisms. |
+| [11147586](https://pubmed.ncbi.nlm.nih.gov/11147586/) | 2000 | Cohort/Comparative | Cancer | Phase II trial: doxorubicin + paclitaxel efficacy/toxicity in advanced breast carcinoma; role of prior adjuvant anthracycline exposure. |
+| [9282422](https://pubmed.ncbi.nlm.nih.gov/9282422/) | 1997 | Review | Drug and Therapeutics Bulletin | Early review documenting extension of taxane licensure to first-line breast and ovarian cancer treatment. |
+| [39317691](https://pubmed.ncbi.nlm.nih.gov/39317691/) | 2024 | — | Chem Biol Drug Des | Explores paclitaxel combination therapies against breast carcinoma and identifies in vivo biomarkers using patient-derived models. |
+| [39009452](https://pubmed.ncbi.nlm.nih.gov/39009452/) | 2024 | — | J Immunother Cancer | Paclitaxel's effect on tumor-associated macrophages to enhance PD-1 blockade efficacy in TNBC. |
+| [24823476](https://pubmed.ncbi.nlm.nih.gov/24823476/) | 2014 | — | Nature Communications | Identifies TEKT4 germline variants enriched in breast cancer resistant to paclitaxel. |
+| [32461977](https://pubmed.ncbi.nlm.nih.gov/32461977/) | 2020 | — | BioMed Research International | Real-world study: neoadjuvant epirubicin/cyclophosphamide + weekly paclitaxel + trastuzumab in HER2+ breast carcinoma. |
+| [17272681](https://pubmed.ncbi.nlm.nih.gov/17272681/) | 2007 | — | Molecular Pharmacology | Mechanistic study on reversing stathmin-mediated resistance to paclitaxel and vinblastine in breast carcinoma cells. |
+| [9164198](https://pubmed.ncbi.nlm.nih.gov/9164198/) | 1997 | — | J Clin Oncol | ECOG Phase II trial of biweekly paclitaxel + cisplatin in advanced breast carcinoma. |
+| [11745249](https://pubmed.ncbi.nlm.nih.gov/11745249/) | 2001 | — | Cancer | Role of paclitaxel in multimodality treatment for inflammatory breast carcinoma. |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EMA marketing authorization records are present in this evidence pack (`taiwan_regulatory.total_licenses = 0`, market status: Not Marketed). No product-level authorization table can be generated.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Cytotoxicity
+
+Paclitaxel is a conventional cytotoxic chemotherapy agent (taxane class).
+
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Conventional cytotoxic (Taxane class — microtubule-stabilizing agent, β-tubulin binding) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
+
+*Note: Detailed toxicity/monitoring data are subject to a Blocking data gap in this evidence pack (missing TFDA/EMA product label) and cannot be sourced beyond the general drug-class classification above.*
+
+---
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- The evidence pack flags a **Blocking** data gap (missing TFDA/EMA label — warnings, contraindications, DDI), which by definition prevents completion of the S1 safety evaluation regardless of clinical efficacy evidence.
+- The evidence pack's own mechanistic rationale indicates the top-ranked candidate (and several related subtype candidates: ER-negative, ER-positive, and hormone-resistant breast cancer) most likely represents Paclitaxel's **already-established standard indication**, misclassified as a "new prediction" due to a missing `original_indications` field — not a genuine repurposing discovery.
+- The drug currently has no EU marketing authorization on record in this dataset (0 licenses), so no regulatory pathway context is available for a "Go" decision.
+
+**To proceed, the following is needed:**
+- Obtain the official TFDA/EMA-approved product label (warnings, contraindications, drug interactions) to complete the S1 safety evaluation.
+- Retrieve the formal DrugBank mechanism-of-action record to replace the current data gap.
+- Re-verify the `original_indications` field against an authoritative source; if Paclitaxel's approved breast cancer indication is confirmed, reclassify this candidate as "known indication" rather than a repurposing opportunity, and re-run TxGNN scoring excluding already-approved indications.
+- Prioritize evaluation of the genuinely novel, evidence-free candidates in this pack (e.g., parameningeal embryonal rhabdomyosarcoma, botryoid-type embryonal rhabdomyosarcoma of the vagina — both L5, zero trials/literature) only after preclinical mechanistic validation, given they currently have no supporting evidence.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

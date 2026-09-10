@@ -1,132 +1,101 @@
 ---
 layout: default
 title: Eravacycline
-description: "Eravacycline drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 219
+parent: 僅模型預測 (L5)
+nav_order: 228
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Eravacycline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Eravacycline: From Complicated Intra-abdominal Infections to Bronchitis
+
+## One-Sentence Summary
+
+Eravacycline is a fourth-generation tetracycline (fluorocycline) antibiotic, currently indicated for complicated intra-abdominal infections. The TxGNN model predicts it may be effective for **Bronchitis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph association with no direct evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Eravacycline |
-| DrugBank ID | [DB12329](https://go.drugbank.com/drugs/DB12329) |
-| Brand Names (EU) | Xerava |
+| Item | Content |
+|------|------|
+| Original Indication | Complicated intra-abdominal infections (cIAI) |
+| Predicted New Indication | Bronchitis |
+| TxGNN Prediction Score | 96.85% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 96.85% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Xerava is indicated in adolescents from the age of 12 years weighing at least 50 kg, and in adults, for the treatment of complicated intra-abdominal infections (cIAI). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Currently, detailed mechanism of action data is not available. Based on known information, eravacycline is a broad-spectrum fluorocycline antibiotic active against many Gram-positive, Gram-negative, and anaerobic organisms, with proven efficacy in complicated intra-abdominal infections.
 
----
+Mechanistically, if the underlying pathology of bronchitis is bacterial, it could theoretically fall within eravacycline's antimicrobial spectrum. However, its approved indication and available data are limited to intra-abdominal infection, and there is no pharmacokinetic data (e.g., lung tissue penetration) or clinical experience supporting its use in respiratory tract infections. The high TxGNN score appears to reflect a graph-level association rather than a validated pharmacological rationale.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | bronchitis | 96.85% | DL |
-| 2 | laryngotracheitis | 86.51% | DL |
-| 3 | bronchial neoplasm (disease) | 85.97% | DL |
-| 4 | conjunctivitis | 85.88% | DL |
-| 5 | sclerosing cholangitis | 84.42% | DL |
-| 6 | autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 77.54% | DL |
-| 7 | resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta | 77.46% | DL |
-| 8 | brain small vessel disease 1 with or without ocular anomalies | 76.50% | DL |
-| 9 | diabetic nephropathy | 76.05% | DL |
-| 10 | rheumatoid arthritis | 73.27% | DL |
-| 11 | rhinitis | 72.99% | DL |
-| 12 | pityriasis simplex | 72.64% | DL |
-| 13 | obstructive lung disease | 72.27% | DL |
-| 14 | irritable bowel syndrome | 71.68% | DL |
-| 15 | infective urethral stricture | 71.63% | DL |
-| 16 | conjunctivitis (disease) | 71.31% | DL |
-| 17 | hyperthyroidism | 71.28% | DL |
-| 18 | post-bacterial disorder | 70.39% | DL |
-| 19 | postinfectious vasculitis | 70.22% | DL |
-| 20 | Chagas cardiomyopathy | 69.72% | DL |
-
-*Showing top 20 of 50 predictions.*
+Eravacycline is also only available as an intravenous formulation, which further limits its practical suitability for an outpatient condition such as bronchitis, where oral antibiotics are the standard of care.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
 ---
 
-## Citation
+## Conclusion and Next Steps
 
-If using this data, please cite:
+**Decision: Hold**
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Rationale:**
+This candidate is supported only by a TxGNN model score (L5), with no clinical trials, published literature, or mechanistic/pharmacokinetic data linking eravacycline to bronchitis. The IV-only formulation further limits clinical feasibility for this indication.
+
+**To proceed, the following is needed:**
+- Confirmed mechanism of action data (currently a data gap)
+- TFDA/EMA label warnings and contraindications (currently a data gap, blocking safety review)
+- Pharmacokinetic data on lung tissue penetration
+- Preclinical or clinical evidence specific to respiratory tract infections
+- Reassessment of route compatibility (IV-only vs. outpatient bronchitis treatment norms)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

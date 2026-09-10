@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Evolocumab
-description: "Evolocumab drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 234
+parent: 僅模型預測 (L5)
+nav_order: 243
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Evolocumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Evolocumab: From Hypercholesterolemia to Symptomatic Hemophilia in Female Carriers
+
+## One-Sentence Summary
+
+Evolocumab is a PCSK9-inhibitor monoclonal antibody established for LDL-cholesterol lowering (its formal original-indication record is not populated in this Evidence Pack).
+The TxGNN model's top prediction suggests possible relevance to **symptomatic hemophilia in female carriers**,
+but this is currently supported by **0 clinical trials** and **0 publications** — the prediction is model-output only.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Evolocumab |
-| DrugBank ID | [DB09303](https://go.drugbank.com/drugs/DB09303) |
-| Brand Names (EU) | Repatha |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in this Evidence Pack (`taiwan_regulatory.licenses` is empty; `original_indications` is empty) |
+| Predicted New Indication | Symptomatic form of hemophilia in female carriers |
+| TxGNN Prediction Score | 99.82% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.82% |
+| EU Market Status | 未上市 (Not Marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Hypercholesterolaemia and mixed dyslipidaemia Repatha is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:  in combination with a statin or statin with other lipid lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin or, alone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicat
+Currently, detailed mechanism of action data for evolocumab is not available in this Evidence Pack (`original_moa` = Data Gap). Based on the mechanistic notes attached to this prediction, evolocumab is a PCSK9 inhibitor that acts on the LDL-receptor (LDLR) recycling pathway to lower LDL-cholesterol — a pathway with no established, direct connection to coagulation factor synthesis or clearance.
 
----
+The rationale for this specific prediction explicitly flags this as a weak link: while some LDLR-family members (e.g., LRP1) participate in aspects of coagulation-factor metabolism, there is no literature support for PCSK9 inhibition affecting the hemophilia phenotype, and the direction of any effect is unclear — it could plausibly be neutral or even increase bleeding risk rather than help.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | symptomatic form of hemophilia in female carriers | 99.82% | DL |
-| 2 | familial apolipoprotein C-II deficiency | 99.50% | DL |
-| 3 | thrombocytopenic purpura | 99.42% | DL |
-| 4 | factor XI deficiency | 99.29% | DL |
-| 5 | hemophilia A with vascular abnormality | 99.22% | DL |
-| 6 | disease of catalytic activity | 99.08% | DL |
-| 7 | hemorrhagic disease of newborn | 98.89% | DL |
-| 8 | ichthyosis, X-linked, without steroid sulfatase deficiency | 98.84% | DL |
-| 9 | inherited thrombophilia | 98.82% | DL |
-| 10 | disorder of other vitamins and cofactors metabolism and transport | 98.80% | DL |
-| 11 | adenosine deaminase deficiency | 98.80% | DL |
-| 12 | xanthomatosis (disease) | 98.78% | DL |
-| 13 | esophageal varices without bleeding | 98.75% | DL |
-| 14 | esophageal varices with bleeding | 98.75% | DL |
-| 15 | 46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect | 98.73% | DL |
-| 16 | 3-hydroxyacyl-CoA dehydrogenase deficiency | 98.70% | DL |
-| 17 | cholesterol catabolic process disease | 98.66% | DL |
-| 18 | coagulation protein disease | 98.66% | DL |
-| 19 | 46,XY disorder of sex development due to a cholesterol synthesis defect | 98.64% | DL |
-| 20 | neutral lipid storage disease | 98.56% | DL |
-
-*Showing top 20 of 51 predictions.*
+This weakness is reinforced by the broader prediction list: ranks 2–10 include several mutually contradictory disease categories (e.g., bleeding disorders like "hemorrhagic disease of newborn" alongside a pro-thrombotic condition like "inherited thrombophilia"), plus non-specific ontology labels ("disease of catalytic activity," "disorder of other vitamins and cofactors metabolism and transport") that are not actionable disease entities. Taken together, this pattern indicates KG-embedding similarity noise rather than a coherent, mechanistically grounded repurposing signal.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Evolocumab currently has no EU marketing authorization recorded in this dataset (market status: 未上市 / Not Marketed; 0 authorizations on file).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: `taiwan_regulatory` marks TFDA label warnings/contraindications as a Blocking data gap (DG001) — this must be resolved via TFDA label lookup before any S1 safety evaluation can proceed.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top prediction (symptomatic hemophilia in female carriers) has no supporting clinical trials or literature (L5, model prediction only), and its own mechanistic rationale describes the drug-disease link as absent or directionally uncertain. Combined with contradictory signals across the rest of the top-10 list, there is currently no basis to advance this candidate beyond a research hypothesis.
+
+**To proceed, the following is needed:**
+- TFDA label warnings/contraindications (blocking gap, DG001)
+- Confirmed mechanism of action data via DrugBank API (DG002)
+- Original indication and EU licensing records (currently empty in this pack)
+- Preclinical or mechanistic studies specifically linking PCSK9/LDLR pathway activity to coagulation factor biology, if this hypothesis is to be pursued further
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

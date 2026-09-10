@@ -1,134 +1,94 @@
 ---
 layout: default
 title: Eptinezumab
-description: "eptinezumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 218
+parent: 僅模型預測 (L5)
+nav_order: 227
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Eptinezumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Eptinezumab: From Migraine Prevention to Migraine with Brainstem Aura
+
+## One-Sentence Summary
+
+Eptinezumab is an anti-CGRP (calcitonin gene-related peptide) monoclonal antibody already approved for prevention of episodic/chronic migraine. The TxGNN model predicts it may also be effective for **migraine with brainstem aura** (formerly basilar-type migraine), but this direction currently has **0 clinical trials** and **0 publications** in this evidence pack, and this subtype has historically been excluded from major anti-CGRP mAb trials.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Eptinezumab |
-| DrugBank ID | [DB14040](https://go.drugbank.com/drugs/DB14040) |
-| Brand Names (EU) | Vyepti |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.94% |
+| Item | Content |
+|------|------|
+| Original Indication | Migraine prevention (episodic/chronic), per the drug's known approved use — not separately confirmed in local regulatory records here |
+| Predicted New Indication | Migraine with brainstem aura |
+| TxGNN Prediction Score | 99.94% |
+| Evidence Level | L3 |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available (DrugBank query pending, flagged as a High-severity data gap). Based on known information, Eptinezumab is an anti-CGRP monoclonal antibody already approved for migraine prevention in adults with episodic or chronic migraine. CGRP signaling is the central pathogenic pathway in migraine, including migraine with aura.
+
+Migraine with brainstem aura is a clinical subtype of migraine with aura, sharing the same underlying trigeminovascular/CGRP pathway as the already-approved indication — making the mechanistic link biologically plausible as a subgroup extrapolation rather than a novel mechanism.
+
+However, this subtype involves brainstem-localizing aura symptoms, and major anti-CGRP mAb Phase 3 trials (e.g., PROMISE-1/2) have typically excluded patients with basilar-type/brainstem aura migraine, out of caution regarding the vasoconstrictive/vasodilatory implications of blocking CGRP in a population with suspected vertebrobasilar vascular involvement. This means the prediction rests on mechanistic reasoning from the parent indication rather than direct subtype-specific evidence.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+No marketing authorization on record for this product in this evidence pack (0 licenses; market status: not marketed).
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*Note: TFDA label warnings/contraindications are marked as a Blocking data gap (DG001) — this must be resolved before any S1 safety review can proceed, particularly given the theoretical vascular considerations relevant to the brainstem aura subtype.*
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The mechanistic rationale (shared CGRP pathway with the approved migraine indication) is plausible, but there is no direct clinical trial or literature evidence for this specific subtype, and a Blocking-severity safety data gap (missing TFDA label/warnings) currently prevents even an initial safety review.
+
+**To proceed, the following is needed:**
+- TFDA label/warnings and contraindications (DG001, Blocking)
+- Confirmed mechanism of action detail via DrugBank API (DG002, High)
+- Targeted literature/trial search specifically for CGRP monoclonal antibodies in basilar-type/brainstem aura migraine, since large pivotal trials excluded this subgroup
+- Specific evaluation of vascular safety signals given the historical exclusion rationale for this subtype in CGRP mAb trials
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Vyepti is indicated for the prophylaxis of migraine in adults who have at least 4 migraine days per month.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | migraine with brainstem aura | 99.94% | DL |
-| 2 | migraine disorder | 99.93% | DL |
-| 3 | migraine with or without aura, susceptibility to | 99.30% | DL |
-| 4 | atrophoderma vermiculata | 98.99% | DL |
-| 5 | ulerythema ophryogenesis | 98.58% | DL |
-| 6 | heparin cofactor 2 deficiency | 96.76% | DL |
-| 7 | antithrombin deficiency type 2 | 96.24% | DL |
-| 8 | factor 5 excess with spontaneous thrombosis | 96.12% | DL |
-| 9 | thrombophilia | 94.15% | DL |
-| 10 | amenorrhea (disease) | 92.37% | DL |
-| 11 | sciatic neuropathy | 89.90% | DL |
-| 12 | hemorrhagic disease of newborn | 81.26% | DL |
-| 13 | severe nonproliferative diabetic retinopathy | 67.74% | DL |
-| 14 | hyperemesis gravidarum (disease) | 64.31% | DL |
-| 15 | hyperparathyroidism, primary, caused by water clear cell hyperplasia | 60.22% | DL |
-| 16 | omphalocele (disease) | 59.83% | DL |
-| 17 | prekallikrein deficiency | 59.40% | DL |
-| 18 | sudden arrhythmia death syndrome | 59.40% | DL |
-| 19 | Coronavinae infectious disease | 58.82% | DL |
-| 20 | tibial adamantinoma | 58.49% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

@@ -1,132 +1,113 @@
 ---
 layout: default
 title: Mometasone
-description: "Mometasone drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 389
+parent: 僅模型預測 (L5)
+nav_order: 401
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Mometasone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Mometasone: From Topical Corticosteroid Use to Primary Cutaneous T-Cell Lymphoma
+
+## One-Sentence Summary
+
+Mometasone is clinically known as a topical/intranasal corticosteroid, though no approved indication record is available in this dataset.
+The TxGNN model predicts it may be effective for **Primary Cutaneous T-Cell Lymphoma (CTCL)**,
+with **no clinical trials** and only **2 case-report-level publications** currently supporting this direction — neither of which directly studies mometasone in CTCL.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Mometasone |
-| DrugBank ID | [DB00764](https://go.drugbank.com/drugs/DB00764) |
-| Brand Names (EU) | Mometasone |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.36% |
+| Item | Content |
+|------|------|
+| Original Indication | Not on file in this dataset. Mometasone is generically known as a mid-potency topical/inhaled corticosteroid (e.g., dermatitis, allergic rhinitis, asthma); no drug-specific indication text or MOA was retrievable. |
+| Predicted New Indication | Primary Cutaneous T-Cell Lymphoma |
+| TxGNN Prediction Score | 99.36% |
+| Evidence Level | L4 |
+| Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Enerzair Breezhaler is indicated as a maintenance treatment of asthma in adult patients not adequately controlled with a maintenance combination of a long acting beta2 agonist and a high dose of an inhaled corticosteroid who experienced one or more asthma exacerbations in the previous year.
+Currently, detailed mechanism of action data for mometasone is not available (Data Gap). Based on known information, mometasone belongs to the topical corticosteroid class; its anti-inflammatory efficacy in common dermatologic and allergic conditions is well established, but the drug-specific MOA record needed to formally assess mechanistic relevance to CTCL is missing.
 
----
+The rationale linking mometasone to primary cutaneous T-cell lymphoma is class-based rather than drug-specific: topical corticosteroids such as clobetasol and triamcinolone are guideline-recommended first-line treatments for early-stage mycosis fungoides (the most common CTCL subtype), acting through anti-inflammatory effects and induction of apoptosis in malignant T cells. Since mometasone is a mid-potency member of the same drug class, mechanistic extrapolation is plausible in principle.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | primary cutaneous T-cell lymphoma | 99.36% | DL |
-| 2 | Crohn's colitis | 98.81% | DL |
-| 3 | myelodysplastic syndrome | 98.34% | DL |
-| 4 | refractory cytopenia of childhood | 98.06% | DL |
-| 5 | unclassified myelodysplastic syndrome | 97.94% | DL |
-| 6 | partial deletion of the long arm of chromosome 5 | 97.86% | DL |
-| 7 | cystic teratoma | 97.79% | DL |
-| 8 | spinal cord dermoid cyst | 97.75% | DL |
-| 9 | aregenerative anemia | 97.75% | DL |
-| 10 | disease of orbital part of eye adnexa | 97.73% | DL |
-| 11 | severe congenital hypochromic anemia with ringed sideroblasts | 97.71% | DL |
-| 12 | renin-angiotensin-aldosterone system-blocker-induced angioedema | 97.69% | DL |
-| 13 | dermoid cyst of ovary | 97.62% | DL |
-| 14 | disease of orbital region | 97.41% | DL |
-| 15 | nephrotic syndrome | 97.22% | DL |
-| 16 | granulomatous slack skin disease | 97.21% | DL |
-| 17 | Sezary syndrome | 97.13% | DL |
-| 18 | primary cutaneous B-cell lymphoma | 96.98% | DL |
-| 19 | folliculotropic mycosis fungoides | 96.69% | DL |
-| 20 | mycotic corneal ulcer | 96.39% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, this remains an indirect, class-level inference rather than evidence specific to mometasone. One of the two retrieved publications actually reports mometasone **failing** to control a related lymphoproliferative skin condition (cutaneous pseudolymphoma) before the patient was switched to tapinarof, and the other publication does not mention mometasone at all. This weakens rather than strengthens the direct evidentiary basis for this prediction.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Case Report | Proceedings (Baylor University Medical Center) | Refractory cutaneous pseudolymphoma (T-cell lymphoproliferative, CTCL-mimicking) case that **failed** treatment with mometasone and tacrolimus before responding to tapinarof. |
+| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Case Report | Journal of Cutaneous Pathology | Describes a pediatric CD8+CD56+ mycosis fungoides (CTCL subtype) case; illustrative of disease presentation but does not evaluate mometasone treatment. |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations on file — this drug is currently not marketed according to the available regulatory data.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information. Note: TFDA label warnings/contraindications for this drug could not be retrieved (blocking data gap, DG001) and safety evaluation (Stage S1) cannot proceed until this is resolved.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The evidence level is L4, supported only by two case reports that are either unrelated to mometasone treatment or report treatment failure, with no clinical trials specific to mometasone in CTCL. Combined with a blocking data gap on TFDA safety labeling and the drug currently being unmarketed, there is insufficient evidence and safety data to advance this candidate.
+
+**To proceed, the following is needed:**
+- TFDA label (warnings, contraindications) — currently a blocking data gap (DG001)
+- Drug-specific mechanism of action data for mometasone (DG002)
+- Literature or trial evidence directly evaluating mometasone (not just the corticosteroid class) in CTCL/mycosis fungoides
+- Clarification of regulatory/market pathway given current "not marketed" status
+
+*Note: Nine additional predicted indications (rank 2–10, e.g., Crohn's colitis, myelodysplastic syndrome subtypes) were also generated but carry L5 evidence (model prediction only, no supporting literature or trials) and are recommended for Hold without further action at this time.*
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

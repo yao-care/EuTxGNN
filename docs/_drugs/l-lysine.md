@@ -2,7 +2,7 @@
 layout: default
 title: L-Lysine
 parent: 僅模型預測 (L5)
-nav_order: 232
+nav_order: 336
 evidence_level: L5
 indication_count: 10
 ---

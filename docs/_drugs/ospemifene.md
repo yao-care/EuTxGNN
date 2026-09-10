@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Ospemifene
-description: "Ospemifene drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 428
+parent: 僅模型預測 (L5)
+nav_order: 440
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Ospemifene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Ospemifene: From Menopausal Vulvovaginal Atrophy to Leprosy
+
+## One-Sentence Summary
+
+Ospemifene is a selective estrogen receptor modulator (SERM); the evidence pack itself does not confirm an original indication (publicly known use is dyspareunia due to menopausal vulvovaginal atrophy, but this is not documented in the current dataset). The TxGNN model's top prediction is **Leprosy**, but this direction is currently supported by **zero clinical trials and zero relevant literature** — it is a pure model-score prediction with no mechanistic rationale identified.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ospemifene |
-| DrugBank ID | [DB04938](https://go.drugbank.com/drugs/DB04938) |
-| Brand Names (EU) | Senshio |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in evidence pack (publicly known: dyspareunia due to menopausal vulvovaginal atrophy — unconfirmed here) |
+| Predicted New Indication | Leprosy |
+| TxGNN Prediction Score | 98.98% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 98.98% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Senshio is indicated for the treatment of moderate to severe symptomatic vulvar and vaginal atrophy (VVA) in post-menopausal women.
+Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on the limited information in this evidence pack, Ospemifene is characterized as a **SERM (Selective Estrogen Receptor Modulator)** — this classification is echoed consistently across the rationale text for every predicted indication in this pack, but no further mechanistic detail is provided.
 
----
+The relationship between the (unconfirmed) original indication and the predicted new indication cannot be meaningfully assessed without MOA data. For leprosy specifically, the evidence pack explicitly states: *"no known mechanistic link — Ospemifene as a SERM has no known intersection with M. leprae infection or immune pathways; under the MOA data gap, no plausible hypothesis can be constructed."*
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | leprosy | 98.98% | DL |
-| 2 | pulmonary hypertension | 98.95% | DL |
-| 3 | kyphoscoliotic heart disease | 98.78% | DL |
-| 4 | migraine with or without aura, susceptibility to | 98.69% | DL |
-| 5 | migraine disorder | 98.53% | DL |
-| 6 | migraine with brainstem aura | 98.27% | DL |
-| 7 | nephrogenic syndrome of inappropriate antidiuresis | 97.99% | DL |
-| 8 | rheumatoid arthritis | 97.43% | DL |
-| 9 | atrophoderma vermiculata | 97.21% | DL |
-| 10 | ulerythema ophryogenesis | 96.78% | DL |
-| 11 | brachydactyly-syndactyly syndrome | 96.56% | DL |
-| 12 | coronary artery disease | 96.46% | DL |
-| 13 | pulmonary hypertension, primary, autosomal recessive | 96.36% | DL |
-| 14 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 96.21% | DL |
-| 15 | hypertrichosis (disease) | 96.09% | DL |
-| 16 | persistent Mullerian duct syndrome | 95.80% | DL |
-| 17 | anomalous left coronary artery from the pulmonary artery | 95.78% | DL |
-| 18 | obsolete patella aplasia, coxa vara, and tarsal synostosis | 95.60% | DL |
-| 19 | Ambras type hypertrichosis universalis congenita | 95.52% | DL |
-| 20 | malformation syndrome with odontal and/or periodontal component | 95.49% | DL |
-
-*Showing top 20 of 51 predictions.*
+In short, this prediction is a pure network/model-score output (TxGNN rank 9682 out of the full candidate space) with **no biological hypothesis currently supporting it**. It should be treated as exploratory only, not as a mechanistically grounded repurposing candidate.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+This drug is currently **not marketed** in the region covered by this evidence pack (0 authorizations on record), so no license table is available.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: TFDA/regulatory label warnings and contraindications are recorded as a Blocking data gap (DG001) — this drug cannot yet proceed to a formal S1 safety screening stage.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (Leprosy) has no supporting clinical trials, no relevant literature, and no identifiable mechanistic link — the evidence pack's own scoring explicitly assigns L5/S0/Hold. Combined with the Blocking-severity gap in regulatory safety data (DG001) and the High-severity gap in MOA data (DG002), this candidate does not meet the minimum evidence bar to advance.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (resolve DG001 — currently blocking any safety screening)
+- Confirmed mechanism of action data via DrugBank or primary literature (resolve DG002)
+- Confirmation of the drug's actual original approved indication(s), since `original_indications` is currently empty
+- If pursuing repurposing further, prioritize re-screening against indications with at least preliminary mechanistic plausibility (e.g., rheumatoid arthritis or migraine, where an estrogen-pathway hypothesis is at least theoretically stated) rather than leprosy, and independently verify that any retrieved literature is drug-specific rather than keyword-matched noise (as seen in the migraine literature set, which is entirely epilepsy-genetics content unrelated to Ospemifene)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

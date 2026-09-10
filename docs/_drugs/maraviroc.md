@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Maraviroc
-description: "Maraviroc drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 363
+parent: 僅模型預測 (L5)
+nav_order: 375
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Maraviroc
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Maraviroc: From HIV-1 Infection to Multiple Endocrine Neoplasia
+
+## One-Sentence Summary
+
+> Maraviroc is a CCR5 antagonist originally used to treat HIV-1 infection (CCR5-tropic strains) by blocking viral entry into immune cells.
+> The TxGNN model predicts it may be effective for **Multiple Endocrine Neoplasia**, with a prediction score of **99.82%**,
+> but **no clinical trials and no supporting literature** currently exist for this indication — the drug's own repurposing rationale explicitly notes there is no known biological connection.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Maraviroc |
-| DrugBank ID | [DB04835](https://go.drugbank.com/drugs/DB04835) |
-| Brand Names (EU) | Celsentri |
+| Item | Content |
+|------|---------|
+| Original Indication | HIV-1 infection (CCR5-tropic strains) — inferred from known drug class; not present in this evidence pack's license data |
+| Predicted New Indication | Multiple Endocrine Neoplasia |
+| TxGNN Prediction Score | 99.82% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.82% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Celsentri, in combination with other antiretroviral medicinal products, is indicated for treatment experienced adults, adolescents and children of 2 years of age and older and weighing at least 10 kg infected with only CCR5-tropic HIV-1 detectable
+Currently, detailed mechanism of action data is not available in this evidence pack (`original_moa: [Data Gap]`). Based on background information referenced in the repurposing rationale, Maraviroc is a **CCR5 antagonist**, acting on HIV-1 co-receptor binding to block viral entry and on chemokine-mediated immune cell trafficking. Its efficacy in HIV-1 infection is well established in this drug class.
 
----
+Multiple endocrine neoplasia (MEN), however, is driven by germline mutations in the **RET** or **MEN1** genes, causing tumor development across endocrine glands. There is no known mechanistic overlap between CCR5 signaling and RET/MEN1-driven tumorigenesis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | multiple endocrine neoplasia | 99.82% | DL |
-| 2 | acne (disease) | 99.76% | DL |
-| 3 | primary cutaneous T-cell lymphoma | 99.72% | DL |
-| 4 | pediatric systemic lupus erythematosus | 99.71% | DL |
-| 5 | primary cutaneous T-cell non-Hodgkin lymphoma | 99.50% | DL |
-| 6 | primary cutaneous B-cell lymphoma | 99.38% | DL |
-| 7 | candidiasis | 99.28% | DL |
-| 8 | complement component 4a deficiency | 99.24% | DL |
-| 9 | cytomegalovirus infection | 99.23% | DL |
-| 10 | HER2 positive breast carcinoma | 99.22% | DL |
-| 11 | hereditary neuroendocrine tumor of small intestine | 99.16% | DL |
-| 12 | psoriasis | 99.09% | DL |
-| 13 | Sezary syndrome | 99.02% | DL |
-| 14 | infectious bovine rhinotracheitis | 99.01% | DL |
-| 15 | malignant catarrh | 99.01% | DL |
-| 16 | nephrotic syndrome | 99.01% | DL |
-| 17 | Ewing sarcoma | 98.95% | DL |
-| 18 | eye disease | 98.91% | DL |
-| 19 | amenorrhea (disease) | 98.90% | DL |
-| 20 | gestational trophoblastic neoplasm | 98.88% | DL |
-
-*Showing top 20 of 50 predictions.*
+The evidence pack's own rationale is explicit on this point: *"與多發性內分泌腫瘤(MEN)之腫瘤發生機轉（RET/MEN1基因突變）無已知生物學連結，純屬TxGNN高分預測，無機轉支持"* — i.e., this is a high-scoring statistical prediction from the TxGNN model with **no mechanistic or biological support**. It should be treated as a research hypothesis at most, not a plausible repurposing candidate at this stage.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations currently registered — this drug is **not marketed** in this jurisdiction (`market_status: 未上市`, `total_licenses: 0`).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This is an L5-level prediction — a TxGNN score with zero supporting clinical trials or literature. The rationale text itself confirms there is no known biological link between Maraviroc's CCR5-antagonist mechanism and MEN pathogenesis, so there is no basis to advance this candidate.
+
+**To proceed, the following is needed:**
+- TFDA/regulatory label (warnings, contraindications) — currently a **blocking** data gap (DG001)
+- Full mechanism of action (MOA) data via DrugBank — currently a **high-severity** data gap (DG002)
+- Preclinical or mechanistic studies directly linking CCR5 antagonism to RET/MEN1-driven tumorigenesis
+- If no such mechanistic link can be established, this candidate should be deprioritized in favor of other predicted indications in this drug's portfolio (e.g., HER2-positive breast carcinoma, rank 10, which has direct CCL5/CCR5-ERK pathway evidence and may warrant separate evaluation)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

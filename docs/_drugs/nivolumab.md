@@ -1,132 +1,134 @@
 ---
 layout: default
 title: Nivolumab
-description: "Nivolumab drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 408
+parent: 僅模型預測 (L5)
+nav_order: 420
 evidence_level: L5
-indication_count: 52
+indication_count: 10
 ---
 
 # Nivolumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Nivolumab: From Cutaneous Melanoma to Non-Cutaneous Melanoma
+
+## One-Sentence Summary
+
+> Nivolumab is an anti-PD-1 immune checkpoint inhibitor with established efficacy in cutaneous melanoma.
+> The TxGNN model predicts it may also be effective for **Non-Cutaneous Melanoma** (mucosal, acral, uveal and other rare subtypes),
+> with **20 clinical trials** and **0 dedicated publications** currently supporting this specific direction (broader subtype-level evidence exists across the wider prediction set).
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Nivolumab |
-| DrugBank ID | [DB09035](https://go.drugbank.com/drugs/DB09035) |
-| Brand Names (EU) | Opdivo, Opdualag |
-| Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 98.63% |
+| Item | Content |
+|------|------|
+| Original Indication | Cutaneous Melanoma (established efficacy, referenced in repurposing rationale; not separately listed in this evidence pack's regulatory data) |
+| Predicted New Indication | Non-Cutaneous Melanoma |
+| TxGNN Prediction Score | 98.41% |
+| Evidence Level | L2 |
+| EU Market Status | ✗ Not Marketed (per this evidence pack) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Opdualag is indicated for the first line treatment of advanced (unresectable or metastatic) melanoma in adults and adolescents 12 years of age and older with tumour cell PD L1 expression &lt; 1%.
+Nivolumab is an anti-PD-1 monoclonal antibody that blocks the PD-1/PD-L1 interaction, restoring T-cell–mediated anti-tumor activity. Because this mechanism acts on the host immune system rather than on tumor-specific histology, the efficacy already demonstrated in cutaneous melanoma can in principle be extrapolated to non-cutaneous subtypes (mucosal, acral, uveal). However, non-cutaneous subtypes typically carry a lower tumor mutational burden (TMB), which may reduce response rates compared with cutaneous disease.
 
----
+This mechanistic generalizability is supported empirically: a large national prospective non-interventional study (NCT02990611, n=1,087) and a completed Phase 1/2 trial in a previously treated Asian population (NCT02593786, n=58) both provide real-world and controlled evidence for nivolumab's activity across melanoma presentations beyond the classic cutaneous phenotype. Ongoing sequential-therapy trials in BRAF-mutant disease (NCT03235245, n=271) further support the applicability of nivolumab-based regimens in molecularly and phenotypically diverse melanoma populations.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | metastatic melanoma | 98.63% | DL |
-| 2 | non-cutaneous melanoma | 98.41% | DL |
-| 3 | epithelioid cell melanoma | 98.36% | DL |
-| 4 | CDK4 linked melanoma | 98.28% | DL |
-| 5 | amelanotic skin melanoma | 98.28% | DL |
-| 6 | lentigo maligna melanoma | 98.28% | DL |
-| 7 | malignant melanoma of the mucosa | 98.28% | DL |
-| 8 | superficial spreading melanoma | 98.28% | DL |
-| 9 | balloon cell malignant melanoma | 98.28% | DL |
-| 10 | acral lentiginous melanoma (disease) | 98.28% | DL |
-| 11 | nodular malignant melanoma | 98.28% | DL |
-| 12 | eyelid melanoma | 98.27% | DL |
-| 13 | scrotum melanoma | 98.25% | DL |
-| 14 | choroideremia | 98.18% | DL |
-| 15 | choroidal dystrophy, central areolar | 97.36% | DL |
-| 16 | intestinal obstruction in the newborn due to guanylate cyclase 2C deficiency | 97.09% | DL |
-| 17 | Richter syndrome | 90.76% | DL |
-| 18 | metastatic neoplasm | 90.26% | DL |
-| 19 | malignant spiradenoma | 90.22% | DL |
-| 20 | inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia | 88.16% | DL |
-
-*Showing top 20 of 52 predictions.*
+Across the broader set of TxGNN-predicted melanoma subtypes evaluated in this evidence pack (mucosal, acral lentiginous, epithelioid, nodular, lentigo maligna, amelanotic, balloon cell), the mechanistic rationale is consistently framed as an extrapolation from proven cutaneous melanoma efficacy — with subtype-specific clinical validation available for mucosal and acral lentiginous melanoma in particular (see prediction ranks 4 and 8, both scored L2 with dedicated randomized or cohort trials), while several rarer histologic variants remain supported only by case reports or mechanistic reasoning.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
+*(Non-Cutaneous Melanoma — Rank 1 prediction; trials with assessed relevance grade A–C shown)*
 
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02593786](https://clinicaltrials.gov/study/NCT02593786) | Phase 1/2 | Completed | 58 | CheckMate 077: nivolumab monotherapy in Chinese subjects with previously treated advanced/recurrent solid tumors, including melanoma; direct single-agent efficacy evidence (Grade A) |
+| [NCT02990611](https://clinicaltrials.gov/study/NCT02990611) | N/A (non-interventional) | Completed | 1,087 | National prospective real-world study of nivolumab monotherapy or with ipilimumab in advanced melanoma, including adjuvant setting; broad real-world evidence (Grade A) |
+| [NCT03235245](https://clinicaltrials.gov/study/NCT03235245) | Phase 2 | Active, not recruiting | 271 | EBIN study: sequential targeted therapy (encorafenib+binimetinib) followed by nivolumab+ipilimumab vs. immediate combination immunotherapy in BRAF V600-mutant melanoma; indirect supportive evidence (Grade B) |
+| [NCT05200143](https://clinicaltrials.gov/study/NCT05200143) | Phase 2 | Terminated | 4 | Triplet ipilimumab+nivolumab+cabozantinib in anti-PD-1/PD-L1 refractory melanoma; terminated with very small sample, low evidentiary weight (Grade C) |
 
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+*Note: Numerous additional trials (e.g., NCT02599402/CheckMate 401 Phase 3, n=533) are registered under this prediction but have not yet completed relevance grading ("pending") and are therefore excluded from this table pending review.*
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+Currently no related literature available for this specific prediction (non-cutaneous melanoma).
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+*(Note: dedicated literature evidence supporting nivolumab efficacy in specific non-cutaneous subtypes — e.g., mucosal melanoma [PMID 28056206, Grade 1 CheckMate pooled analysis; PMID 39269143] and acral lentiginous melanoma [PMID 30447078, PMID 36093750] — is available under the corresponding subtype-specific predictions in this evidence pack, ranks 4 and 8.)*
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+According to this evidence pack, Nivolumab currently has **no recorded marketing authorization** (0 authorizations, market status: Not Marketed). No license-level data (authorization number, product name, dosage form, approved indication text) is available for tabulation.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Nivolumab is an oncology agent (immune checkpoint inhibitor) used across multiple melanoma and solid tumor indications, and is therefore evaluated for cytotoxicity considerations below. Note that no DrugBank toxicity data or official mechanism-of-action record was available in this evidence pack (see Data Gaps DG001, DG002); the assessment below is based on drug class and literature-reported adverse event patterns within this evidence pack.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (anti-PD-1 checkpoint inhibitor) — not a conventional cytotoxic chemotherapy agent |
+| Myelosuppression Risk | Low — mechanism is immune-mediated (T-cell activation) rather than direct cytotoxic bone marrow suppression; primary toxicities are immune-related adverse events (irAEs) |
+| Emetogenicity Classification | Low — checkpoint inhibitors are generally minimally emetogenic |
+| Monitoring Items | Cardiac function/troponin (myocarditis reported in literature), liver and renal function, thyroid function, GI symptoms (colitis), pulmonary symptoms (pneumonitis), skin (bullous pemphigoid, cutaneous irAEs) |
+| Handling Protection | Not classified as a conventional cytotoxic hazardous drug; standard biologics/monoclonal antibody handling and infusion-reaction monitoring protocols apply — please refer to the SmPC for full handling requirements |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug-drug interaction data are not available in this evidence pack — this is flagged as a **Blocking** data gap, see Conclusion below.)
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+The anti-PD-1 mechanism of nivolumab has direct empirical support for broader melanoma applicability through a large real-world cohort (n=1,087) and a completed Phase 1/2 trial (n=58), yielding an L2 evidence level for the top-ranked prediction (non-cutaneous melanoma). However, this drug is not currently marketed in the covered jurisdiction and lacks essential safety labeling data, so any progression must be gated on resolving the outstanding data gaps before clinical or regulatory action.
+
+**To proceed, the following is needed:**
+- TFDA/regulatory label warnings and contraindications (DG001 — **Blocking**; required before any S1 safety pre-assessment)
+- Confirmed mechanism-of-action documentation from DrugBank or equivalent source (DG002 — High priority)
+- Subtype-specific prospective trial data for the rarer non-cutaneous histologies currently supported only by case reports (epithelioid, nodular, lentigo maligna, amelanotic, balloon cell subtypes)
+- A structured irAE monitoring plan (cardiac, hepatic, GI, pulmonary, dermatologic) prior to any guardrail-based clinical use
+- EU/local market authorization status verification, given the discrepancy between this drug's international approval history and the "not marketed" status recorded in this evidence pack
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

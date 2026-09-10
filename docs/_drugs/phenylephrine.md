@@ -1,144 +1,124 @@
 ---
 layout: default
 title: Phenylephrine
-description: "phenylephrine drug repurposing predictions from TxGNN. Evidence level L1 with 52 predicted indications."
-parent: Phase 3+ Evidence (L1)
-nav_order: 457
-evidence_level: L1
-indication_count: 52
+parent: 僅模型預測 (L5)
+nav_order: 469
+evidence_level: L5
+indication_count: 10
 ---
 
 # Phenylephrine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **52**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Phenylephrine: From Nasal Congestion to Nasal Cavity Disease
+
+## One-Sentence Summary
+
+> Phenylephrine is a well-established selective α1-adrenergic agonist, with published pharmacology literature describing its use for nasal congestion, hypotension, and asthma. The TxGNN model's top prediction — **Nasal Cavity Disease** — largely reconfirms this already-known decongestant mechanism rather than proposing a genuinely novel indication, supported by **8 clinical trials** and **8 publications**, though most involve combination products or comparator drugs rather than phenylephrine monotherapy.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Phenylephrine |
-| DrugBank ID | [DB00388](https://go.drugbank.com/drugs/DB00388) |
-| Brand Names (EU) | Omidria, Phenylephrine |
-| Evidence Level | L1 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 99.98% |
+| Item | Content |
+|------|---------|
+| Original Indication | Not documented in this evidence pack's regulatory license data (no marketing authorization on file); literature confirms established pharmacological use for nasal congestion, hypotension, and asthma (PMID 31145702) |
+| Predicted New Indication | Nasal Cavity Disease |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L2 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement surgery.
+Detailed formal mechanism-of-action data (DrugBank MOA field) is not available in this evidence pack. However, the prediction's own rationale confirms that phenylephrine is a selective α1-adrenergic agonist acting directly on nasal mucosal vascular smooth muscle, causing vasoconstriction and reducing mucosal congestion and swelling.
 
----
+This mechanism is mechanistically identical to phenylephrine's well-known, long-standing use as an over-the-counter nasal decongestant. The evidence pack's own reasoning explicitly flags this: the "Nasal Cavity Disease" prediction should be understood as **confirmation of an existing pharmacological application rather than a novel repurposing hypothesis**. In other words, the TxGNN model has correctly identified a relationship that is already grounded in decades of clinical practice, rather than surfacing new therapeutic potential.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | pharyngitis | 99.98% | DL |
-| 2 | nasal cavity disease | 99.97% | DL |
-| 3 | acute laryngopharyngitis | 99.97% | DL |
-| 4 | common cold | 99.87% | DL |
-| 5 | papillary conjunctivitis | 99.71% | DL |
-| 6 | headache disorder | 99.44% | DL |
-| 7 | trigeminal autonomic cephalalgia | 99.30% | DL |
-| 8 | faucial diphtheria | 98.67% | DL |
-| 9 | cervical disc degenerative disorder | 98.58% | DL |
-| 10 | nasopharyngitis | 97.82% | DL |
-| 11 | tracheal disease | 97.74% | DL |
-| 12 | atopic conjunctivitis | 96.01% | DL |
-| 13 | rosacea conjunctivitis | 95.68% | DL |
-| 14 | allergic urticaria | 95.47% | DL |
-| 15 | rhinitis | 95.36% | DL |
-| 16 | bronchial disease | 93.86% | DL |
-| 17 | endobronchial leiomyoma | 93.18% | DL |
-| 18 | glossodynia | 93.01% | DL |
-| 19 | endobronchial lipoma | 92.73% | DL |
-| 20 | coccygodynia | 92.73% | DL |
-
-*Showing top 20 of 52 predictions.*
+Supporting evidence includes combination nasal products such as Co-phenylcaine and Kovanaze (phenylephrine/tetracaine), and topical formulations like Polydexa (phenylephrine-containing), which are used clinically for nasal decongestion, procedural anesthesia, and rhinosinusitis. These real-world products reinforce the plausibility of the mechanism, though most trial and literature evidence involves phenylephrine as one component of a combination product rather than as a standalone intervention.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| pharyngitis | L1 | 8 | 2 | 6 Phase 3 trial(s) |
-| nasal cavity disease | L1 | 8 | 0 | 1 Phase 3 trial(s), 3 Phase 2 trial(s) |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03228914](https://clinicaltrials.gov/study/NCT03228914) | Phase 4 | Completed | 20 | Compared topical oxymetazoline vs. epinephrine (both α-agonists) for blood loss/surgical visualization in endoscopic sinus surgery; mechanistic analog, not phenylephrine itself |
+| [NCT00562120](https://clinicaltrials.gov/study/NCT00562120) | Phase 2 | Completed | 21 | Tested an H3-receptor antagonist against nasal allergen-induced congestion; phenylephrine not the study drug |
+| [NCT04104789](https://clinicaltrials.gov/study/NCT04104789) | Phase 2 | Withdrawn | 0 | Kovanaze (phenylephrine/tetracaine nasal spray) vs. articaine for maxillary dental pulpal anesthesia — direct phenylephrine application, withdrawn for insufficient recruitment |
+| [NCT06443255](https://clinicaltrials.gov/study/NCT06443255) | Phase 3 | Completed | 16 | Compared cocaine, lidocaine/xylometazoline, and saline for intranasal analgesia before awake nasotracheal intubation; phenylephrine not tested |
+| [NCT02993770](https://clinicaltrials.gov/study/NCT02993770) | N/A | Unknown | 120 | Compared endoscopic vs. external dacryocystorhinostomy for nasolacrimal duct obstruction; no direct phenylephrine arm |
+| [NCT03962634](https://clinicaltrials.gov/study/NCT03962634) | Phase 2 | Terminated | 3 | Same Kovanaze vs. articaine design as NCT04104789; direct phenylephrine test, terminated early (n=3) |
+| [NCT06457100](https://clinicaltrials.gov/study/NCT06457100) | Phase 1/2 | Active, not recruiting | 60 | Esmolol vs. lidocaine infusion for recovery quality after functional endoscopic sinus surgery; phenylephrine only a background/comparator agent |
+| [NCT03380715](https://clinicaltrials.gov/study/NCT03380715) | N/A | Completed | 106 | Co-phenylcaine (contains phenylephrine) nasal spray vs. nebulization before nasoendoscopy — combination product with direct clinical relevance |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [15854186](https://pubmed.ncbi.nlm.nih.gov/15854186/) | 2005 | RCT | Int J Clin Pract | Double-blind RCT (n=98): cophenylcaine (contains phenylephrine) spray vs. placebo before flexible nasendoscopy; minimal pain/discomfort in both groups, no significant difference |
+| [40899890](https://pubmed.ncbi.nlm.nih.gov/40899890/) | 2025 | RCT | Vestnik Otorinolaringologii | Experimental/clinical evaluation of Polydexa spray with phenylephrine in acute rhinosinusitis, assessing safety and efficacy of the topical combination product |
+| [25133491](https://pubmed.ncbi.nlm.nih.gov/25133491/) | 2014 | Cohort | PLoS One | Triple-blind trial on topical tranexamic acid for bleeding/surgical field quality during FESS in chronic rhinosinusitis |
+| [37970776](https://pubmed.ncbi.nlm.nih.gov/37970776/) | 2023 | Review | Vestnik Otorinolaringologii | Pathogenetic approach to treatment of inflammatory nose/paranasal sinus disease, discussing decongestant mechanisms |
+| [1375136](https://pubmed.ncbi.nlm.nih.gov/1375136/) | 1992 | In vitro/mechanistic | Clin Otolaryngol Allied Sci | Investigated effects of nasal drugs, including phenylephrine, on ciliary beat frequency in vitro |
+| [37184554](https://pubmed.ncbi.nlm.nih.gov/37184554/) | 2023 | Not yet classified | Vestnik Otorinolaringologii | Endoscopic evaluation of nasal mucosa after topical therapy with Polydexa (contains phenylephrine) in granulomatosis with polyangiitis |
+| [9780066](https://pubmed.ncbi.nlm.nih.gov/9780066/) | 1998 | Not yet classified | Int J Pediatr Otorhinolaryngol | Acoustic rhinometric evaluation of nasal cavity/nasopharynx geometry after adenotonsillectomy (background nasal physiology) |
+| [7378007](https://pubmed.ncbi.nlm.nih.gov/7378007/) | 1980 | Not yet classified | Arch Ophthalmol | Case report describing toxicity following cocaine and intranasal phenylephrine during dacryocystorhinostomy — a safety signal, not efficacy evidence |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No marketing authorization is currently on file for this drug in this jurisdiction (market status: **Not Marketed**, 0 licenses recorded).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. Key warnings, contraindications, and drug interaction data are not currently available in this evidence pack (DDI query status: not found).
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+The top prediction (Nasal Cavity Disease) is supported by L2-level evidence, including a Phase 3 completed trial and an RCT-tier publication, but the majority of the underlying evidence involves combination products (Co-phenylcaine, Kovanaze, Polydexa) or comparator drugs rather than phenylephrine monotherapy. Critically, this prediction largely reconfirms phenylephrine's already-known decongestant pharmacology rather than identifying a genuinely new therapeutic use, which limits its value as a repurposing candidate.
+
+**To proceed, the following is needed:**
+- TFDA/regulatory-equivalent warnings and contraindications (currently a Blocking data gap — required before any safety pre-screening)
+- Formal mechanism-of-action documentation (DrugBank MOA is currently a data gap)
+- Clarification on whether "Nasal Cavity Disease" should be treated as a repurposing candidate at all, given it substantially overlaps with phenylephrine's established decongestant use
+- Trial-level data isolating phenylephrine monotherapy effects from combination-product formulations
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

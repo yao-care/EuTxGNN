@@ -1,132 +1,88 @@
 ---
 layout: default
 title: Mepolizumab
-description: "Mepolizumab drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 369
+parent: 僅模型預測 (L5)
+nav_order: 381
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Mepolizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Mepolizumab: From Eosinophilic Diseases to Immune-Mediated Thrombocytopenia
+
+## One-Sentence Summary
+
+Currently, detailed mechanism of action data is not available. Based on known information, mepolizumab is an anti-IL-5 monoclonal antibody, part of the eosinophil-targeted biologic class, and its efficacy in eosinophilic diseases (hypereosinophilic syndrome, EGPA, eosinophilic asthma) has been established. The TxGNN model predicts it may be effective for **immune-mediated thrombocytopenia**, but this is currently supported only by **1 case report** and **no clinical trials**.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Mepolizumab |
-| DrugBank ID | [DB06612](https://go.drugbank.com/drugs/DB06612) |
-| Brand Names (EU) | Nucala |
-| Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.66% |
+| Item | Content |
+|------|------|
+| Original Indication | Not recorded in Taiwan regulatory data (drug not marketed in Taiwan); per available evidence-pack text, approved elsewhere for eosinophilic diseases (HES, EGPA, eosinophilic asthma) |
+| Predicted New Indication | Thrombocytopenia due to immune destruction |
+| TxGNN Prediction Score | 99.66% |
+| Evidence Level | L4 |
+| EU Market Status | Not marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data for mepolizumab is not available in this evidence pack (Data Gap, High severity). Based on known information, mepolizumab is an anti-IL-5 monoclonal antibody that inhibits eosinophil differentiation and survival, and its approved indications center on eosinophil-driven conditions such as hypereosinophilic syndrome (HES), EGPA, and eosinophilic asthma.
+
+The mechanistic rationale for this prediction is indirect: some HES patients present with a secondary, ITP-like immune thrombocytopenia, suggesting that eosinophil-mediated immune dysregulation may contribute to platelet destruction in certain patients. However, IL-5 inhibition has no established direct pharmacological target on platelets or on the immune pathways that mediate platelet destruction — the association is a disease co-occurrence pattern rather than a validated mechanistic link. This is reflected in the single supporting publication, which is a case report of a patient with concomitant hypereosinophilia and thrombotic microangiopathy rather than a study designed to test mepolizumab in immune thrombocytopenia.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Case Report | Blood Cells, Molecules & Diseases | Single case of steroid-resistant hypereosinophilic immune diathesis (with aHUS-associated thrombotic microangiopathy) treated with mepolizumab, resulting in resolution of hypereosinophilia and concomitant improvement of the thrombotic microangiopathy |
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. Note: TFDA label warnings/contraindications for this drug are currently missing (Blocking data gap) and must be obtained before any safety evaluation can proceed.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction is supported only by a single case report (L4 evidence) with an indirect, disease-co-occurrence mechanistic rationale rather than a validated pharmacological link; no clinical trials exist for this indication, and the drug is not currently marketed in Taiwan. Critically, TFDA-level safety data (warnings, contraindications) are entirely missing, which blocks any safety pre-assessment (S1).
+
+**To proceed, the following is needed:**
+- TFDA label PDF (warnings/contraindications) to unblock safety pre-assessment (Blocking gap, DG001)
+- Detailed mechanism-of-action data via DrugBank API to properly assess mechanistic plausibility (High gap, DG002)
+- Prospective clinical or observational evidence (beyond a single case report) specifically evaluating mepolizumab in immune-mediated thrombocytopenia
+- Confirmation of Taiwan/EU regulatory and market status before any development planning
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Severe eosinophilic asthmaNucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older . Chronic rhinosinusitis with nasal polyps (CRSwNP)Nucala is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate control. Eosinophilic granulomatosis with polyangiitis (EGPA)Nuca
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | thrombocytopenia due to immune destruction | 99.66% | DL |
-| 2 | primary release disorder of platelets | 99.61% | DL |
-| 3 | pseudo-von Willebrand disease | 99.44% | DL |
-| 4 | autoimmune thrombocytopenic | 99.33% | DL |
-| 5 | Glanzmann thrombasthenia | 99.28% | DL |
-| 6 | Evans syndrome | 98.62% | DL |
-| 7 | neonatal thrombocytopenia | 98.60% | DL |
-| 8 | autosomal thrombocytopenia with normal platelets | 98.37% | DL |
-| 9 | filariasis | 97.67% | DL |
-| 10 | mixed-type autoimmune hemolytic anemia | 96.57% | DL |
-| 11 | drug-induced autoimmune hemolytic anemia | 96.38% | DL |
-| 12 | cyclic hematopoiesis | 96.29% | DL |
-| 13 | proteinuria | 95.91% | DL |
-| 14 | syndromic constitutional thrombocytopenia | 95.86% | DL |
-| 15 | neonatal autoimmune hemolytic anemia | 95.81% | DL |
-| 16 | paroxysmal nocturnal hemoglobinuria | 95.48% | DL |
-| 17 | fetal and neonatal alloimmune thrombocytopenia | 95.28% | DL |
-| 18 | hemorrhagic disorder due to a constitutional thrombocytopenia | 94.59% | DL |
-| 19 | bleeding diathesis due to a collagen receptor defect | 94.41% | DL |
-| 20 | Scott syndrome | 94.36% | DL |
-
-*Showing top 20 of 51 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

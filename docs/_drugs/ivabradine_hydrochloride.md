@@ -2,7 +2,7 @@
 layout: default
 title: Ivabradine Hydrochloride
 parent: 僅模型預測 (L5)
-nav_order: 226
+nav_order: 328
 evidence_level: L5
 indication_count: 0
 ---

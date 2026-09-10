@@ -1,132 +1,103 @@
 ---
 layout: default
 title: Linagliptin
-description: "Linagliptin drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 345
+parent: 僅模型預測 (L5)
+nav_order: 357
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Linagliptin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Linagliptin: From Type 2 Diabetes Mellitus to Opsismodysplasia
+
+## One-Sentence Summary
+
+> Linagliptin is a DPP-4 inhibitor used to regulate blood glucose in type 2 diabetes mellitus (as referenced in the drug's own evidence base).
+> The TxGNN model's top-ranked prediction is **Opsismodysplasia**, a rare skeletal dysplasia, but this candidate is currently supported by **0 clinical trials** and **0 publications** — the score reflects knowledge-graph embedding similarity only, with no identified biological mechanism connecting the two.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Linagliptin |
-| DrugBank ID | [DB08882](https://go.drugbank.com/drugs/DB08882) |
-| Brand Names (EU) | Jentadueto, Trajenta |
-| Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 94.90% |
+| Item | Content |
+|------|------|
+| Original Indication | Type 2 Diabetes Mellitus (DPP-4 inhibitor; not present in a structured license record — see note below) |
+| Predicted New Indication | Opsismodysplasia |
+| TxGNN Prediction Score | 94.90% |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+*Note: No `taiwan_regulatory.licenses` records exist for this drug, so the original indication above is inferred from the mechanistic descriptions embedded in the evidence pack's rationale and literature fields, not from a formal license text.*
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Trajenta is indicated in the treatment of type 2 diabetes mellitus to improve glycaemic control in adults: as monotherapy  in patients inadequately controlled by diet and exercise alone and for whom metformin is inappropriate due to intolerance, or contraindicated due to renal impairment.  as combination therapy  in combination with metformin when diet and exercise plus metformin alone do not provide adequate glycaemic control. in combination with a sulphonylurea and metformin when diet and exer
+Currently, detailed mechanism of action data for Linagliptin is not available (flagged as a High-severity data gap). Based on the information present in the evidence pack, Linagliptin acts through DPP-4 inhibition on the incretin/GLP-1 pathway to regulate blood glucose in type 2 diabetes.
 
----
+The evidence pack's own rationale for this candidate is explicit that **no known biological connection exists** between this mechanism and opsismodysplasia. Opsismodysplasia is a skeletal developmental disorder caused by *INPPL1* gene mutations — a structural/genetic bone condition unrelated to glucose or incretin regulation. The high TxGNN score (94.90%, rank 37,382 of the full prediction set) reflects similarity in the model's learned embedding space rather than a pharmacologically plausible mechanism.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | opsismodysplasia | 94.90% | DL |
-| 2 | thiamine-responsive dysfunction syndrome | 94.47% | DL |
-| 3 | focal stiff limb syndrome | 94.23% | DL |
-| 4 | classic stiff person syndrome | 94.23% | DL |
-| 5 | diabetes mellitus (disease) | 94.09% | DL |
-| 6 | drug-induced localized lipodystrophy | 91.75% | DL |
-| 7 | centrifugal lipodystrophy | 91.45% | DL |
-| 8 | pressure-induced localized lipoatrophy | 91.21% | DL |
-| 9 | pancreatic agenesis | 91.18% | DL |
-| 10 | idiopathic localized lipodystrophy | 90.84% | DL |
-| 11 | homozygous familial hypercholesterolemia | 89.99% | DL |
-| 12 | autoimmune oophoritis | 82.75% | DL |
-| 13 | type 1 diabetes mellitus | 79.77% | DL |
-| 14 | atrial flutter (disease) | 67.27% | DL |
-| 15 | congenital temporomandibular joint ankylosis | 63.24% | DL |
-| 16 | cholangiocarcinoma, susceptibility to | 62.78% | DL |
-| 17 | hypercarotenemia and vitamin A deficiency, autosomal recessive | 61.78% | DL |
-| 18 | mitral valve prolapse, myxomatous | 60.80% | DL |
-| 19 | hemoglobin C-beta-thalassemia syndrome | 60.41% | DL |
-| 20 | polydipsia | 59.67% | DL |
-
-*Showing top 20 of 51 predictions.*
+Given this, the prediction should be treated as a hypothesis-generating signal only, not as evidence of therapeutic potential.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
 ---
 
-## Citation
+## Conclusion and Next Steps
 
-If using this data, please cite:
+**Decision: Hold**
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Rationale:**
+The top-ranked candidate (opsismodysplasia) has no clinical trial or literature support, and the evidence pack's own mechanistic analysis finds no biological plausibility linking DPP-4 inhibition to this rare skeletal disorder. This is an L5, model-only signal.
+
+**To proceed, the following is needed:**
+- TFDA/EMA-equivalent label warnings and contraindications (currently a Blocking data gap — required before any S1 safety screening)
+- Confirmed mechanism of action (MOA) data from DrugBank or another authoritative source (currently a High-severity data gap)
+- A biologically grounded hypothesis connecting Linagliptin's pharmacology to opsismodysplasia (or reconsideration of lower-ranked candidates, e.g. rank 8, pancreatic agenesis, which at least returned related literature, though still lacking direct mechanistic support)
+- DDI data (current query returned "not_found") before any combination-therapy consideration
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

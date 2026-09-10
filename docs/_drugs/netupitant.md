@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Netupitant
-description: "Netupitant drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 401
+parent: 僅模型預測 (L5)
+nav_order: 413
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Netupitant
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Netupitant: From Chemotherapy-Induced Nausea and Vomiting to Nephrogenic Syndrome of Inappropriate Antidiuresis
+
+## One-Sentence Summary
+
+> Netupitant is a highly selective NK1 (Substance P) receptor antagonist, used clinically as part of a fixed-dose combination for the prevention of chemotherapy-induced nausea and vomiting.
+> The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**,
+> but this prediction is currently supported by **no clinical trials** and **no published literature** — it is a pure model output with no identifiable mechanistic link.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Netupitant |
-| DrugBank ID | [DB09048](https://go.drugbank.com/drugs/DB09048) |
-| Brand Names (EU) | Netupitant |
+| Item | Content |
+|------|------|
+| Original Indication | Not recorded in this dataset (netupitant is clinically an NK1 antagonist antiemetic, used in combination therapy) |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN Prediction Score | 98.35% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.35% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Akynzeo is indicated in adults for the:  Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin based cancer chemotherapy. Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
+Currently, detailed mechanism of action data is not available in this evidence pack. Based on the supporting rationale text that accompanies the predictions, netupitant is a highly selective NK1 (Substance P) receptor antagonist. Its established pharmacology relates to blocking Substance P signaling in the central nervous system's vomiting reflex pathway, which is why it is used as an antiemetic.
 
----
+For the top-ranked predicted indication, nephrogenic syndrome of inappropriate antidiuresis (NSIAD), the model itself flags an important caveat: NSIAD is driven by aberrant vasopressin (AVP) receptor signaling, and there is no known pharmacological interaction between NK1 antagonism and the AVP receptor pathway. In other words, the high TxGNN score (98.35%) appears to reflect a statistical/embedding-space association within the knowledge graph rather than a biologically plausible mechanism.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | nephrogenic syndrome of inappropriate antidiuresis | 98.35% | DL |
-| 2 | leprosy | 98.25% | DL |
-| 3 | migraine disorder | 97.49% | DL |
-| 4 | migraine with or without aura, susceptibility to | 97.27% | DL |
-| 5 | pulmonary hypertension | 97.22% | DL |
-| 6 | migraine with brainstem aura | 97.14% | DL |
-| 7 | kyphoscoliotic heart disease | 96.96% | DL |
-| 8 | hyperargininemia | 96.57% | DL |
-| 9 | coronary artery disease | 96.39% | DL |
-| 10 | hypertrichosis (disease) | 96.30% | DL |
-| 11 | malformation syndrome with odontal and/or periodontal component | 95.81% | DL |
-| 12 | anomalous left coronary artery from the pulmonary artery | 95.80% | DL |
-| 13 | Ambras type hypertrichosis universalis congenita | 95.75% | DL |
-| 14 | syndrome with a Dandy-Walker malformation as major feature | 95.73% | DL |
-| 15 | isolated genetic hair shaft abnormality | 95.56% | DL |
-| 16 | myocardial ischemia | 95.11% | DL |
-| 17 | atrophoderma vermiculata | 94.86% | DL |
-| 18 | persistent Mullerian duct syndrome | 94.21% | DL |
-| 19 | ulerythema ophryogenesis | 93.95% | DL |
-| 20 | genetic multiple congenital anomalies/dysmorphic syndrome without intellectual disability | 93.74% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given the absence of any mechanistic rationale, clinical trial, or literature evidence for this specific pairing, this candidate should be treated as a hypothesis-generating signal only, not a basis for further clinical investigation at this time.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Netupitant is currently **not marketed** in this region and has no recorded marketing authorizations, so no authorization table can be produced.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: TFDA-equivalent label warnings/contraindications and detailed MOA data are flagged as outstanding data gaps — see Conclusion.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (NSIAD) has an evidence level of L5 — a model score with no clinical trials, no literature, and, per the model's own rationale, no identifiable mechanistic link to netupitant's known pharmacology. There is insufficient basis to advance this candidate.
+
+**To proceed, the following is needed:**
+- Confirmed mechanism of action (MOA) data from DrugBank (currently a Blocking/High-severity data gap — DG002)
+- Official label warnings/contraindications (currently a Blocking data gap — DG001), required before any S1 safety pre-screen
+- Independent mechanistic or preclinical evidence linking NK1 antagonism to AVP-pathway disorders before considering this indication further
+- If pursuing repurposing at all, migraine disorder (rank 3, score 97.5%) has a biologically plausible rationale via Substance P/NK1 involvement in trigeminovascular activation — however, prior NK1 antagonists (lanepitant, aprepitant) failed in migraine trials, so this should be treated as a research question rather than a development candidate
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

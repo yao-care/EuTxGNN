@@ -1,132 +1,112 @@
 ---
 layout: default
 title: Orlistat
-description: "Orlistat drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 425
+parent: 僅模型預測 (L5)
+nav_order: 437
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Orlistat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using the drug-repurposing-report skill implicitly (following the v5 template structure as instructed) to produce the report below.
+
+# Orlistat: From Obesity Management to Hypervitaminosis
+
+## One-Sentence Summary
+
+> Orlistat is a gastrointestinal lipase inhibitor best known as an anti-obesity/weight-management agent (formal original-indication text was not available in this evidence pack).
+> The TxGNN model's top-ranked prediction suggests possible relevance to **Hypervitaminosis** (fat-soluble vitamin excess),
+> but this candidate currently has **0 clinical trials** and **0 publications** supporting it — the prediction is model-only.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Orlistat |
-| DrugBank ID | [DB01083](https://go.drugbank.com/drugs/DB01083) |
-| Brand Names (EU) | Xenical |
+| Item | Content |
+|------|------|
+| Original Indication | Not reported in evidence pack (regulatory license data unavailable; orlistat is pharmacologically known as an anti-obesity/weight-loss agent per the rationale narrative) |
+| Predicted New Indication | Hypervitaminosis |
+| TxGNN Prediction Score | 99.42% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.46% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt; 28 kg/m2) with associated risk factors. Treatment with orlistat should be discontinued after 12 weeks if patients have been unable to lose at least 5% of the body weight as measured at the start of therapy.
+Detailed mechanism-of-action documentation is not available in this evidence pack (flagged as data gap DG002, severity High). Based on known pharmacology referenced in the model's rationale, orlistat inhibits gastric and pancreatic lipase, blocking roughly one-third of dietary triglyceride hydrolysis and absorption — the basis for its established use as an anti-obesity/weight-management agent.
 
----
+The link to the predicted indication is indirect: by reducing dietary fat absorption, orlistat also reduces absorption of fat-soluble vitamins (A, D, E, K). This is normally documented as an **adverse effect** (vitamin deficiency) of orlistat therapy. The TxGNN prediction essentially inverts this relationship, proposing that the same mechanism could theoretically be leveraged to *lower* excess fat-soluble vitamin concentrations in hypervitaminosis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | obesity disorder | 99.46% | DL |
-| 2 | hypervitaminosis | 99.42% | DL |
-| 3 | proximal 16p11.2 microdeletion syndrome | 98.87% | DL |
-| 4 | obsolete hypertelorism (disease) | 97.75% | DL |
-| 5 | frontorhiny | 96.64% | DL |
-| 6 | hypoalphalipoproteinemia | 96.47% | DL |
-| 7 | monogenic obesity | 94.45% | DL |
-| 8 | obsolete susceptibility to ischemic stroke | 92.00% | DL |
-| 9 | ABri amyloidosis | 85.67% | DL |
-| 10 | fatty liver disease | 85.26% | DL |
-| 11 | homozygous familial hypercholesterolemia | 79.84% | DL |
-| 12 | amenorrhea (disease) | 77.89% | DL |
-| 13 | non-alcoholic steatohepatitis | 77.14% | DL |
-| 14 | hypercarotenemia and vitamin A deficiency, autosomal recessive | 71.03% | DL |
-| 15 | lethal polymalformative syndrome, Boissel type | 68.51% | DL |
-| 16 | duodenogastric reflux | 68.39% | DL |
-| 17 | pentosuria | 68.26% | DL |
-| 18 | duodenal obstruction | 68.11% | DL |
-| 19 | fibrosis of extraocular muscles, congenital, with synergistic divergence | 66.92% | DL |
-| 20 | mitral valve prolapse, myxomatous | 66.79% | DL |
-
-*Showing top 20 of 50 predictions.*
+This is a plausible direction mechanistically, but it is a speculative extrapolation of a known side effect rather than a validated therapeutic pathway — there are no clinical trials, case reports, or preclinical studies in the evidence pack examining orlistat for this purpose. The prediction should be treated as hypothesis-generating only.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations recorded for orlistat in this evidence pack (market status: **Not Marketed**, total authorizations: 0).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*Note: key warnings, contraindications, and drug-interaction data were not available in this evidence pack. This is flagged as a **Blocking** data gap (DG001 — TFDA label warnings/contraindications), meaning safety review (S1 stage) cannot proceed until this is resolved.*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (Hypervitaminosis) is an L5, model-only prediction with zero supporting clinical trials or literature. Its mechanistic rationale inverts a known adverse effect of orlistat (vitamin malabsorption) rather than resting on a validated therapeutic pathway, and no original-indication or MOA documentation is available to anchor the comparison. A Blocking data gap on TFDA safety labeling (DG001) also prevents this candidate from advancing to S1 safety review.
+
+**To proceed, the following is needed:**
+- Formal MOA documentation from DrugBank (DG002, High severity)
+- TFDA label warnings/contraindications (DG001, Blocking — required before any S1 safety evaluation)
+- Preclinical or case-based evidence specifically evaluating orlistat in fat-soluble vitamin excess states
+- **Separate consideration recommended**: the evidence pack's rank-8 candidate, *fatty liver disease / NAFLD*, has substantially stronger support (7 clinical trials including 2 completed Phase 4 trials, and 20+ publications including RCTs and a 2024 systematic review/meta-analysis of RCTs). This candidate was not the top-ranked prediction but appears far better evidenced and may warrant its own dedicated evaluation report.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

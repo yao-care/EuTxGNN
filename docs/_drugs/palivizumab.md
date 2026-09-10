@@ -1,132 +1,112 @@
 ---
 layout: default
 title: Palivizumab
-description: "Palivizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 435
+parent: 僅模型預測 (L5)
+nav_order: 447
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Palivizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using no additional skills — this is a direct report-generation task following the explicit template in the system prompt; I'll produce the Markdown report from the evidence pack as specified.
+
+# Palivizumab: From Original Indication (Data Unavailable) to Benign Neoplasm of Tongue
+
+## One-Sentence Summary
+
+> Palivizumab's original indication and mechanism of action are not available in the current dataset (drug is not marketed in the EU registry on file).
+> The TxGNN model predicts it may be effective for **Benign Neoplasm of Tongue**,
+> but this ranking is supported by **0 clinical trials** and **0 publications**, and the model's own rationale notes no known mechanistic link between this anti-viral monoclonal antibody and tumour biology.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Palivizumab |
-| DrugBank ID | [DB00110](https://go.drugbank.com/drugs/DB00110) |
-| Brand Names (EU) | Synagis |
+| Item | Content |
+|------|------|
+| Original Indication | Not available (no license/indication text on file) |
+| Predicted New Indication | Benign neoplasm of tongue |
+| TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.94% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Synagis is indicated for the prevention of serious lower-respiratory-tract disease requiring hospitalisation caused by respiratory syncytial virus (RSV) in children at high risk for RSV disease:  children born at 35 weeks of gestation or less and less than six months of age at the onset of the RSV season; children less than two years of age and requiring treatment for bronchopulmonary dysplasia within the last six months; children less than two years of age and with haemodynamically significant 
+Currently, detailed mechanism of action data for palivizumab is not available in this evidence pack. Based on general drug class knowledge referenced in the model's own rationale, palivizumab is described as an anti-RSV F-protein monoclonal antibody that neutralizes respiratory syncytial virus — a mechanism with no established biological link to oncogenesis or tumour suppression.
 
----
+The repurposing rationale attached to this prediction explicitly states that there is **no known mechanistic relationship** between an antiviral monoclonal antibody and a benign tongue neoplasm, and characterizes the high TxGNN score as arising from knowledge-graph relational inference rather than mechanism-based reasoning. This pattern repeats across all ten ranked predictions for this drug (epiglottis neoplasm, cervical neuroblastoma, various benign head/neck neoplasms, testicular tumour, cystic neoplasm, schwannoma, mesenchymoma, thyroglossal duct cyst) — none carry a stated mechanistic rationale, and all are flagged the same way by the model itself.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | benign neoplasm of tongue | 99.94% | DL |
-| 2 | epiglottis neoplasm | 99.94% | DL |
-| 3 | cervical neuroblastoma | 99.94% | DL |
-| 4 | benign neoplasm of hypopharynx | 99.94% | DL |
-| 5 | benign neoplasm of floor of mouth | 99.94% | DL |
-| 6 | tumor of testis and paratestis | 99.94% | DL |
-| 7 | cystic neoplasm | 99.94% | DL |
-| 8 | schwannoma of jugular foramen | 99.94% | DL |
-| 9 | mesenchymoma | 99.94% | DL |
-| 10 | thyroglossal duct cyst | 99.94% | DL |
-| 11 | nasal cavity inverting papilloma | 99.94% | DL |
-| 12 | inner ear neoplasm | 99.93% | DL |
-| 13 | benign neoplasm of buccal mucosa | 99.93% | DL |
-| 14 | jugular foramen meningioma | 99.93% | DL |
-| 15 | benign neoplasm of nasal cavity | 99.93% | DL |
-| 16 | chondroid hamartoma | 99.93% | DL |
-| 17 | bronchial adenomas/carcinoids childhood | 99.93% | DL |
-| 18 | ductal or ductular proliferation | 99.93% | DL |
-| 19 | non-seminomatous lesion | 99.93% | DL |
-| 20 | vestibulocochlear nerve neoplasm | 99.93% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given the absence of biological plausibility, clinical evidence, and literature support, this prediction should be treated as a low-confidence signal generated purely from graph topology, not a candidate ready for pharmacological interpretation.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations are currently on file for palivizumab in this dataset (`total_licenses: 0`, market status: Not Marketed).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: A blocking data gap — TFDA label warnings/contraindications — has been flagged (DG001) and must be resolved before any safety assessment (S1 stage) can proceed. A high-severity data gap on mechanism of action (DG002) is also outstanding.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction is at the earliest decision stage (S0) with evidence level L5 — a model-only signal with zero supporting clinical trials or literature, and the rationale itself states there is no known mechanistic link between palivizumab's antiviral mechanism and tumour pathology. A blocking data gap on safety labeling (DG001) also prevents progression to safety screening (S1).
+
+**To proceed, the following is needed:**
+- TFDA/EMA label data (warnings, contraindications) to clear the blocking data gap (DG001)
+- Confirmed mechanism of action (MOA) data via DrugBank API (DG002)
+- Independent biological plausibility assessment, since the model's own rationale does not support a mechanistic connection to any of the top 10 predicted indications
+- If pursued, preclinical or case-level evidence generation before considering re-scoring
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,126 @@
 ---
 layout: default
 title: Obinutuzumab
-description: "Obinutuzumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 414
+parent: 僅模型預測 (L5)
+nav_order: 426
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Obinutuzumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Obinutuzumab: From Chronic Lymphocytic Leukemia to Pregerminal Center CLL/SLL (Molecular Subtype)
+
+## One-Sentence Summary
+
+> Obinutuzumab is a glycoengineered, type II anti-CD20 monoclonal antibody already established in the treatment of chronic lymphocytic leukemia (CLL) and follicular lymphoma.
+> The TxGNN model's top-ranked prediction, **pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma**, is a molecular subgroup of CLL/SLL rather than an independent disease entity,
+> and currently has **0 clinical trials** and **0 publications** specifically indexed against it — the model score of 99.21% likely reflects the drug's already-proven efficacy in CLL as a whole, not a genuinely new indication.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Obinutuzumab |
-| DrugBank ID | [DB08935](https://go.drugbank.com/drugs/DB08935) |
-| Brand Names (EU) | Gazyvaro |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.47% |
+| Item | Content |
+|------|------|
+| Original Indication | Not confirmed via EMA licensing data (0 authorizations on record); contextual evidence in this pack references obinutuzumab's established use in chronic lymphocytic leukemia (CLL11 trial) |
+| Predicted New Indication | Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma |
+| TxGNN Prediction Score | 99.21% |
+| Evidence Level | L1 (pipeline-assigned; see caveat below — driven by existing CLL approval, not by direct trials/literature for this specific molecular subtype) |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Chronic lymphocytic leukaemia (CLL)&nbsp;Gazyvaro in combination with chlorambucil is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) and with comorbidities making them unsuitable for full-dose fludarabine based therapy.&nbsp;&nbsp;Follicular Lymphoma (FL)&nbsp;&nbsp;Gazyvaro in combination with chemotherapy, followed by Gazyvaro maintenance therapy in patients achieving a response, is indicated for the treatment of patients with previo
+Detailed DrugBank-sourced mechanism-of-action data is not available in this evidence pack. Based on information embedded in the repurposing rationale, obinutuzumab is a third-generation, glycoengineered, type II anti-CD20 monoclonal antibody. Its mechanism combines enhanced direct B-cell killing with increased antibody-dependent cellular cytotoxicity (ADCC) and antibody-dependent cellular phagocytosis (ADCP) compared with first-generation anti-CD20 agents such as rituximab. It has been approved based on pivotal trials including CLL11 (chronic lymphocytic leukemia) and GALLIUM (follicular lymphoma).
 
----
+"Pregerminal center CLL/SLL" and "CLL/SLL with IGHV somatic hypermutation" are not distinct diseases — they are biological subgroups of CLL/SLL defined by immunoglobulin heavy-chain variable-region (IGHV) mutation status and cell-of-origin. Because obinutuzumab's target, CD20, is expressed on malignant B cells regardless of IGHV mutation status, there is no mechanistic reason to expect differential efficacy between subgroups. This explains the very high TxGNN score: the model is essentially re-discovering an already-approved indication expressed at finer ontological granularity, rather than proposing a genuinely novel therapeutic hypothesis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | acute lymphoblastic/lymphocytic leukemia | 99.47% | DL |
-| 2 | chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation | 99.21% | DL |
-| 3 | pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma | 99.21% | DL |
-| 4 | follicular lymphoma | 99.18% | DL |
-| 5 | Richter syndrome | 99.17% | DL |
-| 6 | mantle cell lymphoma | 98.75% | DL |
-| 7 | metastatic neoplasm | 98.51% | DL |
-| 8 | malignant spiradenoma | 98.47% | DL |
-| 9 | neoplasm of mature B-cells | 98.08% | DL |
-| 10 | small intestinal Burkitt lymphoma | 97.84% | DL |
-| 11 | Langerhans cell histiocytosis | 97.81% | DL |
-| 12 | thyroid gland mucosa-associated lymphoid tissue lymphoma | 97.76% | DL |
-| 13 | small intestinal mucosa-associated lymphoid tissue lymphoma | 97.75% | DL |
-| 14 | chronic lymphocytic leukemia/small lymphocytic lymphoma | 97.73% | DL |
-| 15 | breast mucosa-associated lymphoid tissue lymphoma | 97.72% | DL |
-| 16 | tonsillar lymphoma | 97.67% | DL |
-| 17 | B-cell neoplasm | 97.19% | DL |
-| 18 | follicular lymphoma, susceptibility to, 1 | 97.09% | DL |
-| 19 | histiocytic and dendritic cell neoplasm | 96.62% | DL |
-| 20 | childhood carcinoid tumor | 96.55% | DL |
-
-*Showing top 20 of 50 predictions.*
+This also explains the absence of dedicated trials or literature for this exact label — evidence-collection pipelines typically filter out "known indications" (CLL as a whole) when searching for *new* uses, and the finer-grained subtype label falls into a gap between "already known" and "genuinely novel." As a result, this specific candidate should be treated as a taxonomy artifact rather than an actionable repurposing lead.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EMA marketing authorizations are on record for obinutuzumab in this evidence pack (0 licenses; market status: Not Marketed). This may reflect a genuine absence of EU marketing authorization, or a gap in the data source used to compile this pack — it should be confirmed against the EMA product database before any regulatory conclusion is drawn.
 
 ---
 
-## Citation
+## Cytotoxicity (Antineoplastic Drug)
 
-If using this data, please cite:
+Obinutuzumab is an antineoplastic biologic (anti-CD20 monoclonal antibody used in CLL/lymphoma), so this section applies.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy / immunotherapy — glycoengineered, type II anti-CD20 monoclonal antibody (not conventional cytotoxic chemotherapy) |
+| Myelosuppression Risk | Moderate–High — neutropenia, including prolonged/late-onset neutropenia, is a well-documented effect of the anti-CD20 antibody class in CLL/lymphoma trials; please refer to the SmPC for graded incidence data |
+| Emetogenicity Classification | Low — minimal direct emetogenic potential; the dominant acute toxicity is infusion-related reaction rather than nausea/vomiting |
+| Monitoring Items | CBC with differential (neutropenia, thrombocytopenia), infusion-related reaction monitoring during and after infusion, hepatitis B screening (reactivation risk with B-cell depleting antibodies), serum immunoglobulin levels |
+| Handling Protection | Monoclonal antibodies are generally not subject to cytotoxic hazardous-drug handling protocols, but standard biologic infusion precautions, premedication, and infusion-reaction management procedures are required |
+
+Please refer to the SmPC warnings and precautions for full toxicity grading.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked candidate, "pregerminal center CLL/SLL," has zero supporting clinical trials or literature (decision stage S0) and, per the underlying rationale, most likely represents a known-indication subgroup rather than a genuinely new therapeutic use. Pursuing this as a standalone repurposing candidate is not currently justified.
+
+**To proceed, the following is needed:**
+- Resolve blocking data gap DG001 (TFDA/EMA label warnings and contraindications) before any safety-stage review can begin
+- Resolve high-priority data gap DG002 (formal mechanism-of-action data from DrugBank)
+- Clarify whether TxGNN's disease ontology should collapse CLL/SLL molecular subtypes into the parent "CLL/SLL" node to avoid inflating apparent "new indication" counts with known-indication artifacts
+- Confirm actual EU/EMA marketing authorization status, since 0 licenses is currently unverified against the primary EMA source
+
+**Note for portfolio prioritization:** among this drug's other predicted indications, **mantle cell lymphoma** (rank 4, evidence level L2, decision stage S2, "Proceed with Guardrails") is a substantially stronger candidate — it is not an approved indication, yet is supported by dozens of trials (including head-to-head studies) and recent high-quality literature (e.g., PMID 38669626, *Blood* 2024). It may warrant its own dedicated evaluation report.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Glucarpidase
-description: "Glucarpidase drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 272
+parent: 僅模型預測 (L5)
+nav_order: 281
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Glucarpidase
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Glucarpidase: From Methotrexate Toxicity to Diabetic Cataract
+
+## One-Sentence Summary
+
+Glucarpidase (carboxypeptidase G2) is a recombinant bacterial enzyme used to rapidly clear toxic plasma methotrexate concentrations in patients with impaired renal clearance. The TxGNN model predicts it may be effective for **Diabetic Cataract**, but currently **no clinical trials** and **no published literature** support this direction, and the model's own mechanistic rationale flags the prediction as biologically implausible.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Glucarpidase |
-| DrugBank ID | [DB08898](https://go.drugbank.com/drugs/DB08898) |
-| Brand Names (EU) | Voraxaze |
+| Item | Content |
+|------|------|
+| Original Indication | Methotrexate toxicity (rescue therapy for elevated plasma methotrexate levels) — not derived from a formal license record in this evidence pack |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.85% |
+| EU Market Status | 未上市 (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Voraxaze is indicated to reduce toxic plasma methotrexate concentration in adults and children (aged 28 days and older) with delayed methotrexate elimination or at risk of methotrexate toxicity.
+Glucarpidase's only established pharmacological action is hydrolyzing the glutamate residue on folate/methotrexate molecules to rapidly eliminate circulating methotrexate — it is used as an emergency detoxification enzyme, not a disease-modifying therapeutic. This action has no known relationship to lens protein metabolism, the polyol (aldose reductase) pathway, oxidative stress, or any other mechanism implicated in diabetic cataract formation.
 
----
+The evidence pack's own mechanistic analysis for this candidate explicitly states there is no known biological pathway connecting glucarpidase to cataract pathophysiology, and suggests the prediction likely reflects a knowledge-graph embedding artifact ("false positive") caused by data sparsity for this rare indication pairing, rather than a genuine pharmacological signal. This same "no mechanistic link" conclusion is repeated across all 10 top-ranked predicted indications for this drug (diabetic retinopathy, tetanic cataract, senile cataract, etc.), all clustered at similar TxGNN scores — a pattern consistent with a systematic embedding-space artifact rather than a specific, credible signal for any one disease.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 99.85% | DL |
-| 2 | diabetic retinopathy | 99.84% | DL |
-| 3 | craniostenosis cataract | 99.83% | DL |
-| 4 | diabetes mellitus type 2 associated cataract | 99.83% | DL |
-| 5 | immature cataract | 99.83% | DL |
-| 6 | tetanic cataract | 99.83% | DL |
-| 7 | mature cataract | 99.83% | DL |
-| 8 | cortical cataract | 99.83% | DL |
-| 9 | nuclear senile cataract | 99.83% | DL |
-| 10 | senile cataract | 99.82% | DL |
-| 11 | severe nonproliferative diabetic retinopathy | 99.82% | DL |
-| 12 | hemorrhagic disease of newborn | 98.94% | DL |
-| 13 | microvascular complications of diabetes, susceptibility to | 98.24% | DL |
-| 14 | infiltrating bladder urothelial carcinoma | 98.13% | DL |
-| 15 | drug-induced osteoporosis | 98.07% | DL |
-| 16 | non-invasive bladder urothelial carcinoma | 98.06% | DL |
-| 17 | bladder signet ring cell adenocarcinoma | 98.05% | DL |
-| 18 | bladder mixed adenocarcinoma | 98.03% | DL |
-| 19 | bladder colonic type adenocarcinoma | 98.03% | DL |
-| 20 | bladder colloid adenocarcinoma | 98.03% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given this, the high TxGNN score should be interpreted as a statistical association within the model's latent space, not as evidence of therapeutic plausibility.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Glucarpidase currently holds no EU marketing authorizations (market status: 未上市, 0 licenses on file in this evidence pack).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: TFDA label warnings/contraindications and formal MOA data are flagged as blocking/high-severity data gaps in this evidence pack — see Conclusion below.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+There is no mechanistic rationale, no clinical trial evidence, and no published literature connecting glucarpidase to diabetic cataract or any of its other top-ranked predicted indications. The evidence pack's own analysis identifies this as a likely false-positive prediction driven by embedding-space sparsity rather than genuine pharmacology. Combined with the drug having no EU marketing presence and missing safety documentation, this candidate does not meet the bar to proceed.
+
+**To proceed, the following is needed:**
+- TFDA label (仿單) warnings and contraindications — currently a blocking data gap (DG001)
+- Confirmed mechanism of action from DrugBank API — currently a high-severity data gap (DG002)
+- Independent pharmacological or preclinical rationale linking glucarpidase to any diabetic ophthalmic pathway, before further evidence collection is warranted
+- Re-evaluation of whether this candidate should remain in the pipeline given the model's own rationale disputing biological plausibility
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

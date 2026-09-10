@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Idarucizumab
-description: "Idarucizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 288
+parent: 僅模型預測 (L5)
+nav_order: 297
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Idarucizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Idarucizumab: From Dabigatran Anticoagulant Reversal to Hemoglobinopathy
+
+## One-Sentence Summary
+
+Idarucizumab is a humanized monoclonal antibody fragment (Fab) whose established role is reversing the anticoagulant effect of dabigatran. The TxGNN model predicts it may be effective for **Hemoglobinopathy**, but currently **0 clinical trials** and **0 publications** support this direction, and the evidence pack's own mechanistic analysis concludes the high score likely reflects knowledge-graph embedding noise rather than a genuine pharmacological signal.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Idarucizumab |
-| DrugBank ID | [DB09264](https://go.drugbank.com/drugs/DB09264) |
-| Brand Names (EU) | Praxbind |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 95.66% |
+| Item | Content |
+|------|------|
+| Original Indication | Not on file — this evaluation pack contains no approved indication text; based on the drug's described mechanism, its established use is reversal of dabigatran's anticoagulant activity |
+| Predicted New Indication | Hemoglobinopathy |
+| TxGNN Prediction Score | 95.66% |
+| Evidence Level | L5 (model prediction only, no supporting studies) |
+| EU Market Status | Not Marketed (0 authorizations) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Praxbind is a specific reversal agent for dabigatran and is indicated in adult patients treated with Pradaxa (dabigatran etexilate) when rapid reversal of its anticoagulant effects is required:  for emergency surgery/urgent procedures; in life-threatening or uncontrolled bleeding.
+Detailed mechanism-of-action data is marked as a data gap (DG002, High severity) in this evidence pack. However, the accompanying rationale for the top-ranked prediction describes idarucizumab's mechanism: it binds dabigatran specifically and irreversibly, with affinity far exceeding dabigatran's affinity for thrombin, thereby neutralizing dabigatran's anticoagulant activity. It has no described action on erythrocyte structure, hemoglobin synthesis, or any related metabolic pathway.
 
----
+Hemoglobinopathy refers to inherited disorders of red blood cell structure or hemoglobin synthesis — a disease category with no known overlap with the coagulation cascade or thrombin-related targets that idarucizumab acts on. The rationale accompanying this prediction states directly that the high TxGNN score likely arises from drug-disease node embedding similarity in the knowledge graph rather than a biologically grounded mechanism.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | hemoglobinopathy | 95.66% | DL |
-| 2 | rheumatoid arthritis | 95.52% | DL |
-| 3 | partial deletion of the short arm of chromosome 16 | 95.00% | DL |
-| 4 | beta-thalassemia with other manifestations | 94.98% | DL |
-| 5 | pyruvate kinase deficiency of red cells | 94.82% | DL |
-| 6 | hemolytic anemia due to glucophosphate isomerase deficiency | 94.56% | DL |
-| 7 | pyropoikilocytosis, hereditary | 94.26% | DL |
-| 8 | bronchitis | 94.09% | DL |
-| 9 | gout | 93.75% | DL |
-| 10 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 93.62% | DL |
-| 11 | osteoarthritis | 93.49% | DL |
-| 12 | antithrombin deficiency type 2 | 92.76% | DL |
-| 13 | osteoarthritis susceptibility | 92.71% | DL |
-| 14 | heparin cofactor 2 deficiency | 92.67% | DL |
-| 15 | factor 5 excess with spontaneous thrombosis | 92.55% | DL |
-| 16 | brachydactyly-syndactyly syndrome | 92.21% | DL |
-| 17 | pseudoachondroplasia | 91.53% | DL |
-| 18 | thrombophilia | 91.36% | DL |
-| 19 | hepatic porphyria | 90.95% | DL |
-| 20 | myocardial infarction | 90.84% | DL |
-
-*Showing top 20 of 50 predictions.*
+This assessment is reinforced by the pattern across all ten of TxGNN's top predictions for this drug: none of the other nine (rheumatoid arthritis, chromosome 16p deletion, beta-thalassemia, pyruvate kinase deficiency, bronchitis, gout, and others) present a plausible mechanistic bridge to idarucizumab's known activity either, and each is independently flagged as Hold at decision stage S0. On current evidence, this prediction does not meet minimal biological plausibility and should be treated as a candidate for further investigation, not as a validated repurposing signal.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+This product currently holds no marketing authorization in the evaluated jurisdiction — market status is "Not Marketed" with 0 authorizations on file, so no license table can be produced.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Note: complete TFDA label warnings and contraindications for this drug are currently missing (data gap DG001, Blocking severity) — this absence by itself prevents the candidate from proceeding to an initial safety screening (S1), independent of the efficacy evidence gap above.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+There are zero clinical trials and zero publications supporting a hemoglobinopathy indication, and the mechanistic rationale supplied with the prediction itself concludes the signal is likely a knowledge-graph artifact rather than genuine pharmacology. Separately, a blocking data gap in TFDA label warnings/contraindications means this candidate cannot yet enter even an initial safety review.
+
+**To proceed, the following is needed:**
+- TFDA/SmPC label warnings and contraindications (DG001, Blocking) — required before any S1 safety screening
+- Verified mechanism-of-action data for idarucizumab (DG002, High) — required for a rigorous mechanistic relevance analysis
+- An independent mechanistic hypothesis or preclinical evidence linking dabigatran-reversal pharmacology to hemoglobinopathy, since none currently exists
+- Resolution of the drug-drug interaction query, which currently returns "not_found"
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

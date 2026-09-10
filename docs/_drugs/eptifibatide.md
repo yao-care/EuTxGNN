@@ -1,143 +1,110 @@
 ---
 layout: default
 title: Eptifibatide
-description: "eptifibatide drug repurposing predictions from TxGNN. Evidence level L4 with 51 predicted indications."
-parent: Preclinical Evidence (L4)
-nav_order: 217
-evidence_level: L4
-indication_count: 51
+parent: 僅模型預測 (L5)
+nav_order: 226
+evidence_level: L5
+indication_count: 10
 ---
 
 # Eptifibatide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Eptifibatide: From Acute Coronary Syndrome to Hemoglobinopathy (Sickle Cell Disease)
+
+## One-Sentence Summary
+
+> Eptifibatide is a GPIIb/IIIa (αIIbβ3 integrin) antagonist historically used to inhibit platelet aggregation in acute coronary syndromes.
+> Among the 10 TxGNN-predicted indications for this drug, **Hemoglobinopathy** (sickle cell disease vaso-occlusive crisis) is the only candidate with real human trial data —
+> **1 completed-phase clinical trial (terminated)** and **4 supporting publications** — even though it ranks 7th, not 1st, by raw TxGNN score.
+> The top-ranked prediction (rheumatoid arthritis, score 99.99%) has zero supporting evidence and is therefore not the focus of this report.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Eptifibatide |
-| DrugBank ID | [DB00063](https://go.drugbank.com/drugs/DB00063) |
-| Brand Names (EU) | Eptifibatide Accord, Integrilin |
-| Evidence Level | L4 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.99% |
+| Item | Content |
+|------|------|
+| Original Indication | Acute Coronary Syndrome (ACS) / Unstable Angina — inferred from cited literature context; no formal regulatory label text is available since this product is not marketed in this jurisdiction |
+| Predicted New Indication | Hemoglobinopathy (sickle cell disease, acute vaso-occlusive pain crisis) |
+| TxGNN Prediction Score | 99.98% (rank #441 overall) |
+| Evidence Level | L3 |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Integrilin is intended for use with acetylsalicylic acid and unfractionated heparin. Integrilin is indicated for the prevention of early myocardial infarction in patients presenting with unstable angina or non-Q-wave myocardial infarction with the last episode of chest pain occurring within 24 hours and with ECG changes and / or elevated cardiac enzymes. Patients most likely to benefit from Integrilin treatment are those at high risk of developing myocardial infarction within the first 3-4 days 
+Eptifibatide is a cyclic heptapeptide GPIIb/IIIa (integrin αIIbβ3) receptor antagonist that blocks the final common pathway of platelet aggregation. This mechanism underlies its established antithrombotic use in acute coronary syndromes, where blocking fibrinogen cross-linking between platelets prevents thrombus propagation in the coronary vasculature (as referenced in the cited literature).
 
----
+Sickle cell disease and related hemoglobinopathies share a pathophysiology in which platelet activation and adhesion contribute to microvascular occlusion, driving the acute painful crises that define the disease. Because Eptifibatide's core action — blocking platelet aggregation via αIIbβ3 — is mechanistically agnostic to the vascular bed involved, a link between Eptifibatide and hemoglobinopathy is biologically plausible. This is also the *only* candidate among this drug's top 10 TxGNN predictions that has already been tested directly in humans: a Phase I/II trial (NCT00834899) plus three independent publications from the same U.S. research group examining safety, pain-crisis outcomes, and inflammatory markers.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | rheumatoid arthritis | 99.99% | DL |
-| 2 | sickle cell-hemoglobin d disease syndrome | 99.98% | DL |
-| 3 | sickle cell-beta-thalassemia disease syndrome | 99.98% | DL |
-| 4 | sickle cell-hemoglobin c disease syndrome | 99.98% | DL |
-| 5 | sickle cell-hemoglobin E disease syndrome | 99.98% | DL |
-| 6 | hereditary persistence of fetal hemoglobin-sickle cell disease syndrome | 99.98% | DL |
-| 7 | hemoglobinopathy | 99.98% | DL |
-| 8 | female breast carcinoma | 99.97% | DL |
-| 9 | beta-thalassemia with other manifestations | 99.97% | DL |
-| 10 | partial deletion of the short arm of chromosome 16 | 99.96% | DL |
-| 11 | pyropoikilocytosis, hereditary | 99.96% | DL |
-| 12 | hemolytic anemia due to glucophosphate isomerase deficiency | 99.96% | DL |
-| 13 | brachydactyly-syndactyly syndrome | 99.96% | DL |
-| 14 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.95% | DL |
-| 15 | pyruvate kinase deficiency of red cells | 99.95% | DL |
-| 16 | sickle cell disease and related diseases | 99.94% | DL |
-| 17 | sickle cell anemia | 99.89% | DL |
-| 18 | hereditary persistence of fetal hemoglobin | 99.86% | DL |
-| 19 | gout | 99.86% | DL |
-| 20 | myocardial infarction | 99.85% | DL |
-
-*Showing top 20 of 51 predictions.*
+By comparison, the other high-scoring TxGNN candidates (rheumatoid arthritis, several sickle-cell subtype syndromes without independent data, beta-thalassemia, and the 16p13 deletion syndrome) rest mainly on ontological proximity within the knowledge graph rather than independent evidence, and should be treated as far more speculative. A separate, low-tier signal also exists for female breast carcinoma, based only on in vitro/microfluidic-chip data showing αIIbβ3 blockade may reduce platelet-tumor cell interactions relevant to metastasis — this is preclinical only and not pursued further here.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| hemoglobinopathy | L4 | 1 | 0 | AI prediction only |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00834899](https://clinicaltrials.gov/study/NCT00834899) | Phase 1/2 | Terminated | 13 | Evaluated safety and efficacy of Eptifibatide for acute pain episodes in sickle cell disease, testing the hypothesis that platelet activation and resultant inflammation contribute to vaso-occlusive crises. Terminated early (2012); reason not stated in available data. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [17916103](https://pubmed.ncbi.nlm.nih.gov/17916103/) | 2007 | Phase 1 Clinical Trial | British Journal of Haematology | First-in-SCA-patient study; Eptifibatide safely inhibited platelet aggregation and CD40 ligand release in 4 steady-state sickle cell anaemia patients, supporting the ACS-like platelet/CD40L pathophysiology rationale. |
+| [23973010](https://pubmed.ncbi.nlm.nih.gov/23973010/) | 2013 | Pilot Clinical Study | Thrombosis Research | Pilot study of Eptifibatide during acute painful episodes in SCD; evaluated safety and efficacy of αIIbβ3 blockade in reducing crisis-related platelet activation. |
+| [29322543](https://pubmed.ncbi.nlm.nih.gov/29322543/) | 2018 | Clinical Study (Post-hoc/Mechanistic) | American Journal of Hematology | Follow-up analysis from the same trial cohort examining Eptifibatide's effect on inflammatory markers during acute pain episodes. |
+| [22156199](https://pubmed.ncbi.nlm.nih.gov/22156199/) | 2012 | In Vitro Preclinical | The Journal of Clinical Investigation | Microfluidic "endothelialized" model of microvascular occlusion/thrombosis in hematologic diseases (SCD, HUS); supports the general biophysical mechanism but does not test Eptifibatide directly. |
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information. No drug-drug interaction records, key warnings, or contraindication data were found for this drug in the current evidence pack.
 
 ---
 
-## Citation
+## Conclusion and Next Steps
 
-If using this data, please cite:
+**Decision: Hold**
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Rationale:**
+The mechanistic rationale is sound and this is the only one of Eptifibatide's 10 TxGNN-predicted indications with direct human trial data, but the pivotal trial (NCT00834899, n=13) was terminated for an undocumented reason and no properly powered efficacy trial exists. This is insufficient to move beyond a research hypothesis at this time.
+
+**To proceed, the following is needed:**
+- Reason for termination of NCT00834899 (safety, futility, or enrollment failure changes the risk calculus materially)
+- Official mechanism-of-action and labeling/safety data (SmPC/TFDA-equivalent warnings and contraindications — currently a blocking data gap)
+- A properly powered Phase 2 trial with vaso-occlusive crisis frequency/duration as a primary endpoint
+- Bleeding-risk assessment specific to the SCD population, given baseline coagulopathy differences from the ACS population where Eptifibatide is conventionally used
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

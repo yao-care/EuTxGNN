@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Oseltamivir
-description: "Oseltamivir drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 426
+parent: 僅模型預測 (L5)
+nav_order: 438
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Oseltamivir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Oseltamivir: From Influenza to Pyelonephritis
+
+## One-Sentence Summary
+
+> Oseltamivir is a neuraminidase inhibitor established for the **treatment and prophylaxis of influenza**.
+> The TxGNN model predicts it may be effective for **Pyelonephritis**, but this candidate is currently supported by **0 clinical trials** and only **1 loosely related publication**, which the evidence review judges to be search noise rather than a genuine mechanistic hypothesis.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Oseltamivir |
-| DrugBank ID | [DB00198](https://go.drugbank.com/drugs/DB00198) |
-| Brand Names (EU) | Tamiflu |
+| Item | Content |
+|------|------|
+| Original Indication | Influenza (treatment/prophylaxis) — based on the drug's established pharmacological class (neuraminidase inhibitor); no jurisdiction-specific approved label text is available in this evidence pack (see Data Gap DG001) |
+| Predicted New Indication | Pyelonephritis |
+| TxGNN Prediction Score | 97.85% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.72% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of influenza Tamiflu is indicated in adults and children including full term neonates who present with symptoms typical of influenza, when influenza virus is circulating in the community. Efficacy has been demonstrated when treatment is initiated within two days of first onset of symptoms.Prevention of influenza  Post-exposure prevention in individuals one year of age or older following contact with a clinically diagnosed influenza case when influenza virus is circulating in the commun
+Currently, detailed mechanism of action data is not available in this evidence pack (Data Gap DG002). Based on information embedded in the surrounding evidence (e.g., mechanistic notes on related candidates in this batch), oseltamivir is known to act as a **neuraminidase inhibitor** that blocks influenza viral replication — this is its established, well-documented pharmacology, not a data-gap item for the drug class itself.
 
----
+Pyelonephritis is a bacterial urinary tract/renal infection with no established pathophysiological link to viral neuraminidase inhibition. The only literature item attached to this prediction (PMID 26033556) is a 2015 review on **influenza during pregnancy**, which discusses obstetric complications of seasonal flu — it does not address renal or urinary tract infection, oseltamivir's antibacterial activity, or any mechanism connecting the two conditions.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | influenza, severe, susceptibility to | 98.72% | DL |
-| 2 | pyelonephritis | 97.85% | DL |
-| 3 | disorder of tyrosine metabolism | 96.69% | DL |
-| 4 | teratogenic Pierre Robin syndrome | 96.12% | DL |
-| 5 | disorder of phenylalanine metabolism | 95.74% | DL |
-| 6 | tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria | 95.10% | DL |
-| 7 | staphylococcus aureus infection | 95.05% | DL |
-| 8 | cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency | 93.93% | DL |
-| 9 | pneumonia | 92.14% | DL |
-| 10 | influenza | 90.74% | DL |
-| 11 | streptococcal pneumonia | 90.46% | DL |
-| 12 | aspergillosis, susceptibility to | 89.78% | DL |
-| 13 | dengue virus, susceptibility to | 89.78% | DL |
-| 14 | susceptibility to HIV infection | 89.78% | DL |
-| 15 | legionnaire disease, susceptibility to | 89.78% | DL |
-| 16 | Schistosoma mansoni infection, susceptibility | 89.50% | DL |
-| 17 | primitive portal vein thrombosis | 88.90% | DL |
-| 18 | early-onset familial noncirrhotic portal hypertension | 88.90% | DL |
-| 19 | hepatopulmonary syndrome | 88.90% | DL |
-| 20 | idiopathic copper-associated cirrhosis | 88.90% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given the absence of clinical trials, absence of any pyelonephritis-specific literature, and the review's own assessment that this is likely an embedding-similarity artifact rather than a real biological hypothesis, the mechanistic rationale for this prediction is **not supported**. The high TxGNN score reflects graph-based similarity in the knowledge graph, not verified pharmacological plausibility.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [26033556](https://pubmed.ncbi.nlm.nih.gov/26033556/) | 2015 | Review | Presse médicale (Paris, France : 1983) | Reviews influenza risk and management during pregnancy (increased pneumonia/hospitalization risk); does not address pyelonephritis, renal infection, or an antibacterial mechanism for oseltamivir — judged as off-topic to this indication pairing |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations are currently recorded for oseltamivir in this jurisdiction (market status: Not Marketed; total licenses: 0).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked TxGNN prediction (pyelonephritis) has no clinical trial support and its single attached publication is unrelated to the proposed indication. The evidence review classifies this pairing as likely knowledge-graph noise rather than a testable pharmacological hypothesis, so it does not meet the bar for further evaluation at this time.
+
+**To proceed, the following is needed:**
+- A validated mechanistic rationale connecting neuraminidase inhibition (or any other oseltamivir target) to bacterial pyelonephritis/UTI pathophysiology
+- Targeted literature search specifically on oseltamivir and urinary tract/renal infection outcomes (the current hit was retrieved on general "influenza" text overlap)
+- TFDA/EMA label data — safety warnings and contraindications (Data Gap DG001, Blocking) and formal MOA documentation (Data Gap DG002, High) before any S1 safety screening can begin
+
+**Note for decision-makers:** Within this same evidence pack, a lower-ranked TxGNN candidate — **pneumonia** (rank 8, score 92.1%) — shows substantially stronger support (L1 evidence, multiple completed Phase 3 RCTs, "Proceed with Guardrails" recommendation) and may warrant prioritization over this top-ranked but poorly supported pyelonephritis candidate.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
