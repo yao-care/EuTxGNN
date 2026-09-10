@@ -54,11 +54,35 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（8 則）
 
+### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26% - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+
+2026-09-09 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+
+---
+
+### [Un estudio del Puerta de Hierro de Majadahonda mejora la identificación del riesgo de muerte súbita en pacientes con miocardiopatía dilatada - Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
+
+2026-09-09 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
+
+---
+
 ### [Anzeichen im Gesicht: Dieses Merkmal warnt vor Herzinfarkt oder Schlaganfall](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
 
 2026-09-09 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[morgenpost.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
+
+---
+
+### [Hospital's emergency stroke unit closes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41bVhrMjhOejZuVnIxcmZ6NWhkQlJadDNIN0RsNkdZZGNoeFJXaFdwWnpaRVU3WU5IY2s0SDZTUFBPajZWU1BQb1MxQWd5LV9ES0ZjNEpNRTVzaEN6?oc=5)
+
+2026-09-08 <span class="news-indication-tag">stroke</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41bVhrMjhOejZuVnIxcmZ6NWhkQlJadDNIN0RsNkdZZGNoeFJXaFdwWnpaRVU3WU5IY2s0SDZTUFBPajZWU1BQb1MxQWd5LV9ES0ZjNEpNRTVzaEN6?oc=5)
 
 ---
 
@@ -82,39 +106,15 @@ permalink: /news/telmisartan/
 
 2026-09-08 <span class="news-indication-tag">ictus</span>
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
-
----
-
-### [El Puerta de Hierro identifica pacientes con miocardiopatía dilatada con mayor riesgo de muerte súbita y arritmias](https://news.google.com/rss/articles/CBMilgJBVV95cUxQUW5YWkphWkZZWGdlbHFjNjlzeHgwWlpIWXo5MFZDQzZLNXBhc2czdnB5OEFuQ2lJa3otZnJuTUpaVGgtRDRnS2RxVkd6dHVHM3luSHJuWlV3dkQ2a3g3NW1jYjNKZnl3amZHS1o4UTY2VUlDbDFFUkdzcy1iNmJBcUdqZTFRV3RnYWtjRzVXeGZsVDA3YVc4bDVWci1rTUVsUDVYbEJJVWZPNnAxUEZtcnZWZkZzRUNieTdRaG5vQ2s3YU12OU0zdjhzdnFEOG1yVFlaaGZnTHBDV0lFYTljOUUtaGN1ZHU5ZGE5eU1lR2IzRHdJZTJtSjd1Z19hcnY0YlNUOTRyRW1VNzRsMExiaklQOFdkUQ?oc=5)
-
-2026-09-08 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMilgJBVV95cUxQUW5YWkphWkZZWGdlbHFjNjlzeHgwWlpIWXo5MFZDQzZLNXBhc2czdnB5OEFuQ2lJa3otZnJuTUpaVGgtRDRnS2RxVkd6dHVHM3luSHJuWlV3dkQ2a3g3NW1jYjNKZnl3amZHS1o4UTY2VUlDbDFFUkdzcy1iNmJBcUdqZTFRV3RnYWtjRzVXeGZsVDA3YVc4bDVWci1rTUVsUDVYbEJJVWZPNnAxUEZtcnZWZkZzRUNieTdRaG5vQ2s3YU12OU0zdjhzdnFEOG1yVFlaaGZnTHBDV0lFYTljOUUtaGN1ZHU5ZGE5eU1lR2IzRHdJZTJtSjd1Z19hcnY0YlNUOTRyRW1VNzRsMExiaklQOFdkUQ?oc=5)
+來源：[20minutos.es](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
 
 ---
 
 ### [Xylitol Linked to Increased Long-Term Cardiovascular Risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
 
-2026-09-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span>
+2026-09-08 <span class="news-indication-tag">stroke</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
-
----
-
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
-2026-09-07 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
----
-
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">heart disease</span>
-
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 ---
 

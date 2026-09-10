@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Dr. Obeso: «La tecnología de ultrasonidos permite tratar la enfermedad de Parkinson sin abrir el cráneo»](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
-
-2026-09-08 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZfVEQzdEZRY2EyRHhWdkF5WXliTko1S2t2dnMxOFRqaUZSaEpFdENaSGU3SkhYWEJrN0RTZlRPdkdMa1plVFZyYU4yTWxlV0w4M3dKZTEyaGtBeUE4VTdkVThPZ0tBT1Fqby1DZGphd0RHQ2lqVEsxc1k2ODFhV1VUOG9iMU9jQlpNdU5acE55eWxMTkpNcWNHeDEybWNDNWh3UUhMbW1GamlYMVlF0gG0AUFVX3lxTE93LTljcmRvV1NFQmJyVTYySW9DcWhwb1JhaFE0WXNNWUdUM1V2ZXJHUVpYNDkyb3dXMVhPVWNWV1Z4RHE4Sk1PQzFMajhlREw1UjdSWXZwNEdkcFBnYlB5NEsxZ1NjMEZxMXBxMXJUaVowZGFaakRCLVp0SnpqRWFOdXZLaHNWODlKaDFjc2paREdLNmFlM21Xc1V1eFF5bFhXUV9DZlU4YVdVZ1kwWFFwNVBWdA?oc=5)
-
----
-
-### [Asthma und COPD: Häufige Anwendung von Inhalationsspray mit höherem Herzrisiko verbunden](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
-
-2026-09-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

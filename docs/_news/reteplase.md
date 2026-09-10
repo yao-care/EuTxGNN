@@ -14,7 +14,7 @@ permalink: /news/reteplase/
 ---
 
 <p class="key-answer" data-question="Reteplase 有什麼相關新聞？">
-<strong>Reteplase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Reteplase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/reteplase/
 <p><a href="{{ '/drugs/reteplase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [El Puerta de Hierro identifica pacientes con miocardiopatía dilatada con mayor riesgo de muerte súbita y arritmias](https://news.google.com/rss/articles/CBMilgJBVV95cUxQUW5YWkphWkZZWGdlbHFjNjlzeHgwWlpIWXo5MFZDQzZLNXBhc2czdnB5OEFuQ2lJa3otZnJuTUpaVGgtRDRnS2RxVkd6dHVHM3luSHJuWlV3dkQ2a3g3NW1jYjNKZnl3amZHS1o4UTY2VUlDbDFFUkdzcy1iNmJBcUdqZTFRV3RnYWtjRzVXeGZsVDA3YVc4bDVWci1rTUVsUDVYbEJJVWZPNnAxUEZtcnZWZkZzRUNieTdRaG5vQ2s3YU12OU0zdjhzdnFEOG1yVFlaaGZnTHBDV0lFYTljOUUtaGN1ZHU5ZGE5eU1lR2IzRHdJZTJtSjd1Z19hcnY0YlNUOTRyRW1VNzRsMExiaklQOFdkUQ?oc=5)
+### [Un estudio del Puerta de Hierro de Majadahonda mejora la identificación del riesgo de muerte súbita en pacientes con miocardiopatía dilatada - Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
 
-2026-09-08 <span class="news-indication-tag">cardiopatía</span>
+2026-09-09 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMilgJBVV95cUxQUW5YWkphWkZZWGdlbHFjNjlzeHgwWlpIWXo5MFZDQzZLNXBhc2czdnB5OEFuQ2lJa3otZnJuTUpaVGgtRDRnS2RxVkd6dHVHM3luSHJuWlV3dkQ2a3g3NW1jYjNKZnl3amZHS1o4UTY2VUlDbDFFUkdzcy1iNmJBcUdqZTFRV3RnYWtjRzVXeGZsVDA3YVc4bDVWci1rTUVsUDVYbEJJVWZPNnAxUEZtcnZWZkZzRUNieTdRaG5vQ2s3YU12OU0zdjhzdnFEOG1yVFlaaGZnTHBDV0lFYTljOUUtaGN1ZHU5ZGE5eU1lR2IzRHdJZTJtSjd1Z19hcnY0YlNUOTRyRW1VNzRsMExiaklQOFdkUQ?oc=5)
-
----
-
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">heart disease</span>
-
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
+來源：[Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
 
 ---
 

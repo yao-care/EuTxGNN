@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+2026-09-10 <span class="news-indication-tag">migraña</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+---
 
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Caminar para hacer ejercicio todos los días: Descubriendo beneficios inesperados.](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHdaRk5MWnc1cGRvSmFxczhUTlF3STZ2aDZ0cUNLX2ZVV2hCV1BVNnpqTzBhaklpTjdSWUJfSG95MEU3emJ5cTNwMlhvd3BfWThGMHBZeXJLZVlHNXRFVDZnUzd5T0hCOWZtNThETEVwNV85TzZDRFhFRm9vaTVhV290cC1pVlk?oc=5)
-
-2026-09-09 <span class="news-indication-tag">asma</span>
-
-來源：[vietnam.vn](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHdaRk5MWnc1cGRvSmFxczhUTlF3STZ2aDZ0cUNLX2ZVV2hCV1BVNnpqTzBhaklpTjdSWUJfSG95MEU3emJ5cTNwMlhvd3BfWThGMHBZeXJLZVlHNXRFVDZnUzd5T0hCOWZtNThETEVwNV85TzZDRFhFRm9vaTVhV290cC1pVlk?oc=5)
-
----
-
 ### [Osakidetza despliega ASMA BAT: el nuevo protocolo unificado para la atención del asma infantil en Euskadi - Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
 
 2026-09-09 <span class="news-indication-tag">asma</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
-
----
-
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">migraña</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
 
 ---
 
@@ -104,17 +96,9 @@ permalink: /news/regadenoson/
 
 ### [Semaglutide e asma, fino al 40% di attacchi in meno: il beneficio inatteso dei farmaci GLP-1](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
 
-2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">asma</span>
+2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asma</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
-
----
-
-### [Asthma und COPD: Häufige Anwendung von Inhalationsspray mit höherem Herzrisiko verbunden](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
-
-2026-09-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
 
 ---
 

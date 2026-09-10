@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Cholesterin senken: Neue Studie zu Statinen überrascht Forscher](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRHU2ZOcXdOMnM4RkJqR01KdDlUbVlzanUxZ3pYVVlwX2FPLTliOFJIVzhva2FybkJ2RUZIYlFkUTIzc2RkMUhyNkMxV1JlaWRnZy1pcXpmY0pZYkhDTHhqY1Y4N28xZlVyZ0hLcmN6ZUVWT2hSb2xaY3dyNExSVUQyano0VjNibEpreVFzX1ZBNWRQZm0xdmtXTEE4V2s0SV9Md1RCbDBJRnFL?oc=5)
+
+2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+
+來源：[morgenpost.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRHU2ZOcXdOMnM4RkJqR01KdDlUbVlzanUxZ3pYVVlwX2FPLTliOFJIVzhva2FybkJ2RUZIYlFkUTIzc2RkMUhyNkMxV1JlaWRnZy1pcXpmY0pZYkhDTHhqY1Y4N28xZlVyZ0hLcmN6ZUVWT2hSb2xaY3dyNExSVUQyano0VjNibEpreVFzX1ZBNWRQZm0xdmtXTEE4V2s0SV9Md1RCbDBJRnFL?oc=5)
+
+---
+
+### [Médicos coinciden: "La cafeína se asocia con la reducción de los riesgos de enfermedades como el párkinson, el alzhéimer o la diabetes tipo II, pero la evidencia actual no justifica recomendarla para su prevención" - Mundo Deportivo](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMVFzVDBLbFduOXgxU25oZkd5SExkV0RQUl81Tm9WdmxubzczaGdaWEpyMWlRYUNmczdUYkNuXy1nNC1QWU9rN0tzdjBGNFp0WHlHRXFGSlgyRGhQam10Q3p2SVFPNTNObGpJNXZJMS1mWU82S1RzWHk1MHVYUG54LXdqbHBLWWRIYXZoX0hZUFgxaHg1aHdtcGQ2VWFMRmRWa0lPOWdHZzI2RW5VbWNxSXFpNUl4cXl0aGpGWFlqYm4tY0xiZFNTZkQzdFVBU3pLZzVwV09ZTldsWHA4NGkzNmU3elNEX2k0aHllQkxyVG9wbVBqdG94MmZibFpnaFRvVkJEQVZlUEtqYzNrUTdQNXJSRFc4eDJtWW03WGlab2wzZkVqbXBFdGpGc3F0OXpZeWxiRndEWjRvN29HSEpWbkdR0gHPAkFVX3lxTE5GN0hMWFpJRENQU3RQZTZVbkl1bzZ5MGlsYmNRVjVXMmdURjloQmhfQlRBOHdWX09KSmtGVjFrY1ZuNVBKZWdiZjJxenc1UFF4SDROcU55RVVQalNPNUh5UHlXNk1VbWZKSmRtcEltbkRwNUsxTDY4YmJDaEZDNHRQOUZYSGdxcklSSGZnck94WEFteUdYb1h1RFJsYnc3dThzeGxKWG5PRFE5Z3RJWXJSOUJFMWluNk5xTDNWdE5aRU56eDhhX1JzZzE1Y2k5cTJMTjM1WW81OFdxVXlpdG1pMzlabk9OV2dSa1lfN09oMko3UmxacExVZUQwQjZGZTZuTV85YVhfeHZCY0hiNHlfUV90YW81NXBUWUMwRHRlZk5pSVozSWFxYTJYZHZoZzc1MjJXajhYREZaVkhOMWtmc3JZMllIRlQwSjFVaFkw?oc=5)
+
+2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMVFzVDBLbFduOXgxU25oZkd5SExkV0RQUl81Tm9WdmxubzczaGdaWEpyMWlRYUNmczdUYkNuXy1nNC1QWU9rN0tzdjBGNFp0WHlHRXFGSlgyRGhQam10Q3p2SVFPNTNObGpJNXZJMS1mWU82S1RzWHk1MHVYUG54LXdqbHBLWWRIYXZoX0hZUFgxaHg1aHdtcGQ2VWFMRmRWa0lPOWdHZzI2RW5VbWNxSXFpNUl4cXl0aGpGWFlqYm4tY0xiZFNTZkQzdFVBU3pLZzVwV09ZTldsWHA4NGkzNmU3elNEX2k0aHllQkxyVG9wbVBqdG94MmZibFpnaFRvVkJEQVZlUEtqYzNrUTdQNXJSRFc4eDJtWW03WGlab2wzZkVqbXBFdGpGc3F0OXpZeWxiRndEWjRvN29HSEpWbkdR0gHPAkFVX3lxTE5GN0hMWFpJRENQU3RQZTZVbkl1bzZ5MGlsYmNRVjVXMmdURjloQmhfQlRBOHdWX09KSmtGVjFrY1ZuNVBKZWdiZjJxenc1UFF4SDROcU55RVVQalNPNUh5UHlXNk1VbWZKSmRtcEltbkRwNUsxTDY4YmJDaEZDNHRQOUZYSGdxcklSSGZnck94WEFteUdYb1h1RFJsYnc3dThzeGxKWG5PRFE5Z3RJWXJSOUJFMWluNk5xTDNWdE5aRU56eDhhX1JzZzE1Y2k5cTJMTjM1WW81OFdxVXlpdG1pMzlabk9OV2dSa1lfN09oMko3UmxacExVZUQwQjZGZTZuTV85YVhfeHZCY0hiNHlfUV90YW81NXBUWUMwRHRlZk5pSVozSWFxYTJYZHZoZzc1MjJXajhYREZaVkhOMWtmc3JZMllIRlQwSjFVaFkw?oc=5)
+
+---
+
+### [Fin de commercialisation de 5 médicaments : ce qui va changer en pharmacie d'ici fin décembre pour des millions de Français - La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
+
+2026-09-10 <span class="news-indication-tag">diabète</span>
+
+來源：[La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Gestationsdiabetes verkürzt Manifestationsalter um 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPakxCYlBKQjRuQzNnNWk5Uk82cDJUdUdIMWZzb2Z6aVB0U0h2VUJLZWFaRlNuVnJ5X3hoZ3RiV2QzakZmWGtIRUd3cFA2MVR3NmtHNFFJTlo0eDh4NG9hbzBlX2V6YUp6WWoyN1lsVVlFQmdFUlI1Unl3MjYtVVpyZW9YS1FhLWdDc2xjYTZ0Zm8yMHpvMUR5NDFnbVVBM2FmX3Vqd0VybjVwbzM5NHNMNmVkYmRUbUZ4WkE?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Statine im Alter: 30% weniger Herzinfarkte bei über 70-Jährigen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+### [Carenza di vitamina B12. Il corpo perde colpi in silenzio](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXRkcnpEVkkzaGdJYnlFVTAxWUZrbzJIb0tWRjJPNXVPVWtrLUF5eE1iWE5hN2Qwb3BSaUlxWDNwLW91RWg3bU9OWWJHbFFKSWpmUGkzTjNlWmliekk4T0tSOFdkcU5sQl90U1ZrSkFLeVJYTlktNG9Pb0s3WGp4d3A5QWpadzZxQURQUUhQanFMLXVlaC1qb2NlMFltZXBaOFlxbEk5a2Jybms?oc=5)
 
-2026-09-09 <span class="news-indication-tag">diabetes</span>
+2026-09-09 <span class="news-drug-tag">Metformin</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXRkcnpEVkkzaGdJYnlFVTAxWUZrbzJIb0tWRjJPNXVPVWtrLUF5eE1iWE5hN2Qwb3BSaUlxWDNwLW91RWg3bU9OWWJHbFFKSWpmUGkzTjNlWmliekk4T0tSOFdkcU5sQl90U1ZrSkFLeVJYTlktNG9Pb0s3WGp4d3A5QWpadzZxQURQUUhQanFMLXVlaC1qb2NlMFltZXBaOFlxbEk5a2Jybms?oc=5)
 
 ---
 
@@ -74,15 +98,7 @@ permalink: /news/metformin/
 
 2026-09-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
-
----
-
-### [Diabetes: Risiko gefährlicher Nebenwirkungen bei diesen Medikamenten](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHFxZUtDbDdyVFZGOFNXNXk3Wko4V1ljZmZaSjMyNDB4VHRESUhKYW05MEN5N3FDeXFvUWI0anNiNHQ1dHpLbmROU1c1SGJxT0NrOXhZclpNRWh3Rm1XOGZad1dIeUduLXFKOGJyM1E1ZWtsb2tmWWpsR1dFWkNGZjZtYUxGcmJvdDR1enhuRTU4NVB2dFpCelkxSjNsZ3lCY3FOekxDQnozMzdzY0dJbG5HOWg3QzVkVTQ0TFdsanY3OXFGMlUyOA?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHFxZUtDbDdyVFZGOFNXNXk3Wko4V1ljZmZaSjMyNDB4VHRESUhKYW05MEN5N3FDeXFvUWI0anNiNHQ1dHpLbmROU1c1SGJxT0NrOXhZclpNRWh3Rm1XOGZad1dIeUduLXFKOGJyM1E1ZWtsb2tmWWpsR1dFWkNGZjZtYUxGcmJvdDR1enhuRTU4NVB2dFpCelkxSjNsZ3lCY3FOekxDQnozMzdzY0dJbG5HOWg3QzVkVTQ0TFdsanY3OXFGMlUyOA?oc=5)
+來源：[20minutos.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Semaglutide e asma, fino al 40% di attacchi in meno: il beneficio inatteso dei farmaci GLP-1](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
+### [Dr Amir Khan issues statins, ramipril, metformin warning in 'hospital admissions' alert - Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZXN0dDNGNmpkWVFZLWE1M1haOGxhU3N5NVZKUmxBWjM3dkZWREx5MkwzLUFOM1pYWDZjSTNwbnctNEhDVEZYbW55dF9QWmE4b0pwNGdHY3ZBMG5kRU84cUQ4c0pBcVJSbXJldFpmTDF6cXh6SVc4dkxtMjlJQdIBgwFBVV95cUxNQVZoV05hMmlaMW5GSkZMR3ZLZUdwS0VmWF85ckkyMWctSlUtLXhZcnE1bmc4bC10eXhEME0wR2hIUjVuQWJLSXN0QXB0eXZ3MDhDU0lVZ1VCbmJraVNsa0NTSGxkaXZMcFMxeVZNemZfeXlZNVRpZzhUSjd0TU44SUttSQ?oc=5)
 
-2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">asma</span>
+2026-09-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZXN0dDNGNmpkWVFZLWE1M1haOGxhU3N5NVZKUmxBWjM3dkZWREx5MkwzLUFOM1pYWDZjSTNwbnctNEhDVEZYbW55dF9QWmE4b0pwNGdHY3ZBMG5kRU84cUQ4c0pBcVJSbXJldFpmTDF6cXh6SVc4dkxtMjlJQdIBgwFBVV95cUxNQVZoV05hMmlaMW5GSkZMR3ZLZUdwS0VmWF85ckkyMWctSlUtLXhZcnE1bmc4bC10eXhEME0wR2hIUjVuQWJLSXN0QXB0eXZ3MDhDU0lVZ1VCbmJraVNsa0NTSGxkaXZMcFMxeVZNemZfeXlZNVRpZzhUSjd0TU44SUttSQ?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/metformin/
 2026-09-08 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnQtYXJpZ3hkUzY0YVhOcWFHM1poUU4xbUhXWUtxNk1RT2cxZXhCNC1YOTlOSXFfaHNXSUxYSjVMUjhhcHl2bzQyMExzSEZBWm5OSXZfRkxvY2E0UDRxRjJJa2RXUFFkbDY5aFNyM0lGdmppWnBwNUlHbVZBSWVscUNWeWI1REJJSnZ5Vmt1cmlNajZpR1JYYUlQUS1sanp0bE44MVllbFhoaXNScjBuRFpiV1BhZ25JNHVjOFVOTXN5NV9DOXNRS1V4TThCTGhEYWVpOHpHLWhFbEI2LU9FRVotNkVTSGcyT1Y0?oc=5)
-
----
-
-### [Dr Amir Khan issues statins, ramipril, metformin warning in 'hospital admissions' alert - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZXN0dDNGNmpkWVFZLWE1M1haOGxhU3N5NVZKUmxBWjM3dkZWREx5MkwzLUFOM1pYWDZjSTNwbnctNEhDVEZYbW55dF9QWmE4b0pwNGdHY3ZBMG5kRU84cUQ4c0pBcVJSbXJldFpmTDF6cXh6SVc4dkxtMjlJQdIBgwFBVV95cUxNQVZoV05hMmlaMW5GSkZMR3ZLZUdwS0VmWF85ckkyMWctSlUtLXhZcnE1bmc4bC10eXhEME0wR2hIUjVuQWJLSXN0QXB0eXZ3MDhDU0lVZ1VCbmJraVNsa0NTSGxkaXZMcFMxeVZNemZfeXlZNVRpZzhUSjd0TU44SUttSQ?oc=5)
-
-2026-09-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZXN0dDNGNmpkWVFZLWE1M1haOGxhU3N5NVZKUmxBWjM3dkZWREx5MkwzLUFOM1pYWDZjSTNwbnctNEhDVEZYbW55dF9QWmE4b0pwNGdHY3ZBMG5kRU84cUQ4c0pBcVJSbXJldFpmTDF6cXh6SVc4dkxtMjlJQdIBgwFBVV95cUxNQVZoV05hMmlaMW5GSkZMR3ZLZUdwS0VmWF85ckkyMWctSlUtLXhZcnE1bmc4bC10eXhEME0wR2hIUjVuQWJLSXN0QXB0eXZ3MDhDU0lVZ1VCbmJraVNsa0NTSGxkaXZMcFMxeVZNemZfeXlZNVRpZzhUSjd0TU44SUttSQ?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/inclisiran/
 
 ## 相關新聞（2 則）
 
+### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+2026-09-10 <span class="news-indication-tag">migraña</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+---
+
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
-
----
-
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">migraña</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 ---
 

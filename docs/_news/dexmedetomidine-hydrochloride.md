@@ -54,19 +54,27 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ## 相關新聞（4 則）
 
+### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+2026-09-10 <span class="news-indication-tag">migraña</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+---
+
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 ---
 
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
+### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26% - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
 
-2026-09-09 <span class="news-indication-tag">migraña</span>
+2026-09-09 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/dexmedetomidine-hydrochloride/
 2026-09-08 <span class="news-indication-tag">hypertension</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
-
----
-
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
-2026-09-07 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

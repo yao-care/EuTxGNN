@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。6 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>6 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Il codice del carattere: come il DNA plasma le inclinazioni che guidano la nostra vita](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjN1NzVWVUVoVFJraWYxeGk4ZkQ5NkdkMjYxNmNPejktMW1XWEt2LUx0QTlUU0V4TGV2dHN4Ym13Nzh5N1BhSU1kYjBmZ29RMk8tQ0pFVnN1YUVMa19NUDRSOFZZN1VaRk9lOGE5U0huUjV0MzJQTTNjN3h2Zl80ZHA1MmI3bTB3bkdsMGQ0Zk0tNWpKc2hOeG0yMnRUbVVnYnlreTB1MER4Mjh0aU00WmNSLTNhS3ROcXhoSWpCMm1aOGw3elRWRFZxT1AweEt4SEpVTHhsNi1ZUVBzT1E?oc=5)
 
 2026-09-09
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjN1NzVWVUVoVFJraWYxeGk4ZkQ5NkdkMjYxNmNPejktMW1XWEt2LUx0QTlUU0V4TGV2dHN4Ym13Nzh5N1BhSU1kYjBmZ29RMk8tQ0pFVnN1YUVMa19NUDRSOFZZN1VaRk9lOGE5U0huUjV0MzJQTTNjN3h2Zl80ZHA1MmI3bTB3bkdsMGQ0Zk0tNWpKc2hOeG0yMnRUbVVnYnlreTB1MER4Mjh0aU00WmNSLTNhS3ROcXhoSWpCMm1aOGw3elRWRFZxT1AweEt4SEpVTHhsNi1ZUVBzT1E?oc=5)
-
----
-
-### [Caminar para hacer ejercicio todos los días: Descubriendo beneficios inesperados.](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHdaRk5MWnc1cGRvSmFxczhUTlF3STZ2aDZ0cUNLX2ZVV2hCV1BVNnpqTzBhaklpTjdSWUJfSG95MEU3emJ5cTNwMlhvd3BfWThGMHBZeXJLZVlHNXRFVDZnUzd5T0hCOWZtNThETEVwNV85TzZDRFhFRm9vaTVhV290cC1pVlk?oc=5)
-
-2026-09-09
-
-來源：[vietnam.vn](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHdaRk5MWnc1cGRvSmFxczhUTlF3STZ2aDZ0cUNLX2ZVV2hCV1BVNnpqTzBhaklpTjdSWUJfSG95MEU3emJ5cTNwMlhvd3BfWThGMHBZeXJLZVlHNXRFVDZnUzd5T0hCOWZtNThETEVwNV85TzZDRFhFRm9vaTVhV290cC1pVlk?oc=5)
 
 ---
 
@@ -114,14 +106,6 @@ permalink: /news/asthma/
 2026-09-08
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
-
----
-
-### [Asthma und COPD: Häufige Anwendung von Inhalationsspray mit höherem Herzrisiko verbunden](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
-
-2026-09-03
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
 
 ---
 

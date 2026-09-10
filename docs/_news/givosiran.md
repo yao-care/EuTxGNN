@@ -54,6 +54,14 @@ permalink: /news/givosiran/
 
 ## 相關新聞（3 則）
 
+### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26% - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+
+2026-09-09 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+
+---
+
 ### [Veleno di scorpione contro fegato grasso ed epatite? Cosa funziona davvero nei primi test](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnVGUGF4LUJXd2dmRlI4Ym9mbXNObUJNN1llWk5VZUpINUVVcXZwUEJJVTFmVU1TN1FuTmV4N0JEWkxhNXpFN3BCakNSRDZGY29ldEt6aGpTR0pjajJnUnIzSUhFci1HOTdWVFlBZ3NzVVdoYktCdHRCeXVxVWZ4SUsxUXJOb1J6YnhyLVk1cWU3UGRxVWlHZ1F0SHFHQkt1N2h5WkI2UDFZNlVKUnA5QlNTU3BiaUwxbWpPWlpHbXJULTRnZS1sQ1JIMm0wdDFxeHU4NVlfZTZ0TTF6dzFEcXV3?oc=5)
 
 2026-09-09 <span class="news-indication-tag">epatite</span>
@@ -67,14 +75,6 @@ permalink: /news/givosiran/
 2026-09-08 <span class="news-indication-tag">hypertension</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
-
----
-
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
-2026-09-07 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
 
 ---
 

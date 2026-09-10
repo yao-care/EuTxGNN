@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
+
+### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+2026-09-10 <span class="news-indication-tag">migraña</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+---
 
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">migraña</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
-
----
-
 ### [Fettleber: Ketogene Diät reduziert Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
 
 2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[BornCity](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
-
----
-
-### [So ernährt sich eine Fachärztin für Adipositas im Alltag](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx3bXhobmQtUlpkbFVFbnNTRGRqUkZ3M0s5bmNFb01JYWlYdFJVYUJJM1p2MEJrMk4tQXFSRVgzd1Z2QkplUXNqZlFfbk8tdlJwdHJLU2ZBUl9wVnNEUTBka3VkbzRiZXltS2JDQXhEMHlTVG9FUWMwb3JCUEtoMnJMcGhYc0JGeGhTMmVDR1V5QQ?oc=5)
-
-2026-09-08 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx3bXhobmQtUlpkbFVFbnNTRGRqUkZ3M0s5bmNFb01JYWlYdFJVYUJJM1p2MEJrMk4tQXFSRVgzd1Z2QkplUXNqZlFfbk8tdlJwdHJLU2ZBUl9wVnNEUTBka3VkbzRiZXltS2JDQXhEMHlTVG9FUWMwb3JCUEtoMnJMcGhYc0JGeGhTMmVDR1V5QQ?oc=5)
 
 ---
 
@@ -112,17 +104,9 @@ permalink: /news/lasmiditan-succinate/
 
 ### [Immunforschung: Adipositas und Rheuma zeigen ähnliche entzündliche Immunreaktionen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
 
-2026-09-08 <span class="news-indication-tag">Adipositas</span>
+2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
-
----
-
-### [Adipositas: KI-Modell sagt Abnehm-Erfolg anhand von Darmbakterien voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
 
 ---
 

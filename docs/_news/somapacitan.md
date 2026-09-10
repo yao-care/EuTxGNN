@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,21 +52,37 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
+
+### [Cholesterin senken: Neue Studie zu Statinen überrascht Forscher](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRHU2ZOcXdOMnM4RkJqR01KdDlUbVlzanUxZ3pYVVlwX2FPLTliOFJIVzhva2FybkJ2RUZIYlFkUTIzc2RkMUhyNkMxV1JlaWRnZy1pcXpmY0pZYkhDTHhqY1Y4N28xZlVyZ0hLcmN6ZUVWT2hSb2xaY3dyNExSVUQyano0VjNibEpreVFzX1ZBNWRQZm0xdmtXTEE4V2s0SV9Md1RCbDBJRnFL?oc=5)
+
+2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+
+來源：[morgenpost.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRHU2ZOcXdOMnM4RkJqR01KdDlUbVlzanUxZ3pYVVlwX2FPLTliOFJIVzhva2FybkJ2RUZIYlFkUTIzc2RkMUhyNkMxV1JlaWRnZy1pcXpmY0pZYkhDTHhqY1Y4N28xZlVyZ0hLcmN6ZUVWT2hSb2xaY3dyNExSVUQyano0VjNibEpreVFzX1ZBNWRQZm0xdmtXTEE4V2s0SV9Md1RCbDBJRnFL?oc=5)
+
+---
+
+### [Médicos coinciden: "La cafeína se asocia con la reducción de los riesgos de enfermedades como el párkinson, el alzhéimer o la diabetes tipo II, pero la evidencia actual no justifica recomendarla para su prevención" - Mundo Deportivo](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMVFzVDBLbFduOXgxU25oZkd5SExkV0RQUl81Tm9WdmxubzczaGdaWEpyMWlRYUNmczdUYkNuXy1nNC1QWU9rN0tzdjBGNFp0WHlHRXFGSlgyRGhQam10Q3p2SVFPNTNObGpJNXZJMS1mWU82S1RzWHk1MHVYUG54LXdqbHBLWWRIYXZoX0hZUFgxaHg1aHdtcGQ2VWFMRmRWa0lPOWdHZzI2RW5VbWNxSXFpNUl4cXl0aGpGWFlqYm4tY0xiZFNTZkQzdFVBU3pLZzVwV09ZTldsWHA4NGkzNmU3elNEX2k0aHllQkxyVG9wbVBqdG94MmZibFpnaFRvVkJEQVZlUEtqYzNrUTdQNXJSRFc4eDJtWW03WGlab2wzZkVqbXBFdGpGc3F0OXpZeWxiRndEWjRvN29HSEpWbkdR0gHPAkFVX3lxTE5GN0hMWFpJRENQU3RQZTZVbkl1bzZ5MGlsYmNRVjVXMmdURjloQmhfQlRBOHdWX09KSmtGVjFrY1ZuNVBKZWdiZjJxenc1UFF4SDROcU55RVVQalNPNUh5UHlXNk1VbWZKSmRtcEltbkRwNUsxTDY4YmJDaEZDNHRQOUZYSGdxcklSSGZnck94WEFteUdYb1h1RFJsYnc3dThzeGxKWG5PRFE5Z3RJWXJSOUJFMWluNk5xTDNWdE5aRU56eDhhX1JzZzE1Y2k5cTJMTjM1WW81OFdxVXlpdG1pMzlabk9OV2dSa1lfN09oMko3UmxacExVZUQwQjZGZTZuTV85YVhfeHZCY0hiNHlfUV90YW81NXBUWUMwRHRlZk5pSVozSWFxYTJYZHZoZzc1MjJXajhYREZaVkhOMWtmc3JZMllIRlQwSjFVaFkw?oc=5)
+
+2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMVFzVDBLbFduOXgxU25oZkd5SExkV0RQUl81Tm9WdmxubzczaGdaWEpyMWlRYUNmczdUYkNuXy1nNC1QWU9rN0tzdjBGNFp0WHlHRXFGSlgyRGhQam10Q3p2SVFPNTNObGpJNXZJMS1mWU82S1RzWHk1MHVYUG54LXdqbHBLWWRIYXZoX0hZUFgxaHg1aHdtcGQ2VWFMRmRWa0lPOWdHZzI2RW5VbWNxSXFpNUl4cXl0aGpGWFlqYm4tY0xiZFNTZkQzdFVBU3pLZzVwV09ZTldsWHA4NGkzNmU3elNEX2k0aHllQkxyVG9wbVBqdG94MmZibFpnaFRvVkJEQVZlUEtqYzNrUTdQNXJSRFc4eDJtWW03WGlab2wzZkVqbXBFdGpGc3F0OXpZeWxiRndEWjRvN29HSEpWbkdR0gHPAkFVX3lxTE5GN0hMWFpJRENQU3RQZTZVbkl1bzZ5MGlsYmNRVjVXMmdURjloQmhfQlRBOHdWX09KSmtGVjFrY1ZuNVBKZWdiZjJxenc1UFF4SDROcU55RVVQalNPNUh5UHlXNk1VbWZKSmRtcEltbkRwNUsxTDY4YmJDaEZDNHRQOUZYSGdxcklSSGZnck94WEFteUdYb1h1RFJsYnc3dThzeGxKWG5PRFE5Z3RJWXJSOUJFMWluNk5xTDNWdE5aRU56eDhhX1JzZzE1Y2k5cTJMTjM1WW81OFdxVXlpdG1pMzlabk9OV2dSa1lfN09oMko3UmxacExVZUQwQjZGZTZuTV85YVhfeHZCY0hiNHlfUV90YW81NXBUWUMwRHRlZk5pSVozSWFxYTJYZHZoZzc1MjJXajhYREZaVkhOMWtmc3JZMllIRlQwSjFVaFkw?oc=5)
+
+---
+
+### [Fin de commercialisation de 5 médicaments : ce qui va changer en pharmacie d'ici fin décembre pour des millions de Français - La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
+
+2026-09-10 <span class="news-indication-tag">diabète</span>
+
+來源：[La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
+
+---
 
 ### [Il codice del carattere: come il DNA plasma le inclinazioni che guidano la nostra vita](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjN1NzVWVUVoVFJraWYxeGk4ZkQ5NkdkMjYxNmNPejktMW1XWEt2LUx0QTlUU0V4TGV2dHN4Ym13Nzh5N1BhSU1kYjBmZ29RMk8tQ0pFVnN1YUVMa19NUDRSOFZZN1VaRk9lOGE5U0huUjV0MzJQTTNjN3h2Zl80ZHA1MmI3bTB3bkdsMGQ0Zk0tNWpKc2hOeG0yMnRUbVVnYnlreTB1MER4Mjh0aU00WmNSLTNhS3ROcXhoSWpCMm1aOGw3elRWRFZxT1AweEt4SEpVTHhsNi1ZUVBzT1E?oc=5)
 
 2026-09-09 <span class="news-indication-tag">asma</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjN1NzVWVUVoVFJraWYxeGk4ZkQ5NkdkMjYxNmNPejktMW1XWEt2LUx0QTlUU0V4TGV2dHN4Ym13Nzh5N1BhSU1kYjBmZ29RMk8tQ0pFVnN1YUVMa19NUDRSOFZZN1VaRk9lOGE5U0huUjV0MzJQTTNjN3h2Zl80ZHA1MmI3bTB3bkdsMGQ0Zk0tNWpKc2hOeG0yMnRUbVVnYnlreTB1MER4Mjh0aU00WmNSLTNhS3ROcXhoSWpCMm1aOGw3elRWRFZxT1AweEt4SEpVTHhsNi1ZUVBzT1E?oc=5)
-
----
-
-### [Caminar para hacer ejercicio todos los días: Descubriendo beneficios inesperados.](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHdaRk5MWnc1cGRvSmFxczhUTlF3STZ2aDZ0cUNLX2ZVV2hCV1BVNnpqTzBhaklpTjdSWUJfSG95MEU3emJ5cTNwMlhvd3BfWThGMHBZeXJLZVlHNXRFVDZnUzd5T0hCOWZtNThETEVwNV85TzZDRFhFRm9vaTVhV290cC1pVlk?oc=5)
-
-2026-09-09 <span class="news-indication-tag">asma</span>
-
-來源：[vietnam.vn](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHdaRk5MWnc1cGRvSmFxczhUTlF3STZ2aDZ0cUNLX2ZVV2hCV1BVNnpqTzBhaklpTjdSWUJfSG95MEU3emJ5cTNwMlhvd3BfWThGMHBZeXJLZVlHNXRFVDZnUzd5T0hCOWZtNThETEVwNV85TzZDRFhFRm9vaTVhV290cC1pVlk?oc=5)
 
 ---
 
@@ -94,27 +110,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Statine im Alter: 30% weniger Herzinfarkte bei über 70-Jährigen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdtYlkyVE5jMmxqVjZJNTJaMXRDclMtSGVwYnFoNXVVaUl3YTl4Y0c5Rk9DRUg4MXBhRGZRVVRURlVlR3JXanduUmJndzlUQUkwSnhFOFJ2OS1VYkdrZXp3elRoUXdkeUdDUmZuRVZtVWxEdFhqRjhfb3B5VWRSMzdCRDZaSldKVklPSTI2TUdWN3kwU1dLR01zd0JwNVhvY1ZWTkFOMi1JLV9KdDdPTTlQZ1dhOE1PMDhyNA?oc=5)
-
----
-
 ### [La dieta que logra reducir un 67% la grasa del hígado y puede ayudar a revertir la prediabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
-
----
-
-### [Diabetes: Risiko gefährlicher Nebenwirkungen bei diesen Medikamenten](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHFxZUtDbDdyVFZGOFNXNXk3Wko4V1ljZmZaSjMyNDB4VHRESUhKYW05MEN5N3FDeXFvUWI0anNiNHQ1dHpLbmROU1c1SGJxT0NrOXhZclpNRWh3Rm1XOGZad1dIeUduLXFKOGJyM1E1ZWtsb2tmWWpsR1dFWkNGZjZtYUxGcmJvdDR1enhuRTU4NVB2dFpCelkxSjNsZ3lCY3FOekxDQnozMzdzY0dJbG5HOWg3QzVkVTQ0TFdsanY3OXFGMlUyOA?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHFxZUtDbDdyVFZGOFNXNXk3Wko4V1ljZmZaSjMyNDB4VHRESUhKYW05MEN5N3FDeXFvUWI0anNiNHQ1dHpLbmROU1c1SGJxT0NrOXhZclpNRWh3Rm1XOGZad1dIeUduLXFKOGJyM1E1ZWtsb2tmWWpsR1dFWkNGZjZtYUxGcmJvdDR1enhuRTU4NVB2dFpCelkxSjNsZ3lCY3FOekxDQnozMzdzY0dJbG5HOWg3QzVkVTQ0TFdsanY3OXFGMlUyOA?oc=5)
+來源：[20minutos.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
 
 ---
 
@@ -128,7 +128,7 @@ permalink: /news/somapacitan/
 
 ### [Semaglutide e asma, fino al 40% di attacchi in meno: il beneficio inatteso dei farmaci GLP-1](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
 
-2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">asma</span>
+2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asma</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
 
@@ -163,14 +163,6 @@ permalink: /news/somapacitan/
 2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[Telepolis](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWQ2WHkwS3JtWkZVNEc1bGZsVjByeU5jVi1uNUZ4NmV4QWxid3FSR2V6bVhwR0NycEdyMDJlcGVtT1I1SnFGS04zYW5Cd2dKUWVxVlVRejJuSC0zcldqbHJKN2tqaFAxZF8wZy05MG94bHhLUFFiMWhkRk5JTjRJTTN0ZVY0Y2R1TFpEWVRjTkJmUHY5RWtCeGJOaTBHQV9XN3RQS0NkQWpVNHVoeGpTaG1PazBONFhvS2ZteWsxOA?oc=5)
-
----
-
-### [Asthma und COPD: Häufige Anwendung von Inhalationsspray mit höherem Herzrisiko verbunden](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
-
-2026-09-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFdPVlpvNk4tM0Y5WjhxRmhpV2hDTGdCaU5EbUs5WE1rSlZ0eE1qTnRtdDdvakRCOWxDakU3RXRoVENFd2c0UkJlS2toS2pKcWJMUk1sRVZMQXJWUTFpSUlaYmtwUkotaGVmVVdUeXR4ZENZbWVKS1ViOEtqX0FZS3hHZGdfdW9jdU5MelgwbkVncktYbGthN2hpWjRKZzVLZ211b2FMdWhDSzZGWERScGRtclRVRllicE9zRHpiY0dvLXM?oc=5)
 
 ---
 

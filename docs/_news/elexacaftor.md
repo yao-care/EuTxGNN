@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+2026-09-10 <span class="news-indication-tag">migraña</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+---
 
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/elexacaftor/
 
 ---
 
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
+### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26% - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
 
-2026-09-09 <span class="news-indication-tag">migraña</span>
+2026-09-09 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
 
 ---
 
@@ -94,27 +102,11 @@ permalink: /news/elexacaftor/
 
 ---
 
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
-2026-09-07 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
----
-
 ### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
 
 2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
----
-
-### [Artrite reumatoide, il cuore non è condannato: nove fattori possono cambiare profondamente il rischio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
-
-2026-09-06 <span class="news-indication-tag">artrite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 

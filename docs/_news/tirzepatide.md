@@ -70,19 +70,19 @@ permalink: /news/tirzepatide/
 
 ---
 
+### [Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work? - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
+
+2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
+
+---
+
 ### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
 
 2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
----
-
-### [Artrite reumatoide, il cuore non è condannato: nove fattori possono cambiare profondamente il rischio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
-
-2026-09-06 <span class="news-indication-tag">artrite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 

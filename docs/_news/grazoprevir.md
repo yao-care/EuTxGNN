@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
-
-### [Nierenerkrankung: 18,4% der Deutschen haben auffällige Nierenwerte - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXNmNU04WEtjaVRZNHZzdzdySVBBV1JjM0NvalAybV9NSWU3ZlkwUkxBamduSjlFWWswVmFFQXhjNnRPcTduRUdHRjRyMEVPTk5idlpLZkR5MkI0aTUwcDAwYzdYb0tLRG9rTUw2amNxN3BzV2V2cHdSWnhmY0NHU2IwSS16VW96UDFwUFhyR294UFBvaXVlLWZzWHFteHZDS0szTF9SbjNieWxxcHNv?oc=5)
-
-2026-09-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXNmNU04WEtjaVRZNHZzdzdySVBBV1JjM0NvalAybV9NSWU3ZlkwUkxBamduSjlFWWswVmFFQXhjNnRPcTduRUdHRjRyMEVPTk5idlpLZkR5MkI0aTUwcDAwYzdYb0tLRG9rTUw2amNxN3BzV2V2cHdSWnhmY0NHU2IwSS16VW96UDFwUFhyR294UFBvaXVlLWZzWHFteHZDS0szTF9SbjNieWxxcHNv?oc=5)
-
----
+## 相關新聞（19 則）
 
 ### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
 
@@ -70,27 +62,27 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Krebsforschung: PRDX1-Enzym hemmt Immunabwehr gezielt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTVZRTZVVDV6MmpGcm80RmVlR1pyS3dWR0htOFBFdGF5QUpIejZTcmc2VDl2eG1CZFFwZFljSXRaOXJYSDRIQjlEVnlpOWRGNFVrY2VXR2dIYmQ4a3E2dW1JckdIMmMwT3VFU1A3dVhnR3RHSlNyVnd0a1N3X3RtcC0yNVNhU1QweXA3MDRBZWFnMy0tVDg1YlFsQ3lBY244M3hV?oc=5)
+
+2026-09-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTVZRTZVVDV6MmpGcm80RmVlR1pyS3dWR0htOFBFdGF5QUpIejZTcmc2VDl2eG1CZFFwZFljSXRaOXJYSDRIQjlEVnlpOWRGNFVrY2VXR2dIYmQ4a3E2dW1JckdIMmMwT3VFU1A3dVhnR3RHSlNyVnd0a1N3X3RtcC0yNVNhU1QweXA3MDRBZWFnMy0tVDg1YlFsQ3lBY244M3hV?oc=5)
+
+---
+
 ### [Abnehmspritze gegen Atemnot? Neue Studie zeigt überraschenden Effekt auf die Lunge](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXVvc1FhYV95MzZ2QXRoRHJOckpEYVZGOGQyTDA0RFBodkxPWkgxbFN5LWg3eDVqSzlOcnNHMzhzV0dTOS1SSXg0Tmc1UlVpOUlXZURXdE5hOGhHN0hFNGlMbm5HZTRZc0N6WU9DV3FXdmFmMzluVGJ0TDZ1WWFURE85dFlGMThCa1RjN3c3MXViUUhydmdfaW5OeG1hWXBCUWFDYUZmeThLUUY5MEpDTmtGMTVFYjhWX05TUjlGdw?oc=5)
 
 2026-09-09 <span class="news-indication-tag">MS</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXVvc1FhYV95MzZ2QXRoRHJOckpEYVZGOGQyTDA0RFBodkxPWkgxbFN5LWg3eDVqSzlOcnNHMzhzV0dTOS1SSXg0Tmc1UlVpOUlXZURXdE5hOGhHN0hFNGlMbm5HZTRZc0N6WU9DV3FXdmFmMzluVGJ0TDZ1WWFURE85dFlGMThCa1RjN3c3MXViUUhydmdfaW5OeG1hWXBCUWFDYUZmeThLUUY5MEpDTmtGMTVFYjhWX05TUjlGdw?oc=5)
+來源：[t-online.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXVvc1FhYV95MzZ2QXRoRHJOckpEYVZGOGQyTDA0RFBodkxPWkgxbFN5LWg3eDVqSzlOcnNHMzhzV0dTOS1SSXg0Tmc1UlVpOUlXZURXdE5hOGhHN0hFNGlMbm5HZTRZc0N6WU9DV3FXdmFmMzluVGJ0TDZ1WWFURE85dFlGMThCa1RjN3c3MXViUUhydmdfaW5OeG1hWXBCUWFDYUZmeThLUUY5MEpDTmtGMTVFYjhWX05TUjlGdw?oc=5)
 
 ---
 
-### [Dal Dna nascosto in testi medievali la storia di un virus letale](https://news.google.com/rss/articles/CBMigwJBVV95cUxNcjN5cHZzQU5uYi1FZzNkOGJnX0YwenduWGJMMTdXVDI5YVJnbXhsSHlwZUZQZHJWMlpUcDhxS2JRQzNvSE9TMmkxMlFhVUZEdU5ob1RKUS1mdXZLSGNaMVVWamdrTGxPOGI4dkR3b0JhVWxiUGE4RzRQNXctUU9RREVYVF9QanBlR3ZVN0VaeERXUWNqQXI5WTJaX1lGQ0hpNkVxYnl3YnMyX0cyeUNjTlg0aXFIc1RHZXc2by1vWFB0U0NLYWJnNUNkelNib2J1OFBOQUJDSzdjTFVDVTk3bm1EbTUxSHp0UXFEN0djeF96SkFyRERoUXdqRVdIZWtXMUp30gGIAkFVX3lxTFBjQ3BXSDJ0YUxPTzYxYTVwX1pXUzdtYjE0QmMtaEE3U2FkdWtCY1NCRGwyUXdZTTBZc1diWlF3ZU9VQ1N2YUczdENiVTh2bnVLeFVzOVV4X19sWVhJWGhCNDJXUjJyMVNDRFozRmM2T0RXVF9Nd2xTdXdtSzNIeTJ4ZEtWaEVRSFBhVExTTXoxcG0wVU1NRS1TaU5xZVBqTFBOTkVxdk9sSXlaMV9fa29CRU5KQldZMjhyekVsZVE0ZjdfcW9nQ3pDb3FhODQ5OXBjZHl0TnUwN25nTk5haHJtZ1l5NGg4WS1SV1dSbjZMeVBieUtaa0p4aVlBYXp2UTNwQ1BiOTQ1MQ?oc=5)
+### [Sanidad financia la primera doble inmunoterapia de BMS para cáncer colorrectal metastásico - Redacción médica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcDkxMzU2SnNXSmpucW1zSHdjdUJfWUV5Q1dTQ3B5ZkM5aTlZS1VldjY0dGdaLVZIbWdlcjVYSVUzUVdMZi01YmpRNVdjdXdJVkg1S3pteHhwLUlhRTdNYXpBYTBTazd2VGNXWE5iLTBUTHZZWWcyVkIySmdhRWF3RkVRMmdTekZTMnc0b25SZHRSTFlEVkVHMXB0dTVGalpMTTZSQ0dFS3E2eTU3eHhkeTdaUkZyVGl5bjRSc1FNbENQaE1KRTZKRjVHbVYwWEhTRUQtMWJEa05oZXlZdmJKOVZjUEI3MU5MRVRoajNrZWVWN24zYVg4Vkk3WU51LXNHcHFYZGRWVkPSAY4CQVVfeXFMT25TX2RZUnEyU1pKdGFfcDF5Mk5taVRzS1hWX2x4RkwyeUpJWFFHOHVfbFp5TWl2Y3dHaG5teTRKZTR5Nl9ONGlIMVpxenpyUXN3ZkNGeTRndVQxZkxRYlVsM1BPSkFHZlJ6M19wZ3VSSkgyTG54aV8yNVZqM1F3cTlSZjcxeExhbnU5aHBTY3A2SXZuVXM0NUgyR0JpME93YUNIY3lFck9Sd2FYNW92U3lVX1JiNDVHd0RxdVhqaEFmOW5OOVdQZnFuUDVzN2U0SHZ4MFNyclhHWEt1dXMwMld1b2RXT09fMGxFMHl3aWVHS1ozamUtckVINVc1X3oyTDZiRDZPNkFNS0M2ZDhn?oc=5)
 
 2026-09-09 <span class="news-indication-tag">MS</span>
 
-來源：[ANSA](https://news.google.com/rss/articles/CBMigwJBVV95cUxNcjN5cHZzQU5uYi1FZzNkOGJnX0YwenduWGJMMTdXVDI5YVJnbXhsSHlwZUZQZHJWMlpUcDhxS2JRQzNvSE9TMmkxMlFhVUZEdU5ob1RKUS1mdXZLSGNaMVVWamdrTGxPOGI4dkR3b0JhVWxiUGE4RzRQNXctUU9RREVYVF9QanBlR3ZVN0VaeERXUWNqQXI5WTJaX1lGQ0hpNkVxYnl3YnMyX0cyeUNjTlg0aXFIc1RHZXc2by1vWFB0U0NLYWJnNUNkelNib2J1OFBOQUJDSzdjTFVDVTk3bm1EbTUxSHp0UXFEN0djeF96SkFyRERoUXdqRVdIZWtXMUp30gGIAkFVX3lxTFBjQ3BXSDJ0YUxPTzYxYTVwX1pXUzdtYjE0QmMtaEE3U2FkdWtCY1NCRGwyUXdZTTBZc1diWlF3ZU9VQ1N2YUczdENiVTh2bnVLeFVzOVV4X19sWVhJWGhCNDJXUjJyMVNDRFozRmM2T0RXVF9Nd2xTdXdtSzNIeTJ4ZEtWaEVRSFBhVExTTXoxcG0wVU1NRS1TaU5xZVBqTFBOTkVxdk9sSXlaMV9fa29CRU5KQldZMjhyekVsZVE0ZjdfcW9nQ3pDb3FhODQ5OXBjZHl0TnUwN25nTk5haHJtZ1l5NGg4WS1SV1dSbjZMeVBieUtaa0p4aVlBYXp2UTNwQ1BiOTQ1MQ?oc=5)
-
----
-
-### [BMS suma una nueva indicación financiada en España en inmuno-oncología - El Economista](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObFFhb0NLemhtMmdNVXBGZ0I4b2NBQnFuTm16ZGN1allqUXZzbHZkczhNTFdIYzFhRnFXRkdhNGlNNWVuSUE2TzB2TzMzcjY1clEyemtfQWFqejRmeHpOVEUxMExEYkdlLXUyaXBBdmM5ejl4ZmxoTzdLNWVCczNsTmRicjVLeW1CVXNTSmxSMmFIQzhqQmE1UG9mNng2SXVJTlE2bHB6a3BfallBY3ZBblNFNTlWay1rR2dlYVYzYmtndm5HMWI5S3NQLUxET3ZqaWwwRDBQaFRhQdIBxAFBVV95cUxOZ1VVT21LSFBHT0pubmNWR1RpSFZRdlNHRmZsZE9ZbGZlX0R0Sk1SQTFFQWNpV212ZVliVWFhZFRPbUZlcnkzSGZnd09PYXB3ZTd3ZXBVWDNFRDNfR1ZyM0xLSzlBamNrTUJid3Noa04yQ191Z2t4WUlNUGs4bW1XNVJ4X1BlOVZubmRHekp4bWxHenlhUS1OMmhhOEF3V01KTjQ0OEFmNFZCcDJhSmdqRks3VTduVzhfYjY4ZEZaNDNzbU1m?oc=5)
-
-2026-09-09 <span class="news-indication-tag">MS</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObFFhb0NLemhtMmdNVXBGZ0I4b2NBQnFuTm16ZGN1allqUXZzbHZkczhNTFdIYzFhRnFXRkdhNGlNNWVuSUE2TzB2TzMzcjY1clEyemtfQWFqejRmeHpOVEUxMExEYkdlLXUyaXBBdmM5ejl4ZmxoTzdLNWVCczNsTmRicjVLeW1CVXNTSmxSMmFIQzhqQmE1UG9mNng2SXVJTlE2bHB6a3BfallBY3ZBblNFNTlWay1rR2dlYVYzYmtndm5HMWI5S3NQLUxET3ZqaWwwRDBQaFRhQdIBxAFBVV95cUxOZ1VVT21LSFBHT0pubmNWR1RpSFZRdlNHRmZsZE9ZbGZlX0R0Sk1SQTFFQWNpV212ZVliVWFhZFRPbUZlcnkzSGZnd09PYXB3ZTd3ZXBVWDNFRDNfR1ZyM0xLSzlBamNrTUJid3Noa04yQ191Z2t4WUlNUGs4bW1XNVJ4X1BlOVZubmRHekp4bWxHenlhUS1OMmhhOEF3V01KTjQ0OEFmNFZCcDJhSmdqRks3VTduVzhfYjY4ZEZaNDNzbU1m?oc=5)
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcDkxMzU2SnNXSmpucW1zSHdjdUJfWUV5Q1dTQ3B5ZkM5aTlZS1VldjY0dGdaLVZIbWdlcjVYSVUzUVdMZi01YmpRNVdjdXdJVkg1S3pteHhwLUlhRTdNYXpBYTBTazd2VGNXWE5iLTBUTHZZWWcyVkIySmdhRWF3RkVRMmdTekZTMnc0b25SZHRSTFlEVkVHMXB0dTVGalpMTTZSQ0dFS3E2eTU3eHhkeTdaUkZyVGl5bjRSc1FNbENQaE1KRTZKRjVHbVYwWEhTRUQtMWJEa05oZXlZdmJKOVZjUEI3MU5MRVRoajNrZWVWN24zYVg4Vkk3WU51LXNHcHFYZGRWVkPSAY4CQVVfeXFMT25TX2RZUnEyU1pKdGFfcDF5Mk5taVRzS1hWX2x4RkwyeUpJWFFHOHVfbFp5TWl2Y3dHaG5teTRKZTR5Nl9ONGlIMVpxenpyUXN3ZkNGeTRndVQxZkxRYlVsM1BPSkFHZlJ6M19wZ3VSSkgyTG54aV8yNVZqM1F3cTlSZjcxeExhbnU5aHBTY3A2SXZuVXM0NUgyR0JpME93YUNIY3lFck9Sd2FYNW92U3lVX1JiNDVHd0RxdVhqaEFmOW5OOVdQZnFuUDVzN2U0SHZ4MFNyclhHWEt1dXMwMld1b2RXT09fMGxFMHl3aWVHS1ozamUtckVINVc1X3oyTDZiRDZPNkFNS0M2ZDhn?oc=5)
 
 ---
 
@@ -115,6 +107,14 @@ permalink: /news/grazoprevir/
 2026-09-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZFByOFZEbFd0Z1NhbEZmRkg0amRYeDYxT2Y3Nk9CVnlGemZkOFdnLTZnOW5GU0pzU19GZHNWRllzaC02Qnk3cmhqMU90T1FheW9xaXp4U1ZZZFlFQnhKSEJYcFV4T0ZnTTkwd2c3RVpTdWE2amlJajFtWnI2OHFYNU92RlA2VE0wQkl1YjFWWHhBbGtKdzd1Qm83SkhEM0IzZWtGRHo0Y2lIa3ljbF9wLVg1ekZ1eHNUMVY5SDJIdWpXX2Y0NjdDZjVMLWJqLUY1UUFlc2JDTFQ?oc=5)
+
+---
+
+### [Alzheimer, il cervello si difende dormendo ed è più resiliente grazie ai “fusi del sonno”](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSm5tNDcxV1BiSmlrVGZDbnBjYUZtcjFtci0xR3J1MmNDbnlyNUp5NlE2MXgzTDBOZm02bng4VTlpZGJFbG01X0lmalJJaC1zaG51VWZNdmsyYl9oX0tzLUNTR3IyTHZGLWFrMkxzSzA4dk1HQlJqaXpBZ09iNWRBTlNJYlVOZ2JocjEyVzdLOElkSExKZXVBY0ZTSjV4NC1laXRPbV8zd3Y4emhUVnV1VmZydXBna0E?oc=5)
+
+2026-09-09 <span class="news-indication-tag">MS</span>
+
+來源：[ilsole24ore.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSm5tNDcxV1BiSmlrVGZDbnBjYUZtcjFtci0xR3J1MmNDbnlyNUp5NlE2MXgzTDBOZm02bng4VTlpZGJFbG01X0lmalJJaC1zaG51VWZNdmsyYl9oX0tzLUNTR3IyTHZGLWFrMkxzSzA4dk1HQlJqaXpBZ09iNWRBTlNJYlVOZ2JocjEyVzdLOElkSExKZXVBY0ZTSjV4NC1laXRPbV8zd3Y4emhUVnV1VmZydXBna0E?oc=5)
 
 ---
 
@@ -146,7 +146,7 @@ permalink: /news/grazoprevir/
 
 2026-09-08 <span class="news-indication-tag">MS</span>
 
-來源：[MDR.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
+來源：[mdr.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbklxUUNlcHNHVjBZNkt2R1Z3QmFDVlplQ3BnVDQ1MU9fMHpEazY1STF3YU9xaU1DX2UzTlp0UjZleEJick9fcVZycmNUbzRGam11ZDFQdExzRTVKOXNUb2NuZjVUOWtNNWc1dVB0eHNnRGFNZ2dvVjBoWDZCRy15M014VEdQb0JGZDFaRWhFR256TWI3eFRkeFRKcDNEUWt5YkhCMHF2U2ptR1dZZUtTT2Q3eGZZdWhnQ2dULWJxRnE?oc=5)
 
 ---
 
@@ -166,11 +166,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Krebszellen nutzen Antioxidantien als Schutzschild – Forscher entdecken, wie Tumoren T-Zellen ausbremsen - Lauterbacher Anzeiger](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNC1tOVFrNnRMSVRCNmp2R1dxMnhnTVhYNTR5X0I1MEtJejZ4cDlTcTNEU1NSZXhuZ3c5bnJONEZkbkp3X0ljcHZhdGxJMGtlZm5QRlVUeWhsd05RcXlaU1F4VzBoV2M2LWp2UDMxbDJvVjB1WHY5ZFp5Sm9oR1I0NW94UkFaT2o1WWhxU04xZU9LRFl5dlNpODl0OFFNQW03T3NuYUd4eGkyLUlfTF9BYlFJTVhjM0NMTDFjT2xEdVl2a1JFa2VQNEwwN19BZ1J4bk9XR1dBdjRUd2ZFX3BN?oc=5)
+### [Bovine TB: Gaps in evidence about impact of vaccinating badgers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TYW03UGFWSV9IYU9ZaWhxbENyRHBkTkxKWndpSWhWZ0htekhQQ0ZIUVJQSXB4b2dJT3VudFB4OGtKWlNMQlYwRy1DYVg4XzZFcnlkN3JCLUk1UXBs?oc=5)
 
-2026-09-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-09-07 <span class="news-indication-tag">MS</span>
 
-來源：[Lauterbacher Anzeiger](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNC1tOVFrNnRMSVRCNmp2R1dxMnhnTVhYNTR5X0I1MEtJejZ4cDlTcTNEU1NSZXhuZ3c5bnJONEZkbkp3X0ljcHZhdGxJMGtlZm5QRlVUeWhsd05RcXlaU1F4VzBoV2M2LWp2UDMxbDJvVjB1WHY5ZFp5Sm9oR1I0NW94UkFaT2o1WWhxU04xZU9LRFl5dlNpODl0OFFNQW03T3NuYUd4eGkyLUlfTF9BYlFJTVhjM0NMTDFjT2xEdVl2a1JFa2VQNEwwN19BZ1J4bk9XR1dBdjRUd2ZFX3BN?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TYW03UGFWSV9IYU9ZaWhxbENyRHBkTkxKWndpSWhWZ0htekhQQ0ZIUVJQSXB4b2dJT3VudFB4OGtKWlNMQlYwRy1DYVg4XzZFcnlkN3JCLUk1UXBs?oc=5)
 
 ---
 
@@ -190,19 +190,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Being a carer 'nearly broke me' but love 'carried me through'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
-
-2026-09-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
-
----
-
 ### [Cardiff student who 'brushed off' sore throat developed sepsis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ock1zN2Nld0ZKUUhUWi1zWmhMWjNJRkVmM2gxSEFsVkFKelEzekJWZVhpTmRmQjRkbjZjczRGRnp1OUVWYnFOa25udjZGekp4WnhlcmRiaWZWcjJm?oc=5)
 
 2026-09-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ock1zN2Nld0ZKUUhUWi1zWmhMWjNJRkVmM2gxSEFsVkFKelEzekJWZVhpTmRmQjRkbjZjczRGRnp1OUVWYnFOa25udjZGekp4WnhlcmRiaWZWcjJm?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ock1zN2Nld0ZKUUhUWi1zWmhMWjNJRkVmM2gxSEFsVkFKelEzekJWZVhpTmRmQjRkbjZjczRGRnp1OUVWYnFOa25udjZGekp4WnhlcmRiaWZWcjJm?oc=5)
 
 ---
 
@@ -211,22 +203,6 @@ permalink: /news/grazoprevir/
 2026-09-04 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnMtclZMSXZhSkx3UzY1LVFZVmphZkF2WlIyeWljcWFrc2ZnR1BmQ0QxVnNJQmNDUVZ2TGM0UkNxYWF5V1EyZGdIRXpaejc0ZWVwTUdEWEo5cW5KWkpWUFMxY1lNQWtkV0dKQUQyckgtS01IYVd2TDFpQVJobldIZTAyVi1taGpoYmdtbUFaMkxxR1Fyc2NMcnpNRXVyUndmdkEwZg?oc=5)
-
----
-
-### [Fit im Kopf: Wie funktioniert Training fürs Gehirn? - Podcasts und Audios - ARD Mediathek](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGNnZWEteE00NWk3U0t4NzA3RnpwbjlqelNkTG5WSjVoNWI4cncxbHphRHdTY202cnVTSnRMYlA0eTJfQ0h2X0JLS3BTcnFXVGdERW95X1g0OGZwMHR5RlRQeTdoQ0tXREpjbTFJSHFIeWFYcVluQ1gteHREQ2dtWG93dDFPQTZDUV8xeC11R3lDbVJJeXJDTFhlYzVSTVhxVlJITmdRT3hHdDRiTkl2MU55SnhpcFdPb1VoMA?oc=5)
-
-2026-09-03 <span class="news-indication-tag">MS</span>
-
-來源：[WDR](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGNnZWEteE00NWk3U0t4NzA3RnpwbjlqelNkTG5WSjVoNWI4cncxbHphRHdTY202cnVTSnRMYlA0eTJfQ0h2X0JLS3BTcnFXVGdERW95X1g0OGZwMHR5RlRQeTdoQ0tXREpjbTFJSHFIeWFYcVluQ1gteHREQ2dtWG93dDFPQTZDUV8xeC11R3lDbVJJeXJDTFhlYzVSTVhxVlJITmdRT3hHdDRiTkl2MU55SnhpcFdPb1VoMA?oc=5)
-
----
-
-### [Adipositas: KI-Modell sagt Abnehm-Erfolg anhand von Darmbakterien voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
 
 ---
 

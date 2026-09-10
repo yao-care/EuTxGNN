@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [Los nuevos efectos de Ozempic que sorprenden a los expertos: alcohol, adicciones y enfermedades respiratorias](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmRkRE1FS0lYUVNoMlNxZ0kxVUM2OGhVR3BiVnhBb3h5N1pnbWFlZzdkV251NXpYdDdvbjlUeTVNUDFvd20xUUZiU3NYTXFmejdMSGNYaERhcm1UMURtaHNqLUhXUVk4YzNBQkczZWJkZHpwY1E2R0oweHJKc2I2QnliczJxYVBmcEFleGZrVmE3TEtoSVY5VmNZS0c1R1M4cnZ2d1Ywb1VSZFBNTUl3WEZfeTdidlQ4WktBbE5UdFN3UExzWXpmQWE1S3pLWGdVbDZQLUxOcUxkMGQ5X1B1Yg?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/bupropion/
 2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[BornCity](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
-
----
-
-### [So ernährt sich eine Fachärztin für Adipositas im Alltag](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx3bXhobmQtUlpkbFVFbnNTRGRqUkZ3M0s5bmNFb01JYWlYdFJVYUJJM1p2MEJrMk4tQXFSRVgzd1Z2QkplUXNqZlFfbk8tdlJwdHJLU2ZBUl9wVnNEUTBka3VkbzRiZXltS2JDQXhEMHlTVG9FUWMwb3JCUEtoMnJMcGhYc0JGeGhTMmVDR1V5QQ?oc=5)
-
-2026-09-08 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWx3bXhobmQtUlpkbFVFbnNTRGRqUkZ3M0s5bmNFb01JYWlYdFJVYUJJM1p2MEJrMk4tQXFSRVgzd1Z2QkplUXNqZlFfbk8tdlJwdHJLU2ZBUl9wVnNEUTBka3VkbzRiZXltS2JDQXhEMHlTVG9FUWMwb3JCUEtoMnJMcGhYc0JGeGhTMmVDR1V5QQ?oc=5)
 
 ---
 
@@ -96,17 +88,9 @@ permalink: /news/bupropion/
 
 ### [Immunforschung: Adipositas und Rheuma zeigen ähnliche entzündliche Immunreaktionen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
 
-2026-09-08 <span class="news-indication-tag">Adipositas</span>
+2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
-
----
-
-### [Adipositas: KI-Modell sagt Abnehm-Erfolg anhand von Darmbakterien voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
-
-2026-09-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZNTEt2SUVhRFlDb0o1bG5JYmt2b1BKRHBpa1U1RFJXSzlnZUlzWlV3azFUMGhORXZicHNXMzc5UUJmdWc2TENMYk93MkdvUXdFcWQ2d2RuRDB1bHVENGZuWW9GU3E1MVk0WlpJbWY3VHVjcHBqckswZTJWV3JfeDNHYmZxcjNsSWZsWXZhV3g2Q09DWjVjNk5rTkFtMExJSHYtRnNuUUdpWlJnRk9QSHFGZG5SV1pyajNsTw?oc=5)
 
 ---
 

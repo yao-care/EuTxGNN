@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Anzeichen im Gesicht: Dieses Merkmal warnt vor Herzinfarkt oder Schlaganfall](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
 
 2026-09-09 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[morgenpost.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
+
+---
+
+### [Hospital's emergency stroke unit closes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41bVhrMjhOejZuVnIxcmZ6NWhkQlJadDNIN0RsNkdZZGNoeFJXaFdwWnpaRVU3WU5IY2s0SDZTUFBPajZWU1BQb1MxQWd5LV9ES0ZjNEpNRTVzaEN6?oc=5)
+
+2026-09-08 <span class="news-indication-tag">stroke</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41bVhrMjhOejZuVnIxcmZ6NWhkQlJadDNIN0RsNkdZZGNoeFJXaFdwWnpaRVU3WU5IY2s0SDZTUFBPajZWU1BQb1MxQWd5LV9ES0ZjNEpNRTVzaEN6?oc=5)
 
 ---
 
@@ -74,13 +82,13 @@ permalink: /news/raloxifene-hydrochloride/
 
 2026-09-08 <span class="news-indication-tag">ictus</span>
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
+來源：[20minutos.es](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
 
 ---
 
 ### [Xylitol Linked to Increased Long-Term Cardiovascular Risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
 
-2026-09-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span>
+2026-09-08 <span class="news-indication-tag">stroke</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVlCSHdkZGx6MVdob1Z1eDRONU9nZnd3LWJ5VHY0MnZ6NVBhZ2N6X3U0ZUMyUGxtUExqUVJ4dldhM2JOeWhlN2o4anFpaWUta0s4bGh6ZGUyUlhsaWtqU2VjQ182YXZnWGlSY0J4RjJCVk9tWHRuNWVoVzRFRk94RVk1YWJFd1JQanBtR3lpMC1wYkhUcXdoeVdubkZ1VXZDZzkzNXBndw?oc=5)
 

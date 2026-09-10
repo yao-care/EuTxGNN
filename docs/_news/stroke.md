@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Anzeichen im Gesicht: Dieses Merkmal warnt vor Herzinfarkt oder Schlaganfall](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
 
 2026-09-09
 
 來源：[morgenpost.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWpoOVVhSkgyMEN2WUNnOHFTd09uSUdienNCMTJzVUNRcExJLWJrbkY3U3BpSzUtTHlvV1AyNmZvTnJfSDh5NzdFSk41VVo1UmJuOGZueHA1TjE1U2l4WW1fSUpEdi02SUJwMVhVVWhHNTVSdW9pcC0zMkFtLTE1aGRZdmxQekxEdnJESVRsQ3ZpZW1ndFhaZF9vZ1V4VEtZVEk1bTdnV1VGTF9ITU5PUElsbUdJT1RBbmJVUGFZc2tDWnpPSVF0dEk5MXlra2ZsRW5FcFFn?oc=5)
+
+---
+
+### [Hospital's emergency stroke unit closes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41bVhrMjhOejZuVnIxcmZ6NWhkQlJadDNIN0RsNkdZZGNoeFJXaFdwWnpaRVU3WU5IY2s0SDZTUFBPajZWU1BQb1MxQWd5LV9ES0ZjNEpNRTVzaEN6?oc=5)
+
+2026-09-08
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41bVhrMjhOejZuVnIxcmZ6NWhkQlJadDNIN0RsNkdZZGNoeFJXaFdwWnpaRVU3WU5IY2s0SDZTUFBPajZWU1BQb1MxQWd5LV9ES0ZjNEpNRTVzaEN6?oc=5)
 
 ---
 
@@ -61,7 +69,7 @@ permalink: /news/stroke/
 
 2026-09-08
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
+來源：[20minutos.es](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
 
 ---
 

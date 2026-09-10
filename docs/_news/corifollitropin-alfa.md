@@ -14,7 +14,7 @@ permalink: /news/corifollitropin-alfa/
 ---
 
 <p class="key-answer" data-question="Corifollitropin Alfa 有什麼相關新聞？">
-<strong>Corifollitropin Alfa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Corifollitropin Alfa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/corifollitropin-alfa/
 <p><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+2026-09-10 <span class="news-indication-tag">migraña</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+---
 
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 ---
 
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
+### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26% - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
 
-2026-09-09 <span class="news-indication-tag">migraña</span>
+2026-09-09 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+
+---
+
+### [Un estudio del Puerta de Hierro de Majadahonda mejora la identificación del riesgo de muerte súbita en pacientes con miocardiopatía dilatada - Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
+
+2026-09-09 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
 
 ---
 
@@ -75,30 +91,6 @@ permalink: /news/corifollitropin-alfa/
 2026-09-08 <span class="news-indication-tag">hypertension</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
-
----
-
-### [El Puerta de Hierro identifica pacientes con miocardiopatía dilatada con mayor riesgo de muerte súbita y arritmias](https://news.google.com/rss/articles/CBMilgJBVV95cUxQUW5YWkphWkZZWGdlbHFjNjlzeHgwWlpIWXo5MFZDQzZLNXBhc2czdnB5OEFuQ2lJa3otZnJuTUpaVGgtRDRnS2RxVkd6dHVHM3luSHJuWlV3dkQ2a3g3NW1jYjNKZnl3amZHS1o4UTY2VUlDbDFFUkdzcy1iNmJBcUdqZTFRV3RnYWtjRzVXeGZsVDA3YVc4bDVWci1rTUVsUDVYbEJJVWZPNnAxUEZtcnZWZkZzRUNieTdRaG5vQ2s3YU12OU0zdjhzdnFEOG1yVFlaaGZnTHBDV0lFYTljOUUtaGN1ZHU5ZGE5eU1lR2IzRHdJZTJtSjd1Z19hcnY0YlNUOTRyRW1VNzRsMExiaklQOFdkUQ?oc=5)
-
-2026-09-08 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMilgJBVV95cUxQUW5YWkphWkZZWGdlbHFjNjlzeHgwWlpIWXo5MFZDQzZLNXBhc2czdnB5OEFuQ2lJa3otZnJuTUpaVGgtRDRnS2RxVkd6dHVHM3luSHJuWlV3dkQ2a3g3NW1jYjNKZnl3amZHS1o4UTY2VUlDbDFFUkdzcy1iNmJBcUdqZTFRV3RnYWtjRzVXeGZsVDA3YVc4bDVWci1rTUVsUDVYbEJJVWZPNnAxUEZtcnZWZkZzRUNieTdRaG5vQ2s3YU12OU0zdjhzdnFEOG1yVFlaaGZnTHBDV0lFYTljOUUtaGN1ZHU5ZGE5eU1lR2IzRHdJZTJtSjd1Z19hcnY0YlNUOTRyRW1VNzRsMExiaklQOFdkUQ?oc=5)
-
----
-
-### [Eating a handful of nuts each day is linked with lower risk of high blood pressure, our research shows - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
-2026-09-07 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWdXMGQ4SWRtc256aThHWENWWWY1QlI2M251bGJZZlRSSzRqcXg4b3ZSVkpZc3o2TDRjMURDamxEbXM0UE1peVNBbElvTldNaW1HX0xTcjN4ZUVNWUwzTzEwam5GaDFSclhEbHFZOGlBbGlkMTU0QjlUWHJXSEFiaE5HSHBKSnA2RzRydVU1VU43eFpCYTNkWmtQMGs2djl0WlBnTlB2YWxLX1ZKX194ZFhyaVNvNnBBWHZvYzh1SGRXVFdYSkpueWR4WEVuM01VekE?oc=5)
-
----
-
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
-2026-09-04 <span class="news-indication-tag">heart disease</span>
-
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
 
 ---
 

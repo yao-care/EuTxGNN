@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+2026-09-10 <span class="news-indication-tag">migraña</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+
+---
 
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/clopidogrel-as-hydrochloride/
 2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
-
----
-
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">migraña</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/clopidogrel-as-hydrochloride/
 2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
----
-
-### [Artrite reumatoide, il cuore non è condannato: nove fattori possono cambiare profondamente il rischio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
-
-2026-09-06 <span class="news-indication-tag">artrite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS0toREZHN3BVUG5lUFNtTG9BNnE1czVJd2U4aTF5UmtsYk9uT2JMMl81VE5jcmhBR0VJclNJdXhCLVg1QmpFUl9aMzgtTUJDR1RtbjQtQUtNeFJNUVFSNENpUFI4cF95Vi1BYUoyRGVyNmpjYWh0QVVFa214T1ZaN1R0OC1CM3hWd0RnVzdKcG80ZjNOQjRJYzRyYUdXY1dzVjRLX3lrdEttUm1mdjlmRUU2d2xFaDFmN2JWZFpubWFDODk5dTloSHp3VHBQNDJiRnBkTGVzRUc1Y05LdldrdkgzLWdBNkVIUjJHSExha3E?oc=5)
 
 ---
 
