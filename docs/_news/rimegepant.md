@@ -54,6 +54,14 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（4 則）
 
+### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+
+2026-09-10 <span class="news-indication-tag">migraine</span>
+
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+
+---
+
 ### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU212VVhhekotQ0xRM3AtWmFHblRKYjNDakdTb3BSNWlIS0F1aDlDMTl3YXZGVlI0cHoyckc5VXB1QXA2VW1tZmU0dnlfc0d5ZWliMi1hV01pWVVhOEREN3ZfT1Y1cWNrSjNzX2JXSUxINWsyeW1LckZtTktWNjljbzNHdHJmZXJSdkNwVjdmelV0SGJpd3Bab1A3VjI2SXZOWjlUaTVaNHZCRjVoX2RDZ3VsdHFib25OV2dubVRwX1hHeV9vZGFWVVd6MVZjTUc2X3c5ZkNmRVpscVNTMDE0YUpBSHZFUQ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">migraña</span>
@@ -62,11 +70,11 @@ permalink: /news/rimegepant/
 
 ---
 
-### [Logran identificar pacientes con miocardiopatía dilatada con mayor riesgo de muerte súbita y arritmias - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEpjR2UydHRqc1JJOEpkOUdiWHR6dDdvcTdTZGFZN3RpbDdoSjRSNVMwWDF5ODd2LWxrQ2FpM0ExVVk1QmJ3UHlWdmdSX3FqNWU3bzZqS3dWN3RXRnBpVGdMa0l1WG1KNkRkMmVQTXdCVS1VcWRsaUUzRUZNd08ycUlvMU0tU0oyb29CeXFrMmtNVS0zQ1ZRaVpCaUJ4R3BCTm05Y0hWM2RqNkxlMXM0OGE3YVRmMkxGallOMnNXd09mQ25hWnNGajRRak9fX2tx?oc=5)
+### [El Puerta de Hierro identifica pacientes con miocardiopatía dilatada con mayor riesgo de muerte súbita y arritmias](https://news.google.com/rss/articles/CBMilgJBVV95cUxQUW5YWkphWkZZWGdlbHFjNjlzeHgwWlpIWXo5MFZDQzZLNXBhc2czdnB5OEFuQ2lJa3otZnJuTUpaVGgtRDRnS2RxVkd6dHVHM3luSHJuWlV3dkQ2a3g3NW1jYjNKZnl3amZHS1o4UTY2VUlDbDFFUkdzcy1iNmJBcUdqZTFRV3RnYWtjRzVXeGZsVDA3YVc4bDVWci1rTUVsUDVYbEJJVWZPNnAxUEZtcnZWZkZzRUNieTdRaG5vQ2s3YU12OU0zdjhzdnFEOG1yVFlaaGZnTHBDV0lFYTljOUUtaGN1ZHU5ZGE5eU1lR2IzRHdJZTJtSjd1Z19hcnY0YlNUOTRyRW1VNzRsMExiaklQOFdkUQ?oc=5)
 
 2026-09-08 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEpjR2UydHRqc1JJOEpkOUdiWHR6dDdvcTdTZGFZN3RpbDdoSjRSNVMwWDF5ODd2LWxrQ2FpM0ExVVk1QmJ3UHlWdmdSX3FqNWU3bzZqS3dWN3RXRnBpVGdMa0l1WG1KNkRkMmVQTXdCVS1VcWRsaUUzRUZNd08ycUlvMU0tU0oyb29CeXFrMmtNVS0zQ1ZRaVpCaUJ4R3BCTm05Y0hWM2RqNkxlMXM0OGE3YVRmMkxGallOMnNXd09mQ25hWnNGajRRak9fX2tx?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMilgJBVV95cUxQUW5YWkphWkZZWGdlbHFjNjlzeHgwWlpIWXo5MFZDQzZLNXBhc2czdnB5OEFuQ2lJa3otZnJuTUpaVGgtRDRnS2RxVkd6dHVHM3luSHJuWlV3dkQ2a3g3NW1jYjNKZnl3amZHS1o4UTY2VUlDbDFFUkdzcy1iNmJBcUdqZTFRV3RnYWtjRzVXeGZsVDA3YVc4bDVWci1rTUVsUDVYbEJJVWZPNnAxUEZtcnZWZkZzRUNieTdRaG5vQ2s3YU12OU0zdjhzdnFEOG1yVFlaaGZnTHBDV0lFYTljOUUtaGN1ZHU5ZGE5eU1lR2IzRHdJZTJtSjd1Z19hcnY0YlNUOTRyRW1VNzRsMExiaklQOFdkUQ?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/rimegepant/
 2026-09-04 <span class="news-indication-tag">heart disease</span>
 
 來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5OYUdkM0FxUjB2TUJEaXRaZWJnY3FoV1dFcElEMk9ZbFNEdFNiVDZUZzZ3dGVaWG9QdFhZVkxzaFBOcUJKM3d3bWNrMmoxNHpvOEZXX3R2QlhSdWVRWnN0d09nMWcxdTNGdkQ3WWgtS3B3ZTkzVmJiRjRWR0k2QQ?oc=5)
-
----
-
-### [New Migraine Prevention Guidelines Released](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
-
-2026-09-04 <span class="news-indication-tag">migraine</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1E4b0wzeGU3bnFuLV9xT3hTNnd3UjREVC1qYmdObE1DTm5vQjVXVFBTVGtGLU5rekZ4eC1TSE1JWHdmUUZXdFRlUDJsUk10VjdudlROLUh0anhRNkEtNTRGRmJGRDF2Q0ZtY1Z5NEdZVm5IeXJ4NnNxaTlyVTJ2VDRuMUtiNDJBeHFodFJDYVJsU0ZzWHpCUA?oc=5)
 
 ---
 

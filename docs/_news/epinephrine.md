@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,45 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Il codice del carattere: come il DNA plasma le inclinazioni che guidano la nostra vita](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjN1NzVWVUVoVFJraWYxeGk4ZkQ5NkdkMjYxNmNPejktMW1XWEt2LUx0QTlUU0V4TGV2dHN4Ym13Nzh5N1BhSU1kYjBmZ29RMk8tQ0pFVnN1YUVMa19NUDRSOFZZN1VaRk9lOGE5U0huUjV0MzJQTTNjN3h2Zl80ZHA1MmI3bTB3bkdsMGQ0Zk0tNWpKc2hOeG0yMnRUbVVnYnlreTB1MER4Mjh0aU00WmNSLTNhS3ROcXhoSWpCMm1aOGw3elRWRFZxT1AweEt4SEpVTHhsNi1ZUVBzT1E?oc=5)
+
+2026-09-09 <span class="news-indication-tag">asma</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjN1NzVWVUVoVFJraWYxeGk4ZkQ5NkdkMjYxNmNPejktMW1XWEt2LUx0QTlUU0V4TGV2dHN4Ym13Nzh5N1BhSU1kYjBmZ29RMk8tQ0pFVnN1YUVMa19NUDRSOFZZN1VaRk9lOGE5U0huUjV0MzJQTTNjN3h2Zl80ZHA1MmI3bTB3bkdsMGQ0Zk0tNWpKc2hOeG0yMnRUbVVnYnlreTB1MER4Mjh0aU00WmNSLTNhS3ROcXhoSWpCMm1aOGw3elRWRFZxT1AweEt4SEpVTHhsNi1ZUVBzT1E?oc=5)
+
+---
+
+### [Caminar para hacer ejercicio todos los días: Descubriendo beneficios inesperados.](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHdaRk5MWnc1cGRvSmFxczhUTlF3STZ2aDZ0cUNLX2ZVV2hCV1BVNnpqTzBhaklpTjdSWUJfSG95MEU3emJ5cTNwMlhvd3BfWThGMHBZeXJLZVlHNXRFVDZnUzd5T0hCOWZtNThETEVwNV85TzZDRFhFRm9vaTVhV290cC1pVlk?oc=5)
+
+2026-09-09 <span class="news-indication-tag">asma</span>
+
+來源：[vietnam.vn](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHdaRk5MWnc1cGRvSmFxczhUTlF3STZ2aDZ0cUNLX2ZVV2hCV1BVNnpqTzBhaklpTjdSWUJfSG95MEU3emJ5cTNwMlhvd3BfWThGMHBZeXJLZVlHNXRFVDZnUzd5T0hCOWZtNThETEVwNV85TzZDRFhFRm9vaTVhV290cC1pVlk?oc=5)
+
+---
+
+### [Osakidetza despliega ASMA BAT: el nuevo protocolo unificado para la atención del asma infantil en Euskadi - Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
+
+2026-09-09 <span class="news-indication-tag">asma</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
+
+---
 
 ### [Schweres Asthma verursacht Veränderungen im Gehirn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 2026-09-09 <span class="news-indication-tag">asthma</span>
 
-來源：[scinexx.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
-
----
-
-### [Caminar puede ser tan beneficioso como los aeróbicos para los pacientes asmáticos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDB6ZG5VZGNYODJuVlBWNVVmZ1ZnYVVpYUFqUWRwQ0N0eEpYYjJ2T1BtVTdsZW5xcGl1b3RVNlIzblJWN2lIR0trY0t4MEpPczZmZ3BrOVhSODlFZnQwelhvVVExbkNEWXdJX2Z1eXJSZEltdWkyQjgzZHg5QkNxVnA0T2lYVFR4UXdTZEpkV0dFd1hTSXZuQUE4d2hieFRvdl94X1pHcDlaS3FWbUcyWEZFS3QxMTN2aWxOaENsbFDSAdsBQVVfeXFMTmpDWnMybmVjSktJZG8wUjNHVEpUdlNreXNuRC1reUZ6VURqeXZ4b0NDNGV5MnBUaGRlQlNYalNZM1ZENUdOT19xQmZEcGktUW5vUk0xd0w1c19KT1pwbVJMM1NfM0Vhcjg5WkExblYzODllV3RvNVRiOGt3azV4bDNMQ18ySnFSblUycXJ5b0gxRy1jb09XcHRFVEctdEJIbm9vYnZuM3hRVC1Wb2pOMUpnSGlKYXA5dXBLd29fYmtnejdFYjdCSjFiOVBwaW1DQlhCNE4wMlhReW8w?oc=5)
-
-2026-09-09 <span class="news-indication-tag">asma</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDB6ZG5VZGNYODJuVlBWNVVmZ1ZnYVVpYUFqUWRwQ0N0eEpYYjJ2T1BtVTdsZW5xcGl1b3RVNlIzblJWN2lIR0trY0t4MEpPczZmZ3BrOVhSODlFZnQwelhvVVExbkNEWXdJX2Z1eXJSZEltdWkyQjgzZHg5QkNxVnA0T2lYVFR4UXdTZEpkV0dFd1hTSXZuQUE4d2hieFRvdl94X1pHcDlaS3FWbUcyWEZFS3QxMTN2aWxOaENsbFDSAdsBQVVfeXFMTmpDWnMybmVjSktJZG8wUjNHVEpUdlNreXNuRC1reUZ6VURqeXZ4b0NDNGV5MnBUaGRlQlNYalNZM1ZENUdOT19xQmZEcGktUW5vUk0xd0w1c19KT1pwbVJMM1NfM0Vhcjg5WkExblYzODllV3RvNVRiOGt3azV4bDNMQ18ySnFSblUycXJ5b0gxRy1jb09XcHRFVEctdEJIbm9vYnZuM3hRVC1Wb2pOMUpnSGlKYXA5dXBLd29fYmtnejdFYjdCSjFiOVBwaW1DQlhCNE4wMlhReW8w?oc=5)
+來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 ---
 
 ### [Semaglutide e asma, fino al 40% di attacchi in meno: il beneficio inatteso dei farmaci GLP-1](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
 
-2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">colite ulcerosa</span>
+2026-09-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">asma</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dtUTlHYk13R2hNQkF5VmJxT3BySjRNaXNaZXk2WXI0eS1ULWhPeURfYWtFQUF3d0tFREtfLWpHekVTeHAxczFhSXNrYkIxU3NNV0FSVU1ILTlERF9KVmVrVkRFeDBGV1F0WTVDLWdDcHRUeldWRm9lYjhqN2xfeEV0WlJzUlFtanZuWUZBT1FlTkc4Ny05ZzdKbVlfN0NYRE9sNlpRdmFfX1ZncXFRZExGb1JfRHF3bU5vbHJhV2VqQTRvNHhFT3JWOWQ1SmwwTFNzbHQwQUZjai1BUDBsMXNndw?oc=5)
-
----
-
-### [Quanto ereditiamo del nostro carattere - Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
-
-2026-09-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RjA0OVp3SDMyY0g3YjhzV01BSnFvdjFURkJLWEZydXh6cVplaERhUWliWVVfM190TkxCdXp2bEl5U2E5bmE3MWZ1ZWEwM0gxNTNFa3JqT1czcHBPTFczXzFjOXc?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/alirocumab/
 
 ## 相關新聞（2 則）
 
-### [„Eine chronische Nierenkrankheit verläuft lange symptomlos – und wird viel zu spät erkannt“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTFlpMHRIcWY4UlNScWt0RW1VRFEwdjNHMExWdjhvTFJyd1FEUVpCczR5UU5odVRqYW5yVExkQllmaWI2U3A1VEZVdjdmQ3dmcVJwYWl5WHR4SmwwSkg2U2VoUFhma1duN1N0SzRxeTJ6RnRuSjJQZ1B1QTF1SXlnYXp0QUlfemwyNFREY1AwRWtscUxZZ2lBb0lUUnRYRTgzQ0ZqT2RvR0NQdzFHWXNOS2lyV3FoME1MOVVZMGxhT2RkUEUtQXZDekZGRWczc1dVV3A4YzhvNVhCdnc1b3RjSXRYeU1zZ3J3NnRUY0l3?oc=5)
+### [Nierenerkrankung: 18,4% der Deutschen haben auffällige Nierenwerte - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXNmNU04WEtjaVRZNHZzdzdySVBBV1JjM0NvalAybV9NSWU3ZlkwUkxBamduSjlFWWswVmFFQXhjNnRPcTduRUdHRjRyMEVPTk5idlpLZkR5MkI0aTUwcDAwYzdYb0tLRG9rTUw2amNxN3BzV2V2cHdSWnhmY0NHU2IwSS16VW96UDFwUFhyR294UFBvaXVlLWZzWHFteHZDS0szTF9SbjNieWxxcHNv?oc=5)
 
 2026-09-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTFlpMHRIcWY4UlNScWt0RW1VRFEwdjNHMExWdjhvTFJyd1FEUVpCczR5UU5odVRqYW5yVExkQllmaWI2U3A1VEZVdjdmQ3dmcVJwYWl5WHR4SmwwSkg2U2VoUFhma1duN1N0SzRxeTJ6RnRuSjJQZ1B1QTF1SXlnYXp0QUlfemwyNFREY1AwRWtscUxZZ2lBb0lUUnRYRTgzQ0ZqT2RvR0NQdzFHWXNOS2lyV3FoME1MOVVZMGxhT2RkUEUtQXZDekZGRWczc1dVV3A4YzhvNVhCdnc1b3RjSXRYeU1zZ3J3NnRUY0l3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXNmNU04WEtjaVRZNHZzdzdySVBBV1JjM0NvalAybV9NSWU3ZlkwUkxBamduSjlFWWswVmFFQXhjNnRPcTduRUdHRjRyMEVPTk5idlpLZkR5MkI0aTUwcDAwYzdYb0tLRG9rTUw2amNxN3BzV2V2cHdSWnhmY0NHU2IwSS16VW96UDFwUFhyR294UFBvaXVlLWZzWHFteHZDS0szTF9SbjNieWxxcHNv?oc=5)
 
 ---
 
