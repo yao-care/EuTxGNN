@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（16 則）
 
-### [Cholesterin senken: Neue Studie zu Statinen überrascht Forscher](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRHU2ZOcXdOMnM4RkJqR01KdDlUbVlzanUxZ3pYVVlwX2FPLTliOFJIVzhva2FybkJ2RUZIYlFkUTIzc2RkMUhyNkMxV1JlaWRnZy1pcXpmY0pZYkhDTHhqY1Y4N28xZlVyZ0hLcmN6ZUVWT2hSb2xaY3dyNExSVUQyano0VjNibEpreVFzX1ZBNWRQZm0xdmtXTEE4V2s0SV9Md1RCbDBJRnFL?oc=5)
+### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+
+---
+
+### [Fettleber: Neue Risiken für Herz und Nieren entdeckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
+
+2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
+
+---
+
+### [Cholesterin senken: Neue Studie zu Statinen überrascht Forscher - Berliner Morgenpost](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRHU2ZOcXdOMnM4RkJqR01KdDlUbVlzanUxZ3pYVVlwX2FPLTliOFJIVzhva2FybkJ2RUZIYlFkUTIzc2RkMUhyNkMxV1JlaWRnZy1pcXpmY0pZYkhDTHhqY1Y4N28xZlVyZ0hLcmN6ZUVWT2hSb2xaY3dyNExSVUQyano0VjNibEpreVFzX1ZBNWRQZm0xdmtXTEE4V2s0SV9Md1RCbDBJRnFL?oc=5)
 
 2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
 
-來源：[morgenpost.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRHU2ZOcXdOMnM4RkJqR01KdDlUbVlzanUxZ3pYVVlwX2FPLTliOFJIVzhva2FybkJ2RUZIYlFkUTIzc2RkMUhyNkMxV1JlaWRnZy1pcXpmY0pZYkhDTHhqY1Y4N28xZlVyZ0hLcmN6ZUVWT2hSb2xaY3dyNExSVUQyano0VjNibEpreVFzX1ZBNWRQZm0xdmtXTEE4V2s0SV9Md1RCbDBJRnFL?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRHU2ZOcXdOMnM4RkJqR01KdDlUbVlzanUxZ3pYVVlwX2FPLTliOFJIVzhva2FybkJ2RUZIYlFkUTIzc2RkMUhyNkMxV1JlaWRnZy1pcXpmY0pZYkhDTHhqY1Y4N28xZlVyZ0hLcmN6ZUVWT2hSb2xaY3dyNExSVUQyano0VjNibEpreVFzX1ZBNWRQZm0xdmtXTEE4V2s0SV9Md1RCbDBJRnFL?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Fin de commercialisation de 5 médicaments : ce qui va changer en pharmacie d'ici fin décembre pour des millions de Français - La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
+### [Fin de commercialisation de 5 médicaments : ce qui va changer en pharmacie d'ici fin décembre pour des millions de Français](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
 
 2026-09-10 <span class="news-indication-tag">diabète</span>
 
-來源：[La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
+來源：[laprovence.com](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
 
 ---
 
@@ -82,7 +98,7 @@ permalink: /news/semaglutide/
 
 2026-09-09 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[DiarioBitcoin](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUzg4OGtLZ1VkbjBtSndTZGRyZHl1Sm5tMENWa2RWM2VpUWRGUWdfbkpHaC0tcG9Tc1lWNWdpR1QtQ0FMRnNzdjF3VG9hUFpxMXUxQkhIbVc4TlRJR190UWM1azJoOTFDeVNVT0tsaFo2dlU3VUM3ZmFxM1FIU0E0ZG5nQU1YMVhUV3VkM3dhVlBsVTJMOW1mMGNpeGtfb0xNZVM3WDdnRnVuUlV2SzBPakJRQ3k?oc=5)
+來源：[diariobitcoin.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUzg4OGtLZ1VkbjBtSndTZGRyZHl1Sm5tMENWa2RWM2VpUWRGUWdfbkpHaC0tcG9Tc1lWNWdpR1QtQ0FMRnNzdjF3VG9hUFpxMXUxQkhIbVc4TlRJR190UWM1azJoOTFDeVNVT0tsaFo2dlU3VUM3ZmFxM1FIU0E0ZG5nQU1YMVhUV3VkM3dhVlBsVTJMOW1mMGNpeGtfb0xNZVM3WDdnRnVuUlV2SzBPakJRQ3k?oc=5)
 
 ---
 
@@ -106,23 +122,15 @@ permalink: /news/semaglutide/
 
 2026-09-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[20minutos.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
+來源：[20Minutos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
 
 ---
 
-### [Abnehmspritze abgesetzt, Gewicht zurueck: Chirurg aus Izmir zur Operation nach Ozempic und Wegovy](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGtnT3BJSkZVMWZZZnpST1FnZUtkTVpVS3RqdEpScGt1Nk1BT2lvRnBOXzQ3cW1BVzBSZW5ZWEY0cHBZM01TMmE2NWczakRWYXlHVXAtLXQ1cW1kWEM4WkR6cXlSYVZ5Y3ZqV2R4ODNuY3llQmpoR2JWcElnMWF3WVdJdDBhZ3hpSW0yZXByeFk4Q0xpc0JmSFVuVmhTdVJNbjBZUUZrci1uZVVZWlF1Tlg1YXNGSGRIcUprTG03eExEelhjbjVJcTh1VG8tX2wy?oc=5)
+### [Keto-Diät besonders hilfreich gegen Adipositas, Prädiabetes & Fettleber](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlJFd05PMDdEMGNPdGJOcGlkeUhVU0JjT2dzblJvZkd0Q3ZxSWthbkNEMVQ4VTdIVFU4d0cxcVpxbFZURko2cVBZcXhObFZ4eHZqNEloRTdQYW1VbE0wWE00YzdnYTBRYVk1bnBvMTJab0NmenIyaTc5NVA0djZ5azY3RzVLWWlQTDZCS3VCVnZYeTlZNVVIdDVvaU9LOTRpT3hSbEl0WHVlOEJaWlhVVHR3ZHF3OVFvYTdxWTJXX2F2OWVPc0tHcDcySQ?oc=5)
 
-2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-09-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[openPR.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGtnT3BJSkZVMWZZZnpST1FnZUtkTVpVS3RqdEpScGt1Nk1BT2lvRnBOXzQ3cW1BVzBSZW5ZWEY0cHBZM01TMmE2NWczakRWYXlHVXAtLXQ1cW1kWEM4WkR6cXlSYVZ5Y3ZqV2R4ODNuY3llQmpoR2JWcElnMWF3WVdJdDBhZ3hpSW0yZXByeFk4Q0xpc0JmSFVuVmhTdVJNbjBZUUZrci1uZVVZWlF1Tlg1YXNGSGRIcUprTG03eExEelhjbjVJcTh1VG8tX2wy?oc=5)
-
----
-
-### [Fettleber: Ketogene Diät reduziert Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
-
-2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlJFd05PMDdEMGNPdGJOcGlkeUhVU0JjT2dzblJvZkd0Q3ZxSWthbkNEMVQ4VTdIVFU4d0cxcVpxbFZURko2cVBZcXhObFZ4eHZqNEloRTdQYW1VbE0wWE00YzdnYTBRYVk1bnBvMTJab0NmenIyaTc5NVA0djZ5azY3RzVLWWlQTDZCS3VCVnZYeTlZNVVIdDVvaU9LOTRpT3hSbEl0WHVlOEJaWlhVVHR3ZHF3OVFvYTdxWTJXX2F2OWVPc0tHcDcySQ?oc=5)
 
 ---
 
@@ -150,14 +158,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [„Epidemie der Fettleber total unterschätzt“: 30 Millionen Menschen in Deutschland betroffen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
-
-2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
-
----
-
 ### [Neue Optionen für Nutzer von AID-Systemen in Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
 
 2026-09-07 <span class="news-indication-tag">diabetes</span>
@@ -171,6 +171,14 @@ permalink: /news/semaglutide/
 2026-09-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[Telepolis](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWQ2WHkwS3JtWkZVNEc1bGZsVjByeU5jVi1uNUZ4NmV4QWxid3FSR2V6bVhwR0NycEdyMDJlcGVtT1I1SnFGS04zYW5Cd2dKUWVxVlVRejJuSC0zcldqbHJKN2tqaFAxZF8wZy05MG94bHhLUFFiMWhkRk5JTjRJTTN0ZVY0Y2R1TFpEWVRjTkJmUHY5RWtCeGJOaTBHQV9XN3RQS0NkQWpVNHVoeGpTaG1PazBONFhvS2ZteWsxOA?oc=5)
+
+---
+
+### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
+
+2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 ---
 

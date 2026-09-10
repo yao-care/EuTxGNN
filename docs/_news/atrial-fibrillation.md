@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。28 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。29 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>28 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>29 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,39 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（29 則）
+
+### [Herzinfarkt: Funktionelle Koronarangiografie optimiert Revaskularisierung der Nicht-Culprit-Läsionen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
+
+2026-09-10
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
+
+---
+
+### [Rätselhafte Verletzung bei Kind entstand durch stundenlange Laptop-Nutzung](https://news.google.com/rss/articles/CBMikwFBVV95cUxQYkpxblYwaGc1d0NSeDE5YVplSERrdlRfd050Y0RwZ0t4cE9tcldhaTE2YmRkd3BEaWFVV09DWEZ4RjEySTBJelZ0YjZJcE85RUlSZnFyUzJEeURGczBfelFrSXpYaWFwMHlHN1ozTG9ZRjQ4dVN1ZW9QVXJ2VjQzNzBWcG9DdVZGQVFtVXVxeFVRZEU?oc=5)
+
+2026-09-10
+
+來源：[Futurezone](https://news.google.com/rss/articles/CBMikwFBVV95cUxQYkpxblYwaGc1d0NSeDE5YVplSERrdlRfd050Y0RwZ0t4cE9tcldhaTE2YmRkd3BEaWFVV09DWEZ4RjEySTBJelZ0YjZJcE85RUlSZnFyUzJEeURGczBfelFrSXpYaWFwMHlHN1ozTG9ZRjQ4dVN1ZW9QVXJ2VjQzNzBWcG9DdVZGQVFtVXVxeFVRZEU?oc=5)
+
+---
+
+### [Adipositas-bedingte Veränderungen des Immunsystems sind umkehrbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+
+2026-09-10
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+
+---
+
+### [Salmonella outbreak cases rise in new UKHSA update as doctors issue urgent warning - Daily Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2FwVDhiTWJhcDBPVXBpRkpkd2tNSVJnOVZlbGc5c3RFVjZIWG9qSkFpUU5IWkpDNjBZcjVVVF9mazZDWEZUWG5TMlFGLUFsajZtVG01R0tmTEZVaHRzS2lRSk9vSHFmZjM5aGxGLTdFZThRX09XYlRMb1dXOW5xcm1aTlVLMVhO0gGOAUFVX3lxTE5HaW45LTVWbmIxYTBCUG8yN181UDlSdXRzcWxWeVVMRFYtRjdvZ05OQkNkSUc0SFJYYV80UzJfekpodllOWEpMa2JUWV9MNF9nSi05dXRFRGsyQ1pZQWoyMDVjUkFfRTExcXF0QnN2NzEzbEVzcWZLZkl2WUUwbl9wbHY5OHpWbTNLQmJBV1E?oc=5)
+
+2026-09-10
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2FwVDhiTWJhcDBPVXBpRkpkd2tNSVJnOVZlbGc5c3RFVjZIWG9qSkFpUU5IWkpDNjBZcjVVVF9mazZDWEZUWG5TMlFGLUFsajZtVG01R0tmTEZVaHRzS2lRSk9vSHFmZjM5aGxGLTdFZThRX09XYlRMb1dXOW5xcm1aTlVLMVhO0gGOAUFVX3lxTE5HaW45LTVWbmIxYTBCUG8yN181UDlSdXRzcWxWeVVMRFYtRjdvZ05OQkNkSUc0SFJYYV80UzJfekpodllOWEpMa2JUWV9MNF9nSi05dXRFRGsyQ1pZQWoyMDVjUkFfRTExcXF0QnN2NzEzbEVzcWZLZkl2WUUwbl9wbHY5OHpWbTNLQmJBV1E?oc=5)
+
+---
 
 ### [Médicos coinciden: "La cafeína se asocia con la reducción de los riesgos de enfermedades como el párkinson, el alzhéimer o la diabetes tipo II, pero la evidencia actual no justifica recomendarla para su prevención" - Mundo Deportivo](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMVFzVDBLbFduOXgxU25oZkd5SExkV0RQUl81Tm9WdmxubzczaGdaWEpyMWlRYUNmczdUYkNuXy1nNC1QWU9rN0tzdjBGNFp0WHlHRXFGSlgyRGhQam10Q3p2SVFPNTNObGpJNXZJMS1mWU82S1RzWHk1MHVYUG54LXdqbHBLWWRIYXZoX0hZUFgxaHg1aHdtcGQ2VWFMRmRWa0lPOWdHZzI2RW5VbWNxSXFpNUl4cXl0aGpGWFlqYm4tY0xiZFNTZkQzdFVBU3pLZzVwV09ZTldsWHA4NGkzNmU3elNEX2k0aHllQkxyVG9wbVBqdG94MmZibFpnaFRvVkJEQVZlUEtqYzNrUTdQNXJSRFc4eDJtWW03WGlab2wzZkVqbXBFdGpGc3F0OXpZeWxiRndEWjRvN29HSEpWbkdR0gHPAkFVX3lxTE5GN0hMWFpJRENQU3RQZTZVbkl1bzZ5MGlsYmNRVjVXMmdURjloQmhfQlRBOHdWX09KSmtGVjFrY1ZuNVBKZWdiZjJxenc1UFF4SDROcU55RVVQalNPNUh5UHlXNk1VbWZKSmRtcEltbkRwNUsxTDY4YmJDaEZDNHRQOUZYSGdxcklSSGZnck94WEFteUdYb1h1RFJsYnc3dThzeGxKWG5PRFE5Z3RJWXJSOUJFMWluNk5xTDNWdE5aRU56eDhhX1JzZzE1Y2k5cTJMTjM1WW81OFdxVXlpdG1pMzlabk9OV2dSa1lfN09oMko3UmxacExVZUQwQjZGZTZuTV85YVhfeHZCY0hiNHlfUV90YW81NXBUWUMwRHRlZk5pSVozSWFxYTJYZHZoZzc1MjJXajhYREZaVkhOMWtmc3JZMllIRlQwSjFVaFkw?oc=5)
 
@@ -101,14 +133,6 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Bangladesh measles deaths surpass 1,000 after vaccination drive falls short - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2ZhbUZnRm9yaTRsd1BheldzbTNGQjdDYzBYNW93cUVwSTZFR19zdFJHazEtVXpqblVKY1BGbTE0dnhtMEhOYjlzM0hOcjBLT0V4bzR3dUM0SkhSU1pnU2lRLTV2aHYtdzNubG1ZM3dnaVgzUlB0R0M1YXp6V0JYVkdtdEplcHIydjNKUERlR3JXa2h6cW5ZZ2IzT2c3dFlfLUdKeEc4OFhLdFE50gGyAUFVX3lxTE05MnljT0MzdUlMMlBBWGZsUkU2TUQzR2hhbVpWUFlHdDFyQUVkbkJMS0ZPWEMwakJuclhIZ1dJRE1kZC1qUEhpcXo0eDZUblI5OS02TUxZTjNkZ0p4dTlndHNpMGdQSTVvUlMwVmtweGNBc1c5d2oxN1RaenNrRURBLTEwa3B6eUczOFc5aGdsamU3ZmFOX0k0LXJFLW9DOFFQRXlvRXRnbkhYOFR3QUhhNXc?oc=5)
-
-2026-09-09
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2ZhbUZnRm9yaTRsd1BheldzbTNGQjdDYzBYNW93cUVwSTZFR19zdFJHazEtVXpqblVKY1BGbTE0dnhtMEhOYjlzM0hOcjBLT0V4bzR3dUM0SkhSU1pnU2lRLTV2aHYtdzNubG1ZM3dnaVgzUlB0R0M1YXp6V0JYVkdtdEplcHIydjNKUERlR3JXa2h6cW5ZZ2IzT2c3dFlfLUdKeEc4OFhLdFE50gGyAUFVX3lxTE05MnljT0MzdUlMMlBBWGZsUkU2TUQzR2hhbVpWUFlHdDFyQUVkbkJMS0ZPWEMwakJuclhIZ1dJRE1kZC1qUEhpcXo0eDZUblI5OS02TUxZTjNkZ0p4dTlndHNpMGdQSTVvUlMwVmtweGNBc1c5d2oxN1RaenNrRURBLTEwa3B6eUczOFc5aGdsamU3ZmFOX0k0LXJFLW9DOFFQRXlvRXRnbkhYOFR3QUhhNXc?oc=5)
-
----
-
 ### [Grippe im Anmarsch: Amtschef wirbt für After-Work-Impfung – und überrascht mit beruhigender Prognose](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSF9XbGlTMnd0NHpMeDZ5MlcwemY2MDRGYmtsUnV6cmdmd1A2MklYUWRnN1NGeC1KOWlwWHpTSzFyUlRTNlVxQThpcjhWZkxuOFFfUnF6SXdnLXRhVVhuYXE1ZFdrZnA0MEJBcUNwZ1hyeklORzdQU2tHWU9kZ0NvTjREYmwyZW0xb0F5aGxnUjFsS0RELWJESExiTXNVWVdyTjFIRTdVTHpva2huM3ZvTUxES2VOalVSR2ltR2lmRnN6U09VZTNQbXBiT3ZmZFFqVlJ5WVdxaWt4VE9FTDdIS29PN0M?oc=5)
 
 2026-09-09
@@ -133,19 +157,19 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Polish tourist hospitalized after rejected marriage proposal in Crete](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZkxWbW1LdlhFX2VMMk1OaXdYNV9ZQU5ZbXo3a3AzNm1OQjFnOUJZY196X2Nxb1I1WmVLbTAycjZnR1h4LTJCcWdnVnV6SEZ0dzZfWUJkdzcxS1dUUHFiMnFRQy1XVFMyTEFKM25tbUNTcUxUOTNxdnhMY1J6S2NzOURiUFB2TEVYRlc4Tl9uTFRPMUVMeVp5RTZGT1ZfWVItQVB3SlNYVTVXOURXNlBSOXVR?oc=5)
-
-2026-09-09
-
-來源：[eKathimerini.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZkxWbW1LdlhFX2VMMk1OaXdYNV9ZQU5ZbXo3a3AzNm1OQjFnOUJZY196X2Nxb1I1WmVLbTAycjZnR1h4LTJCcWdnVnV6SEZ0dzZfWUJkdzcxS1dUUHFiMnFRQy1XVFMyTEFKM25tbUNTcUxUOTNxdnhMY1J6S2NzOURiUFB2TEVYRlc4Tl9uTFRPMUVMeVp5RTZGT1ZfWVItQVB3SlNYVTVXOURXNlBSOXVR?oc=5)
-
----
-
 ### [Herz: Vitamine gegen verkalkte Gefäße? Das ist wissenschaftlich erwiesen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblFoQ2NoMFJtR2RJOUpDNGRXUDQ2WVVEaThvWnRUTzJCQU9meTZlS3NMSFhfRFdQRzZ4MkRGdWlBcDVLWDQ1eWZxQnNLcEEyeXRDS0RoV1EwbFIwQ2sxUElsNTZfdFIxZlQtbVB6U2ZKZVNnZ0IwT2JYZy1yX3FmTmlJTjdFY2d2alNtYjFkRzRjVkVxN25iNlU3MXpLWFQ4NV9ObnozMDNBYzRIbEFQRG1wbHdLRFBUektrdkZ4cnRoMjFpREhuR2lXN1VLTG1TQ3hvWm9tRQ?oc=5)
 
 2026-09-09
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblFoQ2NoMFJtR2RJOUpDNGRXUDQ2WVVEaThvWnRUTzJCQU9meTZlS3NMSFhfRFdQRzZ4MkRGdWlBcDVLWDQ1eWZxQnNLcEEyeXRDS0RoV1EwbFIwQ2sxUElsNTZfdFIxZlQtbVB6U2ZKZVNnZ0IwT2JYZy1yX3FmTmlJTjdFY2d2alNtYjFkRzRjVkVxN25iNlU3MXpLWFQ4NV9ObnozMDNBYzRIbEFQRG1wbHdLRFBUektrdkZ4cnRoMjFpREhuR2lXN1VLTG1TQ3hvWm9tRQ?oc=5)
+
+---
+
+### [Doctors issue warning after children suffer ‘toasted skin syndrome’ from overusing devices - The Independent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0dOODktN3h2SUowZ0RhTnB5c3VNLUFSUFNERG14akJhQ2l4NjdmeW5kX1FRQUV4MTBYS3AzQVNEUjg4ejZ2bkNIbFJEWEx1RHhGNE1zRmZpRmdkYThlNDdFckstay1vX25VWTdwWFRHRVloeHdscjVWbDBFdmR2N3loNVotVjdVajlWckVEc0NFRG4tSnBYZW1ZRC1zTUdELThDZzBEWk9UN3pWV0tUNnd4QmRZQU85LUhR?oc=5)
+
+2026-09-09
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0dOODktN3h2SUowZ0RhTnB5c3VNLUFSUFNERG14akJhQ2l4NjdmeW5kX1FRQUV4MTBYS3AzQVNEUjg4ejZ2bkNIbFJEWEx1RHhGNE1zRmZpRmdkYThlNDdFckstay1vX25VWTdwWFRHRVloeHdscjVWbDBFdmR2N3loNVotVjdVajlWckVEc0NFRG4tSnBYZW1ZRC1zTUdELThDZzBEWk9UN3pWV0tUNnd4QmRZQU85LUhR?oc=5)
 
 ---
 
@@ -157,11 +181,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Moins de graisse, plus de muscle : une étude relève des différences étonanntes chez les consommateurs de café - La Provence](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM29DRGE2N2g1cklmX1V3TkRyMXRxRU5ldW0zNGNfdjF3UVppbmFzTmNXSDVsbktpdm9HUzR5X1BaVmhFMTBnNzR6dkYzbWRXWF9vZWxWNnVWbDd2TGw2dmFIdjIyaGljN0EtczNaRWZ5SHNvaFFqS0pkSFVkZXR4SDBqZXV4dGNFRmt0V3VyM0tCeTlTUUlYZGZfUjBYN0pTeFBJSEVoeEdjalNKczIyRFNTWlowY0tzWl80djEybWVDS1djU0UyY0R4XzZJQk9BWUJlV0dKWUoyMmJKaXI3ZmZrM3hVaHpwSl9jMXFhVmRLdGlJM0p3?oc=5)
+### [Moins de graisse, plus de muscle : une étude relève des différences étonanntes chez les consommateurs de café](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM29DRGE2N2g1cklmX1V3TkRyMXRxRU5ldW0zNGNfdjF3UVppbmFzTmNXSDVsbktpdm9HUzR5X1BaVmhFMTBnNzR6dkYzbWRXWF9vZWxWNnVWbDd2TGw2dmFIdjIyaGljN0EtczNaRWZ5SHNvaFFqS0pkSFVkZXR4SDBqZXV4dGNFRmt0V3VyM0tCeTlTUUlYZGZfUjBYN0pTeFBJSEVoeEdjalNKczIyRFNTWlowY0tzWl80djEybWVDS1djU0UyY0R4XzZJQk9BWUJlV0dKWUoyMmJKaXI3ZmZrM3hVaHpwSl9jMXFhVmRLdGlJM0p3?oc=5)
 
 2026-09-09
 
-來源：[La Provence](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM29DRGE2N2g1cklmX1V3TkRyMXRxRU5ldW0zNGNfdjF3UVppbmFzTmNXSDVsbktpdm9HUzR5X1BaVmhFMTBnNzR6dkYzbWRXWF9vZWxWNnVWbDd2TGw2dmFIdjIyaGljN0EtczNaRWZ5SHNvaFFqS0pkSFVkZXR4SDBqZXV4dGNFRmt0V3VyM0tCeTlTUUlYZGZfUjBYN0pTeFBJSEVoeEdjalNKczIyRFNTWlowY0tzWl80djEybWVDS1djU0UyY0R4XzZJQk9BWUJlV0dKWUoyMmJKaXI3ZmZrM3hVaHpwSl9jMXFhVmRLdGlJM0p3?oc=5)
+來源：[laprovence.com](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM29DRGE2N2g1cklmX1V3TkRyMXRxRU5ldW0zNGNfdjF3UVppbmFzTmNXSDVsbktpdm9HUzR5X1BaVmhFMTBnNzR6dkYzbWRXWF9vZWxWNnVWbDd2TGw2dmFIdjIyaGljN0EtczNaRWZ5SHNvaFFqS0pkSFVkZXR4SDBqZXV4dGNFRmt0V3VyM0tCeTlTUUlYZGZfUjBYN0pTeFBJSEVoeEdjalNKczIyRFNTWlowY0tzWl80djEybWVDS1djU0UyY0R4XzZJQk9BWUJlV0dKWUoyMmJKaXI3ZmZrM3hVaHpwSl9jMXFhVmRLdGlJM0p3?oc=5)
 
 ---
 
@@ -170,22 +194,6 @@ permalink: /news/atrial-fibrillation/
 2026-09-09
 
 來源：[MedLabPortal](https://news.google.com/rss/articles/CBMilAFBVV95cUxQaERnQkd5cWVrTFVpTHQyeHRTNVVhanJCTmMtU2ozaFkwYnUzeENVRXk5YlNZWFc3b0tsNWJBLVdya182LWl2SkRCUmNMSmd3c0VVSWhGTXNmUVg5SnVpM2tIMWd2SjlFaVNlMmcxcktTWE52VE54VEhaUS1pbUxRM1EzZGtqbGU4YzlWSWRXRU9BOWlx?oc=5)
-
----
-
-### [Alzheimer: Frühzeitig Anzeichen im Schlaf feststellbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlJzbENUc295eTQ3dDBhd21Ia0VlaG14cmVlSFdTMWx5a3JCVk5xZEp1N3JQMmlvVktOSHFBUGpBbDVGZ29kd19FOExjdWJndmQ1OU9oNnM0dUZhZHA4VWFLRWNBZHZ2R0lWeHUyZFJaci14a3VyWFZwMUtyRGdlMEpjY3E0MF9hb2tBdlQ3TUdOdG5NQl9qLW05ZUVoZ2tiR1Y0bjhVbEdYS19BNDNhaTdHUkdJdw?oc=5)
-
-2026-09-09
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlJzbENUc295eTQ3dDBhd21Ia0VlaG14cmVlSFdTMWx5a3JCVk5xZEp1N3JQMmlvVktOSHFBUGpBbDVGZ29kd19FOExjdWJndmQ1OU9oNnM0dUZhZHA4VWFLRWNBZHZ2R0lWeHUyZFJaci14a3VyWFZwMUtyRGdlMEpjY3E0MF9hb2tBdlQ3TUdOdG5NQl9qLW05ZUVoZ2tiR1Y0bjhVbEdYS19BNDNhaTdHUkdJdw?oc=5)
-
----
-
-### [Children develop ‘toasted skin syndrome’ from overuse of electronics - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlhNTlpBZE1OMkxjRFpISmhDUHBNWl8zb1ZaZk5Xal9oUkdlZnM1SHAxNVJHYnpsWUhvWl9zOVJSRktpOXh2NEs0VEhNaXk3cF9ieldGUzNHdXo3TFgxdjFjbUJfbnItR2ctSURRRjcxZjRHd3ZLLTVJMWlXNW45Vk1YdTF6MnNOc2tHRGtPX2h4SFhZeV85NWJpRQ?oc=5)
-
-2026-09-09
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlhNTlpBZE1OMkxjRFpISmhDUHBNWl8zb1ZaZk5Xal9oUkdlZnM1SHAxNVJHYnpsWUhvWl9zOVJSRktpOXh2NEs0VEhNaXk3cF9ieldGUzNHdXo3TFgxdjFjbUJfbnItR2ctSURRRjcxZjRHd3ZLLTVJMWlXNW45Vk1YdTF6MnNOc2tHRGtPX2h4SFhZeV85NWJpRQ?oc=5)
 
 ---
 
@@ -229,19 +237,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Care home nurse who claimed dementia resident did not need a birthday cake struck off - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1NucmY5a3RKY3NzY1BrSFBlVnRqWF9ZelNFVXJKUFpCTllzZGJpVFB4dDNiVTJNRkJGWW5SaVpUME9FMm9QUDZUQ0hXNEprdVdXLXJ6Qmc4VkZ1RkFQblFtSEFUZTZkaVhjeldXZ0RqeGFkZ2JicU50REFXbmIwd05PODkxUW9tU0lDeTlhXy0wSGwxbDhfVV9vZVFSek9XMm5WclBQRmVFakJVQjZnWWhVT3FabUE0aXVScm9R?oc=5)
+### [5-α-Reduktasehemmer: Prostata-Medikamente bei Herzinfarkt vorteilhaft - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lETnBxZVZPY1RyUmRqOU1kZGJFZFA5amNWMDFLd0t1QkxFSGhBZUNDZ0FEYW12ZkxUVEpkcjhoeG9yTXlaZVFSSTZRV2dxLTd6V0R4YmlTcHZobmx1dWpQNzVyblYtM3p4TGRGNmtuWVdZQzgxZ1hwanI5blZLZVY2QTVfbk1wTUplT3hfQWQzb0Q1cEE2WXFxOA?oc=5)
 
 2026-09-08
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1NucmY5a3RKY3NzY1BrSFBlVnRqWF9ZelNFVXJKUFpCTllzZGJpVFB4dDNiVTJNRkJGWW5SaVpUME9FMm9QUDZUQ0hXNEprdVdXLXJ6Qmc4VkZ1RkFQblFtSEFUZTZkaVhjeldXZ0RqeGFkZ2JicU50REFXbmIwd05PODkxUW9tU0lDeTlhXy0wSGwxbDhfVV9vZVFSek9XMm5WclBQRmVFakJVQjZnWWhVT3FabUE0aXVScm9R?oc=5)
-
----
-
-### [Immunforschung: Adipositas und Rheuma zeigen ähnliche entzündliche Immunreaktionen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
-
-2026-09-08
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lETnBxZVZPY1RyUmRqOU1kZGJFZFA5amNWMDFLd0t1QkxFSGhBZUNDZ0FEYW12ZkxUVEpkcjhoeG9yTXlaZVFSSTZRV2dxLTd6V0R4YmlTcHZobmx1dWpQNzVyblYtM3p4TGRGNmtuWVdZQzgxZ1hwanI5blZLZVY2QTVfbk1wTUplT3hfQWQzb0Q1cEE2WXFxOA?oc=5)
 
 ---
 
@@ -261,14 +261,6 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [How gut health changes after 50 (and what to do about it) - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxORDNCSjZPNzFUU1hodWpsZDYyV3BMOUlEU3FjMTRKWFJrckMweHRrMlBSelMwNmhSYm02XzRXNFhjS2hVZ241UDFPM2NZODg3cTVtRVp0bEI1SkhkdC0tWWVFdDVXQ1FEUVdWY2Q2dTBjV2c4R0w2OHQtcWN2VEdVVy1ZYU53SW9hTUlhanE1c1pYQ2h5M0E?oc=5)
-
-2026-09-08
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxORDNCSjZPNzFUU1hodWpsZDYyV3BMOUlEU3FjMTRKWFJrckMweHRrMlBSelMwNmhSYm02XzRXNFhjS2hVZ241UDFPM2NZODg3cTVtRVp0bEI1SkhkdC0tWWVFdDVXQ1FEUVdWY2Q2dTBjV2c4R0w2OHQtcWN2VEdVVy1ZYU53SW9hTUlhanE1c1pYQ2h5M0E?oc=5)
-
----
-
 ### [Malaria: Neue resistente genetische Varianten breiten sich in Ostafrika aus – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdm5Gdk4tNkc1QTVZWk8tNFpUbkFoYXQwQnYtLVhzNXFibGtJUktyQnh0RFNzNzhoRUtzRHQwbUl6RkhzX09uX0RRQWVhR3pfaF9mU1ZkNlNfeVU5ZWVSNVNRZUlWVk96R3huTnh6aXIyNVJGc3lqSzU5VzZGT0tFdHRySFFZZ3gtTWNaVlRCbzV4M3RxYnl3Y2ZvR0lnSS1qcmRidzdncm1GV3ZSVm9CQXZmNGNTYTZxTnA3eDFCbi1YZmp6azNIM1o1Y2x3LWZwdk1hbXZ1NUl5clk?oc=5)
 
 2026-09-07
@@ -282,6 +274,22 @@ permalink: /news/atrial-fibrillation/
 2026-09-07
 
 來源：[agendaonline.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMEotSWlHWE9hZ2JCVGthek1HWUt3aUlROG1EMmhQZURsMlJzc0d0Q3hrNWZ5NXdXLWRuQkRqSDEwUHVGNm85bm1hN2lJNTFGWGJTQ2VDWUkyX1Y1dUhaNzNxTmgwS0k2Q0ZCamVYWnMzdXZTNnpIN2h6cUFXUkZtV1dBMEV4TEVkX09TOGFrajMwbVlqSW9JVlFjOE90OFR2MUVaeUVjLXJ0R1NZMDRRaFNyUEJNZVh0V3pVcnFaY2QxbXhxdjVMNTBhMmc?oc=5)
+
+---
+
+### [Pilzinfektionen: Immunabwehr mit überraschender Kehrseite - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE55U1dHYnJZUjkzUWVlU2dGalJveFFSb2FCQm1Ec2lIa0R0NGdSclp1eHNUX0gyczViX2w3OFZtX2N0UEdTSUxtSnZlQQ?oc=5)
+
+2026-09-07
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE55U1dHYnJZUjkzUWVlU2dGalJveFFSb2FCQm1Ec2lIa0R0NGdSclp1eHNUX0gyczViX2w3OFZtX2N0UEdTSUxtSnZlQQ?oc=5)
+
+---
+
+### [Osteopenia, la afección que le fue diagnosticada a Gwyneth Paltrow a los 37 años: "Debo cuidarme cada día, mi vida ha cambiado por completo"](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzZzaG9LQWNWYWtqTWtocVh1LXMtUldzWUpnNlBLYUlBbUpGWWhieGw4VGlaVWZacGVETTJibUFQVXhTSEZKUjI5Q0ZieXdSV1N0cGhUVmkyTTN2ZjhiWElvMHFOTVk5WUZXQ09qZmtGSjRScXRJcVJNWXZxTlRXT1ZkRGpyREdwRXlTYXBYbU1BWFBTZjRDZ2NB?oc=5)
+
+2026-09-06
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzZzaG9LQWNWYWtqTWtocVh1LXMtUldzWUpnNlBLYUlBbUpGWWhieGw4VGlaVWZacGVETTJibUFQVXhTSEZKUjI5Q0ZieXdSV1N0cGhUVmkyTTN2ZjhiWElvMHFOTVk5WUZXQ09qZmtGSjRScXRJcVJNWXZxTlRXT1ZkRGpyREdwRXlTYXBYbU1BWFBTZjRDZ2NB?oc=5)
 
 ---
 

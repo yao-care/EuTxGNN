@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
-### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+
+---
+
+### [Casi la mitad de pacientes de migraña presenta algún grado de discapacidad asociado a la patología, según estudio de SEN](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraña</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/regadenoson/
 2026-09-09 <span class="news-indication-tag">asma</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
+
+---
+
+### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
+
+2026-09-09 <span class="news-indication-tag">migraña</span>
+
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
 
 ---
 

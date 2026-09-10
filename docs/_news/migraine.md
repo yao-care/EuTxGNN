@@ -3,7 +3,7 @@ layout: default
 title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<strong>migraña（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,13 +77,13 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+### [Casi la mitad de pacientes de migraña presenta algún grado de discapacidad asociado a la patología, según estudio de SEN](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
 
 2026-09-10
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
 
 ---
 
@@ -92,6 +92,14 @@ permalink: /news/migraine/
 2026-09-10
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+
+---
+
+### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
+
+2026-09-09
+
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
 
 ---
 

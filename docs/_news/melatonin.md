@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
 
-### [Más de 5 millones de españoles sufren migraña y casi la mitad tiene algún grado de discapacidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+### [Adipositas-bedingte Veränderungen des Immunsystems sind umkehrbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+
+2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+
+---
+
+### [Casi la mitad de pacientes de migraña presenta algún grado de discapacidad asociado a la patología, según estudio de SEN](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraña</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlFRc0JsSDFLcVFmSDlsajZNUjBxdVFNVGJQY2lkTFJDWUZjcjlKckJhXzdmU3VSUVhmQkxfNTlvM29ObXN6ZGRsLW5GS0M4ajVucUV5VVF6UzJOazlvSkF1NWViRDhmbDFPQVNSbEoxQl90ZWZyUDdHNmNtTFlhLXFIek56ZWpmSm80aHVzMmRqSUtDZW14MUFKVnRBV3pEUDFDeUhNVVV3MVludkMxdHNiS0wzWGtyelNR?oc=5)
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
+
+---
+
+### [What your waistline, handshake and postcode reveal about your heart health - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkFHS2tIR2lHbXlhUl8zWDFFMzlsemcyc1pQN0JEeVNXYUlRS3pOZjk0TG1BNU1fQkJwOE1HYnRJNVZfXy00Y0tkenNaTTJSajJHRFZ6cVlsWTYwRU1MN1VtWEdaVjZVUE9QSDNjWGJtakF5TV9rRU1aY3JyLW1UX2tDRnI4dUswSjBRUHNKc18zU2p6TTVyZzd5cThYcjVBcnJJam9NRGpHbWpEcDdOYjZnNk0?oc=5)
+
+2026-09-10 <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkFHS2tIR2lHbXlhUl8zWDFFMzlsemcyc1pQN0JEeVNXYUlRS3pOZjk0TG1BNU1fQkJwOE1HYnRJNVZfXy00Y0tkenNaTTJSajJHRFZ6cVlsWTYwRU1MN1VtWEdaVjZVUE9QSDNjWGJtakF5TV9rRU1aY3JyLW1UX2tDRnI4dUswSjBRUHNKc18zU2p6TTVyZzd5cThYcjVBcnJJam9NRGpHbWpEcDdOYjZnNk0?oc=5)
 
 ---
 
@@ -78,11 +94,19 @@ permalink: /news/melatonin/
 
 ---
 
-### [Fettleber: Ketogene Diät reduziert Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
+### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
 
-2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-09 <span class="news-indication-tag">migraña</span>
 
-來源：[BornCity](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFNZ0Mza1ZJc3FRamc4SkIxZUhRR2cybmQ1U0FIOFpKbkNuV0JFdS1va3cxMjRNSGtGaE9kNGtnazVTNjh3M3ExTFZSZzZnRHVGVE9NLWNjOGtDTEtuMGFRMDB0NUd4bUV5aDRVd0pHN0pOckRPcHFxMmw1NTVweTh3bTRadW55TkpnM1Nn?oc=5)
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
+
+---
+
+### [Keto-Diät besonders hilfreich gegen Adipositas, Prädiabetes & Fettleber](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlJFd05PMDdEMGNPdGJOcGlkeUhVU0JjT2dzblJvZkd0Q3ZxSWthbkNEMVQ4VTdIVFU4d0cxcVpxbFZURko2cVBZcXhObFZ4eHZqNEloRTdQYW1VbE0wWE00YzdnYTBRYVk1bnBvMTJab0NmenIyaTc5NVA0djZ5azY3RzVLWWlQTDZCS3VCVnZYeTlZNVVIdDVvaU9LOTRpT3hSbEl0WHVlOEJaWlhVVHR3ZHF3OVFvYTdxWTJXX2F2OWVPc0tHcDcySQ?oc=5)
+
+2026-09-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlJFd05PMDdEMGNPdGJOcGlkeUhVU0JjT2dzblJvZkd0Q3ZxSWthbkNEMVQ4VTdIVFU4d0cxcVpxbFZURko2cVBZcXhObFZ4eHZqNEloRTdQYW1VbE0wWE00YzdnYTBRYVk1bnBvMTJab0NmenIyaTc5NVA0djZ5azY3RzVLWWlQTDZCS3VCVnZYeTlZNVVIdDVvaU9LOTRpT3hSbEl0WHVlOEJaWlhVVHR3ZHF3OVFvYTdxWTJXX2F2OWVPc0tHcDcySQ?oc=5)
 
 ---
 
@@ -102,11 +126,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Immunforschung: Adipositas und Rheuma zeigen ähnliche entzündliche Immunreaktionen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
+### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
-2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 ---
 
