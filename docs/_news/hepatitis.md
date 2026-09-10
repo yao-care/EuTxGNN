@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [“I feel fine, so why should I test?” Doctor explains why chronic hepatitis can damage the liver silently - The Times of India](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ1BkZ3A3X3lLaTR1SHUySjZ2NWR5NW10MzdiSU9QSE5kbzEySS1kbW1OamF1Q1Mtd3pnUkRmYUg0dWl0dUtNQ2ZqaHN1Vl9oamc0d2w2QWlyMHRuOTNnQ05yQjdwbUZEb1NKOTFPYXJKZTNPUzg5Rms2ZVlFWjc3cHhqZjFqNHRqbWhZOV9LNVdXSm5sYjF6WDJDS3hLRUs5T1JuWjBMUXlzazhmYk9fUFpiTHRvRmZZUkd2T2xGN1hpcFRjMzJUcWpyVmpMa0ZqTjljQ0YxdFJPbGoxYW5OdmRJVmN2bDdRYjRuTDJNSC1qNFVWQWJfUzFMcEbSAYQCQVVfeXFMUC0teEp0WE1tdkl4U08zbjNEaHFyTzlGVy1LUnMtWHVTM0VjR1RzbGdBOGNyVVNneEFPMmt0UmpBUDJtLVdWaUNfSlZUNVhoQnFWNXZ1RlVaTDVRU09udU8zdUNGUG5ncnBHUS1yUm1sTUd3d1hUQTQ3SXlhazdBdTZ5ZHlITm8wVHQ2OTV6YnVablBqTEhwMjJGQVJIMkZYQ3FsaHVjTUsyQkUxUDBqeEJOeWxnZ21mMk5tODF2MFBEckpyaXdNZ0FJTFNCVG13NHpMZllrNmtJNW1BSy1CQVdyQi1mdWFJeFZDVEFlaGVYZzQ1a3d2SkRSZmVIRWw5cWxYX3g?oc=5)
+
+2026-09-10
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ1BkZ3A3X3lLaTR1SHUySjZ2NWR5NW10MzdiSU9QSE5kbzEySS1kbW1OamF1Q1Mtd3pnUkRmYUg0dWl0dUtNQ2ZqaHN1Vl9oamc0d2w2QWlyMHRuOTNnQ05yQjdwbUZEb1NKOTFPYXJKZTNPUzg5Rms2ZVlFWjc3cHhqZjFqNHRqbWhZOV9LNVdXSm5sYjF6WDJDS3hLRUs5T1JuWjBMUXlzazhmYk9fUFpiTHRvRmZZUkd2T2xGN1hpcFRjMzJUcWpyVmpMa0ZqTjljQ0YxdFJPbGoxYW5OdmRJVmN2bDdRYjRuTDJNSC1qNFVWQWJfUzFMcEbSAYQCQVVfeXFMUC0teEp0WE1tdkl4U08zbjNEaHFyTzlGVy1LUnMtWHVTM0VjR1RzbGdBOGNyVVNneEFPMmt0UmpBUDJtLVdWaUNfSlZUNVhoQnFWNXZ1RlVaTDVRU09udU8zdUNGUG5ncnBHUS1yUm1sTUd3d1hUQTQ3SXlhazdBdTZ5ZHlITm8wVHQ2OTV6YnVablBqTEhwMjJGQVJIMkZYQ3FsaHVjTUsyQkUxUDBqeEJOeWxnZ21mMk5tODF2MFBEckpyaXdNZ0FJTFNCVG13NHpMZllrNmtJNW1BSy1CQVdyQi1mdWFJeFZDVEFlaGVYZzQ1a3d2SkRSZmVIRWw5cWxYX3g?oc=5)
+
+---
 
 ### [Veleno di scorpione contro fegato grasso ed epatite? Cosa funziona davvero nei primi test](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnVGUGF4LUJXd2dmRlI4Ym9mbXNObUJNN1llWk5VZUpINUVVcXZwUEJJVTFmVU1TN1FuTmV4N0JEWkxhNXpFN3BCakNSRDZGY29ldEt6aGpTR0pjajJnUnIzSUhFci1HOTdWVFlBZ3NzVVdoYktCdHRCeXVxVWZ4SUsxUXJOb1J6YnhyLVk1cWU3UGRxVWlHZ1F0SHFHQkt1N2h5WkI2UDFZNlVKUnA5QlNTU3BiaUwxbWpPWlpHbXJULTRnZS1sQ1JIMm0wdDFxeHU4NVlfZTZ0TTF6dzFEcXV3?oc=5)
 

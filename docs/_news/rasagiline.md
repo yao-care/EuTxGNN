@@ -62,11 +62,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Nurse said dementia patient 'didn't need birthday cake'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSWJUY1l4WDVKLW1ESFU5RzNZeXVhSHM2RzJTZkhITmJ2Yi15Q1JyeHNzTjlCbjZOTUZnbXpxY0NmWWhNSHpKY3RUNFdfcE40NkRacHRfUk9ZempN?oc=5)
+### [Care home nurse who claimed dementia resident did not need a birthday cake struck off - The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1NucmY5a3RKY3NzY1BrSFBlVnRqWF9ZelNFVXJKUFpCTllzZGJpVFB4dDNiVTJNRkJGWW5SaVpUME9FMm9QUDZUQ0hXNEprdVdXLXJ6Qmc4VkZ1RkFQblFtSEFUZTZkaVhjeldXZ0RqeGFkZ2JicU50REFXbmIwd05PODkxUW9tU0lDeTlhXy0wSGwxbDhfVV9vZVFSek9XMm5WclBQRmVFakJVQjZnWWhVT3FabUE0aXVScm9R?oc=5)
 
 2026-09-08 <span class="news-indication-tag">dementia</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSWJUY1l4WDVKLW1ESFU5RzNZeXVhSHM2RzJTZkhITmJ2Yi15Q1JyeHNzTjlCbjZOTUZnbXpxY0NmWWhNSHpKY3RUNFdfcE40NkRacHRfUk9ZempN?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1NucmY5a3RKY3NzY1BrSFBlVnRqWF9ZelNFVXJKUFpCTllzZGJpVFB4dDNiVTJNRkJGWW5SaVpUME9FMm9QUDZUQ0hXNEprdVdXLXJ6Qmc4VkZ1RkFQblFtSEFUZTZkaVhjeldXZ0RqeGFkZ2JicU50REFXbmIwd05PODkxUW9tU0lDeTlhXy0wSGwxbDhfVV9vZVFSek9XMm5WclBQRmVFakJVQjZnWWhVT3FabUE0aXVScm9R?oc=5)
 
 ---
 

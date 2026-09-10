@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/indacaterol-maleate/
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
 
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+
+---
+
+### [L’asma grave può lasciare il segno anche nel cervello? Cosa hanno scoperto i ricercatori](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTHV6RHU4c2lzY3A0V3FOR1gzNTBlc1c4Zk9xWk9kMXJJY2VyWnVBZWE2OENjSlRuTlVBZ0VYX3g4WnlzOWQ4TDBwOHlMei1hTXZvVzBwLXhlQ29GeW44elVnQ1cya0REajV3Q0VBTUdkSnJRSUtrSXdoUW03ek01dUM0N1N4N043LVNoTzh0VUo0M3JLejJqeUFCVldVZFBESWI3QUY0SnBVdzFRQktFUVVxMTdUNWt1VFdxYjVnc1RwWjVWZEVjeGV1UXpiM1IwQXVUTFNiaXpPeWZRTTI0?oc=5)
+
+2026-09-10 <span class="news-indication-tag">asma</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTHV6RHU4c2lzY3A0V3FOR1gzNTBlc1c4Zk9xWk9kMXJJY2VyWnVBZWE2OENjSlRuTlVBZ0VYX3g4WnlzOWQ4TDBwOHlMei1hTXZvVzBwLXhlQ29GeW44elVnQ1cya0REajV3Q0VBTUdkSnJRSUtrSXdoUW03ek01dUM0N1N4N043LVNoTzh0VUo0M3JLejJqeUFCVldVZFBESWI3QUY0SnBVdzFRQktFUVVxMTdUNWt1VFdxYjVnc1RwWjVWZEVjeGV1UXpiM1IwQXVUTFNiaXpPeWZRTTI0?oc=5)
 
 ---
 

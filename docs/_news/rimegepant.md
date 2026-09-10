@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Casi la mitad de pacientes de migraña presenta algún grado de discapacidad asociado a la patología, según estudio de SEN](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
-
-2026-09-10 <span class="news-indication-tag">migraña</span>
-
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
@@ -70,27 +62,27 @@ permalink: /news/rimegepant/
 
 ---
 
-### [The simple sleep mistake that could damage and change the SHAPE of your heart - are you at risk?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+### [More light at night linked to changes in heart structure and function - Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSVpqYmJ2LVRSSzZCOGFPa0psVnpQQllhNUFRdHI0SHJQWlI5UTVoUDRrUXk5U185Rl9nbGh1b2loS0txbFYzM2p3b2dtMXJKZ01GLWNOQ3dQMEstdWRzV1c1WjlidUpndXZ3b0JwTVRfQWNSWGRGQk44bw?oc=5)
 
-2026-09-09 <span class="news-indication-tag">heart disease</span>
+2026-09-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSVpqYmJ2LVRSSzZCOGFPa0psVnpQQllhNUFRdHI0SHJQWlI5UTVoUDRrUXk5U185Rl9nbGh1b2loS0txbFYzM2p3b2dtMXJKZ01GLWNOQ3dQMEstdWRzV1c1WjlidUpndXZ3b0JwTVRfQWNSWGRGQk44bw?oc=5)
 
 ---
 
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
+### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
 
 2026-09-09 <span class="news-indication-tag">migraña</span>
 
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
 
 ---
 
-### [Un estudio del Puerta de Hierro de Majadahonda mejora la identificación del riesgo de muerte súbita en pacientes con miocardiopatía dilatada - Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
+### [Un estudio del Puerta de Hierro de Majadahonda mejora la identificación del riesgo de muerte súbita en pacientes con miocardiopatía dilatada](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
 
 2026-09-09 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
+來源：[noroestemadrid.com](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
 
 ---
 

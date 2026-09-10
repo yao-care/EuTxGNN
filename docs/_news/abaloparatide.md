@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [Casi la mitad de pacientes de migraña presenta algún grado de discapacidad asociado a la patología, según estudio de SEN](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
-
-2026-09-10 <span class="news-indication-tag">migraña</span>
-
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVi03NTRST01nSjd3OXNjX1l5bUg0U3BiOGhfWS02SDZsS0JINGJiaER2ZUVGSi1DWkJnS2JDblAtcUZhaEN3MEdyRWNJaEtVMldMWU4zdzNiSFlUVFVFWk9YYi1OWXVrMjVvRy1jdWNiWFBRaWNkWERrRnB4RkpoTHIyVEFHeVVYcU5KSW1FVTVab2FJeWVIMmxMMFRBV1FoeW9najJWMGtORGxIT1NwSUkySzd3ZkVib1IxM2gzOURWTGpYQzUyTDh4dGxWUlE0NlRvS0hRVUJUOXNMNnlKU05VbEc2VTlqek1iX1hWQVFlZw?oc=5)
-
----
-
-### [Fettleber: Neue Risiken für Herz und Nieren entdeckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
+### [Fettleber: Neue Risiken für Herz und Nieren entdeckt](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
 
 2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Fin de commercialisation de 5 médicaments : ce qui va changer en pharmacie d'ici fin décembre pour des millions de Français](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
+### [Fin de commercialisation de 5 médicaments : ce qui va changer en pharmacie d'ici fin décembre pour des millions de Français - La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
 
 2026-09-10 <span class="news-indication-tag">diabète</span>
 
-來源：[laprovence.com](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
+來源：[La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
 
 ---
 
@@ -102,35 +94,19 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Typ-2-Diabetes: Gestationsdiabetes verkürzt Manifestationsalter um 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPakxCYlBKQjRuQzNnNWk5Uk82cDJUdUdIMWZzb2Z6aVB0U0h2VUJLZWFaRlNuVnJ5X3hoZ3RiV2QzakZmWGtIRUd3cFA2MVR3NmtHNFFJTlo0eDh4NG9hbzBlX2V6YUp6WWoyN1lsVVlFQmdFUlI1Unl3MjYtVVpyZW9YS1FhLWdDc2xjYTZ0Zm8yMHpvMUR5NDFnbVVBM2FmX3Vqd0VybjVwbzM5NHNMNmVkYmRUbUZ4WkE?oc=5)
+### [Typ-2-Diabetes: Gestationsdiabetes verkürzt Manifestationsalter um 13 Jahre](https://news.google.com/rss/articles/CBMiugFBVV95cUxPakxCYlBKQjRuQzNnNWk5Uk82cDJUdUdIMWZzb2Z6aVB0U0h2VUJLZWFaRlNuVnJ5X3hoZ3RiV2QzakZmWGtIRUd3cFA2MVR3NmtHNFFJTlo0eDh4NG9hbzBlX2V6YUp6WWoyN1lsVVlFQmdFUlI1Unl3MjYtVVpyZW9YS1FhLWdDc2xjYTZ0Zm8yMHpvMUR5NDFnbVVBM2FmX3Vqd0VybjVwbzM5NHNMNmVkYmRUbUZ4WkE?oc=5)
 
 2026-09-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPakxCYlBKQjRuQzNnNWk5Uk82cDJUdUdIMWZzb2Z6aVB0U0h2VUJLZWFaRlNuVnJ5X3hoZ3RiV2QzakZmWGtIRUd3cFA2MVR3NmtHNFFJTlo0eDh4NG9hbzBlX2V6YUp6WWoyN1lsVVlFQmdFUlI1Unl3MjYtVVpyZW9YS1FhLWdDc2xjYTZ0Zm8yMHpvMUR5NDFnbVVBM2FmX3Vqd0VybjVwbzM5NHNMNmVkYmRUbUZ4WkE?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPakxCYlBKQjRuQzNnNWk5Uk82cDJUdUdIMWZzb2Z6aVB0U0h2VUJLZWFaRlNuVnJ5X3hoZ3RiV2QzakZmWGtIRUd3cFA2MVR3NmtHNFFJTlo0eDh4NG9hbzBlX2V6YUp6WWoyN1lsVVlFQmdFUlI1Unl3MjYtVVpyZW9YS1FhLWdDc2xjYTZ0Zm8yMHpvMUR5NDFnbVVBM2FmX3Vqd0VybjVwbzM5NHNMNmVkYmRUbUZ4WkE?oc=5)
 
 ---
 
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
+### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
 
 2026-09-09 <span class="news-indication-tag">migraña</span>
 
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUpxNWRHeHZUdHppMDVMM2VRdHZ1VWMzUFhzZHVuYjJzV3BsZEpydUVIYlhiUkJNYzlwSE42dUdmelc1dnJMSDNlOEI4UEJETDBVNkZwMFdraFFmanY0SkJpQlpQUnp6QWJpS3pWS0RGek52NnpSUEtvRkpqdlNpdGxRYTZqYW41WnhHU1NPQ2RkU1pfZ3JZS2FLNEp1ZEdwOWpSbTJCb3NmQ25sYmtkaXB6d2hrbHVDQ1dEdGpjRFRBeS1OQmhCTFo2TTNkZ1pjX0ZFSy15UnBwS1RUSVFJVmdaQQ?oc=5)
-
----
-
-### [La dieta que logra reducir un 67% la grasa del hígado y puede ayudar a revertir la prediabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmgyd3QyMU5CNVdlN3NLalN2NURKWGVCdmNfZS1kTXRoWThNd2NyTTVvNWo4SkdYV0E1aUJXbGVTMTdLX3RnYjhXcFE5eFRFMmg4SUtvNVZsMEN2TXpMZlhDQXBlN2RZU29iMjlGMi1uaFg1djQ2T2czYU9qRFJWY0xobHlSOUdtWmlheGFHUHFxeVROQnNWNGMyV1VpUUJ6TEFVRm54eEd6S29qSHY1SkUtN3RfU1lCdmhxb0NRSQ?oc=5)
-
----
-
-### [Keto-Diät besonders hilfreich gegen Adipositas, Prädiabetes & Fettleber](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlJFd05PMDdEMGNPdGJOcGlkeUhVU0JjT2dzblJvZkd0Q3ZxSWthbkNEMVQ4VTdIVFU4d0cxcVpxbFZURko2cVBZcXhObFZ4eHZqNEloRTdQYW1VbE0wWE00YzdnYTBRYVk1bnBvMTJab0NmenIyaTc5NVA0djZ5azY3RzVLWWlQTDZCS3VCVnZYeTlZNVVIdDVvaU9LOTRpT3hSbEl0WHVlOEJaWlhVVHR3ZHF3OVFvYTdxWTJXX2F2OWVPc0tHcDcySQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlJFd05PMDdEMGNPdGJOcGlkeUhVU0JjT2dzblJvZkd0Q3ZxSWthbkNEMVQ4VTdIVFU4d0cxcVpxbFZURko2cVBZcXhObFZ4eHZqNEloRTdQYW1VbE0wWE00YzdnYTBRYVk1bnBvMTJab0NmenIyaTc5NVA0djZ5azY3RzVLWWlQTDZCS3VCVnZYeTlZNVVIdDVvaU9LOTRpT3hSbEl0WHVlOEJaWlhVVHR3ZHF3OVFvYTdxWTJXX2F2OWVPc0tHcDcySQ?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
 
 ---
 

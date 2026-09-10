@@ -54,11 +54,51 @@ permalink: /news/cetrorelix-as-acetate/
 
 ## 相關新聞（29 則）
 
+### [El superalimento, pescado de acuicultura, para afrontar la vuelta al cole - Diario de Mallorca](https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHMwcWVoQlVXQkx0U3ptbDN3ZWN1cDVjam1LWXhYbEZtSVdzbDRHTVgtYjJKQmgtZUs5OVlLZlNpaTB5djR5b3FvQ2JPREJ2QXZJTVk4S09ReGVNVUxjQjN0YzJnbmtEQV9lZnZtd2J6Si1ueFNXbklQWmQtSDc0ZGRHajAwb0lMTDFvYkxFVTNjOXF6UVg3SWhpUTRrdEx1eGpTMGZtY0NjeFNGOEYzTkxvcjhvVXh3MHA0eWp1M0hoNGpxTXM1dExfYzI?oc=5)
+
+2026-09-10 <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Mallorca](https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHMwcWVoQlVXQkx0U3ptbDN3ZWN1cDVjam1LWXhYbEZtSVdzbDRHTVgtYjJKQmgtZUs5OVlLZlNpaTB5djR5b3FvQ2JPREJ2QXZJTVk4S09ReGVNVUxjQjN0YzJnbmtEQV9lZnZtd2J6Si1ueFNXbklQWmQtSDc0ZGRHajAwb0lMTDFvYkxFVTNjOXF6UVg3SWhpUTRrdEx1eGpTMGZtY0NjeFNGOEYzTkxvcjhvVXh3MHA0eWp1M0hoNGpxTXM1dExfYzI?oc=5)
+
+---
+
+### [El SES confirma tres nuevos casos de fiebre del Nilo](https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWItWnk2eFRkQ3U0Q2xyckVWVDlnUEZEcThsdlo3WVVWcGdUUkJsaUl0VjVTY3NPSloyTUVEUjd0cVVERFVBd0l2UzZxcHk1N19GNzRUVXJBamthbG1pU1FPRVMzeC10b3F1S04zU3JiTnJMbi1IQjlTMnpuWjRWTWdVaGtCVWIzSzRYUlh6WE5DUVE1TVhDZVhqRklNQnlnWWZJdzUtN29YYmFFcVdFaXdJdk9pOWNhcHh5S09QR1ZIZGw3ZjJv?oc=5)
+
+2026-09-10 <span class="news-indication-tag">AF</span>
+
+來源：[extremadura.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWItWnk2eFRkQ3U0Q2xyckVWVDlnUEZEcThsdlo3WVVWcGdUUkJsaUl0VjVTY3NPSloyTUVEUjd0cVVERFVBd0l2UzZxcHk1N19GNzRUVXJBamthbG1pU1FPRVMzeC10b3F1S04zU3JiTnJMbi1IQjlTMnpuWjRWTWdVaGtCVWIzSzRYUlh6WE5DUVE1TVhDZVhqRklNQnlnWWZJdzUtN29YYmFFcVdFaXdJdk9pOWNhcHh5S09QR1ZIZGw3ZjJv?oc=5)
+
+---
+
+### [I cried over a cushion and I'm at war with the dishwasher because of my medical condition… it affects millions of women - The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2lyMnJ2QnJZREgtS285MzFEeldPN2laU1ZNQWdJbVpnUmlTNU9MZlFCMDhyR0pNUzVJQXZTUzM4YmEtUXhEODdsOFl3OGF3UUZGcXpISXR2RHlVdmRJV09seVN5djJvQlpUenZBek9JSEJlTWxVTW8wN1I2cFB4amNxOXFQU3lXNHJJWklPMV9CdTJsZ3c3VUdsd09tQTQ2aUE?oc=5)
+
+2026-09-10 <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2lyMnJ2QnJZREgtS285MzFEeldPN2laU1ZNQWdJbVpnUmlTNU9MZlFCMDhyR0pNUzVJQXZTUzM4YmEtUXhEODdsOFl3OGF3UUZGcXpISXR2RHlVdmRJV09seVN5djJvQlpUenZBek9JSEJlTWxVTW8wN1I2cFB4amNxOXFQU3lXNHJJWklPMV9CdTJsZ3c3VUdsd09tQTQ2aUE?oc=5)
+
+---
+
 ### [Herzinfarkt: Funktionelle Koronarangiografie optimiert Revaskularisierung der Nicht-Culprit-Läsionen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
+
+---
+
+### [Neue Studie: Diese nächtliche Belastung könnte dem Herz schaden](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczJTTTRYUnU4WldKYnFjdG1OTUdFbll6N0o2RjhVYWpYeXFrZUdsNDFuVF9PUE1IcE5DSFhWdjlDU25ZNjU1WVZ5Zm5qNmQyclJhREZ0T3lhdXVHcDR2OXN6LUVMdzBwM0NnT2plY0JnZzBSbGtycGRSM0hvS3JYOVlDYUw4RVVVOGZaMUs2NEVkUHVkTDdBd2J5ekIyaGRBV05tRk9SbUdHcVBoWVQ5X1RyaE9qQ0htbzV2bFNnMTI?oc=5)
+
+2026-09-10 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczJTTTRYUnU4WldKYnFjdG1OTUdFbll6N0o2RjhVYWpYeXFrZUdsNDFuVF9PUE1IcE5DSFhWdjlDU25ZNjU1WVZ5Zm5qNmQyclJhREZ0T3lhdXVHcDR2OXN6LUVMdzBwM0NnT2plY0JnZzBSbGtycGRSM0hvS3JYOVlDYUw4RVVVOGZaMUs2NEVkUHVkTDdBd2J5ekIyaGRBV05tRk9SbUdHcVBoWVQ5X1RyaE9qQ0htbzV2bFNnMTI?oc=5)
+
+---
+
+### [Il boom del kefir: perché tutti lo vogliono - la Repubblica](https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2ZDelhFWG1CZDlEY3pnazBHenNyQ3VLR19wcktRVEh0Y09rRXpFdXowV2FUdWxhRUREM1M2a3REWDM2X1Q2ZEItckFoMTlhbkhxNVNEbkJpdnRuVlFFNGgwQ28yUjJ0SWNPczc2WmFBa3pOd1liYm5SbXV0aGVrY0dueC1HbFVvdTYydklhNXRobzNuMGZhUTEyMnN6bmI0RmlIRmlxd9IBrAFBVV95cUxQeWZQZ1V2SXpPc3dUNVNRMUhaTjFHcFNEb1ByclFUUVl5WWgtTjdqcmJURU9QcElOZkhJY3BTQ2p1dEZxbmYtM0Y3bUJLSmpZbUxXc2FuMkxmX1FtNF9oWGlrRXZvS1JkdW9IZk8xZ0g2V3ktZGFzZ081WmQ2dmloaFhOUjhlRmQyYThoczVCZmxfbHg1RE1hZzUyNFhEOGpVNlJHUVNqLTVVUTMt?oc=5)
+
+2026-09-10 <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2ZDelhFWG1CZDlEY3pnazBHenNyQ3VLR19wcktRVEh0Y09rRXpFdXowV2FUdWxhRUREM1M2a3REWDM2X1Q2ZEItckFoMTlhbkhxNVNEbkJpdnRuVlFFNGgwQ28yUjJ0SWNPczc2WmFBa3pOd1liYm5SbXV0aGVrY0dueC1HbFVvdTYydklhNXRobzNuMGZhUTEyMnN6bmI0RmlIRmlxd9IBrAFBVV95cUxQeWZQZ1V2SXpPc3dUNVNRMUhaTjFHcFNEb1ByclFUUVl5WWgtTjdqcmJURU9QcElOZkhJY3BTQ2p1dEZxbmYtM0Y3bUJLSmpZbUxXc2FuMkxmX1FtNF9oWGlrRXZvS1JkdW9IZk8xZ0g2V3ktZGFzZ081WmQ2dmloaFhOUjhlRmQyYThoczVCZmxfbHg1RE1hZzUyNFhEOGpVNlJHUVNqLTVVUTMt?oc=5)
 
 ---
 
@@ -74,15 +114,15 @@ permalink: /news/cetrorelix-as-acetate/
 
 2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
 
 ---
 
-### [Salmonella outbreak cases rise in new UKHSA update as doctors issue urgent warning - Daily Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2FwVDhiTWJhcDBPVXBpRkpkd2tNSVJnOVZlbGc5c3RFVjZIWG9qSkFpUU5IWkpDNjBZcjVVVF9mazZDWEZUWG5TMlFGLUFsajZtVG01R0tmTEZVaHRzS2lRSk9vSHFmZjM5aGxGLTdFZThRX09XYlRMb1dXOW5xcm1aTlVLMVhO0gGOAUFVX3lxTE5HaW45LTVWbmIxYTBCUG8yN181UDlSdXRzcWxWeVVMRFYtRjdvZ05OQkNkSUc0SFJYYV80UzJfekpodllOWEpMa2JUWV9MNF9nSi05dXRFRGsyQ1pZQWoyMDVjUkFfRTExcXF0QnN2NzEzbEVzcWZLZkl2WUUwbl9wbHY5OHpWbTNLQmJBV1E?oc=5)
+### [Salmonella outbreak cases rise in new UKHSA update as doctors issue urgent warning - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2FwVDhiTWJhcDBPVXBpRkpkd2tNSVJnOVZlbGc5c3RFVjZIWG9qSkFpUU5IWkpDNjBZcjVVVF9mazZDWEZUWG5TMlFGLUFsajZtVG01R0tmTEZVaHRzS2lRSk9vSHFmZjM5aGxGLTdFZThRX09XYlRMb1dXOW5xcm1aTlVLMVhO0gGOAUFVX3lxTE5HaW45LTVWbmIxYTBCUG8yN181UDlSdXRzcWxWeVVMRFYtRjdvZ05OQkNkSUc0SFJYYV80UzJfekpodllOWEpMa2JUWV9MNF9nSi05dXRFRGsyQ1pZQWoyMDVjUkFfRTExcXF0QnN2NzEzbEVzcWZLZkl2WUUwbl9wbHY5OHpWbTNLQmJBV1E?oc=5)
 
 2026-09-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2FwVDhiTWJhcDBPVXBpRkpkd2tNSVJnOVZlbGc5c3RFVjZIWG9qSkFpUU5IWkpDNjBZcjVVVF9mazZDWEZUWG5TMlFGLUFsajZtVG01R0tmTEZVaHRzS2lRSk9vSHFmZjM5aGxGLTdFZThRX09XYlRMb1dXOW5xcm1aTlVLMVhO0gGOAUFVX3lxTE5HaW45LTVWbmIxYTBCUG8yN181UDlSdXRzcWxWeVVMRFYtRjdvZ05OQkNkSUc0SFJYYV80UzJfekpodllOWEpMa2JUWV9MNF9nSi05dXRFRGsyQ1pZQWoyMDVjUkFfRTExcXF0QnN2NzEzbEVzcWZLZkl2WUUwbl9wbHY5OHpWbTNLQmJBV1E?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2FwVDhiTWJhcDBPVXBpRkpkd2tNSVJnOVZlbGc5c3RFVjZIWG9qSkFpUU5IWkpDNjBZcjVVVF9mazZDWEZUWG5TMlFGLUFsajZtVG01R0tmTEZVaHRzS2lRSk9vSHFmZjM5aGxGLTdFZThRX09XYlRMb1dXOW5xcm1aTlVLMVhO0gGOAUFVX3lxTE5HaW45LTVWbmIxYTBCUG8yN181UDlSdXRzcWxWeVVMRFYtRjdvZ05OQkNkSUc0SFJYYV80UzJfekpodllOWEpMa2JUWV9MNF9nSi05dXRFRGsyQ1pZQWoyMDVjUkFfRTExcXF0QnN2NzEzbEVzcWZLZkl2WUUwbl9wbHY5OHpWbTNLQmJBV1E?oc=5)
 
 ---
 
@@ -94,14 +134,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### ["La inteligencia artificial se incorporará a todos los estratos de la cardiología en los próximos 5 años" - Gaceta Médica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZXJmVUoyeWdOOVl5d1NlOVlCSFQxMndBcndKZko1bFhwWW1vdzh3Tk8yWWxRZ2tkVkdNelFKbExyVHY3QVl5M1BZYkVESE1HUlN6Rm1xVUNucUJDU0FzUDhfbzY1LVNBdFJ6RG9IcUhoZlBhX0ZRUEtoQVNQa0lMRTJRTnViaW14SW1kbWh4TngzaW5MMlZPV2xOTjBNZWN5OWdLNDVuNG00cmY2TlR1RmF0eGxTaUF4N2puRjdkMEgxaUNQbThnQ1VCR1lVOE90X2RENTExdw?oc=5)
-
-2026-09-10 <span class="news-indication-tag">AF</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZXJmVUoyeWdOOVl5d1NlOVlCSFQxMndBcndKZko1bFhwWW1vdzh3Tk8yWWxRZ2tkVkdNelFKbExyVHY3QVl5M1BZYkVESE1HUlN6Rm1xVUNucUJDU0FzUDhfbzY1LVNBdFJ6RG9IcUhoZlBhX0ZRUEtoQVNQa0lMRTJRTnViaW14SW1kbWh4TngzaW5MMlZPV2xOTjBNZWN5OWdLNDVuNG00cmY2TlR1RmF0eGxTaUF4N2puRjdkMEgxaUNQbThnQ1VCR1lVOE90X2RENTExdw?oc=5)
-
----
-
 ### [Southampton ovarian cancer patient tumour free after pioneering treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Tc0lUbHY1SHNhR2ZzY2JkY3BTQUpEaVV6T2lWNV9TekxMd3poa21iZ09rQ295RnQ0RUpXME1rN1pCb0V0Z05HV250M1NYdk5aVlZoeTViaU9zTjZv?oc=5)
 
 2026-09-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -110,11 +142,35 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Krebsforschung: PRDX1-Enzym hemmt Immunabwehr gezielt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTVZRTZVVDV6MmpGcm80RmVlR1pyS3dWR0htOFBFdGF5QUpIejZTcmc2VDl2eG1CZFFwZFljSXRaOXJYSDRIQjlEVnlpOWRGNFVrY2VXR2dIYmQ4a3E2dW1JckdIMmMwT3VFU1A3dVhnR3RHSlNyVnd0a1N3X3RtcC0yNVNhU1QweXA3MDRBZWFnMy0tVDg1YlFsQ3lBY244M3hV?oc=5)
+### [More light at night linked to changes in heart structure and function - Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSVpqYmJ2LVRSSzZCOGFPa0psVnpQQllhNUFRdHI0SHJQWlI5UTVoUDRrUXk5U185Rl9nbGh1b2loS0txbFYzM2p3b2dtMXJKZ01GLWNOQ3dQMEstdWRzV1c1WjlidUpndXZ3b0JwTVRfQWNSWGRGQk44bw?oc=5)
+
+2026-09-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSVpqYmJ2LVRSSzZCOGFPa0psVnpQQllhNUFRdHI0SHJQWlI5UTVoUDRrUXk5U185Rl9nbGh1b2loS0txbFYzM2p3b2dtMXJKZ01GLWNOQ3dQMEstdWRzV1c1WjlidUpndXZ3b0JwTVRfQWNSWGRGQk44bw?oc=5)
+
+---
+
+### [Extrakt aus Kaffeesatz hemmt Pflanzenkrankheitserreger](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTllpeElKUEp0SGxMcUIwSW9GTmttd1J3anJGZmFEWkl6R3U1MURBTG9nWlJWZkcyVkhLSlhTcVJiRTh6dF9aUzE5SzBkTWZqS1E1amxnbnhieVI3RWxRT0lkYWU2aWJJdHlxb25wT1EycTdBOFBMZDRTUWtLZmFvVGplYjNpclBKcm84aGxnb1cxWXJQQXNDLXBBNUFScGJzbVZkWkNSMmhDNk95YnZZZjFwaDNFRVBN?oc=5)
+
+2026-09-09 <span class="news-indication-tag">AF</span>
+
+來源：[Bioökonomie.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTllpeElKUEp0SGxMcUIwSW9GTmttd1J3anJGZmFEWkl6R3U1MURBTG9nWlJWZkcyVkhLSlhTcVJiRTh6dF9aUzE5SzBkTWZqS1E1amxnbnhieVI3RWxRT0lkYWU2aWJJdHlxb25wT1EycTdBOFBMZDRTUWtLZmFvVGplYjNpclBKcm84aGxnb1cxWXJQQXNDLXBBNUFScGJzbVZkWkNSMmhDNk95YnZZZjFwaDNFRVBN?oc=5)
+
+---
+
+### [Krebsforschung: PRDX1-Enzym hemmt Immunabwehr gezielt](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTVZRTZVVDV6MmpGcm80RmVlR1pyS3dWR0htOFBFdGF5QUpIejZTcmc2VDl2eG1CZFFwZFljSXRaOXJYSDRIQjlEVnlpOWRGNFVrY2VXR2dIYmQ4a3E2dW1JckdIMmMwT3VFU1A3dVhnR3RHSlNyVnd0a1N3X3RtcC0yNVNhU1QweXA3MDRBZWFnMy0tVDg1YlFsQ3lBY244M3hV?oc=5)
 
 2026-09-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTVZRTZVVDV6MmpGcm80RmVlR1pyS3dWR0htOFBFdGF5QUpIejZTcmc2VDl2eG1CZFFwZFljSXRaOXJYSDRIQjlEVnlpOWRGNFVrY2VXR2dIYmQ4a3E2dW1JckdIMmMwT3VFU1A3dVhnR3RHSlNyVnd0a1N3X3RtcC0yNVNhU1QweXA3MDRBZWFnMy0tVDg1YlFsQ3lBY244M3hV?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTVZRTZVVDV6MmpGcm80RmVlR1pyS3dWR0htOFBFdGF5QUpIejZTcmc2VDl2eG1CZFFwZFljSXRaOXJYSDRIQjlEVnlpOWRGNFVrY2VXR2dIYmQ4a3E2dW1JckdIMmMwT3VFU1A3dVhnR3RHSlNyVnd0a1N3X3RtcC0yNVNhU1QweXA3MDRBZWFnMy0tVDg1YlFsQ3lBY244M3hV?oc=5)
+
+---
+
+### [Bangladesh measles deaths surpass 1,000 after vaccination drive falls short - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2ZhbUZnRm9yaTRsd1BheldzbTNGQjdDYzBYNW93cUVwSTZFR19zdFJHazEtVXpqblVKY1BGbTE0dnhtMEhOYjlzM0hOcjBLT0V4bzR3dUM0SkhSU1pnU2lRLTV2aHYtdzNubG1ZM3dnaVgzUlB0R0M1YXp6V0JYVkdtdEplcHIydjNKUERlR3JXa2h6cW5ZZ2IzT2c3dFlfLUdKeEc4OFhLdFE50gGyAUFVX3lxTE05MnljT0MzdUlMMlBBWGZsUkU2TUQzR2hhbVpWUFlHdDFyQUVkbkJMS0ZPWEMwakJuclhIZ1dJRE1kZC1qUEhpcXo0eDZUblI5OS02TUxZTjNkZ0p4dTlndHNpMGdQSTVvUlMwVmtweGNBc1c5d2oxN1RaenNrRURBLTEwa3B6eUczOFc5aGdsamU3ZmFOX0k0LXJFLW9DOFFQRXlvRXRnbkhYOFR3QUhhNXc?oc=5)
+
+2026-09-09 <span class="news-indication-tag">AF</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2ZhbUZnRm9yaTRsd1BheldzbTNGQjdDYzBYNW93cUVwSTZFR19zdFJHazEtVXpqblVKY1BGbTE0dnhtMEhOYjlzM0hOcjBLT0V4bzR3dUM0SkhSU1pnU2lRLTV2aHYtdzNubG1ZM3dnaVgzUlB0R0M1YXp6V0JYVkdtdEplcHIydjNKUERlR3JXa2h6cW5ZZ2IzT2c3dFlfLUdKeEc4OFhLdFE50gGyAUFVX3lxTE05MnljT0MzdUlMMlBBWGZsUkU2TUQzR2hhbVpWUFlHdDFyQUVkbkJMS0ZPWEMwakJuclhIZ1dJRE1kZC1qUEhpcXo0eDZUblI5OS02TUxZTjNkZ0p4dTlndHNpMGdQSTVvUlMwVmtweGNBc1c5d2oxN1RaenNrRURBLTEwa3B6eUczOFc5aGdsamU3ZmFOX0k0LXJFLW9DOFFQRXlvRXRnbkhYOFR3QUhhNXc?oc=5)
 
 ---
 
@@ -122,7 +178,7 @@ permalink: /news/cetrorelix-as-acetate/
 
 2026-09-09 <span class="news-indication-tag">AF</span>
 
-來源：[Nordkurier](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSF9XbGlTMnd0NHpMeDZ5MlcwemY2MDRGYmtsUnV6cmdmd1A2MklYUWRnN1NGeC1KOWlwWHpTSzFyUlRTNlVxQThpcjhWZkxuOFFfUnF6SXdnLXRhVVhuYXE1ZFdrZnA0MEJBcUNwZ1hyeklORzdQU2tHWU9kZ0NvTjREYmwyZW0xb0F5aGxnUjFsS0RELWJESExiTXNVWVdyTjFIRTdVTHpva2huM3ZvTUxES2VOalVSR2ltR2lmRnN6U09VZTNQbXBiT3ZmZFFqVlJ5WVdxaWt4VE9FTDdIS29PN0M?oc=5)
+來源：[nordkurier.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSF9XbGlTMnd0NHpMeDZ5MlcwemY2MDRGYmtsUnV6cmdmd1A2MklYUWRnN1NGeC1KOWlwWHpTSzFyUlRTNlVxQThpcjhWZkxuOFFfUnF6SXdnLXRhVVhuYXE1ZFdrZnA0MEJBcUNwZ1hyeklORzdQU2tHWU9kZ0NvTjREYmwyZW0xb0F5aGxnUjFsS0RELWJESExiTXNVWVdyTjFIRTdVTHpva2huM3ZvTUxES2VOalVSR2ltR2lmRnN6U09VZTNQbXBiT3ZmZFFqVlJ5WVdxaWt4VE9FTDdIS29PN0M?oc=5)
 
 ---
 
@@ -142,14 +198,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Herz: Vitamine gegen verkalkte Gefäße? Das ist wissenschaftlich erwiesen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblFoQ2NoMFJtR2RJOUpDNGRXUDQ2WVVEaThvWnRUTzJCQU9meTZlS3NMSFhfRFdQRzZ4MkRGdWlBcDVLWDQ1eWZxQnNLcEEyeXRDS0RoV1EwbFIwQ2sxUElsNTZfdFIxZlQtbVB6U2ZKZVNnZ0IwT2JYZy1yX3FmTmlJTjdFY2d2alNtYjFkRzRjVkVxN25iNlU3MXpLWFQ4NV9ObnozMDNBYzRIbEFQRG1wbHdLRFBUektrdkZ4cnRoMjFpREhuR2lXN1VLTG1TQ3hvWm9tRQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">AF</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblFoQ2NoMFJtR2RJOUpDNGRXUDQ2WVVEaThvWnRUTzJCQU9meTZlS3NMSFhfRFdQRzZ4MkRGdWlBcDVLWDQ1eWZxQnNLcEEyeXRDS0RoV1EwbFIwQ2sxUElsNTZfdFIxZlQtbVB6U2ZKZVNnZ0IwT2JYZy1yX3FmTmlJTjdFY2d2alNtYjFkRzRjVkVxN25iNlU3MXpLWFQ4NV9ObnozMDNBYzRIbEFQRG1wbHdLRFBUektrdkZ4cnRoMjFpREhuR2lXN1VLTG1TQ3hvWm9tRQ?oc=5)
-
----
-
 ### [Doctors issue warning after children suffer ‘toasted skin syndrome’ from overusing devices - The Independent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0dOODktN3h2SUowZ0RhTnB5c3VNLUFSUFNERG14akJhQ2l4NjdmeW5kX1FRQUV4MTBYS3AzQVNEUjg4ejZ2bkNIbFJEWEx1RHhGNE1zRmZpRmdkYThlNDdFckstay1vX25VWTdwWFRHRVloeHdscjVWbDBFdmR2N3loNVotVjdVajlWckVEc0NFRG4tSnBYZW1ZRC1zTUdELThDZzBEWk9UN3pWV0tUNnd4QmRZQU85LUhR?oc=5)
 
 2026-09-09 <span class="news-indication-tag">AF</span>
@@ -158,19 +206,19 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Bevande calde potrebbero aumentare rischio cancro: lo studio - Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlVZTU9vQVNmcTNGbUJfT0RXNDBrbkZkQV9IMTloRG9qTjRyNzh4VUI1NE5RcW8xTVR2aEUyRXZJUVdYMVpLUjVqSXFwWEFGUTRnWXpxQ0ZNRnlPMFJiYzRQOHdhUTA5eUkwZXV4a3lvdHVUYmVKbDJNaTlGRWdFN3BVSXA?oc=5)
+### [Bevande calde potrebbero aumentare rischio cancro: lo studio](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlVZTU9vQVNmcTNGbUJfT0RXNDBrbkZkQV9IMTloRG9qTjRyNzh4VUI1NE5RcW8xTVR2aEUyRXZJUVdYMVpLUjVqSXFwWEFGUTRnWXpxQ0ZNRnlPMFJiYzRQOHdhUTA5eUkwZXV4a3lvdHVUYmVKbDJNaTlGRWdFN3BVSXA?oc=5)
 
 2026-09-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlVZTU9vQVNmcTNGbUJfT0RXNDBrbkZkQV9IMTloRG9qTjRyNzh4VUI1NE5RcW8xTVR2aEUyRXZJUVdYMVpLUjVqSXFwWEFGUTRnWXpxQ0ZNRnlPMFJiYzRQOHdhUTA5eUkwZXV4a3lvdHVUYmVKbDJNaTlGRWdFN3BVSXA?oc=5)
+來源：[tg24.sky.it](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlVZTU9vQVNmcTNGbUJfT0RXNDBrbkZkQV9IMTloRG9qTjRyNzh4VUI1NE5RcW8xTVR2aEUyRXZJUVdYMVpLUjVqSXFwWEFGUTRnWXpxQ0ZNRnlPMFJiYzRQOHdhUTA5eUkwZXV4a3lvdHVUYmVKbDJNaTlGRWdFN3BVSXA?oc=5)
 
 ---
 
-### [Moins de graisse, plus de muscle : une étude relève des différences étonanntes chez les consommateurs de café](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM29DRGE2N2g1cklmX1V3TkRyMXRxRU5ldW0zNGNfdjF3UVppbmFzTmNXSDVsbktpdm9HUzR5X1BaVmhFMTBnNzR6dkYzbWRXWF9vZWxWNnVWbDd2TGw2dmFIdjIyaGljN0EtczNaRWZ5SHNvaFFqS0pkSFVkZXR4SDBqZXV4dGNFRmt0V3VyM0tCeTlTUUlYZGZfUjBYN0pTeFBJSEVoeEdjalNKczIyRFNTWlowY0tzWl80djEybWVDS1djU0UyY0R4XzZJQk9BWUJlV0dKWUoyMmJKaXI3ZmZrM3hVaHpwSl9jMXFhVmRLdGlJM0p3?oc=5)
+### [Moins de graisse, plus de muscle : une étude relève des différences étonanntes chez les consommateurs de café - La Provence](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM29DRGE2N2g1cklmX1V3TkRyMXRxRU5ldW0zNGNfdjF3UVppbmFzTmNXSDVsbktpdm9HUzR5X1BaVmhFMTBnNzR6dkYzbWRXWF9vZWxWNnVWbDd2TGw2dmFIdjIyaGljN0EtczNaRWZ5SHNvaFFqS0pkSFVkZXR4SDBqZXV4dGNFRmt0V3VyM0tCeTlTUUlYZGZfUjBYN0pTeFBJSEVoeEdjalNKczIyRFNTWlowY0tzWl80djEybWVDS1djU0UyY0R4XzZJQk9BWUJlV0dKWUoyMmJKaXI3ZmZrM3hVaHpwSl9jMXFhVmRLdGlJM0p3?oc=5)
 
 2026-09-09 <span class="news-indication-tag">AF</span>
 
-來源：[laprovence.com](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM29DRGE2N2g1cklmX1V3TkRyMXRxRU5ldW0zNGNfdjF3UVppbmFzTmNXSDVsbktpdm9HUzR5X1BaVmhFMTBnNzR6dkYzbWRXWF9vZWxWNnVWbDd2TGw2dmFIdjIyaGljN0EtczNaRWZ5SHNvaFFqS0pkSFVkZXR4SDBqZXV4dGNFRmt0V3VyM0tCeTlTUUlYZGZfUjBYN0pTeFBJSEVoeEdjalNKczIyRFNTWlowY0tzWl80djEybWVDS1djU0UyY0R4XzZJQk9BWUJlV0dKWUoyMmJKaXI3ZmZrM3hVaHpwSl9jMXFhVmRLdGlJM0p3?oc=5)
+來源：[La Provence](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM29DRGE2N2g1cklmX1V3TkRyMXRxRU5ldW0zNGNfdjF3UVppbmFzTmNXSDVsbktpdm9HUzR5X1BaVmhFMTBnNzR6dkYzbWRXWF9vZWxWNnVWbDd2TGw2dmFIdjIyaGljN0EtczNaRWZ5SHNvaFFqS0pkSFVkZXR4SDBqZXV4dGNFRmt0V3VyM0tCeTlTUUlYZGZfUjBYN0pTeFBJSEVoeEdjalNKczIyRFNTWlowY0tzWl80djEybWVDS1djU0UyY0R4XzZJQk9BWUJlV0dKWUoyMmJKaXI3ZmZrM3hVaHpwSl9jMXFhVmRLdGlJM0p3?oc=5)
 
 ---
 
@@ -182,35 +230,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Schlaftracker: Meta-Analyse zeigt nur 2,5–16% Vorhersagekraft](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUk0bEIyTU42T3pwX0otQU1odzBaakNheGVWQWdfcEZXZVhPSXRtaHkwRFZXU3kydVZYRjBocTdxT1J6eURGQXlqQmpBTnF4NDhqN3RVUFFJN29XVDlDblpTcGNmNDNYa3J5YmlaVGRpVUZjVUp5NThkYWtySWdSQnRPTTcyR0Zxd0xUWUJn?oc=5)
-
-2026-09-09 <span class="news-indication-tag">AF</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUk0bEIyTU42T3pwX0otQU1odzBaakNheGVWQWdfcEZXZVhPSXRtaHkwRFZXU3kydVZYRjBocTdxT1J6eURGQXlqQmpBTnF4NDhqN3RVUFFJN29XVDlDblpTcGNmNDNYa3J5YmlaVGRpVUZjVUp5NThkYWtySWdSQnRPTTcyR0Zxd0xUWUJn?oc=5)
-
----
-
-### ['Inspirational' Swindon dancer up for two awards months after her death - Swindon Advertiser](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZi1peEpEV0N5Yl9ieHRfNjlScmpwOWw2Rm9mTnFXQVFNWW1HTVJWaUVKYm1LN1drQTRCUmRSM2FVck9WakNFSDRESmtJZjVtTjRvdHpVbUU1VjRCbkt2N285WEVGX3ZUNEl1ZWFDaTFEM2RGUEVzaFo2Zkd2NUJBODJsWGNuSEFzMTJPTDI1cUdWVWgyb20w?oc=5)
-
-2026-09-09 <span class="news-indication-tag">AF</span>
-
-來源：[Swindon Advertiser](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZi1peEpEV0N5Yl9ieHRfNjlScmpwOWw2Rm9mTnFXQVFNWW1HTVJWaUVKYm1LN1drQTRCUmRSM2FVck9WakNFSDRESmtJZjVtTjRvdHpVbUU1VjRCbkt2N285WEVGX3ZUNEl1ZWFDaTFEM2RGUEVzaFo2Zkd2NUJBODJsWGNuSEFzMTJPTDI1cUdWVWgyb20w?oc=5)
-
----
-
 ### [GLP-1 gegen Schlafapnoe: Tirzepatid senkt Atemaussetzer, CPAP bleibt Standard - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
-
----
-
-### ['Shining light' - Kendal woman dies at 32 after 'fearless' cancer battle - Westmorland Gazette](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnBjZ2RfNFlRY2hfSG5kQjV1MnJxd191R1V5NmlPbkRfSzlNVFlzTVFkVl9DY0VncHRsYzh0Um9LRE42QWVucGF0SXRWTk0takxZcF9uaElsbUUtU0ZsQ2xyVUlDOGFJTTBNZkhPajZYM3RWZE1nWm53YjZScXJpaHMwd3VSM1VnRUh4RUJJamZrZGdkVUJtb1lNckFKaFVPMFNXT0NzSVM?oc=5)
-
-2026-09-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Westmorland Gazette](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnBjZ2RfNFlRY2hfSG5kQjV1MnJxd191R1V5NmlPbkRfSzlNVFlzTVFkVl9DY0VncHRsYzh0Um9LRE42QWVucGF0SXRWTk0takxZcF9uaElsbUUtU0ZsQ2xyVUlDOGFJTTBNZkhPajZYM3RWZE1nWm53YjZScXJpaHMwd3VSM1VnRUh4RUJJamZrZGdkVUJtb1lNckFKaFVPMFNXT0NzSVM?oc=5)
 
 ---
 
@@ -227,14 +251,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-09-08 <span class="news-indication-tag">AF</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lETnBxZVZPY1RyUmRqOU1kZGJFZFA5amNWMDFLd0t1QkxFSGhBZUNDZ0FEYW12ZkxUVEpkcjhoeG9yTXlaZVFSSTZRV2dxLTd6V0R4YmlTcHZobmx1dWpQNzVyblYtM3p4TGRGNmtuWVdZQzgxZ1hwanI5blZLZVY2QTVfbk1wTUplT3hfQWQzb0Q1cEE2WXFxOA?oc=5)
-
----
-
-### [Blood cancer patient still alive eight years after live-saving trial - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDZXVmxWUGxtT1lvQld3UnhXOXBMRFF3N3dCVW4wd05kWk5xUEZxd08zUnFQclhSLXJZXzJ6T2xhVmcwNmViVEFZanBkSWJxOHZaV2Vka0tYd2JDb3lCVHJrYzByZlc5VjgwVVlJYzBaUTVNM29POGZ4b1FXdURxTjVQcHd3UDJtMXNYb0ZBVGhmd1ZMVk50dVdDOFJjaFVOZk1sY2dDSXZTdw?oc=5)
-
-2026-09-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDZXVmxWUGxtT1lvQld3UnhXOXBMRFF3N3dCVW4wd05kWk5xUEZxd08zUnFQclhSLXJZXzJ6T2xhVmcwNmViVEFZanBkSWJxOHZaV2Vka0tYd2JDb3lCVHJrYzByZlc5VjgwVVlJYzBaUTVNM29POGZ4b1FXdURxTjVQcHd3UDJtMXNYb0ZBVGhmd1ZMVk50dVdDOFJjaFVOZk1sY2dDSXZTdw?oc=5)
 
 ---
 
@@ -258,23 +274,7 @@ permalink: /news/cetrorelix-as-acetate/
 
 2026-09-07 <span class="news-indication-tag">AF</span>
 
-來源：[agendaonline.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMEotSWlHWE9hZ2JCVGthek1HWUt3aUlROG1EMmhQZURsMlJzc0d0Q3hrNWZ5NXdXLWRuQkRqSDEwUHVGNm85bm1hN2lJNTFGWGJTQ2VDWUkyX1Y1dUhaNzNxTmgwS0k2Q0ZCamVYWnMzdXZTNnpIN2h6cUFXUkZtV1dBMEV4TEVkX09TOGFrajMwbVlqSW9JVlFjOE90OFR2MUVaeUVjLXJ0R1NZMDRRaFNyUEJNZVh0V3pVcnFaY2QxbXhxdjVMNTBhMmc?oc=5)
-
----
-
-### [Pilzinfektionen: Immunabwehr mit überraschender Kehrseite - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE55U1dHYnJZUjkzUWVlU2dGalJveFFSb2FCQm1Ec2lIa0R0NGdSclp1eHNUX0gyczViX2w3OFZtX2N0UEdTSUxtSnZlQQ?oc=5)
-
-2026-09-07 <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE55U1dHYnJZUjkzUWVlU2dGalJveFFSb2FCQm1Ec2lIa0R0NGdSclp1eHNUX0gyczViX2w3OFZtX2N0UEdTSUxtSnZlQQ?oc=5)
-
----
-
-### [Osteopenia, la afección que le fue diagnosticada a Gwyneth Paltrow a los 37 años: "Debo cuidarme cada día, mi vida ha cambiado por completo"](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzZzaG9LQWNWYWtqTWtocVh1LXMtUldzWUpnNlBLYUlBbUpGWWhieGw4VGlaVWZacGVETTJibUFQVXhTSEZKUjI5Q0ZieXdSV1N0cGhUVmkyTTN2ZjhiWElvMHFOTVk5WUZXQ09qZmtGSjRScXRJcVJNWXZxTlRXT1ZkRGpyREdwRXlTYXBYbU1BWFBTZjRDZ2NB?oc=5)
-
-2026-09-06 <span class="news-indication-tag">AF</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzZzaG9LQWNWYWtqTWtocVh1LXMtUldzWUpnNlBLYUlBbUpGWWhieGw4VGlaVWZacGVETTJibUFQVXhTSEZKUjI5Q0ZieXdSV1N0cGhUVmkyTTN2ZjhiWElvMHFOTVk5WUZXQ09qZmtGSjRScXRJcVJNWXZxTlRXT1ZkRGpyREdwRXlTYXBYbU1BWFBTZjRDZ2NB?oc=5)
+來源：[Agendaonline](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMEotSWlHWE9hZ2JCVGthek1HWUt3aUlROG1EMmhQZURsMlJzc0d0Q3hrNWZ5NXdXLWRuQkRqSDEwUHVGNm85bm1hN2lJNTFGWGJTQ2VDWUkyX1Y1dUhaNzNxTmgwS0k2Q0ZCamVYWnMzdXZTNnpIN2h6cUFXUkZtV1dBMEV4TEVkX09TOGFrajMwbVlqSW9JVlFjOE90OFR2MUVaeUVjLXJ0R1NZMDRRaFNyUEJNZVh0V3pVcnFaY2QxbXhxdjVMNTBhMmc?oc=5)
 
 ---
 

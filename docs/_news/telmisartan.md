@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,77 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（13 則）
 
-### ['Unfortunately you wouldn't know': Pharmacist issues 'silent killer' warning - Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
+### [Stroke Unit im Krankenhaus Ludmillenstift Meppen behandelt 700 Schlaganfälle im Jahr](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
 
 2026-09-10 <span class="news-indication-tag">stroke</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
+來源：[noz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
 
 ---
 
-### [The simple sleep mistake that could damage and change the SHAPE of your heart - are you at risk?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+### [Apnée du sommeil : quelle est cette première révolutionnaire au CHU de Montpellier qui permet de se passer de masque](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
 
-2026-09-09 <span class="news-indication-tag">heart disease</span>
+2026-09-10 <span class="news-indication-tag">hypertension</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+來源：[midilibre.fr](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
 
 ---
 
-### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+### ['A stroke completely wiped out my ability to speak'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGwwWjV2WF8zQ0FIMFp4YzZYbko4Z0tXTjB6QUNsTG9Rd1p1cEFxOExmQUhKZ0xUenIteG90V09YamRRV054NnM2bTRieGcyUjVVUXl5VjREdklu?oc=5)
+
+2026-09-10 <span class="news-indication-tag">stroke</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGwwWjV2WF8zQ0FIMFp4YzZYbko4Z0tXTjB6QUNsTG9Rd1p1cEFxOExmQUhKZ0xUenIteG90V09YamRRV054NnM2bTRieGcyUjVVUXl5VjREdklu?oc=5)
+
+---
+
+### [Neue Studie: Diese nächtliche Belastung könnte dem Herz schaden](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczJTTTRYUnU4WldKYnFjdG1OTUdFbll6N0o2RjhVYWpYeXFrZUdsNDFuVF9PUE1IcE5DSFhWdjlDU25ZNjU1WVZ5Zm5qNmQyclJhREZ0T3lhdXVHcDR2OXN6LUVMdzBwM0NnT2plY0JnZzBSbGtycGRSM0hvS3JYOVlDYUw4RVVVOGZaMUs2NEVkUHVkTDdBd2J5ekIyaGRBV05tRk9SbUdHcVBoWVQ5X1RyaE9qQ0htbzV2bFNnMTI?oc=5)
+
+2026-09-10 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczJTTTRYUnU4WldKYnFjdG1OTUdFbll6N0o2RjhVYWpYeXFrZUdsNDFuVF9PUE1IcE5DSFhWdjlDU25ZNjU1WVZ5Zm5qNmQyclJhREZ0T3lhdXVHcDR2OXN6LUVMdzBwM0NnT2plY0JnZzBSbGtycGRSM0hvS3JYOVlDYUw4RVVVOGZaMUs2NEVkUHVkTDdBd2J5ekIyaGRBV05tRk9SbUdHcVBoWVQ5X1RyaE9qQ0htbzV2bFNnMTI?oc=5)
+
+---
+
+### ['Unfortunately you wouldn't know': Pharmacist issues 'silent killer' warning - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
+
+2026-09-10 <span class="news-indication-tag">stroke</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
+
+---
+
+### [More light at night linked to changes in heart structure and function - Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSVpqYmJ2LVRSSzZCOGFPa0psVnpQQllhNUFRdHI0SHJQWlI5UTVoUDRrUXk5U185Rl9nbGh1b2loS0txbFYzM2p3b2dtMXJKZ01GLWNOQ3dQMEstdWRzV1c1WjlidUpndXZ3b0JwTVRfQWNSWGRGQk44bw?oc=5)
+
+2026-09-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSVpqYmJ2LVRSSzZCOGFPa0psVnpQQllhNUFRdHI0SHJQWlI5UTVoUDRrUXk5U185Rl9nbGh1b2loS0txbFYzM2p3b2dtMXJKZ01GLWNOQ3dQMEstdWRzV1c1WjlidUpndXZ3b0JwTVRfQWNSWGRGQk44bw?oc=5)
+
+---
+
+### [Ictus e scompenso: l'asse cuore cervello che non va trascurato](https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXhrOTZPeUJ5LVVzSDhXNnNsSXZfNGx5bUthRlNNbW4yNF9pVUZ1b29Hd3o0M0tpWFlCYVdCcUNaeHBOMDEwa3ZJaWYxaHFOb2JhNy0xbzFYRHktckJHSHZuWDdRdVFsVkk1aU56MUp1Z3Vqb3FLSF9zUzU4V0RUMng4UFg3T2d0dVpEOGFEd2t6OUJkMGpxNm9DcnNERkRPVHNEQ21wd0lycXZBc2VEREJoNV9RRF9nUUwwSWln?oc=5)
+
+2026-09-09 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXhrOTZPeUJ5LVVzSDhXNnNsSXZfNGx5bUthRlNNbW4yNF9pVUZ1b29Hd3o0M0tpWFlCYVdCcUNaeHBOMDEwa3ZJaWYxaHFOb2JhNy0xbzFYRHktckJHSHZuWDdRdVFsVkk1aU56MUp1Z3Vqb3FLSF9zUzU4V0RUMng4UFg3T2d0dVpEOGFEd2t6OUJkMGpxNm9DcnNERkRPVHNEQ21wd0lycXZBc2VEREJoNV9RRF9nUUwwSWln?oc=5)
+
+---
+
+### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26% - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
 
 2026-09-09 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
 
 ---
 
-### [Un estudio del Puerta de Hierro de Majadahonda mejora la identificación del riesgo de muerte súbita en pacientes con miocardiopatía dilatada - Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
+### [Un estudio del Puerta de Hierro de Majadahonda mejora la identificación del riesgo de muerte súbita en pacientes con miocardiopatía dilatada](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
 
 2026-09-09 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Noroeste Madrid](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
+來源：[noroestemadrid.com](https://news.google.com/rss/articles/CBMijAJBVV95cUxNSEVtel9Db2tLQVpzd1VyZENnZHVrS0hWRExabmU0dTFZdVRWVWJpWTRrb2JVYU93aG03aUlvanVHeUY1MjVMMTB2RGlCdW92cjFvN3VPcXNIVHprejMxdVFySjl0REdIV2hlakxjRVJUS1Zsd3hxeFpjSUZpQkktOWFxeGJZNDZMckhZZG04ZlhHeGhpTjZZakZKajFXRDRZRzFvWldlMHRpRjhCRDBQel9jajQtOENtLTg4Y2pWTjdUTWNzSU5WRFlndktBanpLS0RYQkN2RzktdWhLLUVVVVU5UWgzWjVQdkYwTTF5RXQ5Tm5DV0NXRDF5cWFEMzM0dWdwczJaYk9hQi1C?oc=5)
 
 ---
 
@@ -102,35 +142,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Hypertension : l'Assurance Maladie lance un nouveau réflexe de 2 minutes qui fait gagner des années de vie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
+### [Popular chewing gum sweetener linked to higher heart attack risk, study finds](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
+
+2026-09-08 <span class="news-indication-tag">stroke</span>
+
+來源：[medicalnewstoday.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
+
+---
+
+### [« Une tueuse silencieuse » : 17 millions de Français sont touchés par l’hypertension, le mal du siècle - Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">hypertension</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
-
----
-
-### [Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
-
-2026-09-08 <span class="news-indication-tag">stroke</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
-
----
-
-### [The tiny mark under your eye that ‘indicates your risk of killer stroke in the next 10 years’](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
-
-2026-09-08 <span class="news-indication-tag">stroke</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3JfdjVxaUxLbk1PTGt1RUg0YTBxZUZpMzNfa2wzRjFUZHM2elc5LXRyOFJnamtsdHZDcTQwRnJNM2RkaVZLeW12RVVWVU04Y2d6S0o5QW56c3FVcVhEbzJQLW5heFgzdmNMS3QwSWRoNlhHc0pMWmFFS2xnT0pfVnN3OXI4b1RYbDh5RA?oc=5)
-
----
-
-### [El cerebro podría convertirse en el peor enemigo tras sufrir un ictus](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
-
-2026-09-08 <span class="news-indication-tag">ictus</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjJVU0ItNE5rMDd3SkxGNWJNMmJ1VWVOSVdqQUlMcmJITjFjUWQyOXNsLUlLRTVsekVhNl82bE9CWE9LNWJjTllMQlJOY2UtVEJqN3VTYzBWeVZ1ek5RNXFORUZSYTYxNFdJcmVWVW5FSzZvZ3JPTzZVZGRRY3d4d2oyZF9pNDlqWnE3aTg0emN0d2kyQWRXay1wQl9qRWVvSFkxaHBmV1h0UQ?oc=5)
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（3 則）
 
 ### [Adipositas-bedingte Veränderungen des Immunsystems sind umkehrbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
 
 2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
 
 ---
 
@@ -70,43 +70,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [Los nuevos efectos de Ozempic que sorprenden a los expertos: alcohol, adicciones y enfermedades respiratorias](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmRkRE1FS0lYUVNoMlNxZ0kxVUM2OGhVR3BiVnhBb3h5N1pnbWFlZzdkV251NXpYdDdvbjlUeTVNUDFvd20xUUZiU3NYTXFmejdMSGNYaERhcm1UMURtaHNqLUhXUVk4YzNBQkczZWJkZHpwY1E2R0oweHJKc2I2QnliczJxYVBmcEFleGZrVmE3TEtoSVY5VmNZS0c1R1M4cnZ2d1Ywb1VSZFBNTUl3WEZfeTdidlQ4WktBbE5UdFN3UExzWXpmQWE1S3pLWGdVbDZQLUxOcUxkMGQ5X1B1Yg?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmRkRE1FS0lYUVNoMlNxZ0kxVUM2OGhVR3BiVnhBb3h5N1pnbWFlZzdkV251NXpYdDdvbjlUeTVNUDFvd20xUUZiU3NYTXFmejdMSGNYaERhcm1UMURtaHNqLUhXUVk4YzNBQkczZWJkZHpwY1E2R0oweHJKc2I2QnliczJxYVBmcEFleGZrVmE3TEtoSVY5VmNZS0c1R1M4cnZ2d1Ywb1VSZFBNTUl3WEZfeTdidlQ4WktBbE5UdFN3UExzWXpmQWE1S3pLWGdVbDZQLUxOcUxkMGQ5X1B1Yg?oc=5)
-
----
-
-### [Keto-Diät besonders hilfreich gegen Adipositas, Prädiabetes & Fettleber](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlJFd05PMDdEMGNPdGJOcGlkeUhVU0JjT2dzblJvZkd0Q3ZxSWthbkNEMVQ4VTdIVFU4d0cxcVpxbFZURko2cVBZcXhObFZ4eHZqNEloRTdQYW1VbE0wWE00YzdnYTBRYVk1bnBvMTJab0NmenIyaTc5NVA0djZ5azY3RzVLWWlQTDZCS3VCVnZYeTlZNVVIdDVvaU9LOTRpT3hSbEl0WHVlOEJaWlhVVHR3ZHF3OVFvYTdxWTJXX2F2OWVPc0tHcDcySQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMlJFd05PMDdEMGNPdGJOcGlkeUhVU0JjT2dzblJvZkd0Q3ZxSWthbkNEMVQ4VTdIVFU4d0cxcVpxbFZURko2cVBZcXhObFZ4eHZqNEloRTdQYW1VbE0wWE00YzdnYTBRYVk1bnBvMTJab0NmenIyaTc5NVA0djZ5azY3RzVLWWlQTDZCS3VCVnZYeTlZNVVIdDVvaU9LOTRpT3hSbEl0WHVlOEJaWlhVVHR3ZHF3OVFvYTdxWTJXX2F2OWVPc0tHcDcySQ?oc=5)
-
----
-
 ### [GLP-1 gegen Schlafapnoe: Tirzepatid senkt Atemaussetzer, CPAP bleibt Standard - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
-
----
-
-### [La cirugía bariátrica podría mejorar la salud reproductiva de las mujeres con obesidad - IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVG5oTTlETFhCbHpQS1h1YnhCYWN6Y1JiMkdyUjhOeExndWpJYkEwSXBoRzNyYmxWaUhlUWJxY1U2a0VqaUN6RlU0b2lVanU4Vnl6X2tmQjB3a3M1RF8zcG5SWjZ0bDl4SjN1Uy1uaVZvWmJMZ290V041MHJ0cHZqQTRXa21qUmRCM3luN1A1MkFPUXFmSmd6MUZTMk9SX0RPTDJIWFlVUWJUSm5POHFFbmlKWDJ5Z9IBsAFBVV95cUxNTE1UaE9TTUcxUWpjNGVJYkpaUDIyTV9uRlk0Rm1UTWp6MEQzYjFXc3ltckRzSHpZUktqZElwWm1oR2JEX3BlN2R3WUM4VzhZTEVzTFNyTFl2UEtuUTlNaTBIa1gzeG5FQWtDbVd1Q0ZPQlFMZVkzaURiVjhYclgwX210LU5LNGh4X0NsU21xd21fQU5ndVNTOTNpbldnTjVMZlE3SDIzaTFHLTdiVUpzXw?oc=5)
-
-2026-09-08 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVG5oTTlETFhCbHpQS1h1YnhCYWN6Y1JiMkdyUjhOeExndWpJYkEwSXBoRzNyYmxWaUhlUWJxY1U2a0VqaUN6RlU0b2lVanU4Vnl6X2tmQjB3a3M1RF8zcG5SWjZ0bDl4SjN1Uy1uaVZvWmJMZ290V041MHJ0cHZqQTRXa21qUmRCM3luN1A1MkFPUXFmSmd6MUZTMk9SX0RPTDJIWFlVUWJUSm5POHFFbmlKWDJ5Z9IBsAFBVV95cUxNTE1UaE9TTUcxUWpjNGVJYkpaUDIyTV9uRlk0Rm1UTWp6MEQzYjFXc3ltckRzSHpZUktqZElwWm1oR2JEX3BlN2R3WUM4VzhZTEVzTFNyTFl2UEtuUTlNaTBIa1gzeG5FQWtDbVd1Q0ZPQlFMZVkzaURiVjhYclgwX210LU5LNGh4X0NsU21xd21fQU5ndVNTOTNpbldnTjVMZlE3SDIzaTFHLTdiVUpzXw?oc=5)
-
----
-
-### [Semaglutide e longevità: il farmaco rallenta il declino e allunga la vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
-
-2026-09-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxObE1ZWVE1X1BzMTg1NURkT1pMOXd2UUhsTk51dm1iMmRydUVPdDRTOGJRNWZCQ3BsUVM4bU1GeG16YUEwWDAtOHp1czdQcThXQmMxWW5kV1QycjJSQVZwd3F6a0Fxdzc4eC1QUl9QaWc3RFZmMlU4enFaaDZwVVNqQWlYV01fOHJ0MV9yblVGTXRWUU5JMkRYN0dKTVVnb1JGN0NYX2xEajhrb09QYkZnTi14ZWtMZG82azJkcHVILUJNRnNGVk1IbnVnM3I?oc=5)
 
 ---
 
