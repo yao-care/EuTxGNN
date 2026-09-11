@@ -14,7 +14,7 @@ permalink: /news/galcanezumab/
 ---
 
 <p class="key-answer" data-question="Galcanezumab 有什麼相關新聞？">
-<strong>Galcanezumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Galcanezumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/galcanezumab/
 <p><a href="{{ '/drugs/galcanezumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [NHS reveals 12 common conditions pharmacists can now treat instead of GPs - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
+### [El Hospital de La Princesa destaca la detección precoz como clave para evitar la cronificación de la migraña - Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0MwdVd5WXRDTjUtV3BkRWlQMlV6c0lrWWtJREtjaG1vZDRid1FyYVAtLXV2aWU3TERBRDR0RllyWHJaRjUxRkxuc3YtZk9tcWsyRmRJQkZXUW9HeEtVQ1lnb2tzZmVYVk9XRVN1ckFTVlQwdVR2UkpKcXFfVXVkcFg0aXc3RTV2QzlGdU5zZnJxVUo5LTJGckRzVGcxQ21Z?oc=5)
+
+2026-09-11 <span class="news-indication-tag">migraña</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0MwdVd5WXRDTjUtV3BkRWlQMlV6c0lrWWtJREtjaG1vZDRid1FyYVAtLXV2aWU3TERBRDR0RllyWHJaRjUxRkxuc3YtZk9tcWsyRmRJQkZXUW9HeEtVQ1lnb2tzZmVYVk9XRVN1ckFTVlQwdVR2UkpKcXFfVXVkcFg0aXc3RTV2QzlGdU5zZnJxVUo5LTJGckRzVGcxQ21Z?oc=5)
+
+---
+
+### [Especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir las migrañas](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGIzOUFMVE4zSVp3a01WTjQ1VWszQ1J5aHdNckN5aDFlLXAtSHhFNHdUMGRLXzZwcGdva2wzbWJvOHh5X1UzcWlxeUlzS3hPSkl5aVFSaHFRdDRhbTJHU243VEhuV1J2S0FXM0d2LXFDdGlDU2Z0NjBLZE5wbDk2RVM3UFdhN0U2SnNSS3hCNDJlNmZOQVkxSmpVejJpUi11MmU4QmE1ZXBUUG5xRU1FVTVIaDZoblZVYjcxZDlrLTZ1LVhOdzl6Y1hDUGVkdmg0Y0gtQVNkZnl2WDZLS1VqOWRGUUhHMENMdVE1Nw?oc=5)
+
+2026-09-11 <span class="news-indication-tag">migraña</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGIzOUFMVE4zSVp3a01WTjQ1VWszQ1J5aHdNckN5aDFlLXAtSHhFNHdUMGRLXzZwcGdva2wzbWJvOHh5X1UzcWlxeUlzS3hPSkl5aVFSaHFRdDRhbTJHU243VEhuV1J2S0FXM0d2LXFDdGlDU2Z0NjBLZE5wbDk2RVM3UFdhN0U2SnNSS3hCNDJlNmZOQVkxSmpVejJpUi11MmU4QmE1ZXBUUG5xRU1FVTVIaDZoblZVYjcxZDlrLTZ1LVhOdzl6Y1hDUGVkdmg0Y0gtQVNkZnl2WDZLS1VqOWRGUUhHMENMdVE1Nw?oc=5)
+
+---
+
+### [NHS England announce the new Pharmacy First prescribing pathways - Community Pharmacy England](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWtsVy1CRzR3X0pvZW1wRGdFUlE2WDFMdXZMU2M5MW54U19DblVEejZOeXRwcTNWRV9TZFBPR0M4S1ZIaVZUSTBPU3VrTGpQTmhWelJFMy1fU19Ca1RLUnU3UE42SzZ4NUJ2RzJ3NFljYi1HdGdoQmI3Z29Mb2ZSdFNDQWdGeDA3eEZzbzVjUExoS0pINVRzbQ?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
+來源：[Community Pharmacy England](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWtsVy1CRzR3X0pvZW1wRGdFUlE2WDFMdXZMU2M5MW54U19DblVEejZOeXRwcTNWRV9TZFBPR0M4S1ZIaVZUSTBPU3VrTGpQTmhWelJFMy1fU19Ca1RLUnU3UE42SzZ4NUJ2RzJ3NFljYi1HdGdoQmI3Z29Mb2ZSdFNDQWdGeDA3eEZzbzVjUExoS0pINVRzbQ?oc=5)
 
 ---
 

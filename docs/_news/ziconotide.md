@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [Ketogene Ernährung verbessert Leberstoffwechsel bei gleicher Gewichtsabnahme stärker – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+
+2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+
+---
+
+### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité - Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+
+2026-09-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+
+---
+
+### [El Hospital de La Princesa destaca la detección precoz como clave para evitar la cronificación de la migraña - Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0MwdVd5WXRDTjUtV3BkRWlQMlV6c0lrWWtJREtjaG1vZDRid1FyYVAtLXV2aWU3TERBRDR0RllyWHJaRjUxRkxuc3YtZk9tcWsyRmRJQkZXUW9HeEtVQ1lnb2tzZmVYVk9XRVN1ckFTVlQwdVR2UkpKcXFfVXVkcFg0aXc3RTV2QzlGdU5zZnJxVUo5LTJGckRzVGcxQ21Z?oc=5)
+
+2026-09-11 <span class="news-indication-tag">migraña</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0MwdVd5WXRDTjUtV3BkRWlQMlV6c0lrWWtJREtjaG1vZDRid1FyYVAtLXV2aWU3TERBRDR0RllyWHJaRjUxRkxuc3YtZk9tcWsyRmRJQkZXUW9HeEtVQ1lnb2tzZmVYVk9XRVN1ckFTVlQwdVR2UkpKcXFfVXVkcFg0aXc3RTV2QzlGdU5zZnJxVUo5LTJGckRzVGcxQ21Z?oc=5)
+
+---
+
+### [Especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir las migrañas](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGIzOUFMVE4zSVp3a01WTjQ1VWszQ1J5aHdNckN5aDFlLXAtSHhFNHdUMGRLXzZwcGdva2wzbWJvOHh5X1UzcWlxeUlzS3hPSkl5aVFSaHFRdDRhbTJHU243VEhuV1J2S0FXM0d2LXFDdGlDU2Z0NjBLZE5wbDk2RVM3UFdhN0U2SnNSS3hCNDJlNmZOQVkxSmpVejJpUi11MmU4QmE1ZXBUUG5xRU1FVTVIaDZoblZVYjcxZDlrLTZ1LVhOdzl6Y1hDUGVkdmg0Y0gtQVNkZnl2WDZLS1VqOWRGUUhHMENMdVE1Nw?oc=5)
+
+2026-09-11 <span class="news-indication-tag">migraña</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGIzOUFMVE4zSVp3a01WTjQ1VWszQ1J5aHdNckN5aDFlLXAtSHhFNHdUMGRLXzZwcGdva2wzbWJvOHh5X1UzcWlxeUlzS3hPSkl5aVFSaHFRdDRhbTJHU243VEhuV1J2S0FXM0d2LXFDdGlDU2Z0NjBLZE5wbDk2RVM3UFdhN0U2SnNSS3hCNDJlNmZOQVkxSmpVejJpUi11MmU4QmE1ZXBUUG5xRU1FVTVIaDZoblZVYjcxZDlrLTZ1LVhOdzl6Y1hDUGVkdmg0Y0gtQVNkZnl2WDZLS1VqOWRGUUhHMENMdVE1Nw?oc=5)
+
+---
 
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 ---
 
@@ -70,19 +102,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [NHS reveals 12 common conditions pharmacists can now treat instead of GPs - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
-
-2026-09-10 <span class="news-indication-tag">migraine</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
-
----
-
 ### [GLP-1, la rivoluzione dell’obesità rischia di diventare una medicina per ricchi?](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVlCUDl3MThqNzVGamw0dWJGY2hPZFBQbEotUEhRby00RjZkUDJtOVBhdUQ1a3lRZUxxSEh0QldRRzNMaWdUQWpiaG9mNXhrclVtV1B6NFQtanJTUWpoQ0hBa01RajhsLTBRNk0wcTVUeHRMS0xwRUV4N05yVlNIUThFWVdwOW9MWEYtUTg0RTZLUElQX2NPdURCMFdRQjloa0NjcGFzbV9NWjFqaUtRY0p5TlBrMG1GUi1TcFpGdHZnYkxURGJn?oc=5)
 
 2026-09-10 <span class="news-indication-tag">obesità</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVlCUDl3MThqNzVGamw0dWJGY2hPZFBQbEotUEhRby00RjZkUDJtOVBhdUQ1a3lRZUxxSEh0QldRRzNMaWdUQWpiaG9mNXhrclVtV1B6NFQtanJTUWpoQ0hBa01RajhsLTBRNk0wcTVUeHRMS0xwRUV4N05yVlNIUThFWVdwOW9MWEYtUTg0RTZLUElQX2NPdURCMFdRQjloa0NjcGFzbV9NWjFqaUtRY0p5TlBrMG1GUi1TcFpGdHZnYkxURGJn?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVlCUDl3MThqNzVGamw0dWJGY2hPZFBQbEotUEhRby00RjZkUDJtOVBhdUQ1a3lRZUxxSEh0QldRRzNMaWdUQWpiaG9mNXhrclVtV1B6NFQtanJTUWpoQ0hBa01RajhsLTBRNk0wcTVUeHRMS0xwRUV4N05yVlNIUThFWVdwOW9MWEYtUTg0RTZLUElQX2NPdURCMFdRQjloa0NjcGFzbV9NWjFqaUtRY0p5TlBrMG1GUi1TcFpGdHZnYkxURGJn?oc=5)
 
 ---
 
@@ -90,7 +114,7 @@ permalink: /news/ziconotide/
 
 2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
 
 ---
 
@@ -102,19 +126,19 @@ permalink: /news/ziconotide/
 
 ---
 
-### [What your waistline, handshake and postcode reveal about your heart health - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkFHS2tIR2lHbXlhUl8zWDFFMzlsemcyc1pQN0JEeVNXYUlRS3pOZjk0TG1BNU1fQkJwOE1HYnRJNVZfXy00Y0tkenNaTTJSajJHRFZ6cVlsWTYwRU1MN1VtWEdaVjZVUE9QSDNjWGJtakF5TV9rRU1aY3JyLW1UX2tDRnI4dUswSjBRUHNKc18zU2p6TTVyZzd5cThYcjVBcnJJam9NRGpHbWpEcDdOYjZnNk0?oc=5)
+### [What your waistline, handshake and postcode reveal about your heart health](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkFHS2tIR2lHbXlhUl8zWDFFMzlsemcyc1pQN0JEeVNXYUlRS3pOZjk0TG1BNU1fQkJwOE1HYnRJNVZfXy00Y0tkenNaTTJSajJHRFZ6cVlsWTYwRU1MN1VtWEdaVjZVUE9QSDNjWGJtakF5TV9rRU1aY3JyLW1UX2tDRnI4dUswSjBRUHNKc18zU2p6TTVyZzd5cThYcjVBcnJJam9NRGpHbWpEcDdOYjZnNk0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">obesity</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkFHS2tIR2lHbXlhUl8zWDFFMzlsemcyc1pQN0JEeVNXYUlRS3pOZjk0TG1BNU1fQkJwOE1HYnRJNVZfXy00Y0tkenNaTTJSajJHRFZ6cVlsWTYwRU1MN1VtWEdaVjZVUE9QSDNjWGJtakF5TV9rRU1aY3JyLW1UX2tDRnI4dUswSjBRUHNKc18zU2p6TTVyZzd5cThYcjVBcnJJam9NRGpHbWpEcDdOYjZnNk0?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkFHS2tIR2lHbXlhUl8zWDFFMzlsemcyc1pQN0JEeVNXYUlRS3pOZjk0TG1BNU1fQkJwOE1HYnRJNVZfXy00Y0tkenNaTTJSajJHRFZ6cVlsWTYwRU1MN1VtWEdaVjZVUE9QSDNjWGJtakF5TV9rRU1aY3JyLW1UX2tDRnI4dUswSjBRUHNKc18zU2p6TTVyZzd5cThYcjVBcnJJam9NRGpHbWpEcDdOYjZnNk0?oc=5)
 
 ---
 
-### [Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
+### [NHS England announce the new Pharmacy First prescribing pathways - Community Pharmacy England](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWtsVy1CRzR3X0pvZW1wRGdFUlE2WDFMdXZMU2M5MW54U19DblVEejZOeXRwcTNWRV9TZFBPR0M4S1ZIaVZUSTBPU3VrTGpQTmhWelJFMy1fU19Ca1RLUnU3UE42SzZ4NUJ2RzJ3NFljYi1HdGdoQmI3Z29Mb2ZSdFNDQWdGeDA3eEZzbzVjUExoS0pINVRzbQ?oc=5)
 
-2026-09-08 <span class="news-indication-tag">obesity</span>
+2026-09-10 <span class="news-indication-tag">migraine</span>
 
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSldjMEZZVUdPcms5cXdOX1lYV3hjVUJVN2ZKVGRkZkFIY29SU2N0bUxERW5MZkNya09WNTFKSExNQ0pXQ010cUx1TzUxS09JdWc4c25lcnU4YWRmbk9rWFV2ZlZYdXFBRmFraXRiTGdYNkloZG1uT3g4UjNjYkVZXzFZUUJ6NHBGeHNZZkVBRC1uQXZEMkNZdkNtMA?oc=5)
+來源：[Community Pharmacy England](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWtsVy1CRzR3X0pvZW1wRGdFUlE2WDFMdXZMU2M5MW54U19DblVEejZOeXRwcTNWRV9TZFBPR0M4S1ZIaVZUSTBPU3VrTGpQTmhWelJFMy1fU19Ca1RLUnU3UE42SzZ4NUJ2RzJ3NFljYi1HdGdoQmI3Z29Mb2ZSdFNDQWdGeDA3eEZzbzVjUExoS0pINVRzbQ?oc=5)
 
 ---
 
