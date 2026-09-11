@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraña（migraine） 相關新聞"
+title: "migraine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraine 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# migraña（migraine） 相關新聞
+# migraine 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraine 有什麼相關新聞？">
+<strong>migraine</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraine」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,21 +77,13 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [NHS reveals 12 common conditions pharmacists can now treat instead of GPs - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
 
 2026-09-10
 
 來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
-
----
-
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
-
-2026-09-09
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
 
 ---
 

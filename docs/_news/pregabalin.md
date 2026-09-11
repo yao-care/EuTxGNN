@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [NHS reveals 12 common conditions pharmacists can now treat instead of GPs - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/pregabalin/
 2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
-
----
-
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
-
-2026-09-09 <span class="news-indication-tag">migraña</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
-
----
-
-### [Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
-
-2026-09-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUlnNUpNcGtQT1g5NzdwUkhmWE9MamlTSFZNblpQLTNQRkZlSjBkaS1IczFRQVVtMUlXZWI3a1R2bktySFlMejlzTTRrb0pZTnk4ZjBvbFdWUEtROFZFaC1rUUpTV3JfVjZLRnduaWhxM1YtN3pNRlFsSmNlMEFta3Z4eUZmR1J4dnQxTUExSHRkUWdpWWphMGdxT0NteUxjYUdSMmZoOGZxcjZ2TlJGR25uVTdiQXdYZ1ZuRC1xaVhXVVRyTktQZ05nREI1NjJNQTBhOFREMHl5Y0VkY3lOdjdQR1NjLUE?oc=5)
 
 ---
 

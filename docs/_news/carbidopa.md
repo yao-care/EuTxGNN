@@ -45,7 +45,7 @@ permalink: /news/carbidopa/
 
 ### [Nurse said dementia patient 'didn't need birthday cake'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSWJUY1l4WDVKLW1ESFU5RzNZeXVhSHM2RzJTZkhITmJ2Yi15Q1JyeHNzTjlCbjZOTUZnbXpxY0NmWWhNSHpKY3RUNFdfcE40NkRacHRfUk9ZempN?oc=5)
 
-2026-09-08 <span class="news-indication-tag">dementia</span>
+2026-09-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSWJUY1l4WDVKLW1ESFU5RzNZeXVhSHM2RzJTZkhITmJ2Yi15Q1JyeHNzTjlCbjZOTUZnbXpxY0NmWWhNSHpKY3RUNFdfcE40NkRacHRfUk9ZempN?oc=5)
 

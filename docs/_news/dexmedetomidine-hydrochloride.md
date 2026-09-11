@@ -54,6 +54,22 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ## 相關新聞（5 則）
 
+### [Bluthochdruck: Nüsse senken das Risiko](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
+
+---
+
+### [Bluthochdruck: Diese pflanzlichen Verbindungen können helfen](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTc3MHZuOGlWX2liWVhhLVBJSlVhaGVtYmhTR1RNcFZFUnctcE1hZ2I1U2oybXphVjZqUFZVSW0wU2x0MFE5TU1zY0FvX1hVZVI0NFhWRGd6WDRaTEVFSzh5QmVsU0NkRWRLUUJTOUlKUjktYzFIV09UY01UYlhlTUJGa2xuOE5pdDJEUVVCd0gwY3h5Tmk4cEMxYU5aUFlVSGwtQUcxeTFMX25oek9kNE9BMHpuYTRickgzWGln?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTc3MHZuOGlWX2liWVhhLVBJSlVhaGVtYmhTR1RNcFZFUnctcE1hZ2I1U2oybXphVjZqUFZVSW0wU2x0MFE5TU1zY0FvX1hVZVI0NFhWRGd6WDRaTEVFSzh5QmVsU0NkRWRLUUJTOUlKUjktYzFIV09UY01UYlhlTUJGa2xuOE5pdDJEUVVCd0gwY3h5Tmk4cEMxYU5aUFlVSGwtQUcxeTFMX25oek9kNE9BMHpuYTRickgzWGln?oc=5)
+
+---
+
 ### [Apnée du sommeil : quelle est cette première révolutionnaire au CHU de Montpellier qui permet de se passer de masque - Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
 
 2026-09-10 <span class="news-indication-tag">hypertension</span>
@@ -70,27 +86,11 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ---
 
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
-
-2026-09-09 <span class="news-indication-tag">migraña</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
-
----
-
-### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26% - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
-
-2026-09-09 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
-
----
-
-### [Hypertension : l'Assurance Maladie lance un nouveau réflexe de 2 minutes qui fait gagner des années de vie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
+### [« Une tueuse silencieuse » : 17 millions de Français sont touchés par l’hypertension, le mal du siècle - Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">hypertension</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
 
 ---
 

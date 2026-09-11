@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
+
+### [Bluthochdruck: Nüsse senken das Risiko](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
+
+---
+
+### [Bluthochdruck: Diese pflanzlichen Verbindungen können helfen](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTc3MHZuOGlWX2liWVhhLVBJSlVhaGVtYmhTR1RNcFZFUnctcE1hZ2I1U2oybXphVjZqUFZVSW0wU2x0MFE5TU1zY0FvX1hVZVI0NFhWRGd6WDRaTEVFSzh5QmVsU0NkRWRLUUJTOUlKUjktYzFIV09UY01UYlhlTUJGa2xuOE5pdDJEUVVCd0gwY3h5Tmk4cEMxYU5aUFlVSGwtQUcxeTFMX25oek9kNE9BMHpuYTRickgzWGln?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTc3MHZuOGlWX2liWVhhLVBJSlVhaGVtYmhTR1RNcFZFUnctcE1hZ2I1U2oybXphVjZqUFZVSW0wU2x0MFE5TU1zY0FvX1hVZVI0NFhWRGd6WDRaTEVFSzh5QmVsU0NkRWRLUUJTOUlKUjktYzFIV09UY01UYlhlTUJGa2xuOE5pdDJEUVVCd0gwY3h5Tmk4cEMxYU5aUFlVSGwtQUcxeTFMX25oek9kNE9BMHpuYTRickgzWGln?oc=5)
+
+---
 
 ### [Apnée du sommeil : quelle est cette première révolutionnaire au CHU de Montpellier qui permet de se passer de masque - Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
 
@@ -62,19 +78,27 @@ permalink: /news/givosiran/
 
 ---
 
-### [Just one handful of tasty snack every day could slash risk of ‘silent killer’ by 26% - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+### [“I feel fine, so why should I test?” Doctor explains why chronic hepatitis can damage the liver silently](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ1BkZ3A3X3lLaTR1SHUySjZ2NWR5NW10MzdiSU9QSE5kbzEySS1kbW1OamF1Q1Mtd3pnUkRmYUg0dWl0dUtNQ2ZqaHN1Vl9oamc0d2w2QWlyMHRuOTNnQ05yQjdwbUZEb1NKOTFPYXJKZTNPUzg5Rms2ZVlFWjc3cHhqZjFqNHRqbWhZOV9LNVdXSm5sYjF6WDJDS3hLRUs5T1JuWjBMUXlzazhmYk9fUFpiTHRvRmZZUkd2T2xGN1hpcFRjMzJUcWpyVmpMa0ZqTjljQ0YxdFJPbGoxYW5OdmRJVmN2bDdRYjRuTDJNSC1qNFVWQWJfUzFMcEbSAYQCQVVfeXFMUC0teEp0WE1tdkl4U08zbjNEaHFyTzlGVy1LUnMtWHVTM0VjR1RzbGdBOGNyVVNneEFPMmt0UmpBUDJtLVdWaUNfSlZUNVhoQnFWNXZ1RlVaTDVRU09udU8zdUNGUG5ncnBHUS1yUm1sTUd3d1hUQTQ3SXlhazdBdTZ5ZHlITm8wVHQ2OTV6YnVablBqTEhwMjJGQVJIMkZYQ3FsaHVjTUsyQkUxUDBqeEJOeWxnZ21mMk5tODF2MFBEckpyaXdNZ0FJTFNCVG13NHpMZllrNmtJNW1BSy1CQVdyQi1mdWFJeFZDVEFlaGVYZzQ1a3d2SkRSZmVIRWw5cWxYX3g?oc=5)
 
-2026-09-09 <span class="news-indication-tag">high blood pressure</span>
+2026-09-10 <span class="news-indication-tag">hepatitis</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlVGM3pna0xQS01tZHZ3TC14d0dSTkRQU29NdkR2UXpkVlh1QVVfdFFBUHZ4bWlvV21IY0xwMlhjMFgwcHJ6WXRQcTc1MVQwRVJkVWo3eGpyYllUMEZGQzVvX1Y0cnA5bTNCelR4ZmJGd0sxOHlMUWRkUkxaaEdKTFl2b2FGUjJVS3c?oc=5)
+來源：[timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ1BkZ3A3X3lLaTR1SHUySjZ2NWR5NW10MzdiSU9QSE5kbzEySS1kbW1OamF1Q1Mtd3pnUkRmYUg0dWl0dUtNQ2ZqaHN1Vl9oamc0d2w2QWlyMHRuOTNnQ05yQjdwbUZEb1NKOTFPYXJKZTNPUzg5Rms2ZVlFWjc3cHhqZjFqNHRqbWhZOV9LNVdXSm5sYjF6WDJDS3hLRUs5T1JuWjBMUXlzazhmYk9fUFpiTHRvRmZZUkd2T2xGN1hpcFRjMzJUcWpyVmpMa0ZqTjljQ0YxdFJPbGoxYW5OdmRJVmN2bDdRYjRuTDJNSC1qNFVWQWJfUzFMcEbSAYQCQVVfeXFMUC0teEp0WE1tdkl4U08zbjNEaHFyTzlGVy1LUnMtWHVTM0VjR1RzbGdBOGNyVVNneEFPMmt0UmpBUDJtLVdWaUNfSlZUNVhoQnFWNXZ1RlVaTDVRU09udU8zdUNGUG5ncnBHUS1yUm1sTUd3d1hUQTQ3SXlhazdBdTZ5ZHlITm8wVHQ2OTV6YnVablBqTEhwMjJGQVJIMkZYQ3FsaHVjTUsyQkUxUDBqeEJOeWxnZ21mMk5tODF2MFBEckpyaXdNZ0FJTFNCVG13NHpMZllrNmtJNW1BSy1CQVdyQi1mdWFJeFZDVEFlaGVYZzQ1a3d2SkRSZmVIRWw5cWxYX3g?oc=5)
 
 ---
 
-### [Hypertension : l'Assurance Maladie lance un nouveau réflexe de 2 minutes qui fait gagner des années de vie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
+### [Veleno di scorpione contro fegato grasso ed epatite? Cosa funziona davvero nei primi test](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnVGUGF4LUJXd2dmRlI4Ym9mbXNObUJNN1llWk5VZUpINUVVcXZwUEJJVTFmVU1TN1FuTmV4N0JEWkxhNXpFN3BCakNSRDZGY29ldEt6aGpTR0pjajJnUnIzSUhFci1HOTdWVFlBZ3NzVVdoYktCdHRCeXVxVWZ4SUsxUXJOb1J6YnhyLVk1cWU3UGRxVWlHZ1F0SHFHQkt1N2h5WkI2UDFZNlVKUnA5QlNTU3BiaUwxbWpPWlpHbXJULTRnZS1sQ1JIMm0wdDFxeHU4NVlfZTZ0TTF6dzFEcXV3?oc=5)
+
+2026-09-09 <span class="news-indication-tag">epatite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnVGUGF4LUJXd2dmRlI4Ym9mbXNObUJNN1llWk5VZUpINUVVcXZwUEJJVTFmVU1TN1FuTmV4N0JEWkxhNXpFN3BCakNSRDZGY29ldEt6aGpTR0pjajJnUnIzSUhFci1HOTdWVFlBZ3NzVVdoYktCdHRCeXVxVWZ4SUsxUXJOb1J6YnhyLVk1cWU3UGRxVWlHZ1F0SHFHQkt1N2h5WkI2UDFZNlVKUnA5QlNTU3BiaUwxbWpPWlpHbXJULTRnZS1sQ1JIMm0wdDFxeHU4NVlfZTZ0TTF6dzFEcXV3?oc=5)
+
+---
+
+### [« Une tueuse silencieuse » : 17 millions de Français sont touchés par l’hypertension, le mal du siècle - Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">hypertension</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3hpbmFOT1Z3dXJmbDh0SDM4eU9IU3lDMW0wZFh2LXN5VG9FbUJ5Y016UGxvbHVlMVU1RS1ROU9QdElEN0pNX2pDRkEtQ2Z2eHhBelNWOGVLYklWSE9GV2MzZGZZb01JWEd3VVZxZC1hN1FhcFJPclFNZXpDeXNtZ2NyQnMzdXZLSE5uSlVBTEJfclp5ZXAzcFI3MUlvZ0h6bS1NSHZucVlickFUVXBwaDRDeTZuTHVCM2plS2szVlNTbkdlSDYyX1NqcTBkczVmdWpF?oc=5)
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZk4teWNMUUQ4SHhrbm9iQ1JKWW9lRlJic0syekZWNXpVOWhzZ3ZvTEFzcWJQdVZOaUtXNjRoRXlmT255S1dGM3VXX2tXSWQzNk1zOXk5aTZoX3YxY0p0TDRhNTZlUHNoODZ3eHZVYjBzT2RscHRramY5Qi03cUZ5RFlGdS1IcHZockhMazhNQ3dPYVBLY1RQNW1YdTkzUGRyTy00eURVb2VXbGxaVzd3VUROcWxFN1J2U1dTZlB1MS15REVXX1RUVDBOaUQ2dElJVVhRYktzR1hyOE0zSnNnZkNGdUViTzFtRzRmbXAyT3JuN3RsVkptMXktakNieGk2RUVhMmhJOA?oc=5)
 
 ---
 

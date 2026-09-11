@@ -14,7 +14,7 @@ permalink: /news/aclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="Aclidinium Bromide 有什麼相關新聞？">
-<strong>Aclidinium Bromide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aclidinium Bromide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/aclidinium-bromide/
 <p><a href="{{ '/drugs/aclidinium-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [NHS reveals 12 common conditions pharmacists can now treat instead of GPs - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTE9kT0t0OGNJLUdseG1Wb0ZLSzYxZUJuYUh4ZnZJek5nU0lnTVdDVVRzdFdQRmZKUEkzRWs1bEx3VTVDMm0tTlB1ZjdaOGtNb2lkSDcta1FYT01EMzZWY2ZMUkJDT2gwX3pZWEd0Nmt0VUpDd0Za?oc=5)
-
----
-
-### [El 51,5% de personas con migraña siente que su entorno apenas la percibe como una enfermedad, según encuesta de AEMICE](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
-
-2026-09-09 <span class="news-indication-tag">migraña</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0F5X1YwUE9laGtDZl95NXNjVU1KVjlocjhVakRFcGFfSkF4ZE1rcTdRUGVhSHNVM1E1SlpNLS0yWkpJd3FYa1hIZklTcURHdlM3VlRFNkZ2Y1k3MjU5NGpwcWVKWjJtWXFTNDlERnp3N21MbWlfdmE5WVo3bkJfVjc5Ri1BSzNDN2Y1M0VqbkE0OGloYUlxVlJ1a19wc1E3b0cyOXdKblo5SEtmdHFJY0JQeXlBUGkySXlpTGFucDlyclpWQW1kdFJROHdVTmI3ZUlr?oc=5)
 
 ---
 

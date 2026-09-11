@@ -1,62 +1,63 @@
 ---
 layout: default
-title: "Bictegravir 相關新聞"
+title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bictegravir 的相關健康新聞報導。原適應症：Biktarvy is indicated for the treatment of human i...。預測適應症 20 個。"
-permalink: /news/bictegravir/
+description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+permalink: /news/hepatitis/
 ---
 
-# Bictegravir 相關新聞
+# epatite（hepatitis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bictegravir 有什麼相關新聞？">
-<strong>Bictegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
+<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合 Bictegravir 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
-<div class="drug-info-card">
-<strong>藥物資訊</strong>
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><strong>原適應症</strong>：Biktarvy is indicated for the treatment of human immunodeficiency virus 1 (HIV 1) infection in adults and paediatric patients at least 2 years of age and weighing at least 14 kg i without present or...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>HIV infectious disease（99.9%）</li>
-<li>simian immunodeficiency virus infection（99.8%）</li>
-<li>feline acquired immunodeficiency syndrome（99.8%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.8%）</li>
-<li>AIDS（97.3%）</li>
-<li>chronic hepatitis C virus infection（95.5%）</li>
-<li>AIDS related complex（94.8%）</li>
-<li>congenital human immunodeficiency virus（94.8%）</li>
-<li>hepatitis C virus infection（93.3%）</li>
-<li>hepatitis E virus infection（92.1%）</li>
-<li>hepatitis A virus infection（91.9%）</li>
-<li>Omsk hemorrhagic fever（91.8%）</li>
-<li>Kyasanur forest disease（91.7%）</li>
-<li>hepatitis, viral, animal（91.6%）</li>
-<li>ulceration of vulva（90.7%）</li>
-<li>anogenital human papillomavirus infection（90.3%）</li>
-<li>fibroma of prostate（90.2%）</li>
-<li>Brenner tumor（90.2%）</li>
-<li>vulvitis（90.0%）</li>
-<li>vulvar neoplasm（90.0%）</li>
-</ul></li>
+<li><a href="{{ '/drugs/abacavir/' | relative_url }}">Abacavir</a></li>
+<li><a href="{{ '/drugs/baloxavir-marboxil/' | relative_url }}">Baloxavir Marboxil</a></li>
+<li><a href="{{ '/drugs/bictegravir/' | relative_url }}">Bictegravir</a></li>
+<li><a href="{{ '/drugs/cobicistat/' | relative_url }}">Cobicistat</a></li>
+<li><a href="{{ '/drugs/deferasirox/' | relative_url }}">Deferasirox</a></li>
+<li><a href="{{ '/drugs/dolutegravir/' | relative_url }}">Dolutegravir</a></li>
+<li><a href="{{ '/drugs/elbasvir/' | relative_url }}">Elbasvir</a></li>
+<li><a href="{{ '/drugs/elvitegravir/' | relative_url }}">Elvitegravir</a></li>
+<li><a href="{{ '/drugs/emtricitabine/' | relative_url }}">Emtricitabine</a></li>
+<li><a href="{{ '/drugs/entecavir/' | relative_url }}">Entecavir</a></li>
+<li><a href="{{ '/drugs/givosiran/' | relative_url }}">Givosiran</a></li>
+<li><a href="{{ '/drugs/glecaprevir/' | relative_url }}">Glecaprevir</a></li>
+<li><a href="{{ '/drugs/grazoprevir/' | relative_url }}">Grazoprevir</a></li>
+<li><a href="{{ '/drugs/lamivudine/' | relative_url }}">Lamivudine</a></li>
+<li><a href="{{ '/drugs/ledipasvir/' | relative_url }}">Ledipasvir</a></li>
+<li><a href="{{ '/drugs/lopinavir/' | relative_url }}">Lopinavir</a></li>
+<li><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">Peginterferon Alfa-2A</a></li>
+<li><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">Pibrentasvir</a></li>
+<li><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">Rilpivirine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/ritonavir/' | relative_url }}">Ritonavir</a></li>
+<li><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">Sofosbuvir</a></li>
+<li><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">Tenofovir Alafenamide</a></li>
+<li><a href="{{ '/drugs/tenofovir-disoproxil/' | relative_url }}">Tenofovir Disoproxil</a></li>
+<li><a href="{{ '/drugs/teriflunomide/' | relative_url }}">Teriflunomide</a></li>
+<li><a href="{{ '/drugs/velpatasvir/' | relative_url }}">Velpatasvir</a></li>
 </ul>
-<p><a href="{{ '/drugs/bictegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（2 則）
 
 ### [“I feel fine, so why should I test?” Doctor explains why chronic hepatitis can damage the liver silently](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ1BkZ3A3X3lLaTR1SHUySjZ2NWR5NW10MzdiSU9QSE5kbzEySS1kbW1OamF1Q1Mtd3pnUkRmYUg0dWl0dUtNQ2ZqaHN1Vl9oamc0d2w2QWlyMHRuOTNnQ05yQjdwbUZEb1NKOTFPYXJKZTNPUzg5Rms2ZVlFWjc3cHhqZjFqNHRqbWhZOV9LNVdXSm5sYjF6WDJDS3hLRUs5T1JuWjBMUXlzazhmYk9fUFpiTHRvRmZZUkd2T2xGN1hpcFRjMzJUcWpyVmpMa0ZqTjljQ0YxdFJPbGoxYW5OdmRJVmN2bDdRYjRuTDJNSC1qNFVWQWJfUzFMcEbSAYQCQVVfeXFMUC0teEp0WE1tdkl4U08zbjNEaHFyTzlGVy1LUnMtWHVTM0VjR1RzbGdBOGNyVVNneEFPMmt0UmpBUDJtLVdWaUNfSlZUNVhoQnFWNXZ1RlVaTDVRU09udU8zdUNGUG5ncnBHUS1yUm1sTUd3d1hUQTQ3SXlhazdBdTZ5ZHlITm8wVHQ2OTV6YnVablBqTEhwMjJGQVJIMkZYQ3FsaHVjTUsyQkUxUDBqeEJOeWxnZ21mMk5tODF2MFBEckpyaXdNZ0FJTFNCVG13NHpMZllrNmtJNW1BSy1CQVdyQi1mdWFJeFZDVEFlaGVYZzQ1a3d2SkRSZmVIRWw5cWxYX3g?oc=5)
 
-2026-09-10 <span class="news-indication-tag">hepatitis</span>
+2026-09-10
 
 來源：[timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ1BkZ3A3X3lLaTR1SHUySjZ2NWR5NW10MzdiSU9QSE5kbzEySS1kbW1OamF1Q1Mtd3pnUkRmYUg0dWl0dUtNQ2ZqaHN1Vl9oamc0d2w2QWlyMHRuOTNnQ05yQjdwbUZEb1NKOTFPYXJKZTNPUzg5Rms2ZVlFWjc3cHhqZjFqNHRqbWhZOV9LNVdXSm5sYjF6WDJDS3hLRUs5T1JuWjBMUXlzazhmYk9fUFpiTHRvRmZZUkd2T2xGN1hpcFRjMzJUcWpyVmpMa0ZqTjljQ0YxdFJPbGoxYW5OdmRJVmN2bDdRYjRuTDJNSC1qNFVWQWJfUzFMcEbSAYQCQVVfeXFMUC0teEp0WE1tdkl4U08zbjNEaHFyTzlGVy1LUnMtWHVTM0VjR1RzbGdBOGNyVVNneEFPMmt0UmpBUDJtLVdWaUNfSlZUNVhoQnFWNXZ1RlVaTDVRU09udU8zdUNGUG5ncnBHUS1yUm1sTUd3d1hUQTQ3SXlhazdBdTZ5ZHlITm8wVHQ2OTV6YnVablBqTEhwMjJGQVJIMkZYQ3FsaHVjTUsyQkUxUDBqeEJOeWxnZ21mMk5tODF2MFBEckpyaXdNZ0FJTFNCVG13NHpMZllrNmtJNW1BSy1CQVdyQi1mdWFJeFZDVEFlaGVYZzQ1a3d2SkRSZmVIRWw5cWxYX3g?oc=5)
 
@@ -64,7 +65,7 @@ permalink: /news/bictegravir/
 
 ### [Veleno di scorpione contro fegato grasso ed epatite? Cosa funziona davvero nei primi test](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnVGUGF4LUJXd2dmRlI4Ym9mbXNObUJNN1llWk5VZUpINUVVcXZwUEJJVTFmVU1TN1FuTmV4N0JEWkxhNXpFN3BCakNSRDZGY29ldEt6aGpTR0pjajJnUnIzSUhFci1HOTdWVFlBZ3NzVVdoYktCdHRCeXVxVWZ4SUsxUXJOb1J6YnhyLVk1cWU3UGRxVWlHZ1F0SHFHQkt1N2h5WkI2UDFZNlVKUnA5QlNTU3BiaUwxbWpPWlpHbXJULTRnZS1sQ1JIMm0wdDFxeHU4NVlfZTZ0TTF6dzFEcXV3?oc=5)
 
-2026-09-09 <span class="news-indication-tag">epatite</span>
+2026-09-09
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnVGUGF4LUJXd2dmRlI4Ym9mbXNObUJNN1llWk5VZUpINUVVcXZwUEJJVTFmVU1TN1FuTmV4N0JEWkxhNXpFN3BCakNSRDZGY29ldEt6aGpTR0pjajJnUnIzSUhFci1HOTdWVFlBZ3NzVVdoYktCdHRCeXVxVWZ4SUsxUXJOb1J6YnhyLVk1cWU3UGRxVWlHZ1F0SHFHQkt1N2h5WkI2UDFZNlVKUnA5QlNTU3BiaUwxbWpPWlpHbXJULTRnZS1sQ1JIMm0wdDFxeHU4NVlfZTZ0TTF6dzFEcXV3?oc=5)
 
@@ -74,39 +75,3 @@ permalink: /news/bictegravir/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
