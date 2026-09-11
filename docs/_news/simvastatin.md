@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Analyse: Schlaganfall-Risiko in den Monaten nach Krebsdiagnose verdoppelt](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Stroke Unit im Krankenhaus Ludmillenstift Meppen behandelt 700 Schlaganfälle im Jahr](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
-
-2026-09-10 <span class="news-indication-tag">stroke</span>
-
-來源：[noz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 ---
 
@@ -86,19 +70,19 @@ permalink: /news/simvastatin/
 
 ---
 
+### [Gesichtsmerkmale, die auf das Risiko eines Herzinfarkts oder Schlaganfalls hinweisen.](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTJIY2gxcU14Tmp3RC1uZkVkTEF1ZWFJSHBHR3o3LVNabmRSQzA1NVJVYmZaMFZKTFNLdXcwZG1GTHlwVmdITlF3LXJnTjI5d3QwalFTVjVQLWRsZ045VC1Vb2pTbmZjM0dtZ0hpaEI1WkNaUVFyc0xDeGY4dTNjMTl3?oc=5)
+
+2026-09-09 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTJIY2gxcU14Tmp3RC1uZkVkTEF1ZWFJSHBHR3o3LVNabmRSQzA1NVJVYmZaMFZKTFNLdXcwZG1GTHlwVmdITlF3LXJnTjI5d3QwalFTVjVQLWRsZ045VC1Vb2pTbmZjM0dtZ0hpaEI1WkNaUVFyc0xDeGY4dTNjMTl3?oc=5)
+
+---
+
 ### [Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
 
 2026-09-08 <span class="news-indication-tag">stroke</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
-
----
-
-### [Gelbe Fettablagerungen am Auge könnten ein Warnsignal sein](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3dITTVHc0NkRGd5Y0tqWnVyYTBBLUZjSFNGLUZ1eWN5MDFYT3RCczZ2UWoxbjFNTEREUWZwNUFiaTJsNHd2VHA0OEtMVnZ4a0RHbm5JN2NrTEJhWl9iS0J3LXJ6TTJITFFIbXdoRGZkSE1PekExa2YwOFM2SVhRbEZ2X1lfS3VFVGt5X1RMMXRZZDNlVnFoMFpHZzFsVG1GMWoya1ViR0tRdXF2ZFlBR3N3UlM1d0VlYVRlM1I5VWRRcFU?oc=5)
-
-2026-09-08 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3dITTVHc0NkRGd5Y0tqWnVyYTBBLUZjSFNGLUZ1eWN5MDFYT3RCczZ2UWoxbjFNTEREUWZwNUFiaTJsNHd2VHA0OEtMVnZ4a0RHbm5JN2NrTEJhWl9iS0J3LXJ6TTJITFFIbXdoRGZkSE1PekExa2YwOFM2SVhRbEZ2X1lfS3VFVGt5X1RMMXRZZDNlVnFoMFpHZzFsVG1GMWoya1ViR0tRdXF2ZFlBR3N3UlM1d0VlYVRlM1I5VWRRcFU?oc=5)
 
 ---
 

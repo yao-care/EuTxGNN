@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。16 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>16 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（14 則）
 
-### [Brote de ébola en el este del Congo se extiende a una séptima provincia, las dicen autoridades - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVFjYVpkaEk0VmZFeHBqd1doeW5tZS1qWWhTbENybVd6SlpocVhETFdTb1k3SXVRSnBjajFiMklIMG9HVWczWnl0UE5KVnJxSy1hVFJNVEJWTzZYWmxuSnp3M0JHaThFV3hXVmY5YUFtdFdpNG94eTV0V2E2cWNkdi0yeDRxRHlaekRNRFNCMGNsQVpSYXpQUkI3Wk8?oc=5)
+### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
 
 2026-09-11
 
-來源：[AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVFjYVpkaEk0VmZFeHBqd1doeW5tZS1qWWhTbENybVd6SlpocVhETFdTb1k3SXVRSnBjajFiMklIMG9HVWczWnl0UE5KVnJxSy1hVFJNVEJWTzZYWmxuSnp3M0JHaThFV3hXVmY5YUFtdFdpNG94eTV0V2E2cWNkdi0yeDRxRHlaekRNRFNCMGNsQVpSYXpQUkI3Wk8?oc=5)
+來源：[magdeburger-news.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
+
+---
+
+### [INFO OUEST-FRANCE. Pour la première fois, des cas humains d’infection par le virus du Nil occidental à Nantes et Angers](https://news.google.com/rss/articles/CBMinwJBVV95cUxNQjlfbE0xY3YtOUZkZVlIU3V1R2Y2bkQ0dmVCdW9wVk9LWV9Cam1RNkxyS0VCMmY1bU9XSXVoN0xhbDZxRUV0ZUZMQ3Q2SXpIMVh5dUhTXzMyZVViODBzM2d1LTFNdml3b2Z0U200MUlmWUJ1aEM3TWZRR3ZJZkdYZWNmSU5yUURtbmlUcFcwTGRwTlFQdTBvZkpyQXVJZlh6SnBOT2VTamVOWWs4M29wNlRnUjFpNF9VUERUdVVzZzBTMmQxRVpsWEJmSWFFTzNSQ0EtZU1aUVVQS3BNbXJFeVg4UGx5dHE0T0dCbVF0SW9DaWU1NXRXZW1zU1RCM2lMd21IMkJmd2xISUhoMzVHVDh2eU90bTZVZmEzc2F4NA?oc=5)
+
+2026-09-11
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMinwJBVV95cUxNQjlfbE0xY3YtOUZkZVlIU3V1R2Y2bkQ0dmVCdW9wVk9LWV9Cam1RNkxyS0VCMmY1bU9XSXVoN0xhbDZxRUV0ZUZMQ3Q2SXpIMVh5dUhTXzMyZVViODBzM2d1LTFNdml3b2Z0U200MUlmWUJ1aEM3TWZRR3ZJZkdYZWNmSU5yUURtbmlUcFcwTGRwTlFQdTBvZkpyQXVJZlh6SnBOT2VTamVOWWs4M29wNlRnUjFpNF9VUERUdVVzZzBTMmQxRVpsWEJmSWFFTzNSQ0EtZU1aUVVQS3BNbXJFeVg4UGx5dHE0T0dCbVF0SW9DaWU1NXRXZW1zU1RCM2lMd21IMkJmd2xISUhoMzVHVDh2eU90bTZVZmEzc2F4NA?oc=5)
 
 ---
 
@@ -76,15 +84,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-11
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
-
----
-
-### [People with ADHD more likely to suffer from gut problems, major review finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hOW92V0JxMTVJZDByODF3Q2dOX2xwVEZETFpiQk1SejNDTEsyamlSanpiU3Ffc290Nm9Nc3gzQ0cyNkgwN1doLWJidThzOXBlWllObnYtMnV5bC1I?oc=5)
-
-2026-09-10
-
-來源：[EurekAlert!](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hOW92V0JxMTVJZDByODF3Q2dOX2xwVEZETFpiQk1SejNDTEsyamlSanpiU3Ffc290Nm9Nc3gzQ0cyNkgwN1doLWJidThzOXBlWllObnYtMnV5bC1I?oc=5)
+來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 ---
 
@@ -104,27 +104,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
-
-2026-09-10
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
-
----
-
 ### [A Woman's Intestines Literally Tied Themselves Into a Knot After Childbirth](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
 
 2026-09-10
 
-來源：[sciencealert.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
-
----
-
-### [Adipositas-bedingte Veränderungen des Immunsystems sind umkehrbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
-
-2026-09-10
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
 
 ---
 
@@ -144,6 +128,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### ["La inteligencia artificial se incorporará a todos los estratos de la cardiología en los próximos 5 años" - Gaceta Médica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZXJmVUoyeWdOOVl5d1NlOVlCSFQxMndBcndKZko1bFhwWW1vdzh3Tk8yWWxRZ2tkVkdNelFKbExyVHY3QVl5M1BZYkVESE1HUlN6Rm1xVUNucUJDU0FzUDhfbzY1LVNBdFJ6RG9IcUhoZlBhX0ZRUEtoQVNQa0lMRTJRTnViaW14SW1kbWh4TngzaW5MMlZPV2xOTjBNZWN5OWdLNDVuNG00cmY2TlR1RmF0eGxTaUF4N2puRjdkMEgxaUNQbThnQ1VCR1lVOE90X2RENTExdw?oc=5)
+
+2026-09-10
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZXJmVUoyeWdOOVl5d1NlOVlCSFQxMndBcndKZko1bFhwWW1vdzh3Tk8yWWxRZ2tkVkdNelFKbExyVHY3QVl5M1BZYkVESE1HUlN6Rm1xVUNucUJDU0FzUDhfbzY1LVNBdFJ6RG9IcUhoZlBhX0ZRUEtoQVNQa0lMRTJRTnViaW14SW1kbWh4TngzaW5MMlZPV2xOTjBNZWN5OWdLNDVuNG00cmY2TlR1RmF0eGxTaUF4N2puRjdkMEgxaUNQbThnQ1VCR1lVOE90X2RENTExdw?oc=5)
+
+---
+
 ### [Escaliers après 60 ans : faites ce test simple pour évaluer votre santé cardiaque](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk5wel8yLUxmYUJVbWJKRVdPZ2JNRngza3BvXzdhbVNUM05VMXU5bXNCUTVXUzUtZ0pxaXpHUDkwamhFRXFsV0JJY2lfRG5RMGEyaHB5OVZXQWQzSTlWSTAySGg2bWJhRzJydnByWld0Z0oxanJnT2w0YmJhMWVZbzRma2VJbnB5MWxEaFBZYVkxeHZHTnc?oc=5)
 
 2026-09-09
@@ -152,35 +144,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
+### [Psychology says people who over-explain themselves in ordinary conversations aren't insecure or needy — they often grew up with adults who required exhaustive justification before they would believe, help, or simply not punish - Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxQb1Z1cGtPWklJNWE2OUwwbDhzV1ZVaWRabjEwdl9yVDlVOU9qTEJmVmhINEhXNGtLak9lZVhHQmlKaXZXWnhzdUhUR1VUUThGUkF2VHpVY0doVTN3dWJVU3RCdC1XVWlIdW9yckJiS0xYZUVrczJmU0dDZXREc2d6RHpOeUNFQ2hQVFNKZlQ3TVIzLXg1ek1nLVFPMWZmd0twdTBaSzN3dTZfa2pMV3JZb010U1E1VDRfUUpzM0dDMEJDTnU2bWJVYmFRU2g3cTh0enZ6YkUteHNBSFRoUVJUOThDYWF5a01vOVJNdUZRMDBNcEhXQUVyR29wWjRTSGdpcHRxZGJPYWV0TW4yU3FQSFgzZldhYWRfWUc1VW41VHQwYTNINXBsZ0NSZ3J5TVFQYWV3aEdZWjdHZ1ZlbktZ?oc=5)
 
 2026-09-09
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
+來源：[Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxQb1Z1cGtPWklJNWE2OUwwbDhzV1ZVaWRabjEwdl9yVDlVOU9qTEJmVmhINEhXNGtLak9lZVhHQmlKaXZXWnhzdUhUR1VUUThGUkF2VHpVY0doVTN3dWJVU3RCdC1XVWlIdW9yckJiS0xYZUVrczJmU0dDZXREc2d6RHpOeUNFQ2hQVFNKZlQ3TVIzLXg1ek1nLVFPMWZmd0twdTBaSzN3dTZfa2pMV3JZb010U1E1VDRfUUpzM0dDMEJDTnU2bWJVYmFRU2g3cTh0enZ6YkUteHNBSFRoUVJUOThDYWF5a01vOVJNdUZRMDBNcEhXQUVyR29wWjRTSGdpcHRxZGJPYWV0TW4yU3FQSFgzZldhYWRfWUc1VW41VHQwYTNINXBsZ0NSZ3J5TVFQYWV3aEdZWjdHZ1ZlbktZ?oc=5)
 
 ---
 
 ### [Flushing the toilet can release a ‘plume’ of breathable pathogens – and closing the lid won’t stop their escape - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0NKRVRmc1FLTU9McWEwNTNDcVFyd3JBVExDaE03U3VCQ2RlbEMtVGhRZmpzNjF4WWNvdjEwc1R3eXd0enVsb2l6T3B2ZWRBSDcyYlQ5bTdxZkh3Q3Fnblo2S3p5SHBKbEUtOUNnSVlsb2JBcTRCbFd6VzlCN1pSSW9NRUVhaTYwWnF0N0RUM1JQWkt0eWdFOVFENWhIMTNQVF9v?oc=5)
 
-2026-09-09
+2026-09-08
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0NKRVRmc1FLTU9McWEwNTNDcVFyd3JBVExDaE03U3VCQ2RlbEMtVGhRZmpzNjF4WWNvdjEwc1R3eXd0enVsb2l6T3B2ZWRBSDcyYlQ5bTdxZkh3Q3Fnblo2S3p5SHBKbEUtOUNnSVlsb2JBcTRCbFd6VzlCN1pSSW9NRUVhaTYwWnF0N0RUM1JQWkt0eWdFOVFENWhIMTNQVF9v?oc=5)
 
 ---
 
-### [MS-Forschung: Immunprotein schützt Nervenzellen bei Multipler Sklerose](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVC1VQm0ycUJfTUh4Y3M2dGlQdDYzSzA3VzBCOEN6VXRjektIRnFiLXV4c0VZd3l5LTBJVE02eHZlS1JXR2VIZG9VOTY2SjVvMnRnaU1udmlLSnNKS0M0b19tT0Z6a2RGUTgwOTVSLUc2bF8xWUw4OWl1TnNmd0VHRUM3UlF0Ym9wcDlUbGdzaGY?oc=5)
+### [Cardiff student who 'brushed off' sore throat developed sepsis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ock1zN2Nld0ZKUUhUWi1zWmhMWjNJRkVmM2gxSEFsVkFKelEzekJWZVhpTmRmQjRkbjZjczRGRnp1OUVWYnFOa25udjZGekp4WnhlcmRiaWZWcjJm?oc=5)
 
-2026-09-08
+2026-09-05
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVC1VQm0ycUJfTUh4Y3M2dGlQdDYzSzA3VzBCOEN6VXRjektIRnFiLXV4c0VZd3l5LTBJVE02eHZlS1JXR2VIZG9VOTY2SjVvMnRnaU1udmlLSnNKS0M0b19tT0Z6a2RGUTgwOTVSLUc2bF8xWUw4OWl1TnNmd0VHRUM3UlF0Ym9wcDlUbGdzaGY?oc=5)
-
----
-
-### [Krebsforschung: Organoide bilden Vielfalt von Lebertumoren für Wirkstofftests ab](https://news.google.com/rss/articles/CBMimwFBVV95cUxNajhZTHdJaDJVcG5zU2pEUkNiN3B1eVFqR1RNOGtKRGVCWGIxdlNrVjlWcVcwV0VjV2hBWDlfc1FOWjRnYUYzMV9xVFhOQjRQQ3A5d0JtSkg4Z1MwUC1Gd29UQkJBLXk2TmxuVkVPU1VQeURwQmpkR25HZ1k3VkUwc3dXT0hOem80cWhCT1lsb0R5dThfaWNrUHh4TQ?oc=5)
-
-2026-09-07
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxNajhZTHdJaDJVcG5zU2pEUkNiN3B1eVFqR1RNOGtKRGVCWGIxdlNrVjlWcVcwV0VjV2hBWDlfc1FOWjRnYUYzMV9xVFhOQjRQQ3A5d0JtSkg4Z1MwUC1Gd29UQkJBLXk2TmxuVkVPU1VQeURwQmpkR25HZ1k3VkUwc3dXT0hOem80cWhCT1lsb0R5dThfaWNrUHh4TQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ock1zN2Nld0ZKUUhUWi1zWmhMWjNJRkVmM2gxSEFsVkFKelEzekJWZVhpTmRmQjRkbjZjczRGRnp1OUVWYnFOa25udjZGekp4WnhlcmRiaWZWcjJm?oc=5)
 
 ---
 

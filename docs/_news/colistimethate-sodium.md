@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Bluthochdruck: Nüsse senken das Risiko](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Des traitements contre le diabète, l’asthme, l’hypertension, le cholestérol... Les médicaments les plus prescrits et les moins chers, premières victimes des pénuries et des arrêts de commercialisation, alerte MedFrance - L'Usine Nouvelle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
 
@@ -91,14 +83,6 @@ permalink: /news/colistimethate-sodium/
 2026-09-10 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
-
----
-
-### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
 
 ---
 

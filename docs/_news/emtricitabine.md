@@ -54,11 +54,11 @@ permalink: /news/emtricitabine/
 
 ## 相關新聞（1 則）
 
-### [Veleno di scorpione contro fegato grasso ed epatite? Cosa funziona davvero nei primi test](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnVGUGF4LUJXd2dmRlI4Ym9mbXNObUJNN1llWk5VZUpINUVVcXZwUEJJVTFmVU1TN1FuTmV4N0JEWkxhNXpFN3BCakNSRDZGY29ldEt6aGpTR0pjajJnUnIzSUhFci1HOTdWVFlBZ3NzVVdoYktCdHRCeXVxVWZ4SUsxUXJOb1J6YnhyLVk1cWU3UGRxVWlHZ1F0SHFHQkt1N2h5WkI2UDFZNlVKUnA5QlNTU3BiaUwxbWpPWlpHbXJULTRnZS1sQ1JIMm0wdDFxeHU4NVlfZTZ0TTF6dzFEcXV3?oc=5)
+### [Epatite A, dieci casi tra Livorno e Pisa. L’Asl: "Possibile cluster in uno stabilimento balneare"](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEJUY01yX3JJUE1WVWtDdHl1TVdiVGlubE91ZmRhY0N2QmRQU0M0QkVzY2w3WGNiMmxKTFBOSlJ0al9pSWRUdnlRS05tYU5FZkU4MHNiSDl0VXYzckhsZ052OVlQUEhabmtpMklyc20zMjNzUUlSS1NZMUVEbUpwN3Q4ZzNrM2V3MmpheGlCSktiUQ?oc=5)
 
-2026-09-09 <span class="news-indication-tag">epatite</span>
+2026-09-11 <span class="news-indication-tag">epatite</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnVGUGF4LUJXd2dmRlI4Ym9mbXNObUJNN1llWk5VZUpINUVVcXZwUEJJVTFmVU1TN1FuTmV4N0JEWkxhNXpFN3BCakNSRDZGY29ldEt6aGpTR0pjajJnUnIzSUhFci1HOTdWVFlBZ3NzVVdoYktCdHRCeXVxVWZ4SUsxUXJOb1J6YnhyLVk1cWU3UGRxVWlHZ1F0SHFHQkt1N2h5WkI2UDFZNlVKUnA5QlNTU3BiaUwxbWpPWlpHbXJULTRnZS1sQ1JIMm0wdDFxeHU4NVlfZTZ0TTF6dzFEcXV3?oc=5)
+來源：[LivornoToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEJUY01yX3JJUE1WVWtDdHl1TVdiVGlubE91ZmRhY0N2QmRQU0M0QkVzY2w3WGNiMmxKTFBOSlJ0al9pSWRUdnlRS05tYU5FZkU4MHNiSDl0VXYzckhsZ052OVlQUEhabmtpMklyc20zMjNzUUlSS1NZMUVEbUpwN3Q4ZzNrM2V3MmpheGlCSktiUQ?oc=5)
 
 ---
 

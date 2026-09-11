@@ -54,6 +54,14 @@ permalink: /news/budesonide/
 
 ## 相關新聞（7 則）
 
+### [COPD: Risikofaktoren für häufige Exazerbationen](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnVrOFoxUTZTR2xrbjBHS25mT1Y1eDhEN1dtdmhmRE95OWc4b2dMVVNSSkZwMERkVjRZS0NiRzRmWUdYOS15TmtYNFNSdVNrSjRRSkE5YzlRLWprdWNsZXBnNHk2bXpPSl9DLVl2QVp4bzJidDcwUjlka1hLUm1iRHBTUlpHaEllcE1uX2daV0N4cUNHVi1RVnVB?oc=5)
+
+2026-09-11 <span class="news-indication-tag">copd</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnVrOFoxUTZTR2xrbjBHS25mT1Y1eDhEN1dtdmhmRE95OWc4b2dMVVNSSkZwMERkVjRZS0NiRzRmWUdYOS15TmtYNFNSdVNrSjRRSkE5YzlRLWprdWNsZXBnNHk2bXpPSl9DLVl2QVp4bzJidDcwUjlka1hLUm1iRHBTUlpHaEllcE1uX2daV0N4cUNHVi1RVnVB?oc=5)
+
+---
+
 ### [Des traitements contre le diabète, l’asthme, l’hypertension, le cholestérol... Les médicaments les plus prescrits et les moins chers, premières victimes des pénuries et des arrêts de commercialisation, alerte MedFrance - L'Usine Nouvelle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
 
 2026-09-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">asthme</span>
@@ -70,11 +78,11 @@ permalink: /news/budesonide/
 
 ---
 
-### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzZpWnRMcHNDVG9lUmlLRkFXNHBuRnBrM29vdXhoNjdDTUxzUmEtLUNKdUJ3LW1QR1pLZGxsTGUyMk5zbkdiTnI3QUxhaDl2aDA0ZWxQUnZhaExQZjY2T2FlNWhONFp4dndTODBEU3ZldFpKMlVjeWNKUmRMUWRmV1d1RVZvUnhWNzNpSEFsQmJiN21SZVBiSUl6eTRBdG56VXZtd2pDelJFXzFOWU5BS0NocXhTeWNwbU9JbTg1Zy1GYVE4NkxleHNBclZTcUtVbkZFeDFfdG9SMDhIalB2SHNn?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzZpWnRMcHNDVG9lUmlLRkFXNHBuRnBrM29vdXhoNjdDTUxzUmEtLUNKdUJ3LW1QR1pLZGxsTGUyMk5zbkdiTnI3QUxhaDl2aDA0ZWxQUnZhaExQZjY2T2FlNWhONFp4dndTODBEU3ZldFpKMlVjeWNKUmRMUWRmV1d1RVZvUnhWNzNpSEFsQmJiN21SZVBiSUl6eTRBdG56VXZtd2pDelJFXzFOWU5BS0NocXhTeWNwbU9JbTg1Zy1GYVE4NkxleHNBclZTcUtVbkZFeDFfdG9SMDhIalB2SHNn?oc=5)
 
 ---
 
@@ -82,7 +90,7 @@ permalink: /news/budesonide/
 
 2026-09-10 <span class="news-indication-tag">asma</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTHV6RHU4c2lzY3A0V3FOR1gzNTBlc1c4Zk9xWk9kMXJJY2VyWnVBZWE2OENjSlRuTlVBZ0VYX3g4WnlzOWQ4TDBwOHlMei1hTXZvVzBwLXhlQ29GeW44elVnQ1cya0REajV3Q0VBTUdkSnJRSUtrSXdoUW03ek01dUM0N1N4N043LVNoTzh0VUo0M3JLejJqeUFCVldVZFBESWI3QUY0SnBVdzFRQktFUVVxMTdUNWt1VFdxYjVnc1RwWjVWZEVjeGV1UXpiM1IwQXVUTFNiaXpPeWZRTTI0?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTHV6RHU4c2lzY3A0V3FOR1gzNTBlc1c4Zk9xWk9kMXJJY2VyWnVBZWE2OENjSlRuTlVBZ0VYX3g4WnlzOWQ4TDBwOHlMei1hTXZvVzBwLXhlQ29GeW44elVnQ1cya0REajV3Q0VBTUdkSnJRSUtrSXdoUW03ek01dUM0N1N4N043LVNoTzh0VUo0M3JLejJqeUFCVldVZFBESWI3QUY0SnBVdzFRQktFUVVxMTdUNWt1VFdxYjVnc1RwWjVWZEVjeGV1UXpiM1IwQXVUTFNiaXpPeWZRTTI0?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/budesonide/
 2026-09-09 <span class="news-indication-tag">asma</span>
 
 來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRERIS2VRQVV4NHFITWFPMzlSTVphMFlxSEx6azdGTWR2N1pqTWRKSTl5enRqWS1QdGd4dVdKVzdKZUoyZW05QlRhX05JazhBNm15QURKN0w3TE4wYlNTZEZhX2tjU3VPdF8tSWp3a0N4TktyeEV6akYwZXhsZ0pKeEZ1QUttRGRuVlhQbFlOR2xjWWNqQkl2MlBxWVo2Q1hETk5ydG9EMW8wQm9yQUNzR29TcDNWYVR4Y2tGemtfRXFaUdIBxwFBVV95cUxNMlA4TXBPVTI3TVh5R2IxRGR4ZlB6b2tJWGhaemVWajVEdGsxSU5zaWZjWGVwTDJTb0NWeHlobzZwWkRJTTJQRDNkOGVvQXpKN1pJUXpiSGwxUFJ3UVh1T2F3SmFTWU9oMFBCQlhaMU5ITU1HVDN5aURaSUpxQmxteUktN0Zoc2h5MEF6cW9HTVkxWGNVUk42Q1FrcE1TRTFjTjZvaE5LbFMtd1lHbTRvUlVtM2Y1OWw4cER3QjJxTFloZ0I2aW5V?oc=5)
-
----
-
-### [Schweres Asthma verursacht Veränderungen im Gehirn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
-
-2026-09-09 <span class="news-indication-tag">asthma</span>
-
-來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 ---
 

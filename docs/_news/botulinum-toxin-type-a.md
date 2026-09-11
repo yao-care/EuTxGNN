@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [COPD: Risikofaktoren für häufige Exazerbationen](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnVrOFoxUTZTR2xrbjBHS25mT1Y1eDhEN1dtdmhmRE95OWc4b2dMVVNSSkZwMERkVjRZS0NiRzRmWUdYOS15TmtYNFNSdVNrSjRRSkE5YzlRLWprdWNsZXBnNHk2bXpPSl9DLVl2QVp4bzJidDcwUjlka1hLUm1iRHBTUlpHaEllcE1uX2daV0N4cUNHVi1RVnVB?oc=5)
+
+2026-09-11 <span class="news-indication-tag">copd</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnVrOFoxUTZTR2xrbjBHS25mT1Y1eDhEN1dtdmhmRE95OWc4b2dMVVNSSkZwMERkVjRZS0NiRzRmWUdYOS15TmtYNFNSdVNrSjRRSkE5YzlRLWprdWNsZXBnNHk2bXpPSl9DLVl2QVp4bzJidDcwUjlka1hLUm1iRHBTUlpHaEllcE1uX2daV0N4cUNHVi1RVnVB?oc=5)
+
+---
 
 ### [COPD: Exazerbationen richtig einordnen – und Differentialdiagnosen nicht vergessen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/botulinum-toxin-type-a/
 
 ---
 
-### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzZpWnRMcHNDVG9lUmlLRkFXNHBuRnBrM29vdXhoNjdDTUxzUmEtLUNKdUJ3LW1QR1pLZGxsTGUyMk5zbkdiTnI3QUxhaDl2aDA0ZWxQUnZhaExQZjY2T2FlNWhONFp4dndTODBEU3ZldFpKMlVjeWNKUmRMUWRmV1d1RVZvUnhWNzNpSEFsQmJiN21SZVBiSUl6eTRBdG56VXZtd2pDelJFXzFOWU5BS0NocXhTeWNwbU9JbTg1Zy1GYVE4NkxleHNBclZTcUtVbkZFeDFfdG9SMDhIalB2SHNn?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzZpWnRMcHNDVG9lUmlLRkFXNHBuRnBrM29vdXhoNjdDTUxzUmEtLUNKdUJ3LW1QR1pLZGxsTGUyMk5zbkdiTnI3QUxhaDl2aDA0ZWxQUnZhaExQZjY2T2FlNWhONFp4dndTODBEU3ZldFpKMlVjeWNKUmRMUWRmV1d1RVZvUnhWNzNpSEFsQmJiN21SZVBiSUl6eTRBdG56VXZtd2pDelJFXzFOWU5BS0NocXhTeWNwbU9JbTg1Zy1GYVE4NkxleHNBclZTcUtVbkZFeDFfdG9SMDhIalB2SHNn?oc=5)
 
 ---
 

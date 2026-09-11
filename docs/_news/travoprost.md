@@ -54,11 +54,11 @@ permalink: /news/travoprost/
 
 ## 相關新聞（1 則）
 
-### [The simple sleep mistake that could damage and change the SHAPE of your heart - are you at risk? - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+### [5 takeaways from the new cholesterol guidelines - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
-2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
+2026-09-08 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+來源：[The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
 ---
 

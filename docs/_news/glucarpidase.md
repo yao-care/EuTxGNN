@@ -14,7 +14,7 @@ permalink: /news/glucarpidase/
 ---
 
 <p class="key-answer" data-question="Glucarpidase 有什麼相關新聞？">
-<strong>Glucarpidase</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glucarpidase</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/glucarpidase/
 <p><a href="{{ '/drugs/glucarpidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
+
+### [Metaanalyse: Schlechtere Diabetesversorgung bei psychisch Kranken - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcUpZaGtPai16ZlN2aWJ4azlZMVZnblJWUGhOWmxTZVFFUXdiOHcwR2pPcWRVaWZ3aU5vVkJxNmZYS3YwQ3ZGb0w5LVlRZDZlclBITVRJN05vQ0lnd2dXQVM4NmdMMlNVdGJXX1E0cmpHUHRzVDV2Yl95RmRmLVd6eGRXaUxGQ3JmU3JfLUd0WllYQ3ZoREFXRnVpT3g1S1lrQ2ctMk5SZF95UVljT3dGOFppeC01eXhLRGR6cnl3MzZvWm85SXc5TXBHM28tbnVP?oc=5)
+
+2026-09-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcUpZaGtPai16ZlN2aWJ4azlZMVZnblJWUGhOWmxTZVFFUXdiOHcwR2pPcWRVaWZ3aU5vVkJxNmZYS3YwQ3ZGb0w5LVlRZDZlclBITVRJN05vQ0lnd2dXQVM4NmdMMlNVdGJXX1E0cmpHUHRzVDV2Yl95RmRmLVd6eGRXaUxGQ3JmU3JfLUd0WllYQ3ZoREFXRnVpT3g1S1lrQ2ctMk5SZF95UVljT3dGOFppeC01eXhLRGR6cnl3MzZvWm85SXc5TXBHM28tbnVP?oc=5)
+
+---
+
+### [Diabète : ces 5 traitements très utilisés vont bientôt disparaître en France](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
+
+2026-09-11 <span class="news-indication-tag">diabète</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
+
+---
 
 ### [Ketogene Ernährung verbessert Leberstoffwechsel bei gleicher Gewichtsabnahme stärker – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
 
@@ -62,11 +78,19 @@ permalink: /news/glucarpidase/
 
 ---
 
-### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lOUlIRllmcmdUS1hldXNtbXh2MjNyeWNhdGVLMVRiSl9XdTZ3Umc1V2M0aldrdzlLbkRPcng5VUpVdmVKT25fcG05bw?oc=5)
+### [Scientists boycott American Diabetes Association as fallout of June conference fracas escalates](https://news.google.com/rss/articles/CBMixwFBVV95cUxObHp3djY5M3laQURQNXZyNTlZODd3SWM1RjBoMExxdHRiMjdJT0kwTlpGRFhjQllhZ1FBZnpBN0trMGNhWkV3ZXBSQmx2OVZOc0hIQkMwNndYNVJyVHpqMmllNGtlLWlPeVRIUlZkcWJzb096NEEzblVxeXJOSXdMcHh1eTNuM1N2RXVwTjYxOWN6NDM2SHVyUEJkYWtMbGdmRFFFT3owOEkwY2laTDVvZDQtMTZkVllKTEEya3l3Rjh1MndSQkdv?oc=5)
+
+2026-09-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[fiercebiotech.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxObHp3djY5M3laQURQNXZyNTlZODd3SWM1RjBoMExxdHRiMjdJT0kwTlpGRFhjQllhZ1FBZnpBN0trMGNhWkV3ZXBSQmx2OVZOc0hIQkMwNndYNVJyVHpqMmllNGtlLWlPeVRIUlZkcWJzb096NEEzblVxeXJOSXdMcHh1eTNuM1N2RXVwTjYxOWN6NDM2SHVyUEJkYWtMbGdmRFFFT3owOEkwY2laTDVvZDQtMTZkVllKTEEya3l3Rjh1MndSQkdv?oc=5)
+
+---
+
+### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMSTM3S3BDcXU5WGJGbkxDbDJVcFIydV9mdjJkTFNaX0NqYm1BRjZMVEVlMlJ6dVdrLXhGVTA5d3VQN1BXTWN1Mmgtaw?oc=5)
 
 2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lOUlIRllmcmdUS1hldXNtbXh2MjNyeWNhdGVLMVRiSl9XdTZ3Umc1V2M0aldrdzlLbkRPcng5VUpVdmVKT25fcG05bw?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMSTM3S3BDcXU5WGJGbkxDbDJVcFIydV9mdjJkTFNaX0NqYm1BRjZMVEVlMlJ6dVdrLXhGVTA5d3VQN1BXTWN1Mmgtaw?oc=5)
 
 ---
 
@@ -82,7 +106,7 @@ permalink: /news/glucarpidase/
 
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 ---
 
@@ -102,27 +126,27 @@ permalink: /news/glucarpidase/
 
 ---
 
-### [Fin de commercialisation de 5 médicaments : ce qui va changer en pharmacie d'ici fin décembre pour des millions de Français - La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
-
-2026-09-10 <span class="news-indication-tag">diabète</span>
-
-來源：[La Provence](https://news.google.com/rss/articles/CBMihwJBVV95cUxOVGxsRkRXV2RCbU4ydExQc0xqTURDQ2xZMU5iaS15ZVRyUXdyS2s4VU5veGJlR1Y1QzczeWgwSWJ3SGxYQl9Mb2x2aXRFMko1bzJpQThWamJybHI1b2dPdzJsMlU3azFBTlA2dXkxaXoxUlFuUVY3dlF5bHZyN1JLRTdVaWsxUmZ2ajV3b0RkV2tvSWdLTWtrNWVIVjZ1SUN0TzkxbS1fNmp2RVpnVGVQNFE3bmE2dlZCY3NtcUJHeXZ1b1lUdUpvUlZ3eFk0WGNXRWZyNFBvRTNseGlQUmRVVktRSjNyMjhmNXZqYnFVV2pnWUsxa1d1N2l2dHFIUkxJWDV1RFR4Yw?oc=5)
-
----
-
-### [Typ-2-Diabetes: Gestationsdiabetes verkürzt Manifestationsalter um 13 Jahre](https://news.google.com/rss/articles/CBMiugFBVV95cUxPakxCYlBKQjRuQzNnNWk5Uk82cDJUdUdIMWZzb2Z6aVB0U0h2VUJLZWFaRlNuVnJ5X3hoZ3RiV2QzakZmWGtIRUd3cFA2MVR3NmtHNFFJTlo0eDh4NG9hbzBlX2V6YUp6WWoyN1lsVVlFQmdFUlI1Unl3MjYtVVpyZW9YS1FhLWdDc2xjYTZ0Zm8yMHpvMUR5NDFnbVVBM2FmX3Vqd0VybjVwbzM5NHNMNmVkYmRUbUZ4WkE?oc=5)
-
-2026-09-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPakxCYlBKQjRuQzNnNWk5Uk82cDJUdUdIMWZzb2Z6aVB0U0h2VUJLZWFaRlNuVnJ5X3hoZ3RiV2QzakZmWGtIRUd3cFA2MVR3NmtHNFFJTlo0eDh4NG9hbzBlX2V6YUp6WWoyN1lsVVlFQmdFUlI1Unl3MjYtVVpyZW9YS1FhLWdDc2xjYTZ0Zm8yMHpvMUR5NDFnbVVBM2FmX3Vqd0VybjVwbzM5NHNMNmVkYmRUbUZ4WkE?oc=5)
-
----
-
 ### [Diabete, scoperto il “freno” genetico che impedisce alle cellule del pancreas di cambiare identità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnQtYXJpZ3hkUzY0YVhOcWFHM1poUU4xbUhXWUtxNk1RT2cxZXhCNC1YOTlOSXFfaHNXSUxYSjVMUjhhcHl2bzQyMExzSEZBWm5OSXZfRkxvY2E0UDRxRjJJa2RXUFFkbDY5aFNyM0lGdmppWnBwNUlHbVZBSWVscUNWeWI1REJJSnZ5Vmt1cmlNajZpR1JYYUlQUS1sanp0bE44MVllbFhoaXNScjBuRFpiV1BhZ25JNHVjOFVOTXN5NV9DOXNRS1V4TThCTGhEYWVpOHpHLWhFbEI2LU9FRVotNkVTSGcyT1Y0?oc=5)
 
 2026-09-08 <span class="news-indication-tag">diabete</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnQtYXJpZ3hkUzY0YVhOcWFHM1poUU4xbUhXWUtxNk1RT2cxZXhCNC1YOTlOSXFfaHNXSUxYSjVMUjhhcHl2bzQyMExzSEZBWm5OSXZfRkxvY2E0UDRxRjJJa2RXUFFkbDY5aFNyM0lGdmppWnBwNUlHbVZBSWVscUNWeWI1REJJSnZ5Vmt1cmlNajZpR1JYYUlQUS1sanp0bE44MVllbFhoaXNScjBuRFpiV1BhZ25JNHVjOFVOTXN5NV9DOXNRS1V4TThCTGhEYWVpOHpHLWhFbEI2LU9FRVotNkVTSGcyT1Y0?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnQtYXJpZ3hkUzY0YVhOcWFHM1poUU4xbUhXWUtxNk1RT2cxZXhCNC1YOTlOSXFfaHNXSUxYSjVMUjhhcHl2bzQyMExzSEZBWm5OSXZfRkxvY2E0UDRxRjJJa2RXUFFkbDY5aFNyM0lGdmppWnBwNUlHbVZBSWVscUNWeWI1REJJSnZ5Vmt1cmlNajZpR1JYYUlQUS1sanp0bE44MVllbFhoaXNScjBuRFpiV1BhZ25JNHVjOFVOTXN5NV9DOXNRS1V4TThCTGhEYWVpOHpHLWhFbEI2LU9FRVotNkVTSGcyT1Y0?oc=5)
+
+---
+
+### [Gestationsdiabetes: Kardiometabolische Risiken langfristig erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
+
+---
+
+### [Neue Optionen für Nutzer von AID-Systemen in Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
+
+2026-09-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Bluthochdruck: Nüsse senken das Risiko](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Des traitements contre le diabète, l’asthme, l’hypertension, le cholestérol... Les médicaments les plus prescrits et les moins chers, premières victimes des pénuries et des arrêts de commercialisation, alerte MedFrance - L'Usine Nouvelle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
 
@@ -94,19 +86,11 @@ permalink: /news/erdafitinib/
 
 ---
 
-### [The simple sleep mistake that could damage and change the SHAPE of your heart - are you at risk? - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+### [5 takeaways from the new cholesterol guidelines - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
-2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
+2026-09-08 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
-
----
-
-### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
+來源：[The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
 ---
 

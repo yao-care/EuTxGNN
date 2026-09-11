@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité - Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
 
 2026-09-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
-
----
-
-### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
 
 ---
 

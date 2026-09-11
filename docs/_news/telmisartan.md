@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
-
-### [Analyse: Schlaganfall-Risiko in den Monaten nach Krebsdiagnose verdoppelt](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
-
----
-
-### [Bluthochdruck: Nüsse senken das Risiko](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
----
+## 相關新聞（9 則）
 
 ### [Des traitements contre le diabète, l’asthme, l’hypertension, le cholestérol... Les médicaments les plus prescrits et les moins chers, premières victimes des pénuries et des arrêts de commercialisation, alerte MedFrance - L'Usine Nouvelle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
 
@@ -90,15 +74,7 @@ permalink: /news/telmisartan/
 
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Stroke Unit im Krankenhaus Ludmillenstift Meppen behandelt 700 Schlaganfälle im Jahr](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
-
-2026-09-10 <span class="news-indication-tag">stroke</span>
-
-來源：[noz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 ---
 
@@ -126,11 +102,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [The simple sleep mistake that could damage and change the SHAPE of your heart - are you at risk? - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+### [Gesichtsmerkmale, die auf das Risiko eines Herzinfarkts oder Schlaganfalls hinweisen.](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTJIY2gxcU14Tmp3RC1uZkVkTEF1ZWFJSHBHR3o3LVNabmRSQzA1NVJVYmZaMFZKTFNLdXcwZG1GTHlwVmdITlF3LXJnTjI5d3QwalFTVjVQLWRsZ045VC1Vb2pTbmZjM0dtZ0hpaEI1WkNaUVFyc0xDeGY4dTNjMTl3?oc=5)
 
-2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
+2026-09-09 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWF9TOUFjcHpCT1oxcDRtMjZWazZTWmNTVWZxMFhhT1lYcHhJOHRWdW95WUZMajN6T2l0bGxfNEU2SF9MbUg3QWRtQndEbVJNV2tEQVFBLWhsN0k4WWE2OTBsNUYyczdEVjdUaEhXcm96YU9sVXY0S0h2VWlKNW14VElCcTdDb2cxdUdB?oc=5)
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTJIY2gxcU14Tmp3RC1uZkVkTEF1ZWFJSHBHR3o3LVNabmRSQzA1NVJVYmZaMFZKTFNLdXcwZG1GTHlwVmdITlF3LXJnTjI5d3QwalFTVjVQLWRsZ045VC1Vb2pTbmZjM0dtZ0hpaEI1WkNaUVFyc0xDeGY4dTNjMTl3?oc=5)
+
+---
+
+### [5 takeaways from the new cholesterol guidelines - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
+
+2026-09-08 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
 ---
 
@@ -139,14 +123,6 @@ permalink: /news/telmisartan/
 2026-09-08 <span class="news-indication-tag">stroke</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
-
----
-
-### [Gelbe Fettablagerungen am Auge könnten ein Warnsignal sein](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3dITTVHc0NkRGd5Y0tqWnVyYTBBLUZjSFNGLUZ1eWN5MDFYT3RCczZ2UWoxbjFNTEREUWZwNUFiaTJsNHd2VHA0OEtMVnZ4a0RHbm5JN2NrTEJhWl9iS0J3LXJ6TTJITFFIbXdoRGZkSE1PekExa2YwOFM2SVhRbEZ2X1lfS3VFVGt5X1RMMXRZZDNlVnFoMFpHZzFsVG1GMWoya1ViR0tRdXF2ZFlBR3N3UlM1d0VlYVRlM1I5VWRRcFU?oc=5)
-
-2026-09-08 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3dITTVHc0NkRGd5Y0tqWnVyYTBBLUZjSFNGLUZ1eWN5MDFYT3RCczZ2UWoxbjFNTEREUWZwNUFiaTJsNHd2VHA0OEtMVnZ4a0RHbm5JN2NrTEJhWl9iS0J3LXJ6TTJITFFIbXdoRGZkSE1PekExa2YwOFM2SVhRbEZ2X1lfS3VFVGt5X1RMMXRZZDNlVnFoMFpHZzFsVG1GMWoya1ViR0tRdXF2ZFlBR3N3UlM1d0VlYVRlM1I5VWRRcFU?oc=5)
 
 ---
 

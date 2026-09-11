@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [¿Cambios en el ADN sanguíneo y colitis ulcerosa?](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2JRV0lKaVFndWV4N1VPYjdUUEdwMWtSanVzNWNYUGtKR2lsTHFUUFJtYkgtcVQ2SFhMclVsNkNTS0QzZk9nRV9BUFJXYU8xRTFTWlo0cm5YNjVFUEhfZ3h1RDg2N0VCSFBhX3l1X3ZkUWREeUQtdVdoYy1iNU05T3JtN1hVYmhzckp2TWFMbTN6ak44cHNnN0gzaWxuU05mRlFmWEt2bEkyS05RcVpOenl6eHVIRFJUc0tUNHBsVjd4c1J1c25rMHhaRWc0bWVrSEZLbDU5S0V0c28?oc=5)
 
 2026-09-11 <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[Univadis](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2JRV0lKaVFndWV4N1VPYjdUUEdwMWtSanVzNWNYUGtKR2lsTHFUUFJtYkgtcVQ2SFhMclVsNkNTS0QzZk9nRV9BUFJXYU8xRTFTWlo0cm5YNjVFUEhfZ3h1RDg2N0VCSFBhX3l1X3ZkUWREeUQtdVdoYy1iNU05T3JtN1hVYmhzckp2TWFMbTN6ak44cHNnN0gzaWxuU05mRlFmWEt2bEkyS05RcVpOenl6eHVIRFJUc0tUNHBsVjd4c1J1c25rMHhaRWc0bWVrSEZLbDU5S0V0c28?oc=5)
-
----
-
-### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
 
 ---
 

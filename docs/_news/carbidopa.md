@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Nurse said dementia patient 'didn't need birthday cake'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSWJUY1l4WDVKLW1ESFU5RzNZeXVhSHM2RzJTZkhITmJ2Yi15Q1JyeHNzTjlCbjZOTUZnbXpxY0NmWWhNSHpKY3RUNFdfcE40NkRacHRfUk9ZempN?oc=5)
-
-2026-09-08 <span class="news-indication-tag">dementia</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSWJUY1l4WDVKLW1ESFU5RzNZeXVhSHM2RzJTZkhITmJ2Yi15Q1JyeHNzTjlCbjZOTUZnbXpxY0NmWWhNSHpKY3RUNFdfcE40NkRacHRfUk9ZempN?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
