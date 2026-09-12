@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabète（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabète（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabète（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,14 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（11 則）
 
+### [Fettleber: Ketogene Ernährung senkt Leberfett stärker als Mittelmeer-Diät](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
+
+2026-09-12
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
+
+---
+
 ### [Diabète : ces 5 traitements très utilisés vont bientôt disparaître en France](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
 
 2026-09-11
@@ -124,11 +132,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Ketogene Ernährung verbessert Leberstoffwechsel bei gleicher Gewichtsabnahme stärker – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+### [Investigan la harina de algarroba como posible aliada frente a la prediabetes - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
 
 2026-09-11
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
 
 ---
 
@@ -193,14 +201,6 @@ permalink: /news/diabetes-mellitus/
 2026-09-08
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
-
----
-
-### [Neue Optionen für Nutzer von AID-Systemen in Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
-
-2026-09-07
-
-來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
 
 ---
 

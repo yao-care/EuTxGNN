@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/perampanel/
 <li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
 <li>partial motor epilepsy（99.4%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
-<li class="indication-matched">epilepsy（99.0%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（99.0%）</li>
 <li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
 <li>trigeminal nerve neoplasm（98.7%）</li>
 <li>trigeminal neuralgia（97.2%）</li>
@@ -52,15 +52,9 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Un nuevo estudio vincula el alzhéimer con un mayor riesgo de epilepsia en personas con síndrome de Down](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTHJKSXNBUURWaS1GTlZrR2RSd1cyS19EXzNnd2xiSlVreDFHWW5EeXpTd0V5Vk1SYVdWZUhreU05TzdjWHVkTUVFME1JcTZKa1dRcDFYejBOcl9sUW9POW1BWnRfeFBTNVY3bW13NVFoRG9rWVllbU91QU8yV1NmQUV1d1Y2U0R1Q1o5eVN1ako4X1JMbVN1WjF1anFEbTFqMmg2YlVON2d3cWVlanFEUGJ0X0JNeDZQX1VfczBlVzRBb0FQQl9zUHRoenpXWHZqalRiVFNYX2FQQTcz0gHiAUFVX3lxTE1WdS1lQTJKNmktRXhLbGhyNlhtREtaZHdBa2JfNVdfd0FCOUZhcWlhSXZkem5OamNobmdxMURDTnNxZVVLTkFNck5DeGxYZVp4RlFkRWtsZzZxQmlPbXVoVFgxMWtTZ25hdThXMzZEUmFILTJOR0VEQnhGMHMyZkFzcFNackZPbF90TUowQ0g2TnUyRW81aVRJRmhYLVpVeXZ1MnB1M0xueWhqVVR2SjJZUVpyU1ZYMHB4TXVpdE52SUVoYkxiWVE0cVdxRExqdXdKY0VaWlkzQTRpRlMxQjNRdkE?oc=5)
-
-2026-09-10 <span class="news-indication-tag">epilepsia</span>
-
-來源：[vozpopuli.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTHJKSXNBUURWaS1GTlZrR2RSd1cyS19EXzNnd2xiSlVreDFHWW5EeXpTd0V5Vk1SYVdWZUhreU05TzdjWHVkTUVFME1JcTZKa1dRcDFYejBOcl9sUW9POW1BWnRfeFBTNVY3bW13NVFoRG9rWVllbU91QU8yV1NmQUV1d1Y2U0R1Q1o5eVN1ako4X1JMbVN1WjF1anFEbTFqMmg2YlVON2d3cWVlanFEUGJ0X0JNeDZQX1VfczBlVzRBb0FQQl9zUHRoenpXWHZqalRiVFNYX2FQQTcz0gHiAUFVX3lxTE1WdS1lQTJKNmktRXhLbGhyNlhtREtaZHdBa2JfNVdfd0FCOUZhcWlhSXZkem5OamNobmdxMURDTnNxZVVLTkFNck5DeGxYZVp4RlFkRWtsZzZxQmlPbXVoVFgxMWtTZ25hdThXMzZEUmFILTJOR0VEQnhGMHMyZkFzcFNackZPbF90TUowQ0g2TnUyRW81aVRJRmhYLVpVeXZ1MnB1M0xueWhqVVR2SjJZUVpyU1ZYMHB4TXVpdE52SUVoYkxiWVE0cVdxRExqdXdKY0VaWlkzQTRpRlMxQjNRdkE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

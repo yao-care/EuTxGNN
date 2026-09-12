@@ -54,19 +54,19 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（14 則）
 
-### [Diabète : ces 5 traitements très utilisés vont bientôt disparaître en France](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
+### [Fettleber: Ketogene Ernährung senkt Leberfett stärker als Mittelmeer-Diät](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabète</span>
+2026-09-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
 
 ---
 
-### [Ketogene Ernährung verbessert Leberstoffwechsel bei gleicher Gewichtsabnahme stärker – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+### [Diabète : ces 5 traitements très utilisés vont bientôt disparaître en France](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-11 <span class="news-drug-tag">Insulin Aspart</span> <span class="news-drug-tag">Insulin Detemir</span> <span class="news-indication-tag">diabète</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/semaglutide/
 2026-09-11 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUx5Ri1KLTBPTmpGQ0d5VHkwV3JrcHc0TndzS1dQTjBPN2NiRDVNV1hKYWM5Q21WMnlocUxEdFUyWHh0ejI0dm5VQ1BQaG9ad0wtdnZYWFpUM19tWUd1UlA1di0zaTN0dnpnZ2JOdTh4NExKZXNjVDlQTjM2YUd2MUxzRl9wTVFZUVA1cFJTQ2xDOTlDWVdBOW8taG9IdFI5V1JDbg?oc=5)
+
+---
+
+### [Investigan la harina de algarroba como posible aliada frente a la prediabetes - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
+
+2026-09-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
 
 ---
 
@@ -102,11 +110,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité - Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
 
 2026-09-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[actu.orange.fr](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
 
 ---
 
@@ -120,7 +128,7 @@ permalink: /news/semaglutide/
 
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
@@ -155,14 +163,6 @@ permalink: /news/semaglutide/
 2026-09-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
-
----
-
-### [Neue Optionen für Nutzer von AID-Systemen in Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
 
 ---
 

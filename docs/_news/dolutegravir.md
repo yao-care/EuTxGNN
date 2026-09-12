@@ -54,11 +54,11 @@ permalink: /news/dolutegravir/
 
 ## 相關新聞（1 則）
 
-### [Epatite A, dieci casi tra Livorno e Pisa. L’Asl: "Possibile cluster in uno stabilimento balneare"](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEJUY01yX3JJUE1WVWtDdHl1TVdiVGlubE91ZmRhY0N2QmRQU0M0QkVzY2w3WGNiMmxKTFBOSlJ0al9pSWRUdnlRS05tYU5FZkU4MHNiSDl0VXYzckhsZ052OVlQUEhabmtpMklyc20zMjNzUUlSS1NZMUVEbUpwN3Q4ZzNrM2V3MmpheGlCSktiUQ?oc=5)
+### [Dieci casi di epatite A tra Pisa e Livorno: possibile focolaio in uno stabilimento balneare del litorale](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
 
-2026-09-11 <span class="news-indication-tag">epatite</span>
+2026-09-12 <span class="news-indication-tag">epatite</span>
 
-來源：[LivornoToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEJUY01yX3JJUE1WVWtDdHl1TVdiVGlubE91ZmRhY0N2QmRQU0M0QkVzY2w3WGNiMmxKTFBOSlJ0al9pSWRUdnlRS05tYU5FZkU4MHNiSDl0VXYzckhsZ052OVlQUEhabmtpMklyc20zMjNzUUlSS1NZMUVEbUpwN3Q4ZzNrM2V3MmpheGlCSktiUQ?oc=5)
+來源：[pisatoday.it](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
 
 ---
 

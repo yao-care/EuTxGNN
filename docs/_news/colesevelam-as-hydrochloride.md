@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
+
+### [Fettleber: Ketogene Ernährung senkt Leberfett stärker als Mittelmeer-Diät](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
+
+2026-09-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
+
+---
 
 ### [Diabète : ces 5 traitements très utilisés vont bientôt disparaître en France](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabète</span>
+2026-09-11 <span class="news-drug-tag">Insulin Aspart</span> <span class="news-drug-tag">Insulin Detemir</span> <span class="news-indication-tag">diabète</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
 
 ---
 
-### [Ketogene Ernährung verbessert Leberstoffwechsel bei gleicher Gewichtsabnahme stärker – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+### [Investigan la harina de algarroba como posible aliada frente a la prediabetes - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-11 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
 
 ---
 
@@ -102,9 +110,17 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[fuldaerzeitung.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
+
+---
+
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
@@ -134,19 +150,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [5 takeaways from the new cholesterol guidelines - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
+
+2026-09-08 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
+
+---
+
 ### [Gestationsdiabetes: Kardiometabolische Risiken langfristig erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
 
 2026-09-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
-
----
-
-### [Neue Optionen für Nutzer von AID-Systemen in Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart failure（heart disease） 相關新聞"
+title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart failure（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart failure（heart disease） 相關新聞
+# Herzerkrankung（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
-<strong>heart failure（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,13 +85,29 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
+
+2026-09-11
+
+來源：[fuldaerzeitung.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
+
+---
 
 ### [Even low light during sleep may damage your heart](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
 
 2026-09-09
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
+
+---
+
+### [5 takeaways from the new cholesterol guidelines - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
+
+2026-09-08
+
+來源：[The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
 ---
 

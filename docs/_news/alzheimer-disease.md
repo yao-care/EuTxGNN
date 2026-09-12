@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "alzheimer disease 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "alzheimer disease 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# alzheimer disease 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="alzheimer disease 有什麼相關新聞？">
-<strong>alzheimer disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「alzheimer disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Deep-sleep loss linked to Alzheimer's-related protein buildup in new study - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVFEUHpmTkR3Q2pINDNzcl9DLUVVZ1RuV3RjVVVBa3ZEOFM3UWp4T0NVU0dhc000cFRJMV9Vb2ZOZEdSTVl6YW9LZmI0a0VQN1ZPamZsWG03cEp1SGFkYmFzU2FXRmllTGgtS0hHUHhoV0g5cXA5U3poN2h3dFp4cTJOczQ?oc=5)
+### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
 2026-09-11
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVFEUHpmTkR3Q2pINDNzcl9DLUVVZ1RuV3RjVVVBa3ZEOFM3UWp4T0NVU0dhc000cFRJMV9Vb2ZOZEdSTVl6YW9LZmI0a0VQN1ZPamZsWG03cEp1SGFkYmFzU2FXRmllTGgtS0hHUHhoV0g5cXA5U3poN2h3dFp4cTJOczQ?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
+
+---
+
+### [Being a carer 'nearly broke me' but love 'carried me through'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
+
+2026-09-07
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
 
 ---
 

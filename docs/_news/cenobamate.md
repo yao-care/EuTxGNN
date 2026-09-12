@@ -14,7 +14,7 @@ permalink: /news/cenobamate/
 ---
 
 <p class="key-answer" data-question="Cenobamate 有什麼相關新聞？">
-<strong>Cenobamate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cenobamate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,22 +45,16 @@ permalink: /news/cenobamate/
 <li>epilepsy with generalized tonic-clonic seizures（94.2%）</li>
 <li>partial motor epilepsy（93.4%）</li>
 <li>trigeminal nerve neoplasm（91.2%）</li>
-<li class="indication-matched">epilepsy（90.7%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（90.7%）</li>
 <li>restless legs syndrome（87.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Un nuevo estudio vincula el alzhéimer con un mayor riesgo de epilepsia en personas con síndrome de Down](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTHJKSXNBUURWaS1GTlZrR2RSd1cyS19EXzNnd2xiSlVreDFHWW5EeXpTd0V5Vk1SYVdWZUhreU05TzdjWHVkTUVFME1JcTZKa1dRcDFYejBOcl9sUW9POW1BWnRfeFBTNVY3bW13NVFoRG9rWVllbU91QU8yV1NmQUV1d1Y2U0R1Q1o5eVN1ako4X1JMbVN1WjF1anFEbTFqMmg2YlVON2d3cWVlanFEUGJ0X0JNeDZQX1VfczBlVzRBb0FQQl9zUHRoenpXWHZqalRiVFNYX2FQQTcz0gHiAUFVX3lxTE1WdS1lQTJKNmktRXhLbGhyNlhtREtaZHdBa2JfNVdfd0FCOUZhcWlhSXZkem5OamNobmdxMURDTnNxZVVLTkFNck5DeGxYZVp4RlFkRWtsZzZxQmlPbXVoVFgxMWtTZ25hdThXMzZEUmFILTJOR0VEQnhGMHMyZkFzcFNackZPbF90TUowQ0g2TnUyRW81aVRJRmhYLVpVeXZ1MnB1M0xueWhqVVR2SjJZUVpyU1ZYMHB4TXVpdE52SUVoYkxiWVE0cVdxRExqdXdKY0VaWlkzQTRpRlMxQjNRdkE?oc=5)
-
-2026-09-10 <span class="news-indication-tag">epilepsia</span>
-
-來源：[vozpopuli.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTHJKSXNBUURWaS1GTlZrR2RSd1cyS19EXzNnd2xiSlVreDFHWW5EeXpTd0V5Vk1SYVdWZUhreU05TzdjWHVkTUVFME1JcTZKa1dRcDFYejBOcl9sUW9POW1BWnRfeFBTNVY3bW13NVFoRG9rWVllbU91QU8yV1NmQUV1d1Y2U0R1Q1o5eVN1ako4X1JMbVN1WjF1anFEbTFqMmg2YlVON2d3cWVlanFEUGJ0X0JNeDZQX1VfczBlVzRBb0FQQl9zUHRoenpXWHZqalRiVFNYX2FQQTcz0gHiAUFVX3lxTE1WdS1lQTJKNmktRXhLbGhyNlhtREtaZHdBa2JfNVdfd0FCOUZhcWlhSXZkem5OamNobmdxMURDTnNxZVVLTkFNck5DeGxYZVp4RlFkRWtsZzZxQmlPbXVoVFgxMWtTZ25hdThXMzZEUmFILTJOR0VEQnhGMHMyZkFzcFNackZPbF90TUowQ0g2TnUyRW81aVRJRmhYLVpVeXZ1MnB1M0xueWhqVVR2SjJZUVpyU1ZYMHB4TXVpdE52SUVoYkxiWVE0cVdxRExqdXdKY0VaWlkzQTRpRlMxQjNRdkE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

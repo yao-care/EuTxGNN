@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="Idebenone 有什麼相關新聞？">
-<strong>Idebenone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idebenone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/idebenone/
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Infographies. Hypertension : qui est le plus touché dans le Grand Est et en Bourgogne-Franche-Comté ?](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
-
-2026-09-11 <span class="news-indication-tag">hypertension</span>
-
-來源：[estrepublicain.fr](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
-
----
-
-### [Hypertension artérielle : quelle quantité de sport pratiquer chaque semaine pour la réduire ? - Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
+### [Hypertension artérielle : quelle quantité de sport pratiquer chaque semaine pour la réduire ?](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
 
 2026-09-11 <span class="news-indication-tag">hypertension</span>
 
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
+來源：[charentelibre.fr](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
 
 ---
 
@@ -86,19 +78,19 @@ permalink: /news/idebenone/
 
 ---
 
+### [Infographies. Hypertension : qui est le plus touché dans le Grand Est et en Bourgogne-Franche-Comté ? - L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
+
+2026-09-11 <span class="news-indication-tag">hypertension</span>
+
+來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
+
+---
+
 ### [Apnée du sommeil : quelle est cette première révolutionnaire au CHU de Montpellier qui permet de se passer de masque - Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
 
 2026-09-10 <span class="news-indication-tag">hypertension</span>
 
 來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
-
----
-
-### ['Unfortunately you wouldn't know': Pharmacist issues 'silent killer' warning - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
-
-2026-09-10 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
 
 ---
 

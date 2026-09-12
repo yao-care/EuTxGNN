@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,29 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 2026-09-10
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Stroke Unit im Krankenhaus Ludmillenstift Meppen behandelt 700 Schlaganfälle im Jahr](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
-
-2026-09-10
-
-來源：[noz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
-
----
-
-### ['A stroke completely wiped out my ability to speak'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGwwWjV2WF8zQ0FIMFp4YzZYbko4Z0tXTjB6QUNsTG9Rd1p1cEFxOExmQUhKZ0xUenIteG90V09YamRRV054NnM2bTRieGcyUjVVUXl5VjREdklu?oc=5)
-
-2026-09-10
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGwwWjV2WF8zQ0FIMFp4YzZYbko4Z0tXTjB6QUNsTG9Rd1p1cEFxOExmQUhKZ0xUenIteG90V09YamRRV054NnM2bTRieGcyUjVVUXl5VjREdklu?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Stroke Unit im Krankenhaus Ludmillenstift Meppen behandelt 700 Schlaganfälle im Jahr](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
-
-2026-09-10 <span class="news-indication-tag">stroke</span>
-
-來源：[noz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
-
----
-
-### ['A stroke completely wiped out my ability to speak'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGwwWjV2WF8zQ0FIMFp4YzZYbko4Z0tXTjB6QUNsTG9Rd1p1cEFxOExmQUhKZ0xUenIteG90V09YamRRV054NnM2bTRieGcyUjVVUXl5VjREdklu?oc=5)
-
-2026-09-10 <span class="news-indication-tag">stroke</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGwwWjV2WF8zQ0FIMFp4YzZYbko4Z0tXTjB6QUNsTG9Rd1p1cEFxOExmQUhKZ0xUenIteG90V09YamRRV054NnM2bTRieGcyUjVVUXl5VjREdklu?oc=5)
 
 ---
 

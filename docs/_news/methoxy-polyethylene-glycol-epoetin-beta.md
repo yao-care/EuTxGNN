@@ -14,7 +14,7 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 ---
 
 <p class="key-answer" data-question="Methoxy Polyethylene Glycol-Epoetin Beta 有什麼相關新聞？">
-<strong>Methoxy Polyethylene Glycol-Epoetin Beta</strong> 目前有 <strong>43 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methoxy Polyethylene Glycol-Epoetin Beta</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 <p><a href="{{ '/drugs/methoxy-polyethylene-glycol-epoetin-beta/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（43 則）
-
-### [Krebs: Dieses kaum bekannte Organ könnte bei der Therapie entscheidend sein](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
-
-2026-09-12 <span class="news-indication-tag">Krebs</span>
-
-來源：[welt.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
-
----
+## 相關新聞（36 則）
 
 ### [Tumore del pancreas. Aiom: “Daraxonrasib non ancora disponibile in Italia. Avviare subito l’uso compassionevole” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
 
 2026-09-12 <span class="news-indication-tag">tumor</span>
 
 來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
+
+---
+
+### [Krebs: Dieses kaum bekannte Organ könnte bei der Therapie entscheidend sein](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
+
+2026-09-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
+
+---
+
+### [Fettleber: Ketogene Ernährung senkt Leberfett stärker als Mittelmeer-Diät](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
+
+2026-09-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
 
 ---
 
@@ -86,9 +94,17 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
+### [Bevande calde e tumore all’esofago, cosa dice lo studio e perché gli esperti parlano di “speculazioni eccessive”](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDBHNk43YkM2amJIUVdZOGhmUVdWRFVIalUzZG9FMTNRRXRULXBhSTlSVVRwOFg0YjZNS0RpQ1lTYkcwcEFaeG81djNNaEM5NGRuUllQbTRPR0JsUFV1THoxVE9xZ08tbXhWMG9maGVEblAweGIzaS1YcjZxYUNQUXRsRjkyWURyWk1xUHp3N2RGNk1TSzgzSnhJT0dIYV9Udm9kMUpKTGw4RmtFaVAwUm44ank2OHI4NFRvVGZ1MXJKV0tOOGk3OFVpdE9TWFFyQUZ2c1NERVpNLWJqQlJZcDNyME5LZWs?oc=5)
+
+2026-09-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDBHNk43YkM2amJIUVdZOGhmUVdWRFVIalUzZG9FMTNRRXRULXBhSTlSVVRwOFg0YjZNS0RpQ1lTYkcwcEFaeG81djNNaEM5NGRuUllQbTRPR0JsUFV1THoxVE9xZ08tbXhWMG9maGVEblAweGIzaS1YcjZxYUNQUXRsRjkyWURyWk1xUHp3N2RGNk1TSzgzSnhJT0dIYV9Udm9kMUpKTGw4RmtFaVAwUm44ank2OHI4NFRvVGZ1MXJKV0tOOGk3OFVpdE9TWFFyQUZ2c1NERVpNLWJqQlJZcDNyME5LZWs?oc=5)
+
+---
+
 ### [Diabète : ces 5 traitements très utilisés vont bientôt disparaître en France](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabète</span>
+2026-09-11 <span class="news-drug-tag">Insulin Aspart</span> <span class="news-drug-tag">Insulin Detemir</span> <span class="news-indication-tag">diabète</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
 
@@ -102,11 +118,11 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [Ketogene Ernährung verbessert Leberstoffwechsel bei gleicher Gewichtsabnahme stärker – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+### [Investigan la harina de algarroba como posible aliada frente a la prediabetes - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-11 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWEx6S2VSY3FtTmhDbEVHQV9ENEo0Q0ZZVFM3NnJtN3p0Y1pWQjRSdGdXVlEwWE1tc1FCZmREM2RpNENpOEMwSWhkeWk1T0I5THJpZkRtYzJJVk1XWV8wQzhyZjRObXBkMWFNbDlyNEJRSTRmSmZCSDJYR1dCb0hDYm4ybkMxeFhoQ0U5NmtKNGZJd00tdU9pWm5vUkRfSlZlU1ZRTzd0d0JsNWFIamdaWTZpZ0tCbkJEQ2M1QXZJVWpMOTR2Y2RnRHpBU2Jqd3pQWnpSbEo4bFdlSzRSaFh2WnpqRlRYMnJR?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
 
 ---
 
@@ -139,14 +155,6 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 2026-09-11 <span class="news-indication-tag">diabete</span>
 
 來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
-
----
-
-### [Batteri come farmaci contro il cancro: l'idea del microbiota intestinale geneticamente modificato per combattere il tumore al pancreas - Corriere della Sera](https://news.google.com/rss/articles/CBMi0AJBVV95cUxQYm4zZ2dIQ3c2WVhqM0JUNnZRSEtSZUlMZkJVRWZTTFE3aEpaZHBJUWZ1NFdCUk5XWlgtVUJyNng5Yy1ISks5U2lZLU54YVlfTjB1OHFaMjFCVVFGMU9VMFB1VzhJODd6NzYtbFNNdXBZSXowd0JWbWF6U0Y2aW5adEF5LUpXVThRRkg4VTB3MTYzcEdCRFRqb1ZHRjIyeVZJOUNlR0l0R1NlaW03Mk5fb0F6amlWbFdGMi1HcXpxYTdQVGtmMXpzSTJ3TDdmTm16X2R5aW01NDRwWFBKQ2xiSUVOT1ljVm44c1ZBb21CZlJOd25nMkw1MnpndXUycEs1NjhRUlFVODY4Y0VXbkdVNW9NSEpDVHZHSF9DLXJVRkFDVXNxV2dKZmtaVTdBMzZvWS1RZHRMQ0pZWml5Z2tZWmw2TTcxZ0dObFRLbkdZX2LSAdYCQVVfeXFMTndUQXo0T1Y4bmNITmJZQVBCTkN0R3hoNHk4X1VyQXI0QlpUeG8waE1OTkttaFZBcHBtbm50ZGNKNHo4SDlNaklKaWQ1WDFHb3lsWVF4Q3JjUmJIbUtVZzVrSFRkWHlVVEExZFdJTW5ic0xaSUcyQXk1VGM5cmpveHh5SFJBSF80WEZvejRjTmhrM01PLVp0S0QtQ0lQalFheHNfTFhHSE9POWFvbXhEQ3N3TjR4aFJqNGRBalJFNmhWeXVvOXVrdHNDaW9PVTdnTUlwbmZRQ0djTW12X3hrQkFNQ2NwRFl6V2hrQ2VtTnNoVEZ1N3BjUWl5c3JNeHdmLVBKNjd3NjRxN0tHNVN0djVqb0toemJ6QkpnRDV2Ml81NklmeTJjNllScTUzcGFWbXhjUTJkTlFIX21EbUVUeVV1WUdTZ185dm1MWExUa2ViTWZpMHR3?oc=5)
-
-2026-09-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi0AJBVV95cUxQYm4zZ2dIQ3c2WVhqM0JUNnZRSEtSZUlMZkJVRWZTTFE3aEpaZHBJUWZ1NFdCUk5XWlgtVUJyNng5Yy1ISks5U2lZLU54YVlfTjB1OHFaMjFCVVFGMU9VMFB1VzhJODd6NzYtbFNNdXBZSXowd0JWbWF6U0Y2aW5adEF5LUpXVThRRkg4VTB3MTYzcEdCRFRqb1ZHRjIyeVZJOUNlR0l0R1NlaW03Mk5fb0F6amlWbFdGMi1HcXpxYTdQVGtmMXpzSTJ3TDdmTm16X2R5aW01NDRwWFBKQ2xiSUVOT1ljVm44c1ZBb21CZlJOd25nMkw1MnpndXUycEs1NjhRUlFVODY4Y0VXbkdVNW9NSEpDVHZHSF9DLXJVRkFDVXNxV2dKZmtaVTdBMzZvWS1RZHRMQ0pZWml5Z2tZWmw2TTcxZ0dObFRLbkdZX2LSAdYCQVVfeXFMTndUQXo0T1Y4bmNITmJZQVBCTkN0R3hoNHk4X1VyQXI0QlpUeG8waE1OTkttaFZBcHBtbm50ZGNKNHo4SDlNaklKaWQ1WDFHb3lsWVF4Q3JjUmJIbUtVZzVrSFRkWHlVVEExZFdJTW5ic0xaSUcyQXk1VGM5cmpveHh5SFJBSF80WEZvejRjTmhrM01PLVp0S0QtQ0lQalFheHNfTFhHSE9POWFvbXhEQ3N3TjR4aFJqNGRBalJFNmhWeXVvOXVrdHNDaW9PVTdnTUlwbmZRQ0djTW12X3hrQkFNQ2NwRFl6V2hrQ2VtTnNoVEZ1N3BjUWl5c3JNeHdmLVBKNjd3NjRxN0tHNVN0djVqb0toemJ6QkpnRDV2Ml81NklmeTJjNllScTUzcGFWbXhjUTJkTlFIX21EbUVUeVV1WUdTZ185dm1MWExUa2ViTWZpMHR3?oc=5)
 
 ---
 
@@ -186,13 +194,21 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 2026-09-11 <span class="news-indication-tag">tumor</span>
 
-來源：[infosalus.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1BZeS1PZ2JHeURFY1ZwT1lqeDBZQUx6Z3pRSzA0WmRFLUg0b0VCMWsxUC1aWnJmMkt0WHF5MW5HSU1LVDl0ZXEtck9BdktjWUxVbkFxWHQ3YlRfVFFESGxVMEV3RDNfSzdRX1ZLZW9wS0xlbVQ3UjJHOHpZZ2RZVDVDLWdXRE9uOUFlemVlUlBzaTI1QWNXbEF1eUVhREtnVU9xazd6aWJpN3VkQV83dnNhRVNZY05RN2tSMlZqZ2hXWjhOc0dOZGhSN3R5NUFOTGw5Y0RDMzI0M3puZkt2RmxpOA?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1BZeS1PZ2JHeURFY1ZwT1lqeDBZQUx6Z3pRSzA0WmRFLUg0b0VCMWsxUC1aWnJmMkt0WHF5MW5HSU1LVDl0ZXEtck9BdktjWUxVbkFxWHQ3YlRfVFFESGxVMEV3RDNfSzdRX1ZLZW9wS0xlbVQ3UjJHOHpZZ2RZVDVDLWdXRE9uOUFlemVlUlBzaTI1QWNXbEF1eUVhREtnVU9xazd6aWJpN3VkQV83dnNhRVNZY05RN2tSMlZqZ2hXWjhOc0dOZGhSN3R5NUFOTGw5Y0RDMzI0M3puZkt2RmxpOA?oc=5)
+
+---
+
+### [Científicos del CNIO identifican ocho fallos celulares que explican el 85% de los daños en el ADN de los cánceres de próstata](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZmRYbWI1RWpNdmNOaFB5SGFKNXV6VFJ0TUhsZnZyMXZtTVZHcmFVdm9sbzdkX25tOXNMUFNyNW81SThkRnRoOUF2ZXRpQnhjYlBLcjlOWnU0djVJcmFKMGhxMHNoX1g1N1pvMUFCMVdJUUhIOWM4YUVMaklPVElmY2ItaUtnNmJQd0ZzZ0dFQ29NZ3NPMVJ5bzZ2ZE9DYkhaeHhEaFZKQk8zWEdYUDY1RGV0dzlVemtYT3pQLXZQcmpPMDFva0hDYkRwNzZBUmd1M0tWOXNhMExrT2JnNmE3dnpWMXQ0MUhRV3hJdDlSN181czJVRWVPZdIB_gFBVV95cUxQT3lkQjVER3AxNjh5YjFIQlk0RFd0NXQ5amdQRks2T1hpOExkay1JZmE1VkFMTWV6VUItRWlVM2p6NmRDVzFWX3B4dldZTEEyRXVCajNTRURTMHV3M1MzVko4SlpvTXplRkNXMG5icFUxbW1YekFBYjNUbTRCeFVTVWpmdEoxaU9YRUw2T3ZOX1Q5Sm9nUkoyVDJmSFhyTDJqVjFMYTFHZEJpcEJEMmZfZkRCUHlRZ24xdFk3YjU3bDhfY0h2ekNqSjl1eHk3VGdmaXR5ck01WkFzT0ZaZzFMRG5Bdy14ZlRNb25xOE9VVkliM2VmQWtZUElGTzZ0UQ?oc=5)
+
+2026-09-11 <span class="news-indication-tag">tumor</span>
+
+來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZmRYbWI1RWpNdmNOaFB5SGFKNXV6VFJ0TUhsZnZyMXZtTVZHcmFVdm9sbzdkX25tOXNMUFNyNW81SThkRnRoOUF2ZXRpQnhjYlBLcjlOWnU0djVJcmFKMGhxMHNoX1g1N1pvMUFCMVdJUUhIOWM4YUVMaklPVElmY2ItaUtnNmJQd0ZzZ0dFQ29NZ3NPMVJ5bzZ2ZE9DYkhaeHhEaFZKQk8zWEdYUDY1RGV0dzlVemtYT3pQLXZQcmpPMDFva0hDYkRwNzZBUmd1M0tWOXNhMExrT2JnNmE3dnpWMXQ0MUhRV3hJdDlSN181czJVRWVPZdIB_gFBVV95cUxQT3lkQjVER3AxNjh5YjFIQlk0RFd0NXQ5amdQRks2T1hpOExkay1JZmE1VkFMTWV6VUItRWlVM2p6NmRDVzFWX3B4dldZTEEyRXVCajNTRURTMHV3M1MzVko4SlpvTXplRkNXMG5icFUxbW1YekFBYjNUbTRCeFVTVWpmdEoxaU9YRUw2T3ZOX1Q5Sm9nUkoyVDJmSFhyTDJqVjFMYTFHZEJpcEJEMmZfZkRCUHlRZ24xdFk3YjU3bDhfY0h2ekNqSjl1eHk3VGdmaXR5ck01WkFzT0ZaZzFMRG5Bdy14ZlRNb25xOE9VVkliM2VmQWtZUElGTzZ0UQ?oc=5)
 
 ---
 
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
@@ -246,14 +262,6 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [El análisis del ADN de 959 tumores desvela las claves biológicas de la propagación del cáncer de próstata - Gaceta Médica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUJQSFRvQnVKYXRkOXBPdVFPREZTcVJaNU83NVlpQ2Rwa19HOGtPTEo1ekFpanJfdHNKMXlUdWUxU1pQTGFSMmRCTGE5Q2dVVS02aGsxV3VHRk5LcTlTUkdTNUpZc0l5WjB1MW9wNmIzQWxJcFZIVEY5YUU0a0lPeE8wRFlURjlQUTQyT3RmZDhlMHJRWHFwOHZIV0U4V3FST21FUU5UeUdYZw?oc=5)
-
-2026-09-10 <span class="news-indication-tag">tumor</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUJQSFRvQnVKYXRkOXBPdVFPREZTcVJaNU83NVlpQ2Rwa19HOGtPTEo1ekFpanJfdHNKMXlUdWUxU1pQTGFSMmRCTGE5Q2dVVS02aGsxV3VHRk5LcTlTUkdTNUpZc0l5WjB1MW9wNmIzQWxJcFZIVEY5YUU0a0lPeE8wRFlURjlQUTQyT3RmZDhlMHJRWHFwOHZIV0U4V3FST21FUU5UeUdYZw?oc=5)
-
----
-
 ### [Tumori ematologici, la cura passa anche dalla tavola - la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxOaE55ZUF4amdjbUY4aXYtS3ZzR1gyamt4OVlUWkNkR1hDSjFlc2J1MmoxcWxJVzlwdk5UazMzTHJLczFiQzFwXzAwNkgzb1E2VkVESUY2RlB3OGZ1emVMb3hsYUtPVW9QRl84UjNVdHRmTzVGZUxvQUxaNGxaMjFfVW9ob25QYzdtd25ZMVZuVllPQXJtenIybnM4a2hEbEZPeXJuaS1WenRQenUzRTlWYkducjJzZ3FZeWc?oc=5)
 
 2026-09-10 <span class="news-indication-tag">tumor</span>
@@ -262,11 +270,11 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [Krebstherapie: Licht aktiviert Wirkstoffe gezielt am Tumor](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeS0wQ3pVUmVfbmZYSDlLVU5Md29YREFmSWF5ZHRob3I1QzBIOHdNRENyUk9pOGpQWEk0b0RnaVU1emEwdVFFRlFWeXE1QzdCME5ULWdoSEpJVXYwaGNxTXB3QWNLZVdfZXZ2WTU3U1lPdURncGgxRlp3YVlHUWhaa29PcnIzQkw4NFdzZDh0Ti1IalQ4NjU5aU9ac1RmTFUtTi1VbFI3NnFqZw?oc=5)
+### [Licht aktiviert Chemotherapie gezielt am Tumor - JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMigAFBVV95cUxPaHoyMUgxVVc0cmpxZkdVSl8yREpwQmRqYjlKMGgzb0VlSFFyaDhrOHF2ZVFDZmcxODdLNXJoOWdHVVJYbmZvcEh1Z2hfWjVNU2ZwcDRpMGpQRlJ6U0t4QXZzb0VKVFBkaks2WV9TUWNfc0tobVFLZWc4X25TdTB2bw?oc=5)
 
 2026-09-10 <span class="news-indication-tag">tumor</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeS0wQ3pVUmVfbmZYSDlLVU5Md29YREFmSWF5ZHRob3I1QzBIOHdNRENyUk9pOGpQWEk0b0RnaVU1emEwdVFFRlFWeXE1QzdCME5ULWdoSEpJVXYwaGNxTXB3QWNLZVdfZXZ2WTU3U1lPdURncGgxRlp3YVlHUWhaa29PcnIzQkw4NFdzZDh0Ti1IalQ4NjU5aU9ac1RmTFUtTi1VbFI3NnFqZw?oc=5)
+來源：[JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMigAFBVV95cUxPaHoyMUgxVVc0cmpxZkdVSl8yREpwQmRqYjlKMGgzb0VlSFFyaDhrOHF2ZVFDZmcxODdLNXJoOWdHVVJYbmZvcEh1Z2hfWjVNU2ZwcDRpMGpQRlJ6U0t4QXZzb0VKVFBkaks2WV9TUWNfc0tobVFLZWc4X25TdTB2bw?oc=5)
 
 ---
 
@@ -283,14 +291,6 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 2026-09-09 <span class="news-indication-tag">cancer</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WVRCQnZfZDUxSkU2aGxHTnZ0c2JfamVGNG03emxuLVZuMmFqYzZkWTNSRzNsS3YxSGRwUklfeXA5c2YydzduMDItVlVBbmNHYTRPdXlxdFMzb05YSGF3?oc=5)
-
----
-
-### [AI model predicts which breast-cancer drugs work best](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMHllaTJtbHlrNFl6R1k2RzRodlhpMlN2a3RIb0dyS2gzZllwbm5SSzlFbDZnZjJocFRKaWltNkFpVzlCRXRYUjExTExjRXpZbktWWUJqaDhRVkx0NGNr?oc=5)
-
-2026-09-09 <span class="news-indication-tag">cancer</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMHllaTJtbHlrNFl6R1k2RzRodlhpMlN2a3RIb0dyS2gzZllwbm5SSzlFbDZnZjJocFRKaWltNkFpVzlCRXRYUjExTExjRXpZbktWWUJqaDhRVkx0NGNr?oc=5)
 
 ---
 
@@ -334,67 +334,11 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### ['Quick skin cancer pathway the best birthday gift'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SdlpaYTFLRERyRDRqemQtVm1NVE1KQ2NOemtSUGJuN3BlTGJqUXp0TkU4ZGkwYlZuQXRCdTkzaDZVLS1ESC1YYVJtQmR2MEtKVldJMjctMF9zZ25Y?oc=5)
-
-2026-09-09 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SdlpaYTFLRERyRDRqemQtVm1NVE1KQ2NOemtSUGJuN3BlTGJqUXp0TkU4ZGkwYlZuQXRCdTkzaDZVLS1ESC1YYVJtQmR2MEtKVldJMjctMF9zZ25Y?oc=5)
-
----
-
-### [New study finds link between common stomach bug exposure and bowel cancer - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2ZkdkF2a1NRVUw3WTlJS180YllsdWxOWDJIZ3N1aEQ3TlljczdPS3M1VTVxdHRwb29veUxyay0taG9mdG9IbVBqeERhZ3NrWjZoZm1pUjEwbDVZNWhFR05ReTlCNTVORTBiX194MkwxblBkQk9kWkJlZi1GeDBoY1htOFJLYzRYRjRDQ1d1OTR3QVZ0RTFvNnE4REZBQUdybXc?oc=5)
-
-2026-09-08 <span class="news-indication-tag">cancer</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2ZkdkF2a1NRVUw3WTlJS180YllsdWxOWDJIZ3N1aEQ3TlljczdPS3M1VTVxdHRwb29veUxyay0taG9mdG9IbVBqeERhZ3NrWjZoZm1pUjEwbDVZNWhFR05ReTlCNTVORTBiX194MkwxblBkQk9kWkJlZi1GeDBoY1htOFJLYzRYRjRDQ1d1OTR3QVZ0RTFvNnE4REZBQUdybXc?oc=5)
-
----
-
-### [Nitriti e nitrati, i conservanti da limitare: nell’ambiente acido dello stomaco possono favorire la formazione di composti cancerogeni](https://news.google.com/rss/articles/CBMijwJBVV95cUxQNG9NZ3dDNlUwOHk0c3lQRDIxX3N1YTZ5NVpMa3BZQW9fM2ZieW5kRDhCem5qR0h0WnE1dVNXd0trV0pVNkRYSnQ3bk9FeFhiNmRUWVhSa1pFT1Z3Qng1TUxkUDVZeEthdk1qT2NOMm9DWU1YMkozVE5JdFR0aXdFWE9Wc1k5VE13WjV5aTdqSHlOczdEZjZVNEdzQjBQNnZpYlVsV2ZpZERjX1YxVUoyQXJhT2N5bXVPVzJhM2lsQnZFN3RWVGFZdF91aDE2Q1M3akhuX3Rmd1dhWW9ObFlpVEdqVkZGWENMd2l1c3AwY0xwRWw1OFpKbllYd0k0UFBRMTUyTktSdkNfMlplZjcw?oc=5)
-
-2026-09-08 <span class="news-indication-tag">cancer</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMijwJBVV95cUxQNG9NZ3dDNlUwOHk0c3lQRDIxX3N1YTZ5NVpMa3BZQW9fM2ZieW5kRDhCem5qR0h0WnE1dVNXd0trV0pVNkRYSnQ3bk9FeFhiNmRUWVhSa1pFT1Z3Qng1TUxkUDVZeEthdk1qT2NOMm9DWU1YMkozVE5JdFR0aXdFWE9Wc1k5VE13WjV5aTdqSHlOczdEZjZVNEdzQjBQNnZpYlVsV2ZpZERjX1YxVUoyQXJhT2N5bXVPVzJhM2lsQnZFN3RWVGFZdF91aDE2Q1M3akhuX3Rmd1dhWW9ObFlpVEdqVkZGWENMd2l1c3AwY0xwRWw1OFpKbllYd0k0UFBRMTUyTktSdkNfMlplZjcw?oc=5)
-
----
-
-### [Tumore alla vescica: addio cistoscopia? Un test fai da te scova 9 casi su 10 - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjhSVGE1MnFUOUJLUEQ0bnZtdC05b3pNYkkzR01MNVlVM1dPX3JLUVZjaGZxWFdzZWpXTkZyMDNOUGEyV2JKdWNPamtsSHRhY2tJVzhKNEJvVGs1N3lnSi0zTTM4blZLTTJjbEZMLUVXcFdmZ2ZhZkZWY2NXT2dwdnEyQ1ZLQ0ZyRl83ckMyMUVnTWhnTEtIOWlRTUxyQjk0RVVpbUtMeWRDc0xCcUpEeTR2QW5DY2tXdDUyaFROVUI2cjl1UGl1dUNEbF85cVdVOGg1cGxaNWLSAcYBQVVfeXFMTUptQXdrOHltOHJyczZpUlhuZWo2TTZvdjRhLUNVbTJpV2lqcmlGd0dPNGV2TDMyZ1F6X2M2UFhwc3d1a3F1aTNxODJJZ19jNGJtekk2N05jRGV5M0RiUVFCclNZT0lpZF9jUWI3RWtnZmRLeGk1RWFHOS1qcDRVRkRwb2FWUEtkYjBoQ19US3g0LW9fSlpxeGFtOHlpRmY5X1FHT2hVU2txTXBBYk5IemdNa3N0OTIyU2xUYVhQc1R5b3Y4Y0Fn?oc=5)
-
-2026-09-08 <span class="news-indication-tag">tumor</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjhSVGE1MnFUOUJLUEQ0bnZtdC05b3pNYkkzR01MNVlVM1dPX3JLUVZjaGZxWFdzZWpXTkZyMDNOUGEyV2JKdWNPamtsSHRhY2tJVzhKNEJvVGs1N3lnSi0zTTM4blZLTTJjbEZMLUVXcFdmZ2ZhZkZWY2NXT2dwdnEyQ1ZLQ0ZyRl83ckMyMUVnTWhnTEtIOWlRTUxyQjk0RVVpbUtMeWRDc0xCcUpEeTR2QW5DY2tXdDUyaFROVUI2cjl1UGl1dUNEbF85cVdVOGg1cGxaNWLSAcYBQVVfeXFMTUptQXdrOHltOHJyczZpUlhuZWo2TTZvdjRhLUNVbTJpV2lqcmlGd0dPNGV2TDMyZ1F6X2M2UFhwc3d1a3F1aTNxODJJZ19jNGJtekk2N05jRGV5M0RiUVFCclNZT0lpZF9jUWI3RWtnZmRLeGk1RWFHOS1qcDRVRkRwb2FWUEtkYjBoQ19US3g0LW9fSlpxeGFtOHlpRmY5X1FHT2hVU2txTXBBYk5IemdNa3N0OTIyU2xUYVhQc1R5b3Y4Y0Fn?oc=5)
-
----
-
 ### [Gestationsdiabetes: Kardiometabolische Risiken langfristig erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
 
 2026-09-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkUxanh1UHhLbEY3bDlKQzE5a3JYN1J1NDFaTXFKejh4dnN5LVh2d2paQVhSSG1rQllEVy1vOXpHR3BmNm5IQWltQnk3LUZkNmlKa3Ezb3pXSE5vbk90UldkRXljNjA5X2RIUzNYSWpvWUg1YURnbW9uTXdGNWRNSjQ2cTRfLXZGMy1nQ0VYdTJjUUs1SUJGU0prTm9GYWw4bVN3ZGVkUGVGNXBSZmxJUDhGSHMzeU0yRXVNbkI3Zm8xQnp6bjhkSzA1b1V4dw?oc=5)
-
----
-
-### [Neue Optionen für Nutzer von AID-Systemen in Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
-
-2026-09-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmJjNWZMXzA5T2lrdjdsbWtzVnFtbEt1RlVsSHVFTXVsNE00V2VlSTlDc2hId0g1bWJBc3hKQzBodjVKQm16MEpPalJEY3c4WElZTHdrVWZYaldrZ3ZjX3RiaGI2aVVyQm1BWHlSbTBzd0dra3BCa3Q2T1h2WWJMb21tRUhDazNMRUdpeW5tUVJZcGVhMjRNVUEzUlVJS00?oc=5)
-
----
-
-### [Muskel-Botenstoffe und Krebs: ERC Starting Grant für DDZ-Forscherin - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTE5xUWl4UWt2YXhNUEhZOXhlZzlfZ2pBa2t5NnlqZ1VGdzNTSEJpNzZuYjdYcklZbDAzVkw2c3A0UkROY1ZqOTR6WnI5VnU0U3g4M2dYNVJPeFBMemhPRjhxSHJTYlZiZENMaVkyTy1aOUJOcXVDUFVqZ2FxQ3pWVEZ6YmVJY1VkeEZidnFhZjZSelZ1Umh2MEZhQnlUNUMySWhBYmw0SzV6c29icUF0eFlwYU9XTkR1?oc=5)
-
-2026-09-07 <span class="news-indication-tag">Krebs</span>
-
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTE5xUWl4UWt2YXhNUEhZOXhlZzlfZ2pBa2t5NnlqZ1VGdzNTSEJpNzZuYjdYcklZbDAzVkw2c3A0UkROY1ZqOTR6WnI5VnU0U3g4M2dYNVJPeFBMemhPRjhxSHJTYlZiZENMaVkyTy1aOUJOcXVDUFVqZ2FxQ3pWVEZ6YmVJY1VkeEZidnFhZjZSelZ1Umh2MEZhQnlUNUMySWhBYmw0SzV6c29icUF0eFlwYU9XTkR1?oc=5)
-
----
-
-### [Krebsforschung: Organoide bilden Vielfalt von Lebertumoren für Wirkstofftests ab](https://news.google.com/rss/articles/CBMimwFBVV95cUxNajhZTHdJaDJVcG5zU2pEUkNiN3B1eVFqR1RNOGtKRGVCWGIxdlNrVjlWcVcwV0VjV2hBWDlfc1FOWjRnYUYzMV9xVFhOQjRQQ3A5d0JtSkg4Z1MwUC1Gd29UQkJBLXk2TmxuVkVPU1VQeURwQmpkR25HZ1k3VkUwc3dXT0hOem80cWhCT1lsb0R5dThfaWNrUHh4TQ?oc=5)
-
-2026-09-07 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxNajhZTHdJaDJVcG5zU2pEUkNiN3B1eVFqR1RNOGtKRGVCWGIxdlNrVjlWcVcwV0VjV2hBWDlfc1FOWjRnYUYzMV9xVFhOQjRQQ3A5d0JtSkg4Z1MwUC1Gd29UQkJBLXk2TmxuVkVPU1VQeURwQmpkR25HZ1k3VkUwc3dXT0hOem80cWhCT1lsb0R5dThfaWNrUHh4TQ?oc=5)
 
 ---
 

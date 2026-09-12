@@ -66,7 +66,7 @@ permalink: /news/botulinum-toxin-type-a/
 
 2026-09-11 <span class="news-indication-tag">copd</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
 ---
 

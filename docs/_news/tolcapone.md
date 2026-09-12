@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Marcador genético común predice deterioro motor más rápido en la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWpSUjIzSFcxYkRCUk5QLWRUQnhETktlaTE4RDRDbEMzUlVqVHlaWG8xX2c0bkhKYWZrZVdCOGdCZ0tUZVZ4dDc3TWZHZGFMMnk3dW15YW9GT1hFck5MT1VUNmFHZFlEUUlCZlBxcWdsellsNHllVzJ6MzN5UjhOdkZoR0kwU1VfbXpHV2JRZzZucHJCTHVNQllTUlJfcXNpcHRoTW90S0hkQ25McmF5R0JrZzd2UjBJZmh2V1ltdVZITW9aN1NvNXhSTDZqZWljcG1jQ0FWZWRPZ1dkYml5bm1jMGg2UHlGcU9V0gH6AUFVX3lxTE1vRC14SnZwR2pXM3dOVDJnM1NEaXk1WXlSRjA5UDlKbVEyOXNCY2xCc1FYUXdzSExmLWRZdzBhanEydEtMZ04zOGE3V2t6b0RyOE91UDJaeFNNd2czbXdwMmJGckVWUjBvbnZGNnZDdHNYbHUtemR3cDZmNENDUjV0YnZkbDVyVC14SWtDSGw2VVVEUTNYdW5Sa0JJN3NlengxWE93RmJJX3J1SEdJS1lReG9xcEJfbTY3M3Z5WkVkTGhIYlFmd3psLS1FdXJ3V0tqaVpYV0s1NG5MRDk4enFSb2w3RHRDSlU4cXpfMjdBVDNVLUVCbmpVaXc?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/tolcapone/
 
 ---
 
-### [Deep-sleep loss linked to Alzheimer's-related protein buildup in new study - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVFEUHpmTkR3Q2pINDNzcl9DLUVVZ1RuV3RjVVVBa3ZEOFM3UWp4T0NVU0dhc000cFRJMV9Vb2ZOZEdSTVl6YW9LZmI0a0VQN1ZPamZsWG03cEp1SGFkYmFzU2FXRmllTGgtS0hHUHhoV0g5cXA5U3poN2h3dFp4cTJOczQ?oc=5)
+### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
 2026-09-11 <span class="news-indication-tag">alzheimer disease</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVFEUHpmTkR3Q2pINDNzcl9DLUVVZ1RuV3RjVVVBa3ZEOFM3UWp4T0NVU0dhc000cFRJMV9Vb2ZOZEdSTVl6YW9LZmI0a0VQN1ZPamZsWG03cEp1SGFkYmFzU2FXRmllTGgtS0hHUHhoV0g5cXA5U3poN2h3dFp4cTJOczQ?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
+
+---
+
+### [Being a carer 'nearly broke me' but love 'carried me through'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
+
+2026-09-07 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
 
 ---
 

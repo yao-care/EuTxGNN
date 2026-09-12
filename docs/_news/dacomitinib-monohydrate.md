@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
 
-### [Infographies. Hypertension : qui est le plus touché dans le Grand Est et en Bourgogne-Franche-Comté ?](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
+### [Artrosi, artrite, sciatalgia, mal di schiena e dolore cronico: cosa può fare davvero la Boswellia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
 
-2026-09-11 <span class="news-indication-tag">hypertension</span>
+2026-09-12 <span class="news-indication-tag">artrite</span>
 
-來源：[estrepublicain.fr](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
 
 ---
 
-### [Hypertension artérielle : quelle quantité de sport pratiquer chaque semaine pour la réduire ? - Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
+### [Hypertension artérielle : quelle quantité de sport pratiquer chaque semaine pour la réduire ?](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
 
 2026-09-11 <span class="news-indication-tag">hypertension</span>
 
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
+來源：[charentelibre.fr](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
 
 ---
 
@@ -86,6 +86,22 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
+### [Infographies. Hypertension : qui est le plus touché dans le Grand Est et en Bourgogne-Franche-Comté ? - L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
+
+2026-09-11 <span class="news-indication-tag">hypertension</span>
+
+來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
+
+---
+
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[fuldaerzeitung.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
+
+---
+
 ### [Apnée du sommeil : quelle est cette première révolutionnaire au CHU de Montpellier qui permet de se passer de masque - Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
 
 2026-09-10 <span class="news-indication-tag">hypertension</span>
@@ -94,19 +110,19 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
-### ['Unfortunately you wouldn't know': Pharmacist issues 'silent killer' warning - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
-
-2026-09-10 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1FalNGT1lnbVdselBGbXdLMTBhQS1wTFByN184QjVmMWc4MFpzeF9wQjZuODlxVFZkYnB0UXpDVjVyTFhSVnhZUVo3WXJoZXh2M216MWNmOWFOaXljVzJMMXlxM0NDZUh4blRDTEZoUEZFQ0M3TUlBTDNxanNTck5kMFRfTDRvRVpvekN3cjnSAZYBQVVfeXFMT19EVUgtUWhJM3FMcjlOczgyZ0s0NEhyMkZQaldZem5YWnJHa0ZkZWVxOGlwTmNxVEVVbkl5cVJ2elpaSFpZbUI4RHRGN0FXZTZEM1N4WlpVRVdRYmw2OGdEWTdLam5IbzRLeWJPcFo3cFl4bU9Qd2VrSE1DRE9VUVZqLXRETGFiZXhHbTlmUVhhdFlHWmdR?oc=5)
-
----
-
 ### [Even low light during sleep may damage your heart](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
+
+---
+
+### [5 takeaways from the new cholesterol guidelines - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
+
+2026-09-08 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
 ---
 
