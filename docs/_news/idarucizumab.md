@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Artrosi, artrite, sciatalgia, mal di schiena e dolore cronico: cosa può fare davvero la Boswellia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
 
 2026-09-12 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
+
+---
+
+### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+
+2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/idarucizumab/
 
 ---
 
-### [Semaglutid: GLP-1-Mittel reduziert Asthmaanfälle um 40 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxXaEt6UDJkamRyM0xyNGxxdHdwS0NDd083b2NPc0NtZXhSYk5adVFSNHNISGZ5NGxaRGRqNEt5MlU1eUxpcFVfWm9aN3pYanRlZzhnMV9XZGxyb1JZQnBwaTNzc0tETnZyUGdOOTktSlRzWUJCYnRxZGJrYUt6YjRUWDNucWRMd01jTXRZc3A0R0NkMEpWcWRORjNDV0lpNWJFb0pmYkdha012QU5GVg?oc=5)
+### [Ozempic-Studie: GLP-1 senkt offenbar Asthma- und COPD-Attacken - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxXaEt6UDJkamRyM0xyNGxxdHdwS0NDd083b2NPc0NtZXhSYk5adVFSNHNISGZ5NGxaRGRqNEt5MlU1eUxpcFVfWm9aN3pYanRlZzhnMV9XZGxyb1JZQnBwaTNzc0tETnZyUGdOOTktSlRzWUJCYnRxZGJrYUt6YjRUWDNucWRMd01jTXRZc3A0R0NkMEpWcWRORjNDV0lpNWJFb0pmYkdha012QU5GVg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
 
 ---
 

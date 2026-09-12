@@ -54,19 +54,19 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（6 則）
 
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JXZDVNM1pHZS1SVEtGRUc0VEw4TUxtVzZmeGVsOE96ZGh2dXBaZmNYcHIxX0JRN3VpRHFqbnJHNW9XQzh4N1RMWVMwb0hjZXM1WGYwRjk0T0Z1cEh4bXRZUFBZWF90OVF0ajQ5U1A5dTdVSkdzMDRJaDhoRUxYaEdVNDZQZkhiYUc0OE8yNjRfSUItcFM5bENrT1ZEOXE4RnVRa18ySUVnYVdEV0VXTm85UUhKTHAtcFNISi1kY01MUEsxRTE5bk1RaFNTVGJPZnlHR2FHamExeS1LWUV3?oc=5)
+
+2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JXZDVNM1pHZS1SVEtGRUc0VEw4TUxtVzZmeGVsOE96ZGh2dXBaZmNYcHIxX0JRN3VpRHFqbnJHNW9XQzh4N1RMWVMwb0hjZXM1WGYwRjk0T0Z1cEh4bXRZUFBZWF90OVF0ajQ5U1A5dTdVSkdzMDRJaDhoRUxYaEdVNDZQZkhiYUc0OE8yNjRfSUItcFM5bENrT1ZEOXE4RnVRa18ySUVnYVdEV0VXTm85UUhKTHAtcFNISi1kY01MUEsxRTE5bk1RaFNTVGJPZnlHR2FHamExeS1LWUV3?oc=5)
+
+---
+
 ### [La migraña afecta a más de 6 millones de personas en España, pero solo 1 de cada 10 recibe tratamiento preventivo - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
 
 2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
-
----
-
-### [Die Shingrix-Gürtelroseimpfung kann das Risiko von Herzerkrankungen verringern.](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
-
-2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,6 +38,14 @@ permalink: /news/obesity/
 
 ## 相關新聞（7 則）
 
+### [I farmaci anti-obesità stanno cambiando l’economia: meno cibo e alcol, più salute. E per il SSN può essere una rivoluzione](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWW1TUF81elRMZmczRGw0a3pDWVNpS0RrSEJxUHFlMl9vbmVKSjAxNmhSMjEyNGZTN1Y0N2Q4ODlzN041OExGbzZkSGZZN25WM3FOc0loSFhTY0xtb3RNZ2NBRUIyNTNZYzU3Tm9TSnZfUXFkb1BXUVRZVzAyZlJDdHFuaURNTWpZQnRVMnRDQldUYXp3YU9xdUZKdnRlQkhYTmdfZWRYMXp6bjItTTdKZnpaZ3JwVzAwZ1h0UG5RVFhrMTFUeHdqY3pfQUFZdkpmc3gxOGZXNnhKLWxrWFFMU1hJWEhfVk1JaHdCRnRnYjNMUnh0X3ltcHNrX0Vadw?oc=5)
+
+2026-09-12
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWW1TUF81elRMZmczRGw0a3pDWVNpS0RrSEJxUHFlMl9vbmVKSjAxNmhSMjEyNGZTN1Y0N2Q4ODlzN041OExGbzZkSGZZN25WM3FOc0loSFhTY0xtb3RNZ2NBRUIyNTNZYzU3Tm9TSnZfUXFkb1BXUVRZVzAyZlJDdHFuaURNTWpZQnRVMnRDQldUYXp3YU9xdUZKdnRlQkhYTmdfZWRYMXp6bjItTTdKZnpaZ3JwVzAwZ1h0UG5RVFhrMTFUeHdqY3pfQUFZdkpmc3gxOGZXNnhKLWxrWFFMU1hJWEhfVk1JaHdCRnRnYjNMUnh0X3ltcHNrX0Vadw?oc=5)
+
+---
+
 ### [Fettleber: Ketogene Ernährung senkt Leberfett stärker als Mittelmeer-Diät](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
 
 2026-09-12
@@ -46,19 +54,11 @@ permalink: /news/obesity/
 
 ---
 
-### [NHS fuelling obesity by abandoning breastfeeding, says chairman - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
+### [NHS fuelling obesity by abandoning breastfeeding, says chairman](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
 
 2026-09-11
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
-
----
-
-### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe - Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
-
-2026-09-11
-
-來源：[Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/obesity/
 
 ---
 
-### [GLP-1, quando dimagrire cambia anche i rapporti: cosa succede a coppie, famiglie e amicizie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1FXek9SbnphR0NTbzlhVE9ZdEVqXzlCRXJDaGVMaXR1RE5IWTlIcGJaQnVtbU1xcDdaLUk1REZqQ0pYQVVGQko2MnpFa0RxX3ZiV2NHWndVVklKLTZMeVFPaWtHODFkVjl6ZGpYY1B0WEJYNThkWlplZmE1QjE0dUdBSUxEYWpibENRRXRyMm4wbHk4OHYyT0dEN3RWazhsb1ZUTElnbGcwaW5TMjlxdkZTT24yNC1LVUIwcDNJbkVrU180SmhLOTFqODI4VENETEdmOHZn?oc=5)
+### [Schlafapnoe: Neues Medikament senkt Atemaussetzer um 44 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
 
-2026-09-09
+2026-09-10
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1FXek9SbnphR0NTbzlhVE9ZdEVqXzlCRXJDaGVMaXR1RE5IWTlIcGJaQnVtbU1xcDdaLUk1REZqQ0pYQVVGQko2MnpFa0RxX3ZiV2NHWndVVklKLTZMeVFPaWtHODFkVjl6ZGpYY1B0WEJYNThkWlplZmE1QjE0dUdBSUxEYWpibENRRXRyMm4wbHk4OHYyT0dEN3RWazhsb1ZUTElnbGcwaW5TMjlxdkZTT24yNC1LVUIwcDNJbkVrU180SmhLOTFqODI4VENETEdmOHZn?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### ['Our daughter, 5, has devastating rare disease that has given her dementia - and she's getting worse' - The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
+
+2026-09-12 <span class="news-indication-tag">dementia</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
+
+---
 
 ### [Marcador genético común predice deterioro motor más rápido en la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWpSUjIzSFcxYkRCUk5QLWRUQnhETktlaTE4RDRDbEMzUlVqVHlaWG8xX2c0bkhKYWZrZVdCOGdCZ0tUZVZ4dDc3TWZHZGFMMnk3dW15YW9GT1hFck5MT1VUNmFHZFlEUUlCZlBxcWdsellsNHllVzJ6MzN5UjhOdkZoR0kwU1VfbXpHV2JRZzZucHJCTHVNQllTUlJfcXNpcHRoTW90S0hkQ25McmF5R0JrZzd2UjBJZmh2V1ltdVZITW9aN1NvNXhSTDZqZWljcG1jQ0FWZWRPZ1dkYml5bm1jMGg2UHlGcU9V0gH6AUFVX3lxTE1vRC14SnZwR2pXM3dOVDJnM1NEaXk1WXlSRjA5UDlKbVEyOXNCY2xCc1FYUXdzSExmLWRZdzBhanEydEtMZ04zOGE3V2t6b0RyOE91UDJaeFNNd2czbXdwMmJGckVWUjBvbnZGNnZDdHNYbHUtemR3cDZmNENDUjV0YnZkbDVyVC14SWtDSGw2VVVEUTNYdW5Sa0JJN3NlengxWE93RmJJX3J1SEdJS1lReG9xcEJfbTY3M3Z5WkVkTGhIYlFmd3psLS1FdXJ3V0tqaVpYV0s1NG5MRDk4enFSb2w3RHRDSlU4cXpfMjdBVDNVLUVCbmpVaXc?oc=5)
 

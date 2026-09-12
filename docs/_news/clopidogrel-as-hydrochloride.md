@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [La migraña afecta a más de 6 millones de personas en España, pero solo 1 de cada 10 recibe tratamiento preventivo - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/clopidogrel-as-hydrochloride/
 2026-09-11 <span class="news-indication-tag">Migräne</span>
 
 來源：[Lübecker Nachrichten](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRWZFU180dEVlSHVCdmNnX3A5TG11VGZDUFNHdjIyVjc0dHlfMVBHNDdxMm1ESG9tWU5TS1Y2M1hFVW5MTlJhMlUta1VhZnZTVkFCeUkwWXpQWHJ2UThpRHRCOHZBNi1DXzJKR0FaREpiU3RfemgyVkNMc2hQMkpkSjMyVGt2Y0lGX3lVQ2FPYnMtUzRDdzBHc3oxTWtCTjhOb1FMcUdYeGFHc243blhnUkVPRzVXUEVLM0VBNEhMSFBHeDU1WUQwRy05ekxldVFrbjh0T1dOTmNOWEnSAfcBQVVfeXFMT0tQYnZyaW9ZcjBpSlNGNDN1bUp1RVpXQmhDT0tsb3NNVG5YU21TcHJQZGpZT3ZHUHFDQjVvOEhQdUxrSzlCbWtkY3Q5QjZySExRczNtM0c5a2R2bjZNdjlnUVVra3VFeFlIejl0NW9va1NxemJ6dXZleXdrQ0tTcU8xNGRMSkVma2hwaS0tWGlsR1BQbkNYb3VzNkxBYjEyZ1A2amoxRFFZQUp4TVJBZHRPREhhbFIzZzlackpnV283Q21zRmNzM0RFd2ROempqN1FoNUV3QVV0ZEt4U3prR0JsNUY4UFU0aklNU3JoN2dUU20yMk12OA?oc=5)
+
+---
+
+### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+
+2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
 
 ---
 

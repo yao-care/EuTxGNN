@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="Tucatinib 有什麼相關新聞？">
-<strong>Tucatinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tucatinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tucatinib/
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JXZDVNM1pHZS1SVEtGRUc0VEw4TUxtVzZmeGVsOE96ZGh2dXBaZmNYcHIxX0JRN3VpRHFqbnJHNW9XQzh4N1RMWVMwb0hjZXM1WGYwRjk0T0Z1cEh4bXRZUFBZWF90OVF0ajQ5U1A5dTdVSkdzMDRJaDhoRUxYaEdVNDZQZkhiYUc0OE8yNjRfSUItcFM5bENrT1ZEOXE4RnVRa18ySUVnYVdEV0VXTm85UUhKTHAtcFNISi1kY01MUEsxRTE5bk1RaFNTVGJPZnlHR2FHamExeS1LWUV3?oc=5)
+
+2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JXZDVNM1pHZS1SVEtGRUc0VEw4TUxtVzZmeGVsOE96ZGh2dXBaZmNYcHIxX0JRN3VpRHFqbnJHNW9XQzh4N1RMWVMwb0hjZXM1WGYwRjk0T0Z1cEh4bXRZUFBZWF90OVF0ajQ5U1A5dTdVSkdzMDRJaDhoRUxYaEdVNDZQZkhiYUc0OE8yNjRfSUItcFM5bENrT1ZEOXE4RnVRa18ySUVnYVdEV0VXTm85UUhKTHAtcFNISi1kY01MUEsxRTE5bk1RaFNTVGJPZnlHR2FHamExeS1LWUV3?oc=5)
+
+---
 
 ### [Ipertensione, il killer silenzioso: in Italia un uomo su due è a rischio](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR18wM0lCdHdVc0JvcjlpQ3ozZGRHMmVtWHZPQWN6b2dVc0s1RVY3TmtUc1FLT2x5di1ubU9MYzIzSnpRVjdJdlQ1bXo5MnJMei1nMm9kdnJLOE9UUFRCcTFXUVkxekJYXzZQckFEV0xfT1kyRl9ZWGFmdktOUFVZcXVzblFqSDFDQ1ZmTG5lcjVYdzh1bUludDFabDNVZko5UEFHNzdEM1RFN3JwcXdDNkpkTkkwcTVqVVhKSnhR?oc=5)
 
@@ -67,14 +75,6 @@ permalink: /news/tucatinib/
 2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
-
----
-
-### [Die Shingrix-Gürtelroseimpfung kann das Risiko von Herzerkrankungen verringern.](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
-
-2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
 
 ---
 
@@ -94,11 +94,19 @@ permalink: /news/tucatinib/
 
 ---
 
-### [Nüsse senken laut Meta-Analyse das Hypertonie-Risiko – mit klarer Dosisgrenze - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1lpNk8zYmlxM1FoQ3k2V3l1RFFDb2hLMWZMTWhIYXQyd2lQa1FMbmR0OTZYSWRudWtqNGlwR3gxRmhUNjdRQ29YcUFwT0dUdEhxdVJ5azQ1ZGlKNjE4LWZNUkpoNGg2OWVKS2tWb2h5VDhYUkZDcGRLS0ZIOUJYdUxIb0NWblhlNnhZUVdEUzd0UllsbDZTRzFPbWE2RnhEOHZETjZlQ3Nxc3hl?oc=5)
+### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
 
-2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1lpNk8zYmlxM1FoQ3k2V3l1RFFDb2hLMWZMTWhIYXQyd2lQa1FMbmR0OTZYSWRudWtqNGlwR3gxRmhUNjdRQ29YcUFwT0dUdEhxdVJ5azQ1ZGlKNjE4LWZNUkpoNGg2OWVKS2tWb2h5VDhYUkZDcGRLS0ZIOUJYdUxIb0NWblhlNnhZUVdEUzd0UllsbDZTRzFPbWE2RnhEOHZETjZlQ3Nxc3hl?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+
+---
+
+### [Hypertension artérielle : quelle quantité de sport pratiquer chaque semaine pour la réduire ? - Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
+
+2026-09-11 <span class="news-indication-tag">hypertension</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
 
 ---
 
@@ -110,27 +118,11 @@ permalink: /news/tucatinib/
 
 ---
 
-### [Des traitements contre le diabète, l’asthme, l’hypertension, le cholestérol... Les médicaments les plus prescrits et les moins chers, premières victimes des pénuries et des arrêts de commercialisation, alerte MedFrance](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
+### [Bluthochdruck: Nüsse senken das Risiko](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">asthme</span>
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[usinenouvelle.com](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
-
----
-
-### [Infographies. Hypertension : qui est le plus touché dans le Grand Est et en Bourgogne-Franche-Comté ? - L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
-
-2026-09-11 <span class="news-indication-tag">hypertension</span>
-
-來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
-
----
-
-### [Apnée du sommeil : quelle est cette première révolutionnaire au CHU de Montpellier qui permet de se passer de masque - Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
-
-2026-09-10 <span class="news-indication-tag">hypertension</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDZhdjkxa3Q1LTZ5RmpNbVc5Si1Cc1ExbDNmdUZzMjd4YlZqRWFhOGFvTWxKM3M2NnlXUDBydXY3LVM4aGlRWG9wSU45ZW1Kc3VsRWttMmtZTUNydnVNTGxWb1R3UW5PaXhsaHBseVZIUkxQMk9BOFh6TjZRWnJlcG9qb0U1TGYycEJHUUNJTWtxa0UzbW40X3A4dVBPTGpLY3FmYWxoeVZxY0FXb2pTOXVxaFM3dEtweExVLS1mWndfWl9UZDRvYWpsdzVrX0txQmgxU0N2UVVvRUtYN2ZVaHpjNnNzeTVfNllhWGZiYzFNeGR0b0E?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Die Shingrix-Gürtelroseimpfung kann das Risiko von Herzerkrankungen verringern.](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JXZDVNM1pHZS1SVEtGRUc0VEw4TUxtVzZmeGVsOE96ZGh2dXBaZmNYcHIxX0JRN3VpRHFqbnJHNW9XQzh4N1RMWVMwb0hjZXM1WGYwRjk0T0Z1cEh4bXRZUFBZWF90OVF0ajQ5U1A5dTdVSkdzMDRJaDhoRUxYaEdVNDZQZkhiYUc0OE8yNjRfSUItcFM5bENrT1ZEOXE4RnVRa18ySUVnYVdEV0VXTm85UUhKTHAtcFNISi1kY01MUEsxRTE5bk1RaFNTVGJPZnlHR2FHamExeS1LWUV3?oc=5)
 
 2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JXZDVNM1pHZS1SVEtGRUc0VEw4TUxtVzZmeGVsOE96ZGh2dXBaZmNYcHIxX0JRN3VpRHFqbnJHNW9XQzh4N1RMWVMwb0hjZXM1WGYwRjk0T0Z1cEh4bXRZUFBZWF90OVF0ajQ5U1A5dTdVSkdzMDRJaDhoRUxYaEdVNDZQZkhiYUc0OE8yNjRfSUItcFM5bENrT1ZEOXE4RnVRa18ySUVnYVdEV0VXTm85UUhKTHAtcFNISi1kY01MUEsxRTE5bk1RaFNTVGJPZnlHR2FHamExeS1LWUV3?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/icosapent-ethyl/
 2026-09-12 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
+
+---
+
+### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+
+2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
 
 ---
 

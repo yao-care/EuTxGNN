@@ -62,11 +62,11 @@ permalink: /news/methylthioninium-chloride/
 
 ---
 
-### [Semaglutid: GLP-1-Mittel reduziert Asthmaanfälle um 40 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxXaEt6UDJkamRyM0xyNGxxdHdwS0NDd083b2NPc0NtZXhSYk5adVFSNHNISGZ5NGxaRGRqNEt5MlU1eUxpcFVfWm9aN3pYanRlZzhnMV9XZGxyb1JZQnBwaTNzc0tETnZyUGdOOTktSlRzWUJCYnRxZGJrYUt6YjRUWDNucWRMd01jTXRZc3A0R0NkMEpWcWRORjNDV0lpNWJFb0pmYkdha012QU5GVg?oc=5)
+### [Ozempic-Studie: GLP-1 senkt offenbar Asthma- und COPD-Attacken - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxXaEt6UDJkamRyM0xyNGxxdHdwS0NDd083b2NPc0NtZXhSYk5adVFSNHNISGZ5NGxaRGRqNEt5MlU1eUxpcFVfWm9aN3pYanRlZzhnMV9XZGxyb1JZQnBwaTNzc0tETnZyUGdOOTktSlRzWUJCYnRxZGJrYUt6YjRUWDNucWRMd01jTXRZc3A0R0NkMEpWcWRORjNDV0lpNWJFb0pmYkdha012QU5GVg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
 
 ---
 

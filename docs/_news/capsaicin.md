@@ -36,11 +36,11 @@ permalink: /news/capsaicin/
 
 ## 相關新聞（2 則）
 
-### [Die Shingrix-Gürtelroseimpfung kann das Risiko von Herzerkrankungen verringern.](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
+### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JXZDVNM1pHZS1SVEtGRUc0VEw4TUxtVzZmeGVsOE96ZGh2dXBaZmNYcHIxX0JRN3VpRHFqbnJHNW9XQzh4N1RMWVMwb0hjZXM1WGYwRjk0T0Z1cEh4bXRZUFBZWF90OVF0ajQ5U1A5dTdVSkdzMDRJaDhoRUxYaEdVNDZQZkhiYUc0OE8yNjRfSUItcFM5bENrT1ZEOXE4RnVRa18ySUVnYVdEV0VXTm85UUhKTHAtcFNISi1kY01MUEsxRTE5bk1RaFNTVGJPZnlHR2FHamExeS1LWUV3?oc=5)
 
 2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2JXZDVNM1pHZS1SVEtGRUc0VEw4TUxtVzZmeGVsOE96ZGh2dXBaZmNYcHIxX0JRN3VpRHFqbnJHNW9XQzh4N1RMWVMwb0hjZXM1WGYwRjk0T0Z1cEh4bXRZUFBZWF90OVF0ajQ5U1A5dTdVSkdzMDRJaDhoRUxYaEdVNDZQZkhiYUc0OE8yNjRfSUItcFM5bENrT1ZEOXE4RnVRa18ySUVnYVdEV0VXTm85UUhKTHAtcFNISi1kY01MUEsxRTE5bk1RaFNTVGJPZnlHR2FHamExeS1LWUV3?oc=5)
 
 ---
 

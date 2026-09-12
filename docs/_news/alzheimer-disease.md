@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### ['Our daughter, 5, has devastating rare disease that has given her dementia - and she's getting worse' - The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
+
+2026-09-12
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
+
+---
 
 ### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 

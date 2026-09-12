@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（12 則）
+
+### [Fibrillazione atriale: quando serve davvero il farmaco per l’ictus? - The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
+
+2026-09-12 <span class="news-indication-tag">ictus</span>
+
+來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
+
+---
+
+### [I farmaci anti-obesità stanno cambiando l’economia: meno cibo e alcol, più salute. E per il SSN può essere una rivoluzione](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWW1TUF81elRMZmczRGw0a3pDWVNpS0RrSEJxUHFlMl9vbmVKSjAxNmhSMjEyNGZTN1Y0N2Q4ODlzN041OExGbzZkSGZZN25WM3FOc0loSFhTY0xtb3RNZ2NBRUIyNTNZYzU3Tm9TSnZfUXFkb1BXUVRZVzAyZlJDdHFuaURNTWpZQnRVMnRDQldUYXp3YU9xdUZKdnRlQkhYTmdfZWRYMXp6bjItTTdKZnpaZ3JwVzAwZ1h0UG5RVFhrMTFUeHdqY3pfQUFZdkpmc3gxOGZXNnhKLWxrWFFMU1hJWEhfVk1JaHdCRnRnYjNMUnh0X3ltcHNrX0Vadw?oc=5)
+
+2026-09-12 <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWW1TUF81elRMZmczRGw0a3pDWVNpS0RrSEJxUHFlMl9vbmVKSjAxNmhSMjEyNGZTN1Y0N2Q4ODlzN041OExGbzZkSGZZN25WM3FOc0loSFhTY0xtb3RNZ2NBRUIyNTNZYzU3Tm9TSnZfUXFkb1BXUVRZVzAyZlJDdHFuaURNTWpZQnRVMnRDQldUYXp3YU9xdUZKdnRlQkhYTmdfZWRYMXp6bjItTTdKZnpaZ3JwVzAwZ1h0UG5RVFhrMTFUeHdqY3pfQUFZdkpmc3gxOGZXNnhKLWxrWFFMU1hJWEhfVk1JaHdCRnRnYjNMUnh0X3ltcHNrX0Vadw?oc=5)
+
+---
+
+### [Dimentica i 10mila passi al giorno: ecco cosa potresti fare fare in alternativa secondo questo studio](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY2l2Ui1HZERKbHRrM01MdEpOdDlVd3NGblZLLW1LdFV5T1RpcG5PZzgzVUgzaWltclhvSGpqaTEwbGg5ejdGMFFBcUk5c1F1UTlwbnlYQXoyV3FJbGo0T1JaMGE3ZmZyU2VaQmZaTTF0c2lhekNhSWtUZnd4Slc0RzdRYWZWam5iRG8zTnUxV0duczNnSldfNDZvMFVJR0ZneW9vaWJvOVFaakZZb1NNOXVKQ1lPVURsbmVtanFiVmh2X3FPM1B5aWZ4SFgxc3NyY25faFZGZFZxclM3MW91SjhSQWgtZjJCLVE?oc=5)
+
+2026-09-12 <span class="news-indication-tag">ictus</span>
+
+來源：[greenMe](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY2l2Ui1HZERKbHRrM01MdEpOdDlVd3NGblZLLW1LdFV5T1RpcG5PZzgzVUgzaWltclhvSGpqaTEwbGg5ejdGMFFBcUk5c1F1UTlwbnlYQXoyV3FJbGo0T1JaMGE3ZmZyU2VaQmZaTTF0c2lhekNhSWtUZnd4Slc0RzdRYWZWam5iRG8zTnUxV0duczNnSldfNDZvMFVJR0ZneW9vaWJvOVFaakZZb1NNOXVKQ1lPVURsbmVtanFiVmh2X3FPM1B5aWZ4SFgxc3NyY25faFZGZFZxclM3MW91SjhSQWgtZjJCLVE?oc=5)
+
+---
+
+### [Statine un grande studio fa chiarezza sui reali benefici dopo i 70 anni - The Wom Healthy](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzN4QjhLN085SUViNGcyd25TM1c4RzMtbDVEWFFmLUM3Mk4wTm1tN2FPWXdwXzU2b0tsVm9id0tqZ2ZFZ1Z1dmtmdTc3RnVfS1lXZk5LWmFsVnNlempKSFQ5bHhQemtxSGVNQ1hVSlBMSDVDRHhNYVFCQ3FPV0Zqc21GbXJ2c0F4d2xFNTRYcUU5aU16eXJSQTJQZEZpcWtYZF9xMzVR?oc=5)
+
+2026-09-12 <span class="news-indication-tag">ictus</span>
+
+來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzN4QjhLN085SUViNGcyd25TM1c4RzMtbDVEWFFmLUM3Mk4wTm1tN2FPWXdwXzU2b0tsVm9id0tqZ2ZFZ1Z1dmtmdTc3RnVfS1lXZk5LWmFsVnNlempKSFQ5bHhQemtxSGVNQ1hVSlBMSDVDRHhNYVFCQ3FPV0Zqc21GbXJ2c0F4d2xFNTRYcUU5aU16eXJSQTJQZEZpcWtYZF9xMzVR?oc=5)
+
+---
+
+### [AVC précoce : votre groupe sanguin pourrait modifier votre niveau de risque - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLS1UYXpVYVoyV0s5MzhkWGVWTUl3clFoc3BlN1RkX2VlRDFfT09fR2w4UEN6M0h0MDNidFhKekRzUjRPYnZYMlQ3XzJ1VENlaWZoZDU1X28zZVhyeDhHRjZZSkk1akNWZlJLaG45azZXeHhyMnI4cDVaM01lTnBDYll0enVHUW9IZllqYjc0VldqQm55Vlp3MjFmQzBqRktBY0JLbW5nZDhoTzBkaG8tOWtDNkZTN0RjTUdpUl9XWlYzdG0wS0J1ZTlxSmpRMmxTVldwX3gtTmxJQQ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLS1UYXpVYVoyV0s5MzhkWGVWTUl3clFoc3BlN1RkX2VlRDFfT09fR2w4UEN6M0h0MDNidFhKekRzUjRPYnZYMlQ3XzJ1VENlaWZoZDU1X28zZVhyeDhHRjZZSkk1akNWZlJLaG45azZXeHhyMnI4cDVaM01lTnBDYll0enVHUW9IZllqYjc0VldqQm55Vlp3MjFmQzBqRktBY0JLbW5nZDhoTzBkaG8tOWtDNkZTN0RjTUdpUl9XWlYzdG0wS0J1ZTlxSmpRMmxTVldwX3gtTmxJQQ?oc=5)
+
+---
 
 ### [Fettleber: Ketogene Ernährung senkt Leberfett stärker als Mittelmeer-Diät](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
 
@@ -62,25 +102,17 @@ permalink: /news/orlistat/
 
 ---
 
-### [NHS fuelling obesity by abandoning breastfeeding, says chairman - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
+### [NHS fuelling obesity by abandoning breastfeeding, says chairman](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">obesity</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
-
----
-
-### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe - Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
 
 ---
 
 ### [Adipositas und Rheuma: Der gemeinsame Nenner](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
 
-2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
 
@@ -96,17 +128,17 @@ permalink: /news/orlistat/
 
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 ---
 
-### [GLP-1, quando dimagrire cambia anche i rapporti: cosa succede a coppie, famiglie e amicizie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1FXek9SbnphR0NTbzlhVE9ZdEVqXzlCRXJDaGVMaXR1RE5IWTlIcGJaQnVtbU1xcDdaLUk1REZqQ0pYQVVGQko2MnpFa0RxX3ZiV2NHWndVVklKLTZMeVFPaWtHODFkVjl6ZGpYY1B0WEJYNThkWlplZmE1QjE0dUdBSUxEYWpibENRRXRyMm4wbHk4OHYyT0dEN3RWazhsb1ZUTElnbGcwaW5TMjlxdkZTT24yNC1LVUIwcDNJbkVrU180SmhLOTFqODI4VENETEdmOHZn?oc=5)
+### [Schlafapnoe: Neues Medikament senkt Atemaussetzer um 44 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
 
-2026-09-09 <span class="news-indication-tag">obesità</span>
+2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1FXek9SbnphR0NTbzlhVE9ZdEVqXzlCRXJDaGVMaXR1RE5IWTlIcGJaQnVtbU1xcDdaLUk1REZqQ0pYQVVGQko2MnpFa0RxX3ZiV2NHWndVVklKLTZMeVFPaWtHODFkVjl6ZGpYY1B0WEJYNThkWlplZmE1QjE0dUdBSUxEYWpibENRRXRyMm4wbHk4OHYyT0dEN3RWazhsb1ZUTElnbGcwaW5TMjlxdkZTT24yNC1LVUIwcDNJbkVrU180SmhLOTFqODI4VENETEdmOHZn?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
 
 ---
 
