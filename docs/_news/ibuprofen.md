@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Artrosi, artrite, sciatalgia, mal di schiena e dolore cronico: cosa può fare davvero la Boswellia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
 
 2026-09-12 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
-
----
-
-### [Dr Amir Khan issues statins, ramipril, metformin warning in 'hospital admissions' alert - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZXN0dDNGNmpkWVFZLWE1M1haOGxhU3N5NVZKUmxBWjM3dkZWREx5MkwzLUFOM1pYWDZjSTNwbnctNEhDVEZYbW55dF9QWmE4b0pwNGdHY3ZBMG5kRU84cUQ4c0pBcVJSbXJldFpmTDF6cXh6SVc4dkxtMjlJQdIBgwFBVV95cUxNQVZoV05hMmlaMW5GSkZMR3ZLZUdwS0VmWF85ckkyMWctSlUtLXhZcnE1bmc4bC10eXhEME0wR2hIUjVuQWJLSXN0QXB0eXZ3MDhDU0lVZ1VCbmJraVNsa0NTSGxkaXZMcFMxeVZNemZfeXlZNVRpZzhUSjd0TU44SUttSQ?oc=5)
-
-2026-09-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZXN0dDNGNmpkWVFZLWE1M1haOGxhU3N5NVZKUmxBWjM3dkZWREx5MkwzLUFOM1pYWDZjSTNwbnctNEhDVEZYbW55dF9QWmE4b0pwNGdHY3ZBMG5kRU84cUQ4c0pBcVJSbXJldFpmTDF6cXh6SVc4dkxtMjlJQdIBgwFBVV95cUxNQVZoV05hMmlaMW5GSkZMR3ZLZUdwS0VmWF85ckkyMWctSlUtLXhZcnE1bmc4bC10eXhEME0wR2hIUjVuQWJLSXN0QXB0eXZ3MDhDU0lVZ1VCbmJraVNsa0NTSGxkaXZMcFMxeVZNemZfeXlZNVRpZzhUSjd0TU44SUttSQ?oc=5)
 
 ---
 

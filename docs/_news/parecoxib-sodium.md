@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="Parecoxib Sodium 有什麼相關新聞？">
-<strong>Parecoxib Sodium</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parecoxib Sodium</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/parecoxib-sodium/
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（12 則）
 
-### [¿Por qué en España se exigen 8 migrañas al mes para acceder a los fármacos y en Alemania solo 4? - El Correo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHdkYmc4RGlFSzBfeEpsVmR4Q19mUGtIYzJXNU5oS2JZRmRZakdDanEtM3N5V0lCSFJGR0RjLWdIODlabC1qd004N1c4NjVBQ190cnV1NW95VlpUcjJRNTJtN3hHV3dyWW41V0RnZ1NQUjRBVy13QUZYdFVKb3NpcmRkckl2Q1JWY3dEMFFnRU11SEQ2YlplYTNZT080anFYYjVMdnJOcjNFQzZOakxtWWZtdm1Vd9IBuwFBVV95cUxOOHdvRjE4el9xZmRVdURVX3kyZHJ0N3YyWm9RN05uYktyUHVLNjZoa1c0dU5PbWZqaXVrY2trN1IwdHluME1PdmlSdE1YeE4wc0hVN0VYVUJHVzZXRTVHSnlrZXZoZ1UzSzFicUJ5blhCM25OZGZ2dzlqS0ljcndKc0xkcERVWDJDM281WEFxWU1WeDRKZXdlWDN0dGpWeWZOaEllNE9tTGNVYXpDbmVrLUctdF9hSDdOYmJZ?oc=5)
+### [Ipertensione, il killer silenzioso: in Italia un uomo su due è a rischio](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR18wM0lCdHdVc0JvcjlpQ3ozZGRHMmVtWHZPQWN6b2dVc0s1RVY3TmtUc1FLT2x5di1ubU9MYzIzSnpRVjdJdlQ1bXo5MnJMei1nMm9kdnJLOE9UUFRCcTFXUVkxekJYXzZQckFEV0xfT1kyRl9ZWGFmdktOUFVZcXVzblFqSDFDQ1ZmTG5lcjVYdzh1bUludDFabDNVZko5UEFHNzdEM1RFN3JwcXdDNkpkTkkwcTVqVVhKSnhR?oc=5)
 
-2026-09-12 <span class="news-indication-tag">migraña</span>
+2026-09-12 <span class="news-indication-tag">ipertensione</span>
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHdkYmc4RGlFSzBfeEpsVmR4Q19mUGtIYzJXNU5oS2JZRmRZakdDanEtM3N5V0lCSFJGR0RjLWdIODlabC1qd004N1c4NjVBQ190cnV1NW95VlpUcjJRNTJtN3hHV3dyWW41V0RnZ1NQUjRBVy13QUZYdFVKb3NpcmRkckl2Q1JWY3dEMFFnRU11SEQ2YlplYTNZT080anFYYjVMdnJOcjNFQzZOakxtWWZtdm1Vd9IBuwFBVV95cUxOOHdvRjE4el9xZmRVdURVX3kyZHJ0N3YyWm9RN05uYktyUHVLNjZoa1c0dU5PbWZqaXVrY2trN1IwdHluME1PdmlSdE1YeE4wc0hVN0VYVUJHVzZXRTVHSnlrZXZoZ1UzSzFicUJ5blhCM25OZGZ2dzlqS0ljcndKc0xkcERVWDJDM281WEFxWU1WeDRKZXdlWDN0dGpWeWZOaEllNE9tTGNVYXpDbmVrLUctdF9hSDdOYmJZ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR18wM0lCdHdVc0JvcjlpQ3ozZGRHMmVtWHZPQWN6b2dVc0s1RVY3TmtUc1FLT2x5di1ubU9MYzIzSnpRVjdJdlQ1bXo5MnJMei1nMm9kdnJLOE9UUFRCcTFXUVkxekJYXzZQckFEV0xfT1kyRl9ZWGFmdktOUFVZcXVzblFqSDFDQ1ZmTG5lcjVYdzh1bUludDFabDNVZko5UEFHNzdEM1RFN3JwcXdDNkpkTkkwcTVqVVhKSnhR?oc=5)
+
+---
+
+### [La migraña afecta a más de 6 millones de personas en España, pero solo 1 de cada 10 recibe tratamiento preventivo - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
+
+---
+
+### [Die Shingrix-Gürtelroseimpfung kann das Risiko von Herzerkrankungen verringern.](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
+
+2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
 
 ---
 
@@ -70,14 +86,6 @@ permalink: /news/parecoxib-sodium/
 
 ---
 
-### [Cómo combatir la migraña: sueño regular, dieta mediterránea y ejercicio físico - Libertad Digital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREIxdm5XVGlJVFo1VkdNT2JmNC01bnkzYXVVOUlXWWstcHVWeEhMV1c0aXlYcmpHR3g3clpNUm1LRUVVSVUwcDNwajRNMjdud3JMNHdSdE1rRlpnQm83aXRMZ0JCejdXZGJJWG9Ua3BwWVFPT2tSSTZlZG8tbnZnYlRGRlNuWWlJRDZWcENZaU1hR19nRjdBVUdOVkpqMWxTOU12SVFlV0RpQmJTaERxY29XWjNxMF81WlJuWjlUSVZXMWw4bi1CRXFlalhmVjVDb2VHT1pNY0JFRGRQVXRtR0dyRXctaERR0gHzAUFVX3lxTFBWSGN4WlNVQmlmdGp4c25BQ0NLeUtXSUx0eXppZFFmMXZ2b0Izenp6VHNhSGs0M0djb1VOSVh6NEM3UUV5WHdFOUExQ3ZlZ3U2MDJ2V3E3Y1E2UVNfa2NYVmZXVFdhN2YwTklXNDNKRGM3QnhjV1prLWc4dWZxSzc4czZBX0ZIRnFIOFNJYmxtS1dGa1kzSml5ZENINmdvVVdya205Y2R0MDNQc2tSY3hKY0dZdm52bzZqOXZJMDFldDFWVjlrQVFHMEhRU0c1WENBNHdMOVc0czFaTTNPZGFBUkxZTDhzcHN6dnprZnNnenlsRQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">migraña</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREIxdm5XVGlJVFo1VkdNT2JmNC01bnkzYXVVOUlXWWstcHVWeEhMV1c0aXlYcmpHR3g3clpNUm1LRUVVSVUwcDNwajRNMjdud3JMNHdSdE1rRlpnQm83aXRMZ0JCejdXZGJJWG9Ua3BwWVFPT2tSSTZlZG8tbnZnYlRGRlNuWWlJRDZWcENZaU1hR19nRjdBVUdOVkpqMWxTOU12SVFlV0RpQmJTaERxY29XWjNxMF81WlJuWjlUSVZXMWw4bi1CRXFlalhmVjVDb2VHT1pNY0JFRGRQVXRtR0dyRXctaERR0gHzAUFVX3lxTFBWSGN4WlNVQmlmdGp4c25BQ0NLeUtXSUx0eXppZFFmMXZ2b0Izenp6VHNhSGs0M0djb1VOSVh6NEM3UUV5WHdFOUExQ3ZlZ3U2MDJ2V3E3Y1E2UVNfa2NYVmZXVFdhN2YwTklXNDNKRGM3QnhjV1prLWc4dWZxSzc4czZBX0ZIRnFIOFNJYmxtS1dGa1kzSml5ZENINmdvVVdya205Y2R0MDNQc2tSY3hKY0dZdm52bzZqOXZJMDFldDFWVjlrQVFHMEhRU0c1WENBNHdMOVc0czFaTTNPZGFBUkxZTDhzcHN6dnprZnNnenlsRQ?oc=5)
-
----
-
 ### [Von Migräne bis Makuladegeneration: Diese Vorträge bietet das UKSH kostenlos - Lübecker Nachrichten](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRWZFU180dEVlSHVCdmNnX3A5TG11VGZDUFNHdjIyVjc0dHlfMVBHNDdxMm1ESG9tWU5TS1Y2M1hFVW5MTlJhMlUta1VhZnZTVkFCeUkwWXpQWHJ2UThpRHRCOHZBNi1DXzJKR0FaREpiU3RfemgyVkNMc2hQMkpkSjMyVGt2Y0lGX3lVQ2FPYnMtUzRDdzBHc3oxTWtCTjhOb1FMcUdYeGFHc243blhnUkVPRzVXUEVLM0VBNEhMSFBHeDU1WUQwRy05ekxldVFrbjh0T1dOTmNOWEnSAfcBQVVfeXFMT0tQYnZyaW9ZcjBpSlNGNDN1bUp1RVpXQmhDT0tsb3NNVG5YU21TcHJQZGpZT3ZHUHFDQjVvOEhQdUxrSzlCbWtkY3Q5QjZySExRczNtM0c5a2R2bjZNdjlnUVVra3VFeFlIejl0NW9va1NxemJ6dXZleXdrQ0tTcU8xNGRMSkVma2hwaS0tWGlsR1BQbkNYb3VzNkxBYjEyZ1A2amoxRFFZQUp4TVJBZHRPREhhbFIzZzlackpnV283Q21zRmNzM0RFd2ROempqN1FoNUV3QVV0ZEt4U3prR0JsNUY4UFU0aklNU3JoN2dUU20yMk12OA?oc=5)
 
 2026-09-11 <span class="news-indication-tag">Migräne</span>
@@ -86,11 +94,11 @@ permalink: /news/parecoxib-sodium/
 
 ---
 
-### [Hypertension artérielle : quelle quantité de sport pratiquer chaque semaine pour la réduire ?](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
+### [Nüsse senken laut Meta-Analyse das Hypertonie-Risiko – mit klarer Dosisgrenze - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1lpNk8zYmlxM1FoQ3k2V3l1RFFDb2hLMWZMTWhIYXQyd2lQa1FMbmR0OTZYSWRudWtqNGlwR3gxRmhUNjdRQ29YcUFwT0dUdEhxdVJ5azQ1ZGlKNjE4LWZNUkpoNGg2OWVKS2tWb2h5VDhYUkZDcGRLS0ZIOUJYdUxIb0NWblhlNnhZUVdEUzd0UllsbDZTRzFPbWE2RnhEOHZETjZlQ3Nxc3hl?oc=5)
 
-2026-09-11 <span class="news-indication-tag">hypertension</span>
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[charentelibre.fr](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1lpNk8zYmlxM1FoQ3k2V3l1RFFDb2hLMWZMTWhIYXQyd2lQa1FMbmR0OTZYSWRudWtqNGlwR3gxRmhUNjdRQ29YcUFwT0dUdEhxdVJ5azQ1ZGlKNjE4LWZNUkpoNGg2OWVKS2tWb2h5VDhYUkZDcGRLS0ZIOUJYdUxIb0NWblhlNnhZUVdEUzd0UllsbDZTRzFPbWE2RnhEOHZETjZlQ3Nxc3hl?oc=5)
 
 ---
 
@@ -102,19 +110,11 @@ permalink: /news/parecoxib-sodium/
 
 ---
 
-### [Bluthochdruck: Nüsse senken das Risiko](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
----
-
-### [Des traitements contre le diabète, l’asthme, l’hypertension, le cholestérol... Les médicaments les plus prescrits et les moins chers, premières victimes des pénuries et des arrêts de commercialisation, alerte MedFrance - L'Usine Nouvelle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
+### [Des traitements contre le diabète, l’asthme, l’hypertension, le cholestérol... Les médicaments les plus prescrits et les moins chers, premières victimes des pénuries et des arrêts de commercialisation, alerte MedFrance](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
 
 2026-09-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">asthme</span>
 
-來源：[L'Usine Nouvelle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
+來源：[usinenouvelle.com](https://news.google.com/rss/articles/CBMilgNBVV95cUxOZ2lVVC1RU3BJMnc3dnd0YnJvZmlGZk1mTVRBLXpwYWdZNGpxUklfUEpiZERjV2czSDhHdDVjUnNwVWhiSkxqR1FyZ0Q4YWg4OVNGWHhJck9iQmhVRUd2MldjM2wwVGhUXzhvTjA3Sk1kellDb0VaNHVfZ1VJdHFfSkt0QTlSMFpyRU92TlhLWDdvTWdyVEZJdFRCN29Cb3dsMUM4SW1ULW1EZzRlS3lucjBzU2owUlBuU1RMb2l2T0kyUW1pNmx1SmRKS28yYklZWXc1NDBVQzJIbVdnZ3d1alRETVlsb1haekVHVHlZTTFiS2ZjcGRGMzNsR3JCT004a1FRdmdvUEY1ZnllUnc3V0pFOU0xa1VSVTlPeExSV2NxTFdxNjlUdFAyR1BPZGtiSEV6amNiamczaDhyU29zUU5tUUFkUktHX2t0ckRnLVZ0akJaS3J3MW1XOFpCX2JBemkzWnVpTFhnckZzTTlwWXpCc2ZXQ0ZNVUlvYkhMdjlOVmtPRXRtRUxkMlItS191ZVVmclNB?oc=5)
 
 ---
 
@@ -123,14 +123,6 @@ permalink: /news/parecoxib-sodium/
 2026-09-11 <span class="news-indication-tag">hypertension</span>
 
 來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
-
----
-
-### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[fuldaerzeitung.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
 
 ---
 
@@ -152,17 +144,9 @@ permalink: /news/parecoxib-sodium/
 
 ### [Even low light during sleep may damage your heart](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
 
-2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
+2026-09-09 <span class="news-indication-tag">heart disease</span>
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
-
----
-
-### [5 takeaways from the new cholesterol guidelines - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
-
-2026-09-08 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
 ---
 

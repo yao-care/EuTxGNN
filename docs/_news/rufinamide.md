@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>43 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rufinamide</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（43 則）
+## 相關新聞（40 則）
 
 ### [Tumore del pancreas. Aiom: “Daraxonrasib non ancora disponibile in Italia. Avviare subito l’uso compassionevole” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
 
@@ -62,19 +62,19 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Krebs: Dieses kaum bekannte Organ könnte bei der Therapie entscheidend sein](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
+### [Colon Cancer at 37: Then Genetic Testing Revealed a BRCA2 Mutation](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGhlVF8yM0RIR1VrS3kwUm9qNmx5Zkx1MzBxenRac29vcE1KYkV2Wi15NF9GMlFkZm9pYnZUVkNndjZmalY2ZFZ5Z3laQktfNzVjM3BUSHBTc0dBLWo2SFZsNWpCVTdxY2VoanJpQVZadmtPazZOMlNjckY3Nm1KOA?oc=5)
 
-2026-09-12 <span class="news-indication-tag">Krebs</span>
+2026-09-12 <span class="news-indication-tag">cancer</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGhlVF8yM0RIR1VrS3kwUm9qNmx5Zkx1MzBxenRac29vcE1KYkV2Wi15NF9GMlFkZm9pYnZUVkNndjZmalY2ZFZ5Z3laQktfNzVjM3BUSHBTc0dBLWo2SFZsNWpCVTdxY2VoanJpQVZadmtPazZOMlNjckY3Nm1KOA?oc=5)
 
 ---
 
-### [Número de casos de ébola en RD del Congo supera los 7.000, con 3.400 decesos](https://news.google.com/rss/articles/CBMidkFVX3lxTE5tLUlBZEZid0cyRHhhdFlYemtNRHpIV241XzFkVHpqMWxsVzF2OXBiOUtSZVFMX0pZR2ltZG1sY1ZNb1VRSGFmcGJrMWQ4bjlPaWZaQW9WUDFPQl84OWgxVm1vamtsVlFma2VjbkpYQ2Z6R1p2S1E?oc=5)
+### [Krebs - Brauchen wir bald keine Angst mehr davor haben? - DailyQuarks - Podcasts und Audios - ARD Mediathek](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3MxRjRWZWIyVV9OSHNCaGNFT0lJeFhfSEY5WFY2WVRFOUJmWXVWY1d4ZGVTX1RSSTVVY21Ia01oZHh1Mm9KWEhlUmFVekVJcGN4UkRXaENmODlvS2NPSEI1c1hLazMzNGp0OFJLMkE1WkFMTjNCUUgzQkJPRDlvcnFWRkhFNlJHNWtaaHBrVFhrZzkydnplX3lfVmkzMk9VT0tpUERwTF8yZmtFWHhSMk1yQ08tNzg?oc=5)
 
-2026-09-12 <span class="news-indication-tag">MS</span>
+2026-09-12 <span class="news-indication-tag">Krebs</span>
 
-來源：[人民网](https://news.google.com/rss/articles/CBMidkFVX3lxTE5tLUlBZEZid0cyRHhhdFlYemtNRHpIV241XzFkVHpqMWxsVzF2OXBiOUtSZVFMX0pZR2ltZG1sY1ZNb1VRSGFmcGJrMWQ4bjlPaWZaQW9WUDFPQl84OWgxVm1vamtsVlFma2VjbkpYQ2Z6R1p2S1E?oc=5)
+來源：[WDR](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3MxRjRWZWIyVV9OSHNCaGNFT0lJeFhfSEY5WFY2WVRFOUJmWXVWY1d4ZGVTX1RSSTVVY21Ia01oZHh1Mm9KWEhlUmFVekVJcGN4UkRXaENmODlvS2NPSEI1c1hLazMzNGp0OFJLMkE1WkFMTjNCUUgzQkJPRDlvcnFWRkhFNlJHNWtaaHBrVFhrZzkydnplX3lfVmkzMk9VT0tpUERwTF8yZmtFWHhSMk1yQ08tNzg?oc=5)
 
 ---
 
@@ -98,7 +98,15 @@ permalink: /news/rufinamide/
 
 2026-09-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDBHNk43YkM2amJIUVdZOGhmUVdWRFVIalUzZG9FMTNRRXRULXBhSTlSVVRwOFg0YjZNS0RpQ1lTYkcwcEFaeG81djNNaEM5NGRuUllQbTRPR0JsUFV1THoxVE9xZ08tbXhWMG9maGVEblAweGIzaS1YcjZxYUNQUXRsRjkyWURyWk1xUHp3N2RGNk1TSzgzSnhJT0dIYV9Udm9kMUpKTGw4RmtFaVAwUm44ank2OHI4NFRvVGZ1MXJKV0tOOGk3OFVpdE9TWFFyQUZ2c1NERVpNLWJqQlJZcDNyME5LZWs?oc=5)
+來源：[fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDBHNk43YkM2amJIUVdZOGhmUVdWRFVIalUzZG9FMTNRRXRULXBhSTlSVVRwOFg0YjZNS0RpQ1lTYkcwcEFaeG81djNNaEM5NGRuUllQbTRPR0JsUFV1THoxVE9xZ08tbXhWMG9maGVEblAweGIzaS1YcjZxYUNQUXRsRjkyWURyWk1xUHp3N2RGNk1TSzgzSnhJT0dIYV9Udm9kMUpKTGw4RmtFaVAwUm44ank2OHI4NFRvVGZ1MXJKV0tOOGk3OFVpdE9TWFFyQUZ2c1NERVpNLWJqQlJZcDNyME5LZWs?oc=5)
+
+---
+
+### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe - Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
 
 ---
 
@@ -107,6 +115,22 @@ permalink: /news/rufinamide/
 2026-09-11 <span class="news-indication-tag">Krebs</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmxLN3B4Ql9ldWlYeldrVTlfcGQ2c01fQkZ0UTF0Q0FLZ0V0WmU4ZlFpZGxaOGZGRXBrdW1ROTRJVk5yb3MtaWtrS3Jsb2lReHNuTDRRalBTWk1QMm5YSkFwMVcxcVQ0ekRRV3VHTTFDdGJCOHRpTllZaTJkR29odFNlYnYzcjJUS19PR19RS3VMU3RIUkNzOVNhQXJaSnJUNWY1UjdpWFFBTTBOb3hYVnpSS3JtdWdmUGpSN0IwalJrTXhzVmgzYXptOWR6cERTcTZSeUkyNk5Cdw?oc=5)
+
+---
+
+### [Aifa approva inavolisib: prima terapia personalizzata per carcinom](https://news.google.com/rss/articles/CBMiigJBVV95cUxPQmd0cHpPbnhnOGpGT09wMkd1dXZiTHU2RTJIN3FwU1R3dTVVNTBNRU9rWHdWTnVQanJneHdVdTlXcmM5a1NTV0N4RVFGbW1QaGxEVzJoeXdtSTktdUJTM3BLUllSbloxeGROX1VyQmlLbG5QdFVrbFBlTzROZkdFeExSck85WHVPZ0dxN1hUZEtPZ0dJTlVmWGJ0aFV1Z3lBdnVuMXJfYkZVemh2dDFkX3lNUUlLNkluVjhpckFLOUkwaDRJZnZZa3FtbVFNMkJTTFZja21OWmNEbmliT3doaUFVZFJKR0g0bUIwREFSVUluWEtlZGlYWUlYVW12eF9TUlVvRUNJM1dyQQ?oc=5)
+
+2026-09-11 <span class="news-indication-tag">carcinoma</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiigJBVV95cUxPQmd0cHpPbnhnOGpGT09wMkd1dXZiTHU2RTJIN3FwU1R3dTVVNTBNRU9rWHdWTnVQanJneHdVdTlXcmM5a1NTV0N4RVFGbW1QaGxEVzJoeXdtSTktdUJTM3BLUllSbloxeGROX1VyQmlLbG5QdFVrbFBlTzROZkdFeExSck85WHVPZ0dxN1hUZEtPZ0dJTlVmWGJ0aFV1Z3lBdnVuMXJfYkZVemh2dDFkX3lNUUlLNkluVjhpckFLOUkwaDRJZnZZa3FtbVFNMkJTTFZja21OWmNEbmliT3doaUFVZFJKR0g0bUIwREFSVUluWEtlZGlYWUlYVW12eF9TUlVvRUNJM1dyQQ?oc=5)
+
+---
+
+### [A common stomach infection may be linked to bowel cancer – here’s what we know - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmlLbndIUU53dUVHR1htT1hqeG5rcm85ekliTHhCcDNaWkxzWDNrQWNPbXVxaDlQUWZmYkM3YnktVHdCNl9ZZHRSMHFXeUdoMUNGLS1tUUNEc2RxT2JZRkNZNV85TE4zRjdLQVpjTVlTZjNEaGU5dHVjTEZISi1rUUdJc18wT1NkV3Rvc1hCTVpJZnZFRWpSRDJwSlVPeFFZeHpxVEZrYWhKVnRJN3pB?oc=5)
+
+2026-09-11 <span class="news-indication-tag">cancer</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmlLbndIUU53dUVHR1htT1hqeG5rcm85ekliTHhCcDNaWkxzWDNrQWNPbXVxaDlQUWZmYkM3YnktVHdCNl9ZZHRSMHFXeUdoMUNGLS1tUUNEc2RxT2JZRkNZNV85TE4zRjdLQVpjTVlTZjNEaGU5dHVjTEZISi1rUUdJc18wT1NkV3Rvc1hCTVpJZnZFRWpSRDJwSlVPeFFZeHpxVEZrYWhKVnRJN3pB?oc=5)
 
 ---
 
@@ -126,6 +150,14 @@ permalink: /news/rufinamide/
 
 ---
 
+### [Study of 1.9 million people finds a striking link between ADHD and gut problems - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMHhybWwxUVpoMDlqSVhMRThwcXBsWnJPcVhTcEpzWWEwSFVfSzRLRmZWckhNRDJtTUh5M2E5RUFIQUQ0TUttdDBZaGxab2ZxVHUxcWdJdy1idVVubXRLVGQzSFo5WHF2QUR0TWVEVQ?oc=5)
+
+2026-09-11 <span class="news-indication-tag">MS</span>
+
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMHhybWwxUVpoMDlqSVhMRThwcXBsWnJPcVhTcEpzWWEwSFVfSzRLRmZWckhNRDJtTUh5M2E5RUFIQUQ0TUttdDBZaGxab2ZxVHUxcWdJdy1idVVubXRLVGQzSFo5WHF2QUR0TWVEVQ?oc=5)
+
+---
+
 ### [Nurse previously given months to live now cancer-free after groundbreaking operation at hospital - GB News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
 
 2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -134,11 +166,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Bislang unbekannte Immunbremse in Hautzellen entdeckt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnJkelNWNDN6MWx0Qmo3Skh5cTluRVowYmg4M2t4TjBhRnppUFhjbXp5Ni11b1hCejBoWVBScVhaTGxyVnJqbTJHLThCWUt3NThmZmcyOWM5QW1DQUNIU2hoNW00bTA4S2JVUnl5a18tQ3daX2xldGZ0RThBVlllTmVzNWEtN3ktWmdfbTNHMkdCSjhhRWNoRE9tcmlDdW1NMTZhTU5tUUFROHRiMW4wOA?oc=5)
+### [Bislang unbekannte Immunbremse in Hautzellen entdeckt](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnRRNEhKVjZ6VWc4N201RWFjb2NGenVnZ1lBOGtQOHMzaHdWR1FNb3lsNm80RUR2OG1vYVFHOUtwcmMxcl84ZUM1VnJUMnQxbWRWbE50ak5NU1k4NEtrLUpOeGctV0p4TkZUMlQ4dEE3cG9FTHk0M3kyamdGRGJ0ZVJJZHZNZE5DUTAzNWF2UmxBR2E5NGNhUnhB?oc=5)
 
 2026-09-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnJkelNWNDN6MWx0Qmo3Skh5cTluRVowYmg4M2t4TjBhRnppUFhjbXp5Ni11b1hCejBoWVBScVhaTGxyVnJqbTJHLThCWUt3NThmZmcyOWM5QW1DQUNIU2hoNW00bTA4S2JVUnl5a18tQ3daX2xldGZ0RThBVlllTmVzNWEtN3ktWmdfbTNHMkdCSjhhRWNoRE9tcmlDdW1NMTZhTU5tUUFROHRiMW4wOA?oc=5)
+來源：[JuraForum.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnRRNEhKVjZ6VWc4N201RWFjb2NGenVnZ1lBOGtQOHMzaHdWR1FNb3lsNm80RUR2OG1vYVFHOUtwcmMxcl84ZUM1VnJUMnQxbWRWbE50ak5NU1k4NEtrLUpOeGctV0p4TkZUMlQ4dEE3cG9FTHk0M3kyamdGRGJ0ZVJJZHZNZE5DUTAzNWF2UmxBR2E5NGNhUnhB?oc=5)
 
 ---
 
@@ -150,14 +182,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Scientists find signs of extreme aging and youth in the same 117-year-old](https://news.google.com/rss/articles/CBMib0FVX3lxTE40b0ZTTG5FeEl3a0JPQnIzczlUQ2tnUUtKRVV6dnFBczg0R2t5ZUV4QjYydTFqNDJmQUV1R2JkY2RfQkdvUUlwV2F0QzhONWdTZFAzSFlxWGFIcmdPWWhfSk5wdGxXTF9ESjJiQVktOA?oc=5)
-
-2026-09-11 <span class="news-indication-tag">MS</span>
-
-來源：[sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE40b0ZTTG5FeEl3a0JPQnIzczlUQ2tnUUtKRVV6dnFBczg0R2t5ZUV4QjYydTFqNDJmQUV1R2JkY2RfQkdvUUlwV2F0QzhONWdTZFAzSFlxWGFIcmdPWWhfSk5wdGxXTF9ESjJiQVktOA?oc=5)
-
----
-
 ### [Descubren cómo el envejecimiento del cerebro puede influir en la evolución de los tumores cerebrales](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1BZeS1PZ2JHeURFY1ZwT1lqeDBZQUx6Z3pRSzA0WmRFLUg0b0VCMWsxUC1aWnJmMkt0WHF5MW5HSU1LVDl0ZXEtck9BdktjWUxVbkFxWHQ3YlRfVFFESGxVMEV3RDNfSzdRX1ZLZW9wS0xlbVQ3UjJHOHpZZ2RZVDVDLWdXRE9uOUFlemVlUlBzaTI1QWNXbEF1eUVhREtnVU9xazd6aWJpN3VkQV83dnNhRVNZY05RN2tSMlZqZ2hXWjhOc0dOZGhSN3R5NUFOTGw5Y0RDMzI0M3puZkt2RmxpOA?oc=5)
 
 2026-09-11 <span class="news-indication-tag">tumor</span>
@@ -166,11 +190,19 @@ permalink: /news/rufinamide/
 
 ---
 
+### [Démence : l'étude scientifique révèle enfin les 3 erreurs du milieu de vie qui détruisent la mémoire après 55 ans](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMEZCUWF2R2tRYkktUjc1d1ZYLXBGQXVZTFZKc3Qwb09SSGdDcHVsajNfcnNIc0tYcWdycHB3Qy1QZFp3d0hZdl84enp2d2xvWTZLOWxvRU9MaXRIRWtZYy1PaXdwSTlRdy1BbUxxMlo4NlhpODZSR3dYTWgyX2JCdEtyaVdxa3psSGdsaTlya1U5WFpkdkZ3TGtVU2t0ZHdRQXcybVFCbzZ5SVBrak9wUEg0bjlOd3B5X2d6YUtjVmtUUFRYVldOeGRzNTBoWVBOczFSQWJDREV0MVZWYVp4RzUyN1c4aS1PZkoxU2dCdFA?oc=5)
+
+2026-09-11 <span class="news-indication-tag">MS</span>
+
+來源：[pleinevie.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMEZCUWF2R2tRYkktUjc1d1ZYLXBGQXVZTFZKc3Qwb09SSGdDcHVsajNfcnNIc0tYcWdycHB3Qy1QZFp3d0hZdl84enp2d2xvWTZLOWxvRU9MaXRIRWtZYy1PaXdwSTlRdy1BbUxxMlo4NlhpODZSR3dYTWgyX2JCdEtyaVdxa3psSGdsaTlya1U5WFpkdkZ3TGtVU2t0ZHdRQXcybVFCbzZ5SVBrak9wUEg0bjlOd3B5X2d6YUtjVmtUUFRYVldOeGRzNTBoWVBOczFSQWJDREV0MVZWYVp4RzUyN1c4aS1PZkoxU2dCdFA?oc=5)
+
+---
+
 ### [Der gefährlichste Bewohner des Terrariums ist oft unsichtbar](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">MS</span>
 
-來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 ---
 
@@ -190,19 +222,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Menopause supplements are a ‘waste of money’ and risk ‘toxic liver damage’ - the only £1.49 pills advised - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYm90Z0FxQjVhdXlMUll2ZHN5dmlmZHRhRmo0bDBhbHJ2R2N5OVlfMUxFemRJbEhPRTc0VUJfNjNSUU5vcmpPaGZLWndFcnVfX3dLNVFJcGZrcTJTYjM5ZjkxbHdmRWlHTklnVDRfUDhBeGQtS1Zub2dLLTlkMWlUR3VUZ2NCQTRqeGlHWUhkTW9Fdw?oc=5)
+### [Semaglutid: GLP-1-Mittel reduziert Asthmaanfälle um 40 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxXaEt6UDJkamRyM0xyNGxxdHdwS0NDd083b2NPc0NtZXhSYk5adVFSNHNISGZ5NGxaRGRqNEt5MlU1eUxpcFVfWm9aN3pYanRlZzhnMV9XZGxyb1JZQnBwaTNzc0tETnZyUGdOOTktSlRzWUJCYnRxZGJrYUt6YjRUWDNucWRMd01jTXRZc3A0R0NkMEpWcWRORjNDV0lpNWJFb0pmYkdha012QU5GVg?oc=5)
 
-2026-09-10 <span class="news-indication-tag">MS</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYm90Z0FxQjVhdXlMUll2ZHN5dmlmZHRhRmo0bDBhbHJ2R2N5OVlfMUxFemRJbEhPRTc0VUJfNjNSUU5vcmpPaGZLWndFcnVfX3dLNVFJcGZrcTJTYjM5ZjkxbHdmRWlHTklnVDRfUDhBeGQtS1Zub2dLLTlkMWlUR3VUZ2NCQTRqeGlHWUhkTW9Fdw?oc=5)
-
----
-
-### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxXaEt6UDJkamRyM0xyNGxxdHdwS0NDd083b2NPc0NtZXhSYk5adVFSNHNISGZ5NGxaRGRqNEt5MlU1eUxpcFVfWm9aN3pYanRlZzhnMV9XZGxyb1JZQnBwaTNzc0tETnZyUGdOOTktSlRzWUJCYnRxZGJrYUt6YjRUWDNucWRMd01jTXRZc3A0R0NkMEpWcWRORjNDV0lpNWJFb0pmYkdha012QU5GVg?oc=5)
 
 ---
 
@@ -230,14 +254,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
-
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
-
----
-
 ### [A Woman's Intestines Literally Tied Themselves Into a Knot After Childbirth](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
 
 2026-09-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -251,22 +267,6 @@ permalink: /news/rufinamide/
 2026-09-10 <span class="news-indication-tag">Krebs</span>
 
 來源：[dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXYxU0wzcGFEQkZFSjdGTDlEYjhMZ3lrd3lEV3RxMzBuZm9KdjRfTjdvTHNMZjZ0VElnY1NVd3pVZFVSdkE4LWpqOW9tNjMwV0FldHVsblJVNl82WGZzc1ZRWlhWLTBpWVVGeEpEOE1ZbGs5U2xWOXA0SWFQQzZJQWRiVno2Q19kbmwwSGlvMElHNUhDQUpoM2xWVmpOQVpvRDlFN1dCUENzN041RDhJRWR1RDZLWG9SejlqMklrNk1zUzg?oc=5)
-
----
-
-### [Fettleber: Neue Risiken für Herz und Nieren entdeckt](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
-
-2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
-
----
-
-### [Cancers hormonodépendants : le microbiote au cœur d'un nouvel axe endocrine](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTY1OTRLMnQyYTZGOXpja0t5Sl9QVzA3ODVTSnE1d1VkNUMza1JFSGFNTzlzTzlXUXJpX2ZDYVpNdVVVeWhpSVBYU19WNGtMa2tIbHltb2tfR0QxMjhZYlptaEx6UnJGTU9pR3ZBc1dpWHB3UlduTUlFWENyNUkwM3hudEpTcUNyNXZLRnJ2dzBNT1R3Tm85bmNYQmFhdzRD?oc=5)
-
-2026-09-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTY1OTRLMnQyYTZGOXpja0t5Sl9QVzA3ODVTSnE1d1VkNUMza1JFSGFNTzlzTzlXUXJpX2ZDYVpNdVVVeWhpSVBYU19WNGtMa2tIbHltb2tfR0QxMjhZYlptaEx6UnJGTU9pR3ZBc1dpWHB3UlduTUlFWENyNUkwM3hudEpTcUNyNXZLRnJ2dzBNT1R3Tm85bmNYQmFhdzRD?oc=5)
 
 ---
 
@@ -294,14 +294,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [DNA treatment cuts bad cholesterol by nearly 50% without statins](https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN1NaSkkxMWFLS1BVSVpBUk9TWTJrSjF5emlBVko1Smc3dllrVS0tWHZKbkdaRmloNUlGMVRDako5elhmZ2JTdms3LWFEMDRSc0J2VUVyY2RONi1lQ0RtV0E2bXJCclFDZ3VYcmVLaw?oc=5)
-
-2026-09-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN1NaSkkxMWFLS1BVSVpBUk9TWTJrSjF5emlBVko1Smc3dllrVS0tWHZKbkdaRmloNUlGMVRDako5elhmZ2JTdms3LWFEMDRSc0J2VUVyY2RONi1lQ0RtV0E2bXJCclFDZ3VYcmVLaw?oc=5)
-
----
-
 ### [Licht aktiviert Chemotherapie gezielt am Tumor - JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMigAFBVV95cUxPaHoyMUgxVVc0cmpxZkdVSl8yREpwQmRqYjlKMGgzb0VlSFFyaDhrOHF2ZVFDZmcxODdLNXJoOWdHVVJYbmZvcEh1Z2hfWjVNU2ZwcDRpMGpQRlJ6U0t4QXZzb0VKVFBkaks2WV9TUWNfc0tobVFLZWc4X25TdTB2bw?oc=5)
 
 2026-09-10 <span class="news-indication-tag">tumor</span>
@@ -318,14 +310,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Escaliers après 60 ans : faites ce test simple pour évaluer votre santé cardiaque](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk5wel8yLUxmYUJVbWJKRVdPZ2JNRngza3BvXzdhbVNUM05VMXU5bXNCUTVXUzUtZ0pxaXpHUDkwamhFRXFsV0JJY2lfRG5RMGEyaHB5OVZXQWQzSTlWSTAySGg2bWJhRzJydnByWld0Z0oxanJnT2w0YmJhMWVZbzRma2VJbnB5MWxEaFBZYVkxeHZHTnc?oc=5)
-
-2026-09-09 <span class="news-indication-tag">MS</span>
-
-來源：[PasseportSanté](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk5wel8yLUxmYUJVbWJKRVdPZ2JNRngza3BvXzdhbVNUM05VMXU5bXNCUTVXUzUtZ0pxaXpHUDkwamhFRXFsV0JJY2lfRG5RMGEyaHB5OVZXQWQzSTlWSTAySGg2bWJhRzJydnByWld0Z0oxanJnT2w0YmJhMWVZbzRma2VJbnB5MWxEaFBZYVkxeHZHTnc?oc=5)
-
----
-
 ### [Integrated signatures define mutational processes in prostate cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15WVRCQnZfZDUxSkU2aGxHTnZ0c2JfamVGNG03emxuLVZuMmFqYzZkWTNSRzNsS3YxSGRwUklfeXA5c2YydzduMDItVlVBbmNHYTRPdXlxdFMzb05YSGF3?oc=5)
 
 2026-09-09 <span class="news-indication-tag">cancer</span>
@@ -334,27 +318,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Huddersfield mum urges young women to check for ovarian cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdjNraENPd0tBS3lFa0c0VEptY0pBOF94bDdxaGN2cy1TdlM3QzFnd0FBU0VTc2diVDVRRnkyQ0x1cGdYcTFHcV9fSkhDN0phSFpITWtKbDdhZ0pD?oc=5)
-
-2026-09-09 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdjNraENPd0tBS3lFa0c0VEptY0pBOF94bDdxaGN2cy1TdlM3QzFnd0FBU0VTc2diVDVRRnkyQ0x1cGdYcTFHcV9fSkhDN0phSFpITWtKbDdhZ0pD?oc=5)
-
----
-
-### [Angriffspunkt bei kleinzelligem Lungenkrebs: Studie der Uni Köln - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0gxV0ZCbUNIa1BHNmhnMnJTeHgtZ3E2dFFXM041cG1RcDZIdnVkYU4tTUtOOWswNms3ZGxRczZnbzBVdV95ckJMcVVsWFFrSDFRanhwZEYxRWFBYTc0M2tNZWlmcHdpOVJTbzBKRWFsSjRmYUY4WElTdGQ0QUpXZUlBRmxSd0dBU0xkaEhPVXpKOTVkMFdHcXhSSU5YckU0Z3p2dmhpUWUzcWlsR0hNQ1l0QVI?oc=5)
+### [Neue Studie deckt Schwachstelle im kleinzelligen Lungenkrebs auf – Therapeutischer Ansatz durch gezielte Inhibition möglich](https://news.google.com/rss/articles/CBMickFVX3lxTE1Icll2WEpUSzFxY0l3b3hyUkg3aFJiX2JzMk5QZ244WFM5eVlfbUNvODNzeWpzc1QwVGl4RF9HcWpqODQtSHF5LWlrU0F4RlYxdjA1VHJXeFBiR201NTRpWjJYZ0NkaVJSUXRuTFF0bGVTQQ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">Krebs</span>
 
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0gxV0ZCbUNIa1BHNmhnMnJTeHgtZ3E2dFFXM041cG1RcDZIdnVkYU4tTUtOOWswNms3ZGxRczZnbzBVdV95ckJMcVVsWFFrSDFRanhwZEYxRWFBYTc0M2tNZWlmcHdpOVJTbzBKRWFsSjRmYUY4WElTdGQ0QUpXZUlBRmxSd0dBU0xkaEhPVXpKOTVkMFdHcXhSSU5YckU0Z3p2dmhpUWUzcWlsR0hNQ1l0QVI?oc=5)
-
----
-
-### [Prostatakrebs: Diese acht Muster verraten, welcher Tumor tötet - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY05pQzVUaVAyMWlRTnNDQVFnNVQzQ01adEJVMjQ2NnhKMlFST09maFByTmxLSG54RkF2NjN2QjMyMjlJeklocmR3c3hHSmpTcnpQRDR3YzN0V210VG52OW4xWEVIQkkzMFR4ZVRnSzZJRmZLQlV6OUlZNmhvWDdveXlvbF9oZUhlWnRyNFp6UTdpUlFXTHpTOXRiekdyNW5vUjF5ZVdINS1EbE12RTRhRXRsdVJWLUZYN3NLQUozbHVBZ2s?oc=5)
-
-2026-09-09 <span class="news-indication-tag">tumor</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY05pQzVUaVAyMWlRTnNDQVFnNVQzQ01adEJVMjQ2NnhKMlFST09maFByTmxLSG54RkF2NjN2QjMyMjlJeklocmR3c3hHSmpTcnpQRDR3YzN0V210VG52OW4xWEVIQkkzMFR4ZVRnSzZJRmZLQlV6OUlZNmhvWDdveXlvbF9oZUhlWnRyNFp6UTdpUlFXTHpTOXRiekdyNW5vUjF5ZVdINS1EbE12RTRhRXRsdVJWLUZYN3NLQUozbHVBZ2s?oc=5)
+來源：[EurekAlert!](https://news.google.com/rss/articles/CBMickFVX3lxTE1Icll2WEpUSzFxY0l3b3hyUkg3aFJiX2JzMk5QZ244WFM5eVlfbUNvODNzeWpzc1QwVGl4RF9HcWpqODQtSHF5LWlrU0F4RlYxdjA1VHJXeFBiR201NTRpWjJYZ0NkaVJSUXRuTFF0bGVTQQ?oc=5)
 
 ---
 
@@ -371,6 +339,14 @@ permalink: /news/rufinamide/
 2026-09-09 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTJFRWZVXzBBSWJldjVTMHR0blV5OFJCUjIzRHF0QVFic2NlbW9YXzk5TUZHa1NKR3h0N3BXUFZzV2VaeWJUWDhrRm5nY3dkYjFxdmhyU2tPVzlEVzkta1hTSVhGckZsc21mWEZZTlFFZEpJYWYyMVFlblBQTVRrOWxVajgxWGI5SVBoNGZiYXJWdjMzcmRyWUJJTEg?oc=5)
+
+---
+
+### [Hepatozelluläre Steatose: Botenstoff des Immunsystems schützt die Leber - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VfRXUxME0wMDRxQm1IODExdDFQR3U1cDNRQU1md2owLTRTMzg5cnBOMklTY1JiZWtaRlkyaTJyUVkya3J0OVM1TFVRU28tcHdNSjNNdm1BR2dLNzR4ZUZkMVMwMVMwcjFkN2o0bmFhMTFOSUVTamludnVMdmN2QTBqaVZWN1ZqSzdpRnhXQ1dyUW1aM1VJV1lneFZSRWtXYzFN?oc=5)
+
+2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VfRXUxME0wMDRxQm1IODExdDFQR3U1cDNRQU1md2owLTRTMzg5cnBOMklTY1JiZWtaRlkyaTJyUVkya3J0OVM1TFVRU28tcHdNSjNNdm1BR2dLNzR4ZUZkMVMwMVMwcjFkN2o0bmFhMTFOSUVTamludnVMdmN2QTBqaVZWN1ZqSzdpRnhXQ1dyUW1aM1VJV1lneFZSRWtXYzFN?oc=5)
 
 ---
 

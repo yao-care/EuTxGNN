@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### ['I had horrible thoughts after my baby was born': Dad's experience of postnatal depression](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56b3d3ZUtLYXNGRUp0Wi1QNmh3Z0JuT01kTG9kUUhBM3FLdzU0OE5TdVhLM0RQUV93b3J4MmlZVGVfMnRmeXZ6dUF1Skd6Q3o0aWQtWXhRVHpGX3Rk?oc=5)
-
-2026-09-11
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56b3d3ZUtLYXNGRUp0Wi1QNmh3Z0JuT01kTG9kUUhBM3FLdzU0OE5TdVhLM0RQUV93b3J4MmlZVGVfMnRmeXZ6dUF1Skd6Q3o0aWQtWXhRVHpGX3Rk?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Depression risk associated with idealized sentiment toward urban places on social media](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4td0ozWHY5R2Z6TmRrbW94RHpjZV9JMF9ORkF2YzlueWdaZHppUkVybEpKcFlOcloxdU1ZOU4wMWJUd1VVZzVIWGwwV3R3alM1RTE5OEg2MTZjVG9rei1R?oc=5)
 

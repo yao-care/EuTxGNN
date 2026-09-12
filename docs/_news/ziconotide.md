@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
 
-### [¿Por qué en España se exigen 8 migrañas al mes para acceder a los fármacos y en Alemania solo 4? - El Correo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHdkYmc4RGlFSzBfeEpsVmR4Q19mUGtIYzJXNU5oS2JZRmRZakdDanEtM3N5V0lCSFJGR0RjLWdIODlabC1qd004N1c4NjVBQ190cnV1NW95VlpUcjJRNTJtN3hHV3dyWW41V0RnZ1NQUjRBVy13QUZYdFVKb3NpcmRkckl2Q1JWY3dEMFFnRU11SEQ2YlplYTNZT080anFYYjVMdnJOcjNFQzZOakxtWWZtdm1Vd9IBuwFBVV95cUxOOHdvRjE4el9xZmRVdURVX3kyZHJ0N3YyWm9RN05uYktyUHVLNjZoa1c0dU5PbWZqaXVrY2trN1IwdHluME1PdmlSdE1YeE4wc0hVN0VYVUJHVzZXRTVHSnlrZXZoZ1UzSzFicUJ5blhCM25OZGZ2dzlqS0ljcndKc0xkcERVWDJDM281WEFxWU1WeDRKZXdlWDN0dGpWeWZOaEllNE9tTGNVYXpDbmVrLUctdF9hSDdOYmJZ?oc=5)
+### [La migraña afecta a más de 6 millones de personas en España, pero solo 1 de cada 10 recibe tratamiento preventivo - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
 
-2026-09-12 <span class="news-indication-tag">migraña</span>
+2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHdkYmc4RGlFSzBfeEpsVmR4Q19mUGtIYzJXNU5oS2JZRmRZakdDanEtM3N5V0lCSFJGR0RjLWdIODlabC1qd004N1c4NjVBQ190cnV1NW95VlpUcjJRNTJtN3hHV3dyWW41V0RnZ1NQUjRBVy13QUZYdFVKb3NpcmRkckl2Q1JWY3dEMFFnRU11SEQ2YlplYTNZT080anFYYjVMdnJOcjNFQzZOakxtWWZtdm1Vd9IBuwFBVV95cUxOOHdvRjE4el9xZmRVdURVX3kyZHJ0N3YyWm9RN05uYktyUHVLNjZoa1c0dU5PbWZqaXVrY2trN1IwdHluME1PdmlSdE1YeE4wc0hVN0VYVUJHVzZXRTVHSnlrZXZoZ1UzSzFicUJ5blhCM25OZGZ2dzlqS0ljcndKc0xkcERVWDJDM281WEFxWU1WeDRKZXdlWDN0dGpWeWZOaEllNE9tTGNVYXpDbmVrLUctdF9hSDdOYmJZ?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/ziconotide/
 2026-09-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
-
----
-
-### [Cómo combatir la migraña: sueño regular, dieta mediterránea y ejercicio físico - Libertad Digital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREIxdm5XVGlJVFo1VkdNT2JmNC01bnkzYXVVOUlXWWstcHVWeEhMV1c0aXlYcmpHR3g3clpNUm1LRUVVSVUwcDNwajRNMjdud3JMNHdSdE1rRlpnQm83aXRMZ0JCejdXZGJJWG9Ua3BwWVFPT2tSSTZlZG8tbnZnYlRGRlNuWWlJRDZWcENZaU1hR19nRjdBVUdOVkpqMWxTOU12SVFlV0RpQmJTaERxY29XWjNxMF81WlJuWjlUSVZXMWw4bi1CRXFlalhmVjVDb2VHT1pNY0JFRGRQVXRtR0dyRXctaERR0gHzAUFVX3lxTFBWSGN4WlNVQmlmdGp4c25BQ0NLeUtXSUx0eXppZFFmMXZ2b0Izenp6VHNhSGs0M0djb1VOSVh6NEM3UUV5WHdFOUExQ3ZlZ3U2MDJ2V3E3Y1E2UVNfa2NYVmZXVFdhN2YwTklXNDNKRGM3QnhjV1prLWc4dWZxSzc4czZBX0ZIRnFIOFNJYmxtS1dGa1kzSml5ZENINmdvVVdya205Y2R0MDNQc2tSY3hKY0dZdm52bzZqOXZJMDFldDFWVjlrQVFHMEhRU0c1WENBNHdMOVc0czFaTTNPZGFBUkxZTDhzcHN6dnprZnNnenlsRQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">migraña</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREIxdm5XVGlJVFo1VkdNT2JmNC01bnkzYXVVOUlXWWstcHVWeEhMV1c0aXlYcmpHR3g3clpNUm1LRUVVSVUwcDNwajRNMjdud3JMNHdSdE1rRlpnQm83aXRMZ0JCejdXZGJJWG9Ua3BwWVFPT2tSSTZlZG8tbnZnYlRGRlNuWWlJRDZWcENZaU1hR19nRjdBVUdOVkpqMWxTOU12SVFlV0RpQmJTaERxY29XWjNxMF81WlJuWjlUSVZXMWw4bi1CRXFlalhmVjVDb2VHT1pNY0JFRGRQVXRtR0dyRXctaERR0gHzAUFVX3lxTFBWSGN4WlNVQmlmdGp4c25BQ0NLeUtXSUx0eXppZFFmMXZ2b0Izenp6VHNhSGs0M0djb1VOSVh6NEM3UUV5WHdFOUExQ3ZlZ3U2MDJ2V3E3Y1E2UVNfa2NYVmZXVFdhN2YwTklXNDNKRGM3QnhjV1prLWc4dWZxSzc4czZBX0ZIRnFIOFNJYmxtS1dGa1kzSml5ZENINmdvVVdya205Y2R0MDNQc2tSY3hKY0dZdm52bzZqOXZJMDFldDFWVjlrQVFHMEhRU0c1WENBNHdMOVc0czFaTTNPZGFBUkxZTDhzcHN6dnprZnNnenlsRQ?oc=5)
 
 ---
 
@@ -91,6 +83,14 @@ permalink: /news/ziconotide/
 2026-09-11 <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
+
+---
+
+### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe - Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
 
 ---
 
@@ -118,35 +118,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [We’re in our sixties — with the same sized waists we had in our twenties - The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYk1HQ08ySVA0NTRKcldSVEtLaVpJaW54WjExcUVWN3BvZGRoX0pCcTlsM0hUOGFFRG13dm1GR2ZHUUdHRlVPZjFsUXZIY1VzVUJxNVdSaFVUX1N2Y3J0V2M1Tl9KN08zNlpwbXI1MXFyc0VFSkwzSXFjTUZRenFoNXRXc3RWSjhq?oc=5)
-
-2026-09-11 <span class="news-indication-tag">obesity</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYk1HQ08ySVA0NTRKcldSVEtLaVpJaW54WjExcUVWN3BvZGRoX0pCcTlsM0hUOGFFRG13dm1GR2ZHUUdHRlVPZjFsUXZIY1VzVUJxNVdSaFVUX1N2Y3J0V2M1Tl9KN08zNlpwbXI1MXFyc0VFSkwzSXFjTUZRenFoNXRXc3RWSjhq?oc=5)
-
----
-
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Schlafapnoe: Neues Medikament senkt Atemaussetzer um 44 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
-
-2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
-
----
-
-### [Gli effetti a lungo termine dei farmaci per dimagrire - 3/4 - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNWHNfd1ljMnM0dWhRUWtxWl85WFdJcGhsTnZEMHdsVHFPSDMwRXdCZ0tOUkxMa3hWVTBlaGxhb2VndnMwVFRCcnAwQzJobzN3bUxJcmRVYXhpR2dKVldFOUxLU0h2Ny1ULWppOHJoekptMmtCU1JJa2taenJ5WEFqUmM0TURfakoyMXNla1B6Z2tFckpBOWR1SUJwMlJCRExIa3p1YlBHZWtyOV9NNEZ2djhRc3VhNFFLSEJ5SzZVcUZ4N1ZHUjMyMlE5N052NnluVVo2Y0xSMzlkd3pLZFpiOFh3NHF0WHNsQWZaa0dxaDA0dXZ5N3laWDZFU0hLSXplaTFZbmw5UnM0UWpFQ0lUUVQzd2YxUVphTUVuMFJhZ3J0MjJHaVNZako1QWVqY09rQVpDV1dCU3owdmNEeGZkWlZZM202TEQ3RVBudU9yRmh1dw?oc=5)
-
-2026-09-10 <span class="news-indication-tag">obesità</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNWHNfd1ljMnM0dWhRUWtxWl85WFdJcGhsTnZEMHdsVHFPSDMwRXdCZ0tOUkxMa3hWVTBlaGxhb2VndnMwVFRCcnAwQzJobzN3bUxJcmRVYXhpR2dKVldFOUxLU0h2Ny1ULWppOHJoekptMmtCU1JJa2taenJ5WEFqUmM0TURfakoyMXNla1B6Z2tFckpBOWR1SUJwMlJCRExIa3p1YlBHZWtyOV9NNEZ2djhRc3VhNFFLSEJ5SzZVcUZ4N1ZHUjMyMlE5N052NnluVVo2Y0xSMzlkd3pLZFpiOFh3NHF0WHNsQWZaa0dxaDA0dXZ5N3laWDZFU0hLSXplaTFZbmw5UnM0UWpFQ0lUUVQzd2YxUVphTUVuMFJhZ3J0MjJHaVNZako1QWVqY09rQVpDV1dCU3owdmNEeGZkWlZZM202TEQ3RVBudU9yRmh1dw?oc=5)
 
 ---
 
@@ -155,6 +131,14 @@ permalink: /news/ziconotide/
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+
+---
+
+### [GLP-1, quando dimagrire cambia anche i rapporti: cosa succede a coppie, famiglie e amicizie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1FXek9SbnphR0NTbzlhVE9ZdEVqXzlCRXJDaGVMaXR1RE5IWTlIcGJaQnVtbU1xcDdaLUk1REZqQ0pYQVVGQko2MnpFa0RxX3ZiV2NHWndVVklKLTZMeVFPaWtHODFkVjl6ZGpYY1B0WEJYNThkWlplZmE1QjE0dUdBSUxEYWpibENRRXRyMm4wbHk4OHYyT0dEN3RWazhsb1ZUTElnbGcwaW5TMjlxdkZTT24yNC1LVUIwcDNJbkVrU180SmhLOTFqODI4VENETEdmOHZn?oc=5)
+
+2026-09-09 <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1FXek9SbnphR0NTbzlhVE9ZdEVqXzlCRXJDaGVMaXR1RE5IWTlIcGJaQnVtbU1xcDdaLUk1REZqQ0pYQVVGQko2MnpFa0RxX3ZiV2NHWndVVklKLTZMeVFPaWtHODFkVjl6ZGpYY1B0WEJYNThkWlplZmE1QjE0dUdBSUxEYWpibENRRXRyMm4wbHk4OHYyT0dEN3RWazhsb1ZUTElnbGcwaW5TMjlxdkZTT24yNC1LVUIwcDNJbkVrU180SmhLOTFqODI4VENETEdmOHZn?oc=5)
 
 ---
 

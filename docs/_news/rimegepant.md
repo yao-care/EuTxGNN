@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [¿Por qué en España se exigen 8 migrañas al mes para acceder a los fármacos y en Alemania solo 4? - El Correo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHdkYmc4RGlFSzBfeEpsVmR4Q19mUGtIYzJXNU5oS2JZRmRZakdDanEtM3N5V0lCSFJGR0RjLWdIODlabC1qd004N1c4NjVBQ190cnV1NW95VlpUcjJRNTJtN3hHV3dyWW41V0RnZ1NQUjRBVy13QUZYdFVKb3NpcmRkckl2Q1JWY3dEMFFnRU11SEQ2YlplYTNZT080anFYYjVMdnJOcjNFQzZOakxtWWZtdm1Vd9IBuwFBVV95cUxOOHdvRjE4el9xZmRVdURVX3kyZHJ0N3YyWm9RN05uYktyUHVLNjZoa1c0dU5PbWZqaXVrY2trN1IwdHluME1PdmlSdE1YeE4wc0hVN0VYVUJHVzZXRTVHSnlrZXZoZ1UzSzFicUJ5blhCM25OZGZ2dzlqS0ljcndKc0xkcERVWDJDM281WEFxWU1WeDRKZXdlWDN0dGpWeWZOaEllNE9tTGNVYXpDbmVrLUctdF9hSDdOYmJZ?oc=5)
+### [La migraña afecta a más de 6 millones de personas en España, pero solo 1 de cada 10 recibe tratamiento preventivo - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
 
-2026-09-12 <span class="news-indication-tag">migraña</span>
+2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHdkYmc4RGlFSzBfeEpsVmR4Q19mUGtIYzJXNU5oS2JZRmRZakdDanEtM3N5V0lCSFJGR0RjLWdIODlabC1qd004N1c4NjVBQ190cnV1NW95VlpUcjJRNTJtN3hHV3dyWW41V0RnZ1NQUjRBVy13QUZYdFVKb3NpcmRkckl2Q1JWY3dEMFFnRU11SEQ2YlplYTNZT080anFYYjVMdnJOcjNFQzZOakxtWWZtdm1Vd9IBuwFBVV95cUxOOHdvRjE4el9xZmRVdURVX3kyZHJ0N3YyWm9RN05uYktyUHVLNjZoa1c0dU5PbWZqaXVrY2trN1IwdHluME1PdmlSdE1YeE4wc0hVN0VYVUJHVzZXRTVHSnlrZXZoZ1UzSzFicUJ5blhCM25OZGZ2dzlqS0ljcndKc0xkcERVWDJDM281WEFxWU1WeDRKZXdlWDN0dGpWeWZOaEllNE9tTGNVYXpDbmVrLUctdF9hSDdOYmJZ?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
 
 ---
 
-### [Cómo combatir la migraña: sueño regular, dieta mediterránea y ejercicio físico - Libertad Digital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREIxdm5XVGlJVFo1VkdNT2JmNC01bnkzYXVVOUlXWWstcHVWeEhMV1c0aXlYcmpHR3g3clpNUm1LRUVVSVUwcDNwajRNMjdud3JMNHdSdE1rRlpnQm83aXRMZ0JCejdXZGJJWG9Ua3BwWVFPT2tSSTZlZG8tbnZnYlRGRlNuWWlJRDZWcENZaU1hR19nRjdBVUdOVkpqMWxTOU12SVFlV0RpQmJTaERxY29XWjNxMF81WlJuWjlUSVZXMWw4bi1CRXFlalhmVjVDb2VHT1pNY0JFRGRQVXRtR0dyRXctaERR0gHzAUFVX3lxTFBWSGN4WlNVQmlmdGp4c25BQ0NLeUtXSUx0eXppZFFmMXZ2b0Izenp6VHNhSGs0M0djb1VOSVh6NEM3UUV5WHdFOUExQ3ZlZ3U2MDJ2V3E3Y1E2UVNfa2NYVmZXVFdhN2YwTklXNDNKRGM3QnhjV1prLWc4dWZxSzc4czZBX0ZIRnFIOFNJYmxtS1dGa1kzSml5ZENINmdvVVdya205Y2R0MDNQc2tSY3hKY0dZdm52bzZqOXZJMDFldDFWVjlrQVFHMEhRU0c1WENBNHdMOVc0czFaTTNPZGFBUkxZTDhzcHN6dnprZnNnenlsRQ?oc=5)
+### [Die Shingrix-Gürtelroseimpfung kann das Risiko von Herzerkrankungen verringern.](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
 
-2026-09-12 <span class="news-indication-tag">migraña</span>
+2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREIxdm5XVGlJVFo1VkdNT2JmNC01bnkzYXVVOUlXWWstcHVWeEhMV1c0aXlYcmpHR3g3clpNUm1LRUVVSVUwcDNwajRNMjdud3JMNHdSdE1rRlpnQm83aXRMZ0JCejdXZGJJWG9Ua3BwWVFPT2tSSTZlZG8tbnZnYlRGRlNuWWlJRDZWcENZaU1hR19nRjdBVUdOVkpqMWxTOU12SVFlV0RpQmJTaERxY29XWjNxMF81WlJuWjlUSVZXMWw4bi1CRXFlalhmVjVDb2VHT1pNY0JFRGRQVXRtR0dyRXctaERR0gHzAUFVX3lxTFBWSGN4WlNVQmlmdGp4c25BQ0NLeUtXSUx0eXppZFFmMXZ2b0Izenp6VHNhSGs0M0djb1VOSVh6NEM3UUV5WHdFOUExQ3ZlZ3U2MDJ2V3E3Y1E2UVNfa2NYVmZXVFdhN2YwTklXNDNKRGM3QnhjV1prLWc4dWZxSzc4czZBX0ZIRnFIOFNJYmxtS1dGa1kzSml5ZENINmdvVVdya205Y2R0MDNQc2tSY3hKY0dZdm52bzZqOXZJMDFldDFWVjlrQVFHMEhRU0c1WENBNHdMOVc0czFaTTNPZGFBUkxZTDhzcHN6dnprZnNnenlsRQ?oc=5)
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRYS3NCV2pkRFdhTEJmSFhzYVJhd0E5TjdGV0NnSi1SVXcyemg2VnpQUVpEb2NPb0pFUEVhZUxkVXB3VEROVFJVZFFBMFE3N2kyVGRYajc2TG1EMmR5cHhhandrTUxQdWZ2Y25PdmtFZGt5eGV3ZFhoMjNXOG9qVVl3?oc=5)
 
 ---
 
@@ -86,14 +86,6 @@ permalink: /news/rimegepant/
 
 ---
 
-### [Doppelter Schutzmechanismus? Diese Impfung senkt das Demenzrisiko laut Studie um rund 24 Prozent](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[fuldaerzeitung.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk4wdmF1elpNTkFrZGd1RTZuNEZnM0ljajVmMFlvc1p6d3lOeFBaa2Y0OVktbjREWkxvSklkR29yQVJ3RE5xMlhIamZ1VUtTTDh5UkJBSzE0M1hRc3M1X0lCc1lLbkt6ME1HSm94T2s5cGZfcmU5S0ZoLTZ4eDVBYW0wYjBFU0FZcmJKV2FrXzBKemNyZXVvLUVWVGhXUnN4RVJ2OHRQbXk4d2Z5ZmN4a2gxYzU0WVBMdzdhZ3A2dWgwc0dscUtBTU52UFJoMDBFTVpDS283VExyc3NhYjJZ?oc=5)
-
----
-
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
@@ -104,17 +96,9 @@ permalink: /news/rimegepant/
 
 ### [Even low light during sleep may damage your heart](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
 
-2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
+2026-09-09 <span class="news-indication-tag">heart disease</span>
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
-
----
-
-### [5 takeaways from the new cholesterol guidelines - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
-
-2026-09-08 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR1ZlFjQ19TZnNic3F0MHlOZnZwUlViWFhncG40bWFtb1lyUDk5MUV0b2dYTnNhUUpETE1LVF9fYmlGcWJrV29Oa2ZKZHYwcXFGSlYxZlhFeU8tN3g3M1JhWF96ZEt4M1BmRWhoNGlFSmkyRXFTeEg3SUQtR1lVNjNpaFFQaHJwMHk2RFpBQ00xR2Y3d1VQVmR6Y0k1YS1ueWc?oc=5)
 
 ---
 

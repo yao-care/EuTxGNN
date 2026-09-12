@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,45 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（16 則）
 
 ### [Dieci casi di epatite A tra Pisa e Livorno: possibile focolaio in uno stabilimento balneare del litorale](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
 
 2026-09-12 <span class="news-indication-tag">epatite</span>
 
-來源：[pisatoday.it](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
+來源：[PisaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
 
 ---
 
-### [Número de casos de ébola en RD del Congo supera los 7.000, con 3.400 decesos](https://news.google.com/rss/articles/CBMidkFVX3lxTE5tLUlBZEZid0cyRHhhdFlYemtNRHpIV241XzFkVHpqMWxsVzF2OXBiOUtSZVFMX0pZR2ltZG1sY1ZNb1VRSGFmcGJrMWQ4bjlPaWZaQW9WUDFPQl84OWgxVm1vamtsVlFma2VjbkpYQ2Z6R1p2S1E?oc=5)
+### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe - Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
 
-2026-09-12 <span class="news-indication-tag">MS</span>
+2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[人民网](https://news.google.com/rss/articles/CBMidkFVX3lxTE5tLUlBZEZid0cyRHhhdFlYemtNRHpIV241XzFkVHpqMWxsVzF2OXBiOUtSZVFMX0pZR2ltZG1sY1ZNb1VRSGFmcGJrMWQ4bjlPaWZaQW9WUDFPQl84OWgxVm1vamtsVlFma2VjbkpYQ2Z6R1p2S1E?oc=5)
-
----
-
-### [Bislang unbekannte Immunbremse in Hautzellen entdeckt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnJkelNWNDN6MWx0Qmo3Skh5cTluRVowYmg4M2t4TjBhRnppUFhjbXp5Ni11b1hCejBoWVBScVhaTGxyVnJqbTJHLThCWUt3NThmZmcyOWM5QW1DQUNIU2hoNW00bTA4S2JVUnl5a18tQ3daX2xldGZ0RThBVlllTmVzNWEtN3ktWmdfbTNHMkdCSjhhRWNoRE9tcmlDdW1NMTZhTU5tUUFROHRiMW4wOA?oc=5)
-
-2026-09-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnJkelNWNDN6MWx0Qmo3Skh5cTluRVowYmg4M2t4TjBhRnppUFhjbXp5Ni11b1hCejBoWVBScVhaTGxyVnJqbTJHLThCWUt3NThmZmcyOWM5QW1DQUNIU2hoNW00bTA4S2JVUnl5a18tQ3daX2xldGZ0RThBVlllTmVzNWEtN3ktWmdfbTNHMkdCSjhhRWNoRE9tcmlDdW1NMTZhTU5tUUFROHRiMW4wOA?oc=5)
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
 
 ---
 
-### [Scientists find signs of extreme aging and youth in the same 117-year-old](https://news.google.com/rss/articles/CBMib0FVX3lxTE40b0ZTTG5FeEl3a0JPQnIzczlUQ2tnUUtKRVV6dnFBczg0R2t5ZUV4QjYydTFqNDJmQUV1R2JkY2RfQkdvUUlwV2F0QzhONWdTZFAzSFlxWGFIcmdPWWhfSk5wdGxXTF9ESjJiQVktOA?oc=5)
+### [Study of 1.9 million people finds a striking link between ADHD and gut problems - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMHhybWwxUVpoMDlqSVhMRThwcXBsWnJPcVhTcEpzWWEwSFVfSzRLRmZWckhNRDJtTUh5M2E5RUFIQUQ0TUttdDBZaGxab2ZxVHUxcWdJdy1idVVubXRLVGQzSFo5WHF2QUR0TWVEVQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">MS</span>
 
-來源：[sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE40b0ZTTG5FeEl3a0JPQnIzczlUQ2tnUUtKRVV6dnFBczg0R2t5ZUV4QjYydTFqNDJmQUV1R2JkY2RfQkdvUUlwV2F0QzhONWdTZFAzSFlxWGFIcmdPWWhfSk5wdGxXTF9ESjJiQVktOA?oc=5)
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMHhybWwxUVpoMDlqSVhMRThwcXBsWnJPcVhTcEpzWWEwSFVfSzRLRmZWckhNRDJtTUh5M2E5RUFIQUQ0TUttdDBZaGxab2ZxVHUxcWdJdy1idVVubXRLVGQzSFo5WHF2QUR0TWVEVQ?oc=5)
+
+---
+
+### [Bislang unbekannte Immunbremse in Hautzellen entdeckt](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnRRNEhKVjZ6VWc4N201RWFjb2NGenVnZ1lBOGtQOHMzaHdWR1FNb3lsNm80RUR2OG1vYVFHOUtwcmMxcl84ZUM1VnJUMnQxbWRWbE50ak5NU1k4NEtrLUpOeGctV0p4TkZUMlQ4dEE3cG9FTHk0M3kyamdGRGJ0ZVJJZHZNZE5DUTAzNWF2UmxBR2E5NGNhUnhB?oc=5)
+
+2026-09-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[JuraForum.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnRRNEhKVjZ6VWc4N201RWFjb2NGenVnZ1lBOGtQOHMzaHdWR1FNb3lsNm80RUR2OG1vYVFHOUtwcmMxcl84ZUM1VnJUMnQxbWRWbE50ak5NU1k4NEtrLUpOeGctV0p4TkZUMlQ4dEE3cG9FTHk0M3kyamdGRGJ0ZVJJZHZNZE5DUTAzNWF2UmxBR2E5NGNhUnhB?oc=5)
+
+---
+
+### [Démence : l'étude scientifique révèle enfin les 3 erreurs du milieu de vie qui détruisent la mémoire après 55 ans](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMEZCUWF2R2tRYkktUjc1d1ZYLXBGQXVZTFZKc3Qwb09SSGdDcHVsajNfcnNIc0tYcWdycHB3Qy1QZFp3d0hZdl84enp2d2xvWTZLOWxvRU9MaXRIRWtZYy1PaXdwSTlRdy1BbUxxMlo4NlhpODZSR3dYTWgyX2JCdEtyaVdxa3psSGdsaTlya1U5WFpkdkZ3TGtVU2t0ZHdRQXcybVFCbzZ5SVBrak9wUEg0bjlOd3B5X2d6YUtjVmtUUFRYVldOeGRzNTBoWVBOczFSQWJDREV0MVZWYVp4RzUyN1c4aS1PZkoxU2dCdFA?oc=5)
+
+2026-09-11 <span class="news-indication-tag">MS</span>
+
+來源：[pleinevie.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMEZCUWF2R2tRYkktUjc1d1ZYLXBGQXVZTFZKc3Qwb09SSGdDcHVsajNfcnNIc0tYcWdycHB3Qy1QZFp3d0hZdl84enp2d2xvWTZLOWxvRU9MaXRIRWtZYy1PaXdwSTlRdy1BbUxxMlo4NlhpODZSR3dYTWgyX2JCdEtyaVdxa3psSGdsaTlya1U5WFpkdkZ3TGtVU2t0ZHdRQXcybVFCbzZ5SVBrak9wUEg0bjlOd3B5X2d6YUtjVmtUUFRYVldOeGRzNTBoWVBOczFSQWJDREV0MVZWYVp4RzUyN1c4aS1PZkoxU2dCdFA?oc=5)
 
 ---
 
@@ -90,7 +98,7 @@ permalink: /news/ledipasvir/
 
 2026-09-11 <span class="news-indication-tag">MS</span>
 
-來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 ---
 
@@ -102,19 +110,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Menopause supplements are a ‘waste of money’ and risk ‘toxic liver damage’ - the only £1.49 pills advised - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYm90Z0FxQjVhdXlMUll2ZHN5dmlmZHRhRmo0bDBhbHJ2R2N5OVlfMUxFemRJbEhPRTc0VUJfNjNSUU5vcmpPaGZLWndFcnVfX3dLNVFJcGZrcTJTYjM5ZjkxbHdmRWlHTklnVDRfUDhBeGQtS1Zub2dLLTlkMWlUR3VUZ2NCQTRqeGlHWUhkTW9Fdw?oc=5)
+### [Semaglutid: GLP-1-Mittel reduziert Asthmaanfälle um 40 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxXaEt6UDJkamRyM0xyNGxxdHdwS0NDd083b2NPc0NtZXhSYk5adVFSNHNISGZ5NGxaRGRqNEt5MlU1eUxpcFVfWm9aN3pYanRlZzhnMV9XZGxyb1JZQnBwaTNzc0tETnZyUGdOOTktSlRzWUJCYnRxZGJrYUt6YjRUWDNucWRMd01jTXRZc3A0R0NkMEpWcWRORjNDV0lpNWJFb0pmYkdha012QU5GVg?oc=5)
 
-2026-09-10 <span class="news-indication-tag">MS</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYm90Z0FxQjVhdXlMUll2ZHN5dmlmZHRhRmo0bDBhbHJ2R2N5OVlfMUxFemRJbEhPRTc0VUJfNjNSUU5vcmpPaGZLWndFcnVfX3dLNVFJcGZrcTJTYjM5ZjkxbHdmRWlHTklnVDRfUDhBeGQtS1Zub2dLLTlkMWlUR3VUZ2NCQTRqeGlHWUhkTW9Fdw?oc=5)
-
----
-
-### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxXaEt6UDJkamRyM0xyNGxxdHdwS0NDd083b2NPc0NtZXhSYk5adVFSNHNISGZ5NGxaRGRqNEt5MlU1eUxpcFVfWm9aN3pYanRlZzhnMV9XZGxyb1JZQnBwaTNzc0tETnZyUGdOOTktSlRzWUJCYnRxZGJrYUt6YjRUWDNucWRMd01jTXRZc3A0R0NkMEpWcWRORjNDV0lpNWJFb0pmYkdha012QU5GVg?oc=5)
 
 ---
 
@@ -134,27 +134,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
-
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
-
----
-
 ### [A Woman's Intestines Literally Tied Themselves Into a Knot After Childbirth](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
 
 2026-09-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
-
----
-
-### [Fettleber: Neue Risiken für Herz und Nieren entdeckt](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
-
-2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
 
 ---
 
@@ -166,19 +150,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [DNA treatment cuts bad cholesterol by nearly 50% without statins](https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN1NaSkkxMWFLS1BVSVpBUk9TWTJrSjF5emlBVko1Smc3dllrVS0tWHZKbkdaRmloNUlGMVRDako5elhmZ2JTdms3LWFEMDRSc0J2VUVyY2RONi1lQ0RtV0E2bXJCclFDZ3VYcmVLaw?oc=5)
+### [Hepatozelluläre Steatose: Botenstoff des Immunsystems schützt die Leber - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VfRXUxME0wMDRxQm1IODExdDFQR3U1cDNRQU1md2owLTRTMzg5cnBOMklTY1JiZWtaRlkyaTJyUVkya3J0OVM1TFVRU28tcHdNSjNNdm1BR2dLNzR4ZUZkMVMwMVMwcjFkN2o0bmFhMTFOSUVTamludnVMdmN2QTBqaVZWN1ZqSzdpRnhXQ1dyUW1aM1VJV1lneFZSRWtXYzFN?oc=5)
 
-2026-09-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN1NaSkkxMWFLS1BVSVpBUk9TWTJrSjF5emlBVko1Smc3dllrVS0tWHZKbkdaRmloNUlGMVRDako5elhmZ2JTdms3LWFEMDRSc0J2VUVyY2RONi1lQ0RtV0E2bXJCclFDZ3VYcmVLaw?oc=5)
-
----
-
-### [Escaliers après 60 ans : faites ce test simple pour évaluer votre santé cardiaque](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk5wel8yLUxmYUJVbWJKRVdPZ2JNRngza3BvXzdhbVNUM05VMXU5bXNCUTVXUzUtZ0pxaXpHUDkwamhFRXFsV0JJY2lfRG5RMGEyaHB5OVZXQWQzSTlWSTAySGg2bWJhRzJydnByWld0Z0oxanJnT2w0YmJhMWVZbzRma2VJbnB5MWxEaFBZYVkxeHZHTnc?oc=5)
-
-2026-09-09 <span class="news-indication-tag">MS</span>
-
-來源：[PasseportSanté](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk5wel8yLUxmYUJVbWJKRVdPZ2JNRngza3BvXzdhbVNUM05VMXU5bXNCUTVXUzUtZ0pxaXpHUDkwamhFRXFsV0JJY2lfRG5RMGEyaHB5OVZXQWQzSTlWSTAySGg2bWJhRzJydnByWld0Z0oxanJnT2w0YmJhMWVZbzRma2VJbnB5MWxEaFBZYVkxeHZHTnc?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0VfRXUxME0wMDRxQm1IODExdDFQR3U1cDNRQU1md2owLTRTMzg5cnBOMklTY1JiZWtaRlkyaTJyUVkya3J0OVM1TFVRU28tcHdNSjNNdm1BR2dLNzR4ZUZkMVMwMVMwcjFkN2o0bmFhMTFOSUVTamludnVMdmN2QTBqaVZWN1ZqSzdpRnhXQ1dyUW1aM1VJV1lneFZSRWtXYzFN?oc=5)
 
 ---
 

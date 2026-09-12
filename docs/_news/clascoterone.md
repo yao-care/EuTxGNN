@@ -14,7 +14,7 @@ permalink: /news/clascoterone/
 ---
 
 <p class="key-answer" data-question="Clascoterone 有什麼相關新聞？">
-<strong>Clascoterone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clascoterone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/clascoterone/
 <p><a href="{{ '/drugs/clascoterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [¿Por qué en España se exigen 8 migrañas al mes para acceder a los fármacos y en Alemania solo 4? - El Correo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHdkYmc4RGlFSzBfeEpsVmR4Q19mUGtIYzJXNU5oS2JZRmRZakdDanEtM3N5V0lCSFJGR0RjLWdIODlabC1qd004N1c4NjVBQ190cnV1NW95VlpUcjJRNTJtN3hHV3dyWW41V0RnZ1NQUjRBVy13QUZYdFVKb3NpcmRkckl2Q1JWY3dEMFFnRU11SEQ2YlplYTNZT080anFYYjVMdnJOcjNFQzZOakxtWWZtdm1Vd9IBuwFBVV95cUxOOHdvRjE4el9xZmRVdURVX3kyZHJ0N3YyWm9RN05uYktyUHVLNjZoa1c0dU5PbWZqaXVrY2trN1IwdHluME1PdmlSdE1YeE4wc0hVN0VYVUJHVzZXRTVHSnlrZXZoZ1UzSzFicUJ5blhCM25OZGZ2dzlqS0ljcndKc0xkcERVWDJDM281WEFxWU1WeDRKZXdlWDN0dGpWeWZOaEllNE9tTGNVYXpDbmVrLUctdF9hSDdOYmJZ?oc=5)
+### [La migraña afecta a más de 6 millones de personas en España, pero solo 1 de cada 10 recibe tratamiento preventivo - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
 
-2026-09-12 <span class="news-indication-tag">migraña</span>
+2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHdkYmc4RGlFSzBfeEpsVmR4Q19mUGtIYzJXNU5oS2JZRmRZakdDanEtM3N5V0lCSFJGR0RjLWdIODlabC1qd004N1c4NjVBQ190cnV1NW95VlpUcjJRNTJtN3hHV3dyWW41V0RnZ1NQUjRBVy13QUZYdFVKb3NpcmRkckl2Q1JWY3dEMFFnRU11SEQ2YlplYTNZT080anFYYjVMdnJOcjNFQzZOakxtWWZtdm1Vd9IBuwFBVV95cUxOOHdvRjE4el9xZmRVdURVX3kyZHJ0N3YyWm9RN05uYktyUHVLNjZoa1c0dU5PbWZqaXVrY2trN1IwdHluME1PdmlSdE1YeE4wc0hVN0VYVUJHVzZXRTVHSnlrZXZoZ1UzSzFicUJ5blhCM25OZGZ2dzlqS0ljcndKc0xkcERVWDJDM281WEFxWU1WeDRKZXdlWDN0dGpWeWZOaEllNE9tTGNVYXpDbmVrLUctdF9hSDdOYmJZ?oc=5)
-
----
-
-### [Cómo combatir la migraña: sueño regular, dieta mediterránea y ejercicio físico - Libertad Digital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREIxdm5XVGlJVFo1VkdNT2JmNC01bnkzYXVVOUlXWWstcHVWeEhMV1c0aXlYcmpHR3g3clpNUm1LRUVVSVUwcDNwajRNMjdud3JMNHdSdE1rRlpnQm83aXRMZ0JCejdXZGJJWG9Ua3BwWVFPT2tSSTZlZG8tbnZnYlRGRlNuWWlJRDZWcENZaU1hR19nRjdBVUdOVkpqMWxTOU12SVFlV0RpQmJTaERxY29XWjNxMF81WlJuWjlUSVZXMWw4bi1CRXFlalhmVjVDb2VHT1pNY0JFRGRQVXRtR0dyRXctaERR0gHzAUFVX3lxTFBWSGN4WlNVQmlmdGp4c25BQ0NLeUtXSUx0eXppZFFmMXZ2b0Izenp6VHNhSGs0M0djb1VOSVh6NEM3UUV5WHdFOUExQ3ZlZ3U2MDJ2V3E3Y1E2UVNfa2NYVmZXVFdhN2YwTklXNDNKRGM3QnhjV1prLWc4dWZxSzc4czZBX0ZIRnFIOFNJYmxtS1dGa1kzSml5ZENINmdvVVdya205Y2R0MDNQc2tSY3hKY0dZdm52bzZqOXZJMDFldDFWVjlrQVFHMEhRU0c1WENBNHdMOVc0czFaTTNPZGFBUkxZTDhzcHN6dnprZnNnenlsRQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">migraña</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREIxdm5XVGlJVFo1VkdNT2JmNC01bnkzYXVVOUlXWWstcHVWeEhMV1c0aXlYcmpHR3g3clpNUm1LRUVVSVUwcDNwajRNMjdud3JMNHdSdE1rRlpnQm83aXRMZ0JCejdXZGJJWG9Ua3BwWVFPT2tSSTZlZG8tbnZnYlRGRlNuWWlJRDZWcENZaU1hR19nRjdBVUdOVkpqMWxTOU12SVFlV0RpQmJTaERxY29XWjNxMF81WlJuWjlUSVZXMWw4bi1CRXFlalhmVjVDb2VHT1pNY0JFRGRQVXRtR0dyRXctaERR0gHzAUFVX3lxTFBWSGN4WlNVQmlmdGp4c25BQ0NLeUtXSUx0eXppZFFmMXZ2b0Izenp6VHNhSGs0M0djb1VOSVh6NEM3UUV5WHdFOUExQ3ZlZ3U2MDJ2V3E3Y1E2UVNfa2NYVmZXVFdhN2YwTklXNDNKRGM3QnhjV1prLWc4dWZxSzc4czZBX0ZIRnFIOFNJYmxtS1dGa1kzSml5ZENINmdvVVdya205Y2R0MDNQc2tSY3hKY0dZdm52bzZqOXZJMDFldDFWVjlrQVFHMEhRU0c1WENBNHdMOVc0czFaTTNPZGFBUkxZTDhzcHN6dnprZnNnenlsRQ?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
 
 ---
 
