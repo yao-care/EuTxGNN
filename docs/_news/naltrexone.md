@@ -62,14 +62,6 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[magdeburger-news.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
-
----
-
 ### [Adipositas und Rheuma: Der gemeinsame Nenner](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
 
 2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
@@ -86,11 +78,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité - Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
 
 2026-09-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+來源：[actu.orange.fr](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
 
 ---
 
@@ -99,6 +91,14 @@ permalink: /news/naltrexone/
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+
+---
+
+### [Schlafapnoe: Neues Medikament senkt Atemaussetzer um 44 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
+
+2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
 
 ---
 

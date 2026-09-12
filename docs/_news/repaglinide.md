@@ -14,7 +14,7 @@ permalink: /news/repaglinide/
 ---
 
 <p class="key-answer" data-question="Repaglinide 有什麼相關新聞？">
-<strong>Repaglinide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Repaglinide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/repaglinide/
 <p><a href="{{ '/drugs/repaglinide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
-
-### [Metaanalyse: Schlechtere Diabetesversorgung bei psychisch Kranken - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcUpZaGtPai16ZlN2aWJ4azlZMVZnblJWUGhOWmxTZVFFUXdiOHcwR2pPcWRVaWZ3aU5vVkJxNmZYS3YwQ3ZGb0w5LVlRZDZlclBITVRJN05vQ0lnd2dXQVM4NmdMMlNVdGJXX1E0cmpHUHRzVDV2Yl95RmRmLVd6eGRXaUxGQ3JmU3JfLUd0WllYQ3ZoREFXRnVpT3g1S1lrQ2ctMk5SZF95UVljT3dGOFppeC01eXhLRGR6cnl3MzZvWm85SXc5TXBHM28tbnVP?oc=5)
-
-2026-09-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcUpZaGtPai16ZlN2aWJ4azlZMVZnblJWUGhOWmxTZVFFUXdiOHcwR2pPcWRVaWZ3aU5vVkJxNmZYS3YwQ3ZGb0w5LVlRZDZlclBITVRJN05vQ0lnd2dXQVM4NmdMMlNVdGJXX1E0cmpHUHRzVDV2Yl95RmRmLVd6eGRXaUxGQ3JmU3JfLUd0WllYQ3ZoREFXRnVpT3g1S1lrQ2ctMk5SZF95UVljT3dGOFppeC01eXhLRGR6cnl3MzZvWm85SXc5TXBHM28tbnVP?oc=5)
-
----
+## 相關新聞（11 則）
 
 ### [Diabète : ces 5 traitements très utilisés vont bientôt disparaître en France](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlBELS1hTlFXbDFnWmdaM0Nmdnl0TFR2dFR3OGdOU3Bwd2ZZU1NVekdZRkp6Wl9GbTIxQjNhR2JDbXI3czdPalF1UWoxYWZ0VnJxbElMa203b1B2S1pXRTlBa01TSWZNVzJqLXcwTl9WRmtuQTB0eHBhUmVZM2VFOHpCeldmS3FMRnc?oc=5)
 
@@ -78,19 +70,27 @@ permalink: /news/repaglinide/
 
 ---
 
-### [Scientists boycott American Diabetes Association as fallout of June conference fracas escalates](https://news.google.com/rss/articles/CBMixwFBVV95cUxObHp3djY5M3laQURQNXZyNTlZODd3SWM1RjBoMExxdHRiMjdJT0kwTlpGRFhjQllhZ1FBZnpBN0trMGNhWkV3ZXBSQmx2OVZOc0hIQkMwNndYNVJyVHpqMmllNGtlLWlPeVRIUlZkcWJzb096NEEzblVxeXJOSXdMcHh1eTNuM1N2RXVwTjYxOWN6NDM2SHVyUEJkYWtMbGdmRFFFT3owOEkwY2laTDVvZDQtMTZkVllKTEEya3l3Rjh1MndSQkdv?oc=5)
+### [Diabete, scoprirlo quando ancora non si vede: la diagnosi può arrivare prima dei sintomi](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSjJKYkZwWEFNb1lRVnZJRkU3Xy1yR1BJMUF2Qk1yVDRxa05NdUp0akpiLTJHM2d1aEpsVm1uemhMN2NRSC1jWnRycTJFVF9DUGtUYndsODBkZ2tnNmZLSTZPOV9jWEdGekZWbWcyOGViQURNNDlSTmFVTV83XzRtNXFValRNaTB4RTV6Tmx3TlA4MU02SVFNZHlabW15cFJLaHRtd1N2NEpVRzNEcHdVeUdTVVl0aDZ2c29Cb1BOcEFLQVF6Z2tKUGFQVjBPMU1aSkhr?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabetes</span>
+2026-09-11 <span class="news-indication-tag">diabete</span>
 
-來源：[fiercebiotech.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxObHp3djY5M3laQURQNXZyNTlZODd3SWM1RjBoMExxdHRiMjdJT0kwTlpGRFhjQllhZ1FBZnpBN0trMGNhWkV3ZXBSQmx2OVZOc0hIQkMwNndYNVJyVHpqMmllNGtlLWlPeVRIUlZkcWJzb096NEEzblVxeXJOSXdMcHh1eTNuM1N2RXVwTjYxOWN6NDM2SHVyUEJkYWtMbGdmRFFFT3owOEkwY2laTDVvZDQtMTZkVllKTEEya3l3Rjh1MndSQkdv?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSjJKYkZwWEFNb1lRVnZJRkU3Xy1yR1BJMUF2Qk1yVDRxa05NdUp0akpiLTJHM2d1aEpsVm1uemhMN2NRSC1jWnRycTJFVF9DUGtUYndsODBkZ2tnNmZLSTZPOV9jWEdGekZWbWcyOGViQURNNDlSTmFVTV83XzRtNXFValRNaTB4RTV6Tmx3TlA4MU02SVFNZHlabW15cFJLaHRtd1N2NEpVRzNEcHdVeUdTVVl0aDZ2c29Cb1BOcEFLQVF6Z2tKUGFQVjBPMU1aSkhr?oc=5)
 
 ---
 
-### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMSTM3S3BDcXU5WGJGbkxDbDJVcFIydV9mdjJkTFNaX0NqYm1BRjZMVEVlMlJ6dVdrLXhGVTA5d3VQN1BXTWN1Mmgtaw?oc=5)
+### [Diabete di tipo 2: qual è l'esame del sangue che ti dice lo stato di salute di cuore e reni](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
+
+2026-09-11 <span class="news-indication-tag">diabete</span>
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
+
+---
+
+### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVVMdFJtajlqMFdUTVVPNmhIN1lxNGpkY1kxbXpPMzJiV3hhd05HWXR1X05qWlloZ3ExaHZiZmh1UDA3YTBrNDg3SUFQeVpTVktCVzNmdUs0VWtOUng0alJralRzMHF2dEZRQ3hCUUVaRnEtdGJqZFNRRWpXYW1hWWxFRk5kVXRaNV91VEJ6SzJSX3lhYTNfNG9HeVQyVmxNcW43NzJTeVpSU25YZGx5QUdRY0I1TnRqR3pB?oc=5)
 
 2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMSTM3S3BDcXU5WGJGbkxDbDJVcFIydV9mdjJkTFNaX0NqYm1BRjZMVEVlMlJ6dVdrLXhGVTA5d3VQN1BXTWN1Mmgtaw?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVVMdFJtajlqMFdUTVVPNmhIN1lxNGpkY1kxbXpPMzJiV3hhd05HWXR1X05qWlloZ3ExaHZiZmh1UDA3YTBrNDg3SUFQeVpTVktCVzNmdUs0VWtOUng0alJralRzMHF2dEZRQ3hCUUVaRnEtdGJqZFNRRWpXYW1hWWxFRk5kVXRaNV91VEJ6SzJSX3lhYTNfNG9HeVQyVmxNcW43NzJTeVpSU25YZGx5QUdRY0I1TnRqR3pB?oc=5)
 
 ---
 
@@ -110,27 +110,19 @@ permalink: /news/repaglinide/
 
 ---
 
-### [Nuevas pautas veterinarias para la diabetes en perros: qué cambia en el diagnóstico, la insulina y el con...](https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3JEaFluR3hUWGFBMjJjQV9MTk5jdDZza0l1RmZudFhGajdYLWRHZTNvUGU4dHFTYzdiVWVoNDhDaXBxY3RqM09zTTFNanZfaTJ6Y3J0WVRPLUUyU2RMYW1RZ2FjQng1akRhdl9RamJuOUJnSnlQMXV2NE9WTVBuR19panBHOUw5ZUMybmFPVENYUk5waHB3TXh4QUxKdWpvVjZRVkJXYW0wNnlzeF9QX1d3bEZKZ0UwMENJZ0Z2VU9vQ21rbG1N0gHMAUFVX3lxTE14SVVOMTlFcG1NMTNOb3JvMjJiRFNTUmtlMFhKcUZGX01GSDJpWFp5S3RFMkNKX1dvdUFKczdWTjJfVlJnUUF4UmloZC0tS3JxdGtwQ3h1MDJDX0h0Z2U1QXFoQXpYN01vaEk2MDJJOTBKSlNTRDZRWHRSY1lqUTZhVXZ3cDdjLXFqZ3dkc0xMSUVQNlkxakswSVFLSy1lR3FQcV92eXYtVGJqSXVBSnVKVTVHVkxWOS1BMUZSM2E2WFE0SEotbFlxVW5sMg?oc=5)
+### [Nuevas recomendaciones para el tratamiento de la diabetes en perros: insulinas de acción prolongada y monitorización continua - Diario Veterinario](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmRoeElMUEhITEdMLVFIamVDNnpET3Z5b3VnSHRESHpmeDBLN2t2bzdfY0xfbmpGNkhZVjdDbnNhN0xPU1RYbTRqRXhual9JSWh2UmpFQzRYbm1NeERvdTFYR0M5QzRwVjE3cFhSLWdockZUMlE4LXVsQVB5VWRyeDVBWDFVSzc1c2JyNjNham1hNHBEMGpySTlSMFBUbmh4clFuVjFrWEhMMnhEWUVabkJR?oc=5)
 
 2026-09-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3JEaFluR3hUWGFBMjJjQV9MTk5jdDZza0l1RmZudFhGajdYLWRHZTNvUGU4dHFTYzdiVWVoNDhDaXBxY3RqM09zTTFNanZfaTJ6Y3J0WVRPLUUyU2RMYW1RZ2FjQng1akRhdl9RamJuOUJnSnlQMXV2NE9WTVBuR19panBHOUw5ZUMybmFPVENYUk5waHB3TXh4QUxKdWpvVjZRVkJXYW0wNnlzeF9QX1d3bEZKZ0UwMENJZ0Z2VU9vQ21rbG1N0gHMAUFVX3lxTE14SVVOMTlFcG1NMTNOb3JvMjJiRFNTUmtlMFhKcUZGX01GSDJpWFp5S3RFMkNKX1dvdUFKczdWTjJfVlJnUUF4UmloZC0tS3JxdGtwQ3h1MDJDX0h0Z2U1QXFoQXpYN01vaEk2MDJJOTBKSlNTRDZRWHRSY1lqUTZhVXZ3cDdjLXFqZ3dkc0xMSUVQNlkxakswSVFLSy1lR3FQcV92eXYtVGJqSXVBSnVKVTVHVkxWOS1BMUZSM2E2WFE0SEotbFlxVW5sMg?oc=5)
+來源：[Diario Veterinario](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmRoeElMUEhITEdMLVFIamVDNnpET3Z5b3VnSHRESHpmeDBLN2t2bzdfY0xfbmpGNkhZVjdDbnNhN0xPU1RYbTRqRXhual9JSWh2UmpFQzRYbm1NeERvdTFYR0M5QzRwVjE3cFhSLWdockZUMlE4LXVsQVB5VWRyeDVBWDFVSzc1c2JyNjNham1hNHBEMGpySTlSMFBUbmh4clFuVjFrWEhMMnhEWUVabkJR?oc=5)
 
 ---
 
 ### [Fettleber: Neue Risiken für Herz und Nieren entdeckt](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
 
-2026-09-10 <span class="news-indication-tag">diabetes</span>
+2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
-
----
-
-### [Diabete, scoperto il “freno” genetico che impedisce alle cellule del pancreas di cambiare identità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnQtYXJpZ3hkUzY0YVhOcWFHM1poUU4xbUhXWUtxNk1RT2cxZXhCNC1YOTlOSXFfaHNXSUxYSjVMUjhhcHl2bzQyMExzSEZBWm5OSXZfRkxvY2E0UDRxRjJJa2RXUFFkbDY5aFNyM0lGdmppWnBwNUlHbVZBSWVscUNWeWI1REJJSnZ5Vmt1cmlNajZpR1JYYUlQUS1sanp0bE44MVllbFhoaXNScjBuRFpiV1BhZ25JNHVjOFVOTXN5NV9DOXNRS1V4TThCTGhEYWVpOHpHLWhFbEI2LU9FRVotNkVTSGcyT1Y0?oc=5)
-
-2026-09-08 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnQtYXJpZ3hkUzY0YVhOcWFHM1poUU4xbUhXWUtxNk1RT2cxZXhCNC1YOTlOSXFfaHNXSUxYSjVMUjhhcHl2bzQyMExzSEZBWm5OSXZfRkxvY2E0UDRxRjJJa2RXUFFkbDY5aFNyM0lGdmppWnBwNUlHbVZBSWVscUNWeWI1REJJSnZ5Vmt1cmlNajZpR1JYYUlQUS1sanp0bE44MVllbFhoaXNScjBuRFpiV1BhZ25JNHVjOFVOTXN5NV9DOXNRS1V4TThCTGhEYWVpOHpHLWhFbEI2LU9FRVotNkVTSGcyT1Y0?oc=5)
 
 ---
 

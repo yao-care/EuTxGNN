@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
 ### [NHS fuelling obesity by abandoning breastfeeding, says chairman - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkg1dzl0OXROZ3NkOUZCR0ZKSC1OaTZ0dDhlTTJSM18ySVR6dkd0enl0VVoyY1RSUHNGcTkzMHR4eUFXcGc0cXMzc25VbjE1NUNjdkJTX21TTm5QRXRsdTNUbF9rbDdlNmpyb1RBR180WWVaRmlKbHJ5T3RMaXpFNkZnMnd2dFg3dUU0NlhrVFVYSnRDT2ViVGwybU4zdkl2clFYNnpDUQ?oc=5)
-
----
-
-### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[magdeburger-news.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité - Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
 
 2026-09-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+來源：[actu.orange.fr](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
 
 ---
 
@@ -99,6 +91,22 @@ permalink: /news/orlistat/
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+
+---
+
+### [Schlafapnoe: Neues Medikament senkt Atemaussetzer um 44 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
+
+2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
+
+---
+
+### [Stroke Unit im Krankenhaus Ludmillenstift Meppen behandelt 700 Schlaganfälle im Jahr](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
+
+2026-09-10 <span class="news-indication-tag">stroke</span>
+
+來源：[noz.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5VMVltWnV6ak1pSHE4RkZtcW9vZ3lOSzZMYjhWQW9mWDJfdFpnWTdnMGpyMnlZeGNUc1YzS2FjZkFCb2syLXhWODZVNU1pVkV1S1pVLTVOM2pudHlMeXpMR2ozSUVVMWdZUXZjRVpMYUM4RklZQWNWbnhQS0xGZGlzWlRnRTlIazJ0RWhsMDBWT0loTldVMXRvMEtmV3dfbUJsOTUtcEF5YndX?oc=5)
 
 ---
 
@@ -118,19 +126,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Gesichtsmerkmale, die auf das Risiko eines Herzinfarkts oder Schlaganfalls hinweisen.](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTJIY2gxcU14Tmp3RC1uZkVkTEF1ZWFJSHBHR3o3LVNabmRSQzA1NVJVYmZaMFZKTFNLdXcwZG1GTHlwVmdITlF3LXJnTjI5d3QwalFTVjVQLWRsZ045VC1Vb2pTbmZjM0dtZ0hpaEI1WkNaUVFyc0xDeGY4dTNjMTl3?oc=5)
-
-2026-09-09 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTJIY2gxcU14Tmp3RC1uZkVkTEF1ZWFJSHBHR3o3LVNabmRSQzA1NVJVYmZaMFZKTFNLdXcwZG1GTHlwVmdITlF3LXJnTjI5d3QwalFTVjVQLWRsZ045VC1Vb2pTbmZjM0dtZ0hpaEI1WkNaUVFyc0xDeGY4dTNjMTl3?oc=5)
-
----
-
 ### [Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
 
 2026-09-08 <span class="news-indication-tag">stroke</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3UwTVkzYllVZE41VzR1LS1RYVQ0Sy13T25reUVQdGdKem9SZjBKNTVva0s1NHp4TFVHY0dqSkwtV1NGOXBEUWpnTzVVQ2h2c1JrUDdkajZlaklPU1J6TXZZSjl4Y3hfa2F3YVB3OC1zenZINk16Uy0tMHF5Yk5zakZYYzJYU0ZFakprVEQ2M2ZLQl82SFpDXzcyS21vd2RhNjVIVXAzTTlsTm1iWlMyYlFtN3p5dlVY?oc=5)
+
+---
+
+### [Gelbe Fettablagerungen am Auge könnten ein Warnsignal sein](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3dITTVHc0NkRGd5Y0tqWnVyYTBBLUZjSFNGLUZ1eWN5MDFYT3RCczZ2UWoxbjFNTEREUWZwNUFiaTJsNHd2VHA0OEtMVnZ4a0RHbm5JN2NrTEJhWl9iS0J3LXJ6TTJITFFIbXdoRGZkSE1PekExa2YwOFM2SVhRbEZ2X1lfS3VFVGt5X1RMMXRZZDNlVnFoMFpHZzFsVG1GMWoya1ViR0tRdXF2ZFlBR3N3UlM1d0VlYVRlM1I5VWRRcFU?oc=5)
+
+2026-09-08 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3dITTVHc0NkRGd5Y0tqWnVyYTBBLUZjSFNGLUZ1eWN5MDFYT3RCczZ2UWoxbjFNTEREUWZwNUFiaTJsNHd2VHA0OEtMVnZ4a0RHbm5JN2NrTEJhWl9iS0J3LXJ6TTJITFFIbXdoRGZkSE1PekExa2YwOFM2SVhRbEZ2X1lfS3VFVGt5X1RMMXRZZDNlVnFoMFpHZzFsVG1GMWoya1ViR0tRdXF2ZFlBR3N3UlM1d0VlYVRlM1I5VWRRcFU?oc=5)
 
 ---
 

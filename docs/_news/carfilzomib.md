@@ -14,7 +14,7 @@ permalink: /news/carfilzomib/
 ---
 
 <p class="key-answer" data-question="Carfilzomib 有什麼相關新聞？">
-<strong>Carfilzomib</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carfilzomib</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/carfilzomib/
 <p><a href="{{ '/drugs/carfilzomib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（37 則）
+
+### [Krebs: Dieses kaum bekannte Organ könnte bei der Therapie entscheidend sein](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
+
+2026-09-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[welt.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDhEeUkzRzRod0dZMTdKXzkxLUxNYU9kdy02SnpmdHFxS0FHY0NIVDdyMUVaTlBJNWFMZkQtSjNueEp3X3JESGh5U0I4TUFDQm9GNE0tc1RVTjFOQ2tTTTF4Nm16T3lncjFRd2RHNUI1am1KcUl6ODFlZDN4b0xLRnlNNGxaamFmUWFkel9jWnZ2LUM4RUpQSWJ3d0JEYkY4X2F1OTE3cndxQVBrY2FURm1xSTlBa1I0S1dFeXVNZ3JDWjRHdVZnN19DUEhKclI1WFVueFAtUVpIQ2d5RlE?oc=5)
+
+---
+
+### [Tumore del pancreas. Aiom: “Daraxonrasib non ancora disponibile in Italia. Avviare subito l’uso compassionevole” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
+
+2026-09-12 <span class="news-indication-tag">tumor</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
+
+---
+
+### [Mum died from aggressive cancer after nine-month wait for test results](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
+
+2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
+
+---
 
 ### [Descubren cómo el cáncer puede resistir la inmunoterapia](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkhRdGJSY2tZb0JqYnpxVy1HRTRyWU9JV0hWN3BpUllZdktWTlRySHZoVTN1eDZZbzd2NEw1alRyNlhPRTFmUVdwWUhCenJBN29HWE9aR2FpMzdDdnBXZks2QWJxNXVSZUZPMlk1YzZzQ3VsRXdRYThxSFpCUXBMZ2VwQ2dEeTFzdVYzZUR3cVpRbmVab1JGMHo1NC1seFFu0gGgAUFVX3lxTE1oQTNNaHpMMi1XMTdNaGNHelJfbmU3c2lkak1oWlNONGxPaVJzSkNtVjhnOUZqMmJIbk5NdEVvblhZQVo4aDNxLVh0YmJPcnNKUGF6NDlNMnZ0NG90emRKelBmcEVoSFl1bXdCcjcycWF3RnJPTjk5OVpMcjhVQjlpQlNZWS1kLS1EVDg2WkVQQ2pfSDF2NzkyWlVtNTFTdlM?oc=5)
 
 2026-09-11 <span class="news-indication-tag">tumor</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkhRdGJSY2tZb0JqYnpxVy1HRTRyWU9JV0hWN3BpUllZdktWTlRySHZoVTN1eDZZbzd2NEw1alRyNlhPRTFmUVdwWUhCenJBN29HWE9aR2FpMzdDdnBXZks2QWJxNXVSZUZPMlk1YzZzQ3VsRXdRYThxSFpCUXBMZ2VwQ2dEeTFzdVYzZUR3cVpRbmVab1JGMHo1NC1seFFu0gGgAUFVX3lxTE1oQTNNaHpMMi1XMTdNaGNHelJfbmU3c2lkak1oWlNONGxPaVJzSkNtVjhnOUZqMmJIbk5NdEVvblhZQVo4aDNxLVh0YmJPcnNKUGF6NDlNMnZ0NG90emRKelBmcEVoSFl1bXdCcjcycWF3RnJPTjk5OVpMcjhVQjlpQlNZWS1kLS1EVDg2WkVQQ2pfSDF2NzkyWlVtNTFTdlM?oc=5)
+來源：[DW.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkhRdGJSY2tZb0JqYnpxVy1HRTRyWU9JV0hWN3BpUllZdktWTlRySHZoVTN1eDZZbzd2NEw1alRyNlhPRTFmUVdwWUhCenJBN29HWE9aR2FpMzdDdnBXZks2QWJxNXVSZUZPMlk1YzZzQ3VsRXdRYThxSFpCUXBMZ2VwQ2dEeTFzdVYzZUR3cVpRbmVab1JGMHo1NC1seFFu0gGgAUFVX3lxTE1oQTNNaHpMMi1XMTdNaGNHelJfbmU3c2lkak1oWlNONGxPaVJzSkNtVjhnOUZqMmJIbk5NdEVvblhZQVo4aDNxLVh0YmJPcnNKUGF6NDlNMnZ0NG90emRKelBmcEVoSFl1bXdCcjcycWF3RnJPTjk5OVpMcjhVQjlpQlNZWS1kLS1EVDg2WkVQQ2pfSDF2NzkyWlVtNTFTdlM?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/carfilzomib/
 2026-09-11 <span class="news-indication-tag">cancer</span>
 
 來源：[Les Echos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODFKNmZ2ZHBqNDktdlZfTFN4RkVSWjdoM0ZmdmJMM0JXaFpsT09xMHFaRFNYdzFPdGpCMk9wcXBQOGpvaEJ2M3BkcmJraV82aWNuSGk0MmhINzgyMVo4OHdzOTRMQVdFZmhtSHNnMm1MZVJwR0hYOW96T3l5SzNnelk3WlZWZ0hIekFVbW5pOV9Va2NxS1FQSnNXZ3d4Qm5GTEppcFRtTmpDNGRWbi1TUTVXZEpZXzBrdlFhTGY3M0Q5V0ZZaXZaWkRnOVBoNW81WGc?oc=5)
-
----
-
-### [Tumore al pancreas, una figlia scrive a Mattarella: «Mia madre non può aspettare»](https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEJJd01xdUNpQlBWT1NHdnBGcnhSRWZ1WFVkVTdxNVNfSDV1Vmx2bFhOb1JicVJra0pwYld6aFBEN3BwNjNYTU9PbzZJU0VrYklGZWFhWGlDakJhTWFyUWU1S0NIVUxGeFh6UEZra2duNlhzeDQyVFFFdVRKNGZxb2pkVTg5SWM5WVB2NWs4d2hUc1kyRDBnUlhpbzFhZUVRX3ZHM3d3Y2JNVlNUenExeDRQa1JEM0hsSWV1cmJiRXNKcHNLOEZv?oc=5)
-
-2026-09-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEJJd01xdUNpQlBWT1NHdnBGcnhSRWZ1WFVkVTdxNVNfSDV1Vmx2bFhOb1JicVJra0pwYld6aFBEN3BwNjNYTU9PbzZJU0VrYklGZWFhWGlDakJhTWFyUWU1S0NIVUxGeFh6UEZra2duNlhzeDQyVFFFdVRKNGZxb2pkVTg5SWM5WVB2NWs4d2hUc1kyRDBnUlhpbzFhZUVRX3ZHM3d3Y2JNVlNUenExeDRQa1JEM0hsSWV1cmJiRXNKcHNLOEZv?oc=5)
 
 ---
 
@@ -130,7 +146,7 @@ permalink: /news/carfilzomib/
 
 2026-09-11 <span class="news-indication-tag">tumor</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1BZeS1PZ2JHeURFY1ZwT1lqeDBZQUx6Z3pRSzA0WmRFLUg0b0VCMWsxUC1aWnJmMkt0WHF5MW5HSU1LVDl0ZXEtck9BdktjWUxVbkFxWHQ3YlRfVFFESGxVMEV3RDNfSzdRX1ZLZW9wS0xlbVQ3UjJHOHpZZ2RZVDVDLWdXRE9uOUFlemVlUlBzaTI1QWNXbEF1eUVhREtnVU9xazd6aWJpN3VkQV83dnNhRVNZY05RN2tSMlZqZ2hXWjhOc0dOZGhSN3R5NUFOTGw5Y0RDMzI0M3puZkt2RmxpOA?oc=5)
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1BZeS1PZ2JHeURFY1ZwT1lqeDBZQUx6Z3pRSzA0WmRFLUg0b0VCMWsxUC1aWnJmMkt0WHF5MW5HSU1LVDl0ZXEtck9BdktjWUxVbkFxWHQ3YlRfVFFESGxVMEV3RDNfSzdRX1ZLZW9wS0xlbVQ3UjJHOHpZZ2RZVDVDLWdXRE9uOUFlemVlUlBzaTI1QWNXbEF1eUVhREtnVU9xazd6aWJpN3VkQV83dnNhRVNZY05RN2tSMlZqZ2hXWjhOc0dOZGhSN3R5NUFOTGw5Y0RDMzI0M3puZkt2RmxpOA?oc=5)
 
 ---
 
@@ -142,11 +158,11 @@ permalink: /news/carfilzomib/
 
 ---
 
-### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzZpWnRMcHNDVG9lUmlLRkFXNHBuRnBrM29vdXhoNjdDTUxzUmEtLUNKdUJ3LW1QR1pLZGxsTGUyMk5zbkdiTnI3QUxhaDl2aDA0ZWxQUnZhaExQZjY2T2FlNWhONFp4dndTODBEU3ZldFpKMlVjeWNKUmRMUWRmV1d1RVZvUnhWNzNpSEFsQmJiN21SZVBiSUl6eTRBdG56VXZtd2pDelJFXzFOWU5BS0NocXhTeWNwbU9JbTg1Zy1GYVE4NkxleHNBclZTcUtVbkZFeDFfdG9SMDhIalB2SHNn?oc=5)
+### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
 
-2026-09-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzZpWnRMcHNDVG9lUmlLRkFXNHBuRnBrM29vdXhoNjdDTUxzUmEtLUNKdUJ3LW1QR1pLZGxsTGUyMk5zbkdiTnI3QUxhaDl2aDA0ZWxQUnZhaExQZjY2T2FlNWhONFp4dndTODBEU3ZldFpKMlVjeWNKUmRMUWRmV1d1RVZvUnhWNzNpSEFsQmJiN21SZVBiSUl6eTRBdG56VXZtd2pDelJFXzFOWU5BS0NocXhTeWNwbU9JbTg1Zy1GYVE4NkxleHNBclZTcUtVbkZFeDFfdG9SMDhIalB2SHNn?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
 
 ---
 
@@ -158,27 +174,11 @@ permalink: /news/carfilzomib/
 
 ---
 
-### [La carne bianca associata al rischio di tumore allo stomaco nelle donne: lo studio su mezzo milione di persone](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMnZsVGVpOFBKMjluLUloU0NUWFdOM2NMYm0tUHhPcC1fa0t1RTFLS2VscEI2dlZPZUZiSV9VbjNiVG9TNmZlRENVSDR1cDlYa2RzOFVmMXF6dGtoVW8wNklTMGM3Q2U3Z3l5bmV1Y3haNGpfVFp1aTFZaVBFZzF3XzI5MzRvdnluQUFHRkVxRVpjWDRlS0xoWFlRLU1LWGlrWG5nbERKbFA1aUthcmFuczROMXNiRTg0dG93Z2RraDR4aVI4Y0o4Q0FKcGhmRHA5VHN1WGdZVXFzUlF4eE5HSlc4MjdBR1Ro?oc=5)
-
-2026-09-10 <span class="news-indication-tag">tumor</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMnZsVGVpOFBKMjluLUloU0NUWFdOM2NMYm0tUHhPcC1fa0t1RTFLS2VscEI2dlZPZUZiSV9VbjNiVG9TNmZlRENVSDR1cDlYa2RzOFVmMXF6dGtoVW8wNklTMGM3Q2U3Z3l5bmV1Y3haNGpfVFp1aTFZaVBFZzF3XzI5MzRvdnluQUFHRkVxRVpjWDRlS0xoWFlRLU1LWGlrWG5nbERKbFA1aUthcmFuczROMXNiRTg0dG93Z2RraDR4aVI4Y0o4Q0FKcGhmRHA5VHN1WGdZVXFzUlF4eE5HSlc4MjdBR1Ro?oc=5)
-
----
-
 ### [Cancers hormonodépendants : le microbiote au cœur d'un nouvel axe endocrine](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTY1OTRLMnQyYTZGOXpja0t5Sl9QVzA3ODVTSnE1d1VkNUMza1JFSGFNTzlzTzlXUXJpX2ZDYVpNdVVVeWhpSVBYU19WNGtMa2tIbHltb2tfR0QxMjhZYlptaEx6UnJGTU9pR3ZBc1dpWHB3UlduTUlFWENyNUkwM3hudEpTcUNyNXZLRnJ2dzBNT1R3Tm85bmNYQmFhdzRD?oc=5)
 
 2026-09-10 <span class="news-indication-tag">cancer</span>
 
 來源：[Univadis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTY1OTRLMnQyYTZGOXpja0t5Sl9QVzA3ODVTSnE1d1VkNUMza1JFSGFNTzlzTzlXUXJpX2ZDYVpNdVVVeWhpSVBYU19WNGtMa2tIbHltb2tfR0QxMjhZYlptaEx6UnJGTU9pR3ZBc1dpWHB3UlduTUlFWENyNUkwM3hudEpTcUNyNXZLRnJ2dzBNT1R3Tm85bmNYQmFhdzRD?oc=5)
-
----
-
-### [Prevenzione dei tumori testa-collo, decisiva la diagnosi precoce: visite gratuite in ospedale](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWF1V19CMWZYUUNlZm11cDM0bUVweTc2VE5Rai1sMm1nSkpFNjZBbXk2VXBpV0RfdGo3OEo5X1BnNnFDZng3dnd6a1FBaF9jYk1aZXNKZVRORHNRdnVKeDBQV3FwNnczRU1DRS13Y3hDVG1QOEkxSk1BQ05JVjNiN2l1elo0akdVTk5KMWlHSUVsclhISThMZTFsUQ?oc=5)
-
-2026-09-10 <span class="news-indication-tag">tumor</span>
-
-來源：[CesenaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWF1V19CMWZYUUNlZm11cDM0bUVweTc2VE5Rai1sMm1nSkpFNjZBbXk2VXBpV0RfdGo3OEo5X1BnNnFDZng3dnd6a1FBaF9jYk1aZXNKZVRORHNRdnVKeDBQV3FwNnczRU1DRS13Y3hDVG1QOEkxSk1BQ05JVjNiN2l1elo0akdVTk5KMWlHSUVsclhISThMZTFsUQ?oc=5)
 
 ---
 
@@ -222,14 +222,6 @@ permalink: /news/carfilzomib/
 
 ---
 
-### [Osakidetza unifica la atención a niños con asma para mejorar su tratamiento - El Diario Vasco](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRERIS2VRQVV4NHFITWFPMzlSTVphMFlxSEx6azdGTWR2N1pqTWRKSTl5enRqWS1QdGd4dVdKVzdKZUoyZW05QlRhX05JazhBNm15QURKN0w3TE4wYlNTZEZhX2tjU3VPdF8tSWp3a0N4TktyeEV6akYwZXhsZ0pKeEZ1QUttRGRuVlhQbFlOR2xjWWNqQkl2MlBxWVo2Q1hETk5ydG9EMW8wQm9yQUNzR29TcDNWYVR4Y2tGemtfRXFaUdIBxwFBVV95cUxNMlA4TXBPVTI3TVh5R2IxRGR4ZlB6b2tJWGhaemVWajVEdGsxSU5zaWZjWGVwTDJTb0NWeHlobzZwWkRJTTJQRDNkOGVvQXpKN1pJUXpiSGwxUFJ3UVh1T2F3SmFTWU9oMFBCQlhaMU5ITU1HVDN5aURaSUpxQmxteUktN0Zoc2h5MEF6cW9HTVkxWGNVUk42Q1FrcE1TRTFjTjZvaE5LbFMtd1lHbTRvUlVtM2Y1OWw4cER3QjJxTFloZ0I2aW5V?oc=5)
-
-2026-09-09 <span class="news-indication-tag">asma</span>
-
-來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRERIS2VRQVV4NHFITWFPMzlSTVphMFlxSEx6azdGTWR2N1pqTWRKSTl5enRqWS1QdGd4dVdKVzdKZUoyZW05QlRhX05JazhBNm15QURKN0w3TE4wYlNTZEZhX2tjU3VPdF8tSWp3a0N4TktyeEV6akYwZXhsZ0pKeEZ1QUttRGRuVlhQbFlOR2xjWWNqQkl2MlBxWVo2Q1hETk5ydG9EMW8wQm9yQUNzR29TcDNWYVR4Y2tGemtfRXFaUdIBxwFBVV95cUxNMlA4TXBPVTI3TVh5R2IxRGR4ZlB6b2tJWGhaemVWajVEdGsxSU5zaWZjWGVwTDJTb0NWeHlobzZwWkRJTTJQRDNkOGVvQXpKN1pJUXpiSGwxUFJ3UVh1T2F3SmFTWU9oMFBCQlhaMU5ITU1HVDN5aURaSUpxQmxteUktN0Zoc2h5MEF6cW9HTVkxWGNVUk42Q1FrcE1TRTFjTjZvaE5LbFMtd1lHbTRvUlVtM2Y1OWw4cER3QjJxTFloZ0I2aW5V?oc=5)
-
----
-
 ### [Prostate Cancer: Exercise Program Reduces Treatment Side Effects](https://news.google.com/rss/articles/CBMipAFBVV95cUxOejFmOVUxcTQ4ZmNjU0oySzZtUWlqYlRZX19xaFJkQ1BndWt4bXN1ODQ0Y0hjRWZYU1V5RjRuNlQ0N3dtMzJJWkpJb2hna0E1ZlU4THM4cjlrQjJIYUFHSXZkNngzMmFVRzNpVm52bzQxOXkzVFY4N1U2clpUdDdKeDN3bWNWMjZhUmtqVGRiZWxrdDFqejlrZ0F4eW51TFJjUUpVRw?oc=5)
 
 2026-09-09 <span class="news-indication-tag">cancer</span>
@@ -246,11 +238,43 @@ permalink: /news/carfilzomib/
 
 ---
 
+### [AI model predicts which breast-cancer drugs work best](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMHllaTJtbHlrNFl6R1k2RzRodlhpMlN2a3RIb0dyS2gzZllwbm5SSzlFbDZnZjJocFRKaWltNkFpVzlCRXRYUjExTExjRXpZbktWWUJqaDhRVkx0NGNr?oc=5)
+
+2026-09-09 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMHllaTJtbHlrNFl6R1k2RzRodlhpMlN2a3RIb0dyS2gzZllwbm5SSzlFbDZnZjJocFRKaWltNkFpVzlCRXRYUjExTExjRXpZbktWWUJqaDhRVkx0NGNr?oc=5)
+
+---
+
 ### [Huddersfield mum urges young women to check for ovarian cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdjNraENPd0tBS3lFa0c0VEptY0pBOF94bDdxaGN2cy1TdlM3QzFnd0FBU0VTc2diVDVRRnkyQ0x1cGdYcTFHcV9fSkhDN0phSFpITWtKbDdhZ0pD?oc=5)
 
 2026-09-09 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdjNraENPd0tBS3lFa0c0VEptY0pBOF94bDdxaGN2cy1TdlM3QzFnd0FBU0VTc2diVDVRRnkyQ0x1cGdYcTFHcV9fSkhDN0phSFpITWtKbDdhZ0pD?oc=5)
+
+---
+
+### [Angriffspunkt bei kleinzelligem Lungenkrebs: Studie der Uni Köln - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0gxV0ZCbUNIa1BHNmhnMnJTeHgtZ3E2dFFXM041cG1RcDZIdnVkYU4tTUtOOWswNms3ZGxRczZnbzBVdV95ckJMcVVsWFFrSDFRanhwZEYxRWFBYTc0M2tNZWlmcHdpOVJTbzBKRWFsSjRmYUY4WElTdGQ0QUpXZUlBRmxSd0dBU0xkaEhPVXpKOTVkMFdHcXhSSU5YckU0Z3p2dmhpUWUzcWlsR0hNQ1l0QVI?oc=5)
+
+2026-09-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0gxV0ZCbUNIa1BHNmhnMnJTeHgtZ3E2dFFXM041cG1RcDZIdnVkYU4tTUtOOWswNms3ZGxRczZnbzBVdV95ckJMcVVsWFFrSDFRanhwZEYxRWFBYTc0M2tNZWlmcHdpOVJTbzBKRWFsSjRmYUY4WElTdGQ0QUpXZUlBRmxSd0dBU0xkaEhPVXpKOTVkMFdHcXhSSU5YckU0Z3p2dmhpUWUzcWlsR0hNQ1l0QVI?oc=5)
+
+---
+
+### [Prostatakrebs: Diese acht Muster verraten, welcher Tumor tötet - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY05pQzVUaVAyMWlRTnNDQVFnNVQzQ01adEJVMjQ2NnhKMlFST09maFByTmxLSG54RkF2NjN2QjMyMjlJeklocmR3c3hHSmpTcnpQRDR3YzN0V210VG52OW4xWEVIQkkzMFR4ZVRnSzZJRmZLQlV6OUlZNmhvWDdveXlvbF9oZUhlWnRyNFp6UTdpUlFXTHpTOXRiekdyNW5vUjF5ZVdINS1EbE12RTRhRXRsdVJWLUZYN3NLQUozbHVBZ2s?oc=5)
+
+2026-09-09 <span class="news-indication-tag">tumor</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY05pQzVUaVAyMWlRTnNDQVFnNVQzQ01adEJVMjQ2NnhKMlFST09maFByTmxLSG54RkF2NjN2QjMyMjlJeklocmR3c3hHSmpTcnpQRDR3YzN0V210VG52OW4xWEVIQkkzMFR4ZVRnSzZJRmZLQlV6OUlZNmhvWDdveXlvbF9oZUhlWnRyNFp6UTdpUlFXTHpTOXRiekdyNW5vUjF5ZVdINS1EbE12RTRhRXRsdVJWLUZYN3NLQUozbHVBZ2s?oc=5)
+
+---
+
+### [Schweres Asthma verursacht Veränderungen im Gehirn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
+
+2026-09-09 <span class="news-indication-tag">asthma</span>
+
+來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 ---
 
@@ -278,11 +302,11 @@ permalink: /news/carfilzomib/
 
 ---
 
-### [New study finds link between common stomach bug exposure and bowel cancer](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2ZkdkF2a1NRVUw3WTlJS180YllsdWxOWDJIZ3N1aEQ3TlljczdPS3M1VTVxdHRwb29veUxyay0taG9mdG9IbVBqeERhZ3NrWjZoZm1pUjEwbDVZNWhFR05ReTlCNTVORTBiX194MkwxblBkQk9kWkJlZi1GeDBoY1htOFJLYzRYRjRDQ1d1OTR3QVZ0RTFvNnE4REZBQUdybXc?oc=5)
+### [New study finds link between common stomach bug exposure and bowel cancer - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2ZkdkF2a1NRVUw3WTlJS180YllsdWxOWDJIZ3N1aEQ3TlljczdPS3M1VTVxdHRwb29veUxyay0taG9mdG9IbVBqeERhZ3NrWjZoZm1pUjEwbDVZNWhFR05ReTlCNTVORTBiX194MkwxblBkQk9kWkJlZi1GeDBoY1htOFJLYzRYRjRDQ1d1OTR3QVZ0RTFvNnE4REZBQUdybXc?oc=5)
 
 2026-09-08 <span class="news-indication-tag">cancer</span>
 
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2ZkdkF2a1NRVUw3WTlJS180YllsdWxOWDJIZ3N1aEQ3TlljczdPS3M1VTVxdHRwb29veUxyay0taG9mdG9IbVBqeERhZ3NrWjZoZm1pUjEwbDVZNWhFR05ReTlCNTVORTBiX194MkwxblBkQk9kWkJlZi1GeDBoY1htOFJLYzRYRjRDQ1d1OTR3QVZ0RTFvNnE4REZBQUdybXc?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2ZkdkF2a1NRVUw3WTlJS180YllsdWxOWDJIZ3N1aEQ3TlljczdPS3M1VTVxdHRwb29veUxyay0taG9mdG9IbVBqeERhZ3NrWjZoZm1pUjEwbDVZNWhFR05ReTlCNTVORTBiX194MkwxblBkQk9kWkJlZi1GeDBoY1htOFJLYzRYRjRDQ1d1OTR3QVZ0RTFvNnE4REZBQUdybXc?oc=5)
 
 ---
 
@@ -291,14 +315,6 @@ permalink: /news/carfilzomib/
 2026-09-08 <span class="news-indication-tag">cancer</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMijwJBVV95cUxQNG9NZ3dDNlUwOHk0c3lQRDIxX3N1YTZ5NVpMa3BZQW9fM2ZieW5kRDhCem5qR0h0WnE1dVNXd0trV0pVNkRYSnQ3bk9FeFhiNmRUWVhSa1pFT1Z3Qng1TUxkUDVZeEthdk1qT2NOMm9DWU1YMkozVE5JdFR0aXdFWE9Wc1k5VE13WjV5aTdqSHlOczdEZjZVNEdzQjBQNnZpYlVsV2ZpZERjX1YxVUoyQXJhT2N5bXVPVzJhM2lsQnZFN3RWVGFZdF91aDE2Q1M3akhuX3Rmd1dhWW9ObFlpVEdqVkZGWENMd2l1c3AwY0xwRWw1OFpKbllYd0k0UFBRMTUyTktSdkNfMlplZjcw?oc=5)
-
----
-
-### [Studie an 1000 Patienten: Schutz der Thymusdrüse beeinflusst Überlebenschancen bei Lungenkrebs](https://news.google.com/rss/articles/CBMizgFBVV95cUxPeG83eVFvLWZXRlo3eUthQXpoMVBjazY1Y2JWS1NBLWd0a1Z5R1lOc04yRXBpQ2VYWXYtMXdlMkVselo2UEszU1JhcHN2SlpxaXpleU9NcWJ5Y25EOElMdVdrU1JSU1JRRzRTdkZRWEZad3JZVDZWQXRLWERFQ0h1QWc4N181MkJTU0ZxdGhiM1hMQXhGM3Z1Z05URHBaWG5kUUhwRkdFOGNidHAtdU9qT3hCOC1kNkh1RFJZbW01YmRzeDhIdk05UTh4Rm0yQQ?oc=5)
-
-2026-09-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[cristinaiglesias.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPeG83eVFvLWZXRlo3eUthQXpoMVBjazY1Y2JWS1NBLWd0a1Z5R1lOc04yRXBpQ2VYWXYtMXdlMkVselo2UEszU1JhcHN2SlpxaXpleU9NcWJ5Y25EOElMdVdrU1JSU1JRRzRTdkZRWEZad3JZVDZWQXRLWERFQ0h1QWc4N181MkJTU0ZxdGhiM1hMQXhGM3Z1Z05URHBaWG5kUUhwRkdFOGNidHAtdU9qT3hCOC1kNkh1RFJZbW01YmRzeDhIdk05UTh4Rm0yQQ?oc=5)
 
 ---
 
@@ -323,6 +339,14 @@ permalink: /news/carfilzomib/
 2026-09-07 <span class="news-indication-tag">Krebs</span>
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTE5xUWl4UWt2YXhNUEhZOXhlZzlfZ2pBa2t5NnlqZ1VGdzNTSEJpNzZuYjdYcklZbDAzVkw2c3A0UkROY1ZqOTR6WnI5VnU0U3g4M2dYNVJPeFBMemhPRjhxSHJTYlZiZENMaVkyTy1aOUJOcXVDUFVqZ2FxQ3pWVEZ6YmVJY1VkeEZidnFhZjZSelZ1Umh2MEZhQnlUNUMySWhBYmw0SzV6c29icUF0eFlwYU9XTkR1?oc=5)
+
+---
+
+### [Krebsforschung: Organoide bilden Vielfalt von Lebertumoren für Wirkstofftests ab](https://news.google.com/rss/articles/CBMimwFBVV95cUxNajhZTHdJaDJVcG5zU2pEUkNiN3B1eVFqR1RNOGtKRGVCWGIxdlNrVjlWcVcwV0VjV2hBWDlfc1FOWjRnYUYzMV9xVFhOQjRQQ3A5d0JtSkg4Z1MwUC1Gd29UQkJBLXk2TmxuVkVPU1VQeURwQmpkR25HZ1k3VkUwc3dXT0hOem80cWhCT1lsb0R5dThfaWNrUHh4TQ?oc=5)
+
+2026-09-07 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxNajhZTHdJaDJVcG5zU2pEUkNiN3B1eVFqR1RNOGtKRGVCWGIxdlNrVjlWcVcwV0VjV2hBWDlfc1FOWjRnYUYzMV9xVFhOQjRQQ3A5d0JtSkg4Z1MwUC1Gd29UQkJBLXk2TmxuVkVPU1VQeURwQmpkR25HZ1k3VkUwc3dXT0hOem80cWhCT1lsb0R5dThfaWNrUHh4TQ?oc=5)
 
 ---
 

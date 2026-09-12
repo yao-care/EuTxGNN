@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（18 則）
 
-### [Gesundheit-News: Wenn Nachts die Atmung stockt - Scharchen und obstruktive Schlafapnoe](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
+### [Número de casos de ébola en RD del Congo supera los 7.000, con 3.400 decesos - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2tJSWRHMHNpMVlnRDI3aE5VX1RfZ09rSXJnNVBYOWtVTG1xRE9HbFNnc01nVkdrYVp5eFFsMVd5SE9mMGVlaTQ2UW9vMXFwQVJESGVxMkFBUVI4Q1pZRVE1VFVycEhEVUo5elBTV2lLbGVGUzAwX25URnFHV2VuNk01OA?oc=5)
 
-2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">MS</span>
 
-來源：[magdeburger-news.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkw3N3ppQnpjekpadHBHaUxsN3VvSVptckc1YUdaRHdjdUR3Yng5SGI2LUQ0Y0RhZElSVW1TcW02VkJXUVo1ODl6eEt0OEl2Z1B2ci1aQWpCbWdrSVNOUVlWQ25EbU5Sa0t5WFpRMC1lUDVZaTF2ak96U2M2ekl4cw?oc=5)
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2tJSWRHMHNpMVlnRDI3aE5VX1RfZ09rSXJnNVBYOWtVTG1xRE9HbFNnc01nVkdrYVp5eFFsMVd5SE9mMGVlaTQ2UW9vMXFwQVJESGVxMkFBUVI4Q1pZRVE1VFVycEhEVUo5elBTV2lLbGVGUzAwX25URnFHV2VuNk01OA?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/velpatasvir/
 2026-09-11 <span class="news-indication-tag">epatite</span>
 
 來源：[LivornoToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEJUY01yX3JJUE1WVWtDdHl1TVdiVGlubE91ZmRhY0N2QmRQU0M0QkVzY2w3WGNiMmxKTFBOSlJ0al9pSWRUdnlRS05tYU5FZkU4MHNiSDl0VXYzckhsZ052OVlQUEhabmtpMklyc20zMjNzUUlSS1NZMUVEbUpwN3Q4ZzNrM2V3MmpheGlCSktiUQ?oc=5)
-
----
-
-### [INFO OUEST-FRANCE. Pour la première fois, des cas humains d’infection par le virus du Nil occidental à Nantes et Angers](https://news.google.com/rss/articles/CBMinwJBVV95cUxNQjlfbE0xY3YtOUZkZVlIU3V1R2Y2bkQ0dmVCdW9wVk9LWV9Cam1RNkxyS0VCMmY1bU9XSXVoN0xhbDZxRUV0ZUZMQ3Q2SXpIMVh5dUhTXzMyZVViODBzM2d1LTFNdml3b2Z0U200MUlmWUJ1aEM3TWZRR3ZJZkdYZWNmSU5yUURtbmlUcFcwTGRwTlFQdTBvZkpyQXVJZlh6SnBOT2VTamVOWWs4M29wNlRnUjFpNF9VUERUdVVzZzBTMmQxRVpsWEJmSWFFTzNSQ0EtZU1aUVVQS3BNbXJFeVg4UGx5dHE0T0dCbVF0SW9DaWU1NXRXZW1zU1RCM2lMd21IMkJmd2xISUhoMzVHVDh2eU90bTZVZmEzc2F4NA?oc=5)
-
-2026-09-11 <span class="news-indication-tag">MS</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMinwJBVV95cUxNQjlfbE0xY3YtOUZkZVlIU3V1R2Y2bkQ0dmVCdW9wVk9LWV9Cam1RNkxyS0VCMmY1bU9XSXVoN0xhbDZxRUV0ZUZMQ3Q2SXpIMVh5dUhTXzMyZVViODBzM2d1LTFNdml3b2Z0U200MUlmWUJ1aEM3TWZRR3ZJZkdYZWNmSU5yUURtbmlUcFcwTGRwTlFQdTBvZkpyQXVJZlh6SnBOT2VTamVOWWs4M29wNlRnUjFpNF9VUERUdVVzZzBTMmQxRVpsWEJmSWFFTzNSQ0EtZU1aUVVQS3BNbXJFeVg4UGx5dHE0T0dCbVF0SW9DaWU1NXRXZW1zU1RCM2lMd21IMkJmd2xISUhoMzVHVDh2eU90bTZVZmEzc2F4NA?oc=5)
 
 ---
 
@@ -90,7 +82,7 @@ permalink: /news/velpatasvir/
 
 2026-09-11 <span class="news-indication-tag">MS</span>
 
-來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 ---
 
@@ -102,6 +94,14 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Schlafapnoe: Neues Medikament senkt Atemaussetzer um 44 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
+
+2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
+
+---
+
 ### [Actualidad para la innovación farmacéutica](https://news.google.com/rss/articles/CBMif0FVX3lxTFBEQmh3Q25jUVY2OXVVbDFrWVg0ZG9DeEdhN2F3WVZldFdqZ05jNTFoTHZIeEdCQl9rNVQ3U2ZXR2hQYVhKY2RwV2RzUFVUVXZsQmZuZU9xMDZ3ekRuaW9fTGNMa2hkUU1Bdzd3bVV6MjlNRWY0RnJCTG1KU3VONVk?oc=5)
 
 2026-09-10 <span class="news-indication-tag">MS</span>
@@ -110,11 +110,27 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Semaglutid ist mit weniger Exazerbationen bei Asthma und COPD assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTl0QmVYMEFlalQwano2Z2J0Mzl0V1hlNGg2R0dOOXN4NFJxMkE2ZjJWVVNxV3ZTLXlQQnhFSWJ1SlBBZkMxWnhHX25nMFVrcVF3T1Z4WHJUUzVMS0dUbnN3d0NEM21OdnZ3ZHdpZWZranhiN2tERHZUeXd6M1c1U0ZsN29wZ0hQbi1SdDl0OUZBOGtIYU1saDcxY1lUaGZTeUI3Z2MyVEliMkQ3RFNBTElFaXJJb0d2UWpyTXZHcEdPWHZRYjNBNEgwOS0tLWpxdVgyY1JQbjA?oc=5)
+
+---
+
 ### [A Woman's Intestines Literally Tied Themselves Into a Knot After Childbirth](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
 
 2026-09-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
+來源：[sciencealert.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
+
+---
+
+### [Fettleber: Neue Risiken für Herz und Nieren entdeckt](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
+
+2026-09-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JqSXh6dUxtekdMWWxZUFF6VGtza3FyQ0ktd3k1Njcxc3VrdFpqdFEzSktfLVJaSVBud1BOa0UyYmdZb2xKaFhtZkgtMXdXeUxJdlJOam9OOHdTY2FxQUhaT3dncDI5enZmQzJab2Zpd2FRSFJ5QUlNWTBpWDlKYTFFLWZDOGZMR0JXWTF5bTAyLW1JU2lUaF9HQm5rbGNnc3Jz?oc=5)
 
 ---
 
@@ -150,19 +166,27 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Psychology says people who over-explain themselves in ordinary conversations aren't insecure or needy — they often grew up with adults who required exhaustive justification before they would believe, help, or simply not punish - Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxQb1Z1cGtPWklJNWE2OUwwbDhzV1ZVaWRabjEwdl9yVDlVOU9qTEJmVmhINEhXNGtLak9lZVhHQmlKaXZXWnhzdUhUR1VUUThGUkF2VHpVY0doVTN3dWJVU3RCdC1XVWlIdW9yckJiS0xYZUVrczJmU0dDZXREc2d6RHpOeUNFQ2hQVFNKZlQ3TVIzLXg1ek1nLVFPMWZmd0twdTBaSzN3dTZfa2pMV3JZb010U1E1VDRfUUpzM0dDMEJDTnU2bWJVYmFRU2g3cTh0enZ6YkUteHNBSFRoUVJUOThDYWF5a01vOVJNdUZRMDBNcEhXQUVyR29wWjRTSGdpcHRxZGJPYWV0TW4yU3FQSFgzZldhYWRfWUc1VW41VHQwYTNINXBsZ0NSZ3J5TVFQYWV3aEdZWjdHZ1ZlbktZ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">MS</span>
-
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMivwJBVV95cUxQb1Z1cGtPWklJNWE2OUwwbDhzV1ZVaWRabjEwdl9yVDlVOU9qTEJmVmhINEhXNGtLak9lZVhHQmlKaXZXWnhzdUhUR1VUUThGUkF2VHpVY0doVTN3dWJVU3RCdC1XVWlIdW9yckJiS0xYZUVrczJmU0dDZXREc2d6RHpOeUNFQ2hQVFNKZlQ3TVIzLXg1ek1nLVFPMWZmd0twdTBaSzN3dTZfa2pMV3JZb010U1E1VDRfUUpzM0dDMEJDTnU2bWJVYmFRU2g3cTh0enZ6YkUteHNBSFRoUVJUOThDYWF5a01vOVJNdUZRMDBNcEhXQUVyR29wWjRTSGdpcHRxZGJPYWV0TW4yU3FQSFgzZldhYWRfWUc1VW41VHQwYTNINXBsZ0NSZ3J5TVFQYWV3aEdZWjdHZ1ZlbktZ?oc=5)
-
----
-
 ### [Flushing the toilet can release a ‘plume’ of breathable pathogens – and closing the lid won’t stop their escape - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0NKRVRmc1FLTU9McWEwNTNDcVFyd3JBVExDaE03U3VCQ2RlbEMtVGhRZmpzNjF4WWNvdjEwc1R3eXd0enVsb2l6T3B2ZWRBSDcyYlQ5bTdxZkh3Q3Fnblo2S3p5SHBKbEUtOUNnSVlsb2JBcTRCbFd6VzlCN1pSSW9NRUVhaTYwWnF0N0RUM1JQWkt0eWdFOVFENWhIMTNQVF9v?oc=5)
 
 2026-09-08 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0NKRVRmc1FLTU9McWEwNTNDcVFyd3JBVExDaE03U3VCQ2RlbEMtVGhRZmpzNjF4WWNvdjEwc1R3eXd0enVsb2l6T3B2ZWRBSDcyYlQ5bTdxZkh3Q3Fnblo2S3p5SHBKbEUtOUNnSVlsb2JBcTRCbFd6VzlCN1pSSW9NRUVhaTYwWnF0N0RUM1JQWkt0eWdFOVFENWhIMTNQVF9v?oc=5)
+
+---
+
+### [MS-Forschung: Immunprotein schützt Nervenzellen bei Multipler Sklerose](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVC1VQm0ycUJfTUh4Y3M2dGlQdDYzSzA3VzBCOEN6VXRjektIRnFiLXV4c0VZd3l5LTBJVE02eHZlS1JXR2VIZG9VOTY2SjVvMnRnaU1udmlLSnNKS0M0b19tT0Z6a2RGUTgwOTVSLUc2bF8xWUw4OWl1TnNmd0VHRUM3UlF0Ym9wcDlUbGdzaGY?oc=5)
+
+2026-09-08 <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVC1VQm0ycUJfTUh4Y3M2dGlQdDYzSzA3VzBCOEN6VXRjektIRnFiLXV4c0VZd3l5LTBJVE02eHZlS1JXR2VIZG9VOTY2SjVvMnRnaU1udmlLSnNKS0M0b19tT0Z6a2RGUTgwOTVSLUc2bF8xWUw4OWl1TnNmd0VHRUM3UlF0Ym9wcDlUbGdzaGY?oc=5)
+
+---
+
+### [Krebsforschung: Organoide bilden Vielfalt von Lebertumoren für Wirkstofftests ab](https://news.google.com/rss/articles/CBMimwFBVV95cUxNajhZTHdJaDJVcG5zU2pEUkNiN3B1eVFqR1RNOGtKRGVCWGIxdlNrVjlWcVcwV0VjV2hBWDlfc1FOWjRnYUYzMV9xVFhOQjRQQ3A5d0JtSkg4Z1MwUC1Gd29UQkJBLXk2TmxuVkVPU1VQeURwQmpkR25HZ1k3VkUwc3dXT0hOem80cWhCT1lsb0R5dThfaWNrUHh4TQ?oc=5)
+
+2026-09-07 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxNajhZTHdJaDJVcG5zU2pEUkNiN3B1eVFqR1RNOGtKRGVCWGIxdlNrVjlWcVcwV0VjV2hBWDlfc1FOWjRnYUYzMV9xVFhOQjRQQ3A5d0JtSkg4Z1MwUC1Gd29UQkJBLXk2TmxuVkVPU1VQeURwQmpkR25HZ1k3VkUwc3dXT0hOem80cWhCT1lsb0R5dThfaWNrUHh4TQ?oc=5)
 
 ---
 

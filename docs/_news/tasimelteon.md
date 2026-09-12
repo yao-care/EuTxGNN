@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### ['I had horrible thoughts after my baby was born': Dad's experience of postnatal depression](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56b3d3ZUtLYXNGRUp0Wi1QNmh3Z0JuT01kTG9kUUhBM3FLdzU0OE5TdVhLM0RQUV93b3J4MmlZVGVfMnRmeXZ6dUF1Skd6Q3o0aWQtWXhRVHpGX3Rk?oc=5)
 
 2026-09-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56b3d3ZUtLYXNGRUp0Wi1QNmh3Z0JuT01kTG9kUUhBM3FLdzU0OE5TdVhLM0RQUV93b3J4MmlZVGVfMnRmeXZ6dUF1Skd6Q3o0aWQtWXhRVHpGX3Rk?oc=5)
+
+---
+
+### [Depression risk associated with idealized sentiment toward urban places on social media](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4td0ozWHY5R2Z6TmRrbW94RHpjZV9JMF9ORkF2YzlueWdaZHppUkVybEpKcFlOcloxdU1ZOU4wMWJUd1VVZzVIWGwwV3R3alM1RTE5OEg2MTZjVG9rei1R?oc=5)
+
+2026-09-09 <span class="news-indication-tag">depression</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4td0ozWHY5R2Z6TmRrbW94RHpjZV9JMF9ORkF2YzlueWdaZHppUkVybEpKcFlOcloxdU1ZOU4wMWJUd1VVZzVIWGwwV3R3alM1RTE5OEg2MTZjVG9rei1R?oc=5)
 
 ---
 
