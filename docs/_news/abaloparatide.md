@@ -54,6 +54,14 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（10 則）
 
+### [Infarto e diabete, il rischio lascia una firma nel sangue già a 8 anni? Analizzate 5.420 proteine](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnFSYUpld3BMcE1hbFp0Zy0tdnRTeUVOOW8wcnBWT0RNQU1OTDBtQ19INDR3eDVVZG5ncDQyem1sWjJ0OFRxcFdIWFhjX3dOb2hNcGc0bTAxT29ub2hGczFrdVRDTDFQYVRGcHhCYldMWmN3aVB4R1huTjk4UGp1dlhhbXRjWGJ5NlVIN1RWUkFYRFk0U3M0N3dySjUwaDdHYnJjWkxoTU92VVhvYTlrRmNFSVllNWNrMFloMTdLdkFmWmVIaE9nd1QxRi1yaEgwdjVnM2VPLUpVR19LWThOVktUWk41Q1B5SENZ?oc=5)
+
+2026-09-13 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnFSYUpld3BMcE1hbFp0Zy0tdnRTeUVOOW8wcnBWT0RNQU1OTDBtQ19INDR3eDVVZG5ncDQyem1sWjJ0OFRxcFdIWFhjX3dOb2hNcGc0bTAxT29ub2hGczFrdVRDTDFQYVRGcHhCYldMWmN3aVB4R1huTjk4UGp1dlhhbXRjWGJ5NlVIN1RWUkFYRFk0U3M0N3dySjUwaDdHYnJjWkxoTU92VVhvYTlrRmNFSVllNWNrMFloMTdLdkFmWmVIaE9nd1QxRi1yaEgwdjVnM2VPLUpVR19LWThOVktUWk41Q1B5SENZ?oc=5)
+
+---
+
 ### [Adipositas, Prädiabetes & Fettleber: Keto-Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
 
 2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
@@ -78,27 +86,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [La migraña afecta a más de 6 millones de personas en España, pero solo 1 de cada 10 recibe tratamiento preventivo - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
-
----
-
-### [Uno de cada cuatro pacientes con vértigo presenta migraña vestibular - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
-
-2026-09-11 <span class="news-indication-tag">migraña</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
-
----
-
 ### [Diabete di tipo 2: qual è l'esame del sangue che ti dice lo stato di salute di cuore e reni](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
 
 2026-09-11 <span class="news-indication-tag">diabete</span>
 
-來源：[my-personaltrainer.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
 
 ---
 
@@ -123,6 +115,14 @@ permalink: /news/abaloparatide/
 2026-09-10 <span class="news-indication-tag">migraine</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+
+---
+
+### [Neurólogos y asociaciones de pacientes reclaman ampliar el acceso a los nuevos tratamientos para la migraña - Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
+
+2026-09-08 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
 
 ---
 

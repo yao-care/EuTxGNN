@@ -14,7 +14,7 @@ permalink: /news/elvitegravir/
 ---
 
 <p class="key-answer" data-question="Elvitegravir 有什麼相關新聞？">
-<strong>Elvitegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elvitegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/elvitegravir/
 <p><a href="{{ '/drugs/elvitegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Dieci casi di epatite A tra Pisa e Livorno: possibile focolaio in uno stabilimento balneare del litorale](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
-
-2026-09-12 <span class="news-indication-tag">epatite</span>
-
-來源：[PisaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/bimekizumab/
 ---
 
 <p class="key-answer" data-question="Bimekizumab 有什麼相關新聞？">
-<strong>Bimekizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bimekizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bimekizumab/
 <p><a href="{{ '/drugs/bimekizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Infarto e diabete, il rischio lascia una firma nel sangue già a 8 anni? Analizzate 5.420 proteine](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnFSYUpld3BMcE1hbFp0Zy0tdnRTeUVOOW8wcnBWT0RNQU1OTDBtQ19INDR3eDVVZG5ncDQyem1sWjJ0OFRxcFdIWFhjX3dOb2hNcGc0bTAxT29ub2hGczFrdVRDTDFQYVRGcHhCYldMWmN3aVB4R1huTjk4UGp1dlhhbXRjWGJ5NlVIN1RWUkFYRFk0U3M0N3dySjUwaDdHYnJjWkxoTU92VVhvYTlrRmNFSVllNWNrMFloMTdLdkFmWmVIaE9nd1QxRi1yaEgwdjVnM2VPLUpVR19LWThOVktUWk41Q1B5SENZ?oc=5)
+
+2026-09-13 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnFSYUpld3BMcE1hbFp0Zy0tdnRTeUVOOW8wcnBWT0RNQU1OTDBtQ19INDR3eDVVZG5ncDQyem1sWjJ0OFRxcFdIWFhjX3dOb2hNcGc0bTAxT29ub2hGczFrdVRDTDFQYVRGcHhCYldMWmN3aVB4R1huTjk4UGp1dlhhbXRjWGJ5NlVIN1RWUkFYRFk0U3M0N3dySjUwaDdHYnJjWkxoTU92VVhvYTlrRmNFSVllNWNrMFloMTdLdkFmWmVIaE9nd1QxRi1yaEgwdjVnM2VPLUpVR19LWThOVktUWk41Q1B5SENZ?oc=5)
+
+---
 
 ### [Adipositas, Prädiabetes & Fettleber: Keto-Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
 
@@ -82,7 +90,7 @@ permalink: /news/bimekizumab/
 
 2026-09-11 <span class="news-indication-tag">diabete</span>
 
-來源：[my-personaltrainer.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
 
 ---
 

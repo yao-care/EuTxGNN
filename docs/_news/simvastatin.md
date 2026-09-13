@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Bastano 1000 passi in più al giorno per ridurre il rischio di infarto e ictus, mostra lo studio dell'Università di Sydney](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUzlxalpKMXlwSGwzdjBrSjlUYWlZbjdENmtEUnNlaUItRl9qYWVxaEZhckQyT29ia0dDUUZST05PSFN5bmx1bGpnMkUtaEJNTDR5SXVZY3prNHJTOHd2TjVsQnlHTDFDUGJ5NG10dmZYdHotbTFLTVBRYWRDVFhERjRKWWNWZHVHemtvWDBXS3pyY05mSGJxbkxjNk1HOHpzYXlteDMySjczaW9BZlZVRzhlRC1oYjJfX01yWFBGbldTRzNWT1NEa0tKZUtpVm0zYTdOakFXdU5jNjE2RGhqNG1sbElWU2FaTk9tNmVkc0VXa25IS181UE9pREg4bTRIbHAxMVBVVDZna1J1?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/simvastatin/
 2026-09-12 <span class="news-indication-tag">ictus</span>
 
 來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzN4QjhLN085SUViNGcyd25TM1c4RzMtbDVEWFFmLUM3Mk4wTm1tN2FPWXdwXzU2b0tsVm9id0tqZ2ZFZ1Z1dmtmdTc3RnVfS1lXZk5LWmFsVnNlempKSFQ5bHhQemtxSGVNQ1hVSlBMSDVDRHhNYVFCQ3FPV0Zqc21GbXJ2c0F4d2xFNTRYcUU5aU16eXJSQTJQZEZpcWtYZF9xMzVR?oc=5)
-
----
-
-### [AVC précoce : votre groupe sanguin pourrait modifier votre niveau de risque - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLS1UYXpVYVoyV0s5MzhkWGVWTUl3clFoc3BlN1RkX2VlRDFfT09fR2w4UEN6M0h0MDNidFhKekRzUjRPYnZYMlQ3XzJ1VENlaWZoZDU1X28zZVhyeDhHRjZZSkk1akNWZlJLaG45azZXeHhyMnI4cDVaM01lTnBDYll0enVHUW9IZllqYjc0VldqQm55Vlp3MjFmQzBqRktBY0JLbW5nZDhoTzBkaG8tOWtDNkZTN0RjTUdpUl9XWlYzdG0wS0J1ZTlxSmpRMmxTVldwX3gtTmxJQQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">AVC</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLS1UYXpVYVoyV0s5MzhkWGVWTUl3clFoc3BlN1RkX2VlRDFfT09fR2w4UEN6M0h0MDNidFhKekRzUjRPYnZYMlQ3XzJ1VENlaWZoZDU1X28zZVhyeDhHRjZZSkk1akNWZlJLaG45azZXeHhyMnI4cDVaM01lTnBDYll0enVHUW9IZllqYjc0VldqQm55Vlp3MjFmQzBqRktBY0JLbW5nZDhoTzBkaG8tOWtDNkZTN0RjTUdpUl9XWlYzdG0wS0J1ZTlxSmpRMmxTVldwX3gtTmxJQQ?oc=5)
 
 ---
 

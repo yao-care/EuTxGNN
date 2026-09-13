@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。16 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。17 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>16 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>17 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
 
-### [La República Democrática del Congo suma más de 7.000 casos de ébola - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWG5hOXNaSGJjbWZZQnMxUHdmUGV1VlBuM3pBUXFOekFZZGRudG0wb3NlXzZ1eFFaS2dQRHpzNklJRTctMklubXQ3eFBPSEdYVDQ0TUlLUnpEVEZnOFF3WGRjVkxVTnJZWmhBYVVDWWZUY3c3bHhLT2N5eXUxb0dqNlA3M1lCSDlNMk1vdlJIa0VrSmZNYkZlX2ZOTGlYSXEyazBmYlVCWHkyNjN3UGhjV1JsS0dySWRmNVVCYTRjZXdHajA?oc=5)
+### [« Une grosse fatigue qui peut aller jusqu’au coma » : alerte à l’encéphalite à tiques, entre vigilance et incertitudes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVRuMkJUOWtHTVNoR3MzMk9YOFNtMGVZWVZsSW1qbWkyNTB3SFNDcVc4dG02NlVJbl9iYWNEMkd2bzBma2FZRVZMVkNPdmlzOWtFMHN4T0NLSWtscF9ERktIaG5oaFk1YS1PSzZUMlIzZTNzd1dlb3Zsc3Rkbm0xY1g1eC1RZWdkNmIxS3JBYllFUUhhTllBQ2pOdjJDdll2UXZZdlpRaVdhdlE?oc=5)
 
 2026-09-13
 
-來源：[SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWG5hOXNaSGJjbWZZQnMxUHdmUGV1VlBuM3pBUXFOekFZZGRudG0wb3NlXzZ1eFFaS2dQRHpzNklJRTctMklubXQ3eFBPSEdYVDQ0TUlLUnpEVEZnOFF3WGRjVkxVTnJZWmhBYVVDWWZUY3c3bHhLT2N5eXUxb0dqNlA3M1lCSDlNMk1vdlJIa0VrSmZNYkZlX2ZOTGlYSXEyazBmYlVCWHkyNjN3UGhjV1JsS0dySWRmNVVCYTRjZXdHajA?oc=5)
+來源：[ledauphine.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVRuMkJUOWtHTVNoR3MzMk9YOFNtMGVZWVZsSW1qbWkyNTB3SFNDcVc4dG02NlVJbl9iYWNEMkd2bzBma2FZRVZMVkNPdmlzOWtFMHN4T0NLSWtscF9ERktIaG5oaFk1YS1PSzZUMlIzZTNzd1dlb3Zsc3Rkbm0xY1g1eC1RZWdkNmIxS3JBYllFUUhhTllBQ2pOdjJDdll2UXZZdlpRaVdhdlE?oc=5)
+
+---
+
+### [Boy, 13, dies weeks before birthday after 'hay fever' symptoms were cancer](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
+
+2026-09-13
+
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
 
 ---
 
@@ -88,14 +96,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Darmmikrobiom zeigt bereits bei jungen Menschen, wie das Gehirn altern wird](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUYxSUw1Wm1TZURTclF0eHQtd250OUNoSVJWSUVacF9ZYlRzSGZDTk5fZDJWYkRYOS1VaGdyQXRNc3dybzJYenBrNzJnRE54N1V5VXduZF9HNEJWbVJlWWZGSVU1bFJJTFRHeHZ4U2hyX25TWjB5cW5rd2JGbk5ETW9wa1hVTkNfb2E1VVJubVByc2c2Z093Ty1jdGNRd3FFQjc4ZjBYNlhEekhDLXhScg?oc=5)
-
-2026-09-12
-
-來源：[Scinexx](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUYxSUw1Wm1TZURTclF0eHQtd250OUNoSVJWSUVacF9ZYlRzSGZDTk5fZDJWYkRYOS1VaGdyQXRNc3dybzJYenBrNzJnRE54N1V5VXduZF9HNEJWbVJlWWZGSVU1bFJJTFRHeHZ4U2hyX25TWjB5cW5rd2JGbk5ETW9wa1hVTkNfb2E1VVJubVByc2c2Z093Ty1jdGNRd3FFQjc4ZjBYNlhEekhDLXhScg?oc=5)
-
----
-
 ### [Hautbarriere: Protein PKP1 fungiert als aktive Immunbremse](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDgyMF9xYmJGVXRiRjJmNkRTWFhTNlB0QmFlNnJtdGpodUxJakRqMlhsdWR1aEpoNlR3Qm9EX3A5b2ltdDFTRWN0RFVySjdQRVVlTTk0bDZCcFc0WXJnM0cwVUxZemFiSVhZVU15WEZIcEZGUmoyVVhwLUxBMmU1UDVEWUxhcGhCTkR2NkNDaFk2Si0tU3pNZWRIN3ZWRmpEWlNBNHRpUG5yZw?oc=5)
 
 2026-09-12
@@ -112,19 +112,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Brain aging may be detected decades before symptoms appear, with links to gut health - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmxBRjVPLW9qVjBOZ2ljaVg0dEwxMGJ6S095N1lEVVdRdjdlRGhzRDJheHlvajFJMDZkM2ZWU0FiWWNJbXpJYTJmOFZoQldqSlNGd3lPTmpFZU4tUVJmend6NEVCd3BCY2tEN2g3aUthQjNzcEhvakk1QkRVcFBfa1lobE8?oc=5)
+### [Brain aging may be detected decades before symptoms appear, with links to gut health](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmxBRjVPLW9qVjBOZ2ljaVg0dEwxMGJ6S095N1lEVVdRdjdlRGhzRDJheHlvajFJMDZkM2ZWU0FiWWNJbXpJYTJmOFZoQldqSlNGd3lPTmpFZU4tUVJmend6NEVCd3BCY2tEN2g3aUthQjNzcEhvakk1QkRVcFBfa1lobE8?oc=5)
 
 2026-09-11
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmxBRjVPLW9qVjBOZ2ljaVg0dEwxMGJ6S095N1lEVVdRdjdlRGhzRDJheHlvajFJMDZkM2ZWU0FiWWNJbXpJYTJmOFZoQldqSlNGd3lPTmpFZU4tUVJmend6NEVCd3BCY2tEN2g3aUthQjNzcEhvakk1QkRVcFBfa1lobE8?oc=5)
+來源：[medicalxpress.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmxBRjVPLW9qVjBOZ2ljaVg0dEwxMGJ6S095N1lEVVdRdjdlRGhzRDJheHlvajFJMDZkM2ZWU0FiWWNJbXpJYTJmOFZoQldqSlNGd3lPTmpFZU4tUVJmend6NEVCd3BCY2tEN2g3aUthQjNzcEhvakk1QkRVcFBfa1lobE8?oc=5)
 
 ---
 
-### [Adipositas und Rheuma: Der gemeinsame Nenner](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
+### [Orexin-Agonist Oveporexton bei Narkolepsie Typ 1 hoch wirksam – News](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzdwRk1mWmFveE95RmZ5TC00ek5GbUN6QnFEUjJmZ2JvMlpBdUJNbDZnTXE0akZ1TmVQV1IwMktSZldZRjhuZEFzN25pZHdkaExlVlpOS0stNm90WGplSUNBd3VPbHg1MzlFUHVQM1ZvWDFMazktVWpGMVBFUkxRbTIyZTRPN2h5QzZaRlNncnNmMWk0dlBJaEltbUIxLTVyNXVTaVp4UmVMR2RpVG1NU1VnTTlMVXBRcHR2bDRJWHpuMmtqaUZNcjFB?oc=5)
 
 2026-09-11
 
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzdwRk1mWmFveE95RmZ5TC00ek5GbUN6QnFEUjJmZ2JvMlpBdUJNbDZnTXE0akZ1TmVQV1IwMktSZldZRjhuZEFzN25pZHdkaExlVlpOS0stNm90WGplSUNBd3VPbHg1MzlFUHVQM1ZvWDFMazktVWpGMVBFUkxRbTIyZTRPN2h5QzZaRlNncnNmMWk0dlBJaEltbUIxLTVyNXVTaVp4UmVMR2RpVG1NU1VnTTlMVXBRcHR2bDRJWHpuMmtqaUZNcjFB?oc=5)
 
 ---
 
@@ -133,14 +133,6 @@ permalink: /news/multiple-sclerosis/
 2026-09-11
 
 來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMHhybWwxUVpoMDlqSVhMRThwcXBsWnJPcVhTcEpzWWEwSFVfSzRLRmZWckhNRDJtTUh5M2E5RUFIQUQ0TUttdDBZaGxab2ZxVHUxcWdJdy1idVVubXRLVGQzSFo5WHF2QUR0TWVEVQ?oc=5)
-
----
-
-### [Boy's dying wish: 'I don't want to be forgotten'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
-
-2026-09-11
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
 
 ---
 
@@ -160,19 +152,35 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Hohe Fluorid-Konzentration im Trinkwasser von Schwangeren könnte kognitive Entwicklung der Kinder bremsen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMihAJBVV95cUxOemQ3bi1SU2lVNXE3aXhDLVVQMGpnTWpzNmhFOEdpSFpZeF9hWkJJNXExWUQ2dUhrLU0wYTJrTUYwVmQ2SjRmdnpGYWp0d3B1WC1ROVJhV2gybHY4blB3OGh5VVZCVFpVRzM3MGhiTkF1V1l0SDY1YnUyOEVKT3BOdVdxVnpfSTBwdzdCRlFkRVZwR2xQQnhNVFU5MDdySlZvYlNEdXlWVEdSUlRTNmJaQlQ0NjNlZi12X3prcDYtUEloa1RPdjJUWkV6SE1Bb1pOdkpaQk1xNXNEcURHQzZVZzdMcktBWEtLLUcwNFdjWmVQa1hXQ1VlaThfOVBYRFlCbWtpYw?oc=5)
+### [Hohe Fluorid-Konzentration im Trinkwasser von Schwangeren könnte kognitive Entwicklung der Kinder bremsen](https://news.google.com/rss/articles/CBMihAJBVV95cUxOemQ3bi1SU2lVNXE3aXhDLVVQMGpnTWpzNmhFOEdpSFpZeF9hWkJJNXExWUQ2dUhrLU0wYTJrTUYwVmQ2SjRmdnpGYWp0d3B1WC1ROVJhV2gybHY4blB3OGh5VVZCVFpVRzM3MGhiTkF1V1l0SDY1YnUyOEVKT3BOdVdxVnpfSTBwdzdCRlFkRVZwR2xQQnhNVFU5MDdySlZvYlNEdXlWVEdSUlRTNmJaQlQ0NjNlZi12X3prcDYtUEloa1RPdjJUWkV6SE1Bb1pOdkpaQk1xNXNEcURHQzZVZzdMcktBWEtLLUcwNFdjWmVQa1hXQ1VlaThfOVBYRFlCbWtpYw?oc=5)
 
 2026-09-10
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMihAJBVV95cUxOemQ3bi1SU2lVNXE3aXhDLVVQMGpnTWpzNmhFOEdpSFpZeF9hWkJJNXExWUQ2dUhrLU0wYTJrTUYwVmQ2SjRmdnpGYWp0d3B1WC1ROVJhV2gybHY4blB3OGh5VVZCVFpVRzM3MGhiTkF1V1l0SDY1YnUyOEVKT3BOdVdxVnpfSTBwdzdCRlFkRVZwR2xQQnhNVFU5MDdySlZvYlNEdXlWVEdSUlRTNmJaQlQ0NjNlZi12X3prcDYtUEloa1RPdjJUWkV6SE1Bb1pOdkpaQk1xNXNEcURHQzZVZzdMcktBWEtLLUcwNFdjWmVQa1hXQ1VlaThfOVBYRFlCbWtpYw?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMihAJBVV95cUxOemQ3bi1SU2lVNXE3aXhDLVVQMGpnTWpzNmhFOEdpSFpZeF9hWkJJNXExWUQ2dUhrLU0wYTJrTUYwVmQ2SjRmdnpGYWp0d3B1WC1ROVJhV2gybHY4blB3OGh5VVZCVFpVRzM3MGhiTkF1V1l0SDY1YnUyOEVKT3BOdVdxVnpfSTBwdzdCRlFkRVZwR2xQQnhNVFU5MDdySlZvYlNEdXlWVEdSUlRTNmJaQlQ0NjNlZi12X3prcDYtUEloa1RPdjJUWkV6SE1Bb1pOdkpaQk1xNXNEcURHQzZVZzdMcktBWEtLLUcwNFdjWmVQa1hXQ1VlaThfOVBYRFlCbWtpYw?oc=5)
 
 ---
 
-### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
+### [Babies born to anaemic mothers have smaller brains, study finds - The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05BNGgyV09hSHlKOFEwUm5NUXVuZWw1bEtVMTQ2NzVJUVZHSEdfN1VKMEl3TVlnTEdIQVptU3hPSzZQOFUwYU41UnAwdEpJV2Z6U2l1VFdsVWc5V054VEtTdjZoSTBFa2twckxVQ3A1ZEg5U0V3dmFDamhhM0pEOE9lWUN6aTNFdHBvZmh2aVlhSlJGR2xubC1HOE9mcmRyeU80enFSRXMzNFNYQjF6TDB2NWdtOG9QbG9yRE1n?oc=5)
 
 2026-09-09
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05BNGgyV09hSHlKOFEwUm5NUXVuZWw1bEtVMTQ2NzVJUVZHSEdfN1VKMEl3TVlnTEdIQVptU3hPSzZQOFUwYU41UnAwdEpJV2Z6U2l1VFdsVWc5V054VEtTdjZoSTBFa2twckxVQ3A1ZEg5U0V3dmFDamhhM0pEOE9lWUN6aTNFdHBvZmh2aVlhSlJGR2xubC1HOE9mcmRyeU80enFSRXMzNFNYQjF6TDB2NWdtOG9QbG9yRE1n?oc=5)
+
+---
+
+### [Immunforschung: Adipositas und Rheuma zeigen ähnliche entzündliche Immunreaktionen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
+
+2026-09-08
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
+
+---
+
+### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+
+2026-09-08
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
 
 ---
 
