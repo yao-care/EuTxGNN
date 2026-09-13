@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Así ayuda el complejo de la harina de algarroba a los pacientes con enfermedades metabólicas - Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPblBjdHlUbkxQb0M1RnR2OHNQSW5tMEFUZlFQTS1kaklWbGpHNGd4aEM1TlBKaVlqeTd5ZUhGaEdXZVd4amIwcVhVeU91UzhmUU9TdjFMZ1J4RWJ2RTBpVm9mVE9CRkpxcGd5Z2QwY0JHRnI4QWRreTJUVHpQeWFLSUFWRG5pX3dCWWpmXzFaRDdxZW1Za0dKbGlHQmpVSDVMRG1pcWpiRlNyTENaOC1nZ0QyN3ZLdVItblJ0YVJoTTYxeUxGZXFQeDhuVWxHN1Zzd19acTFxaDZYOGJGODdZNG8tdmctenVVSGQ1RUFFaE9waGRBUWlia2poYWVPZ9IBiAJBVV95cUxPUGx6akdwTG9Ib0FyUDRaQW1NaUpEcldPaHYzX0lHREdwM2dfSk8tSzlVanJUU1FPRVRJcmdndDNnQzIxa1dxT2QxNzZ4WHA4NHZZRXZudzdwaFNFT3lFcHJLOFp2UlNxX0J0SVM2S2FlaEw1YUlDT3N1a1g1N1dZMGJ6cGZOWjBrN0ZyRWR2WDA2Y04xRnhCYUZhRnJlMzBWbXl0Z0dCS2xvUU5Sb2xDdmNMRjhjNFZMVUNhTFotbzRTZVd6dU1wWS1MSWRMQjNhMDZnWGx0VlZBWS1SeG9OQjFKT1QtUWlUVG5id3FCN0JybTNYb0J6OC1hc1FYeEFxWG5FV2w5ZWo?oc=5)
+
+2026-09-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPblBjdHlUbkxQb0M1RnR2OHNQSW5tMEFUZlFQTS1kaklWbGpHNGd4aEM1TlBKaVlqeTd5ZUhGaEdXZVd4amIwcVhVeU91UzhmUU9TdjFMZ1J4RWJ2RTBpVm9mVE9CRkpxcGd5Z2QwY0JHRnI4QWRreTJUVHpQeWFLSUFWRG5pX3dCWWpmXzFaRDdxZW1Za0dKbGlHQmpVSDVMRG1pcWpiRlNyTENaOC1nZ0QyN3ZLdVItblJ0YVJoTTYxeUxGZXFQeDhuVWxHN1Zzd19acTFxaDZYOGJGODdZNG8tdmctenVVSGQ1RUFFaE9waGRBUWlia2poYWVPZ9IBiAJBVV95cUxPUGx6akdwTG9Ib0FyUDRaQW1NaUpEcldPaHYzX0lHREdwM2dfSk8tSzlVanJUU1FPRVRJcmdndDNnQzIxa1dxT2QxNzZ4WHA4NHZZRXZudzdwaFNFT3lFcHJLOFp2UlNxX0J0SVM2S2FlaEw1YUlDT3N1a1g1N1dZMGJ6cGZOWjBrN0ZyRWR2WDA2Y04xRnhCYUZhRnJlMzBWbXl0Z0dCS2xvUU5Sb2xDdmNMRjhjNFZMVUNhTFotbzRTZVd6dU1wWS1MSWRMQjNhMDZnWGx0VlZBWS1SeG9OQjFKT1QtUWlUVG5id3FCN0JybTNYb0J6OC1hc1FYeEFxWG5FV2w5ZWo?oc=5)
+
+---
 
 ### [Fettleber: Ketogene Ernährung senkt Leberfett stärker als Mittelmeer-Diät](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
 
 2026-09-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnRvMWpRa25OcmVETVg0V3VTb0trSjYxemxwWGRxMGtUazdMTzc3Xy1EYUlsR0p2OHBYN1dZZzhaMExEbHhGZWFnWGVtLXA5dVFnbHcyS0c1ZTlHZ1VTZkpjM3dpSmxadnh5bGlQcVRVZWFZLUxjVmRfUWJDWDFBdGxWM20zY2V4S3VSeVlWM2ZCSXNweXZub29uRDZvMWVKSC1TNEdxMG13STg?oc=5)
-
----
-
-### [Investigan la harina de algarroba como posible aliada frente a la prediabetes - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
-
-2026-09-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkhYaDY3WXpqU0ZkaUJnbENQZWo3NUwzdkhoVmFnZUdXejJoWFVwb0ZrZW9tcVZ6VHNadFRfTzhBejVsRTlpcjBsQUs4dmpIanoxQTNHVVpGUUxWYXcxWHl1SUtoNTJzMjdCZEM1Rmw0MXR4X3l1UkNDZTJ1bnFzbFBmLWF4S0M0aTNJVlpXaExuNEhIaFp2Sm0wT2xScU14NWs0b0NORVIwUXJsVzZmQUdMNWRIcTBacFhJR3NkOFh4bTTSAb4BQVVfeXFMUDBESVUxR0Z1c1lLU3VGc0NiM2FHRUpHR2xUdUZMekRtM0pxVzFDVnV0NGJLQjBGb2dvQW5ybklPU0NZb3FadHlWX29kdy1FWEl1RERnSWdZbmV4RHhKQ0J4a2U2NVd6NnZJdHJ2bExzRWFoam1paGZMS1phbFdiYUNHNG9YSy1WX2hTbjRtbmF5a2w1eUFoU202ZC1LQUdPaF9XaXU4TkJfRzlGQ1hILU5fTE5iS0p6a1JNVjBlUQ?oc=5)
 
 ---
 
@@ -78,19 +78,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
-
-2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
-
----
-
-### [La AAHA actualiza a sus guías en 2026 para la diabetes en perros: cambios en diagnóstico e insulina](https://news.google.com/rss/articles/CBMib0FVX3lxTE05NnY5ek5kcUpHeldDU1dnQk9xT0dYNldDRzVuNXZhd3BQaDFiWUtfVDBGOTFINGZvaS05dkpaNnZtVXdVS19Mbm14dWNlYkt1TFh4empDaFZMZzU5OGlKNjdfaHJqNW1UaGRFbkFLUQ?oc=5)
+### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
 
 2026-09-11 <span class="news-indication-tag">diabetes</span>
 
-來源：[que.es](https://news.google.com/rss/articles/CBMib0FVX3lxTE05NnY5ek5kcUpHeldDU1dnQk9xT0dYNldDRzVuNXZhd3BQaDFiWUtfVDBGOTFINGZvaS05dkpaNnZtVXdVS19Mbm14dWNlYkt1TFh4empDaFZMZzU5OGlKNjdfaHJqNW1UaGRFbkFLUQ?oc=5)
+來源：[nachrichten.idw-online.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Dr Amir Khan issues statins, ramipril, metformin warning in 'hospital admissions' alert - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZXN0dDNGNmpkWVFZLWE1M1haOGxhU3N5NVZKUmxBWjM3dkZWREx5MkwzLUFOM1pYWDZjSTNwbnctNEhDVEZYbW55dF9QWmE4b0pwNGdHY3ZBMG5kRU84cUQ4c0pBcVJSbXJldFpmTDF6cXh6SVc4dkxtMjlJQdIBgwFBVV95cUxNQVZoV05hMmlaMW5GSkZMR3ZLZUdwS0VmWF85ckkyMWctSlUtLXhZcnE1bmc4bC10eXhEME0wR2hIUjVuQWJLSXN0QXB0eXZ3MDhDU0lVZ1VCbmJraVNsa0NTSGxkaXZMcFMxeVZNemZfeXlZNVRpZzhUSjd0TU44SUttSQ?oc=5)
+### [Dr Amir Khan issues warning to anyone on statins, ramipril and metformin - OK! Magazine](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3VndOTUR4UjU2S2F2aGxmRlpzX2xxbl82Q3NtUGdCdFJrdFVobzRCcmJWdHFTTFpWOEFMckItTlU4Zk9HZlJnOUg5ZWlxc1NYYndXY2M2NUV3VDJCVU55VXFRM1RONERqb192SGhJRUlaWmU5R1E?oc=5)
 
-2026-09-08 <span class="news-drug-tag">Metformin</span>
+2026-09-10 <span class="news-drug-tag">Metformin</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZXN0dDNGNmpkWVFZLWE1M1haOGxhU3N5NVZKUmxBWjM3dkZWREx5MkwzLUFOM1pYWDZjSTNwbnctNEhDVEZYbW55dF9QWmE4b0pwNGdHY3ZBMG5kRU84cUQ4c0pBcVJSbXJldFpmTDF6cXh6SVc4dkxtMjlJQdIBgwFBVV95cUxNQVZoV05hMmlaMW5GSkZMR3ZLZUdwS0VmWF85ckkyMWctSlUtLXhZcnE1bmc4bC10eXhEME0wR2hIUjVuQWJLSXN0QXB0eXZ3MDhDU0lVZ1VCbmJraVNsa0NTSGxkaXZMcFMxeVZNemZfeXlZNVRpZzhUSjd0TU44SUttSQ?oc=5)
+來源：[OK! Magazine](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3VndOTUR4UjU2S2F2aGxmRlpzX2xxbl82Q3NtUGdCdFJrdFVobzRCcmJWdHFTTFpWOEFMckItTlU4Zk9HZlJnOUg5ZWlxc1NYYndXY2M2NUV3VDJCVU55VXFRM1RONERqb192SGhJRUlaWmU5R1E?oc=5)
 
 ---
 

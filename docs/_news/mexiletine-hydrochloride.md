@@ -14,7 +14,7 @@ permalink: /news/mexiletine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Mexiletine Hydrochloride 有什麼相關新聞？">
-<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>44 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/mexiletine-hydrochloride/
 <p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（44 則）
+## 相關新聞（35 則）
+
+### [Un estudio revela que dormir con luz aumenta el grosor del ventrículo izquierdo - Libertad Digital](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRmkyVURTaE5mRnV0eHlPckd2UFdCWlRvNGtzRGJqckgtcEdjSkc1MG1wNWdQcG5haHJ0UDhwUFhVZ3k0MlpKb0NObzg1VFJtZ0h6ZnVudFctNTA2SHhySlA0cTR1d0FxRnlwOXhpalNIc3VKNG9vOHFFRmNka2ZYUHFKaGNDNmcwUXduLTZHZGhuTXItSHJvN01IaFZ5akN2eVd5Z3M0N1BVODFqN29DakM0M3RJQzI0cWo3SWZiZW9xZ2dUblNxcS1MM2JPWlI0aXNaTlhrODR0aWtkQnhMU0JpRFh5Tjh2Ny0wY9IB9wFBVV95cUxOUHRGWWxncWFZYzBwaUlSaHlMMHhLR2NpOVljRi1xRl9aakR6Xy1Va2d3XzNGMWxJWUY3LVo4VDhTeDY2VURlVVBwSTRoV2lNN1hlM2VmSlhJRzRrRmtaODNBOUZOcXdlb05kb3dEMnJUdEMwVEx2bVR5M3pkMm5GV25BcFZRLXFTTTM5ZlRKOVFMeHlNTkwzVFI5NjQ2QnRydnZFOVMwVmZMc0dNSkdHNzhlTnk4YkJfOVJJNEdpRG8zQlVYTkpkY3lpa0tVM05ZcmdYQjVVbXpxTWhIdTJ3Y1pucVhSWUNaeGNPRTQ0VXFyUS1NemhV?oc=5)
+
+2026-09-13 <span class="news-indication-tag">AF</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRmkyVURTaE5mRnV0eHlPckd2UFdCWlRvNGtzRGJqckgtcEdjSkc1MG1wNWdQcG5haHJ0UDhwUFhVZ3k0MlpKb0NObzg1VFJtZ0h6ZnVudFctNTA2SHhySlA0cTR1d0FxRnlwOXhpalNIc3VKNG9vOHFFRmNka2ZYUHFKaGNDNmcwUXduLTZHZGhuTXItSHJvN01IaFZ5akN2eVd5Z3M0N1BVODFqN29DakM0M3RJQzI0cWo3SWZiZW9xZ2dUblNxcS1MM2JPWlI0aXNaTlhrODR0aWtkQnhMU0JpRFh5Tjh2Ny0wY9IB9wFBVV95cUxOUHRGWWxncWFZYzBwaUlSaHlMMHhLR2NpOVljRi1xRl9aakR6Xy1Va2d3XzNGMWxJWUY3LVo4VDhTeDY2VURlVVBwSTRoV2lNN1hlM2VmSlhJRzRrRmtaODNBOUZOcXdlb05kb3dEMnJUdEMwVEx2bVR5M3pkMm5GV25BcFZRLXFTTTM5ZlRKOVFMeHlNTkwzVFI5NjQ2QnRydnZFOVMwVmZMc0dNSkdHNzhlTnk4YkJfOVJJNEdpRG8zQlVYTkpkY3lpa0tVM05ZcmdYQjVVbXpxTWhIdTJ3Y1pucVhSWUNaeGNPRTQ0VXFyUS1NemhV?oc=5)
+
+---
+
+### [Musik und Gene: 25 Minuten reichen für messbare biologische Spuren](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUpYNzNQZmlBMjRLUklLel9qYldMSGgxc2NuY3lTMFo3ajI3cFpqUElNdVVmYXNZWHZ1cG1faFpuZzg0endGQWstWE9ERGoyQzNWbE9WLXJaN0dPNzBQYzR0NFBvTnplU01RQm1ySmJBSmEzb21tZmJPZzlocXNHVVFXZjUwWE5mMS14anBrc3FZTU94NUNtN0hLMnZibmJMeXl2ZTZnOHdWLUFuYU9PbHZuRjcyZw?oc=5)
+
+2026-09-12 <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUpYNzNQZmlBMjRLUklLel9qYldMSGgxc2NuY3lTMFo3ajI3cFpqUElNdVVmYXNZWHZ1cG1faFpuZzg0endGQWstWE9ERGoyQzNWbE9WLXJaN0dPNzBQYzR0NFBvTnplU01RQm1ySmJBSmEzb21tZmJPZzlocXNHVVFXZjUwWE5mMS14anBrc3FZTU94NUNtN0hLMnZibmJMeXl2ZTZnOHdWLUFuYU9PbHZuRjcyZw?oc=5)
+
+---
+
+### [Día Internacional de la Migraña: afecta a un 13% de la población - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
+
+2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
+
+---
 
 ### [El cambio climático afecta a la salud menstrual: la ciencia encuentra una relación entre el estrés térmico y las reglas irregulares](https://news.google.com/rss/articles/CBMigwJBVV95cUxOZl9MdUFWM3U5UU9NbWc3VmZ4ZlhoSllXd01LNTgzMGtwXzl3T3ZadWdBUm96OFhLcDBzRzlSeWNISnEzQ2hLaDlheHdOMnUzVnJYb0lpWGMwQmx3MGQ5ZW5QZmdzTzVrTTBjUnBkZzQtX0VxMEh4blMyV1h4UjctMjc5SWJJODNTM2h4T29rZGdXbnBJRmNYaDFNNFQ1bTY3bGc1V1FWMVdjc2g1QnVZVVNwRTNhcXhiU0N2SV9nejViSFJEd3ZheWxzODE3SHpxLVlldW1SMEk3alFPS2tndzJJZ0xyVVVpSkwzWnBxY2ZOdm5NY3UtejhFQWhRWkdtTTRZ0gGeAkFVX3lxTFA1OG1GNVpBMkNFNTVTb1VOdmN3bnZ1dHlnbHQ4bnpYZ2hkZU9VSGdKcFhyVEtiNXZ4WE9qazQ4VlVMUjY5NENiZXhrRHQ2YVluTWo5QVloQ2g2M3VuZ0NNRm1iRWZiNXFfTXM3ZEpibzMtZFJndEViV3NHNWNnQ1ZsX29zZFc4b3FRV3NIZGtEbnUzbVNTRy1DNXZDeHJqTUxHVE9SRDJZNUxVQkNPX1QxWVVIM05Dcko5M2pBQ3ZZclJ5bHA1S2hlTFRSX3ByNlZxb2tWUTU4NFRGcG9ITUEtS09VeF9PbVQ1YWdadVNaMGlRSjZCRDRrVUd1T3hSb1RkVVJjMXVMWW5CRlhxSHdmRG5Xcmd1Tzl4d1VyUGc?oc=5)
 
@@ -62,19 +86,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Cardiff woman makes urgent vaccine plea after teenage brother's death](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2FuTHlUVlRLdzZNZWNxRzh3SDBmdTQ2VnF5eVJNeGF6VlpVMTJSbjN4WFJyWndOYzJPdlczSjUydHlsaHhmS2lOWnUzamYxNnZRczVXV0plWXFVRnZ0eTNtajdYYWRyQWxXNjVJa1BJMUNVWndBejcwaDFycDVOVkx5V0V5Y0h0Y3VQaVhHb3dxc3M?oc=5)
+### [Cardiff woman makes urgent vaccine plea after teenage brother's death - Wales Online](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2FuTHlUVlRLdzZNZWNxRzh3SDBmdTQ2VnF5eVJNeGF6VlpVMTJSbjN4WFJyWndOYzJPdlczSjUydHlsaHhmS2lOWnUzamYxNnZRczVXV0plWXFVRnZ0eTNtajdYYWRyQWxXNjVJa1BJMUNVWndBejcwaDFycDVOVkx5V0V5Y0h0Y3VQaVhHb3dxc3M?oc=5)
 
 2026-09-12 <span class="news-indication-tag">AF</span>
 
-來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2FuTHlUVlRLdzZNZWNxRzh3SDBmdTQ2VnF5eVJNeGF6VlpVMTJSbjN4WFJyWndOYzJPdlczSjUydHlsaHhmS2lOWnUzamYxNnZRczVXV0plWXFVRnZ0eTNtajdYYWRyQWxXNjVJa1BJMUNVWndBejcwaDFycDVOVkx5V0V5Y0h0Y3VQaVhHb3dxc3M?oc=5)
-
----
-
-### [Dormir con luz artificial altera la estructura del corazón y eleva el riesgo de insuficiencia cardíaca, según un estudio](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdzJDdTRtai0zWFY3NXVqWTgtcHNIelVodks3WlBsTV9hWjFrdV9SLWhtc201dWpSeC1RMDNUVXdUS3FqLUtsZHI0U1EzRHlCRWtvNTcyTjR5X09BS1lmb0tzbWZfWU1xc2dEVHNfdFFGMWxqeURFbXJfTUl2YVJhb2lsMjdUUWdMaUJsbFF0cDhPdjhzT2tVeVBSak1sLXctVDMxeDJYYTZzUGh5ZU0ycFozbkI5NE9hVUFfSFFRUUxwczNzYTI4WmhCa0pFemx0QXl1Q1lkUk1KZzdCUG5UbkRqRGVKUEw2UUllYXJrQk1jY0tiX3dLcEJob1RBd9IBmAJBVV95cUxOYWwyV3kyRnRaU2NkWHd2MTdnRUlCQWZBNE5jNzJmc0hVb1dpTzNScnUweFA0b2xfVmt5aGxwdmh6Z040d3NvQkc4YzlLcWdKWlFhTGlEY280UkR3aFc3bGk3ZVRsUzY3c05vODFrZ240M1BqVjhoZ3l2M244MmtZZGlyY2EtUUNtUFJ3RlZqQnVuX3BtbkZZYUw3eEVocExsWnFCWVQ0WTkyMDVyYzlHcmNnTUZTNG53bnlrbjFoc3NzOVJLWDcwdWhjMFBSQlVTRXEwVmljZnJycjhGRnBPSmhSNmhkcWdYWG1sTUF5N3NkM3FDOHVIZzVfcW9adGxVN2VINl9mMHhBV3NjTE1RcDhhVmlmQ0l3?oc=5)
-
-2026-09-12 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdzJDdTRtai0zWFY3NXVqWTgtcHNIelVodks3WlBsTV9hWjFrdV9SLWhtc201dWpSeC1RMDNUVXdUS3FqLUtsZHI0U1EzRHlCRWtvNTcyTjR5X09BS1lmb0tzbWZfWU1xc2dEVHNfdFFGMWxqeURFbXJfTUl2YVJhb2lsMjdUUWdMaUJsbFF0cDhPdjhzT2tVeVBSak1sLXctVDMxeDJYYTZzUGh5ZU0ycFozbkI5NE9hVUFfSFFRUUxwczNzYTI4WmhCa0pFemx0QXl1Q1lkUk1KZzdCUG5UbkRqRGVKUEw2UUllYXJrQk1jY0tiX3dLcEJob1RBd9IBmAJBVV95cUxOYWwyV3kyRnRaU2NkWHd2MTdnRUlCQWZBNE5jNzJmc0hVb1dpTzNScnUweFA0b2xfVmt5aGxwdmh6Z040d3NvQkc4YzlLcWdKWlFhTGlEY280UkR3aFc3bGk3ZVRsUzY3c05vODFrZ240M1BqVjhoZ3l2M244MmtZZGlyY2EtUUNtUFJ3RlZqQnVuX3BtbkZZYUw3eEVocExsWnFCWVQ0WTkyMDVyYzlHcmNnTUZTNG53bnlrbjFoc3NzOVJLWDcwdWhjMFBSQlVTRXEwVmljZnJycjhGRnBPSmhSNmhkcWdYWG1sTUF5N3NkM3FDOHVIZzVfcW9adGxVN2VINl9mMHhBV3NjTE1RcDhhVmlmQ0l3?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2FuTHlUVlRLdzZNZWNxRzh3SDBmdTQ2VnF5eVJNeGF6VlpVMTJSbjN4WFJyWndOYzJPdlczSjUydHlsaHhmS2lOWnUzamYxNnZRczVXV0plWXFVRnZ0eTNtajdYYWRyQWxXNjVJa1BJMUNVWndBejcwaDFycDVOVkx5V0V5Y0h0Y3VQaVhHb3dxc3M?oc=5)
 
 ---
 
@@ -86,23 +102,7 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [¿Te cuesta dormir temprano? Así afectan tus decisiones tras la medianoche](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTFBY2VKT0U2YVJjb1RMQXRYN1FCa2ItLXRROXFhdVd6bmRzS1Y4VmctaWhneUZyWDhkVHp1M3F0enllS0Utb21QNW9jVHl4aHBxaGhBQ29aZU9ERkkyUnp4U19zNkZUUkR0b3BVTTI3R3lpWjVxY3NaZTJ0UkxiZzcxeXdNd1Fzb1NjSVc2UlRwREtvX3d4QWNuOWlpaEQzSURlY1ZLbGNXSl91WkxmTTg0dUlvb243NWVZ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">AF</span>
-
-來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTFBY2VKT0U2YVJjb1RMQXRYN1FCa2ItLXRROXFhdVd6bmRzS1Y4VmctaWhneUZyWDhkVHp1M3F0enllS0Utb21QNW9jVHl4aHBxaGhBQ29aZU9ERkkyUnp4U19zNkZUUkR0b3BVTTI3R3lpWjVxY3NaZTJ0UkxiZzcxeXdNd1Fzb1NjSVc2UlRwREtvX3d4QWNuOWlpaEQzSURlY1ZLbGNXSl91WkxmTTg0dUlvb243NWVZ?oc=5)
-
----
-
-### [La migraña afecta a más de 6 millones de personas en España, pero solo 1 de cada 10 recibe tratamiento preventivo - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBXamRIMjJMM0dCTm5OUGdwNVlKNjd6NzNIWVVXZHVPRGc3SjZ5VE5YOG1yOC1kcldmVC1lNXo5Yjd4dU05S243cWt3ajhfVmJSUTdjZVFjUDk2X1d3TGhDUXpZYUZqUmx4TVEwaVRwNXJsOTNsVzlaUVJzSkNUOFN4bVFTT3lBNkktTXBadzBmX0MxcmFPQlBuNFRZSFMzX3BuSVFLcm9aMVRCYThRV2JlUjJvWi1UU0FxeVNYVXJZRWVlYmxwMHVZTXdSMFo3U2IzTzFjUmZ2Wm16eEVvOU45WnRZQQ?oc=5)
-
----
-
-### [Woman with 'suicide disease' begged docs to amputate leg after debilitating pain - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGZybncwSG95dXI2T2QxbDVhamtpZ2t2ZHh1eXhFb3FydGJxR1VzX1Y0eFZGNlZjQzZIWWRjdUFJQzNRNmdDbDVJblcyVFJOREk5MXdjQ1pCaUxBQmpOcVQ4LVVLeWZJek1EdG9IVm95akUwX1FOVjJyMlg4WjUwb1lNejR3TzZXWjBYdTNEektEd01vMVE?oc=5)
+### [Woman, 20, with 'suicide disease' begged doctors to amputate her leg after it felt like 'being stabbed and electrocuted' - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGZybncwSG95dXI2T2QxbDVhamtpZ2t2ZHh1eXhFb3FydGJxR1VzX1Y0eFZGNlZjQzZIWWRjdUFJQzNRNmdDbDVJblcyVFJOREk5MXdjQ1pCaUxBQmpOcVQ4LVVLeWZJek1EdG9IVm95akUwX1FOVjJyMlg4WjUwb1lNejR3TzZXWjBYdTNEektEd01vMVE?oc=5)
 
 2026-09-12 <span class="news-indication-tag">AF</span>
 
@@ -110,19 +110,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Man given hours to live after developing sepsis 'from roast dinner at pub'](https://news.google.com/rss/articles/CBMic0FVX3lxTE1NTDIwSmg1ZlZ5NE5abmRiU2lKWW9aa3ZzRENXR0xMcFlqUi1HTC1OajRiQ1BRbzNNS0tKMkpnRFBvSElOQjNXVHJrNF9ncnYwQklHQl84WnNjRDJOcV9IZGtzTnBHZmJSQ3FkZ0h4VTV0eUE?oc=5)
-
-2026-09-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1NTDIwSmg1ZlZ5NE5abmRiU2lKWW9aa3ZzRENXR0xMcFlqUi1HTC1OajRiQ1BRbzNNS0tKMkpnRFBvSElOQjNXVHJrNF9ncnYwQklHQl84WnNjRDJOcV9IZGtzTnBHZmJSQ3FkZ0h4VTV0eUE?oc=5)
-
----
-
-### [Bolton boy, 9, says 'life has restarted’ after rare blood transfusions save him - The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlJT1RNbzZuT2JNTGZXY0tvdHJaTW15TjRpQ1VTWXpYYnY2c19mTG1MaEE2X0xiLUltMW1OTEI1QkdkaEVydEJzTUdKWXNDZngtaWMzUUtfMWJYcUxUbUV4ZnhwYjRCV2V2WUtLWktNU2txZW16QXpkM0htdEtpd1RKc2kyLVBha0g0OUtYMHRudnZhSEptLUJ4amx2UQ?oc=5)
+### [Bolton boy, 9, says 'life has restarted’ after rare blood transfusions save him](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlJT1RNbzZuT2JNTGZXY0tvdHJaTW15TjRpQ1VTWXpYYnY2c19mTG1MaEE2X0xiLUltMW1OTEI1QkdkaEVydEJzTUdKWXNDZngtaWMzUUtfMWJYcUxUbUV4ZnhwYjRCV2V2WUtLWktNU2txZW16QXpkM0htdEtpd1RKc2kyLVBha0g0OUtYMHRudnZhSEptLUJ4amx2UQ?oc=5)
 
 2026-09-12 <span class="news-indication-tag">AF</span>
 
-來源：[The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlJT1RNbzZuT2JNTGZXY0tvdHJaTW15TjRpQ1VTWXpYYnY2c19mTG1MaEE2X0xiLUltMW1OTEI1QkdkaEVydEJzTUdKWXNDZngtaWMzUUtfMWJYcUxUbUV4ZnhwYjRCV2V2WUtLWktNU2txZW16QXpkM0htdEtpd1RKc2kyLVBha0g0OUtYMHRudnZhSEptLUJ4amx2UQ?oc=5)
+來源：[theboltonnews.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlJT1RNbzZuT2JNTGZXY0tvdHJaTW15TjRpQ1VTWXpYYnY2c19mTG1MaEE2X0xiLUltMW1OTEI1QkdkaEVydEJzTUdKWXNDZngtaWMzUUtfMWJYcUxUbUV4ZnhwYjRCV2V2WUtLWktNU2txZW16QXpkM0htdEtpd1RKc2kyLVBha0g0OUtYMHRudnZhSEptLUJ4amx2UQ?oc=5)
 
 ---
 
@@ -198,11 +190,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Qué es la gastroparesia, el cuadro estomacal que puede afectar la digestión y la glucosa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSldKekg5TGNLVXhCYzYybjE1WEV3U2NRWjBiQ1FTeGRaNllHSnJIX2JvcFBIVFJuZlJBRGZ5OHJleC1nLVctSnVyaGNCYmxFSnMwekNXM1dibEFZZ0xveGxnOFhNdmU4N3VrYUQ0eHFvV0lGeXlGVml4RDNmVzNiZDVDakk5cGFMQVJ6YVlNMVA5NV9nSlpkemZyNWJLOEhBMWZGU3FrUzQyVWJZamtZcU16MmJ0QXZPcmZPdUpHdW5aSDdvOTY1TjFWTUtXSC1CdG5r0gHuAUFVX3lxTFB4Sm9LZ1gzaG1aTEtrRW5vc1V4enJqSEV5REdDYXFiaU5pZkIxdEkxbGhjVXFNbFlhWk9ZWjI1SzFPenNtN3pKSHJLS1lrbU95bUZQc1RRcjFIWnpnNjdxbkR1UnppenV1TFhseU5xRFN0NXlUM1hudXdVc2U4Z3BzNDZwcWxWa3FoVlJIMnVZSXQ0OVNWcWRxQ1FhUm0tNy1hYnRZaUNYVXlDQkpVaC1ZVDgtQ3JhNmRnclhwRE1JdFNJeTU0bTFEajRNUTcxSVdNbjU3WUNNMjRGcnhDVjA2QnRPaklDQ2Q1TERBa1E?oc=5)
+### [Nüsse senken laut Meta-Analyse das Hypertonie-Risiko – mit klarer Dosisgrenze - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1lpNk8zYmlxM1FoQ3k2V3l1RFFDb2hLMWZMTWhIYXQyd2lQa1FMbmR0OTZYSWRudWtqNGlwR3gxRmhUNjdRQ29YcUFwT0dUdEhxdVJ5azQ1ZGlKNjE4LWZNUkpoNGg2OWVKS2tWb2h5VDhYUkZDcGRLS0ZIOUJYdUxIb0NWblhlNnhZUVdEUzd0UllsbDZTRzFPbWE2RnhEOHZETjZlQ3Nxc3hl?oc=5)
 
-2026-09-11 <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSldKekg5TGNLVXhCYzYybjE1WEV3U2NRWjBiQ1FTeGRaNllHSnJIX2JvcFBIVFJuZlJBRGZ5OHJleC1nLVctSnVyaGNCYmxFSnMwekNXM1dibEFZZ0xveGxnOFhNdmU4N3VrYUQ0eHFvV0lGeXlGVml4RDNmVzNiZDVDakk5cGFMQVJ6YVlNMVA5NV9nSlpkemZyNWJLOEhBMWZGU3FrUzQyVWJZamtZcU16MmJ0QXZPcmZPdUpHdW5aSDdvOTY1TjFWTUtXSC1CdG5r0gHuAUFVX3lxTFB4Sm9LZ1gzaG1aTEtrRW5vc1V4enJqSEV5REdDYXFiaU5pZkIxdEkxbGhjVXFNbFlhWk9ZWjI1SzFPenNtN3pKSHJLS1lrbU95bUZQc1RRcjFIWnpnNjdxbkR1UnppenV1TFhseU5xRFN0NXlUM1hudXdVc2U4Z3BzNDZwcWxWa3FoVlJIMnVZSXQ0OVNWcWRxQ1FhUm0tNy1hYnRZaUNYVXlDQkpVaC1ZVDgtQ3JhNmRnclhwRE1JdFNJeTU0bTFEajRNUTcxSVdNbjU3WUNNMjRGcnhDVjA2QnRPaklDQ2Q1TERBa1E?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1lpNk8zYmlxM1FoQ3k2V3l1RFFDb2hLMWZMTWhIYXQyd2lQa1FMbmR0OTZYSWRudWtqNGlwR3gxRmhUNjdRQ29YcUFwT0dUdEhxdVJ5azQ1ZGlKNjE4LWZNUkpoNGg2OWVKS2tWb2h5VDhYUkZDcGRLS0ZIOUJYdUxIb0NWblhlNnhZUVdEUzd0UllsbDZTRzFPbWE2RnhEOHZETjZlQ3Nxc3hl?oc=5)
 
 ---
 
@@ -210,7 +202,7 @@ permalink: /news/mexiletine-hydrochloride/
 
 2026-09-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDBHNk43YkM2amJIUVdZOGhmUVdWRFVIalUzZG9FMTNRRXRULXBhSTlSVVRwOFg0YjZNS0RpQ1lTYkcwcEFaeG81djNNaEM5NGRuUllQbTRPR0JsUFV1THoxVE9xZ08tbXhWMG9maGVEblAweGIzaS1YcjZxYUNQUXRsRjkyWURyWk1xUHp3N2RGNk1TSzgzSnhJT0dIYV9Udm9kMUpKTGw4RmtFaVAwUm44ank2OHI4NFRvVGZ1MXJKV0tOOGk3OFVpdE9TWFFyQUZ2c1NERVpNLWJqQlJZcDNyME5LZWs?oc=5)
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDBHNk43YkM2amJIUVdZOGhmUVdWRFVIalUzZG9FMTNRRXRULXBhSTlSVVRwOFg0YjZNS0RpQ1lTYkcwcEFaeG81djNNaEM5NGRuUllQbTRPR0JsUFV1THoxVE9xZ08tbXhWMG9maGVEblAweGIzaS1YcjZxYUNQUXRsRjkyWURyWk1xUHp3N2RGNk1TSzgzSnhJT0dIYV9Udm9kMUpKTGw4RmtFaVAwUm44ank2OHI4NFRvVGZ1MXJKV0tOOGk3OFVpdE9TWFFyQUZ2c1NERVpNLWJqQlJZcDNyME5LZWs?oc=5)
 
 ---
 
@@ -222,22 +214,6 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Febbre del Nilo, 1.285 casi in Europa di cui 590 in Italia: ecco dove - Sky TG24](https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RDd2FhRUJQcFJCSktXWExyQWx3TDZiT0JuM2JxQzR0MU9QVjlzSXBHcEp5dVVtN1RFdzhGY21SYjlZZ3QtU2dqUG1TbU1hYzRyNDExRl9JOWk5YXZsbkh3dFVMQV9iZlFDZmJhdkcxbE9QcXVDZ28yaXNkNldIMnpnU3Y3NHc?oc=5)
-
-2026-09-11 <span class="news-indication-tag">AF</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RDd2FhRUJQcFJCSktXWExyQWx3TDZiT0JuM2JxQzR0MU9QVjlzSXBHcEp5dVVtN1RFdzhGY21SYjlZZ3QtU2dqUG1TbU1hYzRyNDExRl9JOWk5YXZsbkh3dFVMQV9iZlFDZmJhdkcxbE9QcXVDZ28yaXNkNldIMnpnU3Y3NHc?oc=5)
-
----
-
-### [Hypertension artérielle : quelle quantité de sport pratiquer chaque semaine pour la réduire ? - Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
-
-2026-09-11 <span class="news-indication-tag">hypertension</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
-
----
-
 ### [Uno de cada cuatro pacientes con vértigo presenta migraña vestibular - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">migraña</span>
@@ -246,11 +222,19 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Weniger Sitzen und mehr Bewegung könnte Risiko für hypertensive Schwangerschaftserkrankungen senken – News](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
+### [Weniger Sitzen und mehr Bewegung könnte Risiko für hypertensive Schwangerschaftserkrankungen senken – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
 
 2026-09-11 <span class="news-indication-tag">AF</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
+
+---
+
+### [Man almost dies after roast dinner gave him sepsis - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWxVX0NkQUNPLS1fa0kxOXVhNjlZMWVwR3VZQmtZa2tqSjMxQ0tOT1YwN1hXT1QtYkgwQ0tlUlNQWFcxN05lS0d1QUpjQzV5SVRxTVVWOUxWZzJnb1lsakx3MWVwNUg1M2VYeFBBQnNxdzg3UkgtSlZMbDlOcTdtc2ZMYmVHZVhJYVBZS0Q0RmR5a3pCRU8zNFZwdw?oc=5)
+
+2026-09-11 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWxVX0NkQUNPLS1fa0kxOXVhNjlZMWVwR3VZQmtZa2tqSjMxQ0tOT1YwN1hXT1QtYkgwQ0tlUlNQWFcxN05lS0d1QUpjQzV5SVRxTVVWOUxWZzJnb1lsakx3MWVwNUg1M2VYeFBBQnNxdzg3UkgtSlZMbDlOcTdtc2ZMYmVHZVhJYVBZS0Q0RmR5a3pCRU8zNFZwdw?oc=5)
 
 ---
 
@@ -262,51 +246,19 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Fumo, donne più esposte a quello passivo: maggiori danni alla salute rispetto agli uomini](https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2dTLVVjWTZkbnFTZFoteGwxVDBYZWItQmRSZEY1NXlCdnRSLThLMVBFcXhFc2xYeUljVVJMSUR0Wkhjam1FQ3Q4QVFRTUhpTHFqd0NmMGJQZlVOdEM2R3FZb0hHazlyRVU5Rk9YUEcwODgtY2tmV09KZnZPaGkzb2prU0M3NWVDUVJPbGJ2QTd5ak5iYmticmgyaF9TSFdDM2R3b2130gFoQVVfeXFMTVFpNGdkNnJlTlNnek96UHk5Vm03cDBOZ1Azejl2VnZBMHRsV3ZQSFUtV1A4NE83VlFGbndKaHlpM2s1V0pOaW5HWldLdEdXaG1PQ3Z4QjlMaUh1ei1UQ0ZNQ0szS1lUWFg?oc=5)
+### [Nurse previously given months to live now cancer-free after groundbreaking operation at hospital - GB News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
 
-2026-09-11 <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2dTLVVjWTZkbnFTZFoteGwxVDBYZWItQmRSZEY1NXlCdnRSLThLMVBFcXhFc2xYeUljVVJMSUR0Wkhjam1FQ3Q4QVFRTUhpTHFqd0NmMGJQZlVOdEM2R3FZb0hHazlyRVU5Rk9YUEcwODgtY2tmV09KZnZPaGkzb2prU0M3NWVDUVJPbGJ2QTd5ak5iYmticmgyaF9TSFdDM2R3b2130gFoQVVfeXFMTVFpNGdkNnJlTlNnek96UHk5Vm03cDBOZ1Azejl2VnZBMHRsV3ZQSFUtV1A4NE83VlFGbndKaHlpM2s1V0pOaW5HWldLdEdXaG1PQ3Z4QjlMaUh1ei1UQ0ZNQ0szS1lUWFg?oc=5)
-
----
-
-### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
-
-2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
 
 ---
 
-### [Nurse previously given months to live now cancer-free after groundbreaking operation at hospital](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
+### [Infographies. Hypertension : qui est le plus touché dans le Grand Est et en Bourgogne-Franche-Comté ? - L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
 
-2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">hypertension</span>
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
-
----
-
-### [Bluthochdruck: Nüsse senken das Risiko](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjBzVGZadk5oemVnSlptZU9vVzIzZl93aFQ1dlNJVklIQ0lEYmkweFN3YnFFaUhrLXVpamNRbGJLTi1sLTF6MVhrNlc0RW9hcGZOc056X0lQQzlJeHJzUjFjSlUzR2Z3S09wdmtheUVTLWRPY2V0bURFT0tqb2xLVkYtbGcyVGc5Y3FEWFZvTWUyVS15WTdER1ZuZG5vaEo4?oc=5)
-
----
-
-### [Bislang unbekannte Immunbremse in Hautzellen entdeckt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxQai1oYmN4WEd6Q25Sc1lhVXQxTGhPdlZwUEU1Tk1HLVdjLVdZaXdrRHE2QndNel9FSnc1TWxkN3FWU3lYN2oyT05EYnE2Z1dHNEp3SERuYml2SkpwRl85Mk9KUGVqN19fNFNGXzZkR08yWTF4ZGFNNGo1SUlUM1NuNnVwcllGOWNiTldBUzBvOGlrNEdFZHNveWJwRW5GU00?oc=5)
-
-2026-09-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxQai1oYmN4WEd6Q25Sc1lhVXQxTGhPdlZwUEU1Tk1HLVdjLVdZaXdrRHE2QndNel9FSnc1TWxkN3FWU3lYN2oyT05EYnE2Z1dHNEp3SERuYml2SkpwRl85Mk9KUGVqN19fNFNGXzZkR08yWTF4ZGFNNGo1SUlUM1NuNnVwcllGOWNiTldBUzBvOGlrNEdFZHNveWJwRW5GU00?oc=5)
-
----
-
-### [Un homme affirme avoir conçu un traitement contre la schizophrénie dans son garage avec ChatGPT](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkVTcEcwTUlmYUg1dmdVVk9iaHp5bGlNaFhOa1FtbThad2RVeXR2STJNS1JsYzRrM3VZUS1lRE5UT0c1Vm5TR1VYMjBGNnFTcllkY0RHS0FPYkd4clVSVkdDdXlNZGZoZFVOV1lMaXZvaVhLZ3NfeFdPTnBrc2FhMWxtYlRLUl84ZWVqaDh4aTlVNnpPWUE?oc=5)
-
-2026-09-11 <span class="news-indication-tag">AF</span>
-
-來源：[presse-citron.net](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkVTcEcwTUlmYUg1dmdVVk9iaHp5bGlNaFhOa1FtbThad2RVeXR2STJNS1JsYzRrM3VZUS1lRE5UT0c1Vm5TR1VYMjBGNnFTcllkY0RHS0FPYkd4clVSVkdDdXlNZGZoZFVOV1lMaXZvaVhLZ3NfeFdPTnBrc2FhMWxtYlRLUl84ZWVqaDh4aTlVNnpPWUE?oc=5)
+來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
 
 ---
 
@@ -318,27 +270,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Herzinfarkt: Funktionelle Koronarangiografie optimiert Revaskularisierung der Nicht-Culprit-Läsionen](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
+### [Herzinfarkt: Funktionelle Koronarangiografie optimiert Revaskularisierung der Nicht-Culprit-Läsionen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">AF</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
-
----
-
-### [A Woman's Intestines Literally Tied Themselves Into a Knot After Childbirth](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
-
-2026-09-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGZrVm84blZHVzd4V3Z4Ri1yQkY0eU9JYVcxNWl3ZXBZRFNpMVV4NWRBLVE1SEJlRDFXb18tOWpRWUZMbFBSeXpoMkRONGwxN05iT08teGJQLThvRGxfbXNWQjlKVGl5aDRfcXRzMll5YUd2RWtXOHVtcUFQR0NXMGREVXEwTW80cWxmUXdQUFNzQ0dOOWdZUE9haVBZNF9xRW9ZaVpn?oc=5)
-
----
-
-### [DNA treatment cuts bad cholesterol by nearly 50% without statins - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN1NaSkkxMWFLS1BVSVpBUk9TWTJrSjF5emlBVko1Smc3dllrVS0tWHZKbkdaRmloNUlGMVRDako5elhmZ2JTdms3LWFEMDRSc0J2VUVyY2RONi1lQ0RtV0E2bXJCclFDZ3VYcmVLaw?oc=5)
-
-2026-09-10 <span class="news-indication-tag">AF</span>
-
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN1NaSkkxMWFLS1BVSVpBUk9TWTJrSjF5emlBVko1Smc3dllrVS0tWHZKbkdaRmloNUlGMVRDako5elhmZ2JTdms3LWFEMDRSc0J2VUVyY2RONi1lQ0RtV0E2bXJCclFDZ3VYcmVLaw?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
 
 ---
 
@@ -366,19 +302,19 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Vitamin D und Demenz: Ältere Menschen mit hoher täglicher Dosis schnitten in Denktests deutlich besser ab - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3R1UFEwMnBnWHhSNlJsTll2M285ZHZkQl9BN0ViZXo4SEZOMUkxcV9QcHF6MDNQZGVkczlQeFhndXFHV2hlNDNWOXEzUmtHcHRtdXFvNkRhZ3dwcnpFbnpFUG1NejBabGNhVDk0MDF5Um9OMjJMRVNXMURXZ19fbEtZclVSaHJ4NDNGLTRRS09pa0xNV1BjSWRyWGNHQTdmZDAzTGNZRUZEV1g2dTU2Z3Bncm5XbE5JUWp3UmVjdG5TcFFSNFd4S1JIbXhjQXFVWFFJbTF3X04tZTZxSTg0?oc=5)
-
-2026-09-09 <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3R1UFEwMnBnWHhSNlJsTll2M285ZHZkQl9BN0ViZXo4SEZOMUkxcV9QcHF6MDNQZGVkczlQeFhndXFHV2hlNDNWOXEzUmtHcHRtdXFvNkRhZ3dwcnpFbnpFUG1NejBabGNhVDk0MDF5Um9OMjJMRVNXMURXZ19fbEtZclVSaHJ4NDNGLTRRS09pa0xNV1BjSWRyWGNHQTdmZDAzTGNZRUZEV1g2dTU2Z3Bncm5XbE5JUWp3UmVjdG5TcFFSNFd4S1JIbXhjQXFVWFFJbTF3X04tZTZxSTg0?oc=5)
-
----
-
 ### [5-α-Reduktasehemmer: Prostata-Medikamente bei Herzinfarkt vorteilhaft - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lETnBxZVZPY1RyUmRqOU1kZGJFZFA5amNWMDFLd0t1QkxFSGhBZUNDZ0FEYW12ZkxUVEpkcjhoeG9yTXlaZVFSSTZRV2dxLTd6V0R4YmlTcHZobmx1dWpQNzVyblYtM3p4TGRGNmtuWVdZQzgxZ1hwanI5blZLZVY2QTVfbk1wTUplT3hfQWQzb0Q1cEE2WXFxOA?oc=5)
 
 2026-09-08 <span class="news-indication-tag">AF</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lETnBxZVZPY1RyUmRqOU1kZGJFZFA5amNWMDFLd0t1QkxFSGhBZUNDZ0FEYW12ZkxUVEpkcjhoeG9yTXlaZVFSSTZRV2dxLTd6V0R4YmlTcHZobmx1dWpQNzVyblYtM3p4TGRGNmtuWVdZQzgxZ1hwanI5blZLZVY2QTVfbk1wTUplT3hfQWQzb0Q1cEE2WXFxOA?oc=5)
+
+---
+
+### [Dolor de cabeza: cómo saber si es migraña y cuándo preocuparse - El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzczSV9yX0R0ZGFqUDVCbUZObC1JV0ltZV9DRDBWOGZrT0hhSWhQQm12OGZvRDVRT1g3dEtOaXU5Y1RlcFFFSnVSSERvRmhGaUtGdXNWM3ZpeW9kcTNlekdodTkwdGtVZ3Qxd0tULWNPZGUtdjVyc2M5WDlqcU16VFhmVWpHN2JUUndzY3JCbm9Jd2x6TVdUMDY0UzZ5dkMxUEduTWR2OHRxejBEY2hYSldmRUlvVEI2T1lhZ2V3Tmd1X0ZvSHRDTTlGdUJPSE5pWEg2ajlnUUZfc28?oc=5)
+
+2026-09-07 <span class="news-indication-tag">migraña</span>
+
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzczSV9yX0R0ZGFqUDVCbUZObC1JV0ltZV9DRDBWOGZrT0hhSWhQQm12OGZvRDVRT1g3dEtOaXU5Y1RlcFFFSnVSSERvRmhGaUtGdXNWM3ZpeW9kcTNlekdodTkwdGtVZ3Qxd0tULWNPZGUtdjVyc2M5WDlqcU16VFhmVWpHN2JUUndzY3JCbm9Jd2x6TVdUMDY0UzZ5dkMxUEduTWR2OHRxejBEY2hYSldmRUlvVEI2T1lhZ2V3Tmd1X0ZvSHRDTTlGdUJPSE5pWEg2ajlnUUZfc28?oc=5)
 
 ---
 
@@ -395,14 +331,6 @@ permalink: /news/mexiletine-hydrochloride/
 2026-09-06 <span class="news-indication-tag">AF</span>
 
 來源：[20minutos.es](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzZzaG9LQWNWYWtqTWtocVh1LXMtUldzWUpnNlBLYUlBbUpGWWhieGw4VGlaVWZacGVETTJibUFQVXhTSEZKUjI5Q0ZieXdSV1N0cGhUVmkyTTN2ZjhiWElvMHFOTVk5WUZXQ09qZmtGSjRScXRJcVJNWXZxTlRXT1ZkRGpyREdwRXlTYXBYbU1BWFBTZjRDZ2NB?oc=5)
-
----
-
-### [Cardiff student who 'brushed off' sore throat developed sepsis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ock1zN2Nld0ZKUUhUWi1zWmhMWjNJRkVmM2gxSEFsVkFKelEzekJWZVhpTmRmQjRkbjZjczRGRnp1OUVWYnFOa25udjZGekp4WnhlcmRiaWZWcjJm?oc=5)
-
-2026-09-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ock1zN2Nld0ZKUUhUWi1zWmhMWjNJRkVmM2gxSEFsVkFKelEzekJWZVhpTmRmQjRkbjZjczRGRnp1OUVWYnFOa25udjZGekp4WnhlcmRiaWZWcjJm?oc=5)
 
 ---
 
