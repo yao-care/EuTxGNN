@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Artrosi, artrite, sciatalgia, mal di schiena e dolore cronico: cosa può fare davvero la Boswellia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
 
 2026-09-12 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
-
----
-
-### [¿Cambios en el ADN sanguíneo y colitis ulcerosa?](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXBiUXp2YW90TTNwODN2dmp3OGtpZlpqMTVOTmtFblFGR0RiaE9Yc3dBQkVoU0RFN0ZMNEU3S2xIQmFJa0FIWXVOaFpoNzVGZkpDLXhTR1prWVVYUl80cnQwQXVZY3haMVVxLS16aDdLODNBMEE0VTRfYkV5cDJHYVZQLVFyWmNpQ09tWmJHLW5EY0ZmUElVY0xTYmRZQXhETjJF?oc=5)
-
-2026-09-11 <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXBiUXp2YW90TTNwODN2dmp3OGtpZlpqMTVOTmtFblFGR0RiaE9Yc3dBQkVoU0RFN0ZMNEU3S2xIQmFJa0FIWXVOaFpoNzVGZkpDLXhTR1prWVVYUl80cnQwQXVZY3haMVVxLS16aDdLODNBMEE0VTRfYkV5cDJHYVZQLVFyWmNpQ09tWmJHLW5EY0ZmUElVY0xTYmRZQXhETjJF?oc=5)
-
----
-
-### [Alopecia Areata Consensus Statement Recommends First-Line Rx](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9nZWVaOTQ4ekxKQnBvWWxENWhxU3VYU2JVb0ZWVnVUblBxMDRUQnVtY3JlWVBBRWhBX3Axanl2cXdmQnQtOUJHZHM3ZEFrelJIR2F0cHJOd21HQ1lqd0JkNjlvYVNLNFpPYjU3Q2VNdTlhN0pkMmdObmd6YWtEOUh4a203Wk5GV3RzZGFrTjVBR2l5ZkdWV09QYURHdnpMSmc?oc=5)
-
-2026-09-11 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[medscape.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9nZWVaOTQ4ekxKQnBvWWxENWhxU3VYU2JVb0ZWVnVUblBxMDRUQnVtY3JlWVBBRWhBX3Axanl2cXdmQnQtOUJHZHM3ZEFrelJIR2F0cHJOd21HQ1lqd0JkNjlvYVNLNFpPYjU3Q2VNdTlhN0pkMmdObmd6YWtEOUh4a203Wk5GV3RzZGFrTjVBR2l5ZkdWV09QYURHdnpMSmc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
 ### [Día Internacional de la Migraña: afecta a un 13% de la población - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
 
@@ -102,19 +102,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Uno de cada cuatro pacientes con vértigo presenta migraña vestibular - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
+### [Uno de cada cuatro pacientes con vértigo presenta migraña vestibular](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">migraña</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
-
----
-
-### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité - Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
-
-2026-09-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
 
 ---
 
@@ -126,14 +118,6 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Schlafapnoe: Neues Medikament senkt Atemaussetzer um 44 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
-
-2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
-
----
-
 ### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">migraine</span>
@@ -142,11 +126,19 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Dolor de cabeza: cómo saber si es migraña y cuándo preocuparse - El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzczSV9yX0R0ZGFqUDVCbUZObC1JV0ltZV9DRDBWOGZrT0hhSWhQQm12OGZvRDVRT1g3dEtOaXU5Y1RlcFFFSnVSSERvRmhGaUtGdXNWM3ZpeW9kcTNlekdodTkwdGtVZ3Qxd0tULWNPZGUtdjVyc2M5WDlqcU16VFhmVWpHN2JUUndzY3JCbm9Jd2x6TVdUMDY0UzZ5dkMxUEduTWR2OHRxejBEY2hYSldmRUlvVEI2T1lhZ2V3Tmd1X0ZvSHRDTTlGdUJPSE5pWEg2ajlnUUZfc28?oc=5)
+### [Wales risks raising one of the unhealthiest generations in decades, doctors warn](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qS0wwdkd1NEhCdndibDlTM3h0eFg5S05yYVBFMlRuTjNpeGNVcUlnVGNZSjVvSzRRNGFUMVd2MFYwOUNoTS1zVHhJazg0dS1ra2VFeEFvQ010SnhK?oc=5)
 
-2026-09-07 <span class="news-indication-tag">migraña</span>
+2026-09-09 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzczSV9yX0R0ZGFqUDVCbUZObC1JV0ltZV9DRDBWOGZrT0hhSWhQQm12OGZvRDVRT1g3dEtOaXU5Y1RlcFFFSnVSSERvRmhGaUtGdXNWM3ZpeW9kcTNlekdodTkwdGtVZ3Qxd0tULWNPZGUtdjVyc2M5WDlqcU16VFhmVWpHN2JUUndzY3JCbm9Jd2x6TVdUMDY0UzZ5dkMxUEduTWR2OHRxejBEY2hYSldmRUlvVEI2T1lhZ2V3Tmd1X0ZvSHRDTTlGdUJPSE5pWEg2ajlnUUZfc28?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qS0wwdkd1NEhCdndibDlTM3h0eFg5S05yYVBFMlRuTjNpeGNVcUlnVGNZSjVvSzRRNGFUMVd2MFYwOUNoTS1zVHhJazg0dS1ra2VFeEFvQ010SnhK?oc=5)
+
+---
+
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
+
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
 
 ---
 

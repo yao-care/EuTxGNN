@@ -14,7 +14,7 @@ permalink: /news/perflutren/
 ---
 
 <p class="key-answer" data-question="Perflutren 有什麼相關新聞？">
-<strong>Perflutren</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perflutren</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/perflutren/
 <p><a href="{{ '/drugs/perflutren/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 24 Prozent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0xCMndhWE5uSFBEREdUanRYV2thcXFDbGRWOFR4QUNZUjBXWjBlYk9LZlVGSFNoRHFqanRWbkVBLUNrY3ZzU296alpIa1Y4azBkblZEQnhHaS1UZjZzNkFMX3oyeTNtTjRDLUtVc0wyQnJwTkJHOS1iY1pMREdDek9Nb1hfYUVuOHhJZGx1d25KZw?oc=5)
 
 2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[BornCity](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0xCMndhWE5uSFBEREdUanRYV2thcXFDbGRWOFR4QUNZUjBXWjBlYk9LZlVGSFNoRHFqanRWbkVBLUNrY3ZzU296alpIa1Y4azBkblZEQnhHaS1UZjZzNkFMX3oyeTNtTjRDLUtVc0wyQnJwTkJHOS1iY1pMREdDek9Nb1hfYUVuOHhJZGx1d25KZw?oc=5)
+
+---
+
+### [Even low light during sleep may damage your heart](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
+
+2026-09-09 <span class="news-indication-tag">heart disease</span>
+
+來源：[cnn.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBVZDdXdU10X3lpc3g2cy1ya25YV0pvMFFaWU82ZEk0cGxpamMtb19HVng4M1FDenBhejNMa0hQdjFWa0RlSFNlT1Zrc3VneXdSdjNQNlVfd212UHBNWVhTcUhpY2RJcFI0b0JMMW1RU0paWmVoU081T3hGQ2lDUVBmT1MzUQ?oc=5)
 
 ---
 

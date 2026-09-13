@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine'](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+
+2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+
+---
+
+### [Chronische Entzündung: Semaglutid senkt CRP-Wert um 40 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG14bDJOTldHdVhfTGRaY0ZuTWgyZHd5bU1TWlJ3c3RrTVczTnZpSXJYLWZDT3VteUt2TVE4ZlNsMGIzdjVNT3VQMHk2V3NfQlpheWVXTExLUDdSR0xEeEtXeE9EVXBQOTV6T0FWWVYzUEpjOWs0cXB5ZHFNU3dLNU9NZlJPRWtlUkhDYkJrZHotTzdPWno5ejlXSmo5b0JhR01YMkVjOWgwTXVscVFHQg?oc=5)
+
+2026-09-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG14bDJOTldHdVhfTGRaY0ZuTWgyZHd5bU1TWlJ3c3RrTVczTnZpSXJYLWZDT3VteUt2TVE4ZlNsMGIzdjVNT3VQMHk2V3NfQlpheWVXTExLUDdSR0xEeEtXeE9EVXBQOTV6T0FWWVYzUEpjOWs0cXB5ZHFNU3dLNU9NZlJPRWtlUkhDYkJrZHotTzdPWno5ejlXSmo5b0JhR01YMkVjOWgwTXVscVFHQg?oc=5)
+
+---
 
 ### [Así ayuda el complejo de la harina de algarroba a los pacientes con enfermedades metabólicas - Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPblBjdHlUbkxQb0M1RnR2OHNQSW5tMEFUZlFQTS1kaklWbGpHNGd4aEM1TlBKaVlqeTd5ZUhGaEdXZVd4amIwcVhVeU91UzhmUU9TdjFMZ1J4RWJ2RTBpVm9mVE9CRkpxcGd5Z2QwY0JHRnI4QWRreTJUVHpQeWFLSUFWRG5pX3dCWWpmXzFaRDdxZW1Za0dKbGlHQmpVSDVMRG1pcWpiRlNyTENaOC1nZ0QyN3ZLdVItblJ0YVJoTTYxeUxGZXFQeDhuVWxHN1Zzd19acTFxaDZYOGJGODdZNG8tdmctenVVSGQ1RUFFaE9waGRBUWlia2poYWVPZ9IBiAJBVV95cUxPUGx6akdwTG9Ib0FyUDRaQW1NaUpEcldPaHYzX0lHREdwM2dfSk8tSzlVanJUU1FPRVRJcmdndDNnQzIxa1dxT2QxNzZ4WHA4NHZZRXZudzdwaFNFT3lFcHJLOFp2UlNxX0J0SVM2S2FlaEw1YUlDT3N1a1g1N1dZMGJ6cGZOWjBrN0ZyRWR2WDA2Y04xRnhCYUZhRnJlMzBWbXl0Z0dCS2xvUU5Sb2xDdmNMRjhjNFZMVUNhTFotbzRTZVd6dU1wWS1MSWRMQjNhMDZnWGx0VlZBWS1SeG9OQjFKT1QtUWlUVG5id3FCN0JybTNYb0J6OC1hc1FYeEFxWG5FV2w5ZWo?oc=5)
 
@@ -78,11 +94,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
+### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabetes</span>
+2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[nachrichten.idw-online.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/natalizumab/
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Ozempic-Studie: GLP-1 senkt offenbar Asthma- und COPD-Attacken - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
 
 ---
 

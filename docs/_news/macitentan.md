@@ -14,7 +14,7 @@ permalink: /news/macitentan/
 ---
 
 <p class="key-answer" data-question="Macitentan 有什麼相關新聞？">
-<strong>Macitentan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macitentan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/macitentan/
 <p><a href="{{ '/drugs/macitentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Ipertensione, il killer silenzioso: in Italia un uomo su due è a rischio](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR18wM0lCdHdVc0JvcjlpQ3ozZGRHMmVtWHZPQWN6b2dVc0s1RVY3TmtUc1FLT2x5di1ubU9MYzIzSnpRVjdJdlQ1bXo5MnJMei1nMm9kdnJLOE9UUFRCcTFXUVkxekJYXzZQckFEV0xfT1kyRl9ZWGFmdktOUFVZcXVzblFqSDFDQ1ZmTG5lcjVYdzh1bUludDFabDNVZko5UEFHNzdEM1RFN3JwcXdDNkpkTkkwcTVqVVhKSnhR?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/macitentan/
 
 ---
 
-### [Infographies. Hypertension : qui est le plus touché dans le Grand Est et en Bourgogne-Franche-Comté ? - L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
+### [Schwangerschaft: Weniger Sitzen senkt Bluthochdruck-Risiko deutlich](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmhiR0pjQlN3M0U4UkpHTHBVRG53ZWdhanZvX3VCd1J3S0lDYThlTFBpTmRxQlRic1dPZE5OSUVndXhSWkpGZWM5eUVfelhxejdaR2tHSlM4WnpmRFBBM3Y5TUFBNnUzWXRnQjFCUVlfVlFFWjE1aGZwT0ctZzJTb0FxVHNHUF9vaHM3T0FxT1c3aENrZ1ExRUVNTno3bU9FMHJSV2VuVnhHUjFuSmJTLXAwUmt6dw?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmhiR0pjQlN3M0U4UkpHTHBVRG53ZWdhanZvX3VCd1J3S0lDYThlTFBpTmRxQlRic1dPZE5OSUVndXhSWkpGZWM5eUVfelhxejdaR2tHSlM4WnpmRFBBM3Y5TUFBNnUzWXRnQjFCUVlfVlFFWjE1aGZwT0ctZzJTb0FxVHNHUF9vaHM3T0FxT1c3aENrZ1ExRUVNTno3bU9FMHJSV2VuVnhHUjFuSmJTLXAwUmt6dw?oc=5)
+
+---
+
+### [Hypertension artérielle : quelle quantité de sport pratiquer chaque semaine pour la réduire ? - Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
 
 2026-09-11 <span class="news-indication-tag">hypertension</span>
 
-來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3p0QnpNTmtsRGN4QjVNaXVxcmt2ZExsNUlXby1mUG05SnpGMzFOWWFGcG9Hb1ZQaWxEUzU4Tm4wSkZkaXg1YVM3RnMwbHhKVTdhdnpvQVE1NVp3XzROUmdkTFpCZGZod3Q0ZGNDLUhRQ1czQmNLNDdMUWZPTVFJT0tsbVFKd0M5bTJUMVJVa0VwN29rQ0diMENJTmtac2JTcUtfWUVvM3ZlRnAtbUwwbjVVWHY2RUEzaWNtMW93UmJlRFNmcGF5SlF3?oc=5)
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHVqY2tmeUo0WGwtek9Kc2dnMG01bkVGaUJJZ0UtcjlRU2p5d283SDR0YlFNNGduZ045NzJ6ZzdTMU5CeUxzTGFlNER4c3J2eDU1VWF2V05zUU01aHFvcDJpVmR3aWdMYmlMUHJQMEZIODAwQkZIUmo4SUhzNWJXTDVZMTRTekd6T2ZOSVpkSEc2bHdEalhoM05pX2Q5LTU3cWNGZ2Y2N2hHM0NrZFplTmh3dUZ6MHhGYW5UYVMzSkd1d096STZodnU0WTJQelNteWh2OA?oc=5)
 
 ---
 

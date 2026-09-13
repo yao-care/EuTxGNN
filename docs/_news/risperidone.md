@@ -14,7 +14,7 @@ permalink: /news/risperidone/
 ---
 
 <p class="key-answer" data-question="Risperidone 有什麼相關新聞？">
-<strong>Risperidone</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Risperidone</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/risperidone/
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（31 則）
+
+### [Le café protégerait un mécanisme clé du vieillissement, selon des chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGU2dTVpRkJlb1hROW5qeG5nc2FfYm1DZ1djSGtpSHEwdUFHaHJOTW5Lb2JnSkktaXFxX2cxeDc0eGU0Mmk0V0hJdDlUX0UxVlRsUldFZWh4ZVFvbW01ZVRqcUl2eEFPbkVpTEtwNVBCaUNYVWRtNTZfUTdlU19SLWY2NnQ?oc=5)
+
+2026-09-13 <span class="news-indication-tag">AF</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGU2dTVpRkJlb1hROW5qeG5nc2FfYm1DZ1djSGtpSHEwdUFHaHJOTW5Lb2JnSkktaXFxX2cxeDc0eGU0Mmk0V0hJdDlUX0UxVlRsUldFZWh4ZVFvbW01ZVRqcUl2eEFPbkVpTEtwNVBCaUNYVWRtNTZfUTdlU19SLWY2NnQ?oc=5)
+
+---
+
+### [Mum died after nine-month wait for cancer results as NHS department 'overwhelmed' - Daily Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRmlYczY2Wi1uYnRZaXlUeE9CX2NUejB5RXozY0Rhd3FiMEU4ZlFGd3BGSXU0ekJxeDU2bEdvdkFEcWNweUhhd3dFODhMNHBXeWlLeWhVM21DMmN1cTUyTmJzb1ZITjd1WTJiSWJrM0F2WlN2Mzg2aFMtM1lfX3E3MFc3bDfSAYoBQVVfeXFMT2ZnYnhmcWhId3U4b3Y3ZWpkRG50Nk5PRU92bXlINXR0Tm1pOXJfckItNW1xbG5sY0FKS0RjR1FjZ3V2T2I3V1lSeFhmX0FCWndNUjJQMWpQN19WSGV0YTh3Mm9tcy1VaklKb1p2T3JPaTZ3dDlSay1aaUtTc1NXM29Ob08zRFo4M2t3?oc=5)
+
+2026-09-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRmlYczY2Wi1uYnRZaXlUeE9CX2NUejB5RXozY0Rhd3FiMEU4ZlFGd3BGSXU0ekJxeDU2bEdvdkFEcWNweUhhd3dFODhMNHBXeWlLeWhVM21DMmN1cTUyTmJzb1ZITjd1WTJiSWJrM0F2WlN2Mzg2aFMtM1lfX3E3MFc3bDfSAYoBQVVfeXFMT2ZnYnhmcWhId3U4b3Y3ZWpkRG50Nk5PRU92bXlINXR0Tm1pOXJfckItNW1xbG5sY0FKS0RjR1FjZ3V2T2I3V1lSeFhmX0FCWndNUjJQMWpQN19WSGV0YTh3Mm9tcy1VaklKb1p2T3JPaTZ3dDlSay1aaUtTc1NXM29Ob08zRFo4M2t3?oc=5)
+
+---
+
+### [Un patient sur deux atteint de cancer affirme ne pas avoir été associé aux décisions concernant son traitement par radiothérapie](https://news.google.com/rss/articles/CBMiogJBVV95cUxNSUhuM3lzZWVzRDdmUS03c2Q3bTc4MXE4N0k4clF2TkotTUNVUENRUHVQS0NDRWVPQlJDdW93OFYza1lNTnJOSlZLLURMb3hUWEs1ZTVaZERSdWU5bVFTUW5XUUowTHNwTHVhT1NUUWhCZnFTU1R2N2hIaGo0MkMyNXVfVkpRNm5jS3EybXk5WUNpNjF6S09mUklMLWZoVVpLVkFLN2R2dUVHU2hacFNBTHRfSzdaQXFBbnY1MV9qeVVIWWhjN3FiVm9yTF9hOVFJSDhCeEFHOTVtaHFUMXNhNWw0T3dUbXZqSnE5Nk9XWlRPdkNnSFoxT2NjbGY0UUMwNDhNbHQyRjFNRTdPZ2pYcVVZTGFSNklwUHlOcmRuQ2FvZw?oc=5)
+
+2026-09-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMiogJBVV95cUxNSUhuM3lzZWVzRDdmUS03c2Q3bTc4MXE4N0k4clF2TkotTUNVUENRUHVQS0NDRWVPQlJDdW93OFYza1lNTnJOSlZLLURMb3hUWEs1ZTVaZERSdWU5bVFTUW5XUUowTHNwTHVhT1NUUWhCZnFTU1R2N2hIaGo0MkMyNXVfVkpRNm5jS3EybXk5WUNpNjF6S09mUklMLWZoVVpLVkFLN2R2dUVHU2hacFNBTHRfSzdaQXFBbnY1MV9qeVVIWWhjN3FiVm9yTF9hOVFJSDhCeEFHOTVtaHFUMXNhNWw0T3dUbXZqSnE5Nk9XWlRPdkNnSFoxT2NjbGY0UUMwNDhNbHQyRjFNRTdPZ2pYcVVZTGFSNklwUHlOcmRuQ2FvZw?oc=5)
+
+---
+
+### [Barrow couple calls for change after rare diagnosis leads to cancer drug fight - NW Mail](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNW14LUNobjlnUi1HNHBGeFFDQWxtM2NlaUlNemJKeUhNVnN3SUZZNFhWNTYxS2hYZG9fcm13VGF6VzlkQVNVNmNKdDRMNFFPM2VlWUVha3I3QTFaaXFLQzNvQm96OXR2RVlvMVBNclU3Y1Z6U1FwVGlia1daMGVyY2lTNkhWaEVfcGJMSjJ0ZlM?oc=5)
+
+2026-09-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[NW Mail](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNW14LUNobjlnUi1HNHBGeFFDQWxtM2NlaUlNemJKeUhNVnN3SUZZNFhWNTYxS2hYZG9fcm13VGF6VzlkQVNVNmNKdDRMNFFPM2VlWUVha3I3QTFaaXFLQzNvQm96OXR2RVlvMVBNclU3Y1Z6U1FwVGlia1daMGVyY2lTNkhWaEVfcGJMSjJ0ZlM?oc=5)
+
+---
+
+### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
+
+2026-09-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
+
+---
+
+### [Capsule del caffè riutilizzabili, cosa rilasciano? La sorpresa arriva dalla macchina](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMThDWEhQd0N0QzdZclFYbXYtTG5DNXd4OHBOUXdJZHpFMGV4WjhteWF6Uy1VRUZoSWtVbkxPN2lVS1ctVjdIX1BkY1h4ekUtNTk4Q0NwLXpidXZ1MnBzSGtyeWtYdmx6cnNna29uc1NRRm81TDZod2JKUDZYUnhiSk1DY1ZsamIxR1JIUENLbjdhZDI2LWhIamUtTF92R1FHalpEcHJ2UGJXQUp5RE5kU2k5ZFVybmFieWVvd0pwcksyVXl5d2NHQ1JJc3JTZlNOVlA3a1dReEY5UQ?oc=5)
+
+2026-09-13 <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMThDWEhQd0N0QzdZclFYbXYtTG5DNXd4OHBOUXdJZHpFMGV4WjhteWF6Uy1VRUZoSWtVbkxPN2lVS1ctVjdIX1BkY1h4ekUtNTk4Q0NwLXpidXZ1MnBzSGtyeWtYdmx6cnNna29uc1NRRm81TDZod2JKUDZYUnhiSk1DY1ZsamIxR1JIUENLbjdhZDI2LWhIamUtTF92R1FHalpEcHJ2UGJXQUp5RE5kU2k5ZFVybmFieWVvd0pwcksyVXl5d2NHQ1JJc3JTZlNOVlA3a1dReEY5UQ?oc=5)
+
+---
 
 ### [Un estudio revela que dormir con luz aumenta el grosor del ventrículo izquierdo - Libertad Digital](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRmkyVURTaE5mRnV0eHlPckd2UFdCWlRvNGtzRGJqckgtcEdjSkc1MG1wNWdQcG5haHJ0UDhwUFhVZ3k0MlpKb0NObzg1VFJtZ0h6ZnVudFctNTA2SHhySlA0cTR1d0FxRnlwOXhpalNIc3VKNG9vOHFFRmNka2ZYUHFKaGNDNmcwUXduLTZHZGhuTXItSHJvN01IaFZ5akN2eVd5Z3M0N1BVODFqN29DakM0M3RJQzI0cWo3SWZiZW9xZ2dUblNxcS1MM2JPWlI0aXNaTlhrODR0aWtkQnhMU0JpRFh5Tjh2Ny0wY9IB9wFBVV95cUxOUHRGWWxncWFZYzBwaUlSaHlMMHhLR2NpOVljRi1xRl9aakR6Xy1Va2d3XzNGMWxJWUY3LVo4VDhTeDY2VURlVVBwSTRoV2lNN1hlM2VmSlhJRzRrRmtaODNBOUZOcXdlb05kb3dEMnJUdEMwVEx2bVR5M3pkMm5GV25BcFZRLXFTTTM5ZlRKOVFMeHlNTkwzVFI5NjQ2QnRydnZFOVMwVmZMc0dNSkdHNzhlTnk4YkJfOVJJNEdpRG8zQlVYTkpkY3lpa0tVM05ZcmdYQjVVbXpxTWhIdTJ3Y1pucVhSWUNaeGNPRTQ0VXFyUS1NemhV?oc=5)
 
@@ -78,19 +126,19 @@ permalink: /news/risperidone/
 
 ---
 
-### [El cambio climático afecta a la salud menstrual: la ciencia encuentra una relación entre el estrés térmico y las reglas irregulares](https://news.google.com/rss/articles/CBMigwJBVV95cUxOZl9MdUFWM3U5UU9NbWc3VmZ4ZlhoSllXd01LNTgzMGtwXzl3T3ZadWdBUm96OFhLcDBzRzlSeWNISnEzQ2hLaDlheHdOMnUzVnJYb0lpWGMwQmx3MGQ5ZW5QZmdzTzVrTTBjUnBkZzQtX0VxMEh4blMyV1h4UjctMjc5SWJJODNTM2h4T29rZGdXbnBJRmNYaDFNNFQ1bTY3bGc1V1FWMVdjc2g1QnVZVVNwRTNhcXhiU0N2SV9nejViSFJEd3ZheWxzODE3SHpxLVlldW1SMEk3alFPS2tndzJJZ0xyVVVpSkwzWnBxY2ZOdm5NY3UtejhFQWhRWkdtTTRZ0gGeAkFVX3lxTFA1OG1GNVpBMkNFNTVTb1VOdmN3bnZ1dHlnbHQ4bnpYZ2hkZU9VSGdKcFhyVEtiNXZ4WE9qazQ4VlVMUjY5NENiZXhrRHQ2YVluTWo5QVloQ2g2M3VuZ0NNRm1iRWZiNXFfTXM3ZEpibzMtZFJndEViV3NHNWNnQ1ZsX29zZFc4b3FRV3NIZGtEbnUzbVNTRy1DNXZDeHJqTUxHVE9SRDJZNUxVQkNPX1QxWVVIM05Dcko5M2pBQ3ZZclJ5bHA1S2hlTFRSX3ByNlZxb2tWUTU4NFRGcG9ITUEtS09VeF9PbVQ1YWdadVNaMGlRSjZCRDRrVUd1T3hSb1RkVVJjMXVMWW5CRlhxSHdmRG5Xcmd1Tzl4d1VyUGc?oc=5)
-
-2026-09-12 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMigwJBVV95cUxOZl9MdUFWM3U5UU9NbWc3VmZ4ZlhoSllXd01LNTgzMGtwXzl3T3ZadWdBUm96OFhLcDBzRzlSeWNISnEzQ2hLaDlheHdOMnUzVnJYb0lpWGMwQmx3MGQ5ZW5QZmdzTzVrTTBjUnBkZzQtX0VxMEh4blMyV1h4UjctMjc5SWJJODNTM2h4T29rZGdXbnBJRmNYaDFNNFQ1bTY3bGc1V1FWMVdjc2g1QnVZVVNwRTNhcXhiU0N2SV9nejViSFJEd3ZheWxzODE3SHpxLVlldW1SMEk3alFPS2tndzJJZ0xyVVVpSkwzWnBxY2ZOdm5NY3UtejhFQWhRWkdtTTRZ0gGeAkFVX3lxTFA1OG1GNVpBMkNFNTVTb1VOdmN3bnZ1dHlnbHQ4bnpYZ2hkZU9VSGdKcFhyVEtiNXZ4WE9qazQ4VlVMUjY5NENiZXhrRHQ2YVluTWo5QVloQ2g2M3VuZ0NNRm1iRWZiNXFfTXM3ZEpibzMtZFJndEViV3NHNWNnQ1ZsX29zZFc4b3FRV3NIZGtEbnUzbVNTRy1DNXZDeHJqTUxHVE9SRDJZNUxVQkNPX1QxWVVIM05Dcko5M2pBQ3ZZclJ5bHA1S2hlTFRSX3ByNlZxb2tWUTU4NFRGcG9ITUEtS09VeF9PbVQ1YWdadVNaMGlRSjZCRDRrVUd1T3hSb1RkVVJjMXVMWW5CRlhxSHdmRG5Xcmd1Tzl4d1VyUGc?oc=5)
-
----
-
 ### [Cardiff woman makes urgent vaccine plea after teenage brother's death - Wales Online](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2FuTHlUVlRLdzZNZWNxRzh3SDBmdTQ2VnF5eVJNeGF6VlpVMTJSbjN4WFJyWndOYzJPdlczSjUydHlsaHhmS2lOWnUzamYxNnZRczVXV0plWXFVRnZ0eTNtajdYYWRyQWxXNjVJa1BJMUNVWndBejcwaDFycDVOVkx5V0V5Y0h0Y3VQaVhHb3dxc3M?oc=5)
 
 2026-09-12 <span class="news-indication-tag">AF</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2FuTHlUVlRLdzZNZWNxRzh3SDBmdTQ2VnF5eVJNeGF6VlpVMTJSbjN4WFJyWndOYzJPdlczSjUydHlsaHhmS2lOWnUzamYxNnZRczVXV0plWXFVRnZ0eTNtajdYYWRyQWxXNjVJa1BJMUNVWndBejcwaDFycDVOVkx5V0V5Y0h0Y3VQaVhHb3dxc3M?oc=5)
+
+---
+
+### [Dad nearly died after pub roast dinner gave him sepsis](https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2t3WEhpamhiQWRrcnAyMTg2NWJDTlI5TUd1VkZVNThWZWZsUnRSbVRQU2tOLWd5OVF0RUdzSGhpaDZBWDFlc0xHTTZjenJwWVRRMDMxS2tWMW9IeWtLZl8tVFplV25tQVhKY0VzOVZfTWNtOUFPUEZaTy1qNEdZSk55bl9SUE53dnNMSjl30gGTAUFVX3lxTFBmamd1ZjZMYVZ0a2ExZHhFaVJUZE1LVGdJYUxvR3p6eE1jb0RjSUptcUlsaWM2YnQ1UjRvZEc2QkgtaldYdDV0cnNJVGN6Q2UweXNHZ1I2Ry1YX2ZhR2ROQ0d0YkFwc3JobDU3S2YzY2g5Wnk3c1FMdHpabndZcno0bDdVbXdsQnVOUHBCbkV5cFRRQQ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">AF</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2t3WEhpamhiQWRrcnAyMTg2NWJDTlI5TUd1VkZVNThWZWZsUnRSbVRQU2tOLWd5OVF0RUdzSGhpaDZBWDFlc0xHTTZjenJwWVRRMDMxS2tWMW9IeWtLZl8tVFplV25tQVhKY0VzOVZfTWNtOUFPUEZaTy1qNEdZSk55bl9SUE53dnNMSjl30gGTAUFVX3lxTFBmamd1ZjZMYVZ0a2ExZHhFaVJUZE1LVGdJYUxvR3p6eE1jb0RjSUptcUlsaWM2YnQ1UjRvZEc2QkgtaldYdDV0cnNJVGN6Q2UweXNHZ1I2Ry1YX2ZhR2ROQ0d0YkFwc3JobDU3S2YzY2g5Wnk3c1FMdHpabndZcno0bDdVbXdsQnVOUHBCbkV5cFRRQQ?oc=5)
 
 ---
 
@@ -102,11 +150,11 @@ permalink: /news/risperidone/
 
 ---
 
-### [Bolton boy, 9, says 'life has restarted’ after rare blood transfusions save him](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlJT1RNbzZuT2JNTGZXY0tvdHJaTW15TjRpQ1VTWXpYYnY2c19mTG1MaEE2X0xiLUltMW1OTEI1QkdkaEVydEJzTUdKWXNDZngtaWMzUUtfMWJYcUxUbUV4ZnhwYjRCV2V2WUtLWktNU2txZW16QXpkM0htdEtpd1RKc2kyLVBha0g0OUtYMHRudnZhSEptLUJ4amx2UQ?oc=5)
+### [Bolton boy, 9, says 'life has restarted’ after rare blood transfusions save him - The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlJT1RNbzZuT2JNTGZXY0tvdHJaTW15TjRpQ1VTWXpYYnY2c19mTG1MaEE2X0xiLUltMW1OTEI1QkdkaEVydEJzTUdKWXNDZngtaWMzUUtfMWJYcUxUbUV4ZnhwYjRCV2V2WUtLWktNU2txZW16QXpkM0htdEtpd1RKc2kyLVBha0g0OUtYMHRudnZhSEptLUJ4amx2UQ?oc=5)
 
 2026-09-12 <span class="news-indication-tag">AF</span>
 
-來源：[theboltonnews.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlJT1RNbzZuT2JNTGZXY0tvdHJaTW15TjRpQ1VTWXpYYnY2c19mTG1MaEE2X0xiLUltMW1OTEI1QkdkaEVydEJzTUdKWXNDZngtaWMzUUtfMWJYcUxUbUV4ZnhwYjRCV2V2WUtLWktNU2txZW16QXpkM0htdEtpd1RKc2kyLVBha0g0OUtYMHRudnZhSEptLUJ4amx2UQ?oc=5)
+來源：[The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlJT1RNbzZuT2JNTGZXY0tvdHJaTW15TjRpQ1VTWXpYYnY2c19mTG1MaEE2X0xiLUltMW1OTEI1QkdkaEVydEJzTUdKWXNDZngtaWMzUUtfMWJYcUxUbUV4ZnhwYjRCV2V2WUtLWktNU2txZW16QXpkM0htdEtpd1RKc2kyLVBha0g0OUtYMHRudnZhSEptLUJ4amx2UQ?oc=5)
 
 ---
 
@@ -134,14 +182,6 @@ permalink: /news/risperidone/
 
 ---
 
-### [Alzheimer-Früherkennung: Bluttest prognostiziert Symptome 3–6 Jahre voraus](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY09QWWFvWGtPY3FWWnhIUnpWampFTFprMlV5ZGxBWE5Fa1B4MDFFYWVWMUxXNGpIMG1fWGVPdDF4b2ZSdHFSNnM0ZGJ1bnV3MTQ3TGtDRzhOcUpBd0tyWnZiS25CS3ZkUnBzMW9LZlllaXVuTnZ0UDZ5cDVDZk1uM2tTRkp6cjljRzJoRmE4SFV1NzVXUXdBZHRlRXFBdlRidjNZ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">AF</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY09QWWFvWGtPY3FWWnhIUnpWampFTFprMlV5ZGxBWE5Fa1B4MDFFYWVWMUxXNGpIMG1fWGVPdDF4b2ZSdHFSNnM0ZGJ1bnV3MTQ3TGtDRzhOcUpBd0tyWnZiS25CS3ZkUnBzMW9LZlllaXVuTnZ0UDZ5cDVDZk1uM2tTRkp6cjljRzJoRmE4SFV1NzVXUXdBZHRlRXFBdlRidjNZ?oc=5)
-
----
-
 ### [Blood Test Reveals The Heartbreaking Truth After Millennial Dad Keeps Finding Weird Bruises All Over His Body - Bored Panda](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUp6d05fQUJqZ2QwLU1YSXFCRV9LSERfWDVpSG44dk1Db3JIODYxS2I3c0hWNlZwVi1XdjZIN0xJZUZOV3FjZThWYjh6WVpvSGRHQnUzUWQ4TjJkV3g5VVE5ZFB0UHJObEU1WnBadHVuZENEMi1kVzY4Sm1hbTZ0ejBlUW02d2s4MF9TdXNKTy1JSTYxWTZOZldES28?oc=5)
 
 2026-09-11 <span class="news-indication-tag">AF</span>
@@ -166,19 +206,19 @@ permalink: /news/risperidone/
 
 ---
 
-### [Mum died from aggressive cancer after nine-month wait for test results](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
+### [Osteoporosis affects millions: could modified cells rebuild their bones?](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbUlJNUxCV1U5eHBqX1BiVTFtbUxEMURqZFRhdWtaZjZuWUhFZ2xrSjlqQmptcXl6QVA0M1ZfMEtQVmRVMlMycjYxUVVIZm01OWRQaEo0WG42Umd0NWJB?oc=5)
 
-2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbUlJNUxCV1U5eHBqX1BiVTFtbUxEMURqZFRhdWtaZjZuWUhFZ2xrSjlqQmptcXl6QVA0M1ZfMEtQVmRVMlMycjYxUVVIZm01OWRQaEo0WG42Umd0NWJB?oc=5)
 
 ---
 
-### [Bevande calde e tumore all’esofago, cosa dice lo studio e perché gli esperti parlano di “speculazioni eccessive”](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDBHNk43YkM2amJIUVdZOGhmUVdWRFVIalUzZG9FMTNRRXRULXBhSTlSVVRwOFg0YjZNS0RpQ1lTYkcwcEFaeG81djNNaEM5NGRuUllQbTRPR0JsUFV1THoxVE9xZ08tbXhWMG9maGVEblAweGIzaS1YcjZxYUNQUXRsRjkyWURyWk1xUHp3N2RGNk1TSzgzSnhJT0dIYV9Udm9kMUpKTGw4RmtFaVAwUm44ank2OHI4NFRvVGZ1MXJKV0tOOGk3OFVpdE9TWFFyQUZ2c1NERVpNLWJqQlJZcDNyME5LZWs?oc=5)
+### [Schwangerschaft: Weniger Sitzen senkt Bluthochdruck-Risiko deutlich](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmhiR0pjQlN3M0U4UkpHTHBVRG53ZWdhanZvX3VCd1J3S0lDYThlTFBpTmRxQlRic1dPZE5OSUVndXhSWkpGZWM5eUVfelhxejdaR2tHSlM4WnpmRFBBM3Y5TUFBNnUzWXRnQjFCUVlfVlFFWjE1aGZwT0ctZzJTb0FxVHNHUF9vaHM3T0FxT1c3aENrZ1ExRUVNTno3bU9FMHJSV2VuVnhHUjFuSmJTLXAwUmt6dw?oc=5)
 
-2026-09-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDBHNk43YkM2amJIUVdZOGhmUVdWRFVIalUzZG9FMTNRRXRULXBhSTlSVVRwOFg0YjZNS0RpQ1lTYkcwcEFaeG81djNNaEM5NGRuUllQbTRPR0JsUFV1THoxVE9xZ08tbXhWMG9maGVEblAweGIzaS1YcjZxYUNQUXRsRjkyWURyWk1xUHp3N2RGNk1TSzgzSnhJT0dIYV9Udm9kMUpKTGw4RmtFaVAwUm44ank2OHI4NFRvVGZ1MXJKV0tOOGk3OFVpdE9TWFFyQUZ2c1NERVpNLWJqQlJZcDNyME5LZWs?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmhiR0pjQlN3M0U4UkpHTHBVRG53ZWdhanZvX3VCd1J3S0lDYThlTFBpTmRxQlRic1dPZE5OSUVndXhSWkpGZWM5eUVfelhxejdaR2tHSlM4WnpmRFBBM3Y5TUFBNnUzWXRnQjFCUVlfVlFFWjE1aGZwT0ctZzJTb0FxVHNHUF9vaHM3T0FxT1c3aENrZ1ExRUVNTno3bU9FMHJSV2VuVnhHUjFuSmJTLXAwUmt6dw?oc=5)
 
 ---
 
@@ -190,27 +230,19 @@ permalink: /news/risperidone/
 
 ---
 
-### [Weniger Sitzen und mehr Bewegung könnte Risiko für hypertensive Schwangerschaftserkrankungen senken – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
+### [Cardio check up gratuiti in due farmacie della provincia di Palermo: screening dal 25 settembre](https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDB6X1l2NEpMMW41bnJBNjZlLXNjM0VlbDdNMV81Nm1meE9XMnRhSEtnOUxIaGZPZzlFOVN2aFVnVDN5YUV0S1BOZE1nY1lwQ1ZxWkJtc0NzbDdscHZjTTZpejdMM2FkaC1JcURoWjFMN1VQYVlGYmlXdGE5Y1lWUnpDZldkWVpuZVp6QXRXeGVPcUtObUE?oc=5)
 
 2026-09-11 <span class="news-indication-tag">AF</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
+來源：[PalermoToday](https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDB6X1l2NEpMMW41bnJBNjZlLXNjM0VlbDdNMV81Nm1meE9XMnRhSEtnOUxIaGZPZzlFOVN2aFVnVDN5YUV0S1BOZE1nY1lwQ1ZxWkJtc0NzbDdscHZjTTZpejdMM2FkaC1JcURoWjFMN1VQYVlGYmlXdGE5Y1lWUnpDZldkWVpuZVp6QXRXeGVPcUtObUE?oc=5)
 
 ---
 
-### [Man almost dies after roast dinner gave him sepsis - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWxVX0NkQUNPLS1fa0kxOXVhNjlZMWVwR3VZQmtZa2tqSjMxQ0tOT1YwN1hXT1QtYkgwQ0tlUlNQWFcxN05lS0d1QUpjQzV5SVRxTVVWOUxWZzJnb1lsakx3MWVwNUg1M2VYeFBBQnNxdzg3UkgtSlZMbDlOcTdtc2ZMYmVHZVhJYVBZS0Q0RmR5a3pCRU8zNFZwdw?oc=5)
+### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
 
-2026-09-11 <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWxVX0NkQUNPLS1fa0kxOXVhNjlZMWVwR3VZQmtZa2tqSjMxQ0tOT1YwN1hXT1QtYkgwQ0tlUlNQWFcxN05lS0d1QUpjQzV5SVRxTVVWOUxWZzJnb1lsakx3MWVwNUg1M2VYeFBBQnNxdzg3UkgtSlZMbDlOcTdtc2ZMYmVHZVhJYVBZS0Q0RmR5a3pCRU8zNFZwdw?oc=5)
-
----
-
-### [Le café agirait sur un mécanisme clé du vieillissement : voici ce que les chercheurs ont découvert - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYnNjaU1kX3VrNUkzNklFYUtGeWpwUF92WXREV2dWNnE0dUEwM0RZcHNUT0FLOWxnbncwQ091cGVZaTNEb0FkN2xYTURQZktCeVZrOG5ucURLc2NUblFGenBKNUpDRlIzRkpnZlRUM0xTbnBDenI3VTJkZ3loNmNyNDVtVHk4ZlZlSlBoR0VqZnJRbUlwb2NfUnNBaUk1c2ZDd1JXNzZrUllfZVVJS2FyaWx6MnZ1TDhJQS1tb2pEbjAtcl9pS2RHWUF5bWdnRG9QX3Rz?oc=5)
-
-2026-09-11 <span class="news-indication-tag">AF</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYnNjaU1kX3VrNUkzNklFYUtGeWpwUF92WXREV2dWNnE0dUEwM0RZcHNUT0FLOWxnbncwQ091cGVZaTNEb0FkN2xYTURQZktCeVZrOG5ucURLc2NUblFGenBKNUpDRlIzRkpnZlRUM0xTbnBDenI3VTJkZ3loNmNyNDVtVHk4ZlZlSlBoR0VqZnJRbUlwb2NfUnNBaUk1c2ZDd1JXNzZrUllfZVVJS2FyaWx6MnZ1TDhJQS1tb2pEbjAtcl9pS2RHWUF5bWdnRG9QX3Rz?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
 
 ---
 
@@ -222,19 +254,19 @@ permalink: /news/risperidone/
 
 ---
 
-### [Schlafapnoe: Neues Medikament senkt Atemaussetzer um 44 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
-
-2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1ZGZ2l2Q2RRTUN4dWs2SHp5am9LbDhCZHU1RTg2SmJlUlpFd2R6bkROczl2X3JiVXJLcWlRSWtoQkxuNmxIUllLT3U2bklrMWhrVkMwc3RRRFdZYzY4NE5FeGRGRzEtWU9aWUlUaFB5Q0FrSS1OTktKZ1Q0bS1hcDBhaFhWSTNhSEdNcnNWV1VvMlV0cDhZb09tUEtVTW9Lcm16bzJySWszVThNcmZpbA?oc=5)
-
----
-
 ### [Herzinfarkt: Funktionelle Koronarangiografie optimiert Revaskularisierung der Nicht-Culprit-Läsionen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
 
 2026-09-10 <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkJjSmVOYjBpekttNUJEcHRMRjUxd3N1YVh6bk1ZZVliQUI5VlptWE9rQktTeGtreGJuYTNpOVF4WnhQZ0ZGbGxyY1NlWEp4SlhhelNLYzF5TVIwVmZfYkV6Wm5jSkJrU3E5eFc5WUZ4TmJ6OTlUVjRORVdOSndqWGxqNFZCdmMwR0hrQzVxeXhuMmVFVldfQUVjd0NQR2t3aF9TTXFIYlhiR0hMUXFyUzlRUkJfTDJMd1pRcVBCQVRDTFVRWThXTHFkSW5IVUhWajVtYVc2cGJMUFMycnJ4dmhQc29JcGloMGVXeTZ4dUFJTmMyRWhoNjNBMW0?oc=5)
+
+---
+
+### [Wales risks raising one of the unhealthiest generations in decades, doctors warn](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qS0wwdkd1NEhCdndibDlTM3h0eFg5S05yYVBFMlRuTjNpeGNVcUlnVGNZSjVvSzRRNGFUMVd2MFYwOUNoTS1zVHhJazg0dS1ra2VFeEFvQ010SnhK?oc=5)
+
+2026-09-09 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qS0wwdkd1NEhCdndibDlTM3h0eFg5S05yYVBFMlRuTjNpeGNVcUlnVGNZSjVvSzRRNGFUMVd2MFYwOUNoTS1zVHhJazg0dS1ra2VFeEFvQ010SnhK?oc=5)
 
 ---
 
@@ -246,19 +278,19 @@ permalink: /news/risperidone/
 
 ---
 
-### [Doctors issue warning after children suffer ‘toasted skin syndrome’ from overusing devices - The Independent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0dOODktN3h2SUowZ0RhTnB5c3VNLUFSUFNERG14akJhQ2l4NjdmeW5kX1FRQUV4MTBYS3AzQVNEUjg4ejZ2bkNIbFJEWEx1RHhGNE1zRmZpRmdkYThlNDdFckstay1vX25VWTdwWFRHRVloeHdscjVWbDBFdmR2N3loNVotVjdVajlWckVEc0NFRG4tSnBYZW1ZRC1zTUdELThDZzBEWk9UN3pWV0tUNnd4QmRZQU85LUhR?oc=5)
+### [Doctors issue warning after children suffer ‘toasted skin syndrome’ from overusing devices](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0dOODktN3h2SUowZ0RhTnB5c3VNLUFSUFNERG14akJhQ2l4NjdmeW5kX1FRQUV4MTBYS3AzQVNEUjg4ejZ2bkNIbFJEWEx1RHhGNE1zRmZpRmdkYThlNDdFckstay1vX25VWTdwWFRHRVloeHdscjVWbDBFdmR2N3loNVotVjdVajlWckVEc0NFRG4tSnBYZW1ZRC1zTUdELThDZzBEWk9UN3pWV0tUNnd4QmRZQU85LUhR?oc=5)
 
 2026-09-09 <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0dOODktN3h2SUowZ0RhTnB5c3VNLUFSUFNERG14akJhQ2l4NjdmeW5kX1FRQUV4MTBYS3AzQVNEUjg4ejZ2bkNIbFJEWEx1RHhGNE1zRmZpRmdkYThlNDdFckstay1vX25VWTdwWFRHRVloeHdscjVWbDBFdmR2N3loNVotVjdVajlWckVEc0NFRG4tSnBYZW1ZRC1zTUdELThDZzBEWk9UN3pWV0tUNnd4QmRZQU85LUhR?oc=5)
+來源：[independent.co.uk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0dOODktN3h2SUowZ0RhTnB5c3VNLUFSUFNERG14akJhQ2l4NjdmeW5kX1FRQUV4MTBYS3AzQVNEUjg4ejZ2bkNIbFJEWEx1RHhGNE1zRmZpRmdkYThlNDdFckstay1vX25VWTdwWFRHRVloeHdscjVWbDBFdmR2N3loNVotVjdVajlWckVEc0NFRG4tSnBYZW1ZRC1zTUdELThDZzBEWk9UN3pWV0tUNnd4QmRZQU85LUhR?oc=5)
 
 ---
 
-### [5-α-Reduktasehemmer: Prostata-Medikamente bei Herzinfarkt vorteilhaft - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lETnBxZVZPY1RyUmRqOU1kZGJFZFA5amNWMDFLd0t1QkxFSGhBZUNDZ0FEYW12ZkxUVEpkcjhoeG9yTXlaZVFSSTZRV2dxLTd6V0R4YmlTcHZobmx1dWpQNzVyblYtM3p4TGRGNmtuWVdZQzgxZ1hwanI5blZLZVY2QTVfbk1wTUplT3hfQWQzb0Q1cEE2WXFxOA?oc=5)
+### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
 
-2026-09-08 <span class="news-indication-tag">AF</span>
+2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lETnBxZVZPY1RyUmRqOU1kZGJFZFA5amNWMDFLd0t1QkxFSGhBZUNDZ0FEYW12ZkxUVEpkcjhoeG9yTXlaZVFSSTZRV2dxLTd6V0R4YmlTcHZobmx1dWpQNzVyblYtM3p4TGRGNmtuWVdZQzgxZ1hwanI5blZLZVY2QTVfbk1wTUplT3hfQWQzb0Q1cEE2WXFxOA?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
 
 ---
 
@@ -267,14 +299,6 @@ permalink: /news/risperidone/
 2026-09-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUV1WmxGUmtmNHE2b1JacTZ5LTVWcUZ4NUdac0wyZUU0WjNOWXktSEM4VVlTRlJ2NkxwN25oeUFnTlBPbjVOUklkbnk3VkJLeVJiWVF1TW5nOUxOSkJxNHBMdDVLSk1iMUpTWTRJWWZRSnplejF4NWlRLWdyNDlYOWdPd1Ezd0QzeGRPUnhoaWItel9Ubmg2UDFlUmFTdGh3YzVEbW55ZmNHT19ESzEwam12QnVHbjNpb1EzRnF1ZHVYd01nUlVfbDhzOGo?oc=5)
-
----
-
-### [Osteopenia, la afección que le fue diagnosticada a Gwyneth Paltrow a los 37 años: "Debo cuidarme cada día, mi vida ha cambiado por completo"](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzZzaG9LQWNWYWtqTWtocVh1LXMtUldzWUpnNlBLYUlBbUpGWWhieGw4VGlaVWZacGVETTJibUFQVXhTSEZKUjI5Q0ZieXdSV1N0cGhUVmkyTTN2ZjhiWElvMHFOTVk5WUZXQ09qZmtGSjRScXRJcVJNWXZxTlRXT1ZkRGpyREdwRXlTYXBYbU1BWFBTZjRDZ2NB?oc=5)
-
-2026-09-06 <span class="news-indication-tag">AF</span>
-
-來源：[20minutos.es](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzZzaG9LQWNWYWtqTWtocVh1LXMtUldzWUpnNlBLYUlBbUpGWWhieGw4VGlaVWZacGVETTJibUFQVXhTSEZKUjI5Q0ZieXdSV1N0cGhUVmkyTTN2ZjhiWElvMHFOTVk5WUZXQ09qZmtGSjRScXRJcVJNWXZxTlRXT1ZkRGpyREdwRXlTYXBYbU1BWFBTZjRDZ2NB?oc=5)
 
 ---
 

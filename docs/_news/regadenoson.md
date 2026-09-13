@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Chronische Entzündung: Semaglutid senkt CRP-Wert um 40 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG14bDJOTldHdVhfTGRaY0ZuTWgyZHd5bU1TWlJ3c3RrTVczTnZpSXJYLWZDT3VteUt2TVE4ZlNsMGIzdjVNT3VQMHk2V3NfQlpheWVXTExLUDdSR0xEeEtXeE9EVXBQOTV6T0FWWVYzUEpjOWs0cXB5ZHFNU3dLNU9NZlJPRWtlUkhDYkJrZHotTzdPWno5ejlXSmo5b0JhR01YMkVjOWgwTXVscVFHQg?oc=5)
+
+2026-09-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG14bDJOTldHdVhfTGRaY0ZuTWgyZHd5bU1TWlJ3c3RrTVczTnZpSXJYLWZDT3VteUt2TVE4ZlNsMGIzdjVNT3VQMHk2V3NfQlpheWVXTExLUDdSR0xEeEtXeE9EVXBQOTV6T0FWWVYzUEpjOWs0cXB5ZHFNU3dLNU9NZlJPRWtlUkhDYkJrZHotTzdPWno5ejlXSmo5b0JhR01YMkVjOWgwTXVscVFHQg?oc=5)
+
+---
 
 ### [Día Internacional de la Migraña: afecta a un 13% de la población - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Uno de cada cuatro pacientes con vértigo presenta migraña vestibular - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
+### [Uno de cada cuatro pacientes con vértigo presenta migraña vestibular](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">migraña</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3ByUlBNRjZvZ0VLWVdxcENiZzROTUEwclcyT3hSR0Jfb04wT1ZuWXBYU2Z3dGpXTXNrb25vRHhVSmpnbEEtQm9vd1lFd0ZUY1Nta2pYU2gzSDhUbWk1RXlrcmdleWFzNGMzbHNDdFg0U3JOZVFNeDdabW1Kb0F1MS14MlEyVWxOQWlaVlF2dlVWZ2llTGVXMDdyYzVuVFNzSFBrS0VkZHJ0bVVSNEc4dEs1MXk4cGl6MlU5WmFOV1LSAbsBQVVfeXFMUFFvNFpLYnp0OUNUUGxmUFFXbDdiN3RPX3AxVFB0N21QbmpKSFdrYkpNbW9JYXVEWmVYTnlKdGVVNWFralNKTUFTcHVfNkQ4bi1qaHlkVHh3b20wWmwyRlhVX0dOdW9hUTZYYkdyQkhENUN4X3hDNWFMQzAxWmpORnNZLW5zbDdWUlVvcGRQMnVZQWZtQ25udjhrbkY3aFN6akhlLUl3TE9qZmNtam9GTjR4X3lLTmFyS0t3WQ?oc=5)
 
 ---
 
@@ -94,27 +102,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Ozempic-Studie: GLP-1 senkt offenbar Asthma- und COPD-Attacken - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
-
----
-
 ### [Schweres Asthma verursacht Veränderungen im Gehirn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 2026-09-09 <span class="news-indication-tag">asthma</span>
 
 來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
-
----
-
-### [Dolor de cabeza: cómo saber si es migraña y cuándo preocuparse - El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzczSV9yX0R0ZGFqUDVCbUZObC1JV0ltZV9DRDBWOGZrT0hhSWhQQm12OGZvRDVRT1g3dEtOaXU5Y1RlcFFFSnVSSERvRmhGaUtGdXNWM3ZpeW9kcTNlekdodTkwdGtVZ3Qxd0tULWNPZGUtdjVyc2M5WDlqcU16VFhmVWpHN2JUUndzY3JCbm9Jd2x6TVdUMDY0UzZ5dkMxUEduTWR2OHRxejBEY2hYSldmRUlvVEI2T1lhZ2V3Tmd1X0ZvSHRDTTlGdUJPSE5pWEg2ajlnUUZfc28?oc=5)
-
-2026-09-07 <span class="news-indication-tag">migraña</span>
-
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzczSV9yX0R0ZGFqUDVCbUZObC1JV0ltZV9DRDBWOGZrT0hhSWhQQm12OGZvRDVRT1g3dEtOaXU5Y1RlcFFFSnVSSERvRmhGaUtGdXNWM3ZpeW9kcTNlekdodTkwdGtVZ3Qxd0tULWNPZGUtdjVyc2M5WDlqcU16VFhmVWpHN2JUUndzY3JCbm9Jd2x6TVdUMDY0UzZ5dkMxUEduTWR2OHRxejBEY2hYSldmRUlvVEI2T1lhZ2V3Tmd1X0ZvSHRDTTlGdUJPSE5pWEg2ajlnUUZfc28?oc=5)
 
 ---
 

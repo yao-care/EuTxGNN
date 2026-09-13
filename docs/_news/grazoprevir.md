@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine'](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+
+2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+
+---
+
+### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
+
+2026-09-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
+
+---
+
+### [Chronische Entzündung: Semaglutid senkt CRP-Wert um 40 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG14bDJOTldHdVhfTGRaY0ZuTWgyZHd5bU1TWlJ3c3RrTVczTnZpSXJYLWZDT3VteUt2TVE4ZlNsMGIzdjVNT3VQMHk2V3NfQlpheWVXTExLUDdSR0xEeEtXeE9EVXBQOTV6T0FWWVYzUEpjOWs0cXB5ZHFNU3dLNU9NZlJPRWtlUkhDYkJrZHotTzdPWno5ejlXSmo5b0JhR01YMkVjOWgwTXVscVFHQg?oc=5)
+
+2026-09-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG14bDJOTldHdVhfTGRaY0ZuTWgyZHd5bU1TWlJ3c3RrTVczTnZpSXJYLWZDT3VteUt2TVE4ZlNsMGIzdjVNT3VQMHk2V3NfQlpheWVXTExLUDdSR0xEeEtXeE9EVXBQOTV6T0FWWVYzUEpjOWs0cXB5ZHFNU3dLNU9NZlJPRWtlUkhDYkJrZHotTzdPWno5ejlXSmo5b0JhR01YMkVjOWgwTXVscVFHQg?oc=5)
+
+---
 
 ### [Darmmikrobiom zeigt bereits bei jungen Menschen, wie das Gehirn altern wird](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUYxSUw1Wm1TZURTclF0eHQtd250OUNoSVJWSUVacF9ZYlRzSGZDTk5fZDJWYkRYOS1VaGdyQXRNc3dybzJYenBrNzJnRE54N1V5VXduZF9HNEJWbVJlWWZGSVU1bFJJTFRHeHZ4U2hyX25TWjB5cW5rd2JGbk5ETW9wa1hVTkNfb2E1VVJubVByc2c2Z093Ty1jdGNRd3FFQjc4ZjBYNlhEekhDLXhScg?oc=5)
 
@@ -62,11 +86,27 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Hautbarriere: Protein PKP1 fungiert als aktive Immunbremse](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDgyMF9xYmJGVXRiRjJmNkRTWFhTNlB0QmFlNnJtdGpodUxJakRqMlhsdWR1aEpoNlR3Qm9EX3A5b2ltdDFTRWN0RFVySjdQRVVlTTk0bDZCcFc0WXJnM0cwVUxZemFiSVhZVU15WEZIcEZGUmoyVVhwLUxBMmU1UDVEWUxhcGhCTkR2NkNDaFk2Si0tU3pNZWRIN3ZWRmpEWlNBNHRpUG5yZw?oc=5)
+
+2026-09-12 <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDgyMF9xYmJGVXRiRjJmNkRTWFhTNlB0QmFlNnJtdGpodUxJakRqMlhsdWR1aEpoNlR3Qm9EX3A5b2ltdDFTRWN0RFVySjdQRVVlTTk0bDZCcFc0WXJnM0cwVUxZemFiSVhZVU15WEZIcEZGUmoyVVhwLUxBMmU1UDVEWUxhcGhCTkR2NkNDaFk2Si0tU3pNZWRIN3ZWRmpEWlNBNHRpUG5yZw?oc=5)
+
+---
+
 ### [Dieci casi di epatite A tra Pisa e Livorno: possibile focolaio in uno stabilimento balneare del litorale](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
 
 2026-09-12 <span class="news-indication-tag">epatite</span>
 
 來源：[PisaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
+
+---
+
+### [Alzheimer-Früherkennung: Bluttest prognostiziert Symptome 3–6 Jahre voraus](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY09QWWFvWGtPY3FWWnhIUnpWampFTFprMlV5ZGxBWE5Fa1B4MDFFYWVWMUxXNGpIMG1fWGVPdDF4b2ZSdHFSNnM0ZGJ1bnV3MTQ3TGtDRzhOcUpBd0tyWnZiS25CS3ZkUnBzMW9LZlllaXVuTnZ0UDZ5cDVDZk1uM2tTRkp6cjljRzJoRmE4SFV1NzVXUXdBZHRlRXFBdlRidjNZ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">MS</span>
+
+來源：[BornCity](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY09QWWFvWGtPY3FWWnhIUnpWampFTFprMlV5ZGxBWE5Fa1B4MDFFYWVWMUxXNGpIMG1fWGVPdDF4b2ZSdHFSNnM0ZGJ1bnV3MTQ3TGtDRzhOcUpBd0tyWnZiS25CS3ZkUnBzMW9LZlllaXVuTnZ0UDZ5cDVDZk1uM2tTRkp6cjljRzJoRmE4SFV1NzVXUXdBZHRlRXFBdlRidjNZ?oc=5)
 
 ---
 
@@ -91,14 +131,6 @@ permalink: /news/grazoprevir/
 2026-09-11 <span class="news-indication-tag">MS</span>
 
 來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMHhybWwxUVpoMDlqSVhMRThwcXBsWnJPcVhTcEpzWWEwSFVfSzRLRmZWckhNRDJtTUh5M2E5RUFIQUQ0TUttdDBZaGxab2ZxVHUxcWdJdy1idVVubXRLVGQzSFo5WHF2QUR0TWVEVQ?oc=5)
-
----
-
-### [Bislang unbekannte Immunbremse in Hautzellen entdeckt](https://news.google.com/rss/articles/CBMinwFBVV95cUxQai1oYmN4WEd6Q25Sc1lhVXQxTGhPdlZwUEU1Tk1HLVdjLVdZaXdrRHE2QndNel9FSnc1TWxkN3FWU3lYN2oyT05EYnE2Z1dHNEp3SERuYml2SkpwRl85Mk9KUGVqN19fNFNGXzZkR08yWTF4ZGFNNGo1SUlUM1NuNnVwcllGOWNiTldBUzBvOGlrNEdFZHNveWJwRW5GU00?oc=5)
-
-2026-09-11 <span class="news-indication-tag">MS</span>
-
-來源：[nachrichten.idw-online.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQai1oYmN4WEd6Q25Sc1lhVXQxTGhPdlZwUEU1Tk1HLVdjLVdZaXdrRHE2QndNel9FSnc1TWxkN3FWU3lYN2oyT05EYnE2Z1dHNEp3SERuYml2SkpwRl85Mk9KUGVqN19fNFNGXzZkR08yWTF4ZGFNNGo1SUlUM1NuNnVwcllGOWNiTldBUzBvOGlrNEdFZHNveWJwRW5GU00?oc=5)
 
 ---
 
@@ -134,22 +166,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Ozempic-Studie: GLP-1 senkt offenbar Asthma- und COPD-Attacken - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
-
----
-
-### [Babies born to anaemic mothers have smaller brains, study finds - The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05BNGgyV09hSHlKOFEwUm5NUXVuZWw1bEtVMTQ2NzVJUVZHSEdfN1VKMEl3TVlnTEdIQVptU3hPSzZQOFUwYU41UnAwdEpJV2Z6U2l1VFdsVWc5V054VEtTdjZoSTBFa2twckxVQ3A1ZEg5U0V3dmFDamhhM0pEOE9lWUN6aTNFdHBvZmh2aVlhSlJGR2xubC1HOE9mcmRyeU80enFSRXMzNFNYQjF6TDB2NWdtOG9QbG9yRE1n?oc=5)
-
-2026-09-09 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05BNGgyV09hSHlKOFEwUm5NUXVuZWw1bEtVMTQ2NzVJUVZHSEdfN1VKMEl3TVlnTEdIQVptU3hPSzZQOFUwYU41UnAwdEpJV2Z6U2l1VFdsVWc5V054VEtTdjZoSTBFa2twckxVQ3A1ZEg5U0V3dmFDamhhM0pEOE9lWUN6aTNFdHBvZmh2aVlhSlJGR2xubC1HOE9mcmRyeU80enFSRXMzNFNYQjF6TDB2NWdtOG9QbG9yRE1n?oc=5)
-
----
-
 ### [Flushing the toilet can release a ‘plume’ of breathable pathogens – and closing the lid won’t stop their escape - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0NKRVRmc1FLTU9McWEwNTNDcVFyd3JBVExDaE03U3VCQ2RlbEMtVGhRZmpzNjF4WWNvdjEwc1R3eXd0enVsb2l6T3B2ZWRBSDcyYlQ5bTdxZkh3Q3Fnblo2S3p5SHBKbEUtOUNnSVlsb2JBcTRCbFd6VzlCN1pSSW9NRUVhaTYwWnF0N0RUM1JQWkt0eWdFOVFENWhIMTNQVF9v?oc=5)
 
 2026-09-08 <span class="news-indication-tag">MS</span>
@@ -163,14 +179,6 @@ permalink: /news/grazoprevir/
 2026-09-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
-
----
-
-### [MS-Forschung: Immunprotein schützt Nervenzellen bei Multipler Sklerose](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVC1VQm0ycUJfTUh4Y3M2dGlQdDYzSzA3VzBCOEN6VXRjektIRnFiLXV4c0VZd3l5LTBJVE02eHZlS1JXR2VIZG9VOTY2SjVvMnRnaU1udmlLSnNKS0M0b19tT0Z6a2RGUTgwOTVSLUc2bF8xWUw4OWl1TnNmd0VHRUM3UlF0Ym9wcDlUbGdzaGY?oc=5)
-
-2026-09-08 <span class="news-indication-tag">MS</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVC1VQm0ycUJfTUh4Y3M2dGlQdDYzSzA3VzBCOEN6VXRjektIRnFiLXV4c0VZd3l5LTBJVE02eHZlS1JXR2VIZG9VOTY2SjVvMnRnaU1udmlLSnNKS0M0b19tT0Z6a2RGUTgwOTVSLUc2bF8xWUw4OWl1TnNmd0VHRUM3UlF0Ym9wcDlUbGdzaGY?oc=5)
 
 ---
 

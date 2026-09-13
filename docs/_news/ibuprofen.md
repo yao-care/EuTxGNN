@@ -62,11 +62,11 @@ permalink: /news/ibuprofen/
 
 ---
 
-### [Alopecia Areata Consensus Statement Recommends First-Line Rx](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9nZWVaOTQ4ekxKQnBvWWxENWhxU3VYU2JVb0ZWVnVUblBxMDRUQnVtY3JlWVBBRWhBX3Axanl2cXdmQnQtOUJHZHM3ZEFrelJIR2F0cHJOd21HQ1lqd0JkNjlvYVNLNFpPYjU3Q2VNdTlhN0pkMmdObmd6YWtEOUh4a203Wk5GV3RzZGFrTjVBR2l5ZkdWV09QYURHdnpMSmc?oc=5)
+### [Dr Amir Khan issues warning to anyone on statins, ramipril and metformin - OK! Magazine](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3VndOTUR4UjU2S2F2aGxmRlpzX2xxbl82Q3NtUGdCdFJrdFVobzRCcmJWdHFTTFpWOEFMckItTlU4Zk9HZlJnOUg5ZWlxc1NYYndXY2M2NUV3VDJCVU55VXFRM1RONERqb192SGhJRUlaWmU5R1E?oc=5)
 
-2026-09-11 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
+2026-09-10 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span>
 
-來源：[medscape.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9nZWVaOTQ4ekxKQnBvWWxENWhxU3VYU2JVb0ZWVnVUblBxMDRUQnVtY3JlWVBBRWhBX3Axanl2cXdmQnQtOUJHZHM3ZEFrelJIR2F0cHJOd21HQ1lqd0JkNjlvYVNLNFpPYjU3Q2VNdTlhN0pkMmdObmd6YWtEOUh4a203Wk5GV3RzZGFrTjVBR2l5ZkdWV09QYURHdnpMSmc?oc=5)
+來源：[OK! Magazine](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3VndOTUR4UjU2S2F2aGxmRlpzX2xxbl82Q3NtUGdCdFJrdFVobzRCcmJWdHFTTFpWOEFMckItTlU4Zk9HZlJnOUg5ZWlxc1NYYndXY2M2NUV3VDJCVU55VXFRM1RONERqb192SGhJRUlaWmU5R1E?oc=5)
 
 ---
 

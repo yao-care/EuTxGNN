@@ -54,6 +54,14 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（3 則）
 
+### [Chronische Entzündung: Semaglutid senkt CRP-Wert um 40 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG14bDJOTldHdVhfTGRaY0ZuTWgyZHd5bU1TWlJ3c3RrTVczTnZpSXJYLWZDT3VteUt2TVE4ZlNsMGIzdjVNT3VQMHk2V3NfQlpheWVXTExLUDdSR0xEeEtXeE9EVXBQOTV6T0FWWVYzUEpjOWs0cXB5ZHFNU3dLNU9NZlJPRWtlUkhDYkJrZHotTzdPWno5ejlXSmo5b0JhR01YMkVjOWgwTXVscVFHQg?oc=5)
+
+2026-09-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG14bDJOTldHdVhfTGRaY0ZuTWgyZHd5bU1TWlJ3c3RrTVczTnZpSXJYLWZDT3VteUt2TVE4ZlNsMGIzdjVNT3VQMHk2V3NfQlpheWVXTExLUDdSR0xEeEtXeE9EVXBQOTV6T0FWWVYzUEpjOWs0cXB5ZHFNU3dLNU9NZlJPRWtlUkhDYkJrZHotTzdPWno5ejlXSmo5b0JhR01YMkVjOWgwTXVscVFHQg?oc=5)
+
+---
+
 ### [Marcador genético común predice deterioro motor más rápido en la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWpSUjIzSFcxYkRCUk5QLWRUQnhETktlaTE4RDRDbEMzUlVqVHlaWG8xX2c0bkhKYWZrZVdCOGdCZ0tUZVZ4dDc3TWZHZGFMMnk3dW15YW9GT1hFck5MT1VUNmFHZFlEUUlCZlBxcWdsellsNHllVzJ6MzN5UjhOdkZoR0kwU1VfbXpHV2JRZzZucHJCTHVNQllTUlJfcXNpcHRoTW90S0hkQ25McmF5R0JrZzd2UjBJZmh2V1ltdVZITW9aN1NvNXhSTDZqZWljcG1jQ0FWZWRPZ1dkYml5bm1jMGg2UHlGcU9V0gH6AUFVX3lxTE1vRC14SnZwR2pXM3dOVDJnM1NEaXk1WXlSRjA5UDlKbVEyOXNCY2xCc1FYUXdzSExmLWRZdzBhanEydEtMZ04zOGE3V2t6b0RyOE91UDJaeFNNd2czbXdwMmJGckVWUjBvbnZGNnZDdHNYbHUtemR3cDZmNENDUjV0YnZkbDVyVC14SWtDSGw2VVVEUTNYdW5Sa0JJN3NlengxWE93RmJJX3J1SEdJS1lReG9xcEJfbTY3M3Z5WkVkTGhIYlFmd3psLS1FdXJ3V0tqaVpYV0s1NG5MRDk4enFSb2w3RHRDSlU4cXpfMjdBVDNVLUVCbmpVaXc?oc=5)
 
 2026-09-11 <span class="news-indication-tag">enfermedad de Parkinson</span>
@@ -67,14 +75,6 @@ permalink: /news/botulinum-toxin-type-a/
 2026-09-11 <span class="news-indication-tag">copd</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
-
----
-
-### [Ozempic-Studie: GLP-1 senkt offenbar Asthma- und COPD-Attacken - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFRYTFpMUlQdEc4SE5PX0dmb0pFWnFYMV9HakJaR0NhYWxiMVdNdmZBakVod0I4RUlkNXJLeGdYZTM1WnFKV29pVWpoRlRyS25Uc0dwb3JpZ2wzZlJwWElJc0U3VWZaWXJBUE5icWZjS0FmYk9wV2N6R3p1UXlZcGo0RTNUTjdtejFiNm0wejh5T0VDczJF?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Artrosi, artrite, sciatalgia, mal di schiena e dolore cronico: cosa può fare davvero la Boswellia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
 
 2026-09-12 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
-
----
-
-### [Fausse ordonnance, marché parallèle… Vive inquiétude autour de l’utilisation détournée de plusieurs médicaments anti-obésité - Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
-
-2026-09-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1lVQW5BbmpSc2JPV0RPVDNHZ0U1Slo1dDVYdzk5bnZLOEI5S2JuMDJMYjNuakFZdS1UNE1vbFk0d2lMd2pDY2lDMUM5REU2V21qQXFuVlAtTmR2eVphQnZQM0Q1d0IyS0dOTXBXcS02Ym5BYXY1cTVnUG8tTndyM201Q1hXSDh5Q2VrOWwxOXhCc1l6N1ZJelA4cVJtV0dxR3hJRTN4bFkyTTY4RXBieTJybUZYdm1PaUJFRWRKUk5sNjlWSHpxTHVzRjRUWGkwVzZ1X1hRZVFKODBQMmxzdW94VUVrMkx0QmN5TkNjZUtLWjl6MFdIakh2ZFpsbThlUGl4V3lWRjNTdw?oc=5)
-
----
-
-### [Alopecia Areata Consensus Statement Recommends First-Line Rx](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9nZWVaOTQ4ekxKQnBvWWxENWhxU3VYU2JVb0ZWVnVUblBxMDRUQnVtY3JlWVBBRWhBX3Axanl2cXdmQnQtOUJHZHM3ZEFrelJIR2F0cHJOd21HQ1lqd0JkNjlvYVNLNFpPYjU3Q2VNdTlhN0pkMmdObmd6YWtEOUh4a203Wk5GV3RzZGFrTjVBR2l5ZkdWV09QYURHdnpMSmc?oc=5)
-
-2026-09-11 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[medscape.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9nZWVaOTQ4ekxKQnBvWWxENWhxU3VYU2JVb0ZWVnVUblBxMDRUQnVtY3JlWVBBRWhBX3Axanl2cXdmQnQtOUJHZHM3ZEFrelJIR2F0cHJOd21HQ1lqd0JkNjlvYVNLNFpPYjU3Q2VNdTlhN0pkMmdObmd6YWtEOUh4a203Wk5GV3RzZGFrTjVBR2l5ZkdWV09QYURHdnpMSmc?oc=5)
 
 ---
 

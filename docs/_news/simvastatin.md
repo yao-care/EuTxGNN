@@ -86,19 +86,19 @@ permalink: /news/simvastatin/
 
 ---
 
+### [Analyse: Schlaganfall-Risiko in den Monaten nach Krebsdiagnose verdoppelt](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
+
+---
+
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Gelbe Fettablagerungen am Auge könnten ein Warnsignal sein](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3dITTVHc0NkRGd5Y0tqWnVyYTBBLUZjSFNGLUZ1eWN5MDFYT3RCczZ2UWoxbjFNTEREUWZwNUFiaTJsNHd2VHA0OEtMVnZ4a0RHbm5JN2NrTEJhWl9iS0J3LXJ6TTJITFFIbXdoRGZkSE1PekExa2YwOFM2SVhRbEZ2X1lfS3VFVGt5X1RMMXRZZDNlVnFoMFpHZzFsVG1GMWoya1ViR0tRdXF2ZFlBR3N3UlM1d0VlYVRlM1I5VWRRcFU?oc=5)
-
-2026-09-08 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3dITTVHc0NkRGd5Y0tqWnVyYTBBLUZjSFNGLUZ1eWN5MDFYT3RCczZ2UWoxbjFNTEREUWZwNUFiaTJsNHd2VHA0OEtMVnZ4a0RHbm5JN2NrTEJhWl9iS0J3LXJ6TTJITFFIbXdoRGZkSE1PekExa2YwOFM2SVhRbEZ2X1lfS3VFVGt5X1RMMXRZZDNlVnFoMFpHZzFsVG1GMWoya1ViR0tRdXF2ZFlBR3N3UlM1d0VlYVRlM1I5VWRRcFU?oc=5)
 
 ---
 

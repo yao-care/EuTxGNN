@@ -14,7 +14,7 @@ permalink: /news/ivacaftor/
 ---
 
 <p class="key-answer" data-question="Ivacaftor 有什麼相關新聞？">
-<strong>Ivacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ivacaftor</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ivacaftor/
 <p><a href="{{ '/drugs/ivacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Artrosi, artrite, sciatalgia, mal di schiena e dolore cronico: cosa può fare davvero la Boswellia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
 
 2026-09-12 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
-
----
-
-### [Alopecia Areata Consensus Statement Recommends First-Line Rx](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9nZWVaOTQ4ekxKQnBvWWxENWhxU3VYU2JVb0ZWVnVUblBxMDRUQnVtY3JlWVBBRWhBX3Axanl2cXdmQnQtOUJHZHM3ZEFrelJIR2F0cHJOd21HQ1lqd0JkNjlvYVNLNFpPYjU3Q2VNdTlhN0pkMmdObmd6YWtEOUh4a203Wk5GV3RzZGFrTjVBR2l5ZkdWV09QYURHdnpMSmc?oc=5)
-
-2026-09-11 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[medscape.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9nZWVaOTQ4ekxKQnBvWWxENWhxU3VYU2JVb0ZWVnVUblBxMDRUQnVtY3JlWVBBRWhBX3Axanl2cXdmQnQtOUJHZHM3ZEFrelJIR2F0cHJOd21HQ1lqd0JkNjlvYVNLNFpPYjU3Q2VNdTlhN0pkMmdObmd6YWtEOUh4a203Wk5GV3RzZGFrTjVBR2l5ZkdWV09QYURHdnpMSmc?oc=5)
 
 ---
 

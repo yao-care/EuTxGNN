@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine'](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+
+2026-09-13
+
+來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+
+---
 
 ### [Así ayuda el complejo de la harina de algarroba a los pacientes con enfermedades metabólicas - Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPblBjdHlUbkxQb0M1RnR2OHNQSW5tMEFUZlFQTS1kaklWbGpHNGd4aEM1TlBKaVlqeTd5ZUhGaEdXZVd4amIwcVhVeU91UzhmUU9TdjFMZ1J4RWJ2RTBpVm9mVE9CRkpxcGd5Z2QwY0JHRnI4QWRreTJUVHpQeWFLSUFWRG5pX3dCWWpmXzFaRDdxZW1Za0dKbGlHQmpVSDVMRG1pcWpiRlNyTENaOC1nZ0QyN3ZLdVItblJ0YVJoTTYxeUxGZXFQeDhuVWxHN1Zzd19acTFxaDZYOGJGODdZNG8tdmctenVVSGQ1RUFFaE9waGRBUWlia2poYWVPZ9IBiAJBVV95cUxPUGx6akdwTG9Ib0FyUDRaQW1NaUpEcldPaHYzX0lHREdwM2dfSk8tSzlVanJUU1FPRVRJcmdndDNnQzIxa1dxT2QxNzZ4WHA4NHZZRXZudzdwaFNFT3lFcHJLOFp2UlNxX0J0SVM2S2FlaEw1YUlDT3N1a1g1N1dZMGJ6cGZOWjBrN0ZyRWR2WDA2Y04xRnhCYUZhRnJlMzBWbXl0Z0dCS2xvUU5Sb2xDdmNMRjhjNFZMVUNhTFotbzRTZVd6dU1wWS1MSWRMQjNhMDZnWGx0VlZBWS1SeG9OQjFKT1QtUWlUVG5id3FCN0JybTNYb0J6OC1hc1FYeEFxWG5FV2w5ZWo?oc=5)
 
@@ -140,11 +148,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
+### [Experten empfehlen systematisches Screening von Kindern auf Typ-1-Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
 
 2026-09-11
 
-來源：[nachrichten.idw-online.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC1jRG1VeF9NeXBxVXlVaHgyYWs4N3RyeS1kaFBLdDAtVkZXeFhQWDZ3OWNIQWZ6bW1QU1BvalJUZThMWDhBVF9wazg0dnk2TkJzd2VBQUJ0LVRvellHQV8xd0ZpSXk1SFF6cGUtczVkWU5zem12NGt6aU1WSDlmQS01ak95WVpXaGxVYWctOGZpZXdOa0R3cjNLZURUQjJwNEVTdnJCQl9QeDlxZVlPSHoxTWNXYnliRGFKRGxPZFU2Z3RKVl9QY1ZOdlA?oc=5)
 
 ---
 
