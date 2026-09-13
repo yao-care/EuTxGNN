@@ -86,11 +86,11 @@ permalink: /news/tolcapone/
 
 ---
 
-### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
+### [Deep-sleep loss linked to Alzheimer's-related protein buildup in new study - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVFEUHpmTkR3Q2pINDNzcl9DLUVVZ1RuV3RjVVVBa3ZEOFM3UWp4T0NVU0dhc000cFRJMV9Vb2ZOZEdSTVl6YW9LZmI0a0VQN1ZPamZsWG03cEp1SGFkYmFzU2FXRmllTGgtS0hHUHhoV0g5cXA5U3poN2h3dFp4cTJOczQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">alzheimer disease</span>
 
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVFEUHpmTkR3Q2pINDNzcl9DLUVVZ1RuV3RjVVVBa3ZEOFM3UWp4T0NVU0dhc000cFRJMV9Vb2ZOZEdSTVl6YW9LZmI0a0VQN1ZPamZsWG03cEp1SGFkYmFzU2FXRmllTGgtS0hHUHhoV0g5cXA5U3poN2h3dFp4cTJOczQ?oc=5)
 
 ---
 

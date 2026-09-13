@@ -14,7 +14,7 @@ permalink: /news/sorafenib/
 ---
 
 <p class="key-answer" data-question="Sorafenib 有什麼相關新聞？">
-<strong>Sorafenib</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sorafenib</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sorafenib/
 <p><a href="{{ '/drugs/sorafenib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（34 則）
 
-### [Krebsforscherin: „Wir sind unserem Krebsrisiko nicht vollkommen ausgeliefert“](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVUYtd0NQSm1lSkZvWlQxRUZKWVQyNFZSVnlsbkZQRFNkVUhkZklRYzdGTmZWNE5xeXpXNGxDSkdiZUhpUjFWWWtIMjd2SDVQY05rck5vazc4OUtyRFQtS0lIT3gwMkE1WFFsRFE1ZjZNRjJ3b0R1bVE2U3YzdWo0dUtFTzRQbXlJQnhPMUJ0b2w4THM2UU9pOHoxdGc4U1lOaUNoTDhxNWJIN254YWdYVUE4UnU5NEpYN3NwczBnSTF4S2M4SlptY2tkWjZyQk1CSmxpRjdn?oc=5)
+### [Vers un dépistage personnalisé du cancer du côlon en Suisse](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkZISzhPdWVGaUtXX1JJRzcwU3pZVjFTdnZ3MWl3LUhESTc5SkI0WHRHeDhxM2sxZ1ZEOG45bDJtdE5EX2c5WmJOUk9NVGZFa2MyUGZSNk9wTnJFZWttOHVHNUJqdnB2TGI0OXRPbnRQNldwMEZ6QlpEdTB6dFA1djllTFdlLVYyMy0zUVlBOHgtRlNiM2ZCSkJzVm9JRVdfLVJEd0ZOUFM4c1l0TjNTVFhtTQ?oc=5)
 
-2026-09-13 <span class="news-indication-tag">Krebs</span>
+2026-09-13 <span class="news-indication-tag">cancer</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVUYtd0NQSm1lSkZvWlQxRUZKWVQyNFZSVnlsbkZQRFNkVUhkZklRYzdGTmZWNE5xeXpXNGxDSkdiZUhpUjFWWWtIMjd2SDVQY05rck5vazc4OUtyRFQtS0lIT3gwMkE1WFFsRFE1ZjZNRjJ3b0R1bVE2U3YzdWo0dUtFTzRQbXlJQnhPMUJ0b2w4THM2UU9pOHoxdGc4U1lOaUNoTDhxNWJIN254YWdYVUE4UnU5NEpYN3NwczBnSTF4S2M4SlptY2tkWjZyQk1CSmxpRjdn?oc=5)
+來源：[rts.ch](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkZISzhPdWVGaUtXX1JJRzcwU3pZVjFTdnZ3MWl3LUhESTc5SkI0WHRHeDhxM2sxZ1ZEOG45bDJtdE5EX2c5WmJOUk9NVGZFa2MyUGZSNk9wTnJFZWttOHVHNUJqdnB2TGI0OXRPbnRQNldwMEZ6QlpEdTB6dFA1djllTFdlLVYyMy0zUVlBOHgtRlNiM2ZCSkJzVm9JRVdfLVJEd0ZOUFM4c1l0TjNTVFhtTQ?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/sorafenib/
 
 ---
 
-### [Un patient sur deux atteint de cancer affirme ne pas avoir été associé aux décisions concernant son traitement par radiothérapie](https://news.google.com/rss/articles/CBMiogJBVV95cUxNSUhuM3lzZWVzRDdmUS03c2Q3bTc4MXE4N0k4clF2TkotTUNVUENRUHVQS0NDRWVPQlJDdW93OFYza1lNTnJOSlZLLURMb3hUWEs1ZTVaZERSdWU5bVFTUW5XUUowTHNwTHVhT1NUUWhCZnFTU1R2N2hIaGo0MkMyNXVfVkpRNm5jS3EybXk5WUNpNjF6S09mUklMLWZoVVpLVkFLN2R2dUVHU2hacFNBTHRfSzdaQXFBbnY1MV9qeVVIWWhjN3FiVm9yTF9hOVFJSDhCeEFHOTVtaHFUMXNhNWw0T3dUbXZqSnE5Nk9XWlRPdkNnSFoxT2NjbGY0UUMwNDhNbHQyRjFNRTdPZ2pYcVVZTGFSNklwUHlOcmRuQ2FvZw?oc=5)
+### ["On m'a volé mon choix" : soignés par radiothérapie pour vaincre leur cancer, des patients regrettent d'avoir été peu écoutés par les équipes médicales](https://news.google.com/rss/articles/CBMitAJBVV95cUxQejFBWE1VTTF3NHZVdlpic1lQX29OZG9KMHVMQktUSWdfQnQ2TFFVOWtUMTY3U1NBdnIzMzdOMktRdVgtaVpsX0dVVHQzTEU4MmFwTnF4NlgtU21abGs2UEtOclhDTXNMQ1pmQ2RHX2JiZjFacHVidlJWUTJVUXFRbEVuaUNFX3dxMUxHRjZEcG1Zc2tTa3lxWVk2U3hRSTBHeFBGQkNHT2s5QWJIcF80R2wyRzk5YWVmelYwRUZLYjJBN3N6NVVWckpaWmNHU0dfUUtWSTM2MjBVbHhVRXEwQ0g3RGxrSWZxcWtHdVd5M2NIdGFDeG12bUxtcFlXOGpHa20xSVF5Xy1TbGc2QlZmWU5aLUVVZC1VWl9TMnB3VU9LNkdQVEd5V1U1QzFrSEpnN2NmNA?oc=5)
 
-2026-09-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-09-13 <span class="news-indication-tag">cancer</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiogJBVV95cUxNSUhuM3lzZWVzRDdmUS03c2Q3bTc4MXE4N0k4clF2TkotTUNVUENRUHVQS0NDRWVPQlJDdW93OFYza1lNTnJOSlZLLURMb3hUWEs1ZTVaZERSdWU5bVFTUW5XUUowTHNwTHVhT1NUUWhCZnFTU1R2N2hIaGo0MkMyNXVfVkpRNm5jS3EybXk5WUNpNjF6S09mUklMLWZoVVpLVkFLN2R2dUVHU2hacFNBTHRfSzdaQXFBbnY1MV9qeVVIWWhjN3FiVm9yTF9hOVFJSDhCeEFHOTVtaHFUMXNhNWw0T3dUbXZqSnE5Nk9XWlRPdkNnSFoxT2NjbGY0UUMwNDhNbHQyRjFNRTdPZ2pYcVVZTGFSNklwUHlOcmRuQ2FvZw?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMitAJBVV95cUxQejFBWE1VTTF3NHZVdlpic1lQX29OZG9KMHVMQktUSWdfQnQ2TFFVOWtUMTY3U1NBdnIzMzdOMktRdVgtaVpsX0dVVHQzTEU4MmFwTnF4NlgtU21abGs2UEtOclhDTXNMQ1pmQ2RHX2JiZjFacHVidlJWUTJVUXFRbEVuaUNFX3dxMUxHRjZEcG1Zc2tTa3lxWVk2U3hRSTBHeFBGQkNHT2s5QWJIcF80R2wyRzk5YWVmelYwRUZLYjJBN3N6NVVWckpaWmNHU0dfUUtWSTM2MjBVbHhVRXEwQ0g3RGxrSWZxcWtHdVd5M2NIdGFDeG12bUxtcFlXOGpHa20xSVF5Xy1TbGc2QlZmWU5aLUVVZC1VWl9TMnB3VU9LNkdQVEd5V1U1QzFrSEpnN2NmNA?oc=5)
 
 ---
 
@@ -134,19 +134,27 @@ permalink: /news/sorafenib/
 
 ---
 
-### [Stourbridge gran says she remains positive despite her third cancer diagnosis in 15 years](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uQzB6Z0xVNnBfMzlhQ3NYRUZPMTlUNFVzSzlZbFRVNXhpelEwQkFlVVZ1Vnd1NEF6dDMtTXNJck9Qc0p4S0Q5NHdOMUNtdWxfc0JuUlJZYjcwWDR2?oc=5)
-
-2026-09-12 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uQzB6Z0xVNnBfMzlhQ3NYRUZPMTlUNFVzSzlZbFRVNXhpelEwQkFlVVZ1Vnd1NEF6dDMtTXNJck9Qc0p4S0Q5NHdOMUNtdWxfc0JuUlJZYjcwWDR2?oc=5)
-
----
-
 ### ['This doesn't happen to us' - mum on child's cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sOHBMNFpFeXdJN1JaYXFSeGUwNW9wRHFyTEJmUFBXZ3dSSk10VG93dzFLNkx0N1hNZl9wZUszdVVfT1ZmdUZOQVlRWVRkQWVIWlJrR1FJUmFycXhV?oc=5)
 
 2026-09-12 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sOHBMNFpFeXdJN1JaYXFSeGUwNW9wRHFyTEJmUFBXZ3dSSk10VG93dzFLNkx0N1hNZl9wZUszdVVfT1ZmdUZOQVlRWVRkQWVIWlJrR1FJUmFycXhV?oc=5)
+
+---
+
+### [“I’m too young to have cancer”: Why young Indians are dismissing warning signs that should not be ignored - The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxON2I5aFkxQmlyNTdpTUNoaDk1SHU3M2hnLUgycFRlbVNTdFV6TTNzTE5vWDhRdGhjb1J6Y2ZkU3R1dHNocElrSTk0YWo0dmU2Ym1IaFluQy1tc1RTSTJRZm9OazZ2bGFndlg4LTRZWUVVaFBwOHg3SE0yOEh2MzBsTzJzanVTb0VFYmM3SnFwN3d1SHpyVUhsS0toMUl2MFRDVXFJS25idXpaUlRGejl3d2NoYlNPeWlqMWY1T0tqX0ZQT2IwcllNdFgyR09qV3ZZSGFBMTU3M1hGQ1RUdGZqVzVzcFFXbTYtRzlMNGgyWlN3c0tvMFZMRkdCSVI0d9IBhgJBVV95cUxOcFg3QzAxeWVxRkQ1anUta0lZNktMVFQyTHExU2lxMlJTZkNvTDFUYzZIQlpQQmNKUldtc0tJT0VpcWoyU2cwZmRtZ0hEbTB2cXpsSGtvTHduYjgtVUVRUEFyR0NVTFc0ZE1CSWFLazg0alpScVQyb1kwXzFVTjJjRUI1RXNnQ1M3UTNIcGtyN0dkSnZqRmkzNVJmOUVVd2RMb3AzMVJ3N3VOR0NsYjBLT0xZaktQTWFzNi1Ud0xDSGVkZk5jRy1wYkVmUVAwWnlFS2tpUWRaZk5TcERkYnZ0dGZ6WVhZRTNJZ3pXTUhlU29MRzhGTHlTLWhsQ3FjV0FQSS14R3lR?oc=5)
+
+2026-09-12 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxON2I5aFkxQmlyNTdpTUNoaDk1SHU3M2hnLUgycFRlbVNTdFV6TTNzTE5vWDhRdGhjb1J6Y2ZkU3R1dHNocElrSTk0YWo0dmU2Ym1IaFluQy1tc1RTSTJRZm9OazZ2bGFndlg4LTRZWUVVaFBwOHg3SE0yOEh2MzBsTzJzanVTb0VFYmM3SnFwN3d1SHpyVUhsS0toMUl2MFRDVXFJS25idXpaUlRGejl3d2NoYlNPeWlqMWY1T0tqX0ZQT2IwcllNdFgyR09qV3ZZSGFBMTU3M1hGQ1RUdGZqVzVzcFFXbTYtRzlMNGgyWlN3c0tvMFZMRkdCSVI0d9IBhgJBVV95cUxOcFg3QzAxeWVxRkQ1anUta0lZNktMVFQyTHExU2lxMlJTZkNvTDFUYzZIQlpQQmNKUldtc0tJT0VpcWoyU2cwZmRtZ0hEbTB2cXpsSGtvTHduYjgtVUVRUEFyR0NVTFc0ZE1CSWFLazg0alpScVQyb1kwXzFVTjJjRUI1RXNnQ1M3UTNIcGtyN0dkSnZqRmkzNVJmOUVVd2RMb3AzMVJ3N3VOR0NsYjBLT0xZaktQTWFzNi1Ud0xDSGVkZk5jRy1wYkVmUVAwWnlFS2tpUWRaZk5TcERkYnZ0dGZ6WVhZRTNJZ3pXTUhlU29MRzhGTHlTLWhsQ3FjV0FQSS14R3lR?oc=5)
+
+---
+
+### [« Ce n’est pas un tatouage décoratif » : après son cancer du sein, Céline pensait enfin tourner la page, mais sa mutuelle refuse de rembourser le « point final » de sa reconstruction - RTL Info](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlBCRkR6SFBsWkx0MHdPejgzdzhiRC1DZnhxMWdqUWFUSDd2QjczQ0Y5dHpMXzBzMDFDWndtWk9VVEtfaG53R3hCaHZtNVN4QTJXTzdUSWhUbDVJbkY0RGQxdjBZU19RUU5tZ1RKcTZMT29DSkUzUnd4VkRlTkNKZXJxaTd2M3QzWGdyRlNaZHlNcjdSeE16NEpRRkw5WW0yMzJRWGdmSlFlNDZQRzZ1RUx5Z0VITVVRRDNXTnlGWHo0VndsVXhTSWNuSHo1Qnh6bkRrX1hGVjJWRjQ0QVE?oc=5)
+
+2026-09-12 <span class="news-indication-tag">cancer</span>
+
+來源：[RTL Info](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlBCRkR6SFBsWkx0MHdPejgzdzhiRC1DZnhxMWdqUWFUSDd2QjczQ0Y5dHpMXzBzMDFDWndtWk9VVEtfaG53R3hCaHZtNVN4QTJXTzdUSWhUbDVJbkY0RGQxdjBZU19RUU5tZ1RKcTZMT29DSkUzUnd4VkRlTkNKZXJxaTd2M3QzWGdyRlNaZHlNcjdSeE16NEpRRkw5WW0yMzJRWGdmSlFlNDZQRzZ1RUx5Z0VITVVRRDNXTnlGWHo0VndsVXhTSWNuSHo1Qnh6bkRrX1hGVjJWRjQ0QVE?oc=5)
 
 ---
 
@@ -158,35 +166,27 @@ permalink: /news/sorafenib/
 
 ---
 
-### [Magenkeim unter Verdacht: Studie verknüpft Helicobacter pylori mit Darmkrebs](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjdPY1k4YXpVQ281RUZMajFNQWFtWmI3V2R1SU1NUDVweEVZWEtEeUNJYnR0b2VybldNbmxvbmJ2aUtEc1o3R0h1d3FadWhCZUlvMlNaSkJyaG9JR3JwM09MV3IwOWQtZnllVDJILU1rTmZ1cDU0UkEtOUxIYmI1X2ttTmN4X0l6eFFRR3dZd2wwU0NfNmhQN2VwTVJGLUFLdmlObXhRQzhDcXJFSUl0bFptUDl4d3dueV9LeQ?oc=5)
+### [Magenkeim H. pylori: 1,6-fach erhöhtes Darmkrebsrisiko belegt](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGxjZU9aYTRoTmNNRkZ6MHVIY0oxSVhtVkV5Mk1xX1N0NjhLRDVfeTVTamhDNU9Pc3NQMmtPcVlaM01GbHNvNlpDM05WREZBLXQ5Qy1sVDB4TFdRWnAzWldTWktvRG4waHctLXJhRkpOeThfYVVGRjBXcmNUeUFBZjd3Qk5RTFFZWmN5RjRHSDRUb2pPdkdYbFo3Zm04ajZKeE9VX1JPc05sYkpPelE?oc=5)
 
 2026-09-11 <span class="news-indication-tag">Krebs</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjdPY1k4YXpVQ281RUZMajFNQWFtWmI3V2R1SU1NUDVweEVZWEtEeUNJYnR0b2VybldNbmxvbmJ2aUtEc1o3R0h1d3FadWhCZUlvMlNaSkJyaG9JR3JwM09MV3IwOWQtZnllVDJILU1rTmZ1cDU0UkEtOUxIYmI1X2ttTmN4X0l6eFFRR3dZd2wwU0NfNmhQN2VwTVJGLUFLdmlObXhRQzhDcXJFSUl0bFptUDl4d3dueV9LeQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGxjZU9aYTRoTmNNRkZ6MHVIY0oxSVhtVkV5Mk1xX1N0NjhLRDVfeTVTamhDNU9Pc3NQMmtPcVlaM01GbHNvNlpDM05WREZBLXQ5Qy1sVDB4TFdRWnAzWldTWktvRG4waHctLXJhRkpOeThfYVVGRjBXcmNUeUFBZjd3Qk5RTFFZWmN5RjRHSDRUb2pPdkdYbFo3Zm04ajZKeE9VX1JPc05sYkpPelE?oc=5)
 
 ---
 
-### [Tumore del pancreas, daraxonrasib non ancora disponibile in Italia. AIOM: «Avviare subito l'uso compassionevole»](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaXJ5WVVFbHBPRnlGRzBFcmNPdTNCYXpMaktwN1Y2UjZ1RElWQ0VJZ3dPYVNZM3pnZDJZRWlyc21jSUx4cXNuNnBhM1Rmc1d0NUs1WTd4NGRVczQ3NXc5Ym53X1pXWHJNZDFfZDBTRUhpYjRjWnNMX0JsQTVsY2o5d2NCYy1CazFLMGpUZWdRN2RrTURKcnlROUZOelMydGlSMU5PVXBvQl9Hb1dMTGpEemlURUZtN0hLcjQxQVBONWs1a180LUpGYVFqTTdPckxwcERCdXhsWDlmSGxQT0I1NC04bllQZUdf?oc=5)
+### [Tumore del pancreas. Aiom: “Daraxonrasib non ancora disponibile in Italia. Avviare subito l’uso compassionevole” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
 
 2026-09-11 <span class="news-indication-tag">tumor</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaXJ5WVVFbHBPRnlGRzBFcmNPdTNCYXpMaktwN1Y2UjZ1RElWQ0VJZ3dPYVNZM3pnZDJZRWlyc21jSUx4cXNuNnBhM1Rmc1d0NUs1WTd4NGRVczQ3NXc5Ym53X1pXWHJNZDFfZDBTRUhpYjRjWnNMX0JsQTVsY2o5d2NCYy1CazFLMGpUZWdRN2RrTURKcnlROUZOelMydGlSMU5PVXBvQl9Hb1dMTGpEemlURUZtN0hLcjQxQVBONWs1a180LUpGYVFqTTdPckxwcERCdXhsWDlmSGxQT0I1NC04bllQZUdf?oc=5)
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
 
 ---
 
-### [Aifa approva inavolisib: prima terapia personalizzata per carcinom](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZHYtU3JPUVVyLS1wQTNlNG1GS2xCOFRBVUtrbldTLVkxSzFBNG55MFJMWFpfd1BjOHQ2OFZybElNWWhjZ2VKRWJhQkwxdklhVzNLSnhwaXpWMnN4d1V0dUgzaEp2V3NlQlFweGRJOTM1NXVEd3RvM3dtLVctNy1KdUF5X3Q4VFVrZ1pyQXVqX0JUanNMaThVU1RVYkhRUWt1Z1Z4dHpkZTlUWFRJMGx3cTFlLVZrMXZhd1ByVG5xWk5PdzdLMmQzQjJ2dGdGRXR4aDFvQ25ETWxLWHJobDBaN0RqNkVlb0dxT1dBQ013dndma25rbFBzcWVTbnAydXVyeXVoZl93N3l1X3c?oc=5)
+### [Aifa approva inavolisib: prima terapia personalizzata per carcinom](https://news.google.com/rss/articles/CBMiigJBVV95cUxPQmd0cHpPbnhnOGpGT09wMkd1dXZiTHU2RTJIN3FwU1R3dTVVNTBNRU9rWHdWTnVQanJneHdVdTlXcmM5a1NTV0N4RVFGbW1QaGxEVzJoeXdtSTktdUJTM3BLUllSbloxeGROX1VyQmlLbG5QdFVrbFBlTzROZkdFeExSck85WHVPZ0dxN1hUZEtPZ0dJTlVmWGJ0aFV1Z3lBdnVuMXJfYkZVemh2dDFkX3lNUUlLNkluVjhpckFLOUkwaDRJZnZZa3FtbVFNMkJTTFZja21OWmNEbmliT3doaUFVZFJKR0g0bUIwREFSVUluWEtlZGlYWUlYVW12eF9TUlVvRUNJM1dyQQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">carcinoma</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZHYtU3JPUVVyLS1wQTNlNG1GS2xCOFRBVUtrbldTLVkxSzFBNG55MFJMWFpfd1BjOHQ2OFZybElNWWhjZ2VKRWJhQkwxdklhVzNLSnhwaXpWMnN4d1V0dUgzaEp2V3NlQlFweGRJOTM1NXVEd3RvM3dtLVctNy1KdUF5X3Q4VFVrZ1pyQXVqX0JUanNMaThVU1RVYkhRUWt1Z1Z4dHpkZTlUWFRJMGx3cTFlLVZrMXZhd1ByVG5xWk5PdzdLMmQzQjJ2dGdGRXR4aDFvQ25ETWxLWHJobDBaN0RqNkVlb0dxT1dBQ013dndma25rbFBzcWVTbnAydXVyeXVoZl93N3l1X3c?oc=5)
-
----
-
-### [Descubren cómo el envejecimiento del cerebro puede influir en la evolución de los tumores cerebrales](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdS0tc3dvX0ZlNTYyRG9hdFA5UnBwNF9SWFZDUzdtNHprbm5VMkdVbVNwLS1NMERDWEotWjllOVVwT1ZSdmhpN045aEN3b0VXUS1pU2NYZ3Nsc1NwbDJvTWtZa05weEd1SlhUY09XdUlCWDFON0IweTVveU1XeTBfNWlBTk9jTkpNV0F6QW1BYWpkS2R5T1R2WUYzTGo1dm85UTVQWVBCMTA2WHkwVVV3a2h1NUdjNmp5TEpHcUlJWQ?oc=5)
-
-2026-09-11 <span class="news-indication-tag">tumor</span>
-
-來源：[cfg.sld.cu](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdS0tc3dvX0ZlNTYyRG9hdFA5UnBwNF9SWFZDUzdtNHprbm5VMkdVbVNwLS1NMERDWEotWjllOVVwT1ZSdmhpN045aEN3b0VXUS1pU2NYZ3Nsc1NwbDJvTWtZa05weEd1SlhUY09XdUlCWDFON0IweTVveU1XeTBfNWlBTk9jTkpNV0F6QW1BYWpkS2R5T1R2WUYzTGo1dm85UTVQWVBCMTA2WHkwVVV3a2h1NUdjNmp5TEpHcUlJWQ?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiigJBVV95cUxPQmd0cHpPbnhnOGpGT09wMkd1dXZiTHU2RTJIN3FwU1R3dTVVNTBNRU9rWHdWTnVQanJneHdVdTlXcmM5a1NTV0N4RVFGbW1QaGxEVzJoeXdtSTktdUJTM3BLUllSbloxeGROX1VyQmlLbG5QdFVrbFBlTzROZkdFeExSck85WHVPZ0dxN1hUZEtPZ0dJTlVmWGJ0aFV1Z3lBdnVuMXJfYkZVemh2dDFkX3lNUUlLNkluVjhpckFLOUkwaDRJZnZZa3FtbVFNMkJTTFZja21OWmNEbmliT3doaUFVZFJKR0g0bUIwREFSVUluWEtlZGlYWUlYVW12eF9TUlVvRUNJM1dyQQ?oc=5)
 
 ---
 
@@ -222,6 +222,22 @@ permalink: /news/sorafenib/
 
 ---
 
+### [Descubren cómo el envejecimiento del cerebro puede influir en la evolución de los tumores cerebrales](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1BZeS1PZ2JHeURFY1ZwT1lqeDBZQUx6Z3pRSzA0WmRFLUg0b0VCMWsxUC1aWnJmMkt0WHF5MW5HSU1LVDl0ZXEtck9BdktjWUxVbkFxWHQ3YlRfVFFESGxVMEV3RDNfSzdRX1ZLZW9wS0xlbVQ3UjJHOHpZZ2RZVDVDLWdXRE9uOUFlemVlUlBzaTI1QWNXbEF1eUVhREtnVU9xazd6aWJpN3VkQV83dnNhRVNZY05RN2tSMlZqZ2hXWjhOc0dOZGhSN3R5NUFOTGw5Y0RDMzI0M3puZkt2RmxpOA?oc=5)
+
+2026-09-11 <span class="news-indication-tag">tumor</span>
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1BZeS1PZ2JHeURFY1ZwT1lqeDBZQUx6Z3pRSzA0WmRFLUg0b0VCMWsxUC1aWnJmMkt0WHF5MW5HSU1LVDl0ZXEtck9BdktjWUxVbkFxWHQ3YlRfVFFESGxVMEV3RDNfSzdRX1ZLZW9wS0xlbVQ3UjJHOHpZZ2RZVDVDLWdXRE9uOUFlemVlUlBzaTI1QWNXbEF1eUVhREtnVU9xazd6aWJpN3VkQV83dnNhRVNZY05RN2tSMlZqZ2hXWjhOc0dOZGhSN3R5NUFOTGw5Y0RDMzI0M3puZkt2RmxpOA?oc=5)
+
+---
+
+### [Boy's dying wish: 'I don't want to be forgotten'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
+
+2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
+
+---
+
 ### [Folge 9: Brustkrebs-Langzeittherapie besser anpassen – mit Kathrin Thedieck, Christiane Opitz und Cindy Körner | BALANCE.ET](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXYxU0wzcGFEQkZFSjdGTDlEYjhMZ3lrd3lEV3RxMzBuZm9KdjRfTjdvTHNMZjZ0VElnY1NVd3pVZFVSdkE4LWpqOW9tNjMwV0FldHVsblJVNl82WGZzc1ZRWlhWLTBpWVVGeEpEOE1ZbGs5U2xWOXA0SWFQQzZJQWRiVno2Q19kbmwwSGlvMElHNUhDQUpoM2xWVmpOQVpvRDlFN1dCUENzN041RDhJRWR1RDZLWG9SejlqMklrNk1zUzg?oc=5)
 
 2026-09-10 <span class="news-indication-tag">Krebs</span>
@@ -230,11 +246,11 @@ permalink: /news/sorafenib/
 
 ---
 
-### [CNIO identifica en Nature los 8 procesos que dañan el ADN en el 85% de los cánceres de próstata](https://news.google.com/rss/articles/CBMifkFVX3lxTE5yNnBkYTRiS1JYSFo1aHBDaG5mZGpMRFVPWTdBYmhhbXVsNlFYT0dvUlU0WXUtNTQzNDhYUFc4cU1YUkZXcjRhQmtxZmFNLXpUd0NTY1VWbnZkdHdlUVlOLWI5dTdCMXhTT0dOTlZkRGp2eEQ2UUY5VXhJcnM1Zw?oc=5)
+### [Desvelan los procesos que dañan el ADN en la mayoría de los cánceres de próstata - Salud a Diario](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZDl3c0xGLVJ1MXlyQXBIaVJXUW1mVVpIRERfTUZ6RGpuNHRmeTRCNGN0UUhvVXI4MkxXSXZRaVFLM2JuZnhzWC11Znd6blNUUnB2aHpxWmtpdTIySWFqWHEwTXFyMHUxS1ZZQ2RDelJhRzktWnpxYWVUNFpJMjR0cWFMdExkbWk4RkdKdkV4bmZzbHFnMlROQjI5YmR6RFZ3aUJlNUZaRHFCY3U2QmJqWmM3QjZyTVRSZ00tVzVLN0E?oc=5)
 
 2026-09-10 <span class="news-indication-tag">tumor</span>
 
-來源：[Merca2.es](https://news.google.com/rss/articles/CBMifkFVX3lxTE5yNnBkYTRiS1JYSFo1aHBDaG5mZGpMRFVPWTdBYmhhbXVsNlFYT0dvUlU0WXUtNTQzNDhYUFc4cU1YUkZXcjRhQmtxZmFNLXpUd0NTY1VWbnZkdHdlUVlOLWI5dTdCMXhTT0dOTlZkRGp2eEQ2UUY5VXhJcnM1Zw?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZDl3c0xGLVJ1MXlyQXBIaVJXUW1mVVpIRERfTUZ6RGpuNHRmeTRCNGN0UUhvVXI4MkxXSXZRaVFLM2JuZnhzWC11Znd6blNUUnB2aHpxWmtpdTIySWFqWHEwTXFyMHUxS1ZZQ2RDelJhRzktWnpxYWVUNFpJMjR0cWFMdExkbWk4RkdKdkV4bmZzbHFnMlROQjI5YmR6RFZ3aUJlNUZaRHFCY3U2QmJqWmM3QjZyTVRSZ00tVzVLN0E?oc=5)
 
 ---
 
@@ -278,6 +294,14 @@ permalink: /news/sorafenib/
 
 ---
 
+### [Prostate cancer test that diagnosed Jeremy Clarkson offered to 10,000 men - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVBCV0U2ckZNSk1aQ29tTUMtZ3NBYURGT3BfUXA3bVJBM1hlVlphbnNMUGRLRHVYUHNKWFpkang5Yl9mbkVFc3J6a0xJWXhuaDJNakRlYmVPMnRVX0RkU29KTVQ3Qm5XZWJGYWNuTXRCYTloaWtmT09mUkZES09pZDFvRmhYbHhvUEl2SjJMR0M0X2tqY2c?oc=5)
+
+2026-09-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVBCV0U2ckZNSk1aQ29tTUMtZ3NBYURGT3BfUXA3bVJBM1hlVlphbnNMUGRLRHVYUHNKWFpkang5Yl9mbkVFc3J6a0xJWXhuaDJNakRlYmVPMnRVX0RkU29KTVQ3Qm5XZWJGYWNuTXRCYTloaWtmT09mUkZES09pZDFvRmhYbHhvUEl2SjJMR0M0X2tqY2c?oc=5)
+
+---
+
 ### [Antioxidanzien könnten mit geringerem Risiko für Gebärmutterhalskrebs verbunden sein – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZmlJQVRiRm9XTmdMTzdieDlVQm5IalhlTnZ0Qnl2MTZtRDV0dThOSTQ1WTdDNHAzVHBnWlNEUTZ6aWFGWnBGbzE3MU9zUzNram9xb1QtVGd5WXZKektad1NDbkkzcGs4THE4VElaYzBKelNOcEwyanhsMWVMaVlpTlRGcHlEc2xuY0pmNDJVMnFoYjR2ZjFfYkt3WXdfR3Y2Y0dJcmVVS1BTelp3QkdEQzRoalhaanlNbm5KN19fSm1PN2ozNFhVVG9ueXlkSmRGWFY1X1ItWDFRXy1OU3QxMjNRUlh1WEFN?oc=5)
 
 2026-09-09 <span class="news-indication-tag">Krebs</span>
@@ -291,6 +315,14 @@ permalink: /news/sorafenib/
 2026-09-08 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfN0xPbV9HUWRSd3BOeHNVMTF6Y3AwUlZRV283STEwZlcxdFpjSGMwSkU4c2Zsd2FPcG5YV2Nrd0tyc1JsZWRjTGZ3RjVTZWxkYkdaYWtzamZOZw?oc=5)
+
+---
+
+### [Prostatakrebs: Überlebensvorteil mit weniger gesättigten Fetten?](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFRaVnc1akNMb3VCNE5KbFhUM1RiRnB0OXZ6cnktWHJueTlSOFdHNUVqb0lrVTJUajJJYnNLdTZqSk9IemNPWVIwbWJzRFJ1bXY1emRQQTZVMko0b1BLSW4tN3dFOTVCOGU3VjJ6Q3QtV1ItZnBEU2dDQ2d1SE5wdXQyQzQzdGVWSlRCVXBydmhkdG8xajN6a2ZqQ0hiYmNvN1JLVC0tUEZjMUZHX0dmRWE1SQ?oc=5)
+
+2026-09-08 <span class="news-indication-tag">Krebs</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFRaVnc1akNMb3VCNE5KbFhUM1RiRnB0OXZ6cnktWHJueTlSOFdHNUVqb0lrVTJUajJJYnNLdTZqSk9IemNPWVIwbWJzRFJ1bXY1emRQQTZVMko0b1BLSW4tN3dFOTVCOGU3VjJ6Q3QtV1ItZnBEU2dDQ2d1SE5wdXQyQzQzdGVWSlRCVXBydmhkdG8xajN6a2ZqQ0hiYmNvN1JLVC0tUEZjMUZHX0dmRWE1SQ?oc=5)
 
 ---
 

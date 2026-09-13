@@ -54,19 +54,19 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（6 則）
 
+### [Bastano 1000 passi in più al giorno per ridurre il rischio di infarto e ictus, mostra lo studio dell'Università di Sydney](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUzlxalpKMXlwSGwzdjBrSjlUYWlZbjdENmtEUnNlaUItRl9qYWVxaEZhckQyT29ia0dDUUZST05PSFN5bmx1bGpnMkUtaEJNTDR5SXVZY3prNHJTOHd2TjVsQnlHTDFDUGJ5NG10dmZYdHotbTFLTVBRYWRDVFhERjRKWWNWZHVHemtvWDBXS3pyY05mSGJxbkxjNk1HOHpzYXlteDMySjczaW9BZlZVRzhlRC1oYjJfX01yWFBGbldTRzNWT1NEa0tKZUtpVm0zYTdOakFXdU5jNjE2RGhqNG1sbElWU2FaTk9tNmVkc0VXa25IS181UE9pREg4bTRIbHAxMVBVVDZna1J1?oc=5)
+
+2026-09-13 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUzlxalpKMXlwSGwzdjBrSjlUYWlZbjdENmtEUnNlaUItRl9qYWVxaEZhckQyT29ia0dDUUZST05PSFN5bmx1bGpnMkUtaEJNTDR5SXVZY3prNHJTOHd2TjVsQnlHTDFDUGJ5NG10dmZYdHotbTFLTVBRYWRDVFhERjRKWWNWZHVHemtvWDBXS3pyY05mSGJxbkxjNk1HOHpzYXlteDMySjczaW9BZlZVRzhlRC1oYjJfX01yWFBGbldTRzNWT1NEa0tKZUtpVm0zYTdOakFXdU5jNjE2RGhqNG1sbElWU2FaTk9tNmVkc0VXa25IS181UE9pREg4bTRIbHAxMVBVVDZna1J1?oc=5)
+
+---
+
 ### [Fibrillazione atriale: quando serve davvero il farmaco per l’ictus? - The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
 
 2026-09-12 <span class="news-indication-tag">ictus</span>
 
 來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
-
----
-
-### [Dimentica i 10mila passi al giorno: ecco cosa potresti fare fare in alternativa secondo questo studio](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY2l2Ui1HZERKbHRrM01MdEpOdDlVd3NGblZLLW1LdFV5T1RpcG5PZzgzVUgzaWltclhvSGpqaTEwbGg5ejdGMFFBcUk5c1F1UTlwbnlYQXoyV3FJbGo0T1JaMGE3ZmZyU2VaQmZaTTF0c2lhekNhSWtUZnd4Slc0RzdRYWZWam5iRG8zTnUxV0duczNnSldfNDZvMFVJR0ZneW9vaWJvOVFaakZZb1NNOXVKQ1lPVURsbmVtanFiVmh2X3FPM1B5aWZ4SFgxc3NyY25faFZGZFZxclM3MW91SjhSQWgtZjJCLVE?oc=5)
-
-2026-09-12 <span class="news-indication-tag">ictus</span>
-
-來源：[greenMe](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY2l2Ui1HZERKbHRrM01MdEpOdDlVd3NGblZLLW1LdFV5T1RpcG5PZzgzVUgzaWltclhvSGpqaTEwbGg5ejdGMFFBcUk5c1F1UTlwbnlYQXoyV3FJbGo0T1JaMGE3ZmZyU2VaQmZaTTF0c2lhekNhSWtUZnd4Slc0RzdRYWZWam5iRG8zTnUxV0duczNnSldfNDZvMFVJR0ZneW9vaWJvOVFaakZZb1NNOXVKQ1lPVURsbmVtanFiVmh2X3FPM1B5aWZ4SFgxc3NyY25faFZGZFZxclM3MW91SjhSQWgtZjJCLVE?oc=5)
 
 ---
 
