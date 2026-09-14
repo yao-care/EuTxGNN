@@ -70,11 +70,19 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [The 12 new conditions UK pharmacists can now treat without you seeing a GP first](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+2026-09-13 <span class="news-indication-tag">migraine</span>
+
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+---
+
 ### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine'](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
 
 2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+來源：[aol.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/abaloparatide/
 2026-09-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPblBjdHlUbkxQb0M1RnR2OHNQSW5tMEFUZlFQTS1kaklWbGpHNGd4aEM1TlBKaVlqeTd5ZUhGaEdXZVd4amIwcVhVeU91UzhmUU9TdjFMZ1J4RWJ2RTBpVm9mVE9CRkpxcGd5Z2QwY0JHRnI4QWRreTJUVHpQeWFLSUFWRG5pX3dCWWpmXzFaRDdxZW1Za0dKbGlHQmpVSDVMRG1pcWpiRlNyTENaOC1nZ0QyN3ZLdVItblJ0YVJoTTYxeUxGZXFQeDhuVWxHN1Zzd19acTFxaDZYOGJGODdZNG8tdmctenVVSGQ1RUFFaE9waGRBUWlia2poYWVPZ9IBiAJBVV95cUxPUGx6akdwTG9Ib0FyUDRaQW1NaUpEcldPaHYzX0lHREdwM2dfSk8tSzlVanJUU1FPRVRJcmdndDNnQzIxa1dxT2QxNzZ4WHA4NHZZRXZudzdwaFNFT3lFcHJLOFp2UlNxX0J0SVM2S2FlaEw1YUlDT3N1a1g1N1dZMGJ6cGZOWjBrN0ZyRWR2WDA2Y04xRnhCYUZhRnJlMzBWbXl0Z0dCS2xvUU5Sb2xDdmNMRjhjNFZMVUNhTFotbzRTZVd6dU1wWS1MSWRMQjNhMDZnWGx0VlZBWS1SeG9OQjFKT1QtUWlUVG5id3FCN0JybTNYb0J6OC1hc1FYeEFxWG5FV2w5ZWo?oc=5)
+
+---
+
+### [Día Internacional de la Migraña: afecta a un 13% de la población - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
+
+2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
 
 ---
 
@@ -107,22 +123,6 @@ permalink: /news/abaloparatide/
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
-
-2026-09-10 <span class="news-indication-tag">migraine</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
-
----
-
-### [Neurólogos y asociaciones de pacientes reclaman ampliar el acceso a los nuevos tratamientos para la migraña - Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
-
-2026-09-08 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
 
 ---
 

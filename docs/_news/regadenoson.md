@@ -54,11 +54,35 @@ permalink: /news/regadenoson/
 
 ## 相關新聞（6 則）
 
+### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+---
+
+### [The 12 new conditions UK pharmacists can now treat without you seeing a GP first](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+2026-09-13 <span class="news-indication-tag">migraine</span>
+
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+---
+
 ### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 2026-09-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+
+---
+
+### [Día Internacional de la Migraña: afecta a un 13% de la población - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
+
+2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
 
 ---
 
@@ -70,35 +94,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
-
-2026-09-10 <span class="news-indication-tag">migraine</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
-
----
-
-### [Osakidetza despliega ASMA BAT: el nuevo protocolo unificado para la atención del asma infantil en Euskadi - Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
-
-2026-09-09 <span class="news-indication-tag">asma</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
-
----
-
 ### [Schweres Asthma verursacht Veränderungen im Gehirn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
 
 2026-09-09 <span class="news-indication-tag">asthma</span>
 
 來源：[Scinexx](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1dXdnNUTzFlMTBnZmR3Y3BLU0tHc2pUYkUyT0xjc2dheXktQjFhOGhEc1NOZG85bVo0UFh2bXlOVG1CcE1La3BPaEhHRFhUVlBtY3J3Nkd6VG5CWnhzUDR3Rlhxd3FhRU9oT2E1YW5RUTFEWURNZjEtOWdjeUlnbmwtWUV3T3FLM1hxbmx0akJndw?oc=5)
-
----
-
-### [Neurólogos y asociaciones de pacientes reclaman ampliar el acceso a los nuevos tratamientos para la migraña - Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
-
-2026-09-08 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/epinephrine/
 
 ## 相關新聞（5 則）
 
+### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+---
+
 ### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 2026-09-13 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
@@ -75,14 +83,6 @@ permalink: /news/epinephrine/
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Osakidetza despliega ASMA BAT: el nuevo protocolo unificado para la atención del asma infantil en Euskadi - Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
-
-2026-09-09 <span class="news-indication-tag">asma</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
 
 ---
 

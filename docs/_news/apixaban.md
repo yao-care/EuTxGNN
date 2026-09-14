@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="Apixaban 有什麼相關新聞？">
-<strong>Apixaban</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apixaban</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/apixaban/
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Les nutritionnistes révèlent quel est le meilleur fruit pour faire baisser l'hypertension](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
 
 2026-09-13 <span class="news-indication-tag">hypertension</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+來源：[linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
 
 ---
 
@@ -70,6 +70,14 @@ permalink: /news/apixaban/
 
 ---
 
+### [The 12 new conditions UK pharmacists can now treat without you seeing a GP first](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+2026-09-13 <span class="news-indication-tag">migraine</span>
+
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+---
+
 ### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 24 Prozent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0xCMndhWE5uSFBEREdUanRYV2thcXFDbGRWOFR4QUNZUjBXWjBlYk9LZlVGSFNoRHFqanRWbkVBLUNrY3ZzU296alpIa1Y4azBkblZEQnhHaS1UZjZzNkFMX3oyeTNtTjRDLUtVc0wyQnJwTkJHOS1iY1pMREdDek9Nb1hfYUVuOHhJZGx1d25KZw?oc=5)
 
 2026-09-12 <span class="news-indication-tag">Herzerkrankung</span>
@@ -78,11 +86,11 @@ permalink: /news/apixaban/
 
 ---
 
-### [Artrosi, artrite, sciatalgia, mal di schiena e dolore cronico: cosa può fare davvero la Boswellia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
+### [Día Internacional de la Migraña: afecta a un 13% de la población - Castilla-La Mancha Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
 
-2026-09-12 <span class="news-indication-tag">artrite</span>
+2026-09-12 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
+來源：[Castilla-La Mancha Media - CMM](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlLbXVIUzBrUUljV3JJQXJGSkJ2UlZ5d09FTlNvX1dhTmc5VmdUenRqQklEc0ZxZnd5ejdBRDVlMlRKWWVZTDBmcW5WRDBIbjVoSDgtZTlOMjRtYURIZUpKazNKZWNZdkF1NmlMdndGS2Fqam5EcEdCaXlRblpxM2xyaHE4TzZZc3Z3cDJfRm5KNmlBbHd6NlVCNlIxRUEwVHlBc3BUWFlzb1A3VDA1V2pKdW5YRlRobjRORjZuS184d09BUWVlaXR2OUwxWTTSAdQBQVVfeXFMUFBSV29vdlB0ZXVMQWEzY1ZuTzl3V0tBb21oQkdtX2RyZDBGZ2tlMURmVU9lblBPZVpOWnRZY3Bya3NBcTRIX3h2SGhBZWhyRDJLY1J6OHVDNkRMdDZkZEsxUGdqX28xS1kzR19ac3VuUGxDRDBwODNuX2t1SlNnQ1BkYUc1cWdUZ3JzOVI0Mk5TSzF0LU84MWpZb3g4RG1DSGRUWDZwcXNuc0dNUVdPSHVBbzNCYmVKeW5vMjAxcThpYXNtc0hmUDRkLWN5eTk2N3RmZTM?oc=5)
 
 ---
 
@@ -94,27 +102,11 @@ permalink: /news/apixaban/
 
 ---
 
-### [Got a migraine, acne or ear infection? Go to your chemist first](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
+### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
 
-2026-09-10 <span class="news-indication-tag">migraine</span>
+2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjSFZkTF9SLTlsbE5XV1lRZEhOeHdhZjg5RE5VWm91SU1MSl84T2g4TURZcVByelF3ekg1T1RMVjlDQUlVQXhsbHJza1FnY281WEkxQ19QVHZsQTU0?oc=5)
-
----
-
-### [Neurólogos y asociaciones de pacientes reclaman ampliar el acceso a los nuevos tratamientos para la migraña - Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
-
-2026-09-08 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
-
----
-
-### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
-
-2026-09-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/rasagiline/
 
 ## 相關新聞（6 則）
 
+### [NHS doctors prescribing drugs linked to dementia without warning patients of risk - GB News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
+
+2026-09-13 <span class="news-indication-tag">dementia</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
+
+---
+
 ### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
 
 2026-09-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -62,19 +70,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Doctors prescribe drugs without mentioning dementia risk - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxQZkdfT290X3NKWGUyQVlBNjJJRTBEdGthcklPRWNpY0pZTXkzZTJ2OWtZSHFYTUEyQVE4Q3k5RERVekN0aUtZT1NFWjc5M1ZOa0dXYl9wMFgtNllPRmtpM0c0Wnp3ZTFtRmdjQ2hERmV0dmlOalVRUkFVUUFtWGVyeExhcVZ0QmZpTWNvZ2V2d3YxSUVmUzRrNENFQlFXbmU0RWZSdTFyRFJqY0tkYV9xMWpUWQ?oc=5)
+### ['Our daughter, 5, has devastating rare disease that has given her dementia - and she's getting worse' - The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
 
 2026-09-12 <span class="news-indication-tag">dementia</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxQZkdfT290X3NKWGUyQVlBNjJJRTBEdGthcklPRWNpY0pZTXkzZTJ2OWtZSHFYTUEyQVE4Q3k5RERVekN0aUtZT1NFWjc5M1ZOa0dXYl9wMFgtNllPRmtpM0c0Wnp3ZTFtRmdjQ2hERmV0dmlOalVRUkFVUUFtWGVyeExhcVZ0QmZpTWNvZ2V2d3YxSUVmUzRrNENFQlFXbmU0RWZSdTFyRFJqY0tkYV9xMWpUWQ?oc=5)
-
----
-
-### ['Our daughter, 5, has devastating rare disease that has given her dementia - and she's getting worse'](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
-
-2026-09-12 <span class="news-indication-tag">dementia</span>
-
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ permalink: /news/rasagiline/
 
 ### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
-2026-09-11 <span class="news-indication-tag">alzheimer disease</span>
+2026-09-11 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
@@ -98,7 +98,7 @@ permalink: /news/rasagiline/
 
 2026-09-07 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
 
 ---
 

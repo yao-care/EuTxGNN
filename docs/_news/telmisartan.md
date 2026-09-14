@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+---
 
 ### [Les nutritionnistes révèlent quel est le meilleur fruit pour faire baisser l'hypertension](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
 
 2026-09-13 <span class="news-indication-tag">hypertension</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+來源：[linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
 
 ---
 

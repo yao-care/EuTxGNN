@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
 ### [Infarto e diabete, il rischio lascia una firma nel sangue già a 8 anni? Analizzate 5.420 proteine](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnFSYUpld3BMcE1hbFp0Zy0tdnRTeUVOOW8wcnBWT0RNQU1OTDBtQ19INDR3eDVVZG5ncDQyem1sWjJ0OFRxcFdIWFhjX3dOb2hNcGc0bTAxT29ub2hGczFrdVRDTDFQYVRGcHhCYldMWmN3aVB4R1huTjk4UGp1dlhhbXRjWGJ5NlVIN1RWUkFYRFk0U3M0N3dySjUwaDdHYnJjWkxoTU92VVhvYTlrRmNFSVllNWNrMFloMTdLdkFmWmVIaE9nd1QxRi1yaEgwdjVnM2VPLUpVR19LWThOVktUWk41Q1B5SENZ?oc=5)
 
@@ -90,7 +90,7 @@ permalink: /news/cabotegravir/
 
 2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+來源：[aol.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ permalink: /news/cabotegravir/
 2026-09-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPblBjdHlUbkxQb0M1RnR2OHNQSW5tMEFUZlFQTS1kaklWbGpHNGd4aEM1TlBKaVlqeTd5ZUhGaEdXZVd4amIwcVhVeU91UzhmUU9TdjFMZ1J4RWJ2RTBpVm9mVE9CRkpxcGd5Z2QwY0JHRnI4QWRreTJUVHpQeWFLSUFWRG5pX3dCWWpmXzFaRDdxZW1Za0dKbGlHQmpVSDVMRG1pcWpiRlNyTENaOC1nZ0QyN3ZLdVItblJ0YVJoTTYxeUxGZXFQeDhuVWxHN1Zzd19acTFxaDZYOGJGODdZNG8tdmctenVVSGQ1RUFFaE9waGRBUWlia2poYWVPZ9IBiAJBVV95cUxPUGx6akdwTG9Ib0FyUDRaQW1NaUpEcldPaHYzX0lHREdwM2dfSk8tSzlVanJUU1FPRVRJcmdndDNnQzIxa1dxT2QxNzZ4WHA4NHZZRXZudzdwaFNFT3lFcHJLOFp2UlNxX0J0SVM2S2FlaEw1YUlDT3N1a1g1N1dZMGJ6cGZOWjBrN0ZyRWR2WDA2Y04xRnhCYUZhRnJlMzBWbXl0Z0dCS2xvUU5Sb2xDdmNMRjhjNFZMVUNhTFotbzRTZVd6dU1wWS1MSWRMQjNhMDZnWGx0VlZBWS1SeG9OQjFKT1QtUWlUVG5id3FCN0JybTNYb0J6OC1hc1FYeEFxWG5FV2w5ZWo?oc=5)
-
----
-
-### [Artrosi, artrite, sciatalgia, mal di schiena e dolore cronico: cosa può fare davvero la Boswellia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
-
-2026-09-12 <span class="news-indication-tag">artrite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXoxc2xuWEJCeDJxZTNxRkQ4cjlMWGJiZEQ1eW9FeG4xc3Z4Mm1ZQmxrdlJJMDJ4cjFjZWJMVDVxaUlsazR2WUZLcXQtSXdrelhydnZ3bjVGcm94WXpXWDM3eHF3RjgzSm1RcWNjN0ZhYkRLOFUzR3RLemxpWC1ucVZZQlhEcDNOUkNValFQR0N6TGNKeFBpZmljNU54ZkJEbGdteDZTazZBUkNBOHl1LUU4bUtjNVJNVDlpcWpSSXBYQW1oLW1vV09jYVRGWDM0U3JTUjFWVEZYWnJR?oc=5)
 
 ---
 
@@ -150,11 +142,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [El estado de la microbiota intestinal actúa como "hilo conductor" tras numerosas enfermedades inflamatorias - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
 
-2026-09-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
+2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUJBNEhucjZKcnA3aUZabThyUEs2THhfWVBpcG9kVzVNajVVWE1YZUg4R0NaTVc2bFVuTE1uUm5iVUFyMVJOV1o4NXB2TXY2NUpsN1pVMXpfU081UnhBbUF4VTJZVEprVTBaU0lUNEdxT3J2WUd4aUF5THE3Nl8tMUpQLXF5bGhObTNmRWkzZ0V4ODlkNkJ1UThxUG9UTVVQTnRmNkNJUDlwRGdfX0ZCYUdkbHdpT1RtMDNRTi1R?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
 
 ---
 

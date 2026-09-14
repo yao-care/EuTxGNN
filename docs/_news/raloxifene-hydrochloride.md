@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+---
 
 ### [Bastano 1000 passi in più al giorno per ridurre il rischio di infarto e ictus, mostra lo studio dell'Università di Sydney](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUzlxalpKMXlwSGwzdjBrSjlUYWlZbjdENmtEUnNlaUItRl9qYWVxaEZhckQyT29ia0dDUUZST05PSFN5bmx1bGpnMkUtaEJNTDR5SXVZY3prNHJTOHd2TjVsQnlHTDFDUGJ5NG10dmZYdHotbTFLTVBRYWRDVFhERjRKWWNWZHVHemtvWDBXS3pyY05mSGJxbkxjNk1HOHpzYXlteDMySjczaW9BZlZVRzhlRC1oYjJfX01yWFBGbldTRzNWT1NEa0tKZUtpVm0zYTdOakFXdU5jNjE2RGhqNG1sbElWU2FaTk9tNmVkc0VXa25IS181UE9pREg4bTRIbHAxMVBVVDZna1J1?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Saarländische Testwoche startet: Gesundheitsamt St. Wendel testet kostenlos auf HIV, Syphilis und Hepatitis](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+
+2026-09-13 <span class="news-indication-tag">hepatitis</span>
+
+來源：[wndn.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+
+---
 
 ### [Les nutritionnistes révèlent quel est le meilleur fruit pour faire baisser l'hypertension](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
 
 2026-09-13 <span class="news-indication-tag">hypertension</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+來源：[linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+
+---
+
+### [Dieci casi di epatite A tra Pisa e Livorno: possibile focolaio in uno stabilimento balneare del litorale](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
+
+2026-09-12 <span class="news-indication-tag">epatite</span>
+
+來源：[PisaToday](https://news.google.com/rss/articles/CBMic0FVX3lxTE92TFBrWGZxWVFkb0hkTHAyRWxrd1lHSlV6dVZBNlhzUHpSV21ZMG14TTdhY3h0SVpidHNUUnltYk5UcHVsNlc5UUliUXgtWjZGNU5qb2Z4cG1WLWRpaUlKSFNKaHpMMU5aS283a0ZHV0JDeG8?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（11 則）
 
+### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+
+---
+
 ### [Infarto e diabete, il rischio lascia una firma nel sangue già a 8 anni? Analizzate 5.420 proteine](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnFSYUpld3BMcE1hbFp0Zy0tdnRTeUVOOW8wcnBWT0RNQU1OTDBtQ19INDR3eDVVZG5ncDQyem1sWjJ0OFRxcFdIWFhjX3dOb2hNcGc0bTAxT29ub2hGczFrdVRDTDFQYVRGcHhCYldMWmN3aVB4R1huTjk4UGp1dlhhbXRjWGJ5NlVIN1RWUkFYRFk0U3M0N3dySjUwaDdHYnJjWkxoTU92VVhvYTlrRmNFSVllNWNrMFloMTdLdkFmWmVIaE9nd1QxRi1yaEgwdjVnM2VPLUpVR19LWThOVktUWk41Q1B5SENZ?oc=5)
 
 2026-09-13 <span class="news-indication-tag">diabete</span>
@@ -82,7 +90,7 @@ permalink: /news/somapacitan/
 
 2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+來源：[aol.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
 
 ---
 
@@ -115,14 +123,6 @@ permalink: /news/somapacitan/
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Osakidetza despliega ASMA BAT: el nuevo protocolo unificado para la atención del asma infantil en Euskadi - Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
-
-2026-09-09 <span class="news-indication-tag">asma</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWk1TmpOS2YtY2ZtM1J1cDV4N2Z3Wjl4ZG9yZGM0bk1ncGpFTGhNMTVvNXFkeUprektYaUpaWVFqcjBadnpYTG1nUDJRSHlkZzZxZkZJcFZ2NFItVVdCRDhLQnQzZkxUYnNWLU55ZDJiZVR0NlJGTXVGRmlSOGxRMW9NS0pmSU15WHR3TGdBaWhQSTdNaEtIelA5aERqZ00?oc=5)
 
 ---
 
