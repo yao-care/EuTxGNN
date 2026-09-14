@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung（heart disease） 相關新聞"
+title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung（heart disease） 相關新聞
+# cardiopatía（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,13 +85,29 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 24 Prozent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0xCMndhWE5uSFBEREdUanRYV2thcXFDbGRWOFR4QUNZUjBXWjBlYk9LZlVGSFNoRHFqanRWbkVBLUNrY3ZzU296alpIa1Y4azBkblZEQnhHaS1UZjZzNkFMX3oyeTNtTjRDLUtVc0wyQnJwTkJHOS1iY1pMREdDek9Nb1hfYUVuOHhJZGx1d25KZw?oc=5)
+### [Un nuevo “mapa” del corazón detecta pacientes con riesgo de muerte súbita que el criterio habitual puede dejar fuera - La Vanguardia](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSDRzMXVaNk5UV20tRWx3ekZucEJScGNxUjQ1eUhBQ0tqUmZrUnJaMzc5SUtfbVowNTNWV3M3OUtrUV9Oa3JsYVJGZFZTTE1ySzEwZHpqUWNlMDRMcktNUWE4VHJWalpyQU1vRmk5RFN2ekxmQllUUFI0VHZDTnVsUEJOQzY5amJtcHkySndGTFpCd0dNcndrQkRUbVFaRHYyUXdkU0szR2ZhUl9LcUREejEzaGFiSEpPRFcxUV8wak1hRU1RWkg1eTYtN0psdUVQWkJ0Wmt2Rk5DTFdqbE1QVGxEUW8xQmt2Q0VrX3VId09aVmNz0gH6AUFVX3lxTE9ZVEFIdHZYMk52S055THdKdkZvVUZtQW50aDFUT1U4Zjg4MngxYVBick1rcVpjVnFNb3hPMlVoT3JmNUswNElLaUhpOXM1RlltQWtwVGhic2JpcXp6NThhR0M1LUJNQ2pQVWw3dVIyWmhEMjFLNVY1X2E2Wm4zREpXZTV6OWh1UTBXSTkzUk9TNDJXdU44a3ZlblVMeVp4cWo5djhQb3JqeWpId2dGOW1oUVR1Tzc5anpucjVNWVhsRmhWSGEyZXFjaVJwSmNQdG16cVphbU9SNGlxV0dPejMxTGpNRE1Pd0I2bTd1dFIzSzFsWC1iVm1jLWc?oc=5)
 
-2026-09-12
+2026-09-14
 
-來源：[BornCity](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0xCMndhWE5uSFBEREdUanRYV2thcXFDbGRWOFR4QUNZUjBXWjBlYk9LZlVGSFNoRHFqanRWbkVBLUNrY3ZzU296alpIa1Y4azBkblZEQnhHaS1UZjZzNkFMX3oyeTNtTjRDLUtVc0wyQnJwTkJHOS1iY1pMREdDek9Nb1hfYUVuOHhJZGx1d25KZw?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSDRzMXVaNk5UV20tRWx3ekZucEJScGNxUjQ1eUhBQ0tqUmZrUnJaMzc5SUtfbVowNTNWV3M3OUtrUV9Oa3JsYVJGZFZTTE1ySzEwZHpqUWNlMDRMcktNUWE4VHJWalpyQU1vRmk5RFN2ekxmQllUUFI0VHZDTnVsUEJOQzY5amJtcHkySndGTFpCd0dNcndrQkRUbVFaRHYyUXdkU0szR2ZhUl9LcUREejEzaGFiSEpPRFcxUV8wak1hRU1RWkg1eTYtN0psdUVQWkJ0Wmt2Rk5DTFdqbE1QVGxEUW8xQmt2Q0VrX3VId09aVmNz0gH6AUFVX3lxTE9ZVEFIdHZYMk52S055THdKdkZvVUZtQW50aDFUT1U4Zjg4MngxYVBick1rcVpjVnFNb3hPMlVoT3JmNUswNElLaUhpOXM1RlltQWtwVGhic2JpcXp6NThhR0M1LUJNQ2pQVWw3dVIyWmhEMjFLNVY1X2E2Wm4zREpXZTV6OWh1UTBXSTkzUk9TNDJXdU44a3ZlblVMeVp4cWo5djhQb3JqeWpId2dGOW1oUVR1Tzc5anpucjVNWVhsRmhWSGEyZXFjaVJwSmNQdG16cVphbU9SNGlxV0dPejMxTGpNRE1Pd0I2bTd1dFIzSzFsWC1iVm1jLWc?oc=5)
+
+---
+
+### [High cholesterol gets all the attention, but a nephrologist explains the other health risks that could matter more for the heart - The Times of India](https://news.google.com/rss/articles/CBMioAJBVV95cUxOcHFqZjRIdkc3SlQteUhZekVCSHY3ZzhNbzk1aUZOeE5YZDlNTkhyazVKcTRoVE9NVG9VaWJXNGdCd0ZTSDdhNlVVYUpkc21QNjhZZXNSN3ItelNCRVR4NVRNNXQ1T3ZmcUtOQl8xb0ZJU1pZZG5Sdno2YWRadUVNWkxuNWVYZjUwRWd4ZnlNSS1JMEJ2Mmk4bE9FbkZKbjZUS00xbzl5eVFHV1oybzlTb3BxUDhvTGJrNmYtSVY0cFJVTUxaU1l3RUhMRDJOX2dNMEN2V01lalBjb1dxQjN4U013UkJEYTVMS1pRN1dUUGxqcVZuMHBveUFMUERYcVNSOXB2cXpSbTNjQ3lLWV9mQVZsdVF1WnV3SHBWSWY0ZlbSAagCQVVfeXFMTnotaE54dk4wTGt2Wko1WGdLbFlMd0Rwa2JBQ1BmczdSVFdZZ2o3UzRuNGlDRkUzY3dwTnFwV3E1U2tORnpTektZSU9hTTdHTDVNUW5SQkd3c3ZGWWhNX1lMQzdmQUQxby1QUzFQTTVmZXZaclZqRzMtUXh5NlZwc0tlMEMxYjRqZmJGYVFBTlliUXZjTndBb3lKYjl0Z056YVNjVVFUY2VFR0hlUmZ4YzB3ckhnWnl6STAtd2NQWnNFQUJpWXlZSTREcUVNdXp5ZjZfS0ZZbWYzb2ZOSzNGMXdlc1JhSDk1OEcyWDFwbDJBMUNWT3JfRW9McTF6Vk0wdkgxRXhvaDdnTXhraVJnTFp3YXV0dk5xVnAxdFVqTDhwRVFWWTdtVkI?oc=5)
+
+2026-09-14
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMioAJBVV95cUxOcHFqZjRIdkc3SlQteUhZekVCSHY3ZzhNbzk1aUZOeE5YZDlNTkhyazVKcTRoVE9NVG9VaWJXNGdCd0ZTSDdhNlVVYUpkc21QNjhZZXNSN3ItelNCRVR4NVRNNXQ1T3ZmcUtOQl8xb0ZJU1pZZG5Sdno2YWRadUVNWkxuNWVYZjUwRWd4ZnlNSS1JMEJ2Mmk4bE9FbkZKbjZUS00xbzl5eVFHV1oybzlTb3BxUDhvTGJrNmYtSVY0cFJVTUxaU1l3RUhMRDJOX2dNMEN2V01lalBjb1dxQjN4U013UkJEYTVMS1pRN1dUUGxqcVZuMHBveUFMUERYcVNSOXB2cXpSbTNjQ3lLWV9mQVZsdVF1WnV3SHBWSWY0ZlbSAagCQVVfeXFMTnotaE54dk4wTGt2Wko1WGdLbFlMd0Rwa2JBQ1BmczdSVFdZZ2o3UzRuNGlDRkUzY3dwTnFwV3E1U2tORnpTektZSU9hTTdHTDVNUW5SQkd3c3ZGWWhNX1lMQzdmQUQxby1QUzFQTTVmZXZaclZqRzMtUXh5NlZwc0tlMEMxYjRqZmJGYVFBTlliUXZjTndBb3lKYjl0Z056YVNjVVFUY2VFR0hlUmZ4YzB3ckhnWnl6STAtd2NQWnNFQUJpWXlZSTREcUVNdXp5ZjZfS0ZZbWYzb2ZOSzNGMXdlc1JhSDk1OEcyWDFwbDJBMUNWT3JfRW9McTF6Vk0wdkgxRXhvaDdnTXhraVJnTFp3YXV0dk5xVnAxdFVqTDhwRVFWWTdtVkI?oc=5)
+
+---
+
+### [The hidden risk to your heart from sleeping in low light - Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
+
+2026-09-09
+
+來源：[Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
 
 ---
 

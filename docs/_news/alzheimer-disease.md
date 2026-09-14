@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,27 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（5 則）
 
-### [NHS doctors prescribing drugs linked to dementia without warning patients of risk - GB News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
+### [NHS ‘not ready’ to deliver breakthrough Alzheimer’s treatments - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
+
+2026-09-14
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
+
+---
+
+### ["Être aidant, c’est porter deux vies à la fois" : comment son mari est devenu un soutien essentiel pour cette Ariégeoise souffrant de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
+
+2026-09-14
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
+
+---
+
+### [NHS doctors prescribing drugs linked to dementia without warning patients of risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
 
 2026-09-13
 
-來源：[GB News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
+來源：[gbnews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
 
 ---
 
@@ -62,27 +78,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### ['Our daughter, 5, has devastating rare disease that has given her dementia - and she's getting worse' - The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
-
-2026-09-12
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUhtQnEzMGNlakZoRUxzTTNMNzJ0U1NGdWpDQ0NVa2dNMmVMWUNlZGZJQVAwQklIQmNzZ0ZQQTRZSk41Q0ZIQVFXRE1VT1BnTkxzdTVyTGxxdTVRMzlpSjVBOWtiaExGYWhlOW5Mbmh0REFZUy04ajVfRkdOa2dqbTB5RXlLakltMGY3QXZ3RjZTM1nSAZgBQVVfeXFMUERvNlBKZ0J6cmtIODJUVmFwbFRYclBnREJyczBKRE1nU2tHOFBoLWVxRUQteFZkSF9OZ3UyMXFVdTEyS2pBbE1yUHNWc283RjlzOXZuUVhac1JkenZ5RV9Nb2t0akgyQzRSZ3U2eDl6TjA3NFFPRkczbGlPcFFOYjUyUDJ3eDFTdnpLVk5Tby1EbFN3cDRiSEM?oc=5)
-
----
-
 ### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
 2026-09-11
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
-
----
-
-### [Being a carer 'nearly broke me' but love 'carried me through'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
-
-2026-09-07
-
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN3dZVk5HcWJtc3R1OHd4RHZzV0p3R1JqUWR2Z1BKQmllQTVkQ1RNR1hmaHQ0RlI5RC1VeEY1a1pqajc1Tl9xb2FCSWt0ZW9RR2cxRmlUUFdGSXRI?oc=5)
 
 ---
 
