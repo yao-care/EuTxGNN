@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [La migraña afecta a más de seis millones de personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNW95VGVKczZPeFR2LTNoaVRDZ2xObklZRXZfNzAteWJublNPRTQ2NFFrRGtoNVV4Y2dJb0UwRlRyWDdQOGl4S1V1c2tUeUxhbHVaMjZKYWJfVlVMczlZanlMcXBDc3h1dG1wd1RsUHlTaldKQ3dhd0U5U3BLYWEyZTFhcWhHRjRPU1ktVDVObVprd2NIRFVSQmhyeHhCczRPNF9RWGR30gGrAUFVX3lxTFAxVFJZZU54QU1Na1JjMnM1MGlnSm1BNGh1Wm00SklOeGE1MmlkWFRyeUpuallCMHN6cjg1SnFYakFBOWQ2U2Iwd29YT2NqRHktNmFhY0JxQkZpZGIwdGtrTE9oQ0lHekhxbnJzaHVwZjEtbm8wYURwYVVtaUFVWG5INHYyUWlKSy1HSmZvakNqeDJxN1RPQUY5aUl5VVJrcW5QTjN1bXRhdmlOUQ?oc=5)
+### [Caruso(Gemelli): "In asma e poliposi depemokimab efficace fino a 2 anni" - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asma</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
+
+---
+
+### [Especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir las migrañas](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVm1QRWlVZW01YlpLWjhYdUtiYlkxMXNTaTRHeTNQcGEycGRHMVNEM1RVRy1IMUhfc25zRVROODBhdHUwbFllc1g5R2hEaVBoTEY5RUZVLXBEQ0hSWHo4OElFSWtHTnZ6S2t5WGhtNU5NVHpkMHdnTTJxcGUxMk12QUlqNVJmWkU4SWZFV2ZnMVFQdE5NWmcwZjU5bjM2OWlyeGdxamdxN1JxQ25jSWRXZTNua21DZjVTaFNXcDlMWnV6cWd0YnlxZm5jVUl1S2NWWGpNVEFfM3ltU1ZJOTZCejVvVmQxUnF3YWZNOQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNW95VGVKczZPeFR2LTNoaVRDZ2xObklZRXZfNzAteWJublNPRTQ2NFFrRGtoNVV4Y2dJb0UwRlRyWDdQOGl4S1V1c2tUeUxhbHVaMjZKYWJfVlVMczlZanlMcXBDc3h1dG1wd1RsUHlTaldKQ3dhd0U5U3BLYWEyZTFhcWhHRjRPU1ktVDVObVprd2NIRFVSQmhyeHhCczRPNF9RWGR30gGrAUFVX3lxTFAxVFJZZU54QU1Na1JjMnM1MGlnSm1BNGh1Wm00SklOeGE1MmlkWFRyeUpuallCMHN6cjg1SnFYakFBOWQ2U2Iwd29YT2NqRHktNmFhY0JxQkZpZGIwdGtrTE9oQ0lHekhxbnJzaHVwZjEtbm8wYURwYVVtaUFVWG5INHYyUWlKSy1HSmZvakNqeDJxN1RPQUY5aUl5VVJrcW5QTjN1bXRhdmlOUQ?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVm1QRWlVZW01YlpLWjhYdUtiYlkxMXNTaTRHeTNQcGEycGRHMVNEM1RVRy1IMUhfc25zRVROODBhdHUwbFllc1g5R2hEaVBoTEY5RUZVLXBEQ0hSWHo4OElFSWtHTnZ6S2t5WGhtNU5NVHpkMHdnTTJxcGUxMk12QUlqNVJmWkU4SWZFV2ZnMVFQdE5NWmcwZjU5bjM2OWlyeGdxamdxN1JxQ25jSWRXZTNua21DZjVTaFNXcDlMWnV6cWd0YnlxZm5jVUl1S2NWWGpNVEFfM3ltU1ZJOTZCejVvVmQxUnF3YWZNOQ?oc=5)
+
+---
+
+### [El Hospital Macarena anticipa más 2.300 crisis de migraña con un proyecto de IA - La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">migraña</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/regadenoson/
 2026-09-13 <span class="news-indication-tag">migraine</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
-
----
-
-### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 ---
 

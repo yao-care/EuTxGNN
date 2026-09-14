@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（13 則）
 
-### [La migraña afecta a más de seis millones de personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNW95VGVKczZPeFR2LTNoaVRDZ2xObklZRXZfNzAteWJublNPRTQ2NFFrRGtoNVV4Y2dJb0UwRlRyWDdQOGl4S1V1c2tUeUxhbHVaMjZKYWJfVlVMczlZanlMcXBDc3h1dG1wd1RsUHlTaldKQ3dhd0U5U3BLYWEyZTFhcWhHRjRPU1ktVDVObVprd2NIRFVSQmhyeHhCczRPNF9RWGR30gGrAUFVX3lxTFAxVFJZZU54QU1Na1JjMnM1MGlnSm1BNGh1Wm00SklOeGE1MmlkWFRyeUpuallCMHN6cjg1SnFYakFBOWQ2U2Iwd29YT2NqRHktNmFhY0JxQkZpZGIwdGtrTE9oQ0lHekhxbnJzaHVwZjEtbm8wYURwYVVtaUFVWG5INHYyUWlKSy1HSmZvakNqeDJxN1RPQUY5aUl5VVJrcW5QTjN1bXRhdmlOUQ?oc=5)
+### [Especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir las migrañas](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVm1QRWlVZW01YlpLWjhYdUtiYlkxMXNTaTRHeTNQcGEycGRHMVNEM1RVRy1IMUhfc25zRVROODBhdHUwbFllc1g5R2hEaVBoTEY5RUZVLXBEQ0hSWHo4OElFSWtHTnZ6S2t5WGhtNU5NVHpkMHdnTTJxcGUxMk12QUlqNVJmWkU4SWZFV2ZnMVFQdE5NWmcwZjU5bjM2OWlyeGdxamdxN1JxQ25jSWRXZTNua21DZjVTaFNXcDlMWnV6cWd0YnlxZm5jVUl1S2NWWGpNVEFfM3ltU1ZJOTZCejVvVmQxUnF3YWZNOQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNW95VGVKczZPeFR2LTNoaVRDZ2xObklZRXZfNzAteWJublNPRTQ2NFFrRGtoNVV4Y2dJb0UwRlRyWDdQOGl4S1V1c2tUeUxhbHVaMjZKYWJfVlVMczlZanlMcXBDc3h1dG1wd1RsUHlTaldKQ3dhd0U5U3BLYWEyZTFhcWhHRjRPU1ktVDVObVprd2NIRFVSQmhyeHhCczRPNF9RWGR30gGrAUFVX3lxTFAxVFJZZU54QU1Na1JjMnM1MGlnSm1BNGh1Wm00SklOeGE1MmlkWFRyeUpuallCMHN6cjg1SnFYakFBOWQ2U2Iwd29YT2NqRHktNmFhY0JxQkZpZGIwdGtrTE9oQ0lHekhxbnJzaHVwZjEtbm8wYURwYVVtaUFVWG5INHYyUWlKSy1HSmZvakNqeDJxN1RPQUY5aUl5VVJrcW5QTjN1bXRhdmlOUQ?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVm1QRWlVZW01YlpLWjhYdUtiYlkxMXNTaTRHeTNQcGEycGRHMVNEM1RVRy1IMUhfc25zRVROODBhdHUwbFllc1g5R2hEaVBoTEY5RUZVLXBEQ0hSWHo4OElFSWtHTnZ6S2t5WGhtNU5NVHpkMHdnTTJxcGUxMk12QUlqNVJmWkU4SWZFV2ZnMVFQdE5NWmcwZjU5bjM2OWlyeGdxamdxN1JxQ25jSWRXZTNua21DZjVTaFNXcDlMWnV6cWd0YnlxZm5jVUl1S2NWWGpNVEFfM3ltU1ZJOTZCejVvVmQxUnF3YWZNOQ?oc=5)
+
+---
+
+### [La obesidad puede paralizar una defensa natural contra el cáncer de mama - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
+
+2026-09-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
+
+---
+
+### [Quiz: Kennen Sie die aktuellen Therapien bei Adipositas?](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjdnamhNcHEzZnRlc3lDRzV2UFB5STRiR0F5TURhTGxpc25uZS16NmxoTjhNTXJWYXQ0cGdZcjhTZTBYNnFEeGFGa1FaRm13UmpYZHBnMTdrY3Z6bEFidXVTc2NCcEpLLWgyQmdYNnJJR0hqYWctRmpUVDBrYWFlcjdhcHNMQ2JDa3JZSGZZbGFUSnRxbk5OV0lrdWlKZ0RyYnEtNWVaWlhUdUVkN3pn?oc=5)
+
+2026-09-14 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjdnamhNcHEzZnRlc3lDRzV2UFB5STRiR0F5TURhTGxpc25uZS16NmxoTjhNTXJWYXQ0cGdZcjhTZTBYNnFEeGFGa1FaRm13UmpYZHBnMTdrY3Z6bEFidXVTc2NCcEpLLWgyQmdYNnJJR0hqYWctRmpUVDBrYWFlcjdhcHNMQ2JDa3JZSGZZbGFUSnRxbk5OV0lrdWlKZ0RyYnEtNWVaWlhUdUVkN3pn?oc=5)
+
+---
+
+### [El Hospital Macarena anticipa más 2.300 crisis de migraña con un proyecto de IA - La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">migraña</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+
+---
+
+### [Obesidad y enfermedad psoriásica: hacia un nuevo estándar de cuidado - El médico interactivo](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbE9tTTlDM0ktNUU4cHJITUhCUUVUSmxPOFBUVkFaeWZWUkdhdmFHdjVjXzJ4VWJPSlFsb0l5a2N0OFpzLWdjQzFsQnlyNTR3dVpWRVR6cnNHQXh3LWlqQnpnam5SLVBZYThfek5fOThvajBpeVRTX2NHR0R5dGsxQnZIcl80aGFYSWpBcGNGLVFVeDJubW0yZjhOb2Q1Y1B0SFE?oc=5)
+
+2026-09-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbE9tTTlDM0ktNUU4cHJITUhCUUVUSmxPOFBUVkFaeWZWUkdhdmFHdjVjXzJ4VWJPSlFsb0l5a2N0OFpzLWdjQzFsQnlyNTR3dVpWRVR6cnNHQXh3LWlqQnpnam5SLVBZYThfek5fOThvajBpeVRTX2NHR0R5dGsxQnZIcl80aGFYSWpBcGNGLVFVeDJubW0yZjhOb2Q1Y1B0SFE?oc=5)
 
 ---
 
@@ -67,6 +99,14 @@ permalink: /news/lasmiditan-succinate/
 2026-09-14 <span class="news-indication-tag">obesidad</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXU4TURPR1ZEZXdXcWVKcG5UQU9KQTNNU214ZFFaYlNxZC1YSzNQV2stZDR0dmszX2xTM0dtU09tZGNKQUJmV1RZWTF1dWZxS3JieXEza19fZVMyOEI0S0F4RUN4cVFxTlMtcEFCdWZSY0FBcGpWRVEzbmlnU2ttZGU5VWNwODZDVTl0ZkdYU0VzV2NpNUZOTWtuc1h0NmVoMkk4TXdiNlBLYlpXSkh2MG42MGQ5dms?oc=5)
+
+---
+
+### [INFO RTL - Wegovy et Mounjaro : depuis leur remboursement, l'engouement pour les traitements contre l'obésité se confirme avec 86.000 boîtes prises en charge](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
+
+2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
 
 ---
 
@@ -102,17 +142,9 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [La cirugía para perder peso que mejora de la fertilidad femenina - Reporte Asia](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzF2Vks5V2J4NkEwX0w3Ymk2VThTSmZvWmhqbElSckFRUEhnYk1OdVdweExqdGFzWG50cE9NX3doZm9fNjUtY1pkXy00aFhJRnU3RFh2QTRDSVpCcllqUjNoNkNOS3lrcmZRM1oxclRHTVduVGk3RnVIUzlVc1R1OHJ5dTVEUk1IN0lXeWRHSUVudw?oc=5)
-
-2026-09-12 <span class="news-indication-tag">obesidad</span>
-
-來源：[Reporte Asia](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzF2Vks5V2J4NkEwX0w3Ymk2VThTSmZvWmhqbElSckFRUEhnYk1OdVdweExqdGFzWG50cE9NX3doZm9fNjUtY1pkXy00aFhJRnU3RFh2QTRDSVpCcllqUjNoNkNOS3lrcmZRM1oxclRHTVduVGk3RnVIUzlVc1R1OHJ5dTVEUk1IN0lXeWRHSUVudw?oc=5)
-
----
-
 ### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
@@ -123,14 +155,6 @@ permalink: /news/lasmiditan-succinate/
 2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
-
----
-
-### [Schlafapnoe bei Adipositas: GLP-1-Rezeptoragonisten als Ergänzung zu CPAP – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
-
-2026-09-07 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFZVbGlQS09mVXE2aGZtZ01hTTdvR1NjWk9TQUxRM0NzYTBzcXh0OUUyRDB3MlJQa3V4VFlIMmN0dVhvRENlNEt2TzlJS3dBRVgyclZZeC1fM25halZfQXVITHlRQkNQRkM1SlFWeFdHdVBLM2lHYlB0djB4bjd2bXhYM1J6QjVzbmJTc29HWHE5eFJQZzUtN1FHNVhtdDZ1ZW1XSVlSVTNYbHc5Vml0RnFzZ0o0Q1IzcjVtQVpmMHdDMzFHMG9nZzJQa01hS0FFLXVXMFZvRWM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（17 則）
+
+### [El CREA de Salamanca analiza los últimos avances en el diagnóstico precoz del alzhéimer - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWXJ3amItS2tVR3N5MUppX0Z4THRjdGpSQ1BMTURDOXMwQmNncldJbllvOE9faGp1RkVnX2tJUjJldlREQXljd2xnd2w0UGZjdW8ybjBFRlBoRWxDMkhKNG9CWFNqMFBuYlNJaEt4eTQzRzZsdDBjOEVTajZsa0ZRZnBFdXNsVm4yektYSVg0WjB3cVVmWFB2SXlnekZFbnk4bUphR3hQcDc5dW1kVmhtOWZBa3Nva2Fnc2lNcDM2b1h1Mk0zQWVzMUlYTmp2LUZBV0E?oc=5)
+
+2026-09-14 <span class="news-indication-tag">MS</span>
+
+來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWXJ3amItS2tVR3N5MUppX0Z4THRjdGpSQ1BMTURDOXMwQmNncldJbllvOE9faGp1RkVnX2tJUjJldlREQXljd2xnd2w0UGZjdW8ybjBFRlBoRWxDMkhKNG9CWFNqMFBuYlNJaEt4eTQzRzZsdDBjOEVTajZsa0ZRZnBFdXNsVm4yektYSVg0WjB3cVVmWFB2SXlnekZFbnk4bUphR3hQcDc5dW1kVmhtOWZBa3Nva2Fnc2lNcDM2b1h1Mk0zQWVzMUlYTmp2LUZBV0E?oc=5)
+
+---
+
+### [Das UKSH-Gesundheitsforum des Universitätsklinikums Schleswig-Holstein bietet am 25. September einen besonderen Aktionstag anlässlich des Jubiläums mit kostenfreien Mitmachaktionen. - Kieler Nachrichten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXJEUXBWeG1SR01GTEpuR0Vsd3ZRT2J6WlZ5RXNlSWZJQ19FZWdWczZyLXpLYktlbHBMSVdlMDBfcDFGQXp3NzN3T0V5MUJTRWNvQW9BUDg3OVdsbS1Ca3pPZlpsQnE5U2RiUzdIcXEwbXFTU1Z3M2xzUlZFZ19FSUFBcS1wRUN1SUY0U2RsTGVGZTdxN1NNQ3plVkVuNENhV3RNcVRXY1pHSm9KT1NjMmZlQ0FLYlF2YlMyVTlUc0czR1VpNm1JZGpoalFCblNHbkRzLU1OWTFDT3VQT0JzRFFQbGV0UzVKZVhKRlpvRkxqTTkxMmJIXzNmQUpFYU9uX2g5cG81MmVzb2dnRGdPaw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">MS</span>
+
+來源：[Kieler Nachrichten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXJEUXBWeG1SR01GTEpuR0Vsd3ZRT2J6WlZ5RXNlSWZJQ19FZWdWczZyLXpLYktlbHBMSVdlMDBfcDFGQXp3NzN3T0V5MUJTRWNvQW9BUDg3OVdsbS1Ca3pPZlpsQnE5U2RiUzdIcXEwbXFTU1Z3M2xzUlZFZ19FSUFBcS1wRUN1SUY0U2RsTGVGZTdxN1NNQ3plVkVuNENhV3RNcVRXY1pHSm9KT1NjMmZlQ0FLYlF2YlMyVTlUc0czR1VpNm1JZGpoalFCblNHbkRzLU1OWTFDT3VQT0JzRFFQbGV0UzVKZVhKRlpvRkxqTTkxMmJIXzNmQUpFYU9uX2g5cG81MmVzb2dnRGdPaw?oc=5)
+
+---
+
+### [Des milliers de personnes ont été observées pendant 26 ans : celles qui ont évité 3 problèmes ont vécu sans démence 13 ans de plus](https://news.google.com/rss/articles/CBMieEFVX3lxTE4zdGk3X29VZTlsVlFXNVRQbUhUandaM1ZnalhfcHJnVi0xQkUyOEZnNmFiRWQ1YjV5Vy1NMWg4Z1pVVzR5UDByZFZiYXIxYS1DZXExSlQ1eGtZc19sQTJLLUVhQUxwYUc3blotdXEwd1lXdllnWDZzTQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">MS</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE4zdGk3X29VZTlsVlFXNVRQbUhUandaM1ZnalhfcHJnVi0xQkUyOEZnNmFiRWQ1YjV5Vy1NMWg4Z1pVVzR5UDByZFZiYXIxYS1DZXExSlQ1eGtZc19sQTJLLUVhQUxwYUc3blotdXEwd1lXdllnWDZzTQ?oc=5)
+
+---
+
+### [Entzündungen: Wie ein Protein die Abwehrreaktion der Hautzellen reguliert](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUNMQWFwUnBYVjZtS1R5U3k2ZGZDaU1TSG42X0FOVHRZcDRtdWlxNUVJcV91dGxYLWYyQjZnUkM2RHZJbTVpMHNEclJhYXpNdkVTX3FGV1NUcDVvLXdnbFlKd2NTbUExTnhOUjlzQU4zSzkyLVVSZnNSWmNUUW43MHFsa0dmMzBrSFJaeDNSNEtLUkk?oc=5)
+
+2026-09-14 <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUNMQWFwUnBYVjZtS1R5U3k2ZGZDaU1TSG42X0FOVHRZcDRtdWlxNUVJcV91dGxYLWYyQjZnUkM2RHZJbTVpMHNEclJhYXpNdkVTX3FGV1NUcDVvLXdnbFlKd2NTbUExTnhOUjlzQU4zSzkyLVVSZnNSWmNUUW43MHFsa0dmMzBrSFJaeDNSNEtLUkk?oc=5)
+
+---
 
 ### [Más de 55.000 personas conviven en España con una esclerosis múltiple que sigue sin cura](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5ck5hVU1NZ3R2NGJvWFNzN3FfSm9xa2hqamtxbmdwOHNKQXFPbG54cTNUVWM1VXB4TWNNc3U1NGZWSEFJZlRtdnJlR2ZCOGdGcEFnMFFKd0NpcHRua3MxMFBxUnlaX2cwaUdlQ3pzaG9lbmgwWmljaWJ5Nnk4VFkwdmhwMmdwclFYN0E4MXpTQ1I1OWpwaGFBcFFUNTA2Qzktc2NGNTFBZ190MDFmSld1UWpZdw?oc=5)
 
@@ -62,19 +94,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Il utilise ChatGPT dans son laboratoire et découvre qu’un médicament contre la schizophrénie pourrait aider à traiter Alzheimer - La Crème Du Gaming](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlYtYnpDdnVQa1psZ2I4bTVneU1rejB0QnVnRTBrbW1XWHZhQTBfU0xGb243dEFJdGsyTE5FVzkwNGZ5WXNWY00zaUhlLVJjWkh3MEI1dDRFU2NjTnB6S05xQ3FsMGFzNU5rcmpFd1JfZzNqbWY5dUpUbDNwV2RIZmdIbEp2YVBxSi0ydnJSbWxtVjBTUnZJX2NZRUlFUHEzOUR5eTduY3NNSks5OTIzUjFkUDZBWGRnNmctS2xUTFBUZXZQY0F2QU42SXVCQ1d4ZTZNWGxkaERPVkx1Um55SGc0aGN2ZThQQjJMX25sbE9JNzVzenV1enpyWmkyd3NrLXpHSkExWm1IdVU?oc=5)
+### [Alzheimer, cambia l’architettura del DNA nel cervello: la nuova scoperta](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkYzS1hrNFAwZ2lZcFJuTjkzYzFtSExJa0NrTWRwLUtuNFhpWUpnSUFYZTAyRlh6dnBKWXdrNTF4TVNtWDZ0Z3RfY2FYX1VFNHhRTVl4QXZwMVNjWENsMjJyVVRSdWtSNU9NSFA5dFVoYnNYQXY2UzVJaUtyQTBZUVNMaGxCREotSmUwdlNZRmJWU2J4aXRJWUJPRGVESFlWVkd0OWJRTW5ERGViZnlwbk5IemdTcVRGZWNOMmVjVW0yaW9XMkhjRA?oc=5)
 
 2026-09-14 <span class="news-indication-tag">MS</span>
 
-來源：[La Crème Du Gaming](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlYtYnpDdnVQa1psZ2I4bTVneU1rejB0QnVnRTBrbW1XWHZhQTBfU0xGb243dEFJdGsyTE5FVzkwNGZ5WXNWY00zaUhlLVJjWkh3MEI1dDRFU2NjTnB6S05xQ3FsMGFzNU5rcmpFd1JfZzNqbWY5dUpUbDNwV2RIZmdIbEp2YVBxSi0ydnJSbWxtVjBTUnZJX2NZRUlFUHEzOUR5eTduY3NNSks5OTIzUjFkUDZBWGRnNmctS2xUTFBUZXZQY0F2QU42SXVCQ1d4ZTZNWGxkaERPVkx1Um55SGc0aGN2ZThQQjJMX25sbE9JNzVzenV1enpyWmkyd3NrLXpHSkExWm1IdVU?oc=5)
-
----
-
-### [Why Bangladesh has lost 1,000 lives to measles despite record vaccine drive - Al Jazeera](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHlteHgwNzRxZG5mTTNid05tU3JBcS1DdjJhWkowTkJoejAwd1JISG1xbzV2OE9Nbi10Z3VhdldlSUl3UVRQejFUYklLdUVYd0hkSW01aUZOV1FqbXowYUhOVXFwc01BamUtNmFPZDdFb3hyTXdmZlpVOS1saVVORVJPNEx3eFBfRG5scEhQNGVJV3I2d1Nvalo3SUVfXzVVNEh3eDRGZm9fOW1XOFptcWtjZEZWd9IBuwFBVV95cUxQT3dtak9JMUU4Q3d0S1hsVzUwS0hOMDBnQk5Bdkl2MXhvS292SW1GSnhTUWxTZDF2Y05Nemg2NlF6YnZTNmtNR1B6MEcwMk9tUUNhZk9mNE95RjhhVE1zalJtbnQ2TmhScUZ5b09iTS1CQ19oam1rS2NXZlN3bENYR3ZzVGFrMVJpQmtPSWVlZVFuekZYSmhCM1FsUDQwcDB2OFlSMUxSQlFUY082WWE5dkNVdEc0Z2VaMlc4?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHlteHgwNzRxZG5mTTNid05tU3JBcS1DdjJhWkowTkJoejAwd1JISG1xbzV2OE9Nbi10Z3VhdldlSUl3UVRQejFUYklLdUVYd0hkSW01aUZOV1FqbXowYUhOVXFwc01BamUtNmFPZDdFb3hyTXdmZlpVOS1saVVORVJPNEx3eFBfRG5scEhQNGVJV3I2d1Nvalo3SUVfXzVVNEh3eDRGZm9fOW1XOFptcWtjZEZWd9IBuwFBVV95cUxQT3dtak9JMUU4Q3d0S1hsVzUwS0hOMDBnQk5Bdkl2MXhvS292SW1GSnhTUWxTZDF2Y05Nemg2NlF6YnZTNmtNR1B6MEcwMk9tUUNhZk9mNE95RjhhVE1zalJtbnQ2TmhScUZ5b09iTS1CQ19oam1rS2NXZlN3bENYR3ZzVGFrMVJpQmtPSWVlZVFuekZYSmhCM1FsUDQwcDB2OFlSMUxSQlFUY082WWE5dkNVdEc0Z2VaMlc4?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkYzS1hrNFAwZ2lZcFJuTjkzYzFtSExJa0NrTWRwLUtuNFhpWUpnSUFYZTAyRlh6dnBKWXdrNTF4TVNtWDZ0Z3RfY2FYX1VFNHhRTVl4QXZwMVNjWENsMjJyVVRSdWtSNU9NSFA5dFVoYnNYQXY2UzVJaUtyQTBZUVNMaGxCREotSmUwdlNZRmJWU2J4aXRJWUJPRGVESFlWVkd0OWJRTW5ERGViZnlwbk5IemdTcVRGZWNOMmVjVW0yaW9XMkhjRA?oc=5)
 
 ---
 
@@ -83,14 +107,6 @@ permalink: /news/rotigotine/
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
-### [La démence, des troubles qui augmentent avec notre espérance de vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV09xdVkzc3IyYVltVDlxa0lrWjgtYnExU3JqVUwxNVQ5S29OdVVuclo0MTg1OHBZSlVWVWJtY3NoY3ZLclk2QXR4UE9xWlJkS0cwLWtSUUlSWDhGUnlpVXpKZlpNVWJrR3c0MlU4RDJvU3NsRHhaZzFwT2x6Nmp2bDZkeGw1UUFDLTQ0bWFwaVdLVlB0bmR2NlRDcmx5THBPMDNPQm0wUjUzckZoSWNRdnVWVkJFUTliT0QwUk1EYnpycjFTY2hNMWFR?oc=5)
-
-2026-09-13 <span class="news-indication-tag">MS</span>
-
-來源：[nationalgeographic.fr](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV09xdVkzc3IyYVltVDlxa0lrWjgtYnExU3JqVUwxNVQ5S29OdVVuclo0MTg1OHBZSlVWVWJtY3NoY3ZLclk2QXR4UE9xWlJkS0cwLWtSUUlSWDhGUnlpVXpKZlpNVWJrR3c0MlU4RDJvU3NsRHhaZzFwT2x6Nmp2bDZkeGw1UUFDLTQ0bWFwaVdLVlB0bmR2NlRDcmx5THBPMDNPQm0wUjUzckZoSWNRdnVWVkJFUTliT0QwUk1EYnpycjFTY2hNMWFR?oc=5)
 
 ---
 
@@ -142,27 +158,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Nurse previously given months to live now cancer-free after groundbreaking operation at hospital](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
-
-2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
-
----
-
-### [Bislang unbekannte Immunbremse in Hautzellen entdeckt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxQai1oYmN4WEd6Q25Sc1lhVXQxTGhPdlZwUEU1Tk1HLVdjLVdZaXdrRHE2QndNel9FSnc1TWxkN3FWU3lYN2oyT05EYnE2Z1dHNEp3SERuYml2SkpwRl85Mk9KUGVqN19fNFNGXzZkR08yWTF4ZGFNNGo1SUlUM1NuNnVwcllGOWNiTldBUzBvOGlrNEdFZHNveWJwRW5GU00?oc=5)
-
-2026-09-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxQai1oYmN4WEd6Q25Sc1lhVXQxTGhPdlZwUEU1Tk1HLVdjLVdZaXdrRHE2QndNel9FSnc1TWxkN3FWU3lYN2oyT05EYnE2Z1dHNEp3SERuYml2SkpwRl85Mk9KUGVqN19fNFNGXzZkR08yWTF4ZGFNNGo1SUlUM1NuNnVwcllGOWNiTldBUzBvOGlrNEdFZHNveWJwRW5GU00?oc=5)
-
----
-
 ### [Der gefährlichste Bewohner des Terrariums ist oft unsichtbar](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 2026-09-11 <span class="news-indication-tag">MS</span>
 
-來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 ---
 
@@ -174,19 +174,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Hohe Fluorid-Konzentration im Trinkwasser von Schwangeren könnte kognitive Entwicklung der Kinder bremsen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMihAJBVV95cUxOemQ3bi1SU2lVNXE3aXhDLVVQMGpnTWpzNmhFOEdpSFpZeF9hWkJJNXExWUQ2dUhrLU0wYTJrTUYwVmQ2SjRmdnpGYWp0d3B1WC1ROVJhV2gybHY4blB3OGh5VVZCVFpVRzM3MGhiTkF1V1l0SDY1YnUyOEVKT3BOdVdxVnpfSTBwdzdCRlFkRVZwR2xQQnhNVFU5MDdySlZvYlNEdXlWVEdSUlRTNmJaQlQ0NjNlZi12X3prcDYtUEloa1RPdjJUWkV6SE1Bb1pOdkpaQk1xNXNEcURHQzZVZzdMcktBWEtLLUcwNFdjWmVQa1hXQ1VlaThfOVBYRFlCbWtpYw?oc=5)
+### [Laptop sulla pancia per 8 ore al giorno: la pelle gli si è “stampata” a rete](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2l5QVB5WEJxNW0xWXQ0Q2xzdHczaFhQNkxySE16MXB5eWtrampKR0JFelZVLVk1SWJZdFhWTkZFeUVQOS1PajNKd25VTXd2b2VISDhINHJ2QU81ZExhUGx1dHUwMmVPZDd3d3V1bW05TERGMm1YRzRBZ2Itd2F5eFZXaGs4Z0pocG5RaVRmV1BvVDlVWERkM0lUaXBtVGp0NjdGb3lTSEdQQkk3TTdpOXcyQmNkeVl5WkJrbkg3bVRudw?oc=5)
 
-2026-09-10 <span class="news-indication-tag">MS</span>
+2026-09-09 <span class="news-indication-tag">MS</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMihAJBVV95cUxOemQ3bi1SU2lVNXE3aXhDLVVQMGpnTWpzNmhFOEdpSFpZeF9hWkJJNXExWUQ2dUhrLU0wYTJrTUYwVmQ2SjRmdnpGYWp0d3B1WC1ROVJhV2gybHY4blB3OGh5VVZCVFpVRzM3MGhiTkF1V1l0SDY1YnUyOEVKT3BOdVdxVnpfSTBwdzdCRlFkRVZwR2xQQnhNVFU5MDdySlZvYlNEdXlWVEdSUlRTNmJaQlQ0NjNlZi12X3prcDYtUEloa1RPdjJUWkV6SE1Bb1pOdkpaQk1xNXNEcURHQzZVZzdMcktBWEtLLUcwNFdjWmVQa1hXQ1VlaThfOVBYRFlCbWtpYw?oc=5)
-
----
-
-### [La microbiota intestinal emerge como un factor común en distintas enfermedades inflamatorias](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
-
-2026-09-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJvQmw4REJnT3JqT055UVRvRjNWN1hfdmFFWllXV09ZdXNHNEd1cXllU2h1UEFhRTJWMnNJb2Mzc0hrRXRxNXFvcTR5dFM5cXlWelBZcEFwMHktQzh5OEJqSWs5RzJwV3JwZGFiRl9KcDh6c1RKSVJSRDhHa0VKLWFGT3pzUkhQaG1SWjRUOXhfQkREX0FCQWdhTDdfbzhHWmRfOGtGeG01VGkxdU04T3NEckNMdEtBblVBOWJR?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2l5QVB5WEJxNW0xWXQ0Q2xzdHczaFhQNkxySE16MXB5eWtrampKR0JFelZVLVk1SWJZdFhWTkZFeUVQOS1PajNKd25VTXd2b2VISDhINHJ2QU81ZExhUGx1dHUwMmVPZDd3d3V1bW05TERGMm1YRzRBZ2Itd2F5eFZXaGs4Z0pocG5RaVRmV1BvVDlVWERkM0lUaXBtVGp0NjdGb3lTSEdQQkk3TTdpOXcyQmNkeVl5WkJrbkg3bVRudw?oc=5)
 
 ---
 

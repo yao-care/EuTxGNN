@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
-### [Marcador genético común predice deterioro motor más rápido en la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWpSUjIzSFcxYkRCUk5QLWRUQnhETktlaTE4RDRDbEMzUlVqVHlaWG8xX2c0bkhKYWZrZVdCOGdCZ0tUZVZ4dDc3TWZHZGFMMnk3dW15YW9GT1hFck5MT1VUNmFHZFlEUUlCZlBxcWdsellsNHllVzJ6MzN5UjhOdkZoR0kwU1VfbXpHV2JRZzZucHJCTHVNQllTUlJfcXNpcHRoTW90S0hkQ25McmF5R0JrZzd2UjBJZmh2V1ltdVZITW9aN1NvNXhSTDZqZWljcG1jQ0FWZWRPZ1dkYml5bm1jMGg2UHlGcU9V0gH6AUFVX3lxTE1vRC14SnZwR2pXM3dOVDJnM1NEaXk1WXlSRjA5UDlKbVEyOXNCY2xCc1FYUXdzSExmLWRZdzBhanEydEtMZ04zOGE3V2t6b0RyOE91UDJaeFNNd2czbXdwMmJGckVWUjBvbnZGNnZDdHNYbHUtemR3cDZmNENDUjV0YnZkbDVyVC14SWtDSGw2VVVEUTNYdW5Sa0JJN3NlengxWE93RmJJX3J1SEdJS1lReG9xcEJfbTY3M3Z5WkVkTGhIYlFmd3psLS1FdXJ3V0tqaVpYV0s1NG5MRDk4enFSb2w3RHRDSlU4cXpfMjdBVDNVLUVCbmpVaXc?oc=5)
-
-2026-09-11 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[labmedica.es](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWpSUjIzSFcxYkRCUk5QLWRUQnhETktlaTE4RDRDbEMzUlVqVHlaWG8xX2c0bkhKYWZrZVdCOGdCZ0tUZVZ4dDc3TWZHZGFMMnk3dW15YW9GT1hFck5MT1VUNmFHZFlEUUlCZlBxcWdsellsNHllVzJ6MzN5UjhOdkZoR0kwU1VfbXpHV2JRZzZucHJCTHVNQllTUlJfcXNpcHRoTW90S0hkQ25McmF5R0JrZzd2UjBJZmh2V1ltdVZITW9aN1NvNXhSTDZqZWljcG1jQ0FWZWRPZ1dkYml5bm1jMGg2UHlGcU9V0gH6AUFVX3lxTE1vRC14SnZwR2pXM3dOVDJnM1NEaXk1WXlSRjA5UDlKbVEyOXNCY2xCc1FYUXdzSExmLWRZdzBhanEydEtMZ04zOGE3V2t6b0RyOE91UDJaeFNNd2czbXdwMmJGckVWUjBvbnZGNnZDdHNYbHUtemR3cDZmNENDUjV0YnZkbDVyVC14SWtDSGw2VVVEUTNYdW5Sa0JJN3NlengxWE93RmJJX3J1SEdJS1lReG9xcEJfbTY3M3Z5WkVkTGhIYlFmd3psLS1FdXJ3V0tqaVpYV0s1NG5MRDk4enFSb2w3RHRDSlU4cXpfMjdBVDNVLUVCbmpVaXc?oc=5)
 
 ---
 

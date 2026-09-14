@@ -3,7 +3,7 @@ layout: default
 title: "epilepsia（epilepsy） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epilepsia（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
+description: "epilepsia（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epilepsy/
 ---
 
 <p class="key-answer" data-question="epilepsia（epilepsy） 有什麼相關新聞？">
-<strong>epilepsia（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
+<strong>epilepsia（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [El alzhéimer aumenta el riesgo de epilepsia en adultos con síndrome de Down, según estudio](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
+### [La epilepsia es más común en países de bajos ingresos](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
 
 2026-09-13
 
-來源：[udgtv.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
+來源：[theconversation.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
+
+---
+
+### [El alzhéimer aumenta el riesgo de epilepsia en adultos con síndrome de Down, según estudio - UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
+
+2026-09-13
+
+來源：[UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
 
 ---
 

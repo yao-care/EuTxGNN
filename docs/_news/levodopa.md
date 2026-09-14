@@ -48,6 +48,14 @@ permalink: /news/levodopa/
 
 ## 相關新聞（6 則）
 
+### [Pascual-Sánchez ve en la prevención precoz la gran esperanza frente al alzhéimer y apunta a los próximos cinco años](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
+
+---
+
 ### [NHS ‘not ready’ to deliver breakthrough Alzheimer’s treatments - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">Alzheimer's</span>
@@ -64,11 +72,11 @@ permalink: /news/levodopa/
 
 ---
 
-### [NHS doctors prescribing drugs linked to dementia without warning patients of risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
+### [NHS doctors prescribing drugs linked to dementia without warning patients of risk - GB News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
 
 2026-09-13 <span class="news-indication-tag">dementia</span>
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
 
 ---
 
@@ -80,17 +88,9 @@ permalink: /news/levodopa/
 
 ---
 
-### [Marcador genético común predice deterioro motor más rápido en la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWpSUjIzSFcxYkRCUk5QLWRUQnhETktlaTE4RDRDbEMzUlVqVHlaWG8xX2c0bkhKYWZrZVdCOGdCZ0tUZVZ4dDc3TWZHZGFMMnk3dW15YW9GT1hFck5MT1VUNmFHZFlEUUlCZlBxcWdsellsNHllVzJ6MzN5UjhOdkZoR0kwU1VfbXpHV2JRZzZucHJCTHVNQllTUlJfcXNpcHRoTW90S0hkQ25McmF5R0JrZzd2UjBJZmh2V1ltdVZITW9aN1NvNXhSTDZqZWljcG1jQ0FWZWRPZ1dkYml5bm1jMGg2UHlGcU9V0gH6AUFVX3lxTE1vRC14SnZwR2pXM3dOVDJnM1NEaXk1WXlSRjA5UDlKbVEyOXNCY2xCc1FYUXdzSExmLWRZdzBhanEydEtMZ04zOGE3V2t6b0RyOE91UDJaeFNNd2czbXdwMmJGckVWUjBvbnZGNnZDdHNYbHUtemR3cDZmNENDUjV0YnZkbDVyVC14SWtDSGw2VVVEUTNYdW5Sa0JJN3NlengxWE93RmJJX3J1SEdJS1lReG9xcEJfbTY3M3Z5WkVkTGhIYlFmd3psLS1FdXJ3V0tqaVpYV0s1NG5MRDk4enFSb2w3RHRDSlU4cXpfMjdBVDNVLUVCbmpVaXc?oc=5)
-
-2026-09-11 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[labmedica.es](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWpSUjIzSFcxYkRCUk5QLWRUQnhETktlaTE4RDRDbEMzUlVqVHlaWG8xX2c0bkhKYWZrZVdCOGdCZ0tUZVZ4dDc3TWZHZGFMMnk3dW15YW9GT1hFck5MT1VUNmFHZFlEUUlCZlBxcWdsellsNHllVzJ6MzN5UjhOdkZoR0kwU1VfbXpHV2JRZzZucHJCTHVNQllTUlJfcXNpcHRoTW90S0hkQ25McmF5R0JrZzd2UjBJZmh2V1ltdVZITW9aN1NvNXhSTDZqZWljcG1jQ0FWZWRPZ1dkYml5bm1jMGg2UHlGcU9V0gH6AUFVX3lxTE1vRC14SnZwR2pXM3dOVDJnM1NEaXk1WXlSRjA5UDlKbVEyOXNCY2xCc1FYUXdzSExmLWRZdzBhanEydEtMZ04zOGE3V2t6b0RyOE91UDJaeFNNd2czbXdwMmJGckVWUjBvbnZGNnZDdHNYbHUtemR3cDZmNENDUjV0YnZkbDVyVC14SWtDSGw2VVVEUTNYdW5Sa0JJN3NlengxWE93RmJJX3J1SEdJS1lReG9xcEJfbTY3M3Z5WkVkTGhIYlFmd3psLS1FdXJ3V0tqaVpYV0s1NG5MRDk4enFSb2w3RHRDSlU4cXpfMjdBVDNVLUVCbmpVaXc?oc=5)
-
----
-
 ### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
-2026-09-11 <span class="news-indication-tag">Alzheimer's</span>
+2026-09-11 <span class="news-indication-tag">alzheimer disease</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 

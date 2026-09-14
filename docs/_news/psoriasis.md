@@ -3,7 +3,7 @@ layout: default
 title: "soriasi（psoriasis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "soriasi（psoriasis） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "soriasi（psoriasis） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="soriasi（psoriasis） 有什麼相關新聞？">
-<strong>soriasi（psoriasis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>soriasi（psoriasis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Un especialista insiste en que la psoriasis pustulosa generalizada es multisistémica y precisa abordaje multidisciplinar](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2ZyYThwVFZHTzBpUzhvbk9kNGR1bW9Rc1ptWEwyZUhFYUp0a3ZUVXg4a05kV2FOQ09SMGZjVWY5eXhSVkVIeHNMSExORkY4ZnAwbnB1dk1oWDcxRFU4NlRJUUdmbVdPTGN5QnZPa1lhZjl6UHBZVDI3VFpVbmxLNGFHT1hSd0NvQ1UwY1BKR2E0S29xYUp6czNjaUxtb2JZQXowVjhPd3RMN1dyTk01LWd4bXRTVVZpSzEyVUdoZUNXbnl4a3Nxb2o3b3Z3Um1FMGM0aHhTdy1uV2NNaEtqZzhkV3dzbFR4T2fSAe8BQVVfeXFMUEVNSkoyam1XNlltUzVWY0RxUFlUMEJjV0NJS3dXcVhQSWExaHIwMnRMMlhEcFpMUDdCQW5Ba2hSNzZ5eWc3N0k0VURaU2NrZjlOYkw0VDNyUk40N1V4aUdIVWFuOHJ0bS1qcEowMWFzQ2RGZnoyUHNqVGpFNk40X0tpRzI2Vi1udTJaSXE3QTZnVXZ6NDJQd1o3UDBrdlVSNVBRMy1HRTlYQ29mT0lTZkJzaUczYnFwNm9VOFl5QXIwU2hWZU44NmlUd1ZqUVI2OVF5eXNKNUc5a3VEZ0JKSDF0eFVPM0pTdFAyVGpMbzQ?oc=5)
+
+2026-09-14
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2ZyYThwVFZHTzBpUzhvbk9kNGR1bW9Rc1ptWEwyZUhFYUp0a3ZUVXg4a05kV2FOQ09SMGZjVWY5eXhSVkVIeHNMSExORkY4ZnAwbnB1dk1oWDcxRFU4NlRJUUdmbVdPTGN5QnZPa1lhZjl6UHBZVDI3VFpVbmxLNGFHT1hSd0NvQ1UwY1BKR2E0S29xYUp6czNjaUxtb2JZQXowVjhPd3RMN1dyTk01LWd4bXRTVVZpSzEyVUdoZUNXbnl4a3Nxb2o3b3Z3Um1FMGM0aHhTdy1uV2NNaEtqZzhkV3dzbFR4T2fSAe8BQVVfeXFMUEVNSkoyam1XNlltUzVWY0RxUFlUMEJjV0NJS3dXcVhQSWExaHIwMnRMMlhEcFpMUDdCQW5Ba2hSNzZ5eWc3N0k0VURaU2NrZjlOYkw0VDNyUk40N1V4aUdIVWFuOHJ0bS1qcEowMWFzQ2RGZnoyUHNqVGpFNk40X0tpRzI2Vi1udTJaSXE3QTZnVXZ6NDJQd1o3UDBrdlVSNVBRMy1HRTlYQ29mT0lTZkJzaUczYnFwNm9VOFl5QXIwU2hWZU44NmlUd1ZqUVI2OVF5eXNKNUc5a3VEZ0JKSDF0eFVPM0pTdFAyVGpMbzQ?oc=5)
+
+---
 
 ### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
 

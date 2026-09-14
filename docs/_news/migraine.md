@@ -3,7 +3,7 @@ layout: default
 title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<strong>migraña（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,13 +77,21 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [La migraña afecta a más de seis millones de personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNW95VGVKczZPeFR2LTNoaVRDZ2xObklZRXZfNzAteWJublNPRTQ2NFFrRGtoNVV4Y2dJb0UwRlRyWDdQOGl4S1V1c2tUeUxhbHVaMjZKYWJfVlVMczlZanlMcXBDc3h1dG1wd1RsUHlTaldKQ3dhd0U5U3BLYWEyZTFhcWhHRjRPU1ktVDVObVprd2NIRFVSQmhyeHhCczRPNF9RWGR30gGrAUFVX3lxTFAxVFJZZU54QU1Na1JjMnM1MGlnSm1BNGh1Wm00SklOeGE1MmlkWFRyeUpuallCMHN6cjg1SnFYakFBOWQ2U2Iwd29YT2NqRHktNmFhY0JxQkZpZGIwdGtrTE9oQ0lHekhxbnJzaHVwZjEtbm8wYURwYVVtaUFVWG5INHYyUWlKSy1HSmZvakNqeDJxN1RPQUY5aUl5VVJrcW5QTjN1bXRhdmlOUQ?oc=5)
+### [Especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir las migrañas](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVm1QRWlVZW01YlpLWjhYdUtiYlkxMXNTaTRHeTNQcGEycGRHMVNEM1RVRy1IMUhfc25zRVROODBhdHUwbFllc1g5R2hEaVBoTEY5RUZVLXBEQ0hSWHo4OElFSWtHTnZ6S2t5WGhtNU5NVHpkMHdnTTJxcGUxMk12QUlqNVJmWkU4SWZFV2ZnMVFQdE5NWmcwZjU5bjM2OWlyeGdxamdxN1JxQ25jSWRXZTNua21DZjVTaFNXcDlMWnV6cWd0YnlxZm5jVUl1S2NWWGpNVEFfM3ltU1ZJOTZCejVvVmQxUnF3YWZNOQ?oc=5)
 
 2026-09-14
 
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNW95VGVKczZPeFR2LTNoaVRDZ2xObklZRXZfNzAteWJublNPRTQ2NFFrRGtoNVV4Y2dJb0UwRlRyWDdQOGl4S1V1c2tUeUxhbHVaMjZKYWJfVlVMczlZanlMcXBDc3h1dG1wd1RsUHlTaldKQ3dhd0U5U3BLYWEyZTFhcWhHRjRPU1ktVDVObVprd2NIRFVSQmhyeHhCczRPNF9RWGR30gGrAUFVX3lxTFAxVFJZZU54QU1Na1JjMnM1MGlnSm1BNGh1Wm00SklOeGE1MmlkWFRyeUpuallCMHN6cjg1SnFYakFBOWQ2U2Iwd29YT2NqRHktNmFhY0JxQkZpZGIwdGtrTE9oQ0lHekhxbnJzaHVwZjEtbm8wYURwYVVtaUFVWG5INHYyUWlKSy1HSmZvakNqeDJxN1RPQUY5aUl5VVJrcW5QTjN1bXRhdmlOUQ?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVm1QRWlVZW01YlpLWjhYdUtiYlkxMXNTaTRHeTNQcGEycGRHMVNEM1RVRy1IMUhfc25zRVROODBhdHUwbFllc1g5R2hEaVBoTEY5RUZVLXBEQ0hSWHo4OElFSWtHTnZ6S2t5WGhtNU5NVHpkMHdnTTJxcGUxMk12QUlqNVJmWkU4SWZFV2ZnMVFQdE5NWmcwZjU5bjM2OWlyeGdxamdxN1JxQ25jSWRXZTNua21DZjVTaFNXcDlMWnV6cWd0YnlxZm5jVUl1S2NWWGpNVEFfM3ltU1ZJOTZCejVvVmQxUnF3YWZNOQ?oc=5)
+
+---
+
+### [El Hospital Macarena anticipa más 2.300 crisis de migraña con un proyecto de IA - La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+
+2026-09-14
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
 
 ---
 
