@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [Inglaterra prohíbe los fritos y limita los postres en los comedores escolares para combatir la obesidad infantil](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2hiQlVNVTZ2UjlNR3RILWhFS2kyNHozcmFLSFJlTE1GOHRxRFFxVlgydHM5QkVUYnZ5QU5MZnY5TnBkQjFVRkNNLVN3TUwyaEZFQjRJa3ZCMWo5NGI0LWFyeXh3cWItUjhYb3lNV3VlMl9FMXU2Q0Nad3VsRHZPb21qaVMxTmJlVXNLcF9BanUxLUFSTkxMUnBUUFlBTV91Nld6RnZDRTMtTkZ0M2xXMNIBtgFBVV95cUxNVkRIai0tZjR4enRHZkpEVjRhNFhBNFNGemE1WUJaOEVMWF9qb205eVhZdTZjalQ4REJiYWFhdzVxRmVPdUEwMGVBdUVKSnp0eDdtdDBLM0tVX1RPZUVfcmZkWDdrY09hZTNBS19UR1ZwSkZ0dXZ1U2FrN3ZGV2xSekZ2RjhCUXBLZERCVEs1c0wwZEhqVG1UelNvWnNBZHQ4VFEtRWd1MUtsd3dqcEI1QnpydlBjUQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2hiQlVNVTZ2UjlNR3RILWhFS2kyNHozcmFLSFJlTE1GOHRxRFFxVlgydHM5QkVUYnZ5QU5MZnY5TnBkQjFVRkNNLVN3TUwyaEZFQjRJa3ZCMWo5NGI0LWFyeXh3cWItUjhYb3lNV3VlMl9FMXU2Q0Nad3VsRHZPb21qaVMxTmJlVXNLcF9BanUxLUFSTkxMUnBUUFlBTV91Nld6RnZDRTMtTkZ0M2xXMNIBtgFBVV95cUxNVkRIai0tZjR4enRHZkpEVjRhNFhBNFNGemE1WUJaOEVMWF9qb205eVhZdTZjalQ4REJiYWFhdzVxRmVPdUEwMGVBdUVKSnp0eDdtdDBLM0tVX1RPZUVfcmZkWDdrY09hZTNBS19UR1ZwSkZ0dXZ1U2FrN3ZGV2xSekZ2RjhCUXBLZERCVEs1c0wwZEhqVG1UelNvWnNBZHQ4VFEtRWd1MUtsd3dqcEI1QnpydlBjUQ?oc=5)
+
+---
 
 ### [La obesidad puede paralizar una defensa natural contra el cáncer de mama - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/bupropion/
 
 ---
 
-### [Obesidad y enfermedad psoriásica: hacia un nuevo estándar de cuidado - El médico interactivo](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbE9tTTlDM0ktNUU4cHJITUhCUUVUSmxPOFBUVkFaeWZWUkdhdmFHdjVjXzJ4VWJPSlFsb0l5a2N0OFpzLWdjQzFsQnlyNTR3dVpWRVR6cnNHQXh3LWlqQnpnam5SLVBZYThfek5fOThvajBpeVRTX2NHR0R5dGsxQnZIcl80aGFYSWpBcGNGLVFVeDJubW0yZjhOb2Q1Y1B0SFE?oc=5)
+### [Mejorando el abordaje de la obesidad: la nutrición y el estilo de vida como complemento esencial del tratamiento - El médico interactivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV040NE44b2RsMWRDRG5Fa1pRMlNDdzRXXzFtZjl0S2gyMWh1TWotRzA0RlFqMGlEdHN2dTZaM3c4T0JEbkRGRUVQMThSU2tEQU1aOE03Yk1lQWNxNjBBT08tX0h4WXl6dmVpbG1rOFRXU3EzNERxbWQwTDVTdjhpenR6SFdzWjF0T1dmazFKQ3FzaUhMWG9RM2tNcFBJbGZ0eGNjMU51Y0s2LWplY3BTQjh3ckhIZ2huTXI3LWIxYmhUZVVDWnBEc2JPc0FCcTJvZlBoU0x5bklBX09I?oc=5)
 
 2026-09-14 <span class="news-indication-tag">obesidad</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbE9tTTlDM0ktNUU4cHJITUhCUUVUSmxPOFBUVkFaeWZWUkdhdmFHdjVjXzJ4VWJPSlFsb0l5a2N0OFpzLWdjQzFsQnlyNTR3dVpWRVR6cnNHQXh3LWlqQnpnam5SLVBZYThfek5fOThvajBpeVRTX2NHR0R5dGsxQnZIcl80aGFYSWpBcGNGLVFVeDJubW0yZjhOb2Q1Y1B0SFE?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV040NE44b2RsMWRDRG5Fa1pRMlNDdzRXXzFtZjl0S2gyMWh1TWotRzA0RlFqMGlEdHN2dTZaM3c4T0JEbkRGRUVQMThSU2tEQU1aOE03Yk1lQWNxNjBBT08tX0h4WXl6dmVpbG1rOFRXU3EzNERxbWQwTDVTdjhpenR6SFdzWjF0T1dmazFKQ3FzaUhMWG9RM2tNcFBJbGZ0eGNjMU51Y0s2LWplY3BTQjh3ckhIZ2huTXI3LWIxYmhUZVVDWnBEc2JPc0FCcTJvZlBoU0x5bklBX09I?oc=5)
 
 ---
 
