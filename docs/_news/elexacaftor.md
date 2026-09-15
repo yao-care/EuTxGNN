@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+2026-09-15 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+---
 
 ### [Scientists find a hidden cause of high blood pressure that routine tests can miss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
+
+---
+
+### [Artrite reumatoide, con le CAR-T spegneremo la reazione anomala dell’organismo nelle forme gravissime](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">artrite</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ permalink: /news/elexacaftor/
 2026-09-14 <span class="news-indication-tag">hypertension</span>
 
 來源：[Le Parisien](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
+
+---
+
+### [The 12 new conditions UK pharmacists can now treat without you seeing a GP first - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+2026-09-13 <span class="news-indication-tag">migraine</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
 
 ---
 

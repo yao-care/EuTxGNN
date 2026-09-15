@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
+
+2026-09-15 <span class="news-indication-tag">copd</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
+
+---
+
+### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+2026-09-15 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+---
+
+### [Artrite reumatoide, con le CAR-T spegneremo la reazione anomala dell’organismo nelle forme gravissime](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">artrite</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
+
+---
 
 ### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
@@ -62,27 +86,19 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
----
-
 ### [Aussie pet owners called to action as biosecurity threat spreads - Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
+
+---
+
+### [Semaglutid senkt offenbar Asthma- und COPD-Exazerbationen um bis zu 40 % - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
+
+2026-09-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Reading for pleasure cuts dementia risk by third, Cambridge study finds - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
+
+2026-09-15 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
+
+---
 
 ### [Pascual-Sánchez ve en la prevención precoz la gran esperanza frente al alzhéimer y apunta a los próximos cinco años](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
 來源：[Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
+
+---
+
+### [The 7 common NHS drugs that raise dementia risk - as docs ‘prescribing meds to millions without warning them’ - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
+
+2026-09-14 <span class="news-indication-tag">dementia</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/rasagiline/
 2026-09-14 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
-
----
-
-### [NHS doctors prescribing drugs linked to dementia without warning patients of risk - GB News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
-
-2026-09-13 <span class="news-indication-tag">dementia</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
 
 ---
 

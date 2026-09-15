@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,29 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
 
-### [Trump administration changes how it counts measles deaths amid Pennsylvania outbreak - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcktjRmhkdTFIRG9HZ0NOV0dvcTVmaVdNcDRaOHQ2dXlXeUtkVklXWmktSjNONUFiUmN6M3NncGlHMUIwS0xPUWQ4NlA3OTU1WmNFbWdHRWZjcWFiemZEQlRkOXN5LTNOdDFzOVVCS0hoLXJKY1FQcUN6YlItc1MwbkxvX2tPQ21fVERIOVNyaVNCaDBrakVkU2dWSGV6cXlYcUE?oc=5)
+### [Trotz schwerer MS: Wie Marianne Binsteiner das Klosterbad in Gars am Inn erobert](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZ5TU4zVU5wVlVSaVdsREpEMktESmxVWVgyc0toYkxPdDhFSGZjVkMyWmdVenUwdVJTZ3BxSUpMd21sNHZjS1E5VTVZR2YzUEw1UFpvSDcySzVfWHRXamFndHpFZnJMZmduWENwQzd3N2hLOVZuZHZZYkp6T2FGMDA2NmZWTGJoVHYxWHZVcEVXRjVVTldIRm1Xd0FmeVBiWGphMUNfX1dzQnBUSlI0WFQ2UXdxMnRTOUZTUGl1QWxkcUgyUmo1d3NRTHFxUTlnY0JFWlc5VTZUYmhScWdQSHhB?oc=5)
 
-2026-09-14 <span class="news-indication-tag">MS</span>
+2026-09-15 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcktjRmhkdTFIRG9HZ0NOV0dvcTVmaVdNcDRaOHQ2dXlXeUtkVklXWmktSjNONUFiUmN6M3NncGlHMUIwS0xPUWQ4NlA3OTU1WmNFbWdHRWZjcWFiemZEQlRkOXN5LTNOdDFzOVVCS0hoLXJKY1FQcUN6YlItc1MwbkxvX2tPQ21fVERIOVNyaVNCaDBrakVkU2dWSGV6cXlYcUE?oc=5)
+來源：[Innsalzach24](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZ5TU4zVU5wVlVSaVdsREpEMktESmxVWVgyc0toYkxPdDhFSGZjVkMyWmdVenUwdVJTZ3BxSUpMd21sNHZjS1E5VTVZR2YzUEw1UFpvSDcySzVfWHRXamFndHpFZnJMZmduWENwQzd3N2hLOVZuZHZZYkp6T2FGMDA2NmZWTGJoVHYxWHZVcEVXRjVVTldIRm1Xd0FmeVBiWGphMUNfX1dzQnBUSlI0WFQ2UXdxMnRTOUZTUGl1QWxkcUgyUmo1d3NRTHFxUTlnY0JFWlc5VTZUYmhScWdQSHhB?oc=5)
 
 ---
 
-### [Schoolgirl seeks to raise awareness of sepsis after losing her hands and feet to infection - The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkRVbUdMdTk4ODB4ZXQ0QXJNTERRaE9DaFZLZEY2TDN3bEVlTjdpRmlXUzYzNzZKRGpyUVowbGtnT1d2THJYMGFObWkwMGFUV1BEdkpURC1iSTFLWmNSN1E1Vkcta3RiNHduQWx2aDFMaXlFcVBRbGxEVVlMMDdVNGhFd3JZZTZNUGdBb2JpVWtKa1BXOVp6c2pWc1pGZks4SDdyRW5qek01Z0FlUzlvSm84a01SX3lhV0wxR1JsUy1GRnN5TXl6c2Z5cERLaUdfd3c?oc=5)
+### [La OMS reconoce a Chile como el primer país de Sudamérica que ha eliminado la rabia transmitida por perros](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFJCZlUxaVQ0YlJaWDNjX3U0TXZ5Q2pJNVNGR2h6MWljZjdiM2FvODNHUXl1QUZLV3cydGQzY0ZtdVdUNDYyNzYzZTlFLXhlOGhlOHVqVmpZSjNKaklZTjcta00tNm5qWjJqRnlHRjV4NHhiWHphdWFhZTR3VWp3N1FIckxxckNkZTBOUk8tOUxUWlRoZHQ1UTVuN191bUMxWHRTUU5rMEdmREk2U3Jrdm9DQlV3S05LRWc1VTVKSmRZVzR3ZWdlblFR?oc=5)
 
-2026-09-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-15 <span class="news-indication-tag">MS</span>
 
-來源：[The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkRVbUdMdTk4ODB4ZXQ0QXJNTERRaE9DaFZLZEY2TDN3bEVlTjdpRmlXUzYzNzZKRGpyUVowbGtnT1d2THJYMGFObWkwMGFUV1BEdkpURC1iSTFLWmNSN1E1Vkcta3RiNHduQWx2aDFMaXlFcVBRbGxEVVlMMDdVNGhFd3JZZTZNUGdBb2JpVWtKa1BXOVp6c2pWc1pGZks4SDdyRW5qek01Z0FlUzlvSm84a01SX3lhV0wxR1JsUy1GRnN5TXl6c2Z5cERLaUdfd3c?oc=5)
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFJCZlUxaVQ0YlJaWDNjX3U0TXZ5Q2pJNVNGR2h6MWljZjdiM2FvODNHUXl1QUZLV3cydGQzY0ZtdVdUNDYyNzYzZTlFLXhlOGhlOHVqVmpZSjNKaklZTjcta00tNm5qWjJqRnlHRjV4NHhiWHphdWFhZTR3VWp3N1FIckxxckNkZTBOUk8tOUxUWlRoZHQ1UTVuN191bUMxWHRTUU5rMEdmREk2U3Jrdm9DQlV3S05LRWc1VTVKSmRZVzR3ZWdlblFR?oc=5)
 
 ---
 
 ### [AAPDA impulsa la concienciación sobre la dermatitis atópica en Puerto Rico con el respaldo de Revista MSP - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTZIWGxwR3RsU09EbXUwUjlyLTIyWktOWDA5eXczR2FSMDh6ZlVLcFAxUXZINXlTRGtac2hXMGlveTV0Rkc4bjNJUHBrM0FVaTU2VjhkZ0U5OWZPbDJtMFl2WVZhczhrVUtZUEVYT2VlLUg0ZzhLcjZQMFc0OGpQZHFXOFZoeWprcXpoaERqSERCdHl2Tm5TWEhHYm5DcFRCSUpxZFhzNXBlbFJrdlY1ZHdxZi1YaFREYXlPS1V5Y19CRjlXWnJxRjB6RDFTWEtTYXJEaWV2YlI0QXF4UWpKYkZnajB4M3E5TnVnSlZHbDN0N0lISkNnNnlrVE4zdF9rZlhwVzZRMNIBjAJBVV95cUxNd2FJY25PbXlTdGJjRTFTWU5pU0U3QmZJTlFEMVUzZnRYZlpxX083SERVYk8zcFBKd2RUSXV2b09KdlExNDlaTlBIdVhtUlFVTjBZSnI5TDJyOC1PV182YklORWkzMC0ycjRIekJRcWtiV0pkQVBxRHo4aFFqU2RIa1hUaFE3dlA5b19nVVJ4Q2tVYm4tU0MwVnVPU0Vsal9DY1hQZEEtaThQNVM4LTU2R3NtQVRKLVd3cnVWQlptaEgyR1p0cmJBWnBJYkNXTnVXS0F2ajZqYkdGeW5uS3JGNDRJMndudWtsakFQN2F2ajhOcE1FbGtDdXl3aG9ueGdTWnpDekdSV05scHFE?oc=5)
 
-2026-09-14 <span class="news-indication-tag">MS</span>
+2026-09-15 <span class="news-indication-tag">MS</span>
 
 來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTZIWGxwR3RsU09EbXUwUjlyLTIyWktOWDA5eXczR2FSMDh6ZlVLcFAxUXZINXlTRGtac2hXMGlveTV0Rkc4bjNJUHBrM0FVaTU2VjhkZ0U5OWZPbDJtMFl2WVZhczhrVUtZUEVYT2VlLUg0ZzhLcjZQMFc0OGpQZHFXOFZoeWprcXpoaERqSERCdHl2Tm5TWEhHYm5DcFRCSUpxZFhzNXBlbFJrdlY1ZHdxZi1YaFREYXlPS1V5Y19CRjlXWnJxRjB6RDFTWEtTYXJEaWV2YlI0QXF4UWpKYkZnajB4M3E5TnVnSlZHbDN0N0lISkNnNnlrVE4zdF9rZlhwVzZRMNIBjAJBVV95cUxNd2FJY25PbXlTdGJjRTFTWU5pU0U3QmZJTlFEMVUzZnRYZlpxX083SERVYk8zcFBKd2RUSXV2b09KdlExNDlaTlBIdVhtUlFVTjBZSnI5TDJyOC1PV182YklORWkzMC0ycjRIekJRcWtiV0pkQVBxRHo4aFFqU2RIa1hUaFE3dlA5b19nVVJ4Q2tVYm4tU0MwVnVPU0Vsal9DY1hQZEEtaThQNVM4LTU2R3NtQVRKLVd3cnVWQlptaEgyR1p0cmJBWnBJYkNXTnVXS0F2ajZqYkdGeW5uS3JGNDRJMndudWtsakFQN2F2ajhOcE1FbGtDdXl3aG9ueGdTWnpDekdSV05scHFE?oc=5)
-
----
-
-### [La musica rilassa più del suono dell'acqua: ascoltarla al momento giusto cambia tutto](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmRHZGswZmlNSmpjY0JkNmdNZDBjTDRncEdMd25GQU9ZTFEzWDVzT0FNeUdBTDkxWkZuUlJtWE5IMlZKZXJPQ1JYWl9tYUVjaXdtQ3NVbWRUanJZQXJFS1NqNXJncG9LRC03VmZwV25ta1lrUERjcVZNaDE5ZmhiakduczV5WjZzUG84V2lxMkk3N05VSzU1WjF0a2hhMG9pYWJycXkteGhsb0IzcnNVY2cyUEp0UmdjVFlIbmp1a2NTN3BpTUtYUUNqRENWUUZQbnpzZmpuZVlxbG12?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmRHZGswZmlNSmpjY0JkNmdNZDBjTDRncEdMd25GQU9ZTFEzWDVzT0FNeUdBTDkxWkZuUlJtWE5IMlZKZXJPQ1JYWl9tYUVjaXdtQ3NVbWRUanJZQXJFS1NqNXJncG9LRC03VmZwV25ta1lrUERjcVZNaDE5ZmhiakduczV5WjZzUG84V2lxMkk3N05VSzU1WjF0a2hhMG9pYWJycXkteGhsb0IzcnNVY2cyUEp0UmdjVFlIbmp1a2NTN3BpTUtYUUNqRENWUUZQbnpzZmpuZVlxbG12?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Man, 33, blamed tiredness on a common cold before deadly diagnosis - don't ignore 'SPOT symptoms' - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9pZVMzRkdHZUEyZHNmb2JzOS1NYV9wd0lhaUJvX3NwaDVmd3haQmFlU1R6YnhSSEtmR0VvdXVVV25mMk1na3ZDc2tPWGFIMmszanhMYS1pb1FLTXhvaHZZUDlGNzgwYnhLM0NJcjNRSXlVaHJid1RlcVY4S3dOVElNVmtSeU5BVlBJRGVBU25MbjFXUDlDaE1MWDM2bnhmRWVMRjJB?oc=5)
+### [Brain implant lets paralysed patients speak via digital avatar - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0I5VWR1SmJBX3BGTDFlYmRYbU85ZVplS2t2d29Sa3BJRDdLbEp4UzZGZ0I4UTFpTHQ5bjBDeWpoR3hvQmRkSXA3UUFFOXRqc0VpUm9Mbzh6Mll3a29feVVMeHhKc3p0bXFwa2hOd19pUzBTaFM4YUI5WktGa3ZsWkpqYkk?oc=5)
 
 2026-09-14 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9pZVMzRkdHZUEyZHNmb2JzOS1NYV9wd0lhaUJvX3NwaDVmd3haQmFlU1R6YnhSSEtmR0VvdXVVV25mMk1na3ZDc2tPWGFIMmszanhMYS1pb1FLTXhvaHZZUDlGNzgwYnhLM0NJcjNRSXlVaHJid1RlcVY4S3dOVElNVmtSeU5BVlBJRGVBU25MbjFXUDlDaE1MWDM2bnhmRWVMRjJB?oc=5)
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0I5VWR1SmJBX3BGTDFlYmRYbU85ZVplS2t2d29Sa3BJRDdLbEp4UzZGZ0I4UTFpTHQ5bjBDeWpoR3hvQmRkSXA3UUFFOXRqc0VpUm9Mbzh6Mll3a29feVVMeHhKc3p0bXFwa2hOd19pUzBTaFM4YUI5WktGa3ZsWkpqYkk?oc=5)
 
 ---
 
@@ -134,27 +126,27 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Il utilise ChatGPT dans son laboratoire et découvre qu’un médicament contre la schizophrénie pourrait aider à traiter Alzheimer - La Crème Du Gaming](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlYtYnpDdnVQa1psZ2I4bTVneU1rejB0QnVnRTBrbW1XWHZhQTBfU0xGb243dEFJdGsyTE5FVzkwNGZ5WXNWY00zaUhlLVJjWkh3MEI1dDRFU2NjTnB6S05xQ3FsMGFzNU5rcmpFd1JfZzNqbWY5dUpUbDNwV2RIZmdIbEp2YVBxSi0ydnJSbWxtVjBTUnZJX2NZRUlFUHEzOUR5eTduY3NNSks5OTIzUjFkUDZBWGRnNmctS2xUTFBUZXZQY0F2QU42SXVCQ1d4ZTZNWGxkaERPVkx1Um55SGc0aGN2ZThQQjJMX25sbE9JNzVzenV1enpyWmkyd3NrLXpHSkExWm1IdVU?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[La Crème Du Gaming](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlYtYnpDdnVQa1psZ2I4bTVneU1rejB0QnVnRTBrbW1XWHZhQTBfU0xGb243dEFJdGsyTE5FVzkwNGZ5WXNWY00zaUhlLVJjWkh3MEI1dDRFU2NjTnB6S05xQ3FsMGFzNU5rcmpFd1JfZzNqbWY5dUpUbDNwV2RIZmdIbEp2YVBxSi0ydnJSbWxtVjBTUnZJX2NZRUlFUHEzOUR5eTduY3NNSks5OTIzUjFkUDZBWGRnNmctS2xUTFBUZXZQY0F2QU42SXVCQ1d4ZTZNWGxkaERPVkx1Um55SGc0aGN2ZThQQjJMX25sbE9JNzVzenV1enpyWmkyd3NrLXpHSkExWm1IdVU?oc=5)
-
----
-
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
 ### [Saarländische Testwoche startet: Gesundheitsamt St. Wendel testet kostenlos auf HIV, Syphilis und Hepatitis - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
 
 2026-09-13 <span class="news-indication-tag">hepatitis</span>
 
 來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+
+---
+
+### [Unintentional mind wandering disrupts attention in ADHD through two different mechanisms](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWp6SGlOSU5Hc1BDM19iVEtxLWRsd0tCUWRpaVV1OXdxNVAzNTFpQnB0OWFXSkNjYlZsX0tpaGpoQTVoZ0R2SlZ6Nkk5d2kyeU11d3dUSk96ZHNaaU5IMVRnM2VoUExnSlZINWxUT0J5ZHM2ZHdtdnh0V2J4Z20zUmdpZmVYdXNyeFlKS1Q4NkdYX2UwX0NabGdKdm9mMUNjRDhDaWVEcXE4RU85TUxXSHF0VQ?oc=5)
+
+2026-09-13 <span class="news-indication-tag">MS</span>
+
+來源：[PsyPost](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWp6SGlOSU5Hc1BDM19iVEtxLWRsd0tCUWRpaVV1OXdxNVAzNTFpQnB0OWFXSkNjYlZsX0tpaGpoQTVoZ0R2SlZ6Nkk5d2kyeU11d3dUSk96ZHNaaU5IMVRnM2VoUExnSlZINWxUT0J5ZHM2ZHdtdnh0V2J4Z20zUmdpZmVYdXNyeFlKS1Q4NkdYX2UwX0NabGdKdm9mMUNjRDhDaWVEcXE4RU85TUxXSHF0VQ?oc=5)
+
+---
+
+### [Semaglutid senkt offenbar Asthma- und COPD-Exazerbationen um bis zu 40 % - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
+
+2026-09-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
 
 ---
 
@@ -214,11 +206,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Hohe Fluorid-Konzentration im Trinkwasser von Schwangeren könnte kognitive Entwicklung der Kinder bremsen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMihAJBVV95cUxOemQ3bi1SU2lVNXE3aXhDLVVQMGpnTWpzNmhFOEdpSFpZeF9hWkJJNXExWUQ2dUhrLU0wYTJrTUYwVmQ2SjRmdnpGYWp0d3B1WC1ROVJhV2gybHY4blB3OGh5VVZCVFpVRzM3MGhiTkF1V1l0SDY1YnUyOEVKT3BOdVdxVnpfSTBwdzdCRlFkRVZwR2xQQnhNVFU5MDdySlZvYlNEdXlWVEdSUlRTNmJaQlQ0NjNlZi12X3prcDYtUEloa1RPdjJUWkV6SE1Bb1pOdkpaQk1xNXNEcURHQzZVZzdMcktBWEtLLUcwNFdjWmVQa1hXQ1VlaThfOVBYRFlCbWtpYw?oc=5)
+### [WHO: Viel zu wenige Betten für Ebola-Patienten im Kongo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3BHcTQxeEF5aDg1T0ZIaUg4YWt2bEljcGdpRi04MTZzV1pZdWdlQzJZcXVtYlVhVVc3THloZnhsMWFzXzhTaEFPTi1WbTk0Rmw5MS1RdDVRdVdsMFo5TS01UUtJaFh4dnkyWGVBVkVKc0lWOUl3LXdpeDN5ZzhleUduME9jemEzczYxU0hfbmRqNEpYYWRGVjZMWmNBQ2JmcnAtNFBIdm95NlpwVlpBeGZ2Q04?oc=5)
 
-2026-09-10 <span class="news-indication-tag">MS</span>
+2026-09-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMihAJBVV95cUxOemQ3bi1SU2lVNXE3aXhDLVVQMGpnTWpzNmhFOEdpSFpZeF9hWkJJNXExWUQ2dUhrLU0wYTJrTUYwVmQ2SjRmdnpGYWp0d3B1WC1ROVJhV2gybHY4blB3OGh5VVZCVFpVRzM3MGhiTkF1V1l0SDY1YnUyOEVKT3BOdVdxVnpfSTBwdzdCRlFkRVZwR2xQQnhNVFU5MDdySlZvYlNEdXlWVEdSUlRTNmJaQlQ0NjNlZi12X3prcDYtUEloa1RPdjJUWkV6SE1Bb1pOdkpaQk1xNXNEcURHQzZVZzdMcktBWEtLLUcwNFdjWmVQa1hXQ1VlaThfOVBYRFlCbWtpYw?oc=5)
+來源：[main-echo.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3BHcTQxeEF5aDg1T0ZIaUg4YWt2bEljcGdpRi04MTZzV1pZdWdlQzJZcXVtYlVhVVc3THloZnhsMWFzXzhTaEFPTi1WbTk0Rmw5MS1RdDVRdVdsMFo5TS01UUtJaFh4dnkyWGVBVkVKc0lWOUl3LXdpeDN5ZzhleUduME9jemEzczYxU0hfbmRqNEpYYWRGVjZMWmNBQ2JmcnAtNFBIdm95NlpwVlpBeGZ2Q04?oc=5)
 
 ---
 

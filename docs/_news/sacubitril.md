@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
-### [Herz: Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
+### [Fettleber: Ketogene Diät senkt Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
 
-2026-09-15 <span class="news-indication-tag">diabetes</span>
+2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
+
+---
+
+### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+2026-09-15 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+---
+
+### [Artrite reumatoide, con le CAR-T spegneremo la reazione anomala dell’organismo nelle forme gravissime](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">artrite</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
 
 ---
 
@@ -70,19 +86,19 @@ permalink: /news/sacubitril/
 
 ---
 
-### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+### [Statine bei Typ-2-Diabetes: Geringeres Demenzrisiko?](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[eldebate.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
 
 ---
 
-### [Adipositas, Prädiabetes & Fettleber: Keto-Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
+### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa - El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
 
-2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
 
 ---
 

@@ -62,27 +62,27 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
----
-
 ### [Aussie pet owners called to action as biosecurity threat spreads - Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
+
+---
+
+### [Semaglutid senkt offenbar Asthma- und COPD-Exazerbationen um bis zu 40 % - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
+
+2026-09-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
+
+---
+
+### [The 12 new conditions UK pharmacists can now treat without you seeing a GP first - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+2026-09-13 <span class="news-indication-tag">migraine</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
 
 ---
 

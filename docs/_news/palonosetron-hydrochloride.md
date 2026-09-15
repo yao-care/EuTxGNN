@@ -14,7 +14,7 @@ permalink: /news/palonosetron-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Palonosetron Hydrochloride 有什麼相關新聞？">
-<strong>Palonosetron Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Palonosetron Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/palonosetron-hydrochloride/
 <p><a href="{{ '/drugs/palonosetron-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [El Hospital Macarena anticipa más 2.300 crisis de migraña con un proyecto de IA - La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">migraña</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+
+---
+
+### [The 12 new conditions UK pharmacists can now treat without you seeing a GP first - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
+
+2026-09-13 <span class="news-indication-tag">migraine</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
 
 ---
 

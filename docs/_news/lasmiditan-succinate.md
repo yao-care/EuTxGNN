@@ -54,6 +54,14 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（11 則）
 
+### [Fettleber: Ketogene Diät senkt Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
+
+2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
+
+---
+
 ### [Inglaterra prohíbe los fritos y limita los postres en los comedores escolares para combatir la obesidad infantil](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2hiQlVNVTZ2UjlNR3RILWhFS2kyNHozcmFLSFJlTE1GOHRxRFFxVlgydHM5QkVUYnZ5QU5MZnY5TnBkQjFVRkNNLVN3TUwyaEZFQjRJa3ZCMWo5NGI0LWFyeXh3cWItUjhYb3lNV3VlMl9FMXU2Q0Nad3VsRHZPb21qaVMxTmJlVXNLcF9BanUxLUFSTkxMUnBUUFlBTV91Nld6RnZDRTMtTkZ0M2xXMNIBtgFBVV95cUxNVkRIai0tZjR4enRHZkpEVjRhNFhBNFNGemE1WUJaOEVMWF9qb205eVhZdTZjalQ4REJiYWFhdzVxRmVPdUEwMGVBdUVKSnp0eDdtdDBLM0tVX1RPZUVfcmZkWDdrY09hZTNBS19UR1ZwSkZ0dXZ1U2FrN3ZGV2xSekZ2RjhCUXBLZERCVEs1c0wwZEhqVG1UelNvWnNBZHQ4VFEtRWd1MUtsd3dqcEI1QnpydlBjUQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">obesidad</span>
@@ -106,23 +114,15 @@ permalink: /news/lasmiditan-succinate/
 
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
+來源：[rtl.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
 
 ---
 
-### [Obesità, il paradosso degli uomini: stessi chili, meno cure e più rischi](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1k2dkFrblNkdUQ3ZmVKVkZEUUUxNDhsYnc4REFDUmkzTUpMcEdkbDFWS2xrZVIxR1Rsb1d4UHFrSW9aaDJQWFdQTGNybGhOVHVsVHpfYkE4Si1MYjdPd2FMTjRUejFFMGlCWWFxMFBzWlhBRjRXTnRZT2hGcHFraW1kSGxxZkRMSjNBLVdyZmpSVmo2MmJ4bXlDSktnMURFaTR2dE13OFhJWnRvZmVXalFVNmJNejhucW5PSw?oc=5)
+### [The 12 new conditions UK pharmacists can now treat without you seeing a GP first - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
 
-2026-09-13 <span class="news-indication-tag">obesità</span>
+2026-09-13 <span class="news-indication-tag">migraine</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1k2dkFrblNkdUQ3ZmVKVkZEUUUxNDhsYnc4REFDUmkzTUpMcEdkbDFWS2xrZVIxR1Rsb1d4UHFrSW9aaDJQWFdQTGNybGhOVHVsVHpfYkE4Si1MYjdPd2FMTjRUejFFMGlCWWFxMFBzWlhBRjRXTnRZT2hGcHFraW1kSGxxZkRMSjNBLVdyZmpSVmo2MmJ4bXlDSktnMURFaTR2dE13OFhJWnRvZmVXalFVNmJNejhucW5PSw?oc=5)
-
----
-
-### [Adipositas, Prädiabetes & Fettleber: Keto-Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
-
-2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQVTVzU0FlNUotUldyWklhM1hpSWpaYWlKUGxwWmhNVGFob2N3M3NlWXo1MmlsX2NyMldqS1BaeEFaSFo4M200S0tvbnpZZE0tT3BiblZfUC1zLW4zRFhuSHNlMjlBSG5aRHVWUFp5cDRFalB3ZnhmZDRWVGlodVNaLVV1VXFDVUMtNXJqX1BmcC0tREdrbnRIVkNOM1pid9IBowFBVV95cUxOS3FhU1hxZ0pCY0tJbTZ0ZVpIUG9KTTY2QmxiUlFrNUM1ZnRHV0FTSEhEN0ZudzY4dzlMZDFKN0owbEg4bHMxN092TFIxMENvN1pRRlBkcFZidU5EVHhrd1VkQktEUXlPdDFRUG84aDFRSDR1OXJucEdkTTBsaHZQb1BUVnlMcTlFNWQ4VElqbjNJLWNkb0VpWldkVHpTd2tNTFp3?oc=5)
 
 ---
 
@@ -134,11 +134,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Adipositas und Rheuma](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lOS1WVmN5VUx4UjViTnlqa092ZkJ3ZjZwMXVKSG4xZk5Hc2Q4a3BFdG1CeU9RZVEtd2RHN19OakEyaUZJczhkRWlva3d4MkJzTHBqaVl0RGdITlpfSS1ULXZn?oc=5)
+### [Adipositas und Rheuma: Der gemeinsame Nenner](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
 
-2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lOS1WVmN5VUx4UjViTnlqa092ZkJ3ZjZwMXVKSG4xZk5Hc2Q4a3BFdG1CeU9RZVEtd2RHN19OakEyaUZJczhkRWlva3d4MkJzTHBqaVl0RGdITlpfSS1ULXZn?oc=5)
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
 
 ---
 

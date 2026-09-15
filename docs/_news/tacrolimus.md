@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Experto recuerda que la psoriasis pustulosa generalizada es multisistémica y requiere atención multidisciplinar](https://news.google.com/rss/articles/CBMigwJBVV95cUxPSHhQM1lvZHVXZWJ4SDUxNldCVGhkNU9MaENBZnBFZjY2Rm9qVm1CUDE4dUJ3b0xyZ1kxU2RIeUNKUVlVRlktRzd4MGNJQ3YyMk1nMFQzRmZWSnN0TWpieVJEeTRkcC1Gbzg3NVBzLVY4alhvUDVjU29weVBScUVIbXpKc1VGVFJsSHg2MWNDQXV1MWFidVR5a2E2cUdsNWgtQ0JUVDYwLS1Sd2dTdlVEdlZzV3Y0N3pzRllrT3hENjJKNDlUbzQzQ2dMQ09zQktmdXcxeEVKY2pLbUNBT1JTZERLejhJM0ViR3hSSjdhSG8xdzBsTnpBMGlFdnBKUmNadFZZ?oc=5)
+### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+2026-09-15 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+---
+
+### [Infosalus.- Experto recuerda que la psoriasis pustulosa generalizada es multisistémica y requiere atención multidisciplinar](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYXduM2twRG9KdG9sX0NxeG1mcU9oYWhDNlNuQl9hMGxhRzMwQWVCLW84MUFQbHRVU2h2dzM0Rm1HSkFET3lONlhrTE1TSXRVbmdfZHVfdWxNcGtUWnF3dnNWcGIxVXQ2RnVhUC1jTFhHb1dLU1kzWl9DdERhaDRwaEcyVDNpT1VZWFBZdjBQMzlDTVpXaXM0X1JoVUJxVGJkWGJ4TGJaSlNQMXFnQlRCemVBNnlGZzZhSXdZNEZYVFJkb19TTXBIcWI3Rm44bkNiVm5ucEo4QmxGLTlJejhuU0txVG1MaGVJMkpLLS1ublJhNDFKR181b3VDOFNwZw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">psoriasis</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMigwJBVV95cUxPSHhQM1lvZHVXZWJ4SDUxNldCVGhkNU9MaENBZnBFZjY2Rm9qVm1CUDE4dUJ3b0xyZ1kxU2RIeUNKUVlVRlktRzd4MGNJQ3YyMk1nMFQzRmZWSnN0TWpieVJEeTRkcC1Gbzg3NVBzLVY4alhvUDVjU29weVBScUVIbXpKc1VGVFJsSHg2MWNDQXV1MWFidVR5a2E2cUdsNWgtQ0JUVDYwLS1Sd2dTdlVEdlZzV3Y0N3pzRllrT3hENjJKNDlUbzQzQ2dMQ09zQktmdXcxeEVKY2pLbUNBT1JTZERLejhJM0ViR3hSSjdhSG8xdzBsTnpBMGlFdnBKUmNadFZZ?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYXduM2twRG9KdG9sX0NxeG1mcU9oYWhDNlNuQl9hMGxhRzMwQWVCLW84MUFQbHRVU2h2dzM0Rm1HSkFET3lONlhrTE1TSXRVbmdfZHVfdWxNcGtUWnF3dnNWcGIxVXQ2RnVhUC1jTFhHb1dLU1kzWl9DdERhaDRwaEcyVDNpT1VZWFBZdjBQMzlDTVpXaXM0X1JoVUJxVGJkWGJ4TGJaSlNQMXFnQlRCemVBNnlGZzZhSXdZNEZYVFJkb19TTXBIcWI3Rm44bkNiVm5ucEo4QmxGLTlJejhuU0txVG1MaGVJMkpLLS1ublJhNDFKR181b3VDOFNwZw?oc=5)
+
+---
+
+### [Artrite reumatoide, con le CAR-T spegneremo la reazione anomala dell’organismo nelle forme gravissime](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">artrite</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
 
 ---
 

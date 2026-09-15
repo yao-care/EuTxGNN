@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Infarctus, AVC… Pourquoi dormir les volets ouverts ou avec une veilleuse pourrait être dangereux pour la santé - Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
+### [Sommeil réparateur, santé cardiovasculaire : pourquoi il est important de dormir dans le noir complet](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRFhSOUk4WUhhWE5tZGE4dEY0U0F3dFJWSGE2Wk5hcS1pRmdOR1FHQkdPVi0taG9nYTB1RXk3d1NzX3ZZcXJha0JXRmpNQkFwLUhqRjZzeEpGSXlLYjNnYmoyS0dxMHRUaEx6QmpFRXgwWHphQnIzSU9wSXo1QUpXTjdKOFh3c044Q2xLYmM3NWRaSldoUDA0bUFMQmFUY21oZ2NLd2dNTjZkdmVWRTdodEtMSEpERHpmZklZVkhWQTNGVU5nbkJGYmdyVTFuakdMeUNFQ2pn?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AVC</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
-
----
-
-### [Schlaganfall: Neuer Wirkstoff könnte Erholung verbessern](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
-
----
-
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+來源：[rtl.fr](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRFhSOUk4WUhhWE5tZGE4dEY0U0F3dFJWSGE2Wk5hcS1pRmdOR1FHQkdPVi0taG9nYTB1RXk3d1NzX3ZZcXJha0JXRmpNQkFwLUhqRjZzeEpGSXlLYjNnYmoyS0dxMHRUaEx6QmpFRXgwWHphQnIzSU9wSXo1QUpXTjdKOFh3c044Q2xLYmM3NWRaSldoUDA0bUFMQmFUY21oZ2NLd2dNTjZkdmVWRTdodEtMSEpERHpmZklZVkhWQTNGVU5nbkJGYmdyVTFuakdMeUNFQ2pn?oc=5)
 
 ---
 
@@ -94,11 +78,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [Analyse: Schlaganfall-Risiko in den Monaten nach Krebsdiagnose verdoppelt](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
+### [Phase-III-Studie: Loberamisal fördert Erholung nach Schlaganfall - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHgwOXQzV3BQcUsza1JDVFktZ1FFWlRQd3pacVlRNlNRYzE1aWlaTWZwb0pOdHdnN3ZFc3V5aERvQ2gxeUppU2h2TkNxNE5UR0FlY2pBdEM5WXVqNU9fOVR1Nk1BQTZoem1KT1VPcW1rZjRPNktMdmVwajNrcFhsNG5uNWR4NnZwbDdwV3UyOUlBcm9SSTBGbU5R?oc=5)
 
-2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-09-11 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHgwOXQzV3BQcUsza1JDVFktZ1FFWlRQd3pacVlRNlNRYzE1aWlaTWZwb0pOdHdnN3ZFc3V5aERvQ2gxeUppU2h2TkNxNE5UR0FlY2pBdEM5WXVqNU9fOVR1Nk1BQTZoem1KT1VPcW1rZjRPNktMdmVwajNrcFhsNG5uNWR4NnZwbDdwV3UyOUlBcm9SSTBGbU5R?oc=5)
 
 ---
 

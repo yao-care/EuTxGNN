@@ -43,7 +43,7 @@ permalink: /news/budesonide/
 <li>polyp of ureter（99.7%）</li>
 <li>neoplastic polyp（99.7%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.6%）</li>
-<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asthma</span></li>
 <li>Crohn's colitis（99.3%）</li>
 <li>inflammatory bowel disease（99.2%）</li>
 <li>anus disease（99.0%）</li>
@@ -54,6 +54,14 @@ permalink: /news/budesonide/
 
 ## 相關新聞（5 則）
 
+### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
+
+2026-09-15 <span class="news-indication-tag">copd</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
+
+---
+
 ### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
 2026-09-14 <span class="news-indication-tag">EPOC</span>
@@ -62,27 +70,19 @@ permalink: /news/budesonide/
 
 ---
 
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
----
-
 ### [Aussie pet owners called to action as biosecurity threat spreads - Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
+
+---
+
+### [Semaglutid senkt offenbar Asthma- und COPD-Exazerbationen um bis zu 40 % - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
+
+2026-09-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
 
 ---
 

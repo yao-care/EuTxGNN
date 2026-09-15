@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（13 則）
 
-### [Infarctus, AVC… Pourquoi dormir les volets ouverts ou avec une veilleuse pourrait être dangereux pour la santé - Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
+### [Fettleber: Ketogene Diät senkt Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
 
-2026-09-14 <span class="news-indication-tag">AVC</span>
+2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/orlistat/
 2026-09-14 <span class="news-indication-tag">obesidad</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2hiQlVNVTZ2UjlNR3RILWhFS2kyNHozcmFLSFJlTE1GOHRxRFFxVlgydHM5QkVUYnZ5QU5MZnY5TnBkQjFVRkNNLVN3TUwyaEZFQjRJa3ZCMWo5NGI0LWFyeXh3cWItUjhYb3lNV3VlMl9FMXU2Q0Nad3VsRHZPb21qaVMxTmJlVXNLcF9BanUxLUFSTkxMUnBUUFlBTV91Nld6RnZDRTMtTkZ0M2xXMNIBtgFBVV95cUxNVkRIai0tZjR4enRHZkpEVjRhNFhBNFNGemE1WUJaOEVMWF9qb205eVhZdTZjalQ4REJiYWFhdzVxRmVPdUEwMGVBdUVKSnp0eDdtdDBLM0tVX1RPZUVfcmZkWDdrY09hZTNBS19UR1ZwSkZ0dXZ1U2FrN3ZGV2xSekZ2RjhCUXBLZERCVEs1c0wwZEhqVG1UelNvWnNBZHQ4VFEtRWd1MUtsd3dqcEI1QnpydlBjUQ?oc=5)
-
----
-
-### [Schlaganfall: Neuer Wirkstoff könnte Erholung verbessern](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
 
 ---
 
@@ -114,15 +106,15 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
+來源：[rtl.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
 
 ---
 
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+### [Sommeil réparateur, santé cardiovasculaire : pourquoi il est important de dormir dans le noir complet](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRFhSOUk4WUhhWE5tZGE4dEY0U0F3dFJWSGE2Wk5hcS1pRmdOR1FHQkdPVi0taG9nYTB1RXk3d1NzX3ZZcXJha0JXRmpNQkFwLUhqRjZzeEpGSXlLYjNnYmoyS0dxMHRUaEx6QmpFRXgwWHphQnIzSU9wSXo1QUpXTjdKOFh3c044Q2xLYmM3NWRaSldoUDA0bUFMQmFUY21oZ2NLd2dNTjZkdmVWRTdodEtMSEpERHpmZklZVkhWQTNGVU5nbkJGYmdyVTFuakdMeUNFQ2pn?oc=5)
 
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-09-14 <span class="news-indication-tag">AVC</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+來源：[rtl.fr](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRFhSOUk4WUhhWE5tZGE4dEY0U0F3dFJWSGE2Wk5hcS1pRmdOR1FHQkdPVi0taG9nYTB1RXk3d1NzX3ZZcXJha0JXRmpNQkFwLUhqRjZzeEpGSXlLYjNnYmoyS0dxMHRUaEx6QmpFRXgwWHphQnIzSU9wSXo1QUpXTjdKOFh3c044Q2xLYmM3NWRaSldoUDA0bUFMQmFUY21oZ2NLd2dNTjZkdmVWRTdodEtMSEpERHpmZklZVkhWQTNGVU5nbkJGYmdyVTFuakdMeUNFQ2pn?oc=5)
 
 ---
 
@@ -131,22 +123,6 @@ permalink: /news/orlistat/
 2026-09-13 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
-
----
-
-### [Obesità, il paradosso degli uomini: stessi chili, meno cure e più rischi](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1k2dkFrblNkdUQ3ZmVKVkZEUUUxNDhsYnc4REFDUmkzTUpMcEdkbDFWS2xrZVIxR1Rsb1d4UHFrSW9aaDJQWFdQTGNybGhOVHVsVHpfYkE4Si1MYjdPd2FMTjRUejFFMGlCWWFxMFBzWlhBRjRXTnRZT2hGcHFraW1kSGxxZkRMSjNBLVdyZmpSVmo2MmJ4bXlDSktnMURFaTR2dE13OFhJWnRvZmVXalFVNmJNejhucW5PSw?oc=5)
-
-2026-09-13 <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1k2dkFrblNkdUQ3ZmVKVkZEUUUxNDhsYnc4REFDUmkzTUpMcEdkbDFWS2xrZVIxR1Rsb1d4UHFrSW9aaDJQWFdQTGNybGhOVHVsVHpfYkE4Si1MYjdPd2FMTjRUejFFMGlCWWFxMFBzWlhBRjRXTnRZT2hGcHFraW1kSGxxZkRMSjNBLVdyZmpSVmo2MmJ4bXlDSktnMURFaTR2dE13OFhJWnRvZmVXalFVNmJNejhucW5PSw?oc=5)
-
----
-
-### [Adipositas, Prädiabetes & Fettleber: Keto-Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
-
-2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
 
 ---
 
@@ -166,19 +142,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Analyse: Schlaganfall-Risiko in den Monaten nach Krebsdiagnose verdoppelt](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
+### [Adipositas und Rheuma: Der gemeinsame Nenner](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
 
-2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
 
 ---
 
-### [Adipositas und Rheuma](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lOS1WVmN5VUx4UjViTnlqa092ZkJ3ZjZwMXVKSG4xZk5Hc2Q4a3BFdG1CeU9RZVEtd2RHN19OakEyaUZJczhkRWlva3d4MkJzTHBqaVl0RGdITlpfSS1ULXZn?oc=5)
+### [Phase-III-Studie: Loberamisal fördert Erholung nach Schlaganfall - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHgwOXQzV3BQcUsza1JDVFktZ1FFWlRQd3pacVlRNlNRYzE1aWlaTWZwb0pOdHdnN3ZFc3V5aERvQ2gxeUppU2h2TkNxNE5UR0FlY2pBdEM5WXVqNU9fOVR1Nk1BQTZoem1KT1VPcW1rZjRPNktMdmVwajNrcFhsNG5uNWR4NnZwbDdwV3UyOUlBcm9SSTBGbU5R?oc=5)
 
-2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-11 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lOS1WVmN5VUx4UjViTnlqa092ZkJ3ZjZwMXVKSG4xZk5Hc2Q4a3BFdG1CeU9RZVEtd2RHN19OakEyaUZJczhkRWlva3d4MkJzTHBqaVl0RGdITlpfSS1ULXZn?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHgwOXQzV3BQcUsza1JDVFktZ1FFWlRQd3pacVlRNlNRYzE1aWlaTWZwb0pOdHdnN3ZFc3V5aERvQ2gxeUppU2h2TkNxNE5UR0FlY2pBdEM5WXVqNU9fOVR1Nk1BQTZoem1KT1VPcW1rZjRPNktMdmVwajNrcFhsNG5uNWR4NnZwbDdwV3UyOUlBcm9SSTBGbU5R?oc=5)
 
 ---
 

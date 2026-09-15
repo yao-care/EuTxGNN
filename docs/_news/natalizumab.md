@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [Herz: Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
+### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
 
-2026-09-15 <span class="news-indication-tag">diabetes</span>
+2026-09-15 <span class="news-indication-tag">copd</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
 
 ---
 
-### [Experto recuerda que la psoriasis pustulosa generalizada es multisistémica y requiere atención multidisciplinar](https://news.google.com/rss/articles/CBMigwJBVV95cUxPSHhQM1lvZHVXZWJ4SDUxNldCVGhkNU9MaENBZnBFZjY2Rm9qVm1CUDE4dUJ3b0xyZ1kxU2RIeUNKUVlVRlktRzd4MGNJQ3YyMk1nMFQzRmZWSnN0TWpieVJEeTRkcC1Gbzg3NVBzLVY4alhvUDVjU29weVBScUVIbXpKc1VGVFJsSHg2MWNDQXV1MWFidVR5a2E2cUdsNWgtQ0JUVDYwLS1Sd2dTdlVEdlZzV3Y0N3pzRllrT3hENjJKNDlUbzQzQ2dMQ09zQktmdXcxeEVKY2pLbUNBT1JTZERLejhJM0ViR3hSSjdhSG8xdzBsTnpBMGlFdnBKUmNadFZZ?oc=5)
+### [Fettleber: Ketogene Diät senkt Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
+
+2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
+
+---
+
+### [Infosalus.- Experto recuerda que la psoriasis pustulosa generalizada es multisistémica y requiere atención multidisciplinar](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYXduM2twRG9KdG9sX0NxeG1mcU9oYWhDNlNuQl9hMGxhRzMwQWVCLW84MUFQbHRVU2h2dzM0Rm1HSkFET3lONlhrTE1TSXRVbmdfZHVfdWxNcGtUWnF3dnNWcGIxVXQ2RnVhUC1jTFhHb1dLU1kzWl9DdERhaDRwaEcyVDNpT1VZWFBZdjBQMzlDTVpXaXM0X1JoVUJxVGJkWGJ4TGJaSlNQMXFnQlRCemVBNnlGZzZhSXdZNEZYVFJkb19TTXBIcWI3Rm44bkNiVm5ucEo4QmxGLTlJejhuU0txVG1MaGVJMkpLLS1ublJhNDFKR181b3VDOFNwZw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">psoriasis</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMigwJBVV95cUxPSHhQM1lvZHVXZWJ4SDUxNldCVGhkNU9MaENBZnBFZjY2Rm9qVm1CUDE4dUJ3b0xyZ1kxU2RIeUNKUVlVRlktRzd4MGNJQ3YyMk1nMFQzRmZWSnN0TWpieVJEeTRkcC1Gbzg3NVBzLVY4alhvUDVjU29weVBScUVIbXpKc1VGVFJsSHg2MWNDQXV1MWFidVR5a2E2cUdsNWgtQ0JUVDYwLS1Sd2dTdlVEdlZzV3Y0N3pzRllrT3hENjJKNDlUbzQzQ2dMQ09zQktmdXcxeEVKY2pLbUNBT1JTZERLejhJM0ViR3hSSjdhSG8xdzBsTnpBMGlFdnBKUmNadFZZ?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYXduM2twRG9KdG9sX0NxeG1mcU9oYWhDNlNuQl9hMGxhRzMwQWVCLW84MUFQbHRVU2h2dzM0Rm1HSkFET3lONlhrTE1TSXRVbmdfZHVfdWxNcGtUWnF3dnNWcGIxVXQ2RnVhUC1jTFhHb1dLU1kzWl9DdERhaDRwaEcyVDNpT1VZWFBZdjBQMzlDTVpXaXM0X1JoVUJxVGJkWGJ4TGJaSlNQMXFnQlRCemVBNnlGZzZhSXdZNEZYVFJkb19TTXBIcWI3Rm44bkNiVm5ucEo4QmxGLTlJejhuU0txVG1MaGVJMkpLLS1ublJhNDFKR181b3VDOFNwZw?oc=5)
 
 ---
 
@@ -86,27 +94,27 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
-### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+### [Statine bei Typ-2-Diabetes: Geringeres Demenzrisiko?](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[eldebate.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
 
 ---
 
-### [Adipositas, Prädiabetes & Fettleber: Keto-Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
+### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa - El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
 
-2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+
+---
+
+### [Semaglutid senkt offenbar Asthma- und COPD-Exazerbationen um bis zu 40 % - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
+
+2026-09-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
 
 ---
 
