@@ -54,6 +54,14 @@ permalink: /news/alectinib-hydrochloride/
 
 ## 相關新聞（40 則）
 
+### [Prostatakrebs-Risiko: Bei Männern afrikanischer Abstammung Keimbahnvarianten, Risikoscore und Familienanamnese einbeziehen - Biermann Medizin](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDQ0UFFxb014N3hYOHpwQWpJVi1NaWYyRGdxTlY4bmZYb1VtZ0ZHTjFnSVc4TTF3dlowSnh1c0dNNVdPUDFublRsUmhrTmJXVkdjOXFDMERqdkpOY1UtZTVsLTExcllSbjVLRFdkYk42MjBTYVJyQnFPVkhJQnJSZHBndlFMM0ZsRWl3T1RrbTE4R29NVTItWVRnTTVJeHlLM2RtY2JOYVgwMGdMbllDNk5NZE5NR2p5TG1fd0hydFVMaUlrejhudHYxYlRYYkU3RHhxSVlGWHREZlRfbUZTRERSV3M?oc=5)
+
+2026-09-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDQ0UFFxb014N3hYOHpwQWpJVi1NaWYyRGdxTlY4bmZYb1VtZ0ZHTjFnSVc4TTF3dlowSnh1c0dNNVdPUDFublRsUmhrTmJXVkdjOXFDMERqdkpOY1UtZTVsLTExcllSbjVLRFdkYk42MjBTYVJyQnFPVkhJQnJSZHBndlFMM0ZsRWl3T1RrbTE4R29NVTItWVRnTTVJeHlLM2RtY2JOYVgwMGdMbllDNk5NZE5NR2p5TG1fd0hydFVMaUlrejhudHYxYlRYYkU3RHhxSVlGWHREZlRfbUZTRERSV3M?oc=5)
+
+---
+
 ### [Krebs: Psychedelische Pilze könnten die Nebenwirkungen der Chemotherapie lindern](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORW1ybzNmTzZvcEFOMTRta3VPSlNIOFFpNmxaYVVGc1VRQTRWVHl1VTlDZnk4TFVVWmk5d3V5Qm1uSWR2X1dJMkMtZm84TXJjaVlaSW5xYVA3Y05OUFZ3WVVvc1d6UEFsdFdNVTNqWWtWcDBxNVB2eEg0cGN4YVhCeG91MHpxNTZRSmdtY1VOeEs2bTJwampEaEVlTzd1YUw4cjY4R1Z6dzFDYlROMHNZdGh0ZXdrV21Yc2NBaUprLW9XRmVGX1F0U2ZFWFZDWWRYdkRxMXZRendNb3RkTmJKbnVn?oc=5)
 
 2026-09-15 <span class="news-indication-tag">Krebs</span>
@@ -62,11 +70,11 @@ permalink: /news/alectinib-hydrochloride/
 
 ---
 
-### [Geheilt, aber anders: Über Liebe und Intimität spricht nach einer Krebserkrankung kaum jemand - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5gFBVV95cUxONy1qT2RpQzQ3TUhGV2FUR1d6RGZCVUNHREhfUGlCcXRRTkpsdV8wSWhZZTF0dDZ1a0xoamxUdkV1a190Q1hvSF90QzB4eFJMOUpSTlJQWDdxUEpaR1ZfR3cyY0NvbWVfVXFEdnN0ekdKcGl0T3Nxa0ptOVVGcUNndUxLbnVsVVY0Z3k2RkV5UXpaVU9JeGlQU0NfbHZsM0lTbGt1bTktTDc1djRGUDB5OXk4Yi1NMXE0RGFLcW9saDJXTVlFTmh4SXR6YkczX3ZvOUdVeGtQQWNfMXZZUVlDdXVDZ0F4UQ?oc=5)
+### [España introduce la primera tecnología de genómica espacial 3D para el estudio de enfermedades como el cáncer - Salud a Diario](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORHg2QUpzb2pMZTlQbU5aQjJxNWhFMllPdV9SV3hsbVMxVWhpc1dXdUMyU3dXcHJJWGU2WW50SF9NNXUwVl9IVU9pWTdFdGtyendSMnNpVm1sQl9HRE43OUZfUEF1UDlEajdNbzh0WDJTNG1EMDk5WXhMSGhqcVFFN3p4Qm9MUEd3ZXduaVJTNVpqenNsN3lzU3pQWlFjRXhaYjhtTTNsVWZxMVdTNEJfTEFBXzBEaFZPZXlfNG9EaVhNbVFVYnI0ZWhEcWxIUERzdlRGSHI2ZGxOU1ZqQU9MTlV2bjlYWVU?oc=5)
 
-2026-09-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-09-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5gFBVV95cUxONy1qT2RpQzQ3TUhGV2FUR1d6RGZCVUNHREhfUGlCcXRRTkpsdV8wSWhZZTF0dDZ1a0xoamxUdkV1a190Q1hvSF90QzB4eFJMOUpSTlJQWDdxUEpaR1ZfR3cyY0NvbWVfVXFEdnN0ekdKcGl0T3Nxa0ptOVVGcUNndUxLbnVsVVY0Z3k2RkV5UXpaVU9JeGlQU0NfbHZsM0lTbGt1bTktTDc1djRGUDB5OXk4Yi1NMXE0RGFLcW9saDJXTVlFTmh4SXR6YkczX3ZvOUdVeGtQQWNfMXZZUVlDdXVDZ0F4UQ?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORHg2QUpzb2pMZTlQbU5aQjJxNWhFMllPdV9SV3hsbVMxVWhpc1dXdUMyU3dXcHJJWGU2WW50SF9NNXUwVl9IVU9pWTdFdGtyendSMnNpVm1sQl9HRE43OUZfUEF1UDlEajdNbzh0WDJTNG1EMDk5WXhMSGhqcVFFN3p4Qm9MUEd3ZXduaVJTNVpqenNsN3lzU3pQWlFjRXhaYjhtTTNsVWZxMVdTNEJfTEFBXzBEaFZPZXlfNG9EaVhNbVFVYnI0ZWhEcWxIUERzdlRGSHI2ZGxOU1ZqQU9MTlV2bjlYWVU?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/alectinib-hydrochloride/
 2026-09-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNazZ2dURYb3czY2xqNmN1eVRyNjZZNmdXWGFEa1JLRnhUTS1ObHd2bGRHTTdSdlAwX1pwUGNGZEctUERTX2VlLUY1T3BYMVMwWVEwTGxpSGcya3p6a3NaV0dHSlliZy1NTVpoTUluZkNDalRPMnB0ekpJRGdZbGtYcHFxX3JVNDdwMHJSZWY4TUdOMEVsMjFxbEpmUF9VOHpOWUNmZUpycFlxZDB3c0NyeU1n?oc=5)
+
+---
+
+### [Bere caffè o tè bollenti aumenta di 3 volte il rischio di tumore: ecco quali sono i pericoli e come evitarli - il Giornale](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWZ6T0FMUFNacHA0VzBrWU43ZnpVWTBEdmJUTEd6UkdOWHVrOFgxcXk0SVMtV3dobnJvYW14ZkxLdW9Ld012V0c3V2UzWXFMM0gxRE40S2hhbm5RUTNDSmZSOHlHdEFfQ0MtS2tYVWxwWGtCSkViZF8xTkZITS1VcEFrR3ktcVVQM1B6MFhMM0I4MlJORV93OGFZYU15MUVpYzgxTEZuNlB0Z3RhMXVWRklrR3RYU1RZNl9RX2hReF9fWE9IZHVYeVVnRVN5VV9ra1pGM1VseDVoQnY1a3FENUpsMA?oc=5)
+
+2026-09-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWZ6T0FMUFNacHA0VzBrWU43ZnpVWTBEdmJUTEd6UkdOWHVrOFgxcXk0SVMtV3dobnJvYW14ZkxLdW9Ld012V0c3V2UzWXFMM0gxRE40S2hhbm5RUTNDSmZSOHlHdEFfQ0MtS2tYVWxwWGtCSkViZF8xTkZITS1VcEFrR3ktcVVQM1B6MFhMM0I4MlJORV93OGFZYU15MUVpYzgxTEZuNlB0Z3RhMXVWRklrR3RYU1RZNl9RX2hReF9fWE9IZHVYeVVnRVN5VV9ra1pGM1VseDVoQnY1a3FENUpsMA?oc=5)
 
 ---
 
@@ -91,6 +107,14 @@ permalink: /news/alectinib-hydrochloride/
 2026-09-15 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
+
+---
+
+### [Royaume-Uni. Elle subit 11 années de chimiothérapie pour soigner un cancer du cerveau qu'elle n'avait pas - Le Dauphiné](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZjNDSzJKS0NqV0hfWm9kcFRHX0ZRVnhycnZIRy1tdWs4X0p1OUdObXVlTVhEdGpoalZVRzJDdXRvT3dXMzJrSnZIOEIzdWx6cVVIWl8wdXl4VTBqYzZycDUtQ09iTmxtMUZHbjB1aWNjQnMwR2JPYUlyNk43LVNJWEw5ZG14SGpwZms0VFJ5em1NVVZyeFdTbkR6V2g2TERqZXJHTGpxdk5yUHFRT3FWakxMcldwRkpQX1ZDanZ4Q2R4UHRJUVNydk5lOW50M2prTGwzS1pGMUFsUQ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Dauphiné](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZjNDSzJKS0NqV0hfWm9kcFRHX0ZRVnhycnZIRy1tdWs4X0p1OUdObXVlTVhEdGpoalZVRzJDdXRvT3dXMzJrSnZIOEIzdWx6cVVIWl8wdXl4VTBqYzZycDUtQ09iTmxtMUZHbjB1aWNjQnMwR2JPYUlyNk43LVNJWEw5ZG14SGpwZms0VFJ5em1NVVZyeFdTbkR6V2g2TERqZXJHTGpxdk5yUHFRT3FWakxMcldwRkpQX1ZDanZ4Q2R4UHRJUVNydk5lOW50M2prTGwzS1pGMUFsUQ?oc=5)
 
 ---
 
@@ -112,25 +136,17 @@ permalink: /news/alectinib-hydrochloride/
 
 ### [L'IA può predire l'efficacia dell'immunoterapia sui pazienti con cancro ai polmoni](https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0trMlNscDhLS1p3Z25BaGoyYUs3ZHktMUstOXF3eUZZWDdSTjRuVW5Za0NaLVpveTNyUm8zaU9CR0tqcTJ4bzZZTVMwTUdFaVR5Sk43dWtVNEhZOXN0TWRZRUxOSE8zQkdkWFl1ZW5qN1NUTklZUnZDTVc4Vml4MjM2dUlldUgtWmQ4RFdn0gFoQVVfeXFMT1QxWUoxQks4MGhNekRhY3psZG4wVzJSTW5hNE9LbVhla0diQm5OWVZrRldROTZkRWpYMXVxWnI5SXBRZHFyZW1mRFlraHQ1WGVhTjFNSy1KdFFIclBUcWFzMzFzWk5LZDA?oc=5)
 
+2026-09-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0trMlNscDhLS1p3Z25BaGoyYUs3ZHktMUstOXF3eUZZWDdSTjRuVW5Za0NaLVpveTNyUm8zaU9CR0tqcTJ4bzZZTVMwTUdFaVR5Sk43dWtVNEhZOXN0TWRZRUxOSE8zQkdkWFl1ZW5qN1NUTklZUnZDTVc4Vml4MjM2dUlldUgtWmQ4RFdn0gFoQVVfeXFMT1QxWUoxQks4MGhNekRhY3psZG4wVzJSTW5hNE9LbVhla0diQm5OWVZrRldROTZkRWpYMXVxWnI5SXBRZHFyZW1mRFlraHQ1WGVhTjFNSy1KdFFIclBUcWFzMzFzWk5LZDA?oc=5)
+
+---
+
+### [Tumore del rinofaringe, circa 400 nuovi casi ogni anno in Italia - Corriere della Sera](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZmRaZlBFOVktZVJBN1lnRGdsVXZnVDh1ejBySUpnX2JMcTQ0VnZPSzBYelBva1BhQ3FYODJoRFpMNnZZRFhpbTVTNXlMSnRIY1UzZ0tyZlVPbl9nVzZsaWdNcU1NYU8zNHpTWUphWTdmcVZZX0FlRkpBeUZmUTZSaGxKcjBwZXgxQ0hKdmFzckJadFgyRWJfeEdkVzBEc0tQc0p2MnBENGVNdkhaVm9MWm1mbGlSUzlrV2ZIa09xSzF1MW9pN0xxS2tmLTJfNE5lTlpYVndqQXhDZVVXcVlrWEUyNkl2REI0cS01QUF3QkdBbTdVTU9fWGNtekVBQ2fSAYQCQVVfeXFMTmNyN3pjM25Sc194YV81dHhnRTBsM0NkdU1sQ1NjRTRnUE04S2xqRGFSeFBDNm1JSkpGYmFvSDhuSW9Mbm5hMkR0WHo1OUp3OVNRYVAxVWprVUZuaW40QkJjRGRBcHNLeHd6eHVUTG1tZnc1cklaclVXM1ZKaDAzbE1SZjRjUE5CRnUzYTlHZTgtc0JDMGpPX3hacktvUUEyQl9LaFI0TTFHZnY3XzFKelRNV05HZGRCWnkteHM0MTYtRXdpNWtYcmJwUUNnbU95UDFjYWNaazVPTWxUMGgtaDZwOV9fUlZCUkRiaHdxYzFKUHBJdGYyRi1JeGhfYS0xTlhrOUc?oc=5)
+
 2026-09-15 <span class="news-indication-tag">tumor</span>
 
-來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0trMlNscDhLS1p3Z25BaGoyYUs3ZHktMUstOXF3eUZZWDdSTjRuVW5Za0NaLVpveTNyUm8zaU9CR0tqcTJ4bzZZTVMwTUdFaVR5Sk43dWtVNEhZOXN0TWRZRUxOSE8zQkdkWFl1ZW5qN1NUTklZUnZDTVc4Vml4MjM2dUlldUgtWmQ4RFdn0gFoQVVfeXFMT1QxWUoxQks4MGhNekRhY3psZG4wVzJSTW5hNE9LbVhla0diQm5OWVZrRldROTZkRWpYMXVxWnI5SXBRZHFyZW1mRFlraHQ1WGVhTjFNSy1KdFFIclBUcWFzMzFzWk5LZDA?oc=5)
-
----
-
-### [Vitamin B12: BfR warnt vor Höchstmengen über 25 µg täglich](https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3VVS1lCeUlQd3VpR2ZVaWxYNmluaFIyWS1VNFlnZllOQ2d1c19ITk83WTNzWUROQmp0X0JVRGZpNm5oSTYtTGdiUllLN0drRmpGR2EwQ3drQUxDZzliX1pvYUh0Z0ZnWFlIWWdFU0xyaFJxUi1Td0RPMDBlTWVIVlkzc3p2QXB1STYzQnpCZlJqTVVDNkhv?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Krebs</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3VVS1lCeUlQd3VpR2ZVaWxYNmluaFIyWS1VNFlnZllOQ2d1c19ITk83WTNzWUROQmp0X0JVRGZpNm5oSTYtTGdiUllLN0drRmpGR2EwQ3drQUxDZzliX1pvYUh0Z0ZnWFlIWWdFU0xyaFJxUi1Td0RPMDBlTWVIVlkzc3p2QXB1STYzQnpCZlJqTVVDNkhv?oc=5)
-
----
-
-### [Dans cet hôpital des Landes, un nouveau traitement est disponible contre le cancer le plus fréquent chez l’homme](https://news.google.com/rss/articles/CBMijgJBVV95cUxPcXRmbnRzc3hnUVExVTMyX2V0UmNaNlRZS2ZQYy1rZld2NE02Y050N3hJc25VNThLWmF3dHVvVmhFVE9INDNDQ3g0b1lucm5QQzQzUjNBX3BtbnFsZGdBOHphUjFIMHA1UTRCMjdUVm5PSHNNb3IzSm5kdHI5Szhld1lBMUJ4czJBLUVsWWlnMHBycnVjNWlORDZCVFoyWFpoOWQtWDUxT0FxYk5MaFpnMjFyRm1XZmNoTnVJM1p0YkVEMmlrRi1CNmpPbG1nT2hTMnUtZmtQUTdMSzBpeG1Cc2YzXzJ0cHFxd19CbUw1OXdjS28xT3hsUC0tQTRKek9vaDZPQzc0aUp0U0hYMHc?oc=5)
-
-2026-09-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMijgJBVV95cUxPcXRmbnRzc3hnUVExVTMyX2V0UmNaNlRZS2ZQYy1rZld2NE02Y050N3hJc25VNThLWmF3dHVvVmhFVE9INDNDQ3g0b1lucm5QQzQzUjNBX3BtbnFsZGdBOHphUjFIMHA1UTRCMjdUVm5PSHNNb3IzSm5kdHI5Szhld1lBMUJ4czJBLUVsWWlnMHBycnVjNWlORDZCVFoyWFpoOWQtWDUxT0FxYk5MaFpnMjFyRm1XZmNoTnVJM1p0YkVEMmlrRi1CNmpPbG1nT2hTMnUtZmtQUTdMSzBpeG1Cc2YzXzJ0cHFxd19CbUw1OXdjS28xT3hsUC0tQTRKek9vaDZPQzc0aUp0U0hYMHc?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZmRaZlBFOVktZVJBN1lnRGdsVXZnVDh1ejBySUpnX2JMcTQ0VnZPSzBYelBva1BhQ3FYODJoRFpMNnZZRFhpbTVTNXlMSnRIY1UzZ0tyZlVPbl9nVzZsaWdNcU1NYU8zNHpTWUphWTdmcVZZX0FlRkpBeUZmUTZSaGxKcjBwZXgxQ0hKdmFzckJadFgyRWJfeEdkVzBEc0tQc0p2MnBENGVNdkhaVm9MWm1mbGlSUzlrV2ZIa09xSzF1MW9pN0xxS2tmLTJfNE5lTlpYVndqQXhDZVVXcVlrWEUyNkl2REI0cS01QUF3QkdBbTdVTU9fWGNtekVBQ2fSAYQCQVVfeXFMTmNyN3pjM25Sc194YV81dHhnRTBsM0NkdU1sQ1NjRTRnUE04S2xqRGFSeFBDNm1JSkpGYmFvSDhuSW9Mbm5hMkR0WHo1OUp3OVNRYVAxVWprVUZuaW40QkJjRGRBcHNLeHd6eHVUTG1tZnc1cklaclVXM1ZKaDAzbE1SZjRjUE5CRnUzYTlHZTgtc0JDMGpPX3hacktvUUEyQl9LaFI0TTFHZnY3XzFKelRNV05HZGRCWnkteHM0MTYtRXdpNWtYcmJwUUNnbU95UDFjYWNaazVPTWxUMGgtaDZwOV9fUlZCUkRiaHdxYzFKUHBJdGYyRi1JeGhfYS0xTlhrOUc?oc=5)
 
 ---
 
@@ -182,14 +198,6 @@ permalink: /news/alectinib-hydrochloride/
 
 ---
 
-### [Pascual-Sánchez ve en la prevención precoz la gran esperanza frente al alzhéimer y apunta a los próximos cinco años](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
-
----
-
 ### [The 7 common NHS drugs that raise dementia risk - as docs ‘prescribing meds to millions without warning them’ - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
 
 2026-09-14 <span class="news-indication-tag">dementia</span>
@@ -210,7 +218,7 @@ permalink: /news/alectinib-hydrochloride/
 
 2026-09-14 <span class="news-indication-tag">tumor</span>
 
-來源：[leggo.it](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkhvT1IxTVZsUHV6Zk45V2pPU1lUczZvVzhfbTdETWlJcXlLVWhlOXpqWmNIbUFZdHBvZmxJU2JzT29LTW9PakluVklIY0hWODlFWnM5YUNjbjNwd1hVRVFxNWd1V1JnWDJmX240Rzl0alJQWWFZVWNUaWEyd2QweGJDYlEzRXR3SVNYblJBMnVsUmVIYzFiekNmNGhLTmVqeGfSAY8BQVVfeXFMUEFaeVBqUW8wOXVCTG5pcV9zcUpfeGp2VUN5QkR6N016T1RPWklncXg0Sml2b3Etc2JLQWNiOGI4SHF4TVNOb0JkWUZ2SkwySEZnVERMaWVCN0NlU19rcHh5UWpmckRRY0JmczJiMFF6RUZhTExxeGRIaVJJeEU5SzVHVjBUZzgyVWtJLS1heUE?oc=5)
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkhvT1IxTVZsUHV6Zk45V2pPU1lUczZvVzhfbTdETWlJcXlLVWhlOXpqWmNIbUFZdHBvZmxJU2JzT29LTW9PakluVklIY0hWODlFWnM5YUNjbjNwd1hVRVFxNWd1V1JnWDJmX240Rzl0alJQWWFZVWNUaWEyd2QweGJDYlEzRXR3SVNYblJBMnVsUmVIYzFiekNmNGhLTmVqeGfSAY8BQVVfeXFMUEFaeVBqUW8wOXVCTG5pcV9zcUpfeGp2VUN5QkR6N016T1RPWklncXg0Sml2b3Etc2JLQWNiOGI4SHF4TVNOb0JkWUZ2SkwySEZnVERMaWVCN0NlU19rcHh5UWpmckRRY0JmczJiMFF6RUZhTExxeGRIaVJJeEU5SzVHVjBUZzgyVWtJLS1heUE?oc=5)
 
 ---
 
@@ -227,14 +235,6 @@ permalink: /news/alectinib-hydrochloride/
 2026-09-14 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFVMm5sdjd6OHM2VC1LR3lZNGQ0UHFrZm9DWEhFOW1RWmVlVUh3STYyM0xKUmRvTzZVajZCSG9ROEZ3S0REUmJMbERzRndBY080amxESThFQWZLby1uQ3FiMExaeGFwc1lxeTlDU2xqR0JQbzFidkVwdTZtS1dNSHJjTUV1VUJ5TnlSZWVUcGlJcjl0bDZSLWkyUzFtLVNSeU83ekx1MWdLOEJGbXc?oc=5)
-
----
-
-### [NHS ‘not ready’ to deliver breakthrough Alzheimer’s treatments - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
 
 ---
 
@@ -259,22 +259,6 @@ permalink: /news/alectinib-hydrochloride/
 2026-09-14 <span class="news-indication-tag">tumor</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUZNeTluT0Q3UHNsNlNfMjY0Zk1WVXo0b1lMRVFHTDZfd2xUQnRNZWNmVjh0ZjJ3V2hTTEdZeERheFl0QlU3T2RQZkxXRG1XNmduRnJUOE83cnA4RWR4RVliOUpFMVB0NUNtQTJZM2ZFZzhRQzdfbHduUVRSM05LN21VMFZVaFhNd25VOFh3OWJwZ3Nlbmc?oc=5)
-
----
-
-### [Cancer du côlon, laboratoire P4 et les poils incarnés](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkszY1BxSzl3cldjZEdodlk5TlFZSkszUmNrUUpTOVhRem9uamo4NkYxT2Q5c3JJTHVXV2RkdnNqOE4weG5NVGo4NDNoWnJNQzVrbXdfNFNGWmhpbjJ4RXBiclp5enFnUTZXY2pLY3VFOEJqSTZLTm1tbURtSzNOYlNBb2tJdTVjRzMzMFVPYUJJMFRFNzdoMlAzNEpJQW5kanFYTkdLVC15MUxwVzJR?oc=5)
-
-2026-09-13 <span class="news-indication-tag">cancer</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkszY1BxSzl3cldjZEdodlk5TlFZSkszUmNrUUpTOVhRem9uamo4NkYxT2Q5c3JJTHVXV2RkdnNqOE4weG5NVGo4NDNoWnJNQzVrbXdfNFNGWmhpbjJ4RXBiclp5enFnUTZXY2pLY3VFOEJqSTZLTm1tbURtSzNOYlNBb2tJdTVjRzMzMFVPYUJJMFRFNzdoMlAzNEpJQW5kanFYTkdLVC15MUxwVzJR?oc=5)
-
----
-
-### [Boy, 13, dies weeks before birthday after 'hay fever' symptoms were cancer - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
-
-2026-09-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
 
 ---
 
@@ -326,6 +310,14 @@ permalink: /news/alectinib-hydrochloride/
 
 ---
 
+### [Risikoadaptierte Behandlung wird wichtiger beim Endometriumkarzinom](https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzlYc1dfcmVacW9rUjQzWGtiVGNBRW92M1M3Z0k4SkRXNFVUY2ZvYW9aS2JmNUpUUno3U2tKaVNPU1dTTFoyVWxzTTZkbGxSQ0xUc25tdFNwem0tZzhJR0Q3QlZwcXdqTHoyam1hWllLcjNuZVVhcGhtbHdRMXN6SFVDZE1NY0VFMHdfT1ZvQmJxODdyQTFFVDQ1UzhtZG9McFFsTGRRMDJ6RGlDdUVaVmpMdnM1WGdNM2R0eS0tVUdUR1A5S2tSLWtscnVlNVdyb1NuQUs4TmlpNURR?oc=5)
+
+2026-09-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzlYc1dfcmVacW9rUjQzWGtiVGNBRW92M1M3Z0k4SkRXNFVUY2ZvYW9aS2JmNUpUUno3U2tKaVNPU1dTTFoyVWxzTTZkbGxSQ0xUc25tdFNwem0tZzhJR0Q3QlZwcXdqTHoyam1hWllLcjNuZVVhcGhtbHdRMXN6SFVDZE1NY0VFMHdfT1ZvQmJxODdyQTFFVDQ1UzhtZG9McFFsTGRRMDJ6RGlDdUVaVmpMdnM1WGdNM2R0eS0tVUdUR1A5S2tSLWtscnVlNVdyb1NuQUs4TmlpNURR?oc=5)
+
+---
+
 ### [Mum died from aggressive cancer after nine-month wait for test results](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
 
 2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -336,17 +328,17 @@ permalink: /news/alectinib-hydrochloride/
 
 ### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
-2026-09-11 <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
+2026-09-11 <span class="news-indication-tag">alzheimer disease</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
 ---
 
-### [Tumore del pancreas. Aiom: “Daraxonrasib non ancora disponibile in Italia. Avviare subito l’uso compassionevole” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
+### [Nuovo farmaco contro il tumore del pancreas, Burioni denuncia: “Negli USA già disponibile, in Italia tutti zitti”](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVDg2d3E1dHlPOGVlOFhXZGpYcXNYb0NsbHhPenJzRllkQllXZHJCTTZLd0ZaakxuTXhXbTRuQ29rMl91SXFORUZJcFgyOHByTF9SMTNKekJkdmJ2UnJuc3pjUmhQR2VOTTFiTlVIRGxRZHR3X0ZFdm5JeUVObzZkaFpTdGt1V0ZHTGo5Qlc3SHoyVHB2NFp5Tml3VjYzUlI4clg4emhiN3BsbVNQaU84SnJvcjdDVHVYTXdFYXpZSXhMS1htLXpDX2g5SldqWjhkQUlacm00Si1zNnkxazljcGtZa09hczA?oc=5)
 
 2026-09-11 <span class="news-indication-tag">tumor</span>
 
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVDg2d3E1dHlPOGVlOFhXZGpYcXNYb0NsbHhPenJzRllkQllXZHJCTTZLd0ZaakxuTXhXbTRuQ29rMl91SXFORUZJcFgyOHByTF9SMTNKekJkdmJ2UnJuc3pjUmhQR2VOTTFiTlVIRGxRZHR3X0ZFdm5JeUVObzZkaFpTdGt1V0ZHTGo5Qlc3SHoyVHB2NFp5Tml3VjYzUlI4clg4emhiN3BsbVNQaU84SnJvcjdDVHVYTXdFYXpZSXhMS1htLXpDX2g5SldqWjhkQUlacm00Si1zNnkxazljcGtZa09hczA?oc=5)
 
 ---
 
@@ -363,6 +355,14 @@ permalink: /news/alectinib-hydrochloride/
 2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
+
+---
+
+### [Boy's dying wish: 'I don't want to be forgotten'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
+
+2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
 
 ---
 

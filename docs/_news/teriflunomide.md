@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（16 則）
+
+### [Soziale Medien treiben Fehlanwendung von Bluttests für Alzheimer voran - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUhOSzNlWEVhN2FTTEZYU1NINjc4QXhYcHF1cUlySWsxWHRGaHVaUjdzUWZKRlNpb0pxaGVJd2ZVWnBRVElMYlRDN3RzTmh6NzZ5U2Q2VTE5VXgwQ3BQcnhVRTJRejlaT2U5R3ltRFNPQTZLWHM1N1dyWTJHT1hKWEd1Nmw4QVJkbGh6aWwzVjBIM2VQaUVFb1dXaGRQdDNjbTIxSjZR?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUhOSzNlWEVhN2FTTEZYU1NINjc4QXhYcHF1cUlySWsxWHRGaHVaUjdzUWZKRlNpb0pxaGVJd2ZVWnBRVElMYlRDN3RzTmh6NzZ5U2Q2VTE5VXgwQ3BQcnhVRTJRejlaT2U5R3ltRFNPQTZLWHM1N1dyWTJHT1hKWEd1Nmw4QVJkbGh6aWwzVjBIM2VQaUVFb1dXaGRQdDNjbTIxSjZR?oc=5)
+
+---
+
+### [Identifican tres perfiles de pacientes de VIH asociados con la aparición de hepatitis C e ITS bacterianas](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQanQxYWFrY04xTWp6LTN4OXRpNmk4MTJiWWRMdDZhR0MyVnlWUFpLRHM4RjItbmpwX1VrS1QwandOV1ZhSlJCSWdPSkRCc05wLXVHXzM4cThyaUx3cGl6NW1OX2NOdGxJbkF0el94OC1xUDBSTGtkRFlQd0phYnBBaWhtY0lnMVNsR2VpZ25rX1BSUXZqeHd4cVgzWW5ZRGNlRURlRjBIakd2Si1DSFoxRnV0NGJUc1lEYVVjeXZsdmxlcG5xQ2xzUlU1dlBzZUt0ZGFjOVI0LXpoazNiTzh3X1JCaXNGOEhiZnZ0ajRkOTI?oc=5)
+
+2026-09-15 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQanQxYWFrY04xTWp6LTN4OXRpNmk4MTJiWWRMdDZhR0MyVnlWUFpLRHM4RjItbmpwX1VrS1QwandOV1ZhSlJCSWdPSkRCc05wLXVHXzM4cThyaUx3cGl6NW1OX2NOdGxJbkF0el94OC1xUDBSTGtkRFlQd0phYnBBaWhtY0lnMVNsR2VpZ25rX1BSUXZqeHd4cVgzWW5ZRGNlRURlRjBIakd2Si1DSFoxRnV0NGJUc1lEYVVjeXZsdmxlcG5xQ2xzUlU1dlBzZUt0ZGFjOVI0LXpoazNiTzh3X1JCaXNGOEhiZnZ0ajRkOTI?oc=5)
+
+---
 
 ### [Trotz schwerer MS: Wie Marianne Binsteiner das Klosterbad in Gars am Inn erobert](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZ5TU4zVU5wVlVSaVdsREpEMktESmxVWVgyc0toYkxPdDhFSGZjVkMyWmdVenUwdVJTZ3BxSUpMd21sNHZjS1E5VTVZR2YzUEw1UFpvSDcySzVfWHRXamFndHpFZnJMZmduWENwQzd3N2hLOVZuZHZZYkp6T2FGMDA2NmZWTGJoVHYxWHZVcEVXRjVVTldIRm1Xd0FmeVBiWGphMUNfX1dzQnBUSlI0WFQ2UXdxMnRTOUZTUGl1QWxkcUgyUmo1d3NRTHFxUTlnY0JFWlc5VTZUYmhScWdQSHhB?oc=5)
 
 2026-09-15 <span class="news-indication-tag">MS</span>
 
 來源：[Innsalzach24](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZ5TU4zVU5wVlVSaVdsREpEMktESmxVWVgyc0toYkxPdDhFSGZjVkMyWmdVenUwdVJTZ3BxSUpMd21sNHZjS1E5VTVZR2YzUEw1UFpvSDcySzVfWHRXamFndHpFZnJMZmduWENwQzd3N2hLOVZuZHZZYkp6T2FGMDA2NmZWTGJoVHYxWHZVcEVXRjVVTldIRm1Xd0FmeVBiWGphMUNfX1dzQnBUSlI0WFQ2UXdxMnRTOUZTUGl1QWxkcUgyUmo1d3NRTHFxUTlnY0JFWlc5VTZUYmhScWdQSHhB?oc=5)
+
+---
+
+### [Hautprotein dämpft Immunreaktion in der Oberhaut](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wd2VHTDh3djJKVzg2dC1qUjFOM1VZc3g5REljQkVaSDdNNG1zVS0zd2NCQ2YyRFpaOE5Odm9fTllGeGJPRFpGeVZZNTUwUTJ0NHpfQTdTeklHLWpwTlJQOFo4d1h4bi1PZ1h0RWRQY3lndFZzaUE4dEwtYUlSNXc?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span>
+
+來源：[MedLabPortal](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wd2VHTDh3djJKVzg2dC1qUjFOM1VZc3g5REljQkVaSDdNNG1zVS0zd2NCQ2YyRFpaOE5Odm9fTllGeGJPRFpGeVZZNTUwUTJ0NHpfQTdTeklHLWpwTlJQOFo4d1h4bi1PZ1h0RWRQY3lndFZzaUE4dEwtYUlSNXc?oc=5)
 
 ---
 
@@ -78,22 +102,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Das UKSH-Gesundheitsforum des Universitätsklinikums Schleswig-Holstein bietet am 25. September einen besonderen Aktionstag anlässlich des Jubiläums mit kostenfreien Mitmachaktionen. - Kieler Nachrichten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXJEUXBWeG1SR01GTEpuR0Vsd3ZRT2J6WlZ5RXNlSWZJQ19FZWdWczZyLXpLYktlbHBMSVdlMDBfcDFGQXp3NzN3T0V5MUJTRWNvQW9BUDg3OVdsbS1Ca3pPZlpsQnE5U2RiUzdIcXEwbXFTU1Z3M2xzUlZFZ19FSUFBcS1wRUN1SUY0U2RsTGVGZTdxN1NNQ3plVkVuNENhV3RNcVRXY1pHSm9KT1NjMmZlQ0FLYlF2YlMyVTlUc0czR1VpNm1JZGpoalFCblNHbkRzLU1OWTFDT3VQT0JzRFFQbGV0UzVKZVhKRlpvRkxqTTkxMmJIXzNmQUpFYU9uX2g5cG81MmVzb2dnRGdPaw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[Kieler Nachrichten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXJEUXBWeG1SR01GTEpuR0Vsd3ZRT2J6WlZ5RXNlSWZJQ19FZWdWczZyLXpLYktlbHBMSVdlMDBfcDFGQXp3NzN3T0V5MUJTRWNvQW9BUDg3OVdsbS1Ca3pPZlpsQnE5U2RiUzdIcXEwbXFTU1Z3M2xzUlZFZ19FSUFBcS1wRUN1SUY0U2RsTGVGZTdxN1NNQ3plVkVuNENhV3RNcVRXY1pHSm9KT1NjMmZlQ0FLYlF2YlMyVTlUc0czR1VpNm1JZGpoalFCblNHbkRzLU1OWTFDT3VQT0JzRFFQbGV0UzVKZVhKRlpvRkxqTTkxMmJIXzNmQUpFYU9uX2g5cG81MmVzb2dnRGdPaw?oc=5)
-
----
-
-### [Brain implant lets paralysed patients speak via digital avatar - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0I5VWR1SmJBX3BGTDFlYmRYbU85ZVplS2t2d29Sa3BJRDdLbEp4UzZGZ0I4UTFpTHQ5bjBDeWpoR3hvQmRkSXA3UUFFOXRqc0VpUm9Mbzh6Mll3a29feVVMeHhKc3p0bXFwa2hOd19pUzBTaFM4YUI5WktGa3ZsWkpqYkk?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0I5VWR1SmJBX3BGTDFlYmRYbU85ZVplS2t2d29Sa3BJRDdLbEp4UzZGZ0I4UTFpTHQ5bjBDeWpoR3hvQmRkSXA3UUFFOXRqc0VpUm9Mbzh6Mll3a29feVVMeHhKc3p0bXFwa2hOd19pUzBTaFM4YUI5WktGa3ZsWkpqYkk?oc=5)
-
----
-
 ### [Des milliers de personnes ont été observées pendant 26 ans : celles qui ont évité 3 problèmes ont vécu sans démence 13 ans de plus](https://news.google.com/rss/articles/CBMieEFVX3lxTE4zdGk3X29VZTlsVlFXNVRQbUhUandaM1ZnalhfcHJnVi0xQkUyOEZnNmFiRWQ1YjV5Vy1NMWg4Z1pVVzR5UDByZFZiYXIxYS1DZXExSlQ1eGtZc19sQTJLLUVhQUxwYUc3blotdXEwd1lXdllnWDZzTQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">MS</span>
@@ -102,11 +110,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Entzündungen: Wie ein Protein die Abwehrreaktion der Hautzellen reguliert](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUNMQWFwUnBYVjZtS1R5U3k2ZGZDaU1TSG42X0FOVHRZcDRtdWlxNUVJcV91dGxYLWYyQjZnUkM2RHZJbTVpMHNEclJhYXpNdkVTX3FGV1NUcDVvLXdnbFlKd2NTbUExTnhOUjlzQU4zSzkyLVVSZnNSWmNUUW43MHFsa0dmMzBrSFJaeDNSNEtLUkk?oc=5)
+### [Bauernhofeffekt: Stallbakterien könnten vor kindlichem Asthma schützen - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
 
-2026-09-14 <span class="news-indication-tag">MS</span>
+2026-09-14 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUNMQWFwUnBYVjZtS1R5U3k2ZGZDaU1TSG42X0FOVHRZcDRtdWlxNUVJcV91dGxYLWYyQjZnUkM2RHZJbTVpMHNEclJhYXpNdkVTX3FGV1NUcDVvLXdnbFlKd2NTbUExTnhOUjlzQU4zSzkyLVVSZnNSWmNUUW43MHFsa0dmMzBrSFJaeDNSNEtLUkk?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
 
 ---
 
@@ -126,43 +134,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Saarländische Testwoche startet: Gesundheitsamt St. Wendel testet kostenlos auf HIV, Syphilis und Hepatitis - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
-2026-09-13 <span class="news-indication-tag">hepatitis</span>
+2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
-
----
-
-### [Unintentional mind wandering disrupts attention in ADHD through two different mechanisms](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWp6SGlOSU5Hc1BDM19iVEtxLWRsd0tCUWRpaVV1OXdxNVAzNTFpQnB0OWFXSkNjYlZsX0tpaGpoQTVoZ0R2SlZ6Nkk5d2kyeU11d3dUSk96ZHNaaU5IMVRnM2VoUExnSlZINWxUT0J5ZHM2ZHdtdnh0V2J4Z20zUmdpZmVYdXNyeFlKS1Q4NkdYX2UwX0NabGdKdm9mMUNjRDhDaWVEcXE4RU85TUxXSHF0VQ?oc=5)
-
-2026-09-13 <span class="news-indication-tag">MS</span>
-
-來源：[PsyPost](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWp6SGlOSU5Hc1BDM19iVEtxLWRsd0tCUWRpaVV1OXdxNVAzNTFpQnB0OWFXSkNjYlZsX0tpaGpoQTVoZ0R2SlZ6Nkk5d2kyeU11d3dUSk96ZHNaaU5IMVRnM2VoUExnSlZINWxUT0J5ZHM2ZHdtdnh0V2J4Z20zUmdpZmVYdXNyeFlKS1Q4NkdYX2UwX0NabGdKdm9mMUNjRDhDaWVEcXE4RU85TUxXSHF0VQ?oc=5)
+來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 ---
 
-### [Semaglutid senkt offenbar Asthma- und COPD-Exazerbationen um bis zu 40 % - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
+### [Zelltherapie lindert mehrere neurologische Autoimmunerkrankungen - Forschung und Wissen](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb05MZWdvQmo5dVU1QlRndFM3T3g2LVZyVGcxV2lXVjczRXNrRVAyVXBYMXFRNTJrSm0weXdoMlFYa0U0YThPSHZ0VjlES2R5b3c0TERvYWVuR25PbWN2NF8xNkZ6R0VObTJIb2ZCTUFGSGNEZFRIYnpMOVdWVi1jV1ZTd24tWEg2VU9YaW1xVkYtSmtGbks4YlVoS2ZvUGFCSThmZ1RuYkU3U3pqNnRHV2ozVnZMT2M0WEtONm9NSkx3ZEt0bnI0RDRB?oc=5)
 
-2026-09-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-13 <span class="news-indication-tag">Multiple Sklerose</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
-
----
-
-### [Boy, 13, dies weeks before birthday after 'hay fever' symptoms were cancer - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
-
-2026-09-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
-
----
-
-### [5 Home Exercises That Firm Belly Overhang Faster Than Gym Sessions After 65 - Eat This Not That](https://news.google.com/rss/articles/CBMie0FVX3lxTFA1aVVBQXE5ZURXUFhkbXFmUk1sV3FGNEd2aldsbjZjeTdxNDBZbWEtY0tGRFpZcjlYck80MXg0QkhrTjVtS0ZVYkNDdnRRVTdzMnZfXzY2ODVhNExKWUk0dl9MT3pRU2pGcUhobUFKYXQ5TGRnZTNGS2lQSQ?oc=5)
-
-2026-09-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMie0FVX3lxTFA1aVVBQXE5ZURXUFhkbXFmUk1sV3FGNEd2aldsbjZjeTdxNDBZbWEtY0tGRFpZcjlYck80MXg0QkhrTjVtS0ZVYkNDdnRRVTdzMnZfXzY2ODVhNExKWUk0dl9MT3pRU2pGcUhobUFKYXQ5TGRnZTNGS2lQSQ?oc=5)
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb05MZWdvQmo5dVU1QlRndFM3T3g2LVZyVGcxV2lXVjczRXNrRVAyVXBYMXFRNTJrSm0weXdoMlFYa0U0YThPSHZ0VjlES2R5b3c0TERvYWVuR25PbWN2NF8xNkZ6R0VObTJIb2ZCTUFGSGNEZFRIYnpMOVdWVi1jV1ZTd24tWEg2VU9YaW1xVkYtSmtGbks4YlVoS2ZvUGFCSThmZ1RuYkU3U3pqNnRHV2ozVnZMT2M0WEtONm9NSkx3ZEt0bnI0RDRB?oc=5)
 
 ---
 
@@ -174,43 +158,27 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
+### [Boy's dying wish: 'I don't want to be forgotten'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
 
-2026-09-11 <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
+2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
-
----
-
-### [Orexin-Agonist Oveporexton bei Narkolepsie Typ 1 hoch wirksam – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzdwRk1mWmFveE95RmZ5TC00ek5GbUN6QnFEUjJmZ2JvMlpBdUJNbDZnTXE0akZ1TmVQV1IwMktSZldZRjhuZEFzN25pZHdkaExlVlpOS0stNm90WGplSUNBd3VPbHg1MzlFUHVQM1ZvWDFMazktVWpGMVBFUkxRbTIyZTRPN2h5QzZaRlNncnNmMWk0dlBJaEltbUIxLTVyNXVTaVp4UmVMR2RpVG1NU1VnTTlMVXBRcHR2bDRJWHpuMmtqaUZNcjFB?oc=5)
-
-2026-09-11 <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzdwRk1mWmFveE95RmZ5TC00ek5GbUN6QnFEUjJmZ2JvMlpBdUJNbDZnTXE0akZ1TmVQV1IwMktSZldZRjhuZEFzN25pZHdkaExlVlpOS0stNm90WGplSUNBd3VPbHg1MzlFUHVQM1ZvWDFMazktVWpGMVBFUkxRbTIyZTRPN2h5QzZaRlNncnNmMWk0dlBJaEltbUIxLTVyNXVTaVp4UmVMR2RpVG1NU1VnTTlMVXBRcHR2bDRJWHpuMmtqaUZNcjFB?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
 
 ---
 
-### [Der gefährlichste Bewohner des Terrariums ist oft unsichtbar](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
-
-2026-09-11 <span class="news-indication-tag">MS</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
-
----
-
-### [Pilzinfektion: Wie Immunzellen Candida albicans unbeabsichtigt vor Abwehr schützen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkp6SkZBWV8yMjhHc2hWVUxOSU01RzNQRFI2NkctVXY5dnRWUzREbTBlem11bFl6YzRWRW1TRTRoVzg4eVpRQTZOWjN4WlB3bzE5Z0pnNzJGTWNYdjlXMFNIZ1JDb3FlRkNiS3FTd2lqTzRKSDdDZS1LdkE5blE0NmZYcW1fWXMxOEh5a3J2bUY1cUNHRUJRbHZZd1I1bVE?oc=5)
+### [Help-Studie zu Ebola im Kongo: "Ohne Vertrauen wird die Lage weiter eskalieren"](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzA2VExNUHEwOElKdjBvUHJDNFZ5cy1kamNpTlV2TmVtSzVnT0VBSHV4WlV3TkpkT3dteVdQcF9xZXo0cmJlSUZuTXZ2NlhOU0lPOVdGcXJ5U3o2R1dtVFpZbFVWS0c3VzB0MVZnc0ZTZ19NMzFTTlZLTEROZlhGMGt0YWVaREhOci00cDVjTVhtLVN5ZFN0T2ExNkpKTGRTb202N2pTSWxMM3hwT3A2V044RDNzNk9zdFJaSUF3dVRsRzJvTWJRbXp6ZUVsdUxBUzVBeFkzUkJ5Tl8tYkRV?oc=5)
 
 2026-09-10 <span class="news-indication-tag">MS</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkp6SkZBWV8yMjhHc2hWVUxOSU01RzNQRFI2NkctVXY5dnRWUzREbTBlem11bFl6YzRWRW1TRTRoVzg4eVpRQTZOWjN4WlB3bzE5Z0pnNzJGTWNYdjlXMFNIZ1JDb3FlRkNiS3FTd2lqTzRKSDdDZS1LdkE5blE0NmZYcW1fWXMxOEh5a3J2bUY1cUNHRUJRbHZZd1I1bVE?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzA2VExNUHEwOElKdjBvUHJDNFZ5cy1kamNpTlV2TmVtSzVnT0VBSHV4WlV3TkpkT3dteVdQcF9xZXo0cmJlSUZuTXZ2NlhOU0lPOVdGcXJ5U3o2R1dtVFpZbFVWS0c3VzB0MVZnc0ZTZ19NMzFTTlZLTEROZlhGMGt0YWVaREhOci00cDVjTVhtLVN5ZFN0T2ExNkpKTGRTb202N2pTSWxMM3hwT3A2V044RDNzNk9zdFJaSUF3dVRsRzJvTWJRbXp6ZUVsdUxBUzVBeFkzUkJ5Tl8tYkRV?oc=5)
 
 ---
 
-### [WHO: Viel zu wenige Betten für Ebola-Patienten im Kongo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3BHcTQxeEF5aDg1T0ZIaUg4YWt2bEljcGdpRi04MTZzV1pZdWdlQzJZcXVtYlVhVVc3THloZnhsMWFzXzhTaEFPTi1WbTk0Rmw5MS1RdDVRdVdsMFo5TS01UUtJaFh4dnkyWGVBVkVKc0lWOUl3LXdpeDN5ZzhleUduME9jemEzczYxU0hfbmRqNEpYYWRGVjZMWmNBQ2JmcnAtNFBIdm95NlpwVlpBeGZ2Q04?oc=5)
+### [Takeda stärkt Oveporexton mit Phase-3-Daten bei Narkolepsie Typ 1](https://news.google.com/rss/articles/CBMingFBVV95cUxPZDQ5Qi1qeVFoOFFaZEFqbU5xSmFzUGJZWW9OOXpvWU9WRFp6aXhMeFJCa2tCOWlHNEZDdWlrSDRya3FKNFk4czhxU2tWU2lkMGpiUkFfMUc3cnJ2OUtNa1p6Q3BXQkVMVXJISVJCTnBDLTRzX0RyZGQxdXJSMXdzcWt4Z0tEQy0wLUFzdGppWG04RWk4UW1ObGVhc1JZQQ?oc=5)
 
-2026-09-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-09 <span class="news-indication-tag">MS</span>
 
-來源：[main-echo.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3BHcTQxeEF5aDg1T0ZIaUg4YWt2bEljcGdpRi04MTZzV1pZdWdlQzJZcXVtYlVhVVc3THloZnhsMWFzXzhTaEFPTi1WbTk0Rmw5MS1RdDVRdVdsMFo5TS01UUtJaFh4dnkyWGVBVkVKc0lWOUl3LXdpeDN5ZzhleUduME9jemEzczYxU0hfbmRqNEpYYWRGVjZMWmNBQ2JmcnAtNFBIdm95NlpwVlpBeGZ2Q04?oc=5)
+來源：[Goldesel.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPZDQ5Qi1qeVFoOFFaZEFqbU5xSmFzUGJZWW9OOXpvWU9WRFp6aXhMeFJCa2tCOWlHNEZDdWlrSDRya3FKNFk4czhxU2tWU2lkMGpiUkFfMUc3cnJ2OUtNa1p6Q3BXQkVMVXJISVJCTnBDLTRzX0RyZGQxdXJSMXdzcWt4Z0tEQy0wLUFzdGppWG04RWk4UW1ObGVhc1JZQQ?oc=5)
 
 ---
 

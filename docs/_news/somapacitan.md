@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,29 +52,69 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（11 則）
 
-### [Fettleber: Ketogene Diät senkt Leberfett um 67 Prozent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
+### [Herz: Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
+
+2026-09-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
+
+---
+
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXAtcUhFczktLTRONDZNeDU4c1VKaVdJTjZDMGQwTDZZeUxhWU1LWWJzQnl3bGhFaDRmWERyS1VobWVyZ2hfU1YxRl9Wc3RUalVvWnV3c09jbGVHc2J4MmE3cVRWZ1plamQ0SHlTTmNzLW1PaUhyam9DR0U0T2Q2S1E0Sk5HcjRkcUExa2VDRmlEWVlwdURvRmNrUDdDdXFLQVhaNmhCcm9uaF9ybmhUMkw5TV9scEh1MHJUdmN1bzVvTzloVnBQWA?oc=5)
 
 2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dtbWprMVpkZWJ1MzZHekRCRDBYSUN4M29Ddk5nczFqV0JESlVOdzRObG03bUo0QWU4MzdLeGh0WGFQcUVLQlBrQXpQUzhkeEl3aHhqMmFsbXhlSy1xUWVvSHA5MFRpVzVUcmNiQkwtUlpCdVhELXJCV0JyX183QXBrM1R6eDdZVWV5VGVaZ1lHVnJqWU5PYXU3SXZtZHpWUGFsMjNn?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXAtcUhFczktLTRONDZNeDU4c1VKaVdJTjZDMGQwTDZZeUxhWU1LWWJzQnl3bGhFaDRmWERyS1VobWVyZ2hfU1YxRl9Wc3RUalVvWnV3c09jbGVHc2J4MmE3cVRWZ1plamQ0SHlTTmNzLW1PaUhyam9DR0U0T2Q2S1E0Sk5HcjRkcUExa2VDRmlEWVlwdURvRmNrUDdDdXFLQVhaNmhCcm9uaF9ybmhUMkw5TV9scEh1MHJUdmN1bzVvTzloVnBQWA?oc=5)
 
 ---
 
-### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+### [La nueva ciencia del café - Al Día News](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KS0ZiTmxjWGxORVpmeWN2WjRFazk4Y29oUGlNUG9GejQ0RHdZX25LMVg0Skg2LWszUFZNUm5nQ0hkdzg1SGFpWWdRYlhnUkdGMmtJdHRqbnFFZmlva19LemF1V2N4OHhNVmRXTA?oc=5)
 
-2026-09-14 <span class="news-indication-tag">diabetes</span>
+2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+來源：[Al Día News](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KS0ZiTmxjWGxORVpmeWN2WjRFazk4Y29oUGlNUG9GejQ0RHdZX25LMVg0Skg2LWszUFZNUm5nQ0hkdzg1SGFpWWdRYlhnUkdGMmtJdHRqbnFFZmlva19LemF1V2N4OHhNVmRXTA?oc=5)
 
 ---
 
-### [Statine bei Typ-2-Diabetes: Geringeres Demenzrisiko?](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
+### [Gesundheit: Diese Proteinmuster könnten Krankheiten bereits im Kindesalter ankündigen](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWTBXUE9NeHdTVWQ3UGtzbWJPWldnTUUzYkhSVER3bV95Smg1U0FQZGlINVlZQlV2dFlxOGVuaHlOUks5b0FkX0d2dk9QM3ZSOUdVYkh0Y191M1hQUndOZ0lvTC14SnB1ajk1MEMzMjlUMFFIXzQxSHVWemVJUG13SWc1Q3FGbXJyeUh4OGpaVjdZQXZYSkZzVmZacklkN3dhY1BvZHYtdmVwUVdtNlJKN1UwVWl3Y25GZ2tQVjllOWRtd2Z0cmdXaHlKa1k2dEd6RjZDSUNNQjNNUV9xTkQ5eXFLR2haXzZVUEhZRg?oc=5)
+
+2026-09-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWTBXUE9NeHdTVWQ3UGtzbWJPWldnTUUzYkhSVER3bV95Smg1U0FQZGlINVlZQlV2dFlxOGVuaHlOUks5b0FkX0d2dk9QM3ZSOUdVYkh0Y191M1hQUndOZ0lvTC14SnB1ajk1MEMzMjlUMFFIXzQxSHVWemVJUG13SWc1Q3FGbXJyeUh4OGpaVjdZQXZYSkZzVmZacklkN3dhY1BvZHYtdmVwUVdtNlJKN1UwVWl3Y25GZ2tQVjllOWRtd2Z0cmdXaHlKa1k2dEd6RjZDSUNNQjNNUV9xTkQ5eXFLR2haXzZVUEhZRg?oc=5)
+
+---
+
+### [Could a Decades-Old Diabetes Drug Help the Body Age More Slowly?](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJOMU0zbVNvMmVHRWRjM3RjQjBEM3M5VEhBNHhRSS1Cb3RVOEhjTTBxZEhMN2NWSmtvb0UyU0ZhaDFyOGM4aUlNUDZCVVRrWGpBaDNEdFNuMTZwY01PaXMzNXNnOGprVkhkbHkwUjU2c0VERDhjYVFWNjlkLTFndWI0bGNtY01DSzlOMHRMNVUySG8?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJOMU0zbVNvMmVHRWRjM3RjQjBEM3M5VEhBNHhRSS1Cb3RVOEhjTTBxZEhMN2NWSmtvb0UyU0ZhaDFyOGM4aUlNUDZCVVRrWGpBaDNEdFNuMTZwY01PaXMzNXNnOGprVkhkbHkwUjU2c0VERDhjYVFWNjlkLTFndWI0bGNtY01DSzlOMHRMNVUySG8?oc=5)
+
+---
+
+### [Bauernhofeffekt: Stallbakterien könnten vor kindlichem Asthma schützen - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
+
+---
+
+### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd3VSZUZzNnZwOUNJXzJORmdOUmQ4dEtJb1YyLTdwRlhXRGF2YVBOeGE5bUx5NURDVXdSNy1lSmY2VGRQbnI2dmpFVWZPTHd1bDVEbks3ejdDVGl3Ny1QMU5aNEVRY3p4VEsyOHh4emRpOHdTOHJ3VjRjREJlVXAxNlBjOWM4M1dCamlWc3l0aDB4QUhobzJzNmg1SHpyd0NkUEJocC1JdjJWd0pBYXhJS2tZQkVRSWNqVU1RNzE5cEs5MnNyNFktVnlabWUteDBQUE14WGstZGFnaU1mMG9raVdfTnFPSlNLSXlxMTlnNGJ6ZXpvZUdUb0pR?oc=5)
+
+2026-09-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd3VSZUZzNnZwOUNJXzJORmdOUmQ4dEtJb1YyLTdwRlhXRGF2YVBOeGE5bUx5NURDVXdSNy1lSmY2VGRQbnI2dmpFVWZPTHd1bDVEbks3ejdDVGl3Ny1QMU5aNEVRY3p4VEsyOHh4emRpOHdTOHJ3VjRjREJlVXAxNlBjOWM4M1dCamlWc3l0aDB4QUhobzJzNmg1SHpyd0NkUEJocC1JdjJWd0pBYXhJS2tZQkVRSWNqVU1RNzE5cEs5MnNyNFktVnlabWUteDBQUE14WGstZGFnaU1mMG9raVdfTnFPSlNLSXlxMTlnNGJ6ZXpvZUdUb0pR?oc=5)
+
+---
+
+### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+
+2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 ---
 
@@ -91,14 +131,6 @@ permalink: /news/somapacitan/
 2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
-
----
-
-### [Semaglutid senkt offenbar Asthma- und COPD-Exazerbationen um bis zu 40 % - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
-
-2026-09-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaU1lM0xDa2VYeHJBRjR5YnExd3JRemNjeV9hWWpTUklJaDhZeVdwMUdzYUIyc2dJbzBoRnNYX3R5NEJLaDVsQ0hzY1ZtanYta21vMXQ2ME02dG9kV3RfSVJqSVQ1c3FrWXdSTlJmUmxMMFVfQjhHX2hqYVZwMU5MZXBKSjRFQl9PTThOalJrWDBINDFOSk1kN0tGYW1iVDJKUFlF?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "artrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artrite（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "artrite（arthritis） 的相關健康新聞報導。3 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
-<strong>artrite（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<strong>artrite（arthritis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,7 +101,15 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Mehr Möglichkeiten für Menschen mit rheumatoider Arthritis.](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
+
+2026-09-15
+
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
+
+---
 
 ### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
 

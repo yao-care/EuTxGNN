@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,29 +46,15 @@ permalink: /news/eslicarbazepine-acetate/
 <li>reading seizures（96.9%）</li>
 <li>trigeminal nerve neoplasm（95.9%）</li>
 <li>partial motor epilepsy（95.3%）</li>
-<li class="indication-matched">epilepsy（92.4%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（92.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [La epilepsia es más común en países de bajos ingresos - The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
-
-2026-09-13 <span class="news-indication-tag">epilepsia</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
-
----
-
-### [El alzhéimer aumenta el riesgo de epilepsia en adultos con síndrome de Down, según estudio - UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
-
-2026-09-13 <span class="news-indication-tag">epilepsia</span>
-
-來源：[UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

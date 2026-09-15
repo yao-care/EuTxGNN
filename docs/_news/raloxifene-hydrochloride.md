@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（4 則）
 
-### [Sommeil réparateur, santé cardiovasculaire : pourquoi il est important de dormir dans le noir complet](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRFhSOUk4WUhhWE5tZGE4dEY0U0F3dFJWSGE2Wk5hcS1pRmdOR1FHQkdPVi0taG9nYTB1RXk3d1NzX3ZZcXJha0JXRmpNQkFwLUhqRjZzeEpGSXlLYjNnYmoyS0dxMHRUaEx6QmpFRXgwWHphQnIzSU9wSXo1QUpXTjdKOFh3c044Q2xLYmM3NWRaSldoUDA0bUFMQmFUY21oZ2NLd2dNTjZkdmVWRTdodEtMSEpERHpmZklZVkhWQTNGVU5nbkJGYmdyVTFuakdMeUNFQ2pn?oc=5)
+### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 
-2026-09-14 <span class="news-indication-tag">AVC</span>
+2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[rtl.fr](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRFhSOUk4WUhhWE5tZGE4dEY0U0F3dFJWSGE2Wk5hcS1pRmdOR1FHQkdPVi0taG9nYTB1RXk3d1NzX3ZZcXJha0JXRmpNQkFwLUhqRjZzeEpGSXlLYjNnYmoyS0dxMHRUaEx6QmpFRXgwWHphQnIzSU9wSXo1QUpXTjdKOFh3c044Q2xLYmM3NWRaSldoUDA0bUFMQmFUY21oZ2NLd2dNTjZkdmVWRTdodEtMSEpERHpmZklZVkhWQTNGVU5nbkJGYmdyVTFuakdMeUNFQ2pn?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 
 ---
 
@@ -70,19 +70,19 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [Fibrillazione atriale: quando serve davvero il farmaco per l’ictus? - The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
+### ['Having a stroke at 26 was massive learning curve'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIVjItOE9Hd3M2aUhiY2tfazZvVFltbDN0S3ozX2hUQXhkXzRUUmJmUXFWZFVxNVNjMVM4dHFPZnVzdU15a3h4eldKREVaeU5Lc082bnlZaUlSeUhD?oc=5)
 
-2026-09-12 <span class="news-indication-tag">ictus</span>
+2026-09-13 <span class="news-indication-tag">stroke</span>
 
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIVjItOE9Hd3M2aUhiY2tfazZvVFltbDN0S3ozX2hUQXhkXzRUUmJmUXFWZFVxNVNjMVM4dHFPZnVzdU15a3h4eldKREVaeU5Lc082bnlZaUlSeUhD?oc=5)
 
 ---
 
-### [Phase-III-Studie: Loberamisal fördert Erholung nach Schlaganfall - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHgwOXQzV3BQcUsza1JDVFktZ1FFWlRQd3pacVlRNlNRYzE1aWlaTWZwb0pOdHdnN3ZFc3V5aERvQ2gxeUppU2h2TkNxNE5UR0FlY2pBdEM5WXVqNU9fOVR1Nk1BQTZoem1KT1VPcW1rZjRPNktMdmVwajNrcFhsNG5uNWR4NnZwbDdwV3UyOUlBcm9SSTBGbU5R?oc=5)
+### [Risikoadaptierte Behandlung wird wichtiger beim Endometriumkarzinom](https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzlYc1dfcmVacW9rUjQzWGtiVGNBRW92M1M3Z0k4SkRXNFVUY2ZvYW9aS2JmNUpUUno3U2tKaVNPU1dTTFoyVWxzTTZkbGxSQ0xUc25tdFNwem0tZzhJR0Q3QlZwcXdqTHoyam1hWllLcjNuZVVhcGhtbHdRMXN6SFVDZE1NY0VFMHdfT1ZvQmJxODdyQTFFVDQ1UzhtZG9McFFsTGRRMDJ6RGlDdUVaVmpMdnM1WGdNM2R0eS0tVUdUR1A5S2tSLWtscnVlNVdyb1NuQUs4TmlpNURR?oc=5)
 
-2026-09-11 <span class="news-indication-tag">Schlaganfall</span>
+2026-09-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHgwOXQzV3BQcUsza1JDVFktZ1FFWlRQd3pacVlRNlNRYzE1aWlaTWZwb0pOdHdnN3ZFc3V5aERvQ2gxeUppU2h2TkNxNE5UR0FlY2pBdEM5WXVqNU9fOVR1Nk1BQTZoem1KT1VPcW1rZjRPNktMdmVwajNrcFhsNG5uNWR4NnZwbDdwV3UyOUlBcm9SSTBGbU5R?oc=5)
+來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzlYc1dfcmVacW9rUjQzWGtiVGNBRW92M1M3Z0k4SkRXNFVUY2ZvYW9aS2JmNUpUUno3U2tKaVNPU1dTTFoyVWxzTTZkbGxSQ0xUc25tdFNwem0tZzhJR0Q3QlZwcXdqTHoyam1hWllLcjNuZVVhcGhtbHdRMXN6SFVDZE1NY0VFMHdfT1ZvQmJxODdyQTFFVDQ1UzhtZG9McFFsTGRRMDJ6RGlDdUVaVmpMdnM1WGdNM2R0eS0tVUdUR1A5S2tSLWtscnVlNVdyb1NuQUs4TmlpNURR?oc=5)
 
 ---
 

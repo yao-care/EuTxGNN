@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Adiós a las migrañas: especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir la frecuencia e intensidad de estos dolores de cabeza](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
+
+2026-09-15 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[eleconomista.es](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
+
+---
+
+### [Mehr Möglichkeiten für Menschen mit rheumatoider Arthritis.](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
+
+2026-09-15 <span class="news-indication-tag">arthritis</span>
+
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
+
+---
 
 ### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
 

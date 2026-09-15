@@ -3,7 +3,7 @@ layout: default
 title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
-<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ["Black-market steroids ruined my life" Powerlifter calls for crackdown on dangerous gym culture - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVUSjkta3Jncmg0MFcwOVhRRkwzWmRfT0s3WmVoVFlkSWRpS1lhTmdKQVNWOV9ocW1IM1ZleTJfaUNlTE00MEZSMHNLcVk5dnBaeTg4UFpINjcxOVdCcFlqV1VTYlNMMndDckV6WG1VSnNlQkxXVmNJWmlnVlpUZVNmYlFKX0U4dmFwMS1zNmw0TUYwcVHSAZsBQVVfeXFMTkVGWEgyZDQ5X0RCRHF0Z1ZqU3dvdTRpcVRHQjVGUzlZc1dDYThHR3dMMTY4MU8xLU8tVnhKZjRiblc2aTM5aWJ6Y1ZkUDFRUjgtcGFzOE80d1pCUXFxZDJJeEhWWmpXd3pKbDFLamwzSkFlN3RFbGRQeWNLSDNjUHYzUW56MThFX0ZfZ1NIak1YdkltY2FWcW91LUk?oc=5)
+
+2026-09-15
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVUSjkta3Jncmg0MFcwOVhRRkwzWmRfT0s3WmVoVFlkSWRpS1lhTmdKQVNWOV9ocW1IM1ZleTJfaUNlTE00MEZSMHNLcVk5dnBaeTg4UFpINjcxOVdCcFlqV1VTYlNMMndDckV6WG1VSnNlQkxXVmNJWmlnVlpUZVNmYlFKX0U4dmFwMS1zNmw0TUYwcVHSAZsBQVVfeXFMTkVGWEgyZDQ5X0RCRHF0Z1ZqU3dvdTRpcVRHQjVGUzlZc1dDYThHR3dMMTY4MU8xLU8tVnhKZjRiblc2aTM5aWJ6Y1ZkUDFRUjgtcGFzOE80d1pCUXFxZDJJeEhWWmpXd3pKbDFLamwzSkFlN3RFbGRQeWNLSDNjUHYzUW56MThFX0ZfZ1NIak1YdkltY2FWcW91LUk?oc=5)
+
+---
 
 ### [Aussie pet owners called to action as biosecurity threat spreads - Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
 

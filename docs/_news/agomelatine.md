@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Gianluca Gotto: «A Bangkok, ricoverato per la dengue, mi sono confrontato con la mia mortalità. Grazie al buddhismo ho affrontato la mia depressione» - Corriere della Sera](https://news.google.com/rss/articles/CBMizgFBVV95cUxQSHdBRW9UUU44dFo5ZFdLRmt2eFBPemtOZzZjT1o5YkJNX3M4YWdCdHd3ZlRiUGoyLWFFZXdxdFdORkFhdFBTQllCU2xnRXgyaFFKV3NUZWdNS2NDcS1jd3JzRlBRTXJsRjVlUmtEMHA5VzlfRFB0U1VaX1BuLUw3al9aaVRZNm1FbVQ4TFh6WDdUN0VpbGNyeFA2MHUtdExkbFFPZnlJdnkxOVh4ellOUkdWREt5Q3AxYnlUUk01b2Y4S05QMFZQeHJEdFpWZ9IB0wFBVV95cUxNOHdrcVd5VVZnVzVxSGFNN054U25TV0JhVzExeW01SWVWbjIyTTRlb1dNMkF5VmZHM0pmX0tsRDMwZnIwQmJUei1yeEhzbmQ5Mm9KRGcza3k2d2NWYUN5MGZrb0JmbmdPb3hPajZ5UU13YVUzbm56YzBpS3pWaVlFeXM4b2VYRkF4cTVyOW4xQWNJME9RR1hqVTV3eWhBSkh3T09oS1ZjZ25KUkJ2Tk1OZnRRY3hUWGtDN0ZqUUJ6a1EyYlhSUlpyRWMwczUxMlJqMXJN?oc=5)
+
+2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMizgFBVV95cUxQSHdBRW9UUU44dFo5ZFdLRmt2eFBPemtOZzZjT1o5YkJNX3M4YWdCdHd3ZlRiUGoyLWFFZXdxdFdORkFhdFBTQllCU2xnRXgyaFFKV3NUZWdNS2NDcS1jd3JzRlBRTXJsRjVlUmtEMHA5VzlfRFB0U1VaX1BuLUw3al9aaVRZNm1FbVQ4TFh6WDdUN0VpbGNyeFA2MHUtdExkbFFPZnlJdnkxOVh4ellOUkdWREt5Q3AxYnlUUk01b2Y4S05QMFZQeHJEdFpWZ9IB0wFBVV95cUxNOHdrcVd5VVZnVzVxSGFNN054U25TV0JhVzExeW01SWVWbjIyTTRlb1dNMkF5VmZHM0pmX0tsRDMwZnIwQmJUei1yeEhzbmQ5Mm9KRGcza3k2d2NWYUN5MGZrb0JmbmdPb3hPajZ5UU13YVUzbm56YzBpS3pWaVlFeXM4b2VYRkF4cTVyOW4xQWNJME9RR1hqVTV3eWhBSkh3T09oS1ZjZ25KUkJ2Tk1OZnRRY3hUWGtDN0ZqUUJ6a1EyYlhSUlpyRWMwczUxMlJqMXJN?oc=5)
+
+---
 
 
 <div class="disclaimer">

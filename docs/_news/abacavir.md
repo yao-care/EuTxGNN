@@ -54,11 +54,11 @@ permalink: /news/abacavir/
 
 ## 相關新聞（1 則）
 
-### [Saarländische Testwoche startet: Gesundheitsamt St. Wendel testet kostenlos auf HIV, Syphilis und Hepatitis - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+### [Identifican tres perfiles de pacientes de VIH asociados con la aparición de hepatitis C e ITS bacterianas](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQanQxYWFrY04xTWp6LTN4OXRpNmk4MTJiWWRMdDZhR0MyVnlWUFpLRHM4RjItbmpwX1VrS1QwandOV1ZhSlJCSWdPSkRCc05wLXVHXzM4cThyaUx3cGl6NW1OX2NOdGxJbkF0el94OC1xUDBSTGtkRFlQd0phYnBBaWhtY0lnMVNsR2VpZ25rX1BSUXZqeHd4cVgzWW5ZRGNlRURlRjBIakd2Si1DSFoxRnV0NGJUc1lEYVVjeXZsdmxlcG5xQ2xzUlU1dlBzZUt0ZGFjOVI0LXpoazNiTzh3X1JCaXNGOEhiZnZ0ajRkOTI?oc=5)
 
-2026-09-13 <span class="news-indication-tag">hepatitis</span>
+2026-09-15 <span class="news-indication-tag">hepatitis</span>
 
-來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQanQxYWFrY04xTWp6LTN4OXRpNmk4MTJiWWRMdDZhR0MyVnlWUFpLRHM4RjItbmpwX1VrS1QwandOV1ZhSlJCSWdPSkRCc05wLXVHXzM4cThyaUx3cGl6NW1OX2NOdGxJbkF0el94OC1xUDBSTGtkRFlQd0phYnBBaWhtY0lnMVNsR2VpZ25rX1BSUXZqeHd4cVgzWW5ZRGNlRURlRjBIakd2Si1DSFoxRnV0NGJUc1lEYVVjeXZsdmxlcG5xQ2xzUlU1dlBzZUt0ZGFjOVI0LXpoazNiTzh3X1JCaXNGOEhiZnZ0ajRkOTI?oc=5)
 
 ---
 

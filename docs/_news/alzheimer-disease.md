@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。7 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>7 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [Reading for pleasure cuts dementia risk by third, Cambridge study finds - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
 
@@ -54,27 +54,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Pascual-Sánchez ve en la prevención precoz la gran esperanza frente al alzhéimer y apunta a los próximos cinco años](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
-
-2026-09-14
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
-
----
-
 ### [The 7 common NHS drugs that raise dementia risk - as docs ‘prescribing meds to millions without warning them’ - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
 
 2026-09-14
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
-
----
-
-### [NHS ‘not ready’ to deliver breakthrough Alzheimer’s treatments - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
-
-2026-09-14
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
 
 ---
 
