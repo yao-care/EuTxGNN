@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（15 則）
 
-### [Soziale Medien treiben Fehlanwendung von Bluttests für Alzheimer voran - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUhOSzNlWEVhN2FTTEZYU1NINjc4QXhYcHF1cUlySWsxWHRGaHVaUjdzUWZKRlNpb0pxaGVJd2ZVWnBRVElMYlRDN3RzTmh6NzZ5U2Q2VTE5VXgwQ3BQcnhVRTJRejlaT2U5R3ltRFNPQTZLWHM1N1dyWTJHT1hKWEd1Nmw4QVJkbGh6aWwzVjBIM2VQaUVFb1dXaGRQdDNjbTIxSjZR?oc=5)
+### [Fundación "la Caixa" avanza en nuevas estrategias contra la esclerosis múltiple y su evolución silenciosa en el cerebro](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXRSaWsyRTFTQTEyLTdIQldMejhaeHFuYWJNYTFPYnFzREJvbGJSRmRwcmFZM2VXa3dMalVBMzBXSjlLVERoaW4zYjBsVUJtVHFVVkZFYkUtbG9YcWk5WXJCYnBGV1ZhZW1KMXZMRVVwekhENUdRWU5PcTRWOGRkdVpCSTkxNDJua2RQUWZVNVRxMGdwUmJPVDVuaXFMblVlbXpUMC1IQkJyM0hNNU5xcjQwdjdzMDlRUm4teXlmYnMtNjlSU1R4c0FoU2tFYmJkQ3ZJZlFMU2FPX29XVFJZN21hONIB6AFBVV95cUxOVld0U0VlNThhaHVac3hma2dMRDJ2U1RheTZodEZrZi1hMXpfc0NhSmUxa0JlUXhNQ3RoRTRNcXZqdGl1ZWlhYWQ1TmNSSmFRSndDZXJvRDVURlZIUlhOVnNvX1BDb3V6Y0hQcVFHZDlMcDUzNEV3Y3pfNklQZHFkd2M1ZEhISEJUczJISXpGb1ZaLTJJQk9VTjUxZEtRX0VoYlVvS1ZqUy1DU0l5dFBBcXFNa2hsREF0c01Ybmd5UllLN2o4bTRXYmpXWndyRzZYN1dWT20xbVNYTTAtYVhsU0RWdWlfQThH?oc=5)
 
-2026-09-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-15 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUhOSzNlWEVhN2FTTEZYU1NINjc4QXhYcHF1cUlySWsxWHRGaHVaUjdzUWZKRlNpb0pxaGVJd2ZVWnBRVElMYlRDN3RzTmh6NzZ5U2Q2VTE5VXgwQ3BQcnhVRTJRejlaT2U5R3ltRFNPQTZLWHM1N1dyWTJHT1hKWEd1Nmw4QVJkbGh6aWwzVjBIM2VQaUVFb1dXaGRQdDNjbTIxSjZR?oc=5)
+來源：[Navarra.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXRSaWsyRTFTQTEyLTdIQldMejhaeHFuYWJNYTFPYnFzREJvbGJSRmRwcmFZM2VXa3dMalVBMzBXSjlLVERoaW4zYjBsVUJtVHFVVkZFYkUtbG9YcWk5WXJCYnBGV1ZhZW1KMXZMRVVwekhENUdRWU5PcTRWOGRkdVpCSTkxNDJua2RQUWZVNVRxMGdwUmJPVDVuaXFMblVlbXpUMC1IQkJyM0hNNU5xcjQwdjdzMDlRUm4teXlmYnMtNjlSU1R4c0FoU2tFYmJkQ3ZJZlFMU2FPX29XVFJZN21hONIB6AFBVV95cUxOVld0U0VlNThhaHVac3hma2dMRDJ2U1RheTZodEZrZi1hMXpfc0NhSmUxa0JlUXhNQ3RoRTRNcXZqdGl1ZWlhYWQ1TmNSSmFRSndDZXJvRDVURlZIUlhOVnNvX1BDb3V6Y0hQcVFHZDlMcDUzNEV3Y3pfNklQZHFkd2M1ZEhISEJUczJISXpGb1ZaLTJJQk9VTjUxZEtRX0VoYlVvS1ZqUy1DU0l5dFBBcXFNa2hsREF0c01Ybmd5UllLN2o4bTRXYmpXWndyRzZYN1dWT20xbVNYTTAtYVhsU0RWdWlfQThH?oc=5)
 
 ---
 
-### [Identifican tres perfiles de pacientes de VIH asociados con la aparición de hepatitis C e ITS bacterianas](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQanQxYWFrY04xTWp6LTN4OXRpNmk4MTJiWWRMdDZhR0MyVnlWUFpLRHM4RjItbmpwX1VrS1QwandOV1ZhSlJCSWdPSkRCc05wLXVHXzM4cThyaUx3cGl6NW1OX2NOdGxJbkF0el94OC1xUDBSTGtkRFlQd0phYnBBaWhtY0lnMVNsR2VpZ25rX1BSUXZqeHd4cVgzWW5ZRGNlRURlRjBIakd2Si1DSFoxRnV0NGJUc1lEYVVjeXZsdmxlcG5xQ2xzUlU1dlBzZUt0ZGFjOVI0LXpoazNiTzh3X1JCaXNGOEhiZnZ0ajRkOTI?oc=5)
+### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+---
+
+### [Tres perfiles de pacientes podrían mejorar la detección y prevención de la hepatitis C y las ITS en hombres con VIH - Revista SIX](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDFYYVhOSFkzMGhjLUZmOHdVeE93VlRvRGJvaEV0aVc2NDByclhPSFpuOEI5dGxvbDg0V3d2MkxnZGdxendQVl9aemJHWGNvMzY1bkNZckVJemxpQzlGTWpCN3dwM1l6UEVIQmdEd01mX2FrY2F6TlhYQV9MT0tDZXlhSDY3Sjlmem90T2lzV05mT0Q4RU9mNkgzaVkzRG8yanBFRXpFZlRWcUNOZWVxTkRKVEJpOXhUcGVFbktoMA?oc=5)
 
 2026-09-15 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQanQxYWFrY04xTWp6LTN4OXRpNmk4MTJiWWRMdDZhR0MyVnlWUFpLRHM4RjItbmpwX1VrS1QwandOV1ZhSlJCSWdPSkRCc05wLXVHXzM4cThyaUx3cGl6NW1OX2NOdGxJbkF0el94OC1xUDBSTGtkRFlQd0phYnBBaWhtY0lnMVNsR2VpZ25rX1BSUXZqeHd4cVgzWW5ZRGNlRURlRjBIakd2Si1DSFoxRnV0NGJUc1lEYVVjeXZsdmxlcG5xQ2xzUlU1dlBzZUt0ZGFjOVI0LXpoazNiTzh3X1JCaXNGOEhiZnZ0ajRkOTI?oc=5)
+來源：[Revista SIX](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDFYYVhOSFkzMGhjLUZmOHdVeE93VlRvRGJvaEV0aVc2NDByclhPSFpuOEI5dGxvbDg0V3d2MkxnZGdxendQVl9aemJHWGNvMzY1bkNZckVJemxpQzlGTWpCN3dwM1l6UEVIQmdEd01mX2FrY2F6TlhYQV9MT0tDZXlhSDY3Sjlmem90T2lzV05mT0Q4RU9mNkgzaVkzRG8yanBFRXpFZlRWcUNOZWVxTkRKVEJpOXhUcGVFbktoMA?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Hautprotein dämpft Immunreaktion in der Oberhaut](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wd2VHTDh3djJKVzg2dC1qUjFOM1VZc3g5REljQkVaSDdNNG1zVS0zd2NCQ2YyRFpaOE5Odm9fTllGeGJPRFpGeVZZNTUwUTJ0NHpfQTdTeklHLWpwTlJQOFo4d1h4bi1PZ1h0RWRQY3lndFZzaUE4dEwtYUlSNXc?oc=5)
-
-2026-09-15 <span class="news-indication-tag">MS</span>
-
-來源：[MedLabPortal](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wd2VHTDh3djJKVzg2dC1qUjFOM1VZc3g5REljQkVaSDdNNG1zVS0zd2NCQ2YyRFpaOE5Odm9fTllGeGJPRFpGeVZZNTUwUTJ0NHpfQTdTeklHLWpwTlJQOFo4d1h4bi1PZ1h0RWRQY3lndFZzaUE4dEwtYUlSNXc?oc=5)
-
----
-
 ### [La OMS reconoce a Chile como el primer país de Sudamérica que ha eliminado la rabia transmitida por perros](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFJCZlUxaVQ0YlJaWDNjX3U0TXZ5Q2pJNVNGR2h6MWljZjdiM2FvODNHUXl1QUZLV3cydGQzY0ZtdVdUNDYyNzYzZTlFLXhlOGhlOHVqVmpZSjNKaklZTjcta00tNm5qWjJqRnlHRjV4NHhiWHphdWFhZTR3VWp3N1FIckxxckNkZTBOUk8tOUxUWlRoZHQ1UTVuN191bUMxWHRTUU5rMEdmREk2U3Jrdm9DQlV3S05LRWc1VTVKSmRZVzR3ZWdlblFR?oc=5)
 
 2026-09-15 <span class="news-indication-tag">MS</span>
@@ -94,11 +94,43 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [AAPDA impulsa la concienciación sobre la dermatitis atópica en Puerto Rico con el respaldo de Revista MSP - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTZIWGxwR3RsU09EbXUwUjlyLTIyWktOWDA5eXczR2FSMDh6ZlVLcFAxUXZINXlTRGtac2hXMGlveTV0Rkc4bjNJUHBrM0FVaTU2VjhkZ0U5OWZPbDJtMFl2WVZhczhrVUtZUEVYT2VlLUg0ZzhLcjZQMFc0OGpQZHFXOFZoeWprcXpoaERqSERCdHl2Tm5TWEhHYm5DcFRCSUpxZFhzNXBlbFJrdlY1ZHdxZi1YaFREYXlPS1V5Y19CRjlXWnJxRjB6RDFTWEtTYXJEaWV2YlI0QXF4UWpKYkZnajB4M3E5TnVnSlZHbDN0N0lISkNnNnlrVE4zdF9rZlhwVzZRMNIBjAJBVV95cUxNd2FJY25PbXlTdGJjRTFTWU5pU0U3QmZJTlFEMVUzZnRYZlpxX083SERVYk8zcFBKd2RUSXV2b09KdlExNDlaTlBIdVhtUlFVTjBZSnI5TDJyOC1PV182YklORWkzMC0ycjRIekJRcWtiV0pkQVBxRHo4aFFqU2RIa1hUaFE3dlA5b19nVVJ4Q2tVYm4tU0MwVnVPU0Vsal9DY1hQZEEtaThQNVM4LTU2R3NtQVRKLVd3cnVWQlptaEgyR1p0cmJBWnBJYkNXTnVXS0F2ajZqYkdGeW5uS3JGNDRJMndudWtsakFQN2F2ajhOcE1FbGtDdXl3aG9ueGdTWnpDekdSV05scHFE?oc=5)
+### [Man who was given just hours to live after visiting pub to have roast dinner makes full recovery - GB News](https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZWJEclVQZXhJN0pUeUJZb0lrQnVPZnlRaW1EX25PTXVZV2l6YlFBM2s5NEJVa1BBLTZYLTZvOGZlbGtsWHVLYnFUaEVLcDNTSUhUWEl2dnNwT2xuYlAtTEd1Qms4VWRUNDB1eWxveVA?oc=5)
 
-2026-09-15 <span class="news-indication-tag">MS</span>
+2026-09-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTZIWGxwR3RsU09EbXUwUjlyLTIyWktOWDA5eXczR2FSMDh6ZlVLcFAxUXZINXlTRGtac2hXMGlveTV0Rkc4bjNJUHBrM0FVaTU2VjhkZ0U5OWZPbDJtMFl2WVZhczhrVUtZUEVYT2VlLUg0ZzhLcjZQMFc0OGpQZHFXOFZoeWprcXpoaERqSERCdHl2Tm5TWEhHYm5DcFRCSUpxZFhzNXBlbFJrdlY1ZHdxZi1YaFREYXlPS1V5Y19CRjlXWnJxRjB6RDFTWEtTYXJEaWV2YlI0QXF4UWpKYkZnajB4M3E5TnVnSlZHbDN0N0lISkNnNnlrVE4zdF9rZlhwVzZRMNIBjAJBVV95cUxNd2FJY25PbXlTdGJjRTFTWU5pU0U3QmZJTlFEMVUzZnRYZlpxX083SERVYk8zcFBKd2RUSXV2b09KdlExNDlaTlBIdVhtUlFVTjBZSnI5TDJyOC1PV182YklORWkzMC0ycjRIekJRcWtiV0pkQVBxRHo4aFFqU2RIa1hUaFE3dlA5b19nVVJ4Q2tVYm4tU0MwVnVPU0Vsal9DY1hQZEEtaThQNVM4LTU2R3NtQVRKLVd3cnVWQlptaEgyR1p0cmJBWnBJYkNXTnVXS0F2ajZqYkdGeW5uS3JGNDRJMndudWtsakFQN2F2ajhOcE1FbGtDdXl3aG9ueGdTWnpDekdSV05scHFE?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZWJEclVQZXhJN0pUeUJZb0lrQnVPZnlRaW1EX25PTXVZV2l6YlFBM2s5NEJVa1BBLTZYLTZvOGZlbGtsWHVLYnFUaEVLcDNTSUhUWEl2dnNwT2xuYlAtTEd1Qms4VWRUNDB1eWxveVA?oc=5)
+
+---
+
+### [Das UKSH-Gesundheitsforum des Universitätsklinikums Schleswig-Holstein bietet am 25. September einen besonderen Aktionstag anlässlich des Jubiläums mit kostenfreien Mitmachaktionen. - Kieler Nachrichten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXJEUXBWeG1SR01GTEpuR0Vsd3ZRT2J6WlZ5RXNlSWZJQ19FZWdWczZyLXpLYktlbHBMSVdlMDBfcDFGQXp3NzN3T0V5MUJTRWNvQW9BUDg3OVdsbS1Ca3pPZlpsQnE5U2RiUzdIcXEwbXFTU1Z3M2xzUlZFZ19FSUFBcS1wRUN1SUY0U2RsTGVGZTdxN1NNQ3plVkVuNENhV3RNcVRXY1pHSm9KT1NjMmZlQ0FLYlF2YlMyVTlUc0czR1VpNm1JZGpoalFCblNHbkRzLU1OWTFDT3VQT0JzRFFQbGV0UzVKZVhKRlpvRkxqTTkxMmJIXzNmQUpFYU9uX2g5cG81MmVzb2dnRGdPaw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">MS</span>
+
+來源：[Kieler Nachrichten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXJEUXBWeG1SR01GTEpuR0Vsd3ZRT2J6WlZ5RXNlSWZJQ19FZWdWczZyLXpLYktlbHBMSVdlMDBfcDFGQXp3NzN3T0V5MUJTRWNvQW9BUDg3OVdsbS1Ca3pPZlpsQnE5U2RiUzdIcXEwbXFTU1Z3M2xzUlZFZ19FSUFBcS1wRUN1SUY0U2RsTGVGZTdxN1NNQ3plVkVuNENhV3RNcVRXY1pHSm9KT1NjMmZlQ0FLYlF2YlMyVTlUc0czR1VpNm1JZGpoalFCblNHbkRzLU1OWTFDT3VQT0JzRFFQbGV0UzVKZVhKRlpvRkxqTTkxMmJIXzNmQUpFYU9uX2g5cG81MmVzb2dnRGdPaw?oc=5)
+
+---
+
+### [Brain implant lets paralysed patients speak via digital avatar](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0I5VWR1SmJBX3BGTDFlYmRYbU85ZVplS2t2d29Sa3BJRDdLbEp4UzZGZ0I4UTFpTHQ5bjBDeWpoR3hvQmRkSXA3UUFFOXRqc0VpUm9Mbzh6Mll3a29feVVMeHhKc3p0bXFwa2hOd19pUzBTaFM4YUI5WktGa3ZsWkpqYkk?oc=5)
+
+2026-09-14 <span class="news-indication-tag">MS</span>
+
+來源：[ft.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0I5VWR1SmJBX3BGTDFlYmRYbU85ZVplS2t2d29Sa3BJRDdLbEp4UzZGZ0I4UTFpTHQ5bjBDeWpoR3hvQmRkSXA3UUFFOXRqc0VpUm9Mbzh6Mll3a29feVVMeHhKc3p0bXFwa2hOd19pUzBTaFM4YUI5WktGa3ZsWkpqYkk?oc=5)
+
+---
+
+### [Neue Immunbremse in Hautzellen entdeckt](https://news.google.com/rss/articles/CBMikgFBVV95cUxQeERxVG5VcHN6TmJYZjJzd1dZRXRWTzlfdGNtRDF1cUIxaWRBYmxrMGo1VWtBS3d5X0lDekFmU0JGVFNxb2tRSzI2QkNUaXRwN2d1ckFiQXhHSThQUVNoZ2VPem5raGdYNjRheWFrNGwzTjRNcl9Tc1lSTGplYkNwdHc2SHd2RGdsNWlCc1QwcWtzUQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">MS</span>
+
+來源：[hallelife.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQeERxVG5VcHN6TmJYZjJzd1dZRXRWTzlfdGNtRDF1cUIxaWRBYmxrMGo1VWtBS3d5X0lDekFmU0JGVFNxb2tRSzI2QkNUaXRwN2d1ckFiQXhHSThQUVNoZ2VPem5raGdYNjRheWFrNGwzTjRNcl9Tc1lSTGplYkNwdHc2SHd2RGdsNWlCc1QwcWtzUQ?oc=5)
+
+---
+
+### [„Bedeutender Schritt nach vorn“: Häufiger Magenkeim soll mit einem Fünftel aller Darmkrebsfälle zusammenhängen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXVtWW1qdlFLQmZnaHVWZDZkZ28xQVN3ZmZOSmtXMkxicUxucC11RjZoa3hWOG9YVHM1VWRSSWFpQ2JfeXlDSWN4akg5STlQYjVPMXFpX0pLUXluSlg4QTNjTno3T2Iyd0c2TDhCcDJxZU85RTVuaVJhbUlKQ1cxdnlaSVpWTF9KVFctUGQtcGszY2hlTmtDRE1TdFdfQ2UzT2pMd1VhYw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXVtWW1qdlFLQmZnaHVWZDZkZ28xQVN3ZmZOSmtXMkxicUxucC11RjZoa3hWOG9YVHM1VWRSSWFpQ2JfeXlDSWN4akg5STlQYjVPMXFpX0pLUXluSlg4QTNjTno3T2Iyd0c2TDhCcDJxZU85RTVuaVJhbUlKQ1cxdnlaSVpWTF9KVFctUGQtcGszY2hlTmtDRE1TdFdfQ2UzT2pMd1VhYw?oc=5)
 
 ---
 
@@ -107,38 +139,6 @@ permalink: /news/pibrentasvir/
 2026-09-14 <span class="news-indication-tag">MS</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE4zdGk3X29VZTlsVlFXNVRQbUhUandaM1ZnalhfcHJnVi0xQkUyOEZnNmFiRWQ1YjV5Vy1NMWg4Z1pVVzR5UDByZFZiYXIxYS1DZXExSlQ1eGtZc19sQTJLLUVhQUxwYUc3blotdXEwd1lXdllnWDZzTQ?oc=5)
-
----
-
-### [Bauernhofeffekt: Stallbakterien könnten vor kindlichem Asthma schützen - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
-
----
-
-### [Más de 55.000 personas conviven en España con una esclerosis múltiple que sigue sin cura](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5ck5hVU1NZ3R2NGJvWFNzN3FfSm9xa2hqamtxbmdwOHNKQXFPbG54cTNUVWM1VXB4TWNNc3U1NGZWSEFJZlRtdnJlR2ZCOGdGcEFnMFFKd0NpcHRua3MxMFBxUnlaX2cwaUdlQ3pzaG9lbmgwWmljaWJ5Nnk4VFkwdmhwMmdwclFYN0E4MXpTQ1I1OWpwaGFBcFFUNTA2Qzktc2NGNTFBZ190MDFmSld1UWpZdw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5ck5hVU1NZ3R2NGJvWFNzN3FfSm9xa2hqamtxbmdwOHNKQXFPbG54cTNUVWM1VXB4TWNNc3U1NGZWSEFJZlRtdnJlR2ZCOGdGcEFnMFFKd0NpcHRua3MxMFBxUnlaX2cwaUdlQ3pzaG9lbmgwWmljaWJ5Nnk4VFkwdmhwMmdwclFYN0E4MXpTQ1I1OWpwaGFBcFFUNTA2Qzktc2NGNTFBZ190MDFmSld1UWpZdw?oc=5)
-
----
-
-### [Alzheimer, cambia l’architettura del DNA nel cervello: la nuova scoperta](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkYzS1hrNFAwZ2lZcFJuTjkzYzFtSExJa0NrTWRwLUtuNFhpWUpnSUFYZTAyRlh6dnBKWXdrNTF4TVNtWDZ0Z3RfY2FYX1VFNHhRTVl4QXZwMVNjWENsMjJyVVRSdWtSNU9NSFA5dFVoYnNYQXY2UzVJaUtyQTBZUVNMaGxCREotSmUwdlNZRmJWU2J4aXRJWUJPRGVESFlWVkd0OWJRTW5ERGViZnlwbk5IemdTcVRGZWNOMmVjVW0yaW9XMkhjRA?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkYzS1hrNFAwZ2lZcFJuTjkzYzFtSExJa0NrTWRwLUtuNFhpWUpnSUFYZTAyRlh6dnBKWXdrNTF4TVNtWDZ0Z3RfY2FYX1VFNHhRTVl4QXZwMVNjWENsMjJyVVRSdWtSNU9NSFA5dFVoYnNYQXY2UzVJaUtyQTBZUVNMaGxCREotSmUwdlNZRmJWU2J4aXRJWUJPRGVESFlWVkd0OWJRTW5ERGViZnlwbk5IemdTcVRGZWNOMmVjVW0yaW9XMkhjRA?oc=5)
-
----
-
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 ---
 
@@ -166,19 +166,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Help-Studie zu Ebola im Kongo: "Ohne Vertrauen wird die Lage weiter eskalieren"](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzA2VExNUHEwOElKdjBvUHJDNFZ5cy1kamNpTlV2TmVtSzVnT0VBSHV4WlV3TkpkT3dteVdQcF9xZXo0cmJlSUZuTXZ2NlhOU0lPOVdGcXJ5U3o2R1dtVFpZbFVWS0c3VzB0MVZnc0ZTZ19NMzFTTlZLTEROZlhGMGt0YWVaREhOci00cDVjTVhtLVN5ZFN0T2ExNkpKTGRTb202N2pTSWxMM3hwT3A2V044RDNzNk9zdFJaSUF3dVRsRzJvTWJRbXp6ZUVsdUxBUzVBeFkzUkJ5Tl8tYkRV?oc=5)
+### [Der gefährlichste Bewohner des Terrariums ist oft unsichtbar](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
-2026-09-10 <span class="news-indication-tag">MS</span>
+2026-09-11 <span class="news-indication-tag">MS</span>
 
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzA2VExNUHEwOElKdjBvUHJDNFZ5cy1kamNpTlV2TmVtSzVnT0VBSHV4WlV3TkpkT3dteVdQcF9xZXo0cmJlSUZuTXZ2NlhOU0lPOVdGcXJ5U3o2R1dtVFpZbFVWS0c3VzB0MVZnc0ZTZ19NMzFTTlZLTEROZlhGMGt0YWVaREhOci00cDVjTVhtLVN5ZFN0T2ExNkpKTGRTb202N2pTSWxMM3hwT3A2V044RDNzNk9zdFJaSUF3dVRsRzJvTWJRbXp6ZUVsdUxBUzVBeFkzUkJ5Tl8tYkRV?oc=5)
-
----
-
-### [Takeda stärkt Oveporexton mit Phase-3-Daten bei Narkolepsie Typ 1](https://news.google.com/rss/articles/CBMingFBVV95cUxPZDQ5Qi1qeVFoOFFaZEFqbU5xSmFzUGJZWW9OOXpvWU9WRFp6aXhMeFJCa2tCOWlHNEZDdWlrSDRya3FKNFk4czhxU2tWU2lkMGpiUkFfMUc3cnJ2OUtNa1p6Q3BXQkVMVXJISVJCTnBDLTRzX0RyZGQxdXJSMXdzcWt4Z0tEQy0wLUFzdGppWG04RWk4UW1ObGVhc1JZQQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">MS</span>
-
-來源：[Goldesel.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPZDQ5Qi1qeVFoOFFaZEFqbU5xSmFzUGJZWW9OOXpvWU9WRFp6aXhMeFJCa2tCOWlHNEZDdWlrSDRya3FKNFk4czhxU2tWU2lkMGpiUkFfMUc3cnJ2OUtNa1p6Q3BXQkVMVXJISVJCTnBDLTRzX0RyZGQxdXJSMXdzcWt4Z0tEQy0wLUFzdGppWG04RWk4UW1ObGVhc1JZQQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 ---
 

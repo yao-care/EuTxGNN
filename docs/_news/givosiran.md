@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Identifican tres perfiles de pacientes de VIH asociados con la aparición de hepatitis C e ITS bacterianas](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQanQxYWFrY04xTWp6LTN4OXRpNmk4MTJiWWRMdDZhR0MyVnlWUFpLRHM4RjItbmpwX1VrS1QwandOV1ZhSlJCSWdPSkRCc05wLXVHXzM4cThyaUx3cGl6NW1OX2NOdGxJbkF0el94OC1xUDBSTGtkRFlQd0phYnBBaWhtY0lnMVNsR2VpZ25rX1BSUXZqeHd4cVgzWW5ZRGNlRURlRjBIakd2Si1DSFoxRnV0NGJUc1lEYVVjeXZsdmxlcG5xQ2xzUlU1dlBzZUt0ZGFjOVI0LXpoazNiTzh3X1JCaXNGOEhiZnZ0ajRkOTI?oc=5)
+### [Tres perfiles de pacientes podrían mejorar la detección y prevención de la hepatitis C y las ITS en hombres con VIH - Revista SIX](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDFYYVhOSFkzMGhjLUZmOHdVeE93VlRvRGJvaEV0aVc2NDByclhPSFpuOEI5dGxvbDg0V3d2MkxnZGdxendQVl9aemJHWGNvMzY1bkNZckVJemxpQzlGTWpCN3dwM1l6UEVIQmdEd01mX2FrY2F6TlhYQV9MT0tDZXlhSDY3Sjlmem90T2lzV05mT0Q4RU9mNkgzaVkzRG8yanBFRXpFZlRWcUNOZWVxTkRKVEJpOXhUcGVFbktoMA?oc=5)
 
 2026-09-15 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQanQxYWFrY04xTWp6LTN4OXRpNmk4MTJiWWRMdDZhR0MyVnlWUFpLRHM4RjItbmpwX1VrS1QwandOV1ZhSlJCSWdPSkRCc05wLXVHXzM4cThyaUx3cGl6NW1OX2NOdGxJbkF0el94OC1xUDBSTGtkRFlQd0phYnBBaWhtY0lnMVNsR2VpZ25rX1BSUXZqeHd4cVgzWW5ZRGNlRURlRjBIakd2Si1DSFoxRnV0NGJUc1lEYVVjeXZsdmxlcG5xQ2xzUlU1dlBzZUt0ZGFjOVI0LXpoazNiTzh3X1JCaXNGOEhiZnZ0ajRkOTI?oc=5)
+來源：[Revista SIX](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDFYYVhOSFkzMGhjLUZmOHdVeE93VlRvRGJvaEV0aVc2NDByclhPSFpuOEI5dGxvbDg0V3d2MkxnZGdxendQVl9aemJHWGNvMzY1bkNZckVJemxpQzlGTWpCN3dwM1l6UEVIQmdEd01mX2FrY2F6TlhYQV9MT0tDZXlhSDY3Sjlmem90T2lzV05mT0Q4RU9mNkgzaVkzRG8yanBFRXpFZlRWcUNOZWVxTkRKVEJpOXhUcGVFbktoMA?oc=5)
 
 ---
 
@@ -78,11 +78,19 @@ permalink: /news/givosiran/
 
 ---
 
-### [Hypertension : « On est touché dès que sa tension, prise chez soi, dépasse 13,5/8,5 » - Le Parisien](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
+### [Bluthochdruck: Nüsse senken das Risiko signifikant](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
 
-2026-09-14 <span class="news-indication-tag">hypertension</span>
+2026-09-14 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
+
+---
+
+### [Les nutritionnistes révèlent quel est le meilleur fruit pour faire baisser l'hypertension](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+
+2026-09-13 <span class="news-indication-tag">hypertension</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
 
 ---
 

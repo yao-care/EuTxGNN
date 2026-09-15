@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
+
+2026-09-15
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
+
+---
 
 ### [Gianluca Gotto: «A Bangkok, ricoverato per la dengue, mi sono confrontato con la mia mortalità. Grazie al buddhismo ho affrontato la mia depressione» - Corriere della Sera](https://news.google.com/rss/articles/CBMizgFBVV95cUxQSHdBRW9UUU44dFo5ZFdLRmt2eFBPemtOZzZjT1o5YkJNX3M4YWdCdHd3ZlRiUGoyLWFFZXdxdFdORkFhdFBTQllCU2xnRXgyaFFKV3NUZWdNS2NDcS1jd3JzRlBRTXJsRjVlUmtEMHA5VzlfRFB0U1VaX1BuLUw3al9aaVRZNm1FbVQ4TFh6WDdUN0VpbGNyeFA2MHUtdExkbFFPZnlJdnkxOVh4ellOUkdWREt5Q3AxYnlUUk01b2Y4S05QMFZQeHJEdFpWZ9IB0wFBVV95cUxNOHdrcVd5VVZnVzVxSGFNN054U25TV0JhVzExeW01SWVWbjIyTTRlb1dNMkF5VmZHM0pmX0tsRDMwZnIwQmJUei1yeEhzbmQ5Mm9KRGcza3k2d2NWYUN5MGZrb0JmbmdPb3hPajZ5UU13YVUzbm56YzBpS3pWaVlFeXM4b2VYRkF4cTVyOW4xQWNJME9RR1hqVTV3eWhBSkh3T09oS1ZjZ25KUkJ2Tk1OZnRRY3hUWGtDN0ZqUUJ6a1EyYlhSUlpyRWMwczUxMlJqMXJN?oc=5)
 

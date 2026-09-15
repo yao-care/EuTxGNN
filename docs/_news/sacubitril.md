@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（14 則）
+
+### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+---
 
 ### [Herz: Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
 
@@ -62,35 +70,19 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXAtcUhFczktLTRONDZNeDU4c1VKaVdJTjZDMGQwTDZZeUxhWU1LWWJzQnl3bGhFaDRmWERyS1VobWVyZ2hfU1YxRl9Wc3RUalVvWnV3c09jbGVHc2J4MmE3cVRWZ1plamQ0SHlTTmNzLW1PaUhyam9DR0U0T2Q2S1E0Sk5HcjRkcUExa2VDRmlEWVlwdURvRmNrUDdDdXFLQVhaNmhCcm9uaF9ybmhUMkw5TV9scEh1MHJUdmN1bzVvTzloVnBQWA?oc=5)
+### [Ketogene Diät: 67% Leberfettabbau, doppelte Prädiabetes-Remission](https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3dZTG4xWGJ4YnlzR184Q0hnVlNYLTV3YnhGdV8wOXlxd2tKY0NlV18tT0FvMk5sREotRlkwQlYtdUQ4SHBHZGNjYVpzUnFabkZBcm1INXhyalhQMlBNS01haURrbU16djRnTUstaVh0WWxMcE81aERkeFI4SXh2WXZKYk1zNW5PX2tMbTVmZm0yX2lDeFVTcWJhLU92dDg?oc=5)
 
 2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXAtcUhFczktLTRONDZNeDU4c1VKaVdJTjZDMGQwTDZZeUxhWU1LWWJzQnl3bGhFaDRmWERyS1VobWVyZ2hfU1YxRl9Wc3RUalVvWnV3c09jbGVHc2J4MmE3cVRWZ1plamQ0SHlTTmNzLW1PaUhyam9DR0U0T2Q2S1E0Sk5HcjRkcUExa2VDRmlEWVlwdURvRmNrUDdDdXFLQVhaNmhCcm9uaF9ybmhUMkw5TV9scEh1MHJUdmN1bzVvTzloVnBQWA?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3dZTG4xWGJ4YnlzR184Q0hnVlNYLTV3YnhGdV8wOXlxd2tKY0NlV18tT0FvMk5sREotRlkwQlYtdUQ4SHBHZGNjYVpzUnFabkZBcm1INXhyalhQMlBNS01haURrbU16djRnTUstaVh0WWxMcE81aERkeFI4SXh2WXZKYk1zNW5PX2tMbTVmZm0yX2lDeFVTcWJhLU92dDg?oc=5)
 
 ---
 
-### [La nueva ciencia del café - Al Día News](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KS0ZiTmxjWGxORVpmeWN2WjRFazk4Y29oUGlNUG9GejQ0RHdZX25LMVg0Skg2LWszUFZNUm5nQ0hkdzg1SGFpWWdRYlhnUkdGMmtJdHRqbnFFZmlva19LemF1V2N4OHhNVmRXTA?oc=5)
-
-2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Al Día News](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KS0ZiTmxjWGxORVpmeWN2WjRFazk4Y29oUGlNUG9GejQ0RHdZX25LMVg0Skg2LWszUFZNUm5nQ0hkdzg1SGFpWWdRYlhnUkdGMmtJdHRqbnFFZmlva19LemF1V2N4OHhNVmRXTA?oc=5)
-
----
-
-### [Gesundheit: Diese Proteinmuster könnten Krankheiten bereits im Kindesalter ankündigen](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWTBXUE9NeHdTVWQ3UGtzbWJPWldnTUUzYkhSVER3bV95Smg1U0FQZGlINVlZQlV2dFlxOGVuaHlOUks5b0FkX0d2dk9QM3ZSOUdVYkh0Y191M1hQUndOZ0lvTC14SnB1ajk1MEMzMjlUMFFIXzQxSHVWemVJUG13SWc1Q3FGbXJyeUh4OGpaVjdZQXZYSkZzVmZacklkN3dhY1BvZHYtdmVwUVdtNlJKN1UwVWl3Y25GZ2tQVjllOWRtd2Z0cmdXaHlKa1k2dEd6RjZDSUNNQjNNUV9xTkQ5eXFLR2haXzZVUEhZRg?oc=5)
+### [Los suplementos de ácidos grasos omega-3 muestran beneficios lipídicos en la diabetes tipo 1](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenZMTkZKeEpxXzhXQ0dxS2tGRW00ODVfS2kyVWg2SE8tWU9OTXdFdGdnTlB2S3lRd2loVlZzUEx3S0RNMGkyR2o4NEVrdm5KeHMwVUhKdVNRMnRaT2lwRTFoMEVWVUg0X1hzRjU1U0U4WFIxUE0tMzh1ZlQ0c3pDSW85Rlg0NGpndzVmdUJ3aHdmYTQ5aGNYTVE1RjQycHlYdHdQOHhTejJvRzc2RE5zenQybi1UemluZjUwR2dsTjBlclNQbTVxdjI3S1FOY053UjZoOA?oc=5)
 
 2026-09-15 <span class="news-indication-tag">diabetes</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWTBXUE9NeHdTVWQ3UGtzbWJPWldnTUUzYkhSVER3bV95Smg1U0FQZGlINVlZQlV2dFlxOGVuaHlOUks5b0FkX0d2dk9QM3ZSOUdVYkh0Y191M1hQUndOZ0lvTC14SnB1ajk1MEMzMjlUMFFIXzQxSHVWemVJUG13SWc1Q3FGbXJyeUh4OGpaVjdZQXZYSkZzVmZacklkN3dhY1BvZHYtdmVwUVdtNlJKN1UwVWl3Y25GZ2tQVjllOWRtd2Z0cmdXaHlKa1k2dEd6RjZDSUNNQjNNUV9xTkQ5eXFLR2haXzZVUEhZRg?oc=5)
-
----
-
-### [Mehr Möglichkeiten für Menschen mit rheumatoider Arthritis.](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
-
-2026-09-15 <span class="news-indication-tag">arthritis</span>
-
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenZMTkZKeEpxXzhXQ0dxS2tGRW00ODVfS2kyVWg2SE8tWU9OTXdFdGdnTlB2S3lRd2loVlZzUEx3S0RNMGkyR2o4NEVrdm5KeHMwVUhKdVNRMnRaT2lwRTFoMEVWVUg0X1hzRjU1U0U4WFIxUE0tMzh1ZlQ0c3pDSW85Rlg0NGpndzVmdUJ3aHdmYTQ5aGNYTVE1RjQycHlYdHdQOHhTejJvRzc2RE5zenQybi1UemluZjUwR2dsTjBlclNQbTVxdjI3S1FOY053UjZoOA?oc=5)
 
 ---
 
@@ -99,6 +91,22 @@ permalink: /news/sacubitril/
 2026-09-15 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+
+---
+
+### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+
+2026-09-15 <span class="news-indication-tag">arthritis</span>
+
+來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+
+---
+
+### [Diabetes association turmoil roils journal as group tries to thwart boycott - Retraction Watch](https://news.google.com/rss/articles/CBMioAFBVV95cUxPb19fVlU5enAxUVhVQ3VwUXd2QTVVVnVaVHJacGM1cHY0UHVaM05VRFdhVl9fQTJRbW5sMXpCalZHd3QySnc5MVgzOHhZakR1TnFYd0VvVEpUTG11NUZWMzk4QXlKcnNUUm0zenV2dDN6N2pjcUxlZzZydDZpdzNNRGJOZFhkZEFiMWdGcWZkR2NGN09QYndDOUZCOGliYlpp?oc=5)
+
+2026-09-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[Retraction Watch](https://news.google.com/rss/articles/CBMioAFBVV95cUxPb19fVlU5enAxUVhVQ3VwUXd2QTVVVnVaVHJacGM1cHY0UHVaM05VRFdhVl9fQTJRbW5sMXpCalZHd3QySnc5MVgzOHhZakR1TnFYd0VvVEpUTG11NUZWMzk4QXlKcnNUUm0zenV2dDN6N2pjcUxlZzZydDZpdzNNRGJOZFhkZEFiMWdGcWZkR2NGN09QYndDOUZCOGliYlpp?oc=5)
 
 ---
 
@@ -118,19 +126,27 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd3VSZUZzNnZwOUNJXzJORmdOUmQ4dEtJb1YyLTdwRlhXRGF2YVBOeGE5bUx5NURDVXdSNy1lSmY2VGRQbnI2dmpFVWZPTHd1bDVEbks3ejdDVGl3Ny1QMU5aNEVRY3p4VEsyOHh4emRpOHdTOHJ3VjRjREJlVXAxNlBjOWM4M1dCamlWc3l0aDB4QUhobzJzNmg1SHpyd0NkUEJocC1JdjJWd0pBYXhJS2tZQkVRSWNqVU1RNzE5cEs5MnNyNFktVnlabWUteDBQUE14WGstZGFnaU1mMG9raVdfTnFPSlNLSXlxMTlnNGJ6ZXpvZUdUb0pR?oc=5)
+### [Blut zeigt Risiko für Herz-, Nieren- & Stoffwechselkrankheiten schon bei Kindern](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjhzYVh0c3ZZQ2V6ZkdvaExkMUVMemNaZW82dUhTcDhCVkpjbS1PODFyNWZVYlp3Q1JNR3ZtcE9XZy1kNm5nRG5Ocl9BNlZ3ejlRV2xvM1dVMzZOV2JpaXRWaTFqcV93OUI1LTBFMG00WnpwSDJXYWJCUVZDQXhBSmZ3ZjVGcnQ3UTB1Nmx2YjdqWjR3aWxMekNSTUp0V3R5VkNYNkdlQ2FvSVRQOWsyMnFsSQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd3VSZUZzNnZwOUNJXzJORmdOUmQ4dEtJb1YyLTdwRlhXRGF2YVBOeGE5bUx5NURDVXdSNy1lSmY2VGRQbnI2dmpFVWZPTHd1bDVEbks3ejdDVGl3Ny1QMU5aNEVRY3p4VEsyOHh4emRpOHdTOHJ3VjRjREJlVXAxNlBjOWM4M1dCamlWc3l0aDB4QUhobzJzNmg1SHpyd0NkUEJocC1JdjJWd0pBYXhJS2tZQkVRSWNqVU1RNzE5cEs5MnNyNFktVnlabWUteDBQUE14WGstZGFnaU1mMG9raVdfTnFPSlNLSXlxMTlnNGJ6ZXpvZUdUb0pR?oc=5)
+來源：[scinexx.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjhzYVh0c3ZZQ2V6ZkdvaExkMUVMemNaZW82dUhTcDhCVkpjbS1PODFyNWZVYlp3Q1JNR3ZtcE9XZy1kNm5nRG5Ocl9BNlZ3ejlRV2xvM1dVMzZOV2JpaXRWaTFqcV93OUI1LTBFMG00WnpwSDJXYWJCUVZDQXhBSmZ3ZjVGcnQ3UTB1Nmx2YjdqWjR3aWxMekNSTUp0V3R5VkNYNkdlQ2FvSVRQOWsyMnFsSQ?oc=5)
 
 ---
 
-### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa - El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+
+---
+
+### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+
+2026-09-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[eldebate.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
 
 ---
 
@@ -139,6 +155,14 @@ permalink: /news/sacubitril/
 2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Neue Leitlinie sieht sofortigen Therapiestart vor](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
+
+2026-09-08 <span class="news-indication-tag">arthritis</span>
+
+來源：[BornCity](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
 
 ---
 

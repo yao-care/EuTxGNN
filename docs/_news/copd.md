@@ -3,7 +3,7 @@ layout: default
 title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。3 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。4 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>3 則</strong>相關新聞報導，26 個相關藥物。
+<strong>EPOC（copd）</strong> 目前有 <strong>4 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+2026-09-15
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+---
 
 ### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
 
@@ -64,19 +72,19 @@ permalink: /news/copd/
 
 ---
 
-### [Pedro Marcos, neumólogo: «Las mujeres, fumando lo mismo que los hombres, tienen más riesgo de desarrollar epoc» - La Voz de Galicia](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
+### [Pedro Marcos, neumólogo: «Las mujeres, fumando lo mismo que los hombres, tienen más riesgo de desarrollar epoc»](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
 
 2026-09-15
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
+來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
 
 ---
 
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+### [COPD: Exazerbationen richtig einordnen – und Differentialdiagnosen nicht vergessen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
-2026-09-14
+2026-09-11
 
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
 ---
 
