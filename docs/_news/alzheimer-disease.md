@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [I don’t care if science has vindicated literary slop. Not all reading is equal - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUhGZWl1Q3ladjJWbWdPUkhIeFpWQzNGTGJYUGZfckZqYmdzMWFZNjFWQW1oNVlQQ3N3TF9haWFuWWg4S2lIeFFSQ0RlWkxrU2k5U3pUUU1EWFpDYzBMczB2UkpYYXBCMTdHNS15aXdvb200TUtsOTc2UmZaR0haVE1Pd05xV09kYWg1NUFHQXpCeHUyWUhROXFCMUc?oc=5)
+
+2026-09-16
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUhGZWl1Q3ladjJWbWdPUkhIeFpWQzNGTGJYUGZfckZqYmdzMWFZNjFWQW1oNVlQQ3N3TF9haWFuWWg4S2lIeFFSQ0RlWkxrU2k5U3pUUU1EWFpDYzBMczB2UkpYYXBCMTdHNS15aXdvb200TUtsOTc2UmZaR0haVE1Pd05xV09kYWg1NUFHQXpCeHUyWUhROXFCMUc?oc=5)
+
+---
 
 ### [Dementia drugs made in UK but denied on NHS - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTRBT2Z1UlJ1X2hESGpiWWtCVXU3aTBEaHFLM2UtUFdjZ2hnZlIzNFpwR1VfYTE2b3BiU09tUzRFeVE5UnBjUFJLOTRQSmhfMnIzeU1wX0ZqTVN4QmhKME5sR0s2VzdNaWZSOURaWGtMNGdSVWRPT2psVGMyWGZIM3NVRnlwNHFqWmU3Zkxid3N4QQ?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Reading for pleasure cuts dementia risk by third, Cambridge study finds - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
+### [Alzheimer : un neurologue identifie les premiers signes avant la perte de mémoire - Pleine Vie](https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXVfQ1llWGNESUVrcW12QV9rZlE3N25YMlFmZV9OZThid3Naejd1TXpEdUpucVI0YkR0ajdpT0lUb3A4Z2Z6Tk9NamdQS1l2YmhFRU9xV2p0bUowZ0dkRDdoNUl6ZHNMOU9Ub2lxWFhLbXNmUmZ4RXlfQ0dPeGNER0pCWndyQ0dXanp3VjBzZ3paUkJmUVRYTW5BQkZxbWEyblFucHpZazlkcVN2YUNySWlabm5PRzhwSGU3c0Nsel94TGNyV01R?oc=5)
 
-2026-09-15
+2026-09-13
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXVfQ1llWGNESUVrcW12QV9rZlE3N25YMlFmZV9OZThid3Naejd1TXpEdUpucVI0YkR0ajdpT0lUb3A4Z2Z6Tk9NamdQS1l2YmhFRU9xV2p0bUowZ0dkRDdoNUl6ZHNMOU9Ub2lxWFhLbXNmUmZ4RXlfQ0dPeGNER0pCWndyQ0dXanp3VjBzZ3paUkJmUVRYTW5BQkZxbWEyblFucHpZazlkcVN2YUNySWlabm5PRzhwSGU3c0Nsel94TGNyV01R?oc=5)
 
 ---
 

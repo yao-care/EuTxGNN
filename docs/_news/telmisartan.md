@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Bluthochdruck: Nüsse senken Risiko signifikant](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
 
 2026-09-16 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
-
----
-
-### [Cholesterol, weight, blood sugar and blood pressure drop with one food change - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
-
-2026-09-16 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
 
 ---
 
@@ -110,19 +102,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Oltre 60 punture d’ape: supera l’anafilassi, poi l’ictus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
-
-2026-09-13 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
-
----
-
 ### ['Having a stroke at 26 was massive learning curve'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIVjItOE9Hd3M2aUhiY2tfazZvVFltbDN0S3ozX2hUQXhkXzRUUmJmUXFWZFVxNVNjMVM4dHFPZnVzdU15a3h4eldKREVaeU5Lc082bnlZaUlSeUhD?oc=5)
 
 2026-09-13 <span class="news-indication-tag">stroke</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIVjItOE9Hd3M2aUhiY2tfazZvVFltbDN0S3ozX2hUQXhkXzRUUmJmUXFWZFVxNVNjMVM4dHFPZnVzdU15a3h4eldKREVaeU5Lc082bnlZaUlSeUhD?oc=5)
+
+---
+
+### [Statine un grande studio fa chiarezza sui reali benefici dopo i 70 anni - The Wom Healthy](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzN4QjhLN085SUViNGcyd25TM1c4RzMtbDVEWFFmLUM3Mk4wTm1tN2FPWXdwXzU2b0tsVm9id0tqZ2ZFZ1Z1dmtmdTc3RnVfS1lXZk5LWmFsVnNlempKSFQ5bHhQemtxSGVNQ1hVSlBMSDVDRHhNYVFCQ3FPV0Zqc21GbXJ2c0F4d2xFNTRYcUU5aU16eXJSQTJQZEZpcWtYZF9xMzVR?oc=5)
+
+2026-09-12 <span class="news-indication-tag">ictus</span>
+
+來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzN4QjhLN085SUViNGcyd25TM1c4RzMtbDVEWFFmLUM3Mk4wTm1tN2FPWXdwXzU2b0tsVm9id0tqZ2ZFZ1Z1dmtmdTc3RnVfS1lXZk5LWmFsVnNlempKSFQ5bHhQemtxSGVNQ1hVSlBMSDVDRHhNYVFCQ3FPV0Zqc21GbXJ2c0F4d2xFNTRYcUU5aU16eXJSQTJQZEZpcWtYZF9xMzVR?oc=5)
 
 ---
 

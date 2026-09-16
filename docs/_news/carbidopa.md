@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [I don’t care if science has vindicated literary slop. Not all reading is equal - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUhGZWl1Q3ladjJWbWdPUkhIeFpWQzNGTGJYUGZfckZqYmdzMWFZNjFWQW1oNVlQQ3N3TF9haWFuWWg4S2lIeFFSQ0RlWkxrU2k5U3pUUU1EWFpDYzBMczB2UkpYYXBCMTdHNS15aXdvb200TUtsOTc2UmZaR0haVE1Pd05xV09kYWg1NUFHQXpCeHUyWUhROXFCMUc?oc=5)
+
+2026-09-16 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUhGZWl1Q3ladjJWbWdPUkhIeFpWQzNGTGJYUGZfckZqYmdzMWFZNjFWQW1oNVlQQ3N3TF9haWFuWWg4S2lIeFFSQ0RlWkxrU2k5U3pUUU1EWFpDYzBMczB2UkpYYXBCMTdHNS15aXdvb200TUtsOTc2UmZaR0haVE1Pd05xV09kYWg1NUFHQXpCeHUyWUhROXFCMUc?oc=5)
+
+---
 
 ### [Dementia drugs made in UK but denied on NHS - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTRBT2Z1UlJ1X2hESGpiWWtCVXU3aTBEaHFLM2UtUFdjZ2hnZlIzNFpwR1VfYTE2b3BiU09tUzRFeVE5UnBjUFJLOTRQSmhfMnIzeU1wX0ZqTVN4QmhKME5sR0s2VzdNaWZSOURaWGtMNGdSVWRPT2psVGMyWGZIM3NVRnlwNHFqWmU3Zkxid3N4QQ?oc=5)
 
@@ -59,11 +67,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### [Reading for pleasure cuts dementia risk by third, Cambridge study finds - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
+### [Alzheimer : un neurologue identifie les premiers signes avant la perte de mémoire - Pleine Vie](https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXVfQ1llWGNESUVrcW12QV9rZlE3N25YMlFmZV9OZThid3Naejd1TXpEdUpucVI0YkR0ajdpT0lUb3A4Z2Z6Tk9NamdQS1l2YmhFRU9xV2p0bUowZ0dkRDdoNUl6ZHNMOU9Ub2lxWFhLbXNmUmZ4RXlfQ0dPeGNER0pCWndyQ0dXanp3VjBzZ3paUkJmUVRYTW5BQkZxbWEyblFucHpZazlkcVN2YUNySWlabm5PRzhwSGU3c0Nsel94TGNyV01R?oc=5)
 
-2026-09-15 <span class="news-indication-tag">dementia</span>
+2026-09-13 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXVfQ1llWGNESUVrcW12QV9rZlE3N25YMlFmZV9OZThid3Naejd1TXpEdUpucVI0YkR0ajdpT0lUb3A4Z2Z6Tk9NamdQS1l2YmhFRU9xV2p0bUowZ0dkRDdoNUl6ZHNMOU9Ub2lxWFhLbXNmUmZ4RXlfQ0dPeGNER0pCWndyQ0dXanp3VjBzZ3paUkJmUVRYTW5BQkZxbWEyblFucHpZazlkcVN2YUNySWlabm5PRzhwSGU3c0Nsel94TGNyV01R?oc=5)
 
 ---
 

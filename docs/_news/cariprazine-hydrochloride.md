@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
 
-### [Fleisch statt Spritze: Kann die Keto-Diät beim Abnehmen wirklich mithalten?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFdTdGhuekRJMEczdVc4Zk1pVUtUMkdPZ1FjZllsV1RFVW14ZVZCZHBReEp5Y2xoVUNybDZVeXdGcFlkd1ZuZmlrS2psVk0zejFxelZEMTBFaWJjV3JWVlBuMGphLXhmd0FPZzdtcWV5MXpEQjNJaV9jeUpDRFNpLTl1MGc0dEV2c0V4cTlPV3JuOHVYbmdBWmxvRFJ0VlJySDJnTEthVUZpRUVGdF85VGwxX2g4dTFrMGZqa2x5Q0VHeHM?oc=5)
+### [Nicht immer sind die Zigaretten an Lungenkrebs schuld - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
 
-2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-09-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFdTdGhuekRJMEczdVc4Zk1pVUtUMkdPZ1FjZllsV1RFVW14ZVZCZHBReEp5Y2xoVUNybDZVeXdGcFlkd1ZuZmlrS2psVk0zejFxelZEMTBFaWJjV3JWVlBuMGphLXhmd0FPZzdtcWV5MXpEQjNJaV9jeUpDRFNpLTl1MGc0dEV2c0V4cTlPV3JuOHVYbmdBWmxvRFJ0VlJySDJnTEthVUZpRUVGdF85VGwxX2g4dTFrMGZqa2x5Q0VHeHM?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
+
+---
+
+### [Gut bacteria at MS diagnosis offer early clues to disease course - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0F6MW15eWRXMzNOZ2pORzNkZTlwNEZSdmR1YldtQkFON0RGeDR5VEtnWmRRYXUwUVFCWWJmam9wTUo5LTU2d2dxVU03WmNnOGUwUkx4cVgyWWRwcHBxZS11TGRlMWk5dk1FeDZzTUpaUVRyT25ocElocEd5b0IzWDNURGx4WUk4eU50Z0ZRZlowZjNKb1g3MlVyQmdnOVNINUJjZWUwdllwX0RZVkZYajZMWDdKUmRETEN2Mg?oc=5)
+
+2026-09-16 <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0F6MW15eWRXMzNOZ2pORzNkZTlwNEZSdmR1YldtQkFON0RGeDR5VEtnWmRRYXUwUVFCWWJmam9wTUo5LTU2d2dxVU03WmNnOGUwUkx4cVgyWWRwcHBxZS11TGRlMWk5dk1FeDZzTUpaUVRyT25ocElocEd5b0IzWDNURGx4WUk4eU50Z0ZRZlowZjNKb1g3MlVyQmdnOVNINUJjZWUwdllwX0RZVkZYajZMWDdKUmRETEN2Mg?oc=5)
 
 ---
 
@@ -66,7 +74,7 @@ permalink: /news/cariprazine-hydrochloride/
 
 2026-09-16 <span class="news-indication-tag">MS</span>
 
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JMFpEYldQcVJCYmpuOTdtSkt6d1BzcFpZV19OOHR1al9ZNUh6TlVFcEFqNXd3RlVXN1k1RTRKY2ZNcllyMFFSQ3hzWkplSTd6dldieUk5SkdFcFAwS3ow?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JMFpEYldQcVJCYmpuOTdtSkt6d1BzcFpZV19OOHR1al9ZNUh6TlVFcEFqNXd3RlVXN1k1RTRKY2ZNcllyMFFSQ3hzWkplSTd6dldieUk5SkdFcFAwS3ow?oc=5)
 
 ---
 
@@ -74,7 +82,7 @@ permalink: /news/cariprazine-hydrochloride/
 
 2026-09-16 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Atalayar](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHl4T015UUQzV01YVGNjUFZFc3FqaERjUktpTjJBN2pwYXhMaGd6Y3hMR29uZnphbENjYjZnVm16ZnFWWDh1bmxtX2JwNWV0VWhvbDJ4SWp1Rmo5aTk2dHl3NjdQUENKdlBVR3Q5X2pGMlRac2JWRmFlT2pCSk52ZFlyLWVoLVczRnR5VDlJNWdiN3o2b3FUNE5TQ1U0RE10RmRLTUN4M3k4ZDVzc21pZ3Jkb2VRMkQ4Mko0QjJfdnpOVDY50gHKAUFVX3lxTFB1dFRuTjFfRURGc25Ma0pJTmFRR0UtbWZqS2JHc09BejBickNOQ3lWcnp6ZzgxM3J3YkZ3ME5yMlFyUkhFNjJhUkxsOVROX1hnR0ZZSnZaRjFlWmVEXzYxNk1TdGRhcDVqTXNOZWp1UHNnUnlWcXVVUXFrQ3lfZWw0Z1Y3elY2M0RpN25Oa0IyQUFvRXlCOUN4STJ3dzBIWGY0RlBVbWwtTmJiWUhXdE5UcUcwWVRVTlVjSWt6V1dIeU5fb3R3blhGUGc?oc=5)
+來源：[atalayar.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHl4T015UUQzV01YVGNjUFZFc3FqaERjUktpTjJBN2pwYXhMaGd6Y3hMR29uZnphbENjYjZnVm16ZnFWWDh1bmxtX2JwNWV0VWhvbDJ4SWp1Rmo5aTk2dHl3NjdQUENKdlBVR3Q5X2pGMlRac2JWRmFlT2pCSk52ZFlyLWVoLVczRnR5VDlJNWdiN3o2b3FUNE5TQ1U0RE10RmRLTUN4M3k4ZDVzc21pZ3Jkb2VRMkQ4Mko0QjJfdnpOVDY50gHKAUFVX3lxTFB1dFRuTjFfRURGc25Ma0pJTmFRR0UtbWZqS2JHc09BejBickNOQ3lWcnp6ZzgxM3J3YkZ3ME5yMlFyUkhFNjJhUkxsOVROX1hnR0ZZSnZaRjFlWmVEXzYxNk1TdGRhcDVqTXNOZWp1UHNnUnlWcXVVUXFrQ3lfZWw0Z1Y3elY2M0RpN25Oa0IyQUFvRXlCOUN4STJ3dzBIWGY0RlBVbWwtTmJiWUhXdE5UcUcwWVRVTlVjSWt6V1dIeU5fb3R3blhGUGc?oc=5)
 
 ---
 
@@ -86,6 +94,14 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGN6aHBvRy1KT0d5a19xdUNVWVd1NkhWQXl3eFVGYVdIUkFzTGNPSlRJNWJkaldpaTRZNTVpbzR5S1VsdTZwU3k3QjdSaEhnek10ZlZmd1BsSTcyeTE3MXRKSks1TFQ0UW5iVHQ1cm5iTUJTQUJBYXR0VUxiYkpQQ3ZFeFVpYXFFM1c1bF9NLVlWUnRjTDFUOS1IMnBjYUdLOXlCbQ?oc=5)
+
+---
+
 ### [MS-Forschung: Neue Galectine-Therapie gegen stille Hirnschäden](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjAyVzJYTHFMeVNyZHI4U1FNT3VXdHdJcTExTnk1X2syajFONXRRMGlDQkFsYmVTRUk1dklBNE4zZG9IX3ppVWd5YWxlZDlkbTc0bU9oSHlfQXp0OHlSU2dkdy1fVTdKZk10YjJvQmYzTGROdHpubXdudUxRWWQxemFCN0Z3ZV92NDBlOENIRndhNWNDZFp2S3hmRVFwbnByNjM3QXFLS0U1VXNlcXFwWQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">MS</span>
@@ -94,27 +110,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [‘Stomach bugs’ send protective immune cells rushing from gut to brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iR18tc082c0s1Sms3M2pUZXJyTnpnbktjN1R1RTNLNVAtNGx1VWpSTDdyeVc2Vmd4V3J0Q3ZjSHVrcU9XYUVXdnBiV05TcXZZWFFRRjBteXVSVWhoYXVR?oc=5)
-
-2026-09-15 <span class="news-indication-tag">MS</span>
-
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iR18tc082c0s1Sms3M2pUZXJyTnpnbktjN1R1RTNLNVAtNGx1VWpSTDdyeVc2Vmd4V3J0Q3ZjSHVrcU9XYUVXdnBiV05TcXZZWFFRRjBteXVSVWhoYXVR?oc=5)
-
----
-
 ### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
 2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [Abdominal aortic aneurysms can cause years of anxiety, even without symptoms - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxON01VUmNiVTVYVkJsWHZzbnp3LWdKN094VFd3VXpldkxWczM3YjhjX09zZVVNc0FwWWdRTTJROGhtWmticFJpMUs0RTMzWmw5SFNRNGNfa3Q3YTBJdUFvN2h6TFlxcmZqQ3B1ckhaLTdnZDh0aDk5Ul9iNlBET3ZnN2E5TVVtTVJqX2RXMndfdUJXUXp2N0JQQmFmdS16Q0p5S1o0bi1MNlZsOWt5SDFn?oc=5)
-
-2026-09-15 <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxON01VUmNiVTVYVkJsWHZzbnp3LWdKN094VFd3VXpldkxWczM3YjhjX09zZVVNc0FwWWdRTTJROGhtWmticFJpMUs0RTMzWmw5SFNRNGNfa3Q3YTBJdUFvN2h6TFlxcmZqQ3B1ckhaLTdnZDh0aDk5Ul9iNlBET3ZnN2E5TVVtTVJqX2RXMndfdUJXUXp2N0JQQmFmdS16Q0p5S1o0bi1MNlZsOWt5SDFn?oc=5)
 
 ---
 
@@ -131,14 +131,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-09-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijwFBVV95cUxORV9XRDR4SkJoVGFmWXRycXBjTnROMGYtODI4M3hvWkJoSHBNem5hbWJDYWRIazNaY04wWFRfUElFUmEzZ3RWdnZRbUxOU3JmdkVjTG5YRC1NRVFsdDBvVzRiWmVyRHRTaDR3QkFGYTJ1RWxEUWlVR2M2ay13eWhydU8zdWItWjNhYTY3NG1HVQ?oc=5)
-
----
-
-### [Bio-warfare is now a clear and present threat, as dangerous as nukes - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnpMeUdlSEVsTnphSVE3X2ZXNlVnMFdsRmRWSlVtQTR3bUs3N0xaVmpnNGNxTVBWclp3TWg1RHQ3bk5DTXhJVDZjY3ZOTnR6V1Z3ZnctcG1VNFg4YzBGT2NuMGNrZk9aZGthYUFtNEFPMEtBWmJqakpHRG53b3pxR1FGRnZMWmJWWm9EdXk4UU1FdUtTb3VkM1g5RWdGQS1vN0lZ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnpMeUdlSEVsTnphSVE3X2ZXNlVnMFdsRmRWSlVtQTR3bUs3N0xaVmpnNGNxTVBWclp3TWg1RHQ3bk5DTXhJVDZjY3ZOTnR6V1Z3ZnctcG1VNFg4YzBGT2NuMGNrZk9aZGthYUFtNEFPMEtBWmJqakpHRG53b3pxR1FGRnZMWmJWWm9EdXk4UU1FdUtTb3VkM1g5RWdGQS1vN0lZ?oc=5)
 
 ---
 

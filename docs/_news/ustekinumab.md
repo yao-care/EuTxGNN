@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/ustekinumab/
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（100.0%）</li>
 <li>hydroa vacciniforme, familial（100.0%）</li>
 <li>severe nonproliferative diabetic retinopathy（100.0%）</li>
-<li class="indication-matched">psoriasis（100.0%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（100.0%）</li>
 <li>parapsoriasis（99.9%）</li>
 <li>pityriasis lichenoides（99.9%）</li>
 <li>acute lichenoid pityriasis（99.9%）</li>
@@ -52,13 +52,21 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
-### [Fleisch statt Spritze: Kann die Keto-Diät beim Abnehmen wirklich mithalten?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFdTdGhuekRJMEczdVc4Zk1pVUtUMkdPZ1FjZllsV1RFVW14ZVZCZHBReEp5Y2xoVUNybDZVeXdGcFlkd1ZuZmlrS2psVk0zejFxelZEMTBFaWJjV3JWVlBuMGphLXhmd0FPZzdtcWV5MXpEQjNJaV9jeUpDRFNpLTl1MGc0dEV2c0V4cTlPV3JuOHVYbmdBWmxvRFJ0VlJySDJnTEthVUZpRUVGdF85VGwxX2g4dTFrMGZqa2x5Q0VHeHM?oc=5)
+### [Middle-age disease is ‘silently’ affecting one in FIVE Brits and fuelling cancer - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
 
-2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFdTdGhuekRJMEczdVc4Zk1pVUtUMkdPZ1FjZllsV1RFVW14ZVZCZHBReEp5Y2xoVUNybDZVeXdGcFlkd1ZuZmlrS2psVk0zejFxelZEMTBFaWJjV3JWVlBuMGphLXhmd0FPZzdtcWV5MXpEQjNJaV9jeUpDRFNpLTl1MGc0dEV2c0V4cTlPV3JuOHVYbmdBWmxvRFJ0VlJySDJnTEthVUZpRUVGdF85VGwxX2g4dTFrMGZqa2x5Q0VHeHM?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
+
+---
+
+### [Piede diabetico, dopo l’amputazione la mortalità è di 1 paziente su 4 entro un anno](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetic</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
 
 ---
 
@@ -94,22 +102,6 @@ permalink: /news/ustekinumab/
 
 ---
 
-### [PPG: cuando un brote de psoriasis puede poner en riesgo la vida del paciente - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE9UbTAwQ3ZtVFlaVHdZc3pjVV9JS0h2VGw4UXR5QTVUbzNxLUJHVGNRbWlmeGJ6V054RUJURWlFRW9WaG9lbEtUajU1SnhIY0txWkw1UTJ6QTY5d2QwUWFkODBjRzF5ajV4emlYb0hUNXV2MGdwTU81S3ZBaXhucWpHU2ZsX2c2ZG5aQk1aeGRMazRBUENlbFF3N010a09weGtHaERUM2VwaHhxMkFYWGN5S295MXRMbWJOOTlYR2l4QdIBvAFBVV95cUxPZXBTWHNsQWVFeDdlX3RiMTRGM21xVFdRX3EwOVZZUXVLenduR0s4cWlXYjVKVUpkNkphZThSVjlqRkJlYzRMOFFXc1AzdWg1ajE4ZUZwUVpFQjlySkZTTlVtZWgzMmhieTduQnV4WllLMFlTMnktU3UtRkQ0Z3lIcU5fTGJ1bGNCeVVkQ1pCZkx1d1U2QzF1XzFab0VkYWpGQlgyZnNvb3VTNlI1VVZYX1Q0Tm84YU0tcy0wVA?oc=5)
-
-2026-09-15 <span class="news-indication-tag">psoriasis</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE9UbTAwQ3ZtVFlaVHdZc3pjVV9JS0h2VGw4UXR5QTVUbzNxLUJHVGNRbWlmeGJ6V054RUJURWlFRW9WaG9lbEtUajU1SnhIY0txWkw1UTJ6QTY5d2QwUWFkODBjRzF5ajV4emlYb0hUNXV2MGdwTU81S3ZBaXhucWpHU2ZsX2c2ZG5aQk1aeGRMazRBUENlbFF3N010a09weGtHaERUM2VwaHhxMkFYWGN5S295MXRMbWJOOTlYR2l4QdIBvAFBVV95cUxPZXBTWHNsQWVFeDdlX3RiMTRGM21xVFdRX3EwOVZZUXVLenduR0s4cWlXYjVKVUpkNkphZThSVjlqRkJlYzRMOFFXc1AzdWg1ajE4ZUZwUVpFQjlySkZTTlVtZWgzMmhieTduQnV4WllLMFlTMnktU3UtRkQ0Z3lIcU5fTGJ1bGNCeVVkQ1pCZkx1d1U2QzF1XzFab0VkYWpGQlgyZnNvb3VTNlI1VVZYX1Q0Tm84YU0tcy0wVA?oc=5)
-
----
-
-### [Diabetes-Tailored DASH Diet Improves Glycemic Control in T2D](https://news.google.com/rss/articles/CBMirwFBVV95cUxNREJGS1MtVkprZmNkeWtKd2R0WW5mVFhJLXFSX19Cc3ZGeHRnczJuQlB2SUJLeV9zbVh1Nkw2VF9hNzkzdThpaVU2SC1ud2VzMHdGZUF3c1EzUkgyNjhmbVY1ckRHcC1fVUZONTdxbjlwTUY4a3ZwcGk2eWo5ZHNHVTBsZHB0aWJyRmRPQW9LYVRGbGJPblZPcUZDaDRfYzZkVEJmektRR0V5NkxxWmRv?oc=5)
-
-2026-09-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNREJGS1MtVkprZmNkeWtKd2R0WW5mVFhJLXFSX19Cc3ZGeHRnczJuQlB2SUJLeV9zbVh1Nkw2VF9hNzkzdThpaVU2SC1ud2VzMHdGZUF3c1EzUkgyNjhmbVY1ckRHcC1fVUZONTdxbjlwTUY4a3ZwcGk2eWo5ZHNHVTBsZHB0aWJyRmRPQW9LYVRGbGJPblZPcUZDaDRfYzZkVEJmektRR0V5NkxxWmRv?oc=5)
-
----
-
 ### [A Napoli parte INsu-LINE: l'intelligenza artificiale e la prevenzione del diabete entrano nelle case delle famiglie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODNiRG9wX1dxRVVBUk9WQ01hdm52NXpqRC01dFZDVmE1VE9BOVpBbk1OaEl4V1dYb1hsa1M4WUV3Z0h5UVpjRkRvdWZncXNDeTlrQTJpRmpSV1JISEpaV05fXzhRVlVudENMejlFQktPTkRFSXBpNTNYcVBBUTBuemRNaFNkSVdVM19Nb2U0VEthX0VBRUJjWUFQeXZDZFI4bnhGb21qS0M4NmVZbzkyREtKckJlbHlzbjFFSUY2MF9CaWdMUzRVamlKTEFuRUhvejJV?oc=5)
 
 2026-09-15 <span class="news-indication-tag">diabete</span>
@@ -134,11 +126,11 @@ permalink: /news/ustekinumab/
 
 ---
 
-### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,21 +52,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 
 2026-09-16 <span class="news-indication-tag">artritis</span>
 
 來源：[Univadis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
-
----
-
-### [PPG: cuando un brote de psoriasis puede poner en riesgo la vida del paciente - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE9UbTAwQ3ZtVFlaVHdZc3pjVV9JS0h2VGw4UXR5QTVUbzNxLUJHVGNRbWlmeGJ6V054RUJURWlFRW9WaG9lbEtUajU1SnhIY0txWkw1UTJ6QTY5d2QwUWFkODBjRzF5ajV4emlYb0hUNXV2MGdwTU81S3ZBaXhucWpHU2ZsX2c2ZG5aQk1aeGRMazRBUENlbFF3N010a09weGtHaERUM2VwaHhxMkFYWGN5S295MXRMbWJOOTlYR2l4QdIBvAFBVV95cUxPZXBTWHNsQWVFeDdlX3RiMTRGM21xVFdRX3EwOVZZUXVLenduR0s4cWlXYjVKVUpkNkphZThSVjlqRkJlYzRMOFFXc1AzdWg1ajE4ZUZwUVpFQjlySkZTTlVtZWgzMmhieTduQnV4WllLMFlTMnktU3UtRkQ0Z3lIcU5fTGJ1bGNCeVVkQ1pCZkx1d1U2QzF1XzFab0VkYWpGQlgyZnNvb3VTNlI1VVZYX1Q0Tm84YU0tcy0wVA?oc=5)
-
-2026-09-15 <span class="news-indication-tag">psoriasis</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE9UbTAwQ3ZtVFlaVHdZc3pjVV9JS0h2VGw4UXR5QTVUbzNxLUJHVGNRbWlmeGJ6V054RUJURWlFRW9WaG9lbEtUajU1SnhIY0txWkw1UTJ6QTY5d2QwUWFkODBjRzF5ajV4emlYb0hUNXV2MGdwTU81S3ZBaXhucWpHU2ZsX2c2ZG5aQk1aeGRMazRBUENlbFF3N010a09weGtHaERUM2VwaHhxMkFYWGN5S295MXRMbWJOOTlYR2l4QdIBvAFBVV95cUxPZXBTWHNsQWVFeDdlX3RiMTRGM21xVFdRX3EwOVZZUXVLenduR0s4cWlXYjVKVUpkNkphZThSVjlqRkJlYzRMOFFXc1AzdWg1ajE4ZUZwUVpFQjlySkZTTlVtZWgzMmhieTduQnV4WllLMFlTMnktU3UtRkQ0Z3lIcU5fTGJ1bGNCeVVkQ1pCZkx1d1U2QzF1XzFab0VkYWpGQlgyZnNvb3VTNlI1VVZYX1Q0Tm84YU0tcy0wVA?oc=5)
 
 ---
 
