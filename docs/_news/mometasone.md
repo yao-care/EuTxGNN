@@ -14,7 +14,7 @@ permalink: /news/mometasone/
 ---
 
 <p class="key-answer" data-question="Mometasone 有什麼相關新聞？">
-<strong>Mometasone</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mometasone</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/mometasone/
 <p><a href="{{ '/drugs/mometasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（35 則）
 
 ### [Krebs: Diese Pilze könnten die Nebenwirkungen der Chemotherapie lindern](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTkwNmtqbnptamY2Vmw1RjFLNE9YYTQ2SUZhZzZBaHNxZ3UzdXFQeWJqYzVJd0VNM3pWbXVIMUw4c1BXRGpZT0t5RHdtMG9fTEVWckF1SF9CbEZKdHltZzJ5WnpKNkZYVWlSOGl3blNudW5ZTGhKQ2ZPQU14NWdla0d1QXphVkFnTHNqVmFQVmFjamtGM3hKTmFoS1dHelU4U3Mzam5BWXFMelUyUGh1eGtmZkNYSDFxeGlManJfaEJFRk1Lbi1yeW5Cbm9GVHRVeTFhOEd3?oc=5)
 
@@ -62,11 +62,83 @@ permalink: /news/mometasone/
 
 ---
 
-### [Neue Therapie bei nicht-muskelinvasivem Blasenkrebs - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTE2VnA1d1N6NlZSZUFSVG5PSlJWUzRlQTVFamRGaW9PajZydzl5aEJQa05tV25HenJUek11bFNpTWFoVWJ6SHB1emJkcFZYS25fejNwaElmV2tVVmpwNW5GOUg3a0VfcHlyRHVNM05DNEtSWkRPc0UzTzRDR05yUDkzSEhKbmlSSFRPY3RReXd2Zw?oc=5)
+### [Cancer : à Lyon, cette fondation muscle le parcours de soins grâce au sport](https://news.google.com/rss/articles/CBMif0FVX3lxTE0zc3YyVEJ2R2dOSmFPX0U0RC12U0I2ZDB2eDlpQmd1Wkk2a0F0NXF6OTJmUnlwcVdFV2s5eWF4OEpLNGNSb2RZQ1JSRkJudlF5Vk1ISDF5TGFOQ1hRaDZKNnJ1Q3BBWnNIZU1uU0VqdWZLMTFxUW55WWtxRTl5Zjg?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMif0FVX3lxTE0zc3YyVEJ2R2dOSmFPX0U0RC12U0I2ZDB2eDlpQmd1Wkk2a0F0NXF6OTJmUnlwcVdFV2s5eWF4OEpLNGNSb2RZQ1JSRkJudlF5Vk1ISDF5TGFOQ1hRaDZKNnJ1Q3BBWnNIZU1uU0VqdWZLMTFxUW55WWtxRTl5Zjg?oc=5)
+
+---
+
+### [Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmY4VnVkTUdrZnQ4S3FBb212TUlGZFBUdGhQUEozY3hBNEZLQjgweEdyV2RYRlJMbU9sRnl5Um81V19JNUxQUUtvN3dNcXRKUHJmRGd3RTZQN3E3dnhIWUtSNmx4SV9Yd1JDS0thbnBGOG9MbHR0NE56RzRxcHlzZUFzQ2w3eHNBLTBBVVJn?oc=5)
 
 2026-09-16 <span class="news-indication-tag">Krebs</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTE2VnA1d1N6NlZSZUFSVG5PSlJWUzRlQTVFamRGaW9PajZydzl5aEJQa05tV25HenJUek11bFNpTWFoVWJ6SHB1emJkcFZYS25fejNwaElmV2tVVmpwNW5GOUg3a0VfcHlyRHVNM05DNEtSWkRPc0UzTzRDR05yUDkzSEhKbmlSSFRPY3RReXd2Zw?oc=5)
+來源：[tagesschau.de](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmY4VnVkTUdrZnQ4S3FBb212TUlGZFBUdGhQUEozY3hBNEZLQjgweEdyV2RYRlJMbU9sRnl5Um81V19JNUxQUUtvN3dNcXRKUHJmRGd3RTZQN3E3dnhIWUtSNmx4SV9Yd1JDS0thbnBGOG9MbHR0NE56RzRxcHlzZUFzQ2w3eHNBLTBBVVJn?oc=5)
+
+---
+
+### [Middle-age disease is ‘silently’ affecting one in FIVE Brits and fuelling cancer - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
+
+---
+
+### [Tatuaggi, l’inchiostro arriva fino ai linfonodi. Ma provoca davvero il cancro?](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHdLbkRhNjhFdTA4T09ERmVFTVUwSGQ0b01IMGhNLU9qbTYyVFdYNHJEMlFxUXBCamw3eTJZanpHRzl0UmpuRDJmdjBDM2w0SUxMd3JzOGtwS2M0TTB5VHViNGpLNzMyRmJYZWg5TnR0LURWUk02X3pXMnEwNW9yNjEycDFTTUhUbHU4Qkw0NTB3NTlLUWp2VUVmR04yZFpFclJtYi1NVHFRektHUmZUOHltT0VHeFNFUS1mbmpkUWhwdERtaWNneldRSFZGSHc?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancro</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHdLbkRhNjhFdTA4T09ERmVFTVUwSGQ0b01IMGhNLU9qbTYyVFdYNHJEMlFxUXBCamw3eTJZanpHRzl0UmpuRDJmdjBDM2w0SUxMd3JzOGtwS2M0TTB5VHViNGpLNzMyRmJYZWg5TnR0LURWUk02X3pXMnEwNW9yNjEycDFTTUhUbHU4Qkw0NTB3NTlLUWp2VUVmR04yZFpFclJtYi1NVHFRektHUmZUOHltT0VHeFNFUS1mbmpkUWhwdERtaWNneldRSFZGSHc?oc=5)
+
+---
+
+### [Melanoma, scoperto come le cellule tumorali “sentono” gli spazi stretti per diffondersi](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX1NQMTJxZmpzRWRxVktIX2ZENTNCWkhkZ0QwYnd0ZzJrZ1MyQUlnX3ladGhYQ0llemJOSnVfM1hxb1kwZTRuTUN5aFF5SFJEMnJrTUQzaG16MWJMRUhmYUFKc09yd201dC1VcnFvVENNM3JUb0JpNngwSE9MUU1UUE54VFFRRGFLbE41UTZ5d01VVGg0SHoyVGRoSEREeU5tdy12TzlmMURFVEpYTWJZbEw4WXpoME4wNTlIRzU2VEdOQUg0Z1UxQVNoUDJTM0xwUGtydVBCbWRHcEY2?oc=5)
+
+2026-09-16 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX1NQMTJxZmpzRWRxVktIX2ZENTNCWkhkZ0QwYnd0ZzJrZ1MyQUlnX3ladGhYQ0llemJOSnVfM1hxb1kwZTRuTUN5aFF5SFJEMnJrTUQzaG16MWJMRUhmYUFKc09yd201dC1VcnFvVENNM3JUb0JpNngwSE9MUU1UUE54VFFRRGFLbE41UTZ5d01VVGg0SHoyVGRoSEREeU5tdy12TzlmMURFVEpYTWJZbEw4WXpoME4wNTlIRzU2VEdOQUg0Z1UxQVNoUDJTM0xwUGtydVBCbWRHcEY2?oc=5)
+
+---
+
+### [Dijon. Cancers gynécologiques : « Les symptômes sont arrivés d’un coup, j’aurais pu passer à côté » - Le Bien Public](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHJmajRWeHZyTmlFbWFSME82cmNWd3oxbDNHcWdYQ0FPXzRqblowMFdDejUxNFZCTlFJVjBmYmxOaUFYeHNQVjZwTHpSQ0poZDIwVGE2U1RPSVdlMTV2ZGJRZXdla2djdzMxY0FsNHY3ekNQSzNUdEFlVE0weFl3ZGdYeW9FbUhrcGdHVDExdnZJSUhDdzFYSkZNMUtpY0pmTU04REVzX3JsSnhOTGJR?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Bien Public](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHJmajRWeHZyTmlFbWFSME82cmNWd3oxbDNHcWdYQ0FPXzRqblowMFdDejUxNFZCTlFJVjBmYmxOaUFYeHNQVjZwTHpSQ0poZDIwVGE2U1RPSVdlMTV2ZGJRZXdla2djdzMxY0FsNHY3ekNQSzNUdEFlVE0weFl3ZGdYeW9FbUhrcGdHVDExdnZJSUhDdzFYSkZNMUtpY0pmTU04REVzX3JsSnhOTGJR?oc=5)
+
+---
+
+### [Makrophagen-Therapie: Erste Erfolge bei Brustkrebs und Fibrose](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVVMMXJWTUw0Q3I4N2UyekluRTZ0Q3Nyb0xYcVJITzB0ZU9QNksxSVlqU3RweWhld05RVjM1Y1BlY2ZtZTNXdGpMWVRMTDl5S0VuZlRXUzl0dENJNy0tUi1kSVo2bEY5M0daeGpSZjB1eUttb21FSFNDckJhS1VHSWgxWVhteVoxeEJLVlNuOXMyVUoteXRoRmxySnB1UGxPQzdBRTAzS0dFR1JmbHQw?oc=5)
+
+2026-09-16 <span class="news-indication-tag">Krebs</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVVMMXJWTUw0Q3I4N2UyekluRTZ0Q3Nyb0xYcVJITzB0ZU9QNksxSVlqU3RweWhld05RVjM1Y1BlY2ZtZTNXdGpMWVRMTDl5S0VuZlRXUzl0dENJNy0tUi1kSVo2bEY5M0daeGpSZjB1eUttb21FSFNDckJhS1VHSWgxWVhteVoxeEJLVlNuOXMyVUoteXRoRmxySnB1UGxPQzdBRTAzS0dFR1JmbHQw?oc=5)
+
+---
+
+### [Potenza: visite gratuite per i cittadini. Ecco come prenotare - Potenza News ®](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXVNaW1TTnZ3ZVJYS054aGdSUTJCNGJkYzUwdTZCTXFDVk9BZTJrVUV6M1hna0hOTTV0b2x5WTBzVDNFTG1waE5UbnFsRjBzejFXUzQ4cTFUeGpQcGFIWHIxR0VZTFE3amt1cDJiMkFIVFpyc2lfc2hoV0JzNFlySXdFWVR2dm5qMDgwSGdFeUZOa3dm?oc=5)
+
+2026-09-16 <span class="news-indication-tag">tumor</span>
+
+來源：[Potenza News ®](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXVNaW1TTnZ3ZVJYS054aGdSUTJCNGJkYzUwdTZCTXFDVk9BZTJrVUV6M1hna0hOTTV0b2x5WTBzVDNFTG1waE5UbnFsRjBzejFXUzQ4cTFUeGpQcGFIWHIxR0VZTFE3amt1cDJiMkFIVFpyc2lfc2hoV0JzNFlySXdFWVR2dm5qMDgwSGdFeUZOa3dm?oc=5)
+
+---
+
+### [La ciencia logra observar un tumor en 3D para descubrir cómo se comportan sus células - Tribuna de Ávila.](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRnZFQ3dxMzk0WFEzZGRjeE9GMmU5d3k0clJOYmJnNGtFZzNjMkkxNEtodmhIRU9mSjh6MWVqdVdZT1lqbkZWOTdYTGpBWFVqSHhKa0ppNVA2dGNodFBMMFBKdUkxUnRPMmRGaXlyTjlOdGttRmdtclZUWFdILTVrNnZWUXVOMkd5N2FmaU4wRmhabmFITVdMaVpmMmRlNHFOWE1yenBpVHBpbVRZWmxXQUp2Y2piendRemVyRVVxMExRX2FuUVNQNkR3?oc=5)
+
+2026-09-16 <span class="news-indication-tag">tumor</span>
+
+來源：[Tribuna de Ávila.](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRnZFQ3dxMzk0WFEzZGRjeE9GMmU5d3k0clJOYmJnNGtFZzNjMkkxNEtodmhIRU9mSjh6MWVqdVdZT1lqbkZWOTdYTGpBWFVqSHhKa0ppNVA2dGNodFBMMFBKdUkxUnRPMmRGaXlyTjlOdGttRmdtclZUWFdILTVrNnZWUXVOMkd5N2FmaU4wRmhabmFITVdMaVpmMmRlNHFOWE1yenBpVHBpbVRZWmxXQUp2Y2piendRemVyRVVxMExRX2FuUVNQNkR3?oc=5)
+
+---
+
+### [Royaume-Uni: Becky Jones subit 11 ans de chimio pour un cancer inexistant - Le Matin](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbXUtM0NJcERnU0Z3UUV2X1B2UkJ0Q0l3YU90UGh5TzMtQ0I3dU9XcU1kVTRJYmJvZmVCZ29YaFlSMU5jMDl5djBTTjZ0LXB1Y1lrSXhQZURlQWRpZTBjMzlRRmQ2ckVTNE1sTEFiR1gxVXRTTGNEVEVqcWE3eXgzTW52cmo0M0VaampnNS1WRDg0VnU4T0I0MUZCakVkdjJjMkZWMFFraDVEaDYyazFxTW1rZDFFdw?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Matin](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbXUtM0NJcERnU0Z3UUV2X1B2UkJ0Q0l3YU90UGh5TzMtQ0I3dU9XcU1kVTRJYmJvZmVCZ29YaFlSMU5jMDl5djBTTjZ0LXB1Y1lrSXhQZURlQWRpZTBjMzlRRmQ2ckVTNE1sTEFiR1gxVXRTTGNEVEVqcWE3eXgzTW52cmo0M0VaampnNS1WRDg0VnU4T0I0MUZCakVkdjJjMkZWMFFraDVEaDYyazFxTW1rZDFFdw?oc=5)
 
 ---
 
@@ -75,6 +147,14 @@ permalink: /news/mometasone/
 2026-09-16 <span class="news-indication-tag">tumor</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHRuTmlUaWhUZF96aW9pOGJldjI3MGNJX2RabXZvMXFpYTFoYWJGdW0wemVqSEtEUTd1X0pTYXhzZDZ0LUJMc05TUDdYRmpKMnNxZ1gwR0c0bEYzNDRTU2pYTHpXWjF1WkY2SDhuZ3AxdG8yTGlIUnkxLWtRbkhhRkZaZFotWGpQWUltX2dsemdaaXpsQlJKLVVybw?oc=5)
+
+---
+
+### [Exercise can be as good as drugs at boosting survival rates for cancer patients, major study finds - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmlEd0NLUThhSHlWQVlvTHdXR1dqdWdaUzdNREF6ckY3eUlnSjdFd2VIUHBienNRaEMzU0h6bHZpSGtmTVZDT01vTm5TUzU2YlVMeWYwNkRhOURUa3ZjWE5CT3duTnlfc0NBbmdzUUc0R1l2OVdxV24xMjFTQUw0blJuaGRfTGN2?oc=5)
+
+2026-09-15 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmlEd0NLUThhSHlWQVlvTHdXR1dqdWdaUzdNREF6ckY3eUlnSjdFd2VIUHBienNRaEMzU0h6bHZpSGtmTVZDT01vTm5TUzU2YlVMeWYwNkRhOURUa3ZjWE5CT3duTnlfc0NBbmdzUUc0R1l2OVdxV24xMjFTQUw0blJuaGRfTGN2?oc=5)
 
 ---
 
@@ -110,30 +190,6 @@ permalink: /news/mometasone/
 
 ---
 
-### [« Il a gâché ma vie » : après 11 ans de chimiothérapie pour un cancer, des médecins lui annoncent qu’elle n’est pas malade](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNGRkZ1MtdlRqZFF0OW1XbXprZXJLYnhvTHI0NDJsZnZEOUdYRUVZSVJvUWVObnBJSGhpMlFJdVR1SzZzY0cwZ09rOEljeUlkMmtoNG55QUdIS01OSWhqZkVpX0VJZjhVbGt1WU1PVFB1UnZuNEp0VzJHX3dkWnZ0d2NvMkpZZk9iYTJkX2NxRXVxbXhvNjFBNmZwS1A5em5ONUNkMEczQmJvdTRXMXBqTmdMMHF0SWlLLWFaWklPb3UxZ1hORUMybUZEQzlCSlBJeE9ZRFZiUE5MSG9PM0tIN3ZtR1g2ellnUFlEei1lRQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">cancer</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNGRkZ1MtdlRqZFF0OW1XbXprZXJLYnhvTHI0NDJsZnZEOUdYRUVZSVJvUWVObnBJSGhpMlFJdVR1SzZzY0cwZ09rOEljeUlkMmtoNG55QUdIS01OSWhqZkVpX0VJZjhVbGt1WU1PVFB1UnZuNEp0VzJHX3dkWnZ0d2NvMkpZZk9iYTJkX2NxRXVxbXhvNjFBNmZwS1A5em5ONUNkMEczQmJvdTRXMXBqTmdMMHF0SWlLLWFaWklPb3UxZ1hORUMybUZEQzlCSlBJeE9ZRFZiUE5MSG9PM0tIN3ZtR1g2ellnUFlEei1lRQ?oc=5)
-
----
-
-### [Per 11 anni fa la chemio per un tumore al cervello, poi scopre che non era cancro: «Mi ha rovinato la vita» - Il Mattino](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTldCaXItWDU5UFhtWDV4OGlWejFDWWZqZmlTbG96eDRQUmtlSGRaNjc3R3Zuc0wtNXozQ2gta0RZQ0JMQ3pCd3otWEdENmhVMjNoY0p6NElIUXpwNzVGWmJsdC05T19RVUpMWWdGUnl2LTRQMkZ4dl9Bb01DMzZxUmNxUEVLZHZsVnE3d1hSY21WRDU0X1lMTEZNX25VODhRcW9GMzh30gGrAUFVX3lxTE1kUmZzREN5Rmpya282RmxCejJ1RFNuX0MtLUdjc01TTWtSNDNteXdaWjhlRGFWRlo1TTZaWjRnODlGbDloYzUxUmZ1dnBMUmhNTnY1NjJ6ZGtfT2tUQkQ1blhOOHRvbXROa1lCZlM1OUR4TF93dm9WOTJmNzV4WGpEdVo1NU02MUFjTTNwU1ZnSkxROVN3ZWFtOFI0TUtSZ2hucURPOEhlYjJ3UQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTldCaXItWDU5UFhtWDV4OGlWejFDWWZqZmlTbG96eDRQUmtlSGRaNjc3R3Zuc0wtNXozQ2gta0RZQ0JMQ3pCd3otWEdENmhVMjNoY0p6NElIUXpwNzVGWmJsdC05T19RVUpMWWdGUnl2LTRQMkZ4dl9Bb01DMzZxUmNxUEVLZHZsVnE3d1hSY21WRDU0X1lMTEZNX25VODhRcW9GMzh30gGrAUFVX3lxTE1kUmZzREN5Rmpya282RmxCejJ1RFNuX0MtLUdjc01TTWtSNDNteXdaWjhlRGFWRlo1TTZaWjRnODlGbDloYzUxUmZ1dnBMUmhNTnY1NjJ6ZGtfT2tUQkQ1blhOOHRvbXROa1lCZlM1OUR4TF93dm9WOTJmNzV4WGpEdVo1NU02MUFjTTNwU1ZnSkxROVN3ZWFtOFI0TUtSZ2hucURPOEhlYjJ3UQ?oc=5)
-
----
-
-### [El CNAG estrena una tecnología pionera para estudiar los tumores en tres dimensiones - Gaceta Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFNjbTBPVnNNa2tKc0ZkbXBGa05RYTZpeWc1MVBXaDE1QnpaeEhBYVJuYkUxVXNNNzNCWDZGb2ZjU2dxTG5NalFEWDRjQXpyU3I0dVF4aUpTOXVwNTc5WENrWTV1Mk1ZSmhZWlhsZ0ZoaGJYZWRuZUhoTkpiLXpXV2g1RklabmtlSHV6bHFtbjdGT181VWFqaXF0R3JmVWloQ2dYTEpvcXJWYXVKaEdjX21UR0w1MnB3RFZOMzd2b0J5dw?oc=5)
-
-2026-09-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFNjbTBPVnNNa2tKc0ZkbXBGa05RYTZpeWc1MVBXaDE1QnpaeEhBYVJuYkUxVXNNNzNCWDZGb2ZjU2dxTG5NalFEWDRjQXpyU3I0dVF4aUpTOXVwNTc5WENrWTV1Mk1ZSmhZWlhsZ0ZoaGJYZWRuZUhoTkpiLXpXV2g1RklabmtlSHV6bHFtbjdGT181VWFqaXF0R3JmVWloQ2dYTEpvcXJWYXVKaEdjX21UR0w1MnB3RFZOMzd2b0J5dw?oc=5)
-
----
-
 ### [Scoperto ruolo delle cellule T regolatorie nei tumori](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUE1jT0VtYnpnT0tlVndESFdtdkdVY25NV3lQY21jVDJ5ZF9UZmtYVXV0aktkanV2aUlEck9Ga25IeVVaUDh4M25HLTNGbTZvYlo1RmlXd0MwTnJiODdRRUM2cGJuWWtLMUpocmlfdTZuaWFjQllsQXNjZlcyZnF5ZGI5OFFUdw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">tumor</span>
@@ -142,11 +198,11 @@ permalink: /news/mometasone/
 
 ---
 
-### [Los pulsos electromagnéticos reprograman macrófagos y logran la eliminación completa de tumores de mama - Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNazZ2dURYb3czY2xqNmN1eVRyNjZZNmdXWGFEa1JLRnhUTS1ObHd2bGRHTTdSdlAwX1pwUGNGZEctUERTX2VlLUY1T3BYMVMwWVEwTGxpSGcya3p6a3NaV0dHSlliZy1NTVpoTUluZkNDalRPMnB0ekpJRGdZbGtYcHFxX3JVNDdwMHJSZWY4TUdOMEVsMjFxbEpmUF9VOHpOWUNmZUpycFlxZDB3c0NyeU1n?oc=5)
+### [Los pulsos electromagnéticos reprograman macrófagos y logran la eliminación completa de tumores de mama](https://news.google.com/rss/articles/CBMisgFBVV95cUxNazZ2dURYb3czY2xqNmN1eVRyNjZZNmdXWGFEa1JLRnhUTS1ObHd2bGRHTTdSdlAwX1pwUGNGZEctUERTX2VlLUY1T3BYMVMwWVEwTGxpSGcya3p6a3NaV0dHSlliZy1NTVpoTUluZkNDalRPMnB0ekpJRGdZbGtYcHFxX3JVNDdwMHJSZWY4TUdOMEVsMjFxbEpmUF9VOHpOWUNmZUpycFlxZDB3c0NyeU1n?oc=5)
 
 2026-09-15 <span class="news-indication-tag">tumor</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNazZ2dURYb3czY2xqNmN1eVRyNjZZNmdXWGFEa1JLRnhUTS1ObHd2bGRHTTdSdlAwX1pwUGNGZEctUERTX2VlLUY1T3BYMVMwWVEwTGxpSGcya3p6a3NaV0dHSlliZy1NTVpoTUluZkNDalRPMnB0ekpJRGdZbGtYcHFxX3JVNDdwMHJSZWY4TUdOMEVsMjFxbEpmUF9VOHpOWUNmZUpycFlxZDB3c0NyeU1n?oc=5)
+來源：[gacetamedica.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNazZ2dURYb3czY2xqNmN1eVRyNjZZNmdXWGFEa1JLRnhUTS1ObHd2bGRHTTdSdlAwX1pwUGNGZEctUERTX2VlLUY1T3BYMVMwWVEwTGxpSGcya3p6a3NaV0dHSlliZy1NTVpoTUluZkNDalRPMnB0ekpJRGdZbGtYcHFxX3JVNDdwMHJSZWY4TUdOMEVsMjFxbEpmUF9VOHpOWUNmZUpycFlxZDB3c0NyeU1n?oc=5)
 
 ---
 
@@ -158,11 +214,11 @@ permalink: /news/mometasone/
 
 ---
 
-### [Desvelan los procesos que dañan el ADN en la mayoría de los cánceres de próstata - Revista Pharma Market](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJqcjA4Ui1ONWs0STZ4b1p2Z0tQSDViOFgxenhRSThlSWpHUmhWRFpYWENYMDEzWk5nRC1zYW42TV9UTmJDbW9lSkdXVTcyLTdsMW9nZDA4bXBYZy0xQkxKbWxta3VJWFRTM1Q4T0ptNUNGVHVXeXB2TGN6NTdhRnBSWGRUcU5rMWYxbjlKZmZXOW9GTm8zV1F1ekh0WXFKdklCdEU5dw?oc=5)
+### [Neue Arzneimittel zum 15. September 2026: Innovationen bei Blasenkrebs und Parkinson - Gelbe Liste](https://news.google.com/rss/articles/CBMif0FVX3lxTE5veTdGYTE5UFU4NTF0VXNVOXd1NnBBakIyTmx1b1lnRGwtRUNad1lwTlBDN2diUzJydm9PZGJZWjg5TG1UczhJYzQyQTR2NFhJRkFFWnZBX0FQSUktX3Iyd0NPNGFZSW5zXzdmOTRBaFgzbmszSVljb1lubm5QZ0E?oc=5)
 
-2026-09-15 <span class="news-indication-tag">tumor</span>
+2026-09-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJqcjA4Ui1ONWs0STZ4b1p2Z0tQSDViOFgxenhRSThlSWpHUmhWRFpYWENYMDEzWk5nRC1zYW42TV9UTmJDbW9lSkdXVTcyLTdsMW9nZDA4bXBYZy0xQkxKbWxta3VJWFRTM1Q4T0ptNUNGVHVXeXB2TGN6NTdhRnBSWGRUcU5rMWYxbjlKZmZXOW9GTm8zV1F1ekh0WXFKdklCdEU5dw?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMif0FVX3lxTE5veTdGYTE5UFU4NTF0VXNVOXd1NnBBakIyTmx1b1lnRGwtRUNad1lwTlBDN2diUzJydm9PZGJZWjg5TG1UczhJYzQyQTR2NFhJRkFFWnZBX0FQSUktX3Iyd0NPNGFZSW5zXzdmOTRBaFgzbmszSVljb1lubm5QZ0E?oc=5)
 
 ---
 
@@ -206,11 +262,11 @@ permalink: /news/mometasone/
 
 ---
 
-### [Pancreas e colon-retto: arriva la molecola a doppia azione per i “tumori freddi” - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFVMm5sdjd6OHM2VC1LR3lZNGQ0UHFrZm9DWEhFOW1RWmVlVUh3STYyM0xKUmRvTzZVajZCSG9ROEZ3S0REUmJMbERzRndBY080amxESThFQWZLby1uQ3FiMExaeGFwc1lxeTlDU2xqR0JQbzFidkVwdTZtS1dNSHJjTUV1VUJ5TnlSZWVUcGlJcjl0bDZSLWkyUzFtLVNSeU83ekx1MWdLOEJGbXc?oc=5)
+### [Tumorforschung: Studie zeigt neue Schwachstelle bei kleinzelligem Lungenkrebs](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUZNeTluT0Q3UHNsNlNfMjY0Zk1WVXo0b1lMRVFHTDZfd2xUQnRNZWNmVjh0ZjJ3V2hTTEdZeERheFl0QlU3T2RQZkxXRG1XNmduRnJUOE83cnA4RWR4RVliOUpFMVB0NUNtQTJZM2ZFZzhRQzdfbHduUVRSM05LN21VMFZVaFhNd25VOFh3OWJwZ3Nlbmc?oc=5)
 
 2026-09-14 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFVMm5sdjd6OHM2VC1LR3lZNGQ0UHFrZm9DWEhFOW1RWmVlVUh3STYyM0xKUmRvTzZVajZCSG9ROEZ3S0REUmJMbERzRndBY080amxESThFQWZLby1uQ3FiMExaeGFwc1lxeTlDU2xqR0JQbzFidkVwdTZtS1dNSHJjTUV1VUJ5TnlSZWVUcGlJcjl0bDZSLWkyUzFtLVNSeU83ekx1MWdLOEJGbXc?oc=5)
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUZNeTluT0Q3UHNsNlNfMjY0Zk1WVXo0b1lMRVFHTDZfd2xUQnRNZWNmVjh0ZjJ3V2hTTEdZeERheFl0QlU3T2RQZkxXRG1XNmduRnJUOE83cnA4RWR4RVliOUpFMVB0NUNtQTJZM2ZFZzhRQzdfbHduUVRSM05LN21VMFZVaFhNd25VOFh3OWJwZ3Nlbmc?oc=5)
 
 ---
 
@@ -230,11 +286,11 @@ permalink: /news/mometasone/
 
 ---
 
-### [Cancer de la prostate : voici combien de fois éjaculer chaque mois selon cette étude](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGRIS3dReHpBV19qWldBY3N1cUtFanU4U3ZkQV9VXzJTYk8xMllEcFNwTjZ0cWlQVDdMbkp3cWRpeUs4ai12TS1EaHFEOXV5ZjRTNEdoeS1VWWRtSlNQMWN1NlhuZFhpWlZSMTI2eFpBZlpoeGFudVAzRnZWeVlqeE1WTm5SemZEeXJhSnoxcnl1WDU5MVlfY2VZekhoR1lkZWpibzlPZm91enhQdDJvSVZHM09jTU5SSEp5bVVkX0hIM3ktME1aaTlEU3N3c2Z1TWtBQ1VSaWxwSDh3TG5VSVhrNnE?oc=5)
+### [Cancer de la prostate : voici combien de fois éjaculer chaque mois selon cette étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGRIS3dReHpBV19qWldBY3N1cUtFanU4U3ZkQV9VXzJTYk8xMllEcFNwTjZ0cWlQVDdMbkp3cWRpeUs4ai12TS1EaHFEOXV5ZjRTNEdoeS1VWWRtSlNQMWN1NlhuZFhpWlZSMTI2eFpBZlpoeGFudVAzRnZWeVlqeE1WTm5SemZEeXJhSnoxcnl1WDU5MVlfY2VZekhoR1lkZWpibzlPZm91enhQdDJvSVZHM09jTU5SSEp5bVVkX0hIM3ktME1aaTlEU3N3c2Z1TWtBQ1VSaWxwSDh3TG5VSVhrNnE?oc=5)
 
 2026-09-12 <span class="news-indication-tag">cancer</span>
 
-來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGRIS3dReHpBV19qWldBY3N1cUtFanU4U3ZkQV9VXzJTYk8xMllEcFNwTjZ0cWlQVDdMbkp3cWRpeUs4ai12TS1EaHFEOXV5ZjRTNEdoeS1VWWRtSlNQMWN1NlhuZFhpWlZSMTI2eFpBZlpoeGFudVAzRnZWeVlqeE1WTm5SemZEeXJhSnoxcnl1WDU5MVlfY2VZekhoR1lkZWpibzlPZm91enhQdDJvSVZHM09jTU5SSEp5bVVkX0hIM3ktME1aaTlEU3N3c2Z1TWtBQ1VSaWxwSDh3TG5VSVhrNnE?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGRIS3dReHpBV19qWldBY3N1cUtFanU4U3ZkQV9VXzJTYk8xMllEcFNwTjZ0cWlQVDdMbkp3cWRpeUs4ai12TS1EaHFEOXV5ZjRTNEdoeS1VWWRtSlNQMWN1NlhuZFhpWlZSMTI2eFpBZlpoeGFudVAzRnZWeVlqeE1WTm5SemZEeXJhSnoxcnl1WDU5MVlfY2VZekhoR1lkZWpibzlPZm91enhQdDJvSVZHM09jTU5SSEp5bVVkX0hIM3ktME1aaTlEU3N3c2Z1TWtBQ1VSaWxwSDh3TG5VSVhrNnE?oc=5)
 
 ---
 
@@ -246,11 +302,11 @@ permalink: /news/mometasone/
 
 ---
 
-### [Hot coffee could cause oesophageal cancer](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnROOXFSQTh6bXRNcWwxNXhjeVVXMmY0RXJOUEVFNk9WS2NaUlhRRE1UMDdLUzk2d3dBWFFzaVd2VW9PeFBFZXBfNEVFbHVTTXM3TWktdm43UHVvNC1MLTRYc3lzVGN1eWFpY2lSMVBHYmFVelY4eWE0amFEX1AydGdFWnJjODlYMkdWa0FhN1VGLXBtS09QRS1aaWRQUlVudjhr?oc=5)
+### [Hot coffee could cause oesophageal cancer - The Economist](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnROOXFSQTh6bXRNcWwxNXhjeVVXMmY0RXJOUEVFNk9WS2NaUlhRRE1UMDdLUzk2d3dBWFFzaVd2VW9PeFBFZXBfNEVFbHVTTXM3TWktdm43UHVvNC1MLTRYc3lzVGN1eWFpY2lSMVBHYmFVelY4eWE0amFEX1AydGdFWnJjODlYMkdWa0FhN1VGLXBtS09QRS1aaWRQUlVudjhr?oc=5)
 
 2026-09-11 <span class="news-indication-tag">cancer</span>
 
-來源：[economist.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnROOXFSQTh6bXRNcWwxNXhjeVVXMmY0RXJOUEVFNk9WS2NaUlhRRE1UMDdLUzk2d3dBWFFzaVd2VW9PeFBFZXBfNEVFbHVTTXM3TWktdm43UHVvNC1MLTRYc3lzVGN1eWFpY2lSMVBHYmFVelY4eWE0amFEX1AydGdFWnJjODlYMkdWa0FhN1VGLXBtS09QRS1aaWRQUlVudjhr?oc=5)
+來源：[The Economist](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnROOXFSQTh6bXRNcWwxNXhjeVVXMmY0RXJOUEVFNk9WS2NaUlhRRE1UMDdLUzk2d3dBWFFzaVd2VW9PeFBFZXBfNEVFbHVTTXM3TWktdm43UHVvNC1MLTRYc3lzVGN1eWFpY2lSMVBHYmFVelY4eWE0amFEX1AydGdFWnJjODlYMkdWa0FhN1VGLXBtS09QRS1aaWRQUlVudjhr?oc=5)
 
 ---
 
@@ -275,14 +331,6 @@ permalink: /news/mometasone/
 2026-09-09 <span class="news-indication-tag">cancer</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxOejFmOVUxcTQ4ZmNjU0oySzZtUWlqYlRZX19xaFJkQ1BndWt4bXN1ODQ0Y0hjRWZYU1V5RjRuNlQ0N3dtMzJJWkpJb2hna0E1ZlU4THM4cjlrQjJIYUFHSXZkNngzMmFVRzNpVm52bzQxOXkzVFY4N1U2clpUdDdKeDN3bWNWMjZhUmtqVGRiZWxrdDFqejlrZ0F4eW51TFJjUUpVRw?oc=5)
-
----
-
-### [Neue Studie deckt Schwachstelle im kleinzelligen Lungenkrebs auf – Therapeutischer Ansatz durch gezielte Inhibition möglich](https://news.google.com/rss/articles/CBMickFVX3lxTE1Icll2WEpUSzFxY0l3b3hyUkg3aFJiX2JzMk5QZ244WFM5eVlfbUNvODNzeWpzc1QwVGl4RF9HcWpqODQtSHF5LWlrU0F4RlYxdjA1VHJXeFBiR201NTRpWjJYZ0NkaVJSUXRuTFF0bGVTQQ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[EurekAlert!](https://news.google.com/rss/articles/CBMickFVX3lxTE1Icll2WEpUSzFxY0l3b3hyUkg3aFJiX2JzMk5QZ244WFM5eVlfbUNvODNzeWpzc1QwVGl4RF9HcWpqODQtSHF5LWlrU0F4RlYxdjA1VHJXeFBiR201NTRpWjJYZ0NkaVJSUXRuTFF0bGVTQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Fleisch statt Spritze: Kann die Keto-Diät beim Abnehmen wirklich mithalten?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFdTdGhuekRJMEczdVc4Zk1pVUtUMkdPZ1FjZllsV1RFVW14ZVZCZHBReEp5Y2xoVUNybDZVeXdGcFlkd1ZuZmlrS2psVk0zejFxelZEMTBFaWJjV3JWVlBuMGphLXhmd0FPZzdtcWV5MXpEQjNJaV9jeUpDRFNpLTl1MGc0dEV2c0V4cTlPV3JuOHVYbmdBWmxvRFJ0VlJySDJnTEthVUZpRUVGdF85VGwxX2g4dTFrMGZqa2x5Q0VHeHM?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFdTdGhuekRJMEczdVc4Zk1pVUtUMkdPZ1FjZllsV1RFVW14ZVZCZHBReEp5Y2xoVUNybDZVeXdGcFlkd1ZuZmlrS2psVk0zejFxelZEMTBFaWJjV3JWVlBuMGphLXhmd0FPZzdtcWV5MXpEQjNJaV9jeUpDRFNpLTl1MGc0dEV2c0V4cTlPV3JuOHVYbmdBWmxvRFJ0VlJySDJnTEthVUZpRUVGdF85VGwxX2g4dTFrMGZqa2x5Q0VHeHM?oc=5)
+
+---
+
+### [Revelan pistas clave sobre un tipo de obesidad poco conocida vinculada a la alteración de los ritmos hormonales - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEdZMkVNTDFOQk1tM3hNcjRsc3ptX3hRTzE1R1AzMWdqTV9KZ2h6RDZoeVNtVU1tVnhmcWJzcFhNdEFkbFFmQmswemtKRjFOZW5wMDZVa1c4ajJxZUhpMmhhRkxKaWM0M3RyRVFBaHMwNks5V2wzSnJMWTEwaUtabVpmb0Z2OTZ1dkJIUk1jSnBidjFyTlQ3elFvU3kwUmg0TWpjV0VjTDJrdGVfWDVwUzl2bGpHNTFvc3ZUYl9hN3PSAbsBQVVfeXFMUGQzUnhrZ0VKTW16SW1XN2NZSm5ZRUhyWXJHdEdzTlhLMVBiLUtGZGlrOWF3RDFGNDV0YWtGQm5MRjQ3WXZQSHg0QUtDeFdQcFZzTkZHUEVFeDk1dUo2MUZqbUtCTlZIblFOMUMwUW1ibXhaZ1JpSlU2SnVXU00xYkUtd2x0UnRLcXc5cUtuejBSR1E5WjVSZEZRa0hidTdQRG5mSk5rOS16UWN6eHZ6Qlg2cWlBS2djQk9lOA?oc=5)
+
+2026-09-16 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEdZMkVNTDFOQk1tM3hNcjRsc3ptX3hRTzE1R1AzMWdqTV9KZ2h6RDZoeVNtVU1tVnhmcWJzcFhNdEFkbFFmQmswemtKRjFOZW5wMDZVa1c4ajJxZUhpMmhhRkxKaWM0M3RyRVFBaHMwNks5V2wzSnJMWTEwaUtabVpmb0Z2OTZ1dkJIUk1jSnBidjFyTlQ3elFvU3kwUmg0TWpjV0VjTDJrdGVfWDVwUzl2bGpHNTFvc3ZUYl9hN3PSAbsBQVVfeXFMUGQzUnhrZ0VKTW16SW1XN2NZSm5ZRUhyWXJHdEdzTlhLMVBiLUtGZGlrOWF3RDFGNDV0YWtGQm5MRjQ3WXZQSHg0QUtDeFdQcFZzTkZHUEVFeDk1dUo2MUZqbUtCTlZIblFOMUMwUW1ibXhaZ1JpSlU2SnVXU00xYkUtd2x0UnRLcXc5cUtuejBSR1E5WjVSZEZRa0hidTdQRG5mSk5rOS16UWN6eHZ6Qlg2cWlBS2djQk9lOA?oc=5)
+
+---
+
+### [Descubren un mecanismo que podría ser clave para frenar el daño que la obesidad causa en el hígado](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdnVaSXFJNjVBU2tTOVotY1BGWDVhWUpieWw0dkoyZlRwRTM2aFBpLWZ3anByVTRmQUZRWi16c3gtc2xmOHYwajBKcGUtQ0pPT2lXWTZfN1JEY1RScDRSX0VGVVBXOXZsZklZUmNVTDhaLWd2ckNoYVR3UnZYMzJ0ZS11SFZ4VjM1bjNNV3ZrXzg2dk9ZWk52ZGNIckpmcGVWcjkxNkVpTjBVT193THJFMkhpX0RvcVozODdwaVBzREMyZUNyTjNiSzVZWS1KUGVEcVpBcWdhMTJkZ2Vu?oc=5)
+
+2026-09-16 <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdnVaSXFJNjVBU2tTOVotY1BGWDVhWUpieWw0dkoyZlRwRTM2aFBpLWZ3anByVTRmQUZRWi16c3gtc2xmOHYwajBKcGUtQ0pPT2lXWTZfN1JEY1RScDRSX0VGVVBXOXZsZklZUmNVTDhaLWd2ckNoYVR3UnZYMzJ0ZS11SFZ4VjM1bjNNV3ZrXzg2dk9ZWk52ZGNIckpmcGVWcjkxNkVpTjBVT193THJFMkhpX0RvcVozODdwaVBzREMyZUNyTjNiSzVZWS1KUGVEcVpBcWdhMTJkZ2Vu?oc=5)
+
+---
 
 ### [Diabète, obésité, surmortalité : « On a les pires indicateurs de santé et tout le monde s’en fout - La Voix du Nord](https://news.google.com/rss/articles/CBMizgFBVV95cUxOMFAtQlloaHZfQktKa09EdVdXZkR4bmZpd0hMUEpGX1BNcTFYd01tTWhqbGdCbjZWOEhuM1hob3hSeDBvNlI3S1AwZVdvQVRmWUs4RnFBT2s4T2lkVHdaajZESHhhRS1IekRsVVp4T0hYekIxclh3WkZPR3gxcnFpWlFqa2tqOXZ2bkVzeHhBS3g2N1hPOTB3d1ZtSjlaeVBkZHJRdGF4aHFPZzZrNzhRdE5nNk8zeXhEWGtaNko5cng2MVk0VTRZOUxLVjlMUQ?oc=5)
 
@@ -62,19 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXAtcUhFczktLTRONDZNeDU4c1VKaVdJTjZDMGQwTDZZeUxhWU1LWWJzQnl3bGhFaDRmWERyS1VobWVyZ2hfU1YxRl9Wc3RUalVvWnV3c09jbGVHc2J4MmE3cVRWZ1plamQ0SHlTTmNzLW1PaUhyam9DR0U0T2Q2S1E0Sk5HcjRkcUExa2VDRmlEWVlwdURvRmNrUDdDdXFLQVhaNmhCcm9uaF9ybmhUMkw5TV9scEh1MHJUdmN1bzVvTzloVnBQWA?oc=5)
+### [Prohibir alimentos fritos en las escuelas: ¿una buena idea?](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1A3WWpBQ0lBc1VkNHJ0ZGxLNEZrcnZOb2xYUHlCcklua2FpZ1BtT1JaTFEwZkYtRkJDUjUxaFUwZVdhd0xJMkd3eW5Ob29OUzZTTkVyMEczVm9kWlpqVlJuWWxXcE9tSGQzTmE3TFVLNHpDR1JCb3RVaXdoTC1ZR25CNm1mM3FJcFlsY3JTQ0R4ajdhUHfSAZYBQVVfeXFMTmR1S1lVSzNFQXpfdXcyZ0lJNG83ZTE3Mzd1U2M5T2xyZHZjWFRYT3B4RHJyZ09hWHVxemdyQ1gyNlM0NTIwVTdiYzY0aFFfYjkyOFlZV3lSV1pPMkZZSDNwM2dhREdWODBHOThQU3NhZU11aEs4a3pqOG5XTzdWS082WkhoZzQtaUR0WUdrQUxwejdRTmRn?oc=5)
 
-2026-09-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-15 <span class="news-indication-tag">obesidad</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXAtcUhFczktLTRONDZNeDU4c1VKaVdJTjZDMGQwTDZZeUxhWU1LWWJzQnl3bGhFaDRmWERyS1VobWVyZ2hfU1YxRl9Wc3RUalVvWnV3c09jbGVHc2J4MmE3cVRWZ1plamQ0SHlTTmNzLW1PaUhyam9DR0U0T2Q2S1E0Sk5HcjRkcUExa2VDRmlEWVlwdURvRmNrUDdDdXFLQVhaNmhCcm9uaF9ybmhUMkw5TV9scEh1MHJUdmN1bzVvTzloVnBQWA?oc=5)
-
----
-
-### [Flutter vs Fibrillation: Which Is Tied to Lower Stroke Rate?](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGFfNHpzX1FtbVEtV2tSVG9BdjZZYWFMTU1zTFRlbkUwMFpQOVpwRmgzWEtpcmRlVmpCVC1RX19ZLVNvMWE0UVgxRGN0YlNCdDVRWGRzNFpHLXRvSnp6SGpwN3h2VTgtVEpCTjBFelllNHJ4R3Zqcy1yNmRGLUZoRFViVjdKVl9wVUpOWGgxelJKVUUyTkNVd2J5aXNDWnpxOUEyTmZ0NA?oc=5)
-
-2026-09-15 <span class="news-indication-tag">stroke</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGFfNHpzX1FtbVEtV2tSVG9BdjZZYWFMTU1zTFRlbkUwMFpQOVpwRmgzWEtpcmRlVmpCVC1RX19ZLVNvMWE0UVgxRGN0YlNCdDVRWGRzNFpHLXRvSnp6SGpwN3h2VTgtVEpCTjBFelllNHJ4R3Zqcy1yNmRGLUZoRFViVjdKVl9wVUpOWGgxelJKVUUyTkNVd2J5aXNDWnpxOUEyTmZ0NA?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1A3WWpBQ0lBc1VkNHJ0ZGxLNEZrcnZOb2xYUHlCcklua2FpZ1BtT1JaTFEwZkYtRkJDUjUxaFUwZVdhd0xJMkd3eW5Ob29OUzZTTkVyMEczVm9kWlpqVlJuWWxXcE9tSGQzTmE3TFVLNHpDR1JCb3RVaXdoTC1ZR25CNm1mM3FJcFlsY3JTQ0R4ajdhUHfSAZYBQVVfeXFMTmR1S1lVSzNFQXpfdXcyZ0lJNG83ZTE3Mzd1U2M5T2xyZHZjWFRYT3B4RHJyZ09hWHVxemdyQ1gyNlM0NTIwVTdiYzY0aFFfYjkyOFlZV3lSV1pPMkZZSDNwM2dhREdWODBHOThQU3NhZU11aEs4a3pqOG5XTzdWS082WkhoZzQtaUR0WUdrQUxwejdRTmRn?oc=5)
 
 ---
 
@@ -86,14 +102,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [La obesidad puede paralizar una defensa natural contra el cáncer de mama - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
-
-2026-09-14 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
-
----
-
 ### [Quiz: Kennen Sie die aktuellen Therapien bei Adipositas?](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjdnamhNcHEzZnRlc3lDRzV2UFB5STRiR0F5TURhTGxpc25uZS16NmxoTjhNTXJWYXQ0cGdZcjhTZTBYNnFEeGFGa1FaRm13UmpYZHBnMTdrY3Z6bEFidXVTc2NCcEpLLWgyQmdYNnJJR0hqYWctRmpUVDBrYWFlcjdhcHNMQ2JDa3JZSGZZbGFUSnRxbk5OV0lrdWlKZ0RyYnEtNWVaWlhUdUVkN3pn?oc=5)
 
 2026-09-14 <span class="news-indication-tag">Adipositas</span>
@@ -102,11 +110,19 @@ permalink: /news/orlistat/
 
 ---
 
+### ["Je suis cardiologue et je ne mange jamais les aliments de cette couleur" : ils bouchent les artères et favorisent l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">AVC</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
+
+---
+
 ### [INFO RTL - Wegovy et Mounjaro : depuis leur remboursement, l'engouement pour les traitements contre l'obésité se confirme avec 86.000 boîtes prises en charge](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
 
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
+來源：[rtl.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
 
 ---
 

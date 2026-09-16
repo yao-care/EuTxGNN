@@ -54,19 +54,19 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（4 則）
 
-### [Flutter vs Fibrillation: Which Is Tied to Lower Stroke Rate?](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGFfNHpzX1FtbVEtV2tSVG9BdjZZYWFMTU1zTFRlbkUwMFpQOVpwRmgzWEtpcmRlVmpCVC1RX19ZLVNvMWE0UVgxRGN0YlNCdDVRWGRzNFpHLXRvSnp6SGpwN3h2VTgtVEpCTjBFelllNHJ4R3Zqcy1yNmRGLUZoRFViVjdKVl9wVUpOWGgxelJKVUUyTkNVd2J5aXNDWnpxOUEyTmZ0NA?oc=5)
-
-2026-09-15 <span class="news-indication-tag">stroke</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGFfNHpzX1FtbVEtV2tSVG9BdjZZYWFMTU1zTFRlbkUwMFpQOVpwRmgzWEtpcmRlVmpCVC1RX19ZLVNvMWE0UVgxRGN0YlNCdDVRWGRzNFpHLXRvSnp6SGpwN3h2VTgtVEpCTjBFelllNHJ4R3Zqcy1yNmRGLUZoRFViVjdKVl9wVUpOWGgxelJKVUUyTkNVd2J5aXNDWnpxOUEyTmZ0NA?oc=5)
-
----
-
 ### [Warum es manchen Patienten nach einem Schlaganfall besser geht als anderen - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
 
 2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
+
+---
+
+### ["Je suis cardiologue et je ne mange jamais les aliments de cette couleur" : ils bouchent les artères et favorisent l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">AVC</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
 
 ---
 

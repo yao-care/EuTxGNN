@@ -54,27 +54,51 @@ permalink: /news/nitric-oxide/
 
 ## 相關新聞（40 則）
 
-### [Zahl der Herztoten und Klinikfälle auf hohem Niveau: „Prävention als wichtigster Hebel zu wenig genutzt“ - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJUi1XbUZMX010Y3dLM1BsVk1mOVhJbnVsX2ZhcDBUT2hwd29EY0VNcGNVTzFZb0tOdXUtbXpiYkhqdld3b21uaTBZaw?oc=5)
+### [KI könnte Vorhersage von Schwangerschaftsrisiken im ersten Trimester verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWFEdk9kWEJ1YmJlSG4tdGRoUFMwM0hYNlBPaWJON1pOUXl6MlVIbWNfZjBvSGNDQmRXeXdVMDdzNEllOWFpSG94VGFMMEtCUmhGR1RJcWxseXFDLUJqYmRFTjBRV2RSWUUtZzJBNjRwMFlFSDFuMHN1UVNYSmdpaFF2UFgtN1h2MnBkOWlrNUs1VHRpUGlWRm5pV3FDcUwzeWFIV1JBV0NKTnRRbVRoZC1vWlIyTmdkTFluZ3JXRWFCR0JMSDlDbC1iUWVrMGRWOXNjMF9LVjFUeHA5d0VKUFpn?oc=5)
 
 2026-09-16 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJUi1XbUZMX010Y3dLM1BsVk1mOVhJbnVsX2ZhcDBUT2hwd29EY0VNcGNVTzFZb0tOdXUtbXpiYkhqdld3b21uaTBZaw?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWFEdk9kWEJ1YmJlSG4tdGRoUFMwM0hYNlBPaWJON1pOUXl6MlVIbWNfZjBvSGNDQmRXeXdVMDdzNEllOWFpSG94VGFMMEtCUmhGR1RJcWxseXFDLUJqYmRFTjBRV2RSWUUtZzJBNjRwMFlFSDFuMHN1UVNYSmdpaFF2UFgtN1h2MnBkOWlrNUs1VHRpUGlWRm5pV3FDcUwzeWFIV1JBV0NKTnRRbVRoZC1vWlIyTmdkTFluZ3JXRWFCR0JMSDlDbC1iUWVrMGRWOXNjMF9LVjFUeHA5d0VKUFpn?oc=5)
 
 ---
 
-### [Ernährung: Diese Essensgewohnheit könnte Männern überraschend schaden](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDZONlpkdEN1UWw0ZE1GOWhLU1NsYWNIenh2cnB4TE0xbzFYczJlLVlXaWw1OWowa2tpTGM4MHhNREpKNEdPZEloUnZBR085QmFZQXVjcEI4bUUxWFBNWFRWdHlXdm1QSXY0ekhsVExRdGpvcjRNd0hHRnVoaXJkRW0zZjUyNGpjZkFFSFVBdDgwMmgtQ2d2czBfQTBWOEZWNkYxaVB4M1VSSjc1WkhpTFdJVl9SWWNJMEstVHREeXF6VGh1Zmx5RHJJQ3Z1NHFYRkdKenlEWQ?oc=5)
+### [Middle-age disease is ‘silently’ affecting one in FIVE Brits and fuelling cancer - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
 
-2026-09-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-09-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDZONlpkdEN1UWw0ZE1GOWhLU1NsYWNIenh2cnB4TE0xbzFYczJlLVlXaWw1OWowa2tpTGM4MHhNREpKNEdPZEloUnZBR085QmFZQXVjcEI4bUUxWFBNWFRWdHlXdm1QSXY0ekhsVExRdGpvcjRNd0hHRnVoaXJkRW0zZjUyNGpjZkFFSFVBdDgwMmgtQ2d2czBfQTBWOEZWNkYxaVB4M1VSSjc1WkhpTFdJVl9SWWNJMEstVHREeXF6VGh1Zmx5RHJJQ3Z1NHFYRkdKenlEWQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
 
 ---
 
-### [Bluthochdruck durch Zucker: Welche Lebensmittel besonders schädlich sind - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVld4S1cydWFNNFpJSzJIRW8xNjQ4MlhLcUpYWTEzZjduN1NIU1Jfa2ozY0dJMGRGT0psVWZZVkhCYzA3c3lqVG5JQkFsek00VmgwcmgwZFpydUFtSmFySm5vWmpzYlFqTjRQYzI5UUVnYkdwTktFVWRIRzZNYmM5OW8yTzFFWnpDNkt4Vi16cVllX1ZTRWwwTkVJZlJLMnQyNFJFNGxhaVU4S0ptc3Jr?oc=5)
+### [Cure migliori in sala parto: progetto in Africa subsahariana riduce del 22% le morti neonatali nelle prime 24 ore](https://news.google.com/rss/articles/CBMigAJBVV95cUxQeV8ycllvcDFTYzZ0MDlqQzBva1RmcnBEUTA1ZEpLYUJUR2h0RWlVRFVUbHhIcFFSOTFsYXZ0MzA2aU4xZnRlVEVnWmRzMkxEZW5SWUp6TWNpQ05ndWl5R2xTZ1BIRHRyc3pnZXdmX2lNbTV1ZDUtbjkxZjNKU3k3ekFwSFNFVDFVc1hhbVhHbFBmUGxWazZXcm1HVTNlQU1EREotRE1hYldGRnRyV2xFNXVUMkNCaEtPU2QyZ2U3NHVTOXdBRGduU25JVDNXVVJHdlN3dHVDUFptZ09KMTBwcjVZbWhUejg4ZjIwRGF4Y2dmdjdWNEV3REJYOGdRMTJ1?oc=5)
+
+2026-09-16 <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMigAJBVV95cUxQeV8ycllvcDFTYzZ0MDlqQzBva1RmcnBEUTA1ZEpLYUJUR2h0RWlVRFVUbHhIcFFSOTFsYXZ0MzA2aU4xZnRlVEVnWmRzMkxEZW5SWUp6TWNpQ05ndWl5R2xTZ1BIRHRyc3pnZXdmX2lNbTV1ZDUtbjkxZjNKU3k3ekFwSFNFVDFVc1hhbVhHbFBmUGxWazZXcm1HVTNlQU1EREotRE1hYldGRnRyV2xFNXVUMkNCaEtPU2QyZ2U3NHVTOXdBRGduU25JVDNXVVJHdlN3dHVDUFptZ09KMTBwcjVZbWhUejg4ZjIwRGF4Y2dmdjdWNEV3REJYOGdRMTJ1?oc=5)
+
+---
+
+### [Herzbericht: Weniger Todesfälle durch Herzinfarkte - Neue Westfälische](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkRrQ0M3dXpJT2hjdzR6aExNSXRNZGF2Q3o5OWVrZmNIRlVFRVk3c2hZSEt6UC1RT3NoOF9nM0poeUJQcVQ4R0dmelZSeHhwbGZFcW01NnpBZThkNzNmS2Z4TEUtQVB4enNsS0tkNGpQeXN4TUFiWEptblpBUWhyUmtiY3ZIWmhJTTZBa0U0S3JjeW9WYzNDZnBKTy03Y2hUQzhxN0ZITldLejA?oc=5)
+
+2026-09-16 <span class="news-indication-tag">AF</span>
+
+來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkRrQ0M3dXpJT2hjdzR6aExNSXRNZGF2Q3o5OWVrZmNIRlVFRVk3c2hZSEt6UC1RT3NoOF9nM0poeUJQcVQ4R0dmelZSeHhwbGZFcW01NnpBZThkNzNmS2Z4TEUtQVB4enNsS0tkNGpQeXN4TUFiWEptblpBUWhyUmtiY3ZIWmhJTTZBa0U0S3JjeW9WYzNDZnBKTy03Y2hUQzhxN0ZITldLejA?oc=5)
+
+---
+
+### [Il diabete è una pandemia, ma si può agire prima: 26mila pazienti curati in Asst Sette Laghi - La Prealpina](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmFfVUxnYlpHb0JDaklTZ0ZaaThodkZFcHljSEZwd1VGdVV2U2hreWY0TloySUlQWDVlSVdLbllDU0x2WHNFSk9sV1FIRk5pQmFVdTBtQ2Z2RG1xVTJaX2twQ09oeW5VRHdQTmJFbG1BS2twTVQ2cE9EcVREVVVxMjA0UmJYTmZadjY4ejBFZzB5MzljOTRiR1d3MUZUd1VOSUQ5cGZxa1JvSk5xQTFKYnZnOUQ5N3RwVlpDQWRqRHd4RXhqYW1SdWJKNG41QnllZlpDYkJB?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Prealpina](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmFfVUxnYlpHb0JDaklTZ0ZaaThodkZFcHljSEZwd1VGdVV2U2hreWY0TloySUlQWDVlSVdLbllDU0x2WHNFSk9sV1FIRk5pQmFVdTBtQ2Z2RG1xVTJaX2twQ09oeW5VRHdQTmJFbG1BS2twTVQ2cE9EcVREVVVxMjA0UmJYTmZadjY4ejBFZzB5MzljOTRiR1d3MUZUd1VOSUQ5cGZxa1JvSk5xQTFKYnZnOUQ5N3RwVlpDQWRqRHd4RXhqYW1SdWJKNG41QnllZlpDYkJB?oc=5)
+
+---
+
+### [Bluthochdruck: Nüsse senken Risiko signifikant](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
 
 2026-09-16 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVld4S1cydWFNNFpJSzJIRW8xNjQ4MlhLcUpYWTEzZjduN1NIU1Jfa2ozY0dJMGRGT0psVWZZVkhCYzA3c3lqVG5JQkFsek00VmgwcmgwZFpydUFtSmFySm5vWmpzYlFqTjRQYzI5UUVnYkdwTktFVWRIRzZNYmM5OW8yTzFFWnpDNkt4Vi16cVllX1ZTRWwwTkVJZlJLMnQyNFJFNGxhaVU4S0ptc3Jr?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
 
 ---
 
@@ -86,19 +110,19 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Diabetes-Prävention: Epigenetische Veränderungen könnten den Nutzen gesunder Ernährung beeinflussen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVlXcHQ1cEJkUXR1WmNnZ0VBTDk0MENsMTVQTmtWVHBUQzBscTJwVWZpUmNTNkpKOTFDZ0NGV28yYVBZXzdSRjJuQVR4Q2FUTjlvSlg1UjhPWkxlU0NCbHJ5dEdhVzhHeFJ4cXRJRlJ5Sm85THhZc3VIdlpUdXdJVnk0THlOR2trV05qSllYYlNPcXpycWpjZmwzVWg0bGtnMHZEbWdzSW12VjNrTVl2UmxIS2pnNFZWLWJlWHByOHJmNmNEaUx3a0ZJanhpYm94VmNkbkJ3?oc=5)
-
-2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[JuraForum.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVlXcHQ1cEJkUXR1WmNnZ0VBTDk0MENsMTVQTmtWVHBUQzBscTJwVWZpUmNTNkpKOTFDZ0NGV28yYVBZXzdSRjJuQVR4Q2FUTjlvSlg1UjhPWkxlU0NCbHJ5dEdhVzhHeFJ4cXRJRlJ5Sm85THhZc3VIdlpUdXdJVnk0THlOR2trV05qSllYYlNPcXpycWpjZmwzVWg0bGtnMHZEbWdzSW12VjNrTVl2UmxIS2pnNFZWLWJlWHByOHJmNmNEaUx3a0ZJanhpYm94VmNkbkJ3?oc=5)
-
----
-
 ### [Los recortes de financiación amenazan la respuesta al VIH, la tuberculosis y la malaria pese a la resistencia de los países - Salud por Derecho](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUF4OXdhYWFmbzZHMkxtZFRiQkRXd1A5eWFiY3dfcGk0SlBkZE9lN1dTRTRNdzFhZlQ3MUJCTjM1NVloNEtBZEp5OVA3RFJyakNieVB2a3FQY3N4MWtxQmQzTUhlaEstRkVzdi1DOHdQMTVsUE84a18xd3R4ckwyQWh0S3pJNHBiNFlVYw?oc=5)
 
 2026-09-16 <span class="news-indication-tag">AF</span>
 
 來源：[Salud por Derecho](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUF4OXdhYWFmbzZHMkxtZFRiQkRXd1A5eWFiY3dfcGk0SlBkZE9lN1dTRTRNdzFhZlQ3MUJCTjM1NVloNEtBZEp5OVA3RFJyakNieVB2a3FQY3N4MWtxQmQzTUhlaEstRkVzdi1DOHdQMTVsUE84a18xd3R4ckwyQWh0S3pJNHBiNFlVYw?oc=5)
+
+---
+
+### [Sonno, dormire al buio protegge la salute del cuore: cinque regole per prevenire i rischi - Corriere della Sera](https://news.google.com/rss/articles/CBMimAJBVV95cUxOU1NIWHVQb2lCUFlPYkE5NTFBUDFDc0xoYjFmMi1sM05rZ29qZ3M0Wjgwb1B5d3JwdFpMNmcxTmVWMm92SDNlb0U3QThYc2hvNHd3N2psZjlxbUpWYnZFLVlCcGVpTV9OVW1oMjhZb25mYXJ1Rzd5LWVKMkZHX2VjcmtyTEs4dGtCSW5YSk91MWllQWhQQ2R1MklEbkZrUHZpSUgzTjE3RmROdWVQaENJMXAyZUl0WkJZeTJrNU12OEpMWXE0c1BWVno0RGpPd3NiMHR6ZjY1MUEwT1hOZE9aWFZEaUpmMjZLNXB1YnBrcm1Ja3VMX0JFLXNUaFdCVUg3ZGhlbE9FUmk3cktRbndLSWJKbS1fYmNI0gGeAkFVX3lxTE1jTmNXT3MtZWFxNW1VVkMwbWhIUG15TS1aekx1bU4wSUN4ckdFQkpFbVZfZVBRSzg2Q1lRNDJXX09ycHNVOEdESzA2VS1oWmtuYXdnVjM2dGFuTk1FWGZPc1ROc1lNZHJqUGpQTDBoZWxrYU5QbUh5QWluLWFJYUtjWnlyazZOVXVIU2Q2eEZRSjZpa0ctRjNFTjdHaFZnVWpLZVpEbzdCdjZiV2JfT3R2TVJEUU40c19qd2ZFTm9EcGw0aFpGXzgtd0UyOER6ZWJSSEdhVDdMMEowTTF2ME5nY05GeHU5UlJuYzlDUlZNTkV6YjZQdHhwRDItWXZUQ1c2dUFCNEVBUHpkUy1YcjVkMFEzaUtQalkyM3ZrUWc?oc=5)
+
+2026-09-16 <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMimAJBVV95cUxOU1NIWHVQb2lCUFlPYkE5NTFBUDFDc0xoYjFmMi1sM05rZ29qZ3M0Wjgwb1B5d3JwdFpMNmcxTmVWMm92SDNlb0U3QThYc2hvNHd3N2psZjlxbUpWYnZFLVlCcGVpTV9OVW1oMjhZb25mYXJ1Rzd5LWVKMkZHX2VjcmtyTEs4dGtCSW5YSk91MWllQWhQQ2R1MklEbkZrUHZpSUgzTjE3RmROdWVQaENJMXAyZUl0WkJZeTJrNU12OEpMWXE0c1BWVno0RGpPd3NiMHR6ZjY1MUEwT1hOZE9aWFZEaUpmMjZLNXB1YnBrcm1Ja3VMX0JFLXNUaFdCVUg3ZGhlbE9FUmk3cktRbndLSWJKbS1fYmNI0gGeAkFVX3lxTE1jTmNXT3MtZWFxNW1VVkMwbWhIUG15TS1aekx1bU4wSUN4ckdFQkpFbVZfZVBRSzg2Q1lRNDJXX09ycHNVOEdESzA2VS1oWmtuYXdnVjM2dGFuTk1FWGZPc1ROc1lNZHJqUGpQTDBoZWxrYU5QbUh5QWluLWFJYUtjWnlyazZOVXVIU2Q2eEZRSjZpa0ctRjNFTjdHaFZnVWpLZVpEbzdCdjZiV2JfT3R2TVJEUU40c19qd2ZFTm9EcGw0aFpGXzgtd0UyOER6ZWJSSEdhVDdMMEowTTF2ME5nY05GeHU5UlJuYzlDUlZNTkV6YjZQdHhwRDItWXZUQ1c2dUFCNEVBUHpkUy1YcjVkMFEzaUtQalkyM3ZrUWc?oc=5)
 
 ---
 
@@ -142,6 +166,14 @@ permalink: /news/nitric-oxide/
 
 ---
 
+### [Trauma wirkt sich je nach Geschlecht unterschiedlich auf das Gehirn aus - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oczNoRWtkaHMtaVlpekZJTExFcUNVbDJzSmE0QU9yZjRsaUNsbmdOOERaeS1udlpPaGxmQ2cxcFVtMEZhS0xfSEVYNA?oc=5)
+
+2026-09-15 <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oczNoRWtkaHMtaVlpekZJTExFcUNVbDJzSmE0QU9yZjRsaUNsbmdOOERaeS1udlpPaGxmQ2cxcFVtMEZhS0xfSEVYNA?oc=5)
+
+---
+
 ### [Un proyecto explora el uso de la fotografía instantánea para estimular la atención y la memoria emocional en personas con Alzheimer - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXBiOXpHcVJOaHdIUm10YjRKUkE2MEY5eXYyd2Vtb293LW1yMjBQQWVvVnFiZWtyTzhUOHI0VTQwQXozQjQwZWRUUGlYUWxMLVUyU0Vmc0V6dWQ5enB6ZHJuMEJ6TUQ3ZDFqcnBwdWI3aUtrM09kWTh3bXIxcWtfUENSRm9WNkRtSDN3cVdkUEd3bVJqZGgwRjQ5WVFlZE82R1hMZDE1ZDZLS3V4M1dtWkNTRHNWYTNSZm9PNGFuTTTSAbsBQVVfeXFMT2hfRnFEQm42UkUwejVsTjdnRVVyUlhONk1QNzktNDB0eS1BeXZIOFNHdkxJYVVQeld0N2Y4WExTVjhoTlBNZGZsSjlsU0M0eEhKbHh5MUNjZHh4eUZLblg4ODV2VGZ6VFNyc2RaSTVYWWUxdWNLSTByQWppdmtoOHF6eDRnQWRidzdXV1VSbnpoaGgzRTVHSm5iVDVNSXBJMXlXOUhXUld4RFNTT0hvc3ZDb2w2dlNRaWhyNA?oc=5)
 
 2026-09-15 <span class="news-indication-tag">AF</span>
@@ -158,27 +190,19 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [I went to bed to sleep off common bug… I was HOURS from death after signs missed](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjUxYjItRlo1ZTRnNFlOTC1JemU2aG5qT0R3UDc5SkRLc0N4aW9RbFVnTlFfMWp0Z1pDeEFCOE8wYzJueVotMTl1bjU0LWc0QzJ1S2owZjNocFluQVI5SkFVTHRiNFE0V1VYMUZlb3NDZ1R3UDZmdjEtcFFhQXFjamZSck1UNG53TU9zSnQ5Y2NWdw?oc=5)
+### [I went to bed to sleep off common bug… I was HOURS from death after signs missed - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjUxYjItRlo1ZTRnNFlOTC1JemU2aG5qT0R3UDc5SkRLc0N4aW9RbFVnTlFfMWp0Z1pDeEFCOE8wYzJueVotMTl1bjU0LWc0QzJ1S2owZjNocFluQVI5SkFVTHRiNFE0V1VYMUZlb3NDZ1R3UDZmdjEtcFFhQXFjamZSck1UNG53TU9zSnQ5Y2NWdw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjUxYjItRlo1ZTRnNFlOTC1JemU2aG5qT0R3UDc5SkRLc0N4aW9RbFVnTlFfMWp0Z1pDeEFCOE8wYzJueVotMTl1bjU0LWc0QzJ1S2owZjNocFluQVI5SkFVTHRiNFE0V1VYMUZlb3NDZ1R3UDZmdjEtcFFhQXFjamZSck1UNG53TU9zSnQ5Y2NWdw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjUxYjItRlo1ZTRnNFlOTC1JemU2aG5qT0R3UDc5SkRLc0N4aW9RbFVnTlFfMWp0Z1pDeEFCOE8wYzJueVotMTl1bjU0LWc0QzJ1S2owZjNocFluQVI5SkFVTHRiNFE0V1VYMUZlb3NDZ1R3UDZmdjEtcFFhQXFjamZSck1UNG53TU9zSnQ5Y2NWdw?oc=5)
 
 ---
 
-### [Wie der Transporter SLC26A11 das Recycling in den Zellen in Gehirn und Niere ermöglicht - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xX3JRRml5OUN0M2Y4Nm03WmNpeTd6RVFzUVM4bHk5SEI2Zm14MzVYOXlHSm1BNEdTRWk5ZjRQTnk5SDlNMktfbnVPVQ?oc=5)
+### [Wie der Transporter SLC26A11 das Recycling in den Zellen in Gehirn und Niere ermöglicht - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE40aW9FNGZsckVQYXlNbkhzaWh2azYzM0lMMWJBYTh3VTIzMG9nOGJfVXNQdEFqTWxvZGZtaXdHVHhrNVhKTkp5Tk9Zaw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xX3JRRml5OUN0M2Y4Nm03WmNpeTd6RVFzUVM4bHk5SEI2Zm14MzVYOXlHSm1BNEdTRWk5ZjRQTnk5SDlNMktfbnVPVQ?oc=5)
-
----
-
-### [Zelltherapie mit Fresszellen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uamN1LWdjUlZOVWFPaEg1a3BmakhEbkdsUG5WSW42WG9yRFd3cXR0amc3LU5FSjNJQ1hCOTJwcUN5aVY3cGRzUFUzWQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uamN1LWdjUlZOVWFPaEg1a3BmakhEbkdsUG5WSW42WG9yRFd3cXR0amc3LU5FSjNJQ1hCOTJwcUN5aVY3cGRzUFUzWQ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE40aW9FNGZsckVQYXlNbkhzaWh2azYzM0lMMWJBYTh3VTIzMG9nOGJfVXNQdEFqTWxvZGZtaXdHVHhrNVhKTkp5Tk9Zaw?oc=5)
 
 ---
 
@@ -194,7 +218,7 @@ permalink: /news/nitric-oxide/
 
 2026-09-15 <span class="news-indication-tag">AF</span>
 
-來源：[LaSexta](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSXFOTmk0UUdKaDUyaDBhcVZBUzJ3Mkl2VTJNZ19PSm9DTUl4eEZ2X2lGdGVoZDBEdmJlcEFzUERvRVB3cHNFY1Q4Rmp1Z0hCVHNfVWZ1YTZuQkRScUtSLTlQRHl4WFY3U2RGZ3U1OEZ2VXdDS081aTFWb0FfQXlyZENjZU1tYW1fTWU0ejE1NW1WenVqQjAyemhSUEExRzROZGNfTE1HQUhzNHZ3c0w4bjF5cF90Zkt0aHZ3ejdkTVpRNU9WT3RPUzJMMnoyclVjWUh2cFc5em41LXdJZlEtN1RNNG15VWxYM1BrWtIB7AFBVV95cUxOUnpBWjRfZXF6QnZySTRfQUZ1Rlo3V09iMFBuZUd0a09xWHcwYXVwTVhjSElKdGJtaTBqZTNQSV9ISUdJZ0VwWWpQNXU1dG5UMzFiaWZlMkdBOFhXQTQzTjgtaHVDa1pvbzljT2x2WUFYZGtsTFl1ek85alpoNWk3NGl2bDEzOHdoQnh1Nm9aNWxZSHdEcHZYMERKTGkwT2RoMDNTRHZ5UkZOd2l3SEV6R1BSUFNmcGFhVFhBem41ZU1sQ001c2xiblZUT0xub0hrSmtndTFyY0xCV3BPdUJ1MXRTdUJBQnZJZ0IxQg?oc=5)
+來源：[lasexta.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSXFOTmk0UUdKaDUyaDBhcVZBUzJ3Mkl2VTJNZ19PSm9DTUl4eEZ2X2lGdGVoZDBEdmJlcEFzUERvRVB3cHNFY1Q4Rmp1Z0hCVHNfVWZ1YTZuQkRScUtSLTlQRHl4WFY3U2RGZ3U1OEZ2VXdDS081aTFWb0FfQXlyZENjZU1tYW1fTWU0ejE1NW1WenVqQjAyemhSUEExRzROZGNfTE1HQUhzNHZ3c0w4bjF5cF90Zkt0aHZ3ejdkTVpRNU9WT3RPUzJMMnoyclVjWUh2cFc5em41LXdJZlEtN1RNNG15VWxYM1BrWtIB7AFBVV95cUxOUnpBWjRfZXF6QnZySTRfQUZ1Rlo3V09iMFBuZUd0a09xWHcwYXVwTVhjSElKdGJtaTBqZTNQSV9ISUdJZ0VwWWpQNXU1dG5UMzFiaWZlMkdBOFhXQTQzTjgtaHVDa1pvbzljT2x2WUFYZGtsTFl1ek85alpoNWk3NGl2bDEzOHdoQnh1Nm9aNWxZSHdEcHZYMERKTGkwT2RoMDNTRHZ5UkZOd2l3SEV6R1BSUFNmcGFhVFhBem41ZU1sQ001c2xiblZUT0xub0hrSmtndTFyY0xCV3BPdUJ1MXRTdUJBQnZJZ0IxQg?oc=5)
 
 ---
 
@@ -222,27 +246,27 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [El CNAG estrena una tecnología pionera para estudiar los tumores en tres dimensiones - Gaceta Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFNjbTBPVnNNa2tKc0ZkbXBGa05RYTZpeWc1MVBXaDE1QnpaeEhBYVJuYkUxVXNNNzNCWDZGb2ZjU2dxTG5NalFEWDRjQXpyU3I0dVF4aUpTOXVwNTc5WENrWTV1Mk1ZSmhZWlhsZ0ZoaGJYZWRuZUhoTkpiLXpXV2g1RklabmtlSHV6bHFtbjdGT181VWFqaXF0R3JmVWloQ2dYTEpvcXJWYXVKaEdjX21UR0w1MnB3RFZOMzd2b0J5dw?oc=5)
-
-2026-09-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFNjbTBPVnNNa2tKc0ZkbXBGa05RYTZpeWc1MVBXaDE1QnpaeEhBYVJuYkUxVXNNNzNCWDZGb2ZjU2dxTG5NalFEWDRjQXpyU3I0dVF4aUpTOXVwNTc5WENrWTV1Mk1ZSmhZWlhsZ0ZoaGJYZWRuZUhoTkpiLXpXV2g1RklabmtlSHV6bHFtbjdGT181VWFqaXF0R3JmVWloQ2dYTEpvcXJWYXVKaEdjX21UR0w1MnB3RFZOMzd2b0J5dw?oc=5)
-
----
-
-### [Influenza, stagione in anticipo? Già diversi casi di polmonite, Andreoni: «Sbalzi termici e ritorno dalle vacanze, così le infenzioni... - Il Messaggero](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmhXeDVtQU83c3ZEU296UXJPLWlwbnBiUjAtTWVBRDNfYjZNcm5Ic2pucG12ZVJwN0pMQlVlTHlJM1cyQnBvY045eDJ5ODRMVDUxek1fLU52MWVtWkZaV293bndqZTlTZXY4OXQzMmdGbmNDX3pwbGlOQlJtWGFoTi0tYjV1MzhWQTByQVpJd1BaVTNjaHN1cVpOcjJYMWdDWlQtajhQeURETXB2N0xZTlB2NU5nOFdsNG5TS3FnYUdRZ9IBxwFBVV95cUxPLU5PZHZHeXd0d09jLWV1Q0RjcFQxYTZ0SW1SVFJvWWtXWkgwVlBYLTl3Q004dGFEWnB5M1hrMU90elJMbWVua01ELWZLcllDQVN4dHZYMmtGWEQ2aVRVMWp3ZzJaT0RSQ041RThmN2kzcFg5eXFjc05SbUNUZ2puNUk4aWp4OEhYT0hTY0xUa2lWeENhSVFLU1hzT1pIcEY4aURyUjFCSXdkNVZDeDFzY1RoVzU5ck9ZRnM3V2d3OUZZemFRZ1dZ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">AF</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmhXeDVtQU83c3ZEU296UXJPLWlwbnBiUjAtTWVBRDNfYjZNcm5Ic2pucG12ZVJwN0pMQlVlTHlJM1cyQnBvY045eDJ5ODRMVDUxek1fLU52MWVtWkZaV293bndqZTlTZXY4OXQzMmdGbmNDX3pwbGlOQlJtWGFoTi0tYjV1MzhWQTByQVpJd1BaVTNjaHN1cVpOcjJYMWdDWlQtajhQeURETXB2N0xZTlB2NU5nOFdsNG5TS3FnYUdRZ9IBxwFBVV95cUxPLU5PZHZHeXd0d09jLWV1Q0RjcFQxYTZ0SW1SVFJvWWtXWkgwVlBYLTl3Q004dGFEWnB5M1hrMU90elJMbWVua01ELWZLcllDQVN4dHZYMmtGWEQ2aVRVMWp3ZzJaT0RSQ041RThmN2kzcFg5eXFjc05SbUNUZ2puNUk4aWp4OEhYT0hTY0xUa2lWeENhSVFLU1hzT1pIcEY4aURyUjFCSXdkNVZDeDFzY1RoVzU5ck9ZRnM3V2d3OUZZemFRZ1dZ?oc=5)
-
----
-
 ### [Mütterlicher BMI in der Schwangerschaft könnte kardiovaskuläres Risiko der Kinder beeinflussen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPck5OaDNjN3RuSkQwSG9SeldGYUNkOGhkNWM2M0pNNi0zNlpPMzYxT1dudWZPRFRZYlhoMWlRQ01LUEItRm9rbktEaVhDa3gyQVNJM0dGMk9veE55di1TUkFUdEZqZm12VnZwSXB4eWhwaEFJSGFOQkdEWDFjNUQtdVk0RGN3eDNfdDhJa01pel9hUFBOeU0wNnI4NWVORVVuejd6ZWI3d3F4YzZzN1RWYk9tcUU5aGZ2Mm13bjRQZ01DYW5YbDFORFZNZFBmZ0RLTnY4UDNtT0VDVDl1cXZTSHNJMGt2djNzS21ZQkJMenZfeDhzN0E?oc=5)
 
 2026-09-15 <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPck5OaDNjN3RuSkQwSG9SeldGYUNkOGhkNWM2M0pNNi0zNlpPMzYxT1dudWZPRFRZYlhoMWlRQ01LUEItRm9rbktEaVhDa3gyQVNJM0dGMk9veE55di1TUkFUdEZqZm12VnZwSXB4eWhwaEFJSGFOQkdEWDFjNUQtdVk0RGN3eDNfdDhJa01pel9hUFBOeU0wNnI4NWVORVVuejd6ZWI3d3F4YzZzN1RWYk9tcUU5aGZ2Mm13bjRQZ01DYW5YbDFORFZNZFBmZ0RLTnY4UDNtT0VDVDl1cXZTSHNJMGt2djNzS21ZQkJMenZfeDhzN0E?oc=5)
+
+---
+
+### [Deutsche Leberstiftung zum Weltkindertag: Gesunde Leber, starke Zukunft – Prävention beginnt im Kindesalter - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtOWFnanJnbm1WejhUNWt3WDF0LVB4bkxvRjFxVlhTVUNlSVJ1M3Q1RlBBZ3c5bUhmeWxNV1BldE5qTmd3ZW1wRHBNNA?oc=5)
+
+2026-09-15 <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtOWFnanJnbm1WejhUNWt3WDF0LVB4bkxvRjFxVlhTVUNlSVJ1M3Q1RlBBZ3c5bUhmeWxNV1BldE5qTmd3ZW1wRHBNNA?oc=5)
+
+---
+
+### [Dresdner Forschende entwickeln lokal betriebenen KI-Agenten zur verlässlichen Unterstützung medizinischer Entscheidungen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNczFGazFacmNvQUZzNmZZalBUM3pYQjFJMmdnam1vWWN0ckhhQ3VBRGZ3bVNTdEt2cTJTZElpRGExN2dTckR3b0JaYmRQOEZRbnBLZ2xMTXhKelJQTS1zSzhLX1RKV3BlR2lObDFhc0tnTnp6Y2dVRW5TeGdXeHZocEFMbFBtZmlIQm4xMWNwYTExSjdBeTdCWjRPSFVYU3pKUG9POGlxZ2syVTF5c2hoYjZUSkhBU1NrNV84bmVCX28tNjJPbnRMamhmc1hkTXZDLVNmVGpqVQ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">AF</span>
+
+來源：[E-HEALTH-COM](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNczFGazFacmNvQUZzNmZZalBUM3pYQjFJMmdnam1vWWN0ckhhQ3VBRGZ3bVNTdEt2cTJTZElpRGExN2dTckR3b0JaYmRQOEZRbnBLZ2xMTXhKelJQTS1zSzhLX1RKV3BlR2lObDFhc0tnTnp6Y2dVRW5TeGdXeHZocEFMbFBtZmlIQm4xMWNwYTExSjdBeTdCWjRPSFVYU3pKUG9POGlxZ2syVTF5c2hoYjZUSkhBU1NrNV84bmVCX28tNjJPbnRMamhmc1hkTXZDLVNmVGpqVQ?oc=5)
 
 ---
 
@@ -262,14 +286,6 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Luftverschmutzung lässt die Sehkraft schwinden - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQjdRdU5XR1hncjNwajUteDBxTGJRUGs2eG95ZVFEcF90YVR3Qm5pazZRMUtVbUNxNmVTUUJ4U2s5c211WG5XSFQxZGI3bGRpbnFQMVJIbUdoS2V1TG1ubWphZER0THZ3YkZGNXVRQ092OWFWelR6VTlOT3VZanJIUmt4WW1SQQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQjdRdU5XR1hncjNwajUteDBxTGJRUGs2eG95ZVFEcF90YVR3Qm5pazZRMUtVbUNxNmVTUUJ4U2s5c211WG5XSFQxZGI3bGRpbnFQMVJIbUdoS2V1TG1ubWphZER0THZ3YkZGNXVRQ092OWFWelR6VTlOT3VZanJIUmt4WW1SQQ?oc=5)
-
----
-
 ### [New Northamptonshire high blood pressure service being rolled out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 2026-09-15 <span class="news-indication-tag">high blood pressure</span>
@@ -278,11 +294,11 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Hull healthcare worker urges young people not to suffer in silence after life-changing hip surgery](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEhBR3I5dTNHcl9sMk9FSFYtNi13SVVOV0VjOEVBLXU2NmNvTnMzVF80Mnd5SVI0M3liSElGdDBTOUlNNlhGMGlLdWU4VmtLZWpsWjBTdllUbmRkcFloSEh2dml1U2lTa0hqOUVhZmdvcHdLdDRkd0tTXy0teWpFdFFhZkdOQVRER2VaRzU1WXZ2TlRfMmVjRjZtSGh6QkU1dThISHVTY2Q?oc=5)
+### [Hull healthcare worker urges young people not to suffer in silence after life-changing hip surgery - Hull Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEhBR3I5dTNHcl9sMk9FSFYtNi13SVVOV0VjOEVBLXU2NmNvTnMzVF80Mnd5SVI0M3liSElGdDBTOUlNNlhGMGlLdWU4VmtLZWpsWjBTdllUbmRkcFloSEh2dml1U2lTa0hqOUVhZmdvcHdLdDRkd0tTXy0teWpFdFFhZkdOQVRER2VaRzU1WXZ2TlRfMmVjRjZtSGh6QkU1dThISHVTY2TSAa4BQVVfeXFMTnBYOW9NVXVncXlCM1FLQlVFbFpzSGZ3V3ZvRjF1QWt2NWhfNkR2QjQ2d0ZTYjNFeUdnZFRWeHVqejZNaExmZGs1dThzQ25FRUstNFJXaHViX2ZONTNhTjA4dXhSa3MwLTdld2xnWHB0d25BVFgzNlpKY1E3dDBxRVF6RXVqTHBFZlVJbjVhNUZGSWdDOUN2cXZoRVpZQmdLU2ppUGN4clZqR3labEFB?oc=5)
 
 2026-09-15 <span class="news-indication-tag">AF</span>
 
-來源：[hulldailymail.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEhBR3I5dTNHcl9sMk9FSFYtNi13SVVOV0VjOEVBLXU2NmNvTnMzVF80Mnd5SVI0M3liSElGdDBTOUlNNlhGMGlLdWU4VmtLZWpsWjBTdllUbmRkcFloSEh2dml1U2lTa0hqOUVhZmdvcHdLdDRkd0tTXy0teWpFdFFhZkdOQVRER2VaRzU1WXZ2TlRfMmVjRjZtSGh6QkU1dThISHVTY2Q?oc=5)
+來源：[Hull Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEhBR3I5dTNHcl9sMk9FSFYtNi13SVVOV0VjOEVBLXU2NmNvTnMzVF80Mnd5SVI0M3liSElGdDBTOUlNNlhGMGlLdWU4VmtLZWpsWjBTdllUbmRkcFloSEh2dml1U2lTa0hqOUVhZmdvcHdLdDRkd0tTXy0teWpFdFFhZkdOQVRER2VaRzU1WXZ2TlRfMmVjRjZtSGh6QkU1dThISHVTY2TSAa4BQVVfeXFMTnBYOW9NVXVncXlCM1FLQlVFbFpzSGZ3V3ZvRjF1QWt2NWhfNkR2QjQ2d0ZTYjNFeUdnZFRWeHVqejZNaExmZGs1dThzQ25FRUstNFJXaHViX2ZONTNhTjA4dXhSa3MwLTdld2xnWHB0d25BVFgzNlpKY1E3dDBxRVF6RXVqTHBFZlVJbjVhNUZGSWdDOUN2cXZoRVpZQmdLU2ppUGN4clZqR3labEFB?oc=5)
 
 ---
 
@@ -302,27 +318,11 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Scientists find a hidden cause of high blood pressure that routine tests can miss](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
-
----
-
-### [Wie ein Protein die Zellmembran formt](https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjIyVlc2MHdVSEdqcU0yV2VQcmllQ2pzd3FEWVB1WUhxd0Rnb3Z0R3BDcEc4Q01mWTJvVnRYbm80ZGNfREcycHJiT0NId3FxcTZvSHhEaVYzeHloOC1UUERPRGV0bnhUT2tLR0JscDZKSkFJYk9udWgtVDJqaE92a0xSRV8?oc=5)
+### [Wie ein Protein die Zellmembran formt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04Tm90c1QxaTJHV1NhQ1pHYkVta0lRMzNTUnlRYjBxd0xFWnlWYkdNLVNXbzRPYUFEZ01lNjVPSzMzVjJ1eW5rbG5Maw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[JuraForum.de](https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjIyVlc2MHdVSEdqcU0yV2VQcmllQ2pzd3FEWVB1WUhxd0Rnb3Z0R3BDcEc4Q01mWTJvVnRYbm80ZGNfREcycHJiT0NId3FxcTZvSHhEaVYzeHloOC1UUERPRGV0bnhUT2tLR0JscDZKSkFJYk9udWgtVDJqaE92a0xSRV8?oc=5)
-
----
-
-### [Women and girls being ‘missed’ from ADHD diagnoses after ‘underfunding’ - STV News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVRDNzZXRy03cENUU3pkRWtFNmpmQ2RRcmJLSzNNcWZsRlNlMC1ndDg5YXdGeGxLbVV4RjlxVU9Pd1ZLcGpBZWl4NUg3YzU1eVNIbE0zanRyLVE3SkRYb3AwSXQzOTZ4ZWVlRmNDdzg0a0wwMnV2Nnk3UGNtWEsxTHl1d3VVSXBCSHE0T05ibXVrTTl3TFBrVnBwLU0?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVRDNzZXRy03cENUU3pkRWtFNmpmQ2RRcmJLSzNNcWZsRlNlMC1ndDg5YXdGeGxLbVV4RjlxVU9Pd1ZLcGpBZWl4NUg3YzU1eVNIbE0zanRyLVE3SkRYb3AwSXQzOTZ4ZWVlRmNDdzg0a0wwMnV2Nnk3UGNtWEsxTHl1d3VVSXBCSHE0T05ibXVrTTl3TFBrVnBwLU0?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04Tm90c1QxaTJHV1NhQ1pHYkVta0lRMzNTUnlRYjBxd0xFWnlWYkdNLVNXbzRPYUFEZ01lNjVPSzMzVjJ1eW5rbG5Maw?oc=5)
 
 ---
 
