@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Dementia drugs made in UK but denied on NHS - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTRBT2Z1UlJ1X2hESGpiWWtCVXU3aTBEaHFLM2UtUFdjZ2hnZlIzNFpwR1VfYTE2b3BiU09tUzRFeVE5UnBjUFJLOTRQSmhfMnIzeU1wX0ZqTVN4QmhKME5sR0s2VzdNaWZSOURaWGtMNGdSVWRPT2psVGMyWGZIM3NVRnlwNHFqWmU3Zkxid3N4QQ?oc=5)
+
+2026-09-16
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTRBT2Z1UlJ1X2hESGpiWWtCVXU3aTBEaHFLM2UtUFdjZ2hnZlIzNFpwR1VfYTE2b3BiU09tUzRFeVE5UnBjUFJLOTRQSmhfMnIzeU1wX0ZqTVN4QmhKME5sR0s2VzdNaWZSOURaWGtMNGdSVWRPT2psVGMyWGZIM3NVRnlwNHFqWmU3Zkxid3N4QQ?oc=5)
+
+---
 
 ### [Doctor says early dementia warning sign appears 15 years prior - what to look for - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [The 7 common NHS drugs that raise dementia risk - as docs ‘prescribing meds to millions without warning them’ - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
+### [The 7 common NHS drugs that raise dementia risk - as docs ‘prescribing meds to millions without warning them’](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
 
 2026-09-14
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
 
 ---
 

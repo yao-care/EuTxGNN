@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+### [Abnehm-Spritze: Hilft Semaglutid auch bei Asthma und COPD?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
 
-2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/regadenoson/
 2026-09-15 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
+
+---
+
+### [Bauernhofeffekt: Stallbakterien könnten vor kindlichem Asthma schützen - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
 
 ---
 

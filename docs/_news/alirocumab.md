@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [CKDu in Texas: Unklare Nierenerkrankung trifft junge Landarbeiter - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWURPazlPRDBjTmR4WERmZ0J1alBQUF84SlpFQjlOV1hNX2d3QUlIak5LTHhOM3lsU2lWMzNURVlmT0d3ZGUwVUJrLU1RTzVuSEZwNHZhZFhLRGdOUnF0RkZvdnRocVc4UnNZSWJQOW04Qzl5cHlaSmliT3liYmdnSkx6T1o0YmpVTVZNdDFPZGk3ZWZqSzRFeEU5Q2o?oc=5)
-
-2026-09-15 <span class="news-indication-tag">CKD</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWURPazlPRDBjTmR4WERmZ0J1alBQUF84SlpFQjlOV1hNX2d3QUlIak5LTHhOM3lsU2lWMzNURVlmT0d3ZGUwVUJrLU1RTzVuSEZwNHZhZFhLRGdOUnF0RkZvdnRocVc4UnNZSWJQOW04Qzl5cHlaSmliT3liYmdnSkx6T1o0YmpVTVZNdDFPZGk3ZWZqSzRFeEU5Q2o?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### ["Black-market steroids ruined my life" Powerlifter calls for crackdown on dangerous gym culture - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVUSjkta3Jncmg0MFcwOVhRRkwzWmRfT0s3WmVoVFlkSWRpS1lhTmdKQVNWOV9ocW1IM1ZleTJfaUNlTE00MEZSMHNLcVk5dnBaeTg4UFpINjcxOVdCcFlqV1VTYlNMMndDckV6WG1VSnNlQkxXVmNJWmlnVlpUZVNmYlFKX0U4dmFwMS1zNmw0TUYwcVHSAZsBQVVfeXFMTkVGWEgyZDQ5X0RCRHF0Z1ZqU3dvdTRpcVRHQjVGUzlZc1dDYThHR3dMMTY4MU8xLU8tVnhKZjRiblc2aTM5aWJ6Y1ZkUDFRUjgtcGFzOE80d1pCUXFxZDJJeEhWWmpXd3pKbDFLamwzSkFlN3RFbGRQeWNLSDNjUHYzUW56MThFX0ZfZ1NIak1YdkltY2FWcW91LUk?oc=5)
 

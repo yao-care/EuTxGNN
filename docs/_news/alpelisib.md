@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="Alpelisib 有什麼相關新聞？">
-<strong>Alpelisib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alpelisib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/alpelisib/
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [Ernährung: Diese Essensgewohnheit könnte Männern überraschend schaden](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDZONlpkdEN1UWw0ZE1GOWhLU1NsYWNIenh2cnB4TE0xbzFYczJlLVlXaWw1OWowa2tpTGM4MHhNREpKNEdPZEloUnZBR085QmFZQXVjcEI4bUUxWFBNWFRWdHlXdm1QSXY0ekhsVExRdGpvcjRNd0hHRnVoaXJkRW0zZjUyNGpjZkFFSFVBdDgwMmgtQ2d2czBfQTBWOEZWNkYxaVB4M1VSSjc1WkhpTFdJVl9SWWNJMEstVHREeXF6VGh1Zmx5RHJJQ3Z1NHFYRkdKenlEWQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDZONlpkdEN1UWw0ZE1GOWhLU1NsYWNIenh2cnB4TE0xbzFYczJlLVlXaWw1OWowa2tpTGM4MHhNREpKNEdPZEloUnZBR085QmFZQXVjcEI4bUUxWFBNWFRWdHlXdm1QSXY0ekhsVExRdGpvcjRNd0hHRnVoaXJkRW0zZjUyNGpjZkFFSFVBdDgwMmgtQ2d2czBfQTBWOEZWNkYxaVB4M1VSSjc1WkhpTFdJVl9SWWNJMEstVHREeXF6VGh1Zmx5RHJJQ3Z1NHFYRkdKenlEWQ?oc=5)
+
+---
+
+### [Bluthochdruck durch Zucker: Welche Lebensmittel besonders schädlich sind - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVld4S1cydWFNNFpJSzJIRW8xNjQ4MlhLcUpYWTEzZjduN1NIU1Jfa2ozY0dJMGRGT0psVWZZVkhCYzA3c3lqVG5JQkFsek00VmgwcmgwZFpydUFtSmFySm5vWmpzYlFqTjRQYzI5UUVnYkdwTktFVWRIRzZNYmM5OW8yTzFFWnpDNkt4Vi16cVllX1ZTRWwwTkVJZlJLMnQyNFJFNGxhaVU4S0ptc3Jr?oc=5)
+
+2026-09-16 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVld4S1cydWFNNFpJSzJIRW8xNjQ4MlhLcUpYWTEzZjduN1NIU1Jfa2ozY0dJMGRGT0psVWZZVkhCYzA3c3lqVG5JQkFsek00VmgwcmgwZFpydUFtSmFySm5vWmpzYlFqTjRQYzI5UUVnYkdwTktFVWRIRzZNYmM5OW8yTzFFWnpDNkt4Vi16cVllX1ZTRWwwTkVJZlJLMnQyNFJFNGxhaVU4S0ptc3Jr?oc=5)
+
+---
+
+### [Cholesterol, weight, blood sugar and blood pressure drop with one food change - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+2026-09-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+---
 
 ### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
 
@@ -70,27 +94,19 @@ permalink: /news/alpelisib/
 
 ---
 
-### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
-
-2026-09-15 <span class="news-indication-tag">artrite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
-
----
-
-### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+### [Mehr Möglichkeiten für Menschen mit rheumatoider Arthritis.](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
 
 2026-09-15 <span class="news-indication-tag">arthritis</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
 
 ---
 
-### [Schlafmangel: Dauerhafter Schlafmangel erhöht Bluthochdruck-Risiko um 60%](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBWSE5RanFXcHB6dGtWak9qRjZaSFBFT292a2J4ZWhkbG1IdWtQdG03WUxKSldoNWNZNzh6SVlxZFR0Z2lxbUl2XzlrSGUtODVBWWJNWURCa1dpTWx4cElsN2xDWjc0M1lKbHI2NWZFRFlWdUt0MGxnS0FxeUVrVHVOU0pPRlMxNVNZSUl4aWFvM3BabnZwajB0Sk9GTXhlSlZ4X3I0cTlnWXBjc0JKX0dLUFdtYjV1SG1qbnJn?oc=5)
+### [New Northamptonshire high blood pressure service being rolled out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
-2026-09-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBWSE5RanFXcHB6dGtWak9qRjZaSFBFT292a2J4ZWhkbG1IdWtQdG03WUxKSldoNWNZNzh6SVlxZFR0Z2lxbUl2XzlrSGUtODVBWWJNWURCa1dpTWx4cElsN2xDWjc0M1lKbHI2NWZFRFlWdUt0MGxnS0FxeUVrVHVOU0pPRlMxNVNZSUl4aWFvM3BabnZwajB0Sk9GTXhlSlZ4X3I0cTlnWXBjc0JKX0dLUFdtYjV1SG1qbnJn?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 
@@ -102,14 +118,6 @@ permalink: /news/alpelisib/
 
 ---
 
-### [Artrite reumatoide, con le CAR-T spegneremo la reazione anomala dell’organismo nelle forme gravissime](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">artrite</span>
-
-來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
-
----
-
 ### [Brits urged to eat one fruit to slash risk of heart disease - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">heart disease</span>
@@ -118,27 +126,11 @@ permalink: /news/alpelisib/
 
 ---
 
-### [Bluthochdruck: Nüsse senken das Risiko signifikant](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
-
----
-
 ### [Hypertension : 4 signes inattendus le matin !](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 2026-09-14 <span class="news-indication-tag">hypertension</span>
 
 來源：[Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
-
----
-
-### [The hidden risk to your heart from sleeping in low light - Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
-
-2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
-
-來源：[Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "artrite（arthritis） 相關新聞"
+title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artrite（arthritis） 的相關健康新聞報導。3 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# artrite（arthritis） 相關新聞
+# arthritis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
-<strong>artrite（arthritis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
+<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「artrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,29 +101,13 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
-
-2026-09-15
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
-
----
-
-### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+### [Mehr Möglichkeiten für Menschen mit rheumatoider Arthritis.](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
 
 2026-09-15
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
-
----
-
-### [Artrite reumatoide, con le CAR-T spegneremo la reazione anomala dell’organismo nelle forme gravissime](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
-
-2026-09-14
-
-來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
 
 ---
 

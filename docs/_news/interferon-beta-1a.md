@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（16 則）
+
+### [Diashow zu IGeL-Leistungen: Welche überzeugen – und welche umstritten sind](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmNJMV82TVZDaWhScFdyaTBnS3FJcXB2X3h5VjJQSkI3QlB6ZEQ0TDZlaVBqTW1vSlNzc3k3RnhHc19BaDZ4VEV1NjVkaGZ0ckh3NEVocGJUb29wMmpQQVNSTW5Ib0U2bklDVmUtYmVZUHpmek1pYWh3SVplbk1vQTlvSnBrTWdXdDctVVE2RGEwSXg4WUZvVDRKdlRFUnc?oc=5)
+
+2026-09-16 <span class="news-indication-tag">MS</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmNJMV82TVZDaWhScFdyaTBnS3FJcXB2X3h5VjJQSkI3QlB6ZEQ0TDZlaVBqTW1vSlNzc3k3RnhHc19BaDZ4VEV1NjVkaGZ0ckh3NEVocGJUb29wMmpQQVNSTW5Ib0U2bklDVmUtYmVZUHpmek1pYWh3SVplbk1vQTlvSnBrTWdXdDctVVE2RGEwSXg4WUZvVDRKdlRFUnc?oc=5)
+
+---
+
+### [Abnehm-Spritze: Hilft Semaglutid auch bei Asthma und COPD?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
+
+2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
+
+---
+
+### [Pankreaskarzinom: Vorhersage der wirksamsten Chemotherapie - JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTVQUEp1MW1nRmJwMThfRzAtcmNyVUdYdmZIZ1ZBdXFZSXY0OXl0RG82MjRxTnZHLXh3U2ZvYldNMkxRYVVuZE9jdmtfbFg4SXFkNVU2OW9HSm1DWTIzTTZVcTJZSkQ1WDg1NzRSc0hTZlVvT2oxWUd1QmxUWFN6M0lPWXNPRTdMa3k2TEd0LTB3YUdOWHcwNzFTcTI2ak5Gb0tF?oc=5)
+
+2026-09-16 <span class="news-indication-tag">MS</span>
+
+來源：[JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTVQUEp1MW1nRmJwMThfRzAtcmNyVUdYdmZIZ1ZBdXFZSXY0OXl0RG82MjRxTnZHLXh3U2ZvYldNMkxRYVVuZE9jdmtfbFg4SXFkNVU2OW9HSm1DWTIzTTZVcTJZSkQ1WDg1NzRSc0hTZlVvT2oxWUd1QmxUWFN6M0lPWXNPRTdMa3k2TEd0LTB3YUdOWHcwNzFTcTI2ak5Gb0tF?oc=5)
+
+---
+
+### [MS-Forschung: Neue Galectine-Therapie gegen stille Hirnschäden](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjAyVzJYTHFMeVNyZHI4U1FNT3VXdHdJcTExTnk1X2syajFONXRRMGlDQkFsYmVTRUk1dklBNE4zZG9IX3ppVWd5YWxlZDlkbTc0bU9oSHlfQXp0OHlSU2dkdy1fVTdKZk10YjJvQmYzTGROdHpubXdudUxRWWQxemFCN0Z3ZV92NDBlOENIRndhNWNDZFp2S3hmRVFwbnByNjM3QXFLS0U1VXNlcXFwWQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjAyVzJYTHFMeVNyZHI4U1FNT3VXdHdJcTExTnk1X2syajFONXRRMGlDQkFsYmVTRUk1dklBNE4zZG9IX3ppVWd5YWxlZDlkbTc0bU9oSHlfQXp0OHlSU2dkdy1fVTdKZk10YjJvQmYzTGROdHpubXdudUxRWWQxemFCN0Z3ZV92NDBlOENIRndhNWNDZFp2S3hmRVFwbnByNjM3QXFLS0U1VXNlcXFwWQ?oc=5)
+
+---
 
 ### [Fundación "la Caixa" avanza en nuevas estrategias contra la esclerosis múltiple y su evolución silenciosa en el cerebro](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXRSaWsyRTFTQTEyLTdIQldMejhaeHFuYWJNYTFPYnFzREJvbGJSRmRwcmFZM2VXa3dMalVBMzBXSjlLVERoaW4zYjBsVUJtVHFVVkZFYkUtbG9YcWk5WXJCYnBGV1ZhZW1KMXZMRVVwekhENUdRWU5PcTRWOGRkdVpCSTkxNDJua2RQUWZVNVRxMGdwUmJPVDVuaXFMblVlbXpUMC1IQkJyM0hNNU5xcjQwdjdzMDlRUm4teXlmYnMtNjlSU1R4c0FoU2tFYmJkQ3ZJZlFMU2FPX29XVFJZN21hONIB6AFBVV95cUxOVld0U0VlNThhaHVac3hma2dMRDJ2U1RheTZodEZrZi1hMXpfc0NhSmUxa0JlUXhNQ3RoRTRNcXZqdGl1ZWlhYWQ1TmNSSmFRSndDZXJvRDVURlZIUlhOVnNvX1BDb3V6Y0hQcVFHZDlMcDUzNEV3Y3pfNklQZHFkd2M1ZEhISEJUczJISXpGb1ZaLTJJQk9VTjUxZEtRX0VoYlVvS1ZqUy1DU0l5dFBBcXFNa2hsREF0c01Ybmd5UllLN2o4bTRXYmpXWndyRzZYN1dWT20xbVNYTTAtYVhsU0RWdWlfQThH?oc=5)
 
@@ -62,19 +94,51 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
-2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [Trotz schwerer MS: Wie Marianne Binsteiner das Klosterbad in Gars am Inn erobert](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZ5TU4zVU5wVlVSaVdsREpEMktESmxVWVgyc0toYkxPdDhFSGZjVkMyWmdVenUwdVJTZ3BxSUpMd21sNHZjS1E5VTVZR2YzUEw1UFpvSDcySzVfWHRXamFndHpFZnJMZmduWENwQzd3N2hLOVZuZHZZYkp6T2FGMDA2NmZWTGJoVHYxWHZVcEVXRjVVTldIRm1Xd0FmeVBiWGphMUNfX1dzQnBUSlI0WFQ2UXdxMnRTOUZTUGl1QWxkcUgyUmo1d3NRTHFxUTlnY0JFWlc5VTZUYmhScWdQSHhB?oc=5)
+### [Abdominal aortic aneurysms can cause years of anxiety, even without symptoms - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxON01VUmNiVTVYVkJsWHZzbnp3LWdKN094VFd3VXpldkxWczM3YjhjX09zZVVNc0FwWWdRTTJROGhtWmticFJpMUs0RTMzWmw5SFNRNGNfa3Q3YTBJdUFvN2h6TFlxcmZqQ3B1ckhaLTdnZDh0aDk5Ul9iNlBET3ZnN2E5TVVtTVJqX2RXMndfdUJXUXp2N0JQQmFmdS16Q0p5S1o0bi1MNlZsOWt5SDFn?oc=5)
 
 2026-09-15 <span class="news-indication-tag">MS</span>
 
-來源：[Innsalzach24](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZ5TU4zVU5wVlVSaVdsREpEMktESmxVWVgyc0toYkxPdDhFSGZjVkMyWmdVenUwdVJTZ3BxSUpMd21sNHZjS1E5VTVZR2YzUEw1UFpvSDcySzVfWHRXamFndHpFZnJMZmduWENwQzd3N2hLOVZuZHZZYkp6T2FGMDA2NmZWTGJoVHYxWHZVcEVXRjVVTldIRm1Xd0FmeVBiWGphMUNfX1dzQnBUSlI0WFQ2UXdxMnRTOUZTUGl1QWxkcUgyUmo1d3NRTHFxUTlnY0JFWlc5VTZUYmhScWdQSHhB?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxON01VUmNiVTVYVkJsWHZzbnp3LWdKN094VFd3VXpldkxWczM3YjhjX09zZVVNc0FwWWdRTTJROGhtWmticFJpMUs0RTMzWmw5SFNRNGNfa3Q3YTBJdUFvN2h6TFlxcmZqQ3B1ckhaLTdnZDh0aDk5Ul9iNlBET3ZnN2E5TVVtTVJqX2RXMndfdUJXUXp2N0JQQmFmdS16Q0p5S1o0bi1MNlZsOWt5SDFn?oc=5)
+
+---
+
+### [La epidemia de ébola en Congo no ha alcanzado el pico de contagios, apunta la ONU](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGFqQVpMUFZTeFoyMmUtZDBFU3Fkd2NQQ2lYVGVfd2VXR3doMWp2WWl2M09qbVVJcXJMUk40cWZuZEFKdzJPTkJDdzlwLVNVT0xEdkFyWjRZQ2ZnQ2xwZGo2cW1DTW1RZWFvXzR5RG1ZMzFmOUVKUkZjQV9aaTV5Wnlfd29yb0U3S1U3eXdoVXYxRjZyUmtWLXhYckFVckh2NFE?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGFqQVpMUFZTeFoyMmUtZDBFU3Fkd2NQQ2lYVGVfd2VXR3doMWp2WWl2M09qbVVJcXJMUk40cWZuZEFKdzJPTkJDdzlwLVNVT0xEdkFyWjRZQ2ZnQ2xwZGo2cW1DTW1RZWFvXzR5RG1ZMzFmOUVKUkZjQV9aaTV5Wnlfd29yb0U3S1U3eXdoVXYxRjZyUmtWLXhYckFVckh2NFE?oc=5)
+
+---
+
+### [Mpox è ancora emergenza: 78 casi in Italia, l'Oms proroga le raccomandazioni - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijwFBVV95cUxORV9XRDR4SkJoVGFmWXRycXBjTnROMGYtODI4M3hvWkJoSHBNem5hbWJDYWRIazNaY04wWFRfUElFUmEzZ3RWdnZRbUxOU3JmdkVjTG5YRC1NRVFsdDBvVzRiWmVyRHRTaDR3QkFGYTJ1RWxEUWlVR2M2ay13eWhydU8zdWItWjNhYTY3NG1HVQ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijwFBVV95cUxORV9XRDR4SkJoVGFmWXRycXBjTnROMGYtODI4M3hvWkJoSHBNem5hbWJDYWRIazNaY04wWFRfUElFUmEzZ3RWdnZRbUxOU3JmdkVjTG5YRC1NRVFsdDBvVzRiWmVyRHRTaDR3QkFGYTJ1RWxEUWlVR2M2ay13eWhydU8zdWItWjNhYTY3NG1HVQ?oc=5)
+
+---
+
+### [Bio-warfare is now a clear and present threat, as dangerous as nukes - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnpMeUdlSEVsTnphSVE3X2ZXNlVnMFdsRmRWSlVtQTR3bUs3N0xaVmpnNGNxTVBWclp3TWg1RHQ3bk5DTXhJVDZjY3ZOTnR6V1Z3ZnctcG1VNFg4YzBGT2NuMGNrZk9aZGthYUFtNEFPMEtBWmJqakpHRG53b3pxR1FGRnZMWmJWWm9EdXk4UU1FdUtTb3VkM1g5RWdGQS1vN0lZ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnpMeUdlSEVsTnphSVE3X2ZXNlVnMFdsRmRWSlVtQTR3bUs3N0xaVmpnNGNxTVBWclp3TWg1RHQ3bk5DTXhJVDZjY3ZOTnR6V1Z3ZnctcG1VNFg4YzBGT2NuMGNrZk9aZGthYUFtNEFPMEtBWmJqakpHRG53b3pxR1FGRnZMWmJWWm9EdXk4UU1FdUtTb3VkM1g5RWdGQS1vN0lZ?oc=5)
+
+---
+
+### [Hautprotein dämpft Immunreaktion in der Oberhaut](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wd2VHTDh3djJKVzg2dC1qUjFOM1VZc3g5REljQkVaSDdNNG1zVS0zd2NCQ2YyRFpaOE5Odm9fTllGeGJPRFpGeVZZNTUwUTJ0NHpfQTdTeklHLWpwTlJQOFo4d1h4bi1PZ1h0RWRQY3lndFZzaUE4dEwtYUlSNXc?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span>
+
+來源：[medlabportal.de](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wd2VHTDh3djJKVzg2dC1qUjFOM1VZc3g5REljQkVaSDdNNG1zVS0zd2NCQ2YyRFpaOE5Odm9fTllGeGJPRFpGeVZZNTUwUTJ0NHpfQTdTeklHLWpwTlJQOFo4d1h4bi1PZ1h0RWRQY3lndFZzaUE4dEwtYUlSNXc?oc=5)
+
+---
+
+### [La OMS reconoce a Chile como el primer país de Sudamérica que ha eliminado la rabia transmitida por perros](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFJCZlUxaVQ0YlJaWDNjX3U0TXZ5Q2pJNVNGR2h6MWljZjdiM2FvODNHUXl1QUZLV3cydGQzY0ZtdVdUNDYyNzYzZTlFLXhlOGhlOHVqVmpZSjNKaklZTjcta00tNm5qWjJqRnlHRjV4NHhiWHphdWFhZTR3VWp3N1FIckxxckNkZTBOUk8tOUxUWlRoZHQ1UTVuN191bUMxWHRTUU5rMEdmREk2U3Jrdm9DQlV3S05LRWc1VTVKSmRZVzR3ZWdlblFR?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFJCZlUxaVQ0YlJaWDNjX3U0TXZ5Q2pJNVNGR2h6MWljZjdiM2FvODNHUXl1QUZLV3cydGQzY0ZtdVdUNDYyNzYzZTlFLXhlOGhlOHVqVmpZSjNKaklZTjcta00tNm5qWjJqRnlHRjV4NHhiWHphdWFhZTR3VWp3N1FIckxxckNkZTBOUk8tOUxUWlRoZHQ1UTVuN191bUMxWHRTUU5rMEdmREk2U3Jrdm9DQlV3S05LRWc1VTVKSmRZVzR3ZWdlblFR?oc=5)
 
 ---
 
@@ -86,43 +150,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Man who was given just hours to live after visiting pub to have roast dinner makes full recovery - GB News](https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZWJEclVQZXhJN0pUeUJZb0lrQnVPZnlRaW1EX25PTXVZV2l6YlFBM2s5NEJVa1BBLTZYLTZvOGZlbGtsWHVLYnFUaEVLcDNTSUhUWEl2dnNwT2xuYlAtTEd1Qms4VWRUNDB1eWxveVA?oc=5)
+### [Bauernhofeffekt: Stallbakterien könnten vor kindlichem Asthma schützen - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
 
-2026-09-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-14 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZWJEclVQZXhJN0pUeUJZb0lrQnVPZnlRaW1EX25PTXVZV2l6YlFBM2s5NEJVa1BBLTZYLTZvOGZlbGtsWHVLYnFUaEVLcDNTSUhUWEl2dnNwT2xuYlAtTEd1Qms4VWRUNDB1eWxveVA?oc=5)
-
----
-
-### [A new device helps severely paralysed patients communicate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdk1GN0lOOG1YRmtrSnBCYjhOYlpyUmRYd3BYRHYwOHRLYTJpUXRHUG5DUll0V2czVEtvMVVzNEVqNnJMRTVCSy1CN3FDMFR1UU1rMU9jSk9ETlRWbmNDSzQ0cGpOVk5uYnVva25IMnBsQS1xVjM0cGV6bWp2TDNXd2h2TGlrOFJzekxHeHo5YVpCSXlLVFFuUV83VjBqeUwtRlRTUFowUFpEN3NGZTA0Tmtkc05fNkxmLUE?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[economist.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdk1GN0lOOG1YRmtrSnBCYjhOYlpyUmRYd3BYRHYwOHRLYTJpUXRHUG5DUll0V2czVEtvMVVzNEVqNnJMRTVCSy1CN3FDMFR1UU1rMU9jSk9ETlRWbmNDSzQ0cGpOVk5uYnVva25IMnBsQS1xVjM0cGV6bWp2TDNXd2h2TGlrOFJzekxHeHo5YVpCSXlLVFFuUV83VjBqeUwtRlRTUFowUFpEN3NGZTA0Tmtkc05fNkxmLUE?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
 
 ---
 
-### [Neue Immunbremse in Hautzellen entdeckt](https://news.google.com/rss/articles/CBMikgFBVV95cUxQeERxVG5VcHN6TmJYZjJzd1dZRXRWTzlfdGNtRDF1cUIxaWRBYmxrMGo1VWtBS3d5X0lDekFmU0JGVFNxb2tRSzI2QkNUaXRwN2d1ckFiQXhHSThQUVNoZ2VPem5raGdYNjRheWFrNGwzTjRNcl9Tc1lSTGplYkNwdHc2SHd2RGdsNWlCc1QwcWtzUQ?oc=5)
+### [Dad given hours to live after pub roast dinner leaves him fighting for life - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1qLUFjUktyaHNVTnAwc2M1bF90ZElKUnJKQWZvV2ctSFpYeGYwamFQVmJQbENhWkw1MDFwamd3TkxXcm9JVGU3LVk3aGNWUk9WM2p5ZWpPdW9UdW03WFBtUVh2bE4wRlJSZkpKUG5qLXozYmRweDFMdzRYVXZvZw?oc=5)
 
-2026-09-14 <span class="news-indication-tag">MS</span>
+2026-09-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[hallelife.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQeERxVG5VcHN6TmJYZjJzd1dZRXRWTzlfdGNtRDF1cUIxaWRBYmxrMGo1VWtBS3d5X0lDekFmU0JGVFNxb2tRSzI2QkNUaXRwN2d1ckFiQXhHSThQUVNoZ2VPem5raGdYNjRheWFrNGwzTjRNcl9Tc1lSTGplYkNwdHc2SHd2RGdsNWlCc1QwcWtzUQ?oc=5)
-
----
-
-### [Des milliers de personnes ont été observées pendant 26 ans : celles qui ont évité 3 problèmes ont vécu sans démence 13 ans de plus](https://news.google.com/rss/articles/CBMieEFVX3lxTE4zdGk3X29VZTlsVlFXNVRQbUhUandaM1ZnalhfcHJnVi0xQkUyOEZnNmFiRWQ1YjV5Vy1NMWg4Z1pVVzR5UDByZFZiYXIxYS1DZXExSlQ1eGtZc19sQTJLLUVhQUxwYUc3blotdXEwd1lXdllnWDZzTQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE4zdGk3X29VZTlsVlFXNVRQbUhUandaM1ZnalhfcHJnVi0xQkUyOEZnNmFiRWQ1YjV5Vy1NMWg4Z1pVVzR5UDByZFZiYXIxYS1DZXExSlQ1eGtZc19sQTJLLUVhQUxwYUc3blotdXEwd1lXdllnWDZzTQ?oc=5)
-
----
-
-### [Multiple Sklerose: Neue Zelltherapie bessert Beweglichkeit ohne Chemo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3lkbUFVa3FkVkpIa1BpSi1NT0pwRFBwUGNQNjI1cTdMdzRuNVl6VWhCSXo3ZVhIWV9oYU1OWGZVUzliNUJ1VkgtQTNuc2Y0VmxVT1l4VmNLOENMeVdQY0lnZUQ2T1JYNTJzLURXWGZrbUJEVXlUeHNQZW1EaDNWWUVfUy16bko4ZzlGWWJIQnFFTmZUOEZ4TlRmVWFUaF9jQ2VKVVYwdWFSaFhGVGltd0dXVTN1WkZ3?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3lkbUFVa3FkVkpIa1BpSi1NT0pwRFBwUGNQNjI1cTdMdzRuNVl6VWhCSXo3ZVhIWV9oYU1OWGZVUzliNUJ1VkgtQTNuc2Y0VmxVT1l4VmNLOENMeVdQY0lnZUQ2T1JYNTJzLURXWGZrbUJEVXlUeHNQZW1EaDNWWUVfUy16bko4ZzlGWWJIQnFFTmZUOEZ4TlRmVWFUaF9jQ2VKVVYwdWFSaFhGVGltd0dXVTN1WkZ3?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1qLUFjUktyaHNVTnAwc2M1bF90ZElKUnJKQWZvV2ctSFpYeGYwamFQVmJQbENhWkw1MDFwamd3TkxXcm9JVGU3LVk3aGNWUk9WM2p5ZWpPdW9UdW03WFBtUVh2bE4wRlJSZkpKUG5qLXozYmRweDFMdzRYVXZvZw?oc=5)
 
 ---
 
@@ -134,19 +174,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Der gefährlichste Bewohner des Terrariums ist oft unsichtbar](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
+### [Takeda stärkt Oveporexton mit Phase-3-Daten bei Narkolepsie Typ 1](https://news.google.com/rss/articles/CBMingFBVV95cUxPZDQ5Qi1qeVFoOFFaZEFqbU5xSmFzUGJZWW9OOXpvWU9WRFp6aXhMeFJCa2tCOWlHNEZDdWlrSDRya3FKNFk4czhxU2tWU2lkMGpiUkFfMUc3cnJ2OUtNa1p6Q3BXQkVMVXJISVJCTnBDLTRzX0RyZGQxdXJSMXdzcWt4Z0tEQy0wLUFzdGppWG04RWk4UW1ObGVhc1JZQQ?oc=5)
 
-2026-09-11 <span class="news-indication-tag">MS</span>
+2026-09-09 <span class="news-indication-tag">MS</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
-
----
-
-### [Adipositas-bedingte Veränderungen des Immunsystems sind umkehrbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
-
-2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+來源：[Goldesel.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPZDQ5Qi1qeVFoOFFaZEFqbU5xSmFzUGJZWW9OOXpvWU9WRFp6aXhMeFJCa2tCOWlHNEZDdWlrSDRya3FKNFk4czhxU2tWU2lkMGpiUkFfMUc3cnJ2OUtNa1p6Q3BXQkVMVXJISVJCTnBDLTRzX0RyZGQxdXJSMXdzcWt4Z0tEQy0wLUFzdGppWG04RWk4UW1ObGVhc1JZQQ?oc=5)
 
 ---
 

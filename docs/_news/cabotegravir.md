@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
 
-### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+### [Tirzepatid: 40% niedrigere Sterblichkeit bei Typ-2-Diabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZbGFBa1RFZzNsZHNqOGtrYVlhWDZ6eTlsREJma29XZThQb2F1U2diTDlSN0U1dldmS2tFaURvZVZiaG5EeHNsMldvU3FQRjMwNGUtR2pnMUNCTkR1U0RBTXBTWkNEV1pPdXUwXzAzUWlKNnE2dWdxX2s5RXpGQm9McnozVkJXc2VCblFIWHpGUmNLNHNaN2Z0am9rSy05dl93d05ZVTJBLUZoSW03Yms3cEg?oc=5)
 
-2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZbGFBa1RFZzNsZHNqOGtrYVlhWDZ6eTlsREJma29XZThQb2F1U2diTDlSN0U1dldmS2tFaURvZVZiaG5EeHNsMldvU3FQRjMwNGUtR2pnMUNCTkR1U0RBTXBTWkNEV1pPdXUwXzAzUWlKNnE2dWdxX2s5RXpGQm9McnozVkJXc2VCblFIWHpGUmNLNHNaN2Z0am9rSy05dl93d05ZVTJBLUZoSW03Yms3cEg?oc=5)
+
+---
+
+### [Abnehm-Spritze: Hilft Semaglutid auch bei Asthma und COPD?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
+
+2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
+
+---
+
+### [Diabète, obésité, surmortalité : « On a les pires indicateurs de santé et tout le monde s’en fout - La Voix du Nord](https://news.google.com/rss/articles/CBMizgFBVV95cUxOMFAtQlloaHZfQktKa09EdVdXZkR4bmZpd0hMUEpGX1BNcTFYd01tTWhqbGdCbjZWOEhuM1hob3hSeDBvNlI3S1AwZVdvQVRmWUs4RnFBT2s4T2lkVHdaajZESHhhRS1IekRsVVp4T0hYekIxclh3WkZPR3gxcnFpWlFqa2tqOXZ2bkVzeHhBS3g2N1hPOTB3d1ZtSjlaeVBkZHJRdGF4aHFPZzZrNzhRdE5nNk8zeXhEWGtaNko5cng2MVk0VTRZOUxLVjlMUQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+來源：[La Voix du Nord](https://news.google.com/rss/articles/CBMizgFBVV95cUxOMFAtQlloaHZfQktKa09EdVdXZkR4bmZpd0hMUEpGX1BNcTFYd01tTWhqbGdCbjZWOEhuM1hob3hSeDBvNlI3S1AwZVdvQVRmWUs4RnFBT2s4T2lkVHdaajZESHhhRS1IekRsVVp4T0hYekIxclh3WkZPR3gxcnFpWlFqa2tqOXZ2bkVzeHhBS3g2N1hPOTB3d1ZtSjlaeVBkZHJRdGF4aHFPZzZrNzhRdE5nNk8zeXhEWGtaNko5cng2MVk0VTRZOUxLVjlMUQ?oc=5)
+
+---
+
+### [Diabetes-Prävention: Epigenetische Veränderungen könnten den Nutzen gesunder Ernährung beeinflussen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVlXcHQ1cEJkUXR1WmNnZ0VBTDk0MENsMTVQTmtWVHBUQzBscTJwVWZpUmNTNkpKOTFDZ0NGV28yYVBZXzdSRjJuQVR4Q2FUTjlvSlg1UjhPWkxlU0NCbHJ5dEdhVzhHeFJ4cXRJRlJ5Sm85THhZc3VIdlpUdXdJVnk0THlOR2trV05qSllYYlNPcXpycWpjZmwzVWg0bGtnMHZEbWdzSW12VjNrTVl2UmxIS2pnNFZWLWJlWHByOHJmNmNEaUx3a0ZJanhpYm94VmNkbkJ3?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[JuraForum.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVlXcHQ1cEJkUXR1WmNnZ0VBTDk0MENsMTVQTmtWVHBUQzBscTJwVWZpUmNTNkpKOTFDZ0NGV28yYVBZXzdSRjJuQVR4Q2FUTjlvSlg1UjhPWkxlU0NCbHJ5dEdhVzhHeFJ4cXRJRlJ5Sm85THhZc3VIdlpUdXdJVnk0THlOR2trV05qSllYYlNPcXpycWpjZmwzVWg0bGtnMHZEbWdzSW12VjNrTVl2UmxIS2pnNFZWLWJlWHByOHJmNmNEaUx3a0ZJanhpYm94VmNkbkJ3?oc=5)
 
 ---
 
@@ -70,51 +94,43 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Los suplementos de ácidos grasos omega-3 muestran beneficios lipídicos en la diabetes tipo 1](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenZMTkZKeEpxXzhXQ0dxS2tGRW00ODVfS2kyVWg2SE8tWU9OTXdFdGdnTlB2S3lRd2loVlZzUEx3S0RNMGkyR2o4NEVrdm5KeHMwVUhKdVNRMnRaT2lwRTFoMEVWVUg0X1hzRjU1U0U4WFIxUE0tMzh1ZlQ0c3pDSW85Rlg0NGpndzVmdUJ3aHdmYTQ5aGNYTVE1RjQycHlYdHdQOHhTejJvRzc2RE5zenQybi1UemluZjUwR2dsTjBlclNQbTVxdjI3S1FOY053UjZoOA?oc=5)
+### [Diabetes-Tailored DASH Diet Improves Glycemic Control in T2D](https://news.google.com/rss/articles/CBMirwFBVV95cUxNREJGS1MtVkprZmNkeWtKd2R0WW5mVFhJLXFSX19Cc3ZGeHRnczJuQlB2SUJLeV9zbVh1Nkw2VF9hNzkzdThpaVU2SC1ud2VzMHdGZUF3c1EzUkgyNjhmbVY1ckRHcC1fVUZONTdxbjlwTUY4a3ZwcGk2eWo5ZHNHVTBsZHB0aWJyRmRPQW9LYVRGbGJPblZPcUZDaDRfYzZkVEJmektRR0V5NkxxWmRv?oc=5)
 
 2026-09-15 <span class="news-indication-tag">diabetes</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenZMTkZKeEpxXzhXQ0dxS2tGRW00ODVfS2kyVWg2SE8tWU9OTXdFdGdnTlB2S3lRd2loVlZzUEx3S0RNMGkyR2o4NEVrdm5KeHMwVUhKdVNRMnRaT2lwRTFoMEVWVUg0X1hzRjU1U0U4WFIxUE0tMzh1ZlQ0c3pDSW85Rlg0NGpndzVmdUJ3aHdmYTQ5aGNYTVE1RjQycHlYdHdQOHhTejJvRzc2RE5zenQybi1UemluZjUwR2dsTjBlclNQbTVxdjI3S1FOY053UjZoOA?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNREJGS1MtVkprZmNkeWtKd2R0WW5mVFhJLXFSX19Cc3ZGeHRnczJuQlB2SUJLeV9zbVh1Nkw2VF9hNzkzdThpaVU2SC1ud2VzMHdGZUF3c1EzUkgyNjhmbVY1ckRHcC1fVUZONTdxbjlwTUY4a3ZwcGk2eWo5ZHNHVTBsZHB0aWJyRmRPQW9LYVRGbGJPblZPcUZDaDRfYzZkVEJmektRR0V5NkxxWmRv?oc=5)
 
 ---
 
-### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
+### [A Napoli parte INsu-LINE: l'intelligenza artificiale e la prevenzione del diabete entrano nelle case delle famiglie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODNiRG9wX1dxRVVBUk9WQ01hdm52NXpqRC01dFZDVmE1VE9BOVpBbk1OaEl4V1dYb1hsa1M4WUV3Z0h5UVpjRkRvdWZncXNDeTlrQTJpRmpSV1JISEpaV05fXzhRVlVudENMejlFQktPTkRFSXBpNTNYcVBBUTBuemRNaFNkSVdVM19Nb2U0VEthX0VBRUJjWUFQeXZDZFI4bnhGb21qS0M4NmVZbzkyREtKckJlbHlzbjFFSUY2MF9CaWdMUzRVamlKTEFuRUhvejJV?oc=5)
 
-2026-09-15 <span class="news-indication-tag">copd</span>
+2026-09-15 <span class="news-indication-tag">diabete</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2pMaGc2WkFxQlNyMVVuanRMTUJxMG9iNHZ5VmNVS05SNXlZSkV4QlZzek12cEFaR1FTZndaNUJ5NEZpMHdHbEhGdFN5RkxLTEJCanFRV1duS01jMDJlZ0RfZDJYTzFyMjhFdDJ2bjc4OU5WaG1RVjJ2UFVrZG9UTUJZV1pfNzJvT1hJZTZfVlJRbWJORTJXTlhJT3FjX2ZTcy1MRHgydHM5YWJBSzdzakxNUzRBSmg5MXg1QUhDMFM5ckhONVhJcmVjVTFrVU1VN2hIMDFuMFlGdmtpRVNOTzJhQVhNdDQ1cE11NnpKNjJIZlFwT2ZrRzR6Tmg?oc=5)
-
----
-
-### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
-
-2026-09-15 <span class="news-indication-tag">artrite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
+來源：[Napoliclick](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODNiRG9wX1dxRVVBUk9WQ01hdm52NXpqRC01dFZDVmE1VE9BOVpBbk1OaEl4V1dYb1hsa1M4WUV3Z0h5UVpjRkRvdWZncXNDeTlrQTJpRmpSV1JISEpaV05fXzhRVlVudENMejlFQktPTkRFSXBpNTNYcVBBUTBuemRNaFNkSVdVM19Nb2U0VEthX0VBRUJjWUFQeXZDZFI4bnhGb21qS0M4NmVZbzkyREtKckJlbHlzbjFFSUY2MF9CaWdMUzRVamlKTEFuRUhvejJV?oc=5)
 
 ---
 
-### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+### [Los suplementos de ácidos grasos omega-3 muestran beneficios lipídicos en la diabetes tipo 1](https://news.google.com/rss/articles/CBMinAFBVV95cUxQajh5S2R6QWNnYlBWZ2o1NXJROG9YUHFlTGp6WTluVEdsald4aDhwZzVOUlVJdnYyd2w2NDA3Q0FtSmxySjdUemRpT0c0dDd0a1N1RlQ4ZTV2cWw4dFVDMHdhRzB0LV9yamlrUjVSQVlRVXI3MGpBTTRGTEJzNW1seENXSExyTGN6TDNrMUlNM042VUF2cnVlZTFuRm4?oc=5)
+
+2026-09-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxQajh5S2R6QWNnYlBWZ2o1NXJROG9YUHFlTGp6WTluVEdsald4aDhwZzVOUlVJdnYyd2w2NDA3Q0FtSmxySjdUemRpT0c0dDd0a1N1RlQ4ZTV2cWw4dFVDMHdhRzB0LV9yamlrUjVSQVlRVXI3MGpBTTRGTEJzNW1seENXSExyTGN6TDNrMUlNM042VUF2cnVlZTFuRm4?oc=5)
+
+---
+
+### [Mehr Möglichkeiten für Menschen mit rheumatoider Arthritis.](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
 
 2026-09-15 <span class="news-indication-tag">arthritis</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWEhWWnFXeTVVeFJ2X19xNUhrbzB2RmVYZXBjdFFmUzBfaVlvR0NkU2drNUtjM1NFZ3FRaHkxN2ZTQ2lZRGFEeEw1eTlUcjhMbzk2ckdNVjlxRmlYb3pxTm5sRDNTQjRKSTNqcmFxaHVJQ1NpeHFaWUVUcE8?oc=5)
 
 ---
 
-### [Pedro Marcos, neumólogo: «Las mujeres, fumando lo mismo que los hombres, tienen más riesgo de desarrollar epoc» - La Voz de Galicia](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
+### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
 
-2026-09-15 <span class="news-indication-tag">EPOC</span>
+2026-09-15 <span class="news-indication-tag">copd</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
-
----
-
-### [Diabetes association turmoil roils journal as group tries to thwart boycott - Retraction Watch](https://news.google.com/rss/articles/CBMioAFBVV95cUxPb19fVlU5enAxUVhVQ3VwUXd2QTVVVnVaVHJacGM1cHY0UHVaM05VRFdhVl9fQTJRbW5sMXpCalZHd3QySnc5MVgzOHhZakR1TnFYd0VvVEpUTG11NUZWMzk4QXlKcnNUUm0zenV2dDN6N2pjcUxlZzZydDZpdzNNRGJOZFhkZEFiMWdGcWZkR2NGN09QYndDOUZCOGliYlpp?oc=5)
-
-2026-09-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Retraction Watch](https://news.google.com/rss/articles/CBMioAFBVV95cUxPb19fVlU5enAxUVhVQ3VwUXd2QTVVVnVaVHJacGM1cHY0UHVaM05VRFdhVl9fQTJRbW5sMXpCalZHd3QySnc5MVgzOHhZakR1TnFYd0VvVEpUTG11NUZWMzk4QXlKcnNUUm0zenV2dDN6N2pjcUxlZzZydDZpdzNNRGJOZFhkZEFiMWdGcWZkR2NGN09QYndDOUZCOGliYlpp?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
 
 ---
 
@@ -123,46 +139,6 @@ permalink: /news/cabotegravir/
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJOMU0zbVNvMmVHRWRjM3RjQjBEM3M5VEhBNHhRSS1Cb3RVOEhjTTBxZEhMN2NWSmtvb0UyU0ZhaDFyOGM4aUlNUDZCVVRrWGpBaDNEdFNuMTZwY01PaXMzNXNnOGprVkhkbHkwUjU2c0VERDhjYVFWNjlkLTFndWI0bGNtY01DSzlOMHRMNVUySG8?oc=5)
-
----
-
-### [Artrite reumatoide, con le CAR-T spegneremo la reazione anomala dell’organismo nelle forme gravissime](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">artrite</span>
-
-來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
-
----
-
-### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
-
-2026-09-14 <span class="news-indication-tag">EPOC</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
-
----
-
-### [Statine bei Typ-2-Diabetes: Geringeres Demenzrisiko?](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
-
----
-
-### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa - El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
-
-2026-09-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
-
----
-
-### [COPD: Exazerbationen richtig einordnen – und Differentialdiagnosen nicht vergessen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
-
-2026-09-11 <span class="news-indication-tag">copd</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
 ---
 

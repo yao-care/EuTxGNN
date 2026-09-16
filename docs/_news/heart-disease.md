@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart failure（heart disease） 相關新聞"
+title: "heart disease 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart failure（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "heart disease 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart failure（heart disease） 相關新聞
+# heart disease 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
-<strong>heart failure（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
+<strong>heart disease</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -87,19 +87,19 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（2 則）
 
+### [Cholesterol, weight, blood sugar and blood pressure drop with one food change - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+2026-09-16
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+---
+
 ### [Brits urged to eat one fruit to slash risk of heart disease - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
 
 2026-09-14
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
-
----
-
-### [The hidden risk to your heart from sleeping in low light - Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
-
-2026-09-09
-
-來源：[Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
 
 ---
 

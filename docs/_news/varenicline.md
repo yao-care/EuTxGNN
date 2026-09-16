@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Ernährung: Diese Essensgewohnheit könnte Männern überraschend schaden](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDZONlpkdEN1UWw0ZE1GOWhLU1NsYWNIenh2cnB4TE0xbzFYczJlLVlXaWw1OWowa2tpTGM4MHhNREpKNEdPZEloUnZBR085QmFZQXVjcEI4bUUxWFBNWFRWdHlXdm1QSXY0ekhsVExRdGpvcjRNd0hHRnVoaXJkRW0zZjUyNGpjZkFFSFVBdDgwMmgtQ2d2czBfQTBWOEZWNkYxaVB4M1VSSjc1WkhpTFdJVl9SWWNJMEstVHREeXF6VGh1Zmx5RHJJQ3Z1NHFYRkdKenlEWQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDZONlpkdEN1UWw0ZE1GOWhLU1NsYWNIenh2cnB4TE0xbzFYczJlLVlXaWw1OWowa2tpTGM4MHhNREpKNEdPZEloUnZBR085QmFZQXVjcEI4bUUxWFBNWFRWdHlXdm1QSXY0ekhsVExRdGpvcjRNd0hHRnVoaXJkRW0zZjUyNGpjZkFFSFVBdDgwMmgtQ2d2czBfQTBWOEZWNkYxaVB4M1VSSjc1WkhpTFdJVl9SWWNJMEstVHREeXF6VGh1Zmx5RHJJQ3Z1NHFYRkdKenlEWQ?oc=5)
+
+---
+
+### [Bluthochdruck durch Zucker: Welche Lebensmittel besonders schädlich sind - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVld4S1cydWFNNFpJSzJIRW8xNjQ4MlhLcUpYWTEzZjduN1NIU1Jfa2ozY0dJMGRGT0psVWZZVkhCYzA3c3lqVG5JQkFsek00VmgwcmgwZFpydUFtSmFySm5vWmpzYlFqTjRQYzI5UUVnYkdwTktFVWRIRzZNYmM5OW8yTzFFWnpDNkt4Vi16cVllX1ZTRWwwTkVJZlJLMnQyNFJFNGxhaVU4S0ptc3Jr?oc=5)
+
+2026-09-16 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVld4S1cydWFNNFpJSzJIRW8xNjQ4MlhLcUpYWTEzZjduN1NIU1Jfa2ozY0dJMGRGT0psVWZZVkhCYzA3c3lqVG5JQkFsek00VmgwcmgwZFpydUFtSmFySm5vWmpzYlFqTjRQYzI5UUVnYkdwTktFVWRIRzZNYmM5OW8yTzFFWnpDNkt4Vi16cVllX1ZTRWwwTkVJZlJLMnQyNFJFNGxhaVU4S0ptc3Jr?oc=5)
+
+---
 
 ### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
 
@@ -70,11 +86,11 @@ permalink: /news/varenicline/
 
 ---
 
-### [Schlafmangel: Dauerhafter Schlafmangel erhöht Bluthochdruck-Risiko um 60%](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBWSE5RanFXcHB6dGtWak9qRjZaSFBFT292a2J4ZWhkbG1IdWtQdG03WUxKSldoNWNZNzh6SVlxZFR0Z2lxbUl2XzlrSGUtODVBWWJNWURCa1dpTWx4cElsN2xDWjc0M1lKbHI2NWZFRFlWdUt0MGxnS0FxeUVrVHVOU0pPRlMxNVNZSUl4aWFvM3BabnZwajB0Sk9GTXhlSlZ4X3I0cTlnWXBjc0JKX0dLUFdtYjV1SG1qbnJn?oc=5)
+### [New Northamptonshire high blood pressure service being rolled out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
-2026-09-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBWSE5RanFXcHB6dGtWak9qRjZaSFBFT292a2J4ZWhkbG1IdWtQdG03WUxKSldoNWNZNzh6SVlxZFR0Z2lxbUl2XzlrSGUtODVBWWJNWURCa1dpTWx4cElsN2xDWjc0M1lKbHI2NWZFRFlWdUt0MGxnS0FxeUVrVHVOU0pPRlMxNVNZSUl4aWFvM3BabnZwajB0Sk9GTXhlSlZ4X3I0cTlnWXBjc0JKX0dLUFdtYjV1SG1qbnJn?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/varenicline/
 2026-09-14 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
-
----
-
-### [Bluthochdruck: Nüsse senken das Risiko signifikant](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
 
 ---
 

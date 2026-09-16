@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [Tirzepatid: 40% niedrigere Sterblichkeit bei Typ-2-Diabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZbGFBa1RFZzNsZHNqOGtrYVlhWDZ6eTlsREJma29XZThQb2F1U2diTDlSN0U1dldmS2tFaURvZVZiaG5EeHNsMldvU3FQRjMwNGUtR2pnMUNCTkR1U0RBTXBTWkNEV1pPdXUwXzAzUWlKNnE2dWdxX2s5RXpGQm9McnozVkJXc2VCblFIWHpGUmNLNHNaN2Z0am9rSy05dl93d05ZVTJBLUZoSW03Yms3cEg?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZbGFBa1RFZzNsZHNqOGtrYVlhWDZ6eTlsREJma29XZThQb2F1U2diTDlSN0U1dldmS2tFaURvZVZiaG5EeHNsMldvU3FQRjMwNGUtR2pnMUNCTkR1U0RBTXBTWkNEV1pPdXUwXzAzUWlKNnE2dWdxX2s5RXpGQm9McnozVkJXc2VCblFIWHpGUmNLNHNaN2Z0am9rSy05dl93d05ZVTJBLUZoSW03Yms3cEg?oc=5)
+
+---
+
+### [Diabète, obésité, surmortalité : « On a les pires indicateurs de santé et tout le monde s’en fout - La Voix du Nord](https://news.google.com/rss/articles/CBMizgFBVV95cUxOMFAtQlloaHZfQktKa09EdVdXZkR4bmZpd0hMUEpGX1BNcTFYd01tTWhqbGdCbjZWOEhuM1hob3hSeDBvNlI3S1AwZVdvQVRmWUs4RnFBT2s4T2lkVHdaajZESHhhRS1IekRsVVp4T0hYekIxclh3WkZPR3gxcnFpWlFqa2tqOXZ2bkVzeHhBS3g2N1hPOTB3d1ZtSjlaeVBkZHJRdGF4aHFPZzZrNzhRdE5nNk8zeXhEWGtaNko5cng2MVk0VTRZOUxLVjlMUQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+來源：[La Voix du Nord](https://news.google.com/rss/articles/CBMizgFBVV95cUxOMFAtQlloaHZfQktKa09EdVdXZkR4bmZpd0hMUEpGX1BNcTFYd01tTWhqbGdCbjZWOEhuM1hob3hSeDBvNlI3S1AwZVdvQVRmWUs4RnFBT2s4T2lkVHdaajZESHhhRS1IekRsVVp4T0hYekIxclh3WkZPR3gxcnFpWlFqa2tqOXZ2bkVzeHhBS3g2N1hPOTB3d1ZtSjlaeVBkZHJRdGF4aHFPZzZrNzhRdE5nNk8zeXhEWGtaNko5cng2MVk0VTRZOUxLVjlMUQ?oc=5)
+
+---
+
+### [Cholesterol, weight, blood sugar and blood pressure drop with one food change - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+2026-09-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+---
+
+### [Diabetes-Prävention: Epigenetische Veränderungen könnten den Nutzen gesunder Ernährung beeinflussen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVlXcHQ1cEJkUXR1WmNnZ0VBTDk0MENsMTVQTmtWVHBUQzBscTJwVWZpUmNTNkpKOTFDZ0NGV28yYVBZXzdSRjJuQVR4Q2FUTjlvSlg1UjhPWkxlU0NCbHJ5dEdhVzhHeFJ4cXRJRlJ5Sm85THhZc3VIdlpUdXdJVnk0THlOR2trV05qSllYYlNPcXpycWpjZmwzVWg0bGtnMHZEbWdzSW12VjNrTVl2UmxIS2pnNFZWLWJlWHByOHJmNmNEaUx3a0ZJanhpYm94VmNkbkJ3?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[JuraForum.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVlXcHQ1cEJkUXR1WmNnZ0VBTDk0MENsMTVQTmtWVHBUQzBscTJwVWZpUmNTNkpKOTFDZ0NGV28yYVBZXzdSRjJuQVR4Q2FUTjlvSlg1UjhPWkxlU0NCbHJ5dEdhVzhHeFJ4cXRJRlJ5Sm85THhZc3VIdlpUdXdJVnk0THlOR2trV05qSllYYlNPcXpycWpjZmwzVWg0bGtnMHZEbWdzSW12VjNrTVl2UmxIS2pnNFZWLWJlWHByOHJmNmNEaUx3a0ZJanhpYm94VmNkbkJ3?oc=5)
+
+---
 
 ### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXAtcUhFczktLTRONDZNeDU4c1VKaVdJTjZDMGQwTDZZeUxhWU1LWWJzQnl3bGhFaDRmWERyS1VobWVyZ2hfU1YxRl9Wc3RUalVvWnV3c09jbGVHc2J4MmE3cVRWZ1plamQ0SHlTTmNzLW1PaUhyam9DR0U0T2Q2S1E0Sk5HcjRkcUExa2VDRmlEWVlwdURvRmNrUDdDdXFLQVhaNmhCcm9uaF9ybmhUMkw5TV9scEh1MHJUdmN1bzVvTzloVnBQWA?oc=5)
 
@@ -62,19 +94,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Los suplementos de ácidos grasos omega-3 muestran beneficios lipídicos en la diabetes tipo 1](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenZMTkZKeEpxXzhXQ0dxS2tGRW00ODVfS2kyVWg2SE8tWU9OTXdFdGdnTlB2S3lRd2loVlZzUEx3S0RNMGkyR2o4NEVrdm5KeHMwVUhKdVNRMnRaT2lwRTFoMEVWVUg0X1hzRjU1U0U4WFIxUE0tMzh1ZlQ0c3pDSW85Rlg0NGpndzVmdUJ3aHdmYTQ5aGNYTVE1RjQycHlYdHdQOHhTejJvRzc2RE5zenQybi1UemluZjUwR2dsTjBlclNQbTVxdjI3S1FOY053UjZoOA?oc=5)
+### [Diabetes-Tailored DASH Diet Improves Glycemic Control in T2D](https://news.google.com/rss/articles/CBMirwFBVV95cUxNREJGS1MtVkprZmNkeWtKd2R0WW5mVFhJLXFSX19Cc3ZGeHRnczJuQlB2SUJLeV9zbVh1Nkw2VF9hNzkzdThpaVU2SC1ud2VzMHdGZUF3c1EzUkgyNjhmbVY1ckRHcC1fVUZONTdxbjlwTUY4a3ZwcGk2eWo5ZHNHVTBsZHB0aWJyRmRPQW9LYVRGbGJPblZPcUZDaDRfYzZkVEJmektRR0V5NkxxWmRv?oc=5)
 
 2026-09-15 <span class="news-indication-tag">diabetes</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenZMTkZKeEpxXzhXQ0dxS2tGRW00ODVfS2kyVWg2SE8tWU9OTXdFdGdnTlB2S3lRd2loVlZzUEx3S0RNMGkyR2o4NEVrdm5KeHMwVUhKdVNRMnRaT2lwRTFoMEVWVUg0X1hzRjU1U0U4WFIxUE0tMzh1ZlQ0c3pDSW85Rlg0NGpndzVmdUJ3aHdmYTQ5aGNYTVE1RjQycHlYdHdQOHhTejJvRzc2RE5zenQybi1UemluZjUwR2dsTjBlclNQbTVxdjI3S1FOY053UjZoOA?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNREJGS1MtVkprZmNkeWtKd2R0WW5mVFhJLXFSX19Cc3ZGeHRnczJuQlB2SUJLeV9zbVh1Nkw2VF9hNzkzdThpaVU2SC1ud2VzMHdGZUF3c1EzUkgyNjhmbVY1ckRHcC1fVUZONTdxbjlwTUY4a3ZwcGk2eWo5ZHNHVTBsZHB0aWJyRmRPQW9LYVRGbGJPblZPcUZDaDRfYzZkVEJmektRR0V5NkxxWmRv?oc=5)
 
 ---
 
-### [Diabetes association turmoil roils journal as group tries to thwart boycott - Retraction Watch](https://news.google.com/rss/articles/CBMioAFBVV95cUxPb19fVlU5enAxUVhVQ3VwUXd2QTVVVnVaVHJacGM1cHY0UHVaM05VRFdhVl9fQTJRbW5sMXpCalZHd3QySnc5MVgzOHhZakR1TnFYd0VvVEpUTG11NUZWMzk4QXlKcnNUUm0zenV2dDN6N2pjcUxlZzZydDZpdzNNRGJOZFhkZEFiMWdGcWZkR2NGN09QYndDOUZCOGliYlpp?oc=5)
+### [A Napoli parte INsu-LINE: l'intelligenza artificiale e la prevenzione del diabete entrano nelle case delle famiglie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODNiRG9wX1dxRVVBUk9WQ01hdm52NXpqRC01dFZDVmE1VE9BOVpBbk1OaEl4V1dYb1hsa1M4WUV3Z0h5UVpjRkRvdWZncXNDeTlrQTJpRmpSV1JISEpaV05fXzhRVlVudENMejlFQktPTkRFSXBpNTNYcVBBUTBuemRNaFNkSVdVM19Nb2U0VEthX0VBRUJjWUFQeXZDZFI4bnhGb21qS0M4NmVZbzkyREtKckJlbHlzbjFFSUY2MF9CaWdMUzRVamlKTEFuRUhvejJV?oc=5)
 
-2026-09-14 <span class="news-indication-tag">diabetes</span>
+2026-09-15 <span class="news-indication-tag">diabete</span>
 
-來源：[Retraction Watch](https://news.google.com/rss/articles/CBMioAFBVV95cUxPb19fVlU5enAxUVhVQ3VwUXd2QTVVVnVaVHJacGM1cHY0UHVaM05VRFdhVl9fQTJRbW5sMXpCalZHd3QySnc5MVgzOHhZakR1TnFYd0VvVEpUTG11NUZWMzk4QXlKcnNUUm0zenV2dDN6N2pjcUxlZzZydDZpdzNNRGJOZFhkZEFiMWdGcWZkR2NGN09QYndDOUZCOGliYlpp?oc=5)
+來源：[Napoliclick](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODNiRG9wX1dxRVVBUk9WQ01hdm52NXpqRC01dFZDVmE1VE9BOVpBbk1OaEl4V1dYb1hsa1M4WUV3Z0h5UVpjRkRvdWZncXNDeTlrQTJpRmpSV1JISEpaV05fXzhRVlVudENMejlFQktPTkRFSXBpNTNYcVBBUTBuemRNaFNkSVdVM19Nb2U0VEthX0VBRUJjWUFQeXZDZFI4bnhGb21qS0M4NmVZbzkyREtKckJlbHlzbjFFSUY2MF9CaWdMUzRVamlKTEFuRUhvejJV?oc=5)
+
+---
+
+### [Los suplementos de ácidos grasos omega-3 muestran beneficios lipídicos en la diabetes tipo 1](https://news.google.com/rss/articles/CBMinAFBVV95cUxQajh5S2R6QWNnYlBWZ2o1NXJROG9YUHFlTGp6WTluVEdsald4aDhwZzVOUlVJdnYyd2w2NDA3Q0FtSmxySjdUemRpT0c0dDd0a1N1RlQ4ZTV2cWw4dFVDMHdhRzB0LV9yamlrUjVSQVlRVXI3MGpBTTRGTEJzNW1seENXSExyTGN6TDNrMUlNM042VUF2cnVlZTFuRm4?oc=5)
+
+2026-09-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxQajh5S2R6QWNnYlBWZ2o1NXJROG9YUHFlTGp6WTluVEdsald4aDhwZzVOUlVJdnYyd2w2NDA3Q0FtSmxySjdUemRpT0c0dDd0a1N1RlQ4ZTV2cWw4dFVDMHdhRzB0LV9yamlrUjVSQVlRVXI3MGpBTTRGTEJzNW1seENXSExyTGN6TDNrMUlNM042VUF2cnVlZTFuRm4?oc=5)
 
 ---
 
@@ -91,30 +131,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-09-14 <span class="news-indication-tag">heart disease</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
-
----
-
-### [Statine bei Typ-2-Diabetes: Geringeres Demenzrisiko?](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
-
----
-
-### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa - El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
-
-2026-09-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
-
----
-
-### [The hidden risk to your heart from sleeping in low light - Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
-
-2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
-
-來源：[Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
 
 ---
 

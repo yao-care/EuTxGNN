@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Dementia drugs made in UK but denied on NHS - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTRBT2Z1UlJ1X2hESGpiWWtCVXU3aTBEaHFLM2UtUFdjZ2hnZlIzNFpwR1VfYTE2b3BiU09tUzRFeVE5UnBjUFJLOTRQSmhfMnIzeU1wX0ZqTVN4QmhKME5sR0s2VzdNaWZSOURaWGtMNGdSVWRPT2psVGMyWGZIM3NVRnlwNHFqWmU3Zkxid3N4QQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTRBT2Z1UlJ1X2hESGpiWWtCVXU3aTBEaHFLM2UtUFdjZ2hnZlIzNFpwR1VfYTE2b3BiU09tUzRFeVE5UnBjUFJLOTRQSmhfMnIzeU1wX0ZqTVN4QmhKME5sR0s2VzdNaWZSOURaWGtMNGdSVWRPT2psVGMyWGZIM3NVRnlwNHFqWmU3Zkxid3N4QQ?oc=5)
+
+---
 
 ### [Doctor says early dementia warning sign appears 15 years prior - what to look for - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
 
@@ -70,17 +78,17 @@ permalink: /news/rasagiline/
 
 ---
 
-### [The 7 common NHS drugs that raise dementia risk - as docs ‘prescribing meds to millions without warning them’ - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
+### [The 7 common NHS drugs that raise dementia risk - as docs ‘prescribing meds to millions without warning them’](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
 
 2026-09-14 <span class="news-indication-tag">dementia</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
 
 ---
 
 ### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
 
-2026-09-13 <span class="news-indication-tag">Alzheimer's</span>
+2026-09-13 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
 

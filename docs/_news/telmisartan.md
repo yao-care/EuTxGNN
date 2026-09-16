@@ -54,27 +54,51 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（11 則）
 
-### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+### [Ernährung: Diese Essensgewohnheit könnte Männern überraschend schaden](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDZONlpkdEN1UWw0ZE1GOWhLU1NsYWNIenh2cnB4TE0xbzFYczJlLVlXaWw1OWowa2tpTGM4MHhNREpKNEdPZEloUnZBR085QmFZQXVjcEI4bUUxWFBNWFRWdHlXdm1QSXY0ekhsVExRdGpvcjRNd0hHRnVoaXJkRW0zZjUyNGpjZkFFSFVBdDgwMmgtQ2d2czBfQTBWOEZWNkYxaVB4M1VSSjc1WkhpTFdJVl9SWWNJMEstVHREeXF6VGh1Zmx5RHJJQ3Z1NHFYRkdKenlEWQ?oc=5)
 
-2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDZONlpkdEN1UWw0ZE1GOWhLU1NsYWNIenh2cnB4TE0xbzFYczJlLVlXaWw1OWowa2tpTGM4MHhNREpKNEdPZEloUnZBR085QmFZQXVjcEI4bUUxWFBNWFRWdHlXdm1QSXY0ekhsVExRdGpvcjRNd0hHRnVoaXJkRW0zZjUyNGpjZkFFSFVBdDgwMmgtQ2d2czBfQTBWOEZWNkYxaVB4M1VSSjc1WkhpTFdJVl9SWWNJMEstVHREeXF6VGh1Zmx5RHJJQ3Z1NHFYRkdKenlEWQ?oc=5)
 
 ---
 
-### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+### [Bluthochdruck durch Zucker: Welche Lebensmittel besonders schädlich sind - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVld4S1cydWFNNFpJSzJIRW8xNjQ4MlhLcUpYWTEzZjduN1NIU1Jfa2ozY0dJMGRGT0psVWZZVkhCYzA3c3lqVG5JQkFsek00VmgwcmgwZFpydUFtSmFySm5vWmpzYlFqTjRQYzI5UUVnYkdwTktFVWRIRzZNYmM5OW8yTzFFWnpDNkt4Vi16cVllX1ZTRWwwTkVJZlJLMnQyNFJFNGxhaVU4S0ptc3Jr?oc=5)
+
+2026-09-16 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVld4S1cydWFNNFpJSzJIRW8xNjQ4MlhLcUpYWTEzZjduN1NIU1Jfa2ozY0dJMGRGT0psVWZZVkhCYzA3c3lqVG5JQkFsek00VmgwcmgwZFpydUFtSmFySm5vWmpzYlFqTjRQYzI5UUVnYkdwTktFVWRIRzZNYmM5OW8yTzFFWnpDNkt4Vi16cVllX1ZTRWwwTkVJZlJLMnQyNFJFNGxhaVU4S0ptc3Jr?oc=5)
+
+---
+
+### [Cholesterol, weight, blood sugar and blood pressure drop with one food change - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+2026-09-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+---
+
+### [Flutter vs Fibrillation: Which Is Tied to Lower Stroke Rate?](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGFfNHpzX1FtbVEtV2tSVG9BdjZZYWFMTU1zTFRlbkUwMFpQOVpwRmgzWEtpcmRlVmpCVC1RX19ZLVNvMWE0UVgxRGN0YlNCdDVRWGRzNFpHLXRvSnp6SGpwN3h2VTgtVEpCTjBFelllNHJ4R3Zqcy1yNmRGLUZoRFViVjdKVl9wVUpOWGgxelJKVUUyTkNVd2J5aXNDWnpxOUEyTmZ0NA?oc=5)
+
+2026-09-15 <span class="news-indication-tag">stroke</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGFfNHpzX1FtbVEtV2tSVG9BdjZZYWFMTU1zTFRlbkUwMFpQOVpwRmgzWEtpcmRlVmpCVC1RX19ZLVNvMWE0UVgxRGN0YlNCdDVRWGRzNFpHLXRvSnp6SGpwN3h2VTgtVEpCTjBFelllNHJ4R3Zqcy1yNmRGLUZoRFViVjdKVl9wVUpOWGgxelJKVUUyTkNVd2J5aXNDWnpxOUEyTmZ0NA?oc=5)
+
+---
+
+### [Warum es manchen Patienten nach einem Schlaganfall besser geht als anderen - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
 
 2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
 
 ---
 
-### [Schlafmangel: Dauerhafter Schlafmangel erhöht Bluthochdruck-Risiko um 60%](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBWSE5RanFXcHB6dGtWak9qRjZaSFBFT292a2J4ZWhkbG1IdWtQdG03WUxKSldoNWNZNzh6SVlxZFR0Z2lxbUl2XzlrSGUtODVBWWJNWURCa1dpTWx4cElsN2xDWjc0M1lKbHI2NWZFRFlWdUt0MGxnS0FxeUVrVHVOU0pPRlMxNVNZSUl4aWFvM3BabnZwajB0Sk9GTXhlSlZ4X3I0cTlnWXBjc0JKX0dLUFdtYjV1SG1qbnJn?oc=5)
+### [New Northamptonshire high blood pressure service being rolled out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
-2026-09-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnBWSE5RanFXcHB6dGtWak9qRjZaSFBFT292a2J4ZWhkbG1IdWtQdG03WUxKSldoNWNZNzh6SVlxZFR0Z2lxbUl2XzlrSGUtODVBWWJNWURCa1dpTWx4cElsN2xDWjc0M1lKbHI2NWZFRFlWdUt0MGxnS0FxeUVrVHVOU0pPRlMxNVNZSUl4aWFvM3BabnZwajB0Sk9GTXhlSlZ4X3I0cTlnWXBjc0JKX0dLUFdtYjV1SG1qbnJn?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 
@@ -91,14 +115,6 @@ permalink: /news/telmisartan/
 2026-09-14 <span class="news-indication-tag">heart disease</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
-
----
-
-### [Bluthochdruck: Nüsse senken das Risiko signifikant](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
 
 ---
 
@@ -123,22 +139,6 @@ permalink: /news/telmisartan/
 2026-09-13 <span class="news-indication-tag">stroke</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIVjItOE9Hd3M2aUhiY2tfazZvVFltbDN0S3ozX2hUQXhkXzRUUmJmUXFWZFVxNVNjMVM4dHFPZnVzdU15a3h4eldKREVaeU5Lc082bnlZaUlSeUhD?oc=5)
-
----
-
-### [Fibrillazione atriale: quando serve davvero il farmaco per l’ictus? - The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
-
-2026-09-12 <span class="news-indication-tag">ictus</span>
-
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
-
----
-
-### [The hidden risk to your heart from sleeping in low light - Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
-
-2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
-
-來源：[Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
 
 ---
 
