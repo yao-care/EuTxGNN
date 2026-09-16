@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Upadacitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
-2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/upadacitinib/
 
 ---
 
-### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">arthritis</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
 
 ---
 
@@ -83,22 +83,6 @@ permalink: /news/upadacitinib/
 2026-09-14 <span class="news-indication-tag">artrite</span>
 
 來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
-
----
-
-### [Aussie pet owners called to action as biosecurity threat spreads - Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">CKD</span>
-
-來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Neue Leitlinie sieht sofortigen Therapiestart vor](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
-
-2026-09-08 <span class="news-indication-tag">arthritis</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
 
 ---
 

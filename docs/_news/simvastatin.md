@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+---
 
 ### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 
@@ -75,6 +83,14 @@ permalink: /news/simvastatin/
 2026-09-13 <span class="news-indication-tag">stroke</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIVjItOE9Hd3M2aUhiY2tfazZvVFltbDN0S3ozX2hUQXhkXzRUUmJmUXFWZFVxNVNjMVM4dHFPZnVzdU15a3h4eldKREVaeU5Lc082bnlZaUlSeUhD?oc=5)
+
+---
+
+### [Fibrillazione atriale: quando serve davvero il farmaco per l’ictus? - The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
+
+2026-09-12 <span class="news-indication-tag">ictus</span>
+
+來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
 
 ---
 

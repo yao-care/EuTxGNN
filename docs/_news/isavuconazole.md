@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
 
 ### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
 
@@ -78,11 +78,11 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">arthritis</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Scientists find a hidden cause of high blood pressure that routine tests can miss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
+### [Scientists find a hidden cause of high blood pressure that routine tests can miss](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
 
 ---
 
@@ -126,27 +126,11 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [El Hospital Macarena anticipa más 2.300 crisis de migraña con un proyecto de IA - La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+### [Hypertension : 4 signes inattendus le matin !](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
-2026-09-14 <span class="news-indication-tag">migraña</span>
+2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
-
----
-
-### [High cholesterol gets all the attention, but a nephrologist explains the other health risks that could matter more for the heart](https://news.google.com/rss/articles/CBMioAJBVV95cUxOcHFqZjRIdkc3SlQteUhZekVCSHY3ZzhNbzk1aUZOeE5YZDlNTkhyazVKcTRoVE9NVG9VaWJXNGdCd0ZTSDdhNlVVYUpkc21QNjhZZXNSN3ItelNCRVR4NVRNNXQ1T3ZmcUtOQl8xb0ZJU1pZZG5Sdno2YWRadUVNWkxuNWVYZjUwRWd4ZnlNSS1JMEJ2Mmk4bE9FbkZKbjZUS00xbzl5eVFHV1oybzlTb3BxUDhvTGJrNmYtSVY0cFJVTUxaU1l3RUhMRDJOX2dNMEN2V01lalBjb1dxQjN4U013UkJEYTVMS1pRN1dUUGxqcVZuMHBveUFMUERYcVNSOXB2cXpSbTNjQ3lLWV9mQVZsdVF1WnV3SHBWSWY0ZlbSAagCQVVfeXFMTnotaE54dk4wTGt2Wko1WGdLbFlMd0Rwa2JBQ1BmczdSVFdZZ2o3UzRuNGlDRkUzY3dwTnFwV3E1U2tORnpTektZSU9hTTdHTDVNUW5SQkd3c3ZGWWhNX1lMQzdmQUQxby1QUzFQTTVmZXZaclZqRzMtUXh5NlZwc0tlMEMxYjRqZmJGYVFBTlliUXZjTndBb3lKYjl0Z056YVNjVVFUY2VFR0hlUmZ4YzB3ckhnWnl6STAtd2NQWnNFQUJpWXlZSTREcUVNdXp5ZjZfS0ZZbWYzb2ZOSzNGMXdlc1JhSDk1OEcyWDFwbDJBMUNWT3JfRW9McTF6Vk0wdkgxRXhvaDdnTXhraVJnTFp3YXV0dk5xVnAxdFVqTDhwRVFWWTdtVkI?oc=5)
-
-2026-09-14 <span class="news-indication-tag">heart disease</span>
-
-來源：[timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMioAJBVV95cUxOcHFqZjRIdkc3SlQteUhZekVCSHY3ZzhNbzk1aUZOeE5YZDlNTkhyazVKcTRoVE9NVG9VaWJXNGdCd0ZTSDdhNlVVYUpkc21QNjhZZXNSN3ItelNCRVR4NVRNNXQ1T3ZmcUtOQl8xb0ZJU1pZZG5Sdno2YWRadUVNWkxuNWVYZjUwRWd4ZnlNSS1JMEJ2Mmk4bE9FbkZKbjZUS00xbzl5eVFHV1oybzlTb3BxUDhvTGJrNmYtSVY0cFJVTUxaU1l3RUhMRDJOX2dNMEN2V01lalBjb1dxQjN4U013UkJEYTVMS1pRN1dUUGxqcVZuMHBveUFMUERYcVNSOXB2cXpSbTNjQ3lLWV9mQVZsdVF1WnV3SHBWSWY0ZlbSAagCQVVfeXFMTnotaE54dk4wTGt2Wko1WGdLbFlMd0Rwa2JBQ1BmczdSVFdZZ2o3UzRuNGlDRkUzY3dwTnFwV3E1U2tORnpTektZSU9hTTdHTDVNUW5SQkd3c3ZGWWhNX1lMQzdmQUQxby1QUzFQTTVmZXZaclZqRzMtUXh5NlZwc0tlMEMxYjRqZmJGYVFBTlliUXZjTndBb3lKYjl0Z056YVNjVVFUY2VFR0hlUmZ4YzB3ckhnWnl6STAtd2NQWnNFQUJpWXlZSTREcUVNdXp5ZjZfS0ZZbWYzb2ZOSzNGMXdlc1JhSDk1OEcyWDFwbDJBMUNWT3JfRW9McTF6Vk0wdkgxRXhvaDdnTXhraVJnTFp3YXV0dk5xVnAxdFVqTDhwRVFWWTdtVkI?oc=5)
-
----
-
-### [Les nutritionnistes révèlent quel est le meilleur fruit pour faire baisser l'hypertension](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
-
-2026-09-13 <span class="news-indication-tag">hypertension</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 
@@ -155,14 +139,6 @@ permalink: /news/isavuconazole/
 2026-09-09 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AFib</span>
 
 來源：[Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzNwN2hXdXVVRHlHMjhKeXZkVXVMVVpKd1RVVG80ZkZBTVJqLWd1eUlNdHV4SXFaWXpFOU9DZXZvb0RObXJiQ2MwMHNoQ2MwekpSM3ZLeVNVeGlOd1lMYTV4R2NiTWZ3Sjl4SnloQzU1NE5oRlRJWmxCaFhwRzYxQ0dtMVNNQWZ5b3FoaUlkTGRsT2VfMUtKRVd3U2JzQ0VHRUlQVVBBUHE?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Neue Leitlinie sieht sofortigen Therapiestart vor](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
-
-2026-09-08 <span class="news-indication-tag">arthritis</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
 
 ---
 

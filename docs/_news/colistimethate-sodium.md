@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Epossiosilipine, lo stop naturale all'infiammazione: scoperta apre la strada a nuove cure per l'artrite](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWl4TFFOQVB6dW5TXzZsM0FCQVdNZGRtVG0tR3NseXNVVTFHNWhZNVpBc3VDckZHOE1uUUl1YnZGTS1uVUlnVG9IQjhkRDdBQ1ZXcDVmV0pGYlhWQUtUMFhnbzU5UmxzNmdDY0tFcGJ0YXg2NlBoSnhLYkxmZWtaMDBLMFVJMFJQNTdtcWpPblBPSDNjYWMyOW5FdWtJcTBnbnF6SVNwSi1sNWVhSUswblJaeUF4TzZ2bG9lX1FvbmhlS0FlUmlmU1hFRE5XdTh2YzNOY0FXZFd6SkV5Q1FiSV93d21XcGE5TGxEYzVWYXBOb3c?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
-### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">arthritis</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
-### [Scientists find a hidden cause of high blood pressure that routine tests can miss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
+### [Scientists find a hidden cause of high blood pressure that routine tests can miss](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
 
 ---
 
@@ -102,19 +102,11 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
-### [Les nutritionnistes révèlent quel est le meilleur fruit pour faire baisser l'hypertension](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+### [Hypertension : 4 signes inattendus le matin !](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
-2026-09-13 <span class="news-indication-tag">hypertension</span>
+2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Neue Leitlinie sieht sofortigen Therapiestart vor](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
-
-2026-09-08 <span class="news-indication-tag">arthritis</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

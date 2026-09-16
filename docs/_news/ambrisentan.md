@@ -52,11 +52,11 @@ permalink: /news/ambrisentan/
 
 ---
 
-### [Scientists find a hidden cause of high blood pressure that routine tests can miss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
+### [Scientists find a hidden cause of high blood pressure that routine tests can miss](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
 
 2026-09-14 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWGl5TG9XV0QxYjZCMHVMU016Y3R6d2xNZDVHVjVJdHZjMUd3RDZwRzc0Y183bVBXelhrbnhaOU84NUNRQllwVDVmYUtfLVR5YktUMXlyRGhHVnlKb0F5MjFjbjBIZkI5V200QmxMYw?oc=5)
 
 ---
 
@@ -68,11 +68,11 @@ permalink: /news/ambrisentan/
 
 ---
 
-### [Les nutritionnistes révèlent quel est le meilleur fruit pour faire baisser l'hypertension](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+### [Hypertension : 4 signes inattendus le matin !](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
-2026-09-13 <span class="news-indication-tag">hypertension</span>
+2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1JbU5jRVQ0aWFUMlA1ejl3dC1SX2c0TExWS2pidXdoRWRLY2cwdUdqWUlCX2NKRWtUQy13NEtYSjgtaDZHNExWazBEM1JzZEc3OU9IMGY1NlQ0QTFCejJKbGJCNmhRU3pONTNNZEZ4azNRMHVVYm9NYVh3al9kWVk?oc=5)
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

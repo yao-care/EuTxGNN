@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -56,7 +56,7 @@ permalink: /news/fluticasone-furoate/
 
 ### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
-2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
@@ -70,19 +70,19 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### [Pedro Marcos, neumólogo: «Las mujeres, fumando lo mismo que los hombres, tienen más riesgo de desarrollar epoc»](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
+### [Pedro Marcos, neumólogo: «Las mujeres, fumando lo mismo que los hombres, tienen más riesgo de desarrollar epoc» - La Voz de Galicia](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
 
 2026-09-15 <span class="news-indication-tag">EPOC</span>
 
-來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRWF1R0VNb0Rvand5ZGxWOUg0M1VrVmZMbWxRT2hUNnJMSFVROUV4WkJHdUZsNWhvWkgxbWhrcFo0c3J2eG82bTlCRU5zT2ZwUFd3WDY1WXo4NkN1bEJiOHZzQkZUMzhNTHRTQVFOVTQzMFRQZm11c3hBcjRZeEtaODF4eE1QOFVxcGlJem15LW5BZXNyc0h1aHFXUzNIWmhjZjJXOUY3Y3hkVXJjbjNqNjlwZVlybXc0cmFaT3ZhQ0UyQUJzUW1MRjFNMWY5MWxFX3Z2Y0EtWlVoSnRZall4U3U1SDRQcWRvRmFmb2dIbWVJZktqWjJWRjlhNUtIU002NGEtZWt3?oc=5)
 
 ---
 
-### [Aussie pet owners called to action as biosecurity threat spreads - Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
+### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">CKD</span>
+2026-09-14 <span class="news-indication-tag">EPOC</span>
 
-來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
 ---
 

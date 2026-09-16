@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Bimatoprost 有什麼相關新聞？">
-<strong>Bimatoprost</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bimatoprost</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/bimatoprost/
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（39 則）
+## 相關新聞（40 則）
 
-### [Mente ed emozioni: allenarsi per mantenere il cervello in forma dopo i 65](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGNTd2FWWC1YdXRfZUtqbVI5eGtoZnRyNVZreG1rUVR4Z1c3UUtYNFpyUXNqUEN1YXV3UGEzWTJIb0QtN2hZVU03RjFyUkJSaEVackthTWw5SDNRRlRSMWNpUU9GaWtQQ3dPWHFncjcxcmExU01za25IOFh2RGtHYnl3NWlGTndISW1JM3BlNktucnlVY2pKMVhEQmdCSkVkbFZHN3BNbnVTQlVFY0prYmlrQnpiU1JUWFdQQjQzVUJ1c1ZiZm9wakY4OFM?oc=5)
+### [5-Year-Old Cat Found as a Stray Back at Shelter After Adoptive Family Never Responds to Calls](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOER3MHJjV2FyUV93eHNnQ2VuWEVMT280UWdIOHhBTFFsX3BteWY0TFBSQVJGTTJKdUVYUEV3NEdXbHlEVzA2M2pJcTRtUHFFeE1GOFdiVG1xT1VETUhtcUZpYWVidUxTUFd2RWNYWTIwZ2RVcVk4RlVTOXIwQVVEdlNMcndTQmU4LVQ3clA0NHpRWEFGdHhsRF9R?oc=5)
 
 2026-09-15 <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGNTd2FWWC1YdXRfZUtqbVI5eGtoZnRyNVZreG1rUVR4Z1c3UUtYNFpyUXNqUEN1YXV3UGEzWTJIb0QtN2hZVU03RjFyUkJSaEVackthTWw5SDNRRlRSMWNpUU9GaWtQQ3dPWHFncjcxcmExU01za25IOFh2RGtHYnl3NWlGTndISW1JM3BlNktucnlVY2pKMVhEQmdCSkVkbFZHN3BNbnVTQlVFY0prYmlrQnpiU1JUWFdQQjQzVUJ1c1ZiZm9wakY4OFM?oc=5)
+來源：[ParadePets](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOER3MHJjV2FyUV93eHNnQ2VuWEVMT280UWdIOHhBTFFsX3BteWY0TFBSQVJGTTJKdUVYUEV3NEdXbHlEVzA2M2pJcTRtUHFFeE1GOFdiVG1xT1VETUhtcUZpYWVidUxTUFd2RWNYWTIwZ2RVcVk4RlVTOXIwQVVEdlNMcndTQmU4LVQ3clA0NHpRWEFGdHhsRF9R?oc=5)
+
+---
+
+### [Study reveals possible link between GLP-1 weight loss drugs and rare brain condition - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFdLX3Y5MlBzaDQyZ0FNcnhoQ1kwOVJsTDNYNXQ5c1IyeGJ1YUZYbDdNb0NfRzBtZ09ZZVJJZkNhWTA1U3Y0OHg4bU1ZM09UZ1oxZ3VjblI1TThfbXVGSEJUc01yVDBieUgtTFJJaXc5Rm05d0s0Y1JSWWFEaHNrMVY2Uk5tV2QtUFI4bXp5X21FNDVSSFBQaVVR?oc=5)
+
+2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFdLX3Y5MlBzaDQyZ0FNcnhoQ1kwOVJsTDNYNXQ5c1IyeGJ1YUZYbDdNb0NfRzBtZ09ZZVJJZkNhWTA1U3Y0OHg4bU1ZM09UZ1oxZ3VjblI1TThfbXVGSEJUc01yVDBieUgtTFJJaXc5Rm05d0s0Y1JSWWFEaHNrMVY2Uk5tV2QtUFI4bXp5X21FNDVSSFBQaVVR?oc=5)
 
 ---
 
@@ -166,11 +174,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [West Nile, un altro decesso a Oristano: è il quarto da inizio anno - L'Unione Sarda.it - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2Y0V1VUTDF1ZnJlWnVkTlg0aV9kWjZTazJvTF9RemxnT2d1d1lFc2RVX0FLeklrRGIwM3NGRVhOaWU5b1MxcFlTYU1pNGlodHhDMWthc3d5T19mWkREUEt6ODV1Z3RhcEFhLVdwS1BvdFM0RW9wWTY2UWIwTzVzb1VrdEoyM1EzNjZFbzJZQUJuaVVMekdiTnlQR3ljLV9Oem9IUlhWNEdXWG9nQWtIWjJGQ04wRHFGX08wX1FkV2ota3RhWm5IYlhUSFlhQdIB1gFBVV95cUxOdGJsb0lLVVFVbm5SSDRPUG93ZUpZaGpKa21Lc1Fzc2g4aWRnVkJsS0NTRFdmVzBQZWRSdThBX3lDZ2FUTWxHbHRkUE9sTXN5R1NTT3RoRnVHVmQtSTZiLUVXUFBweGUyVmJjQzNaSEdlX3BxYmFqcVdVS3NKaFlZMlJsRExacWlzcGY0dk44UWFFUWNvbjQtNVZ6UEljVTNwNkpKbGh4ZU0xd2liR1VXVVd0WjB1cFZuRURJVVpoR0pWRjR1ZUNMMkt5Z0c5bWlGTGF4RUR3?oc=5)
+### [West Nile, un altro decesso a Oristano: è il quarto da inizio anno - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2Y0V1VUTDF1ZnJlWnVkTlg0aV9kWjZTazJvTF9RemxnT2d1d1lFc2RVX0FLeklrRGIwM3NGRVhOaWU5b1MxcFlTYU1pNGlodHhDMWthc3d5T19mWkREUEt6ODV1Z3RhcEFhLVdwS1BvdFM0RW9wWTY2UWIwTzVzb1VrdEoyM1EzNjZFbzJZQUJuaVVMekdiTnlQR3ljLV9Oem9IUlhWNEdXWG9nQWtIWjJGQ04wRHFGX08wX1FkV2ota3RhWm5IYlhUSFlhQdIB1gFBVV95cUxOdGJsb0lLVVFVbm5SSDRPUG93ZUpZaGpKa21Lc1Fzc2g4aWRnVkJsS0NTRFdmVzBQZWRSdThBX3lDZ2FUTWxHbHRkUE9sTXN5R1NTT3RoRnVHVmQtSTZiLUVXUFBweGUyVmJjQzNaSEdlX3BxYmFqcVdVS3NKaFlZMlJsRExacWlzcGY0dk44UWFFUWNvbjQtNVZ6UEljVTNwNkpKbGh4ZU0xd2liR1VXVVd0WjB1cFZuRURJVVpoR0pWRjR1ZUNMMkt5Z0c5bWlGTGF4RUR3?oc=5)
 
 2026-09-15 <span class="news-indication-tag">AF</span>
 
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2Y0V1VUTDF1ZnJlWnVkTlg0aV9kWjZTazJvTF9RemxnT2d1d1lFc2RVX0FLeklrRGIwM3NGRVhOaWU5b1MxcFlTYU1pNGlodHhDMWthc3d5T19mWkREUEt6ODV1Z3RhcEFhLVdwS1BvdFM0RW9wWTY2UWIwTzVzb1VrdEoyM1EzNjZFbzJZQUJuaVVMekdiTnlQR3ljLV9Oem9IUlhWNEdXWG9nQWtIWjJGQ04wRHFGX08wX1FkV2ota3RhWm5IYlhUSFlhQdIB1gFBVV95cUxOdGJsb0lLVVFVbm5SSDRPUG93ZUpZaGpKa21Lc1Fzc2g4aWRnVkJsS0NTRFdmVzBQZWRSdThBX3lDZ2FUTWxHbHRkUE9sTXN5R1NTT3RoRnVHVmQtSTZiLUVXUFBweGUyVmJjQzNaSEdlX3BxYmFqcVdVS3NKaFlZMlJsRExacWlzcGY0dk44UWFFUWNvbjQtNVZ6UEljVTNwNkpKbGh4ZU0xd2liR1VXVVd0WjB1cFZuRURJVVpoR0pWRjR1ZUNMMkt5Z0c5bWlGTGF4RUR3?oc=5)
+來源：[unionesarda.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2Y0V1VUTDF1ZnJlWnVkTlg0aV9kWjZTazJvTF9RemxnT2d1d1lFc2RVX0FLeklrRGIwM3NGRVhOaWU5b1MxcFlTYU1pNGlodHhDMWthc3d5T19mWkREUEt6ODV1Z3RhcEFhLVdwS1BvdFM0RW9wWTY2UWIwTzVzb1VrdEoyM1EzNjZFbzJZQUJuaVVMekdiTnlQR3ljLV9Oem9IUlhWNEdXWG9nQWtIWjJGQ04wRHFGX08wX1FkV2ota3RhWm5IYlhUSFlhQdIB1gFBVV95cUxOdGJsb0lLVVFVbm5SSDRPUG93ZUpZaGpKa21Lc1Fzc2g4aWRnVkJsS0NTRFdmVzBQZWRSdThBX3lDZ2FUTWxHbHRkUE9sTXN5R1NTT3RoRnVHVmQtSTZiLUVXUFBweGUyVmJjQzNaSEdlX3BxYmFqcVdVS3NKaFlZMlJsRExacWlzcGY0dk44UWFFUWNvbjQtNVZ6UEljVTNwNkpKbGh4ZU0xd2liR1VXVVd0WjB1cFZuRURJVVpoR0pWRjR1ZUNMMkt5Z0c5bWlGTGF4RUR3?oc=5)
 
 ---
 
@@ -182,11 +190,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Bere caffè o tè bollenti aumenta di 3 volte il rischio di tumore: ecco quali sono i pericoli e come evitarli](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWZ6T0FMUFNacHA0VzBrWU43ZnpVWTBEdmJUTEd6UkdOWHVrOFgxcXk0SVMtV3dobnJvYW14ZkxLdW9Ld012V0c3V2UzWXFMM0gxRE40S2hhbm5RUTNDSmZSOHlHdEFfQ0MtS2tYVWxwWGtCSkViZF8xTkZITS1VcEFrR3ktcVVQM1B6MFhMM0I4MlJORV93OGFZYU15MUVpYzgxTEZuNlB0Z3RhMXVWRklrR3RYU1RZNl9RX2hReF9fWE9IZHVYeVVnRVN5VV9ra1pGM1VseDVoQnY1a3FENUpsMA?oc=5)
+### [Bere caffè o tè bollenti aumenta di 3 volte il rischio di tumore: ecco quali sono i pericoli e come evitarli - il Giornale](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWZ6T0FMUFNacHA0VzBrWU43ZnpVWTBEdmJUTEd6UkdOWHVrOFgxcXk0SVMtV3dobnJvYW14ZkxLdW9Ld012V0c3V2UzWXFMM0gxRE40S2hhbm5RUTNDSmZSOHlHdEFfQ0MtS2tYVWxwWGtCSkViZF8xTkZITS1VcEFrR3ktcVVQM1B6MFhMM0I4MlJORV93OGFZYU15MUVpYzgxTEZuNlB0Z3RhMXVWRklrR3RYU1RZNl9RX2hReF9fWE9IZHVYeVVnRVN5VV9ra1pGM1VseDVoQnY1a3FENUpsMA?oc=5)
 
 2026-09-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[ilgiornale.it](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWZ6T0FMUFNacHA0VzBrWU43ZnpVWTBEdmJUTEd6UkdOWHVrOFgxcXk0SVMtV3dobnJvYW14ZkxLdW9Ld012V0c3V2UzWXFMM0gxRE40S2hhbm5RUTNDSmZSOHlHdEFfQ0MtS2tYVWxwWGtCSkViZF8xTkZITS1VcEFrR3ktcVVQM1B6MFhMM0I4MlJORV93OGFZYU15MUVpYzgxTEZuNlB0Z3RhMXVWRklrR3RYU1RZNl9RX2hReF9fWE9IZHVYeVVnRVN5VV9ra1pGM1VseDVoQnY1a3FENUpsMA?oc=5)
+來源：[il Giornale](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWZ6T0FMUFNacHA0VzBrWU43ZnpVWTBEdmJUTEd6UkdOWHVrOFgxcXk0SVMtV3dobnJvYW14ZkxLdW9Ld012V0c3V2UzWXFMM0gxRE40S2hhbm5RUTNDSmZSOHlHdEFfQ0MtS2tYVWxwWGtCSkViZF8xTkZITS1VcEFrR3ktcVVQM1B6MFhMM0I4MlJORV93OGFZYU15MUVpYzgxTEZuNlB0Z3RhMXVWRklrR3RYU1RZNl9RX2hReF9fWE9IZHVYeVVnRVN5VV9ra1pGM1VseDVoQnY1a3FENUpsMA?oc=5)
 
 ---
 
@@ -195,14 +203,6 @@ permalink: /news/bimatoprost/
 2026-09-15 <span class="news-indication-tag">AF</span>
 
 來源：[Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQcHRvMUlLSUtFVGNsSTV1T0pmVTZIWmdIVEo5LXliYi1CTGxFMEoxWEZMTndtc2R4ZVU3TDFCRDVjS256ZndndWlKaWZKelhtcVpvaDl6Tmc0dXdLcUlMMjFsQ1BKT05wVmpEZzdnU2ttUkZBNzJIcS1NV3JjR0REclo4VURnM1ZMREJpYmxjT1ZOQmp3dklqVFVnSmY0eGRCWWE4V0JiSGFwZ1FkTGNzREJPUl9nVjBFX1p6SHdsdHg3cWlTUmhVQk0wT0duUE1CaEQ2Ym9yVFdQdUh6RXJLalB3b0xVVzFYUUhOREl0YnpRSTVxTVVhQmR0Szl2c1NSZ2RvUFBRY3dZb2ctZ2NvVXBhMzZmZC0xNjFvNVBR0gGyAkFVX3lxTE1mbDZhbFRLNjNvV2NrY2FZUzFRclNyX2lpS1NXZjJ6OHNPUml5dXBKV0hmMEZOREpLSW5XRWFoSXUyVEhmc3NmWjVKQTVHRlRFcHpWVEQ5SWxOS0E3R09sS1lvYU5xUTlMTTRLMk9ZTko0VHNqbGdUdzd2QUNfQjhsU2VjQlBWQWZERmRyV3RYSU1BdTVZRGdIN05tQkZGVGs4d05pSFRMNHNXUjEzV1BVbXRmX0ZveWlvQkN6MmYybVRSTHoxRFVpOVRNcjVFaG5aRm1QLVhLRVY5NzlsUmtQS2F1TjNHNngtcGZNQmdVWDROZlJheFBsemdabzc1OFhJTXUwTWl3eHVNc0pHMm1ZVkdjSlNqNnNRMXdVak1Pdi1FQmtESVVUWGlON0taM1V4Zw?oc=5)
-
----
-
-### [Frühstücksfehler: Wer das morgens macht, nimmt laut Expertin schneller zu - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFFadUpFT28tLUFkWVBtMkJSeTRzUGhsQ3JZdG1KVzJ6M0hTb2xYNkpxU0Z2Q1Ytb0xmRWZwR1JtRHRDZGg1Y25ZNHdtbE5iSWVyVmZTQm5wOEFfZmg0Y2tUb3VROUtKdFZZaHpmb3VZWVIxaVFxcndJSHdsQ09ZNTNhd2x5REdPa3RMWUpINnBwdF9veFRuWDRFYVJLUkhmM2ZsQTE2TXZ3OXFUZGkySElFYVVNRi0xVnlNdDRqWQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFFadUpFT28tLUFkWVBtMkJSeTRzUGhsQ3JZdG1KVzJ6M0hTb2xYNkpxU0Z2Q1Ytb0xmRWZwR1JtRHRDZGg1Y25ZNHdtbE5iSWVyVmZTQm5wOEFfZmg0Y2tUb3VROUtKdFZZaHpmb3VZWVIxaVFxcndJSHdsQ09ZNTNhd2x5REdPa3RMWUpINnBwdF9veFRuWDRFYVJLUkhmM2ZsQTE2TXZ3OXFUZGkySElFYVVNRi0xVnlNdDRqWQ?oc=5)
 
 ---
 
@@ -238,14 +238,6 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Hafer-, Mandel- oder Sojadrink: Worauf es beim Kauf ankommt](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhjbHgwUnpKaFhndW9qZFBFc2RuZC1wMXpFZ3UyWkJtTHdTU0hCWVdHWmtMMmhuZ0FwbHBhOTNqTTJzcHJNMTMtUGZXR1daWDBEZkhXek96RkZiVmFsY3RNR2gzVkFKZHZwcFNsOGdHeV9OTFRlN3FtVHAzZEdMNmVFQXc3VmJ2dHI1S2tIUGZZa0pOS3c?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhjbHgwUnpKaFhndW9qZFBFc2RuZC1wMXpFZ3UyWkJtTHdTU0hCWVdHWmtMMmhuZ0FwbHBhOTNqTTJzcHJNMTMtUGZXR1daWDBEZkhXek96RkZiVmFsY3RNR2gzVkFKZHZwcFNsOGdHeV9OTFRlN3FtVHAzZEdMNmVFQXc3VmJ2dHI1S2tIUGZZa0pOS3c?oc=5)
-
----
-
 ### [Pazienti che non esistono e radiografie deepfake: l’intelligenza artificiale apre una nuova frontiera delle frodi mediche](https://news.google.com/rss/articles/CBMiigJBVV95cUxPek5lbGR6VERiUmk1eXJRSjM0U1JuZjVWaVI1RGhyWmg5eVA3LVVTU19UdXZGZG5EX1N4UGUyandwZDBlXzQxaUJJWmlOOGJVZElhUnJER2V1QTZwV2VrRURtOEtlSlA1NENhVnpVWVRIZG5MX2JMZXpBcENXVTNlOHFaS01BYmFPNk93LUJlZXBKZDB5RDkyckxmNUZ5RER1S0lRaXR5ZmpVdE5LMTVvaDFnelpjamVMQ1RWU0JxZlZ5aGN2YTRtZ2tBWVY5RFIzV3VSMjlqTVVjcnJDOUxDb3dyVXVXZm1fV3RQYUtQTU9ualZaTXc2Z0VqRDdLRHQtYnZGd191ZWZZQQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AF</span>
@@ -278,6 +270,14 @@ permalink: /news/bimatoprost/
 
 ---
 
+### [Ottavia, che convive con la Colangite Biliare Primitiva: «Il prurito è stato terribile, soprattutto nei primi anni. La notte diventava più forte, mi svegliavo e mi grattavo fino a procurarmi delle ferite. La mattina poi dovevo alzarmi e affrontare la giornata» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSFBBWWdWZE82YXl1YVZobV9uQThBeXlqelRyNDBQM0VTMG1hRGRueUJacHVnVFdYT25ham1vZEh5TkhZZEFGNXpSbDRiRjB4MFRFRWdBeVF2MnlrSWNxT1k1VFBJNmc1ZjBxamZpTW1WdUFWRWZRR3g2dGVIRmM3TmFVWWJ1QldaUUFPWmQ4YWE1eHVZMkFfajBkSk1XSlZ3S1VMUzhtZVdmakFNSmhwWkNHcV9vUkVTSDdpRkt3VXhObElELVB4YUJPbmNmbjNIVkgwQXFnS1lkNkFHOXQyWTFiclJnYVdHSlRjakJIMHBjNlJlVEVKZnY0VnN3VU1DenRVRW9CM01oOXA2WDVLUVNqV3N1NTc0NGpqR0dYd0JDS1k1R0VUc0NIOHdEUGxYWXlUMS1FREYzYXVrd0VUeGs4MWc5UzZEaGRwTmItbEdPOGdod3QxQkRR?oc=5)
+
+2026-09-14 <span class="news-indication-tag">AF</span>
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSFBBWWdWZE82YXl1YVZobV9uQThBeXlqelRyNDBQM0VTMG1hRGRueUJacHVnVFdYT25ham1vZEh5TkhZZEFGNXpSbDRiRjB4MFRFRWdBeVF2MnlrSWNxT1k1VFBJNmc1ZjBxamZpTW1WdUFWRWZRR3g2dGVIRmM3TmFVWWJ1QldaUUFPWmQ4YWE1eHVZMkFfajBkSk1XSlZ3S1VMUzhtZVdmakFNSmhwWkNHcV9vUkVTSDdpRkt3VXhObElELVB4YUJPbmNmbjNIVkgwQXFnS1lkNkFHOXQyWTFiclJnYVdHSlRjakJIMHBjNlJlVEVKZnY0VnN3VU1DenRVRW9CM01oOXA2WDVLUVNqV3N1NTc0NGpqR0dYd0JDS1k1R0VUc0NIOHdEUGxYWXlUMS1FREYzYXVrd0VUeGs4MWc5UzZEaGRwTmItbEdPOGdod3QxQkRR?oc=5)
+
+---
+
 ### [Four kids hospitalised and 44 infected by superbug outbreak on BOUNCY CASTLE - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmEyd1J4M3FLNWliMU9zdWRfSUhuVjlxMjZHSkduVEpTN1FkbHJlRlNyUkUwcU1jVk5fSldlRnNKQ0RfbDMwREtQYVZSSWh1dzRJLUlxd2tYUlc4TlFEZ29oQzRBa1pMeTJVRDBNTGxUNnF3Z3MwdGpudVdMM21GVmpfVkItdjRCQW1GbWtMa3g?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AF</span>
@@ -286,11 +286,27 @@ permalink: /news/bimatoprost/
 
 ---
 
+### [Saft oder Smoothie - was ist die gesündere Wahl? - Radio Vest](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2pZQmlQRTNxNlkwWWVBejdZTUtYZGluTUgyQTAwQ084VFVnYlBweEdEWmt3eXRCdmRlUUxjWHduc2hRR2x0S0VRcEU3NGd2MzZlYW83VE95WXpNUUt0Mk1CdEdWN0pObGpjbzA3c1RBWUNzN2EyeFNvMkFFSnhCN0NwOFZLaTFud2NF?oc=5)
+
+2026-09-14 <span class="news-indication-tag">AF</span>
+
+來源：[Radio Vest](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2pZQmlQRTNxNlkwWWVBejdZTUtYZGluTUgyQTAwQ084VFVnYlBweEdEWmt3eXRCdmRlUUxjWHduc2hRR2x0S0VRcEU3NGd2MzZlYW83VE95WXpNUUt0Mk1CdEdWN0pObGpjbzA3c1RBWUNzN2EyeFNvMkFFSnhCN0NwOFZLaTFud2NF?oc=5)
+
+---
+
 ### [Il utilise ChatGPT dans son laboratoire et découvre qu’un médicament contre la schizophrénie pourrait aider à traiter Alzheimer - La Crème Du Gaming](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlYtYnpDdnVQa1psZ2I4bTVneU1rejB0QnVnRTBrbW1XWHZhQTBfU0xGb243dEFJdGsyTE5FVzkwNGZ5WXNWY00zaUhlLVJjWkh3MEI1dDRFU2NjTnB6S05xQ3FsMGFzNU5rcmpFd1JfZzNqbWY5dUpUbDNwV2RIZmdIbEp2YVBxSi0ydnJSbWxtVjBTUnZJX2NZRUlFUHEzOUR5eTduY3NNSks5OTIzUjFkUDZBWGRnNmctS2xUTFBUZXZQY0F2QU42SXVCQ1d4ZTZNWGxkaERPVkx1Um55SGc0aGN2ZThQQjJMX25sbE9JNzVzenV1enpyWmkyd3NrLXpHSkExWm1IdVU?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
 來源：[La Crème Du Gaming](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlYtYnpDdnVQa1psZ2I4bTVneU1rejB0QnVnRTBrbW1XWHZhQTBfU0xGb243dEFJdGsyTE5FVzkwNGZ5WXNWY00zaUhlLVJjWkh3MEI1dDRFU2NjTnB6S05xQ3FsMGFzNU5rcmpFd1JfZzNqbWY5dUpUbDNwV2RIZmdIbEp2YVBxSi0ydnJSbWxtVjBTUnZJX2NZRUlFUHEzOUR5eTduY3NNSks5OTIzUjFkUDZBWGRnNmctS2xUTFBUZXZQY0F2QU42SXVCQ1d4ZTZNWGxkaERPVkx1Um55SGc0aGN2ZThQQjJMX25sbE9JNzVzenV1enpyWmkyd3NrLXpHSkExWm1IdVU?oc=5)
+
+---
+
+### [Rosa Izu, dermatóloga: "El picor de la dermatitis atópica afecta a la calidad de vida porque interfiere en el sueño" - Onda Vasca](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTXhYOUM0b2NSMnA1Z21vVDhMM3JzT0QtVC10U2JfNlJDdzJiTnlJSTA3d0hJNzZOX0ItTDNNWGFqWkIzNXpmTXk0UGpIRUY0MWhUVWpZZ1g0Tk1WTEZUNVpYWmxJVXBla2wzTmpFTnFxTFV3ZFRvTWhHZXZXSTQtRnJwQjdpcTdoOFU1RkN5MnNvTzNtQjJoXzhxX0pxSWFYejJIcmRLRUtuemdXUEZTZGJfT1RtTmprTGZuU1Bfbm81QUlQXzRLWURZbnlDRFZkZ1RjdERB?oc=5)
+
+2026-09-14 <span class="news-indication-tag">AF</span>
+
+來源：[Onda Vasca](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTXhYOUM0b2NSMnA1Z21vVDhMM3JzT0QtVC10U2JfNlJDdzJiTnlJSTA3d0hJNzZOX0ItTDNNWGFqWkIzNXpmTXk0UGpIRUY0MWhUVWpZZ1g0Tk1WTEZUNVpYWmxJVXBla2wzTmpFTnFxTFV3ZFRvTWhHZXZXSTQtRnJwQjdpcTdoOFU1RkN5MnNvTzNtQjJoXzhxX0pxSWFYejJIcmRLRUtuemdXUEZTZGJfT1RtTmprTGZuU1Bfbm81QUlQXzRLWURZbnlDRFZkZ1RjdERB?oc=5)
 
 ---
 
@@ -318,22 +334,6 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Adipositas und Rheuma: Der gemeinsame Nenner](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
-
----
-
-### [From ‘Ozempic breath’ to hair loss: sorting the science from the hype about weight loss jabs - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUx5Ri1KLTBPTmpGQ0d5VHkwV3JrcHc0TndzS1dQTjBPN2NiRDVNV1hKYWM5Q21WMnlocUxEdFUyWHh0ejI0dm5VQ1BQaG9ad0wtdnZYWFpUM19tWUd1UlA1di0zaTN0dnpnZ2JOdTh4NExKZXNjVDlQTjM2YUd2MUxzRl9wTVFZUVA1cFJTQ2xDOTlDWVdBOW8taG9IdFI5V1JDbg?oc=5)
-
-2026-09-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUx5Ri1KLTBPTmpGQ0d5VHkwV3JrcHc0TndzS1dQTjBPN2NiRDVNV1hKYWM5Q21WMnlocUxEdFUyWHh0ejI0dm5VQ1BQaG9ad0wtdnZYWFpUM19tWUd1UlA1di0zaTN0dnpnZ2JOdTh4NExKZXNjVDlQTjM2YUd2MUxzRl9wTVFZUVA1cFJTQ2xDOTlDWVdBOW8taG9IdFI5V1JDbg?oc=5)
-
----
-
 ### [Weniger Sitzen und mehr Bewegung könnte Risiko für hypertensive Schwangerschaftserkrankungen senken – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
 
 2026-09-11 <span class="news-indication-tag">AF</span>
@@ -347,6 +347,14 @@ permalink: /news/bimatoprost/
 2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ213VzZtX01qZF8tRE1INzJHUGJPanJKZVhVcXluNUgtdDNaTVF4VTEwMGFjbnhhTHdNOTkwbjlNUzhDMGxUcHhHVWlqbHUySEs1OEFjTHpMbVFV?oc=5)
+
+---
+
+### [Adipositas-bedingte Veränderungen des Immunsystems sind umkehrbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
+
+2026-09-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1RNMURwR1dTeTcwSlN0c0k2RW90UmluQkxOWGVQY1lOOUpnUm1fRzd6NkpFaEtXSFktYVRfdThCOG1ZSW1RdXF5cDI1VklvRzZCX2g4ZXJ1cmYzbUU5Q1RwbVhWY1VxM1VKV3VmQmZMWE5zR0t5YnBIRkRUNlNCQVpRVDM0ZlVvRU9DektyR0gyVkdQUnRCM1hOaUk5c3dQdmJDQ0Y4WXFBOVF0UTRILVNWNEs?oc=5)
 
 ---
 

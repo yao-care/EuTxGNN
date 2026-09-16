@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthma 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthma 有什麼相關新聞？">
+<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,21 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
 2026-09-15
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [Aussie pet owners called to action as biosecurity threat spreads - Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
-
-2026-09-14
-
-來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
 
 ---
 

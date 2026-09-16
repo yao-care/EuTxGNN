@@ -54,6 +54,14 @@ permalink: /news/tolcapone/
 
 ## 相關新聞（4 則）
 
+### [Doctor says early dementia warning sign appears 15 years prior - what to look for - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
+
+2026-09-15 <span class="news-indication-tag">dementia</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
+
+---
+
 ### [Reading for pleasure cuts dementia risk by third, Cambridge study finds - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
 
 2026-09-15 <span class="news-indication-tag">dementia</span>
@@ -67,14 +75,6 @@ permalink: /news/tolcapone/
 2026-09-14 <span class="news-indication-tag">dementia</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1NMi1YWFYwMVM2Qy0wX3pMUkJMMFVpR1g0SlBkQ05halhPZFQ5U3RFRkJxdGt4aWtSUk9hSGdfLTFjOWpaRlNsN1RXaWdBSW9MZVBZQ3drTDFGQVNmeVBQS0E0UG01eFVYOUlTOWVoOG94Mnl3cEdDVmxpUTNtdG9KRTYxUkJrLWNxRUNxczNuUlBiRWxRRUE3NA?oc=5)
-
----
-
-### ["Être aidant, c’est porter deux vies à la fois" : comment son mari est devenu un soutien essentiel pour cette Ariégeoise souffrant de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
-
-2026-09-14 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
 
 ---
 

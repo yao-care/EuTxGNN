@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/oritavancin-diphosphate/
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
-2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [Aussie pet owners called to action as biosecurity threat spreads - Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">CKD</span>
-
-來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmtLVlNBLXE3dl9ZVHV2ZlowRzZGdXJ4SUJGZy0wS3BJVG1YSHE0M3UtQmV1YzNuNG1jN3FvMFE3eTF6MDduTGJ2SWlreFB5bTJLZ0Z0cmJHb2NsRFQtRHpqZkN6dUJyZlZfaWFCNmJpdGI1aW80Xy1Rc3NWU0ZJdXFkaE4yMlpmT1lLUlZnTkdoSXFrMDYwZlhYd2p0TGpfTk1rRG9sTkQ?oc=5)
 
 ---
 

@@ -54,11 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（5 則）
 
+### [Study reveals possible link between GLP-1 weight loss drugs and rare brain condition - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFdLX3Y5MlBzaDQyZ0FNcnhoQ1kwOVJsTDNYNXQ5c1IyeGJ1YUZYbDdNb0NfRzBtZ09ZZVJJZkNhWTA1U3Y0OHg4bU1ZM09UZ1oxZ3VjblI1TThfbXVGSEJUc01yVDBieUgtTFJJaXc5Rm05d0s0Y1JSWWFEaHNrMVY2Uk5tV2QtUFI4bXp5X21FNDVSSFBQaVVR?oc=5)
+
+2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFdLX3Y5MlBzaDQyZ0FNcnhoQ1kwOVJsTDNYNXQ5c1IyeGJ1YUZYbDdNb0NfRzBtZ09ZZVJJZkNhWTA1U3Y0OHg4bU1ZM09UZ1oxZ3VjblI1TThfbXVGSEJUc01yVDBieUgtTFJJaXc5Rm05d0s0Y1JSWWFEaHNrMVY2Uk5tV2QtUFI4bXp5X21FNDVSSFBQaVVR?oc=5)
+
+---
+
 ### [I'm a fat-positive writer taking Mounjaro — that doesn’t make me a hypocrite](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkVQalcyaU9Sd25saXExcF9jVmxqX1JydFVZdTFtVXRlZWVFdG9LMFU0ejVZYjBWZlEzM0FJS0hObVJ6T21XbkxwYlllRGg2VWRuU1ZLQ3BQaDYtSEhkQVFJWjFFMERHLWx2SGFwVUtwWmF3ZU1TbDcyLWJkVFZ4WmhnQ1lmTk1TNXlvb1NWN3dJcGtuYUM4S1dKbHhqOTFKZTRTT2xUelnSAa4BQVVfeXFMUDlHNG5VNnRBZWIwSnNsR3k0WDhhWU1BeHJzaHlaenlkaFVHOWF4NG1mQXBud3JNTk9UOGxvc0hueENhVjl0TXVFWWRpY0VLWUtwclE0eUJQOU1RU3RveHJZalJZaXhoQUZIaEF3U3dfTHI4THk2V3VTUWZONHhZeUgzSk91U1dsb05hbWdtQ2pEMjFUUDB0Q2xYTnNfRWhpblVvSTdSZUp3ZXBYY0NB?oc=5)
 
 2026-09-15 <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkVQalcyaU9Sd25saXExcF9jVmxqX1JydFVZdTFtVXRlZWVFdG9LMFU0ejVZYjBWZlEzM0FJS0hObVJ6T21XbkxwYlllRGg2VWRuU1ZLQ3BQaDYtSEhkQVFJWjFFMERHLWx2SGFwVUtwWmF3ZU1TbDcyLWJkVFZ4WmhnQ1lmTk1TNXlvb1NWN3dJcGtuYUM4S1dKbHhqOTFKZTRTT2xUelnSAa4BQVVfeXFMUDlHNG5VNnRBZWIwSnNsR3k0WDhhWU1BeHJzaHlaenlkaFVHOWF4NG1mQXBud3JNTk9UOGxvc0hueENhVjl0TXVFWWRpY0VLWUtwclE0eUJQOU1RU3RveHJZalJZaXhoQUZIaEF3U3dfTHI4THk2V3VTUWZONHhZeUgzSk91U1dsb05hbWdtQ2pEMjFUUDB0Q2xYTnNfRWhpblVvSTdSZUp3ZXBYY0NB?oc=5)
+來源：[metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkVQalcyaU9Sd25saXExcF9jVmxqX1JydFVZdTFtVXRlZWVFdG9LMFU0ejVZYjBWZlEzM0FJS0hObVJ6T21XbkxwYlllRGg2VWRuU1ZLQ3BQaDYtSEhkQVFJWjFFMERHLWx2SGFwVUtwWmF3ZU1TbDcyLWJkVFZ4WmhnQ1lmTk1TNXlvb1NWN3dJcGtuYUM4S1dKbHhqOTFKZTRTT2xUelnSAa4BQVVfeXFMUDlHNG5VNnRBZWIwSnNsR3k0WDhhWU1BeHJzaHlaenlkaFVHOWF4NG1mQXBud3JNTk9UOGxvc0hueENhVjl0TXVFWWRpY0VLWUtwclE0eUJQOU1RU3RveHJZalJZaXhoQUZIaEF3U3dfTHI4THk2V3VTUWZONHhZeUgzSk91U1dsb05hbWdtQ2pEMjFUUDB0Q2xYTnNfRWhpblVvSTdSZUp3ZXBYY0NB?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+### [Nearly 10,000 patients reveal what works best for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">arthritis</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcU5OSDdXc1kyRHhaZFNwZWc5RnBXUTJEUXdRaHQ1WFBELWE2ekpveXQ2OV9YMGZpb1g1eXI1ay1ERGpKblJRWlRVNm84ZzNuSFdaZTNYRTBtVUt1aUZaMzd4QnFsekVsWVNEQmFpbw?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/tirzepatide/
 2026-09-14 <span class="news-indication-tag">artrite</span>
 
 來源：[DiLei](https://news.google.com/rss/articles/CBMieEFVX3lxTE9UVzF2eERSYTNxbmM1U3ZtWFpTQmtGaGlVNkluTjJsREt1SVM2ek10OE9TSm9oWGRJV1JJaHFQM0dNazd1MUpuNHRjN0JjY1dBaF9VSWkwdDRpdjlKLXNFQ3pkenpkWm54b1FyUjdNS0IxRGsyRzVrUNIBfkFVX3lxTE9Ia2pHMUMwdkNlNEo4ZE5LMnphM3dNd3hCdFl5LTV2X0E4NjgwQmh5dHZGMm5VOW9OTDU0Y2FQSU1pU2UtUXY0MU9CMENfQ2lhR2xkZ2ZzNFpaQl81ZlJiM0t2ekc1VnVQc1hfYjZ6M2NsYTBlSW5RWGEwR1FHQQ?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Neue Leitlinie sieht sofortigen Therapiestart vor](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
-
-2026-09-08 <span class="news-indication-tag">arthritis</span>
-
-來源：[BornCity](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNk1QSUhCV0ZrTFJVNjh5NE9UdWo3V1kweEJQeERZNjk1T0J2YXhfVURSSklfYldnLWlCNXZRbG95R1BJQXhDZmdycEtCTGV2akQwY2hjcW15NkdsT1pvOGNPbDk2SzQtbnRra0Vnb2lHdWlTMFUzdmprQWRNNDViVlJxUFBkbFRGX1dXRHJWU295NmJjN3BfSnpsZFJ1NHM?oc=5)
 
 ---
 
