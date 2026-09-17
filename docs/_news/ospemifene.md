@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="Ospemifene 有什麼相關新聞？">
-<strong>Ospemifene</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ospemifene</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ospemifene/
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
 2026-09-17 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
-
----
-
-### [CVRx informiert zum Weltherztag am 29. September / Bluthochdruck: Den wichtigsten ...](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
-
-2026-09-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
 
 ---
 
@@ -78,6 +70,14 @@ permalink: /news/ospemifene/
 
 ---
 
+### [Sbloccare l'accesso alle terapie per l'emicrania: meno burocrazia, criteri tecnici e sottocodici](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
+
+2026-09-16 <span class="news-indication-tag">emicrania</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
+
+---
+
 ### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 
 2026-09-16 <span class="news-indication-tag">artritis</span>
@@ -86,19 +86,11 @@ permalink: /news/ospemifene/
 
 ---
 
-### [Arzt rät zu Kapseln: „Mein Omega-3-Wert war katastrophal. Heute ist er optimal“](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
+### [Arzt rät zu Kapseln: „Mein Omega-3-Wert war katastrophal. Heute ist er optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">arthritis</span>
 
-來源：[morgenpost.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
-
----
-
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
 
 ---
 
@@ -106,7 +98,7 @@ permalink: /news/ospemifene/
 
 2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 

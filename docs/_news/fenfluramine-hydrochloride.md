@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
 
-### [Ketogene Diät: 67% weniger Leberfett in vier bis fünf Monaten](https://news.google.com/rss/articles/CBMiugFBVV95cUxOck1fbG1iNTBSVnF1MGc5X3FSTXhnNXdPRFVfb1ZFQXNHVDlNc1NtbVBMd1pKV1ZTTEF1QUxreTVsRmswaVJBUnYySTBsTklMZ0psTmVGQTB1SjNFU28wTmJseDh4TExVYVRyb21QUThGQ0ZlczgxY0hLUk5DTUdsaEp4a3FjWmhReGZzakRJWVlwT3ZrQ0t3WjBvX1FwbVBHYmtDQy1UUmFkX3AxWjRwRm5qSnBoTC0wa0E?oc=5)
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOck1fbG1iNTBSVnF1MGc5X3FSTXhnNXdPRFVfb1ZFQXNHVDlNc1NtbVBMd1pKV1ZTTEF1QUxreTVsRmswaVJBUnYySTBsTklMZ0psTmVGQTB1SjNFU28wTmJseDh4TExVYVRyb21QUThGQ0ZlczgxY0hLUk5DTUdsaEp4a3FjWmhReGZzakRJWVlwT3ZrQ0t3WjBvX1FwbVBHYmtDQy1UUmFkX3AxWjRwRm5qSnBoTC0wa0E?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
+
+---
+
+### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+
+2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
 ---
 
@@ -78,6 +86,22 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### ["Tu es trop gros, tu n'as pas droit aux soins" : un patient doit renoncer à des soins médicaux à cause de son obésité](https://news.google.com/rss/articles/CBMiggJBVV95cUxQLWtVbTNwN3hNZHVDWDZqYS1tYTIxT1BYZVZ1WXkwMGptU3ZUNUJJXzUtOHVNQ0FPMlpzNmlHd1dKR2RCVXB0V1BSd0tEdEZuUWtzbUVwZjktN2xJMG1QLTJwbDZZd05pX2VuelM2bFB1X1VWZ2d4SnNWTTBKTi1nOHQwMkpHeEVoTTYxNkx3cnlYWkp3bGdIazB0cWg2Ynlpdm5zYWNKWFhONmpWSVl4YkJKWUZEZUdVOVJVNmdUMFhUNnhaenB4MlRrWHhBNzhaRFBzcXBMdThkSlYzT3JPaW5qVGE3aHhOYVJ3aW14QU5oVmJrbEJNQ1ZkQ0hiOXo3eHc?oc=5)
+
+2026-09-17 <span class="news-indication-tag">obésité</span>
+
+來源：[ici.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxQLWtVbTNwN3hNZHVDWDZqYS1tYTIxT1BYZVZ1WXkwMGptU3ZUNUJJXzUtOHVNQ0FPMlpzNmlHd1dKR2RCVXB0V1BSd0tEdEZuUWtzbUVwZjktN2xJMG1QLTJwbDZZd05pX2VuelM2bFB1X1VWZ2d4SnNWTTBKTi1nOHQwMkpHeEVoTTYxNkx3cnlYWkp3bGdIazB0cWg2Ynlpdm5zYWNKWFhONmpWSVl4YkJKWUZEZUdVOVJVNmdUMFhUNnhaenB4MlRrWHhBNzhaRFBzcXBMdThkSlYzT3JPaW5qVGE3aHhOYVJ3aW14QU5oVmJrbEJNQ1ZkQ0hiOXo3eHc?oc=5)
+
+---
+
+### [Keto Diet Boosts Liver Health More Than Others in Obesity](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXB1WEUzdUxhQVd0REtMckFGOXJGT2VkMHRuaTRER1hIZDlGSEdycnZkRE0xemcydUtkTll3em80ZWpKUjA5V2d4aW81YkNaWHBVLVF5aVhCWFoxQXREaGJFeGtObEdOcy1BNjI3QWxoUW8xN3p3eUZHX0dnR3h0bHhXQjNHY1l3UG9UUjFMVVQtb3hFY09qcDZaWi1VOWhGRWdNS25FMm85YkE?oc=5)
+
+2026-09-17 <span class="news-indication-tag">obesity</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXB1WEUzdUxhQVd0REtMckFGOXJGT2VkMHRuaTRER1hIZDlGSEdycnZkRE0xemcydUtkTll3em80ZWpKUjA5V2d4aW81YkNaWHBVLVF5aVhCWFoxQXREaGJFeGtObEdOcy1BNjI3QWxoUW8xN3p3eUZHX0dnR3h0bHhXQjNHY1l3UG9UUjFMVVQtb3hFY09qcDZaWi1VOWhGRWdNS25FMm85YkE?oc=5)
+
+---
+
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVMxZzVIbDgzRjJDTUt3YVlUQXR4SndhS2lJUDVOSjRRanRRbzRhZTNMZWVfOVpnRGp6NVlVWXhWY0JaU2ZZVWJrN2xNWTZsWDlhTC1CdEZnWU83OWgwTlV0dHM0Z3VOLW5rM3dySEVvZ1ZRNzJ3SXhBemNQd3E3MXBhMkl6bV81elppa3o4WFhaQlVtMjUzdWhMWm9zQVFSaGNYam1qSDU0X1NYdmo2c0VUZloyLVNnalZTYmpmVW5wbjV6RHhMNFJNeVVwU05EX3c?oc=5)
 
 2026-09-17 <span class="news-indication-tag">Adipositas</span>
@@ -86,11 +110,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [Lo confirma la ciencia: descubren un mecanismo que podría ser clave para frenar el daño de la obesidad en el hígado](https://news.google.com/rss/articles/CBMirAJBVV95cUxPX0pPekpoN2txdGtwUVZSLW9PczJLZEFIYkl6aWUtNmk2UmZ5WXllZVd4bGcxX0J6N09CVmQtcVpCRGk3LV9aQ0dRcTVILTdqMWtwY2FHdEJqeTk3YXJnalllVUxlOFp1RzVjQWNHc0c4UGxMVUJWdlhuUExqZWJWR29IR2M3YmtMT0xlVXRnNEZEQjIxc2RNR2s1ZW11VmZ3RFc1cjZNRHRGWTVSVnA3WG5kMDlCOGo3MzAyYzd1UGtzN09FSkNTQ0J0aXc2akVnZFl5Q1NoblJ5UmJMamhiQlFGVFBWdUxVR2hWOUpnbzBsdE53NEhvd1BqRVBmQUNVV1hYX3NVZHpwa3VHZFFGY3lBX3YtMzFqc2oyYXpCNDMtbEdrYkpiU0J6c2U?oc=5)
+### [Lo confirma la ciencia: descubren un mecanismo que podría ser clave para frenar el daño de la obesidad en el hígado - El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPX0pPekpoN2txdGtwUVZSLW9PczJLZEFIYkl6aWUtNmk2UmZ5WXllZVd4bGcxX0J6N09CVmQtcVpCRGk3LV9aQ0dRcTVILTdqMWtwY2FHdEJqeTk3YXJnalllVUxlOFp1RzVjQWNHc0c4UGxMVUJWdlhuUExqZWJWR29IR2M3YmtMT0xlVXRnNEZEQjIxc2RNR2s1ZW11VmZ3RFc1cjZNRHRGWTVSVnA3WG5kMDlCOGo3MzAyYzd1UGtzN09FSkNTQ0J0aXc2akVnZFl5Q1NoblJ5UmJMamhiQlFGVFBWdUxVR2hWOUpnbzBsdE53NEhvd1BqRVBmQUNVV1hYX3NVZHpwa3VHZFFGY3lBX3YtMzFqc2oyYXpCNDMtbEdrYkpiU0J6c2U?oc=5)
 
 2026-09-16 <span class="news-indication-tag">obesidad</span>
 
-來源：[eleconomista.es](https://news.google.com/rss/articles/CBMirAJBVV95cUxPX0pPekpoN2txdGtwUVZSLW9PczJLZEFIYkl6aWUtNmk2UmZ5WXllZVd4bGcxX0J6N09CVmQtcVpCRGk3LV9aQ0dRcTVILTdqMWtwY2FHdEJqeTk3YXJnalllVUxlOFp1RzVjQWNHc0c4UGxMVUJWdlhuUExqZWJWR29IR2M3YmtMT0xlVXRnNEZEQjIxc2RNR2s1ZW11VmZ3RFc1cjZNRHRGWTVSVnA3WG5kMDlCOGo3MzAyYzd1UGtzN09FSkNTQ0J0aXc2akVnZFl5Q1NoblJ5UmJMamhiQlFGVFBWdUxVR2hWOUpnbzBsdE53NEhvd1BqRVBmQUNVV1hYX3NVZHpwa3VHZFFGY3lBX3YtMzFqc2oyYXpCNDMtbEdrYkpiU0J6c2U?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPX0pPekpoN2txdGtwUVZSLW9PczJLZEFIYkl6aWUtNmk2UmZ5WXllZVd4bGcxX0J6N09CVmQtcVpCRGk3LV9aQ0dRcTVILTdqMWtwY2FHdEJqeTk3YXJnalllVUxlOFp1RzVjQWNHc0c4UGxMVUJWdlhuUExqZWJWR29IR2M3YmtMT0xlVXRnNEZEQjIxc2RNR2s1ZW11VmZ3RFc1cjZNRHRGWTVSVnA3WG5kMDlCOGo3MzAyYzd1UGtzN09FSkNTQ0J0aXc2akVnZFl5Q1NoblJ5UmJMamhiQlFGVFBWdUxVR2hWOUpnbzBsdE53NEhvd1BqRVBmQUNVV1hYX3NVZHpwa3VHZFFGY3lBX3YtMzFqc2oyYXpCNDMtbEdrYkpiU0J6c2U?oc=5)
 
 ---
 

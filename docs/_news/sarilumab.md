@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [CIBER financia un estudio sobre el impacto de los hábitos de vida en la respuesta al tratamiento en enfermedad de Crohn](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNFE3RE9NVWY2bWNsY0t5QXdFaktEdWpxV0FKcUo3UV9BWHJFMHByLVhrazU5VGZMdS1XcGJzS29sM3FMTDFpMmhjcWV3dThXbzdIMEZCcWpzMXRJTGdpd1J4cm8zNXlOM3MwckZ3aEdRVWFnb0tDQWwyN1VqazRqRmlNaFgxMUxZNFNEbWE4NlJlSXpIcmZxMTJqSU8tS1ZrWVo2bE96Ti02c0dXNG9TOS1KY2hPbG52bV84R1htOVNzelQ5R0tUR29NY3FjUTVkWHpIZWRQN19ETVZXUjFwUXBvbjlBN0RsZnhNbA?oc=5)
+
+2026-09-17 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNFE3RE9NVWY2bWNsY0t5QXdFaktEdWpxV0FKcUo3UV9BWHJFMHByLVhrazU5VGZMdS1XcGJzS29sM3FMTDFpMmhjcWV3dThXbzdIMEZCcWpzMXRJTGdpd1J4cm8zNXlOM3MwckZ3aEdRVWFnb0tDQWwyN1VqazRqRmlNaFgxMUxZNFNEbWE4NlJlSXpIcmZxMTJqSU8tS1ZrWVo2bE96Ti02c0dXNG9TOS1KY2hPbG52bV84R1htOVNzelQ5R0tUR29NY3FjUTVkWHpIZWRQN19ETVZXUjFwUXBvbjlBN0RsZnhNbA?oc=5)
+
+---
 
 ### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
@@ -102,19 +110,19 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Los hackers roban datos de pacientes zamoranos que participan en un estudio sobre la enfermedad de Crohn - La Opinión de Zamora](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJHa3NRaDBnVG03bFFaalJ4OEhPRmdOMjA0amhjZ2c4VzdjVzZRVUc4T3JFMERNRkQwSkdISmZ1X05SamptTXVvYmlSQU0wNnAwSEFOWFl1M1hqbXlfZC01enVVTkg5WkhyNmNOVEtFZjVMTXBDWWpCc2ZDWTNWNG95aDYtTWRPMWMtZHAwMWJORnB6NDF3cUtrcTd4OXlKVlJ1NTc3WnjSAa4BQVVfeXFMTlFoV1pvTTJpSHNuZjk2MmxFdkgxeHJkVU1qTV9Wdnc5TVRNQS1zUURBUmI2NElhTHgwa1Q0bVp1YjMwN2x5X2FoRGQzZFQxXzZ2RERIZWtjRHU3LUY0cldRcTRRT3QyOXZicFlubTNpZjV0czZlT3NZdDRRNUo0cWV4X25SR0JvN0Y1VHZwWkJ5UkZ4enBxVnh4VWI1cXVrVjhFNEFFRDM3Nm94ZXJB?oc=5)
+### [Los hackers roban datos de pacientes zamoranos que participan en un estudio sobre la enfermedad de Crohn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJHa3NRaDBnVG03bFFaalJ4OEhPRmdOMjA0amhjZ2c4VzdjVzZRVUc4T3JFMERNRkQwSkdISmZ1X05SamptTXVvYmlSQU0wNnAwSEFOWFl1M1hqbXlfZC01enVVTkg5WkhyNmNOVEtFZjVMTXBDWWpCc2ZDWTNWNG95aDYtTWRPMWMtZHAwMWJORnB6NDF3cUtrcTd4OXlKVlJ1NTc3WnjSAa4BQVVfeXFMTlFoV1pvTTJpSHNuZjk2MmxFdkgxeHJkVU1qTV9Wdnc5TVRNQS1zUURBUmI2NElhTHgwa1Q0bVp1YjMwN2x5X2FoRGQzZFQxXzZ2RERIZWtjRHU3LUY0cldRcTRRT3QyOXZicFlubTNpZjV0czZlT3NZdDRRNUo0cWV4X25SR0JvN0Y1VHZwWkJ5UkZ4enBxVnh4VWI1cXVrVjhFNEFFRDM3Nm94ZXJB?oc=5)
 
 2026-09-16 <span class="news-indication-tag">enfermedad de Crohn</span>
 
-來源：[La Opinión de Zamora](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJHa3NRaDBnVG03bFFaalJ4OEhPRmdOMjA0amhjZ2c4VzdjVzZRVUc4T3JFMERNRkQwSkdISmZ1X05SamptTXVvYmlSQU0wNnAwSEFOWFl1M1hqbXlfZC01enVVTkg5WkhyNmNOVEtFZjVMTXBDWWpCc2ZDWTNWNG95aDYtTWRPMWMtZHAwMWJORnB6NDF3cUtrcTd4OXlKVlJ1NTc3WnjSAa4BQVVfeXFMTlFoV1pvTTJpSHNuZjk2MmxFdkgxeHJkVU1qTV9Wdnc5TVRNQS1zUURBUmI2NElhTHgwa1Q0bVp1YjMwN2x5X2FoRGQzZFQxXzZ2RERIZWtjRHU3LUY0cldRcTRRT3QyOXZicFlubTNpZjV0czZlT3NZdDRRNUo0cWV4X25SR0JvN0Y1VHZwWkJ5UkZ4enBxVnh4VWI1cXVrVjhFNEFFRDM3Nm94ZXJB?oc=5)
+來源：[laopiniondezamora.es](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJHa3NRaDBnVG03bFFaalJ4OEhPRmdOMjA0amhjZ2c4VzdjVzZRVUc4T3JFMERNRkQwSkdISmZ1X05SamptTXVvYmlSQU0wNnAwSEFOWFl1M1hqbXlfZC01enVVTkg5WkhyNmNOVEtFZjVMTXBDWWpCc2ZDWTNWNG95aDYtTWRPMWMtZHAwMWJORnB6NDF3cUtrcTd4OXlKVlJ1NTc3WnjSAa4BQVVfeXFMTlFoV1pvTTJpSHNuZjk2MmxFdkgxeHJkVU1qTV9Wdnc5TVRNQS1zUURBUmI2NElhTHgwa1Q0bVp1YjMwN2x5X2FoRGQzZFQxXzZ2RERIZWtjRHU3LUY0cldRcTRRT3QyOXZicFlubTNpZjV0czZlT3NZdDRRNUo0cWV4X25SR0JvN0Y1VHZwWkJ5UkZ4enBxVnh4VWI1cXVrVjhFNEFFRDM3Nm94ZXJB?oc=5)
 
 ---
 
-### [Arzt rät zu Kapseln: „Mein Omega-3-Wert war katastrophal. Heute ist er optimal“](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
+### [Arzt rät zu Kapseln: „Mein Omega-3-Wert war katastrophal. Heute ist er optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">arthritis</span>
 
-來源：[morgenpost.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
 
 ---
 

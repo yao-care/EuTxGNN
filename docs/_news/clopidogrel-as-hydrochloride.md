@@ -62,6 +62,14 @@ permalink: /news/clopidogrel-as-hydrochloride/
 
 ---
 
+### [Sbloccare l'accesso alle terapie per l'emicrania: meno burocrazia, criteri tecnici e sottocodici](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
+
+2026-09-16 <span class="news-indication-tag">emicrania</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
+
+---
+
 ### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 
 2026-09-16 <span class="news-indication-tag">artritis</span>
@@ -70,19 +78,11 @@ permalink: /news/clopidogrel-as-hydrochloride/
 
 ---
 
-### [Arzt rät zu Kapseln: „Mein Omega-3-Wert war katastrophal. Heute ist er optimal“](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
+### [Arzt rät zu Kapseln: „Mein Omega-3-Wert war katastrophal. Heute ist er optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">arthritis</span>
 
-來源：[morgenpost.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
-
----
-
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
 
 ---
 

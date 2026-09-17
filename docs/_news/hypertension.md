@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [CVRx informiert zum Weltherztag am 29. September / Bluthochdruck: Den wichtigsten ...](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
-
-2026-09-17
-
-來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [New Northamptonshire high blood pressure service being rolled out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 2026-09-15
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 

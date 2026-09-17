@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt unerwartetes Ergebnis](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+### [Vieillir en bonne santé : cette heure d'endormissement serait associée au risque cardiovasculaire le plus faible - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
+
+---
+
+### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+
+2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+
+---
+
+### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt unerwartetes Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
 
 2026-09-17 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[morgenpost.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/simvastatin/
 2026-09-14 <span class="news-indication-tag">AVC</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
-
----
-
-### [Statine un grande studio fa chiarezza sui reali benefici dopo i 70 anni - The Wom Healthy](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzN4QjhLN085SUViNGcyd25TM1c4RzMtbDVEWFFmLUM3Mk4wTm1tN2FPWXdwXzU2b0tsVm9id0tqZ2ZFZ1Z1dmtmdTc3RnVfS1lXZk5LWmFsVnNlempKSFQ5bHhQemtxSGVNQ1hVSlBMSDVDRHhNYVFCQ3FPV0Zqc21GbXJ2c0F4d2xFNTRYcUU5aU16eXJSQTJQZEZpcWtYZF9xMzVR?oc=5)
-
-2026-09-12 <span class="news-indication-tag">ictus</span>
-
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzN4QjhLN085SUViNGcyd25TM1c4RzMtbDVEWFFmLUM3Mk4wTm1tN2FPWXdwXzU2b0tsVm9id0tqZ2ZFZ1Z1dmtmdTc3RnVfS1lXZk5LWmFsVnNlempKSFQ5bHhQemtxSGVNQ1hVSlBMSDVDRHhNYVFCQ3FPV0Zqc21GbXJ2c0F4d2xFNTRYcUU5aU16eXJSQTJQZEZpcWtYZF9xMzVR?oc=5)
 
 ---
 

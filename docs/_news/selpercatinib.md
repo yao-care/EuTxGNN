@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [CVRx informiert zum Weltherztag am 29. September / Bluthochdruck: Den wichtigsten ...](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
-
-2026-09-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [The heart disease symptoms women mistake for stress, indigestion or menopause - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/selpercatinib/
 
 ---
 
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
+### [Sbloccare l'accesso alle terapie per l'emicrania: meno burocrazia, criteri tecnici e sottocodici](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
 
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
+2026-09-16 <span class="news-indication-tag">emicrania</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
 
 ---
 
@@ -82,7 +74,7 @@ permalink: /news/selpercatinib/
 
 2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 

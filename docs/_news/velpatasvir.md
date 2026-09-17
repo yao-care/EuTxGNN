@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（22 則）
 
-### [Ketogene Diät: 67% weniger Leberfett in vier bis fünf Monaten](https://news.google.com/rss/articles/CBMiugFBVV95cUxOck1fbG1iNTBSVnF1MGc5X3FSTXhnNXdPRFVfb1ZFQXNHVDlNc1NtbVBMd1pKV1ZTTEF1QUxreTVsRmswaVJBUnYySTBsTklMZ0psTmVGQTB1SjNFU28wTmJseDh4TExVYVRyb21QUThGQ0ZlczgxY0hLUk5DTUdsaEp4a3FjWmhReGZzakRJWVlwT3ZrQ0t3WjBvX1FwbVBHYmtDQy1UUmFkX3AxWjRwRm5qSnBoTC0wa0E?oc=5)
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOck1fbG1iNTBSVnF1MGc5X3FSTXhnNXdPRFVfb1ZFQXNHVDlNc1NtbVBMd1pKV1ZTTEF1QUxreTVsRmswaVJBUnYySTBsTklMZ0psTmVGQTB1SjNFU28wTmJseDh4TExVYVRyb21QUThGQ0ZlczgxY0hLUk5DTUdsaEp4a3FjWmhReGZzakRJWVlwT3ZrQ0t3WjBvX1FwbVBHYmtDQy1UUmFkX3AxWjRwRm5qSnBoTC0wa0E?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 
 ### [Plan to limit NHS diagnoses of ADHD attacked as ‘rationing’ healthcare - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVdsaENiVGlZQmJpdnZQYnBuRkswLWpOLUY3ZjdxUzVFWDF1VVJJdnJvZHMxaGJGMjN3VmJpWHlkZVVKQk5GLUg5WHNCVXRBVm9iN2hqRzZnZDE4VEVGNHh6U0Vwd1NNeEUwQ05iTDR5anppT2pHWmhXaGJwS0tlcGRwUWNCLTlTb05QUHlhTDh1d05sem5zNkhLX2xhanVLVF93azIzRmxNWGRrYTBVd2hmSWI?oc=5)
 
-2026-09-17 <span class="news-indication-tag">MS</span>
+2026-09-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVdsaENiVGlZQmJpdnZQYnBuRkswLWpOLUY3ZjdxUzVFWDF1VVJJdnJvZHMxaGJGMjN3VmJpWHlkZVVKQk5GLUg5WHNCVXRBVm9iN2hqRzZnZDE4VEVGNHh6U0Vwd1NNeEUwQ05iTDR5anppT2pHWmhXaGJwS0tlcGRwUWNCLTlTb05QUHlhTDh1d05sem5zNkhLX2xhanVLVF93azIzRmxNWGRrYTBVd2hmSWI?oc=5)
 
 ---
 
-### [Casi 3.600 personas han muerto por el brote de ébola en la República Democrática del Congo declarado en mayo](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOWZyb2kwN2EtX1I3bWZQUU5CRWhyNHFyN0h2cWdWUG1WRHIxTFpvamQyUXpxLTVXQl81QkNTS3hBcGZhNTFYdG5FMFYtZWQ5a0pJTlV0NS1uOURwVGVyZEMzb3F5ZnQzbEFHREdadTI4eWJUTGN4V3cwQm1Cd0hUSnN4MWdhMWQxZjRtaDRqQXBYMms5bUlDNnEtdHZLVTl1ZXluQ25NX1BqOVdjdDV6dDFwT0paMmxtRnh6WHhCYWtiMnJaMkp3WXRWY1puUklNMUpfVEVKMlVPWTZCLVVBRThZVVhkbWZiN3g0YUdQdw?oc=5)
+### [Sclerosi multipla, Epstein-Barr si “risveglia” prima delle ricadute? Segnali fino a 90 giorni prima](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
+
+2026-09-17 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
+
+---
+
+### [La OMS ve "señales alentadoras" en la lucha contra la epidemia de ébola en RDC - France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1lnUmRSNDJWc21yMFF3eHdRQS1TSkRVbWcybjl3ZEo5Y3hTYTF2ZmJwQm5TUHBaMVN6MTVJSk5RR0hYME5wbVprbVpUWFFGN2w3d1hzUWdrWDMxOTVVT1JSTEhYVUNDaG5FMmcxNnVqNWtnYkRnRzJwa2hra0xxQUVnWS1tLXRFUmxsN2RJREtNV3k1ZlJuMm9YZjJIY05PenYzamRxQVlNaEFpR0IwOElEQkVzTE5MQjV0T0prZTNZcE94QmNWbERWLUM5RDMwZFhMZkh3?oc=5)
 
 2026-09-17 <span class="news-indication-tag">MS</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOWZyb2kwN2EtX1I3bWZQUU5CRWhyNHFyN0h2cWdWUG1WRHIxTFpvamQyUXpxLTVXQl81QkNTS3hBcGZhNTFYdG5FMFYtZWQ5a0pJTlV0NS1uOURwVGVyZEMzb3F5ZnQzbEFHREdadTI4eWJUTGN4V3cwQm1Cd0hUSnN4MWdhMWQxZjRtaDRqQXBYMms5bUlDNnEtdHZLVTl1ZXluQ25NX1BqOVdjdDV6dDFwT0paMmxtRnh6WHhCYWtiMnJaMkp3WXRWY1puUklNMUpfVEVKMlVPWTZCLVVBRThZVVhkbWZiN3g0YUdQdw?oc=5)
+來源：[France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1lnUmRSNDJWc21yMFF3eHdRQS1TSkRVbWcybjl3ZEo5Y3hTYTF2ZmJwQm5TUHBaMVN6MTVJSk5RR0hYME5wbVprbVpUWFFGN2w3d1hzUWdrWDMxOTVVT1JSTEhYVUNDaG5FMmcxNnVqNWtnYkRnRzJwa2hra0xxQUVnWS1tLXRFUmxsN2RJREtNV3k1ZlJuMm9YZjJIY05PenYzamRxQVlNaEFpR0IwOElEQkVzTE5MQjV0T0prZTNZcE94QmNWbERWLUM5RDMwZFhMZkh3?oc=5)
 
 ---
 
@@ -106,15 +114,7 @@ permalink: /news/velpatasvir/
 
 2026-09-17 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
-
----
-
-### [A parasitic bug that eats human skin cells is thriving in the UK right now](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnR0VGtwRzQxY211bUkxXzRFaVF3cll3YXIwSXZVT1hGUm01aS1hZ0RNb2U5TklxV211dE10eGJrRjhrODBncmxTQXZqc3VYTkVPa1VPYW12Z2FvQnV0TDZSUkxUdTQ5TWQyY1l0bUlUY2hHS2xPNEJ4VHU1TF9BOV96T2JDblZEMV9BM0hZSzk5bGxrZ2lhVDZOdGxfeEtoMUE?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnR0VGtwRzQxY211bUkxXzRFaVF3cll3YXIwSXZVT1hGUm01aS1hZ0RNb2U5TklxV211dE10eGJrRjhrODBncmxTQXZqc3VYTkVPa1VPYW12Z2FvQnV0TDZSUkxUdTQ5TWQyY1l0bUlUY2hHS2xPNEJ4VHU1TF9BOV96T2JDblZEMV9BM0hZSzk5bGxrZ2lhVDZOdGxfeEtoMUE?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
 
 ---
 
@@ -123,14 +123,6 @@ permalink: /news/velpatasvir/
 2026-09-17 <span class="news-indication-tag">MS</span>
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTg0eVMzbWt4T2l6SllGdHBYbnI4RHlMRERsOENDRndZcDJXQXZWT3JNaDR2elBPMXdpdmc2WE9tejdMZGFPZmkyTUJzbTNYVVdla2l5NVZtd3dZUHRWS3VCdUt6bXpTXzBPcW1SRlMzTWhNNEw1d0dfWmJZVG9KQ3pweEV1SHU0SjNUckNqMHdmNjN0SG5sbExxQQ?oc=5)
-
----
-
-### [Urgent 'red flag' for Brits using Botox and fillers as experts give warning - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
-
-2026-09-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
 
 ---
 
@@ -158,6 +150,14 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Molecular-level observation of the self-assembly of a virus-like particle](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KUmx0bTJBSUFSeEotWjI1NGpSdHRKMnBtcnlJdDkwaERmamVTZmduam9GMUtvaXJ2eFhiMVV3c0tvUzV3OXQ5RlkyQmN5SUl3bGVOaVVwZ1VVaVZVN2hB?oc=5)
+
+2026-09-16 <span class="news-indication-tag">MS</span>
+
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KUmx0bTJBSUFSeEotWjI1NGpSdHRKMnBtcnlJdDkwaERmamVTZmduam9GMUtvaXJ2eFhiMVV3c0tvUzV3OXQ5RlkyQmN5SUl3bGVOaVVwZ1VVaVZVN2hB?oc=5)
+
+---
+
 ### [Vivir con esclerosis múltiple: la batalla íntima contra las propias defensas](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHl4T015UUQzV01YVGNjUFZFc3FqaERjUktpTjJBN2pwYXhMaGd6Y3hMR29uZnphbENjYjZnVm16ZnFWWDh1bmxtX2JwNWV0VWhvbDJ4SWp1Rmo5aTk2dHl3NjdQUENKdlBVR3Q5X2pGMlRac2JWRmFlT2pCSk52ZFlyLWVoLVczRnR5VDlJNWdiN3o2b3FUNE5TQ1U0RE10RmRLTUN4M3k4ZDVzc21pZ3Jkb2VRMkQ4Mko0QjJfdnpOVDY50gHKAUFVX3lxTFB1dFRuTjFfRURGc25Ma0pJTmFRR0UtbWZqS2JHc09BejBickNOQ3lWcnp6ZzgxM3J3YkZ3ME5yMlFyUkhFNjJhUkxsOVROX1hnR0ZZSnZaRjFlWmVEXzYxNk1TdGRhcDVqTXNOZWp1UHNnUnlWcXVVUXFrQ3lfZWw0Z1Y3elY2M0RpN25Oa0IyQUFvRXlCOUN4STJ3dzBIWGY0RlBVbWwtTmJiWUhXdE5UcUcwWVRVTlVjSWt6V1dIeU5fb3R3blhGUGc?oc=5)
 
 2026-09-16 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -182,11 +182,27 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [MS-Forschung: Neue Galectine-Therapie gegen stille Hirnschäden](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjAyVzJYTHFMeVNyZHI4U1FNT3VXdHdJcTExTnk1X2syajFONXRRMGlDQkFsYmVTRUk1dklBNE4zZG9IX3ppVWd5YWxlZDlkbTc0bU9oSHlfQXp0OHlSU2dkdy1fVTdKZk10YjJvQmYzTGROdHpubXdudUxRWWQxemFCN0Z3ZV92NDBlOENIRndhNWNDZFp2S3hmRVFwbnByNjM3QXFLS0U1VXNlcXFwWQ?oc=5)
+### [Air pollution linked to higher suicide risk, international research suggests - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2VjSE1tUk1UT0YyLUxiaVJJNmV4RU53WDN5c0NlcURaYjlCYUtHM0lNSUFkS3lvSndMOHo5N3ZKRUsxaDg0S0NGYWp6VklhaDBRenFTRF9qM1hBVXlyVGlwSXNtcDJtWURUY3YyN1N5UnRGWGRyYnh3Z201RkFQd0ZwMlZCNGVYMzNzSzFEcGE4OUFxOEl3RHdYd0VvWHNRRHpFemVvSjgyRDhpQXQ5a0Y1MA?oc=5)
 
-2026-09-16 <span class="news-indication-tag">MS</span>
+2026-09-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjAyVzJYTHFMeVNyZHI4U1FNT3VXdHdJcTExTnk1X2syajFONXRRMGlDQkFsYmVTRUk1dklBNE4zZG9IX3ppVWd5YWxlZDlkbTc0bU9oSHlfQXp0OHlSU2dkdy1fVTdKZk10YjJvQmYzTGROdHpubXdudUxRWWQxemFCN0Z3ZV92NDBlOENIRndhNWNDZFp2S3hmRVFwbnByNjM3QXFLS0U1VXNlcXFwWQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2VjSE1tUk1UT0YyLUxiaVJJNmV4RU53WDN5c0NlcURaYjlCYUtHM0lNSUFkS3lvSndMOHo5N3ZKRUsxaDg0S0NGYWp6VklhaDBRenFTRF9qM1hBVXlyVGlwSXNtcDJtWURUY3YyN1N5UnRGWGRyYnh3Z201RkFQd0ZwMlZCNGVYMzNzSzFEcGE4OUFxOEl3RHdYd0VvWHNRRHpFemVvSjgyRDhpQXQ5a0Y1MA?oc=5)
+
+---
+
+### [‘Stomach bugs’ send protective immune cells rushing from gut to brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iR18tc082c0s1Sms3M2pUZXJyTnpnbktjN1R1RTNLNVAtNGx1VWpSTDdyeVc2Vmd4V3J0Q3ZjSHVrcU9XYUVXdnBiV05TcXZZWFFRRjBteXVSVWhoYXVR?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span>
+
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iR18tc082c0s1Sms3M2pUZXJyTnpnbktjN1R1RTNLNVAtNGx1VWpSTDdyeVc2Vmd4V3J0Q3ZjSHVrcU9XYUVXdnBiV05TcXZZWFFRRjBteXVSVWhoYXVR?oc=5)
+
+---
+
+### [NHS to roll out at-home HPV cervical screenings in Wolverhampton](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZVVPdGM3clZzV3J2cjVZN0R1TGJCR2VJRG9BWUlNRHhULVk0LWtNSUhqVW9rWUhuQWxIeVdnVkp4LTd1TFVFZVl1LWpnM0hfekxTSUdoMVQtNTJZ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZVVPdGM3clZzV3J2cjVZN0R1TGJCR2VJRG9BWUlNRHhULVk0LWtNSUhqVW9rWUhuQWxIeVdnVkp4LTd1TFVFZVl1LWpnM0hfekxTSUdoMVQtNTJZ?oc=5)
 
 ---
 
@@ -194,7 +210,7 @@ permalink: /news/velpatasvir/
 
 2026-09-14 <span class="news-indication-tag">MS</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlSVo1YjBNLU1rdE9KRjdMUEtxNnhFMUhYUlZtX3pvU1dpTzhrQ0trU1FFdzB5ODZNZ3VlQzYzOUlJNVlzMWlEUnBfX202dlBVLVJOM3JoSEg4WlJWZjh3?oc=5)
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlSVo1YjBNLU1rdE9KRjdMUEtxNnhFMUhYUlZtX3pvU1dpTzhrQ0trU1FFdzB5ODZNZ3VlQzYzOUlJNVlzMWlEUnBfX202dlBVLVJOM3JoSEg4WlJWZjh3?oc=5)
 
 ---
 
@@ -203,6 +219,14 @@ permalink: /news/velpatasvir/
 2026-09-14 <span class="news-indication-tag">MS</span>
 
 來源：[hallelife.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQeERxVG5VcHN6TmJYZjJzd1dZRXRWTzlfdGNtRDF1cUIxaWRBYmxrMGo1VWtBS3d5X0lDekFmU0JGVFNxb2tRSzI2QkNUaXRwN2d1ckFiQXhHSThQUVNoZ2VPem5raGdYNjRheWFrNGwzTjRNcl9Tc1lSTGplYkNwdHc2SHd2RGdsNWlCc1QwcWtzUQ?oc=5)
+
+---
+
+### [Zelltherapie lindert mehrere neurologische Autoimmunerkrankungen - Forschung und Wissen](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb05MZWdvQmo5dVU1QlRndFM3T3g2LVZyVGcxV2lXVjczRXNrRVAyVXBYMXFRNTJrSm0weXdoMlFYa0U0YThPSHZ0VjlES2R5b3c0TERvYWVuR25PbWN2NF8xNkZ6R0VObTJIb2ZCTUFGSGNEZFRIYnpMOVdWVi1jV1ZTd24tWEg2VU9YaW1xVkYtSmtGbks4YlVoS2ZvUGFCSThmZ1RuYkU3U3pqNnRHV2ozVnZMT2M0WEtONm9NSkx3ZEt0bnI0RDRB?oc=5)
+
+2026-09-13 <span class="news-indication-tag">MS</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb05MZWdvQmo5dVU1QlRndFM3T3g2LVZyVGcxV2lXVjczRXNrRVAyVXBYMXFRNTJrSm0weXdoMlFYa0U0YThPSHZ0VjlES2R5b3c0TERvYWVuR25PbWN2NF8xNkZ6R0VObTJIb2ZCTUFGSGNEZFRIYnpMOVdWVi1jV1ZTd24tWEg2VU9YaW1xVkYtSmtGbks4YlVoS2ZvUGFCSThmZ1RuYkU3U3pqNnRHV2ozVnZMT2M0WEtONm9NSkx3ZEt0bnI0RDRB?oc=5)
 
 ---
 

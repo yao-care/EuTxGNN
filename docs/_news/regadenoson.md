@@ -62,19 +62,19 @@ permalink: /news/regadenoson/
 
 ---
 
+### [Sbloccare l'accesso alle terapie per l'emicrania: meno burocrazia, criteri tecnici e sottocodici](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
+
+2026-09-16 <span class="news-indication-tag">emicrania</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
+
+---
+
 ### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">asthma</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
-
----
-
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
 
 ---
 

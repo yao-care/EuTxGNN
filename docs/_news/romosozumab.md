@@ -14,7 +14,7 @@ permalink: /news/romosozumab/
 ---
 
 <p class="key-answer" data-question="Romosozumab 有什麼相關新聞？">
-<strong>Romosozumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Romosozumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/romosozumab/
 <p><a href="{{ '/drugs/romosozumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [Ketogene Diät: 67% weniger Leberfett in vier bis fünf Monaten](https://news.google.com/rss/articles/CBMiugFBVV95cUxOck1fbG1iNTBSVnF1MGc5X3FSTXhnNXdPRFVfb1ZFQXNHVDlNc1NtbVBMd1pKV1ZTTEF1QUxreTVsRmswaVJBUnYySTBsTklMZ0psTmVGQTB1SjNFU28wTmJseDh4TExVYVRyb21QUThGQ0ZlczgxY0hLUk5DTUdsaEp4a3FjWmhReGZzakRJWVlwT3ZrQ0t3WjBvX1FwbVBHYmtDQy1UUmFkX3AxWjRwRm5qSnBoTC0wa0E?oc=5)
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOck1fbG1iNTBSVnF1MGc5X3FSTXhnNXdPRFVfb1ZFQXNHVDlNc1NtbVBMd1pKV1ZTTEF1QUxreTVsRmswaVJBUnYySTBsTklMZ0psTmVGQTB1SjNFU28wTmJseDh4TExVYVRyb21QUThGQ0ZlczgxY0hLUk5DTUdsaEp4a3FjWmhReGZzakRJWVlwT3ZrQ0t3WjBvX1FwbVBHYmtDQy1UUmFkX3AxWjRwRm5qSnBoTC0wa0E?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
+
+---
+
+### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+
+2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
 ---
 
@@ -90,15 +98,15 @@ permalink: /news/romosozumab/
 
 2026-09-16 <span class="news-indication-tag">diabetic</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
 
 ---
 
-### [Oltre 300mila casi di diabete in E-R, Fiaso:"Tra le regioni più colpite del Nord"](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+### [ASST Sette Laghi rafforza la rete di cura e prevenzione del diabete: "Un percorso che va oltre l'ospedale"](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEszN2p3bG9mSTEybHRGMzd1V1Z5Sm1TMHlJb090ZlJQSnUtc2RvdExRSkF3YXIxMmZmTmVmODhMRnhGS1ktWWFYRFhESVkzb0lHajdFd04wWDZNQkxXc3pSVmxHLTVSbE1VcVFaTFRkRE1YWE1lTUtmdHpRMWpoTzlHbF8tZEtPMXpBeDhGdWhrUUllTDJHSXVtLVJjQmhJU0pKSFJCZXRLa2poejBRZU56NHZqb0szWkQ2Z1RQRldZWmdjcHZKUDNXZmpRdjBqWmN3VGFRMG9yUy1NR0E?oc=5)
 
 2026-09-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
-來源：[ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+來源：[VareseNews](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEszN2p3bG9mSTEybHRGMzd1V1Z5Sm1TMHlJb090ZlJQSnUtc2RvdExRSkF3YXIxMmZmTmVmODhMRnhGS1ktWWFYRFhESVkzb0lHajdFd04wWDZNQkxXc3pSVmxHLTVSbE1VcVFaTFRkRE1YWE1lTUtmdHpRMWpoTzlHbF8tZEtPMXpBeDhGdWhrUUllTDJHSXVtLVJjQmhJU0pKSFJCZXRLa2poejBRZU56NHZqb0szWkQ2Z1RQRldZWmdjcHZKUDNXZmpRdjBqWmN3VGFRMG9yUy1NR0E?oc=5)
 
 ---
 
