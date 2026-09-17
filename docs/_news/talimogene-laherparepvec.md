@@ -14,7 +14,7 @@ permalink: /news/talimogene-laherparepvec/
 ---
 
 <p class="key-answer" data-question="Talimogene Laherparepvec 有什麼相關新聞？">
-<strong>Talimogene Laherparepvec</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Talimogene Laherparepvec</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/talimogene-laherparepvec/
 <p><a href="{{ '/drugs/talimogene-laherparepvec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（34 則）
 
 ### [Krebs: Diese Pilze könnten die Nebenwirkungen der Chemotherapie lindern](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTkwNmtqbnptamY2Vmw1RjFLNE9YYTQ2SUZhZzZBaHNxZ3UzdXFQeWJqYzVJd0VNM3pWbXVIMUw4c1BXRGpZT0t5RHdtMG9fTEVWckF1SF9CbEZKdHltZzJ5WnpKNkZYVWlSOGl3blNudW5ZTGhKQ2ZPQU14NWdla0d1QXphVkFnTHNqVmFQVmFjamtGM3hKTmFoS1dHelU4U3Mzam5BWXFMelUyUGh1eGtmZkNYSDFxeGlManJfaEJFRk1Lbi1yeW5Cbm9GVHRVeTFhOEd3?oc=5)
 
-2026-09-16 <span class="news-indication-tag">Krebs</span>
+2026-09-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTkwNmtqbnptamY2Vmw1RjFLNE9YYTQ2SUZhZzZBaHNxZ3UzdXFQeWJqYzVJd0VNM3pWbXVIMUw4c1BXRGpZT0t5RHdtMG9fTEVWckF1SF9CbEZKdHltZzJ5WnpKNkZYVWlSOGl3blNudW5ZTGhKQ2ZPQU14NWdla0d1QXphVkFnTHNqVmFQVmFjamtGM3hKTmFoS1dHelU4U3Mzam5BWXFMelUyUGh1eGtmZkNYSDFxeGlManJfaEJFRk1Lbi1yeW5Cbm9GVHRVeTFhOEd3?oc=5)
 
 ---
 
-### [Nicht immer sind die Zigaretten an Lungenkrebs schuld - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
+### [Evolution and heterogeneity of lethal metastatic bladder cancer subtypes](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUZUJNbEx3b0NmdVhTYkZjcVNCakM1bXpualBNYUxIUHJLTHJLcWxTNVFNYlJOeW9PaXkwckxYR1E2TlVsTUdPcnNZa2c0UE13ZkFveV83dGk2emsteC0w?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUZUJNbEx3b0NmdVhTYkZjcVNCakM1bXpualBNYUxIUHJLTHJLcWxTNVFNYlJOeW9PaXkwckxYR1E2TlVsTUdPcnNZa2c0UE13ZkFveV83dGk2emsteC0w?oc=5)
+
+---
+
+### [Nicht immer sind die Zigaretten an Lungenkrebs schuld](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
 
 2026-09-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
+來源：[medical-tribune.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
 
 ---
 
@@ -94,6 +102,14 @@ permalink: /news/talimogene-laherparepvec/
 
 ---
 
+### [Cancro polmone Egfr-mutato, studio fase 3 Adaura: "Il 79% dei pazienti vivo a 8 anni con Osimertinib" - Il Tirreno](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPam1kcmNHOTV1NUpSTzVQQ25TTUxnWE9BZFJ2RnZtLUJMSDVDa3NWTDU0M0hwWHRERXBPMFhab3k0dmdoTGRSZlRzMEh4TFBEXzN0ZHdXM1BmRzc3ZXFlVF90X001NFVvSXdyLXZyTlFORkJhOGxpb1N2LXdGMjFHb21UUTNqUXFLanFIMG9DRHY4eTF6UHpvX1pTSWFWRlpJMWU1aDhBQWdqVk5ienVDZDN4Z28tSGxEOXB1dHd3bWV6NHROekxFZnRoM2RoeHNGZDNfWlJNVjBrbWFfdmJoendpbzlnMEFrNUJCaDY0NU85Mi1JMkdCQ1M4ODU?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancro</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPam1kcmNHOTV1NUpSTzVQQ25TTUxnWE9BZFJ2RnZtLUJMSDVDa3NWTDU0M0hwWHRERXBPMFhab3k0dmdoTGRSZlRzMEh4TFBEXzN0ZHdXM1BmRzc3ZXFlVF90X001NFVvSXdyLXZyTlFORkJhOGxpb1N2LXdGMjFHb21UUTNqUXFLanFIMG9DRHY4eTF6UHpvX1pTSWFWRlpJMWU1aDhBQWdqVk5ienVDZDN4Z28tSGxEOXB1dHd3bWV6NHROekxFZnRoM2RoeHNGZDNfWlJNVjBrbWFfdmJoendpbzlnMEFrNUJCaDY0NU85Mi1JMkdCQ1M4ODU?oc=5)
+
+---
+
 ### [Middle-age disease is ‘silently’ affecting one in FIVE Brits and fuelling cancer - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
 
 2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -107,6 +123,14 @@ permalink: /news/talimogene-laherparepvec/
 2026-09-16 <span class="news-indication-tag">cancro</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHdLbkRhNjhFdTA4T09ERmVFTVUwSGQ0b01IMGhNLU9qbTYyVFdYNHJEMlFxUXBCamw3eTJZanpHRzl0UmpuRDJmdjBDM2w0SUxMd3JzOGtwS2M0TTB5VHViNGpLNzMyRmJYZWg5TnR0LURWUk02X3pXMnEwNW9yNjEycDFTTUhUbHU4Qkw0NTB3NTlLUWp2VUVmR04yZFpFclJtYi1NVHFRektHUmZUOHltT0VHeFNFUS1mbmpkUWhwdERtaWNneldRSFZGSHc?oc=5)
+
+---
+
+### [Raro tumore al fegato regredisce in un bambino di 3 anni. Ormai da 12 mesi. “Così ci siamo riusciti” - la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2VLajdPWTlIVHk1LWZWTnZHaVpHOVpnc29hemJPMDR0bGRFZUdUa0RoZzdObzNKMDJsaTNKdl95ekc0d0pxblU2ZjFneGJFOWgxa1pnLWowc043RHd5cXBpVVRZRy15MFZrYmprYlg3RnItU1hWT0MzWjQ5MDB1QnI0ak9fX2xhaXdBS1FaWUhJSnlmeGJMYkdzMjFBNmxPUm5KbzUyT2JfZHE2djlmU1pFbV91b1VGZlg3U1dLM0ZZaDNrWi1OaXBObFRtTHo0dEo0RW9ZSDR2cTFnZ2VQeFhvY3RFbGRxOU0zUNIB8gFBVV95cUxNSHNLTjdKek9XMy1HM1pkS0p1TmdoQTdDTVk5RTR4MERYWW5iVUFjYlBOMlZaVUFCRUdLX3hZYWVyU2FpRFN1anRDZEVXS2JvT0FMZTI0emhiRGRUaUxKMTFxbm5lWXV4M2o1TkVFdlNjM0FrYWtIMEJyN0c3TzFqOW04a0hMeXRTcTV6Z0x4OTdJc1d2ZFlZVm5JQTREUUhQV0lIOXNCNUVSMXE4R3RuRmJIWVVvSEFxUG03RG5NU2R2S3V1bk9rc0NnWE5Kai1oUENFdENlR0tCcXppTEdOR2Q4bEd6S2ZkUDVkZ2NtU09yQQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">tumor</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2VLajdPWTlIVHk1LWZWTnZHaVpHOVpnc29hemJPMDR0bGRFZUdUa0RoZzdObzNKMDJsaTNKdl95ekc0d0pxblU2ZjFneGJFOWgxa1pnLWowc043RHd5cXBpVVRZRy15MFZrYmprYlg3RnItU1hWT0MzWjQ5MDB1QnI0ak9fX2xhaXdBS1FaWUhJSnlmeGJMYkdzMjFBNmxPUm5KbzUyT2JfZHE2djlmU1pFbV91b1VGZlg3U1dLM0ZZaDNrWi1OaXBObFRtTHo0dEo0RW9ZSDR2cTFnZ2VQeFhvY3RFbGRxOU0zUNIB8gFBVV95cUxNSHNLTjdKek9XMy1HM1pkS0p1TmdoQTdDTVk5RTR4MERYWW5iVUFjYlBOMlZaVUFCRUdLX3hZYWVyU2FpRFN1anRDZEVXS2JvT0FMZTI0emhiRGRUaUxKMTFxbm5lWXV4M2o1TkVFdlNjM0FrYWtIMEJyN0c3TzFqOW04a0hMeXRTcTV6Z0x4OTdJc1d2ZFlZVm5JQTREUUhQV0lIOXNCNUVSMXE4R3RuRmJIWVVvSEFxUG03RG5NU2R2S3V1bk9rc0NnWE5Kai1oUENFdENlR0tCcXppTEdOR2Q4bEd6S2ZkUDVkZ2NtU09yQQ?oc=5)
 
 ---
 
@@ -166,6 +190,14 @@ permalink: /news/talimogene-laherparepvec/
 
 ---
 
+### [Sudorazione notturna e stanchezza: il tumore che quattro persone su dieci scoprono troppo tardi - La Stampa](https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWZsZEJFTWo5WXdFdGJxWUpYNWFmbzVDcE41VjhZbFJjSmQ1YnVYV3JrZ04tU0oxMmJkYnNja3NaLXZPM05sV0E3dkJKU3l4bS1EMlU2bnhRaXoxTnNUOFpZVUVZVGdjNWhUMFkwSWpGeGpSdUdWNy05Z1lmWDg3V2MxZnRuN2JwNGlOR2VEN01VX1lHUFVPdUhlcDVrY2FMVXhDSERwV1ZfYi1SVFMwdNIBtgFBVV95cUxNS24zWnFXSFRvTlczbkZ3RGdFcG8yU1lCM1VyZHNLZ193S1pPb3NUbXB2WkdfcU5ldDZYUV9VeVpKVmxuS0xnTTEwX3RicXlJbFNwdm55QlFFZXRpZkF0RkdSSXVjNDRXMWJKcVV6OFlQTVFsQ21xaUFiaHh3ZjJJQmFSMGNKdXEwbHRib2h5My1MN1lKenBIbmswZFBET0x6ci1DN2Z6Q0liaWFuZTVTV0VsVnlVZw?oc=5)
+
+2026-09-16 <span class="news-indication-tag">tumor</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWZsZEJFTWo5WXdFdGJxWUpYNWFmbzVDcE41VjhZbFJjSmQ1YnVYV3JrZ04tU0oxMmJkYnNja3NaLXZPM05sV0E3dkJKU3l4bS1EMlU2bnhRaXoxTnNUOFpZVUVZVGdjNWhUMFkwSWpGeGpSdUdWNy05Z1lmWDg3V2MxZnRuN2JwNGlOR2VEN01VX1lHUFVPdUhlcDVrY2FMVXhDSERwV1ZfYi1SVFMwdNIBtgFBVV95cUxNS24zWnFXSFRvTlczbkZ3RGdFcG8yU1lCM1VyZHNLZ193S1pPb3NUbXB2WkdfcU5ldDZYUV9VeVpKVmxuS0xnTTEwX3RicXlJbFNwdm55QlFFZXRpZkF0RkdSSXVjNDRXMWJKcVV6OFlQTVFsQ21xaUFiaHh3ZjJJQmFSMGNKdXEwbHRib2h5My1MN1lKenBIbmswZFBET0x6ci1DN2Z6Q0liaWFuZTVTV0VsVnlVZw?oc=5)
+
+---
+
 ### [Zirkulierende Tumor-DNA ändert sich während der mCRPC-Behandlung - Biermann Medizin](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHRuTmlUaWhUZF96aW9pOGJldjI3MGNJX2RabXZvMXFpYTFoYWJGdW0wemVqSEtEUTd1X0pTYXhzZDZ0LUJMc05TUDdYRmpKMnNxZ1gwR0c0bEYzNDRTU2pYTHpXWjF1WkY2SDhuZ3AxdG8yTGlIUnkxLWtRbkhhRkZaZFotWGpQWUltX2dsemdaaXpsQlJKLVVybw?oc=5)
 
 2026-09-16 <span class="news-indication-tag">tumor</span>
@@ -174,9 +206,17 @@ permalink: /news/talimogene-laherparepvec/
 
 ---
 
+### [Des cellules cérébrales humaines implantées dans le cerveau de souris - Le Monde.fr](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdS1JMnZpOEg0SWhvb0laVlVYelJ4VWdwZDIzUk9memt3NXJXX2JqXzI4Y3FybVl4OVRVN3NVTW12ODQ2d2FVM0dmLUZmUTViZi1xdEQ0TVBCUzlLOFpQQVJTWjhJeDJpU19LWkNTdHFEYmhvNE5GLWEzM3hFRXduYTExRjBwcmNkaEZlanoyVlI4ZDN3S3hJbVJFVHZ0QXpIanREb0xoc1ducU9VckNMYmRLVFFVdjQ5ZzJJYVh1a0FmRFdIMEVjY1ZfcFZFVUNrOVptRjBWTk0?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdS1JMnZpOEg0SWhvb0laVlVYelJ4VWdwZDIzUk9memt3NXJXX2JqXzI4Y3FybVl4OVRVN3NVTW12ODQ2d2FVM0dmLUZmUTViZi1xdEQ0TVBCUzlLOFpQQVJTWjhJeDJpU19LWkNTdHFEYmhvNE5GLWEzM3hFRXduYTExRjBwcmNkaEZlanoyVlI4ZDN3S3hJbVJFVHZ0QXpIanREb0xoc1ducU9VckNMYmRLVFFVdjQ5ZzJJYVh1a0FmRFdIMEVjY1ZfcFZFVUNrOVptRjBWTk0?oc=5)
+
+---
+
 ### [Exercise can be as good as drugs at boosting survival rates for cancer patients, major study finds - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmlEd0NLUThhSHlWQVlvTHdXR1dqdWdaUzdNREF6ckY3eUlnSjdFd2VIUHBienNRaEMzU0h6bHZpSGtmTVZDT01vTm5TUzU2YlVMeWYwNkRhOURUa3ZjWE5CT3duTnlfc0NBbmdzUUc0R1l2OVdxV24xMjFTQUw0blJuaGRfTGN2?oc=5)
 
-2026-09-15 <span class="news-indication-tag">cancer</span>
+2026-09-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmlEd0NLUThhSHlWQVlvTHdXR1dqdWdaUzdNREF6ckY3eUlnSjdFd2VIUHBienNRaEMzU0h6bHZpSGtmTVZDT01vTm5TUzU2YlVMeWYwNkRhOURUa3ZjWE5CT3duTnlfc0NBbmdzUUc0R1l2OVdxV24xMjFTQUw0blJuaGRfTGN2?oc=5)
 
@@ -206,35 +246,11 @@ permalink: /news/talimogene-laherparepvec/
 
 ---
 
-### [A tre anni il tumore non rispondeva più alla chemio: la remissione dopo una CAR-T sperimentale](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR3JCZHZhamowZzZrU1BBbVJLMmhJaFFWaW4zYjBhNFFfZUROUjJQMEZHbDM0eTNJSVE3NEtxYTRRQzcxcXM4Rm03NFAzeVBpZnlIYzJwb1otMkMzMmFMdkhQeFp6aU9XUjJEVkE3aUFOQkFJTUxEOTAyYTdXTlRCVUhBY3d1dngtanlkUk5RMFVLQ2pxelhzblU3ZVE2RDBsZndZU1dNR0Y3dXJudFV5eEo5ZHd3TWpGcE82aFpiamJBRHI2RmFQUldjR3pEejJ6LWI0czNFTTVjOGxVVWVUUHFuTTBXeDBj?oc=5)
-
-2026-09-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR3JCZHZhamowZzZrU1BBbVJLMmhJaFFWaW4zYjBhNFFfZUROUjJQMEZHbDM0eTNJSVE3NEtxYTRRQzcxcXM4Rm03NFAzeVBpZnlIYzJwb1otMkMzMmFMdkhQeFp6aU9XUjJEVkE3aUFOQkFJTUxEOTAyYTdXTlRCVUhBY3d1dngtanlkUk5RMFVLQ2pxelhzblU3ZVE2RDBsZndZU1dNR0Y3dXJudFV5eEo5ZHd3TWpGcE82aFpiamJBRHI2RmFQUldjR3pEejJ6LWI0czNFTTVjOGxVVWVUUHFuTTBXeDBj?oc=5)
-
----
-
-### [Bere caffè o tè bollenti aumenta di 3 volte il rischio di tumore: ecco quali sono i pericoli e come evitarli](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWZ6T0FMUFNacHA0VzBrWU43ZnpVWTBEdmJUTEd6UkdOWHVrOFgxcXk0SVMtV3dobnJvYW14ZkxLdW9Ld012V0c3V2UzWXFMM0gxRE40S2hhbm5RUTNDSmZSOHlHdEFfQ0MtS2tYVWxwWGtCSkViZF8xTkZITS1VcEFrR3ktcVVQM1B6MFhMM0I4MlJORV93OGFZYU15MUVpYzgxTEZuNlB0Z3RhMXVWRklrR3RYU1RZNl9RX2hReF9fWE9IZHVYeVVnRVN5VV9ra1pGM1VseDVoQnY1a3FENUpsMA?oc=5)
-
-2026-09-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[ilgiornale.it](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWZ6T0FMUFNacHA0VzBrWU43ZnpVWTBEdmJUTEd6UkdOWHVrOFgxcXk0SVMtV3dobnJvYW14ZkxLdW9Ld012V0c3V2UzWXFMM0gxRE40S2hhbm5RUTNDSmZSOHlHdEFfQ0MtS2tYVWxwWGtCSkViZF8xTkZITS1VcEFrR3ktcVVQM1B6MFhMM0I4MlJORV93OGFZYU15MUVpYzgxTEZuNlB0Z3RhMXVWRklrR3RYU1RZNl9RX2hReF9fWE9IZHVYeVVnRVN5VV9ra1pGM1VseDVoQnY1a3FENUpsMA?oc=5)
-
----
-
 ### [Neue Arzneimittel zum 15. September 2026: Innovationen bei Blasenkrebs und Parkinson - Gelbe Liste](https://news.google.com/rss/articles/CBMif0FVX3lxTE5veTdGYTE5UFU4NTF0VXNVOXd1NnBBakIyTmx1b1lnRGwtRUNad1lwTlBDN2diUzJydm9PZGJZWjg5TG1UczhJYzQyQTR2NFhJRkFFWnZBX0FQSUktX3Iyd0NPNGFZSW5zXzdmOTRBaFgzbmszSVljb1lubm5QZ0E?oc=5)
 
 2026-09-15 <span class="news-indication-tag">Krebs</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMif0FVX3lxTE5veTdGYTE5UFU4NTF0VXNVOXd1NnBBakIyTmx1b1lnRGwtRUNad1lwTlBDN2diUzJydm9PZGJZWjg5TG1UczhJYzQyQTR2NFhJRkFFWnZBX0FQSUktX3Iyd0NPNGFZSW5zXzdmOTRBaFgzbmszSVljb1lubm5QZ0E?oc=5)
-
----
-
-### [Desvelan los procesos que dañan el ADN en la mayoría de los cánceres de próstata - Revista Pharma Market](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJqcjA4Ui1ONWs0STZ4b1p2Z0tQSDViOFgxenhRSThlSWpHUmhWRFpYWENYMDEzWk5nRC1zYW42TV9UTmJDbW9lSkdXVTcyLTdsMW9nZDA4bXBYZy0xQkxKbWxta3VJWFRTM1Q4T0ptNUNGVHVXeXB2TGN6NTdhRnBSWGRUcU5rMWYxbjlKZmZXOW9GTm8zV1F1ekh0WXFKdklCdEU5dw?oc=5)
-
-2026-09-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJqcjA4Ui1ONWs0STZ4b1p2Z0tQSDViOFgxenhRSThlSWpHUmhWRFpYWENYMDEzWk5nRC1zYW42TV9UTmJDbW9lSkdXVTcyLTdsMW9nZDA4bXBYZy0xQkxKbWxta3VJWFRTM1Q4T0ptNUNGVHVXeXB2TGN6NTdhRnBSWGRUcU5rMWYxbjlKZmZXOW9GTm8zV1F1ekh0WXFKdklCdEU5dw?oc=5)
 
 ---
 
@@ -254,19 +270,11 @@ permalink: /news/talimogene-laherparepvec/
 
 ---
 
-### [Lungenkrebs: Strahlenexposition des Thymus könnte Fernmetastasen begünstigen – News](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXFsUWc4VEhJLXdHbFlxa2tRQUxwNXB0b2dOdVp0QWt6S3BXaUZGc25qdGpjanZhUmpwN3d0cHM4eGVlLVhPUnB4alFLcWNIVEQ3SDhsQXk0dG9fLThZQkpzQkNtU3pJbGVidkx1Z25abmx0RGY4MDJyajlxNWJXUklDVUg0eTZmVEp5TEZ1YUIyRUNXZDBqM0N6OUp1NG1TZ1VUWTdlaUlCQnRVODAtalhNekpJaWJOS0JCMWluOV9vQXJGdzRWZTBWLVhIdXFLZ29nTGgzb0RocmhW?oc=5)
+### [Lungenkrebs: Strahlenexposition des Thymus könnte Fernmetastasen begünstigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXFsUWc4VEhJLXdHbFlxa2tRQUxwNXB0b2dOdVp0QWt6S3BXaUZGc25qdGpjanZhUmpwN3d0cHM4eGVlLVhPUnB4alFLcWNIVEQ3SDhsQXk0dG9fLThZQkpzQkNtU3pJbGVidkx1Z25abmx0RGY4MDJyajlxNWJXUklDVUg0eTZmVEp5TEZ1YUIyRUNXZDBqM0N6OUp1NG1TZ1VUWTdlaUlCQnRVODAtalhNekpJaWJOS0JCMWluOV9vQXJGdzRWZTBWLVhIdXFLZ29nTGgzb0RocmhW?oc=5)
 
 2026-09-14 <span class="news-indication-tag">Krebs</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXFsUWc4VEhJLXdHbFlxa2tRQUxwNXB0b2dOdVp0QWt6S3BXaUZGc25qdGpjanZhUmpwN3d0cHM4eGVlLVhPUnB4alFLcWNIVEQ3SDhsQXk0dG9fLThZQkpzQkNtU3pJbGVidkx1Z25abmx0RGY4MDJyajlxNWJXUklDVUg0eTZmVEp5TEZ1YUIyRUNXZDBqM0N6OUp1NG1TZ1VUWTdlaUlCQnRVODAtalhNekpJaWJOS0JCMWluOV9vQXJGdzRWZTBWLVhIdXFLZ29nTGgzb0RocmhW?oc=5)
-
----
-
-### [Radiotherapie bei Brustkrebs: Nicht nur die Seite beeinflusst das Herzrisiko](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkhzbVRXTTJMdVJjRVdEZkFTUUtYdHk0Smx6dkxTZzF0UHQzQnlGWXdoYVdVLTgwWjRoQVh2TUxMVmxaS2dJWVZ3NlBKLUZyN1NiaUVYS2hCOHFxUk5XMkNDZmxpd0wzeGNtd0ZRX3lJTXJnSzJiTkRFbUx0NWt2Tk9OeV91Vm96MTN4S0prNEZQbklERkVkV2V5TFd0QWY2NXNTWS04cjlrdw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Krebs</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkhzbVRXTTJMdVJjRVdEZkFTUUtYdHk0Smx6dkxTZzF0UHQzQnlGWXdoYVdVLTgwWjRoQVh2TUxMVmxaS2dJWVZ3NlBKLUZyN1NiaUVYS2hCOHFxUk5XMkNDZmxpd0wzeGNtd0ZRX3lJTXJnSzJiTkRFbUx0NWt2Tk9OeV91Vm96MTN4S0prNEZQbklERkVkV2V5TFd0QWY2NXNTWS04cjlrdw?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXFsUWc4VEhJLXdHbFlxa2tRQUxwNXB0b2dOdVp0QWt6S3BXaUZGc25qdGpjanZhUmpwN3d0cHM4eGVlLVhPUnB4alFLcWNIVEQ3SDhsQXk0dG9fLThZQkpzQkNtU3pJbGVidkx1Z25abmx0RGY4MDJyajlxNWJXUklDVUg0eTZmVEp5TEZ1YUIyRUNXZDBqM0N6OUp1NG1TZ1VUWTdlaUlCQnRVODAtalhNekpJaWJOS0JCMWluOV9vQXJGdzRWZTBWLVhIdXFLZ29nTGgzb0RocmhW?oc=5)
 
 ---
 
@@ -286,27 +294,11 @@ permalink: /news/talimogene-laherparepvec/
 
 ---
 
-### [«È iniziato con un mal di testa: oggi ho 28 anni, sto morendo e vorrei più tempo da vivere con mio figlio» - Il Mattino](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdTVGNlZJN19EVm0tcTZVbFJGM0ktVW1NUWRJZ3RFYjNSWU05MjFoMDROMjJVaXVFblJxNVhKQVVCYjFnMFFFTDRNT3h1VWJBdkpLZ0ZtOXVpT1gxRWctamxyQmU5TGdmLUZlMi00SkQxUm9fSnF3Zkl5WGw1S09WSEJhT0NwZUJtOEpEcnZHOExDRWZxYVBV0gGcAUFVX3lxTFBwYUZHd3NUV1lKeFhpVlJMT1hKN2x2c2RQU3Q1WmRSUjhhMW5yakZLMTFXdVA4TnJvSTNKcXR1MGYwNWxVT3R4NzU5bDBaSUxjb0dudUVPWGgzRVZUUFJqRXVSRTNRZms0Y2tvQlEwdVdiZU04ZHdGQkoydXpIbXJrTl9xcmczZWhFVXgzaXN1VWVRS3ZVQ2FzZ3h2Sg?oc=5)
-
-2026-09-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdTVGNlZJN19EVm0tcTZVbFJGM0ktVW1NUWRJZ3RFYjNSWU05MjFoMDROMjJVaXVFblJxNVhKQVVCYjFnMFFFTDRNT3h1VWJBdkpLZ0ZtOXVpT1gxRWctamxyQmU5TGdmLUZlMi00SkQxUm9fSnF3Zkl5WGw1S09WSEJhT0NwZUJtOEpEcnZHOExDRWZxYVBV0gGcAUFVX3lxTFBwYUZHd3NUV1lKeFhpVlJMT1hKN2x2c2RQU3Q1WmRSUjhhMW5yakZLMTFXdVA4TnJvSTNKcXR1MGYwNWxVT3R4NzU5bDBaSUxjb0dudUVPWGgzRVZUUFJqRXVSRTNRZms0Y2tvQlEwdVdiZU04ZHdGQkoydXpIbXJrTl9xcmczZWhFVXgzaXN1VWVRS3ZVQ2FzZ3h2Sg?oc=5)
-
----
-
 ### [Cancer de la prostate : voici combien de fois éjaculer chaque mois selon cette étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGRIS3dReHpBV19qWldBY3N1cUtFanU4U3ZkQV9VXzJTYk8xMllEcFNwTjZ0cWlQVDdMbkp3cWRpeUs4ai12TS1EaHFEOXV5ZjRTNEdoeS1VWWRtSlNQMWN1NlhuZFhpWlZSMTI2eFpBZlpoeGFudVAzRnZWeVlqeE1WTm5SemZEeXJhSnoxcnl1WDU5MVlfY2VZekhoR1lkZWpibzlPZm91enhQdDJvSVZHM09jTU5SSEp5bVVkX0hIM3ktME1aaTlEU3N3c2Z1TWtBQ1VSaWxwSDh3TG5VSVhrNnE?oc=5)
 
 2026-09-12 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGRIS3dReHpBV19qWldBY3N1cUtFanU4U3ZkQV9VXzJTYk8xMllEcFNwTjZ0cWlQVDdMbkp3cWRpeUs4ai12TS1EaHFEOXV5ZjRTNEdoeS1VWWRtSlNQMWN1NlhuZFhpWlZSMTI2eFpBZlpoeGFudVAzRnZWeVlqeE1WTm5SemZEeXJhSnoxcnl1WDU5MVlfY2VZekhoR1lkZWpibzlPZm91enhQdDJvSVZHM09jTU5SSEp5bVVkX0hIM3ktME1aaTlEU3N3c2Z1TWtBQ1VSaWxwSDh3TG5VSVhrNnE?oc=5)
-
----
-
-### [Mum died from aggressive cancer after nine-month wait for test results](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
-
-2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 
 2026-09-16 <span class="news-indication-tag">artritis</span>
 
 來源：[Univadis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
-
----
-
-### [I'm a fat-positive writer taking Mounjaro — that doesn’t make me a hypocrite](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkVQalcyaU9Sd25saXExcF9jVmxqX1JydFVZdTFtVXRlZWVFdG9LMFU0ejVZYjBWZlEzM0FJS0hObVJ6T21XbkxwYlllRGg2VWRuU1ZLQ3BQaDYtSEhkQVFJWjFFMERHLWx2SGFwVUtwWmF3ZU1TbDcyLWJkVFZ4WmhnQ1lmTk1TNXlvb1NWN3dJcGtuYUM4S1dKbHhqOTFKZTRTT2xUelnSAa4BQVVfeXFMUDlHNG5VNnRBZWIwSnNsR3k0WDhhWU1BeHJzaHlaenlkaFVHOWF4NG1mQXBud3JNTk9UOGxvc0hueENhVjl0TXVFWWRpY0VLWUtwclE0eUJQOU1RU3RveHJZalJZaXhoQUZIaEF3U3dfTHI4THk2V3VTUWZONHhZeUgzSk91U1dsb05hbWdtQ2pEMjFUUDB0Q2xYTnNfRWhpblVvSTdSZUp3ZXBYY0NB?oc=5)
-
-2026-09-15 <span class="news-drug-tag">Tirzepatide</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkVQalcyaU9Sd25saXExcF9jVmxqX1JydFVZdTFtVXRlZWVFdG9LMFU0ejVZYjBWZlEzM0FJS0hObVJ6T21XbkxwYlllRGg2VWRuU1ZLQ3BQaDYtSEhkQVFJWjFFMERHLWx2SGFwVUtwWmF3ZU1TbDcyLWJkVFZ4WmhnQ1lmTk1TNXlvb1NWN3dJcGtuYUM4S1dKbHhqOTFKZTRTT2xUelnSAa4BQVVfeXFMUDlHNG5VNnRBZWIwSnNsR3k0WDhhWU1BeHJzaHlaenlkaFVHOWF4NG1mQXBud3JNTk9UOGxvc0hueENhVjl0TXVFWWRpY0VLWUtwclE0eUJQOU1RU3RveHJZalJZaXhoQUZIaEF3U3dfTHI4THk2V3VTUWZONHhZeUgzSk91U1dsb05hbWdtQ2pEMjFUUDB0Q2xYTnNfRWhpblVvSTdSZUp3ZXBYY0NB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
+
+### [Primärprävention mit Statin nutzt wohl auch älteren Typ-2-Diabetikern](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFN3MHNONDFDRkprUjhXTFlaS2ZEQVIxQmwxOWxDZmcxT1N5VmU0d0xxczVZUEkwcUVfX3hSNTdaLXJSZkQ5MmNtUWNvUWZpemFhYU9MSUxGeXJDaGFlZjJHYXdNaExqME1JS3NCZjNqbUhTdFM0aUk5WWNBSEhXTHdOckVHMkFsNC1vaWVkMUV4VWtxekVUbUpUWER1VGRFRnB3bnRKcVk4Q0FHNVBzSl85UWJqcEU?oc=5)
+
+2026-09-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFN3MHNONDFDRkprUjhXTFlaS2ZEQVIxQmwxOWxDZmcxT1N5VmU0d0xxczVZUEkwcUVfX3hSNTdaLXJSZkQ5MmNtUWNvUWZpemFhYU9MSUxGeXJDaGFlZjJHYXdNaExqME1JS3NCZjNqbUhTdFM0aUk5WWNBSEhXTHdOckVHMkFsNC1vaWVkMUV4VWtxekVUbUpUWER1VGRFRnB3bnRKcVk4Q0FHNVBzSl85UWJqcEU?oc=5)
+
+---
+
+### [Alle Diabetes-Patienten gegen Herpes zoster impfen?](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+2026-09-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+---
+
+### [ABNEHMSPRITZE UND HAARAUSFALL: DAS SAGEN NEUE STUDIEN](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1pweURmSmdoS2hMRS1kU1h2LTFjR3hjV2NjRWp2d3pwSFJsYU1TUTdyTGF1WVNmcjUyNDRnVzdLRVpLMnNqTUhwdlVCaVEtU1BQYm54WnN4RmtnTm8wb3hFbkx4Zjlhbm8yelpSWVhzMS0wcllqZ0JlSjBBclhIekFDbW5aNEk1X29yVU9XU0w1NWJRS24tNlozTDgtcjVveGVz?oc=5)
+
+2026-09-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[diepta.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1pweURmSmdoS2hMRS1kU1h2LTFjR3hjV2NjRWp2d3pwSFJsYU1TUTdyTGF1WVNmcjUyNDRnVzdLRVpLMnNqTUhwdlVCaVEtU1BQYm54WnN4RmtnTm8wb3hFbkx4Zjlhbm8yelpSWVhzMS0wcllqZ0JlSjBBclhIekFDbW5aNEk1X29yVU9XU0w1NWJRS24tNlozTDgtcjVveGVz?oc=5)
+
+---
+
+### [« La colonisation a apporté le diabète au Maghreb » : le raccourci qui fait fi de la science](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFVaUE9nZ3Fib3lFcVhPT2NHczFDdjZ0LVo1VGo3UTYtMHJVU0d6bDZjM2d2WjNWWXlIUnNNcHBqX0JKU01VNEVFUjhrUXNoZEkwNnpRR09fRVJrLUdqYW5RTGhyTHNkSVZPWks4ZFlEUHNCUF8yTmUwN3RybWN3WWtBU1RaTGZ0X1UwaVlRRUYtZmpYcmU4UTY4cl9zZjAxRFpjTXBEUURIMHgteWZ6cVd5MHQ0REx4N3hxdnVfbFhnZ0pRZTMtVExNRjd4dGM?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabète</span>
+
+來源：[businessnews.com.tn](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFVaUE9nZ3Fib3lFcVhPT2NHczFDdjZ0LVo1VGo3UTYtMHJVU0d6bDZjM2d2WjNWWXlIUnNNcHBqX0JKU01VNEVFUjhrUXNoZEkwNnpRR09fRVJrLUdqYW5RTGhyTHNkSVZPWks4ZFlEUHNCUF8yTmUwN3RybWN3WWtBU1RaTGZ0X1UwaVlRRUYtZmpYcmU4UTY4cl9zZjAxRFpjTXBEUURIMHgteWZ6cVd5MHQ0REx4N3hxdnVfbFhnZ0pRZTMtVExNRjd4dGM?oc=5)
+
+---
 
 ### [Middle-age disease is ‘silently’ affecting one in FIVE Brits and fuelling cancer - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
 
@@ -102,14 +134,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
-2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
 ### [A Napoli parte INsu-LINE: l'intelligenza artificiale e la prevenzione del diabete entrano nelle case delle famiglie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODNiRG9wX1dxRVVBUk9WQ01hdm52NXpqRC01dFZDVmE1VE9BOVpBbk1OaEl4V1dYb1hsa1M4WUV3Z0h5UVpjRkRvdWZncXNDeTlrQTJpRmpSV1JISEpaV05fXzhRVlVudENMejlFQktPTkRFSXBpNTNYcVBBUTBuemRNaFNkSVdVM19Nb2U0VEthX0VBRUJjWUFQeXZDZFI4bnhGb21qS0M4NmVZbzkyREtKckJlbHlzbjFFSUY2MF9CaWdMUzRVamlKTEFuRUhvejJV?oc=5)
 
 2026-09-15 <span class="news-indication-tag">diabete</span>
@@ -134,11 +158,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 ---
 

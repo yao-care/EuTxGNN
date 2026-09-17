@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
+
+### [Primärprävention mit Statin nutzt wohl auch älteren Typ-2-Diabetikern](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFN3MHNONDFDRkprUjhXTFlaS2ZEQVIxQmwxOWxDZmcxT1N5VmU0d0xxczVZUEkwcUVfX3hSNTdaLXJSZkQ5MmNtUWNvUWZpemFhYU9MSUxGeXJDaGFlZjJHYXdNaExqME1JS3NCZjNqbUhTdFM0aUk5WWNBSEhXTHdOckVHMkFsNC1vaWVkMUV4VWtxekVUbUpUWER1VGRFRnB3bnRKcVk4Q0FHNVBzSl85UWJqcEU?oc=5)
+
+2026-09-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFN3MHNONDFDRkprUjhXTFlaS2ZEQVIxQmwxOWxDZmcxT1N5VmU0d0xxczVZUEkwcUVfX3hSNTdaLXJSZkQ5MmNtUWNvUWZpemFhYU9MSUxGeXJDaGFlZjJHYXdNaExqME1JS3NCZjNqbUhTdFM0aUk5WWNBSEhXTHdOckVHMkFsNC1vaWVkMUV4VWtxekVUbUpUWER1VGRFRnB3bnRKcVk4Q0FHNVBzSl85UWJqcEU?oc=5)
+
+---
+
+### [Alle Diabetes-Patienten gegen Herpes zoster impfen?](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+2026-09-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+---
+
+### [« La colonisation a apporté le diabète au Maghreb » : le raccourci qui fait fi de la science](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFVaUE9nZ3Fib3lFcVhPT2NHczFDdjZ0LVo1VGo3UTYtMHJVU0d6bDZjM2d2WjNWWXlIUnNNcHBqX0JKU01VNEVFUjhrUXNoZEkwNnpRR09fRVJrLUdqYW5RTGhyTHNkSVZPWks4ZFlEUHNCUF8yTmUwN3RybWN3WWtBU1RaTGZ0X1UwaVlRRUYtZmpYcmU4UTY4cl9zZjAxRFpjTXBEUURIMHgteWZ6cVd5MHQ0REx4N3hxdnVfbFhnZ0pRZTMtVExNRjd4dGM?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabète</span>
+
+來源：[businessnews.com.tn](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFVaUE9nZ3Fib3lFcVhPT2NHczFDdjZ0LVo1VGo3UTYtMHJVU0d6bDZjM2d2WjNWWXlIUnNNcHBqX0JKU01VNEVFUjhrUXNoZEkwNnpRR09fRVJrLUdqYW5RTGhyTHNkSVZPWks4ZFlEUHNCUF8yTmUwN3RybWN3WWtBU1RaTGZ0X1UwaVlRRUYtZmpYcmU4UTY4cl9zZjAxRFpjTXBEUURIMHgteWZ6cVd5MHQ0REx4N3hxdnVfbFhnZ0pRZTMtVExNRjd4dGM?oc=5)
+
+---
 
 ### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
@@ -112,7 +136,7 @@ permalink: /news/somapacitan/
 
 ### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
-2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
@@ -142,11 +166,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 ---
 

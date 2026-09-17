@@ -14,7 +14,7 @@ permalink: /news/voclosporin/
 ---
 
 <p class="key-answer" data-question="Voclosporin 有什麼相關新聞？">
-<strong>Voclosporin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voclosporin</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/voclosporin/
 <p><a href="{{ '/drugs/voclosporin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（13 則）
+
+### [Primärprävention mit Statin nutzt wohl auch älteren Typ-2-Diabetikern](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFN3MHNONDFDRkprUjhXTFlaS2ZEQVIxQmwxOWxDZmcxT1N5VmU0d0xxczVZUEkwcUVfX3hSNTdaLXJSZkQ5MmNtUWNvUWZpemFhYU9MSUxGeXJDaGFlZjJHYXdNaExqME1JS3NCZjNqbUhTdFM0aUk5WWNBSEhXTHdOckVHMkFsNC1vaWVkMUV4VWtxekVUbUpUWER1VGRFRnB3bnRKcVk4Q0FHNVBzSl85UWJqcEU?oc=5)
+
+2026-09-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFN3MHNONDFDRkprUjhXTFlaS2ZEQVIxQmwxOWxDZmcxT1N5VmU0d0xxczVZUEkwcUVfX3hSNTdaLXJSZkQ5MmNtUWNvUWZpemFhYU9MSUxGeXJDaGFlZjJHYXdNaExqME1JS3NCZjNqbUhTdFM0aUk5WWNBSEhXTHdOckVHMkFsNC1vaWVkMUV4VWtxekVUbUpUWER1VGRFRnB3bnRKcVk4Q0FHNVBzSl85UWJqcEU?oc=5)
+
+---
+
+### [Alle Diabetes-Patienten gegen Herpes zoster impfen?](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+2026-09-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+---
+
+### [« La colonisation a apporté le diabète au Maghreb » : le raccourci qui fait fi de la science](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFVaUE9nZ3Fib3lFcVhPT2NHczFDdjZ0LVo1VGo3UTYtMHJVU0d6bDZjM2d2WjNWWXlIUnNNcHBqX0JKU01VNEVFUjhrUXNoZEkwNnpRR09fRVJrLUdqYW5RTGhyTHNkSVZPWks4ZFlEUHNCUF8yTmUwN3RybWN3WWtBU1RaTGZ0X1UwaVlRRUYtZmpYcmU4UTY4cl9zZjAxRFpjTXBEUURIMHgteWZ6cVd5MHQ0REx4N3hxdnVfbFhnZ0pRZTMtVExNRjd4dGM?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabète</span>
+
+來源：[businessnews.com.tn](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFVaUE9nZ3Fib3lFcVhPT2NHczFDdjZ0LVo1VGo3UTYtMHJVU0d6bDZjM2d2WjNWWXlIUnNNcHBqX0JKU01VNEVFUjhrUXNoZEkwNnpRR09fRVJrLUdqYW5RTGhyTHNkSVZPWks4ZFlEUHNCUF8yTmUwN3RybWN3WWtBU1RaTGZ0X1UwaVlRRUYtZmpYcmU4UTY4cl9zZjAxRFpjTXBEUURIMHgteWZ6cVd5MHQ0REx4N3hxdnVfbFhnZ0pRZTMtVExNRjd4dGM?oc=5)
+
+---
 
 ### [Middle-age disease is ‘silently’ affecting one in FIVE Brits and fuelling cancer - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJNcVBRMHZoN2dkOGdDVkUwUHFNejgzNjZ6Z3VNZGJNOE1nUFFoVnhNbUJxLTNXMExrclF0bjFnYlFWSFV1bVpEb2lhUEJ6QUFMZTZUWHVGZ1ZDRUVibENwMlphWEo2cEZWQV9STXBOa2IxS2JjTXotNVNwTTNSR25nTHhTVFBNVEJGbTNNOTgxUi1nS0FUeXpEN185eDdL?oc=5)
 
@@ -126,11 +150,11 @@ permalink: /news/voclosporin/
 
 ---
 
-### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 2026-09-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
 
 ---
 

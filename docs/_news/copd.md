@@ -3,7 +3,7 @@ layout: default
 title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。3 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>3 則</strong>相關新聞報導，26 個相關藥物。
+<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Una agudización de EPOC dispara por 10 el riesgo cardiovascular](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
 
@@ -69,14 +69,6 @@ permalink: /news/copd/
 2026-09-15
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [COPD: Exazerbationen richtig einordnen – und Differentialdiagnosen nicht vergessen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
-
-2026-09-11
-
-來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
 ---
 

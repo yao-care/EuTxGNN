@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Una agudización de EPOC dispara por 10 el riesgo cardiovascular](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
 
@@ -72,17 +72,9 @@ permalink: /news/budesonide/
 
 ### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
-2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [COPD: Exazerbationen richtig einordnen – und Differentialdiagnosen nicht vergessen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
-
-2026-09-11 <span class="news-indication-tag">copd</span>
-
-來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
 ---
 

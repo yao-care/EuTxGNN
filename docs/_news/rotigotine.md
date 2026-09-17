@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（18 則）
 
-### [Nicht immer sind die Zigaretten an Lungenkrebs schuld - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
+### [ABNEHMSPRITZE UND HAARAUSFALL: DAS SAGEN NEUE STUDIEN](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1pweURmSmdoS2hMRS1kU1h2LTFjR3hjV2NjRWp2d3pwSFJsYU1TUTdyTGF1WVNmcjUyNDRnVzdLRVpLMnNqTUhwdlVCaVEtU1BQYm54WnN4RmtnTm8wb3hFbkx4Zjlhbm8yelpSWVhzMS0wcllqZ0JlSjBBclhIekFDbW5aNEk1X29yVU9XU0w1NWJRS24tNlozTDgtcjVveGVz?oc=5)
+
+2026-09-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[diepta.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1pweURmSmdoS2hMRS1kU1h2LTFjR3hjV2NjRWp2d3pwSFJsYU1TUTdyTGF1WVNmcjUyNDRnVzdLRVpLMnNqTUhwdlVCaVEtU1BQYm54WnN4RmtnTm8wb3hFbkx4Zjlhbm8yelpSWVhzMS0wcllqZ0JlSjBBclhIekFDbW5aNEk1X29yVU9XU0w1NWJRS24tNlozTDgtcjVveGVz?oc=5)
+
+---
+
+### [L'OMS a lancé l'éradication du paludisme en 1955 en laissant de côté presque toute l'Afrique : le parasite y tue encore 600 000 personnes chaque année](https://news.google.com/rss/articles/CBMiggJBVV95cUxPdVVDLV91dWo2eEY3WWQ5VjNkTW90LTdVb1FKSFZRY2k4M2E5QUlYcjFtSDU3Sll2bTlURGZxRVI2aS03aDktWUtUeWlJekRpdnZLeW1PS0ZVYVY1TWVvYkVvRTFDeFJnT3Z1Wkx0SzFlS3g3amxsd0thNXktSlRncklvQzhOSHBRajBXVzdUWnBKTTVMT25SZzBJczZ0QjFpaDJPRE9Ka0hfY2Nlc09OMkxLektyLUpqcW1QV3h4SXJxSURwdnFSQW4ycjdFZVdrVC13NUFlV3A4TW5KMEtHYjJqS1NSRDh5azVnajNQZmk0bnQ0Yks2NGtIY3VDT0ZNQ0E?oc=5)
+
+2026-09-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiggJBVV95cUxPdVVDLV91dWo2eEY3WWQ5VjNkTW90LTdVb1FKSFZRY2k4M2E5QUlYcjFtSDU3Sll2bTlURGZxRVI2aS03aDktWUtUeWlJekRpdnZLeW1PS0ZVYVY1TWVvYkVvRTFDeFJnT3Z1Wkx0SzFlS3g3amxsd0thNXktSlRncklvQzhOSHBRajBXVzdUWnBKTTVMT25SZzBJczZ0QjFpaDJPRE9Ka0hfY2Nlc09OMkxLektyLUpqcW1QV3h4SXJxSURwdnFSQW4ycjdFZVdrVC13NUFlV3A4TW5KMEtHYjJqS1NSRDh5azVnajNQZmk0bnQ0Yks2NGtIY3VDT0ZNQ0E?oc=5)
+
+---
+
+### [Nicht immer sind die Zigaretten an Lungenkrebs schuld](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
 
 2026-09-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
+來源：[medical-tribune.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/rotigotine/
 2026-09-16 <span class="news-indication-tag">multiple sclerosis</span>
 
 來源：[Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0F6MW15eWRXMzNOZ2pORzNkZTlwNEZSdmR1YldtQkFON0RGeDR5VEtnWmRRYXUwUVFCWWJmam9wTUo5LTU2d2dxVU03WmNnOGUwUkx4cVgyWWRwcHBxZS11TGRlMWk5dk1FeDZzTUpaUVRyT25ocElocEd5b0IzWDNURGx4WUk4eU50Z0ZRZlowZjNKb1g3MlVyQmdnOVNINUJjZWUwdllwX0RZVkZYajZMWDdKUmRETEN2Mg?oc=5)
-
----
-
-### [Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JMFpEYldQcVJCYmpuOTdtSkt6d1BzcFpZV19OOHR1al9ZNUh6TlVFcEFqNXd3RlVXN1k1RTRKY2ZNcllyMFFSQ3hzWkplSTd6dldieUk5SkdFcFAwS3ow?oc=5)
-
-2026-09-16 <span class="news-indication-tag">MS</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JMFpEYldQcVJCYmpuOTdtSkt6d1BzcFpZV19OOHR1al9ZNUh6TlVFcEFqNXd3RlVXN1k1RTRKY2ZNcllyMFFSQ3hzWkplSTd6dldieUk5SkdFcFAwS3ow?oc=5)
 
 ---
 
@@ -110,11 +118,27 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Exercise can be as good as drugs at boosting survival rates for cancer patients, major study finds - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmlEd0NLUThhSHlWQVlvTHdXR1dqdWdaUzdNREF6ckY3eUlnSjdFd2VIUHBienNRaEMzU0h6bHZpSGtmTVZDT01vTm5TUzU2YlVMeWYwNkRhOURUa3ZjWE5CT3duTnlfc0NBbmdzUUc0R1l2OVdxV24xMjFTQUw0blJuaGRfTGN2?oc=5)
+
+2026-09-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmlEd0NLUThhSHlWQVlvTHdXR1dqdWdaUzdNREF6ckY3eUlnSjdFd2VIUHBienNRaEMzU0h6bHZpSGtmTVZDT01vTm5TUzU2YlVMeWYwNkRhOURUa3ZjWE5CT3duTnlfc0NBbmdzUUc0R1l2OVdxV24xMjFTQUw0blJuaGRfTGN2?oc=5)
+
+---
+
 ### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
-2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
+
+---
+
+### [Abdominal aortic aneurysms can cause years of anxiety, even without symptoms - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxON01VUmNiVTVYVkJsWHZzbnp3LWdKN094VFd3VXpldkxWczM3YjhjX09zZVVNc0FwWWdRTTJROGhtWmticFJpMUs0RTMzWmw5SFNRNGNfa3Q3YTBJdUFvN2h6TFlxcmZqQ3B1ckhaLTdnZDh0aDk5Ul9iNlBET3ZnN2E5TVVtTVJqX2RXMndfdUJXUXp2N0JQQmFmdS16Q0p5S1o0bi1MNlZsOWt5SDFn?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MS</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxON01VUmNiVTVYVkJsWHZzbnp3LWdKN094VFd3VXpldkxWczM3YjhjX09zZVVNc0FwWWdRTTJROGhtWmticFJpMUs0RTMzWmw5SFNRNGNfa3Q3YTBJdUFvN2h6TFlxcmZqQ3B1ckhaLTdnZDh0aDk5Ul9iNlBET3ZnN2E5TVVtTVJqX2RXMndfdUJXUXp2N0JQQmFmdS16Q0p5S1o0bi1MNlZsOWt5SDFn?oc=5)
 
 ---
 
@@ -139,6 +163,14 @@ permalink: /news/rotigotine/
 2026-09-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZVVPdGM3clZzV3J2cjVZN0R1TGJCR2VJRG9BWUlNRHhULVk0LWtNSUhqVW9rWUhuQWxIeVdnVkp4LTd1TFVFZVl1LWpnM0hfekxTSUdoMVQtNTJZ?oc=5)
+
+---
+
+### [A microprotein atlas of the human frontal cortex in Alzheimer’s disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
+
+2026-09-14 <span class="news-indication-tag">MS</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
 
 ---
 
