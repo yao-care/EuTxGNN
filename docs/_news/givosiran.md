@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [CVRx informiert zum Weltherztag am 29. September / Bluthochdruck: Den wichtigsten ...](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Bluthochdruck: Nüsse senken Risiko signifikant](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
-
-2026-09-16 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
-
----
-
-### [Tres perfiles de pacientes podrían mejorar la detección y prevención de la hepatitis C y las ITS en hombres con VIH - Revista SIX](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDFYYVhOSFkzMGhjLUZmOHdVeE93VlRvRGJvaEV0aVc2NDByclhPSFpuOEI5dGxvbDg0V3d2MkxnZGdxendQVl9aemJHWGNvMzY1bkNZckVJemxpQzlGTWpCN3dwM1l6UEVIQmdEd01mX2FrY2F6TlhYQV9MT0tDZXlhSDY3Sjlmem90T2lzV05mT0Q4RU9mNkgzaVkzRG8yanBFRXpFZlRWcUNOZWVxTkRKVEJpOXhUcGVFbktoMA?oc=5)
-
-2026-09-15 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Revista SIX](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDFYYVhOSFkzMGhjLUZmOHdVeE93VlRvRGJvaEV0aVc2NDByclhPSFpuOEI5dGxvbDg0V3d2MkxnZGdxendQVl9aemJHWGNvMzY1bkNZckVJemxpQzlGTWpCN3dwM1l6UEVIQmdEd01mX2FrY2F6TlhYQV9MT0tDZXlhSDY3Sjlmem90T2lzV05mT0Q4RU9mNkgzaVkzRG8yanBFRXpFZlRWcUNOZWVxTkRKVEJpOXhUcGVFbktoMA?oc=5)
-
----
-
 ### [New Northamptonshire high blood pressure service being rolled out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 

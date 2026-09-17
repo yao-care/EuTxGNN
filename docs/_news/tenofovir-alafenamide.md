@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir Alafenamide 有什麼相關新聞？">
-<strong>Tenofovir Alafenamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenofovir Alafenamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/tenofovir-alafenamide/
 <p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Tres perfiles de pacientes podrían mejorar la detección y prevención de la hepatitis C y las ITS en hombres con VIH - Revista SIX](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDFYYVhOSFkzMGhjLUZmOHdVeE93VlRvRGJvaEV0aVc2NDByclhPSFpuOEI5dGxvbDg0V3d2MkxnZGdxendQVl9aemJHWGNvMzY1bkNZckVJemxpQzlGTWpCN3dwM1l6UEVIQmdEd01mX2FrY2F6TlhYQV9MT0tDZXlhSDY3Sjlmem90T2lzV05mT0Q4RU9mNkgzaVkzRG8yanBFRXpFZlRWcUNOZWVxTkRKVEJpOXhUcGVFbktoMA?oc=5)
-
-2026-09-15 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Revista SIX](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDFYYVhOSFkzMGhjLUZmOHdVeE93VlRvRGJvaEV0aVc2NDByclhPSFpuOEI5dGxvbDg0V3d2MkxnZGdxendQVl9aemJHWGNvMzY1bkNZckVJemxpQzlGTWpCN3dwM1l6UEVIQmdEd01mX2FrY2F6TlhYQV9MT0tDZXlhSDY3Sjlmem90T2lzV05mT0Q4RU9mNkgzaVkzRG8yanBFRXpFZlRWcUNOZWVxTkRKVEJpOXhUcGVFbktoMA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

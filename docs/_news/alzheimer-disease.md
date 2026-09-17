@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。8 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。6 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>8 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>6 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [Bournemouth University study aims to cut veterans' dementia risk](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
 
 2026-09-17
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
 
 ---
 
@@ -62,35 +62,19 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Pruebas combinadas de sangre y genética estiman el momento de aparición de síntomas de Alzheimer](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVHkwMVBvNERLazd2ZDdjdkRnYmVVRFZLdWhSRUFxUkN2dkNKRGZGNjBPS1BwODF2TDByelRaVkRRRXVpRm5nZ1Y1WnlnYjZpMHlwZ29YSUl3OVVCR1g1anRZWk9RT3NNUXFCLXN3ekpXNUdjLTVCQ0dUdXpqUnVmamtES3pibHBBMnRyeWh1WlpVamVjeVNOZVBBSXAwUUUweWZDTEJuMENhT3JLQVNkWTFhME40NGNQczBDTllNUlByLV9CRlg1dEhnb0FoWEt5eG0zS0tDRkotS2loTmI1UTVidEFVcHZ0a042azRJZkx2ZTgzZ1lZdWZHNNIBhAJBVV95cUxQaVhwWHRxVHRudjJOdTU3RWprZl9famRhR2l0ckJ6QUdGLXNZeWZ5NGgyYXVZbVRNQkF2MFVsdlpzLXRmM1MyUUdsSHpkTVFDdVRHUllsY1k5RFhsVkFNTDBaRXpjZ3huV0JlM0hyX0I3SU9fT2hFcXNZbS1ZQkdXY2xJNUtFdEdZbjlnTWRQVktnYkNoTHgyck1Lek01UEJUNG5sQXVGcUV2eWttTDdmdkNoYkc0WTA2RGs0MlFWTkI1XzRxak9BQjdXNjFaWF9YRTNwNzNmal8tVFB0NjR2UnhITDRqQzc0TWJPQldNSUt3S192TzVwRUJBN2NkcWdaMG9Weg?oc=5)
-
-2026-09-17
-
-來源：[labmedica.es](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVHkwMVBvNERLazd2ZDdjdkRnYmVVRFZLdWhSRUFxUkN2dkNKRGZGNjBPS1BwODF2TDByelRaVkRRRXVpRm5nZ1Y1WnlnYjZpMHlwZ29YSUl3OVVCR1g1anRZWk9RT3NNUXFCLXN3ekpXNUdjLTVCQ0dUdXpqUnVmamtES3pibHBBMnRyeWh1WlpVamVjeVNOZVBBSXAwUUUweWZDTEJuMENhT3JLQVNkWTFhME40NGNQczBDTllNUlByLV9CRlg1dEhnb0FoWEt5eG0zS0tDRkotS2loTmI1UTVidEFVcHZ0a042azRJZkx2ZTgzZ1lZdWZHNNIBhAJBVV95cUxQaVhwWHRxVHRudjJOdTU3RWprZl9famRhR2l0ckJ6QUdGLXNZeWZ5NGgyYXVZbVRNQkF2MFVsdlpzLXRmM1MyUUdsSHpkTVFDdVRHUllsY1k5RFhsVkFNTDBaRXpjZ3huV0JlM0hyX0I3SU9fT2hFcXNZbS1ZQkdXY2xJNUtFdEdZbjlnTWRQVktnYkNoTHgyck1Lek01UEJUNG5sQXVGcUV2eWttTDdmdkNoYkc0WTA2RGs0MlFWTkI1XzRxak9BQjdXNjFaWF9YRTNwNzNmal8tVFB0NjR2UnhITDRqQzc0TWJPQldNSUt3S192TzVwRUJBN2NkcWdaMG9Weg?oc=5)
-
----
-
-### [I don’t care if science has vindicated literary slop. Not all reading is equal - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUhGZWl1Q3ladjJWbWdPUkhIeFpWQzNGTGJYUGZfckZqYmdzMWFZNjFWQW1oNVlQQ3N3TF9haWFuWWg4S2lIeFFSQ0RlWkxrU2k5U3pUUU1EWFpDYzBMczB2UkpYYXBCMTdHNS15aXdvb200TUtsOTc2UmZaR0haVE1Pd05xV09kYWg1NUFHQXpCeHUyWUhROXFCMUc?oc=5)
-
-2026-09-16
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUhGZWl1Q3ladjJWbWdPUkhIeFpWQzNGTGJYUGZfckZqYmdzMWFZNjFWQW1oNVlQQ3N3TF9haWFuWWg4S2lIeFFSQ0RlWkxrU2k5U3pUUU1EWFpDYzBMczB2UkpYYXBCMTdHNS15aXdvb200TUtsOTc2UmZaR0haVE1Pd05xV09kYWg1NUFHQXpCeHUyWUhROXFCMUc?oc=5)
-
----
-
-### ["Le diagnostic a été difficile à poser" : la vie de ce couple de la Vienne bouleversée par un Alzheimer précoce](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdGlRdEdOaXAzaWhqWm5IRkVuZGNLTWJpYk1WSXdwaXRCTURLeXIxQjZsVkdxUHJTbkRfZHJXQ2lXODNqUjc4RUF1YXAzMC1kSUZHX2R6VGc2b2p1V3F5eHNGVHZJTlpwYml1UmczSDZFbkVoczItY25zWEhkVHJTT3R3aUszdmVyUG5hX0I5b1ZQY1NtWGt0aHhUTmRKN0xEbUt6ekdlTTl3WE1acmROdVZnQVhpSVE3M19hb0FkV2pPbXdzb1k3ZmlFaXNvclRQVkp5R0oybU1KZ1pzd2tQNi13UFBjU0JLZlpfSU9keGJSUVpHME9SM2xPc3JSLTRnek5mQlVNX1k?oc=5)
+### [Doctor says early dementia warning sign appears 15 years prior - what to look for - Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
 
 2026-09-15
 
-來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdGlRdEdOaXAzaWhqWm5IRkVuZGNLTWJpYk1WSXdwaXRCTURLeXIxQjZsVkdxUHJTbkRfZHJXQ2lXODNqUjc4RUF1YXAzMC1kSUZHX2R6VGc2b2p1V3F5eHNGVHZJTlpwYml1UmczSDZFbkVoczItY25zWEhkVHJTT3R3aUszdmVyUG5hX0I5b1ZQY1NtWGt0aHhUTmRKN0xEbUt6ekdlTTl3WE1acmROdVZnQVhpSVE3M19hb0FkV2pPbXdzb1k3ZmlFaXNvclRQVkp5R0oybU1KZ1pzd2tQNi13UFBjU0JLZlpfSU9keGJSUVpHME9SM2xPc3JSLTRnek5mQlVNX1k?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
 
 ---
 
-### [Doctor says early dementia warning sign appears 15 years prior - what to look for - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
+### [Reading for pleasure can improve wellbeing - study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XQTJCQ1VZMFJ1OWJ0bXcxMUEwSWlmV01XYllUREh1d3Y0Tlp4R0VNT3gycTRIU3dJdEcta0tSbmhQRHQyQWFJbWtHeENlM3VmejFhbEsxaFdqbE5uN3c?oc=5)
 
 2026-09-15
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XQTJCQ1VZMFJ1OWJ0bXcxMUEwSWlmV01XYllUREh1d3Y0Tlp4R0VNT3gycTRIU3dJdEcta0tSbmhQRHQyQWFJbWtHeENlM3VmejFhbEsxaFdqbE5uN3c?oc=5)
 
 ---
 
@@ -98,7 +82,7 @@ permalink: /news/alzheimer-disease/
 
 2026-09-14
 
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
 
 ---
 
