@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Morbus Crohn und Colitis ulcerosa: Pflanzenstoff könnte Entzündungen verstärken](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXNHamQ3RHl2VTFOWDA3eEtNbE04SkhxTjdkY3RFd0NjQnRCUEEzTjNGVGR0WjktSzNQSFFTdWo3NGlERjB3R1lMS1BIeUk3RmxiNHhkRlFCRHh0WkFXd2hydU5aT0pRaU12a1RmUnIwYUI3djNnYjdwcVBrUHpNVW1Zd1pMM19ONk1YeGNVZ3NJUl9qTHV2S1YydmNiY09SWG1veWFwQ3FFQXNFUzlLM2l5bWNaY2VI?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXNHamQ3RHl2VTFOWDA3eEtNbE04SkhxTjdkY3RFd0NjQnRCUEEzTjNGVGR0WjktSzNQSFFTdWo3NGlERjB3R1lMS1BIeUk3RmxiNHhkRlFCRHh0WkFXd2hydU5aT0pRaU12a1RmUnIwYUI3djNnYjdwcVBrUHpNVW1Zd1pMM19ONk1YeGNVZ3NJUl9qTHV2S1YydmNiY09SWG1veWFwQ3FFQXNFUzlLM2l5bWNaY2VI?oc=5)
+
+---
 
 ### [Una agudización de EPOC dispara por 10 el riesgo cardiovascular](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
 

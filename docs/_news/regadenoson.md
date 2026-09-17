@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/regadenoson/
 2026-09-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
----
-
-### [Adiós a las migrañas: especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir la frecuencia e intensidad de estos dolores de cabeza](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[eleconomista.es](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
 
 ---
 

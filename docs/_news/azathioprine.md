@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="Azathioprine 有什麼相關新聞？">
-<strong>Azathioprine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azathioprine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/azathioprine/
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Morbus Crohn und Colitis ulcerosa: Pflanzenstoff könnte Entzündungen verstärken](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXNHamQ3RHl2VTFOWDA3eEtNbE04SkhxTjdkY3RFd0NjQnRCUEEzTjNGVGR0WjktSzNQSFFTdWo3NGlERjB3R1lMS1BIeUk3RmxiNHhkRlFCRHh0WkFXd2hydU5aT0pRaU12a1RmUnIwYUI3djNnYjdwcVBrUHpNVW1Zd1pMM19ONk1YeGNVZ3NJUl9qTHV2S1YydmNiY09SWG1veWFwQ3FFQXNFUzlLM2l5bWNaY2VI?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXNHamQ3RHl2VTFOWDA3eEtNbE04SkhxTjdkY3RFd0NjQnRCUEEzTjNGVGR0WjktSzNQSFFTdWo3NGlERjB3R1lMS1BIeUk3RmxiNHhkRlFCRHh0WkFXd2hydU5aT0pRaU12a1RmUnIwYUI3djNnYjdwcVBrUHpNVW1Zd1pMM19ONk1YeGNVZ3NJUl9qTHV2S1YydmNiY09SWG1veWFwQ3FFQXNFUzlLM2l5bWNaY2VI?oc=5)
+
+---
 
 ### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 

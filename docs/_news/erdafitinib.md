@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [CVRx informiert zum Weltherztag am 29. September / Bluthochdruck: Den wichtigsten ...](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
+
+---
+
+### [The heart disease symptoms women mistake for stress, indigestion or menopause - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
+
+2026-09-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
+
+---
 
 ### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 
@@ -75,14 +91,6 @@ permalink: /news/erdafitinib/
 2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
-
----
-
-### [Brits urged to eat one fruit to slash risk of heart disease - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">heart disease</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
 
 ---
 

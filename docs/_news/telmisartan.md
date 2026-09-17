@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [CVRx informiert zum Weltherztag am 29. September / Bluthochdruck: Den wichtigsten ...](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
+
+---
+
+### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt unerwartetes Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+
+---
+
+### [The heart disease symptoms women mistake for stress, indigestion or menopause - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
+
+2026-09-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
+
+---
 
 ### [Bluthochdruck: Nüsse senken Risiko signifikant](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
 
 2026-09-16 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
+
+---
+
+### [I tried the eye scan that might predict a heart attack](https://news.google.com/rss/articles/CBMingFBVV95cUxPNkVaMnQ4d2pHNlZJMGNIQm9ReWVVUTdlUXdoM1RCTGQ5UlQ3VGlteFI2SWdiSW5KR3pXWGdhaHJFRFYyUXpMOUN6M25UR056Z09NOTVBZHZtSXlsREgwSURqMVozVlJtWVRBVkVIMkxxNXMxeXJfZEU1UjM0M3k3ZUMyb2ZQbHRjYl9LVGh5cG45M0dzMzREOFZWSkE4UQ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+
+來源：[thetimes.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPNkVaMnQ4d2pHNlZJMGNIQm9ReWVVUTdlUXdoM1RCTGQ5UlQ3VGlteFI2SWdiSW5KR3pXWGdhaHJFRFYyUXpMOUN6M25UR056Z09NOTVBZHZtSXlsREgwSURqMVozVlJtWVRBVkVIMkxxNXMxeXJfZEU1UjM0M3k3ZUMyb2ZQbHRjYl9LVGh5cG45M0dzMzREOFZWSkE4UQ?oc=5)
 
 ---
 
@@ -75,14 +107,6 @@ permalink: /news/telmisartan/
 2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
-
----
-
-### [Brits urged to eat one fruit to slash risk of heart disease - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">heart disease</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNDeERXeERsLU5oaFZGOTBhZ3I4ZXRyZi1iTGpHVHYybjlIVkJUY2EzZTVsZ0VMUlNDaUh5ZTRvTk1YMjVEYTg5UUVZc0JWU1BhcDg2YmtWOThCUUhEQlJxdzA2TGUxQ2dHdF9aandUeEg0anZHNC1TVjJCMDM1QkNWVnNZU0VEQi02U3RLRdIBlAFBVV95cUxPRnRyb0hBcEwzMk5jOVRrQXRzOTdiSi1tOVBIbENkalFIbldNS0lUQmhGcmRtUFVRdko4Z2QyNmw3bTFDVUdsNzAyYTJFak92WUw3UTJKajlXdExkQmtXUkNXMms5a1RVOFJaOFhXR2JZMmFhNE4zWU5VMUlVcGZ5dEpGR1JYc09RTzNHa2RkZEJYbkhZ?oc=5)
 
 ---
 

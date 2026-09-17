@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt unerwartetes Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+
+---
+
+### [I tried the eye scan that might predict a heart attack](https://news.google.com/rss/articles/CBMingFBVV95cUxPNkVaMnQ4d2pHNlZJMGNIQm9ReWVVUTdlUXdoM1RCTGQ5UlQ3VGlteFI2SWdiSW5KR3pXWGdhaHJFRFYyUXpMOUN6M25UR056Z09NOTVBZHZtSXlsREgwSURqMVozVlJtWVRBVkVIMkxxNXMxeXJfZEU1UjM0M3k3ZUMyb2ZQbHRjYl9LVGh5cG45M0dzMzREOFZWSkE4UQ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+
+來源：[thetimes.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPNkVaMnQ4d2pHNlZJMGNIQm9ReWVVUTdlUXdoM1RCTGQ5UlQ3VGlteFI2SWdiSW5KR3pXWGdhaHJFRFYyUXpMOUN6M25UR056Z09NOTVBZHZtSXlsREgwSURqMVozVlJtWVRBVkVIMkxxNXMxeXJfZEU1UjM0M3k3ZUMyb2ZQbHRjYl9LVGh5cG45M0dzMzREOFZWSkE4UQ?oc=5)
+
+---
 
 ### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 

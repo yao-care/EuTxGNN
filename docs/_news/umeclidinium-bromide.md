@@ -14,7 +14,7 @@ permalink: /news/umeclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="Umeclidinium Bromide 有什麼相關新聞？">
-<strong>Umeclidinium Bromide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Umeclidinium Bromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/umeclidinium-bromide/
 <p><a href="{{ '/drugs/umeclidinium-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
----
-
-### [Adiós a las migrañas: especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir la frecuencia e intensidad de estos dolores de cabeza](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[eleconomista.es](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

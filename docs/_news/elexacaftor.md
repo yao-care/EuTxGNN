@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [CVRx informiert zum Weltherztag am 29. September / Bluthochdruck: Den wichtigsten ...](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZnZmZ3dKMmljZndjRmdtOW9LWWNKdm4zaDhPMlJGZFpiMEFJZkNORXVfZlgzQ283XzJiZHNHdDM1ZlBWbTVyeWZDR0kxWnQ5MFpDeW44S1I?oc=5)
+
+---
 
 ### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 
@@ -67,22 +75,6 @@ permalink: /news/elexacaftor/
 2026-09-16 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkFVa3pXaXdrYkZ1VkthLU5USVJoMVUteHR4b0M3eGtOUzNneXgycWtUekVEQkdpVDB4dmRUUlpFa2tJdzUxNTRYRUJOZlEycVdfTmNncFdicDNqaE1BekNneWVmcUlaTDlzQWhqRHZPbjVaM0hRajAwZGpmTUF1dENidER6V1gwd3A1MEVxVnBJR1pFYklVQ3hYS2VFQWtsNlktSjhLZUNrcTA?oc=5)
-
----
-
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
----
-
-### [Adiós a las migrañas: especialistas recomiendan un sueño regular, deporte y alimentación sana para reducir la frecuencia e intensidad de estos dolores de cabeza](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[eleconomista.es](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSW12RlRGbU9MeUxmYzZEVGlqY1lKTXk2YTBJMWUzQlVadTJDV05Qcm02Q2lucFFkeUNrWUF4cG15b1htTkh3NnpkckRhXzJvVXVaMXdzU1B0UjBtVDhtcEpaRlJqRmJuZ3o2ZFZ4bUpxTUFfRHZUcGE5Z0hBSjJOQ280b0J4TnF2NzNfUFF4Szg3aU1rOUNhVUNGc1hkT1JROC1wckYxWVpkQ3JjMWx0NnQ0a2xkWUpiNFFPNE9vM0xNVFB2TXdRTTRvT3lHZUFYMDNXM1NrUjNuamhnNFhXYzNKblBNal9mMmFqQjFURjRtcFVtY2s4WXdKUGpPVVA0SFFzSVZtbXpMREtGTmoxSGZtbW10UlItQTk5aTdyT1BoWlpBNHdoOXR5aFBZY1M2WU1TNzBEY1RZQ1J3cUR4c0lNVVlON1hzOUhiRkNyVlRrREJqcm9oVlRJeHh2N2ttWmfSAcwCQVVfeXFMUDhwQnBwdzk2NDdDTnl3eDNGT0lKbXdzemlSamhZdHRGLUhNekY4YjZQYm5KU0lHbFNtcjFINmJpb2hnVHVlMms1M2ZubkhqbWhGc0U1MC00RDYyTjkzZV9ka3RLN1dzMThZM2poOE80Q29HWVh0Rzk4d3JEYVhvenZqMTB1ejd2alR6b1RENHFmSlc1X01Za3duM1hhTHhOak5Rb2lSbVAxanNGYUlqVHViSXRDSllnU0tRQkhybXBjeG5JU0ZjcHE0ZWxvN0FmWks2RzVFb3otd3hiSU9VX2RVXzdGNU9tNjR6ZTlGY1daTUl3dGJDZXllMDFQdzBPRDR4eFpzZ0ktRVZtcUExeFNsSXRLQXFoLVJmZmt0SnhtZ2RUNUREeTE3R1BBcWhmYTZacU92QmRqTHl3OElLOXBaTXJqTGUtdUJvU0E?oc=5)
 
 ---
 
