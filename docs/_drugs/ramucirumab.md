@@ -1,132 +1,120 @@
 ---
 layout: default
 title: Ramucirumab
-description: "Ramucirumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 477
+nav_order: 489
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Ramucirumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Ramucirumab: From VEGFR2-Targeted Oncology Therapy to Uterine Ligament Adenocarcinoma
+
+## One-Sentence Summary
+
+> Ramucirumab is a VEGFR2-targeting monoclonal antibody used in oncology; the evidence pack does not contain data on its originally licensed indication or EU authorization status (marked as not marketed).
+> The TxGNN model predicts it may be effective for **Uterine Ligament Adenocarcinoma**, a very rare tumour subtype,
+> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure AI knowledge-graph inference.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ramucirumab |
-| DrugBank ID | [DB05578](https://go.drugbank.com/drugs/DB05578) |
-| Brand Names (EU) | Cyramza |
+| Item | Content |
+|------|---------|
+| Original Indication | Not available in evidence pack (data gap) |
+| Predicted New Indication | Uterine Ligament Adenocarcinoma |
+| TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.95% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Gastric cancer Cyramza in combination with paclitaxel is indicated for the treatment of adult patients with advanced gastric cancer or gastro-oesophageal junction adenocarcinoma with disease progression after prior platinum and fluoropyrimidine chemotherapy. Cyramza monotherapy is indicated for the treatment of adult patients with advanced gastric cancer or gastro-oesophageal junction adenocarcinoma with disease progression after prior platinum or fluoropyrimidine chemotherapy, for whom treatmen
+Detailed mechanism of action data is not available as a structured field in this evidence pack. Based on the rationale text accompanying the prediction, Ramucirumab is a VEGFR2 monoclonal antibody that blocks tumour angiogenesis, a mechanism theoretically relevant to highly vascularised solid tumours.
 
----
+The predicted indication — uterine ligament adenocarcinoma — is an extremely rare, anatomically specific tumour subtype. While some related cancer types (e.g., cervical and endometrioid adenocarcinomas) are known to show VEGF pathway activation, and anti-angiogenic agents have precedent in gynaecologic oncology (e.g., bevacizumab in metastatic cervical cancer), no data specific to this rare subtype or to Ramucirumab in gynaecologic malignancies is provided. The mechanistic link is plausible in principle but remains entirely theoretical for this specific pairing.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | uterine ligament adenocarcinoma | 99.95% | DL |
-| 2 | endocervical carcinoma | 99.95% | DL |
-| 3 | adenoid cystic carcinoma of the cervix uteri | 99.95% | DL |
-| 4 | uterine ligament serous adenocarcinoma | 99.94% | DL |
-| 5 | signet ring cell variant cervical mucinous adenocarcinoma | 99.94% | DL |
-| 6 | cervical adenosquamous carcinoma, glassy cell variant | 99.94% | DL |
-| 7 | uterine ligament endometrioid adenocarcinoma | 99.94% | DL |
-| 8 | uterine ligament clear cell adenocarcinoma | 99.94% | DL |
-| 9 | uterine ligament mucinous adenocarcinoma | 99.94% | DL |
-| 10 | intestinal variant cervical mucinous adenocarcinoma | 99.94% | DL |
-| 11 | cervical mucinous adenocarcinoma, minimal deviation variant | 99.93% | DL |
-| 12 | endocervical type cervical mucinous adenocarcinoma | 99.93% | DL |
-| 13 | prostatic urethra urothelial carcinoma | 99.91% | DL |
-| 14 | kidney pelvis sarcomatoid transitional cell carcinoma | 99.91% | DL |
-| 15 | infiltrating bladder urothelial carcinoma sarcomatoid variant | 99.90% | DL |
-| 16 | renal pelvis papillary urothelial carcinoma | 99.90% | DL |
-| 17 | transitional cell carcinoma | 99.85% | DL |
-| 18 | squamous cell carcinoma of the corpus uteri | 99.79% | DL |
-| 19 | odontogenic cyst | 99.75% | DL |
-| 20 | mesonephric adenocarcinoma | 99.75% | DL |
-
-*Showing top 20 of 50 predictions.*
+Because the model's TxGNN score (99.95%) is based purely on knowledge-graph relationships without any supporting clinical or literature evidence, this prediction should be treated as a hypothesis-generating signal only, not as a validated repurposing candidate.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations are recorded for this drug in the evidence pack (0 licenses; market status: not marketed).
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Targeted therapy (anti-VEGFR2 monoclonal antibody / anti-angiogenic agent) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction is supported only by AI inference (L5, no clinical trials or literature) for an extremely rare tumour subtype, and critical safety data (warnings, contraindications) are flagged as a Blocking data gap. The drug also shows no current EU marketing authorization in this evidence pack, further limiting near-term actionability.
+
+**To proceed, the following is needed:**
+- SmPC-derived safety data: key warnings and contraindications (currently Blocking data gap DG001)
+- Confirmed mechanism of action from DrugBank or regulatory sources (High-priority data gap DG002)
+- Verification of Ramucirumab's original approved indication(s) and current EU regulatory status
+- Any preclinical or case-level evidence specifically addressing VEGFR2 blockade in rare gynaecologic adenocarcinoma subtypes before advancing beyond S0
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

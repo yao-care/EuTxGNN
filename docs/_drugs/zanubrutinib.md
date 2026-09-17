@@ -1,132 +1,125 @@
 ---
 layout: default
 title: Zanubrutinib
-description: "Zanubrutinib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 644
-evidence_level: L5
-indication_count: 50
+parent: Medium Evidence (L3-L4)
+nav_order: 656
+evidence_level: L4
+indication_count: 10
 ---
 
 # Zanubrutinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Zanubrutinib: From B-Cell Malignancies to Myeloid Leukemia
+
+## One-Sentence Summary
+
+Zanubrutinib is a second-generation Bruton's tyrosine kinase (BTK) inhibitor, with well-documented approved use in B-cell malignancies such as mantle cell lymphoma (per literature evidence in this pack). The TxGNN model predicts it may be effective for **Myeloid Leukemia**, but currently only **2 clinical trials** and **9 publications** are linked to this candidate, and none of them test zanubrutinib itself in myeloid leukemia — the trials involve different investigational drugs, and the literature addresses zanubrutinib only in its established B-cell indications.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Zanubrutinib |
-| DrugBank ID | [DB15035](https://go.drugbank.com/drugs/DB15035) |
-| Brand Names (EU) | Brukinsa |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.65% |
+| Item | Content |
+|------|------|
+| Original Indication | B-cell malignancies (e.g., mantle cell lymphoma) — no formal approved-indication text was provided in this pack; inferred from literature evidence (see below) |
+| Predicted New Indication | Myeloid Leukemia |
+| TxGNN Prediction Score | 99.65% |
+| Evidence Level | L4 |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Brukinsa&nbsp;as monotherapy is indicated for the treatment of adult patients with Waldenström’s macroglobulinaemia (WM) who have received at least one prior therapy, or in first line treatment for patients unsuitable for chemo-immunotherapy. Brukinsa&nbsp;as monotherapy is indicated for the treatment of adult patients with marginal zone lymphoma (MZL) who have received at least one prior anti-CD20-based therapy. Brukinsa&nbsp;as monotherapy is indicated for the treatment of adult patients with 
+Detailed mechanism-of-action data was not available in this Evidence Pack (flagged as a High-severity data gap). Based on known information and the literature captured in this pack, zanubrutinib is a covalent, highly selective BTK inhibitor that blocks B-cell receptor (BCR) signaling, a pathway that malignant B lymphocytes depend on for survival and proliferation. This mechanism underlies its established efficacy in B-cell malignancies such as mantle cell lymphoma, CLL/SLL, Waldenström's macroglobulinemia, marginal zone lymphoma, and follicular lymphoma.
 
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | myeloid leukemia | 99.65% | DL |
-| 2 | vertebral anomalies and variable endocrine and T-cell dysfunction | 99.38% | DL |
-| 3 | ganglioneuroblastoma (disease) | 99.36% | DL |
-| 4 | retroperitoneal neoplasm | 99.30% | DL |
-| 5 | Ewing sarcoma | 99.27% | DL |
-| 6 | neuroblastoma | 99.21% | DL |
-| 7 | chronic myelogenous leukemia, BCR-ABL1 positive | 98.60% | DL |
-| 8 | lymphosarcoma | 98.11% | DL |
-| 9 | blast phase chronic myelogenous leukemia, BCR-ABL1 positive | 98.09% | DL |
-| 10 | lymphoma, non-Hodgkin, familial | 98.00% | DL |
-| 11 | acute lymphoblastic/lymphocytic leukemia | 97.86% | DL |
-| 12 | mantle cell lymphoma | 97.70% | DL |
-| 13 | chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation | 97.69% | DL |
-| 14 | pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma | 97.69% | DL |
-| 15 | lymph node cancer | 97.42% | DL |
-| 16 | colon adenocarcinoma | 97.35% | DL |
-| 17 | B-cell neoplasm | 97.05% | DL |
-| 18 | plasmacytoma | 96.90% | DL |
-| 19 | primary cutaneous T-cell non-Hodgkin lymphoma | 96.66% | DL |
-| 20 | primary organ-specific lymphoma | 96.57% | DL |
-
-*Showing top 20 of 50 predictions.*
+Myeloid leukemia, however, is not classically driven by BCR-BTK signaling — its pathogenesis instead involves distinct myeloid transcription factor and kinase pathways (e.g., FLT3, BCR-ABL1 in CML). The two clinical trials linked to this prediction do provide a loose, class-level rationale: one evaluates a CDK9 inhibitor (PRT2527) in combination with zanubrutinib in relapsed/refractory hematologic malignancies, and the other evaluates a distinct multi-kinase FLT3/BTK inhibitor (CG-806/luxeptinib) directly in AML. This shows that inhibiting BTK-adjacent or multi-kinase targets is being explored in myeloid disease, which offers indirect biological plausibility. However, neither trial actually tests zanubrutinib itself in myeloid leukemia, so the TxGNN score should be interpreted as a knowledge-graph embedding similarity rather than a validated mechanistic or clinical signal.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | Phase 1 | Completed | 86 | Dose-escalation study of PRT2527 (a CDK9 inhibitor), used as monotherapy and in combination with zanubrutinib or venetoclax, in relapsed/refractory hematologic malignancies. Tests a different investigational drug (PRT2527), not zanubrutinib alone — indirect evidence only. |
+| [NCT04477291](https://clinicaltrials.gov/study/NCT04477291) | Phase 1 | Terminated | 45 | Evaluated CG-806 (luxeptinib), a multi-kinase FLT3/BTK inhibitor, in relapsed/refractory AML or higher-risk MDS. Trial was terminated and tests a different drug, not zanubrutinib itself. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [39647999](https://pubmed.ncbi.nlm.nih.gov/39647999/) | 2025 | RCT | Journal of Clinical Oncology | 5-year follow-up of SEQUOIA phase 3 trial: zanubrutinib vs bendamustine+rituximab in treatment-naïve CLL/SLL — an established B-cell indication, not myeloid leukemia. |
+| [40334067](https://pubmed.ncbi.nlm.nih.gov/40334067/) | 2025 | Cohort | Blood Advances | Phase 2 study (BGB-3111-215) of zanubrutinib in CLL/SLL patients intolerant of ibrutinib/acalabrutinib; reports tolerability and efficacy in the approved B-cell indication. |
+| [34959482](https://pubmed.ncbi.nlm.nih.gov/34959482/) | 2021 | Review | Pharmaceutics | Review of tyrosine kinase inhibitors in chronic leukemias (CML and CLL); discusses BCR-ABL1 and BCR pathways generally, not zanubrutinib-specific myeloid leukemia data. |
+| [40829104](https://pubmed.ncbi.nlm.nih.gov/40829104/) | 2026 | Not classified | Blood Advances | Pooled analysis of zanubrutinib efficacy/safety in del(17p)/TP53-mutant CLL/SLL across SEQUOIA and ALPINE trials — B-cell indication. |
+| [36400069](https://pubmed.ncbi.nlm.nih.gov/36400069/) | 2023 | Not classified | The Lancet Haematology | Phase 2 single-arm study of zanubrutinib in B-cell malignancy patients intolerant of prior BTK inhibitors — B-cell indication, not myeloid. |
+| [36402930](https://pubmed.ncbi.nlm.nih.gov/36402930/) | 2023 | Not classified | Leukemia | Review of BTK inhibitor use in Waldenström's macroglobulinemia — B-cell indication, not myeloid leukemia. |
+| [36325357](https://pubmed.ncbi.nlm.nih.gov/36325357/) | 2022 | Case report | Frontiers in Immunology | Case report of coexisting Waldenström's macroglobulinemia and B-cell ALL; not related to myeloid leukemia or zanubrutinib efficacy. |
+| [37150651](https://pubmed.ncbi.nlm.nih.gov/37150651/) | 2023 | Not classified | Clinical Lymphoma, Myeloma & Leukemia | Reports hepatitis B virus reactivation risk in patients receiving BTK inhibitors (including zanubrutinib) — a safety signal, not an efficacy signal for myeloid leukemia. |
+| [38288815](https://pubmed.ncbi.nlm.nih.gov/38288815/) | 2024 | Not classified | Anti-Cancer Agents in Medicinal Chemistry | Review of synthetic methodology for FDA-approved anticancer drugs (2018–2021); mentions zanubrutinib only in the context of its chemical synthesis, not myeloid leukemia efficacy. |
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Zanubrutinib is an antineoplastic agent (oral small-molecule targeted therapy approved for hematologic malignancies), so this section applies.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (BTK inhibitor; non-conventional cytotoxic small molecule) |
+| Myelosuppression Risk | Data not available in DrugBank for this pack. As a class effect of BTK inhibitors documented in the literature reviewed here, cytopenias, bleeding, and infection risk (including invasive fungal infections and hepatitis B reactivation, PMID 37150651) have been reported. Please refer to the SmPC for quantified rates. |
+| Emetogenicity Classification | Low (typical for oral targeted kinase inhibitors) |
+| Monitoring Items | Complete blood count (CBC) with differential, liver function, hepatitis B virus (HBV) status and reactivation monitoring, signs of infection |
+| Handling Protection | Not a conventional cytotoxic agent; verify against institutional/NIOSH hazardous drug list for oral targeted anticancer agents before dispensing |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The myeloid leukemia prediction is supported only by TxGNN's knowledge-graph score (L4 evidence level) — the two linked clinical trials test different investigational drugs (PRT2527, CG-806), not zanubrutinib, and none of the nine linked publications address zanubrutinib in myeloid leukemia. In addition, a Blocking-severity data gap (missing safety warnings/contraindications) currently prevents this candidate from entering the S1 safety screening stage, and the drug is not marketed in the EU (0 authorizations).
+
+**To proceed, the following is needed:**
+- TFDA/EMA safety warnings and contraindications (Blocking data gap, DG001)
+- Confirmed mechanism-of-action data from DrugBank (High-priority data gap, DG002)
+- Preclinical or mechanistic evidence specifically evaluating zanubrutinib (not class analogs) in myeloid leukemia models
+- Clarification of the drug's true original/approved indication set, since this pack's `original_indications` field was empty despite strong literature evidence of approval in B-cell malignancies (see rank 9 candidate, non-Hodgkin lymphoma, which already shows L1 evidence and reflects zanubrutinib's established use rather than a novel repurposing signal)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

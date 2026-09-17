@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Ravulizumab
-description: "Ravulizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 482
+nav_order: 494
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Ravulizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Ravulizumab: From Complement-Mediated Hemolytic Disorders to Congenital Neutropenia (G6PC3 Deficiency)
+
+## One-Sentence Summary
+
+> Ravulizumab is a long-acting anti-C5 monoclonal antibody whose established clinical role, per the repurposing rationale on file, is treating complement-mediated hemolytic and thrombotic microangiopathic disorders such as PNH and aHUS.
+> The TxGNN model predicts it may be effective for **autosomal recessive severe congenital neutropenia due to G6PC3 deficiency**,
+> but currently **0 clinical trials** and **0 publications** support this direction — the model itself flags the mechanistic link as weak.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ravulizumab |
-| DrugBank ID | [DB11580](https://go.drugbank.com/drugs/DB11580) |
-| Brand Names (EU) | Ultomiris |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented in structured regulatory data (0 EU authorizations on file); rationale text indicates established use in complement-mediated hemolysis/TMA (e.g., PNH, aHUS) |
+| Predicted New Indication | Autosomal Recessive Severe Congenital Neutropenia due to G6PC3 Deficiency |
+| TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.96% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Paroxysmal nocturnal haemoglobinuria (PNH)Ultomiris is indicated in the treatment of adult and paediatric patients with a body weight of 10 kg or above with PNH:- in patients with haemolysis with clinical symptom(s) indicative of high disease activity.- in patients who are clinically stable after having been treated with eculizumab for at least the past 6 months (see section 5.1). Atypical haemolytic uremic syndrome (aHUS)Ultomiris is indicated in the treatment of patients with a body weight of 
+Detailed mechanism-of-action data is flagged as a data gap in the evidence pack (DG002). However, the repurposing rationale field describes Ravulizumab as a long-acting anti-C5 monoclonal antibody that blocks formation of the terminal complement complex (membrane attack complex, MAC), with clinical relevance concentrated in complement-mediated hemolysis and thrombotic microangiopathy — conditions such as paroxysmal nocturnal hemoglobinuria (PNH) and atypical hemolytic uremic syndrome (aHUS).
 
----
+The predicted new indication, G6PC3-deficient severe congenital neutropenia, is driven by endoplasmic-reticulum stress that increases neutrophil apoptosis — a glucose-metabolism and ER-function disorder. This pathway does not overlap with terminal complement activation.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | autosomal recessive severe congenital neutropenia due to G6PC3 deficiency | 99.96% | DL |
-| 2 | cyclic hematopoiesis | 99.94% | DL |
-| 3 | primary hyperoxaluria | 99.90% | DL |
-| 4 | severe congenital neutropenia | 99.87% | DL |
-| 5 | autosomal recessive severe congenital neutropenia due to CXCR2 deficiency | 99.86% | DL |
-| 6 | primary immunodeficiency syndrome due to p14 deficiency | 99.83% | DL |
-| 7 | pseudo-von Willebrand disease | 99.82% | DL |
-| 8 | X-linked severe congenital neutropenia | 99.82% | DL |
-| 9 | primary release disorder of platelets | 99.81% | DL |
-| 10 | megaloblastic anemia (disease) | 99.80% | DL |
-| 11 | autosomal recessive severe congenital neutropenia due to JAGN1 deficiency | 99.79% | DL |
-| 12 | cold agglutinin disease | 99.79% | DL |
-| 13 | autosomal recessive severe congenital neutropenia due to CSF3R deficiency | 99.77% | DL |
-| 14 | adult idiopathic neutropenia | 99.77% | DL |
-| 15 | congenital neutropenia-myelofibrosis-nephromegaly syndrome | 99.77% | DL |
-| 16 | Barth syndrome | 99.76% | DL |
-| 17 | Glanzmann thrombasthenia | 99.73% | DL |
-| 18 | primary CD59 deficiency | 99.72% | DL |
-| 19 | proteinuria | 99.72% | DL |
-| 20 | paroxysmal nocturnal hemoglobinuria | 99.68% | DL |
-
-*Showing top 20 of 50 predictions.*
+The rationale supplied with this candidate explicitly states the mechanistic link is **weak**, and suggests the prediction may reflect the knowledge graph clustering rare hematologic diseases together rather than a genuine shared biological pathway. This is a case where a high TxGNN score is not corroborated by any independent mechanistic or clinical signal.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations are on file for Ravulizumab in this dataset (market status: Not Marketed, 0 authorizations).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: Safety warnings, contraindications, and DDI data are marked as a blocking data gap (DG001) in this evidence pack and could not be evaluated.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction is supported only by a TxGNN model score (L5, no clinical trials or literature), and the rationale itself identifies the drug-disease mechanistic link as weak/likely noise. Combined with a blocking data gap on safety labeling, this candidate does not meet the threshold to advance past S0.
+
+**To proceed, the following is needed:**
+- Confirmed mechanism-of-action data for Ravulizumab (resolve DG002)
+- TFDA/SmPC-equivalent safety labeling — warnings, contraindications, DDI (resolve DG001, blocking)
+- Independent mechanistic or preclinical evidence linking terminal complement inhibition to G6PC3-deficient neutropenia
+- Confirmation of current EU regulatory/marketing status, since this dataset shows 0 authorizations
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

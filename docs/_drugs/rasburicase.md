@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Rasburicase
-description: "Rasburicase drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 481
+nav_order: 493
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Rasburicase
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Rasburicase: From Tumor Lysis Syndrome–Associated Hyperuricemia to Renal Hypouricemia
+
+## One-Sentence Summary
+
+> Rasburicase is a recombinant urate-oxidase enzyme conventionally used to manage hyperuricemia in tumor lysis syndrome (TLS); this specific use is not captured in the current dataset, which contains no `original_moa` or `original_indications` entries.
+> The TxGNN model's top prediction is **Renal Hypouricemia**, but expert review of the pack's own rationale flags this as **directionally contradictory** — the drug lowers uric acid, while renal hypouricemia is a *low*-uric-acid disorder — suggesting a likely false-positive from graph-embedding proximity rather than genuine pharmacological plausibility.
+> **Zero clinical trials and zero publications** currently support any of the top 10 predicted indications; all are pure model output (L5).
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Rasburicase |
-| DrugBank ID | [DB00049](https://go.drugbank.com/drugs/DB00049) |
-| Brand Names (EU) | Fasturtec |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.99% |
+| Item | Content |
+|------|------|
+| Original Indication | Not present in this dataset (`original_indications` empty, `original_moa` = Data Gap). Known clinical use: hyperuricemia prophylaxis/treatment in tumor lysis syndrome (TLS). |
+| Predicted New Indication | Renal Hypouricemia |
+| TxGNN Prediction Score | 99.99% (0.999872) |
+| Evidence Level | L5 — model prediction only, no clinical trials or literature |
+| EU Market Status | ✗ Not marketed (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment and prophylaxis of acute hyperuricaemia, in order to prevent acute renal failure, in adults, children and adolescents (aged 0 to 17 years) with haematological malignancy with a high tumour burden and at risk of a rapid tumour lysis or shrinkage at initiation of chemotherapy.
+Currently, detailed mechanism of action data is not available in this dataset (`original_moa`: Data Gap). Based on known clinical information, rasburicase is a recombinant urate-oxidase enzyme that converts uric acid to allantoin, and is used to **lower** serum uric acid in patients at risk of tumor lysis syndrome.
 
----
+Critically, the evidence pack's own mechanistic analysis flags the top prediction — **renal hypouricemia** — as biologically implausible in the wrong direction: renal hypouricemia is caused by a *deficiency* of urate reabsorption (URAT1/GLUT9 transporter defects) and results in **abnormally low**, not high, serum uric acid. Administering a uric-acid-lowering enzyme to a patient who already has pathologically low uric acid would be expected to worsen rather than treat the condition. The evidence pack explicitly attributes this to a suspected artifact of the TxGNN knowledge-graph embedding space — proximity clustering around "uric acid"-related nodes — rather than a genuine pharmacological signal.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | obsolete hyperuricemia (disease) | 99.99% | DL |
-| 2 | hypouricemia, renal | 99.99% | DL |
-| 3 | hypoxanthine guanine phosphoribosyltransferase partial deficiency | 99.97% | DL |
-| 4 | hepatic porphyria | 99.97% | DL |
-| 5 | primitive portal vein thrombosis | 99.97% | DL |
-| 6 | hepatoportal sclerosis | 99.97% | DL |
-| 7 | hepatopulmonary syndrome | 99.97% | DL |
-| 8 | early-onset familial noncirrhotic portal hypertension | 99.97% | DL |
-| 9 | idiopathic copper-associated cirrhosis | 99.97% | DL |
-| 10 | renal tubular acidosis | 99.85% | DL |
-| 11 | disorder of phenylalanine metabolism | 99.83% | DL |
-| 12 | disorder of tyrosine metabolism | 99.69% | DL |
-| 13 | teratogenic Pierre Robin syndrome | 99.68% | DL |
-| 14 | glycogen storage disease due to hepatic glycogen synthase deficiency | 99.58% | DL |
-| 15 | Lesch-Nyhan syndrome | 99.58% | DL |
-| 16 | tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria | 99.47% | DL |
-| 17 | G6PD deficiency | 99.00% | DL |
-| 18 | inborn disorder of gamma-aminobutyric acid metabolism | 97.73% | DL |
-| 19 | inborn disorder of ornithine metabolism | 97.68% | DL |
-| 20 | inborn disorder of amino acid and other organic acid metabolism | 97.66% | DL |
-
-*Showing top 20 of 50 predictions.*
+By contrast, rank 2 (**HGPRT partial deficiency**, e.g., Kelley-Seegmiller syndrome) shows the mechanistically *correct* direction: this purine salvage pathway defect causes chronic hyperuricemia/gout, which a uric-acid-lowering enzyme could plausibly address. However, this candidate also has zero supporting clinical trials or literature. Ranks 3–8 (hepatic/portal vascular diseases) and ranks 9–10 (renal tubular acidosis, phenylalanine metabolism disorders) are all assessed in the pack as having no credible mechanistic link to urate-oxidase activity, and likely reflect disease-node clustering noise in the graph rather than true repurposing signals.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Rasburicase has **no EU marketing authorizations** recorded in this dataset (`market_status`: Not marketed, `total_licenses`: 0, `licenses`: empty). No product/dosage-form table can be generated.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*Note: `key_warnings`, `contraindications`, and drug interaction data are all flagged as Data Gaps in this pack. DG001 (TFDA label warnings/contraindications) is classified as a **Blocking** gap — it prevents this candidate from entering the S1 safety pre-screening stage.*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (renal hypouricemia) is mechanistically contradictory — the drug's known pharmacology (lowering uric acid) runs opposite to the disease's pathophysiology (already-low uric acid) — and is assessed as a likely false positive from knowledge-graph artifact rather than a real signal. No clinical trials, no literature, no EU marketing authorization, and a **Blocking** data gap on safety labeling (DG001) mean this candidate cannot proceed past S0.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (TFDA/EMA label warnings and contraindications) before any S1 safety pre-screening
+- Resolve DG002 (confirmed MOA from DrugBank) to properly assess mechanistic plausibility
+- If pursuing a repurposing hypothesis for this drug, **re-evaluate rank 2 (HGPRT partial deficiency / Kelley-Seegmiller syndrome)** instead of rank 1 — it is the only top-10 candidate with a mechanistically coherent (correct-direction) rationale, though it still requires primary clinical/literature evidence generation
+- Independent review of whether ranks 1, 3–8 represent a systematic false-positive pattern (uric-acid node / hepatic-disease node clustering) in this TxGNN model version, to avoid similar misleading high-score predictions for other drugs
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

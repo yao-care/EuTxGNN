@@ -1,70 +1,70 @@
 ---
 layout: default
-title: "Lamivudine 相關新聞"
-parent: 健康新聞
+title: "Lamivudine News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Lamivudine 的相關健康新聞報導。原適應症：Combivir is indicated in antiretroviral combinatio...。預測適應症 20 個。"
+description: "Health news related to Lamivudine. Original indication: Combivir is indicated in antiretroviral combinatio.... 20 predicted indications."
 permalink: /news/lamivudine/
 ---
 
-# Lamivudine 相關新聞
+# Lamivudine News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Lamivudine?">
+<strong>Lamivudine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Lamivudine 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Lamivudine with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Combivir is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection.</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>HIV infectious disease（100.0%）</li>
-<li>feline acquired immunodeficiency syndrome（99.9%）</li>
-<li>simian immunodeficiency virus infection（99.9%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.9%）</li>
-<li>obsolete familial combined hyperlipidemia（99.6%）</li>
-<li>chronic hepatitis C virus infection（99.1%）</li>
-<li>hepatitis B virus infection（97.8%）</li>
-<li>chronic hepatitis B virus infection（97.1%）</li>
-<li>hepatitis C virus infection（97.0%）</li>
-<li>hepatoportal sclerosis（96.3%）</li>
-<li>idiopathic copper-associated cirrhosis（96.3%）</li>
-<li>early-onset familial noncirrhotic portal hypertension（96.3%）</li>
-<li>hepatopulmonary syndrome（96.3%）</li>
-<li>primitive portal vein thrombosis（96.3%）</li>
-<li>hepatitis E virus infection（95.9%）</li>
-<li>AIDS（95.8%）</li>
-<li>hepatitis, viral, animal（95.8%）</li>
-<li>hepatitis A virus infection（95.7%）</li>
-<li>Omsk hemorrhagic fever（95.7%）</li>
-<li>Kyasanur forest disease（95.5%）</li>
+<li><strong>Original indication</strong>: Combivir is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>HIV infectious disease (100.0%)</li>
+<li>feline acquired immunodeficiency syndrome (99.9%)</li>
+<li>simian immunodeficiency virus infection (99.9%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
+<li>obsolete familial combined hyperlipidemia (99.6%)</li>
+<li>chronic hepatitis C virus infection (99.1%)</li>
+<li>hepatitis B virus infection (97.8%)</li>
+<li>chronic hepatitis B virus infection (97.1%)</li>
+<li>hepatitis C virus infection (97.0%)</li>
+<li>hepatoportal sclerosis (96.3%)</li>
+<li>idiopathic copper-associated cirrhosis (96.3%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (96.3%)</li>
+<li>hepatopulmonary syndrome (96.3%)</li>
+<li>primitive portal vein thrombosis (96.3%)</li>
+<li>hepatitis E virus infection (95.9%)</li>
+<li>AIDS (95.8%)</li>
+<li>hepatitis, viral, animal (95.8%)</li>
+<li>hepatitis A virus infection (95.7%)</li>
+<li>Omsk hemorrhagic fever (95.7%)</li>
+<li>Kyasanur forest disease (95.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/lamivudine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## Related News (1)
 
 ### [Saarländische Testwoche startet: Gesundheitsamt St. Wendel testet kostenlos auf HIV, Syphilis und Hepatitis - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
 
 2026-09-13 <span class="news-indication-tag">hepatitis</span>
 
-來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+Source: [St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

@@ -1,132 +1,112 @@
 ---
 layout: default
 title: Teduglutide
-description: "Teduglutide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 561
-evidence_level: L5
-indication_count: 50
+parent: Medium Evidence (L3-L4)
+nav_order: 572
+evidence_level: L4
+indication_count: 10
 ---
 
 # Teduglutide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Teduglutide: From Short Bowel Syndrome to Chronic Intestinal Vascular Insufficiency
+
+## One-Sentence Summary
+
+> Teduglutide is a GLP-2 receptor agonist whose established therapeutic role centers on short bowel syndrome (SBS)-associated intestinal failure, where it promotes intestinal mucosal growth and absorptive capacity.
+> The TxGNN model predicts potential relevance to **Chronic Intestinal Vascular Insufficiency**, a mechanistically plausible extension of its known trophic and blood-flow effects on the gut,
+> but this direction is currently supported only by **1 indirect review article** and no clinical trials.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Teduglutide |
-| DrugBank ID | [DB08900](https://go.drugbank.com/drugs/DB08900) |
-| Brand Names (EU) | Revestive |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.08% |
+| Item | Content |
+|------|------|
+| Original Indication | Short bowel syndrome (SBS)-associated intestinal failure (derived from mechanistic rationale in the Evidence Pack; not from a formal EU authorization record) |
+| Predicted New Indication | Chronic Intestinal Vascular Insufficiency |
+| TxGNN Prediction Score | 92.22% |
+| Evidence Level | L4 |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Revestive is indicated for the treatment of patients aged 1 year and above with Short Bowel Syndrome (SBS). Patients should be stable following a period of intestinal adaptation after surgery. Revestive is indicated for the treatment of patients aged 1 year and above with Short Bowel Syndrome. Patients should be stable following a period of intestinal adaptation after surgery.
+A formal mechanism-of-action record is not available in the Evidence Pack (`original_moa`: Data Gap). However, the drug-level rationale accompanying the predictions consistently describes teduglutide as a **GLP-2 receptor agonist** that promotes intestinal mucosal proliferation, increases villus height and crypt depth, and enhances intestinal blood flow and absorptive surface area — the mechanistic basis for its established role in SBS-related intestinal failure.
 
----
+Chronic intestinal vascular insufficiency shares pathophysiological overlap with short bowel/intestinal adaptation disorders, since both involve compromised mucosal integrity and regional blood flow in the gut. Teduglutide's known effect of increasing intestinal blood flow provides a theoretical rationale for benefit in this setting. That said, the only supporting reference identified is a general review of SBS pharmacotherapy — it does not directly study chronic intestinal vascular insufficiency, so the mechanistic link remains inferential rather than confirmed.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | short bowel syndrome | 99.08% | DL |
-| 2 | papillary conjunctivitis | 98.53% | DL |
-| 3 | gastroduodenitis | 98.22% | DL |
-| 4 | peptic ulcer disease | 96.58% | DL |
-| 5 | nasal cavity disease | 96.22% | DL |
-| 6 | acute laryngopharyngitis | 95.22% | DL |
-| 7 | allergic urticaria | 95.17% | DL |
-| 8 | pharyngitis | 94.68% | DL |
-| 9 | chronic intestinal vascular insufficiency | 92.22% | DL |
-| 10 | isolated mesenteric vein thrombosis | 91.99% | DL |
-| 11 | atopic conjunctivitis | 88.73% | DL |
-| 12 | cold urticaria | 87.89% | DL |
-| 13 | rosacea conjunctivitis | 87.48% | DL |
-| 14 | ischemic bowel disease | 87.48% | DL |
-| 15 | NK-cell enteropathy | 86.49% | DL |
-| 16 | eosinophilic gastrointestinal disease | 86.46% | DL |
-| 17 | intestinal atresia (disease) | 86.43% | DL |
-| 18 | solitary rectal ulcer syndrome | 86.30% | DL |
-| 19 | neurogenic bowel | 86.30% | DL |
-| 20 | mucocele of appendix | 86.30% | DL |
-
-*Showing top 20 of 50 predictions.*
+It is also worth noting that several other TxGNN-ranked predictions in this Evidence Pack — including papillary conjunctivitis (the top-scored prediction, 98.5%), gastroduodenitis, peptic ulcer disease, nasal cavity disease, acute laryngopharyngitis, allergic urticaria, pharyngitis, and atopic conjunctivitis — were reviewed against known GLP-2 biology and explicitly flagged in the source rationale as lacking a credible mechanistic basis (e.g., no known GLP-2 receptor expression in ocular, nasal, or upper-respiratory tissue). These are assessed as likely model noise and are not carried forward as viable repurposing candidates in this report.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [32057270](https://pubmed.ncbi.nlm.nih.gov/32057270/) | 2020 | Review | Expert Opinion on Pharmacotherapy | Reviews pharmacotherapy options for short bowel syndrome, including GLP-2-based agents like teduglutide that target disease pathophysiology; does not directly study chronic intestinal vascular insufficiency |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+This drug is currently marked as **not marketed** in the covered EU dataset, with no authorization records available (`total_licenses`: 0). Note: this status should be independently verified against current EU regulatory sources, as it may reflect a data gap rather than actual market absence.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Additionally, the Evidence Pack flags a **Blocking** data gap (DG001): official label warnings and contraindications are not yet available, which prevents this candidate from entering the S1 safety pre-assessment stage.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The predicted indication is mechanistically plausible but supported only by a single indirect review article (L4, no direct clinical trials), and a blocking data gap prevents formal safety pre-assessment. This corresponds to a "Research Question" stage rather than an actionable repurposing candidate.
+
+**To proceed, the following is needed:**
+- Official label warnings and contraindications (SmPC/regulatory label) to complete the S1 safety screening
+- Confirmed detailed mechanism-of-action documentation (e.g., from DrugBank)
+- Direct clinical or preclinical evidence specifically evaluating teduglutide in chronic intestinal vascular insufficiency
+- Verification of current EU marketing authorization status, as the "not marketed" flag in this dataset should be reconciled with primary regulatory sources
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

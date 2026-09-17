@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Duvelisib
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 199
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Duvelisib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Duvelisib (DrugBank DB11952) is a dual PI3Kδ/γ inhibitor whose original approv
 | Predicted New Indication | Hodgkin's Lymphoma |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L4 |
-| EU Market Status | Not marketed (未上市) |
+| EU Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** (evidence-pack stage: "Research Question" / S1 — see rationale) |
 
@@ -103,7 +103,7 @@ By contrast, other TxGNN-predicted indications for duvelisib in this same eviden
 
 ## EU Market Information
 
-Duvelisib currently has **no EU marketing authorization on file** (`total_licenses: 0`, `market_status: 未上市`). No product/authorization table can be produced from the available data.
+Duvelisib currently has **no EU marketing authorization on file** (`total_licenses: 0`, `market_status: Not marketed`). No product/authorization table can be produced from the available data.
 
 ---
 

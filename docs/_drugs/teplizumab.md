@@ -1,132 +1,94 @@
 ---
 layout: default
 title: Teplizumab
-description: "Teplizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 570
+nav_order: 581
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Teplizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Teplizumab: From Type 1 Diabetes (Delay of Onset) to Diabetic Cataract
+
+## One-Sentence Summary
+
+Teplizumab is an anti-CD3 monoclonal antibody, known for its use in delaying the onset of Type 1 diabetes mellitus through immune modulation and regulatory T-cell induction.
+The TxGNN model predicts it may be effective for **Diabetic Cataract**,
+but this direction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags the mechanistic link as a likely knowledge-graph false positive.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Teplizumab |
-| DrugBank ID | [DB06606](https://go.drugbank.com/drugs/DB06606) |
-| Brand Names (EU) | Teizeild |
+| Item | Content |
+|------|------|
+| Original Indication | Type 1 diabetes mellitus (delay of onset) — not yet EU-authorized |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 98.38% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.38% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action (MOA) data is not available from DrugBank for this evaluation. Based on known drug information, Teplizumab is an anti-CD3 monoclonal antibody used to delay the onset of Type 1 diabetes mellitus through an immune-modulatory mechanism (induction of regulatory T-cells).
+
+The top-ranked predicted indications in this evidence pack are largely different forms of cataract (diabetic cataract, mature/immature cataract, senile cataract, cortical/nuclear cataract, tetanic cataract, craniostenosis cataract). However, the repurposing rationale accompanying each prediction explicitly assesses these links as **mechanistically implausible**: cataract pathophysiology is driven by lens protein denaturation, osmotic imbalance, oxidative stress, or accumulation of advanced glycation end-products — none of which are addressed by T-cell-mediated immune modulation. The evidence pack attributes the high TxGNN scores to a shared "diabetes" node in the knowledge graph connecting Teplizumab to multiple cataract subtypes, rather than a genuine causal or biological pathway. One prediction (antithrombin deficiency type 2) is even further removed, being a genetic coagulation disorder with no plausible connection to Teplizumab's mechanism.
+
+Given this explicit self-assessment of low biological plausibility, combined with a complete absence of supporting clinical or literature evidence, none of the top 10 predicted indications currently justify further investment without independent mechanistic validation.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+Teplizumab currently has no EU marketing authorization (0 licenses on record; market status: Not marketed).
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. Detailed warnings, contraindications, and drug-drug interaction data are not yet available for this compound in the current evidence pack.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All top-ranked predictions are TxGNN model output only (L5, decision stage S0) with no supporting clinical trials or literature, and the evidence pack's own mechanistic review identifies the drug–disease link as a likely knowledge-graph false positive driven by a shared "diabetes" node rather than genuine pharmacological rationale.
+
+**To proceed, the following is needed:**
+- TFDA/EMA product label warnings and contraindications (currently a Blocking data gap — required before any S1 safety pre-evaluation can proceed)
+- Confirmed mechanism of action (MOA) data from DrugBank to properly assess mechanistic relevance
+- Independent literature or preclinical evidence directly linking anti-CD3/immune-modulatory therapy to cataract pathophysiology, given the current rationale suggests none exists
+- Re-evaluation of lower-ranked or alternative predicted indications that may have stronger mechanistic grounding (e.g., autoimmune or T-cell-mediated conditions more aligned with Teplizumab's known MOA)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Teizeild is indicated to delay the onset of stage 3 type 1 diabetes (T1D) in adult and paediatric patients 8 years of age and older with stage 2 T1D.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 98.38% | DL |
-| 2 | tetanic cataract | 98.30% | DL |
-| 3 | mature cataract | 98.30% | DL |
-| 4 | diabetes mellitus type 2 associated cataract | 98.30% | DL |
-| 5 | craniostenosis cataract | 98.30% | DL |
-| 6 | immature cataract | 98.30% | DL |
-| 7 | cortical cataract | 98.27% | DL |
-| 8 | nuclear senile cataract | 98.27% | DL |
-| 9 | senile cataract | 98.20% | DL |
-| 10 | antithrombin deficiency type 2 | 98.12% | DL |
-| 11 | diabetic retinopathy | 98.08% | DL |
-| 12 | factor 5 excess with spontaneous thrombosis | 98.06% | DL |
-| 13 | heparin cofactor 2 deficiency | 98.02% | DL |
-| 14 | severe nonproliferative diabetic retinopathy | 97.81% | DL |
-| 15 | thrombophilia | 97.76% | DL |
-| 16 | diffuse gastric adenocarcinoma | 95.21% | DL |
-| 17 | hemorrhagic disease of newborn | 95.10% | DL |
-| 18 | bronchitis | 94.85% | DL |
-| 19 | gastric carcinoma | 94.53% | DL |
-| 20 | gastric adenocarcinoma and proximal polyposis of the stomach | 94.51% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

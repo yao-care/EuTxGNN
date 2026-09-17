@@ -1,132 +1,120 @@
 ---
 layout: default
 title: Tislelizumab
-description: "Tislelizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 588
+nav_order: 599
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Tislelizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tislelizumab: From Advanced Solid Tumors to Mixed-Type Autoimmune Hemolytic Anemia
+
+## One-Sentence Summary
+
+Tislelizumab is an anti-PD-1 immune checkpoint inhibitor used in multiple advanced solid tumors (per literature evidence in this pack, including NSCLC, esophageal, cervical, and colorectal cancer regimens). The TxGNN model predicts a possible link to **mixed-type autoimmune hemolytic anemia**, but this prediction is currently supported by **zero clinical trials and zero relevant publications**, and the underlying mechanism points in the opposite direction — PD-1 blockade is expected to worsen, not treat, autoimmune hemolysis.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tislelizumab |
-| DrugBank ID | [DB14922](https://go.drugbank.com/drugs/DB14922) |
-| Brand Names (EU) | Tevimbra |
+| Item | Content |
+|------|------|
+| Original Indication | No EU marketing authorization on file; literature in this pack indicates use across multiple advanced solid tumors (e.g., NSCLC, esophageal, cervical, colorectal cancer) |
+| Predicted New Indication | Mixed-Type Autoimmune Hemolytic Anemia |
+| TxGNN Prediction Score | 93.76% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 93.76% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Non-small cell lung cancer (NSCLC) Tevimbra, in combination with platinum-containing chemotherapy as neoadjuvant treatment and then continued as monotherapy as adjuvant treatment, is indicated for the treatment of adult patients with resectable NSCLC at high risk of recurrence (for selection criteria, see section 5.1).Tevimbra in combination with pemetrexed and platinum containing chemotherapy is indicated for the first-line treatment of adult patients with non-squamous NSCLC&nbsp; whose tumours
+A structured mechanism-of-action field is not available in this evidence pack. However, literature captured elsewhere in the pack (e.g., PMID 41268547) confirms tislelizumab is a humanized IgG4 anti-PD-1 monoclonal antibody that blocks the PD-1/PD-L1 checkpoint pathway to reactivate anti-tumor T-cell immunity — consistent with its known class as an immune checkpoint inhibitor used across multiple oncology indications.
 
----
+The relationship between the original use case (reactivating suppressed anti-tumor immunity) and the predicted indication (autoimmune hemolytic anemia, a condition driven by pathological immune destruction of red blood cells) is not supportive — it is contradictory. Removing the PD-1 "brake" on T-cell activity is the opposite of what is needed to control an overactive autoimmune process. The evidence pack's own mechanistic rationale explicitly flags this: the TxGNN score likely reflects the knowledge graph's encoding of **PD-1 inhibitor-associated immune-related adverse events (irAEs)** — including hematologic and dermatologic autoimmune toxicity — rather than a genuine treatment signal.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | mixed-type autoimmune hemolytic anemia | 93.76% | DL |
-| 2 | idiopathic aplastic anemia | 93.76% | DL |
-| 3 | dermatitis | 93.69% | DL |
-| 4 | paroxysmal nocturnal hemoglobinuria | 93.67% | DL |
-| 5 | drug-induced autoimmune hemolytic anemia | 93.67% | DL |
-| 6 | proteinuria | 93.07% | DL |
-| 7 | acne keloid | 93.05% | DL |
-| 8 | neonatal autoimmune hemolytic anemia | 93.03% | DL |
-| 9 | primary CD59 deficiency | 92.84% | DL |
-| 10 | amyopathic dermatomyositis | 92.79% | DL |
-| 11 | neonatal dermatomyositis | 92.74% | DL |
-| 12 | cold agglutinin disease | 92.47% | DL |
-| 13 | hydroa vacciniforme, familial | 92.41% | DL |
-| 14 | secondary interstitial lung disease specific to childhood associated with a connective tissue disease | 92.36% | DL |
-| 15 | acrodermatitis chronica atrophicans | 92.25% | DL |
-| 16 | hepatic veno-occlusive disease-immunodeficiency syndrome | 91.69% | DL |
-| 17 | pancytopenia due to IKZF1 mutations | 91.04% | DL |
-| 18 | chromhidrosis | 90.97% | DL |
-| 19 | adult idiopathic neutropenia | 90.78% | DL |
-| 20 | congenital neutropenia-myelofibrosis-nephromegaly syndrome | 90.78% | DL |
-
-*Showing top 20 of 50 predictions.*
+This concern is reinforced by the other top-10 TxGNN predictions in this pack: idiopathic aplastic anemia, drug-induced autoimmune hemolytic anemia, dermatitis, proteinuria, and amyopathic dermatomyositis are all conditions independently documented in the literature as **adverse effects of tislelizumab**, not therapeutic targets. For example, the dermatitis and proteinuria predictions (rank 3 and 6) are backed by real literature, but that literature consists of case reports of tislelizumab-induced SJS/TEN, DRESS, and renal thrombotic microangiopathy — evidence of harm, not efficacy.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Tislelizumab has no EU marketing authorization on file (market status: not marketed; 0 authorizations recorded). No product-level licensing table is available for this evidence pack.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Tislelizumab is classified as an antineoplastic agent (immune checkpoint inhibitor used in multiple solid tumor indications per literature in this pack), so this section applies.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (anti-PD-1 immune checkpoint inhibitor) — not a conventional cytotoxic |
+| Myelosuppression Risk | Low overall compared to conventional cytotoxics; however, rare immune-mediated agranulocytosis has been reported (PMID 38910480) |
+| Emetogenicity Classification | Low (checkpoint inhibitors are minimally emetogenic) |
+| Monitoring Items | CBC with differential (rare agranulocytosis), renal function/urinalysis (reported TMA and ANCA-associated vasculitis with proteinuria), skin examination (SJS/TEN, DRESS risk), thyroid and other endocrine panels, liver function |
+| Handling Protection | Standard IV infusion precautions for a monoclonal antibody; not typically subject to cytotoxic hazardous-drug handling protocols used for alkylating/cytotoxic chemotherapy, but institutional hazardous-drug policy and the SmPC should be confirmed |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug interaction data are marked as data gaps in this evidence pack — see Conclusion below.)
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This prediction rests solely on an AI-generated association (L5) with no supporting clinical trials or literature, and the drug's known mechanism (PD-1 checkpoint blockade → immune activation) is biologically contradictory to treating an autoimmune hemolytic condition. Related predictions in this same evidence pack (dermatitis, proteinuria) are in fact documented in the literature as *adverse effects* of tislelizumab, reinforcing that the knowledge graph signal here likely reflects known immune-related toxicity rather than a therapeutic opportunity.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (flagged as a **Blocking** data gap — required before any S1 safety review)
+- Confirmed mechanism-of-action data sourced directly from DrugBank (flagged as a **High**-severity data gap)
+- Independent preclinical or mechanistic validation specifically addressing why checkpoint activation would be therapeutic in an autoimmune hemolytic setting, before any further investment
+- If pursued despite the above, a formal EU regulatory pathway assessment, since tislelizumab currently holds no EU marketing authorization
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

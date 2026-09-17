@@ -1,132 +1,118 @@
 ---
 layout: default
 title: Treosulfan
-description: "Treosulfan drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 607
+nav_order: 618
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Treosulfan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Treosulfan: From Conditioning Chemotherapy for Stem Cell Transplantation to Diabetic Cataract
+
+## One-Sentence Summary
+
+Treosulfan is a bifunctional alkylating agent used primarily as conditioning chemotherapy prior to allogeneic hematopoietic stem cell transplantation (HSCT). The TxGNN model predicts it may be effective for **Diabetic Cataract**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the proposed mechanism directly contradicts the well-established cataractogenic (cataract-inducing) side effect profile of this drug class.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Treosulfan |
-| DrugBank ID | [DB11678](https://go.drugbank.com/drugs/DB11678) |
-| Brand Names (EU) | Trecondi |
+| Item | Content |
+|------|------|
+| Original Indication | Conditioning chemotherapy prior to hematopoietic stem cell transplantation (based on drug-class information; not available from formal EU regulatory data, as this drug has no EU marketing authorization on record) |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 99.01% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.01% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treosulfan in combination with fludarabine is indicated as part of conditioning treatment prior to allogeneic haematopoietic stem cell transplantation (alloHSCT) in adult patients&nbsp;and in paediatric patients older than one month with malignant and non-malignant diseases.
+Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known drug-class information, Treosulfan is a bifunctional epoxide-type alkylating agent, structurally and pharmacologically related to busulfan, and is used clinically as a myeloablative or reduced-intensity conditioning agent prior to hematopoietic stem cell transplantation. Its therapeutic effect depends on DNA cross-linking cytotoxicity to ablate the recipient's bone marrow before engraftment.
 
----
+This mechanism has no established or plausible link to diabetic cataract. On the contrary, alkylating agents as a class — including the closely related busulfan — are documented in the literature to **induce** cataract formation as a long-term adverse effect, not to treat or prevent it. There is no evidence of any antioxidant, anti-glycation, or lens-protective activity for Treosulfan.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 99.01% | DL |
-| 2 | cortical cataract | 98.96% | DL |
-| 3 | nuclear senile cataract | 98.96% | DL |
-| 4 | immature cataract | 98.95% | DL |
-| 5 | craniostenosis cataract | 98.95% | DL |
-| 6 | tetanic cataract | 98.95% | DL |
-| 7 | diabetes mellitus type 2 associated cataract | 98.95% | DL |
-| 8 | mature cataract | 98.95% | DL |
-| 9 | diabetic retinopathy | 98.93% | DL |
-| 10 | senile cataract | 98.92% | DL |
-| 11 | severe nonproliferative diabetic retinopathy | 98.90% | DL |
-| 12 | odontogenic cyst | 96.61% | DL |
-| 13 | bronchial adenomas/carcinoids childhood | 96.60% | DL |
-| 14 | chondroid hamartoma | 96.60% | DL |
-| 15 | ductal or ductular proliferation | 96.60% | DL |
-| 16 | non-seminomatous lesion | 96.60% | DL |
-| 17 | pre-malignant neoplasm | 96.58% | DL |
-| 18 | tumor of testis and paratestis | 96.56% | DL |
-| 19 | thyroglossal duct cyst | 96.53% | DL |
-| 20 | nasopharyngeal teratoma | 96.52% | DL |
-
-*Showing top 20 of 50 predictions.*
+Reviewing the full set of TxGNN top-10 predictions for this drug, all ten predicted indications are cataract subtypes (diabetic cataract, nuclear senile cataract, cortical cataract, mature/immature cataract, etc.) with nearly identical scores clustered tightly between 0.9892 and 0.9901. This pattern strongly suggests a **systematic artifact from disease-node similarity clustering** in the TxGNN knowledge graph, rather than a drug-specific pharmacological signal. Combined with the absence of any supporting clinical or literature evidence, this prediction should be treated as mechanistically implausible rather than a genuine repurposing opportunity.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Treosulfan currently has no marketing authorization on record in the EU (0 licenses, market status: Not Marketed). No product/authorization details are available in this Evidence Pack.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (bifunctional alkylating agent, epoxide class) |
+| Myelosuppression Risk | High — Treosulfan is clinically used specifically as a myeloablative/reduced-intensity conditioning agent, where profound bone marrow suppression is the intended therapeutic effect prior to stem cell engraftment |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Cytotoxic drug handling precautions apply; institution-specific handling protocol not detailed in this Evidence Pack |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The predicted indication lacks any clinical trial or literature support (L5, model prediction only), and the proposed mechanism is contradicted by known class pharmacology — alkylating agents like Treosulfan are recognized causes of cataract, not treatments for it. All 10 top-ranked TxGNN predictions for this drug cluster narrowly around cataract subtypes with near-identical scores, indicating a likely knowledge-graph clustering artifact rather than a genuine signal.
+
+**To proceed, the following is needed:**
+- Resolve blocking Data Gap DG001: TFDA/SmPC label warnings and contraindications for S1 safety screening
+- Resolve Data Gap DG002: confirmed mechanism of action data
+- Independent preclinical or pharmacological evidence for any lens-protective or anti-cataract activity, which does not currently exist
+- Re-evaluation of the underlying TxGNN prediction pipeline for possible disease-node clustering bias affecting this drug's full prediction set
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

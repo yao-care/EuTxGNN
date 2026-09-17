@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Choriogonadotropin Alfa 相關新聞"
-parent: 健康新聞
+title: "Choriogonadotropin Alfa News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Choriogonadotropin Alfa 的相關健康新聞報導。原適應症：Ovitrelle is indicated in the treatment of:  women...。預測適應症 20 個。"
+description: "Health news related to Choriogonadotropin Alfa. Original indication: Ovitrelle is indicated in the treatment of:  women.... 20 predicted indications."
 permalink: /news/choriogonadotropin-alfa/
 ---
 
-# Choriogonadotropin Alfa 相關新聞
+# Choriogonadotropin Alfa News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Choriogonadotropin Alfa 有什麼相關新聞？">
-<strong>Choriogonadotropin Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Choriogonadotropin Alfa?">
+<strong>Choriogonadotropin Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Choriogonadotropin Alfa 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Choriogonadotropin Alfa with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Ovitrelle is indicated in the treatment of:  women undergoing superovulation prior to assisted reproductive techniques such as in vitro fertilisation (IVF): Ovitrelle is administered to trigger final...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>peptic esophagitis（98.4%）</li>
-<li>postural orthostatic tachycardia syndrome（98.3%）</li>
-<li>esophageal disease（97.6%）</li>
-<li>Raynaud disease（97.4%）</li>
-<li>non-syndromic esophageal malformation（96.9%）</li>
-<li>esophageal ulcer（96.8%）</li>
-<li>His bundle tachycardia（96.0%）</li>
-<li>sinoatrial block（95.9%）</li>
-<li>progressive familial heart block（95.7%）</li>
-<li>sinoatrial node disease（95.5%）</li>
-<li>restless legs syndrome（95.4%）</li>
-<li>esophageal atresia (disease)（95.3%）</li>
-<li>active peptic ulcer disease（95.3%）</li>
-<li>gastrojejunal ulcer（95.3%）</li>
-<li>peptic ulcer perforation（95.3%）</li>
-<li>migraine disorder（95.3%）</li>
-<li>esophageal leukoplakia (disease)（95.2%）</li>
-<li>acne (disease)（95.2%）</li>
-<li>dyskinesia of esophagus（95.2%）</li>
-<li>esophageal diverticulosis（95.2%）</li>
+<li><strong>Original indication</strong>: Ovitrelle is indicated in the treatment of:  women undergoing superovulation prior to assisted reproductive techniques such as in vitro fertilisation (IVF): Ovitrelle is administered to trigger final...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>peptic esophagitis (98.4%)</li>
+<li>postural orthostatic tachycardia syndrome (98.3%)</li>
+<li>esophageal disease (97.6%)</li>
+<li>Raynaud disease (97.4%)</li>
+<li>non-syndromic esophageal malformation (96.9%)</li>
+<li>esophageal ulcer (96.8%)</li>
+<li>His bundle tachycardia (96.0%)</li>
+<li>sinoatrial block (95.9%)</li>
+<li>progressive familial heart block (95.7%)</li>
+<li>sinoatrial node disease (95.5%)</li>
+<li>restless legs syndrome (95.4%)</li>
+<li>esophageal atresia (disease) (95.3%)</li>
+<li>active peptic ulcer disease (95.3%)</li>
+<li>gastrojejunal ulcer (95.3%)</li>
+<li>peptic ulcer perforation (95.3%)</li>
+<li>migraine disorder (95.3%)</li>
+<li>esophageal leukoplakia (disease) (95.2%)</li>
+<li>acne (disease) (95.2%)</li>
+<li>dyskinesia of esophagus (95.2%)</li>
+<li>esophageal diverticulosis (95.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/choriogonadotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/choriogonadotropin-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Dexrazoxane Hydrochloride 相關新聞"
-parent: 健康新聞
+title: "Dexrazoxane Hydrochloride News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Dexrazoxane Hydrochloride 的相關健康新聞報導。原適應症：Savene is indicated for the treatment of anthracyc...。預測適應症 20 個。"
+description: "Health news related to Dexrazoxane Hydrochloride. Original indication: Savene is indicated for the treatment of anthracyc.... 20 predicted indications."
 permalink: /news/dexrazoxane-hydrochloride/
 ---
 
-# Dexrazoxane Hydrochloride 相關新聞
+# Dexrazoxane Hydrochloride News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Dexrazoxane Hydrochloride?">
+<strong>Dexrazoxane Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Dexrazoxane Hydrochloride 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Dexrazoxane Hydrochloride with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Savene is indicated for the treatment of anthracycline extravasation.</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>sclerosing cholangitis（100.0%）</li>
-<li>bronchitis（100.0%）</li>
-<li>paratyphoid fever（100.0%）</li>
-<li>conjunctivitis（100.0%）</li>
-<li>epiglottitis（100.0%）</li>
-<li>peritonitis（99.9%）</li>
-<li>laryngitis（99.9%）</li>
-<li>urinary tract infection (disease)（99.9%）</li>
-<li>pyelonephritis（99.8%）</li>
-<li>cystitis（99.8%）</li>
-<li>laryngotracheitis（99.8%）</li>
-<li>bacterial arthritis（99.8%）</li>
-<li>Ureaplasma urethritis（99.8%）</li>
-<li>gonococcal urethritis（99.8%）</li>
-<li>pyelitis（99.7%）</li>
-<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
-<li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
-<li>sickle cell-hemoglobin d disease syndrome（99.7%）</li>
-<li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
-<li>sickle cell-beta-thalassemia disease syndrome（99.7%）</li>
+<li><strong>Original indication</strong>: Savene is indicated for the treatment of anthracycline extravasation.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>sclerosing cholangitis (100.0%)</li>
+<li>bronchitis (100.0%)</li>
+<li>paratyphoid fever (100.0%)</li>
+<li>conjunctivitis (100.0%)</li>
+<li>epiglottitis (100.0%)</li>
+<li>peritonitis (99.9%)</li>
+<li>laryngitis (99.9%)</li>
+<li>urinary tract infection (disease) (99.9%)</li>
+<li>pyelonephritis (99.8%)</li>
+<li>cystitis (99.8%)</li>
+<li>laryngotracheitis (99.8%)</li>
+<li>bacterial arthritis (99.8%)</li>
+<li>Ureaplasma urethritis (99.8%)</li>
+<li>gonococcal urethritis (99.8%)</li>
+<li>pyelitis (99.7%)</li>
+<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome (99.7%)</li>
+<li>sickle cell-hemoglobin c disease syndrome (99.7%)</li>
+<li>sickle cell-hemoglobin d disease syndrome (99.7%)</li>
+<li>sickle cell-hemoglobin E disease syndrome (99.7%)</li>
+<li>sickle cell-beta-thalassemia disease syndrome (99.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## Related News (3)
 
 ### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
 2026-09-14 <span class="news-indication-tag">EPOC</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 ---
 
@@ -74,13 +74,13 @@ permalink: /news/dexrazoxane-hydrochloride/
 
 2026-09-11 <span class="news-indication-tag">copd</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

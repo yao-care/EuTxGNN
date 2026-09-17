@@ -1,132 +1,116 @@
 ---
 layout: default
 title: Tobramycin
-description: "Tobramycin drug repurposing predictions from TxGNN. Evidence level L5 with 67 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 590
-evidence_level: L5
-indication_count: 67
+parent: Medium Evidence (L3-L4)
+nav_order: 601
+evidence_level: L4
+indication_count: 10
 ---
 
 # Tobramycin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **67**
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tobramycin: From Bacterial Infections to Exposure Keratitis
+
+## One-Sentence Summary
+
+Tobramycin is an aminoglycoside antibiotic classically used to treat serious bacterial infections, particularly those caused by *Pseudomonas aeruginosa* (e.g., cystic fibrosis pulmonary infections, and topical ophthalmic/otic infections). The TxGNN model predicts it may also be relevant for **Exposure Keratitis**, but this direction is currently supported only by **2 clinical trials** (neither directly testing tobramycin for this condition) and **7 publications**, most of which are case reports or in vitro toxicity studies rather than direct efficacy evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tobramycin |
-| DrugBank ID | [DB00684](https://go.drugbank.com/drugs/DB00684) |
-| Brand Names (EU) | Tobi Podhaler, Vantobra (previously Tobramycin PARI) |
-| Evidence Level | L5 |
-| Predicted Indications | 67 |
-| Top Prediction Score | 99.99% |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented in the current EU regulatory dataset (drug not marketed); tobramycin is generally indicated for serious bacterial infections, particularly *Pseudomonas aeruginosa* infections |
+| Predicted New Indication | Exposure Keratitis |
+| TxGNN Prediction Score | 99.93% |
+| Evidence Level | L4 |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Vantobra&nbsp;is indicated for the management of chronic pulmonary infection due to Pseudomonas aeruginosa in patients aged 6 years and older with cystic fibrosis (CF). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on general pharmacological knowledge, tobramycin is an aminoglycoside antibiotic that binds the bacterial 30S ribosomal subunit to inhibit protein synthesis, producing bactericidal activity against Gram-negative organisms — most notably *Pseudomonas aeruginosa* — as well as several Gram-positive species. Its efficacy against these pathogens is well established across respiratory (inhaled formulations for cystic fibrosis), ophthalmic (topical drops for bacterial conjunctivitis/keratitis), and otic (external otitis) uses.
 
----
+Exposure keratitis is a corneal surface disorder caused by inadequate eyelid closure (e.g., in sedated, comatose, or neurologically impaired patients), which predisposes the exposed cornea to desiccation and secondary bacterial infection by common ocular pathogens such as *Pseudomonas* and *Staphylococcus* species — organisms tobramycin is well suited to treat. This creates a plausible pharmacological rationale for tobramycin as prophylaxis or treatment of secondary bacterial infection in exposure keratitis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | punctate epithelial keratoconjunctivitis | 99.99% | DL |
-| 2 | exposure keratitis | 99.93% | DL |
-| 3 | non-human animal disease | 99.83% | DL |
-| 4 | otitis externa | 99.81% | DL |
-| 5 | postinfectious vasculitis | 99.80% | DL |
-| 6 | post-bacterial disorder | 99.79% | DL |
-| 7 | post-infectious syndrome | 99.79% | DL |
-| 8 | infective urethral stricture | 99.78% | DL |
-| 9 | Chagas cardiomyopathy | 99.78% | DL |
-| 10 | infection-related hemolytic uremic syndrome | 99.78% | DL |
-| 11 | neurotrophic keratopathy | 99.77% | DL |
-| 12 | acute contagious conjunctivitis | 99.66% | DL |
-| 13 | superior limbic keratoconjunctivitis | 99.48% | DL |
-| 14 | conjunctivitis | 99.43% | DL |
-| 15 | epidemic keratoconjunctivitis | 99.38% | DL |
-| 16 | eye infectious disease | 99.38% | DL |
-| 17 | globe disease | 99.35% | DL |
-| 18 | papillary conjunctivitis | 99.33% | DL |
-| 19 | bronchitis | 99.14% | DL |
-| 20 | blepharoconjunctivitis | 99.12% | DL |
-
-*Showing top 20 of 67 predictions.*
+However, the underlying rationale in this Evidence Pack explicitly notes that tobramycin's role would be **adjunctive antibacterial protection against secondary infection**, not treatment of the exposure keratitis disease process itself (which is fundamentally a mechanical/eyelid-closure problem). This distinction is important: the prediction reflects a plausible but narrow, supportive use case rather than a disease-modifying new indication.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06200727](https://clinicaltrials.gov/study/NCT06200727) | N/A | Unknown | 170 | Evaluates platelet-rich fibrin (PRF) membrane across four ophthalmic conditions (macular hole, pterygium, corneal ulcer, post-trabeculectomy); does not directly test tobramycin. |
+| [NCT05313828](https://clinicaltrials.gov/study/NCT05313828) | N/A | Unknown | 40 | Compares treatment modalities for dendritic **viral** (HSV) corneal ulcer, not bacterial exposure keratitis. |
 
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Both trials are of low direct relevance (Relevance Grade C) — neither tests tobramycin specifically in exposure keratitis, and both are listed with unknown recruitment status.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34987857](https://pubmed.ncbi.nlm.nih.gov/34987857/) | 2021 | Case Report | Oxford Medical Case Reports | Multidrug-resistant *Shewanella algae* bacterial keratitis in a patient unable to voluntarily close his eyes — a direct clinical example of the exposure-keratitis risk pathway. |
+| [12861116](https://pubmed.ncbi.nlm.nih.gov/12861116/) | 2003 | Case Report | Eye & Contact Lens | Bilateral MRSA keratitis following photorefractive keratectomy (PRK). |
+| [11581057](https://pubmed.ncbi.nlm.nih.gov/11581057/) | 2001 | Case Report | Ophthalmology | First reported case of contact lens-associated *Bacillus cereus* keratitis linked to lens case contamination. |
+| [2707046](https://pubmed.ncbi.nlm.nih.gov/2707046/) | 1989 | In vitro study | Current Eye Research | Compared corneal epithelial cytotoxicity of aminoglycosides (including tobramycin) using a rabbit corneal cell culture model. |
+| [17228760](https://pubmed.ncbi.nlm.nih.gov/17228760/) | 2006 | Unclassified | Nippon Ganka Gakkai Zasshi | Compared minimum inhibitory concentration (MIC) and postantibiotic effect of antibiotic eye drops (Japan infectious keratitis surveillance). |
+| [14574976](https://pubmed.ncbi.nlm.nih.gov/14574976/) | 2003 | Unclassified | Yan Ke Xue Bao (Eye Science) | Case report of paracentral corneal dellen in Graves ophthalmopathy — indirect relevance only. |
+| [33847093](https://pubmed.ncbi.nlm.nih.gov/33847093/) | 2021 | Unclassified | Polish Journal of Veterinary Sciences | Feline ocular toxoplasmosis case series — veterinary, low direct relevance. |
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Most publications are case reports or in vitro data rather than controlled clinical evidence, and only one (PMID 34987857) directly describes the exposure-keratitis clinical scenario.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Evidence for tobramycin in exposure keratitis is preclinical/mechanistic in nature (L4) — the two identified clinical trials are of low relevance (Grade C, unknown status, not testing tobramycin directly), and the literature is dominated by case reports and in vitro toxicity data rather than efficacy studies. The mechanistic rationale itself supports only an adjunctive anti-infective role rather than treatment of the underlying disorder, which does not currently justify progression beyond a research hypothesis.
+
+**To proceed, the following is needed:**
+- TFDA/EU safety labeling data (warnings, contraindications) — currently a blocking data gap (DG001)
+- Confirmed mechanism of action documentation via DrugBank (DG002)
+- Direct clinical studies evaluating tobramycin prophylaxis/treatment specifically in exposure keratitis patients
+- Clarification of feasible route of administration (topical ophthalmic) and dosing for this population
+- Regulatory status confirmation, given the drug is currently listed as not marketed in the EU dataset
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Riluzole 相關新聞"
-parent: 健康新聞
+title: "Riluzole News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Riluzole 的相關健康新聞報導。原適應症：Rilutek is indicated to extend life or the time to...。預測適應症 20 個。"
+description: "Health news related to Riluzole. Original indication: Rilutek is indicated to extend life or the time to.... 20 predicted indications."
 permalink: /news/riluzole/
 ---
 
-# Riluzole 相關新聞
+# Riluzole News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Riluzole 有什麼相關新聞？">
-<strong>Riluzole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Riluzole?">
+<strong>Riluzole</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Riluzole 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Riluzole with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Rilutek is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials have demonstrated that Rilutek extends survival for...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>bilateral parasagittal parieto-occipital polymicrogyria（100.0%）</li>
-<li>amyotrophic lateral sclerosis（100.0%）</li>
-<li>axial spondylometaphyseal dysplasia（100.0%）</li>
-<li>lower motor neuron syndrome with late-adult onset（100.0%）</li>
-<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome（100.0%）</li>
-<li>lethal arthrogryposis-anterior horn cell disease syndrome（100.0%）</li>
-<li>monomelic amyotrophy（100.0%）</li>
-<li>Mills syndrome（100.0%）</li>
-<li>amyotrophic lateral sclerosis, susceptibility to（100.0%）</li>
-<li>autosomal dominant mitochondrial myopathy with exercise intolerance（100.0%）</li>
-<li>amyotrohpic lateral sclerosis type 22（100.0%）</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（99.7%）</li>
-<li>hydranencephaly (disease)（99.7%）</li>
-<li>congenital disorder of glycosylation with defective fucosylation（99.7%）</li>
-<li>schizophrenia（99.7%）</li>
-<li>retinal dystrophy with or without extraocular anomalies（99.6%）</li>
-<li>atypical glycine encephalopathy（99.6%）</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（99.6%）</li>
-<li>myopia 26, X-linked, female-limited（99.5%）</li>
-<li>syndromic myopia（99.5%）</li>
+<li><strong>Original indication</strong>: Rilutek is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials have demonstrated that Rilutek extends survival for...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>bilateral parasagittal parieto-occipital polymicrogyria (100.0%)</li>
+<li>amyotrophic lateral sclerosis (100.0%)</li>
+<li>axial spondylometaphyseal dysplasia (100.0%)</li>
+<li>lower motor neuron syndrome with late-adult onset (100.0%)</li>
+<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome (100.0%)</li>
+<li>lethal arthrogryposis-anterior horn cell disease syndrome (100.0%)</li>
+<li>monomelic amyotrophy (100.0%)</li>
+<li>Mills syndrome (100.0%)</li>
+<li>amyotrophic lateral sclerosis, susceptibility to (100.0%)</li>
+<li>autosomal dominant mitochondrial myopathy with exercise intolerance (100.0%)</li>
+<li>amyotrohpic lateral sclerosis type 22 (100.0%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.7%)</li>
+<li>hydranencephaly (disease) (99.7%)</li>
+<li>congenital disorder of glycosylation with defective fucosylation (99.7%)</li>
+<li>schizophrenia (99.7%)</li>
+<li>retinal dystrophy with or without extraocular anomalies (99.6%)</li>
+<li>atypical glycine encephalopathy (99.6%)</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.6%)</li>
+<li>myopia 26, X-linked, female-limited (99.5%)</li>
+<li>syndromic myopia (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/riluzole/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/riluzole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

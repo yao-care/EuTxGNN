@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Dronedarone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 193
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Dronedarone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ with **19 clinical trials** and **20 publications** — including Phase 3/4 RCT 
 | Predicted New Indication | Stroke (TxGNN term: "stroke disorder") |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -120,7 +120,7 @@ This pathway is directly supported by post-hoc analyses of the ATHENA trial and 
 
 ## Taiwan Market Information
 
-Dronedarone is currently **not marketed** in Taiwan (未上市); the evidence pack records **0 TFDA product licenses**, so no approved-indication text, dosage form, or SmPC data is available locally. Any repurposing pathway would need to first establish a regulatory route (e.g., named-patient import, new drug application, or reference to EMA/FDA labeling) before a Taiwan-specific authorization table can be produced.
+Dronedarone is currently **not marketed** in Taiwan (Not marketed); the evidence pack records **0 TFDA product licenses**, so no approved-indication text, dosage form, or SmPC data is available locally. Any repurposing pathway would need to first establish a regulatory route (e.g., named-patient import, new drug application, or reference to EMA/FDA labeling) before a Taiwan-specific authorization table can be produced.
 
 ---
 
@@ -145,7 +145,7 @@ Multiple Phase 3/4 trials (EAST-AFNET 4, PALLAS, real-world cohorts) and ATHENA 
 **To proceed, the following is needed:**
 - TFDA-equivalent warnings, contraindications, and DDI data (Data Gap DG001, Blocking — currently prevents entry into Stage 1 safety screening)
 - Confirmed mechanism-of-action documentation from DrugBank (Data Gap DG002)
-- A regulatory pathway assessment, since Dronedarone currently holds zero Taiwan licenses (未上市)
+- A regulatory pathway assessment, since Dronedarone currently holds zero Taiwan licenses (Not marketed)
 - An explicit patient-selection guardrail excluding permanent AF, based on the PALLAS safety signal
 - A formal evidence plan (e.g., real-world study or trial) using stroke incidence as a primary endpoint, since existing trials treat stroke as a secondary/composite outcome rather than the primary target
 ## Disclaimer

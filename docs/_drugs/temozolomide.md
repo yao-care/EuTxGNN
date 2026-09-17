@@ -1,132 +1,137 @@
 ---
 layout: default
 title: Temozolomide
-description: "Temozolomide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 565
-evidence_level: L5
-indication_count: 50
+parent: High Evidence (L1-L2)
+nav_order: 576
+evidence_level: L1
+indication_count: 10
 ---
 
 # Temozolomide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Temozolomide: From Glioblastoma to the Broader Spectrum of Astrocytic Tumours
+
+## One-Sentence Summary
+
+Temozolomide is an oral alkylating agent with an established role in the treatment of glioblastoma and other malignant astrocytic tumours. The TxGNN model's top-ranked prediction, **adult astrocytic tumour**, is supported by extensive clinical and literature evidence, though it largely reflects the drug's already-established core activity rather than a genuinely novel use — while several lower-ranked candidates in this evaluation (e.g., cauda equina neoplasm, subependymal giant cell astrocytoma) represent much weaker, largely unproven extrapolations.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Temozolomide |
-| DrugBank ID | [DB00853](https://go.drugbank.com/drugs/DB00853) |
-| Brand Names (EU) | Temomedac |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.36% |
+| Item | Content |
+|------|---------|
+| Original Indication | Not captured in this evidence pack's regulatory license data (0 EU authorizations recorded); the drug's established literature indication is glioblastoma / malignant astrocytoma (see Clinical Trial and Literature Evidence below) |
+| Predicted New Indication | Adult astrocytic tumour |
+| TxGNN Prediction Score | 99.36% |
+| Evidence Level | L1 |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Temomedac hard capsules is indicated for the treatment of:  adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy (RT) and subsequently as monotherapy treatment; children from the age of three years, adolescents and adult patients with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.
+Temozolomide is an orally administered imidazotetrazine alkylating prodrug with excellent blood-brain barrier penetration. It undergoes spontaneous conversion to the active metabolite MTIC, which methylates DNA at the O6 position of guanine, triggering mismatch-repair-mediated cytotoxicity and tumour cell apoptosis. This mechanism is well suited to CNS malignancies precisely because the parent compound crosses the blood-brain barrier efficiently, unlike many other cytotoxic agents.
 
----
+The top-ranked prediction in this evaluation, "adult astrocytic tumour," is mechanistically almost identical to temozolomide's long-established core use in glioblastoma and anaplastic astrocytoma. As the evidence pack's own repurposing rationale notes, this is best understood as a restatement of the drug's core, guideline-supported indication rather than a strictly novel repurposing signal — the mechanism and the disease category are directly aligned, which is why the supporting evidence base (Stupp et al., NEJM 2005, and numerous subsequent Phase 3 RCTs) is so extensive.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | adult astrocytic tumour | 99.36% | DL |
-| 2 | cauda equina neoplasm | 99.30% | DL |
-| 3 | astrocytoma (excluding glioblastoma) | 99.29% | DL |
-| 4 | childhood cerebral astrocytoma | 97.49% | DL |
-| 5 | cerebellar astrocytoma | 97.44% | DL |
-| 6 | subependymal giant cell astrocytoma | 97.43% | DL |
-| 7 | brain glioblastoma | 97.42% | DL |
-| 8 | diencephalic astrocytomas | 97.35% | DL |
-| 9 | astrocytic tumor | 97.25% | DL |
-| 10 | high grade astrocytic tumor | 97.17% | DL |
-| 11 | low grade astrocytic tumor | 96.48% | DL |
-| 12 | brain astrocytoma | 96.31% | DL |
-| 13 | childhood astrocytic tumor | 96.08% | DL |
-| 14 | low-grade astrocytoma | 96.05% | DL |
-| 15 | neural glioblastoma | 95.99% | DL |
-| 16 | mesenchymal glioblastoma | 95.99% | DL |
-| 17 | classical glioblastoma | 95.99% | DL |
-| 18 | brain stem glioma | 95.88% | DL |
-| 19 | adult glioblastoma | 95.83% | DL |
-| 20 | ependymal tumor of brain | 95.63% | DL |
-
-*Showing top 20 of 50 predictions.*
+It is worth noting that not all candidates in this ranked list share this strength. Predictions for pediatric and low-grade astrocytic tumours (ranks 3, 4, 9) are reasonably well supported by dedicated trials in those populations. However, candidates such as cauda equina neoplasm and diencephalic astrocytomas are supported only by isolated case reports, and subependymal giant cell astrocytoma (SEGA) — a tuberous-sclerosis-associated, mTOR-pathway-driven tumour typically treated with mTOR inhibitors — has essentially no mechanistic rationale for temozolomide response; it appears to have been captured by the model only because of shared terminology ("astrocytoma"). This heterogeneity should be kept in mind when interpreting the ranked list as a whole.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | Completed | 500 | Randomized comparison of temozolomide alone versus procarbazine/lomustine/vincristine (PCV) in recurrent WHO Grade III/IV astrocytic tumours (malignant glioma) |
+| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | Completed | 26 | Dose-finding study of XL184 (cabozantinib) in combination with temozolomide and radiotherapy as first-line treatment for newly diagnosed glioblastoma; temozolomide used as the established treatment backbone |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | Landmark EORTC/NCIC Phase 3 trial establishing concomitant and adjuvant temozolomide plus radiotherapy as standard of care for newly diagnosed glioblastoma |
+| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Randomized trial showing Tumor-Treating Fields plus maintenance temozolomide improves survival versus temozolomide alone in glioblastoma |
+| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | CeTeG/NOA-09 Phase 3 trial: lomustine-temozolomide combination versus standard temozolomide in MGMT-methylated newly diagnosed glioblastoma |
+| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | NOA-08 Phase 3 trial comparing temozolomide alone versus radiotherapy alone in elderly patients with malignant astrocytoma |
+| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncol | Randomized trial evaluating addition of veliparib to temozolomide in MGMT-methylated glioblastoma |
+| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | Randomized trial of bevacizumab added to standard temozolomide chemoradiotherapy in newly diagnosed glioblastoma |
+| [40779733](https://pubmed.ncbi.nlm.nih.gov/40779733/) | 2025 | RCT | J Clin Oncol | NRG Oncology BN007 randomized Phase II/III trial of dual checkpoint blockade in MGMT-unmethylated glioblastoma (temozolomide-based comparator population) |
+| [36809318](https://pubmed.ncbi.nlm.nih.gov/36809318/) | 2023 | Review | JAMA | Comprehensive review of glioblastoma and other primary adult brain malignancies, including standard-of-care temozolomide-based regimens |
+| [30835007](https://pubmed.ncbi.nlm.nih.gov/30835007/) | 2019 | Review | Curr Oncol Rep | Review of temozolomide use beyond newly diagnosed glioblastoma, including recurrent disease, elderly patients, and non-diffuse gliomas |
+| [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | Cohort | J Neurooncol | Exploratory cohort of anaplastic astrocytic tumour patients treated with radiotherapy and temozolomide following a randomized Phase II trial |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EU marketing authorization data is available in this evidence pack. Market status is recorded as **Not marketed**, with **0** authorizations on file.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Cytotoxicity
+
+Temozolomide is a conventional cytotoxic chemotherapy agent (alkylating class), and this section applies.
+
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Conventional cytotoxic — imidazotetrazine alkylating agent (DNA guanine-O6 methylator) |
+| Myelosuppression Risk | Moderate to High — neutropenia and thrombocytopenia are well-recognized dose-limiting toxicities, particularly with extended or concomitant radiotherapy dosing schedules |
+| Emetogenicity Classification | Low to Moderate (dose-dependent) |
+| Monitoring Items | Complete blood count with differential (particularly platelets and neutrophils) at baseline and regularly during treatment; liver and renal function |
+| Handling Protection | Standard cytotoxic/hazardous drug handling precautions required |
+
+Please refer to the SmPC warnings and precautions for full toxicity management details, as this evidence pack does not contain structured DrugBank toxicity data.
+
+---
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. This evidence pack does not contain populated key warnings, contraindications, or drug-drug interaction data for temozolomide.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+The top-ranked prediction is backed by an extensive, high-quality evidence base (multiple completed Phase 3 RCTs, including the pivotal Stupp 2005 trial), but it largely reformulates temozolomide's already-established core indication rather than identifying a genuinely new use. Given the absence of EU regulatory license data, original indication data, and drug-level safety data (warnings, contraindications, DDI) in this evidence pack, the recommendation is to proceed only with additional guardrails around data completeness before any downstream use of this evaluation.
+
+**To proceed, the following is needed:**
+- TFDA/EU product label (SmPC) warnings and contraindications — flagged as a blocking data gap (DG001) for safety pre-assessment
+- Detailed mechanism of action (MOA) data sourced directly from DrugBank rather than inferred from rationale text (DG002)
+- EU marketing authorization records (licenses, approved indication text, dosage forms) — currently absent despite temozolomide being a long-marketed product in other jurisdictions
+- Clarification of whether "adult astrocytic tumour" should be treated as a core/label indication rather than a repurposing candidate, to avoid overstating novelty in downstream reporting
+- If pursuing lower-confidence candidates (e.g., cauda equina neoplasm, SEGA, diencephalic astrocytomas) further, dedicated mechanistic and clinical validation before any prioritization
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

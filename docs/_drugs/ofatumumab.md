@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ofatumumab
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 429
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ofatumumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -48,7 +48,7 @@ indication_count: 10
 | Predicted New Indication | Follicular Lymphoma |
 | TxGNN Prediction Score | 99.70% (score 0.99701, rank 3785) |
 | Evidence Level | L2 |
-| Market Status (Taiwan) | ✗ 未上市 (Not Marketed) |
+| Market Status (Taiwan) | ✗ Not marketed (Not Marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -100,7 +100,7 @@ The class analogy is strong: rituximab, the prototypical anti-CD20 antibody, is 
 
 ## Market Authorization Information (Taiwan)
 
-Currently no marketing authorization records are on file for ofatumumab in Taiwan (`taiwan_regulatory.total_licenses = 0`, `market_status = 未上市`). No approved-indication text is available for extraction.
+Currently no marketing authorization records are on file for ofatumumab in Taiwan (`taiwan_regulatory.total_licenses = 0`, `market_status = Not marketed`). No approved-indication text is available for extraction.
 
 ---
 
@@ -137,7 +137,7 @@ Ofatumumab's efficacy in Follicular Lymphoma is supported by an L2 evidence base
 - TFDA product label (warnings, contraindications) — DG001, Blocking, required before any S1 safety assessment
 - Structured MOA data from DrugBank — DG002, High priority
 - Manual review of the `original_indications` data source: this pack shows an empty field despite trial/literature evidence (e.g., NCT00824265, NCT01313689) indicating a prior CLL indication history — likely a data extraction gap rather than a true absence of prior indication
-- Regulatory pathway assessment for a currently unmarketed (未上市) product in Taiwan
+- Regulatory pathway assessment for a currently unmarketed (Not marketed) product in Taiwan
 - Clarification of whether TxGNN predictions ranked #1, #2, and #5 (CLL/SLL and its IGHV subtypes) represent genuinely new indications or rediscovery of the historical indication, before including them in any repurposing decision
 ## Disclaimer
 

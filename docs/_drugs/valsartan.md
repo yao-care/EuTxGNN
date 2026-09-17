@@ -1,134 +1,113 @@
 ---
 layout: default
 title: Valsartan
-description: "valsartan drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 620
-evidence_level: L5
-indication_count: 51
+parent: Medium Evidence (L3-L4)
+nav_order: 631
+evidence_level: L4
+indication_count: 10
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Valsartan: From Hypertension to Malignant Hypertensive Renal Disease
+
+## One-Sentence Summary
+
+> Valsartan is a widely used angiotensin II receptor blocker (ARB), whose original approved indication text is not documented in this Evidence Pack but is generally recognized as hypertension and related cardiovascular conditions.
+> The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**,
+> currently supported by **0 clinical trials** and **1 preclinical publication** (on a related but different drug), representing mechanism-level evidence only.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Valsartan |
-| DrugBank ID | [DB00177](https://go.drugbank.com/drugs/DB00177) |
-| Brand Names (EU) | Neparvis, Valsartan |
-| Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.97% |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented in this Evidence Pack (Valsartan is a well-established ARB commonly indicated for hypertension) |
+| Predicted New Indication | Malignant Hypertensive Renal Disease |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L4 |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of essential hypertension. Amlodipine/Valsartan Mylan is indicated in adults whose blood pressure is not adequately controlled on amlodipine or valsartan monotherapy.
+Currently, detailed mechanism of action data is not available in the drug profile itself. However, the repurposing rationale attached to this prediction indicates that valsartan acts as an **AT1 (angiotensin II type 1) receptor antagonist**, blocking angiotensin II–mediated vasoconstriction. This reduces systemic blood pressure and intraglomerular pressure, a mechanism with direct physiological relevance to hypertension-driven kidney injury.
 
----
+Malignant hypertensive renal disease is a severe complication of uncontrolled hypertension, characterized by rapid glomerular and renal vascular damage. Extending an AT1-blocking antihypertensive agent to this indication is mechanistically plausible, since RAAS blockade is already a cornerstone strategy for slowing progression of hypertensive nephropathy in clinical practice.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | malignant renovascular hypertension | 99.97% | DL |
-| 2 | malignant hypertensive renal disease | 99.97% | DL |
-| 3 | pulmonary hypertension with unclear multifactorial mechanism | 99.97% | DL |
-| 4 | pulmonary hypertension owing to lung disease and/or hypoxia | 99.97% | DL |
-| 5 | hypertensive disorder | 99.97% | DL |
-| 6 | Braddock syndrome | 99.96% | DL |
-| 7 | chronic pulmonary heart disease | 99.58% | DL |
-| 8 | Prinzmetal angina | 99.45% | DL |
-| 9 | autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 98.50% | DL |
-| 10 | brain small vessel disease 1 with or without ocular anomalies | 98.47% | DL |
-| 11 | obsolete susceptibility to ischemic stroke | 98.22% | DL |
-| 12 | intracerebral hemorrhage | 97.68% | DL |
-| 13 | brain stem infarction | 96.95% | DL |
-| 14 | cerebrovascular disorder | 95.62% | DL |
-| 15 | diabetic nephropathy | 95.44% | DL |
-| 16 | ABri amyloidosis | 93.55% | DL |
-| 17 | cerebral artery occlusion | 92.89% | DL |
-| 18 | cerebral infarction | 92.48% | DL |
-| 19 | MRI defined brain infarct | 90.24% | DL |
-| 20 | stroke disorder | 89.01% | DL |
-
-*Showing top 20 of 51 predictions.*
+That said, the supporting literature in this Evidence Pack does not involve valsartan directly — it studies avosentan, an endothelin receptor antagonist, in a rat model of hypertensive nephropathy. This provides indirect pathway-level support (RAAS/vascular injury biology) rather than valsartan-specific pharmacological evidence.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Preclinical (other-drug study) | Pharmacological Research | In double-transgenic rats overexpressing human renin/angiotensinogen, avosentan (an endothelin antagonist, **not valsartan**) was renoprotective against hypertensive nephropathy at doses that did not cause fluid retention — supporting the general RAAS/vascular injury pathway rather than valsartan-specific efficacy. |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorization records are present in this Evidence Pack (`total_licenses = 0`); the reported market status for this candidate is **Not Marketed**.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The evidence level is L4 (preclinical/mechanistic only), with no valsartan-specific clinical trials or human data for malignant hypertensive renal disease, and the only supporting publication studies a different drug (avosentan). Combined with a blocking data gap on regulatory safety labeling and no confirmed marketing authorization, the evidence base does not yet support proceeding.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (currently a **Blocking** data gap — DG001)
+- Confirmed mechanism of action documentation for valsartan (**High**-severity data gap — DG002)
+- Valsartan-specific preclinical or clinical data in hypertensive nephropathy/malignant hypertension models
+- Drug interaction (DDI) and safety monitoring data before any S1 safety screening can be completed
+- Clarification of regulatory/market status, given the "Not Marketed" flag for this jurisdiction
+
+*Note: Among the other predicted indications assessed in this pack, "chronic pulmonary heart disease" (rank 6) reached a higher evidence tier (L3) via sacubitril/valsartan combination trials, but that evidence reflects a fixed-dose combination product rather than valsartan monotherapy and would require separate evaluation.*
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

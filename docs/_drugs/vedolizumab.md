@@ -1,132 +1,106 @@
 ---
 layout: default
 title: Vedolizumab
-description: "Vedolizumab drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 624
+nav_order: 635
 evidence_level: L5
-indication_count: 52
+indication_count: 10
 ---
 
 # Vedolizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Vedolizumab: From Inflammatory Bowel Disease to Severe Nonproliferative Diabetic Retinopathy
+
+## One-Sentence Summary
+
+Vedolizumab is a gut-selective α4β7 integrin antagonist used for the treatment of inflammatory bowel disease (Crohn's disease and ulcerative colitis), based on the literature contained in this evidence pack. The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but currently **0 clinical trials** and **0 publications** support this specific prediction — it is a pure AI model output with no mechanistic or clinical corroboration.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Vedolizumab |
-| DrugBank ID | [DB09033](https://go.drugbank.com/drugs/DB09033) |
-| Brand Names (EU) | Entyvio |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in EU regulatory data (no marketing authorizations on file); literature identifies inflammatory bowel disease (Crohn's disease, ulcerative colitis) |
+| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+| TxGNN Prediction Score | 94.51% |
 | Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 94.51% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Ulcerative colitis Entyvio is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor alpha (TNF?) antagonist. Crohn’s disease Entyvio is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to e
+Detailed mechanism-of-action data is not available in the regulatory record for this candidate (flagged as a High-severity data gap). Based on the literature retrieved in this evidence pack, vedolizumab is a humanized monoclonal antibody that binds integrin α4β7 and blocks its interaction with mucosal addressin cell adhesion molecule-1 (MAdCAM-1), which is expressed specifically in the small intestine and colon. This gut-selective mechanism restricts lymphocyte trafficking to the gastrointestinal mucosa and underlies its established efficacy in Crohn's disease and ulcerative colitis.
 
----
+For the top-ranked predicted indication, severe nonproliferative diabetic retinopathy, there is no known biological or mechanistic pathway connecting gut-selective α4β7/MAdCAM-1 blockade to retinal microvascular disease. The evidence pack's own rationale for this pairing states explicitly that this is a pure TxGNN model output with no clinical or literature support — the association appears to be a topological/embedding artifact rather than a biologically grounded hypothesis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | severe nonproliferative diabetic retinopathy | 94.51% | DL |
-| 2 | dermatitis | 93.57% | DL |
-| 3 | neonatal dermatomyositis | 92.73% | DL |
-| 4 | acne keloid | 92.33% | DL |
-| 5 | acrodermatitis chronica atrophicans | 92.23% | DL |
-| 6 | hydroa vacciniforme, familial | 92.18% | DL |
-| 7 | secondary interstitial lung disease specific to childhood associated with a connective tissue disease | 92.06% | DL |
-| 8 | amyopathic dermatomyositis | 91.72% | DL |
-| 9 | bronchitis | 91.02% | DL |
-| 10 | drug-induced osteoporosis | 87.14% | DL |
-| 11 | primary release disorder of platelets | 79.83% | DL |
-| 12 | psoriasis | 74.91% | DL |
-| 13 | pseudo-von Willebrand disease | 74.33% | DL |
-| 14 | diabetic retinopathy | 73.57% | DL |
-| 15 | anus disease | 72.49% | DL |
-| 16 | acute lichenoid pityriasis | 71.92% | DL |
-| 17 | parapsoriasis | 71.60% | DL |
-| 18 | pityriasis lichenoides | 71.49% | DL |
-| 19 | inflammatory bowel disease | 69.54% | DL |
-| 20 | pityriasis simplex | 68.73% | DL |
-
-*Showing top 20 of 52 predictions.*
+It is worth noting that lower-ranked candidates in this pack (e.g., dermatitis, bronchitis) do have some literature signal, but that signal is uniformly **safety-related** (case reports of vedolizumab-induced skin eruptions, and a respiratory-infection safety analysis) rather than evidence of therapeutic benefit — it should not be misread as supporting repurposing toward those indications either.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Vedolizumab currently has no EU marketing authorization on file in this dataset (market status: Not Marketed; 0 authorizations recorded).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (severe nonproliferative diabetic retinopathy) has no clinical trials, no literature, and no plausible mechanistic link to vedolizumab's known gut-selective mode of action — it meets the definition of an L5, model-only prediction. Combined with the absence of any EU marketing authorization and a blocking data gap on regulatory safety labeling, there is no basis to advance this candidate beyond hypothesis stage.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (blocking gap, required before any S1 safety screening)
+- Confirmed mechanism-of-action documentation (High-severity gap)
+- Preclinical or mechanistic studies establishing a biological rationale linking α4β7/MAdCAM-1 blockade to retinal microvascular disease
+- Any prospective clinical or case-level evidence for this specific indication pairing before moving past S0
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

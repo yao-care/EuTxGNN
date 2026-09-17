@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Secukinumab
-description: "Secukinumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 519
+nav_order: 531
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Secukinumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Secukinumab: From Autoimmune Inflammatory Disease to Primary Release Disorder of Platelets
+
+## One-Sentence Summary
+
+> Secukinumab is an IL-17A monoclonal antibody originally used for autoimmune inflammatory diseases such as psoriasis and ankylosing spondylitis.
+> The TxGNN model predicts it may be effective for **Primary Release Disorder of Platelets**,
+> but currently **no clinical trials** and **no supporting literature** exist for this specific pairing — the prediction is model-driven only.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Secukinumab |
-| DrugBank ID | [DB09029](https://go.drugbank.com/drugs/DB09029) |
-| Brand Names (EU) | Cosentyx |
+| Item | Content |
+|------|------|
+| Original Indication | Autoimmune inflammatory disease (e.g., psoriasis, ankylosing spondylitis) — noted in rationale text only; no formal indication record in this evidence pack |
+| Predicted New Indication | Primary Release Disorder of Platelets |
+| TxGNN Prediction Score | 98.16% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.16% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Plaque psoriasis Cosentyx is indicated for the treatment of moderate to severe plaque psoriasis in adults and children from the age of 6 years old who are candidates for systemic therapy. Hidradenitis suppurativa (HS) Cosentyx is indicated for the treatment of active moderate to severe hidradenitis suppurativa (acne inversa) in adults with an inadequate response to conventional systemic HS therapy. Psoriatic arthritis Cosentyx, alone or in combination with methotrexate (MTX), is indicated for th
+Formal mechanism-of-action data for Secukinumab is flagged as a data gap in this evidence pack (DG002, High severity). Based on the limited context available, Secukinumab is described as an IL-17A monoclonal antibody used to treat autoimmune inflammatory conditions such as psoriasis and ankylosing spondylitis, working by blocking IL-17A-driven inflammatory signaling.
 
----
+Primary release disorder of platelets, however, is a **congenital platelet function defect** — a structural/storage-pool abnormality, not an inflammatory or autoimmune condition. The evidence pack's own rationale explicitly states there is **no known direct mechanistic link** between IL-17A signaling and this disorder, and that the original MOA data being a gap prevents proper cross-validation.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | primary release disorder of platelets | 98.16% | DL |
-| 2 | pseudo-von Willebrand disease | 97.74% | DL |
-| 3 | Glanzmann thrombasthenia | 97.34% | DL |
-| 4 | HER2 positive breast carcinoma | 96.48% | DL |
-| 5 | drug-induced osteoporosis | 95.27% | DL |
-| 6 | progesterone-receptor positive breast cancer | 95.09% | DL |
-| 7 | normal breast-like subtype of breast carcinoma | 95.09% | DL |
-| 8 | breast tumor luminal A or B | 94.98% | DL |
-| 9 | progesterone-receptor negative breast cancer | 94.51% | DL |
-| 10 | fetal and neonatal alloimmune thrombocytopenia | 92.69% | DL |
-| 11 | ankylosing spondylitis | 92.28% | DL |
-| 12 | autosomal dominant macrothrombocytopenia | 92.05% | DL |
-| 13 | rheumatoid vasculitis | 91.25% | DL |
-| 14 | inflammatory spondylopathy | 91.04% | DL |
-| 15 | chromhidrosis | 90.72% | DL |
-| 16 | hypermobility of coccyx | 90.65% | DL |
-| 17 | Kummell disease | 90.06% | DL |
-| 18 | polyarticular juvenile rheumatoid arthritis | 89.35% | DL |
-| 19 | hidradenitis | 88.14% | DL |
-| 20 | Crohn's colitis | 86.82% | DL |
-
-*Showing top 20 of 50 predictions.*
+In short, this is a high-confidence TxGNN embedding-similarity score without any mechanistic, clinical, or literature corroboration. The prediction should be treated as a research hypothesis only, not a repurposing candidate ready for further evaluation.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Secukinumab is currently **not marketed** in the EU per this evidence pack (0 authorizations on record, no license entries available to summarize).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Key warnings, contraindications, and drug interaction data are all marked as data gaps in this evidence pack — TFDA label warnings/contraindications are flagged as a Blocking data gap, DG001.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction is based solely on a TxGNN embedding score with no clinical trials, no literature support, and an explicitly weak/absent mechanistic rationale (congenital platelet defect vs. IL-17A-driven inflammatory pathway). The drug is also not currently marketed in the EU, and core safety data (warnings, contraindications, DDI) are unavailable.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (currently a Blocking data gap, DG001)
+- Verified mechanism-of-action data for Secukinumab (currently a High-severity data gap, DG002)
+- Preclinical or mechanistic studies exploring any IL-17A involvement in platelet release disorders
+- At minimum, case reports or observational data before considering any further evaluation stage
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Febuxostat
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 247
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Febuxostat
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Febuxostat is a xanthine oxidase (XO) inhibitor whose established pharmacology i
 | Predicted New Indication | Renal Hypouricemia (hypouricemia, renal) |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| EU Market Status | 未上市 (Not marketed) |
+| EU Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -70,7 +70,7 @@ The evidence pack's own rationale explicitly calls this out: it attributes the h
 
 ## EU Market Information
 
-No marketing authorizations are currently on file for this candidate (`total_licenses: 0`, market status: 未上市／Not marketed).
+No marketing authorizations are currently on file for this candidate (`total_licenses: 0`, market status: Not marketed／Not marketed).
 
 ## Safety Considerations
 

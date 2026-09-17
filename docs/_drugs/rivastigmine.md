@@ -1,132 +1,115 @@
 ---
 layout: default
 title: Rivastigmine
-description: "Rivastigmine drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 503
-evidence_level: L5
-indication_count: 52
+parent: Medium Evidence (L3-L4)
+nav_order: 515
+evidence_level: L4
+indication_count: 10
 ---
 
 # Rivastigmine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Rivastigmine: From Alzheimer's Disease to Glaucoma
+
+## One-Sentence Summary
+
+Rivastigmine is a selective acetylcholinesterase (AChE) inhibitor established for Alzheimer's disease dementia.
+The TxGNN model predicts it may be effective for **Glaucoma**,
+with **0 clinical trials** and **3 publications** currently supporting this direction — all preclinical/mechanistic in nature.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Rivastigmine |
-| DrugBank ID | [DB00989](https://go.drugbank.com/drugs/DB00989) |
-| Brand Names (EU) | Prometax |
-| Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 99.27% |
+| Item | Content |
+|------|------|
+| Original Indication | Alzheimer's disease dementia (inferred from literature evidence in this pack; no EU/TFDA license record exists) |
+| Predicted New Indication | Glaucoma |
+| TxGNN Prediction Score | 99.27% |
+| Evidence Level | L4 |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.
+Detailed mechanism of action data from DrugBank is currently a data gap. Based on the literature evidence collected in this pack, Rivastigmine is a selective carbamate-type acetylcholinesterase (AChE) inhibitor, with established efficacy in Alzheimer's disease dementia by increasing central acetylcholine levels to compensate for cholinergic deficit.
 
----
+The link to glaucoma comes from a separate branch of AChE pharmacology: non-selective AChE inhibitors have long been known as ocular hypotensive agents, and cholinergic signaling via muscarinic receptors (M3R) in the trabecular meshwork directly regulates intraocular pressure (IOP) (PMID 39130374). A direct animal study (PMID 10673128) tested **topical rivastigmine** in rabbits and found it lowered IOP over an 8-hour observation period, despite rivastigmine's selectivity for a CNS-predominant AChE isoform.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | glaucoma | 99.27% | DL |
-| 2 | acute intermittent porphyria | 98.23% | DL |
-| 3 | psychogenic movement disorders | 98.16% | DL |
-| 4 | primary orthostatic tremor | 98.01% | DL |
-| 5 | tremor-nystagmus-duodenal ulcer syndrome | 97.98% | DL |
-| 6 | benign shuddering attacks | 97.87% | DL |
-| 7 | extrapyramidal and movement disease | 97.87% | DL |
-| 8 | benign paroxysmal tonic upgaze of childhood with ataxia | 97.86% | DL |
-| 9 | chronic tic disorder | 97.81% | DL |
-| 10 | Pick disease | 97.56% | DL |
-| 11 | primary hereditary glaucoma | 96.88% | DL |
-| 12 | lingual-facial-buccal dyskinesia | 96.61% | DL |
-| 13 | open-angle glaucoma | 96.08% | DL |
-| 14 | myoclonic dystonia | 95.22% | DL |
-| 15 | myoclonus-dystonia syndrome | 95.06% | DL |
-| 16 | focal hand dystonia | 94.47% | DL |
-| 17 | torsion dystonia | 92.82% | DL |
-| 18 | early-onset generalized dystonia | 92.77% | DL |
-| 19 | Alzheimer disease | 92.22% | DL |
-| 20 | parkinsonian disorder | 92.02% | DL |
-
-*Showing top 20 of 52 predictions.*
+Mechanistically, this suggests that even a CNS-selective AChE inhibitor can produce a local IOP-lowering effect when applied topically, without necessarily triggering the systemic cholinergic side effects associated with non-selective agents (PMID 27967267). This is a plausible but early-stage mechanistic hypothesis rather than a clinically validated pathway.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [10673128](https://pubmed.ncbi.nlm.nih.gov/10673128/) | 2000 | Preclinical (animal study) | J Ocul Pharmacol Ther | Topical rivastigmine lowered intraocular pressure in normotensive rabbits, monitored hourly over 8 hours |
+| [39130374](https://pubmed.ncbi.nlm.nih.gov/39130374/) | 2024 | Review | Front Mol Biosci | Reviews cholinergic/muscarinic (M3R) regulation of IOP via the trabecular meshwork; notes systemic cholinergic side effects limit current M3R agonists |
+| [27967267](https://pubmed.ncbi.nlm.nih.gov/27967267/) | 2017 | Review (patent literature) | Expert Opin Ther Pat | Notes mild AChE inhibition has therapeutic relevance in Alzheimer's disease, myasthenia gravis, **and glaucoma** |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Rivastigmine currently has no EU marketing authorization record in this evidence pack (market status: **Not marketed / Not marketed**, 0 licenses).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: TFDA warnings/contraindications and full DrugBank DDI data are currently unavailable — see Next Steps below.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Evidence for the glaucoma indication is limited to one 2000-era animal study and two narrative reviews (Evidence Level L4) — no clinical trials or RCTs exist. Combined with the drug's current non-marketed status in the EU and a **blocking** data gap on TFDA safety labeling, the candidate is not yet ready to advance to safety screening (S1).
+
+**To proceed, the following is needed:**
+- TFDA label (warnings/contraindications) — **blocking gap (DG001)**; remediation: download PDF from TFDA official site and parse
+- Confirmed MOA data — **high-priority gap (DG002)**; remediation: query DrugBank API
+- Identification of any registered/planned clinical trials evaluating rivastigmine (topical or systemic) for IOP reduction or glaucoma
+- Confirmation of current global marketing/regulatory status for rivastigmine formulations suitable for ocular use
+- Preclinical-to-clinical translation data (topical dose, ocular tolerability, route feasibility)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,29 +1,29 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
-parent: 健康新聞
+title: "asma (asthma) News"
+parent: 📰 Health News
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "Health news about asma (asthma). 3 articles, 47 related drugs."
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asma (asthma) News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="What news is there about asma (asthma)?">
+<strong>asma (asthma)</strong> currently has <strong>3 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+This page brings together the latest health news about “asma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
-<strong>相關藥物報告</strong>
-<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<strong>Related drug reports</strong>
+<p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/aztreonam/' | relative_url }}">Aztreonam</a></li>
 <li><a href="{{ '/drugs/baricitinib/' | relative_url }}">Baricitinib</a></li>
@@ -75,13 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## Related News (3)
 
 ### [Caruso(Gemelli): "In asma e poliposi depemokimab efficace fino a 2 anni" - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
 
 2026-09-14
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
 
 ---
 
@@ -89,7 +89,7 @@ permalink: /news/asthma/
 
 2026-09-14
 
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 ---
 
@@ -97,11 +97,11 @@ permalink: /news/asthma/
 
 2026-09-14
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>

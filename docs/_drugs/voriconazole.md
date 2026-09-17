@@ -1,132 +1,111 @@
 ---
 layout: default
 title: Voriconazole
-description: "Voriconazole drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 641
+nav_order: 653
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Voriconazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Voriconazole: From Fungal Infections to Multidrug-Resistant Tuberculosis
+
+## One-Sentence Summary
+
+Voriconazole is a triazole antifungal agent used to treat invasive fungal infections (e.g., aspergillosis, candidiasis) by inhibiting fungal CYP450-dependent 14α-demethylase and blocking ergosterol synthesis. The TxGNN model's top-ranked prediction is **Multidrug-Resistant Tuberculosis (MDR-TB)**, but this pairing is currently supported by **0 clinical trials** and only **3 tangentially related publications**, none of which describe voriconazole as a treatment for tuberculosis itself. The evidence pack's own mechanistic analysis flags this prediction as a likely **false positive** driven by knowledge-graph co-occurrence noise rather than genuine pharmacological relevance.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Voriconazole |
-| DrugBank ID | [DB00582](https://go.drugbank.com/drugs/DB00582) |
-| Brand Names (EU) | Voriconazole Accord |
+| Item | Content |
+|------|------|
+| Original Indication | Not specified in available regulatory data; drug class identified as triazole antifungal (invasive fungal infections) |
+| Predicted New Indication | Multidrug-Resistant Tuberculosis |
+| TxGNN Prediction Score | 98.67% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.29% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Voriconazole is a broad-spectrum, triazole antifungal agent and is indicated in adults and children aged two years and above as follows:  treatment of invasive aspergillosis; treatment of candidaemia in non-neutropenic patients; treatment of fluconazole-resistant serious invasive Candida infections (including C. krusei); Treatment of serious fungal infections caused by Scedosporium spp. and Fusarium spp.  Voriconazole Accord should be administered primarily to patients with progressive, possibly
+Detailed MOA data in the standard field is a data gap, but the evidence pack's rationale text identifies voriconazole as a **triazole antifungal** whose mechanism is inhibition of fungal 14α-demethylase and blockade of ergosterol synthesis. This mechanism has **no known antimycobacterial activity** — it does not act on any target relevant to *Mycobacterium tuberculosis*.
 
----
+The literature retrieved for this pairing consistently describes patients with MDR-TB who **also** develop a fungal co-infection (aspergilloma, invasive aspergillosis) in TB-damaged lung cavities. In these cases, voriconazole is used to treat the **fungal co-infection**, not the tuberculosis itself. The TxGNN model appears to have picked up this frequent clinical co-occurrence in the literature as a spurious drug–disease association, rather than a genuine treatment relationship.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | fusariosis | 99.29% | DL |
-| 2 | multidrug-resistant tuberculosis | 98.67% | DL |
-| 3 | cysticercosis | 98.34% | DL |
-| 4 | Ambras type hypertrichosis universalis congenita | 98.28% | DL |
-| 5 | syndrome with a Dandy-Walker malformation as major feature | 98.15% | DL |
-| 6 | malformation syndrome with odontal and/or periodontal component | 98.13% | DL |
-| 7 | tuberculosis, bovine | 98.10% | DL |
-| 8 | isolated genetic hair shaft abnormality | 98.08% | DL |
-| 9 | tuberculosis, avian | 98.04% | DL |
-| 10 | tuberculoma | 98.04% | DL |
-| 11 | tuberculous ascites | 98.04% | DL |
-| 12 | inactive tuberculosis | 98.04% | DL |
-| 13 | hypertrichosis (disease) | 98.00% | DL |
-| 14 | esophageal candidiasis | 97.66% | DL |
-| 15 | coenurosis | 97.64% | DL |
-| 16 | trichosporonosis | 97.59% | DL |
-| 17 | hyalohyphomycosis | 97.59% | DL |
-| 18 | penicilliosis | 97.59% | DL |
-| 19 | geotrichosis | 97.59% | DL |
-| 20 | maple bark strippers' lung | 97.58% | DL |
-
-*Showing top 20 of 50 predictions.*
+Consequently, this prediction should be interpreted as a **likely false positive**: the pharmacological mechanism does not support efficacy against MDR-TB, and no clinical trial or direct treatment evidence exists. A more mechanistically defensible reframing — supported by a lower-ranked signal in this same evidence pack (rank 8, "inactive tuberculosis," L4, decision stage S1, "Research Question") — is that voriconazole may have a legitimate secondary role in treating **chronic pulmonary aspergillosis arising in post-TB lung cavities**, which is a distinct clinical entity from tuberculosis itself and would require re-scoping the indication target.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [18992166](https://pubmed.ncbi.nlm.nih.gov/18992166/) | 2008 | Case Report | Cases Journal | MDR-TB coexisting with aspergilloma/invasive aspergillosis in a diabetic patient; voriconazole was used to treat the fungal co-infection, not the tuberculosis itself |
+| [37145297](https://pubmed.ncbi.nlm.nih.gov/37145297/) | 2023 | Case Report/In-vitro | Braz J Microbiol | In-vitro study of photodynamic inactivation against multidrug-resistant *Fonsecaea nubica* (chromoblastomycosis); does not involve voriconazole or tuberculosis |
+| [39359062](https://pubmed.ncbi.nlm.nih.gov/39359062/) | 2024 | Basic Research | Virulence | Genetic diversity study of fluconazole-resistant *Candida krusei*; unrelated to *M. tuberculosis* or voriconazole treatment |
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+None of these publications provide direct evidence that voriconazole treats tuberculosis; all relate to fungal pathogens co-occurring with TB or unrelated to TB entirely.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+This product currently holds no EU marketing authorization on record (market status: not marketed, 0 authorizations).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The mechanistic link between voriconazole (antifungal, ergosterol-synthesis inhibitor) and multidrug-resistant tuberculosis (a mycobacterial infection) is absent. All retrieved literature describes fungal co-infections occurring alongside TB rather than voriconazole treating TB directly, and no clinical trials exist for this pairing. This is assessed as a likely knowledge-graph false positive (evidence level L5).
+
+**To proceed, the following is needed:**
+- TFDA/SmPC label data (warnings, contraindications) — currently a blocking data gap
+- Confirmed mechanism-of-action documentation from DrugBank
+- If pursuing a related, more plausible signal: re-scope the candidate indication to "chronic pulmonary aspergillosis in post-TB cavitary lung disease" (supported by rank 8 evidence, L4) rather than tuberculosis itself, and gather targeted clinical evidence for that reframed indication
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

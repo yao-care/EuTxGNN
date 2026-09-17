@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lebrikizumab
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 345
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Lebrikizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -59,7 +59,7 @@ Lebrikizumab selectively binds to IL-13 with high affinity, preventing the forma
 
 The TxGNN prediction for dermatitis is not a speculative hypothesis but a confirmation of clinically validated efficacy. Multiple Phase 3 pivotal trials (ADvocate1, ADvocate2, ADhere, ADjoin) across thousands of patients have demonstrated statistically significant and clinically meaningful improvements in EASI-75, IGA 0/1, and pruritus scores. The NEJM publication of the dual pivotal trial results in 2023 (PMID 36920778) represents one of the strongest regulatory packages for a biologic in inflammatory dermatology in recent years. Global regulators — FDA (October 2023) and EMA (2023) — have both issued approvals.
 
-Taiwan's "未上市" (not marketed) status for lebrikizumab reflects the absence of a TFDA NDA filing, not any unresolved question about efficacy or safety. The drug's selective IL-13 mechanism differentiates it from dupilumab (dual IL-4/IL-13 blockade) by demonstrating a notably lower rate of treatment-associated conjunctivitis in indirect comparisons, which may represent a clinical advantage for certain patient populations. Taiwan patients with moderate-to-severe atopic dermatitis who are inadequately controlled on topical therapies currently lack access to this approved treatment option.
+Taiwan's "Not marketed" (not marketed) status for lebrikizumab reflects the absence of a TFDA NDA filing, not any unresolved question about efficacy or safety. The drug's selective IL-13 mechanism differentiates it from dupilumab (dual IL-4/IL-13 blockade) by demonstrating a notably lower rate of treatment-associated conjunctivitis in indirect comparisons, which may represent a clinical advantage for certain patient populations. Taiwan patients with moderate-to-severe atopic dermatitis who are inadequately controlled on topical therapies currently lack access to this approved treatment option.
 
 ---
 
@@ -124,7 +124,7 @@ A Taiwan TFDA NDA filing has not yet been initiated; no domestic authorization e
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Lebrikizumab has achieved L1 evidence (multiple completed Phase 3 RCTs including dual pivotal trials published in the NEJM), with global regulatory approvals from both the FDA and EMA in 2023. The TxGNN prediction for dermatitis is confirmed by this robust clinical evidence base. The Taiwan "未上市" status is a regulatory filing gap — Taiwan patients with moderate-to-severe atopic dermatitis inadequately controlled on topical therapies are currently unable to access an EMA/FDA-validated treatment option.
+Lebrikizumab has achieved L1 evidence (multiple completed Phase 3 RCTs including dual pivotal trials published in the NEJM), with global regulatory approvals from both the FDA and EMA in 2023. The TxGNN prediction for dermatitis is confirmed by this robust clinical evidence base. The Taiwan "Not marketed" status is a regulatory filing gap — Taiwan patients with moderate-to-severe atopic dermatitis inadequately controlled on topical therapies are currently unable to access an EMA/FDA-validated treatment option.
 
 **To proceed, the following is needed:**
 

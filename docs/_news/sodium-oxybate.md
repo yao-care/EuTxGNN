@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Sodium Oxybate 相關新聞"
-parent: 健康新聞
+title: "Sodium Oxybate News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Sodium Oxybate 的相關健康新聞報導。原適應症：Treatment of narcolepsy with cataplexy in adult pa...。預測適應症 20 個。"
+description: "Health news related to Sodium Oxybate. Original indication: Treatment of narcolepsy with cataplexy in adult pa.... 20 predicted indications."
 permalink: /news/sodium-oxybate/
 ---
 
-# Sodium Oxybate 相關新聞
+# Sodium Oxybate News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Sodium Oxybate 有什麼相關新聞？">
-<strong>Sodium Oxybate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Sodium Oxybate?">
+<strong>Sodium Oxybate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Sodium Oxybate 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Sodium Oxybate with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Treatment of narcolepsy with cataplexy in adult patients.</li>
-<li><strong>證據等級</strong>：L2</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>insomnia (disease)（100.0%）</li>
-<li>obsolete neurogenic bladder (disease)（99.8%）</li>
-<li>sleep disorder, initiating and maintaining sleep（99.8%）</li>
-<li>cauda equina syndrome（99.6%）</li>
-<li>Wernicke-Korsakoff syndrome（99.4%）</li>
-<li>restless legs syndrome（99.3%）</li>
-<li>attention deficit-hyperactivity disorder（98.7%）</li>
-<li>acute encephalopathy with biphasic seizures and late reduced diffusion（98.7%）</li>
-<li>faciodigitogenital syndrome（98.6%）</li>
-<li>Balo concentric sclerosis（98.5%）</li>
-<li>attention deficit hyperactivity disorder, inattentive type（98.5%）</li>
-<li>narcolepsy without cataplexy（98.3%）</li>
-<li>Creutzfeldt-Jakob disease（98.2%）</li>
-<li>specific developmental disorder（98.0%）</li>
-<li>narcolepsy-cataplexy syndrome（97.8%）</li>
-<li>chondromyxoid fibroma（97.7%）</li>
-<li>narcolepsy（97.3%）</li>
-<li>central nervous system disease（96.6%）</li>
-<li>X-linked adrenoleukodystrophy（96.6%）</li>
-<li>alcohol withdrawal（96.5%）</li>
+<li><strong>Original indication</strong>: Treatment of narcolepsy with cataplexy in adult patients.</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>insomnia (disease) (100.0%)</li>
+<li>obsolete neurogenic bladder (disease) (99.8%)</li>
+<li>sleep disorder, initiating and maintaining sleep (99.8%)</li>
+<li>cauda equina syndrome (99.6%)</li>
+<li>Wernicke-Korsakoff syndrome (99.4%)</li>
+<li>restless legs syndrome (99.3%)</li>
+<li>attention deficit-hyperactivity disorder (98.7%)</li>
+<li>acute encephalopathy with biphasic seizures and late reduced diffusion (98.7%)</li>
+<li>faciodigitogenital syndrome (98.6%)</li>
+<li>Balo concentric sclerosis (98.5%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (98.5%)</li>
+<li>narcolepsy without cataplexy (98.3%)</li>
+<li>Creutzfeldt-Jakob disease (98.2%)</li>
+<li>specific developmental disorder (98.0%)</li>
+<li>narcolepsy-cataplexy syndrome (97.8%)</li>
+<li>chondromyxoid fibroma (97.7%)</li>
+<li>narcolepsy (97.3%)</li>
+<li>central nervous system disease (96.6%)</li>
+<li>X-linked adrenoleukodystrophy (96.6%)</li>
+<li>alcohol withdrawal (96.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium-oxybate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/sodium-oxybate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

@@ -1,132 +1,118 @@
 ---
 layout: default
 title: Tivozanib
-description: "Tivozanib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 589
+nav_order: 600
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Tivozanib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tivozanib: From Renal Cell Carcinoma to Endocervical Carcinoma
+
+## One-Sentence Summary
+
+Tivozanib is a highly selective VEGFR-1/2/3 tyrosine kinase inhibitor, established as an anti-angiogenic therapy for renal cell carcinoma. The TxGNN model predicts it may be effective for **Endocervical Carcinoma**, but this prediction is currently supported by **no registered clinical trials** and **no published literature** — it rests entirely on a class-effect mechanistic hypothesis.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tivozanib |
-| DrugBank ID | [DB11800](https://go.drugbank.com/drugs/DB11800) |
-| Brand Names (EU) | Fotivda |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.81% |
+| Item | Content |
+|------|------|
+| Original Indication | Renal cell carcinoma (based on general pharmacological knowledge; not recorded in the current evidence pack) |
+| Predicted New Indication | Endocervical Carcinoma |
+| TxGNN Prediction Score | 99.81% |
+| Evidence Level | L5 (model prediction only, no supporting studies) |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Fotivda is indicated for the first line treatment of adult patients with advanced renal cell carcinoma (RCC) and for adult patients who are VEGFR and mTOR pathway inhibitor-naïve following disease progression after one prior treatment with cytokine therapy for advanced RCC. Treatment of advanced renal cell carcinoma.
+Currently, detailed mechanism of action data is not available in the evidence pack (`original_moa: [Data Gap]`). Based on the mechanistic annotation attached to the top prediction, tivozanib is a highly selective VEGFR-1/2/3 tyrosine kinase inhibitor with anti-angiogenic activity, a mechanism class well established in oncology.
 
----
+Cervical (endocervical) carcinoma is a tumour type with known dependence on tumour angiogenesis, and anti-angiogenic agents such as bevacizumab already have demonstrated clinical benefit in cervical cancer. This creates a plausible class-effect rationale: if VEGF-pathway inhibition benefits cervical cancer as a class, a potent VEGFR TKI like tivozanib could theoretically extend to this setting.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | endocervical carcinoma | 99.81% | DL |
-| 2 | uterine ligament adenocarcinoma | 99.80% | DL |
-| 3 | adenoid cystic carcinoma of the cervix uteri | 99.80% | DL |
-| 4 | uterine ligament serous adenocarcinoma | 99.79% | DL |
-| 5 | signet ring cell variant cervical mucinous adenocarcinoma | 99.77% | DL |
-| 6 | cervical adenosquamous carcinoma, glassy cell variant | 99.77% | DL |
-| 7 | uterine ligament endometrioid adenocarcinoma | 99.77% | DL |
-| 8 | uterine ligament mucinous adenocarcinoma | 99.77% | DL |
-| 9 | intestinal variant cervical mucinous adenocarcinoma | 99.77% | DL |
-| 10 | cervical mucinous adenocarcinoma, minimal deviation variant | 99.76% | DL |
-| 11 | endocervical type cervical mucinous adenocarcinoma | 99.76% | DL |
-| 12 | uterine ligament clear cell adenocarcinoma | 99.76% | DL |
-| 13 | nasopharyngeal teratoma | 99.61% | DL |
-| 14 | mesonephric adenocarcinoma | 99.59% | DL |
-| 15 | pre-malignant neoplasm | 99.56% | DL |
-| 16 | odontogenic cyst | 99.56% | DL |
-| 17 | epiglottis neoplasm | 99.51% | DL |
-| 18 | tumor of testis and paratestis | 99.51% | DL |
-| 19 | benign neoplasm of floor of mouth | 99.50% | DL |
-| 20 | benign neoplasm of hypopharynx | 99.50% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, this rationale is explicitly described in the evidence pack itself as a class-level hypothesis rather than drug-specific evidence — "tivozanib itself has no direct evidence in this indication." The same TxGNN run also surfaced nine additional, extremely rare cervical/uterine adenocarcinoma subtypes (ranks 2–10, scores 99.76–99.80%) using similarly indirect class-analogy reasoning (e.g., comparison to ovarian serous carcinoma or endometrial carcinoma response to other anti-angiogenic TKIs). None of these tumour types have any tivozanib-specific clinical or literature data.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations are recorded in the current evidence pack. Tivozanib is listed as **not marketed** in the EU dataset used to generate this report, with zero authorizations on file.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (VEGFR-1/2/3 tyrosine kinase inhibitor, anti-angiogenic) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This prediction is supported only by a TxGNN computational score (L5, no clinical trials, no literature) and a class-effect mechanistic hypothesis that is explicitly not drug-specific. Combined with the missing safety data (marked as a Blocking data gap for TFDA-equivalent warnings/contraindications) and the drug's "not marketed" EU status, there is currently no basis to advance this indication beyond hypothesis stage.
+
+**To proceed, the following is needed:**
+- Official SmPC/labeling data (warnings, contraindications, DDI) to clear the Blocking safety data gap
+- Confirmed mechanism of action documentation from DrugBank or equivalent source
+- At minimum, preclinical or case-level evidence directly linking tivozanib to cervical/endocervical carcinoma before considering trial design
+- Clarification of tivozanib's actual EU regulatory status, since "not marketed" in this dataset should be cross-checked against known authorizations (e.g., Fotivda)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

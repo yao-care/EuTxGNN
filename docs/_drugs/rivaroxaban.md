@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Rivaroxaban
-description: "Rivaroxaban drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 502
+nav_order: 514
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Rivaroxaban
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Rivaroxaban: From Anticoagulation (Factor Xa Inhibition) to Rheumatoid Arthritis
+
+## One-Sentence Summary
+
+Rivaroxaban is an oral Factor Xa inhibitor used for anticoagulation in thromboembolic conditions. TxGNN predicts a possible link to **Rheumatoid Arthritis**, but this signal is currently supported only by the model itself (**L5**) — there are **0 clinical trials** and only **3 tangentially related publications**, none of which studied rivaroxaban as an RA treatment.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Rivaroxaban |
-| DrugBank ID | [DB06228](https://go.drugbank.com/drugs/DB06228) |
-| Brand Names (EU) | Xarelto |
+| Item | Content |
+|------|---------|
+| Original Indication | Not specified in the structured regulatory data provided; rivaroxaban is pharmacologically an oral anticoagulant (Factor Xa inhibitor) used for thromboembolic disorders |
+| Predicted New Indication | Rheumatoid Arthritis |
+| TxGNN Prediction Score | 99.57% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.57% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Xarelto, co-administered with acetylsalicylic acid (ASA) alone or with ASA plus clopidogrel or ticlopidine, is indicated for the prevention of atherothrombotic events in adult patients after an acute coronary syndrome (ACS) with elevated cardiac biomarkers. Xarelto, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with coronary artery disease (CAD) or symptomatic peripheral artery disease (PAD) at high risk of ischaemic
+Currently, detailed mechanism of action data is not available in the source record. Based on known pharmacology, rivaroxaban is a direct Factor Xa inhibitor — its efficacy in preventing and treating thromboembolic disease (e.g., DVT, PE, stroke prevention in atrial fibrillation) is well established, but it has no recognized anti-inflammatory or immunomodulatory activity that would explain a disease-modifying effect in rheumatoid arthritis.
 
----
+The model-generated rationale for this candidate is explicitly skeptical: it notes that rivaroxaban's only established pharmacology is anticoagulation, and that the high TxGNN score more plausibly reflects a **comorbidity association** in the knowledge graph — RA patients carry an elevated risk of venous thromboembolism and are frequently co-prescribed anticoagulants — rather than a genuine treatment signal for RA itself.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | rheumatoid arthritis | 99.57% | DL |
-| 2 | gout | 99.51% | DL |
-| 3 | HIV infectious disease | 99.17% | DL |
-| 4 | brachydactyly-syndactyly syndrome | 99.10% | DL |
-| 5 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 98.95% | DL |
-| 6 | sclerosing cholangitis | 98.88% | DL |
-| 7 | systemic mastocytosis | 98.82% | DL |
-| 8 | Smouldering systemic mastocytosis | 98.78% | DL |
-| 9 | feline acquired immunodeficiency syndrome | 98.67% | DL |
-| 10 | simian immunodeficiency virus infection | 98.67% | DL |
-| 11 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 98.67% | DL |
-| 12 | multiple endocrine neoplasia | 98.66% | DL |
-| 13 | lymphoadenopathic mastocytosis with eosinophilia | 98.60% | DL |
-| 14 | Plasmodium falciparum malaria | 98.10% | DL |
-| 15 | leprosy | 97.91% | DL |
-| 16 | infectious otitis media | 97.73% | DL |
-| 17 | pneumonia | 97.52% | DL |
-| 18 | middle ear cholesterol granuloma | 97.39% | DL |
-| 19 | nephrogenic syndrome of inappropriate antidiuresis | 97.35% | DL |
-| 20 | otosalpingitis | 97.28% | DL |
-
-*Showing top 20 of 50 predictions.*
+Consistent with this, none of the three retrieved publications describe rivaroxaban being used to treat RA; they cover DVT/PE management, thrombin generation testing in autoimmune disease, and anticoagulant adherence in atrial fibrillation. This pattern (comorbid population overlap without a therapeutic study) is a common source of false-positive signals in knowledge-graph-based repurposing models and should be treated with caution.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|------|------|---------|---------------|
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | General review of DVT/PE diagnosis and treatment; does not address RA |
+| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Review | La Revue de médecine interne | Discusses thrombin generation assay for assessing hypercoagulability in autoimmune disease (e.g., antiphospholipid syndrome); not an RA treatment study |
+| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Cohort | PLoS ONE | Compares rivaroxaban vs. apixaban adherence in atrial fibrillation patients; unrelated to RA |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Rivaroxaban has no EU marketing authorizations recorded in this dataset (market status: Not Marketed, 0 licenses).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction sits at L5 (model prediction only) with no clinical trials and no literature directly studying rivaroxaban for RA. The available evidence itself suggests the signal likely reflects comorbidity confounding (RA patients' elevated thromboembolic risk) rather than a therapeutic mechanism.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (currently a blocking data gap — required before any S1 safety screening)
+- Confirmed mechanism of action data for rivaroxaban (currently a data gap)
+- A preclinical or mechanistic study establishing a plausible anti-inflammatory/immunomodulatory pathway, if one exists, before this candidate can move beyond S0
+- Epidemiological analysis adjusting for comorbidity confounding to determine whether the TxGNN association reflects treatment effect or population overlap
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

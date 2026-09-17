@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fesoterodine
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Fesoterodine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Fesoterodine is a peripherally-selective M3 muscarinic receptor antagonist used 
 | Predicted New Indication | Polycystic Kidney Disease 3 with or without Polycystic Liver Disease |
 | TxGNN Prediction Score | 91.13% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (未上市) |
+| EU Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -86,7 +86,7 @@ Currently no related clinical trials registered
 
 ## EU Market Information
 
-No EU marketing authorizations are on file for Fesoterodine in this dataset — the drug is recorded as **not marketed** (未上市), with 0 registered licenses.
+No EU marketing authorizations are on file for Fesoterodine in this dataset — the drug is recorded as **not marketed** (Not marketed), with 0 registered licenses.
 
 ---
 

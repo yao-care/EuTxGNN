@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Desloratadine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 178
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Desloratadine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ The TxGNN model predicts it may be effective for **Cold Urticaria (acquired cold
 | Predicted New Indication | Cold Urticaria |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L1 |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -94,7 +94,7 @@ Desloratadine currently has **no marketing authorizations in Taiwan**. No licens
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. Full TFDA label warnings and contraindications were not available in this Evidence Pack (Data Gap DG001: TFDA 仿單警語/禁忌, severity: Blocking).
+Please refer to the SmPC for safety information. Full TFDA label warnings and contraindications were not available in this Evidence Pack (Data Gap DG001: EMA package insert warnings/contraindications, severity: Blocking).
 
 ---
 

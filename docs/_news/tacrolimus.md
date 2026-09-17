@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Tacrolimus 相關新聞"
-parent: 健康新聞
+title: "Tacrolimus News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Tacrolimus 的相關健康新聞報導。原適應症：Prophylaxis of transplant rejection in adult kidne...。預測適應症 20 個。"
+description: "Health news related to Tacrolimus. Original indication: Prophylaxis of transplant rejection in adult kidne.... 20 predicted indications."
 permalink: /news/tacrolimus/
 ---
 
-# Tacrolimus 相關新聞
+# Tacrolimus News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Tacrolimus?">
+<strong>Tacrolimus</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Tacrolimus 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Tacrolimus with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Prophylaxis of transplant rejection in adult kidney or liver allograft recipients. Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products in adult...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>atopic eczema（99.6%）</li>
-<li>seborrheic dermatitis（99.3%）</li>
-<li>parapsoriasis（99.2%）</li>
-<li>dermatitis, atopic（99.2%）</li>
-<li>dermatitis（99.2%）</li>
-<li>acute lichenoid pityriasis（98.9%）</li>
-<li>acrodermatitis chronica atrophicans（98.7%）</li>
-<li>rheumatoid arthritis（98.7%）</li>
-<li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 soriasi</span></li>
-<li>neonatal dermatomyositis（98.6%）</li>
-<li>exanthem (disease)（98.6%）</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
-<li>amyopathic dermatomyositis（98.5%）</li>
-<li>bronchitis（98.4%）</li>
-<li>pityriasis lichenoides（98.2%）</li>
-<li>hydroa vacciniforme, familial（98.2%）</li>
-<li>brachydactyly-syndactyly syndrome（97.8%）</li>
-<li>pustulosis palmaris et plantaris（97.8%）</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（97.6%）</li>
+<li><strong>Original indication</strong>: Prophylaxis of transplant rejection in adult kidney or liver allograft recipients. Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products in adult...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>atopic eczema (99.6%)</li>
+<li>seborrheic dermatitis (99.3%)</li>
+<li>parapsoriasis (99.2%)</li>
+<li>dermatitis, atopic (99.2%)</li>
+<li>dermatitis (99.2%)</li>
+<li>acute lichenoid pityriasis (98.9%)</li>
+<li>acrodermatitis chronica atrophicans (98.7%)</li>
+<li>rheumatoid arthritis (98.7%)</li>
+<li>acne keloid (98.7%)</li>
+<li class="indication-matched">psoriasis (98.7%)<span class="indication-tag">📰 soriasi</span></li>
+<li>neonatal dermatomyositis (98.6%)</li>
+<li>exanthem (disease) (98.6%)</li>
+<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (98.6%)</li>
+<li>amyopathic dermatomyositis (98.5%)</li>
+<li>bronchitis (98.4%)</li>
+<li>pityriasis lichenoides (98.2%)</li>
+<li>hydroa vacciniforme, familial (98.2%)</li>
+<li>brachydactyly-syndactyly syndrome (97.8%)</li>
+<li>pustulosis palmaris et plantaris (97.8%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (97.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## Related News (3)
 
 ### [Un especialista insiste en que la psoriasis pustulosa generalizada es multisistémica y precisa abordaje multidisciplinar](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2ZyYThwVFZHTzBpUzhvbk9kNGR1bW9Rc1ptWEwyZUhFYUp0a3ZUVXg4a05kV2FOQ09SMGZjVWY5eXhSVkVIeHNMSExORkY4ZnAwbnB1dk1oWDcxRFU4NlRJUUdmbVdPTGN5QnZPa1lhZjl6UHBZVDI3VFpVbmxLNGFHT1hSd0NvQ1UwY1BKR2E0S29xYUp6czNjaUxtb2JZQXowVjhPd3RMN1dyTk01LWd4bXRTVVZpSzEyVUdoZUNXbnl4a3Nxb2o3b3Z3Um1FMGM0aHhTdy1uV2NNaEtqZzhkV3dzbFR4T2fSAe8BQVVfeXFMUEVNSkoyam1XNlltUzVWY0RxUFlUMEJjV0NJS3dXcVhQSWExaHIwMnRMMlhEcFpMUDdCQW5Ba2hSNzZ5eWc3N0k0VURaU2NrZjlOYkw0VDNyUk40N1V4aUdIVWFuOHJ0bS1qcEowMWFzQ2RGZnoyUHNqVGpFNk40X0tpRzI2Vi1udTJaSXE3QTZnVXZ6NDJQd1o3UDBrdlVSNVBRMy1HRTlYQ29mT0lTZkJzaUczYnFwNm9VOFl5QXIwU2hWZU44NmlUd1ZqUVI2OVF5eXNKNUc5a3VEZ0JKSDF0eFVPM0pTdFAyVGpMbzQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">psoriasis</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2ZyYThwVFZHTzBpUzhvbk9kNGR1bW9Rc1ptWEwyZUhFYUp0a3ZUVXg4a05kV2FOQ09SMGZjVWY5eXhSVkVIeHNMSExORkY4ZnAwbnB1dk1oWDcxRFU4NlRJUUdmbVdPTGN5QnZPa1lhZjl6UHBZVDI3VFpVbmxLNGFHT1hSd0NvQ1UwY1BKR2E0S29xYUp6czNjaUxtb2JZQXowVjhPd3RMN1dyTk01LWd4bXRTVVZpSzEyVUdoZUNXbnl4a3Nxb2o3b3Z3Um1FMGM0aHhTdy1uV2NNaEtqZzhkV3dzbFR4T2fSAe8BQVVfeXFMUEVNSkoyam1XNlltUzVWY0RxUFlUMEJjV0NJS3dXcVhQSWExaHIwMnRMMlhEcFpMUDdCQW5Ba2hSNzZ5eWc3N0k0VURaU2NrZjlOYkw0VDNyUk40N1V4aUdIVWFuOHJ0bS1qcEowMWFzQ2RGZnoyUHNqVGpFNk40X0tpRzI2Vi1udTJaSXE3QTZnVXZ6NDJQd1o3UDBrdlVSNVBRMy1HRTlYQ29mT0lTZkJzaUczYnFwNm9VOFl5QXIwU2hWZU44NmlUd1ZqUVI2OVF5eXNKNUc5a3VEZ0JKSDF0eFVPM0pTdFAyVGpMbzQ?oc=5)
+Source: [Demócrata](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2ZyYThwVFZHTzBpUzhvbk9kNGR1bW9Rc1ptWEwyZUhFYUp0a3ZUVXg4a05kV2FOQ09SMGZjVWY5eXhSVkVIeHNMSExORkY4ZnAwbnB1dk1oWDcxRFU4NlRJUUdmbVdPTGN5QnZPa1lhZjl6UHBZVDI3VFpVbmxLNGFHT1hSd0NvQ1UwY1BKR2E0S29xYUp6czNjaUxtb2JZQXowVjhPd3RMN1dyTk01LWd4bXRTVVZpSzEyVUdoZUNXbnl4a3Nxb2o3b3Z3Um1FMGM0aHhTdy1uV2NNaEtqZzhkV3dzbFR4T2fSAe8BQVVfeXFMUEVNSkoyam1XNlltUzVWY0RxUFlUMEJjV0NJS3dXcVhQSWExaHIwMnRMMlhEcFpMUDdCQW5Ba2hSNzZ5eWc3N0k0VURaU2NrZjlOYkw0VDNyUk40N1V4aUdIVWFuOHJ0bS1qcEowMWFzQ2RGZnoyUHNqVGpFNk40X0tpRzI2Vi1udTJaSXE3QTZnVXZ6NDJQd1o3UDBrdlVSNVBRMy1HRTlYQ29mT0lTZkJzaUczYnFwNm9VOFl5QXIwU2hWZU44NmlUd1ZqUVI2OVF5eXNKNUc5a3VEZ0JKSDF0eFVPM0pTdFAyVGpMbzQ?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/tacrolimus/
 
 2026-09-13 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
+Source: [pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
 
 ---
 
@@ -74,13 +74,13 @@ permalink: /news/tacrolimus/
 
 2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+Source: [pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

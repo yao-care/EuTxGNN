@@ -1,132 +1,92 @@
 ---
 layout: default
 title: Vardenafil
-description: "Vardenafil drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 622
+nav_order: 633
 evidence_level: L5
-indication_count: 52
+indication_count: 10
 ---
 
 # Vardenafil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Vardenafil: From Unspecified Original Indication to Amenorrhea
+
+## One-Sentence Summary
+
+Vardenafil's original approved indication is not specified in this Evidence Pack (a confirmed data gap), though the accompanying rationale text characterizes it as a phosphodiesterase type 5 (PDE5) inhibitor acting on the vascular smooth muscle cGMP pathway. The TxGNN model predicts a possible new application in **Amenorrhea**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic analysis explicitly found no known biological link between PDE5 inhibition and the pathways that govern amenorrhea.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Vardenafil |
-| DrugBank ID | [DB00862](https://go.drugbank.com/drugs/DB00862) |
-| Brand Names (EU) | Levitra |
+| Item | Content |
+|------|------|
+| Original Indication | Not specified in Evidence Pack (data gap) |
+| Predicted New Indication | Amenorrhea |
+| TxGNN Prediction Score | 98.37% |
 | Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 98.37% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism of action data for vardenafil is not available in this Evidence Pack (flagged internally as data gap **DG002**, High severity). Based on the rationale text accompanying this prediction, vardenafil is classified as a phosphodiesterase type 5 (PDE5) inhibitor — a drug class that acts on the vascular smooth muscle cGMP signalling pathway.
+
+No information on vardenafil's original approved indication is included in this Evidence Pack, and no marketing authorizations are recorded for the target market (0 licenses, status: Not Marketed). This significantly limits any comparison between the original clinical use and the newly predicted indication.
+
+Importantly, the evidence pack's own mechanistic assessment explicitly states that there is **no known direct connection** between the PDE5/cGMP vascular smooth-muscle pathway and the hypothalamic-pituitary-ovarian axis mechanisms that regulate menstruation, and no supporting literature was identified for this pairing. This indicates the prediction is driven purely by the TxGNN knowledge-graph model's statistical pattern-matching, without an established or currently plausible biological rationale.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## EU Market Information
+
+Vardenafil currently holds no marketing authorizations within the scope of this Evidence Pack (market status: Not Marketed; 0 authorizations recorded).
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This is an L5 (AI-prediction-only) candidate with zero clinical trials, zero supporting literature, and an explicit statement in the evidence pack's own mechanistic rationale that no known biological link exists between PDE5 inhibition and amenorrhea. There is currently no basis to advance this candidate beyond hypothesis generation.
+
+**To proceed, the following is needed:**
+- Vardenafil's official mechanism of action (query DrugBank API — resolves data gap DG002)
+- Regulatory label warnings and contraindications (download and parse the official product label — resolves data gap DG001, blocking for safety pre-screening)
+- Original approved indication and licensing data for the target market
+- Independent literature or preclinical mechanistic studies specifically linking PDE5 inhibition to hypothalamic-pituitary-ovarian axis physiology, before this candidate can move past hypothesis stage
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Treatment of erectile dysfunction in adult men. Erectile dysfunction is the inability to achieve or maintain a penile erection sufficient for satisfactory sexual performance. In order for Levitra to be effective, sexual stimulation is required. Levitra is not indicated for use by women.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | amenorrhea (disease) | 98.37% | DL |
-| 2 | hypoalphalipoproteinemia | 98.17% | DL |
-| 3 | erectile dysfunction (disease) | 98.16% | DL |
-| 4 | Ambras type hypertrichosis universalis congenita | 96.91% | DL |
-| 5 | obsolete susceptibility to ischemic stroke | 96.16% | DL |
-| 6 | malformation syndrome with odontal and/or periodontal component | 95.19% | DL |
-| 7 | syndrome with a Dandy-Walker malformation as major feature | 94.46% | DL |
-| 8 | isolated genetic hair shaft abnormality | 93.98% | DL |
-| 9 | hypertrichosis (disease) | 93.20% | DL |
-| 10 | malignant catarrh | 91.86% | DL |
-| 11 | infectious bovine rhinotracheitis | 91.86% | DL |
-| 12 | duodenogastric reflux | 88.45% | DL |
-| 13 | duodenal obstruction | 87.73% | DL |
-| 14 | ABri amyloidosis | 86.54% | DL |
-| 15 | cytomegalovirus infection | 85.92% | DL |
-| 16 | familial isolated trichomegaly | 84.39% | DL |
-| 17 | stroke disorder | 81.85% | DL |
-| 18 | duodenal ulcer (disease) | 78.99% | DL |
-| 19 | adrenal gland hyperfunction | 74.60% | DL |
-| 20 | hypercarotenemia and vitamin A deficiency, autosomal recessive | 67.74% | DL |
-
-*Showing top 20 of 52 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

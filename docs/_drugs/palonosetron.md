@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Palonosetron
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 448
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Palonosetron
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ The TxGNN model predicts it may be effective for **Migraine Disorder**, but this
 | Predicted New Indication | Migraine Disorder |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L4 |
-| EU Market Status | 未上市 (Not marketed) |
+| EU Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -78,13 +78,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-This drug is not currently marketed in this jurisdiction (`market_status: 未上市`, 0 total authorizations). No marketing authorization records are available to extract indication text from.
+This drug is not currently marketed in this jurisdiction (`market_status: Not marketed`, 0 total authorizations). No marketing authorization records are available to extract indication text from.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug interaction data are not available in the current evidence pack — flagged as `DG001: TFDA 仿單警語/禁忌`, severity Blocking.)
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug interaction data are not available in the current evidence pack — flagged as `DG001: EMA package insert warnings/contraindications`, severity Blocking.)
 
 ---
 

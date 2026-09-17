@@ -1,132 +1,104 @@
 ---
 layout: default
 title: Tigecycline
-description: "Tigecycline drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 580
-evidence_level: L5
-indication_count: 50
+parent: Medium Evidence (L3-L4)
+nav_order: 591
+evidence_level: L4
+indication_count: 10
 ---
 
 # Tigecycline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tigecycline: From Bacterial Infections to Disorder of Tyrosine Metabolism
+
+## One-Sentence Summary
+
+> Tigecycline is a glycylcycline-class antibiotic originally used to treat bacterial infections.
+> The TxGNN model predicts potential efficacy for **Disorder of Tyrosine Metabolism**, but the supporting evidence appears to be a label/knowledge-graph mismatch —
+> the single associated trial and most of the **4 publications** actually concern tigecycline's mitochondrial-inhibition effects in leukemia and myeloma, not tyrosine metabolism, and the drug currently holds **no marketing authorization** in the EU.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tigecycline |
-| DrugBank ID | [DB00560](https://go.drugbank.com/drugs/DB00560) |
-| Brand Names (EU) | Tigecycline Accord |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 95.76% |
+| Item | Content |
+|------|------|
+| Original Indication | Bacterial infections (glycylcycline antibiotic class; no formal indication text on file — see Data Gap DG001) |
+| Predicted New Indication | Disorder of Tyrosine Metabolism |
+| TxGNN Prediction Score | 95.76% |
+| Evidence Level | L4 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available in the Evidence Pack (Data Gap DG002). Based on information found within the supporting literature itself, tigecycline is a glycylcycline antibiotic (a tetracycline derivative) that inhibits bacterial protein synthesis by binding the 30S ribosomal subunit and is used for complicated infections. This antimicrobial mechanism has no established biological pathway connecting it to tyrosine catabolism, the enzymatic pathway underlying disorder of tyrosine metabolism — a rare inherited metabolic disease.
+
+The original indication (bacterial infection) and the predicted new indication (a congenital metabolic disorder) sit in entirely different disease domains, and the Evidence Pack itself flags this as a likely label/knowledge-graph mismatch. Rather than supporting the tyrosine-metabolism label, the one associated clinical trial (NCT02883036) and three of the four cited publications actually investigate a different, better-characterized signal: tigecycline's inhibition of mitochondrial protein synthesis (mitoribosome/OXPHOS), which has shown activity against chronic myeloid leukemia stem cells and, in a separately ranked prediction, multiple myeloma cells (see rank #10, monoclonal gammopathy, which carries the same mechanistic signal with more coherent supporting literature).
+
+Only one cited publication (PMID 41009505) touches tangentially on tyrosine metabolism — via melanocyte pigmentation, since melanin is a downstream product of tyrosine catabolism — but this concerns a cutaneous adverse-effect pathway, not a therapeutic mechanism for the metabolic disorder itself. Given this, the predicted indication should be treated as a low-confidence model output that requires knowledge-graph node-mapping verification before any further evaluation.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02883036](https://clinicaltrials.gov/study/NCT02883036) | N/A | Unknown | 100 | Studies changes in mitochondrial biogenesis and metabolic characteristics with tigecycline treatment in chronic myeloid leukemia (CML) in vitro; not directly related to tyrosine metabolism. |
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29404396](https://pubmed.ncbi.nlm.nih.gov/29404396/) | 2018 | Commentary/Review | Molecular & Cellular Oncology | Summarizes findings that tigecycline plus imatinib disrupts mitochondrial respiration to eradicate CML leukemic stem cells. |
+| [31765940](https://pubmed.ncbi.nlm.nih.gov/31765940/) | 2020 | Preclinical (mechanistic) | Neoplasia | Targeting mitochondrial OXPHOS (relevant to tigecycline's mechanism) eradicates EGFR-TKI-resistant lung adenocarcinoma cancer stem cells. |
+| [41009505](https://pubmed.ncbi.nlm.nih.gov/41009505/) | 2025 | Preclinical (in vitro) | International Journal of Molecular Sciences | Tigecycline affects human epidermal melanocyte and fibroblast homeostasis, linked to its melanin-binding affinity and pigmentary/phototoxic skin adverse effects — tangential connection to tyrosine/melanin pathway, not a therapeutic mechanism. |
+| [28920959](https://pubmed.ncbi.nlm.nih.gov/28920959/) | 2017 | Preclinical (in vitro/in vivo mechanistic) | Nature Medicine | Targeting mitochondrial oxidative phosphorylation eradicates therapy-resistant CML leukemic stem cells; tigecycline used as OXPHOS inhibitor. |
+
+**Note:** None of the above evidence directly addresses tyrosine metabolism disorder; the cluster of evidence instead supports a mitochondrial-OXPHOS-inhibition mechanism relevant to hematologic malignancies (see rank #10, monoclonal gammopathy).
+
+## EU Market Information
+
+Tigecycline currently holds no marketing authorization on file in the EU dataset (0 authorizations, market status: Not Marketed).
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. Key warnings, contraindications, and drug interaction data are not currently available in this Evidence Pack (Data Gap DG001, classified as Blocking for safety assessment).
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- The predicted disease label (disorder of tyrosine metabolism) does not match the actual content of the supporting trial and literature, which instead describe a mitochondrial-OXPHOS mechanism relevant to hematologic malignancies — this is most likely a knowledge-graph node-mapping error rather than a genuine repurposing signal.
+- The drug has no EU marketing authorization, and blocking safety data (TFDA labeling/warnings, DG001) and mechanism-of-action data (DG002) are both missing, so this candidate cannot proceed past S0/S1 review.
+
+**To proceed, the following is needed:**
+- Verify the TxGNN knowledge-graph node mapping for "disorder of tyrosine metabolism" against tigecycline to rule out a label/entity mismatch.
+- Obtain TFDA/EMA label warnings and contraindications (Data Gap DG001) before any safety evaluation.
+- Obtain formal mechanism-of-action data from DrugBank (Data Gap DG002).
+- Consider re-scoping this candidate toward the mitochondrial-OXPHOS-inhibition signal actually supported by the evidence (e.g., rank #10, monoclonal gammopathy/multiple myeloma, which is already at decision stage S1 with a "Research Question" recommendation and coherent mechanistic literature) rather than pursuing the tyrosine-metabolism label as currently ranked.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Tygecycline Accord is indicated in adults and in children from the age of eight years for the treatment of the following infections (see sections 4.4 and 5.1):  Complicated skin and soft tissue infections (cSSTI), excluding diabetic foot infections (see section 4.4) Complicated intra-abdominal infections (cIAI)  Tygecycline Accord should be used only in situations where other alternative antibiotics are not suitable (see sections 4.4, 4.8 and 5.1). Consideration should be given to official guida
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | disorder of tyrosine metabolism | 95.76% | DL |
-| 2 | teratogenic Pierre Robin syndrome | 95.33% | DL |
-| 3 | tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria | 94.91% | DL |
-| 4 | disorder of phenylalanine metabolism | 93.60% | DL |
-| 5 | hyperamylasemia | 93.55% | DL |
-| 6 | polyclonal hyperviscosity syndrome | 93.55% | DL |
-| 7 | congenital analbuminemia | 92.84% | DL |
-| 8 | blood group incompatibility | 91.94% | DL |
-| 9 | premalignant hematological system disease | 91.75% | DL |
-| 10 | monoclonal gammopathy | 90.87% | DL |
-| 11 | hematological disease associated with an acquired peripheral neuropathy | 90.25% | DL |
-| 12 | pyelonephritis | 90.05% | DL |
-| 13 | congenital hematological disorder | 89.02% | DL |
-| 14 | septicemic plague | 88.14% | DL |
-| 15 | streptococcal pneumonia | 88.04% | DL |
-| 16 | neonatal epileptic encephalopathy due to glutaminase deficiency | 84.90% | DL |
-| 17 | semicircular canal dehiscence syndrome | 84.79% | DL |
-| 18 | idiopathic bilateral vestibulopathy | 84.79% | DL |
-| 19 | genetic otorhinolaryngological malformation | 84.65% | DL |
-| 20 | inborn disorder of phenylalanin or tyrosine metabolism | 84.48% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Daratumumab
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 164
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Daratumumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ with **1 clinical trial** (indirect evidence) and **5 publications** currently s
 | Predicted New Indication | Indolent Plasma Cell Myeloma |
 | TxGNN Prediction Score | 98.13% |
 | Evidence Level | L3 |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

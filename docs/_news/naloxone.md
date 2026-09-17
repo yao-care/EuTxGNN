@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Naloxone 相關新聞"
-parent: 健康新聞
+title: "Naloxone News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Naloxone 的相關健康新聞報導。原適應症：Substitution treatment for opioid-drug dependence,...。預測適應症 20 個。"
+description: "Health news related to Naloxone. Original indication: Substitution treatment for opioid-drug dependence,.... 20 predicted indications."
 permalink: /news/naloxone/
 ---
 
-# Naloxone 相關新聞
+# Naloxone News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Naloxone 有什麼相關新聞？">
-<strong>Naloxone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Naloxone?">
+<strong>Naloxone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Naloxone 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Naloxone with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>opiate dependence（97.4%）</li>
-<li>morphine dependence（96.7%）</li>
-<li>substance abuse/dependence（91.5%）</li>
-<li>continuous spikes and waves during sleep（88.2%）</li>
-<li>lissencephaly with cerebellar hypoplasia（87.4%）</li>
-<li>progressive encephalopathy with leukodystrophy due to DECR deficiency（87.2%）</li>
-<li>schizophreniform disorder（86.3%）</li>
-<li>nasal cavity disease（84.8%）</li>
-<li>psychotic disorder（82.6%）</li>
-<li>hypoglycemia（81.5%）</li>
-<li>acute pulmonary heart disease（80.9%）</li>
-<li>drug-induced dyskinesia（80.6%）</li>
-<li>acute laryngopharyngitis（80.6%）</li>
-<li>early-onset familial noncirrhotic portal hypertension（80.2%）</li>
-<li>idiopathic copper-associated cirrhosis（80.2%）</li>
-<li>primitive portal vein thrombosis（80.2%）</li>
-<li>hepatopulmonary syndrome（80.2%）</li>
-<li>hepatoportal sclerosis（80.2%）</li>
-<li>acute intermittent porphyria（79.8%）</li>
-<li>congestive heart failure（79.6%）</li>
+<li><strong>Original indication</strong>: Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>opiate dependence (97.4%)</li>
+<li>morphine dependence (96.7%)</li>
+<li>substance abuse/dependence (91.5%)</li>
+<li>continuous spikes and waves during sleep (88.2%)</li>
+<li>lissencephaly with cerebellar hypoplasia (87.4%)</li>
+<li>progressive encephalopathy with leukodystrophy due to DECR deficiency (87.2%)</li>
+<li>schizophreniform disorder (86.3%)</li>
+<li>nasal cavity disease (84.8%)</li>
+<li>psychotic disorder (82.6%)</li>
+<li>hypoglycemia (81.5%)</li>
+<li>acute pulmonary heart disease (80.9%)</li>
+<li>drug-induced dyskinesia (80.6%)</li>
+<li>acute laryngopharyngitis (80.6%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (80.2%)</li>
+<li>idiopathic copper-associated cirrhosis (80.2%)</li>
+<li>primitive portal vein thrombosis (80.2%)</li>
+<li>hepatopulmonary syndrome (80.2%)</li>
+<li>hepatoportal sclerosis (80.2%)</li>
+<li>acute intermittent porphyria (79.8%)</li>
+<li>congestive heart failure (79.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/naloxone/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/naloxone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

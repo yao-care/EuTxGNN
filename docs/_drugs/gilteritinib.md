@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Gilteritinib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 274
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Gilteritinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Gilteritinib is a FLT3/AXL tyrosine kinase inhibitor approved for FLT3-mutation-
 | Predicted New Indication | Myelodysplastic/Myeloproliferative Disease |
 | TxGNN Prediction Score | 96.99% (rank 23,875 by raw score) |
 | Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -74,7 +74,7 @@ This is reinforced by a directly relevant, currently recruiting Phase 1/2 trial 
 
 ## Taiwan Market Information
 
-Gilteritinib currently has **no marketing authorization in Taiwan** (market status: 未上市, 0 licenses on record). This is a Blocking-severity data gap (DG001: TFDA label/warnings unavailable) — safety labeling and local regulatory approval status must be confirmed via the TFDA before any repurposing pathway can proceed locally.
+Gilteritinib currently has **no marketing authorization in Taiwan** (market status: Not marketed, 0 licenses on record). This is a Blocking-severity data gap (DG001: TFDA label/warnings unavailable) — safety labeling and local regulatory approval status must be confirmed via the TFDA before any repurposing pathway can proceed locally.
 
 ## Cytotoxicity
 

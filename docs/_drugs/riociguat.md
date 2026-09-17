@@ -1,132 +1,117 @@
 ---
 layout: default
 title: Riociguat
-description: "Riociguat drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 495
-evidence_level: L5
-indication_count: 50
+parent: High Evidence (L1-L2)
+nav_order: 507
+evidence_level: L1
+indication_count: 10
 ---
 
 # Riociguat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+Using the drug-repurposing report template to produce the evaluation for Riociguat.
+
+Note on indication selection: the evidence pack's own annotations flag the raw top-5 TxGNN hits (Ambras hypertrichosis, odontal malformation syndrome, Dandy-Walker syndrome, hair-shaft abnormality, isolated hypertrichosis) as "embedding-space noise" with no mechanistic link and zero clinical/literature support (all L5/Hold). I selected the highest-quality, evidence-triaged candidate instead — **pulmonary arterial hypertension associated with connective tissue disease (CTD-PAH)**, rank 9, which carries L1 evidence and a "Proceed with Guardrails" recommendation from the pack's own scoring — because reporting the raw #1 hit would be clinically misleading.
+
+---
+
+# Riociguat: From Pulmonary Arterial Hypertension to PAH Associated with Connective Tissue Disease
+
+## One-Sentence Summary
+
+> Riociguat is a soluble guanylate cyclase (sGC) stimulator originally used for pulmonary arterial hypertension (PAH) and chronic thromboembolic pulmonary hypertension.
+> The evidence-triaged TxGNN analysis supports extending its use to **PAH associated with connective tissue disease (CTD-PAH)**, a recognized WHO Group 1 PAH subtype,
+> with a dedicated Phase 3 subgroup analysis (PATENT-1/2) and **12 supporting publications** currently backing this direction. No dedicated CTD-PAH interventional trial (with registered NCT number) currently exists.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Riociguat |
-| DrugBank ID | [DB08931](https://go.drugbank.com/drugs/DB08931) |
-| Brand Names (EU) | Adempas |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 94.92% |
+| Item | Content |
+|------|------|
+| Original Indication | Not specified in the regulatory data provided (0 licenses on file); trial context indicates riociguat is an approved sGC stimulator for pulmonary arterial hypertension |
+| Predicted New Indication | Pulmonary arterial hypertension associated with connective tissue disease (CTD-PAH) |
+| TxGNN Prediction Score | 91.55% |
+| Evidence Level | L1 |
+| EU Market Status | Not marketed (per available regulatory data) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
+
+## Why is This Prediction Reasonable?
+
+Detailed formal mechanism-of-action data was not available in the regulatory record (flagged as a blocking data gap). However, the supporting evidence in this pack consistently describes riociguat as an sGC stimulator acting on the sGC–cGMP vasodilatory pathway — the same mechanism underlying its established efficacy in idiopathic/heritable PAH, as demonstrated in the pivotal PATENT-1 (Phase 3, randomized, double-blind, placebo-controlled) and PATENT-2 (long-term open-label extension) trials.
+
+CTD-PAH is classified as a WHO Group 1 PAH subtype, sharing the same underlying pulmonary vascular remodeling pathophysiology as idiopathic PAH. Because PATENT-1/2 pre-specified CTD-PAH as a subgroup, dedicated subgroup efficacy and safety data already exist (Humbert et al., *Ann Rheum Dis* 2017), directly supporting mechanistic and clinical plausibility rather than relying on TxGNN embedding similarity alone.
+
+A second candidate identified through the same evidence-triage process — PAH associated with congenital heart disease (CHD-PAH, rank 6) — is also a WHO Group 1 subtype with L1-level PATENT subgroup evidence (Rosenkranz et al., *Heart* 2015), reinforcing that riociguat's mechanism generalizes reasonably across Group 1 PAH etiologies. By contrast, the raw top-5 TxGNN outputs (hypertrichosis syndromes, dental/periodontal malformation syndrome, Dandy-Walker malformation) have no plausible vascular mechanism, no clinical trials, and largely disease-cluster/topic-overlap literature unrelated to riociguat — these were excluded from further consideration despite higher raw model scores.
+
+## Clinical Trial Evidence
+
+Currently no dedicated interventional clinical trials registered specifically for CTD-PAH with riociguat as the primary study drug (all supporting clinical data derive from the pre-specified PATENT-1/2 subgroup analysis, documented as literature below rather than as a distinct registered trial).
+
+*For reference, the mechanistically related CHD-PAH subtype (rank 6) has one ongoing Phase 4 trial:*
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT07356778](https://clinicaltrials.gov/study/NCT07356778) | Phase 4 | Recruiting | 36 | Sotatercept add-on vs. standard PAH pulmonary vasodilator therapy (riociguat as background/comparator therapy) in adults with PAH from unrepaired congenital shunts, including Eisenmenger syndrome |
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27457511](https://pubmed.ncbi.nlm.nih.gov/27457511/) | 2017 | RCT (subgroup analysis) | Ann Rheum Dis | PATENT-1/2 prospective subgroup analysis: efficacy and safety of riociguat specifically in PAH-CTD patients |
+| [38378970](https://pubmed.ncbi.nlm.nih.gov/38378970/) | 2024 | Systematic Review / Meta-analysis | Intern Emerg Med | Meta-analysis of RCTs (incl. riociguat) in CTD-PAH: functional class, survival, 6MWD outcomes |
+| [28671485](https://pubmed.ncbi.nlm.nih.gov/28671485/) | 2017 | Cohort (open-label switch) | Pulm Circ | Case series switching PDE-5 inhibitor to riociguat in CTD-PAH (incl. systemic sclerosis) patients |
+| [40331647](https://pubmed.ncbi.nlm.nih.gov/40331647/) | 2025 | Cohort (prospective observation) | Kardiologiia | Long-term survival analysis in PAH associated with immune-mediated rheumatic disease, including riociguat-treated patients |
+| [33131480](https://pubmed.ncbi.nlm.nih.gov/33131480/) | 2020 | Review | Kardiologiia | Role of riociguat in treatment of PAH associated with systemic connective tissue diseases |
+| [37765060](https://pubmed.ncbi.nlm.nih.gov/37765060/) | 2023 | Review | Pharmaceuticals (Basel) | Recent advances in treatment of CTD-associated PAH, including sGC stimulator class |
+| [35412560](https://pubmed.ncbi.nlm.nih.gov/35412560/) | 2022 | Review | JAMA | General diagnosis/treatment review of PAH, contextualizing sGC-stimulator class |
+| [27941129](https://pubmed.ncbi.nlm.nih.gov/27941129/) | 2017 | Guideline | Ann Rheum Dis | EULAR recommendations for systemic sclerosis treatment, incl. PAH management |
+| [40592721](https://pubmed.ncbi.nlm.nih.gov/40592721/) | 2025 | Review | RMD Open | New horizons in systemic sclerosis treatment, including PAH-directed therapy |
+| [39985455](https://pubmed.ncbi.nlm.nih.gov/39985455/) | 2025 | Preclinical | Rheumatology (Oxford) | Characterization of avenciguat, a novel sGC activator (successor class to riociguat) with antifibrotic effects in SSc preclinical models |
+
+## EU Market Information
+
+No marketing authorization records are present in the regulatory data provided (0 licenses; market status: not marketed). Real-world regulatory context indicates riociguat is approved elsewhere as Adempas® for PAH and CTEPH, but this could not be independently confirmed from the supplied evidence pack.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. Key warnings, contraindications, and drug-drug interaction data were not available in this evidence pack (flagged as a blocking data gap — DG001).
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+CTD-PAH is a WHO Group 1 PAH subtype with a pre-specified, Phase 3 pivotal-trial subgroup analysis (PATENT-1/2) directly supporting riociguat's efficacy and safety, giving this prediction L1-level evidence — substantially stronger than the raw TxGNN top-ranked outputs, which lack any mechanistic or clinical support. However, this remains subgroup-level evidence rather than a dedicated primary indication trial, and critical safety/regulatory data gaps remain unresolved.
+
+**To proceed, the following is needed:**
+- TFDA/EMA SmPC warnings, contraindications, and DDI data (currently blocking — DG001)
+- Formal, structured mechanism-of-action documentation from DrugBank (currently high-severity gap — DG002)
+- Consideration of a dedicated CTD-PAH interventional trial (current evidence is a pre-specified subgroup analysis, not a primary-endpoint trial for this indication)
+- Regulatory confirmation of riociguat's EU marketing/authorization status, which could not be verified from the supplied data
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Chronic thromboembolic pulmonary hypertension (CTEPH) Adempas is indicated for the treatment of adult patients with WHO Functional Class (FC) II to III with  inoperable CTEPH, persistent or recurrent CTEPH after surgical treatment, to improve exercise capacity.  Pulmonary arterial hypertension (PAH) AdultsAdempas, as monotherapy or in combination with endothelin receptor antagonists, is indicated for the treatment of adult patients with pulmonary arterial hypertension (PAH) with WHO Functional C
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | Ambras type hypertrichosis universalis congenita | 94.92% | DL |
-| 2 | malformation syndrome with odontal and/or periodontal component | 94.45% | DL |
-| 3 | syndrome with a Dandy-Walker malformation as major feature | 94.27% | DL |
-| 4 | isolated genetic hair shaft abnormality | 94.05% | DL |
-| 5 | hypertrichosis (disease) | 93.81% | DL |
-| 6 | pulmonary arterial hypertension associated with congenital heart disease | 92.58% | DL |
-| 7 | pulmonary arteriovenous malformation (disease) | 92.08% | DL |
-| 8 | pulmonary arterial hypertension associated with chronic hemolytic anemia | 91.55% | DL |
-| 9 | pulmonary arterial hypertension associated with HIV infection | 91.55% | DL |
-| 10 | pulmonary arterial hypertension associated with schistosomiasis | 91.55% | DL |
-| 11 | pulmonary arterial hypertension associated with connective tissue disease | 91.55% | DL |
-| 12 | pulmonary arterial hypertension | 90.64% | DL |
-| 13 | hypotrichosis simplex of the scalp | 87.51% | DL |
-| 14 | congenital hypotrichosis milia | 85.94% | DL |
-| 15 | diffuse alopecia areata | 84.93% | DL |
-| 16 | polycystic kidney disease 3 with or without polycystic liver disease | 82.61% | DL |
-| 17 | syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy | 81.56% | DL |
-| 18 | thoracic malformation | 81.55% | DL |
-| 19 | adult familial nephronophthisis-spastic quadriparesia syndrome | 79.91% | DL |
-| 20 | renal-hepatic-pancreatic dysplasia | 79.67% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

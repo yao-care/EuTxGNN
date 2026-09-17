@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Vestronidase Alfa 相關新聞"
-parent: 健康新聞
+title: "Vestronidase Alfa News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Vestronidase Alfa 的相關健康新聞報導。原適應症：Mepsevii is indicated for the treatment of non-neu...。預測適應症 20 個。"
+description: "Health news related to Vestronidase Alfa. Original indication: Mepsevii is indicated for the treatment of non-neu.... 20 predicted indications."
 permalink: /news/vestronidase-alfa/
 ---
 
-# Vestronidase Alfa 相關新聞
+# Vestronidase Alfa News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Vestronidase Alfa 有什麼相關新聞？">
-<strong>Vestronidase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Vestronidase Alfa?">
+<strong>Vestronidase Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Vestronidase Alfa 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Vestronidase Alfa with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Mepsevii is indicated for the treatment of non-neurological manifestations of Mucopolysaccharidosis VII (MPS VII; Sly syndrome).</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>Scheie syndrome（99.9%）</li>
-<li>lysosomal storage disease with skeletal involvement（99.6%）</li>
-<li>Hurler syndrome（99.4%）</li>
-<li>Sanfilippo syndrome（99.4%）</li>
-<li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye（99.1%）</li>
-<li>ptosis-vocal cord paralysis syndrome（99.1%）</li>
-<li>ptosis-strabismus-ectopic pupils syndrome（99.0%）</li>
-<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome（99.0%）</li>
-<li>congenital Horner syndrome (disease)（99.0%）</li>
-<li>congenital entropion（98.9%）</li>
-<li>jaw-winking syndrome（98.9%）</li>
-<li>lysosomal disease with hypertrophic cardiomyopathy（98.8%）</li>
-<li>congenital ectropion（98.8%）</li>
-<li>epiblepharon（98.8%）</li>
-<li>syndromic neurometabolic disease with X-linked intellectual disability（98.8%）</li>
-<li>mucopolysaccharidosis（98.7%）</li>
-<li>eyelids malposition disorder（98.7%）</li>
-<li>Hurler-Scheie syndrome（97.5%）</li>
-<li>Steel syndrome（96.6%）</li>
-<li>inborn disorder of lysosomal amino acid transport（95.4%）</li>
+<li><strong>Original indication</strong>: Mepsevii is indicated for the treatment of non-neurological manifestations of Mucopolysaccharidosis VII (MPS VII; Sly syndrome).</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>Scheie syndrome (99.9%)</li>
+<li>lysosomal storage disease with skeletal involvement (99.6%)</li>
+<li>Hurler syndrome (99.4%)</li>
+<li>Sanfilippo syndrome (99.4%)</li>
+<li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye (99.1%)</li>
+<li>ptosis-vocal cord paralysis syndrome (99.1%)</li>
+<li>ptosis-strabismus-ectopic pupils syndrome (99.0%)</li>
+<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome (99.0%)</li>
+<li>congenital Horner syndrome (disease) (99.0%)</li>
+<li>congenital entropion (98.9%)</li>
+<li>jaw-winking syndrome (98.9%)</li>
+<li>lysosomal disease with hypertrophic cardiomyopathy (98.8%)</li>
+<li>congenital ectropion (98.8%)</li>
+<li>epiblepharon (98.8%)</li>
+<li>syndromic neurometabolic disease with X-linked intellectual disability (98.8%)</li>
+<li>mucopolysaccharidosis (98.7%)</li>
+<li>eyelids malposition disorder (98.7%)</li>
+<li>Hurler-Scheie syndrome (97.5%)</li>
+<li>Steel syndrome (96.6%)</li>
+<li>inborn disorder of lysosomal amino acid transport (95.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vestronidase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/vestronidase-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

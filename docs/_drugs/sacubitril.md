@@ -1,132 +1,120 @@
 ---
 layout: default
 title: Sacubitril
-description: "Sacubitril drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 514
+nav_order: 526
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Sacubitril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Sacubitril: From Heart Failure (ARNI Combination Component) to Brain Small Vessel Disease 1 with or without Ocular Anomalies
+
+## One-Sentence Summary
+
+> Sacubitril is the neprilysin-inhibitor prodrug component of the ARNI combination Sacubitril/Valsartan (Entresto), which has established efficacy in heart failure; sacubitril alone holds no standalone EU marketing authorization.
+> The TxGNN model's top-ranked prediction for this compound is **Brain Small Vessel Disease 1 with or without Ocular Anomalies**, but this pairing is supported by **0 clinical trials** and **18 publications that are all mechanistically unrelated** (mostly ophthalmic/genetic case reports), indicating the prediction is very likely disease-ontology matching noise rather than a genuine drug-disease signal.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Sacubitril |
-| DrugBank ID | [DB09292](https://go.drugbank.com/drugs/DB09292) |
-| Brand Names (EU) | Sacubitril |
+| Item | Content |
+|------|------|
+| Original Indication | Not captured in evidence pack for standalone Sacubitril (no EU mono-substance authorization); as background context, Sacubitril is the prodrug component of Sacubitril/Valsartan (Entresto), approved for heart failure with reduced ejection fraction |
+| Predicted New Indication | Brain Small Vessel Disease 1 with or without Ocular Anomalies |
+| TxGNN Prediction Score | 99.58% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.58% |
+| EU Market Status | ✗ Not Marketed (as standalone substance) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Paediatric heart failure Neparvis is indicated in children and adolescents aged one year or older for treatment of symptomatic chronic heart failure with left ventricular systolic dysfunction (see section 5.1). Adult heart failure Neparvis is indicated in adult patients for treatment of symptomatic chronic heart failure with reduced&nbsp;ejection fraction (see section 5.1).
+Detailed mechanism of action data for standalone Sacubitril is currently unavailable in this evidence pack (flagged as a High-severity data gap, DG002). Based on general pharmacological knowledge, Sacubitril is a prodrug that is converted to LBQ657, an inhibitor of neprilysin (neutral endopeptidase). By blocking the breakdown of natriuretic peptides (ANP/BNP), it potentiates natriuresis, vasodilation, and anti-fibrotic signaling — the basis of its use as a component of the ARNI combination for heart failure.
 
----
+**However, this specific top-ranked prediction does not have a plausible mechanistic link.** Brain small vessel disease 1 with or without ocular anomalies is a rare monogenic vasculopathy caused by *COL4A1* mutations, affecting basement membrane collagen integrity — a pathway with no established connection to neprilysin inhibition or natriuretic peptide signaling. The 18 associated publications are almost entirely case reports and reviews on unrelated congenital ophthalmic/craniofacial syndromes (e.g., Axenfeld-Rieger syndrome, ocular coloboma, holoprosencephaly, tilted disc syndrome), none of which mention Sacubitril or neprilysin. This pattern is consistent with **disease-ontology co-occurrence noise** in the knowledge graph rather than a true drug-repurposing signal.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | brain small vessel disease 1 with or without ocular anomalies | 99.58% | DL |
-| 2 | autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 99.57% | DL |
-| 3 | diabetic nephropathy | 99.50% | DL |
-| 4 | rheumatoid arthritis | 99.35% | DL |
-| 5 | hemoglobinopathy | 99.18% | DL |
-| 6 | sclerosing cholangitis | 98.92% | DL |
-| 7 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 98.92% | DL |
-| 8 | homozygous familial hypercholesterolemia | 98.87% | DL |
-| 9 | partial deletion of the short arm of chromosome 16 | 98.85% | DL |
-| 10 | beta-thalassemia with other manifestations | 98.83% | DL |
-| 11 | blindness (disorder) | 98.80% | DL |
-| 12 | pyropoikilocytosis, hereditary | 98.78% | DL |
-| 13 | migraine disorder | 98.75% | DL |
-| 14 | migraine with brainstem aura | 98.65% | DL |
-| 15 | brachydactyly-syndactyly syndrome | 98.65% | DL |
-| 16 | pyruvate kinase deficiency of red cells | 98.64% | DL |
-| 17 | hemolytic anemia due to glucophosphate isomerase deficiency | 98.63% | DL |
-| 18 | gout | 98.60% | DL |
-| 19 | postmenopausal osteoporosis | 98.56% | DL |
-| 20 | myocardial infarction | 98.49% | DL |
-
-*Showing top 20 of 50 predictions.*
+Notably, a lower-ranked candidate in this same prediction set — **diabetic nephropathy (rank 3, L3 evidence)** — has a far more biologically coherent rationale (natriuretic-peptide-mediated renoprotection) and is backed by preclinical models, one completed real-world study, and one not-yet-recruiting Phase 4 RCT. Decision-makers reviewing this drug may wish to prioritize that candidate over the nominal top-ranked (but likely spurious) prediction discussed here.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for Brain Small Vessel Disease 1 with or without Ocular Anomalies.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+All 18 retrieved publications concern unrelated congenital ophthalmic, craniofacial, or genetic syndromes and do not reference Sacubitril or its mechanism of action. They are listed below for completeness, with a note that none provide supporting evidence for this drug-disease pairing.
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [35882526](https://pubmed.ncbi.nlm.nih.gov/35882526/) | 2023 | Review (unrelated) | J Med Genet | Overview of Axenfeld-Rieger syndrome phenotypes; no mention of Sacubitril |
+| [6782689](https://pubmed.ncbi.nlm.nih.gov/6782689/) | 1981 | Review (unrelated) | Surv Ophthalmol | General review of ocular coloboma etiology |
+| [30182440](https://pubmed.ncbi.nlm.nih.gov/30182440/) | 2018 | Review (unrelated) | Am J Med Genet C | Neuropathology of holoprosencephaly |
+| [33870948](https://pubmed.ncbi.nlm.nih.gov/33870948/) | 2022 | Case series (unrelated) | J Neuroophthalmol | Optic nerve aplasia case findings |
+| [11941259](https://pubmed.ncbi.nlm.nih.gov/11941259/) | 2002 | Review (unrelated) | J Fr Ophtalmol | Congenital megalocornea review |
+| [10498002](https://pubmed.ncbi.nlm.nih.gov/10498002/) | 1999 | Review (unrelated) | Optom Vis Sci | Tilted disc syndrome morphology |
+| [6390155](https://pubmed.ncbi.nlm.nih.gov/6390155/) | 1983 | Review (unrelated) | Neurol Clin | Optic disk abnormalities overview |
+| [1458324](https://pubmed.ncbi.nlm.nih.gov/1458324/) | 1992 | Review (unrelated, veterinary) | Vet Clin North Am Equine Pract | Congenital ocular anomalies in horses |
+| [16848213](https://pubmed.ncbi.nlm.nih.gov/16848213/) | 2006 | Case report (unrelated) | Acta Med Croatica | Distichiasis case description |
+| [22963965](https://pubmed.ncbi.nlm.nih.gov/22963965/) | 2012 | Case report (unrelated) | Ann Dermatol Venereol | Branchio-oculo-facial syndrome case |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EU marketing authorizations were found for standalone Sacubitril (`total_licenses: 0`). Sacubitril is only marketed in the EU as a component of the fixed-dose combination Sacubitril/Valsartan (Entresto); no combination-product license data was included in this evidence pack.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. Key warnings, contraindications, and drug-drug interaction data are not available in the current evidence pack (flagged as a Blocking data gap, DG001 — TFDA/regulatory label warnings and contraindications).
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked TxGNN prediction (Brain Small Vessel Disease 1 with or without Ocular Anomalies) has a high model score but no plausible mechanistic link, zero clinical trials, and literature that is entirely unrelated to Sacubitril's pharmacology — consistent with disease-ontology matching noise rather than a genuine repurposing signal.
+
+**To proceed, the following is needed:**
+- Resolve Blocking data gap DG001 (regulatory label warnings/contraindications) before any safety evaluation can proceed
+- Resolve High-severity data gap DG002 (confirmed MOA data via DrugBank API) to properly assess mechanistic plausibility for any candidate indication
+- If pursuing repurposing work for this compound, prioritize evaluation of the **diabetic nephropathy** candidate (rank 3, L3 evidence, "Research Question" stage) instead, given its stronger mechanistic rationale and existing preclinical/clinical data
+- Review the TxGNN disease-ontology mapping pipeline to filter out low-plausibility rare-disease predictions like this one before they reach reporting stage
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Darifenacin
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Darifenacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ however, **0 clinical trials** specifically address this combination, and the **
 | Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
 | TxGNN Prediction Score | 96.93% |
 | Evidence Level | L5 |
-| EU Market Status | 未上市 (Not currently marketed) |
+| EU Market Status | Not marketed (Not currently marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -92,7 +92,7 @@ The following publications address polycystic kidney/liver disease biology that 
 
 ## EU Market Status
 
-Darifenacin is **not currently marketed** in this regulatory dataset (market status: 未上市; 0 authorizations on record). No marketing authorization entries were retrieved.
+Darifenacin is **not currently marketed** in this regulatory dataset (market status: Not marketed; 0 authorizations on record). No marketing authorization entries were retrieved.
 
 For contextual reference: Darifenacin (brand name Emselex®) previously held EMA authorization for overactive bladder; availability in individual EU markets should be verified against current EMA product databases. The absence of active licensing data means no SmPC-derived safety information was accessible through this pipeline.
 

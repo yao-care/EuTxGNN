@@ -1,132 +1,106 @@
 ---
 layout: default
 title: Tenecteplase
-description: "Tenecteplase drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 567
+nav_order: 578
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Tenecteplase
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tenecteplase: From Acute Myocardial Infarction (Thrombolysis) to Posterolateral Myocardial Infarction
+
+## One-Sentence Summary
+
+Tenecteplase is a fibrin-specific plasminogen activator (thrombolytic agent); formal original-indication text and detailed mechanism-of-action data are not available in this dataset, but contextual evidence points to use in acute myocardial infarction/thrombosis. The TxGNN model predicts it may be effective for **Posterolateral Myocardial Infarction**, but this specific prediction is currently **not supported by any clinical trial or literature** — it is a model-only signal.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tenecteplase |
-| DrugBank ID | [DB00031](https://go.drugbank.com/drugs/DB00031) |
-| Brand Names (EU) | Metalyse |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.91% |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in current dataset (regulatory record shows 0 EU licenses; see Data Gap DG001) — contextually implied to be acute myocardial infarction / arterial thrombosis based on thrombolytic mechanism |
+| Predicted New Indication | Posterolateral Myocardial Infarction |
+| TxGNN Prediction Score | 99.87% |
+| Evidence Level | L5 (model prediction only — no clinical trials, no literature) |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Metalyse is indicated for the thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours after the onset of acute-myocardial-infarction symptoms. Metalyse is indicated in adults for the thrombolytic treatment of acute ischaemic stroke (AIS) within 4.5 hours from last known well and after exclusion of intracranial haemorrhage.
+Currently, detailed mechanism of action data is not directly available for tenecteplase (marked as a Data Gap, DG002). However, other entries within this Evidence Pack consistently describe tenecteplase as acting through **plasminogen activation** (fibrinolysis), i.e. it is a thrombolytic agent that breaks down blood clots. Literature retrieved for related predictions in this pack (e.g. PMID 18183355, PMID 23975441) confirm real-world use of tenecteplase for thrombus-related acute myocardial infarction and pulmonary embolism, which is consistent with this mechanistic class.
 
----
+Posterolateral myocardial infarction is an anatomical subtype of myocardial infarction, distinguished by the coronary territory involved (posterolateral wall) rather than by a distinct underlying pathology. Since thrombolytic therapy targets the culprit coronary thrombus itself rather than a specific infarct location, the same biological rationale that supports tenecteplase in myocardial infarction generally would be expected to extend to this anatomical subtype.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | myocardial infarction | 99.91% | DL |
-| 2 | posteroinferior myocardial infarction | 99.87% | DL |
-| 3 | posterolateral myocardial infarction | 99.87% | DL |
-| 4 | septal myocardial infarction | 99.85% | DL |
-| 5 | coronary thrombosis | 99.80% | DL |
-| 6 | hemoglobinopathy | 99.69% | DL |
-| 7 | congenital coronary artery anomaly | 99.61% | DL |
-| 8 | coronary stenosis | 99.53% | DL |
-| 9 | myocardial infarction (disease) | 99.49% | DL |
-| 10 | partial deletion of the short arm of chromosome 16 | 99.34% | DL |
-| 11 | beta-thalassemia with other manifestations | 99.29% | DL |
-| 12 | hemolytic anemia due to glucophosphate isomerase deficiency | 99.26% | DL |
-| 13 | pyropoikilocytosis, hereditary | 99.20% | DL |
-| 14 | pyruvate kinase deficiency of red cells | 99.20% | DL |
-| 15 | heparin cofactor 2 deficiency | 96.66% | DL |
-| 16 | antithrombin deficiency type 2 | 95.48% | DL |
-| 17 | factor 5 excess with spontaneous thrombosis | 95.33% | DL |
-| 18 | thrombophilia | 94.76% | DL |
-| 19 | pulmonary embolism (disease) | 91.10% | DL |
-| 20 | acute coronary syndrome | 87.44% | DL |
-
-*Showing top 20 of 50 predictions.*
+This mechanistic plausibility is indirectly reinforced elsewhere in the Evidence Pack: other TxGNN-predicted MI subtypes for this drug (e.g. septal MI, coronary stenosis) are backed by actual clinical trial and literature evidence, including a completed Phase 2 trial (NCT00604695) and multiple studies on intracoronary tenecteplase during PCI for STEMI. This suggests the underlying knowledge-graph signal for "tenecteplase → myocardial infarction subtypes" reflects a real pharmacological relationship, even though the specific posterolateral subtype itself has not yet been directly studied.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorization records are present in this dataset (0 licenses on file). This should be verified against the EMA product database, as tenecteplase-containing products are known to be marketed in the EU under other names; the absence of records here likely reflects a data gap rather than confirmed non-authorization.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (posterolateral myocardial infarction, TxGNN score 99.87%) has no supporting clinical trials or literature (Evidence Level L5), and critical safety inputs — warnings, contraindications, and regulatory/market data — are all marked as data gaps, including a **blocking** gap (DG001) that prevents even an initial safety screen (S1).
+
+**To proceed, the following is needed:**
+- TFDA/EMA product label (SmPC) — warnings and contraindications (DG001, blocking)
+- Confirmed mechanism-of-action source from DrugBank (DG002)
+- Verification of EU marketing authorization status for tenecteplase (current record shows 0 licenses, which should be cross-checked against EMA's product register)
+- Indication-specific evidence for posterolateral MI; alternatively, consider evaluating the related "coronary stenosis" prediction (rank 5), which already has completed Phase 2 trial data (NCT00604695) and multiple supporting publications, as a stronger near-term repurposing candidate
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

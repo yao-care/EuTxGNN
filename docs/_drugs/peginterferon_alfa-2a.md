@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Peginterferon Alfa-2A
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 458
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Peginterferon Alfa-2A
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Peginterferon alfa-2a (DrugBank DB00008) is a pegylated interferon-alpha antivir
 | Predicted New Indication | Hepatitis B Virus Infection |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L1 |
-| EU Market Status | ✗ Not Marketed (未上市) |
+| EU Market Status | ✗ Not Marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails (pending resolution of a Blocking safety data gap — see Conclusion) |
 
@@ -97,7 +97,7 @@ Importantly, the scale of the clinical evidence base for this "prediction" is it
 
 ## EU Market Information
 
-No EU/TFDA marketing authorizations are currently on file for Peginterferon alfa-2a in this registry — market status is recorded as **未上市 (Not Marketed)** with **0 authorizations**. This is a real regulatory data point rather than a missing-data gap, and it should be confirmed against the current EMA product register before any registration decision is made.
+No EU/TFDA marketing authorizations are currently on file for Peginterferon alfa-2a in this registry — market status is recorded as **Not marketed (Not Marketed)** with **0 authorizations**. This is a real regulatory data point rather than a missing-data gap, and it should be confirmed against the current EMA product register before any registration decision is made.
 
 ---
 

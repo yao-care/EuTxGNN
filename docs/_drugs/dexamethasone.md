@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Dexamethasone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 180
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Dexamethasone is a potent synthetic glucocorticoid widely used for its anti-infl
 | Predicted New Indication | Alopecia Areata |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L2 |
-| Market Status | 未上市 (Not Marketed — regulatory data may be incomplete) |
+| Market Status | Not marketed (Not Marketed — regulatory data may be incomplete) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -93,7 +93,7 @@ A clinically important refinement is the **Oral Mini-Pulse (OMP) strategy**, in 
 
 ## EU Market Information
 
-No authorization records are available in the provided dataset (market status: 未上市; total authorizations: 0). Dexamethasone is a long-established generic corticosteroid present in pharmacopeias worldwide — the absence of authorization data likely reflects a retrieval gap in the current pipeline rather than true absence of approval. Manual verification against the EMA product database is recommended before any regulatory assessment.
+No authorization records are available in the provided dataset (market status: Not marketed; total authorizations: 0). Dexamethasone is a long-established generic corticosteroid present in pharmacopeias worldwide — the absence of authorization data likely reflects a retrieval gap in the current pipeline rather than true absence of approval. Manual verification against the EMA product database is recommended before any regulatory assessment.
 
 ---
 
@@ -115,7 +115,7 @@ The mechanistic alignment between dexamethasone's glucocorticoid immunosuppressi
 - **Resolve Blocking data gap (DG001):** Retrieve TFDA package insert (仿單) to extract warnings, contraindications, and drug interaction data — required before S1 safety review can proceed
 - **Resolve MOA data gap (DG002):** Query DrugBank API for DB01234 to formally document glucocorticoid receptor mechanism, receptor binding affinity, and known off-target effects
 - **Conduct targeted clinical trial search:** Re-run ClinicalTrials.gov with AA-specific MeSH terms combined with dexamethasone as the primary intervention to capture any registry entries missed by the current evidence search
-- **Clarify regulatory status:** Verify current EMA/EU authorization status for dexamethasone — existing data showing "未上市" is inconsistent with dexamethasone's known global availability and may reflect a pipeline error
+- **Clarify regulatory status:** Verify current EMA/EU authorization status for dexamethasone — existing data showing "Not marketed" is inconsistent with dexamethasone's known global availability and may reflect a pipeline error
 - **Assess formulation pathway:** Evaluate whether standard oral or IV pulse routes are clinically optimal, or whether novel follicle-targeting nanoparticle formulations (e.g., dexamethasone-loaded lipomers, PMID [33920403](https://pubmed.ncbi.nlm.nih.gov/33920403/) and [34452283](https://pubmed.ncbi.nlm.nih.gov/34452283/)) warrant inclusion in a development roadmap
 - **Define pediatric safety protocol:** Given that a disproportionate share of the evidence base involves pediatric patients, any clinical development plan should include age-stratified safety monitoring criteria and dose-adjustment guidelines
 ## Disclaimer

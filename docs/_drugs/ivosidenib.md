@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ivosidenib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 330
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ivosidenib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -84,7 +84,7 @@ Currently no related literature directly linking ivosidenib to MDS/MPN overlap s
 
 ## Taiwan Market Information
 
-Ivosidenib currently holds **no marketing authorization in Taiwan** (market status: 未上市). There are no Taiwan FDA (TFDA) licenses on record. Patients in Taiwan seeking access would require enrollment in a clinical trial or application for compassionate use / expanded access through TFDA.
+Ivosidenib currently holds **no marketing authorization in Taiwan** (market status: Not marketed). There are no Taiwan FDA (TFDA) licenses on record. Patients in Taiwan seeking access would require enrollment in a clinical trial or application for compassionate use / expanded access through TFDA.
 
 ---
 

@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Levetiracetam 相關新聞"
-parent: 健康新聞
+title: "Levetiracetam News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Levetiracetam 的相關健康新聞報導。原適應症：Keppra is indicated as monotherapy in the treatmen...。預測適應症 20 個。"
+description: "Health news related to Levetiracetam. Original indication: Keppra is indicated as monotherapy in the treatmen.... 20 predicted indications."
 permalink: /news/levetiracetam/
 ---
 
-# Levetiracetam 相關新聞
+# Levetiracetam News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Levetiracetam?">
+<strong>Levetiracetam</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Levetiracetam 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Levetiracetam with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Keppra is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy. Keppra is...</li>
-<li><strong>證據等級</strong>：L2</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>visual epilepsy（100.0%）</li>
-<li>audiogenic seizures（100.0%）</li>
-<li>eating seizures（100.0%）</li>
-<li>startle epilepsy（100.0%）</li>
-<li>micturation-induced seizures（100.0%）</li>
-<li>orgasm-induced seizures（100.0%）</li>
-<li>thinking seizures（100.0%）</li>
-<li>reading seizures（99.9%）</li>
-<li>status epilepticus（99.9%）</li>
-<li>beta-ketothiolase deficiency（99.9%）</li>
-<li>partial epilepsy（99.9%）</li>
-<li>14q12 microdeletion syndrome（99.9%）</li>
-<li>Rett syndrome, congenital variant（99.9%）</li>
-<li>restless legs syndrome（99.9%）</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.8%）</li>
-<li>epilepsy with generalized tonic-clonic seizures（99.8%）</li>
-<li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
-<li>partial motor epilepsy（99.6%）</li>
-<li>trigeminal nerve neoplasm（99.5%）</li>
-<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 epilepsia</span></li>
+<li><strong>Original indication</strong>: Keppra is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy. Keppra is...</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>visual epilepsy (100.0%)</li>
+<li>audiogenic seizures (100.0%)</li>
+<li>eating seizures (100.0%)</li>
+<li>startle epilepsy (100.0%)</li>
+<li>micturation-induced seizures (100.0%)</li>
+<li>orgasm-induced seizures (100.0%)</li>
+<li>thinking seizures (100.0%)</li>
+<li>reading seizures (99.9%)</li>
+<li>status epilepticus (99.9%)</li>
+<li>beta-ketothiolase deficiency (99.9%)</li>
+<li>partial epilepsy (99.9%)</li>
+<li>14q12 microdeletion syndrome (99.9%)</li>
+<li>Rett syndrome, congenital variant (99.9%)</li>
+<li>restless legs syndrome (99.9%)</li>
+<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (99.8%)</li>
+<li>epilepsy with generalized tonic-clonic seizures (99.8%)</li>
+<li>guanidinoacetate methyltransferase deficiency (99.8%)</li>
+<li>partial motor epilepsy (99.6%)</li>
+<li>trigeminal nerve neoplasm (99.5%)</li>
+<li class="indication-matched">epilepsy (99.2%)<span class="indication-tag">📰 epilepsia</span></li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## Related News (2)
 
 ### [La epilepsia es más común en países de bajos ingresos](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
 
 2026-09-13 <span class="news-indication-tag">epilepsia</span>
 
-來源：[theconversation.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
+Source: [theconversation.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
 
 ---
 
@@ -66,13 +66,13 @@ permalink: /news/levetiracetam/
 
 2026-09-13 <span class="news-indication-tag">epilepsia</span>
 
-來源：[UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
+Source: [UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

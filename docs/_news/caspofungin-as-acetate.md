@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Caspofungin (As Acetate) 相關新聞"
-parent: 健康新聞
+title: "Caspofungin (As Acetate) News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Caspofungin (As Acetate) 的相關健康新聞報導。原適應症：Treatment of invasive candidiasis in adult or paed...。預測適應症 20 個。"
+description: "Health news related to Caspofungin (As Acetate). Original indication: Treatment of invasive candidiasis in adult or paed.... 20 predicted indications."
 permalink: /news/caspofungin-as-acetate/
 ---
 
-# Caspofungin (As Acetate) 相關新聞
+# Caspofungin (As Acetate) News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Caspofungin (As Acetate) 有什麼相關新聞？">
-<strong>Caspofungin (As Acetate)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Caspofungin (As Acetate)?">
+<strong>Caspofungin (As Acetate)</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Caspofungin (As Acetate) 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Caspofungin (As Acetate) with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Treatment of invasive candidiasis in adult or paediatric patients; treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>gastrin secretion abnormality（99.4%）</li>
-<li>punctate epithelial keratoconjunctivitis（98.9%）</li>
-<li>esophageal candidiasis（98.2%）</li>
-<li>abnormality of glucagon secretion（97.7%）</li>
-<li>HIV infectious disease（96.7%）</li>
-<li>simian immunodeficiency virus infection（96.4%）</li>
-<li>feline acquired immunodeficiency syndrome（96.4%）</li>
-<li>exposure keratitis（95.8%）</li>
-<li>congenital candidiasis（95.2%）</li>
-<li>candida glabrata（95.2%）</li>
-<li>neonatal candidiasis（95.2%）</li>
-<li>candidiasis, invasive（95.0%）</li>
-<li>candidemia（95.0%）</li>
-<li>polyclonal hyperviscosity syndrome（94.6%）</li>
-<li>hyperamylasemia（94.6%）</li>
-<li>epidemic keratoconjunctivitis（94.2%）</li>
-<li>blood group incompatibility（94.2%）</li>
-<li>premalignant hematological system disease（93.9%）</li>
-<li>congenital analbuminemia（93.8%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（93.7%）</li>
+<li><strong>Original indication</strong>: Treatment of invasive candidiasis in adult or paediatric patients; treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>gastrin secretion abnormality (99.4%)</li>
+<li>punctate epithelial keratoconjunctivitis (98.9%)</li>
+<li>esophageal candidiasis (98.2%)</li>
+<li>abnormality of glucagon secretion (97.7%)</li>
+<li>HIV infectious disease (96.7%)</li>
+<li>simian immunodeficiency virus infection (96.4%)</li>
+<li>feline acquired immunodeficiency syndrome (96.4%)</li>
+<li>exposure keratitis (95.8%)</li>
+<li>congenital candidiasis (95.2%)</li>
+<li>candida glabrata (95.2%)</li>
+<li>neonatal candidiasis (95.2%)</li>
+<li>candidiasis, invasive (95.0%)</li>
+<li>candidemia (95.0%)</li>
+<li>polyclonal hyperviscosity syndrome (94.6%)</li>
+<li>hyperamylasemia (94.6%)</li>
+<li>epidemic keratoconjunctivitis (94.2%)</li>
+<li>blood group incompatibility (94.2%)</li>
+<li>premalignant hematological system disease (93.9%)</li>
+<li>congenital analbuminemia (93.8%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (93.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/caspofungin-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/caspofungin-as-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

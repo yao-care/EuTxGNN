@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Guselkumab
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 288
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Guselkumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -105,7 +105,7 @@ In other words, the TxGNN embedding similarity between psoriasis and ulcerative 
 
 ## EU Market Information
 
-No marketing authorization records are present in this Evidence Pack (`market_status: 未上市 / Not Marketed`, `total_licenses: 0`, `licenses: []`). This appears to be a data completeness gap rather than a confirmed absence of authorization, since Guselkumab (Tremfya) is independently known to be approved in multiple jurisdictions for psoriasis, psoriatic arthritis, and — per the literature evidence above — ulcerative colitis and Crohn's disease. **This section should be re-verified against the official EMA/national registry before any decision is finalized.**
+No marketing authorization records are present in this Evidence Pack (`market_status: Not marketed / Not Marketed`, `total_licenses: 0`, `licenses: []`). This appears to be a data completeness gap rather than a confirmed absence of authorization, since Guselkumab (Tremfya) is independently known to be approved in multiple jurisdictions for psoriasis, psoriatic arthritis, and — per the literature evidence above — ulcerative colitis and Crohn's disease. **This section should be re-verified against the official EMA/national registry before any decision is finalized.**
 
 ---
 
@@ -144,7 +144,7 @@ These should remain on Hold pending any future evidence and are not part of this
 **To proceed, the following is needed:**
 - Resolve DG001 (Blocking): obtain official label warnings/contraindications to complete S1 safety pre-screening
 - Resolve DG002 (High): confirm mechanism of action directly from DrugBank/EMA SmPC rather than inference
-- Verify actual EU/Taiwan marketing authorization status — the `未上市` / 0-license result in this pack conflicts with known external approvals and should be re-queried
+- Verify actual EU/Taiwan marketing authorization status — the `Not marketed` / 0-license result in this pack conflicts with known external approvals and should be re-queried
 - Complete a formal drug-drug interaction (DDI) query — current status is `not_found`, not confirmed-absent
 - Clarify `original_indications` (currently empty) to remove ambiguity between "known indication" and "new indication" in future evidence packs for this drug
 ## Disclaimer

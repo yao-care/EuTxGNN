@@ -1,134 +1,94 @@
 ---
 layout: default
 title: Riluzole
-description: "riluzole drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 493
+nav_order: 505
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Riluzole: From an Undocumented Original Indication to Bilateral Parasagittal Parieto-Occipital Polymicrogyria
+
+## One-Sentence Summary
+
+Riluzole's original indication is not recorded in this dataset's regulatory data (0 EU authorizations on file), though literature captured elsewhere in this evidence pack confirms it is an established glutamate-modulating therapy for amyotrophic lateral sclerosis (ALS). The TxGNN model's top-ranked prediction is **Bilateral Parasagittal Parieto-Occipital Polymicrogyria**, a rare cortical malformation, but this pairing has **zero clinical trials** and **zero publications** supporting it, and the model's own rationale flags the link as biologically implausible.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Riluzole |
-| DrugBank ID | [DB00740](https://go.drugbank.com/drugs/DB00740) |
-| Brand Names (EU) | Rilutek |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented in regulatory dataset (this evidence pack's own literature indicates established use in ALS — see note below) |
+| Predicted New Indication | Bilateral Parasagittal Parieto-Occipital Polymicrogyria |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.99% |
+| EU Market Status | Not Marketed (0 authorizations on file) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data for Riluzole is not available in this evidence pack. What can be reconstructed from the data itself is notable: several lower-ranked predictions in this pack (ranks 3, 5, 6, 7, 8, 10) all fall within the motor neuron disease spectrum, and the literature attached to rank 8 ("amyotrophic lateral sclerosis, susceptibility to") repeatedly identifies Riluzole as *"the only drug... shown to modestly prolong survival"* in ALS via inhibition of glutamatergic neurotransmission. This strongly suggests Riluzole's true, well-established indication is ALS — even though the `original_indications` field in this dataset is empty, which appears to be a data gap rather than a true absence of prior approval.
+
+Against that backdrop, the **rank 1 prediction (Bilateral Parasagittal Parieto-Occipital Polymicrogyria)** does not hold up. This is a neuronal migration/cortical development disorder, not a neurodegenerative motor neuron condition. The model's own repurposing rationale explicitly states there is "no clear pathophysiological connection" to Riluzole's anti-glutamatergic/neuroprotective mechanism, and attributes the high TxGNN score to **knowledge-graph node proximity rather than genuine mechanistic relevance**. No clinical trial or literature evidence exists to counter this concern.
+
+In short: this specific top-ranked candidate should be treated as a low-confidence, model-only signal. If a genuine repurposing opportunity exists in this dataset, it is more plausibly found among the motor-neuron-disease-adjacent candidates further down the ranked list (e.g., lower motor neuron syndrome with late-adult onset, monomelic amyotrophy, Mills syndrome), which share overlapping excitotoxic/motor neuron degeneration mechanisms with Riluzole's known pharmacology — though these too currently lack direct clinical trial or literature support and are marked only as "Research Question."
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+No EU marketing authorization records are available for Riluzole in this dataset. Market status is recorded as **Not Marketed**, with **0 licenses** on file — this itself is likely a data gap given Riluzole's known long-standing EU approval history for ALS, and should be verified against the EMA register before any downstream decision-making.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*(Note: key warnings, contraindications, and DDI data are all recorded as blocking data gaps in this evidence pack — see "To proceed" below.)*
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked predicted indication (Bilateral Parasagittal Parieto-Occipital Polymicrogyria) has no clinical trial or literature support, sits at the lowest evidence tier (L5), and the model's own rationale describes the mechanistic link as implausible / likely a graph-topology artifact. There is no basis to advance this specific candidate.
+
+**To proceed, the following is needed:**
+- Resolve the `original_indications` / EU licensing data gap for Riluzole — regulatory records show 0 authorizations, which conflicts with literature in this same pack indicating established ALS use; this should be reconciled against the EMA register.
+- Obtain TFDA/EMA label warnings and contraindications (currently a **Blocking** gap — DG001) before any safety evaluation (S1) can proceed.
+- Obtain confirmed mechanism-of-action data via DrugBank (currently a **High severity** gap — DG002).
+- If pursuing repurposing in the motor-neuron-disease space, redirect evaluation toward the mechanistically coherent candidates in this pack (e.g., lower motor neuron syndrome with late-adult onset, monomelic amyotrophy, Mills syndrome, ALS type 22) rather than the rank 1 candidate, and actively source clinical trial/literature evidence for those specific diagnoses.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Rilutek is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials have demonstrated that Rilutek extends survival for patients with ALS. Survival was defined as patients who were alive, not intubated for mechanical ventilation and tracheotomy-free. There is no evidence that Rilutek exerts a therapeutic effect on motor function, lung function, fasciculations, muscle strength and motor symptoms. Rilutek has not been sho
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | bilateral parasagittal parieto-occipital polymicrogyria | 99.99% | DL |
-| 2 | amyotrophic lateral sclerosis | 99.99% | DL |
-| 3 | axial spondylometaphyseal dysplasia | 99.99% | DL |
-| 4 | lower motor neuron syndrome with late-adult onset | 99.99% | DL |
-| 5 | trichomegaly-retina pigmentary degeneration-dwarfism syndrome | 99.99% | DL |
-| 6 | lethal arthrogryposis-anterior horn cell disease syndrome | 99.99% | DL |
-| 7 | monomelic amyotrophy | 99.99% | DL |
-| 8 | Mills syndrome | 99.98% | DL |
-| 9 | amyotrophic lateral sclerosis, susceptibility to | 99.98% | DL |
-| 10 | autosomal dominant mitochondrial myopathy with exercise intolerance | 99.98% | DL |
-| 11 | amyotrohpic lateral sclerosis type 22 | 99.98% | DL |
-| 12 | polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.70% | DL |
-| 13 | hydranencephaly (disease) | 99.67% | DL |
-| 14 | congenital disorder of glycosylation with defective fucosylation | 99.67% | DL |
-| 15 | schizophrenia | 99.66% | DL |
-| 16 | retinal dystrophy with or without extraocular anomalies | 99.64% | DL |
-| 17 | atypical glycine encephalopathy | 99.62% | DL |
-| 18 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 99.59% | DL |
-| 19 | myopia 26, X-linked, female-limited | 99.55% | DL |
-| 20 | syndromic myopia | 99.54% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

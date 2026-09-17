@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Andexanet Alfa 相關新聞"
-parent: 健康新聞
+title: "Andexanet Alfa News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Andexanet Alfa 的相關健康新聞報導。原適應症：For adult patients treated with a direct factor Xa...。預測適應症 20 個。"
+description: "Health news related to Andexanet Alfa. Original indication: For adult patients treated with a direct factor Xa.... 20 predicted indications."
 permalink: /news/andexanet-alfa/
 ---
 
-# Andexanet Alfa 相關新聞
+# Andexanet Alfa News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Andexanet Alfa 有什麼相關新聞？">
-<strong>Andexanet Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Andexanet Alfa?">
+<strong>Andexanet Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Andexanet Alfa 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Andexanet Alfa with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding.</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>Glanzmann thrombasthenia（99.8%）</li>
-<li>primary release disorder of platelets（99.8%）</li>
-<li>pseudo-von Willebrand disease（99.7%）</li>
-<li>hemophilia（99.1%）</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia（99.0%）</li>
-<li>bleeding diathesis due to a collagen receptor defect（98.9%）</li>
-<li>acquired coagulation factor deficiency（98.8%）</li>
-<li>Scott syndrome（98.7%）</li>
-<li>congenital prothrombin deficiency（98.4%）</li>
-<li>hereditary thrombocytosis with transverse limb defect（97.2%）</li>
-<li>familial thrombomodulin anomalies（97.1%）</li>
-<li>flood factor deficiency（97.1%）</li>
-<li>fetal and neonatal alloimmune thrombocytopenia（96.6%）</li>
-<li>platelet-type bleeding disorder（96.2%）</li>
-<li>methylcobalamin deficiency type cblG（94.6%）</li>
-<li>autosomal dominant macrothrombocytopenia（93.9%）</li>
-<li>drug-induced osteoporosis（93.8%）</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type（93.1%）</li>
-<li>renal osteodystrophy（91.2%）</li>
-<li>inherited thrombophilia（91.0%）</li>
+<li><strong>Original indication</strong>: For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>Glanzmann thrombasthenia (99.8%)</li>
+<li>primary release disorder of platelets (99.8%)</li>
+<li>pseudo-von Willebrand disease (99.7%)</li>
+<li>hemophilia (99.1%)</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.0%)</li>
+<li>bleeding diathesis due to a collagen receptor defect (98.9%)</li>
+<li>acquired coagulation factor deficiency (98.8%)</li>
+<li>Scott syndrome (98.7%)</li>
+<li>congenital prothrombin deficiency (98.4%)</li>
+<li>hereditary thrombocytosis with transverse limb defect (97.2%)</li>
+<li>familial thrombomodulin anomalies (97.1%)</li>
+<li>flood factor deficiency (97.1%)</li>
+<li>fetal and neonatal alloimmune thrombocytopenia (96.6%)</li>
+<li>platelet-type bleeding disorder (96.2%)</li>
+<li>methylcobalamin deficiency type cblG (94.6%)</li>
+<li>autosomal dominant macrothrombocytopenia (93.9%)</li>
+<li>drug-induced osteoporosis (93.8%)</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type (93.1%)</li>
+<li>renal osteodystrophy (91.2%)</li>
+<li>inherited thrombophilia (91.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/andexanet-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/andexanet-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

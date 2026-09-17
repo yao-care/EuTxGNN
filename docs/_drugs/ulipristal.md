@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Ulipristal
-description: "Ulipristal drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 614
+nav_order: 625
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Ulipristal
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Ulipristal: From Undocumented Original Indication to Rheumatoid Arthritis
+
+## One-Sentence Summary
+
+The original approved indication for ulipristal is not documented in the current evidence pack, and detailed mechanism of action data is also unavailable. The TxGNN model's top-ranked prediction suggests possible activity in **Rheumatoid Arthritis**, but this signal is supported by only **1 clinical trial** (graded as low-relevance/likely false positive) and **no supporting literature**.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ulipristal |
-| DrugBank ID | [DB08867](https://go.drugbank.com/drugs/DB08867) |
-| Brand Names (EU) | ellaOne |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented in the current evidence pack |
+| Predicted New Indication | Rheumatoid Arthritis |
+| TxGNN Prediction Score | 90.31% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 90.31% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Emergency contraception within 120 hours (five days) of unprotected sexual intercourse or contraceptive failure.
+Detailed mechanism of action data is not available for ulipristal in the current dataset. However, the model's own rationale text identifies ulipristal as a Selective Progesterone Receptor Modulator (SPRM) acting on progesterone and glucocorticoid receptor pathways — this class information comes from the repurposing rationale rather than a confirmed MOA record.
 
----
+Because the original approved indication is not documented in this evidence pack, no direct comparison can be made between the drug's established use and the newly predicted indication. More importantly, the rationale explicitly states that there is **no known mechanistic connection** between SPRM-mediated progesterone/glucocorticoid receptor modulation and the immune pathogenesis of rheumatoid arthritis. The evidence pack itself flags this association as likely arising from TxGNN embedding co-occurrence rather than any biological or clinical basis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | rheumatoid arthritis | 90.31% | DL |
-| 2 | primary release disorder of platelets | 89.72% | DL |
-| 3 | tendinitis | 88.98% | DL |
-| 4 | myositis fibrosa | 88.04% | DL |
-| 5 | idiopathic granulomatous myositis | 88.04% | DL |
-| 6 | pseudo-von Willebrand disease | 87.17% | DL |
-| 7 | Glanzmann thrombasthenia | 86.99% | DL |
-| 8 | brachydactyly-syndactyly syndrome | 86.83% | DL |
-| 9 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 86.13% | DL |
-| 10 | fibromyalgia | 85.63% | DL |
-| 11 | heart neoplasm | 85.01% | DL |
-| 12 | scalp dermatosis | 84.64% | DL |
-| 13 | thrombotic disease | 83.82% | DL |
-| 14 | indolent plasma cell myeloma | 83.80% | DL |
-| 15 | inclusion body myositis | 83.53% | DL |
-| 16 | amenorrhea (disease) | 82.88% | DL |
-| 17 | heart conduction disease | 82.36% | DL |
-| 18 | plasma cell myeloma | 82.28% | DL |
-| 19 | congenital anomaly of ventricular septum | 82.11% | DL |
-| 20 | conjunctivitis | 82.05% | DL |
-
-*Showing top 20 of 50 predictions.*
+This pattern is consistent across all ten top-ranked predictions in the dataset: every candidate is scored L5 (model prediction only), most have no clinical trial or literature evidence at all, and where a trial was retrieved (as with rheumatoid arthritis, rank 1), it was graded as clinically irrelevant to ulipristal. Overall, this prediction should be treated as a hypothesis-generating signal only, not as evidence of therapeutic potential.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04300465](https://clinicaltrials.gov/study/NCT04300465) | N/A | Unknown | 64 | Community-based lifestyle intervention program (MySláinte) targeting cardiovascular risk factors. Does not test ulipristal and is not a drug trial. Graded **C (low relevance)** — likely a false-positive co-occurrence from the knowledge graph rather than genuine supporting evidence. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Currently no EU marketing authorization found for this drug (market status: Not Marketed; total licenses: 0).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information. Key safety fields (warnings, contraindications, drug interactions) are not currently available in this evidence pack; this is flagged as a **Blocking** data gap that must be resolved before any safety-based decision can be made.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The only retrieved clinical trial is unrelated to ulipristal and graded as a likely false positive, no supporting literature exists, and the rationale text itself states there is no known mechanistic link between the drug's proposed pharmacology and rheumatoid arthritis. Combined with the absence of EU marketing authorization and missing safety label data, the evidence base is insufficient to advance this candidate.
+
+**To proceed, the following is needed:**
+- TFDA/EMA label warnings and contraindications (currently a Blocking data gap)
+- Confirmed original indication and mechanism of action (MOA) data for ulipristal
+- Preclinical or literature evidence establishing a plausible biological link between SPRM activity and rheumatoid arthritis pathogenesis
+- Additional, disease-specific clinical trials or case data actually testing ulipristal (or its pharmacological class) in autoimmune/inflammatory conditions
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

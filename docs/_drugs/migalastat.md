@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Migalastat
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 395
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Migalastat
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 模型預測其可能對**原發性肝門靜脈血栓形成（primitive po
 | 預測新適應症 | 原發性肝門靜脈血栓形成 |
 | TxGNN 預測分數 | 98.85% |
 | 證據等級 | L5（模型預測，無臨床/文獻證據） |
-| 台灣市場狀態 | 未上市 |
+| 台灣市場狀態 | Not marketed |
 | 許可證數量 | 0 |
 | 建議決策 | Hold |
 
@@ -77,13 +77,13 @@ TxGNN 模型預測其可能對**原發性肝門靜脈血栓形成（primitive po
 
 ## 台灣市場資訊
 
-此藥物於台灣**尚未取得任何許可證**（0 筆核准紀錄），市場狀態為「未上市」。因此無法提供國內核准適應症、劑型或許可證字號等資訊。
+此藥物於台灣**尚未取得任何許可證**（0 筆核准紀錄），市場狀態為「Not marketed」。因此無法提供國內核准適應症、劑型或許可證字號等資訊。
 
 ---
 
 ## 安全性考量
 
-請參閱原廠 SmPC（歐盟/美國仿單）以獲取安全性資訊。由於本藥物在台灣尚未上市，且 TFDA 仿單警語/禁忌資料為阻斷性資料缺口（DG001），目前無法完成 S1 安全性初評。
+請參閱原廠 SmPC（歐盟/美國仿單）以獲取安全性資訊。由於本藥物在台灣尚Not marketed，且 EMA package insert warnings/contraindications資料為阻斷性資料缺口（DG001），目前無法完成 S1 安全性初評。
 
 ---
 
@@ -92,7 +92,7 @@ TxGNN 模型預測其可能對**原發性肝門靜脈血栓形成（primitive po
 **決策：Hold**
 
 **理由：**
-本候選僅有 TxGNN 模型分數支持（L5，無臨床試驗、無文獻），且證據包內附的機轉分析已自行標註「機轉關聯薄弱／無直接關聯」；同時藥物在台未上市、TFDA 安全性資料為阻斷性缺口，目前不具備進入下一階段評估的條件。
+本候選僅有 TxGNN 模型分數支持（L5，無臨床試驗、無文獻），且證據包內附的機轉分析已自行標註「機轉關聯薄弱／無直接關聯」；同時藥物在台Not marketed、TFDA 安全性資料為阻斷性缺口，目前不具備進入下一階段評估的條件。
 
 **若要繼續推進，需要：**
 - 補齊 TFDA 仿單警語與禁忌資料（DG001，阻斷性缺口，需下載並解析 TFDA 仿單 PDF）

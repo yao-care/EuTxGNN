@@ -1,53 +1,53 @@
 ---
 layout: default
-title: "Carbidopa 相關新聞"
-parent: 健康新聞
+title: "Carbidopa News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Carbidopa 的相關健康新聞報導。原適應症：Stalevo is indicated for the treatment of adult pa...。預測適應症 9 個。"
+description: "Health news related to Carbidopa. Original indication: Stalevo is indicated for the treatment of adult pa.... 9 predicted indications."
 permalink: /news/carbidopa/
 ---
 
-# Carbidopa 相關新聞
+# Carbidopa News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
+<p class="key-answer" data-question="What news is there about Carbidopa?">
+<strong>Carbidopa</strong> currently has <strong>6 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Carbidopa 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Carbidopa with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Stalevo is indicated for the treatment of adult patients with Parkinson's disease and end-of-dose motor fluctuations not stabilised on levodopa / dopa-decarboxylase (DDC)-inhibitor treatment.</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（9 個）：<ul>
-<li>Rasmussen subacute encephalitis | 98.43% | L5 | Hold（99.0%）</li>
-<li>PLA2G6-associated neurodegeneration (PLAN) | 97.60% | L4 | Research Question（99.0%）</li>
-<li>Transaldolase deficiency | 97.40% | L5 | Hold（99.0%）</li>
-<li>Myelitis | 97.40% | L5 | Hold（99.0%）</li>
-<li>Fructose-1,6-bisphosphatase deficiency | 97.09% | L5 | Hold（99.0%）</li>
-<li>Paralysis agitans, juvenile, of Hunt | 95.60% | L5 | Research Question（99.0%）</li>
-<li>PSP-corticobasal syndrome | 95.36% | L4 | Hold（99.0%）</li>
-<li>X-linked intellectual disability-ataxia-apraxia (MCT8 deficiency) | 94.87% | L4 | Research Question（99.0%）</li>
-<li>X-linked intellectual disability-cerebellar hypoplasia | 93.72% | L4 | Hold（99.0%）</li>
+<li><strong>Original indication</strong>: Stalevo is indicated for the treatment of adult patients with Parkinson's disease and end-of-dose motor fluctuations not stabilised on levodopa / dopa-decarboxylase (DDC)-inhibitor treatment.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>Rasmussen subacute encephalitis | 98.43% | L5 | Hold (99.0%)</li>
+<li>PLA2G6-associated neurodegeneration (PLAN) | 97.60% | L4 | Research Question (99.0%)</li>
+<li>Transaldolase deficiency | 97.40% | L5 | Hold (99.0%)</li>
+<li>Myelitis | 97.40% | L5 | Hold (99.0%)</li>
+<li>Fructose-1,6-bisphosphatase deficiency | 97.09% | L5 | Hold (99.0%)</li>
+<li>Paralysis agitans, juvenile, of Hunt | 95.60% | L5 | Research Question (99.0%)</li>
+<li>PSP-corticobasal syndrome | 95.36% | L4 | Hold (99.0%)</li>
+<li>X-linked intellectual disability-ataxia-apraxia (MCT8 deficiency) | 94.87% | L4 | Research Question (99.0%)</li>
+<li>X-linked intellectual disability-cerebellar hypoplasia | 93.72% | L4 | Hold (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## Related News (6)
 
 ### [Pascual-Sánchez ve en la prevención precoz la gran esperanza frente al alzhéimer y apunta a los próximos cinco años](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
 
 ---
 
@@ -55,7 +55,7 @@ permalink: /news/carbidopa/
 
 2026-09-14 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
 
 ---
 
@@ -63,7 +63,7 @@ permalink: /news/carbidopa/
 
 2026-09-14 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
 
 ---
 
@@ -71,7 +71,7 @@ permalink: /news/carbidopa/
 
 2026-09-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
+Source: [gbnews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
 
 ---
 
@@ -79,7 +79,7 @@ permalink: /news/carbidopa/
 
 2026-09-13 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
 
 ---
 
@@ -87,13 +87,13 @@ permalink: /news/carbidopa/
 
 2026-09-11 <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

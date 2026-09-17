@@ -1,132 +1,95 @@
 ---
 layout: default
 title: Sarilumab
-description: "Sarilumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 516
+nav_order: 528
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Sarilumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+Using no additional skill — this is a direct content-generation task with a fully specified template; I'll follow the Evidence Pack extraction rules exactly.
+
+# Sarilumab: From Rheumatoid Arthritis to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+
+## One-Sentence Summary
+
+> Sarilumab is a human monoclonal antibody blocking the IL-6 receptor alpha (IL-6Rα), originally developed for rheumatoid arthritis (per literature on file; the drug currently holds no formal marketing authorization in this dataset).
+> The TxGNN model's top-ranked prediction is **Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome**,
+> but this candidate currently has **0 clinical trials** and **0 publications** supporting it, and has been flagged by evidence review as a likely knowledge-graph noise signal.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Sarilumab |
-| DrugBank ID | [DB11767](https://go.drugbank.com/drugs/DB11767) |
-| Brand Names (EU) | Kevzara |
+| Item | Content |
+|------|------|
+| Original Indication | Rheumatoid arthritis (identified from literature evidence in this pack; no formal EU/Taiwan marketing authorization on file) |
+| Predicted New Indication | Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome |
+| TxGNN Prediction Score | 98.50% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.17% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data is not directly recorded in the drug-level fields of this evidence pack. However, literature captured elsewhere in the pack (PMID 32451909) confirms that sarilumab is a human monoclonal antibody blocking the interleukin-6 receptor alpha (IL-6Rα), approved for moderately to severely active rheumatoid arthritis in adults with inadequate response or intolerance to conventional DMARDs.
+
+Colobomatous microphthalmia-rhizomelic dysplasia syndrome is a rare congenital disorder involving ocular coloboma/microphthalmia and skeletal (rhizomelic) dysplasia, driven by developmental gene abnormalities rather than cytokine-mediated inflammation. There is no known biological pathway connecting IL-6/IL-6R signaling to this developmental syndrome.
+
+The evidence review explicitly concludes this is a knowledge-graph noise prediction: the TxGNN embedding score is high, but there is no mechanistic plausibility, no clinical trial activity, and no literature support. This prediction should not be interpreted as a genuine repurposing signal for sarilumab.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+Sarilumab currently holds no recorded marketing authorization in this dataset (market status: **Not marketed**; 0 authorizations on file).
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked TxGNN prediction (colobomatous microphthalmia-rhizomelic dysplasia syndrome) has no supporting clinical trials, no supporting literature, and no plausible mechanistic link to IL-6Rα blockade — it is assessed as a model noise artifact rather than a genuine repurposing signal.
+
+**To proceed, the following is needed:**
+- Mechanism of action (MOA) data for sarilumab (currently a data gap, DG002)
+- TFDA/EU label warnings and contraindications (currently a data gap, DG001; blocking for any safety pre-assessment)
+- If repurposing exploration for sarilumab continues, evaluation should instead focus on the pack's mechanistically stronger candidates with existing L4 evidence — **inflammatory bowel disease** and **plasma cell myeloma** — both currently at decision stage S1 ("Research Question") rather than this noise-flagged L5 prediction
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Rheumatoid arthritisKevzara in combination with methotrexate (MTX) is indicated for the treatment of moderately to severely active rheumatoid arthritis (RA) in adult patients who have responded inadequately to, or who are intolerant to one or more disease modifying anti rheumatic drugs (DMARDs). Kevzara can be given as monotherapy in case of intolerance to MTX or when treatment with MTX is inappropriate.&nbsp;Polymyalgia rheumaticaKevzara is indicated for the treatment of polymyalgia rheumatica 
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | rheumatoid arthritis | 99.17% | DL |
-| 2 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 98.50% | DL |
-| 3 | brachydactyly-syndactyly syndrome | 98.41% | DL |
-| 4 | bronchitis | 74.53% | DL |
-| 5 | indolent plasma cell myeloma | 71.70% | DL |
-| 6 | inflammatory bowel disease | 68.80% | DL |
-| 7 | anus disease | 68.18% | DL |
-| 8 | granulomatous disease, chronic, autosomal recessive, 5 | 67.66% | DL |
-| 9 | plasma cell myeloma | 67.19% | DL |
-| 10 | Crohn disease of the esophagus | 66.15% | DL |
-| 11 | functional neutrophil defect | 65.65% | DL |
-| 12 | granulomatous disease with defect in neutrophil chemotaxis | 63.62% | DL |
-| 13 | cholangiocarcinoma, susceptibility to | 60.05% | DL |
-| 14 | acute articular rheumatism | 57.66% | DL |
-| 15 | milia, multiple eruptive | 56.66% | DL |
-| 16 | erythema nodosum, familial | 55.80% | DL |
-| 17 | polydipsia | 55.79% | DL |
-| 18 | polymorphic light eruption | 55.64% | DL |
-| 19 | reactive arthritis | 55.45% | DL |
-| 20 | FADD-related immunodeficiency | 55.38% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

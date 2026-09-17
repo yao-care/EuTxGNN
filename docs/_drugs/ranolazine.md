@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Ranolazine
-description: "Ranolazine drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 479
+nav_order: 491
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Ranolazine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Ranolazine: From Chronic Angina to Nephrogenic Syndrome of Inappropriate Antidiuresis
+
+## One-Sentence Summary
+
+Ranolazine is currently used as a second-line agent for chronic angina, acting through inhibition of the late/persistent cardiac sodium current (I_NaL). The TxGNN model's top-ranked prediction is **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, but this pairing currently has **zero clinical trials** and **zero publications**, and the model's own rationale states there is no known mechanistic link between the two.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ranolazine |
-| DrugBank ID | [DB00243](https://go.drugbank.com/drugs/DB00243) |
-| Brand Names (EU) | Ranexa (previously Latixa) |
+| Item | Content |
+|------|------|
+| Original Indication | Chronic angina (per literature reference PMID 41293236; not yet confirmed via an official EU/Taiwan regulatory label — see Data Gaps below) |
+| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
+| TxGNN Prediction Score | 99.65% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.65% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Ranexa is indicated as add-on therapy for the symptomatic treatment of patients with stable angina pectoris who are inadequately controlled or intolerant to first-line anti-anginal therapies (such as beta-blockers and / or calcium antagonists).
+A formal, sourced description of ranolazine's mechanism of action is not available in this evidence pack (`original_moa`: Data Gap). However, information embedded in the model's own rationale fields indicates ranolazine works by inhibiting the late cardiac sodium current (I_NaL), which reduces intracellular sodium/calcium overload in ischemic myocardium — the pharmacological basis for its established antianginal effect.
 
----
+NSIAD, by contrast, is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2), a renal water-handling pathway that is mechanistically unrelated to cardiac sodium channel modulation. The evidence pack's own repurposing rationale for this pairing is explicit: *"NSIAD is caused by AVPR2 gain-of-function mutations, with no known overlap with ranolazine's late cardiac sodium current inhibition mechanism; no reasonable biological connection."*
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | nephrogenic syndrome of inappropriate antidiuresis | 99.65% | DL |
-| 2 | rheumatoid arthritis | 99.00% | DL |
-| 3 | brachydactyly-syndactyly syndrome | 98.26% | DL |
-| 4 | myositis fibrosa | 97.80% | DL |
-| 5 | idiopathic granulomatous myositis | 97.80% | DL |
-| 6 | tendinitis | 97.76% | DL |
-| 7 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 97.64% | DL |
-| 8 | fibromyalgia | 97.63% | DL |
-| 9 | headache disorder | 97.36% | DL |
-| 10 | conjunctivitis | 97.26% | DL |
-| 11 | gout | 97.05% | DL |
-| 12 | nephrogenic diabetes insipidus | 96.90% | DL |
-| 13 | trigeminal autonomic cephalalgia | 96.76% | DL |
-| 14 | duodenal obstruction | 96.67% | DL |
-| 15 | pulmonary hypertension | 96.34% | DL |
-| 16 | gastrin secretion abnormality | 96.33% | DL |
-| 17 | bronchitis | 96.28% | DL |
-| 18 | duodenal ulcer (disease) | 96.25% | DL |
-| 19 | inclusion body myositis | 96.25% | DL |
-| 20 | kyphoscoliotic heart disease | 96.23% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given the complete absence of clinical trials, ICTRP registrations, or literature support, combined with this documented lack of mechanistic plausibility, the NSIAD prediction most likely reflects a knowledge-graph connectivity artifact rather than a genuine repurposing signal. Notably, of the 10 candidates in this evidence pack, **headache disorder (rank 9)** carries materially stronger support — three literature items, a plausible sodium-channel-related mechanism relevant to migraine, and evidence level L4 (decision stage S1, "Research Question") — and may be a more productive direction for further review, even though it is not the top-ranked TxGNN score.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Ranolazine currently holds **no EU marketing authorizations** on record in this evidence pack (0 licenses; market status: Not Marketed).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*Supplementary note:* a real-world pharmacovigilance analysis of ranolazine using the FAERS database (PMID [41293236](https://pubmed.ncbi.nlm.nih.gov/41293236/), 2025) is available in the literature associated with a different candidate indication (headache disorder) in this pack, and may be a useful starting point once formal label data (warnings/contraindications) is obtained.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked TxGNN prediction (NSIAD) has no supporting clinical or literature evidence, and its own documented mechanistic rationale confirms no plausible biological link to ranolazine's sodium-channel-based mode of action. Ranolazine also currently has no EU marketing authorization, adding a regulatory barrier on top of the scientific one.
+
+**To proceed, the following is needed:**
+- TFDA label warnings/contraindications (Data Gap DG001, *Blocking* — required before any S1 safety review)
+- Confirmed, sourced mechanism-of-action documentation (Data Gap DG002, *High*)
+- If repurposing is still of interest, re-prioritize evaluation toward candidates with actual evidence, in particular **headache disorder** (L4, S1, three supporting literature items) rather than the top TxGNN-score pairing
+- If NSIAD is to be pursued regardless, preclinical/mechanistic studies establishing a plausible pathway would be required before any clinical evidence search is warranted
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

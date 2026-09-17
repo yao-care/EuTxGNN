@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Human Thrombin 相關新聞"
-parent: 健康新聞
+title: "Human Thrombin News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Human Thrombin 的相關健康新聞報導。原適應症：TachoSil is indicated in adults and children from ...。預測適應症 20 個。"
+description: "Health news related to Human Thrombin. Original indication: TachoSil is indicated in adults and children from .... 20 predicted indications."
 permalink: /news/human-thrombin/
 ---
 
-# Human Thrombin 相關新聞
+# Human Thrombin News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Human Thrombin 有什麼相關新聞？">
-<strong>Human Thrombin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Human Thrombin?">
+<strong>Human Thrombin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Human Thrombin 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Human Thrombin with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：TachoSil is indicated in adults and children from 1 month of age for supportive treatment in surgery for improvement of haemostasis, to promote tissue sealing and for suture support in vascular...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>primary release disorder of platelets（97.0%）</li>
-<li>Glanzmann thrombasthenia（96.6%）</li>
-<li>pseudo-von Willebrand disease（96.5%）</li>
-<li>non-syndromic esophageal malformation（91.7%）</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia（91.7%）</li>
-<li>bleeding diathesis due to a collagen receptor defect（91.5%）</li>
-<li>Scott syndrome（91.5%）</li>
-<li>esophageal disease（86.5%）</li>
-<li>fetal and neonatal alloimmune thrombocytopenia（86.2%）</li>
-<li>platelet-type bleeding disorder（86.1%）</li>
-<li>hemophilia（83.7%）</li>
-<li>hereditary thrombocytosis with transverse limb defect（83.7%）</li>
-<li>flood factor deficiency（83.6%）</li>
-<li>familial thrombomodulin anomalies（83.6%）</li>
-<li>acquired coagulation factor deficiency（83.5%）</li>
-<li>severe nonproliferative diabetic retinopathy（83.1%）</li>
-<li>thrombocytopenia due to immune destruction（83.1%）</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type（82.3%）</li>
-<li>congenital factor V deficiency（81.7%）</li>
-<li>neonatal thrombocytopenia（81.4%）</li>
+<li><strong>Original indication</strong>: TachoSil is indicated in adults and children from 1 month of age for supportive treatment in surgery for improvement of haemostasis, to promote tissue sealing and for suture support in vascular...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>primary release disorder of platelets (97.0%)</li>
+<li>Glanzmann thrombasthenia (96.6%)</li>
+<li>pseudo-von Willebrand disease (96.5%)</li>
+<li>non-syndromic esophageal malformation (91.7%)</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia (91.7%)</li>
+<li>bleeding diathesis due to a collagen receptor defect (91.5%)</li>
+<li>Scott syndrome (91.5%)</li>
+<li>esophageal disease (86.5%)</li>
+<li>fetal and neonatal alloimmune thrombocytopenia (86.2%)</li>
+<li>platelet-type bleeding disorder (86.1%)</li>
+<li>hemophilia (83.7%)</li>
+<li>hereditary thrombocytosis with transverse limb defect (83.7%)</li>
+<li>flood factor deficiency (83.6%)</li>
+<li>familial thrombomodulin anomalies (83.6%)</li>
+<li>acquired coagulation factor deficiency (83.5%)</li>
+<li>severe nonproliferative diabetic retinopathy (83.1%)</li>
+<li>thrombocytopenia due to immune destruction (83.1%)</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type (82.3%)</li>
+<li>congenital factor V deficiency (81.7%)</li>
+<li>neonatal thrombocytopenia (81.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/human-thrombin/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/human-thrombin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

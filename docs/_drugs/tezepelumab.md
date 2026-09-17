@@ -1,132 +1,93 @@
 ---
 layout: default
 title: Tezepelumab
-description: "Tezepelumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 575
+nav_order: 586
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Tezepelumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tezepelumab: From Asthma to Diabetic Cataract
+
+## One-Sentence Summary
+
+Tezepelumab is a monoclonal antibody that inhibits TSLP, and based on the mechanistic evidence available in this pack it is used for asthma and other respiratory allergic inflammatory diseases. The TxGNN model predicts it may be effective for **Diabetic Cataract**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model prediction that the evidence pack's own mechanistic review flags as biologically implausible.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tezepelumab |
-| DrugBank ID | [DB15090](https://go.drugbank.com/drugs/DB15090) |
-| Brand Names (EU) | Tezspire |
+| Item | Content |
+|------|------|
+| Original Indication | Asthma / respiratory allergic inflammatory disease (inferred from mechanistic rationale; no formal labeling data on file) |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 98.40% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.40% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed MOA data for Tezepelumab is not on file in this evidence pack (flagged as a High-severity data gap). However, the repurposing rationale attached to each predicted indication consistently describes Tezepelumab as an inhibitor of thymic stromal lymphopoietin (TSLP), an epithelium-derived cytokine that triggers the Th2/inflammatory cascade, and states that the drug is mainly used for asthma and other respiratory allergic inflammatory diseases.
+
+Diabetic cataract, by contrast, is driven by lens protein glycation, oxidative stress, and polyol-pathway dysregulation in the setting of chronic hyperglycemia — none of which have an established connection to the TSLP–Th2 axis. The evidence pack's own analysis attributes this prediction to an indirect knowledge-graph link through the shared "diabetes" node rather than to any genuine shared pathophysiology, and the same caveat applies to the other nine of the top ten predicted indications (mostly cataract subtypes of varying etiology: senile, cortical, nuclear, metabolic, and syndromic).
+
+One partial exception is rank 10, diabetic retinopathy, where the rationale notes emerging (but still preliminary) evidence that TSLP/Th2-related inflammatory mediators may participate in retinal vascular inflammation and neovascularization — a marginally stronger, though still unproven, mechanistic hypothesis. Overall, mechanistic plausibility for this candidate set is low, and the prediction should be treated as hypothesis-generating rather than actionable.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## EU Market Information
+
+Tezepelumab currently has **0 marketing authorizations** on record in this evidence pack, with market status listed as **Not marketed**. No license-level details (authorization number, product name, dosage form, or approved indication text) are available.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All top-ranked predicted indications, including the leading candidate diabetic cataract, are supported only by TxGNN embedding similarity (L5) with zero clinical trials or literature evidence. The evidence pack's own mechanistic review identifies the shared "diabetes" node as a likely spurious knowledge-graph artifact rather than a genuine TSLP-mediated pathway, so this candidate does not meet the bar to advance past S0.
+
+**To proceed, the following is needed:**
+- Authoritative confirmation of the original approved indication and label text (asthma) from EMA/DrugBank
+- Formal MOA documentation to replace the current data gap (DG002)
+- TFDA/EMA warnings, contraindications, and DDI data — this is currently a Blocking gap (DG001) that prevents any S1 safety assessment
+- Preclinical or clinical evidence directly linking TSLP inhibition to lens pathology before this candidate can move beyond hypothesis stage
+- If pursued further, prioritize diabetic retinopathy (rank 10) over the cataract cluster, given its comparatively stronger — though still preliminary — inflammatory mechanism rationale, and commission a targeted literature review on TSLP/Th2 involvement in retinal vascular disease
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-AsthmaTezspire is indicated as an add-on maintenance treatment in adults and adolescents 12 years and older with severe asthma who are inadequately controlled despite high dose inhaled corticosteroids plus another medicinal product for maintenance treatment. Chronic rhinosinusitis with nasal polyps (CRSwNP)&nbsp;Tezspire is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids, and/or s
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 98.40% | DL |
-| 2 | craniostenosis cataract | 98.31% | DL |
-| 3 | mature cataract | 98.31% | DL |
-| 4 | tetanic cataract | 98.31% | DL |
-| 5 | diabetes mellitus type 2 associated cataract | 98.31% | DL |
-| 6 | immature cataract | 98.31% | DL |
-| 7 | cortical cataract | 98.29% | DL |
-| 8 | nuclear senile cataract | 98.29% | DL |
-| 9 | senile cataract | 98.22% | DL |
-| 10 | diabetic retinopathy | 98.12% | DL |
-| 11 | antithrombin deficiency type 2 | 98.06% | DL |
-| 12 | factor 5 excess with spontaneous thrombosis | 98.01% | DL |
-| 13 | heparin cofactor 2 deficiency | 97.96% | DL |
-| 14 | severe nonproliferative diabetic retinopathy | 97.86% | DL |
-| 15 | thrombophilia | 97.70% | DL |
-| 16 | diffuse gastric adenocarcinoma | 95.54% | DL |
-| 17 | hemorrhagic disease of newborn | 95.16% | DL |
-| 18 | gastric carcinoma | 94.97% | DL |
-| 19 | gastric adenocarcinoma and proximal polyposis of the stomach | 94.84% | DL |
-| 20 | signet ring cell gastric adenocarcinoma | 94.73% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

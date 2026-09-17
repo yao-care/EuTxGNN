@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Efmoroctocog Alfa
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Efmoroctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ indication_count: 10
 | 預測新適應症 | Pseudo-von Willebrand Disease |
 | TxGNN 預測分數 | 99.997% |
 | 證據等級 | L5（僅模型預測，無臨床試驗或文獻） |
-| 市場狀態 | 未上市 |
+| 市場狀態 | Not marketed |
 | 核准藥證數量 | 0 |
 | 建議決策 | Hold |
 
@@ -65,13 +65,13 @@ indication_count: 10
 
 ## 藥品上市資訊
 
-此藥品於本資料庫轄區目前未上市（核准藥證數量：0），無核准適應症文字可供摘錄。
+此藥品於本資料庫轄區目前Not marketed（核准藥證數量：0），無核准適應症文字可供摘錄。
 
 ## 安全性考量
 
 請參閱藥品仿單（SmPC）獲取安全性資訊。
 
-另需注意：本評估存在一項 **Blocking 等級**資料缺口（TFDA 仿單警語/禁忌尚未取得），在補齊前無法進入安全性初評（S1）階段。
+另需注意：本評估存在一項 **Blocking 等級**資料缺口（EMA package insert warnings/contraindications尚未取得），在補齊前無法進入安全性初評（S1）階段。
 
 ## 結論與後續建議
 
@@ -80,7 +80,7 @@ indication_count: 10
 **理由：**
 - 支持此預測的唯一依據是 TxGNN 模型分數，無任何臨床試驗或文獻佐證；
 - 模型自身的機轉說明已將此關聯定性為「間接且薄弱」；
-- TFDA 仿單警語/禁忌資料為 Blocking 等級缺口，尚不具備進入下一階段安全性評估的條件。
+- EMA package insert warnings/contraindications資料為 Blocking 等級缺口，尚不具備進入下一階段安全性評估的條件。
 
 **若要推進，需要補齊：**
 - TFDA 仿單警語與禁忌資料（DG001，Blocking）

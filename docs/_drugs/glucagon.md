@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Glucagon
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 280
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Glucagon
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -39,17 +39,17 @@ Glucagon（升糖素）目前在歐盟**未取得上市許可**（0 筆核准）
 
 | Item | Content |
 |------|------|
-| Original Indication | 資料缺口 — 本品於 EU 未上市，證據包未提供核准適應症文字（見 DG001） |
+| Original Indication | 資料缺口 — 本品於 EU Not marketed，證據包未提供核准適應症文字（見 DG001） |
 | Predicted New Indication | Irritable Bowel Syndrome (IBS) |
 | TxGNN Prediction Score | 99.24% |
 | Evidence Level | L4 |
-| EU Market Status | 未上市 |
+| EU Market Status | Not marketed |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable？
 
-目前本品的作用機轉（MOA）資料缺失（DG002，屬 High severity，影響機轉關聯性分析），且因本品於 EU 未上市，證據包中也沒有核准適應症文字可供比對（DG001，屬 Blocking severity，連帶使安全性初評 S1 無法完整進行）。因此無法對「原始適應症」與「預測新適應症」進行常規的機轉層面比對。
+目前本品的作用機轉（MOA）資料缺失（DG002，屬 High severity，Limits mechanistic-link analysis），且因本品於 EU Not marketed，證據包中也沒有核准適應症文字可供比對（DG001，屬 Blocking severity，連帶使安全性初評 S1 無法完整進行）。因此無法對「原始適應症」與「預測新適應症」進行常規的機轉層面比對。
 
 必須特別指出：檢索到的 11 篇臨床試驗與 20 篇文獻中，證據高度集中在 **GLP-1 受體促效劑**（如 ROSE-010、exendin-4）及其衍生藥物（dulaglutide、liraglutide、semaglutide、tirzepatide）於 IBS 動力障礙、疼痛緩解的研究，而非 glucagon（升糖素）本身。這是典型的「glucagon」與「glucagon-like peptide-1 (GLP-1)」名稱相似導致的實體混淆，知識圖譜可能因此產生雜訊配對。
 
@@ -102,7 +102,7 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-本品於歐盟未上市、無安全性標籤資料（DG001，Blocking），且作用機轉未知（DG002）。雖然 IBS 的 TxGNN 分數高達 99.24%、evidence level 達 L4，但支撐證據中絕大多數研究對象實為 GLP-1 受體促效劑而非 glucagon 本身，存在藥物實體混淆的高度風險，其餘 9 個預測適應症（cauda equina syndrome、neurogenic bladder 等）皆為 L5，無任何臨床或文獻支持，或方向相反（如 pharyngitis、filariasis 為藥物副作用/疾病影響荷爾蒙的反向證據）。整體證據品質不足以支持推進。
+本品於歐盟Not marketed、無安全性標籤資料（DG001，Blocking），且作用機轉未知（DG002）。雖然 IBS 的 TxGNN 分數高達 99.24%、evidence level 達 L4，但支撐證據中絕大多數研究對象實為 GLP-1 受體促效劑而非 glucagon 本身，存在藥物實體混淆的高度風險，其餘 9 個預測適應症（cauda equina syndrome、neurogenic bladder 等）皆為 L5，無任何臨床或文獻支持，或方向相反（如 pharyngitis、filariasis 為藥物副作用/疾病影響荷爾蒙的反向證據）。整體證據品質不足以支持推進。
 
 **To proceed, the following is needed:**
 - 取得 TFDA/EU SmPC 仿單警語與禁忌症（DG001）

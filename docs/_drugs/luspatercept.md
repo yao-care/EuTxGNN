@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Luspatercept
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 369
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Luspatercept
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ indication_count: 10
 | Predicted New Indication | Pyruvate Kinase Deficiency of Red Cells |
 | TxGNN Prediction Score | 93.84% (rank 43,686 of all drug-disease pairs) |
 | Evidence Level | L5 — model prediction only, no clinical trials or literature |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold (flagged internally as "Research Question") |
 
@@ -79,7 +79,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Luspatercept currently holds **no marketing authorizations in Taiwan** (market status: 未上市, total licenses: 0). No product, dosage form, or approved indication text is available from the local regulatory dataset for this evidence pack.
+Luspatercept currently holds **no marketing authorizations in Taiwan** (market status: Not marketed, total licenses: 0). No product, dosage form, or approved indication text is available from the local regulatory dataset for this evidence pack.
 
 ---
 

@@ -1,132 +1,111 @@
 ---
 layout: default
 title: Roflumilast
-description: "Roflumilast drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 504
+nav_order: 516
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Roflumilast
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Roflumilast: From COPD to Pulmonary Hypertension
+
+## One-Sentence Summary
+
+> Roflumilast is a selective phosphodiesterase-4 (PDE4) inhibitor used to reduce exacerbations in patients with severe COPD.
+> The TxGNN model predicts it may be effective for **Pulmonary Hypertension**,
+> but this prediction is currently supported by **no clinical trials** and **no literature**, and the underlying mechanistic link is considered weak.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Roflumilast |
-| DrugBank ID | [DB01656](https://go.drugbank.com/drugs/DB01656) |
-| Brand Names (EU) | Daxas |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 97.24% |
+| Item | Content |
+|------|------|
+| Original Indication | Chronic Obstructive Pulmonary Disease (COPD), per pharmacovigilance literature in this evidence pack |
+| Predicted New Indication | Pulmonary Hypertension |
+| TxGNN Prediction Score | 97.24% |
+| Evidence Level | L5 (AI prediction only, no supporting studies) |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Daxas is indicated for maintenance treatment of severe chronic obstructive pulmonary disease (COPD) (FEV1 post-bronchodilator less than 50% predicted) associated with chronic bronchitis in adult patients with a history of frequent exacerbations as add-on to bronchodilator treatment.
+Currently, detailed mechanism of action data is not available (blocking data gap). Based on known information, Roflumilast is a selective PDE4 inhibitor that reduces cAMP breakdown, producing anti-inflammatory effects that have proven efficacy in severe COPD.
 
----
+The proposed link to pulmonary hypertension is mechanistically weak. PDE4 inhibition has some theoretical anti-inflammatory and vascular-remodeling-modulating effects, which could plausibly influence pulmonary vascular remodeling. However, the dominant pharmacology for approved PH therapies (e.g., sildenafil, tadalafil) acts through PDE5 inhibition and the cGMP pathway — a mechanistically distinct target from PDE4/cAMP. This is a pure AI-predicted association with no clinical or preclinical data currently supporting it.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | pulmonary hypertension | 97.24% | DL |
-| 2 | kyphoscoliotic heart disease | 96.74% | DL |
-| 3 | headache disorder | 93.14% | DL |
-| 4 | female breast carcinoma | 92.79% | DL |
-| 5 | trigeminal autonomic cephalalgia | 92.15% | DL |
-| 6 | obsolete patella aplasia, coxa vara, and tarsal synostosis | 89.92% | DL |
-| 7 | hypertrichosis (disease) | 89.03% | DL |
-| 8 | Ambras type hypertrichosis universalis congenita | 89.02% | DL |
-| 9 | malformation syndrome with odontal and/or periodontal component | 88.26% | DL |
-| 10 | pulmonary hypertension, primary, autosomal recessive | 88.05% | DL |
-| 11 | syndrome with a Dandy-Walker malformation as major feature | 88.02% | DL |
-| 12 | familial clubfoot due to 17q23.1q23.2 microduplication | 87.34% | DL |
-| 13 | coxopodopatellar syndrome | 87.22% | DL |
-| 14 | chromosome 17q23.1-q23.2 deletion syndrome | 86.97% | DL |
-| 15 | isolated genetic hair shaft abnormality | 86.90% | DL |
-| 16 | cor pulmonale | 86.86% | DL |
-| 17 | mycotic corneal ulcer | 86.04% | DL |
-| 18 | scalp dermatosis | 85.25% | DL |
-| 19 | primary hereditary glaucoma | 85.23% | DL |
-| 20 | open-angle glaucoma | 84.19% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given this gap between the predicted mechanism and the established PH treatment pathway, this candidate should be treated as a hypothesis-generation signal only, not as a validated repurposing opportunity.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Roflumilast currently has no marketing authorization on record in this system (market status: **not marketed**, 0 authorizations). No product-level data is available for review.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+No formal SmPC-level warnings, contraindications, or drug-drug interaction data are available for this drug (blocking data gap — TFDA/EMA label not yet retrieved).
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+However, evidence collected under a separate predicted-indication entry ("headache disorder," rank 3) flags an important safety signal: clinical trial and real-world pharmacovigilance data consistently identify **headache, weight loss, decreased appetite, insomnia, diarrhea, vomiting, and nausea** as common adverse effects of Roflumilast, occurring mainly early in treatment (trial NCT02018432; pharmacovigilance analyses PMID [41458197](https://pubmed.ncbi.nlm.nih.gov/41458197/) and PMID [41602587](https://pubmed.ncbi.nlm.nih.gov/41602587/)). This is a known class effect of PDE4 inhibitors and should be treated as a **safety consideration for the drug itself**, not as a repurposing opportunity — the TxGNN model's prediction of "headache disorder" as a treatable indication is directionally inconsistent with the actual evidence and should not be pursued.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The predicted indication (pulmonary hypertension) has no clinical trial or literature support and rests on a mechanistically weak link (PDE4 vs. the PDE5-dominant PH treatment pathway). Combined with the absence of basic label-level safety data and the drug's current unmarketed status, there is insufficient evidence to advance this candidate beyond model prediction.
+
+**To proceed, the following is needed:**
+- Retrieve TFDA/EMA label safety data (warnings, contraindications) — currently a blocking gap
+- Obtain detailed MOA data from DrugBank to properly assess mechanistic plausibility
+- Preclinical or mechanistic studies specifically testing PDE4 inhibition in pulmonary vascular remodeling/PH models
+- Clarify and separately track the headache/adverse-effect signal so it is not conflated with genuine repurposing candidates
+- Consider evaluating higher-evidence candidates in this pack instead — e.g., "female breast carcinoma" (rank 4, L4, in vitro mechanistic data available) offers a more substantive starting hypothesis than the top-ranked PH prediction
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Levofloxacin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 354
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Levofloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ The TxGNN model's most clinically actionable prediction is **Monoclonal Gammopat
 | Primary Actionable Prediction | Monoclonal Gammopathy — Infection Prophylaxis in Multiple Myeloma (TxGNN rank 7) |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L1 |
-| Taiwan Market Status | Not Marketed (未上市) |
+| Taiwan Market Status | Not Marketed (Not marketed) |
 | Number of Authorizations | 0 (Taiwan) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -88,7 +88,7 @@ Currently no registered clinical trials specifically investigating Levofloxacin 
 
 ## Taiwan Market Information
 
-No Taiwan TFDA marketing authorizations were identified for Levofloxacin in this Evidence Pack (total licenses: 0, market status: 未上市). Please verify current registration status and obtain the SmPC directly through the TFDA official website (https://www.fda.gov.tw/). Note that Levofloxacin is widely registered and marketed in many other jurisdictions globally under brand names including Levaquin (US) and Tavanic (Europe).
+No Taiwan TFDA marketing authorizations were identified for Levofloxacin in this Evidence Pack (total licenses: 0, market status: Not marketed). Please verify current registration status and obtain the SmPC directly through the TFDA official website (https://www.fda.gov.tw/). Note that Levofloxacin is widely registered and marketed in many other jurisdictions globally under brand names including Levaquin (US) and Tavanic (Europe).
 
 ---
 

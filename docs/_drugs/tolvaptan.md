@@ -1,143 +1,119 @@
 ---
 layout: default
 title: Tolvaptan
-description: "tolvaptan drug repurposing predictions from TxGNN. Evidence level L1 with 51 predicted indications."
-parent: Phase 3+ Evidence (L1)
-nav_order: 595
+parent: High Evidence (L1-L2)
+nav_order: 606
 evidence_level: L1
-indication_count: 51
+indication_count: 10
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **51**
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tolvaptan: From Original Indication (Not Specified in Evidence Pack) to Polycystic Kidney Disease 3 with or without Polycystic Liver Disease
+
+## One-Sentence Summary
+
+Tolvaptan's original approved indication is not captured in this Evidence Pack (no EU authorization record present), though it is broadly known in the published literature as an oral vasopressin V2-receptor antagonist.
+The TxGNN model predicts it may be effective for **Polycystic Kidney Disease 3 with or without Polycystic Liver Disease** (an autosomal dominant polycystic kidney disease [ADPKD]-spectrum condition),
+with **0 clinical trial registrations** but **20 relevant publications** — including two large completed Phase 3 RCTs (TEMPO 3:4 and REPRISE) — currently supporting this direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tolvaptan |
-| DrugBank ID | [DB06212](https://go.drugbank.com/drugs/DB06212) |
-| Brand Names (EU) | Samsca |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — `original_indications` is empty and no EU license record exists in this Evidence Pack |
+| Predicted New Indication | Polycystic Kidney Disease 3 with or without Polycystic Liver Disease (ADPKD-spectrum) |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L1 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.99% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of adult patients with hyponatraemia secondary to syndrome of inappropriate antidiuretic-hormone secretion (SIADH).
+Currently, the structured mechanism-of-action field for this drug is a documented data gap (`original_moa: [Data Gap]`, flagged as `DG002 — High severity` in the meta section). However, the literature evidence collected alongside this prediction consistently and independently identifies tolvaptan as an **oral vasopressin V2-receptor antagonist**. Multiple abstracts in the evidence set (e.g., PMID 23121377, PMID 35134221) describe its mechanism directly: blocking the V2 receptor in renal collecting duct cells reduces intracellular cAMP, which in turn slows cyst growth and the decline of kidney function in cystic kidney disease.
 
----
+The predicted indication — a polycystic kidney/liver disease phenotype — is mechanistically well aligned with this V2-receptor/cAMP pathway. Cystogenesis in ADPKD and related ciliopathies is driven by cAMP-mediated proliferation and fluid secretion in tubular epithelial cells, which is precisely the pathway tolvaptan antagonizes. This is not a speculative mechanistic leap: the literature pack includes two landmark completed Phase 3 randomized controlled trials — **TEMPO 3:4** (PMID 23121377, NEJM 2012) and **REPRISE** (PMID 29105594, NEJM 2017) — both of which directly tested tolvaptan in ADPKD populations and are further reinforced by an ERA/EASL consensus statement (PMID 35134221) and a 2024 Cochrane systematic review (PMID 39356039) on disease-modifying agents for ADPKD.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | polycystic kidney disease 3 with or without polycystic liver disease | 99.99% | DL |
-| 2 | renal-hepatic-pancreatic dysplasia | 99.98% | DL |
-| 3 | karyomegalic interstitial nephritis | 99.98% | DL |
-| 4 | thoracic malformation | 99.98% | DL |
-| 5 | polycystic kidney disease | 99.98% | DL |
-| 6 | Joubert syndrome with renal defect | 99.98% | DL |
-| 7 | adult familial nephronophthisis-spastic quadriparesia syndrome | 99.98% | DL |
-| 8 | Ambras type hypertrichosis universalis congenita | 99.96% | DL |
-| 9 | hypertrichosis (disease) | 99.96% | DL |
-| 10 | malformation syndrome with odontal and/or periodontal component | 99.96% | DL |
-| 11 | syndrome with a Dandy-Walker malformation as major feature | 99.95% | DL |
-| 12 | isolated genetic hair shaft abnormality | 99.95% | DL |
-| 13 | nephrogenic syndrome of inappropriate antidiuresis | 99.94% | DL |
-| 14 | homozygous familial hypercholesterolemia | 99.87% | DL |
-| 15 | Joubert syndrome with oculorenal defect | 99.84% | DL |
-| 16 | Meckel syndrome, | 99.84% | DL |
-| 17 | syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy | 99.81% | DL |
-| 18 | hypoalphalipoproteinemia | 99.79% | DL |
-| 19 | autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis | 99.74% | DL |
-| 20 | congenital pulmonary lymphangiectasia | 99.63% | DL |
-
-*Showing top 20 of 51 predictions.*
+In effect, this prediction largely **recovers an already well-established therapeutic use** of tolvaptan in the polycystic kidney/liver disease spectrum rather than identifying a truly novel signal, which is why the evidentiary strength here (L1) is unusually high for a TxGNN-generated candidate.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| polycystic kidney disease | L1 | 20 | 18 | 11 Phase 3 trial(s), 4 Phase 2 trial(s), 4 RCT(s), |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered in `clinical_trials` or `ictrp_trials` for this candidate pair. (Note: pivotal trial evidence exists as published RCTs — see Literature Evidence below — but was not captured via the trial-registry collectors for this pairing.)
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT (TEMPO 3:4) | The New England Journal of Medicine | Landmark Phase 3 RCT showing the V2-receptor antagonist tolvaptan slows total kidney volume growth and eGFR decline in early ADPKD |
+| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT (REPRISE) | The New England Journal of Medicine | Phase 3 RCT extending efficacy data to later-stage ADPKD (lower baseline eGFR), confirming benefit with more hepatotoxicity monitoring required |
+| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Systematic Review (Cochrane) | Cochrane Database of Systematic Reviews | Reviews disease-modifying interventions for ADPKD progression, including tolvaptan |
+| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | Systematic Review / Meta-analysis | Nefrologia | Pools efficacy and safety data for tolvaptan across ADPKD trials, confirming benefit in delaying progression to ESRD |
+| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | Consensus Statement | Nephrology, Dialysis, Transplantation | ERA/European Rare Kidney Disease Network consensus on evidence-based initiation criteria for tolvaptan in ADPKD |
+| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | Comprehensive review of ADPKD epidemiology, genetics, and management including tolvaptan |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clinics in Liver Disease | Reviews ADPKD/polycystic liver disease overlap and notes tolvaptan's effect on slowing renal function deterioration and cyst growth |
+| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Current Opinion in Nephrology and Hypertension | Notes tolvaptan remains the only approved disease-modifying therapy for ADPKD; reviews emerging alternatives |
+| [35328738](https://pubmed.ncbi.nlm.nih.gov/35328738/) | 2022 | Review | International Journal of Molecular Sciences | Reviews ADPKD pathophysiology (PKD1/PKD2) and treatment advances including V2-receptor antagonism |
+| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Review | Advances in Kidney Disease and Health | Reviews genetic spectrum of polycystic kidney/liver disease phenotypes relevant to the predicted indication |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EU marketing authorizations are recorded for this drug in the current Evidence Pack (`total_licenses: 0`, `market_status: Not Marketed`). No product/authorization data is available to tabulate.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. Both `key_warnings` and `contraindications` are recorded as data gaps in this Evidence Pack, and the DDI query returned no results (`query_status: not_found`).
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- Efficacy evidence for this indication is strong (L1: two completed Phase 3 RCTs — TEMPO 3:4 and REPRISE — plus a Cochrane systematic review and an ERA consensus statement), but a **Blocking** data gap (`DG001`: TFDA label warnings/contraindications) prevents the candidate from entering the S1 safety pre-assessment stage, and a **High**-severity gap (`DG002`: structured MOA) limits formal mechanistic scoring.
+
+**To proceed, the following is needed:**
+- Resolve `DG001`: retrieve and parse the TFDA/SmPC label (warnings, contraindications) — required before any S1 safety evaluation can proceed.
+- Resolve `DG002`: query DrugBank API for structured MOA to support formal mechanistic-link scoring.
+- Clarify EU marketing/authorization status, since `total_licenses: 0` conflicts with tolvaptan's known regulatory history and should be re-verified against source data.
+- Populate DDI records, since the current query returned no interactions on file.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

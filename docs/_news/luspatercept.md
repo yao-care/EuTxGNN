@@ -1,64 +1,53 @@
 ---
 layout: default
-title: "Luspatercept 相關新聞"
-parent: 健康新聞
+title: "Luspatercept News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Luspatercept 的相關健康新聞報導。原適應症：Reblozyl is indicated in adults for the treatment ...。預測適應症 20 個。"
+description: "Health news related to Luspatercept. Original indication: Reblozyl is indicated in adults for the treatment .... 9 predicted indications."
 permalink: /news/luspatercept/
 ---
 
-# Luspatercept 相關新聞
+# Luspatercept News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Luspatercept 有什麼相關新聞？">
-<strong>Luspatercept</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Luspatercept?">
+<strong>Luspatercept</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Luspatercept 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Luspatercept with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Reblozyl is indicated in adults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).Reblozyl is indicated in adults for the...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>dominant beta-thalassemia（96.3%）</li>
-<li>monosomy X（96.0%）</li>
-<li>hepatic infarction（95.7%）</li>
-<li>hepatic veno-occlusive disease（94.9%）</li>
-<li>peliosis hepatis（94.8%）</li>
-<li>syndrome with combined immunodeficiency（94.3%）</li>
-<li>pyruvate kinase deficiency of red cells（93.8%）</li>
-<li>thalassemia, beta+, silent allele（93.3%）</li>
-<li>familial apolipoprotein C-II deficiency（93.0%）</li>
-<li>adenosine deaminase deficiency（92.9%）</li>
-<li>Hb Bart's hydrops fetalis（92.8%）</li>
-<li>beta-thalassemia with other manifestations（92.6%）</li>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies（92.3%）</li>
-<li>partial deletion of the short arm of chromosome 16（92.1%）</li>
-<li>hemolytic anemia due to glucophosphate isomerase deficiency（91.9%）</li>
-<li>liver angiosarcoma（91.8%）</li>
-<li>pyropoikilocytosis, hereditary（91.8%）</li>
-<li>reticular dysgenesis（91.7%）</li>
-<li>beta thalassemia（91.6%）</li>
-<li>severe combined immunodeficiency due to LCK deficiency（91.5%）</li>
+<li><strong>Original indication</strong>: Reblozyl is indicated in adults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).Reblozyl is indicated in adults for the...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>Monosomy X (Turner syndrome) | 95.99% | S0 | Hold | Likely KG noise — no direct link (99.0%)</li>
+<li>Hepatic infarction | 95.70% | S0 | Hold | No plausible pathway (99.0%)</li>
+<li>Hepatic veno-occlusive disease | 94.91% | S0 | Hold | Speculative TGF-β/fibrosis link, unvalidated (99.0%)</li>
+<li>Peliosis hepatis | 94.75% | S0 | Hold | No direct mechanistic link (99.0%)</li>
+<li>Combined immunodeficiency syndrome | 94.28% | S0 | Hold | No plausible pathway (99.0%)</li>
+<li>Thalassemia, beta+, silent allele | 93.32% | S1 | Research Question | Mechanistically overlaps with approved β-thalassemia indication (99.0%)</li>
+<li>Familial apolipoprotein C-II deficiency | 93.05% | S0 | Hold | No known pathway overlap (99.0%)</li>
+<li>Adenosine deaminase deficiency | 92.86% | S0 | Hold | No plausible pathway (99.0%)</li>
+<li>Hb Bart's hydrops fetalis | 92.75% | S1 | Research Question | Same thalassemia-family biology; fetal safety unknown (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/luspatercept/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/luspatercept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

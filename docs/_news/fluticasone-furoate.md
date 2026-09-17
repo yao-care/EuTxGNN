@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Fluticasone Furoate 相關新聞"
-parent: 健康新聞
+title: "Fluticasone Furoate News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Fluticasone Furoate 的相關健康新聞報導。原適應症：Asthma Indication Revinty Ellipta is indicated in ...。預測適應症 20 個。"
+description: "Health news related to Fluticasone Furoate. Original indication: Asthma Indication Revinty Ellipta is indicated in .... 20 predicted indications."
 permalink: /news/fluticasone-furoate/
 ---
 
-# Fluticasone Furoate 相關新聞
+# Fluticasone Furoate News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Fluticasone Furoate?">
+<strong>Fluticasone Furoate</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Fluticasone Furoate 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Fluticasone Furoate with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Asthma Indication Revinty Ellipta is indicated in the regular treatment of asthma in adults and adolescents aged 12 years and older, where use of a combination product (long-acting beta2-agonist and...</li>
-<li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>atopic eczema（100.0%）</li>
-<li>allergic asthma（100.0%）</li>
-<li>intrinsic asthma（100.0%）</li>
-<li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asma</span></li>
-<li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
-<li>dermatitis, atopic（99.8%）</li>
-<li>contact dermatitis（99.5%）</li>
-<li>asthma-related traits, susceptibility to（99.4%）</li>
-<li>occupational dermatitis（99.3%）</li>
-<li>phototoxic dermatitis（99.1%）</li>
-<li>obstructive lung disease（98.9%）</li>
-<li>polyp of vocal cord（98.9%）</li>
-<li>polyp of middle ear（98.9%）</li>
-<li>fibroepithelial polyp（98.8%）</li>
-<li>seborrheic dermatitis（98.8%）</li>
-<li>neoplastic polyp（98.8%）</li>
-<li>atopic dermatitis（98.8%）</li>
-<li>polyp of vulva（98.8%）</li>
-<li>polyp of frontal sinus（98.8%）</li>
+<li><strong>Original indication</strong>: Asthma Indication Revinty Ellipta is indicated in the regular treatment of asthma in adults and adolescents aged 12 years and older, where use of a combination product (long-acting beta2-agonist and...</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>atopic eczema (100.0%)</li>
+<li>allergic asthma (100.0%)</li>
+<li>intrinsic asthma (100.0%)</li>
+<li>bronchitis (99.9%)</li>
+<li class="indication-matched">asthma (99.9%)<span class="indication-tag">📰 asma</span></li>
+<li>2-hydroxyethyl methacrylate sensitization (99.9%)</li>
+<li>dermatitis, atopic (99.8%)</li>
+<li>contact dermatitis (99.5%)</li>
+<li>asthma-related traits, susceptibility to (99.4%)</li>
+<li>occupational dermatitis (99.3%)</li>
+<li>phototoxic dermatitis (99.1%)</li>
+<li>obstructive lung disease (98.9%)</li>
+<li>polyp of vocal cord (98.9%)</li>
+<li>polyp of middle ear (98.9%)</li>
+<li>fibroepithelial polyp (98.8%)</li>
+<li>seborrheic dermatitis (98.8%)</li>
+<li>neoplastic polyp (98.8%)</li>
+<li>atopic dermatitis (98.8%)</li>
+<li>polyp of vulva (98.8%)</li>
+<li>polyp of frontal sinus (98.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## Related News (5)
 
 ### [Caruso(Gemelli): "In asma e poliposi depemokimab efficace fino a 2 anni" - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">asma</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/fluticasone-furoate/
 
 2026-09-14 <span class="news-indication-tag">EPOC</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/fluticasone-furoate/
 
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 ---
 
@@ -82,7 +82,7 @@ permalink: /news/fluticasone-furoate/
 
 2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
 
 ---
 
@@ -90,13 +90,13 @@ permalink: /news/fluticasone-furoate/
 
 2026-09-11 <span class="news-indication-tag">copd</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

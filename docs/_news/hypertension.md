@@ -1,29 +1,29 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
-parent: 健康新聞
+title: "Bluthochdruck (hypertension) News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# Bluthochdruck (hypertension) News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
-<strong>相關藥物報告</strong>
-<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<strong>Related drug reports</strong>
+<p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">Abiraterone Acetate</a></li>
 <li><a href="{{ '/drugs/aliskiren/' | relative_url }}">Aliskiren</a></li>
@@ -83,13 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## Related News (2)
 
 ### [Bluthochdruck: Nüsse senken das Risiko signifikant](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
 
 2026-09-14
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
 
 ---
 
@@ -97,11 +97,11 @@ permalink: /news/hypertension/
 
 2026-09-14
 
-來源：[leparisien.fr](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
+Source: [leparisien.fr](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>

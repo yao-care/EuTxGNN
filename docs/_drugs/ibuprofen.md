@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ibuprofen
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 294
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ibuprofen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Ibuprofen is a widely used non-steroidal anti-inflammatory drug (NSAID), globall
 | Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -79,7 +79,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Ibuprofen currently holds **no marketing authorizations** in Taiwan (`total_licenses: 0`); market status is recorded as **未上市 (Not Marketed)**. No license, product name, dosage form, or approved indication text is available in this Evidence Pack.
+Ibuprofen currently holds **no marketing authorizations** in Taiwan (`total_licenses: 0`); market status is recorded as **Not marketed (Not Marketed)**. No license, product name, dosage form, or approved indication text is available in this Evidence Pack.
 
 ---
 

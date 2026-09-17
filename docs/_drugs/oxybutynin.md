@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Oxybutynin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 442
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Oxybutynin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Oxybutynin is a well-established antimuscarinic (M3 receptor antagonist) whose e
 | Predicted New Indication | Low Compliance Bladder (neurogenic bladder dysfunction) |
 | TxGNN Prediction Score | 97.88% |
 | Evidence Level | L2 |
-| EU Market Status | Not Marketed (未上市) |
+| EU Market Status | Not Marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -89,7 +89,7 @@ For context, the drug's highest TxGNN score (restless legs syndrome, 99.74%) has
 
 ## EU Market Information
 
-No marketing authorizations are on file for oxybutynin in this jurisdiction — market status is recorded as **未上市 (Not Marketed)** with **0 total licenses**. No EMA product/authorization data could be extracted.
+No marketing authorizations are on file for oxybutynin in this jurisdiction — market status is recorded as **Not marketed (Not Marketed)** with **0 total licenses**. No EMA product/authorization data could be extracted.
 
 ---
 

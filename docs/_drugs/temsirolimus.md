@@ -1,132 +1,126 @@
 ---
 layout: default
 title: Temsirolimus
-description: "Temsirolimus drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 566
-evidence_level: L5
-indication_count: 51
+parent: High Evidence (L1-L2)
+nav_order: 577
+evidence_level: L2
+indication_count: 10
 ---
 
 # Temsirolimus
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Temsirolimus: From Renal Cell Carcinoma to Liposarcoma
+
+## One-Sentence Summary
+
+Temsirolimus is an mTOR inhibitor originally approved for the treatment of renal cell carcinoma (RCC). The TxGNN model predicts it may also be effective for **Liposarcoma**, with **5 clinical trials** (2 using temsirolimus/Torisel directly) and **1 publication** currently supporting this direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Temsirolimus |
-| DrugBank ID | [DB06287](https://go.drugbank.com/drugs/DB06287) |
-| Brand Names (EU) | Torisel |
-| Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.54% |
+| Item | Content |
+|------|------|
+| Original Indication | Renal cell carcinoma (RCC) — not present in the local regulatory dataset, but consistently referenced across the supporting clinical/literature evidence as the approved indication |
+| Predicted New Indication | Liposarcoma |
+| TxGNN Prediction Score | 99.54% |
+| Evidence Level | L2 |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Renal-cell carcinoma Torisel is indicated for the first-line treatment of adult patients with advanced renal-cell carcinoma (RCC) who have at least three of six prognostic risk factors. Mantle-cell lymphoma Torisel is indicated for the treatment of adult patients with relapsed and / or refractory mantle-cell lymphoma (MCL).
+Detailed mechanism of action data is not present in the structured drug record (flagged as a High-severity data gap). However, across the supporting clinical trial and literature evidence, Temsirolimus is consistently described as a selective inhibitor of mTORC1 (mammalian target of rapamycin complex 1), which blocks the PI3K/AKT/mTOR signaling pathway. This pathway is one of the central drivers of cell growth, proliferation, and survival, and Temsirolimus is approved for metastatic renal cell carcinoma, where dysregulated mTOR/HIF signaling drives tumor progression.
 
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | liposarcoma | 99.54% | DL |
-| 2 | ovarian myxoid liposarcoma | 99.47% | DL |
-| 3 | clear cell renal carcinoma | 99.39% | DL |
-| 4 | vulva sarcoma | 99.09% | DL |
-| 5 | uterine corpus myxoid leiomyosarcoma | 98.88% | DL |
-| 6 | anus leiomyosarcoma | 98.77% | DL |
-| 7 | uterine corpus epithelioid leiomyosarcoma | 98.76% | DL |
-| 8 | small intestinal sarcoma | 98.64% | DL |
-| 9 | retroperitoneal sarcoma | 98.60% | DL |
-| 10 | leiomyosarcoma | 98.60% | DL |
-| 11 | renal cell carcinoma associated with neuroblastoma | 98.53% | DL |
-| 12 | renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions | 98.53% | DL |
-| 13 | unclassified renal cell carcinoma | 98.53% | DL |
-| 14 | childhood kidney cell carcinoma | 98.09% | DL |
-| 15 | spindle cell liposarcoma | 97.66% | DL |
-| 16 | mixed endometrial stromal and smooth muscle tumor | 97.24% | DL |
-| 17 | dermatofibrosarcoma protuberans | 97.23% | DL |
-| 18 | angiolipoma | 96.72% | DL |
-| 19 | childhood malignant neoplasm | 96.57% | DL |
-| 20 | familial rhabdoid tumor | 96.55% | DL |
-
-*Showing top 20 of 51 predictions.*
+Liposarcoma — particularly the dedifferentiated subtype — frequently shows activation of the same PI3K/AKT/mTOR pathway. This shared molecular vulnerability is the mechanistic basis for repurposing mTOR-pathway inhibitors into soft-tissue sarcoma treatment. Multiple drugs in the same rapalog/mTOR-inhibitor class (sirolimus, everolimus, ridaforolimus) have already been tested in liposarcoma and related sarcoma subtypes, and Temsirolimus itself (as Torisel) has direct clinical evidence in advanced soft-tissue and bone sarcoma populations, reinforcing the biological plausibility of the TxGNN prediction.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01614795](https://clinicaltrials.gov/study/NCT01614795) | Phase 2 | Completed | 46 | Cixutumumab + temsirolimus in pediatric recurrent/refractory sarcoma; direct temsirolimus evidence (Grade A) |
+| [NCT00949325](https://clinicaltrials.gov/study/NCT00949325) | Phase 1/2 | Completed | 24 | Torisel (temsirolimus) + liposomal doxorubicin in advanced soft tissue and bone sarcoma; dose-finding and efficacy assessment (Grade A, direct evidence) |
+| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Phase 2 | Completed | 70 | Sirolimus (parent compound, not temsirolimus) + cyclophosphamide in metastatic/unresectable myxoid liposarcoma and chondrosarcoma; mTOR inhibition prevented tumor growth in preclinical models (Grade B, class-effect evidence) |
+| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | Active, not recruiting | 48 | Ribociclib + everolimus (mTOR inhibitor class, not temsirolimus) in advanced dedifferentiated liposarcoma and leiomyosarcoma (Grade B, class-effect evidence) |
+| [NCT00093080](https://clinicaltrials.gov/study/NCT00093080) | Phase 2 | Completed | 216 | Ridaforolimus (mTOR inhibitor, AP23573) monotherapy in advanced sarcoma (Grade B, class-effect evidence) |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Review | Bulletin du cancer | Review of targeted treatment strategies for rare connective tissue tumors and sarcomas, including mTOR-pathway-directed therapies relevant to liposarcoma subtypes |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorization is currently on record for Temsirolimus in this dataset (0 authorizations, market status: not marketed). This should be confirmed against the EMA product register, since Temsirolimus (Torisel) has historically held EU authorization for renal cell carcinoma and mantle cell lymphoma.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy — mTOR inhibitor (rapalog class) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*Note: A case report (PMID [24830996](https://pubmed.ncbi.nlm.nih.gov/24830996/)) describes bowel perforation associated with temsirolimus use in a recently irradiated patient with uterine leiomyosarcoma — this is a safety signal from the broader evidence set, not a confirmed contraindication, and should be reviewed alongside the official SmPC.*
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+Temsirolimus has direct clinical evidence (Torisel) in advanced soft-tissue and bone sarcoma populations, and mechanistically plausible class-effect evidence from other mTOR inhibitors specifically in liposarcoma. However, no trial to date has tested temsirolimus specifically and exclusively in a liposarcoma-confirmed cohort, and key safety/regulatory data are still missing.
+
+**To proceed, the following is needed:**
+- TFDA/EMA package insert warnings and contraindications (currently a Blocking data gap — required before any S1 safety assessment)
+- Formal mechanism of action (MOA) documentation from DrugBank or equivalent source
+- Confirmation of current EU marketing authorization status (dataset shows 0 licenses / not marketed, which should be reconciled with EMA records)
+- A liposarcoma-subtype-specific trial or expanded-access data, since existing direct temsirolimus evidence is in mixed sarcoma populations rather than liposarcoma alone
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

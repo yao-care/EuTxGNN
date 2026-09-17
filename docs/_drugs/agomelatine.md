@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Agomelatine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 28
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Agomelatine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -51,7 +51,7 @@ with **0 registered clinical trials** specifically targeting this subtype but **
 | Predicted New Indication | Melancholia |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Taiwan Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -92,7 +92,7 @@ Currently no related clinical trials registered specifically for agomelatine in 
 
 ## Taiwan Regulatory Information
 
-No regulatory records are available for agomelatine in Taiwan. The drug is not approved or marketed in Taiwan (未上市) with 0 TFDA authorizations on record.
+No regulatory records are available for agomelatine in Taiwan. The drug is not approved or marketed in Taiwan (Not marketed) with 0 TFDA authorizations on record.
 
 *For reference: Agomelatine is approved in the European Union as **Valdoxan®** (Servier, EU/1/08/499/001–007) for the treatment of major depressive episodes in adults, with mandatory hepatotoxicity monitoring as a condition of authorization.*
 

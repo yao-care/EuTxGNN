@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Orlistat 相關新聞"
-parent: 健康新聞
+title: "Orlistat News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Orlistat 的相關健康新聞報導。原適應症：Xenical is indicated in conjunction with a mildly ...。預測適應症 20 個。"
+description: "Health news related to Orlistat. Original indication: Xenical is indicated in conjunction with a mildly .... 20 predicted indications."
 permalink: /news/orlistat/
 ---
 
-# Orlistat 相關新聞
+# Orlistat News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Orlistat?">
+<strong>Orlistat</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Orlistat 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Orlistat with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt; 28...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>obesity disorder（99.5%）</li>
-<li>hypervitaminosis（99.4%）</li>
-<li>proximal 16p11.2 microdeletion syndrome（98.9%）</li>
-<li>obsolete hypertelorism (disease)（97.8%）</li>
-<li>frontorhiny（96.6%）</li>
-<li>hypoalphalipoproteinemia（96.5%）</li>
-<li>monogenic obesity（94.5%）</li>
-<li>obsolete susceptibility to ischemic stroke（92.0%）</li>
-<li>ABri amyloidosis（85.7%）</li>
-<li>fatty liver disease（85.3%）</li>
-<li>homozygous familial hypercholesterolemia（79.8%）</li>
-<li>amenorrhea (disease)（77.9%）</li>
-<li>non-alcoholic steatohepatitis（77.1%）</li>
-<li>hypercarotenemia and vitamin A deficiency, autosomal recessive（71.0%）</li>
-<li>lethal polymalformative syndrome, Boissel type（68.5%）</li>
-<li>duodenogastric reflux（68.4%）</li>
-<li>pentosuria（68.3%）</li>
-<li>duodenal obstruction（68.1%）</li>
-<li>fibrosis of extraocular muscles, congenital, with synergistic divergence（66.9%）</li>
-<li>mitral valve prolapse, myxomatous（66.8%）</li>
+<li><strong>Original indication</strong>: Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt; 28...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>obesity disorder (99.5%)</li>
+<li>hypervitaminosis (99.4%)</li>
+<li>proximal 16p11.2 microdeletion syndrome (98.9%)</li>
+<li>obsolete hypertelorism (disease) (97.8%)</li>
+<li>frontorhiny (96.6%)</li>
+<li>hypoalphalipoproteinemia (96.5%)</li>
+<li>monogenic obesity (94.5%)</li>
+<li>obsolete susceptibility to ischemic stroke (92.0%)</li>
+<li>ABri amyloidosis (85.7%)</li>
+<li>fatty liver disease (85.3%)</li>
+<li>homozygous familial hypercholesterolemia (79.8%)</li>
+<li>amenorrhea (disease) (77.9%)</li>
+<li>non-alcoholic steatohepatitis (77.1%)</li>
+<li>hypercarotenemia and vitamin A deficiency, autosomal recessive (71.0%)</li>
+<li>lethal polymalformative syndrome, Boissel type (68.5%)</li>
+<li>duodenogastric reflux (68.4%)</li>
+<li>pentosuria (68.3%)</li>
+<li>duodenal obstruction (68.1%)</li>
+<li>fibrosis of extraocular muscles, congenital, with synergistic divergence (66.9%)</li>
+<li>mitral valve prolapse, myxomatous (66.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## Related News (17)
 
 ### [Infarctus, AVC… Pourquoi dormir les volets ouverts ou avec une veilleuse pourrait être dangereux pour la santé - Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AVC</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-indication-tag">obesidad</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2hiQlVNVTZ2UjlNR3RILWhFS2kyNHozcmFLSFJlTE1GOHRxRFFxVlgydHM5QkVUYnZ5QU5MZnY5TnBkQjFVRkNNLVN3TUwyaEZFQjRJa3ZCMWo5NGI0LWFyeXh3cWItUjhYb3lNV3VlMl9FMXU2Q0Nad3VsRHZPb21qaVMxTmJlVXNLcF9BanUxLUFSTkxMUnBUUFlBTV91Nld6RnZDRTMtTkZ0M2xXMNIBtgFBVV95cUxNVkRIai0tZjR4enRHZkpEVjRhNFhBNFNGemE1WUJaOEVMWF9qb205eVhZdTZjalQ4REJiYWFhdzVxRmVPdUEwMGVBdUVKSnp0eDdtdDBLM0tVX1RPZUVfcmZkWDdrY09hZTNBS19UR1ZwSkZ0dXZ1U2FrN3ZGV2xSekZ2RjhCUXBLZERCVEs1c0wwZEhqVG1UelNvWnNBZHQ4VFEtRWd1MUtsd3dqcEI1QnpydlBjUQ?oc=5)
+Source: [ABC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2hiQlVNVTZ2UjlNR3RILWhFS2kyNHozcmFLSFJlTE1GOHRxRFFxVlgydHM5QkVUYnZ5QU5MZnY5TnBkQjFVRkNNLVN3TUwyaEZFQjRJa3ZCMWo5NGI0LWFyeXh3cWItUjhYb3lNV3VlMl9FMXU2Q0Nad3VsRHZPb21qaVMxTmJlVXNLcF9BanUxLUFSTkxMUnBUUFlBTV91Nld6RnZDRTMtTkZ0M2xXMNIBtgFBVV95cUxNVkRIai0tZjR4enRHZkpEVjRhNFhBNFNGemE1WUJaOEVMWF9qb205eVhZdTZjalQ4REJiYWFhdzVxRmVPdUEwMGVBdUVKSnp0eDdtdDBLM0tVX1RPZUVfcmZkWDdrY09hZTNBS19UR1ZwSkZ0dXZ1U2FrN3ZGV2xSekZ2RjhCUXBLZERCVEs1c0wwZEhqVG1UelNvWnNBZHQ4VFEtRWd1MUtsd3dqcEI1QnpydlBjUQ?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
 
 ---
 
@@ -82,7 +82,7 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
 
 ---
 
@@ -90,7 +90,7 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjdnamhNcHEzZnRlc3lDRzV2UFB5STRiR0F5TURhTGxpc25uZS16NmxoTjhNTXJWYXQ0cGdZcjhTZTBYNnFEeGFGa1FaRm13UmpYZHBnMTdrY3Z6bEFidXVTc2NCcEpLLWgyQmdYNnJJR0hqYWctRmpUVDBrYWFlcjdhcHNMQ2JDa3JZSGZZbGFUSnRxbk5OV0lrdWlKZ0RyYnEtNWVaWlhUdUVkN3pn?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjdnamhNcHEzZnRlc3lDRzV2UFB5STRiR0F5TURhTGxpc25uZS16NmxoTjhNTXJWYXQ0cGdZcjhTZTBYNnFEeGFGa1FaRm13UmpYZHBnMTdrY3Z6bEFidXVTc2NCcEpLLWgyQmdYNnJJR0hqYWctRmpUVDBrYWFlcjdhcHNMQ2JDa3JZSGZZbGFUSnRxbk5OV0lrdWlKZ0RyYnEtNWVaWlhUdUVkN3pn?oc=5)
 
 ---
 
@@ -98,7 +98,7 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-indication-tag">obesidad</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV040NE44b2RsMWRDRG5Fa1pRMlNDdzRXXzFtZjl0S2gyMWh1TWotRzA0RlFqMGlEdHN2dTZaM3c4T0JEbkRGRUVQMThSU2tEQU1aOE03Yk1lQWNxNjBBT08tX0h4WXl6dmVpbG1rOFRXU3EzNERxbWQwTDVTdjhpenR6SFdzWjF0T1dmazFKQ3FzaUhMWG9RM2tNcFBJbGZ0eGNjMU51Y0s2LWplY3BTQjh3ckhIZ2huTXI3LWIxYmhUZVVDWnBEc2JPc0FCcTJvZlBoU0x5bklBX09I?oc=5)
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV040NE44b2RsMWRDRG5Fa1pRMlNDdzRXXzFtZjl0S2gyMWh1TWotRzA0RlFqMGlEdHN2dTZaM3c4T0JEbkRGRUVQMThSU2tEQU1aOE03Yk1lQWNxNjBBT08tX0h4WXl6dmVpbG1rOFRXU3EzNERxbWQwTDVTdjhpenR6SFdzWjF0T1dmazFKQ3FzaUhMWG9RM2tNcFBJbGZ0eGNjMU51Y0s2LWplY3BTQjh3ckhIZ2huTXI3LWIxYmhUZVVDWnBEc2JPc0FCcTJvZlBoU0x5bklBX09I?oc=5)
 
 ---
 
@@ -106,7 +106,7 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-indication-tag">obesidad</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXU4TURPR1ZEZXdXcWVKcG5UQU9KQTNNU214ZFFaYlNxZC1YSzNQV2stZDR0dmszX2xTM0dtU09tZGNKQUJmV1RZWTF1dWZxS3JieXEza19fZVMyOEI0S0F4RUN4cVFxTlMtcEFCdWZSY0FBcGpWRVEzbmlnU2ttZGU5VWNwODZDVTl0ZkdYU0VzV2NpNUZOTWtuc1h0NmVoMkk4TXdiNlBLYlpXSkh2MG42MGQ5dms?oc=5)
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXU4TURPR1ZEZXdXcWVKcG5UQU9KQTNNU214ZFFaYlNxZC1YSzNQV2stZDR0dmszX2xTM0dtU09tZGNKQUJmV1RZWTF1dWZxS3JieXEza19fZVMyOEI0S0F4RUN4cVFxTlMtcEFCdWZSY0FBcGpWRVEzbmlnU2ttZGU5VWNwODZDVTl0ZkdYU0VzV2NpNUZOTWtuc1h0NmVoMkk4TXdiNlBLYlpXSkh2MG42MGQ5dms?oc=5)
 
 ---
 
@@ -114,7 +114,7 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
+Source: [RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
 
 ---
 
@@ -122,7 +122,7 @@ permalink: /news/orlistat/
 
 2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
 
 ---
 
@@ -130,7 +130,7 @@ permalink: /news/orlistat/
 
 2026-09-13 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
 
 ---
 
@@ -138,7 +138,7 @@ permalink: /news/orlistat/
 
 2026-09-13 <span class="news-indication-tag">obesità</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1k2dkFrblNkdUQ3ZmVKVkZEUUUxNDhsYnc4REFDUmkzTUpMcEdkbDFWS2xrZVIxR1Rsb1d4UHFrSW9aaDJQWFdQTGNybGhOVHVsVHpfYkE4Si1MYjdPd2FMTjRUejFFMGlCWWFxMFBzWlhBRjRXTnRZT2hGcHFraW1kSGxxZkRMSjNBLVdyZmpSVmo2MmJ4bXlDSktnMURFaTR2dE13OFhJWnRvZmVXalFVNmJNejhucW5PSw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1k2dkFrblNkdUQ3ZmVKVkZEUUUxNDhsYnc4REFDUmkzTUpMcEdkbDFWS2xrZVIxR1Rsb1d4UHFrSW9aaDJQWFdQTGNybGhOVHVsVHpfYkE4Si1MYjdPd2FMTjRUejFFMGlCWWFxMFBzWlhBRjRXTnRZT2hGcHFraW1kSGxxZkRMSjNBLVdyZmpSVmo2MmJ4bXlDSktnMURFaTR2dE13OFhJWnRvZmVXalFVNmJNejhucW5PSw?oc=5)
 
 ---
 
@@ -146,7 +146,7 @@ permalink: /news/orlistat/
 
 2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
 
 ---
 
@@ -154,7 +154,7 @@ permalink: /news/orlistat/
 
 2026-09-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3U4eWFxOGJCVXUtRUd4U2l0dG5iS2g4X3hudkxJdTZiRkJqV2Y4eU91dE8xOW1HME13R1dERF96Sm8xWi00M1N2V2ttUDR6LVdFRDJWQjFUVFhpcFBsVmFONnJxeTg2Mmx1ekx5aXBWZHJuOWlPMXJxNVBEZ2plelpYUEpTQnRPRFBqRzdkdzRYVlc4VkI2ZnY3TElERG15dlphbTZBM1JGTkNGUEt2d1p4ZmVoZ2J2VFRDSUV2RDB3U3dBN0R1Mmp4UnlxZFJzcEVKbF9yeGxBbHNVM0lr?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3U4eWFxOGJCVXUtRUd4U2l0dG5iS2g4X3hudkxJdTZiRkJqV2Y4eU91dE8xOW1HME13R1dERF96Sm8xWi00M1N2V2ttUDR6LVdFRDJWQjFUVFhpcFBsVmFONnJxeTg2Mmx1ekx5aXBWZHJuOWlPMXJxNVBEZ2plelpYUEpTQnRPRFBqRzdkdzRYVlc4VkI2ZnY3TElERG15dlphbTZBM1JGTkNGUEt2d1p4ZmVoZ2J2VFRDSUV2RDB3U3dBN0R1Mmp4UnlxZFJzcEVKbF9yeGxBbHNVM0lr?oc=5)
 
 ---
 
@@ -162,7 +162,7 @@ permalink: /news/orlistat/
 
 2026-09-12 <span class="news-indication-tag">ictus</span>
 
-來源：[healthy.thewom.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
+Source: [healthy.thewom.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
 
 ---
 
@@ -170,7 +170,7 @@ permalink: /news/orlistat/
 
 2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
 
 ---
 
@@ -178,7 +178,7 @@ permalink: /news/orlistat/
 
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 ---
 
@@ -186,13 +186,13 @@ permalink: /news/orlistat/
 
 2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

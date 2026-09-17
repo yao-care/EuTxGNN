@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Linaclotide
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 356
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Linaclotide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -51,7 +51,7 @@ Linaclotide (DrugBank DB08890) is a minimally-absorbed guanylate cyclase-C (GC-C
 | Predicted New Indication | Large Intestine Disease |
 | TxGNN Prediction Score | 95.14% (rank 9 of candidates) |
 | Evidence Level | L3 |
-| Market Status (local regulatory data) | 未上市 / Not marketed |
+| Market Status (local regulatory data) | Not marketed / Not marketed |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 

@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Semaglutide
-description: "Semaglutide drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 524
+nav_order: 536
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Semaglutide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Semaglutide: From Type 2 Diabetes/Obesity to Focal Stiff Limb Syndrome
+
+## One-Sentence Summary
+
+Semaglutide is a GLP-1 receptor agonist publicly known for treating type 2 diabetes and obesity, though this evidence pack does not contain structured registry data confirming its original approved indication or mechanism of action. The TxGNN model predicts potential efficacy for **Focal Stiff Limb Syndrome**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags the link as likely a topological artifact rather than a genuine mechanistic connection.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Semaglutide |
-| DrugBank ID | [DB13928](https://go.drugbank.com/drugs/DB13928) |
-| Brand Names (EU) | Ozempic, Wegovy |
+| Item | Content |
+|------|------|
+| Original Indication | Not available in evidence pack (no TFDA/EU license records found; publicly known as a GLP-1 receptor agonist for type 2 diabetes/obesity) |
+| Predicted New Indication | Focal Stiff Limb Syndrome |
+| TxGNN Prediction Score | 98.64% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 98.64% |
+| EU Market Status | Not Marketed (Not marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise:  as monotherapy when metformin is considered inappropriate due to intolerance or contraindications; in addition to other medicinal products for the treatment of diabetes.  For study results with respect to combinations, effects on glycaemic control and cardiovascular events, and the populations studied, see sections 4.4, 4.5 and 5.1.
+Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on publicly known information, Semaglutide is a GLP-1 receptor agonist whose efficacy in type 2 diabetes and obesity is well established, acting primarily through glucose-dependent insulinotropic effects on pancreatic β-cells and central appetite regulation.
 
----
+Focal Stiff Limb Syndrome is an autoimmune neuro-excitability disorder associated with anti-GAD65 antibodies — a disease category with no established biological overlap with GLP-1 receptor signaling. The model's own repurposing rationale explicitly states: *"GLP-1 receptor agonists act primarily on metabolic/islet β-cell pathways, with no known direct biological connection to this autoimmune neuro-excitability disorder; the high KG score likely reflects topological similarity rather than a true mechanistic link."*
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | focal stiff limb syndrome | 98.64% | DL |
-| 2 | classic stiff person syndrome | 98.64% | DL |
-| 3 | opsismodysplasia | 98.59% | DL |
-| 4 | thiamine-responsive dysfunction syndrome | 98.58% | DL |
-| 5 | diabetes mellitus (disease) | 98.47% | DL |
-| 6 | drug-induced localized lipodystrophy | 97.66% | DL |
-| 7 | centrifugal lipodystrophy | 97.56% | DL |
-| 8 | pressure-induced localized lipoatrophy | 97.49% | DL |
-| 9 | idiopathic localized lipodystrophy | 97.35% | DL |
-| 10 | pancreatic agenesis | 97.31% | DL |
-| 11 | autoimmune oophoritis | 95.05% | DL |
-| 12 | type 1 diabetes mellitus | 94.90% | DL |
-| 13 | cholangiocarcinoma, susceptibility to | 64.87% | DL |
-| 14 | hemoglobin C-beta-thalassemia syndrome | 64.49% | DL |
-| 15 | hypercarotenemia and vitamin A deficiency, autosomal recessive | 63.81% | DL |
-| 16 | atrial flutter (disease) | 62.96% | DL |
-| 17 | permanent neonatal diabetes mellitus | 61.46% | DL |
-| 18 | pancreas, dorsal, agenesis of | 60.18% | DL |
-| 19 | lymphopenic hypergammaglobulinemia, antibody deficiency, autoimmune hemolytic anemia, and glomerulonephritis | 59.53% | DL |
-| 20 | mitral valve prolapse, myxomatous | 59.52% | DL |
-
-*Showing top 20 of 51 predictions.*
+This candidate should therefore be interpreted as a pure knowledge-graph embedding signal rather than a biologically grounded hypothesis. Notably, several other top-10 candidates in this pack (e.g., pancreatic agenesis) show rationale notes describing the mechanistic link as potentially **contradictory** to known pharmacology (a drug requiring functional β-cells predicted for a disease defined by their absence), reinforcing that this batch of predictions warrants cautious interpretation rather than immediate pursuit.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorization records are available for Semaglutide in this dataset. `taiwan_regulatory.market_status` indicates "Not Marketed" with 0 total licenses on file.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> **Note:** Retrieval of TFDA/EU label warnings and contraindications is currently a **Blocking** data gap (DG001) — this prevents the candidate from entering the S1 safety pre-assessment stage.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All ten TxGNN-predicted indications for Semaglutide in this pack are Evidence Level L5 (model prediction only, zero clinical trials or literature), and the top-ranked candidate's own mechanistic rationale describes the link as likely a topological artifact rather than genuine biology. Combined with a Blocking safety data gap and no confirmed EU marketing authorization in this dataset, there is currently no basis to advance beyond model-prediction stage (S0).
+
+**To proceed, the following is needed:**
+- TFDA/EU SmPC label retrieval and parsing for warnings and contraindications (DG001, Blocking)
+- Mechanism of action data via DrugBank API (DG002, High)
+- Preclinical or mechanistic studies specifically linking GLP-1 receptor signaling to autoimmune neuro-excitability disorders (e.g., GAD65-mediated pathology) before considering the top-ranked candidate further
+- Confirmation of current EU marketing authorization status for Semaglutide, as the "not marketed" flag in this pack appears inconsistent with its known commercial availability and should be verified against source data
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

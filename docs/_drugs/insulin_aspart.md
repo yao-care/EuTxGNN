@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Aspart
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 313
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Insulin Aspart
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -99,7 +99,7 @@ The TxGNN prediction score of 99.95% for T1DM, combined with L1 clinical evidenc
 
 ## Taiwan Market Information
 
-Insulin aspart is currently **not registered in Taiwan** (TFDA market status: 未上市). There are no active marketing authorizations on record with the Taiwan Food and Drug Administration.
+Insulin aspart is currently **not registered in Taiwan** (TFDA market status: Not marketed). There are no active marketing authorizations on record with the Taiwan Food and Drug Administration.
 
 > **For reference**: Insulin aspart is widely approved in all major global markets — as NovoRapid® (EU: EMA approval; Japan: PMDA approval) and NovoLog® (USA: FDA approval) — for the treatment of diabetes mellitus in adults, adolescents, and children. Taiwan registration may be pursued through a new drug application (NDA) referencing these existing international approvals.
 

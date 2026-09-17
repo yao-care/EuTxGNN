@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Delamanid 相關新聞"
-parent: 健康新聞
+title: "Delamanid News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Delamanid 的相關健康新聞報導。原適應症：Deltyba is indicated for use as part of an appropr...。預測適應症 20 個。"
+description: "Health news related to Delamanid. Original indication: Deltyba is indicated for use as part of an appropr.... 20 predicted indications."
 permalink: /news/delamanid/
 ---
 
-# Delamanid 相關新聞
+# Delamanid News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Delamanid 有什麼相關新聞？">
-<strong>Delamanid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Delamanid?">
+<strong>Delamanid</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Delamanid 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Delamanid with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>multidrug-resistant tuberculosis（99.9%）</li>
-<li>tuberculosis, bovine（99.9%）</li>
-<li>tuberculoma（99.9%）</li>
-<li>tuberculosis, avian（99.9%）</li>
-<li>inactive tuberculosis（99.9%）</li>
-<li>tuberculous ascites（99.9%）</li>
-<li>allergic urticaria（99.6%）</li>
-<li>cutaneous tuberculosis（99.1%）</li>
-<li>fascioliasis（99.0%）</li>
-<li>inhalational botulism（98.9%）</li>
-<li>urea cycle disorder（98.8%）</li>
-<li>toxin-mediated infectious botulism（98.7%）</li>
-<li>hyperamylasemia（98.6%）</li>
-<li>polyclonal hyperviscosity syndrome（98.6%）</li>
-<li>leishmaniasis, diffuse cutaneous（98.6%）</li>
-<li>congenital analbuminemia（98.4%）</li>
-<li>Clostridium infectious disease（98.2%）</li>
-<li>extrapulmonary tuberculosis（98.1%）</li>
-<li>blood group incompatibility（98.0%）</li>
-<li>vulvovaginal candidiasis（97.8%）</li>
+<li><strong>Original indication</strong>: Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>multidrug-resistant tuberculosis (99.9%)</li>
+<li>tuberculosis, bovine (99.9%)</li>
+<li>tuberculoma (99.9%)</li>
+<li>tuberculosis, avian (99.9%)</li>
+<li>inactive tuberculosis (99.9%)</li>
+<li>tuberculous ascites (99.9%)</li>
+<li>allergic urticaria (99.6%)</li>
+<li>cutaneous tuberculosis (99.1%)</li>
+<li>fascioliasis (99.0%)</li>
+<li>inhalational botulism (98.9%)</li>
+<li>urea cycle disorder (98.8%)</li>
+<li>toxin-mediated infectious botulism (98.7%)</li>
+<li>hyperamylasemia (98.6%)</li>
+<li>polyclonal hyperviscosity syndrome (98.6%)</li>
+<li>leishmaniasis, diffuse cutaneous (98.6%)</li>
+<li>congenital analbuminemia (98.4%)</li>
+<li>Clostridium infectious disease (98.2%)</li>
+<li>extrapulmonary tuberculosis (98.1%)</li>
+<li>blood group incompatibility (98.0%)</li>
+<li>vulvovaginal candidiasis (97.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/delamanid/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/delamanid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

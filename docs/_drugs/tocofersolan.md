@@ -1,132 +1,92 @@
 ---
 layout: default
 title: Tocofersolan
-description: "Tocofersolan drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 592
+nav_order: 603
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Tocofersolan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tocofersolan: From Vitamin E Deficiency in Cholestasis to Amenorrhea
+
+## One-Sentence Summary
+
+Tocofersolan is a water-soluble vitamin E (TPGS) derivative used to supplement vitamin E deficiency in patients with chronic cholestasis. The TxGNN model predicts a possible association with **Amenorrhea**, but currently there are **no clinical trials** and **no published literature** supporting this direction — this is a pure AI prediction with weak mechanistic plausibility.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tocofersolan |
-| DrugBank ID | [DB11635](https://go.drugbank.com/drugs/DB11635) |
-| Brand Names (EU) | Vedrop |
+| Item | Content |
+|------|------|
+| Original Indication | Vitamin E deficiency in chronic cholestasis (based on general drug background information; no formal regulatory license text available) |
+| Predicted New Indication | Amenorrhea |
+| TxGNN Prediction Score | 99.31% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.31% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available. Based on known information, tocofersolan is a water-soluble vitamin E (TPGS) derivative used to correct vitamin E deficiency in patients with chronic cholestasis; its efficacy in this original indication is established, but mechanistically the evidence for applicability to amenorrhea is limited.
+
+The original indication (hepatobiliary/nutritional — vitamin E deficiency secondary to cholestasis) and the predicted new indication (reproductive endocrine — amenorrhea) belong to distinct physiological domains with no established causal pathway between them. The knowledge-graph rationale suggests the prediction may reflect an indirect node connection between vitamin E and reproductive/endocrine metabolism rather than a direct, biologically grounded mechanism.
+
+This low confidence is reinforced by the rest of the top-10 prediction list for this drug, which includes clearly irrelevant veterinary diseases (infectious bovine rhinotracheitis, malignant catarrh) and genetic coagulation disorders with no plausible link to vitamin E supplementation — indicating that the underlying knowledge-graph signal for tocofersolan is noisy overall and each prediction should be interpreted with caution rather than as a directional signal on its own.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## EU Market Information
+
+Tocofersolan is not currently marketed in the EU under any authorization on record; no license data is available for this drug.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All predicted indications for tocofersolan are supported only by TxGNN model scores (Evidence Level L5) with zero clinical trials or literature, and several other top-ranked candidates in the prediction set are clearly implausible (veterinary diseases, unrelated genetic disorders), indicating low overall signal quality. In addition, a Blocking-severity data gap on regulatory label warnings prevents this candidate from entering the S1 safety review stage.
+
+**To proceed, the following is needed:**
+- TFDA/EU label warnings and contraindications (Blocking gap — required before any S1 safety evaluation)
+- Verified mechanism of action (MOA) data from DrugBank or another authoritative source
+- Clinical or preclinical evidence specifically linking tocofersolan to amenorrhea or other top-ranked candidate indications
+- Confirmation of current EU/international marketing and regulatory status
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Vedrop is indicated in vitamin-E deficiency due to digestive malabsorption in paediatric patients suffering from congenital chronic cholestasis or hereditary chronic cholestasis, from birth (in term newborns) to 16 or 18 years of age, depending on the region.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | amenorrhea (disease) | 99.31% | DL |
-| 2 | acne (disease) | 99.03% | DL |
-| 3 | malignant catarrh | 98.25% | DL |
-| 4 | infectious bovine rhinotracheitis | 98.25% | DL |
-| 5 | conjunctivitis | 97.40% | DL |
-| 6 | cytomegalovirus infection | 97.22% | DL |
-| 7 | antithrombin deficiency type 2 | 97.05% | DL |
-| 8 | factor 5 excess with spontaneous thrombosis | 96.86% | DL |
-| 9 | roseolovirus infectious disease | 96.85% | DL |
-| 10 | peripheral arterial disease | 96.72% | DL |
-| 11 | peripheral vascular disease | 96.53% | DL |
-| 12 | migraine with brainstem aura | 96.47% | DL |
-| 13 | heparin cofactor 2 deficiency | 96.44% | DL |
-| 14 | blepharoconjunctivitis | 96.36% | DL |
-| 15 | resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta | 96.36% | DL |
-| 16 | intermittent vascular claudication | 96.33% | DL |
-| 17 | intracranial arteriosclerosis | 96.32% | DL |
-| 18 | tinea corporis | 96.29% | DL |
-| 19 | parasitic eyelid infestation | 96.26% | DL |
-| 20 | dermatitis | 96.20% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bosutinib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 99
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Bosutinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -99,7 +99,7 @@ The key insight from this evaluation is not whether Bosutinib works for myeloid 
 
 ## Taiwan Market Information
 
-Bosutinib currently has **no marketing authorizations in Taiwan** (0 registered products; TFDA status: 未上市). Despite FDA approval since 2012 and EMA approval (Bosulif®, Pfizer), Bosutinib remains inaccessible to Taiwanese CML patients through the domestic regulatory pathway.
+Bosutinib currently has **no marketing authorizations in Taiwan** (0 registered products; TFDA status: Not marketed). Despite FDA approval since 2012 and EMA approval (Bosulif®, Pfizer), Bosutinib remains inaccessible to Taiwanese CML patients through the domestic regulatory pathway.
 
 | Authorization | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Omalizumab
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 433
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -89,7 +89,7 @@ Critically, the two trials linked to this prediction (NCT02477332, NCT02049294) 
 
 ## EU Market Information
 
-Omalizumab has no marketing authorization records in the current dataset (`market_status: 未上市`, `total_licenses: 0`). No license table can be produced.
+Omalizumab has no marketing authorization records in the current dataset (`market_status: Not marketed`, `total_licenses: 0`). No license table can be produced.
 
 ---
 

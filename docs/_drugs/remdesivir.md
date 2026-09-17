@@ -1,132 +1,95 @@
 ---
 layout: default
 title: Remdesivir
-description: "Remdesivir drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 487
+nav_order: 499
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Remdesivir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Remdesivir: From Antiviral Therapy to Multiple Endocrine Neoplasia
+
+## One-Sentence Summary
+
+> Remdesivir is a nucleotide prodrug antiviral that inhibits the viral RNA-dependent RNA polymerase (RdRp), with proven activity against coronaviruses and filoviruses such as Ebola and SARS-CoV-2.
+> The TxGNN model's top-ranked prediction suggests possible efficacy for **Multiple Endocrine Neoplasia**,
+> but this candidate is supported by **zero clinical trials** and **zero publications** — the evidence pack's own analysis flags it as a likely model artifact with no plausible biological mechanism.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Remdesivir |
-| DrugBank ID | [DB14761](https://go.drugbank.com/drugs/DB14761) |
-| Brand Names (EU) | Veklury |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.50% |
+| Item | Content |
+|------|------|
+| Original Indication | Not on file in this evidence pack (drug not marketed; `original_indications` empty). Based on mechanistic notes embedded in the pack, Remdesivir is an antiviral RdRp inhibitor used against coronaviruses/filoviruses. |
+| Predicted New Indication | Multiple Endocrine Neoplasia |
+| TxGNN Prediction Score | 99.50% |
+| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism of action data is not directly available (`original_moa` is unrecorded). However, mechanistic notes embedded elsewhere in this evidence pack describe Remdesivir as a nucleotide analog prodrug that inhibits the viral RNA-dependent RNA polymerase (RdRp), with demonstrated antiviral activity against coronaviruses (SARS-CoV-2) and filoviruses (Ebola).
+
+Multiple Endocrine Neoplasia (MEN) is a hereditary tumor syndrome caused by germline mutations in genes such as *MEN1* or *RET*, leading to tumors across multiple endocrine glands (parathyroid, pituitary, pancreas, thyroid). This is a genetic oncology/endocrinology condition with no established relationship to viral replication or RNA polymerase biology.
+
+**This prediction is not mechanistically supported.** There is no known pathway linking RdRp inhibition to suppression of endocrine tumorigenesis, and the candidate has zero associated clinical trials or publications. The evidence pack's internal rationale explicitly characterizes this as a probable artifact of the model's embedding/clustering behavior rather than a genuine biological signal. It should be treated as a low-confidence output requiring no further action at this time.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+No EU marketing authorization is currently on file for Remdesivir in this dataset (market status: Not marketed; 0 licenses recorded).
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug-interaction data are not currently available in this evidence pack.)
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This is an L5, decision-stage-S0 prediction with no clinical trial or literature support, and the evidence pack itself identifies it as a mechanistically implausible model artifact. There is no basis to advance this candidate.
+
+**To proceed, the following is needed:**
+- Mechanism of action (MOA) data for Remdesivir, via DrugBank API query (data gap DG002)
+- TFDA/SmPC label warnings and contraindications, via label PDF parsing (data gap DG001, blocking — required before any S1 safety screening)
+- Independent verification of why the TxGNN model scored this pairing highly, given the absence of any supporting mechanism, trial, or literature signal
+
+**Note on other candidates in this pack:** the next-highest-evidence candidate (HIV infectious disease, rank 2) initially appears well-supported with 20+ trials and 20 literature hits, but closer review shows nearly all of this evidence is mislabeled COVID-19 data, not genuine HIV studies — Remdesivir's RdRp-inhibition mechanism has no known activity against HIV reverse transcriptase/integrase. None of the ten ranked predictions in this pack currently meet a bar for further evaluation.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Veklury is indicated for the treatment of coronavirus disease 2019 (COVID 19) in&nbsp;adults and paediatric patients (at least 4 weeks of age and weighing at least 3 kg):&nbsp;  with pneumonia requiring supplemental oxygen (low- or high-flow oxygen or other non-invasive ventilation at start of treatment) who do not require supplemental oxygen and who are at increased risk of progressing to severe COVID-19 (see section 5.1)
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | multiple endocrine neoplasia | 99.50% | DL |
-| 2 | HIV infectious disease | 99.32% | DL |
-| 3 | feline acquired immunodeficiency syndrome | 99.07% | DL |
-| 4 | simian immunodeficiency virus infection | 99.07% | DL |
-| 5 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 99.03% | DL |
-| 6 | homozygous familial hypercholesterolemia | 99.03% | DL |
-| 7 | Prinzmetal angina | 98.34% | DL |
-| 8 | leprosy | 97.37% | DL |
-| 9 | antithrombin deficiency type 2 | 97.25% | DL |
-| 10 | cytomegalovirus infection | 97.08% | DL |
-| 11 | factor 5 excess with spontaneous thrombosis | 96.99% | DL |
-| 12 | heparin cofactor 2 deficiency | 96.95% | DL |
-| 13 | infectious bovine rhinotracheitis | 96.89% | DL |
-| 14 | malignant catarrh | 96.89% | DL |
-| 15 | oral candidiasis | 96.83% | DL |
-| 16 | hyperthyroidism | 96.79% | DL |
-| 17 | hypoalphalipoproteinemia | 96.70% | DL |
-| 18 | resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta | 96.62% | DL |
-| 19 | conjunctivitis | 96.57% | DL |
-| 20 | commissural lip fistula | 96.56% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

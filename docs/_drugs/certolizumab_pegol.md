@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Certolizumab Pegol
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 140
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Certolizumab Pegol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ The TxGNN model predicts it may be effective for **Rheumatoid Vasculitis** (scor
 | Predicted New Indication | Rheumatoid Vasculitis |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L4 |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Taiwan Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -108,7 +108,7 @@ The single case report supporting CZP's therapeutic benefit in RV (PMID 34786446
 - Prospective case series or an observational registry specifically enrolling RV patients treated with anti-TNF agents, with systematic immunological characterization (ANCA, complement levels, cryoglobulins, immune complex profiling) to distinguish responders from paradoxical reactors
 - Mechanistic studies clarifying whether the RV subtype (small-vessel immune complex vs. medium-vessel ischemic) predicts anti-TNF response direction
 - TFDA SmPC review to identify local contraindications and warnings applicable to Taiwan (Data Gap DG001 — currently blocking S1 safety evaluation)
-- Regulatory pathway assessment for Taiwan market entry, given current 未上市 status and 0 local authorizations
+- Regulatory pathway assessment for Taiwan market entry, given current Not marketed status and 0 local authorizations
 - Formal MOA documentation from DrugBank API (Data Gap DG002) to support mechanistic rationale in future submissions
 ## Disclaimer
 

@@ -1,132 +1,94 @@
 ---
 layout: default
 title: Tecovirimat
-description: "Tecovirimat drug repurposing predictions from TxGNN. Evidence level L5 with 53 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 559
+nav_order: 570
 evidence_level: L5
-indication_count: 53
+indication_count: 10
 ---
 
 # Tecovirimat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **53**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tecovirimat: From Orthopoxvirus Infection to Hordeolum
+
+## One-Sentence Summary
+
+Tecovirimat is an antiviral agent whose known mechanism specifically targets the VP37 envelope-wrapping protein of orthopoxviruses (variola/smallpox, mpox, vaccinia), and it has established clinical use in the treatment of these infections. The TxGNN model predicts a possible new indication for **Hordeolum** (an acute bacterial infection of the eyelid), but this candidate is supported only by a computational score (**score-based ranking only, no confirming trials or publications**), and the drug's own mechanism of action provides no plausible pathway to a bacterial eyelid infection.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tecovirimat |
-| DrugBank ID | [DB12020](https://go.drugbank.com/drugs/DB12020) |
-| Brand Names (EU) | Tecovirimat SIGA |
-| Evidence Level | L5 |
-| Predicted Indications | 53 |
-| Top Prediction Score | 99.71% |
+| Item | Content |
+|------|------|
+| Original Indication | Smallpox / Mpox (orthopoxvirus infections) — not confirmed in the EU regulatory dataset provided (no EU marketing authorization on record) |
+| Predicted New Indication | Hordeolum |
+| TxGNN Prediction Score | 99.66% |
+| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism of action data is marked as a data gap in this Evidence Pack. However, the repurposing rationale accompanying the prediction independently describes Tecovirimat's known mechanism: it selectively inhibits the VP37 envelope-wrapping protein of orthopoxviruses, blocking viral envelopment and cell-to-cell/extracellular spread. This mechanism is active only against poxviruses (smallpox, mpox, vaccinia) and has no known activity against bacteria.
+
+Hordeolum, however, is an acute bacterial infection of the meibomian or Zeis/Moll glands of the eyelid, most commonly caused by *Staphylococcus* species. There is no overlap between an antiviral, poxvirus-specific mechanism and the pathophysiology of a bacterial eyelid abscess. The relationship between the original indication (orthopoxvirus infection) and the predicted new indication (hordeolum) is therefore not mechanistically supported.
+
+This appears to be a case where the TxGNN knowledge-graph embedding produced a high similarity score without an underlying biological rationale — a known limitation of purely graph-based repurposing predictions in the absence of confirmatory clinical or literature evidence. The Evidence Pack's own scoring explicitly reflects this: Evidence Level L5, decision stage S0, and a recommendation of Hold.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+Tecovirimat currently has no marketing authorization on record in the EU dataset provided (`total_licenses: 0`, market status: **Not marketed**). No authorization table can be generated.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*(Note: key warnings, contraindications, and drug-drug interaction data are marked as blocking data gaps in this Evidence Pack — specifically, TFDA/EU label warnings and contraindications have not yet been retrieved, which is flagged as a blocking issue for any safety pre-assessment.)*
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The predicted indication (hordeolum) has no supporting clinical trials or literature (Evidence Level L5), and the drug's known antiviral, poxvirus-specific mechanism provides no plausible biological pathway to a bacterial eyelid infection. In addition, this drug is not currently marketed in the EU dataset, and safety labelling data (warnings/contraindications) remains an unresolved blocking data gap.
+
+**To proceed, the following is needed:**
+- Retrieval of the TFDA/EU product label (SmPC) to resolve the blocking safety data gap (warnings, contraindications)
+- Confirmed mechanism-of-action documentation from DrugBank or equivalent source
+- Independent mechanistic or preclinical evidence linking VP37 inhibition (or any other Tecovirimat activity) to bacterial eyelid infection, before this candidate can advance past S0
+- Given that all top-10 TxGNN predictions for this drug (hordeolum, vibrio infection, Klebsiella infection, noma, E. coli infection, Newcastle disease, herpes, equine infectious anemia, Astroviridae infection, Arterivirus infection) show the same pattern — high score, no mechanistic plausibility, no confirmatory evidence — this candidate bundle should be treated as a low-priority screening artifact rather than a near-term repurposing opportunity.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Tecovirimat SIGA is indicated for the treatment of the following viral infections in adults and children with body weight at least 13 kg:  Smallpox Monkeypox Cowpox  Tecovirimat SIGA is also indicated to treat complications due to replication of vaccinia virus following vaccination against smallpox in adults and children with body weight at least 13 kg (see sections 4.4 and 5.1). Tecovirimat SIGA should be used in accordance with official recommendations.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | smallpox | 99.71% | DL |
-| 2 | cowpox | 99.69% | DL |
-| 3 | contagious pustular dermatitis | 99.69% | DL |
-| 4 | milker's nodule | 99.69% | DL |
-| 5 | hordeolum | 99.66% | DL |
-| 6 | vibrio infectious disease | 99.65% | DL |
-| 7 | Klebsiella infectious disease | 99.64% | DL |
-| 8 | noma | 99.62% | DL |
-| 9 | Newcastle disease | 99.62% | DL |
-| 10 | Proteus infectious disease | 99.62% | DL |
-| 11 | lumpy skin disease | 99.62% | DL |
-| 12 | Astroviridae infectious disease | 99.62% | DL |
-| 13 | arbovirus infection | 99.62% | DL |
-| 14 | escherichia coli infection | 99.62% | DL |
-| 15 | molluscum contagiosum | 99.62% | DL |
-| 16 | pneumonic pasteurellosis | 99.62% | DL |
-| 17 | human infection by orthopoxvirus | 99.62% | DL |
-| 18 | idiopathic severe pneumococcemia | 99.62% | DL |
-| 19 | monkeypox | 99.62% | DL |
-| 20 | coinfection | 99.62% | DL |
-
-*Showing top 20 of 53 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

@@ -1,132 +1,114 @@
 ---
 layout: default
 title: Tezacaftor
-description: "Tezacaftor drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 574
+nav_order: 585
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Tezacaftor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Tezacaftor: From Cystic Fibrosis to HIV Infectious Disease
+
+## One-Sentence Summary
+
+> Tezacaftor is a CFTR corrector believed to be used in the treatment of cystic fibrosis, acting on chloride channel protein folding.
+> The TxGNN model's top-ranked prediction suggests possible relevance to **HIV Infectious Disease**,
+> but this is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale explicitly states there is no known biological plausibility for this link.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Tezacaftor |
-| DrugBank ID | [DB11712](https://go.drugbank.com/drugs/DB11712) |
-| Brand Names (EU) | Tezacaftor |
+| Item | Content |
+|------|------|
+| Original Indication | Cystic Fibrosis (inferred from CFTR corrector mechanism referenced throughout the evidence pack; not confirmed via a formal regulatory license record) |
+| Predicted New Indication | HIV Infectious Disease |
+| TxGNN Prediction Score | 99.24% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.24% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Kaftrio tablets are indicated in a combination regimen with ivacaftor for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who have at least one non-Class I mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Kaftrio granules are indicated in a combination regimen with ivacaftor for the treatment of cystic fibrosis (CF) in paediatric patients aged 2 to less than 6 years who have at least one non-Class I mutation in the cystic fibrosis transmem
+Currently, detailed mechanism of action data is not available — this is flagged as a High-severity data gap in the evidence pack. Based on the contextual information available (repeated references to "CFTR corrector" and "cystic fibrosis patients" across the prediction rationales and the one associated clinical trial), Tezacaftor appears to work by correcting the folding and trafficking of the CFTR chloride channel protein.
 
----
+For the top-ranked prediction, HIV Infectious Disease, the evidence pack's own mechanistic assessment states there is **no known biological connection**: "Tezacaftor is a CFTR corrector acting on chloride channel folding correction; there is no known relationship to the HIV replication cycle or host immune mechanisms — this is a knowledge-graph embedding similarity inference without biological plausibility." This prediction should be interpreted as a statistical artifact of the knowledge graph rather than a genuine repurposing signal.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | HIV infectious disease | 99.24% | DL |
-| 2 | leprosy | 99.14% | DL |
-| 3 | multiple endocrine neoplasia | 99.06% | DL |
-| 4 | simian immunodeficiency virus infection | 98.96% | DL |
-| 5 | feline acquired immunodeficiency syndrome | 98.96% | DL |
-| 6 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 98.85% | DL |
-| 7 | rheumatoid arthritis | 98.65% | DL |
-| 8 | female breast carcinoma | 98.39% | DL |
-| 9 | homozygous familial hypercholesterolemia | 98.37% | DL |
-| 10 | amyotrophic lateral sclerosis | 98.35% | DL |
-| 11 | thrombocytopenia | 98.35% | DL |
-| 12 | hereditary thrombocytopenia with normal platelets | 98.08% | DL |
-| 13 | marcothrombocytopenia with mitral valve insufficiency | 98.07% | DL |
-| 14 | brachydactyly-syndactyly syndrome | 98.05% | DL |
-| 15 | transient neonatal thrombocytopenia | 98.02% | DL |
-| 16 | oral candidiasis | 97.92% | DL |
-| 17 | collagenopathy | 97.90% | DL |
-| 18 | dense granule disease | 97.88% | DL |
-| 19 | Mills syndrome | 97.88% | DL |
-| 20 | amyotrohpic lateral sclerosis type 22 | 97.87% | DL |
-
-*Showing top 20 of 50 predictions.*
+This pattern extends across the full top-10 prediction list: nearly all candidates (leprosy, multiple endocrine neoplasia, female breast carcinoma, homozygous familial hypercholesterolemia, amyotrophic lateral sclerosis) are noted as having no known mechanistic link to CFTR correction, and two entries (simian immunodeficiency virus infection, feline acquired immunodeficiency syndrome) are non-human/veterinary disease models with no clinical translation value. The one partial exception is rank 7, rheumatoid arthritis (L4), where CFTR dysfunction has a theoretical, indirect connection to neutrophil-driven inflammation — though the only supporting trial is a descriptive neutrophil-phenotyping study in cystic fibrosis patients, not a test of tezacaftor's efficacy in RA.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
+Currently no related clinical trials registered for HIV Infectious Disease (the top-ranked predicted indication).
 
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
+*Note: One low-relevance (Grade C) trial exists for a lower-ranked candidate — see rank 7, rheumatoid arthritis, below.*
 
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04970225](https://clinicaltrials.gov/study/NCT04970225) | NA | Completed | 47 | Descriptive study of blood neutrophil function/phenotype in cystic fibrosis patients, including effects of CFTR modulator treatment and *Pseudomonas aeruginosa* infection. Provides indirect immune-mechanism background but does not test tezacaftor efficacy in rheumatoid arthritis. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorizations are recorded for this drug in the evidence pack (market status: Not Marketed, 0 authorizations).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- The top-ranked prediction (HIV Infectious Disease, 99.24% score) is an L5 pure AI prediction with no clinical trials, no literature, and the evidence pack's own analysis explicitly states there is no known mechanistic plausibility.
+- The drug is not currently marketed in the region, and a Blocking-severity data gap (missing label warnings/contraindications) prevents any formal safety review (S1 stage) from being initiated.
+
+**To proceed, the following is needed:**
+- Regulatory label (SmPC) warnings and contraindications — currently a Blocking data gap
+- Confirmed mechanism of action data — currently a High-severity data gap
+- If further repurposing evaluation is pursued, prioritize the rank 7 candidate (rheumatoid arthritis, L4 evidence, indirect CFTR–neutrophil inflammation rationale) over the top-ranked HIV signal, since it carries relatively stronger mechanistic and evidentiary support despite still requiring dedicated clinical validation
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

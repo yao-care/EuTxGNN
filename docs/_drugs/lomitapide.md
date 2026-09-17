@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lomitapide
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 361
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Lomitapide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Lomitapide is a microsomal triglyceride transfer protein (MTP) inhibitor origina
 | Predicted New Indication | Hyperlipoproteinemia (rank 9 of 10; the only candidate with supporting evidence) |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L1 |
-| EU Market Status | 未上市 (Not marketed) |
+| EU Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -90,7 +90,7 @@ Given the drug's original MOA and the disease overlap, the biological plausibili
 
 ## EU Market Information
 
-Lomitapide is currently **not marketed** in this dataset's regulatory registry (market status: 未上市, total authorizations: 0). No marketing authorization records are available to summarize.
+Lomitapide is currently **not marketed** in this dataset's regulatory registry (market status: Not marketed, total authorizations: 0). No marketing authorization records are available to summarize.
 
 ## Safety Considerations
 

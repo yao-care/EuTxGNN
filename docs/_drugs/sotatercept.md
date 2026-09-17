@@ -1,132 +1,92 @@
 ---
 layout: default
 title: Sotatercept
-description: "Sotatercept drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 541
+nav_order: 552
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Sotatercept
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Sotatercept: From Unestablished Indication (Not Yet Marketed) to Acute Lymphoblastic Leukemia
+
+## One-Sentence Summary
+
+Sotatercept has no approved indication on file in the current evidence pack — it is not yet marketed in the EU, and its original mechanism of action is not documented in this dataset. The TxGNN model predicts it may be relevant to **Acute Lymphoblastic Leukemia**, but this prediction is currently unsupported by any clinical trials or published literature, and the model's own rationale describes the mechanistic link as unclear.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Sotatercept |
-| DrugBank ID | [DB12118](https://go.drugbank.com/drugs/DB12118) |
-| Brand Names (EU) | Winrevair |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — no EU marketing authorization or documented indication in this dataset |
+| Predicted New Indication | Acute Lymphoblastic Leukemia (disease) |
+| TxGNN Prediction Score | 99.78% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.78% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available in the structured `original_moa` field. However, the model's own rationale notes suggest Sotatercept acts on Activin/GDF ligands and ActRIIA receptor signalling, primarily affecting bone metabolism, erythropoiesis, and vascular remodeling — a profile consistent with the ActRIIA-Fc fusion protein class, but this is not formally confirmed within the evidence pack.
+
+For the top-ranked prediction (Acute Lymphoblastic Leukemia), the model's own assessment explicitly states there is **no clear mechanistic link**: ALL pathogenesis centers on malignant transformation of lymphoid progenitor cells, which has no known intersection with Activin/ActRIIA signalling. The evidence pack suggests this association likely arises from indirect nodes in the knowledge graph (e.g., shared downstream signalling pathways) rather than direct biological evidence.
+
+Notably, a lower-ranked candidate in this dataset — **drug-induced osteoporosis** (rank 4) — carries a substantially stronger mechanistic rationale: Activin A is a known osteoclast-activating factor, and ActRIIA-Fc class molecules (e.g., the related compound ACE-011) have documented effects promoting osteoblast activity while suppressing osteoclast function. This is flagged in the source data as a "Research Question" (decision stage S1) rather than "Hold," and may warrant a separate, dedicated literature review outside the scope of this report's top-ranked candidate.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## EU Market Information
+
+Sotatercept currently has no EU marketing authorization on record (0 licenses, market status: Not marketed). No product, dosage form, or approved indication data is available for this drug in the evidence pack.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked prediction (Acute Lymphoblastic Leukemia) is supported only by a TxGNN model score with zero corroborating clinical trials or literature (Evidence Level L5), and the model's own mechanistic rationale explicitly characterizes the biological link as indirect and unsupported. Combined with the fact that Sotatercept is not marketed in the EU and lacks documented original indication or MOA data, there is insufficient basis to advance this candidate.
+
+**To proceed, the following is needed:**
+- Drug label warnings and contraindications (currently blocking — flagged as a critical data gap; source: regulatory label/SmPC)
+- Confirmed mechanism of action data (currently a high-severity gap; source: DrugBank or equivalent regulatory documentation)
+- Original approved indication(s) and EU marketing authorization status, to establish a proper repurposing baseline
+- If pursuing further investigation, prioritize a targeted literature review of the drug-induced osteoporosis signal (rank 4), which carries a more biologically plausible mechanistic rationale than the top-ranked ALL prediction
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Winrevair, in combination with other pulmonary arterial hypertension (PAH) therapies, is indicated for the treatment of PAH in adult patients with WHO Functional Class (FC) II to III, to improve exercise capacity (see section 5.1).
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | acute lymphoblastic leukemia (disease) | 99.78% | DL |
-| 2 | severe nonproliferative diabetic retinopathy | 99.77% | DL |
-| 3 | diabetic retinopathy | 99.72% | DL |
-| 4 | drug-induced osteoporosis | 99.65% | DL |
-| 5 | diabetic cataract | 99.49% | DL |
-| 6 | HER2 positive breast carcinoma | 99.43% | DL |
-| 7 | transitional cell carcinoma | 99.39% | DL |
-| 8 | prostatic urethra urothelial carcinoma | 99.36% | DL |
-| 9 | kidney pelvis sarcomatoid transitional cell carcinoma | 99.36% | DL |
-| 10 | infiltrating bladder urothelial carcinoma sarcomatoid variant | 99.34% | DL |
-| 11 | renal pelvis papillary urothelial carcinoma | 99.31% | DL |
-| 12 | amenorrhea (disease) | 99.31% | DL |
-| 13 | nuclear senile cataract | 99.27% | DL |
-| 14 | cortical cataract | 99.27% | DL |
-| 15 | senile cataract | 99.25% | DL |
-| 16 | diabetes mellitus type 2 associated cataract | 99.20% | DL |
-| 17 | mature cataract | 99.20% | DL |
-| 18 | tetanic cataract | 99.20% | DL |
-| 19 | immature cataract | 99.20% | DL |
-| 20 | craniostenosis cataract | 99.20% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

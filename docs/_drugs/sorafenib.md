@@ -1,132 +1,128 @@
 ---
 layout: default
 title: Sorafenib
-description: "Sorafenib drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 540
-evidence_level: L5
-indication_count: 51
+parent: High Evidence (L1-L2)
+nav_order: 551
+evidence_level: L2
+indication_count: 10
 ---
 
 # Sorafenib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Sorafenib: From Renal Cell Carcinoma and Hepatocellular Carcinoma to Liposarcoma
+
+## One-Sentence Summary
+
+Sorafenib is a multi-target tyrosine kinase inhibitor whose established use — based on the literature referenced in this Evidence Pack — spans renal cell carcinoma and hepatocellular carcinoma. The TxGNN model predicts it may also be effective for **Liposarcoma**, currently supported by **2 clinical trials** and **8 publications**, including a direct preclinical study in liposarcoma cell lines.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Sorafenib |
-| DrugBank ID | [DB00398](https://go.drugbank.com/drugs/DB00398) |
-| Brand Names (EU) | Nexavar |
-| Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.82% |
+| Item | Content |
+|------|------|
+| Original Indication | Renal cell carcinoma / hepatocellular carcinoma (based on literature references within this Evidence Pack; formal EU marketing-authorization data for the original indication is not available in this dataset) |
+| Predicted New Indication | Liposarcoma |
+| TxGNN Prediction Score | 99.82% |
+| Evidence Level | L2 |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Hepatocellular carcinoma Nexavar is indicated for the treatment of hepatocellular carcinoma. Renal cell carcinoma Nexavar is indicated for the treatment of patients with advanced renal cell carcinoma who have failed prior interferon-alpha or interleukin-2 based therapy or are considered unsuitable for such therapy. Differentiated thyroid carcinoma Nexavar is indicated for the treatment of patients with progressive, locally advanced or metastatic, differentiated (papillary/follicular/Hürthle cell
+The drug-level mechanism-of-action field is currently a data gap. However, literature within this Evidence Pack (PMID 15466206) describes sorafenib (BAY 43-9006) as a multi-targeted kinase inhibitor of Raf-1/B-RAF (blocking the RAF/MEK/ERK signaling pathway) as well as receptor tyrosine kinases including VEGFR-1/2/3, PDGFR-β, FLT3, and c-KIT — targets involved in both tumor proliferation and angiogenesis. This dual antiproliferative/antiangiogenic mechanism underlies sorafenib's established activity in renal cell carcinoma and hepatocellular carcinoma.
 
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | liposarcoma | 99.82% | DL |
-| 2 | ovarian myxoid liposarcoma | 99.76% | DL |
-| 3 | clear cell renal carcinoma | 99.73% | DL |
-| 4 | renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions | 99.65% | DL |
-| 5 | unclassified renal cell carcinoma | 99.65% | DL |
-| 6 | renal cell carcinoma associated with neuroblastoma | 99.65% | DL |
-| 7 | childhood kidney cell carcinoma | 99.57% | DL |
-| 8 | renal cell carcinoma (disease) | 99.57% | DL |
-| 9 | female breast carcinoma | 99.53% | DL |
-| 10 | renal pelvis carcinoma | 99.40% | DL |
-| 11 | vulva sarcoma | 99.37% | DL |
-| 12 | dermatofibrosarcoma protuberans | 99.35% | DL |
-| 13 | angiolipoma | 99.29% | DL |
-| 14 | renal carcinoma | 99.28% | DL |
-| 15 | spindle cell liposarcoma | 99.25% | DL |
-| 16 | heart fibrosarcoma | 99.19% | DL |
-| 17 | fibroblastic neoplasm | 99.16% | DL |
-| 18 | kidney fibrosarcoma | 99.14% | DL |
-| 19 | childhood malignant neoplasm | 99.12% | DL |
-| 20 | conventional fibrosarcoma | 99.09% | DL |
-
-*Showing top 20 of 51 predictions.*
+Liposarcoma and other soft tissue sarcomas frequently show dysregulation of the same pathways — activated Ras/Raf/MAPK signaling and PDGFR-driven proliferation — providing a plausible mechanistic bridge from the original oncology indications to this new one. Directly supporting this link, PMID 18413802 reports that sorafenib inhibited growth and MAPK signaling in two dedifferentiated liposarcoma cell lines (LS141 and DDLS), giving direct preclinical evidence for antitumor activity in liposarcoma specifically, in addition to the broader clinical experience with sorafenib across soft tissue sarcoma subtypes (e.g., the SWOG S0505 Phase 2 trial, PMID 21751200).
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | Completed | 51 | Sorafenib evaluated in advanced soft tissue sarcomas; rationale based on its ability to block cell-growth enzymes and tumor blood flow. |
+| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | Completed | 131 | SARC024 blanket protocol testing oral regorafenib (a sorafenib-related multi-kinase inhibitor) across selected sarcoma subtypes; trial rationale explicitly cites documented sorafenib activity in soft tissue sarcomas. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [21751200](https://pubmed.ncbi.nlm.nih.gov/21751200/) | 2012 | Clinical Trial (Phase 2) | Cancer | SWOG intergroup Phase 2 trial (S0505) of sorafenib in advanced soft tissue sarcomas, targeting Raf/VEGFR/PDGFR/c-KIT pathways relevant to sarcoma biology. |
+| [24554062](https://pubmed.ncbi.nlm.nih.gov/24554062/) | 2014 | Clinical Trial (Phase 1) | Annals of Surgical Oncology | Phase I trial of neoadjuvant conformal radiotherapy plus sorafenib in locally advanced extremity soft tissue sarcoma, based on synergy between antiangiogenic therapy and radiotherapy. |
+| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Frontiers in Oncology | Review of sarcoma PDOX mouse models identifying effective combination therapies with targeted agents, supporting continued rationale for kinase-inhibitor approaches in sarcoma. |
+| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Review | Magyar Onkologia | Review of soft tissue sarcoma treatment by histological subtype, noting the growing role of targeted therapies alongside cytotoxics. |
+| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Review | Annals of Oncology | Histology-driven therapy review for soft tissue sarcomas, noting subtype-specific activity of targeted/cytotoxic agents including in liposarcoma. |
+| [18413802](https://pubmed.ncbi.nlm.nih.gov/18413802/) | 2008 | Preclinical | Molecular Cancer Therapeutics | Sorafenib inhibited growth and MAPK signaling in dedifferentiated liposarcoma cell lines (LS141, DDLS) and MPNST cells — direct mechanistic evidence for the liposarcoma prediction. |
+| [23416162](https://pubmed.ncbi.nlm.nih.gov/23416162/) | 2013 | Preclinical | American Journal of Pathology | Dedifferentiated liposarcoma xenograft models revealed PTEN down-regulation as a malignant signature and response to PI3K pathway inhibition, providing molecular rationale for targeted therapy in liposarcoma. |
+| [25075796](https://pubmed.ncbi.nlm.nih.gov/25075796/) | 2014 | Case Report | Anti-Cancer Drugs | Case report of response to trabectedin (not sorafenib) in advanced synovial sarcoma with lung metastases; included as sarcoma-treatment background context. |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EU marketing-authorization records are available for sorafenib in the current dataset (`taiwan_regulatory.licenses` is empty and `market_status` is recorded as "Not marketed"). This should be independently verified, since sorafenib is a well-established oncology drug and an absence of EU licensing data likely reflects a gap in this Evidence Pack rather than actual withdrawal from the market.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (multi-target tyrosine kinase inhibitor — RAF/MEK/ERK, VEGFR, PDGFR, c-KIT, FLT3; per PMID 15466206) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
+
+---
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The TxGNN score, a directly relevant preclinical study in liposarcoma cell lines, and multiple completed Phase 2 trials in soft tissue sarcoma provide reasonable mechanistic and clinical plausibility. However, TFDA-equivalent/SmPC safety data (warnings and contraindications) is flagged as a **Blocking** data gap that prevents entry into the initial safety assessment (S1), and EU marketing-authorization status for sorafenib is currently unverified in this dataset.
+
+**To proceed, the following is needed:**
+- Retrieve official safety labeling (warnings, contraindications) — blocking gap (DG001)
+- Confirm drug-level MOA documentation via DrugBank API query (DG002)
+- Verify actual EU regulatory/licensing status for sorafenib (current "not marketed" record appears inconsistent with its known global approvals and should be re-checked)
+- Obtain liposarcoma-specific (rather than broad soft-tissue-sarcoma) clinical trial data to strengthen the indication-specific evidence base
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

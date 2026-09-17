@@ -1,70 +1,70 @@
 ---
 layout: default
-title: "Rilpivirine Hydrochloride 相關新聞"
-parent: 健康新聞
+title: "Rilpivirine Hydrochloride News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Rilpivirine Hydrochloride 的相關健康新聞報導。原適應症：Treatment of adults and adolescents (aged 12 years...。預測適應症 20 個。"
+description: "Health news related to Rilpivirine Hydrochloride. Original indication: Treatment of adults and adolescents (aged 12 years.... 20 predicted indications."
 permalink: /news/rilpivirine-hydrochloride/
 ---
 
-# Rilpivirine Hydrochloride 相關新聞
+# Rilpivirine Hydrochloride News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Rilpivirine Hydrochloride 有什麼相關新聞？">
-<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Rilpivirine Hydrochloride?">
+<strong>Rilpivirine Hydrochloride</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Rilpivirine Hydrochloride 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Rilpivirine Hydrochloride with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus 1 (HIV 1) without known mutations associated with resistance...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>HIV infectious disease（100.0%）</li>
-<li>feline acquired immunodeficiency syndrome（100.0%）</li>
-<li>simian immunodeficiency virus infection（100.0%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（100.0%）</li>
-<li>AIDS（99.8%）</li>
-<li>congenital human immunodeficiency virus（99.6%）</li>
-<li>AIDS related complex（99.6%）</li>
-<li>obsolete familial combined hyperlipidemia（98.6%）</li>
-<li>chronic hepatitis C virus infection（95.2%）</li>
-<li>fibroma of prostate（93.9%）</li>
-<li>benign reproductive system neoplasm（93.2%）</li>
-<li>Brenner tumor（93.2%）</li>
-<li>benign prostate phyllodes tumor（92.8%）</li>
-<li>male reproductive organ cancer（91.5%）</li>
-<li>prostate leiomyoma（90.2%）</li>
-<li>prostate cancer/brain cancer susceptibility（89.9%）</li>
-<li>hepatitis C virus infection（86.7%）</li>
-<li>hepatitis B virus infection（85.8%）</li>
-<li>hepatitis E virus infection（83.4%）</li>
-<li>hepatitis, viral, animal（83.3%）</li>
+<li><strong>Original indication</strong>: Treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus 1 (HIV 1) without known mutations associated with resistance...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>HIV infectious disease (100.0%)</li>
+<li>feline acquired immunodeficiency syndrome (100.0%)</li>
+<li>simian immunodeficiency virus infection (100.0%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (100.0%)</li>
+<li>AIDS (99.8%)</li>
+<li>congenital human immunodeficiency virus (99.6%)</li>
+<li>AIDS related complex (99.6%)</li>
+<li>obsolete familial combined hyperlipidemia (98.6%)</li>
+<li>chronic hepatitis C virus infection (95.2%)</li>
+<li>fibroma of prostate (93.9%)</li>
+<li>benign reproductive system neoplasm (93.2%)</li>
+<li>Brenner tumor (93.2%)</li>
+<li>benign prostate phyllodes tumor (92.8%)</li>
+<li>male reproductive organ cancer (91.5%)</li>
+<li>prostate leiomyoma (90.2%)</li>
+<li>prostate cancer/brain cancer susceptibility (89.9%)</li>
+<li>hepatitis C virus infection (86.7%)</li>
+<li>hepatitis B virus infection (85.8%)</li>
+<li>hepatitis E virus infection (83.4%)</li>
+<li>hepatitis, viral, animal (83.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## Related News (1)
 
 ### [Saarländische Testwoche startet: Gesundheitsamt St. Wendel testet kostenlos auf HIV, Syphilis und Hepatitis - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
 
 2026-09-13 <span class="news-indication-tag">hepatitis</span>
 
-來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+Source: [St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

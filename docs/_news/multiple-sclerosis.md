@@ -1,29 +1,29 @@
 ---
 layout: default
-title: "MS（multiple sclerosis） 相關新聞"
-parent: 健康新聞
+title: "MS (multiple sclerosis) News"
+parent: 📰 Health News
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。21 則新聞、26 個相關藥物。"
+description: "Health news about MS (multiple sclerosis). 21 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
-# MS（multiple sclerosis） 相關新聞
+# MS (multiple sclerosis) News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>21 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
+<strong>MS (multiple sclerosis)</strong> currently has <strong>21 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-本頁整合「MS」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+This page brings together the latest health news about “MS” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
-<strong>相關藥物報告</strong>
-<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<strong>Related drug reports</strong>
+<p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">Alemtuzumab</a></li>
 <li><a href="{{ '/drugs/asenapine-maleate/' | relative_url }}">Asenapine Maleate</a></li>
@@ -54,13 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（21 則）
+## Related News (21)
 
 ### [La OMS valida a Chile como el primer país de Sudamérica en erradicar la rabia transmitida por perros - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVR3bGNBckpmVnhzdXlKUEo0ZkVfeGtqX1lOQ0lGUjJrT3VoOWtDbEYtcEFCaWVCRzJKMWQyRlF4dFFzeWdUYUV4azJIeUg1UFJvWHFwWWlnN2FzMmc5QVVGLUdUblNaSDBzWnZzZHY1eEpmRWdnQVhpMzNyVTNsckxjNXBTV0RVSzlPajJZMVRBWDE3NEEtd3RKcDU?oc=5)
 
 2026-09-14
 
-來源：[AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVR3bGNBckpmVnhzdXlKUEo0ZkVfeGtqX1lOQ0lGUjJrT3VoOWtDbEYtcEFCaWVCRzJKMWQyRlF4dFFzeWdUYUV4azJIeUg1UFJvWHFwWWlnN2FzMmc5QVVGLUdUblNaSDBzWnZzZHY1eEpmRWdnQVhpMzNyVTNsckxjNXBTV0RVSzlPajJZMVRBWDE3NEEtd3RKcDU?oc=5)
+Source: [AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVR3bGNBckpmVnhzdXlKUEo0ZkVfeGtqX1lOQ0lGUjJrT3VoOWtDbEYtcEFCaWVCRzJKMWQyRlF4dFFzeWdUYUV4azJIeUg1UFJvWHFwWWlnN2FzMmc5QVVGLUdUblNaSDBzWnZzZHY1eEpmRWdnQVhpMzNyVTNsckxjNXBTV0RVSzlPajJZMVRBWDE3NEEtd3RKcDU?oc=5)
 
 ---
 
@@ -68,7 +68,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTZIWGxwR3RsU09EbXUwUjlyLTIyWktOWDA5eXczR2FSMDh6ZlVLcFAxUXZINXlTRGtac2hXMGlveTV0Rkc4bjNJUHBrM0FVaTU2VjhkZ0U5OWZPbDJtMFl2WVZhczhrVUtZUEVYT2VlLUg0ZzhLcjZQMFc0OGpQZHFXOFZoeWprcXpoaERqSERCdHl2Tm5TWEhHYm5DcFRCSUpxZFhzNXBlbFJrdlY1ZHdxZi1YaFREYXlPS1V5Y19CRjlXWnJxRjB6RDFTWEtTYXJEaWV2YlI0QXF4UWpKYkZnajB4M3E5TnVnSlZHbDN0N0lISkNnNnlrVE4zdF9rZlhwVzZRMNIBjAJBVV95cUxNd2FJY25PbXlTdGJjRTFTWU5pU0U3QmZJTlFEMVUzZnRYZlpxX083SERVYk8zcFBKd2RUSXV2b09KdlExNDlaTlBIdVhtUlFVTjBZSnI5TDJyOC1PV182YklORWkzMC0ycjRIekJRcWtiV0pkQVBxRHo4aFFqU2RIa1hUaFE3dlA5b19nVVJ4Q2tVYm4tU0MwVnVPU0Vsal9DY1hQZEEtaThQNVM4LTU2R3NtQVRKLVd3cnVWQlptaEgyR1p0cmJBWnBJYkNXTnVXS0F2ajZqYkdGeW5uS3JGNDRJMndudWtsakFQN2F2ajhOcE1FbGtDdXl3aG9ueGdTWnpDekdSV05scHFE?oc=5)
+Source: [Medicina y Salud Pública](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTZIWGxwR3RsU09EbXUwUjlyLTIyWktOWDA5eXczR2FSMDh6ZlVLcFAxUXZINXlTRGtac2hXMGlveTV0Rkc4bjNJUHBrM0FVaTU2VjhkZ0U5OWZPbDJtMFl2WVZhczhrVUtZUEVYT2VlLUg0ZzhLcjZQMFc0OGpQZHFXOFZoeWprcXpoaERqSERCdHl2Tm5TWEhHYm5DcFRCSUpxZFhzNXBlbFJrdlY1ZHdxZi1YaFREYXlPS1V5Y19CRjlXWnJxRjB6RDFTWEtTYXJEaWV2YlI0QXF4UWpKYkZnajB4M3E5TnVnSlZHbDN0N0lISkNnNnlrVE4zdF9rZlhwVzZRMNIBjAJBVV95cUxNd2FJY25PbXlTdGJjRTFTWU5pU0U3QmZJTlFEMVUzZnRYZlpxX083SERVYk8zcFBKd2RUSXV2b09KdlExNDlaTlBIdVhtUlFVTjBZSnI5TDJyOC1PV182YklORWkzMC0ycjRIekJRcWtiV0pkQVBxRHo4aFFqU2RIa1hUaFE3dlA5b19nVVJ4Q2tVYm4tU0MwVnVPU0Vsal9DY1hQZEEtaThQNVM4LTU2R3NtQVRKLVd3cnVWQlptaEgyR1p0cmJBWnBJYkNXTnVXS0F2ajZqYkdGeW5uS3JGNDRJMndudWtsakFQN2F2ajhOcE1FbGtDdXl3aG9ueGdTWnpDekdSV05scHFE?oc=5)
 
 ---
 
@@ -76,7 +76,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmRHZGswZmlNSmpjY0JkNmdNZDBjTDRncEdMd25GQU9ZTFEzWDVzT0FNeUdBTDkxWkZuUlJtWE5IMlZKZXJPQ1JYWl9tYUVjaXdtQ3NVbWRUanJZQXJFS1NqNXJncG9LRC03VmZwV25ta1lrUERjcVZNaDE5ZmhiakduczV5WjZzUG84V2lxMkk3N05VSzU1WjF0a2hhMG9pYWJycXkteGhsb0IzcnNVY2cyUEp0UmdjVFlIbmp1a2NTN3BpTUtYUUNqRENWUUZQbnpzZmpuZVlxbG12?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmRHZGswZmlNSmpjY0JkNmdNZDBjTDRncEdMd25GQU9ZTFEzWDVzT0FNeUdBTDkxWkZuUlJtWE5IMlZKZXJPQ1JYWl9tYUVjaXdtQ3NVbWRUanJZQXJFS1NqNXJncG9LRC03VmZwV25ta1lrUERjcVZNaDE5ZmhiakduczV5WjZzUG84V2lxMkk3N05VSzU1WjF0a2hhMG9pYWJycXkteGhsb0IzcnNVY2cyUEp0UmdjVFlIbmp1a2NTN3BpTUtYUUNqRENWUUZQbnpzZmpuZVlxbG12?oc=5)
 
 ---
 
@@ -84,7 +84,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[Kieler Nachrichten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXJEUXBWeG1SR01GTEpuR0Vsd3ZRT2J6WlZ5RXNlSWZJQ19FZWdWczZyLXpLYktlbHBMSVdlMDBfcDFGQXp3NzN3T0V5MUJTRWNvQW9BUDg3OVdsbS1Ca3pPZlpsQnE5U2RiUzdIcXEwbXFTU1Z3M2xzUlZFZ19FSUFBcS1wRUN1SUY0U2RsTGVGZTdxN1NNQ3plVkVuNENhV3RNcVRXY1pHSm9KT1NjMmZlQ0FLYlF2YlMyVTlUc0czR1VpNm1JZGpoalFCblNHbkRzLU1OWTFDT3VQT0JzRFFQbGV0UzVKZVhKRlpvRkxqTTkxMmJIXzNmQUpFYU9uX2g5cG81MmVzb2dnRGdPaw?oc=5)
+Source: [Kieler Nachrichten](https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXJEUXBWeG1SR01GTEpuR0Vsd3ZRT2J6WlZ5RXNlSWZJQ19FZWdWczZyLXpLYktlbHBMSVdlMDBfcDFGQXp3NzN3T0V5MUJTRWNvQW9BUDg3OVdsbS1Ca3pPZlpsQnE5U2RiUzdIcXEwbXFTU1Z3M2xzUlZFZ19FSUFBcS1wRUN1SUY0U2RsTGVGZTdxN1NNQ3plVkVuNENhV3RNcVRXY1pHSm9KT1NjMmZlQ0FLYlF2YlMyVTlUc0czR1VpNm1JZGpoalFCblNHbkRzLU1OWTFDT3VQT0JzRFFQbGV0UzVKZVhKRlpvRkxqTTkxMmJIXzNmQUpFYU9uX2g5cG81MmVzb2dnRGdPaw?oc=5)
 
 ---
 
@@ -92,7 +92,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9pZVMzRkdHZUEyZHNmb2JzOS1NYV9wd0lhaUJvX3NwaDVmd3haQmFlU1R6YnhSSEtmR0VvdXVVV25mMk1na3ZDc2tPWGFIMmszanhMYS1pb1FLTXhvaHZZUDlGNzgwYnhLM0NJcjNRSXlVaHJid1RlcVY4S3dOVElNVmtSeU5BVlBJRGVBU25MbjFXUDlDaE1MWDM2bnhmRWVMRjJB?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9pZVMzRkdHZUEyZHNmb2JzOS1NYV9wd0lhaUJvX3NwaDVmd3haQmFlU1R6YnhSSEtmR0VvdXVVV25mMk1na3ZDc2tPWGFIMmszanhMYS1pb1FLTXhvaHZZUDlGNzgwYnhLM0NJcjNRSXlVaHJid1RlcVY4S3dOVElNVmtSeU5BVlBJRGVBU25MbjFXUDlDaE1MWDM2bnhmRWVMRjJB?oc=5)
 
 ---
 
@@ -100,7 +100,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[linternaute.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE4zdGk3X29VZTlsVlFXNVRQbUhUandaM1ZnalhfcHJnVi0xQkUyOEZnNmFiRWQ1YjV5Vy1NMWg4Z1pVVzR5UDByZFZiYXIxYS1DZXExSlQ1eGtZc19sQTJLLUVhQUxwYUc3blotdXEwd1lXdllnWDZzTQ?oc=5)
+Source: [linternaute.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE4zdGk3X29VZTlsVlFXNVRQbUhUandaM1ZnalhfcHJnVi0xQkUyOEZnNmFiRWQ1YjV5Vy1NMWg4Z1pVVzR5UDByZFZiYXIxYS1DZXExSlQ1eGtZc19sQTJLLUVhQUxwYUc3blotdXEwd1lXdllnWDZzTQ?oc=5)
 
 ---
 
@@ -108,7 +108,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUNMQWFwUnBYVjZtS1R5U3k2ZGZDaU1TSG42X0FOVHRZcDRtdWlxNUVJcV91dGxYLWYyQjZnUkM2RHZJbTVpMHNEclJhYXpNdkVTX3FGV1NUcDVvLXdnbFlKd2NTbUExTnhOUjlzQU4zSzkyLVVSZnNSWmNUUW43MHFsa0dmMzBrSFJaeDNSNEtLUkk?oc=5)
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUNMQWFwUnBYVjZtS1R5U3k2ZGZDaU1TSG42X0FOVHRZcDRtdWlxNUVJcV91dGxYLWYyQjZnUkM2RHZJbTVpMHNEclJhYXpNdkVTX3FGV1NUcDVvLXdnbFlKd2NTbUExTnhOUjlzQU4zSzkyLVVSZnNSWmNUUW43MHFsa0dmMzBrSFJaeDNSNEtLUkk?oc=5)
 
 ---
 
@@ -116,7 +116,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5ck5hVU1NZ3R2NGJvWFNzN3FfSm9xa2hqamtxbmdwOHNKQXFPbG54cTNUVWM1VXB4TWNNc3U1NGZWSEFJZlRtdnJlR2ZCOGdGcEFnMFFKd0NpcHRua3MxMFBxUnlaX2cwaUdlQ3pzaG9lbmgwWmljaWJ5Nnk4VFkwdmhwMmdwclFYN0E4MXpTQ1I1OWpwaGFBcFFUNTA2Qzktc2NGNTFBZ190MDFmSld1UWpZdw?oc=5)
+Source: [Servimedia](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5ck5hVU1NZ3R2NGJvWFNzN3FfSm9xa2hqamtxbmdwOHNKQXFPbG54cTNUVWM1VXB4TWNNc3U1NGZWSEFJZlRtdnJlR2ZCOGdGcEFnMFFKd0NpcHRua3MxMFBxUnlaX2cwaUdlQ3pzaG9lbmgwWmljaWJ5Nnk4VFkwdmhwMmdwclFYN0E4MXpTQ1I1OWpwaGFBcFFUNTA2Qzktc2NGNTFBZ190MDFmSld1UWpZdw?oc=5)
 
 ---
 
@@ -124,7 +124,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkYzS1hrNFAwZ2lZcFJuTjkzYzFtSExJa0NrTWRwLUtuNFhpWUpnSUFYZTAyRlh6dnBKWXdrNTF4TVNtWDZ0Z3RfY2FYX1VFNHhRTVl4QXZwMVNjWENsMjJyVVRSdWtSNU9NSFA5dFVoYnNYQXY2UzVJaUtyQTBZUVNMaGxCREotSmUwdlNZRmJWU2J4aXRJWUJPRGVESFlWVkd0OWJRTW5ERGViZnlwbk5IemdTcVRGZWNOMmVjVW0yaW9XMkhjRA?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkYzS1hrNFAwZ2lZcFJuTjkzYzFtSExJa0NrTWRwLUtuNFhpWUpnSUFYZTAyRlh6dnBKWXdrNTF4TVNtWDZ0Z3RfY2FYX1VFNHhRTVl4QXZwMVNjWENsMjJyVVRSdWtSNU9NSFA5dFVoYnNYQXY2UzVJaUtyQTBZUVNMaGxCREotSmUwdlNZRmJWU2J4aXRJWUJPRGVESFlWVkd0OWJRTW5ERGViZnlwbk5IemdTcVRGZWNOMmVjVW0yaW9XMkhjRA?oc=5)
 
 ---
 
@@ -132,7 +132,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-14
 
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 ---
 
@@ -140,7 +140,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-13
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
+Source: [gbnews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
 
 ---
 
@@ -148,7 +148,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-13
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
 
 ---
 
@@ -156,7 +156,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-13
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNTJ6UkpaMTU3b2ZvcHJJZDRtcjViMTV2aVlmUXlvNG9qTUhfUHduSXpJQUZUQ1pWY0xjb2g5VEdFOXJ1clBHQXJzcmo3bVZtd0xqMXBTVUo3Y0J2UlBONmROVEx3ckpiSGcxTVBHa2R6ZU82eDRFRzlEUm0xd0s3cXRMT01uXzhCRjlrX0dLYkloeVNSSWJzNnpQQUc3aVVHdFlKUmVBYzE?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNTJ6UkpaMTU3b2ZvcHJJZDRtcjViMTV2aVlmUXlvNG9qTUhfUHduSXpJQUZUQ1pWY0xjb2g5VEdFOXJ1clBHQXJzcmo3bVZtd0xqMXBTVUo3Y0J2UlBONmROVEx3ckpiSGcxTVBHa2R6ZU82eDRFRzlEUm0xd0s3cXRMT01uXzhCRjlrX0dLYkloeVNSSWJzNnpQQUc3aVVHdFlKUmVBYzE?oc=5)
 
 ---
 
@@ -164,7 +164,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-13
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
 
 ---
 
@@ -172,7 +172,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-11
 
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
 
 ---
 
@@ -180,7 +180,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-11
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzdwRk1mWmFveE95RmZ5TC00ek5GbUN6QnFEUjJmZ2JvMlpBdUJNbDZnTXE0akZ1TmVQV1IwMktSZldZRjhuZEFzN25pZHdkaExlVlpOS0stNm90WGplSUNBd3VPbHg1MzlFUHVQM1ZvWDFMazktVWpGMVBFUkxRbTIyZTRPN2h5QzZaRlNncnNmMWk0dlBJaEltbUIxLTVyNXVTaVp4UmVMR2RpVG1NU1VnTTlMVXBRcHR2bDRJWHpuMmtqaUZNcjFB?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzdwRk1mWmFveE95RmZ5TC00ek5GbUN6QnFEUjJmZ2JvMlpBdUJNbDZnTXE0akZ1TmVQV1IwMktSZldZRjhuZEFzN25pZHdkaExlVlpOS0stNm90WGplSUNBd3VPbHg1MzlFUHVQM1ZvWDFMazktVWpGMVBFUkxRbTIyZTRPN2h5QzZaRlNncnNmMWk0dlBJaEltbUIxLTVyNXVTaVp4UmVMR2RpVG1NU1VnTTlMVXBRcHR2bDRJWHpuMmtqaUZNcjFB?oc=5)
 
 ---
 
@@ -188,7 +188,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-11
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
+Source: [gbnews.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
 
 ---
 
@@ -196,7 +196,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-11
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUxMX0I1bmcxVzVvMXpBWWlKSGpfbm9QbHZ6S1RLRF9oMEdFM2xLT05JcnFid1JwWV9PdHlJWGdzWHlLcVFNZncxV3M1dTN5bTdnMVppN1VWVWZqa3o2dEJvN25IeVBRclhmbjBXUTNQLWNKQXVCbTBaWjhkZWRIQ1BjWWk0UjdJSzlqSml1QzRoR1pIZXFTSkhuQlRHZXNXWkM0cXlHb3AwS21iUFNmMk5ETQ?oc=5)
 
 ---
 
@@ -204,7 +204,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-10
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkp6SkZBWV8yMjhHc2hWVUxOSU01RzNQRFI2NkctVXY5dnRWUzREbTBlem11bFl6YzRWRW1TRTRoVzg4eVpRQTZOWjN4WlB3bzE5Z0pnNzJGTWNYdjlXMFNIZ1JDb3FlRkNiS3FTd2lqTzRKSDdDZS1LdkE5blE0NmZYcW1fWXMxOEh5a3J2bUY1cUNHRUJRbHZZd1I1bVE?oc=5)
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkp6SkZBWV8yMjhHc2hWVUxOSU01RzNQRFI2NkctVXY5dnRWUzREbTBlem11bFl6YzRWRW1TRTRoVzg4eVpRQTZOWjN4WlB3bzE5Z0pnNzJGTWNYdjlXMFNIZ1JDb3FlRkNiS3FTd2lqTzRKSDdDZS1LdkE5blE0NmZYcW1fWXMxOEh5a3J2bUY1cUNHRUJRbHZZd1I1bVE?oc=5)
 
 ---
 
@@ -212,7 +212,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-09
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2l5QVB5WEJxNW0xWXQ0Q2xzdHczaFhQNkxySE16MXB5eWtrampKR0JFelZVLVk1SWJZdFhWTkZFeUVQOS1PajNKd25VTXd2b2VISDhINHJ2QU81ZExhUGx1dHUwMmVPZDd3d3V1bW05TERGMm1YRzRBZ2Itd2F5eFZXaGs4Z0pocG5RaVRmV1BvVDlVWERkM0lUaXBtVGp0NjdGb3lTSEdQQkk3TTdpOXcyQmNkeVl5WkJrbkg3bVRudw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2l5QVB5WEJxNW0xWXQ0Q2xzdHczaFhQNkxySE16MXB5eWtrampKR0JFelZVLVk1SWJZdFhWTkZFeUVQOS1PajNKd25VTXd2b2VISDhINHJ2QU81ZExhUGx1dHUwMmVPZDd3d3V1bW05TERGMm1YRzRBZ2Itd2F5eFZXaGs4Z0pocG5RaVRmV1BvVDlVWERkM0lUaXBtVGp0NjdGb3lTSEdQQkk3TTdpOXcyQmNkeVl5WkJrbkg3bVRudw?oc=5)
 
 ---
 
@@ -220,11 +220,11 @@ permalink: /news/multiple-sclerosis/
 
 2026-09-08
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWwwdmxyMENfR2QxSS1zajByNVl2NVd5cWV3N2ZGNXJONVFQSDBaUXB6R01FcGJfRWEyMXk0emItd29xZ0tPVEI2Q2Y1UlZMWnFVTkpBa01Ya1kxZ2RtZWVSSndTajZ3bG5JREc2aldDN0ZlVUpTQ1hCT01tazhIcFV1NTJ4dG1fT2lSWTl2OUk4ZmtaaDJSdThmMGppZVhs?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>

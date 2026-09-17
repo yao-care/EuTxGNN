@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Rivastigmine 相關新聞"
-parent: 健康新聞
+title: "Rivastigmine News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Rivastigmine 的相關健康新聞報導。原適應症：Symptomatic treatment of mild to moderately severe...。預測適應症 20 個。"
+description: "Health news related to Rivastigmine. Original indication: Symptomatic treatment of mild to moderately severe.... 20 predicted indications."
 permalink: /news/rivastigmine/
 ---
 
-# Rivastigmine 相關新聞
+# Rivastigmine News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Rivastigmine 有什麼相關新聞？">
-<strong>Rivastigmine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Rivastigmine?">
+<strong>Rivastigmine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Rivastigmine 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Rivastigmine with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>glaucoma（99.3%）</li>
-<li>acute intermittent porphyria（98.2%）</li>
-<li>psychogenic movement disorders（98.2%）</li>
-<li>primary orthostatic tremor（98.0%）</li>
-<li>tremor-nystagmus-duodenal ulcer syndrome（98.0%）</li>
-<li>benign shuddering attacks（97.9%）</li>
-<li>extrapyramidal and movement disease（97.9%）</li>
-<li>benign paroxysmal tonic upgaze of childhood with ataxia（97.9%）</li>
-<li>chronic tic disorder（97.8%）</li>
-<li>Pick disease（97.6%）</li>
-<li>primary hereditary glaucoma（96.9%）</li>
-<li>lingual-facial-buccal dyskinesia（96.6%）</li>
-<li>open-angle glaucoma（96.1%）</li>
-<li>myoclonic dystonia（95.2%）</li>
-<li>myoclonus-dystonia syndrome（95.1%）</li>
-<li>focal hand dystonia（94.5%）</li>
-<li>torsion dystonia（92.8%）</li>
-<li>early-onset generalized dystonia（92.8%）</li>
-<li>Alzheimer disease（92.2%）</li>
-<li>parkinsonian disorder（92.0%）</li>
+<li><strong>Original indication</strong>: Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>glaucoma (99.3%)</li>
+<li>acute intermittent porphyria (98.2%)</li>
+<li>psychogenic movement disorders (98.2%)</li>
+<li>primary orthostatic tremor (98.0%)</li>
+<li>tremor-nystagmus-duodenal ulcer syndrome (98.0%)</li>
+<li>benign shuddering attacks (97.9%)</li>
+<li>extrapyramidal and movement disease (97.9%)</li>
+<li>benign paroxysmal tonic upgaze of childhood with ataxia (97.9%)</li>
+<li>chronic tic disorder (97.8%)</li>
+<li>Pick disease (97.6%)</li>
+<li>primary hereditary glaucoma (96.9%)</li>
+<li>lingual-facial-buccal dyskinesia (96.6%)</li>
+<li>open-angle glaucoma (96.1%)</li>
+<li>myoclonic dystonia (95.2%)</li>
+<li>myoclonus-dystonia syndrome (95.1%)</li>
+<li>focal hand dystonia (94.5%)</li>
+<li>torsion dystonia (92.8%)</li>
+<li>early-onset generalized dystonia (92.8%)</li>
+<li>Alzheimer disease (92.2%)</li>
+<li>parkinsonian disorder (92.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/rivastigmine/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/rivastigmine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

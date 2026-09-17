@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Sargramostim
-description: "Sargramostim drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 515
+nav_order: 527
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Sargramostim
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Sargramostim: From No EU-Authorized Indication to Drug-Induced Osteoporosis
+
+## One-Sentence Summary
+
+Sargramostim (recombinant GM-CSF, DrugBank DB00020) currently holds **no marketing authorization in the EU**, and no established original indication is recorded in this evidence pack.
+The TxGNN model's top-ranked prediction is **Drug-Induced Osteoporosis**, but this association is supported by **0 clinical trials** and **0 publications**, and the accompanying mechanistic review argues the biology may actually run in the opposite direction.
+Evidence level is **L5** (model prediction only) with a **Hold** recommendation.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Sargramostim |
-| DrugBank ID | [DB00020](https://go.drugbank.com/drugs/DB00020) |
-| Brand Names (EU) | Imreplys |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — no EU marketing authorization on record for this drug |
+| Predicted New Indication | Drug-Induced Osteoporosis |
+| TxGNN Prediction Score | 98.99% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.99% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Imreplys is indicated for treatment of patients of all ages acutely exposed to myelosuppressive doses of radiation with Haematopoietic Sub-syndrome of Acute Radiation Syndrome (H-ARS).&nbsp;Imreplys should be used in accordance with official radiological/nuclear emergency recommendations.
+Detailed mechanism of action data for sargramostim is not available in this evidence pack. Based on general pharmacology, sargramostim is a recombinant human GM-CSF that stimulates proliferation and differentiation of granulocyte and macrophage precursor cells in the bone marrow, primarily to accelerate neutrophil recovery.
 
----
+The TxGNN-generated mechanistic rationale for this specific prediction is **not supportive**: GM-CSF's known biology acts on the granulocyte/macrophage lineage and has only an indirect, directionally uncertain relationship to osteoclast differentiation (the RANKL/OPG axis). Some published evidence actually suggests GM-CSF may **promote** osteoclastic bone resorption rather than protect against it — the opposite of what would be needed to treat drug-induced osteoporosis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | drug-induced osteoporosis | 98.99% | DL |
-| 2 | primary release disorder of platelets | 97.45% | DL |
-| 3 | severe nonproliferative diabetic retinopathy | 97.06% | DL |
-| 4 | Glanzmann thrombasthenia | 96.93% | DL |
-| 5 | pseudo-von Willebrand disease | 96.31% | DL |
-| 6 | cervical neuroblastoma | 96.23% | DL |
-| 7 | schwannoma of jugular foramen | 96.13% | DL |
-| 8 | benign neoplasm of buccal mucosa | 96.10% | DL |
-| 9 | benign neoplasm of tongue | 96.07% | DL |
-| 10 | inner ear neoplasm | 96.05% | DL |
-| 11 | cystic neoplasm | 96.03% | DL |
-| 12 | tumor of testis and paratestis | 96.00% | DL |
-| 13 | benign neoplasm of floor of mouth | 96.00% | DL |
-| 14 | jugular foramen meningioma | 95.98% | DL |
-| 15 | thyroglossal duct cyst | 95.98% | DL |
-| 16 | neoplasm of major salivary gland | 95.98% | DL |
-| 17 | epiglottis neoplasm | 95.97% | DL |
-| 18 | benign neoplasm of hypopharynx | 95.96% | DL |
-| 19 | mesenchymoma | 95.95% | DL |
-| 20 | benign neoplasm of salivary gland | 95.94% | DL |
-
-*Showing top 20 of 50 predictions.*
+Given the absence of a clear mechanistic basis, plus zero supporting clinical trials or literature, this candidate appears to be a low-confidence association generated purely from knowledge-graph embeddings rather than a biologically grounded repurposing hypothesis.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Sargramostim currently has no EU marketing authorization on record (0 licenses). No product, dosage form, or approved indication data is available in this dataset.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+*(Note: TFDA-equivalent warnings/contraindications and detailed MOA are flagged as data gaps in this evidence pack — see Next Steps.)*
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The evidence base for this indication consists of a single TxGNN embedding score with no supporting clinical trials or literature, and the drug's own mechanistic rationale argues against biological plausibility. Additionally, sargramostim is not currently authorized in the EU, so no regulatory or real-world use data exists to cross-validate the hypothesis.
+
+**To proceed, the following is needed:**
+- Original indication and mechanism of action (MOA) data for sargramostim (currently flagged as data gaps: DG001, DG002)
+- Preclinical or mechanistic studies specifically addressing GM-CSF's effect on osteoclast/osteoblast balance, given conflicting directionality in existing literature
+- TFDA/SmPC-equivalent safety labeling (warnings, contraindications) before any S1 safety pre-assessment can proceed
+- If pursuing repurposing work on this drug, consider prioritizing the **cervical neuroblastoma** candidate (rank 6) instead — it has an L3 evidence level with two completed clinical trials (including a completed Phase 3 GM-CSF mucositis trial) and a coherent mechanistic link to established GM-CSF/dinutuximab immunotherapy protocols in neuroblastoma.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

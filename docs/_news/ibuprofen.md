@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Ibuprofen 相關新聞"
-parent: 健康新聞
+title: "Ibuprofen News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Ibuprofen 的相關健康新聞報導。原適應症：Treatment of a haemodynamically significant patent...。預測適應症 20 個。"
+description: "Health news related to Ibuprofen. Original indication: Treatment of a haemodynamically significant patent.... 20 predicted indications."
 permalink: /news/ibuprofen/
 ---
 
-# Ibuprofen 相關新聞
+# Ibuprofen News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Ibuprofen?">
+<strong>Ibuprofen</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Ibuprofen 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Ibuprofen with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age.</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>osteoarthritis susceptibility（99.9%）</li>
-<li>osteoarthritis（99.8%）</li>
-<li>rheumatoid arthritis（99.8%）</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type（99.7%）</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome（99.7%）</li>
-<li>myosclerosis（99.7%）</li>
-<li>brachyolmia（99.7%）</li>
-<li>brachydactyly-syndactyly syndrome（99.7%）</li>
-<li>pseudoachondroplasia（99.7%）</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.6%）</li>
-<li>arthropathy（99.5%）</li>
-<li>hypotrichosis simplex of the scalp（98.6%）</li>
-<li>WHIM syndrome（98.4%）</li>
-<li>congenital hypotrichosis milia（98.3%）</li>
-<li>diffuse alopecia areata（98.2%）</li>
-<li>rheumatoid nodulosis（96.8%）</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis（96.5%）</li>
-<li>juvenile idiopathic arthritis（96.4%）</li>
-<li>juvenile arthritis due to defect in LACC1（96.3%）</li>
-<li>combined immunodeficiency due to moesin deficiency（96.3%）</li>
+<li><strong>Original indication</strong>: Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>osteoarthritis susceptibility (99.9%)</li>
+<li>osteoarthritis (99.8%)</li>
+<li>rheumatoid arthritis (99.8%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.7%)</li>
+<li>myosclerosis (99.7%)</li>
+<li>brachyolmia (99.7%)</li>
+<li>brachydactyly-syndactyly syndrome (99.7%)</li>
+<li>pseudoachondroplasia (99.7%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+<li>arthropathy (99.5%)</li>
+<li>hypotrichosis simplex of the scalp (98.6%)</li>
+<li>WHIM syndrome (98.4%)</li>
+<li>congenital hypotrichosis milia (98.3%)</li>
+<li>diffuse alopecia areata (98.2%)</li>
+<li>rheumatoid nodulosis (96.8%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (96.5%)</li>
+<li>juvenile idiopathic arthritis (96.4%)</li>
+<li>juvenile arthritis due to defect in LACC1 (96.3%)</li>
+<li>combined immunodeficiency due to moesin deficiency (96.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## Related News (2)
 
 ### [Alopecia areata severa, ricrescita significativa con upadacitinib](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
 
 2026-09-13 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
+Source: [pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
 
 ---
 
@@ -66,13 +66,13 @@ permalink: /news/ibuprofen/
 
 2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+Source: [pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

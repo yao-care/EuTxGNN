@@ -1,132 +1,120 @@
 ---
 layout: default
 title: Vibegron
-description: "Vibegron drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 631
+nav_order: 643
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Vibegron
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Vibegron: From Overactive Bladder to Polycystic Kidney Disease 3
+
+## One-Sentence Summary
+
+Vibegron is a beta-3 adrenergic receptor agonist originally developed for overactive bladder (OAB), acting by relaxing the detrusor muscle.
+The TxGNN model predicts it may be effective for **Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)**,
+but this candidate currently has **no clinical trials** and **20 literature hits, none of which are drug-specific** — and the underlying pharmacology appears to point in the opposite therapeutic direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Vibegron |
-| DrugBank ID | [DB14895](https://go.drugbank.com/drugs/DB14895) |
-| Brand Names (EU) | Obgemsa |
+| Item | Content |
+|------|------|
+| Original Indication | Overactive Bladder (OAB) — inferred from known pharmacology; not confirmed via EU regulatory data, as the drug is not currently authorized in the EU |
+| Predicted New Indication | Polycystic Kidney Disease 3 with or without Polycystic Liver Disease |
+| TxGNN Prediction Score | 94.50% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 95.86% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Obgemsa is indicated in symptomatic treatment of adult patients with overactive bladder (OAB) syndrome.
+Vibegron is a beta-3 adrenergic receptor agonist. It couples to the Gs protein and increases intracellular cAMP, which relaxes detrusor smooth muscle — the basis for its use in OAB.
 
----
+Autosomal dominant polycystic kidney disease (ADPKD, the disease family that includes PKD3) is driven mechanistically by *excessive* cAMP signaling in renal tubular epithelial cells, which promotes epithelial proliferation and fluid secretion into cysts. This is precisely why vasopressin V2-receptor antagonists such as tolvaptan — which *lower* intracellular cAMP — are the established disease-modifying treatment for ADPKD.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | overactive bladder (disease) | 95.86% | DL |
-| 2 | polycystic kidney disease 3 with or without polycystic liver disease | 94.50% | DL |
-| 3 | mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies | 94.47% | DL |
-| 4 | renal-hepatic-pancreatic dysplasia | 92.47% | DL |
-| 5 | Joubert syndrome with renal defect | 91.53% | DL |
-| 6 | thoracic malformation | 91.33% | DL |
-| 7 | esophageal varices with bleeding | 91.29% | DL |
-| 8 | esophageal varices without bleeding | 91.29% | DL |
-| 9 | karyomegalic interstitial nephritis | 90.30% | DL |
-| 10 | adult familial nephronophthisis-spastic quadriparesia syndrome | 90.15% | DL |
-| 11 | hypotrichosis simplex of the scalp | 90.03% | DL |
-| 12 | 16q24.1 microdeletion syndrome | 88.97% | DL |
-| 13 | congenital hypotrichosis milia | 88.42% | DL |
-| 14 | primary interstitial lung disease specific to childhood | 88.37% | DL |
-| 15 | isolated pulmonary capillaritis | 88.04% | DL |
-| 16 | congenital pulmonary lymphangiectasia | 86.33% | DL |
-| 17 | psychogenic movement disorders | 85.59% | DL |
-| 18 | chronic tic disorder | 84.56% | DL |
-| 19 | tremor-nystagmus-duodenal ulcer syndrome | 84.09% | DL |
-| 20 | primary orthostatic tremor | 84.04% | DL |
-
-*Showing top 20 of 50 predictions.*
+Because vibegron raises cAMP rather than lowering it, its mechanism of action points in the **opposite direction** from what is therapeutically needed in polycystic kidney/liver disease, and there is no positive mechanistic rationale supporting repurposing. The high TxGNN score most likely reflects topological proximity between vibegron and kidney/bladder-related nodes in the knowledge graph, rather than a genuine pharmacological relationship. None of the 20 retrieved publications mention vibegron or beta-3 agonists — they are background clinical/pathophysiology reviews of ADPKD and polycystic liver disease, indicating that the literature co-occurrence is disease-context noise rather than drug-specific evidence.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+All retrieved publications concern the pathophysiology, genetics, and clinical management of polycystic kidney/liver disease; **none reference vibegron or beta-3 adrenergic agonists directly**. They are listed below for background context only and do not constitute drug-specific evidence.
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38958301](https://pubmed.ncbi.nlm.nih.gov/38958301/) | 2024 | Review | Am J Gastroenterol | ACG clinical guideline on focal liver lesions, including polycystic liver disease management |
+| [30819518](https://pubmed.ncbi.nlm.nih.gov/30819518/) | 2019 | Review | Lancet | Overview of ADPKD as a systemic disorder with renal and extrarenal manifestations |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | Discusses tolvaptan (V2 antagonist, lowers cAMP) as ADPKD treatment; no mention of beta-3 agonists |
+| [29038287](https://pubmed.ncbi.nlm.nih.gov/29038287/) | 2018 | Review | J Am Soc Nephrol | Genetic overlap between ADPKD and autosomal dominant polycystic liver disease |
+| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Review | Adv Kidney Dis Health | Genetic spectrum of PKD1/PKD2 mutations and resulting phenotypes |
+| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Guideline | J Hepatol | EASL clinical practice guidelines on cystic liver disease management |
+| [34034501](https://pubmed.ncbi.nlm.nih.gov/34034501/) | 2022 | Review | Rev Esp Enferm Dig | Diagnosis and management of hepatic hydatid cyst (unrelated etiology) |
+| [37208103](https://pubmed.ncbi.nlm.nih.gov/37208103/) | 2023 | Review | J Hepatol | Multi-organ (liver-kidney) transplantation considerations in polycystic disease |
+| [40081770](https://pubmed.ncbi.nlm.nih.gov/40081770/) | 2025 | Review | Biochem Pharmacol | Extracellular matrix dynamics as a therapeutic target in PKD/PLD |
+| [36047551](https://pubmed.ncbi.nlm.nih.gov/36047551/) | 2022 | Review | Rev Med Suisse | General overview of polycystic liver disease subtypes |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Vibegron currently holds **no marketing authorization in the European Union** (0 licenses on record; market status: not marketed).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. No verified warnings, contraindications, or drug–drug interaction data were available for this evaluation (TFDA label data and DrugBank MOA data are flagged as blocking/high-severity data gaps in the source Evidence Pack).
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The predicted indication (PKD3/polycystic liver disease) has no supporting clinical trials and no drug-specific literature. More importantly, the drug's known mechanism — increasing intracellular cAMP via beta-3 agonism — runs counter to the established disease biology, where *reducing* cAMP (e.g., via tolvaptan) is the therapeutic strategy. The high TxGNN score is best interpreted as a graph-topology artifact rather than a genuine repurposing signal, and the same caveat applies to the other nine ranked candidates in this Evidence Pack, all of which are L5 with zero clinical or drug-specific literature support.
+
+**To proceed, the following is needed:**
+- Confirmed DrugBank/SmPC mechanism-of-action data for vibegron (currently a data gap)
+- TFDA/EMA label warnings and contraindications (currently a blocking data gap)
+- In-vitro or preclinical data on vibegron's effect on cAMP signaling and cyst growth in renal tubular epithelium, to formally test (and likely refute) the mechanistic hypothesis before any further evaluation stage
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

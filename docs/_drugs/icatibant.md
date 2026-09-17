@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Icatibant
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Icatibant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 10
 
 ## One-Sentence Summary
 
-Icatibant's original approved indication is not available in the structured regulatory data provided (drug is currently **未上市/not marketed** in this jurisdiction, 0 licenses on file). The TxGNN model predicts it may be effective for **C1 Inhibitor Deficiency**, with **23 clinical trials** and **20 publications** currently supporting this direction — though this evidence largely describes Icatibant's *already-established* use in Hereditary Angioedema (HAE) rather than a novel repurposing hypothesis (see rationale below).
+Icatibant's original approved indication is not available in the structured regulatory data provided (drug is currently **Not marketed/not marketed** in this jurisdiction, 0 licenses on file). The TxGNN model predicts it may be effective for **C1 Inhibitor Deficiency**, with **23 clinical trials** and **20 publications** currently supporting this direction — though this evidence largely describes Icatibant's *already-established* use in Hereditary Angioedema (HAE) rather than a novel repurposing hypothesis (see rationale below).
 
 ## Quick Overview
 
@@ -43,7 +43,7 @@ Icatibant's original approved indication is not available in the structured regu
 | Predicted New Indication | C1 Inhibitor Deficiency |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L1 (≥2 completed Phase 3 RCTs) |
-| EU Market Status | 未上市 (Not marketed) |
+| EU Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -89,7 +89,7 @@ Importantly, the trial and literature evidence in this pack (e.g., NCT00097695, 
 
 ## EU Market Information
 
-No marketing authorizations are on file for this jurisdiction (`total_licenses = 0`, market status: 未上市/Not marketed). This is notable given the substantial global clinical evidence base above, and should be clarified as part of any further evaluation (e.g., is the product simply not yet filed here, or was it discontinued/never sought?).
+No marketing authorizations are on file for this jurisdiction (`total_licenses = 0`, market status: Not marketed/Not marketed). This is notable given the substantial global clinical evidence base above, and should be clarified as part of any further evaluation (e.g., is the product simply not yet filed here, or was it discontinued/never sought?).
 
 ## Safety Considerations
 

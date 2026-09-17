@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bortezomib
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 97
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Bortezomib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ It is worth noting that the model simultaneously predicts strong activity across
 | Predicted New Indication | Vertebral Anomalies and Variable Endocrine and T-cell Dysfunction |
 | TxGNN Prediction Score | 96.10% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available for Bortezomib in Vertebral Anomalies 
 
 ## Taiwan Market Information
 
-Bortezomib is currently not registered in Taiwan (未上市). No marketing authorizations are on file in the Taiwan FDA database. The drug is, however, approved internationally — including by the US FDA and EMA — for multiple myeloma and mantle cell lymphoma under the brand name Velcade.
+Bortezomib is currently not registered in Taiwan (Not marketed). No marketing authorizations are on file in the Taiwan FDA database. The drug is, however, approved internationally — including by the US FDA and EMA — for multiple myeloma and mantle cell lymphoma under the brand name Velcade.
 
 ---
 

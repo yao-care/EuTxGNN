@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Norethisterone
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Norethisterone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -95,7 +95,7 @@ The strongest trial evidence in this pack, however, comes from the LIBERTY progr
 
 ## EU Market Information
 
-Norethisterone is **not currently marketed** under this evidence pack's regulatory dataset (`market_status: 未上市`), with **0 marketing authorizations on file**. No license records, product names, or approved indication texts are available.
+Norethisterone is **not currently marketed** under this evidence pack's regulatory dataset (`market_status: Not marketed`), with **0 marketing authorizations on file**. No license records, product names, or approved indication texts are available.
 
 ---
 

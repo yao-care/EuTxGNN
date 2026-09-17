@@ -1,145 +1,126 @@
 ---
 layout: default
 title: Ranibizumab
-description: "ranibizumab drug repurposing predictions from TxGNN. Evidence level L1 with 52 predicted indications."
-parent: Phase 3+ Evidence (L1)
-nav_order: 478
+parent: High Evidence (L1-L2)
+nav_order: 490
 evidence_level: L1
-indication_count: 52
+indication_count: 10
 ---
 
 # Ranibizumab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **52**
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Ranibizumab: From Neovascular AMD/Diabetic Macular Edema to Severe Nonproliferative Diabetic Retinopathy
+
+## One-Sentence Summary
+
+> Ranibizumab is an anti-VEGF-A antibody fragment whose approved indications elsewhere include neovascular (wet) age-related macular degeneration and diabetic macular edema (DME).
+> The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy (NPDR)**,
+> with **6 clinical trials** (including two completed Phase 3 RCTs) and **19 publications** currently supporting this direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ranibizumab |
-| DrugBank ID | [DB01270](https://go.drugbank.com/drugs/DB01270) |
-| Brand Names (EU) | Lucentis, Rimmyrah, Ximluci |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented in this evidence pack's EU authorization data (product currently not marketed). The pack's own rationale notes ranibizumab already holds approved DME/DR-adjacent indications in other markets. |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L1 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 99.99% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Ximluci is indicated in adults for:  The treatment of neovascular (wet) age-related macular degeneration (AMD) The treatment of visual impairment due to diabetic macular oedema (DME) The treatment of proliferative diabetic retinopathy (PDR) The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO) The treatment of visual impairment due to choroidal neovascularisation (CNV)
+Currently, detailed mechanism of action data is not available in this evidence pack. Based on the information provided, ranibizumab is an anti-VEGF-A Fab fragment; VEGF-A is a well-established driver of the abnormal angiogenesis and vascular leakage seen in diabetic retinopathy.
 
----
+Per the repurposing rationale accompanying this prediction: *"VEGF-A drives the angiogenesis and vascular leakage underlying diabetic retinopathy. Ranibizumab, as an anti-VEGF-A Fab fragment, has a mechanism that directly aligns with this pathology. In most markets, this indication is already label-adjacent — overlapping substantially with ranibizumab's existing approved indications for diabetic macular edema (DME) and diabetic retinopathy (DR)."*
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | severe nonproliferative diabetic retinopathy | 99.99% | DL |
-| 2 | diabetic retinopathy | 99.99% | DL |
-| 3 | diabetic cataract | 99.99% | DL |
-| 4 | craniostenosis cataract | 99.99% | DL |
-| 5 | mature cataract | 99.99% | DL |
-| 6 | diabetes mellitus type 2 associated cataract | 99.99% | DL |
-| 7 | immature cataract | 99.99% | DL |
-| 8 | tetanic cataract | 99.99% | DL |
-| 9 | nuclear senile cataract | 99.99% | DL |
-| 10 | cortical cataract | 99.99% | DL |
-| 11 | senile cataract | 99.99% | DL |
-| 12 | hemorrhagic disease of newborn | 99.87% | DL |
-| 13 | esotropia | 99.79% | DL |
-| 14 | primary release disorder of platelets | 99.76% | DL |
-| 15 | pseudo-von Willebrand disease | 99.76% | DL |
-| 16 | esophageal varices with bleeding | 99.63% | DL |
-| 17 | esophageal varices without bleeding | 99.63% | DL |
-| 18 | varicose disease | 99.42% | DL |
-| 19 | retinopathy of prematurity | 99.38% | DL |
-| 20 | Glanzmann thrombasthenia | 99.25% | DL |
-
-*Showing top 20 of 52 predictions.*
+This mechanistic overlap is reinforced by an extensive clinical trial history: DRCR.net Protocol I/S and the RIDE/RISE program have repeatedly demonstrated that intravitreal ranibizumab reduces DR severity scores and delays progression to vision-threatening complications, providing strong biological plausibility for extending use specifically to the severe NPDR stage.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| diabetic cataract | L1 | 20 | 1 | 4 Phase 3 trial(s), 3 Phase 2 trial(s) |
-| senile cataract | L4 | 0 | 3 | AI prediction only |
-| cortical cataract | L4 | 2 | 0 | AI prediction only |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00444600](https://clinicaltrials.gov/study/NCT00444600) | Phase 3 | Completed | 691 | DRCR.net Protocol I — compared laser alone, laser + triamcinolone, laser + ranibizumab, and ranibizumab alone for diabetic macular edema |
+| [NCT02634333](https://clinicaltrials.gov/study/NCT02634333) | Phase 3 | Completed | 399 | Intravitreal anti-VEGF for prevention of vision-threatening complications in high-risk DR eyes |
+| [NCT02834663](https://clinicaltrials.gov/study/NCT02834663) | Phase 4 | Completed | 25 | Intravitreal ranibizumab in NPDR with DME — effects on microaneurysm turnover and non-perfused retinal area |
+| [NCT03452657](https://clinicaltrials.gov/study/NCT03452657) | Phase 3 | Unknown | 118 | Efficacy/safety of intravitreous ranibizumab vs sham injections for prevention of high-risk DR progression |
+| [NCT04503551](https://clinicaltrials.gov/study/NCT04503551) | Phase 3 | Active, not recruiting | 174 | Port Delivery System with ranibizumab vs comparator in DR without center-involved DME |
+| [NCT05222633](https://clinicaltrials.gov/study/NCT05222633) | N/A | Unknown | 1000 | Real-world observational study of anti-VEGF therapy across AMD/PDR/ME/CNV populations (indirect relevance) |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [40048178](https://pubmed.ncbi.nlm.nih.gov/40048178/) | 2025 | RCT | JAMA Ophthalmology | Pavilion trial: Port Delivery System with ranibizumab vs monitoring in NPDR without macular edema |
+| [40347224](https://pubmed.ncbi.nlm.nih.gov/40347224/) | 2025 | Systematic Review | Health Technology Assessment | Anti-VEGF vs laser photocoagulation for DR — systematic review and economic analysis |
+| [39673354](https://pubmed.ncbi.nlm.nih.gov/39673354/) | 2024 | Systematic Review | Health Technology Assessment | Anti-VEGF vs laser photocoagulation for DR — systematic review and meta-analysis |
+| [36774994](https://pubmed.ncbi.nlm.nih.gov/36774994/) | 2023 | Cohort (post-hoc meta-analysis) | Ophthalmology Retina | Baseline DR severity and time to DME resolution with ranibizumab in Phase 3 trials |
+| [35417296](https://pubmed.ncbi.nlm.nih.gov/35417296/) | 2022 | Cohort (post-hoc) | Ophthalmic Surgery, Lasers & Imaging Retina | DR course in untreated fellow eyes in RIDE/RISE — natural history comparator |
+| [33966556](https://pubmed.ncbi.nlm.nih.gov/33966556/) | 2021 | Review | Expert Opinion on Biological Therapy | Ranibizumab for the treatment of diabetic retinopathy — mechanism and evidence overview |
+| [32606578](https://pubmed.ncbi.nlm.nih.gov/32606578/) | 2020 | Cohort (RIDE/RISE post-hoc) | Clinical Ophthalmology | Predictors of early DR regression with ranibizumab in RIDE and RISE trials |
+| [31669065](https://pubmed.ncbi.nlm.nih.gov/31669065/) | 2019 | Review | Journal of Diabetes and its Complications | Advances in the treatment of diabetic retinopathy, VEGF-A pathophysiology |
+| [30234859](https://pubmed.ncbi.nlm.nih.gov/30234859/) | 2018 | RCT-derived (DRCR.net Protocol I, 5-yr report) | Retina | Changes in DR severity when treating DME with ranibizumab over 5 years |
+| [28448655](https://pubmed.ncbi.nlm.nih.gov/28448655/) | 2017 | Secondary analysis of RCT | JAMA Ophthalmology | 2-year DR change comparing aflibercept, bevacizumab, and ranibizumab |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No EU marketing authorizations are recorded for ranibizumab in this evidence pack (`total_licenses = 0`, product status: Not Marketed). No product-level authorization details are available to tabulate.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+The evidence level is L1 — two completed Phase 3 RCTs (DRCR.net Protocol I, NCT02634333) plus a completed Phase 4 study directly support ranibizumab's effect on diabetic retinopathy severity, and two 2024–2025 systematic reviews independently confirm anti-VEGF efficacy in DR. However, this specific evidence pack lacks confirmed EU marketing status and safety/regulatory documentation, so guardrails are warranted before advancing.
+
+**To proceed, the following is needed:**
+- TFDA/EU label warnings and contraindications (currently a **Blocking** data gap — required before any S1 safety screening)
+- Verified mechanism of action documentation from DrugBank (currently a **High**-severity data gap affecting mechanistic-link analysis)
+- Confirmation of actual EU marketing authorization status, since this evidence pack shows zero licenses despite ranibizumab's well-documented clinical trial history
+- A distinction between "severe NPDR" as a standalone indication versus the already-overlapping DME/PDR indications, to clarify true label-adjacency
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

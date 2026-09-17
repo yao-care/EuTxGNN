@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Albutrepenonacog Alfa 相關新聞"
-parent: 健康新聞
+title: "Albutrepenonacog Alfa News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Albutrepenonacog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 20 個。"
+description: "Health news related to Albutrepenonacog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 20 predicted indications."
 permalink: /news/albutrepenonacog-alfa/
 ---
 
-# Albutrepenonacog Alfa 相關新聞
+# Albutrepenonacog Alfa News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Albutrepenonacog Alfa 有什麼相關新聞？">
-<strong>Albutrepenonacog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Albutrepenonacog Alfa?">
+<strong>Albutrepenonacog Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Albutrepenonacog Alfa 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Albutrepenonacog Alfa with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>pseudo-von Willebrand disease（99.9%）</li>
-<li>primary release disorder of platelets（99.9%）</li>
-<li>Glanzmann thrombasthenia（99.9%）</li>
-<li>Scott syndrome（99.6%）</li>
-<li>bleeding diathesis due to a collagen receptor defect（99.3%）</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia（99.3%）</li>
-<li>hemophilia（99.0%）</li>
-<li>acquired coagulation factor deficiency（98.6%）</li>
-<li>thrombotic thrombocytopenic purpura（98.2%）</li>
-<li>fetal and neonatal alloimmune thrombocytopenia（97.5%）</li>
-<li>inherited thrombophilia（97.4%）</li>
-<li>platelet-type bleeding disorder（97.0%）</li>
-<li>flood factor deficiency（96.8%）</li>
-<li>hereditary thrombocytosis with transverse limb defect（96.1%）</li>
-<li>familial thrombomodulin anomalies（96.1%）</li>
-<li>methylcobalamin deficiency type cblG（95.1%）</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type（94.6%）</li>
-<li>thrombocytopenic purpura（94.1%）</li>
-<li>symptomatic form of hemophilia in female carriers（91.9%）</li>
-<li>congenital factor V deficiency（87.8%）</li>
+<li><strong>Original indication</strong>: Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>pseudo-von Willebrand disease (99.9%)</li>
+<li>primary release disorder of platelets (99.9%)</li>
+<li>Glanzmann thrombasthenia (99.9%)</li>
+<li>Scott syndrome (99.6%)</li>
+<li>bleeding diathesis due to a collagen receptor defect (99.3%)</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.3%)</li>
+<li>hemophilia (99.0%)</li>
+<li>acquired coagulation factor deficiency (98.6%)</li>
+<li>thrombotic thrombocytopenic purpura (98.2%)</li>
+<li>fetal and neonatal alloimmune thrombocytopenia (97.5%)</li>
+<li>inherited thrombophilia (97.4%)</li>
+<li>platelet-type bleeding disorder (97.0%)</li>
+<li>flood factor deficiency (96.8%)</li>
+<li>hereditary thrombocytosis with transverse limb defect (96.1%)</li>
+<li>familial thrombomodulin anomalies (96.1%)</li>
+<li>methylcobalamin deficiency type cblG (95.1%)</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type (94.6%)</li>
+<li>thrombocytopenic purpura (94.1%)</li>
+<li>symptomatic form of hemophilia in female carriers (91.9%)</li>
+<li>congenital factor V deficiency (87.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/albutrepenonacog-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/albutrepenonacog-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

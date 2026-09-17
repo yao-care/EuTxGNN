@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durvalumab
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Durvalumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Durvalumab is an anti-PD-L1 monoclonal antibody (identified from clinical trial 
 | Predicted New Indication | Prostatic Urethra Urothelial Carcinoma |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| EU Market Status | 未上市 (Not Marketed) |
+| EU Market Status | Not marketed (Not Marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -85,7 +85,7 @@ Note: none of the trials above are durvalumab monotherapy trials — all use dur
 
 ## EU Market Information
 
-Durvalumab currently has **0 EU marketing authorization licenses** recorded in this evidence pack; market status is marked as **未上市 (Not Marketed)**. No product name, dosage form, or approved indication text is available to tabulate.
+Durvalumab currently has **0 EU marketing authorization licenses** recorded in this evidence pack; market status is marked as **Not marketed (Not Marketed)**. No product name, dosage form, or approved indication text is available to tabulate.
 
 ## Cytotoxicity
 

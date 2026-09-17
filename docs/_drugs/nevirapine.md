@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nevirapine
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 414
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Nevirapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 10
 | Predicted New Indication | Simian Immunodeficiency Virus Infection |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L4 |
-| EU Market Status | 未上市 (Not marketed) |
+| EU Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -88,7 +88,7 @@ Currently no related clinical trials registered
 
 ## EU Market Information
 
-No EU marketing authorizations are currently on file for Nevirapine in this data pack (market status: **未上市 / Not marketed**, 0 authorizations recorded).
+No EU marketing authorizations are currently on file for Nevirapine in this data pack (market status: **Not marketed / Not marketed**, 0 authorizations recorded).
 
 ---
 

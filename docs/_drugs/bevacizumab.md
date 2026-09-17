@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bevacizumab
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 89
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Bevacizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ with **8 clinical trials** and **20 publications** currently supporting this dir
 | Predicted New Indication | Cystic Neoplasm |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L1 |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -97,7 +97,7 @@ Crucially, this TxGNN prediction aligns with established clinical reality rather
 
 ## Taiwan Market Information
 
-Bevacizumab is **not currently registered in Taiwan** (TFDA market status: 未上市). No Taiwan authorization records are on file.
+Bevacizumab is **not currently registered in Taiwan** (TFDA market status: Not marketed). No Taiwan authorization records are on file.
 
 > Clinicians wishing to use bevacizumab in Taiwan would need to apply for compassionate use (恩慈療法), special import approval, or conduct an IND-based clinical trial. For reference, bevacizumab (Avastin®, Roche/Genentech) holds EMA and FDA approvals for metastatic colorectal cancer, NSCLC, glioblastoma, renal cell carcinoma, ovarian cancer, and cervical cancer.
 

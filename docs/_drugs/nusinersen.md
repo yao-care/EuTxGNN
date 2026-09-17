@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nusinersen
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 425
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Nusinersen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Using no additional skill — this is a direct report-writing task per the given
 | Predicted New Indication | Skin atrophy |
 | TxGNN Prediction Score | 50% (raw score 0.5; global rank 1,181,204 — very low priority among all predictions) |
 | Evidence Level | L4 |
-| Market Status | ✗ Not marketed (未上市) |
+| Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -92,7 +92,7 @@ The apparent "evidence" behind this prediction is a keyword-co-occurrence artifa
 
 ## Market Information
 
-No marketing authorizations are on file for this market — nusinersen's status here is **"未上市" (Not marketed)**, with 0 recorded licenses. No approved indication text is available from this dataset.
+No marketing authorizations are on file for this market — nusinersen's status here is **"Not marketed" (Not marketed)**, with 0 recorded licenses. No approved indication text is available from this dataset.
 
 ---
 

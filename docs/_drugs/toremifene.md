@@ -1,132 +1,120 @@
 ---
 layout: default
 title: Toremifene
-description: "Toremifene drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 597
-evidence_level: L5
-indication_count: 50
+parent: Medium Evidence (L3-L4)
+nav_order: 608
+evidence_level: L4
+indication_count: 10
 ---
 
 # Toremifene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Toremifene: From Breast Cancer to HIV Infectious Disease
+
+## One-Sentence Summary
+
+Toremifene is a selective estrogen receptor modulator (SERM), historically used to treat hormone receptor-positive (ER+) metastatic breast cancer in postmenopausal women. The TxGNN model's top-ranked prediction is **HIV Infectious Disease**, but this direction is currently supported by **0 clinical trials** and only **1 mechanistic/in-vitro publication**, and that publication actually concerns anti-cryptococcal (opportunistic infection) activity rather than antiretroviral action — so the evidence for this specific prediction remains weak.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Toremifene |
-| DrugBank ID | [DB00539](https://go.drugbank.com/drugs/DB00539) |
-| Brand Names (EU) | Fareston |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.41% |
+| Item | Content |
+|------|------|
+| Original Indication | Not derivable from EU regulatory license text (no EU marketing authorization on record); literature evidence in this pack indicates hormone receptor-positive (ER+) metastatic breast cancer in postmenopausal women |
+| Predicted New Indication | HIV Infectious Disease |
+| TxGNN Prediction Score | 99.41% |
+| Evidence Level | L4 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-First line hormone treatment of hormone-dependent metastatic breast cancer in postmenopausal patients.Fareston is not recommended for patients with estrogen receptor negative tumours.
+Currently, detailed mechanism of action (MOA) data is not available for Toremifene in this Evidence Pack (flagged as a High-severity data gap, DG002). Based on the literature evidence collected across other predicted indications in this pack, Toremifene is known to act as a triphenylethylene SERM that competitively antagonizes the estrogen receptor, which is its well-established mechanism in breast cancer treatment.
 
----
+The relationship between this known mechanism and the top-ranked prediction (HIV Infectious Disease) is not well supported. The single literature citation attached to this indication (PMID 24520056) actually demonstrates that estrogen receptor antagonists related to tamoxifen and toremifene have **anti-cryptococcal** fungicidal activity — relevant to an opportunistic infection sometimes seen in AIDS patients, not to HIV viral replication or antiretroviral mechanisms themselves. This suggests the high TxGNN score may reflect a knowledge-graph artifact, where "HIV infection," "AIDS," and related opportunistic-infection concepts are semantically clustered together, rather than a genuine mechanistic signal.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | HIV infectious disease | 99.41% | DL |
-| 2 | simian immunodeficiency virus infection | 98.99% | DL |
-| 3 | feline acquired immunodeficiency syndrome | 98.99% | DL |
-| 4 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 98.96% | DL |
-| 5 | multiple endocrine neoplasia | 98.89% | DL |
-| 6 | AIDS | 98.63% | DL |
-| 7 | obsolete familial combined hyperlipidemia | 98.43% | DL |
-| 8 | female breast carcinoma | 98.40% | DL |
-| 9 | nephrogenic syndrome of inappropriate antidiuresis | 97.75% | DL |
-| 10 | gout | 97.68% | DL |
-| 11 | rheumatoid arthritis | 97.67% | DL |
-| 12 | breast fibrocystic disease | 97.50% | DL |
-| 13 | Plasmodium falciparum malaria | 97.30% | DL |
-| 14 | AIDS related complex | 96.99% | DL |
-| 15 | congenital human immunodeficiency virus | 96.99% | DL |
-| 16 | cholecystolithiasis | 96.81% | DL |
-| 17 | duodenal obstruction | 96.58% | DL |
-| 18 | pneumocystosis | 96.44% | DL |
-| 19 | benign mammary dysplasia | 96.36% | DL |
-| 20 | brachydactyly-syndactyly syndrome | 96.36% | DL |
-
-*Showing top 20 of 50 predictions.*
+Notably, a more biologically plausible (though still preclinical) signal exists further down the ranked list: rank 6, "AIDS" (L4, decision stage S1, "Research Question"), where in-vitro data show Toremifene has antiproliferative activity against AIDS-related Kaposi's sarcoma cells via TGF-β1 upregulation. If this repurposing avenue is of interest, that indication — not HIV infection itself — is the more defensible starting point for further investigation.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | Mechanistic/In vitro | mBio | Estrogen receptor antagonists (toremifene, tamoxifen) bind EF-hand proteins and show anti-cryptococcal (antifungal) activity, synergizing with fluconazole and amphotericin B in vitro; relevant to an AIDS-associated opportunistic infection, not to HIV viral mechanism directly |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Toremifene currently holds no EU marketing authorization in this dataset (market status: Not Marketed, 0 licenses on record).
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Hormonal/targeted antineoplastic therapy (SERM), same pharmacological class as tamoxifen — not a conventional cytotoxic agent |
+| Myelosuppression Risk | Low — SERMs are not associated with significant bone marrow suppression, unlike cytotoxic chemotherapy |
+| Emetogenicity Classification | Low |
+| Monitoring Items | Liver function and serum lipids (per comparative studies with tamoxifen); gynecological/endometrial monitoring given reported increased endometrial cancer risk with long-term antiestrogen therapy |
+| Handling Protection | Oral agent; not classified as a hazardous cytotoxic drug requiring special handling precautions under cytotoxic drug handling regulations |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug–drug interaction data are not available in this Evidence Pack — flagged as a Blocking-severity data gap, DG001.)
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked TxGNN prediction (HIV Infectious Disease, score 99.41%) lacks direct mechanistic or clinical support — its sole literature citation concerns anti-cryptococcal (opportunistic infection) activity, not antiretroviral action, and no clinical trials exist for this indication. The high similarity score likely reflects semantic clustering between "HIV" and "AIDS"-related concepts in the knowledge graph rather than a genuine biological signal, so evidence is insufficient to advance beyond S0.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (EU/national label warnings and contraindications) and DG002 (confirmed mechanism of action) before any safety review (S1) can begin
+- Preclinical studies specifically testing antiretroviral (anti-HIV) activity, rather than activity against opportunistic co-infections
+- If pursuing the AIDS-related opportunistic infection signal instead (rank 6, "AIDS," L4/S1, Research Question — supported by in-vitro Kaposi's sarcoma and anti-cryptococcal data), further translational research is needed before clinical evaluation
+- Clarification of why EU market status shows "Not Marketed" despite an extensive global clinical trial and literature record for Toremifene's established use in breast cancer (rank 8 in this dataset shows L1 evidence and "Proceed with Guardrails" for that indication) — this discrepancy should be verified against source regulatory data
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

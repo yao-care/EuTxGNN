@@ -1,70 +1,70 @@
 ---
 layout: default
-title: "Abacavir 相關新聞"
-parent: 健康新聞
+title: "Abacavir News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Abacavir 的相關健康新聞報導。原適應症：Kivexa is indicated in antiretroviral combination ...。預測適應症 20 個。"
+description: "Health news related to Abacavir. Original indication: Kivexa is indicated in antiretroviral combination .... 20 predicted indications."
 permalink: /news/abacavir/
 ---
 
-# Abacavir 相關新聞
+# Abacavir News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Abacavir?">
+<strong>Abacavir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Abacavir 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Abacavir with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Kivexa is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults, adolescents and children weighing at least 25 kg. Before...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>HIV infectious disease（99.9%）</li>
-<li>feline acquired immunodeficiency syndrome（99.8%）</li>
-<li>simian immunodeficiency virus infection（99.8%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.8%）</li>
-<li>obsolete familial combined hyperlipidemia（98.7%）</li>
-<li>AIDS（96.4%）</li>
-<li>congenital human immunodeficiency virus（92.8%）</li>
-<li>AIDS related complex（92.8%）</li>
-<li>chronic hepatitis C virus infection（92.7%）</li>
-<li>paratenonitis（88.2%）</li>
-<li>calcific tendinitis（87.9%）</li>
-<li>fibroma of prostate（87.0%）</li>
-<li>Brenner tumor（86.3%）</li>
-<li>benign reproductive system neoplasm（86.2%）</li>
-<li>homozygous familial hypercholesterolemia（85.6%）</li>
-<li>benign prostate phyllodes tumor（84.6%）</li>
-<li>hypercholesterolemia, autosomal dominant（83.2%）</li>
-<li>myositis（82.7%）</li>
-<li>hepatitis B virus infection（82.6%）</li>
-<li>male reproductive organ cancer（82.3%）</li>
+<li><strong>Original indication</strong>: Kivexa is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults, adolescents and children weighing at least 25 kg. Before...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>HIV infectious disease (99.9%)</li>
+<li>feline acquired immunodeficiency syndrome (99.8%)</li>
+<li>simian immunodeficiency virus infection (99.8%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
+<li>obsolete familial combined hyperlipidemia (98.7%)</li>
+<li>AIDS (96.4%)</li>
+<li>congenital human immunodeficiency virus (92.8%)</li>
+<li>AIDS related complex (92.8%)</li>
+<li>chronic hepatitis C virus infection (92.7%)</li>
+<li>paratenonitis (88.2%)</li>
+<li>calcific tendinitis (87.9%)</li>
+<li>fibroma of prostate (87.0%)</li>
+<li>Brenner tumor (86.3%)</li>
+<li>benign reproductive system neoplasm (86.2%)</li>
+<li>homozygous familial hypercholesterolemia (85.6%)</li>
+<li>benign prostate phyllodes tumor (84.6%)</li>
+<li>hypercholesterolemia, autosomal dominant (83.2%)</li>
+<li>myositis (82.7%)</li>
+<li>hepatitis B virus infection (82.6%)</li>
+<li>male reproductive organ cancer (82.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/abacavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## Related News (1)
 
 ### [Saarländische Testwoche startet: Gesundheitsamt St. Wendel testet kostenlos auf HIV, Syphilis und Hepatitis - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
 
 2026-09-13 <span class="news-indication-tag">hepatitis</span>
 
-來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+Source: [St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

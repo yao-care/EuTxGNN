@@ -1,132 +1,95 @@
 ---
 layout: default
 title: Zonisamide
-description: "Zonisamide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 651
+nav_order: 662
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Zonisamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Zonisamide: From Epilepsy to Tourette Syndrome
+
+## One-Sentence Summary
+
+> Zonisamide is an antiepileptic drug, with literature in the evidence pack confirming its established use in partial-onset (focal) seizures.
+> The TxGNN model's top-ranked prediction suggests it may be effective for **Tourette Syndrome**,
+> but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a pure AI-model prediction with no corroborating evidence.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Zonisamide |
-| DrugBank ID | [DB00909](https://go.drugbank.com/drugs/DB00909) |
-| Brand Names (EU) | Zonegran |
+| Item | Content |
+|------|------|
+| Original Indication | Epilepsy (partial-onset/refractory seizures) — inferred from literature evidence in this pack; no formal EU marketing-authorization indication text is available |
+| Predicted New Indication | Tourette Syndrome |
+| TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.85% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap requiring a DrugBank API lookup). Based on the literature contained in this evidence pack, zonisamide is a broad-spectrum antiepileptic drug approved for partial and generalized seizures, acting through sodium- and T-type calcium-channel blockade and weak carbonic anhydrase inhibition.
+
+Epilepsy and Tourette syndrome are both neurological conditions rooted in abnormal neuronal excitability and dysregulated neurotransmission, which is the general basis on which anticonvulsants are sometimes explored for tic disorders. The rationale note attached to this prediction states that zonisamide has a weak dopamine-modulating effect that could theoretically benefit tic symptoms, referencing isolated Japanese clinical observations — but this rationale is explicitly described as **theoretical only**, with no clinical trial or peer-reviewed literature in this dataset to support it.
+
+Given the score (99.85%) is a raw TxGNN knowledge-graph output ranked far down the model's overall prediction list (global rank 2081) and is entirely unaccompanied by real-world evidence, this candidate should be treated as a hypothesis-generating signal rather than a validated repurposing opportunity.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+No EU marketing authorization records are available for this product in the current dataset (0 licenses on file; market status: Not marketed).
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug-drug interaction data are not yet available in this evidence pack; retrieval of the TFDA/EMA product label is flagged as a blocking data gap.)
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- This is an L5, decision-stage S0 prediction: a high TxGNN score alone, with zero clinical trials and zero literature to corroborate a mechanistic or clinical link to Tourette syndrome.
+- Safety pre-assessment (Stage S1) cannot begin because product label warnings and contraindications are a blocking data gap (DG001).
+
+**To proceed, the following is needed:**
+- Retrieve the TFDA/EMA product label (SmPC) for warnings, contraindications, and DDI data (DG001, Blocking)
+- Confirm mechanism of action via DrugBank API query (DG002, High)
+- Identify any preclinical or case-level evidence specifically linking zonisamide to Tourette syndrome or tic disorders
+- For comparison, note that this same evidence pack contains two higher-evidence zonisamide candidates worth independent evaluation: **absence epilepsy** (L2, S2, "Proceed with Guardrails" — supported by Phase 3 trials and case-series literature) and **manic bipolar affective disorder** (L2, S2, "Research Question" — supported by an RCT, though underpowered)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Zonegran is indicated as:  monotherapy in the treatment of partial seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy; adjunctive therapy in the treatment of partial seizures, with or without secondary generalisation, in adults, adolescents, and children aged six years and above.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | Tourette syndrome | 99.85% | DL |
-| 2 | trichotillomania | 99.78% | DL |
-| 3 | methemoglobinemia, alpha type | 99.64% | DL |
-| 4 | methemoglobinemia | 99.63% | DL |
-| 5 | Prinzmetal angina | 99.55% | DL |
-| 6 | methemoglobin reductase deficiency | 99.53% | DL |
-| 7 | manic bipolar affective disorder | 99.35% | DL |
-| 8 | absence epilepsy | 99.24% | DL |
-| 9 | fibromyalgia | 99.20% | DL |
-| 10 | conjunctivitis | 99.16% | DL |
-| 11 | trigeminal nerve neoplasm | 99.15% | DL |
-| 12 | multifocal atrial tachycardia (disease) | 99.14% | DL |
-| 13 | tendinitis | 99.12% | DL |
-| 14 | myositis fibrosa | 99.12% | DL |
-| 15 | idiopathic granulomatous myositis | 99.12% | DL |
-| 16 | nephrogenic syndrome of inappropriate antidiuresis | 99.05% | DL |
-| 17 | migraine disorder | 99.05% | DL |
-| 18 | visual epilepsy | 99.04% | DL |
-| 19 | idiopathic neonatal atrial flutter | 98.90% | DL |
-| 20 | inclusion body myositis | 98.87% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

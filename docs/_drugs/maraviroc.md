@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maraviroc
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 375
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Maraviroc
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 ## EU Market Information
 
-No marketing authorizations currently registered — this drug is **not marketed** in this jurisdiction (`market_status: 未上市`, `total_licenses: 0`).
+No marketing authorizations currently registered — this drug is **not marketed** in this jurisdiction (`market_status: Not marketed`, `total_licenses: 0`).
 
 ---
 

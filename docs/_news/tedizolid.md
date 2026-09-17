@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Tedizolid 相關新聞"
-parent: 健康新聞
+title: "Tedizolid News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Tedizolid 的相關健康新聞報導。原適應症：Sivextro tablets are indicated for the treatment o...。預測適應症 20 個。"
+description: "Health news related to Tedizolid. Original indication: Sivextro tablets are indicated for the treatment o.... 20 predicted indications."
 permalink: /news/tedizolid/
 ---
 
-# Tedizolid 相關新聞
+# Tedizolid News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Tedizolid 有什麼相關新聞？">
-<strong>Tedizolid</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Tedizolid?">
+<strong>Tedizolid</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Tedizolid 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Tedizolid with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Sivextro tablets are indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults, adolescents and children weighing at least 35 kg.Consideration should be...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>orofacial clefting syndrome（93.9%）</li>
-<li>interventricular septum aneurysm（93.9%）</li>
-<li>bronchitis（93.9%）</li>
-<li>Jeune syndrome situs inversus（93.7%）</li>
-<li>Pierre Robin syndrome associated with a chromosomal anomaly（93.6%）</li>
-<li>Laubry-Pezzi syndrome（93.6%）</li>
-<li>genetic syndromic Pierre Robin syndrome（93.5%）</li>
-<li>disorder of fucoglycosan synthesis（93.5%）</li>
-<li>partial deletion of the long arm of chromosome 7（93.5%）</li>
-<li>partial deletion of the long arm of chromosome 22（93.3%）</li>
-<li>pulmonary valve disease（93.3%）</li>
-<li>mitral valve disease（92.6%）</li>
-<li>heart disease（91.2%）</li>
-<li>heart neoplasm（83.6%）</li>
-<li>epiglottitis（82.8%）</li>
-<li>conjunctivitis（81.7%）</li>
-<li>heart conduction disease（81.4%）</li>
-<li>congenital anomaly of ventricular septum（81.0%）</li>
-<li>bronchial neoplasm (disease)（81.0%）</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（79.0%）</li>
+<li><strong>Original indication</strong>: Sivextro tablets are indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults, adolescents and children weighing at least 35 kg.Consideration should be...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>orofacial clefting syndrome (93.9%)</li>
+<li>interventricular septum aneurysm (93.9%)</li>
+<li>bronchitis (93.9%)</li>
+<li>Jeune syndrome situs inversus (93.7%)</li>
+<li>Pierre Robin syndrome associated with a chromosomal anomaly (93.6%)</li>
+<li>Laubry-Pezzi syndrome (93.6%)</li>
+<li>genetic syndromic Pierre Robin syndrome (93.5%)</li>
+<li>disorder of fucoglycosan synthesis (93.5%)</li>
+<li>partial deletion of the long arm of chromosome 7 (93.5%)</li>
+<li>partial deletion of the long arm of chromosome 22 (93.3%)</li>
+<li>pulmonary valve disease (93.3%)</li>
+<li>mitral valve disease (92.6%)</li>
+<li>heart disease (91.2%)</li>
+<li>heart neoplasm (83.6%)</li>
+<li>epiglottitis (82.8%)</li>
+<li>conjunctivitis (81.7%)</li>
+<li>heart conduction disease (81.4%)</li>
+<li>congenital anomaly of ventricular septum (81.0%)</li>
+<li>bronchial neoplasm (disease) (81.0%)</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (79.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/tedizolid/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/tedizolid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## Related News (3)
 
 ### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
 2026-09-14 <span class="news-indication-tag">EPOC</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/tedizolid/
 
 2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
 
 ---
 
@@ -74,13 +74,13 @@ permalink: /news/tedizolid/
 
 2026-09-11 <span class="news-indication-tag">copd</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

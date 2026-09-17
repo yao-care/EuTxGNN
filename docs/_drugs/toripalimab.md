@@ -1,132 +1,107 @@
 ---
 layout: default
 title: Toripalimab
-description: "Toripalimab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 598
+nav_order: 609
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Toripalimab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Toripalimab: From Advanced Solid Tumors to Mixed-Type Autoimmune Hemolytic Anemia
+
+## One-Sentence Summary
+
+Toripalimab is an anti-PD-1 immune checkpoint inhibitor monoclonal antibody; the supporting literature in this Evidence Pack shows it used exclusively across various advanced solid tumors (nasopharyngeal carcinoma, esophageal cancer, hepatocellular carcinoma, renal cell carcinoma, melanoma, bladder and breast cancer). The TxGNN model predicts it may be effective for **Mixed-Type Autoimmune Hemolytic Anemia**, but this is a **pure AI prediction with no supporting clinical trials or literature (L5)**, and the underlying mechanistic rationale is flagged as **contradictory** — PD-1 inhibitors are a documented cause of autoimmune hemolytic anemia as an immune-related adverse event (irAE), not a treatment for it.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Toripalimab |
-| DrugBank ID | [DB15043](https://go.drugbank.com/drugs/DB15043) |
-| Brand Names (EU) | Loqtorzi |
+| Item | Content |
+|------|------|
+| Original Indication | Not formally documented in this Evidence Pack (regulatory data unavailable); literature indicates use across multiple advanced solid tumors as anti-PD-1 immunotherapy |
+| Predicted New Indication | Mixed-Type Autoimmune Hemolytic Anemia |
+| TxGNN Prediction Score | 93.76% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 93.76% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism of action data is flagged as a data gap in this Evidence Pack. Based on the literature retrieved for this drug, toripalimab is an anti-PD-1 (programmed cell death protein-1) monoclonal antibody that blocks the PD-1/PD-L1 checkpoint, thereby releasing brakes on T-cell mediated immune activity — a mechanism used to enhance anti-tumor immunity in oncology.
+
+This is precisely why the model's prediction for mixed-type autoimmune hemolytic anemia should be treated with caution rather than as a genuine repurposing opportunity. Autoimmune hemolytic anemia is itself an immune-mediated destructive process, and PD-1 inhibitors are pharmacologically known to *increase* immune activation — they are documented in the clinical literature as a **cause** of drug-induced autoimmune hemolytic anemia (irAE), not a treatment. The repurposing_rationale attached to this candidate explicitly notes this contradiction: "no clinical evidence; mechanistically contradictory — PD-1 inhibitors are known to induce AIHA as an irAE rather than treat it; the predicted direction may be reversed."
+
+This pattern is not isolated to the top-ranked candidate. Several other high-ranking predictions from this same model run (dermatitis, proteinuria) are supported only by oncology trial/literature evidence in which the "predicted indication" actually appears as an **adverse effect** of toripalimab (e.g., SJS/TEN, lichenoid drug eruption, proteinuria during HCC/RCC treatment), not as a therapeutic endpoint. Taken together, this strongly suggests the model may be picking up an irAE co-occurrence signal rather than a true efficacy signal, and reinforces that this candidate should not proceed without independent mechanistic and clinical validation.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## EU Market Information
+
+Toripalimab currently has no EU marketing authorization (market status: Not marketed; total authorizations: 0). No product, dosage form, or approved indication information is available in this Evidence Pack.
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (anti-PD-1 immune checkpoint inhibitor monoclonal antibody) |
+| Myelosuppression Risk | Low (checkpoint inhibitors are not conventional myelosuppressive cytotoxic agents) |
+| Emetogenicity Classification | Low |
+| Monitoring Items | Immune-related adverse event (irAE) monitoring — thyroid function, liver function (ALT/AST/bilirubin), renal function/urinalysis (proteinuria), skin examination, and complete blood count with differential (given hematologic irAE signals identified below) |
+| Handling Protection | Standard biologic/monoclonal antibody infusion precautions; not subject to conventional cytotoxic drug handling regulations |
+
+## Safety Considerations
+
+No structured safety data (key warnings, contraindications, or drug interactions) is currently available in this Evidence Pack — please refer to the SmPC for formal safety information. Notably, a **blocking data gap** exists for TFDA label warnings/contraindications, which prevents this candidate from entering the S1 safety pre-screening stage.
+
+**Immune-related adverse events identified in supporting literature (not formal label data, but relevant safety signals surfaced during this evaluation):**
+- Severe cutaneous adverse reactions, including Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis (SJS/TEN), reported in case series associated with PD-1/PD-L1 inhibitor use.
+- Lichenoid drug eruption reported as a case report following toripalimab treatment.
+- Proteinuria observed as an adverse finding during toripalimab combination oncology trials (HCC, RCC), not as a treatment response.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction for mixed-type autoimmune hemolytic anemia has no supporting clinical trials or literature (L5, AI prediction only), and the proposed mechanistic link is directionally contradictory — PD-1 inhibition is a documented cause of autoimmune hemolytic anemia rather than a treatment for it. Combined with a blocking data gap on TFDA label warnings/contraindications, this candidate cannot proceed past initial screening.
+
+**To proceed, the following is needed:**
+- TFDA/EMA product label (warnings, contraindications) to complete S1 safety pre-screening (currently blocking)
+- Confirmed mechanism of action data from DrugBank or the manufacturer
+- Independent pharmacovigilance review to determine whether this TxGNN signal reflects a genuine repurposing hypothesis or a reversed-direction artifact (i.e., an irAE co-occurrence being misread as efficacy)
+- If pursued further, preclinical or case-level evidence specifically supporting an immune-suppressive (rather than immune-activating) benefit of toripalimab in autoimmune hemolytic anemia
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Loqtorzi, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with recurrent, not amenable to surgery or radiotherapy, or metastatic nasopharyngeal carcinoma. Loqtorzi, in combination with cisplatin and paclitaxel, is indicated for the first-line treatment of adult patients with unresectable advanced, recurrent, or metastatic oesophageal squamous cell carcinoma.
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | mixed-type autoimmune hemolytic anemia | 93.76% | DL |
-| 2 | idiopathic aplastic anemia | 93.76% | DL |
-| 3 | dermatitis | 93.69% | DL |
-| 4 | paroxysmal nocturnal hemoglobinuria | 93.67% | DL |
-| 5 | drug-induced autoimmune hemolytic anemia | 93.67% | DL |
-| 6 | proteinuria | 93.07% | DL |
-| 7 | acne keloid | 93.05% | DL |
-| 8 | neonatal autoimmune hemolytic anemia | 93.03% | DL |
-| 9 | primary CD59 deficiency | 92.84% | DL |
-| 10 | amyopathic dermatomyositis | 92.79% | DL |
-| 11 | neonatal dermatomyositis | 92.74% | DL |
-| 12 | cold agglutinin disease | 92.47% | DL |
-| 13 | hydroa vacciniforme, familial | 92.41% | DL |
-| 14 | secondary interstitial lung disease specific to childhood associated with a connective tissue disease | 92.36% | DL |
-| 15 | acrodermatitis chronica atrophicans | 92.25% | DL |
-| 16 | hepatic veno-occlusive disease-immunodeficiency syndrome | 91.69% | DL |
-| 17 | pancytopenia due to IKZF1 mutations | 91.04% | DL |
-| 18 | chromhidrosis | 90.97% | DL |
-| 19 | adult idiopathic neutropenia | 90.78% | DL |
-| 20 | congenital neutropenia-myelofibrosis-nephromegaly syndrome | 90.78% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

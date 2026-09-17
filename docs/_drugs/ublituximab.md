@@ -1,132 +1,109 @@
 ---
 layout: default
 title: Ublituximab
-description: "Ublituximab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 613
+nav_order: 624
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Ublituximab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Ublituximab: From CD20+ B-Cell-Targeted Therapy to Diabetic Cataract
+
+## One-Sentence Summary
+
+Ublituximab is a CD20-targeted monoclonal antibody; no original approved indication or EU marketing authorization is on file in this Evidence Pack.
+The TxGNN model predicts it may be effective for **Diabetic Cataract**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the accompanying mechanistic review found **no plausible biological link** between B-cell depletion and cataract formation.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ublituximab |
-| DrugBank ID | [DB11850](https://go.drugbank.com/drugs/DB11850) |
-| Brand Names (EU) | Briumvi |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented (no marketing authorization or approved indication text on file) |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 98.57% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.57% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Briumvi is indicated for the treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features.
+Detailed mechanism-of-action data for Ublituximab is not available in this Evidence Pack, and there is no original approved indication on file — the drug currently holds no EU marketing authorization. The only mechanistic clue available comes from the embedded rationale text, which identifies Ublituximab as a CD20-targeted (anti-CD20) monoclonal antibody that acts by depleting CD20+ B cells.
 
----
+The TxGNN model's top 10 predictions for this drug are dominated almost entirely by a single disease cluster: various forms of cataract (diabetic cataract, mature cataract, cortical cataract, nuclear senile cataract, immature cataract, tetanic cataract, craniostenosis cataract) plus diabetic retinopathy. All of these are structural or metabolic ophthalmic conditions — driven by lens protein oxidation, glycation, aggregation, age-related degeneration, or VEGF-driven microvascular damage — rather than B-cell-mediated autoimmune processes.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 98.57% | DL |
-| 2 | immature cataract | 98.50% | DL |
-| 3 | tetanic cataract | 98.50% | DL |
-| 4 | craniostenosis cataract | 98.50% | DL |
-| 5 | mature cataract | 98.50% | DL |
-| 6 | diabetes mellitus type 2 associated cataract | 98.50% | DL |
-| 7 | nuclear senile cataract | 98.48% | DL |
-| 8 | cortical cataract | 98.48% | DL |
-| 9 | senile cataract | 98.42% | DL |
-| 10 | diabetic retinopathy | 98.29% | DL |
-| 11 | antithrombin deficiency type 2 | 98.24% | DL |
-| 12 | factor 5 excess with spontaneous thrombosis | 98.19% | DL |
-| 13 | heparin cofactor 2 deficiency | 98.15% | DL |
-| 14 | severe nonproliferative diabetic retinopathy | 98.03% | DL |
-| 15 | thrombophilia | 97.90% | DL |
-| 16 | diffuse gastric adenocarcinoma | 95.60% | DL |
-| 17 | hemorrhagic disease of newborn | 95.45% | DL |
-| 18 | gastric adenocarcinoma and proximal polyposis of the stomach | 94.94% | DL |
-| 19 | gastric carcinoma | 94.92% | DL |
-| 20 | microinvasive gastric cancer | 94.82% | DL |
-
-*Showing top 20 of 50 predictions.*
+For every one of the top-10 candidates, the domain rationale explicitly concludes there is no plausible mechanistic link between CD20+ B-cell depletion and lens or retinal pathology. A single drug landing on a tight cluster of mechanistically unrelated eye-lens diseases with near-identical, very high scores (98.3%–98.6%) is a classic signature of knowledge-graph embedding noise rather than a genuine biological signal, and is consistent with the "Hold" decision assigned to this candidate at stage S0.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorization is currently on file for Ublituximab as of the data cutoff (2026-09-17); the drug is not marketed in the EU and no license records are available for review.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the SmPC for safety information.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> Note: This Evidence Pack flags a **Blocking** data gap (DG001) — no TFDA/EMA label warnings or contraindications are on file — which prevents this candidate from entering the S1 safety pre-screen stage.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top-ranked candidate (and all top-10 predictions) lack any supporting clinical trial or literature evidence (L5), and the mechanistic review found no credible biological rationale linking CD20+ B-cell depletion to cataract or diabetic retinopathy pathology. A blocking data gap on the drug's safety label also prevents progression to safety pre-screening.
+
+**To proceed, the following is needed:**
+- Confirmed mechanism of action and original approved indication(s) from DrugBank/EMA SmPC (High-severity data gap DG002)
+- Official EU/TFDA product label with warnings and contraindications (Blocking data gap DG001)
+- Independent review of the TxGNN output to rule out an embedding-noise artifact, e.g. by checking whether this drug scores higher for other B-cell/autoimmune-mediated indications outside this ocular cluster
+- If pursuing further, preclinical or mechanistic evidence establishing an immune-mediated pathway in lens or retinal disease, which is currently absent
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elbasvir
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Elbasvir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -100,7 +100,7 @@ Consistent with this, all 13 clinical trials retrieved for this pairing are exis
 
 ## EU Market Information
 
-No EU marketing authorization is on record for Elbasvir in this evidence pack (`market_status: 未上市 / Not Marketed`, `total_licenses: 0`). This is a significant data gap: it means no SmPC-derived safety, dosing, or indication text is available from the regulatory dataset for this candidate, and it should be independently verified before further evaluation (Elbasvir is known to have been marketed historically only as the fixed-dose combination Zepatier® with grazoprevir).
+No EU marketing authorization is on record for Elbasvir in this evidence pack (`market_status: Not marketed / Not Marketed`, `total_licenses: 0`). This is a significant data gap: it means no SmPC-derived safety, dosing, or indication text is available from the regulatory dataset for this candidate, and it should be independently verified before further evaluation (Elbasvir is known to have been marketed historically only as the fixed-dose combination Zepatier® with grazoprevir).
 
 ---
 

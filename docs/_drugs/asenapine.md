@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Asenapine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 62
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Asenapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Importantly, this pairing reflects a **known approved indication** rather than a
 | Predicted New Indication | Major Affective Disorder |
 | TxGNN Prediction Score | 99.57% |
 | Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -95,7 +95,7 @@ This TxGNN prediction is best characterised as a **model validation result**. As
 
 ## Taiwan Market Information
 
-No asenapine products are currently registered with Taiwan's TFDA (market status: 未上市). Zero marketing authorizations are on record.
+No asenapine products are currently registered with Taiwan's TFDA (market status: Not marketed). Zero marketing authorizations are on record.
 
 *For reference: Asenapine is marketed internationally as Saphris (sublingual tablets, Organon) in the United States for schizophrenia in adults and bipolar I manic/mixed episodes in adults and paediatric patients aged 10–17, and as Sycrest (EMA-approved, Lundbeck) in Europe for the same indications. The EU authorisation includes adult acute mania and maintenance therapy in combination with mood stabilisers.*
 

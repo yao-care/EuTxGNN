@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Zoledronic Acid Monohydrate 相關新聞"
-parent: 健康新聞
+title: "Zoledronic Acid Monohydrate News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Zoledronic Acid Monohydrate 的相關健康新聞報導。原適應症：Prevention of skeletal related events (pathologica...。預測適應症 20 個。"
+description: "Health news related to Zoledronic Acid Monohydrate. Original indication: Prevention of skeletal related events (pathologica.... 20 predicted indications."
 permalink: /news/zoledronic-acid-monohydrate/
 ---
 
-# Zoledronic Acid Monohydrate 相關新聞
+# Zoledronic Acid Monohydrate News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Zoledronic Acid Monohydrate 有什麼相關新聞？">
-<strong>Zoledronic Acid Monohydrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Zoledronic Acid Monohydrate?">
+<strong>Zoledronic Acid Monohydrate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Zoledronic Acid Monohydrate 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Zoledronic Acid Monohydrate with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>bone Paget disease（99.6%）</li>
-<li>HIV infectious disease（94.0%）</li>
-<li>obsolete familial combined hyperlipidemia（93.5%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（93.1%）</li>
-<li>biotin metabolic disease（92.9%）</li>
-<li>feline acquired immunodeficiency syndrome（91.0%）</li>
-<li>simian immunodeficiency virus infection（91.0%）</li>
-<li>vitamin deficiency disorder（90.3%）</li>
-<li>postmenopausal osteoporosis（90.1%）</li>
-<li>Worth syndrome（89.9%）</li>
-<li>succinyl-CoA:3-ketoacid CoA transferase deficiency（89.8%）</li>
-<li>autosomal dominant neovascular inflammatory vitreoretinopathy（89.3%）</li>
-<li>hypoglycemia（89.2%）</li>
-<li>pregnancy associated osteoporosis（88.2%）</li>
-<li>juvenile Paget disease（87.7%）</li>
-<li>cholelithiasis（85.6%）</li>
-<li>osteomesopyknosis（83.6%）</li>
-<li>Paget disease of bone（83.3%）</li>
-<li>palmar fibromatosis（79.8%）</li>
-<li>homozygous familial hypercholesterolemia（79.5%）</li>
+<li><strong>Original indication</strong>: Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>bone Paget disease (99.6%)</li>
+<li>HIV infectious disease (94.0%)</li>
+<li>obsolete familial combined hyperlipidemia (93.5%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (93.1%)</li>
+<li>biotin metabolic disease (92.9%)</li>
+<li>feline acquired immunodeficiency syndrome (91.0%)</li>
+<li>simian immunodeficiency virus infection (91.0%)</li>
+<li>vitamin deficiency disorder (90.3%)</li>
+<li>postmenopausal osteoporosis (90.1%)</li>
+<li>Worth syndrome (89.9%)</li>
+<li>succinyl-CoA:3-ketoacid CoA transferase deficiency (89.8%)</li>
+<li>autosomal dominant neovascular inflammatory vitreoretinopathy (89.3%)</li>
+<li>hypoglycemia (89.2%)</li>
+<li>pregnancy associated osteoporosis (88.2%)</li>
+<li>juvenile Paget disease (87.7%)</li>
+<li>cholelithiasis (85.6%)</li>
+<li>osteomesopyknosis (83.6%)</li>
+<li>Paget disease of bone (83.3%)</li>
+<li>palmar fibromatosis (79.8%)</li>
+<li>homozygous familial hypercholesterolemia (79.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/zoledronic-acid-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/zoledronic-acid-monohydrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Related News (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

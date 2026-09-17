@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abiraterone Acetate
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 17
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Abiraterone Acetate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Abiraterone acetate 是一種用於前列腺癌治療的雄激素生合成抑制
 | 預測新適應症 | 無（TxGNN 預測結果為空） |
 | TxGNN 預測分數 | N/A |
 | 證據等級 | N/A |
-| 台灣上市狀態 | ✗ 未上市 |
+| 台灣上市狀態 | ✗ Not marketed |
 | 許可證數量 | 0 |
 | 建議決策 | **Hold** |
 
@@ -79,7 +79,7 @@ Please refer to the SmPC for safety information.
 - **\[Blocking\]** 從 DrugBank 補全 `drugbank_id`、MOA 及原始適應症，DrugBank 查詢已回傳 1 筆結果，需解析並寫入 Evidence Pack
 - **\[Blocking\]** 執行 TxGNN 預測流程，取得 `predicted_indications` 列表；目前預測陣列為空，無法進行任何重定向分析
 - **\[Blocking\]** 下載並解析台灣 TFDA 仿單 PDF，取得警語、禁忌及藥物交互作用資料
-- **\[High\]** 確認台灣上市狀態；abiraterone acetate 在 FDA/EMA 等國際市場已有上市紀錄，台灣未上市狀態需進一步核實
+- **\[High\]** 確認台灣上市狀態；abiraterone acetate 在 FDA/EMA 等國際市場已有上市紀錄，台灣Not marketed狀態需進一步核實
 - 完成上述資料補充後，重新產出 Evidence Pack v5 並啟動正式評估流程
 ## Disclaimer
 

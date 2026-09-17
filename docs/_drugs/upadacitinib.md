@@ -1,132 +1,105 @@
 ---
 layout: default
 title: Upadacitinib
-description: "Upadacitinib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 616
+nav_order: 627
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Upadacitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Upadacitinib: From Immune-Mediated Inflammatory Disease to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+
+## One-Sentence Summary
+
+Upadacitinib is a selective JAK1 inhibitor that acts through immunomodulatory and anti-inflammatory pathways; its specific approved indication is not recorded in the current dataset. The TxGNN model's top-ranked prediction links it to **Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome**, a rare congenital developmental disorder, but this pairing is supported by **no clinical trials** and **no published literature**, and the evidence pack's own mechanistic review flags it as a likely knowledge-graph noise signal.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Upadacitinib |
-| DrugBank ID | [DB15091](https://go.drugbank.com/drugs/DB15091) |
-| Brand Names (EU) | Rinvoq |
+| Item | Content |
+|------|---------|
+| Original Indication | Not specified in current dataset (Upadacitinib is a selective JAK1 inhibitor used for immune-mediated inflammatory conditions) |
+| Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.71% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Rheumatoid arthritisRINVOQ is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drugs (DMARDs). RINVOQ may be used as monotherapy or in combination with methotrexate. Psoriatic arthritisRINVOQ is indicated for the treatment of active psoriatic arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more DMA
+Detailed mechanism-of-action data for Upadacitinib is not available in this evidence pack (flagged as a High-severity data gap, DG002, pending a DrugBank API lookup). Based on information embedded in the prediction rationale itself, Upadacitinib is described as a selective JAK1 inhibitor whose therapeutic effect operates through immunomodulatory and anti-inflammatory signaling pathways.
 
----
+Colobomatous microphthalmia-rhizomelic dysplasia syndrome is a rare congenital malformation syndrome affecting eye and skeletal development. It is a structural developmental disorder rather than an immune- or inflammation-driven condition, so there is no established disease-mechanism overlap with JAK1 inhibition.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | rheumatoid arthritis | 99.71% | DL |
-| 2 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.61% | DL |
-| 3 | brachydactyly-syndactyly syndrome | 99.58% | DL |
-| 4 | indolent plasma cell myeloma | 94.40% | DL |
-| 5 | amyotrohpic lateral sclerosis type 22 | 93.19% | DL |
-| 6 | heparin cofactor 2 deficiency | 92.84% | DL |
-| 7 | amyotrophic lateral sclerosis, susceptibility to | 92.79% | DL |
-| 8 | plasma cell myeloma | 92.58% | DL |
-| 9 | Mills syndrome | 91.91% | DL |
-| 10 | amyotrophic lateral sclerosis | 91.88% | DL |
-| 11 | axial spondylometaphyseal dysplasia | 91.28% | DL |
-| 12 | factor 5 excess with spontaneous thrombosis | 90.50% | DL |
-| 13 | antithrombin deficiency type 2 | 90.31% | DL |
-| 14 | bilateral parasagittal parieto-occipital polymicrogyria | 89.61% | DL |
-| 15 | monomelic amyotrophy | 88.91% | DL |
-| 16 | trichomegaly-retina pigmentary degeneration-dwarfism syndrome | 88.54% | DL |
-| 17 | lower motor neuron syndrome with late-adult onset | 87.16% | DL |
-| 18 | lethal arthrogryposis-anterior horn cell disease syndrome | 86.71% | DL |
-| 19 | autosomal dominant mitochondrial myopathy with exercise intolerance | 86.37% | DL |
-| 20 | myeloid leukemia | 84.86% | DL |
-
-*Showing top 20 of 50 predictions.*
+The pack's own rationale explicitly characterizes this pairing as a probable knowledge-graph noise association: TxGNN assigned it the highest raw prediction score (99.61%) among the ten candidates evaluated, yet the accompanying biological review found no reasonable link between JAK1-mediated immune modulation and a congenital structural defect. For context, other candidates further down the ranked list — plasma cell myeloma (ranks 3 and 7) and amyotrophic lateral sclerosis (rank 9) — carry more plausible mechanistic hypotheses (IL-6/JAK/STAT3 signaling in myeloma progression; JAK-STAT-driven neuroinflammation in ALS) and were classified as "Research Question" rather than "Hold," although they too currently lack any clinical or literature evidence.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations are currently recorded for Upadacitinib in this dataset (0 authorizations; market status: not marketed).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+TxGNN assigns a high raw score to this pairing, but there is no clinical trial or literature evidence, and the accompanying mechanistic review concludes the association is likely a knowledge-graph noise signal with no biological plausibility linking JAK1 inhibition to a congenital structural malformation syndrome.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (TFDA/EMA label warnings and contraindications) and DG002 (confirmed mechanism of action via DrugBank API) before any safety evaluation (S1) can begin
+- Confirmed original indication and EU marketing authorization data for Upadacitinib
+- If further repurposing research is pursued, prioritize the mechanistically more plausible "Research Question" candidates in this pack (plasma cell myeloma, amyotrophic lateral sclerosis) over this top-ranked but biologically implausible pairing
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

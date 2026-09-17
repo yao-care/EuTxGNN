@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Caspofungin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 131
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Caspofungin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ backed by **1 completed Phase 3 clinical trial** and **11 publications** — wit
 | Predicted New Indication | Congenital Candidiasis (TxGNN rank #8; top-ranked prediction "gastrin secretion abnormality" is a likely GNN false positive) |
 | TxGNN Prediction Score | 95.18% (congenital candidiasis, rank #8) |
 | Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -131,7 +131,7 @@ The most clinically meaningful prediction is **Congenital Candidiasis** (rank #8
 
 ## Taiwan Market Information
 
-Caspofungin is **not currently marketed in Taiwan** (未上市) according to the TFDA database. No marketing authorizations are on record.
+Caspofungin is **not currently marketed in Taiwan** (Not marketed) according to the TFDA database. No marketing authorizations are on record.
 
 > Caspofungin (Cancidas®) holds regulatory approvals in the US (FDA), EU (EMA), Japan (PMDA), and other major jurisdictions for: invasive candidiasis (including candidemia), invasive aspergillosis (salvage therapy), and empirical antifungal therapy in febrile neutropenic patients. For clinical reference, consult the Cancidas® EU SmPC or FDA US Prescribing Information. The absence of a Taiwan TFDA license constitutes a **Blocking data gap (DG001)** that must be resolved before local regulatory submission.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Niraparib
-parent: 僅模型預測 (L5)
+parent: AI Predictions (L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Niraparib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ indication_count: 10
 | Predicted New Indication | Epiglottis Neoplasm |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -79,7 +79,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-No marketing authorization records are currently on file for niraparib in Taiwan (0 licenses; market status: 未上市 / Not Marketed).
+No marketing authorization records are currently on file for niraparib in Taiwan (0 licenses; market status: Not marketed / Not Marketed).
 
 ---
 

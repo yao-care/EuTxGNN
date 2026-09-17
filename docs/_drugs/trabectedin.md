@@ -1,132 +1,133 @@
 ---
 layout: default
 title: Trabectedin
-description: "Trabectedin drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 599
-evidence_level: L5
-indication_count: 52
+parent: High Evidence (L1-L2)
+nav_order: 610
+evidence_level: L2
+indication_count: 10
 ---
 
 # Trabectedin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Trabectedin: From Soft Tissue Sarcoma to Breast Carcinoma
+
+## One-Sentence Summary
+
+Trabectedin is a marine-derived, DNA-binding antineoplastic agent historically developed for soft tissue sarcoma and, in combination with pegylated liposomal doxorubicin (PLD), for platinum-sensitive relapsed ovarian cancer — though this dataset records no currently active EU marketing authorization for the drug. The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, with **2 clinical trials** and **20 publications** — including a completed Phase 2 RCT — currently supporting this direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Trabectedin |
-| DrugBank ID | [DB05109](https://go.drugbank.com/drugs/DB05109) |
-| Brand Names (EU) | Yondelis |
-| Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 99.73% |
+| Item | Content |
+|------|------|
+| Original Indication | Soft tissue sarcoma; platinum-sensitive relapsed ovarian cancer (with PLD) — per literature evidence; no active EU marketing authorization recorded in this dataset |
+| Predicted New Indication | Female Breast Carcinoma |
+| TxGNN Prediction Score | 99.73% |
+| Evidence Level | L2 |
+| EU Market Status | Not marketed (per this dataset) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Yondelis is indicated for the treatment of patients with advanced soft-tissue sarcoma, after failure of anthracyclines and ifosfamide, or who are unsuited to receive these agents. Efficacy data are based mainly on liposarcoma and leiomyosarcoma patients. Yondelis in combination with pegylated liposomal doxorubicin (PLD) is indicated for the treatment of patients with relapsed platinum-sensitive ovarian cancer.
+The structured mechanism-of-action field for trabectedin is currently a data gap in this dataset. However, the supporting literature and the mechanistic rationale generated for this candidate consistently describe trabectedin as a DNA minor-groove binder that inhibits transcription-coupled nucleotide excision repair (TC-NER) and induces DNA double-strand breaks. This produces selective cytotoxicity in tumors with BRCA1/2 mutations or broader homologous recombination deficiency (HRD), and trabectedin additionally modulates the tumor microenvironment by depleting tumor-associated macrophages (TAM).
 
----
+Breast and ovarian cancer share substantial mechanistic overlap: up to 25% of sporadic breast tumors carry somatic inactivation of the homologous recombination repair pathway (the "BRCAness" phenotype), a molecular profile closely resembling the BRCA-mutated ovarian cancer population in which trabectedin-PLD is already used. This shared DNA-repair vulnerability is the biological basis for extending trabectedin into breast cancer.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | female breast carcinoma | 99.73% | DL |
-| 2 | hereditary breast ovarian cancer syndrome | 99.51% | DL |
-| 3 | ovarian clear cell adenocarcinoma | 99.35% | DL |
-| 4 | malignant dysgerminomatous germ cell tumor of ovary | 99.22% | DL |
-| 5 | borderline epithelial tumor of ovary | 99.18% | DL |
-| 6 | hereditary site-specific ovarian cancer syndrome | 99.09% | DL |
-| 7 | malignant sex cord stromal tumor of ovary | 98.98% | DL |
-| 8 | familial ovarian cancer | 98.97% | DL |
-| 9 | choriocarcinoma of ovary | 98.94% | DL |
-| 10 | gonadal germ cell tumor | 98.92% | DL |
-| 11 | ovarian primitive germ cell tumor | 98.91% | DL |
-| 12 | maligant granulosa cell tumor of ovary | 98.73% | DL |
-| 13 | ovarian malignant mesothelioma | 98.63% | DL |
-| 14 | malignant non-dysgerminomatous germ cell tumor of ovary | 98.62% | DL |
-| 15 | malignant germ cell tumor of ovary | 98.62% | DL |
-| 16 | yolk sac tumor | 98.60% | DL |
-| 17 | ovarian adenosarcoma | 98.50% | DL |
-| 18 | ovarian cancer, susceptibility to, 1 | 98.50% | DL |
-| 19 | ovarian Sertoli-Leydig cell tumor | 98.47% | DL |
-| 20 | ovarian thecoma | 98.46% | DL |
-
-*Showing top 20 of 52 predictions.*
+Clinical data support this extrapolation: a Phase 2 trial stratified by XPG mRNA expression evaluated trabectedin in hormone receptor-positive, HER2-negative advanced breast cancer, and a separate international first-in-class Phase II study demonstrated activity specifically in patients with germline BRCA1/2-mutated metastatic breast cancer. Translational work further identified CUL4A as a candidate biomarker of trabectedin sensitivity in breast cancer cell lines, reinforcing that DNA-repair status — not tumor site — may be the key determinant of response.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03470805](https://clinicaltrials.gov/study/NCT03470805) | Phase 2 | Completed | 9 | Evaluated olaparib maintenance after trabectedin-PLD induction in recurrent ovarian carcinoma; population may include BRCA-mutated patients relevant to the breast cancer HRD subgroup, though the primary endpoint is olaparib maintenance rather than trabectedin efficacy itself |
+| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | Phase 2 | Completed | 76 | Single-blind, placebo-controlled study assessing trabectedin's effect on QT/QTc interval in patients with advanced solid tumor malignancies; primarily a cardiac safety study rather than a breast cancer efficacy trial |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27266804](https://pubmed.ncbi.nlm.nih.gov/27266804/) | 2016 | RCT/Phase 2 | Clinical Breast Cancer | Phase 2 study of trabectedin in HR-positive, HER2-negative advanced breast cancer, stratified by tumor XPG mRNA expression as a predictive biomarker |
+| [24692579](https://pubmed.ncbi.nlm.nih.gov/24692579/) | 2014 | Phase 2 | Annals of Oncology | International first-in-class Phase II trial demonstrating trabectedin activity in germline BRCA1/2-mutated metastatic breast cancer |
+| [25239225](https://pubmed.ncbi.nlm.nih.gov/25239225/) | 2014 | RCT/Phase 2 | Clinical Breast Cancer | Multicenter randomized Phase II study comparing two trabectedin dosing regimens as single-agent therapy in advanced breast cancer after anthracycline and taxane failure |
+| [27710871](https://pubmed.ncbi.nlm.nih.gov/27710871/) | 2016 | Review | Cancer Treatment Reviews | Reviews trabectedin's DNA-repair-pathway-selective mechanism and rationale for use in BRCA-deficient tumors, including breast cancer |
+| [19114300](https://pubmed.ncbi.nlm.nih.gov/19114300/) | 2009 | Phase 1 | European Journal of Cancer | Phase I PK study of trabectedin plus doxorubicin in soft tissue sarcoma and advanced breast cancer, showing feasibility and antitumor activity |
+| [26592307](https://pubmed.ncbi.nlm.nih.gov/26592307/) | 2016 | Review | Expert Opinion on Investigational Drugs | Reviews trabectedin's transcription-inhibiting mechanism and TAM-reducing effect as the rationale for a breast cancer indication |
+| [39777457](https://pubmed.ncbi.nlm.nih.gov/39777457/) | 2025 | Preclinical | Cancer Immunology Research | Shows trabectedin depletes immunosuppressive myeloid cells and enhances IL-12-induced NK-cell cytotoxicity against triple-negative breast cancer |
+| [23364677](https://pubmed.ncbi.nlm.nih.gov/23364677/) | 2013 | Biomarker/Translational | Molecular Cancer Therapeutics | Identifies CUL4A as a novel biomarker of trabectedin sensitivity via DNA-repair gene expression analysis in breast cancer cell lines |
+| [23792433](https://pubmed.ncbi.nlm.nih.gov/23792433/) | 2013 | Preclinical | Toxicology Letters | Demonstrates trabectedin induces apoptosis via distinct pathways in HER2-negative/ER-positive and HER2-positive/ER-negative breast cancer cell lines |
+| [38366738](https://pubmed.ncbi.nlm.nih.gov/38366738/) | 2024 | Case Report | The Journal of Dermatology | Case report of trabectedin effectiveness in radiation-induced breast angiosarcoma refractory to multiple prior anticancer drugs |
 
 ---
 
-## Citation
+## EU Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No active EU marketing authorization is recorded for trabectedin in this dataset (`total_licenses = 0`, `market_status = Not marketed`). Regulatory confirmation should be sought directly from EMA before proceeding further.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic — marine-derived DNA minor-groove binding agent, transcription-coupled NER inhibitor |
+| Myelosuppression Risk | High — literature reports grade 3–4 neutropenia in approximately 50% and thrombocytopenia in approximately 20% of patients |
+| Emetogenicity Classification | Not specified in the available evidence; please refer to the SmPC |
+| Monitoring Items | Complete blood count (neutropenia, thrombocytopenia), liver function tests (transaminitis, cholangitis have been reported), renal function |
+| Handling Protection | Standard cytotoxic/hazardous drug handling precautions required |
+
+---
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information. No structured warnings, contraindications, or drug interaction data are currently available in this dataset (key warnings and contraindications are flagged as a **Blocking** data gap that prevents an initial safety review).
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+While a completed Phase 2 RCT and biomarker-driven translational studies suggest trabectedin may have activity in BRCA1/2- or HRD-defined breast carcinoma subgroups, the absence of official safety labeling data (warnings, contraindications, DDI) is a blocking gap that prevents even an initial safety assessment, and no active EU marketing authorization is recorded for this drug in the current dataset.
+
+**To proceed, the following is needed:**
+- Official EMA/SmPC safety data (key warnings, contraindications, drug interactions) — currently blocking
+- Confirmation of current EU marketing authorization status
+- Structured mechanism-of-action documentation (e.g., via DrugBank API)
+- A biomarker-based patient selection strategy (BRCA1/2, XPG, HRD status) to define the target breast cancer subpopulation
+- Route/dosage form compatibility assessment (currently pending in this dataset)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

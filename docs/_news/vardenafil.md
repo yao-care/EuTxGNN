@@ -1,64 +1,64 @@
 ---
 layout: default
-title: "Vardenafil 相關新聞"
-parent: 健康新聞
+title: "Vardenafil News"
+parent: 📰 Health News
 nav_exclude: true
-description: "Vardenafil 的相關健康新聞報導。原適應症：Treatment of erectile dysfunction in adult men. Er...。預測適應症 20 個。"
+description: "Health news related to Vardenafil. Original indication: Treatment of erectile dysfunction in adult men. Er.... 20 predicted indications."
 permalink: /news/vardenafil/
 ---
 
-# Vardenafil 相關新聞
+# Vardenafil News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Vardenafil 有什麼相關新聞？">
-<strong>Vardenafil</strong> 目前有 <strong>56 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="What news is there about Vardenafil?">
+<strong>Vardenafil</strong> currently has <strong>56 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
-本頁整合 Vardenafil 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+This page combines the AI-predicted indications for Vardenafil with the latest health news. Indications highlighted in orange have recent news coverage.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Drug Information</strong>
 <ul>
-<li><strong>原適應症</strong>：Treatment of erectile dysfunction in adult men. Erectile dysfunction is the inability to achieve or maintain a penile erection sufficient for satisfactory sexual performance. In order for Levitra to...</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>amenorrhea (disease)（98.4%）</li>
-<li>hypoalphalipoproteinemia（98.2%）</li>
-<li>erectile dysfunction (disease)（98.2%）</li>
-<li>Ambras type hypertrichosis universalis congenita（96.9%）</li>
-<li>obsolete susceptibility to ischemic stroke（96.2%）</li>
-<li>malformation syndrome with odontal and/or periodontal component（95.2%）</li>
-<li>syndrome with a Dandy-Walker malformation as major feature（94.5%）</li>
-<li>isolated genetic hair shaft abnormality（94.0%）</li>
-<li>hypertrichosis (disease)（93.2%）</li>
-<li>malignant catarrh（91.9%）</li>
-<li>infectious bovine rhinotracheitis（91.9%）</li>
-<li>duodenogastric reflux（88.5%）</li>
-<li>duodenal obstruction（87.7%）</li>
-<li>ABri amyloidosis（86.5%）</li>
-<li>cytomegalovirus infection（85.9%）</li>
-<li>familial isolated trichomegaly（84.4%）</li>
-<li>stroke disorder（81.8%）</li>
-<li>duodenal ulcer (disease)（79.0%）</li>
-<li>adrenal gland hyperfunction（74.6%）</li>
-<li>hypercarotenemia and vitamin A deficiency, autosomal recessive（67.7%）</li>
+<li><strong>Original indication</strong>: Treatment of erectile dysfunction in adult men. Erectile dysfunction is the inability to achieve or maintain a penile erection sufficient for satisfactory sexual performance. In order for Levitra to...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (20)</strong>:<ul>
+<li>amenorrhea (disease) (98.4%)</li>
+<li>hypoalphalipoproteinemia (98.2%)</li>
+<li>erectile dysfunction (disease) (98.2%)</li>
+<li>Ambras type hypertrichosis universalis congenita (96.9%)</li>
+<li>obsolete susceptibility to ischemic stroke (96.2%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (95.2%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (94.5%)</li>
+<li>isolated genetic hair shaft abnormality (94.0%)</li>
+<li>hypertrichosis (disease) (93.2%)</li>
+<li>malignant catarrh (91.9%)</li>
+<li>infectious bovine rhinotracheitis (91.9%)</li>
+<li>duodenogastric reflux (88.5%)</li>
+<li>duodenal obstruction (87.7%)</li>
+<li>ABri amyloidosis (86.5%)</li>
+<li>cytomegalovirus infection (85.9%)</li>
+<li>familial isolated trichomegaly (84.4%)</li>
+<li>stroke disorder (81.8%)</li>
+<li>duodenal ulcer (disease) (79.0%)</li>
+<li>adrenal gland hyperfunction (74.6%)</li>
+<li>hypercarotenemia and vitamin A deficiency, autosomal recessive (67.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vardenafil/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/vardenafil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## 相關新聞（56 則）
+## Related News (56)
 
 ### [Hafer-, Mandel- oder Sojadrink: Worauf es beim Kauf ankommt](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhjbHgwUnpKaFhndW9qZFBFc2RuZC1wMXpFZ3UyWkJtTHdTU0hCWVdHWmtMMmhuZ0FwbHBhOTNqTTJzcHJNMTMtUGZXR1daWDBEZkhXek96RkZiVmFsY3RNR2gzVkFKZHZwcFNsOGdHeV9OTFRlN3FtVHAzZEdMNmVFQXc3VmJ2dHI1S2tIUGZZa0pOS3c?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhjbHgwUnpKaFhndW9qZFBFc2RuZC1wMXpFZ3UyWkJtTHdTU0hCWVdHWmtMMmhuZ0FwbHBhOTNqTTJzcHJNMTMtUGZXR1daWDBEZkhXek96RkZiVmFsY3RNR2gzVkFKZHZwcFNsOGdHeV9OTFRlN3FtVHAzZEdMNmVFQXc3VmJ2dHI1S2tIUGZZa0pOS3c?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhjbHgwUnpKaFhndW9qZFBFc2RuZC1wMXpFZ3UyWkJtTHdTU0hCWVdHWmtMMmhuZ0FwbHBhOTNqTTJzcHJNMTMtUGZXR1daWDBEZkhXek96RkZiVmFsY3RNR2gzVkFKZHZwcFNsOGdHeV9OTFRlN3FtVHAzZEdMNmVFQXc3VmJ2dHI1S2tIUGZZa0pOS3c?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">Krebs</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORW1ybzNmTzZvcEFOMTRta3VPSlNIOFFpNmxaYVVGc1VRQTRWVHl1VTlDZnk4TFVVWmk5d3V5Qm1uSWR2X1dJMkMtZm84TXJjaVlaSW5xYVA3Y05OUFZ3WVVvc1d6UEFsdFdNVTNqWWtWcDBxNVB2eEg0cGN4YVhCeG91MHpxNTZRSmdtY1VOeEs2bTJwampEaEVlTzd1YUw4cjY4R1Z6dzFDYlROMHNZdGh0ZXdrV21Yc2NBaUprLW9XRmVGX1F0U2ZFWFZDWWRYdkRxMXZRendNb3RkTmJKbnVn?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORW1ybzNmTzZvcEFOMTRta3VPSlNIOFFpNmxaYVVGc1VRQTRWVHl1VTlDZnk4TFVVWmk5d3V5Qm1uSWR2X1dJMkMtZm84TXJjaVlaSW5xYVA3Y05OUFZ3WVVvc1d6UEFsdFdNVTNqWWtWcDBxNVB2eEg0cGN4YVhCeG91MHpxNTZRSmdtY1VOeEs2bTJwampEaEVlTzd1YUw4cjY4R1Z6dzFDYlROMHNZdGh0ZXdrV21Yc2NBaUprLW9XRmVGX1F0U2ZFWFZDWWRYdkRxMXZRendNb3RkTmJKbnVn?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AVC</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
 
 ---
 
@@ -82,7 +82,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[BrindisiReport](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmlaMUd4b3pEWVNZa3hYV2I4VlJHSVZMeUtsajc5LUNpM1N4WFBZNnNaN2ZzT1hvMWVUUnVZekxIdkJ6NUxZb05TM2RCQmFpOXRlTTVzQnNHUF9yZHBZblhERDQ1UmhTMGdEYm1kX3dZeFpIZ285QnpxcVdjSldxeXV0bTduMXZhYnh2LWJTWERFd2k1NDlJ?oc=5)
+Source: [BrindisiReport](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmlaMUd4b3pEWVNZa3hYV2I4VlJHSVZMeUtsajc5LUNpM1N4WFBZNnNaN2ZzT1hvMWVUUnVZekxIdkJ6NUxZb05TM2RCQmFpOXRlTTVzQnNHUF9yZHBZblhERDQ1UmhTMGdEYm1kX3dZeFpIZ285QnpxcVdjSldxeXV0bTduMXZhYnh2LWJTWERFd2k1NDlJ?oc=5)
 
 ---
 
@@ -90,7 +90,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">Krebs</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUh0bVVSS1E5Q0NsM0pGcTF4eHh2aVhwRkEyNTg1QXZobUlhbzlqRzhycUZVOXRJVENrT2t4OWMwQ2lGR0dPNVBicjVEcmdhcEx2V3JaOVZKMk5HMmNXR0lGYThfZXBiTlc5RU5JRHhLRWg2V2Z6YXJENFlMaFUyaEhacUhhSFJkTFJnWGtoSlpHMFYwbEhVOWkxV1E4VHJ5Tkh4OW9xYzI?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUh0bVVSS1E5Q0NsM0pGcTF4eHh2aVhwRkEyNTg1QXZobUlhbzlqRzhycUZVOXRJVENrT2t4OWMwQ2lGR0dPNVBicjVEcmdhcEx2V3JaOVZKMk5HMmNXR0lGYThfZXBiTlc5RU5JRHhLRWg2V2Z6YXJENFlMaFUyaEhacUhhSFJkTFJnWGtoSlpHMFYwbEhVOWkxV1E4VHJ5Tkh4OW9xYzI?oc=5)
 
 ---
 
@@ -98,7 +98,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEpxUWY2RlN6ZHFwRmpNR0JDZUwydHRqME9pU0hmay1SUGVheTQxTTJnSVQ4RWQ1cTVwdU01QWFWWG5rMHJBakFndC1vaVpDNkFmZWZCS2tTelpwRVEyZTBrdEtiQ2w1OW1fcjd6UVBxS3JrWjNfbWt0bnAzckhuUTkxUnZOb3gwcXpFYXMyWXh1YkMyZVZRQ3pjTjBSSkFKZ0VhWmpHaHZTeGFOenRiQXdn?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEpxUWY2RlN6ZHFwRmpNR0JDZUwydHRqME9pU0hmay1SUGVheTQxTTJnSVQ4RWQ1cTVwdU01QWFWWG5rMHJBakFndC1vaVpDNkFmZWZCS2tTelpwRVEyZTBrdEtiQ2w1OW1fcjd6UVBxS3JrWjNfbWt0bnAzckhuUTkxUnZOb3gwcXpFYXMyWXh1YkMyZVZRQ3pjTjBSSkFKZ0VhWmpHaHZTeGFOenRiQXdn?oc=5)
 
 ---
 
@@ -106,7 +106,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">Krebs</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXFsUWc4VEhJLXdHbFlxa2tRQUxwNXB0b2dOdVp0QWt6S3BXaUZGc25qdGpjanZhUmpwN3d0cHM4eGVlLVhPUnB4alFLcWNIVEQ3SDhsQXk0dG9fLThZQkpzQkNtU3pJbGVidkx1Z25abmx0RGY4MDJyajlxNWJXUklDVUg0eTZmVEp5TEZ1YUIyRUNXZDBqM0N6OUp1NG1TZ1VUWTdlaUlCQnRVODAtalhNekpJaWJOS0JCMWluOV9vQXJGdzRWZTBWLVhIdXFLZ29nTGgzb0RocmhW?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXFsUWc4VEhJLXdHbFlxa2tRQUxwNXB0b2dOdVp0QWt6S3BXaUZGc25qdGpjanZhUmpwN3d0cHM4eGVlLVhPUnB4alFLcWNIVEQ3SDhsQXk0dG9fLThZQkpzQkNtU3pJbGVidkx1Z25abmx0RGY4MDJyajlxNWJXUklDVUg0eTZmVEp5TEZ1YUIyRUNXZDBqM0N6OUp1NG1TZ1VUWTdlaUlCQnRVODAtalhNekpJaWJOS0JCMWluOV9vQXJGdzRWZTBWLVhIdXFLZ29nTGgzb0RocmhW?oc=5)
 
 ---
 
@@ -114,7 +114,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[Ruta Pesquera](https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1B2eThDMVJoTTVyYjR4TlU3V2pZZjNEa1lyMC15aS1LV25wUmtTSFd1RVRvUnFBRklhbUFlenNKWDQ2dHJYSkFWQ2l4TE5mX2hkUFY4bUp6U3pGYjNJNTRMVU9RQ2MyLUE1UXlFb0ZoYmpvQW04WVROR3dyOFhDRERod1c2a1N1VmdjcHVzN2F5T2lhcV9oYVZoZEJhazJ1a1ZZ?oc=5)
+Source: [Ruta Pesquera](https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1B2eThDMVJoTTVyYjR4TlU3V2pZZjNEa1lyMC15aS1LV25wUmtTSFd1RVRvUnFBRklhbUFlenNKWDQ2dHJYSkFWQ2l4TE5mX2hkUFY4bUp6U3pGYjNJNTRMVU9RQ2MyLUE1UXlFb0ZoYmpvQW04WVROR3dyOFhDRERod1c2a1N1VmdjcHVzN2F5T2lhcV9oYVZoZEJhazJ1a1ZZ?oc=5)
 
 ---
 
@@ -122,7 +122,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">Krebs</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXVtWW1qdlFLQmZnaHVWZDZkZ28xQVN3ZmZOSmtXMkxicUxucC11RjZoa3hWOG9YVHM1VWRSSWFpQ2JfeXlDSWN4akg5STlQYjVPMXFpX0pLUXluSlg4QTNjTno3T2Iyd0c2TDhCcDJxZU85RTVuaVJhbUlKQ1cxdnlaSVpWTF9KVFctUGQtcGszY2hlTmtDRE1TdFdfQ2UzT2pMd1VhYw?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXVtWW1qdlFLQmZnaHVWZDZkZ28xQVN3ZmZOSmtXMkxicUxucC11RjZoa3hWOG9YVHM1VWRSSWFpQ2JfeXlDSWN4akg5STlQYjVPMXFpX0pLUXluSlg4QTNjTno3T2Iyd0c2TDhCcDJxZU85RTVuaVJhbUlKQ1cxdnlaSVpWTF9KVFctUGQtcGszY2hlTmtDRE1TdFdfQ2UzT2pMd1VhYw?oc=5)
 
 ---
 
@@ -130,7 +130,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNm85XzR1TjZDNlJpS3BHVFJuZkNubnpYVENFVGtDby1hZFBDaTl2SDFkMXlIZHVzRWNQbWFNV29hQnFHLWdZMDFTQVlYci1HYTJsWThCeGt4Q3FnRmdyMU1kb1dWQlU3ZG1fUGZIbmpNLU52TW1yb2JCVEgxSVJxbG8wTndkaXZ3dE1vSndyRktqSnJZWE1vc3QtNmpPdkYzQXp3Zk41OVZfdlRSODAxWmZkX0U4Zjh3RE5XZFFIYVYwTlNhdmEtd2JvSUpJXzVMbXFGckFEWXQwQQ?oc=5)
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNm85XzR1TjZDNlJpS3BHVFJuZkNubnpYVENFVGtDby1hZFBDaTl2SDFkMXlIZHVzRWNQbWFNV29hQnFHLWdZMDFTQVlYci1HYTJsWThCeGt4Q3FnRmdyMU1kb1dWQlU3ZG1fUGZIbmpNLU52TW1yb2JCVEgxSVJxbG8wTndkaXZ3dE1vSndyRktqSnJZWE1vc3QtNmpPdkYzQXp3Zk41OVZfdlRSODAxWmZkX0U4Zjh3RE5XZFFIYVYwTlNhdmEtd2JvSUpJXzVMbXFGckFEWXQwQQ?oc=5)
 
 ---
 
@@ -138,7 +138,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">cancer</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMifEFVX3lxTFBNSEJkR0lsc0FtSC1rdXFxY1lvdllUUFI5WmhVVXlnbHBZNEtwc0JkLXlrQUtOeElCVzNKU1pMNV9Id1hQcmVMaGxfNEZTNW11eENXUmdVNjIwVHMwVEdFQzU0eTZjcDZHU05Pek5iX0VSMXhYRUZ6ZENYQXQ?oc=5)
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMifEFVX3lxTFBNSEJkR0lsc0FtSC1rdXFxY1lvdllUUFI5WmhVVXlnbHBZNEtwc0JkLXlrQUtOeElCVzNKU1pMNV9Id1hQcmVMaGxfNEZTNW11eENXUmdVNjIwVHMwVEdFQzU0eTZjcDZHU05Pek5iX0VSMXhYRUZ6ZENYQXQ?oc=5)
 
 ---
 
@@ -146,7 +146,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
 
 ---
 
@@ -154,7 +154,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[Radio Vest](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2pZQmlQRTNxNlkwWWVBejdZTUtYZGluTUgyQTAwQ084VFVnYlBweEdEWmt3eXRCdmRlUUxjWHduc2hRR2x0S0VRcEU3NGd2MzZlYW83VE95WXpNUUt0Mk1CdEdWN0pObGpjbzA3c1RBWUNzN2EyeFNvMkFFSnhCN0NwOFZLaTFud2NF?oc=5)
+Source: [Radio Vest](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2pZQmlQRTNxNlkwWWVBejdZTUtYZGluTUgyQTAwQ084VFVnYlBweEdEWmt3eXRCdmRlUUxjWHduc2hRR2x0S0VRcEU3NGd2MzZlYW83VE95WXpNUUt0Mk1CdEdWN0pObGpjbzA3c1RBWUNzN2EyeFNvMkFFSnhCN0NwOFZLaTFud2NF?oc=5)
 
 ---
 
@@ -162,7 +162,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">Krebs</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkhzbVRXTTJMdVJjRVdEZkFTUUtYdHk0Smx6dkxTZzF0UHQzQnlGWXdoYVdVLTgwWjRoQVh2TUxMVmxaS2dJWVZ3NlBKLUZyN1NiaUVYS2hCOHFxUk5XMkNDZmxpd0wzeGNtd0ZRX3lJTXJnSzJiTkRFbUx0NWt2Tk9OeV91Vm96MTN4S0prNEZQbklERkVkV2V5TFd0QWY2NXNTWS04cjlrdw?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkhzbVRXTTJMdVJjRVdEZkFTUUtYdHk0Smx6dkxTZzF0UHQzQnlGWXdoYVdVLTgwWjRoQVh2TUxMVmxaS2dJWVZ3NlBKLUZyN1NiaUVYS2hCOHFxUk5XMkNDZmxpd0wzeGNtd0ZRX3lJTXJnSzJiTkRFbUx0NWt2Tk9OeV91Vm96MTN4S0prNEZQbklERkVkV2V5TFd0QWY2NXNTWS04cjlrdw?oc=5)
 
 ---
 
@@ -170,7 +170,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">tumor</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkhvT1IxTVZsUHV6Zk45V2pPU1lUczZvVzhfbTdETWlJcXlLVWhlOXpqWmNIbUFZdHBvZmxJU2JzT29LTW9PakluVklIY0hWODlFWnM5YUNjbjNwd1hVRVFxNWd1V1JnWDJmX240Rzl0alJQWWFZVWNUaWEyd2QweGJDYlEzRXR3SVNYblJBMnVsUmVIYzFiekNmNGhLTmVqeGfSAY8BQVVfeXFMUEFaeVBqUW8wOXVCTG5pcV9zcUpfeGp2VUN5QkR6N016T1RPWklncXg0Sml2b3Etc2JLQWNiOGI4SHF4TVNOb0JkWUZ2SkwySEZnVERMaWVCN0NlU19rcHh5UWpmckRRY0JmczJiMFF6RUZhTExxeGRIaVJJeEU5SzVHVjBUZzgyVWtJLS1heUE?oc=5)
+Source: [Leggo.it](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkhvT1IxTVZsUHV6Zk45V2pPU1lUczZvVzhfbTdETWlJcXlLVWhlOXpqWmNIbUFZdHBvZmxJU2JzT29LTW9PakluVklIY0hWODlFWnM5YUNjbjNwd1hVRVFxNWd1V1JnWDJmX240Rzl0alJQWWFZVWNUaWEyd2QweGJDYlEzRXR3SVNYblJBMnVsUmVIYzFiekNmNGhLTmVqeGfSAY8BQVVfeXFMUEFaeVBqUW8wOXVCTG5pcV9zcUpfeGp2VUN5QkR6N016T1RPWklncXg0Sml2b3Etc2JLQWNiOGI4SHF4TVNOb0JkWUZ2SkwySEZnVERMaWVCN0NlU19rcHh5UWpmckRRY0JmczJiMFF6RUZhTExxeGRIaVJJeEU5SzVHVjBUZzgyVWtJLS1heUE?oc=5)
 
 ---
 
@@ -178,7 +178,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">cancer</span>
 
-來源：[timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMimgJBVV95cUxQY3UwMUxCUFlKd2lLV2hWVkZlQzU5M0JsZGZIdm8zNlRXRTJWa04zeV92d0k1aDQ0VFpDLTdhcllPUm9yM2tsSGdrcG0xNHZyLXlLQW9zVjkzREF6aWRZWUdVVXlSTFZ2ZXF1NVlJekpVZFJjVTlqR0E4cFBWX3hDMVpKZ09iMVFUaHZINGhRWXFKWFBaR3FhRkVqVnRabG0zcm1LZkNTU2dtSGs4WkVSbkpHYjlRWTVGSFRRalktWHl5R3EyTktJdHVZVHdkQnRxR2MzZm1lNVR5b0QybFJqeUJxQlVqMVMtWHVLTG1IU0tJbDl5ak9XVnJ6TTVZdk0tSXN0ejdhVWcwOG9KSGlzQ3BmZ2VZdDJJZnfSAaICQVVfeXFMTWExZWRvRDNsUWJ0bVJiQTlHQXhIUGZlRTVDRzNaa1JoVm5zeW83Wl9STWZNV3o2ZldSdFJxY3Z4S2Y0XzlpQnVmS25GN0RfMzA4RDJsb2E0WGxMZ0x5VXVhemxEUnJfRGdneWU5Mk82Z1ZiWmVYaE9FOWdjUVNKN1hTNklzTFhGYm1RdjhYeHBvVGlCUXBiYWxyRWg3MzFncmFyRUtXa1ZyXy1JZXQ4V3BXajZvYzFmd3huT2JUa0lMRGRhY2FvOHRuRldKaUR6eUxSZlNUZ0lCVTBDSk5jUTVBMy0wT2t5VXl2N1JiX3BTcFdUNExmS2hFS0tsNmpsV3NFUG5Ba1FST2VsU2ZQZWk5al9XV2F5RHZwTTEyY0xDVEE?oc=5)
+Source: [timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMimgJBVV95cUxQY3UwMUxCUFlKd2lLV2hWVkZlQzU5M0JsZGZIdm8zNlRXRTJWa04zeV92d0k1aDQ0VFpDLTdhcllPUm9yM2tsSGdrcG0xNHZyLXlLQW9zVjkzREF6aWRZWUdVVXlSTFZ2ZXF1NVlJekpVZFJjVTlqR0E4cFBWX3hDMVpKZ09iMVFUaHZINGhRWXFKWFBaR3FhRkVqVnRabG0zcm1LZkNTU2dtSGs4WkVSbkpHYjlRWTVGSFRRalktWHl5R3EyTktJdHVZVHdkQnRxR2MzZm1lNVR5b0QybFJqeUJxQlVqMVMtWHVLTG1IU0tJbDl5ak9XVnJ6TTVZdk0tSXN0ejdhVWcwOG9KSGlzQ3BmZ2VZdDJJZnfSAaICQVVfeXFMTWExZWRvRDNsUWJ0bVJiQTlHQXhIUGZlRTVDRzNaa1JoVm5zeW83Wl9STWZNV3o2ZldSdFJxY3Z4S2Y0XzlpQnVmS25GN0RfMzA4RDJsb2E0WGxMZ0x5VXVhemxEUnJfRGdneWU5Mk82Z1ZiWmVYaE9FOWdjUVNKN1hTNklzTFhGYm1RdjhYeHBvVGlCUXBiYWxyRWg3MzFncmFyRUtXa1ZyXy1JZXQ4V3BXajZvYzFmd3huT2JUa0lMRGRhY2FvOHRuRldKaUR6eUxSZlNUZ0lCVTBDSk5jUTVBMy0wT2t5VXl2N1JiX3BTcFdUNExmS2hFS0tsNmpsV3NFUG5Ba1FST2VsU2ZQZWk5al9XV2F5RHZwTTEyY0xDVEE?oc=5)
 
 ---
 
@@ -186,7 +186,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFVMm5sdjd6OHM2VC1LR3lZNGQ0UHFrZm9DWEhFOW1RWmVlVUh3STYyM0xKUmRvTzZVajZCSG9ROEZ3S0REUmJMbERzRndBY080amxESThFQWZLby1uQ3FiMExaeGFwc1lxeTlDU2xqR0JQbzFidkVwdTZtS1dNSHJjTUV1VUJ5TnlSZWVUcGlJcjl0bDZSLWkyUzFtLVNSeU83ekx1MWdLOEJGbXc?oc=5)
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFVMm5sdjd6OHM2VC1LR3lZNGQ0UHFrZm9DWEhFOW1RWmVlVUh3STYyM0xKUmRvTzZVajZCSG9ROEZ3S0REUmJMbERzRndBY080amxESThFQWZLby1uQ3FiMExaeGFwc1lxeTlDU2xqR0JQbzFidkVwdTZtS1dNSHJjTUV1VUJ5TnlSZWVUcGlJcjl0bDZSLWkyUzFtLVNSeU83ekx1MWdLOEJGbXc?oc=5)
 
 ---
 
@@ -194,7 +194,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDVpRmF6Yzh6XzZZS0FsRHZBQ1U1MnFPdnUyaFVORVEtOFh1QUI1bjFLQVJWUEFxckx6d00yQzZOUUhKTVpDZkk0bUhKMU5TeTBUbzM0d0V0NFhNNnJ3NE9fWWFQMFAwdGlvY01yX1BtaG1uWXE1bVYwMlBlYVUxWW56Zk9YaU1fX3VFQWxKbXFfVWRualBpaXJCZkpaSUFNZG91Y3JiWFk5amlPUmc?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDVpRmF6Yzh6XzZZS0FsRHZBQ1U1MnFPdnUyaFVORVEtOFh1QUI1bjFLQVJWUEFxckx6d00yQzZOUUhKTVpDZkk0bUhKMU5TeTBUbzM0d0V0NFhNNnJ3NE9fWWFQMFAwdGlvY01yX1BtaG1uWXE1bVYwMlBlYVUxWW56Zk9YaU1fX3VFQWxKbXFfVWRualBpaXJCZkpaSUFNZG91Y3JiWFk5amlPUmc?oc=5)
 
 ---
 
@@ -202,7 +202,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">cancer</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNel9oVWxPX1RsbEpmQjBRVEJUYk02elp5dFhCR0ZkOHF2WEhkRTFOVnlfSUg1b0VaQ19xby16SXZhVUVNVjBEbEFsTkR3OFIwaDBXQVVkYlkwZHBjUjBvdVRrY1hiNXpSVHNsc3A3ZlRrNnZUSXJvV0JmUlM3eDFRclRZMW04Yi1ORWc4NkJEd0M0UEl1WW42cWtKVW84MmM4cllLY2RMV3FDTVc5WXU1WkM0bGRsU1lzOXI4RFVkb1BCczdXRTdYb1J1U2I1Mmhjemh4b2lNcEVUdw?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNel9oVWxPX1RsbEpmQjBRVEJUYk02elp5dFhCR0ZkOHF2WEhkRTFOVnlfSUg1b0VaQ19xby16SXZhVUVNVjBEbEFsTkR3OFIwaDBXQVVkYlkwZHBjUjBvdVRrY1hiNXpSVHNsc3A3ZlRrNnZUSXJvV0JmUlM3eDFRclRZMW04Yi1ORWc4NkJEd0M0UEl1WW42cWtKVW84MmM4cllLY2RMV3FDTVc5WXU1WkM0bGRsU1lzOXI4RFVkb1BCczdXRTdYb1J1U2I1Mmhjemh4b2lNcEVUdw?oc=5)
 
 ---
 
@@ -210,7 +210,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">tumor</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUZNeTluT0Q3UHNsNlNfMjY0Zk1WVXo0b1lMRVFHTDZfd2xUQnRNZWNmVjh0ZjJ3V2hTTEdZeERheFl0QlU3T2RQZkxXRG1XNmduRnJUOE83cnA4RWR4RVliOUpFMVB0NUNtQTJZM2ZFZzhRQzdfbHduUVRSM05LN21VMFZVaFhNd25VOFh3OWJwZ3Nlbmc?oc=5)
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUZNeTluT0Q3UHNsNlNfMjY0Zk1WVXo0b1lMRVFHTDZfd2xUQnRNZWNmVjh0ZjJ3V2hTTEdZeERheFl0QlU3T2RQZkxXRG1XNmduRnJUOE83cnA4RWR4RVliOUpFMVB0NUNtQTJZM2ZFZzhRQzdfbHduUVRSM05LN21VMFZVaFhNd25VOFh3OWJwZ3Nlbmc?oc=5)
 
 ---
 
@@ -218,7 +218,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[The Irish Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUFZd0ZFTGc2S3MxZXRENVBLalFrc3g1cklYb19yb3A3MXg0RlFoUG1EQ0E4OUVWcTd3Z1FVV2Z6NS0wU2ZKT1hkNkRMbTIyUUhpOUxldXMtZlhDQ1RReEkyYkM1S1R1em9GWXpUY1BDRDFpTFlGUl9kdTlIVkpqZzgxYU04ZDVaT0hrYk4ydEFPVkhtaDUtZS1DWQ?oc=5)
+Source: [The Irish Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUFZd0ZFTGc2S3MxZXRENVBLalFrc3g1cklYb19yb3A3MXg0RlFoUG1EQ0E4OUVWcTd3Z1FVV2Z6NS0wU2ZKT1hkNkRMbTIyUUhpOUxldXMtZlhDQ1RReEkyYkM1S1R1em9GWXpUY1BDRDFpTFlGUl9kdTlIVkpqZzgxYU04ZDVaT0hrYk4ydEFPVkhtaDUtZS1DWQ?oc=5)
 
 ---
 
@@ -226,7 +226,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1lYRXB6OTdseXFEaS1GLXJubU5aOEtnRXJ2NGVORXJZU0F4NFJrNkpOQUhiYTA5MUh4WGlVZEhrTEZBbS1hR3dLSk5ZOGx3U3VOX2c4dnpSVUk2LXozdDdldndoYzJ4c1lSNDFtUGVuNTg2V2RBbnlEZEttenRldmFLUjQzbWNRM0FVR3c0MnFTdG12TUNmWmFFVEU3VWNpMTA3SVZpMEFYNmJwencxaDdLbVdoc1JYcHFlN2FR?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1lYRXB6OTdseXFEaS1GLXJubU5aOEtnRXJ2NGVORXJZU0F4NFJrNkpOQUhiYTA5MUh4WGlVZEhrTEZBbS1hR3dLSk5ZOGx3U3VOX2c4dnpSVUk2LXozdDdldndoYzJ4c1lSNDFtUGVuNTg2V2RBbnlEZEttenRldmFLUjQzbWNRM0FVR3c0MnFTdG12TUNmWmFFVEU3VWNpMTA3SVZpMEFYNmJwencxaDdLbVdoc1JYcHFlN2FR?oc=5)
 
 ---
 
@@ -234,7 +234,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">Krebs</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUxvU0xfSW1sNlNkaHpLVzN6SlBfdF9hYmE1MUVUMVpKaWVqOGJhUXg5aElGd3ZkRTFmbkQzNlJZUTZLRGFVZnBPQkI0QlFwNU5iWXA4N1Btd1llRWpnWUpldTlNa0Z0eE9Ncl9tR1JscHVqMmxucXlUYm9BX1hLNkpvSGh4SEhlTEVjZkxpOWpBS21PU3Qxc3BqdFgzREFKR1p3N0l4ZjFWaVN1NHFudUVIVmppSVVjdEdNNldwdw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUxvU0xfSW1sNlNkaHpLVzN6SlBfdF9hYmE1MUVUMVpKaWVqOGJhUXg5aElGd3ZkRTFmbkQzNlJZUTZLRGFVZnBPQkI0QlFwNU5iWXA4N1Btd1llRWpnWUpldTlNa0Z0eE9Ncl9tR1JscHVqMmxucXlUYm9BX1hLNkpvSGh4SEhlTEVjZkxpOWpBS21PU3Qxc3BqdFgzREFKR1p3N0l4ZjFWaVN1NHFudUVIVmppSVVjdEdNNldwdw?oc=5)
 
 ---
 
@@ -242,7 +242,7 @@ permalink: /news/vardenafil/
 
 2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
 
 ---
 
@@ -250,7 +250,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
 
 ---
 
@@ -258,7 +258,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[Mittelbayerische Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTU9iLWo3N3dGTWpWSWJ4cUlaVnZjZFpNOFpxdE5UOUJ1ZnNyRGRjTnFBLTdGSDlZQVV5bE9NcDUzTmNPOFN2VmZaZWkweDNJM09fN3MweWpSWDJwT0xXdFVneXZoTnNoWG1TREhEOUlrYmFhMHc5QWNURFJEUS1EZEVQSTIzWVhjMFBwdnFkZ3hhNnYwWElISGZKT1R0UXhwc0VwN1A5RWNfcWJfMEtPRTBsWQ?oc=5)
+Source: [Mittelbayerische Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTU9iLWo3N3dGTWpWSWJ4cUlaVnZjZFpNOFpxdE5UOUJ1ZnNyRGRjTnFBLTdGSDlZQVV5bE9NcDUzTmNPOFN2VmZaZWkweDNJM09fN3MweWpSWDJwT0xXdFVneXZoTnNoWG1TREhEOUlrYmFhMHc5QWNURFJEUS1EZEVQSTIzWVhjMFBwdnFkZ3hhNnYwWElISGZKT1R0UXhwc0VwN1A5RWNfcWJfMEtPRTBsWQ?oc=5)
 
 ---
 
@@ -266,7 +266,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTlmRzlQUjhjVGZlakhYdUZhWHYwVGJ0enFrcGlScTNmZ1p1U2kyLTY1cDdTblFWZWFpUVdjRHpfOWFWRGpuUGlELWpQSU1kTjJYbmtQQWpXR2VaTWp6UkNGOUgwXzRTSlJ1VXplY1FFQ2ZVVVpfcWRtMVhPVXdEY294U1A4d0QwTjNZZHVR?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTlmRzlQUjhjVGZlakhYdUZhWHYwVGJ0enFrcGlScTNmZ1p1U2kyLTY1cDdTblFWZWFpUVdjRHpfOWFWRGpuUGlELWpQSU1kTjJYbmtQQWpXR2VaTWp6UkNGOUgwXzRTSlJ1VXplY1FFQ2ZVVVpfcWRtMVhPVXdEY294U1A4d0QwTjNZZHVR?oc=5)
 
 ---
 
@@ -274,7 +274,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">AF</span>
 
-來源：[Futurism](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VckdFUy0wRVRUdVl4WFltRGd2WHhtUTJDdVFCVWJvYVNaZnlIQ0VIemJDdC1WOVAzRFZZY01kRURGNkFkbGpyUS1TNDdlSzRMRkF0YVpOQWFCbFVqbFYyOFN6eEE?oc=5)
+Source: [Futurism](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VckdFUy0wRVRUdVl4WFltRGd2WHhtUTJDdVFCVWJvYVNaZnlIQ0VIemJDdC1WOVAzRFZZY01kRURGNkFkbGpyUS1TNDdlSzRMRkF0YVpOQWFCbFVqbFYyOFN6eEE?oc=5)
 
 ---
 
@@ -282,7 +282,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
 
 ---
 
@@ -290,7 +290,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1wcWE3SmN2U2ZwSUNBT083Ykdqc3RpQUFZOXJON2lqOXh6UnF3OUk5YUIzbkJmNWN5STQtTnRSVzFLeXFfY0M4cTAxeVN5T0YzSUdCY1lIU0x2OGtZeFlENVh5SVdVVm5XSFFldUdCUQ?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1wcWE3SmN2U2ZwSUNBT083Ykdqc3RpQUFZOXJON2lqOXh6UnF3OUk5YUIzbkJmNWN5STQtTnRSVzFLeXFfY0M4cTAxeVN5T0YzSUdCY1lIU0x2OGtZeFlENVh5SVdVVm5XSFFldUdCUQ?oc=5)
 
 ---
 
@@ -298,7 +298,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">AF</span>
 
-來源：[The Courier](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWVteDJoNWVkbGJvUzNZamxyaWZRWllocE5kSlowMV9uWDJMYUE1dFBNYkhhU3hYMHljb0wyOU5lVWhzdHktNnVUNlhYbklGVWVudjJtTVJfc1R2dUZNNVhBanhHSl9OSTBHN2F4UVEtd090LW5qRllqSkpjS1RGNjQxTDRFZjR5akxTLUVBcHB3QQ?oc=5)
+Source: [The Courier](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWVteDJoNWVkbGJvUzNZamxyaWZRWllocE5kSlowMV9uWDJMYUE1dFBNYkhhU3hYMHljb0wyOU5lVWhzdHktNnVUNlhYbklGVWVudjJtTVJfc1R2dUZNNVhBanhHSl9OSTBHN2F4UVEtd090LW5qRllqSkpjS1RGNjQxTDRFZjR5akxTLUVBcHB3QQ?oc=5)
 
 ---
 
@@ -306,7 +306,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pQbjlsWGpQSUkzTS1FQ3A4aVZXdHNlQ3RkTzJZazVoNUVYelhiclNwWFlCLUdKT05MdzVUZ1FMNURpaU16R25xWjRVeTV2X0F3OVhXZjRDdXhSTnh3WnJNbTBITVp1NFdFYUg0QnRmckhWM0Z4Y3QyM3VZeWduZDdRQU9pZERlZEg0eF9uMllNTXdEa0s4SXMtY05wd9IBowFBVV95cUxOZGZuNUNsNHpUUGxNakV3ekN1ajhjZHR5YUptbnd4YjRLVXBDVTkySXVvUDVSQ0hfLU96azQ5b1RiWFFzV2dxRE8zZkFVaUhoYmF1Z3FIWFBUTTEtWE1HSkNnQmU5TjRISzVMTGxlSG8tM01sdm9uWWhMNkUzOVJBelJYb0w0TDRLa1RqNjNQdDVaX3ZCWXFacm55SElETUJMcU9v?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pQbjlsWGpQSUkzTS1FQ3A4aVZXdHNlQ3RkTzJZazVoNUVYelhiclNwWFlCLUdKT05MdzVUZ1FMNURpaU16R25xWjRVeTV2X0F3OVhXZjRDdXhSTnh3WnJNbTBITVp1NFdFYUg0QnRmckhWM0Z4Y3QyM3VZeWduZDdRQU9pZERlZEg0eF9uMllNTXdEa0s4SXMtY05wd9IBowFBVV95cUxOZGZuNUNsNHpUUGxNakV3ekN1ajhjZHR5YUptbnd4YjRLVXBDVTkySXVvUDVSQ0hfLU96azQ5b1RiWFFzV2dxRE8zZkFVaUhoYmF1Z3FIWFBUTTEtWE1HSkNnQmU5TjRISzVMTGxlSG8tM01sdm9uWWhMNkUzOVJBelJYb0w0TDRLa1RqNjNQdDVaX3ZCWXFacm55SElETUJMcU9v?oc=5)
 
 ---
 
@@ -314,7 +314,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
 
-來源：[timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMiuwJBVV95cUxQczZITzdHRlpsMzRSQ0ZoTjNTdzhLYTlTWFBndVpLa3RtYmhNakxGdWZ3S2NGMmRtOXZreHhqNVF3OW1nbXhxcEkydmJXV0ZfUnlkdUd4OE9WQTRDMkpZcmtGUmlOaVNOWjFqN0NnbTF5SVRxbU85M3R2emp4Z1NobGJuTDRJVS1HeFVOb3laVHNOUFlJMWtYZ1E3T3VWa2Q2SlZYY0Rldy1YaDMtb3RDQkVoQWx0ZDBlTlc4REtvcThNS3JucnkyNjI0bl9FZXVWQml6NWFRWVJiZ0xTRVFBbWdQMmFlU2FjX3lUSUpqT0VLQnd5WnRRVmwxc3Z0bUFkMFVfcHdQeFdtc2p5bUdKRElEdjBFR2dLYUtoN1M2SjRYOGpwSGhPdUNKa0toal9Neld0dzBjcG9lR0nSAcACQVVfeXFMT3JMTnZaRlJKa2VRNW5LY0d2QVNXY3NDc0gxRjYwdFVRM2dxeHBYTHo2dkQyZ3JVcnZBZGFOM3VYdWlFOHNaalVlUkx3QWM3SUtPNmlJWUpnbUhpVnVjZ09xaUNDTG9wTGpsTnduTEdUeURsalc1VWRwc25Qb2xmWW5xMU9FVHQ1UU1PMDVESnRWZ0pJbTVwVWVrcWRWbnRDVGllNFJBaW9NdTJKSm1TQklSN1JhYnJkZW53OVQ2bmtaU3NjcGltakMxR3RCb3o5Y1dQZnVVM184ckdMd2loV3F5aGRveEt6Y0VjMVNVS3hHc0Q1ekVGVFhmbXJqQl9YTW9GNVNpN2JjQ0lybmRRVjk1MGxkNWlqcXVpbG5RNVRGc1lTc21jRjZ1dERUQlJ1WVd0WF9CcUE2UkRoMHEzWk0?oc=5)
+Source: [timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMiuwJBVV95cUxQczZITzdHRlpsMzRSQ0ZoTjNTdzhLYTlTWFBndVpLa3RtYmhNakxGdWZ3S2NGMmRtOXZreHhqNVF3OW1nbXhxcEkydmJXV0ZfUnlkdUd4OE9WQTRDMkpZcmtGUmlOaVNOWjFqN0NnbTF5SVRxbU85M3R2emp4Z1NobGJuTDRJVS1HeFVOb3laVHNOUFlJMWtYZ1E3T3VWa2Q2SlZYY0Rldy1YaDMtb3RDQkVoQWx0ZDBlTlc4REtvcThNS3JucnkyNjI0bl9FZXVWQml6NWFRWVJiZ0xTRVFBbWdQMmFlU2FjX3lUSUpqT0VLQnd5WnRRVmwxc3Z0bUFkMFVfcHdQeFdtc2p5bUdKRElEdjBFR2dLYUtoN1M2SjRYOGpwSGhPdUNKa0toal9Neld0dzBjcG9lR0nSAcACQVVfeXFMT3JMTnZaRlJKa2VRNW5LY0d2QVNXY3NDc0gxRjYwdFVRM2dxeHBYTHo2dkQyZ3JVcnZBZGFOM3VYdWlFOHNaalVlUkx3QWM3SUtPNmlJWUpnbUhpVnVjZ09xaUNDTG9wTGpsTnduTEdUeURsalc1VWRwc25Qb2xmWW5xMU9FVHQ1UU1PMDVESnRWZ0pJbTVwVWVrcWRWbnRDVGllNFJBaW9NdTJKSm1TQklSN1JhYnJkZW53OVQ2bmtaU3NjcGltakMxR3RCb3o5Y1dQZnVVM184ckdMd2loV3F5aGRveEt6Y0VjMVNVS3hHc0Q1ekVGVFhmbXJqQl9YTW9GNVNpN2JjQ0lybmRRVjk1MGxkNWlqcXVpbG5RNVRGc1lTc21jRjZ1dERUQlJ1WVd0WF9CcUE2UkRoMHEzWk0?oc=5)
 
 ---
 
@@ -322,7 +322,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">tumour</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGlTa2QyaVQ5ZmtsME05SHZMcmh3Z0VRWDZOMlQtZ0tFOWRqZy1kUFg5WWNJdjVZT2JqekJLd3ljNmo2V29GMnZkQTBRS195eFZycVh4eFFUa0Z1SkhDbDB0T1pkMzNrejNWaGo4NUJ6dENrQlNDY0dDR1BqUWxCckpmTktJQTFLbHcyUG5GOUtDSnlCejRROXpPZEdJUjdRQ1E?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGlTa2QyaVQ5ZmtsME05SHZMcmh3Z0VRWDZOMlQtZ0tFOWRqZy1kUFg5WWNJdjVZT2JqekJLd3ljNmo2V29GMnZkQTBRS195eFZycVh4eFFUa0Z1SkhDbDB0T1pkMzNrejNWaGo4NUJ6dENrQlNDY0dDR1BqUWxCckpmTktJQTFLbHcyUG5GOUtDSnlCejRROXpPZEdJUjdRQ1E?oc=5)
 
 ---
 
@@ -330,7 +330,7 @@ permalink: /news/vardenafil/
 
 2026-09-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3U4eWFxOGJCVXUtRUd4U2l0dG5iS2g4X3hudkxJdTZiRkJqV2Y4eU91dE8xOW1HME13R1dERF96Sm8xWi00M1N2V2ttUDR6LVdFRDJWQjFUVFhpcFBsVmFONnJxeTg2Mmx1ekx5aXBWZHJuOWlPMXJxNVBEZ2plelpYUEpTQnRPRFBqRzdkdzRYVlc4VkI2ZnY3TElERG15dlphbTZBM1JGTkNGUEt2d1p4ZmVoZ2J2VFRDSUV2RDB3U3dBN0R1Mmp4UnlxZFJzcEVKbF9yeGxBbHNVM0lr?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3U4eWFxOGJCVXUtRUd4U2l0dG5iS2g4X3hudkxJdTZiRkJqV2Y4eU91dE8xOW1HME13R1dERF96Sm8xWi00M1N2V2ttUDR6LVdFRDJWQjFUVFhpcFBsVmFONnJxeTg2Mmx1ekx5aXBWZHJuOWlPMXJxNVBEZ2plelpYUEpTQnRPRFBqRzdkdzRYVlc4VkI2ZnY3TElERG15dlphbTZBM1JGTkNGUEt2d1p4ZmVoZ2J2VFRDSUV2RDB3U3dBN0R1Mmp4UnlxZFJzcEVKbF9yeGxBbHNVM0lr?oc=5)
 
 ---
 
@@ -338,7 +338,7 @@ permalink: /news/vardenafil/
 
 2026-09-12 <span class="news-indication-tag">ictus</span>
 
-來源：[healthy.thewom.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
+Source: [healthy.thewom.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
 
 ---
 
@@ -346,7 +346,7 @@ permalink: /news/vardenafil/
 
 2026-09-12 <span class="news-indication-tag">tumor</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXlaNjU2Wi1fWlplOEhheXlULUJzZWpuaVBMOUx3SVlyU09SOWJ1OHpWV3d0QVl2ZEY3cmdkYzR2eUVfcUhFUGNiUVNjTUdoUmcteU5KbW5ZUk1rZmRuUDg3MXc3S3owZk9oV1lFMW1adnVkNFY2MVJyaE96Y25Xb2VMSVdBV3h3S05GSkFQek4wSmhMaVNJRzN2VDBWRFA0Y1A2UnI5UGpiZU1YVUZtRWw3NkhVVWptSGh5aG9nVUtMY01EMk9nVmoyWnNmaDRSY0dCWU5wUk04OHo2ejVj?oc=5)
+Source: [Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXlaNjU2Wi1fWlplOEhheXlULUJzZWpuaVBMOUx3SVlyU09SOWJ1OHpWV3d0QVl2ZEY3cmdkYzR2eUVfcUhFUGNiUVNjTUdoUmcteU5KbW5ZUk1rZmRuUDg3MXc3S3owZk9oV1lFMW1adnVkNFY2MVJyaE96Y25Xb2VMSVdBV3h3S05GSkFQek4wSmhMaVNJRzN2VDBWRFA0Y1A2UnI5UGpiZU1YVUZtRWw3NkhVVWptSGh5aG9nVUtMY01EMk9nVmoyWnNmaDRSY0dCWU5wUk04OHo2ejVj?oc=5)
 
 ---
 
@@ -354,7 +354,7 @@ permalink: /news/vardenafil/
 
 2026-09-12 <span class="news-indication-tag">cancer</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGhlVF8yM0RIR1VrS3kwUm9qNmx5Zkx1MzBxenRac29vcE1KYkV2Wi15NF9GMlFkZm9pYnZUVkNndjZmalY2ZFZ5Z3laQktfNzVjM3BUSHBTc0dBLWo2SFZsNWpCVTdxY2VoanJpQVZadmtPazZOMlNjckY3Nm1KOA?oc=5)
+Source: [Healthline](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGhlVF8yM0RIR1VrS3kwUm9qNmx5Zkx1MzBxenRac29vcE1KYkV2Wi15NF9GMlFkZm9pYnZUVkNndjZmalY2ZFZ5Z3laQktfNzVjM3BUSHBTc0dBLWo2SFZsNWpCVTdxY2VoanJpQVZadmtPazZOMlNjckY3Nm1KOA?oc=5)
 
 ---
 
@@ -362,7 +362,7 @@ permalink: /news/vardenafil/
 
 2026-09-12 <span class="news-indication-tag">cancer</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGRIS3dReHpBV19qWldBY3N1cUtFanU4U3ZkQV9VXzJTYk8xMllEcFNwTjZ0cWlQVDdMbkp3cWRpeUs4ai12TS1EaHFEOXV5ZjRTNEdoeS1VWWRtSlNQMWN1NlhuZFhpWlZSMTI2eFpBZlpoeGFudVAzRnZWeVlqeE1WTm5SemZEeXJhSnoxcnl1WDU5MVlfY2VZekhoR1lkZWpibzlPZm91enhQdDJvSVZHM09jTU5SSEp5bVVkX0hIM3ktME1aaTlEU3N3c2Z1TWtBQ1VSaWxwSDh3TG5VSVhrNnE?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGRIS3dReHpBV19qWldBY3N1cUtFanU4U3ZkQV9VXzJTYk8xMllEcFNwTjZ0cWlQVDdMbkp3cWRpeUs4ai12TS1EaHFEOXV5ZjRTNEdoeS1VWWRtSlNQMWN1NlhuZFhpWlZSMTI2eFpBZlpoeGFudVAzRnZWeVlqeE1WTm5SemZEeXJhSnoxcnl1WDU5MVlfY2VZekhoR1lkZWpibzlPZm91enhQdDJvSVZHM09jTU5SSEp5bVVkX0hIM3ktME1aaTlEU3N3c2Z1TWtBQ1VSaWxwSDh3TG5VSVhrNnE?oc=5)
 
 ---
 
@@ -370,7 +370,7 @@ permalink: /news/vardenafil/
 
 2026-09-12 <span class="news-indication-tag">cancer</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sOHBMNFpFeXdJN1JaYXFSeGUwNW9wRHFyTEJmUFBXZ3dSSk10VG93dzFLNkx0N1hNZl9wZUszdVVfT1ZmdUZOQVlRWVRkQWVIWlJrR1FJUmFycXhV?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sOHBMNFpFeXdJN1JaYXFSeGUwNW9wRHFyTEJmUFBXZ3dSSk10VG93dzFLNkx0N1hNZl9wZUszdVVfT1ZmdUZOQVlRWVRkQWVIWlJrR1FJUmFycXhV?oc=5)
 
 ---
 
@@ -378,7 +378,7 @@ permalink: /news/vardenafil/
 
 2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
 
 ---
 
@@ -386,7 +386,7 @@ permalink: /news/vardenafil/
 
 2026-09-11 <span class="news-indication-tag">tumor</span>
 
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
+Source: [Quotidiano Sanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNS12WV9CeGZuSnNaWlZhY0dYWjd4VEJEblZYODZUcEw2eFJhSU16UHZFenQ4V1FlamIwSHlGNW1HQXo0WlVEM0hOTEE3UEU0Si1mTmZ6MTVuM0xGbVg1dy1rM2draUpaZnR1c2ViTzlRa3ljQ1VTMVd4YVlOY0U3MG41UHVockFCOVMxZDZ3bGJPSGxZRm1kTWxMSFpEc01Iellabk9DdEw5Z2RIYWZtdmxpWDRjOS04RkltSC1VV1RNMkF2WWNvOHVfSEwweDBPdVpYMXRqRjVlNS1NYXc?oc=5)
 
 ---
 
@@ -394,7 +394,7 @@ permalink: /news/vardenafil/
 
 2026-09-11 <span class="news-indication-tag">carcinoma</span>
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMiigJBVV95cUxPQmd0cHpPbnhnOGpGT09wMkd1dXZiTHU2RTJIN3FwU1R3dTVVNTBNRU9rWHdWTnVQanJneHdVdTlXcmM5a1NTV0N4RVFGbW1QaGxEVzJoeXdtSTktdUJTM3BLUllSbloxeGROX1VyQmlLbG5QdFVrbFBlTzROZkdFeExSck85WHVPZ0dxN1hUZEtPZ0dJTlVmWGJ0aFV1Z3lBdnVuMXJfYkZVemh2dDFkX3lNUUlLNkluVjhpckFLOUkwaDRJZnZZa3FtbVFNMkJTTFZja21OWmNEbmliT3doaUFVZFJKR0g0bUIwREFSVUluWEtlZGlYWUlYVW12eF9TUlVvRUNJM1dyQQ?oc=5)
+Source: [pharmastar.it](https://news.google.com/rss/articles/CBMiigJBVV95cUxPQmd0cHpPbnhnOGpGT09wMkd1dXZiTHU2RTJIN3FwU1R3dTVVNTBNRU9rWHdWTnVQanJneHdVdTlXcmM5a1NTV0N4RVFGbW1QaGxEVzJoeXdtSTktdUJTM3BLUllSbloxeGROX1VyQmlLbG5QdFVrbFBlTzROZkdFeExSck85WHVPZ0dxN1hUZEtPZ0dJTlVmWGJ0aFV1Z3lBdnVuMXJfYkZVemh2dDFkX3lNUUlLNkluVjhpckFLOUkwaDRJZnZZa3FtbVFNMkJTTFZja21OWmNEbmliT3doaUFVZFJKR0g0bUIwREFSVUluWEtlZGlYWUlYVW12eF9TUlVvRUNJM1dyQQ?oc=5)
 
 ---
 
@@ -402,7 +402,7 @@ permalink: /news/vardenafil/
 
 2026-09-11 <span class="news-indication-tag">AF</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
 
 ---
 
@@ -410,7 +410,7 @@ permalink: /news/vardenafil/
 
 2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
 
 ---
 
@@ -418,7 +418,7 @@ permalink: /news/vardenafil/
 
 2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
+Source: [gbnews.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
 
 ---
 
@@ -426,7 +426,7 @@ permalink: /news/vardenafil/
 
 2026-09-11 <span class="news-indication-tag">AF</span>
 
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMicEFVX3lxTE15QTR1cE1ZZ0Q0SWRIRy1kdXZxczU0bkNjdjczUjRtZlJJXzBKYUhwU3pEM3hnQ0Q4d2dGc2xCUXBBWHg1WnJpWU04aVpUWUc3ZkJkSGFrSTlmQjFRc0ZXMlY4V1duRExaYWlJUXdyemg?oc=5)
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMicEFVX3lxTE15QTR1cE1ZZ0Q0SWRIRy1kdXZxczU0bkNjdjczUjRtZlJJXzBKYUhwU3pEM3hnQ0Q4d2dGc2xCUXBBWHg1WnJpWU04aVpUWUc3ZkJkSGFrSTlmQjFRc0ZXMlY4V1duRExaYWlJUXdyemg?oc=5)
 
 ---
 
@@ -434,7 +434,7 @@ permalink: /news/vardenafil/
 
 2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
 
 ---
 
@@ -442,7 +442,7 @@ permalink: /news/vardenafil/
 
 2026-09-10 <span class="news-indication-tag">Krebs</span>
 
-來源：[dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXYxU0wzcGFEQkZFSjdGTDlEYjhMZ3lrd3lEV3RxMzBuZm9KdjRfTjdvTHNMZjZ0VElnY1NVd3pVZFVSdkE4LWpqOW9tNjMwV0FldHVsblJVNl82WGZzc1ZRWlhWLTBpWVVGeEpEOE1ZbGs5U2xWOXA0SWFQQzZJQWRiVno2Q19kbmwwSGlvMElHNUhDQUpoM2xWVmpOQVpvRDlFN1dCUENzN041RDhJRWR1RDZLWG9SejlqMklrNk1zUzg?oc=5)
+Source: [dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXYxU0wzcGFEQkZFSjdGTDlEYjhMZ3lrd3lEV3RxMzBuZm9KdjRfTjdvTHNMZjZ0VElnY1NVd3pVZFVSdkE4LWpqOW9tNjMwV0FldHVsblJVNl82WGZzc1ZRWlhWLTBpWVVGeEpEOE1ZbGs5U2xWOXA0SWFQQzZJQWRiVno2Q19kbmwwSGlvMElHNUhDQUpoM2xWVmpOQVpvRDlFN1dCUENzN041RDhJRWR1RDZLWG9SejlqMklrNk1zUzg?oc=5)
 
 ---
 
@@ -450,7 +450,7 @@ permalink: /news/vardenafil/
 
 2026-09-09 <span class="news-indication-tag">cancer</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxOejFmOVUxcTQ4ZmNjU0oySzZtUWlqYlRZX19xaFJkQ1BndWt4bXN1ODQ0Y0hjRWZYU1V5RjRuNlQ0N3dtMzJJWkpJb2hna0E1ZlU4THM4cjlrQjJIYUFHSXZkNngzMmFVRzNpVm52bzQxOXkzVFY4N1U2clpUdDdKeDN3bWNWMjZhUmtqVGRiZWxrdDFqejlrZ0F4eW51TFJjUUpVRw?oc=5)
+Source: [Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxOejFmOVUxcTQ4ZmNjU0oySzZtUWlqYlRZX19xaFJkQ1BndWt4bXN1ODQ0Y0hjRWZYU1V5RjRuNlQ0N3dtMzJJWkpJb2hna0E1ZlU4THM4cjlrQjJIYUFHSXZkNngzMmFVRzNpVm52bzQxOXkzVFY4N1U2clpUdDdKeDN3bWNWMjZhUmtqVGRiZWxrdDFqejlrZ0F4eW51TFJjUUpVRw?oc=5)
 
 ---
 
@@ -458,7 +458,7 @@ permalink: /news/vardenafil/
 
 2026-09-09 <span class="news-indication-tag">AF</span>
 
-來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkg2VGl1RGpHQmdKbkstNGlkY1kyc1d2RVlLSjc0Sy1pWGRfVkc0c0V1VDlrLVU2Tm1oRmJqV19LZzIzcDExZHItQS1QcW5JOXR6OFFHZXc4d2xnNWNjY01GQTVOV1lPUUlWVWFKZFVYWlA4WW5USzRBNEpacVQtQmNHRzhrVnpKVmc?oc=5)
+Source: [Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkg2VGl1RGpHQmdKbkstNGlkY1kyc1d2RVlLSjc0Sy1pWGRfVkc0c0V1VDlrLVU2Tm1oRmJqV19LZzIzcDExZHItQS1QcW5JOXR6OFFHZXc4d2xnNWNjY01GQTVOV1lPUUlWVWFKZFVYWlA4WW5USzRBNEpacVQtQmNHRzhrVnpKVmc?oc=5)
 
 ---
 
@@ -466,7 +466,7 @@ permalink: /news/vardenafil/
 
 2026-09-08 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
 
 ---
 
@@ -474,7 +474,7 @@ permalink: /news/vardenafil/
 
 2026-09-08 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
 
 ---
 
@@ -482,7 +482,7 @@ permalink: /news/vardenafil/
 
 2026-09-08 <span class="news-indication-tag">AF</span>
 
-來源：[main-echo.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3BHcTQxeEF5aDg1T0ZIaUg4YWt2bEljcGdpRi04MTZzV1pZdWdlQzJZcXVtYlVhVVc3THloZnhsMWFzXzhTaEFPTi1WbTk0Rmw5MS1RdDVRdVdsMFo5TS01UUtJaFh4dnkyWGVBVkVKc0lWOUl3LXdpeDN5ZzhleUduME9jemEzczYxU0hfbmRqNEpYYWRGVjZMWmNBQ2JmcnAtNFBIdm95NlpwVlpBeGZ2Q04?oc=5)
+Source: [main-echo.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3BHcTQxeEF5aDg1T0ZIaUg4YWt2bEljcGdpRi04MTZzV1pZdWdlQzJZcXVtYlVhVVc3THloZnhsMWFzXzhTaEFPTi1WbTk0Rmw5MS1RdDVRdVdsMFo5TS01UUtJaFh4dnkyWGVBVkVKc0lWOUl3LXdpeDN5ZzhleUduME9jemEzczYxU0hfbmRqNEpYYWRGVjZMWmNBQ2JmcnAtNFBIdm95NlpwVlpBeGZ2Q04?oc=5)
 
 ---
 
@@ -490,7 +490,7 @@ permalink: /news/vardenafil/
 
 2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
 
 ---
 
@@ -498,13 +498,13 @@ permalink: /news/vardenafil/
 
 2026-09-08 <span class="news-indication-tag">Krebs</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFRaVnc1akNMb3VCNE5KbFhUM1RiRnB0OXZ6cnktWHJueTlSOFdHNUVqb0lrVTJUajJJYnNLdTZqSk9IemNPWVIwbWJzRFJ1bXY1emRQQTZVMko0b1BLSW4tN3dFOTVCOGU3VjJ6Q3QtV1ItZnBEU2dDQ2d1SE5wdXQyQzQzdGVWSlRCVXBydmhkdG8xajN6a2ZqQ0hiYmNvN1JLVC0tUEZjMUZHX0dmRWE1SQ?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFRaVnc1akNMb3VCNE5KbFhUM1RiRnB0OXZ6cnktWHJueTlSOFdHNUVqb0lrVTJUajJJYnNLdTZqSk9IemNPWVIwbWJzRFJ1bXY1emRQQTZVMko0b1BLSW4tN3dFOTVCOGU3VjJ6Q3QtV1ItZnBEU2dDQ2d1SE5wdXQyQzQzdGVWSlRCVXBydmhkdG8xajN6a2ZqQ0hiYmNvN1JLVC0tUEZjMUZHX0dmRWE1SQ?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>
 
 <style>

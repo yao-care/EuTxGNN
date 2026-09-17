@@ -1,143 +1,112 @@
 ---
 layout: default
 title: Rotigotine
-description: "rotigotine drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
-parent: Phase 2 Evidence (L2)
-nav_order: 508
-evidence_level: L2
-indication_count: 50
+parent: AI Predictions (L5)
+nav_order: 520
+evidence_level: L5
+indication_count: 10
 ---
 
 # Rotigotine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Rotigotine: From Parkinson's Disease/Restless Legs Syndrome to Attention-Deficit/Hyperactivity Disorder
+
+## One-Sentence Summary
+
+> Rotigotine is a dopamine receptor agonist known from the literature for treating Parkinson's disease and restless legs syndrome.
+> The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**,
+> but currently **no clinical trials** and only **3 indirect publications** support this direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Rotigotine |
-| DrugBank ID | [DB05271](https://go.drugbank.com/drugs/DB05271) |
-| Brand Names (EU) | Neupro |
-| Evidence Level | L2 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 100.00% |
+| Item | Content |
+|------|------|
+| Original Indication | Parkinson's Disease / Restless Legs Syndrome (inferred from literature evidence; no formal EU regulatory record in this evidence pack) |
+| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
+| TxGNN Prediction Score | 99.997% |
+| Evidence Level | L5 |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Parkinson's disease: Neupro is indicated for the treatment of the signs and symptoms of early-stage idiopathic Parkinson's disease as monotherapy (i.e. without levodopa) or in combination with levodopa, i.e. over the course of the disease, through to late stages when the effect of levodopa wears off or becomes inconsistent and fluctuations of the therapeutic effect occur (end of dose or 'on-off' fluctuations). Restless-legs syndrome: Neupro is indicated for the symptomatic treatment of moderate 
+Detailed mechanism of action data from DrugBank is currently unavailable (flagged as a High-severity data gap). Based on the literature evidence collected, Rotigotine is described as a non-ergot dopamine receptor "pan-agonist" — a 2023 structural biology study (PMID 37221270) resolved cryo-EM structures of all five human dopamine receptor subtypes (D1R–D5R) in complex with Rotigotine, confirming broad D1–D5 receptor engagement. Clinically, it is used for Parkinson's disease and restless legs syndrome (RLS), both conditions rooted in dopaminergic system dysfunction.
 
----
+The link to ADHD is indirect but biologically plausible. ADHD pathophysiology is strongly associated with reduced striatal and prefrontal dopamine transmission (the "dopamine hypothesis"), and RLS has a well-documented clinical comorbidity with ADHD, particularly in children (PMID 21476956). A 2021 receptor-pharmacology study (PMID 34182128) further implicates dopamine D4 receptor polymorphisms and α2A-adrenoceptor heteromerization in ADHD susceptibility, providing a plausible receptor-level rationale for why a broad dopamine agonist like Rotigotine could theoretically modulate ADHD-relevant circuits.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | attention deficit-hyperactivity disorder | 100.00% | DL |
-| 2 | schizophrenia | 100.00% | DL |
-| 3 | polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.99% | DL |
-| 4 | faciodigitogenital syndrome | 99.99% | DL |
-| 5 | congenital disorder of glycosylation with defective fucosylation | 99.99% | DL |
-| 6 | retinal dystrophy with or without extraocular anomalies | 99.99% | DL |
-| 7 | myopia X-linked | 99.99% | DL |
-| 8 | atypical glycine encephalopathy | 99.99% | DL |
-| 9 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 99.99% | DL |
-| 10 | myopia 26, X-linked, female-limited | 99.99% | DL |
-| 11 | syndromic myopia | 99.99% | DL |
-| 12 | hydranencephaly (disease) | 99.99% | DL |
-| 13 | attention deficit hyperactivity disorder, inattentive type | 99.98% | DL |
-| 14 | juvenile onset Parkinson disease 19A | 99.96% | DL |
-| 15 | chondromyxoid fibroma | 99.95% | DL |
-| 16 | specific developmental disorder | 99.94% | DL |
-| 17 | hereditary late onset Parkinson disease | 99.91% | DL |
-| 18 | atypical juvenile parkinsonism | 99.89% | DL |
-| 19 | trichotillomania | 99.89% | DL |
-| 20 | PLA2G6-associated neurodegeneration | 99.88% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, none of the available literature reports direct study of Rotigotine in ADHD populations. The supporting evidence is limited to (1) RLS/ADHD comorbidity reviews and (2) general dopamine-receptor pharmacology unrelated to any Rotigotine-specific intervention. This is a mechanism-level hypothesis extrapolated from TxGNN's knowledge graph embedding, not a validated pharmacological signal.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| schizophrenia | L2 | 0 | 3 | 1 review(s)/meta-analysis |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Preclinical/Receptor pharmacology | Pharmacological Research | D4 receptor heteromerization with α2A-adrenoceptors implicated in ADHD susceptibility; provides receptor-level rationale relevant to dopamine agonist mechanisms, but does not study Rotigotine directly |
+| [21476956](https://pubmed.ncbi.nlm.nih.gov/21476956/) | 2011 | Review | Current Pharmaceutical Design | Review of RLS in children, noting overlap with ADHD symptomatology and treatment considerations |
+| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Revue Neurologique | General review of restless-legs syndrome pathophysiology; does not address ADHD or Rotigotine specifically |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Rotigotine is currently **not marketed** in the EU according to this evidence pack (0 marketing authorizations on record). No authorization details are available for review.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- Evidence Level is L5 (model prediction only) with a decision stage of S0 — there are no clinical trials, and the 3 supporting publications are indirect (comorbidity reviews and general dopamine-receptor pharmacology), none of which studies Rotigotine in ADHD directly. In addition, a **Blocking**-severity data gap (missing TFDA/regulatory label warnings and contraindications) currently prevents even entering the S1 safety pre-screening stage.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (Blocking): obtain official product label warnings/contraindications to enable S1 safety pre-screening
+- Resolve DG002 (High): confirm mechanism of action via DrugBank API query
+- Rotigotine-specific preclinical or pilot clinical data in ADHD populations (current evidence is class-level/mechanistic only)
+- Confirmation of EU marketing authorization status, given 0 licenses are currently on record
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

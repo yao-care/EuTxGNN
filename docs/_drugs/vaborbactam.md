@@ -1,132 +1,89 @@
 ---
 layout: default
 title: Vaborbactam
-description: "Vaborbactam drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
 parent: AI Predictions (L5)
-nav_order: 619
+nav_order: 630
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Vaborbactam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Vaborbactam: From Antibacterial Adjuvant (β-lactamase Inhibitor) to Osteoarthritis
+
+## One-Sentence Summary
+
+Vaborbactam is a serine β-lactamase inhibitor (boronic acid ester structure) that inhibits KPC-type carbapenemases; it is not currently authorized as a standalone product in the EU and no original approved indication is recorded in this Evidence Pack.
+The TxGNN model predicts it may be effective for **Osteoarthritis**, but this prediction is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags the score as a possible artifact of sparse-node inference in the knowledge graph.
+
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Vaborbactam |
-| DrugBank ID | [DB12107](https://go.drugbank.com/drugs/DB12107) |
-| Brand Names (EU) | Vaborbactam |
+| Item | Content |
+|------|------|
+| Original Indication | Not available — no approved indication text on record (drug not authorized in the EU market; DrugBank original indications list is empty) |
+| Predicted New Indication | Osteoarthritis |
+| TxGNN Prediction Score | 98.52% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.52% |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data for Vaborbactam is marked as unavailable in this Evidence Pack. Based on the limited information available, Vaborbactam is a serine β-lactamase inhibitor that works by inhibiting KPC-type carbapenemases, and is typically used as an adjuvant combined with a carbapenem antibiotic to restore antibacterial activity against carbapenem-resistant organisms. No original indication has been formally recorded for this candidate, so its proven efficacy profile cannot be assessed from this pack.
+
+There is no established pharmacological or clinical link between β-lactamase inhibition and osteoarthritis pathology, which involves cartilage degradation and joint inflammation through entirely different biological pathways (e.g., matrix metalloproteinase activity, cytokine-driven synovitis). The evidence pack's own rationale explicitly notes that Vaborbactam has "no known anti-inflammatory, chondroprotective, or joint-related biological mechanism," and suggests the high TxGNN score may reflect an inference bias arising from sparse graph connectivity around this drug node rather than genuine biological plausibility.
+
+Given the absence of any mechanistic rationale, clinical trial evidence, or literature support, this prediction should be treated as a low-confidence, model-only signal rather than a credible repurposing candidate at this stage.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction is supported only by an AI model score (L5) with zero clinical trials or literature, no plausible mechanistic link between β-lactamase inhibition and osteoarthritis pathology, and the evidence pack itself flags the score as a likely sparse-node inference artifact. Combined with a Blocking data gap on safety labeling (TFDA/EMA warnings and contraindications) and a High-severity gap on mechanism of action, this candidate does not meet the bar to advance past initial screening.
+
+**To proceed, the following is needed:**
+- Official safety labeling data (SmPC/package insert warnings, contraindications) — currently a Blocking data gap
+- Confirmed mechanism of action from DrugBank or primary literature — currently a High-severity data gap
+- Confirmation of the drug's original approved indication(s), since none are currently on record
+- Independent biological plausibility review before allocating resources to preclinical or clinical validation for osteoarthritis
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Approved Indication (EMA)
-
-Vaborem is indicated for the treatment of the following infections in adults:  Complicated urinary tract infection (cUTI), including pyelonephritis Complicated intra-abdominal infection (cIAI) Hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP).  Treatment of patients with bacteraemia that occurs in association with, or is suspected to be associated with, any of the infections listed above. Vaborem is also indicated for the treatment of infections due to aerobic Gr
-
----
-
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | osteoarthritis | 98.52% | DL |
-| 2 | osteoarthritis susceptibility | 98.35% | DL |
-| 3 | rheumatoid arthritis | 98.35% | DL |
-| 4 | gout | 97.78% | DL |
-| 5 | pseudoachondroplasia | 97.74% | DL |
-| 6 | hepatic porphyria | 97.67% | DL |
-| 7 | brachyolmia | 97.56% | DL |
-| 8 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 97.42% | DL |
-| 9 | acromesomelic dysplasia, Hunter-Thompson type | 97.42% | DL |
-| 10 | brachyolmia-amelogenesis imperfecta syndrome | 97.31% | DL |
-| 11 | myosclerosis | 97.31% | DL |
-| 12 | idiopathic copper-associated cirrhosis | 97.30% | DL |
-| 13 | hepatoportal sclerosis | 97.30% | DL |
-| 14 | primitive portal vein thrombosis | 97.30% | DL |
-| 15 | early-onset familial noncirrhotic portal hypertension | 97.30% | DL |
-| 16 | hepatopulmonary syndrome | 97.30% | DL |
-| 17 | arthropathy | 96.99% | DL |
-| 18 | hemoglobinopathy | 96.75% | DL |
-| 19 | brachydactyly-syndactyly syndrome | 96.71% | DL |
-| 20 | congestive heart failure | 96.67% | DL |
-
-*Showing top 20 of 50 predictions.*
-
----
-
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
-
----
-
-## Clinical Validation Needed
-
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
-
----
-
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

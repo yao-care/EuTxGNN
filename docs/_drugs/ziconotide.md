@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Ziconotide
-description: "Ziconotide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 645
-evidence_level: L5
-indication_count: 50
+parent: Medium Evidence (L3-L4)
+nav_order: 657
+evidence_level: L4
+indication_count: 10
 ---
 
 # Ziconotide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## Pharmacist Assessment Report
+
+</div>
+
+# Ziconotide: From Chronic Severe Pain to Migraine Disorder
+
+## One-Sentence Summary
+
+Ziconotide is a selective N-type calcium channel blocker historically used as an intrathecal analgesic for severe chronic pain in patients already fitted with an intrathecal pump. The TxGNN model predicts it may also be effective for **Migraine Disorder**, but this direction is currently supported by only **1 case report** and **no registered clinical trials**, and the drug is not currently marketed in the EU.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ziconotide |
-| DrugBank ID | [DB06283](https://go.drugbank.com/drugs/DB06283) |
-| Brand Names (EU) | Prialt |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.92% |
+| Item | Content |
+|------|------|
+| Original Indication | Not documented as a formal EU authorization (see below); per the supporting literature, ziconotide is a calcium-channel-blocking analgesic administered intrathecally for chronic severe pain |
+| Predicted New Indication | Migraine Disorder |
+| TxGNN Prediction Score | 99.92% |
+| Evidence Level | L4 |
+| EU Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Ziconotide is indicated for the treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia.
+A structured mechanism-of-action (MOA) record for ziconotide is not available in this Evidence Pack (flagged as a High-severity data gap). Based on the pharmacological description embedded in the supporting evidence, however, ziconotide is a selective N-type (Cav2.2) voltage-gated calcium channel blocker that inhibits presynaptic release of glutamate, CGRP, and substance P at the dorsal horn of the spinal cord and within the trigeminovascular system. It has historically been delivered intrathecally for the management of chronic severe pain in patients already carrying an implanted intrathecal pump.
 
----
+Migraine pathophysiology is centrally driven by trigeminovascular nociceptive signaling, in which the same neurotransmitters (glutamate, CGRP, substance P) play a key role. This shared pharmacological target gives the migraine prediction biological plausibility, and is consistent with the mechanistic rationale attached to this indication in the Evidence Pack.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | migraine disorder | 99.92% | DL |
-| 2 | migraine with brainstem aura | 99.88% | DL |
-| 3 | cauda equina syndrome | 99.87% | DL |
-| 4 | obesity disorder | 99.67% | DL |
-| 5 | transient ischemic attack (disease) | 99.65% | DL |
-| 6 | open-angle glaucoma | 99.64% | DL |
-| 7 | obsolete neurogenic bladder (disease) | 99.63% | DL |
-| 8 | migraine with or without aura, susceptibility to | 99.62% | DL |
-| 9 | primary hereditary glaucoma | 99.59% | DL |
-| 10 | preeclampsia | 99.58% | DL |
-| 11 | atrophoderma vermiculata | 99.49% | DL |
-| 12 | acne (disease) | 99.49% | DL |
-| 13 | hypervitaminosis | 99.45% | DL |
-| 14 | ulerythema ophryogenesis | 99.41% | DL |
-| 15 | monogenic obesity | 99.41% | DL |
-| 16 | pulmonary hypertension | 99.31% | DL |
-| 17 | obsolete hypertelorism (disease) | 99.30% | DL |
-| 18 | proximal 16p11.2 microdeletion syndrome | 99.27% | DL |
-| 19 | hypotrichosis simplex of the scalp | 99.24% | DL |
-| 20 | congenital hypotrichosis milia | 99.19% | DL |
-
-*Showing top 20 of 50 predictions.*
+That said, the supporting evidence is limited to a single refractory case report (a patient who already had an intrathecal pump in place for chronic pain and incidentally experienced resolution of chronic migraine). There is no controlled trial evidence, and the highly invasive intrathecal route substantially limits real-world applicability — it would realistically only be relevant to migraine patients who already require an intrathecal pump for another indication, not as a general-purpose migraine therapy.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [26392785](https://pubmed.ncbi.nlm.nih.gov/26392785/) | 2015 | Case Report | Journal of Pain Research | Resolution of chronic migraine headaches in a patient receiving intrathecal ziconotide for chronic severe pain; single-patient observation, no controlled comparison |
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Ziconotide currently has no marketing authorization on record for the EU market (0 licenses; market status: Not marketed).
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+No detailed warnings, contraindications, or drug-drug interaction data are currently available in the Evidence Pack (this is flagged as a Blocking-severity gap that prevents a full initial safety assessment). Please refer to the product's Summary of Product Characteristics (SmPC) or approved labeling, once available, for complete safety information before any further evaluation.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The migraine prediction has mechanistic plausibility (shared trigeminovascular neurotransmitter targets) but is currently supported by only a single case report with no controlled clinical trial data, and ziconotide is not marketed anywhere in the EU. Combined with the absence of core safety labeling information (a Blocking-severity data gap), the evidence base is not yet sufficient to advance beyond a research question.
+
+**To proceed, the following is needed:**
+- Retrieval and parsing of the official product label/SmPC (warnings, contraindications, DDI) — currently a Blocking gap
+- A structured, sourced mechanism-of-action record for ziconotide (currently a High-severity gap)
+- Prospective or at least larger retrospective/case-series data on ziconotide in migraine, given the current evidence is a single case report
+- A feasibility assessment of the intrathecal delivery route, since this will restrict any realistic target population to patients who already require an intrathecal pump
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

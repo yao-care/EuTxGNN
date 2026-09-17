@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Olaparib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 431
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Olaparib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -59,7 +59,7 @@ Detailed MOA data is not populated in the drug record (`original_moa: [Data Gap]
 
 BRCA1/2 mutations are the shared genetic driver of hereditary breast-ovarian cancer syndrome, so the biological rationale for extending Olaparib from ovarian cancer into BRCA-mutated breast cancer is direct rather than speculative. This is reflected in the internal rationale note for this candidate: *"乳癌中 BRCA1/2 生殖系突變族群機轉明確，已為監管機關核准適應症"* — i.e., olaparib's use in germline BRCA-mutated breast cancer is mechanistically well established and already regulator-approved in multiple markets internationally (via OlympiA for adjuvant early breast cancer and OlympiAD for metastatic breast cancer).
 
-**Regulatory caveat:** the same rationale note flags that this dataset's "Not marketed / 0 authorizations" status for this jurisdiction may reflect a **regional data gap rather than a true absence of approval** ("此資料集標記未上市可能為地區性差異"). This discrepancy should be verified against the primary regulatory source before any downstream decision is finalized.
+**Regulatory caveat:** the same rationale note flags that this dataset's "Not marketed / 0 authorizations" status for this jurisdiction may reflect a **regional data gap rather than a true absence of approval** ("此資料集標記Not marketed可能為地區性差異"). This discrepancy should be verified against the primary regulatory source before any downstream decision is finalized.
 
 ---
 
