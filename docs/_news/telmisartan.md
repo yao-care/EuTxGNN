@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
+
+### [Desarrollan un mapa molecular de la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHN1a0VKOExyRDMzRDdYc0k1bGZqVmIwbjNWS1k0NGZNOWhVa0k5UXZJOWgwS3MxODdiU05QS0t4andERndqWm92YnMzNDdQbWZEZEpZSDhxR01pVFV5bGhXM2ttWUJlX3dqWE5ybDR0ZVU2UWpiS1l4QmRRQ0p5NjhUSmVKdXY1QXZ4QWdwcnBfSDh0VEFzUkZDdUg5V3Vi?oc=5)
+
+2026-09-18 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHN1a0VKOExyRDMzRDdYc0k1bGZqVmIwbjNWS1k0NGZNOWhVa0k5UXZJOWgwS3MxODdiU05QS0t4andERndqWm92YnMzNDdQbWZEZEpZSDhxR01pVFV5bGhXM2ttWUJlX3dqWE5ybDR0ZVU2UWpiS1l4QmRRQ0p5NjhUSmVKdXY1QXZ4QWdwcnBfSDh0VEFzUkZDdUg5V3Vi?oc=5)
+
+---
+
+### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+
+---
+
+### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
+
+2026-09-18 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
+
+---
 
 ### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
@@ -70,19 +94,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [La farmacia se une a CAP y hospitales para reforzar la prevención y detección del ictus - El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+### [Farmacia comunitaria, Atención Primaria y hospitales se coordinan para prevenir el ictus en Barcelona](https://news.google.com/rss/articles/CBMihwJBVV95cUxPdGtuWjlyb1J4bHZ0R282cE1PYmFlU2xCMGljLTA5MTk2VE42YUE5bWwtX3Yxc3J1UG50akZEaW9yeEpFVlBtSnVLamV5R1lzUWZIY1hDLVVRdE5TMGVqbTBTX3k4NV9nRVUwWVdCX0hESmZxcDBsSTRRdHc0Z29yTjFvWXI3UVd2RGplUHROdW9SdkFGQ2ZLcEU4b0U0MWQ4ZFFJMFZDaTFUWUpndUFKLTl3bTE0YVZSOE1obFRlQlJSMEsydWxyWHBJRFhiN3RpdVk3SjIyR0g1TldRaFdOZVhEWS1WV0tUUWNzNERHYXJIQXdZN2xLZFN0T2NKeGx3S0VWWWFTSdIBjAJBVV95cUxPVkhFVC1LVWdiUFYyZV81QlhMZTNmSWFtXzBkbXBaZ0RxSHk2NzRLSTlRYVNUeDlwVWVYdWNYbWNKQTB4VlJrWXZGQWpnZVE0QjQzVDJSYTYxd1NQWDdDODV0ZXZYT2w4ZEdTTFBNaVpVZkZUZUlWeFc5WEtzQlNUbHRvVmpOb1d6dEpLYnpHVklYTGF0UWx6MG1IZVlMbVFrNzR6OHNZcW9ERTg3dXRXLVZadGw2dzU4TWN4V2hka1o3bngzbDl1aDN5dGd6UThZVS1EdXd4emdweHo4Q3Z1MjgtU0RoRzdUd0NGZXVPN1Q1Y0Jmcml2Tk1FRkFJQllaQ0stYnp3SmZVQnFr?oc=5)
 
 2026-09-17 <span class="news-indication-tag">ictus</span>
 
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+來源：[redaccionmedica.com](https://news.google.com/rss/articles/CBMihwJBVV95cUxPdGtuWjlyb1J4bHZ0R282cE1PYmFlU2xCMGljLTA5MTk2VE42YUE5bWwtX3Yxc3J1UG50akZEaW9yeEpFVlBtSnVLamV5R1lzUWZIY1hDLVVRdE5TMGVqbTBTX3k4NV9nRVUwWVdCX0hESmZxcDBsSTRRdHc0Z29yTjFvWXI3UVd2RGplUHROdW9SdkFGQ2ZLcEU4b0U0MWQ4ZFFJMFZDaTFUWUpndUFKLTl3bTE0YVZSOE1obFRlQlJSMEsydWxyWHBJRFhiN3RpdVk3SjIyR0g1TldRaFdOZVhEWS1WV0tUUWNzNERHYXJIQXdZN2xLZFN0T2NKeGx3S0VWWWFTSdIBjAJBVV95cUxPVkhFVC1LVWdiUFYyZV81QlhMZTNmSWFtXzBkbXBaZ0RxSHk2NzRLSTlRYVNUeDlwVWVYdWNYbWNKQTB4VlJrWXZGQWpnZVE0QjQzVDJSYTYxd1NQWDdDODV0ZXZYT2w4ZEdTTFBNaVpVZkZUZUlWeFc5WEtzQlNUbHRvVmpOb1d6dEpLYnpHVklYTGF0UWx6MG1IZVlMbVFrNzR6OHNZcW9ERTg3dXRXLVZadGw2dzU4TWN4V2hka1o3bngzbDl1aDN5dGd6UThZVS1EdXd4emdweHo4Q3Z1MjgtU0RoRzdUd0NGZXVPN1Q1Y0Jmcml2Tk1FRkFJQllaQ0stYnp3SmZVQnFr?oc=5)
 
 ---
 
-### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+### [Brits urged to eat 9 foods for lower blood pressure - Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzN0TFdnVXNGNFNUUnFoRVRWendwLThYTkdKYnZsT0F6emtEUmpIY3k2cWZTNjdzUVM0bjlaZU5CS1VxczJNRkhMSkNTZ3hzNmNnYUstM0FpQzhTYlVmT005RzVSdXhMd1lGeTF5cjNxTC1vWFV6VmFEZWROajktcWhKOHHSAYoBQVVfeXFMTnNOa1k5VXJ4LXBNSWlRRXFNS3VuZmRiZV9adnJfSlhBY2wxT0trYUwteVNCUDNCOWdxX3cxSlFzdS1WOVZxMFNyUTVDTUhhMjd3X21DWHlSQ3l0SHpvYWdzN05HcmJ0UllaQTk5MjVndkFrQTZIS3pTN3d3YmRjTkk1azNMMV9zZkJB?oc=5)
 
-2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">ictus</span>
+2026-09-17 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzN0TFdnVXNGNFNUUnFoRVRWendwLThYTkdKYnZsT0F6emtEUmpIY3k2cWZTNjdzUVM0bjlaZU5CS1VxczJNRkhMSkNTZ3hzNmNnYUstM0FpQzhTYlVmT005RzVSdXhMd1lGeTF5cjNxTC1vWFV6VmFEZWROajktcWhKOHHSAYoBQVVfeXFMTnNOa1k5VXJ4LXBNSWlRRXFNS3VuZmRiZV9adnJfSlhBY2wxT0trYUwteVNCUDNCOWdxX3cxSlFzdS1WOVZxMFNyUTVDTUhhMjd3X21DWHlSQ3l0SHpvYWdzN05HcmJ0UllaQTk5MjVndkFrQTZIS3pTN3d3YmRjTkk1azNMMV9zZkJB?oc=5)
 
 ---
 
@@ -102,14 +126,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Cholesterol, weight, blood sugar and blood pressure drop with one food change - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
-
-2026-09-16 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
-
----
-
 ### [Colesterolo LDL dopo i 60 anni: i valori da monitorare attentamente se si assumono farmaci](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FyQ0FqQU43b2ZGRndJYldhZkFVQVVfU0RKT05aOVlQYWNGcVRsOEtqUzRxcGxTUFR2aUtXZEo5SzZPQVdYdUhaTENmbmlqX0o3czBrWDhxeWh1WG5xSFJacnV4SjB6U3RRQW5veW9zMWpCZkVvWkJoelVGX0lldjVyOVBUY0tVUjhnOVphM20wQVNXR2tGUkVyQ0VTbXRSMHJqOUl1VnZ4WWRIM2o0M25mcjFYelVfVmx4VUVLbw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">ictus</span>
@@ -126,17 +142,9 @@ permalink: /news/telmisartan/
 
 ---
 
-### [New Northamptonshire high blood pressure service being rolled out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
-
----
-
 ### [Eye scans detect signs of atrial fibrillation years before diagnosis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 
-2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 

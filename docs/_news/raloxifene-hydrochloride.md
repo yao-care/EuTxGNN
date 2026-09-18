@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+
+---
 
 ### [Vieillir en bonne santé : cette heure d'endormissement serait associée au risque cardiovasculaire le plus faible - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
 
@@ -62,19 +70,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [La farmacia se une a CAP y hospitales para reforzar la prevención y detección del ictus - El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+### [Farmacia comunitaria, Atención Primaria y hospitales se coordinan para prevenir el ictus en Barcelona](https://news.google.com/rss/articles/CBMihwJBVV95cUxPdGtuWjlyb1J4bHZ0R282cE1PYmFlU2xCMGljLTA5MTk2VE42YUE5bWwtX3Yxc3J1UG50akZEaW9yeEpFVlBtSnVLamV5R1lzUWZIY1hDLVVRdE5TMGVqbTBTX3k4NV9nRVUwWVdCX0hESmZxcDBsSTRRdHc0Z29yTjFvWXI3UVd2RGplUHROdW9SdkFGQ2ZLcEU4b0U0MWQ4ZFFJMFZDaTFUWUpndUFKLTl3bTE0YVZSOE1obFRlQlJSMEsydWxyWHBJRFhiN3RpdVk3SjIyR0g1TldRaFdOZVhEWS1WV0tUUWNzNERHYXJIQXdZN2xLZFN0T2NKeGx3S0VWWWFTSdIBjAJBVV95cUxPVkhFVC1LVWdiUFYyZV81QlhMZTNmSWFtXzBkbXBaZ0RxSHk2NzRLSTlRYVNUeDlwVWVYdWNYbWNKQTB4VlJrWXZGQWpnZVE0QjQzVDJSYTYxd1NQWDdDODV0ZXZYT2w4ZEdTTFBNaVpVZkZUZUlWeFc5WEtzQlNUbHRvVmpOb1d6dEpLYnpHVklYTGF0UWx6MG1IZVlMbVFrNzR6OHNZcW9ERTg3dXRXLVZadGw2dzU4TWN4V2hka1o3bngzbDl1aDN5dGd6UThZVS1EdXd4emdweHo4Q3Z1MjgtU0RoRzdUd0NGZXVPN1Q1Y0Jmcml2Tk1FRkFJQllaQ0stYnp3SmZVQnFr?oc=5)
 
 2026-09-17 <span class="news-indication-tag">ictus</span>
 
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
-
----
-
-### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
-
-2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+來源：[redaccionmedica.com](https://news.google.com/rss/articles/CBMihwJBVV95cUxPdGtuWjlyb1J4bHZ0R282cE1PYmFlU2xCMGljLTA5MTk2VE42YUE5bWwtX3Yxc3J1UG50akZEaW9yeEpFVlBtSnVLamV5R1lzUWZIY1hDLVVRdE5TMGVqbTBTX3k4NV9nRVUwWVdCX0hESmZxcDBsSTRRdHc0Z29yTjFvWXI3UVd2RGplUHROdW9SdkFGQ2ZLcEU4b0U0MWQ4ZFFJMFZDaTFUWUpndUFKLTl3bTE0YVZSOE1obFRlQlJSMEsydWxyWHBJRFhiN3RpdVk3SjIyR0g1TldRaFdOZVhEWS1WV0tUUWNzNERHYXJIQXdZN2xLZFN0T2NKeGx3S0VWWWFTSdIBjAJBVV95cUxPVkhFVC1LVWdiUFYyZV81QlhMZTNmSWFtXzBkbXBaZ0RxSHk2NzRLSTlRYVNUeDlwVWVYdWNYbWNKQTB4VlJrWXZGQWpnZVE0QjQzVDJSYTYxd1NQWDdDODV0ZXZYT2w4ZEdTTFBNaVpVZkZUZUlWeFc5WEtzQlNUbHRvVmpOb1d6dEpLYnpHVklYTGF0UWx6MG1IZVlMbVFrNzR6OHNZcW9ERTg3dXRXLVZadGw2dzU4TWN4V2hka1o3bngzbDl1aDN5dGd6UThZVS1EdXd4emdweHo4Q3Z1MjgtU0RoRzdUd0NGZXVPN1Q1Y0Jmcml2Tk1FRkFJQllaQ0stYnp3SmZVQnFr?oc=5)
 
 ---
 
@@ -99,6 +99,14 @@ permalink: /news/raloxifene-hydrochloride/
 2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+
+---
+
+### [Eye scans detect signs of atrial fibrillation years before diagnosis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
+
+2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 
 ---
 

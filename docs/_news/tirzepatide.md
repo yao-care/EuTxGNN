@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
@@ -62,27 +62,19 @@ permalink: /news/tirzepatide/
 
 ---
 
+### [Mounjaro zum Abnehmen: Expertin warnt vor Risiken für Gesundheit, Haut und Haare - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivgFBVV95cUxPekhkdTRkanJIdWVpUWJha2UtdnE1SzFSMGVVeXR2YXBzcVNRMEFVWkdWQm1rWVVNSXZLQVZ3c3VYMjhJdmV4bGtDUklPZlZ1Rno4X1hhbXhUdDFWdHVTcUw0bUxtZTl4UzFKM1FUdGFpNGZVYjBfZklpU2xZTFluUXRXZXhLVU43cXRxUkdTaHJUcFJKVXFwTXdRYW4zWE1KaUMwUU82dkFtODJuLTBnZVJIWGJSZXZtbWwxTS1B?oc=5)
+
+2026-09-17 <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivgFBVV95cUxPekhkdTRkanJIdWVpUWJha2UtdnE1SzFSMGVVeXR2YXBzcVNRMEFVWkdWQm1rWVVNSXZLQVZ3c3VYMjhJdmV4bGtDUklPZlZ1Rno4X1hhbXhUdDFWdHVTcUw0bUxtZTl4UzFKM1FUdGFpNGZVYjBfZklpU2xZTFluUXRXZXhLVU43cXRxUkdTaHJUcFJKVXFwTXdRYW4zWE1KaUMwUU82dkFtODJuLTBnZVJIWGJSZXZtbWwxTS1B?oc=5)
+
+---
+
 ### [Being on fat jabs linked to 11-fold risk of deadly complication, shock probe suggests - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
 
 2026-09-16 <span class="news-drug-tag">Tirzepatide</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
-
----
-
-### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
-
-2026-09-16 <span class="news-indication-tag">artritis</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
-
----
-
-### [Arzt rät zu Kapseln: „Mein Omega-3-Wert war katastrophal. Heute ist er optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
-
-2026-09-16 <span class="news-indication-tag">arthritis</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
 
 ---
 

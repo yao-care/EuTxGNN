@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [New Northamptonshire high blood pressure service being rolled out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
+### [Tos ferina, hepatitis B y poliomielitis: la vacunación infantil retrocede en España - Diari ARA](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQU1KQkxpaS04bEFLNHJQNWt4WDh6WVpHd0w0NnhZeUZKbHA3T2gtdGF3YlVJTHVBZ2hWWmo1ZUxZU1kxMU5UV0Y5ZzBQN3R1YmxtODlQcHZPb0ZKYy0tbzdNOUw4bU00THBEajVjQzFVMmRzdkZ6UEJuODdLWEpxamlicXpfanNzOEpqN3hWTE1nUGNjTVdySF9fUmc2a1JKSEE2bkRoRUJhOHExX08wZjF0V1kyQ1lub1NlNko4Z9IBxAFBVV95cUxNOElLRk92cGVOcmI4U3loTHVaN2tIX2w1T00wakRzVUNxa0hEcFNJZ1A5Z2FfTlVMMUJiYzJTYUhlSlo5amJuUDlYTGd0aHc1MEx1azJJMDJSM05WdzluamVlUWVPMjExQzhxSHlvUEZmTXBmdDFDVTZQTFVsbGpJYnV6YU4wUDJodFBCaVlQUzRXNkRPbE1YalNncTg2Y1NCOHJYdzZINUR3ZDg5NVIxeUtlTzJ6Nzk5WlRGZ1piNE93QWxs?oc=5)
 
-2026-09-15 <span class="news-indication-tag">high blood pressure</span>
+2026-09-18 <span class="news-indication-tag">hepatitis</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
+來源：[Diari ARA](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQU1KQkxpaS04bEFLNHJQNWt4WDh6WVpHd0w0NnhZeUZKbHA3T2gtdGF3YlVJTHVBZ2hWWmo1ZUxZU1kxMU5UV0Y5ZzBQN3R1YmxtODlQcHZPb0ZKYy0tbzdNOUw4bU00THBEajVjQzFVMmRzdkZ6UEJuODdLWEpxamlicXpfanNzOEpqN3hWTE1nUGNjTVdySF9fUmc2a1JKSEE2bkRoRUJhOHExX08wZjF0V1kyQ1lub1NlNko4Z9IBxAFBVV95cUxNOElLRk92cGVOcmI4U3loTHVaN2tIX2w1T00wakRzVUNxa0hEcFNJZ1A5Z2FfTlVMMUJiYzJTYUhlSlo5amJuUDlYTGd0aHc1MEx1azJJMDJSM05WdzluamVlUWVPMjExQzhxSHlvUEZmTXBmdDFDVTZQTFVsbGpJYnV6YU4wUDJodFBCaVlQUzRXNkRPbE1YalNncTg2Y1NCOHJYdzZINUR3ZDg5NVIxeUtlTzJ6Nzk5WlRGZ1piNE93QWxs?oc=5)
+
+---
+
+### [Brits urged to eat 9 foods for lower blood pressure - Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzN0TFdnVXNGNFNUUnFoRVRWendwLThYTkdKYnZsT0F6emtEUmpIY3k2cWZTNjdzUVM0bjlaZU5CS1VxczJNRkhMSkNTZ3hzNmNnYUstM0FpQzhTYlVmT005RzVSdXhMd1lGeTF5cjNxTC1vWFV6VmFEZWROajktcWhKOHHSAYoBQVVfeXFMTnNOa1k5VXJ4LXBNSWlRRXFNS3VuZmRiZV9adnJfSlhBY2wxT0trYUwteVNCUDNCOWdxX3cxSlFzdS1WOVZxMFNyUTVDTUhhMjd3X21DWHlSQ3l0SHpvYWdzN05HcmJ0UllaQTk5MjVndkFrQTZIS3pTN3d3YmRjTkk1azNMMV9zZkJB?oc=5)
+
+2026-09-17 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzN0TFdnVXNGNFNUUnFoRVRWendwLThYTkdKYnZsT0F6emtEUmpIY3k2cWZTNjdzUVM0bjlaZU5CS1VxczJNRkhMSkNTZ3hzNmNnYUstM0FpQzhTYlVmT005RzVSdXhMd1lGeTF5cjNxTC1vWFV6VmFEZWROajktcWhKOHHSAYoBQVVfeXFMTnNOa1k5VXJ4LXBNSWlRRXFNS3VuZmRiZV9adnJfSlhBY2wxT0trYUwteVNCUDNCOWdxX3cxSlFzdS1WOVZxMFNyUTVDTUhhMjd3X21DWHlSQ3l0SHpvYWdzN05HcmJ0UllaQTk5MjVndkFrQTZIS3pTN3d3YmRjTkk1azNMMV9zZkJB?oc=5)
 
 ---
 

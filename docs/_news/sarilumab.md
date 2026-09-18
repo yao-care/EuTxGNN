@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（7 則）
 
-### [Infosalus.- CIBER financia un estudio sobre el impacto de los hábitos de vida en la respuesta al tratamiento en enfermedad de Crohn](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUEFEU2N6MU9ORnc5LU9kbVVYZWJqQWVTUEt3cUlGNDUxNlRZTWdlSXd2d3BXZjE3YkxHLS1kclh5ajhubFY3M2JmYXNDRG5keUhEN2VBekE2Q3dLQXBQTzZzLXBaYmtJWVpPUlZ0dm9VMGd4QjJuTjE4QVpFVnZsb3ZnVFY3MThfYi1WbjBQVUpVVGs2dVdJY2ttQjN6SkR5ZExmY0FfTEVPNUNEZDNDRHQ0NFZTSG1VSTdKSk9OekpJV2I5c0FTNmlkV0tQVXFwakdwSi1BS2tEZFZyMXZfR3h3OUk2RXc?oc=5)
+### [Asthma-Diagnose bei Kindern – Die Aussicht auf eine frühere Asthmadiagnose lässt aufatmen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
+
+2026-09-18 <span class="news-indication-tag">asthma</span>
+
+來源：[Moneycab](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
+
+---
+
+### [CIBER financia un estudio sobre el impacto de los hábitos de vida en la respuesta al tratamiento en enfermedad de Crohn](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNFE3RE9NVWY2bWNsY0t5QXdFaktEdWpxV0FKcUo3UV9BWHJFMHByLVhrazU5VGZMdS1XcGJzS29sM3FMTDFpMmhjcWV3dThXbzdIMEZCcWpzMXRJTGdpd1J4cm8zNXlOM3MwckZ3aEdRVWFnb0tDQWwyN1VqazRqRmlNaFgxMUxZNFNEbWE4NlJlSXpIcmZxMTJqSU8tS1ZrWVo2bE96Ti02c0dXNG9TOS1KY2hPbG52bV84R1htOVNzelQ5R0tUR29NY3FjUTVkWHpIZWRQN19ETVZXUjFwUXBvbjlBN0RsZnhNbA?oc=5)
 
 2026-09-17 <span class="news-indication-tag">enfermedad de Crohn</span>
 
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUEFEU2N6MU9ORnc5LU9kbVVYZWJqQWVTUEt3cUlGNDUxNlRZTWdlSXd2d3BXZjE3YkxHLS1kclh5ajhubFY3M2JmYXNDRG5keUhEN2VBekE2Q3dLQXBQTzZzLXBaYmtJWVpPUlZ0dm9VMGd4QjJuTjE4QVpFVnZsb3ZnVFY3MThfYi1WbjBQVUpVVGs2dVdJY2ttQjN6SkR5ZExmY0FfTEVPNUNEZDNDRHQ0NFZTSG1VSTdKSk9OekpJV2I5c0FTNmlkV0tQVXFwakdwSi1BS2tEZFZyMXZfR3h3OUk2RXc?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNFE3RE9NVWY2bWNsY0t5QXdFaktEdWpxV0FKcUo3UV9BWHJFMHByLVhrazU5VGZMdS1XcGJzS29sM3FMTDFpMmhjcWV3dThXbzdIMEZCcWpzMXRJTGdpd1J4cm8zNXlOM3MwckZ3aEdRVWFnb0tDQWwyN1VqazRqRmlNaFgxMUxZNFNEbWE4NlJlSXpIcmZxMTJqSU8tS1ZrWVo2bE96Ti02c0dXNG9TOS1KY2hPbG52bV84R1htOVNzelQ5R0tUR29NY3FjUTVkWHpIZWRQN19ETVZXUjFwUXBvbjlBN0RsZnhNbA?oc=5)
 
 ---
 
@@ -78,27 +86,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Semaglutid: Gepoolte Analyse bestätigt nephroprotektischen Effekt - Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHdoNE0tNVFTcmxjdzRRMnZrdWR5c2VGUFQtTlQ0ZHFTTWk1aHFaNUlIUnQ0SGVrUUpJU0I2RWszeU1KcU8xZVNuRHF6WVJpZ3p0bUZEbE54Njl4YlNWZzNlMm9BWDhob0liSHhYWlAxdWVUVnVkSDAtZzJUS3dKUE5EeGFVN3Q3QnFF?oc=5)
+### [Semaglutid: Gepoolte Analyse belegt Nierenschutz bei Risikopatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHdoNE0tNVFTcmxjdzRRMnZrdWR5c2VGUFQtTlQ0ZHFTTWk1aHFaNUlIUnQ0SGVrUUpJU0I2RWszeU1KcU8xZVNuRHF6WVJpZ3p0bUZEbE54Njl4YlNWZzNlMm9BWDhob0liSHhYWlAxdWVUVnVkSDAtZzJUS3dKUE5EeGFVN3Q3QnFF?oc=5)
-
----
-
-### [Una agudización de EPOC dispara por 10 el riesgo cardiovascular](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
-
-2026-09-16 <span class="news-indication-tag">EPOC</span>
-
-來源：[isanidad.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
-
----
-
-### [Artritis psoriásica: del continuo piel-articulación a la medicina de precisión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
-
-2026-09-16 <span class="news-indication-tag">artritis</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
 
 ---
 
@@ -110,27 +102,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Los hackers roban datos de pacientes zamoranos que participan en un estudio sobre la enfermedad de Crohn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJHa3NRaDBnVG03bFFaalJ4OEhPRmdOMjA0amhjZ2c4VzdjVzZRVUc4T3JFMERNRkQwSkdISmZ1X05SamptTXVvYmlSQU0wNnAwSEFOWFl1M1hqbXlfZC01enVVTkg5WkhyNmNOVEtFZjVMTXBDWWpCc2ZDWTNWNG95aDYtTWRPMWMtZHAwMWJORnB6NDF3cUtrcTd4OXlKVlJ1NTc3WnjSAa4BQVVfeXFMTlFoV1pvTTJpSHNuZjk2MmxFdkgxeHJkVU1qTV9Wdnc5TVRNQS1zUURBUmI2NElhTHgwa1Q0bVp1YjMwN2x5X2FoRGQzZFQxXzZ2RERIZWtjRHU3LUY0cldRcTRRT3QyOXZicFlubTNpZjV0czZlT3NZdDRRNUo0cWV4X25SR0JvN0Y1VHZwWkJ5UkZ4enBxVnh4VWI1cXVrVjhFNEFFRDM3Nm94ZXJB?oc=5)
+### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
 
-2026-09-16 <span class="news-indication-tag">enfermedad de Crohn</span>
+2026-09-15 <span class="news-indication-tag">copd</span>
 
-來源：[laopiniondezamora.es](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJHa3NRaDBnVG03bFFaalJ4OEhPRmdOMjA0amhjZ2c4VzdjVzZRVUc4T3JFMERNRkQwSkdISmZ1X05SamptTXVvYmlSQU0wNnAwSEFOWFl1M1hqbXlfZC01enVVTkg5WkhyNmNOVEtFZjVMTXBDWWpCc2ZDWTNWNG95aDYtTWRPMWMtZHAwMWJORnB6NDF3cUtrcTd4OXlKVlJ1NTc3WnjSAa4BQVVfeXFMTlFoV1pvTTJpSHNuZjk2MmxFdkgxeHJkVU1qTV9Wdnc5TVRNQS1zUURBUmI2NElhTHgwa1Q0bVp1YjMwN2x5X2FoRGQzZFQxXzZ2RERIZWtjRHU3LUY0cldRcTRRT3QyOXZicFlubTNpZjV0czZlT3NZdDRRNUo0cWV4X25SR0JvN0Y1VHZwWkJ5UkZ4enBxVnh4VWI1cXVrVjhFNEFFRDM3Nm94ZXJB?oc=5)
-
----
-
-### [Arzt rät zu Kapseln: „Mein Omega-3-Wert war katastrophal. Heute ist er optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
-
-2026-09-16 <span class="news-indication-tag">arthritis</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT29BOXFqSV82Nl8tMGlqdkc5ZzJOdDdXLUdHSUtQZnpVZk50NmozR2F6aFhfclNpS3JEZFF2SmxDNm0xNWhXZ1RpY0FrZ3l0LTRSN2s5dXVnekRUVG5hZzkyY1p5emwwaVpOYWM0ZHdFZEFVOVJXeUxnZWh3b2paeW1CUkRYRmw0TjJrWTJiVzM1U2JDWlA3UlhDYmVFWVo5YTlETkxmNHZFa3RjY2dTd3hmOG84N2JWdjY1RFVlZVNGRTNMSjRCbVlPeVU3ZzNBTXlhcjlPSQ?oc=5)
-
----
-
-### [Bauernhofeffekt: Stallbakterien könnten vor kindlichem Asthma schützen - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
 
 ---
 

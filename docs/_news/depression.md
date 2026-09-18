@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Depressione postpartum, impulsi magnetici al cervello: la terapia senza farmaci che sorprende i ricercatori](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPclk2SWNsVWJVdmhtSms0SlVQVW5UZVRic0FmUGIwd29tOHpUY1ZPWTlnY3ZFUV9GaXNwZlhSSVRaUlJtTlZ6TElPVmpUaWtCbWNxV0g5MUY0V0syM1lTd0JUaDdCQk5IQUNjUk1MUWRtOUoxaXFOT2ljQVNJWFpvU2pod3pKeEJtdzBQSmVnOXF3TDdrSGFaeXBjaTJOVlVmOEdKUWNRTlFJZTUtTjA2N2s5b2lscWc1U1ZKdm00NkZVUy1ZU2E1enhVQ1FTNnE3czZHVnEwSkQ5VHhfNExjUTA5M1N2Tmo0TEVFc3pLUFRuNHR5ay11MQ?oc=5)
 
 2026-09-17
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPclk2SWNsVWJVdmhtSms0SlVQVW5UZVRic0FmUGIwd29tOHpUY1ZPWTlnY3ZFUV9GaXNwZlhSSVRaUlJtTlZ6TElPVmpUaWtCbWNxV0g5MUY0V0syM1lTd0JUaDdCQk5IQUNjUk1MUWRtOUoxaXFOT2ljQVNJWFpvU2pod3pKeEJtdzBQSmVnOXF3TDdrSGFaeXBjaTJOVlVmOEdKUWNRTlFJZTUtTjA2N2s5b2lscWc1U1ZKdm00NkZVUy1ZU2E1enhVQ1FTNnE3czZHVnEwSkQ5VHhfNExjUTA5M1N2Tmo0TEVFc3pLUFRuNHR5ay11MQ?oc=5)
-
----
-
-### [Una patologia della pelle che logora i nervi, ma non è un'autostrada verso la depressione - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1pFTVl5SWFTUUctbEpad0I3dkhHa29uLV93R29nYVhrUEJENzhZY0JJMDdQRHFfa3RBQTFUcVFBWTZSUGwzSWlBZVp6S0xGaGRRSnRORUMyWkpmYjRWbFQ3YUpvbU1nd3lVdFR0THFuMk9VMGljSi1GUnNfbTBqWENEeU9IRUpKY1hISGRWMnk2aXQ5WmNpZjRzZDVsTG9vc0Y1RXFuNEZYRzczYm91enJR?oc=5)
-
-2026-09-17
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1pFTVl5SWFTUUctbEpad0I3dkhHa29uLV93R29nYVhrUEJENzhZY0JJMDdQRHFfa3RBQTFUcVFBWTZSUGwzSWlBZVp6S0xGaGRRSnRORUMyWkpmYjRWbFQ3YUpvbU1nd3lVdFR0THFuMk9VMGljSi1GUnNfbTBqWENEeU9IRUpKY1hISGRWMnk2aXQ5WmNpZjRzZDVsTG9vc0Y1RXFuNEZYRzczYm91enJR?oc=5)
 
 ---
 
@@ -61,11 +53,11 @@ permalink: /news/depression/
 
 ---
 
-### [I’m a doctor and take medical cannabis for my depression - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeGtnV1Z5SnFvZkRFNDM4NkNSZTBoMmxxVDlJMXJ0d0JBYlpJUnVvdUZKZzFwSkd3QUFhSXFtRlI0eWQ1QW9MYVh3MVVEOENrWWx2bVd1X1p3YWRKUkRtbGtGalhHMDRSVVZBWkhNQ29TRHNYdEFsYkdlcDYyNHlzVlJBWWFGU3JpUVdPN0d4NE5lM25DS29zODY3eU9xVE01UzhtSWVGS1l2ZkphemlaM0t0VQ?oc=5)
+### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
 
-2026-09-16
+2026-09-15
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeGtnV1Z5SnFvZkRFNDM4NkNSZTBoMmxxVDlJMXJ0d0JBYlpJUnVvdUZKZzFwSkd3QUFhSXFtRlI0eWQ1QW9MYVh3MVVEOENrWWx2bVd1X1p3YWRKUkRtbGtGalhHMDRSVVZBWkhNQ29TRHNYdEFsYkdlcDYyNHlzVlJBWWFGU3JpUVdPN0d4NE5lM25DS29zODY3eU9xVE01UzhtSWVGS1l2ZkphemlaM0t0VQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="Emtricitabine 有什麼相關新聞？">
-<strong>Emtricitabine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Emtricitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/emtricitabine/
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Tos ferina, hepatitis B y poliomielitis: la vacunación infantil retrocede en España - Diari ARA](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQU1KQkxpaS04bEFLNHJQNWt4WDh6WVpHd0w0NnhZeUZKbHA3T2gtdGF3YlVJTHVBZ2hWWmo1ZUxZU1kxMU5UV0Y5ZzBQN3R1YmxtODlQcHZPb0ZKYy0tbzdNOUw4bU00THBEajVjQzFVMmRzdkZ6UEJuODdLWEpxamlicXpfanNzOEpqN3hWTE1nUGNjTVdySF9fUmc2a1JKSEE2bkRoRUJhOHExX08wZjF0V1kyQ1lub1NlNko4Z9IBxAFBVV95cUxNOElLRk92cGVOcmI4U3loTHVaN2tIX2w1T00wakRzVUNxa0hEcFNJZ1A5Z2FfTlVMMUJiYzJTYUhlSlo5amJuUDlYTGd0aHc1MEx1azJJMDJSM05WdzluamVlUWVPMjExQzhxSHlvUEZmTXBmdDFDVTZQTFVsbGpJYnV6YU4wUDJodFBCaVlQUzRXNkRPbE1YalNncTg2Y1NCOHJYdzZINUR3ZDg5NVIxeUtlTzJ6Nzk5WlRGZ1piNE93QWxs?oc=5)
+
+2026-09-18 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Diari ARA](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQU1KQkxpaS04bEFLNHJQNWt4WDh6WVpHd0w0NnhZeUZKbHA3T2gtdGF3YlVJTHVBZ2hWWmo1ZUxZU1kxMU5UV0Y5ZzBQN3R1YmxtODlQcHZPb0ZKYy0tbzdNOUw4bU00THBEajVjQzFVMmRzdkZ6UEJuODdLWEpxamlicXpfanNzOEpqN3hWTE1nUGNjTVdySF9fUmc2a1JKSEE2bkRoRUJhOHExX08wZjF0V1kyQ1lub1NlNko4Z9IBxAFBVV95cUxNOElLRk92cGVOcmI4U3loTHVaN2tIX2w1T00wakRzVUNxa0hEcFNJZ1A5Z2FfTlVMMUJiYzJTYUhlSlo5amJuUDlYTGd0aHc1MEx1azJJMDJSM05WdzluamVlUWVPMjExQzhxSHlvUEZmTXBmdDFDVTZQTFVsbGpJYnV6YU4wUDJodFBCaVlQUzRXNkRPbE1YalNncTg2Y1NCOHJYdzZINUR3ZDg5NVIxeUtlTzJ6Nzk5WlRGZ1piNE93QWxs?oc=5)
+
+---
 
 
 <div class="disclaimer">
