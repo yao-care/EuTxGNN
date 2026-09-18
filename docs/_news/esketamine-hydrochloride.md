@@ -54,19 +54,19 @@ permalink: /news/esketamine-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [Depressione postpartum, impulsi magnetici al cervello: la terapia senza farmaci che sorprende i ricercatori](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPclk2SWNsVWJVdmhtSms0SlVQVW5UZVRic0FmUGIwd29tOHpUY1ZPWTlnY3ZFUV9GaXNwZlhSSVRaUlJtTlZ6TElPVmpUaWtCbWNxV0g5MUY0V0syM1lTd0JUaDdCQk5IQUNjUk1MUWRtOUoxaXFOT2ljQVNJWFpvU2pod3pKeEJtdzBQSmVnOXF3TDdrSGFaeXBjaTJOVlVmOEdKUWNRTlFJZTUtTjA2N2s5b2lscWc1U1ZKdm00NkZVUy1ZU2E1enhVQ1FTNnE3czZHVnEwSkQ5VHhfNExjUTA5M1N2Tmo0TEVFc3pLUFRuNHR5ay11MQ?oc=5)
+### [Reconciling the neurogenic hypothesis of depression with recent advances in adult hippocampal neurogenesis research in humans](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 2026-09-17 <span class="news-indication-tag">depression</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPclk2SWNsVWJVdmhtSms0SlVQVW5UZVRic0FmUGIwd29tOHpUY1ZPWTlnY3ZFUV9GaXNwZlhSSVRaUlJtTlZ6TElPVmpUaWtCbWNxV0g5MUY0V0syM1lTd0JUaDdCQk5IQUNjUk1MUWRtOUoxaXFOT2ljQVNJWFpvU2pod3pKeEJtdzBQSmVnOXF3TDdrSGFaeXBjaTJOVlVmOEdKUWNRTlFJZTUtTjA2N2s5b2lscWc1U1ZKdm00NkZVUy1ZU2E1enhVQ1FTNnE3czZHVnEwSkQ5VHhfNExjUTA5M1N2Tmo0TEVFc3pLUFRuNHR5ay11MQ?oc=5)
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 ---
 
-### [Urgent 'red flag' for Brits using Botox and fillers as experts give warning - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
+### [Urgent 'red flag' for Brits using Botox and fillers as experts give warning](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
 
 2026-09-16 <span class="news-indication-tag">depression</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="Rasburicase 有什麼相關新聞？">
-<strong>Rasburicase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasburicase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rasburicase/
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/rasburicase/
 
 ---
 
+### [Bluthochdruck: Nüsse senken Risiko nachweisbar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+---
+
 ### [Hypertension : 4 signes inattendus le matin !](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-來源：[medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

@@ -62,19 +62,19 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
-### [Desarrollan un mapa molecular de la miocardiopatía hipertrófica - Salud a Diario](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZTMlp4Nll3WEZFTzVEUlIxQjdCcUtzSGFpMzdaQTB3dExXcDFlQnZaZWJrX09pS3o3WXZSVzRRME14Wnl2bTBOT2J0b041ZHpQTzZKZkV5TTJ6dFZYVzR2emVGeF9XLTR0VWI3ZUJJVVI3U0RoYmh2bnRncEpST1JKS2Y2UWt0Nnd6TlNCTzk0WGVXNWlsVmtHWUo3dll3MlJ6Rg?oc=5)
-
-2026-09-18 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZTMlp4Nll3WEZFTzVEUlIxQjdCcUtzSGFpMzdaQTB3dExXcDFlQnZaZWJrX09pS3o3WXZSVzRRME14Wnl2bTBOT2J0b041ZHpQTzZKZkV5TTJ6dFZYVzR2emVGeF9XLTR0VWI3ZUJJVVI3U0RoYmh2bnRncEpST1JKS2Y2UWt0Nnd6TlNCTzk0WGVXNWlsVmtHWUo3dll3MlJ6Rg?oc=5)
-
----
-
 ### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+
+---
+
+### [Bluthochdruck: Nüsse senken Risiko nachweisbar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
-### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia'](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 2026-09-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 ---
 
@@ -112,7 +112,7 @@ permalink: /news/dacomitinib-monohydrate/
 
 ### [Eye scans detect signs of atrial fibrillation years before diagnosis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 
-2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 
@@ -122,7 +122,7 @@ permalink: /news/dacomitinib-monohydrate/
 
 2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-來源：[medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

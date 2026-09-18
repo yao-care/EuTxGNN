@@ -70,11 +70,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Being on fat jabs linked to 11-fold risk of deadly complication, shock probe suggests - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
+### [Being on fat jabs linked to 11-fold risk of deadly complication, shock probe suggests](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
 
 2026-09-16 <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
 
 ---
 

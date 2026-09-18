@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（15 則）
 
-### [Schwarzer und grüner Reis bremst gefährliche Blutzuckerspitzen – Forscher finden besondere Fette - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFBOc0F0NkROajRMWkN5OEtnRGZuQVBDRE9lN0lTTDdnMlFNX29hZ09jY25aVVFnd0tNejFmZnpFYVphRDg5RjZHVWlCZDNDMVJXeW5XSFNnSUNJYUdHZ2VwLTJGeG9NWHdZZjdEZGhnYzBDUTFMaXp5bXJVR2g1M2RwbzhmN0hqQ0FET2lSTTYzM0VYRkFhNWdPcUdfVm1NekJfcFMzdw?oc=5)
+### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
-2026-09-18 <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFBOc0F0NkROajRMWkN5OEtnRGZuQVBDRE9lN0lTTDdnMlFNX29hZ09jY25aVVFnd0tNejFmZnpFYVphRDg5RjZHVWlCZDNDMVJXeW5XSFNnSUNJYUdHZ2VwLTJGeG9NWHdZZjdEZGhnYzBDUTFMaXp5bXJVR2g1M2RwbzhmN0hqQ0FET2lSTTYzM0VYRkFhNWdPcUdfVm1NekJfcFMzdw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
 ---
 
-### [Disminuye cobertura vacunal en países de la Unión Europea: estudio en The Lancet](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
-2026-09-18 <span class="news-indication-tag">hepatitis</span>
+2026-09-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-來源：[lawebdelasalud.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Zu viel kann schaden: Kardiologin verrät wichtige Frage bei der Einnahme von Vitaminpräparaten](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZGQzMmNWVWFkell3MmRKWFFEMG40NWV2Tk9BMURIMDR1ZDlXV2x0Y1hpLTJoNHltMGE0Y0lRdlduTlhlRVZJcm9Oc0h4bE1zaUE5MlZ0S3FZeU1hNW1hdHY2aF9MbjBkVlNYZGFPbGNGRjM0eFNzWkxLYVZPNnNxbnFsZkRXMzBEZTVzbXVqRVMtSXVvMXpFTHVFOEFNcHFPSWtKQk51Tk4wdzktbG5aY25iRFc3Z3JsXzRDX3Q5U0RmMDZZclFKLUJpNjFQeGoydURWSDRNb0x4OFp0emRXbkVQYzl1OGVMdUpPUFFSQmdsVXBHdDVMQlk4bi1vSDlpYVV4TTlhMFlWVGFXT2c?oc=5)
+### [La vacunación infantil cae en la mayoría de países europeos - El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzMxX0FHYlg4S2F1VXhPeHNQdEJ3YVlFRVhuQ2JkNEt1bXV6WUg1YWxCdkxOWms4endmal82THJ0eGZkcE1jd252Y2paQVRJdGpXNUxTN2M1c2N4WGdMajVBLW1nVHlqQ09UWE95cEh1VkM0Ulp4NEFjM1QzcFctdmFBTzhUcWpTb0hjMl9CSWZBczV5U08yUGpkTjdQaDdPbHJiR3hSZ3VpSVNTN1RtaWF30gG3AUFVX3lxTE45Rks4cXh4QUJ0SmM1UFRnTjlGb1I1NF9TSTlWSnNXWHZ1UEk1dWs4RzFSSXo5aERBR0hhMGhDNlpMeUZmN3ZlVmVpSXl3cldWZzRnNE5jUEpiVS10eHhnSnVHd2M3YlpBaDByZmxaZUtFRGV5QVNxUjNLYXM3emRNRkpGOW5lbGY2aldSQncwREQwQlJQMUZ1ZUstM0htd0VUa3JUWUl2Q05JRGRBSk55ZjBjUDViYw?oc=5)
 
-2026-09-18 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">hepatitis</span>
 
-來源：[CHIP](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZGQzMmNWVWFkell3MmRKWFFEMG40NWV2Tk9BMURIMDR1ZDlXV2x0Y1hpLTJoNHltMGE0Y0lRdlduTlhlRVZJcm9Oc0h4bE1zaUE5MlZ0S3FZeU1hNW1hdHY2aF9MbjBkVlNYZGFPbGNGRjM0eFNzWkxLYVZPNnNxbnFsZkRXMzBEZTVzbXVqRVMtSXVvMXpFTHVFOEFNcHFPSWtKQk51Tk4wdzktbG5aY25iRFc3Z3JsXzRDX3Q5U0RmMDZZclFKLUJpNjFQeGoydURWSDRNb0x4OFp0emRXbkVQYzl1OGVMdUpPUFFSQmdsVXBHdDVMQlk4bi1vSDlpYVV4TTlhMFlWVGFXT2c?oc=5)
+來源：[El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzMxX0FHYlg4S2F1VXhPeHNQdEJ3YVlFRVhuQ2JkNEt1bXV6WUg1YWxCdkxOWms4endmal82THJ0eGZkcE1jd252Y2paQVRJdGpXNUxTN2M1c2N4WGdMajVBLW1nVHlqQ09UWE95cEh1VkM0Ulp4NEFjM1QzcFctdmFBTzhUcWpTb0hjMl9CSWZBczV5U08yUGpkTjdQaDdPbHJiR3hSZ3VpSVNTN1RtaWF30gG3AUFVX3lxTE45Rks4cXh4QUJ0SmM1UFRnTjlGb1I1NF9TSTlWSnNXWHZ1UEk1dWs4RzFSSXo5aERBR0hhMGhDNlpMeUZmN3ZlVmVpSXl3cldWZzRnNE5jUEpiVS10eHhnSnVHd2M3YlpBaDByZmxaZUtFRGV5QVNxUjNLYXM3emRNRkpGOW5lbGY2aldSQncwREQwQlJQMUZ1ZUstM0htd0VUa3JUWUl2Q05JRGRBSk55ZjBjUDViYw?oc=5)
 
 ---
 
@@ -90,7 +90,7 @@ permalink: /news/pibrentasvir/
 
 2026-09-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3VVhiVXREZ3p1a1pCVEtiZkhENFFvMVo4Mm9hbWhiNS03WEV4dTdwVHpVM3k3cG9pYlVibGhHY3JoeVJpUGpKSjVPOUpqSzJiWTlHdmM0QVpRXy1YRlQ2VGdoY3VzVUd0ZDV3ZVNCRjdpRkVhV3FuM2VOQXBwcTVzTDdGOHo1TnNka2ttejJIa0hwa2tyMU1QZkZxZ2tSTWdTeGFSdEFiSXItbzhlYnZmUjF5MlUtbDU3OXEzNTVnTktnanYyV1BudDNxTkZBZG5pb25MWWFaZk1MeU5xdWxSbDRrUDcteGZlbjBFNkhmR0Nt?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3VVhiVXREZ3p1a1pCVEtiZkhENFFvMVo4Mm9hbWhiNS03WEV4dTdwVHpVM3k3cG9pYlVibGhHY3JoeVJpUGpKSjVPOUpqSzJiWTlHdmM0QVpRXy1YRlQ2VGdoY3VzVUd0ZDV3ZVNCRjdpRkVhV3FuM2VOQXBwcTVzTDdGOHo1TnNka2ttejJIa0hwa2tyMU1QZkZxZ2tSTWdTeGFSdEFiSXItbzhlYnZmUjF5MlUtbDU3OXEzNTVnTktnanYyV1BudDNxTkZBZG5pb25MWWFaZk1MeU5xdWxSbDRrUDcteGZlbjBFNkhmR0Nt?oc=5)
 
 ---
 
@@ -106,7 +106,15 @@ permalink: /news/pibrentasvir/
 
 2026-09-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5)
+
+---
+
+### [Using ‘neurodivergent’ as a catch-all term is problematic – here’s why](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHBLXzdRMmllaXQ5M1dlNnJ3M0dSLTg5VURESlZaQlpSY0tPdGtRd1NJNm1YYTBacVJtWGhHR1VSbzY3eVJ0aGRzb1FodHpHRzU3Sk1JbjhhUEVOeDA2Q2lCRE1zbkJYUHVlWXRGZlgzWkZpa0FqSFBjMGZKOC1YczAtcFFnZEtsaS15SW14SWY1TjlfUFMxTFNmVE14WVpDa2c?oc=5)
+
+2026-09-17 <span class="news-indication-tag">MS</span>
+
+來源：[theconversation.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHBLXzdRMmllaXQ5M1dlNnJ3M0dSLTg5VURESlZaQlpSY0tPdGtRd1NJNm1YYTBacVJtWGhHR1VSbzY3eVJ0aGRzb1FodHpHRzU3Sk1JbjhhUEVOeDA2Q2lCRE1zbkJYUHVlWXRGZlgzWkZpa0FqSFBjMGZKOC1YczAtcFFnZEtsaS15SW14SWY1TjlfUFMxTFNmVE14WVpDa2c?oc=5)
 
 ---
 
@@ -114,7 +122,7 @@ permalink: /news/pibrentasvir/
 
 2026-09-17 <span class="news-indication-tag">sclerosi multipla</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
 
 ---
 
@@ -126,14 +134,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Bournemouth University study aims to cut veterans' dementia risk](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
-
-2026-09-17 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
-
----
-
 ### [A parasitic bug that eats human skin cells is thriving in the UK right now](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnR0VGtwRzQxY211bUkxXzRFaVF3cll3YXIwSXZVT1hGUm01aS1hZ0RNb2U5TklxV211dE10eGJrRjhrODBncmxTQXZqc3VYTkVPa1VPYW12Z2FvQnV0TDZSUkxUdTQ5TWQyY1l0bUlUY2hHS2xPNEJ4VHU1TF9BOV96T2JDblZEMV9BM0hZSzk5bGxrZ2lhVDZOdGxfeEtoMUE?oc=5)
 
 2026-09-17 <span class="news-indication-tag">MS</span>
@@ -142,19 +142,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [ADHD is linked to almost 50% increase in gut problems](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTg0eVMzbWt4T2l6SllGdHBYbnI4RHlMRERsOENDRndZcDJXQXZWT3JNaDR2elBPMXdpdmc2WE9tejdMZGFPZmkyTUJzbTNYVVdla2l5NVZtd3dZUHRWS3VCdUt6bXpTXzBPcW1SRlMzTWhNNEw1d0dfWmJZVG9KQ3pweEV1SHU0SjNUckNqMHdmNjN0SG5sbExxQQ?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTg0eVMzbWt4T2l6SllGdHBYbnI4RHlMRERsOENDRndZcDJXQXZWT3JNaDR2elBPMXdpdmc2WE9tejdMZGFPZmkyTUJzbTNYVVdla2l5NVZtd3dZUHRWS3VCdUt6bXpTXzBPcW1SRlMzTWhNNEw1d0dfWmJZVG9KQ3pweEV1SHU0SjNUckNqMHdmNjN0SG5sbExxQQ?oc=5)
-
----
-
 ### [Bangladesh measles outbreak kills more than 1,000 children despite vaccine efforts](https://news.google.com/rss/articles/CBMiXkFVX3lxTE96aW5iMTFjZVJmSk16Vm9BRlNhWDFNMlRHODB2dW5QUDRuaGZFblJOT1FnQ1RoRnFEX040QTZxNllfdXJjQ1d5M2JrdmhYZDFpQXkxRkltODV5cFEwUmc?oc=5)
 
 2026-09-17 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE96aW5iMTFjZVJmSk16Vm9BRlNhWDFNMlRHODB2dW5QUDRuaGZFblJOT1FnQ1RoRnFEX040QTZxNllfdXJjQ1d5M2JrdmhYZDFpQXkxRkltODV5cFEwUmc?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE96aW5iMTFjZVJmSk16Vm9BRlNhWDFNMlRHODB2dW5QUDRuaGZFblJOT1FnQ1RoRnFEX040QTZxNllfdXJjQ1d5M2JrdmhYZDFpQXkxRkltODV5cFEwUmc?oc=5)
 
 ---
 
@@ -166,19 +158,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Semaglutid: Gepoolte Analyse belegt Nierenschutz bei Risikopatienten](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
+### [Eye scans detect signs of atrial fibrillation years before diagnosis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 
-2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
-
----
-
-### [Drug firms’ secret data supercharge AI protein models](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlSVo1YjBNLU1rdE9KRjdMUEtxNnhFMUhYUlZtX3pvU1dpTzhrQ0trU1FFdzB5ODZNZ3VlQzYzOUlJNVlzMWlEUnBfX202dlBVLVJOM3JoSEg4WlJWZjh3?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlSVo1YjBNLU1rdE9KRjdMUEtxNnhFMUhYUlZtX3pvU1dpTzhrQ0trU1FFdzB5ODZNZ3VlQzYzOUlJNVlzMWlEUnBfX202dlBVLVJOM3JoSEg4WlJWZjh3?oc=5)
+來源：[News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 
 ---
 

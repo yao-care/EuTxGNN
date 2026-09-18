@@ -54,6 +54,22 @@ permalink: /news/epinephrine/
 
 ## 相關新聞（4 則）
 
+### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+
+2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+
+---
+
+### [So wird die COPD in 2026 therapiert](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
+
+2026-09-18 <span class="news-indication-tag">copd</span>
+
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
+
+---
+
 ### [Asthma-Diagnose bei Kindern – Die Aussicht auf eine frühere Asthmadiagnose lässt aufatmen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
 
 2026-09-18 <span class="news-indication-tag">asthma</span>
@@ -62,27 +78,11 @@ permalink: /news/epinephrine/
 
 ---
 
-### [Semaglutid: Gepoolte Analyse belegt Nierenschutz bei Risikopatienten](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
-
-2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
-
----
-
 ### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">asthma</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
-
----
-
-### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">copd</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
 
 ---
 

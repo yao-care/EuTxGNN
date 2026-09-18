@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiopatía（heart disease） 相關新聞"
+title: "cardiovascular disease（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "cardiopatía（heart disease） 的相關健康新聞報導。5 則新聞、57 個相關藥物。"
+description: "cardiovascular disease（heart disease） 的相關健康新聞報導。4 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# cardiopatía（heart disease） 相關新聞
+# cardiovascular disease（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
-<strong>cardiopatía（heart disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiovascular disease（heart disease） 有什麼相關新聞？">
+<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiovascular disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,15 +85,7 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [Desarrollan un mapa molecular de la miocardiopatía hipertrófica - Salud a Diario](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZTMlp4Nll3WEZFTzVEUlIxQjdCcUtzSGFpMzdaQTB3dExXcDFlQnZaZWJrX09pS3o3WXZSVzRRME14Wnl2bTBOT2J0b041ZHpQTzZKZkV5TTJ6dFZYVzR2emVGeF9XLTR0VWI3ZUJJVVI3U0RoYmh2bnRncEpST1JKS2Y2UWt0Nnd6TlNCTzk0WGVXNWlsVmtHWUo3dll3MlJ6Rg?oc=5)
-
-2026-09-18
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZTMlp4Nll3WEZFTzVEUlIxQjdCcUtzSGFpMzdaQTB3dExXcDFlQnZaZWJrX09pS3o3WXZSVzRRME14Wnl2bTBOT2J0b041ZHpQTzZKZkV5TTJ6dFZYVzR2emVGeF9XLTR0VWI3ZUJJVVI3U0RoYmh2bnRncEpST1JKS2Y2UWt0Nnd6TlNCTzk0WGVXNWlsVmtHWUo3dll3MlJ6Rg?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
@@ -103,11 +95,11 @@ permalink: /news/heart-disease/
 
 ---
 
-### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia'](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 2026-09-17
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 ---
 

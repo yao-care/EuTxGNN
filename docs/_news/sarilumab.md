@@ -54,6 +54,22 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（7 則）
 
+### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+
+2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+
+---
+
+### [So wird die COPD in 2026 therapiert](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
+
+2026-09-18 <span class="news-indication-tag">copd</span>
+
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
+
+---
+
 ### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
@@ -86,27 +102,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Semaglutid: Gepoolte Analyse belegt Nierenschutz bei Risikopatienten](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
-
-2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
-
----
-
 ### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">asthma</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
-
----
-
-### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">copd</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
 
 ---
 

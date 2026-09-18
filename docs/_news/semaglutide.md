@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
 
 ### [Herz: Diese Auswirkungen haben Cholesterin-Senker auf das Demenzrisiko](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
 
 2026-09-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
+
+---
+
+### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+
+2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
 ---
 
@@ -74,7 +82,7 @@ permalink: /news/semaglutide/
 
 2026-09-18 <span class="news-indication-tag">diabete</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
 
 ---
 
@@ -90,15 +98,23 @@ permalink: /news/semaglutide/
 
 2026-09-17 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
 ---
 
-### [Alle Diabetes-Patienten gegen Herpes zoster impfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+### [Alle Diabetes-Patienten gegen Herpes zoster impfen?](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+---
+
+### [Piede diabetico, dopo l’amputazione la mortalità è di 1 paziente su 4 entro un anno](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetic</span>
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
 
 ---
 
@@ -106,7 +122,15 @@ permalink: /news/semaglutide/
 
 2026-09-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
-來源：[ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+來源：[ansa.it](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+
+---
+
+### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine'](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+
+2026-09-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[aol.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
 
 ---
 

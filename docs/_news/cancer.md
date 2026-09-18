@@ -3,7 +3,7 @@ layout: default
 title: "Krebs（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Krebs（cancer） 的相關健康新聞報導。30 則新聞、229 個相關藥物。"
+description: "Krebs（cancer） 的相關健康新聞報導。31 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="Krebs（cancer） 有什麼相關新聞？">
-<strong>Krebs（cancer）</strong> 目前有 <strong>30 則</strong>相關新聞報導，229 個相關藥物。
+<strong>Krebs（cancer）</strong> 目前有 <strong>31 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,13 +257,29 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（31 則）
 
-### [Seltene Genmutation erklärt Lungenkrebs bei Nichtrauchern – Ansätze für gezielte Früherkennung](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUdHYXRaUEI1UG9pS2xJdW5QRGlOVUFZNjVoeGRZQmJBMEZVVmZqUHJwWjJhWTV0ck85LW5QaHc2VGx5aXFOTXg4ai1YUHE4Um1YeUFwdnVySFFyTXo1czFoSnMwMmRMSld1ZlhaLUxrZk0teFZsaEUyNXdOaHg2M2NDVmljTjFPVlg5N0ZwSENtLVFKQ1NmN0ZhM25hdTFsZkxCSnlQYWRXLWhja1dVQw?oc=5)
+### [Twenty women had breasts removed unnecessarily during NHS cancer care - The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQWF2MnNuZ3RfNHJDcXVHNTZQQ1ZDZGlLemxPOE9ZUVhFNFRzSHpJYzMwNGJ1RlVCcDgxb3dtVkZDRm5JRTNFQVJZS2NSRDZxbXdaa2x6dTRDRTB4S01lbU5MVkk2TFg2a1A5Xy1zc1QyMnV3X3FNRHNmNkpZNkpoQk53aHBMbG1LV1FQLUtXdFBPT2h2aTNvaGtsQ3h0c3dkOVZGWlhNTy0xcXRSRGxSY25qdTY4UGlBQ0xpc1ZSeWZTUHl3RkQ0emE1M0NkTU14?oc=5)
 
 2026-09-18
 
-來源：[HNA](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUdHYXRaUEI1UG9pS2xJdW5QRGlOVUFZNjVoeGRZQmJBMEZVVmZqUHJwWjJhWTV0ck85LW5QaHc2VGx5aXFOTXg4ai1YUHE4Um1YeUFwdnVySFFyTXo1czFoSnMwMmRMSld1ZlhaLUxrZk0teFZsaEUyNXdOaHg2M2NDVmljTjFPVlg5N0ZwSENtLVFKQ1NmN0ZhM25hdTFsZkxCSnlQYWRXLWhja1dVQw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQWF2MnNuZ3RfNHJDcXVHNTZQQ1ZDZGlLemxPOE9ZUVhFNFRzSHpJYzMwNGJ1RlVCcDgxb3dtVkZDRm5JRTNFQVJZS2NSRDZxbXdaa2x6dTRDRTB4S01lbU5MVkk2TFg2a1A5Xy1zc1QyMnV3X3FNRHNmNkpZNkpoQk53aHBMbG1LV1FQLUtXdFBPT2h2aTNvaGtsQ3h0c3dkOVZGWlhNTy0xcXRSRGxSY25qdTY4UGlBQ0xpc1ZSeWZTUHl3RkQ0emE1M0NkTU14?oc=5)
+
+---
+
+### [« Je lui ai promis d’écrire notre histoire » : Guy et son épouse ont combattu le même cancer, lui seul a survécu](https://news.google.com/rss/articles/CBMiigJBVV95cUxOV0Y1RXF0Qkk3SldFc0doYmpPM2haRngzMG9NV3FiYzBiMTVtYnUwOUJEX3E3UFJiR185WmNxT1Y1WGJFcXhwNmRCd2lzeE1ka3o1Y1FoVG5LQjQ4QTZwdXpqV3R1WDY0eG5leHZVaFdYZVdhOXpGUmZITTdvRjRWR3p5RkcwazJfU3d4ckxmWkRQQ2pwSE13eGkwWEI1c3RsbUtaVE1KMDdicHFiYXlDRzBCcml6SW13ZjBSTVBVLThwcFhQc2lFVHg5OGhfRXdvZ29aSlY3cjhYbGRVS3FqOXk2VGVyR1EtaHllSm5tYlJnY1dLWld2YlVObWZGOEVVUE9ldFBVN3BVdw?oc=5)
+
+2026-09-18
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMiigJBVV95cUxOV0Y1RXF0Qkk3SldFc0doYmpPM2haRngzMG9NV3FiYzBiMTVtYnUwOUJEX3E3UFJiR185WmNxT1Y1WGJFcXhwNmRCd2lzeE1ka3o1Y1FoVG5LQjQ4QTZwdXpqV3R1WDY0eG5leHZVaFdYZVdhOXpGUmZITTdvRjRWR3p5RkcwazJfU3d4ckxmWkRQQ2pwSE13eGkwWEI1c3RsbUtaVE1KMDdicHFiYXlDRzBCcml6SW13ZjBSTVBVLThwcFhQc2lFVHg5OGhfRXdvZ29aSlY3cjhYbGRVS3FqOXk2VGVyR1EtaHllSm5tYlJnY1dLWld2YlVObWZGOEVVUE9ldFBVN3BVdw?oc=5)
+
+---
+
+### [Seltene Genmutation erklärt Lungenkrebs bei Nichtrauchern – Ansätze für gezielte Früherkennung](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGotTnNGb3J3SlEyYWtOcDRCeERHZFRkYTE1MXhYMHE4TERQajRHOEtibHZuN1A0dW1YSnNoTjV2OUN1eXIwNEQzaWJ6UFVEYV95b0R1SHdFcTNXLU1VV1VNN3JSRmlTc3FPNDNMS2x4dlQxREZScmpraVNuVUVLNGp0dTJLbDc4cXo2WEFWMFUyeDhGbm9QME9pQ0hUUFBMSnlvX2I1OHZmNFBick5pYWxvLWhIUmw5bHBVNQ?oc=5)
+
+2026-09-18
+
+來源：[kreiszeitung.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGotTnNGb3J3SlEyYWtOcDRCeERHZFRkYTE1MXhYMHE4TERQajRHOEtibHZuN1A0dW1YSnNoTjV2OUN1eXIwNEQzaWJ6UFVEYV95b0R1SHdFcTNXLU1VV1VNN3JSRmlTc3FPNDNMS2x4dlQxREZScmpraVNuVUVLNGp0dTJLbDc4cXo2WEFWMFUyeDhGbm9QME9pQ0hUUFBMSnlvX2I1OHZmNFBick5pYWxvLWhIUmw5bHBVNQ?oc=5)
 
 ---
 
@@ -275,22 +291,6 @@ permalink: /news/cancer/
 
 ---
 
-### [Twenty women had breasts removed unnecessarily during NHS cancer care - The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQWF2MnNuZ3RfNHJDcXVHNTZQQ1ZDZGlLemxPOE9ZUVhFNFRzSHpJYzMwNGJ1RlVCcDgxb3dtVkZDRm5JRTNFQVJZS2NSRDZxbXdaa2x6dTRDRTB4S01lbU5MVkk2TFg2a1A5Xy1zc1QyMnV3X3FNRHNmNkpZNkpoQk53aHBMbG1LV1FQLUtXdFBPT2h2aTNvaGtsQ3h0c3dkOVZGWlhNTy0xcXRSRGxSY25qdTY4UGlBQ0xpc1ZSeWZTUHl3RkQ0emE1M0NkTU14?oc=5)
-
-2026-09-18
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQWF2MnNuZ3RfNHJDcXVHNTZQQ1ZDZGlLemxPOE9ZUVhFNFRzSHpJYzMwNGJ1RlVCcDgxb3dtVkZDRm5JRTNFQVJZS2NSRDZxbXdaa2x6dTRDRTB4S01lbU5MVkk2TFg2a1A5Xy1zc1QyMnV3X3FNRHNmNkpZNkpoQk53aHBMbG1LV1FQLUtXdFBPT2h2aTNvaGtsQ3h0c3dkOVZGWlhNTy0xcXRSRGxSY25qdTY4UGlBQ0xpc1ZSeWZTUHl3RkQ0emE1M0NkTU14?oc=5)
-
----
-
-### [Bluttest erkennt Pankreaskrebs schon im Frühstadium](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTnpicEgxLWlhTk45ZXBpV1FuLXJ4LVJJNkxXUzBDaUkzUmhvV1JwUWx4RjlhMW9QdjAxRDRwM1FISmIzbVlZQ1ByNDNxdThsaTBzY1h1RzZjWkQzZXduTl9ubHVrQy0zUXMwU25ITFZMVU8tWGRpcWo4Z2RiUWZmVTFZY2l0cDA0Vld6cllPLWJ5LUk?oc=5)
-
-2026-09-18
-
-來源：[Scinexx](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTnpicEgxLWlhTk45ZXBpV1FuLXJ4LVJJNkxXUzBDaUkzUmhvV1JwUWx4RjlhMW9QdjAxRDRwM1FISmIzbVlZQ1ByNDNxdThsaTBzY1h1RzZjWkQzZXduTl9ubHVrQy0zUXMwU25ITFZMVU8tWGRpcWo4Z2RiUWZmVTFZY2l0cDA0Vld6cllPLWJ5LUk?oc=5)
-
----
-
 ### [Des chercheurs ont connecté du tissu humain dans le cerveau de souris : ce qui s’est produit ensuite est inédit ! - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdmI0YzdNTVBnMkVBMnJ2akQwQVMzd3FpZ1NmTEh5eDFKMm1GVkdHaXVIRXpSSGVjYVlPaFNkX254Y3BybEdrVGRTMUp6R0lrV2g5Sm5xTml6WnRiekhpYVl0V0dYZzFpMmFiU3hvLV90NnZDVDhQakNUMDRIYnVtdmxYUE0yM0tLMTlwVUI0TzZOSk9ld2NxQVotZGV1aXRNYjlLRDRMX3dxSDJLcHJyUTQxcE5vMnlHbVF4SU5kNVgzWUd4ZGwwb3ctYmZEeVMwN09BOG1sUEFPdw?oc=5)
 
 2026-09-18
@@ -299,11 +299,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Darmkrebs: Dieser Pflanzenstoff zeigt vielversprechende Wirkung](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamJpRm9IX3Z0LS00S3NVeTB2SC0wOTVsZm83OFFmT1VGbjdEQ0VoV3Jlek5sX21fT2FKNjliWFUzNXA2RUMyTmpiMnNtSk1La3hJWFB3ZWd2enA0b1BhMzY3OE1JNHFhcEhvbDdFUkFFYm9hX19CLXBGZU16ckdCQjYtd0Y2eE5Vbk45TG1OVTZaYW03b2NocTNFemQ0SUpiT0h3aThna1lZV01qcXVoZERtclhCVVBWTzdLaEtpX2o?oc=5)
+### [El tumor letal que crece entre mujeres y jóvenes: así se está transformando el cáncer de pulmón](https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUlrTkZZUG1wWWtTdUNRS3R6VGQwUkxQc3NSLTdCUlFNMkk1YU1qNDg2cHVkRWRyMWdLS1NBZkNhVlVjcWtTcmthY2V2U3lwbG9fTUhUS05pbmJjSFVWaUN6WS0yX1h2NnJRS05uUUI2eWVwVjB3Y3FhVmJDaTRrQzhScWtPcTBNaGI2VE5YYlhOa3ZIM3BHRnlKaUVGRnRVTml3cXVjTWpLdDVxUXBwY0ZwOE94V3V0dE9NRlpkV1hnYkt2V1Y00gHMAUFVX3lxTE9YeUlacDBzVzZUdWxTZUloVU9wWURPSWJuN1dDRkFRM0JrZTM0QjZsZTcxQ2NobFhHTk93NFRvVFpBd3QwY2h0UWRDZmMxUUdvZml6aE51aU8xRmRrdmh4MU8xOFhvemJXOWMyRkJFdDdyZWlvcDZxZ0NDb0w0WlphcXFOODVoamJTMnpqMlZCVzJsTDlkWlFraU5pUWtYVkVxTUFxUTd3WXBjVnpTcjFTU1lST25iMnNFZlFnaXBVT2QxNVZsbnE4UDZoUw?oc=5)
 
 2026-09-18
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamJpRm9IX3Z0LS00S3NVeTB2SC0wOTVsZm83OFFmT1VGbjdEQ0VoV3Jlek5sX21fT2FKNjliWFUzNXA2RUMyTmpiMnNtSk1La3hJWFB3ZWd2enA0b1BhMzY3OE1JNHFhcEhvbDdFUkFFYm9hX19CLXBGZU16ckdCQjYtd0Y2eE5Vbk45TG1OVTZaYW03b2NocTNFemQ0SUpiT0h3aThna1lZV01qcXVoZERtclhCVVBWTzdLaEtpX2o?oc=5)
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUlrTkZZUG1wWWtTdUNRS3R6VGQwUkxQc3NSLTdCUlFNMkk1YU1qNDg2cHVkRWRyMWdLS1NBZkNhVlVjcWtTcmthY2V2U3lwbG9fTUhUS05pbmJjSFVWaUN6WS0yX1h2NnJRS05uUUI2eWVwVjB3Y3FhVmJDaTRrQzhScWtPcTBNaGI2VE5YYlhOa3ZIM3BHRnlKaUVGRnRVTml3cXVjTWpLdDVxUXBwY0ZwOE94V3V0dE9NRlpkV1hnYkt2V1Y00gHMAUFVX3lxTE9YeUlacDBzVzZUdWxTZUloVU9wWURPSWJuN1dDRkFRM0JrZTM0QjZsZTcxQ2NobFhHTk93NFRvVFpBd3QwY2h0UWRDZmMxUUdvZml6aE51aU8xRmRrdmh4MU8xOFhvemJXOWMyRkJFdDdyZWlvcDZxZ0NDb0w0WlphcXFOODVoamJTMnpqMlZCVzJsTDlkWlFraU5pUWtYVkVxTUFxUTd3WXBjVnpTcjFTU1lST25iMnNFZlFnaXBVT2QxNVZsbnE4UDZoUw?oc=5)
 
 ---
 
@@ -335,7 +335,15 @@ permalink: /news/cancer/
 
 2026-09-18
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTEl3YVZzLUY3T2h1WVFmT3ZCWkNoUE1GNEpwSm1VVGRYcmRrSUR3aktUZ1VobEZfU0VYUzBqNUx0XzVyMkFxU2xRZG5hRVdkcEpXRHhiak95Z1FUd0VvOWR0bndqZFo2N192R0pia3A4Y1JOeGxpcm9oRnMxaWQ4aTFHTHc2clZZLTAtT0hrMGpac1BpUWxpZ19mcU1ieXpoNDZOR09yUEhFeFNhUTd5U1lLMDFwZE9MWERQZWczVUZlZGVOTjhGT3JkOHc5TlA1Sy1uRUZJUURsbmdzNnFkTzJ1bw?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTEl3YVZzLUY3T2h1WVFmT3ZCWkNoUE1GNEpwSm1VVGRYcmRrSUR3aktUZ1VobEZfU0VYUzBqNUx0XzVyMkFxU2xRZG5hRVdkcEpXRHhiak95Z1FUd0VvOWR0bndqZFo2N192R0pia3A4Y1JOeGxpcm9oRnMxaWQ4aTFHTHc2clZZLTAtT0hrMGpac1BpUWxpZ19mcU1ieXpoNDZOR09yUEhFeFNhUTd5U1lLMDFwZE9MWERQZWczVUZlZGVOTjhGT3JkOHc5TlA1Sy1uRUZJUURsbmdzNnFkTzJ1bw?oc=5)
+
+---
+
+### [Neuer Bluttest erkennt Pankreaskrebs im Frühstadium - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUExjX29PZW9SYmhrMHROS1FuMktSdEVpN1RLTmNLSmI0elpjQVNEUmFQc0w4aTQxTjNVZDU2cTNTWVktTVJGUlBPNmRiUlgyaVJ5UzVWby16Q0taNVBaQzcxNlNqbUxhdGlGQzhhU0JobUhXQUE5TEIzaF9ibm1jZ0NrVkd5SmVEdkJzQw?oc=5)
+
+2026-09-18
+
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUExjX29PZW9SYmhrMHROS1FuMktSdEVpN1RLTmNLSmI0elpjQVNEUmFQc0w4aTQxTjNVZDU2cTNTWVktTVJGUlBPNmRiUlgyaVJ5UzVWby16Q0taNVBaQzcxNlNqbUxhdGlGQzhhU0JobUhXQUE5TEIzaF9ibm1jZ0NrVkd5SmVEdkJzQw?oc=5)
 
 ---
 
@@ -367,7 +375,7 @@ permalink: /news/cancer/
 
 2026-09-17
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3VVhiVXREZ3p1a1pCVEtiZkhENFFvMVo4Mm9hbWhiNS03WEV4dTdwVHpVM3k3cG9pYlVibGhHY3JoeVJpUGpKSjVPOUpqSzJiWTlHdmM0QVpRXy1YRlQ2VGdoY3VzVUd0ZDV3ZVNCRjdpRkVhV3FuM2VOQXBwcTVzTDdGOHo1TnNka2ttejJIa0hwa2tyMU1QZkZxZ2tSTWdTeGFSdEFiSXItbzhlYnZmUjF5MlUtbDU3OXEzNTVnTktnanYyV1BudDNxTkZBZG5pb25MWWFaZk1MeU5xdWxSbDRrUDcteGZlbjBFNkhmR0Nt?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3VVhiVXREZ3p1a1pCVEtiZkhENFFvMVo4Mm9hbWhiNS03WEV4dTdwVHpVM3k3cG9pYlVibGhHY3JoeVJpUGpKSjVPOUpqSzJiWTlHdmM0QVpRXy1YRlQ2VGdoY3VzVUd0ZDV3ZVNCRjdpRkVhV3FuM2VOQXBwcTVzTDdGOHo1TnNka2ttejJIa0hwa2tyMU1QZkZxZ2tSTWdTeGFSdEFiSXItbzhlYnZmUjF5MlUtbDU3OXEzNTVnTktnanYyV1BudDNxTkZBZG5pb25MWWFaZk1MeU5xdWxSbDRrUDcteGZlbjBFNkhmR0Nt?oc=5)
 
 ---
 
@@ -387,6 +395,14 @@ permalink: /news/cancer/
 
 ---
 
+### [Landes. Au centre hospitalier de Mont-de-Marsan, la radioactivité utilisée pour détruire les métastases des cancers de la prostate](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZHhDQ3JzRm9QZ0tXOWlHcUtLaFBoZHZ2eHhyVFpoc1laNk1CRlZVc1ZKcTNwWW9teEQyRmw2YjlNZ3pWQ3QwbWw2Z2lpYU91LXpLbmNPQktWUDJqLV9Kdkpzc3dHS3FtTkJYXzlZdGVyalB2VlpVaERhOUN5ZlFWTE81aHNMNjNnVzdTeHVtMkJwTUtweE5wWTRCaDVHT18zeE1GVUVHTGtoakcxV1R0cEJrQV8yNmUydjdUeEhPallvUmJtWlBUQzlwUEZHOFFvOFRJeFIwcGZEQVpSOXNkZFBNR19RZ1JlWVYyTC03aldsZXFmd0hONG53VlpPc1RwVGd2VlBlMjh3a3FHOEFNOUV0N0t6dw?oc=5)
+
+2026-09-17
+
+來源：[sudouest.fr](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZHhDQ3JzRm9QZ0tXOWlHcUtLaFBoZHZ2eHhyVFpoc1laNk1CRlZVc1ZKcTNwWW9teEQyRmw2YjlNZ3pWQ3QwbWw2Z2lpYU91LXpLbmNPQktWUDJqLV9Kdkpzc3dHS3FtTkJYXzlZdGVyalB2VlpVaERhOUN5ZlFWTE81aHNMNjNnVzdTeHVtMkJwTUtweE5wWTRCaDVHT18zeE1GVUVHTGtoakcxV1R0cEJrQV8yNmUydjdUeEhPallvUmJtWlBUQzlwUEZHOFFvOFRJeFIwcGZEQVpSOXNkZFBNR19RZ1JlWVYyTC03aldsZXFmd0hONG53VlpPc1RwVGd2VlBlMjh3a3FHOEFNOUV0N0t6dw?oc=5)
+
+---
+
 ### [Giornata prevenzione tumori testa e collo, i dati in Italia - Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1otQXRrQWRzeWQ1cmNTQjhiXzB0aXNjS2tkVjV5RHJtWEs2Rkdwem1TYnJzQlQ1aEtYWHY1TmZqVG1ZRlNqNVFfczB1WmJ4N3htM1Y5UklFLV9QYUZiUVNGRXNiLXdNVFZZa0ZURUtoTGlmWnY3TlpwWUl5SExobmI3cGh2aGdVc0E?oc=5)
 
 2026-09-17
@@ -395,19 +411,11 @@ permalink: /news/cancer/
 
 ---
 
-### [„Ich kann nicht mehr träumen“ – Berlinerin kämpft gegen Darmkrebs im Stadium 4 - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGs2MmN4R1hHc2UxaXYzUTZTNkZwcHQxWXZYT25BQ0Zjam5RX2UxSGU5Ylh3N2dvWWdZMzBmaEdBc1lua0FZYmFWNXc3Y1ZVMjJpTmdKWWVqaUFHZGQ3Y3ZwOFZ2OG9iQVRoWk45Y3ZMRzB5OEpKamdpaU9sQXhRcVFmX0s5TnZtNTEtR08wTWdlTVFXakkyX250R3JiTHljSWJsWU9SZ29HZktBdFNZQ0FqdFpwdUhCdzhrZXhoV1BYTW0wN0ZDTTNFcURfdFVn?oc=5)
-
-2026-09-17
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGs2MmN4R1hHc2UxaXYzUTZTNkZwcHQxWXZYT25BQ0Zjam5RX2UxSGU5Ylh3N2dvWWdZMzBmaEdBc1lua0FZYmFWNXc3Y1ZVMjJpTmdKWWVqaUFHZGQ3Y3ZwOFZ2OG9iQVRoWk45Y3ZMRzB5OEpKamdpaU9sQXhRcVFmX0s5TnZtNTEtR08wTWdlTVFXakkyX250R3JiTHljSWJsWU9SZ29HZktBdFNZQ0FqdFpwdUhCdzhrZXhoV1BYTW0wN0ZDTTNFcURfdFVn?oc=5)
-
----
-
 ### [Tumore del pancreas, un esame del sangue individua quasi 9 casi iniziali su 10](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTzhzeHdMRDVqbmhaaWhrMkpFR2ZnSGxxcWZkdVNsa0NTUmJOczFhSE5lamUwNXVJWGpSSnBrUjE0Y3RhdFF1OEdNN0REYmNxT2xkbmNyZHZXbFo0bzc3S2h2cTFaRWktbUFibE53TXI0U0R6ZVFDbS1qelhzekhtZl9yMTctamJ5b1JSa2VScTQ0MUpfUGJDRG9BUjJpTkFmbEUtc2dnTEhTcVVTblh4Z1pSYl84eVFvVlU5Um03dXZlSUVxMTd6djB0RjlZbVdEandj?oc=5)
 
 2026-09-17
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTzhzeHdMRDVqbmhaaWhrMkpFR2ZnSGxxcWZkdVNsa0NTUmJOczFhSE5lamUwNXVJWGpSSnBrUjE0Y3RhdFF1OEdNN0REYmNxT2xkbmNyZHZXbFo0bzc3S2h2cTFaRWktbUFibE53TXI0U0R6ZVFDbS1qelhzekhtZl9yMTctamJ5b1JSa2VScTQ0MUpfUGJDRG9BUjJpTkFmbEUtc2dnTEhTcVVTblh4Z1pSYl84eVFvVlU5Um03dXZlSUVxMTd6djB0RjlZbVdEandj?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTzhzeHdMRDVqbmhaaWhrMkpFR2ZnSGxxcWZkdVNsa0NTUmJOczFhSE5lamUwNXVJWGpSSnBrUjE0Y3RhdFF1OEdNN0REYmNxT2xkbmNyZHZXbFo0bzc3S2h2cTFaRWktbUFibE53TXI0U0R6ZVFDbS1qelhzekhtZl9yMTctamJ5b1JSa2VScTQ0MUpfUGJDRG9BUjJpTkFmbEUtc2dnTEhTcVVTblh4Z1pSYl84eVFvVlU5Um03dXZlSUVxMTd6djB0RjlZbVdEandj?oc=5)
 
 ---
 
@@ -423,7 +431,7 @@ permalink: /news/cancer/
 
 2026-09-17
 
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVVJycDVkZ1RKSldoOWt2MEVUM0hFVVBmU18yMWVGTjJyLXFWOXdUcldCajRNSFdCeENSdDBNcXVDanJIck5hbEF4Nlg3OG1rZWpRWU0tVHhQeWlQU2RuSVM4b3NOd3BSMVVnNjU2VEQ1MDhPa09XZzdhM2luRHg3X2ktOFlKbTd2MmZ1aW9Ca0d4UThGMF9pYk9MOGhLZEVTM2hic3BJRi1DSWlPR0FpNlZyeFhKei1Wb2x0TGphem9WRlVOcFdKRXBQbE9aeGtkNWFTS05PZHJNQURDR0FiVVg3MGdGRTBOSlRjRDJR?oc=5)
+來源：[my-personaltrainer.it](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVVJycDVkZ1RKSldoOWt2MEVUM0hFVVBmU18yMWVGTjJyLXFWOXdUcldCajRNSFdCeENSdDBNcXVDanJIck5hbEF4Nlg3OG1rZWpRWU0tVHhQeWlQU2RuSVM4b3NOd3BSMVVnNjU2VEQ1MDhPa09XZzdhM2luRHg3X2ktOFlKbTd2MmZ1aW9Ca0d4UThGMF9pYk9MOGhLZEVTM2hic3BJRi1DSWlPR0FpNlZyeFhKei1Wb2x0TGphem9WRlVOcFdKRXBQbE9aeGtkNWFTS05PZHJNQURDR0FiVVg3MGdGRTBOSlRjRDJR?oc=5)
 
 ---
 
@@ -431,7 +439,7 @@ permalink: /news/cancer/
 
 2026-09-17
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nNlJJT3ZYWjhKV3FPcXFrVGo0RVJ3U0lZdGdUblJfSTgyNkFpQlFCeUZkdk9vSjF4WWo0ZmNVa185VWhHUlllUEJ2aVp4Z2RvRldzbmsyTWktRkJhX2c?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nNlJJT3ZYWjhKV3FPcXFrVGo0RVJ3U0lZdGdUblJfSTgyNkFpQlFCeUZkdk9vSjF4WWo0ZmNVa185VWhHUlllUEJ2aVp4Z2RvRldzbmsyTWktRkJhX2c?oc=5)
 
 ---
 
@@ -447,7 +455,7 @@ permalink: /news/cancer/
 
 2026-09-17
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybk9iM0VNRUhQUjZYTDFzNGhKcEZDbFpJUjFCMjU2dVpqVnUtZ0tqd2hhVzhvbl9oNGlTX1FPUTRORzZkYWNFMDFpRndCX3Vrbm9PNWJRMnlldEhQMlE?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybk9iM0VNRUhQUjZYTDFzNGhKcEZDbFpJUjFCMjU2dVpqVnUtZ0tqd2hhVzhvbl9oNGlTX1FPUTRORzZkYWNFMDFpRndCX3Vrbm9PNWJRMnlldEhQMlE?oc=5)
 
 ---
 
@@ -455,7 +463,15 @@ permalink: /news/cancer/
 
 2026-09-16
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHdLbkRhNjhFdTA4T09ERmVFTVUwSGQ0b01IMGhNLU9qbTYyVFdYNHJEMlFxUXBCamw3eTJZanpHRzl0UmpuRDJmdjBDM2w0SUxMd3JzOGtwS2M0TTB5VHViNGpLNzMyRmJYZWg5TnR0LURWUk02X3pXMnEwNW9yNjEycDFTTUhUbHU4Qkw0NTB3NTlLUWp2VUVmR04yZFpFclJtYi1NVHFRektHUmZUOHltT0VHeFNFUS1mbmpkUWhwdERtaWNneldRSFZGSHc?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHdLbkRhNjhFdTA4T09ERmVFTVUwSGQ0b01IMGhNLU9qbTYyVFdYNHJEMlFxUXBCamw3eTJZanpHRzl0UmpuRDJmdjBDM2w0SUxMd3JzOGtwS2M0TTB5VHViNGpLNzMyRmJYZWg5TnR0LURWUk02X3pXMnEwNW9yNjEycDFTTUhUbHU4Qkw0NTB3NTlLUWp2VUVmR04yZFpFclJtYi1NVHFRektHUmZUOHltT0VHeFNFUS1mbmpkUWhwdERtaWNneldRSFZGSHc?oc=5)
+
+---
+
+### [Junge Menschen altern biologisch schneller – mit Folgen für das Krebsrisiko](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVJybUNoRUF1ZWhxenV4MXB3ZFc0M0c3NE92NmgxR2hsWmJFSVhJa085SDVIV0FXaVdrWGotRTRFTkVOVGFsNmxCeG1Zb2JaMkdIYnc2Y2JkUnVzMDRqWEUyN3dKSTlSTU11WHJOekEwam85M1NmUGg4TjdCZGpMaTdGRjc1Q3J5TThIZmd1TEJicVJiTUNPMGN1OUo1LTliU3djSUxMVFlMYWM2R1VF?oc=5)
+
+2026-09-16
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVJybUNoRUF1ZWhxenV4MXB3ZFc0M0c3NE92NmgxR2hsWmJFSVhJa085SDVIV0FXaVdrWGotRTRFTkVOVGFsNmxCeG1Zb2JaMkdIYnc2Y2JkUnVzMDRqWEUyN3dKSTlSTU11WHJOekEwam85M1NmUGg4TjdCZGpMaTdGRjc1Q3J5TThIZmd1TEJicVJiTUNPMGN1OUo1LTliU3djSUxMVFlMYWM2R1VF?oc=5)
 
 ---
 
@@ -464,14 +480,6 @@ permalink: /news/cancer/
 2026-09-16
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWZsZEJFTWo5WXdFdGJxWUpYNWFmbzVDcE41VjhZbFJjSmQ1YnVYV3JrZ04tU0oxMmJkYnNja3NaLXZPM05sV0E3dkJKU3l4bS1EMlU2bnhRaXoxTnNUOFpZVUVZVGdjNWhUMFkwSWpGeGpSdUdWNy05Z1lmWDg3V2MxZnRuN2JwNGlOR2VEN01VX1lHUFVPdUhlcDVrY2FMVXhDSERwV1ZfYi1SVFMwdNIBtgFBVV95cUxNS24zWnFXSFRvTlczbkZ3RGdFcG8yU1lCM1VyZHNLZ193S1pPb3NUbXB2WkdfcU5ldDZYUV9VeVpKVmxuS0xnTTEwX3RicXlJbFNwdm55QlFFZXRpZkF0RkdSSXVjNDRXMWJKcVV6OFlQTVFsQ21xaUFiaHh3ZjJJQmFSMGNKdXEwbHRib2h5My1MN1lKenBIbmswZFBET0x6ci1DN2Z6Q0liaWFuZTVTV0VsVnlVZw?oc=5)
-
----
-
-### [Zirkulierende Tumor-DNA ändert sich während der mCRPC-Behandlung - Biermann Medizin](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHRuTmlUaWhUZF96aW9pOGJldjI3MGNJX2RabXZvMXFpYTFoYWJGdW0wemVqSEtEUTd1X0pTYXhzZDZ0LUJMc05TUDdYRmpKMnNxZ1gwR0c0bEYzNDRTU2pYTHpXWjF1WkY2SDhuZ3AxdG8yTGlIUnkxLWtRbkhhRkZaZFotWGpQWUltX2dsemdaaXpsQlJKLVVybw?oc=5)
-
-2026-09-16
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHRuTmlUaWhUZF96aW9pOGJldjI3MGNJX2RabXZvMXFpYTFoYWJGdW0wemVqSEtEUTd1X0pTYXhzZDZ0LUJMc05TUDdYRmpKMnNxZ1gwR0c0bEYzNDRTU2pYTHpXWjF1WkY2SDhuZ3AxdG8yTGlIUnkxLWtRbkhhRkZaZFotWGpQWUltX2dsemdaaXpsQlJKLVVybw?oc=5)
 
 ---
 
@@ -491,11 +499,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Hot coffee could cause oesophageal cancer - The Economist](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnROOXFSQTh6bXRNcWwxNXhjeVVXMmY0RXJOUEVFNk9WS2NaUlhRRE1UMDdLUzk2d3dBWFFzaVd2VW9PeFBFZXBfNEVFbHVTTXM3TWktdm43UHVvNC1MLTRYc3lzVGN1eWFpY2lSMVBHYmFVelY4eWE0amFEX1AydGdFWnJjODlYMkdWa0FhN1VGLXBtS09QRS1aaWRQUlVudjhr?oc=5)
+### [«È iniziato con un mal di testa: oggi ho 28 anni, sto morendo e vorrei più tempo da vivere con mio figlio» - Il Mattino](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdTVGNlZJN19EVm0tcTZVbFJGM0ktVW1NUWRJZ3RFYjNSWU05MjFoMDROMjJVaXVFblJxNVhKQVVCYjFnMFFFTDRNT3h1VWJBdkpLZ0ZtOXVpT1gxRWctamxyQmU5TGdmLUZlMi00SkQxUm9fSnF3Zkl5WGw1S09WSEJhT0NwZUJtOEpEcnZHOExDRWZxYVBV0gGcAUFVX3lxTFBwYUZHd3NUV1lKeFhpVlJMT1hKN2x2c2RQU3Q1WmRSUjhhMW5yakZLMTFXdVA4TnJvSTNKcXR1MGYwNWxVT3R4NzU5bDBaSUxjb0dudUVPWGgzRVZUUFJqRXVSRTNRZms0Y2tvQlEwdVdiZU04ZHdGQkoydXpIbXJrTl9xcmczZWhFVXgzaXN1VWVRS3ZVQ2FzZ3h2Sg?oc=5)
 
-2026-09-11
+2026-09-12
 
-來源：[The Economist](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnROOXFSQTh6bXRNcWwxNXhjeVVXMmY0RXJOUEVFNk9WS2NaUlhRRE1UMDdLUzk2d3dBWFFzaVd2VW9PeFBFZXBfNEVFbHVTTXM3TWktdm43UHVvNC1MLTRYc3lzVGN1eWFpY2lSMVBHYmFVelY4eWE0amFEX1AydGdFWnJjODlYMkdWa0FhN1VGLXBtS09QRS1aaWRQUlVudjhr?oc=5)
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdTVGNlZJN19EVm0tcTZVbFJGM0ktVW1NUWRJZ3RFYjNSWU05MjFoMDROMjJVaXVFblJxNVhKQVVCYjFnMFFFTDRNT3h1VWJBdkpLZ0ZtOXVpT1gxRWctamxyQmU5TGdmLUZlMi00SkQxUm9fSnF3Zkl5WGw1S09WSEJhT0NwZUJtOEpEcnZHOExDRWZxYVBV0gGcAUFVX3lxTFBwYUZHd3NUV1lKeFhpVlJMT1hKN2x2c2RQU3Q1WmRSUjhhMW5yakZLMTFXdVA4TnJvSTNKcXR1MGYwNWxVT3R4NzU5bDBaSUxjb0dudUVPWGgzRVZUUFJqRXVSRTNRZms0Y2tvQlEwdVdiZU04ZHdGQkoydXpIbXJrTl9xcmczZWhFVXgzaXN1VWVRS3ZVQ2FzZ3h2Sg?oc=5)
 
 ---
 
