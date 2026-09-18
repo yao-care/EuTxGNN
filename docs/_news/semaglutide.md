@@ -62,19 +62,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+
+2026-09-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+
+---
+
 ### [Glicemia, il sensore vede ciò che gli esami non mostrano? Segnali su pressione e colesterolo anche senza diabete](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
 
 2026-09-18 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
-
----
-
-### [El uso de GLP-1 en niños con obesidad se dispara en EE.UU.: “Se reservan para quienes tienen mayor riesgo inmediato”](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUld6b2ZhV3hUUGhyT21Xa3lJRk5Pc0tGaEp0ajlFRlNCcVhfRFoxY1pqT255dldQMUNiUjVSUGhTbzBLZFkzTzEzMGZncVMxemxQcUU2XzFFeFZESThDZ3I1SkJWMk9yaDNNTG45U25nbWk3NVVidUhEdEk2N3NSOVNtTHhLM1BEeGRRZVVFTDY1MGxiOW5zTzJITHFxdmdJYUFIbzc2SmJoYTY0NEkyRFFJWWVVWDdYSEhvbkxkQ1NwMVYtbG5sejVSdWhOd2pENUNkdjBCVTU?oc=5)
-
-2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUld6b2ZhV3hUUGhyT21Xa3lJRk5Pc0tGaEp0ajlFRlNCcVhfRFoxY1pqT255dldQMUNiUjVSUGhTbzBLZFkzTzEzMGZncVMxemxQcUU2XzFFeFZESThDZ3I1SkJWMk9yaDNNTG45U25nbWk3NVVidUhEdEk2N3NSOVNtTHhLM1BEeGRRZVVFTDY1MGxiOW5zTzJITHFxdmdJYUFIbzc2SmJoYTY0NEkyRFFJWWVVWDdYSEhvbkxkQ1NwMVYtbG5sejVSdWhOd2pENUNkdjBCVTU?oc=5)
 
 ---
 

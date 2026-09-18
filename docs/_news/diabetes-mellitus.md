@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,21 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Herz: Diese Auswirkungen haben Cholesterin-Senker auf das Demenzrisiko](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
 
 2026-09-18
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
+
+---
+
+### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+
+2026-09-18
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
 
 ---
 

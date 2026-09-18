@@ -14,7 +14,7 @@ permalink: /news/sitagliptin/
 ---
 
 <p class="key-answer" data-question="Sitagliptin 有什麼相關新聞？">
-<strong>Sitagliptin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Sitagliptin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ permalink: /news/sitagliptin/
 <p><a href="{{ '/drugs/sitagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Herz: Diese Auswirkungen haben Cholesterin-Senker auf das Demenzrisiko](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
 
 2026-09-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
+
+---
+
+### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+
+2026-09-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
 
 ---
 

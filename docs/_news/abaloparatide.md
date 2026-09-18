@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Herz: Diese Auswirkungen haben Cholesterin-Senker auf das Demenzrisiko](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
 
 2026-09-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
+
+---
+
+### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+
+2026-09-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
 
 ---
 
@@ -94,27 +102,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [La Asociación Española de Migraña (Aemice) lo confirma: solo el 12% de las personas que sufren la enfermedad se sienten comprendidas por su entorno - El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOVWZhWWl2R3c4MnFSMHJ3Rk1TYlhtbno3anhPQXFyUC1SODYzc1piTEo2S29DRjJ2bFpkN21RZ3I2QjItRjROTkhSODk2WDQ2eUE1bGwteVQ5dC1Pb08xdFJMdUZHN3FUM0Vrem1fRUxpWS0tQXNaUmJjMWE5cTFaSjhodXpGSVI2SWtyVWdOODlobFVjelVNMkNvYmRFSWp3QWpHZTVhanJEZFBYd1lLYks4TWJJVGQyd3FycXo3WU9rempfbWRKZjVSc01DV0JZOFVhU0prQmFjV05rVkVESDZIc1l0OHV6WHJHQWI3YUFsREFuSTBIUU1uWVg2VjVKN1F6N3ZNc1ZKUFl5SnBxaG55NmZOc0Fhem5ERExnb2laMkxNTnk0eEZZZ1ZNaG1OQjdNa01aMkNPWjB00gGnAkFVX3lxTFBRNnlhNnN5ZUpaUnhTTi03Vnd4dHFibGNQdmh2VGRPWEZ4a19UaGdjODVTbk1BSGpSSmlMS3R4RERvdWxXaUhfbUU1SnkwZVdITWhXekFYVlRiS2tDRng0SS02azk4NkZFNmhjcE8zeWN5XzVMWl9XS3lza244QW5BY0hqNkxTak5jZ0xZeFJLVVkyRDd4VkowWFNsRmFpdk5SajhRZV9hYkJsYnFWWVNVRDk3a094ai1PdDlRdHdZRmxNbkFmRkRoS1RYeW41NWlCTDZva2dlcDZLUmUtSml0QzctbWsyclFHcG5iNEJpaDA2aW9vZUVjS3JLNGM2eG5xTzNXdW95S2xhMVZXR0hDSTByYnVRRURTWmstZm5Yblk4czlCSjA?oc=5)
-
-2026-09-17 <span class="news-indication-tag">migraña</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOVWZhWWl2R3c4MnFSMHJ3Rk1TYlhtbno3anhPQXFyUC1SODYzc1piTEo2S29DRjJ2bFpkN21RZ3I2QjItRjROTkhSODk2WDQ2eUE1bGwteVQ5dC1Pb08xdFJMdUZHN3FUM0Vrem1fRUxpWS0tQXNaUmJjMWE5cTFaSjhodXpGSVI2SWtyVWdOODlobFVjelVNMkNvYmRFSWp3QWpHZTVhanJEZFBYd1lLYks4TWJJVGQyd3FycXo3WU9rempfbWRKZjVSc01DV0JZOFVhU0prQmFjV05rVkVESDZIc1l0OHV6WHJHQWI3YUFsREFuSTBIUU1uWVg2VjVKN1F6N3ZNc1ZKUFl5SnBxaG55NmZOc0Fhem5ERExnb2laMkxNTnk0eEZZZ1ZNaG1OQjdNa01aMkNPWjB00gGnAkFVX3lxTFBRNnlhNnN5ZUpaUnhTTi03Vnd4dHFibGNQdmh2VGRPWEZ4a19UaGdjODVTbk1BSGpSSmlMS3R4RERvdWxXaUhfbUU1SnkwZVdITWhXekFYVlRiS2tDRng0SS02azk4NkZFNmhjcE8zeWN5XzVMWl9XS3lza244QW5BY0hqNkxTak5jZ0xZeFJLVVkyRDd4VkowWFNsRmFpdk5SajhRZV9hYkJsYnFWWVNVRDk3a094ai1PdDlRdHdZRmxNbkFmRkRoS1RYeW41NWlCTDZva2dlcDZLUmUtSml0QzctbWsyclFHcG5iNEJpaDA2aW9vZUVjS3JLNGM2eG5xTzNXdW95S2xhMVZXR0hDSTByYnVRRURTWmstZm5Yblk4czlCSjA?oc=5)
-
----
-
 ### [Oltre 300mila casi di diabete in E-R, Fiaso:"Tra le regioni più colpite del Nord"](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
 
 2026-09-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
-
----
-
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
 
 ---
 

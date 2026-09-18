@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,11 +85,11 @@ permalink: /news/hypertension/
 
 ## 相關新聞（2 則）
 
-### [Brits urged to eat 9 foods for lower blood pressure - Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzN0TFdnVXNGNFNUUnFoRVRWendwLThYTkdKYnZsT0F6emtEUmpIY3k2cWZTNjdzUVM0bjlaZU5CS1VxczJNRkhMSkNTZ3hzNmNnYUstM0FpQzhTYlVmT005RzVSdXhMd1lGeTF5cjNxTC1vWFV6VmFEZWROajktcWhKOHHSAYoBQVVfeXFMTnNOa1k5VXJ4LXBNSWlRRXFNS3VuZmRiZV9adnJfSlhBY2wxT0trYUwteVNCUDNCOWdxX3cxSlFzdS1WOVZxMFNyUTVDTUhhMjd3X21DWHlSQ3l0SHpvYWdzN05HcmJ0UllaQTk5MjVndkFrQTZIS3pTN3d3YmRjTkk1azNMMV9zZkJB?oc=5)
+### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
-2026-09-17
+2026-09-18
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzN0TFdnVXNGNFNUUnFoRVRWendwLThYTkdKYnZsT0F6emtEUmpIY3k2cWZTNjdzUVM0bjlaZU5CS1VxczJNRkhMSkNTZ3hzNmNnYUstM0FpQzhTYlVmT005RzVSdXhMd1lGeTF5cjNxTC1vWFV6VmFEZWROajktcWhKOHHSAYoBQVVfeXFMTnNOa1k5VXJ4LXBNSWlRRXFNS3VuZmRiZV9adnJfSlhBY2wxT0trYUwteVNCUDNCOWdxX3cxSlFzdS1WOVZxMFNyUTVDTUhhMjd3X21DWHlSQ3l0SHpvYWdzN05HcmJ0UllaQTk5MjVndkFrQTZIS3pTN3d3YmRjTkk1azNMMV9zZkJB?oc=5)
+來源：[Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
 ---
 
@@ -97,7 +97,7 @@ permalink: /news/hypertension/
 
 2026-09-14
 
-來源：[Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
+來源：[medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

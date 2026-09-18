@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Desarrollan un mapa molecular de la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHN1a0VKOExyRDMzRDdYc0k1bGZqVmIwbjNWS1k0NGZNOWhVa0k5UXZJOWgwS3MxODdiU05QS0t4andERndqWm92YnMzNDdQbWZEZEpZSDhxR01pVFV5bGhXM2ttWUJlX3dqWE5ybDR0ZVU2UWpiS1l4QmRRQ0p5NjhUSmVKdXY1QXZ4QWdwcnBfSDh0VEFzUkZDdUg5V3Vi?oc=5)
+### [Desarrollan un mapa molecular de la miocardiopatía hipertrófica - Salud a Diario](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZTMlp4Nll3WEZFTzVEUlIxQjdCcUtzSGFpMzdaQTB3dExXcDFlQnZaZWJrX09pS3o3WXZSVzRRME14Wnl2bTBOT2J0b041ZHpQTzZKZkV5TTJ6dFZYVzR2emVGeF9XLTR0VWI3ZUJJVVI3U0RoYmh2bnRncEpST1JKS2Y2UWt0Nnd6TlNCTzk0WGVXNWlsVmtHWUo3dll3MlJ6Rg?oc=5)
 
 2026-09-18 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Sinc](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHN1a0VKOExyRDMzRDdYc0k1bGZqVmIwbjNWS1k0NGZNOWhVa0k5UXZJOWgwS3MxODdiU05QS0t4andERndqWm92YnMzNDdQbWZEZEpZSDhxR01pVFV5bGhXM2ttWUJlX3dqWE5ybDR0ZVU2UWpiS1l4QmRRQ0p5NjhUSmVKdXY1QXZ4QWdwcnBfSDh0VEFzUkZDdUg5V3Vi?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZTMlp4Nll3WEZFTzVEUlIxQjdCcUtzSGFpMzdaQTB3dExXcDFlQnZaZWJrX09pS3o3WXZSVzRRME14Wnl2bTBOT2J0b041ZHpQTzZKZkV5TTJ6dFZYVzR2emVGeF9XLTR0VWI3ZUJJVVI3U0RoYmh2bnRncEpST1JKS2Y2UWt0Nnd6TlNCTzk0WGVXNWlsVmtHWUo3dll3MlJ6Rg?oc=5)
 
 ---
 
@@ -86,27 +86,11 @@ permalink: /news/rimegepant/
 
 ---
 
-### [La Asociación Española de Migraña (Aemice) lo confirma: solo el 12% de las personas que sufren la enfermedad se sienten comprendidas por su entorno - El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOVWZhWWl2R3c4MnFSMHJ3Rk1TYlhtbno3anhPQXFyUC1SODYzc1piTEo2S29DRjJ2bFpkN21RZ3I2QjItRjROTkhSODk2WDQ2eUE1bGwteVQ5dC1Pb08xdFJMdUZHN3FUM0Vrem1fRUxpWS0tQXNaUmJjMWE5cTFaSjhodXpGSVI2SWtyVWdOODlobFVjelVNMkNvYmRFSWp3QWpHZTVhanJEZFBYd1lLYks4TWJJVGQyd3FycXo3WU9rempfbWRKZjVSc01DV0JZOFVhU0prQmFjV05rVkVESDZIc1l0OHV6WHJHQWI3YUFsREFuSTBIUU1uWVg2VjVKN1F6N3ZNc1ZKUFl5SnBxaG55NmZOc0Fhem5ERExnb2laMkxNTnk0eEZZZ1ZNaG1OQjdNa01aMkNPWjB00gGnAkFVX3lxTFBRNnlhNnN5ZUpaUnhTTi03Vnd4dHFibGNQdmh2VGRPWEZ4a19UaGdjODVTbk1BSGpSSmlMS3R4RERvdWxXaUhfbUU1SnkwZVdITWhXekFYVlRiS2tDRng0SS02azk4NkZFNmhjcE8zeWN5XzVMWl9XS3lza244QW5BY0hqNkxTak5jZ0xZeFJLVVkyRDd4VkowWFNsRmFpdk5SajhRZV9hYkJsYnFWWVNVRDk3a094ai1PdDlRdHdZRmxNbkFmRkRoS1RYeW41NWlCTDZva2dlcDZLUmUtSml0QzctbWsyclFHcG5iNEJpaDA2aW9vZUVjS3JLNGM2eG5xTzNXdW95S2xhMVZXR0hDSTByYnVRRURTWmstZm5Yblk4czlCSjA?oc=5)
-
-2026-09-17 <span class="news-indication-tag">migraña</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOVWZhWWl2R3c4MnFSMHJ3Rk1TYlhtbno3anhPQXFyUC1SODYzc1piTEo2S29DRjJ2bFpkN21RZ3I2QjItRjROTkhSODk2WDQ2eUE1bGwteVQ5dC1Pb08xdFJMdUZHN3FUM0Vrem1fRUxpWS0tQXNaUmJjMWE5cTFaSjhodXpGSVI2SWtyVWdOODlobFVjelVNMkNvYmRFSWp3QWpHZTVhanJEZFBYd1lLYks4TWJJVGQyd3FycXo3WU9rempfbWRKZjVSc01DV0JZOFVhU0prQmFjV05rVkVESDZIc1l0OHV6WHJHQWI3YUFsREFuSTBIUU1uWVg2VjVKN1F6N3ZNc1ZKUFl5SnBxaG55NmZOc0Fhem5ERExnb2laMkxNTnk0eEZZZ1ZNaG1OQjdNa01aMkNPWjB00gGnAkFVX3lxTFBRNnlhNnN5ZUpaUnhTTi03Vnd4dHFibGNQdmh2VGRPWEZ4a19UaGdjODVTbk1BSGpSSmlMS3R4RERvdWxXaUhfbUU1SnkwZVdITWhXekFYVlRiS2tDRng0SS02azk4NkZFNmhjcE8zeWN5XzVMWl9XS3lza244QW5BY0hqNkxTak5jZ0xZeFJLVVkyRDd4VkowWFNsRmFpdk5SajhRZV9hYkJsYnFWWVNVRDk3a094ai1PdDlRdHdZRmxNbkFmRkRoS1RYeW41NWlCTDZva2dlcDZLUmUtSml0QzctbWsyclFHcG5iNEJpaDA2aW9vZUVjS3JLNGM2eG5xTzNXdW95S2xhMVZXR0hDSTByYnVRRURTWmstZm5Yblk4czlCSjA?oc=5)
-
----
-
 ### [The heart disease symptoms women mistake for stress, indigestion or menopause - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
 
 2026-09-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
-
----
-
-### [Emicrania, curarla migliora anche ansia e depressione? La meta-analisi su 3.603 persone](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
-
-2026-09-15 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdE1RdFpYdnM1VE4xaG1pTHpaUTFnV0NWN3NudmxfbzlNQ1V0UGlGOVBVNDZVeXB2SkpjMjgxc1BRa0x4dTlHRWplUmhfcjNqRlljQUhvc2V0akxFTEJUcFo4S205TE04eUtIVWVoUVVZSlVRSW12ZG1JRHdqb2lrX0IxYUJBX2FtbDZxLVh6WWtlckJXX1IxSWtrWnFZbFRWaE55azZPNTAzNk13eS0tcXdDMW1IY3ZETlJNaUhGS2ZYNUk2VVRDTnNmMGRMZzVsUE02Ukh1Q1IwNGVhU0E?oc=5)
 
 ---
 

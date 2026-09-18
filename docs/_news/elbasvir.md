@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,53 +52,45 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（17 則）
 
-### [La Comunidad Valenciana inicia el 28 de septiembre la campaña de inmunización frente a los virus respiratorios para población vulnerable - Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3NIMUxubUZ2TnFkX3dHRHZmekZXbE5yX1JhNDhDQ2plT2VkQUE4MldaUzBrQ2xyUThMNmhVMG9kV2xNQkgyVWZ3aUhGSnhsZ0VRekZVYlRzWTJfaWU2dnJDdXZ5dkxYY1l5bXBlTmxYOG5ZcHE0SlhqS3dLcjN5dTlJYmZ0bmJQMVBIWDh5SEVyY3FpcG9lQnpzY1kwZkVPUWc1c2RQSTZmNDdmQmNB?oc=5)
-
-2026-09-18 <span class="news-indication-tag">MS</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3NIMUxubUZ2TnFkX3dHRHZmekZXbE5yX1JhNDhDQ2plT2VkQUE4MldaUzBrQ2xyUThMNmhVMG9kV2xNQkgyVWZ3aUhGSnhsZ0VRekZVYlRzWTJfaWU2dnJDdXZ5dkxYY1l5bXBlTmxYOG5ZcHE0SlhqS3dLcjN5dTlJYmZ0bmJQMVBIWDh5SEVyY3FpcG9lQnpzY1kwZkVPUWc1c2RQSTZmNDdmQmNB?oc=5)
-
----
-
-### [MSP considered taking own life over chronic pain](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxWDZLQV9XMmJoaEtMOU8wbi1LNmx6VGJpQzJWQ25fNzlISVJsMUFXTTRJbVhfQWJ3YTNxUnhrNDI4eUhTQ2laSFJhNkpfUERvbmNCRDNvQ0t2RVA1elE?oc=5)
+### [Schwarzer und grüner Reis bremst gefährliche Blutzuckerspitzen – Forscher finden besondere Fette - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFBOc0F0NkROajRMWkN5OEtnRGZuQVBDRE9lN0lTTDdnMlFNX29hZ09jY25aVVFnd0tNejFmZnpFYVphRDg5RjZHVWlCZDNDMVJXeW5XSFNnSUNJYUdHZ2VwLTJGeG9NWHdZZjdEZGhnYzBDUTFMaXp5bXJVR2g1M2RwbzhmN0hqQ0FET2lSTTYzM0VYRkFhNWdPcUdfVm1NekJfcFMzdw?oc=5)
 
 2026-09-18 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxWDZLQV9XMmJoaEtMOU8wbi1LNmx6VGJpQzJWQ25fNzlISVJsMUFXTTRJbVhfQWJ3YTNxUnhrNDI4eUhTQ2laSFJhNkpfUERvbmNCRDNvQ0t2RVA1elE?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFBOc0F0NkROajRMWkN5OEtnRGZuQVBDRE9lN0lTTDdnMlFNX29hZ09jY25aVVFnd0tNejFmZnpFYVphRDg5RjZHVWlCZDNDMVJXeW5XSFNnSUNJYUdHZ2VwLTJGeG9NWHdZZjdEZGhnYzBDUTFMaXp5bXJVR2g1M2RwbzhmN0hqQ0FET2lSTTYzM0VYRkFhNWdPcUdfVm1NekJfcFMzdw?oc=5)
 
 ---
 
-### [La batalla invisible: el reto de convivir contra la enfermedad de las mil caras en Zamora - El Norte de Castilla](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNml1VkRKaGxmbTV0bnkzTXNHYnAwNW95S25ORC1mTk11aUhFNS1qckJtSE9vNzhzSmtYZjBUUXRIN2FBdktFNmdxbkhBOFNzMzBLTEFLdEw1NUREMlRHSVNRUXZ5TTZQbG1Ga2ZGcmxCNTJNc1lnWTJNYTB0Nmw3N082R2JuOFVwbWlsLThRZzBUdnRXS0lSdVcwUFBRLWdSSXVGWU1CM1R4RFZHWGVxRzUzVkpJTjFfbW0tSU1uMNIBxAFBVV95cUxNOWFCWEZmX1pOVEoyX1JqTTMzQmtRMURmYndKNGxtWkpDbmlsTDRQTWttRXdNbGt5NEh6R2JaZWstUngxaXRYeTYwZXFRUDFDeE5EZWc4NHRjRUVkLWJmdXdJTmdWWjZuM01oUXVhSF9vV09MRGkyc1VEWXBNbVo2bzJTUF92RFBUSHlmTGNucFVfSXBJam9TNnYtZjUydkx0VGRaTDZQbm9zb2gtWGpuX0NPR3Q5V3F5U2ZZYXNpNFpkTWVP?oc=5)
-
-2026-09-18 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNml1VkRKaGxmbTV0bnkzTXNHYnAwNW95S25ORC1mTk11aUhFNS1qckJtSE9vNzhzSmtYZjBUUXRIN2FBdktFNmdxbkhBOFNzMzBLTEFLdEw1NUREMlRHSVNRUXZ5TTZQbG1Ga2ZGcmxCNTJNc1lnWTJNYTB0Nmw3N082R2JuOFVwbWlsLThRZzBUdnRXS0lSdVcwUFBRLWdSSXVGWU1CM1R4RFZHWGVxRzUzVkpJTjFfbW0tSU1uMNIBxAFBVV95cUxNOWFCWEZmX1pOVEoyX1JqTTMzQmtRMURmYndKNGxtWkpDbmlsTDRQTWttRXdNbGt5NEh6R2JaZWstUngxaXRYeTYwZXFRUDFDeE5EZWc4NHRjRUVkLWJmdXdJTmdWWjZuM01oUXVhSF9vV09MRGkyc1VEWXBNbVo2bzJTUF92RFBUSHlmTGNucFVfSXBJam9TNnYtZjUydkx0VGRaTDZQbm9zb2gtWGpuX0NPR3Q5V3F5U2ZZYXNpNFpkTWVP?oc=5)
-
----
-
-### [Tos ferina, hepatitis B y poliomielitis: la vacunación infantil retrocede en España - Diari ARA](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQU1KQkxpaS04bEFLNHJQNWt4WDh6WVpHd0w0NnhZeUZKbHA3T2gtdGF3YlVJTHVBZ2hWWmo1ZUxZU1kxMU5UV0Y5ZzBQN3R1YmxtODlQcHZPb0ZKYy0tbzdNOUw4bU00THBEajVjQzFVMmRzdkZ6UEJuODdLWEpxamlicXpfanNzOEpqN3hWTE1nUGNjTVdySF9fUmc2a1JKSEE2bkRoRUJhOHExX08wZjF0V1kyQ1lub1NlNko4Z9IBxAFBVV95cUxNOElLRk92cGVOcmI4U3loTHVaN2tIX2w1T00wakRzVUNxa0hEcFNJZ1A5Z2FfTlVMMUJiYzJTYUhlSlo5amJuUDlYTGd0aHc1MEx1azJJMDJSM05WdzluamVlUWVPMjExQzhxSHlvUEZmTXBmdDFDVTZQTFVsbGpJYnV6YU4wUDJodFBCaVlQUzRXNkRPbE1YalNncTg2Y1NCOHJYdzZINUR3ZDg5NVIxeUtlTzJ6Nzk5WlRGZ1piNE93QWxs?oc=5)
+### [Disminuye cobertura vacunal en países de la Unión Europea: estudio en The Lancet](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
 
 2026-09-18 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Diari ARA](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQU1KQkxpaS04bEFLNHJQNWt4WDh6WVpHd0w0NnhZeUZKbHA3T2gtdGF3YlVJTHVBZ2hWWmo1ZUxZU1kxMU5UV0Y5ZzBQN3R1YmxtODlQcHZPb0ZKYy0tbzdNOUw4bU00THBEajVjQzFVMmRzdkZ6UEJuODdLWEpxamlicXpfanNzOEpqN3hWTE1nUGNjTVdySF9fUmc2a1JKSEE2bkRoRUJhOHExX08wZjF0V1kyQ1lub1NlNko4Z9IBxAFBVV95cUxNOElLRk92cGVOcmI4U3loTHVaN2tIX2w1T00wakRzVUNxa0hEcFNJZ1A5Z2FfTlVMMUJiYzJTYUhlSlo5amJuUDlYTGd0aHc1MEx1azJJMDJSM05WdzluamVlUWVPMjExQzhxSHlvUEZmTXBmdDFDVTZQTFVsbGpJYnV6YU4wUDJodFBCaVlQUzRXNkRPbE1YalNncTg2Y1NCOHJYdzZINUR3ZDg5NVIxeUtlTzJ6Nzk5WlRGZ1piNE93QWxs?oc=5)
+來源：[lawebdelasalud.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
 
 ---
 
-### [Plan to limit NHS diagnoses of ADHD attacked as ‘rationing’ healthcare - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVdsaENiVGlZQmJpdnZQYnBuRkswLWpOLUY3ZjdxUzVFWDF1VVJJdnJvZHMxaGJGMjN3VmJpWHlkZVVKQk5GLUg5WHNCVXRBVm9iN2hqRzZnZDE4VEVGNHh6U0Vwd1NNeEUwQ05iTDR5anppT2pHWmhXaGJwS0tlcGRwUWNCLTlTb05QUHlhTDh1d05sem5zNkhLX2xhanVLVF93azIzRmxNWGRrYTBVd2hmSWI?oc=5)
+### [RDC confirma más de 3.600 muertos por el brote de ébola declarado a mediados de mayo, con casi 7.500 casos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeE9jeUlYR2paWFUxY3YxTzYyQVNpQ3RtNU53LVNBbl9POVl6V2tBemRxTjBaMjdyZURyUHhBazJrTWhab3doS0JIaXpuVFFsSXdUa2xYaXNSNjU0Tkk0WE5JdGxucDVTNzlPTUFoanAteGhnUGFjVUFQaFhiTFVfa0ZsZmF5MXdETlcyaVZNX0JJdnVoMmdGYzg2b3pjbG9DdGJBeUx5QUdDb1J5Ymt0OVRpMTZnNjRocFMzYzNWTWtZREhlZmlpZEpHMTRsWDczeVdqTEFLVVlIczVLbUJqcVJ6R251c2tjdGFaY2lBc3BLWkhPS0E?oc=5)
 
-2026-09-18 <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVdsaENiVGlZQmJpdnZQYnBuRkswLWpOLUY3ZjdxUzVFWDF1VVJJdnJvZHMxaGJGMjN3VmJpWHlkZVVKQk5GLUg5WHNCVXRBVm9iN2hqRzZnZDE4VEVGNHh6U0Vwd1NNeEUwQ05iTDR5anppT2pHWmhXaGJwS0tlcGRwUWNCLTlTb05QUHlhTDh1d05sem5zNkhLX2xhanVLVF93azIzRmxNWGRrYTBVd2hmSWI?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeE9jeUlYR2paWFUxY3YxTzYyQVNpQ3RtNU53LVNBbl9POVl6V2tBemRxTjBaMjdyZURyUHhBazJrTWhab3doS0JIaXpuVFFsSXdUa2xYaXNSNjU0Tkk0WE5JdGxucDVTNzlPTUFoanAteGhnUGFjVUFQaFhiTFVfa0ZsZmF5MXdETlcyaVZNX0JJdnVoMmdGYzg2b3pjbG9DdGJBeUx5QUdDb1J5Ymt0OVRpMTZnNjRocFMzYzNWTWtZREhlZmlpZEpHMTRsWDczeVdqTEFLVVlIczVLbUJqcVJ6R251c2tjdGFaY2lBc3BLWkhPS0E?oc=5)
 
 ---
 
-### [La vaccination des enfants en recul dans plusieurs pays d’Europe depuis la pandémie de Covid-19, selon une étude - Le Monde.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWRMNnZKeUVBUERPZ0ZBc1lKMmVzYWxnLU11SGxGZklQWU1mUS1uek4wUEx4cHc3NE9obHpJb19LcDdtdnhIc0staTh0WlVNRjRaWkh1RGlOVmlKaVJGYXhkUV9BWWlhMzlRNS1VZjB6N1R3aHRsSWFNVGhmVzlmdmpIaWx6ZFdaNF9jTlBDRGZHcTgtd0hfN2FKRXNuVnFPNHJCaXhvZS01NTRDSDg0NERZY1FoTXZMRVNWMnlBSDY4Q2UxaHdLRU15RGVRSVEtRnFEcFAwaVM0WWZVa2lXLXJ3?oc=5)
+### [Zu viel kann schaden: Kardiologin verrät wichtige Frage bei der Einnahme von Vitaminpräparaten](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZGQzMmNWVWFkell3MmRKWFFEMG40NWV2Tk9BMURIMDR1ZDlXV2x0Y1hpLTJoNHltMGE0Y0lRdlduTlhlRVZJcm9Oc0h4bE1zaUE5MlZ0S3FZeU1hNW1hdHY2aF9MbjBkVlNYZGFPbGNGRjM0eFNzWkxLYVZPNnNxbnFsZkRXMzBEZTVzbXVqRVMtSXVvMXpFTHVFOEFNcHFPSWtKQk51Tk4wdzktbG5aY25iRFc3Z3JsXzRDX3Q5U0RmMDZZclFKLUJpNjFQeGoydURWSDRNb0x4OFp0emRXbkVQYzl1OGVMdUpPUFFSQmdsVXBHdDVMQlk4bi1vSDlpYVV4TTlhMFlWVGFXT2c?oc=5)
 
-2026-09-18 <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWRMNnZKeUVBUERPZ0ZBc1lKMmVzYWxnLU11SGxGZklQWU1mUS1uek4wUEx4cHc3NE9obHpJb19LcDdtdnhIc0staTh0WlVNRjRaWkh1RGlOVmlKaVJGYXhkUV9BWWlhMzlRNS1VZjB6N1R3aHRsSWFNVGhmVzlmdmpIaWx6ZFdaNF9jTlBDRGZHcTgtd0hfN2FKRXNuVnFPNHJCaXhvZS01NTRDSDg0NERZY1FoTXZMRVNWMnlBSDY4Q2UxaHdLRU15RGVRSVEtRnFEcFAwaVM0WWZVa2lXLXJ3?oc=5)
+來源：[CHIP](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZGQzMmNWVWFkell3MmRKWFFEMG40NWV2Tk9BMURIMDR1ZDlXV2x0Y1hpLTJoNHltMGE0Y0lRdlduTlhlRVZJcm9Oc0h4bE1zaUE5MlZ0S3FZeU1hNW1hdHY2aF9MbjBkVlNYZGFPbGNGRjM0eFNzWkxLYVZPNnNxbnFsZkRXMzBEZTVzbXVqRVMtSXVvMXpFTHVFOEFNcHFPSWtKQk51Tk4wdzktbG5aY25iRFc3Z3JsXzRDX3Q5U0RmMDZZclFKLUJpNjFQeGoydURWSDRNb0x4OFp0emRXbkVQYzl1OGVMdUpPUFFSQmdsVXBHdDVMQlk4bi1vSDlpYVV4TTlhMFlWVGFXT2c?oc=5)
+
+---
+
+### [Tumore al polmone senza aver mai fumato: la mutazione ereditaria che moltiplica per oltre 60 il rischio](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3VVhiVXREZ3p1a1pCVEtiZkhENFFvMVo4Mm9hbWhiNS03WEV4dTdwVHpVM3k3cG9pYlVibGhHY3JoeVJpUGpKSjVPOUpqSzJiWTlHdmM0QVpRXy1YRlQ2VGdoY3VzVUd0ZDV3ZVNCRjdpRkVhV3FuM2VOQXBwcTVzTDdGOHo1TnNka2ttejJIa0hwa2tyMU1QZkZxZ2tSTWdTeGFSdEFiSXItbzhlYnZmUjF5MlUtbDU3OXEzNTVnTktnanYyV1BudDNxTkZBZG5pb25MWWFaZk1MeU5xdWxSbDRrUDcteGZlbjBFNkhmR0Nt?oc=5)
+
+2026-09-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3VVhiVXREZ3p1a1pCVEtiZkhENFFvMVo4Mm9hbWhiNS03WEV4dTdwVHpVM3k3cG9pYlVibGhHY3JoeVJpUGpKSjVPOUpqSzJiWTlHdmM0QVpRXy1YRlQ2VGdoY3VzVUd0ZDV3ZVNCRjdpRkVhV3FuM2VOQXBwcTVzTDdGOHo1TnNka2ttejJIa0hwa2tyMU1QZkZxZ2tSTWdTeGFSdEFiSXItbzhlYnZmUjF5MlUtbDU3OXEzNTVnTktnanYyV1BudDNxTkZBZG5pb25MWWFaZk1MeU5xdWxSbDRrUDcteGZlbjBFNkhmR0Nt?oc=5)
 
 ---
 
@@ -110,17 +102,9 @@ permalink: /news/elbasvir/
 
 ---
 
-### [La Unión Africana niega que el brote de ébola haya alcanzado su punto álgido en la RDC - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDlFclFLOUxoU09PWnhfWmZzOVlramdqM1Rfcjduc3Q1LUFmUjYybzRrUHlfR251Nko1NmVNX3YtS1Q1MVZCTTQ4c3JHcG50cmticUhUQjRRd1VzN1lKcXA4WThmT1JmUVNvZmxydmQ0QWNTYjNheVJ0SEVKMjJtMXJBUUJIZzNnclhwX1ZGeFJFejlfVExQWU5GZW9HRWp2M2NwbUZYM1dyTHQ3RHRMN1RRRjR1ZXllYzg2cGRDM2Y3dEJocllwTlhIV3BWak9VYVZKQkR3?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[SWI swissinfo.ch](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDlFclFLOUxoU09PWnhfWmZzOVlramdqM1Rfcjduc3Q1LUFmUjYybzRrUHlfR251Nko1NmVNX3YtS1Q1MVZCTTQ4c3JHcG50cmticUhUQjRRd1VzN1lKcXA4WThmT1JmUVNvZmxydmQ0QWNTYjNheVJ0SEVKMjJtMXJBUUJIZzNnclhwX1ZGeFJFejlfVExQWU5GZW9HRWp2M2NwbUZYM1dyTHQ3RHRMN1RRRjR1ZXllYzg2cGRDM2Y3dEJocllwTlhIV3BWak9VYVZKQkR3?oc=5)
-
----
-
 ### [Ebola avanza in Congo. E Kinshasa si prepara: la vera difesa comincia prima del primo caso](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5)
 
-2026-09-17 <span class="news-indication-tag">MS</span>
+2026-09-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5)
 
@@ -131,22 +115,6 @@ permalink: /news/elbasvir/
 2026-09-17 <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
-
----
-
-### [The 8 STI symptoms so 'ordinary' you'd brush them off…from itches to back ache - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE5IcXRvOFNzZktsa0QtcjJfQjZNTzJDNGkzX3dMa1Z5SUhTOHV4TFY2ZTlxM2p0MUJlc01xajB5SXIwQXVoVzhMeWNkODJUTkRrNFhYa29nZTJQRTlzWU5fbnRzdW5tdTJKNW1YWWttZzlBRGhlOW5taFUxOUx2RDg?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE5IcXRvOFNzZktsa0QtcjJfQjZNTzJDNGkzX3dMa1Z5SUhTOHV4TFY2ZTlxM2p0MUJlc01xajB5SXIwQXVoVzhMeWNkODJUTkRrNFhYa29nZTJQRTlzWU5fbnRzdW5tdTJKNW1YWWttZzlBRGhlOW5taFUxOUx2RDg?oc=5)
-
----
-
-### [Casi di Mpox anche in Italia, l'allarme dell'Oms sul virus delle scimmie: i sintomi e i rischi](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXFSb3dmbHA4aHpqS25aRVIwTGhudEJTOW5tN000TFFIUWZ0RlZhMVA5RWR3UHZJLVJtcTZQRWRTYXNhYTVsTHJlQUZJXzByckhyd29tXzJvY1pHSldFMVRnWjRRaE1PZVgtZWFBY2ZTRm11QTFVSnJPZ3dqTUV4MHFIN2k3ZG1JSnJ4TkpycUd1cDRpQldYUU50RzdlYWdMeC1Gc3ZYN0pUQ3BabThIUVBzaWFWTF9wQ21yZVRDdFVYZndLaGdydG5RbWg?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Virgilio](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXFSb3dmbHA4aHpqS25aRVIwTGhudEJTOW5tN000TFFIUWZ0RlZhMVA5RWR3UHZJLVJtcTZQRWRTYXNhYTVsTHJlQUZJXzByckhyd29tXzJvY1pHSldFMVRnWjRRaE1PZVgtZWFBY2ZTRm11QTFVSnJPZ3dqTUV4MHFIN2k3ZG1JSnJ4TkpycUd1cDRpQldYUU50RzdlYWdMeC1Gc3ZYN0pUQ3BabThIUVBzaWFWTF9wQ21yZVRDdFVYZndLaGdydG5RbWg?oc=5)
 
 ---
 
@@ -178,7 +146,7 @@ permalink: /news/elbasvir/
 
 2026-09-17 <span class="news-indication-tag">MS</span>
 
-來源：[euronews.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTg0eVMzbWt4T2l6SllGdHBYbnI4RHlMRERsOENDRndZcDJXQXZWT3JNaDR2elBPMXdpdmc2WE9tejdMZGFPZmkyTUJzbTNYVVdla2l5NVZtd3dZUHRWS3VCdUt6bXpTXzBPcW1SRlMzTWhNNEw1d0dfWmJZVG9KQ3pweEV1SHU0SjNUckNqMHdmNjN0SG5sbExxQQ?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTg0eVMzbWt4T2l6SllGdHBYbnI4RHlMRERsOENDRndZcDJXQXZWT3JNaDR2elBPMXdpdmc2WE9tejdMZGFPZmkyTUJzbTNYVVdla2l5NVZtd3dZUHRWS3VCdUt6bXpTXzBPcW1SRlMzTWhNNEw1d0dfWmJZVG9KQ3pweEV1SHU0SjNUckNqMHdmNjN0SG5sbExxQQ?oc=5)
 
 ---
 
@@ -198,27 +166,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Semaglutid: Gepoolte Analyse belegt Nierenschutz bei Risikopatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
+### [Semaglutid: Gepoolte Analyse belegt Nierenschutz bei Risikopatienten](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
-
----
-
-### [Nicht immer sind die Zigaretten an Lungenkrebs schuld - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
-
-2026-09-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWhiS1RrSmQ4WjIxbGlsX3pFWG9CRGRwam9oNkYwZjVtOWVrampzZ0xIOVIzNk9NbWtYcmY2NFNiN1ZObmpVWGlIaE1PWWlwNWxfM21tRXZOclc5MGI5ZXVhMnNPWDZqemhVUDdGZTU3MnpzcEpFQWJqcFE2Rk5oNUwtTEFDWk1BUzktUklSYTgxRk1LbzBacDJPU0ZOT2ZVX0kwRG5R?oc=5)
-
----
-
-### [NHS latest Covid symptoms and what to do if you have it](https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ic1pGZ1lxQXdlNWVhQXgxNGpaZWpTTzItcTdFSEN0RUlwT2FzQ3psWVRBTGJxZU40aUlVcWJwLVNyQmUtX3pQQ3daOU5hUU5wdXB2bW5IVEpWUjJSSTNZX0cwVnUyVFZzazBTR2xIelVGek9kaUxYMHRLMA?oc=5)
-
-2026-09-16 <span class="news-indication-tag">MS</span>
-
-來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ic1pGZ1lxQXdlNWVhQXgxNGpaZWpTTzItcTdFSEN0RUlwT2FzQ3psWVRBTGJxZU40aUlVcWJwLVNyQmUtX3pQQ3daOU5hUU5wdXB2bW5IVEpWUjJSSTNZX0cwVnUyVFZzazBTR2xIelVGek9kaUxYMHRLMA?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
 
 ---
 
@@ -235,22 +187,6 @@ permalink: /news/elbasvir/
 2026-09-14 <span class="news-indication-tag">MS</span>
 
 來源：[hallelife.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQeERxVG5VcHN6TmJYZjJzd1dZRXRWTzlfdGNtRDF1cUIxaWRBYmxrMGo1VWtBS3d5X0lDekFmU0JGVFNxb2tRSzI2QkNUaXRwN2d1ckFiQXhHSThQUVNoZ2VPem5raGdYNjRheWFrNGwzTjRNcl9Tc1lSTGplYkNwdHc2SHd2RGdsNWlCc1QwcWtzUQ?oc=5)
-
----
-
-### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
-
-2026-09-14 <span class="news-indication-tag">MS</span>
-
-來源：[francais.medscape.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
-
----
-
-### [Zelltherapie lindert mehrere neurologische Autoimmunerkrankungen - Forschung und Wissen](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb05MZWdvQmo5dVU1QlRndFM3T3g2LVZyVGcxV2lXVjczRXNrRVAyVXBYMXFRNTJrSm0weXdoMlFYa0U0YThPSHZ0VjlES2R5b3c0TERvYWVuR25PbWN2NF8xNkZ6R0VObTJIb2ZCTUFGSGNEZFRIYnpMOVdWVi1jV1ZTd24tWEg2VU9YaW1xVkYtSmtGbks4YlVoS2ZvUGFCSThmZ1RuYkU3U3pqNnRHV2ozVnZMT2M0WEtONm9NSkx3ZEt0bnI0RDRB?oc=5)
-
-2026-09-13 <span class="news-indication-tag">MS</span>
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb05MZWdvQmo5dVU1QlRndFM3T3g2LVZyVGcxV2lXVjczRXNrRVAyVXBYMXFRNTJrSm0weXdoMlFYa0U0YThPSHZ0VjlES2R5b3c0TERvYWVuR25PbWN2NF8xNkZ6R0VObTJIb2ZCTUFGSGNEZFRIYnpMOVdWVi1jV1ZTd24tWEg2VU9YaW1xVkYtSmtGbks4YlVoS2ZvUGFCSThmZ1RuYkU3U3pqNnRHV2ozVnZMT2M0WEtONm9NSkx3ZEt0bnI0RDRB?oc=5)
 
 ---
 

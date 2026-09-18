@@ -54,11 +54,11 @@ permalink: /news/macitentan/
 
 ## 相關新聞（2 則）
 
-### [Brits urged to eat 9 foods for lower blood pressure - Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzN0TFdnVXNGNFNUUnFoRVRWendwLThYTkdKYnZsT0F6emtEUmpIY3k2cWZTNjdzUVM0bjlaZU5CS1VxczJNRkhMSkNTZ3hzNmNnYUstM0FpQzhTYlVmT005RzVSdXhMd1lGeTF5cjNxTC1vWFV6VmFEZWROajktcWhKOHHSAYoBQVVfeXFMTnNOa1k5VXJ4LXBNSWlRRXFNS3VuZmRiZV9adnJfSlhBY2wxT0trYUwteVNCUDNCOWdxX3cxSlFzdS1WOVZxMFNyUTVDTUhhMjd3X21DWHlSQ3l0SHpvYWdzN05HcmJ0UllaQTk5MjVndkFrQTZIS3pTN3d3YmRjTkk1azNMMV9zZkJB?oc=5)
+### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
-2026-09-17 <span class="news-indication-tag">high blood pressure</span>
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzN0TFdnVXNGNFNUUnFoRVRWendwLThYTkdKYnZsT0F6emtEUmpIY3k2cWZTNjdzUVM0bjlaZU5CS1VxczJNRkhMSkNTZ3hzNmNnYUstM0FpQzhTYlVmT005RzVSdXhMd1lGeTF5cjNxTC1vWFV6VmFEZWROajktcWhKOHHSAYoBQVVfeXFMTnNOa1k5VXJ4LXBNSWlRRXFNS3VuZmRiZV9adnJfSlhBY2wxT0trYUwteVNCUDNCOWdxX3cxSlFzdS1WOVZxMFNyUTVDTUhhMjd3X21DWHlSQ3l0SHpvYWdzN05HcmJ0UllaQTk5MjVndkFrQTZIS3pTN3d3YmRjTkk1azNMMV9zZkJB?oc=5)
+來源：[Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/macitentan/
 
 2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-來源：[Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
+來源：[medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

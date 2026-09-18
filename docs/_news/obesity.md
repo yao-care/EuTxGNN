@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obésité（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
+<strong>obésité（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [El uso de GLP-1 en niños con obesidad se dispara en EE.UU.: “Se reservan para quienes tienen mayor riesgo inmediato”](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUld6b2ZhV3hUUGhyT21Xa3lJRk5Pc0tGaEp0ajlFRlNCcVhfRFoxY1pqT255dldQMUNiUjVSUGhTbzBLZFkzTzEzMGZncVMxemxQcUU2XzFFeFZESThDZ3I1SkJWMk9yaDNNTG45U25nbWk3NVVidUhEdEk2N3NSOVNtTHhLM1BEeGRRZVVFTDY1MGxiOW5zTzJITHFxdmdJYUFIbzc2SmJoYTY0NEkyRFFJWWVVWDdYSEhvbkxkQ1NwMVYtbG5sejVSdWhOd2pENUNkdjBCVTU?oc=5)
-
-2026-09-18
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUld6b2ZhV3hUUGhyT21Xa3lJRk5Pc0tGaEp0ajlFRlNCcVhfRFoxY1pqT255dldQMUNiUjVSUGhTbzBLZFkzTzEzMGZncVMxemxQcUU2XzFFeFZESThDZ3I1SkJWMk9yaDNNTG45U25nbWk3NVVidUhEdEk2N3NSOVNtTHhLM1BEeGRRZVVFTDY1MGxiOW5zTzJITHFxdmdJYUFIbzc2SmJoYTY0NEkyRFFJWWVVWDdYSEhvbkxkQ1NwMVYtbG5sejVSdWhOd2pENUNkdjBCVTU?oc=5)
-
----
-
-### [« Il faut arrêter de réduire l’obésité à manger moins et bouger plus » : dans les Vosges, une nouvelle association pour aider les patients obèses](https://news.google.com/rss/articles/CBMijwJBVV95cUxPbloyLVZjeUpuV3A1UlZDMEVQeEdtWVFvV19fbzBVb3JMeDg4aGxaT0U5eEZrOXpQTlNBS0tRN3RfSVlFaDdTUFNVSW1KOTk4YUNVa3NrVndiQnpoRlhWamxCamtPR2JRLVNHankzdHF4emhLMzRmMXlBWlJLRHlwLWdvUDhaUWdodUlmclNxclNRZDVyWG41WENGcXkxMlJoTlRWYTdfRGNCTlNDUlFNeVBKandIdXA5VFcydnBvYVd1Q252MTE5UjlzUFExc2p3cTkxbjV4MkFXRkllc0kyaXZHbE40WXJkRkR2TjV4ZV82SU5FV2p5WXhhQ0NRSjRucUNpS2djelJfaHdVeEpr?oc=5)
+### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
 
 2026-09-18
 
-來源：[vosgesmatin.fr](https://news.google.com/rss/articles/CBMijwJBVV95cUxPbloyLVZjeUpuV3A1UlZDMEVQeEdtWVFvV19fbzBVb3JMeDg4aGxaT0U5eEZrOXpQTlNBS0tRN3RfSVlFaDdTUFNVSW1KOTk4YUNVa3NrVndiQnpoRlhWamxCamtPR2JRLVNHankzdHF4emhLMzRmMXlBWlJLRHlwLWdvUDhaUWdodUlmclNxclNRZDVyWG41WENGcXkxMlJoTlRWYTdfRGNCTlNDUlFNeVBKandIdXA5VFcydnBvYVd1Q252MTE5UjlzUFExc2p3cTkxbjV4MkFXRkllc0kyaXZHbE40WXJkRkR2TjV4ZV82SU5FV2p5WXhhQ0NRSjRucUNpS2djelJfaHdVeEpr?oc=5)
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
 
 ---
 
@@ -70,11 +62,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Un nouvel implant contre l’apnée du sommeil testé à Montpellier](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
+### [Un nouvel implant contre l’apnée du sommeil testé à Montpellier - 20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
 
 2026-09-17
 
-來源：[20minutes.fr](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
 
 ---
 

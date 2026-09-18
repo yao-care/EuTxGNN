@@ -36,11 +36,11 @@ permalink: /news/clopidogrel/
 
 ## 相關新聞（5 則）
 
-### [Desarrollan un mapa molecular de la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHN1a0VKOExyRDMzRDdYc0k1bGZqVmIwbjNWS1k0NGZNOWhVa0k5UXZJOWgwS3MxODdiU05QS0t4andERndqWm92YnMzNDdQbWZEZEpZSDhxR01pVFV5bGhXM2ttWUJlX3dqWE5ybDR0ZVU2UWpiS1l4QmRRQ0p5NjhUSmVKdXY1QXZ4QWdwcnBfSDh0VEFzUkZDdUg5V3Vi?oc=5)
+### [Desarrollan un mapa molecular de la miocardiopatía hipertrófica - Salud a Diario](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZTMlp4Nll3WEZFTzVEUlIxQjdCcUtzSGFpMzdaQTB3dExXcDFlQnZaZWJrX09pS3o3WXZSVzRRME14Wnl2bTBOT2J0b041ZHpQTzZKZkV5TTJ6dFZYVzR2emVGeF9XLTR0VWI3ZUJJVVI3U0RoYmh2bnRncEpST1JKS2Y2UWt0Nnd6TlNCTzk0WGVXNWlsVmtHWUo3dll3MlJ6Rg?oc=5)
 
 2026-09-18 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Sinc](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHN1a0VKOExyRDMzRDdYc0k1bGZqVmIwbjNWS1k0NGZNOWhVa0k5UXZJOWgwS3MxODdiU05QS0t4andERndqWm92YnMzNDdQbWZEZEpZSDhxR01pVFV5bGhXM2ttWUJlX3dqWE5ybDR0ZVU2UWpiS1l4QmRRQ0p5NjhUSmVKdXY1QXZ4QWdwcnBfSDh0VEFzUkZDdUg5V3Vi?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZTMlp4Nll3WEZFTzVEUlIxQjdCcUtzSGFpMzdaQTB3dExXcDFlQnZaZWJrX09pS3o3WXZSVzRRME14Wnl2bTBOT2J0b041ZHpQTzZKZkV5TTJ6dFZYVzR2emVGeF9XLTR0VWI3ZUJJVVI3U0RoYmh2bnRncEpST1JKS2Y2UWt0Nnd6TlNCTzk0WGVXNWlsVmtHWUo3dll3MlJ6Rg?oc=5)
 
 ---
 
