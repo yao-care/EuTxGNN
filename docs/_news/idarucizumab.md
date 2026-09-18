@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,37 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
+### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
-2026-09-14 <span class="news-indication-tag">EPOC</span>
+2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
-
----
-
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
 ---
 
-### [Alopecia areata severa, ricrescita significativa con upadacitinib](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
+### [So wird die COPD in 2026 therapiert](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
 
-2026-09-13 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
+2026-09-18 <span class="news-indication-tag">copd</span>
 
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
-
----
-
-### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
-
-2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
-
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+Source: [aerztezeitung.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
 
 ---
 
-### [COPD: Exazerbationen richtig einordnen – und Differentialdiagnosen nicht vergessen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
+### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
-2026-09-11 <span class="news-indication-tag">copd</span>
+2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+
+---
+
+### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
 ---
 

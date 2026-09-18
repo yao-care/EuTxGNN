@@ -3,7 +3,7 @@ layout: default
 title: "Inotersen Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Inotersen Sodium. Original indication: Treatment of stage 1 or Stage 2 polyneuropathy in .... 20 predicted indications."
+description: "Health news related to Inotersen Sodium. Original indication: Treatment of stage 1 or Stage 2 polyneuropathy in .... 0 predicted indications."
 permalink: /news/inotersen-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inotersen-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Inotersen Sodium?">
-<strong>Inotersen Sodium</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Inotersen Sodium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,6 @@ This page combines the AI-predicted indications for Inotersen Sodium with the la
 <ul>
 <li><strong>Original indication</strong>: Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR).</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>acute intermittent porphyria (99.9%)</li>
-<li>appendicitis (99.9%)</li>
-<li>IgG4-related pachymeningitis (99.9%)</li>
-<li>IgG4-related retroperitoneal fibrosis (99.9%)</li>
-<li>non-infectious meningitis (99.9%)</li>
-<li>peritonitis (99.9%)</li>
-<li>infectious meningitis (99.8%)</li>
-<li>eosinophilic angiocentric fibrosis (99.8%)</li>
-<li>IgG4-related mesenteritis (99.8%)</li>
-<li>IgG4-related aortitis (99.8%)</li>
-<li>IgG4-related mediastinitis (99.8%)</li>
-<li>chronic meningitis (99.8%)</li>
-<li>type I complement component 8 deficiency (99.8%)</li>
-<li>rheumatoid arthritis (99.8%)</li>
-<li>endocarditis (99.8%)</li>
-<li>IgG4-related hepatopathy (99.8%)</li>
-<li>porphyria (99.7%)</li>
-<li>endocardial fibroelastosis (99.7%)</li>
-<li>meningococcal infection (99.7%)</li>
-<li>pneumonia (99.7%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/inotersen-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>

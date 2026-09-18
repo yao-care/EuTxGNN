@@ -3,7 +3,7 @@ layout: default
 title: "Albutrepenonacog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Albutrepenonacog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 20 predicted indications."
+description: "Health news related to Albutrepenonacog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 0 predicted indications."
 permalink: /news/albutrepenonacog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/albutrepenonacog-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Albutrepenonacog Alfa?">
-<strong>Albutrepenonacog Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Albutrepenonacog Alfa</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,6 @@ This page combines the AI-predicted indications for Albutrepenonacog Alfa with t
 <ul>
 <li><strong>Original indication</strong>: Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>pseudo-von Willebrand disease (99.9%)</li>
-<li>primary release disorder of platelets (99.9%)</li>
-<li>Glanzmann thrombasthenia (99.9%)</li>
-<li>Scott syndrome (99.6%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (99.3%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.3%)</li>
-<li>hemophilia (99.0%)</li>
-<li>acquired coagulation factor deficiency (98.6%)</li>
-<li>thrombotic thrombocytopenic purpura (98.2%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (97.5%)</li>
-<li>inherited thrombophilia (97.4%)</li>
-<li>platelet-type bleeding disorder (97.0%)</li>
-<li>flood factor deficiency (96.8%)</li>
-<li>hereditary thrombocytosis with transverse limb defect (96.1%)</li>
-<li>familial thrombomodulin anomalies (96.1%)</li>
-<li>methylcobalamin deficiency type cblG (95.1%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (94.6%)</li>
-<li>thrombocytopenic purpura (94.1%)</li>
-<li>symptomatic form of hemophilia in female carriers (91.9%)</li>
-<li>congenital factor V deficiency (87.8%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/albutrepenonacog-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>

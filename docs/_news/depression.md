@@ -1,29 +1,29 @@
 ---
 layout: default
-title: "depression 相關新聞"
-parent: 健康新聞
+title: "depression News"
+parent: 📰 Health News
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "Health news about depression. 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depression News
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="What news is there about depression?">
+<strong>depression</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+This page brings together the latest health news about “depression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
-<strong>相關藥物報告</strong>
-<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<strong>Related drug reports</strong>
+<p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/agomelatine/' | relative_url }}">Agomelatine</a></li>
 <li><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">Brexpiprazole</a></li>
@@ -35,13 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## Related News (2)
 
 ### [Reconciling the neurogenic hypothesis of depression with recent advances in adult hippocampal neurogenesis research in humans](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 2026-09-17
 
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 ---
 
@@ -49,11 +49,11 @@ permalink: /news/depression/
 
 2026-09-16
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
 </div>

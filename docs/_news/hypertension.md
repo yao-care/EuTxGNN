@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,21 +83,29 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Bluthochdruck: Nüsse senken das Risiko signifikant](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
+### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
-2026-09-14
+2026-09-18
 
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
+Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
 ---
 
-### [Hypertension : « On est touché dès que sa tension, prise chez soi, dépasse 13,5/8,5 »](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
+### [Bluthochdruck: Nüsse senken Risiko nachweisbar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+2026-09-18
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+---
+
+### [Hypertension : 4 signes inattendus le matin !](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 2026-09-14
 
-Source: [leparisien.fr](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
+Source: [Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Bluthochdruck: Nüsse senken das Risiko signifikant](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
+### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
-2026-09-14 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
+Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
 ---
 
-### [Hypertension : « On est touché dès que sa tension, prise chez soi, dépasse 13,5/8,5 »](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
+### [La vacunación infantil cae en la mayoría de países europeos - El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzMxX0FHYlg4S2F1VXhPeHNQdEJ3YVlFRVhuQ2JkNEt1bXV6WUg1YWxCdkxOWms4endmal82THJ0eGZkcE1jd252Y2paQVRJdGpXNUxTN2M1c2N4WGdMajVBLW1nVHlqQ09UWE95cEh1VkM0Ulp4NEFjM1QzcFctdmFBTzhUcWpTb0hjMl9CSWZBczV5U08yUGpkTjdQaDdPbHJiR3hSZ3VpSVNTN1RtaWF30gG3AUFVX3lxTE45Rks4cXh4QUJ0SmM1UFRnTjlGb1I1NF9TSTlWSnNXWHZ1UEk1dWs4RzFSSXo5aERBR0hhMGhDNlpMeUZmN3ZlVmVpSXl3cldWZzRnNE5jUEpiVS10eHhnSnVHd2M3YlpBaDByZmxaZUtFRGV5QVNxUjNLYXM3emRNRkpGOW5lbGY2aldSQncwREQwQlJQMUZ1ZUstM0htd0VUa3JUWUl2Q05JRGRBSk55ZjBjUDViYw?oc=5)
+
+2026-09-18 <span class="news-indication-tag">hepatitis</span>
+
+Source: [El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzMxX0FHYlg4S2F1VXhPeHNQdEJ3YVlFRVhuQ2JkNEt1bXV6WUg1YWxCdkxOWms4endmal82THJ0eGZkcE1jd252Y2paQVRJdGpXNUxTN2M1c2N4WGdMajVBLW1nVHlqQ09UWE95cEh1VkM0Ulp4NEFjM1QzcFctdmFBTzhUcWpTb0hjMl9CSWZBczV5U08yUGpkTjdQaDdPbHJiR3hSZ3VpSVNTN1RtaWF30gG3AUFVX3lxTE45Rks4cXh4QUJ0SmM1UFRnTjlGb1I1NF9TSTlWSnNXWHZ1UEk1dWs4RzFSSXo5aERBR0hhMGhDNlpMeUZmN3ZlVmVpSXl3cldWZzRnNE5jUEpiVS10eHhnSnVHd2M3YlpBaDByZmxaZUtFRGV5QVNxUjNLYXM3emRNRkpGOW5lbGY2aldSQncwREQwQlJQMUZ1ZUstM0htd0VUa3JUWUl2Q05JRGRBSk55ZjBjUDViYw?oc=5)
+
+---
+
+### [Bluthochdruck: Nüsse senken Risiko nachweisbar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+---
+
+### [Hypertension : 4 signes inattendus le matin !](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-Source: [leparisien.fr](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
-
----
-
-### [Saarländische Testwoche startet: Gesundheitsamt St. Wendel testet kostenlos auf HIV, Syphilis und Hepatitis - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
-
-2026-09-13 <span class="news-indication-tag">hepatitis</span>
-
-Source: [St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUC1RX0RvTjZfVUpQN0FhY0J2MURiRkdXZGJWMkNPX0RtTElKYUlLUUN0NTJzVDMtdnd0eFA1UmxrYnhDYklJN3hJVjYydnkyRFlidzdJQXdXS243RVJ4UFVMNTJZOTFwRk5OZ2JmTG1LdnJCZndXZ2VhVGxKSE1taVZucm9qV1pWbVA0RlhNNEppZGdiUDV6NDZ5N29Ha3VMNmFHUk9PZjU4YmUyd3lYdTk4cE0xaTI3eG1TYUhEaXZsU3I1?oc=5)
+Source: [Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

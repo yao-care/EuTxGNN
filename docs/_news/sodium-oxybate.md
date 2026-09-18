@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Oxybate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sodium Oxybate. Original indication: Treatment of narcolepsy with cataplexy in adult pa.... 20 predicted indications."
+description: "Health news related to Sodium Oxybate. Original indication: Treatment of narcolepsy with cataplexy in adult pa.... 0 predicted indications."
 permalink: /news/sodium-oxybate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium-oxybate/
 ---
 
 <p class="key-answer" data-question="What news is there about Sodium Oxybate?">
-<strong>Sodium Oxybate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Sodium Oxybate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,6 @@ This page combines the AI-predicted indications for Sodium Oxybate with the late
 <ul>
 <li><strong>Original indication</strong>: Treatment of narcolepsy with cataplexy in adult patients.</li>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>insomnia (disease) (100.0%)</li>
-<li>obsolete neurogenic bladder (disease) (99.8%)</li>
-<li>sleep disorder, initiating and maintaining sleep (99.8%)</li>
-<li>cauda equina syndrome (99.6%)</li>
-<li>Wernicke-Korsakoff syndrome (99.4%)</li>
-<li>restless legs syndrome (99.3%)</li>
-<li>attention deficit-hyperactivity disorder (98.7%)</li>
-<li>acute encephalopathy with biphasic seizures and late reduced diffusion (98.7%)</li>
-<li>faciodigitogenital syndrome (98.6%)</li>
-<li>Balo concentric sclerosis (98.5%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (98.5%)</li>
-<li>narcolepsy without cataplexy (98.3%)</li>
-<li>Creutzfeldt-Jakob disease (98.2%)</li>
-<li>specific developmental disorder (98.0%)</li>
-<li>narcolepsy-cataplexy syndrome (97.8%)</li>
-<li>chondromyxoid fibroma (97.7%)</li>
-<li>narcolepsy (97.3%)</li>
-<li>central nervous system disease (96.6%)</li>
-<li>X-linked adrenoleukodystrophy (96.6%)</li>
-<li>alcohol withdrawal (96.5%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sodium-oxybate/' | relative_url }}">View full drug report →</a></p>
 </div>

@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Vernakalant Hydrochloride?">
-<strong>Vernakalant Hydrochloride</strong> currently has <strong>39 news articles</strong>, with 20 predicted indications.
+<strong>Vernakalant Hydrochloride</strong> currently has <strong>45 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,317 +52,365 @@ This page combines the AI-predicted indications for Vernakalant Hydrochloride wi
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (45)
 
-### [Hafer-, Mandel- oder Sojadrink: Worauf es beim Kauf ankommt](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhjbHgwUnpKaFhndW9qZFBFc2RuZC1wMXpFZ3UyWkJtTHdTU0hCWVdHWmtMMmhuZ0FwbHBhOTNqTTJzcHJNMTMtUGZXR1daWDBEZkhXek96RkZiVmFsY3RNR2gzVkFKZHZwcFNsOGdHeV9OTFRlN3FtVHAzZEdMNmVFQXc3VmJ2dHI1S2tIUGZZa0pOS3c?oc=5)
+### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
-2026-09-14 <span class="news-indication-tag">AF</span>
+2026-09-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkhjbHgwUnpKaFhndW9qZFBFc2RuZC1wMXpFZ3UyWkJtTHdTU0hCWVdHWmtMMmhuZ0FwbHBhOTNqTTJzcHJNMTMtUGZXR1daWDBEZkhXek96RkZiVmFsY3RNR2gzVkFKZHZwcFNsOGdHeV9OTFRlN3FtVHAzZEdMNmVFQXc3VmJ2dHI1S2tIUGZZa0pOS3c?oc=5)
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 ---
 
-### [Infarctus, AVC… Pourquoi dormir les volets ouverts ou avec une veilleuse pourrait être dangereux pour la santé - Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
+### [Vorhofflimmern-Studie: Placeboeffekt fast so wirksam wie echte Ablation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3pSbWhLWFQxSTZXMkZSOWtGNTZqSDN0TGFPbFNiX3Y0SWpVOXMxYl9RdWN2eXJRZ00ydkkxeWRma0E3UlIyam92eGVIQkFhU2lnUHlHYzBGaC1IQ2RKYjBhRFE2dzNfbnFmYVRram0ydE5LeW5hVEF3dlliTXhUNVp6RlNpbnZVMEZXVURVOWFnRG9aUjkzNEY0NVloWlVNM2xydUN5TzVDcFlSZGFvZFM5cDhkN2xXaW5N?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3pSbWhLWFQxSTZXMkZSOWtGNTZqSDN0TGFPbFNiX3Y0SWpVOXMxYl9RdWN2eXJRZ00ydkkxeWRma0E3UlIyam92eGVIQkFhU2lnUHlHYzBGaC1IQ2RKYjBhRFE2dzNfbnFmYVRram0ydE5LeW5hVEF3dlliTXhUNVp6RlNpbnZVMEZXVURVOWFnRG9aUjkzNEY0NVloWlVNM2xydUN5TzVDcFlSZGFvZFM5cDhkN2xXaW5N?oc=5)
+
+---
+
+### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt überraschendes Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+
+---
+
+### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+
+2026-09-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+
+---
+
+### [Menopause und Demenz: Neue Daten zur Hormontherapie](https://news.google.com/rss/articles/CBMingFBVV95cUxONlBhOVB6c2NJVGlnbTFRbV91Z05oRVRoVk5xcnh0eUVTYjVsUTZTRVpUZGhMUWFVVjdnUEVBU3Q5SUVRd3ZBYWQ5RjBOXzQ4dmNQWkk0cnNFSWlEMWRrR2dobm5kT3JOUWFiOHNCbHVyNi1xX2ZDLVlFSXo3cFhneFROMlBCS1NNb3FnQWhMSDZZci11LTZFLUt1RGpBUQ?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AF</span>
+
+Source: [netDoktor](https://news.google.com/rss/articles/CBMingFBVV95cUxONlBhOVB6c2NJVGlnbTFRbV91Z05oRVRoVk5xcnh0eUVTYjVsUTZTRVpUZGhMUWFVVjdnUEVBU3Q5SUVRd3ZBYWQ5RjBOXzQ4dmNQWkk0cnNFSWlEMWRrR2dobm5kT3JOUWFiOHNCbHVyNi1xX2ZDLVlFSXo3cFhneFROMlBCS1NNb3FnQWhMSDZZci11LTZFLUt1RGpBUQ?oc=5)
+
+---
+
+### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+
+---
+
+### [RDC confirma más de 3.600 muertos por el brote de ébola declarado a mediados de mayo, con casi 7.500 casos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeE9jeUlYR2paWFUxY3YxTzYyQVNpQ3RtNU53LVNBbl9POVl6V2tBemRxTjBaMjdyZURyUHhBazJrTWhab3doS0JIaXpuVFFsSXdUa2xYaXNSNjU0Tkk0WE5JdGxucDVTNzlPTUFoanAteGhnUGFjVUFQaFhiTFVfa0ZsZmF5MXdETlcyaVZNX0JJdnVoMmdGYzg2b3pjbG9DdGJBeUx5QUdDb1J5Ymt0OVRpMTZnNjRocFMzYzNWTWtZREhlZmlpZEpHMTRsWDczeVdqTEFLVVlIczVLbUJqcVJ6R251c2tjdGFaY2lBc3BLWkhPS0E?oc=5)
+
+2026-09-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeE9jeUlYR2paWFUxY3YxTzYyQVNpQ3RtNU53LVNBbl9POVl6V2tBemRxTjBaMjdyZURyUHhBazJrTWhab3doS0JIaXpuVFFsSXdUa2xYaXNSNjU0Tkk0WE5JdGxucDVTNzlPTUFoanAteGhnUGFjVUFQaFhiTFVfa0ZsZmF5MXdETlcyaVZNX0JJdnVoMmdGYzg2b3pjbG9DdGJBeUx5QUdDb1J5Ymt0OVRpMTZnNjRocFMzYzNWTWtZREhlZmlpZEpHMTRsWDczeVdqTEFLVVlIczVLbUJqcVJ6R251c2tjdGFaY2lBc3BLWkhPS0E?oc=5)
+
+---
+
+### [Seniors Residencias destaca el vínculo emocional persistente en familias afectadas por Alzheimer en España](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXhsZ2lMVEZBSW85OTBWbWdMVGRxTGZ1RVpGU3FOSHFtWWNZY0F0SlBkMHRSMUFyTnVwMU0xeW5yamNjb0kyazFFbVlHbWNVME9Oejd2cXBKaVZnYWRNVXJWVm16ZmlFdG9BSF83WlNsNWMyTEVpZ05mNnJhUG9mRE9MREtKRFlzcGV3TlFBLVdBRzBoYkkxV29HbFBuNk0?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AF</span>
+
+Source: [Corresponsables](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXhsZ2lMVEZBSW85OTBWbWdMVGRxTGZ1RVpGU3FOSHFtWWNZY0F0SlBkMHRSMUFyTnVwMU0xeW5yamNjb0kyazFFbVlHbWNVME9Oejd2cXBKaVZnYWRNVXJWVm16ZmlFdG9BSF83WlNsNWMyTEVpZ05mNnJhUG9mRE9MREtKRFlzcGV3TlFBLVdBRzBoYkkxV29HbFBuNk0?oc=5)
+
+---
+
+### [Stanford halla nuevas vías para investigar la ELA y la atrofia muscular espinal](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWNlTTVlQ1Z0V21wQ0Z2TnUwcUdCbmMtdjdsRFJVQmdENkx0V3lJYkhzVjM1Wmhuc0VfX2RtOVNJLXhuYWtFUURXOHpZbUZDSXlNby1OLW05SDV2WWU0d0VOekhsUThXMFpqdzBZQ205SWRxb0FyYVFTdEY2RWo3WGF0aWVNRW5BVFZHQUFCMzhIUWRMT3dYQTdRZkR0aDBEU2JsQmJUSU9wRGFDRWdnWVRkaVo2VEU2?oc=5)
+
+2026-09-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">AF</span>
+
+Source: [Servimedia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWNlTTVlQ1Z0V21wQ0Z2TnUwcUdCbmMtdjdsRFJVQmdENkx0V3lJYkhzVjM1Wmhuc0VfX2RtOVNJLXhuYWtFUURXOHpZbUZDSXlNby1OLW05SDV2WWU0d0VOekhsUThXMFpqdzBZQ205SWRxb0FyYVFTdEY2RWo3WGF0aWVNRW5BVFZHQUFCMzhIUWRMT3dYQTdRZkR0aDBEU2JsQmJUSU9wRGFDRWdnWVRkaVo2VEU2?oc=5)
+
+---
+
+### [Woman, 58, dies after 'addictive' painkiller overdose – GPs must ‘be on alert’](https://news.google.com/rss/articles/CBMif0FVX3lxTE1FU05ja1dPX1BJZGdLTTR2cWVJN2twOGtwbFdfV0tvTVBWRk1jcnFxZU5FbXBaSG4tT0lKX0J2amF4MTliU3lSV2pSblZFRHNTUU9zX3VmYV9aRXdvbXQ2dGlmaHFfbWpvZnhkTTZMdHVjcFB0aFJ5Q01ZeFcteDg?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AF</span>
+
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE1FU05ja1dPX1BJZGdLTTR2cWVJN2twOGtwbFdfV0tvTVBWRk1jcnFxZU5FbXBaSG4tT0lKX0J2amF4MTliU3lSV2pSblZFRHNTUU9zX3VmYV9aRXdvbXQ2dGlmaHFfbWpvZnhkTTZMdHVjcFB0aFJ5Q01ZeFcteDg?oc=5)
+
+---
+
+### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+
+2026-09-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+
+---
+
+### [Stanford-Forscher setzen Mäuse menschlichen Gehirnzellen ein – doch ein Neurowissenschaftler warnt](https://news.google.com/rss/articles/CBMizwFBVV95cUxPTURfaHJOTzdkaEptMGVkblEtY0wzOHpva2RVRDl5ZXBSYVBTUnAxdEx4RVlaSVhVT0tyNzR5eTI3bW9mRDlUc0NJbUtydGJqQlFGUG4tcFRTZnFxUEYtNG9HM0pGTmVuWjVJdmpqa2tDYkR0QjM4cllESEUwclVjWFdqQVk3a1QtbnJhN0lGUTZ5ZlFTd2tNWlNaYWVEN1RmZHphSndwbGNNVDFjQ2tFbXkzOWNzY3UteWZEMHdtOENadVAzamo0YWZvcVU0TTg?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AF</span>
+
+Source: [t3n](https://news.google.com/rss/articles/CBMizwFBVV95cUxPTURfaHJOTzdkaEptMGVkblEtY0wzOHpva2RVRDl5ZXBSYVBTUnAxdEx4RVlaSVhVT0tyNzR5eTI3bW9mRDlUc0NJbUtydGJqQlFGUG4tcFRTZnFxUEYtNG9HM0pGTmVuWjVJdmpqa2tDYkR0QjM4cllESEUwclVjWFdqQVk3a1QtbnJhN0lGUTZ5ZlFTd2tNWlNaYWVEN1RmZHphSndwbGNNVDFjQ2tFbXkzOWNzY3UteWZEMHdtOENadVAzamo0YWZvcVU0TTg?oc=5)
+
+---
+
+### [Il cervello cambia profondamente tra i 50 e i 75 anni: cosa succede alle cellule immunitarie](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWGpkZ0RYaTB1ZFlfcG1xT0EwbU5yT3dMTmFGRDZPZ2V2dEo0STBWdkFuY0RrZzB6MTVmel9IUmxhZ1c2WVhXMXgzZjNrbFNiVU9ONjNLUDlGZTdOQTBOWXlfdVFseGo4dWd2cWFEcks0TGNGMVJwZ29jVF90ZXFaSTNaRVlfbXcyV0VDSG5iVHhkNmRZaFJOTER2OVNhOEVfN0YxUEdEQU45MXYyTTA3LU51NGdtNFZaVjctNHJHX0JhaHBTLW5zUGFGZU5jUk9kRHRzVnhFLWFVUGlVOFdoOUk5MlJmZw?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AF</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWGpkZ0RYaTB1ZFlfcG1xT0EwbU5yT3dMTmFGRDZPZ2V2dEo0STBWdkFuY0RrZzB6MTVmel9IUmxhZ1c2WVhXMXgzZjNrbFNiVU9ONjNLUDlGZTdOQTBOWXlfdVFseGo4dWd2cWFEcks0TGNGMVJwZ29jVF90ZXFaSTNaRVlfbXcyV0VDSG5iVHhkNmRZaFJOTER2OVNhOEVfN0YxUEdEQU45MXYyTTA3LU51NGdtNFZaVjctNHJHX0JhaHBTLW5zUGFGZU5jUk9kRHRzVnhFLWFVUGlVOFdoOUk5MlJmZw?oc=5)
+
+---
+
+### [Bishopton dad, 36, urgently seeking trial treatment after acid reflux turned into cancer diagnosis - Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2hjZUZkYnVzSG9naFZIMlhMM2FwZHlWUVpncFVobVRqeEw1anhRWTRsZ1RqOEZkd3U5UXpYU1BHa2JWdi1TX1ZRUTRfV2UwSE5LcWFmSDBvWmtzQS1GQVpscnhULTVSU2MxRmFhdzVaaUpPdkpRdW1ET2dBRUNSTnI0YW9abjZ0RGYxOWE0eElfT0Yt0gGaAUFVX3lxTE5YOVpJazI4ajFybDF3cm5URzluVUpzZURYcTdCSXdtTzhsWW5HbU8xcGpQVHlwR1JxdTlmeXhwUVJ0dGlOcmZpb2tpLXJ6WXpQZEE2WjFnWEYtR0NTRXNrODc1clMzQzg5QkdEOUZHZk1qMzVIMXFaSG1fNTZaTU9BVkZvUHBlQVBMQXlpN2p1VDAzbzlEYlJXdmc?oc=5)
+
+2026-09-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2hjZUZkYnVzSG9naFZIMlhMM2FwZHlWUVpncFVobVRqeEw1anhRWTRsZ1RqOEZkd3U5UXpYU1BHa2JWdi1TX1ZRUTRfV2UwSE5LcWFmSDBvWmtzQS1GQVpscnhULTVSU2MxRmFhdzVaaUpPdkpRdW1ET2dBRUNSTnI0YW9abjZ0RGYxOWE0eElfT0Yt0gGaAUFVX3lxTE5YOVpJazI4ajFybDF3cm5URzluVUpzZURYcTdCSXdtTzhsWW5HbU8xcGpQVHlwR1JxdTlmeXhwUVJ0dGlOcmZpb2tpLXJ6WXpQZEE2WjFnWEYtR0NTRXNrODc1clMzQzg5QkdEOUZHZk1qMzVIMXFaSG1fNTZaTU9BVkZvUHBlQVBMQXlpN2p1VDAzbzlEYlJXdmc?oc=5)
+
+---
+
+### [Más vacunas, más plataformas: la diversificación como herramienta para mejorar la protección frente a la COVID-19 - Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTRXVnZuVDBreWd4bXFCbWRrdVF2bDNqS1F0aUVuR0ZIanRFaXdMMVZJV0laakEtdTEzQjA5X1dFYzhlV09MZHlNUk85OTFVbGsxd01BdU1CUXFFZHRhUUk0QmQyM2Z2LXFkSzY0RndhT05RU1h1VHo3S1Z3VU1qdHZpOUduNkVGVlRzT3BDTmdGai11Y2JXVFdBSFdhVEJydGY0NXgxcV90N3VnWmFMYg?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AF</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTRXVnZuVDBreWd4bXFCbWRrdVF2bDNqS1F0aUVuR0ZIanRFaXdMMVZJV0laakEtdTEzQjA5X1dFYzhlV09MZHlNUk85OTFVbGsxd01BdU1CUXFFZHRhUUk0QmQyM2Z2LXFkSzY0RndhT05RU1h1VHo3S1Z3VU1qdHZpOUduNkVGVlRzT3BDTmdGai11Y2JXVFdBSFdhVEJydGY0NXgxcV90N3VnWmFMYg?oc=5)
+
+---
+
+### [Fight for six year old's life after juvenile MND diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54MXdPNWl5V3R2YmppZGN2WUxCVWtnSFh5UHFTVWhXdjh4MWpwbklnVk80QXlkVDNrRUpMLTFiMVdmWEpDZ1hUOS1McEM3TWpoTUlwWEVodWhOeVM0Nnc?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AF</span>
+
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE54MXdPNWl5V3R2YmppZGN2WUxCVWtnSFh5UHFTVWhXdjh4MWpwbklnVk80QXlkVDNrRUpMLTFiMVdmWEpDZ1hUOS1McEM3TWpoTUlwWEVodWhOeVM0Nnc?oc=5)
+
+---
+
+### [Neuer Bluttest erkennt Pankreaskrebs im Frühstadium - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUExjX29PZW9SYmhrMHROS1FuMktSdEVpN1RLTmNLSmI0elpjQVNEUmFQc0w4aTQxTjNVZDU2cTNTWVktTVJGUlBPNmRiUlgyaVJ5UzVWby16Q0taNVBaQzcxNlNqbUxhdGlGQzhhU0JobUhXQUE5TEIzaF9ibm1jZ0NrVkd5SmVEdkJzQw?oc=5)
+
+2026-09-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUExjX29PZW9SYmhrMHROS1FuMktSdEVpN1RLTmNLSmI0elpjQVNEUmFQc0w4aTQxTjNVZDU2cTNTWVktTVJGUlBPNmRiUlgyaVJ5UzVWby16Q0taNVBaQzcxNlNqbUxhdGlGQzhhU0JobUhXQUE5TEIzaF9ibm1jZ0NrVkd5SmVEdkJzQw?oc=5)
+
+---
+
+### [Vous aimez votre café ou votre thé brûlant ? Un étude sur près d’un million de personnes révèle un risque encore sous-estimé - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNVN3Y2hUQmY0YkNhVWhnVUEzVDV5a0JDWm5oUndfUmhBSnNZOVRtck9GejVMN1Y1Q1YzM29CaGxnQzJpcTNEbXAzaS0wLTU0WS03WFhUOUVpWjFSSG1YWXVJNWJzT0Yyd2QwRFBVZVd0dUw5bGlhQnpvRlRsTFdiUG9ra1ZtT1k2UzR4MV8zcVRVWjhVSVdDcG8yeG5iaG5qdHFyczV6MnZLaGRNZlMyU1hpWlVjWFNoNF9USVhra0JFNnk2TTBHaUlmZkZOdXVKc09nY19UeXBPeHVLS2NrY29zdnNkdU8yQ0s5QVUzcGU?oc=5)
+
+2026-09-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNVN3Y2hUQmY0YkNhVWhnVUEzVDV5a0JDWm5oUndfUmhBSnNZOVRtck9GejVMN1Y1Q1YzM29CaGxnQzJpcTNEbXAzaS0wLTU0WS03WFhUOUVpWjFSSG1YWXVJNWJzT0Yyd2QwRFBVZVd0dUw5bGlhQnpvRlRsTFdiUG9ra1ZtT1k2UzR4MV8zcVRVWjhVSVdDcG8yeG5iaG5qdHFyczV6MnZLaGRNZlMyU1hpWlVjWFNoNF9USVhra0JFNnk2TTBHaUlmZkZOdXVKc09nY19UeXBPeHVLS2NrY29zdnNkdU8yQ0s5QVUzcGU?oc=5)
+
+---
+
+### [Vitamin D in der Schwangerschaft: Kinder profitieren möglicherweise noch zehn Jahre später - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMGk1WHhiVmlIOUtwOWlqeldsc2J0SnZQTGxpR1loVnhuZDFkaEZPazFiaHQ4Z1M1eTJQSFNCRnNTU0lEdnh1Qy1nOUh0YjdKYzJ3Z1VsRG9sQVNlcXZyX3ktWkliTVJIQ1hPMERnTmx3LUpLRTBPUFEtUVI1VlRxbjh2T2R5NWgyazhZZDM2bk1mUGVXTXppQzI4cGZhMzEwcjFYazJZVE5oTm4xT2JNZ2dNRVBXT3BjX3BwYXJfdFBoMmREeWhSQW4tRlBIQ3Y1enRSTXNzLUx0bWFjRGJKOWsyMk9lMmc?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AF</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMGk1WHhiVmlIOUtwOWlqeldsc2J0SnZQTGxpR1loVnhuZDFkaEZPazFiaHQ4Z1M1eTJQSFNCRnNTU0lEdnh1Qy1nOUh0YjdKYzJ3Z1VsRG9sQVNlcXZyX3ktWkliTVJIQ1hPMERnTmx3LUpLRTBPUFEtUVI1VlRxbjh2T2R5NWgyazhZZDM2bk1mUGVXTXppQzI4cGZhMzEwcjFYazJZVE5oTm4xT2JNZ2dNRVBXT3BjX3BwYXJfdFBoMmREeWhSQW4tRlBIQ3Y1enRSTXNzLUx0bWFjRGJKOWsyMk9lMmc?oc=5)
+
+---
+
+### [Millennial women, booze and breast cancer — is it time we quit? - The Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVURmZ1dFdjN6Wkdhc0plZEhNRGZ5QmQzc3puNjZQYVhQYXZxM0hoS205RHJ4enVQRVJGSTkyUEppMUpCNTVFVU1ua3RRTWVST28tWkFfU2VGS0drSXVNUkdRRmxrWUVWbWZGTDkwclFtTTdjeEJHVjRWTzFEdW01UjhFRk1ZZEZQc0ZZNy00Vnk4aWpFZmhGN1NvXzlBVXB3TUtvZFhRSTdjeTVZUDk4b1NPVVMtbEgweFpEMnBrdU5UcFND?oc=5)
+
+2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">overweight</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVURmZ1dFdjN6Wkdhc0plZEhNRGZ5QmQzc3puNjZQYVhQYXZxM0hoS205RHJ4enVQRVJGSTkyUEppMUpCNTVFVU1ua3RRTWVST28tWkFfU2VGS0drSXVNUkdRRmxrWUVWbWZGTDkwclFtTTdjeEJHVjRWTzFEdW01UjhFRk1ZZEZQc0ZZNy00Vnk4aWpFZmhGN1NvXzlBVXB3TUtvZFhRSTdjeTVZUDk4b1NPVVMtbEgweFpEMnBrdU5UcFND?oc=5)
+
+---
+
+### [Non è solo pelle: come le malattie dermatologiche condizionano vita sociale, affettiva e lavoro](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSmxFQ1ozUG9MR050VEtUdEd6S0RRX2Nxdl9ZZTZZeVhTM2lURm1zR3JWS0w4NTlxajlpakxYckp3VjZ3SS1KUWpzQkI3S1JzZGY2RlIwX08yNl90SlZ6X0xsX0NMQUlGTjROR3k5SmROQUxQVnNvN043STlGWFN0bHRzcFpWTnBBYkVYT1ZRMUtZdU94bWdtSmlsZExzeU9sd21xS3RZT2M4N1RBd0ZJWlF3T2t4MFl2Tk4xeW94bkM2MENKT3lYOVQ0dlNZREMxYVg1clBxTnRTbzdh?oc=5)
+
+2026-09-17 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">AF</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSmxFQ1ozUG9MR050VEtUdEd6S0RRX2Nxdl9ZZTZZeVhTM2lURm1zR3JWS0w4NTlxajlpakxYckp3VjZ3SS1KUWpzQkI3S1JzZGY2RlIwX08yNl90SlZ6X0xsX0NMQUlGTjROR3k5SmROQUxQVnNvN043STlGWFN0bHRzcFpWTnBBYkVYT1ZRMUtZdU94bWdtSmlsZExzeU9sd21xS3RZT2M4N1RBd0ZJWlF3T2t4MFl2Tk4xeW94bkM2MENKT3lYOVQ0dlNZREMxYVg1clBxTnRTbzdh?oc=5)
+
+---
+
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
+
+2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
+
+---
+
+### [Un problema bucal común eleva un 61% el riesgo de tener Alzheimer, según un nuevo estudio](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRVZrdXRKZGt0UHpYNkU3LUt0VGM2ZlBXUVF5WG1ZY2ZyOENTcV96OUd2WTRaZTY3eFBUdFp0cnFHVDdVQUxLUFVVa0RIejBoRjkwai04bUN0VGdqd29lMFJhZWNadGlDSmVBLXpSdjdhZFhHV29MY1c2b3JlSmgzQkh2Q0Ntb1JFUnJra21LOEY2TklhX0M4b1lnSWh2VW0wQnlaT3ZUajJsOTc3Z1l4ZC1xUlZMTXNub0hQQm1vOFNxQXJzQzg5d09B0gHkAUFVX3lxTE1zVjItbHdRdXJHTlN4dnB0b0JVN0lNNjh0MHEwMGhYY0Fkbjh3d0Zka1AxdEJRNk53aDBObGJ5cVAzZEl1bDZRRHdSZHNNaHI4ek1iS2FQRVpZT3kyZmk3LUV6T2ZWZzB3dG5BcjJtV2txWUZtMXlFOUxFWE5BR19TVXpBZTlmMUV5VjVlZlhEWGlNV1JFY1l6ZG9wRlVoQUdkSmhZb3ZVaklKWnNTR29PV1dYb3JPM1FOWmw1WmU5aTNucFhHcXdTb3FfSktaVlhXMDlhcm0zRmIwSkRZNlZraWRaZQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AF</span>
+
+Source: [infobae.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRVZrdXRKZGt0UHpYNkU3LUt0VGM2ZlBXUVF5WG1ZY2ZyOENTcV96OUd2WTRaZTY3eFBUdFp0cnFHVDdVQUxLUFVVa0RIejBoRjkwai04bUN0VGdqd29lMFJhZWNadGlDSmVBLXpSdjdhZFhHV29MY1c2b3JlSmgzQkh2Q0Ntb1JFUnJra21LOEY2TklhX0M4b1lnSWh2VW0wQnlaT3ZUajJsOTc3Z1l4ZC1xUlZMTXNub0hQQm1vOFNxQXJzQzg5d09B0gHkAUFVX3lxTE1zVjItbHdRdXJHTlN4dnB0b0JVN0lNNjh0MHEwMGhYY0Fkbjh3d0Zka1AxdEJRNk53aDBObGJ5cVAzZEl1bDZRRHdSZHNNaHI4ek1iS2FQRVpZT3kyZmk3LUV6T2ZWZzB3dG5BcjJtV2txWUZtMXlFOUxFWE5BR19TVXpBZTlmMUV5VjVlZlhEWGlNV1JFY1l6ZG9wRlVoQUdkSmhZb3ZVaklKWnNTR29PV1dYb3JPM1FOWmw1WmU5aTNucFhHcXdTb3FfSktaVlhXMDlhcm0zRmIwSkRZNlZraWRaZQ?oc=5)
+
+---
+
+### [Vieillir en bonne santé : cette heure d'endormissement serait associée au risque cardiovasculaire le plus faible - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AVC</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
+
+---
+
+### [Più stanchi, affamati e raffreddati prima dell'autunno? Che cosa succede davvero al corpo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFF6blg3bnJzWWRkbG1LQ2JFQXJtRTh4Y0tiSmxGTm1SUC04ZFByUTdtaThIRlN1RjAwMzMwMk42d1NVM09qRlpFSmg3M0NNcnBOVlY0UjJSNndNdTA3TmFaQjJCM0twMVBfbG13dmlRcGpPa1dCanhnS0J5em9ZeW5XOGZqa05SOEMtcFUwMmNZb0FZeUpVYkgwRmtFdVJ6RmtsNVZrZGZRNWdETXRLRjFacTVWOUgzbHZveW0tVU9HamJaTHNhazAwQ1lmaXZCZzlWaQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AF</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFF6blg3bnJzWWRkbG1LQ2JFQXJtRTh4Y0tiSmxGTm1SUC04ZFByUTdtaThIRlN1RjAwMzMwMk42d1NVM09qRlpFSmg3M0NNcnBOVlY0UjJSNndNdTA3TmFaQjJCM0twMVBfbG13dmlRcGpPa1dCanhnS0J5em9ZeW5XOGZqa05SOEMtcFUwMmNZb0FZeUpVYkgwRmtFdVJ6RmtsNVZrZGZRNWdETXRLRjFacTVWOUgzbHZveW0tVU9HamJaTHNhazAwQ1lmaXZCZzlWaQ?oc=5)
+
+---
+
+### [Ebola avanza in Congo. E Kinshasa si prepara: la vera difesa comincia prima del primo caso](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5)
+
+2026-09-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5)
+
+---
+
+### [Herz: Was die Augen bereits Jahre im Voraus über die Gesundheit verraten](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWJDWlpnNkxfTGt0WmNaX0xmU1gzQnhzODAyMFhZRFJSZHEtc2xQNGpabW1DTUU3aHY4M2JjVy1XSG5BaG5ySUZFWmhtTnFvTXpQRjZuMzhHZkdZOGJZa1FlNWw5ZmhEQnBUWm5qbDUzbEhUNEhWUkpJZktab1puRVMxS2UwS0loeXJQMnFfZWtlbXdNc1lRRDNDVUNOSVRRUkhSR0dCLV9FT1FHNWpKSmhDTUlPRFk0N3VkcXY4SDJyMGtxaEJPUXdEZnIzdzVZTmlFbEU2WQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWJDWlpnNkxfTGt0WmNaX0xmU1gzQnhzODAyMFhZRFJSZHEtc2xQNGpabW1DTUU3aHY4M2JjVy1XSG5BaG5ySUZFWmhtTnFvTXpQRjZuMzhHZkdZOGJZa1FlNWw5ZmhEQnBUWm5qbDUzbEhUNEhWUkpJZktab1puRVMxS2UwS0loeXJQMnFfZWtlbXdNc1lRRDNDVUNOSVRRUkhSR0dCLV9FT1FHNWpKSmhDTUlPRFk0N3VkcXY4SDJyMGtxaEJPUXdEZnIzdzVZTmlFbEU2WQ?oc=5)
+
+---
+
+### [La farmacia se une a CAP y hospitales para reforzar la prevención y detección del ictus - El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">ictus</span>
+
+Source: [El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+
+---
+
+### [Mum left with liver failure and brain damage after taking TikTok trending £5 supplement - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDFEcWVRWnNfODdCQUwzVGJ0M2NtQXl2Wl91S0xvMjI4YlJUZU8xU3NqU055eHpQTU1hQjMxZ0hhVnZqa1R5VkR0WVhxeEpPMG9LVUNzeDIxdlhCT3QtNXlqbDUzQVRPYTJjWXBWbUNFX29KUW1BbU5mWEJMSlllSWptOHpmMlI3MFB2NzRESdIBlAFBVV95cUxQeWVxU2FLdzZIeEwwN2hsLU9KYnRibG1pZWNpR0VXblEybzhiVERRd3d0NVQ1Rmg0Q0FFSVFnV3g5Y0VwbUJOeENLVnJpOHRVY1FpeHZGR1p0WlVjZGlHdXhQY3RnNllyTnFLdy1XWi1PZEVLU3g3YkVYc19EeTFBVC1fSEpOSEg5VDRmUmlsZU9PX3px?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AF</span>
+
+Source: [Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDFEcWVRWnNfODdCQUwzVGJ0M2NtQXl2Wl91S0xvMjI4YlJUZU8xU3NqU055eHpQTU1hQjMxZ0hhVnZqa1R5VkR0WVhxeEpPMG9LVUNzeDIxdlhCT3QtNXlqbDUzQVRPYTJjWXBWbUNFX29KUW1BbU5mWEJMSlllSWptOHpmMlI3MFB2NzRESdIBlAFBVV95cUxQeWVxU2FLdzZIeEwwN2hsLU9KYnRibG1pZWNpR0VXblEybzhiVERRd3d0NVQ1Rmg0Q0FFSVFnV3g5Y0VwbUJOeENLVnJpOHRVY1FpeHZGR1p0WlVjZGlHdXhQY3RnNllyTnFLdy1XWi1PZEVLU3g3YkVYc19EeTFBVC1fSEpOSEg5VDRmUmlsZU9PX3px?oc=5)
+
+---
+
+### [Un nouvel implant contre l’apnée du sommeil testé à Montpellier - 20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
+
+2026-09-17 <span class="news-indication-tag">obésité</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
+
+---
+
+### [Addio al professor Carlo Maria Rotella, luminare della lotta all’obesità - La Nazione](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUVfb0lVZ18ycWRpQWI2dkxkN0M5TzBBNEZkNFFvUzJ6d1FuRWJvYTJRLWVJOHFUUG4xeVpFVzdQWjVHNExTN1oyQ3hWa0xwcnM4NkN0Tm5LQ2o0NnpyMzVpd1g5d0JhS1hsVnJGeXdKT0pUZUU5YVNHTXdkMWM2THB6Ums2aUJLR1lQNl9UV244TnNVNl8yRm1ELU56YXlpNEdTa3hqTWFLNUZ2aWpia0M1TzZWOUx1SU1NbA?oc=5)
+
+2026-09-17 <span class="news-indication-tag">obesità</span>
+
+Source: [La Nazione](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUVfb0lVZ18ycWRpQWI2dkxkN0M5TzBBNEZkNFFvUzJ6d1FuRWJvYTJRLWVJOHFUUG4xeVpFVzdQWjVHNExTN1oyQ3hWa0xwcnM4NkN0Tm5LQ2o0NnpyMzVpd1g5d0JhS1hsVnJGeXdKT0pUZUU5YVNHTXdkMWM2THB6Ums2aUJLR1lQNl9UV244TnNVNl8yRm1ELU56YXlpNEdTa3hqTWFLNUZ2aWpia0M1TzZWOUx1SU1NbA?oc=5)
+
+---
+
+### [My best friend died after we drank contaminated vodka shots in Laos - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNSXhCYXFXNExXVUp2ZFc4T2ZtLVRuMUFGenRPcFozOWx0ZnJiWjZ5ZHA3UV8xdzNNRmFWNXdXOEVobkpzaVhTb04tNzdEYk44QWNvT0YwMXh6UUF3d0gwRzRhWlZtYXZOSl9xeHYwdmRIdVAtWDY3WHJNMmh4M0s0VnA2TU1aT05rSlJYLVBFakc3cmFBeDZuSXJKd0Zvdw?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AF</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNSXhCYXFXNExXVUp2ZFc4T2ZtLVRuMUFGenRPcFozOWx0ZnJiWjZ5ZHA3UV8xdzNNRmFWNXdXOEVobkpzaVhTb04tNzdEYk44QWNvT0YwMXh6UUF3d0gwRzRhWlZtYXZOSl9xeHYwdmRIdVAtWDY3WHJNMmh4M0s0VnA2TU1aT05rSlJYLVBFakc3cmFBeDZuSXJKd0Zvdw?oc=5)
+
+---
+
+### [Warning to dog owners after 337 cases of deadly illness in UK - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3hnLVlyXy01Z2pGXzY1dGxZRzR6RjBiMGRZS3ItbHlEVlJhbHR6R1h4dGtHeWVjRm5qcnNua1N5RXpZM0V6NXV0ZVJJVm5DR09HNWR3Y0dlRGloVWdIeEZuNjloWnBEZUhfdFJoaWI5SXNwQkVrenUxUExPelI0YdIBhgFBVV95cUxQWUFOVGwzbmlsVkpvOC1Vb3FXeDNpQUdEMlNCRktwSVVBTVhUaGNPdUlMMXNCWFRkZk5SclVYMV9sUnJCWlBDS1VzdkhJSWY5Z2F1ZGN6STZLQVJ6Rjl1eDAyOWx1Y0NKa1c5VDlkQmtRX2NobkdGbWNHZVplaG5Tbm56a1RfQQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AF</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3hnLVlyXy01Z2pGXzY1dGxZRzR6RjBiMGRZS3ItbHlEVlJhbHR6R1h4dGtHeWVjRm5qcnNua1N5RXpZM0V6NXV0ZVJJVm5DR09HNWR3Y0dlRGloVWdIeEZuNjloWnBEZUhfdFJoaWI5SXNwQkVrenUxUExPelI0YdIBhgFBVV95cUxQWUFOVGwzbmlsVkpvOC1Vb3FXeDNpQUdEMlNCRktwSVVBTVhUaGNPdUlMMXNCWFRkZk5SclVYMV9sUnJCWlBDS1VzdkhJSWY5Z2F1ZGN6STZLQVJ6Rjl1eDAyOWx1Y0NKa1c5VDlkQmtRX2NobkdGbWNHZVplaG5Tbm56a1RfQQ?oc=5)
+
+---
+
+### [Apprendre à lire dès deux ans ? - Le Café pédagogique](https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZFBpdWpVOXNaRWRKREtaeGhvR2JRQWxKazlXcV94NGpCQVJxRG1KTENMYjJxelpQTTEtbF9QOFJITFhEODExcTFVZWZla3ltMnpvRXVNd3JFQkdqdkplM2VEWlhBc2Y1Q2ZiclhQRFdJSUdFN3V1TkFpRW52Zw?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AF</span>
+
+Source: [Le Café pédagogique](https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZFBpdWpVOXNaRWRKREtaeGhvR2JRQWxKazlXcV94NGpCQVJxRG1KTENMYjJxelpQTTEtbF9QOFJITFhEODExcTFVZWZla3ltMnpvRXVNd3JFQkdqdkplM2VEWlhBc2Y1Q2ZiclhQRFdJSUdFN3V1TkFpRW52Zw?oc=5)
+
+---
+
+### [KI könnte Vorhersage von Schwangerschaftsrisiken im ersten Trimester verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWFEdk9kWEJ1YmJlSG4tdGRoUFMwM0hYNlBPaWJON1pOUXl6MlVIbWNfZjBvSGNDQmRXeXdVMDdzNEllOWFpSG94VGFMMEtCUmhGR1RJcWxseXFDLUJqYmRFTjBRV2RSWUUtZzJBNjRwMFlFSDFuMHN1UVNYSmdpaFF2UFgtN1h2MnBkOWlrNUs1VHRpUGlWRm5pV3FDcUwzeWFIV1JBV0NKTnRRbVRoZC1vWlIyTmdkTFluZ3JXRWFCR0JMSDlDbC1iUWVrMGRWOXNjMF9LVjFUeHA5d0VKUFpn?oc=5)
+
+2026-09-16 <span class="news-indication-tag">AF</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWFEdk9kWEJ1YmJlSG4tdGRoUFMwM0hYNlBPaWJON1pOUXl6MlVIbWNfZjBvSGNDQmRXeXdVMDdzNEllOWFpSG94VGFMMEtCUmhGR1RJcWxseXFDLUJqYmRFTjBRV2RSWUUtZzJBNjRwMFlFSDFuMHN1UVNYSmdpaFF2UFgtN1h2MnBkOWlrNUs1VHRpUGlWRm5pV3FDcUwzeWFIV1JBV0NKTnRRbVRoZC1vWlIyTmdkTFluZ3JXRWFCR0JMSDlDbC1iUWVrMGRWOXNjMF9LVjFUeHA5d0VKUFpn?oc=5)
+
+---
+
+### [Oltre 300mila casi di diabete in E-R, Fiaso:"Tra le regioni più colpite del Nord"](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+
+Source: [ansa.it](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+
+---
+
+### [Boy, 14, brutally mauled by rabid beaver as teen left with horror injuries after desperately trying to fight off beast](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVJZb09LMUt5ZVpWN18zMVowSG5Kb01Gb3ZndzNsNDYxcnpHeW5rRm5PRzRLWkNvS1Jla3BZOUtkTmxuR01CbkNVZVlKQmlPNUNCcmd0dWFVS0FsRnFOZzI0N1lMQXlKc3FUZktuUl8wdjdtMmVZUjBTempSaTRjdUxBYW9sQTVVSXhV?oc=5)
+
+2026-09-16 <span class="news-indication-tag">AF</span>
+
+Source: [the-sun.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVJZb09LMUt5ZVpWN18zMVowSG5Kb01Gb3ZndzNsNDYxcnpHeW5rRm5PRzRLWkNvS1Jla3BZOUtkTmxuR01CbkNVZVlKQmlPNUNCcmd0dWFVS0FsRnFOZzI0N1lMQXlKc3FUZktuUl8wdjdtMmVZUjBTempSaTRjdUxBYW9sQTVVSXhV?oc=5)
+
+---
+
+### [5-Year-Old Cat Found as a Stray Back at Shelter After Adoptive Family Never Responds to Calls](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOER3MHJjV2FyUV93eHNnQ2VuWEVMT280UWdIOHhBTFFsX3BteWY0TFBSQVJGTTJKdUVYUEV3NEdXbHlEVzA2M2pJcTRtUHFFeE1GOFdiVG1xT1VETUhtcUZpYWVidUxTUFd2RWNYWTIwZ2RVcVk4RlVTOXIwQVVEdlNMcndTQmU4LVQ3clA0NHpRWEFGdHhsRF9R?oc=5)
+
+2026-09-15 <span class="news-indication-tag">AF</span>
+
+Source: [ParadePets](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOER3MHJjV2FyUV93eHNnQ2VuWEVMT280UWdIOHhBTFFsX3BteWY0TFBSQVJGTTJKdUVYUEV3NEdXbHlEVzA2M2pJcTRtUHFFeE1GOFdiVG1xT1VETUhtcUZpYWVidUxTUFd2RWNYWTIwZ2RVcVk4RlVTOXIwQVVEdlNMcndTQmU4LVQ3clA0NHpRWEFGdHhsRF9R?oc=5)
+
+---
+
+### [Colesterolo LDL dopo i 60 anni: i valori da monitorare attentamente se si assumono farmaci](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FyQ0FqQU43b2ZGRndJYldhZkFVQVVfU0RKT05aOVlQYWNGcVRsOEtqUzRxcGxTUFR2aUtXZEo5SzZPQVdYdUhaTENmbmlqX0o3czBrWDhxeWh1WG5xSFJacnV4SjB6U3RRQW5veW9zMWpCZkVvWkJoelVGX0lldjVyOVBUY0tVUjhnOVphM20wQVNXR2tGUkVyQ0VTbXRSMHJqOUl1VnZ4WWRIM2o0M25mcjFYelVfVmx4VUVLbw?oc=5)
+
+2026-09-15 <span class="news-indication-tag">ictus</span>
+
+Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FyQ0FqQU43b2ZGRndJYldhZkFVQVVfU0RKT05aOVlQYWNGcVRsOEtqUzRxcGxTUFR2aUtXZEo5SzZPQVdYdUhaTENmbmlqX0o3czBrWDhxeWh1WG5xSFJacnV4SjB6U3RRQW5veW9zMWpCZkVvWkJoelVGX0lldjVyOVBUY0tVUjhnOVphM20wQVNXR2tGUkVyQ0VTbXRSMHJqOUl1VnZ4WWRIM2o0M25mcjFYelVfVmx4VUVLbw?oc=5)
+
+---
+
+### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+
+2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+
+---
+
+### [Deutsche Leberstiftung zum Weltkindertag: Gesunde Leber, starke Zukunft – Prävention beginnt im Kindesalter - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRWk2aHg0NElaNnNCaVNxRVdvZGxtNWFkdE0zWXVuZ3lScEVjY1NyWE80aVd1OHRudTdMeXJXMUlUeXRoR1EwX1hna19sZkFsVy13ZnQ3YUpLQldiXy1TaHdtNVlvdURYT0NnWWkxVDhvbl9QX2hPTWFpMldCa0wxdDVia0pPRXZ6Tk1ZelpSdjR6UFh0UDBGX2NHTHR4R3EtREhhMlRkTk9ldnNUeWNPTGlvczhuREVWdWJjWFQtaW1OM3pTOEhzWUZiNVRCYmlOMlVoTnJFVk5KVkNaVU9WNDE2NA?oc=5)
+
+2026-09-15 <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRWk2aHg0NElaNnNCaVNxRVdvZGxtNWFkdE0zWXVuZ3lScEVjY1NyWE80aVd1OHRudTdMeXJXMUlUeXRoR1EwX1hna19sZkFsVy13ZnQ3YUpLQldiXy1TaHdtNVlvdURYT0NnWWkxVDhvbl9QX2hPTWFpMldCa0wxdDVia0pPRXZ6Tk1ZelpSdjR6UFh0UDBGX2NHTHR4R3EtREhhMlRkTk9ldnNUeWNPTGlvczhuREVWdWJjWFQtaW1OM3pTOEhzWUZiNVRCYmlOMlVoTnJFVk5KVkNaVU9WNDE2NA?oc=5)
+
+---
+
+### [Luftverschmutzung lässt die Sehkraft schwinden - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQjdRdU5XR1hncjNwajUteDBxTGJRUGs2eG95ZVFEcF90YVR3Qm5pazZRMUtVbUNxNmVTUUJ4U2s5c211WG5XSFQxZGI3bGRpbnFQMVJIbUdoS2V1TG1ubWphZER0THZ3YkZGNXVRQ092OWFWelR6VTlOT3VZanJIUmt4WW1SQQ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">AF</span>
+
+Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQjdRdU5XR1hncjNwajUteDBxTGJRUGs2eG95ZVFEcF90YVR3Qm5pazZRMUtVbUNxNmVTUUJ4U2s5c211WG5XSFQxZGI3bGRpbnFQMVJIbUdoS2V1TG1ubWphZER0THZ3YkZGNXVRQ092OWFWelR6VTlOT3VZanJIUmt4WW1SQQ?oc=5)
+
+---
+
+### [Eye scans detect signs of atrial fibrillation years before diagnosis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
+
+2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
+
+---
+
+### ["Je suis cardiologue et je ne mange jamais les aliments de cette couleur" : ils bouchent les artères et favorisent l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AVC</span>
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
 
 ---
 
-### [West Nile, cinque casi nel Brindisino: disinfestazione anche a Carovigno](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmlaMUd4b3pEWVNZa3hYV2I4VlJHSVZMeUtsajc5LUNpM1N4WFBZNnNaN2ZzT1hvMWVUUnVZekxIdkJ6NUxZb05TM2RCQmFpOXRlTTVzQnNHUF9yZHBZblhERDQ1UmhTMGdEYm1kX3dZeFpIZ285QnpxcVdjSldxeXV0bTduMXZhYnh2LWJTWERFd2k1NDlJ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-Source: [BrindisiReport](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmlaMUd4b3pEWVNZa3hYV2I4VlJHSVZMeUtsajc5LUNpM1N4WFBZNnNaN2ZzT1hvMWVUUnVZekxIdkJ6NUxZb05TM2RCQmFpOXRlTTVzQnNHUF9yZHBZblhERDQ1UmhTMGdEYm1kX3dZeFpIZ285QnpxcVdjSldxeXV0bTduMXZhYnh2LWJTWERFd2k1NDlJ?oc=5)
-
----
-
-### [Inglaterra prohíbe los fritos y limita los postres en los comedores escolares para combatir la obesidad infantil](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2hiQlVNVTZ2UjlNR3RILWhFS2kyNHozcmFLSFJlTE1GOHRxRFFxVlgydHM5QkVUYnZ5QU5MZnY5TnBkQjFVRkNNLVN3TUwyaEZFQjRJa3ZCMWo5NGI0LWFyeXh3cWItUjhYb3lNV3VlMl9FMXU2Q0Nad3VsRHZPb21qaVMxTmJlVXNLcF9BanUxLUFSTkxMUnBUUFlBTV91Nld6RnZDRTMtTkZ0M2xXMNIBtgFBVV95cUxNVkRIai0tZjR4enRHZkpEVjRhNFhBNFNGemE1WUJaOEVMWF9qb205eVhZdTZjalQ4REJiYWFhdzVxRmVPdUEwMGVBdUVKSnp0eDdtdDBLM0tVX1RPZUVfcmZkWDdrY09hZTNBS19UR1ZwSkZ0dXZ1U2FrN3ZGV2xSekZ2RjhCUXBLZERCVEs1c0wwZEhqVG1UelNvWnNBZHQ4VFEtRWd1MUtsd3dqcEI1QnpydlBjUQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">obesidad</span>
-
-Source: [ABC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2hiQlVNVTZ2UjlNR3RILWhFS2kyNHozcmFLSFJlTE1GOHRxRFFxVlgydHM5QkVUYnZ5QU5MZnY5TnBkQjFVRkNNLVN3TUwyaEZFQjRJa3ZCMWo5NGI0LWFyeXh3cWItUjhYb3lNV3VlMl9FMXU2Q0Nad3VsRHZPb21qaVMxTmJlVXNLcF9BanUxLUFSTkxMUnBUUFlBTV91Nld6RnZDRTMtTkZ0M2xXMNIBtgFBVV95cUxNVkRIai0tZjR4enRHZkpEVjRhNFhBNFNGemE1WUJaOEVMWF9qb205eVhZdTZjalQ4REJiYWFhdzVxRmVPdUEwMGVBdUVKSnp0eDdtdDBLM0tVX1RPZUVfcmZkWDdrY09hZTNBS19UR1ZwSkZ0dXZ1U2FrN3ZGV2xSekZ2RjhCUXBLZERCVEs1c0wwZEhqVG1UelNvWnNBZHQ4VFEtRWd1MUtsd3dqcEI1QnpydlBjUQ?oc=5)
-
----
-
-### [Gonorrhoea and syphilis rise by more than 50% in Australia with ‘concerning’ rise in cases in women - The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEpxUWY2RlN6ZHFwRmpNR0JDZUwydHRqME9pU0hmay1SUGVheTQxTTJnSVQ4RWQ1cTVwdU01QWFWWG5rMHJBakFndC1vaVpDNkFmZWZCS2tTelpwRVEyZTBrdEtiQ2w1OW1fcjd6UVBxS3JrWjNfbWt0bnAzckhuUTkxUnZOb3gwcXpFYXMyWXh1YkMyZVZRQ3pjTjBSSkFKZ0VhWmpHaHZTeGFOenRiQXdn?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEpxUWY2RlN6ZHFwRmpNR0JDZUwydHRqME9pU0hmay1SUGVheTQxTTJnSVQ4RWQ1cTVwdU01QWFWWG5rMHJBakFndC1vaVpDNkFmZWZCS2tTelpwRVEyZTBrdEtiQ2w1OW1fcjd6UVBxS3JrWjNfbWt0bnAzckhuUTkxUnZOb3gwcXpFYXMyWXh1YkMyZVZRQ3pjTjBSSkFKZ0VhWmpHaHZTeGFOenRiQXdn?oc=5)
-
----
-
-### [El superalimento: pescado de acuicultura para afrontar la vuelta al cole - Ruta Pesquera](https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1B2eThDMVJoTTVyYjR4TlU3V2pZZjNEa1lyMC15aS1LV25wUmtTSFd1RVRvUnFBRklhbUFlenNKWDQ2dHJYSkFWQ2l4TE5mX2hkUFY4bUp6U3pGYjNJNTRMVU9RQ2MyLUE1UXlFb0ZoYmpvQW04WVROR3dyOFhDRERod1c2a1N1VmdjcHVzN2F5T2lhcV9oYVZoZEJhazJ1a1ZZ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-Source: [Ruta Pesquera](https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1B2eThDMVJoTTVyYjR4TlU3V2pZZjNEa1lyMC15aS1LV25wUmtTSFd1RVRvUnFBRklhbUFlenNKWDQ2dHJYSkFWQ2l4TE5mX2hkUFY4bUp6U3pGYjNJNTRMVU9RQ2MyLUE1UXlFb0ZoYmpvQW04WVROR3dyOFhDRERod1c2a1N1VmdjcHVzN2F5T2lhcV9oYVZoZEJhazJ1a1ZZ?oc=5)
-
----
-
-### [Extremadura suma dos nuevos casos de fiebre del Nilo que elevan a 46 los contagios en 2026](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNm85XzR1TjZDNlJpS3BHVFJuZkNubnpYVENFVGtDby1hZFBDaTl2SDFkMXlIZHVzRWNQbWFNV29hQnFHLWdZMDFTQVlYci1HYTJsWThCeGt4Q3FnRmdyMU1kb1dWQlU3ZG1fUGZIbmpNLU52TW1yb2JCVEgxSVJxbG8wTndkaXZ3dE1vSndyRktqSnJZWE1vc3QtNmpPdkYzQXp3Zk41OVZfdlRSODAxWmZkX0U4Zjh3RE5XZFFIYVYwTlNhdmEtd2JvSUpJXzVMbXFGckFEWXQwQQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNm85XzR1TjZDNlJpS3BHVFJuZkNubnpYVENFVGtDby1hZFBDaTl2SDFkMXlIZHVzRWNQbWFNV29hQnFHLWdZMDFTQVlYci1HYTJsWThCeGt4Q3FnRmdyMU1kb1dWQlU3ZG1fUGZIbmpNLU52TW1yb2JCVEgxSVJxbG8wTndkaXZ3dE1vSndyRktqSnJZWE1vc3QtNmpPdkYzQXp3Zk41OVZfdlRSODAxWmZkX0U4Zjh3RE5XZFFIYVYwTlNhdmEtd2JvSUpJXzVMbXFGckFEWXQwQQ?oc=5)
-
----
-
-### [Schlaganfall: Neuer Wirkstoff könnte Erholung verbessern](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
-
----
-
-### [La obesidad puede paralizar una defensa natural contra el cáncer de mama - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
-
-2026-09-14 <span class="news-indication-tag">obesidad</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Zfd2JhRERaWWR5aU9HYVpQNk9EeVVoN3AyMHMzdHhTWDdEMmlkSnEyZWp3YVlWUzhFRFVEUWFWcnVjV0FLbkhISFhzMk9oTnkzLVZMd1dHNEhYTkVncFFvektmeHB0STRoUWw1bVRsZmxnZlpESmpoY2VkVlVEdXNhdmdfZVFneEhndUNSZU5RX0VTOEVRVUNHUE8tR09FZGduRXUzYzJUUmNsMWNELUlnbEZhd1ZQV1NQelFn0gG4AUFVX3lxTE04UnFDNWtlaE1IX1VqbTJmNllFZXVJS2xzMm5XTXZXOU93M0tEdTZUb1pWZy14SHZ4aDdLSGZsS2JibjEtUUtmeHJjZU9iZmczME82SWFFdzVqekxZOThzRS1qeUE1dUdvT0l2OWFyY1lxR1EyME9EcGJubTNaV0hsQlFkcnhFXzFWR0Y4YlhOQ2FHekxLS05Id2hWSkxNcFU4V3FqdHJZOXh1TjZ3TTF0Q05nNjRKWFY?oc=5)
-
----
-
-### [Saft oder Smoothie - was ist die gesündere Wahl? - Radio Vest](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2pZQmlQRTNxNlkwWWVBejdZTUtYZGluTUgyQTAwQ084VFVnYlBweEdEWmt3eXRCdmRlUUxjWHduc2hRR2x0S0VRcEU3NGd2MzZlYW83VE95WXpNUUt0Mk1CdEdWN0pObGpjbzA3c1RBWUNzN2EyeFNvMkFFSnhCN0NwOFZLaTFud2NF?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-Source: [Radio Vest](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2pZQmlQRTNxNlkwWWVBejdZTUtYZGluTUgyQTAwQ084VFVnYlBweEdEWmt3eXRCdmRlUUxjWHduc2hRR2x0S0VRcEU3NGd2MzZlYW83VE95WXpNUUt0Mk1CdEdWN0pObGpjbzA3c1RBWUNzN2EyeFNvMkFFSnhCN0NwOFZLaTFud2NF?oc=5)
-
----
-
-### [Quiz: Kennen Sie die aktuellen Therapien bei Adipositas?](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjdnamhNcHEzZnRlc3lDRzV2UFB5STRiR0F5TURhTGxpc25uZS16NmxoTjhNTXJWYXQ0cGdZcjhTZTBYNnFEeGFGa1FaRm13UmpYZHBnMTdrY3Z6bEFidXVTc2NCcEpLLWgyQmdYNnJJR0hqYWctRmpUVDBrYWFlcjdhcHNMQ2JDa3JZSGZZbGFUSnRxbk5OV0lrdWlKZ0RyYnEtNWVaWlhUdUVkN3pn?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Adipositas</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjdnamhNcHEzZnRlc3lDRzV2UFB5STRiR0F5TURhTGxpc25uZS16NmxoTjhNTXJWYXQ0cGdZcjhTZTBYNnFEeGFGa1FaRm13UmpYZHBnMTdrY3Z6bEFidXVTc2NCcEpLLWgyQmdYNnJJR0hqYWctRmpUVDBrYWFlcjdhcHNMQ2JDa3JZSGZZbGFUSnRxbk5OV0lrdWlKZ0RyYnEtNWVaWlhUdUVkN3pn?oc=5)
-
----
-
-### [Mejorando el abordaje de la obesidad: la nutrición y el estilo de vida como complemento esencial del tratamiento - El médico interactivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV040NE44b2RsMWRDRG5Fa1pRMlNDdzRXXzFtZjl0S2gyMWh1TWotRzA0RlFqMGlEdHN2dTZaM3c4T0JEbkRGRUVQMThSU2tEQU1aOE03Yk1lQWNxNjBBT08tX0h4WXl6dmVpbG1rOFRXU3EzNERxbWQwTDVTdjhpenR6SFdzWjF0T1dmazFKQ3FzaUhMWG9RM2tNcFBJbGZ0eGNjMU51Y0s2LWplY3BTQjh3ckhIZ2huTXI3LWIxYmhUZVVDWnBEc2JPc0FCcTJvZlBoU0x5bklBX09I?oc=5)
-
-2026-09-14 <span class="news-indication-tag">obesidad</span>
-
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV040NE44b2RsMWRDRG5Fa1pRMlNDdzRXXzFtZjl0S2gyMWh1TWotRzA0RlFqMGlEdHN2dTZaM3c4T0JEbkRGRUVQMThSU2tEQU1aOE03Yk1lQWNxNjBBT08tX0h4WXl6dmVpbG1rOFRXU3EzNERxbWQwTDVTdjhpenR6SFdzWjF0T1dmazFKQ3FzaUhMWG9RM2tNcFBJbGZ0eGNjMU51Y0s2LWplY3BTQjh3ckhIZ2huTXI3LWIxYmhUZVVDWnBEc2JPc0FCcTJvZlBoU0x5bklBX09I?oc=5)
-
----
-
-### [Mejor edad para revertir la obesidad infantil - Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXU4TURPR1ZEZXdXcWVKcG5UQU9KQTNNU214ZFFaYlNxZC1YSzNQV2stZDR0dmszX2xTM0dtU09tZGNKQUJmV1RZWTF1dWZxS3JieXEza19fZVMyOEI0S0F4RUN4cVFxTlMtcEFCdWZSY0FBcGpWRVEzbmlnU2ttZGU5VWNwODZDVTl0ZkdYU0VzV2NpNUZOTWtuc1h0NmVoMkk4TXdiNlBLYlpXSkh2MG42MGQ5dms?oc=5)
-
-2026-09-14 <span class="news-indication-tag">obesidad</span>
-
-Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXU4TURPR1ZEZXdXcWVKcG5UQU9KQTNNU214ZFFaYlNxZC1YSzNQV2stZDR0dmszX2xTM0dtU09tZGNKQUJmV1RZWTF1dWZxS3JieXEza19fZVMyOEI0S0F4RUN4cVFxTlMtcEFCdWZSY0FBcGpWRVEzbmlnU2ttZGU5VWNwODZDVTl0ZkdYU0VzV2NpNUZOTWtuc1h0NmVoMkk4TXdiNlBLYlpXSkh2MG42MGQ5dms?oc=5)
-
----
-
-### [Il caffè del mattino? Anche il cuore lo preferisce puntuale](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDVpRmF6Yzh6XzZZS0FsRHZBQ1U1MnFPdnUyaFVORVEtOFh1QUI1bjFLQVJWUEFxckx6d00yQzZOUUhKTVpDZkk0bUhKMU5TeTBUbzM0d0V0NFhNNnJ3NE9fWWFQMFAwdGlvY01yX1BtaG1uWXE1bVYwMlBlYVUxWW56Zk9YaU1fX3VFQWxKbXFfVWRualBpaXJCZkpaSUFNZG91Y3JiWFk5amlPUmc?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDVpRmF6Yzh6XzZZS0FsRHZBQ1U1MnFPdnUyaFVORVEtOFh1QUI1bjFLQVJWUEFxckx6d00yQzZOUUhKTVpDZkk0bUhKMU5TeTBUbzM0d0V0NFhNNnJ3NE9fWWFQMFAwdGlvY01yX1BtaG1uWXE1bVYwMlBlYVUxWW56Zk9YaU1fX3VFQWxKbXFfVWRualBpaXJCZkpaSUFNZG91Y3JiWFk5amlPUmc?oc=5)
-
----
-
-### [INFO RTL - Wegovy et Mounjaro : depuis leur remboursement, l'engouement pour les traitements contre l'obésité se confirme avec 86.000 boîtes prises en charge](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
-
----
-
-### [Pilita Clark: Perils of headphones in the office - The Irish Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUFZd0ZFTGc2S3MxZXRENVBLalFrc3g1cklYb19yb3A3MXg0RlFoUG1EQ0E4OUVWcTd3Z1FVV2Z6NS0wU2ZKT1hkNkRMbTIyUUhpOUxldXMtZlhDQ1RReEkyYkM1S1R1em9GWXpUY1BDRDFpTFlGUl9kdTlIVkpqZzgxYU04ZDVaT0hrYk4ydEFPVkhtaDUtZS1DWQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-Source: [The Irish Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUFZd0ZFTGc2S3MxZXRENVBLalFrc3g1cklYb19yb3A3MXg0RlFoUG1EQ0E4OUVWcTd3Z1FVV2Z6NS0wU2ZKT1hkNkRMbTIyUUhpOUxldXMtZlhDQ1RReEkyYkM1S1R1em9GWXpUY1BDRDFpTFlGUl9kdTlIVkpqZzgxYU04ZDVaT0hrYk4ydEFPVkhtaDUtZS1DWQ?oc=5)
-
----
-
-### [Fünf Gewohnheiten senken Demenzrisiko laut Forschern um bis zu 40 Prozent - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1lYRXB6OTdseXFEaS1GLXJubU5aOEtnRXJ2NGVORXJZU0F4NFJrNkpOQUhiYTA5MUh4WGlVZEhrTEZBbS1hR3dLSk5ZOGx3U3VOX2c4dnpSVUk2LXozdDdldndoYzJ4c1lSNDFtUGVuNTg2V2RBbnlEZEttenRldmFLUjQzbWNRM0FVR3c0MnFTdG12TUNmWmFFVEU3VWNpMTA3SVZpMEFYNmJwencxaDdLbVdoc1JYcHFlN2FR?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AF</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1lYRXB6OTdseXFEaS1GLXJubU5aOEtnRXJ2NGVORXJZU0F4NFJrNkpOQUhiYTA5MUh4WGlVZEhrTEZBbS1hR3dLSk5ZOGx3U3VOX2c4dnpSVUk2LXozdDdldndoYzJ4c1lSNDFtUGVuNTg2V2RBbnlEZEttenRldmFLUjQzbWNRM0FVR3c0MnFTdG12TUNmWmFFVEU3VWNpMTA3SVZpMEFYNmJwencxaDdLbVdoc1JYcHFlN2FR?oc=5)
-
----
-
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
----
-
-### [Oltre 60 punture d’ape: supera l’anafilassi, poi l’ictus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
-
-2026-09-13 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
-
----
-
-### [Obesità, il paradosso degli uomini: stessi chili, meno cure e più rischi](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1k2dkFrblNkdUQ3ZmVKVkZEUUUxNDhsYnc4REFDUmkzTUpMcEdkbDFWS2xrZVIxR1Rsb1d4UHFrSW9aaDJQWFdQTGNybGhOVHVsVHpfYkE4Si1MYjdPd2FMTjRUejFFMGlCWWFxMFBzWlhBRjRXTnRZT2hGcHFraW1kSGxxZkRMSjNBLVdyZmpSVmo2MmJ4bXlDSktnMURFaTR2dE13OFhJWnRvZmVXalFVNmJNejhucW5PSw?oc=5)
-
-2026-09-13 <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1k2dkFrblNkdUQ3ZmVKVkZEUUUxNDhsYnc4REFDUmkzTUpMcEdkbDFWS2xrZVIxR1Rsb1d4UHFrSW9aaDJQWFdQTGNybGhOVHVsVHpfYkE4Si1MYjdPd2FMTjRUejFFMGlCWWFxMFBzWlhBRjRXTnRZT2hGcHFraW1kSGxxZkRMSjNBLVdyZmpSVmo2MmJ4bXlDSktnMURFaTR2dE13OFhJWnRvZmVXalFVNmJNejhucW5PSw?oc=5)
-
----
-
-### [I blamed fatigue on being working mum as ‘silent killer’ affecting 1 in 3 Brits wrecked my organs - I could die any day - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTlmRzlQUjhjVGZlakhYdUZhWHYwVGJ0enFrcGlScTNmZ1p1U2kyLTY1cDdTblFWZWFpUVdjRHpfOWFWRGpuUGlELWpQSU1kTjJYbmtQQWpXR2VaTWp6UkNGOUgwXzRTSlJ1VXplY1FFQ2ZVVVpfcWRtMVhPVXdEY294U1A4d0QwTjNZZHVR?oc=5)
+### [Dad given hours to live after pub roast dinner leaves him fighting for life - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1qLUFjUktyaHNVTnAwc2M1bF90ZElKUnJKQWZvV2ctSFpYeGYwamFQVmJQbENhWkw1MDFwamd3TkxXcm9JVGU3LVk3aGNWUk9WM2p5ZWpPdW9UdW03WFBtUVh2bE4wRlJSZkpKUG5qLXozYmRweDFMdzRYVXZvZw?oc=5)
 
 2026-09-13 <span class="news-indication-tag">AF</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTlmRzlQUjhjVGZlakhYdUZhWHYwVGJ0enFrcGlScTNmZ1p1U2kyLTY1cDdTblFWZWFpUVdjRHpfOWFWRGpuUGlELWpQSU1kTjJYbmtQQWpXR2VaTWp6UkNGOUgwXzRTSlJ1VXplY1FFQ2ZVVVpfcWRtMVhPVXdEY294U1A4d0QwTjNZZHVR?oc=5)
-
----
-
-### [Laptop Toasts Boy](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VckdFUy0wRVRUdVl4WFltRGd2WHhtUTJDdVFCVWJvYVNaZnlIQ0VIemJDdC1WOVAzRFZZY01kRURGNkFkbGpyUS1TNDdlSzRMRkF0YVpOQWFCbFVqbFYyOFN6eEE?oc=5)
-
-2026-09-13 <span class="news-indication-tag">AF</span>
-
-Source: [Futurism](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VckdFUy0wRVRUdVl4WFltRGd2WHhtUTJDdVFCVWJvYVNaZnlIQ0VIemJDdC1WOVAzRFZZY01kRURGNkFkbGpyUS1TNDdlSzRMRkF0YVpOQWFCbFVqbFYyOFN6eEE?oc=5)
-
----
-
-### [Boy, 13, dies weeks before birthday after 'hay fever' symptoms were cancer - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
-
-2026-09-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVUVkR3FnRjFXM01MSml2YWdyX1hVUWFSeGpBV1h4c3FDV2NOQlgxSTJfMzJmTEFNb3VfQ3hZbnRDQTNQWEhfVUllVG9uWDZkTnpnVTlYS1RKZERBUjMzcnlzTFVTQlVIMk5iOUJJZlYwWmtPNkFQM2VlZ9IBgAFBVV95cUxNV1J4SWhOQkVvQmp4R3NZOXIwUnV0bnNsNlpXenJteGZ3eUxzQ2RnOUxtZlZJX1gyV1pYeDF6a0lWbVVqb0JVSDl3MDBzQzZBU3RuMVktUjJoSE5yNEJJbmc4N1JQUy1JSlM3SExoMFB1aDJRV2RXZVlhMVlRN1VKbA?oc=5)
-
----
-
-### [Highland Perthshire hotel closes as staff and guests fall ill - The Courier](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWVteDJoNWVkbGJvUzNZamxyaWZRWllocE5kSlowMV9uWDJMYUE1dFBNYkhhU3hYMHljb0wyOU5lVWhzdHktNnVUNlhYbklGVWVudjJtTVJfc1R2dUZNNVhBanhHSl9OSTBHN2F4UVEtd090LW5qRllqSkpjS1RGNjQxTDRFZjR5akxTLUVBcHB3QQ?oc=5)
-
-2026-09-13 <span class="news-indication-tag">AF</span>
-
-Source: [The Courier](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWVteDJoNWVkbGJvUzNZamxyaWZRWllocE5kSlowMV9uWDJMYUE1dFBNYkhhU3hYMHljb0wyOU5lVWhzdHktNnVUNlhYbklGVWVudjJtTVJfc1R2dUZNNVhBanhHSl9OSTBHN2F4UVEtd090LW5qRllqSkpjS1RGNjQxTDRFZjR5akxTLUVBcHB3QQ?oc=5)
-
----
-
-### [Adipositas, Prädiabetes & Fettleber: Keto-Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
-
-2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
-
----
-
-### [3-year-old girl dies after persistent cough turns out to be fatal heart condition; doctor explains when p](https://news.google.com/rss/articles/CBMiuwJBVV95cUxQczZITzdHRlpsMzRSQ0ZoTjNTdzhLYTlTWFBndVpLa3RtYmhNakxGdWZ3S2NGMmRtOXZreHhqNVF3OW1nbXhxcEkydmJXV0ZfUnlkdUd4OE9WQTRDMkpZcmtGUmlOaVNOWjFqN0NnbTF5SVRxbU85M3R2emp4Z1NobGJuTDRJVS1HeFVOb3laVHNOUFlJMWtYZ1E3T3VWa2Q2SlZYY0Rldy1YaDMtb3RDQkVoQWx0ZDBlTlc4REtvcThNS3JucnkyNjI0bl9FZXVWQml6NWFRWVJiZ0xTRVFBbWdQMmFlU2FjX3lUSUpqT0VLQnd5WnRRVmwxc3Z0bUFkMFVfcHdQeFdtc2p5bUdKRElEdjBFR2dLYUtoN1M2SjRYOGpwSGhPdUNKa0toal9Neld0dzBjcG9lR0nSAcACQVVfeXFMT3JMTnZaRlJKa2VRNW5LY0d2QVNXY3NDc0gxRjYwdFVRM2dxeHBYTHo2dkQyZ3JVcnZBZGFOM3VYdWlFOHNaalVlUkx3QWM3SUtPNmlJWUpnbUhpVnVjZ09xaUNDTG9wTGpsTnduTEdUeURsalc1VWRwc25Qb2xmWW5xMU9FVHQ1UU1PMDVESnRWZ0pJbTVwVWVrcWRWbnRDVGllNFJBaW9NdTJKSm1TQklSN1JhYnJkZW53OVQ2bmtaU3NjcGltakMxR3RCb3o5Y1dQZnVVM184ckdMd2loV3F5aGRveEt6Y0VjMVNVS3hHc0Q1ekVGVFhmbXJqQl9YTW9GNVNpN2JjQ0lybmRRVjk1MGxkNWlqcXVpbG5RNVRGc1lTc21jRjZ1dERUQlJ1WVd0WF9CcUE2UkRoMHEzWk0?oc=5)
-
-2026-09-13 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
-
-Source: [timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMiuwJBVV95cUxQczZITzdHRlpsMzRSQ0ZoTjNTdzhLYTlTWFBndVpLa3RtYmhNakxGdWZ3S2NGMmRtOXZreHhqNVF3OW1nbXhxcEkydmJXV0ZfUnlkdUd4OE9WQTRDMkpZcmtGUmlOaVNOWjFqN0NnbTF5SVRxbU85M3R2emp4Z1NobGJuTDRJVS1HeFVOb3laVHNOUFlJMWtYZ1E3T3VWa2Q2SlZYY0Rldy1YaDMtb3RDQkVoQWx0ZDBlTlc4REtvcThNS3JucnkyNjI0bl9FZXVWQml6NWFRWVJiZ0xTRVFBbWdQMmFlU2FjX3lUSUpqT0VLQnd5WnRRVmwxc3Z0bUFkMFVfcHdQeFdtc2p5bUdKRElEdjBFR2dLYUtoN1M2SjRYOGpwSGhPdUNKa0toal9Neld0dzBjcG9lR0nSAcACQVVfeXFMT3JMTnZaRlJKa2VRNW5LY0d2QVNXY3NDc0gxRjYwdFVRM2dxeHBYTHo2dkQyZ3JVcnZBZGFOM3VYdWlFOHNaalVlUkx3QWM3SUtPNmlJWUpnbUhpVnVjZ09xaUNDTG9wTGpsTnduTEdUeURsalc1VWRwc25Qb2xmWW5xMU9FVHQ1UU1PMDVESnRWZ0pJbTVwVWVrcWRWbnRDVGllNFJBaW9NdTJKSm1TQklSN1JhYnJkZW53OVQ2bmtaU3NjcGltakMxR3RCb3o5Y1dQZnVVM184ckdMd2loV3F5aGRveEt6Y0VjMVNVS3hHc0Q1ekVGVFhmbXJqQl9YTW9GNVNpN2JjQ0lybmRRVjk1MGxkNWlqcXVpbG5RNVRGc1lTc21jRjZ1dERUQlJ1WVd0WF9CcUE2UkRoMHEzWk0?oc=5)
-
----
-
-### [Tumore al seno, scoperta una difesa nascosta nel tessuto adiposo: con l’obesità si riduce](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3U4eWFxOGJCVXUtRUd4U2l0dG5iS2g4X3hudkxJdTZiRkJqV2Y4eU91dE8xOW1HME13R1dERF96Sm8xWi00M1N2V2ttUDR6LVdFRDJWQjFUVFhpcFBsVmFONnJxeTg2Mmx1ekx5aXBWZHJuOWlPMXJxNVBEZ2plelpYUEpTQnRPRFBqRzdkdzRYVlc4VkI2ZnY3TElERG15dlphbTZBM1JGTkNGUEt2d1p4ZmVoZ2J2VFRDSUV2RDB3U3dBN0R1Mmp4UnlxZFJzcEVKbF9yeGxBbHNVM0lr?oc=5)
-
-2026-09-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3U4eWFxOGJCVXUtRUd4U2l0dG5iS2g4X3hudkxJdTZiRkJqV2Y4eU91dE8xOW1HME13R1dERF96Sm8xWi00M1N2V2ttUDR6LVdFRDJWQjFUVFhpcFBsVmFONnJxeTg2Mmx1ekx5aXBWZHJuOWlPMXJxNVBEZ2plelpYUEpTQnRPRFBqRzdkdzRYVlc4VkI2ZnY3TElERG15dlphbTZBM1JGTkNGUEt2d1p4ZmVoZ2J2VFRDSUV2RDB3U3dBN0R1Mmp4UnlxZFJzcEVKbF9yeGxBbHNVM0lr?oc=5)
-
----
-
-### [Fibrillazione atriale: quando serve davvero il farmaco per l’ictus?](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
-
-2026-09-12 <span class="news-indication-tag">ictus</span>
-
-Source: [healthy.thewom.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
-
----
-
-### [Mum died from aggressive cancer after nine-month wait for test results](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
-
-2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYVQ5REUydE0wd0ZzMkxSZE1xMVZMU19QZ1hEWDR2ZU5uN0F0bGwwVzEzeE1PdXRaR2F5LWYtOGhnMkhBeDVYclpvT1NLbVEwSThjWHktTTFMT3ZS?oc=5)
-
----
-
-### [Weniger Sitzen und mehr Bewegung könnte Risiko für hypertensive Schwangerschaftserkrankungen senken – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
-
-2026-09-11 <span class="news-indication-tag">AF</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZHo3SEdfeVVHdHNlYTVYVjNKYi1wYXdhRHIya2I5VlhZbmZwMGs2RWxJdFhuYkg2NnVfdWc4UVNzQTl5eFZ5S3ZaUklxMkM1MnVBcHZzQlhLanpkdjhPbi1uUW1DcnI2RUhtZWZ4RlE4M0JtLTI2d3lEY0J0aHBZQl9WTFhxWERwYXJlamhXWGFIN0dtcU95bXRxY2lFMHJZZEZEN0hrbzV6WTZRMTMzcmtSWFpHVm9GY25kc1lBd1VwRFU3SlJnekphbnNnd1VldEsxMkc4RHplNVZSYlk3VzJKek8xV1lsODEycDZyYXI0bGNUV0laSF92M3o?oc=5)
-
----
-
-### [Analyse: Schlaganfall-Risiko in den Monaten nach Krebsdiagnose verdoppelt](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
-
----
-
-### [Nurse previously given months to live now cancer-free after groundbreaking operation at hospital](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
-
-2026-09-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [gbnews.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTFIYlp4ZFpydWRkZFlPSnNuMFFKS1QtbXdzemQwYk5YQ0V1d2JUcWNJVnJ6amVWLXlyS0RjX2VBNXExMHRlb21mWDlhX2ZpSnRBMFc4OElpWnFmc29VbUhUN2FUc3A5YWFWVUlFY21weTNBMXBNcElPajV2V29EUWIwVVdpa3hqSTF3?oc=5)
-
----
-
-### [Siblings Turn Against This Person For Weaponizing Sister’s Allergy After She Was Being Annoying - Bored Panda](https://news.google.com/rss/articles/CBMicEFVX3lxTE15QTR1cE1ZZ0Q0SWRIRy1kdXZxczU0bkNjdjczUjRtZlJJXzBKYUhwU3pEM3hnQ0Q4d2dGc2xCUXBBWHg1WnJpWU04aVpUWUc3ZkJkSGFrSTlmQjFRc0ZXMlY4V1duRExaYWlJUXdyemg?oc=5)
-
-2026-09-11 <span class="news-indication-tag">AF</span>
-
-Source: [Bored Panda](https://news.google.com/rss/articles/CBMicEFVX3lxTE15QTR1cE1ZZ0Q0SWRIRy1kdXZxczU0bkNjdjczUjRtZlJJXzBKYUhwU3pEM3hnQ0Q4d2dGc2xCUXBBWHg1WnJpWU04aVpUWUc3ZkJkSGFrSTlmQjFRc0ZXMlY4V1duRExaYWlJUXdyemg?oc=5)
-
----
-
-### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
----
-
-### [Entspannen: Musik hilft, Stress abzubauen - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkg2VGl1RGpHQmdKbkstNGlkY1kyc1d2RVlLSjc0Sy1pWGRfVkc0c0V1VDlrLVU2Tm1oRmJqV19LZzIzcDExZHItQS1QcW5JOXR6OFFHZXc4d2xnNWNjY01GQTVOV1lPUUlWVWFKZFVYWlA4WW5USzRBNEpacVQtQmNHRzhrVnpKVmc?oc=5)
-
-2026-09-09 <span class="news-indication-tag">AF</span>
-
-Source: [Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkg2VGl1RGpHQmdKbkstNGlkY1kyc1d2RVlLSjc0Sy1pWGRfVkc0c0V1VDlrLVU2Tm1oRmJqV19LZzIzcDExZHItQS1QcW5JOXR6OFFHZXc4d2xnNWNjY01GQTVOV1lPUUlWVWFKZFVYWlA4WW5USzRBNEpacVQtQmNHRzhrVnpKVmc?oc=5)
-
----
-
-### [GLP-1 gegen Schlafapnoe: Tirzepatid senkt Atemaussetzer, CPAP bleibt Standard - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
-
-2026-09-08 <span class="news-indication-tag">AF</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkxuZHNzR3hCNzA0QlU5T1BHOFZKZk9TaGwtWkgxY1JJUjZiWGZ5bjFCeVYzWUhMeWt4b2V3OVRRTUMtdmEwMHdkRm5Kbm1la1FhdnJ2Rkw1TUM4Tmo0Ung0VVd2bjZyRWlDZW1qY053UTcyTEUyUVF1NFRYODNYaTVKa3dILVNQTF83cmJBaHlSTzhkMXU5UDBjYzI5Q2dDNElsQkZTd3cxUjA?oc=5)
-
----
-
-### [Neurólogos y asociaciones de pacientes reclaman ampliar el acceso a los nuevos tratamientos para la migraña - Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
-
-2026-09-08 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
-
----
-
-### [WHO: Viel zu wenige Betten für Ebola-Patienten im Kongo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3BHcTQxeEF5aDg1T0ZIaUg4YWt2bEljcGdpRi04MTZzV1pZdWdlQzJZcXVtYlVhVVc3THloZnhsMWFzXzhTaEFPTi1WbTk0Rmw5MS1RdDVRdVdsMFo5TS01UUtJaFh4dnkyWGVBVkVKc0lWOUl3LXdpeDN5ZzhleUduME9jemEzczYxU0hfbmRqNEpYYWRGVjZMWmNBQ2JmcnAtNFBIdm95NlpwVlpBeGZ2Q04?oc=5)
-
-2026-09-08 <span class="news-indication-tag">AF</span>
-
-Source: [main-echo.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3BHcTQxeEF5aDg1T0ZIaUg4YWt2bEljcGdpRi04MTZzV1pZdWdlQzJZcXVtYlVhVVc3THloZnhsMWFzXzhTaEFPTi1WbTk0Rmw5MS1RdDVRdVdsMFo5TS01UUtJaFh4dnkyWGVBVkVKc0lWOUl3LXdpeDN5ZzhleUduME9jemEzczYxU0hfbmRqNEpYYWRGVjZMWmNBQ2JmcnAtNFBIdm95NlpwVlpBeGZ2Q04?oc=5)
-
----
-
-### [Immunforschung: Adipositas und Rheuma zeigen ähnliche entzündliche Immunreaktionen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
-
-2026-09-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDRBcmpzN0J5enViUmdsRmJGM1NuTW0zX3hWWFFocExRTWc4R0tmSzBlWERpdDNHQ05RLUZFTWppS3YzQXNYNXU1SThyMWZfOWx2bWJYMmJiNGJGS2p4N3lfUWRSWU1RWmp3ZEo4QUNnbVJERkN0Tl83Q2ozXzhhUVlPVHdNSzJwUmxGdkJJZ2dsTDBUc3lDcXB2WlN1TEE?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1qLUFjUktyaHNVTnAwc2M1bF90ZElKUnJKQWZvV2ctSFpYeGYwamFQVmJQbENhWkw1MDFwamd3TkxXcm9JVGU3LVk3aGNWUk9WM2p5ZWpPdW9UdW03WFBtUVh2bE4wRlJSZkpKUG5qLXozYmRweDFMdzRYVXZvZw?oc=5)
 
 ---
 

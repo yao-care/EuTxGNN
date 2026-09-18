@@ -3,7 +3,7 @@ layout: default
 title: "Prucalopride Succinate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Prucalopride Succinate. Original indication: Resolor is indicated for symptomatic treatment of .... 20 predicted indications."
+description: "Health news related to Prucalopride Succinate. Original indication: Resolor is indicated for symptomatic treatment of .... 0 predicted indications."
 permalink: /news/prucalopride-succinate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prucalopride-succinate/
 ---
 
 <p class="key-answer" data-question="What news is there about Prucalopride Succinate?">
-<strong>Prucalopride Succinate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Prucalopride Succinate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,6 @@ This page combines the AI-predicted indications for Prucalopride Succinate with 
 <ul>
 <li><strong>Original indication</strong>: Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hypoalphalipoproteinemia (99.8%)</li>
-<li>homozygous familial hypercholesterolemia (99.7%)</li>
-<li>duodenal ulcer (disease) (99.7%)</li>
-<li>oral candidiasis (99.6%)</li>
-<li>obsolete familial combined hyperlipidemia (99.6%)</li>
-<li>amyloidosis (disease) (99.6%)</li>
-<li>strongyloidiasis (99.6%)</li>
-<li>HIV infectious disease (99.6%)</li>
-<li>primary amyloidosis (99.6%)</li>
-<li>acquired amyloid peripheral neuropathy (99.5%)</li>
-<li>dermis disease (99.5%)</li>
-<li>multiple endocrine neoplasia (99.5%)</li>
-<li>duodenal obstruction (99.5%)</li>
-<li>nodular cutaneous amyloidosis (99.5%)</li>
-<li>amyloidosis cutis dyschromia (99.5%)</li>
-<li>macular amyloidosis (99.5%)</li>
-<li>commissural lip fistula (99.5%)</li>
-<li>osteoradionecrosis of the mandible (99.5%)</li>
-<li>oral leukoedema (99.5%)</li>
-<li>burning mouth syndrome (99.5%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/prucalopride-succinate/' | relative_url }}">View full drug report →</a></p>
 </div>

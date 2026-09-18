@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,37 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Caruso(Gemelli): "In asma e poliposi depemokimab efficace fino a 2 anni" - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
+### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
-2026-09-14 <span class="news-indication-tag">asma</span>
+2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
-
----
-
-### [El Hospital Macarena anticipa más 2.300 crisis de migraña con un proyecto de IA - La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">migraña</span>
-
-Source: [La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
 ---
 
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+### [Asthma-Diagnose bei Kindern – Die Aussicht auf eine frühere Asthmadiagnose lässt aufatmen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
 
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-18 <span class="news-indication-tag">asthma</span>
 
-Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+Source: [Moneycab](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
 
 ---
 
-### [Neurólogos y asociaciones de pacientes reclaman ampliar el acceso a los nuevos tratamientos para la migraña - Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
+### [Migraine : quand l’activité physique devient une alliée - Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
 
-2026-09-08 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-09-18 <span class="news-indication-tag">migraine</span>
 
-Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
+
+---
+
+### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">asthma</span>
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 ---
 

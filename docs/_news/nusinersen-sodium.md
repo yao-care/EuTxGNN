@@ -3,7 +3,7 @@ layout: default
 title: "Nusinersen Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nusinersen Sodium. Original indication: Spinraza is indicated for the treatment of 5q Spin.... 20 predicted indications."
+description: "Health news related to Nusinersen Sodium. Original indication: Spinraza is indicated for the treatment of 5q Spin.... 0 predicted indications."
 permalink: /news/nusinersen-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Nusinersen Sodium?">
-<strong>Nusinersen Sodium</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Nusinersen Sodium</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,47 +26,17 @@ This page combines the AI-predicted indications for Nusinersen Sodium with the l
 <ul>
 <li><strong>Original indication</strong>: Spinraza is indicated for the treatment of 5q Spinal Muscular Atrophy.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>PRPS1 deficiency disorder (50.0%)</li>
-<li>hypervalinemia and hyperleucine-isoleucinemia (50.0%)</li>
-<li>exercise-induced anaphylaxis (50.0%)</li>
-<li>acetazolamide-responsive hereditary episodic ataxia (50.0%)</li>
-<li>cerebral folate deficiency (50.0%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (50.0%)</li>
-<li>antibody mediated epilepsy (50.0%)</li>
-<li>febrile seizures plus, genetic epilepsy with febrile seizures plus (50.0%)</li>
-<li>food protein-induced allergic proctocolitis (50.0%)</li>
-<li>MED12-related intellectual disability syndrome (50.0%)</li>
-<li>rod-cone dystrophy, sensorineural deafness, and Fanconi-type renal dysfunction (50.0%)</li>
-<li>mixed mineral dust pneumoconiosis (50.0%)</li>
-<li>epilepsy of infancy with migrating focal seizures (50.0%)</li>
-<li>neonatal/infantile epilepsy syndrome (50.0%)</li>
-<li>primary mast cell activation syndrome (50.0%)</li>
-<li>adult-onset segmental dystonia (50.0%)</li>
-<li>paratenonitis with tendinosis (50.0%)</li>
-<li>tendinosis (50.0%)</li>
-<li>TH-deficient infantile parkinsonism and motor delay (50.0%)</li>
-<li>saccharopinuria (50.0%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [La epilepsia es más común en países de bajos ingresos](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
+### [Epilepsie im Kindesalter: PET/MRT verbessert die präoperative Diagnostik - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUlKQXBjNmxpRVpVV1pKa0J2RVdhLTktV0VuVll3ZHFJdnlLSExLYkptbE5UU2FBd0M3OUZMOG9rcy1ua3BMWVBCVUNzTy1pMUgtNWxiUGg2U2VmbFJ4WUZhUkNYeGp5REdzaGs0MFNZYkdERV9IUTJhcEE3cW1pN0ZKWGFmSEVkM1d2N2Z5Ulc1eU02MEhsc0UwYTlsbThiRzVV?oc=5)
 
-2026-09-13 <span class="news-indication-tag">epilepsia</span>
+2026-09-17 <span class="news-indication-tag">Epilepsie</span>
 
-Source: [theconversation.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
-
----
-
-### [El alzhéimer aumenta el riesgo de epilepsia en adultos con síndrome de Down, según estudio - UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
-
-2026-09-13 <span class="news-indication-tag">epilepsia</span>
-
-Source: [UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUlKQXBjNmxpRVpVV1pKa0J2RVdhLTktV0VuVll3ZHFJdnlLSExLYkptbE5UU2FBd0M3OUZMOG9rcy1ua3BMWVBCVUNzTy1pMUgtNWxiUGg2U2VmbFJ4WUZhUkNYeGp5REdzaGs0MFNZYkdERV9IUTJhcEE3cW1pN0ZKWGFmSEVkM1d2N2Z5Ulc1eU02MEhsc0UwYTlsbThiRzVV?oc=5)
 
 ---
 

@@ -54,83 +54,83 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (10)
 
-### [Herz: Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
+### [Herz: Diese Auswirkungen haben Cholesterin-Senker auf das Demenzrisiko](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
 
-2026-09-14 <span class="news-indication-tag">diabetes</span>
+2026-09-18 <span class="news-indication-tag">diabetes</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25uV3VsR2ZxcnZ3bzZaSElYRGZRck05aXM5V0lpTk5MeFg1MjhpQU1nN2hNejFGMGhLZU9mZ3ZjSzY5T1U2SU1tcy1DQTQ3RzBoWkFKYzBjMkhTckFQb1VZVm42cVJLVmY5U2lyc1BNdl85TzdQVmcyejR0cjhGTS1WMDhZSWlCQzFMU3hPc1dzeHdlVGRXeWJQS3FkMDg5M1M0MldfQnJYaTg0WWRlcVVaUDRQaFZPUWt3T2dzZDdFc3dBNFk5MWZzbDkzSm8?oc=5)
-
----
-
-### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
-
-2026-09-14 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
 
 ---
 
-### [INFO RTL - Wegovy et Mounjaro : depuis leur remboursement, l'engouement pour les traitements contre l'obésité se confirme avec 86.000 boîtes prises en charge](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
+### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-Source: [RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
-
----
-
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
 ---
 
-### [La harina de los «pobres» que podría ayudar a evitar los picos de glucosa - El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
+### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
 
-2026-09-14 <span class="news-indication-tag">diabetes</span>
+2026-09-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
 
-Source: [El Debate](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlphamZiVGdUTkJ4OTJNNG9CVnkxaDd1SnpqYnQ3RHBCTExGenlFWU9fSG45UlgtbUR3OXhKcmxBNEJwei1IeE9qbXVnb1JCMGJXbDhGS3B3bmlTNW56U3FPY1oxblpKN2dUNnRGU0Z1RTBwRXczdWtJbFZTZ1FJRDdmNXYwbFdDSHNySXY2VFl2MHNzZVRudjhUZkFRbEo1UDdNYlF3a2Vycm5SVHg3SGF6aWFLeEtsTGfSAb8BQVVfeXFMTXFTaUNia29NWGpoWE0wcnp6bDQ3LVhVTE83RW9HcjI1dnhtTFItRnN3WXhKY0RFOWphY3dGVVhmd1QxRE1ZY0YzNF9tQTJfbW5pSjVueVB5N3RKczRVbndUQmREeTF5MFg0N0lXMWY1amNaTUNDZU9DMDVhVVI5M0JfX2ZfY0RVbThydmpMZVJDZkNSRTRWSHowRlc2Z2k5ZFU5VXFuZTdWNUI2QkNKbUVneE95VmJ4dHg4cFNlMFU?oc=5)
-
----
-
-### [Adipositas, Prädiabetes & Fettleber: Keto-Diät besonders hilfreich](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
-
-2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekdpNW5CS29YSkotNFVvRmtBYVJYVzdoTlVOd1BrMDI5dEpGb1NXWVpXMVJ0NEF3ZU14TjdFUEtnaGpIMVNEU2VrNndmRGtDVXZpd3lVUTBWd1c4Ty1zTXN5M3hTYXdJa0otWURkbjdpTmhyb05GNk9PNjIzLWZRLVU0NEpNR3Y2bXVVeDBhQmI4RTJYMm9SOU1ubmdCX3dldnZHcFBpQzJwQTFka2htOXI0R0QtT19YcFRXN25hS0xjV1U?oc=5)
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
 
 ---
 
-### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine’ - Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
+### [Glicemia, il sensore vede ciò che gli esami non mostrano? Segnali su pressione e colesterolo anche senza diabete](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
 
-2026-09-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">diabete</span>
 
-Source: [Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
-
----
-
-### [From ‘Ozempic breath’ to hair loss: sorting the science from the hype about weight loss jabs - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUx5Ri1KLTBPTmpGQ0d5VHkwV3JrcHc0TndzS1dQTjBPN2NiRDVNV1hKYWM5Q21WMnlocUxEdFUyWHh0ejI0dm5VQ1BQaG9ad0wtdnZYWFpUM19tWUd1UlA1di0zaTN0dnpnZ2JOdTh4NExKZXNjVDlQTjM2YUd2MUxzRl9wTVFZUVA1cFJTQ2xDOTlDWVdBOW8taG9IdFI5V1JDbg?oc=5)
-
-2026-09-11 <span class="news-drug-tag">Semaglutide</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUx5Ri1KLTBPTmpGQ0d5VHkwV3JrcHc0TndzS1dQTjBPN2NiRDVNV1hKYWM5Q21WMnlocUxEdFUyWHh0ejI0dm5VQ1BQaG9ad0wtdnZYWFpUM19tWUd1UlA1di0zaTN0dnpnZ2JOdTh4NExKZXNjVDlQTjM2YUd2MUxzRl9wTVFZUVA1cFJTQ2xDOTlDWVdBOW8taG9IdFI5V1JDbg?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
 
 ---
 
-### [Diabete di tipo 2: qual è l'esame del sangue che ti dice lo stato di salute di cuore e reni](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
-2026-09-11 <span class="news-indication-tag">diabete</span>
+2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXh2SFg1aUcyRUdLX2VxRm9XVnR3MXYwUk9ZRXFxNDdqYWlYOVdJTW1IZlc1VjZwWkFja0ZoRHh5bmxnTmdKTDhxcDdiZW5CcnJDY3VTR1UyWnZmbFVEWktsZE1vUTVTcGZoQi04TzREWWMxM2tqVWlJbWxLZHAwSHhHMGlNMTFfeGFXZjZWc0ZBeDJWMEhic0tn?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 
-### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-17 <span class="news-drug-tag">Semaglutide</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+
+---
+
+### [Alle Diabetes-Patienten gegen Herpes zoster impfen?](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+2026-09-17 <span class="news-indication-tag">diabetes</span>
+
+Source: [aerztezeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+---
+
+### [Piede diabetico, dopo l’amputazione la mortalità è di 1 paziente su 4 entro un anno](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetic</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
+
+---
+
+### [Oltre 300mila casi di diabete in E-R, Fiaso:"Tra le regioni più colpite del Nord"](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+
+2026-09-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+
+Source: [ansa.it](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+
+---
+
+### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine'](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
+
+2026-09-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [aol.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDZPWnpzb1pPeW1uOElEM2RFaUhXVTQ0ZzVvSDFpanNxcFVUTE93REJOSTVzQUlYaEFNelBLLW9JVXN5ZmxIdjl6dmVBX2s3enBmXzhlUWd1ZDk1N3B6RVNKSEQ2SEFmbzhaY2JzdVBmM0ZfZTd3YWJjdGNsaldVN2dRWkkyeHc?oc=5)
 
 ---
 

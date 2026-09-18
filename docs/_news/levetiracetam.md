@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="What news is there about Levetiracetam?">
-<strong>Levetiracetam</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Levetiracetam</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -46,27 +46,19 @@ This page combines the AI-predicted indications for Levetiracetam with the lates
 <li>guanidinoacetate methyltransferase deficiency (99.8%)</li>
 <li>partial motor epilepsy (99.6%)</li>
 <li>trigeminal nerve neoplasm (99.5%)</li>
-<li class="indication-matched">epilepsy (99.2%)<span class="indication-tag">📰 epilepsia</span></li>
+<li class="indication-matched">epilepsy (99.2%)<span class="indication-tag">📰 Epilepsie</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [La epilepsia es más común en países de bajos ingresos](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
+### [Epilepsie im Kindesalter: PET/MRT verbessert die präoperative Diagnostik - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUlKQXBjNmxpRVpVV1pKa0J2RVdhLTktV0VuVll3ZHFJdnlLSExLYkptbE5UU2FBd0M3OUZMOG9rcy1ua3BMWVBCVUNzTy1pMUgtNWxiUGg2U2VmbFJ4WUZhUkNYeGp5REdzaGs0MFNZYkdERV9IUTJhcEE3cW1pN0ZKWGFmSEVkM1d2N2Z5Ulc1eU02MEhsc0UwYTlsbThiRzVV?oc=5)
 
-2026-09-13 <span class="news-indication-tag">epilepsia</span>
+2026-09-17 <span class="news-indication-tag">Epilepsie</span>
 
-Source: [theconversation.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGE4YTduOXhiT1oxQWJzS0RHTmE1NGFJam5GMjNRQ1VGVTRjQlM4VXdfa2l5S0ZFcW1TcTBCc3p6cW1WZ2dFUk1FTFRfLTZJUE1UaVhqTmZDLVloYUJlaXlKdzcyd3h0REpQUklSVXU2SWRTbmdrZThQODZuZ1BGWlFvQk5mWE5PMzVhQzE2Ykc1QQ?oc=5)
-
----
-
-### [El alzhéimer aumenta el riesgo de epilepsia en adultos con síndrome de Down, según estudio - UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
-
-2026-09-13 <span class="news-indication-tag">epilepsia</span>
-
-Source: [UDG TV](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhLeGk5VW41OEttNDRMSGpkTTBTZmRRVHBWckRjYl9qczVPWVI4QVFvdjVGNUp4dU5Nd05tRVJ1WjhLNXVadjQ0QkFzaTdua2V2eXZmR3VFQzFLNlF3RGdUSF93QTZCRU5wZWc0MUxsM1VFdDNSeVFaYXg0enc0WUp6R1pheHRmTUdYd3EwN3VsdTlNRlE?oc=5)
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUlKQXBjNmxpRVpVV1pKa0J2RVdhLTktV0VuVll3ZHFJdnlLSExLYkptbE5UU2FBd0M3OUZMOG9rcy1ua3BMWVBCVUNzTy1pMUgtNWxiUGg2U2VmbFJ4WUZhUkNYeGp5REdzaGs0MFNZYkdERV9IUTJhcEE3cW1pN0ZKWGFmSEVkM1d2N2Z5Ulc1eU02MEhsc0UwYTlsbThiRzVV?oc=5)
 
 ---
 

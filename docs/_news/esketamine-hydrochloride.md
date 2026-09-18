@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Esketamine Hydrochloride?">
-<strong>Esketamine Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Esketamine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ This page combines the AI-predicted indications for Esketamine Hydrochloride wit
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Reconciling the neurogenic hypothesis of depression with recent advances in adult hippocampal neurogenesis research in humans](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
+
+2026-09-17 <span class="news-indication-tag">depression</span>
+
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
+
+---
+
+### [Urgent 'red flag' for Brits using Botox and fillers as experts give warning](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
+
+2026-09-16 <span class="news-indication-tag">depression</span>
+
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
+
+---
 
 
 <div class="disclaimer">

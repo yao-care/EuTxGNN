@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,61 +52,77 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
 
-### [Infarctus, AVC… Pourquoi dormir les volets ouverts ou avec une veilleuse pourrait être dangereux pour la santé - Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
+### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
+
+2026-09-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
+
+---
+
+### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt überraschendes Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+
+---
+
+### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+
+2026-09-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+
+---
+
+### [Vieillir en bonne santé : cette heure d'endormissement serait associée au risque cardiovasculaire le plus faible - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
+
+2026-09-17 <span class="news-indication-tag">AVC</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
+
+---
+
+### [La farmacia se une a CAP y hospitales para reforzar la prevención y detección del ictus - El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">ictus</span>
+
+Source: [El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+
+---
+
+### [Colesterolo LDL dopo i 60 anni: i valori da monitorare attentamente se si assumono farmaci](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FyQ0FqQU43b2ZGRndJYldhZkFVQVVfU0RKT05aOVlQYWNGcVRsOEtqUzRxcGxTUFR2aUtXZEo5SzZPQVdYdUhaTENmbmlqX0o3czBrWDhxeWh1WG5xSFJacnV4SjB6U3RRQW5veW9zMWpCZkVvWkJoelVGX0lldjVyOVBUY0tVUjhnOVphM20wQVNXR2tGUkVyQ0VTbXRSMHJqOUl1VnZ4WWRIM2o0M25mcjFYelVfVmx4VUVLbw?oc=5)
+
+2026-09-15 <span class="news-indication-tag">ictus</span>
+
+Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FyQ0FqQU43b2ZGRndJYldhZkFVQVVfU0RKT05aOVlQYWNGcVRsOEtqUzRxcGxTUFR2aUtXZEo5SzZPQVdYdUhaTENmbmlqX0o3czBrWDhxeWh1WG5xSFJacnV4SjB6U3RRQW5veW9zMWpCZkVvWkJoelVGX0lldjVyOVBUY0tVUjhnOVphM20wQVNXR2tGUkVyQ0VTbXRSMHJqOUl1VnZ4WWRIM2o0M25mcjFYelVfVmx4VUVLbw?oc=5)
+
+---
+
+### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+
+2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+
+---
+
+### [Eye scans detect signs of atrial fibrillation years before diagnosis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
+
+2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
+
+---
+
+### ["Je suis cardiologue et je ne mange jamais les aliments de cette couleur" : ils bouchent les artères et favorisent l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AVC</span>
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFNvV1JxNEs1M3lzWTNCU0pob29MUHVPT3oydC1PazZSZDM0SHo5SXl4ZXJNcEt0X1Y1MEI0M0FWSEFjS2RjOVd3TGVzMUlRcnFYZHdJR2pqMGZVdVBzdGRCdXNicWVUVUIwMGpKNDNCUllZNjRCOTgzRXFUcHJJWGNxaWpNSU5ZZEJSWHVlM1BKYm90V3ZfSUpPam4zUmFQcDRoYy1Oa0NOcmdydWFQTUJrTExhT28xckh4WGwtWjZfUVFERHljMXgxYVBtQ3JSamdUVEh3LWlqSFNFdlNQYy00U3N5Sk0?oc=5)
-
----
-
-### [Schlaganfall: Neuer Wirkstoff könnte Erholung verbessern](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdmTlA2SkpOc0lIWVhHc1owd09ObUpXXzI4OWU1dll5b0cyQ0JNblFNWUttNjdqTEU2djFPRGJNY055U2dOTlpYOGRxTE1qdHFvQ3ZpMFU4UldDaHZxcHp3bTRDdDBidWJTZGw1ODBEQ0tjZWdFdWlFa1hmb0NneDFxbWljekRvWXN2UXpQVjZTc19VaGcw?oc=5)
-
----
-
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
----
-
-### [Oltre 60 punture d’ape: supera l’anafilassi, poi l’ictus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
-
-2026-09-13 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNTYURnbnpmOHVLRjdtVGh5V3JnWEtfdVFLc2xsazd4LVV3YzVyM1YyMmVwMWZqdkFuOWtjUHlJSnVPNldVRFN0NFlpLTgxR3JFbFgxRmk2MGs2QUxHWXk5azJKbDJ1cENpdklLVGxhT0R5ZDRoajFaMlBUb29aVDZ3S1ByQldqQ2JPY2V6cFFCMXIzUGl1MDBJWXNRbmplVVllQg?oc=5)
-
----
-
-### [Fibrillazione atriale: quando serve davvero il farmaco per l’ictus?](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
-
-2026-09-12 <span class="news-indication-tag">ictus</span>
-
-Source: [healthy.thewom.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnRraVJxeU1RcWVtMk11LTJnTGttRlFyQnd2NC1PNzdQMEEzLW9nZFBsWjlzVmVaWlYtUm5UVU56S3ZtQlAtVWpBSHpiUFdNSGI5SFExUDc4RGRReHVibnF1c1RTemt3bUZXTElJZnFaaGJISUJyV093N3p2SU1RaWw1Nndmc3NhX3NmNTFaS2hSVmFCbE45U3VBVi1KU21ISHZPZTlrcXRwQnFsNGNjNA?oc=5)
-
----
-
-### [Analyse: Schlaganfall-Risiko in den Monaten nach Krebsdiagnose verdoppelt](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
-
-2026-09-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVdvYTVtbXc2dDVPdWJQa2xlZk9TY0YyNURld1czVHpFSF9ZOEpWLWhCWmJ4ZkxQLUEtX28xRHhlbnBpaDhPb2c5RzVtb2gtYjFJbHUxdWJDVUE4ajRrT3NlQU8teHR5RHFRYi1vQnFuYjU1MmZqNDBDR2N0N3QteG5DRDJtZG12OXpVSEV0WVc1UExoNGo2cm1JcEF3NFBGdnJMVnJYVlVzNWVIWDVJZUlwZkoxZHM?oc=5)
-
----
-
-### [Semaglutide contro ictus, infarto e arterie malandate: il farmaco nato contro diabete e obesità si rivela uno scudo per le malattie cardiovascolari](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
-
-2026-09-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxObkloZjBrZURuWFdUSi12WVJsNGFhb2xnOWVucFJhclF2SXdlLWV1UDFROV81NDd5NFUxVGhiRUxUQWpfZkpaLXM3dXdQMEtibGlublZxQTJVVlpBOXVfVjBpTVdQM3hvMUJyaHNqaW96ZE9ILUpKVWVET09aMlVQTmVTd0xTcDcwYjBJRWgxVTZLQXdfS1V3TGVOVWM5ZElVcWtiVnFMSGJFVm1GN18zOUlweVZqTlNhYUx1eV90YXhWRS13bmkyc3JjS3AxTlEtVmZpejhYbG5qYV9ST1N0YUxxT2kyTnBnVFhaWUotNVVVMkJqa0F2NjhJUEJlRjVuU0pFY3NB?oc=5)
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
 
 ---
 

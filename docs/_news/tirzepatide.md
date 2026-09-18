@@ -54,27 +54,27 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (3)
 
-### [INFO RTL - Wegovy et Mounjaro : depuis leur remboursement, l'engouement pour les traitements contre l'obésité se confirme avec 86.000 boîtes prises en charge](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
+### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
 
-Source: [RTL](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRW1QaThhOGhtY1RYMUw5NTVkaDl0bi1XaUtFY2liNmhDem5aWUFqN1RLME5WYnRqalA4NXZWM1pVZVp3Zy00SlhIM3RqUW5FWW03VGpRU0poSkRBN1hfeU9vSFNaUlVIRk9mRThYWGNDaVpUam9HQk11bkd4VFF2S3Rva0JHYWd4U2ROX1dEdV9GdWxvSHJmT3RzWnFMajJGb0JQV2YxOXdQa0V4aWVzczg5d1p2NDJLaTRhazhJc25ZV3E3Z0xpa19qbVIya1VBY3NMdTNleFVialRHVjNLUTRNOE1oTlVnajJlcjM2c1ZJUXI3WjVaWGpKTXNlbXBFVUVXbA?oc=5)
-
----
-
-### [Alopecia areata severa, ricrescita significativa con upadacitinib](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
-
-2026-09-13 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
-
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 ---
 
-### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
-2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
+2026-09-17 <span class="news-indication-tag">arthritis</span>
 
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
+
+---
+
+### [Being on fat jabs linked to 11-fold risk of deadly complication, shock probe suggests](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
+
+2026-09-16 <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
 
 ---
 

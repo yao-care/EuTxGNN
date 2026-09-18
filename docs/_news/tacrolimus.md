@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <li>acrodermatitis chronica atrophicans (98.7%)</li>
 <li>rheumatoid arthritis (98.7%)</li>
 <li>acne keloid (98.7%)</li>
-<li class="indication-matched">psoriasis (98.7%)<span class="indication-tag">📰 soriasi</span></li>
+<li>psoriasis (98.7%)</li>
 <li>neonatal dermatomyositis (98.6%)</li>
 <li>exanthem (disease) (98.6%)</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (98.6%)</li>
@@ -52,29 +52,21 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Un especialista insiste en que la psoriasis pustulosa generalizada es multisistémica y precisa abordaje multidisciplinar](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2ZyYThwVFZHTzBpUzhvbk9kNGR1bW9Rc1ptWEwyZUhFYUp0a3ZUVXg4a05kV2FOQ09SMGZjVWY5eXhSVkVIeHNMSExORkY4ZnAwbnB1dk1oWDcxRFU4NlRJUUdmbVdPTGN5QnZPa1lhZjl6UHBZVDI3VFpVbmxLNGFHT1hSd0NvQ1UwY1BKR2E0S29xYUp6czNjaUxtb2JZQXowVjhPd3RMN1dyTk01LWd4bXRTVVZpSzEyVUdoZUNXbnl4a3Nxb2o3b3Z3Um1FMGM0aHhTdy1uV2NNaEtqZzhkV3dzbFR4T2fSAe8BQVVfeXFMUEVNSkoyam1XNlltUzVWY0RxUFlUMEJjV0NJS3dXcVhQSWExaHIwMnRMMlhEcFpMUDdCQW5Ba2hSNzZ5eWc3N0k0VURaU2NrZjlOYkw0VDNyUk40N1V4aUdIVWFuOHJ0bS1qcEowMWFzQ2RGZnoyUHNqVGpFNk40X0tpRzI2Vi1udTJaSXE3QTZnVXZ6NDJQd1o3UDBrdlVSNVBRMy1HRTlYQ29mT0lTZkJzaUczYnFwNm9VOFl5QXIwU2hWZU44NmlUd1ZqUVI2OVF5eXNKNUc5a3VEZ0JKSDF0eFVPM0pTdFAyVGpMbzQ?oc=5)
+### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
-2026-09-14 <span class="news-indication-tag">psoriasis</span>
+2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
 
-Source: [Demócrata](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2ZyYThwVFZHTzBpUzhvbk9kNGR1bW9Rc1ptWEwyZUhFYUp0a3ZUVXg4a05kV2FOQ09SMGZjVWY5eXhSVkVIeHNMSExORkY4ZnAwbnB1dk1oWDcxRFU4NlRJUUdmbVdPTGN5QnZPa1lhZjl6UHBZVDI3VFpVbmxLNGFHT1hSd0NvQ1UwY1BKR2E0S29xYUp6czNjaUxtb2JZQXowVjhPd3RMN1dyTk01LWd4bXRTVVZpSzEyVUdoZUNXbnl4a3Nxb2o3b3Z3Um1FMGM0aHhTdy1uV2NNaEtqZzhkV3dzbFR4T2fSAe8BQVVfeXFMUEVNSkoyam1XNlltUzVWY0RxUFlUMEJjV0NJS3dXcVhQSWExaHIwMnRMMlhEcFpMUDdCQW5Ba2hSNzZ5eWc3N0k0VURaU2NrZjlOYkw0VDNyUk40N1V4aUdIVWFuOHJ0bS1qcEowMWFzQ2RGZnoyUHNqVGpFNk40X0tpRzI2Vi1udTJaSXE3QTZnVXZ6NDJQd1o3UDBrdlVSNVBRMy1HRTlYQ29mT0lTZkJzaUczYnFwNm9VOFl5QXIwU2hWZU44NmlUd1ZqUVI2OVF5eXNKNUc5a3VEZ0JKSDF0eFVPM0pTdFAyVGpMbzQ?oc=5)
-
----
-
-### [Alopecia areata severa, ricrescita significativa con upadacitinib](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
-
-2026-09-13 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
-
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 ---
 
-### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
-2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
+2026-09-17 <span class="news-indication-tag">arthritis</span>
 
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
 ---
 

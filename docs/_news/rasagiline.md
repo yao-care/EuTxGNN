@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,53 +52,37 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (4)
 
-### [Pascual-Sánchez ve en la prevención precoz la gran esperanza frente al alzhéimer y apunta a los próximos cinco años](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
+### [Baroness Casey: Denying British dementia drugs to NHS patients is insane - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRrMW91UWRvMXg5WEJCZ3RYTkNteHU3RnFKS3dKVm52Q1RpUjl2QzFycU54NTBDb0tyYzlUZXFNWUFGX0QxVUtrOW43azRWU2swSGNFUzZLekFVdXJxT2thaHowNFNsYktWU19NMmlWUlp1Tk9PTFBwcnh0ZGQyT1dkLW9EN3gwaGU5Z2d2NGxVSG1sbS1jbkNDcW9lUXdPWGdiOXBR?oc=5)
 
-2026-09-14 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFA3TGxoV2xjS0RMNF9DVE5uMkNnRm9XdmVMbGxXc05HUFBGM3N0dS1lT05VOHlxakFyRmtPcDJpZEFma09uU1JkbHo4TXBhcjZmX01GZDNrV2NpSVdBOExKQmVzeHdhQlRCbTB5R183emlaNTNjNHlrNVlFV05zTjhTS3lxSE1BM19Tbl9NOXJpcnpYQm5IVEVJTUQyckpSSmp3a0pEVlNiTVJQaVFHRVVFVXpHaXVLUUtqUVNqZktSNUgyNzBQMDBkdXZ1amZLOUZpbzZ3Nk5xUQ?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRrMW91UWRvMXg5WEJCZ3RYTkNteHU3RnFKS3dKVm52Q1RpUjl2QzFycU54NTBDb0tyYzlUZXFNWUFGX0QxVUtrOW43azRWU2swSGNFUzZLekFVdXJxT2thaHowNFNsYktWU19NMmlWUlp1Tk9PTFBwcnh0ZGQyT1dkLW9EN3gwaGU5Z2d2NGxVSG1sbS1jbkNDcW9lUXdPWGdiOXBR?oc=5)
 
 ---
 
-### [NHS ‘not ready’ to deliver breakthrough Alzheimer’s treatments - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
+### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia'](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+
+2026-09-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">dementia</span>
+
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+
+---
+
+### [Doctor says early dementia warning sign appears 15 years prior - what to look for - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
+
+2026-09-15 <span class="news-indication-tag">dementia</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
+
+---
+
+### [A microprotein atlas of the human frontal cortex in Alzheimer’s disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
 
 2026-09-14 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVRSeWhoazFVMkhxOTVpWEk5OXY4ZVU3bFRSYnRhaEVOTFJLcTNmTmpHR1ZsbFNralZGejNSaEVxU1hWcmdsOWdVTTBUT0FfVEdtcllwZDY5aW1OSkFvT01QZlFJSmtWQ0FXc2g5MlJDeWhoVmV3VDZWdm5FNXVYek9xNUdlWlRyRF9kZVhoSEpGZE1VRXExd2VEWkVHV1lKcEcwWnRCdw?oc=5)
-
----
-
-### ["Être aidant, c’est porter deux vies à la fois" : comment son mari est devenu un soutien essentiel pour cette Ariégeoise souffrant de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
-
-2026-09-14 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ2RCTHdMLWdrQ0FpU0MtcHZld2JKMDlhT3lCZ1NMNEdtOFVPb0VSTDVXelpvM2FsU2xoV1NJWVQ5Z0JvNE5sWXVTZ1dySzAyVTVmeG5KaUoxMjdHRTBIZ0NJaXd4YlduRlRTQXF2TnUwUXZIbU1ZdUMxZGo0SXpaTmVmWmVCLWJGTkM5d29zUWpmWm05b2ZhT2VKeUU3dU54Nk1Ya3FGR2pwYjJpaGNfOFpSLVhtclFiNG9PTjVWbDBEdVNRdDNNZy1GdmpoVkJ5aGFKSWVrOVFUZnJKOXJqdHptWllzU2lYbnZ5ekdEWjhjR2R0el85SjNtOVFMV0I0NVYxZlo2RVJJZHhvT3EzOHAzSUVnTjlpUUl6eWVudGxNV09D?oc=5)
-
----
-
-### [NHS doctors prescribing drugs linked to dementia without warning patients of risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
-
-2026-09-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-Source: [gbnews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3JRQWtlTG1pX19rM0RCUFk5QVQ5SmtaV0Rpb2NBZ2phNl8tUkUyUkF6bEZCaUp4aFNDdWltbmM2ZzhmT3VKNVotZENCYVNpcjFsakgySnNpT2I0Y3FHZ2w4MGplb2N3TkZUbWZIdVVKcjBxbkxja0RSZmlOZG84a1hBVE5jMU1QWC1jSlJOWVNfdU1ZdnZEd0ZRbml6SHZrbUxlNmNEbEJfcGxPQVd1Nw?oc=5)
-
----
-
-### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
-
-2026-09-13 <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
-
----
-
-### [Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
-
-2026-09-11 <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
-
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeWp6VnRuQ2tJWWFSczhFV1I2SlRwSW5vS0UxaTdCMzRhTW9jSkRkVlFRaUlDYV9VR1ljVnBfRVgzSWcyZXN4aWJkVDl3NUl2S1p4Wmx0RkF6R1owbmRB?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
 
 ---
 

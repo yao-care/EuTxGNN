@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Zirconium Cyclosilicate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sodium Zirconium Cyclosilicate. Original indication: Lokelma is indicated for the treatment of hyperkal.... 20 predicted indications."
+description: "Health news related to Sodium Zirconium Cyclosilicate. Original indication: Lokelma is indicated for the treatment of hyperkal.... 0 predicted indications."
 permalink: /news/sodium-zirconium-cyclosilicate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium-zirconium-cyclosilicate/
 ---
 
 <p class="key-answer" data-question="What news is there about Sodium Zirconium Cyclosilicate?">
-<strong>Sodium Zirconium Cyclosilicate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Sodium Zirconium Cyclosilicate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,6 @@ This page combines the AI-predicted indications for Sodium Zirconium Cyclosilica
 <ul>
 <li><strong>Original indication</strong>: Lokelma is indicated for the treatment of hyperkalaemia in adult patients.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>breast fibrocystic disease (93.4%)</li>
-<li>benign mammary dysplasia (92.3%)</li>
-<li>blunt duct adenosis of breast (91.8%)</li>
-<li>apocrine adenosis of breast (91.8%)</li>
-<li>breast abscess (91.0%)</li>
-<li>fat necrosis of breast (91.0%)</li>
-<li>lactation disease (90.8%)</li>
-<li>breast adenosis (90.5%)</li>
-<li>heparin cofactor 2 deficiency (88.7%)</li>
-<li>antithrombin deficiency type 2 (88.5%)</li>
-<li>bronchitis (88.5%)</li>
-<li>factor 5 excess with spontaneous thrombosis (88.2%)</li>
-<li>HIV infectious disease (87.7%)</li>
-<li>gout (86.9%)</li>
-<li>female breast carcinoma (86.6%)</li>
-<li>vulvovaginitis (86.1%)</li>
-<li>ulceration of vulva (85.5%)</li>
-<li>thrombophilia (85.5%)</li>
-<li>simian immunodeficiency virus infection (85.4%)</li>
-<li>feline acquired immunodeficiency syndrome (85.4%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sodium-zirconium-cyclosilicate/' | relative_url }}">View full drug report →</a></p>
 </div>

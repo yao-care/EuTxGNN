@@ -3,7 +3,7 @@ layout: default
 title: "Vestronidase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vestronidase Alfa. Original indication: Mepsevii is indicated for the treatment of non-neu.... 20 predicted indications."
+description: "Health news related to Vestronidase Alfa. Original indication: Mepsevii is indicated for the treatment of non-neu.... 0 predicted indications."
 permalink: /news/vestronidase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vestronidase-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Vestronidase Alfa?">
-<strong>Vestronidase Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Vestronidase Alfa</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,6 @@ This page combines the AI-predicted indications for Vestronidase Alfa with the l
 <ul>
 <li><strong>Original indication</strong>: Mepsevii is indicated for the treatment of non-neurological manifestations of Mucopolysaccharidosis VII (MPS VII; Sly syndrome).</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>Scheie syndrome (99.9%)</li>
-<li>lysosomal storage disease with skeletal involvement (99.6%)</li>
-<li>Hurler syndrome (99.4%)</li>
-<li>Sanfilippo syndrome (99.4%)</li>
-<li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye (99.1%)</li>
-<li>ptosis-vocal cord paralysis syndrome (99.1%)</li>
-<li>ptosis-strabismus-ectopic pupils syndrome (99.0%)</li>
-<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome (99.0%)</li>
-<li>congenital Horner syndrome (disease) (99.0%)</li>
-<li>congenital entropion (98.9%)</li>
-<li>jaw-winking syndrome (98.9%)</li>
-<li>lysosomal disease with hypertrophic cardiomyopathy (98.8%)</li>
-<li>congenital ectropion (98.8%)</li>
-<li>epiblepharon (98.8%)</li>
-<li>syndromic neurometabolic disease with X-linked intellectual disability (98.8%)</li>
-<li>mucopolysaccharidosis (98.7%)</li>
-<li>eyelids malposition disorder (98.7%)</li>
-<li>Hurler-Scheie syndrome (97.5%)</li>
-<li>Steel syndrome (96.6%)</li>
-<li>inborn disorder of lysosomal amino acid transport (95.4%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vestronidase-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>

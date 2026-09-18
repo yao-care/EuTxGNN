@@ -3,7 +3,7 @@ layout: default
 title: "Ropeginterferon Alfa-2B News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ropeginterferon Alfa-2B. Original indication: Besremi is indicated as monotherapy in adults for .... 20 predicted indications."
+description: "Health news related to Ropeginterferon Alfa-2B. Original indication: Besremi is indicated as monotherapy in adults for .... 0 predicted indications."
 permalink: /news/ropeginterferon-alfa-2b/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ropeginterferon-alfa-2b/
 ---
 
 <p class="key-answer" data-question="What news is there about Ropeginterferon Alfa-2B?">
-<strong>Ropeginterferon Alfa-2B</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ropeginterferon Alfa-2B</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,6 @@ This page combines the AI-predicted indications for Ropeginterferon Alfa-2B with
 <ul>
 <li><strong>Original indication</strong>: Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>Laubry-Pezzi syndrome (99.9%)</li>
-<li>interventricular septum aneurysm (99.9%)</li>
-<li>genetic syndromic Pierre Robin syndrome (99.9%)</li>
-<li>Pierre Robin syndrome associated with a chromosomal anomaly (99.9%)</li>
-<li>partial deletion of the long arm of chromosome 7 (99.9%)</li>
-<li>disorder of fucoglycosan synthesis (99.9%)</li>
-<li>Jeune syndrome situs inversus (99.9%)</li>
-<li>partial deletion of the long arm of chromosome 22 (99.9%)</li>
-<li>orofacial clefting syndrome (99.9%)</li>
-<li>pulmonary valve disease (99.9%)</li>
-<li>mitral valve disease (99.9%)</li>
-<li>heart disease (99.9%)</li>
-<li>plasmacytoma (99.9%)</li>
-<li>neurolymphomatosis (99.8%)</li>
-<li>polycythemia (disease) (99.3%)</li>
-<li>acquired secondary polycythemia (99.2%)</li>
-<li>congenital secondary polycythemia (99.1%)</li>
-<li>plasma cell myeloma (98.8%)</li>
-<li>indolent plasma cell myeloma (98.8%)</li>
-<li>heart conduction disease (98.4%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ropeginterferon-alfa-2b/' | relative_url }}">View full drug report →</a></p>
 </div>

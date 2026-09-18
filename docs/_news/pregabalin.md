@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,29 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [El Hospital Macarena anticipa más 2.300 crisis de migraña con un proyecto de IA - La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
-2026-09-14 <span class="news-indication-tag">migraña</span>
+2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
 
-Source: [La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
-
----
-
-### [Alopecia areata severa, ricrescita significativa con upadacitinib](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
-
-2026-09-13 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
-
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 ---
 
-### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+### [Migraine : quand l’activité physique devient une alliée - Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
 
-2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
+2026-09-18 <span class="news-indication-tag">migraine</span>
 
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
 
 ---
 
-### [Neurólogos y asociaciones de pacientes reclaman ampliar el acceso a los nuevos tratamientos para la migraña - Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
+### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
-2026-09-08 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-09-17 <span class="news-indication-tag">arthritis</span>
 
-Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
 ---
 

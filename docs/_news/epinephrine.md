@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,37 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Caruso(Gemelli): "In asma e poliposi depemokimab efficace fino a 2 anni" - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
+### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
-2026-09-14 <span class="news-indication-tag">asma</span>
+2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnVjWElwYUtqZy1hRUZfazBZZXZ4Y2dtVHpDeWd2M00zUE1FRlhsUzJzdE5OSmpkQmJlMDBCU2JEWEdFVlNfQ1BnWi1YdklrZllBVTd6WlE0Q0hvSlRsSng0RWRNamMzWGlzYjRId2ptVzhzdWVVRXpfR2tua2xxd2tmY3A5NTJRRnVPSkZueUR4OTN4S2VNck5JOGltN3BUT0JDNGxubnBIQnFjMXFZS21tc2tzSW10Mlg0TnJYRjAtNDFwMzVmTTNnd0d1MFFRc1ZBWnU5UQ?oc=5)
-
----
-
-### [Seniors : l’atorvastatine en prévention primaire diminue le risque CV, d’après l’essai STAREE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
-
-2026-09-14 <span class="news-indication-tag">EPOC</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFgtcGFfMFEwX0pjSWZKRjV1WFBLREhrY2dKQVphM25HSDY2Q3JRczAzX3BnQnRXWXM5MjloMjZxdjVCM0toaE5OQWNQUTFBNlBIUFJ6dEdDQnBKZkREc1NUZzZoakN1Yl80b09ia0dlaXpJd25KUG9VTktwZlhGVGJZLVZvdVpTaWcyWkNpQ195U2J1OHFQLWhRaGJWWnk1cVRhRmNpcDdOelg4WW93?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
 
 ---
 
-### [Semaglutid senkt Asthmaanfälle um fast 40 Prozent](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
+### [So wird die COPD in 2026 therapiert](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
 
-2026-09-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-09-18 <span class="news-indication-tag">copd</span>
 
-Source: [Denkstrom](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzJOanFHcXM1SXFSVVRWVEJ4bWJVclhzdnpUZVV5d2pNRl9oQ29Td1FjZkdhTU1JMWoxT09fZnRFdkRwY2dBTUF6YTRqcEt3Ri1zZndfWVVWbXBNSFd0VDFXcDctOUR0a2llMXpRemMwS28yTms1VQ?oc=5)
-
----
-
-### [Xanthelasma und Herzinfarkt-Risiko: Studie zeigt deutlich erhöhtes Ereignis-Tempo - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
-
-2026-09-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjRDMl9WNGdaVGhzUktHTWRBTGxYa2xVZzZ2ODh6ZHItRTNRLWZOV0x4aDJVSTQ2S25IZmNuLXZWQUtWMnMwTlBEdkNkTFA1WmF5OXV4UGtoYTdaNThmRHVvVFNudXNMWjdHNkxLZXNEZVV5TVZtSnlMeTZvZW1fN29wVlZfMTNWUnIxWFozM3RlVVRmVFJOdHJuLWMxemd1VFI3ZS1aYUhYejYxcVV6bERvcw?oc=5)
+Source: [aerztezeitung.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
 
 ---
 
-### [COPD: Exazerbationen richtig einordnen – und Differentialdiagnosen nicht vergessen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
+### [Asthma-Diagnose bei Kindern – Die Aussicht auf eine frühere Asthmadiagnose lässt aufatmen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
 
-2026-09-11 <span class="news-indication-tag">copd</span>
+2026-09-18 <span class="news-indication-tag">asthma</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSll2ODBKUFh1N0lQSklIMk1La1lSTEoxQW85OFB0SkwtbjhGdVExdjd1UTRyakVvbjNUUzhzSkx4N0M4NTRubzRFMFdpVjc4NHQ0UzFQUzI5d1dXcnBfYWNEOTdyeFduVXhSZEVMMTV3NjZzYkpnRnVWbmo5Q252NjRUcGxnVDlOTnVwSDMwbHUtV2ctLTd5MDF4cU55RVFZS3ZVVHdRVExJeDVxNEJPV0syTHRkbDdaVWpHUVFkUUpON3MwUTBN?oc=5)
+Source: [Moneycab](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
+
+---
+
+### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">asthma</span>
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 ---
 

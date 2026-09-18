@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Colistimethate Sodium?">
-<strong>Colistimethate Sodium</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Colistimethate Sodium</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,45 @@ This page combines the AI-predicted indications for Colistimethate Sodium with t
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Bluthochdruck: Nüsse senken das Risiko signifikant](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
+### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
-2026-09-14 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFdvdnRVNG1sM2hrdEsyS2FVMURsRnlCa1U1WTdqSDhienpvOUg2V3NTUEpBNEZXU0ZLbnlKQ09iTXhTUlFZU01Wd1NQS004RGFuNjFNd01ROWFqeUE5b1dKcXFadjRMMVdUOFcybGJNMjkzWmxlZW56WFN2d0t6U1FSQ0NKRVJfODg1WFBZeTBoSjF5eFVjN3pXNjZCU0pZRnR2OW9fVXJ5MEhBUC1SMw?oc=5)
+Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
 ---
 
-### [Hypertension : « On est touché dès que sa tension, prise chez soi, dépasse 13,5/8,5 »](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
+### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+
+2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+
+---
+
+### [Bluthochdruck: Nüsse senken Risiko nachweisbar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+---
+
+### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
+
+---
+
+### [Hypertension : 4 signes inattendus le matin !](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-Source: [leparisien.fr](https://news.google.com/rss/articles/CBMisAJBVV95cUxOUDZrV0pjUVNDV1AyNENpVUxZUFZ5cHZLMFozWXh1anJqTU1takhzb0dueFZZWnNyMnRiMkV0S2RCZjA0Q29id0pHUVhvOVpNTnBxWUR3U0VYRmxhcjRYWHZWUE5WSG1XUGZyZG9wM3ZKMEc0SW84OTYzNXNUU2RYeEVJYnhYVkpyaDh2REdPQnlkQXQ1SW1ydmRDRXdGMVdsSzI0dVJLZXFnRTNUWUtmOWNMeTlkT3J0SDNjWXY0YkxnZVR4QjRGb29wVDBJVGdILXF0enI5bnNrOVNFTmRTZFVXVWtxNlVCaVktQ1F2NGo4QVIxbHg0eURubDZFQkQ1alFUMzJXbUY5T2cwRWE2YlItM2pIekVTZGp6TlVIeXhaQVY4NjdQMjBsMGRyZmVG?oc=5)
-
----
-
-### [Alopecia areata severa, ricrescita significativa con upadacitinib](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
-
-2026-09-13 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artrite</span>
-
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGlsaG5NWmNfR1ZtdGtnaUMyVC1nWWtkcUpZcThvVlhlS2ZNVUVuQTN5RE0tR0s1WnhKYXdEODM4Mmp1QUg4eHB0V2kzaG9YeU1Cbkk4cF80Mjg4eUtKa3BHT1l2TW5XcWdoeG03M0FQemJBNUtOazhHbUg0akppd1dxWVltbTNJRDJfRHJwNW1XdXJCSkY1bUlyb0hLUU5hREhCRUJoM3lIbkt4NXhfcWVUMXFFQQ?oc=5)
-
----
-
-### [Artrite reumatoide e psoriasica, remissione associata a migliore preservazione dell'osso](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
-
-2026-09-11 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">soriasi</span>
-
-Source: [pharmastar.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NoRWhwQTY1N013cThONWpjOE1IRHZSc3ZYUTJKdWxLT0xINHg3amNGeldWNndpRS1VenJxYWJQSmFmY1R5TS1ocFdxMElkd09QVGJxMVQwaGhhQkVHVnVocVYweU1GWWxlM3M5MW5zV2Z3cmdCMkp4ODU3c2lxZy0wRm9aYlJ4dFM4RXVrNWlBVmdNRFZVTkhOazYxLWU4N1FxdkRkWHpYWVN2bWMwWlJnR0RKaThGNUZSSTBHSHdKZG1YQjRSbkZma2V2Tnc?oc=5)
+Source: [Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

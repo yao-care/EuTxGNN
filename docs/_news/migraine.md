@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraña (migraine) News"
+title: "migraine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraña (migraine). 2 articles, 49 related drugs."
+description: "Health news about migraine. 1 articles, 49 related drugs."
 permalink: /news/migraine/
 ---
 
-# migraña (migraine) News
+# migraine News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about migraña (migraine)?">
-<strong>migraña (migraine)</strong> currently has <strong>2 news articles</strong> and 49 related drugs.
+<p class="key-answer" data-question="What news is there about migraine?">
+<strong>migraine</strong> currently has <strong>1 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “migraña” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “migraine” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -77,21 +77,13 @@ This page brings together the latest health news about “migraña” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [El Hospital Macarena anticipa más 2.300 crisis de migraña con un proyecto de IA - La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
+### [Migraine : quand l’activité physique devient une alliée - Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
 
-2026-09-14
+2026-09-18
 
-Source: [La Razón](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU1wZklrMGQwN0VVaDYteVg3LVJjbnpRMkdLeFpuUHFnbDhPMXhxVnNQSDZQcFV2Mk9NWlUwMUkxbkhrTVZLd3FhVEJ5a2ZRTHljT0hWWjc0UVlJQzJoSFNSR2pCQnhidkppdmtGc25pZmJlNnFMd0RtTnFQWjd4Sm0yX1pFQkcwR3RqbkIzMmNRaFpHOFpnbmo4ZkRyT0NOalFKc3ZfeTY3RG5DYXBZel9YQnUtVHFxYlB3a1lhZVpXXzJBZ1g0a3R30gHeAUFVX3lxTE8yT2pmZVRjZ3k5Z3lsWW03ektLZk5KVFlPZkVSOTlobExPUUhyYVlKWkpsOG9HSTNVSHhiR014Z0RCZmhISHo0UG9vZTZkZVRhSlBnN3c3OHNpNWVBMEpld3BaS2FTZlllbGsxOExwNE1BQXozZkRyZk9ZbENsYUJxSktqbGZLeVZnNDhidjVWeXVPdU16OFZqeVo5ZGp2Wlo0em1aTHF1RHRLZ0szV0tqS2k1N0lIWmJJMlVTaWFMVDhGeWZvdzA3NXRQNHV2c3dLMElldWY1SmQ4MUdfdw?oc=5)
-
----
-
-### [Neurólogos y asociaciones de pacientes reclaman ampliar el acceso a los nuevos tratamientos para la migraña - Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
-
-2026-09-08
-
-Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVpuWno3eHRsdnF4T2ZDd1pVeVNnTFpmcUk1VEFONW1JRFE2aXFubkZBQU9va1YzLXVRbHNTR1VzYkZuUUU0dlVYMm95VE5uUjBaTHc2WVhpOFRMVVowMG1WeGJZdHdsRTRjTDBIbHZCd2pLOTQtM2NZN3ZyM2U3eVdCY2NWYVFQWUJyLWc5dGlLMmRzcmNESE94NEs3ZDBaaW90YU1MYWVpcS1HNlgxejFVMjJjQ3FSZmRlZ3hubWZkVDBJLUxVRVB6YjRPY3ZjSEZuem9qcEhHQ0pX?oc=5)
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
 
 ---
 
