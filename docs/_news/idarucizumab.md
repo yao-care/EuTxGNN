@@ -62,11 +62,11 @@ permalink: /news/idarucizumab/
 
 ---
 
-### [Semaglutid: Gepoolte Analyse belegt Nierenschutz bei Risikopatienten](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
+### [Semaglutid: Gepoolte Analyse bestätigt nephroprotektischen Effekt - Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHdoNE0tNVFTcmxjdzRRMnZrdWR5c2VGUFQtTlQ0ZHFTTWk1aHFaNUlIUnQ0SGVrUUpJU0I2RWszeU1KcU8xZVNuRHF6WVJpZ3p0bUZEbE54Njl4YlNWZzNlMm9BWDhob0liSHhYWlAxdWVUVnVkSDAtZzJUS3dKUE5EeGFVN3Q3QnFF?oc=5)
 
 2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHdoNE0tNVFTcmxjdzRRMnZrdWR5c2VGUFQtTlQ0ZHFTTWk1aHFaNUlIUnQ0SGVrUUpJU0I2RWszeU1KcU8xZVNuRHF6WVJpZ3p0bUZEbE54Njl4YlNWZzNlMm9BWDhob0liSHhYWlAxdWVUVnVkSDAtZzJUS3dKUE5EeGFVN3Q3QnFF?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/idarucizumab/
 
 2026-09-16 <span class="news-indication-tag">EPOC</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
+來源：[isanidad.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
 
 ---
 
@@ -82,7 +82,7 @@ permalink: /news/idarucizumab/
 
 2026-09-16 <span class="news-indication-tag">artritis</span>
 
-來源：[univadis.es](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 
 ---
 

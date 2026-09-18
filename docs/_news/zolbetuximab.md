@@ -14,7 +14,7 @@ permalink: /news/zolbetuximab/
 ---
 
 <p class="key-answer" data-question="Zolbetuximab 有什麼相關新聞？">
-<strong>Zolbetuximab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zolbetuximab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/zolbetuximab/
 <p><a href="{{ '/drugs/zolbetuximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
 
 ### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
-
----
-
-### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
-
-2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
-
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
 ---
 
@@ -78,19 +70,11 @@ permalink: /news/zolbetuximab/
 
 ---
 
-### [myGlucoDog – wenn Diabetes-Dokumentation einen vierbeinigen Begleiter bekommt](https://news.google.com/rss/articles/CBMitwFBVV95cUxNanBtWnhrYnhLTVBmMGhzeVZrSkE4Sy1iTG04UlFFb2xrZVAwTWlLenZRM1dKQjNXeVNIV3VqSlI2TlZ4WU0wWnc3ajZQbUd0QWVuWElsZF9fekxQVGpESkpqYzhObXRSaTZkWlBCQVE0Vm1GbzU1WTFzZ0hKS2lWdUtxSHdWcDgtcWRRMDFmYTRlNDVVTG4xRXhVVC16SmlIb0tCdmlJYXVPSTd6UFFQRm9zX2VvOEU?oc=5)
+### [Tirzepatid zeigt breite kardiometabolische Effekte](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXNVWE1PYThpVEtOR2lxM1FPQzVXejdmNmM4WW14b1d3bWJkMDZJMjJPaFlzR0hydXNrUUdJRjFWTEl0VHNnLWtHdXdQQTlCRFFNOHBCQTFTemtXWjZhUUdzQ2xpS193ZnZLV0tiMk9lX2lJMWdpLXNZMUxyUlF0Ui0zUDNwVVdadEVNSHA5bHBETEhIQnlKV3dobUJRRlpINFpIYQ?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNanBtWnhrYnhLTVBmMGhzeVZrSkE4Sy1iTG04UlFFb2xrZVAwTWlLenZRM1dKQjNXeVNIV3VqSlI2TlZ4WU0wWnc3ajZQbUd0QWVuWElsZF9fekxQVGpESkpqYzhObXRSaTZkWlBCQVE0Vm1GbzU1WTFzZ0hKS2lWdUtxSHdWcDgtcWRRMDFmYTRlNDVVTG4xRXhVVC16SmlIb0tCdmlJYXVPSTd6UFFQRm9zX2VvOEU?oc=5)
-
----
-
-### [« La colonisation a apporté le diabète au Maghreb » : le raccourci qui fait fi de la science - Business News](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFVaUE9nZ3Fib3lFcVhPT2NHczFDdjZ0LVo1VGo3UTYtMHJVU0d6bDZjM2d2WjNWWXlIUnNNcHBqX0JKU01VNEVFUjhrUXNoZEkwNnpRR09fRVJrLUdqYW5RTGhyTHNkSVZPWks4ZFlEUHNCUF8yTmUwN3RybWN3WWtBU1RaTGZ0X1UwaVlRRUYtZmpYcmU4UTY4cl9zZjAxRFpjTXBEUURIMHgteWZ6cVd5MHQ0REx4N3hxdnVfbFhnZ0pRZTMtVExNRjd4dGM?oc=5)
-
-2026-09-16 <span class="news-indication-tag">diabète</span>
-
-來源：[Business News](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFVaUE9nZ3Fib3lFcVhPT2NHczFDdjZ0LVo1VGo3UTYtMHJVU0d6bDZjM2d2WjNWWXlIUnNNcHBqX0JKU01VNEVFUjhrUXNoZEkwNnpRR09fRVJrLUdqYW5RTGhyTHNkSVZPWks4ZFlEUHNCUF8yTmUwN3RybWN3WWtBU1RaTGZ0X1UwaVlRRUYtZmpYcmU4UTY4cl9zZjAxRFpjTXBEUURIMHgteWZ6cVd5MHQ0REx4N3hxdnVfbFhnZ0pRZTMtVExNRjd4dGM?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXNVWE1PYThpVEtOR2lxM1FPQzVXejdmNmM4WW14b1d3bWJkMDZJMjJPaFlzR0hydXNrUUdJRjFWTEl0VHNnLWtHdXdQQTlCRFFNOHBCQTFTemtXWjZhUUdzQ2xpS193ZnZLV0tiMk9lX2lJMWdpLXNZMUxyUlF0Ui0zUDNwVVdadEVNSHA5bHBETEhIQnlKV3dobUJRRlpINFpIYQ?oc=5)
 
 ---
 
@@ -98,31 +82,23 @@ permalink: /news/zolbetuximab/
 
 2026-09-16 <span class="news-indication-tag">diabetic</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1PYnZPb2tTdVU3aWJMczFfTFVOMnhwdmZSZ0ZPZ0J1SGtGNFp6YTlZS2tFamRBcEI3ajFLOHhQX0xNUGRESWxSbE1MX1M2M2RLVWxEMENDLWFIQTRCOXhrd01NRk80RmRsS0ItWldQZlJQUUdWZk9YQUxSNS1yX25fOXA1Q1FxMWwzMnkyOWFveGRTT2NnbVpXd0ZMU2NRWHJiM180TFl3YlVHMWMzLUdyQmU5VEVaREpma3dGWlBjRzVNekx3d1JQM1A5cTlabHZHMzQ3LXM?oc=5)
 
 ---
 
-### [ASST Sette Laghi rafforza la rete di cura e prevenzione del diabete: "Un percorso che va oltre l'ospedale"](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEszN2p3bG9mSTEybHRGMzd1V1Z5Sm1TMHlJb090ZlJQSnUtc2RvdExRSkF3YXIxMmZmTmVmODhMRnhGS1ktWWFYRFhESVkzb0lHajdFd04wWDZNQkxXc3pSVmxHLTVSbE1VcVFaTFRkRE1YWE1lTUtmdHpRMWpoTzlHbF8tZEtPMXpBeDhGdWhrUUllTDJHSXVtLVJjQmhJU0pKSFJCZXRLa2poejBRZU56NHZqb0szWkQ2Z1RQRldZWmdjcHZKUDNXZmpRdjBqWmN3VGFRMG9yUy1NR0E?oc=5)
+### [Oltre 300mila casi di diabete in E-R, Fiaso:"Tra le regioni più colpite del Nord"](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
 
 2026-09-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
-來源：[VareseNews](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEszN2p3bG9mSTEybHRGMzd1V1Z5Sm1TMHlJb090ZlJQSnUtc2RvdExRSkF3YXIxMmZmTmVmODhMRnhGS1ktWWFYRFhESVkzb0lHajdFd04wWDZNQkxXc3pSVmxHLTVSbE1VcVFaTFRkRE1YWE1lTUtmdHpRMWpoTzlHbF8tZEtPMXpBeDhGdWhrUUllTDJHSXVtLVJjQmhJU0pKSFJCZXRLa2poejBRZU56NHZqb0szWkQ2Z1RQRldZWmdjcHZKUDNXZmpRdjBqWmN3VGFRMG9yUy1NR0E?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
 
 ---
 
-### [Tirzepatid: 40% niedrigere Sterblichkeit bei Typ-2-Diabetes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZbGFBa1RFZzNsZHNqOGtrYVlhWDZ6eTlsREJma29XZThQb2F1U2diTDlSN0U1dldmS2tFaURvZVZiaG5EeHNsMldvU3FQRjMwNGUtR2pnMUNCTkR1U0RBTXBTWkNEV1pPdXUwXzAzUWlKNnE2dWdxX2s5RXpGQm9McnozVkJXc2VCblFIWHpGUmNLNHNaN2Z0am9rSy05dl93d05ZVTJBLUZoSW03Yms3cEg?oc=5)
+### [Diabetes-Prävention: Epigenetische Veränderungen könnten den Nutzen gesunder Ernährung beeinflussen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbl9xUi1sYjVob3VwZ3BkT21Cb0RTY0dIdXZtNFdhLWo5enhyU1dHTmtRRzItQTZyYlY1Z0QxZlJzV0ZiS29KWGgxNlRTLUtiVW5JaDAxdVdQODY2S0I4dFpQMGJCTlNsUVJHUThwVUdWMFdSRmxoNUEzR05wWE55cEdJRGlxRnA0Q2hkWWZzVEdYVi1QeHY3Z0VqRWJFNUJuRzhESElvZ3lkczBKaDZ2c19yVVR6TlliTFJ6WUFQaTJDV3liOUZSUjdQN0ZWUUJnQ1FiS3UzdUdWcmc?oc=5)
 
-2026-09-16 <span class="news-indication-tag">diabetes</span>
+2026-09-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZbGFBa1RFZzNsZHNqOGtrYVlhWDZ6eTlsREJma29XZThQb2F1U2diTDlSN0U1dldmS2tFaURvZVZiaG5EeHNsMldvU3FQRjMwNGUtR2pnMUNCTkR1U0RBTXBTWkNEV1pPdXUwXzAzUWlKNnE2dWdxX2s5RXpGQm9McnozVkJXc2VCblFIWHpGUmNLNHNaN2Z0am9rSy05dl93d05ZVTJBLUZoSW03Yms3cEg?oc=5)
-
----
-
-### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
-
-2026-09-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQVhCN0dnb0ZFOXUwVGJjVWtQb1J5NTFJRTk2ZzVvbHd0R1dFcTJkN1BWdmoxdjVwM3A1ci13cmdBUlZ6dDJad3pGd3d3TkI3Q1RabzRjT1NGVm1PQTQtaXN5d3RiWE1VOEduejlNTlpwWFVscnpDb0ZhUDdKWXJkTHU1dFdETHRIdGNGODVJWmY4WWJrTlRRenU1RFVoYS0walRJNnMycWRsRDFnbjhDOGo1c21qbVFRY2FKbDd2Y25mMWltWlB3dXBmU2FyV21BcGRBVXZGTUFlNU92OXR0cmZR?oc=5)
+來源：[JuraForum.de](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbl9xUi1sYjVob3VwZ3BkT21Cb0RTY0dIdXZtNFdhLWo5enhyU1dHTmtRRzItQTZyYlY1Z0QxZlJzV0ZiS29KWGgxNlRTLUtiVW5JaDAxdVdQODY2S0I4dFpQMGJCTlNsUVJHUThwVUdWMFdSRmxoNUEzR05wWE55cEdJRGlxRnA0Q2hkWWZzVEdYVi1QeHY3Z0VqRWJFNUJuRzhESElvZ3lkczBKaDZ2c19yVVR6TlliTFJ6WUFQaTJDV3liOUZSUjdQN0ZWUUJnQ1FiS3UzdUdWcmc?oc=5)
 
 ---
 

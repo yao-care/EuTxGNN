@@ -66,7 +66,7 @@ permalink: /news/colistimethate-sodium/
 
 2026-09-16 <span class="news-indication-tag">artritis</span>
 
-來源：[univadis.es](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGhLczJ4YVhlTTllMHNwMUdxY3JMV0NSc05JbFVzTDJsMFRwdGVGTUgwQ09pcnJKTmRzWS1YOUpyczRPM2gtVEVrV1B0VGprSGNDUjBTTmh1WFhWOHpSekREUWptQ3MzQkN1U04wRVdqek1fT3cyN2RIdzNhWnpSclVrUDJBbGVWZzNfY0Z6c1pPMkpVVWlzMl9OelFGaGYwWUg3M0JsUmdRaDdWYjdzTElxejY3bTVLVXVVTEItTXVQdlhscV9XZWhlTVpTX1NVSDNJNGlEcS1sZkJkTDA5VEs3dmUtZw?oc=5)
 
 ---
 
@@ -82,7 +82,7 @@ permalink: /news/colistimethate-sodium/
 
 2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 

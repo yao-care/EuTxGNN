@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
 ### [Depressione postpartum, impulsi magnetici al cervello: la terapia senza farmaci che sorprende i ricercatori](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPclk2SWNsVWJVdmhtSms0SlVQVW5UZVRic0FmUGIwd29tOHpUY1ZPWTlnY3ZFUV9GaXNwZlhSSVRaUlJtTlZ6TElPVmpUaWtCbWNxV0g5MUY0V0syM1lTd0JUaDdCQk5IQUNjUk1MUWRtOUoxaXFOT2ljQVNJWFpvU2pod3pKeEJtdzBQSmVnOXF3TDdrSGFaeXBjaTJOVlVmOEdKUWNRTlFJZTUtTjA2N2s5b2lscWc1U1ZKdm00NkZVUy1ZU2E1enhVQ1FTNnE3czZHVnEwSkQ5VHhfNExjUTA5M1N2Tmo0TEVFc3pLUFRuNHR5ay11MQ?oc=5)
 
 2026-09-17
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPclk2SWNsVWJVdmhtSms0SlVQVW5UZVRic0FmUGIwd29tOHpUY1ZPWTlnY3ZFUV9GaXNwZlhSSVRaUlJtTlZ6TElPVmpUaWtCbWNxV0g5MUY0V0syM1lTd0JUaDdCQk5IQUNjUk1MUWRtOUoxaXFOT2ljQVNJWFpvU2pod3pKeEJtdzBQSmVnOXF3TDdrSGFaeXBjaTJOVlVmOEdKUWNRTlFJZTUtTjA2N2s5b2lscWc1U1ZKdm00NkZVUy1ZU2E1enhVQ1FTNnE3czZHVnEwSkQ5VHhfNExjUTA5M1N2Tmo0TEVFc3pLUFRuNHR5ay11MQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPclk2SWNsVWJVdmhtSms0SlVQVW5UZVRic0FmUGIwd29tOHpUY1ZPWTlnY3ZFUV9GaXNwZlhSSVRaUlJtTlZ6TElPVmpUaWtCbWNxV0g5MUY0V0syM1lTd0JUaDdCQk5IQUNjUk1MUWRtOUoxaXFOT2ljQVNJWFpvU2pod3pKeEJtdzBQSmVnOXF3TDdrSGFaeXBjaTJOVlVmOEdKUWNRTlFJZTUtTjA2N2s5b2lscWc1U1ZKdm00NkZVUy1ZU2E1enhVQ1FTNnE3czZHVnEwSkQ5VHhfNExjUTA5M1N2Tmo0TEVFc3pLUFRuNHR5ay11MQ?oc=5)
+
+---
+
+### [Una patologia della pelle che logora i nervi, ma non è un'autostrada verso la depressione - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1pFTVl5SWFTUUctbEpad0I3dkhHa29uLV93R29nYVhrUEJENzhZY0JJMDdQRHFfa3RBQTFUcVFBWTZSUGwzSWlBZVp6S0xGaGRRSnRORUMyWkpmYjRWbFQ3YUpvbU1nd3lVdFR0THFuMk9VMGljSi1GUnNfbTBqWENEeU9IRUpKY1hISGRWMnk2aXQ5WmNpZjRzZDVsTG9vc0Y1RXFuNEZYRzczYm91enJR?oc=5)
+
+2026-09-17
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1pFTVl5SWFTUUctbEpad0I3dkhHa29uLV93R29nYVhrUEJENzhZY0JJMDdQRHFfa3RBQTFUcVFBWTZSUGwzSWlBZVp6S0xGaGRRSnRORUMyWkpmYjRWbFQ3YUpvbU1nd3lVdFR0THFuMk9VMGljSi1GUnNfbTBqWENEeU9IRUpKY1hISGRWMnk2aXQ5WmNpZjRzZDVsTG9vc0Y1RXFuNEZYRzczYm91enJR?oc=5)
+
+---
+
+### [Urgent 'red flag' for Brits using Botox and fillers as experts give warning - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
+
+2026-09-16
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
 
 ---
 

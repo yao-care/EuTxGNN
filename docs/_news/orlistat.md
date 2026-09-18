@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
 
 ### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [La farmacia se une a CAP y hospitales para reforzar la prevención y detección del ictus - El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">ictus</span>
+
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+
+---
+
 ### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
-2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">ictus</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
 ---
 
@@ -110,14 +118,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Keto Diet Boosts Liver Health More Than Others in Obesity](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXB1WEUzdUxhQVd0REtMckFGOXJGT2VkMHRuaTRER1hIZDlGSEdycnZkRE0xemcydUtkTll3em80ZWpKUjA5V2d4aW81YkNaWHBVLVF5aVhCWFoxQXREaGJFeGtObEdOcy1BNjI3QWxoUW8xN3p3eUZHX0dnR3h0bHhXQjNHY1l3UG9UUjFMVVQtb3hFY09qcDZaWi1VOWhGRWdNS25FMm85YkE?oc=5)
-
-2026-09-17 <span class="news-indication-tag">obesity</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXB1WEUzdUxhQVd0REtMckFGOXJGT2VkMHRuaTRER1hIZDlGSEdycnZkRE0xemcydUtkTll3em80ZWpKUjA5V2d4aW81YkNaWHBVLVF5aVhCWFoxQXREaGJFeGtObEdOcy1BNjI3QWxoUW8xN3p3eUZHX0dnR3h0bHhXQjNHY1l3UG9UUjFMVVQtb3hFY09qcDZaWi1VOWhGRWdNS25FMm85YkE?oc=5)
-
----
-
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVMxZzVIbDgzRjJDTUt3YVlUQXR4SndhS2lJUDVOSjRRanRRbzRhZTNMZWVfOVpnRGp6NVlVWXhWY0JaU2ZZVWJrN2xNWTZsWDlhTC1CdEZnWU83OWgwTlV0dHM0Z3VOLW5rM3dySEVvZ1ZRNzJ3SXhBemNQd3E3MXBhMkl6bV81elppa3o4WFhaQlVtMjUzdWhMWm9zQVFSaGNYam1qSDU0X1NYdmo2c0VUZloyLVNnalZTYmpmVW5wbjV6RHhMNFJNeVVwU05EX3c?oc=5)
 
 2026-09-17 <span class="news-indication-tag">Adipositas</span>
@@ -142,11 +142,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Revelan pistas clave sobre un tipo de obesidad poco conocida vinculada a la alteración de los ritmos hormonales - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEdZMkVNTDFOQk1tM3hNcjRsc3ptX3hRTzE1R1AzMWdqTV9KZ2h6RDZoeVNtVU1tVnhmcWJzcFhNdEFkbFFmQmswemtKRjFOZW5wMDZVa1c4ajJxZUhpMmhhRkxKaWM0M3RyRVFBaHMwNks5V2wzSnJMWTEwaUtabVpmb0Z2OTZ1dkJIUk1jSnBidjFyTlQ3elFvU3kwUmg0TWpjV0VjTDJrdGVfWDVwUzl2bGpHNTFvc3ZUYl9hN3PSAbsBQVVfeXFMUGQzUnhrZ0VKTW16SW1XN2NZSm5ZRUhyWXJHdEdzTlhLMVBiLUtGZGlrOWF3RDFGNDV0YWtGQm5MRjQ3WXZQSHg0QUtDeFdQcFZzTkZHUEVFeDk1dUo2MUZqbUtCTlZIblFOMUMwUW1ibXhaZ1JpSlU2SnVXU00xYkUtd2x0UnRLcXc5cUtuejBSR1E5WjVSZEZRa0hidTdQRG5mSk5rOS16UWN6eHZ6Qlg2cWlBS2djQk9lOA?oc=5)
+### [Revelan pistas clave sobre un tipo de obesidad poco conocida vinculada a la alteración de los ritmos hormonales](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEdZMkVNTDFOQk1tM3hNcjRsc3ptX3hRTzE1R1AzMWdqTV9KZ2h6RDZoeVNtVU1tVnhmcWJzcFhNdEFkbFFmQmswemtKRjFOZW5wMDZVa1c4ajJxZUhpMmhhRkxKaWM0M3RyRVFBaHMwNks5V2wzSnJMWTEwaUtabVpmb0Z2OTZ1dkJIUk1jSnBidjFyTlQ3elFvU3kwUmg0TWpjV0VjTDJrdGVfWDVwUzl2bGpHNTFvc3ZUYl9hN3PSAbsBQVVfeXFMUGQzUnhrZ0VKTW16SW1XN2NZSm5ZRUhyWXJHdEdzTlhLMVBiLUtGZGlrOWF3RDFGNDV0YWtGQm5MRjQ3WXZQSHg0QUtDeFdQcFZzTkZHUEVFeDk1dUo2MUZqbUtCTlZIblFOMUMwUW1ibXhaZ1JpSlU2SnVXU00xYkUtd2x0UnRLcXc5cUtuejBSR1E5WjVSZEZRa0hidTdQRG5mSk5rOS16UWN6eHZ6Qlg2cWlBS2djQk9lOA?oc=5)
 
 2026-09-16 <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEdZMkVNTDFOQk1tM3hNcjRsc3ptX3hRTzE1R1AzMWdqTV9KZ2h6RDZoeVNtVU1tVnhmcWJzcFhNdEFkbFFmQmswemtKRjFOZW5wMDZVa1c4ajJxZUhpMmhhRkxKaWM0M3RyRVFBaHMwNks5V2wzSnJMWTEwaUtabVpmb0Z2OTZ1dkJIUk1jSnBidjFyTlQ3elFvU3kwUmg0TWpjV0VjTDJrdGVfWDVwUzl2bGpHNTFvc3ZUYl9hN3PSAbsBQVVfeXFMUGQzUnhrZ0VKTW16SW1XN2NZSm5ZRUhyWXJHdEdzTlhLMVBiLUtGZGlrOWF3RDFGNDV0YWtGQm5MRjQ3WXZQSHg0QUtDeFdQcFZzTkZHUEVFeDk1dUo2MUZqbUtCTlZIblFOMUMwUW1ibXhaZ1JpSlU2SnVXU00xYkUtd2x0UnRLcXc5cUtuejBSR1E5WjVSZEZRa0hidTdQRG5mSk5rOS16UWN6eHZ6Qlg2cWlBS2djQk9lOA?oc=5)
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEdZMkVNTDFOQk1tM3hNcjRsc3ptX3hRTzE1R1AzMWdqTV9KZ2h6RDZoeVNtVU1tVnhmcWJzcFhNdEFkbFFmQmswemtKRjFOZW5wMDZVa1c4ajJxZUhpMmhhRkxKaWM0M3RyRVFBaHMwNks5V2wzSnJMWTEwaUtabVpmb0Z2OTZ1dkJIUk1jSnBidjFyTlQ3elFvU3kwUmg0TWpjV0VjTDJrdGVfWDVwUzl2bGpHNTFvc3ZUYl9hN3PSAbsBQVVfeXFMUGQzUnhrZ0VKTW16SW1XN2NZSm5ZRUhyWXJHdEdzTlhLMVBiLUtGZGlrOWF3RDFGNDV0YWtGQm5MRjQ3WXZQSHg0QUtDeFdQcFZzTkZHUEVFeDk1dUo2MUZqbUtCTlZIblFOMUMwUW1ibXhaZ1JpSlU2SnVXU00xYkUtd2x0UnRLcXc5cUtuejBSR1E5WjVSZEZRa0hidTdQRG5mSk5rOS16UWN6eHZ6Qlg2cWlBS2djQk9lOA?oc=5)
+
+---
+
+### [KI-Prognose bei Adipositas / Zusammenarbeit in Hirnforschung / Digitaler ÖGD - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNXBwcHZtSTlKdTBrd3FJUjA4eVFEbjAyYkxudXdWQnJGWTJxQUFZQTRTN0RkbXZiejRoQWZzU1dWYndhMFZsaUtKeEw2dS1odmV4M2Q3MU4wangzQWZUWlRhdWNLNjc0OV9JOGRpUFhwMnJsbDViQjJmN05TdW1rNVNsaWF5NHllVi1taUtSUldCdUhLQXlERFNreGZfM0pKSmt0NEZSLURqNnZneHBjTFNxVjhvenNZbXlmcGp2QW1CMXpWcUdZemlKNmk5RGNtUXZraHp0MTMyUXpI?oc=5)
+
+2026-09-16 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNXBwcHZtSTlKdTBrd3FJUjA4eVFEbjAyYkxudXdWQnJGWTJxQUFZQTRTN0RkbXZiejRoQWZzU1dWYndhMFZsaUtKeEw2dS1odmV4M2Q3MU4wangzQWZUWlRhdWNLNjc0OV9JOGRpUFhwMnJsbDViQjJmN05TdW1rNVNsaWF5NHllVi1taUtSUldCdUhLQXlERFNreGZfM0pKSmt0NEZSLURqNnZneHBjTFNxVjhvenNZbXlmcGp2QW1CMXpWcUdZemlKNmk5RGNtUXZraHp0MTMyUXpI?oc=5)
 
 ---
 
@@ -166,19 +174,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Eye scans detect signs of atrial fibrillation years before diagnosis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
-
-2026-09-15 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
-
----
-
 ### ["Je suis cardiologue et je ne mange jamais les aliments de cette couleur" : ils bouchent les artères et favorisent l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
 
 2026-09-14 <span class="news-indication-tag">AVC</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
+
+---
+
+### [Adipositas und Rheuma: Der gemeinsame Nenner](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
+
+2026-09-11 <span class="news-indication-tag">Adipositas</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJvTWotVlA0OE9wN1haRlo2cms4VnE2MkM2VnhMWHoyZm90aU9XcWNFM0ZlZE1xc2V3MWM0NFNuTTdtWVNBOU1qcDFINFhpS19nQUprZ1o2RWpONlFBa2FEOHpGSG1Penl6RnY4UHlwTS1GUjZtUVp5YWhNenlMLTdwQmp0S01fNDA3SlpqUVI5bFEwYWtYSw?oc=5)
 
 ---
 

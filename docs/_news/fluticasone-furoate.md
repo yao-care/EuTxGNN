@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Semaglutid: Gepoolte Analyse belegt Nierenschutz bei Risikopatienten](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
+### [Semaglutid: Gepoolte Analyse bestätigt nephroprotektischen Effekt - Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHdoNE0tNVFTcmxjdzRRMnZrdWR5c2VGUFQtTlQ0ZHFTTWk1aHFaNUlIUnQ0SGVrUUpJU0I2RWszeU1KcU8xZVNuRHF6WVJpZ3p0bUZEbE54Njl4YlNWZzNlMm9BWDhob0liSHhYWlAxdWVUVnVkSDAtZzJUS3dKUE5EeGFVN3Q3QnFF?oc=5)
 
 2026-09-16 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1ZrZG1EUDRJU2FLTnJfb0JQdVNJQ2JoMjZ2YWpuUW5pRl85a0J0ZGJnbjRGV09tejVyYkVaMmI4OFVGNE9kVHJtd0pEZGJ3V0YzS1NUVHpfdldETUJUaHNjNnNmTmVyMVFrcGtsREhNb24zbkdHU2VTSjVCckRaZV9qWDVMVjAycy1icVRvcnlHd2t1OVZEUDY4MHBmamFoU016Y1lnVzFwSVZFTWVzVEE3ajNHLTQ?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHdoNE0tNVFTcmxjdzRRMnZrdWR5c2VGUFQtTlQ0ZHFTTWk1aHFaNUlIUnQ0SGVrUUpJU0I2RWszeU1KcU8xZVNuRHF6WVJpZ3p0bUZEbE54Njl4YlNWZzNlMm9BWDhob0liSHhYWlAxdWVUVnVkSDAtZzJUS3dKUE5EeGFVN3Q3QnFF?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/fluticasone-furoate/
 
 2026-09-16 <span class="news-indication-tag">EPOC</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
+來源：[isanidad.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzhrRERRVTFlTGJRMjZQODFWLThQZ3kyRGdNUFl4SUFxMktzcGpSZlRmZmlsMmJKbTVLRFRHOG5nOXhyOUhaTlVsajlubDBidWpORG9NR2pmNmZVZ25fSzIwVUtCRXpERVIxNEtaRUxkeG5lREhYVWIwVWdHRmZILU1oY2w4c0VLc2xkdEtBV3U?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/fluticasone-furoate/
 2026-09-16 <span class="news-indication-tag">asthma</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
+
+---
+
+### [Bauernhofeffekt: Stallbakterien könnten vor kindlichem Asthma schützen - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
+
+2026-09-14 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVFX0JpZ3VPQ0tiUTV4cjY2cDVjT3ZBV0Y4dEF1UmV5bDY3WTdOSE1nckZxb2J5Ul9RUTA2d0ZuVUFISHdhS04wWHZSUzlpV0tFYlNTa09YRnpsTi1IMUdwX3YxdWdrOExLZlFXSkh2R2V0bFR6Znl4OWRldWl6WDgwbkptTlE0Y3VPQlNyRQ?oc=5)
 
 ---
 

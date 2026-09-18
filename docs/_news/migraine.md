@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "emicrania（migraine） 相關新聞"
+title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# emicrania（migraine） 相關新聞
+# migraña（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
+<strong>migraña（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -79,11 +79,11 @@ permalink: /news/migraine/
 
 ## 相關新聞（1 則）
 
-### [Sbloccare l'accesso alle terapie per l'emicrania: meno burocrazia, criteri tecnici e sottocodici](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
+### [La Asociación Española de Migraña (Aemice) lo confirma: solo el 12% de las personas que sufren la enfermedad se sienten comprendidas por su entorno - El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOVWZhWWl2R3c4MnFSMHJ3Rk1TYlhtbno3anhPQXFyUC1SODYzc1piTEo2S29DRjJ2bFpkN21RZ3I2QjItRjROTkhSODk2WDQ2eUE1bGwteVQ5dC1Pb08xdFJMdUZHN3FUM0Vrem1fRUxpWS0tQXNaUmJjMWE5cTFaSjhodXpGSVI2SWtyVWdOODlobFVjelVNMkNvYmRFSWp3QWpHZTVhanJEZFBYd1lLYks4TWJJVGQyd3FycXo3WU9rempfbWRKZjVSc01DV0JZOFVhU0prQmFjV05rVkVESDZIc1l0OHV6WHJHQWI3YUFsREFuSTBIUU1uWVg2VjVKN1F6N3ZNc1ZKUFl5SnBxaG55NmZOc0Fhem5ERExnb2laMkxNTnk0eEZZZ1ZNaG1OQjdNa01aMkNPWjB00gGnAkFVX3lxTFBRNnlhNnN5ZUpaUnhTTi03Vnd4dHFibGNQdmh2VGRPWEZ4a19UaGdjODVTbk1BSGpSSmlMS3R4RERvdWxXaUhfbUU1SnkwZVdITWhXekFYVlRiS2tDRng0SS02azk4NkZFNmhjcE8zeWN5XzVMWl9XS3lza244QW5BY0hqNkxTak5jZ0xZeFJLVVkyRDd4VkowWFNsRmFpdk5SajhRZV9hYkJsYnFWWVNVRDk3a094ai1PdDlRdHdZRmxNbkFmRkRoS1RYeW41NWlCTDZva2dlcDZLUmUtSml0QzctbWsyclFHcG5iNEJpaDA2aW9vZUVjS3JLNGM2eG5xTzNXdW95S2xhMVZXR0hDSTByYnVRRURTWmstZm5Yblk4czlCSjA?oc=5)
 
-2026-09-16
+2026-09-17
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnRUSG5maXpLOHZaS3ZWNm5lZkNHejZ3ejd5OHJYcVFua3dsUnZoVHJNV0Z3VUJHTXNCU181aS0tVlRPQnhTYXFtSzJxUDRiUzRmZzYtako2enNlZFV1eVlxNHk0UlI0Rmx6Q1JHVzRCOWh6VWNUcHpQdXBOQWhheHVkd0c0enhNMHFEWEE2a1FBUVdFZDRKQkJIMExURFF5c0ZqWFNXUGdQN1MwZDNET2lvTHJuWmpwOURwSHJQYUYyRnEzX0RKRDFaR3lYZTgxUGZ3Sm45QkFvRzFlUnc?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOVWZhWWl2R3c4MnFSMHJ3Rk1TYlhtbno3anhPQXFyUC1SODYzc1piTEo2S29DRjJ2bFpkN21RZ3I2QjItRjROTkhSODk2WDQ2eUE1bGwteVQ5dC1Pb08xdFJMdUZHN3FUM0Vrem1fRUxpWS0tQXNaUmJjMWE5cTFaSjhodXpGSVI2SWtyVWdOODlobFVjelVNMkNvYmRFSWp3QWpHZTVhanJEZFBYd1lLYks4TWJJVGQyd3FycXo3WU9rempfbWRKZjVSc01DV0JZOFVhU0prQmFjV05rVkVESDZIc1l0OHV6WHJHQWI3YUFsREFuSTBIUU1uWVg2VjVKN1F6N3ZNc1ZKUFl5SnBxaG55NmZOc0Fhem5ERExnb2laMkxNTnk0eEZZZ1ZNaG1OQjdNa01aMkNPWjB00gGnAkFVX3lxTFBRNnlhNnN5ZUpaUnhTTi03Vnd4dHFibGNQdmh2VGRPWEZ4a19UaGdjODVTbk1BSGpSSmlMS3R4RERvdWxXaUhfbUU1SnkwZVdITWhXekFYVlRiS2tDRng0SS02azk4NkZFNmhjcE8zeWN5XzVMWl9XS3lza244QW5BY0hqNkxTak5jZ0xZeFJLVVkyRDd4VkowWFNsRmFpdk5SajhRZV9hYkJsYnFWWVNVRDk3a094ai1PdDlRdHdZRmxNbkFmRkRoS1RYeW41NWlCTDZva2dlcDZLUmUtSml0QzctbWsyclFHcG5iNEJpaDA2aW9vZUVjS3JLNGM2eG5xTzNXdW95S2xhMVZXR0hDSTByYnVRRURTWmstZm5Yblk4czlCSjA?oc=5)
 
 ---
 

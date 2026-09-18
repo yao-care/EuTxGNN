@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（13 則）
+
+### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+
+2026-09-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+
+---
 
 ### [Vieillir en bonne santé : cette heure d'endormissement serait associée au risque cardiovasculaire le plus faible - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/telmisartan/
 
 ---
 
+### [La farmacia se une a CAP y hospitales para reforzar la prevención y detección del ictus - El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+
+2026-09-17 <span class="news-indication-tag">ictus</span>
+
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+
+---
+
 ### [Semaglutide e cuore, la fragilità non annulla i benefici: cosa emerge da 17.604 pazienti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
-2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-09-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">ictus</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFQ3SnYyYktlYjMyTmphNG5BWnRoaS0ya0h5bnVLUGNjaGZpSWU2dVhIZFo0UTFWWUNRdjVLU3UxQWg0MmpwM3dOaVhNLUNCeFRDZnJIXzhjenZ0XzdTWlRpLXpLTk1CNV9KdkFFS2c2SG5rNEdKbFZhd2JZbHRvQzZxamFlbTU3TUt3bC1vTUR1Qjc2Q19SMDdweUFLRnZKaVVJNUpDUlh0eVh2QW9BdjJKajY3OUVPd3lrSFYxUVpZcUo3b3BFZ0lfdy1vcGtmVVYzMlJRR01UV2gzbWUw?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ permalink: /news/telmisartan/
 2026-09-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
+
+---
+
+### [Cholesterol, weight, blood sugar and blood pressure drop with one food change - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
 
 ---
 
@@ -106,13 +130,13 @@ permalink: /news/telmisartan/
 
 2026-09-15 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTEJWLThxenFFX0Z3Y0l6QjhDeF84YjBmY2R1SmpqVlZYVVMzbEpQbmVzc0p1ek1LalMtek1qaV9Dd2lHN2RlNENaY3YtaHVER0c5NE1TVUh5aHI0R1E?oc=5)
 
 ---
 
 ### [Eye scans detect signs of atrial fibrillation years before diagnosis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 
-2026-09-15 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-09-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFVPRm96SmRMZXp6N01ucWNEd084Y0RPNko0Tm9VXzFwRFRDQ2RHVDhWZndFSjg2c3ZVSDhlVWhZQy1VZUloVDg4RUZIbEFfemp3SmpsVnVEQnNOVnZkRkMxTmRNVV90Q1JSNkhZdmppWkdXdW1DTUdRaUZCaHdrQXJzZjV5eVJYZ3NvRkdhYy1aamZ6TVBnNTJPamc0UEw2LTN5ZUFjOGNZQ0wwbFFIQWR6YzdDUFE?oc=5)
 

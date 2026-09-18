@@ -58,15 +58,23 @@ permalink: /news/rasagiline/
 
 2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tdk9ldFE1NHdpcnhZX3AxaVY4Vmg0b3licG9yVk1kWF9fSHZfWXRNdEkxa0EwZjZHM3kzYThrdDRGLUc5aDVwcjlGTEtYWVVQeXBLSldYcHpsSmhGNGc?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tdk9ldFE1NHdpcnhZX3AxaVY4Vmg0b3licG9yVk1kWF9fSHZfWXRNdEkxa0EwZjZHM3kzYThrdDRGLUc5aDVwcjlGTEtYWVVQeXBLSldYcHpsSmhGNGc?oc=5)
 
 ---
 
-### [«Los nuevos medicamentos antiamiloideos para la enfermedad de Alzheimer ya se están administrando y muestran mayor eficacia en fases tempranas de la enfermedad» - El Diario Vasco](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHlSUHVPd2NBTDVuWU5USDNsTkV2OFlRMzNxaFBDTFJXX3JGUlpFMThULTV3SVF2ZWo5SUE0TmFadXlTaDNvc1pqTEZGRE9fT3M1OHRoNUhmTmtKSkM0S2hackR1MHRXT2YxekJkU0JkakxKcHkyZm10Zi1XRDVYeGlLaHNWbnU5cTlpdkhISTFuQjJqa1NFa1RaVHRETWRZdDI3LWtmYmFtZlRPVlV6QmhLeTgzMVVmWUFFdDdFNmlGRkxPamFNV1Z4VTJJenJ2U1c0cjBDcW4xTS14NHktekJZSHlXblJjS29OWdIB8gFBVV95cUxPOU1oTVVZNkV6OG84aVU3eEdjbGRKUHVsbGRBSGdldlNKVlNqMlJOYWtObjRtdGVZZ3V2UURBVG03aVZEM0hNWEJ0WlNocWttRjY2N2xOSnVjZmg4ZzJacUZsZFhwT0UtUHZCUXZzTmtlOXhQem5QZGJoVGVHR0twN25aYTBQYlhHeHltR3Ywdk9md1VWSFg0d2FfVmtzR2lNZUExNHJyazBPeW0wYldRTVNkbHN2X3lpbnc1SGpyb3V5SVl2eWZFZE1RYU0yb1E1VnJYcG9CaDVXaE9RdjJ4Y2xBdWJQV1d5aXVIc0oyaU12UQ?oc=5)
+### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
-2026-09-17 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+2026-09-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">dementia</span>
 
-來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHlSUHVPd2NBTDVuWU5USDNsTkV2OFlRMzNxaFBDTFJXX3JGUlpFMThULTV3SVF2ZWo5SUE0TmFadXlTaDNvc1pqTEZGRE9fT3M1OHRoNUhmTmtKSkM0S2hackR1MHRXT2YxekJkU0JkakxKcHkyZm10Zi1XRDVYeGlLaHNWbnU5cTlpdkhISTFuQjJqa1NFa1RaVHRETWRZdDI3LWtmYmFtZlRPVlV6QmhLeTgzMVVmWUFFdDdFNmlGRkxPamFNV1Z4VTJJenJ2U1c0cjBDcW4xTS14NHktekJZSHlXblJjS29OWdIB8gFBVV95cUxPOU1oTVVZNkV6OG84aVU3eEdjbGRKUHVsbGRBSGdldlNKVlNqMlJOYWtObjRtdGVZZ3V2UURBVG03aVZEM0hNWEJ0WlNocWttRjY2N2xOSnVjZmg4ZzJacUZsZFhwT0UtUHZCUXZzTmtlOXhQem5QZGJoVGVHR0twN25aYTBQYlhHeHltR3Ywdk9md1VWSFg0d2FfVmtzR2lNZUExNHJyazBPeW0wYldRTVNkbHN2X3lpbnc1SGpyb3V5SVl2eWZFZE1RYU0yb1E1VnJYcG9CaDVXaE9RdjJ4Y2xBdWJQV1d5aXVIc0oyaU12UQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+
+---
+
+### [The oral condition that could increase dementia risk by over 50 per cent - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNm5FdkstWF8tRHVqbmlkYVFKVXJYcnZGV1kwSHhTejFTNlhQUXBhbFJWa2JtbHhsZWd3WkVsVzU0eFNkY2NFQm8wNjBXbzBnUUVUS3UxemxlY0pmMG9iLTJuM1h0QVg0QUF3RTBPSjlqelVZQ3pkQmxneVBucnloVElUMmhmakFJZjRkV0NwRjN6MU9ab1oyVnRR?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNm5FdkstWF8tRHVqbmlkYVFKVXJYcnZGV1kwSHhTejFTNlhQUXBhbFJWa2JtbHhsZWd3WkVsVzU0eFNkY2NFQm8wNjBXbzBnUUVUS3UxemxlY0pmMG9iLTJuM1h0QVg0QUF3RTBPSjlqelVZQ3pkQmxneVBucnloVElUMmhmakFJZjRkV0NwRjN6MU9ab1oyVnRR?oc=5)
 
 ---
 
@@ -74,7 +82,15 @@ permalink: /news/rasagiline/
 
 2026-09-17 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEtUNnR4ZTBOUURjeV9pZDU0OWZsWjREcDBncnBRcGRuSEE3bDNiT19fdWNFSU5aanJ5UmRlUENSWjZ3cUczSUhBTVQ4bzRqM1ZOTTEtd3A2UzRMZ0E?oc=5)
+
+---
+
+### [Potential root cause of Alzheimer’s may have just been discovered - The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEdUV1B2bzB0VG1DYklWcEp3bGJDNF9lTTl5dFZlTEpCbXZ3eEZwS0FZN1BaOFJHeUxDRWdsQU1jTW50aGJ5SU9qbzV2Zk9rNFE2cnY1ODIzOTU0TGxOdjV0c3F1QTFnZ1N3N0VtQzB0Nll3NXFCS0tEZURvOGNxd1JFMlhDT2sxYzVWZnd5ZmhIRDJwM3p6ZHZLNHo?oc=5)
+
+2026-09-16 <span class="news-indication-tag">dementia</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEdUV1B2bzB0VG1DYklWcEp3bGJDNF9lTTl5dFZlTEpCbXZ3eEZwS0FZN1BaOFJHeUxDRWdsQU1jTW50aGJ5SU9qbzV2Zk9rNFE2cnY1ODIzOTU0TGxOdjV0c3F1QTFnZ1N3N0VtQzB0Nll3NXFCS0tEZURvOGNxd1JFMlhDT2sxYzVWZnd5ZmhIRDJwM3p6ZHZLNHo?oc=5)
 
 ---
 
@@ -86,27 +102,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Reading for pleasure can improve wellbeing - study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XQTJCQ1VZMFJ1OWJ0bXcxMUEwSWlmV01XYllUREh1d3Y0Tlp4R0VNT3gycTRIU3dJdEcta0tSbmhQRHQyQWFJbWtHeENlM3VmejFhbEsxaFdqbE5uN3c?oc=5)
+### [Reading and associations with brain health, cognition, well-being, and mental health - Cambridge University Press & Assessment](https://news.google.com/rss/articles/CBMikgJBVV95cUxQdkxkOFFBRmpEY19iZFczOW9MT1lDZnBuMk5jVjVuYlVfS01ZNGZOX2FzT19WVFVmcEdoTmhLZDBoa21Sc1AxMWc3Qm9sSXlnOTV6dmEtMGYwLU1GdmZxZ2JZVUlhLUk4RmRNNU84ZjRUR1dIRGpZeXNlSFlnRjdDU0hjUFhNUW4waFZoRXhodFVGQnFOMjh5LXFiQlRGeDdDY1Qwd0JoOGZrcFg1aDYyemVPRjBsRE1ra3BfV29HQ05aQkRuZTZZLXNjYnFFTnR2Q2dGb194V0gza01KSmxBVVNsZ2Vabkd1elJwLTJxdzlkdlNyd3lKOUx3aGRER09sQlo3SzRnSFpzd2NZR0lRMEdR?oc=5)
 
 2026-09-15 <span class="news-indication-tag">dementia</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XQTJCQ1VZMFJ1OWJ0bXcxMUEwSWlmV01XYllUREh1d3Y0Tlp4R0VNT3gycTRIU3dJdEcta0tSbmhQRHQyQWFJbWtHeENlM3VmejFhbEsxaFdqbE5uN3c?oc=5)
-
----
-
-### [A microprotein atlas of the human frontal cortex in Alzheimer’s disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
-
-2026-09-14 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
-
----
-
-### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
-
-2026-09-13 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
+來源：[Cambridge University Press & Assessment](https://news.google.com/rss/articles/CBMikgJBVV95cUxQdkxkOFFBRmpEY19iZFczOW9MT1lDZnBuMk5jVjVuYlVfS01ZNGZOX2FzT19WVFVmcEdoTmhLZDBoa21Sc1AxMWc3Qm9sSXlnOTV6dmEtMGYwLU1GdmZxZ2JZVUlhLUk4RmRNNU84ZjRUR1dIRGpZeXNlSFlnRjdDU0hjUFhNUW4waFZoRXhodFVGQnFOMjh5LXFiQlRGeDdDY1Qwd0JoOGZrcFg1aDYyemVPRjBsRE1ra3BfV29HQ05aQkRuZTZZLXNjYnFFTnR2Q2dGb194V0gza01KSmxBVVNsZ2Vabkd1elJwLTJxdzlkdlNyd3lKOUx3aGRER09sQlo3SzRnSFpzd2NZR0lRMEdR?oc=5)
 
 ---
 
