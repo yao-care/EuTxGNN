@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
@@ -67,14 +67,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV9
 2026-09-17 <span class="news-indication-tag">arthritis</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
-
----
-
-### [Being on fat jabs linked to 11-fold risk of deadly complication, shock probe suggests](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
-
-2026-09-16 <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFhHWlE0cXpPSEFUeUtwb0RPM3pfV3hMaEFJSmpweTRmdi10bVlwMjB4ZjlJMUVRRDJ4Mm9kcUFCV1RDT1k3OVFQY05NdzM5MVRYa1NSSEdONWxxY3NwMXBaX0NvWW9MYWV0bENEdVN1eTdMS283N3dmMEtiX2FfR2Nycw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine Hydrochloride?">
-<strong>Duloxetine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Duloxetine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Duloxetine Hydrochloride wit
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Dépression périnatale : une souffrance qui touche une femme sur trois en Guadeloupe - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3dETG9lRW9aV0llOTFIUHBwWDI2RVdkQ2FmUkI0Q1laVk5mWjZZUGtzQzZVMERtZkM4cWdUdThxVER4T1lidHM4UFVfaloyemxvT3p1UjMtZTlfUmlrLTBlNjNrc0NUNHo5bklld1ZOWjluT3RCdk9GaW9oWldvamw0ZEZhRWxSOEZtTDFiRGdjTHRYSlRKclZsLXJzUHFfbWk4TVRoVG4zeEJQUXU2N3h2REVMVWl6MkdlR2xoRXF3ZkNBS2dWbHRpbTkzTUk?oc=5)
+
+2026-09-18 <span class="news-indication-tag">dépression</span>
+
+Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3dETG9lRW9aV0llOTFIUHBwWDI2RVdkQ2FmUkI0Q1laVk5mWjZZUGtzQzZVMERtZkM4cWdUdThxVER4T1lidHM4UFVfaloyemxvT3p1UjMtZTlfUmlrLTBlNjNrc0NUNHo5bklld1ZOWjluT3RCdk9GaW9oWldvamw0ZEZhRWxSOEZtTDFiRGdjTHRYSlRKclZsLXJzUHFfbWk4TVRoVG4zeEJQUXU2N3h2REVMVWl6MkdlR2xoRXF3ZkNBS2dWbHRpbTkzTUk?oc=5)
+
+---
 
 ### [Reconciling the neurogenic hypothesis of depression with recent advances in adult hippocampal neurogenesis research in humans](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 2026-09-17 <span class="news-indication-tag">depression</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 ---
 
-### [Urgent 'red flag' for Brits using Botox and fillers as experts give warning](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
+### [Urgent 'red flag' for Brits using Botox and fillers as experts give warning - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
 
 2026-09-16 <span class="news-indication-tag">depression</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWU1U3RCM1ZfSlZIbWpRWThOenFWMXF4R2Y3TjdaTmM5cUw0dno4SXA2a1lVbjlwMTdWOTNNeGRPYkhxUUstNTBpZnZUR0tHcUZFSk41cUk4dHJLdFlMUXBYbG9mWUp5a2xZaElPdEhnUzN5bmQ1WUFyVngwLTU3QXljRHN6Zw?oc=5)
 
 ---
 

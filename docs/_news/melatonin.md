@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Melatonin</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (4)
 
 ### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
 
@@ -70,19 +70,11 @@ Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWT
 
 ---
 
-### [Millennial women, booze and breast cancer — is it time we quit? - The Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVURmZ1dFdjN6Wkdhc0plZEhNRGZ5QmQzc3puNjZQYVhQYXZxM0hoS205RHJ4enVQRVJGSTkyUEppMUpCNTVFVU1ua3RRTWVST28tWkFfU2VGS0drSXVNUkdRRmxrWUVWbWZGTDkwclFtTTdjeEJHVjRWTzFEdW01UjhFRk1ZZEZQc0ZZNy00Vnk4aWpFZmhGN1NvXzlBVXB3TUtvZFhRSTdjeTVZUDk4b1NPVVMtbEgweFpEMnBrdU5UcFND?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">overweight</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVURmZ1dFdjN6Wkdhc0plZEhNRGZ5QmQzc3puNjZQYVhQYXZxM0hoS205RHJ4enVQRVJGSTkyUEppMUpCNTVFVU1ua3RRTWVST28tWkFfU2VGS0drSXVNUkdRRmxrWUVWbWZGTDkwclFtTTdjeEJHVjRWTzFEdW01UjhFRk1ZZEZQc0ZZNy00Vnk4aWpFZmhGN1NvXzlBVXB3TUtvZFhRSTdjeTVZUDk4b1NPVVMtbEgweFpEMnBrdU5UcFND?oc=5)
-
----
-
 ### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
+Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 
@@ -91,14 +83,6 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE
 2026-09-17 <span class="news-indication-tag">obésité</span>
 
 Source: [20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
-
----
-
-### [Addio al professor Carlo Maria Rotella, luminare della lotta all’obesità - La Nazione](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUVfb0lVZ18ycWRpQWI2dkxkN0M5TzBBNEZkNFFvUzJ6d1FuRWJvYTJRLWVJOHFUUG4xeVpFVzdQWjVHNExTN1oyQ3hWa0xwcnM4NkN0Tm5LQ2o0NnpyMzVpd1g5d0JhS1hsVnJGeXdKT0pUZUU5YVNHTXdkMWM2THB6Ums2aUJLR1lQNl9UV244TnNVNl8yRm1ELU56YXlpNEdTa3hqTWFLNUZ2aWpia0M1TzZWOUx1SU1NbA?oc=5)
-
-2026-09-17 <span class="news-indication-tag">obesità</span>
-
-Source: [La Nazione](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUVfb0lVZ18ycWRpQWI2dkxkN0M5TzBBNEZkNFFvUzJ6d1FuRWJvYTJRLWVJOHFUUG4xeVpFVzdQWjVHNExTN1oyQ3hWa0xwcnM4NkN0Tm5LQ2o0NnpyMzVpd1g5d0JhS1hsVnJGeXdKT0pUZUU5YVNHTXdkMWM2THB6Ums2aUJLR1lQNl9UV244TnNVNl8yRm1ELU56YXlpNEdTa3hqTWFLNUZ2aWpia0M1TzZWOUx1SU1NbA?oc=5)
 
 ---
 
