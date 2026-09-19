@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
-### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+### [Asthma und COPD: Semaglutid reduziert Anfälle um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
 
 2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
 
 ---
 
-### [So wird die COPD in 2026 therapiert](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
+### [So wird die COPD in 2026 therapiert - Ärzte Zeitung](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
 
 2026-09-18 <span class="news-indication-tag">copd</span>
 
-Source: [aerztezeitung.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTh2VWI1RURhNkN2VnotR3p6QThaMWlndHpTT0lJMVV6Qnlub0wtOHdQcXpDeWE3U0ZTQ0lBRUpwQTBzRER1eHEta2lnM3daLUYxSHBWeklqRVY4Wk53aDFIblZ4MzVPaXNDbWw0RE8wdTJ5Z2pwcjB3bWpNT1JLTEQzZEt1cFh2YlplbQ?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV9
 2026-09-17 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXNHamQ3RHl2VTFOWDA3eEtNbE04SkhxTjdkY3RFd0NjQnRCUEEzTjNGVGR0WjktSzNQSFFTdWo3NGlERjB3R1lMS1BIeUk3RmxiNHhkRlFCRHh0WkFXd2hydU5aT0pRaU12a1RmUnIwYUI3djNnYjdwcVBrUHpNVW1Zd1pMM19ONk1YeGNVZ3NJUl9qTHV2S1YydmNiY09SWG1veWFwQ3FFQXNFUzlLM2l5bWNaY2VI?oc=5)
-
----
-
-### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
-
-2026-09-16 <span class="news-indication-tag">asthma</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 ---
 

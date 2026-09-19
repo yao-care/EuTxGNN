@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (12)
 
-### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
+### [Une vaste étude révèle l'heure idéale du coucher pour protéger son cœur, et ce n'est pas avant minuit qu'il faut retenir - La Provence](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
+
+2026-09-18 <span class="news-indication-tag">AVC</span>
+
+Source: [La Provence](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
+
+---
+
+### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show - The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 2026-09-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 ---
 
@@ -86,35 +94,19 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJ
 
 ---
 
-### [Millennial women, booze and breast cancer — is it time we quit? - The Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVURmZ1dFdjN6Wkdhc0plZEhNRGZ5QmQzc3puNjZQYVhQYXZxM0hoS205RHJ4enVQRVJGSTkyUEppMUpCNTVFVU1ua3RRTWVST28tWkFfU2VGS0drSXVNUkdRRmxrWUVWbWZGTDkwclFtTTdjeEJHVjRWTzFEdW01UjhFRk1ZZEZQc0ZZNy00Vnk4aWpFZmhGN1NvXzlBVXB3TUtvZFhRSTdjeTVZUDk4b1NPVVMtbEgweFpEMnBrdU5UcFND?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">overweight</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVURmZ1dFdjN6Wkdhc0plZEhNRGZ5QmQzc3puNjZQYVhQYXZxM0hoS205RHJ4enVQRVJGSTkyUEppMUpCNTVFVU1ua3RRTWVST28tWkFfU2VGS0drSXVNUkdRRmxrWUVWbWZGTDkwclFtTTdjeEJHVjRWTzFEdW01UjhFRk1ZZEZQc0ZZNy00Vnk4aWpFZmhGN1NvXzlBVXB3TUtvZFhRSTdjeTVZUDk4b1NPVVMtbEgweFpEMnBrdU5UcFND?oc=5)
-
----
-
 ### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
+Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 
-### [Vieillir en bonne santé : cette heure d'endormissement serait associée au risque cardiovasculaire le plus faible - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
-
-2026-09-17 <span class="news-indication-tag">AVC</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihwJBVV95cUxPak1uSzBINDBnWmVpVm5PSzluMWFpbXU2Yjd6d3VJSHAteWNNMk9TWEtOZ2Y2Ym1vNHk3ZDdqUTlRMnpPZ2M3TWduMzJyZHlYQkVWblB4dVNaZUs2TmJhTzVOc1k3d3V0RXNRSkJsS0VOZTJvcGYwRDVLclVIY1RaWi1hQlhRY3pJaUt1N1hicGc3S195M0w5TnRXRlRSUzNMaHNEeS1rVnFVTTRXdWtYLVZROTNZUXlTcDdBb1RZd1VpWHNIUmx0Z3gwUmNzQkZab2pkNzBlNTl6Rm16ODBLSVpFdkxac3hwT25Ca3FCZktSZENyZjR4eHV4Vmk3akVCdkNsQnpXNA?oc=5)
-
----
-
-### [La farmacia se une a CAP y hospitales para reforzar la prevención y detección del ictus - El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+### [Farmacia comunitaria, Atención Primaria y hospitales se coordinan para prevenir el ictus en Barcelona - Redacción médica](https://news.google.com/rss/articles/CBMihwJBVV95cUxPdGtuWjlyb1J4bHZ0R282cE1PYmFlU2xCMGljLTA5MTk2VE42YUE5bWwtX3Yxc3J1UG50akZEaW9yeEpFVlBtSnVLamV5R1lzUWZIY1hDLVVRdE5TMGVqbTBTX3k4NV9nRVUwWVdCX0hESmZxcDBsSTRRdHc0Z29yTjFvWXI3UVd2RGplUHROdW9SdkFGQ2ZLcEU4b0U0MWQ4ZFFJMFZDaTFUWUpndUFKLTl3bTE0YVZSOE1obFRlQlJSMEsydWxyWHBJRFhiN3RpdVk3SjIyR0g1TldRaFdOZVhEWS1WV0tUUWNzNERHYXJIQXdZN2xLZFN0T2NKeGx3S0VWWWFTSdIBjAJBVV95cUxPVkhFVC1LVWdiUFYyZV81QlhMZTNmSWFtXzBkbXBaZ0RxSHk2NzRLSTlRYVNUeDlwVWVYdWNYbWNKQTB4VlJrWXZGQWpnZVE0QjQzVDJSYTYxd1NQWDdDODV0ZXZYT2w4ZEdTTFBNaVpVZkZUZUlWeFc5WEtzQlNUbHRvVmpOb1d6dEpLYnpHVklYTGF0UWx6MG1IZVlMbVFrNzR6OHNZcW9ERTg3dXRXLVZadGw2dzU4TWN4V2hka1o3bngzbDl1aDN5dGd6UThZVS1EdXd4emdweHo4Q3Z1MjgtU0RoRzdUd0NGZXVPN1Q1Y0Jmcml2Tk1FRkFJQllaQ0stYnp3SmZVQnFr?oc=5)
 
 2026-09-17 <span class="news-indication-tag">ictus</span>
 
-Source: [El Globalfarma](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRk55cTJOM2RPZHc2ZUQyZFYtNVFvaUVKSmlkekU4dU5zRUhnTUZ6VUNwNndjSHJSNzNFRXRNU0dpcEMySm1FLTJUdTROTm1uckM4LXQtODI4UWdyVXZjeVhDN2Rvc0Y5WXRvbHVPTG1ReXlvRGN5U21WNHY1MTJPZFhNN3ZPYi1IdEhlbG9xWQ?oc=5)
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMihwJBVV95cUxPdGtuWjlyb1J4bHZ0R282cE1PYmFlU2xCMGljLTA5MTk2VE42YUE5bWwtX3Yxc3J1UG50akZEaW9yeEpFVlBtSnVLamV5R1lzUWZIY1hDLVVRdE5TMGVqbTBTX3k4NV9nRVUwWVdCX0hESmZxcDBsSTRRdHc0Z29yTjFvWXI3UVd2RGplUHROdW9SdkFGQ2ZLcEU4b0U0MWQ4ZFFJMFZDaTFUWUpndUFKLTl3bTE0YVZSOE1obFRlQlJSMEsydWxyWHBJRFhiN3RpdVk3SjIyR0g1TldRaFdOZVhEWS1WV0tUUWNzNERHYXJIQXdZN2xLZFN0T2NKeGx3S0VWWWFTSdIBjAJBVV95cUxPVkhFVC1LVWdiUFYyZV81QlhMZTNmSWFtXzBkbXBaZ0RxSHk2NzRLSTlRYVNUeDlwVWVYdWNYbWNKQTB4VlJrWXZGQWpnZVE0QjQzVDJSYTYxd1NQWDdDODV0ZXZYT2w4ZEdTTFBNaVpVZkZUZUlWeFc5WEtzQlNUbHRvVmpOb1d6dEpLYnpHVklYTGF0UWx6MG1IZVlMbVFrNzR6OHNZcW9ERTg3dXRXLVZadGw2dzU4TWN4V2hka1o3bngzbDl1aDN5dGd6UThZVS1EdXd4emdweHo4Q3Z1MjgtU0RoRzdUd0NGZXVPN1Q1Y0Jmcml2Tk1FRkFJQllaQ0stYnp3SmZVQnFr?oc=5)
 
 ---
 
@@ -126,19 +118,11 @@ Source: [20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bW
 
 ---
 
-### [Addio al professor Carlo Maria Rotella, luminare della lotta all’obesità - La Nazione](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUVfb0lVZ18ycWRpQWI2dkxkN0M5TzBBNEZkNFFvUzJ6d1FuRWJvYTJRLWVJOHFUUG4xeVpFVzdQWjVHNExTN1oyQ3hWa0xwcnM4NkN0Tm5LQ2o0NnpyMzVpd1g5d0JhS1hsVnJGeXdKT0pUZUU5YVNHTXdkMWM2THB6Ums2aUJLR1lQNl9UV244TnNVNl8yRm1ELU56YXlpNEdTa3hqTWFLNUZ2aWpia0M1TzZWOUx1SU1NbA?oc=5)
-
-2026-09-17 <span class="news-indication-tag">obesità</span>
-
-Source: [La Nazione](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUVfb0lVZ18ycWRpQWI2dkxkN0M5TzBBNEZkNFFvUzJ6d1FuRWJvYTJRLWVJOHFUUG4xeVpFVzdQWjVHNExTN1oyQ3hWa0xwcnM4NkN0Tm5LQ2o0NnpyMzVpd1g5d0JhS1hsVnJGeXdKT0pUZUU5YVNHTXdkMWM2THB6Ums2aUJLR1lQNl9UV244TnNVNl8yRm1ELU56YXlpNEdTa3hqTWFLNUZ2aWpia0M1TzZWOUx1SU1NbA?oc=5)
-
----
-
 ### [Colesterolo LDL dopo i 60 anni: i valori da monitorare attentamente se si assumono farmaci](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FyQ0FqQU43b2ZGRndJYldhZkFVQVVfU0RKT05aOVlQYWNGcVRsOEtqUzRxcGxTUFR2aUtXZEo5SzZPQVdYdUhaTENmbmlqX0o3czBrWDhxeWh1WG5xSFJacnV4SjB6U3RRQW5veW9zMWpCZkVvWkJoelVGX0lldjVyOVBUY0tVUjhnOVphM20wQVNXR2tGUkVyQ0VTbXRSMHJqOUl1VnZ4WWRIM2o0M25mcjFYelVfVmx4VUVLbw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">ictus</span>
 
-Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FyQ0FqQU43b2ZGRndJYldhZkFVQVVfU0RKT05aOVlQYWNGcVRsOEtqUzRxcGxTUFR2aUtXZEo5SzZPQVdYdUhaTENmbmlqX0o3czBrWDhxeWh1WG5xSFJacnV4SjB6U3RRQW5veW9zMWpCZkVvWkJoelVGX0lldjVyOVBUY0tVUjhnOVphM20wQVNXR2tGUkVyQ0VTbXRSMHJqOUl1VnZ4WWRIM2o0M25mcjFYelVfVmx4VUVLbw?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FyQ0FqQU43b2ZGRndJYldhZkFVQVVfU0RKT05aOVlQYWNGcVRsOEtqUzRxcGxTUFR2aUtXZEo5SzZPQVdYdUhaTENmbmlqX0o3czBrWDhxeWh1WG5xSFJacnV4SjB6U3RRQW5veW9zMWpCZkVvWkJoelVGX0lldjVyOVBUY0tVUjhnOVphM20wQVNXR2tGUkVyQ0VTbXRSMHJqOUl1VnZ4WWRIM2o0M25mcjFYelVfVmx4VUVLbw?oc=5)
 
 ---
 

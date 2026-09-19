@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="What news is there about Tazobactam?">
-<strong>Tazobactam</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Tazobactam</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Tazobactam with the latest h
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Ozempic-Wirkstoff gegen Asthma und COPD: Neue Studie verblüfft Forschende - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+### [Asthma und COPD: Semaglutid reduziert Anfälle um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
 
 2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFJU015Y2haUVZYMkg4UWFPOFFYQ2FvSHB6ZGZDWUdzMWVLQmFEdUlwenRjUEdlSy1hS05NeDdURWQ3ZkJDcU43Ny03VU9YY3N5b1FyaDNfS09vUDU3SHVjbzU3V3ZHVFd2TmJwWlFXczdwUXNpS0ZUUDZXRkZCMjUtYjUyX2tPNWRBN3dOVGxqN09UdTBPSElSNW52Wml2N3JvR2FnXy1TTVN3XzQzZDlQanNxSDE4dmhoSHRUeFJhT1BNSWRfU3Y0dTd3SlNnSFE?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ Source: [Moneycab](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdI
 2026-09-17 <span class="news-indication-tag">arthritis</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
-
----
-
-### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
-
-2026-09-16 <span class="news-indication-tag">asthma</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 ---
 

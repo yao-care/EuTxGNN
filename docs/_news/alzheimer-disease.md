@@ -54,11 +54,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTR
 
 ---
 
-### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia'](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 2026-09-17
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NX
 
 2026-09-14
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
 
 ---
 

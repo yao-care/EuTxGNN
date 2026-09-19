@@ -56,17 +56,17 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 
 ### [Baroness Casey: Denying British dementia drugs to NHS patients is insane - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRrMW91UWRvMXg5WEJCZ3RYTkNteHU3RnFKS3dKVm52Q1RpUjl2QzFycU54NTBDb0tyYzlUZXFNWUFGX0QxVUtrOW43azRWU2swSGNFUzZLekFVdXJxT2thaHowNFNsYktWU19NMmlWUlp1Tk9PTFBwcnh0ZGQyT1dkLW9EN3gwaGU5Z2d2NGxVSG1sbS1jbkNDcW9lUXdPWGdiOXBR?oc=5)
 
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+2026-09-17 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRrMW91UWRvMXg5WEJCZ3RYTkNteHU3RnFKS3dKVm52Q1RpUjl2QzFycU54NTBDb0tyYzlUZXFNWUFGX0QxVUtrOW43azRWU2swSGNFUzZLekFVdXJxT2thaHowNFNsYktWU19NMmlWUlp1Tk9PTFBwcnh0ZGQyT1dkLW9EN3gwaGU5Z2d2NGxVSG1sbS1jbkNDcW9lUXdPWGdiOXBR?oc=5)
 
 ---
 
-### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia'](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 2026-09-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">dementia</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 ---
 
@@ -82,7 +82,7 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NX
 
 2026-09-14 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
 
 ---
 
