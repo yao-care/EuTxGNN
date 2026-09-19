@@ -31,15 +31,15 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 # Glucagon: From Unknown/Not Marketed Indication to Irritable Bowel Syndrome
 
-## 一句話總結
+## One-Sentence Summary
 
-Glucagon（升糖素）目前在歐盟**未取得上市許可**（0 筆核准），本證據包也未提供其原始適應症文字與作用機轉資料。TxGNN 模型將 **Irritable Bowel Syndrome (IBS)** 列為第一預測適應症，分數達 **99.24%**，並有 **11 篇臨床試驗**與 **20 篇文獻**被檢索到；但仔細核對後，這些證據絕大多數研究的是 **GLP-1（glucagon-like peptide-1）受體促效劑**而非 glucagon 本身，存在明顯的藥名/實體混淆風險。
+Glucagon currently has **not obtained marketing authorization in the EU** (0 approvals); this evidence package also does not provide its original indication text and mechanism of action data. The TxGNN model lists **Irritable Bowel Syndrome (IBS)** as the top predicted indication with a score of **99.24%**, and **11 clinical trials** and **20 literature articles** were retrieved; however, upon careful review, the vast majority of these findings actually study **GLP-1 (glucagon-like peptide-1) receptor agonists** rather than glucagon itself, posing a clear risk of drug name/entity confusion.
 
 ## Quick Overview
 
 | Item | Content |
-|------|------|
-| Original Indication | 資料缺口 — 本品於 EU Not marketed，證據包未提供核准適應症文字（見 DG001） |
+|------|---------|
+| Original Indication | Data gap — this product is not marketed in the EU; the evidence package does not provide approved indication text (see DG001) |
 | Predicted New Indication | Irritable Bowel Syndrome (IBS) |
 | TxGNN Prediction Score | 99.24% |
 | Evidence Level | L4 |
@@ -47,69 +47,70 @@ Glucagon（升糖素）目前在歐盟**未取得上市許可**（0 筆核准）
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
-## Why is This Prediction Reasonable？
+## Why is This Prediction Reasonable?
 
-目前本品的作用機轉（MOA）資料缺失（DG002，屬 High severity，Limits mechanistic-link analysis），且因本品於 EU Not marketed，證據包中也沒有核准適應症文字可供比對（DG001，屬 Blocking severity，連帶使安全性初評 S1 無法完整進行）。因此無法對「原始適應症」與「預測新適應症」進行常規的機轉層面比對。
+Currently, this product's mechanism of action (MOA) data is missing (DG002, classified as High severity, Limits mechanistic-link analysis), and because this product is not marketed in the EU, the evidence package also lacks approved indication text for comparison (DG001, classified as Blocking severity, which consequently prevents the safety initial assessment S1 from being completed). Therefore, routine mechanistic comparison between "original indication" and "predicted new indication" cannot be performed.
 
-必須特別指出：檢索到的 11 篇臨床試驗與 20 篇文獻中，證據高度集中在 **GLP-1 受體促效劑**（如 ROSE-010、exendin-4）及其衍生藥物（dulaglutide、liraglutide、semaglutide、tirzepatide）於 IBS 動力障礙、疼痛緩解的研究，而非 glucagon（升糖素）本身。這是典型的「glucagon」與「glucagon-like peptide-1 (GLP-1)」名稱相似導致的實體混淆，知識圖譜可能因此產生雜訊配對。
+It must be particularly noted that among the 11 clinical trials and 20 literature articles retrieved, evidence is heavily concentrated on studies of **GLP-1 receptor agonists** (such as ROSE-010, exendin-4) and their derivative drugs (dulaglutide, liraglutide, semaglutide, tirzepatide) in IBS motility disorders and pain relief, rather than glucagon itself. This represents a typical entity confusion caused by name similarity between "glucagon" and "glucagon-like peptide-1 (GLP-1)," potentially causing the knowledge graph to generate noisy pairings.
 
-臨床上已知 glucagon 具有誘發腸道平滑肌鬆弛的作用（常用於內視鏡/鋇劑攝影前解痙），此與 IBS 的腸道動力障礙具有理論上的關聯性；但目前檢索到的證據裡，**幾乎沒有直接研究 glucagon 本身用於 IBS 的資料**，故此關聯目前仍停留在假說層次，而非被證據支持的機轉路徑。
+It is clinically known that glucagon has the effect of inducing relaxation of intestinal smooth muscle (commonly used for smooth muscle relaxation before endoscopy/barium imaging), which theoretically relates to IBS-associated intestinal motility disorders; however, in the currently retrieved evidence, **there is almost no data directly studying glucagon itself for IBS use**. Thus, this association currently remains at the hypothesis level rather than an evidence-supported mechanistic pathway.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00802971](https://clinicaltrials.gov/study/NCT00802971) | NA | Completed | 12 | 特發性反應性低血糖盛行率與果寡糖補充研究；無 glucagon 藥物介入，相關性低（grade C） |
-| [NCT05249023](https://clinicaltrials.gov/study/NCT05249023) | NA | Completed | 37 | 研究丁酸鹽於人體結腸的作用機轉；與 glucagon 無關（grade C） |
-| [NCT04111263](https://clinicaltrials.gov/study/NCT04111263) | NA | Completed | 33 | 腸道菌叢營養介入研究，探討高海拔暴露下的腸道屏障完整性；無 glucagon 成分（grade C） |
-| [NCT01056107](https://clinicaltrials.gov/study/NCT01056107) | Phase 1/2 | Completed | 52 | 評估 ROSE-010（合成 GLP-1 類似物，非 glucagon）對便秘型 IBS 患者腸胃動力的影響（grade C，藥物身份不符） |
-| [NCT06408610](https://clinicaltrials.gov/study/NCT06408610) | NA | Completed | 66 | 比較兩種運動強度對 IBS 患者腸道菌群失衡與 GLP-1 荷爾蒙的影響 |
-| [NCT02731664](https://clinicaltrials.gov/study/NCT02731664) | Phase 1 | Completed | 12 | 研究天然 GLP-1（非 glucagon）對餐後胃十二指腸空腸動力的抑制作用（grade C） |
-| [NCT03256266](https://clinicaltrials.gov/study/NCT03256266) | N/A | Active, not recruiting | 375 | 建立小腸類器官模型以評估營養抗原或治療劑的影響 |
-| [NCT06333717](https://clinicaltrials.gov/study/NCT06333717) | NA | Completed | 33 | 研究全穀黑麥麵包對腸-腦軸微生物調節的影響 |
-| [NCT04230655](https://clinicaltrials.gov/study/NCT04230655) | NA | Unknown | 110 | 比較低熱量飲食合併行為治療 vs. 合併胃內水球對肥胖成人的療效 |
-| [NCT06113146](https://clinicaltrials.gov/study/NCT06113146) | NA | Completed | 41 | 研究超加工食品進食速度對飲食攝取行為與代謝反應的影響 |
+| [NCT00802971](https://clinicaltrials.gov/study/NCT00802971) | NA | Completed | 12 | Study of idiopathic reactive hypoglycemia prevalence and fructooligosaccharide supplementation; no glucagon drug intervention, low relevance (grade C) |
+| [NCT05249023](https://clinicaltrials.gov/study/NCT05249023) | NA | Completed | 37 | Study of butyrate mechanism of action in human colon; not related to glucagon (grade C) |
+| [NCT04111263](https://clinicaltrials.gov/study/NCT04111263) | NA | Completed | 33 | Gut microbiota nutritional intervention study investigating intestinal barrier integrity under high altitude exposure; no glucagon component (grade C) |
+| [NCT01056107](https://clinicaltrials.gov/study/NCT01056107) | Phase 1/2 | Completed | 52 | Evaluation of ROSE-010 (synthetic GLP-1 analog, not glucagon) on gastrointestinal motility in patients with constipation-predominant IBS (grade C, drug identity mismatch) |
+| [NCT06408610](https://clinicaltrials.gov/study/NCT06408610) | NA | Completed | 66 | Comparison of two exercise intensities on gut dysbiosis and GLP-1 hormone in IBS patients |
+| [NCT02731664](https://clinicaltrials.gov/study/NCT02731664) | Phase 1 | Completed | 12 | Study of natural GLP-1 (not glucagon) on postprandial gastroduodenal jejunal motility inhibition (grade C) |
+| [NCT03256266](https://clinicaltrials.gov/study/NCT03256266) | N/A | Active, not recruiting | 375 | Establishment of small intestinal organoid model to evaluate effects of nutritional antigens or therapeutic agents |
+| [NCT06333717](https://clinicaltrials.gov/study/NCT06333717) | NA | Completed | 33 | Study of whole grain rye bread on gut-brain axis microbiota modulation |
+| [NCT04230655](https://clinicaltrials.gov/study/NCT04230655) | NA | Unknown | 110 | Comparison of low-calorie diet combined with behavioral therapy vs. combined with gastric balloon on efficacy in obese adults |
+| [NCT06113146](https://clinicaltrials.gov/study/NCT06113146) | NA | Completed | 41 | Study of eating speed of ultra-processed food on dietary intake behavior and metabolic response |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35234561](https://pubmed.ncbi.nlm.nih.gov/35234561/) | 2022 | RCT | Scandinavian Journal of Gastroenterology | GLP-1 受體促效劑 ROSE-010 於 IBS 疼痛緩解之交叉分析（非 glucagon） |
-| [40134805](https://pubmed.ncbi.nlm.nih.gov/40134805/) | 2025 | Review | Frontiers in Endocrinology | GLP-1 受體促效劑改善 IBS 之系統性回顧與統合分析 |
-| [21694813](https://pubmed.ncbi.nlm.nih.gov/21694813/) | 2011 | Review | Therapeutic Advances in Gastroenterology | IBS 治療現況回顧（纖維、解痙劑之外的療法） |
-| [26765585](https://pubmed.ncbi.nlm.nih.gov/26765585/) | 2016 | Review | Expert Opinion on Investigational Drugs | 便秘型 IBS 新型研發藥物回顧 |
-| [25427821](https://pubmed.ncbi.nlm.nih.gov/25427821/) | 2015 | Preclinical/Early | Advances in Experimental Medicine and Biology | 霧化吸入型 GLP-1 於糖尿病與 IBS 治療之早期研究 |
-| [30444291](https://pubmed.ncbi.nlm.nih.gov/30444291/) | 2019 | Review | Experimental Physiology | GLP-1 在 IBS 病理生理中的內分泌調控角色 |
-| [31602785](https://pubmed.ncbi.nlm.nih.gov/31602785/) | 2020 | 動物實驗 | Neurogastroenterology and Motility | GLP-1 促效劑 exendin-4 改善 IBS 大鼠模型腸胃功能障礙 |
-| [28215540](https://pubmed.ncbi.nlm.nih.gov/28215540/) | 2017 | 觀察性研究 | Clinics and Research in Hepatology and Gastroenterology | 便秘型 IBS 患者血清 GLP-1 濃度下降與腹痛之相關性 |
-| [40880735](https://pubmed.ncbi.nlm.nih.gov/40880735/) | 2025 | 觀察性研究 | Frontiers in Nutrition | 低 FODMAP 飲食對 IBS 患者循環 GLP-1 濃度的影響 |
-| [40697433](https://pubmed.ncbi.nlm.nih.gov/40697433/) | 2025 | 真實世界研究 | Annals of Gastroenterology | GLP-1 受體促效劑在 IBS 患者中的處方與停藥模式 |
+| [35234561](https://pubmed.ncbi.nlm.nih.gov/35234561/) | 2022 | RCT | Scandinavian Journal of Gastroenterology | Cross-sectional analysis of GLP-1 receptor agonist ROSE-010 on IBS pain relief (not glucagon) |
+| [40134805](https://pubmed.ncbi.nlm.nih.gov/40134805/) | 2025 | Review | Frontiers in Endocrinology | Systematic review and meta-analysis of GLP-1 receptor agonists for IBS improvement |
+| [21694813](https://pubmed.ncbi.nlm.nih.gov/21694813/) | 2011 | Review | Therapeutic Advances in Gastroenterology | Review of current IBS treatment status (therapies beyond fiber and antispasmodic agents) |
+| [26765585](https://pubmed.ncbi.nlm.nih.gov/26765585/) | 2016 | Review | Expert Opinion on Investigational Drugs | Review of newly developed drugs for constipation-predominant IBS |
+| [25427821](https://pubmed.ncbi.nlm.nih.gov/25427821/) | 2015 | Preclinical/Early | Advances in Experimental Medicine and Biology | Early research of inhaled GLP-1 in diabetes and IBS treatment |
+| [30444291](https://pubmed.ncbi.nlm.nih.gov/30444291/) | 2019 | Review | Experimental Physiology | The endocrine regulatory role of GLP-1 in IBS pathophysiology |
+| [31602785](https://pubmed.ncbi.nlm.nih.gov/31602785/) | 2020 | Animal Study | Neurogastroenterology and Motility | GLP-1 agonist exendin-4 improves gastrointestinal dysfunction in IBS rat model |
+| [28215540](https://pubmed.ncbi.nlm.nih.gov/28215540/) | 2017 | Observational Study | Clinics and Research in Hepatology and Gastroenterology | Correlation of decreased serum GLP-1 concentration and abdominal pain in patients with constipation-predominant IBS |
+| [40880735](https://pubmed.ncbi.nlm.nih.gov/40880735/) | 2025 | Observational Study | Frontiers in Nutrition | Effects of low-FODMAP diet on circulating GLP-1 concentration in IBS patients |
+| [40697433](https://pubmed.ncbi.nlm.nih.gov/40697433/) | 2025 | Real-World Study | Annals of Gastroenterology | Prescription and discontinuation patterns of GLP-1 receptor agonists in IBS patients |
 
-> 註：以上文獻主體皆圍繞 **GLP-1 受體促效劑**，非 glucagon 本身的直接療效證據。
+> Note: The main body of all the above literature revolves around **GLP-1 receptor agonists**, not direct efficacy evidence of glucagon itself.
 
 ## EU Market Information
 
-目前本品於歐盟未取得任何上市許可（0 筆核准紀錄），無法列出授權資訊。
+Currently, this product has not obtained any marketing authorization in the EU (0 approval records) and cannot list authorization information.
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-（DDI 查詢無結果；警語與禁忌症資料均為缺口，對應 DG001 — 屬 Blocking severity，須先取得 TFDA/EU SmPC 仿單資料才能進行安全性初評。）
+(DDI query yielded no results; warning and contraindication data are all gaps, corresponding to DG001 — classified as Blocking severity, requiring first obtaining TFDA/EU SmPC prescribing information before safety initial assessment can be performed.)
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-本品於歐盟Not marketed、無安全性標籤資料（DG001，Blocking），且作用機轉未知（DG002）。雖然 IBS 的 TxGNN 分數高達 99.24%、evidence level 達 L4，但支撐證據中絕大多數研究對象實為 GLP-1 受體促效劑而非 glucagon 本身，存在藥物實體混淆的高度風險，其餘 9 個預測適應症（cauda equina syndrome、neurogenic bladder 等）皆為 L5，無任何臨床或文獻支持，或方向相反（如 pharyngitis、filariasis 為藥物副作用/疾病影響荷爾蒙的反向證據）。整體證據品質不足以支持推進。
+This product is not marketed in the EU with no safety labeling data (DG001, Blocking), and mechanism of action is unknown (DG002). Although the TxGNN score for IBS reaches 99.24% and evidence level reaches L4, the vast majority of study subjects in the supporting evidence are actually GLP-1 receptor agonists rather than glucagon itself, posing a high risk of drug entity confusion. The remaining 9 predicted indications (cauda equina syndrome, neurogenic bladder, etc.) are all L5, with no clinical or literature support, or pointing in the opposite direction (such as pharyngitis, filariasis being reverse evidence of drug side effects/disease-influenced hormones). The overall quality of evidence is insufficient to support proceeding.
 
 **To proceed, the following is needed:**
-- 取得 TFDA/EU SmPC 仿單警語與禁忌症（DG001）
-- 補齊 DrugBank 作用機轉資料（DG002）
-- 確認知識圖譜中 glucagon 節點是否與 GLP-1 (glucagon-like peptide-1) 節點發生實體混淆或誤合併
-- 針對 glucagon（非 GLP-1 類似物）本身，重新執行 IBS 專一性臨床試驗與文獻檢索
-- 若持續推進，需補充 route compatibility 與劑型相容性資料（目前為 pending）
+- Obtain TFDA/EU SmPC prescribing information warnings and contraindications (DG001)
+- Complete DrugBank mechanism of action data (DG002)
+- Confirm whether the glucagon node in the knowledge graph has entity confusion or incorrect merging with the GLP-1 (glucagon-like peptide-1) node
+- Re-execute IBS-specific clinical trial and literature search for glucagon (not GLP-1 analogs) itself
+- If proceeding further, supplementary route compatibility and dosage form compatibility data are needed (currently pending)
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

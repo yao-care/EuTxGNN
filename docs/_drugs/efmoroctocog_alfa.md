@@ -29,64 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Efmoroctocog Alfa：從血友病 A 到 Pseudo-von Willebrand Disease
+# Efmoroctocog Alfa: From Hemophilia A to Pseudo-von Willebrand Disease
 
-## 一句話摘要
+## One-Sentence Summary
 
-> Efmoroctocog alfa 是長效型重組第八凝血因子（Factor VIII-Fc 融合蛋白），原用於血友病 A 的凝血因子替代治療。TxGNN 模型預測其可能對 **Pseudo-von Willebrand Disease** 具有潛在效益，但目前**無任何臨床試驗、無文獻**支持此方向，且模型自身的機轉描述已註明此關聯「間接且薄弱」。
+> Efmoroctocog alfa is a long-acting recombinant Factor VIII (Factor VIII-Fc fusion protein), originally used for Factor VIII replacement therapy in hemophilia A. The TxGNN model predicts potential benefit for **Pseudo-von Willebrand Disease**, but currently there is **no clinical trial or literature evidence** supporting this direction, and the model's own mechanism description notes this association as "indirect and weak."
 
-## 快速總覽
+## Quick Overview
 
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 血友病 A (Hemophilia A)（依候選適應症機轉描述推論；官方核准適應症文字目前缺失） |
-| 預測新適應症 | Pseudo-von Willebrand Disease |
-| TxGNN 預測分數 | 99.997% |
-| 證據等級 | L5（僅模型預測，無臨床試驗或文獻） |
-| 市場狀態 | Not marketed |
-| 核准藥證數量 | 0 |
-| 建議決策 | Hold |
+| Item | Content |
+|------|---------|
+| Original indication | Hemophilia A (based on candidate indication mechanism description; official approved indication text currently unavailable) |
+| Predicted new indication | Pseudo-von Willebrand Disease |
+| TxGNN prediction score | 99.997% |
+| Evidence level | L5 (model prediction only, no clinical trial or literature) |
+| Market status | Not marketed |
+| Number of approved drug licenses | 0 |
+| Recommended decision | Hold |
 
-## 這個預測合理嗎？
+## Is This Prediction Reasonable?
 
-目前尚未取得 Efmoroctocog alfa 的完整作用機轉資料（MOA 為 Data Gap）。根據其他候選適應症的機轉描述可推知，Efmoroctocog alfa 屬於長效型重組第八凝血因子-Fc 融合蛋白（rFVIII-Fc），原始用途為補充血友病 A 患者體內不足的第八凝血因子。
+Complete mechanism of action data for Efmoroctocog alfa has not yet been obtained (MOA is a Data Gap). Based on mechanism descriptions for other candidate indications, Efmoroctocog alfa is a long-acting recombinant Factor VIII-Fc fusion protein (rFVIII-Fc), originally intended to supplement the insufficient Factor VIII in patients with hemophilia A.
 
-針對排名第一的 Pseudo-von Willebrand Disease（血小板型 VWD），其病理根源是血小板 GPIb 受體異常導致 von Willebrand 因子被過度結合並清除，並非第八凝血因子（FVIII）本身缺乏。雖然 FVIII 與 VWF 在血漿中會形成複合體，但此疾病的根本缺陷在血小板受體而非 FVIII 濃度，因此補充 FVIII 難以糾正核心病生理問題。模型提供的機轉說明也明確指出此關聯「間接且薄弱，無任何試驗或文獻支持」。
+For the top-ranked Pseudo-von Willebrand Disease (platelet-type VWD), its pathological root cause is abnormality in the platelet GPIb receptor leading to excessive binding and clearance of von Willebrand factor, not a deficiency of Factor VIII (FVIII) itself. Although FVIII and VWF form complexes in plasma, the fundamental defect in this disease lies in the platelet receptor rather than FVIII concentration, making it difficult for FVIII supplementation to correct the core pathophysiological problem. The mechanism description provided by the model also explicitly states that this association is "indirect and weak, with no trial or literature support."
 
-值得留意的是，本次預測清單中的 10 個候選裡，機轉關聯性最強的其實是排名第 9 的「hemophilia A with vascular abnormality」——本質上是血友病 A 合併血管異常的亞型，與原始適應症直接重疊——但其 TxGNN 分數（99.78%）與排名（rank 900）都低於排名第一的 Pseudo-von Willebrand Disease（rank 54）。這顯示目前分數最高的候選並非機轉上最合理的候選，評估時應一併參考。
+It is worth noting that among the 10 candidates in this prediction list, the one with the strongest mechanism association is actually rank 9 "hemophilia A with vascular abnormality"—essentially a subtype of hemophilia A combined with vascular abnormality, directly overlapping with the original indication—but its TxGNN score (99.78%) and rank (rank 900) are both lower than the top-ranked Pseudo-von Willebrand Disease (rank 54). This indicates that the candidate with the highest score is not necessarily the most mechanistically reasonable candidate, and should be considered together during evaluation.
 
-## 臨床試驗證據
+## Clinical Trial Evidence
 
-目前無相關臨床試驗登記。
+Currently, there are no related clinical trial registrations.
 
-## 文獻證據
+## Literature Evidence
 
-目前無相關文獻資料。
+Currently, there is no related literature data.
 
-## 藥品上市資訊
+## Drug Marketing Information
 
-此藥品於本資料庫轄區目前Not marketed（核准藥證數量：0），無核准適應症文字可供摘錄。
+This drug is currently Not marketed in the jurisdiction of this database (number of approved drug licenses: 0), with no approved indication text available for excerpt.
 
-## 安全性考量
+## Safety Considerations
 
-請參閱藥品仿單（SmPC）獲取安全性資訊。
+Please refer to the product information leaflet (SmPC) for safety information.
 
-另需注意：本評估存在一項 **Blocking 等級**資料缺口（EMA package insert warnings/contraindications尚未取得），在補齊前無法進入安全性初評（S1）階段。
+Additionally, it should be noted that this assessment has a **Blocking-level** data gap (EMA package insert warnings/contraindications have not yet been obtained), and cannot enter the safety initial assessment (S1) stage until this gap is filled.
 
-## 結論與後續建議
+## Conclusion and Recommendations for Follow-up
 
-**決策：Hold**
+**Decision: Hold**
 
-**理由：**
-- 支持此預測的唯一依據是 TxGNN 模型分數，無任何臨床試驗或文獻佐證；
-- 模型自身的機轉說明已將此關聯定性為「間接且薄弱」；
-- EMA package insert warnings/contraindications資料為 Blocking 等級缺口，尚不具備進入下一階段安全性評估的條件。
+**Rationale:**
+- The only evidence supporting this prediction is the TxGNN model score, with no clinical trial or literature support;
+- The model's own mechanism description has characterized this association as "indirect and weak";
+- EMA package insert warnings/contraindications data is a Blocking-level data gap, and the conditions are not yet met to proceed to the next stage of safety assessment.
 
-**若要推進，需要補齊：**
-- TFDA 仿單警語與禁忌資料（DG001，Blocking）
-- Efmoroctocog alfa 完整作用機轉（MOA）資料（DG002，High）
-- 重新評估時，建議優先檢視機轉重疊度更高的候選——如 rank 9「hemophilia A with vascular abnormality」——而非目前分數最高但機轉薄弱的 rank 1 候選
-- 針對 Pseudo-von Willebrand Disease 是否存在以血小板功能為切入點的替代治療機轉，補充文獻檢索
+**To proceed, the following gaps need to be filled:**
+- TFDA product information leaflet warnings and contraindications data (DG001, Blocking)
+- Complete mechanism of action (MOA) data for Efmoroctocog alfa (DG002, High)
+- Upon reassessment, it is recommended to prioritize reviewing candidates with higher mechanism overlap—such as rank 9 "hemophilia A with vascular abnormality"—rather than the currently highest-scoring but mechanistically weak rank 1 candidate
+- Supplement literature search on whether alternative therapeutic mechanisms targeting platelet function exist for Pseudo-von Willebrand Disease
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

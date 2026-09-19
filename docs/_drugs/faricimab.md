@@ -31,65 +31,65 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 # Faricimab: From Diabetic Macular Edema/nAMD to Diabetic Retinopathy
 
-> **Selection note**：TxGNN 本次 Top-10 原始預測中，分數最高者（如 primary release disorder of platelets、pseudo-von Willebrand disease 等）皆為機轉不合理、零證據的雜訊項（模型依器官/圖譜關聯外推），評分卡本身也將其列為 Hold。本報告聚焦 Top-10 中唯一有實質臨床與文獻證據支持的項目——**Diabetic Retinopathy**（原始排名第 8，score 96.75%），並附帶提及機轉相近的 severe nonproliferative diabetic retinopathy（排名第 6）作為早期訊號。
+> **Selection note**: In this TxGNN Top-10 original prediction round, the highest-scoring candidates (such as primary release disorder of platelets, pseudo-von Willebrand disease, etc.) are all noise items with unreasonable mechanisms and zero evidence (the model extrapolates based on organ/graph associations; the scoring card also flags these as Hold). This report focuses on the only item in the Top-10 with substantive clinical and literature evidence support—**Diabetic Retinopathy** (original rank 8, score 96.75%), with supplementary mention of mechanistically similar severe nonproliferative diabetic retinopathy (rank 6) as an early signal.
 
 ## One-Sentence Summary
 
-Faricimab（Vabysmo）是一款雙特異性單株抗體，透過玻璃體內注射同時中和 VEGF-A 與 Angiopoietin-2，已核准用於濕性年齡相關性黃斑部病變（nAMD）與糖尿病黃斑水腫（DME）。TxGNN 模型預測其可延伸應用於更廣泛的**糖尿病視網膜病變（Diabetic Retinopathy）**，目前有 **25 項臨床試驗**與 **20 篇文獻**支持這個方向，其中包含 4 項已完成的第三期關鍵試驗。
+Faricimab (Vabysmo) is a bispecific monoclonal antibody that simultaneously neutralizes VEGF-A and Angiopoietin-2 via intravitreal injection and is approved for wet age-related macular degeneration (nAMD) and diabetic macular edema (DME). The TxGNN model predicts its application can extend to the broader spectrum of **Diabetic Retinopathy (DR)**, which is currently supported by **25 clinical trials** and **20 literature reports**, including 4 completed Phase 3 pivotal trials.
 
 ## Quick Overview
 
 | Item | Content |
-|------|------|
-| Original Indication | 濕性年齡相關性黃斑部病變（nAMD）、糖尿病黃斑水腫（DME）（依文獻 PMID 35474059 "Faricimab: First Approval" 及 YOSEMITE/RHINE、TENAYA/LUCERNE 試驗登記資訊；台灣尚無核准適應症記錄） |
+|------|---------|
+| Original Indication | Wet age-related macular degeneration (nAMD), diabetic macular edema (DME) (per literature PMID 35474059 "Faricimab: First Approval" and YOSEMITE/RHINE, TENAYA/LUCERNE trial registration information; no approved indication recorded in Taiwan) |
 | Predicted New Indication | Diabetic Retinopathy |
 | TxGNN Prediction Score | 96.75% |
 | Evidence Level | L1 |
 | Taiwan Market Status | Not marketed |
-| Number of Authorizations（台灣） | 0 |
+| Number of Authorizations (Taiwan) | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Faricimab 為雙特異性單株抗體，同時中和 VEGF-A 與 Angiopoietin-2 兩條路徑，抑制視網膜血管新生與血管滲漏，經玻璃體內注射給藥。此為其已於 nAMD 與 DME 驗證之核心機轉。（原始 `original_moa` 欄位標記為 [Data Gap]，以上機轉描述依藥物已知公開資料補充，非資料庫內建欄位證據。）
+Faricimab is a bispecific monoclonal antibody that simultaneously neutralizes VEGF-A and Angiopoietin-2, inhibiting retinal neovascularization and vascular leakage via intravitreal injection. This is the core mechanism verified in nAMD and DME. (The original `original_moa` field is marked as [Data Gap]; the above mechanism description supplements from publicly known drug information, not database-native field evidence.)
 
-糖尿病視網膜病變（DR）與 DME 本質上屬同一疾病譜系——DME 是 DR 的黃斑部併發症，兩者共享「視網膜缺血驅動 VEGF/Ang-2 上調」的核心病理機轉。因此將適應症從 DME 延伸至整體 DR（含非增殖性與增殖性階段），屬於同一機轉在同一器官系統內的自然外推，而非全新機轉假說。
+Diabetic retinopathy (DR) and DME are essentially part of the same disease spectrum—DME is a macular complication of DR, and both share the core pathophysiology of "retinal ischemia driving VEGF/Ang-2 upregulation." Therefore, extending indication from DME to overall DR (including nonproliferative and proliferative stages) represents natural extrapolation of the same mechanism within the same organ system, not a novel mechanistic hypothesis.
 
-支持此延伸的訊號已具體化為臨床試驗：MAGIC 試驗（NCT05681884）專門針對非增殖性 DR（NPDR）之視網膜無灌流區設計 Phase 2 研究；NCT06790784 則以 Phase 3 規模比較 Faricimab+PRP 與傳統玻璃體切除術治療增殖性 DR（PDR）。這顯示產業界已將此假說推進至前瞻性臨床驗證階段，而非僅止於模型推論。
+Signals supporting this extension have materialized into clinical trials: the MAGIC trial (NCT05681884) is specifically designed as a Phase 2 study targeting nonperfusion areas in nonproliferative DR (NPDR); NCT06790784 compares Faricimab + PRP with conventional vitrectomy treating proliferative DR (PDR) at Phase 3 scale. This shows that the industry has advanced this hypothesis to prospective clinical validation rather than merely model inference.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03622593](https://clinicaltrials.gov/study/NCT03622593) | Phase 3 | Completed | 951 | RHINE：Faricimab vs Aflibercept 治療 DME，療效/安全性/PK 註冊試驗 |
-| [NCT03622580](https://clinicaltrials.gov/study/NCT03622580) | Phase 3 | Completed | 940 | YOSEMITE：與 RHINE 為雙生註冊試驗，DME 8 週給藥間隔 vs Aflibercept |
-| [NCT03823300](https://clinicaltrials.gov/study/NCT03823300) | Phase 3 | Completed | 658 | LUCERNE：nAMD 適應症關鍵試驗，構成核准基礎的同機轉證據 |
-| [NCT03823287](https://clinicaltrials.gov/study/NCT03823287) | Phase 3 | Completed | 671 | TENAYA：nAMD 關鍵試驗，與 LUCERNE 互為對照 |
-| [NCT05224102](https://clinicaltrials.gov/study/NCT05224102) | Phase 4 | Active, not recruiting | 218 | 上市後研究，評估未接受治療、代表性不足族群 DME 之治療反應 |
-| [NCT05681884](https://clinicaltrials.gov/study/NCT05681884) | Phase 2 | Active, not recruiting | 179 | MAGIC：專門針對非增殖性 DR（NPDR）視網膜無灌流區之隨機對照試驗 |
-| [NCT06790784](https://clinicaltrials.gov/study/NCT06790784) | Phase 3 | Recruiting | 426 | 比較 Faricimab+PRP 與玻璃體切除術+雷射治療增殖性 DR（PDR） |
-| [NCT04597918](https://clinicaltrials.gov/study/NCT04597918) | Phase 2B | Completed | 99 | ALTIMETER：DME 患者房水生物標記與多模式影像探索性研究 |
-| [NCT05476926](https://clinicaltrials.gov/study/NCT05476926) | N/A | Active, not recruiting | 6000 | VOYAGER：多國真實世界長期資料收集（涵蓋 nAMD/DME） |
-| [NCT06439576](https://clinicaltrials.gov/study/NCT06439576) | N/A | Recruiting | 1000 | Farseeing：中國真實世界研究，涵蓋 DME/RVO/nAMD 治療模式與安全性 |
+| [NCT03622593](https://clinicaltrials.gov/study/NCT03622593) | Phase 3 | Completed | 951 | RHINE: Faricimab vs Aflibercept in DME treatment; efficacy/safety/PK registration trial |
+| [NCT03622580](https://clinicaltrials.gov/study/NCT03622580) | Phase 3 | Completed | 940 | YOSEMITE: twin registration trial with RHINE; DME 8-week dosing interval vs Aflibercept |
+| [NCT03823300](https://clinicaltrials.gov/study/NCT03823300) | Phase 3 | Completed | 658 | LUCERNE: nAMD indication pivotal trial, same mechanism evidence forming approval basis |
+| [NCT03823287](https://clinicaltrials.gov/study/NCT03823287) | Phase 3 | Completed | 671 | TENAYA: nAMD pivotal trial, paired control with LUCERNE |
+| [NCT05224102](https://clinicaltrials.gov/study/NCT05224102) | Phase 4 | Active, not recruiting | 218 | Post-marketing study evaluating treatment response in untreated, underrepresented DME populations |
+| [NCT05681884](https://clinicaltrials.gov/study/NCT05681884) | Phase 2 | Active, not recruiting | 179 | MAGIC: randomized controlled trial specifically targeting nonperfusion areas in nonproliferative DR (NPDR) |
+| [NCT06790784](https://clinicaltrials.gov/study/NCT06790784) | Phase 3 | Recruiting | 426 | Comparison of Faricimab + PRP vs vitrectomy + laser treatment for proliferative DR (PDR) |
+| [NCT04597918](https://clinicaltrials.gov/study/NCT04597918) | Phase 2B | Completed | 99 | ALTIMETER: exploratory study of aqueous humor biomarkers and multimodal imaging in DME patients |
+| [NCT05476926](https://clinicaltrials.gov/study/NCT05476926) | N/A | Active, not recruiting | 6000 | VOYAGER: multiregional real-world long-term data collection (covering nAMD/DME) |
+| [NCT06439576](https://clinicaltrials.gov/study/NCT06439576) | N/A | Recruiting | 1000 | Farseeing: China real-world study covering DME/RVO/nAMD treatment patterns and safety |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38158159](https://pubmed.ncbi.nlm.nih.gov/38158159/) | 2024 | RCT | Ophthalmology | YOSEMITE/RHINE 兩年期結果：Treat-and-Extend 給藥下之療效與安全性 |
-| [36246184](https://pubmed.ncbi.nlm.nih.gov/36246184/) | 2022 | RCT | Ophthalmology Science | YOSEMITE/RHINE 研究設計與理論基礎 |
-| [38852921](https://pubmed.ncbi.nlm.nih.gov/38852921/) | 2024 | RCT | Ophthalmology | 基線視力較差亞群中 Faricimab vs Aflibercept 療效分析 |
-| [36012690](https://pubmed.ncbi.nlm.nih.gov/36012690/) | 2022 | RCT | Int J Mol Sci | Aflibercept 與 Faricimab 治療 nAMD/DME 之比較回顧 |
-| [35085503](https://pubmed.ncbi.nlm.nih.gov/35085503/) | 2022 | Cohort | Lancet | YOSEMITE/RHINE：每 16 週延展給藥之療效、持久性與安全性 |
-| [37751021](https://pubmed.ncbi.nlm.nih.gov/37751021/) | 2023 | Review | Advances in Therapy | DME 治療之系統性文獻回顧與網絡統合分析 |
-| [35474059](https://pubmed.ncbi.nlm.nih.gov/35474059/) | 2022 | (pending) | Drugs | Faricimab 首次核准（nAMD、DME），確立原始適應症與機轉 |
-| [30905643](https://pubmed.ncbi.nlm.nih.gov/30905643/) | 2019 | Preclinical | Ophthalmology | BOULEVARD Phase 2：Faricimab vs Ranibizumab 治療 DME |
-| [38847896](https://pubmed.ncbi.nlm.nih.gov/38847896/) | 2024 | Review | Graefe's Archive | Faricimab 由臨床前研究至 Phase 3 結果之整體回顧 |
-| [35818801](https://pubmed.ncbi.nlm.nih.gov/35818801/) | 2022 | Review | Expert Opin Biol Ther | 玻璃體內抗 VEGF 治療糖尿病視網膜病變之療效與安全性回顧 |
+| [38158159](https://pubmed.ncbi.nlm.nih.gov/38158159/) | 2024 | RCT | Ophthalmology | YOSEMITE/RHINE two-year outcomes: efficacy and safety under treat-and-extend dosing |
+| [36246184](https://pubmed.ncbi.nlm.nih.gov/36246184/) | 2022 | RCT | Ophthalmology Science | YOSEMITE/RHINE study design and rationale |
+| [38852921](https://pubmed.ncbi.nlm.nih.gov/38852921/) | 2024 | RCT | Ophthalmology | Efficacy analysis of Faricimab vs Aflibercept in subgroup with worse baseline vision |
+| [36012690](https://pubmed.ncbi.nlm.nih.gov/36012690/) | 2022 | RCT | Int J Mol Sci | Comparative review of Aflibercept and Faricimab in nAMD/DME treatment |
+| [35085503](https://pubmed.ncbi.nlm.nih.gov/35085503/) | 2022 | Cohort | Lancet | YOSEMITE/RHINE: efficacy, durability, and safety with 16-week extended dosing |
+| [37751021](https://pubmed.ncbi.nlm.nih.gov/37751021/) | 2023 | Review | Advances in Therapy | Systematic literature review and network meta-analysis of DME treatment |
+| [35474059](https://pubmed.ncbi.nlm.nih.gov/35474059/) | 2022 | Review | Drugs | Faricimab first approval (nAMD, DME), establishing original indications and mechanism |
+| [30905643](https://pubmed.ncbi.nlm.nih.gov/30905643/) | 2019 | Preclinical | Ophthalmology | BOULEVARD Phase 2: Faricimab vs Ranibizumab in DME treatment |
+| [38847896](https://pubmed.ncbi.nlm.nih.gov/38847896/) | 2024 | Review | Graefe's Archive | Comprehensive review of Faricimab from preclinical studies to Phase 3 outcomes |
+| [35818801](https://pubmed.ncbi.nlm.nih.gov/35818801/) | 2022 | Review | Expert Opin Biol Ther | Review of efficacy and safety of intravitreal anti-VEGF therapy in diabetic retinopathy |
 
 ## Taiwan Market Information
 
-台灣目前無 Faricimab 上市許可證記錄（`market_status`: Not marketed，`total_licenses`: 0）。
+Taiwan currently has no marketing approval records for Faricimab (`market_status`: Not marketed, `total_licenses`: 0).
 
 ## Safety Considerations
 
@@ -100,13 +100,14 @@ Please refer to the SmPC for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Faricimab 在同一血管新生機轉（VEGF-A/Ang-2 雙重抑制）下已有 4 項完成的第三期 RCT（YOSEMITE、RHINE、TENAYA、LUCERNE，符合 L1 標準），且已有 Phase 2（MAGIC，NPDR）與 Phase 3（NCT06790784，PDR）試驗專門針對更廣泛的糖尿病視網膜病變族群，機轉外推合理、證據鏈完整，但尚未在台灣取得上市許可，且缺乏台灣仿單安全性資料。
+Faricimab has already completed 4 Phase 3 RCTs (YOSEMITE, RHINE, TENAYA, LUCERNE, meeting L1 standard) under the same neovascularization mechanism (dual VEGF-A/Ang-2 inhibition), and Phase 2 (MAGIC, NPDR) and Phase 3 (NCT06790784, PDR) trials are already specifically targeting broader diabetic retinopathy populations. The mechanistic extrapolation is sound and the evidence chain is complete, but it has not yet obtained Taiwan market approval, and Taiwan prescribing information safety data are lacking.
 
 **To proceed, the following is needed:**
-- 補齊 TFDA 仿單警語、禁忌症與藥物交互作用資料（DG001，Blocking）
-- 補齊正式 MOA/DrugBank 機轉資料以完成機轉關聯性分析（DG002，High）
-- 追蹤 MAGIC（NCT05681884）與 NCT06790784 之最終療效讀出，確認 DR（含 NPDR/PDR）適應症延伸之直接證據
-- 評估台灣藥證申請/擴增適應症之法規途徑與時程
+- Complete TFDA prescribing information warnings, contraindications, and drug-drug interactions data (DG001, Blocking)
+- Complete formal MOA/DrugBank mechanism data to finalize mechanistic association analysis (DG002, High)
+- Track final efficacy readouts from MAGIC (NCT05681884) and NCT06790784 to confirm direct evidence of DR (including NPDR/PDR) indication extension
+- Assess regulatory pathway and timeline for Taiwan drug license application/indication expansion
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,35 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Abiraterone Acetate: Evidence Pack 不完整 — 無法產生重定向預測報告
+# Abiraterone Acetate: Evidence Pack Incomplete — Unable to Generate Repurposing Prediction Report
 
 ## One-Sentence Summary
 
-Abiraterone acetate 是一種用於前列腺癌治療的雄激素生合成抑制劑，在多個國家已獲核准上市。
-然而本 Evidence Pack 缺乏原始適應症記錄、TxGNN 預測結果及安全性資料，**目前無法進行完整的老藥新用評估**。
-台灣藥品資料庫亦顯示本藥品尚未在台上市（0 份許可證）。
+Abiraterone acetate is an androgen biosynthesis inhibitor used for prostate cancer treatment, approved and marketed in multiple countries.
+However, this Evidence Pack lacks records of original indications, TxGNN prediction results, and safety data, **and a complete drug repurposing assessment cannot currently be performed**.
+Taiwan's drug database also shows that this drug has not yet been marketed in Taiwan (0 licenses).
 
 ---
 
 ## Quick Overview
 
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 本 Evidence Pack 無資料 |
-| 預測新適應症 | 無（TxGNN 預測結果為空） |
-| TxGNN 預測分數 | N/A |
-| 證據等級 | N/A |
-| 台灣上市狀態 | ✗ Not marketed |
-| 許可證數量 | 0 |
-| 建議決策 | **Hold** |
+| Item | Content |
+|------|---------|
+| Original indication | No data in this Evidence Pack |
+| Predicted new indications | None (TxGNN prediction result is empty) |
+| TxGNN prediction score | N/A |
+| Evidence level | N/A |
+| Taiwan market status | ✗ Not marketed |
+| Number of licenses | 0 |
+| Recommended decision | **Hold** |
 
 ---
 
-## 台灣市場資訊
+## Taiwan Market Information
 
-本 Evidence Pack 在台灣藥品資料庫中查無任何上市許可紀錄（`total_licenses = 0`）。
+This Evidence Pack has no records of any market approval in Taiwan's drug database (`total_licenses = 0`).
 
-> **注意**：DrugBank 查詢（`query_log` ID 2）回傳成功（`result_count = 1`），但 `drugbank_id` 欄位為 `null`，顯示資料尚未正確整合至本 Evidence Pack。建議重新執行 DrugBank 映射流程以取得完整藥物資訊。
+> **Note**: DrugBank query (`query_log` ID 2) returned successfully (`result_count = 1`), but the `drugbank_id` field is `null`, indicating that data has not been correctly integrated into this Evidence Pack. It is recommended to re-execute the DrugBank mapping process to obtain complete drug information.
 
 ---
 
@@ -72,15 +72,16 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-本 Evidence Pack 在三個關鍵維度均存在資料缺口：TxGNN 預測結果為空、原始適應症與 MOA 均未取得、安全性資料全數缺失，無法支撐任何重定向評估結論。
+This Evidence Pack has data gaps in three critical dimensions: TxGNN prediction results are empty, original indications and MOA have not been obtained, and all safety data is missing, making it unable to support any repurposing assessment conclusion.
 
 **To proceed, the following is needed:**
 
-- **\[Blocking\]** 從 DrugBank 補全 `drugbank_id`、MOA 及原始適應症，DrugBank 查詢已回傳 1 筆結果，需解析並寫入 Evidence Pack
-- **\[Blocking\]** 執行 TxGNN 預測流程，取得 `predicted_indications` 列表；目前預測陣列為空，無法進行任何重定向分析
-- **\[Blocking\]** 下載並解析台灣 TFDA 仿單 PDF，取得警語、禁忌及藥物交互作用資料
-- **\[High\]** 確認台灣上市狀態；abiraterone acetate 在 FDA/EMA 等國際市場已有上市紀錄，台灣Not marketed狀態需進一步核實
-- 完成上述資料補充後，重新產出 Evidence Pack v5 並啟動正式評估流程
+- **\[Blocking\]** Complete `drugbank_id`, MOA, and original indications from DrugBank; the DrugBank query has returned 1 result, which needs to be parsed and written to the Evidence Pack
+- **\[Blocking\]** Execute the TxGNN prediction process to obtain the `predicted_indications` list; the prediction array is currently empty, making any repurposing analysis impossible
+- **\[Blocking\]** Download and parse Taiwan TFDA package insert PDF to obtain warnings, contraindications, and drug interaction data
+- **\[High\]** Confirm Taiwan market status; abiraterone acetate has market records in international markets such as FDA/EMA, and the Taiwan Not marketed status requires further verification
+- After completing the above data supplementation, regenerate Evidence Pack v5 and initiate the formal assessment process
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

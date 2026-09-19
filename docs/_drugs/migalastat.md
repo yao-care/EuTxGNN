@@ -29,76 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Migalastat:從 Fabry 氏症到原發性肝門靜脈血栓形成
+# Migalastat: From Fabry Disease to Primitive Portal Vein Thrombosis
 
-## 一句話摘要
+## One-sentence summary
 
-Migalastat 原核准用於治療 Fabry 氏症（一種 X 染色體遺傳性溶酶體貯積症），作用機轉為藥理伴侶（pharmacological chaperone），可穩定突變型 α-galactosidase A 酵素。
-TxGNN 模型預測其可能對**原發性肝門靜脈血栓形成（primitive portal vein thrombosis）**有效，
-但目前**無任何臨床試驗**與**無任何文獻**支持此方向，證據等級為 L5（純模型預測），且證據包本身的機轉分析已明確指出兩者分子機轉無直接關聯。
-
----
-
-## 快速總覽
-
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | Fabry 氏症（依證據包機轉敘述推斷，官方 MOA 欄位尚待正式確認） |
-| 預測新適應症 | 原發性肝門靜脈血栓形成 |
-| TxGNN 預測分數 | 98.85% |
-| 證據等級 | L5（模型預測，無臨床/文獻證據） |
-| 台灣市場狀態 | Not marketed |
-| 許可證數量 | 0 |
-| 建議決策 | Hold |
+Migalastat was originally approved for treatment of Fabry disease (an X-linked hereditary lysosomal storage disorder), with a mechanism of action as a pharmacological chaperone that can stabilize mutant α-galactosidase A enzyme.
+The TxGNN model predicts it may be effective for **primitive portal vein thrombosis**,
+but there are currently **no clinical trials** and **no literature** supporting this direction, with evidence level L5 (pure model prediction), and the evidence package's own mechanism analysis has clearly indicated that there is no direct molecular mechanism connection between the two.
 
 ---
 
-## 為何此預測有待商榷？
+## Quick overview
 
-根據證據包中的機轉敘述，Migalastat 是一種藥理伴侶，特異性結合並穩定突變型 α-galactosidase A 酵素，藉此恢復酵素活性，此為其治療 Fabry 氏症的核心機轉。不過，藥物本身的正式作用機轉（MOA）欄位目前為空缺，屬於本次評估的資料缺口之一（DG002），建議後續透過 DrugBank API 補齊。
-
-原發性肝門靜脈血栓形成主要機轉為凝血功能異常或局部血流障礙，與 α-Gal A 酵素穩定作用並無已知的分子路徑重疊。證據包內附的機轉關聯分析（repurposing_rationale）也明確指出：「TxGNN 高分可能反映知識圖譜中罕見病聚類特徵而非機轉對應」。
-
-值得注意的是，本次列出的前 10 名候選適應症（原發性肝門靜脈血栓形成、肝門脈硬化、肝肺症候群、家族性非肝硬化性門脈高壓、特發性銅相關肝硬化、肝性紫質症、粒線體氧化磷酸化障礙、酪胺酸代謝障礙、Pierre Robin 序列症、肝結節性再生性增生）**每一項的機轉關聯性都被證據包本身標註為「薄弱」或「無直接分子關聯」**。這強烈提示這批預測是知識圖譜中「罕見病/代謝疾病」聚類效應所致，而非真正具有藥理學基礎的老藥新用假說，需以審慎態度看待。
-
----
-
-## 臨床試驗證據
-
-目前無相關臨床試驗登記
+| Item | Content |
+|------|---------|
+| Original indication | Fabry disease (inferred from evidence package mechanism description; official MOA field awaiting formal confirmation) |
+| Predicted new indication | Primitive portal vein thrombosis |
+| TxGNN prediction score | 98.85% |
+| Evidence level | L5 (model prediction, no clinical/literature evidence) |
+| Taiwan market status | Not marketed |
+| Number of approvals | 0 |
+| Recommended decision | Hold |
 
 ---
 
-## 文獻證據
+## Why is this prediction questionable?
 
-目前無相關文獻資料
+According to the mechanism description in the evidence package, migalastat is a pharmacological chaperone that specifically binds and stabilizes mutant α-galactosidase A enzyme, thereby restoring enzyme activity, which is the core mechanism of its therapeutic action in Fabry disease. However, the official mechanism of action (MOA) field of the drug itself is currently blank, constituting one of the data gaps in this assessment (DG002), and it is recommended that this be completed via DrugBank API.
 
----
+Primitive portal vein thrombosis's primary mechanism involves coagulation dysfunction or local blood flow obstruction, with no known molecular pathway overlap with α-galactosidase A enzyme stabilization. The mechanism association analysis within the evidence package (repurposing_rationale) also clearly indicates: "High TxGNN scores may reflect rare disease clustering characteristics in the knowledge graph rather than mechanism correspondence."
 
-## 台灣市場資訊
-
-此藥物於台灣**尚未取得任何許可證**（0 筆核准紀錄），市場狀態為「Not marketed」。因此無法提供國內核准適應症、劑型或許可證字號等資訊。
+Notably, each of the top 10 candidate indications listed in this assessment (primitive portal vein thrombosis, hepatic portal sclerosis, hepatopulmonary syndrome, familial non-cirrhotic portal hypertension, idiopathic copper-related cirrhosis, hepatic porphyria, mitochondrial oxidative phosphorylation disorder, tyrosine metabolism disorder, Pierre Robin sequence, hepatic nodular regenerative hyperplasia) has its mechanism association annotated by the evidence package itself as "weak" or "no direct molecular association." This strongly suggests that this batch of predictions results from rare disease/metabolic disorder clustering effects in the knowledge graph, rather than genuinely pharmacologically grounded drug repurposing hypotheses, and should be viewed with caution.
 
 ---
 
-## 安全性考量
+## Clinical trial evidence
 
-請參閱原廠 SmPC（歐盟/美國仿單）以獲取安全性資訊。由於本藥物在台灣尚Not marketed，且 EMA package insert warnings/contraindications資料為阻斷性資料缺口（DG001），目前無法完成 S1 安全性初評。
+No relevant clinical trials are currently registered
 
 ---
 
-## 結論與下一步
+## Literature evidence
 
-**決策：Hold**
+No relevant literature is currently available
 
-**理由：**
-本候選僅有 TxGNN 模型分數支持（L5，無臨床試驗、無文獻），且證據包內附的機轉分析已自行標註「機轉關聯薄弱／無直接關聯」；同時藥物在台Not marketed、TFDA 安全性資料為阻斷性缺口，目前不具備進入下一階段評估的條件。
+---
 
-**若要繼續推進，需要：**
-- 補齊 TFDA 仿單警語與禁忌資料（DG001，阻斷性缺口，需下載並解析 TFDA 仿單 PDF）
-- 透過 DrugBank API 查證正式作用機轉（MOA）資料（DG002）
-- 針對排名較前的候選適應症（如原發性肝門靜脈血栓形成）進行獨立文獻檢索，確認是否有未被收錄的機轉假說或個案報告
-- 若無法補足機轉合理性與安全性資料，建議暫緩此批候選，優先處理其他證據等級更高（L1-L3）的候選藥物
+## Taiwan market information
+
+This drug has **not yet obtained any approval** in Taiwan (0 approved records); its market status is "Not marketed." Therefore, domestic approved indications, dosage forms, or approval numbers cannot be provided.
+
+---
+
+## Safety considerations
+
+Please refer to the originator's SmPC (EU/US package insert) for safety information. Since this drug is Not marketed in Taiwan and EMA package insert warnings/contraindications data is a blocking data gap (DG001), S1 safety initial assessment cannot currently be completed.
+
+---
+
+## Conclusion and next steps
+
+**Decision: Hold**
+
+**Rationale:**
+
+This candidate has only TxGNN model score support (L5, no clinical trials, no literature), and the mechanism analysis within the evidence package has self-annotated "weak mechanism association / no direct association"; meanwhile, the drug is Not marketed in Taiwan and TFDA safety data represents a blocking data gap, so it currently does not meet conditions for proceeding to the next stage of assessment.
+
+**To proceed further, the following are required:**
+- Complete TFDA package insert warnings and contraindications data (DG001, blocking gap, requiring download and parsing of TFDA package insert PDF)
+- Verify official mechanism of action (MOA) data via DrugBank API (DG002)
+- Conduct independent literature searches for higher-ranked candidate indications (such as primitive portal vein thrombosis) to confirm whether there are mechanism hypotheses or case reports not yet captured
+- If mechanism rationale and safety data cannot be adequately supplemented, it is recommended to defer this batch of candidates and prioritize candidate drugs with higher evidence levels (L1-L3)
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
