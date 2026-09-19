@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’ - The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+
+2026-09-19 <span class="news-indication-tag">arthritis</span>
+
+Source: [The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+
+---
 
 ### [Sara Marín, doctora, alerta sobre el ibuprofeno: "Cuidado" - Onda Vasca](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWlRdXVaaGI3VU1NY0dJZVZyaDFWdTFVVU9lZEdBbHUySHVsUm42TW9xUE5kMzUzNV82LUM2eHlMSDZDR0NBdG1IUlBadFU2OERKbk9nRkttR3NURDdBc3dUVVdmTzR5UWhaSkxCTXNlOXpFdnUyTHE2WGpQamV0YjZLS2tyVkXSAYwBQVVfeXFMT3BmRndmbXA4WFgzS2NSZDIzMlRFNkpYbnZqaEZsRldHSnZPV2ZLN0EzdnFwVWIzaktnYXo1OEc5TEhsS19EYVNZWXowQXM2eDZaS2ZCVmxubEhkRl9EakJHcVhyNnl2d2lDZzA4MFlDclAweHJSU1lkb1JyTWdlWFpQeG85T3JlYXVNR0k?oc=5)
 

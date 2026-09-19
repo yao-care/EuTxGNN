@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="What news is there about Peginterferon Alfa-2A?">
-<strong>Peginterferon Alfa-2A</strong> currently has <strong>21 news articles</strong>, with 20 predicted indications.
+<strong>Peginterferon Alfa-2A</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Peginterferon Alfa-2A with t
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (16)
+
+### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+
+2026-09-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+
+---
 
 ### [Alzheimer-Forschung: Warum die 3D-Struktur des Genoms alles ändern könnte](https://news.google.com/rss/articles/CBMivgFBVV95cUxQczFuTWdKSEg0dzhvUjlqQzY5elVKWXNmZkNFU0xuY0F1cDlTQVpvN1BQUUZSd2x5bU9TMVMwa0VKR0toRTBNQ1FzWDN6S2Q2dW1PZnNJNlUyX04td2poY3FQMGduRmNOaWZPajhHOVplR0NPZTFtX3hfc0xqVXpRaHFzZWR1ZlZBWVJGMXRJckRNNk11MjVvanZIQmE4cXdUdmFmSVFkODdsLVhfM1djd0J6MGI3WGQ0R0ttUVF3?oc=5)
 
@@ -62,11 +70,11 @@ Source: [Telepolis](https://news.google.com/rss/articles/CBMivgFBVV95cUxQczFuTWd
 
 ---
 
-### [Doctors told to warn women of depo jab brain tumour risk after dozens of victims speak out - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjFsaVhWakpaSmlURmZpQkRuR3ZyYW9SZlNpaHNIcHNrc2hwNXYwcWEtbEloQ0VJYzIyTFBlRUlGQ1NJQnJLWm80V1RVcmlQOG14Qy1kbFVQSmY0emhkVC1JRFVza1dBQ3FNWEt3eTdQTGNjcTh6aXB0cTJfOGZHeGJEa0VYZnE1R1FNRE9PVdIBlAFBVV95cUxNUUN6MmY2X1BzM1J5Y3R4UHdtWkFaeUxvZzhxdkdTVm54TXU5TDJHU0drT0Q3Q041Mk1IRkJjM3c5a3NIRFhOZXlxcVRfWWN3Z1JHTkJPRkwtOWYzb3J1Q29lU0dPc1RPTUNsZnViZ0o5SlhJczZ6a0EwZVlqaXR3dDRpZVJpd1B2NlAwb01fWjVYWmhw?oc=5)
+### [Doctors told to warn women of depo jab brain tumour risk after dozens of victims speak out](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjFsaVhWakpaSmlURmZpQkRuR3ZyYW9SZlNpaHNIcHNrc2hwNXYwcWEtbEloQ0VJYzIyTFBlRUlGQ1NJQnJLWm80V1RVcmlQOG14Qy1kbFVQSmY0emhkVC1JRFVza1dBQ3FNWEt3eTdQTGNjcTh6aXB0cTJfOGZHeGJEa0VYZnE1R1FNRE9PVdIBlAFBVV95cUxNUUN6MmY2X1BzM1J5Y3R4UHdtWkFaeUxvZzhxdkdTVm54TXU5TDJHU0drT0Q3Q041Mk1IRkJjM3c5a3NIRFhOZXlxcVRfWWN3Z1JHTkJPRkwtOWYzb3J1Q29lU0dPc1RPTUNsZnViZ0o5SlhJczZ6a0EwZVlqaXR3dDRpZVJpd1B2NlAwb01fWjVYWmhw?oc=5)
 
 2026-09-19 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjFsaVhWakpaSmlURmZpQkRuR3ZyYW9SZlNpaHNIcHNrc2hwNXYwcWEtbEloQ0VJYzIyTFBlRUlGQ1NJQnJLWm80V1RVcmlQOG14Qy1kbFVQSmY0emhkVC1JRFVza1dBQ3FNWEt3eTdQTGNjcTh6aXB0cTJfOGZHeGJEa0VYZnE1R1FNRE9PVdIBlAFBVV95cUxNUUN6MmY2X1BzM1J5Y3R4UHdtWkFaeUxvZzhxdkdTVm54TXU5TDJHU0drT0Q3Q041Mk1IRkJjM3c5a3NIRFhOZXlxcVRfWWN3Z1JHTkJPRkwtOWYzb3J1Q29lU0dPc1RPTUNsZnViZ0o5SlhJczZ6a0EwZVlqaXR3dDRpZVJpd1B2NlAwb01fWjVYWmhw?oc=5)
+Source: [dailyrecord.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjFsaVhWakpaSmlURmZpQkRuR3ZyYW9SZlNpaHNIcHNrc2hwNXYwcWEtbEloQ0VJYzIyTFBlRUlGQ1NJQnJLWm80V1RVcmlQOG14Qy1kbFVQSmY0emhkVC1JRFVza1dBQ3FNWEt3eTdQTGNjcTh6aXB0cTJfOGZHeGJEa0VYZnE1R1FNRE9PVdIBlAFBVV95cUxNUUN6MmY2X1BzM1J5Y3R4UHdtWkFaeUxvZzhxdkdTVm54TXU5TDJHU0drT0Q3Q041Mk1IRkJjM3c5a3NIRFhOZXlxcVRfWWN3Z1JHTkJPRkwtOWYzb3J1Q29lU0dPc1RPTUNsZnViZ0o5SlhJczZ6a0EwZVlqaXR3dDRpZVJpd1B2NlAwb01fWjVYWmhw?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ Source: [Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjFs
 2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
-
----
-
-### [El ébola deja más de 3.600 muertos en RDC mientras MSF alerta de su expansión a nuevas zonas - Fibwi Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdnBTVmRZRFJKbzUtaFFaenVPTWM4WGxsVmxjQzFkcDZHZmlDT3ZnbkRIbVlJaUNpZjg0MEFlTHhsY3pLbUNmSmlNZmMtVlFPMEo0N0U0M3VtZmFFd25mY21LNzl6bkk5TGpwdDNVVkZGYV9LRGZnTlZnYU1SQ1FfTGUxNllTWkZqWjd3dzhweERjcjd6aVp2dkVnN05FQ1cxUzZ4Y3BXVVlyX3B2YXUzQVBOajhmV2VGUjNlTkdvR1NqM3VDamN2ZV93dVV5RjAzam93ZDBFNkNzMng2V3V1aWV4NnpQUdIB6wFBVV95cUxPYlBaNmR4TjVsRzU2cTFkX21yWXp4aEE3QVVzQ3REc1V2QkYyMHVqcDB1c2VTcGhXcGgwdWZKUTdNZGplZmQ2OW93TGs3VnY1dTk3eTV0cEZabl82aUNKMEg3TkRSRXBScExZR0p0cXJEQ2dZeFl0WkJiOWZlblBpQW1KOU16RzBsTnlwUW12WW9fT1ZTclBxeUpJTWJmSzFRcjVPeWt3UzYxQzBrbExHNFZfSi0yZC1XZHZ4WW1PdU40Szgtby1kNjlwWEppYVo4SVVQa3ZHMGZjSUp0WHdQU01lNnZDYTU3YUNZ?oc=5)
-
-2026-09-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Fibwi Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdnBTVmRZRFJKbzUtaFFaenVPTWM4WGxsVmxjQzFkcDZHZmlDT3ZnbkRIbVlJaUNpZjg0MEFlTHhsY3pLbUNmSmlNZmMtVlFPMEo0N0U0M3VtZmFFd25mY21LNzl6bkk5TGpwdDNVVkZGYV9LRGZnTlZnYU1SQ1FfTGUxNllTWkZqWjd3dzhweERjcjd6aVp2dkVnN05FQ1cxUzZ4Y3BXVVlyX3B2YXUzQVBOajhmV2VGUjNlTkdvR1NqM3VDamN2ZV93dVV5RjAzam93ZDBFNkNzMng2V3V1aWV4NnpQUdIB6wFBVV95cUxPYlBaNmR4TjVsRzU2cTFkX21yWXp4aEE3QVVzQ3REc1V2QkYyMHVqcDB1c2VTcGhXcGgwdWZKUTdNZGplZmQ2OW93TGs3VnY1dTk3eTV0cEZabl82aUNKMEg3TkRSRXBScExZR0p0cXJEQ2dZeFl0WkJiOWZlblBpQW1KOU16RzBsTnlwUW12WW9fT1ZTclBxeUpJTWJmSzFRcjVPeWt3UzYxQzBrbExHNFZfSi0yZC1XZHZ4WW1PdU40Szgtby1kNjlwWEppYVo4SVVQa3ZHMGZjSUp0WHdQU01lNnZDYTU3YUNZ?oc=5)
 
 ---
 
@@ -102,14 +102,6 @@ Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cU
 
 ---
 
-### [Vitamin K2: Verkalkung der Gefäße um ein Viertel verlangsamt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVl0Qy1MdXN3dGkxc0x3ZV9JS1hfUXkyZ050cUEtVmZRZnZDc0otMnNnYlU1UmRHUkpJTDRnWElmcXFCOEF3WEdqeENQSGFuVFBCZVNseUNiOVVoMXFyS1NOcjdqQ3VqWGtHdDRubzA3eWZ0N2N6RE5Ra21VUHRwSjhENmNvcDZNb1JORkc5UHpDdEVQTEhJaGF6TU9WMmxoeEhjVkZIX3h6aVgyRzNr?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVl0Qy1MdXN3dGkxc0x3ZV9JS1hfUXkyZ050cUEtVmZRZnZDc0otMnNnYlU1UmRHUkpJTDRnWElmcXFCOEF3WEdqeENQSGFuVFBCZVNseUNiOVVoMXFyS1NOcjdqQ3VqWGtHdDRubzA3eWZ0N2N6RE5Ra21VUHRwSjhENmNvcDZNb1JORkc5UHpDdEVQTEhJaGF6TU9WMmxoeEhjVkZIX3h6aVgyRzNr?oc=5)
-
----
-
 ### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show - The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 2026-09-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
@@ -118,11 +110,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3U
 
 ---
 
-### [Vieillissement : « Alzheimer va devenir une maladie chronique » - Les Echos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaW1aeW91dF9MX1pEdGZPTU9CRERscnNMNzJiUzM0MVdVMHlKZ0RwYmJyTjhKSXdJWjVNOTM2M05HY2sxWGpFTWZ1elYwU19KcDQyTW9ld0RwX1FidVQ4YmtMVVdlVk9PZnlvRTIwSnJrTTlzSjBaMnVOeXVzWUxjME90WFQ2OHlveF9RUG5wM0xhV00yRWlUUUcyQ2hFaUlhWWVJM2Zn?oc=5)
+### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
-2026-09-18 <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
-Source: [Les Echos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaW1aeW91dF9MX1pEdGZPTU9CRERscnNMNzJiUzM0MVdVMHlKZ0RwYmJyTjhKSXdJWjVNOTM2M05HY2sxWGpFTWZ1elYwU19KcDQyTW9ld0RwX1FidVQ4YmtMVVdlVk9PZnlvRTIwSnJrTTlzSjBaMnVOeXVzWUxjME90WFQ2OHlveF9RUG5wM0xhV00yRWlUUUcyQ2hFaUlhWWVJM2Zn?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
 ---
 
@@ -138,7 +130,7 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVds
 
 2026-09-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3VVhiVXREZ3p1a1pCVEtiZkhENFFvMVo4Mm9hbWhiNS03WEV4dTdwVHpVM3k3cG9pYlVibGhHY3JoeVJpUGpKSjVPOUpqSzJiWTlHdmM0QVpRXy1YRlQ2VGdoY3VzVUd0ZDV3ZVNCRjdpRkVhV3FuM2VOQXBwcTVzTDdGOHo1TnNka2ttejJIa0hwa2tyMU1QZkZxZ2tSTWdTeGFSdEFiSXItbzhlYnZmUjF5MlUtbDU3OXEzNTVnTktnanYyV1BudDNxTkZBZG5pb25MWWFaZk1MeU5xdWxSbDRrUDcteGZlbjBFNkhmR0Nt?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3VVhiVXREZ3p1a1pCVEtiZkhENFFvMVo4Mm9hbWhiNS03WEV4dTdwVHpVM3k3cG9pYlVibGhHY3JoeVJpUGpKSjVPOUpqSzJiWTlHdmM0QVpRXy1YRlQ2VGdoY3VzVUd0ZDV3ZVNCRjdpRkVhV3FuM2VOQXBwcTVzTDdGOHo1TnNka2ttejJIa0hwa2tyMU1QZkZxZ2tSTWdTeGFSdEFiSXItbzhlYnZmUjF5MlUtbDU3OXEzNTVnTktnanYyV1BudDNxTkZBZG5pb25MWWFaZk1MeU5xdWxSbDRrUDcteGZlbjBFNkhmR0Nt?oc=5)
 
 ---
 
@@ -150,35 +142,11 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE
 
 ---
 
-### [Ebola avanza in Congo. E Kinshasa si prepara: la vera difesa comincia prima del primo caso](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5)
-
----
-
-### [GLP-1-Agonisten: Neue Daten zeigen stabiles Sicherheitsprofil bei älteren Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkpnOFVVTWFkQmg4SFNaQ2RjWEE3TDZKUlBoT3BUaE9nOTdIMm81ZnlYYTMwWjFhTGZUcGlBNWZmOEVOT1ZCa1l0WEV3OTVYVUJZb1ZFdU1mVmYwRlNDV0k4eWVWU0dvNkR5LXM5STNyNkY0c05XeENPczhhVzhvbkdvWC1FOGsyd2U4VVFmeHdna2w1ekNpVWVvTU9pM3VfZnp3T2F0TEZhTnYzWFREQ1VkRkZMZ25YanhQQzN5NA?oc=5)
+### [Adipositas: Semaglutid ohne erhöhte Risiken bei gebrechlichen Menschen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
 
 2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkpnOFVVTWFkQmg4SFNaQ2RjWEE3TDZKUlBoT3BUaE9nOTdIMm81ZnlYYTMwWjFhTGZUcGlBNWZmOEVOT1ZCa1l0WEV3OTVYVUJZb1ZFdU1mVmYwRlNDV0k4eWVWU0dvNkR5LXM5STNyNkY0c05XeENPczhhVzhvbkdvWC1FOGsyd2U4VVFmeHdna2w1ekNpVWVvTU9pM3VfZnp3T2F0TEZhTnYzWFREQ1VkRkZMZ25YanhQQzN5NA?oc=5)
-
----
-
-### [Testosterone scripts for women rise, along with denials and delays](https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn?oc=5)
-
----
-
-### [Sclerosi multipla, Epstein-Barr si “risveglia” prima delle ricadute? Segnali fino a 90 giorni prima](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
-
-2026-09-17 <span class="news-indication-tag">sclerosi multipla</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
 
 ---
 
@@ -187,14 +155,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxT
 2026-09-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
-
----
-
-### [A parasitic bug that eats human skin cells is thriving in the UK right now](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnR0VGtwRzQxY211bUkxXzRFaVF3cll3YXIwSXZVT1hGUm01aS1hZ0RNb2U5TklxV211dE10eGJrRjhrODBncmxTQXZqc3VYTkVPa1VPYW12Z2FvQnV0TDZSUkxUdTQ5TWQyY1l0bUlUY2hHS2xPNEJ4VHU1TF9BOV96T2JDblZEMV9BM0hZSzk5bGxrZ2lhVDZOdGxfeEtoMUE?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span>
-
-Source: [Metro.co.uk](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnR0VGtwRzQxY211bUkxXzRFaVF3cll3YXIwSXZVT1hGUm01aS1hZ0RNb2U5TklxV211dE10eGJrRjhrODBncmxTQXZqc3VYTkVPa1VPYW12Z2FvQnV0TDZSUkxUdTQ5TWQyY1l0bUlUY2hHS2xPNEJ4VHU1TF9BOV96T2JDblZEMV9BM0hZSzk5bGxrZ2lhVDZOdGxfeEtoMUE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Abiraterone Acetate?">
-<strong>Abiraterone Acetate</strong> currently has <strong>10 news articles</strong>, with 0 predicted indications.
+<strong>Abiraterone Acetate</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,21 @@ This page combines the AI-predicted indications for Abiraterone Acetate with the
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
-### [Ictus, aumentano i casi nella fascia 20-54 anni: tra le cause ipertensione, diabete e abuso di sostanze](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
+### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’ - The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
-2026-09-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+2026-09-19 <span class="news-indication-tag">arthritis</span>
 
-Source: [corriere.it](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
+Source: [The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 ---
 
-### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+### [Ictus, aumentano i casi nella fascia 20-54 anni: tra le cause ipertensione, diabete e abuso di sostanze - Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
 
-2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-09-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
-Source: [scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
 
 ---
 
@@ -56,17 +56,17 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV9
 
 ---
 
-### [Bluthochdruck: Nüsse senken Risiko nachweisbar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+### [Ernährung und Langlebigkeit: Zehn Muster verlangsamen biologisches Altern - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVR4WEpHeXc0RENMUWtpVjZZSWQyaHpVcXk0OGQtLUtXcFhKd0JqU1ZwY2ROaThfbHkybWtjVHBNWHk3REpQN1JtX1c0dFdVZzVJZ3BSOG51ZjUwdW1fa3llTENsdEszcDZHX20yVk55ZVU0Unk3OUxJNkhlOFVGYTlTSHd4eXRXb3RqUnRaQmx0TmhLY0FXbTlRRzNxbHh0T0k5cDNYUmdlQnVzN2lQcEVvMV9PQWp1SkpiVXFiOA?oc=5)
 
-2026-09-18 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVR4WEpHeXc0RENMUWtpVjZZSWQyaHpVcXk0OGQtLUtXcFhKd0JqU1ZwY2ROaThfbHkybWtjVHBNWHk3REpQN1JtX1c0dFdVZzVJZ3BSOG51ZjUwdW1fa3llTENsdEszcDZHX20yVk55ZVU0Unk3OUxJNkhlOFVGYTlTSHd4eXRXb3RqUnRaQmx0TmhLY0FXbTlRRzNxbHh0T0k5cDNYUmdlQnVzN2lQcEVvMV9PQWp1SkpiVXFiOA?oc=5)
 
 ---
 
 ### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
-2026-09-18 <span class="news-indication-tag">cardiovascular disease</span>
+2026-09-18 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
@@ -77,14 +77,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU0
 2026-09-18 <span class="news-indication-tag">migraine</span>
 
 Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
-
----
-
-### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
-
-2026-09-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">dementia</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 ---
 

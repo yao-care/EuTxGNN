@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (12)
 
-### [Ictus, aumentano i casi nella fascia 20-54 anni: tra le cause ipertensione, diabete e abuso di sostanze](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
+### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+
+2026-09-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+
+---
+
+### [Ictus, aumentano i casi nella fascia 20-54 anni: tra le cause ipertensione, diabete e abuso di sostanze - Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
 
 2026-09-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
-Source: [corriere.it](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
 
 ---
 
@@ -66,31 +74,15 @@ Source: [corriere.it](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU
 
 2026-09-18 <span class="news-indication-tag">ictus</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
 
 ---
 
-### [This One Habit at Night Could Silently Change The Shape of Your Heart](https://news.google.com/rss/articles/CBMinwFBVV95cUxPeEZ2NUp4UWthMzUzc2wxWkRGNmN1OWdfX0hQSHhHOUtmM2kxcXJ5T3pZenNlX0ZLZkFVUDc4Q3ZadnAxQl9lSzdTcjd3a0dXcnUyYWh1ZW0tZjBGTnZOLS04SkpfcGliUDlQN2hsSlBkUmdjMWEtdFNhV1lhWGlEZ0thYXJjX3Jpa0xweXptZVYtWE9aOGJiVXpUUGFtVG8?oc=5)
-
-2026-09-18 <span class="news-indication-tag">stroke</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinwFBVV95cUxPeEZ2NUp4UWthMzUzc2wxWkRGNmN1OWdfX0hQSHhHOUtmM2kxcXJ5T3pZenNlX0ZLZkFVUDc4Q3ZadnAxQl9lSzdTcjd3a0dXcnUyYWh1ZW0tZjBGTnZOLS04SkpfcGliUDlQN2hsSlBkUmdjMWEtdFNhV1lhWGlEZ0thYXJjX3Jpa0xweXptZVYtWE9aOGJiVXpUUGFtVG8?oc=5)
-
----
-
-### [Vitamin K2: Verkalkung der Gefäße um ein Viertel verlangsamt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVl0Qy1MdXN3dGkxc0x3ZV9JS1hfUXkyZ050cUEtVmZRZnZDc0otMnNnYlU1UmRHUkpJTDRnWElmcXFCOEF3WEdqeENQSGFuVFBCZVNseUNiOVVoMXFyS1NOcjdqQ3VqWGtHdDRubzA3eWZ0N2N6RE5Ra21VUHRwSjhENmNvcDZNb1JORkc5UHpDdEVQTEhJaGF6TU9WMmxoeEhjVkZIX3h6aVgyRzNr?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVl0Qy1MdXN3dGkxc0x3ZV9JS1hfUXkyZ050cUEtVmZRZnZDc0otMnNnYlU1UmRHUkpJTDRnWElmcXFCOEF3WEdqeENQSGFuVFBCZVNseUNiOVVoMXFyS1NOcjdqQ3VqWGtHdDRubzA3eWZ0N2N6RE5Ra21VUHRwSjhENmNvcDZNb1JORkc5UHpDdEVQTEhJaGF6TU9WMmxoeEhjVkZIX3h6aVgyRzNr?oc=5)
-
----
-
-### [Une vaste étude révèle l'heure idéale du coucher pour protéger son cœur, et ce n'est pas avant minuit qu'il faut retenir - La Provence](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
+### [Une vaste étude révèle l'heure idéale du coucher pour protéger son cœur, et ce n'est pas avant minuit qu'il faut retenir](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
 
 2026-09-18 <span class="news-indication-tag">AVC</span>
 
-Source: [La Provence](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
+Source: [laprovence.com](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
 
 ---
 
@@ -110,19 +102,11 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95c
 
 ---
 
-### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+### [Ernährung und Langlebigkeit: Zehn Muster verlangsamen biologisches Altern - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVR4WEpHeXc0RENMUWtpVjZZSWQyaHpVcXk0OGQtLUtXcFhKd0JqU1ZwY2ROaThfbHkybWtjVHBNWHk3REpQN1JtX1c0dFdVZzVJZ3BSOG51ZjUwdW1fa3llTENsdEszcDZHX20yVk55ZVU0Unk3OUxJNkhlOFVGYTlTSHd4eXRXb3RqUnRaQmx0TmhLY0FXbTlRRzNxbHh0T0k5cDNYUmdlQnVzN2lQcEVvMV9PQWp1SkpiVXFiOA?oc=5)
 
 2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
-
----
-
-### [Bluthochdruck: Nüsse senken Risiko nachweisbar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVR4WEpHeXc0RENMUWtpVjZZSWQyaHpVcXk0OGQtLUtXcFhKd0JqU1ZwY2ROaThfbHkybWtjVHBNWHk3REpQN1JtX1c0dFdVZzVJZ3BSOG51ZjUwdW1fa3llTENsdEszcDZHX20yVk55ZVU0Unk3OUxJNkhlOFVGYTlTSHd4eXRXb3RqUnRaQmx0TmhLY0FXbTlRRzNxbHh0T0k5cDNYUmdlQnVzN2lQcEVvMV9PQWp1SkpiVXFiOA?oc=5)
 
 ---
 
@@ -136,17 +120,9 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJ
 
 ### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
-2026-09-18 <span class="news-indication-tag">cardiovascular disease</span>
+2026-09-18 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
-
----
-
-### [Waking up at night 'raises risk of 83 diseases from heart failure to dementia' - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
-
-2026-09-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">dementia</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
 
 ---
 
@@ -158,19 +134,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZ
 
 ---
 
-### [Warum es manchen Patienten nach einem Schlaganfall besser geht als anderen - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
+### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 
 2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
-
----
-
-### ["Je suis cardiologue et je ne mange jamais les aliments de cette couleur" : ils bouchent les artères et favorisent l'AVC](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
-
-2026-09-14 <span class="news-indication-tag">AVC</span>
-
-Source: [sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMifkFVX3lxTE94YXFiZkdrMW40OWpIS2Q3bkxudEpVNXpnSXJPaDZ2XzIyaHVIWlh6dFNETWlTWUxCWlU3aFR0S0FJNjVTY0ZjeklVcDliTmF2MTRFQ2hKVFY4SnNLYjZJZnRuRzQ5QkFuaTF1X3dyN2FzLVZXSXpSSXhZdWUwQQ?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 
 ---
 
