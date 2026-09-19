@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Ritonavir?">
-<strong>Ritonavir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Ritonavir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Ritonavir with the latest he
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [La vacunación infantil cae en la mayoría de países europeos - El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzMxX0FHYlg4S2F1VXhPeHNQdEJ3YVlFRVhuQ2JkNEt1bXV6WUg1YWxCdkxOWms4endmal82THJ0eGZkcE1jd252Y2paQVRJdGpXNUxTN2M1c2N4WGdMajVBLW1nVHlqQ09UWE95cEh1VkM0Ulp4NEFjM1QzcFctdmFBTzhUcWpTb0hjMl9CSWZBczV5U08yUGpkTjdQaDdPbHJiR3hSZ3VpSVNTN1RtaWF30gG3AUFVX3lxTE45Rks4cXh4QUJ0SmM1UFRnTjlGb1I1NF9TSTlWSnNXWHZ1UEk1dWs4RzFSSXo5aERBR0hhMGhDNlpMeUZmN3ZlVmVpSXl3cldWZzRnNE5jUEpiVS10eHhnSnVHd2M3YlpBaDByZmxaZUtFRGV5QVNxUjNLYXM3emRNRkpGOW5lbGY2aldSQncwREQwQlJQMUZ1ZUstM0htd0VUa3JUWUl2Q05JRGRBSk55ZjBjUDViYw?oc=5)
-
-2026-09-18 <span class="news-indication-tag">hepatitis</span>
-
-Source: [El Correo](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzMxX0FHYlg4S2F1VXhPeHNQdEJ3YVlFRVhuQ2JkNEt1bXV6WUg1YWxCdkxOWms4endmal82THJ0eGZkcE1jd252Y2paQVRJdGpXNUxTN2M1c2N4WGdMajVBLW1nVHlqQ09UWE95cEh1VkM0Ulp4NEFjM1QzcFctdmFBTzhUcWpTb0hjMl9CSWZBczV5U08yUGpkTjdQaDdPbHJiR3hSZ3VpSVNTN1RtaWF30gG3AUFVX3lxTE45Rks4cXh4QUJ0SmM1UFRnTjlGb1I1NF9TSTlWSnNXWHZ1UEk1dWs4RzFSSXo5aERBR0hhMGhDNlpMeUZmN3ZlVmVpSXl3cldWZzRnNE5jUEpiVS10eHhnSnVHd2M3YlpBaDByZmxaZUtFRGV5QVNxUjNLYXM3emRNRkpGOW5lbGY2aldSQncwREQwQlJQMUZ1ZUstM0htd0VUa3JUWUl2Q05JRGRBSk55ZjBjUDViYw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

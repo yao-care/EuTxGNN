@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>5 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Baroness Casey: Denying British dementia drugs to NHS patients is insane - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRrMW91UWRvMXg5WEJCZ3RYTkNteHU3RnFKS3dKVm52Q1RpUjl2QzFycU54NTBDb0tyYzlUZXFNWUFGX0QxVUtrOW43azRWU2swSGNFUzZLekFVdXJxT2thaHowNFNsYktWU19NMmlWUlp1Tk9PTFBwcnh0ZGQyT1dkLW9EN3gwaGU5Z2d2NGxVSG1sbS1jbkNDcW9lUXdPWGdiOXBR?oc=5)
 
@@ -59,6 +59,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFR
 
 ---
 
+### [Common Gum Problem Is Linked to a 61% Higher Alzheimer's Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV9uUkFyUHBPT1dTZWVLUktsWDdtVTR2N2psVjJCeExuWmRGajg2QklKa2hQNktEOHE2dXJmalhzRk44WEpSZEJCT3RSdW9fWGh3ZzZXdzhUVS0yV1I0Wjd1UDNlUVowa0JBd3FScExLQlFUNVVqM0RaZE5xU1didDRKMjJ0VFgwblpPdklJMU10LUN1c3ZxMlN5Yw?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+Source: [sciencealert.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV9uUkFyUHBPT1dTZWVLUktsWDdtVTR2N2psVjJCeExuWmRGajg2QklKa2hQNktEOHE2dXJmalhzRk44WEpSZEJCT3RSdW9fWGh3ZzZXdzhUVS0yV1I0Wjd1UDNlUVowa0JBd3FScExLQlFUNVVqM0RaZE5xU1didDRKMjJ0VFgwblpPdklJMU10LUN1c3ZxMlN5Yw?oc=5)
+
+---
+
 ### [Doctor says early dementia warning sign appears 15 years prior - what to look for - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NXZnQ29EdWs2azV1Y3psaVRLY0VtbzVLM1JxNUxxSUM4U1Z2X3pRVks5RW95RldLeTgxVDNSNjBVTUlWUGpOd0RoMnkwNEVRRFhHOFBpZlpXTkRkdG9kZzd2QVctNjhSU2owb3lvdng4NFh3T1RwSFV3azlSX2xVWFc3aDjSAYwBQVVfeXFMTXZYYi13ZERYNXpFQzV3Y1JMUm9WZWdvUFEwMlN4MFFlQTk5THdaalRRNnRoc0V3NHpsMmtrZGItOWgtQWFOY1lKUjk3aUgtT3hnSW5nNVZ3R3VmOGhCSUwxdkU3VlM2UzRqUjF2Z196RXVuUnNsWVVDZFNTNUJVT2NsU0txdVdLTWhUSEU?oc=5)
 
 2026-09-15 <span class="news-indication-tag">dementia</span>
@@ -67,11 +75,11 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVc1NX
 
 ---
 
-### [A microprotein atlas of the human frontal cortex in Alzheimer’s disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
+### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
 
-2026-09-14 <span class="news-indication-tag">Alzheimer's</span>
+2026-09-13 <span class="news-indication-tag">dementia</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdDN5SUItTTdqdmRsdDR1NHAyWGNlMGlZLTlpcnJoTkRiS3NPS1ZCYW5DRTdwbkN4WTZ3OTdCcWd1Yy1MOXcyMENwbUhJM19IZlZNWjVBVEp6VUdZc29F?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
 
 ---
 

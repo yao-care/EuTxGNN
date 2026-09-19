@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Ils ont testé le jeûne intermittent sur des malades de Huntington : le résultat surprend les chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
 
-2026-09-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+2026-09-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm5TMUgxZmdZMHhTWmhtc0NwVG1jZ0FxcThCRnMteWZINnN2ZjlCVG8zU1ZMYWVrOHNWdnVMSGhlamtqUEpHbm85OVN0SWNJMEFudVJGZ1VvSFM5X3poOS1XM19ZVE5SMUJwTGtIZUNHRmVMZmc5djFTMkxiWi1iTGFWUXBNZk5Cdm9aRkhsdG5FTVQtVHYxMUlwWG5nWW42Skg1bEluNkxReFRxSzVr?oc=5)
+Source: [augsburger-allgemeine.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
 
 ---
 
-### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
+### [Ketogene Diät: Insulinspiegel sinkt um 74 Prozent bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxraUtPYmtQUEs1bkVsSnJwdkJ2ZW02bU1Bd0NoYWN6LThWVWIzTFU2eGFoMi1maUFOdkJXR0N1eU05UmY4MkNJSk52TkpWb1UzWkFQR0ZPTlE5dmtZeFpqcEd6RHhjYU1xOG5vQ2pXeFRxNUV6RVZ2ZUFCeGFJOEVnZkJfcHBBUE5nNHAzUHozQ215MkxCOEJ0Q2hGZFZIWGloODZldm9JV0RaRVY1eTZaOA?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxraUtPYmtQUEs1bkVsSnJwdkJ2ZW02bU1Bd0NoYWN6LThWVWIzTFU2eGFoMi1maUFOdkJXR0N1eU05UmY4MkNJSk52TkpWb1UzWkFQR0ZPTlE5dmtZeFpqcEd6RHhjYU1xOG5vQ2pXeFRxNUV6RVZ2ZUFCeGFJOEVnZkJfcHBBUE5nNHAzUHozQ215MkxCOEJ0Q2hGZFZIWGloODZldm9JV0RaRVY1eTZaOA?oc=5)
+
+---
+
+### [GLP-1-Agonisten: Neue Daten zeigen stabiles Sicherheitsprofil bei älteren Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkpnOFVVTWFkQmg4SFNaQ2RjWEE3TDZKUlBoT3BUaE9nOTdIMm81ZnlYYTMwWjFhTGZUcGlBNWZmOEVOT1ZCa1l0WEV3OTVYVUJZb1ZFdU1mVmYwRlNDV0k4eWVWU0dvNkR5LXM5STNyNkY0c05XeENPczhhVzhvbkdvWC1FOGsyd2U4VVFmeHdna2w1ekNpVWVvTU9pM3VfZnp3T2F0TEZhTnYzWFREQ1VkRkZMZ25YanhQQzN5NA?oc=5)
+
+2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkpnOFVVTWFkQmg4SFNaQ2RjWEE3TDZKUlBoT3BUaE9nOTdIMm81ZnlYYTMwWjFhTGZUcGlBNWZmOEVOT1ZCa1l0WEV3OTVYVUJZb1ZFdU1mVmYwRlNDV0k4eWVWU0dvNkR5LXM5STNyNkY0c05XeENPczhhVzhvbkdvWC1FOGsyd2U4VVFmeHdna2w1ekNpVWVvTU9pM3VfZnp3T2F0TEZhTnYzWFREQ1VkRkZMZ25YanhQQzN5NA?oc=5)
 
 ---
 

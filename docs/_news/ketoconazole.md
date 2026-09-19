@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Ketoconazole?">
-<strong>Ketoconazole</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Ketoconazole</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Ketoconazole with the latest
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Asthma und COPD: Semaglutid reduziert Anfälle um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
 
 2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
-
----
-
-### [Asthma-Diagnose bei Kindern – Die Aussicht auf eine frühere Asthmadiagnose lässt aufatmen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
-
-2026-09-18 <span class="news-indication-tag">asthma</span>
-
-Source: [Moneycab](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FMbWdIUTROeUFQQmxXLS1tOGdtdmw1N0o4MnNtS3cteGRxRFhZY2NXeGVMTzNoRENuVnhKN3BwYUVrNmpSWndVd1VnRjJNcU9ZMHNJT2dsd2pFZGtZNzJRc2diUlVhSnVSWFIyQzBmQk1aeElwZHQwRUk2QWJwdkMtTkZvdVlKMEdURG5EUlFFby1oXzFpbHdtREU4a2lzRUg3aU51S0JDaVE4cFlHT1RaREdiUjluMG1hSTZtR0xYZ9IBxwFBVV95cUxOenNPOGVuNklGMFZlM0FXOU8wYWQ3VUs5b0ZuOHRHbUo0eEoxRFhtN0RXSDBRQVhsUUx2VTRvMUZ0S3dpYWJ5OHR6Zl8zNTlVZXIwODREY0JmYnZURVloanlkUHg5cjZBOU0yTF9QejNDRFFWMVJ5ZmNmVjd1MHpjelNxa1BVS0JlX0o1bU80eVZ6TXlmWUxSa05acm9Hc3NtUGRkV1VncDRER3dIRTVYZ3pLVGdoS3F2ZU11eFpnSXljZlBqeE84?oc=5)
 
 ---
 

@@ -66,7 +66,7 @@ Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cU
 
 2026-09-17 <span class="news-indication-tag">depression</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 ---
 
