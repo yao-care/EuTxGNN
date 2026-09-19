@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 4 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 5 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>Adipositas (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,29 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
+### [GLP-1 Systematic Review Finds Weight Loss of Up to 24%](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDB0eW95TEJ5bmxseUtrMzgtMEx4M3BKck9NMjg1d1N3TXprTFZjb3I2UzBVaktPYllDNllRTktKZmJIZ0RiVlNLLU80UGtkampvckZzeUFVSDJ2TVphd1pVcTl1amlydFQ3Q2xnSklTVTRtN0RsbG1JcTBMeVFBQ1k2ejF3ZUNOOEZpQ1FZaVhBd1NhQjJCYXBR?oc=5)
 
 2026-09-18
 
-Source: [augsburger-allgemeine.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDB0eW95TEJ5bmxseUtrMzgtMEx4M3BKck9NMjg1d1N3TXprTFZjb3I2UzBVaktPYllDNllRTktKZmJIZ0RiVlNLLU80UGtkampvckZzeUFVSDJ2TVphd1pVcTl1amlydFQ3Q2xnSklTVTRtN0RsbG1JcTBMeVFBQ1k2ejF3ZUNOOEZpQ1FZaVhBd1NhQjJCYXBR?oc=5)
 
 ---
 
-### [Ketogene Diät: Insulinspiegel sinkt um 74 Prozent bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxraUtPYmtQUEs1bkVsSnJwdkJ2ZW02bU1Bd0NoYWN6LThWVWIzTFU2eGFoMi1maUFOdkJXR0N1eU05UmY4MkNJSk52TkpWb1UzWkFQR0ZPTlE5dmtZeFpqcEd6RHhjYU1xOG5vQ2pXeFRxNUV6RVZ2ZUFCeGFJOEVnZkJfcHBBUE5nNHAzUHozQ215MkxCOEJ0Q2hGZFZIWGloODZldm9JV0RaRVY1eTZaOA?oc=5)
+### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
+
+2026-09-18
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
+
+---
+
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxraUtPYmtQUEs1bkVsSnJwdkJ2ZW02bU1Bd0NoYWN6LThWVWIzTFU2eGFoMi1maUFOdkJXR0N1eU05UmY4MkNJSk52TkpWb1UzWkFQR0ZPTlE5dmtZeFpqcEd6RHhjYU1xOG5vQ2pXeFRxNUV6RVZ2ZUFCeGFJOEVnZkJfcHBBUE5nNHAzUHozQ215MkxCOEJ0Q2hGZFZIWGloODZldm9JV0RaRVY1eTZaOA?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 

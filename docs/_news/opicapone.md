@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Opicapone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Baroness Casey: Denying British dementia drugs to NHS patients is insane - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRrMW91UWRvMXg5WEJCZ3RYTkNteHU3RnFKS3dKVm52Q1RpUjl2QzFycU54NTBDb0tyYzlUZXFNWUFGX0QxVUtrOW43azRWU2swSGNFUzZLekFVdXJxT2thaHowNFNsYktWU19NMmlWUlp1Tk9PTFBwcnh0ZGQyT1dkLW9EN3gwaGU5Z2d2NGxVSG1sbS1jbkNDcW9lUXdPWGdiOXBR?oc=5)
+### [Civil service took six months to post dementia tsar job advert - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWI3NDN3eXhMNkJoVlZJU1VJUVhQYzNjYlZHTHRhSzRZaW5HYU5xNkU0SkREdEZqZE16NGJaODBaUFBxMjhEczBuUmNzczZOT1Y1bWduekpmcWdJZHlyQnZ3dkhaTm94Znl3YUZmS2NlUjJYcmVOTUIyc1dnaEk4TVlzaFNXZFo3d1RQSmlDQUd1WVJyMm1JVHlmNWI2NnhaUlZ5c1BlMWdIRlF6?oc=5)
 
 2026-09-17 <span class="news-indication-tag">dementia</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRrMW91UWRvMXg5WEJCZ3RYTkNteHU3RnFKS3dKVm52Q1RpUjl2QzFycU54NTBDb0tyYzlUZXFNWUFGX0QxVUtrOW43azRWU2swSGNFUzZLekFVdXJxT2thaHowNFNsYktWU19NMmlWUlp1Tk9PTFBwcnh0ZGQyT1dkLW9EN3gwaGU5Z2d2NGxVSG1sbS1jbkNDcW9lUXdPWGdiOXBR?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWI3NDN3eXhMNkJoVlZJU1VJUVhQYzNjYlZHTHRhSzRZaW5HYU5xNkU0SkREdEZqZE16NGJaODBaUFBxMjhEczBuUmNzczZOT1Y1bWduekpmcWdJZHlyQnZ3dkhaTm94Znl3YUZmS2NlUjJYcmVOTUIyc1dnaEk4TVlzaFNXZFo3d1RQSmlDQUd1WVJyMm1JVHlmNWI2NnhaUlZ5c1BlMWdIRlF6?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTR
 2026-09-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">dementia</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzRHendFRXZHMWhGZ2hHRVN3S0JXT1c4MnJUaDA3eHpDSFI1Y3dfUXR3SV9ldGtFYW9ELXRtdjI1TmZBUUhTaFJfbUozWHZwMUt4cXV5NE81cjRPSVFRaWdmRFBiSGdXeFkycXNKalJOU1lFZ25MVmtsX05CcnJNUm01Y3BiQzRnbV9XVWl5eTROdXNMMXlFQWZlZWRIREE?oc=5)
-
----
-
-### [Common Gum Problem Is Linked to a 61% Higher Alzheimer's Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV9uUkFyUHBPT1dTZWVLUktsWDdtVTR2N2psVjJCeExuWmRGajg2QklKa2hQNktEOHE2dXJmalhzRk44WEpSZEJCT3RSdW9fWGh3ZzZXdzhUVS0yV1I0Wjd1UDNlUVowa0JBd3FScExLQlFUNVVqM0RaZE5xU1didDRKMjJ0VFgwblpPdklJMU10LUN1c3ZxMlN5Yw?oc=5)
-
-2026-09-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-Source: [sciencealert.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV9uUkFyUHBPT1dTZWVLUktsWDdtVTR2N2psVjJCeExuWmRGajg2QklKa2hQNktEOHE2dXJmalhzRk44WEpSZEJCT3RSdW9fWGh3ZzZXdzhUVS0yV1I0Wjd1UDNlUVowa0JBd3FScExLQlFUNVVqM0RaZE5xU1didDRKMjJ0VFgwblpPdklJMU10LUN1c3ZxMlN5Yw?oc=5)
 
 ---
 

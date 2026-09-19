@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
 
 ### [Ictus, aumentano i casi nella fascia 20-54 anni: tra le cause ipertensione, diabete e abuso di sostanze](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
 
@@ -62,11 +62,27 @@ Source: [corriere.it](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU
 
 ---
 
-### [Anti-Aging: Welche Ernährung hält jung? - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMie0FVX3lxTE4wVmlITS1aeWlLLTJKRzJDZU9nVFVDTnRZYlhlcHJMemdPMUlFbWFycjE0TGpOSF8zSHE1aGY1ZGg2aGxkODltY2JQMnQ4emtod0lnU29UeFVyYW5BSHMyOFI1Ym1zQVdzYm9JN3A3Tkt6LWNLRWUydDZFTQ?oc=5)
+### [Disminuye cobertura vacunal en países de la Unión Europea: estudio en The Lancet - La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+
+2026-09-18 <span class="news-indication-tag">hepatitis</span>
+
+Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+
+---
+
+### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
 
 2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMie0FVX3lxTE4wVmlITS1aeWlLLTJKRzJDZU9nVFVDTnRZYlhlcHJMemdPMUlFbWFycjE0TGpOSF8zSHE1aGY1ZGg2aGxkODltY2JQMnQ4emtod0lnU29UeFVyYW5BSHMyOFI1Ym1zQVdzYm9JN3A3Tkt6LWNLRWUydDZFTQ?oc=5)
+Source: [scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+
+---
+
+### [Bluthochdruck: Nüsse senken Risiko nachweisbar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpCbE9hMXk3WmthaWIxdXlnQ3pOTHA4TGdjRXRqUWdKMzVhYnhreTY2dE5oQ2ZWV3ZObWxsLWFFOXdjLW9qY3JWZDZqNWFQQXpZdnIxWGhCdXgzS2huM3ZMZWg5MGhTcjE2c09hV2ZOLVRpMUZPMXNLc1JwNG9seS0zVk1BdDZORkk0MkkxX0EwQ3AzZ2hPalBaVlZZQ2d3ZXljcHEwelMtcmM?oc=5)
 
 ---
 
@@ -74,7 +90,7 @@ Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMie0FVX3l
 
 2026-09-14 <span class="news-indication-tag">hypertension</span>
 
-Source: [medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
+Source: [Medisite.fr](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcm9CNjJQVkxGb0ltQ1RmQ000Q0tIOFhMREw2RWRsb2ZNMW51Snlic1dYMEFUTzBQTGJOM19ZX3g3amNsNmw3bUlEdERyalViM1ZLOU9BYzJFYmx0UkdBcDZQYnVEdUxRdFYwZjBsNzNjRmNORUhyT0dOOFBNS3hBUXJJN05EX1VEb1E?oc=5)
 
 ---
 

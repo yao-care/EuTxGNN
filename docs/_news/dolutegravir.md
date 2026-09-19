@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Dolutegravir?">
-<strong>Dolutegravir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Dolutegravir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Dolutegravir with the latest
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Disminuye cobertura vacunal en países de la Unión Europea: estudio en The Lancet - La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+
+2026-09-18 <span class="news-indication-tag">hepatitis</span>
+
+Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+
+---
 
 
 <div class="disclaimer">

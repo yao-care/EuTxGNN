@@ -14,7 +14,7 @@ permalink: /news/teplizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Teplizumab?">
-<strong>Teplizumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Teplizumab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Teplizumab with the latest h
 <p><a href="{{ '/drugs/teplizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
-
-### [Herz: Diese Auswirkungen haben Cholesterin-Senker auf das Demenzrisiko](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
-
-2026-09-19 <span class="news-indication-tag">diabetes</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
-
----
+## Related News (6)
 
 ### [Ictus, aumentano i casi nella fascia 20-54 anni: tra le cause ipertensione, diabete e abuso di sostanze](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
 
@@ -86,11 +78,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRS
 
 ---
 
-### [Ketogene Diät: Insulinspiegel sinkt um 74 Prozent bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxraUtPYmtQUEs1bkVsSnJwdkJ2ZW02bU1Bd0NoYWN6LThWVWIzTFU2eGFoMi1maUFOdkJXR0N1eU05UmY4MkNJSk52TkpWb1UzWkFQR0ZPTlE5dmtZeFpqcEd6RHhjYU1xOG5vQ2pXeFRxNUV6RVZ2ZUFCeGFJOEVnZkJfcHBBUE5nNHAzUHozQ215MkxCOEJ0Q2hGZFZIWGloODZldm9JV0RaRVY1eTZaOA?oc=5)
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxraUtPYmtQUEs1bkVsSnJwdkJ2ZW02bU1Bd0NoYWN6LThWVWIzTFU2eGFoMi1maUFOdkJXR0N1eU05UmY4MkNJSk52TkpWb1UzWkFQR0ZPTlE5dmtZeFpqcEd6RHhjYU1xOG5vQ2pXeFRxNUV6RVZ2ZUFCeGFJOEVnZkJfcHBBUE5nNHAzUHozQ215MkxCOEJ0Q2hGZFZIWGloODZldm9JV0RaRVY1eTZaOA?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSW
 
 ---
 
-### [Oltre 300mila casi di diabete in E-R, Fiaso:"Tra le regioni più colpite del Nord"](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine’ - Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
 
-2026-09-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+2026-09-13 <span class="news-indication-tag">diabetes</span>
 
-Source: [ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQTEFLS1gxdHAtSUx6Vm9XcUxWMlZabXVOcmNIdWlTdlBCU214b3V3MU9mR1dxNkJ1cHZwTXk3T1pnXzVseXRneWZxS3dVdEZIRTBLUkJjbnVXUEFhb1diMFZ4X1dHcXZpQ1ZoYXdZa3FwVDlqT2Rpbm0ya1YzeEZXclNfSjczZE1HbElxUHRxTjExY3pjSUVwallYRlNKTkZ2WkdUM05XNFhHVTFObXBGeHBYVFdGMnh6M2ZBd2VqQ01QYUItM2VqZ0k3Y2hhR2U4allOX0tIRmhpcFNRQzZDejhOc1ctY3NDNTVIUUxWb2ZHVWhxbFo4NVR0N3I2RjItTGFEZUdJeTBQZDRSRjRUdHNOVFJjNW1SVnVkTA?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
 
 ---
 

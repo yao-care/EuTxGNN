@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="What news is there about Teriflunomide?">
-<strong>Teriflunomide</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
+<strong>Teriflunomide</strong> currently has <strong>21 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (21)
 
-### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+### [Alzheimer-Forschung: Warum die 3D-Struktur des Genoms alles ändern könnte](https://news.google.com/rss/articles/CBMivgFBVV95cUxQczFuTWdKSEg0dzhvUjlqQzY5elVKWXNmZkNFU0xuY0F1cDlTQVpvN1BQUUZSd2x5bU9TMVMwa0VKR0toRTBNQ1FzWDN6S2Q2dW1PZnNJNlUyX04td2poY3FQMGduRmNOaWZPajhHOVplR0NPZTFtX3hfc0xqVXpRaHFzZWR1ZlZBWVJGMXRJckRNNk11MjVvanZIQmE4cXdUdmFmSVFkODdsLVhfM1djd0J6MGI3WGQ0R0ttUVF3?oc=5)
 
-2026-09-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-09-19 <span class="news-indication-tag">MS</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+Source: [Telepolis](https://news.google.com/rss/articles/CBMivgFBVV95cUxQczFuTWdKSEg0dzhvUjlqQzY5elVKWXNmZkNFU0xuY0F1cDlTQVpvN1BQUUZSd2x5bU9TMVMwa0VKR0toRTBNQ1FzWDN6S2Q2dW1PZnNJNlUyX04td2poY3FQMGduRmNOaWZPajhHOVplR0NPZTFtX3hfc0xqVXpRaHFzZWR1ZlZBWVJGMXRJckRNNk11MjVvanZIQmE4cXdUdmFmSVFkODdsLVhfM1djd0J6MGI3WGQ0R0ttUVF3?oc=5)
 
 ---
 
@@ -86,11 +86,51 @@ Source: [Fibwi Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdnBT
 
 ---
 
+### [How to make a brain: new experiments challenge existing picture](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvR3VXNHk2RjNMV0YzR01ReGxrTzJMMXBSZTJJWFlkbVJHdlRsd0g2cG5wcUlzdkp0WU1qQWpvd0E0R19oQU1HSmJhanBmdXQ5NENvWjZrd2pRUDlkOXpj?oc=5)
+
+2026-09-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvR3VXNHk2RjNMV0YzR01ReGxrTzJMMXBSZTJJWFlkbVJHdlRsd0g2cG5wcUlzdkp0WU1qQWpvd0E0R19oQU1HSmJhanBmdXQ5NENvWjZrd2pRUDlkOXpj?oc=5)
+
+---
+
+### [Disminuye cobertura vacunal en países de la Unión Europea: estudio en The Lancet - La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+
+2026-09-18 <span class="news-indication-tag">hepatitis</span>
+
+Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+
+---
+
+### [Vitamin K2: Verkalkung der Gefäße um ein Viertel verlangsamt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVl0Qy1MdXN3dGkxc0x3ZV9JS1hfUXkyZ050cUEtVmZRZnZDc0otMnNnYlU1UmRHUkpJTDRnWElmcXFCOEF3WEdqeENQSGFuVFBCZVNseUNiOVVoMXFyS1NOcjdqQ3VqWGtHdDRubzA3eWZ0N2N6RE5Ra21VUHRwSjhENmNvcDZNb1JORkc5UHpDdEVQTEhJaGF6TU9WMmxoeEhjVkZIX3h6aVgyRzNr?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVl0Qy1MdXN3dGkxc0x3ZV9JS1hfUXkyZ050cUEtVmZRZnZDc0otMnNnYlU1UmRHUkpJTDRnWElmcXFCOEF3WEdqeENQSGFuVFBCZVNseUNiOVVoMXFyS1NOcjdqQ3VqWGtHdDRubzA3eWZ0N2N6RE5Ra21VUHRwSjhENmNvcDZNb1JORkc5UHpDdEVQTEhJaGF6TU9WMmxoeEhjVkZIX3h6aVgyRzNr?oc=5)
+
+---
+
 ### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show - The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 2026-09-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
+
+---
+
+### [Vieillissement : « Alzheimer va devenir une maladie chronique » - Les Echos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaW1aeW91dF9MX1pEdGZPTU9CRERscnNMNzJiUzM0MVdVMHlKZ0RwYmJyTjhKSXdJWjVNOTM2M05HY2sxWGpFTWZ1elYwU19KcDQyTW9ld0RwX1FidVQ4YmtMVVdlVk9PZnlvRTIwSnJrTTlzSjBaMnVOeXVzWUxjME90WFQ2OHlveF9RUG5wM0xhV00yRWlUUUcyQ2hFaUlhWWVJM2Zn?oc=5)
+
+2026-09-18 <span class="news-indication-tag">MS</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaW1aeW91dF9MX1pEdGZPTU9CRERscnNMNzJiUzM0MVdVMHlKZ0RwYmJyTjhKSXdJWjVNOTM2M05HY2sxWGpFTWZ1elYwU19KcDQyTW9ld0RwX1FidVQ4YmtMVVdlVk9PZnlvRTIwSnJrTTlzSjBaMnVOeXVzWUxjME90WFQ2OHlveF9RUG5wM0xhV00yRWlUUUcyQ2hFaUlhWWVJM2Zn?oc=5)
+
+---
+
+### [Plan to limit NHS diagnoses of ADHD attacked as ‘rationing’ healthcare - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVdsaENiVGlZQmJpdnZQYnBuRkswLWpOLUY3ZjdxUzVFWDF1VVJJdnJvZHMxaGJGMjN3VmJpWHlkZVVKQk5GLUg5WHNCVXRBVm9iN2hqRzZnZDE4VEVGNHh6U0Vwd1NNeEUwQ05iTDR5anppT2pHWmhXaGJwS0tlcGRwUWNCLTlTb05QUHlhTDh1d05sem5zNkhLX2xhanVLVF93azIzRmxNWGRrYTBVd2hmSWI?oc=5)
+
+2026-09-18 <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVdsaENiVGlZQmJpdnZQYnBuRkswLWpOLUY3ZjdxUzVFWDF1VVJJdnJvZHMxaGJGMjN3VmJpWHlkZVVKQk5GLUg5WHNCVXRBVm9iN2hqRzZnZDE4VEVGNHh6U0Vwd1NNeEUwQ05iTDR5anppT2pHWmhXaGJwS0tlcGRwUWNCLTlTb05QUHlhTDh1d05sem5zNkhLX2xhanVLVF93azIzRmxNWGRrYTBVd2hmSWI?oc=5)
 
 ---
 
@@ -102,11 +142,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYVc3
 
 ---
 
-### [Ketogene Diät: Insulinspiegel sinkt um 74 Prozent bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxraUtPYmtQUEs1bkVsSnJwdkJ2ZW02bU1Bd0NoYWN6LThWVWIzTFU2eGFoMi1maUFOdkJXR0N1eU05UmY4MkNJSk52TkpWb1UzWkFQR0ZPTlE5dmtZeFpqcEd6RHhjYU1xOG5vQ2pXeFRxNUV6RVZ2ZUFCeGFJOEVnZkJfcHBBUE5nNHAzUHozQ215MkxCOEJ0Q2hGZFZIWGloODZldm9JV0RaRVY1eTZaOA?oc=5)
+### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxraUtPYmtQUEs1bkVsSnJwdkJ2ZW02bU1Bd0NoYWN6LThWVWIzTFU2eGFoMi1maUFOdkJXR0N1eU05UmY4MkNJSk52TkpWb1UzWkFQR0ZPTlE5dmtZeFpqcEd6RHhjYU1xOG5vQ2pXeFRxNUV6RVZ2ZUFCeGFJOEVnZkJfcHBBUE5nNHAzUHozQ215MkxCOEJ0Q2hGZFZIWGloODZldm9JV0RaRVY1eTZaOA?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 
@@ -126,19 +166,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkpnO
 
 ---
 
-### [Parasitic bugs that inject and EAT human skin cells are thriving in UK this autumn - 3 signs you’ve been bitten - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmJQX3JOREg5cWtlYnJ1Z0h5TWpDdXBPZDdCX2t3QWs3QnRaVlQwVWZEM0doSjc3NXNPUFNzUy1pcHBQeEZJWm91ZWVBbTRicWZTdVlHUGk0ZVBFZXR2NmpIcGNfd2pNVjZnSVpEQXZOamF2QTh0Zjd2SWJ5WGR6NjRPZHZwNWJyazVSRFJn?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmJQX3JOREg5cWtlYnJ1Z0h5TWpDdXBPZDdCX2t3QWs3QnRaVlQwVWZEM0doSjc3NXNPUFNzUy1pcHBQeEZJWm91ZWVBbTRicWZTdVlHUGk0ZVBFZXR2NmpIcGNfd2pNVjZnSVpEQXZOamF2QTh0Zjd2SWJ5WGR6NjRPZHZwNWJyazVSRFJn?oc=5)
-
----
-
 ### [Testosterone scripts for women rise, along with denials and delays](https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn?oc=5)
 
 2026-09-17 <span class="news-indication-tag">MS</span>
 
-Source: [cnn.com](https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn?oc=5)
 
 ---
 
@@ -158,11 +190,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZ
 
 ---
 
-### [Common Gum Problem Is Linked to a 61% Higher Alzheimer's Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV9uUkFyUHBPT1dTZWVLUktsWDdtVTR2N2psVjJCeExuWmRGajg2QklKa2hQNktEOHE2dXJmalhzRk44WEpSZEJCT3RSdW9fWGh3ZzZXdzhUVS0yV1I0Wjd1UDNlUVowa0JBd3FScExLQlFUNVVqM0RaZE5xU1didDRKMjJ0VFgwblpPdklJMU10LUN1c3ZxMlN5Yw?oc=5)
+### [A parasitic bug that eats human skin cells is thriving in the UK right now](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnR0VGtwRzQxY211bUkxXzRFaVF3cll3YXIwSXZVT1hGUm01aS1hZ0RNb2U5TklxV211dE10eGJrRjhrODBncmxTQXZqc3VYTkVPa1VPYW12Z2FvQnV0TDZSUkxUdTQ5TWQyY1l0bUlUY2hHS2xPNEJ4VHU1TF9BOV96T2JDblZEMV9BM0hZSzk5bGxrZ2lhVDZOdGxfeEtoMUE?oc=5)
 
-2026-09-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-09-17 <span class="news-indication-tag">MS</span>
 
-Source: [sciencealert.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV9uUkFyUHBPT1dTZWVLUktsWDdtVTR2N2psVjJCeExuWmRGajg2QklKa2hQNktEOHE2dXJmalhzRk44WEpSZEJCT3RSdW9fWGh3ZzZXdzhUVS0yV1I0Wjd1UDNlUVowa0JBd3FScExLQlFUNVVqM0RaZE5xU1didDRKMjJ0VFgwblpPdklJMU10LUN1c3ZxMlN5Yw?oc=5)
+Source: [Metro.co.uk](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnR0VGtwRzQxY211bUkxXzRFaVF3cll3YXIwSXZVT1hGUm01aS1hZ0RNb2U5TklxV211dE10eGJrRjhrODBncmxTQXZqc3VYTkVPa1VPYW12Z2FvQnV0TDZSUkxUdTQ5TWQyY1l0bUlUY2hHS2xPNEJ4VHU1TF9BOV96T2JDblZEMV9BM0hZSzk5bGxrZ2lhVDZOdGxfeEtoMUE?oc=5)
 
 ---
 
@@ -179,14 +211,6 @@ Source: [diepta.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1pweUR
 2026-09-16 <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEZTbk8tNEFPQmoxVHlsOEo1ekViTjYzREQ0WjZWdGw2dFlMcVVHS0hOeVRsNkNuNUJzMXByQVhfQ2M0YUx6T1Z5TWpJOGxUa2hzUFNxWElCajJJa3hsSC13VXNVdkZ6eGN1MHZLTWl3akVmcjFZN0FtcS1hM0FEMzhqOWxuZUJ0d0liM01MMmtFOUhIdHVrUlk0QWlIU0F4cWxpemYySU1Qb0kxN0pNTnpmcm5QUVotRjVVN1RHVDJqNjc4S0s4U3g1MA?oc=5)
-
----
-
-### [Type 1 interferon perturbates clonal competition by reshaping human blood development](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTZk1oYUZYdTE2YWg3ZzRoS1lXUms0NEJRTjVLUG9OYlpKMUZwN0R3M2N3aFRnY3NFaFhTOXEtMHBlWEhEWGdfd0RkbXRCdXhYcFVyY01GNS1RTmtmMVZz?oc=5)
-
-2026-09-15 <span class="news-indication-tag">MS</span>
-
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTZk1oYUZYdTE2YWg3ZzRoS1lXUms0NEJRTjVLUG9OYlpKMUZwN0R3M2N3aFRnY3NFaFhTOXEtMHBlWEhEWGdfd0RkbXRCdXhYcFVyY01GNS1RTmtmMVZz?oc=5)
 
 ---
 
