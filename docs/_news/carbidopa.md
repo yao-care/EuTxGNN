@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Human Evolution May Be Slowly Selecting Against One Alzheimer's Gene](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9hS3JsQTZSVWJQWk40ZUU2UnFHNmVTVkNUMDMzOXAwZnl4LVpsSXpXdTc0am9jTUU5SzN5bU5tZ3lWaUo2YWtLUWtBZG1oLWk2MHM4eHpPUTAtWTFiUm84aG5Ud2c4Y2RpMGlFMjhnVWxnTkpBUzJwWmlmdHM0WDdLRzhGOGlKYkpSZHJYTE9aSGlBRnlhRnNENWQ?oc=5)
-
-2026-09-19 <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9hS3JsQTZSVWJQWk40ZUU2UnFHNmVTVkNUMDMzOXAwZnl4LVpsSXpXdTc0am9jTUU5SzN5bU5tZ3lWaUo2YWtLUWtBZG1oLWk2MHM4eHpPUTAtWTFiUm84aG5Ud2c4Y2RpMGlFMjhnVWxnTkpBUzJwWmlmdHM0WDdLRzhGOGlKYkpSZHJYTE9aSGlBRnlhRnNENWQ?oc=5)
-
----
+## Related News (2)
 
 ### [Andy Burnham urged to set dementia waiting-time target](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tdk9ldFE1NHdpcnhZX3AxaVY4Vmg0b3licG9yVk1kWF9fSHZfWXRNdEkxa0EwZjZHM3kzYThrdDRGLUc5aDVwcjlGTEtYWVVQeXBLSldYcHpsSmhGNGc?oc=5)
 
@@ -61,7 +53,7 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tdk9ldFE1NHdpc
 
 ### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
 
-2026-09-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">CKD</span>
+2026-09-13 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
 

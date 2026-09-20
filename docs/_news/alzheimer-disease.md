@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 2 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (3)
-
-### [Human Evolution May Be Slowly Selecting Against One Alzheimer's Gene](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9hS3JsQTZSVWJQWk40ZUU2UnFHNmVTVkNUMDMzOXAwZnl4LVpsSXpXdTc0am9jTUU5SzN5bU5tZ3lWaUo2YWtLUWtBZG1oLWk2MHM4eHpPUTAtWTFiUm84aG5Ud2c4Y2RpMGlFMjhnVWxnTkpBUzJwWmlmdHM0WDdLRzhGOGlKYkpSZHJYTE9aSGlBRnlhRnNENWQ?oc=5)
-
-2026-09-19
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9hS3JsQTZSVWJQWk40ZUU2UnFHNmVTVkNUMDMzOXAwZnl4LVpsSXpXdTc0am9jTUU5SzN5bU5tZ3lWaUo2YWtLUWtBZG1oLWk2MHM4eHpPUTAtWTFiUm84aG5Ud2c4Y2RpMGlFMjhnVWxnTkpBUzJwWmlmdHM0WDdLRzhGOGlKYkpSZHJYTE9aSGlBRnlhRnNENWQ?oc=5)
-
----
+## Related News (2)
 
 ### [Andy Burnham urged to set dementia waiting-time target](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tdk9ldFE1NHdpcnhZX3AxaVY4Vmg0b3licG9yVk1kWF9fSHZfWXRNdEkxa0EwZjZHM3kzYThrdDRGLUc5aDVwcjlGTEtYWVVQeXBLSldYcHpsSmhGNGc?oc=5)
 

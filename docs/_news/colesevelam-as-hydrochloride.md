@@ -66,13 +66,13 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95c
 
 2026-09-18 <span class="news-indication-tag">diabete</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYWRITEk2eG55RGFGVVlNQXRRZkpqY293eTJjTnlGb2NnMWVnME5YYWRVZzU1ck1na3M3TlpTMURaY1VKMmN0a0dzWk1BNFUzVnMzRGZfWDZMQk5taHRwdUlLNVZHUWRwYkNpVVZlVkRSSTI4VWR1UmJMeXpXRW9FY25aUlJsdXlBcUdrRURqZjdjQTVucjlsMk9lZzBEa2otdlhrRno0dGV3N0F3MV82MkFiN1BSZEZXNEpab2t6RnExaloyVElaYkNzVHpOQ01YeUxUdXBuUXhDekNZcVJLVnRubw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYWRITEk2eG55RGFGVVlNQXRRZkpqY293eTJjTnlGb2NnMWVnME5YYWRVZzU1ck1na3M3TlpTMURaY1VKMmN0a0dzWk1BNFUzVnMzRGZfWDZMQk5taHRwdUlLNVZHUWRwYkNpVVZlVkRSSTI4VWR1UmJMeXpXRW9FY25aUlJsdXlBcUdrRURqZjdjQTVucjlsMk9lZzBEa2otdlhrRno0dGV3N0F3MV82MkFiN1BSZEZXNEpab2t6RnExaloyVElaYkNzVHpOQ01YeUxUdXBuUXhDekNZcVJLVnRubw?oc=5)
 
 ---
 
 ### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
-2026-09-18 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">cardiovascular disease</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
@@ -82,7 +82,7 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU0
 
 2026-09-18 <span class="news-indication-tag">diabete</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
 
 ---
 

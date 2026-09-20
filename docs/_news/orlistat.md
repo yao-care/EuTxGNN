@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (15)
 
 ### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
 
-2026-09-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-09-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+
+---
+
+### [Fettleber: Mittelmeerkost senkt MASLD-Risiko um 14 Prozent](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUVidjdsV2Y0TG1Sd0F2Sk9oZTZJcXBUZ3lNR0lhUzBSRmQyUUVGSzVsYVpyelEtcU1ZTDVHenNoVEVHLVBSQXlMT1RzOV9iQnVZTDg4V2RZVmkxS0NrUkVlUXhqLUR5YlllTXVPV2lDZU9ZZnNXLWI0RU5TYURBMFM3cXpEQlM4QUlYLQ?oc=5)
+
+2026-09-19 <span class="news-indication-tag">Adipositas</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUVidjdsV2Y0TG1Sd0F2Sk9oZTZJcXBUZ3lNR0lhUzBSRmQyUUVGSzVsYVpyelEtcU1ZTDVHenNoVEVHLVBSQXlMT1RzOV9iQnVZTDg4V2RZVmkxS0NrUkVlUXhqLUR5YlllTXVPV2lDZU9ZZnNXLWI0RU5TYURBMFM3cXpEQlM4QUlYLQ?oc=5)
+
+---
+
+### [AVC à 54 ans : les médecins alertent sur 2 boissons du soir à ne jamais boire avant de dormir - Le Tribunal du Net](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmRXOW5PaEtGZHMwSmMxQktKQVA2UkN6aFNoTnBLVmpOdm9xUXltNDZxY2s3NlcyeHBkMG5KdXZvTzV3ZldxOFNnUmZoVHpUZ1NMTzUxQ0JqNGpfcnF5aDJTRm5WbXVubldQZFU0SVlNckk3YmI3blFKemFCYVBkUQ?oc=5)
+
+2026-09-19 <span class="news-indication-tag">AVC</span>
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmRXOW5PaEtGZHMwSmMxQktKQVA2UkN6aFNoTnBLVmpOdm9xUXltNDZxY2s3NlcyeHBkMG5KdXZvTzV3ZldxOFNnUmZoVHpUZ1NMTzUxQ0JqNGpfcnF5aDJTRm5WbXVubldQZFU0SVlNckk3YmI3blFKemFCYVBkUQ?oc=5)
 
 ---
 
@@ -70,11 +86,19 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95c
 
 ---
 
+### [Investigadores españoles descubren cómo frenar el daño hepático provocado por la obesidad](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZyajFPeHlyblloZFp4OTMzZEUyb2pyVDVtSUxudWIxNmtvWFpiN2pXOV9lVkllOWdqM2l4bDdJdl90MTMxUjN5NnhBWHJ4VTJmemFCcjVCODBwSUxOckIxR0J4c1BqYnZRVlNfQjBNejB0M1BzZ3ZJdE5OTHJGWV9xV1dlQ1lWdXlkd25lMlJTZkhxS0o4TkhPNC1IRUVoOWhudkpUd1Y0b2pTMUdvalhoaWNJQdIBuwFBVV95cUxPWGwxb2QzUW14TFlVRUFBNWI1RWM0V0pSbEU2eXFhaFFkOHo5czZoSk4tVS1YVmhOcndrRGR1Qkg4VVRKdzJUNktuYVc5R3FFVkhyamgwSXZPYkVMZlMwRjl3ZjRGSnhvcXlhVTEyUFhYZjZudWdrdm5BU0dBcVVzQk9sb2lraTdTOWhIcVZxcFZUSU5OczBWVUFwVEZVckhXN3ZoQ0ZUTkhJUlVybzZidDdrNVlFdEoxSEY4?oc=5)
+
+2026-09-19 <span class="news-indication-tag">obesidad</span>
+
+Source: [OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZyajFPeHlyblloZFp4OTMzZEUyb2pyVDVtSUxudWIxNmtvWFpiN2pXOV9lVkllOWdqM2l4bDdJdl90MTMxUjN5NnhBWHJ4VTJmemFCcjVCODBwSUxOckIxR0J4c1BqYnZRVlNfQjBNejB0M1BzZ3ZJdE5OTHJGWV9xV1dlQ1lWdXlkd25lMlJTZkhxS0o4TkhPNC1IRUVoOWhudkpUd1Y0b2pTMUdvalhoaWNJQdIBuwFBVV95cUxPWGwxb2QzUW14TFlVRUFBNWI1RWM0V0pSbEU2eXFhaFFkOHo5czZoSk4tVS1YVmhOcndrRGR1Qkg4VVRKdzJUNktuYVc5R3FFVkhyamgwSXZPYkVMZlMwRjl3ZjRGSnhvcXlhVTEyUFhYZjZudWdrdm5BU0dBcVVzQk9sb2lraTdTOWhIcVZxcFZUSU5OczBWVUFwVEZVckhXN3ZoQ0ZUTkhJUlVybzZidDdrNVlFdEoxSEY4?oc=5)
+
+---
+
 ### [Sopravvive all’attacco di una tigre ma il morso al collo le provoca un ictus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
 
 2026-09-18 <span class="news-indication-tag">ictus</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
 
 ---
 
@@ -126,19 +150,19 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE
 
 ---
 
+### [Un nouvel implant contre l’apnée du sommeil testé à Montpellier - 20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
+
+2026-09-17 <span class="news-indication-tag">obésité</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
+
+---
+
 ### [Adipositas: Semaglutid ohne erhöhte Risiken bei gebrechlichen Menschen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
 
 2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
-
----
-
-### [Première au CHU de Montpellier : un implant innovant contre l'apnée du sommeil posé sur un malade](https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2dDenVwWVdPbmpjRXRVNUpNYnMxd2ZVcm1uTVlIOHRjQU9ZR21NWlhMZWh4RjdqV2VvV0puQ0xVSjRFRmNRbDN1c3RLVlUwYUhKN3BHWHNaZXJOV045UW9YZ0toV1pwMDlqY3FoTEplSGtXOXBwUEJBLU5vR2VPSnBRZndKRTQxaTUyelVzR1hWZmtSV3N3dmk4T18yQzA4djd1eDVOSXhhTm0yUi1HaU1Ja3UzUTY5cHc1UEQ1UExIQmNWSV9RWlFnMzRObllZdmxJM1JYNHpIbllBWmVpVWM1YVFOdUhL?oc=5)
-
-2026-09-17 <span class="news-indication-tag">obésité</span>
-
-Source: [Actu.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2dDenVwWVdPbmpjRXRVNUpNYnMxd2ZVcm1uTVlIOHRjQU9ZR21NWlhMZWh4RjdqV2VvV0puQ0xVSjRFRmNRbDN1c3RLVlUwYUhKN3BHWHNaZXJOV045UW9YZ0toV1pwMDlqY3FoTEplSGtXOXBwUEJBLU5vR2VPSnBRZndKRTQxaTUyelVzR1hWZmtSV3N3dmk4T18yQzA4djd1eDVOSXhhTm0yUi1HaU1Ja3UzUTY5cHc1UEQ1UExIQmNWSV9RWlFnMzRObllZdmxJM1JYNHpIbllBWmVpVWM1YVFOdUhL?oc=5)
 
 ---
 

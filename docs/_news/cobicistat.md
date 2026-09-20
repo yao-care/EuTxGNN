@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Cobicistat with the latest h
 
 ## Related News (1)
 
-### [Disminuye cobertura vacunal en países de la Unión Europea: estudio en The Lancet - La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+### [La razón por la que Europa vigila ahora sus tasas de vacunación infantil](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlIaWpSUnJ6V3FDMlAyQkNuUDlyZ3F2Q3lDQVVubFNyd21ZRGFvVG1rWDZJU1hEVGZuVXRVcFljbGNMbWJpUWpoOUU3TklocEtBb0hEb0RuaFV6bW9PZnh3cXVtcU90aWhRLXFyelJTVGtva0djYmRtdUJzOFhoenVSbGUwSlhTUXpQWkZtcldyalpfY2pLdzFJeWZhNzBud2NQckJkY0xDQk1sSk5xZnBWQVJhd0w5cGhOT0Itaw?oc=5)
 
-2026-09-18 <span class="news-indication-tag">hepatitis</span>
+2026-09-19 <span class="news-indication-tag">hepatitis</span>
 
-Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1nN0pDSVM2N0tWVUFOMVE3ZC00NlhRaXdRN0p2ZjM2UXJ0MHZZd1J4U0NnSnVwbnViWWQzQUdYbzhWWVIxcjFubUZWMmtmeW1PMGFqemdDcDhIY0EwZFljdFJTNnc5Xy1LUkhqa2t2dVVvbkhpTGpqbmhzZzhDUzN6WXNsUGNqY25tUkd0OTRKLUVYSlhEVmNrdGxlYmFYM0gzLWxDZ0kzSEk?oc=5)
+Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlIaWpSUnJ6V3FDMlAyQkNuUDlyZ3F2Q3lDQVVubFNyd21ZRGFvVG1rWDZJU1hEVGZuVXRVcFljbGNMbWJpUWpoOUU3TklocEtBb0hEb0RuaFV6bW9PZnh3cXVtcU90aWhRLXFyelJTVGtva0djYmRtdUJzOFhoenVSbGUwSlhTUXpQWkZtcldyalpfY2pLdzFJeWZhNzBud2NQckJkY0xDQk1sSk5xZnBWQVJhd0w5cGhOT0Itaw?oc=5)
 
 ---
 

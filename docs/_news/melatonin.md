@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Melatonin</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Fettleber: Mittelmeerkost senkt MASLD-Risiko um 14 Prozent](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUVidjdsV2Y0TG1Sd0F2Sk9oZTZJcXBUZ3lNR0lhUzBSRmQyUUVGSzVsYVpyelEtcU1ZTDVHenNoVEVHLVBSQXlMT1RzOV9iQnVZTDg4V2RZVmkxS0NrUkVlUXhqLUR5YlllTXVPV2lDZU9ZZnNXLWI0RU5TYURBMFM3cXpEQlM4QUlYLQ?oc=5)
+
+2026-09-19 <span class="news-indication-tag">Adipositas</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUVidjdsV2Y0TG1Sd0F2Sk9oZTZJcXBUZ3lNR0lhUzBSRmQyUUVGSzVsYVpyelEtcU1ZTDVHenNoVEVHLVBSQXlMT1RzOV9iQnVZTDg4V2RZVmkxS0NrUkVlUXhqLUR5YlllTXVPV2lDZU9ZZnNXLWI0RU5TYURBMFM3cXpEQlM4QUlYLQ?oc=5)
+
+---
+
+### [Investigadores españoles descubren cómo frenar el daño hepático provocado por la obesidad](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZyajFPeHlyblloZFp4OTMzZEUyb2pyVDVtSUxudWIxNmtvWFpiN2pXOV9lVkllOWdqM2l4bDdJdl90MTMxUjN5NnhBWHJ4VTJmemFCcjVCODBwSUxOckIxR0J4c1BqYnZRVlNfQjBNejB0M1BzZ3ZJdE5OTHJGWV9xV1dlQ1lWdXlkd25lMlJTZkhxS0o4TkhPNC1IRUVoOWhudkpUd1Y0b2pTMUdvalhoaWNJQdIBuwFBVV95cUxPWGwxb2QzUW14TFlVRUFBNWI1RWM0V0pSbEU2eXFhaFFkOHo5czZoSk4tVS1YVmhOcndrRGR1Qkg4VVRKdzJUNktuYVc5R3FFVkhyamgwSXZPYkVMZlMwRjl3ZjRGSnhvcXlhVTEyUFhYZjZudWdrdm5BU0dBcVVzQk9sb2lraTdTOWhIcVZxcFZUSU5OczBWVUFwVEZVckhXN3ZoQ0ZUTkhJUlVybzZidDdrNVlFdEoxSEY4?oc=5)
+
+2026-09-19 <span class="news-indication-tag">obesidad</span>
+
+Source: [OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZyajFPeHlyblloZFp4OTMzZEUyb2pyVDVtSUxudWIxNmtvWFpiN2pXOV9lVkllOWdqM2l4bDdJdl90MTMxUjN5NnhBWHJ4VTJmemFCcjVCODBwSUxOckIxR0J4c1BqYnZRVlNfQjBNejB0M1BzZ3ZJdE5OTHJGWV9xV1dlQ1lWdXlkd25lMlJTZkhxS0o4TkhPNC1IRUVoOWhudkpUd1Y0b2pTMUdvalhoaWNJQdIBuwFBVV95cUxPWGwxb2QzUW14TFlVRUFBNWI1RWM0V0pSbEU2eXFhaFFkOHo5czZoSk4tVS1YVmhOcndrRGR1Qkg4VVRKdzJUNktuYVc5R3FFVkhyamgwSXZPYkVMZlMwRjl3ZjRGSnhvcXlhVTEyUFhYZjZudWdrdm5BU0dBcVVzQk9sb2lraTdTOWhIcVZxcFZUSU5OczBWVUFwVEZVckhXN3ZoQ0ZUTkhJUlVybzZidDdrNVlFdEoxSEY4?oc=5)
+
+---
 
 ### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
 
@@ -78,19 +94,19 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE
 
 ---
 
+### [Un nouvel implant contre l’apnée du sommeil testé à Montpellier - 20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
+
+2026-09-17 <span class="news-indication-tag">obésité</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzl6bWRwbFk2OEtUaGN1dmZxV21Wbk5lY2Q0WGdIcTdCdHIyQXkwUGU5dW9pdmVzNXFneDFjQmtKWkZ0RUotejBHel91Y3REMDlVS0JHbElLcnZFZDlrYjFyMjFXRGVkWVd1UGJYUjZpdDMxLUVuTlpKYjZ4bmR0MWtHZmN0SFBzczdHQnRKOXo4RzhKdldaTFZYTXlqb3RSMUFOSnlTTm4wc1JQUENnZEZiQUJhb21Cdk9KSGt0ZmZKWDQwS25F?oc=5)
+
+---
+
 ### [Adipositas: Semaglutid ohne erhöhte Risiken bei gebrechlichen Menschen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
 
 2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
-
----
-
-### [Première au CHU de Montpellier : un implant innovant contre l'apnée du sommeil posé sur un malade](https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2dDenVwWVdPbmpjRXRVNUpNYnMxd2ZVcm1uTVlIOHRjQU9ZR21NWlhMZWh4RjdqV2VvV0puQ0xVSjRFRmNRbDN1c3RLVlUwYUhKN3BHWHNaZXJOV045UW9YZ0toV1pwMDlqY3FoTEplSGtXOXBwUEJBLU5vR2VPSnBRZndKRTQxaTUyelVzR1hWZmtSV3N3dmk4T18yQzA4djd1eDVOSXhhTm0yUi1HaU1Ja3UzUTY5cHc1UEQ1UExIQmNWSV9RWlFnMzRObllZdmxJM1JYNHpIbllBWmVpVWM1YVFOdUhL?oc=5)
-
-2026-09-17 <span class="news-indication-tag">obésité</span>
-
-Source: [Actu.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2dDenVwWVdPbmpjRXRVNUpNYnMxd2ZVcm1uTVlIOHRjQU9ZR21NWlhMZWh4RjdqV2VvV0puQ0xVSjRFRmNRbDN1c3RLVlUwYUhKN3BHWHNaZXJOV045UW9YZ0toV1pwMDlqY3FoTEplSGtXOXBwUEJBLU5vR2VPSnBRZndKRTQxaTUyelVzR1hWZmtSV3N3dmk4T18yQzA4djd1eDVOSXhhTm0yUi1HaU1Ja3UzUTY5cHc1UEQ1UExIQmNWSV9RWlFnMzRObllZdmxJM1JYNHpIbllBWmVpVWM1YVFOdUhL?oc=5)
 
 ---
 

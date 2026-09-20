@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Esketamine Hydrochloride?">
-<strong>Esketamine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Esketamine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Esketamine Hydrochloride wit
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Dépression périnatale : une souffrance qui touche une femme sur trois en Guadeloupe - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3dETG9lRW9aV0llOTFIUHBwWDI2RVdkQ2FmUkI0Q1laVk5mWjZZUGtzQzZVMERtZkM4cWdUdThxVER4T1lidHM4UFVfaloyemxvT3p1UjMtZTlfUmlrLTBlNjNrc0NUNHo5bklld1ZOWjluT3RCdk9GaW9oWldvamw0ZEZhRWxSOEZtTDFiRGdjTHRYSlRKclZsLXJzUHFfbWk4TVRoVG4zeEJQUXU2N3h2REVMVWl6MkdlR2xoRXF3ZkNBS2dWbHRpbTkzTUk?oc=5)
 
 2026-09-18 <span class="news-indication-tag">dépression</span>
 
 Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3dETG9lRW9aV0llOTFIUHBwWDI2RVdkQ2FmUkI0Q1laVk5mWjZZUGtzQzZVMERtZkM4cWdUdThxVER4T1lidHM4UFVfaloyemxvT3p1UjMtZTlfUmlrLTBlNjNrc0NUNHo5bklld1ZOWjluT3RCdk9GaW9oWldvamw0ZEZhRWxSOEZtTDFiRGdjTHRYSlRKclZsLXJzUHFfbWk4TVRoVG4zeEJQUXU2N3h2REVMVWl6MkdlR2xoRXF3ZkNBS2dWbHRpbTkzTUk?oc=5)
+
+---
+
+### [Antoni Ramos-Quiroga, psiquiatra: “La depresión también produce alteraciones en nuestro sistema digestivo, nuestra inmunidad y en el corazón” - La Vanguardia](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcnl6XzVkMFpvWEI1dHNTRVN4SnJMaDBaLUVZZlcyZEdWQjVLRnU1MEpQU0hjUlBZbUpqWTN2azUzdUVSaHFxal9jallYZm1fSndhV2F4M3RuenNJTGtadUJfa1I4dllMai1rMXNGVWprWm0zeDVsdFVIUUlISHpVb0VOSmJyZl8ycXBmZmV0NmxINWExbUZ1bjRsUTViMVFCbjhLYnJvdzRoQ09WeERKMFVNdHhwZGNDWUI4dWI3dVZGMWJON05qcmJnVFI3cVBBM0xxRlVMeU54UDdubGtDTm5rSEtqOC10MDFiZUVHbUFuNDJjUnN6UNIB_gFBVV95cUxPTlhSNUVFcDl2WGhFcExZU3dSZWRsRkd1cHlUeF9oLVpJcnZNRjJtVy13QnI2dVdaelR6RjFNYzVIMHZjYjhoVmQyeTBYc2JYRHM0NHZLS1p5NW9uMkpwVXg2LW5qczhzeFpWLTdZMk1QSHFzM3IxZjM1SDFkSWFiVHcxWGFLMS1iTWdUdU5Ba21XWnVWdENSX2twdGlBQURTeU1hSTBIQlZETGdaUjg1RUJ5MTU2b3Y1anIxX21YeHg0R1FIZTgzbGhfQnY1cHNlbTRHbS1wcjdFMEwxOFNydVlZaDdhX3Y4eDRRWUQ4ZHo2SlIzMzNoRU5lVm1pUQ?oc=5)
+
+2026-09-18 <span class="news-indication-tag">depresión</span>
+
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcnl6XzVkMFpvWEI1dHNTRVN4SnJMaDBaLUVZZlcyZEdWQjVLRnU1MEpQU0hjUlBZbUpqWTN2azUzdUVSaHFxal9jallYZm1fSndhV2F4M3RuenNJTGtadUJfa1I4dllMai1rMXNGVWprWm0zeDVsdFVIUUlISHpVb0VOSmJyZl8ycXBmZmV0NmxINWExbUZ1bjRsUTViMVFCbjhLYnJvdzRoQ09WeERKMFVNdHhwZGNDWUI4dWI3dVZGMWJON05qcmJnVFI3cVBBM0xxRlVMeU54UDdubGtDTm5rSEtqOC10MDFiZUVHbUFuNDJjUnN6UNIB_gFBVV95cUxPTlhSNUVFcDl2WGhFcExZU3dSZWRsRkd1cHlUeF9oLVpJcnZNRjJtVy13QnI2dVdaelR6RjFNYzVIMHZjYjhoVmQyeTBYc2JYRHM0NHZLS1p5NW9uMkpwVXg2LW5qczhzeFpWLTdZMk1QSHFzM3IxZjM1SDFkSWFiVHcxWGFLMS1iTWdUdU5Ba21XWnVWdENSX2twdGlBQURTeU1hSTBIQlZETGdaUjg1RUJ5MTU2b3Y1anIxX21YeHg0R1FIZTgzbGhfQnY1cHNlbTRHbS1wcjdFMEwxOFNydVlZaDdhX3Y4eDRRWUQ4ZHo2SlIzMzNoRU5lVm1pUQ?oc=5)
 
 ---
 
