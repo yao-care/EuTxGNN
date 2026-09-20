@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Dépression périnatale : une souffrance qui touche une femme sur trois en Guadeloupe - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3dETG9lRW9aV0llOTFIUHBwWDI2RVdkQ2FmUkI0Q1laVk5mWjZZUGtzQzZVMERtZkM4cWdUdThxVER4T1lidHM4UFVfaloyemxvT3p1UjMtZTlfUmlrLTBlNjNrc0NUNHo5bklld1ZOWjluT3RCdk9GaW9oWldvamw0ZEZhRWxSOEZtTDFiRGdjTHRYSlRKclZsLXJzUHFfbWk4TVRoVG4zeEJQUXU2N3h2REVMVWl6MkdlR2xoRXF3ZkNBS2dWbHRpbTkzTUk?oc=5)
 
 2026-09-18 <span class="news-indication-tag">dépression</span>
 
 Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3dETG9lRW9aV0llOTFIUHBwWDI2RVdkQ2FmUkI0Q1laVk5mWjZZUGtzQzZVMERtZkM4cWdUdThxVER4T1lidHM4UFVfaloyemxvT3p1UjMtZTlfUmlrLTBlNjNrc0NUNHo5bklld1ZOWjluT3RCdk9GaW9oWldvamw0ZEZhRWxSOEZtTDFiRGdjTHRYSlRKclZsLXJzUHFfbWk4TVRoVG4zeEJQUXU2N3h2REVMVWl6MkdlR2xoRXF3ZkNBS2dWbHRpbTkzTUk?oc=5)
-
----
-
-### [Reconciling the neurogenic hypothesis of depression with recent advances in adult hippocampal neurogenesis research in humans](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
-
-2026-09-17 <span class="news-indication-tag">depression</span>
-
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 ---
 

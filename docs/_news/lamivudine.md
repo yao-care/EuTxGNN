@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Lamivudine with the latest h
 
 ## Related News (1)
 
-### [La razón por la que Europa vigila ahora sus tasas de vacunación infantil](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlIaWpSUnJ6V3FDMlAyQkNuUDlyZ3F2Q3lDQVVubFNyd21ZRGFvVG1rWDZJU1hEVGZuVXRVcFljbGNMbWJpUWpoOUU3TklocEtBb0hEb0RuaFV6bW9PZnh3cXVtcU90aWhRLXFyelJTVGtva0djYmRtdUJzOFhoenVSbGUwSlhTUXpQWkZtcldyalpfY2pLdzFJeWZhNzBud2NQckJkY0xDQk1sSk5xZnBWQVJhd0w5cGhOT0Itaw?oc=5)
+### [La vacunación infantil pierde impulso en la mayoría de países de la UE tras décadas de avances](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FEMHVydUhpME1rZmNBeFBFLWRTcmVVdmdZSWhhMjF5cDhNSnMxZVU2X19QNDlCUTRQOVJYTkVaV1hFdnBRYzhoQmgzeC1FQVBvV1R4YWpmcS13WHFFbWI5a1RBWWp5RlJMUzFNWmtTY3g2djM1MTM0cHNJSUlpVU5IaXd4SlJzRXZTV0pYYmNLbUxpVzUwdU01N0tiblhlUENzZTFMOW1TZlJkSXRETi1tUU1STTR1enprWkNBREY?oc=5)
 
-2026-09-19 <span class="news-indication-tag">hepatitis</span>
+2026-09-20 <span class="news-indication-tag">hepatitis</span>
 
-Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlIaWpSUnJ6V3FDMlAyQkNuUDlyZ3F2Q3lDQVVubFNyd21ZRGFvVG1rWDZJU1hEVGZuVXRVcFljbGNMbWJpUWpoOUU3TklocEtBb0hEb0RuaFV6bW9PZnh3cXVtcU90aWhRLXFyelJTVGtva0djYmRtdUJzOFhoenVSbGUwSlhTUXpQWkZtcldyalpfY2pLdzFJeWZhNzBud2NQckJkY0xDQk1sSk5xZnBWQVJhd0w5cGhOT0Itaw?oc=5)
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FEMHVydUhpME1rZmNBeFBFLWRTcmVVdmdZSWhhMjF5cDhNSnMxZVU2X19QNDlCUTRQOVJYTkVaV1hFdnBRYzhoQmgzeC1FQVBvV1R4YWpmcS13WHFFbWI5a1RBWWp5RlJMUzFNWmtTY3g2djM1MTM0cHNJSUlpVU5IaXd4SlJzRXZTV0pYYmNLbUxpVzUwdU01N0tiblhlUENzZTFMOW1TZlJkSXRETi1tUU1STTR1enprWkNBREY?oc=5)
 
 ---
 

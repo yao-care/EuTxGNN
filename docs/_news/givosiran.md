@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Bluthochdruck: Nüsse senken das Risiko nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
 
 2026-09-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
+Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
 
 ---
 
-### [La razón por la que Europa vigila ahora sus tasas de vacunación infantil](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlIaWpSUnJ6V3FDMlAyQkNuUDlyZ3F2Q3lDQVVubFNyd21ZRGFvVG1rWDZJU1hEVGZuVXRVcFljbGNMbWJpUWpoOUU3TklocEtBb0hEb0RuaFV6bW9PZnh3cXVtcU90aWhRLXFyelJTVGtva0djYmRtdUJzOFhoenVSbGUwSlhTUXpQWkZtcldyalpfY2pLdzFJeWZhNzBud2NQckJkY0xDQk1sSk5xZnBWQVJhd0w5cGhOT0Itaw?oc=5)
+### [La vacunación infantil pierde impulso en la mayoría de países de la UE tras décadas de avances](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FEMHVydUhpME1rZmNBeFBFLWRTcmVVdmdZSWhhMjF5cDhNSnMxZVU2X19QNDlCUTRQOVJYTkVaV1hFdnBRYzhoQmgzeC1FQVBvV1R4YWpmcS13WHFFbWI5a1RBWWp5RlJMUzFNWmtTY3g2djM1MTM0cHNJSUlpVU5IaXd4SlJzRXZTV0pYYmNLbUxpVzUwdU01N0tiblhlUENzZTFMOW1TZlJkSXRETi1tUU1STTR1enprWkNBREY?oc=5)
 
-2026-09-19 <span class="news-indication-tag">hepatitis</span>
+2026-09-20 <span class="news-indication-tag">hepatitis</span>
 
-Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlIaWpSUnJ6V3FDMlAyQkNuUDlyZ3F2Q3lDQVVubFNyd21ZRGFvVG1rWDZJU1hEVGZuVXRVcFljbGNMbWJpUWpoOUU3TklocEtBb0hEb0RuaFV6bW9PZnh3cXVtcU90aWhRLXFyelJTVGtva0djYmRtdUJzOFhoenVSbGUwSlhTUXpQWkZtcldyalpfY2pLdzFJeWZhNzBud2NQckJkY0xDQk1sSk5xZnBWQVJhd0w5cGhOT0Itaw?oc=5)
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FEMHVydUhpME1rZmNBeFBFLWRTcmVVdmdZSWhhMjF5cDhNSnMxZVU2X19QNDlCUTRQOVJYTkVaV1hFdnBRYzhoQmgzeC1FQVBvV1R4YWpmcS13WHFFbWI5a1RBWWp5RlJMUzFNWmtTY3g2djM1MTM0cHNJSUlpVU5IaXd4SlJzRXZTV0pYYmNLbUxpVzUwdU01N0tiblhlUENzZTFMOW1TZlJkSXRETi1tUU1STTR1enprWkNBREY?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlIaWp
 2026-09-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
-
----
-
-### [Bluthochdruck: Salzersatz senkt Risiko um 40 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1gzbzVHUGJPWnVSWHVNVV9ya3JSZ2ZYa1hDMWF4RUh3VlYtTks1QkVORFJGUFVrSW5Qd3RHeTV3S0dSbXJIVEdubVhKZUtPeVE2eUU5bHdwODgwWEJDbVJCM3k3MW9pOHhKU3prNmJ4N29MbS1MX1BKMjZOSl96cDhFa2ZXcGx3WkpnbExEQktMdTJFQjhQTFF3bXRtZk5pRmc?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1gzbzVHUGJPWnVSWHVNVV9ya3JSZ2ZYa1hDMWF4RUh3VlYtTks1QkVORFJGUFVrSW5Qd3RHeTV3S0dSbXJIVEdubVhKZUtPeVE2eUU5bHdwODgwWEJDbVJCM3k3MW9pOHhKU3prNmJ4N29MbS1MX1BKMjZOSl96cDhFa2ZXcGx3WkpnbExEQktMdTJFQjhQTFF3bXRtZk5pRmc?oc=5)
 
 ---
 

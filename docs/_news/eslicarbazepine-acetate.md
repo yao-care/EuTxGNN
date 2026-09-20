@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Eslicarbazepine Acetate?">
-<strong>Eslicarbazepine Acetate</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Eslicarbazepine Acetate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -46,27 +46,19 @@ This page combines the AI-predicted indications for Eslicarbazepine Acetate with
 <li>reading seizures (96.9%)</li>
 <li>trigeminal nerve neoplasm (95.9%)</li>
 <li>partial motor epilepsy (95.3%)</li>
-<li class="indication-matched">epilepsy (92.4%)<span class="indication-tag">📰 Epilepsie</span></li>
+<li class="indication-matched">epilepsy (92.4%)<span class="indication-tag">📰 epilepsy</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Call for all schools to get epilepsy training](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QU4zT0U4ZWEzUWFjaFBNRF9kdU1lcFk2cWNfa0h0OXdtZG10aExtSVJhcE56eWNlb21nSUZ2VmJhc3FEbGYzVG5CbmxvRk1aclJLU1Z1NmNOdlAz?oc=5)
 
 2026-09-19 <span class="news-indication-tag">epilepsy</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QU4zT0U4ZWEzUWFjaFBNRF9kdU1lcFk2cWNfa0h0OXdtZG10aExtSVJhcE56eWNlb21nSUZ2VmJhc3FEbGYzVG5CbmxvRk1aclJLU1Z1NmNOdlAz?oc=5)
-
----
-
-### [Epilepsie im Kindesalter: PET/MRT verbessert die präoperative Diagnostik - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUlKQXBjNmxpRVpVV1pKa0J2RVdhLTktV0VuVll3ZHFJdnlLSExLYkptbE5UU2FBd0M3OUZMOG9rcy1ua3BMWVBCVUNzTy1pMUgtNWxiUGg2U2VmbFJ4WUZhUkNYeGp5REdzaGs0MFNZYkdERV9IUTJhcEE3cW1pN0ZKWGFmSEVkM1d2N2Z5Ulc1eU02MEhsc0UwYTlsbThiRzVV?oc=5)
-
-2026-09-17 <span class="news-indication-tag">Epilepsie</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUlKQXBjNmxpRVpVV1pKa0J2RVdhLTktV0VuVll3ZHFJdnlLSExLYkptbE5UU2FBd0M3OUZMOG9rcy1ua3BMWVBCVUNzTy1pMUgtNWxiUGg2U2VmbFJ4WUZhUkNYeGp5REdzaGs0MFNZYkdERV9IUTJhcEE3cW1pN0ZKWGFmSEVkM1d2N2Z5Ulc1eU02MEhsc0UwYTlsbThiRzVV?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cenobamate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cenobamate?">
-<strong>Cenobamate</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Cenobamate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -45,28 +45,20 @@ This page combines the AI-predicted indications for Cenobamate with the latest h
 <li>epilepsy with generalized tonic-clonic seizures (94.2%)</li>
 <li>partial motor epilepsy (93.4%)</li>
 <li>trigeminal nerve neoplasm (91.2%)</li>
-<li class="indication-matched">epilepsy (90.7%)<span class="indication-tag">📰 Epilepsie</span></li>
+<li class="indication-matched">epilepsy (90.7%)<span class="indication-tag">📰 epilepsy</span></li>
 <li>restless legs syndrome (87.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Call for all schools to get epilepsy training](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QU4zT0U4ZWEzUWFjaFBNRF9kdU1lcFk2cWNfa0h0OXdtZG10aExtSVJhcE56eWNlb21nSUZ2VmJhc3FEbGYzVG5CbmxvRk1aclJLU1Z1NmNOdlAz?oc=5)
 
 2026-09-19 <span class="news-indication-tag">epilepsy</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QU4zT0U4ZWEzUWFjaFBNRF9kdU1lcFk2cWNfa0h0OXdtZG10aExtSVJhcE56eWNlb21nSUZ2VmJhc3FEbGYzVG5CbmxvRk1aclJLU1Z1NmNOdlAz?oc=5)
-
----
-
-### [Epilepsie im Kindesalter: PET/MRT verbessert die präoperative Diagnostik - Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUlKQXBjNmxpRVpVV1pKa0J2RVdhLTktV0VuVll3ZHFJdnlLSExLYkptbE5UU2FBd0M3OUZMOG9rcy1ua3BMWVBCVUNzTy1pMUgtNWxiUGg2U2VmbFJ4WUZhUkNYeGp5REdzaGs0MFNZYkdERV9IUTJhcEE3cW1pN0ZKWGFmSEVkM1d2N2Z5Ulc1eU02MEhsc0UwYTlsbThiRzVV?oc=5)
-
-2026-09-17 <span class="news-indication-tag">Epilepsie</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUlKQXBjNmxpRVpVV1pKa0J2RVdhLTktV0VuVll3ZHFJdnlLSExLYkptbE5UU2FBd0M3OUZMOG9rcy1ua3BMWVBCVUNzTy1pMUgtNWxiUGg2U2VmbFJ4WUZhUkNYeGp5REdzaGs0MFNZYkdERV9IUTJhcEE3cW1pN0ZKWGFmSEVkM1d2N2Z5Ulc1eU02MEhsc0UwYTlsbThiRzVV?oc=5)
 
 ---
 

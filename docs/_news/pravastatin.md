@@ -14,7 +14,7 @@ permalink: /news/pravastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pravastatin?">
-<strong>Pravastatin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Pravastatin</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Pravastatin with the latest 
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [People taking common cholesterol medication pravastatin advised by NHS over late-night symptom - The Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxOenUyNVJ5Z2xXYnowbVJ5V3RKUzBpekhodm01Z0Ita0V1SnZfX2pzNU1IUWV0WGJmRWUwLVBaLTZOVFhiMzhzUWZZU2FkeTV5aExzZ1p4TXNRUlE3aTU3eU1rMVIzNGc5TERjc1ZGVjhYUjdVOFZxOWdXQ21hZm9JMm1yek9tdDd1c1hLcTNTU0UwNUQtQ19GQWJR0gGfAUFVX3lxTE9RRllKdVJXSFNnaDUxcm8tUzdPX2lIRmlyZVRrcjZQaHNYSzdzb3ZtYk96Yk5PYU5ucXctVzdxWUFJbVB5R09LaVRJU2p4anJLWmpOaHNOa3FGdFhNZWJYNk1zU3p3bEo4U0RSQ05nbi1JOGotR05XbzloNlYwcF9ZMXNqSzRfYzhNdUl3Wk0xSUJwQmd3dERiZm1vaXhEdw?oc=5)
+
+2026-09-20 <span class="news-drug-tag">Pravastatin</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxOenUyNVJ5Z2xXYnowbVJ5V3RKUzBpekhodm01Z0Ita0V1SnZfX2pzNU1IUWV0WGJmRWUwLVBaLTZOVFhiMzhzUWZZU2FkeTV5aExzZ1p4TXNRUlE3aTU3eU1rMVIzNGc5TERjc1ZGVjhYUjdVOFZxOWdXQ21hZm9JMm1yek9tdDd1c1hLcTNTU0UwNUQtQ19GQWJR0gGfAUFVX3lxTE9RRllKdVJXSFNnaDUxcm8tUzdPX2lIRmlyZVRrcjZQaHNYSzdzb3ZtYk96Yk5PYU5ucXctVzdxWUFJbVB5R09LaVRJU2p4anJLWmpOaHNOa3FGdFhNZWJYNk1zU3p3bEo4U0RSQ05nbi1JOGotR05XbzloNlYwcF9ZMXNqSzRfYzhNdUl3Wk0xSUJwQmd3dERiZm1vaXhEdw?oc=5)
+
+---
 
 
 <div class="disclaimer">
