@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Colesevelam (As Hydrochloride)?">
-<strong>Colesevelam (As Hydrochloride)</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Colesevelam (As Hydrochloride)</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Colesevelam (As Hydrochlorid
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Fettleber, Adipositas & Prädiabetes: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+---
+
+### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+---
 
 ### [Ictus, aumentano i casi nella fascia 20-54 anni: tra le cause ipertensione, diabete e abuso di sostanze - Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
 
@@ -70,11 +86,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYWRI
 
 ---
 
-### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
+### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show - The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
-2026-09-18 <span class="news-indication-tag">cardiovascular disease</span>
+2026-09-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU0
 2026-09-18 <span class="news-indication-tag">diabete</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzRSYW1USmJpLURRaFVXMXlocmVHa1R6ZnVuRm42V2x3S3Rwa3piUU9hbFZoYndrYlRDZDZpODhEdjBiWmpWMjc4cHkxckx5U1FiQWdiZVFMdXhEejZvVHhmdmt2SzRxaFhZYnZpVEN6RDh1UlZpMC1GN3RXUnVwYm5vd3hLYXlOQWZYM1g5MVYwSWxSc2xOdFIybWppU19ueEpnRGd1MC1wclp4RURiNFJjUTNWU1pYY19rekhzeTJoUnlnNm1MYUoxZktyYzRjVnBOMWZNQ3B6bkJxZm1ITnpsdkl1aXhIdEVLVUFrZFJYVUk4emtQdkh1MTdiMjg?oc=5)
-
----
-
-### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
-
-2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 
@@ -110,11 +118,19 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZ
 
 ---
 
-### [Older drivers diagnosed with one common illness at risk of ‘£1,000 DVLA fine’ - Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
+### [Cholesterol, weight, blood sugar and blood pressure drop with one food change](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
 
-2026-09-13 <span class="news-indication-tag">diabetes</span>
+2026-09-16 <span class="news-indication-tag">cardiovascular disease</span>
 
-Source: [Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJVSW9yR0psd2k1Ylc2Q21JNjczMXNtd0paMGQ2dVpDSlJ4TmJ5V1dwQkI1V2cwWWU2allZTnctWFdTVUhfU1VrcUJMdGM4dzA5by1HVzhkdDRSU29HU1RlZ2ZqT0R4SEM3R0hpYVZTQ0VxbGdSUmU3TmQzekN5MVF4TWo2bjlS0gGOAUFVX3lxTE8yQVhONUlwajN1MFRrTjhhYlg1Yk41bUhlblZOdmhNWnN6Wjg4dWlvOXd1cHlDSTBQSmE2TlFWeUtSa3lyVEtBUmduV2F5a2xIblBCSGZWdTJEX3hLVW5EYW1qV3JDLVNWWmFBS3FXY0JORW1fdjBRSTE2Ykwtal8tbWVkV1phZGpqMGswLVE?oc=5)
+Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+---
+
+### [Statine bei Typ-2-Diabetes: Geringeres Demenzrisiko?](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
+
+2026-09-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXdyTUZsMjJUVVFSaXJha19vWWNINXF4N3dXWnNNTjNFNG9Bbk9ieW1RZEZCbmJpcUhKLTAwWlhFNnhPZzdHQjN3TXlHNENYemdGQ1FRdlJsUDlNa2todUV1Y0VBRFNYSFB2YXpxRk9CWTB1Yk9md3plbF9FbVV5Y0pMZlhQaW1LNTZmVnJaYw?oc=5)
 
 ---
 

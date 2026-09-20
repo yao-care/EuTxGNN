@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 
 ## Related News (6)
 
+### [Fettleber, Adipositas & Prädiabetes: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+---
+
 ### [Fettleber: Mittelmeerkost senkt MASLD-Risiko um 14 Prozent](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUVidjdsV2Y0TG1Sd0F2Sk9oZTZJcXBUZ3lNR0lhUzBSRmQyUUVGSzVsYVpyelEtcU1ZTDVHenNoVEVHLVBSQXlMT1RzOV9iQnVZTDg4V2RZVmkxS0NrUkVlUXhqLUR5YlllTXVPV2lDZU9ZZnNXLWI0RU5TYURBMFM3cXpEQlM4QUlYLQ?oc=5)
 
 2026-09-19 <span class="news-indication-tag">Adipositas</span>
@@ -75,14 +83,6 @@ Source: [OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZyajFP
 2026-09-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
-
----
-
-### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
-
-2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 

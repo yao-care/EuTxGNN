@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Cariprazine Hydrochloride?">
-<strong>Cariprazine Hydrochloride</strong> currently has <strong>17 news articles</strong>, with 0 predicted indications.
+<strong>Cariprazine Hydrochloride</strong> currently has <strong>24 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,45 @@ This page combines the AI-predicted indications for Cariprazine Hydrochloride wi
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (24)
 
-### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+### [Fettleber, Adipositas & Prädiabetes: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
 
-2026-09-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+---
+
+### [La RDC inicia la vacunación contra el ébola entre sanitarios de primera línea en Bunia](https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2o0RnBIWWp3azNRWUJsbTlTOUoyeFdEeF9HMEY4Y29XbU9VZmEyYjUxalRkeUFQWEVsaEJ1Ui02WkFWSnNPRmh2bmsxU2IwV1FKdTkzMEFvZTVmXzZqUVRJMDdYUEw0Y3pXQTM0Ykl2ZXd4MFJlWjVwRzVMbUVlV1FVUkk0NFJIRVI5Qnl4WFVMT1BBbWZrWlFRQ3MxRkRRQkE?oc=5)
+
+2026-09-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2o0RnBIWWp3azNRWUJsbTlTOUoyeFdEeF9HMEY4Y29XbU9VZmEyYjUxalRkeUFQWEVsaEJ1Ui02WkFWSnNPRmh2bmsxU2IwV1FKdTkzMEFvZTVmXzZqUVRJMDdYUEw0Y3pXQTM0Ykl2ZXd4MFJlWjVwRzVMbUVlV1FVUkk0NFJIRVI5Qnl4WFVMT1BBbWZrWlFRQ3MxRkRRQkE?oc=5)
+
+---
+
+### [La inmunoterapia emerge como vía potencial frente a la esclerosis múltiple](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGtQVGRrcVNFVE15bFNyeXZNOUtYQl80Nnc4WHBoaVpEbldJUzB1d09VSHpyMUFsT3lYNEhlanBtbTB2SkxMSWE1cUd6eFpseFVHcW5tcE15RzhNbWZXUHpjMHh3WmxxTERCeGZYd1NneXcxTjlvVHpiSV95NE9hZjhOWko4QVFWdU1BdXRORmdVSXNoa0gwSk8zRGJ0ZGd4R0preEl3?oc=5)
+
+2026-09-20 <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGtQVGRrcVNFVE15bFNyeXZNOUtYQl80Nnc4WHBoaVpEbldJUzB1d09VSHpyMUFsT3lYNEhlanBtbTB2SkxMSWE1cUd6eFpseFVHcW5tcE15RzhNbWZXUHpjMHh3WmxxTERCeGZYd1NneXcxTjlvVHpiSV95NE9hZjhOWko4QVFWdU1BdXRORmdVSXNoa0gwSk8zRGJ0ZGd4R0preEl3?oc=5)
+
+---
+
+### [Why your dreams feel like a ‘horror movie’ when you take magnesium supplements](https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUl4ak4xdDkxaDEyYlJ1WENaNkJpVS1NMWNxRmVzcUdyZ2J0MktObmxvS0ExdDF2UGlLTC1Qckg1d2VJVjNDRGFzMDRubUd0NUxVRk1nR1NnUjdBd2ktV0dVQjUzVnRDd0YtQ1ZaclRVcmNTbFJ0NWtURW1ib1NMaXBHNzBuQlk4TDFYU0h5RHo2R1hvakxVd010d3Z6anRQ?oc=5)
+
+2026-09-20 <span class="news-indication-tag">MS</span>
+
+Source: [Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUl4ak4xdDkxaDEyYlJ1WENaNkJpVS1NMWNxRmVzcUdyZ2J0MktObmxvS0ExdDF2UGlLTC1Qckg1d2VJVjNDRGFzMDRubUd0NUxVRk1nR1NnUjdBd2ktV0dVQjUzVnRDd0YtQ1ZaclRVcmNTbFJ0NWtURW1ib1NMaXBHNzBuQlk4TDFYU0h5RHo2R1hvakxVd010d3Z6anRQ?oc=5)
+
+---
+
+### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
 ---
 
@@ -45,6 +77,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNr
 2026-09-19 <span class="news-indication-tag">MS</span>
 
 Source: [Telepolis](https://news.google.com/rss/articles/CBMivgFBVV95cUxQczFuTWdKSEg0dzhvUjlqQzY5elVKWXNmZkNFU0xuY0F1cDlTQVpvN1BQUUZSd2x5bU9TMVMwa0VKR0toRTBNQ1FzWDN6S2Q2dW1PZnNJNlUyX04td2poY3FQMGduRmNOaWZPajhHOVplR0NPZTFtX3hfc0xqVXpRaHFzZWR1ZlZBWVJGMXRJckRNNk11MjVvanZIQmE4cXdUdmFmSVFkODdsLVhfM1djd0J6MGI3WGQ0R0ttUVF3?oc=5)
+
+---
+
+### [Vitamin K2: Studie zeigt Schutz vor Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlJLURtTUw5dm44Yk94VWtEaFZhWUlqTHlHcE9ZS091OGtuZ0J5RFIwR1N1X19Wb0toN0JnUTNkTV8wNHNjSVNybThneWN2ZXUtLTVxUDJIU3VqbW8tQXh5cUo3b3FLdGVGenJPSzJYNUxZX2FRbFZVRmxReEpQOW8yTUFXUzgyUzFmYUk2SXdjcGRtR1NlQ2hfMlVNN2tpOWo4?oc=5)
+
+2026-09-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlJLURtTUw5dm44Yk94VWtEaFZhWUlqTHlHcE9ZS091OGtuZ0J5RFIwR1N1X19Wb0toN0JnUTNkTV8wNHNjSVNybThneWN2ZXUtLTVxUDJIU3VqbW8tQXh5cUo3b3FLdGVGenJPSzJYNUxZX2FRbFZVRmxReEpQOW8yTUFXUzgyUzFmYUk2SXdjcGRtR1NlQ2hfMlVNN2tpOWo4?oc=5)
 
 ---
 
@@ -64,17 +104,9 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyM
 
 ---
 
-### [Scientists make significant brain breakthrough — and it could change how humans treat diseases - GB News](https://news.google.com/rss/articles/CBMidkFVX3lxTFBfQy1INXNyc01HQ1FyZVFaTWpKeVdHWnc4TFhSbWN6S0d3ZlpwNU5ad3V3dkpEbVhnNWxtdC01dHhGN0lCajJCT08tNUJHZVpKUGxMNXBBakZJSl9NWlFjZm5qRW5wVk9PTVM4RlV5TjRUdC1SdWc?oc=5)
-
-2026-09-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-Source: [GB News](https://news.google.com/rss/articles/CBMidkFVX3lxTFBfQy1INXNyc01HQ1FyZVFaTWpKeVdHWnc4TFhSbWN6S0d3ZlpwNU5ad3V3dkpEbVhnNWxtdC01dHhGN0lCajJCT08tNUJHZVpKUGxMNXBBakZJSl9NWlFjZm5qRW5wVk9PTVM4RlV5TjRUdC1SdWc?oc=5)
-
----
-
 ### [Les troubles neurocognitifs gagnent du terrain en Tunisie - Business News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXk2blFGNjduRGRndXcxZjNPTU0yZ0RlVHFLZVIxbTlPeFU0ajQtQWlyV09rQUFreTFLVkptUzVEWG9GVE1Ra0RXZkhiVkFoM0p5THJXNGZtWDJFLVg3TmRkY0pUVHMzME9menE4bGtla0wtbW1XNDFSQkVQcGRKTmFhU1A3cllBMXhjbFdYazROMEhsUC1JMFhiOS1MUUU1R0JUZG03LWxTbUl5TjBtOVhoSVh0QQ?oc=5)
 
-2026-09-18 <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Business News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXk2blFGNjduRGRndXcxZjNPTU0yZ0RlVHFLZVIxbTlPeFU0ajQtQWlyV09rQUFreTFLVkptUzVEWG9GVE1Ra0RXZkhiVkFoM0p5THJXNGZtWDJFLVg3TmRkY0pUVHMzME9menE4bGtla0wtbW1XNDFSQkVQcGRKTmFhU1A3cllBMXhjbFdYazROMEhsUC1JMFhiOS1MUUU1R0JUZG03LWxTbUl5TjBtOVhoSVh0QQ?oc=5)
 
@@ -82,9 +114,17 @@ Source: [Business News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXk
 
 ### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show - The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
-2026-09-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
+
+---
+
+### [Santé : l'épidémie de grippe continue de s'intensifier à La Réunion](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmpLMUVJOFFFVXRPNGp6OHlRVk5nOThrbjdyTzItcGlKWC04NHpreVB2NDlUbi1WZjRCZXlZU2ZGY1NJY0Q0S3V5aHpuRXJDSlFtbFZHSV9aRmwxRW91OWlnWlJsQUF0VEt3YzRBM0xRRUpZTmVWaFRDM1lYWVZGazFmYVdfaUJfNlhmeldmRC0wbWpqWjV1VE0xLThhb1BjdEptNkFtcGVOVnRIaGxN?oc=5)
+
+2026-09-18 <span class="news-indication-tag">MS</span>
+
+Source: [linfo.re](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmpLMUVJOFFFVXRPNGp6OHlRVk5nOThrbjdyTzItcGlKWC04NHpreVB2NDlUbi1WZjRCZXlZU2ZGY1NJY0Q0S3V5aHpuRXJDSlFtbFZHSV9aRmwxRW91OWlnWlJsQUF0VEt3YzRBM0xRRUpZTmVWaFRDM1lYWVZGazFmYVdfaUJfNlhmeldmRC0wbWpqWjV1VE0xLThhb1BjdEptNkFtcGVOVnRIaGxN?oc=5)
 
 ---
 
@@ -101,14 +141,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV9
 2026-09-18 <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVdsaENiVGlZQmJpdnZQYnBuRkswLWpOLUY3ZjdxUzVFWDF1VVJJdnJvZHMxaGJGMjN3VmJpWHlkZVVKQk5GLUg5WHNCVXRBVm9iN2hqRzZnZDE4VEVGNHh6U0Vwd1NNeEUwQ05iTDR5anppT2pHWmhXaGJwS0tlcGRwUWNCLTlTb05QUHlhTDh1d05sem5zNkhLX2xhanVLVF93azIzRmxNWGRrYTBVd2hmSWI?oc=5)
-
----
-
-### [Adipositas, Prädiabetes & Fettleber: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
-
-2026-09-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeG15WE1IUXkxdEhWSnpRQjBqRGszZXY4MlNtcGM3RWJUTzUteUN3aDdTVkhOUGRhZ2trbG03ajNFaGNTVVBVVjh1YzV3VzRoVGdXOUdyUGNhODM4Y0dDOG1mdGQxMlk3Mk1mVE5aZE12X2dFYjFsdV9lVk9tOXJ4MV9qUEFucV9MZHRfRXUzOHVxSERfR3loSE90Vm03UTMxYWRMWTFfdXRONm1iWWN5OXZ5UGwzVjljaGRTUGVjVWlUYjNRTUlYbzZYWGUtM2M?oc=5)
 
 ---
 
@@ -136,11 +168,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZ
 
 ---
 
-### [‘It is exciting’: Manitoba researchers find potential breakthrough for Multiple Sclerosis treatment](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE5KSEZ3c2FFbHA0V3BOQnV2MDh1TFlBZEp3Q0d0UTVoOWpONHZEdWR0dVp2ZDFvZjNtYXlKaWgzU2dCRkNBR05lR0ZqRTlzVXJPQ2RXVTVsUERWY2dBY25mVk1MRDcyaDM4VXVtMHZhS3E1ME9zWUFKOEhuQ19zazlxejNYODdXa0lTR1VnVEp0N3psOGFTVFhVS0VfS1E0SUVxMWktMnk0TllCNzhFQUV1c3ZpRmx4SXZiVEFVXzhBRG5MeXg1QTVlczBU?oc=5)
+### [‘It is exciting’: Manitoba researchers find potential breakthrough for Multiple Sclerosis treatment - CTV News](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE5KSEZ3c2FFbHA0V3BOQnV2MDh1TFlBZEp3Q0d0UTVoOWpONHZEdWR0dVp2ZDFvZjNtYXlKaWgzU2dCRkNBR05lR0ZqRTlzVXJPQ2RXVTVsUERWY2dBY25mVk1MRDcyaDM4VXVtMHZhS3E1ME9zWUFKOEhuQ19zazlxejNYODdXa0lTR1VnVEp0N3psOGFTVFhVS0VfS1E0SUVxMWktMnk0TllCNzhFQUV1c3ZpRmx4SXZiVEFVXzhBRG5MeXg1QTVlczBU?oc=5)
 
 2026-09-16 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">multiple sclerosis</span> <span class="news-indication-tag">AF</span>
 
-Source: [ctvnews.ca](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE5KSEZ3c2FFbHA0V3BOQnV2MDh1TFlBZEp3Q0d0UTVoOWpONHZEdWR0dVp2ZDFvZjNtYXlKaWgzU2dCRkNBR05lR0ZqRTlzVXJPQ2RXVTVsUERWY2dBY25mVk1MRDcyaDM4VXVtMHZhS3E1ME9zWUFKOEhuQ19zazlxejNYODdXa0lTR1VnVEp0N3psOGFTVFhVS0VfS1E0SUVxMWktMnk0TllCNzhFQUV1c3ZpRmx4SXZiVEFVXzhBRG5MeXg1QTVlczBU?oc=5)
+Source: [CTV News](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE5KSEZ3c2FFbHA0V3BOQnV2MDh1TFlBZEp3Q0d0UTVoOWpONHZEdWR0dVp2ZDFvZjNtYXlKaWgzU2dCRkNBR05lR0ZqRTlzVXJPQ2RXVTVsUERWY2dBY25mVk1MRDcyaDM4VXVtMHZhS3E1ME9zWUFKOEhuQ19zazlxejNYODdXa0lTR1VnVEp0N3psOGFTVFhVS0VfS1E0SUVxMWktMnk0TllCNzhFQUV1c3ZpRmx4SXZiVEFVXzhBRG5MeXg1QTVlczBU?oc=5)
 
 ---
 
@@ -149,6 +181,22 @@ Source: [ctvnews.ca](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE
 2026-09-16 <span class="news-indication-tag">MS</span>
 
 Source: [diepta.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1pweURmSmdoS2hMRS1kU1h2LTFjR3hjV2NjRWp2d3pwSFJsYU1TUTdyTGF1WVNmcjUyNDRnVzdLRVpLMnNqTUhwdlVCaVEtU1BQYm54WnN4RmtnTm8wb3hFbkx4Zjlhbm8yelpSWVhzMS0wcllqZ0JlSjBBclhIekFDbW5aNEk1X29yVU9XU0w1NWJRS24tNlozTDgtcjVveGVz?oc=5)
+
+---
+
+### [Part-human part-mouse brain developed in science breakthrough](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEaGo5MVpYdm94aDZNZVp5ZldrXzBWVXRxcUw5UEhmanNJRXhDRS1QZDc0N1hjcGhLb1lEUWdGMUdnYkFnQXdqRHBuTVVnV3dxR0pUQUM3TkxQRFI4bFE?oc=5)
+
+2026-09-16 <span class="news-indication-tag">MS</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEaGo5MVpYdm94aDZNZVp5ZldrXzBWVXRxcUw5UEhmanNJRXhDRS1QZDc0N1hjcGhLb1lEUWdGMUdnYkFnQXdqRHBuTVVnV3dxR0pUQUM3TkxQRFI4bFE?oc=5)
+
+---
+
+### [Vortrag im Rahmen der Demenzwoche Donau-Ries: „Hörgesundheit ist Gehirngesundheit“](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMF9aMGg3a0loUExxQW8xQmstSWtfaFZIT002UEFxU2NOVElEWENXQ3h1RXRyaTB4c1A4UDBFVHJuTjRnLWhSdmpDUzZUZzdNNHdkeDZiQWlJWHRqUTBGWnJ1b3BFUms0TlhFYVl5ei14Sl9IQ1pULU5tamdwRExQTmgwOWlXSk9xTzlNVVM1MjBjNmI4TTBqTVNLRTNKSWlTbFRHZGJPeXl4Tms5UGZoMkkxNHdQVGxSLU5uOEFoV0tVNEtWczZvYUppTUJXNzd3RXhwTDl3RDY4YmJxamRSRmM3OHh1SzRBaElGLV93bjhYZDZnRGFKR1pTc2Z6b0VPMWRXMGw0bDZ5NUtkNzlBSFZVZFdEbHFUU3pMRWpSZ2lMZ3ItdzE3elRR?oc=5)
+
+2026-09-16 <span class="news-indication-tag">MS</span>
+
+Source: [lifePR](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMF9aMGg3a0loUExxQW8xQmstSWtfaFZIT002UEFxU2NOVElEWENXQ3h1RXRyaTB4c1A4UDBFVHJuTjRnLWhSdmpDUzZUZzdNNHdkeDZiQWlJWHRqUTBGWnJ1b3BFUms0TlhFYVl5ei14Sl9IQ1pULU5tamdwRExQTmgwOWlXSk9xTzlNVVM1MjBjNmI4TTBqTVNLRTNKSWlTbFRHZGJPeXl4Tms5UGZoMkkxNHdQVGxSLU5uOEFoV0tVNEtWczZvYUppTUJXNzd3RXhwTDl3RDY4YmJxamRSRmM3OHh1SzRBaElGLV93bjhYZDZnRGFKR1pTc2Z6b0VPMWRXMGw0bDZ5NUtkNzlBSFZVZFdEbHFUU3pMRWpSZ2lMZ3ItdzE3elRR?oc=5)
 
 ---
 
@@ -165,6 +213,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2N1TGp
 2026-09-14 <span class="news-indication-tag">MS</span>
 
 Source: [hallelife.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQeERxVG5VcHN6TmJYZjJzd1dZRXRWTzlfdGNtRDF1cUIxaWRBYmxrMGo1VWtBS3d5X0lDekFmU0JGVFNxb2tRSzI2QkNUaXRwN2d1ckFiQXhHSThQUVNoZ2VPem5raGdYNjRheWFrNGwzTjRNcl9Tc1lSTGplYkNwdHc2SHd2RGdsNWlCc1QwcWtzUQ?oc=5)
+
+---
+
+### [Dad given hours to live after pub roast dinner leaves him fighting for life](https://news.google.com/rss/articles/CBMifkFVX3lxTE1qLUFjUktyaHNVTnAwc2M1bF90ZElKUnJKQWZvV2ctSFpYeGYwamFQVmJQbENhWkw1MDFwamd3TkxXcm9JVGU3LVk3aGNWUk9WM2p5ZWpPdW9UdW03WFBtUVh2bE4wRlJSZkpKUG5qLXozYmRweDFMdzRYVXZvZw?oc=5)
+
+2026-09-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1qLUFjUktyaHNVTnAwc2M1bF90ZElKUnJKQWZvV2ctSFpYeGYwamFQVmJQbENhWkw1MDFwamd3TkxXcm9JVGU3LVk3aGNWUk9WM2p5ZWpPdW9UdW03WFBtUVh2bE4wRlJSZkpKUG5qLXozYmRweDFMdzRYVXZvZw?oc=5)
 
 ---
 

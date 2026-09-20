@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Colistimethate Sodium?">
-<strong>Colistimethate Sodium</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Colistimethate Sodium</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Colistimethate Sodium with t
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
-### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’ - The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+### [Bluthochdruck: Nüsse senken das Risiko nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
+
+2026-09-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
+
+---
+
+### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 2026-09-19 <span class="news-indication-tag">arthritis</span>
 
-Source: [The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+Source: [thecourier.co.uk](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95c
 
 ---
 
-### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+### [Bluthochdruck: Salzersatz senkt Risiko um 40 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1gzbzVHUGJPWnVSWHVNVV9ya3JSZ2ZYa1hDMWF4RUh3VlYtTks1QkVORFJGUFVrSW5Qd3RHeTV3S0dSbXJIVEdubVhKZUtPeVE2eUU5bHdwODgwWEJDbVJCM3k3MW9pOHhKU3prNmJ4N29MbS1MX1BKMjZOSl96cDhFa2ZXcGx3WkpnbExEQktMdTJFQjhQTFF3bXRtZk5pRmc?oc=5)
 
 2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1gzbzVHUGJPWnVSWHVNVV9ya3JSZ2ZYa1hDMWF4RUh3VlYtTks1QkVORFJGUFVrSW5Qd3RHeTV3S0dSbXJIVEdubVhKZUtPeVE2eUU5bHdwODgwWEJDbVJCM3k3MW9pOHhKU3prNmJ4N29MbS1MX1BKMjZOSl96cDhFa2ZXcGx3WkpnbExEQktMdTJFQjhQTFF3bXRtZk5pRmc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Asthma und COPD: Semaglutid reduziert Anfälle um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
 
 2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
-
----
-
-### [Migraine : quand l’activité physique devient une alliée - Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
-
-2026-09-18 <span class="news-indication-tag">migraine</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <li>acrodermatitis chronica atrophicans (98.7%)</li>
 <li>rheumatoid arthritis (98.7%)</li>
 <li>acne keloid (98.7%)</li>
-<li>psoriasis (98.7%)</li>
+<li class="indication-matched">psoriasis (98.7%)<span class="indication-tag">📰 soriasi</span></li>
 <li>neonatal dermatomyositis (98.6%)</li>
 <li>exanthem (disease) (98.6%)</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (98.6%)</li>
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’ - The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+### [Fa la coppettazione per il mal di schiena e la psoriasi ricompare sui tagli](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBpR0ZUN2lYcmFHdUliU2FZemVHY2ZDbWpnak0xbGtsa2FXVTlvZ3poQ3FXclhZa1IxMjM5U1BvaWs2SVlHdE9tNEpobkpVR3p5SThaSVVzbW1Xd3N2U1Z2dkpJUUhCRXZPNVZUVzc2VV85enFlbF9VY2c4M0dxMFA4N0gtZHh5d1YxemFJNFVDdnNQdk53YTJWdFZrVVhBVmJmYTV3Y3N3NVZPT1NCY282VkpmbGVFNGZnX2hqVXkxRnpw?oc=5)
+
+2026-09-19 <span class="news-indication-tag">soriasi</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBpR0ZUN2lYcmFHdUliU2FZemVHY2ZDbWpnak0xbGtsa2FXVTlvZ3poQ3FXclhZa1IxMjM5U1BvaWs2SVlHdE9tNEpobkpVR3p5SThaSVVzbW1Xd3N2U1Z2dkpJUUhCRXZPNVZUVzc2VV85enFlbF9VY2c4M0dxMFA4N0gtZHh5d1YxemFJNFVDdnNQdk53YTJWdFZrVVhBVmJmYTV3Y3N3NVZPT1NCY282VkpmbGVFNGZnX2hqVXkxRnpw?oc=5)
+
+---
+
+### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 2026-09-19 <span class="news-indication-tag">arthritis</span>
 
-Source: [The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+Source: [thecourier.co.uk](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 ---
 

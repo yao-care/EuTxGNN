@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
-### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+### [Vitamin K2: Studie zeigt Schutz vor Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlJLURtTUw5dm44Yk94VWtEaFZhWUlqTHlHcE9ZS091OGtuZ0J5RFIwR1N1X19Wb0toN0JnUTNkTV8wNHNjSVNybThneWN2ZXUtLTVxUDJIU3VqbW8tQXh5cUo3b3FLdGVGenJPSzJYNUxZX2FRbFZVRmxReEpQOW8yTUFXUzgyUzFmYUk2SXdjcGRtR1NlQ2hfMlVNN2tpOWo4?oc=5)
 
-2026-09-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-09-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
-
----
-
-### [AVC à 54 ans : les médecins alertent sur 2 boissons du soir à ne jamais boire avant de dormir - Le Tribunal du Net](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmRXOW5PaEtGZHMwSmMxQktKQVA2UkN6aFNoTnBLVmpOdm9xUXltNDZxY2s3NlcyeHBkMG5KdXZvTzV3ZldxOFNnUmZoVHpUZ1NMTzUxQ0JqNGpfcnF5aDJTRm5WbXVubldQZFU0SVlNckk3YmI3blFKemFCYVBkUQ?oc=5)
-
-2026-09-19 <span class="news-indication-tag">AVC</span>
-
-Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmRXOW5PaEtGZHMwSmMxQktKQVA2UkN6aFNoTnBLVmpOdm9xUXltNDZxY2s3NlcyeHBkMG5KdXZvTzV3ZldxOFNnUmZoVHpUZ1NMTzUxQ0JqNGpfcnF5aDJTRm5WbXVubldQZFU0SVlNckk3YmI3blFKemFCYVBkUQ?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlJLURtTUw5dm44Yk94VWtEaFZhWUlqTHlHcE9ZS091OGtuZ0J5RFIwR1N1X19Wb0toN0JnUTNkTV8wNHNjSVNybThneWN2ZXUtLTVxUDJIU3VqbW8tQXh5cUo3b3FLdGVGenJPSzJYNUxZX2FRbFZVRmxReEpQOW8yTUFXUzgyUzFmYUk2SXdjcGRtR1NlQ2hfMlVNN2tpOWo4?oc=5)
 
 ---
 
@@ -86,19 +78,27 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hq
 
 ---
 
-### [Une vaste étude révèle l'heure idéale du coucher pour protéger son cœur, et ce n'est pas avant minuit qu'il faut retenir](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
+### [Une vaste étude révèle l'heure idéale du coucher pour protéger son cœur, et ce n'est pas avant minuit qu'il faut retenir - La Provence](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
 
 2026-09-18 <span class="news-indication-tag">AVC</span>
 
-Source: [laprovence.com](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
+Source: [La Provence](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
 
 ---
 
 ### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show - The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
-2026-09-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
+
+---
+
+### [Krebs und Schlaganfall: Risiko 2,5-fach erhöht in ersten Monaten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEkwaG1uVy1RdVNpU2NMaHVLV1hneTZ4VTNueW1BYmNfMVNLb3BVSGpEVl9HZlY5TjJ1dFNLV2Q2SmQ0Z3dVVG1lcGwxSi1MdmVYdzg5MnJ4d091NEpmUHNnaUJvYUlsaDRTek9zZjBRWHhOTTNjbW9JQkxEYktrUGR3cG1SZWJQMGw0RnY0VDBxeGdTNzFRZlJQUWpFbUdGSGg4bzhWUmRfVncxQThrNndVRQ?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEkwaG1uVy1RdVNpU2NMaHVLV1hneTZ4VTNueW1BYmNfMVNLb3BVSGpEVl9HZlY5TjJ1dFNLV2Q2SmQ0Z3dVVG1lcGwxSi1MdmVYdzg5MnJ4d091NEpmUHNnaUJvYUlsaDRTek9zZjBRWHhOTTNjbW9JQkxEYktrUGR3cG1SZWJQMGw0RnY0VDBxeGdTNzFRZlJQUWpFbUdGSGg4bzhWUmRfVncxQThrNndVRQ?oc=5)
 
 ---
 
@@ -110,19 +110,11 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95c
 
 ---
 
-### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
-
-2026-09-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
-
----
-
-### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+### [Warum es manchen Patienten nach einem Schlaganfall besser geht als anderen - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
 
 2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
 
 ---
 

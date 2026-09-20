@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 
 ## Related News (2)
 
-### [Andy Burnham urged to set dementia waiting-time target](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tdk9ldFE1NHdpcnhZX3AxaVY4Vmg0b3licG9yVk1kWF9fSHZfWXRNdEkxa0EwZjZHM3kzYThrdDRGLUc5aDVwcjlGTEtYWVVQeXBLSldYcHpsSmhGNGc?oc=5)
+### [How to carry out your own midlife dementia MOT - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
 
-2026-09-17 <span class="news-indication-tag">dementia</span>
+2026-09-20 <span class="news-indication-tag">dementia</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tdk9ldFE1NHdpcnhZX3AxaVY4Vmg0b3licG9yVk1kWF9fSHZfWXRNdEkxa0EwZjZHM3kzYThrdDRGLUc5aDVwcjlGTEtYWVVQeXBLSldYcHpsSmhGNGc?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
 
 ---
 
-### [I’m a dementia expert. This is what HRT really does to women’s brains - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
+### [Civil service took six months to post dementia tsar job advert - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWI3NDN3eXhMNkJoVlZJU1VJUVhQYzNjYlZHTHRhSzRZaW5HYU5xNkU0SkREdEZqZE16NGJaODBaUFBxMjhEczBuUmNzczZOT1Y1bWduekpmcWdJZHlyQnZ3dkhaTm94Znl3YUZmS2NlUjJYcmVOTUIyc1dnaEk4TVlzaFNXZFo3d1RQSmlDQUd1WVJyMm1JVHlmNWI2NnhaUlZ5c1BlMWdIRlF6?oc=5)
 
-2026-09-13 <span class="news-indication-tag">dementia</span>
+2026-09-17 <span class="news-indication-tag">dementia</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0Y0V0t5SDRfS1ZRcXhLX0FKalJYd0R3Zkc1a3RnMmRKSFlXSkJPaG11S244VHVpZGhBeHl3VXJUdzR1N0ZLSnZreVV5LTBDR0dsd0NsLTNpT1JjRjNwaE85SDlxa1l5TkgxM1hILW1kY0NrazZySUZScjV3YzVhb1JQYmZtWVMwaE9UY3M1dzBxZ0JpV2ZqZXdYRVNXbWljUzI5dVAzcWFpSHNW?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWI3NDN3eXhMNkJoVlZJU1VJUVhQYzNjYlZHTHRhSzRZaW5HYU5xNkU0SkREdEZqZE16NGJaODBaUFBxMjhEczBuUmNzczZOT1Y1bWduekpmcWdJZHlyQnZ3dkhaTm94Znl3YUZmS2NlUjJYcmVOTUIyc1dnaEk4TVlzaFNXZFo3d1RQSmlDQUd1WVJyMm1JVHlmNWI2NnhaUlZ5c1BlMWdIRlF6?oc=5)
 
 ---
 

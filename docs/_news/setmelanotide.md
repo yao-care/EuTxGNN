@@ -14,7 +14,7 @@ permalink: /news/setmelanotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Setmelanotide?">
-<strong>Setmelanotide</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Setmelanotide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Setmelanotide with the lates
 <p><a href="{{ '/drugs/setmelanotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Migraine : quand l’activité physique devient une alliée - Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
-
-2026-09-18 <span class="news-indication-tag">migraine</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

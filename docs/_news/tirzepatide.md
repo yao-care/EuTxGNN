@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (3)
 
-### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’ - The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 2026-09-19 <span class="news-indication-tag">arthritis</span>
 
-Source: [The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+Source: [thecourier.co.uk](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 3 articles, 7 related drugs."
+description: "Health news about dépression (depression). 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Dépression périnatale : une souffrance qui touche une femme sur trois en Guadeloupe - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3dETG9lRW9aV0llOTFIUHBwWDI2RVdkQ2FmUkI0Q1laVk5mWjZZUGtzQzZVMERtZkM4cWdUdThxVER4T1lidHM4UFVfaloyemxvT3p1UjMtZTlfUmlrLTBlNjNrc0NUNHo5bklld1ZOWjluT3RCdk9GaW9oWldvamw0ZEZhRWxSOEZtTDFiRGdjTHRYSlRKclZsLXJzUHFfbWk4TVRoVG4zeEJQUXU2N3h2REVMVWl6MkdlR2xoRXF3ZkNBS2dWbHRpbTkzTUk?oc=5)
 
@@ -45,19 +45,11 @@ Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cU
 
 ---
 
-### [Antoni Ramos-Quiroga, psiquiatra: “La depresión también produce alteraciones en nuestro sistema digestivo, nuestra inmunidad y en el corazón” - La Vanguardia](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcnl6XzVkMFpvWEI1dHNTRVN4SnJMaDBaLUVZZlcyZEdWQjVLRnU1MEpQU0hjUlBZbUpqWTN2azUzdUVSaHFxal9jallYZm1fSndhV2F4M3RuenNJTGtadUJfa1I4dllMai1rMXNGVWprWm0zeDVsdFVIUUlISHpVb0VOSmJyZl8ycXBmZmV0NmxINWExbUZ1bjRsUTViMVFCbjhLYnJvdzRoQ09WeERKMFVNdHhwZGNDWUI4dWI3dVZGMWJON05qcmJnVFI3cVBBM0xxRlVMeU54UDdubGtDTm5rSEtqOC10MDFiZUVHbUFuNDJjUnN6UNIB_gFBVV95cUxPTlhSNUVFcDl2WGhFcExZU3dSZWRsRkd1cHlUeF9oLVpJcnZNRjJtVy13QnI2dVdaelR6RjFNYzVIMHZjYjhoVmQyeTBYc2JYRHM0NHZLS1p5NW9uMkpwVXg2LW5qczhzeFpWLTdZMk1QSHFzM3IxZjM1SDFkSWFiVHcxWGFLMS1iTWdUdU5Ba21XWnVWdENSX2twdGlBQURTeU1hSTBIQlZETGdaUjg1RUJ5MTU2b3Y1anIxX21YeHg0R1FIZTgzbGhfQnY1cHNlbTRHbS1wcjdFMEwxOFNydVlZaDdhX3Y4eDRRWUQ4ZHo2SlIzMzNoRU5lVm1pUQ?oc=5)
-
-2026-09-18
-
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcnl6XzVkMFpvWEI1dHNTRVN4SnJMaDBaLUVZZlcyZEdWQjVLRnU1MEpQU0hjUlBZbUpqWTN2azUzdUVSaHFxal9jallYZm1fSndhV2F4M3RuenNJTGtadUJfa1I4dllMai1rMXNGVWprWm0zeDVsdFVIUUlISHpVb0VOSmJyZl8ycXBmZmV0NmxINWExbUZ1bjRsUTViMVFCbjhLYnJvdzRoQ09WeERKMFVNdHhwZGNDWUI4dWI3dVZGMWJON05qcmJnVFI3cVBBM0xxRlVMeU54UDdubGtDTm5rSEtqOC10MDFiZUVHbUFuNDJjUnN6UNIB_gFBVV95cUxPTlhSNUVFcDl2WGhFcExZU3dSZWRsRkd1cHlUeF9oLVpJcnZNRjJtVy13QnI2dVdaelR6RjFNYzVIMHZjYjhoVmQyeTBYc2JYRHM0NHZLS1p5NW9uMkpwVXg2LW5qczhzeFpWLTdZMk1QSHFzM3IxZjM1SDFkSWFiVHcxWGFLMS1iTWdUdU5Ba21XWnVWdENSX2twdGlBQURTeU1hSTBIQlZETGdaUjg1RUJ5MTU2b3Y1anIxX21YeHg0R1FIZTgzbGhfQnY1cHNlbTRHbS1wcjdFMEwxOFNydVlZaDdhX3Y4eDRRWUQ4ZHo2SlIzMzNoRU5lVm1pUQ?oc=5)
-
----
-
 ### [Reconciling the neurogenic hypothesis of depression with recent advances in adult hippocampal neurogenesis research in humans](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 2026-09-17
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Dacomitinib Monohydrate?">
-<strong>Dacomitinib Monohydrate</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Dacomitinib Monohydrate</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Dacomitinib Monohydrate with
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
 
-### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’ - The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+### [Bluthochdruck: Nüsse senken das Risiko nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
+
+2026-09-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
+
+---
+
+### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 2026-09-19 <span class="news-indication-tag">arthritis</span>
 
-Source: [The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+Source: [thecourier.co.uk](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 ---
 
@@ -70,11 +78,19 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95c
 
 ---
 
-### [Gesunde Ernährung ist mit langsamerem biologischem Altern verknüpft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+### [Bluthochdruck: Salzersatz senkt Risiko um 40 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1gzbzVHUGJPWnVSWHVNVV9ya3JSZ2ZYa1hDMWF4RUh3VlYtTks1QkVORFJGUFVrSW5Qd3RHeTV3S0dSbXJIVEdubVhKZUtPeVE2eUU5bHdwODgwWEJDbVJCM3k3MW9pOHhKU3prNmJ4N29MbS1MX1BKMjZOSl96cDhFa2ZXcGx3WkpnbExEQktMdTJFQjhQTFF3bXRtZk5pRmc?oc=5)
 
 2026-09-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprRkdFOHpNMHRtYnpRU0Y1b25HaHZ6c3ZDQXM4TkdVcjdNS0RVQlVUN2NmOWpPWkN4czJvcm5wM0kwV1kzZXRtcG5NeFo2QVY3bjJVT0tKZWo3VnVwQzdvQlhZOFR6MFVXNGZzRG52ZFJDbjFZWTU3YkVTeE05dDlYUTFaQ3NYWlFlaVNXY285bzlnT1BHdnFEbnhLSlhsVlotWDNVdw?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1gzbzVHUGJPWnVSWHVNVV9ya3JSZ2ZYa1hDMWF4RUh3VlYtTks1QkVORFJGUFVrSW5Qd3RHeTV3S0dSbXJIVEdubVhKZUtPeVE2eUU5bHdwODgwWEJDbVJCM3k3MW9pOHhKU3prNmJ4N29MbS1MX1BKMjZOSl96cDhFa2ZXcGx3WkpnbExEQktMdTJFQjhQTFF3bXRtZk5pRmc?oc=5)
+
+---
+
+### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show - The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
+
+2026-09-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ Source: [scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMG1lNUprR
 2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
----
-
-### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
-
-2026-09-18 <span class="news-indication-tag">cardiovascular disease</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
 
 ---
 
@@ -107,6 +115,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV9
 2026-09-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
+
+---
+
+### [Cholesterol, weight, blood sugar and blood pressure drop with one food change](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+2026-09-16 <span class="news-indication-tag">cardiovascular disease</span>
+
+Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
 
 ---
 

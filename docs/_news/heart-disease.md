@@ -3,7 +3,7 @@ layout: default
 title: "cardiovascular disease (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 2 articles, 57 related drugs."
+description: "Health news about cardiovascular disease (heart disease). 3 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<strong>cardiovascular disease (heart disease)</strong> currently has <strong>3 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -85,13 +85,13 @@ This page brings together the latest health news about “cardiovascular disease
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [What to eat for breakfast, lunch and dinner to boost your heart health - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
+### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show - The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 2026-09-18
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU03OVlIY0twR3VYS0pCUTZNR1pJeDBka0d3bDBoc0d1YVdaQ1VVdUJOblMzRXlDbE5IeHRtU0ZqczI5emp0M0hyUUFqcHFfRnFFWENXR19MajZYN3JlS1N5QnFrRHg5Z2x4ZFJ4MndsTm1tQnI2T3JTY0h0SllSSVR6YmhrU25hNDhaZFM4b3JneVdxd3hGc182VVZJNkZ1ZmhhLVhZZHg2WUI2Q3BUdy1IOA?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
 
 ---
 
@@ -100,6 +100,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU0
 2026-09-17
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGZMMmNSZkMyWUI1aHRGdG9kVi1kOTNTUERfVHgyNEMzbE9Id2NYaFlWSmJSMXZORkpNR2hSS09mOHJTeEFHYjc2NXZYd3djd2lPVWxhTmFreFpST0xHRmh3UjdfVjY5RFF3alo5MG15WktLWjFPeFhCcVNVUTRJVjIxN1FFdUw3cTJfRDdha1NGcUxqdmM4VjhZV1E1UlliRXY1SERidElTZXRpLVNjZDlyWlc1M3NybTFYdnFPd3c?oc=5)
+
+---
+
+### [Cholesterol, weight, blood sugar and blood pressure drop with one food change](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
+
+2026-09-16
+
+Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
 
 ---
 

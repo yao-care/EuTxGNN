@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’ - The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+### [‘I can’t cut up my food, but arthritis won’t stop me from becoming a great doctor’](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 2026-09-19 <span class="news-indication-tag">arthritis</span>
 
-Source: [The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
+Source: [thecourier.co.uk](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlndENqY2Q5c0FCV1RCZ2R6LTBwbjdVYWpONl9LY0FvQzNxRkw0cXNCb190YjNVeXZEaC1vRTdjUnRGdF9HNFlIQzdjUWpEUDRVOHFMWTNFTHZYdmlhbUR6UmswekxHaXhJQ2dOQnlqVEVlczdnS2tLTWVxaGtaTUJhU2ZxRi1LRVFmS3hsQzNqODM0d0trUTdlMWQxVHBtMWVKWDdnZkU5dlF0VXdlbEp3Y2FjZTg?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ Source: [The Courier](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmlnd
 2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
----
-
-### [Migraine : quand l’activité physique devient une alliée - Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
-
-2026-09-18 <span class="news-indication-tag">migraine</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVRWTWdlN2RNZ09tLUwzMlVvUkdmQWZjQXRPTGZDbk9iakNBTGVJbEVfUE4wUGpoRk1wNmx1MURLbmdYbFozejFObko0ME9kSHV6RkhkWVA2YTIxNWpVTjRKbGNER0otVk1lTmxHR1JoczNRdzVLYVpHQm1TdjlyM01FYUdadnhqUnZEUzA4VXBMV2dJcUdIOUsxQVJHT3BIREpvcXpOY1ZyeGFUMDVmQ202bjhpNF9sVzZsRlJGLU8zcE0?oc=5)
 
 ---
 
