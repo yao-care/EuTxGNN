@@ -14,7 +14,7 @@ permalink: /news/macitentan/
 ---
 
 <p class="key-answer" data-question="What news is there about Macitentan?">
-<strong>Macitentan</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Macitentan</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Macitentan with the latest h
 <p><a href="{{ '/drugs/macitentan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
+
+2026-09-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
+
+---
 
 ### [Bluthochdruck: Nüsse senken das Risiko nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
 
 2026-09-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
 
 ---
 

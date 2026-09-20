@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 1 articles, 7 related drugs."
+description: "Health news about dépression (depression). 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>1 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Cinque regole per resettare l'orologio biologico: come combattere il sonno difficile](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
+
+2026-09-20
+
+Source: [Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
+
+---
 
 ### [Dépression périnatale : une souffrance qui touche une femme sur trois en Guadeloupe - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3dETG9lRW9aV0llOTFIUHBwWDI2RVdkQ2FmUkI0Q1laVk5mWjZZUGtzQzZVMERtZkM4cWdUdThxVER4T1lidHM4UFVfaloyemxvT3p1UjMtZTlfUmlrLTBlNjNrc0NUNHo5bklld1ZOWjluT3RCdk9GaW9oWldvamw0ZEZhRWxSOEZtTDFiRGdjTHRYSlRKclZsLXJzUHFfbWk4TVRoVG4zeEJQUXU2N3h2REVMVWl6MkdlR2xoRXF3ZkNBS2dWbHRpbTkzTUk?oc=5)
 

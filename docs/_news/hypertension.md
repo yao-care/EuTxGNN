@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck (hypertension) News"
+title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck (hypertension) News
+# high blood pressure (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
+<strong>high blood pressure (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -83,13 +83,21 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
+
+2026-09-20
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
+
+---
 
 ### [Bluthochdruck: Nüsse senken das Risiko nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
 
 2026-09-20
 
-Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTcyYVc0N0FuOUo1c3g5TEE1SHhaY3Q5ZFROMHhHbFRrQ0xqRlN4eGdpd1BNZFFWYzBxc2J0NGRlRVhTTXRZd3ZKaEphVXU4SjQ3OEJSWVRsQlV5X2lnRzZ2aW5TTU0xUTBpR09nMzBPY040NENsZjFBX1NlZ1YxY1A1OGxLODhRdTRrRjJhUjRKVGQ0NUtxLVZ4cU1vbXAxdEI2dDZvUzRabEdfbG5TeA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="What news is there about Peginterferon Alfa-2A?">
-<strong>Peginterferon Alfa-2A</strong> currently has <strong>19 news articles</strong>, with 20 predicted indications.
+<strong>Peginterferon Alfa-2A</strong> currently has <strong>24 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Peginterferon Alfa-2A with t
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (24)
+
+### [„Markierung des sozialen Territoriums“: Psychologe erklärt, warum Jugendliche in Bus und Bahn laut Musik hören](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRENJdFhWMFR2WVdFSC1Rbmp5SEJybGtZM1FkYURyRnZSMzhOWlpzUTl4VWUwZGtwWERuWnd3R05uU3BpeG4tcjE5TktJTFU5SGpTeUZidUZxVFBEeFJlNE9TWDYteG1hakx2U1lXeG9VWmV4UGtzeUFZM2FDUWd4WXdHOGhIUVNjYVloSnhn?oc=5)
+
+2026-09-20 <span class="news-indication-tag">MS</span>
+
+Source: [t3n](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRENJdFhWMFR2WVdFSC1Rbmp5SEJybGtZM1FkYURyRnZSMzhOWlpzUTl4VWUwZGtwWERuWnd3R05uU3BpeG4tcjE5TktJTFU5SGpTeUZidUZxVFBEeFJlNE9TWDYteG1hakx2U1lXeG9VWmV4UGtzeUFZM2FDUWd4WXdHOGhIUVNjYVloSnhn?oc=5)
+
+---
 
 ### [ADHD is over-diagnosed, say doctors - The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0RMYzlUOFdLeDl4T1BVSlpOTnhpTDJnSzhuSWRKbHd6RHhhWjE4X19ibUlWLXJUZ1kwODhkZnlpM2dtcnlUQXZxSm9pSEZ1eHp2OFpRSWtsSmpFamhLYjQtc3ZSMHRmeHpES0VBc3BTSDNfTEhrTFpOc3E0Sl9nSUpIdDlyZw?oc=5)
 
@@ -62,11 +70,27 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0R
 
 ---
 
+### [Ebola, parte la vaccinazione d’emergenza in Congo: ma il vaccino è stato sviluppato contro un altro virus](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHpESUp2aGZtb0I3RXJUVXJPdE40eERJX0RVUHI0X3VuSjdjOHh2WHQzVHRTTGo2WTZuY3cwMVRhSFV6OEEyUkN0bDVuSi03ek5lMXFDcjJVai1LX2ctZkJpdEVTV1pTbGZmS2NORnhBSTBpZlJ4NUxXMWRZRDJabjlXM0diYTYxVzBVYkIyRmNIdVhldXlEX3dadWNnY25wR2RRVExuOWpZVXEzRFpmdENyby02RlM4TkhYOGpwZ3RJdFdIRWRnZ1NvNHlkYUQ3VW52S25wbVBJamZiWHJQRDFfLXZ4UHJrR243VW1jSGdXTGc?oc=5)
+
+2026-09-20 <span class="news-indication-tag">MS</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHpESUp2aGZtb0I3RXJUVXJPdE40eERJX0RVUHI0X3VuSjdjOHh2WHQzVHRTTGo2WTZuY3cwMVRhSFV6OEEyUkN0bDVuSi03ek5lMXFDcjJVai1LX2ctZkJpdEVTV1pTbGZmS2NORnhBSTBpZlJ4NUxXMWRZRDJabjlXM0diYTYxVzBVYkIyRmNIdVhldXlEX3dadWNnY25wR2RRVExuOWpZVXEzRFpmdENyby02RlM4TkhYOGpwZ3RJdFdIRWRnZ1NvNHlkYUQ3VW52S25wbVBJamZiWHJQRDFfLXZ4UHJrR243VW1jSGdXTGc?oc=5)
+
+---
+
+### [Rabies concerns grow in the US – but it’s unclear if there’s an increase of the fatal disease - The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTVsdWtrOFJJWnE5VkIyb1dJQ1dvdWNGX2FmWXVmR2xSTExJTG1HeEJERXBIN2ZTSWdMamRRVFM1YTNRdTg5X3o1cVZuZi15N1FFWWRYU2hnMHJWZi04SU9EYTcwT21yMEIteUx4b0NGQUU0Y1hmV1B5SmM4TGl3WG5LUUZUVXQ0ZTNFeHIxaw?oc=5)
+
+2026-09-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTVsdWtrOFJJWnE5VkIyb1dJQ1dvdWNGX2FmWXVmR2xSTExJTG1HeEJERXBIN2ZTSWdMamRRVFM1YTNRdTg5X3o1cVZuZi15N1FFWWRYU2hnMHJWZi04SU9EYTcwT21yMEIteUx4b0NGQUU0Y1hmV1B5SmM4TGl3WG5LUUZUVXQ0ZTNFeHIxaw?oc=5)
+
+---
+
 ### [Fettleber, Adipositas & Prädiabetes: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
 
 2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
 
 ---
 
@@ -126,6 +150,14 @@ Source: [Telepolis](https://news.google.com/rss/articles/CBMivgFBVV95cUxQczFuTWd
 
 ---
 
+### [Exact date as everyone in UK told to take daily pill](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CRVFwaDVQMHlRTmtiNHdjSWVVeTFnQVd6MncyS3lzLVdhVFd1QVRqWF96clM5S2RObEJPdlJUekZJV2tFVEh3Vkh6cW1sY28tOGFHS1JrRFFLRzhQYWt5bnRMbHVFTjlnSXZmV3F5SkRUUmV5N0ZWUUptbHR6Zw?oc=5)
+
+2026-09-19 <span class="news-indication-tag">MS</span>
+
+Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CRVFwaDVQMHlRTmtiNHdjSWVVeTFnQVd6MncyS3lzLVdhVFd1QVRqWF96clM5S2RObEJPdlJUekZJV2tFVEh3Vkh6cW1sY28tOGFHS1JrRFFLRzhQYWt5bnRMbHVFTjlnSXZmV3F5SkRUUmV5N0ZWUUptbHR6Zw?oc=5)
+
+---
+
 ### [Vitamin K2: Studie zeigt Schutz vor Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlJLURtTUw5dm44Yk94VWtEaFZhWUlqTHlHcE9ZS091OGtuZ0J5RFIwR1N1X19Wb0toN0JnUTNkTV8wNHNjSVNybThneWN2ZXUtLTVxUDJIU3VqbW8tQXh5cUo3b3FLdGVGenJPSzJYNUxZX2FRbFZVRmxReEpQOW8yTUFXUzgyUzFmYUk2SXdjcGRtR1NlQ2hfMlVNN2tpOWo4?oc=5)
 
 2026-09-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
@@ -142,6 +174,14 @@ Source: [Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjFs
 
 ---
 
+### [Trump says some routine immunizations will be split into five separate shots. Vaccine experts say it won’t work](https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMFBNUjkxeU1JaXI0RVNTV3J0Y3JMOHNWSGFpdXdraXlQYmZVamREVEpfRHpUS1Y0dUc1NlhKVVJpYlhiaEhEWVJaUC15cTNmR2VZS2lzemRKNGFVTzBpX2s4aVB3M2VWUVdLTUt1dThaSEE?oc=5)
+
+2026-09-18 <span class="news-indication-tag">MS</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMFBNUjkxeU1JaXI0RVNTV3J0Y3JMOHNWSGFpdXdraXlQYmZVamREVEpfRHpUS1Y0dUc1NlhKVVJpYlhiaEhEWVJaUC15cTNmR2VZS2lzemRKNGFVTzBpX2s4aVB3M2VWUVdLTUt1dThaSEE?oc=5)
+
+---
+
 ### [Asthma und COPD: Semaglutid reduziert Anfälle um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyMkxhTkpFVDlRQWdONVBXM01FOE5GM011TkZyS1BTazkzMk10blNBOUs4RFJUb1NFT3pNSHJ2VlBZY3NCZUd2LTBPM1oweDRCcEZPRmN4NU5WU0V6bFBWN2pmRDlKTlRCb05naWM3U2NvOXY0X3NSTHhoMEhtNGtFdXlyUkZuZ0tBamRYOGVxYzlqOWNpZWk5SHV6U01fRXg4N3AwSHlJa096?oc=5)
 
 2026-09-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
@@ -150,27 +190,19 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmlyM
 
 ---
 
-### [‘Hidden threat’ raises risk of deadly heart attack and stroke by 43% - years before symptoms show](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
-
-2026-09-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVBrWko3UGd3Z3hjTHlzMy1Hbnp4d0ZyVW1qSzJtZlZUQVJCUl9KdEU3WXVHd2dhVzdZb2R4S2JYdzFVaVFVLVg2cnZXUDFMOXhqWXJpUDVtOHdyb2VGSXJNakstaXlsZFBGRDcyWmEtbmVnV2l0WUswalNUZkhFWkdqQkl0emZwbEJpbzNsS1JyNU15akFwWE1HWnJWWG80dTl2d2NhRnU2THc?oc=5)
-
----
-
-### [Alle Behandlungen des Prostatakarzinoms gehen mit deutlicher sexueller Einschränkung einher](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOTYyZHNZSkF4Qzk3T3RtOXA2OWNxbzAtME13bU5BV1llMmJlbjIydlZrZFc1TFhCcGwwWWRLRUw2cUszb2FPRjVYMTJPNEZVR0pfbVQxZ1ZRRnlsRnNZM3lJbkE3aTBaOGhocmduVWhvcG9YWXdMazlrcjR2VjR6X3VHdFJRaTVVQXk1NjRhN1FwbzZPbUFCN3IxVnAwVWwxUzQ3Q0trWkowZElXOGxZUjg5cTBsRlRSSjhZbUNLX2ZNWWlfNE10WVQ3aVR3TE5rR0FodDVYRUtkRnJJbEszUlRRTTZpWE1hUEk5eDdOdnVDZw?oc=5)
+### [Schwarzer und grüner Reis bremst gefährliche Blutzuckerspitzen – Forscher finden besondere Fette - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFBOc0F0NkROajRMWkN5OEtnRGZuQVBDRE9lN0lTTDdnMlFNX29hZ09jY25aVVFnd0tNejFmZnpFYVphRDg5RjZHVWlCZDNDMVJXeW5XSFNnSUNJYUdHZ2VwLTJGeG9NWHdZZjdEZGhnYzBDUTFMaXp5bXJVR2g1M2RwbzhmN0hqQ0FET2lSTTYzM0VYRkFhNWdPcUdfVm1NekJfcFMzdw?oc=5)
 
 2026-09-18 <span class="news-indication-tag">MS</span>
 
-Source: [aerzteblatt.de](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOTYyZHNZSkF4Qzk3T3RtOXA2OWNxbzAtME13bU5BV1llMmJlbjIydlZrZFc1TFhCcGwwWWRLRUw2cUszb2FPRjVYMTJPNEZVR0pfbVQxZ1ZRRnlsRnNZM3lJbkE3aTBaOGhocmduVWhvcG9YWXdMazlrcjR2VjR6X3VHdFJRaTVVQXk1NjRhN1FwbzZPbUFCN3IxVnAwVWwxUzQ3Q0trWkowZElXOGxZUjg5cTBsRlRSSjhZbUNLX2ZNWWlfNE10WVQ3aVR3TE5rR0FodDVYRUtkRnJJbEszUlRRTTZpWE1hUEk5eDdOdnVDZw?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFBOc0F0NkROajRMWkN5OEtnRGZuQVBDRE9lN0lTTDdnMlFNX29hZ09jY25aVVFnd0tNejFmZnpFYVphRDg5RjZHVWlCZDNDMVJXeW5XSFNnSUNJYUdHZ2VwLTJGeG9NWHdZZjdEZGhnYzBDUTFMaXp5bXJVR2g1M2RwbzhmN0hqQ0FET2lSTTYzM0VYRkFhNWdPcUdfVm1NekJfcFMzdw?oc=5)
 
 ---
 
-### [Textbook Rewrite: The Human Brain Has Two Distinct Origins, Scientists Discover](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTk5LQUNIZXJUMEdqbmFNbXJTdTFIMDkwWVROaVJrS3VFZTlNbnhpeDg2d29oODNZUTR4bjdTZlY0Ym1MazlRVXRNMkFRUTByUko1bVJ0NkttVnpRaGZUOVhxSlBBLTQ2SkRxZ1piZWlRTEtjcTAtN09neDVseHBmVDBFLXpVSk15OUNpWmxDMjUwYkE?oc=5)
+### [Alle Behandlungen des Prostatakarzinoms gehen mit deutlicher sexueller Einschränkung einher - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOTYyZHNZSkF4Qzk3T3RtOXA2OWNxbzAtME13bU5BV1llMmJlbjIydlZrZFc1TFhCcGwwWWRLRUw2cUszb2FPRjVYMTJPNEZVR0pfbVQxZ1ZRRnlsRnNZM3lJbkE3aTBaOGhocmduVWhvcG9YWXdMazlrcjR2VjR6X3VHdFJRaTVVQXk1NjRhN1FwbzZPbUFCN3IxVnAwVWwxUzQ3Q0trWkowZElXOGxZUjg5cTBsRlRSSjhZbUNLX2ZNWWlfNE10WVQ3aVR3TE5rR0FodDVYRUtkRnJJbEszUlRRTTZpWE1hUEk5eDdOdnVDZw?oc=5)
 
-2026-09-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">MS</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTk5LQUNIZXJUMEdqbmFNbXJTdTFIMDkwWVROaVJrS3VFZTlNbnhpeDg2d29oODNZUTR4bjdTZlY0Ym1MazlRVXRNMkFRUTByUko1bVJ0NkttVnpRaGZUOVhxSlBBLTQ2SkRxZ1piZWlRTEtjcTAtN09neDVseHBmVDBFLXpVSk15OUNpWmxDMjUwYkE?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOTYyZHNZSkF4Qzk3T3RtOXA2OWNxbzAtME13bU5BV1llMmJlbjIydlZrZFc1TFhCcGwwWWRLRUw2cUszb2FPRjVYMTJPNEZVR0pfbVQxZ1ZRRnlsRnNZM3lJbkE3aTBaOGhocmduVWhvcG9YWXdMazlrcjR2VjR6X3VHdFJRaTVVQXk1NjRhN1FwbzZPbUFCN3IxVnAwVWwxUzQ3Q0trWkowZElXOGxZUjg5cTBsRlRSSjhZbUNLX2ZNWWlfNE10WVQ3aVR3TE5rR0FodDVYRUtkRnJJbEszUlRRTTZpWE1hUEk5eDdOdnVDZw?oc=5)
 
 ---
 
@@ -182,19 +214,27 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZXhRcG
 
 ---
 
-### [Adipositas: Semaglutid ohne erhöhte Risiken bei gebrechlichen Menschen – News](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
+### [Sclerosi multipla, Epstein-Barr si “risveglia” prima delle ricadute? Segnali fino a 90 giorni prima](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
 
-2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-17 <span class="news-indication-tag">sclerosi multipla</span>
 
-Source: [aerzteblatt.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWxTaFNWV0hlbnNEM0FoNC16bXFSZ1NmcFBnbS1taEtKUjllR1d5ZHoxRXF5Szg0LVNhYTBhNmJsVWo5TnVxZTVrcGFtbHdqRllQZjFLa3oxZ0N4RVBhME42a2h6ZmJsN1lXNjQwY2xtVkxna3BtcnBoVUZCMFdrTTFoVTZ3aHI1Qjl3OHdxLXc5aU93Y3E3MG1XVGZVV2NFNVF4cy03c3piVmlfZHAwMTk1R2kyQnVVcURpenJnTXAwam9acXJ1ODVacEY1N0FSRUZtZl9PNVpCWjYxa0xUWmNFc2NFdUgtLWcw?oc=5)
 
 ---
 
-### [‘It is exciting’: Manitoba researchers find potential breakthrough for Multiple Sclerosis treatment - CTV News](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE5KSEZ3c2FFbHA0V3BOQnV2MDh1TFlBZEp3Q0d0UTVoOWpONHZEdWR0dVp2ZDFvZjNtYXlKaWgzU2dCRkNBR05lR0ZqRTlzVXJPQ2RXVTVsUERWY2dBY25mVk1MRDcyaDM4VXVtMHZhS3E1ME9zWUFKOEhuQ19zazlxejNYODdXa0lTR1VnVEp0N3psOGFTVFhVS0VfS1E0SUVxMWktMnk0TllCNzhFQUV1c3ZpRmx4SXZiVEFVXzhBRG5MeXg1QTVlczBU?oc=5)
+### [‘It is exciting’: Manitoba researchers find potential breakthrough for Multiple Sclerosis treatment](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE5KSEZ3c2FFbHA0V3BOQnV2MDh1TFlBZEp3Q0d0UTVoOWpONHZEdWR0dVp2ZDFvZjNtYXlKaWgzU2dCRkNBR05lR0ZqRTlzVXJPQ2RXVTVsUERWY2dBY25mVk1MRDcyaDM4VXVtMHZhS3E1ME9zWUFKOEhuQ19zazlxejNYODdXa0lTR1VnVEp0N3psOGFTVFhVS0VfS1E0SUVxMWktMnk0TllCNzhFQUV1c3ZpRmx4SXZiVEFVXzhBRG5MeXg1QTVlczBU?oc=5)
 
 2026-09-16 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">multiple sclerosis</span> <span class="news-indication-tag">AF</span>
 
-Source: [CTV News](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE5KSEZ3c2FFbHA0V3BOQnV2MDh1TFlBZEp3Q0d0UTVoOWpONHZEdWR0dVp2ZDFvZjNtYXlKaWgzU2dCRkNBR05lR0ZqRTlzVXJPQ2RXVTVsUERWY2dBY25mVk1MRDcyaDM4VXVtMHZhS3E1ME9zWUFKOEhuQ19zazlxejNYODdXa0lTR1VnVEp0N3psOGFTVFhVS0VfS1E0SUVxMWktMnk0TllCNzhFQUV1c3ZpRmx4SXZiVEFVXzhBRG5MeXg1QTVlczBU?oc=5)
+Source: [ctvnews.ca](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZ2bE5KSEZ3c2FFbHA0V3BOQnV2MDh1TFlBZEp3Q0d0UTVoOWpONHZEdWR0dVp2ZDFvZjNtYXlKaWgzU2dCRkNBR05lR0ZqRTlzVXJPQ2RXVTVsUERWY2dBY25mVk1MRDcyaDM4VXVtMHZhS3E1ME9zWUFKOEhuQ19zazlxejNYODdXa0lTR1VnVEp0N3psOGFTVFhVS0VfS1E0SUVxMWktMnk0TllCNzhFQUV1c3ZpRmx4SXZiVEFVXzhBRG5MeXg1QTVlczBU?oc=5)
+
+---
+
+### [Women with same health conditions as men ‘less likely to be offered active treatment’ - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEZTbk8tNEFPQmoxVHlsOEo1ekViTjYzREQ0WjZWdGw2dFlMcVVHS0hOeVRsNkNuNUJzMXByQVhfQ2M0YUx6T1Z5TWpJOGxUa2hzUFNxWElCajJJa3hsSC13VXNVdkZ6eGN1MHZLTWl3akVmcjFZN0FtcS1hM0FEMzhqOWxuZUJ0d0liM01MMmtFOUhIdHVrUlk0QWlIU0F4cWxpemYySU1Qb0kxN0pNTnpmcm5QUVotRjVVN1RHVDJqNjc4S0s4U3g1MA?oc=5)
+
+2026-09-16 <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEZTbk8tNEFPQmoxVHlsOEo1ekViTjYzREQ0WjZWdGw2dFlMcVVHS0hOeVRsNkNuNUJzMXByQVhfQ2M0YUx6T1Z5TWpJOGxUa2hzUFNxWElCajJJa3hsSC13VXNVdkZ6eGN1MHZLTWl3akVmcjFZN0FtcS1hM0FEMzhqOWxuZUJ0d0liM01MMmtFOUhIdHVrUlk0QWlIU0F4cWxpemYySU1Qb0kxN0pNTnpmcm5QUVotRjVVN1RHVDJqNjc4S0s4U3g1MA?oc=5)
 
 ---
 

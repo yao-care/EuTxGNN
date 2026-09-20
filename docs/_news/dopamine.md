@@ -58,7 +58,7 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 
 2026-09-16 <span class="news-drug-tag">Dopamine</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3RwSk96T21iWE9nSFhSSjdMOXR5alZwdWxOYllNOF9tOGItUGNNek9PcXpBY1NXUldHVWdzUzQ4WGJZQmwxME5iOFQzVjBwR2FXUXp2NS1NMlV3ZEFpVnBGZG5zWVV1UkdGb00zYWpQUTFTTWN3R1VURXlXakZrSndNMk1uN29VQk5NdURnV2dSYUYtQXRhMkdxNmFnOFBRUnJDWl9MOA?oc=5)
+Source: [news-medical.net](https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3RwSk96T21iWE9nSFhSSjdMOXR5alZwdWxOYllNOF9tOGItUGNNek9PcXpBY1NXUldHVWdzUzQ4WGJZQmwxME5iOFQzVjBwR2FXUXp2NS1NMlV3ZEFpVnBGZG5zWVV1UkdGb00zYWpQUTFTTWN3R1VURXlXakZrSndNMk1uN29VQk5NdURnV2dSYUYtQXRhMkdxNmFnOFBRUnJDWl9MOA?oc=5)
 
 ---
 
