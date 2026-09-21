@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="What news is there about Tazobactam?">
-<strong>Tazobactam</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tazobactam</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Tazobactam with the latest h
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Kostenloses Elternseminar: Asthma oder nur ein normaler Husten?, DRK-Kinderklinik Siegen gGmbH, Story](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
+
+2026-09-21 <span class="news-indication-tag">asthma</span>
+
+Source: [lifePR](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
+
+---
 
 ### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 

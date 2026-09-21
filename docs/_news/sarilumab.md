@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [COPD: IL-33-Inhibitor Tozorakimab kann Tripeltherapie unterstützen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUdFaE1maTl2ajVrM2tGNjZRUmxHZlVSU2ZSM0pzelVvaTFBT0xhOUJwR19JT0liNm5EM0pXLXFaRjhwRUpUS2hHdTRkb1NhVlBZY3FKd0FfcC0xTmdMcFVnSHQ2MEwyQURsTlZPbzJsQzFGWVBndkNFa1U1QWVlcFJLTEI5RmtsM0ZZMFpJWWV6bmg1cjVTM0pnT0hwX3M3VUhZV2tDSGNmM2lCNHg3a2dTelR3ckpEeXR2SVhBWWxicUFLeVloOHBJbzFoOTQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">copd</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUdFaE1maTl2ajVrM2tGNjZRUmxHZlVSU2ZSM0pzelVvaTFBT0xhOUJwR19JT0liNm5EM0pXLXFaRjhwRUpUS2hHdTRkb1NhVlBZY3FKd0FfcC0xTmdMcFVnSHQ2MEwyQURsTlZPbzJsQzFGWVBndkNFa1U1QWVlcFJLTEI5RmtsM0ZZMFpJWWV6bmg1cjVTM0pnT0hwX3M3VUhZV2tDSGNmM2lCNHg3a2dTelR3ckpEeXR2SVhBWWxicUFLeVloOHBJbzFoOTQ?oc=5)
+
+---
+
+### [Kostenloses Elternseminar: Asthma oder nur ein normaler Husten?, DRK-Kinderklinik Siegen gGmbH, Story](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
+
+2026-09-21 <span class="news-indication-tag">asthma</span>
+
+Source: [lifePR](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
+
+---
 
 ### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
@@ -75,14 +91,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV9
 2026-09-17 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXNHamQ3RHl2VTFOWDA3eEtNbE04SkhxTjdkY3RFd0NjQnRCUEEzTjNGVGR0WjktSzNQSFFTdWo3NGlERjB3R1lMS1BIeUk3RmxiNHhkRlFCRHh0WkFXd2hydU5aT0pRaU12a1RmUnIwYUI3djNnYjdwcVBrUHpNVW1Zd1pMM19ONk1YeGNVZ3NJUl9qTHV2S1YydmNiY09SWG1veWFwQ3FFQXNFUzlLM2l5bWNaY2VI?oc=5)
-
----
-
-### [Los hackers roban datos de pacientes zamoranos que participan en un estudio sobre la enfermedad de Crohn - La Opinión de Zamora](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJHa3NRaDBnVG03bFFaalJ4OEhPRmdOMjA0amhjZ2c4VzdjVzZRVUc4T3JFMERNRkQwSkdISmZ1X05SamptTXVvYmlSQU0wNnAwSEFOWFl1M1hqbXlfZC01enVVTkg5WkhyNmNOVEtFZjVMTXBDWWpCc2ZDWTNWNG95aDYtTWRPMWMtZHAwMWJORnB6NDF3cUtrcTd4OXlKVlJ1NTc3WnjSAa4BQVVfeXFMTlFoV1pvTTJpSHNuZjk2MmxFdkgxeHJkVU1qTV9Wdnc5TVRNQS1zUURBUmI2NElhTHgwa1Q0bVp1YjMwN2x5X2FoRGQzZFQxXzZ2RERIZWtjRHU3LUY0cldRcTRRT3QyOXZicFlubTNpZjV0czZlT3NZdDRRNUo0cWV4X25SR0JvN0Y1VHZwWkJ5UkZ4enBxVnh4VWI1cXVrVjhFNEFFRDM3Nm94ZXJB?oc=5)
-
-2026-09-16 <span class="news-indication-tag">enfermedad de Crohn</span>
-
-Source: [La Opinión de Zamora](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJHa3NRaDBnVG03bFFaalJ4OEhPRmdOMjA0amhjZ2c4VzdjVzZRVUc4T3JFMERNRkQwSkdISmZ1X05SamptTXVvYmlSQU0wNnAwSEFOWFl1M1hqbXlfZC01enVVTkg5WkhyNmNOVEtFZjVMTXBDWWpCc2ZDWTNWNG95aDYtTWRPMWMtZHAwMWJORnB6NDF3cUtrcTd4OXlKVlJ1NTc3WnjSAa4BQVVfeXFMTlFoV1pvTTJpSHNuZjk2MmxFdkgxeHJkVU1qTV9Wdnc5TVRNQS1zUURBUmI2NElhTHgwa1Q0bVp1YjMwN2x5X2FoRGQzZFQxXzZ2RERIZWtjRHU3LUY0cldRcTRRT3QyOXZicFlubTNpZjV0czZlT3NZdDRRNUo0cWV4X25SR0JvN0Y1VHZwWkJ5UkZ4enBxVnh4VWI1cXVrVjhFNEFFRDM3Nm94ZXJB?oc=5)
 
 ---
 

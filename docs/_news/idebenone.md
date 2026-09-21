@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Idebenone?">
-<strong>Idebenone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Idebenone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Lorsqu'ils mesurent leur tension à domicile, beaucoup commettent les mêmes erreurs](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">hypertension</span>
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
+
+---
+
+### [Ipertensione resistente, svolta clinica a Casa Sollievo: primo paziente trattato con denervazione renale - FoggiaToday - cronaca e notizie da Foggia](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEhVNFVSR3dnZnVHWU56LUxTSm03QmdzLUJaNTY3ZFllelAyVnI5TTdCM0xGSzFIWEJvSF9kNEFtR2FqV0stY05KX0Z3QXN1empLb2ZtTFl2VzJha0ptZ2RuNEFWT0prQ1hFeVM0OUV1RmNNTnZIcGppYlNLZFpQT0tWX052Rk80Q05yT2w4cUtkM3RuYlB1QTNn?oc=5)
+
+2026-09-21 <span class="news-indication-tag">ipertensione</span>
+
+Source: [FoggiaToday - cronaca e notizie da Foggia](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEhVNFVSR3dnZnVHWU56LUxTSm03QmdzLUJaNTY3ZFllelAyVnI5TTdCM0xGSzFIWEJvSF9kNEFtR2FqV0stY05KX0Z3QXN1empLb2ZtTFl2VzJha0ptZ2RuNEFWT0prQ1hFeVM0OUV1RmNNTnZIcGppYlNLZFpQT0tWX052Rk80Q05yT2w4cUtkM3RuYlB1QTNn?oc=5)
+
+---
 
 
 <div class="disclaimer">

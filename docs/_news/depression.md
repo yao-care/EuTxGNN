@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression News"
+title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depression. 1 articles, 7 related drugs."
+description: "Health news about depresión (depression). 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# depression News
+# depresión (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about depression?">
-<strong>depression</strong> currently has <strong>1 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about depresión (depression)?">
+<strong>depresión (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “depression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “depresión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “depression” and list
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Los neurólogos denuncian el diagnóstico tardío en la narcolepsia y el síndrome de piernas inquietas](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnEzMWdHSUxzM3BRUzllUGQ5SDdTUEpVZUZvVGJXaGFsUmJ3MS01cUV2YTdiVEU1S09fX0wzWjlid1R3amlYT2hWaTZZNl9jRXNMYWpqYUZ3U1lBRlljT3BnNGFXTmtMbzdVMUg0TUZGUlJiMW9GYkF6TFBMM2ZQcS1KMDd0TUxEOTMyUXFBUWg0YnFoV1J5cHNYSk1RR2dyc195enZlY3lBRGIxWl9ZV2MyeVM5YmI3cWttaXFQRVBtcWtCN2x3Sm9aLW9Sekc0dTV3blpDQThqUQ?oc=5)
+
+2026-09-21
+
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnEzMWdHSUxzM3BRUzllUGQ5SDdTUEpVZUZvVGJXaGFsUmJ3MS01cUV2YTdiVEU1S09fX0wzWjlid1R3amlYT2hWaTZZNl9jRXNMYWpqYUZ3U1lBRlljT3BnNGFXTmtMbzdVMUg0TUZGUlJiMW9GYkF6TFBMM2ZQcS1KMDd0TUxEOTMyUXFBUWg0YnFoV1J5cHNYSk1RR2dyc195enZlY3lBRGIxWl9ZV2MyeVM5YmI3cWttaXFQRVBtcWtCN2x3Sm9aLW9Sekc0dTV3blpDQThqUQ?oc=5)
+
+---
 
 ### [Cinque regole per resettare l'orologio biologico: come combattere il sonno difficile](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
 

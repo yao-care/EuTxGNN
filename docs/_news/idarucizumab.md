@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [COPD: IL-33-Inhibitor Tozorakimab kann Tripeltherapie unterstützen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUdFaE1maTl2ajVrM2tGNjZRUmxHZlVSU2ZSM0pzelVvaTFBT0xhOUJwR19JT0liNm5EM0pXLXFaRjhwRUpUS2hHdTRkb1NhVlBZY3FKd0FfcC0xTmdMcFVnSHQ2MEwyQURsTlZPbzJsQzFGWVBndkNFa1U1QWVlcFJLTEI5RmtsM0ZZMFpJWWV6bmg1cjVTM0pnT0hwX3M3VUhZV2tDSGNmM2lCNHg3a2dTelR3ckpEeXR2SVhBWWxicUFLeVloOHBJbzFoOTQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">copd</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUdFaE1maTl2ajVrM2tGNjZRUmxHZlVSU2ZSM0pzelVvaTFBT0xhOUJwR19JT0liNm5EM0pXLXFaRjhwRUpUS2hHdTRkb1NhVlBZY3FKd0FfcC0xTmdMcFVnSHQ2MEwyQURsTlZPbzJsQzFGWVBndkNFa1U1QWVlcFJLTEI5RmtsM0ZZMFpJWWV6bmg1cjVTM0pnT0hwX3M3VUhZV2tDSGNmM2lCNHg3a2dTelR3ckpEeXR2SVhBWWxicUFLeVloOHBJbzFoOTQ?oc=5)
+
+---
 
 ### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 

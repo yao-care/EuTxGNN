@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Los neurólogos denuncian el diagnóstico tardío en la narcolepsia y el síndrome de piernas inquietas](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnEzMWdHSUxzM3BRUzllUGQ5SDdTUEpVZUZvVGJXaGFsUmJ3MS01cUV2YTdiVEU1S09fX0wzWjlid1R3amlYT2hWaTZZNl9jRXNMYWpqYUZ3U1lBRlljT3BnNGFXTmtMbzdVMUg0TUZGUlJiMW9GYkF6TFBMM2ZQcS1KMDd0TUxEOTMyUXFBUWg0YnFoV1J5cHNYSk1RR2dyc195enZlY3lBRGIxWl9ZV2MyeVM5YmI3cWttaXFQRVBtcWtCN2x3Sm9aLW9Sekc0dTV3blpDQThqUQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnEzMWdHSUxzM3BRUzllUGQ5SDdTUEpVZUZvVGJXaGFsUmJ3MS01cUV2YTdiVEU1S09fX0wzWjlid1R3amlYT2hWaTZZNl9jRXNMYWpqYUZ3U1lBRlljT3BnNGFXTmtMbzdVMUg0TUZGUlJiMW9GYkF6TFBMM2ZQcS1KMDd0TUxEOTMyUXFBUWg0YnFoV1J5cHNYSk1RR2dyc195enZlY3lBRGIxWl9ZV2MyeVM5YmI3cWttaXFQRVBtcWtCN2x3Sm9aLW9Sekc0dTV3blpDQThqUQ?oc=5)
+
+---
 
 ### [Cinque regole per resettare l'orologio biologico: come combattere il sonno difficile](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
 
