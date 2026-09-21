@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [La 'edad de oro' de la investigación contra el alzhéimer: «Los dos únicos fármacos aprobados son solo la punta del iceberg»](https://news.google.com/rss/articles/CBMirgFBVV95cUxONDJlOXJ3N25UVlpjRDlCcUJkZ1llbnp2OFRLamZmV3RnZEVjd0R1Q0tnTllEQ3dlT296dDFYZVk0S1oyU2xTeFNLeXlzbnNaSlhIWThFaDJMcXNVekJVTnNUZmE4LVh1eklpaG1uU0wtbzhyMXdRMmM0b1FZV0hLaXFzc040V1Zyb1RMU2VGU2ZlcjJXUHJwVFVvMUg1NTcweloza3BaTkd3V3locVHSAbMBQVVfeXFMT1k1Y0I1Y1A0MU4zMFBNaWViY0oyU3duTGN4V1FuUGZIcXd3QVh5VnMwU05rTUsyVUNXZF9CdmdFSW11Q1o2LTJ6S0Z6UXNrVEkzZDJQdE5PcXJtalF4cGRnSGlwSkJTUHEyN3lJdXBRZTRuV0JxMnBxNEdXd2RSdEhmSDNjaDVaeXhacHh2ZGRXZ2U1VjVBOWxldElSOWo4cndGeFRub2JhYmZFRFdOeDllelU?oc=5)
+
+2026-09-20 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMirgFBVV95cUxONDJlOXJ3N25UVlpjRDlCcUJkZ1llbnp2OFRLamZmV3RnZEVjd0R1Q0tnTllEQ3dlT296dDFYZVk0S1oyU2xTeFNLeXlzbnNaSlhIWThFaDJMcXNVekJVTnNUZmE4LVh1eklpaG1uU0wtbzhyMXdRMmM0b1FZV0hLaXFzc040V1Zyb1RMU2VGU2ZlcjJXUHJwVFVvMUg1NTcweloza3BaTkd3V3locVHSAbMBQVVfeXFMT1k1Y0I1Y1A0MU4zMFBNaWViY0oyU3duTGN4V1FuUGZIcXd3QVh5VnMwU05rTUsyVUNXZF9CdmdFSW11Q1o2LTJ6S0Z6UXNrVEkzZDJQdE5PcXJtalF4cGRnSGlwSkJTUHEyN3lJdXBRZTRuV0JxMnBxNEdXd2RSdEhmSDNjaDVaeXhacHh2ZGRXZ2U1VjVBOWxldElSOWo4cndGeFRub2JhYmZFRFdOeDllelU?oc=5)
+
+---
+
+### [Smart beds and motion sensors - is this the future of dementia care?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
+
+2026-09-20 <span class="news-indication-tag">dementia</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
+
+---
 
 ### [How to carry out your own midlife dementia MOT - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
 

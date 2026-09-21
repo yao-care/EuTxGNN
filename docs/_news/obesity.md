@@ -38,11 +38,19 @@ This page brings together the latest health news about “Adipositas” and list
 
 ## Related News (5)
 
-### [GLP-1 auf dem Campus: Wie Druck zu schnellen Abnehm-Erfolgen wirkt](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
+### [Gesunde Leber, starke Zukunft – Prävention beginnt im Kindesalter](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEIyWllNeU5hZ2t5Nm5odUh6NVBPZjBQb1dfNDNlbU5yQ1NlUXBORlFPeEl0WnRxc2liSzJtaWxydTV2STAwaVdJbDUtTXVKQ0djR1AyQWFPWTlhSUMydUJPb2RnN2xKeU5SNl9QQmw4RGJRQ0tfNkh4NzRqd28wWUpTWV9VSGZ2aU5vaFJ0dENrWnNKY096akZ3SkRSRnJIRTF0d2Y1TlBGTENMd2NXajRjUVNWWkNIcHlnSw?oc=5)
+
+2026-09-21
+
+Source: [Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEIyWllNeU5hZ2t5Nm5odUh6NVBPZjBQb1dfNDNlbU5yQ1NlUXBORlFPeEl0WnRxc2liSzJtaWxydTV2STAwaVdJbDUtTXVKQ0djR1AyQWFPWTlhSUMydUJPb2RnN2xKeU5SNl9QQmw4RGJRQ0tfNkh4NzRqd28wWUpTWV9VSGZ2aU5vaFJ0dENrWnNKY096akZ3SkRSRnJIRTF0d2Y1TlBGTENMd2NXajRjUVNWWkNIcHlnSw?oc=5)
+
+---
+
+### [GLP-1 auf dem Campus: Wie Druck zu schnellen Abnehm-Erfolgen wirkt - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
 
 2026-09-20
 
-Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
 
 ---
 
@@ -51,14 +59,6 @@ Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQOW
 2026-09-20
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
-
----
-
-### [Fettleber: Mittelmeerkost senkt MASLD-Risiko um 14 Prozent](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUVidjdsV2Y0TG1Sd0F2Sk9oZTZJcXBUZ3lNR0lhUzBSRmQyUUVGSzVsYVpyelEtcU1ZTDVHenNoVEVHLVBSQXlMT1RzOV9iQnVZTDg4V2RZVmkxS0NrUkVlUXhqLUR5YlllTXVPV2lDZU9ZZnNXLWI0RU5TYURBMFM3cXpEQlM4QUlYLQ?oc=5)
-
-2026-09-19
-
-Source: [BornCity](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUVidjdsV2Y0TG1Sd0F2Sk9oZTZJcXBUZ3lNR0lhUzBSRmQyUUVGSzVsYVpyelEtcU1ZTDVHenNoVEVHLVBSQXlMT1RzOV9iQnVZTDg4V2RZVmkxS0NrUkVlUXhqLUR5YlllTXVPV2lDZU9ZZnNXLWI0RU5TYURBMFM3cXpEQlM4QUlYLQ?oc=5)
 
 ---
 

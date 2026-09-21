@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lecanemab?">
-<strong>Lecanemab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Lecanemab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Ein Funken Hoffnung: Neue Alzheimer-Medikamente können helfen](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUdFd3pPSnFfdWQtQjlFd0FMUTZVUzJRZ1U5R0JiWE1DN25GMHFiZWhlWnNIVzhsZDhRV3ZvWEQ5STJfdDRUZ1JTbWluVnVGbUp0UnhaOWRGdVJxenR1d3oweHNtR2dJZGkwR3VLTEpSOWZPRTdseUdDdXJ4cTVnSmpxN2h2M19LczRlT2dtTFZ2al9qbmZvaHpR?oc=5)
+
+2026-09-20 <span class="news-drug-tag">Lecanemab</span>
+
+Source: [BR](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUdFd3pPSnFfdWQtQjlFd0FMUTZVUzJRZ1U5R0JiWE1DN25GMHFiZWhlWnNIVzhsZDhRV3ZvWEQ5STJfdDRUZ1JTbWluVnVGbUp0UnhaOWRGdVJxenR1d3oweHNtR2dJZGkwR3VLTEpSOWZPRTdseUdDdXJ4cTVnSmpxN2h2M19LczRlT2dtTFZ2al9qbmZvaHpR?oc=5)
+
+---
 
 ### [«Faire mieux et plus tôt» : l’appel des médecins pour dépister le diabète de type 1 bien avant son apparition - Le Figaro Santé](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnByc2ExaDdxX3BDdUJHM2Z3VEhRYkx4YnZacHdlM2l3Q1lKaU1UMEFaWkFiU2R3QkRNRlRPWFRWbWtOeXN5MVNFclREMGIzM0lMZmNzNUJWQjFLc2FVOVRLbDdqUUo4SVVySUt1NGpJVXduWEFZWWtOYWFaSUNhYTVFc204cUJINEdjUWs0TUZLTWJJRU1tSzFEMldCZ2FqYzNxZ3hQZWRvR0RwZUFvQUtSSGpJRDRVUzBMcnQ0WVpTaV9yTzhOWTk3eTBUdmEwLVNkNE11Yjg0ckRJSHI3ekgyYw?oc=5)
 
@@ -94,19 +102,19 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cU
 
 ---
 
-### [Ictus, aumentano i casi nella fascia 20-54 anni: tra le cause ipertensione, diabete e abuso di sostanze - Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
-
-2026-09-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ18tU0tSQTVMaEZYeWVJLWMtU1VXYWd1OU9XQUNlOW5TaWZkUzY0TTI0WFR0MFd6c1lSTnRNUlJDbHZyOEswODZGeEIwUm1abnhKeHZjWnJ1OE5sSHpaODFWRGh5c3BZTm5SRFltZ2JZMFRIckFtdkhoQUtTWGQwUjRXZ3pyV1Ewci14eVAyRUFQNk1pdkZNem9fNEo0Rm9KMGJTeXhpWHh6dFZRV0pTNGxZbnRESXpCYXVLRElpRXdCcWJsR0IxNWR6NjJIaXhNdWZvSzVWcmR0dkdEOE9wY3dMOUtfYV93cHd4S3NoN0FoaU4yb2t6X1lfTFBSNnlWbkNBYXh2Y0ZFVmp1S3RtM2VHZmY1S3RURHpKRUxCVUVJNmhiN2g4d3QwWdIBsAJBVV95cUxON3RkNm5EZ1NzLS0zNnRlSWZxYjZhRENqeXlmVFNmOTVvTFhhVG5pdnM4ZmQ2TW9kT0lHT3JaWGc4UVV4d3UyX1hoZ1owZmFrRFNRZ1hqdlR1clBtNTZoSF95QWQ5Tk1ITms4ZmxpcnU4eUd4eUs1cHpOYldleVZkdUg2S3RyTnM0RjZlV2VuSVZiY01oVFNXdEVZTjJlUTBsZmQ2QU84UHlRQm5YLWxsX1dDTDk3VDhPNUduZWEwLUhBZFJjMnNORGdkcFYzVXBEWUtMeHB5NUh3WHN0NkgwcllGNEwyUmVFWE9wek9lM3RDc25hQXdrNDNxV1B3d1ZfQWhtYjlGNTl5dVdXUHktTlpDQlZkTVNhQURHN0g5VWNGTlBpVS16UDJTMVNrNWlF?oc=5)
-
----
-
 ### [Herz: Diese Auswirkungen haben Cholesterin-Senker auf das Demenzrisiko](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
 
 2026-09-18 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXhsMFo0alM3emJta3VjZHg4UWJ4ekFqV1Q0VktIdlJYd2NQMl82Y2xlUXlxRWR1SUNYaC1CaTNtX2pSdmtkYVVnNEFTVWtqempLMVNpamJHajlWbHNERUhYVHhIczFvSGdMWDI5VGJXUi1DRUd6N3Z6Q0wzV0VEeF8ycThhWWpmR3FiVzVTRVQxQ2h5MURVOUpJQkI0RnM1aElMVGxLYUlCMHZzZS0yR1MtbmRZaExQLUJxT1BPYjBrcl9ZaGkyYzJnMDdBMEltM09B?oc=5)
+
+---
+
+### [Hyperspektralkamera kann Diabetes und Hypertonie an Gesicht und Händen erkennen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd3VSZUZzNnZwOUNJXzJORmdOUmQ4dEtJb1YyLTdwRlhXRGF2YVBOeGE5bUx5NURDVXdSNy1lSmY2VGRQbnI2dmpFVWZPTHd1bDVEbks3ejdDVGl3Ny1QMU5aNEVRY3p4VEsyOHh4emRpOHdTOHJ3VjRjREJlVXAxNlBjOWM4M1dCamlWc3l0aDB4QUhobzJzNmg1SHpyd0NkUEJocC1JdjJWd0pBYXhJS2tZQkVRSWNqVU1RNzE5cEs5MnNyNFktVnlabWUteDBQUE14WGstZGFnaU1mMG9raVdfTnFPSlNLSXlxMTlnNGJ6ZXpvZUdUb0pR?oc=5)
+
+2026-09-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd3VSZUZzNnZwOUNJXzJORmdOUmQ4dEtJb1YyLTdwRlhXRGF2YVBOeGE5bUx5NURDVXdSNy1lSmY2VGRQbnI2dmpFVWZPTHd1bDVEbks3ejdDVGl3Ny1QMU5aNEVRY3p4VEsyOHh4emRpOHdTOHJ3VjRjREJlVXAxNlBjOWM4M1dCamlWc3l0aDB4QUhobzJzNmg1SHpyd0NkUEJocC1JdjJWd0pBYXhJS2tZQkVRSWNqVU1RNzE5cEs5MnNyNFktVnlabWUteDBQUE14WGstZGFnaU1mMG9raVdfTnFPSlNLSXlxMTlnNGJ6ZXpvZUdUb0pR?oc=5)
 
 ---
 
