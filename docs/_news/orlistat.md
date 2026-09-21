@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
 ### [Gesunde Leber, starke Zukunft – Prävention beginnt im Kindesalter](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEIyWllNeU5hZ2t5Nm5odUh6NVBPZjBQb1dfNDNlbU5yQ1NlUXBORlFPeEl0WnRxc2liSzJtaWxydTV2STAwaVdJbDUtTXVKQ0djR1AyQWFPWTlhSUMydUJPb2RnN2xKeU5SNl9QQmw4RGJRQ0tfNkh4NzRqd28wWUpTWV9VSGZ2aU5vaFJ0dENrWnNKY096akZ3SkRSRnJIRTF0d2Y1TlBGTENMd2NXajRjUVNWWkNIcHlnSw?oc=5)
 
@@ -70,6 +70,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLb
 
 ---
 
+### [Franco Berrino: «Chi ha la pancia si ammala di più. Ecco cosa fare per ridurla» - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGg?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGg?oc=5)
+
+---
+
 ### [Fettleber, Adipositas & Prädiabetes: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
 
 2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
@@ -78,27 +86,19 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eU
 
 ---
 
+### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+---
+
 ### [​Chronic stress and heart disease: Massive study finds ‘hidden threat’ that raises risk of heart attack and stroke by 43%​ - The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR0gGmAkFVX3lxTFBBQ1d5b3hCV0MxUlZlY2F4TGxMR1JVbzdBTnpkcG5KREVpcFpXakU2Wlo1NGEwMEs4Z1d0OU5CbXBQaDItMzloWkswNVEyTWhHWDZjaG92dy01WHA4NGpkU0luVS02TVBZZ2UtMEJsSGRnOEdaZXRSRmVQVDF1ZGJPM0JjOFZZQ05YMmg2OUE0ZzFPRUx0S1RFcDFCT1NfZ2tQYjZMbElKanB5dVpqbzZsQm5nWGdYU3NueVZla1dZN0lvTHlpWnB2RWVYY25SSnpZOGkwUlFSNEpCb1BqSlQxM3lycGZDck1OSzF3TkpNS2FIVUxGS2VVRmZJdHB3Mjd5Wm1rR1AtTzEwRmxFY3FhVmt6akRqc3JqcmJ2NTRBWnFjVlNvZw?oc=5)
 
-2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-09-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR0gGmAkFVX3lxTFBBQ1d5b3hCV0MxUlZlY2F4TGxMR1JVbzdBTnpkcG5KREVpcFpXakU2Wlo1NGEwMEs4Z1d0OU5CbXBQaDItMzloWkswNVEyTWhHWDZjaG92dy01WHA4NGpkU0luVS02TVBZZ2UtMEJsSGRnOEdaZXRSRmVQVDF1ZGJPM0JjOFZZQ05YMmg2OUE0ZzFPRUx0S1RFcDFCT1NfZ2tQYjZMbElKanB5dVpqbzZsQm5nWGdYU3NueVZla1dZN0lvTHlpWnB2RWVYY25SSnpZOGkwUlFSNEpCb1BqSlQxM3lycGZDck1OSzF3TkpNS2FIVUxGS2VVRmZJdHB3Mjd5Wm1rR1AtTzEwRmxFY3FhVmt6akRqc3JqcmJ2NTRBWnFjVlNvZw?oc=5)
-
----
-
-### [Vitamin K2: Studie zeigt Schutz vor Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlJLURtTUw5dm44Yk94VWtEaFZhWUlqTHlHcE9ZS091OGtuZ0J5RFIwR1N1X19Wb0toN0JnUTNkTV8wNHNjSVNybThneWN2ZXUtLTVxUDJIU3VqbW8tQXh5cUo3b3FLdGVGenJPSzJYNUxZX2FRbFZVRmxReEpQOW8yTUFXUzgyUzFmYUk2SXdjcGRtR1NlQ2hfMlVNN2tpOWo4?oc=5)
-
-2026-09-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjlJLURtTUw5dm44Yk94VWtEaFZhWUlqTHlHcE9ZS091OGtuZ0J5RFIwR1N1X19Wb0toN0JnUTNkTV8wNHNjSVNybThneWN2ZXUtLTVxUDJIU3VqbW8tQXh5cUo3b3FLdGVGenJPSzJYNUxZX2FRbFZVRmxReEpQOW8yTUFXUzgyUzFmYUk2SXdjcGRtR1NlQ2hfMlVNN2tpOWo4?oc=5)
-
----
-
-### [Investigadores españoles descubren cómo frenar el daño hepático provocado por la obesidad](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZyajFPeHlyblloZFp4OTMzZEUyb2pyVDVtSUxudWIxNmtvWFpiN2pXOV9lVkllOWdqM2l4bDdJdl90MTMxUjN5NnhBWHJ4VTJmemFCcjVCODBwSUxOckIxR0J4c1BqYnZRVlNfQjBNejB0M1BzZ3ZJdE5OTHJGWV9xV1dlQ1lWdXlkd25lMlJTZkhxS0o4TkhPNC1IRUVoOWhudkpUd1Y0b2pTMUdvalhoaWNJQdIBuwFBVV95cUxPWGwxb2QzUW14TFlVRUFBNWI1RWM0V0pSbEU2eXFhaFFkOHo5czZoSk4tVS1YVmhOcndrRGR1Qkg4VVRKdzJUNktuYVc5R3FFVkhyamgwSXZPYkVMZlMwRjl3ZjRGSnhvcXlhVTEyUFhYZjZudWdrdm5BU0dBcVVzQk9sb2lraTdTOWhIcVZxcFZUSU5OczBWVUFwVEZVckhXN3ZoQ0ZUTkhJUlVybzZidDdrNVlFdEoxSEY4?oc=5)
-
-2026-09-19 <span class="news-indication-tag">obesidad</span>
-
-Source: [OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZyajFPeHlyblloZFp4OTMzZEUyb2pyVDVtSUxudWIxNmtvWFpiN2pXOV9lVkllOWdqM2l4bDdJdl90MTMxUjN5NnhBWHJ4VTJmemFCcjVCODBwSUxOckIxR0J4c1BqYnZRVlNfQjBNejB0M1BzZ3ZJdE5OTHJGWV9xV1dlQ1lWdXlkd25lMlJTZkhxS0o4TkhPNC1IRUVoOWhudkpUd1Y0b2pTMUdvalhoaWNJQdIBuwFBVV95cUxPWGwxb2QzUW14TFlVRUFBNWI1RWM0V0pSbEU2eXFhaFFkOHo5czZoSk4tVS1YVmhOcndrRGR1Qkg4VVRKdzJUNktuYVc5R3FFVkhyamgwSXZPYkVMZlMwRjl3ZjRGSnhvcXlhVTEyUFhYZjZudWdrdm5BU0dBcVVzQk9sb2lraTdTOWhIcVZxcFZUSU5OczBWVUFwVEZVckhXN3ZoQ0ZUTkhJUlVybzZidDdrNVlFdEoxSEY4?oc=5)
 
 ---
 
@@ -106,29 +106,13 @@ Source: [OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZyajFP
 
 2026-09-18 <span class="news-indication-tag">ictus</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
-
----
-
-### [Une vaste étude révèle l'heure idéale du coucher pour protéger son cœur, et ce n'est pas avant minuit qu'il faut retenir - La Provence](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
-
-2026-09-18 <span class="news-indication-tag">AVC</span>
-
-Source: [La Provence](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTU4zN2tiaElBbFJycFROZkYwZWowSzI3RHUycTFwX3Y3clB2eEc1a19RbnBHZXk1VDRaeW9yc3h4dnpyUXItcnFCZTJOQW5jWjMwWjVJZWN3bndNTl9tdk8yY2oybEtsR1B6MUkzMDdwRHkxaTRjYTNWcjdidGFPMnBiaWFtVnVJVHZKR1Rmekp2X0xCT3hWRDh6SW5LQUlTVFU5WVZTOVI4ME5qOUF3amRkdVFSSW5EV1V5aE05VmFYUUJFQUZOQnE4eDNncjZ4dnhaeDFNaG1YTU9nQ0tqNjlVLXh0N2pFTktONjQ3emNJUUx1dV9TYWRFUU9vUGpiV2c?oc=5)
-
----
-
-### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt überraschendes Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
 
 ---
 
 ### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
 
-2026-09-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-09-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
 
@@ -142,11 +126,19 @@ Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV9
 
 ---
 
-### [Warum es manchen Patienten nach einem Schlaganfall besser geht als anderen - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
+### [Vitamin K2 bremst Gefäßverkalkung – zugleich rückt KI in die Kardiologie - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaG1TLU5ITnhESGRuM04zaXFub2tteU5OVGhEWE5iV0o1Y2JyRzFocVBIdG5zMzFjbGswX0M2U3VadmtEeFlRSmRXdkF5TkxSc0hKcGloekZiTGtNVk1LdEdlMGxreVZSb3pVMWphRUVybFVQTE82aDRlM0VPRE9ldy1sLXlmXzBvUWpKYkJZbHZnXzZDNkk5aXRDRHFTTVIwTUx5dXk0MVc?oc=5)
+
+2026-09-16 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaG1TLU5ITnhESGRuM04zaXFub2tteU5OVGhEWE5iV0o1Y2JyRzFocVBIdG5zMzFjbGswX0M2U3VadmtEeFlRSmRXdkF5TkxSc0hKcGloekZiTGtNVk1LdEdlMGxreVZSb3pVMWphRUVybFVQTE82aDRlM0VPRE9ldy1sLXlmXzBvUWpKYkJZbHZnXzZDNkk5aXRDRHFTTVIwTUx5dXk0MVc?oc=5)
+
+---
+
+### [Warum es manchen Patienten nach einem Schlaganfall besser geht als anderen](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
 
 2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
+Source: [biermann-medizin.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
 
 ---
 

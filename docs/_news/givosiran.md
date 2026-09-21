@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
+### [España registra "un ligero descenso" en las tasas de vacunación infantil, según un estudio - Noticias Venevisión](https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ZNQUFTUG5QdVhWbWhkNGdQTnQtWkVJbjlwem5PRVNGT1c4MVF1OThBR3Zfa1dURlhxWnRKbXV3UmRvZEx2b013NlhKeFZ2QjA4SVp0Xy1oMzNHSzdjNVB4OS02ek45ZEZlWUdqQ0tIYXd1c2NCdVduSExhNDZHYjBBaDh3bFRxdVhoYTBXXzF5Y0drc1BGc0ViRFNUU25uZzRoT05CRVZBNzBRVlNscTFzdmM4dHBUZkFUZkVuQkZXSnVJNTI0U2ZLajRIdw?oc=5)
 
-2026-09-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+2026-09-21 <span class="news-indication-tag">hepatitis</span>
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
-
----
-
-### [La vacunación infantil pierde impulso en la mayoría de países de la UE tras décadas de avances](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FEMHVydUhpME1rZmNBeFBFLWRTcmVVdmdZSWhhMjF5cDhNSnMxZVU2X19QNDlCUTRQOVJYTkVaV1hFdnBRYzhoQmgzeC1FQVBvV1R4YWpmcS13WHFFbWI5a1RBWWp5RlJMUzFNWmtTY3g2djM1MTM0cHNJSUlpVU5IaXd4SlJzRXZTV0pYYmNLbUxpVzUwdU01N0tiblhlUENzZTFMOW1TZlJkSXRETi1tUU1STTR1enprWkNBREY?oc=5)
-
-2026-09-20 <span class="news-indication-tag">hepatitis</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FEMHVydUhpME1rZmNBeFBFLWRTcmVVdmdZSWhhMjF5cDhNSnMxZVU2X19QNDlCUTRQOVJYTkVaV1hFdnBRYzhoQmgzeC1FQVBvV1R4YWpmcS13WHFFbWI5a1RBWWp5RlJMUzFNWmtTY3g2djM1MTM0cHNJSUlpVU5IaXd4SlJzRXZTV0pYYmNLbUxpVzUwdU01N0tiblhlUENzZTFMOW1TZlJkSXRETi1tUU1STTR1enprWkNBREY?oc=5)
+Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ZNQUFTUG5QdVhWbWhkNGdQTnQtWkVJbjlwem5PRVNGT1c4MVF1OThBR3Zfa1dURlhxWnRKbXV3UmRvZEx2b013NlhKeFZ2QjA4SVp0Xy1oMzNHSzdjNVB4OS02ek45ZEZlWUdqQ0tIYXd1c2NCdVduSExhNDZHYjBBaDh3bFRxdVhoYTBXXzF5Y0drc1BGc0ViRFNUU25uZzRoT05CRVZBNzBRVlNscTFzdmM4dHBUZkFUZkVuQkZXSnVJNTI0U2ZLajRIdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Entacapone</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [La 'edad de oro' de la investigación contra el alzhéimer: «Los dos únicos fármacos aprobados son solo la punta del iceberg»](https://news.google.com/rss/articles/CBMirgFBVV95cUxONDJlOXJ3N25UVlpjRDlCcUJkZ1llbnp2OFRLamZmV3RnZEVjd0R1Q0tnTllEQ3dlT296dDFYZVk0S1oyU2xTeFNLeXlzbnNaSlhIWThFaDJMcXNVekJVTnNUZmE4LVh1eklpaG1uU0wtbzhyMXdRMmM0b1FZV0hLaXFzc040V1Zyb1RMU2VGU2ZlcjJXUHJwVFVvMUg1NTcweloza3BaTkd3V3locVHSAbMBQVVfeXFMT1k1Y0I1Y1A0MU4zMFBNaWViY0oyU3duTGN4V1FuUGZIcXd3QVh5VnMwU05rTUsyVUNXZF9CdmdFSW11Q1o2LTJ6S0Z6UXNrVEkzZDJQdE5PcXJtalF4cGRnSGlwSkJTUHEyN3lJdXBRZTRuV0JxMnBxNEdXd2RSdEhmSDNjaDVaeXhacHh2ZGRXZ2U1VjVBOWxldElSOWo4cndGeFRub2JhYmZFRFdOeDllelU?oc=5)
+### [Los dentistas alertan de que el alzhéimer aumenta el riesgo de problemas bucodentales y dificulta su prevención](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMkw2a29WdUhkMU9SOUdLWkhwUGduM2pPLVU3cWlROURrRWdObzVqRC03cG9SbU5VYlVjbTZ4dTdtNjhyRzlmZkktcU16WkZscVROT1VHTC1OUXMydU51aGpHSXpsWFM1UVh3U3h3N29sSGpQN09RYXV2SU8wbVhlazZfT0VlbVlveWttQmkzYnNzSU5WRDl0VzRQX1ZLVEtqUjhsdVRhbG9RWU43QTZ5ZWRMM1BLMHFXU0FIVm1aLWlJTnRyVXZZUWljelp4ZGFaLWQ0V0Jld21MLWVMYVJaRTJ5clpSX2pnSU1PUEJKQ3pRbDlJZDdINA?oc=5)
 
-2026-09-20 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+2026-09-21 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
-Source: [ABC](https://news.google.com/rss/articles/CBMirgFBVV95cUxONDJlOXJ3N25UVlpjRDlCcUJkZ1llbnp2OFRLamZmV3RnZEVjd0R1Q0tnTllEQ3dlT296dDFYZVk0S1oyU2xTeFNLeXlzbnNaSlhIWThFaDJMcXNVekJVTnNUZmE4LVh1eklpaG1uU0wtbzhyMXdRMmM0b1FZV0hLaXFzc040V1Zyb1RMU2VGU2ZlcjJXUHJwVFVvMUg1NTcweloza3BaTkd3V3locVHSAbMBQVVfeXFMT1k1Y0I1Y1A0MU4zMFBNaWViY0oyU3duTGN4V1FuUGZIcXd3QVh5VnMwU05rTUsyVUNXZF9CdmdFSW11Q1o2LTJ6S0Z6UXNrVEkzZDJQdE5PcXJtalF4cGRnSGlwSkJTUHEyN3lJdXBRZTRuV0JxMnBxNEdXd2RSdEhmSDNjaDVaeXhacHh2ZGRXZ2U1VjVBOWxldElSOWo4cndGeFRub2JhYmZFRFdOeDllelU?oc=5)
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMkw2a29WdUhkMU9SOUdLWkhwUGduM2pPLVU3cWlROURrRWdObzVqRC03cG9SbU5VYlVjbTZ4dTdtNjhyRzlmZkktcU16WkZscVROT1VHTC1OUXMydU51aGpHSXpsWFM1UVh3U3h3N29sSGpQN09RYXV2SU8wbVhlazZfT0VlbVlveWttQmkzYnNzSU5WRDl0VzRQX1ZLVEtqUjhsdVRhbG9RWU43QTZ5ZWRMM1BLMHFXU0FIVm1aLWlJTnRyVXZZUWljelp4ZGFaLWQ0V0Jld21MLWVMYVJaRTJ5clpSX2pnSU1PUEJKQ3pRbDlJZDdINA?oc=5)
+
+---
+
+### [Dementia is Britain’s biggest health crisis, experts claim - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
 
 ---
 
@@ -66,7 +74,15 @@ Source: [ABC](https://news.google.com/rss/articles/CBMirgFBVV95cUxONDJlOXJ3N25UV
 
 2026-09-20 <span class="news-indication-tag">dementia</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
+
+---
+
+### [Demenz-Prävention: 45% aller Fälle durch Lebensstil vermeidbar](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEpOd1NIbnZOYVN5VDdJUmY0bm1JZ3B5NEJ6NERJcnBKcEhhTzJnWmNmTktmUTUzRy1VcVRXMVFKT0xCMk1JZFBGLVllN2J0ZnpncUNQQ05BU1h4LUxRQ0lIbVpOa1QzRDczcnZUTi0tbDFnYzluUGplM0lTdE0wUGc1RzNlVTRSNmw2UURmaExiSm8?oc=5)
+
+2026-09-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEpOd1NIbnZOYVN5VDdJUmY0bm1JZ3B5NEJ6NERJcnBKcEhhTzJnWmNmTktmUTUzRy1VcVRXMVFKT0xCMk1JZFBGLVllN2J0ZnpncUNQQ05BU1h4LUxRQ0lIbVpOa1QzRDczcnZUTi0tbDFnYzluUGplM0lTdE0wUGc1RzNlVTRSNmw2UURmaExiSm8?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsV
 2026-09-20 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
-
----
-
-### [Civil service took six months to post dementia tsar job advert - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWI3NDN3eXhMNkJoVlZJU1VJUVhQYzNjYlZHTHRhSzRZaW5HYU5xNkU0SkREdEZqZE16NGJaODBaUFBxMjhEczBuUmNzczZOT1Y1bWduekpmcWdJZHlyQnZ3dkhaTm94Znl3YUZmS2NlUjJYcmVOTUIyc1dnaEk4TVlzaFNXZFo3d1RQSmlDQUd1WVJyMm1JVHlmNWI2NnhaUlZ5c1BlMWdIRlF6?oc=5)
-
-2026-09-17 <span class="news-indication-tag">dementia</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWI3NDN3eXhMNkJoVlZJU1VJUVhQYzNjYlZHTHRhSzRZaW5HYU5xNkU0SkREdEZqZE16NGJaODBaUFBxMjhEczBuUmNzczZOT1Y1bWduekpmcWdJZHlyQnZ3dkhaTm94Znl3YUZmS2NlUjJYcmVOTUIyc1dnaEk4TVlzaFNXZFo3d1RQSmlDQUd1WVJyMm1JVHlmNWI2NnhaUlZ5c1BlMWdIRlF6?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Elvitegravir with the latest
 
 ## Related News (1)
 
-### [La vacunación infantil pierde impulso en la mayoría de países de la UE tras décadas de avances](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FEMHVydUhpME1rZmNBeFBFLWRTcmVVdmdZSWhhMjF5cDhNSnMxZVU2X19QNDlCUTRQOVJYTkVaV1hFdnBRYzhoQmgzeC1FQVBvV1R4YWpmcS13WHFFbWI5a1RBWWp5RlJMUzFNWmtTY3g2djM1MTM0cHNJSUlpVU5IaXd4SlJzRXZTV0pYYmNLbUxpVzUwdU01N0tiblhlUENzZTFMOW1TZlJkSXRETi1tUU1STTR1enprWkNBREY?oc=5)
+### [España registra "un ligero descenso" en las tasas de vacunación infantil, según un estudio - Noticias Venevisión](https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ZNQUFTUG5QdVhWbWhkNGdQTnQtWkVJbjlwem5PRVNGT1c4MVF1OThBR3Zfa1dURlhxWnRKbXV3UmRvZEx2b013NlhKeFZ2QjA4SVp0Xy1oMzNHSzdjNVB4OS02ek45ZEZlWUdqQ0tIYXd1c2NCdVduSExhNDZHYjBBaDh3bFRxdVhoYTBXXzF5Y0drc1BGc0ViRFNUU25uZzRoT05CRVZBNzBRVlNscTFzdmM4dHBUZkFUZkVuQkZXSnVJNTI0U2ZLajRIdw?oc=5)
 
-2026-09-20 <span class="news-indication-tag">hepatitis</span>
+2026-09-21 <span class="news-indication-tag">hepatitis</span>
 
-Source: [iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FEMHVydUhpME1rZmNBeFBFLWRTcmVVdmdZSWhhMjF5cDhNSnMxZVU2X19QNDlCUTRQOVJYTkVaV1hFdnBRYzhoQmgzeC1FQVBvV1R4YWpmcS13WHFFbWI5a1RBWWp5RlJMUzFNWmtTY3g2djM1MTM0cHNJSUlpVU5IaXd4SlJzRXZTV0pYYmNLbUxpVzUwdU01N0tiblhlUENzZTFMOW1TZlJkSXRETi1tUU1STTR1enprWkNBREY?oc=5)
+Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ZNQUFTUG5QdVhWbWhkNGdQTnQtWkVJbjlwem5PRVNGT1c4MVF1OThBR3Zfa1dURlhxWnRKbXV3UmRvZEx2b013NlhKeFZ2QjA4SVp0Xy1oMzNHSzdjNVB4OS02ek45ZEZlWUdqQ0tIYXd1c2NCdVduSExhNDZHYjBBaDh3bFRxdVhoYTBXXzF5Y0drc1BGc0ViRFNUU25uZzRoT05CRVZBNzBRVlNscTFzdmM4dHBUZkFUZkVuQkZXSnVJNTI0U2ZLajRIdw?oc=5)
 
 ---
 
