@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Furoate?">
-<strong>Fluticasone Furoate</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Fluticasone Furoate</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [COPD: IL-33-Inhibitor Tozorakimab kann Tripeltherapie unterstützen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUdFaE1maTl2ajVrM2tGNjZRUmxHZlVSU2ZSM0pzelVvaTFBT0xhOUJwR19JT0liNm5EM0pXLXFaRjhwRUpUS2hHdTRkb1NhVlBZY3FKd0FfcC0xTmdMcFVnSHQ2MEwyQURsTlZPbzJsQzFGWVBndkNFa1U1QWVlcFJLTEI5RmtsM0ZZMFpJWWV6bmg1cjVTM0pnT0hwX3M3VUhZV2tDSGNmM2lCNHg3a2dTelR3ckpEeXR2SVhBWWxicUFLeVloOHBJbzFoOTQ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">copd</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUdFaE1maTl2ajVrM2tGNjZRUmxHZlVSU2ZSM0pzelVvaTFBT0xhOUJwR19JT0liNm5EM0pXLXFaRjhwRUpUS2hHdTRkb1NhVlBZY3FKd0FfcC0xTmdMcFVnSHQ2MEwyQURsTlZPbzJsQzFGWVBndkNFa1U1QWVlcFJLTEI5RmtsM0ZZMFpJWWV6bmg1cjVTM0pnT0hwX3M3VUhZV2tDSGNmM2lCNHg3a2dTelR3ckpEeXR2SVhBWWxicUFLeVloOHBJbzFoOTQ?oc=5)
-
----
+## Related News (3)
 
 ### [Kostenloses Elternseminar: Asthma oder nur ein normaler Husten?, DRK-Kinderklinik Siegen gGmbH, Story](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
 

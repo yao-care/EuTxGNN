@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 4 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 6 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>4 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>6 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
 
 ### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
 
@@ -124,11 +124,11 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 
 ---
 
-### [«Faire mieux et plus tôt» : l’appel des médecins pour dépister le diabète de type 1 bien avant son apparition](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnByc2ExaDdxX3BDdUJHM2Z3VEhRYkx4YnZacHdlM2l3Q1lKaU1UMEFaWkFiU2R3QkRNRlRPWFRWbWtOeXN5MVNFclREMGIzM0lMZmNzNUJWQjFLc2FVOVRLbDdqUUo4SVVySUt1NGpJVXduWEFZWWtOYWFaSUNhYTVFc204cUJINEdjUWs0TUZLTWJJRU1tSzFEMldCZ2FqYzNxZ3hQZWRvR0RwZUFvQUtSSGpJRDRVUzBMcnQ0WVpTaV9yTzhOWTk3eTBUdmEwLVNkNE11Yjg0ckRJSHI3ekgyYw?oc=5)
+### [«Faire mieux et plus tôt» : l’appel des médecins pour dépister le diabète de type 1 bien avant son apparition - Le Figaro Santé](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnByc2ExaDdxX3BDdUJHM2Z3VEhRYkx4YnZacHdlM2l3Q1lKaU1UMEFaWkFiU2R3QkRNRlRPWFRWbWtOeXN5MVNFclREMGIzM0lMZmNzNUJWQjFLc2FVOVRLbDdqUUo4SVVySUt1NGpJVXduWEFZWWtOYWFaSUNhYTVFc204cUJINEdjUWs0TUZLTWJJRU1tSzFEMldCZ2FqYzNxZ3hQZWRvR0RwZUFvQUtSSGpJRDRVUzBMcnQ0WVpTaV9yTzhOWTk3eTBUdmEwLVNkNE11Yjg0ckRJSHI3ekgyYw?oc=5)
 
 2026-09-20
 
-Source: [sante.lefigaro.fr](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnByc2ExaDdxX3BDdUJHM2Z3VEhRYkx4YnZacHdlM2l3Q1lKaU1UMEFaWkFiU2R3QkRNRlRPWFRWbWtOeXN5MVNFclREMGIzM0lMZmNzNUJWQjFLc2FVOVRLbDdqUUo4SVVySUt1NGpJVXduWEFZWWtOYWFaSUNhYTVFc204cUJINEdjUWs0TUZLTWJJRU1tSzFEMldCZ2FqYzNxZ3hQZWRvR0RwZUFvQUtSSGpJRDRVUzBMcnQ0WVpTaV9yTzhOWTk3eTBUdmEwLVNkNE11Yjg0ckRJSHI3ekgyYw?oc=5)
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnByc2ExaDdxX3BDdUJHM2Z3VEhRYkx4YnZacHdlM2l3Q1lKaU1UMEFaWkFiU2R3QkRNRlRPWFRWbWtOeXN5MVNFclREMGIzM0lMZmNzNUJWQjFLc2FVOVRLbDdqUUo4SVVySUt1NGpJVXduWEFZWWtOYWFaSUNhYTVFc204cUJINEdjUWs0TUZLTWJJRU1tSzFEMldCZ2FqYzNxZ3hQZWRvR0RwZUFvQUtSSGpJRDRVUzBMcnQ0WVpTaV9yTzhOWTk3eTBUdmEwLVNkNE11Yjg0ckRJSHI3ekgyYw?oc=5)
 
 ---
 
@@ -140,11 +140,27 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95c
 
 ---
 
+### [Fettleber, Adipositas & Prädiabetes: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+2026-09-20
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+---
+
 ### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
 2026-09-20
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+---
+
+### [Alle Diabetes-Patienten gegen Herpes zoster impfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+2026-09-17
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
 
 ---
 

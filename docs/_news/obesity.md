@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas (obesity) News"
+title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 4 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 5 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# Adipositas (obesity) News
+# obesità (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesità (obesity)?">
+<strong>obesità (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesità” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -36,13 +36,21 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Gesunde Leber, starke Zukunft – Prävention beginnt im Kindesalter](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEIyWllNeU5hZ2t5Nm5odUh6NVBPZjBQb1dfNDNlbU5yQ1NlUXBORlFPeEl0WnRxc2liSzJtaWxydTV2STAwaVdJbDUtTXVKQ0djR1AyQWFPWTlhSUMydUJPb2RnN2xKeU5SNl9QQmw4RGJRQ0tfNkh4NzRqd28wWUpTWV9VSGZ2aU5vaFJ0dENrWnNKY096akZ3SkRSRnJIRTF0d2Y1TlBGTENMd2NXajRjUVNWWkNIcHlnSw?oc=5)
+### [Farmaci, anti-obesità semaglutide al centro della nuova protezione cardio-renale - Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
 
 2026-09-21
 
-Source: [Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEIyWllNeU5hZ2t5Nm5odUh6NVBPZjBQb1dfNDNlbU5yQ1NlUXBORlFPeEl0WnRxc2liSzJtaWxydTV2STAwaVdJbDUtTXVKQ0djR1AyQWFPWTlhSUMydUJPb2RnN2xKeU5SNl9QQmw4RGJRQ0tfNkh4NzRqd28wWUpTWV9VSGZ2aU5vaFJ0dENrWnNKY096akZ3SkRSRnJIRTF0d2Y1TlBGTENMd2NXajRjUVNWWkNIcHlnSw?oc=5)
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+
+---
+
+### [Ketogene Diät senkt Leberfett um 67 Prozent: Effekte auf Lipide & Stoffwechsel - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBNzZrN0xNRThhWkVqZ2dVaHpnN3pPRzBFN3FqVjVEdEkxdV9CbDZMR3BrMDJEZTNVM3FJSDlvbHgtV2JmLVFmTXcyV1dJaEtmRTN2OXJDcHctdWpZZTdJWllxOFptSzlTc1NBQXVoWk9pWk9QMHZqejdQcjBfR3c4eXBLVXFZXzNEU2hWTm9GeVpzdWY0eTNUM25CaWJRdjZuLWdwYlFyM2FD?oc=5)
+
+2026-09-21
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBNzZrN0xNRThhWkVqZ2dVaHpnN3pPRzBFN3FqVjVEdEkxdV9CbDZMR3BrMDJEZTNVM3FJSDlvbHgtV2JmLVFmTXcyV1dJaEtmRTN2OXJDcHctdWpZZTdJWllxOFptSzlTc1NBQXVoWk9pWk9QMHZqejdQcjBfR3c4eXBLVXFZXzNEU2hWTm9GeVpzdWY0eTNUM25CaWJRdjZuLWdwYlFyM2FD?oc=5)
 
 ---
 
@@ -54,19 +62,19 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95c
 
 ---
 
+### [Fettleber, Adipositas & Prädiabetes: Ketogene Diät besonders empfehlenswert](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+2026-09-20
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnF2eUNaRmk2UjA2TUhxazVQZHhqeXJ5RGpvQW5UcUVjblVfMlA4S0RUVjFOaWJZNHNMc1RoMkRtM2I0OEJ0MTBsX2VfRGhZcjhYQ0lYUkpBTGZXenQtNEJEVUdoalFaQU1MN19sVVZ5blNWLXctdXo0THkxSFE2YWV2SnNEaDFBY3FYRHpjRmR2ZE82MTN0Xzd0WEFqZnczLV9sY3VGSGZsa1MwMUlWelhjWTJ2MmVuRDJHcXBUa01hX2wzM2kySTVWQ3NUcnc?oc=5)
+
+---
+
 ### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
 2026-09-20
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
-
----
-
-### [Vitamin-D-Mangel: Bei diesen Menschen steigt das Sterberisiko um 123 Prozent - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
-
-2026-09-18
-
-Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnFTblJNVVdud090czUyNUhJOGlZWTNYUzdiRzhmQTZHVE83NmdmNFF2NGd6RUdzUDV1bk9ObVFuRzlIRUVSVUR3aDdvS3ozWVFhMjN2QXdCMUY5alhrZzJrYWdTS3NfQ3BRblpoeXlpQ29RRDZPekR2bDA3ZFhZMDZ1XzNpRmI4d3FVdGdySHk2S1NGUW9YeTJnMmNWelFPLWdmaVQ5ZEJoV0RjM0hib3FNU2xlMFFhSDRld1RmVWFNSWhtN3pDV1dNeE1YRHhES2c?oc=5)
 
 ---
 

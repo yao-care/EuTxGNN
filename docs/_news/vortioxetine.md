@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 
 ## Related News (2)
 
-### [Los neurólogos denuncian el diagnóstico tardío en la narcolepsia y el síndrome de piernas inquietas](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnEzMWdHSUxzM3BRUzllUGQ5SDdTUEpVZUZvVGJXaGFsUmJ3MS01cUV2YTdiVEU1S09fX0wzWjlid1R3amlYT2hWaTZZNl9jRXNMYWpqYUZ3U1lBRlljT3BnNGFXTmtMbzdVMUg0TUZGUlJiMW9GYkF6TFBMM2ZQcS1KMDd0TUxEOTMyUXFBUWg0YnFoV1J5cHNYSk1RR2dyc195enZlY3lBRGIxWl9ZV2MyeVM5YmI3cWttaXFQRVBtcWtCN2x3Sm9aLW9Sekc0dTV3blpDQThqUQ?oc=5)
+### [Dra. Nadège Van Blercom, jefa del servicio de Neurología: "Hasta el 90% de los casos de síndrome de piernas inquietas están sin diagnosticar"](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWG8xSlpKb18zUVdCTEhDMmt1amM4NnhnVWpNb2ZJdkNDNWlNQXpfRzJiMW0zVFB6VFMxOWtnRXBZbTVRbEtsekVnT3VOalkzNU1mQUVJWUs1TjRrV0plTHBya2tncnUwSEpHYU9FRk5WV3VpX2d4OTA4WGJibGIxRlVJWU9XMmM?oc=5)
 
 2026-09-21 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnEzMWdHSUxzM3BRUzllUGQ5SDdTUEpVZUZvVGJXaGFsUmJ3MS01cUV2YTdiVEU1S09fX0wzWjlid1R3amlYT2hWaTZZNl9jRXNMYWpqYUZ3U1lBRlljT3BnNGFXTmtMbzdVMUg0TUZGUlJiMW9GYkF6TFBMM2ZQcS1KMDd0TUxEOTMyUXFBUWg0YnFoV1J5cHNYSk1RR2dyc195enZlY3lBRGIxWl9ZV2MyeVM5YmI3cWttaXFQRVBtcWtCN2x3Sm9aLW9Sekc0dTV3blpDQThqUQ?oc=5)
+Source: [Comunicae](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWG8xSlpKb18zUVdCTEhDMmt1amM4NnhnVWpNb2ZJdkNDNWlNQXpfRzJiMW0zVFB6VFMxOWtnRXBZbTVRbEtsekVnT3VOalkzNU1mQUVJWUs1TjRrV0plTHBya2tncnUwSEpHYU9FRk5WV3VpX2d4OTA4WGJibGIxRlVJWU9XMmM?oc=5)
 
 ---
 

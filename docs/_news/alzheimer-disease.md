@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad de Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad de Alzheimer (alzheimer disease). 7 articles, 16 related drugs."
+description: "Health news about enfermedad de Alzheimer (alzheimer disease). 9 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about enfermedad de Alzheimer (alzheimer disease)?">
-<strong>enfermedad de Alzheimer (alzheimer disease)</strong> currently has <strong>7 news articles</strong> and 16 related drugs.
+<strong>enfermedad de Alzheimer (alzheimer disease)</strong> currently has <strong>9 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ This page brings together the latest health news about “enfermedad de Alzheime
 </ul>
 </div>
 
-## Related News (7)
+## Related News (9)
 
-### [Más de 800.000 personas padecen la enfermedad de alzheimer en España y la mayoría son mujeres](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOU9BOGVkVjB1MU9uaEpITjVYVWp6ckFpTTh6dXVKcFpqOGh1dnRkTWJnWnBVWUkwSTFFblFFZEdNa1FMWUo5enZyZ1VlVkdjS2hHZFZfSm84dWsteHJVN3NHLVRRTnBRcUdSUk1WU1FzYzZvVlh2SlpQNndrUGtRcjhZUXJXTzVqMzAzLUNoNV91Wk1IaTEwUnFEOGlCR3pGZlNjemhJVTRTZ19hcUJncEhtVlA3d1NUNFAzdDhoRTR2X2FieTdxX2RzWloyNmZTNVEzN2pZUGd0aG5OX1hIMVVKdnp5cndEdVFOV0JFWk1XVy1jejA4SDhoQ3B6VV8wWjNxVF9wbnfSAY4CQVVfeXFMTk9Nb2x3YzFSWUlkUGlCaldmQ0NDRDJzRndJLVJrX2JhUmlLaklGSW5zV2R1RWZScTI0NzZsVnA4RXNXelhFRzRPeF8yMHhhWXpHeDVwekdONTVfTDFxemFzTXVWbk4wc1ZHNlVDVEVYTVhkcUZ0aXFkb09rRzkteUsxbkFkX0h4X2o4TjREUmVUc0J5ZFFwNjlybjdfVHpiVlVLcHFtdS01TGY5R0Fscm5kT2Z0R2pqV29GUFJta2RKRFl5Yy14NmpDSmhGc1Y2cFp5SW1LUXV0NjAybmlVS3FrblgtUGZ6a21rZ1dWSkh6blJKME9qRmVtMmIzdHN2NEkyM3FXd1czZnhiRkJB?oc=5)
+### [Más de 800.000 personas padecen la enfermedad de Alzheimer en España y la mayoría son mujeres](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcDd2WDhCSllwX2F1RFdUN1NDSndBZkt6NXBFeW16SHNhcE9ZZTFHQUs0SGY2czRQU0ZxT0o5UTJWWmp4am5feUI2am9JaUt4RnhEYV81NHBNRWYyWHZBVHdMaUQ3WEdZYmpHOUctN211OFh3TE9yVjhveU1jUTBmSTVSbDU3a3BDdzh6M2ZVN3NmVnpNUVZUZ1hkUEhQRXFzQXZPeEpVXy00blQ4eWNwVTlWVUlvUjc4eHNjVVVGSy14Z1BJVmRpcVpxNTY5ZzBHczJQUkkxUXhPVWVYRV9OVWItMVJEeWVNRlpXRHlTTGFuSzk4U1N5ZkVMNkI0a3VqNXc3dUNkYkfSAY4CQVVfeXFMUEtTTEExQ01qODZZcWhTcU1PYWtHaU1LYWxJaHZYQzVNOVZjYzc2YUR1SUs2MV9tc244UVU5R1JIVmd4bzBZdkdyQWE4bmVqcDhQckhqSXNULUlWczVPNEV6TUJNeHM3cGtGQlJwVHFUS01xSTdZbEtrNkItSTJVYUF5Smw5c1lSZUR4MFhMZmU1S1N4N0tXcHVlX2NwcWpfWF94b01leHVQRFY2b3ljWXBpSEo5TndFY1dfY1l2YXByZElWNTEyaWg2WUQyYVpJbEhmMlRROGoxUjNFcmRIN2VETDROVVNnVEFjYktLQk1jaTVSUGVFYnRZWGdLVzdsckR0OEk2TWJvaWdOVExn?oc=5)
 
 2026-09-21
 
-Source: [Telemadrid](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOU9BOGVkVjB1MU9uaEpITjVYVWp6ckFpTTh6dXVKcFpqOGh1dnRkTWJnWnBVWUkwSTFFblFFZEdNa1FMWUo5enZyZ1VlVkdjS2hHZFZfSm84dWsteHJVN3NHLVRRTnBRcUdSUk1WU1FzYzZvVlh2SlpQNndrUGtRcjhZUXJXTzVqMzAzLUNoNV91Wk1IaTEwUnFEOGlCR3pGZlNjemhJVTRTZ19hcUJncEhtVlA3d1NUNFAzdDhoRTR2X2FieTdxX2RzWloyNmZTNVEzN2pZUGd0aG5OX1hIMVVKdnp5cndEdVFOV0JFWk1XVy1jejA4SDhoQ3B6VV8wWjNxVF9wbnfSAY4CQVVfeXFMTk9Nb2x3YzFSWUlkUGlCaldmQ0NDRDJzRndJLVJrX2JhUmlLaklGSW5zV2R1RWZScTI0NzZsVnA4RXNXelhFRzRPeF8yMHhhWXpHeDVwekdONTVfTDFxemFzTXVWbk4wc1ZHNlVDVEVYTVhkcUZ0aXFkb09rRzkteUsxbkFkX0h4X2o4TjREUmVUc0J5ZFFwNjlybjdfVHpiVlVLcHFtdS01TGY5R0Fscm5kT2Z0R2pqV29GUFJta2RKRFl5Yy14NmpDSmhGc1Y2cFp5SW1LUXV0NjAybmlVS3FrblgtUGZ6a21rZ1dWSkh6blJKME9qRmVtMmIzdHN2NEkyM3FXd1czZnhiRkJB?oc=5)
+Source: [Telemadrid](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcDd2WDhCSllwX2F1RFdUN1NDSndBZkt6NXBFeW16SHNhcE9ZZTFHQUs0SGY2czRQU0ZxT0o5UTJWWmp4am5feUI2am9JaUt4RnhEYV81NHBNRWYyWHZBVHdMaUQ3WEdZYmpHOUctN211OFh3TE9yVjhveU1jUTBmSTVSbDU3a3BDdzh6M2ZVN3NmVnpNUVZUZ1hkUEhQRXFzQXZPeEpVXy00blQ4eWNwVTlWVUlvUjc4eHNjVVVGSy14Z1BJVmRpcVpxNTY5ZzBHczJQUkkxUXhPVWVYRV9OVWItMVJEeWVNRlpXRHlTTGFuSzk4U1N5ZkVMNkI0a3VqNXc3dUNkYkfSAY4CQVVfeXFMUEtTTEExQ01qODZZcWhTcU1PYWtHaU1LYWxJaHZYQzVNOVZjYzc2YUR1SUs2MV9tc244UVU5R1JIVmd4bzBZdkdyQWE4bmVqcDhQckhqSXNULUlWczVPNEV6TUJNeHM3cGtGQlJwVHFUS01xSTdZbEtrNkItSTJVYUF5Smw5c1lSZUR4MFhMZmU1S1N4N0tXcHVlX2NwcWpfWF94b01leHVQRFY2b3ljWXBpSEo5TndFY1dfY1l2YXByZElWNTEyaWg2WUQyYVpJbEhmMlRROGoxUjNFcmRIN2VETDROVVNnVEFjYktLQk1jaTVSUGVFYnRZWGdLVzdsckR0OEk2TWJvaWdOVExn?oc=5)
+
+---
+
+### [La maladie d'Alzheimer commence à être considérée comme une maladie traitable selon une étude](https://news.google.com/rss/articles/CBMickFVX3lxTE11dUhzMzFmN0xfY2NZSW1fWkFValhTOEZ3N1ZDWWkxZ1BMVmxEalEzSlQzMDJuUVFKRGE3ZklBRlB1eVRJemdKeFVWaHMxc2Q3a1RHSnVjRHJ1akdlanJtTkZyblIxLWx2bGc4cUMxODZjUQ?oc=5)
+
+2026-09-21
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTE11dUhzMzFmN0xfY2NZSW1fWkFValhTOEZ3N1ZDWWkxZ1BMVmxEalEzSlQzMDJuUVFKRGE3ZklBRlB1eVRJemdKeFVWaHMxc2Q3a1RHSnVjRHJ1akdlanJtTkZyblIxLWx2bGc4cUMxODZjUQ?oc=5)
 
 ---
 
@@ -58,7 +66,7 @@ Source: [Telemadrid](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOU9BOG
 
 2026-09-21
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJobnE1WXc4b2paZ003UkxWVzhUZWZZUXdVNkFEbzdtcGdfMmMwOGdTRTQzc3Q0Vm5Hemh6Tk5DR3VUeXBBaU8ySHJ4d0NITl9uemtKTkE?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJobnE1WXc4b2paZ003UkxWVzhUZWZZUXdVNkFEbzdtcGdfMmMwOGdTRTQzc3Q0Vm5Hemh6Tk5DR3VUeXBBaU8ySHJ4d0NITl9uemtKTkE?oc=5)
 
 ---
 
@@ -66,7 +74,7 @@ Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd
 
 2026-09-21
 
-Source: [Servimedia](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVk3TVVqNXA0M2dxMzNJemVUSDVzYU9BZDljVjZ3bTE5bEtjSmE0SFJFRjE2YjVaOUtjOGhzRU5zaVlUdHhGbGJ4c2tXRElSaXdzbTF3V1JsUkx2NmRjTEEtajkyQmtzVmhqb2h0WWFVd194Tnp6VWRrNEtfWldtYU9vaTdPc3FBa09fR3FfMTZCZHVXWkZUanp4S0NPWlI5bzl1NGk4MA?oc=5)
+Source: [servimedia.es](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVk3TVVqNXA0M2dxMzNJemVUSDVzYU9BZDljVjZ3bTE5bEtjSmE0SFJFRjE2YjVaOUtjOGhzRU5zaVlUdHhGbGJ4c2tXRElSaXdzbTF3V1JsUkx2NmRjTEEtajkyQmtzVmhqb2h0WWFVd194Tnp6VWRrNEtfWldtYU9vaTdPc3FBa09fR3FfMTZCZHVXWkZUanp4S0NPWlI5bzl1NGk4MA?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ Source: [Servimedia](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVk3TV
 2026-09-21
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
+
+---
+
+### [Diagnóstico temprano, apoyo y atención centrada en la persona en el Día Mundial del Alzheimer](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU5EMnNxVzc0Y3dMaENSd2NiTTlzbU9BSzNJN1FjM2FsdElkUURyS20yTkd0QWY1YU1IZV9FNnpTV2Fkc3lKdG5kZ0dGVm9VaEJMM1FGSTZDVmNjdnEwOGxIc0lpU2R1by1ZV05JVnd3ZXBlUjR3dzRDLUVkbml6cXlyemdSaThmelFqMWFmNXdfWlZsdUpKeTZvenBINUE4RmI2ZW9ZMktPVnAwN1ZF?oc=5)
+
+2026-09-21
+
+Source: [infocop.es](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU5EMnNxVzc0Y3dMaENSd2NiTTlzbU9BSzNJN1FjM2FsdElkUURyS20yTkd0QWY1YU1IZV9FNnpTV2Fkc3lKdG5kZ0dGVm9VaEJMM1FGSTZDVmNjdnEwOGxIc0lpU2R1by1ZV05JVnd3ZXBlUjR3dzRDLUVkbml6cXlyemdSaThmelFqMWFmNXdfWlZsdUpKeTZvenBINUE4RmI2ZW9ZMktPVnAwN1ZF?oc=5)
 
 ---
 
@@ -90,7 +106,7 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 2026-09-20
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 
 ---
 

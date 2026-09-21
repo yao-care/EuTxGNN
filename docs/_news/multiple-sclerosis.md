@@ -60,15 +60,7 @@ This page brings together the latest health news about “MS” and lists the dr
 
 2026-09-21
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEaWxZS3ZYdFBmcHdKOHp3dUo0MU9LQ1FhSkhka25LVjlRYWI0ZlY3NmlEdHo0cTV1YU1OOFdFWXVBa01YU2xnTE41QzhQMERDZ3ZwXzNLSG9ibkJ0eVE?oc=5)
-
----
-
-### [Samsung y CEAFA presentan el libro «The Mind Guardian: El ecosistema que cuida nuestra salud cerebral»](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdGJwZEk2Qk9xMzAzTTNuajRxNXE3MEtUdWU1Q3l4dFZ1QU5aSzV4TjlQSVRkVUs1MFY0SEFSOVNYVEFyZlplZmVTU0lrMWkwcGtlQlg3V2U3Y2VQMjJiSVlQMHM1UmtUelhvaDZIR3QzcENRUno0b1d1U3pwY2dYNFlKT3FtZS1WMzVpaDdJWVoxaG5DVzV0S0lGcHhRMHBUNV9JMi1NVDZzM21TbXkzSVBSVGRvcTlsTDlMTTRYdUlSNnJDdExLS2ZOZTNwbWlvejNIcVo3Z9IB3AFBVV95cUxPV2dvTXhEeDhQMERwMFBPbGNLRWE3bTZndG5OUVo2Q0dmU0JIOTNFWHV0LUthTzd4S3lVeFk0Z2NfRE1FLTJjeEY1MmVyWUllQUtHbkNMY1VyVllWWDVkeTZLMFBQX1ZhU3Y1UjRVcE5IRGNSbm5hNjNHcjZZNlJldTBMZnJfTXJKbERhcGx6T3ptT25oamhpQks5a0E3MDZpbm1NTnp3cjNXNDVQdGNPT19hYTZyN3dWZzlhazdOb1R3djcyMUhocVV2Mm42VXY4b0FhVHJjaTNpcWNn?oc=5)
-
-2026-09-21
-
-Source: [marketingdirecto.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdGJwZEk2Qk9xMzAzTTNuajRxNXE3MEtUdWU1Q3l4dFZ1QU5aSzV4TjlQSVRkVUs1MFY0SEFSOVNYVEFyZlplZmVTU0lrMWkwcGtlQlg3V2U3Y2VQMjJiSVlQMHM1UmtUelhvaDZIR3QzcENRUno0b1d1U3pwY2dYNFlKT3FtZS1WMzVpaDdJWVoxaG5DVzV0S0lGcHhRMHBUNV9JMi1NVDZzM21TbXkzSVBSVGRvcTlsTDlMTTRYdUlSNnJDdExLS2ZOZTNwbWlvejNIcVo3Z9IB3AFBVV95cUxPV2dvTXhEeDhQMERwMFBPbGNLRWE3bTZndG5OUVo2Q0dmU0JIOTNFWHV0LUthTzd4S3lVeFk0Z2NfRE1FLTJjeEY1MmVyWUllQUtHbkNMY1VyVllWWDVkeTZLMFBQX1ZhU3Y1UjRVcE5IRGNSbm5hNjNHcjZZNlJldTBMZnJfTXJKbERhcGx6T3ptT25oamhpQks5a0E3MDZpbm1NTnp3cjNXNDVQdGNPT19hYTZyN3dWZzlhazdOb1R3djcyMUhocVV2Mm42VXY4b0FhVHJjaTNpcWNn?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEaWxZS3ZYdFBmcHdKOHp3dUo0MU9LQ1FhSkhka25LVjlRYWI0ZlY3NmlEdHo0cTV1YU1OOFdFWXVBa01YU2xnTE41QzhQMERDZ3ZwXzNLSG9ibkJ0eVE?oc=5)
 
 ---
 
@@ -76,15 +68,7 @@ Source: [marketingdirecto.com](https://news.google.com/rss/articles/CBMi1wFBVV95
 
 2026-09-21
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJobnE1WXc4b2paZ003UkxWVzhUZWZZUXdVNkFEbzdtcGdfMmMwOGdTRTQzc3Q0Vm5Hemh6Tk5DR3VUeXBBaU8ySHJ4d0NITl9uemtKTkE?oc=5)
-
----
-
-### [MSD visibiliza las diferentes realidades de los tumores ginecológicos en 'Matices que importan' - Gaceta Médica](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUHhRYTl6TUVHTXlFaUpERDZ0V1hRZFVTQ1BkRDRBYXk3OVV2WDM4S1lSeFBsRXEyYWZ2bVYtWDhEamxlOUgzZXBsUFZXMUt2dklZNDZkY3hYNG4yaUY3aWpvbUhHQU04YzhJRVY5RHVZLUJIRVd5LUVadlNlUDRWTXJSV0FzekNEX2JlTUpWbjg?oc=5)
-
-2026-09-21
-
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUHhRYTl6TUVHTXlFaUpERDZ0V1hRZFVTQ1BkRDRBYXk3OVV2WDM4S1lSeFBsRXEyYWZ2bVYtWDhEamxlOUgzZXBsUFZXMUt2dklZNDZkY3hYNG4yaUY3aWpvbUhHQU04YzhJRVY5RHVZLUJIRVd5LUVadlNlUDRWTXJSV0FzekNEX2JlTUpWbjg?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJobnE1WXc4b2paZ003UkxWVzhUZWZZUXdVNkFEbzdtcGdfMmMwOGdTRTQzc3Q0Vm5Hemh6Tk5DR3VUeXBBaU8ySHJ4d0NITl9uemtKTkE?oc=5)
 
 ---
 
@@ -92,7 +76,23 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUH
 
 2026-09-21
 
-Source: [Scinexx](https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjFXWUdZZmN5azRnQmcyNjdodEZ4RGtTYVY3N1dOZVJWWDVkdk1VQ0thX2N4MUVpX3BEV1pnZGRRcmtuV0NpREl2VkpGcXNfYnVHaUVhOHVtdFlucmRIbGdoN3dIbWc0UUx2UVpqeGNDUU5QZkdWRlVMd2RzaC10WlFoOEZMeVNNc2dEXy1RVQ?oc=5)
+Source: [scinexx.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjFXWUdZZmN5azRnQmcyNjdodEZ4RGtTYVY3N1dOZVJWWDVkdk1VQ0thX2N4MUVpX3BEV1pnZGRRcmtuV0NpREl2VkpGcXNfYnVHaUVhOHVtdFlucmRIbGdoN3dIbWc0UUx2UVpqeGNDUU5QZkdWRlVMd2RzaC10WlFoOEZMeVNNc2dEXy1RVQ?oc=5)
+
+---
+
+### [El brote de ébola en la RDC supera los 7.600 casos mientras el ECDC refuerza su respuesta sobre el terreno - Gaceta Médica](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFNFRFdDaEZLMVRXcDFXNk1DTG1RRUJzaFI5SzdxZkV1RnVTUEJHQmVSOTVDU1dQRmVzS3c1T2RZNTJuX0szaU9rMXJTenp0SXc5WlEyN1VPdjVGbjhKN2UyUzRiZjdrWjQ1Q1Bwc2FaY2ZSRkJXR2FSZDFSenpVQWxKSVhkdTE1c016dmREeGR0OE1FTVFQb3d3WXJrUQ?oc=5)
+
+2026-09-21
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFNFRFdDaEZLMVRXcDFXNk1DTG1RRUJzaFI5SzdxZkV1RnVTUEJHQmVSOTVDU1dQRmVzS3c1T2RZNTJuX0szaU9rMXJTenp0SXc5WlEyN1VPdjVGbjhKN2UyUzRiZjdrWjQ1Q1Bwc2FaY2ZSRkJXR2FSZDFSenpVQWxKSVhkdTE1c016dmREeGR0OE1FTVFQb3d3WXJrUQ?oc=5)
+
+---
+
+### [GP says three 'overlooked symptoms' could be sign of food allergy - including 'subtle' ear issue - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWw1Qko4WWtJMWUtaEgzUTcyMzJEQV9iLUZEckdRaTBmS3hkXzRaeXpoOUtsZjdJMjZMWC1EamZWdVhlMkp2VVJtZVZnMXFJYUk2Z3I0ZlNzOWZ1NUhJSmZaLTRiVG9XZ2sxZjNBdDhyUVRXdmpscF9EaG93eGlnWGJfWjVKQdIBiwFBVV95cUxNbnNpYmRSMnVtUVVFam03bUZoM0Y3T0g5d3lqUTNOMG5tMHprczJaSTd5Z1FpdElNVjgxZGhTc0pZdnE1SnZzRkJ3c3gwVmVDd3lIcG9Ua3lOUGQ2dDRTeHdrUGJNZDVCbXI1MDZpZ01rNEp0bzU4WmdTNVVxZ2VvbHlHUHdtc0l2NHk0?oc=5)
+
+2026-09-21
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWw1Qko4WWtJMWUtaEgzUTcyMzJEQV9iLUZEckdRaTBmS3hkXzRaeXpoOUtsZjdJMjZMWC1EamZWdVhlMkp2VVJtZVZnMXFJYUk2Z3I0ZlNzOWZ1NUhJSmZaLTRiVG9XZ2sxZjNBdDhyUVRXdmpscF9EaG93eGlnWGJfWjVKQdIBiwFBVV95cUxNbnNpYmRSMnVtUVVFam03bUZoM0Y3T0g5d3lqUTNOMG5tMHprczJaSTd5Z1FpdElNVjgxZGhTc0pZdnE1SnZzRkJ3c3gwVmVDd3lIcG9Ua3lOUGQ2dDRTeHdrUGJNZDVCbXI1MDZpZ01rNEp0bzU4WmdTNVVxZ2VvbHlHUHdtc0l2NHk0?oc=5)
 
 ---
 
@@ -124,7 +124,7 @@ Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ
 
 2026-09-20
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUhBcEtzR1NGTkJfQ01LOXRqaE9XQWdyUzRhNEs3eFc1X2MzRTMzdlBweGFmQmpxRjFCWnBxY0FXNEJ2WEhOTzdzWUdqUzZmLThOM0c3SXZzRG9xanZkNHc5ZV9zWjRLTk4waFlSMXZYUEJ3eWN6TnUyNk5qdzdldGtfc3VWcHdtM2hfaXFQUE9Sejg1WDBYT0pJOFE2NHEtckg0M0JKcnY4U2VpV3NSUA?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUhBcEtzR1NGTkJfQ01LOXRqaE9XQWdyUzRhNEs3eFc1X2MzRTMzdlBweGFmQmpxRjFCWnBxY0FXNEJ2WEhOTzdzWUdqUzZmLThOM0c3SXZzRG9xanZkNHc5ZV9zWjRLTk4waFlSMXZYUEJ3eWN6TnUyNk5qdzdldGtfc3VWcHdtM2hfaXFQUE9Sejg1WDBYT0pJOFE2NHEtckg0M0JKcnY4U2VpV3NSUA?oc=5)
 
 ---
 
@@ -140,7 +140,7 @@ Source: [t3n](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRENJdFhWMFR2W
 
 2026-09-20
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHpESUp2aGZtb0I3RXJUVXJPdE40eERJX0RVUHI0X3VuSjdjOHh2WHQzVHRTTGo2WTZuY3cwMVRhSFV6OEEyUkN0bDVuSi03ek5lMXFDcjJVai1LX2ctZkJpdEVTV1pTbGZmS2NORnhBSTBpZlJ4NUxXMWRZRDJabjlXM0diYTYxVzBVYkIyRmNIdVhldXlEX3dadWNnY25wR2RRVExuOWpZVXEzRFpmdENyby02RlM4TkhYOGpwZ3RJdFdIRWRnZ1NvNHlkYUQ3VW52S25wbVBJamZiWHJQRDFfLXZ4UHJrR243VW1jSGdXTGc?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHpESUp2aGZtb0I3RXJUVXJPdE40eERJX0RVUHI0X3VuSjdjOHh2WHQzVHRTTGo2WTZuY3cwMVRhSFV6OEEyUkN0bDVuSi03ek5lMXFDcjJVai1LX2ctZkJpdEVTV1pTbGZmS2NORnhBSTBpZlJ4NUxXMWRZRDJabjlXM0diYTYxVzBVYkIyRmNIdVhldXlEX3dadWNnY25wR2RRVExuOWpZVXEzRFpmdENyby02RlM4TkhYOGpwZ3RJdFdIRWRnZ1NvNHlkYUQ3VW52S25wbVBJamZiWHJQRDFfLXZ4UHJrR243VW1jSGdXTGc?oc=5)
 
 ---
 
@@ -160,11 +160,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTVs
 
 ---
 
-### [Why your dreams feel like a ‘horror movie’ when you take magnesium supplements](https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUl4ak4xdDkxaDEyYlJ1WENaNkJpVS1NMWNxRmVzcUdyZ2J0MktObmxvS0ExdDF2UGlLTC1Qckg1d2VJVjNDRGFzMDRubUd0NUxVRk1nR1NnUjdBd2ktV0dVQjUzVnRDd0YtQ1ZaclRVcmNTbFJ0NWtURW1ib1NMaXBHNzBuQlk4TDFYU0h5RHo2R1hvakxVd010d3Z6anRQ?oc=5)
+### [How a traditional Nordic way of eating could help you live longer](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjhjeHRXcTJucjFnckxaUDdSQVg1MU9qb0UzOVhiUHBmLUZqai1XN2pfWkFXYmFzRy0tU044M1VqakoyaGdRRkhZbWlFQTZabzhIcmxMU1dNN3B6VEVLNkxyaWJVUUZQZEdEdFQxai1LUVY0T0tmYmhpVExURkh1dFpPalAwb0JlanFIcTBHTDJVR1VDZkhEc0JsSHNReFY3dWc?oc=5)
 
-2026-09-20
+2026-09-18
 
-Source: [Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUl4ak4xdDkxaDEyYlJ1WENaNkJpVS1NMWNxRmVzcUdyZ2J0MktObmxvS0ExdDF2UGlLTC1Qckg1d2VJVjNDRGFzMDRubUd0NUxVRk1nR1NnUjdBd2ktV0dVQjUzVnRDd0YtQ1ZaclRVcmNTbFJ0NWtURW1ib1NMaXBHNzBuQlk4TDFYU0h5RHo2R1hvakxVd010d3Z6anRQ?oc=5)
+Source: [theconversation.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjhjeHRXcTJucjFnckxaUDdSQVg1MU9qb0UzOVhiUHBmLUZqai1XN2pfWkFXYmFzRy0tU044M1VqakoyaGdRRkhZbWlFQTZabzhIcmxMU1dNN3B6VEVLNkxyaWJVUUZQZEdEdFQxai1LUVY0T0tmYmhpVExURkh1dFpPalAwb0JlanFIcTBHTDJVR1VDZkhEc0JsSHNReFY3dWc?oc=5)
 
 ---
 
