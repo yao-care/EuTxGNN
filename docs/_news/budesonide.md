@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Budesonide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Kostenloses Elternseminar: Asthma oder nur ein normaler Husten?, DRK-Kinderklinik Siegen gGmbH, Story](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
+### [Pflegeheime, KI-Chatbots und COPD-Screening: 277 neue Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
 
-2026-09-21 <span class="news-indication-tag">asthma</span>
+2026-09-21 <span class="news-indication-tag">copd</span>
 
-Source: [lifePR](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
+
+---
+
+### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">asthma</span>
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 ---
 

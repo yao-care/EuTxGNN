@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Vedolizumab?">
-<strong>Vedolizumab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Vedolizumab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Vedolizumab with the latest 
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Pflegeheime, KI-Chatbots und COPD-Screening: 277 neue Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
+
+2026-09-21 <span class="news-indication-tag">copd</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
+
+---
 
 ### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+
+---
+
+### [Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
+
+2026-09-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
 ---
 

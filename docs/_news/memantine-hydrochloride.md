@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Memantine Hydrochloride?">
-<strong>Memantine Hydrochloride</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
+<strong>Memantine Hydrochloride</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page combines the AI-predicted indications for Memantine Hydrochloride with
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (4)
 
-### [Lorsqu'ils mesurent leur tension à domicile, beaucoup commettent les mêmes erreurs](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
+### [José, cardiologue : "À partir de 40 ans, la tension artérielle doit être mesurée tous les deux ou trois mois"](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2hrdzYtazk5aDVwdjhuc0JtZ1JTaTFpQkhiLTZOLWt0UzVxekxCdHpMcG5tV3hxUlkwajgzTENpS2g2NlVkVnN5RTNMZkxZcWV5U0ZRVXJNU2NqSEw1cTRIMXhqUl94V182SS1OUmRBdlY2SkRQT3NsVVBDYlV3bVhUUnMxMThBRkZkX2FvMVo5NHF3djJlNmlzQ3RQRFNiRXUxS1lPcUg5UXVKZXM1eXdBUU1XS2J4elJ1VElpT3E1SjFGUlZPQXVzOERtbTlGUU04MHppRGxjS2Ro?oc=5)
 
 2026-09-21 <span class="news-indication-tag">hypertension</span>
 
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
-
----
-
-### [Ipertensione resistente, svolta clinica a Casa Sollievo: primo paziente trattato con denervazione renale - FoggiaToday - cronaca e notizie da Foggia](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEhVNFVSR3dnZnVHWU56LUxTSm03QmdzLUJaNTY3ZFllelAyVnI5TTdCM0xGSzFIWEJvSF9kNEFtR2FqV0stY05KX0Z3QXN1empLb2ZtTFl2VzJha0ptZ2RuNEFWT0prQ1hFeVM0OUV1RmNNTnZIcGppYlNLZFpQT0tWX052Rk80Q05yT2w4cUtkM3RuYlB1QTNn?oc=5)
-
-2026-09-21 <span class="news-indication-tag">ipertensione</span>
-
-Source: [FoggiaToday - cronaca e notizie da Foggia](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEhVNFVSR3dnZnVHWU56LUxTSm03QmdzLUJaNTY3ZFllelAyVnI5TTdCM0xGSzFIWEJvSF9kNEFtR2FqV0stY05KX0Z3QXN1empLb2ZtTFl2VzJha0ptZ2RuNEFWT0prQ1hFeVM0OUV1RmNNTnZIcGppYlNLZFpQT0tWX052Rk80Q05yT2w4cUtkM3RuYlB1QTNn?oc=5)
+Source: [melty.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2hrdzYtazk5aDVwdjhuc0JtZ1JTaTFpQkhiLTZOLWt0UzVxekxCdHpMcG5tV3hxUlkwajgzTENpS2g2NlVkVnN5RTNMZkxZcWV5U0ZRVXJNU2NqSEw1cTRIMXhqUl94V182SS1OUmRBdlY2SkRQT3NsVVBDYlV3bVhUUnMxMThBRkZkX2FvMVo5NHF3djJlNmlzQ3RQRFNiRXUxS1lPcUg5UXVKZXM1eXdBUU1XS2J4elJ1VElpT3E1SjFGUlZPQXVzOERtbTlGUU04MHppRGxjS2Ro?oc=5)
 
 ---
 
@@ -53,22 +45,6 @@ Source: [FoggiaToday - cronaca e notizie da Foggia](https://news.google.com/rss/
 2026-09-21 <span class="news-indication-tag">Herzerkrankung</span>
 
 Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1lBQU9FNzhfOFBHbWRZR2V6Vk4za05jSHJDeC1seHBUZUw5dHdyNlJodUVHZ0ZydXE3a04wdkx6S05SZ05oaUYxTEZfc0kwQ0tfYXlZSWZzRnd3RTJORjkwa1V2OTQzUVA2WmtNSWtKdkJ3MWxzWGhCaVU1WjhNa0QwczFfeXc2TElfQjAxejRDcE9ZaWNnRA?oc=5)
-
----
-
-### [​Chronic stress and heart disease: Massive study finds ‘hidden threat’ that raises risk of heart attack and stroke by 43%​](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR?oc=5)
-
-2026-09-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-Source: [timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
-2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 ---
 

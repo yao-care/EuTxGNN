@@ -14,7 +14,7 @@ permalink: /news/cerliponase-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Cerliponase Alfa?">
-<strong>Cerliponase Alfa</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Cerliponase Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Cerliponase Alfa with the la
 <p><a href="{{ '/drugs/cerliponase-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Call for all schools to get epilepsy training](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QU4zT0U4ZWEzUWFjaFBNRF9kdU1lcFk2cWNfa0h0OXdtZG10aExtSVJhcE56eWNlb21nSUZ2VmJhc3FEbGYzVG5CbmxvRk1aclJLU1Z1NmNOdlAz?oc=5)
-
-2026-09-19 <span class="news-indication-tag">epilepsy</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QU4zT0U4ZWEzUWFjaFBNRF9kdU1lcFk2cWNfa0h0OXdtZG10aExtSVJhcE56eWNlb21nSUZ2VmJhc3FEbGYzVG5CbmxvRk1aclJLU1Z1NmNOdlAz?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 5 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 6 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>5 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>6 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,29 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
-### [​Chronic stress and heart disease: Massive study finds ‘hidden threat’ that raises risk of heart attack and stroke by 43%​](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR?oc=5)
+### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
 
-2026-09-20
+2026-09-22
 
-Source: [timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR?oc=5)
+Source: [welt.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+
+---
+
+### [Fibrillazione atriale, anticoagulanti e rischio di ictus: come si sceglie la terapia giusta](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
+
+2026-09-21
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
+
+---
+
+### [Sopravvive all’attacco di una tigre ma il morso al collo le provoca un ictus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
+
+2026-09-18
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
 
 ---
 
@@ -57,19 +73,11 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95c
 
 ---
 
-### [Vitamin K2 bremst Gefäßverkalkung – zugleich rückt KI in die Kardiologie - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaG1TLU5ITnhESGRuM04zaXFub2tteU5OVGhEWE5iV0o1Y2JyRzFocVBIdG5zMzFjbGswX0M2U3VadmtEeFlRSmRXdkF5TkxSc0hKcGloekZiTGtNVk1LdEdlMGxreVZSb3pVMWphRUVybFVQTE82aDRlM0VPRE9ldy1sLXlmXzBvUWpKYkJZbHZnXzZDNkk5aXRDRHFTTVIwTUx5dXk0MVc?oc=5)
-
-2026-09-16
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaG1TLU5ITnhESGRuM04zaXFub2tteU5OVGhEWE5iV0o1Y2JyRzFocVBIdG5zMzFjbGswX0M2U3VadmtEeFlRSmRXdkF5TkxSc0hKcGloekZiTGtNVk1LdEdlMGxreVZSb3pVMWphRUVybFVQTE82aDRlM0VPRE9ldy1sLXlmXzBvUWpKYkJZbHZnXzZDNkk5aXRDRHFTTVIwTUx5dXk0MVc?oc=5)
-
----
-
-### [Warum es manchen Patienten nach einem Schlaganfall besser geht als anderen - Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
+### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 
 2026-09-15
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnRIYlk0dEZ1c0NRV0pjOEh3cG9GZHRGNkJtYmkyZWhGTHB0dGVIQlNaaDUzZnN0ellqRndhZGFEVU5IQ1NoY0lRWkVOMUx3dEhvWkFfQW5NNjRJRW91TEZaYjlCSS1OcHU2emNVVlYtUHg2Y25qR0Vvdl9fd1lsQi1nOUFaeHBmVGdxOXlvanBPdmhWcV81TmJ0cmF0aTRPWGhfczhn?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 
 ---
 

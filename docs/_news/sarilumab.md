@@ -54,19 +54,11 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 
 ## Related News (6)
 
-### [Kostenloses Elternseminar: Asthma oder nur ein normaler Husten?, DRK-Kinderklinik Siegen gGmbH, Story](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
+### [Pflegeheime, KI-Chatbots und COPD-Screening: 277 neue Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
 
-2026-09-21 <span class="news-indication-tag">asthma</span>
+2026-09-21 <span class="news-indication-tag">copd</span>
 
-Source: [lifePR](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJQUmczWFN0YUFHMUVBQkZVUHJqcU1FYi0tZFVaaV9vUkNDNk5iWXhzLVUyR0xRQTBzeWM1X2RuYmlDRGxrYWdhSlRtNS12M3ZvNHJiQzJDOEdjc09ZUDktV2NETHJoVldnek50QUJhcm5VVVpFVlg0cTBXbUFSdkdNSGY1QU16LWJLbXhWUnZWQWZ5LVduVXBnd1JQajlrcHNGLTJnOUtQRU15UWliV3lpNVdoSkpscEtVUjY2X3UzUDV0VkV5VnhQdjVVZjQ5?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
-2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
 
 ---
 
@@ -83,6 +75,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV9
 2026-09-17 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXNHamQ3RHl2VTFOWDA3eEtNbE04SkhxTjdkY3RFd0NjQnRCUEEzTjNGVGR0WjktSzNQSFFTdWo3NGlERjB3R1lMS1BIeUk3RmxiNHhkRlFCRHh0WkFXd2hydU5aT0pRaU12a1RmUnIwYUI3djNnYjdwcVBrUHpNVW1Zd1pMM19ONk1YeGNVZ3NJUl9qTHV2S1YydmNiY09SWG1veWFwQ3FFQXNFUzlLM2l5bWNaY2VI?oc=5)
+
+---
+
+### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
+
+2026-09-16 <span class="news-indication-tag">asthma</span>
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
 ---
 

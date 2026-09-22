@@ -14,7 +14,7 @@ permalink: /news/risankizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
 ### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+
+---
+
+### [Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
+
+2026-09-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
 ---
 
@@ -98,7 +106,7 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQx
 
 2026-09-19 <span class="news-indication-tag">soriasi</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBpR0ZUN2lYcmFHdUliU2FZemVHY2ZDbWpnak0xbGtsa2FXVTlvZ3poQ3FXclhZa1IxMjM5U1BvaWs2SVlHdE9tNEpobkpVR3p5SThaSVVzbW1Xd3N2U1Z2dkpJUUhCRXZPNVZUVzc2VV85enFlbF9VY2c4M0dxMFA4N0gtZHh5d1YxemFJNFVDdnNQdk53YTJWdFZrVVhBVmJmYTV3Y3N3NVZPT1NCY282VkpmbGVFNGZnX2hqVXkxRnpw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBpR0ZUN2lYcmFHdUliU2FZemVHY2ZDbWpnak0xbGtsa2FXVTlvZ3poQ3FXclhZa1IxMjM5U1BvaWs2SVlHdE9tNEpobkpVR3p5SThaSVVzbW1Xd3N2U1Z2dkpJUUhCRXZPNVZUVzc2VV85enFlbF9VY2c4M0dxMFA4N0gtZHh5d1YxemFJNFVDdnNQdk53YTJWdFZrVVhBVmJmYTV3Y3N3NVZPT1NCY282VkpmbGVFNGZnX2hqVXkxRnpw?oc=5)
 
 ---
 

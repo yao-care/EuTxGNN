@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Eslicarbazepine Acetate?">
-<strong>Eslicarbazepine Acetate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Eslicarbazepine Acetate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ This page combines the AI-predicted indications for Eslicarbazepine Acetate with
 <li>reading seizures (96.9%)</li>
 <li>trigeminal nerve neoplasm (95.9%)</li>
 <li>partial motor epilepsy (95.3%)</li>
-<li class="indication-matched">epilepsy (92.4%)<span class="indication-tag">📰 epilepsy</span></li>
+<li>epilepsy (92.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Call for all schools to get epilepsy training](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QU4zT0U4ZWEzUWFjaFBNRF9kdU1lcFk2cWNfa0h0OXdtZG10aExtSVJhcE56eWNlb21nSUZ2VmJhc3FEbGYzVG5CbmxvRk1aclJLU1Z1NmNOdlAz?oc=5)
-
-2026-09-19 <span class="news-indication-tag">epilepsy</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QU4zT0U4ZWEzUWFjaFBNRF9kdU1lcFk2cWNfa0h0OXdtZG10aExtSVJhcE56eWNlb21nSUZ2VmJhc3FEbGYzVG5CbmxvRk1aclJLU1Z1NmNOdlAz?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

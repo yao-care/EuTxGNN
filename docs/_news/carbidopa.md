@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>9 news articles</strong>, with 9 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>12 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (12)
+
+### [Orihuela: Charla 'Hábitos saludables para un cerebro activo' en las IV Jornadas del Día Mundial del Alzheimer - Todo Cultura Vega Baja](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQbGZ6eTB1MlV1SWFKZWxoX1ozRzI0UXVVV2NfX0VYWnBqVHZ2ZnFfNTBFTnhWWWk2VnQ3SE9vUktucTZZak9EQ2FQUmpoNzYtcThNRGpxemFtSTJQZ0FqRmx6UWNaLU5rZ29VUEVzWExCSWNuSjJkYjJJVFJtekkzVzkzZHpqZTlHWm82c21LNzRLR0xuMGlkekdjNnJZSGdsOW9Za2xhNlJLMG1reHpsWmNGcWJ4dTB1STNDNV9KMGNNMlNRU2lWVEl1NmxEcDRtMFlmS0k2elRDanBaSWpTU2hOaGRaTGV1STVJVzBJdThZWVNtNFVWU283RzdsVVg4UlpXYW8zTHlHY2dGa1RQQXA1WURqUzNpSC12ZHBsdEwwTGdjVzZoZlE4V1RyQzNmLXNvMm9wREZGU1ppNWJFRFFoZ2I2TWJhUXVsU3l5SnpoNHUzMGVwTk81Qmd2ckNOTE5hdVBTMWNCcGptelE?oc=5)
+
+2026-09-21 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">AF</span>
+
+Source: [Todo Cultura Vega Baja](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQbGZ6eTB1MlV1SWFKZWxoX1ozRzI0UXVVV2NfX0VYWnBqVHZ2ZnFfNTBFTnhWWWk2VnQ3SE9vUktucTZZak9EQ2FQUmpoNzYtcThNRGpxemFtSTJQZ0FqRmx6UWNaLU5rZ29VUEVzWExCSWNuSjJkYjJJVFJtekkzVzkzZHpqZTlHWm82c21LNzRLR0xuMGlkekdjNnJZSGdsOW9Za2xhNlJLMG1reHpsWmNGcWJ4dTB1STNDNV9KMGNNMlNRU2lWVEl1NmxEcDRtMFlmS0k2elRDanBaSWpTU2hOaGRaTGV1STVJVzBJdThZWVNtNFVWU283RzdsVVg4UlpXYW8zTHlHY2dGa1RQQXA1WURqUzNpSC12ZHBsdEwwTGdjVzZoZlE4V1RyQzNmLXNvMm9wREZGU1ppNWJFRFFoZ2I2TWJhUXVsU3l5SnpoNHUzMGVwTk81Qmd2ckNOTE5hdVBTMWNCcGptelE?oc=5)
+
+---
+
+### [„Wir müssen Hirngesundheit endlich ernst nehmen“](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGJCZWQ2ejhQR1k4TU9RNXIyYnY4MjBBTkdsUjFyWUtEVFpoVGoyamdQaHhtOWZsTW81NVpwQ1FKR1M2d25rVjU0dFhFSXNHNGpfaXJhY1hMa1gzMHNDVDVZVGtTcW9Wbk9Zb3d3Nk1VRHFhWXF4UFM0dnJ3NzNtRXZ3V3pUbU96NlVQc2FuRllxc3JkVWVUazFTNVVHNjRCdkJSa0RXQ2RDV2hXeFE?oc=5)
+
+2026-09-21 <span class="news-indication-tag">Alzheimer-Krankheit</span>
+
+Source: [RND.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGJCZWQ2ejhQR1k4TU9RNXIyYnY4MjBBTkdsUjFyWUtEVFpoVGoyamdQaHhtOWZsTW81NVpwQ1FKR1M2d25rVjU0dFhFSXNHNGpfaXJhY1hMa1gzMHNDVDVZVGtTcW9Wbk9Zb3d3Nk1VRHFhWXF4UFM0dnJ3NzNtRXZ3V3pUbU96NlVQc2FuRllxc3JkVWVUazFTNVVHNjRCdkJSa0RXQ2RDV2hXeFE?oc=5)
+
+---
 
 ### [Más de 800.000 personas padecen la enfermedad de Alzheimer en España y la mayoría son mujeres](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcDd2WDhCSllwX2F1RFdUN1NDSndBZkt6NXBFeW16SHNhcE9ZZTFHQUs0SGY2czRQU0ZxT0o5UTJWWmp4am5feUI2am9JaUt4RnhEYV81NHBNRWYyWHZBVHdMaUQ3WEdZYmpHOUctN211OFh3TE9yVjhveU1jUTBmSTVSbDU3a3BDdzh6M2ZVN3NmVnpNUVZUZ1hkUEhQRXFzQXZPeEpVXy00blQ4eWNwVTlWVUlvUjc4eHNjVVVGSy14Z1BJVmRpcVpxNTY5ZzBHczJQUkkxUXhPVWVYRV9OVWItMVJEeWVNRlpXRHlTTGFuSzk4U1N5ZkVMNkI0a3VqNXc3dUNkYkfSAY4CQVVfeXFMUEtTTEExQ01qODZZcWhTcU1PYWtHaU1LYWxJaHZYQzVNOVZjYzc2YUR1SUs2MV9tc244UVU5R1JIVmd4bzBZdkdyQWE4bmVqcDhQckhqSXNULUlWczVPNEV6TUJNeHM3cGtGQlJwVHFUS01xSTdZbEtrNkItSTJVYUF5Smw5c1lSZUR4MFhMZmU1S1N4N0tXcHVlX2NwcWpfWF94b01leHVQRFY2b3ljWXBpSEo5TndFY1dfY1l2YXByZElWNTEyaWg2WUQyYVpJbEhmMlRROGoxUjNFcmRIN2VETDROVVNnVEFjYktLQk1jaTVSUGVFYnRZWGdLVzdsckR0OEk2TWJvaWdOVExn?oc=5)
 
@@ -55,7 +71,7 @@ Source: [Telemadrid](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcDd2WD
 
 2026-09-21 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTE11dUhzMzFmN0xfY2NZSW1fWkFValhTOEZ3N1ZDWWkxZ1BMVmxEalEzSlQzMDJuUVFKRGE3ZklBRlB1eVRJemdKeFVWaHMxc2Q3a1RHSnVjRHJ1akdlanJtTkZyblIxLWx2bGc4cUMxODZjUQ?oc=5)
+Source: [linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTE11dUhzMzFmN0xfY2NZSW1fWkFValhTOEZ3N1ZDWWkxZ1BMVmxEalEzSlQzMDJuUVFKRGE3ZklBRlB1eVRJemdKeFVWaHMxc2Q3a1RHSnVjRHJ1akdlanJtTkZyblIxLWx2bGc4cUMxODZjUQ?oc=5)
 
 ---
 
@@ -67,35 +83,27 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJob
 
 ---
 
+### [Alicia López de Ocáriz detalla las señales tempranas del Alzheimer y cómo proteger al cuidador](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRzcyNGxSVTRnRVhwVUMtQmNfQkRXelZQdVZvZmRGRThpTEx0VTE2dEhfU25PUE93bkxWaV9tOXJGRDVTRGVsZWRnMno2SDFUZUtHZHVuMHZoamE3YXFrNmp6ZkFueVlwYWtxNVM2ZHhjd3dqRDJQa182UlV5Q3RmaEJCUTZZN0M2dVUxbTZCOHNUZ0VFUURyN2FIS2hlNVdfbUJGd3pXWUJhekZZOF9UNDNtQVNYR3haVk9NSVJzSUlBaHYxMC01ZW9lWTBJRzV5NS15dUFBYU01bThTZHFzUmpzbG1mOXBDS0JkSVdnNmQ5UkFUeUVZbdIB_gFBVV95cUxPUXVYVTZWTHR6VHNlQ2JyV1hCYnRfY21ZVkxSMTNiNHpTbUJPbzFaZFBVcmdxaGxocXZJQVUxMUhvZlZZbmQyM0o5VGhtV2V4d3U2YUJ0VVpxcUdFU2JFeWNmcktkMjlPRXNFSVppSU96dWxydGt2bmNvYzROMXpudEQ2TVlQQ1dtWUJHQVBnZG1ZRjRWem5kVkNFZTVWRXM0TEh5TkNJeVFLbGZnbGV5Zi1mdVN3TmJJVS00WDVpNVBQWmdYSjFYSXc4Z091U21MWE1yOGdBU2YwOEhLXzlZVzRpZVZCMmplWmpmMXV2eVNmQXVmZE5wY1hVTmdrZw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+Source: [COPE](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRzcyNGxSVTRnRVhwVUMtQmNfQkRXelZQdVZvZmRGRThpTEx0VTE2dEhfU25PUE93bkxWaV9tOXJGRDVTRGVsZWRnMno2SDFUZUtHZHVuMHZoamE3YXFrNmp6ZkFueVlwYWtxNVM2ZHhjd3dqRDJQa182UlV5Q3RmaEJCUTZZN0M2dVUxbTZCOHNUZ0VFUURyN2FIS2hlNVdfbUJGd3pXWUJhekZZOF9UNDNtQVNYR3haVk9NSVJzSUlBaHYxMC01ZW9lWTBJRzV5NS15dUFBYU01bThTZHFzUmpzbG1mOXBDS0JkSVdnNmQ5UkFUeUVZbdIB_gFBVV95cUxPUXVYVTZWTHR6VHNlQ2JyV1hCYnRfY21ZVkxSMTNiNHpTbUJPbzFaZFBVcmdxaGxocXZJQVUxMUhvZlZZbmQyM0o5VGhtV2V4d3U2YUJ0VVpxcUdFU2JFeWNmcktkMjlPRXNFSVppSU96dWxydGt2bmNvYzROMXpudEQ2TVlQQ1dtWUJHQVBnZG1ZRjRWem5kVkNFZTVWRXM0TEh5TkNJeVFLbGZnbGV5Zi1mdVN3TmJJVS00WDVpNVBQWmdYSjFYSXc4Z091U21MWE1yOGdBU2YwOEhLXzlZVzRpZVZCMmplWmpmMXV2eVNmQXVmZE5wY1hVTmdrZw?oc=5)
+
+---
+
 ### [La enfermedad de Alzheimer aumenta el riesgo de problemas bucodentales](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVk3TVVqNXA0M2dxMzNJemVUSDVzYU9BZDljVjZ3bTE5bEtjSmE0SFJFRjE2YjVaOUtjOGhzRU5zaVlUdHhGbGJ4c2tXRElSaXdzbTF3V1JsUkx2NmRjTEEtajkyQmtzVmhqb2h0WWFVd194Tnp6VWRrNEtfWldtYU9vaTdPc3FBa09fR3FfMTZCZHVXWkZUanp4S0NPWlI5bzl1NGk4MA?oc=5)
 
 2026-09-21 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
-Source: [servimedia.es](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVk3TVVqNXA0M2dxMzNJemVUSDVzYU9BZDljVjZ3bTE5bEtjSmE0SFJFRjE2YjVaOUtjOGhzRU5zaVlUdHhGbGJ4c2tXRElSaXdzbTF3V1JsUkx2NmRjTEEtajkyQmtzVmhqb2h0WWFVd194Tnp6VWRrNEtfWldtYU9vaTdPc3FBa09fR3FfMTZCZHVXWkZUanp4S0NPWlI5bzl1NGk4MA?oc=5)
+Source: [Servimedia](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVk3TVVqNXA0M2dxMzNJemVUSDVzYU9BZDljVjZ3bTE5bEtjSmE0SFJFRjE2YjVaOUtjOGhzRU5zaVlUdHhGbGJ4c2tXRElSaXdzbTF3V1JsUkx2NmRjTEEtajkyQmtzVmhqb2h0WWFVd194Tnp6VWRrNEtfWldtYU9vaTdPc3FBa09fR3FfMTZCZHVXWkZUanp4S0NPWlI5bzl1NGk4MA?oc=5)
 
 ---
 
-### [Dementia is Britain’s biggest health crisis, experts claim - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
+### [Dementia is Britain’s biggest health crisis, experts claim](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
 
 2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
-
----
-
-### [Diagnóstico temprano, apoyo y atención centrada en la persona en el Día Mundial del Alzheimer](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU5EMnNxVzc0Y3dMaENSd2NiTTlzbU9BSzNJN1FjM2FsdElkUURyS20yTkd0QWY1YU1IZV9FNnpTV2Fkc3lKdG5kZ0dGVm9VaEJMM1FGSTZDVmNjdnEwOGxIc0lpU2R1by1ZV05JVnd3ZXBlUjR3dzRDLUVkbml6cXlyemdSaThmelFqMWFmNXdfWlZsdUpKeTZvenBINUE4RmI2ZW9ZMktPVnAwN1ZF?oc=5)
-
-2026-09-21 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-Source: [infocop.es](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU5EMnNxVzc0Y3dMaENSd2NiTTlzbU9BSzNJN1FjM2FsdElkUURyS20yTkd0QWY1YU1IZV9FNnpTV2Fkc3lKdG5kZ0dGVm9VaEJMM1FGSTZDVmNjdnEwOGxIc0lpU2R1by1ZV05JVnd3ZXBlUjR3dzRDLUVkbml6cXlyemdSaThmelFqMWFmNXdfWlZsdUpKeTZvenBINUE4RmI2ZW9ZMktPVnAwN1ZF?oc=5)
-
----
-
-### [Des gencives qui saignent sont associées à un risque jusqu’à 61 % plus élevé d'Alzheimer, révèle une étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdEdiY01QRnpOYnJkcVowX3ZSU190UjlHN2M2U3FpeXhNbTZqWFdsUDVjRUFYZWJYX016S1NsWXh6RnFkMmRhRU5iSzhOV1BPVFAzcEc0dTlpOGs2S21PUkxnRHlBRWFsUi1PWFlJUFUwdEpnTGtwbFlzazNPaXF3cVZmN1RydFg3TERaX3FENFB6Y2g0NmZKMno1c0FHWnVVbEFRTnBMajV5R3lxaUtiS2pUWWtXTHZIZXpWVXRpZXNyTW05ZDJQRmlTSGdZT3JEVjljZnpHRk5FakR4WUx2WTYxY3pBVVNHd2diUjM3cw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdEdiY01QRnpOYnJkcVowX3ZSU190UjlHN2M2U3FpeXhNbTZqWFdsUDVjRUFYZWJYX016S1NsWXh6RnFkMmRhRU5iSzhOV1BPVFAzcEc0dTlpOGs2S21PUkxnRHlBRWFsUi1PWFlJUFUwdEpnTGtwbFlzazNPaXF3cVZmN1RydFg3TERaX3FENFB6Y2g0NmZKMno1c0FHWnVVbEFRTnBMajV5R3lxaUtiS2pUWWtXTHZIZXpWVXRpZXNyTW05ZDJQRmlTSGdZT3JEVjljZnpHRk5FakR4WUx2WTYxY3pBVVNHd2diUjM3cw?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
 
 ---
 
@@ -107,11 +115,27 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsV
 
 ---
 
-### [How to carry out your own midlife dementia MOT - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
+### [How to carry out your own midlife dementia MOT](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
 
 2026-09-20 <span class="news-indication-tag">dementia</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJIa3IxVHNkWWQ0dG00NXgta0lkU00zNHFjdU1fTVdBMFlpYW05N0E5ckduNU9pVVlYaW43VEZIOHMxbm1zSFVOeE15RElHRk5wb3BieDdvQkxtdjhlODFucEthTVNWM3ZQVm9aTFhXVUJSOTlFVU1ocnVEakdPdENlTzVyV0VOYVRUSUxoQ3Q5ejkzQkE?oc=5)
+
+---
+
+### [How knitting and crochet can be 'deceptively good' for the brain - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2FFY2t0aHN6YmVKRVhhaXVBaWNKR0xpajJROUcyenhFTnpoS3hPT2U2R3J3T3F3bGJYVGZRQUtsVWFZYWJEVERlT0E5cUJCXzA2Qm9MVFhkTFI2dWZvOGJ3UkdwWUJLakh3RTVjZy1Ydm5wYVRYY3B6c1RZLWkyQ1Bxd04?oc=5)
+
+2026-09-18 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
+
+Source: [ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2FFY2t0aHN6YmVKRVhhaXVBaWNKR0xpajJROUcyenhFTnpoS3hPT2U2R3J3T3F3bGJYVGZRQUtsVWFZYWJEVERlT0E5cUJCXzA2Qm9MVFhkTFI2dWZvOGJ3UkdwWUJLakh3RTVjZy1Ydm5wYVRYY3B6c1RZLWkyQ1Bxd04?oc=5)
+
+---
+
+### [Reading for pleasure cuts dementia risk by third, Cambridge study finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
+
+2026-09-15 <span class="news-indication-tag">dementia</span>
+
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF81RXNiVEE4enpwTTBoeXQtUU1XSnB3SldtdGxhS2xYTXkxcTNOanBpN1VFMjg1ZzhhR1d5U01zNXJzdmx0Nm9uR0h0dDNVNkJGTXp4T0ZGdzFoY1dTbnJoRERmZFlvTnBZaVpmMU5rX3loMGlwemt3YWoxT2hIb1dPMTlUSVBCa2JUMnVnYXhlckRRSEMxazRsYkNLam8x?oc=5)
 
 ---
 
