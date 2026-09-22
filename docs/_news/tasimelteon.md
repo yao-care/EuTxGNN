@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [En se reproduisant avec des Néandertaliens il y a 50 000 ans, nos ancêtres ont littéralement légué à certains Français un risque accru de dépression](https://news.google.com/rss/articles/CBMigAJBVV95cUxPcENaRDQta3pGdXVDX3J3eHI3MExhN0I2VGM2QjNWbjBQUGVoUVYyM2x5NVZwUzN4dHFnVU52R1RIZFRYYTlyYkZyWTBDdEhBcUYyTVFlc2ljemEwcnI0bVExaTBCeGRFWXpjcVJhc3FVMklMemUtdUhhbHFBSnYxdUlqTkx1SEZRM2NkVzZ4dS1HUmljX1R2b3NxOXRhMmdKLVhva2twb2xibTh2MFRFZUZfRmZiOGRuallaOXpHanBIeWtkXzFOWFprSC1UdmY0VS1RN0ZVNWIwVThwM0JfTDFmWmpVQkx5WVpjbjNsQm12X1RUVkd0Vm0yQk1yU01U?oc=5)
-
-2026-09-22 <span class="news-indication-tag">dépression</span>
-
-Source: [Sciencepost](https://news.google.com/rss/articles/CBMigAJBVV95cUxPcENaRDQta3pGdXVDX3J3eHI3MExhN0I2VGM2QjNWbjBQUGVoUVYyM2x5NVZwUzN4dHFnVU52R1RIZFRYYTlyYkZyWTBDdEhBcUYyTVFlc2ljemEwcnI0bVExaTBCeGRFWXpjcVJhc3FVMklMemUtdUhhbHFBSnYxdUlqTkx1SEZRM2NkVzZ4dS1HUmljX1R2b3NxOXRhMmdKLVhva2twb2xibTh2MFRFZUZfRmZiOGRuallaOXpHanBIeWtkXzFOWFprSC1UdmY0VS1RN0ZVNWIwVThwM0JfTDFmWmpVQkx5WVpjbjNsQm12X1RUVkd0Vm0yQk1yU01U?oc=5)
-
----
+## Related News (1)
 
 ### [Cinque regole per resettare l'orologio biologico: come combattere il sonno difficile](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
 

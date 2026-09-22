@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Healthy young men being struck down by mysterious kidney disease of unknown origins in Texas - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUU1NDNRcWxNLUNDT3VPTlpBeHFBX3lIbGZSRlFvTEVQeFFndkRwQzFIMFp6QnJ2NndfT0VOTDc1cjJzRWl0TktZaWVGLURxc1FvcWVOZlgtWHlFUU1IVFNaV2N2Y0tCODJhSXZqRGZOWDlHS1QzRnRsS2tkbng0cElkZGI4UWNkQ0JGQ09kdDJpOWlHQkhhVFBIVmZFeWc3YmJ3NlpJdkE?oc=5)
+
+2026-09-21 <span class="news-indication-tag">CKD</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUU1NDNRcWxNLUNDT3VPTlpBeHFBX3lIbGZSRlFvTEVQeFFndkRwQzFIMFp6QnJ2NndfT0VOTDc1cjJzRWl0TktZaWVGLURxc1FvcWVOZlgtWHlFUU1IVFNaV2N2Y0tCODJhSXZqRGZOWDlHS1QzRnRsS2tkbng0cElkZGI4UWNkQ0JGQ09kdDJpOWlHQkhhVFBIVmZFeWc3YmJ3NlpJdkE?oc=5)
+
+---
 
 
 <div class="disclaimer">

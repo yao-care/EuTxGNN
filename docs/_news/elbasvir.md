@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Elbasvir?">
-<strong>Elbasvir</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
+<strong>Elbasvir</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Elbasvir with the latest hea
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (14)
 
-### [Scientists reveal why Kent meningitis B outbreak was so deadly - Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUczREQ1c3NyaHBBS3FaZzYtcWFZQzYzRmZuYnVNRVRYd0xUcWhjZlhnM3FFSTYtWGluclJENkU5T1RfZEtIRmQ3dEJCSWxZc0ozMmMyU094NmRTX0F3OUxaMDlMRGNvTHJ4emhqWVpHNnZDTzVDUlJ0cjZPR2lmeGRVNUMtd0VsaXkxN1g3VDRoOWNScGhhel9XX2JCYlk?oc=5)
+### [Sex-based discrimination in medicine costs lives | Letters - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0NldjdBZkxkS3hkeWowVFVmWEZMZ1JMM0RUbFN2UnFDVVo2dTd1ZlN5OUpOQngwWUphOXNDSTMzdENVc1N3UGhpT2xYaUROaXByLTZKRy1vcVNUdGUxeUhmZUtqbV9fWmVvcVZVMFNidVo2cXVINUQyRVIzREthQzJHU3VjVkxBYUlxOHVXNHRyUDkxcnN6T1Fhb2Y?oc=5)
 
 2026-09-22 <span class="news-indication-tag">MS</span>
 
-Source: [Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUczREQ1c3NyaHBBS3FaZzYtcWFZQzYzRmZuYnVNRVRYd0xUcWhjZlhnM3FFSTYtWGluclJENkU5T1RfZEtIRmQ3dEJCSWxZc0ozMmMyU094NmRTX0F3OUxaMDlMRGNvTHJ4emhqWVpHNnZDTzVDUlJ0cjZPR2lmeGRVNUMtd0VsaXkxN1g3VDRoOWNScGhhel9XX2JCYlk?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0NldjdBZkxkS3hkeWowVFVmWEZMZ1JMM0RUbFN2UnFDVVo2dTd1ZlN5OUpOQngwWUphOXNDSTMzdENVc1N3UGhpT2xYaUROaXByLTZKRy1vcVNUdGUxeUhmZUtqbV9fWmVvcVZVMFNidVo2cXVINUQyRVIzREthQzJHU3VjVkxBYUlxOHVXNHRyUDkxcnN6T1Fhb2Y?oc=5)
+
+---
+
+### [La directora general de la OIM llama a un apoyo urgente ante el mayor brote de ébola registrado en la RDC](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlAxX0RMTWZaVDFodjctbXRtTUxwc2FKQXhmcWFOSW8ycGFaSEpPZUtfODJ3RUVSNXJVeU9oSk5OQTVFS1Rya3JwdlNwNS10UkdxTHNualA2SXJvc3pHQ3lzeFdTM202YXQyUFh6RzJsQ2VrTjhlOG9IdGI5ZWZrckRCTGM0Y013TDBTSmpJSkdMNGxWNGpBQWRGVU8yQXFrSkx0eW5JOWFuaV9teVBCSnc4OTVpYk05dGRFc2FHa0FFbkU5Q2dxSTBiUlZqSVVuY0h6Zm5jQzQzTnNQRmZ1ZUs1MVVFTGNoNHNnclR4VQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">MS</span>
+
+Source: [ReliefWeb](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlAxX0RMTWZaVDFodjctbXRtTUxwc2FKQXhmcWFOSW8ycGFaSEpPZUtfODJ3RUVSNXJVeU9oSk5OQTVFS1Rya3JwdlNwNS10UkdxTHNualA2SXJvc3pHQ3lzeFdTM202YXQyUFh6RzJsQ2VrTjhlOG9IdGI5ZWZrckRCTGM0Y013TDBTSmpJSkdMNGxWNGpBQWRGVU8yQXFrSkx0eW5JOWFuaV9teVBCSnc4OTVpYk05dGRFc2FHa0FFbkU5Q2dxSTBiUlZqSVVuY0h6Zm5jQzQzTnNQRmZ1ZUs1MVVFTGNoNHNnclR4VQ?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ Source: [Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUczREQ1
 2026-09-22 <span class="news-indication-tag">MS</span>
 
 Source: [BornCity](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1VoYi12UUlrR04wUG4yUl90OTU1d1owWDB4ZUQ5bjZMUmV6YmcxVExGaC1tVXVvTFZuWEFJeWswb2ZaNURBdjZVeUJkQWszS2ZKZFJwTndxSjZjeUpEOGRBVmtvb3RaVjM5NmpTS0tidUhaZWJTbWIydVlEeTQ1TFdLVGNEZUozMlBJQWk5a2VDLWowMXA2Sg?oc=5)
+
+---
+
+### [Biologisches Alter: Gesunde Ernährung verzögert Alterung um Jahre](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2JrbEZCUmI2QTdMT21udHphdzJNQzRLNFJLNmIwX0xGU3RZUmZwVnBEZ2hJU2NwM3lmV1VrTnRCWWEyYzlWQTVGR1diWnM0SDRUVmE5dEJmc0c2ckhTa0gyaUhISDRLZVp4QXpHYkoxd3J1U2lGUElHcFVTdmpObDg2SDVqUk5KaW1QVWZBMDBNS0hPMTVLaQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">MS</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2JrbEZCUmI2QTdMT21udHphdzJNQzRLNFJLNmIwX0xGU3RZUmZwVnBEZ2hJU2NwM3lmV1VrTnRCWWEyYzlWQTVGR1diWnM0SDRUVmE5dEJmc0c2ckhTa0gyaUhISDRLZVp4QXpHYkoxd3J1U2lGUElHcFVTdmpObDg2SDVqUk5KaW1QVWZBMDBNS0hPMTVLaQ?oc=5)
 
 ---
 
@@ -82,7 +98,7 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXppN
 
 2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
 ---
 
@@ -94,19 +110,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJob
 
 ---
 
-### [Boys behave differently to girls within hours of birth, Cambridge study finds - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORUtSZmYwbW50WkRaNnFqaWhXcGZwak9PWk1LX3NZMC0tbWJFQjRIUXZ0cnNkRWpPS0w2QUZZOE5mQzF4ZzFPLUt2SjF6OGQtSUFQUWdEbld2QmQ0RXJCNTRKRlphVXlJN2RrZXFYbDg0d1BFTC1aeDg1a3drX1lGcnF2RGFmclZFclFFVDhtV3czejB2aUEtOGxETWNGVFBvNGpNeFdR?oc=5)
+### [Non abbiamo un solo cervello, ma due: verso una svolta per la cura delle malattie neurologiche - la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0R3Z2hacHlfc3lfTUxGTFRndXBDZkp4T0ZJVGtnZ28yQ2Z2ZVRLNUQzZEptYWhGVWxaemxnbGlwdWZVbVQwc2lhM0IxMlBZdnRkaEF4eThmZWQzNkFEYWduVDNQNEV4aWcydENUN0M3NjIxRElBZHpFUHN3OFczZWpDUDR1UzhrMWJrQ2tUdTNaczZmSmhnTEQxa1NZajNUTW1UdjFQTC11aUhl0gGyAUFVX3lxTFA4bml5cnRVU3lKbHRQeFBuU2JpLUE5VjcwazBVSWxmVmR0TE9QNFkxRTlqaGowQmlBNEJLWTlBUXhHTWpOdFlTc09XR2VKYld5YUZ0Q2t5djhEc2ZtbVNncENIM29abFdfQzRVSTFwZjRuMnkzOW5xT0RvRFBDY3ZuVmM3NkFSUy1TVjR3WVEtaF8zd3E2UGxWZ0doeFBpdl9pZUR4S1hqOUZSZURVdjVtX3c?oc=5)
 
-2026-09-21 <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORUtSZmYwbW50WkRaNnFqaWhXcGZwak9PWk1LX3NZMC0tbWJFQjRIUXZ0cnNkRWpPS0w2QUZZOE5mQzF4ZzFPLUt2SjF6OGQtSUFQUWdEbld2QmQ0RXJCNTRKRlphVXlJN2RrZXFYbDg0d1BFTC1aeDg1a3drX1lGcnF2RGFmclZFclFFVDhtV3czejB2aUEtOGxETWNGVFBvNGpNeFdR?oc=5)
-
----
-
-### [El brote de ébola en la RDC supera los 7.600 casos mientras el ECDC refuerza su respuesta sobre el terreno - Gaceta Médica](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFNFRFdDaEZLMVRXcDFXNk1DTG1RRUJzaFI5SzdxZkV1RnVTUEJHQmVSOTVDU1dQRmVzS3c1T2RZNTJuX0szaU9rMXJTenp0SXc5WlEyN1VPdjVGbjhKN2UyUzRiZjdrWjQ1Q1Bwc2FaY2ZSRkJXR2FSZDFSenpVQWxKSVhkdTE1c016dmREeGR0OE1FTVFQb3d3WXJrUQ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFNFRFdDaEZLMVRXcDFXNk1DTG1RRUJzaFI5SzdxZkV1RnVTUEJHQmVSOTVDU1dQRmVzS3c1T2RZNTJuX0szaU9rMXJTenp0SXc5WlEyN1VPdjVGbjhKN2UyUzRiZjdrWjQ1Q1Bwc2FaY2ZSRkJXR2FSZDFSenpVQWxKSVhkdTE1c016dmREeGR0OE1FTVFQb3d3WXJrUQ?oc=5)
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0R3Z2hacHlfc3lfTUxGTFRndXBDZkp4T0ZJVGtnZ28yQ2Z2ZVRLNUQzZEptYWhGVWxaemxnbGlwdWZVbVQwc2lhM0IxMlBZdnRkaEF4eThmZWQzNkFEYWduVDNQNEV4aWcydENUN0M3NjIxRElBZHpFUHN3OFczZWpDUDR1UzhrMWJrQ2tUdTNaczZmSmhnTEQxa1NZajNUTW1UdjFQTC11aUhl0gGyAUFVX3lxTFA4bml5cnRVU3lKbHRQeFBuU2JpLUE5VjcwazBVSWxmVmR0TE9QNFkxRTlqaGowQmlBNEJLWTlBUXhHTWpOdFlTc09XR2VKYld5YUZ0Q2t5djhEc2ZtbVNncENIM29abFdfQzRVSTFwZjRuMnkzOW5xT0RvRFBDY3ZuVmM3NkFSUy1TVjR3WVEtaF8zd3E2UGxWZ0doeFBpdl9pZUR4S1hqOUZSZURVdjVtX3c?oc=5)
 
 ---
 
@@ -118,27 +126,11 @@ Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxO
 
 ---
 
-### [Diabetes und Adipositas: Genetik und Epigenetik steuern Ansprechen von Diät und Medikamenten](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
+### [Diabetes-Therapie: Genetik bestimmt Erfolg von Diät und Medikament - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDlVckZhNXJNRHF3ZDVYclFQbVA5a25HWlhueVJQTjNKV1hUOTdOUE9VTU5CcFc5VElVQ3pvU0h6OVpFVVJPRG9mV1dtRng2TGxTVFBRcjhPdUxWQTBxekJocE1nZzJVclZCUlpIVGxTb2YyYm1fa3p4U1ZkS3dGeWVkallnSWlBaDJ0cnB2aXNlR1lsSXRRVWczY0p2Q1RGV1NiMUVCWmowRFdKSE9XOGtybXhzdw?oc=5)
 
 2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
-
----
-
-### [„Markierung des sozialen Territoriums“: Psychologe erklärt, warum Jugendliche in Bus und Bahn laut Musik hören](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRENJdFhWMFR2WVdFSC1Rbmp5SEJybGtZM1FkYURyRnZSMzhOWlpzUTl4VWUwZGtwWERuWnd3R05uU3BpeG4tcjE5TktJTFU5SGpTeUZidUZxVFBEeFJlNE9TWDYteG1hakx2U1lXeG9VWmV4UGtzeUFZM2FDUWd4WXdHOGhIUVNjYVloSnhn?oc=5)
-
-2026-09-20 <span class="news-indication-tag">MS</span>
-
-Source: [t3n](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRENJdFhWMFR2WVdFSC1Rbmp5SEJybGtZM1FkYURyRnZSMzhOWlpzUTl4VWUwZGtwWERuWnd3R05uU3BpeG4tcjE5TktJTFU5SGpTeUZidUZxVFBEeFJlNE9TWDYteG1hakx2U1lXeG9VWmV4UGtzeUFZM2FDUWd4WXdHOGhIUVNjYVloSnhn?oc=5)
-
----
-
-### [GLP-1 auf dem Campus: Wie Druck zu schnellen Abnehm-Erfolgen wirkt](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
-
-2026-09-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDlVckZhNXJNRHF3ZDVYclFQbVA5a25HWlhueVJQTjNKV1hUOTdOUE9VTU5CcFc5VElVQ3pvU0h6OVpFVVJPRG9mV1dtRng2TGxTVFBRcjhPdUxWQTBxekJocE1nZzJVclZCUlpIVGxTb2YyYm1fa3p4U1ZkS3dGeWVkallnSWlBaDJ0cnB2aXNlR1lsSXRRVWczY0p2Q1RGV1NiMUVCWmowRFdKSE9XOGtybXhzdw?oc=5)
 
 ---
 
@@ -146,7 +138,7 @@ Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQOW
 
 2026-09-20 <span class="news-indication-tag">MS</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHpESUp2aGZtb0I3RXJUVXJPdE40eERJX0RVUHI0X3VuSjdjOHh2WHQzVHRTTGo2WTZuY3cwMVRhSFV6OEEyUkN0bDVuSi03ek5lMXFDcjJVai1LX2ctZkJpdEVTV1pTbGZmS2NORnhBSTBpZlJ4NUxXMWRZRDJabjlXM0diYTYxVzBVYkIyRmNIdVhldXlEX3dadWNnY25wR2RRVExuOWpZVXEzRFpmdENyby02RlM4TkhYOGpwZ3RJdFdIRWRnZ1NvNHlkYUQ3VW52S25wbVBJamZiWHJQRDFfLXZ4UHJrR243VW1jSGdXTGc?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHpESUp2aGZtb0I3RXJUVXJPdE40eERJX0RVUHI0X3VuSjdjOHh2WHQzVHRTTGo2WTZuY3cwMVRhSFV6OEEyUkN0bDVuSi03ek5lMXFDcjJVai1LX2ctZkJpdEVTV1pTbGZmS2NORnhBSTBpZlJ4NUxXMWRZRDJabjlXM0diYTYxVzBVYkIyRmNIdVhldXlEX3dadWNnY25wR2RRVExuOWpZVXEzRFpmdENyby02RlM4TkhYOGpwZ3RJdFdIRWRnZ1NvNHlkYUQ3VW52S25wbVBJamZiWHJQRDFfLXZ4UHJrR243VW1jSGdXTGc?oc=5)
 
 ---
 
@@ -158,19 +150,11 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0tVQ2
 
 ---
 
-### [First for RNA therapy: man with rare motor-neuron disease improves after treatment](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNzBCT3pSV2MydVhyZjg0aTNTX3EzYnc5N0FIRGRYV1NKVjN4dXBBbzk5ZTUtUlhDNjV4SDlSMjNVX3M1d1NMcWlfc2tZNExJeWs3emtLeVM2cFhYSGlF?oc=5)
+### [Adipositas: Semaglutid ohne erhöhte Risiken bei gebrechlichen Menschen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
 
-2026-09-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNzBCT3pSV2MydVhyZjg0aTNTX3EzYnc5N0FIRGRYV1NKVjN4dXBBbzk5ZTUtUlhDNjV4SDlSMjNVX3M1d1NMcWlfc2tZNExJeWs3emtLeVM2cFhYSGlF?oc=5)
-
----
-
-### [Molecular-level observation of the self-assembly of a virus-like particle](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KUmx0bTJBSUFSeEotWjI1NGpSdHRKMnBtcnlJdDkwaERmamVTZmduam9GMUtvaXJ2eFhiMVV3c0tvUzV3OXQ5RlkyQmN5SUl3bGVOaVVwZ1VVaVZVN2hB?oc=5)
-
-2026-09-16 <span class="news-indication-tag">MS</span>
-
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KUmx0bTJBSUFSeEotWjI1NGpSdHRKMnBtcnlJdDkwaERmamVTZmduam9GMUtvaXJ2eFhiMVV3c0tvUzV3OXQ5RlkyQmN5SUl3bGVOaVVwZ1VVaVZVN2hB?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
 
 ---
 
@@ -179,14 +163,6 @@ Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KUmx0bT
 2026-09-16 <span class="news-indication-tag">MS</span>
 
 Source: [STERN.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3cwaVEwMWt0WDFDMmM4YmNoci1WQmhLaE1OUjBwY2h4UEk4MnJ1QVR0N3VzQlpVdHc5TVdEM2Zsb2NqV0pfM2FMN011aE4yUnZVakNyYWNXMHFqeXE0Sms5OTEwbXNuU1VaREticHl1cTgwQlFuYXF0QXdXX1NjRTAxRUhjYWZGczBnRzBFUE05ZktOOUlCejRORTV3TTRFdmZ4LS1qaWY2YmMyWmQ5YTBMajFkS1hqQ3lTUFBB?oc=5)
-
----
-
-### [Abnehmspritze gegen Asthma? Studie zeigt positiven Effekt bei einem Wirkstoff - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
-2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
 
 ---
 

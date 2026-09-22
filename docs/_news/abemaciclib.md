@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Digoxin reduziert Herzinsuffizienzereignisse bei rheumatischer Herzerkrankung - Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1lBQU9FNzhfOFBHbWRZR2V6Vk4za05jSHJDeC1seHBUZUw5dHdyNlJodUVHZ0ZydXE3a04wdkx6S05SZ05oaUYxTEZfc0kwQ0tfYXlZSWZzRnd3RTJORjkwa1V2OTQzUVA2WmtNSWtKdkJ3MWxzWGhCaVU1WjhNa0QwczFfeXc2TElfQjAxejRDcE9ZaWNnRA?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Herzerkrankung</span>
 
 Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1lBQU9FNzhfOFBHbWRZR2V6Vk4za05jSHJDeC1seHBUZUw5dHdyNlJodUVHZ0ZydXE3a04wdkx6S05SZ05oaUYxTEZfc0kwQ0tfYXlZSWZzRnd3RTJORjkwa1V2OTQzUVA2WmtNSWtKdkJ3MWxzWGhCaVU1WjhNa0QwczFfeXc2TElfQjAxejRDcE9ZaWNnRA?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
-2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 ---
 
