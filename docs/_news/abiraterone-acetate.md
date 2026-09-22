@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Abiraterone Acetate?">
-<strong>Abiraterone Acetate</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Abiraterone Acetate</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page combines the AI-predicted indications for Abiraterone Acetate with the
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (9)
+
+### [15 Prozent weniger Demenz: Was eine Langzeitstudie über Bluthochdruck und Gehirngesundheit enthüllt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHNYSVlBN2Nib1l3SjU5NWpQRmVDcTFaa29feE9reGdlWFRaWlZGbms0MFlfV1diM1VuVXJvNEVBQ1BldGxsREVYcF9RbzlpeDZ6MUFRTUpnbUd3eGJnVGppM2VHRXdlaENOa2E2WVZyb2Y1bk5mSk9JM2dLa1Jia21KV3VTZUx6NVgwSGRJZzdPTE5VcWw1TVBscDhPeHpLZ0M3blVTTVI?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [fr.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHNYSVlBN2Nib1l3SjU5NWpQRmVDcTFaa29feE9reGdlWFRaWlZGbms0MFlfV1diM1VuVXJvNEVBQ1BldGxsREVYcF9RbzlpeDZ6MUFRTUpnbUd3eGJnVGppM2VHRXdlaENOa2E2WVZyb2Y1bk5mSk9JM2dLa1Jia21KV3VTZUx6NVgwSGRJZzdPTE5VcWw1TVBscDhPeHpLZ0M3blVTTVI?oc=5)
+
+---
+
+### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+
+2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+
+---
+
+### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">ipertensione</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+---
 
 ### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 

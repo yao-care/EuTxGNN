@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión (depression) News"
+title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 2 articles, 7 related drugs."
+description: "Health news about dépression (depression). 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# depresión (depression) News
+# dépression (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about dépression (depression)?">
+<strong>dépression (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “depresión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ This page brings together the latest health news about “depresión” and list
 
 ## Related News (2)
 
-### [Narcolepsia: cuando el cuerpo se duerme sin permiso, incluso al volante](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORE9LaTRuejVkZkNCaFA2aGVhdDF5aDlDTWpOWTV4dHBTV3RCQUVyWEdyV000dFF5R3daUjJiQnpzSzNjcFJVOFJSVEZYOEFkdjRLa0pkNVpZME9ZWWVtWThWcGJwVnc0bTNRdWpBbWdUVFFrdFo2UlRfUGJFV2h1LWtPcEY2REJLUVlSXzNNQTAzbzVSRmRyZ3FPX1VBbjhva0dkRHVSV3ZqaEtETEhkTUdFREg5STRuT0Uxcnd6STByNllmLUtETGlhVHhPNVZfOUZpSXFDMVNyT0pVSmhiZXpn?oc=5)
+### [En se reproduisant avec des Néandertaliens il y a 50 000 ans, nos ancêtres ont littéralement légué à certains Français un risque accru de dépression](https://news.google.com/rss/articles/CBMigAJBVV95cUxPcENaRDQta3pGdXVDX3J3eHI3MExhN0I2VGM2QjNWbjBQUGVoUVYyM2x5NVZwUzN4dHFnVU52R1RIZFRYYTlyYkZyWTBDdEhBcUYyTVFlc2ljemEwcnI0bVExaTBCeGRFWXpjcVJhc3FVMklMemUtdUhhbHFBSnYxdUlqTkx1SEZRM2NkVzZ4dS1HUmljX1R2b3NxOXRhMmdKLVhva2twb2xibTh2MFRFZUZfRmZiOGRuallaOXpHanBIeWtkXzFOWFprSC1UdmY0VS1RN0ZVNWIwVThwM0JfTDFmWmpVQkx5WVpjbjNsQm12X1RUVkd0Vm0yQk1yU01U?oc=5)
 
-2026-09-21
+2026-09-22
 
-Source: [sumedico.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORE9LaTRuejVkZkNCaFA2aGVhdDF5aDlDTWpOWTV4dHBTV3RCQUVyWEdyV000dFF5R3daUjJiQnpzSzNjcFJVOFJSVEZYOEFkdjRLa0pkNVpZME9ZWWVtWThWcGJwVnc0bTNRdWpBbWdUVFFrdFo2UlRfUGJFV2h1LWtPcEY2REJLUVlSXzNNQTAzbzVSRmRyZ3FPX1VBbjhva0dkRHVSV3ZqaEtETEhkTUdFREg5STRuT0Uxcnd6STByNllmLUtETGlhVHhPNVZfOUZpSXFDMVNyT0pVSmhiZXpn?oc=5)
+Source: [Sciencepost](https://news.google.com/rss/articles/CBMigAJBVV95cUxPcENaRDQta3pGdXVDX3J3eHI3MExhN0I2VGM2QjNWbjBQUGVoUVYyM2x5NVZwUzN4dHFnVU52R1RIZFRYYTlyYkZyWTBDdEhBcUYyTVFlc2ljemEwcnI0bVExaTBCeGRFWXpjcVJhc3FVMklMemUtdUhhbHFBSnYxdUlqTkx1SEZRM2NkVzZ4dS1HUmljX1R2b3NxOXRhMmdKLVhva2twb2xibTh2MFRFZUZfRmZiOGRuallaOXpHanBIeWtkXzFOWFprSC1UdmY0VS1RN0ZVNWIwVThwM0JfTDFmWmpVQkx5WVpjbjNsQm12X1RUVkd0Vm0yQk1yU01U?oc=5)
 
 ---
 
@@ -49,7 +49,7 @@ Source: [sumedico.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORE9L
 
 2026-09-20
 
-Source: [Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
+Source: [adnkronos.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
 
 ---
 

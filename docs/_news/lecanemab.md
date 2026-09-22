@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lecanemab?">
-<strong>Lecanemab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Lecanemab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
-### [Typ-2-Diabetes: Studie zeigt deutlich erhöhtes Krebsrisiko bei Frauen - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGFPejItMTJmdXowUHBVMm54VmR5UmF3NFN0RmZBVE9lcjJmLVpzTW1hZUY3akNVOUJGbWtwQWtILTdUTW90YVdCcDNkMktqOTA0OThQTzBBN0RaN2YyTmRyLXRILVMtMHV6SEVJUXZNc0E1MV9IZkhvVkZtZ2JZUVFfbnRpRzd6S3ppRGNPRHZGZWtGZV9XVVF1TnNCU1ZuR0pv?oc=5)
+### [La SED reclama reforzar el acceso a la educación terapéutica ante los avances en diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM0pvYWFFd2pZN05yOEt3WC03anRfczZHb0JENTRpSGpwT08xcUtkR0Q3dTJqR3Q1V2VFS2hHeWpIaC1pYXBZbFI3MU1Fcm1qUFNoRXZDUlRjSktucWNlVWlQT055Wk1MeEU1aUpQRl8zVWFVMVYtc3JOVWMweTdHQ1BnNWJiT0JlZnBrVHBmVkNYY1ZINkVkaV94SUd1NHc3UHdNOWdiN1VrSGIxSVA2NVlCNHZKeGFIY3FPdFUyS0nSAbsBQVVfeXFMUGpHaDBfbWczazRWSW11VExEdmZNaVlZLW1JR3VNbzVycHpRSEJwc1kwNWtYWjBEb0dCUUo4NnBQcGduMVQzUi1tei0tN3lCQjhmZ2NuVlRTZlctbEMwb3RfMWJmR01OWUNnSXB1eG81bVZ1MUZ0MkRIMHUzdFNMWmhZQnk3dVFwSTI2SUhpallsbW1wLU5ZcVZjbDNJTEJzV1A4NGpQT0dGaG9tRkJwVWZLT2NMcFJlMS14OA?oc=5)
 
-2026-09-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+2026-09-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGFPejItMTJmdXowUHBVMm54VmR5UmF3NFN0RmZBVE9lcjJmLVpzTW1hZUY3akNVOUJGbWtwQWtILTdUTW90YVdCcDNkMktqOTA0OThQTzBBN0RaN2YyTmRyLXRILVMtMHV6SEVJUXZNc0E1MV9IZkhvVkZtZ2JZUVFfbnRpRzd6S3ppRGNPRHZGZWtGZV9XVVF1TnNCU1ZuR0pv?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM0pvYWFFd2pZN05yOEt3WC03anRfczZHb0JENTRpSGpwT08xcUtkR0Q3dTJqR3Q1V2VFS2hHeWpIaC1pYXBZbFI3MU1Fcm1qUFNoRXZDUlRjSktucWNlVWlQT055Wk1MeEU1aUpQRl8zVWFVMVYtc3JOVWMweTdHQ1BnNWJiT0JlZnBrVHBmVkNYY1ZINkVkaV94SUd1NHc3UHdNOWdiN1VrSGIxSVA2NVlCNHZKeGFIY3FPdFUyS0nSAbsBQVVfeXFMUGpHaDBfbWczazRWSW11VExEdmZNaVlZLW1JR3VNbzVycHpRSEJwc1kwNWtYWjBEb0dCUUo4NnBQcGduMVQzUi1tei0tN3lCQjhmZ2NuVlRTZlctbEMwb3RfMWJmR01OWUNnSXB1eG81bVZ1MUZ0MkRIMHUzdFNMWmhZQnk3dVFwSTI2SUhpallsbW1wLU5ZcVZjbDNJTEJzV1A4NGpQT0dGaG9tRkJwVWZLT2NMcFJlMS14OA?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGFPe
 2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+
+---
+
+### [Una grave malattia mentale può accorciare la vita di 20 anni: il peso delle malattie fisiche](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcm42eXdtSjdTNkpOVUpkaTBkMXZiamdfZVFiVXRpd3pMejZRcGFka1VPT2ZkUDdDZHJqaF90clZUM3BEbl9KS0FXMGFpM1RkNExvbGZCX3dsVnF2YlM2ZUVkamNQNHJHZFJMMjB3dVlTNlpSZGVScExZVWZsb1RxOTlKOTFfVFNxS2l0NnlLV1ZfZE4xTmZWYUVjUmNKMUZpMGtEdmxqajlqeFhCX1lhb2JWUlBGLWJmajNjNkhfSmVWYV83YjMxQUw1RjA2U3RVcUpyNkxNa1RrYUtWY1JYTmpUa2FyQQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">diabete</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcm42eXdtSjdTNkpOVUpkaTBkMXZiamdfZVFiVXRpd3pMejZRcGFka1VPT2ZkUDdDZHJqaF90clZUM3BEbl9KS0FXMGFpM1RkNExvbGZCX3dsVnF2YlM2ZUVkamNQNHJHZFJMMjB3dVlTNlpSZGVScExZVWZsb1RxOTlKOTFfVFNxS2l0NnlLV1ZfZE4xTmZWYUVjUmNKMUZpMGtEdmxqajlqeFhCX1lhb2JWUlBGLWJmajNjNkhfSmVWYV83YjMxQUw1RjA2U3RVcUpyNkxNa1RrYUtWY1JYTmpUa2FyQQ?oc=5)
 
 ---
 
@@ -86,19 +94,19 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 ---
 
-### [Diabetes und Adipositas: Genetik und Epigenetik steuern Ansprechen von Diät und Medikamenten - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
+### [Diabetes und Adipositas: Genetik und Epigenetik steuern Ansprechen von Diät und Medikamenten](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
 
 ---
 
-### [Franco Berrino: «Chi ha la pancia si ammala di più. Ecco cosa fare per ridurla» - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
+### [Franco Berrino: «Chi ha la pancia si ammala di più. Ecco cosa fare per ridurla»](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
 
 2026-09-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
 
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
+Source: [corriere.it](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
 
 ---
 

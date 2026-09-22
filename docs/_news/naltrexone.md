@@ -62,19 +62,19 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYz
 
 ---
 
-### [Diabetes und Adipositas: Genetik und Epigenetik steuern Ansprechen von Diät und Medikamenten - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
+### [Diabetes und Adipositas: Genetik und Epigenetik steuern Ansprechen von Diät und Medikamenten](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
 
 ---
 
-### [Ketogene Diät senkt Leberfett um 67 Prozent: Effekte auf Lipide & Stoffwechsel - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBNzZrN0xNRThhWkVqZ2dVaHpnN3pPRzBFN3FqVjVEdEkxdV9CbDZMR3BrMDJEZTNVM3FJSDlvbHgtV2JmLVFmTXcyV1dJaEtmRTN2OXJDcHctdWpZZTdJWllxOFptSzlTc1NBQXVoWk9pWk9QMHZqejdQcjBfR3c4eXBLVXFZXzNEU2hWTm9GeVpzdWY0eTNUM25CaWJRdjZuLWdwYlFyM2FD?oc=5)
+### [GLP-1 auf dem Campus: Wie Druck zu schnellen Abnehm-Erfolgen wirkt](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">Adipositas</span>
+2026-09-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBNzZrN0xNRThhWkVqZ2dVaHpnN3pPRzBFN3FqVjVEdEkxdV9CbDZMR3BrMDJEZTNVM3FJSDlvbHgtV2JmLVFmTXcyV1dJaEtmRTN2OXJDcHctdWpZZTdJWllxOFptSzlTc1NBQXVoWk9pWk9QMHZqejdQcjBfR3c4eXBLVXFZXzNEU2hWTm9GeVpzdWY0eTNUM25CaWJRdjZuLWdwYlFyM2FD?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
 
 ---
 

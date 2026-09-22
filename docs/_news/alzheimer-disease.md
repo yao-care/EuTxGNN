@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad de Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad de Alzheimer (alzheimer disease). 6 articles, 16 related drugs."
+description: "Health news about enfermedad de Alzheimer (alzheimer disease). 7 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about enfermedad de Alzheimer (alzheimer disease)?">
-<strong>enfermedad de Alzheimer (alzheimer disease)</strong> currently has <strong>6 news articles</strong> and 16 related drugs.
+<strong>enfermedad de Alzheimer (alzheimer disease)</strong> currently has <strong>7 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ This page brings together the latest health news about “enfermedad de Alzheime
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [Los especialistas alertan de que la pérdida de memoria no debe normalizarse con la edad](https://news.google.com/rss/articles/CBMizAFBVV95cUxNa2ZHZlp5NlBtejJNbnhINmVjVjVTQWdFcmd3NTMtWXJzZE1HTDFqOHZoOC13WlJwRFZ6R2ptdV9PZkQ1d1htNmhUVk1mQmxYWk50ellhYTZSc3RsN3Y1RkZsYUN1a09qOTBOeTJCNkdobHVHSkZqejZsQVh1UXJ6V3dBLVhINU1MME43TFhPUmIxSlJKdW1fSnlsaFA3MlREZm82Mm5sNUgzWEF6V0dmM0twM2d6U25kV2VaS3VYQWpQaGZwaTBFdGVFeGc?oc=5)
+### [Los especialistas de Quirónsalud alertan de que la pérdida de memoria no debe normalizarse con la edad - Onda Cero Radio](https://news.google.com/rss/articles/CBMilgJBVV95cUxORV9WOXlIRGxqTm12X1BLWEJpYjM4MkJCdE1xMVk1RUNOQldTamZqdTBfd3U2VkVsYTNZTGUxd0VXUER5Q0FYclBiaUc2cG4yZlctUy1QWUQxV3dacFZPRjFVU3lEbjc0WHUxcmNycXlwTXFWRlk4bEt6OEpGcWx0TU1LeENKc3F4NlZTXzFJV2NWNDE4WGtzRzhWSU9STmZGVUJ4eVJSTXVKWEgtZ2ZlT3ZYUDNDelV1UURyOFB0LTF6UHE4QVVqRV93MUNyektneVFVU3VRLWtUcG1kZTFLRk1JclFMZ2hkVzdkRlJuSnBnX1pIb3R3b2k1Rjg1cGc5Y0xHa0tzNXhwN29FZVpnbG12WURrUdIBlgJBVV95cUxOWUFqNVBhN3NYcTFtOVY0X3ZoVEdVbVMyX2RDaEpkVUNFUWpEUzlnNE5HQkk4SldrYkFELUw5Zk5RaF8xNVh2OERiQ3lsLVZmNlczdG9hdElvUjhNdEkwMXNQazZiYXNjaGhBdFBGdHRNZWw0LWVyVDZpdlU1Tm5zUU5mTHBUTW8yUDVua2FCSEdGYUJIaHNSYnJKU090UkNCQlh2QmVCdHNTWW4zOEdBZUQ0WEJ5SmJKSlRPUklpbmR1SDhRV193WnlNN1ctU3RCZ3IxVWJfVENjenRYMDJHMzZQd2J6cUpIaG1KTlY1WmRsNmtBU3Nsanc5UktxMldmMnBnQVlKY0o0YWlTZElVM211Rzk3Zw?oc=5)
 
 2026-09-22
 
-Source: [alicanteplaza.es](https://news.google.com/rss/articles/CBMizAFBVV95cUxNa2ZHZlp5NlBtejJNbnhINmVjVjVTQWdFcmd3NTMtWXJzZE1HTDFqOHZoOC13WlJwRFZ6R2ptdV9PZkQ1d1htNmhUVk1mQmxYWk50ellhYTZSc3RsN3Y1RkZsYUN1a09qOTBOeTJCNkdobHVHSkZqejZsQVh1UXJ6V3dBLVhINU1MME43TFhPUmIxSlJKdW1fSnlsaFA3MlREZm82Mm5sNUgzWEF6V0dmM0twM2d6U25kV2VaS3VYQWpQaGZwaTBFdGVFeGc?oc=5)
+Source: [Onda Cero Radio](https://news.google.com/rss/articles/CBMilgJBVV95cUxORV9WOXlIRGxqTm12X1BLWEJpYjM4MkJCdE1xMVk1RUNOQldTamZqdTBfd3U2VkVsYTNZTGUxd0VXUER5Q0FYclBiaUc2cG4yZlctUy1QWUQxV3dacFZPRjFVU3lEbjc0WHUxcmNycXlwTXFWRlk4bEt6OEpGcWx0TU1LeENKc3F4NlZTXzFJV2NWNDE4WGtzRzhWSU9STmZGVUJ4eVJSTXVKWEgtZ2ZlT3ZYUDNDelV1UURyOFB0LTF6UHE4QVVqRV93MUNyektneVFVU3VRLWtUcG1kZTFLRk1JclFMZ2hkVzdkRlJuSnBnX1pIb3R3b2k1Rjg1cGc5Y0xHa0tzNXhwN29FZVpnbG12WURrUdIBlgJBVV95cUxOWUFqNVBhN3NYcTFtOVY0X3ZoVEdVbVMyX2RDaEpkVUNFUWpEUzlnNE5HQkk4SldrYkFELUw5Zk5RaF8xNVh2OERiQ3lsLVZmNlczdG9hdElvUjhNdEkwMXNQazZiYXNjaGhBdFBGdHRNZWw0LWVyVDZpdlU1Tm5zUU5mTHBUTW8yUDVua2FCSEdGYUJIaHNSYnJKU090UkNCQlh2QmVCdHNTWW4zOEdBZUQ0WEJ5SmJKSlRPUklpbmR1SDhRV193WnlNN1ctU3RCZ3IxVWJfVENjenRYMDJHMzZQd2J6cUpIaG1KTlY1WmRsNmtBU3Nsanc5UktxMldmMnBnQVlKY0o0YWlTZElVM211Rzk3Zw?oc=5)
+
+---
+
+### ["Ralentir la progression de la maladie d'Alzheimer" : le CHU de Toulouse lance un essai clinique innovant](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcTRlNkk4ZnVLWHBna3I5enVVeW9VMjBSemd6NERGM0JsTC1QXzA0bnVXOWRkN21jX2Y1RnAySGh3Ujgwd3E0REFkeGkyLVRkQThuNTVYM0EtUE53VDdvbF9aek9jeWVkSGtMak5oSWRuX3hJdEFGblhnbmpiZnd2NjVBS2Fpa0hlaXdoLWtyYmd2MkhaYlRBY3plT2QwZU44dGhyRXJpcjJPMnhoN3MyaU4wYTFzbGJPWnJfbk5sN0pmNHNWQy1qbVptX0NrcF9vRjh1UnMwMDNmYWwxcmtiZXNuREg1aXRUY2J0NA?oc=5)
+
+2026-09-22
+
+Source: [Actu.fr](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcTRlNkk4ZnVLWHBna3I5enVVeW9VMjBSemd6NERGM0JsTC1QXzA0bnVXOWRkN21jX2Y1RnAySGh3Ujgwd3E0REFkeGkyLVRkQThuNTVYM0EtUE53VDdvbF9aek9jeWVkSGtMak5oSWRuX3hJdEFGblhnbmpiZnd2NjVBS2Fpa0hlaXdoLWtyYmd2MkhaYlRBY3plT2QwZU44dGhyRXJpcjJPMnhoN3MyaU4wYTFzbGJPWnJfbk5sN0pmNHNWQy1qbVptX0NrcF9vRjh1UnMwMDNmYWwxcmtiZXNuREg1aXRUY2J0NA?oc=5)
 
 ---
 

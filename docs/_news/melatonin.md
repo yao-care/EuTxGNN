@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Melatonin</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+
+2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+
+---
 
 ### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 
@@ -70,19 +78,19 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYz
 
 ---
 
-### [Diabetes und Adipositas: Genetik und Epigenetik steuern Ansprechen von Diät und Medikamenten - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
+### [Diabetes und Adipositas: Genetik und Epigenetik steuern Ansprechen von Diät und Medikamenten](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJZNTJWZHBkWVp2WUFHVXcxWU1VdmVpMFlTSnh4VHFHZjJ6UGVDdkYzSk1BZk0yVkIzYUZlSUFZX3pNSlAtUzdkRFd4b0RjLU96bFFJcWtkTlBfWUttbGI4YXNqWDJMR1B2c2NNZ1luczg0bzhJaS1ydVZVS29HUm1qNnotYkxtcE9kUHdwRVFJeHV0aGsxczZyVHJSc0NVRl8wU21LcDJMV2hzUThoeTVzd1JxYmExU3RtcHE0Z1ljZw?oc=5)
 
 ---
 
-### [Ketogene Diät senkt Leberfett um 67 Prozent: Effekte auf Lipide & Stoffwechsel - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBNzZrN0xNRThhWkVqZ2dVaHpnN3pPRzBFN3FqVjVEdEkxdV9CbDZMR3BrMDJEZTNVM3FJSDlvbHgtV2JmLVFmTXcyV1dJaEtmRTN2OXJDcHctdWpZZTdJWllxOFptSzlTc1NBQXVoWk9pWk9QMHZqejdQcjBfR3c4eXBLVXFZXzNEU2hWTm9GeVpzdWY0eTNUM25CaWJRdjZuLWdwYlFyM2FD?oc=5)
+### [GLP-1 auf dem Campus: Wie Druck zu schnellen Abnehm-Erfolgen wirkt](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">Adipositas</span>
+2026-09-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBNzZrN0xNRThhWkVqZ2dVaHpnN3pPRzBFN3FqVjVEdEkxdV9CbDZMR3BrMDJEZTNVM3FJSDlvbHgtV2JmLVFmTXcyV1dJaEtmRTN2OXJDcHctdWpZZTdJWllxOFptSzlTc1NBQXVoWk9pWk9QMHZqejdQcjBfR3c4eXBLVXFZXzNEU2hWTm9GeVpzdWY0eTNUM25CaWJRdjZuLWdwYlFyM2FD?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdLby1xTGIzOWpEdXJJZ0pPeXBaU3pDczZydG1FNVJydWJKTmwzRjZKX2hPUlRDMTV2eXBIZUFnVm4yRGMwbUhqb20tQlkwYTVIRi1hR2JsemZoQ0c3bHdURS1FYXJlMmZBWUJMa3JqV19aalVtcmw3TnBJR1hjWG13YlRlbk1jSFlCalUyVmxJSTN4LXB3eXZHalhUZw?oc=5)
 
 ---
 

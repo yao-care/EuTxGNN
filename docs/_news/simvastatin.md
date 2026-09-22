@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Süßstoffe statt Zucker: Studie räumt mit dem größten Irrtum über Zuckerersatz auf](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekFnZWk2TUR0SEs3dVVQZXRQbFhTb2l3UFp0VjF1UUg4dkxMYXQ1VzcxQ3R6VzRfUTI1VVF5eWhONzZtS1E5YnJMSGh0QkRpaGhoMXNfQkFqM2xLOEh4SlFER1RJMmx4UzNNYnl2alNBTVA2aVdsSnFCY0VBS2VOOWljNjIwcXdWaF96U3BMOENmOWQ1dmZnSmk0SXNoWTE0SzZKbEhGNUhTRU5VM3JOX0Y5Um5sQzVfLU1XVm9QcHJNX1V5UFNZLS1Lb2ZBZzZEMHJ6WmVn?oc=5)
 
@@ -62,11 +62,19 @@ Source: [fnp.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekFnZWk2TU
 
 ---
 
-### [Gefäßverkalkung: Vitamin K2 verlangsamt Arteriosklerose um 25%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXppNTIzMUNnTzE2UmlCeHVsX0hOYjJyclZKN3lGUXpOd2RnVzRXYWxxX1c5ZTVDRTVKaHNvM0R0eFFaTWN6UE5idVBnWkRiLVc3VXd0TUtWRURPS2cyNmhmSUF0cGR0dnNkWGlHaDZfX1M5X1Z2UldEdVdHQzBmbVZzbUp5M3RyNzA4TWVXa0NUeVlQTnFCcHRpUWZUZ001NVo1UngxWVB4STNYY0FQTjE1UGV2cC1EZDlz?oc=5)
+### [AVC : pourquoi les chercheurs s’intéressent-ils soudainement à l’acide urique ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGI3MWxwTHJWeUlRb2YzblF3TlFWdXIwODJoc19zNmpjZVkwUGxBY2ptVFFRNzlkbzE1a2owdWo5ZnZOSmdZOUJtY0JzYXBPWm80eHYtT3FFLVdjRWZtMWdZNklyaEJmMThZdEx6ZjROd1ZFS0RLYlV5MXlWcFRFRU9YNXYtVUxYZ2xyX2Mxb0NZTnAtcVdmSEdIZjZQLXh0d0REbXk1UnZZODdMMTBGNkpOaEt0TnZXSEVRaENfdzZJbnVfRmphSkhDYUFQZGItSk9vMkNUMzdwdWpTZmc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">AVC</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGI3MWxwTHJWeUlRb2YzblF3TlFWdXIwODJoc19zNmpjZVkwUGxBY2ptVFFRNzlkbzE1a2owdWo5ZnZOSmdZOUJtY0JzYXBPWm80eHYtT3FFLVdjRWZtMWdZNklyaEJmMThZdEx6ZjROd1ZFS0RLYlV5MXlWcFRFRU9YNXYtVUxYZ2xyX2Mxb0NZTnAtcVdmSEdIZjZQLXh0d0REbXk1UnZZODdMMTBGNkpOaEt0TnZXSEVRaENfdzZJbnVfRmphSkhDYUFQZGItSk9vMkNUMzdwdWpTZmc?oc=5)
+
+---
+
+### [Gefäßverkalkung: Vitamin K2 verlangsamt Arteriosklerose um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXppNTIzMUNnTzE2UmlCeHVsX0hOYjJyclZKN3lGUXpOd2RnVzRXYWxxX1c5ZTVDRTVKaHNvM0R0eFFaTWN6UE5idVBnWkRiLVc3VXd0TUtWRURPS2cyNmhmSUF0cGR0dnNkWGlHaDZfX1M5X1Z2UldEdVdHQzBmbVZzbUp5M3RyNzA4TWVXa0NUeVlQTnFCcHRpUWZUZ001NVo1UngxWVB4STNYY0FQTjE1UGV2cC1EZDlz?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXppNTIzMUNnTzE2UmlCeHVsX0hOYjJyclZKN3lGUXpOd2RnVzRXYWxxX1c5ZTVDRTVKaHNvM0R0eFFaTWN6UE5idVBnWkRiLVc3VXd0TUtWRURPS2cyNmhmSUF0cGR0dnNkWGlHaDZfX1M5X1Z2UldEdVdHQzBmbVZzbUp5M3RyNzA4TWVXa0NUeVlQTnFCcHRpUWZUZ001NVo1UngxWVB4STNYY0FQTjE1UGV2cC1EZDlz?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXppNTIzMUNnTzE2UmlCeHVsX0hOYjJyclZKN3lGUXpOd2RnVzRXYWxxX1c5ZTVDRTVKaHNvM0R0eFFaTWN6UE5idVBnWkRiLVc3VXd0TUtWRURPS2cyNmhmSUF0cGR0dnNkWGlHaDZfX1M5X1Z2UldEdVdHQzBmbVZzbUp5M3RyNzA4TWVXa0NUeVlQTnFCcHRpUWZUZ001NVo1UngxWVB4STNYY0FQTjE1UGV2cC1EZDlz?oc=5)
 
 ---
 
@@ -74,15 +82,15 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNX
 
 2026-09-21 <span class="news-indication-tag">ictus</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
 
 ---
 
-### [Sopravvive all’attacco di una tigre ma il morso al collo le provoca un ictus](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
+### [Voici le geste à ne pas négliger pour réduire le risque d’AVC et protéger votre cœur - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
-2026-09-18 <span class="news-indication-tag">ictus</span>
+2026-09-20 <span class="news-indication-tag">AVC</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hqdnZPeUEwSEhOUzN3V1lnQlBYS3ZpZ0F0VGtGclJVLWNGNkk0LTR0WHk3My0xeXFoYzdSV2F4RlBSSzdYQk1JZmZVOHVFd1pjNzA2Y0QzRm9US0tReUlVM2hDT2xUODBzR2lMdGY4aWtzWGMyRFNiNjRXYU9jcWVERC1YZ0M1RWt1ZmJJUG8yeldEY3BGaThiWV9XN1BMLVBPbkpfcHoxT0JELUlTdVpiNFMwUjJiNzNEb1dFTXV0QmpK?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
 ---
 
@@ -91,22 +99,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0hq
 2026-09-18 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
-
----
-
-### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
-
----
-
-### [Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
-
-2026-09-15 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5)
 
 ---
 

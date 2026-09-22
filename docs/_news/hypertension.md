@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hypertension News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hypertension. 1 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# hypertension News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hypertension?">
-<strong>hypertension</strong> currently has <strong>1 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hypertension” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,23 @@ This page brings together the latest health news about “hypertension” and li
 </ul>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [15 Prozent weniger Demenz: Was eine Langzeitstudie über Bluthochdruck und Gehirngesundheit enthüllt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHNYSVlBN2Nib1l3SjU5NWpQRmVDcTFaa29feE9reGdlWFRaWlZGbms0MFlfV1diM1VuVXJvNEVBQ1BldGxsREVYcF9RbzlpeDZ6MUFRTUpnbUd3eGJnVGppM2VHRXdlaENOa2E2WVZyb2Y1bk5mSk9JM2dLa1Jia21KV3VTZUx6NVgwSGRJZzdPTE5VcWw1TVBscDhPeHpLZ0M3blVTTVI?oc=5)
+
+2026-09-22
+
+Source: [fr.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHNYSVlBN2Nib1l3SjU5NWpQRmVDcTFaa29feE9reGdlWFRaWlZGbms0MFlfV1diM1VuVXJvNEVBQ1BldGxsREVYcF9RbzlpeDZ6MUFRTUpnbUd3eGJnVGppM2VHRXdlaENOa2E2WVZyb2Y1bk5mSk9JM2dLa1Jia21KV3VTZUx6NVgwSGRJZzdPTE5VcWw1TVBscDhPeHpLZ0M3blVTTVI?oc=5)
+
+---
+
+### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+2026-09-22
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+---
 
 ### [José, cardiologue : "À partir de 40 ans, la tension artérielle doit être mesurée tous les deux ou trois mois"](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2hrdzYtazk5aDVwdjhuc0JtZ1JTaTFpQkhiLTZOLWt0UzVxekxCdHpMcG5tV3hxUlkwajgzTENpS2g2NlVkVnN5RTNMZkxZcWV5U0ZRVXJNU2NqSEw1cTRIMXhqUl94V182SS1OUmRBdlY2SkRQT3NsVVBDYlV3bVhUUnMxMThBRkZkX2FvMVo5NHF3djJlNmlzQ3RQRFNiRXUxS1lPcUg5UXVKZXM1eXdBUU1XS2J4elJ1VElpT3E1SjFGUlZPQXVzOERtbTlGUU04MHppRGxjS2Ro?oc=5)
 

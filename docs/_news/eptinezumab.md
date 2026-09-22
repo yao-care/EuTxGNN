@@ -14,7 +14,7 @@ permalink: /news/eptinezumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Eptinezumab?">
-<strong>Eptinezumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Eptinezumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Eptinezumab with the latest 
 <p><a href="{{ '/drugs/eptinezumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+
+2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+
+---
 
 ### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 

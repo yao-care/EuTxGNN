@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Pflegeheime, KI-Chatbots und COPD-Screening: 277 neue Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
-
-2026-09-21 <span class="news-indication-tag">copd</span>
-
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
-
----
+## Related News (2)
 
 ### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
 
