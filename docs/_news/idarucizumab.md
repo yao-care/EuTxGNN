@@ -62,6 +62,14 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 ---
 
+### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+
+2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+
+---
+
 ### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
 2026-09-17 <span class="news-indication-tag">arthritis</span>
@@ -75,14 +83,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV9
 2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">copd</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
 
 ---
 

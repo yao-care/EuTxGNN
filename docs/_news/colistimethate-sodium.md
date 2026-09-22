@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Colistimethate Sodium?">
-<strong>Colistimethate Sodium</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Colistimethate Sodium</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Colistimethate Sodium with t
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [José, cardiologue : "À partir de 40 ans, la tension artérielle doit être mesurée tous les deux ou trois mois"](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2hrdzYtazk5aDVwdjhuc0JtZ1JTaTFpQkhiLTZOLWt0UzVxekxCdHpMcG5tV3hxUlkwajgzTENpS2g2NlVkVnN5RTNMZkxZcWV5U0ZRVXJNU2NqSEw1cTRIMXhqUl94V182SS1OUmRBdlY2SkRQT3NsVVBDYlV3bVhUUnMxMThBRkZkX2FvMVo5NHF3djJlNmlzQ3RQRFNiRXUxS1lPcUg5UXVKZXM1eXdBUU1XS2J4elJ1VElpT3E1SjFGUlZPQXVzOERtbTlGUU04MHppRGxjS2Ro?oc=5)
 
 2026-09-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [melty.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2hrdzYtazk5aDVwdjhuc0JtZ1JTaTFpQkhiLTZOLWt0UzVxekxCdHpMcG5tV3hxUlkwajgzTENpS2g2NlVkVnN5RTNMZkxZcWV5U0ZRVXJNU2NqSEw1cTRIMXhqUl94V182SS1OUmRBdlY2SkRQT3NsVVBDYlV3bVhUUnMxMThBRkZkX2FvMVo5NHF3djJlNmlzQ3RQRFNiRXUxS1lPcUg5UXVKZXM1eXdBUU1XS2J4elJ1VElpT3E1SjFGUlZPQXVzOERtbTlGUU04MHppRGxjS2Ro?oc=5)
+
+---
+
+### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+
+2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 ---
 

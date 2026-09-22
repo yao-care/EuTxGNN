@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Pflegeheime, KI-Chatbots und COPD-Screening: 277 neue Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3JLY3ZGVWZ0UUlicllWYm5zTmhhSlFKSnlMVUJHVm9abnFLQ2pqdlpCWHZrOVJ5b2lwRkY5bkJ0eVNCbzRaSnI3VWxqN2c3akpja2pteERKemRLSWlQX09uaHctOTRrTlhZNmZzSElPOXlBM19uTm1Tc29zN1ZQQUQ1WWs0RUFMZ1pURVVEUklEbUZiV01ONVFOUEp1aHRYYW1lVksyZ1M5NHdBSFE?oc=5)
 
@@ -75,14 +75,6 @@ Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxP
 2026-09-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm1pYUpXYWYxZjd0MTQ2eGxEeDZUeXBhWEJxT0Vrb1lHY0xRcGM5RHJ5bUwwRFBXakxKNGE2ZmtsdUx4dTh5dnhCOEJqSzl1Tk5aZmxaVmRWTDEzYTJUR05QTzRkclZRZGJwTFcyYzNYakp2QjRVSmNWTEVMMG4wWll4S05SbWh1N2lmdUgzMXlud0xXNEVfeDk3NWVUaDUybUNZbXNZUWk2WGF1djdGdldPcW5xbXdNeW9iVUJTLUJCcVoxWEphLWZESTVhY2VXMnRNSTFUcw?oc=5)
-
----
-
-### [COPD-Risiko: Zusammenspiel von Genetik und Luftverschmutzung bereits im Kindesalter – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
-
-2026-09-15 <span class="news-indication-tag">copd</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0F1YjhPZkJtTk4wdkNtdS1wTzVnSFJldXluYUNOTmxiVEdJZS1uNzZaNDc2TVJNRmpqYjJGR2d1QTJxMHpxVEExVTY4LWNNTEloT2FCVXNISmVsNlgwalZCY3hVNUhRNUIzTGxoY2Etb25JenMtNC11ZzNWdnpBdm9id1Z3NGc4eVB6MnRmcDBNc0pwd2lpY1J0WnZCdnZwem9BQVJlMGxpdGdTY25QYklzMjJNQThjX0FIY1RrX0VtZnhrclpXSEdBRlAyWWM4MUFydHhNcHFubmpWbmVVQVJPWG1fQQ?oc=5)
 
 ---
 

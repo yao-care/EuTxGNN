@@ -54,7 +54,7 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 
 ## Related News (1)
 
-### [Healthy young men being struck down by kidney disease of unknown origins in Texas - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUU1NDNRcWxNLUNDT3VPTlpBeHFBX3lIbGZSRlFvTEVQeFFndkRwQzFIMFp6QnJ2NndfT0VOTDc1cjJzRWl0TktZaWVGLURxc1FvcWVOZlgtWHlFUU1IVFNaV2N2Y0tCODJhSXZqRGZOWDlHS1QzRnRsS2tkbng0cElkZGI4UWNkQ0JGQ09kdDJpOWlHQkhhVFBIVmZFeWc3YmJ3NlpJdkE?oc=5)
+### [Healthy young men being struck down by mysterious kidney disease of unknown origins in Texas - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUU1NDNRcWxNLUNDT3VPTlpBeHFBX3lIbGZSRlFvTEVQeFFndkRwQzFIMFp6QnJ2NndfT0VOTDc1cjJzRWl0TktZaWVGLURxc1FvcWVOZlgtWHlFUU1IVFNaV2N2Y0tCODJhSXZqRGZOWDlHS1QzRnRsS2tkbng0cElkZGI4UWNkQ0JGQ09kdDJpOWlHQkhhVFBIVmZFeWc3YmJ3NlpJdkE?oc=5)
 
 2026-09-21 <span class="news-indication-tag">CKD</span>
 

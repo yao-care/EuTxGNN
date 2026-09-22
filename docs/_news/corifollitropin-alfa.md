@@ -14,7 +14,7 @@ permalink: /news/corifollitropin-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Corifollitropin Alfa?">
-<strong>Corifollitropin Alfa</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Corifollitropin Alfa</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Corifollitropin Alfa with th
 <p><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">migraine</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+
+---
 
 ### [José, cardiologue : "À partir de 40 ans, la tension artérielle doit être mesurée tous les deux ou trois mois"](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2hrdzYtazk5aDVwdjhuc0JtZ1JTaTFpQkhiLTZOLWt0UzVxekxCdHpMcG5tV3hxUlkwajgzTENpS2g2NlVkVnN5RTNMZkxZcWV5U0ZRVXJNU2NqSEw1cTRIMXhqUl94V182SS1OUmRBdlY2SkRQT3NsVVBDYlV3bVhUUnMxMThBRkZkX2FvMVo5NHF3djJlNmlzQ3RQRFNiRXUxS1lPcUg5UXVKZXM1eXdBUU1XS2J4elJ1VElpT3E1SjFGUlZPQXVzOERtbTlGUU04MHppRGxjS2Ro?oc=5)
 
