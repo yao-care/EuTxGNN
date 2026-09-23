@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Abnehm-Spritze: Hilft Semaglutid auch bei Asthma und COPD?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
+
+2026-09-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
+
+---
 
 
 <div class="disclaimer">

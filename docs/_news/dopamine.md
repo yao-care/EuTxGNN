@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dopamine?">
-<strong>Dopamine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Dopamine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Brain scans reveal a possible cause of long COVID fatigue and brain fog](https://news.google.com/rss/articles/CBMib0FVX3lxTFA3a2xRbDExVmNjTEh3WXVyZmxBLXJwcTA0QzBGS3N1ZFhqVEtWc0o4Z3dLVHNYMldMUTVyN0dWS2RXU09rVnNvYXJ4SVlCcVZTTllvWE5hSVZ6b2k2SE9va1N1S0NHd0ViN1hVdEFFUQ?oc=5)
-
-2026-09-22 <span class="news-drug-tag">Dopamine</span>
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFA3a2xRbDExVmNjTEh3WXVyZmxBLXJwcTA0QzBGS3N1ZFhqVEtWc0o4Z3dLVHNYMldMUTVyN0dWS2RXU09rVnNvYXJ4SVlCcVZTTllvWE5hSVZ6b2k2SE9va1N1S0NHd0ViN1hVdEFFUQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (13)
+
+### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+
+2026-09-22 <span class="news-indication-tag">AVC</span>
+
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+
+---
 
 ### [La Lombardia approva la legge sull’obesità: farmaci gratis per i casi gravi - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnUycTZUUy1nSkdHWnhYVFdYX0k4MDd3aFh0VG4yWkNmNjBNeXN4TzFtMTAxM182S29HZHNFdGJueU5TLUxCNzk5SW5rb3JjeW96RGlmTmpuM3g0X09GMms2R242aVZLRWd0S3hRajlVSWZ0VzBiakV6cFZSbE5yRW5seUhicmxkZndoWFNlN0hOd0xEbm4yNHJQbG1VVmI4ZzdTZUYtXzQ0WFdjRmtqRnVUZ0c4MzBzaTJTaEIzXzRZS1ZpY1VRdnM5NURyaUhMWmNwQjlkc1Q?oc=5)
 
 2026-09-22 <span class="news-indication-tag">obesità</span>
 
 Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnUycTZUUy1nSkdHWnhYVFdYX0k4MDd3aFh0VG4yWkNmNjBNeXN4TzFtMTAxM182S29HZHNFdGJueU5TLUxCNzk5SW5rb3JjeW96RGlmTmpuM3g0X09GMms2R242aVZLRWd0S3hRajlVSWZ0VzBiakV6cFZSbE5yRW5seUhicmxkZndoWFNlN0hOd0xEbm4yNHJQbG1VVmI4ZzdTZUYtXzQ0WFdjRmtqRnVUZ0c4MzBzaTJTaEIzXzRZS1ZpY1VRdnM5NURyaUhMWmNwQjlkc1Q?oc=5)
-
----
-
-### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
 ---
 
@@ -78,11 +78,27 @@ Source: [fnp.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekFnZWk2TU
 
 ---
 
+### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+
+---
+
 ### [AVC : pourquoi les chercheurs s’intéressent-ils soudainement à l’acide urique ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGI3MWxwTHJWeUlRb2YzblF3TlFWdXIwODJoc19zNmpjZVkwUGxBY2ptVFFRNzlkbzE1a2owdWo5ZnZOSmdZOUJtY0JzYXBPWm80eHYtT3FFLVdjRWZtMWdZNklyaEJmMThZdEx6ZjROd1ZFS0RLYlV5MXlWcFRFRU9YNXYtVUxYZ2xyX2Mxb0NZTnAtcVdmSEdIZjZQLXh0d0REbXk1UnZZODdMMTBGNkpOaEt0TnZXSEVRaENfdzZJbnVfRmphSkhDYUFQZGItSk9vMkNUMzdwdWpTZmc?oc=5)
 
 2026-09-22 <span class="news-indication-tag">AVC</span>
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGI3MWxwTHJWeUlRb2YzblF3TlFWdXIwODJoc19zNmpjZVkwUGxBY2ptVFFRNzlkbzE1a2owdWo5ZnZOSmdZOUJtY0JzYXBPWm80eHYtT3FFLVdjRWZtMWdZNklyaEJmMThZdEx6ZjROd1ZFS0RLYlV5MXlWcFRFRU9YNXYtVUxYZ2xyX2Mxb0NZTnAtcVdmSEdIZjZQLXh0d0REbXk1UnZZODdMMTBGNkpOaEt0TnZXSEVRaENfdzZJbnVfRmphSkhDYUFQZGItSk9vMkNUMzdwdWpTZmc?oc=5)
+
+---
+
+### [GLP-1-Medikamente: Therapieabbruch erhöht Herzinfarkt-Risiko um 22% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVNOZUlvMXVFYmFSZmk1eFZoRU40Z3pJNENtZzV0eEhnVy1ybjJ5UDRQa1FTZlR0MnB0cnBfc05GZUJWeU1lcWtxNzZhNVNjOVpHbEltT0RJaGN5bHR5TXhPRzFPSVRfdVdpX0JrQ2UyNTc0X2RsZWhiQXVsdDVhMmxEYzAzYzRyOHdldkZpUkFybEJNeFF6YTZJcm53Z1dLLXYyMExPYVhOamR2TV9XWldsSF96QQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Adipositas</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVNOZUlvMXVFYmFSZmk1eFZoRU40Z3pJNENtZzV0eEhnVy1ybjJ5UDRQa1FTZlR0MnB0cnBfc05GZUJWeU1lcWtxNzZhNVNjOVpHbEltT0RJaGN5bHR5TXhPRzFPSVRfdVdpX0JrQ2UyNTc0X2RsZWhiQXVsdDVhMmxEYzAzYzRyOHdldkZpUkFybEJNeFF6YTZJcm53Z1dLLXYyMExPYVhOamR2TV9XWldsSF96QQ?oc=5)
 
 ---
 
@@ -134,11 +150,11 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFd
 
 ---
 
-### [Adipositas: Semaglutid ohne erhöhte Risiken bei gebrechlichen Menschen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
+### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
 
-2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
 
 ---
 

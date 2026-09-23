@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Thyrotropin Alfa with the la
 
 ## Related News (8)
 
-### [15 Prozent weniger Demenz: Was eine Langzeitstudie über Bluthochdruck und Gehirngesundheit enthüllt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHNYSVlBN2Nib1l3SjU5NWpQRmVDcTFaa29feE9reGdlWFRaWlZGbms0MFlfV1diM1VuVXJvNEVBQ1BldGxsREVYcF9RbzlpeDZ6MUFRTUpnbUd3eGJnVGppM2VHRXdlaENOa2E2WVZyb2Y1bk5mSk9JM2dLa1Jia21KV3VTZUx6NVgwSGRJZzdPTE5VcWw1TVBscDhPeHpLZ0M3blVTTVI?oc=5)
+### [Demenz-Prävention: Blutdruckkontrolle senkt Risiko um 15 Prozent](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzNNUE5xWlFSdGI2WkVpQjlTUm42Yk1EbndzazQzcHVZUXNWRFd3VWRLd0F2cmg0bWt1Q08wamxMcmsyT193cGNNT0VBemVZOEVPSWplWFJpdmliaF9seUtnc3ByREhqMDdiWDlva1lOd25wWXpYTnFEOHo4NmhVLXFWR09OWjc0LVptbTNMdmhHMXNqZnc?oc=5)
 
-2026-09-22 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-23 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHNYSVlBN2Nib1l3SjU5NWpQRmVDcTFaa29feE9reGdlWFRaWlZGbms0MFlfV1diM1VuVXJvNEVBQ1BldGxsREVYcF9RbzlpeDZ6MUFRTUpnbUd3eGJnVGppM2VHRXdlaENOa2E2WVZyb2Y1bk5mSk9JM2dLa1Jia21KV3VTZUx6NVgwSGRJZzdPTE5VcWw1TVBscDhPeHpLZ0M3blVTTVI?oc=5)
+Source: [BornCity](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzNNUE5xWlFSdGI2WkVpQjlTUm42Yk1EbndzazQzcHVZUXNWRFd3VWRLd0F2cmg0bWt1Q08wamxMcmsyT193cGNNT0VBemVZOEVPSWplWFJpdmliaF9seUtnc3ByREhqMDdiWDlva1lOd25wWXpYTnFEOHo4NmhVLXFWR09OWjc0LVptbTNMdmhHMXNqZnc?oc=5)
 
 ---
 

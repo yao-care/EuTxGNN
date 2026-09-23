@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Valladolid reunirá a expertos sobre el Síndrome de Piernas Inquietas - El Norte de Castilla](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlRhc3I5MDYyVzRYV1lTZm8tUGxoaGhkdmQ3QmwydDUyMXRDLVgxZXZrT1prTFBZczcwVFpucjRiaUdFVzF4U2JvQlRkdE5RZG1HS3NXeW1hcFBKdmpGM0dxaHh2YWRGMmhIV2N6RnZYSE1DTVZnRlNqbC1BQnBDSndBemxwcnEtM0dPemJtTEhEM2JDZFZGMDR4WlB6Y0ZYTTFjX2VLZmM4aVQxaDE0cUpFRnJUVkdVRDZEME5EdnUyOE4xamfSAcsBQVVfeXFMT0xXLXpHSWhNSlNoakR1OVRHUW5sTVBsZ0dqQUU3VEZVTGZMNF9ZRHZmMEdybmRiVGp3QzFnWk9jWTVlNWRNTV9LZVJkT3E1V3FyYTR2SHFNRE5IQUp3UnFRQUo0VUV6QVlLU081aVVvMGJCZ2s1azFNa2dPMFdnbG5seE5GbzY1dDVGZVQ5LVVpZGJnQ2tvbDdKUEJXUXppdnhCRDNIUnpOQkE1RVViTDhsQ1hrWUpRMTFUQTlnRU1FNTBnaDRkQU42ZFU?oc=5)
+
+2026-09-22 <span class="news-indication-tag">depresión</span>
+
+Source: [El Norte de Castilla](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlRhc3I5MDYyVzRYV1lTZm8tUGxoaGhkdmQ3QmwydDUyMXRDLVgxZXZrT1prTFBZczcwVFpucjRiaUdFVzF4U2JvQlRkdE5RZG1HS3NXeW1hcFBKdmpGM0dxaHh2YWRGMmhIV2N6RnZYSE1DTVZnRlNqbC1BQnBDSndBemxwcnEtM0dPemJtTEhEM2JDZFZGMDR4WlB6Y0ZYTTFjX2VLZmM4aVQxaDE0cUpFRnJUVkdVRDZEME5EdnUyOE4xamfSAcsBQVVfeXFMT0xXLXpHSWhNSlNoakR1OVRHUW5sTVBsZ0dqQUU3VEZVTGZMNF9ZRHZmMEdybmRiVGp3QzFnWk9jWTVlNWRNTV9LZVJkT3E1V3FyYTR2SHFNRE5IQUp3UnFRQUo0VUV6QVlLU081aVVvMGJCZ2s1azFNa2dPMFdnbG5seE5GbzY1dDVGZVQ5LVVpZGJnQ2tvbDdKUEJXUXppdnhCRDNIUnpOQkE1RVViTDhsQ1hrWUpRMTFUQTlnRU1FNTBnaDRkQU42ZFU?oc=5)
+
+---
 
 ### [Cinque regole per resettare l'orologio biologico: come combattere il sonno difficile](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
 
 2026-09-20 <span class="news-indication-tag">depression</span>
 
-Source: [adnkronos.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
+Source: [Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3cxMHpyeWZtSE5RZG9tUF91VG5OU2l6RHdwZ1hXWlhhcWoxYUlKdFJQMnJNRW5HWjdHdGlUQk5FLUlNdElLc0ZrNGdvNFFoSUJvN1M0eXp4S1VUMHRHRWpoRFZYWGNuMDFEdjQtVDRjSVJkUmRVOUpmYmV0Vjh4U0hVRF8ybXl0QVQ0WkFJMW9UaDJEa3l5NnBNMDhyenZlQ3hwN2sxQ3VOUQ?oc=5)
 
 ---
 

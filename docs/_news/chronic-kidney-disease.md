@@ -31,11 +31,11 @@ This page brings together the latest health news about “CKD” and lists the d
 
 ## Related News (1)
 
-### [Healthy young men being struck down by mysterious kidney disease of unknown origins in Texas - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUU1NDNRcWxNLUNDT3VPTlpBeHFBX3lIbGZSRlFvTEVQeFFndkRwQzFIMFp6QnJ2NndfT0VOTDc1cjJzRWl0TktZaWVGLURxc1FvcWVOZlgtWHlFUU1IVFNaV2N2Y0tCODJhSXZqRGZOWDlHS1QzRnRsS2tkbng0cElkZGI4UWNkQ0JGQ09kdDJpOWlHQkhhVFBIVmZFeWc3YmJ3NlpJdkE?oc=5)
+### [Private ADHD clinics face crackdown - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBmYVZJcXRhd1ZaUEtmUGMtTlZjeC11WjJ0Q2xfNnBxQjhuby01Sm5aWWtzM1JjdkpULUdTUkhLcFdlTGYyNnUxbG1zZTB2ZnFuYkw3R05UWnlTeG85TEM0YTVBc3Y4VElEN0NjQkI1YVBfNFJRZHQ3TEhEZElVVU92a3IyOTQ?oc=5)
 
-2026-09-21
+2026-09-22
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUU1NDNRcWxNLUNDT3VPTlpBeHFBX3lIbGZSRlFvTEVQeFFndkRwQzFIMFp6QnJ2NndfT0VOTDc1cjJzRWl0TktZaWVGLURxc1FvcWVOZlgtWHlFUU1IVFNaV2N2Y0tCODJhSXZqRGZOWDlHS1QzRnRsS2tkbng0cElkZGI4UWNkQ0JGQ09kdDJpOWlHQkhhVFBIVmZFeWc3YmJ3NlpJdkE?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBmYVZJcXRhd1ZaUEtmUGMtTlZjeC11WjJ0Q2xfNnBxQjhuby01Sm5aWWtzM1JjdkpULUdTUkhLcFdlTGYyNnUxbG1zZTB2ZnFuYkw3R05UWnlTeG85TEM0YTVBc3Y4VElEN0NjQkI1YVBfNFJRZHQ3TEhEZElVVU92a3IyOTQ?oc=5)
 
 ---
 

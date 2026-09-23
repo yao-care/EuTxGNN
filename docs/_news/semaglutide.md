@@ -62,11 +62,11 @@ Source: [FITBOOK](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41R0FEck1iZ
 
 ---
 
-### [Typ-2-Diabetes: Studie zeigt deutlich erhöhtes Krebsrisiko bei Frauen - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGFPejItMTJmdXowUHBVMm54VmR5UmF3NFN0RmZBVE9lcjJmLVpzTW1hZUY3akNVOUJGbWtwQWtILTdUTW90YVdCcDNkMktqOTA0OThQTzBBN0RaN2YyTmRyLXRILVMtMHV6SEVJUXZNc0E1MV9IZkhvVkZtZ2JZUVFfbnRpRzd6S3ppRGNPRHZGZWtGZV9XVVF1TnNCU1ZuR0pv?oc=5)
+### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
-2026-09-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGFPejItMTJmdXowUHBVMm54VmR5UmF3NFN0RmZBVE9lcjJmLVpzTW1hZUY3akNVOUJGbWtwQWtILTdUTW90YVdCcDNkMktqOTA0OThQTzBBN0RaN2YyTmRyLXRILVMtMHV6SEVJUXZNc0E1MV9IZkhvVkZtZ2JZUVFfbnRpRzd6S3ppRGNPRHZGZWtGZV9XVVF1TnNCU1ZuR0pv?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
 ---
 
@@ -86,17 +86,9 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 
 ---
 
-### [Una grave malattia mentale può accorciare la vita di 20 anni: il peso delle malattie fisiche](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcm42eXdtSjdTNkpOVUpkaTBkMXZiamdfZVFiVXRpd3pMejZRcGFka1VPT2ZkUDdDZHJqaF90clZUM3BEbl9KS0FXMGFpM1RkNExvbGZCX3dsVnF2YlM2ZUVkamNQNHJHZFJMMjB3dVlTNlpSZGVScExZVWZsb1RxOTlKOTFfVFNxS2l0NnlLV1ZfZE4xTmZWYUVjUmNKMUZpMGtEdmxqajlqeFhCX1lhb2JWUlBGLWJmajNjNkhfSmVWYV83YjMxQUw1RjA2U3RVcUpyNkxNa1RrYUtWY1JYTmpUa2FyQQ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">diabete</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcm42eXdtSjdTNkpOVUpkaTBkMXZiamdfZVFiVXRpd3pMejZRcGFka1VPT2ZkUDdDZHJqaF90clZUM3BEbl9KS0FXMGFpM1RkNExvbGZCX3dsVnF2YlM2ZUVkamNQNHJHZFJMMjB3dVlTNlpSZGVScExZVWZsb1RxOTlKOTFfVFNxS2l0NnlLV1ZfZE4xTmZWYUVjUmNKMUZpMGtEdmxqajlqeFhCX1lhb2JWUlBGLWJmajNjNkhfSmVWYV83YjMxQUw1RjA2U3RVcUpyNkxNa1RrYUtWY1JYTmpUa2FyQQ?oc=5)
-
----
-
 ### [Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-indication-tag">diabetes</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
@@ -126,11 +118,19 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95c
 
 ---
 
-### [Ozempic confidential: men share their experience of GLP-1s - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZnNKc18zUjhjS3FzZXh3dld3WHExU2YtYXptYjZNMEhzTTFpUHI2eXFkMnJuTnZIemhkS0ZmX1hYeDQ3Q2NwM25wWHBrcllUdnJQU3hqWEZUY3ZFNDRnbWhBbGxGQlM3elVPMnRIcDg?oc=5)
+### [Alle Diabetes-Patienten gegen Herpes zoster impfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
 
-2026-09-18 <span class="news-drug-tag">Semaglutide</span>
+2026-09-17 <span class="news-indication-tag">diabetes</span>
 
-Source: [Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZnNKc18zUjhjS3FzZXh3dld3WHExU2YtYXptYjZNMEhzTTFpUHI2eXFkMnJuTnZIemhkS0ZmX1hYeDQ3Q2NwM25wWHBrcllUdnJQU3hqWEZUY3ZFNDRnbWhBbGxGQlM3elVPMnRIcDg?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+
+---
+
+### [Abnehm-Spritze: Hilft Semaglutid auch bei Asthma und COPD?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
+
+2026-09-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
 
 ---
 

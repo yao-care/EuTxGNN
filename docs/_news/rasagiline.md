@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 
 ## Related News (5)
 
+### [Alzheimer : ces 5 habitudes du quotidien pourraient aider à retarder la maladie - Charente Libre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmZHNzU1cEhUZ3QtQWFGVi1sblNuTUQyZ2lZRFozS3NHaFRHcXRiZFJ1cUlTOWNKVkl1Mzk3V3h5Q0QxVWxwQTFMVy1VSEZuZ1gwYXQ1THZVa1NsMlI3WFZ1VTlrRzFNR1c5a1FfWk9VZ0Y4NFV1UDR2Y094N0FZWThDdnRfYlhIMlY0cVg3eUJqZzI4MzNHckc3T0gzYWY4OFczWk4xdVp4MVh4Z0V5YTZZZmxnb1RTdDZ2TXlZRGFXWnM?oc=5)
+
+2026-09-22 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [Charente Libre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmZHNzU1cEhUZ3QtQWFGVi1sblNuTUQyZ2lZRFozS3NHaFRHcXRiZFJ1cUlTOWNKVkl1Mzk3V3h5Q0QxVWxwQTFMVy1VSEZuZ1gwYXQ1THZVa1NsMlI3WFZ1VTlrRzFNR1c5a1FfWk9VZ0Y4NFV1UDR2Y094N0FZWThDdnRfYlhIMlY0cVg3eUJqZzI4MzNHckc3T0gzYWY4OFczWk4xdVp4MVh4Z0V5YTZZZmxnb1RTdDZ2TXlZRGFXWnM?oc=5)
+
+---
+
 ### ["Ralentir la progression de la maladie d'Alzheimer" : le CHU de Toulouse lance un essai clinique innovant](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcTRlNkk4ZnVLWHBna3I5enVVeW9VMjBSemd6NERGM0JsTC1QXzA0bnVXOWRkN21jX2Y1RnAySGh3Ujgwd3E0REFkeGkyLVRkQThuNTVYM0EtUE53VDdvbF9aek9jeWVkSGtMak5oSWRuX3hJdEFGblhnbmpiZnd2NjVBS2Fpa0hlaXdoLWtyYmd2MkhaYlRBY3plT2QwZU44dGhyRXJpcjJPMnhoN3MyaU4wYTFzbGJPWnJfbk5sN0pmNHNWQy1qbVptX0NrcF9vRjh1UnMwMDNmYWwxcmtiZXNuREg1aXRUY2J0NA?oc=5)
 
 2026-09-22 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 Source: [Actu.fr](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcTRlNkk4ZnVLWHBna3I5enVVeW9VMjBSemd6NERGM0JsTC1QXzA0bnVXOWRkN21jX2Y1RnAySGh3Ujgwd3E0REFkeGkyLVRkQThuNTVYM0EtUE53VDdvbF9aek9jeWVkSGtMak5oSWRuX3hJdEFGblhnbmpiZnd2NjVBS2Fpa0hlaXdoLWtyYmd2MkhaYlRBY3plT2QwZU44dGhyRXJpcjJPMnhoN3MyaU4wYTFzbGJPWnJfbk5sN0pmNHNWQy1qbVptX0NrcF9vRjh1UnMwMDNmYWwxcmtiZXNuREg1aXRUY2J0NA?oc=5)
-
----
-
-### [La maladie d'Alzheimer commence à être considérée comme une maladie traitable selon une étude](https://news.google.com/rss/articles/CBMickFVX3lxTE11dUhzMzFmN0xfY2NZSW1fWkFValhTOEZ3N1ZDWWkxZ1BMVmxEalEzSlQzMDJuUVFKRGE3ZklBRlB1eVRJemdKeFVWaHMxc2Q3a1RHSnVjRHJ1akdlanJtTkZyblIxLWx2bGc4cUMxODZjUQ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTE11dUhzMzFmN0xfY2NZSW1fWkFValhTOEZ3N1ZDWWkxZ1BMVmxEalEzSlQzMDJuUVFKRGE3ZklBRlB1eVRJemdKeFVWaHMxc2Q3a1RHSnVjRHJ1akdlanJtTkZyblIxLWx2bGc4cUMxODZjUQ?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1p
 
 ### [Smart beds and motion sensors - is this the future of dementia care?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 
-2026-09-20 <span class="news-indication-tag">dementia</span>
+2026-09-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 

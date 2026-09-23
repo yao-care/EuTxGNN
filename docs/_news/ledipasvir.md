@@ -54,6 +54,22 @@ This page combines the AI-predicted indications for Ledipasvir with the latest h
 
 ## Related News (14)
 
+### [Alzheimer: Leqembi verlangsamt Krankheit um 6–9 Monate](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDJocFVHR2F5TzI5TjFvN0sxTjJMdlVCcHVQV3FvQ18zdDhOc1lZYzQtU1liaVZGTUY5MTk0VWpKZU9jMnlMakpaaWVmdjM4RUdiMXR3VHQ5VXV3c0EtdzlEdUprcmZURTNOTHVfaFBmMFg1VndSYUtPZ0hsYVlKcWF1STZzN0k?oc=5)
+
+2026-09-22 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDJocFVHR2F5TzI5TjFvN0sxTjJMdlVCcHVQV3FvQ18zdDhOc1lZYzQtU1liaVZGTUY5MTk0VWpKZU9jMnlMakpaaWVmdjM4RUdiMXR3VHQ5VXV3c0EtdzlEdUprcmZURTNOTHVfaFBmMFg1VndSYUtPZ0hsYVlKcWF1STZzN0k?oc=5)
+
+---
+
+### [23. Jahrestagung des Deutschen Prostatakarzinom Konsortiums (DPKK)](https://news.google.com/rss/articles/CBMid0FVX3lxTE9KSlJzQnk5REZ0YUlLZEt4SVNRQ1ZyNm42LTczQzdMTUFiZkRXdHVYOWhHUHdXaUVxOXl0cU1nZGc3UUZWLWh0Tmo5aUdocmUwZ2JfZWJVdUk3ZWhqRm5OZjlhaGh6N3FGbzczUW5laDlxaWdCR1I0?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+Source: [dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMid0FVX3lxTE9KSlJzQnk5REZ0YUlLZEt4SVNRQ1ZyNm42LTczQzdMTUFiZkRXdHVYOWhHUHdXaUVxOXl0cU1nZGc3UUZWLWh0Tmo5aUdocmUwZ2JfZWJVdUk3ZWhqRm5OZjlhaGh6N3FGbzczUW5laDlxaWdCR1I0?oc=5)
+
+---
+
 ### [Sex-based discrimination in medicine costs lives | Letters - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0NldjdBZkxkS3hkeWowVFVmWEZMZ1JMM0RUbFN2UnFDVVo2dTd1ZlN5OUpOQngwWUphOXNDSTMzdENVc1N3UGhpT2xYaUROaXByLTZKRy1vcVNUdGUxeUhmZUtqbV9fWmVvcVZVMFNidVo2cXVINUQyRVIzREthQzJHU3VjVkxBYUlxOHVXNHRyUDkxcnN6T1Fhb2Y?oc=5)
 
 2026-09-22 <span class="news-indication-tag">MS</span>
@@ -62,11 +78,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0Nl
 
 ---
 
-### [La directora general de la OIM llama a un apoyo urgente ante el mayor brote de ébola registrado en la RDC](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlAxX0RMTWZaVDFodjctbXRtTUxwc2FKQXhmcWFOSW8ycGFaSEpPZUtfODJ3RUVSNXJVeU9oSk5OQTVFS1Rya3JwdlNwNS10UkdxTHNualA2SXJvc3pHQ3lzeFdTM202YXQyUFh6RzJsQ2VrTjhlOG9IdGI5ZWZrckRCTGM0Y013TDBTSmpJSkdMNGxWNGpBQWRGVU8yQXFrSkx0eW5JOWFuaV9teVBCSnc4OTVpYk05dGRFc2FHa0FFbkU5Q2dxSTBiUlZqSVVuY0h6Zm5jQzQzTnNQRmZ1ZUs1MVVFTGNoNHNnclR4VQ?oc=5)
+### [BLUETONGUE CONFIRMED ON ISLE OF WIGHT AS VETS WARN OF 'VERY HIGH' TRANSMISSION RISK](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnRQaUkyTDNmcXVMWFRqQXRoUVZ0X1hQUF9EWmhqX1hjcEI3SVlkWko1SWRvc0NhN3o5bUctVkRxLWpvWnFYUE1Tc19PQzl0YXhxZUZkcmUzUmpvNjUtbWtiNjlBUDJ5T2l5MExxcmpHSEszdnNBcUNlQ3FhZzIxaFVtYXZSeDVhek5jdXNQQjhVakJ5VEZFYlZVMEI4Vmw3VFVQamxOYkwzYUVDY09XRA?oc=5)
 
 2026-09-22 <span class="news-indication-tag">MS</span>
 
-Source: [ReliefWeb](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlAxX0RMTWZaVDFodjctbXRtTUxwc2FKQXhmcWFOSW8ycGFaSEpPZUtfODJ3RUVSNXJVeU9oSk5OQTVFS1Rya3JwdlNwNS10UkdxTHNualA2SXJvc3pHQ3lzeFdTM202YXQyUFh6RzJsQ2VrTjhlOG9IdGI5ZWZrckRCTGM0Y013TDBTSmpJSkdMNGxWNGpBQWRGVU8yQXFrSkx0eW5JOWFuaV9teVBCSnc4OTVpYk05dGRFc2FHa0FFbkU5Q2dxSTBiUlZqSVVuY0h6Zm5jQzQzTnNQRmZ1ZUs1MVVFTGNoNHNnclR4VQ?oc=5)
+Source: [islandecho.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnRQaUkyTDNmcXVMWFRqQXRoUVZ0X1hQUF9EWmhqX1hjcEI3SVlkWko1SWRvc0NhN3o5bUctVkRxLWpvWnFYUE1Tc19PQzl0YXhxZUZkcmUzUmpvNjUtbWtiNjlBUDJ5T2l5MExxcmpHSEszdnNBcUNlQ3FhZzIxaFVtYXZSeDVhek5jdXNQQjhVakJ5VEZFYlZVMEI4Vmw3VFVQamxOYkwzYUVDY09XRA?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXppN
 
 ---
 
-### [Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
+### [La UE envía expertos al Congo por el brote de ébola: el país recibe vacunas para ensayos clínicos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGtNZGU3a1hLWUdBV21NMFFuVXJSOXFRbndkNTluTldXWl9sMjVESXBOZzlpUnlKSWhtRkIwcTlKVkNCMTVnV3dqeXdXQ3dCR3hpNGZ0V0otQjBWcWwydzFabVNEanpfejF0bk16N0pRVHpLUkRUaXhFZnI5bXJLbUNRZTRGTjBxSGp3MnAyNlVkLUtNcUg3UWpjQ1plUVNrYUZBcWJlODhGN0J5MDNhQkNoVkpVamM4TFdQcWFiekgydG8?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-indication-tag">MS</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
+Source: [Euronews](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGtNZGU3a1hLWUdBV21NMFFuVXJSOXFRbndkNTluTldXWl9sMjVESXBOZzlpUnlKSWhtRkIwcTlKVkNCMTVnV3dqeXdXQ3dCR3hpNGZ0V0otQjBWcWwydzFabVNEanpfejF0bk16N0pRVHpLUkRUaXhFZnI5bXJLbUNRZTRGTjBxSGp3MnAyNlVkLUtNcUg3UWpjQ1plUVNrYUZBcWJlODhGN0J5MDNhQkNoVkpVamM4TFdQcWFiekgydG8?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC
 2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJobnE1WXc4b2paZ003UkxWVzhUZWZZUXdVNkFEbzdtcGdfMmMwOGdTRTQzc3Q0Vm5Hemh6Tk5DR3VUeXBBaU8ySHJ4d0NITl9uemtKTkE?oc=5)
-
----
-
-### [Non abbiamo un solo cervello, ma due: verso una svolta per la cura delle malattie neurologiche - la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0R3Z2hacHlfc3lfTUxGTFRndXBDZkp4T0ZJVGtnZ28yQ2Z2ZVRLNUQzZEptYWhGVWxaemxnbGlwdWZVbVQwc2lhM0IxMlBZdnRkaEF4eThmZWQzNkFEYWduVDNQNEV4aWcydENUN0M3NjIxRElBZHpFUHN3OFczZWpDUDR1UzhrMWJrQ2tUdTNaczZmSmhnTEQxa1NZajNUTW1UdjFQTC11aUhl0gGyAUFVX3lxTFA4bml5cnRVU3lKbHRQeFBuU2JpLUE5VjcwazBVSWxmVmR0TE9QNFkxRTlqaGowQmlBNEJLWTlBUXhHTWpOdFlTc09XR2VKYld5YUZ0Q2t5djhEc2ZtbVNncENIM29abFdfQzRVSTFwZjRuMnkzOW5xT0RvRFBDY3ZuVmM3NkFSUy1TVjR3WVEtaF8zd3E2UGxWZ0doeFBpdl9pZUR4S1hqOUZSZURVdjVtX3c?oc=5)
-
-2026-09-21 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0R3Z2hacHlfc3lfTUxGTFRndXBDZkp4T0ZJVGtnZ28yQ2Z2ZVRLNUQzZEptYWhGVWxaemxnbGlwdWZVbVQwc2lhM0IxMlBZdnRkaEF4eThmZWQzNkFEYWduVDNQNEV4aWcydENUN0M3NjIxRElBZHpFUHN3OFczZWpDUDR1UzhrMWJrQ2tUdTNaczZmSmhnTEQxa1NZajNUTW1UdjFQTC11aUhl0gGyAUFVX3lxTFA4bml5cnRVU3lKbHRQeFBuU2JpLUE5VjcwazBVSWxmVmR0TE9QNFkxRTlqaGowQmlBNEJLWTlBUXhHTWpOdFlTc09XR2VKYld5YUZ0Q2t5djhEc2ZtbVNncENIM29abFdfQzRVSTFwZjRuMnkzOW5xT0RvRFBDY3ZuVmM3NkFSUy1TVjR3WVEtaF8zd3E2UGxWZ0doeFBpdl9pZUR4S1hqOUZSZURVdjVtX3c?oc=5)
 
 ---
 
@@ -150,19 +158,11 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0tVQ2
 
 ---
 
-### [Adipositas: Semaglutid ohne erhöhte Risiken bei gebrechlichen Menschen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
+### [Brain is two separate organs, scientists find - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxORzFnSm5XRkxMNEYxcHVVeUhVNHJwRUJqcHNtNDRkMVBlMFZFZF9lRW4tNGJpQkVkSHNRblhhUlZiY21KeGY5V0czS05wd1VMMEQtNDNtZEZaRTVwYjViNWhXNWlsY1hROGh1VjV3d3dMeHpaOFF3SnJwVkR4Ym5meXdtdDZMcUpWckxhR1JCRUJRT2c?oc=5)
 
-2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
-
----
-
-### [Globaler Fonds warnt vor Folgen von weniger Hilfsgeldern für Kampf gegen Malaria](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3cwaVEwMWt0WDFDMmM4YmNoci1WQmhLaE1OUjBwY2h4UEk4MnJ1QVR0N3VzQlpVdHc5TVdEM2Zsb2NqV0pfM2FMN011aE4yUnZVakNyYWNXMHFqeXE0Sms5OTEwbXNuU1VaREticHl1cTgwQlFuYXF0QXdXX1NjRTAxRUhjYWZGczBnRzBFUE05ZktOOUlCejRORTV3TTRFdmZ4LS1qaWY2YmMyWmQ5YTBMajFkS1hqQ3lTUFBB?oc=5)
-
-2026-09-16 <span class="news-indication-tag">MS</span>
-
-Source: [STERN.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3cwaVEwMWt0WDFDMmM4YmNoci1WQmhLaE1OUjBwY2h4UEk4MnJ1QVR0N3VzQlpVdHc5TVdEM2Zsb2NqV0pfM2FMN011aE4yUnZVakNyYWNXMHFqeXE0Sms5OTEwbXNuU1VaREticHl1cTgwQlFuYXF0QXdXX1NjRTAxRUhjYWZGczBnRzBFUE05ZktOOUlCejRORTV3TTRFdmZ4LS1qaWY2YmMyWmQ5YTBMajFkS1hqQ3lTUFBB?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxORzFnSm5XRkxMNEYxcHVVeUhVNHJwRUJqcHNtNDRkMVBlMFZFZF9lRW4tNGJpQkVkSHNRblhhUlZiY21KeGY5V0czS05wd1VMMEQtNDNtZEZaRTVwYjViNWhXNWlsY1hROGh1VjV3d3dMeHpaOFF3SnJwVkR4Ym5meXdtdDZMcUpWckxhR1JCRUJRT2c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan Succinate?">
-<strong>Lasmiditan Succinate</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Lasmiditan Succinate</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [La Lombardia approva la legge sull’obesità: farmaci gratis per i casi gravi - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnUycTZUUy1nSkdHWnhYVFdYX0k4MDd3aFh0VG4yWkNmNjBNeXN4TzFtMTAxM182S29HZHNFdGJueU5TLUxCNzk5SW5rb3JjeW96RGlmTmpuM3g0X09GMms2R242aVZLRWd0S3hRajlVSWZ0VzBiakV6cFZSbE5yRW5seUhicmxkZndoWFNlN0hOd0xEbm4yNHJQbG1VVmI4ZzdTZUYtXzQ0WFdjRmtqRnVUZ0c4MzBzaTJTaEIzXzRZS1ZpY1VRdnM5NURyaUhMWmNwQjlkc1Q?oc=5)
 
@@ -70,19 +70,19 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQS
 
 ---
 
-### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
----
-
 ### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">migraine</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+
+---
+
+### [GLP-1-Medikamente: Therapieabbruch erhöht Herzinfarkt-Risiko um 22% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVNOZUlvMXVFYmFSZmk1eFZoRU40Z3pJNENtZzV0eEhnVy1ybjJ5UDRQa1FTZlR0MnB0cnBfc05GZUJWeU1lcWtxNzZhNVNjOVpHbEltT0RJaGN5bHR5TXhPRzFPSVRfdVdpX0JrQ2UyNTc0X2RsZWhiQXVsdDVhMmxEYzAzYzRyOHdldkZpUkFybEJNeFF6YTZJcm53Z1dLLXYyMExPYVhOamR2TV9XWldsSF96QQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Adipositas</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVNOZUlvMXVFYmFSZmk1eFZoRU40Z3pJNENtZzV0eEhnVy1ybjJ5UDRQa1FTZlR0MnB0cnBfc05GZUJWeU1lcWtxNzZhNVNjOVpHbEltT0RJaGN5bHR5TXhPRzFPSVRfdVdpX0JrQ2UyNTc0X2RsZWhiQXVsdDVhMmxEYzAzYzRyOHdldkZpUkFybEJNeFF6YTZJcm53Z1dLLXYyMExPYVhOamR2TV9XWldsSF96QQ?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDlVc
 2026-09-18 <span class="news-indication-tag">Adipositas</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
-
----
-
-### [Adipositas: Semaglutid ohne erhöhte Risiken bei gebrechlichen Menschen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
-
-2026-09-17 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2hqeS1TcTU2NnZxcHpmVENETWRCTjZnMFliSHNhLUpBNngyTXN5cmdfZXozeFZwTHlOc1o0UHdYUDZudmVKSkU3OS1zR2FMd1BTR3ZSUWdzNnc2Tnc4U0otS29LbTRzejNteTFBOWVIdDhWSnE0N3A5UXVMZjVGZWtPWUJnSWlwbi16RmpmQ21heHFBWjhncVNhNjBseTgzdEFXaVluR0Y2N096eE15amI1SDVoU1NpVzZEUTI4TUx0SEh5YWtqZ2FkQ0FnQ3BSejlNOA?oc=5)
 
 ---
 
