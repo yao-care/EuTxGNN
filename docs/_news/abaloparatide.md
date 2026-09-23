@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,61 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Pressemitteilungen Schwangerschaftsdiabetes: Warum Nachsorge so wichtig ist - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
+
+2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
+
+---
+
+### ["Je n’avais absolument aucune envie de manger" : de la sibutramine retrouvée dans des gélules amincissantes vendues sur les réseaux - Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
+
+2026-09-23 <span class="news-indication-tag">migraine</span>
+
+Source: [Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
+
+---
 
 ### [Diabetes frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">diabetes</span>
 
-Source: [frankfurt-live.com](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
+Source: [Frankfurt-Live.com](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
 
 ---
 
-### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+### [Tumori, chi ha il diabete rischia di più: servono più prevenzione e screening - Sky TG24](https://news.google.com/rss/articles/CBMickFVX3lxTFBFWm51aTMyNlJCQjU2WG9wcUxnWGxrWXA3b2R6M2o3bmQ4b012X3VrWWdTWGhCQjVUTFk4aEd1aWk5RFlPejJGbmk4S01IcHdyc1FxZEgteTE5YjNXcjNjeFdiNDVRNzdDaU94TWhVUjhwZw?oc=5)
+
+2026-09-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMickFVX3lxTFBFWm51aTMyNlJCQjU2WG9wcUxnWGxrWXA3b2R6M2o3bmQ4b012X3VrWWdTWGhCQjVUTFk4aEd1aWk5RFlPejJGbmk4S01IcHdyc1FxZEgteTE5YjNXcjNjeFdiNDVRNzdDaU94TWhVUjhwZw?oc=5)
+
+---
+
+### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
 
 ---
 
-### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+### [I’m a neurologist. Here’s how to prevent your next migraine](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">migraine</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 
 ---
 
-### [Two in three women have not been treated for their migraines](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
+### [Two in three women have not been treated for their migraines - The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">migraine</span>
 
-Source: [thetimes.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
 
 ---
 
@@ -94,25 +118,17 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC
 
 ---
 
-### [Nachsorge nach Schwangerschaftsdiabetes bleibt lückenhaft: DDZ - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2FUUEpTM2c0STBsbkI1Z3RaNFp6MC1ZUV9kMGdKQ0ZEVkQ1WG41M1RCNDVSeEp1aFVucjNZMm5ldU5kMUg3NzB3QmpyU3pCX0hyalJwWDFJRW95V09Rcm9kWWRGSDJ0WkRiWG9LQ3oxUHRxZTZQZTA4bk9TREE1R1FPaHJtVklmQlZKaHBaTEpBS2VmTVFhWUs4eVlILTJNYkwtWTBjS1hsWnE5NXhvNy1B?oc=5)
+### [Diabete, arriva il Registro nazionale: diagnosi, terapie, complicanze ed esiti in un unico sistema](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJjTVVSSVZHcnlYbzA1d0djSTlNeWJjODdXdXFUQ0V1WVpzSS04bUtHa1VXSkhpYTFacV9NSERfRVVQcUxDV29lVy1BcHEySE8zX2RQcHV3MW5fWDBvRm1qMFJkanMwMk8xeVlPR3V0Y0hqVXlXZGdjU1RiSkM0ZnlOam9ZZWllQUtYWkhHRXZRRXpBMmZYS29wUlB3V1lKdXVsa1RWRUpvVWQ1NExqX3UzMlYxMHRLd2NWRW1rc0VWRUF3YXhwTg?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-09-21 <span class="news-indication-tag">diabete</span>
 
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2FUUEpTM2c0STBsbkI1Z3RaNFp6MC1ZUV9kMGdKQ0ZEVkQ1WG41M1RCNDVSeEp1aFVucjNZMm5ldU5kMUg3NzB3QmpyU3pCX0hyalJwWDFJRW95V09Rcm9kWWRGSDJ0WkRiWG9LQ3oxUHRxZTZQZTA4bk9TREE1R1FPaHJtVklmQlZKaHBaTEpBS2VmTVFhWUs4eVlILTJNYkwtWTBjS1hsWnE5NXhvNy1B?oc=5)
-
----
-
-### [Franco Berrino: «Chi ha la pancia si ammala di più. Ecco cosa fare per ridurla» - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
-
-2026-09-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
+Source: [sanitainformazione.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJjTVVSSVZHcnlYbzA1d0djSTlNeWJjODdXdXFUQ0V1WVpzSS04bUtHa1VXSkhpYTFacV9NSERfRVVQcUxDV29lVy1BcHEySE8zX2RQcHV3MW5fWDBvRm1qMFJkanMwMk8xeVlPR3V0Y0hqVXlXZGdjU1RiSkM0ZnlOam9ZZWllQUtYWkhHRXZRRXpBMmZYS29wUlB3V1lKdXVsa1RWRUpvVWQ1NExqX3UzMlYxMHRLd2NWRW1rc0VWRUF3YXhwTg?oc=5)
 
 ---
 
 ### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
-2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 

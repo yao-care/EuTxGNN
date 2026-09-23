@@ -14,7 +14,7 @@ permalink: /news/cenobamate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cenobamate?">
-<strong>Cenobamate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Cenobamate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -45,22 +45,16 @@ This page combines the AI-predicted indications for Cenobamate with the latest h
 <li>epilepsy with generalized tonic-clonic seizures (94.2%)</li>
 <li>partial motor epilepsy (93.4%)</li>
 <li>trigeminal nerve neoplasm (91.2%)</li>
-<li class="indication-matched">epilepsy (90.7%)<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy (90.7%)</li>
 <li>restless legs syndrome (87.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Trasplantan corteza cerebral humana a ratones y lo que sucede es algo que desafía a la biología - El Confidencial](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2Zyb1N1dmRmRWh0WHhzdm90WHlNdHQ2WjJGNlIxOTV3Q3podUtoWWJoVjZHUGlCYzVaUjNfZHNDSUtiN0Q1VnQxbG9MekE1SUxUajZoMWEyc1ZFY3FodDdfOE1lUmJGTzU4V3otYzY2T011UlN4MXBiQlI2Z09wRGk5SnFfRl9UR3hMTk5vbmVsWXlqbXRZbWtKZDZRY2RRODQ0VTNpVmJ5YkdiM0V4TmxEbjV2Zw?oc=5)
-
-2026-09-22 <span class="news-indication-tag">epilepsia</span> <span class="news-indication-tag">AF</span>
-
-Source: [El Confidencial](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2Zyb1N1dmRmRWh0WHhzdm90WHlNdHQ2WjJGNlIxOTV3Q3podUtoWWJoVjZHUGlCYzVaUjNfZHNDSUtiN0Q1VnQxbG9MekE1SUxUajZoMWEyc1ZFY3FodDdfOE1lUmJGTzU4V3otYzY2T011UlN4MXBiQlI2Z09wRGk5SnFfRl9UR3hMTk5vbmVsWXlqbXRZbWtKZDZRY2RRODQ0VTNpVmJ5YkdiM0V4TmxEbjV2Zw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

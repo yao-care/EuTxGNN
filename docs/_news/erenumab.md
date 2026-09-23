@@ -14,7 +14,7 @@ permalink: /news/erenumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Erenumab?">
-<strong>Erenumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Erenumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ This page combines the AI-predicted indications for Erenumab with the latest hea
 <p><a href="{{ '/drugs/erenumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+### ["Je n’avais absolument aucune envie de manger" : de la sibutramine retrouvée dans des gélules amincissantes vendues sur les réseaux - Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
+
+2026-09-23 <span class="news-indication-tag">migraine</span>
+
+Source: [Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
+
+---
+
+### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
 
 ---
 
-### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+### [I’m a neurologist. Here’s how to prevent your next migraine](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">migraine</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 
 ---
 
-### [Two in three women have not been treated for their migraines](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
+### [Two in three women have not been treated for their migraines - The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">migraine</span>
 
-Source: [thetimes.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
 
 ---
 

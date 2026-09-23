@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas (obesity) News"
+title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 4 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# Adipositas (obesity) News
+# obesidad (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
+<strong>obesidad (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -38,11 +38,19 @@ This page brings together the latest health news about “Adipositas” and list
 
 ## Related News (4)
 
-### [Frankreich begrenzt den Einsatz neuer Medikamente gegen Adipositas](https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1oyc0EwbEdzblNLRjBDb2MxX29TUFN2T2E2UkNnYkYxZHQ3TlcwcDVXN2FOcmdHSW51VmxGalBqaVJveFVKUHliMW5DZ09WOGlTZ3FtQklkTzgxOEphcFZERlgxSTc3MlB0b1hXbm8zeDZFTnBDZ1ZvMkVTVWdiQm1RRDJUX3MxemVXNkFORW45T2VQ?oc=5)
+### [Cuando la obesidad se convierte en contenido, crecen el estigma y la desinformación](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
 
 2026-09-23
 
-Source: [nachrichten.fr](https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1oyc0EwbEdzblNLRjBDb2MxX29TUFN2T2E2UkNnYkYxZHQ3TlcwcDVXN2FOcmdHSW51VmxGalBqaVJveFVKUHliMW5DZ09WOGlTZ3FtQklkTzgxOEphcFZERlgxSTc3MlB0b1hXbm8zeDZFTnBDZ1ZvMkVTVWdiQm1RRDJUX3MxemVXNkFORW45T2VQ?oc=5)
+Source: [immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
+
+---
+
+### [Risiken beim Absetzen von GLP-1: Gewicht bleibt nicht dauerhaft weg - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQd29VUzdiMmZPdjFvbEZ1eWYyRldFV2d0MUxMQ1AtZzJ5Zkx4YW15bllYTW9SbTNvUTV6R1lQR0gxM2NjdVBaVFo3OHlYZlZCMXFUUzVJUG41VUFkUzZBN0VERTl1bTlKRy12NzJ3NmdZeFFMUlBzeHRuSG95elNnbXpTTUp4M1MyQnlXdHp3M0pMTFN5NlJxTTRrZzFRa28?oc=5)
+
+2026-09-23
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQd29VUzdiMmZPdjFvbEZ1eWYyRldFV2d0MUxMQ1AtZzJ5Zkx4YW15bllYTW9SbTNvUTV6R1lQR0gxM2NjdVBaVFo3OHlYZlZCMXFUUzVJUG41VUFkUzZBN0VERTl1bTlKRy12NzJ3NmdZeFFMUlBzeHRuSG95elNnbXpTTUp4M1MyQnlXdHp3M0pMTFN5NlJxTTRrZzFRa28?oc=5)
 
 ---
 
@@ -59,14 +67,6 @@ Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxO
 2026-09-21
 
 Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
-
----
-
-### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
-
-2026-09-20
-
-Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
 ---
 

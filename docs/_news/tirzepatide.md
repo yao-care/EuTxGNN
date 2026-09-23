@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Hay varias personas que están denunciando que pierden la vista por usar Ozempic. En Europa ya conocíamos este riesgo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2U4OFI0d08xUmNDM1R3SzJpUWRnWFc5MHNhdVRsYW1CMWZPa3VfN1JQeTNleVJxTS0zYmJmNEIxTV9FQWdRTTBiZUtycVJySmdrbzY3QWx6NC05V2dmdnc3OVBWVFh0VWR6MGxQaGFCRS1HQlNObEtvQjFHd015UDR0M0pwVUYzQUpsbjMyYWR5aWM2eTA4MUxuTmNFR0IxNHlkcjFnMUYtYTZEMGw4cWtScmVpSHRtVk1OQWxnUm9vRFY2U0NVZU5na3cxWmZ4Ymw2bWhINHhtQdIB3wFBVV95cUxOdGJaRjZiUkJORHVWTEdsaVJoZVQxVWxFSU93ekpSanhDMEV5ZTJFbmI4NmxaM1U2dm5RVDhFYjlJajFQQ3BSREJydk9pNThYNGpUeVU3ZDdrUGxPU1RwLURCcGo1X2JqWnAzX1V2dzRZaE5TQlBPbDk3Y1puY0Z5RjJpMmJqUmxwR0Z6dDlHMmhiZE5HWDVaTjVQVmVXYW03MXZHNloyclktdFdBMXp5bWwyMGpuNWlqMUR3c1RlMUlJcXltUC1TX0ZCT1VLaV96OWJsN1YtdGgySzh3dXY0?oc=5)
+
+2026-09-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2U4OFI0d08xUmNDM1R3SzJpUWRnWFc5MHNhdVRsYW1CMWZPa3VfN1JQeTNleVJxTS0zYmJmNEIxTV9FQWdRTTBiZUtycVJySmdrbzY3QWx6NC05V2dmdnc3OVBWVFh0VWR6MGxQaGFCRS1HQlNObEtvQjFHd015UDR0M0pwVUYzQUpsbjMyYWR5aWM2eTA4MUxuTmNFR0IxNHlkcjFnMUYtYTZEMGw4cWtScmVpSHRtVk1OQWxnUm9vRFY2U0NVZU5na3cxWmZ4Ymw2bWhINHhtQdIB3wFBVV95cUxOdGJaRjZiUkJORHVWTEdsaVJoZVQxVWxFSU93ekpSanhDMEV5ZTJFbmI4NmxaM1U2dm5RVDhFYjlJajFQQ3BSREJydk9pNThYNGpUeVU3ZDdrUGxPU1RwLURCcGo1X2JqWnAzX1V2dzRZaE5TQlBPbDk3Y1puY0Z5RjJpMmJqUmxwR0Z6dDlHMmhiZE5HWDVaTjVQVmVXYW03MXZHNloyclktdFdBMXp5bWwyMGpuNWlqMUR3c1RlMUlJcXltUC1TX0ZCT1VLaV96OWJsN1YtdGgySzh3dXY0?oc=5)
+
+---
 
 ### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
 
@@ -62,19 +70,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFP
 
 ---
 
-### [Knee Osteoarthritis Isn’t Inevitable: Simple Habits May Lower Your Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
+### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
-2026-09-22 <span class="news-indication-tag">arthritis</span>
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">stroke</span>
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
 ---
 
-### [Demandan a los fabricantes de Ozempic, Wegovy y Zepbound: alegan que los fármacos causaron una rara pérdida de visión](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeGI3cTdqd1N0Z0Q1Q3J4NlE5eEpJcDBKaDIzVDczRWVsQ1NKVmNpSTFISDBzU05pYmV6Slh5cHA1ZkpGYmF6WUxlcmNKSkNlU1I4VWIwZVo4REdhQk84Zl93WkZPejNOWVJVU3BITjE3VjRaM3FxN0lXTkNKZzJGNlFuVTdMbkprZEFmREpqVFZsa0djUkNRY0ZhbHB3WjZZdVlZVjA4OXFpZ3VzNDloR1hKNVAwMXJZTTNlSEVsMjRoTmJqbENLRnY4MzdpSUpPZnN0ZGRGVGR2bXRaUUlhODBJY2VNcW5tS3lSWWhzeGJHcW53d0JCaXFB0gGUAkFVX3lxTE9PaGdiZXlFZlh1TWxYWEcyZU5GVG5mcmVCSm1mY0tzX2U5TDhYaGotejByNWNKbU9ZYXlCczF6RXRtVjgyNk9rUGZhUVZIeVFHMUxWQndlWDEtWi1kYl94dmZVUmVBTGRtX1IyLW9kdU93aVBoeWJXOEhPNnhHM19MYkRRQlNqUjRGTDAwQkdTNXdSc1FibHktYnBQYURJc21WdzJvdkxiSlB5cktDNGRIUFRhZFZqTkJwRzFxZlUxSFV3U2RZamdWem40VV9rZEJHYkkwTXRJRmlQZ3RZcUNpT3MxSlRvVzdwbG5WVFpHNVZyLWZqTjR4c1plS242empqamtjdS1vRjFfWktJampjT3RFVA?oc=5)
+### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+2026-09-21 <span class="news-indication-tag">arthritis</span>
 
-Source: [Infobae](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeGI3cTdqd1N0Z0Q1Q3J4NlE5eEpJcDBKaDIzVDczRWVsQ1NKVmNpSTFISDBzU05pYmV6Slh5cHA1ZkpGYmF6WUxlcmNKSkNlU1I4VWIwZVo4REdhQk84Zl93WkZPejNOWVJVU3BITjE3VjRaM3FxN0lXTkNKZzJGNlFuVTdMbkprZEFmREpqVFZsa0djUkNRY0ZhbHB3WjZZdVlZVjA4OXFpZ3VzNDloR1hKNVAwMXJZTTNlSEVsMjRoTmJqbENLRnY4MzdpSUpPZnN0ZGRGVGR2bXRaUUlhODBJY2VNcW5tS3lSWWhzeGJHcW53d0JCaXFB0gGUAkFVX3lxTE9PaGdiZXlFZlh1TWxYWEcyZU5GVG5mcmVCSm1mY0tzX2U5TDhYaGotejByNWNKbU9ZYXlCczF6RXRtVjgyNk9rUGZhUVZIeVFHMUxWQndlWDEtWi1kYl94dmZVUmVBTGRtX1IyLW9kdU93aVBoeWJXOEhPNnhHM19MYkRRQlNqUjRGTDAwQkdTNXdSc1FibHktYnBQYURJc21WdzJvdkxiSlB5cktDNGRIUFRhZFZqTkJwRzFxZlUxSFV3U2RZamdWem40VV9rZEJHYkkwTXRJRmlQZ3RZcUNpT3MxSlRvVzdwbG5WVFpHNVZyLWZqTjR4c1plS242empqamtjdS1vRjFfWktJampjT3RFVA?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

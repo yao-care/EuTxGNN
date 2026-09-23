@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,53 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Hay varias personas que están denunciando que pierden la vista por usar Ozempic. En Europa ya conocíamos este riesgo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2U4OFI0d08xUmNDM1R3SzJpUWRnWFc5MHNhdVRsYW1CMWZPa3VfN1JQeTNleVJxTS0zYmJmNEIxTV9FQWdRTTBiZUtycVJySmdrbzY3QWx6NC05V2dmdnc3OVBWVFh0VWR6MGxQaGFCRS1HQlNObEtvQjFHd015UDR0M0pwVUYzQUpsbjMyYWR5aWM2eTA4MUxuTmNFR0IxNHlkcjFnMUYtYTZEMGw4cWtScmVpSHRtVk1OQWxnUm9vRFY2U0NVZU5na3cxWmZ4Ymw2bWhINHhtQdIB3wFBVV95cUxOdGJaRjZiUkJORHVWTEdsaVJoZVQxVWxFSU93ekpSanhDMEV5ZTJFbmI4NmxaM1U2dm5RVDhFYjlJajFQQ3BSREJydk9pNThYNGpUeVU3ZDdrUGxPU1RwLURCcGo1X2JqWnAzX1V2dzRZaE5TQlBPbDk3Y1puY0Z5RjJpMmJqUmxwR0Z6dDlHMmhiZE5HWDVaTjVQVmVXYW03MXZHNloyclktdFdBMXp5bWwyMGpuNWlqMUR3c1RlMUlJcXltUC1TX0ZCT1VLaV96OWJsN1YtdGgySzh3dXY0?oc=5)
+
+2026-09-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2U4OFI0d08xUmNDM1R3SzJpUWRnWFc5MHNhdVRsYW1CMWZPa3VfN1JQeTNleVJxTS0zYmJmNEIxTV9FQWdRTTBiZUtycVJySmdrbzY3QWx6NC05V2dmdnc3OVBWVFh0VWR6MGxQaGFCRS1HQlNObEtvQjFHd015UDR0M0pwVUYzQUpsbjMyYWR5aWM2eTA4MUxuTmNFR0IxNHlkcjFnMUYtYTZEMGw4cWtScmVpSHRtVk1OQWxnUm9vRFY2U0NVZU5na3cxWmZ4Ymw2bWhINHhtQdIB3wFBVV95cUxOdGJaRjZiUkJORHVWTEdsaVJoZVQxVWxFSU93ekpSanhDMEV5ZTJFbmI4NmxaM1U2dm5RVDhFYjlJajFQQ3BSREJydk9pNThYNGpUeVU3ZDdrUGxPU1RwLURCcGo1X2JqWnAzX1V2dzRZaE5TQlBPbDk3Y1puY0Z5RjJpMmJqUmxwR0Z6dDlHMmhiZE5HWDVaTjVQVmVXYW03MXZHNloyclktdFdBMXp5bWwyMGpuNWlqMUR3c1RlMUlJcXltUC1TX0ZCT1VLaV96OWJsN1YtdGgySzh3dXY0?oc=5)
+
+---
+
+### [Pressemitteilungen Schwangerschaftsdiabetes: Warum Nachsorge so wichtig ist - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
+
+2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
+
+---
 
 ### [Diabetes frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">diabetes</span>
 
-Source: [frankfurt-live.com](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
+Source: [Frankfurt-Live.com](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
 
 ---
 
-### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+### [Tumori, chi ha il diabete rischia di più: servono più prevenzione e screening - Sky TG24](https://news.google.com/rss/articles/CBMickFVX3lxTFBFWm51aTMyNlJCQjU2WG9wcUxnWGxrWXA3b2R6M2o3bmQ4b012X3VrWWdTWGhCQjVUTFk4aEd1aWk5RFlPejJGbmk4S01IcHdyc1FxZEgteTE5YjNXcjNjeFdiNDVRNzdDaU94TWhVUjhwZw?oc=5)
 
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span>
+2026-09-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMickFVX3lxTFBFWm51aTMyNlJCQjU2WG9wcUxnWGxrWXA3b2R6M2o3bmQ4b012X3VrWWdTWGhCQjVUTFk4aEd1aWk5RFlPejJGbmk4S01IcHdyc1FxZEgteTE5YjNXcjNjeFdiNDVRNzdDaU94TWhVUjhwZw?oc=5)
 
 ---
 
-### [Demandan a los fabricantes de Ozempic, Wegovy y Zepbound: alegan que los fármacos causaron una rara pérdida de visión](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeGI3cTdqd1N0Z0Q1Q3J4NlE5eEpJcDBKaDIzVDczRWVsQ1NKVmNpSTFISDBzU05pYmV6Slh5cHA1ZkpGYmF6WUxlcmNKSkNlU1I4VWIwZVo4REdhQk84Zl93WkZPejNOWVJVU3BITjE3VjRaM3FxN0lXTkNKZzJGNlFuVTdMbkprZEFmREpqVFZsa0djUkNRY0ZhbHB3WjZZdVlZVjA4OXFpZ3VzNDloR1hKNVAwMXJZTTNlSEVsMjRoTmJqbENLRnY4MzdpSUpPZnN0ZGRGVGR2bXRaUUlhODBJY2VNcW5tS3lSWWhzeGJHcW53d0JCaXFB0gGUAkFVX3lxTE9PaGdiZXlFZlh1TWxYWEcyZU5GVG5mcmVCSm1mY0tzX2U5TDhYaGotejByNWNKbU9ZYXlCczF6RXRtVjgyNk9rUGZhUVZIeVFHMUxWQndlWDEtWi1kYl94dmZVUmVBTGRtX1IyLW9kdU93aVBoeWJXOEhPNnhHM19MYkRRQlNqUjRGTDAwQkdTNXdSc1FibHktYnBQYURJc21WdzJvdkxiSlB5cktDNGRIUFRhZFZqTkJwRzFxZlUxSFV3U2RZamdWem40VV9rZEJHYkkwTXRJRmlQZ3RZcUNpT3MxSlRvVzdwbG5WVFpHNVZyLWZqTjR4c1plS242empqamtjdS1vRjFfWktJampjT3RFVA?oc=5)
+### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AVC</span>
 
-Source: [Infobae](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeGI3cTdqd1N0Z0Q1Q3J4NlE5eEpJcDBKaDIzVDczRWVsQ1NKVmNpSTFISDBzU05pYmV6Slh5cHA1ZkpGYmF6WUxlcmNKSkNlU1I4VWIwZVo4REdhQk84Zl93WkZPejNOWVJVU3BITjE3VjRaM3FxN0lXTkNKZzJGNlFuVTdMbkprZEFmREpqVFZsa0djUkNRY0ZhbHB3WjZZdVlZVjA4OXFpZ3VzNDloR1hKNVAwMXJZTTNlSEVsMjRoTmJqbENLRnY4MzdpSUpPZnN0ZGRGVGR2bXRaUUlhODBJY2VNcW5tS3lSWWhzeGJHcW53d0JCaXFB0gGUAkFVX3lxTE9PaGdiZXlFZlh1TWxYWEcyZU5GVG5mcmVCSm1mY0tzX2U5TDhYaGotejByNWNKbU9ZYXlCczF6RXRtVjgyNk9rUGZhUVZIeVFHMUxWQndlWDEtWi1kYl94dmZVUmVBTGRtX1IyLW9kdU93aVBoeWJXOEhPNnhHM19MYkRRQlNqUjRGTDAwQkdTNXdSc1FibHktYnBQYURJc21WdzJvdkxiSlB5cktDNGRIUFRhZFZqTkJwRzFxZlUxSFV3U2RZamdWem40VV9rZEJHYkkwTXRJRmlQZ3RZcUNpT3MxSlRvVzdwbG5WVFpHNVZyLWZqTjR4c1plS242empqamtjdS1vRjFfWktJampjT3RFVA?oc=5)
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+
+---
+
+### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
 ---
 
@@ -94,25 +118,17 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC
 
 ---
 
-### [Nachsorge nach Schwangerschaftsdiabetes bleibt lückenhaft: DDZ - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2FUUEpTM2c0STBsbkI1Z3RaNFp6MC1ZUV9kMGdKQ0ZEVkQ1WG41M1RCNDVSeEp1aFVucjNZMm5ldU5kMUg3NzB3QmpyU3pCX0hyalJwWDFJRW95V09Rcm9kWWRGSDJ0WkRiWG9LQ3oxUHRxZTZQZTA4bk9TREE1R1FPaHJtVklmQlZKaHBaTEpBS2VmTVFhWUs4eVlILTJNYkwtWTBjS1hsWnE5NXhvNy1B?oc=5)
+### [Diabete, arriva il Registro nazionale: diagnosi, terapie, complicanze ed esiti in un unico sistema](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJjTVVSSVZHcnlYbzA1d0djSTlNeWJjODdXdXFUQ0V1WVpzSS04bUtHa1VXSkhpYTFacV9NSERfRVVQcUxDV29lVy1BcHEySE8zX2RQcHV3MW5fWDBvRm1qMFJkanMwMk8xeVlPR3V0Y0hqVXlXZGdjU1RiSkM0ZnlOam9ZZWllQUtYWkhHRXZRRXpBMmZYS29wUlB3V1lKdXVsa1RWRUpvVWQ1NExqX3UzMlYxMHRLd2NWRW1rc0VWRUF3YXhwTg?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-09-21 <span class="news-indication-tag">diabete</span>
 
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2FUUEpTM2c0STBsbkI1Z3RaNFp6MC1ZUV9kMGdKQ0ZEVkQ1WG41M1RCNDVSeEp1aFVucjNZMm5ldU5kMUg3NzB3QmpyU3pCX0hyalJwWDFJRW95V09Rcm9kWWRGSDJ0WkRiWG9LQ3oxUHRxZTZQZTA4bk9TREE1R1FPaHJtVklmQlZKaHBaTEpBS2VmTVFhWUs4eVlILTJNYkwtWTBjS1hsWnE5NXhvNy1B?oc=5)
-
----
-
-### [Franco Berrino: «Chi ha la pancia si ammala di più. Ecco cosa fare per ridurla» - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
-
-2026-09-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
+Source: [sanitainformazione.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJjTVVSSVZHcnlYbzA1d0djSTlNeWJjODdXdXFUQ0V1WVpzSS04bUtHa1VXSkhpYTFacV9NSERfRVVQcUxDV29lVy1BcHEySE8zX2RQcHV3MW5fWDBvRm1qMFJkanMwMk8xeVlPR3V0Y0hqVXlXZGdjU1RiSkM0ZnlOam9ZZWllQUtYWkhHRXZRRXpBMmZYS29wUlB3V1lKdXVsa1RWRUpvVWQ1NExqX3UzMlYxMHRLd2NWRW1rc0VWRUF3YXhwTg?oc=5)
 
 ---
 
 ### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
-2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Guselkumab könnte extraintestinale Manifestationen bei Morbus Crohn lindern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHJhLWJfdHJPMm95RG5MTXpZN2NWQUxUMEY4d180QU9pLWNQdlBoWThpaWVsOUJ4dnFTM2dzZ0NqMVY1M1p0SjJpQlFZbVlUeVlCenc5ZFdzenNvWENQYndNRHdmTE5TWGpId2F6bXIxc05Gdm1EQzI0Rm45Z1JkdjNPWW0wWS1YWnREd0xWN2tUVmEyOXAzV2QwejBBbkpjRklGME1CRjloT2I4eV9iM09wRlJtVXZ2dWpkTFEzQnNkcGJTVHZJNUI1OENxanVFRFBpMlB6bFNMM1d0?oc=5)
+
+2026-09-23 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHJhLWJfdHJPMm95RG5MTXpZN2NWQUxUMEY4d180QU9pLWNQdlBoWThpaWVsOUJ4dnFTM2dzZ0NqMVY1M1p0SjJpQlFZbVlUeVlCenc5ZFdzenNvWENQYndNRHdmTE5TWGpId2F6bXIxc05Gdm1EQzI0Rm45Z1JkdjNPWW0wWS1YWnREd0xWN2tUVmEyOXAzV2QwejBBbkpjRklGME1CRjloT2I4eV9iM09wRlJtVXZ2dWpkTFEzQnNkcGJTVHZJNUI1OENxanVFRFBpMlB6bFNMM1d0?oc=5)
+
+---
 
 ### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
 
@@ -70,11 +78,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa
 
 ---
 
-### [Knee Osteoarthritis Isn’t Inevitable: Simple Habits May Lower Your Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
+### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
-2026-09-22 <span class="news-indication-tag">arthritis</span>
+2026-09-21 <span class="news-indication-tag">arthritis</span>
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

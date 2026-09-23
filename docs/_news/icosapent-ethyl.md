@@ -40,11 +40,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFP
 
 ---
 
-### [Knee Osteoarthritis Isn’t Inevitable: Simple Habits May Lower Your Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
+### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
-2026-09-22 <span class="news-indication-tag">arthritis</span>
+2026-09-21 <span class="news-indication-tag">arthritis</span>
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

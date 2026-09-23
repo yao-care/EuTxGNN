@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="What news is there about Teriflunomide?">
-<strong>Teriflunomide</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Teriflunomide</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (11)
 
-### [UK doctors develop non-invasive test for womb cancer in women bleeding after menopause - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjJCSE82YXdMNTg1Y2Y4ZmlEd1lRZTA0ZFdVdzc4WjU1V1QtNXVkUTRzcXFYX19fb1o4amNjME1ZTnI5cU5LZ3NnSG80c3NrZXhtRHJtbnBOTE1jd0FzZmtBekZpaHVmcUxmOUdXMlkzVy1BbzltbjBuSUxtY1BxU3c4bTVaNVd1Z3dSNGFvR3RIS0haazBuQk1JNVJmUnNjZkE0WDI5d3h0bThsX3hrNTQtbDI?oc=5)
+### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
 
-2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-23 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjJCSE82YXdMNTg1Y2Y4ZmlEd1lRZTA0ZFdVdzc4WjU1V1QtNXVkUTRzcXFYX19fb1o4amNjME1ZTnI5cU5LZ3NnSG80c3NrZXhtRHJtbnBOTE1jd0FzZmtBekZpaHVmcUxmOUdXMlkzVy1BbzltbjBuSUxtY1BxU3c4bTVaNVd1Z3dSNGFvR3RIS0haazBuQk1JNVJmUnNjZkE0WDI5d3h0bThsX3hrNTQtbDI?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
+
+---
+
+### ["Man braucht keine perfekte Ernährung": So bremst du das Altern](https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2lMTVo2WDlyM3I3VlhneWI3R21BOGdHbkFJZlNOUUZpbFV6V0NUek9vd1NZeW5Wb3dZVW4xNlBQZFBBQURZMVdRVk1fMWh5WTJ0ZC1NdklBc2l4amRyaGNZcmtHelBHbldkLWJ4YnktMlJtLUJTVWpKdlg4cEtfWTRjYw?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2lMTVo2WDlyM3I3VlhneWI3R21BOGdHbkFJZlNOUUZpbFV6V0NUek9vd1NZeW5Wb3dZVW4xNlBQZFBBQURZMVdRVk1fMWh5WTJ0ZC1NdklBc2l4amRyaGNZcmtHelBHbldkLWJ4YnktMlJtLUJTVWpKdlg4cEtfWTRjYw?oc=5)
+
+---
+
+### [MSF inicia un estudio sobre eficacia de la vacuna 'Ervebo' contra el virus Bundibugyo causante del ébola en RDC](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOE1JWjk5U2tjS3drV3M4Z2xVNFpQZDk2MUZwLXpxTTRqby15eWpTMzU2SmRmMHUtR09sR01XUmdwZHlRVkU5SDlSb1hHekd6YXdURFVmMmt4LTJyaHNGX3hHejRPVnNxUWdYMVFENWVSM0JVSHNFcXVsVUdaTjI2X0RQeDRhazRObWlFNDhnWjlSeDh5X0ZqZ3Z0emNtcEN1VDVSWlROS0NPUGViZy1LZTNEdm5fMEs2a3RZczBVdG5QS2J4eGJHc2VCbWxnaEVkLUtVMjJIQ0Q4dHZKaHRKUG5Tdw?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOE1JWjk5U2tjS3drV3M4Z2xVNFpQZDk2MUZwLXpxTTRqby15eWpTMzU2SmRmMHUtR09sR01XUmdwZHlRVkU5SDlSb1hHekd6YXdURFVmMmt4LTJyaHNGX3hHejRPVnNxUWdYMVFENWVSM0JVSHNFcXVsVUdaTjI2X0RQeDRhazRObWlFNDhnWjlSeDh5X0ZqZ3Z0emNtcEN1VDVSWlROS0NPUGViZy1LZTNEdm5fMEs2a3RZczBVdG5QS2J4eGJHc2VCbWxnaEVkLUtVMjJIQ0Q4dHZKaHRKUG5Tdw?oc=5)
+
+---
+
+### [New research suggests changing one thing about your walk to improve your heart health - The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVZqUkdqUG9YaEhLZ3oxV1ZrUTFiTi0wMlV3NkJqaU05VDAyTThvckd4S1ZscHI3OVcxbHBSSWVXQWhfcjlKU1JpTW8xZF82cFp2aWxpTzNmdTZXY2c0allCeS15ODFKWW9VR044TjBSdGVWaHpLYkZSbG04UkxMWDcxNFIyS0VtYmNjSU9QY2xwcmlwZ3dYZWlPWHZfbjBiRWxyNzEtZw?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVZqUkdqUG9YaEhLZ3oxV1ZrUTFiTi0wMlV3NkJqaU05VDAyTThvckd4S1ZscHI3OVcxbHBSSWVXQWhfcjlKU1JpTW8xZF82cFp2aWxpTzNmdTZXY2c0allCeS15ODFKWW9VR044TjBSdGVWaHpLYkZSbG04UkxMWDcxNFIyS0VtYmNjSU9QY2xwcmlwZ3dYZWlPWHZfbjBiRWxyNzEtZw?oc=5)
+
+---
+
+### [Cornwall bowel cancer campaign aims to boost early diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
 
 ---
 
@@ -86,22 +118,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVp
 
 ---
 
-### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
-
----
-
-### [Scientists uncover reason Kent meningitis B outbreak was so dangerous | ITV News Meridian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMThhdVdXUU1oV1UwMlNQZmw5OU85M0RLc0dmejA0ekRYTmpsZWhKeHBkWFl1MmpyQURnd0l6ZVZBU2pXemNMOUJTV2RhVm5nTjZ2U2FXSzdkdjlLeDRYWW1jdkF6YWNjem94QXNDd0wtUUgzS25Ka1FNNEFvVloxY09QcERzVkRfZjB6SWJUZFJEZTlHMXcyMDBrekhSUGhGZ0VYbFBDdUZBVGx1OWlNUTdnRlU?oc=5)
-
-2026-09-22 <span class="news-indication-tag">MS</span>
-
-Source: [itv.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMThhdVdXUU1oV1UwMlNQZmw5OU85M0RLc0dmejA0ekRYTmpsZWhKeHBkWFl1MmpyQURnd0l6ZVZBU2pXemNMOUJTV2RhVm5nTjZ2U2FXSzdkdjlLeDRYWW1jdkF6YWNjem94QXNDd0wtUUgzS25Ka1FNNEFvVloxY09QcERzVkRfZjB6SWJUZFJEZTlHMXcyMDBrekhSUGhGZ0VYbFBDdUZBVGx1OWlNUTdnRlU?oc=5)
-
----
-
 ### [Fitness-Tracker im Test: Apple Watch genauer als Samsung und Garmin](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1VoYi12UUlrR04wUG4yUl90OTU1d1owWDB4ZUQ5bjZMUmV6YmcxVExGaC1tVXVvTFZuWEFJeWswb2ZaNURBdjZVeUJkQWszS2ZKZFJwTndxSjZjeUpEOGRBVmtvb3RaVjM5NmpTS0tidUhaZWJTbWIydVlEeTQ1TFdLVGNEZUozMlBJQWk5a2VDLWowMXA2Sg?oc=5)
 
 2026-09-22 <span class="news-indication-tag">MS</span>
@@ -110,49 +126,9 @@ Source: [BornCity](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1VoYi12
 
 ---
 
-### [Biologisches Alter: Gesunde Ernährung verzögert Alterung um Jahre](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2JrbEZCUmI2QTdMT21udHphdzJNQzRLNFJLNmIwX0xGU3RZUmZwVnBEZ2hJU2NwM3lmV1VrTnRCWWEyYzlWQTVGR1diWnM0SDRUVmE5dEJmc0c2ckhTa0gyaUhISDRLZVp4QXpHYkoxd3J1U2lGUElHcFVTdmpObDg2SDVqUk5KaW1QVWZBMDBNS0hPMTVLaQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">MS</span>
-
-Source: [BornCity](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2JrbEZCUmI2QTdMT21udHphdzJNQzRLNFJLNmIwX0xGU3RZUmZwVnBEZ2hJU2NwM3lmV1VrTnRCWWEyYzlWQTVGR1diWnM0SDRUVmE5dEJmc0c2ckhTa0gyaUhISDRLZVp4QXpHYkoxd3J1U2lGUElHcFVTdmpObDg2SDVqUk5KaW1QVWZBMDBNS0hPMTVLaQ?oc=5)
-
----
-
-### [La UE envía expertos al Congo por el brote de ébola: el país recibe vacunas para ensayos clínicos](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGtNZGU3a1hLWUdBV21NMFFuVXJSOXFRbndkNTluTldXWl9sMjVESXBOZzlpUnlKSWhtRkIwcTlKVkNCMTVnV3dqeXdXQ3dCR3hpNGZ0V0otQjBWcWwydzFabVNEanpfejF0bk16N0pRVHpLUkRUaXhFZnI5bXJLbUNRZTRGTjBxSGp3MnAyNlVkLUtNcUg3UWpjQ1plUVNrYUZBcWJlODhGN0J5MDNhQkNoVkpVamM4TFdQcWFiekgydG8?oc=5)
-
-2026-09-21 <span class="news-indication-tag">MS</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGtNZGU3a1hLWUdBV21NMFFuVXJSOXFRbndkNTluTldXWl9sMjVESXBOZzlpUnlKSWhtRkIwcTlKVkNCMTVnV3dqeXdXQ3dCR3hpNGZ0V0otQjBWcWwydzFabVNEanpfejF0bk16N0pRVHpLUkRUaXhFZnI5bXJLbUNRZTRGTjBxSGp3MnAyNlVkLUtNcUg3UWpjQ1plUVNrYUZBcWJlODhGN0J5MDNhQkNoVkpVamM4TFdQcWFiekgydG8?oc=5)
-
----
-
-### [Manchester brain health clinic aims to 'transform' dementia care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJobnE1WXc4b2paZ003UkxWVzhUZWZZUXdVNkFEbzdtcGdfMmMwOGdTRTQzc3Q0Vm5Hemh6Tk5DR3VUeXBBaU8ySHJ4d0NITl9uemtKTkE?oc=5)
-
-2026-09-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJobnE1WXc4b2paZ003UkxWVzhUZWZZUXdVNkFEbzdtcGdfMmMwOGdTRTQzc3Q0Vm5Hemh6Tk5DR3VUeXBBaU8ySHJ4d0NITl9uemtKTkE?oc=5)
-
----
-
-### [Alzheimer-Therapie: Wie wirksam sind die neuen Präparate?](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQazQwRXlERmQ1cHZWb0c4blp5c1MxZ19HMEZlZ2Y0M1RtVWdMWi1Qa3VEYkY3eTZ5VUlJaTdybUpzOTNDdmNOaGZCcU5YNWpQeXUtbHh1Z01hNlZWUUJCWjZ2SXI5Q3NyWTZ2Y0p3MzdHZ1dBMDhpU0Jzem9Yd21lUm5rbWxDemtDb2ZRWEhsSS00NUdCRFZidlhicUx3SHZOOTVjaXZrQ29LdXpON25yTkdpSnROb3JUQm1ISnRBNDBhX3NPVXYwUFF4Y2FsbWxhVWdhSg?oc=5)
-
-2026-09-21 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
-
-Source: [Kurier](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQazQwRXlERmQ1cHZWb0c4blp5c1MxZ19HMEZlZ2Y0M1RtVWdMWi1Qa3VEYkY3eTZ5VUlJaTdybUpzOTNDdmNOaGZCcU5YNWpQeXUtbHh1Z01hNlZWUUJCWjZ2SXI5Q3NyWTZ2Y0p3MzdHZ1dBMDhpU0Jzem9Yd21lUm5rbWxDemtDb2ZRWEhsSS00NUdCRFZidlhicUx3SHZOOTVjaXZrQ29LdXpON25yTkdpSnROb3JUQm1ISnRBNDBhX3NPVXYwUFF4Y2FsbWxhVWdhSg?oc=5)
-
----
-
-### [Ebola, parte la vaccinazione d’emergenza in Congo: ma il vaccino è stato sviluppato contro un altro virus](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHpESUp2aGZtb0I3RXJUVXJPdE40eERJX0RVUHI0X3VuSjdjOHh2WHQzVHRTTGo2WTZuY3cwMVRhSFV6OEEyUkN0bDVuSi03ek5lMXFDcjJVai1LX2ctZkJpdEVTV1pTbGZmS2NORnhBSTBpZlJ4NUxXMWRZRDJabjlXM0diYTYxVzBVYkIyRmNIdVhldXlEX3dadWNnY25wR2RRVExuOWpZVXEzRFpmdENyby02RlM4TkhYOGpwZ3RJdFdIRWRnZ1NvNHlkYUQ3VW52S25wbVBJamZiWHJQRDFfLXZ4UHJrR243VW1jSGdXTGc?oc=5)
-
-2026-09-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHpESUp2aGZtb0I3RXJUVXJPdE40eERJX0RVUHI0X3VuSjdjOHh2WHQzVHRTTGo2WTZuY3cwMVRhSFV6OEEyUkN0bDVuSi03ek5lMXFDcjJVai1LX2ctZkJpdEVTV1pTbGZmS2NORnhBSTBpZlJ4NUxXMWRZRDJabjlXM0diYTYxVzBVYkIyRmNIdVhldXlEX3dadWNnY25wR2RRVExuOWpZVXEzRFpmdENyby02RlM4TkhYOGpwZ3RJdFdIRWRnZ1NvNHlkYUQ3VW52S25wbVBJamZiWHJQRDFfLXZ4UHJrR243VW1jSGdXTGc?oc=5)
-
----
-
 ### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
-2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
@@ -163,22 +139,6 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQx
 2026-09-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvR3VXNHk2RjNMV0YzR01ReGxrTzJMMXBSZTJJWFlkbVJHdlRsd0g2cG5wcUlzdkp0WU1qQWpvd0E0R19oQU1HSmJhanBmdXQ5NENvWjZrd2pRUDlkOXpj?oc=5)
-
----
-
-### [Why caffeine makes some people buzz - and others barely notice](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4THEzV2xZY3RlbkFqQlVlY25HUnE0di1TUDhGdUU4S3VYVlZrdGh4TEZ0ekQtd0tGcFhaTUUtLW4taFpycldDXzlncTd6MC1GRjlWcE5NMnUwQQ?oc=5)
-
-2026-09-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [bbc.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4THEzV2xZY3RlbkFqQlVlY25HUnE0di1TUDhGdUU4S3VYVlZrdGh4TEZ0ekQtd0tGcFhaTUUtLW4taFpycldDXzlncTd6MC1GRjlWcE5NMnUwQQ?oc=5)
-
----
-
-### [Globaler Fonds warnt vor Folgen von weniger Hilfsgeldern für Kampf gegen Malaria](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3cwaVEwMWt0WDFDMmM4YmNoci1WQmhLaE1OUjBwY2h4UEk4MnJ1QVR0N3VzQlpVdHc5TVdEM2Zsb2NqV0pfM2FMN011aE4yUnZVakNyYWNXMHFqeXE0Sms5OTEwbXNuU1VaREticHl1cTgwQlFuYXF0QXdXX1NjRTAxRUhjYWZGczBnRzBFUE05ZktOOUlCejRORTV3TTRFdmZ4LS1qaWY2YmMyWmQ5YTBMajFkS1hqQ3lTUFBB?oc=5)
-
-2026-09-16 <span class="news-indication-tag">MS</span>
-
-Source: [STERN.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3cwaVEwMWt0WDFDMmM4YmNoci1WQmhLaE1OUjBwY2h4UEk4MnJ1QVR0N3VzQlpVdHc5TVdEM2Zsb2NqV0pfM2FMN011aE4yUnZVakNyYWNXMHFqeXE0Sms5OTEwbXNuU1VaREticHl1cTgwQlFuYXF0QXdXX1NjRTAxRUhjYWZGczBnRzBFUE05ZktOOUlCejRORTV3TTRFdmZ4LS1qaWY2YmMyWmQ5YTBMajFkS1hqQ3lTUFBB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="What news is there about Levetiracetam?">
-<strong>Levetiracetam</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Levetiracetam</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ This page combines the AI-predicted indications for Levetiracetam with the lates
 <li>guanidinoacetate methyltransferase deficiency (99.8%)</li>
 <li>partial motor epilepsy (99.6%)</li>
 <li>trigeminal nerve neoplasm (99.5%)</li>
-<li class="indication-matched">epilepsy (99.2%)<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Trasplantan corteza cerebral humana a ratones y lo que sucede es algo que desafía a la biología - El Confidencial](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2Zyb1N1dmRmRWh0WHhzdm90WHlNdHQ2WjJGNlIxOTV3Q3podUtoWWJoVjZHUGlCYzVaUjNfZHNDSUtiN0Q1VnQxbG9MekE1SUxUajZoMWEyc1ZFY3FodDdfOE1lUmJGTzU4V3otYzY2T011UlN4MXBiQlI2Z09wRGk5SnFfRl9UR3hMTk5vbmVsWXlqbXRZbWtKZDZRY2RRODQ0VTNpVmJ5YkdiM0V4TmxEbjV2Zw?oc=5)
-
-2026-09-22 <span class="news-indication-tag">epilepsia</span> <span class="news-indication-tag">AF</span>
-
-Source: [El Confidencial](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2Zyb1N1dmRmRWh0WHhzdm90WHlNdHQ2WjJGNlIxOTV3Q3podUtoWWJoVjZHUGlCYzVaUjNfZHNDSUtiN0Q1VnQxbG9MekE1SUxUajZoMWEyc1ZFY3FodDdfOE1lUmJGTzU4V3otYzY2T011UlN4MXBiQlI2Z09wRGk5SnFfRl9UR3hMTk5vbmVsWXlqbXRZbWtKZDZRY2RRODQ0VTNpVmJ5YkdiM0V4TmxEbjV2Zw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
+
+2026-09-23 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
+
+---
+
+### [Cardiólogos e instituciones reclaman reforzar la prevención secundaria para reducir el riesgo de nuevos eventos cardiovasculares tras un infarto o ictus - Valencia Plaza](https://news.google.com/rss/articles/CBMimgJBVV95cUxObE1WdV9FV3FWMGdMcmVGbGY2SHVYQ196SHhJLVFVdGRDT0ZsUlpvRUMtRWJvSWJtVmFvSW5FT25vUDBWYjc0SzFIRnk5b3NfamdsWjhxMHVBMTRSSEFzZHp1UjdVNVl0eWxGaE12UVVwU0FqMERzeUxFbGRHMktZc3V5djJWWUk0Y3ozNW1KVHdvRnNUVlBKM0hacFlMaV9XUFczYlZZMTF6cjVzMXlpbW9uRVV4Qm9vZnpQQ0oyTzE2MVpBU0Z5dVBxc3hXU1hKVTNHVHpCUzl2QzU1Sm53bDhHQ3RxVWJUUHVhNU9oRGxVRDNDdU1tdFgtVTd5X2Q2UnNxb0J3cGhCMV9FdXpCMTdpWXliODBMSnc?oc=5)
+
+2026-09-23 <span class="news-indication-tag">ictus</span>
+
+Source: [Valencia Plaza](https://news.google.com/rss/articles/CBMimgJBVV95cUxObE1WdV9FV3FWMGdMcmVGbGY2SHVYQ196SHhJLVFVdGRDT0ZsUlpvRUMtRWJvSWJtVmFvSW5FT25vUDBWYjc0SzFIRnk5b3NfamdsWjhxMHVBMTRSSEFzZHp1UjdVNVl0eWxGaE12UVVwU0FqMERzeUxFbGRHMktZc3V5djJWWUk0Y3ozNW1KVHdvRnNUVlBKM0hacFlMaV9XUFczYlZZMTF6cjVzMXlpbW9uRVV4Qm9vZnpQQ0oyTzE2MVpBU0Z5dVBxc3hXU1hKVTNHVHpCUzl2QzU1Sm53bDhHQ3RxVWJUUHVhNU9oRGxVRDNDdU1tdFgtVTd5X2Q2UnNxb0J3cGhCMV9FdXpCMTdpWXliODBMSnc?oc=5)
+
+---
 
 ### [Vorhofflimmern: Pulsfeldablation + Herzohrverschluss senkt Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mRzRVY19kRWtSRzZxR1hmT2lncl8wZFBTMUJWc3F2aWRJWHM1WFFFMnhXYVdkbTRQc3lOdV9nOENUdUhJa2QxOUVyR0R3blFTR2ZKMWdrWVpEd0ZfMXhUTTA5cG1hekhvS2tWZTI1UjVNaXk5TFgwU015TG5nc0Q1RTdBVzZjeEpOVm5sTVU0cEZFNWZyUEVQbWdOUnY5S2cySDdiVQ?oc=5)
 
@@ -64,7 +80,7 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mR
 
 ### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
-2026-09-22 <span class="news-indication-tag">AVC</span>
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AVC</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
@@ -78,11 +94,11 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUV
 
 ---
 
-### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span>
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">stroke</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFK
 2026-09-22 <span class="news-indication-tag">ipertensione</span>
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
-
----
-
-### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
 
 ---
 

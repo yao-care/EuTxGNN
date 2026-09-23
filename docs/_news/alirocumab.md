@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 
 ## Related News (1)
 
-### [Private ADHD clinics face crackdown - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBmYVZJcXRhd1ZaUEtmUGMtTlZjeC11WjJ0Q2xfNnBxQjhuby01Sm5aWWtzM1JjdkpULUdTUkhLcFdlTGYyNnUxbG1zZTB2ZnFuYkw3R05UWnlTeG85TEM0YTVBc3Y4VElEN0NjQkI1YVBfNFJRZHQ3TEhEZElVVU92a3IyOTQ?oc=5)
+### [Private ADHD clinics face crackdown](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBmYVZJcXRhd1ZaUEtmUGMtTlZjeC11WjJ0Q2xfNnBxQjhuby01Sm5aWWtzM1JjdkpULUdTUkhLcFdlTGYyNnUxbG1zZTB2ZnFuYkw3R05UWnlTeG85TEM0YTVBc3Y4VElEN0NjQkI1YVBfNFJRZHQ3TEhEZElVVU92a3IyOTQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">CKD</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBmYVZJcXRhd1ZaUEtmUGMtTlZjeC11WjJ0Q2xfNnBxQjhuby01Sm5aWWtzM1JjdkpULUdTUkhLcFdlTGYyNnUxbG1zZTB2ZnFuYkw3R05UWnlTeG85TEM0YTVBc3Y4VElEN0NjQkI1YVBfNFJRZHQ3TEhEZElVVU92a3IyOTQ?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBmYVZJcXRhd1ZaUEtmUGMtTlZjeC11WjJ0Q2xfNnBxQjhuby01Sm5aWWtzM1JjdkpULUdTUkhLcFdlTGYyNnUxbG1zZTB2ZnFuYkw3R05UWnlTeG85TEM0YTVBc3Y4VElEN0NjQkI1YVBfNFJRZHQ3TEhEZElVVU92a3IyOTQ?oc=5)
 
 ---
 
