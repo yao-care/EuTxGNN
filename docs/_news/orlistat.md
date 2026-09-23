@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (12)
 
 ### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
 
 2026-09-23 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
+
+---
+
+### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
+
+2026-09-23 <span class="news-indication-tag">obesidad</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ Source: [Valencia Plaza](https://news.google.com/rss/articles/CBMimgJBVV95cUxObE
 
 ---
 
-### [Cuando la obesidad se convierte en contenido, crecen el estigma y la desinformación](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
+### [Cuando la obesidad se convierte en contenido, crecen el estigma y la desinformación - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
 
 2026-09-23 <span class="news-indication-tag">obesidad</span>
 
-Source: [immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
 
 ---
 
@@ -86,19 +94,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mR
 
 ---
 
-### [Risiken beim Absetzen von GLP-1: Gewicht bleibt nicht dauerhaft weg - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQd29VUzdiMmZPdjFvbEZ1eWYyRldFV2d0MUxMQ1AtZzJ5Zkx4YW15bllYTW9SbTNvUTV6R1lQR0gxM2NjdVBaVFo3OHlYZlZCMXFUUzVJUG41VUFkUzZBN0VERTl1bTlKRy12NzJ3NmdZeFFMUlBzeHRuSG95elNnbXpTTUp4M1MyQnlXdHp3M0pMTFN5NlJxTTRrZzFRa28?oc=5)
+### [Warning items in supermarket meal deals lead to heart attacks and strokes - Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeWZsMGlQLVdNSVlMTzZKbF9lYVA3ZEREYk1UQTdqSXFVSV94WTE5enlGWGVuR3c5TmZoenllYUcwYk1YdFB2ZXJ4aFQ4QzVyOThXdDJZaEFyNksyME5na3U0WjBiZFFCc0taemsxQmFDWDB5bktYajZFSVF0QdIBgwFBVV95cUxPNWlqVVloY01xNlJ0ZUVBRVFidC0zM0d0VWtzMTZMdHBxYW94LUJrYXRvQ0diSjlpVTNTVWJUZjB2WDNkYXEwcmp1aUNMQ0RIZ0NsNlhSWmExdTRHODBKSWJHNE5WRHJ6MkdYMjI5SjNCTXhuMFd0ZzhqMnBuZU9zeVJvdw?oc=5)
 
-2026-09-23 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQd29VUzdiMmZPdjFvbEZ1eWYyRldFV2d0MUxMQ1AtZzJ5Zkx4YW15bllYTW9SbTNvUTV6R1lQR0gxM2NjdVBaVFo3OHlYZlZCMXFUUzVJUG41VUFkUzZBN0VERTl1bTlKRy12NzJ3NmdZeFFMUlBzeHRuSG95elNnbXpTTUp4M1MyQnlXdHp3M0pMTFN5NlJxTTRrZzFRa28?oc=5)
-
----
-
-### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
-
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AVC</span>
-
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeWZsMGlQLVdNSVlMTzZKbF9lYVA3ZEREYk1UQTdqSXFVSV94WTE5enlGWGVuR3c5TmZoenllYUcwYk1YdFB2ZXJ4aFQ4QzVyOThXdDJZaEFyNksyME5na3U0WjBiZFFCc0taemsxQmFDWDB5bktYajZFSVF0QdIBgwFBVV95cUxPNWlqVVloY01xNlJ0ZUVBRVFidC0zM0d0VWtzMTZMdHBxYW94LUJrYXRvQ0diSjlpVTNTVWJUZjB2WDNkYXEwcmp1aUNMQ0RIZ0NsNlhSWmExdTRHODBKSWJHNE5WRHJ6MkdYMjI5SjNCTXhuMFd0ZzhqMnBuZU9zeVJvdw?oc=5)
 
 ---
 
@@ -120,17 +120,9 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUV
 
 ### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">stroke</span>
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
-
----
-
-### [AVC : pourquoi les chercheurs s’intéressent-ils soudainement à l’acide urique ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGI3MWxwTHJWeUlRb2YzblF3TlFWdXIwODJoc19zNmpjZVkwUGxBY2ptVFFRNzlkbzE1a2owdWo5ZnZOSmdZOUJtY0JzYXBPWm80eHYtT3FFLVdjRWZtMWdZNklyaEJmMThZdEx6ZjROd1ZFS0RLYlV5MXlWcFRFRU9YNXYtVUxYZ2xyX2Mxb0NZTnAtcVdmSEdIZjZQLXh0d0REbXk1UnZZODdMMTBGNkpOaEt0TnZXSEVRaENfdzZJbnVfRmphSkhDYUFQZGItSk9vMkNUMzdwdWpTZmc?oc=5)
-
-2026-09-22 <span class="news-indication-tag">AVC</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGI3MWxwTHJWeUlRb2YzblF3TlFWdXIwODJoc19zNmpjZVkwUGxBY2ptVFFRNzlkbzE1a2owdWo5ZnZOSmdZOUJtY0JzYXBPWm80eHYtT3FFLVdjRWZtMWdZNklyaEJmMThZdEx6ZjROd1ZFS0RLYlV5MXlWcFRFRU9YNXYtVUxYZ2xyX2Mxb0NZTnAtcVdmSEdIZjZQLXh0d0REbXk1UnZZODdMMTBGNkpOaEt0TnZXSEVRaENfdzZJbnVfRmphSkhDYUFQZGItSk9vMkNUMzdwdWpTZmc?oc=5)
 
 ---
 
@@ -150,19 +142,11 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYz
 
 ---
 
-### [Voici le geste à ne pas négliger pour réduire le risque d’AVC et protéger votre cœur - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
+### [Voici le geste à ne pas négliger pour réduire le risque d’AVC et protéger votre cœur](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
 2026-09-20 <span class="news-indication-tag">AVC</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
-
----
-
-### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt überraschendes Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
+Source: [futura-sciences.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
 ---
 
