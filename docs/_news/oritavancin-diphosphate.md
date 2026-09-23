@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="What news is there about Oritavancin (Diphosphate)?">
-<strong>Oritavancin (Diphosphate)</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Oritavancin (Diphosphate)</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ This page combines the AI-predicted indications for Oritavancin (Diphosphate) wi
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Prävention von Wheezing und Asthma: Studie mit oralem Bakterienprodukt liefert keinen Hinweis auf Wirksamkeit - Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
-
-2026-09-16 <span class="news-indication-tag">asthma</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnhfY1F0SDFUUDlUQVF1ekFieXcteUROUWhyUk1adll4WnVxWDB4RmJRdHBsSDBRenFvM204eDI2VVRNYTZvNi1faG5EallmNEpRQmVLTURqQlNrb3ZlSlpWVlJxdnRPMUhCZUhrUFd4U1JDb1FCV0swNmZES0kyN2w0SWc0ZXhWQm9LYmdnZ1dXUjB5dmlUUjJqbmhTMlVnNGQzQXNEdHU2MTY2MkFpd21jb0hQZG14anNmaF9NYlo2N2ZhTW56N2RKZUVqT1BlbVhSdQ?oc=5)
-
----
-
-### [Abnehm-Spritze: Hilft Semaglutid auch bei Asthma und COPD?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
-
-2026-09-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFXWlBLMDdiS2gwdUkyZzBnTnFYY2dOLTNQUVBxdmx5Q3poUGRIUkZqTXJ0cjQ4Vl9BVnVZZzR5bGJpdHVlcF8wcGplV0VHV0JLd2p2dlluMFZ6aFJFVWZhbjF0RzZyNi15RjZTVWVVcTQ5TFh6b3BqcnZYWlV1YlRFMmtHTFdYeWNhWVVIZ3lRZTM0ODRV?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -54,6 +54,22 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (13)
 
+### [Vorhofflimmern: Pulsfeldablation + Herzohrverschluss senkt Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mRzRVY19kRWtSRzZxR1hmT2lncl8wZFBTMUJWc3F2aWRJWHM1WFFFMnhXYVdkbTRQc3lOdV9nOENUdUhJa2QxOUVyR0R3blFTR2ZKMWdrWVpEd0ZfMXhUTTA5cG1hekhvS2tWZTI1UjVNaXk5TFgwU015TG5nc0Q1RTdBVzZjeEpOVm5sTVU0cEZFNWZyUEVQbWdOUnY5S2cySDdiVQ?oc=5)
+
+2026-09-23 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mRzRVY19kRWtSRzZxR1hmT2lncl8wZFBTMUJWc3F2aWRJWHM1WFFFMnhXYVdkbTRQc3lOdV9nOENUdUhJa2QxOUVyR0R3blFTR2ZKMWdrWVpEd0ZfMXhUTTA5cG1hekhvS2tWZTI1UjVNaXk5TFgwU015TG5nc0Q1RTdBVzZjeEpOVm5sTVU0cEZFNWZyUEVQbWdOUnY5S2cySDdiVQ?oc=5)
+
+---
+
+### [Frankreich begrenzt den Einsatz neuer Medikamente gegen Adipositas](https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1oyc0EwbEdzblNLRjBDb2MxX29TUFN2T2E2UkNnYkYxZHQ3TlcwcDVXN2FOcmdHSW51VmxGalBqaVJveFVKUHliMW5DZ09WOGlTZ3FtQklkTzgxOEphcFZERlgxSTc3MlB0b1hXbm8zeDZFTnBDZ1ZvMkVTVWdiQm1RRDJUX3MxemVXNkFORW45T2VQ?oc=5)
+
+2026-09-23 <span class="news-indication-tag">Adipositas</span>
+
+Source: [nachrichten.fr](https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1oyc0EwbEdzblNLRjBDb2MxX29TUFN2T2E2UkNnYkYxZHQ3TlcwcDVXN2FOcmdHSW51VmxGalBqaVJveFVKUHliMW5DZ09WOGlTZ3FtQklkTzgxOEphcFZERlgxSTc3MlB0b1hXbm8zeDZFTnBDZ1ZvMkVTVWdiQm1RRDJUX3MxemVXNkFORW45T2VQ?oc=5)
+
+---
+
 ### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22 <span class="news-indication-tag">AVC</span>
@@ -70,19 +86,27 @@ Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxO
 
 ---
 
-### [Süßstoffe statt Zucker: Studie räumt mit dem größten Irrtum über Zuckerersatz auf](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekFnZWk2TUR0SEs3dVVQZXRQbFhTb2l3UFp0VjF1UUg4dkxMYXQ1VzcxQ3R6VzRfUTI1VVF5eWhONzZtS1E5YnJMSGh0QkRpaGhoMXNfQkFqM2xLOEh4SlFER1RJMmx4UzNNYnl2alNBTVA2aVdsSnFCY0VBS2VOOWljNjIwcXdWaF96U3BMOENmOWQ1dmZnSmk0SXNoWTE0SzZKbEhGNUhTRU5VM3JOX0Y5Um5sQzVfLU1XVm9QcHJNX1V5UFNZLS1Lb2ZBZzZEMHJ6WmVn?oc=5)
+### [“Solo una sbornia”, i medici non riconobbero ictus e la paziente è paralizzata: “Ora paghino danni” - la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUVvWlg3S0F3SkdsZW9RQy0yQVIxNEJYNThSUDJQTTFQd001bjc3T0IwX2Q5SGVHbVdXWllNX0JRTDZjTkk0TDMwU2piYnNCbHU4cVZGZXlOZ3RIbEhNWWVDSmpRNFdtaFdkUG9wUUwyNF9mUHNncktXRW13S2tpNlpDblR4cDBRZm1ZNHZITU5STkxXZ2NGRDBON1VPZnNMWDhTZHBLWlRtMXVGTGNCUGtrb2FsZVkwc1BnQk80M0Vadm5GeVR6S2l2RlFnVnZjMGs1LTA3a0VORFZQM0ZfQUNJZEJ1TVhtVHVv0gHwAUFVX3lxTE5lU2xocnBsVEI5eXNPZUFDQlBUcDJaOVhOc3NadVlXbGRJS1BtcVI3RlF0MVlQQW1LcUx1T2lDNk5acGhfd0JOcHB5eThaUWNkVUNWWEJzZk9DYXdfZmdlRWJMeDlCRlFiVEg1bXdXbHdpcnY2VGM2VDlNblFmX1ZXQjFWVGNhNmtzbUVjT1FxUFI2dGlVZzg0d2pfRnRlenhGWGJLZ190VmtGbnJmeVVzWHJ5RlQ5ZEhoNGFnQUJQM1FqcFM3ZHZVem1yd0ZsQ2xvZ3dnbnF0U2Y4Znp5UHBpSjVqdDFZNlhha1BnRW5xdg?oc=5)
 
-2026-09-22 <span class="news-indication-tag">Schlaganfall</span>
+2026-09-22 <span class="news-indication-tag">ictus</span>
 
-Source: [fnp.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekFnZWk2TUR0SEs3dVVQZXRQbFhTb2l3UFp0VjF1UUg4dkxMYXQ1VzcxQ3R6VzRfUTI1VVF5eWhONzZtS1E5YnJMSGh0QkRpaGhoMXNfQkFqM2xLOEh4SlFER1RJMmx4UzNNYnl2alNBTVA2aVdsSnFCY0VBS2VOOWljNjIwcXdWaF96U3BMOENmOWQ1dmZnSmk0SXNoWTE0SzZKbEhGNUhTRU5VM3JOX0Y5Um5sQzVfLU1XVm9QcHJNX1V5UFNZLS1Lb2ZBZzZEMHJ6WmVn?oc=5)
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUVvWlg3S0F3SkdsZW9RQy0yQVIxNEJYNThSUDJQTTFQd001bjc3T0IwX2Q5SGVHbVdXWllNX0JRTDZjTkk0TDMwU2piYnNCbHU4cVZGZXlOZ3RIbEhNWWVDSmpRNFdtaFdkUG9wUUwyNF9mUHNncktXRW13S2tpNlpDblR4cDBRZm1ZNHZITU5STkxXZ2NGRDBON1VPZnNMWDhTZHBLWlRtMXVGTGNCUGtrb2FsZVkwc1BnQk80M0Vadm5GeVR6S2l2RlFnVnZjMGs1LTA3a0VORFZQM0ZfQUNJZEJ1TVhtVHVv0gHwAUFVX3lxTE5lU2xocnBsVEI5eXNPZUFDQlBUcDJaOVhOc3NadVlXbGRJS1BtcVI3RlF0MVlQQW1LcUx1T2lDNk5acGhfd0JOcHB5eThaUWNkVUNWWEJzZk9DYXdfZmdlRWJMeDlCRlFiVEg1bXdXbHdpcnY2VGM2VDlNblFmX1ZXQjFWVGNhNmtzbUVjT1FxUFI2dGlVZzg0d2pfRnRlenhGWGJLZ190VmtGbnJmeVVzWHJ5RlQ5ZEhoNGFnQUJQM1FqcFM3ZHZVem1yd0ZsQ2xvZ3dnbnF0U2Y4Znp5UHBpSjVqdDFZNlhha1BnRW5xdg?oc=5)
 
 ---
 
-### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
+
+---
+
+### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen? Das zeigt die Forschung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTlzRmpRLTNrRlNlUmVCZXBpNUdQbHdJNU5CcUw1NVpSN3phd1B6RUFqclFSVlhDS1JVRkRTejRlWUN5UHA1WjdDYUE2dkxvM29mb19XaG9JdTBJaXh1YThvS2M2NlRJS3RWYmJRSTRzMi1oZkhjR0pUMndOU1J6bG54Z3R1UXp3WGJGY2MyakZmQUZsZ3prZXExd0lodmw4ZHI5dGU5YVFpM282YzBISDJ1VHdleFYwRlV1SUVOQ2thUnNXNFV4UHFqd0lBMGl1Y2haOURwRzhHanV5TldaZHBzczg?oc=5)
 
 ---
 
@@ -91,22 +115,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdON
 2026-09-22 <span class="news-indication-tag">AVC</span>
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGI3MWxwTHJWeUlRb2YzblF3TlFWdXIwODJoc19zNmpjZVkwUGxBY2ptVFFRNzlkbzE1a2owdWo5ZnZOSmdZOUJtY0JzYXBPWm80eHYtT3FFLVdjRWZtMWdZNklyaEJmMThZdEx6ZjROd1ZFS0RLYlV5MXlWcFRFRU9YNXYtVUxYZ2xyX2Mxb0NZTnAtcVdmSEdIZjZQLXh0d0REbXk1UnZZODdMMTBGNkpOaEt0TnZXSEVRaENfdzZJbnVfRmphSkhDYUFQZGItSk9vMkNUMzdwdWpTZmc?oc=5)
-
----
-
-### [GLP-1-Medikamente: Therapieabbruch erhöht Herzinfarkt-Risiko um 22% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVNOZUlvMXVFYmFSZmk1eFZoRU40Z3pJNENtZzV0eEhnVy1ybjJ5UDRQa1FTZlR0MnB0cnBfc05GZUJWeU1lcWtxNzZhNVNjOVpHbEltT0RJaGN5bHR5TXhPRzFPSVRfdVdpX0JrQ2UyNTc0X2RsZWhiQXVsdDVhMmxEYzAzYzRyOHdldkZpUkFybEJNeFF6YTZJcm53Z1dLLXYyMExPYVhOamR2TV9XWldsSF96QQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVNOZUlvMXVFYmFSZmk1eFZoRU40Z3pJNENtZzV0eEhnVy1ybjJ5UDRQa1FTZlR0MnB0cnBfc05GZUJWeU1lcWtxNzZhNVNjOVpHbEltT0RJaGN5bHR5TXhPRzFPSVRfdVdpX0JrQ2UyNTc0X2RsZWhiQXVsdDVhMmxEYzAzYzRyOHdldkZpUkFybEJNeFF6YTZJcm53Z1dLLXYyMExPYVhOamR2TV9XWldsSF96QQ?oc=5)
-
----
-
-### [Gefäßverkalkung: Vitamin K2 verlangsamt Arteriosklerose um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXppNTIzMUNnTzE2UmlCeHVsX0hOYjJyclZKN3lGUXpOd2RnVzRXYWxxX1c5ZTVDRTVKaHNvM0R0eFFaTWN6UE5idVBnWkRiLVc3VXd0TUtWRURPS2cyNmhmSUF0cGR0dnNkWGlHaDZfX1M5X1Z2UldEdVdHQzBmbVZzbUp5M3RyNzA4TWVXa0NUeVlQTnFCcHRpUWZUZ001NVo1UngxWVB4STNYY0FQTjE1UGV2cC1EZDlz?oc=5)
-
-2026-09-21 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXppNTIzMUNnTzE2UmlCeHVsX0hOYjJyclZKN3lGUXpOd2RnVzRXYWxxX1c5ZTVDRTVKaHNvM0R0eFFaTWN6UE5idVBnWkRiLVc3VXd0TUtWRURPS2cyNmhmSUF0cGR0dnNkWGlHaDZfX1M5X1Z2UldEdVdHQzBmbVZzbUp5M3RyNzA4TWVXa0NUeVlQTnFCcHRpUWZUZ001NVo1UngxWVB4STNYY0FQTjE1UGV2cC1EZDlz?oc=5)
 
 ---
 
@@ -126,14 +134,6 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYz
 
 ---
 
-### [Diabetes-Therapie: Genetik bestimmt Erfolg von Diät und Medikament - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDlVckZhNXJNRHF3ZDVYclFQbVA5a25HWlhueVJQTjNKV1hUOTdOUE9VTU5CcFc5VElVQ3pvU0h6OVpFVVJPRG9mV1dtRng2TGxTVFBRcjhPdUxWQTBxekJocE1nZzJVclZCUlpIVGxTb2YyYm1fa3p4U1ZkS3dGeWVkallnSWlBaDJ0cnB2aXNlR1lsSXRRVWczY0p2Q1RGV1NiMUVCWmowRFdKSE9XOGtybXhzdw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDlVckZhNXJNRHF3ZDVYclFQbVA5a25HWlhueVJQTjNKV1hUOTdOUE9VTU5CcFc5VElVQ3pvU0h6OVpFVVJPRG9mV1dtRng2TGxTVFBRcjhPdUxWQTBxekJocE1nZzJVclZCUlpIVGxTb2YyYm1fa3p4U1ZkS3dGeWVkallnSWlBaDJ0cnB2aXNlR1lsSXRRVWczY0p2Q1RGV1NiMUVCWmowRFdKSE9XOGtybXhzdw?oc=5)
-
----
-
 ### [Voici le geste à ne pas négliger pour réduire le risque d’AVC et protéger votre cœur - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
 2026-09-20 <span class="news-indication-tag">AVC</span>
@@ -142,19 +142,19 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
-### [Adipositas erkennen: Warum das Maßband dem BMI deutlich überlegen ist](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
+### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
-2026-09-18 <span class="news-indication-tag">Adipositas</span>
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [aponet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
 ---
 
-### [Nach Krebsdiagnose: Risiko für Schlaganfall steigt](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+### [Cholesterin-Senker absetzen: Studie zu Statinen zeigt überraschendes Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
 
-2026-09-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-09-18 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0ZXYTJGRXhYc3J4cXYtS0NtRVVCUGxjeXU5M0lPVFpzWkJfeGpkR2FVVElqdlRlbDdPbndZVjZNSFZSQ0wwdTA4UElYVHdNZng0UWVCZ2ZpY085ejkyaGVtWmJ3SDk2Q1pLaUNGdzJuV0ctVElxcDA5TVNrX0hxSERPRFY1REtzWXR3NEhqdw?oc=5)
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekN6QWtZY2NVZVY5dFI5NlZKaXVGT0JHbnJabkl2V0g2ZHJNYTNLR3U5b1l0S0RZX2pxa1JnQVBkc2p1TkliZlM1VVY3b25Vajl1Uk1GU2xXbEVYR1VkU2xOMVV3R2FtekFtcmdmQXZXYjEyTmJmM3pHQTdpMmFUbUNMbm1ITno1RnlHd1dVN3haY1dUb0g2V0MzcFRJZGh1WG9rWWpycm1kUU8ydkh1WFZGLURRa0JS?oc=5)
 
 ---
 

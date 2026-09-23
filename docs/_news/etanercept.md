@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Etanercept with the latest h
 
 ## Related News (3)
 
+### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
+
+2026-09-23 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">AF</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
+
+---
+
 ### [Knee Osteoarthritis Isn’t Inevitable: Simple Habits May Lower Your Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
 
 2026-09-22 <span class="news-indication-tag">arthritis</span>
 
 Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
-2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 ---
 

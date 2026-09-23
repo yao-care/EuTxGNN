@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Colistimethate Sodium?">
-<strong>Colistimethate Sodium</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Colistimethate Sodium</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Colistimethate Sodium with t
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
-### [Demenz-Prävention: Blutdruckkontrolle senkt Risiko um 15 Prozent](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzNNUE5xWlFSdGI2WkVpQjlTUm42Yk1EbndzazQzcHVZUXNWRFd3VWRLd0F2cmg0bWt1Q08wamxMcmsyT193cGNNT0VBemVZOEVPSWplWFJpdmliaF9seUtnc3ByREhqMDdiWDlva1lOd25wWXpYTnFEOHo4NmhVLXFWR09OWjc0LVptbTNMdmhHMXNqZnc?oc=5)
+### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
 
-2026-09-23 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-23 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">AF</span>
 
-Source: [BornCity](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzNNUE5xWlFSdGI2WkVpQjlTUm42Yk1EbndzazQzcHVZUXNWRFd3VWRLd0F2cmg0bWt1Q08wamxMcmsyT193cGNNT0VBemVZOEVPSWplWFJpdmliaF9seUtnc3ByREhqMDdiWDlva1lOd25wWXpYTnFEOHo4NmhVLXFWR09OWjc0LVptbTNMdmhHMXNqZnc?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBV
 2026-09-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
-2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
 
 ---
 

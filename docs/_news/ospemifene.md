@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="What news is there about Ospemifene?">
-<strong>Ospemifene</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Ospemifene</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Ospemifene with the latest h
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (8)
 
-### [Demenz-Prävention: Blutdruckkontrolle senkt Risiko um 15 Prozent](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzNNUE5xWlFSdGI2WkVpQjlTUm42Yk1EbndzazQzcHVZUXNWRFd3VWRLd0F2cmg0bWt1Q08wamxMcmsyT193cGNNT0VBemVZOEVPSWplWFJpdmliaF9seUtnc3ByREhqMDdiWDlva1lOd25wWXpYTnFEOHo4NmhVLXFWR09OWjc0LVptbTNMdmhHMXNqZnc?oc=5)
+### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
 
-2026-09-23 <span class="news-indication-tag">Bluthochdruck</span>
+2026-09-23 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">AF</span>
 
-Source: [BornCity](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzNNUE5xWlFSdGI2WkVpQjlTUm42Yk1EbndzazQzcHVZUXNWRFd3VWRLd0F2cmg0bWt1Q08wamxMcmsyT193cGNNT0VBemVZOEVPSWplWFJpdmliaF9seUtnc3ByREhqMDdiWDlva1lOd25wWXpYTnFEOHo4NmhVLXFWR09OWjc0LVptbTNMdmhHMXNqZnc?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
 
 ---
 
-### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
 
 2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjh
 
 ---
 
-### [Two in three women have not been treated for their migraines - The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
+### [Two in three women have not been treated for their migraines](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">migraine</span>
 
-Source: [The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
+Source: [thetimes.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXJsbGh0WXF1RUJoQURzYktybWdUeTBmUjRPWmREV0pwSGlMWk5wV3h0UVBEQkdVVUpPR0JGbGxnTGR5bDNrbTdzV1pVbXJIZFN5VjFwWU5QSGN2NkVxaFBZc1dYUUIxeW93VWdvbl9PdV96WGFnWnRNZzBXdE9RQl9GUzlVWXlySExISV9QY3Bybm5Qb0trY01yQVc3bFdxMS03TmFKYjJzYjQ?oc=5)
 
 ---
 
@@ -110,35 +110,11 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNU
 
 ---
 
-### [Digoxin reduziert Herzinsuffizienzereignisse bei rheumatischer Herzerkrankung - Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1lBQU9FNzhfOFBHbWRZR2V6Vk4za05jSHJDeC1seHBUZUw5dHdyNlJodUVHZ0ZydXE3a04wdkx6S05SZ05oaUYxTEZfc0kwQ0tfYXlZSWZzRnd3RTJORjkwa1V2OTQzUVA2WmtNSWtKdkJ3MWxzWGhCaVU1WjhNa0QwczFfeXc2TElfQjAxejRDcE9ZaWNnRA?oc=5)
-
-2026-09-21 <span class="news-indication-tag">Herzerkrankung</span>
-
-Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1lBQU9FNzhfOFBHbWRZR2V6Vk4za05jSHJDeC1seHBUZUw5dHdyNlJodUVHZ0ZydXE3a04wdkx6S05SZ05oaUYxTEZfc0kwQ0tfYXlZSWZzRnd3RTJORjkwa1V2OTQzUVA2WmtNSWtKdkJ3MWxzWGhCaVU1WjhNa0QwczFfeXc2TElfQjAxejRDcE9ZaWNnRA?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
-2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
-
----
-
 ### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
 2026-09-17 <span class="news-indication-tag">arthritis</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
-
----
-
-### [Cholesterol, weight, blood sugar and blood pressure drop with one food change - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
-
-2026-09-16 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZRWjZmQUE2aElOb3RaR0hGMTF6d09FSnBQRnkyTmR1SnNpbi1relNGRWhzRUhaQmFWa3I5ZndwUi1zYUF5bFRHOC1TZFFaTU4xaEZtZk5oYnVwXzFRQnpaeUgxT1ZqWWdGVEQ2QWVlV3F3MjA0SHo2bkktcU40LTZjdy01RWswbWfSAY8BQVVfeXFMUC1aV0dVYUdMYV9ld2duVno1ZW9xLXBILU9tbkk0dnl2bTVxMWtjR0ZlWFYwalJiYl80UGMySUlDZDhJWnVPTXBMM085X04zYzJsMGxUeW5wRjFYeVFKU3kwb0RmWmQxZUtqdzNwMTVSSDdyQ080OTFxVGtUdEkzWU9KMjByX2NEUUk5VWs4Q1E?oc=5)
 
 ---
 

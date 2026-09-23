@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
+
+2026-09-23 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">AF</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
+
+---
 
 ### [Knee Osteoarthritis Isn’t Inevitable: Simple Habits May Lower Your Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExmeWt3T1ZKRm1fNmZjYXpnSlBPQjNhX1ljZTJpS0pLZVBpb1VpQzVOUXB3OG5wV2tZWjU3ODZBS3JZNE9SQjNVSV85QXlxMGF3eHIzd3NUU0Y1OUdGSXVYS3NWUXVKZENIN3A5aE5TVzFDZFh1UUtIRVlSTUNVeFkxTjZlWjF1ZzR1RlVwa21oemt4T0VHdnpTaw?oc=5)
 
@@ -62,11 +70,11 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExm
 
 ---
 
-### [Juvenile idiopathische Arthritis: Certolizumab pegol führt zu einer langfristigen Verbesserung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+### [Demandan a los fabricantes de Ozempic, Wegovy y Zepbound: alegan que los fármacos causaron una rara pérdida de visión](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeGI3cTdqd1N0Z0Q1Q3J4NlE5eEpJcDBKaDIzVDczRWVsQ1NKVmNpSTFISDBzU05pYmV6Slh5cHA1ZkpGYmF6WUxlcmNKSkNlU1I4VWIwZVo4REdhQk84Zl93WkZPejNOWVJVU3BITjE3VjRaM3FxN0lXTkNKZzJGNlFuVTdMbkprZEFmREpqVFZsa0djUkNRY0ZhbHB3WjZZdVlZVjA4OXFpZ3VzNDloR1hKNVAwMXJZTTNlSEVsMjRoTmJqbENLRnY4MzdpSUpPZnN0ZGRGVGR2bXRaUUlhODBJY2VNcW5tS3lSWWhzeGJHcW53d0JCaXFB0gGUAkFVX3lxTE9PaGdiZXlFZlh1TWxYWEcyZU5GVG5mcmVCSm1mY0tzX2U5TDhYaGotejByNWNKbU9ZYXlCczF6RXRtVjgyNk9rUGZhUVZIeVFHMUxWQndlWDEtWi1kYl94dmZVUmVBTGRtX1IyLW9kdU93aVBoeWJXOEhPNnhHM19MYkRRQlNqUjRGTDAwQkdTNXdSc1FibHktYnBQYURJc21WdzJvdkxiSlB5cktDNGRIUFRhZFZqTkJwRzFxZlUxSFV3U2RZamdWem40VV9rZEJHYkkwTXRJRmlQZ3RZcUNpT3MxSlRvVzdwbG5WVFpHNVZyLWZqTjR4c1plS242empqamtjdS1vRjFfWktJampjT3RFVA?oc=5)
 
-2026-09-18 <span class="news-drug-tag">Certolizumab Pegol</span> <span class="news-indication-tag">arthritis</span>
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYUc1WDU3NFFHb3F0dUlJbzNSMGJCS1UtYnh1NWdyOGU3TDVXVjlPTnkzckU2ZFppbHM1VFI5N2Z0QjBscEdYemFLVHhiNkRLemIycW4yYkV1RmluMmwxTEtEcXBNcm4tWUJYMDNrWDRrTVU4ZnpIcUMtRk5HSmI4REgxZmlFRzdXb0VIY1BrRW1qWEFTS1h2bU90WjR6RGpCdjhYYmphaklYbjFENXhfUVN2NVZEVzROZjJwdDltaklJTUhKeWR3T0VDNjNwLXpTaTR4aE05eE5Sei1yUWViemxDZ0xHY1QzUWREREZPaHNqZUlu?oc=5)
+Source: [Infobae](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeGI3cTdqd1N0Z0Q1Q3J4NlE5eEpJcDBKaDIzVDczRWVsQ1NKVmNpSTFISDBzU05pYmV6Slh5cHA1ZkpGYmF6WUxlcmNKSkNlU1I4VWIwZVo4REdhQk84Zl93WkZPejNOWVJVU3BITjE3VjRaM3FxN0lXTkNKZzJGNlFuVTdMbkprZEFmREpqVFZsa0djUkNRY0ZhbHB3WjZZdVlZVjA4OXFpZ3VzNDloR1hKNVAwMXJZTTNlSEVsMjRoTmJqbENLRnY4MzdpSUpPZnN0ZGRGVGR2bXRaUUlhODBJY2VNcW5tS3lSWWhzeGJHcW53d0JCaXFB0gGUAkFVX3lxTE9PaGdiZXlFZlh1TWxYWEcyZU5GVG5mcmVCSm1mY0tzX2U5TDhYaGotejByNWNKbU9ZYXlCczF6RXRtVjgyNk9rUGZhUVZIeVFHMUxWQndlWDEtWi1kYl94dmZVUmVBTGRtX1IyLW9kdU93aVBoeWJXOEhPNnhHM19MYkRRQlNqUjRGTDAwQkdTNXdSc1FibHktYnBQYURJc21WdzJvdkxiSlB5cktDNGRIUFRhZFZqTkJwRzFxZlUxSFV3U2RZamdWem40VV9rZEJHYkkwTXRJRmlQZ3RZcUNpT3MxSlRvVzdwbG5WVFpHNVZyLWZqTjR4c1plS242empqamtjdS1vRjFfWktJampjT3RFVA?oc=5)
 
 ---
 

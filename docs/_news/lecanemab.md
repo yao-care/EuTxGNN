@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lecanemab?">
-<strong>Lecanemab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Lecanemab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (6)
 
-### [Alzheimer: Leqembi verlangsamt Krankheit um 6–9 Monate](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDJocFVHR2F5TzI5TjFvN0sxTjJMdlVCcHVQV3FvQ18zdDhOc1lZYzQtU1liaVZGTUY5MTk0VWpKZU9jMnlMakpaaWVmdjM4RUdiMXR3VHQ5VXV3c0EtdzlEdUprcmZURTNOTHVfaFBmMFg1VndSYUtPZ0hsYVlKcWF1STZzN0k?oc=5)
+### [Diabetes frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
 
-2026-09-22 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
+2026-09-23 <span class="news-indication-tag">diabetes</span>
 
-Source: [BornCity](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDJocFVHR2F5TzI5TjFvN0sxTjJMdlVCcHVQV3FvQ18zdDhOc1lZYzQtU1liaVZGTUY5MTk0VWpKZU9jMnlMakpaaWVmdjM4RUdiMXR3VHQ5VXV3c0EtdzlEdUprcmZURTNOTHVfaFBmMFg1VndSYUtPZ0hsYVlKcWF1STZzN0k?oc=5)
-
----
-
-### [Diese Schlafphase ist mit geringerem Risiko für 83 Krankheiten verbunden](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41R0FEck1iZ2tsQWd4TUxCanNLSlFOS3NIQkt0REdWZWQzR3JjSWpocEZ6cUR2QmVzV1NEODJvWXhXTXR3clpoeTRpZ2pIWVFObTJEa3dEcGJBZEUwV19FZTM0UVFjRU0?oc=5)
-
-2026-09-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-Source: [FITBOOK](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41R0FEck1iZ2tsQWd4TUxCanNLSlFOS3NIQkt0REdWZWQzR3JjSWpocEZ6cUR2QmVzV1NEODJvWXhXTXR3clpoeTRpZ2pIWVFObTJEa3dEcGJBZEUwV19FZTM0UVFjRU0?oc=5)
-
----
-
-### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+Source: [frankfurt-live.com](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
 
 ---
 
@@ -94,11 +78,11 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 ---
 
-### [Diabetes-Therapie: Genetik bestimmt Erfolg von Diät und Medikament - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDlVckZhNXJNRHF3ZDVYclFQbVA5a25HWlhueVJQTjNKV1hUOTdOUE9VTU5CcFc5VElVQ3pvU0h6OVpFVVJPRG9mV1dtRng2TGxTVFBRcjhPdUxWQTBxekJocE1nZzJVclZCUlpIVGxTb2YyYm1fa3p4U1ZkS3dGeWVkallnSWlBaDJ0cnB2aXNlR1lsSXRRVWczY0p2Q1RGV1NiMUVCWmowRFdKSE9XOGtybXhzdw?oc=5)
+### [Alzheimer-Therapie: Wie wirksam sind die neuen Präparate?](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQazQwRXlERmQ1cHZWb0c4blp5c1MxZ19HMEZlZ2Y0M1RtVWdMWi1Qa3VEYkY3eTZ5VUlJaTdybUpzOTNDdmNOaGZCcU5YNWpQeXUtbHh1Z01hNlZWUUJCWjZ2SXI5Q3NyWTZ2Y0p3MzdHZ1dBMDhpU0Jzem9Yd21lUm5rbWxDemtDb2ZRWEhsSS00NUdCRFZidlhicUx3SHZOOTVjaXZrQ29LdXpON25yTkdpSnROb3JUQm1ISnRBNDBhX3NPVXYwUFF4Y2FsbWxhVWdhSg?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDlVckZhNXJNRHF3ZDVYclFQbVA5a25HWlhueVJQTjNKV1hUOTdOUE9VTU5CcFc5VElVQ3pvU0h6OVpFVVJPRG9mV1dtRng2TGxTVFBRcjhPdUxWQTBxekJocE1nZzJVclZCUlpIVGxTb2YyYm1fa3p4U1ZkS3dGeWVkallnSWlBaDJ0cnB2aXNlR1lsSXRRVWczY0p2Q1RGV1NiMUVCWmowRFdKSE9XOGtybXhzdw?oc=5)
+Source: [Kurier](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQazQwRXlERmQ1cHZWb0c4blp5c1MxZ19HMEZlZ2Y0M1RtVWdMWi1Qa3VEYkY3eTZ5VUlJaTdybUpzOTNDdmNOaGZCcU5YNWpQeXUtbHh1Z01hNlZWUUJCWjZ2SXI5Q3NyWTZ2Y0p3MzdHZ1dBMDhpU0Jzem9Yd21lUm5rbWxDemtDb2ZRWEhsSS00NUdCRFZidlhicUx3SHZOOTVjaXZrQ29LdXpON25yTkdpSnROb3JUQm1ISnRBNDBhX3NPVXYwUFF4Y2FsbWxhVWdhSg?oc=5)
 
 ---
 
@@ -110,11 +94,11 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95c
 
 ---
 
-### [Alle Diabetes-Patienten gegen Herpes zoster impfen? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
-2026-09-17 <span class="news-indication-tag">diabetes</span>
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWdQZFJPOHdPSW83cnUtenhuLUpmejRNWVdNZUxaZm9HdElueVBlN2ZnWkI1a2RFSnFGUWhrVlJFckRMNVVTTnZNcmRtSmlTMUdmd3VRN2pBTC1pZ2QzdEFVNnlOYy1ENzQwUWpwcnFhdFZhbHRRWUxxa2ZTWUVQdlNLbkZMYjJfXzdQZU40NkhYLXk0UmpmQU1HNUhrQkY4?oc=5)
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
 ---
 

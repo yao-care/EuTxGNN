@@ -14,7 +14,7 @@ permalink: /news/deferiprone/
 ---
 
 <p class="key-answer" data-question="What news is there about Deferiprone?">
-<strong>Deferiprone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Deferiprone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Deferiprone with the latest 
 <p><a href="{{ '/drugs/deferiprone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Demenz-Prävention: Blutdruckkontrolle senkt Risiko um 15 Prozent](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzNNUE5xWlFSdGI2WkVpQjlTUm42Yk1EbndzazQzcHVZUXNWRFd3VWRLd0F2cmg0bWt1Q08wamxMcmsyT193cGNNT0VBemVZOEVPSWplWFJpdmliaF9seUtnc3ByREhqMDdiWDlva1lOd25wWXpYTnFEOHo4NmhVLXFWR09OWjc0LVptbTNMdmhHMXNqZnc?oc=5)
-
-2026-09-23 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [BornCity](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzNNUE5xWlFSdGI2WkVpQjlTUm42Yk1EbndzazQzcHVZUXNWRFd3VWRLd0F2cmg0bWt1Q08wamxMcmsyT193cGNNT0VBemVZOEVPSWplWFJpdmliaF9seUtnc3ByREhqMDdiWDlva1lOd25wWXpYTnFEOHo4NmhVLXFWR09OWjc0LVptbTNMdmhHMXNqZnc?oc=5)
-
----
+## Related News (2)
 
 ### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
 

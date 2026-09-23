@@ -78,19 +78,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nXzYwcTd0cEJob
 
 ---
 
-### [Dementia is Britain’s biggest health crisis, experts claim - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
-
-2026-09-21 <span class="news-indication-tag">dementia</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1pYVXFkemtqOHBPdXhCYlYyLXNDYk9weU43N1owc3hsX3I3T2xBamFlY3RGcUhURUNCQnJ4ZDlqNldMc2hSLXJsTWdsS1hZaGM5WUc3Q25OdUV5bTdjbzl5ZzBTWkZVdWJCZjcxQjZYNXJ6VkdRd0N5bk5XdjFTZEdNd1J1QkhhZURF?oc=5)
-
----
-
 ### [Smart beds and motion sensors - is this the future of dementia care?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 
 2026-09-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
+
+---
+
+### [Civil service took six months to post dementia tsar job advert](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWI3NDN3eXhMNkJoVlZJU1VJUVhQYzNjYlZHTHRhSzRZaW5HYU5xNkU0SkREdEZqZE16NGJaODBaUFBxMjhEczBuUmNzczZOT1Y1bWduekpmcWdJZHlyQnZ3dkhaTm94Znl3YUZmS2NlUjJYcmVOTUIyc1dnaEk4TVlzaFNXZFo3d1RQSmlDQUd1WVJyMm1JVHlmNWI2NnhaUlZ5c1BlMWdIRlF6?oc=5)
+
+2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+
+Source: [thetimes.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWI3NDN3eXhMNkJoVlZJU1VJUVhQYzNjYlZHTHRhSzRZaW5HYU5xNkU0SkREdEZqZE16NGJaODBaUFBxMjhEczBuUmNzczZOT1Y1bWduekpmcWdJZHlyQnZ3dkhaTm94Znl3YUZmS2NlUjJYcmVOTUIyc1dnaEk4TVlzaFNXZFo3d1RQSmlDQUd1WVJyMm1JVHlmNWI2NnhaUlZ5c1BlMWdIRlF6?oc=5)
 
 ---
 
