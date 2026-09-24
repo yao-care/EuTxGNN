@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Alzheimer : ces 5 habitudes du quotidien pourraient aider à retarder la maladie - Charente Libre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmZHNzU1cEhUZ3QtQWFGVi1sblNuTUQyZ2lZRFozS3NHaFRHcXRiZFJ1cUlTOWNKVkl1Mzk3V3h5Q0QxVWxwQTFMVy1VSEZuZ1gwYXQ1THZVa1NsMlI3WFZ1VTlrRzFNR1c5a1FfWk9VZ0Y4NFV1UDR2Y094N0FZWThDdnRfYlhIMlY0cVg3eUJqZzI4MzNHckc3T0gzYWY4OFczWk4xdVp4MVh4Z0V5YTZZZmxnb1RTdDZ2TXlZRGFXWnM?oc=5)
+
+2026-09-22 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [Charente Libre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmZHNzU1cEhUZ3QtQWFGVi1sblNuTUQyZ2lZRFozS3NHaFRHcXRiZFJ1cUlTOWNKVkl1Mzk3V3h5Q0QxVWxwQTFMVy1VSEZuZ1gwYXQ1THZVa1NsMlI3WFZ1VTlrRzFNR1c5a1FfWk9VZ0Y4NFV1UDR2Y094N0FZWThDdnRfYlhIMlY0cVg3eUJqZzI4MzNHckc3T0gzYWY4OFczWk4xdVp4MVh4Z0V5YTZZZmxnb1RTdDZ2TXlZRGFXWnM?oc=5)
+
+---
 
 ### [Smart beds and motion sensors - is this the future of dementia care?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 

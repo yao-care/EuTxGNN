@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (11)
+
+### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">migraña</span>
+
+Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
+
+---
+
+### [Demenz-Risiko um 45 Prozent senken: Diese 14 Faktoren könnt ihr gezielt beeinflussen - Business Insider Deutschland](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG80c1lhdm5hU0dBeEl6OXFNUzQ1dFVCSVRuaFNFUzdZT2oxV2FhcFNSNGhja0IyUlFOQnBGS2pvdGRfZjh0cG9JeG9pQzlRZi1LMjhTRmZTZmhfaGJfY29UWnFWUnNWN2htZjZpQnEtUFFzNFpjcHlPOEMzcmZ2SDFVZVR0SVJPYnFSbmlPSDk0ZFZReV9jbDZlRWo1S0VySTlkd0pBY2ZyazJfZVZnT3NieUg?oc=5)
+
+2026-09-24 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG80c1lhdm5hU0dBeEl6OXFNUzQ1dFVCSVRuaFNFUzdZT2oxV2FhcFNSNGhja0IyUlFOQnBGS2pvdGRfZjh0cG9JeG9pQzlRZi1LMjhTRmZTZmhfaGJfY29UWnFWUnNWN2htZjZpQnEtUFFzNFpjcHlPOEMzcmZ2SDFVZVR0SVJPYnFSbmlPSDk0ZFZReV9jbDZlRWo1S0VySTlkd0pBY2ZyazJfZVZnT3NieUg?oc=5)
+
+---
+
+### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+2026-09-24 <span class="news-indication-tag">migraña</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+---
+
+### [These Foods May Help Lower Your Blood Pressure, New Study Says](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+
+2026-09-24 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+
+---
 
 ### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
@@ -70,6 +102,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdi
 
 ---
 
+### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+
+---
+
 ### ["Je n’avais absolument aucune envie de manger" : de la sibutramine retrouvée dans des gélules amincissantes vendues sur les réseaux - Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
@@ -78,11 +118,11 @@ Source: [Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TE
 
 ---
 
-### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
+### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 2026-09-23 <span class="news-indication-tag">hipertensión</span>
 
-Source: [noticiasdegipuzkoa.eus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
+Source: [Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 ---
 

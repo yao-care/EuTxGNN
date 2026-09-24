@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (7)
+
+### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">migraña</span>
+
+Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
+
+---
+
+### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+2026-09-24 <span class="news-indication-tag">migraña</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+---
+
+### [These Foods May Help Lower Your Blood Pressure, New Study Says](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+
+2026-09-24 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+
+---
 
 ### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+
+---
+
+### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
 
 ---
 

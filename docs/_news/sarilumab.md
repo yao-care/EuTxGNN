@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
+
+### [Oft Verdauungsprobleme? Wann gesunde Lebensmittel Entzündungen fördern könnten](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+Source: [t-online.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
 
@@ -67,30 +75,6 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNW
 2026-09-23 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">Morbus Crohn</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHJhLWJfdHJPMm95RG5MTXpZN2NWQUxUMEY4d180QU9pLWNQdlBoWThpaWVsOUJ4dnFTM2dzZ0NqMVY1M1p0SjJpQlFZbVlUeVlCenc5ZFdzenNvWENQYndNRHdmTE5TWGpId2F6bXIxc05Gdm1EQzI0Rm45Z1JkdjNPWW0wWS1YWnREd0xWN2tUVmEyOXAzV2QwejBBbkpjRklGME1CRjloT2I4eV9iM09wRlJtVXZ2dWpkTFEzQnNkcGJTVHZJNUI1OENxanVFRFBpMlB6bFNMM1d0?oc=5)
-
----
-
-### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
-
-2026-09-23 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
-
----
-
-### [Darmerkrankungen: NOD2-Gendefekt und Oxalat als neue Auslöser](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
-
-2026-09-23 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
-
----
-
-### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
-
-2026-09-17 <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
 ---
 

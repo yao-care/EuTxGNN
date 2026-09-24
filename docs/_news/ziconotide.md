@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (9)
+
+### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">migraña</span>
+
+Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
+
+---
+
+### [La semaglutida podría prevenir enfermedades cardiovasculares graves con efectos más allá del control de peso](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTV0enpsZXl5b2VfN3FILU4yYnhUWkYtUDh6eGd6dzBweHJ1bnd6SVZlRnF4V3JrS2hhUEhHQVBrXy1KMmpNWEpYQ3ByLUQ3a1hiVEtxV0lRa3lUd3k0aHBjY2tOWFM2WFFqb1pQcmEzV2JDQk84RlpTTW95RTY1dnV1NDhmZjM0ZWNtUGlQNTRQaVpEN3M3aEtwUHBYM3M3cDFXLXQ4OHVFbVNqLTlnUVR2cTMtZVVCRmRiUWFUdlBLbFdJTTN5bXBOTi1lTGJ4cnU0cGZsU3BlZFllYS1zVWRoenY1U3NrcmtNbmdNbWwwVy1fdEFwdw?oc=5)
+
+2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTV0enpsZXl5b2VfN3FILU4yYnhUWkYtUDh6eGd6dzBweHJ1bnd6SVZlRnF4V3JrS2hhUEhHQVBrXy1KMmpNWEpYQ3ByLUQ3a1hiVEtxV0lRa3lUd3k0aHBjY2tOWFM2WFFqb1pQcmEzV2JDQk84RlpTTW95RTY1dnV1NDhmZjM0ZWNtUGlQNTRQaVpEN3M3aEtwUHBYM3M3cDFXLXQ4OHVFbVNqLTlnUVR2cTMtZVVCRmRiUWFUdlBLbFdJTTN5bXBOTi1lTGJ4cnU0cGZsU3BlZFllYS1zVWRoenY1U3NrcmtNbmdNbWwwVy1fdEFwdw?oc=5)
+
+---
+
+### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+2026-09-24 <span class="news-indication-tag">migraña</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+---
+
+### [Obesità, farmaci gratis. In Regione c’è una legge - il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">obesità</span>
+
+Source: [il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
+
+---
 
 ### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
@@ -78,14 +110,6 @@ Source: [Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TE
 
 ---
 
-### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
----
-
 ### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">migraine</span>
@@ -94,11 +118,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjh
 
 ---
 
-### [Farmaci, anti-obesità semaglutide al centro della nuova protezione cardio-renale - Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+### [Adipositas erkennen: Warum das Maßband dem BMI deutlich überlegen ist](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
 
-2026-09-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+2026-09-18 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
 
 ---
 

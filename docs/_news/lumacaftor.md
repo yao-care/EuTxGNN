@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="What news is there about Lumacaftor?">
-<strong>Lumacaftor</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Lumacaftor</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ This page combines the AI-predicted indications for Lumacaftor with the latest h
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (12)
+
+### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">migraña</span>
+
+Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
+
+---
+
+### [Demenz-Risiko um 45 Prozent senken: Diese 14 Faktoren könnt ihr gezielt beeinflussen - Business Insider Deutschland](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG80c1lhdm5hU0dBeEl6OXFNUzQ1dFVCSVRuaFNFUzdZT2oxV2FhcFNSNGhja0IyUlFOQnBGS2pvdGRfZjh0cG9JeG9pQzlRZi1LMjhTRmZTZmhfaGJfY29UWnFWUnNWN2htZjZpQnEtUFFzNFpjcHlPOEMzcmZ2SDFVZVR0SVJPYnFSbmlPSDk0ZFZReV9jbDZlRWo1S0VySTlkd0pBY2ZyazJfZVZnT3NieUg?oc=5)
+
+2026-09-24 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG80c1lhdm5hU0dBeEl6OXFNUzQ1dFVCSVRuaFNFUzdZT2oxV2FhcFNSNGhja0IyUlFOQnBGS2pvdGRfZjh0cG9JeG9pQzlRZi1LMjhTRmZTZmhfaGJfY29UWnFWUnNWN2htZjZpQnEtUFFzNFpjcHlPOEMzcmZ2SDFVZVR0SVJPYnFSbmlPSDk0ZFZReV9jbDZlRWo1S0VySTlkd0pBY2ZyazJfZVZnT3NieUg?oc=5)
+
+---
+
+### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+2026-09-24 <span class="news-indication-tag">migraña</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+---
+
+### [These Foods May Help Lower Your Blood Pressure, New Study Says](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+
+2026-09-24 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
 
@@ -78,6 +110,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdi
 
 ---
 
+### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+
+---
+
 ### ["Je n’avais absolument aucune envie de manger" : de la sibutramine retrouvée dans des gélules amincissantes vendues sur les réseaux - Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
@@ -86,19 +126,11 @@ Source: [Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TE
 
 ---
 
-### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
+### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 2026-09-23 <span class="news-indication-tag">hipertensión</span>
 
-Source: [noticiasdegipuzkoa.eus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
-
----
-
-### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
-
-2026-09-23 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
+Source: [Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 ---
 
@@ -115,14 +147,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjh
 2026-09-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
-
----
-
-### [Wie sich der Vitamin-D-Spiegel auf eine axiale Spondyloarthritis auswirkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
-
-2026-09-17 <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXV6a09oNVBncGpmSE8wM3ptVWhScTUxcFJOT1pHenp1b2hEWTFXU1RZemxGY0swdXBiekNqTjVYY3haaG5Da0ZOd3FEUmhKWS1sUHlfQkE3N2ttU1dtS0lBVW8xMTQ0cFN3dEI4aUswdjZiSlJSQVdiaDk1ZENYeW9OQkg4QjY0N1FfMlJ2VzJQeEM2Y1ZIM05QQ2JNdENVdk5rcWVHRlk4SnRZMV9ieUowZVVMZXNNWFFPa2tIUjFTaFNReVh5UUtLV01ETWYxckJKV21XMmh2UQ?oc=5)
 
 ---
 

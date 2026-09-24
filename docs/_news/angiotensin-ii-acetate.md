@@ -14,7 +14,7 @@ permalink: /news/angiotensin-ii-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Angiotensin Ii Acetate?">
-<strong>Angiotensin Ii Acetate</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Angiotensin Ii Acetate</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,29 @@ This page combines the AI-predicted indications for Angiotensin Ii Acetate with 
 <p><a href="{{ '/drugs/angiotensin-ii-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (8)
 
-### [Diabetesrisiko: Gewichtsverlust und normale Blutzuckerwerte senken es um 73 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDVGUVl0ajRaMWtqeV9PQy1YY18zQy1zdFV4WV83bVVKSVdIUE9IbkotMXFsTnpFQ1FLSnNWVWd3ckZNVlM1M09zTFJtTEM4azUyUUdXcmkySzRpOTRzUlRvbnFQTGY3N1JfcUh4MDVzbGo2VHE1WXI3cmEyN2tYYlBwZmEzWlFzOEpRNVJ2bjMwazdVUUhiNnluZDRMUkM0ODhZdFhraEtEcVN6ajJwRFlSbTJ6WWwtNE5hag?oc=5)
+### [Typ-2-Diabetes: die Rolle von Armut und Migrationserfahrung](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFMyTEtqWG83cFJOVnlSSmplVkl0QS1BbFQycUFxclNoZ3I4ckEwMWVqN3h4YXlFSVlzM1BsS0xnS3k2c1JUU3ktSUhuYkNOUnVoaGpZRzB5dklMaHdwQ1BJNVpOZGplb0sxSTY5bWdDV2ZJNnNEeldvb2kzNFY1WVZZSk1vTUh3S2NSOU42TzhwbmdFT1FQaVNhVVlRTlk0V0tFcGkzQ2hHLXp3aXNUZWpJM0NGQQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDVGUVl0ajRaMWtqeV9PQy1YY18zQy1zdFV4WV83bVVKSVdIUE9IbkotMXFsTnpFQ1FLSnNWVWd3ckZNVlM1M09zTFJtTEM4azUyUUdXcmkySzRpOTRzUlRvbnFQTGY3N1JfcUh4MDVzbGo2VHE1WXI3cmEyN2tYYlBwZmEzWlFzOEpRNVJ2bjMwazdVUUhiNnluZDRMUkM0ODhZdFhraEtEcVN6ajJwRFlSbTJ6WWwtNE5hag?oc=5)
+Source: [journalmed.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFMyTEtqWG83cFJOVnlSSmplVkl0QS1BbFQycUFxclNoZ3I4ckEwMWVqN3h4YXlFSVlzM1BsS0xnS3k2c1JUU3ktSUhuYkNOUnVoaGpZRzB5dklMaHdwQ1BJNVpOZGplb0sxSTY5bWdDV2ZJNnNEeldvb2kzNFY1WVZZSk1vTUh3S2NSOU42TzhwbmdFT1FQaVNhVVlRTlk0V0tFcGkzQ2hHLXp3aXNUZWpJM0NGQQ?oc=5)
 
 ---
 
-### [Neue Studie: Diese Tabletten senken bei Diabetes offenbar das Demenzrisiko - FIT FOR FUN](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEdQVkZDYVFhYWd3Unl1QjRySGZkWEVveHV6UTl4YmYyZEVKeW5LVFlIODgzQkNCRFVhbnlDOTFMR3gxbFZlTDVwNlJjTXlnSEhjQlNrQzZmeEwweW1QUTlRNkdPcXh1NTZUbHFfUzExaGRIX0owbGRJYUg2RDBuY1VFLXhzR1hEWk1TazNmR3p4V01saDJvSzFyWXAtbmM3RnY1MDRUdnFUM1FRZzVLN2J3YnN3WXlLUjlieWE1TkpfdmdXeEh4MzRKY1VWbUNRZ29UVU5Id3RzdWFJUHlNTUgxMWxxQQ?oc=5)
+### [Britische Forschende entwickeln Vorhersageinstrument für das Diabetesrisiko - Biermann Medizin](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcFVxVW9XSFpHN3VrclBIMVpzc1dnRkloNTVtQnNVaFlNcDBldHI0UWFydjdUMW0tYmZNeWo1MUhxcUJ5eUJZVXc0QTl2eGpicGdLZHlNeHVoN25LVE96SldyQVlnZGFzUGxUaGNkcjlUU3NaSmQ5ZkdIMm1PcXBReWl2V1h6RVdJcHJLWFlGenBqbDZ1NjN5S0JZLUdQbUZ2b0RrSFoyV0s?oc=5)
 
 2026-09-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [FIT FOR FUN](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEdQVkZDYVFhYWd3Unl1QjRySGZkWEVveHV6UTl4YmYyZEVKeW5LVFlIODgzQkNCRFVhbnlDOTFMR3gxbFZlTDVwNlJjTXlnSEhjQlNrQzZmeEwweW1QUTlRNkdPcXh1NTZUbHFfUzExaGRIX0owbGRJYUg2RDBuY1VFLXhzR1hEWk1TazNmR3p4V01saDJvSzFyWXAtbmM3RnY1MDRUdnFUM1FRZzVLN2J3YnN3WXlLUjlieWE1TkpfdmdXeEh4MzRKY1VWbUNRZ29UVU5Id3RzdWFJUHlNTUgxMWxxQQ?oc=5)
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcFVxVW9XSFpHN3VrclBIMVpzc1dnRkloNTVtQnNVaFlNcDBldHI0UWFydjdUMW0tYmZNeWo1MUhxcUJ5eUJZVXc0QTl2eGpicGdLZHlNeHVoN25LVE96SldyQVlnZGFzUGxUaGNkcjlUU3NaSmQ5ZkdIMm1PcXBReWl2V1h6RVdJcHJLWFlGenBqbDZ1NjN5S0JZLUdQbUZ2b0RrSFoyV0s?oc=5)
 
 ---
 
-### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
-
-2026-09-24 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
-
----
-
-### [Pressemitteilungen Schwangerschaftsdiabetes: Warum Nachsorge so wichtig ist - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
+### [Pressemitteilungen Schwangerschaftsdiabetes: Warum Nachsorge so wichtig ist](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGxlYzhPU2FmWmxnclRWT2J6UkViMmg1c0NkV3J6V2k3SmlEbm9qWmV3NEJ6U3M0WHN6ZmdkREtLenlweU4wR3BhMHdMNGxFQ1Rabzc0X3dQU1Q5Y3lFTHdQenVhQ0hGcXYtSjlfQ19pWm5vTTFIQXh1UkR1cXZsaHpWU25OM1VDR2I5SjFNZXQ5bzd6QmM5Q2JTeGhpT0pLMDlZNHdWekI0Q0NsT3BLaQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
+Source: [JuraForum.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGxlYzhPU2FmWmxnclRWT2J6UkViMmg1c0NkV3J6V2k3SmlEbm9qWmV3NEJ6U3M0WHN6ZmdkREtLenlweU4wR3BhMHdMNGxFQ1Rabzc0X3dQU1Q5Y3lFTHdQenVhQ0hGcXYtSjlfQ19pWm5vTTFIQXh1UkR1cXZsaHpWU25OM1VDR2I5SjFNZXQ5bzd6QmM5Q2JTeGhpT0pLMDlZNHdWekI0Q0NsT3BLaQ?oc=5)
 
 ---
 
@@ -90,15 +82,7 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 
 2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [sciencealert.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
-
----
-
-### [Tumori, chi ha il diabete rischia di più: servono più prevenzione e screening - Sky TG24](https://news.google.com/rss/articles/CBMickFVX3lxTFBFWm51aTMyNlJCQjU2WG9wcUxnWGxrWXA3b2R6M2o3bmQ4b012X3VrWWdTWGhCQjVUTFk4aEd1aWk5RFlPejJGbmk4S01IcHdyc1FxZEgteTE5YjNXcjNjeFdiNDVRNzdDaU94TWhVUjhwZw?oc=5)
-
-2026-09-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [Sky TG24](https://news.google.com/rss/articles/CBMickFVX3lxTFBFWm51aTMyNlJCQjU2WG9wcUxnWGxrWXA3b2R6M2o3bmQ4b012X3VrWWdTWGhCQjVUTFk4aEd1aWk5RFlPejJGbmk4S01IcHdyc1FxZEgteTE5YjNXcjNjeFdiNDVRNzdDaU94TWhVUjhwZw?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
 
 ---
 
@@ -131,14 +115,6 @@ Source: [sanitainformazione.it](https://news.google.com/rss/articles/CBMiyAFBVV9
 2026-09-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
-
----
-
-### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
-
-2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
 ---
 
