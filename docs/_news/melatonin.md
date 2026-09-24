@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Melatonin</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
 
@@ -62,19 +62,19 @@ Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F
 
 ---
 
-### [La semaglutida podría prevenir enfermedades cardiovasculares graves con efectos más allá del control de peso](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTV0enpsZXl5b2VfN3FILU4yYnhUWkYtUDh6eGd6dzBweHJ1bnd6SVZlRnF4V3JrS2hhUEhHQVBrXy1KMmpNWEpYQ3ByLUQ3a1hiVEtxV0lRa3lUd3k0aHBjY2tOWFM2WFFqb1pQcmEzV2JDQk84RlpTTW95RTY1dnV1NDhmZjM0ZWNtUGlQNTRQaVpEN3M3aEtwUHBYM3M3cDFXLXQ4OHVFbVNqLTlnUVR2cTMtZVVCRmRiUWFUdlBLbFdJTTN5bXBOTi1lTGJ4cnU0cGZsU3BlZFllYS1zVWRoenY1U3NrcmtNbmdNbWwwVy1fdEFwdw?oc=5)
-
-2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTV0enpsZXl5b2VfN3FILU4yYnhUWkYtUDh6eGd6dzBweHJ1bnd6SVZlRnF4V3JrS2hhUEhHQVBrXy1KMmpNWEpYQ3ByLUQ3a1hiVEtxV0lRa3lUd3k0aHBjY2tOWFM2WFFqb1pQcmEzV2JDQk84RlpTTW95RTY1dnV1NDhmZjM0ZWNtUGlQNTRQaVpEN3M3aEtwUHBYM3M3cDFXLXQ4OHVFbVNqLTlnUVR2cTMtZVVCRmRiUWFUdlBLbFdJTTN5bXBOTi1lTGJ4cnU0cGZsU3BlZFllYS1zVWRoenY1U3NrcmtNbmdNbWwwVy1fdEFwdw?oc=5)
-
----
-
 ### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
 
 2026-09-24 <span class="news-indication-tag">migraña</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+---
+
+### [I farmaci per perdere peso associati a rischio rigurgito e aspirazione 11 volte superiore durante l'anestesia](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
+
+2026-09-24 <span class="news-indication-tag">obesità</span>
+
+Source: [fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
 
 ---
 
@@ -102,19 +102,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlR
 
 ---
 
-### ["Je n’avais absolument aucune envie de manger" : de la sibutramine retrouvée dans des gélules amincissantes vendues sur les réseaux - Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
+### [« Des migraines, des vomissements… » : ces dangereux compléments amincissants à la sibutramine promus par des influenceuses - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
-Source: [Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
-
----
-
-### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">migraine</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
 
 ---
 

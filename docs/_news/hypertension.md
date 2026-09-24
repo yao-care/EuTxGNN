@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 4 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>4 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Demenz-Risiko um 45 Prozent senken: Diese 14 Faktoren könnt ihr gezielt beeinflussen - Business Insider Deutschland](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG80c1lhdm5hU0dBeEl6OXFNUzQ1dFVCSVRuaFNFUzdZT2oxV2FhcFNSNGhja0IyUlFOQnBGS2pvdGRfZjh0cG9JeG9pQzlRZi1LMjhTRmZTZmhfaGJfY29UWnFWUnNWN2htZjZpQnEtUFFzNFpjcHlPOEMzcmZ2SDFVZVR0SVJPYnFSbmlPSDk0ZFZReV9jbDZlRWo1S0VySTlkd0pBY2ZyazJfZVZnT3NieUg?oc=5)
 
@@ -93,19 +93,11 @@ Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMi
 
 ---
 
-### [Millions in England unaware they have ‘silent killer’ high blood pressure, research reveals - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
+### [One in six under-40s have high blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
 
-2026-09-23
+2026-09-24
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
-
----
-
-### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
-
-2026-09-23
-
-Source: [Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
 
 ---
 

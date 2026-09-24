@@ -14,7 +14,7 @@ permalink: /news/bosentan-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Bosentan (As Monohydrate)?">
-<strong>Bosentan (As Monohydrate)</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Bosentan (As Monohydrate)</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Bosentan (As Monohydrate) wi
 <p><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Demenz-Risiko um 45 Prozent senken: Diese 14 Faktoren könnt ihr gezielt beeinflussen - Business Insider Deutschland](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG80c1lhdm5hU0dBeEl6OXFNUzQ1dFVCSVRuaFNFUzdZT2oxV2FhcFNSNGhja0IyUlFOQnBGS2pvdGRfZjh0cG9JeG9pQzlRZi1LMjhTRmZTZmhfaGJfY29UWnFWUnNWN2htZjZpQnEtUFFzNFpjcHlPOEMzcmZ2SDFVZVR0SVJPYnFSbmlPSDk0ZFZReV9jbDZlRWo1S0VySTlkd0pBY2ZyazJfZVZnT3NieUg?oc=5)
 
@@ -62,11 +62,19 @@ Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMi
 
 ---
 
+### [One in six under-40s have high blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
+
+2026-09-24 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
+
+---
+
 ### [These Foods May Help Lower Your Blood Pressure, New Study Says](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
 
 2026-09-24 <span class="news-indication-tag">heart disease</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
 
 ---
 
@@ -78,27 +86,11 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNW
 
 ---
 
-### [Millions in England unaware they have ‘silent killer’ high blood pressure, research reveals - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
-
-2026-09-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
-
----
-
 ### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
-
----
-
-### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
-
-2026-09-23 <span class="news-indication-tag">hipertensión</span>
-
-Source: [Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 ---
 

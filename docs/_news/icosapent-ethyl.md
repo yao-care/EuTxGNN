@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Icosapent Ethyl with the lat
 
 2026-09-24 <span class="news-indication-tag">heart disease</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
 
 ---
 
@@ -50,7 +50,7 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNW
 
 ### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
 

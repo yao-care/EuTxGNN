@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (16)
 
 ### [Schlaganfall: „Vitamin K aktiviert Proteine, die Blutgefäße vor Verkalkung schützen“](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnFLdWVDb3I5V3Y5cmlVLUVaQ3ppX1laeTNuU3dGOWU2UHo1dHlLVEVhcE9vaHM4emMzS18teVNTRG94SWZNUDVkc1E5aEhaUGJQNHJONlk1WnBPOGlOc29PQUFZZTJreUJlbExybEdkdHFKYjl0NmJxYVNJSTlwRXpRZ1NWNHlwNWNYWXlITllTYy1SWm1OVVRIdkQtTzN3eGM4eWdMb2dCUS1kWFJmeTZaX0hUajBvUm5XZ0RMREs3VFNwdVdBZWhyZlFxNUhva0ZnWDAxWi00UEd4dU9OX0VfZVQtUQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnFLdWVDb3I5V3Y5cmlVLUVaQ3ppX1laeTNuU3dGOWU2UHo1dHlLVEVhcE9vaHM4emMzS18teVNTRG94SWZNUDVkc1E5aEhaUGJQNHJONlk1WnBPOGlOc29PQUFZZTJreUJlbExybEdkdHFKYjl0NmJxYVNJSTlwRXpRZ1NWNHlwNWNYWXlITllTYy1SWm1OVVRIdkQtTzN3eGM4eWdMb2dCUS1kWFJmeTZaX0hUajBvUm5XZ0RMREs3VFNwdVdBZWhyZlFxNUhva0ZnWDAxWi00UEd4dU9OX0VfZVQtUQ?oc=5)
+
+---
+
+### [Detectan un incremento de accidentes cerebrovasculares entre los jóvenes - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHgyWm5fT3NVUFB5NEFtblJxcmZmdWoyUi03QzI0QlRWckhTSlZPbWJEaF81dGlwem5HaWN5SVduVmZUcFM4Qm5zaUxhVUEzbjhIVFdvakdJRHNkYWRDZ1FSQTBoOFZVSUhKb2NJSUEzZC1yTzNHb19xRHVMd0M5SVJ1clJqSEJNT1VIaHVsNjBmbGI2c2FxOFF1NHh3c2dQYTRaTmZrcFctbjhpUTczendFdjJWQdIBsAFBVV95cUxQa21sU3NnU2pYX3ExdV83RjU0QWpMM19rek5MOXUzV0EzaHBoY1JBSE5uUEdiaVZGdVJ0NE1WVFo2QnZ3Z0FKbm85QVdXRE1xSklFb3lwLW9SX3FhN1hERmZyZlBUNFVxMGJzUHlBWFlhOGZrT3dMR3F0cmdKODkxWE56UmtuaVJxZ2o4a09EVFhoaVFvSVlQNktpZ05ZcUdGNmZWZlJFOTNUWXE1TnB2VQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">ictus</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHgyWm5fT3NVUFB5NEFtblJxcmZmdWoyUi03QzI0QlRWckhTSlZPbWJEaF81dGlwem5HaWN5SVduVmZUcFM4Qm5zaUxhVUEzbjhIVFdvakdJRHNkYWRDZ1FSQTBoOFZVSUhKb2NJSUEzZC1yTzNHb19xRHVMd0M5SVJ1clJqSEJNT1VIaHVsNjBmbGI2c2FxOFF1NHh3c2dQYTRaTmZrcFctbjhpUTczendFdjJWQdIBsAFBVV95cUxQa21sU3NnU2pYX3ExdV83RjU0QWpMM19rek5MOXUzV0EzaHBoY1JBSE5uUEdiaVZGdVJ0NE1WVFo2QnZ3Z0FKbm85QVdXRE1xSklFb3lwLW9SX3FhN1hERmZyZlBUNFVxMGJzUHlBWFlhOGZrT3dMR3F0cmdKODkxWE56UmtuaVJxZ2o4a09EVFhoaVFvSVlQNktpZ05ZcUdGNmZWZlJFOTNUWXE1TnB2VQ?oc=5)
+
+---
+
+### [Ictus prima dei 55 anni, i casi sono quasi raddoppiati: i segnali da non ignorare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
+
+2026-09-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMi
 
 ---
 
-### [Forschungsergebnisse: Das Schlaganfallrisiko erreicht seinen Höhepunkt in den ersten 3 Monaten nach der Krebsdiagnose.](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOW9nQWZqYTNKN0xnLXgxeUVZVkU2WUNKRGhsdjY4LThETmhTZm1kSjVPVVl1NlNWZkRZVERpZEhMVmxUTUhpblVGMGtxS25hZ3d1S3JwMC1VSDRzWk1qRHJYSVRPNUhRckZCaGtJY2dFZnNJQmFkMDlkbm56ekFzYUNQYXUyQTA4WmQ5VlN3SjVLcmtiMzUzb0dZdEI0ZlZjN0xJ?oc=5)
+### [One in six under-40s have high blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
 
-2026-09-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-09-24 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
-Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOW9nQWZqYTNKN0xnLXgxeUVZVkU2WUNKRGhsdjY4LThETmhTZm1kSjVPVVl1NlNWZkRZVERpZEhMVmxUTUhpblVGMGtxS25hZ3d1S3JwMC1VSDRzWk1qRHJYSVRPNUhRckZCaGtJY2dFZnNJQmFkMDlkbm56ekFzYUNQYXUyQTA4WmQ5VlN3SjVLcmtiMzUzb0dZdEI0ZlZjN0xJ?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
 
 ---
 
@@ -86,11 +102,11 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXJ
 
 ---
 
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [newsandstar.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 ---
 
@@ -98,23 +114,15 @@ Source: [newsandstar.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUx
 
 2026-09-24 <span class="news-indication-tag">heart disease</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
 
 ---
 
-### [New HRT warning as popular drugs found to raise risk of dangerous blood clots - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
+### [New HRT warning after popular drugs found to raise risk of dangerous blood clots](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
-
----
-
-### [Millions in England unaware they have ‘silent killer’ high blood pressure, research reveals - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
-
-2026-09-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
 
 ---
 
@@ -128,7 +136,7 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWN0SFhN
 
 ### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
 
@@ -139,14 +147,6 @@ Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBra
 2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
-
----
-
-### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
-
-2026-09-23 <span class="news-indication-tag">hipertensión</span>
-
-Source: [Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 ---
 
@@ -179,14 +179,6 @@ Source: [Geo.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVE4czNEYW
 2026-09-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
-
----
-
-### [Voici le geste à ne pas négliger pour réduire le risque d’AVC et protéger votre cœur - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
-
-2026-09-20 <span class="news-indication-tag">AVC</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
 ---
 

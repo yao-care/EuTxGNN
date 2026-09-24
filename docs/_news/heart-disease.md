@@ -91,7 +91,7 @@ This page brings together the latest health news about “cardiovascular disease
 
 2026-09-24
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
 
 ---
 

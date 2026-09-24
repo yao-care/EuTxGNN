@@ -62,19 +62,27 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnFLdWVDb3I5
 
 ---
 
-### [La semaglutida podría prevenir enfermedades cardiovasculares graves con efectos más allá del control de peso](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTV0enpsZXl5b2VfN3FILU4yYnhUWkYtUDh6eGd6dzBweHJ1bnd6SVZlRnF4V3JrS2hhUEhHQVBrXy1KMmpNWEpYQ3ByLUQ3a1hiVEtxV0lRa3lUd3k0aHBjY2tOWFM2WFFqb1pQcmEzV2JDQk84RlpTTW95RTY1dnV1NDhmZjM0ZWNtUGlQNTRQaVpEN3M3aEtwUHBYM3M3cDFXLXQ4OHVFbVNqLTlnUVR2cTMtZVVCRmRiUWFUdlBLbFdJTTN5bXBOTi1lTGJ4cnU0cGZsU3BlZFllYS1zVWRoenY1U3NrcmtNbmdNbWwwVy1fdEFwdw?oc=5)
+### [Detectan un incremento de accidentes cerebrovasculares entre los jóvenes - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHgyWm5fT3NVUFB5NEFtblJxcmZmdWoyUi03QzI0QlRWckhTSlZPbWJEaF81dGlwem5HaWN5SVduVmZUcFM4Qm5zaUxhVUEzbjhIVFdvakdJRHNkYWRDZ1FSQTBoOFZVSUhKb2NJSUEzZC1yTzNHb19xRHVMd0M5SVJ1clJqSEJNT1VIaHVsNjBmbGI2c2FxOFF1NHh3c2dQYTRaTmZrcFctbjhpUTczendFdjJWQdIBsAFBVV95cUxQa21sU3NnU2pYX3ExdV83RjU0QWpMM19rek5MOXUzV0EzaHBoY1JBSE5uUEdiaVZGdVJ0NE1WVFo2QnZ3Z0FKbm85QVdXRE1xSklFb3lwLW9SX3FhN1hERmZyZlBUNFVxMGJzUHlBWFlhOGZrT3dMR3F0cmdKODkxWE56UmtuaVJxZ2o4a09EVFhoaVFvSVlQNktpZ05ZcUdGNmZWZlJFOTNUWXE1TnB2VQ?oc=5)
 
-2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-09-24 <span class="news-indication-tag">ictus</span>
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTV0enpsZXl5b2VfN3FILU4yYnhUWkYtUDh6eGd6dzBweHJ1bnd6SVZlRnF4V3JrS2hhUEhHQVBrXy1KMmpNWEpYQ3ByLUQ3a1hiVEtxV0lRa3lUd3k0aHBjY2tOWFM2WFFqb1pQcmEzV2JDQk84RlpTTW95RTY1dnV1NDhmZjM0ZWNtUGlQNTRQaVpEN3M3aEtwUHBYM3M3cDFXLXQ4OHVFbVNqLTlnUVR2cTMtZVVCRmRiUWFUdlBLbFdJTTN5bXBOTi1lTGJ4cnU0cGZsU3BlZFllYS1zVWRoenY1U3NrcmtNbmdNbWwwVy1fdEFwdw?oc=5)
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHgyWm5fT3NVUFB5NEFtblJxcmZmdWoyUi03QzI0QlRWckhTSlZPbWJEaF81dGlwem5HaWN5SVduVmZUcFM4Qm5zaUxhVUEzbjhIVFdvakdJRHNkYWRDZ1FSQTBoOFZVSUhKb2NJSUEzZC1yTzNHb19xRHVMd0M5SVJ1clJqSEJNT1VIaHVsNjBmbGI2c2FxOFF1NHh3c2dQYTRaTmZrcFctbjhpUTczendFdjJWQdIBsAFBVV95cUxQa21sU3NnU2pYX3ExdV83RjU0QWpMM19rek5MOXUzV0EzaHBoY1JBSE5uUEdiaVZGdVJ0NE1WVFo2QnZ3Z0FKbm85QVdXRE1xSklFb3lwLW9SX3FhN1hERmZyZlBUNFVxMGJzUHlBWFlhOGZrT3dMR3F0cmdKODkxWE56UmtuaVJxZ2o4a09EVFhoaVFvSVlQNktpZ05ZcUdGNmZWZlJFOTNUWXE1TnB2VQ?oc=5)
 
 ---
 
-### [Forschungsergebnisse: Das Schlaganfallrisiko erreicht seinen Höhepunkt in den ersten 3 Monaten nach der Krebsdiagnose.](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOW9nQWZqYTNKN0xnLXgxeUVZVkU2WUNKRGhsdjY4LThETmhTZm1kSjVPVVl1NlNWZkRZVERpZEhMVmxUTUhpblVGMGtxS25hZ3d1S3JwMC1VSDRzWk1qRHJYSVRPNUhRckZCaGtJY2dFZnNJQmFkMDlkbm56ekFzYUNQYXUyQTA4WmQ5VlN3SjVLcmtiMzUzb0dZdEI0ZlZjN0xJ?oc=5)
+### [Ictus prima dei 55 anni, i casi sono quasi raddoppiati: i segnali da non ignorare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
 
-2026-09-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-09-24 <span class="news-indication-tag">ictus</span>
 
-Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOW9nQWZqYTNKN0xnLXgxeUVZVkU2WUNKRGhsdjY4LThETmhTZm1kSjVPVVl1NlNWZkRZVERpZEhMVmxUTUhpblVGMGtxS25hZ3d1S3JwMC1VSDRzWk1qRHJYSVRPNUhRckZCaGtJY2dFZnNJQmFkMDlkbm56ekFzYUNQYXUyQTA4WmQ5VlN3SjVLcmtiMzUzb0dZdEI0ZlZjN0xJ?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
+
+---
+
+### [I farmaci per perdere peso associati a rischio rigurgito e aspirazione 11 volte superiore durante l'anestesia](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
+
+2026-09-24 <span class="news-indication-tag">obesità</span>
+
+Source: [fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
 
 ---
 
@@ -94,19 +102,19 @@ Source: [il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPW
 
 ---
 
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [newsandstar.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 ---
 
-### [New HRT warning as popular drugs found to raise risk of dangerous blood clots - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
+### [New HRT warning after popular drugs found to raise risk of dangerous blood clots](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
 
 ---
 
@@ -155,14 +163,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThC
 2026-09-21 <span class="news-indication-tag">AVC</span>
 
 Source: [Geo.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVE4czNEYWpYeHRtSzU1Q3IyYzhBNXJTaGU4NWx6VGxaNzVvRE9Gd3hub0JIOXczbXh2c1ljTUVocjdYMTVEQmdFS0c0bDZ3Z0ZKbEpKVkJXaXQ3dF9nWms3bUo3TFJyV0N0bVVzS2NoM0xHa3FRRk1CZ1hudVFWZlNXNm1WYTBWbXlQaE10VE5WdHVLWjYyU2tqSEo3eWZYaGpTemMycmlTVGk4TTBMdEdkeU9OYnRJTUdIb0pwZw?oc=5)
-
----
-
-### [Voici le geste à ne pas négliger pour réduire le risque d’AVC et protéger votre cœur - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
-
-2026-09-20 <span class="news-indication-tag">AVC</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
 ---
 

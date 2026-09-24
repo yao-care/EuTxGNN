@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 4 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# obesidad (obesity) News
+# obesità (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesità (obesity)?">
+<strong>obesità (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesità” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -38,11 +38,11 @@ This page brings together the latest health news about “obesidad” and lists 
 
 ## Related News (4)
 
-### [La semaglutida podría prevenir enfermedades cardiovasculares graves con efectos más allá del control de peso](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTV0enpsZXl5b2VfN3FILU4yYnhUWkYtUDh6eGd6dzBweHJ1bnd6SVZlRnF4V3JrS2hhUEhHQVBrXy1KMmpNWEpYQ3ByLUQ3a1hiVEtxV0lRa3lUd3k0aHBjY2tOWFM2WFFqb1pQcmEzV2JDQk84RlpTTW95RTY1dnV1NDhmZjM0ZWNtUGlQNTRQaVpEN3M3aEtwUHBYM3M3cDFXLXQ4OHVFbVNqLTlnUVR2cTMtZVVCRmRiUWFUdlBLbFdJTTN5bXBOTi1lTGJ4cnU0cGZsU3BlZFllYS1zVWRoenY1U3NrcmtNbmdNbWwwVy1fdEFwdw?oc=5)
+### [I farmaci per perdere peso associati a rischio rigurgito e aspirazione 11 volte superiore durante l'anestesia](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
 
 2026-09-24
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTV0enpsZXl5b2VfN3FILU4yYnhUWkYtUDh6eGd6dzBweHJ1bnd6SVZlRnF4V3JrS2hhUEhHQVBrXy1KMmpNWEpYQ3ByLUQ3a1hiVEtxV0lRa3lUd3k0aHBjY2tOWFM2WFFqb1pQcmEzV2JDQk84RlpTTW95RTY1dnV1NDhmZjM0ZWNtUGlQNTRQaVpEN3M3aEtwUHBYM3M3cDFXLXQ4OHVFbVNqLTlnUVR2cTMtZVVCRmRiUWFUdlBLbFdJTTN5bXBOTi1lTGJ4cnU0cGZsU3BlZFllYS1zVWRoenY1U3NrcmtNbmdNbWwwVy1fdEFwdw?oc=5)
+Source: [fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
 
 ---
 

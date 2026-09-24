@@ -3,7 +3,7 @@ layout: default
 title: "migraña (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraña (migraine). 5 articles, 49 related drugs."
+description: "Health news about migraña (migraine). 4 articles, 49 related drugs."
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="What news is there about migraña (migraine)?">
-<strong>migraña (migraine)</strong> currently has <strong>5 news articles</strong> and 49 related drugs.
+<strong>migraña (migraine)</strong> currently has <strong>4 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -77,7 +77,7 @@ This page brings together the latest health news about “migraña” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
 
@@ -103,19 +103,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOM
 
 ---
 
-### ["Je n’avais absolument aucune envie de manger" : de la sibutramine retrouvée dans des gélules amincissantes vendues sur les réseaux - Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
+### [« Des migraines, des vomissements… » : ces dangereux compléments amincissants à la sibutramine promus par des influenceuses - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
 
 2026-09-23
 
-Source: [Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TEhJb195dzUycGpYTHRVZzJQVm9SdnhWcDVVbWJlelZvQ2s4VmdMZHdPTGN6UXRDV1UzRzYtUWZZT2VNendwbENvaVFpME1icWE4R29rLWNHcUN5X2tUZlNBcDFnUFZiaWJMeGttLW50cnRCYS04U210dUh0UG5tVG0zMmZTbHo4dC15TlV3MUR4U2Nid2p5SV9EcTlRSUJTUDVFb3R2a2RSTm81TmRlOEhtTTRxTHctOElhVGRhUVJRMG11R2FaREF0NG5lbmw0aGpfbk5Wc054eXZPX2Y4SWl5NjBPZkxmUzlMVEdhTkh1Q1k3OC1URHRseUZ3NTVLMG13?oc=5)
-
----
-
-### [I’m a neurologist. Here’s how to prevent your next migraine - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
-
-2026-09-22
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhJQWdSdVN2UWYyVzdCeFdkNzdoVnhrdjF1NDFreUxkTE9oN25PemVPMDRURklQdkdZSVh4c0JHREFWTTZmQVRNNm1CZzNIWjFJbjJaQW1yZHRsTDE5X1NseUdScm5nZlJLZERsTEI2aWNVem5nRk9DakREWklTWFBFZDA2NUc3SDdwQnR0ODBjODlINE1JQ0FOUXh1QQ?oc=5)
+Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
 
 ---
 
