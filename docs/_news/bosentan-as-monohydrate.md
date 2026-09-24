@@ -14,7 +14,7 @@ permalink: /news/bosentan-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Bosentan (As Monohydrate)?">
-<strong>Bosentan (As Monohydrate)</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Bosentan (As Monohydrate)</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Bosentan (As Monohydrate) wi
 <p><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
+
+2026-09-24 <span class="news-indication-tag">arthritis</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
+
+---
+
+### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjVaSENnOThSYkFxVm43X3ZNaFdGMVNxV3hUa0d3OHE1TmZnVWZLYUx3VUFMVFZ6TGk3aGR3TV9MaHFhdVpMVWR3SDE5X0I5dDBsQW1GYnRsT0pZeVh4N00tMkdPcFh2UEM3WVNQVW5CbzFZS1pVa0t5SU1OR2dpT0dnTUtrYU44bkxNTGVGMUE4X3hjcVRYdTZyNTF1QmhFLUVuRURKYjRPYzNmcU5EXzMteG53MGJoZU1ubzhPc2hhS1hWd1lVRl9pX1NqM1RicS1YbzJiQXV4VDNDdHfSAeMBQVVfeXFMUFF2TDZBYndfQ3hxUUNkWFlpZVI3aC1LQVVMZ0gzNWhoR2FPM3piNk1GTmdYblI4ODg2TDJpSEZhQW01eU9HbVRyV2tQdTR6WVpKNnZObXlkVUJFLUlfX1RYbUR4LTRDcUtqT0ZxazV0TWpqVTJ5SUhFUk95THQ2YTNTX3Y0aURTMWxISnhzRmthY1pocXJENGUxVS1SRFdkekJ5TUdJV01NalFkTTZwZ1VWelJEYmVmblFDdEUtbHpNekpGZVlTUlU5em1xVUZZZ2dLck1FcEMwQzJnbFdJWThKQVE?oc=5)
+
+2026-09-23 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjVaSENnOThSYkFxVm43X3ZNaFdGMVNxV3hUa0d3OHE1TmZnVWZLYUx3VUFMVFZ6TGk3aGR3TV9MaHFhdVpMVWR3SDE5X0I5dDBsQW1GYnRsT0pZeVh4N00tMkdPcFh2UEM3WVNQVW5CbzFZS1pVa0t5SU1OR2dpT0dnTUtrYU44bkxNTGVGMUE4X3hjcVRYdTZyNTF1QmhFLUVuRURKYjRPYzNmcU5EXzMteG53MGJoZU1ubzhPc2hhS1hWd1lVRl9pX1NqM1RicS1YbzJiQXV4VDNDdHfSAeMBQVVfeXFMUFF2TDZBYndfQ3hxUUNkWFlpZVI3aC1LQVVMZ0gzNWhoR2FPM3piNk1GTmdYblI4ODg2TDJpSEZhQW01eU9HbVRyV2tQdTR6WVpKNnZObXlkVUJFLUlfX1RYbUR4LTRDcUtqT0ZxazV0TWpqVTJ5SUhFUk95THQ2YTNTX3Y0aURTMWxISnhzRmthY1pocXJENGUxVS1SRFdkekJ5TUdJV01NalFkTTZwZ1VWelJEYmVmblFDdEUtbHpNekpGZVlTUlU5em1xVUZZZ2dLck1FcEMwQzJnbFdJWThKQVE?oc=5)
+
+---
 
 ### [Ecografia rende più precisa la diagnosi precoce dell'artrite: soglie specifiche per età e articolazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
 

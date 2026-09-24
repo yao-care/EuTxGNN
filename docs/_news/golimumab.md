@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Golimumab?">
-<strong>Golimumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Golimumab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Golimumab with the latest he
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
+
+2026-09-24 <span class="news-indication-tag">arthritis</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
+
+---
 
 ### [Cómo aplacar la colitis ulcerosa, una enfermedad que inflama el intestino - EL PAÍS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1l0RG12OUNaZk9FQUs3UVAyb3hxWHhlbWsxeFU3YzNlZnB1aENWZFJ5UVA4OEFTRF9oZlRuLTZFLTd2ZzR6REhCNUdNSk91S3VfeVkwTHpyVWZMNWh3bUxubkdubkZUS1htZ252Rm54WDFsNFV2X1FKNlFiTk5KQjRmVlkweXdoR2tDTkZkRElTV2xBUW9XU1NkbmRwVnNCZUNUWVFWVTlCRnBGYm5Id3d3NmhyNG9PWTFTMExaS1VxRmt5NGfSAdoBQVVfeXFMT3BBcWxXNHgzQ2hsdDI5NEx6d1VWbDBkdmNKcVBYYnVEYTQwWUpSMUVmT2JpX2E0d1hYR0RzM01sc0FqZ3ZXRWtpZy1BWEN6dFo0aDJrOEl2OVlXR0pHeE0zMFY5aV9PWGNjREJHSWxmZDNOUUVNREF1Um9XWDB2MTNPME56NEp3dmVSNUIxb2VvaXNsaDR2NDhDd2VyWlpCM3lXYXdocmJ2NkU2NVpFNnlfbXNvV1k3VXFQdHlrS1hudnZURWJMbG94Q212MUxMeEhZSFhUcjdpRFE?oc=5)
 

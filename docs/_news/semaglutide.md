@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (13)
 
 ### [Hay varias personas que están denunciando que pierden la vista por usar Ozempic. En Europa ya conocíamos este riesgo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2U4OFI0d08xUmNDM1R3SzJpUWRnWFc5MHNhdVRsYW1CMWZPa3VfN1JQeTNleVJxTS0zYmJmNEIxTV9FQWdRTTBiZUtycVJySmdrbzY3QWx6NC05V2dmdnc3OVBWVFh0VWR6MGxQaGFCRS1HQlNObEtvQjFHd015UDR0M0pwVUYzQUpsbjMyYWR5aWM2eTA4MUxuTmNFR0IxNHlkcjFnMUYtYTZEMGw4cWtScmVpSHRtVk1OQWxnUm9vRFY2U0NVZU5na3cxWmZ4Ymw2bWhINHhtQdIB3wFBVV95cUxOdGJaRjZiUkJORHVWTEdsaVJoZVQxVWxFSU93ekpSanhDMEV5ZTJFbmI4NmxaM1U2dm5RVDhFYjlJajFQQ3BSREJydk9pNThYNGpUeVU3ZDdrUGxPU1RwLURCcGo1X2JqWnAzX1V2dzRZaE5TQlBPbDk3Y1puY0Z5RjJpMmJqUmxwR0Z6dDlHMmhiZE5HWDVaTjVQVmVXYW03MXZHNloyclktdFdBMXp5bWwyMGpuNWlqMUR3c1RlMUlJcXltUC1TX0ZCT1VLaV96OWJsN1YtdGgySzh3dXY0?oc=5)
 
@@ -62,17 +62,25 @@ Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2U4OFI0d0
 
 ---
 
-### [Pressemitteilungen Schwangerschaftsdiabetes: Warum Nachsorge so wichtig ist - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtaVdYSmRSUTlOREN1NFZZV2JfQmZYT0otMVFZeVZ3cUpqaEd3c29maUhHdWVDZHhEUEtTNjJfUDFnMGQ3MXIwUEhWZw?oc=5)
+### [Typ-2-Diabetes birgt offenbar unterschiedliche Risiken für Frauen und Männer – Studie zeigt Unterschiede](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHBNdU1KQnloc1JfRWp5UU1lMUoyX1dWdml3bjJRZ1dra3VMQ3k3a05EOU83Qk9xWmlQSGtIaVIxcnBNMEp6RTNidDBPOHRLU0cxQVJKaHpJVi1GMGZKbWo2c2lJT2w3aUI3Wk54ZkxhR0tQSHp0d25kNzhIOUs1eGRxeWpXQWg5SXBFa18xem1NTVN6VUxwNXNlUDJQampQWFdQWTZIMlM?oc=5)
+
+2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+Source: [Kreiszeitung](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHBNdU1KQnloc1JfRWp5UU1lMUoyX1dWdml3bjJRZ1dra3VMQ3k3a05EOU83Qk9xWmlQSGtIaVIxcnBNMEp6RTNidDBPOHRLU0cxQVJKaHpJVi1GMGZKbWo2c2lJT2w3aUI3Wk54ZkxhR0tQSHp0d25kNzhIOUs1eGRxeWpXQWg5SXBFa18xem1NTVN6VUxwNXNlUDJQampQWFdQWTZIMlM?oc=5)
+
+---
+
+### [Pressemitteilungen Schwangerschaftsdiabetes: Warum Nachsorge so wichtig ist - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
 
 2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtaVdYSmRSUTlOREN1NFZZV2JfQmZYT0otMVFZeVZ3cUpqaEd3c29maUhHdWVDZHhEUEtTNjJfUDFnMGQ3MXIwUEhWZw?oc=5)
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
 
 ---
 
 ### [Demenz: So wirken sich Cholesterin-Senker auf die Erkrankung aus](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2J4LVY5UFMzaDFNckVwRWwtaWZWQ2NLc05wYVl4Rm00akpnbGpOR3A5SUNGMmtyeXZhOU9DSlpUbElwak1MZi1WbUgxZndXM28zNVZPNlNLUS05d0hvTmx4cktwZk9iM2dvd1dhY0R6aWQ0Ni1HYWRvNEtXbEJjZElTN2pjVW5BWXJFazVUUTlGQlZMZG1mVkl6ZFFLeU5rbHhoem9EVGlvMXhucFNsLXhUa0pLWTFEX0xYYVdxZEN2T1NDeFhGdWQwYw?oc=5)
 
-2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-09-23 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2J4LVY5UFMzaDFNckVwRWwtaWZWQ2NLc05wYVl4Rm00akpnbGpOR3A5SUNGMmtyeXZhOU9DSlpUbElwak1MZi1WbUgxZndXM28zNVZPNlNLUS05d0hvTmx4cktwZk9iM2dvd1dhY0R6aWQ0Ni1HYWRvNEtXbEJjZElTN2pjVW5BWXJFazVUUTlGQlZMZG1mVkl6ZFFLeU5rbHhoem9EVGlvMXhucFNsLXhUa0pLWTFEX0xYYVdxZEN2T1NDeFhGdWQwYw?oc=5)
 
@@ -102,14 +110,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVp
 
 ---
 
-### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
-
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
-
----
-
 ### [Farmaci, anti-obesità semaglutide al centro della nuova protezione cardio-renale - Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
 
 2026-09-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
@@ -120,9 +120,9 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYz
 
 ### [Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span>
+2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
 ---
 
@@ -134,11 +134,27 @@ Source: [sanitainformazione.it](https://news.google.com/rss/articles/CBMiyAFBVV9
 
 ---
 
-### [Circonferenza vita e salute: Franco Berrino avverte sui rischi della circonferenza addominale. Ecco le strategie per ridurlo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRjRodE5LVUwxQzJXb1RMbF8xcnR6Q2JkYVpZWE8wZml1WTNIVmNmT3dQY0xCU25UVjNVZjJ4T2dFSHUzWWV5TXlRNjV6RzlXOFdoNmExRnUwOUFSRWpEMXpFM1d5VVAzMU5MVjZTTjc4MEowZkRmU1pFOURtcVVwZExNMHJjVkt0VFJ4dEl1WTE0Z1lSSlZFNm54Uy0yQ0t6NGVxdWZiSTNLaV92S3NlbGxISDVmYTk2UmtWcVBzb2Njd2wtc3JpbGxPMmxCNUs0bzY4NXg1TWVuNllaRFR1aUVPVHBvaVBpMC1PSHU3NW8ybFhiLV9TX0NR?oc=5)
+### [Warning to everyone who uses common lightbulbs over deadly illness - Yorkshire Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTY4MTVuODZaSUh0RTVHLTBqZEl1Z0VvQnk5MjEybjVGdk9jbW03cnZ3SHlxZ0ZjeDg4T25VcXdyQ3ExTTI5aWNBYWVyT0dPM3lfcmRxNnVzTHJUS0x4YWlmZ3ZnTDBjVFp0XzFtV2hiVWJkTzE1ZzMtOHlCbXNWWXN2cmpYRTRfazBLMFJ0dE9DZUxZT3c?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
+2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRjRodE5LVUwxQzJXb1RMbF8xcnR6Q2JkYVpZWE8wZml1WTNIVmNmT3dQY0xCU25UVjNVZjJ4T2dFSHUzWWV5TXlRNjV6RzlXOFdoNmExRnUwOUFSRWpEMXpFM1d5VVAzMU5MVjZTTjc4MEowZkRmU1pFOURtcVVwZExNMHJjVkt0VFJ4dEl1WTE0Z1lSSlZFNm54Uy0yQ0t6NGVxdWZiSTNLaV92S3NlbGxISDVmYTk2UmtWcVBzb2Njd2wtc3JpbGxPMmxCNUs0bzY4NXg1TWVuNllaRFR1aUVPVHBvaVBpMC1PSHU3NW8ybFhiLV9TX0NR?oc=5)
+Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTY4MTVuODZaSUh0RTVHLTBqZEl1Z0VvQnk5MjEybjVGdk9jbW03cnZ3SHlxZ0ZjeDg4T25VcXdyQ3ExTTI5aWNBYWVyT0dPM3lfcmRxNnVzTHJUS0x4YWlmZ3ZnTDBjVFp0XzFtV2hiVWJkTzE1ZzMtOHlCbXNWWXN2cmpYRTRfazBLMFJ0dE9DZUxZT3c?oc=5)
+
+---
+
+### [Franco Berrino: «Chi ha la pancia si ammala di più. Ecco cosa fare per ridurla» - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
+
+---
+
+### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
 
 ---
 

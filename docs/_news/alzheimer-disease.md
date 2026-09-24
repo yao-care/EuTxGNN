@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie d'Alzheimer (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 2 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
-<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ This page brings together the latest health news about “maladie d'Alzheimer”
 </ul>
 </div>
 
-## Related News (3)
-
-### [Alzheimer : ces 5 habitudes du quotidien pourraient aider à retarder la maladie - Charente Libre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmZHNzU1cEhUZ3QtQWFGVi1sblNuTUQyZ2lZRFozS3NHaFRHcXRiZFJ1cUlTOWNKVkl1Mzk3V3h5Q0QxVWxwQTFMVy1VSEZuZ1gwYXQ1THZVa1NsMlI3WFZ1VTlrRzFNR1c5a1FfWk9VZ0Y4NFV1UDR2Y094N0FZWThDdnRfYlhIMlY0cVg3eUJqZzI4MzNHckc3T0gzYWY4OFczWk4xdVp4MVh4Z0V5YTZZZmxnb1RTdDZ2TXlZRGFXWnM?oc=5)
-
-2026-09-22
-
-Source: [Charente Libre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmZHNzU1cEhUZ3QtQWFGVi1sblNuTUQyZ2lZRFozS3NHaFRHcXRiZFJ1cUlTOWNKVkl1Mzk3V3h5Q0QxVWxwQTFMVy1VSEZuZ1gwYXQ1THZVa1NsMlI3WFZ1VTlrRzFNR1c5a1FfWk9VZ0Y4NFV1UDR2Y094N0FZWThDdnRfYlhIMlY0cVg3eUJqZzI4MzNHckc3T0gzYWY4OFczWk4xdVp4MVh4Z0V5YTZZZmxnb1RTdDZ2TXlZRGFXWnM?oc=5)
-
----
+## Related News (2)
 
 ### [Smart beds and motion sensors - is this the future of dementia care?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 

@@ -54,14 +54,6 @@ This page combines the AI-predicted indications for Elbasvir with the latest hea
 
 ## Related News (13)
 
-### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
-
-2026-09-23 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
-
----
-
 ### [Un farmaco fa regredire nei topi i danni causati dalla sclerosi multipla](https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWZwOWVKNUxDUEZEcG5OSjNEajBaeHg5cWg1NWxIUUhwQ0RENDAtV05fS1pMZ2hSVEQ2eTZod1djSGJYbGY0TXVRakk3REI1OWRtcm1wQ2s0YzcydFhBSWRuZ0NVbTZubE1OQkFBcy01bV9jX2tqS0k0WUUycGR2QjJvdnZoVXVuRThHQWFJcE13RGZIMnBBUtIBaEFVX3lxTE9uT2dXa01ONFU1WDR2WVpILXZUMm9iTXRLR1pEVGQ4bUhzWmsydXVzMHVzWS1KWUJfLVVOdkRZOVB0SGJlTVB5T0RtX3VxNFdUZ2JDcHRQU0laTkVkZHA0M0M1ZFhDSjk1?oc=5)
 
 2026-09-23 <span class="news-indication-tag">sclerosi multipla</span>
@@ -78,6 +70,22 @@ Source: [AP News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXhTUXh6Y
 
 ---
 
+### [Neue Studie: Welche Ernährung hält uns jung?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdW8wN3h5ZnFMX0JRbzUwN3ZVTTZmekh5dFFUT2NDd1hpVENNOFBVNkFzaXhYckd0Vkt2dDU0VWsxWG9zSU5tVkMzTW03SV9rNF9CVXRnMmFvbTlCMnByaWt0Q2l3dFNFOHZLR2FIV2Z1aFBobHpiZHYxVFRBeW1INFZwZHRwUzVM?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span>
+
+Source: [netDoktor.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdW8wN3h5ZnFMX0JRbzUwN3ZVTTZmekh5dFFUT2NDd1hpVENNOFBVNkFzaXhYckd0Vkt2dDU0VWsxWG9zSU5tVkMzTW03SV9rNF9CVXRnMmFvbTlCMnByaWt0Q2l3dFNFOHZLR2FIV2Z1aFBobHpiZHYxVFRBeW1INFZwZHRwUzVM?oc=5)
+
+---
+
+### [New research suggests changing one thing about your walk to improve your heart health - The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVZqUkdqUG9YaEhLZ3oxV1ZrUTFiTi0wMlV3NkJqaU05VDAyTThvckd4S1ZscHI3OVcxbHBSSWVXQWhfcjlKU1JpTW8xZF82cFp2aWxpTzNmdTZXY2c0allCeS15ODFKWW9VR044TjBSdGVWaHpLYkZSbG04UkxMWDcxNFIyS0VtYmNjSU9QY2xwcmlwZ3dYZWlPWHZfbjBiRWxyNzEtZw?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVZqUkdqUG9YaEhLZ3oxV1ZrUTFiTi0wMlV3NkJqaU05VDAyTThvckd4S1ZscHI3OVcxbHBSSWVXQWhfcjlKU1JpTW8xZF82cFp2aWxpTzNmdTZXY2c0allCeS15ODFKWW9VR044TjBSdGVWaHpLYkZSbG04UkxMWDcxNFIyS0VtYmNjSU9QY2xwcmlwZ3dYZWlPWHZfbjBiRWxyNzEtZw?oc=5)
+
+---
+
 ### [Cornwall bowel cancer campaign aims to boost early diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
 
 2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -86,27 +94,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoS
 
 ---
 
-### [Demenz: So wirken sich Cholesterin-Senker auf die Erkrankung aus](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2J4LVY5UFMzaDFNckVwRWwtaWZWQ2NLc05wYVl4Rm00akpnbGpOR3A5SUNGMmtyeXZhOU9DSlpUbElwak1MZi1WbUgxZndXM28zNVZPNlNLUS05d0hvTmx4cktwZk9iM2dvd1dhY0R6aWQ0Ni1HYWRvNEtXbEJjZElTN2pjVW5BWXJFazVUUTlGQlZMZG1mVkl6ZFFLeU5rbHhoem9EVGlvMXhucFNsLXhUa0pLWTFEX0xYYVdxZEN2T1NDeFhGdWQwYw?oc=5)
-
-2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2J4LVY5UFMzaDFNckVwRWwtaWZWQ2NLc05wYVl4Rm00akpnbGpOR3A5SUNGMmtyeXZhOU9DSlpUbElwak1MZi1WbUgxZndXM28zNVZPNlNLUS05d0hvTmx4cktwZk9iM2dvd1dhY0R6aWQ0Ni1HYWRvNEtXbEJjZElTN2pjVW5BWXJFazVUUTlGQlZMZG1mVkl6ZFFLeU5rbHhoem9EVGlvMXhucFNsLXhUa0pLWTFEX0xYYVdxZEN2T1NDeFhGdWQwYw?oc=5)
-
----
-
-### [Mémoire après 60 ans : ces exercices tout simples à pratiquer 15 minutes par jour - Pleine Vie](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGU5cjAyZ0c2cDVtd1ZBc0piU21zRkw1ZHFPVUZ1WmV5dG1scEhmRXJRSWN2eGFGd0hsNEpUd3E5ZTVGQ25WaGxPLWppSkg3YW1ZY1JoOG45WUR0bHFrOWR1bTFJTW85Qlc1cEFWYjJYR0xYRHcyajZjMkVtQi1hNE9EWi1maTYtbENlczVSdmZ6Nm9YektrM3JwdFRRNXhsaWppUUthdV9jb0U4bVVlbzlCUUN4Sjh2T3VuMzdkTjV5OTNzSkJr?oc=5)
+### [Mémoire après 60 ans : ces exercices tout simples à pratiquer 15 minutes par jour](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGU5cjAyZ0c2cDVtd1ZBc0piU21zRkw1ZHFPVUZ1WmV5dG1scEhmRXJRSWN2eGFGd0hsNEpUd3E5ZTVGQ25WaGxPLWppSkg3YW1ZY1JoOG45WUR0bHFrOWR1bTFJTW85Qlc1cEFWYjJYR0xYRHcyajZjMkVtQi1hNE9EWi1maTYtbENlczVSdmZ6Nm9YektrM3JwdFRRNXhsaWppUUthdV9jb0U4bVVlbzlCUUN4Sjh2T3VuMzdkTjV5OTNzSkJr?oc=5)
 
 2026-09-23 <span class="news-indication-tag">MS</span>
 
-Source: [Pleine Vie](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGU5cjAyZ0c2cDVtd1ZBc0piU21zRkw1ZHFPVUZ1WmV5dG1scEhmRXJRSWN2eGFGd0hsNEpUd3E5ZTVGQ25WaGxPLWppSkg3YW1ZY1JoOG45WUR0bHFrOWR1bTFJTW85Qlc1cEFWYjJYR0xYRHcyajZjMkVtQi1hNE9EWi1maTYtbENlczVSdmZ6Nm9YektrM3JwdFRRNXhsaWppUUthdV9jb0U4bVVlbzlCUUN4Sjh2T3VuMzdkTjV5OTNzSkJr?oc=5)
-
----
-
-### [Warning items in supermarket meal deals lead to heart attacks and strokes - Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeWZsMGlQLVdNSVlMTzZKbF9lYVA3ZEREYk1UQTdqSXFVSV94WTE5enlGWGVuR3c5TmZoenllYUcwYk1YdFB2ZXJ4aFQ4QzVyOThXdDJZaEFyNksyME5na3U0WjBiZFFCc0taemsxQmFDWDB5bktYajZFSVF0QdIBgwFBVV95cUxPNWlqVVloY01xNlJ0ZUVBRVFidC0zM0d0VWtzMTZMdHBxYW94LUJrYXRvQ0diSjlpVTNTVWJUZjB2WDNkYXEwcmp1aUNMQ0RIZ0NsNlhSWmExdTRHODBKSWJHNE5WRHJ6MkdYMjI5SjNCTXhuMFd0ZzhqMnBuZU9zeVJvdw?oc=5)
-
-2026-09-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeWZsMGlQLVdNSVlMTzZKbF9lYVA3ZEREYk1UQTdqSXFVSV94WTE5enlGWGVuR3c5TmZoenllYUcwYk1YdFB2ZXJ4aFQ4QzVyOThXdDJZaEFyNksyME5na3U0WjBiZFFCc0taemsxQmFDWDB5bktYajZFSVF0QdIBgwFBVV95cUxPNWlqVVloY01xNlJ0ZUVBRVFidC0zM0d0VWtzMTZMdHBxYW94LUJrYXRvQ0diSjlpVTNTVWJUZjB2WDNkYXEwcmp1aUNMQ0RIZ0NsNlhSWmExdTRHODBKSWJHNE5WRHJ6MkdYMjI5SjNCTXhuMFd0ZzhqMnBuZU9zeVJvdw?oc=5)
+Source: [pleinevie.fr](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGU5cjAyZ0c2cDVtd1ZBc0piU21zRkw1ZHFPVUZ1WmV5dG1scEhmRXJRSWN2eGFGd0hsNEpUd3E5ZTVGQ25WaGxPLWppSkg3YW1ZY1JoOG45WUR0bHFrOWR1bTFJTW85Qlc1cEFWYjJYR0xYRHcyajZjMkVtQi1hNE9EWi1maTYtbENlczVSdmZ6Nm9YektrM3JwdFRRNXhsaWppUUthdV9jb0U4bVVlbzlCUUN4Sjh2T3VuMzdkTjV5OTNzSkJr?oc=5)
 
 ---
 
@@ -115,6 +107,14 @@ Source: [Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeWZs
 2026-09-22 <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0NldjdBZkxkS3hkeWowVFVmWEZMZ1JMM0RUbFN2UnFDVVo2dTd1ZlN5OUpOQngwWUphOXNDSTMzdENVc1N3UGhpT2xYaUROaXByLTZKRy1vcVNUdGUxeUhmZUtqbV9fWmVvcVZVMFNidVo2cXVINUQyRVIzREthQzJHU3VjVkxBYUlxOHVXNHRyUDkxcnN6T1Fhb2Y?oc=5)
+
+---
+
+### [« C’est insupportable » : 7 Strasbourgeois(es) racontent l’enfer du bruit dans les trams & bus](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzZwY2VJREpkbHp6Z3lJd0VGLUJPS0lCck5sSEN5WmxDTVBvaUxLU2JmZDRuSWVCMndBMUFrRXo0TW5QaUR3NjhqZ1Y3aTlmT19vTDI2TGU2YlRFMnFPLU5ORWd4MVhJN1BaXzg1emplSWRUNTJDclkwR090d2g4TnhFS1g5bXRfS3ZZdERwU3MtYlZORkI2YlZ4bGlSS1BKWXpOZ0hScGRfTGEzdU8zMw?oc=5)
+
+2026-09-22 <span class="news-indication-tag">MS</span>
+
+Source: [pokaa.fr](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzZwY2VJREpkbHp6Z3lJd0VGLUJPS0lCck5sSEN5WmxDTVBvaUxLU2JmZDRuSWVCMndBMUFrRXo0TW5QaUR3NjhqZ1Y3aTlmT19vTDI2TGU2YlRFMnFPLU5ORWd4MVhJN1BaXzg1emplSWRUNTJDclkwR090d2g4TnhFS1g5bXRfS3ZZdERwU3MtYlZORkI2YlZ4bGlSS1BKWXpOZ0hScGRfTGEzdU8zMw?oc=5)
 
 ---
 
@@ -134,27 +134,27 @@ Source: [BornCity](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1VoYi12
 
 ---
 
-### [Biologisches Alter: Gesunde Ernährung verzögert Alterung um Jahre](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2JrbEZCUmI2QTdMT21udHphdzJNQzRLNFJLNmIwX0xGU3RZUmZwVnBEZ2hJU2NwM3lmV1VrTnRCWWEyYzlWQTVGR1diWnM0SDRUVmE5dEJmc0c2ckhTa0gyaUhISDRLZVp4QXpHYkoxd3J1U2lGUElHcFVTdmpObDg2SDVqUk5KaW1QVWZBMDBNS0hPMTVLaQ?oc=5)
+### [Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
-2026-09-22 <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-Source: [BornCity](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2JrbEZCUmI2QTdMT21udHphdzJNQzRLNFJLNmIwX0xGU3RZUmZwVnBEZ2hJU2NwM3lmV1VrTnRCWWEyYzlWQTVGR1diWnM0SDRUVmE5dEJmc0c2ckhTa0gyaUhISDRLZVp4QXpHYkoxd3J1U2lGUElHcFVTdmpObDg2SDVqUk5KaW1QVWZBMDBNS0hPMTVLaQ?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
 ---
 
-### ['It isn't everyone': Cardiologist reveals who actually needs a Vitamin D supplement - Daily Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0tVQ2ZENG9lM3hrczdObG9RWXd5SDk5WG1zZmpmS2lPYnVLT2ZFR2FrTjVzOV9LNVVqX3pNWnVsSVQ2cXM4UnNpRjNOVkdYZ01kNGtaS1dmdkxxMmRuZzJQRF9nZnNqY1p3NUtiOGViLUN1ZElsakhKSzZiR1cxODJmR3pYeU12ZXBV?oc=5)
+### [Prävention: Epigenetik beeinflusst möglicherweise den Schutz vor Typ-2-Diabetes](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQxcmtvQzlOcnFKZ2lHNEh1cjMyMXQyYm9BaDZpU2hhRzlXU1VXdTY4V0R4TExQZnhuX1ZZelFmSEZEZU9SNEhSc1VEa2xZRENWT2xlc3hLcFVqOXlXNmluNjNVSmYzYUgwam5iT0JES2tvY0JjZDUxLVR1WmVIcHlJT2NwWUdTZFBfZHR2STJ4NnFySWN4WkxNZnRTeFk?oc=5)
+
+---
+
+### ['It isn't everyone': Cardiologist reveals who actually needs a Vitamin D supplement - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0tVQ2ZENG9lM3hrczdObG9RWXd5SDk5WG1zZmpmS2lPYnVLT2ZFR2FrTjVzOV9LNVVqX3pNWnVsSVQ2cXM4UnNpRjNOVkdYZ01kNGtaS1dmdkxxMmRuZzJQRF9nZnNqY1p3NUtiOGViLUN1ZElsakhKSzZiR1cxODJmR3pYeU12ZXBV?oc=5)
 
 2026-09-19 <span class="news-indication-tag">MS</span>
 
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0tVQ2ZENG9lM3hrczdObG9RWXd5SDk5WG1zZmpmS2lPYnVLT2ZFR2FrTjVzOV9LNVVqX3pNWnVsSVQ2cXM4UnNpRjNOVkdYZ01kNGtaS1dmdkxxMmRuZzJQRF9nZnNqY1p3NUtiOGViLUN1ZElsakhKSzZiR1cxODJmR3pYeU12ZXBV?oc=5)
-
----
-
-### [How a traditional Nordic way of eating could help you live longer](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjhjeHRXcTJucjFnckxaUDdSQVg1MU9qb0UzOVhiUHBmLUZqai1XN2pfWkFXYmFzRy0tU044M1VqakoyaGdRRkhZbWlFQTZabzhIcmxMU1dNN3B6VEVLNkxyaWJVUUZQZEdEdFQxai1LUVY0T0tmYmhpVExURkh1dFpPalAwb0JlanFIcTBHTDJVR1VDZkhEc0JsSHNReFY3dWc?oc=5)
-
-2026-09-18 <span class="news-indication-tag">MS</span>
-
-Source: [theconversation.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjhjeHRXcTJucjFnckxaUDdSQVg1MU9qb0UzOVhiUHBmLUZqai1XN2pfWkFXYmFzRy0tU044M1VqakoyaGdRRkhZbWlFQTZabzhIcmxMU1dNN3B6VEVLNkxyaWJVUUZQZEdEdFQxai1LUVY0T0tmYmhpVExURkh1dFpPalAwb0JlanFIcTBHTDJVR1VDZkhEc0JsSHNReFY3dWc?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0tVQ2ZENG9lM3hrczdObG9RWXd5SDk5WG1zZmpmS2lPYnVLT2ZFR2FrTjVzOV9LNVVqX3pNWnVsSVQ2cXM4UnNpRjNOVkdYZ01kNGtaS1dmdkxxMmRuZzJQRF9nZnNqY1p3NUtiOGViLUN1ZElsakhKSzZiR1cxODJmR3pYeU12ZXBV?oc=5)
 
 ---
 

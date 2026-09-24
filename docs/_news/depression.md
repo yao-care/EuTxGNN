@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 1 articles, 7 related drugs."
+description: "Health news about depresión (depression). 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>1 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Más de diez años para diagnosticar el síndrome de piernas inquietas: "En niños se confunde con dolores del crecimiento"](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQS15dkZGVi1la3ROSkFXTHJNSGRTRkVCclc0MkU2elE5a21YTUtOM1l2MFlscjA2OU5QY2dwMmgxTDNlZEcxczNoT2h0TjRZUE83X3FiNFpoV0Rrc3ZGUmZiaF9MSExMWmhybUZOR21MMTctTlp6dkdOUGNlb25hVlAxclh2SnpmcHBOanpzNUNDMEd5TEdhbThwWVREeXNKb0R6emU3WXRNbXQ5NWR4VWdycUtfY29FREtKUEtvOUhCaXFYTlZMRTN1RmpJLUptN3l1RkpWcUxUYUc2Nkd4bUxZd0JQczg?oc=5)
 
 2026-09-23
 
 Source: [consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQS15dkZGVi1la3ROSkFXTHJNSGRTRkVCclc0MkU2elE5a21YTUtOM1l2MFlscjA2OU5QY2dwMmgxTDNlZEcxczNoT2h0TjRZUE83X3FiNFpoV0Rrc3ZGUmZiaF9MSExMWmhybUZOR21MMTctTlp6dkdOUGNlb25hVlAxclh2SnpmcHBOanpzNUNDMEd5TEdhbThwWVREeXNKb0R6emU3WXRNbXQ5NWR4VWdycUtfY29FREtKUEtvOUhCaXFYTlZMRTN1RmpJLUptN3l1RkpWcUxUYUc2Nkd4bUxZd0JQczg?oc=5)
+
+---
+
+### [Kunsttherapie: 149 Studien zeigen messbare Erfolge bei Angst und Depression - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUGtQS3BITW5Nd0tVRDY5UzJDN05BZkhBOVJlYkdTM1d1dVJGUWJaMU91czZja1dMaXU5X3VhOGQ3QU1nUFZhdkNYTGp3WmFlVnpRSkFsYmtxbllHWkRUMU51UzluZlphcFl1N19fN29iTmswbEpJMVZEUG9UTjFtczRsQUs3TXE2cVpuQWhaX3FRWDZjcm1XRThFOEpMdFhueWNFQVQtVktvaHFaYjBqemFn?oc=5)
+
+2026-09-22
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUGtQS3BITW5Nd0tVRDY5UzJDN05BZkhBOVJlYkdTM1d1dVJGUWJaMU91czZja1dMaXU5X3VhOGQ3QU1nUFZhdkNYTGp3WmFlVnpRSkFsYmtxbllHWkRUMU51UzluZlphcFl1N19fN29iTmswbEpJMVZEUG9UTjFtczRsQUs3TXE2cVpuQWhaX3FRWDZjcm1XRThFOEpMdFhueWNFQVQtVktvaHFaYjBqemFn?oc=5)
 
 ---
 

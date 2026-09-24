@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (9)
 
 ### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
 
-2026-09-23 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-09-24 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
 
@@ -78,11 +78,11 @@ Source: [Valencia Plaza](https://news.google.com/rss/articles/CBMimgJBVV95cUxObE
 
 ---
 
-### [Cuando la obesidad se convierte en contenido, crecen el estigma y la desinformación - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
+### [Daily Stress May Drive Lasting Structural Changes in Your Heart, Increasing Stroke Risk](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
 
-2026-09-23 <span class="news-indication-tag">obesidad</span>
+2026-09-23 <span class="news-indication-tag">stroke</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
 
 ---
 
@@ -94,35 +94,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mR
 
 ---
 
-### [Warning items in supermarket meal deals lead to heart attacks and strokes - Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeWZsMGlQLVdNSVlMTzZKbF9lYVA3ZEREYk1UQTdqSXFVSV94WTE5enlGWGVuR3c5TmZoenllYUcwYk1YdFB2ZXJ4aFQ4QzVyOThXdDJZaEFyNksyME5na3U0WjBiZFFCc0taemsxQmFDWDB5bktYajZFSVF0QdIBgwFBVV95cUxPNWlqVVloY01xNlJ0ZUVBRVFidC0zM0d0VWtzMTZMdHBxYW94LUJrYXRvQ0diSjlpVTNTVWJUZjB2WDNkYXEwcmp1aUNMQ0RIZ0NsNlhSWmExdTRHODBKSWJHNE5WRHJ6MkdYMjI5SjNCTXhuMFd0ZzhqMnBuZU9zeVJvdw?oc=5)
-
-2026-09-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeWZsMGlQLVdNSVlMTzZKbF9lYVA3ZEREYk1UQTdqSXFVSV94WTE5enlGWGVuR3c5TmZoenllYUcwYk1YdFB2ZXJ4aFQ4QzVyOThXdDJZaEFyNksyME5na3U0WjBiZFFCc0taemsxQmFDWDB5bktYajZFSVF0QdIBgwFBVV95cUxPNWlqVVloY01xNlJ0ZUVBRVFidC0zM0d0VWtzMTZMdHBxYW94LUJrYXRvQ0diSjlpVTNTVWJUZjB2WDNkYXEwcmp1aUNMQ0RIZ0NsNlhSWmExdTRHODBKSWJHNE5WRHJ6MkdYMjI5SjNCTXhuMFd0ZzhqMnBuZU9zeVJvdw?oc=5)
-
----
-
-### [La Lombardia approva la legge sull’obesità: farmaci gratis per i casi gravi - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnUycTZUUy1nSkdHWnhYVFdYX0k4MDd3aFh0VG4yWkNmNjBNeXN4TzFtMTAxM182S29HZHNFdGJueU5TLUxCNzk5SW5rb3JjeW96RGlmTmpuM3g0X09GMms2R242aVZLRWd0S3hRajlVSWZ0VzBiakV6cFZSbE5yRW5seUhicmxkZndoWFNlN0hOd0xEbm4yNHJQbG1VVmI4ZzdTZUYtXzQ0WFdjRmtqRnVUZ0c4MzBzaTJTaEIzXzRZS1ZpY1VRdnM5NURyaUhMWmNwQjlkc1Q?oc=5)
-
-2026-09-22 <span class="news-indication-tag">obesità</span>
-
-Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnUycTZUUy1nSkdHWnhYVFdYX0k4MDd3aFh0VG4yWkNmNjBNeXN4TzFtMTAxM182S29HZHNFdGJueU5TLUxCNzk5SW5rb3JjeW96RGlmTmpuM3g0X09GMms2R242aVZLRWd0S3hRajlVSWZ0VzBiakV6cFZSbE5yRW5seUhicmxkZndoWFNlN0hOd0xEbm4yNHJQbG1VVmI4ZzdTZUYtXzQ0WFdjRmtqRnVUZ0c4MzBzaTJTaEIzXzRZS1ZpY1VRdnM5NURyaUhMWmNwQjlkc1Q?oc=5)
-
----
-
 ### [“Solo una sbornia”, i medici non riconobbero ictus e la paziente è paralizzata: “Ora paghino danni” - la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUVvWlg3S0F3SkdsZW9RQy0yQVIxNEJYNThSUDJQTTFQd001bjc3T0IwX2Q5SGVHbVdXWllNX0JRTDZjTkk0TDMwU2piYnNCbHU4cVZGZXlOZ3RIbEhNWWVDSmpRNFdtaFdkUG9wUUwyNF9mUHNncktXRW13S2tpNlpDblR4cDBRZm1ZNHZITU5STkxXZ2NGRDBON1VPZnNMWDhTZHBLWlRtMXVGTGNCUGtrb2FsZVkwc1BnQk80M0Vadm5GeVR6S2l2RlFnVnZjMGs1LTA3a0VORFZQM0ZfQUNJZEJ1TVhtVHVv0gHwAUFVX3lxTE5lU2xocnBsVEI5eXNPZUFDQlBUcDJaOVhOc3NadVlXbGRJS1BtcVI3RlF0MVlQQW1LcUx1T2lDNk5acGhfd0JOcHB5eThaUWNkVUNWWEJzZk9DYXdfZmdlRWJMeDlCRlFiVEg1bXdXbHdpcnY2VGM2VDlNblFmX1ZXQjFWVGNhNmtzbUVjT1FxUFI2dGlVZzg0d2pfRnRlenhGWGJLZ190VmtGbnJmeVVzWHJ5RlQ5ZEhoNGFnQUJQM1FqcFM3ZHZVem1yd0ZsQ2xvZ3dnbnF0U2Y4Znp5UHBpSjVqdDFZNlhha1BnRW5xdg?oc=5)
 
 2026-09-22 <span class="news-indication-tag">ictus</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUVvWlg3S0F3SkdsZW9RQy0yQVIxNEJYNThSUDJQTTFQd001bjc3T0IwX2Q5SGVHbVdXWllNX0JRTDZjTkk0TDMwU2piYnNCbHU4cVZGZXlOZ3RIbEhNWWVDSmpRNFdtaFdkUG9wUUwyNF9mUHNncktXRW13S2tpNlpDblR4cDBRZm1ZNHZITU5STkxXZ2NGRDBON1VPZnNMWDhTZHBLWlRtMXVGTGNCUGtrb2FsZVkwc1BnQk80M0Vadm5GeVR6S2l2RlFnVnZjMGs1LTA3a0VORFZQM0ZfQUNJZEJ1TVhtVHVv0gHwAUFVX3lxTE5lU2xocnBsVEI5eXNPZUFDQlBUcDJaOVhOc3NadVlXbGRJS1BtcVI3RlF0MVlQQW1LcUx1T2lDNk5acGhfd0JOcHB5eThaUWNkVUNWWEJzZk9DYXdfZmdlRWJMeDlCRlFiVEg1bXdXbHdpcnY2VGM2VDlNblFmX1ZXQjFWVGNhNmtzbUVjT1FxUFI2dGlVZzg0d2pfRnRlenhGWGJLZ190VmtGbnJmeVVzWHJ5RlQ5ZEhoNGFnQUJQM1FqcFM3ZHZVem1yd0ZsQ2xvZ3dnbnF0U2Y4Znp5UHBpSjVqdDFZNlhha1BnRW5xdg?oc=5)
-
----
-
-### [The deadly risk of ‘STOPPING fat jabs revealed’ – as 2 killers can strike up to 2 years later - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
-
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNlFKbUdONkdPdFlzMTExb2dIaVZ2dGdyWXl4S1FETEEzSDQzZmVtT0pGVlJhV3RkR2FuV3ZMZnRQXzB6aEhuQnZ6UkFQT3BlTHhuYS1IZ1NMNHgta2hna3ZvQUpmcS0ySFFvbF9qWENzTlZ3blg0TGVyTnZHSTNJTWY3NA?oc=5)
 
 ---
 
@@ -142,11 +118,11 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYz
 
 ---
 
-### [Voici le geste à ne pas négliger pour réduire le risque d’AVC et protéger votre cœur](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
+### [Voici le geste à ne pas négliger pour réduire le risque d’AVC et protéger votre cœur - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
 2026-09-20 <span class="news-indication-tag">AVC</span>
 
-Source: [futura-sciences.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaS13T2xqRjFYT293NHc2ZjBHcTVvcFROaE9aazEzeUZPNDNQWE8wdU9kRm5penZFNTZBbjhicXNDMUNzUThueElZY3Y1dlBvYTQxNU5CdUJsckFrbUdNZkptNGZWVEUwaWNIRm9NWi1BQkN6dUJnZzZRWU1sM2JGX2VGcl9iRzlsT3AzMHdVZE9nSmxIbFJxaDdpenJMWHA2TDJ0eFFtSUdSVTVzdGdyMnBZYnJudWd0QjFfYUhzZVd0ZGU4aDlkMGt4VGp0VUE1?oc=5)
 
 ---
 

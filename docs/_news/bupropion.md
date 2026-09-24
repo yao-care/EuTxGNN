@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Bupropion</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (2)
 
 ### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
 
 2026-09-23 <span class="news-indication-tag">obesidad</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
----
-
-### [Cuando la obesidad se convierte en contenido, crecen el estigma y la desinformación - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2Y5eHhFZ1lqdDFQMVU3eEQtem1TZTFsVG5zQ0o1UTJPUklheDh1VGU1eWRtZmZDN0xQSXlnREJPaFBkbUIxMThtbUxLTm1zVUY2Z21FX0RpaDdSQzlXOERxUGI0dDQ2TDVuUzVZa04zZ0JkRWotdFNFbEdLS0tRUHZ5Q1dSSFVCVUdIOVk3U0xDYk5yOXhPSGNqYmNwTUZHTVdOSHNHUnFpNThNUVc5UnhYRFh6clVrQTVVV0Y0azVFQdIBvAFBVV95cUxPdVo0OVNvNzdxdjl5NlpFUGxFZHB2Ul94dDIwQnVvelhfb3dCUUNWNWNnVEhXdHZQSjE4SHM0Q2UzbkM0LUNrNk5MOV96SjVHMjRvWm14Q01JUUZuc2VkZDVDYzMtODdLWjN2dGFCUm03Xy1Fc0FsTFJESXpIbGlTdmhoYk9UeC10YmpKZ0UtU0dqM19XZXdxekJaRWxLR0ZBbktQNWNUN2NKa20zcUd0bndWazNtYWNYRllIZg?oc=5)
-
----
-
-### [La Lombardia approva la legge sull’obesità: farmaci gratis per i casi gravi - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnUycTZUUy1nSkdHWnhYVFdYX0k4MDd3aFh0VG4yWkNmNjBNeXN4TzFtMTAxM182S29HZHNFdGJueU5TLUxCNzk5SW5rb3JjeW96RGlmTmpuM3g0X09GMms2R242aVZLRWd0S3hRajlVSWZ0VzBiakV6cFZSbE5yRW5seUhicmxkZndoWFNlN0hOd0xEbm4yNHJQbG1VVmI4ZzdTZUYtXzQ0WFdjRmtqRnVUZ0c4MzBzaTJTaEIzXzRZS1ZpY1VRdnM5NURyaUhMWmNwQjlkc1Q?oc=5)
-
-2026-09-22 <span class="news-indication-tag">obesità</span>
-
-Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnUycTZUUy1nSkdHWnhYVFdYX0k4MDd3aFh0VG4yWkNmNjBNeXN4TzFtMTAxM182S29HZHNFdGJueU5TLUxCNzk5SW5rb3JjeW96RGlmTmpuM3g0X09GMms2R242aVZLRWd0S3hRajlVSWZ0VzBiakV6cFZSbE5yRW5seUhicmxkZndoWFNlN0hOd0xEbm4yNHJQbG1VVmI4ZzdTZUYtXzQ0WFdjRmtqRnVUZ0c4MzBzaTJTaEIzXzRZS1ZpY1VRdnM5NURyaUhMWmNwQjlkc1Q?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione (hypertension) News"
+title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 2 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# ipertensione (hypertension) News
+# hipertensión (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
+<strong>hipertensión (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ipertensione” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjVaSENnOThSYkFxVm43X3ZNaFdGMVNxV3hUa0d3OHE1TmZnVWZLYUx3VUFMVFZ6TGk3aGR3TV9MaHFhdVpMVWR3SDE5X0I5dDBsQW1GYnRsT0pZeVh4N00tMkdPcFh2UEM3WVNQVW5CbzFZS1pVa0t5SU1OR2dpT0dnTUtrYU44bkxNTGVGMUE4X3hjcVRYdTZyNTF1QmhFLUVuRURKYjRPYzNmcU5EXzMteG53MGJoZU1ubzhPc2hhS1hWd1lVRl9pX1NqM1RicS1YbzJiQXV4VDNDdHfSAeMBQVVfeXFMUFF2TDZBYndfQ3hxUUNkWFlpZVI3aC1LQVVMZ0gzNWhoR2FPM3piNk1GTmdYblI4ODg2TDJpSEZhQW01eU9HbVRyV2tQdTR6WVpKNnZObXlkVUJFLUlfX1RYbUR4LTRDcUtqT0ZxazV0TWpqVTJ5SUhFUk95THQ2YTNTX3Y0aURTMWxISnhzRmthY1pocXJENGUxVS1SRFdkekJ5TUdJV01NalFkTTZwZ1VWelJEYmVmblFDdEUtbHpNekpGZVlTUlU5em1xVUZZZ2dLck1FcEMwQzJnbFdJWThKQVE?oc=5)
+
+2026-09-23
+
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjVaSENnOThSYkFxVm43X3ZNaFdGMVNxV3hUa0d3OHE1TmZnVWZLYUx3VUFMVFZ6TGk3aGR3TV9MaHFhdVpMVWR3SDE5X0I5dDBsQW1GYnRsT0pZeVh4N00tMkdPcFh2UEM3WVNQVW5CbzFZS1pVa0t5SU1OR2dpT0dnTUtrYU44bkxNTGVGMUE4X3hjcVRYdTZyNTF1QmhFLUVuRURKYjRPYzNmcU5EXzMteG53MGJoZU1ubzhPc2hhS1hWd1lVRl9pX1NqM1RicS1YbzJiQXV4VDNDdHfSAeMBQVVfeXFMUFF2TDZBYndfQ3hxUUNkWFlpZVI3aC1LQVVMZ0gzNWhoR2FPM3piNk1GTmdYblI4ODg2TDJpSEZhQW01eU9HbVRyV2tQdTR6WVpKNnZObXlkVUJFLUlfX1RYbUR4LTRDcUtqT0ZxazV0TWpqVTJ5SUhFUk95THQ2YTNTX3Y0aURTMWxISnhzRmthY1pocXJENGUxVS1SRFdkekJ5TUdJV01NalFkTTZwZ1VWelJEYmVmblFDdEUtbHpNekpGZVlTUlU5em1xVUZZZ2dLck1FcEMwQzJnbFdJWThKQVE?oc=5)
+
+---
 
 ### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
 
