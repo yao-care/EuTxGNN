@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine Hydrochloride?">
-<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+
+---
+
+### [Millions in England unaware they have ‘silent killer’ high blood pressure, research reveals - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
+
+2026-09-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ Source: [Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxNN0R5TE
 
 ---
 
-### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjVaSENnOThSYkFxVm43X3ZNaFdGMVNxV3hUa0d3OHE1TmZnVWZLYUx3VUFMVFZ6TGk3aGR3TV9MaHFhdVpMVWR3SDE5X0I5dDBsQW1GYnRsT0pZeVh4N00tMkdPcFh2UEM3WVNQVW5CbzFZS1pVa0t5SU1OR2dpT0dnTUtrYU44bkxNTGVGMUE4X3hjcVRYdTZyNTF1QmhFLUVuRURKYjRPYzNmcU5EXzMteG53MGJoZU1ubzhPc2hhS1hWd1lVRl9pX1NqM1RicS1YbzJiQXV4VDNDdHfSAeMBQVVfeXFMUFF2TDZBYndfQ3hxUUNkWFlpZVI3aC1LQVVMZ0gzNWhoR2FPM3piNk1GTmdYblI4ODg2TDJpSEZhQW01eU9HbVRyV2tQdTR6WVpKNnZObXlkVUJFLUlfX1RYbUR4LTRDcUtqT0ZxazV0TWpqVTJ5SUhFUk95THQ2YTNTX3Y0aURTMWxISnhzRmthY1pocXJENGUxVS1SRFdkekJ5TUdJV01NalFkTTZwZ1VWelJEYmVmblFDdEUtbHpNekpGZVlTUlU5em1xVUZZZ2dLck1FcEMwQzJnbFdJWThKQVE?oc=5)
+### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 2026-09-23 <span class="news-indication-tag">hipertensión</span>
 
-Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjVaSENnOThSYkFxVm43X3ZNaFdGMVNxV3hUa0d3OHE1TmZnVWZLYUx3VUFMVFZ6TGk3aGR3TV9MaHFhdVpMVWR3SDE5X0I5dDBsQW1GYnRsT0pZeVh4N00tMkdPcFh2UEM3WVNQVW5CbzFZS1pVa0t5SU1OR2dpT0dnTUtrYU44bkxNTGVGMUE4X3hjcVRYdTZyNTF1QmhFLUVuRURKYjRPYzNmcU5EXzMteG53MGJoZU1ubzhPc2hhS1hWd1lVRl9pX1NqM1RicS1YbzJiQXV4VDNDdHfSAeMBQVVfeXFMUFF2TDZBYndfQ3hxUUNkWFlpZVI3aC1LQVVMZ0gzNWhoR2FPM3piNk1GTmdYblI4ODg2TDJpSEZhQW01eU9HbVRyV2tQdTR6WVpKNnZObXlkVUJFLUlfX1RYbUR4LTRDcUtqT0ZxazV0TWpqVTJ5SUhFUk95THQ2YTNTX3Y0aURTMWxISnhzRmthY1pocXJENGUxVS1SRFdkekJ5TUdJV01NalFkTTZwZ1VWelJEYmVmblFDdEUtbHpNekpGZVlTUlU5em1xVUZZZ2dLck1FcEMwQzJnbFdJWThKQVE?oc=5)
-
----
-
-### [What your boob SIZE can reveal about your health – from migraines to snoring and cancer - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
-
-2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRQeVlQSHp4NXZwOEZ5TlZreW1YLWNLbmJoNmZRSnVnZUptbV9SSEhES0FqVUN3VWtMLTFJblhZZkUxRkdQci1NUHRxckhqS3laSll4eTRVWDNYa3BxVUx0ZWJlNHgyYWhzdnVpRnNMWi0wak96b3VBQ0Jnc1VvSG8yNllJeDd3RUg4aw?oc=5)
-
----
-
-### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
-
-2026-09-22 <span class="news-indication-tag">ipertensione</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+Source: [noticiasdegipuzkoa.eus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 ---
 

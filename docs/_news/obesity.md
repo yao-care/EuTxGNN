@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 2 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 3 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
 
 2026-09-23
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
+
+---
+
+### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
+
+2026-09-22
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
 ---
 

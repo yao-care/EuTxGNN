@@ -14,7 +14,7 @@ permalink: /news/adalimumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Adalimumab?">
-<strong>Adalimumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Adalimumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Adalimumab with the latest h
 <p><a href="{{ '/drugs/adalimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
 
@@ -67,14 +67,6 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNW
 2026-09-23 <span class="news-indication-tag">artrite</span> <span class="news-indication-tag">AF</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFPZE1jRGRXS3NmX2w2SzFxOWZBVmYtb19pakgxM1BuSzF3RTl4V3Jndi1vRE1POVZIMFAtQ3hTUlZseXVKWFdSa2NaUzlaYUlqeGllRmVvZ1dQcDEtVU91bWlRaTZJQTFGRDR3cGxmNXZwSGdsN1B3OUwyTHkxaG10eUI1c1pjVDIzQUtPWEJ1YUtJUFVVOEtSRU93RE5xSFFXMWd6VlVkUDVPLTNhekEwUk1mQW9NMVJCVW8xd0FNLS1Ka2pUaURndmxEYnIwdTY3QTdiVUU4aEdGNHFfZXlHUk56NVotYnp3QVlJdy1GRDl3?oc=5)
-
----
-
-### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">arthritis</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

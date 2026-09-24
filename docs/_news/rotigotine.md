@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="What news is there about Rotigotine?">
-<strong>Rotigotine</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
+<strong>Rotigotine</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ This page combines the AI-predicted indications for Rotigotine with the latest h
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (16)
+
+### [Contraccezione 2030: meno cicli obbligati, impianti più lunghi e finalmente anche gli uomini](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0ZNMWdvSEtiSHpsUWdZeS12RW9IclJxRFUwTEpQVkl2NnZ0U2p1T0RUY1RTalRVOXZKUzI3RDMwRVQ2ei1oR1Z3elV0RU5sN3NWcFZrbXJHWUE2dy0wZUwxUmI5YXV3LW1NT2JYSkR1YkFTWlV1RXEzZFFnZWpnb3k4NVJIZUhXa0NjaVlKZVlVTnJHalVsdFlEZ1RmUlpaOFltcF9VX3VUZnlmbW1kX3BHdDkyR0hwMG9ZMVhvTTlkZ2pPVGF4RzA2OGNCWEZodWlxa2x3NUk?oc=5)
+
+2026-09-24 <span class="news-indication-tag">MS</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0ZNMWdvSEtiSHpsUWdZeS12RW9IclJxRFUwTEpQVkl2NnZ0U2p1T0RUY1RTalRVOXZKUzI3RDMwRVQ2ei1oR1Z3elV0RU5sN3NWcFZrbXJHWUE2dy0wZUwxUmI5YXV3LW1NT2JYSkR1YkFTWlV1RXEzZFFnZWpnb3k4NVJIZUhXa0NjaVlKZVlVTnJHalVsdFlEZ1RmUlpaOFltcF9VX3VUZnlmbW1kX3BHdDkyR0hwMG9ZMVhvTTlkZ2pPVGF4RzA2OGNCWEZodWlxa2x3NUk?oc=5)
+
+---
+
+### [Neuer Bluttest zur Früherkennung des Pankreaskarzinoms](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzF6YkJnSjRndnliSHBFYlhwb1E4NnhKNjB4ZjdOSEdJOFU0dG1UVnk2dmlCX2pJbkh6NlMwTTdZSW5zUmRSaDF0V3R6eFlkUG5KamZGbkVUVTVmMzVWRUF5dlZOaWRDZDd4Um1meVdBbGpXUDdpSjZLQ1VRdE1nU0lDbUpMUGdWSmstOFZZal9wRm9fZjZCdC1aNVIwVE96?oc=5)
+
+2026-09-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+Source: [journalonko.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzF6YkJnSjRndnliSHBFYlhwb1E4NnhKNjB4ZjdOSEdJOFU0dG1UVnk2dmlCX2pJbkh6NlMwTTdZSW5zUmRSaDF0V3R6eFlkUG5KamZGbkVUVTVmMzVWRUF5dlZOaWRDZDd4Um1meVdBbGpXUDdpSjZLQ1VRdE1nU0lDbUpMUGdWSmstOFZZal9wRm9fZjZCdC1aNVIwVE96?oc=5)
+
+---
+
+### [Stanford researchers say the brain is actually two organs pretending to be one](https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWlwa1RwVmZ3OUFLOHJpUGs1Rk9Vc1RzYkNaTmo1eXowR3NxdExsa1BZSmVlOXpQMXZBZWhjUUxtZE1VYjhSWU93Y3h0VGRfY005WVd1RWNuVS1rQjhLX1h3T0dTRVRxSUNpbWZLMkJVdHI1TTE4Z1p3R3hLUHlvMmhhVlAzcU9kLVVmSTdwVVdsSWNaM1ExRktTdHZrQ1dpeVp1eTBn?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span>
+
+Source: [techspot.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWlwa1RwVmZ3OUFLOHJpUGs1Rk9Vc1RzYkNaTmo1eXowR3NxdExsa1BZSmVlOXpQMXZBZWhjUUxtZE1VYjhSWU93Y3h0VGRfY005WVd1RWNuVS1rQjhLX1h3T0dTRVRxSUNpbWZLMkJVdHI1TTE4Z1p3R3hLUHlvMmhhVlAzcU9kLVVmSTdwVVdsSWNaM1ExRktTdHZrQ1dpeVp1eTBn?oc=5)
+
+---
 
 ### [Un farmaco fa regredire nei topi i danni causati dalla sclerosi multipla](https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWZwOWVKNUxDUEZEcG5OSjNEajBaeHg5cWg1NWxIUUhwQ0RENDAtV05fS1pMZ2hSVEQ2eTZod1djSGJYbGY0TXVRakk3REI1OWRtcm1wQ2s0YzcydFhBSWRuZ0NVbTZubE1OQkFBcy01bV9jX2tqS0k0WUUycGR2QjJvdnZoVXVuRThHQWFJcE13RGZIMnBBUtIBaEFVX3lxTE9uT2dXa01ONFU1WDR2WVpILXZUMm9iTXRLR1pEVGQ4bUhzWmsydXVzMHVzWS1KWUJfLVVOdkRZOVB0SGJlTVB5T0RtX3VxNFdUZ2JDcHRQU0laTkVkZHA0M0M1ZFhDSjk1?oc=5)
 
 2026-09-23 <span class="news-indication-tag">sclerosi multipla</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWZwOWVKNUxDUEZEcG5OSjNEajBaeHg5cWg1NWxIUUhwQ0RENDAtV05fS1pMZ2hSVEQ2eTZod1djSGJYbGY0TXVRakk3REI1OWRtcm1wQ2s0YzcydFhBSWRuZ0NVbTZubE1OQkFBcy01bV9jX2tqS0k0WUUycGR2QjJvdnZoVXVuRThHQWFJcE13RGZIMnBBUtIBaEFVX3lxTE9uT2dXa01ONFU1WDR2WVpILXZUMm9iTXRLR1pEVGQ4bUhzWmsydXVzMHVzWS1KWUJfLVVOdkRZOVB0SGJlTVB5T0RtX3VxNFdUZ2JDcHRQU0laTkVkZHA0M0M1ZFhDSjk1?oc=5)
+
+---
+
+### [Pharmacist says 'pause' ibuprofen, metformin or ramipril if you get three symptoms - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
+
+2026-09-23 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
 
 ---
 
@@ -78,6 +110,14 @@ Source: [netDoktor.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdW8w
 
 ---
 
+### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+
+---
+
 ### [New research suggests changing one thing about your walk to improve your heart health - The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVZqUkdqUG9YaEhLZ3oxV1ZrUTFiTi0wMlV3NkJqaU05VDAyTThvckd4S1ZscHI3OVcxbHBSSWVXQWhfcjlKU1JpTW8xZF82cFp2aWxpTzNmdTZXY2c0allCeS15ODFKWW9VR044TjBSdGVWaHpLYkZSbG04UkxMWDcxNFIyS0VtYmNjSU9QY2xwcmlwZ3dYZWlPWHZfbjBiRWxyNzEtZw?oc=5)
 
 2026-09-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -94,14 +134,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoS
 
 ---
 
-### [Mémoire après 60 ans : ces exercices tout simples à pratiquer 15 minutes par jour](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGU5cjAyZ0c2cDVtd1ZBc0piU21zRkw1ZHFPVUZ1WmV5dG1scEhmRXJRSWN2eGFGd0hsNEpUd3E5ZTVGQ25WaGxPLWppSkg3YW1ZY1JoOG45WUR0bHFrOWR1bTFJTW85Qlc1cEFWYjJYR0xYRHcyajZjMkVtQi1hNE9EWi1maTYtbENlczVSdmZ6Nm9YektrM3JwdFRRNXhsaWppUUthdV9jb0U4bVVlbzlCUUN4Sjh2T3VuMzdkTjV5OTNzSkJr?oc=5)
-
-2026-09-23 <span class="news-indication-tag">MS</span>
-
-Source: [pleinevie.fr](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGU5cjAyZ0c2cDVtd1ZBc0piU21zRkw1ZHFPVUZ1WmV5dG1scEhmRXJRSWN2eGFGd0hsNEpUd3E5ZTVGQ25WaGxPLWppSkg3YW1ZY1JoOG45WUR0bHFrOWR1bTFJTW85Qlc1cEFWYjJYR0xYRHcyajZjMkVtQi1hNE9EWi1maTYtbENlczVSdmZ6Nm9YektrM3JwdFRRNXhsaWppUUthdV9jb0U4bVVlbzlCUUN4Sjh2T3VuMzdkTjV5OTNzSkJr?oc=5)
-
----
-
 ### [Sex-based discrimination in medicine costs lives | Letters - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0NldjdBZkxkS3hkeWowVFVmWEZMZ1JMM0RUbFN2UnFDVVo2dTd1ZlN5OUpOQngwWUphOXNDSTMzdENVc1N3UGhpT2xYaUROaXByLTZKRy1vcVNUdGUxeUhmZUtqbV9fWmVvcVZVMFNidVo2cXVINUQyRVIzREthQzJHU3VjVkxBYUlxOHVXNHRyUDkxcnN6T1Fhb2Y?oc=5)
 
 2026-09-22 <span class="news-indication-tag">MS</span>
@@ -114,31 +146,23 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0Nl
 
 2026-09-22 <span class="news-indication-tag">MS</span>
 
-Source: [pokaa.fr](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzZwY2VJREpkbHp6Z3lJd0VGLUJPS0lCck5sSEN5WmxDTVBvaUxLU2JmZDRuSWVCMndBMUFrRXo0TW5QaUR3NjhqZ1Y3aTlmT19vTDI2TGU2YlRFMnFPLU5ORWd4MVhJN1BaXzg1emplSWRUNTJDclkwR090d2g4TnhFS1g5bXRfS3ZZdERwU3MtYlZORkI2YlZ4bGlSS1BKWXpOZ0hScGRfTGEzdU8zMw?oc=5)
+Source: [Pokaa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzZwY2VJREpkbHp6Z3lJd0VGLUJPS0lCck5sSEN5WmxDTVBvaUxLU2JmZDRuSWVCMndBMUFrRXo0TW5QaUR3NjhqZ1Y3aTlmT19vTDI2TGU2YlRFMnFPLU5ORWd4MVhJN1BaXzg1emplSWRUNTJDclkwR090d2g4TnhFS1g5bXRfS3ZZdERwU3MtYlZORkI2YlZ4bGlSS1BKWXpOZ0hScGRfTGEzdU8zMw?oc=5)
 
 ---
 
-### [BLUETONGUE CONFIRMED ON ISLE OF WIGHT AS VETS WARN OF 'VERY HIGH' TRANSMISSION RISK - Island Echo](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnRQaUkyTDNmcXVMWFRqQXRoUVZ0X1hQUF9EWmhqX1hjcEI3SVlkWko1SWRvc0NhN3o5bUctVkRxLWpvWnFYUE1Tc19PQzl0YXhxZUZkcmUzUmpvNjUtbWtiNjlBUDJ5T2l5MExxcmpHSEszdnNBcUNlQ3FhZzIxaFVtYXZSeDVhek5jdXNQQjhVakJ5VEZFYlZVMEI4Vmw3VFVQamxOYkwzYUVDY09XRA?oc=5)
+### [Mehr Körperfett senkt die Genauigkeit von Smartwatch-Kalorien beim Sport - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaV9pdWpJNUh1NE5JUjJ0alJSQjUwY3lJSjJOUkdhMXljS2ZBa3gxNFhXbzJiVjR6N3dYcElpUVhuNUhaUFR3YWNSb1VNN1hSdDI4cldjS0Z3ZE02NF9IVkdRQU1WbkxTX1FCZ1U0SUVHMVBITGFiNndsaXpwanVLVF93dFZhQUh2ZlE2cThBS3pBUmFsYTVaU0gweXMtbTdEd3haUWNJbDI?oc=5)
 
 2026-09-22 <span class="news-indication-tag">MS</span>
 
-Source: [Island Echo](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnRQaUkyTDNmcXVMWFRqQXRoUVZ0X1hQUF9EWmhqX1hjcEI3SVlkWko1SWRvc0NhN3o5bUctVkRxLWpvWnFYUE1Tc19PQzl0YXhxZUZkcmUzUmpvNjUtbWtiNjlBUDJ5T2l5MExxcmpHSEszdnNBcUNlQ3FhZzIxaFVtYXZSeDVhek5jdXNQQjhVakJ5VEZFYlZVMEI4Vmw3VFVQamxOYkwzYUVDY09XRA?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaV9pdWpJNUh1NE5JUjJ0alJSQjUwY3lJSjJOUkdhMXljS2ZBa3gxNFhXbzJiVjR6N3dYcElpUVhuNUhaUFR3YWNSb1VNN1hSdDI4cldjS0Z3ZE02NF9IVkdRQU1WbkxTX1FCZ1U0SUVHMVBITGFiNndsaXpwanVLVF93dFZhQUh2ZlE2cThBS3pBUmFsYTVaU0gweXMtbTdEd3haUWNJbDI?oc=5)
 
 ---
 
-### [Fitness-Tracker im Test: Apple Watch genauer als Samsung und Garmin](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1VoYi12UUlrR04wUG4yUl90OTU1d1owWDB4ZUQ5bjZMUmV6YmcxVExGaC1tVXVvTFZuWEFJeWswb2ZaNURBdjZVeUJkQWszS2ZKZFJwTndxSjZjeUpEOGRBVmtvb3RaVjM5NmpTS0tidUhaZWJTbWIydVlEeTQ1TFdLVGNEZUozMlBJQWk5a2VDLWowMXA2Sg?oc=5)
+### [What 95,000 Wrist Trackers Revealed About Sleep and Disease Risk](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVpSTBaZGdmZXRmemRKTmhGQkhDS0pOMndlU3pCblFQemlqc21uODZLX3lDamJmRE5YcU5XdUJEd1J5dFJkSEdNajdIYlp6bUo2V29WTy1RRGx1STFOWFRqb3d0WVFxek5TSjlERGpuTjJoVGZfZEtmNFNnX1RZWW0yLUs2em5TY2hzMnBUTVRmNUNoeFBwWWc3WVJsRTN4enJ2akFOWXhHMWc?oc=5)
 
-2026-09-22 <span class="news-indication-tag">MS</span>
+2026-09-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-Source: [BornCity](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1VoYi12UUlrR04wUG4yUl90OTU1d1owWDB4ZUQ5bjZMUmV6YmcxVExGaC1tVXVvTFZuWEFJeWswb2ZaNURBdjZVeUJkQWszS2ZKZFJwTndxSjZjeUpEOGRBVmtvb3RaVjM5NmpTS0tidUhaZWJTbWIydVlEeTQ1TFdLVGNEZUozMlBJQWk5a2VDLWowMXA2Sg?oc=5)
-
----
-
-### [Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
-
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVpSTBaZGdmZXRmemRKTmhGQkhDS0pOMndlU3pCblFQemlqc21uODZLX3lDamJmRE5YcU5XdUJEd1J5dFJkSEdNajdIYlp6bUo2V29WTy1RRGx1STFOWFRqb3d0WVFxek5TSjlERGpuTjJoVGZfZEtmNFNnX1RZWW0yLUs2em5TY2hzMnBUTVRmNUNoeFBwWWc3WVJsRTN4enJ2akFOWXhHMWc?oc=5)
 
 ---
 
@@ -150,11 +174,11 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXQx
 
 ---
 
-### ['It isn't everyone': Cardiologist reveals who actually needs a Vitamin D supplement - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0tVQ2ZENG9lM3hrczdObG9RWXd5SDk5WG1zZmpmS2lPYnVLT2ZFR2FrTjVzOV9LNVVqX3pNWnVsSVQ2cXM4UnNpRjNOVkdYZ01kNGtaS1dmdkxxMmRuZzJQRF9nZnNqY1p3NUtiOGViLUN1ZElsakhKSzZiR1cxODJmR3pYeU12ZXBV?oc=5)
+### [Consuming extra vitamin D is less good than it sounds - The Economist](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFdHNlkwTzJWWGEwSE5UYUI2eU1zQjhsS2VqZDBvN2cySG9Xc0NJa0pLWk1iSFZaMHVaNWRHUlV5UmMtZXR1MnhCMmw3Y241WjdtTDUxUDlfb1ZYa1BQMjJxakt3TjhGbUY5NExKMjRSMW1jTzNaWVFIQlBHX0dkUmhJblVCRTJNMlJzZ0s4N2s2THJGd2ZjOGR1U1c1MWNEblNnckM0T205RDBjeDN2QnR0MA?oc=5)
 
-2026-09-19 <span class="news-indication-tag">MS</span>
+2026-09-18 <span class="news-indication-tag">MS</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0tVQ2ZENG9lM3hrczdObG9RWXd5SDk5WG1zZmpmS2lPYnVLT2ZFR2FrTjVzOV9LNVVqX3pNWnVsSVQ2cXM4UnNpRjNOVkdYZ01kNGtaS1dmdkxxMmRuZzJQRF9nZnNqY1p3NUtiOGViLUN1ZElsakhKSzZiR1cxODJmR3pYeU12ZXBV?oc=5)
+Source: [The Economist](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFdHNlkwTzJWWGEwSE5UYUI2eU1zQjhsS2VqZDBvN2cySG9Xc0NJa0pLWk1iSFZaMHVaNWRHUlV5UmMtZXR1MnhCMmw3Y241WjdtTDUxUDlfb1ZYa1BQMjJxakt3TjhGbUY5NExKMjRSMW1jTzNaWVFIQlBHX0dkUmhJblVCRTJNMlJzZ0s4N2s2THJGd2ZjOGR1U1c1MWNEblNnckM0T205RDBjeDN2QnR0MA?oc=5)
 
 ---
 

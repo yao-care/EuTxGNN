@@ -54,6 +54,30 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 
 ## Related News (14)
 
+### [Diabetesrisiko: Gewichtsverlust und normale Blutzuckerwerte senken es um 73 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDVGUVl0ajRaMWtqeV9PQy1YY18zQy1zdFV4WV83bVVKSVdIUE9IbkotMXFsTnpFQ1FLSnNWVWd3ckZNVlM1M09zTFJtTEM4azUyUUdXcmkySzRpOTRzUlRvbnFQTGY3N1JfcUh4MDVzbGo2VHE1WXI3cmEyN2tYYlBwZmEzWlFzOEpRNVJ2bjMwazdVUUhiNnluZDRMUkM0ODhZdFhraEtEcVN6ajJwRFlSbTJ6WWwtNE5hag?oc=5)
+
+2026-09-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDVGUVl0ajRaMWtqeV9PQy1YY18zQy1zdFV4WV83bVVKSVdIUE9IbkotMXFsTnpFQ1FLSnNWVWd3ckZNVlM1M09zTFJtTEM4azUyUUdXcmkySzRpOTRzUlRvbnFQTGY3N1JfcUh4MDVzbGo2VHE1WXI3cmEyN2tYYlBwZmEzWlFzOEpRNVJ2bjMwazdVUUhiNnluZDRMUkM0ODhZdFhraEtEcVN6ajJwRFlSbTJ6WWwtNE5hag?oc=5)
+
+---
+
+### [Neue Studie: Diese Tabletten senken bei Diabetes offenbar das Demenzrisiko - FIT FOR FUN](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEdQVkZDYVFhYWd3Unl1QjRySGZkWEVveHV6UTl4YmYyZEVKeW5LVFlIODgzQkNCRFVhbnlDOTFMR3gxbFZlTDVwNlJjTXlnSEhjQlNrQzZmeEwweW1QUTlRNkdPcXh1NTZUbHFfUzExaGRIX0owbGRJYUg2RDBuY1VFLXhzR1hEWk1TazNmR3p4V01saDJvSzFyWXAtbmM3RnY1MDRUdnFUM1FRZzVLN2J3YnN3WXlLUjlieWE1TkpfdmdXeEh4MzRKY1VWbUNRZ29UVU5Id3RzdWFJUHlNTUgxMWxxQQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [FIT FOR FUN](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEdQVkZDYVFhYWd3Unl1QjRySGZkWEVveHV6UTl4YmYyZEVKeW5LVFlIODgzQkNCRFVhbnlDOTFMR3gxbFZlTDVwNlJjTXlnSEhjQlNrQzZmeEwweW1QUTlRNkdPcXh1NTZUbHFfUzExaGRIX0owbGRJYUg2RDBuY1VFLXhzR1hEWk1TazNmR3p4V01saDJvSzFyWXAtbmM3RnY1MDRUdnFUM1FRZzVLN2J3YnN3WXlLUjlieWE1TkpfdmdXeEh4MzRKY1VWbUNRZ29UVU5Id3RzdWFJUHlNTUgxMWxxQQ?oc=5)
+
+---
+
+### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+2026-09-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+---
+
 ### [Cómo aplacar la colitis ulcerosa, una enfermedad que inflama el intestino - EL PAÍS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1l0RG12OUNaZk9FQUs3UVAyb3hxWHhlbWsxeFU3YzNlZnB1aENWZFJ5UVA4OEFTRF9oZlRuLTZFLTd2ZzR6REhCNUdNSk91S3VfeVkwTHpyVWZMNWh3bUxubkdubkZUS1htZ252Rm54WDFsNFV2X1FKNlFiTk5KQjRmVlkweXdoR2tDTkZkRElTV2xBUW9XU1NkbmRwVnNCZUNUWVFWVTlCRnBGYm5Id3d3NmhyNG9PWTFTMExaS1VxRmt5NGfSAdoBQVVfeXFMT3BBcWxXNHgzQ2hsdDI5NEx6d1VWbDBkdmNKcVBYYnVEYTQwWUpSMUVmT2JpX2E0d1hYR0RzM01sc0FqZ3ZXRWtpZy1BWEN6dFo0aDJrOEl2OVlXR0pHeE0zMFY5aV9PWGNjREJHSWxmZDNOUUVNREF1Um9XWDB2MTNPME56NEp3dmVSNUIxb2VvaXNsaDR2NDhDd2VyWlpCM3lXYXdocmJ2NkU2NVpFNnlfbXNvV1k3VXFQdHlrS1hudnZURWJMbG94Q212MUxMeEhZSFhUcjdpRFE?oc=5)
 
 2026-09-23 <span class="news-indication-tag">colitis ulcerosa</span>
@@ -70,14 +94,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV9
 
 ---
 
-### [Typ-2-Diabetes birgt offenbar unterschiedliche Risiken für Frauen und Männer – Studie zeigt Unterschiede](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHBNdU1KQnloc1JfRWp5UU1lMUoyX1dWdml3bjJRZ1dra3VMQ3k3a05EOU83Qk9xWmlQSGtIaVIxcnBNMEp6RTNidDBPOHRLU0cxQVJKaHpJVi1GMGZKbWo2c2lJT2w3aUI3Wk54ZkxhR0tQSHp0d25kNzhIOUs1eGRxeWpXQWg5SXBFa18xem1NTVN6VUxwNXNlUDJQampQWFdQWTZIMlM?oc=5)
-
-2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-Source: [Kreiszeitung](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHBNdU1KQnloc1JfRWp5UU1lMUoyX1dWdml3bjJRZ1dra3VMQ3k3a05EOU83Qk9xWmlQSGtIaVIxcnBNMEp6RTNidDBPOHRLU0cxQVJKaHpJVi1GMGZKbWo2c2lJT2w3aUI3Wk54ZkxhR0tQSHp0d25kNzhIOUs1eGRxeWpXQWg5SXBFa18xem1NTVN6VUxwNXNlUDJQampQWFdQWTZIMlM?oc=5)
-
----
-
 ### [Pressemitteilungen Schwangerschaftsdiabetes: Warum Nachsorge so wichtig ist - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxPREswWGY2OUtVVzNfejRJUF9MTWVRWmZqZjZ0enlIV1E4LU10VHFzd1hCaFhHdG5SczhNMHpFVk9wc21jV3FPUVVvblRRaHlTWmhNZW94ZHBkdzI5UG5SNWJuUlhzRVVSSmtaSVp0V2JJNWVOMjBCbmFWeThNaEItMkV0cF9VWFNleFE2UHN3c2NUZW1kUXpoclkxT0hoRlBtQjdiUXpxbXVGbDNLZ0Jwa21UcEU4Q3VNQkNHTDVKTTZDNURqajhGbGxKQWs?oc=5)
 
 2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -86,27 +102,19 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 
 ---
 
-### [Demenz: So wirken sich Cholesterin-Senker auf die Erkrankung aus](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2J4LVY5UFMzaDFNckVwRWwtaWZWQ2NLc05wYVl4Rm00akpnbGpOR3A5SUNGMmtyeXZhOU9DSlpUbElwak1MZi1WbUgxZndXM28zNVZPNlNLUS05d0hvTmx4cktwZk9iM2dvd1dhY0R6aWQ0Ni1HYWRvNEtXbEJjZElTN2pjVW5BWXJFazVUUTlGQlZMZG1mVkl6ZFFLeU5rbHhoem9EVGlvMXhucFNsLXhUa0pLWTFEX0xYYVdxZEN2T1NDeFhGdWQwYw?oc=5)
+### [Hidden Inflammation Linked to 43% Higher Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
 
-2026-09-23 <span class="news-indication-tag">diabetes</span>
+2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2J4LVY5UFMzaDFNckVwRWwtaWZWQ2NLc05wYVl4Rm00akpnbGpOR3A5SUNGMmtyeXZhOU9DSlpUbElwak1MZi1WbUgxZndXM28zNVZPNlNLUS05d0hvTmx4cktwZk9iM2dvd1dhY0R6aWQ0Ni1HYWRvNEtXbEJjZElTN2pjVW5BWXJFazVUUTlGQlZMZG1mVkl6ZFFLeU5rbHhoem9EVGlvMXhucFNsLXhUa0pLWTFEX0xYYVdxZEN2T1NDeFhGdWQwYw?oc=5)
-
----
-
-### [Diabetes frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">diabetes</span>
-
-Source: [Frankfurt-Live.com](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
+Source: [sciencealert.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
 
 ---
 
-### [Darmerkrankungen: NOD2-Gendefekt und Oxalat als neue Auslöser - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
+### [Darmerkrankungen: NOD2-Gendefekt und Oxalat als neue Auslöser](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
 
 2026-09-23 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
 
 ---
 
@@ -120,7 +128,7 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMickFVX3lxTFBFWm51aTMy
 
 ### [What 95,000 Wrist Trackers Revealed About Sleep and Disease Risk](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVpSTBaZGdmZXRmemRKTmhGQkhDS0pOMndlU3pCblFQemlqc21uODZLX3lDamJmRE5YcU5XdUJEd1J5dFJkSEdNajdIYlp6bUo2V29WTy1RRGx1STFOWFRqb3d0WVFxek5TSjlERGpuTjJoVGZfZEtmNFNnX1RZWW0yLUs2em5TY2hzMnBUTVRmNUNoeFBwWWc3WVJsRTN4enJ2akFOWXhHMWc?oc=5)
 
-2026-09-22 <span class="news-indication-tag">diabetes</span>
+2026-09-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVpSTBaZGdmZXRmemRKTmhGQkhDS0pOMndlU3pCblFQemlqc21uODZLX3lDamJmRE5YcU5XdUJEd1J5dFJkSEdNajdIYlp6bUo2V29WTy1RRGx1STFOWFRqb3d0WVFxek5TSjlERGpuTjJoVGZfZEtmNFNnX1RZWW0yLUs2em5TY2hzMnBUTVRmNUNoeFBwWWc3WVJsRTN4enJ2akFOWXhHMWc?oc=5)
 
@@ -128,9 +136,9 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVp
 
 ### [Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-indication-tag">diabetes</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZGIyNC04MkVUTVh1b0QtQnk4LS1PaG1pNHdvRGd3bG9PLTNNaTVlQ3czc2VDNV9oY0FXRUpkXzZnUWtCWTdMaWFuUHZJYXVhc0RDdFRuaFE2YzdN?oc=5)
 
 ---
 
@@ -139,14 +147,6 @@ Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9haVFIZG
 2026-09-21 <span class="news-indication-tag">diabete</span>
 
 Source: [sanitainformazione.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJjTVVSSVZHcnlYbzA1d0djSTlNeWJjODdXdXFUQ0V1WVpzSS04bUtHa1VXSkhpYTFacV9NSERfRVVQcUxDV29lVy1BcHEySE8zX2RQcHV3MW5fWDBvRm1qMFJkanMwMk8xeVlPR3V0Y0hqVXlXZGdjU1RiSkM0ZnlOam9ZZWllQUtYWkhHRXZRRXpBMmZYS29wUlB3V1lKdXVsa1RWRUpvVWQ1NExqX3UzMlYxMHRLd2NWRW1rc0VWRUF3YXhwTg?oc=5)
-
----
-
-### [Warning to everyone who uses common lightbulbs over deadly illness - Yorkshire Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTY4MTVuODZaSUh0RTVHLTBqZEl1Z0VvQnk5MjEybjVGdk9jbW03cnZ3SHlxZ0ZjeDg4T25VcXdyQ3ExTTI5aWNBYWVyT0dPM3lfcmRxNnVzTHJUS0x4YWlmZ3ZnTDBjVFp0XzFtV2hiVWJkTzE1ZzMtOHlCbXNWWXN2cmpYRTRfazBLMFJ0dE9DZUxZT3c?oc=5)
-
-2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTY4MTVuODZaSUh0RTVHLTBqZEl1Z0VvQnk5MjEybjVGdk9jbW03cnZ3SHlxZ0ZjeDg4T25VcXdyQ3ExTTI5aWNBYWVyT0dPM3lfcmRxNnVzTHJUS0x4YWlmZ3ZnTDBjVFp0XzFtV2hiVWJkTzE1ZzMtOHlCbXNWWXN2cmpYRTRfazBLMFJ0dE9DZUxZT3c?oc=5)
 
 ---
 

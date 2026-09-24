@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Más de diez años para diagnosticar el síndrome de piernas inquietas: "En niños se confunde con dolores del crecimiento"](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQS15dkZGVi1la3ROSkFXTHJNSGRTRkVCclc0MkU2elE5a21YTUtOM1l2MFlscjA2OU5QY2dwMmgxTDNlZEcxczNoT2h0TjRZUE83X3FiNFpoV0Rrc3ZGUmZiaF9MSExMWmhybUZOR21MMTctTlp6dkdOUGNlb25hVlAxclh2SnpmcHBOanpzNUNDMEd5TEdhbThwWVREeXNKb0R6emU3WXRNbXQ5NWR4VWdycUtfY29FREtKUEtvOUhCaXFYTlZMRTN1RmpJLUptN3l1RkpWcUxUYUc2Nkd4bUxZd0JQczg?oc=5)
-
-2026-09-23 <span class="news-indication-tag">depresión</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQS15dkZGVi1la3ROSkFXTHJNSGRTRkVCclc0MkU2elE5a21YTUtOM1l2MFlscjA2OU5QY2dwMmgxTDNlZEcxczNoT2h0TjRZUE83X3FiNFpoV0Rrc3ZGUmZiaF9MSExMWmhybUZOR21MMTctTlp6dkdOUGNlb25hVlAxclh2SnpmcHBOanpzNUNDMEd5TEdhbThwWVREeXNKb0R6emU3WXRNbXQ5NWR4VWdycUtfY29FREtKUEtvOUhCaXFYTlZMRTN1RmpJLUptN3l1RkpWcUxUYUc2Nkd4bUxZd0JQczg?oc=5)
-
----
-
-### [Kunsttherapie: 149 Studien zeigen messbare Erfolge bei Angst und Depression - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUGtQS3BITW5Nd0tVRDY5UzJDN05BZkhBOVJlYkdTM1d1dVJGUWJaMU91czZja1dMaXU5X3VhOGQ3QU1nUFZhdkNYTGp3WmFlVnpRSkFsYmtxbllHWkRUMU51UzluZlphcFl1N19fN29iTmswbEpJMVZEUG9UTjFtczRsQUs3TXE2cVpuQWhaX3FRWDZjcm1XRThFOEpMdFhueWNFQVQtVktvaHFaYjBqemFn?oc=5)
-
-2026-09-22 <span class="news-indication-tag">depression</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUGtQS3BITW5Nd0tVRDY5UzJDN05BZkhBOVJlYkdTM1d1dVJGUWJaMU91czZja1dMaXU5X3VhOGQ3QU1nUFZhdkNYTGp3WmFlVnpRSkFsYmtxbllHWkRUMU51UzluZlphcFl1N19fN29iTmswbEpJMVZEUG9UTjFtczRsQUs3TXE2cVpuQWhaX3FRWDZjcm1XRThFOEpMdFhueWNFQVQtVktvaHFaYjBqemFn?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

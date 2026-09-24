@@ -39,11 +39,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV9
 
 ---
 
-### [Darmerkrankungen: NOD2-Gendefekt und Oxalat als neue Auslöser - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
+### [Darmerkrankungen: NOD2-Gendefekt und Oxalat als neue Auslöser](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
 
 2026-09-23
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
 
 ---
 

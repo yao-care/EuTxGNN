@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Golimumab?">
-<strong>Golimumab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Golimumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Golimumab with the latest he
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
 
@@ -78,19 +78,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFP
 
 ---
 
-### [Darmerkrankungen: NOD2-Gendefekt und Oxalat als neue Auslöser - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
+### [Darmerkrankungen: NOD2-Gendefekt und Oxalat als neue Auslöser](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
 
 2026-09-23 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
-
----
-
-### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">arthritis</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hMa01iMERKbmRpUEJWQ2hLNTQtb2lfd2NfaV9tZEx2OEpjcWI2WFo2NmpJVjBpM19OSjJLU1JnRWtfRnB4RjNFaS1fLXVTS2JyOFJGYVJVQzlvTUVlRnNydW0yMG5PRllkc1FhWjhSYk9hcEU2NzlSSXJBanI0OFhLSzBQRG8zYkpEZHIzeURmZ2dkNWpBRjJXZkRmdmpvYnRpMVJRM3hRUXlvcTRz?oc=5)
 
 ---
 

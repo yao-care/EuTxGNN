@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
 
@@ -62,11 +62,19 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNW
 
 ---
 
-### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjVaSENnOThSYkFxVm43X3ZNaFdGMVNxV3hUa0d3OHE1TmZnVWZLYUx3VUFMVFZ6TGk3aGR3TV9MaHFhdVpMVWR3SDE5X0I5dDBsQW1GYnRsT0pZeVh4N00tMkdPcFh2UEM3WVNQVW5CbzFZS1pVa0t5SU1OR2dpT0dnTUtrYU44bkxNTGVGMUE4X3hjcVRYdTZyNTF1QmhFLUVuRURKYjRPYzNmcU5EXzMteG53MGJoZU1ubzhPc2hhS1hWd1lVRl9pX1NqM1RicS1YbzJiQXV4VDNDdHfSAeMBQVVfeXFMUFF2TDZBYndfQ3hxUUNkWFlpZVI3aC1LQVVMZ0gzNWhoR2FPM3piNk1GTmdYblI4ODg2TDJpSEZhQW01eU9HbVRyV2tQdTR6WVpKNnZObXlkVUJFLUlfX1RYbUR4LTRDcUtqT0ZxazV0TWpqVTJ5SUhFUk95THQ2YTNTX3Y0aURTMWxISnhzRmthY1pocXJENGUxVS1SRFdkekJ5TUdJV01NalFkTTZwZ1VWelJEYmVmblFDdEUtbHpNekpGZVlTUlU5em1xVUZZZ2dLck1FcEMwQzJnbFdJWThKQVE?oc=5)
+### [Millions in England unaware they have ‘silent killer’ high blood pressure, research reveals - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
+
+2026-09-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTdiM0NKOGg0dmpyTkxralRzRk15RVJWZXQ3aF9zYmxxaUJfeG5oMkE5ZmtlWmRIZWFDVV9oM250UFE5Zy1hUE1hZ3ZIdWVFT0h5cXVONmo1WHNRanV1bjlqVUYyeExzX3FuY2dfdXZHeFM2d0xaUWQ0YkJnX1pMU3Q1bnJFT3BSU3V5X1hjSmdmbW9qeGVON3ZIcUJmZEl1T1JFTGp1a2U2eGxfWVlj?oc=5)
+
+---
+
+### [Adiós a la hipertensión: el truco infalible de un cardiólogo para mantenerla bajo control](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 2026-09-23 <span class="news-indication-tag">hipertensión</span>
 
-Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORjVaSENnOThSYkFxVm43X3ZNaFdGMVNxV3hUa0d3OHE1TmZnVWZLYUx3VUFMVFZ6TGk3aGR3TV9MaHFhdVpMVWR3SDE5X0I5dDBsQW1GYnRsT0pZeVh4N00tMkdPcFh2UEM3WVNQVW5CbzFZS1pVa0t5SU1OR2dpT0dnTUtrYU44bkxNTGVGMUE4X3hjcVRYdTZyNTF1QmhFLUVuRURKYjRPYzNmcU5EXzMteG53MGJoZU1ubzhPc2hhS1hWd1lVRl9pX1NqM1RicS1YbzJiQXV4VDNDdHfSAeMBQVVfeXFMUFF2TDZBYndfQ3hxUUNkWFlpZVI3aC1LQVVMZ0gzNWhoR2FPM3piNk1GTmdYblI4ODg2TDJpSEZhQW01eU9HbVRyV2tQdTR6WVpKNnZObXlkVUJFLUlfX1RYbUR4LTRDcUtqT0ZxazV0TWpqVTJ5SUhFUk95THQ2YTNTX3Y0aURTMWxISnhzRmthY1pocXJENGUxVS1SRFdkekJ5TUdJV01NalFkTTZwZ1VWelJEYmVmblFDdEUtbHpNekpGZVlTUlU5em1xVUZZZ2dLck1FcEMwQzJnbFdJWThKQVE?oc=5)
+Source: [noticiasdegipuzkoa.eus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVV9UNWt3WWFxdUxNTi1UVEUtTlhVbmlJWFVSdTd0RlF4ZXlvWnFOSU9QLVFreFJsdGYyRkpvU2FEN2tZSGE4czlSSENIbUxZMkxEZHliNVJnYnp6ZlE2bmp2Yi1iN3RRanFpQWVPdGxjemphSjlsRDFsWDlYSzNDUVM2cEdjQjE0MTZDLWozTlJpQUpuRFpqYURwWlZHV3RXOGttV1ducnlJWVpmMk1MVHEwd1pPZF9FR3NKa2k1eHRFeVpTczMtU0REdE5KWnpQS01JdzZ5bUNIaUNZMDNRVlFn0gHnAUFVX3lxTFBKWlAyNlhJc243UmpiZFdoa1VqVVFqTkc4SklCZ29iTUxmbEE4ZUd5WXphRnZoOW16NHV5b1ZhNnYxN3BXUzBRaC00eXJrUk5RYWFvNnJZNVZPeG1PTDlwem4zdm1uSTlfX0xmdHMtOF93dTZGcERiQllFTkptZEZMY2dQSDZXdXRFcGNab2JlWUVxY3NuMnNIQ1FIRzF0WGFBbmVJODVHWW5JRm9zdk8wSlpTclphMDVZZWs3YnhiQVphaWFNSUpoVEQ1UWl1Z2FHRXJWbTZZbHdWa2FqaVpFLUNFNVdjOA?oc=5)
 
 ---
 
@@ -78,27 +86,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGFP
 
 ---
 
-### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
-
-2026-09-22 <span class="news-indication-tag">ipertensione</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
-
----
-
 ### [Lorsqu'ils mesurent leur tension à domicile, beaucoup commettent les mêmes erreurs](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmtjU1Mxb0JMamZvU3pfN2w5ZWMyU3V5U0Z3ZGxFd21kWnp6U3ZIWUxpQTMtdjdhZDUwSlVqVWpfWmNreHlFOUhhVEhCelVwRm13UUNWRFVvV3U0aHh5b2NyMFVXbGY4QWtmVkhnNTZMdEFnZS1XaGI4NGhiZkpCUXFublBRQQ?oc=5)
-
----
-
-### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">arthritis</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

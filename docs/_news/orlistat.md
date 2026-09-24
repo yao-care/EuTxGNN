@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [Schlaganfall: Können Vitamine verkalkte Gefäße schützen?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWdRbnpkMXktWjhzbi10ZE1iR1IwOWRUNExhOWY2RVdGMEJkc0ZrOUVXNjl1enlmY2tLcG5JS1Q0RzFCSjhHSmdlN3lUb1piVVRGS0RmRExibTJvZFhDVEdUZVdvTW5LcnJnMHNEdE8zRGhZemh1NHhWTmx0WEFSdUVGYVVsVndNOHIzUGJCSXpOSElNUHJuRVJaZ3dmRmZXcW5rWGZybU5jWVc3NnBOcEVMUkR0bXdGd0VoNTNGX3FVczEw?oc=5)
 
@@ -70,35 +70,35 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlR
 
 ---
 
-### [Cardiólogos e instituciones reclaman reforzar la prevención secundaria para reducir el riesgo de nuevos eventos cardiovasculares tras un infarto o ictus - Valencia Plaza](https://news.google.com/rss/articles/CBMimgJBVV95cUxObE1WdV9FV3FWMGdMcmVGbGY2SHVYQ196SHhJLVFVdGRDT0ZsUlpvRUMtRWJvSWJtVmFvSW5FT25vUDBWYjc0SzFIRnk5b3NfamdsWjhxMHVBMTRSSEFzZHp1UjdVNVl0eWxGaE12UVVwU0FqMERzeUxFbGRHMktZc3V5djJWWUk0Y3ozNW1KVHdvRnNUVlBKM0hacFlMaV9XUFczYlZZMTF6cjVzMXlpbW9uRVV4Qm9vZnpQQ0oyTzE2MVpBU0Z5dVBxc3hXU1hKVTNHVHpCUzl2QzU1Sm53bDhHQ3RxVWJUUHVhNU9oRGxVRDNDdU1tdFgtVTd5X2Q2UnNxb0J3cGhCMV9FdXpCMTdpWXliODBMSnc?oc=5)
+### [Cardiólogos e instituciones piden reforzar la prevención secundaria en pacientes de riesgo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcWpieUNMOVNXWGhFWUVMd0tuQ2NfcDJFUEVfZGE2b3VDM2N1YUZyckRHWHNWMTFjTDZGYXJ0aFhGS0xxZVVoNkdET2I1SGpZY3dWQkhXeUF1OEVwMzhUSHVPWGJiTk5CenJ2NmotRVBGSXplcWlqSmg2dVl2VzktakRNdlNBX0lCQ3h3QWlKSFBGTmZyVnh5LVdOV1d5MlBZd0V0N2Z2LXNWajdPczZlTXVvU0x2OVZGdWp3eS1aQ2ZNdC0wMVJYdGFpNG9EUVdIM0E3SQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">ictus</span>
 
-Source: [Valencia Plaza](https://news.google.com/rss/articles/CBMimgJBVV95cUxObE1WdV9FV3FWMGdMcmVGbGY2SHVYQ196SHhJLVFVdGRDT0ZsUlpvRUMtRWJvSWJtVmFvSW5FT25vUDBWYjc0SzFIRnk5b3NfamdsWjhxMHVBMTRSSEFzZHp1UjdVNVl0eWxGaE12UVVwU0FqMERzeUxFbGRHMktZc3V5djJWWUk0Y3ozNW1KVHdvRnNUVlBKM0hacFlMaV9XUFczYlZZMTF6cjVzMXlpbW9uRVV4Qm9vZnpQQ0oyTzE2MVpBU0Z5dVBxc3hXU1hKVTNHVHpCUzl2QzU1Sm53bDhHQ3RxVWJUUHVhNU9oRGxVRDNDdU1tdFgtVTd5X2Q2UnNxb0J3cGhCMV9FdXpCMTdpWXliODBMSnc?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcWpieUNMOVNXWGhFWUVMd0tuQ2NfcDJFUEVfZGE2b3VDM2N1YUZyckRHWHNWMTFjTDZGYXJ0aFhGS0xxZVVoNkdET2I1SGpZY3dWQkhXeUF1OEVwMzhUSHVPWGJiTk5CenJ2NmotRVBGSXplcWlqSmg2dVl2VzktakRNdlNBX0lCQ3h3QWlKSFBGTmZyVnh5LVdOV1d5MlBZd0V0N2Z2LXNWajdPczZlTXVvU0x2OVZGdWp3eS1aQ2ZNdC0wMVJYdGFpNG9EUVdIM0E3SQ?oc=5)
 
 ---
 
-### [Daily Stress May Drive Lasting Structural Changes in Your Heart, Increasing Stroke Risk](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
+### [Hidden Inflammation Linked to 43% Higher Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
 
-2026-09-23 <span class="news-indication-tag">stroke</span>
+2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
-
----
-
-### [Vorhofflimmern: Pulsfeldablation + Herzohrverschluss senkt Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mRzRVY19kRWtSRzZxR1hmT2lncl8wZFBTMUJWc3F2aWRJWHM1WFFFMnhXYVdkbTRQc3lOdV9nOENUdUhJa2QxOUVyR0R3blFTR2ZKMWdrWVpEd0ZfMXhUTTA5cG1hekhvS2tWZTI1UjVNaXk5TFgwU015TG5nc0Q1RTdBVzZjeEpOVm5sTVU0cEZFNWZyUEVQbWdOUnY5S2cySDdiVQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mRzRVY19kRWtSRzZxR1hmT2lncl8wZFBTMUJWc3F2aWRJWHM1WFFFMnhXYVdkbTRQc3lOdV9nOENUdUhJa2QxOUVyR0R3blFTR2ZKMWdrWVpEd0ZfMXhUTTA5cG1hekhvS2tWZTI1UjVNaXk5TFgwU015TG5nc0Q1RTdBVzZjeEpOVm5sTVU0cEZFNWZyUEVQbWdOUnY5S2cySDdiVQ?oc=5)
+Source: [sciencealert.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
 
 ---
 
-### [“Solo una sbornia”, i medici non riconobbero ictus e la paziente è paralizzata: “Ora paghino danni” - la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUVvWlg3S0F3SkdsZW9RQy0yQVIxNEJYNThSUDJQTTFQd001bjc3T0IwX2Q5SGVHbVdXWllNX0JRTDZjTkk0TDMwU2piYnNCbHU4cVZGZXlOZ3RIbEhNWWVDSmpRNFdtaFdkUG9wUUwyNF9mUHNncktXRW13S2tpNlpDblR4cDBRZm1ZNHZITU5STkxXZ2NGRDBON1VPZnNMWDhTZHBLWlRtMXVGTGNCUGtrb2FsZVkwc1BnQk80M0Vadm5GeVR6S2l2RlFnVnZjMGs1LTA3a0VORFZQM0ZfQUNJZEJ1TVhtVHVv0gHwAUFVX3lxTE5lU2xocnBsVEI5eXNPZUFDQlBUcDJaOVhOc3NadVlXbGRJS1BtcVI3RlF0MVlQQW1LcUx1T2lDNk5acGhfd0JOcHB5eThaUWNkVUNWWEJzZk9DYXdfZmdlRWJMeDlCRlFiVEg1bXdXbHdpcnY2VGM2VDlNblFmX1ZXQjFWVGNhNmtzbUVjT1FxUFI2dGlVZzg0d2pfRnRlenhGWGJLZ190VmtGbnJmeVVzWHJ5RlQ5ZEhoNGFnQUJQM1FqcFM3ZHZVem1yd0ZsQ2xvZ3dnbnF0U2Y4Znp5UHBpSjVqdDFZNlhha1BnRW5xdg?oc=5)
+### [Que sait-on vraiment des effets indésirables des aGLP-1 ?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVVNSkJ2T1hHTTA5aU82NkEzZWt3Z1JJQm1FUjUzRVZFOXNPNGNLREJsUUZOYVM0S0paVGtDTEZiVmJCMlBCTFJNNjlxYTl0UnFEZU01QlpMOTNNVHdFRFFzTERTaFFWay1FZU5zbVYzcmxnNUVlcm91eG1DOUtuNkd0NFFXSlpyUnRuX2JzZ0F6MWt3djBLUkVuU0RoYzB5NHJ2X1hQWFpyZw?oc=5)
 
-2026-09-22 <span class="news-indication-tag">ictus</span>
+2026-09-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AVC</span>
 
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUVvWlg3S0F3SkdsZW9RQy0yQVIxNEJYNThSUDJQTTFQd001bjc3T0IwX2Q5SGVHbVdXWllNX0JRTDZjTkk0TDMwU2piYnNCbHU4cVZGZXlOZ3RIbEhNWWVDSmpRNFdtaFdkUG9wUUwyNF9mUHNncktXRW13S2tpNlpDblR4cDBRZm1ZNHZITU5STkxXZ2NGRDBON1VPZnNMWDhTZHBLWlRtMXVGTGNCUGtrb2FsZVkwc1BnQk80M0Vadm5GeVR6S2l2RlFnVnZjMGs1LTA3a0VORFZQM0ZfQUNJZEJ1TVhtVHVv0gHwAUFVX3lxTE5lU2xocnBsVEI5eXNPZUFDQlBUcDJaOVhOc3NadVlXbGRJS1BtcVI3RlF0MVlQQW1LcUx1T2lDNk5acGhfd0JOcHB5eThaUWNkVUNWWEJzZk9DYXdfZmdlRWJMeDlCRlFiVEg1bXdXbHdpcnY2VGM2VDlNblFmX1ZXQjFWVGNhNmtzbUVjT1FxUFI2dGlVZzg0d2pfRnRlenhGWGJLZ190VmtGbnJmeVVzWHJ5RlQ5ZEhoNGFnQUJQM1FqcFM3ZHZVem1yd0ZsQ2xvZ3dnbnF0U2Y4Znp5UHBpSjVqdDFZNlhha1BnRW5xdg?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVVNSkJ2T1hHTTA5aU82NkEzZWt3Z1JJQm1FUjUzRVZFOXNPNGNLREJsUUZOYVM0S0paVGtDTEZiVmJCMlBCTFJNNjlxYTl0UnFEZU01QlpMOTNNVHdFRFFzTERTaFFWay1FZU5zbVYzcmxnNUVlcm91eG1DOUtuNkd0NFFXSlpyUnRuX2JzZ0F6MWt3djBLUkVuU0RoYzB5NHJ2X1hQWFpyZw?oc=5)
+
+---
+
+### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
 ---
 
@@ -115,6 +115,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThC
 2026-09-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+
+---
+
+### [Vorhofflimmern: Ablation mit optimierter Wellenform erreicht 94,2% Haltbarkeit - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
+
+2026-09-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
 
 ---
 
