@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (10)
 
 ### [„Der durch eine krebsassoziierte Koagulopathie ausgelöste Schlaganfall ist eine eigenständige Entität“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
@@ -78,19 +78,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1k
 
 ---
 
-### [El ictus, cada vez más frecuente en adultos jóvenes: casi se duplican en tres décadas](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFhCVzg5andBUFE1alBkRGxHaDktdThtNjhjeDZudFFkX1BQdnBrWDcxRDl5ZndmLWg4SGNKS1JvVWYzQ2g5TkdZbzNYYUUzNkNQcTVpdWFVOHlsODc2M21hRTJDbjE3TGVHVmtFUzVITE0xQmVUbmI4b0k0dkZSRVE2SmpWT1pxcjIwbHpZUzdUMWVFa3B0NEhTUWJGeUw1RXhQNDlCd0pmWWhlMndSdXo2MHk1OGpEUk5ZYU5JLU9sY0xNWC1NRGp4RkFha0otUHlwaG9udzB3V2phYUNfZg?oc=5)
-
-2026-09-24 <span class="news-indication-tag">ictus</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFhCVzg5andBUFE1alBkRGxHaDktdThtNjhjeDZudFFkX1BQdnBrWDcxRDl5ZndmLWg4SGNKS1JvVWYzQ2g5TkdZbzNYYUUzNkNQcTVpdWFVOHlsODc2M21hRTJDbjE3TGVHVmtFUzVITE0xQmVUbmI4b0k0dkZSRVE2SmpWT1pxcjIwbHpZUzdUMWVFa3B0NEhTUWJGeUw1RXhQNDlCd0pmWWhlMndSdXo2MHk1OGpEUk5ZYU5JLU9sY0xNWC1NRGp4RkFha0otUHlwaG9udzB3V2phYUNfZg?oc=5)
-
----
-
-### [Obesità, farmaci gratis. In Regione c’è una legge - il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
+### [Obesità, farmaci gratis. In Regione c’è una legge](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
 
 2026-09-24 <span class="news-indication-tag">obesità</span>
 
-Source: [il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
+Source: [ilgiornale.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
 
 ---
 
@@ -99,22 +91,6 @@ Source: [il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPW
 2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
-
----
-
-### [¿Puede el tratamiento de la obesidad con agonistas del receptor de GLP-1 durar para siempre?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
----
-
-### [La obesidad altera una enzima clave de las células inmunitarias del tejido adiposo y favorece la inflamación metabólica - Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
 
 ---
 
@@ -142,19 +118,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThC
 
 ---
 
-### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+### [Arteriosklerose | Herzschutz durch Lp(a)-Senkung: Hoffnungen erhalten Dämpfer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkFfbDR5a3R5aVozSDZ2a0hsUC0zY01MTnVUTHhSdm0wQnEzelpJTEswY2ZvUFhadU42bC1LTFpmSnp4RU1VTXpmRnc0OVdEandtRmlqdm9zVEZkbE1BSkZUZEV3ekNVZHpJNUhjMkxwM0FKLUZ4QjZDM0VuR0FicFFwT0ItOTlYM2R6cmRBNGY5MEhJSlhPZG1JWGd2SnZrV3pzeHIxMGlQZjl6dUZ4cEY1NDRlYWM2TV9IVkFITEszRThqcVdVeU1MdDVVU1ZYeGwxdVhkTFdwQQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
-
----
-
-### [Farmaci, anti-obesità semaglutide al centro della nuova protezione cardio-renale - Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
-
-2026-09-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkFfbDR5a3R5aVozSDZ2a0hsUC0zY01MTnVUTHhSdm0wQnEzelpJTEswY2ZvUFhadU42bC1LTFpmSnp4RU1VTXpmRnc0OVdEandtRmlqdm9zVEZkbE1BSkZUZEV3ekNVZHpJNUhjMkxwM0FKLUZ4QjZDM0VuR0FicFFwT0ItOTlYM2R6cmRBNGY5MEhJSlhPZG1JWGd2SnZrV3pzeHIxMGlQZjl6dUZ4cEY1NDRlYWM2TV9IVkFITEszRThqcVdVeU1MdDVVU1ZYeGwxdVhkTFdwQQ?oc=5)
 
 ---
 

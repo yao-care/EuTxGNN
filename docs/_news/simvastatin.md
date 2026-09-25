@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [„Der durch eine krebsassoziierte Koagulopathie ausgelöste Schlaganfall ist eine eigenständige Entität“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
@@ -75,14 +75,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4
 2026-09-24 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
-
----
-
-### [El ictus, cada vez más frecuente en adultos jóvenes: casi se duplican en tres décadas](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFhCVzg5andBUFE1alBkRGxHaDktdThtNjhjeDZudFFkX1BQdnBrWDcxRDl5ZndmLWg4SGNKS1JvVWYzQ2g5TkdZbzNYYUUzNkNQcTVpdWFVOHlsODc2M21hRTJDbjE3TGVHVmtFUzVITE0xQmVUbmI4b0k0dkZSRVE2SmpWT1pxcjIwbHpZUzdUMWVFa3B0NEhTUWJGeUw1RXhQNDlCd0pmWWhlMndSdXo2MHk1OGpEUk5ZYU5JLU9sY0xNWC1NRGp4RkFha0otUHlwaG9udzB3V2phYUNfZg?oc=5)
-
-2026-09-24 <span class="news-indication-tag">ictus</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFhCVzg5andBUFE1alBkRGxHaDktdThtNjhjeDZudFFkX1BQdnBrWDcxRDl5ZndmLWg4SGNKS1JvVWYzQ2g5TkdZbzNYYUUzNkNQcTVpdWFVOHlsODc2M21hRTJDbjE3TGVHVmtFUzVITE0xQmVUbmI4b0k0dkZSRVE2SmpWT1pxcjIwbHpZUzdUMWVFa3B0NEhTUWJGeUw1RXhQNDlCd0pmWWhlMndSdXo2MHk1OGpEUk5ZYU5JLU9sY0xNWC1NRGp4RkFha0otUHlwaG9udzB3V2phYUNfZg?oc=5)
 
 ---
 
@@ -110,11 +102,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThC
 
 ---
 
-### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+### [Arteriosklerose | Herzschutz durch Lp(a)-Senkung: Hoffnungen erhalten Dämpfer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkFfbDR5a3R5aVozSDZ2a0hsUC0zY01MTnVUTHhSdm0wQnEzelpJTEswY2ZvUFhadU42bC1LTFpmSnp4RU1VTXpmRnc0OVdEandtRmlqdm9zVEZkbE1BSkZUZEV3ekNVZHpJNUhjMkxwM0FKLUZ4QjZDM0VuR0FicFFwT0ItOTlYM2R6cmRBNGY5MEhJSlhPZG1JWGd2SnZrV3pzeHIxMGlQZjl6dUZ4cEY1NDRlYWM2TV9IVkFITEszRThqcVdVeU1MdDVVU1ZYeGwxdVhkTFdwQQ?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkFfbDR5a3R5aVozSDZ2a0hsUC0zY01MTnVUTHhSdm0wQnEzelpJTEswY2ZvUFhadU42bC1LTFpmSnp4RU1VTXpmRnc0OVdEandtRmlqdm9zVEZkbE1BSkZUZEV3ekNVZHpJNUhjMkxwM0FKLUZ4QjZDM0VuR0FicFFwT0ItOTlYM2R6cmRBNGY5MEhJSlhPZG1JWGd2SnZrV3pzeHIxMGlQZjl6dUZ4cEY1NDRlYWM2TV9IVkFITEszRThqcVdVeU1MdDVVU1ZYeGwxdVhkTFdwQQ?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 
 ## Related News (9)
 
+### [La investigación del Alzheimer encuentra nuevas señales en la sangre: identifican proteínas que cambian mientras los pacientes reciben lecanemab - El Economista](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSjA0TUpldHVURlYzcF9DNElwWXJmUUZPU2hrRGU1MEg0QjdvWm9Kc3hqTkhuZk12WnhmR0hBN2JSYXJ2eHVOQ3h4Vm5YTHZoV2hab2oyM2lBakF1dUZJN1I1TXJLM1RBeDJSOHhoWmo4a0lsNVVTVlZvcWJwNEFhVzE5UUFybXplTWlHSnMxQ1EwRURsaE1zOFA3bmhGZmRvcVFpNVM0dkhySjRVYmhJUWxfOER0aTRoWlZYSzlfNndYVWxIazhwQnM1TmdFZEZubEEyZTBWcmJNV1FmRHNRRlNHamxIbGhIWENZdVliNkk5UWdZdDctOHhSZXRwMW9DR3dVRkpmd2tzMlQxNGNjUVA3MzRtM2hldG1rXzhJZWFKUVZ4Z0RZVnFXNEszOTVGX282dkM1Nk1naXptdF9EdTNRVF8wT0hIbWNfMktXSjV4bjg?oc=5)
+
+2026-09-25 <span class="news-drug-tag">Lecanemab</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSjA0TUpldHVURlYzcF9DNElwWXJmUUZPU2hrRGU1MEg0QjdvWm9Kc3hqTkhuZk12WnhmR0hBN2JSYXJ2eHVOQ3h4Vm5YTHZoV2hab2oyM2lBakF1dUZJN1I1TXJLM1RBeDJSOHhoWmo4a0lsNVVTVlZvcWJwNEFhVzE5UUFybXplTWlHSnMxQ1EwRURsaE1zOFA3bmhGZmRvcVFpNVM0dkhySjRVYmhJUWxfOER0aTRoWlZYSzlfNndYVWxIazhwQnM1TmdFZEZubEEyZTBWcmJNV1FmRHNRRlNHamxIbGhIWENZdVliNkk5UWdZdDctOHhSZXRwMW9DR3dVRkpmd2tzMlQxNGNjUVA3MzRtM2hldG1rXzhJZWFKUVZ4Z0RZVnFXNEszOTVGX282dkM1Nk1naXptdF9EdTNRVF8wT0hIbWNfMktXSjV4bjg?oc=5)
+
+---
+
 ### [Empfehlungen zum Umgang mit psychischen Belastungen bei Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2ZCUU1sTnZIOFZBLXB5UTlqb3ZaWmc1Y3ZRYkJfdk5ZOURFX0lWS20tNHR0UnFvYk1qbWpRangxcE5iSG55UjlQN0RTYWRkMlNBSUJjd1NtZTRrMmg4VWFFUU0tWkdYMTgtbDBGVHdTOXN0T3Y2aHFiLWwtSTAwQ183RDJnRjdNWnoxc0FfZFB5ejFLTmx6TDc5aHJLcFIwWTdjZ2lxdG5NWlZhdVp4M0hwZ0VucmxaR1JUOHZSVnpIX204d3ZtWW1BVWY1QQ?oc=5)
 
 2026-09-25 <span class="news-indication-tag">diabetes</span>
@@ -70,14 +78,6 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRK
 
 ---
 
-### [Diabetesrisiko: UCL-Modelle sagen Erkrankungen bis zu 15 Jahre voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
-
-2026-09-25 <span class="news-indication-tag">diabetes</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
-
----
-
 ### [Diabete e cortisone, anche pochi giorni possono contare: i rischi nelle settimane successive](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazgxd19VQngwYl9sNnlldkl6QmZLSS1obHhueDNlc2dmM0RkSVY4MHhFWHZoNUN5aVFHX0hvQU1MVnoyaTZ5SzRHUGZ6SW14bTd4LUZ6cDdCX21yOThwNjlDamV0dGc4MWJCS2hkZFZPZHNPelB1bHdMOHAwSC1zQnVmTklfSGV1Z2Nkb3ZIRGV2NlVJajlPUlVnTUMxdXlXOG9zU2owLTdDS3l3OGx5bS1oUmRmSEFMeTl4OXJ2d1h1cEtEZ09DT2Q5dDI0ZjBheGdMR2RiZDVENGZuV2RGcnN0Ti0?oc=5)
 
 2026-09-25 <span class="news-indication-tag">diabete</span>
@@ -86,19 +86,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazgx
 
 ---
 
-### [Un análisis de sangre podría revelar cuándo lecanemab está funcionando en pacientes con Alzheimer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWlXSlFhVnZKYkpRTWFuVXd2dWxZLW5GOE1OUl9FdWltSXhmVm1XdTVJZUFHUXh2aUhNNnpEYTdIZEV6Y1NVbjd1TmJDTkc5Q0N4anV1eEhxaUtiVk5JNURTNll6RUdfUHdHZG03MFduOE9XRkJycm1TQ2FXZ2p3RkdqNDFkb1R3VS1TWl9iU0tseW03VGFjWk9SWXROVUNrQmcyOHpDRC12V2FLZkNoaUVwdXVCMF9sdUxxLVNQRFNlcWwyUEg4Z2pGRXlza1JMUFRNdzFreFc?oc=5)
+### [Alzheimer-Therapie: 34 Blutmarker verändern sich unter Lecanemab deutlich](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
 
 2026-09-25 <span class="news-drug-tag">Lecanemab</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWlXSlFhVnZKYkpRTWFuVXd2dWxZLW5GOE1OUl9FdWltSXhmVm1XdTVJZUFHUXh2aUhNNnpEYTdIZEV6Y1NVbjd1TmJDTkc5Q0N4anV1eEhxaUtiVk5JNURTNll6RUdfUHdHZG03MFduOE9XRkJycm1TQ2FXZ2p3RkdqNDFkb1R3VS1TWl9iU0tseW03VGFjWk9SWXROVUNrQmcyOHpDRC12V2FLZkNoaUVwdXVCMF9sdUxxLVNQRFNlcWwyUEg4Z2pGRXlza1JMUFRNdzFreFc?oc=5)
-
----
-
-### [Alzheimer-Therapie: 34 Blutmarker verändern sich unter Lecanemab deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
-
-2026-09-25 <span class="news-drug-tag">Lecanemab</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
 
 ---
 
@@ -118,11 +110,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxONXBi
 
 ---
 
+### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+2026-09-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+---
+
 ### [Surprising Diabetes Study Finds Tighter Blood Sugar Control May Come With a Hidden Cost](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2MwZ3lBMzlLTmEyclgwazc1SWZxeHBrQmFnUGZMVGZLc0taZ05EZEw5dk1Hcm0tOWkyM0NRRXJ6ZWVhV28tSHUwYmE3eUsxcXRhM2tWLU9HN0M5eG5mUlJfYUpiWlhJbzAxZW1wZG5zeTB3YThDQ1JVOGczWkt4WUNXaUZaSVBZUEV5eVJqWXNaQlZ0b2ZmR2FWckJlaU9NR3hIZmFNajFWeUFCMVlaU2F1TQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [scitechdaily.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2MwZ3lBMzlLTmEyclgwazc1SWZxeHBrQmFnUGZMVGZLc0taZ05EZEw5dk1Hcm0tOWkyM0NRRXJ6ZWVhV28tSHUwYmE3eUsxcXRhM2tWLU9HN0M5eG5mUlJfYUpiWlhJbzAxZW1wZG5zeTB3YThDQ1JVOGczWkt4WUNXaUZaSVBZUEV5eVJqWXNaQlZ0b2ZmR2FWckJlaU9NR3hIZmFNajFWeUFCMVlaU2F1TQ?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2MwZ3lBMzlLTmEyclgwazc1SWZxeHBrQmFnUGZMVGZLc0taZ05EZEw5dk1Hcm0tOWkyM0NRRXJ6ZWVhV28tSHUwYmE3eUsxcXRhM2tWLU9HN0M5eG5mUlJfYUpiWlhJbzAxZW1wZG5zeTB3YThDQ1JVOGczWkt4WUNXaUZaSVBZUEV5eVJqWXNaQlZ0b2ZmR2FWckJlaU9NR3hIZmFNajFWeUFCMVlaU2F1TQ?oc=5)
 
 ---
 

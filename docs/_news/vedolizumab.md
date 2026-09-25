@@ -70,14 +70,6 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRK
 
 ---
 
-### [Diabetesrisiko: UCL-Modelle sagen Erkrankungen bis zu 15 Jahre voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
-
-2026-09-25 <span class="news-indication-tag">diabetes</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
-
----
-
 ### [Diabete e cortisone, anche pochi giorni possono contare: i rischi nelle settimane successive](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazgxd19VQngwYl9sNnlldkl6QmZLSS1obHhueDNlc2dmM0RkSVY4MHhFWHZoNUN5aVFHX0hvQU1MVnoyaTZ5SzRHUGZ6SW14bTd4LUZ6cDdCX21yOThwNjlDamV0dGc4MWJCS2hkZFZPZHNPelB1bHdMOHAwSC1zQnVmTklfSGV1Z2Nkb3ZIRGV2NlVJajlPUlVnTUMxdXlXOG9zU2owLTdDS3l3OGx5bS1oUmRmSEFMeTl4OXJ2d1h1cEtEZ09DT2Q5dDI0ZjBheGdMR2RiZDVENGZuV2RGcnN0Ti0?oc=5)
 
 2026-09-25 <span class="news-indication-tag">diabete</span>
@@ -102,11 +94,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxONXBi
 
 ---
 
+### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+2026-09-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+---
+
 ### [Surprising Diabetes Study Finds Tighter Blood Sugar Control May Come With a Hidden Cost](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2MwZ3lBMzlLTmEyclgwazc1SWZxeHBrQmFnUGZMVGZLc0taZ05EZEw5dk1Hcm0tOWkyM0NRRXJ6ZWVhV28tSHUwYmE3eUsxcXRhM2tWLU9HN0M5eG5mUlJfYUpiWlhJbzAxZW1wZG5zeTB3YThDQ1JVOGczWkt4WUNXaUZaSVBZUEV5eVJqWXNaQlZ0b2ZmR2FWckJlaU9NR3hIZmFNajFWeUFCMVlaU2F1TQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [scitechdaily.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2MwZ3lBMzlLTmEyclgwazc1SWZxeHBrQmFnUGZMVGZLc0taZ05EZEw5dk1Hcm0tOWkyM0NRRXJ6ZWVhV28tSHUwYmE3eUsxcXRhM2tWLU9HN0M5eG5mUlJfYUpiWlhJbzAxZW1wZG5zeTB3YThDQ1JVOGczWkt4WUNXaUZaSVBZUEV5eVJqWXNaQlZ0b2ZmR2FWckJlaU9NR3hIZmFNajFWeUFCMVlaU2F1TQ?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2MwZ3lBMzlLTmEyclgwazc1SWZxeHBrQmFnUGZMVGZLc0taZ05EZEw5dk1Hcm0tOWkyM0NRRXJ6ZWVhV28tSHUwYmE3eUsxcXRhM2tWLU9HN0M5eG5mUlJfYUpiWlhJbzAxZW1wZG5zeTB3YThDQ1JVOGczWkt4WUNXaUZaSVBZUEV5eVJqWXNaQlZ0b2ZmR2FWckJlaU9NR3hIZmFNajFWeUFCMVlaU2F1TQ?oc=5)
 
 ---
 

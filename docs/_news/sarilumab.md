@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (7)
 
-### [Se confirma la eficacia de los inhibidores de JAK en la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
+### [Morbus Crohn: Immunspuren im Blut zeigen sich bis zu zehn Jahre vorher](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnp4WEJTTHY5ZGF5Y0NKRGN1UUFOWWk5aHBvWGF4d2l0UjVrMFlURVlpNVNOVGxOdE9zU2pteFYwRWVXazBrMmtpMmZ2UXFVbzR1YlJGODZ6S1p3VnRTOW9Gc0JNTTB3NXB6QTZQTXRESmJwY2hXX05jOEVqLVd2TjNud1h6SnhlS2Z2VXVmX2Z4VXJKRWR3YTJpVXNTN0Y5SUt4RjB4OS16b0NFeGJ5VXpVZUhiMFplRkE?oc=5)
 
-2026-09-25 <span class="news-indication-tag">artritis</span>
+2026-09-25 <span class="news-indication-tag">Morbus Crohn</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnp4WEJTTHY5ZGF5Y0NKRGN1UUFOWWk5aHBvWGF4d2l0UjVrMFlURVlpNVNOVGxOdE9zU2pteFYwRWVXazBrMmtpMmZ2UXFVbzR1YlJGODZ6S1p3VnRTOW9Gc0JNTTB3NXB6QTZQTXRESmJwY2hXX05jOEVqLVd2TjNud1h6SnhlS2Z2VXVmX2Z4VXJKRWR3YTJpVXNTN0Y5SUt4RjB4OS16b0NFeGJ5VXpVZUhiMFplRkE?oc=5)
 
 ---
 
-### [Morbus Crohn: Oxalat verschlechtert Entzündungen und senkt Überleben bei Mäusen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2pQZGRwdGlwVjVnNzJwMV9ZVEhTUDFDSHVoeG1WaXlSMzJyQVkyQ0RmajVoYmhyVVNYbHpmb0FXYVJXd0VSUUhVam1kMkp3T1ZGU1JiN1lsOHBOaVFwT0JOUVZnZElidXlBZ19FTEZLanFiTVlNWVA1Z211WE1tbGlfLUQzMkZMVGo4RW5SdWFNbzB3aHMzMVVaU1gwSFBFdTRGYVJRdXpHeEJXNk55eTJBSElnTmtNeW1Xc0VTSQ?oc=5)
+### [Se confirma la eficacia de los inhibidores de JAK en la artritis reumatoide](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
 
-2026-09-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-09-25 <span class="news-indication-tag">artritis</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2pQZGRwdGlwVjVnNzJwMV9ZVEhTUDFDSHVoeG1WaXlSMzJyQVkyQ0RmajVoYmhyVVNYbHpmb0FXYVJXd0VSUUhVam1kMkp3T1ZGU1JiN1lsOHBOaVFwT0JOUVZnZElidXlBZ19FTEZLanFiTVlNWVA1Z211WE1tbGlfLUQzMkZMVGo4RW5SdWFNbzB3aHMzMVVaU1gwSFBFdTRGYVJRdXpHeEJXNk55eTJBSElnTmtNeW1Xc0VTSQ?oc=5)
+Source: [immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
 
 ---
 
@@ -78,11 +78,35 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJi
 
 ---
 
+### [Oft Verdauungsprobleme? Wann gesunde Lebensmittel Entzündungen fördern könnten](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+Source: [T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
 
 2026-09-24 <span class="news-indication-tag">arthritis</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
+
+---
+
+### [Guselkumab könnte extraintestinale Manifestationen bei Morbus Crohn lindern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHJhLWJfdHJPMm95RG5MTXpZN2NWQUxUMEY4d180QU9pLWNQdlBoWThpaWVsOUJ4dnFTM2dzZ0NqMVY1M1p0SjJpQlFZbVlUeVlCenc5ZFdzenNvWENQYndNRHdmTE5TWGpId2F6bXIxc05Gdm1EQzI0Rm45Z1JkdjNPWW0wWS1YWnREd0xWN2tUVmEyOXAzV2QwejBBbkpjRklGME1CRjloT2I4eV9iM09wRlJtVXZ2dWpkTFEzQnNkcGJTVHZJNUI1OENxanVFRFBpMlB6bFNMM1d0?oc=5)
+
+2026-09-23 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHJhLWJfdHJPMm95RG5MTXpZN2NWQUxUMEY4d180QU9pLWNQdlBoWThpaWVsOUJ4dnFTM2dzZ0NqMVY1M1p0SjJpQlFZbVlUeVlCenc5ZFdzenNvWENQYndNRHdmTE5TWGpId2F6bXIxc05Gdm1EQzI0Rm45Z1JkdjNPWW0wWS1YWnREd0xWN2tUVmEyOXAzV2QwejBBbkpjRklGME1CRjloT2I4eV9iM09wRlJtVXZ2dWpkTFEzQnNkcGJTVHZJNUI1OENxanVFRFBpMlB6bFNMM1d0?oc=5)
+
+---
+
+### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">arthritis</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

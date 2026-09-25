@@ -31,11 +31,11 @@ This page brings together the latest health news about “CKD” and lists the d
 
 ## Related News (1)
 
-### [NHS bodies in England impose two-year minimum wait for ADHD and autism assessments - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4T1dVdFU3RFY2cmlPak15WDUzQjktdWFPbl9IWW1QVXdSNjViN1plaFFEeVVaSlByTDBqcGI4NkRkM3ZuR0tiNEtNel9HdGxfa2dhWUFuU0llbm56SkR0bG1rdjd0R09xS2JnYTFMbDQtTjRtODFQcWZxWjF6U3VhMTBvazZVWjVWMXBzaWVucVVvQk1lZExHdk1xVS16MEs3LXlGemVXSzFBYV9qRGJQT05wWXo4N2Y0RXZEOVl3QjUyakxLVg?oc=5)
+### [Two-year waiting times highlight NHS struggle with rise in ADHD and autism awareness - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlNlMHM4YW41b1ZDQUIwa3VYOGVWR2NPMW1HLVFXdG5NYWxBVmNaT2JFRTM3N2daaEQxd29xU1g1RkNpNk9ueUd0YkhZY0VPbHB3SndQUjVLOFpSN0h2LTdnUzM1WTlYR2FLRG9vZV95TUZ4ZlVsTmRnYjZxYjNyV05lR1liSmFJODhpTU0wR1plVXE0UkpJcHlxbFdiN0ZBaGVpMjFGRmhuUUxiYk1NeVg4Rk80Wi01?oc=5)
 
-2026-09-24
+2026-09-25
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4T1dVdFU3RFY2cmlPak15WDUzQjktdWFPbl9IWW1QVXdSNjViN1plaFFEeVVaSlByTDBqcGI4NkRkM3ZuR0tiNEtNel9HdGxfa2dhWUFuU0llbm56SkR0bG1rdjd0R09xS2JnYTFMbDQtTjRtODFQcWZxWjF6U3VhMTBvazZVWjVWMXBzaWVucVVvQk1lZExHdk1xVS16MEs3LXlGemVXSzFBYV9qRGJQT05wWXo4N2Y0RXZEOVl3QjUyakxLVg?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlNlMHM4YW41b1ZDQUIwa3VYOGVWR2NPMW1HLVFXdG5NYWxBVmNaT2JFRTM3N2daaEQxd29xU1g1RkNpNk9ueUd0YkhZY0VPbHB3SndQUjVLOFpSN0h2LTdnUzM1WTlYR2FLRG9vZV95TUZ4ZlVsTmRnYjZxYjNyV05lR1liSmFJODhpTU0wR1plVXE0UkpJcHlxbFdiN0ZBaGVpMjFGRmhuUUxiYk1NeVg4Rk80Wi01?oc=5)
 
 ---
 

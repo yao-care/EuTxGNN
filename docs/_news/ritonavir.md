@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Ritonavir?">
-<strong>Ritonavir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ritonavir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Ritonavir with the latest he
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Vaccinations offered after Hepatitis A outbreak linked to primary school - STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2V1NUNRbURFdmtMZi1YcmpIWFZ3bDZwamR3SGx6YWNibVBaZjYxVno1R0p3NVRGYTZuVjlvSGFVOG9xOWpUTF9UclBqZzBZbUw4Z0FmemRybFozeFprOEhDVUpGZmp0MjctcGU5VGF1N1UtVnZacXNaR0ZPY0x4dzVaNU5yeThiaGJtWTRLWFU0WFlaTlkteGVRY2pqdkp1VVJMRkZFaDJ5S0E?oc=5)
+
+2026-09-25 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+Source: [STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2V1NUNRbURFdmtMZi1YcmpIWFZ3bDZwamR3SGx6YWNibVBaZjYxVno1R0p3NVRGYTZuVjlvSGFVOG9xOWpUTF9UclBqZzBZbUw4Z0FmemRybFozeFprOEhDVUpGZmp0MjctcGU5VGF1N1UtVnZacXNaR0ZPY0x4dzVaNU5yeThiaGJtWTRLWFU0WFlaTlkteGVRY2pqdkp1VVJMRkZFaDJ5S0E?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 
 ## Related News (2)
 
+### [Depressione, cinque cervelli diversi dietro la stessa diagnosi](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnhTQVYtTUZTelNsZkRNTG9FbG9HZ3R3eFFpZGVtS0JDU0V3dFVROGFKWS1jTDRjU0pFa0dkQ1lwU3dlQmdpTGFrY19kdnVBY0dmbG1GZElDRFJqZTBfanZfcE1QRnFrdmhRQjhkYVB0d1E3cmZ3RFJOSE5KS3BIRlVjd0ExVjBKM1J3NzhmMFJxU0pOZzN3R2dJX1B1dlZUSzJYakx2ZTVvYUxpbGRWNkhKSGpBZGJKSVhndm53?oc=5)
+
+2026-09-25 <span class="news-indication-tag">depression</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnhTQVYtTUZTelNsZkRNTG9FbG9HZ3R3eFFpZGVtS0JDU0V3dFVROGFKWS1jTDRjU0pFa0dkQ1lwU3dlQmdpTGFrY19kdnVBY0dmbG1GZElDRFJqZTBfanZfcE1QRnFrdmhRQjhkYVB0d1E3cmZ3RFJOSE5KS3BIRlVjd0ExVjBKM1J3NzhmMFJxU0pOZzN3R2dJX1B1dlZUSzJYakx2ZTVvYUxpbGRWNkhKSGpBZGJKSVhndm53?oc=5)
+
+---
+
 ### [Alimentos ultraprocesados y depresión: reducir su consumo podría mejorar los síntomas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkR3cEJKT3psbHA3ZlFRS1hhRGd0NU9ZZmdGbDdNWE5xdzMxMTNMQXc4VDlxb041VDl6eVowelpzQXBDNjJhalFTYXZZOFNXTEVtWXFZS1Vpbnlkbm1mQnhPX3M0Z3UwVWlTcmpxbkh6Z2Y4UUNhang0UnRhOFQxcExtdEJZM0IxTTJQLTA2VkpJY2dDSlRtZHNobXg2bGlwc242NWh5ZkhZMHN3b0dFc2prX3dDYmx4XzBYWGxCTXN5RGJBNkFPX2Ztc1hFb2xESUhvUGVn?oc=5)
 
 2026-09-25 <span class="news-indication-tag">depresión</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkR3cEJKT3psbHA3ZlFRS1hhRGd0NU9ZZmdGbDdNWE5xdzMxMTNMQXc4VDlxb041VDl6eVowelpzQXBDNjJhalFTYXZZOFNXTEVtWXFZS1Vpbnlkbm1mQnhPX3M0Z3UwVWlTcmpxbkh6Z2Y4UUNhang0UnRhOFQxcExtdEJZM0IxTTJQLTA2VkpJY2dDSlRtZHNobXg2bGlwc242NWh5ZkhZMHN3b0dFc2prX3dDYmx4XzBYWGxCTXN5RGJBNkFPX2Ztc1hFb2xESUhvUGVn?oc=5)
-
----
-
-### [Five Brain Profiles of Depression Identified - Neuroscience News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBDa25yUm9iSXlpNzVKeGF6LXlvV3hhY2ZtZWR0TUpYM0p0SGYwU1Y4NVA2SVZjcmNPMGpRbURwRFBWZUVwcHBOTlhJR1lQTEtfNmhBWnhPU093WFNSTG1EZTJTUS1aT3ZRMWtkLWRtZ1Fha3JD?oc=5)
-
-2026-09-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [Neuroscience News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBDa25yUm9iSXlpNzVKeGF6LXlvV3hhY2ZtZWR0TUpYM0p0SGYwU1Y4NVA2SVZjcmNPMGpRbURwRFBWZUVwcHBOTlhJR1lQTEtfNmhBWnhPU093WFNSTG1EZTJTUS1aT3ZRMWtkLWRtZ1Fha3JD?oc=5)
 
 ---
 
