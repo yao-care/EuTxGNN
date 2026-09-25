@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
 
 ### [Fördern große Brüste Migräne oder Schlafapnoe?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQckptZ01FZjlQZTloRC05VFNHbDc5NlVueHpFQW5TTmFYNVdyWjA0WmhvV0pQMnBHOERxZGlSbDd1eTFqcUh2Y1BsY2JIMzBOc1QwNXpaeVRuUEkwcW91VEtUeFZvSmZkMl9aaU5wOU5IWVVHSVBmZDRvWWNlU2QxUE1vLXhpSlB4MEJRalVaaE56bXc?oc=5)
 
 2026-09-25 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQckptZ01FZjlQZTloRC05VFNHbDc5NlVueHpFQW5TTmFYNVdyWjA0WmhvV0pQMnBHOERxZGlSbDd1eTFqcUh2Y1BsY2JIMzBOc1QwNXpaeVRuUEkwcW91VEtUeFZvSmZkMl9aaU5wOU5IWVVHSVBmZDRvWWNlU2QxUE1vLXhpSlB4MEJRalVaaE56bXc?oc=5)
-
----
-
-### [Demenz-Risiko um 45 Prozent senken: Diese 14 Faktoren könnt ihr gezielt beeinflussen - Business Insider Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0Q5SXI5R2FITmFEcHpfUlBWdlRmZDI2c0sxVHo4YjNkSFR6NEdIMlRlNEI3ZEVwYmJaLTQ3XzVMWFhldS1tOUIwRHJjM0E5bzRBblhIaXBjN284dThwTE9IZTc5QS1SSlgzMGNaRFZXQ3lTeHRSYnM3LXo4QVdCcnZ1QzFmc29PV1J3NWtUOENWSkVQQ1RRSU1WckNyN2s?oc=5)
-
-2026-09-25 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0Q5SXI5R2FITmFEcHpfUlBWdlRmZDI2c0sxVHo4YjNkSFR6NEdIMlRlNEI3ZEVwYmJaLTQ3XzVMWFhldS1tOUIwRHJjM0E5bzRBblhIaXBjN284dThwTE9IZTc5QS1SSlgzMGNaRFZXQ3lTeHRSYnM3LXo4QVdCcnZ1QzFmc29PV1J3NWtUOENWSkVQQ1RRSU1WckNyN2s?oc=5)
 
 ---
 
@@ -94,19 +86,19 @@ Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F
 
 ---
 
-### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE3?oc=5)
 
 2026-09-24 <span class="news-indication-tag">migraña</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE3?oc=5)
 
 ---
 
-### [One in six under-40s have high blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
+### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
-2026-09-24 <span class="news-indication-tag">high blood pressure</span>
+2026-09-24 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
 ---
 
@@ -114,15 +106,7 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2J
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
-
----
-
-### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
-
-Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 1 articles, 7 related drugs."
+description: "Health news about depresión (depression). 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>1 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Alimentos ultraprocesados y depresión: reducir su consumo podría mejorar los síntomas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkR3cEJKT3psbHA3ZlFRS1hhRGd0NU9ZZmdGbDdNWE5xdzMxMTNMQXc4VDlxb041VDl6eVowelpzQXBDNjJhalFTYXZZOFNXTEVtWXFZS1Vpbnlkbm1mQnhPX3M0Z3UwVWlTcmpxbkh6Z2Y4UUNhang0UnRhOFQxcExtdEJZM0IxTTJQLTA2VkpJY2dDSlRtZHNobXg2bGlwc242NWh5ZkhZMHN3b0dFc2prX3dDYmx4XzBYWGxCTXN5RGJBNkFPX2Ztc1hFb2xESUhvUGVn?oc=5)
 
 2026-09-25
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkR3cEJKT3psbHA3ZlFRS1hhRGd0NU9ZZmdGbDdNWE5xdzMxMTNMQXc4VDlxb041VDl6eVowelpzQXBDNjJhalFTYXZZOFNXTEVtWXFZS1Vpbnlkbm1mQnhPX3M0Z3UwVWlTcmpxbkh6Z2Y4UUNhang0UnRhOFQxcExtdEJZM0IxTTJQLTA2VkpJY2dDSlRtZHNobXg2bGlwc242NWh5ZkhZMHN3b0dFc2prX3dDYmx4XzBYWGxCTXN5RGJBNkFPX2Ztc1hFb2xESUhvUGVn?oc=5)
+
+---
+
+### [Five Brain Profiles of Depression Identified - Neuroscience News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBDa25yUm9iSXlpNzVKeGF6LXlvV3hhY2ZtZWR0TUpYM0p0SGYwU1Y4NVA2SVZjcmNPMGpRbURwRFBWZUVwcHBOTlhJR1lQTEtfNmhBWnhPU093WFNSTG1EZTJTUS1aT3ZRMWtkLWRtZ1Fha3JD?oc=5)
+
+2026-09-23
+
+Source: [Neuroscience News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBDa25yUm9iSXlpNzVKeGF6LXlvV3hhY2ZtZWR0TUpYM0p0SGYwU1Y4NVA2SVZjcmNPMGpRbURwRFBWZUVwcHBOTlhJR1lQTEtfNmhBWnhPU093WFNSTG1EZTJTUS1aT3ZRMWtkLWRtZ1Fha3JD?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan Succinate?">
-<strong>Lasmiditan Succinate</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Lasmiditan Succinate</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
 
 ### [Fördern große Brüste Migräne oder Schlafapnoe?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQckptZ01FZjlQZTloRC05VFNHbDc5NlVueHpFQW5TTmFYNVdyWjA0WmhvV0pQMnBHOERxZGlSbDd1eTFqcUh2Y1BsY2JIMzBOc1QwNXpaeVRuUEkwcW91VEtUeFZvSmZkMl9aaU5wOU5IWVVHSVBmZDRvWWNlU2QxUE1vLXhpSlB4MEJRalVaaE56bXc?oc=5)
 
@@ -78,19 +78,19 @@ Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F
 
 ---
 
-### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+### [Por qué más mujeres sufren ataques de migraña que los hombres (y qué puede ayudar a calmar el dolor)](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE3?oc=5)
 
 2026-09-24 <span class="news-indication-tag">migraña</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE3?oc=5)
 
 ---
 
-### [Obesità, farmaci gratis. In Regione c’è una legge](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
+### [Obesità, farmaci gratis. In Regione c’è una legge - il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
 
 2026-09-24 <span class="news-indication-tag">obesità</span>
 
-Source: [ilgiornale.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
+Source: [il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
 
 ---
 
@@ -98,7 +98,7 @@ Source: [ilgiornale.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZ
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
 ---
 
@@ -110,11 +110,27 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlR
 
 ---
 
+### [La obesidad altera una enzima clave de las células inmunitarias del tejido adiposo y favorece la inflamación metabólica - Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
+
+2026-09-23 <span class="news-indication-tag">obesidad</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
+
+---
+
 ### [« Des migraines, des vomissements… » : ces dangereux compléments amincissants à la sibutramine promus par des influenceuses - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
 Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
+
+---
+
+### [Bariatrische OP: Entzündliche Veränderungen im Immunsystem sind umkehrbar – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2pZZW5RVWwyNDdDekF1M2IwbzRXLXhKOUVMNFpQV0t0VnppZTNYOTBMVFBmR3NtTzhjb2swSG1GazBVSC04STgtemIxVWQwdFpETWMyb2FJMlNsRDhtVnJicDJYVmxadFpoUFdMRnBra3laSmwtYUpWTEs5QlQ4SU13Rk1vYmpRaUZpQU9ERjVtbXhBY1FpN1hpaEl1MkdQMFRiZmdFbFNKODNZTnBhQ1hlZUZhQVYwM1psSDQtMDNaQUJWQnI3RkFWc1RiWkF2aDZ1Ni11Y1M?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2pZZW5RVWwyNDdDekF1M2IwbzRXLXhKOUVMNFpQV0t0VnppZTNYOTBMVFBmR3NtTzhjb2swSG1GazBVSC04STgtemIxVWQwdFpETWMyb2FJMlNsRDhtVnJicDJYVmxadFpoUFdMRnBra3laSmwtYUpWTEs5QlQ4SU13Rk1vYmpRaUZpQU9ERjVtbXhBY1FpN1hpaEl1MkdQMFRiZmdFbFNKODNZTnBhQ1hlZUZhQVYwM1psSDQtMDNaQUJWQnI3RkFWc1RiWkF2aDZ1Ni11Y1M?oc=5)
 
 ---
 

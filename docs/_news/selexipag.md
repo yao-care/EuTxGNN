@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Selexipag</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Demenz-Risiko um 45 Prozent senken: Diese 14 Faktoren könnt ihr gezielt beeinflussen - Business Insider Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0Q5SXI5R2FITmFEcHpfUlBWdlRmZDI2c0sxVHo4YjNkSFR6NEdIMlRlNEI3ZEVwYmJaLTQ3XzVMWFhldS1tOUIwRHJjM0E5bzRBblhIaXBjN284dThwTE9IZTc5QS1SSlgzMGNaRFZXQ3lTeHRSYnM3LXo4QVdCcnZ1QzFmc29PV1J3NWtUOENWSkVQQ1RRSU1WckNyN2s?oc=5)
-
-2026-09-25 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0Q5SXI5R2FITmFEcHpfUlBWdlRmZDI2c0sxVHo4YjNkSFR6NEdIMlRlNEI3ZEVwYmJaLTQ3XzVMWFhldS1tOUIwRHJjM0E5bzRBblhIaXBjN284dThwTE9IZTc5QS1SSlgzMGNaRFZXQ3lTeHRSYnM3LXo4QVdCcnZ1QzFmc29PV1J3NWtUOENWSkVQQ1RRSU1WckNyN2s?oc=5)
-
----
+## Related News (3)
 
 ### [Konservierungsstoffe: Studie findet Zusammenhang mit Bluthochdruck](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2YwY0tzT1JVS2U0b2ZYblJ1NDByRHNwWnN1cmppZkVWd3lJMzRHLVpWVTJKd3FYcEFFbExCeFpERTJONGRjWHdOdlBVNC1QVE1yQVFoQXZSN0NrQXF6djNHakhMbTIzZ0NWMWJhWDQ4UzFpcGs4MEI1LTk1LWQtWHVEZi1fSWhNOWg4Q1dlcVRyLUltUzRqa01pZXpuS1Nz?oc=5)
 
@@ -70,11 +62,11 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2Y
 
 ---
 
-### [One in six under-40s have high blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
+### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
-2026-09-24 <span class="news-indication-tag">high blood pressure</span>
+2026-09-24 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
 ---
 

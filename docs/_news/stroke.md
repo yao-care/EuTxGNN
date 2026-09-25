@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 7 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 9 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [„Der durch eine krebsassoziierte Koagulopathie ausgelöste Schlaganfall ist eine eigenständige Entität“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+
+2026-09-25
+
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+
+---
 
 ### [Ictus prima dei 55 anni, i casi sono quasi raddoppiati: i segnali da non ignorare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
 
@@ -57,11 +65,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1k
 
 ---
 
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+### [El ictus, cada vez más frecuente en adultos jóvenes: casi se duplican en tres décadas](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFhCVzg5andBUFE1alBkRGxHaDktdThtNjhjeDZudFFkX1BQdnBrWDcxRDl5ZndmLWg4SGNKS1JvVWYzQ2g5TkdZbzNYYUUzNkNQcTVpdWFVOHlsODc2M21hRTJDbjE3TGVHVmtFUzVITE0xQmVUbmI4b0k0dkZSRVE2SmpWT1pxcjIwbHpZUzdUMWVFa3B0NEhTUWJGeUw1RXhQNDlCd0pmWWhlMndSdXo2MHk1OGpEUk5ZYU5JLU9sY0xNWC1NRGp4RkFha0otUHlwaG9udzB3V2phYUNfZg?oc=5)
 
 2026-09-24
 
-Source: [newsandstar.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFhCVzg5andBUFE1alBkRGxHaDktdThtNjhjeDZudFFkX1BQdnBrWDcxRDl5ZndmLWg4SGNKS1JvVWYzQ2g5TkdZbzNYYUUzNkNQcTVpdWFVOHlsODc2M21hRTJDbjE3TGVHVmtFUzVITE0xQmVUbmI4b0k0dkZSRVE2SmpWT1pxcjIwbHpZUzdUMWVFa3B0NEhTUWJGeUw1RXhQNDlCd0pmWWhlMndSdXo2MHk1OGpEUk5ZYU5JLU9sY0xNWC1NRGp4RkFha0otUHlwaG9udzB3V2phYUNfZg?oc=5)
+
+---
+
+### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+
+2026-09-24
+
+Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 ---
 
@@ -73,19 +89,19 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 
 ---
 
-### [« Les femmes sont moins bien prises en charge » : le risque cardiovasculaire, angle mort de la santé en entreprise - Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPdS1SUDNMUUV4c3VNbHVTRzZzaEdaRmI3dzJzMGU3bThpR2xLcEtjalYtZG1lTDBITFV1dW5BR2dQUE1vSTItVDd6NHpiRTB3X2JxZjFveGxYNGI3SlRxMDlNeVRMa1l2NDBpZEJMYUN3VWRBQWFOTDViVjJtZ0c1RmV0MkRnRmFESnFvZ2pPVjR4T1BlcTB3MzR3dzM4VnoyQmxpUTN4eEp0bXBhejUyeWVKeXYyS3ZXWE5NMFY5cE9PaTBtVVY0dm1jbTd6VjRhOE9UX2NmUVNCNDl3ZzRudVR2YndVQkdYeXg0STgwRjlzUUFNZFFUU0FBNXBudUxQTk9vMA?oc=5)
-
-2026-09-22
-
-Source: [Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPdS1SUDNMUUV4c3VNbHVTRzZzaEdaRmI3dzJzMGU3bThpR2xLcEtjalYtZG1lTDBITFV1dW5BR2dQUE1vSTItVDd6NHpiRTB3X2JxZjFveGxYNGI3SlRxMDlNeVRMa1l2NDBpZEJMYUN3VWRBQWFOTDViVjJtZ0c1RmV0MkRnRmFESnFvZ2pPVjR4T1BlcTB3MzR3dzM4VnoyQmxpUTN4eEp0bXBhejUyeWVKeXYyS3ZXWE5NMFY5cE9PaTBtVVY0dm1jbTd6VjRhOE9UX2NmUVNCNDl3ZzRudVR2YndVQkdYeXg0STgwRjlzUUFNZFFUU0FBNXBudUxQTk9vMA?oc=5)
-
----
-
 ### [Fibrillazione atriale, anticoagulanti e rischio di ictus: come si sceglie la terapia giusta](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
 
 2026-09-21
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
+
+---
+
+### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+
+2026-09-21
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 ---
 

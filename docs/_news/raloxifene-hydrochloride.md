@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [„Der durch eine krebsassoziierte Koagulopathie ausgelöste Schlaganfall ist eine eigenständige Entität“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+
+2026-09-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+
+---
 
 ### [Ictus prima dei 55 anni, i casi sono quasi raddoppiati: i segnali da non ignorare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
 
@@ -70,27 +78,27 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1k
 
 ---
 
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+### [El ictus, cada vez más frecuente en adultos jóvenes: casi se duplican en tres décadas](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFhCVzg5andBUFE1alBkRGxHaDktdThtNjhjeDZudFFkX1BQdnBrWDcxRDl5ZndmLWg4SGNKS1JvVWYzQ2g5TkdZbzNYYUUzNkNQcTVpdWFVOHlsODc2M21hRTJDbjE3TGVHVmtFUzVITE0xQmVUbmI4b0k0dkZSRVE2SmpWT1pxcjIwbHpZUzdUMWVFa3B0NEhTUWJGeUw1RXhQNDlCd0pmWWhlMndSdXo2MHk1OGpEUk5ZYU5JLU9sY0xNWC1NRGp4RkFha0otUHlwaG9udzB3V2phYUNfZg?oc=5)
+
+2026-09-24 <span class="news-indication-tag">ictus</span>
+
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFhCVzg5andBUFE1alBkRGxHaDktdThtNjhjeDZudFFkX1BQdnBrWDcxRDl5ZndmLWg4SGNKS1JvVWYzQ2g5TkdZbzNYYUUzNkNQcTVpdWFVOHlsODc2M21hRTJDbjE3TGVHVmtFUzVITE0xQmVUbmI4b0k0dkZSRVE2SmpWT1pxcjIwbHpZUzdUMWVFa3B0NEhTUWJGeUw1RXhQNDlCd0pmWWhlMndSdXo2MHk1OGpEUk5ZYU5JLU9sY0xNWC1NRGp4RkFha0otUHlwaG9udzB3V2phYUNfZg?oc=5)
+
+---
+
+### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [newsandstar.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 ---
 
 ### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AVC</span>
+2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
-
----
-
-### [« Les femmes sont moins bien prises en charge » : le risque cardiovasculaire, angle mort de la santé en entreprise - Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPdS1SUDNMUUV4c3VNbHVTRzZzaEdaRmI3dzJzMGU3bThpR2xLcEtjalYtZG1lTDBITFV1dW5BR2dQUE1vSTItVDd6NHpiRTB3X2JxZjFveGxYNGI3SlRxMDlNeVRMa1l2NDBpZEJMYUN3VWRBQWFOTDViVjJtZ0c1RmV0MkRnRmFESnFvZ2pPVjR4T1BlcTB3MzR3dzM4VnoyQmxpUTN4eEp0bXBhejUyeWVKeXYyS3ZXWE5NMFY5cE9PaTBtVVY0dm1jbTd6VjRhOE9UX2NmUVNCNDl3ZzRudVR2YndVQkdYeXg0STgwRjlzUUFNZFFUU0FBNXBudUxQTk9vMA?oc=5)
-
-2026-09-22 <span class="news-indication-tag">AVC</span>
-
-Source: [Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPdS1SUDNMUUV4c3VNbHVTRzZzaEdaRmI3dzJzMGU3bThpR2xLcEtjalYtZG1lTDBITFV1dW5BR2dQUE1vSTItVDd6NHpiRTB3X2JxZjFveGxYNGI3SlRxMDlNeVRMa1l2NDBpZEJMYUN3VWRBQWFOTDViVjJtZ0c1RmV0MkRnRmFESnFvZ2pPVjR4T1BlcTB3MzR3dzM4VnoyQmxpUTN4eEp0bXBhejUyeWVKeXYyS3ZXWE5NMFY5cE9PaTBtVVY0dm1jbTd6VjRhOE9UX2NmUVNCNDl3ZzRudVR2YndVQkdYeXg0STgwRjlzUUFNZFFUU0FBNXBudUxQTk9vMA?oc=5)
 
 ---
 
@@ -99,6 +107,14 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMihAJBVV95cUxPdS1SUDN
 2026-09-21 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
+
+---
+
+### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+
+2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 ---
 
