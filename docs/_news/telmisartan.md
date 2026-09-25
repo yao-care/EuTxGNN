@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (13)
 
 ### [Schlaganfall: „Vitamin K aktiviert Proteine, die Blutgefäße vor Verkalkung schützen“](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnFLdWVDb3I5V3Y5cmlVLUVaQ3ppX1laeTNuU3dGOWU2UHo1dHlLVEVhcE9vaHM4emMzS18teVNTRG94SWZNUDVkc1E5aEhaUGJQNHJONlk1WnBPOGlOc29PQUFZZTJreUJlbExybEdkdHFKYjl0NmJxYVNJSTlwRXpRZ1NWNHlwNWNYWXlITllTYy1SWm1OVVRIdkQtTzN3eGM4eWdMb2dCUS1kWFJmeTZaX0hUajBvUm5XZ0RMREs3VFNwdVdBZWhyZlFxNUhva0ZnWDAxWi00UEd4dU9OX0VfZVQtUQ?oc=5)
 
-2026-09-24 <span class="news-indication-tag">Schlaganfall</span>
+2026-09-25 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnFLdWVDb3I5V3Y5cmlVLUVaQ3ppX1laeTNuU3dGOWU2UHo1dHlLVEVhcE9vaHM4emMzS18teVNTRG94SWZNUDVkc1E5aEhaUGJQNHJONlk1WnBPOGlOc29PQUFZZTJreUJlbExybEdkdHFKYjl0NmJxYVNJSTlwRXpRZ1NWNHlwNWNYWXlITllTYy1SWm1OVVRIdkQtTzN3eGM4eWdMb2dCUS1kWFJmeTZaX0hUajBvUm5XZ0RMREs3VFNwdVdBZWhyZlFxNUhva0ZnWDAxWi00UEd4dU9OX0VfZVQtUQ?oc=5)
 
@@ -86,6 +86,14 @@ Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMi
 
 ---
 
+### [Ictus, 13 pazienti in più su 100 tornano autonomi: cosa ha mostrato il nuovo studio](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
+
+2026-09-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
+
+---
+
 ### [One in six under-40s have high blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2JyT2duX21nVHoxeU41QjJkMGJKVXU0aGtBLWdtRmdNeVk0S2JtVFZ0QkxqQ2E0OERyQUZWTExWMm5wY25RS3pQNWRLRG85cV9pTF9VbW4xb0FwLVZmbV81Z0FxN2lWSXRTR1BMVEJrSFRXb0ZTXzBIMmh1MEd6WXdBX3pmX1Y3Q2tqTGl3?oc=5)
 
 2026-09-24 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
@@ -102,51 +110,27 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXJ
 
 ---
 
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
-
-2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
-
----
-
 ### [These Foods May Help Lower Your Blood Pressure, New Study Says](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
 
 2026-09-24 <span class="news-indication-tag">heart disease</span>
 
-Source: [eatingwell.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZ1pFc082bjNUUUdlN1kxamJzdlZQX2d0NnR3ZzQ0TjU1SFY2dnF3MzczVm9sRlZCbkV5LUFKN1NWdjZ4akFLSWM0bFlTbGdHdlJ3eTVvMmJhSWR1YnVEUks2XzduWGkyN1I3VHg4UTFwdUFLWm9Sbg?oc=5)
 
 ---
 
-### [New HRT warning after popular drugs found to raise risk of dangerous blood clots](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
+### [New HRT warning after popular drugs found to raise risk of dangerous blood clots - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
-
----
-
-### [Connaître ces quatre signes peut faire toute la différence : la méthode VITE pour reconnaître les signes d'un AVC - TF1 Info](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWN0SFhNS3NfbHNFc2R1djJlV3NXbWFQNnZIN0d3ZzFoZV93R0VKTlFIM0x0QmdBQmtEZ1VpSWlERk9MNjllcHZZNkdsNWVRc0tfd2EzQi11VWs3VENHaEdQUFJscWxmdmVIcFNva1NaUW9ZUHhwQnk4UU9uU0x2eE92bDJlRUFXa2lxM1pJQmpSN0MycFc4aUZnODJjSDl4dkFOTW94MktPUnVHam5zQlZvU2dqU19ETHF4WXd0X2VvWVVlR1NoSERma2QwOXVTOE1NeXEwNDFPaU5ETUlhWWZ6S0FCeGJO?oc=5)
-
-2026-09-23 <span class="news-indication-tag">AVC</span>
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWN0SFhNS3NfbHNFc2R1djJlV3NXbWFQNnZIN0d3ZzFoZV93R0VKTlFIM0x0QmdBQmtEZ1VpSWlERk9MNjllcHZZNkdsNWVRc0tfd2EzQi11VWs3VENHaEdQUFJscWxmdmVIcFNva1NaUW9ZUHhwQnk4UU9uU0x2eE92bDJlRUFXa2lxM1pJQmpSN0MycFc4aUZnODJjSDl4dkFOTW94MktPUnVHam5zQlZvU2dqU19ETHF4WXd0X2VvWVVlR1NoSERma2QwOXVTOE1NeXEwNDFPaU5ETUlhWWZ6S0FCeGJO?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
 
 ---
 
 ### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
+2026-09-23 <span class="news-indication-tag">cardiovascular disease</span>
 
 Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
-
----
-
-### [Hidden Inflammation Linked to 43% Higher Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
 
 ---
 
@@ -163,14 +147,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mR
 2026-09-21 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
-
----
-
-### [Des chercheurs ont implanté du tissu cérébral humain dans le cerveau de souris](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVE4czNEYWpYeHRtSzU1Q3IyYzhBNXJTaGU4NWx6VGxaNzVvRE9Gd3hub0JIOXczbXh2c1ljTUVocjdYMTVEQmdFS0c0bDZ3Z0ZKbEpKVkJXaXQ3dF9nWms3bUo3TFJyV0N0bVVzS2NoM0xHa3FRRk1CZ1hudVFWZlNXNm1WYTBWbXlQaE10VE5WdHVLWjYyU2tqSEo3eWZYaGpTemMycmlTVGk4TTBMdEdkeU9OYnRJTUdIb0pwZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">AVC</span>
-
-Source: [Geo.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVE4czNEYWpYeHRtSzU1Q3IyYzhBNXJTaGU4NWx6VGxaNzVvRE9Gd3hub0JIOXczbXh2c1ljTUVocjdYMTVEQmdFS0c0bDZ3Z0ZKbEpKVkJXaXQ3dF9nWms3bUo3TFJyV0N0bVVzS2NoM0xHa3FRRk1CZ1hudVFWZlNXNm1WYTBWbXlQaE10VE5WdHVLWjYyU2tqSEo3eWZYaGpTemMycmlTVGk4TTBMdEdkeU9OYnRJTUdIb0pwZw?oc=5)
 
 ---
 

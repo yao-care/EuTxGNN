@@ -31,11 +31,11 @@ This page brings together the latest health news about “CKD” and lists the d
 
 ## Related News (1)
 
-### [Private ADHD clinics face crackdown - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBmYVZJcXRhd1ZaUEtmUGMtTlZjeC11WjJ0Q2xfNnBxQjhuby01Sm5aWWtzM1JjdkpULUdTUkhLcFdlTGYyNnUxbG1zZTB2ZnFuYkw3R05UWnlTeG85TEM0YTVBc3Y4VElEN0NjQkI1YVBfNFJRZHQ3TEhEZElVVU92a3IyOTQ?oc=5)
+### [NHS bodies in England impose two-year minimum wait for ADHD and autism assessments](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4T1dVdFU3RFY2cmlPak15WDUzQjktdWFPbl9IWW1QVXdSNjViN1plaFFEeVVaSlByTDBqcGI4NkRkM3ZuR0tiNEtNel9HdGxfa2dhWUFuU0llbm56SkR0bG1rdjd0R09xS2JnYTFMbDQtTjRtODFQcWZxWjF6U3VhMTBvazZVWjVWMXBzaWVucVVvQk1lZExHdk1xVS16MEs3LXlGemVXSzFBYV9qRGJQT05wWXo4N2Y0RXZEOVl3QjUyakxLVg?oc=5)
 
-2026-09-22
+2026-09-24
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBmYVZJcXRhd1ZaUEtmUGMtTlZjeC11WjJ0Q2xfNnBxQjhuby01Sm5aWWtzM1JjdkpULUdTUkhLcFdlTGYyNnUxbG1zZTB2ZnFuYkw3R05UWnlTeG85TEM0YTVBc3Y4VElEN0NjQkI1YVBfNFJRZHQ3TEhEZElVVU92a3IyOTQ?oc=5)
+Source: [theguardian.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4T1dVdFU3RFY2cmlPak15WDUzQjktdWFPbl9IWW1QVXdSNjViN1plaFFEeVVaSlByTDBqcGI4NkRkM3ZuR0tiNEtNel9HdGxfa2dhWUFuU0llbm56SkR0bG1rdjd0R09xS2JnYTFMbDQtTjRtODFQcWZxWjF6U3VhMTBvazZVWjVWMXBzaWVucVVvQk1lZExHdk1xVS16MEs3LXlGemVXSzFBYV9qRGJQT05wWXo4N2Y0RXZEOVl3QjUyakxLVg?oc=5)
 
 ---
 

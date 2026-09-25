@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (12)
 
 ### [Schlaganfall: „Vitamin K aktiviert Proteine, die Blutgefäße vor Verkalkung schützen“](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnFLdWVDb3I5V3Y5cmlVLUVaQ3ppX1laeTNuU3dGOWU2UHo1dHlLVEVhcE9vaHM4emMzS18teVNTRG94SWZNUDVkc1E5aEhaUGJQNHJONlk1WnBPOGlOc29PQUFZZTJreUJlbExybEdkdHFKYjl0NmJxYVNJSTlwRXpRZ1NWNHlwNWNYWXlITllTYy1SWm1OVVRIdkQtTzN3eGM4eWdMb2dCUS1kWFJmeTZaX0hUajBvUm5XZ0RMREs3VFNwdVdBZWhyZlFxNUhva0ZnWDAxWi00UEd4dU9OX0VfZVQtUQ?oc=5)
 
-2026-09-24 <span class="news-indication-tag">Schlaganfall</span>
+2026-09-25 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnFLdWVDb3I5V3Y5cmlVLUVaQ3ppX1laeTNuU3dGOWU2UHo1dHlLVEVhcE9vaHM4emMzS18teVNTRG94SWZNUDVkc1E5aEhaUGJQNHJONlk1WnBPOGlOc29PQUFZZTJreUJlbExybEdkdHFKYjl0NmJxYVNJSTlwRXpRZ1NWNHlwNWNYWXlITllTYy1SWm1OVVRIdkQtTzN3eGM4eWdMb2dCUS1kWFJmeTZaX0hUajBvUm5XZ0RMREs3VFNwdVdBZWhyZlFxNUhva0ZnWDAxWi00UEd4dU9OX0VfZVQtUQ?oc=5)
 
@@ -70,6 +70,14 @@ Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHgy
 
 ---
 
+### [Herzrisiko: Warum der Bauchumfang mehr verrät als der BMI](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW8zV19LTTZZSzJGbG9QYTBhc2phOGd2WDktQk82Q2Z3SDFmTm9nQWVuX0t0emUzS3g4MFdOLXdsbWlCYTdaaG5oSk03Z05SZFI4Nnk4LXd6Mkk0bE5aUXItaXMyYU44THVjTzhSaVdXNDF0Zi1FU1gyeGhRTVotbzQ4WXJTVzVpd2w4TA?oc=5)
+
+2026-09-24 <span class="news-indication-tag">Adipositas</span>
+
+Source: [herzstiftung.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW8zV19LTTZZSzJGbG9QYTBhc2phOGd2WDktQk82Q2Z3SDFmTm9nQWVuX0t0emUzS3g4MFdOLXdsbWlCYTdaaG5oSk03Z05SZFI4Nnk4LXd6Mkk0bE5aUXItaXMyYU44THVjTzhSaVdXNDF0Zi1FU1gyeGhRTVotbzQ4WXJTVzVpd2w4TA?oc=5)
+
+---
+
 ### [Ictus prima dei 55 anni, i casi sono quasi raddoppiati: i segnali da non ignorare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
 
 2026-09-24 <span class="news-indication-tag">ictus</span>
@@ -78,11 +86,27 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4
 
 ---
 
+### [Ictus, 13 pazienti in più su 100 tornano autonomi: cosa ha mostrato il nuovo studio](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
+
+2026-09-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
+
+---
+
 ### [I farmaci per perdere peso associati a rischio rigurgito e aspirazione 11 volte superiore durante l'anestesia](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
 
 2026-09-24 <span class="news-indication-tag">obesità</span>
 
-Source: [fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
+Source: [Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
+
+---
+
+### [La obesidad altera una enzima clave de las células inmunitarias del tejido adiposo y favorece la inflamación metabólica - Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">obesidad</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
 
 ---
 
@@ -102,43 +126,11 @@ Source: [il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPW
 
 ---
 
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
-
-2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
-
----
-
-### [New HRT warning after popular drugs found to raise risk of dangerous blood clots](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
+### [New HRT warning after popular drugs found to raise risk of dangerous blood clots - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
-
----
-
-### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
----
-
-### [Connaître ces quatre signes peut faire toute la différence : la méthode VITE pour reconnaître les signes d'un AVC - TF1 Info](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWN0SFhNS3NfbHNFc2R1djJlV3NXbWFQNnZIN0d3ZzFoZV93R0VKTlFIM0x0QmdBQmtEZ1VpSWlERk9MNjllcHZZNkdsNWVRc0tfd2EzQi11VWs3VENHaEdQUFJscWxmdmVIcFNva1NaUW9ZUHhwQnk4UU9uU0x2eE92bDJlRUFXa2lxM1pJQmpSN0MycFc4aUZnODJjSDl4dkFOTW94MktPUnVHam5zQlZvU2dqU19ETHF4WXd0X2VvWVVlR1NoSERma2QwOXVTOE1NeXEwNDFPaU5ETUlhWWZ6S0FCeGJO?oc=5)
-
-2026-09-23 <span class="news-indication-tag">AVC</span>
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWN0SFhNS3NfbHNFc2R1djJlV3NXbWFQNnZIN0d3ZzFoZV93R0VKTlFIM0x0QmdBQmtEZ1VpSWlERk9MNjllcHZZNkdsNWVRc0tfd2EzQi11VWs3VENHaEdQUFJscWxmdmVIcFNva1NaUW9ZUHhwQnk4UU9uU0x2eE92bDJlRUFXa2lxM1pJQmpSN0MycFc4aUZnODJjSDl4dkFOTW94MktPUnVHam5zQlZvU2dqU19ETHF4WXd0X2VvWVVlR1NoSERma2QwOXVTOE1NeXEwNDFPaU5ETUlhWWZ6S0FCeGJO?oc=5)
-
----
-
-### [Hidden Inflammation Linked to 43% Higher Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVpWeGVhbHJYZlphYU1EaDlZdnUzWGJXSTh4X19VX2oxd2FRVkdUXy1aazhLOVdxRWhicHF1Szk0NGpudFZ0V0ViWG83VkowcGpGYnhTV2RzODVfMmstcDBUTUR1U3J2NVlRLUtTWC1xaTh1UkExWnhBTmNoQQ?oc=5)
 
 ---
 
@@ -155,22 +147,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY09mR
 2026-09-21 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
-
----
-
-### [Des chercheurs ont implanté du tissu cérébral humain dans le cerveau de souris](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVE4czNEYWpYeHRtSzU1Q3IyYzhBNXJTaGU4NWx6VGxaNzVvRE9Gd3hub0JIOXczbXh2c1ljTUVocjdYMTVEQmdFS0c0bDZ3Z0ZKbEpKVkJXaXQ3dF9nWms3bUo3TFJyV0N0bVVzS2NoM0xHa3FRRk1CZ1hudVFWZlNXNm1WYTBWbXlQaE10VE5WdHVLWjYyU2tqSEo3eWZYaGpTemMycmlTVGk4TTBMdEdkeU9OYnRJTUdIb0pwZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">AVC</span>
-
-Source: [Geo.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVE4czNEYWpYeHRtSzU1Q3IyYzhBNXJTaGU4NWx6VGxaNzVvRE9Gd3hub0JIOXczbXh2c1ljTUVocjdYMTVEQmdFS0c0bDZ3Z0ZKbEpKVkJXaXQ3dF9nWms3bUo3TFJyV0N0bVVzS2NoM0xHa3FRRk1CZ1hudVFWZlNXNm1WYTBWbXlQaE10VE5WdHVLWjYyU2tqSEo3eWZYaGpTemMycmlTVGk4TTBMdEdkeU9OYnRJTUdIb0pwZw?oc=5)
-
----
-
-### [Adipositas erkennen: Warum das Maßband dem BMI deutlich überlegen ist](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Adipositas</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
 
 ---
 

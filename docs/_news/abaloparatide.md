@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
+
+### [Prädiabetes: Lebensstilintervention senkt das spätere Diabetesrisiko um 73 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxObDM0MW1NWWJCYjRkS3FocG9KYlZGOEVNZnZqMXdKYTJjUlhYR2ppbWx5Z1pUUm5mUHFwaWpiR29Qemlla1NzNWVKMDVaZ3hJUEo0cUVoU1pQWVRkNHpMSUNzSVl4V0dpdWtrQWhMVGZLOTF4VFlEYmdiM1JPdWF4aTJtTEJPRm1QMTBldXZhZ3FZeG50UkJzSmFZOWh5Q25sRU9yOEFWRmxVeGFYeV80OVhrMmFiUWs5eUtYZlNB?oc=5)
+
+2026-09-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxObDM0MW1NWWJCYjRkS3FocG9KYlZGOEVNZnZqMXdKYTJjUlhYR2ppbWx5Z1pUUm5mUHFwaWpiR29Qemlla1NzNWVKMDVaZ3hJUEo0cUVoU1pQWVRkNHpMSUNzSVl4V0dpdWtrQWhMVGZLOTF4VFlEYmdiM1JPdWF4aTJtTEJPRm1QMTBldXZhZ3FZeG50UkJzSmFZOWh5Q25sRU9yOEFWRmxVeGFYeV80OVhrMmFiUWs5eUtYZlNB?oc=5)
+
+---
 
 ### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
 
@@ -67,6 +75,14 @@ Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F
 2026-09-24 <span class="news-indication-tag">migraña</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQW9Pa1NJQmpuVnFMTTdnWXo5dE5wV25IcFByakFOSk4xb0hYQlFIeXVjMmJyaW1FQV9oSFpKV2ZPUWpCaEQ1V2JPVmhEbWFNYjE30gFiQVVfeXFMTURtc1Yyekxyc08tby12YVRuZW1tUGVuNXBfdkwybFd4QmNGV2FQNXRERUp1c0R1NW5GeHNwQVBBQldMcHZpNVdlMkhZaWRMN2syeXVIZUJKeDRPNGxvS1JGTGc?oc=5)
+
+---
+
+### [Cellule staminali contro il diabete, in Cina una donna è tornata a produrre insulina. Risultati importanti ma non è ancora una cura per tutti](https://news.google.com/rss/articles/CBMimgJBVV95cUxONXBicG5yRklQcGZBcklPTVZod3cwakdLSGN1M2ZlYnVVTXF2SmlLMWNCZkQweGJDdDEtcEc4RU10b3B0VXFQV3RPS1BuNHk0RlRFR1hqUXhrMGhfMldLWjRNVVhhOFMtZFpmQk9MNkE3Zi1uRDBxNmdqM1Y3ZHJGWXhzYkNvOTI5N2pScUZZQ0RvMmZNczl2Q1hpTG1TdEh6N1VaNG9UZXd4V3FWZGRnRnphbU1TT1VhbmN4SndkRDhZT2R0RUU2WUpseTR1NVNITTB4a2J0MXA4R1YzTWdVUkc5aEtrSDhnWk02ZUVBQ1Zxd3p0OXBLVnVJSm9OcjI2VjJCY1pGakJtNDVtZEdUQkdMTHlfTVJ6ZUE?oc=5)
+
+2026-09-24 <span class="news-indication-tag">diabete</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxONXBicG5yRklQcGZBcklPTVZod3cwakdLSGN1M2ZlYnVVTXF2SmlLMWNCZkQweGJDdDEtcEc4RU10b3B0VXFQV3RPS1BuNHk0RlRFR1hqUXhrMGhfMldLWjRNVVhhOFMtZFpmQk9MNkE3Zi1uRDBxNmdqM1Y3ZHJGWXhzYkNvOTI5N2pScUZZQ0RvMmZNczl2Q1hpTG1TdEh6N1VaNG9UZXd4V3FWZGRnRnphbU1TT1VhbmN4SndkRDhZT2R0RUU2WUpseTR1NVNITTB4a2J0MXA4R1YzTWdVUkc5aEtrSDhnWk02ZUVBQ1Zxd3p0OXBLVnVJSm9OcjI2VjJCY1pGakJtNDVtZEdUQkdMTHlfTVJ6ZUE?oc=5)
 
 ---
 
@@ -94,43 +110,11 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 
 ---
 
-### [Hidden Inflammation Linked to 43% Higher Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDFpcHBFNnhZaDlSX3lybFlpNTBaRXR3bzlsNEtvTVdjNTNCaENBZHZlOEF3cEVzTVBFbXdhbHlXZU42OVZEVjFhQU5mTHBjajNsYjJCb0xYemJlcWdUQVg0T2JWVnB1NFE2Yl9XVUs5NFRNSjRYb0E4cGNxOEJxNFN4TG01ZUUzQ01nRHVfakVNUVdGZGczdGlCRnFYQ3VnM21Gd1BqMFcwNDFLU0l5enNISURhQQ?oc=5)
-
----
-
-### [Diabetes frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-Source: [Frankfurt-Live.com](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
-
----
-
 ### [« Des migraines, des vomissements… » : ces dangereux compléments amincissants à la sibutramine promus par des influenceuses - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
 Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
-
----
-
-### [What 95,000 Wrist Trackers Revealed About Sleep and Disease Risk](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVpSTBaZGdmZXRmemRKTmhGQkhDS0pOMndlU3pCblFQemlqc21uODZLX3lDamJmRE5YcU5XdUJEd1J5dFJkSEdNajdIYlp6bUo2V29WTy1RRGx1STFOWFRqb3d0WVFxek5TSjlERGpuTjJoVGZfZEtmNFNnX1RZWW0yLUs2em5TY2hzMnBUTVRmNUNoeFBwWWc3WVJsRTN4enJ2akFOWXhHMWc?oc=5)
-
-2026-09-22 <span class="news-indication-tag">diabetes</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2FwTEVpSTBaZGdmZXRmemRKTmhGQkhDS0pOMndlU3pCblFQemlqc21uODZLX3lDamJmRE5YcU5XdUJEd1J5dFJkSEdNajdIYlp6bUo2V29WTy1RRGx1STFOWFRqb3d0WVFxek5TSjlERGpuTjJoVGZfZEtmNFNnX1RZWW0yLUs2em5TY2hzMnBUTVRmNUNoeFBwWWc3WVJsRTN4enJ2akFOWXhHMWc?oc=5)
-
----
-
-### [Diabete, arriva il Registro nazionale: diagnosi, terapie, complicanze ed esiti in un unico sistema](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJjTVVSSVZHcnlYbzA1d0djSTlNeWJjODdXdXFUQ0V1WVpzSS04bUtHa1VXSkhpYTFacV9NSERfRVVQcUxDV29lVy1BcHEySE8zX2RQcHV3MW5fWDBvRm1qMFJkanMwMk8xeVlPR3V0Y0hqVXlXZGdjU1RiSkM0ZnlOam9ZZWllQUtYWkhHRXZRRXpBMmZYS29wUlB3V1lKdXVsa1RWRUpvVWQ1NExqX3UzMlYxMHRLd2NWRW1rc0VWRUF3YXhwTg?oc=5)
-
-2026-09-21 <span class="news-indication-tag">diabete</span>
-
-Source: [sanitainformazione.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJjTVVSSVZHcnlYbzA1d0djSTlNeWJjODdXdXFUQ0V1WVpzSS04bUtHa1VXSkhpYTFacV9NSERfRVVQcUxDV29lVy1BcHEySE8zX2RQcHV3MW5fWDBvRm1qMFJkanMwMk8xeVlPR3V0Y0hqVXlXZGdjU1RiSkM0ZnlOam9ZZWllQUtYWkhHRXZRRXpBMmZYS29wUlB3V1lKdXVsa1RWRUpvVWQ1NExqX3UzMlYxMHRLd2NWRW1rc0VWRUF3YXhwTg?oc=5)
 
 ---
 

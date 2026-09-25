@@ -54,11 +54,27 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 
 ## Related News (4)
 
+### [Herzrisiko: Warum der Bauchumfang mehr verrät als der BMI](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW8zV19LTTZZSzJGbG9QYTBhc2phOGd2WDktQk82Q2Z3SDFmTm9nQWVuX0t0emUzS3g4MFdOLXdsbWlCYTdaaG5oSk03Z05SZFI4Nnk4LXd6Mkk0bE5aUXItaXMyYU44THVjTzhSaVdXNDF0Zi1FU1gyeGhRTVotbzQ4WXJTVzVpd2w4TA?oc=5)
+
+2026-09-24 <span class="news-indication-tag">Adipositas</span>
+
+Source: [herzstiftung.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW8zV19LTTZZSzJGbG9QYTBhc2phOGd2WDktQk82Q2Z3SDFmTm9nQWVuX0t0emUzS3g4MFdOLXdsbWlCYTdaaG5oSk03Z05SZFI4Nnk4LXd6Mkk0bE5aUXItaXMyYU44THVjTzhSaVdXNDF0Zi1FU1gyeGhRTVotbzQ4WXJTVzVpd2w4TA?oc=5)
+
+---
+
 ### [I farmaci per perdere peso associati a rischio rigurgito e aspirazione 11 volte superiore durante l'anestesia](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
 
 2026-09-24 <span class="news-indication-tag">obesità</span>
 
-Source: [fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
+Source: [Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
+
+---
+
+### [La obesidad altera una enzima clave de las células inmunitarias del tejido adiposo y favorece la inflamación metabólica - Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">obesidad</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
 
 ---
 
@@ -67,22 +83,6 @@ Source: [fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVV
 2026-09-24 <span class="news-indication-tag">obesità</span>
 
 Source: [il Giornale](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
-
----
-
-### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
----
-
-### [Adipositas erkennen: Warum das Maßband dem BMI deutlich überlegen ist](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Adipositas</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
 
 ---
 

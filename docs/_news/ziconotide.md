@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 
 ## Related News (8)
 
+### [Herzrisiko: Warum der Bauchumfang mehr verrät als der BMI](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW8zV19LTTZZSzJGbG9QYTBhc2phOGd2WDktQk82Q2Z3SDFmTm9nQWVuX0t0emUzS3g4MFdOLXdsbWlCYTdaaG5oSk03Z05SZFI4Nnk4LXd6Mkk0bE5aUXItaXMyYU44THVjTzhSaVdXNDF0Zi1FU1gyeGhRTVotbzQ4WXJTVzVpd2w4TA?oc=5)
+
+2026-09-24 <span class="news-indication-tag">Adipositas</span>
+
+Source: [herzstiftung.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW8zV19LTTZZSzJGbG9QYTBhc2phOGd2WDktQk82Q2Z3SDFmTm9nQWVuX0t0emUzS3g4MFdOLXdsbWlCYTdaaG5oSk03Z05SZFI4Nnk4LXd6Mkk0bE5aUXItaXMyYU44THVjTzhSaVdXNDF0Zi1FU1gyeGhRTVotbzQ4WXJTVzVpd2w4TA?oc=5)
+
+---
+
 ### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">migraña</span>
@@ -74,7 +82,15 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcjZJd0cyWEphQ
 
 2026-09-24 <span class="news-indication-tag">obesità</span>
 
-Source: [fanpage.it](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
+Source: [Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWtQVVBnWlBvbjFRV3lOMjdwdWczR0FVU1piXzhKX3dWY3hVSm1OdEZHNnVERm5kTldWcnktWTVaNENGZkZvV0FWSHhseVFKN3pJSTAxQ2w2NXlMU0JhX2ExZy1LcFFQNVE0T0pnMjJ2T05VSFNYVGdmZ0NTaktxTHB0bGdHSUlhRXNxbG5XN2h6NkVTZHQ0NzZtaV94eExJSlYwMUpDS0pGUUdaSVJtZGd6TThWVDFGMmM1dEQ0WXV2VEh1cktjQ0YyaXFmb0NLQmJZamhlV1Z5LUlhZ3lydF9DRFlHaFk?oc=5)
+
+---
+
+### [La obesidad altera una enzima clave de las células inmunitarias del tejido adiposo y favorece la inflamación metabólica - Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">obesidad</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpreEVuYXdyMzVqY3dKZ0E2ZERKcTd2b1BMQVA5aXJTQmRWQk9LMmJEcks1eFpSd0oxT1RqaGVjYld0cV96ZnVhV25rTkVvWG1DTnBZWWJEZUVqdy0tSXRTWUk5MTA5TXcwTUREbXU4UmgwZWRHQ1EtUm03MlFDMlhRU29nN0hTZURFUzBZcktITFBtS2xkMHBzR2J4RkI2T2tvWHhpNDlqeVRXeEZnSEVWblpqSmhLbXJZM0h4Zmw?oc=5)
 
 ---
 
@@ -94,27 +110,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOM
 
 ---
 
-### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
----
-
 ### [« Des migraines, des vomissements… » : ces dangereux compléments amincissants à la sibutramine promus par des influenceuses - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
 Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
-
----
-
-### [Adipositas erkennen: Warum das Maßband dem BMI deutlich überlegen ist](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
-
-2026-09-18 <span class="news-indication-tag">Adipositas</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnJvUFdUc0w4ZU1rNGRWQ3ZwSnV4M0ZzQWJiTUNJV2EzWWk0RjZ3ZGFQcVg2MmpHbjhkN3V3cm1rb1d2YWZkRDNGT1g1S1k3SEd0SFJRTjhKWGM1QWF2QWpRX3otWUI2d29RQ0ZKbGx2M3hFZEg4VURUZlo3Q2htMm1ZbzNxcDdfOUxneXRfODFUT181QVpDT1diZHQxUWgtS0Q2aW5aR0VoQQ?oc=5)
 
 ---
 

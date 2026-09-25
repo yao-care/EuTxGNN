@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Velpatasvir?">
-<strong>Velpatasvir</strong> currently has <strong>19 news articles</strong>, with 20 predicted indications.
+<strong>Velpatasvir</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Velpatasvir with the latest 
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (15)
+
+### [Ernährung und Zellalterung: DZNE-Studie mit über 6.000 Teilnehmenden](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHc5RV84R1RBbkpCa1dTZU9tbEN1OTV1RndfbzczV0ZQS0Nyay13ajFXemExX1lGcWNKMTNsSlJmWDIyYWZrdU1pajZ4WXNDUEJzUkg0SXZERmhSX3ZfVVBiVmhSaXNCVFB0SlJTVFRmdk9Jai1tTFlmdHlLRm1mWi1uZTB4Ym9jWXNacVNHaDlESUQyMUpwTTNwa3c?oc=5)
+
+2026-09-25 <span class="news-indication-tag">MS</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHc5RV84R1RBbkpCa1dTZU9tbEN1OTV1RndfbzczV0ZQS0Nyay13ajFXemExX1lGcWNKMTNsSlJmWDIyYWZrdU1pajZ4WXNDUEJzUkg0SXZERmhSX3ZfVVBiVmhSaXNCVFB0SlJTVFRmdk9Jai1tTFlmdHlLRm1mWi1uZTB4Ym9jWXNacVNHaDlESUQyMUpwTTNwa3c?oc=5)
+
+---
 
 ### [El virus de Epstein-Barr podría estar detrás de las recaídas de esclerosis múltiple, según un estudio](https://news.google.com/rss/articles/CBMigwJBVV95cUxOanMwQlhfM1VFMmdlbHJlMXF1WDdNSFpxdXZpN1d4ZWpZWjIxeURmTUpiRmhXMFQwQlpOM05tLTcxaTRTMFl4cVNWbDVjVmpEZUEyX01kY1JBOHEzbFB4bHQySWFuejJoYy1KbW5lbWNfaGpvU1ZodWdHMDBVWm9kWUNvN2NWZmJ3MVNmS3oxbFFPcV96cGtub2dvZE9DaDFDT1JwY1REcUd4bUxjcWtYcHYwUXNLbk1ab2NPMU5ETG9WaVF6SnhVRHo0ZkdWR3BtMUJOZlVQR3hVMGJNUTJvSTFDYUxndGpiMzROWWhWcWY0RHJhTTRRS2VXN1NHQUMzNm5j?oc=5)
 
@@ -62,27 +70,11 @@ Source: [LaSexta](https://news.google.com/rss/articles/CBMigwJBVV95cUxOanMwQlhfM
 
 ---
 
-### [Ernährung und Altern: DZNE-Studie mit 7.500 Erwachsenen findet keinen Diät-Sieger - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1ZFU2dNWGhvekpNbmxodXdzZUJjczZvdnVPWkpaX2g1XzlFOHEyeWJDYmVtOUxSbFBtT1Q1S1ppdGc5UFc2NnZ5bWljZ0hmU1JNZzhRcUNaLUxBTEVjTm1oOWRiYy1LSjFva0tSUnlBZFVyY3R6ak44NHZkYmNpS2l5X1NaNGtyZ1NjblE1RHBWRHhlX0JDUHE4d25FT3ZzZFJMcllLZGctb1UwcTJqQmFTSjdGUjJpaFE?oc=5)
-
-2026-09-24 <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1ZFU2dNWGhvekpNbmxodXdzZUJjczZvdnVPWkpaX2g1XzlFOHEyeWJDYmVtOUxSbFBtT1Q1S1ppdGc5UFc2NnZ5bWljZ0hmU1JNZzhRcUNaLUxBTEVjTm1oOWRiYy1LSjFva0tSUnlBZFVyY3R6ak44NHZkYmNpS2l5X1NaNGtyZ1NjblE1RHBWRHhlX0JDUHE4d25FT3ZzZFJMcllLZGctb1UwcTJqQmFTSjdGUjJpaFE?oc=5)
-
----
-
 ### [Sclerosi multipla, recuperati vista e movimento con un farmaco sperimentale: la nuova strada contro i danni già comparsi](https://news.google.com/rss/articles/CBMiigJBVV95cUxPbVNCNndQVE9IdlE3S2NSUW95ZHFZMHhFeVFjeDNzcXQ1eDhMMDZyZ3EzcGV1OTdCYlgwX0lSV05xeXdVNVViM0RyMU0ybXFEeUNvdjFJdWVvYUg5aVRTOVdwTmJVUm0tcEhuMnhYcVpJRjB1VGhhdTBkTTlYM2lTTmM4TWxuN3RjazVzUVN3YnBQd3JpWE1sTWtKOHJMN0pzMVcydXFyYzM0VVlqOEJGS19tdjdKOG9lU25CaFM0dWlGYi1qMklsbXNEbGtDQ1JKQVNCMGtCdXAxa05QUU5sYTlMdDVuQlRfazM5RzZSNmw5bUYzWDBnbnhBR0xuNGJzdjNGMkJVbFc4dw?oc=5)
 
 2026-09-24 <span class="news-indication-tag">sclerosi multipla</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxPbVNCNndQVE9IdlE3S2NSUW95ZHFZMHhFeVFjeDNzcXQ1eDhMMDZyZ3EzcGV1OTdCYlgwX0lSV05xeXdVNVViM0RyMU0ybXFEeUNvdjFJdWVvYUg5aVRTOVdwTmJVUm0tcEhuMnhYcVpJRjB1VGhhdTBkTTlYM2lTTmM4TWxuN3RjazVzUVN3YnBQd3JpWE1sTWtKOHJMN0pzMVcydXFyYzM0VVlqOEJGS19tdjdKOG9lU25CaFM0dWlGYi1qMklsbXNEbGtDQ1JKQVNCMGtCdXAxa05QUU5sYTlMdDVuQlRfazM5RzZSNmw5bUYzWDBnbnhBR0xuNGJzdjNGMkJVbFc4dw?oc=5)
-
----
-
-### [Forscher kartieren die Schaltzentrale des komplexen Denkens](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZmowNjhZek9iS1FLR255QUYzVGQwVXlKY1dKNlZTbDRWNjVMZm5zWUhld3FjZnU4eUM3WWNHdXBQVmpwRGRzdlMwZjcyN01xZkdjYVZRY2NtNWxzRGJDSGIyU0FaaWIyd0dreVBvRlpLaUxxeDY0YlBWRm5oQ1FBbVozRU1qNGtjNjRJMUNYQ3FhdURQdi1FSkg5a0hIMkw5Mlk3MXBhekxXMm5FZl9OM0x6ckVqejVDaGFLc3Jicl9oUk0ydGd1MkoxMjk3TTNTOEE2Ulg0SF82QQ?oc=5)
-
-2026-09-24 <span class="news-indication-tag">MS</span>
-
-Source: [Spiegel](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZmowNjhZek9iS1FLR255QUYzVGQwVXlKY1dKNlZTbDRWNjVMZm5zWUhld3FjZnU4eUM3WWNHdXBQVmpwRGRzdlMwZjcyN01xZkdjYVZRY2NtNWxzRGJDSGIyU0FaaWIyd0dreVBvRlpLaUxxeDY0YlBWRm5oQ1FBbVozRU1qNGtjNjRJMUNYQ3FhdURQdi1FSkg5a0hIMkw5Mlk3MXBhekxXMm5FZl9OM0x6ckVqejVDaGFLc3Jicl9oUk0ydGd1MkoxMjk3TTNTOEE2Ulg0SF82QQ?oc=5)
 
 ---
 
@@ -102,14 +94,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IOGFNRV9mMTQwU
 
 ---
 
-### [La RDC mantiene activa la respuesta frente al ébola en siete provincias con 7.773 casos confirmados - Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGI4MnpidWxKVWxKd19sYUxsZHp5Y0tVenFSZjdSV0lLZlJqb3pUU3N2c0pFNE5KUm1DUFVVSEtSeEljZGh1Und3NDdVNDd6OURFVmROYlNVT1BSajJmLS1XZzg3ZXN5cWlBNDcyTTJKR181cmVtSkZSeldqTm94QTdMVG9YVjQzZmxsb2dsczJaWE5BSklUcktYTTVqcjFzMDRVZVRMdXdqTlRLdjdnUlEycFdMQQ?oc=5)
-
-2026-09-24 <span class="news-indication-tag">MS</span>
-
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGI4MnpidWxKVWxKd19sYUxsZHp5Y0tVenFSZjdSV0lLZlJqb3pUU3N2c0pFNE5KUm1DUFVVSEtSeEljZGh1Und3NDdVNDd6OURFVmROYlNVT1BSajJmLS1XZzg3ZXN5cWlBNDcyTTJKR181cmVtSkZSeldqTm94QTdMVG9YVjQzZmxsb2dsczJaWE5BSklUcktYTTVqcjFzMDRVZVRMdXdqTlRLdjdnUlEycFdMQQ?oc=5)
-
----
-
 ### [Sant Pau pone en marcha un espacio sobre esclerosis múltiple para pacientes y cuidadores - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLTR6cVFERmhhRG1yalZLS2NOMmFwSEdWRVk2dzVmcmp6RjJ1MkdiM2VKck1odzNmZF9iaEpWdENSSDIyMElOV0d0N01obm04TkJSYVRjQ3R6QWtEb2U1cVctTGFTcGI2eVlGLWZOTVlQcV85NjF1WmxJNk1mVDl3cWRpUVJFQkxYdUF6ZDc4THktLUlpemNGN3pjUjlxOGRWWm9NZnU5SjNLU285eTMxbk5YRnpoNXZDRDhlU0JGYlh3Z9IBvAFBVV95cUxNTnp2VjY1MC03Q0FTSnlOMUdSSzRfUzRWb1lUSXlRRl9naElwSG1GbzhOd3dLMjVmdURacEJ3RmN2X3J0THNKM180YTZkT01mTnkzc3pRS3hwaTc4RlVIRTdHX3pxQWhVOXFFWWY3SGFMX3UzVjAwb1FJMlBlVkE3Um0xUk5zQllNSjg4YkZ3WkFrM2V6SVFWWlF5clNlOW1jelA2TnRsRzhPbUVfR0Z5eGVfWHA1djBfWnhhZQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -123,14 +107,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLTR6cV
 2026-09-24 <span class="news-indication-tag">MS</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0ZNMWdvSEtiSHpsUWdZeS12RW9IclJxRFUwTEpQVkl2NnZ0U2p1T0RUY1RTalRVOXZKUzI3RDMwRVQ2ei1oR1Z3elV0RU5sN3NWcFZrbXJHWUE2dy0wZUwxUmI5YXV3LW1NT2JYSkR1YkFTWlV1RXEzZFFnZWpnb3k4NVJIZUhXa0NjaVlKZVlVTnJHalVsdFlEZ1RmUlpaOFltcF9VX3VUZnlmbW1kX3BHdDkyR0hwMG9ZMVhvTTlkZ2pPVGF4RzA2OGNCWEZodWlxa2x3NUk?oc=5)
-
----
-
-### [In Amish country, nurses go door to door to stop deadly spread of measles](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbGZTeUlmcTEtSW1PczEwa1ZZV1Etam5UbHFqVnZVc2RhV1pIRWRUQUt0SnItSE1ZbG9mZDNFbVExVWh4Y1hkUGlVWTRPNWNoaXBzLS1qS0tHYWc0SlE?oc=5)
-
-2026-09-24 <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbGZTeUlmcTEtSW1PczEwa1ZZV1Etam5UbHFqVnZVc2RhV1pIRWRUQUt0SnItSE1ZbG9mZDNFbVExVWh4Y1hkUGlVWTRPNWNoaXBzLS1qS0tHYWc0SlE?oc=5)
 
 ---
 
@@ -150,11 +126,11 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQV
 
 ---
 
-### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+### [Falta de personal sanitario en el Congo complica esfuerzos por controlar brote de ébola, dice la OMS - AP News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXhTUXh6Yk44eDR2a0ZYLVgwakc0RmVVd2NaVGlqNmtoU3JpV3V3eTJMNjJhZU5SQ2t3Unl2RDVadkp4Q3hnbW9EWG9XbnNPQ2NIVHVQZHdqZ3dfd3ZaLXd2Y25jVlkzN1oxSmZoVGRfM0ZfRVR6TU5weWdTVmpQVEtRekhMMzgtMHJnQ1VfbFpfWFlP?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
+2026-09-23 <span class="news-indication-tag">MS</span>
 
-Source: [Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
+Source: [AP News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXhTUXh6Yk44eDR2a0ZYLVgwakc0RmVVd2NaVGlqNmtoU3JpV3V3eTJMNjJhZU5SQ2t3Unl2RDVadkp4Q3hnbW9EWG9XbnNPQ2NIVHVQZHdqZ3dfd3ZaLXd2Y25jVlkzN1oxSmZoVGRfM0ZfRVR6TU5weWdTVmpQVEtRekhMMzgtMHJnQ1VfbFpfWFlP?oc=5)
 
 ---
 
@@ -174,19 +150,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoS
 
 ---
 
-### [Sex-based discrimination in medicine costs lives | Letters - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0NldjdBZkxkS3hkeWowVFVmWEZMZ1JMM0RUbFN2UnFDVVo2dTd1ZlN5OUpOQngwWUphOXNDSTMzdENVc1N3UGhpT2xYaUROaXByLTZKRy1vcVNUdGUxeUhmZUtqbV9fWmVvcVZVMFNidVo2cXVINUQyRVIzREthQzJHU3VjVkxBYUlxOHVXNHRyUDkxcnN6T1Fhb2Y?oc=5)
+### ["On pense à une libertine" : touchée par un cancer gynécologique, Guitta raconte sa bataille contre la maladie et brise les tabous - France 3 Régions](https://news.google.com/rss/articles/CBMitwJBVV95cUxOZ2JuV01NZ2hIV1RIUkJfaEpJdnZjYmptbmkyWTlxbGJITy1hTjN5azAtRnk2V3ZzRmExUVlKSk1lOVZvUjl5Q1QwblNfb0Y0eFJxU01aY3dDRGp6LVR2aTJvN1g3LVVqemIyeUk4aGl4SFlXenUzcVJvSHgzajZMRGdyUDNqZGpVREJEVEplQlBwYURmZWlSc080dEVpSERvMmtZWkI3NEY4QVg4WTdiUXRJb2RMT1RTZ24wMmJIdWZWVnIzWU4tS2pxWGxjaGtpSkhnTGw1RUM4U05wOFRTYVpkRllkQTJLN1NVRFN3U3A5QjdlUTdjcVMyekF0a25WSUNfTzkwM2pNNmkzZUdDNjBHTVNUV1BhMzdBU3NiTV9UNF9iMVZjMUFlSXNBX04yaHI5WjhUTQ?oc=5)
 
-2026-09-22 <span class="news-indication-tag">MS</span>
+2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0NldjdBZkxkS3hkeWowVFVmWEZMZ1JMM0RUbFN2UnFDVVo2dTd1ZlN5OUpOQngwWUphOXNDSTMzdENVc1N3UGhpT2xYaUROaXByLTZKRy1vcVNUdGUxeUhmZUtqbV9fWmVvcVZVMFNidVo2cXVINUQyRVIzREthQzJHU3VjVkxBYUlxOHVXNHRyUDkxcnN6T1Fhb2Y?oc=5)
+Source: [France 3 Régions](https://news.google.com/rss/articles/CBMitwJBVV95cUxOZ2JuV01NZ2hIV1RIUkJfaEpJdnZjYmptbmkyWTlxbGJITy1hTjN5azAtRnk2V3ZzRmExUVlKSk1lOVZvUjl5Q1QwblNfb0Y0eFJxU01aY3dDRGp6LVR2aTJvN1g3LVVqemIyeUk4aGl4SFlXenUzcVJvSHgzajZMRGdyUDNqZGpVREJEVEplQlBwYURmZWlSc080dEVpSERvMmtZWkI3NEY4QVg4WTdiUXRJb2RMT1RTZ24wMmJIdWZWVnIzWU4tS2pxWGxjaGtpSkhnTGw1RUM4U05wOFRTYVpkRllkQTJLN1NVRFN3U3A5QjdlUTdjcVMyekF0a25WSUNfTzkwM2pNNmkzZUdDNjBHTVNUV1BhMzdBU3NiTV9UNF9iMVZjMUFlSXNBX04yaHI5WjhUTQ?oc=5)
 
 ---
 
-### [« C’est insupportable » : 7 Strasbourgeois(es) racontent l’enfer du bruit dans les trams & bus](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzZwY2VJREpkbHp6Z3lJd0VGLUJPS0lCck5sSEN5WmxDTVBvaUxLU2JmZDRuSWVCMndBMUFrRXo0TW5QaUR3NjhqZ1Y3aTlmT19vTDI2TGU2YlRFMnFPLU5ORWd4MVhJN1BaXzg1emplSWRUNTJDclkwR090d2g4TnhFS1g5bXRfS3ZZdERwU3MtYlZORkI2YlZ4bGlSS1BKWXpOZ0hScGRfTGEzdU8zMw?oc=5)
+### [UK doctors develop non-invasive test for womb cancer in women bleeding after menopause](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjJCSE82YXdMNTg1Y2Y4ZmlEd1lRZTA0ZFdVdzc4WjU1V1QtNXVkUTRzcXFYX19fb1o4amNjME1ZTnI5cU5LZ3NnSG80c3NrZXhtRHJtbnBOTE1jd0FzZmtBekZpaHVmcUxmOUdXMlkzVy1BbzltbjBuSUxtY1BxU3c4bTVaNVd1Z3dSNGFvR3RIS0haazBuQk1JNVJmUnNjZkE0WDI5d3h0bThsX3hrNTQtbDI?oc=5)
 
-2026-09-22 <span class="news-indication-tag">MS</span>
+2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [Pokaa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzZwY2VJREpkbHp6Z3lJd0VGLUJPS0lCck5sSEN5WmxDTVBvaUxLU2JmZDRuSWVCMndBMUFrRXo0TW5QaUR3NjhqZ1Y3aTlmT19vTDI2TGU2YlRFMnFPLU5ORWd4MVhJN1BaXzg1emplSWRUNTJDclkwR090d2g4TnhFS1g5bXRfS3ZZdERwU3MtYlZORkI2YlZ4bGlSS1BKWXpOZ0hScGRfTGEzdU8zMw?oc=5)
+Source: [theguardian.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjJCSE82YXdMNTg1Y2Y4ZmlEd1lRZTA0ZFdVdzc4WjU1V1QtNXVkUTRzcXFYX19fb1o4amNjME1ZTnI5cU5LZ3NnSG80c3NrZXhtRHJtbnBOTE1jd0FzZmtBekZpaHVmcUxmOUdXMlkzVy1BbzltbjBuSUxtY1BxU3c4bTVaNVd1Z3dSNGFvR3RIS0haazBuQk1JNVJmUnNjZkE0WDI5d3h0bThsX3hrNTQtbDI?oc=5)
 
 ---
 
@@ -195,14 +171,6 @@ Source: [Pokaa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzZwY2VJREp
 2026-09-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 Source: [Scinexx](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTnpicEgxLWlhTk45ZXBpV1FuLXJ4LVJJNkxXUzBDaUkzUmhvV1JwUWx4RjlhMW9QdjAxRDRwM1FISmIzbVlZQ1ByNDNxdThsaTBzY1h1RzZjWkQzZXduTl9ubHVrQy0zUXMwU25ITFZMVU8tWGRpcWo4Z2RiUWZmVTFZY2l0cDA0Vld6cllPLWJ5LUk?oc=5)
-
----
-
-### [The human brain is two separate organs, study finds - Stanford Report](https://news.google.com/rss/articles/CBMifkFVX3lxTFBQZTFsREVzSUYxMzlGZjEyNlJ5UEFoQ281R0l2Q0IyUFB5bFNZTklmbV9ROEYzaUxEMHRLMlRVY1pBU3hTZjJacWRTblNlLUYzdllRYkJPM2FXNDNSbVR4MTN2VG1XQlpLcUlyQ0gzMUd2Tlh0M1ltTDNHMzIwUQ?oc=5)
-
-2026-09-18 <span class="news-indication-tag">MS</span>
-
-Source: [Stanford Report](https://news.google.com/rss/articles/CBMifkFVX3lxTFBQZTFsREVzSUYxMzlGZjEyNlJ5UEFoQ281R0l2Q0IyUFB5bFNZTklmbV9ROEYzaUxEMHRLMlRVY1pBU3hTZjJacWRTblNlLUYzdllRYkJPM2FXNDNSbVR4MTN2VG1XQlpLcUlyQ0gzMUd2Tlh0M1ltTDNHMzIwUQ?oc=5)
 
 ---
 
