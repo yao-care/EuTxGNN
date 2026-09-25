@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [I’m not obese but I’m taking Mounjaro for my health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUNTVnFRZ3dwWnhSZDM4dDM2eFU4NzZxRzZ6NFl4QjZzOFFkWTZ2Wjh3NUpNSGstc2xudk8xazRrNG5ZZldSRC1RYkl3cjdMZk5RYTBOdmJVeVBRSUtFSmNzLXo1ajVhdWhvU0xjVzZJZXlueFNoVTRTdXNfZ09CTk83TkdVSTNMOVJ6RXBhSzgxa3ZIektsY3RRSl90Y25TUnNFR2xsRQ?oc=5)
+
+2026-09-25 <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUNTVnFRZ3dwWnhSZDM4dDM2eFU4NzZxRzZ6NFl4QjZzOFFkWTZ2Wjh3NUpNSGstc2xudk8xazRrNG5ZZldSRC1RYkl3cjdMZk5RYTBOdmJVeVBRSUtFSmNzLXo1ajVhdWhvU0xjVzZJZXlueFNoVTRTdXNfZ09CTk83TkdVSTNMOVJ6RXBhSzgxa3ZIektsY3RRSl90Y25TUnNFR2xsRQ?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
 

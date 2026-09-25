@@ -86,6 +86,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hN
 
 ---
 
+### [Cómo aplacar la colitis ulcerosa, una enfermedad que inflama el intestino - EL PAÍS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1l0RG12OUNaZk9FQUs3UVAyb3hxWHhlbWsxeFU3YzNlZnB1aENWZFJ5UVA4OEFTRF9oZlRuLTZFLTd2ZzR6REhCNUdNSk91S3VfeVkwTHpyVWZMNWh3bUxubkdubkZUS1htZ252Rm54WDFsNFV2X1FKNlFiTk5KQjRmVlkweXdoR2tDTkZkRElTV2xBUW9XU1NkbmRwVnNCZUNUWVFWVTlCRnBGYm5Id3d3NmhyNG9PWTFTMExaS1VxRmt5NGfSAdoBQVVfeXFMT3BBcWxXNHgzQ2hsdDI5NEx6d1VWbDBkdmNKcVBYYnVEYTQwWUpSMUVmT2JpX2E0d1hYR0RzM01sc0FqZ3ZXRWtpZy1BWEN6dFo0aDJrOEl2OVlXR0pHeE0zMFY5aV9PWGNjREJHSWxmZDNOUUVNREF1Um9XWDB2MTNPME56NEp3dmVSNUIxb2VvaXNsaDR2NDhDd2VyWlpCM3lXYXdocmJ2NkU2NVpFNnlfbXNvV1k3VXFQdHlrS1hudnZURWJMbG94Q212MUxMeEhZSFhUcjdpRFE?oc=5)
+
+2026-09-23 <span class="news-indication-tag">colitis ulcerosa</span>
+
+Source: [EL PAÍS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1l0RG12OUNaZk9FQUs3UVAyb3hxWHhlbWsxeFU3YzNlZnB1aENWZFJ5UVA4OEFTRF9oZlRuLTZFLTd2ZzR6REhCNUdNSk91S3VfeVkwTHpyVWZMNWh3bUxubkdubkZUS1htZ252Rm54WDFsNFV2X1FKNlFiTk5KQjRmVlkweXdoR2tDTkZkRElTV2xBUW9XU1NkbmRwVnNCZUNUWVFWVTlCRnBGYm5Id3d3NmhyNG9PWTFTMExaS1VxRmt5NGfSAdoBQVVfeXFMT3BBcWxXNHgzQ2hsdDI5NEx6d1VWbDBkdmNKcVBYYnVEYTQwWUpSMUVmT2JpX2E0d1hYR0RzM01sc0FqZ3ZXRWtpZy1BWEN6dFo0aDJrOEl2OVlXR0pHeE0zMFY5aV9PWGNjREJHSWxmZDNOUUVNREF1Um9XWDB2MTNPME56NEp3dmVSNUIxb2VvaXNsaDR2NDhDd2VyWlpCM3lXYXdocmJ2NkU2NVpFNnlfbXNvV1k3VXFQdHlrS1hudnZURWJMbG94Q212MUxMeEhZSFhUcjdpRFE?oc=5)
+
+---
+
 ### [Guselkumab könnte extraintestinale Manifestationen bei Morbus Crohn lindern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHJhLWJfdHJPMm95RG5MTXpZN2NWQUxUMEY4d180QU9pLWNQdlBoWThpaWVsOUJ4dnFTM2dzZ0NqMVY1M1p0SjJpQlFZbVlUeVlCenc5ZFdzenNvWENQYndNRHdmTE5TWGpId2F6bXIxc05Gdm1EQzI0Rm45Z1JkdjNPWW0wWS1YWnREd0xWN2tUVmEyOXAzV2QwejBBbkpjRklGME1CRjloT2I4eV9iM09wRlJtVXZ2dWpkTFEzQnNkcGJTVHZJNUI1OENxanVFRFBpMlB6bFNMM1d0?oc=5)
 
 2026-09-23 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">Morbus Crohn</span>
@@ -99,14 +107,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV9
 2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NTElzNjFXbmVwclNreG1Yb0R3RVFheXZyaGtTMExTVU14RU5iWnJ6dGtPZl9lZkFpSzhtVklmcm5ZRmw1c1NPNm9Naw?oc=5)
-
----
-
-### [Circonferenza vita e salute: Franco Berrino avverte sui rischi della circonferenza addominale. Ecco le strategie per ridurlo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRjRodE5LVUwxQzJXb1RMbF8xcnR6Q2JkYVpZWE8wZml1WTNIVmNmT3dQY0xCU25UVjNVZjJ4T2dFSHUzWWV5TXlRNjV6RzlXOFdoNmExRnUwOUFSRWpEMXpFM1d5VVAzMU5MVjZTTjc4MEowZkRmU1pFOURtcVVwZExNMHJjVkt0VFJ4dEl1WTE0Z1lSSlZFNm54Uy0yQ0t6NGVxdWZiSTNLaV92S3NlbGxISDVmYTk2UmtWcVBzb2Njd2wtc3JpbGxPMmxCNUs0bzY4NXg1TWVuNllaRFR1aUVPVHBvaVBpMC1PSHU3NW8ybFhiLV9TX0NR?oc=5)
-
-2026-09-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRjRodE5LVUwxQzJXb1RMbF8xcnR6Q2JkYVpZWE8wZml1WTNIVmNmT3dQY0xCU25UVjNVZjJ4T2dFSHUzWWV5TXlRNjV6RzlXOFdoNmExRnUwOUFSRWpEMXpFM1d5VVAzMU5MVjZTTjc4MEowZkRmU1pFOURtcVVwZExNMHJjVkt0VFJ4dEl1WTE0Z1lSSlZFNm54Uy0yQ0t6NGVxdWZiSTNLaV92S3NlbGxISDVmYTk2UmtWcVBzb2Njd2wtc3JpbGxPMmxCNUs0bzY4NXg1TWVuNllaRFR1aUVPVHBvaVBpMC1PSHU3NW8ybFhiLV9TX0NR?oc=5)
 
 ---
 

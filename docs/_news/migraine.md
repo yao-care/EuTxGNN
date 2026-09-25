@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraña (migraine) News"
+title: "Migräne (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraña (migraine). 4 articles, 49 related drugs."
+description: "Health news about Migräne (migraine). 6 articles, 49 related drugs."
 permalink: /news/migraine/
 ---
 
-# migraña (migraine) News
+# Migräne (migraine) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about migraña (migraine)?">
-<strong>migraña (migraine)</strong> currently has <strong>4 news articles</strong> and 49 related drugs.
+<p class="key-answer" data-question="What news is there about Migräne (migraine)?">
+<strong>Migräne (migraine)</strong> currently has <strong>6 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “migraña” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Migräne” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,23 @@ This page brings together the latest health news about “migraña” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Fördern große Brüste Migräne oder Schlafapnoe?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQckptZ01FZjlQZTloRC05VFNHbDc5NlVueHpFQW5TTmFYNVdyWjA0WmhvV0pQMnBHOERxZGlSbDd1eTFqcUh2Y1BsY2JIMzBOc1QwNXpaeVRuUEkwcW91VEtUeFZvSmZkMl9aaU5wOU5IWVVHSVBmZDRvWWNlU2QxUE1vLXhpSlB4MEJRalVaaE56bXc?oc=5)
+
+2026-09-25
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQckptZ01FZjlQZTloRC05VFNHbDc5NlVueHpFQW5TTmFYNVdyWjA0WmhvV0pQMnBHOERxZGlSbDd1eTFqcUh2Y1BsY2JIMzBOc1QwNXpaeVRuUEkwcW91VEtUeFZvSmZkMl9aaU5wOU5IWVVHSVBmZDRvWWNlU2QxUE1vLXhpSlB4MEJRalVaaE56bXc?oc=5)
+
+---
+
+### [Emicrania, un bambino su 10 ne soffre con effetti sul rendimento: "Farmaci ci sono ma solo per adulti" - Il Tirreno](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQWdaT2tVSVgwOHI0VC1yVGtJMDQ4YXQxeTBnMjY5LUpXczYzeF9KRnFvS0FTZTlNaGR2UGRlempaX2VCUlBXQndWZ2lia2dWeE1jOGxzNmR5M2lKM2lMSmczcEU2ZE56ZXgyZ2pqU2pGZTZmTlBZc0xjY3E1Nl9QVHJ0Q3BDdlozTDQzRlpfMWhVUHJlcnpYWUJXZnlaSktOWUl1cjNid1NxeWx6aXZPMTVVdlZqNXlMSnVlRzNsd1U0eVBrVnpYX1Q5amU0bGM4ZTA5QVdqVERPVzg0dWVLc0ZyS0s1UndyLVRaR0FXRmhmRUM1VmZKTHg4SFMyOXM?oc=5)
+
+2026-09-25
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQWdaT2tVSVgwOHI0VC1yVGtJMDQ4YXQxeTBnMjY5LUpXczYzeF9KRnFvS0FTZTlNaGR2UGRlempaX2VCUlBXQndWZ2lia2dWeE1jOGxzNmR5M2lKM2lMSmczcEU2ZE56ZXgyZ2pqU2pGZTZmTlBZc0xjY3E1Nl9QVHJ0Q3BDdlozTDQzRlpfMWhVUHJlcnpYWUJXZnlaSktOWUl1cjNid1NxeWx6aXZPMTVVdlZqNXlMSnVlRzNsd1U0eVBrVnpYX1Q5amU0bGM4ZTA5QVdqVERPVzg0dWVLc0ZyS0s1UndyLVRaR0FXRmhmRUM1VmZKTHg4SFMyOXM?oc=5)
+
+---
 
 ### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Alimentos ultraprocesados y depresión: reducir su consumo podría mejorar los síntomas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkR3cEJKT3psbHA3ZlFRS1hhRGd0NU9ZZmdGbDdNWE5xdzMxMTNMQXc4VDlxb041VDl6eVowelpzQXBDNjJhalFTYXZZOFNXTEVtWXFZS1Vpbnlkbm1mQnhPX3M0Z3UwVWlTcmpxbkh6Z2Y4UUNhang0UnRhOFQxcExtdEJZM0IxTTJQLTA2VkpJY2dDSlRtZHNobXg2bGlwc242NWh5ZkhZMHN3b0dFc2prX3dDYmx4XzBYWGxCTXN5RGJBNkFPX2Ztc1hFb2xESUhvUGVn?oc=5)
+
+2026-09-25 <span class="news-indication-tag">depresión</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkR3cEJKT3psbHA3ZlFRS1hhRGd0NU9ZZmdGbDdNWE5xdzMxMTNMQXc4VDlxb041VDl6eVowelpzQXBDNjJhalFTYXZZOFNXTEVtWXFZS1Vpbnlkbm1mQnhPX3M0Z3UwVWlTcmpxbkh6Z2Y4UUNhang0UnRhOFQxcExtdEJZM0IxTTJQLTA2VkpJY2dDSlRtZHNobXg2bGlwc242NWh5ZkhZMHN3b0dFc2prX3dDYmx4XzBYWGxCTXN5RGJBNkFPX2Ztc1hFb2xESUhvUGVn?oc=5)
+
+---
 
 
 <div class="disclaimer">

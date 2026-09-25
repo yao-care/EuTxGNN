@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lecanemab?">
-<strong>Lecanemab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Lecanemab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Un análisis de sangre podría revelar cuándo lecanemab está funcionando en pacientes con Alzheimer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWlXSlFhVnZKYkpRTWFuVXd2dWxZLW5GOE1OUl9FdWltSXhmVm1XdTVJZUFHUXh2aUhNNnpEYTdIZEV6Y1NVbjd1TmJDTkc5Q0N4anV1eEhxaUtiVk5JNURTNll6RUdfUHdHZG03MFduOE9XRkJycm1TQ2FXZ2p3RkdqNDFkb1R3VS1TWl9iU0tseW03VGFjWk9SWXROVUNrQmcyOHpDRC12V2FLZkNoaUVwdXVCMF9sdUxxLVNQRFNlcWwyUEg4Z2pGRXlza1JMUFRNdzFreFc?oc=5)
+
+2026-09-25 <span class="news-drug-tag">Lecanemab</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWlXSlFhVnZKYkpRTWFuVXd2dWxZLW5GOE1OUl9FdWltSXhmVm1XdTVJZUFHUXh2aUhNNnpEYTdIZEV6Y1NVbjd1TmJDTkc5Q0N4anV1eEhxaUtiVk5JNURTNll6RUdfUHdHZG03MFduOE9XRkJycm1TQ2FXZ2p3RkdqNDFkb1R3VS1TWl9iU0tseW03VGFjWk9SWXROVUNrQmcyOHpDRC12V2FLZkNoaUVwdXVCMF9sdUxxLVNQRFNlcWwyUEg4Z2pGRXlza1JMUFRNdzFreFc?oc=5)
+
+---
+
+### [Alzheimer-Therapie: 34 Blutmarker verändern sich unter Lecanemab deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
+
+2026-09-25 <span class="news-drug-tag">Lecanemab</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
+
+---
 
 ### [Prädiabetes: Lebensstilintervention senkt das spätere Diabetesrisiko um 73 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxObDM0MW1NWWJCYjRkS3FocG9KYlZGOEVNZnZqMXdKYTJjUlhYR2ppbWx5Z1pUUm5mUHFwaWpiR29Qemlla1NzNWVKMDVaZ3hJUEo0cUVoU1pQWVRkNHpMSUNzSVl4V0dpdWtrQWhMVGZLOTF4VFlEYmdiM1JPdWF4aTJtTEJPRm1QMTBldXZhZ3FZeG50UkJzSmFZOWh5Q25sRU9yOEFWRmxVeGFYeV80OVhrMmFiUWs5eUtYZlNB?oc=5)
 
 2026-09-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxObDM0MW1NWWJCYjRkS3FocG9KYlZGOEVNZnZqMXdKYTJjUlhYR2ppbWx5Z1pUUm5mUHFwaWpiR29Qemlla1NzNWVKMDVaZ3hJUEo0cUVoU1pQWVRkNHpMSUNzSVl4V0dpdWtrQWhMVGZLOTF4VFlEYmdiM1JPdWF4aTJtTEJPRm1QMTBldXZhZ3FZeG50UkJzSmFZOWh5Q25sRU9yOEFWRmxVeGFYeV80OVhrMmFiUWs5eUtYZlNB?oc=5)
+
+---
+
+### [Kampf gegen Demenz: Diese 4 Medikamente machen Forschern jetzt Hoffnung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTThjdVpWTzVqanJ4cXRlTVVzeVhneGRnOVlZQ2tYYlpJdmM5WmdXT2xmX3h0SVV6clZQUzBGUTJfVE5IMHZPWWswS1NFRFFIWjJBcms2ZFVEOVpCNDRuNDkzcjh3S2s3a3QtemVKMmFLZ2ZFejBQVTlRV3pBSmIyem80eWx2dHA1STFEWFd2Zmk5ZHBHZmNNYzhPVUpGdFlIOHZ3Ny0wYXJmTmF0THVSM0diOHJ0eWw5OGg1UlNacXFRZ0t1MHFKdEFNY0hRQTQ?oc=5)
+
+2026-09-24 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTThjdVpWTzVqanJ4cXRlTVVzeVhneGRnOVlZQ2tYYlpJdmM5WmdXT2xmX3h0SVV6clZQUzBGUTJfVE5IMHZPWWswS1NFRFFIWjJBcms2ZFVEOVpCNDRuNDkzcjh3S2s3a3QtemVKMmFLZ2ZFejBQVTlRV3pBSmIyem80eWx2dHA1STFEWFd2Zmk5ZHBHZmNNYzhPVUpGdFlIOHZ3Ny0wYXJmTmF0THVSM0diOHJ0eWw5OGg1UlNacXFRZ0t1MHFKdEFNY0hRQTQ?oc=5)
 
 ---
 
@@ -83,14 +107,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hN
 2026-09-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NTElzNjFXbmVwclNreG1Yb0R3RVFheXZyaGtTMExTVU14RU5iWnJ6dGtPZl9lZkFpSzhtVklmcm5ZRmw1c1NPNm9Naw?oc=5)
-
----
-
-### [Circonferenza vita e salute: Franco Berrino avverte sui rischi della circonferenza addominale. Ecco le strategie per ridurlo](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRjRodE5LVUwxQzJXb1RMbF8xcnR6Q2JkYVpZWE8wZml1WTNIVmNmT3dQY0xCU25UVjNVZjJ4T2dFSHUzWWV5TXlRNjV6RzlXOFdoNmExRnUwOUFSRWpEMXpFM1d5VVAzMU5MVjZTTjc4MEowZkRmU1pFOURtcVVwZExNMHJjVkt0VFJ4dEl1WTE0Z1lSSlZFNm54Uy0yQ0t6NGVxdWZiSTNLaV92S3NlbGxISDVmYTk2UmtWcVBzb2Njd2wtc3JpbGxPMmxCNUs0bzY4NXg1TWVuNllaRFR1aUVPVHBvaVBpMC1PSHU3NW8ybFhiLV9TX0NR?oc=5)
-
-2026-09-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRjRodE5LVUwxQzJXb1RMbF8xcnR6Q2JkYVpZWE8wZml1WTNIVmNmT3dQY0xCU25UVjNVZjJ4T2dFSHUzWWV5TXlRNjV6RzlXOFdoNmExRnUwOUFSRWpEMXpFM1d5VVAzMU5MVjZTTjc4MEowZkRmU1pFOURtcVVwZExNMHJjVkt0VFJ4dEl1WTE0Z1lSSlZFNm54Uy0yQ0t6NGVxdWZiSTNLaV92S3NlbGxISDVmYTk2UmtWcVBzb2Njd2wtc3JpbGxPMmxCNUs0bzY4NXg1TWVuNllaRFR1aUVPVHBvaVBpMC1PSHU3NW8ybFhiLV9TX0NR?oc=5)
 
 ---
 
