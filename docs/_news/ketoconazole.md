@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Ketoconazole?">
-<strong>Ketoconazole</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ketoconazole</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Ketoconazole with the latest
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Toxoplasma baut Zucker der Wirtszelle um, bevor der Parasit eindringt - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJ1czZMeGU1MFd5WkNIUHBQVnBROVczMzFFOENxbk9uVGVwRXloU0xuU1VaMkFkdk5PeHhsdVBqaWpLc3NkRVUtc1V6aU1WNThuSkhnNDRqSDdQUVI1Y3hRUUNlc2NpLUpGTnNCTVNLQVpHQUZiS1NNR3IyelNWVmVrUXBzeVd0MlZSQ2VJRzJvLWs5MVNwdHZlV0kwbmpIaWdkT05sTjZ6cU80MmZCTVp2X184MGRRRnR6RkZDNHNKbzVuWkdGVkpjdzlLYWd4?oc=5)
+
+2026-09-26 <span class="news-indication-tag">asma</span>
+
+Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJ1czZMeGU1MFd5WkNIUHBQVnBROVczMzFFOENxbk9uVGVwRXloU0xuU1VaMkFkdk5PeHhsdVBqaWpLc3NkRVUtc1V6aU1WNThuSkhnNDRqSDdQUVI1Y3hRUUNlc2NpLUpGTnNCTVNLQVpHQUZiS1NNR3IyelNWVmVrUXBzeVd0MlZSQ2VJRzJvLWs5MVNwdHZlV0kwbmpIaWdkT05sTjZ6cU80MmZCTVp2X184MGRRRnR6RkZDNHNKbzVuWkdGVkpjdzlLYWd4?oc=5)
+
+---
 
 
 <div class="disclaimer">

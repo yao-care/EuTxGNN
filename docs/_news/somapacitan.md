@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <li>bronchitis (88.5%)</li>
 <li>exostosis (87.7%)</li>
 <li>hemoglobinuria (87.6%)</li>
-<li>asthma (86.3%)</li>
+<li class="indication-matched">asthma (86.3%)<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis (85.7%)</li>
 <li>migraine with brainstem aura (85.3%)</li>
 <li>idiopathic granulomatous myositis (84.8%)</li>
@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 
 ## Related News (7)
 
-### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+### [Toxoplasma baut Zucker der Wirtszelle um, bevor der Parasit eindringt - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJ1czZMeGU1MFd5WkNIUHBQVnBROVczMzFFOENxbk9uVGVwRXloU0xuU1VaMkFkdk5PeHhsdVBqaWpLc3NkRVUtc1V6aU1WNThuSkhnNDRqSDdQUVI1Y3hRUUNlc2NpLUpGTnNCTVNLQVpHQUZiS1NNR3IyelNWVmVrUXBzeVd0MlZSQ2VJRzJvLWs5MVNwdHZlV0kwbmpIaWdkT05sTjZ6cU80MmZCTVp2X184MGRRRnR6RkZDNHNKbzVuWkdGVkpjdzlLYWd4?oc=5)
 
-2026-09-26 <span class="news-indication-tag">diabetes</span>
+2026-09-26 <span class="news-indication-tag">asma</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJ1czZMeGU1MFd5WkNIUHBQVnBROVczMzFFOENxbk9uVGVwRXloU0xuU1VaMkFkdk5PeHhsdVBqaWpLc3NkRVUtc1V6aU1WNThuSkhnNDRqSDdQUVI1Y3hRUUNlc2NpLUpGTnNCTVNLQVpHQUZiS1NNR3IyelNWVmVrUXBzeVd0MlZSQ2VJRzJvLWs5MVNwdHZlV0kwbmpIaWdkT05sTjZ6cU80MmZCTVp2X184MGRRRnR6RkZDNHNKbzVuWkdGVkpjdzlLYWd4?oc=5)
 
 ---
 
@@ -78,6 +78,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV9
 
 ---
 
+### [Diabetes: Dieser pflanzliche Wirkstoff kann Nierenerkrankungen verhindern](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+
+2026-09-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+
+---
+
 ### [Früherkennung: Warum bei Prädiabetes eine individuelle Prävention wichtig ist](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
 
 2026-09-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -86,19 +94,11 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRK
 
 ---
 
-### [Dormir menos de seis horas: Un nuevo estudio demuestra que el descanso insuficiente eleva el riesgo de diabetes tipo 2 - La Razón](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGlYN1dEUWpmUWk4VTdWSTVoSnFhbkt5b3dJWlA4S3hjQmlYZ0pKVUJsWlZZMGh1bTRkVDNjV0s1a0otcFh4MDZaTGxXZzlNbU9FUjFzbDFsSnZIY3d4eWs0eWFMUXVmSHBiQ0Nma0NGQ19nNEI4b0NqZlh6eTdpS0hldWQ5ZTBObWI4eElGUGdpOEtUZUM2alZzYXlNeWd4LS0td1ljcjhJa2N1UTk4d05YWHRZVzlUY19zV0RTTXBlZ3JxUlBrSU4xVjFHZldoSzJHcEdxQUV6U1JpZFVIcEU5NkVualNYRVp5MzZQdzV4eXdHdFRMa1U2MUM2YkNmbGpUVkF1ekEtSlnSAZ8CQVVfeXFMTm1zTzNGdkh6NF9KSFVvUWFVMzN2ZzFrWXhuX1QxbGN0a3A3blk3bTBzbDFrXzNlOWZNNi1PT0YzVkoxNjZwR3BjOVRkSHFHLWp5NnE2Sm55VWlocU5zaXpJSmxTU1lUU0VQb0Jrb2RiTFdqcjYzaF8yb0ctWnhyRXROZEtPODhadXNvSUpiWER4a2NWN2NBRjNVdVZfR1VrVHlDR0tfTUtlUnJHdWVsbVRDUjRNemlsbzg2RHR2WXFrM3cxenZhSU94Z2g0MFlpanFCUTdvNnZqVmJGNjVNYTJuMEdNQ3hWTWxvWmRaYmJyRVl0eUR4NVIxSHRQUHNPRzYzZjFIOGdEaC1kdGI5NldNZHlWRFBndnhFWm9sOW8?oc=5)
+### [Diabetes bei Schwangeren nimmt zu: Was das fürs Baby bedeutet](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
-2026-09-25 <span class="news-indication-tag">diabetes</span>
+2026-09-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [La Razón](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGlYN1dEUWpmUWk4VTdWSTVoSnFhbkt5b3dJWlA4S3hjQmlYZ0pKVUJsWlZZMGh1bTRkVDNjV0s1a0otcFh4MDZaTGxXZzlNbU9FUjFzbDFsSnZIY3d4eWs0eWFMUXVmSHBiQ0Nma0NGQ19nNEI4b0NqZlh6eTdpS0hldWQ5ZTBObWI4eElGUGdpOEtUZUM2alZzYXlNeWd4LS0td1ljcjhJa2N1UTk4d05YWHRZVzlUY19zV0RTTXBlZ3JxUlBrSU4xVjFHZldoSzJHcEdxQUV6U1JpZFVIcEU5NkVualNYRVp5MzZQdzV4eXdHdFRMa1U2MUM2YkNmbGpUVkF1ekEtSlnSAZ8CQVVfeXFMTm1zTzNGdkh6NF9KSFVvUWFVMzN2ZzFrWXhuX1QxbGN0a3A3blk3bTBzbDFrXzNlOWZNNi1PT0YzVkoxNjZwR3BjOVRkSHFHLWp5NnE2Sm55VWlocU5zaXpJSmxTU1lUU0VQb0Jrb2RiTFdqcjYzaF8yb0ctWnhyRXROZEtPODhadXNvSUpiWER4a2NWN2NBRjNVdVZfR1VrVHlDR0tfTUtlUnJHdWVsbVRDUjRNemlsbzg2RHR2WXFrM3cxenZhSU94Z2g0MFlpanFCUTdvNnZqVmJGNjVNYTJuMEdNQ3hWTWxvWmRaYmJyRVl0eUR4NVIxSHRQUHNPRzYzZjFIOGdEaC1kdGI5NldNZHlWRFBndnhFWm9sOW8?oc=5)
-
----
-
-### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
-
-2026-09-24 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+Source: [WAZ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
 ---
 

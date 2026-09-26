@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [El síndrome de piernas inquietas aumenta el riesgo de depresión, ansiedad y suicidio - 65 y más](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXFmQWxWdk5HRmJKNlFnNWdwblc2WGhYQ1BQckV5eDJDOFpYSU8wR195Vmx4Q2pUYVBsdDVGb1BucDltOGt3QTVHZmRSWGh4ODAySnFRNXhHTFJsSUl0OUJDVlJXVjlUUjkzdGwtRkduVDljMWZWOXJ1UFhRUGV0S3JIaU44bHdVRzhTbWQxeVJRZlZCQzhfS0J6ZXF5WU1JWnFLSU9rSXNaNExsLUEyXzdERQ?oc=5)
+
+2026-09-26 <span class="news-indication-tag">depresión</span>
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXFmQWxWdk5HRmJKNlFnNWdwblc2WGhYQ1BQckV5eDJDOFpYSU8wR195Vmx4Q2pUYVBsdDVGb1BucDltOGt3QTVHZmRSWGh4ODAySnFRNXhHTFJsSUl0OUJDVlJXVjlUUjkzdGwtRkduVDljMWZWOXJ1UFhRUGV0S3JIaU44bHdVRzhTbWQxeVJRZlZCQzhfS0J6ZXF5WU1JWnFLSU9rSXNaNExsLUEyXzdERQ?oc=5)
+
+---
 
 ### [Depressione, cinque cervelli diversi dietro la stessa diagnosi](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnhTQVYtTUZTelNsZkRNTG9FbG9HZ3R3eFFpZGVtS0JDU0V3dFVROGFKWS1jTDRjU0pFa0dkQ1lwU3dlQmdpTGFrY19kdnVBY0dmbG1GZElDRFJqZTBfanZfcE1QRnFrdmhRQjhkYVB0d1E3cmZ3RFJOSE5KS3BIRlVjd0ExVjBKM1J3NzhmMFJxU0pOZzN3R2dJX1B1dlZUSzJYakx2ZTVvYUxpbGRWNkhKSGpBZGJKSVhndm53?oc=5)
 

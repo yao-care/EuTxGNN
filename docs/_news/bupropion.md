@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Bupropion</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [BMI bei Herzschwäche: Grazer Studie zeigt zentrale Adipositas bei 96 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
+
+2026-09-26 <span class="news-indication-tag">Adipositas</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
+
+---
 
 ### [GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
 2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
+
+---
+
+### [¿Puede el tratamiento de la obesidad con agonistas del receptor de GLP-1 durar para siempre?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
+
+2026-09-23 <span class="news-indication-tag">obesidad</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
 
-### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObHFId1ZGb3d4UUR4bzhfT3BFNXRvTm5kR2xMUzQwYmtKTzNmY3ViNUlBWVYyWVE0WG1NTEZqSFBCU3NOSjY0Z24zekFYaXJxS0ZpTXBCNnprdEltNjY1TjVrby1hQUZ2cFk1czJOT3ZYeExnUy14MkdMZk1VeW1kaG5WQ0d0cTdSVGtvd2Zlc1pmTW9ENWZCU3FIb3hqMkxUZDNCYXR1M0Q3b01Oakx0eXRMNmxNb01kNFpRaVpPaXpOT1NTZGNyQnFCRk45bG1GOER6OVdwd2xFelN5cTlTMXk0SUMzTm5OWksyaU5DOGdrUQ?oc=5)
+### [What your pins and needles really mean - from deadly stroke to vit deficiency - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
 
-2026-09-26 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-09-26 <span class="news-indication-tag">stroke</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObHFId1ZGb3d4UUR4bzhfT3BFNXRvTm5kR2xMUzQwYmtKTzNmY3ViNUlBWVYyWVE0WG1NTEZqSFBCU3NOSjY0Z24zekFYaXJxS0ZpTXBCNnprdEltNjY1TjVrby1hQUZ2cFk1czJOT3ZYeExnUy14MkdMZk1VeW1kaG5WQ0d0cTdSVGtvd2Zlc1pmTW9ENWZCU3FIb3hqMkxUZDNCYXR1M0Q3b01Oakx0eXRMNmxNb01kNFpRaVpPaXpOT1NTZGNyQnFCRk45bG1GOER6OVdwd2xFelN5cTlTMXk0SUMzTm5OWksyaU5DOGdrUQ?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
+
+---
+
+### [BMI bei Herzschwäche: Grazer Studie zeigt zentrale Adipositas bei 96 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
+
+2026-09-26 <span class="news-indication-tag">Adipositas</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
 
 ---
 
@@ -78,27 +86,19 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dl
 
 ---
 
-### [Ictus prima dei 55 anni, i casi sono quasi raddoppiati: i segnali da non ignorare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
-
-2026-09-24 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
-
----
-
-### [Ictus, 13 pazienti in più su 100 tornano autonomi: cosa ha mostrato il nuovo studio](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
-
-2026-09-24 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
-
----
-
 ### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+
+---
+
+### [¿Puede el tratamiento de la obesidad con agonistas del receptor de GLP-1 durar para siempre?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
+
+2026-09-23 <span class="news-indication-tag">obesidad</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
 
 ---
 
@@ -131,6 +131,14 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQ
 2026-09-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+
+---
+
+### [Des chercheurs ont implanté des cellules humaines dans le cerveau de souris et voilà ce qui s'est produit](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzNwQlJmblNEdzd6Q2hvaFBhNkpoelhVbVdBY3oyZXVXWTJNUm5WbHVFQ1hEcjhPR3BYbElQekt4M1dMZ2VLdFV6OEVya2pmVkwyRXRGaE9OVGlRd290eFpIUHZkbkZGWDZJcUptcDNTSTN0SlV2U2VsNWwxV044bUFNZGNPYUQzS1AwdTZnaTM5cGcxQkNQRnh6R1dQOHZfcjBLQWpUZlVjdGNxUUQ2SlpKWdIBuAFBVV95cUxQdi11S3pFNWFLQU1QRW1PSVZOdDEtOXVQVnM2NGxsTVNET0UxbVNBbWI5VGlydzlQUFlCN1VrRThtRE44SU43ZEFWSi1FZmwxVktTSGhGTkhsdDFkdHducFQzWE5wR1hPM1REQl83VUJOcW0zOGpsVUxMUHdGZHhDNEg4RGJCaGZweHQtNGthM1BpQ0tpNUx1R2VCT1c2cWp5UGVMVTNWb1lfOTNxbDhLUmRQdUF3a1hu?oc=5)
+
+2026-09-21 <span class="news-indication-tag">AVC</span>
+
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzNwQlJmblNEdzd6Q2hvaFBhNkpoelhVbVdBY3oyZXVXWTJNUm5WbHVFQ1hEcjhPR3BYbElQekt4M1dMZ2VLdFV6OEVya2pmVkwyRXRGaE9OVGlRd290eFpIUHZkbkZGWDZJcUptcDNTSTN0SlV2U2VsNWwxV044bUFNZGNPYUQzS1AwdTZnaTM5cGcxQkNQRnh6R1dQOHZfcjBLQWpUZlVjdGNxUUQ2SlpKWdIBuAFBVV95cUxQdi11S3pFNWFLQU1QRW1PSVZOdDEtOXVQVnM2NGxsTVNET0UxbVNBbWI5VGlydzlQUFlCN1VrRThtRE44SU43ZEFWSi1FZmwxVktTSGhGTkhsdDFkdHducFQzWE5wR1hPM1REQl83VUJOcW0zOGpsVUxMUHdGZHhDNEg4RGJCaGZweHQtNGthM1BpQ0tpNUx1R2VCT1c2cWp5UGVMVTNWb1lfOTNxbDhLUmRQdUF3a1hu?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
-
-### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
-
-2026-09-26 <span class="news-indication-tag">diabetes</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
-
----
+## Related News (8)
 
 ### [Cortisone, anche se assunto solo per pochi giorni, fa correre rischi a chi ha il diabete](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
 
@@ -78,19 +70,19 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV9
 
 ---
 
+### [Diabetes: Dieser pflanzliche Wirkstoff kann Nierenerkrankungen verhindern](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+
+2026-09-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+
+---
+
 ### [Früherkennung: Warum bei Prädiabetes eine individuelle Prävention wichtig ist](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
 
 2026-09-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
-
----
-
-### [Dormir menos de seis horas: Un nuevo estudio demuestra que el descanso insuficiente eleva el riesgo de diabetes tipo 2 - La Razón](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGlYN1dEUWpmUWk4VTdWSTVoSnFhbkt5b3dJWlA4S3hjQmlYZ0pKVUJsWlZZMGh1bTRkVDNjV0s1a0otcFh4MDZaTGxXZzlNbU9FUjFzbDFsSnZIY3d4eWs0eWFMUXVmSHBiQ0Nma0NGQ19nNEI4b0NqZlh6eTdpS0hldWQ5ZTBObWI4eElGUGdpOEtUZUM2alZzYXlNeWd4LS0td1ljcjhJa2N1UTk4d05YWHRZVzlUY19zV0RTTXBlZ3JxUlBrSU4xVjFHZldoSzJHcEdxQUV6U1JpZFVIcEU5NkVualNYRVp5MzZQdzV4eXdHdFRMa1U2MUM2YkNmbGpUVkF1ekEtSlnSAZ8CQVVfeXFMTm1zTzNGdkh6NF9KSFVvUWFVMzN2ZzFrWXhuX1QxbGN0a3A3blk3bTBzbDFrXzNlOWZNNi1PT0YzVkoxNjZwR3BjOVRkSHFHLWp5NnE2Sm55VWlocU5zaXpJSmxTU1lUU0VQb0Jrb2RiTFdqcjYzaF8yb0ctWnhyRXROZEtPODhadXNvSUpiWER4a2NWN2NBRjNVdVZfR1VrVHlDR0tfTUtlUnJHdWVsbVRDUjRNemlsbzg2RHR2WXFrM3cxenZhSU94Z2g0MFlpanFCUTdvNnZqVmJGNjVNYTJuMEdNQ3hWTWxvWmRaYmJyRVl0eUR4NVIxSHRQUHNPRzYzZjFIOGdEaC1kdGI5NldNZHlWRFBndnhFWm9sOW8?oc=5)
-
-2026-09-25 <span class="news-indication-tag">diabetes</span>
-
-Source: [La Razón](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGlYN1dEUWpmUWk4VTdWSTVoSnFhbkt5b3dJWlA4S3hjQmlYZ0pKVUJsWlZZMGh1bTRkVDNjV0s1a0otcFh4MDZaTGxXZzlNbU9FUjFzbDFsSnZIY3d4eWs0eWFMUXVmSHBiQ0Nma0NGQ19nNEI4b0NqZlh6eTdpS0hldWQ5ZTBObWI4eElGUGdpOEtUZUM2alZzYXlNeWd4LS0td1ljcjhJa2N1UTk4d05YWHRZVzlUY19zV0RTTXBlZ3JxUlBrSU4xVjFHZldoSzJHcEdxQUV6U1JpZFVIcEU5NkVualNYRVp5MzZQdzV4eXdHdFRMa1U2MUM2YkNmbGpUVkF1ekEtSlnSAZ8CQVVfeXFMTm1zTzNGdkh6NF9KSFVvUWFVMzN2ZzFrWXhuX1QxbGN0a3A3blk3bTBzbDFrXzNlOWZNNi1PT0YzVkoxNjZwR3BjOVRkSHFHLWp5NnE2Sm55VWlocU5zaXpJSmxTU1lUU0VQb0Jrb2RiTFdqcjYzaF8yb0ctWnhyRXROZEtPODhadXNvSUpiWER4a2NWN2NBRjNVdVZfR1VrVHlDR0tfTUtlUnJHdWVsbVRDUjRNemlsbzg2RHR2WXFrM3cxenZhSU94Z2g0MFlpanFCUTdvNnZqVmJGNjVNYTJuMEdNQ3hWTWxvWmRaYmJyRVl0eUR4NVIxSHRQUHNPRzYzZjFIOGdEaC1kdGI5NldNZHlWRFBndnhFWm9sOW8?oc=5)
 
 ---
 
@@ -102,43 +94,19 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQckptZ01
 
 ---
 
-### [Emicrania, un bambino su 10 ne soffre con effetti sul rendimento: "Farmaci ci sono ma solo per adulti" - Il Tirreno](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQWdaT2tVSVgwOHI0VC1yVGtJMDQ4YXQxeTBnMjY5LUpXczYzeF9KRnFvS0FTZTlNaGR2UGRlempaX2VCUlBXQndWZ2lia2dWeE1jOGxzNmR5M2lKM2lMSmczcEU2ZE56ZXgyZ2pqU2pGZTZmTlBZc0xjY3E1Nl9QVHJ0Q3BDdlozTDQzRlpfMWhVUHJlcnpYWUJXZnlaSktOWUl1cjNid1NxeWx6aXZPMTVVdlZqNXlMSnVlRzNsd1U0eVBrVnpYX1Q5amU0bGM4ZTA5QVdqVERPVzg0dWVLc0ZyS0s1UndyLVRaR0FXRmhmRUM1VmZKTHg4SFMyOXM?oc=5)
-
-2026-09-25 <span class="news-indication-tag">emicrania</span>
-
-Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQWdaT2tVSVgwOHI0VC1yVGtJMDQ4YXQxeTBnMjY5LUpXczYzeF9KRnFvS0FTZTlNaGR2UGRlempaX2VCUlBXQndWZ2lia2dWeE1jOGxzNmR5M2lKM2lMSmczcEU2ZE56ZXgyZ2pqU2pGZTZmTlBZc0xjY3E1Nl9QVHJ0Q3BDdlozTDQzRlpfMWhVUHJlcnpYWUJXZnlaSktOWUl1cjNid1NxeWx6aXZPMTVVdlZqNXlMSnVlRzNsd1U0eVBrVnpYX1Q5amU0bGM4ZTA5QVdqVERPVzg0dWVLc0ZyS0s1UndyLVRaR0FXRmhmRUM1VmZKTHg4SFMyOXM?oc=5)
-
----
-
-### [Así influye el ejercicio en las personas con migraña](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
-
-2026-09-24 <span class="news-indication-tag">migraña</span>
-
-Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
-
----
-
-### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
-
-2026-09-24 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
-
----
-
 ### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
 ---
 
-### [« Des migraines, des vomissements… » : ces dangereux compléments amincissants à la sibutramine promus par des influenceuses - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
+### [Diabetes bei Schwangeren nimmt zu: Was das fürs Baby bedeutet](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
-2026-09-23 <span class="news-indication-tag">migraine</span>
+2026-09-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxQbWh6ZHVKWmNmTURuYUtmYVR6TGl4QllvLUtLM2ZrRnRsbk5iemVOb3JUZ3RpZkh6dDczdFE1eXNtS3I4ZzBmMl9CUm8yT21Cb0o5aWl4LUJQRXoySFExaVBEVUxCWVpSMFI5djY4OFhNUVBmTUlzZDR4MmwzRVA0b3FJWnRlaF9KVFYyZVlzVTdjQS1pRGl0bVI3VVV5bkFfZlA0eThORGFXMXlCUG14akd4akpVSXVUalRvUUFuUTVqek5UemVpSDI4MlVieEJaUUlMdUlqMFBpbnZCNXdQMWZqSjZJV085RkNQQ3JkOTRQSllYamEwWUY2a2xfeGVnWTkxNkFFRVhzbWRZQXhjNVNvVjRuSHRLNEdYNQ?oc=5)
+Source: [WAZ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
 ---
 

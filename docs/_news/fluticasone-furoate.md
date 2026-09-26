@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Furoate?">
-<strong>Fluticasone Furoate</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Fluticasone Furoate</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <li>allergic asthma (100.0%)</li>
 <li>intrinsic asthma (100.0%)</li>
 <li>bronchitis (99.9%)</li>
-<li>asthma (99.9%)</li>
+<li class="indication-matched">asthma (99.9%)<span class="indication-tag">📰 asma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization (99.9%)</li>
 <li>dermatitis, atopic (99.8%)</li>
 <li>contact dermatitis (99.5%)</li>
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Toxoplasma baut Zucker der Wirtszelle um, bevor der Parasit eindringt - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJ1czZMeGU1MFd5WkNIUHBQVnBROVczMzFFOENxbk9uVGVwRXloU0xuU1VaMkFkdk5PeHhsdVBqaWpLc3NkRVUtc1V6aU1WNThuSkhnNDRqSDdQUVI1Y3hRUUNlc2NpLUpGTnNCTVNLQVpHQUZiS1NNR3IyelNWVmVrUXBzeVd0MlZSQ2VJRzJvLWs5MVNwdHZlV0kwbmpIaWdkT05sTjZ6cU80MmZCTVp2X184MGRRRnR6RkZDNHNKbzVuWkdGVkpjdzlLYWd4?oc=5)
+
+2026-09-26 <span class="news-indication-tag">asma</span>
+
+Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJ1czZMeGU1MFd5WkNIUHBQVnBROVczMzFFOENxbk9uVGVwRXloU0xuU1VaMkFkdk5PeHhsdVBqaWpLc3NkRVUtc1V6aU1WNThuSkhnNDRqSDdQUVI1Y3hRUUNlc2NpLUpGTnNCTVNLQVpHQUZiS1NNR3IyelNWVmVrUXBzeVd0MlZSQ2VJRzJvLWs5MVNwdHZlV0kwbmpIaWdkT05sTjZ6cU80MmZCTVp2X184MGRRRnR6RkZDNHNKbzVuWkdGVkpjdzlLYWd4?oc=5)
+
+---
 
 ### [Santé : comment combattre l'inflammation silencieuse ? - Les Echos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUF0WFg0WWNiVVhlcGdGTUhmSmRYeGxidTdET2JlVkhNM0FKbGxmdDd4cVpHck0yTlF6M2s0UnRPb1hNVjBIYkIyaVRNaUVlem50dHNJNjlqR3FQclEtX2RRU2l0OFhQRGNpZUN2UF9QVFIwTUJFa0ZCQ0JBYVlVT2dVdC1MdmhXWEtnMU9FLTI5OW5nbjZzVExnYw?oc=5)
 

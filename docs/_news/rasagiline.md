@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 
 ## Related News (2)
 
-### [Cette vitamine permettrait de se protéger contre la maladie d'Alzheimer selon une étude scientifique prometteuse](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
+### [Cette vitamine permettrait de se protéger contre la maladie d'Alzheimer selon une étude scientifique prometteuse - La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
 
 2026-09-24 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [laprovence.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
+Source: [La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
 
 ---
 
 ### [Smart beds and motion sensors - is this the future of dementia care?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 
-2026-09-20 <span class="news-indication-tag">dementia</span>
+2026-09-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 
 ---
 

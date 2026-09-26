@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Santé : comment combattre l'inflammation silencieuse ? - Les Echos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUF0WFg0WWNiVVhlcGdGTUhmSmRYeGxidTdET2JlVkhNM0FKbGxmdDd4cVpHck0yTlF6M2s0UnRPb1hNVjBIYkIyaVRNaUVlem50dHNJNjlqR3FQclEtX2RRU2l0OFhQRGNpZUN2UF9QVFIwTUJFa0ZCQ0JBYVlVT2dVdC1MdmhXWEtnMU9FLTI5OW5nbjZzVExnYw?oc=5)
 
@@ -75,14 +75,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0
 2026-09-24 <span class="news-indication-tag">BPCO</span>
 
 Source: [ansa.it](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
-
----
-
-### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">arthritis</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
 
-### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObHFId1ZGb3d4UUR4bzhfT3BFNXRvTm5kR2xMUzQwYmtKTzNmY3ViNUlBWVYyWVE0WG1NTEZqSFBCU3NOSjY0Z24zekFYaXJxS0ZpTXBCNnprdEltNjY1TjVrby1hQUZ2cFk1czJOT3ZYeExnUy14MkdMZk1VeW1kaG5WQ0d0cTdSVGtvd2Zlc1pmTW9ENWZCU3FIb3hqMkxUZDNCYXR1M0Q3b01Oakx0eXRMNmxNb01kNFpRaVpPaXpOT1NTZGNyQnFCRk45bG1GOER6OVdwd2xFelN5cTlTMXk0SUMzTm5OWksyaU5DOGdrUQ?oc=5)
+### [What your pins and needles really mean - from deadly stroke to vit deficiency - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
 
-2026-09-26 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-09-26 <span class="news-indication-tag">stroke</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObHFId1ZGb3d4UUR4bzhfT3BFNXRvTm5kR2xMUzQwYmtKTzNmY3ViNUlBWVYyWVE0WG1NTEZqSFBCU3NOSjY0Z24zekFYaXJxS0ZpTXBCNnprdEltNjY1TjVrby1hQUZ2cFk1czJOT3ZYeExnUy14MkdMZk1VeW1kaG5WQ0d0cTdSVGtvd2Zlc1pmTW9ENWZCU3FIb3hqMkxUZDNCYXR1M0Q3b01Oakx0eXRMNmxNb01kNFpRaVpPaXpOT1NTZGNyQnFCRk45bG1GOER6OVdwd2xFelN5cTlTMXk0SUMzTm5OWksyaU5DOGdrUQ?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
+
+---
+
+### [High blood pressure? Listen to Mozart or Bach - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
+
+2026-09-26 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
+
+---
+
+### [James Stone, cardiologue : "Le problème n'est pas de manger des oeufs, mais ce que vous mettez à côté" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHRfYjlaWkVCSkxZRWM1RFpsU0xwbnpVRi1KSWExNFRfT0FBSzAzQ3JZT0xPQi1iUEROcGZta0YxRVZLZGZCckNVenBmNkVWbFl2QU9jZDBmeUM2Y0VsQ3E0aHN0cUJYUDZDN3hyNmNZT3l5eDZPLVB4ODd2S1k0NWJXNU1BZFFFWlFhOUJpbw?oc=5)
+
+2026-09-26 <span class="news-indication-tag">hypertension</span>
+
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHRfYjlaWkVCSkxZRWM1RFpsU0xwbnpVRi1KSWExNFRfT0FBSzAzQ3JZT0xPQi1iUEROcGZta0YxRVZLZGZCckNVenBmNkVWbFl2QU9jZDBmeUM2Y0VsQ3E0aHN0cUJYUDZDN3hyNmNZT3l5eDZPLVB4ODd2S1k0NWJXNU1BZFFFWlFhOUJpbw?oc=5)
 
 ---
 
@@ -78,19 +94,11 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2Y
 
 ---
 
-### [Ictus prima dei 55 anni, i casi sono quasi raddoppiati: i segnali da non ignorare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
+### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
-2026-09-24 <span class="news-indication-tag">ictus</span>
+2026-09-24 <span class="news-indication-tag">hypertension</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4NjJfTHBKOWdKM1c2Mlp5TnZiOUZ4Q2NSaUJWaHBzVGJnR0dQVGoyMlVmNnphbTk3LXVkclpCU25pbTBZMFVKYldxVFNDd2RjMFJRdWowVVlDM2s5MHlZZ0RVbFVHMmVta3VWdVpWWWtxVVB2NHItWXRmQndVeGFwYkpEbHBGVUd3WnR0UFdueF8tWERUSkFKYTVpVmpVSlBLWGItOFVQOVBuZ1FfR01CNjJTUWRIanlOcmYxZEkwVGJqdjVLempuX3Fqa21QMmh2NFFR?oc=5)
-
----
-
-### [Ictus, 13 pazienti in più su 100 tornano autonomi: cosa ha mostrato il nuovo studio](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
-
-2026-09-24 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
 ---
 
@@ -115,6 +123,14 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+
+---
+
+### [Des chercheurs ont implanté des cellules humaines dans le cerveau de souris et voilà ce qui s'est produit](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzNwQlJmblNEdzd6Q2hvaFBhNkpoelhVbVdBY3oyZXVXWTJNUm5WbHVFQ1hEcjhPR3BYbElQekt4M1dMZ2VLdFV6OEVya2pmVkwyRXRGaE9OVGlRd290eFpIUHZkbkZGWDZJcUptcDNTSTN0SlV2U2VsNWwxV044bUFNZGNPYUQzS1AwdTZnaTM5cGcxQkNQRnh6R1dQOHZfcjBLQWpUZlVjdGNxUUQ2SlpKWdIBuAFBVV95cUxQdi11S3pFNWFLQU1QRW1PSVZOdDEtOXVQVnM2NGxsTVNET0UxbVNBbWI5VGlydzlQUFlCN1VrRThtRE44SU43ZEFWSi1FZmwxVktTSGhGTkhsdDFkdHducFQzWE5wR1hPM1REQl83VUJOcW0zOGpsVUxMUHdGZHhDNEg4RGJCaGZweHQtNGthM1BpQ0tpNUx1R2VCT1c2cWp5UGVMVTNWb1lfOTNxbDhLUmRQdUF3a1hu?oc=5)
+
+2026-09-21 <span class="news-indication-tag">AVC</span>
+
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzNwQlJmblNEdzd6Q2hvaFBhNkpoelhVbVdBY3oyZXVXWTJNUm5WbHVFQ1hEcjhPR3BYbElQekt4M1dMZ2VLdFV6OEVya2pmVkwyRXRGaE9OVGlRd290eFpIUHZkbkZGWDZJcUptcDNTSTN0SlV2U2VsNWwxV044bUFNZGNPYUQzS1AwdTZnaTM5cGcxQkNQRnh6R1dQOHZfcjBLQWpUZlVjdGNxUUQ2SlpKWdIBuAFBVV95cUxQdi11S3pFNWFLQU1QRW1PSVZOdDEtOXVQVnM2NGxsTVNET0UxbVNBbWI5VGlydzlQUFlCN1VrRThtRE44SU43ZEFWSi1FZmwxVktTSGhGTkhsdDFkdHducFQzWE5wR1hPM1REQl83VUJOcW0zOGpsVUxMUHdGZHhDNEg4RGJCaGZweHQtNGthM1BpQ0tpNUx1R2VCT1c2cWp5UGVMVTNWb1lfOTNxbDhLUmRQdUF3a1hu?oc=5)
 
 ---
 

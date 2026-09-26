@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes (diabetes mellitus) News"
+title: "diabete (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 7 articles, 86 related drugs."
+description: "Health news about diabete (diabetes mellitus). 6 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes (diabetes mellitus) News
+# diabete (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>7 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabete (diabetes mellitus)?">
+<strong>diabete (diabetes mellitus)</strong> currently has <strong>6 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabete” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -114,15 +114,7 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (7)
-
-### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
-
-2026-09-26
-
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
-
----
+## Related News (6)
 
 ### [Cortisone, anche se assunto solo per pochi giorni, fa correre rischi a chi ha il diabete](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
 
@@ -140,6 +132,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV9
 
 ---
 
+### [Diabetes: Dieser pflanzliche Wirkstoff kann Nierenerkrankungen verhindern](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+
+2026-09-25
+
+Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+
+---
+
 ### [Früherkennung: Warum bei Prädiabetes eine individuelle Prävention wichtig ist](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
 
 2026-09-25
@@ -148,19 +148,11 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRK
 
 ---
 
-### [Dormir menos de seis horas: Un nuevo estudio demuestra que el descanso insuficiente eleva el riesgo de diabetes tipo 2 - La Razón](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGlYN1dEUWpmUWk4VTdWSTVoSnFhbkt5b3dJWlA4S3hjQmlYZ0pKVUJsWlZZMGh1bTRkVDNjV0s1a0otcFh4MDZaTGxXZzlNbU9FUjFzbDFsSnZIY3d4eWs0eWFMUXVmSHBiQ0Nma0NGQ19nNEI4b0NqZlh6eTdpS0hldWQ5ZTBObWI4eElGUGdpOEtUZUM2alZzYXlNeWd4LS0td1ljcjhJa2N1UTk4d05YWHRZVzlUY19zV0RTTXBlZ3JxUlBrSU4xVjFHZldoSzJHcEdxQUV6U1JpZFVIcEU5NkVualNYRVp5MzZQdzV4eXdHdFRMa1U2MUM2YkNmbGpUVkF1ekEtSlnSAZ8CQVVfeXFMTm1zTzNGdkh6NF9KSFVvUWFVMzN2ZzFrWXhuX1QxbGN0a3A3blk3bTBzbDFrXzNlOWZNNi1PT0YzVkoxNjZwR3BjOVRkSHFHLWp5NnE2Sm55VWlocU5zaXpJSmxTU1lUU0VQb0Jrb2RiTFdqcjYzaF8yb0ctWnhyRXROZEtPODhadXNvSUpiWER4a2NWN2NBRjNVdVZfR1VrVHlDR0tfTUtlUnJHdWVsbVRDUjRNemlsbzg2RHR2WXFrM3cxenZhSU94Z2g0MFlpanFCUTdvNnZqVmJGNjVNYTJuMEdNQ3hWTWxvWmRaYmJyRVl0eUR4NVIxSHRQUHNPRzYzZjFIOGdEaC1kdGI5NldNZHlWRFBndnhFWm9sOW8?oc=5)
+### [Diabetes bei Schwangeren nimmt zu: Was das fürs Baby bedeutet](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
-2026-09-25
+2026-09-22
 
-Source: [La Razón](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGlYN1dEUWpmUWk4VTdWSTVoSnFhbkt5b3dJWlA4S3hjQmlYZ0pKVUJsWlZZMGh1bTRkVDNjV0s1a0otcFh4MDZaTGxXZzlNbU9FUjFzbDFsSnZIY3d4eWs0eWFMUXVmSHBiQ0Nma0NGQ19nNEI4b0NqZlh6eTdpS0hldWQ5ZTBObWI4eElGUGdpOEtUZUM2alZzYXlNeWd4LS0td1ljcjhJa2N1UTk4d05YWHRZVzlUY19zV0RTTXBlZ3JxUlBrSU4xVjFHZldoSzJHcEdxQUV6U1JpZFVIcEU5NkVualNYRVp5MzZQdzV4eXdHdFRMa1U2MUM2YkNmbGpUVkF1ekEtSlnSAZ8CQVVfeXFMTm1zTzNGdkh6NF9KSFVvUWFVMzN2ZzFrWXhuX1QxbGN0a3A3blk3bTBzbDFrXzNlOWZNNi1PT0YzVkoxNjZwR3BjOVRkSHFHLWp5NnE2Sm55VWlocU5zaXpJSmxTU1lUU0VQb0Jrb2RiTFdqcjYzaF8yb0ctWnhyRXROZEtPODhadXNvSUpiWER4a2NWN2NBRjNVdVZfR1VrVHlDR0tfTUtlUnJHdWVsbVRDUjRNemlsbzg2RHR2WXFrM3cxenZhSU94Z2g0MFlpanFCUTdvNnZqVmJGNjVNYTJuMEdNQ3hWTWxvWmRaYmJyRVl0eUR4NVIxSHRQUHNPRzYzZjFIOGdEaC1kdGI5NldNZHlWRFBndnhFWm9sOW8?oc=5)
-
----
-
-### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
-
-2026-09-24
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+Source: [WAZ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
 ---
 
