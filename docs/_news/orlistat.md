@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObHFId1ZGb3d4UUR4bzhfT3BFNXRvTm5kR2xMUzQwYmtKTzNmY3ViNUlBWVYyWVE0WG1NTEZqSFBCU3NOSjY0Z24zekFYaXJxS0ZpTXBCNnprdEltNjY1TjVrby1hQUZ2cFk1czJOT3ZYeExnUy14MkdMZk1VeW1kaG5WQ0d0cTdSVGtvd2Zlc1pmTW9ENWZCU3FIb3hqMkxUZDNCYXR1M0Q3b01Oakx0eXRMNmxNb01kNFpRaVpPaXpOT1NTZGNyQnFCRk45bG1GOER6OVdwd2xFelN5cTlTMXk0SUMzTm5OWksyaU5DOGdrUQ?oc=5)
+
+2026-09-26 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObHFId1ZGb3d4UUR4bzhfT3BFNXRvTm5kR2xMUzQwYmtKTzNmY3ViNUlBWVYyWVE0WG1NTEZqSFBCU3NOSjY0Z24zekFYaXJxS0ZpTXBCNnprdEltNjY1TjVrby1hQUZ2cFk1czJOT3ZYeExnUy14MkdMZk1VeW1kaG5WQ0d0cTdSVGtvd2Zlc1pmTW9ENWZCU3FIb3hqMkxUZDNCYXR1M0Q3b01Oakx0eXRMNmxNb01kNFpRaVpPaXpOT1NTZGNyQnFCRk45bG1GOER6OVdwd2xFelN5cTlTMXk0SUMzTm5OWksyaU5DOGdrUQ?oc=5)
+
+---
 
 ### [„Der durch eine krebsassoziierte Koagulopathie ausgelöste Schlaganfall ist eine eigenständige Entität“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
 2026-09-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+
+---
+
+### [GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
+
+2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHI4
 2026-09-24 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU1kemJRYm9kdmY1VzlmeDAzbUNMZ0xOUEI1dExtRnRrNmJpM2tMR05TTkJOLXVPT0pFYklXZGliaFc5SjlwTUtJUDNGajh4YjlCVDRzVEo5X25TMVBzd3dUOXNuRTFyNkJzUXBmeWRzSjdjdXBlZmUybUp3ZnVOdklPNkYxNmRmdW9QWmhtRkxOWFZORG5mSUZHTWIwNlN6eWRJZEhyckZaVmo0eVk1RUVMMXBKb2RETUZCUkFqVFgwRmY5b08tbEhaV1A2YnZvWnRHb2Q4MEE?oc=5)
-
----
-
-### [Obesità, farmaci gratis. In Regione c’è una legge](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
-
-2026-09-24 <span class="news-indication-tag">obesità</span>
-
-Source: [ilgiornale.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
 
 ---
 
@@ -110,19 +118,19 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 
 ---
 
-### [Fibrillazione atriale, anticoagulanti e rischio di ictus: come si sceglie la terapia giusta](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
-
-2026-09-21 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeThCbE5rbWZoOUF6aWhZaExHWDNGbnRfNWI1UV9meHZVaDJSRWRaTU84TFhIc2tNTUlNRVlBTldpRVlrcmhub0tCbEIxOGxqdDFqVjVMRDZnVk9HQWVsUm9peVRVVlN3czdjb0Z2NHM0dVhHdXhRQzgxRjBmVGpWaC01bXFwUFl6Y19RUFJ2MnloNnlpS2VKeTJCczhIdXRLLUxrNnQ2dDNMRFhPX3pvWnF1STVXRl9CRDdBd0tvR3hmMjAxNl96aVBobW0wSmxwZGhOWkVaMA?oc=5)
-
----
-
-### [Arteriosklerose | Herzschutz durch Lp(a)-Senkung: Hoffnungen erhalten Dämpfer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkFfbDR5a3R5aVozSDZ2a0hsUC0zY01MTnVUTHhSdm0wQnEzelpJTEswY2ZvUFhadU42bC1LTFpmSnp4RU1VTXpmRnc0OVdEandtRmlqdm9zVEZkbE1BSkZUZEV3ekNVZHpJNUhjMkxwM0FKLUZ4QjZDM0VuR0FicFFwT0ItOTlYM2R6cmRBNGY5MEhJSlhPZG1JWGd2SnZrV3pzeHIxMGlQZjl6dUZ4cEY1NDRlYWM2TV9IVkFITEszRThqcVdVeU1MdDVVU1ZYeGwxdVhkTFdwQQ?oc=5)
+### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkFfbDR5a3R5aVozSDZ2a0hsUC0zY01MTnVUTHhSdm0wQnEzelpJTEswY2ZvUFhadU42bC1LTFpmSnp4RU1VTXpmRnc0OVdEandtRmlqdm9zVEZkbE1BSkZUZEV3ekNVZHpJNUhjMkxwM0FKLUZ4QjZDM0VuR0FicFFwT0ItOTlYM2R6cmRBNGY5MEhJSlhPZG1JWGd2SnZrV3pzeHIxMGlQZjl6dUZ4cEY1NDRlYWM2TV9IVkFITEszRThqcVdVeU1MdDVVU1ZYeGwxdVhkTFdwQQ?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+
+---
+
+### [Farmaci, anti-obesità semaglutide al centro della nuova protezione cardio-renale - Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+
+2026-09-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
 
 ---
 

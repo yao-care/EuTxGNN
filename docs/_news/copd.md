@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "BPCO (copd) News"
+title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about BPCO (copd). 1 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 2 articles, 26 related drugs."
 permalink: /news/copd/
 ---
 
-# BPCO (copd) News
+# EPOC (copd) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about BPCO (copd)?">
-<strong>BPCO (copd)</strong> currently has <strong>1 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about EPOC (copd)?">
+<strong>EPOC (copd)</strong> currently has <strong>2 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “BPCO” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “EPOC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -54,13 +54,21 @@ This page brings together the latest health news about “BPCO” and lists the 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Santé : comment combattre l'inflammation silencieuse ? - Les Echos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUF0WFg0WWNiVVhlcGdGTUhmSmRYeGxidTdET2JlVkhNM0FKbGxmdDd4cVpHck0yTlF6M2s0UnRPb1hNVjBIYkIyaVRNaUVlem50dHNJNjlqR3FQclEtX2RRU2l0OFhQRGNpZUN2UF9QVFIwTUJFa0ZCQ0JBYVlVT2dVdC1MdmhXWEtnMU9FLTI5OW5nbjZzVExnYw?oc=5)
+
+2026-09-25
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUF0WFg0WWNiVVhlcGdGTUhmSmRYeGxidTdET2JlVkhNM0FKbGxmdDd4cVpHck0yTlF6M2s0UnRPb1hNVjBIYkIyaVRNaUVlem50dHNJNjlqR3FQclEtX2RRU2l0OFhQRGNpZUN2UF9QVFIwTUJFa0ZCQ0JBYVlVT2dVdC1MdmhXWEtnMU9FLTI5OW5nbjZzVExnYw?oc=5)
+
+---
 
 ### [Mix di vitamina C e arginina riduce la stanchezza cronica](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
 
 2026-09-24
 
-Source: [ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
+Source: [ansa.it](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
 
 ---
 

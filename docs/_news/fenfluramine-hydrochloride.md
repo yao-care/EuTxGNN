@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Obesità, farmaci gratis. In Regione c’è una legge](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
+### [GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
-2026-09-24 <span class="news-indication-tag">obesità</span>
+2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
-Source: [ilgiornale.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZPWjBjamFYaGJNMndFMVhHLVZpenB4WnZMLW05ZUUtQjk5dVI5NWZCYWJUQ0c0TVlDclh4UV83TW96QlNQVUpNbXlsdkFvVFlUdzRNZlZUNW5DNjI3cDlhYmJ2aVlrT19sbnI5NS04cXRURlNiNmh2UU90VWRVTGhVdS1SeVRKYTJzNDVOYw?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ Source: [ilgiornale.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZ
 2026-09-22 <span class="news-indication-tag">Adipositas</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2pZZW5RVWwyNDdDekF1M2IwbzRXLXhKOUVMNFpQV0t0VnppZTNYOTBMVFBmR3NtTzhjb2swSG1GazBVSC04STgtemIxVWQwdFpETWMyb2FJMlNsRDhtVnJicDJYVmxadFpoUFdMRnBra3laSmwtYUpWTEs5QlQ4SU13Rk1vYmpRaUZpQU9ERjVtbXhBY1FpN1hpaEl1MkdQMFRiZmdFbFNKODNZTnBhQ1hlZUZhQVYwM1psSDQtMDNaQUJWQnI3RkFWc1RiWkF2aDZ1Ni11Y1M?oc=5)
+
+---
+
+### [Farmaci, anti-obesità semaglutide al centro della nuova protezione cardio-renale - Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+
+2026-09-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
 
 ---
 

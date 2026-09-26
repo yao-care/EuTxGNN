@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Cariprazine Hydrochloride?">
-<strong>Cariprazine Hydrochloride</strong> currently has <strong>16 news articles</strong>, with 0 predicted indications.
+<strong>Cariprazine Hydrochloride</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,45 +30,37 @@ This page combines the AI-predicted indications for Cariprazine Hydrochloride wi
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (18)
 
-### [WHO: Ebola-Ausbruch im Kongo breitet sich auf zwei neue Gesundheitszonen aus - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0l0ZlB6aE1sdlE2ckFrMHVtMERSTWJjaVRDamZ4VUFFMUJmcDB4WjlfRXRWMnVSaG1MZGwwWFU2WEFMTVh0QVVTOGJYbDFIWTdUSHRNV0hJUl85T1dqT3NrdjJ2dXFQWUZCS2stN25pY1VlOEZKSDZyVEtvdlFicHg5WHZqd20zX0RHaHNtSVRoZ3hsN1FoRGhFaUl5UDJtTFJFMEIzWVlCcGpSbkd4NXhhUVNNRVR3R0FGMW1wVUNFamk2TDBsR3BBM0FiLTVVaGtkT2ItX2g?oc=5)
-
-2026-09-25 <span class="news-indication-tag">MS</span>
-
-Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0l0ZlB6aE1sdlE2ckFrMHVtMERSTWJjaVRDamZ4VUFFMUJmcDB4WjlfRXRWMnVSaG1MZGwwWFU2WEFMTVh0QVVTOGJYbDFIWTdUSHRNV0hJUl85T1dqT3NrdjJ2dXFQWUZCS2stN25pY1VlOEZKSDZyVEtvdlFicHg5WHZqd20zX0RHaHNtSVRoZ3hsN1FoRGhFaUl5UDJtTFJFMEIzWVlCcGpSbkd4NXhhUVNNRVR3R0FGMW1wVUNFamk2TDBsR3BBM0FiLTVVaGtkT2ItX2g?oc=5)
-
----
-
-### [Forschung aus Thüringen: Die Jenaer Mischung gegen resistente Bakterien](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeFRQQ0NwUXN2MnZVOFdfRjZPc1doTkh6cm9HbjZJdHhEZWp0c1JDRFBsQWt1MzY2NEI3YlJHb1dkZWNMYVRRS19FX1NwQjgtWDR1NGhjMFFSeFNoY284bm9RX24zYUJ3TTdxci1ZV19fYTE0VFFnTnhkZmFPRU1EVC0tUUN6TjZGYm9SMTlKSFJyblhENndDOTUwdlp1YS1YQk1wMTBhMk5pVEtjSmJZOUsyZTE5M09sVzBobGFnMTM0NUxjZV92WXNZQWtwUXc4TkEtdUdFNzB2RTVybFloMTJiUU9ESFk?oc=5)
+### [WHO: Ebola-Ausbruch im Kongo breitet sich auf zwei weitere Gesundheitszonen aus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0l0ZlB6aE1sdlE2ckFrMHVtMERSTWJjaVRDamZ4VUFFMUJmcDB4WjlfRXRWMnVSaG1MZGwwWFU2WEFMTVh0QVVTOGJYbDFIWTdUSHRNV0hJUl85T1dqT3NrdjJ2dXFQWUZCS2stN25pY1VlOEZKSDZyVEtvdlFicHg5WHZqd20zX0RHaHNtSVRoZ3hsN1FoRGhFaUl5UDJtTFJFMEIzWVlCcGpSbkd4NXhhUVNNRVR3R0FGMW1wVUNFamk2TDBsR3BBM0FiLTVVaGtkT2ItX2g?oc=5)
 
 2026-09-25 <span class="news-indication-tag">MS</span>
 
-Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeFRQQ0NwUXN2MnZVOFdfRjZPc1doTkh6cm9HbjZJdHhEZWp0c1JDRFBsQWt1MzY2NEI3YlJHb1dkZWNMYVRRS19FX1NwQjgtWDR1NGhjMFFSeFNoY284bm9RX24zYUJ3TTdxci1ZV19fYTE0VFFnTnhkZmFPRU1EVC0tUUN6TjZGYm9SMTlKSFJyblhENndDOTUwdlp1YS1YQk1wMTBhMk5pVEtjSmJZOUsyZTE5M09sVzBobGFnMTM0NUxjZV92WXNZQWtwUXc4TkEtdUdFNzB2RTVybFloMTJiUU9ESFk?oc=5)
+Source: [de.marketscreener.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0l0ZlB6aE1sdlE2ckFrMHVtMERSTWJjaVRDamZ4VUFFMUJmcDB4WjlfRXRWMnVSaG1MZGwwWFU2WEFMTVh0QVVTOGJYbDFIWTdUSHRNV0hJUl85T1dqT3NrdjJ2dXFQWUZCS2stN25pY1VlOEZKSDZyVEtvdlFicHg5WHZqd20zX0RHaHNtSVRoZ3hsN1FoRGhFaUl5UDJtTFJFMEIzWVlCcGpSbkd4NXhhUVNNRVR3R0FGMW1wVUNFamk2TDBsR3BBM0FiLTVVaGtkT2ItX2g?oc=5)
 
 ---
 
-### [Pourquoi les moustiques nous envahissent-ils si tard cette année ?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0JPMjNqNzZhNXZ3cEs0SEZxU01XUzVvc0xwWW5vTGI4STRQZ18zR20yeXFoSnhOOUQzd21QVndLV2tBWk9ZZUw1czJDSGowYW5TZlpUTDNBZ3MyTTdrRDZ3MEpjam5Jd1REZy1hbUZQYzNPY1JrUHpYMFBFWVlhRmZCbHZyQ2todDQxT3c1RjJUNlRrWl84Y2U5WkFFXzFYS3BZMnRSY3RveVJNakRB0gG0AUFVX3lxTE9DV083ZV9va3VtMHVmZXBFclJPdGJHa1ZfLWZiUHdZVUh4S3pRZl85VE55djczeXNZWEc1dzZOUXo4bEFoV1pieWxxaEtIeTlsaFJ0MmJ5R2FBNC1ZWEl1Q0gzS19pU2M2TGg3ZDdwNGY0ZkJ6a0p0SEVISjZNN2NlRmlHaEdMeEpWWERObzJOdWpraThzWmlObUFlS3RzcFRKZ1dJRWJHenVNbjQ2ZzNZN25WeQ?oc=5)
+### [El ébola sigue sin remitir y se extiende por la República Democrática del Congo - UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wTUV2QndEVDR3VGRSNFJxV2VxNGVrVkdNOFplaXFtQXRUR0NIWHJtakJySWpqTkx2bmlMMXV6QlJNQnluSTFUQXdCVjN4RWhNTzBzYS1kZw?oc=5)
 
 2026-09-25 <span class="news-indication-tag">MS</span>
 
-Source: [CNews](https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0JPMjNqNzZhNXZ3cEs0SEZxU01XUzVvc0xwWW5vTGI4STRQZ18zR20yeXFoSnhOOUQzd21QVndLV2tBWk9ZZUw1czJDSGowYW5TZlpUTDNBZ3MyTTdrRDZ3MEpjam5Jd1REZy1hbUZQYzNPY1JrUHpYMFBFWVlhRmZCbHZyQ2todDQxT3c1RjJUNlRrWl84Y2U5WkFFXzFYS3BZMnRSY3RveVJNakRB0gG0AUFVX3lxTE9DV083ZV9va3VtMHVmZXBFclJPdGJHa1ZfLWZiUHdZVUh4S3pRZl85VE55djczeXNZWEc1dzZOUXo4bEFoV1pieWxxaEtIeTlsaFJ0MmJ5R2FBNC1ZWEl1Q0gzS19pU2M2TGg3ZDdwNGY0ZkJ6a0p0SEVISjZNN2NlRmlHaEdMeEpWWERObzJOdWpraThzWmlObUFlS3RzcFRKZ1dJRWJHenVNbjQ2ZzNZN25WeQ?oc=5)
+Source: [UN News](https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wTUV2QndEVDR3VGRSNFJxV2VxNGVrVkdNOFplaXFtQXRUR0NIWHJtakJySWpqTkx2bmlMMXV6QlJNQnluSTFUQXdCVjN4RWhNTzBzYS1kZw?oc=5)
 
 ---
 
-### [Menor riesgo de atrofia retiniana con trasplante de células madre en la esclerosis múltiple](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXN0QkJ0Z285RERaU1F2RVRZV18yWkpoOEJLdEhmN2pfLUd3dV9SUjlNV1dPUkxkNUxNQTl5NzgtWUhhcXFnY1d1ZUFNcFFtOXQyemJ4N0xCWGs4ZGg4STJUc0E2Vi1DRHFBVmVFcUJLN29HWXBOeDVyVEo4SE4ycElDX0FjdXRXU1poYVJsZFYtSnZ5OERRWm94WUxUUy1xalNXOTNyYXZWWUoxcHd4bkZUa0wtbzhVRng3R2dtODXSAbsBQVVfeXFMTU1iRXFLekJ0dHJac0pMSTVlakNVdExmaWx0cUNVMzJlLWVSM01Rdkdmejg4UmNCLXNsZE8tcGhmZ3BHdy0tWHlSaTcwMm1jaEFRUlRoOTA2VWppZVdwUURuZXBIODZadktvX2llV3hYb0p5U1BUYUJDS19oa0syd2dWMU1GNW1tLXMwSUJ5bHRqdEc5cFpOTjVFRnM3V3g1TDNDU0NBWTQ4VE9ha0RzeGpFeTdVTG1ZQ20zQQ?oc=5)
+### [MS-Schub kündigt sich womöglich Monate vorher im Blut an](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIRldvWlZNQmc4YlRobE5uenNKWVJsT1A1S2lZc042b0dVanRvTG81Tjh3X002cS02S2FpTjVfSDhfVGI1cDBUR003MWlUcDk5YW4zYXprUnJMOUFPY3c?oc=5)
+
+2026-09-25 <span class="news-indication-tag">MS</span>
+
+Source: [FITBOOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIRldvWlZNQmc4YlRobE5uenNKWVJsT1A1S2lZc042b0dVanRvTG81Tjh3X002cS02S2FpTjVfSDhfVGI1cDBUR003MWlUcDk5YW4zYXprUnJMOUFPY3c?oc=5)
+
+---
+
+### [Menor riesgo de atrofia retiniana con trasplante de células madre en la esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXN0QkJ0Z285RERaU1F2RVRZV18yWkpoOEJLdEhmN2pfLUd3dV9SUjlNV1dPUkxkNUxNQTl5NzgtWUhhcXFnY1d1ZUFNcFFtOXQyemJ4N0xCWGs4ZGg4STJUc0E2Vi1DRHFBVmVFcUJLN29HWXBOeDVyVEo4SE4ycElDX0FjdXRXU1poYVJsZFYtSnZ5OERRWm94WUxUUy1xalNXOTNyYXZWWUoxcHd4bkZUa0wtbzhVRng3R2dtODXSAbsBQVVfeXFMTU1iRXFLekJ0dHJac0pMSTVlakNVdExmaWx0cUNVMzJlLWVSM01Rdkdmejg4UmNCLXNsZE8tcGhmZ3BHdy0tWHlSaTcwMm1jaEFRUlRoOTA2VWppZVdwUURuZXBIODZadktvX2llV3hYb0p5U1BUYUJDS19oa0syd2dWMU1GNW1tLXMwSUJ5bHRqdEc5cFpOTjVFRnM3V3g1TDNDU0NBWTQ4VE9ha0RzeGpFeTdVTG1ZQ20zQQ?oc=5)
 
 2026-09-25 <span class="news-indication-tag">esclerosis múltiple</span>
 
-Source: [immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXN0QkJ0Z285RERaU1F2RVRZV18yWkpoOEJLdEhmN2pfLUd3dV9SUjlNV1dPUkxkNUxNQTl5NzgtWUhhcXFnY1d1ZUFNcFFtOXQyemJ4N0xCWGs4ZGg4STJUc0E2Vi1DRHFBVmVFcUJLN29HWXBOeDVyVEo4SE4ycElDX0FjdXRXU1poYVJsZFYtSnZ5OERRWm94WUxUUy1xalNXOTNyYXZWWUoxcHd4bkZUa0wtbzhVRng3R2dtODXSAbsBQVVfeXFMTU1iRXFLekJ0dHJac0pMSTVlakNVdExmaWx0cUNVMzJlLWVSM01Rdkdmejg4UmNCLXNsZE8tcGhmZ3BHdy0tWHlSaTcwMm1jaEFRUlRoOTA2VWppZVdwUURuZXBIODZadktvX2llV3hYb0p5U1BUYUJDS19oa0syd2dWMU1GNW1tLXMwSUJ5bHRqdEc5cFpOTjVFRnM3V3g1TDNDU0NBWTQ4VE9ha0RzeGpFeTdVTG1ZQ20zQQ?oc=5)
-
----
-
-### [El ébola alcanza las casi 3.800 muertes en el brote más mortífero de la historia del Congo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxObjZxNXYxbW5NSEhOU3hxUnNjVnZzQ21yMXo4TTFzcEdpOExxZGNBZkVtaU56dk1mdVVxS0tkMkU3Z2tVT25HTi1fZ2FpdzBXMUota19VYWdtYXBhVGdnTzhRd0RMQTBMeEVINmg1T3pub3VidXladzdUcHNndThPdllwUnJFRHI1T2VtQVVYTW1YcVBTc1lXWTN5UmN5ekpIOWFSUEpTeHZOOVM5cGVfekpmM1U3RnIxRGc4WUtCUlA5UFRTb19MWW9UaEkxeEl6c0hyYTQwRlgzMExj?oc=5)
-
-2026-09-25 <span class="news-indication-tag">MS</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxObjZxNXYxbW5NSEhOU3hxUnNjVnZzQ21yMXo4TTFzcEdpOExxZGNBZkVtaU56dk1mdVVxS0tkMkU3Z2tVT25HTi1fZ2FpdzBXMUota19VYWdtYXBhVGdnTzhRd0RMQTBMeEVINmg1T3pub3VidXladzdUcHNndThPdllwUnJFRHI1T2VtQVVYTW1YcVBTc1lXWTN5UmN5ekpIOWFSUEpTeHZOOVM5cGVfekpmM1U3RnIxRGc4WUtCUlA5UFRTb19MWW9UaEkxeEl6c0hyYTQwRlgzMExj?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXN0QkJ0Z285RERaU1F2RVRZV18yWkpoOEJLdEhmN2pfLUd3dV9SUjlNV1dPUkxkNUxNQTl5NzgtWUhhcXFnY1d1ZUFNcFFtOXQyemJ4N0xCWGs4ZGg4STJUc0E2Vi1DRHFBVmVFcUJLN29HWXBOeDVyVEo4SE4ycElDX0FjdXRXU1poYVJsZFYtSnZ5OERRWm94WUxUUy1xalNXOTNyYXZWWUoxcHd4bkZUa0wtbzhVRng3R2dtODXSAbsBQVVfeXFMTU1iRXFLekJ0dHJac0pMSTVlakNVdExmaWx0cUNVMzJlLWVSM01Rdkdmejg4UmNCLXNsZE8tcGhmZ3BHdy0tWHlSaTcwMm1jaEFRUlRoOTA2VWppZVdwUURuZXBIODZadktvX2llV3hYb0p5U1BUYUJDS19oa0syd2dWMU1GNW1tLXMwSUJ5bHRqdEc5cFpOTjVFRnM3V3g1TDNDU0NBWTQ4VE9ha0RzeGpFeTdVTG1ZQ20zQQ?oc=5)
 
 ---
 
@@ -152,11 +144,35 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE55eFlfcG9EME
 
 ---
 
+### [More of these foods raises the risk of serious illness - and even death - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmpnN1FOdjBBQUZLRk1VOTZXSE9kM0pWbW0zUUFrd2pzNUc2TFdhVnV6QkVVZzUzWl81ZnZZRnFmQTFkb0xBZHVtSVZpZ0c1alJsR0l1TjFNcXpRSW4xT25rM3ExV29MUzlJeVhrQ0VKemlBQXFZaTdnUDh2WUc4LWtyOHNaa1pnZENsVWlNT0MyMU45YWVaZkVNWXJLVzNQN0E?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmpnN1FOdjBBQUZLRk1VOTZXSE9kM0pWbW0zUUFrd2pzNUc2TFdhVnV6QkVVZzUzWl81ZnZZRnFmQTFkb0xBZHVtSVZpZ0c1alJsR0l1TjFNcXpRSW4xT25rM3ExV29MUzlJeVhrQ0VKemlBQXFZaTdnUDh2WUc4LWtyOHNaa1pnZENsVWlNT0MyMU45YWVaZkVNWXJLVzNQN0E?oc=5)
+
+---
+
+### [Contrary to some reports, you don’t have two brains - Ars Technica](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1ZrWUplVVFlb05UYXZ5S2xhbmtVN1pNdHZOQzBCVEZzNVNNVVVHZjBnTVJUd09qQVZGaW84dDI1T1FublRnbHpFLWtzc28yZEtWOFF6dG96SlFTaDlqLVUwclpyV3hnLWJMcUF1X1g2OTVMdVJ4dkt5LW8zNXNuNUNfNjVxNlVVdHMzRV9tUFEtZ3ls?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1ZrWUplVVFlb05UYXZ5S2xhbmtVN1pNdHZOQzBCVEZzNVNNVVVHZjBnTVJUd09qQVZGaW84dDI1T1FublRnbHpFLWtzc28yZEtWOFF6dG96SlFTaDlqLVUwclpyV3hnLWJMcUF1X1g2OTVMdVJ4dkt5LW8zNXNuNUNfNjVxNlVVdHMzRV9tUFEtZ3ls?oc=5)
+
+---
+
 ### [Cornwall bowel cancer campaign aims to boost early diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
 
 2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
+
+---
+
+### [Kampf gegen Infektionen: Erstmals Leitlinie zur Phagentherapie - Wem kann sie helfen?](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3ZaSncyX2lpNUZ5RFdIUnhTa2JMOXAxUUJqcTdJNHh4Q0dZWXVQNF9PbmhNd0dVUHg3UndLMkRTNmNFeUd2cFlsVXdKVG1XanQ0UE5OWjZ5Rmt6RTNFS00xcVF4YUNJU3JBMUF0enh5ZDVLYXhpQUNfTzVPXzNZejVWU0FLWmo4UlluQWdha1lDanVDdEN5R3ptVzJRSDJ6b1hPdmlVbTItRnZQWlliak5WNXhjdnFPZF9kY3JDcFlHQ0Vi?oc=5)
+
+2026-09-21 <span class="news-indication-tag">MS</span>
+
+Source: [Südkurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3ZaSncyX2lpNUZ5RFdIUnhTa2JMOXAxUUJqcTdJNHh4Q0dZWXVQNF9PbmhNd0dVUHg3UndLMkRTNmNFeUd2cFlsVXdKVG1XanQ0UE5OWjZ5Rmt6RTNFS00xcVF4YUNJU3JBMUF0enh5ZDVLYXhpQUNfTzVPXzNZejVWU0FLWmo4UlluQWdha1lDanVDdEN5R3ptVzJRSDJ6b1hPdmlVbTItRnZQWlliak5WNXhjdnFPZF9kY3JDcFlHQ0Vi?oc=5)
 
 ---
 

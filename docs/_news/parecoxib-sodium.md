@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Parecoxib Sodium?">
-<strong>Parecoxib Sodium</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
+<strong>Parecoxib Sodium</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ This page combines the AI-predicted indications for Parecoxib Sodium with the la
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
-### [Se confirma la eficacia de los inhibidores de JAK en la artritis reumatoide](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
+### [Se confirma la eficacia de los inhibidores de JAK en la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
 
 2026-09-25 <span class="news-indication-tag">artritis</span>
 
-Source: [immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
 
 ---
 
@@ -69,14 +69,6 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQWdaT2
 2026-09-24 <span class="news-indication-tag">migraña</span>
 
 Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEM5X3F2bjNldGdNNE10d1ZNVDRqMVJMOEpma21kRmRyX0Nma2haenpjSVFVWjYzMGsya3F0M0pocDF4akE4bGQ4OFdicUJ0MXQzZWRFdzhhUGN4SEw1V3EtdTdEcDFxenFLZWR3WkFKOEloQUV3YThfX1VBR1Yxd1VwOExXMks3dlBHY2x2UDdoV3V3ZjhUTG5fdHhnQWw4NWx0NDlPdWtJTlJicUd0LU9EajNOTkMtaXB6djAweTVlNTVuM1hseQ?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Wer hat ein hohes Sarkopenierisiko? - Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
-
-2026-09-24 <span class="news-indication-tag">arthritis</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnRpLWE1czdMRVoxcEF5a0E0SzcyaExZV2hPVkN3YVdRTm84SVRacURUdTROVS12VGtoaDlLeTJCMWFnaXpzS2Jrb2VDMnlKQlplWnM4VTRTWnpIOFM2R3ltM2JJVVhkWElyOUtOdTdQUXJPeVlWVGNvZFNlMHdnTTQyX0IyR1lZdUFsRXIwdmh0bGtiNVAyM2Z3cFNYWE0zZG1BaEJzVkw5ZUdpVkE?oc=5)
 
 ---
 
