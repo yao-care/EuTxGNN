@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+2026-09-26 <span class="news-indication-tag">arthritis</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+---
 
 ### [Se confirma la eficacia de los inhibidores de JAK en la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
 
@@ -74,7 +82,7 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRl
 
 2026-09-19 <span class="news-indication-tag">soriasi</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBpR0ZUN2lYcmFHdUliU2FZemVHY2ZDbWpnak0xbGtsa2FXVTlvZ3poQ3FXclhZa1IxMjM5U1BvaWs2SVlHdE9tNEpobkpVR3p5SThaSVVzbW1Xd3N2U1Z2dkpJUUhCRXZPNVZUVzc2VV85enFlbF9VY2c4M0dxMFA4N0gtZHh5d1YxemFJNFVDdnNQdk53YTJWdFZrVVhBVmJmYTV3Y3N3NVZPT1NCY282VkpmbGVFNGZnX2hqVXkxRnpw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBpR0ZUN2lYcmFHdUliU2FZemVHY2ZDbWpnak0xbGtsa2FXVTlvZ3poQ3FXclhZa1IxMjM5U1BvaWs2SVlHdE9tNEpobkpVR3p5SThaSVVzbW1Xd3N2U1Z2dkpJUUhCRXZPNVZUVzc2VV85enFlbF9VY2c4M0dxMFA4N0gtZHh5d1YxemFJNFVDdnNQdk53YTJWdFZrVVhBVmJmYTV3Y3N3NVZPT1NCY282VkpmbGVFNGZnX2hqVXkxRnpw?oc=5)
 
 ---
 

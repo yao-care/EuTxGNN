@@ -3,7 +3,7 @@ layout: default
 title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 2 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 3 articles, 73 related drugs."
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>2 news articles</strong> and 73 related drugs.
+<strong>artritis (arthritis)</strong> currently has <strong>3 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -101,7 +101,15 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+2026-09-26
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+---
 
 ### [Se confirma la eficacia de los inhibidores de JAK en la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
 

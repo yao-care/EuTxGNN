@@ -56,7 +56,7 @@ This page combines the AI-predicted indications for Prasterone with the latest h
 
 ### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
-2026-09-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-09-26 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
@@ -66,7 +66,7 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5
 
 2026-09-25 <span class="news-indication-tag">diabete</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYT
 
 ### [Früherkennung: Warum bei Prädiabetes eine individuelle Prävention wichtig ist](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
 
-2026-09-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-09-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
 
@@ -106,7 +106,7 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuR
 
 2026-09-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [WAZ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
+Source: [waz.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
 ---
 

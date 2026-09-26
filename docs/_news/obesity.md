@@ -50,7 +50,7 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KV
 
 2026-09-24
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
 ---
 

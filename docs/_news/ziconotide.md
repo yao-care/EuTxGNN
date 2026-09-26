@@ -74,7 +74,7 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQckptZ01
 
 2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
+
+### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+2026-09-26 <span class="news-indication-tag">arthritis</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+---
 
 ### [Morbus Crohn: Immunspuren im Blut zeigen sich bis zu zehn Jahre vorher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnp4WEJTTHY5ZGF5Y0NKRGN1UUFOWWk5aHBvWGF4d2l0UjVrMFlURVlpNVNOVGxOdE9zU2pteFYwRWVXazBrMmtpMmZ2UXFVbzR1YlJGODZ6S1p3VnRTOW9Gc0JNTTB3NXB6QTZQTXRESmJwY2hXX05jOEVqLVd2TjNud1h6SnhlS2Z2VXVmX2Z4VXJKRWR3YTJpVXNTN0Y5SUt4RjB4OS16b0NFeGJ5VXpVZUhiMFplRkE?oc=5)
 
@@ -78,27 +86,11 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0
 
 ---
 
-### [Mix di vitamina C e arginina riduce la stanchezza cronica](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
-
-2026-09-24 <span class="news-indication-tag">BPCO</span>
-
-Source: [ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
-
----
-
 ### [Oft Verdauungsprobleme? Wann gesunde Lebensmittel Entzündungen fördern könnten](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 Source: [T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
-
----
-
-### [Guselkumab könnte extraintestinale Manifestationen bei Morbus Crohn lindern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHJhLWJfdHJPMm95RG5MTXpZN2NWQUxUMEY4d180QU9pLWNQdlBoWThpaWVsOUJ4dnFTM2dzZ0NqMVY1M1p0SjJpQlFZbVlUeVlCenc5ZFdzenNvWENQYndNRHdmTE5TWGpId2F6bXIxc05Gdm1EQzI0Rm45Z1JkdjNPWW0wWS1YWnREd0xWN2tUVmEyOXAzV2QwejBBbkpjRklGME1CRjloT2I4eV9iM09wRlJtVXZ2dWpkTFEzQnNkcGJTVHZJNUI1OENxanVFRFBpMlB6bFNMM1d0?oc=5)
-
-2026-09-23 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">Morbus Crohn</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHJhLWJfdHJPMm95RG5MTXpZN2NWQUxUMEY4d180QU9pLWNQdlBoWThpaWVsOUJ4dnFTM2dzZ0NqMVY1M1p0SjJpQlFZbVlUeVlCenc5ZFdzenNvWENQYndNRHdmTE5TWGpId2F6bXIxc05Gdm1EQzI0Rm45Z1JkdjNPWW0wWS1YWnREd0xWN2tUVmEyOXAzV2QwejBBbkpjRklGME1CRjloT2I4eV9iM09wRlJtVXZ2dWpkTFEzQnNkcGJTVHZJNUI1OENxanVFRFBpMlB6bFNMM1d0?oc=5)
 
 ---
 

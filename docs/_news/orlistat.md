@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (14)
 
+### [Herz in Gefahr: Wie chronischer Stress den Körper unbemerkt schädigt - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU01HanNCeS1Wdm9JcWR4ZU5LY3pvekNkQmRfYjViMkJwVGtuYUM4NnlkbFRUMWdYeWd1ZjByT0hzQjRHYVhaWkV5YTBJNXRhVmY5VE40SlBiUGNCME9uSk1aUk5YQXVIV0IwdFdEYWF3N2ozN3pMNXEtQVJLTW16Wmh6WkRhZWptdldaZVdQLW9Pc0VYY1FXdDA0bXNnaUJDaFdyRHJaM2xSdUw4eUdQRHZzOHNUQS1NV1lMYmtLeWJIN3VtaFZSXzllN2c1UQ?oc=5)
+
+2026-09-26 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU01HanNCeS1Wdm9JcWR4ZU5LY3pvekNkQmRfYjViMkJwVGtuYUM4NnlkbFRUMWdYeWd1ZjByT0hzQjRHYVhaWkV5YTBJNXRhVmY5VE40SlBiUGNCME9uSk1aUk5YQXVIV0IwdFdEYWF3N2ozN3pMNXEtQVJLTW16Wmh6WkRhZWptdldaZVdQLW9Pc0VYY1FXdDA0bXNnaUJDaFdyRHJaM2xSdUw4eUdQRHZzOHNUQS1NV1lMYmtLeWJIN3VtaFZSXzllN2c1UQ?oc=5)
+
+---
+
 ### [Las tasas de accidente vascular cerebral casi se duplican en adultos jóvenes](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclQzWWZfdUtlR0U5eHZiYjZ4dnJxNU9mbVFuaXNxREtMR2JYNC1LeVdFY25wUldKMkhxZzdjdkRJTFdRTkNXZ2FkbW1JX2pDNFNBOWNPOEhrODVFZVI0ZWVkWlZKbUlJZGFwbE9CeFBUYnNPREFFcm9GZlI2bFRwMWFuYUVIRmNGU2x6dUdFc2hNdGRPYmJWVjR3WC1GaEdOVGJPejctMlJqQjkyM0xVS3E3YXR3YTVPZUHSAdQBQVVfeXFMUExpN0liam00WjNqMk45cVJ3dW93V2RTYm5uUHFiTUZnblQ3OFY0U3BkN181ZURBOXBLQUZVcDZKWXBhTWVRUS05V1hxV21jNHo1a0c0WkRKSVdQNVZmRk15aXpjSlhCcWg5N1dveGJuS3IyUXdNdXN1TEZwamNwaVNEQkZIVXdNWFdLNGJYV0puN0x4eFRQTEZvd1ZvRHZ4bnFBNXA4bUQxR3BKcVFyT2EtanJiVHpOOXVid3RkRzM0d1NyRktFQjVjOU5aSXlVNUtJZE4?oc=5)
 
 2026-09-26 <span class="news-indication-tag">ictus</span>
@@ -78,14 +86,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KV
 
 ---
 
-### [Chronischer Stress, GlycA und Herzrisiko: Was Daten wirklich zeigen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOMGUxM3dNeGZ4U01yRUZ2SmVHdlR2eENxOEhMcjhQWmVRbFZMZGV6MVYxeXVOWWRhRlNaX1J1VFVGRUNrejJINUZfNWNnS0FDLUJyajJxZVJFZ0Y2NjlQeU9lVVEwdzZpZ1Y5MGVnZVZmZTVzWnAwdGM2amZxRUg4ZGdVQXdOTEtUQy1YX2ktSFNZVUhBbUoyZ2RmMmdSdw?oc=5)
-
-2026-09-25 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOMGUxM3dNeGZ4U01yRUZ2SmVHdlR2eENxOEhMcjhQWmVRbFZMZGV6MVYxeXVOWWRhRlNaX1J1VFVGRUNrejJINUZfNWNnS0FDLUJyajJxZVJFZ0Y2NjlQeU9lVVEwdzZpZ1Y5MGVnZVZmZTVzWnAwdGM2amZxRUg4ZGdVQXdOTEtUQy1YX2ktSFNZVUhBbUoyZ2RmMmdSdw?oc=5)
-
----
-
 ### [„Der durch eine krebsassoziierte Koagulopathie ausgelöste Schlaganfall ist eine eigenständige Entität“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
 2026-09-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -98,15 +98,15 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 
 2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
 ---
 
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+### [Family launches fundraiser after man suffers catastrophic stroke after surgery](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
+Source: [newsandstar.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 ---
 
@@ -136,7 +136,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 
 ### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
-2026-09-21 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 

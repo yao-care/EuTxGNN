@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (8)
 
 ### [Memorial for pupils given contaminated blood at Treloar's](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4LXl1ZW9VeDdOcnNCMURpZEZ0RFRiUjl4TURnRmxNRUluNzB0VkhURThDUFRzVXBxbU1QX0p5REZqeVcwOG5TaHpYS0tOMU1YNlRWRmtqNDNvVlAyUEE?oc=5)
 
@@ -86,11 +86,35 @@ Source: [STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2V1NUNR
 
 ---
 
+### [Rhön-Grabfeld: Viele Menschen leiden unter Bluthochdruck und Rückenschmerzen](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWo5bUZWckJteUt2ZHE3X1FHRW5LQWVoQmhQXzZ6X1BPdDFDQzBXb0JkbkNMU3V1Mll1SHM5WGFYWUNaTHhGcTRYS3JraW9fbmxVRVk4dWFVTndXb2Ytdi1tYmJNNXdtUFhaQUhWd1pmSmZhbUtJbm1JYjZJRUJwRGpPQ0t5NVdXbXc3T2FJMmNzZWFIdDZ1RlpadXhNd3ZGbnFXLTQ0SFVUVnMwVnBLaHgxMGw?oc=5)
+
+2026-09-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Mainfranken24.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWo5bUZWckJteUt2ZHE3X1FHRW5LQWVoQmhQXzZ6X1BPdDFDQzBXb0JkbkNMU3V1Mll1SHM5WGFYWUNaTHhGcTRYS3JraW9fbmxVRVk4dWFVTndXb2Ytdi1tYmJNNXdtUFhaQUhWd1pmSmZhbUtJbm1JYjZJRUJwRGpPQ0t5NVdXbXc3T2FJMmNzZWFIdDZ1RlpadXhNd3ZGbnFXLTQ0SFVUVnMwVnBLaHgxMGw?oc=5)
+
+---
+
 ### [Konservierungsstoffe: Studie findet Zusammenhang mit Bluthochdruck](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2YwY0tzT1JVS2U0b2ZYblJ1NDByRHNwWnN1cmppZkVWd3lJMzRHLVpWVTJKd3FYcEFFbExCeFpERTJONGRjWHdOdlBVNC1QVE1yQVFoQXZSN0NrQXF6djNHakhMbTIzZ0NWMWJhWDQ4UzFpcGs4MEI1LTk1LWQtWHVEZi1fSWhNOWg4Q1dlcVRyLUltUzRqa01pZXpuS1Nz?oc=5)
 
 2026-09-25 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2YwY0tzT1JVS2U0b2ZYblJ1NDByRHNwWnN1cmppZkVWd3lJMzRHLVpWVTJKd3FYcEFFbExCeFpERTJONGRjWHdOdlBVNC1QVE1yQVFoQXZSN0NrQXF6djNHakhMbTIzZ0NWMWJhWDQ4UzFpcGs4MEI1LTk1LWQtWHVEZi1fSWhNOWg4Q1dlcVRyLUltUzRqa01pZXpuS1Nz?oc=5)
+
+---
+
+### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
+
+2026-09-24 <span class="news-indication-tag">hypertension</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
+
+---
+
+### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">ipertensione</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
 
 ---
 

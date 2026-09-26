@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (9)
+
+### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+2026-09-26 <span class="news-indication-tag">arthritis</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+---
 
 ### [High blood pressure? Listen to Mozart or Bach - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
 
@@ -70,6 +78,14 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwF
 
 ---
 
+### [Rhön-Grabfeld: Viele Menschen leiden unter Bluthochdruck und Rückenschmerzen](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWo5bUZWckJteUt2ZHE3X1FHRW5LQWVoQmhQXzZ6X1BPdDFDQzBXb0JkbkNMU3V1Mll1SHM5WGFYWUNaTHhGcTRYS3JraW9fbmxVRVk4dWFVTndXb2Ytdi1tYmJNNXdtUFhaQUhWd1pmSmZhbUtJbm1JYjZJRUJwRGpPQ0t5NVdXbXc3T2FJMmNzZWFIdDZ1RlpadXhNd3ZGbnFXLTQ0SFVUVnMwVnBLaHgxMGw?oc=5)
+
+2026-09-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Mainfranken24.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWo5bUZWckJteUt2ZHE3X1FHRW5LQWVoQmhQXzZ6X1BPdDFDQzBXb0JkbkNMU3V1Mll1SHM5WGFYWUNaTHhGcTRYS3JraW9fbmxVRVk4dWFVTndXb2Ytdi1tYmJNNXdtUFhaQUhWd1pmSmZhbUtJbm1JYjZJRUJwRGpPQ0t5NVdXbXc3T2FJMmNzZWFIdDZ1RlpadXhNd3ZGbnFXLTQ0SFVUVnMwVnBLaHgxMGw?oc=5)
+
+---
+
 ### [Se confirma la eficacia de los inhibidores de JAK en la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0RocnZxa2ZNT3E0Y3BiMGE3bGZlcUprbElCaE04cUxLOUJGRnZLNHIwUzU3QVBGTG5rNWVKaFZpcUhydmhyTTVXUVhkTW0zZ2VOeFhfalh3cXBSaDVMVkhWVnFQNkNvMWlVTmdMb0RwNElKbTk2dVFsc3p1VGY2czZLNXBBSGh2TGxVZ1dCd2hrR2NkcWt4ZWpiRWNHSEtkajc1VjgyNUstVm5kYm1NbXdpU3gxQlc2Nzh0Vm9LVW_SAb4BQVVfeXFMTjZaQ3lWMHowaUY1a0pIZ0M0RVB4dnh5MUZlVW1odWhvdjhiUUVBbERlWmpJMjV2ZUYzZGRKdTBPYUJyMHpBeU0waUJVWGhTclE5T0hjaHNGb01RVThwZWtRWTNvVlRzb19TS2s5ckdpck4zXzNYOVdzVW4tQWhSc0g0bWZFdkozUjhpRGNZbjVfak5rUW5BbmlyVXJ5ZVNhNEtZUlpaRGdQM210VnZmXzI4MDQ4eGFoLUhHQmN5Zw?oc=5)
 
 2026-09-25 <span class="news-indication-tag">artritis</span>
@@ -83,6 +99,22 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0
 2026-09-25 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2YwY0tzT1JVS2U0b2ZYblJ1NDByRHNwWnN1cmppZkVWd3lJMzRHLVpWVTJKd3FYcEFFbExCeFpERTJONGRjWHdOdlBVNC1QVE1yQVFoQXZSN0NrQXF6djNHakhMbTIzZ0NWMWJhWDQ4UzFpcGs4MEI1LTk1LWQtWHVEZi1fSWhNOWg4Q1dlcVRyLUltUzRqa01pZXpuS1Nz?oc=5)
+
+---
+
+### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
+
+2026-09-24 <span class="news-indication-tag">hypertension</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
+
+---
+
+### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">ipertensione</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
 
 ### [Sales of £460 shingles jab double after claims it wards off dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
 
 2026-09-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
+
+---
+
+### [Researchers Are Saying This 1 Common Activity Is Probably Helping To Lower Your Dementia Risk](https://news.google.com/rss/articles/CBMidEFVX3lxTE40UmNPc3ZQNzJ5SlNPWkJ4dWY2MmxUY18ySXRwTFdYcDZhbVdicWtXWGtrLURfWmcwbXZER3FISlNpSlFNVDJhM09TWV9PdjdTLV9DazZPMWtWcktmaU5rS1ZtUFFzeDl2VGxvU0IwUnRUbzlT?oc=5)
+
+2026-09-26 <span class="news-indication-tag">dementia</span>
+
+Source: [BuzzFeed](https://news.google.com/rss/articles/CBMidEFVX3lxTE40UmNPc3ZQNzJ5SlNPWkJ4dWY2MmxUY18ySXRwTFdYcDZhbVdicWtXWGtrLURfWmcwbXZER3FISlNpSlFNVDJhM09TWV9PdjdTLV9DazZPMWtWcktmaU5rS1ZtUFFzeDl2VGxvU0IwUnRUbzlT?oc=5)
+
+---
+
+### [meprin-β en alzhéimer: aumento detectado - Diario Occidente](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUt3OVVQbDB0a3E5b0JfZXlXOGIwYW8xUG05ZXZielhaR3RwRDFXbS1GRXp1ZHhKX3dNb3pkbnhHdnd0YnhNb1JiWXhnM25ZSmo2QnNjdXJXdVVHNzA5MTJ4OURpRUw0Z29KbVBzUGUteTF6OEdzZ1N5aEtaTFdNOUZFY9IBjgFBVV95cUxQd2JBYXNfODBIVjYzMFNYT3M4WjcxNDhtemNZWi1jVGdtOF9OejlVTjdWeUpta2YxajRJdHcxVXp5b3lXamFLRUZuek1NSlZ1ME8xS244VVh4SDNEWm9rY1BYUDJRemViZ0w0ZHJJQk5BdDZUSlc1Ty1TSmZMTUJvS1dJRjByMXE0ek92YURn?oc=5)
+
+2026-09-24 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+Source: [Diario Occidente](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUt3OVVQbDB0a3E5b0JfZXlXOGIwYW8xUG05ZXZielhaR3RwRDFXbS1GRXp1ZHhKX3dNb3pkbnhHdnd0YnhNb1JiWXhnM25ZSmo2QnNjdXJXdVVHNzA5MTJ4OURpRUw0Z29KbVBzUGUteTF6OEdzZ1N5aEtaTFdNOUZFY9IBjgFBVV95cUxQd2JBYXNfODBIVjYzMFNYT3M4WjcxNDhtemNZWi1jVGdtOF9OejlVTjdWeUpta2YxajRJdHcxVXp5b3lXamFLRUZuek1NSlZ1ME8xS244VVh4SDNEWm9rY1BYUDJRemViZ0w0ZHJJQk5BdDZUSlc1Ty1TSmZMTUJvS1dJRjByMXE0ek92YURn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Vedolizumab?">
-<strong>Vedolizumab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Vedolizumab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ This page combines the AI-predicted indications for Vedolizumab with the latest 
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
 ### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
-2026-09-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-09-26 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
@@ -66,7 +66,7 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5
 
 2026-09-25 <span class="news-indication-tag">diabete</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYT
 
 ### [Früherkennung: Warum bei Prädiabetes eine individuelle Prävention wichtig ist](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
 
-2026-09-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-09-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
 
@@ -110,19 +110,11 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUF0WFg
 
 ---
 
-### [Mix di vitamina C e arginina riduce la stanchezza cronica](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
-
-2026-09-24 <span class="news-indication-tag">BPCO</span>
-
-Source: [ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
-
----
-
 ### [Diabetes bei Schwangeren nimmt zu: Was das fürs Baby bedeutet](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [WAZ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
+Source: [waz.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
 ---
 
