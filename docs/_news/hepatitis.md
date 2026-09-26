@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hepatitis. 1 articles, 25 related drugs."
+description: "Health news about hepatitis. 2 articles, 25 related drugs."
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="What news is there about hepatitis?">
-<strong>hepatitis</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
+<strong>hepatitis</strong> currently has <strong>2 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ This page brings together the latest health news about “hepatitis” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Memorial for pupils given contaminated blood at Treloar's](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4LXl1ZW9VeDdOcnNCMURpZEZ0RFRiUjl4TURnRmxNRUluNzB0VkhURThDUFRzVXBxbU1QX0p5REZqeVcwOG5TaHpYS0tOMU1YNlRWRmtqNDNvVlAyUEE?oc=5)
+
+2026-09-26
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4LXl1ZW9VeDdOcnNCMURpZEZ0RFRiUjl4TURnRmxNRUluNzB0VkhURThDUFRzVXBxbU1QX0p5REZqeVcwOG5TaHpYS0tOMU1YNlRWRmtqNDNvVlAyUEE?oc=5)
+
+---
 
 ### [Vaccinations offered after Hepatitis A outbreak linked to primary school - STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2V1NUNRbURFdmtMZi1YcmpIWFZ3bDZwamR3SGx6YWNibVBaZjYxVno1R0p3NVRGYTZuVjlvSGFVOG9xOWpUTF9UclBqZzBZbUw4Z0FmemRybFozeFprOEhDVUpGZmp0MjctcGU5VGF1N1UtVnZacXNaR0ZPY0x4dzVaNU5yeThiaGJtWTRLWFU0WFlaTlkteGVRY2pqdkp1VVJMRkZFaDJ5S0E?oc=5)
 

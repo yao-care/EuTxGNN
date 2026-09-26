@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="What news is there about Somapacitan?">
-<strong>Somapacitan</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Somapacitan</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <li>bronchitis (88.5%)</li>
 <li>exostosis (87.7%)</li>
 <li>hemoglobinuria (87.6%)</li>
-<li class="indication-matched">asthma (86.3%)<span class="indication-tag">📰 asma</span></li>
+<li>asthma (86.3%)</li>
 <li>tendinitis (85.7%)</li>
 <li>migraine with brainstem aura (85.3%)</li>
 <li>idiopathic granulomatous myositis (84.8%)</li>
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
-### [Toxoplasma baut Zucker der Wirtszelle um, bevor der Parasit eindringt - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJ1czZMeGU1MFd5WkNIUHBQVnBROVczMzFFOENxbk9uVGVwRXloU0xuU1VaMkFkdk5PeHhsdVBqaWpLc3NkRVUtc1V6aU1WNThuSkhnNDRqSDdQUVI1Y3hRUUNlc2NpLUpGTnNCTVNLQVpHQUZiS1NNR3IyelNWVmVrUXBzeVd0MlZSQ2VJRzJvLWs5MVNwdHZlV0kwbmpIaWdkT05sTjZ6cU80MmZCTVp2X184MGRRRnR6RkZDNHNKbzVuWkdGVkpjdzlLYWd4?oc=5)
+### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
-2026-09-26 <span class="news-indication-tag">asma</span>
+2026-09-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJ1czZMeGU1MFd5WkNIUHBQVnBROVczMzFFOENxbk9uVGVwRXloU0xuU1VaMkFkdk5PeHhsdVBqaWpLc3NkRVUtc1V6aU1WNThuSkhnNDRqSDdQUVI1Y3hRUUNlc2NpLUpGTnNCTVNLQVpHQUZiS1NNR3IyelNWVmVrUXBzeVd0MlZSQ2VJRzJvLWs5MVNwdHZlV0kwbmpIaWdkT05sTjZ6cU80MmZCTVp2X184MGRRRnR6RkZDNHNKbzVuWkdGVkpjdzlLYWd4?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMi0AFBVV95
 
 2026-09-25 <span class="news-indication-tag">diabete</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
 
 ---
 
@@ -82,7 +82,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV9
 
 2026-09-25 <span class="news-indication-tag">diabetes</span>
 
-Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
 
 ---
 
@@ -91,6 +91,14 @@ Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxP
 2026-09-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRKYU8ySHpTd3FzUEVJdGxtNEFHdVJDVk44eWhib1Zsc0JHSkVtWk1DamJIU1NmSndHZ3VLQ2FiNHNsTm5WaXUzWndIb3ZXZkVFeUNDUTdFeC1IMkNrZnpNbHNPNHR2eFB2c2paakZ2NkQ0UGc4cllNeEFHeGg5YnBIYnkwdGJMdUIybTZGOXFZbXJJTEtLd21R?oc=5)
+
+---
+
+### [Diabetesrisiko: UCL-Modelle sagen Erkrankungen bis zu 15 Jahre voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
+
+2026-09-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
 
 ---
 

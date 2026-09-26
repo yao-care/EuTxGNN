@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lecanemab?">
-<strong>Lecanemab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Lecanemab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+
+2026-09-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+
+---
 
 ### [Cortisone, anche se assunto solo per pochi giorni, fa correre rischi a chi ha il diabete](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
 
 2026-09-25 <span class="news-indication-tag">diabete</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
 
 ---
 
@@ -82,7 +90,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV9
 
 2026-09-25 <span class="news-indication-tag">diabetes</span>
 
-Source: [heilpraxisnet.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
 
 ---
 
@@ -94,19 +102,19 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRK
 
 ---
 
+### [Diabetesrisiko: UCL-Modelle sagen Erkrankungen bis zu 15 Jahre voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
+
+2026-09-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
+
+---
+
 ### [Alzheimer-Therapie: 34 Blutmarker verändern sich unter Lecanemab deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
 
 2026-09-25 <span class="news-drug-tag">Lecanemab</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
-
----
-
-### [Kampf gegen Demenz: Diese 4 Medikamente machen Forschern jetzt Hoffnung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTThjdVpWTzVqanJ4cXRlTVVzeVhneGRnOVlZQ2tYYlpJdmM5WmdXT2xmX3h0SVV6clZQUzBGUTJfVE5IMHZPWWswS1NFRFFIWjJBcms2ZFVEOVpCNDRuNDkzcjh3S2s3a3QtemVKMmFLZ2ZFejBQVTlRV3pBSmIyem80eWx2dHA1STFEWFd2Zmk5ZHBHZmNNYzhPVUpGdFlIOHZ3Ny0wYXJmTmF0THVSM0diOHJ0eWw5OGg1UlNacXFRZ0t1MHFKdEFNY0hRQTQ?oc=5)
-
-2026-09-24 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTThjdVpWTzVqanJ4cXRlTVVzeVhneGRnOVlZQ2tYYlpJdmM5WmdXT2xmX3h0SVV6clZQUzBGUTJfVE5IMHZPWWswS1NFRFFIWjJBcms2ZFVEOVpCNDRuNDkzcjh3S2s3a3QtemVKMmFLZ2ZFejBQVTlRV3pBSmIyem80eWx2dHA1STFEWFd2Zmk5ZHBHZmNNYzhPVUpGdFlIOHZ3Ny0wYXJmTmF0THVSM0diOHJ0eWw5OGg1UlNacXFRZ0t1MHFKdEFNY0hRQTQ?oc=5)
 
 ---
 
