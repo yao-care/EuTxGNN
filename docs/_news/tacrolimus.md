@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <li>acrodermatitis chronica atrophicans (98.7%)</li>
 <li>rheumatoid arthritis (98.7%)</li>
 <li>acne keloid (98.7%)</li>
-<li class="indication-matched">psoriasis (98.7%)<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis (98.7%)</li>
 <li>neonatal dermatomyositis (98.6%)</li>
 <li>exanthem (disease) (98.6%)</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (98.6%)</li>
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Psoriasis: Hospital de Toledo recibe calificación Excelente](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbUZjbHlJNFVEblpYY04zY0VIa2VfY0NjQWpYU3E4bmN5OFBCdkQzOERUb3N2andlZXc0Rkp1cXBLQjQxeHZHbnFYX254TmNsYWZmamo4SF9VUll5VEhUQzFpaGx0VHhvellNOUFwZ0NHMnlJX1l4VzNCVFR2a1Q5YTJTd052aHFrQmNPYzc5d01uUktOSE82X0ZwTHhaVXp2ckpuNTFtQnkyYnZkY1RvR3pmTEJkQXUtRXVhY0hWYUdjNVBBNEdqWTdjY2N4WXV4blZ1dlhJYjRqWjZSZEVfRmpBNktweC1GUTd4UVdrajdRVmk1eWc?oc=5)
-
-2026-09-27 <span class="news-indication-tag">psoriasis</span>
-
-Source: [Albaceteabierto](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbUZjbHlJNFVEblpYY04zY0VIa2VfY0NjQWpYU3E4bmN5OFBCdkQzOERUb3N2andlZXc0Rkp1cXBLQjQxeHZHbnFYX254TmNsYWZmamo4SF9VUll5VEhUQzFpaGx0VHhvellNOUFwZ0NHMnlJX1l4VzNCVFR2a1Q5YTJTd052aHFrQmNPYzc5d01uUktOSE82X0ZwTHhaVXp2ckpuNTFtQnkyYnZkY1RvR3pmTEJkQXUtRXVhY0hWYUdjNVBBNEdqWTdjY2N4WXV4blZ1dlhJYjRqWjZSZEVfRmpBNktweC1GUTd4UVdrajdRVmk1eWc?oc=5)
-
----
+## Related News (3)
 
 ### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
 

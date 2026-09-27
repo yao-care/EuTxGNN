@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
 
@@ -75,6 +75,14 @@ Source: [Diario de Navarra](https://news.google.com/rss/articles/CBMi3AFBVV95cUx
 2026-09-25 <span class="news-indication-tag">arthritis</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
+
+---
+
+### [GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
+
+2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
 ---
 

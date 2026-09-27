@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 2 articles, 7 related drugs."
+description: "Health news about depresión (depression). 3 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Meno merendine e cibi ultraprocessati, umore migliore: cosa c'è di vero sul legame tra dieta e depressione?](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdldvU1BjRDRqNDFfeWVZenVCQlk2TU5oNUtCRjM5VlNHbjZpTUJWaVJ3RHNlbzVuZlltUXk1UllnM2M1ZHVKb2xVWXdSYmVrRHlHQzJpT3oyeWFWaExsd1g2UlBYNlhMS2NORXBOaXRaV0llWFRmeXRBbGpWRVNFTGVidUc5Q0p6aHEzSUZZY2ZJVjBKcmlWdW1PQlZCeWN2LXBLcVZWRUhyUUp4cUZGclpPQmxyeWxBcnpLMlR2Wm1pY2VxLVNKRl84S29qSm9zSjRnM2dmbG9iNkl4c05wQWFnd2RIOV9Ja19nbFlQcVktOGZWZFBJ?oc=5)
+### [Blog | Alimenti ultra processati: cosa c'è dietro chi sostiene la personalizzazione? - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVdoSzZBTm5Fbzl3SFJERUx6VmZUbTV2ZzIxUDJpaVFsRnFaTTlkQnVFVDJPdXcxRWhvUVRXampqaXppMklJSzVBVzJ6WndjM0FKdUV5QTVGX2kxdGpueWNLbmZOZDJxaDNYaUpuWmppWHd2LVNjRnJ6bVk0Rm9oazlPam5POGc4Z3lhRTZ4RzdMcGNqSE56NVl2VWFYdHFlSktRcEEycFlQWHZCak52Qg?oc=5)
 
-2026-09-26
+2026-09-27
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdldvU1BjRDRqNDFfeWVZenVCQlk2TU5oNUtCRjM5VlNHbjZpTUJWaVJ3RHNlbzVuZlltUXk1UllnM2M1ZHVKb2xVWXdSYmVrRHlHQzJpT3oyeWFWaExsd1g2UlBYNlhMS2NORXBOaXRaV0llWFRmeXRBbGpWRVNFTGVidUc5Q0p6aHEzSUZZY2ZJVjBKcmlWdW1PQlZCeWN2LXBLcVZWRUhyUUp4cUZGclpPQmxyeWxBcnpLMlR2Wm1pY2VxLVNKRl84S29qSm9zSjRnM2dmbG9iNkl4c05wQWFnd2RIOV9Ja19nbFlQcVktOGZWZFBJ?oc=5)
+Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVdoSzZBTm5Fbzl3SFJERUx6VmZUbTV2ZzIxUDJpaVFsRnFaTTlkQnVFVDJPdXcxRWhvUVRXampqaXppMklJSzVBVzJ6WndjM0FKdUV5QTVGX2kxdGpueWNLbmZOZDJxaDNYaUpuWmppWHd2LVNjRnJ6bVk0Rm9oazlPam5POGc4Z3lhRTZ4RzdMcGNqSE56NVl2VWFYdHFlSktRcEEycFlQWHZCak52Qg?oc=5)
+
+---
+
+### [I’m a psychiatrist. This is the terrifying reality of postpartum psychosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
+
+2026-09-27
+
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
 
 ---
 

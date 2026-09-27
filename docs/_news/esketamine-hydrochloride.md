@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Esketamine Hydrochloride?">
-<strong>Esketamine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Esketamine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Esketamine Hydrochloride wit
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Meno merendine e cibi ultraprocessati, umore migliore: cosa c'è di vero sul legame tra dieta e depressione?](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdldvU1BjRDRqNDFfeWVZenVCQlk2TU5oNUtCRjM5VlNHbjZpTUJWaVJ3RHNlbzVuZlltUXk1UllnM2M1ZHVKb2xVWXdSYmVrRHlHQzJpT3oyeWFWaExsd1g2UlBYNlhMS2NORXBOaXRaV0llWFRmeXRBbGpWRVNFTGVidUc5Q0p6aHEzSUZZY2ZJVjBKcmlWdW1PQlZCeWN2LXBLcVZWRUhyUUp4cUZGclpPQmxyeWxBcnpLMlR2Wm1pY2VxLVNKRl84S29qSm9zSjRnM2dmbG9iNkl4c05wQWFnd2RIOV9Ja19nbFlQcVktOGZWZFBJ?oc=5)
+### [Blog | Alimenti ultra processati: cosa c'è dietro chi sostiene la personalizzazione? - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVdoSzZBTm5Fbzl3SFJERUx6VmZUbTV2ZzIxUDJpaVFsRnFaTTlkQnVFVDJPdXcxRWhvUVRXampqaXppMklJSzVBVzJ6WndjM0FKdUV5QTVGX2kxdGpueWNLbmZOZDJxaDNYaUpuWmppWHd2LVNjRnJ6bVk0Rm9oazlPam5POGc4Z3lhRTZ4RzdMcGNqSE56NVl2VWFYdHFlSktRcEEycFlQWHZCak52Qg?oc=5)
 
-2026-09-26 <span class="news-indication-tag">depression</span>
+2026-09-27 <span class="news-indication-tag">depression</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdldvU1BjRDRqNDFfeWVZenVCQlk2TU5oNUtCRjM5VlNHbjZpTUJWaVJ3RHNlbzVuZlltUXk1UllnM2M1ZHVKb2xVWXdSYmVrRHlHQzJpT3oyeWFWaExsd1g2UlBYNlhMS2NORXBOaXRaV0llWFRmeXRBbGpWRVNFTGVidUc5Q0p6aHEzSUZZY2ZJVjBKcmlWdW1PQlZCeWN2LXBLcVZWRUhyUUp4cUZGclpPQmxyeWxBcnpLMlR2Wm1pY2VxLVNKRl84S29qSm9zSjRnM2dmbG9iNkl4c05wQWFnd2RIOV9Ja19nbFlQcVktOGZWZFBJ?oc=5)
+Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVdoSzZBTm5Fbzl3SFJERUx6VmZUbTV2ZzIxUDJpaVFsRnFaTTlkQnVFVDJPdXcxRWhvUVRXampqaXppMklJSzVBVzJ6WndjM0FKdUV5QTVGX2kxdGpueWNLbmZOZDJxaDNYaUpuWmppWHd2LVNjRnJ6bVk0Rm9oazlPam5POGc4Z3lhRTZ4RzdMcGNqSE56NVl2VWFYdHFlSktRcEEycFlQWHZCak52Qg?oc=5)
+
+---
+
+### [I’m a psychiatrist. This is the terrifying reality of postpartum psychosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
+
+2026-09-27 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
 
 ---
 

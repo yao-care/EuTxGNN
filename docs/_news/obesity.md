@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 5 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 6 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# obesidad (obesity) News
+# obesità (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesità (obesity)?">
+<strong>obesità (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesità” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+
+2026-09-27
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+
+---
 
 ### [El estrés, ¿otra causa de la obesidad?: "Nos preguntamos si realmente se trata solo de la comida o si hay algo más"](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjdNbTRnT3U4aUJRNHJ1eklfTFhkV3Q3VTNHWnpFMDF1WEZHakM4dG5CTXVkY1JnM0YtbldSVW5nX3ROSVJTRzZrNmwya0JkbllNNGRTSm9ZS3NEbEZxTjhTR1hOVHRJSF9aQ0pZaVh6aEtyUG5Rb3dELUx4bG5JdkY1akVlY05vQ0kwR0EzRXgwa0o2cS14dHMyZEZYSFpqYXU1WnoxWERMREY1OFJRMk1OOGpfZFRldW1ndlZWOTlFMkdXZW9MdDR2YWJKdmhyc2tNdVpkS3hGVHN1?oc=5)
 
@@ -66,15 +74,15 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dl
 
 2026-09-23
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
+Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
 
 ---
 
-### [Farmaci, anti-obesità semaglutide al centro della nuova protezione cardio-renale - Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
-2026-09-21
+2026-09-22
 
-Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
 ---
 

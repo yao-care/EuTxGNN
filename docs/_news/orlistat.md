@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (13)
 
+### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+
+2026-09-27 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+
+---
+
 ### [El estrés, ¿otra causa de la obesidad?: "Nos preguntamos si realmente se trata solo de la comida o si hay algo más"](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjdNbTRnT3U4aUJRNHJ1eklfTFhkV3Q3VTNHWnpFMDF1WEZHakM4dG5CTXVkY1JnM0YtbldSVW5nX3ROSVJTRzZrNmwya0JkbllNNGRTSm9ZS3NEbEZxTjhTR1hOVHRJSF9aQ0pZaVh6aEtyUG5Rb3dELUx4bG5JdkY1akVlY05vQ0kwR0EzRXgwa0o2cS14dHMyZEZYSFpqYXU1WnoxWERMREY1OFJRMk1OOGpfZFRldW1ndlZWOTlFMkdXZW9MdDR2YWJKdmhyc2tNdVpkS3hGVHN1?oc=5)
 
 2026-09-27 <span class="news-indication-tag">obesidad</span>
@@ -106,23 +114,15 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KV
 
 2026-09-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
 ---
 
 ### [GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
 
-2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
-
----
-
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
-
-2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
 
 ---
 
@@ -130,7 +130,7 @@ Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPM
 
 2026-09-23 <span class="news-indication-tag">obesidad</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
+Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
 
 ---
 
@@ -142,19 +142,19 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 
 ---
 
+### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Adipositas</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
+
+---
+
 ### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
-
----
-
-### [Farmaci, anti-obesità semaglutide al centro della nuova protezione cardio-renale - Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
-
-2026-09-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3RNYzNwMExMZjlYcTFBR2hWdExkRUh2bldUY2N5VVNhTjlVdnk5MlpjSWVja1lsbnp0cjhIcWFYWDZZcV95U0p0RG80dlNBZmhZZXJSdExoV0daTTNSdk9oeC1SVllDbjU2ampGNkJLTHlyU3paOVZ4NXRwV3pJUkVoaWhQUHdQenA2Q2lJWWMwUHZfOFNhRzQxdE9mRWxDRGZ1MEhjbU5QbW85SG9NT21hdkJVMEw0dFZrQWFSLXo3M1JmVk9wUUFTYkQ3UC00MEZlS0Q1ckZEVHVsYmRfeTBGcDFJdw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 5 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 4 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>5 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>4 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### ['I was angry at my husband - I didn't know he had dementia'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
 
 2026-09-27
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
-
----
-
-### [Alzhéimer y salud bucodental: los problemas que pueden aparecer y cómo prevenirlos - 65 y más](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWpZajVXSmUxTnhlNC1RYVJUTlZUWGg1d1cxei1PTG4xSmJDY2hESzRMSFNUdEN2bmY4VlF4Mi03TThhUXZ5YnYwUXZkR3JpM0pZcGpPMExFNnduNnZ6dENiNjUtLS1RQmt0bFc5aWtUaEk2QWpXSk10X185RjNWVnhIeFNHZk1Gd1plV2RUN2hDWVVTZHh6aW9nanBqa3lzWlVMTkU4R1o5R210cVloaUZrSQ?oc=5)
-
-2026-09-27
-
-Source: [65 y más](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWpZajVXSmUxTnhlNC1RYVJUTlZUWGg1d1cxei1PTG4xSmJDY2hESzRMSFNUdEN2bmY4VlF4Mi03TThhUXZ5YnYwUXZkR3JpM0pZcGpPMExFNnduNnZ6dENiNjUtLS1RQmt0bFc5aWtUaEk2QWpXSk10X185RjNWVnhIeFNHZk1Gd1plV2RUN2hDWVVTZHh6aW9nanBqa3lzWlVMTkU4R1o5R210cVloaUZrSQ?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ Source: [BuzzFeed](https://news.google.com/rss/articles/CBMidEFVX3lxTE40UmNPc3ZQ
 
 ---
 
-### [Cette vitamine permettrait de se protéger contre la maladie d'Alzheimer selon une étude scientifique prometteuse](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
+### [Cette vitamine permettrait de se protéger contre la maladie d'Alzheimer selon une étude scientifique prometteuse - La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
 
 2026-09-24
 
-Source: [laprovence.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
+Source: [La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
 
 ---
 

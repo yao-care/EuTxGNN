@@ -14,7 +14,7 @@ permalink: /news/tofacitinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Tofacitinib?">
-<strong>Tofacitinib</strong> currently has <strong>30 news articles</strong>, with 20 predicted indications.
+<strong>Tofacitinib</strong> currently has <strong>29 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Tofacitinib with the latest 
 <p><a href="{{ '/drugs/tofacitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (30)
+## Related News (29)
 
-### [Football to the face revealed my daughter's cancer](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMGdCd051NjZKTmd3dGwyVDloYzJHNWhrYmk2N1g4NUFfVE0yU1lNUWc2c29LaDhEVDlYM2M3MFFFUGFKU2dOSC1ldWMxVTVEWWc0MXQ2S0YtOUptLUE?oc=5)
+### [Stachelannone: Laborstudien zeigen Wirkung gegen Krebszellen, nicht beim Menschen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnFucHgtcDlUVHhiVEFfNXdpcWJFbEdnRFRaemdpc2hzcjFDbGlNdk44X2N0SXRWVEhBXzlUc1Q4bTBzNkl0REszZTkxRks3SmxSdks1UmtOdDJLRXNvZ3JlaVhtenM4djU1YVpQNjRfLXBleGxsNFJrVXlERjl2NHJTRVFqY0ZFUmE0VzUwTmhseU1OWjdXdWZjS0dIWGRvYmU5eTQzQ0xFSGdyek1YNEZxMkpkSGFLU0hv?oc=5)
 
-2026-09-27 <span class="news-indication-tag">cancer</span>
+2026-09-27 <span class="news-indication-tag">Krebs</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMGdCd051NjZKTmd3dGwyVDloYzJHNWhrYmk2N1g4NUFfVE0yU1lNUWc2c29LaDhEVDlYM2M3MFFFUGFKU2dOSC1ldWMxVTVEWWc0MXQ2S0YtOUptLUE?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnFucHgtcDlUVHhiVEFfNXdpcWJFbEdnRFRaemdpc2hzcjFDbGlNdk44X2N0SXRWVEhBXzlUc1Q4bTBzNkl0REszZTkxRks3SmxSdks1UmtOdDJLRXNvZ3JlaVhtenM4djU1YVpQNjRfLXBleGxsNFJrVXlERjl2NHJTRVFqY0ZFUmE0VzUwTmhseU1OWjdXdWZjS0dIWGRvYmU5eTQzQ0xFSGdyek1YNEZxMkpkSGFLU0hv?oc=5)
 
 ---
 
@@ -78,11 +78,19 @@ Source: [HuffPost Italia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY
 
 ---
 
-### [Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzBMaEF0TmJRMnhGQzljMEFSZkYyYmx5Q3VRSmtnRTcteXBCZVlzQktTOTBZWHBqcGxfcEJPSkxuZ1pHWFRJU0taQnBTOXEycFEzVlZ2cE9ubEZWRlE?oc=5)
+### [Football to the face revealed my daughter's cancer](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMGdCd051NjZKTmd3dGwyVDloYzJHNWhrYmk2N1g4NUFfVE0yU1lNUWc2c29LaDhEVDlYM2M3MFFFUGFKU2dOSC1ldWMxVTVEWWc0MXQ2S0YtOUptLUE?oc=5)
 
-2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-09-27 <span class="news-indication-tag">cancer</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzBMaEF0TmJRMnhGQzljMEFSZkYyYmx5Q3VRSmtnRTcteXBCZVlzQktTOTBZWHBqcGxfcEJPSkxuZ1pHWFRJU0taQnBTOXEycFEzVlZ2cE9ubEZWRlE?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMGdCd051NjZKTmd3dGwyVDloYzJHNWhrYmk2N1g4NUFfVE0yU1lNUWc2c29LaDhEVDlYM2M3MFFFUGFKU2dOSC1ldWMxVTVEWWc0MXQ2S0YtOUptLUE?oc=5)
+
+---
+
+### [Krebsprävention: WHO-Daten zeigen, dass vier von zehn Fällen vermeidbar sind - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1JNNzdha2xFeEFoeXpCYzNoNGdjalFWZC1qaFpGRldhLWlmdzlwUDZFQmN5MzRucXRzdGY2TVBWeUtPbjhUNXFKOW56UzZqQk5NWk9VaTQ1UXlucGhfV2dDNXk4NkduNGNVVXlqVDZDMTB4MTlTdHNjQUxWQnlhbV90YktwQnNDcnI4QkFLUzM5cmdNOGtpdkl6S1c5NEUwUmtYWEtKRWg3U21ta2didk5iZW9TbmtOSU1KYg?oc=5)
+
+2026-09-27 <span class="news-indication-tag">Krebs</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1JNNzdha2xFeEFoeXpCYzNoNGdjalFWZC1qaFpGRldhLWlmdzlwUDZFQmN5MzRucXRzdGY2TVBWeUtPbjhUNXFKOW56UzZqQk5NWk9VaTQ1UXlucGhfV2dDNXk4NkduNGNVVXlqVDZDMTB4MTlTdHNjQUxWQnlhbV90YktwQnNDcnI4QkFLUzM5cmdNOGtpdkl6S1c5NEUwUmtYWEtKRWg3U21ta2didk5iZW9TbmtOSU1KYg?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzBMaEF0TmJRM
 2026-09-26 <span class="news-indication-tag">cancer</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkxxSEtQajA5NDZFQTkwZGxUR0lWWlFCS1Ryc2NtRkI5N251YVpna09GUTYxdzVKSkdxLWNCcXZfVGx1LWt6enFLY19iZm52YWt1UE1YdzNVbEh6bE56WC1ZdG1hNlE3UWhqT0NneEVRckppOEVFY0JsR0JKbW5fekJB?oc=5)
+
+---
+
+### [Tumori della pelle nel cane: un nuovo test cerca gli indizi nel DNA](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGpKOE16dnNQUjVNc3l2cktaM0IxdURIa2wyM1dQYmpKa2ZSTDNqTFZuQnNocmNTTjU4bDZHRmh5bWZwQmN5bTBSeVppWW5vRHVkeElLZlJLX0hCbFBvaEIzcVZyNHpIUTUyR2ZCMFdmQ2ZVNUs5VlozWlVic2dkVGFxUUhRc2phLS1qUHlRaEJKYURYNVZFT2NDODBYWGVmc1oyci1VNVRkaDQ3cGx3WXo2R2p0X3F4RXpGUjgwdDk0Q3VR?oc=5)
+
+2026-09-26 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGpKOE16dnNQUjVNc3l2cktaM0IxdURIa2wyM1dQYmpKa2ZSTDNqTFZuQnNocmNTTjU4bDZHRmh5bWZwQmN5bTBSeVppWW5vRHVkeElLZlJLX0hCbFBvaEIzcVZyNHpIUTUyR2ZCMFdmQ2ZVNUs5VlozWlVic2dkVGFxUUhRc2phLS1qUHlRaEJKYURYNVZFT2NDODBYWGVmc1oyci1VNVRkaDQ3cGx3WXo2R2p0X3F4RXpGUjgwdDk0Q3VR?oc=5)
 
 ---
 
@@ -126,14 +142,6 @@ Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNVB6YXl
 
 ---
 
-### [Vitamin C bei Blutkrebsrisiko: EVITA-Studie findet 65 Prozent weniger Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1pSQ01GTHJ0Smx5dGZBOEZHLWtsVFhfSEE1Q0M3Vll4bzFNOUU4eS0wSENaWmV5S1hiR1NydEJnWEp3Z2ljMFp1Y0lPMG5wWnVtczdySXN1alA2NVdGYjB6aEVKenVWd0lfSTdVY1AzemQ5ME9HR0dIcngzRFhUNzB6c3htUXBwQjVPaV8ybGlTaExFTWRnZ0JvVUY1Q0VJTmhYcFJQbmY5aGVfNmRSdXE1QWtVWm1S?oc=5)
-
-2026-09-26 <span class="news-indication-tag">Krebs</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1pSQ01GTHJ0Smx5dGZBOEZHLWtsVFhfSEE1Q0M3Vll4bzFNOUU4eS0wSENaWmV5S1hiR1NydEJnWEp3Z2ljMFp1Y0lPMG5wWnVtczdySXN1alA2NVdGYjB6aEVKenVWd0lfSTdVY1AzemQ5ME9HR0dIcngzRFhUNzB6c3htUXBwQjVPaV8ybGlTaExFTWRnZ0JvVUY1Q0VJTmhYcFJQbmY5aGVfNmRSdXE1QWtVWm1S?oc=5)
-
----
-
 ### ['Brain tumour research needs more funding', says bereaved Tamworth family](https://news.google.com/rss/articles/CBMiXkFVX3lxTE02QVNYT3EtVTEtUUt4blZwZVdUelkyY2pjS3RGeHNkalRFNURaaGVMaF9uQkJlTk5pQlRYRGN1MEw5dzI3WklZNnEwaHFIaDU4M3VFc3o4bGtLakwtaFE?oc=5)
 
 2026-09-26 <span class="news-indication-tag">tumour</span>
@@ -142,11 +150,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE02QVNYT3EtVTEtU
 
 ---
 
-### [Tumore al pancreas: i nuovi dati su quanto si vive dopo l’operazione - The Wom Healthy](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWJXazdQRGg0elk5QTdURHlab2JieGJxVmlCYkdKbUtabHk0VmtuQkdhb1JuTnB6cmE3TWtYQWNibEVUNHI2V3ptb1dETUw2WmM5T041WnNHNWphNVdScXVzay1JR1V2MUlCNXhPMktMRW53X3c1ek5fM3M5NEVNMnF1QmlZTVVpbm1Yc0hVYkN1M09zaXRGMzdhYkNydUQxeEFwRXh0VVhobFk?oc=5)
+### [EVITA-Studie: Hochdosiertes Vitamin C verbessert bei CCUS/MDS das Überleben – Zellwachstum bleibt gleich - it boltwise](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlVFOWh5TF9GZmhBZVhtOURyS3F6S2Q4dHFNT3dmb2NnTUFIb2h6YWtMRy1lYld6V0NtaDd3Yk5ENmc0TlRYcTVkNU03eU5DbzNpZUh1Q0ZMdHVSQVFBZGdlcmZFcmJYTktNRGVzV0JhbUo3VzloSjZQWTdkWmpKc2NxVmlPbFo5Q09PWjgxUnZLU1pXcklqLWpRUVZFRTJYSjhvN2dRZy03T3lyZkV5MTA4MmlaZk44OGlqQ01DSHVtZWRkX29hSGthX3pDSXc?oc=5)
 
-2026-09-26 <span class="news-indication-tag">tumor</span>
+2026-09-26 <span class="news-indication-tag">Krebs</span>
 
-Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWJXazdQRGg0elk5QTdURHlab2JieGJxVmlCYkdKbUtabHk0VmtuQkdhb1JuTnB6cmE3TWtYQWNibEVUNHI2V3ptb1dETUw2WmM5T041WnNHNWphNVdScXVzay1JR1V2MUlCNXhPMktMRW53X3c1ek5fM3M5NEVNMnF1QmlZTVVpbm1Yc0hVYkN1M09zaXRGMzdhYkNydUQxeEFwRXh0VVhobFk?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlVFOWh5TF9GZmhBZVhtOURyS3F6S2Q4dHFNT3dmb2NnTUFIb2h6YWtMRy1lYld6V0NtaDd3Yk5ENmc0TlRYcTVkNU03eU5DbzNpZUh1Q0ZMdHVSQVFBZGdlcmZFcmJYTktNRGVzV0JhbUo3VzloSjZQWTdkWmpKc2NxVmlPbFo5Q09PWjgxUnZLU1pXcklqLWpRUVZFRTJYSjhvN2dRZy03T3lyZkV5MTA4MmlaZk44OGlqQ01DSHVtZWRkX29hSGthX3pDSXc?oc=5)
 
 ---
 
@@ -158,35 +166,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWRK
 
 ---
 
-### [‘A blood test found my hidden cancer — and saved my life’](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdklPc28xcmp5ZUdJdWJHT29DRmdPYXVZdUh1NWZmUWlfV3hWVjY2RGN4dlMwOUV5cldROGwyM1hjd1V6STNJdTFLWXNHZWlIaWREQ0pDMlRDWDVVZU9paVU1aklaNlZUeklaT0g2aVNoVWZrWEJYS1ZhMy1fTm8xa3NMWGJqVGhtN3pvbXVCT3p1OVdl?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span>
-
-Source: [thetimes.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdklPc28xcmp5ZUdJdWJHT29DRmdPYXVZdUh1NWZmUWlfV3hWVjY2RGN4dlMwOUV5cldROGwyM1hjd1V6STNJdTFLWXNHZWlIaWREQ0pDMlRDWDVVZU9paVU1aklaNlZUeklaT0g2aVNoVWZrWEJYS1ZhMy1fTm8xa3NMWGJqVGhtN3pvbXVCT3p1OVdl?oc=5)
-
----
-
-### [PM pledges breast cancer care inquiry and police boost](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmc012VWJtb2d3YkpkTThNbmFZMEpqMHBZclZCd2Z3eWc3TmxwSHU2MDNqTjZwZDNGclhzQjliWEFZcGxnaC1YQVJGZHVJd2xTaW1iaW9QbzBxM0ZhQ3c?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmc012VWJtb2d3YkpkTThNbmFZMEpqMHBZclZCd2Z3eWc3TmxwSHU2MDNqTjZwZDNGclhzQjliWEFZcGxnaC1YQVJGZHVJd2xTaW1iaW9QbzBxM0ZhQ3c?oc=5)
-
----
-
 ### [Dietary supplement may influence lung tumor growth differently in females and males - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE9PeUQyeGpEN0hHT1VtQ1dkUjB2VDhYVTNCY19ackpDcGsyWXJvWjJ5TWhXLVNnZlAxdW1STUNGRUZ0VlM5WXhzTHJmVm1BMnRqY01mUG9LSElnVWNVUEdtYzh0cG9ZaFpsdXJidGQ4X2dBZERHS25kNy1NRGp0Mk5zbEVtMFU?oc=5)
 
 2026-09-25 <span class="news-indication-tag">tumor</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE9PeUQyeGpEN0hHT1VtQ1dkUjB2VDhYVTNCY19ackpDcGsyWXJvWjJ5TWhXLVNnZlAxdW1STUNGRUZ0VlM5WXhzTHJmVm1BMnRqY01mUG9LSElnVWNVUEdtYzh0cG9ZaFpsdXJidGQ4X2dBZERHS25kNy1NRGp0Mk5zbEVtMFU?oc=5)
-
----
-
-### [‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
-
-2026-09-25 <span class="news-indication-tag">tumour</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
 
 ---
 
@@ -210,15 +194,15 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95c
 
 2026-09-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
 ---
 
-### [Prävention und Betreuung: Krebspatienten in der Apotheke - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOS1iaXJJb2FXVmpoNjZmRnlzMWRQQzRCM214VUg2T1oycU42UVRsMUwtWmM0N2RFQ2VOeGthTWl4TlVxdWVDUXc4TUtBbTRqWWwtTWNFaDktMDFSN2NLTGFiLXZuZnRubTYwQ3M3WlBnMXY4LVRFUXF5bGhQTUxEbGdnRQ?oc=5)
+### [Prävention und Betreuung: Krebspatienten in der Apotheke](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOS1iaXJJb2FXVmpoNjZmRnlzMWRQQzRCM214VUg2T1oycU42UVRsMUwtWmM0N2RFQ2VOeGthTWl4TlVxdWVDUXc4TUtBbTRqWWwtTWNFaDktMDFSN2NLTGFiLXZuZnRubTYwQ3M3WlBnMXY4LVRFUXF5bGhQTUxEbGdnRQ?oc=5)
 
 2026-09-25 <span class="news-indication-tag">Krebs</span>
 
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOS1iaXJJb2FXVmpoNjZmRnlzMWRQQzRCM214VUg2T1oycU42UVRsMUwtWmM0N2RFQ2VOeGthTWl4TlVxdWVDUXc4TUtBbTRqWWwtTWNFaDktMDFSN2NLTGFiLXZuZnRubTYwQ3M3WlBnMXY4LVRFUXF5bGhQTUxEbGdnRQ?oc=5)
+Source: [pharmazeutische-zeitung.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOS1iaXJJb2FXVmpoNjZmRnlzMWRQQzRCM214VUg2T1oycU42UVRsMUwtWmM0N2RFQ2VOeGthTWl4TlVxdWVDUXc4TUtBbTRqWWwtTWNFaDktMDFSN2NLTGFiLXZuZnRubTYwQ3M3WlBnMXY4LVRFUXF5bGhQTUxEbGdnRQ?oc=5)
 
 ---
 
@@ -238,11 +222,27 @@ Source: [Il Mattino](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUtlVU
 
 ---
 
-### [I’m a doctor – eight surprising habits for a healthier gut](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFpRU1dUWmowZkdDQXZpTFc3dDZXRUdxNUtBS1VhWU1TOWwtek0zVDBrcUtqcXJuV2M2bVNrTl9WRWFFOXBxUlJmbmtXQlowcmhqbERPbnNld096Nllfei1jU3dleWhqMUFSNThQTHhLRXRNNDdmTm41bWJpankxS3ZGdEIwZ0pVdWRkTUp6NWw1Zw?oc=5)
+### [From weeks to hours - the rapid new test transforming brain tumour diagnosis](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Z2NoMGhZZXR1eC1Uc2ppcnFOd2otU29ac0EyTnY4UnUxaG1yS1ZUcjlxUE5PVzlkWmxhYzBwMDh1d0pLWVJTRm9IeXVpUDFsVTJOUzJReVhOcms?oc=5)
 
-2026-09-25 <span class="news-indication-tag">cancer</span>
+2026-09-24 <span class="news-indication-tag">tumour</span>
 
-Source: [inews.co.uk](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFpRU1dUWmowZkdDQXZpTFc3dDZXRUdxNUtBS1VhWU1TOWwtek0zVDBrcUtqcXJuV2M2bVNrTl9WRWFFOXBxUlJmbmtXQlowcmhqbERPbnNld096Nllfei1jU3dleWhqMUFSNThQTHhLRXRNNDdmTm41bWJpankxS3ZGdEIwZ0pVdWRkTUp6NWw1Zw?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Z2NoMGhZZXR1eC1Uc2ppcnFOd2otU29ac0EyTnY4UnUxaG1yS1ZUcjlxUE5PVzlkWmxhYzBwMDh1d0pLWVJTRm9IeXVpUDFsVTJOUzJReVhOcms?oc=5)
+
+---
+
+### [El cribado de los tumores de pulmón reduce la mortalidad y mejora la supervivencia, según un estudio de la Agencia Internacional para la Investigación del Cáncer - El Mundo](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zQkctdkZTcE9CM2otTlhOV1N4TmFwdE9TanptZnhFZXFpeHRGLU5yLW9HalJjaEJGV1hTTW9VR25PcGQ2VmVpcXFTS1lLVXJOUTk4MUhyc01BcjF4dTFLeW1EZm1xVVJJckYxYXAtdGYzTUFKRXdPd9IBeEFVX3lxTE9LbUhzN09uN1FiVFN3SXZ5T29xOEEycENERUU2akViZ2hBRXlZcnQyR0M0ejZOTy1nS2tyRXVUeTdSeU5hdTR0YnFXeXlHOFF0cjVPOTBtcDlZcTF4NGl6eDl5Vkt1cVdhdG82N0xQU2ZLV3pEZGktNQ?oc=5)
+
+2026-09-24 <span class="news-indication-tag">tumor</span>
+
+Source: [El Mundo](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zQkctdkZTcE9CM2otTlhOV1N4TmFwdE9TanptZnhFZXFpeHRGLU5yLW9HalJjaEJGV1hTTW9VR25PcGQ2VmVpcXFTS1lLVXJOUTk4MUhyc01BcjF4dTFLeW1EZm1xVVJJckYxYXAtdGYzTUFKRXdPd9IBeEFVX3lxTE9LbUhzN09uN1FiVFN3SXZ5T29xOEEycENERUU2akViZ2hBRXlZcnQyR0M0ejZOTy1nS2tyRXVUeTdSeU5hdTR0YnFXeXlHOFF0cjVPOTBtcDlZcTF4NGl6eDl5Vkt1cVdhdG82N0xQU2ZLV3pEZGktNQ?oc=5)
+
+---
+
+### [County Durham breast cancer failure bosses to review 4,500 more cases](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mSWxUdGRabGZxOTMzWUxvZjZEXy0waE15Ym5sSE8xQTUyZWx3UnduT1ZKWThSQnlrSmRUbEt1dW1SWU5IUjB3Q3ctUnN0dXowR1FkU0xIVTQ4cUtDM0E?oc=5)
+
+2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mSWxUdGRabGZxOTMzWUxvZjZEXy0waE15Ym5sSE8xQTUyZWx3UnduT1ZKWThSQnlrSmRUbEt1dW1SWU5IUjB3Q3ctUnN0dXowR1FkU0xIVTQ4cUtDM0E?oc=5)
 
 ---
 
@@ -254,19 +254,19 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPczlH
 
 ---
 
+### [Cornwall bowel cancer campaign aims to boost early diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
+
+2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
+
+---
+
 ### [Tumore del colon, la PET sembra mostrare metastasi ovunque: poi la biopsia cambia tutto](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3Fvb084SGJSdUVzS2lfN2xqUmwtQmZWVVN3WlRwOEtKV0pZU1F5N3VYTDFuQjhscHBoRHFaN01JelIwYTd2ZHZzMXhuWnpHVzNRZGZwNE9kdU1kM3UyZWdKckdUdmZ6T2lrNVZtNE9lczg1QkdjeHRvR3lNVUliMDAzYlBjTDFoNGRGeC1HbU9Ma2VibW00RjZROEdUWmdHWERoRjRremZFcUdpWnEybWpzeEd6ZkVhSUVIYlh5bWtYa1ZKZmtEeVYyMTBuSE41UGc?oc=5)
 
 2026-09-22 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3Fvb084SGJSdUVzS2lfN2xqUmwtQmZWVVN3WlRwOEtKV0pZU1F5N3VYTDFuQjhscHBoRHFaN01JelIwYTd2ZHZzMXhuWnpHVzNRZGZwNE9kdU1kM3UyZWdKckdUdmZ6T2lrNVZtNE9lczg1QkdjeHRvR3lNVUliMDAzYlBjTDFoNGRGeC1HbU9Ma2VibW00RjZROEdUWmdHWERoRjRremZFcUdpWnEybWpzeEd6ZkVhSUVIYlh5bWtYa1ZKZmtEeVYyMTBuSE41UGc?oc=5)
-
----
-
-### [«Tumore al seno, ecco la proteina responsabile della diffusione nel cervello» - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnM3TlJZeFJEU3FKQ0NCdUV4aVl1eS01djhCaFl6YUdRS0YwTW1kbWV2a0FJR2tjZkduc2xtbkVkQkg4bF9sNUsyU1hreGhRQWVheTVnX2tzV2lwLUlWejFkbXAzSFQzOU82M2h6OHZEQ0hsTkszRkxpTkpwUTdyTVYwTXpwdkpIMTQtRnlEN0pTeUJ5WENMTUJqRDg3eEZncE4xMHJ3N01sZ9IBowFBVV95cUxNSENwYmoyaDM0VU5YU0hBNWo5WmtMQXQ5dTRFYzVkTmRfcFpmVFRPSzhaZ3F5cG1yY2ZCQnJhajhBcEFkTEJCbzNpR2NhN013VVJKa3p3M1dLOWVoNU9OdDJpSENrQ0tWSWU3TU80VVg1dmE3dDFGZGhia3RPUVp3RTk3S3oyaUxrNVJ3MVJ1MUFhRXlQakJSOTNWZUNMX1BEaFdn?oc=5)
-
-2026-09-22 <span class="news-indication-tag">tumor</span>
-
-Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnM3TlJZeFJEU3FKQ0NCdUV4aVl1eS01djhCaFl6YUdRS0YwTW1kbWV2a0FJR2tjZkduc2xtbkVkQkg4bF9sNUsyU1hreGhRQWVheTVnX2tzV2lwLUlWejFkbXAzSFQzOU82M2h6OHZEQ0hsTkszRkxpTkpwUTdyTVYwTXpwdkpIMTQtRnlEN0pTeUJ5WENMTUJqRDg3eEZncE4xMHJ3N01sZ9IBowFBVV95cUxNSENwYmoyaDM0VU5YU0hBNWo5WmtMQXQ5dTRFYzVkTmRfcFpmVFRPSzhaZ3F5cG1yY2ZCQnJhajhBcEFkTEJCbzNpR2NhN013VVJKa3p3M1dLOWVoNU9OdDJpSENrQ0tWSWU3TU80VVg1dmE3dDFGZGhia3RPUVp3RTk3S3oyaUxrNVJ3MVJ1MUFhRXlQakJSOTNWZUNMX1BEaFdn?oc=5)
 
 ---
 
@@ -283,14 +283,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc09m
 2026-09-21 <span class="news-indication-tag">arthritis</span>
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
-
----
-
-### [Franco Berrino: «Chi ha la pancia si ammala di più. Ecco cosa fare per ridurla» - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
-
-2026-09-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
 
 ---
 

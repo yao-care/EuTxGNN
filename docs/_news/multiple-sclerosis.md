@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 20 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 18 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>20 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>18 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,23 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (20)
+## Related News (18)
+
+### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+
+2026-09-27
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+
+---
+
+### [I’m a psychiatrist. This is the terrifying reality of postpartum psychosis](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
+
+2026-09-27
+
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
+
+---
 
 ### [Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVcwVXpranllUGhnazJBdy0wYUlyaWVabzY1azRDejFVRDVmaFUtdGxIRXZVN0ljSllBUUtIWTF0eW5HVS1ISzBGdWRjYXJQTXY4WWFqR3NtOHBGdktkME1uVWliRTdxVnRZWmxZWlFwb2lvTnJXMTQ1RHkydm9MN2Z1X1pxUHFrMXN4alB3?oc=5)
 
@@ -116,31 +132,7 @@ Source: [Sky News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDg0dmpK
 
 2026-09-26
 
-Source: [aol.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTdaNklvV2cwZE5yc1JSTF8tZ3lGZEFYNGNYYnJja1ZvQWkyWlNtRm5NckJNSjNkUkNFdEZiSTFHOERjVGNMTFZRMmhaWk4zX0duMGNKVVBFS2JBNmZlWnd3TEtFb3hiUFEzbjc4YjV3ZmpXazRvOUdGTmlYeW1WZTBoR0RGeXF2Y3dDdw?oc=5)
-
----
-
-### [OMS reporta riesgo de transmisión transfronteriza por avance del brote de ébola - La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbEtsc2JnZzNzbUxXekVWU2JuU3hfLTloUHc3Zks3OUZCNzZOd0NoWGxzdDk4by1OU2xPSHVZV2VmT2ZwenBYakt4QzJ2OFd2VGl1aGJiMUV5U2FBaldYQnU2dVg1RXBZcERDa1dZMl9ORG5JMnNNQ3p0YXdiY2hVSlpJb3RaTU9LSU90bllHVnh6RExOM3VhMU1DcG1wR211ZWxRbjhYWTgzQUE?oc=5)
-
-2026-09-26
-
-Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbEtsc2JnZzNzbUxXekVWU2JuU3hfLTloUHc3Zks3OUZCNzZOd0NoWGxzdDk4by1OU2xPSHVZV2VmT2ZwenBYakt4QzJ2OFd2VGl1aGJiMUV5U2FBaldYQnU2dVg1RXBZcERDa1dZMl9ORG5JMnNNQ3p0YXdiY2hVSlpJb3RaTU9LSU90bllHVnh6RExOM3VhMU1DcG1wR211ZWxRbjhYWTgzQUE?oc=5)
-
----
-
-### [I’m a pharmacist — here’s my top recommendation as flu season begins - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmZLSktVRk5Zd0tuNERfQkxVRnRLYTVCM0dRRy1NWktTSm5lSXdCbGdFUmhQQ0tUekxIRDk1d2xnZXYzSEk1VmJWaUpUUXU2eXBRUzNqbVJZblVsV3Rtb2N2TnlobWd0bm5IczdoX0xXNUo2RGJlNTc1QWRsVldkSzNYOGVWcURJdThVNjZwV1pMUVZh0gGaAUFVX3lxTFBaVzVLT3VCWDFDTlE4Q2dhR3pXUFczaGlqblBaQnhKN3VTX0VOdm1ZTGpLYVpuSEprNDBnUVhUSVRZaFZrV0lkZXV6R1BYQlBrSkNxQWJ5S2VwWjBNWmQyQUxNZVFDRXBQRXdOV2VGTWc5UzExRUxMVXJ1ZXRYU01VVUUxMVBfc2pyVEd5eGhIeXlaTHZaZ1AzYkE?oc=5)
-
-2026-09-26
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmZLSktVRk5Zd0tuNERfQkxVRnRLYTVCM0dRRy1NWktTSm5lSXdCbGdFUmhQQ0tUekxIRDk1d2xnZXYzSEk1VmJWaUpUUXU2eXBRUzNqbVJZblVsV3Rtb2N2TnlobWd0bm5IczdoX0xXNUo2RGJlNTc1QWRsVldkSzNYOGVWcURJdThVNjZwV1pMUVZh0gGaAUFVX3lxTFBaVzVLT3VCWDFDTlE4Q2dhR3pXUFczaGlqblBaQnhKN3VTX0VOdm1ZTGpLYVpuSEprNDBnUVhUSVRZaFZrV0lkZXV6R1BYQlBrSkNxQWJ5S2VwWjBNWmQyQUxNZVFDRXBQRXdOV2VGTWc5UzExRUxMVXJ1ZXRYU01VVUUxMVBfc2pyVEd5eGhIeXlaTHZaZ1AzYkE?oc=5)
-
----
-
-### [Ebola-Ausbruch im Kongo: Ebola-Ausbruch im Kongo breitet sich auf zwei weitere Bezirke aus - DIE ZEIT](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGt1UjUxTTFNX2NEZzBKZlpULUJOUnQ5TGt0N3JjdUhTTnNhMFVCNXNYTnVYbTBiVVdBVEVfc2YtQnJHdF9hbHJsQWdUZE9FQzdmaHd1cDl6bl9vQklqM0RCcGVROXh3NE8wajJRM0dacFZwaWtmUmdsQVBKREgtdUZjeU5WZXdJWjJQbkJybmREV1YxTWwxMll3?oc=5)
-
-2026-09-26
-
-Source: [DIE ZEIT](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGt1UjUxTTFNX2NEZzBKZlpULUJOUnQ5TGt0N3JjdUhTTnNhMFVCNXNYTnVYbTBiVVdBVEVfc2YtQnJHdF9hbHJsQWdUZE9FQzdmaHd1cDl6bl9vQklqM0RCcGVROXh3NE8wajJRM0dacFZwaWtmUmdsQVBKREgtdUZjeU5WZXdJWjJQbkJybmREV1YxTWwxMll3?oc=5)
+Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTdaNklvV2cwZE5yc1JSTF8tZ3lGZEFYNGNYYnJja1ZvQWkyWlNtRm5NckJNSjNkUkNFdEZiSTFHOERjVGNMTFZRMmhaWk4zX0duMGNKVVBFS2JBNmZlWnd3TEtFb3hiUFEzbjc4YjV3ZmpXazRvOUdGTmlYeW1WZTBoR0RGeXF2Y3dDdw?oc=5)
 
 ---
 
@@ -149,22 +141,6 @@ Source: [DIE ZEIT](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGt1UjUx
 2026-09-25
 
 Source: [Ouest-France](https://news.google.com/rss/articles/CBMimwJBVV95cUxOMEx5a1g2cHZjSXJIcEZBLTFmNFNQQzNsSVJBWlZfQzA3QUgzc0xXSUFjdjJRckdhQ0ttSFFlc0s1aENtMllXSDN3U1drVHFHWHNhVlRBU1Fqb1lfOXVJWFJoMXlZUzIyVHdocUxMU3VRX2VTT1hVdTRzc3R1LXNDNnh5Z1l3WkVVaWNVdDZMUnltZDZSWnlIMmtwUVMzampSS2Nsa3lrQVdDcHMyNDJYdWhmR3NwNDU5UEpNbTQxUE1DNVlnSWRwRjNuSkthWXZ2c1E0M1RGMWdxX2JOb2psdFNQVWtwQ01Ub25JVmY4Rm1hZV9ZRC1fUDlWR0lSazRWNURIcG1jUzU1VjA0OVN3dTNZUmxmN3Y3QWpr?oc=5)
-
----
-
-### [Menor riesgo de atrofia retiniana con trasplante de células madre en la esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXN0QkJ0Z285RERaU1F2RVRZV18yWkpoOEJLdEhmN2pfLUd3dV9SUjlNV1dPUkxkNUxNQTl5NzgtWUhhcXFnY1d1ZUFNcFFtOXQyemJ4N0xCWGs4ZGg4STJUc0E2Vi1DRHFBVmVFcUJLN29HWXBOeDVyVEo4SE4ycElDX0FjdXRXU1poYVJsZFYtSnZ5OERRWm94WUxUUy1xalNXOTNyYXZWWUoxcHd4bkZUa0wtbzhVRng3R2dtODXSAbsBQVVfeXFMTU1iRXFLekJ0dHJac0pMSTVlakNVdExmaWx0cUNVMzJlLWVSM01Rdkdmejg4UmNCLXNsZE8tcGhmZ3BHdy0tWHlSaTcwMm1jaEFRUlRoOTA2VWppZVdwUURuZXBIODZadktvX2llV3hYb0p5U1BUYUJDS19oa0syd2dWMU1GNW1tLXMwSUJ5bHRqdEc5cFpOTjVFRnM3V3g1TDNDU0NBWTQ4VE9ha0RzeGpFeTdVTG1ZQ20zQQ?oc=5)
-
-2026-09-25
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXN0QkJ0Z285RERaU1F2RVRZV18yWkpoOEJLdEhmN2pfLUd3dV9SUjlNV1dPUkxkNUxNQTl5NzgtWUhhcXFnY1d1ZUFNcFFtOXQyemJ4N0xCWGs4ZGg4STJUc0E2Vi1DRHFBVmVFcUJLN29HWXBOeDVyVEo4SE4ycElDX0FjdXRXU1poYVJsZFYtSnZ5OERRWm94WUxUUy1xalNXOTNyYXZWWUoxcHd4bkZUa0wtbzhVRng3R2dtODXSAbsBQVVfeXFMTU1iRXFLekJ0dHJac0pMSTVlakNVdExmaWx0cUNVMzJlLWVSM01Rdkdmejg4UmNCLXNsZE8tcGhmZ3BHdy0tWHlSaTcwMm1jaEFRUlRoOTA2VWppZVdwUURuZXBIODZadktvX2llV3hYb0p5U1BUYUJDS19oa0syd2dWMU1GNW1tLXMwSUJ5bHRqdEc5cFpOTjVFRnM3V3g1TDNDU0NBWTQ4VE9ha0RzeGpFeTdVTG1ZQ20zQQ?oc=5)
-
----
-
-### [Un nuevo estudio respalda la eficacia y seguridad de Numelvi, de MSD Animal Health, en perros](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRngwZTdvcEViRlI2czZWOFNyXzhjMndFS2YtZW1ZY1ZjbUVHaVN5VXpGNkZVVjAxQnNReXZSOExEZXh5Rl9tVkhpaS1aMVJ0ZkFqNzBkMklQMkF6aE0zUjhtZEVScEZ1V1lMV1Zza3I3WUllR2l0ck1lTUdydkt5d0IxcFVaZWgxYW5OSTBlUHhiUmQtVTFLQWRLd2NfM2VTSE83c3lfcEVxN1RiM1NWSnZIU0rSAboBQVVfeXFMTUtFQUZ2dngwR2dOQ3NhT18zSWd3RFp2X0czR3dpNzY2dEw5RUdZd0NVNjNGZl8wbThMVGp0VnU2N1hNakYxS21zRWdReTM0dS1zd1d0RktFcjBndERoTnNSRWY0WkxBQjdid0tzYkp0UkFTQzYwNkJLUXN3RGh6azVFNFhPOFVuaUFZUzdlQlFoSjNaN055MVo0ajZkRVZjMW1hX1NodlNybFprNFNjU0ZBcUhic25wQVZR?oc=5)
-
-2026-09-25
-
-Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRngwZTdvcEViRlI2czZWOFNyXzhjMndFS2YtZW1ZY1ZjbUVHaVN5VXpGNkZVVjAxQnNReXZSOExEZXh5Rl9tVkhpaS1aMVJ0ZkFqNzBkMklQMkF6aE0zUjhtZEVScEZ1V1lMV1Zza3I3WUllR2l0ck1lTUdydkt5d0IxcFVaZWgxYW5OSTBlUHhiUmQtVTFLQWRLd2NfM2VTSE83c3lfcEVxN1RiM1NWSnZIU0rSAboBQVVfeXFMTUtFQUZ2dngwR2dOQ3NhT18zSWd3RFp2X0czR3dpNzY2dEw5RUdZd0NVNjNGZl8wbThMVGp0VnU2N1hNakYxS21zRWdReTM0dS1zd1d0RktFcjBndERoTnNSRWY0WkxBQjdid0tzYkp0UkFTQzYwNkJLUXN3RGh6azVFNFhPOFVuaUFZUzdlQlFoSjNaN055MVo0ajZkRVZjMW1hX1NodlNybFprNFNjU0ZBcUhic25wQVZR?oc=5)
 
 ---
 
@@ -192,11 +168,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMie0FVX3lxTE54SGhONi1s
 
 ---
 
-### [Five tips to get arms like Tony Blair’s in your 70s - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjA5TENpLUt4SmlrcDU5QkRwMThiRDFXVVhXbm9KaWlzc29FSXFKTVBNQU9iRXh5N1VGbjltb1VHaDB6N01xeGxpYzVNdUp2YWtBZ1F0UkQtZ2VUQUZ2cEJhc3NuRjJ1WWNCbEJsOXJEdmZBcmdNTWNGWlR5S3R1aldEUW1zRGRybFJYOUhxdTB2WWxOT3otYnpfVmI?oc=5)
+### [Five tips to get arms like Tony Blair’s in your 70s](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjA5TENpLUt4SmlrcDU5QkRwMThiRDFXVVhXbm9KaWlzc29FSXFKTVBNQU9iRXh5N1VGbjltb1VHaDB6N01xeGxpYzVNdUp2YWtBZ1F0UkQtZ2VUQUZ2cEJhc3NuRjJ1WWNCbEJsOXJEdmZBcmdNTWNGWlR5S3R1aldEUW1zRGRybFJYOUhxdTB2WWxOT3otYnpfVmI?oc=5)
 
 2026-09-24
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjA5TENpLUt4SmlrcDU5QkRwMThiRDFXVVhXbm9KaWlzc29FSXFKTVBNQU9iRXh5N1VGbjltb1VHaDB6N01xeGxpYzVNdUp2YWtBZ1F0UkQtZ2VUQUZ2cEJhc3NuRjJ1WWNCbEJsOXJEdmZBcmdNTWNGWlR5S3R1aldEUW1zRGRybFJYOUhxdTB2WWxOT3otYnpfVmI?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjA5TENpLUt4SmlrcDU5QkRwMThiRDFXVVhXbm9KaWlzc29FSXFKTVBNQU9iRXh5N1VGbjltb1VHaDB6N01xeGxpYzVNdUp2YWtBZ1F0UkQtZ2VUQUZ2cEJhc3NuRjJ1WWNCbEJsOXJEdmZBcmdNTWNGWlR5S3R1aldEUW1zRGRybFJYOUhxdTB2WWxOT3otYnpfVmI?oc=5)
 
 ---
 
@@ -205,6 +181,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjA
 2026-09-23
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE55eFlfcG9EME4xQXhZdVNMTWs2TGdGM19kQWlFUndHUFlkRF8wZzY2TnpkTUxTX1BZN2tuX05tQ2RJOWFlRWZES0pTSE9kaXVqLTBIM2owRWx4TDF0a3p3?oc=5)
+
+---
+
+### [Cornwall bowel cancer campaign aims to boost early diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
+
+2026-09-23
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
 
 ---
 

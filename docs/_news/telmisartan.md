@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
+
+### [Ipertensione e problemi al cuore, otto conservanti alimentari associati all'aumento del rischio. Quali sono e lo studio su oltre 112mila... - Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlgycEJqbkVHQWJ4VHg1aHFpVGhBX3ZEY3JqVTQtSVAwUVZqbFpCMThQOVdTclpwelVvOExTQlh0Q2tFcUVsclVQNS1Rd0ZSVlZGWGZmTW9jU2RwNGNXbjBtd3JTbWNxQ1d5V1paT1J1aWNPNDVkc0xUTFhuSW9jVTNZSURhLTR4NmIxbFkwdFc3QXVLa2VpUjFfV3E5MFpyTFZjLVFxcHBoX0JSY0tvcGI5MXF3RkNBd25NaWFaUdIBsgFBVV95cUxNWUhfUzc0Z2x4b2h2OVBWcHdDNWIyanItZThzYUV4SEZ5bDNUcWNDZmdnMVdFOXM4NTFfMWxPalljYUNIWnU4VUlMb24tWkhGS1MyODFOVWxEWWUxTHUzSXlPUElIUS1pQmRTZklMSlFEeF9mNXQ5ZEg5ZHROcXhtdENIRXY4R2tGeFMxcjU1NWd4eHNnZEtLckQ4eUYxclA3UllKR3VIWWhySDRFalhPVFpn?oc=5)
+
+2026-09-27 <span class="news-indication-tag">ipertensione</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlgycEJqbkVHQWJ4VHg1aHFpVGhBX3ZEY3JqVTQtSVAwUVZqbFpCMThQOVdTclpwelVvOExTQlh0Q2tFcUVsclVQNS1Rd0ZSVlZGWGZmTW9jU2RwNGNXbjBtd3JTbWNxQ1d5V1paT1J1aWNPNDVkc0xUTFhuSW9jVTNZSURhLTR4NmIxbFkwdFc3QXVLa2VpUjFfV3E5MFpyTFZjLVFxcHBoX0JSY0tvcGI5MXF3RkNBd25NaWFaUdIBsgFBVV95cUxNWUhfUzc0Z2x4b2h2OVBWcHdDNWIyanItZThzYUV4SEZ5bDNUcWNDZmdnMVdFOXM4NTFfMWxPalljYUNIWnU4VUlMb24tWkhGS1MyODFOVWxEWWUxTHUzSXlPUElIUS1pQmRTZklMSlFEeF9mNXQ5ZEg5ZHROcXhtdENIRXY4R2tGeFMxcjU1NWd4eHNnZEtLckQ4eUYxclA3UllKR3VIWWhySDRFalhPVFpn?oc=5)
+
+---
 
 ### [Il TIA dura pochi minuti. Il rischio per la memoria può restare alto per vent’anni](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVU1iRXJ2M0tQdGdVeUd0U05NclhnQ1pjYnp2dnJFcTU3Qmk4OVR5Z05xVTdjQl9MSXl2ampKRkwzSWJEU2dvdDhubTJ4bmZ2U0pZSjVjZGhnVXFxSFd6TWZtcTBpS1VzSDRmYUlra0RjX3dXLU1GT1NDZm5qYUlBeXlBTndBNkRPaThrdHVqX09zaVItazNFbHpqSUJTUFpiRVRnQkJoVDEtS2JOOGpvSjE2WWlFZ0ctc09kcU56QmxxTzhLM1hrWjl3ZWN5T0RGQVItbzl0Zw?oc=5)
 
@@ -86,11 +94,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4V
 
 ---
 
-### [High blood pressure? Listen to Mozart or Bach - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
+### [High blood pressure? Listen to Mozart or Bach](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
 
 2026-09-26 <span class="news-indication-tag">high blood pressure</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
 
 ---
 
@@ -98,7 +106,7 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelh
 
 2026-09-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
 ---
 
@@ -110,27 +118,11 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2Y
 
 ---
 
-### [Family launches fundraiser after man suffers catastrophic stroke after surgery - News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
-
-2026-09-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [News & Star](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUFPMmhVRHF6UDdfc04xQ09ZU1hGbGVxYjZaOU95TldhMnc0NFR0Qi0zYWMzeGZwaVFHNnN4NDBpcHE3N0p3UWoyLUFldlpSTC1scHNYT0tITWIxbm9JS3V6YXlfbEsyWlc5WW5pQnFibUJDWV83d21MaDJNeHVRcWJtbEVxcW1QcFk1V3JFRGJ3dW8?oc=5)
-
----
-
 ### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
-
----
-
-### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
-
-2026-09-22 <span class="news-indication-tag">ipertensione</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
 
 ---
 
