@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Opicapone</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Sales of £460 shingles jab double after claims it wards off dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
 
@@ -70,11 +70,11 @@ Source: [BuzzFeed](https://news.google.com/rss/articles/CBMidEFVX3lxTE40UmNPc3ZQ
 
 ---
 
-### [meprin-β en alzhéimer: aumento detectado - Diario Occidente](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUt3OVVQbDB0a3E5b0JfZXlXOGIwYW8xUG05ZXZielhaR3RwRDFXbS1GRXp1ZHhKX3dNb3pkbnhHdnd0YnhNb1JiWXhnM25ZSmo2QnNjdXJXdVVHNzA5MTJ4OURpRUw0Z29KbVBzUGUteTF6OEdzZ1N5aEtaTFdNOUZFY9IBjgFBVV95cUxQd2JBYXNfODBIVjYzMFNYT3M4WjcxNDhtemNZWi1jVGdtOF9OejlVTjdWeUpta2YxajRJdHcxVXp5b3lXamFLRUZuek1NSlZ1ME8xS244VVh4SDNEWm9rY1BYUDJRemViZ0w0ZHJJQk5BdDZUSlc1Ty1TSmZMTUJvS1dJRjByMXE0ek92YURn?oc=5)
+### [Cómo el gen APOE4 daña los vasos sanguíneos del cerebro en la enfermedad de Alzheimer. - Adamed TV](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnI1YXMwcDh0bEsteTFERFZfc2NSeHNTV1R2RjRCOEozSXlESU5YRGswM09fR2RYbmowWUNkdU1Ba1dDSEUxUlhoOWZ6b2JfOXF1eGtLRGR2bDkwRzJ6Mk9oV2pkT2l6c2Vsb0luWE1pZFRyQmdyNXQ0TEpQdTl6dG5kNV92Q21ndXdHZmtyUEZFYXVmeTR5dnQyWU5PRnVoWGJKczlmTFJPdkVSeENleGJIWlpZczNE?oc=5)
 
-2026-09-24 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+2026-09-25 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
-Source: [Diario Occidente](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUt3OVVQbDB0a3E5b0JfZXlXOGIwYW8xUG05ZXZielhaR3RwRDFXbS1GRXp1ZHhKX3dNb3pkbnhHdnd0YnhNb1JiWXhnM25ZSmo2QnNjdXJXdVVHNzA5MTJ4OURpRUw0Z29KbVBzUGUteTF6OEdzZ1N5aEtaTFdNOUZFY9IBjgFBVV95cUxQd2JBYXNfODBIVjYzMFNYT3M4WjcxNDhtemNZWi1jVGdtOF9OejlVTjdWeUpta2YxajRJdHcxVXp5b3lXamFLRUZuek1NSlZ1ME8xS244VVh4SDNEWm9rY1BYUDJRemViZ0w0ZHJJQk5BdDZUSlc1Ty1TSmZMTUJvS1dJRjByMXE0ek92YURn?oc=5)
+Source: [Adamed TV](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnI1YXMwcDh0bEsteTFERFZfc2NSeHNTV1R2RjRCOEozSXlESU5YRGswM09fR2RYbmowWUNkdU1Ba1dDSEUxUlhoOWZ6b2JfOXF1eGtLRGR2bDkwRzJ6Mk9oV2pkT2l6c2Vsb0luWE1pZFRyQmdyNXQ0TEpQdTl6dG5kNV92Q21ndXdHZmtyUEZFYXVmeTR5dnQyWU5PRnVoWGJKczlmTFJPdkVSeENleGJIWlpZczNE?oc=5)
 
 ---
 
@@ -83,6 +83,14 @@ Source: [Diario Occidente](https://news.google.com/rss/articles/CBMigwFBVV95cUxQ
 2026-09-24 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 Source: [La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
+
+---
+
+### [Struggling to focus? What you eat might be affecting your brain](https://news.google.com/rss/articles/CBMiXEFVX3lxTE85N1hhMU0yVTBOQUI5bXF0MFJpT0RJVk5LMzZXdzQwQkRTTmVmenI3QnVNSGFDU2lva3JPbUpnVXZ6bTg0Z0ZKZWg1OGlpU3ZhWG1XOUVGZFBXcUlD?oc=5)
+
+2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE85N1hhMU0yVTBOQUI5bXF0MFJpT0RJVk5LMzZXdzQwQkRTTmVmenI3QnVNSGFDU2lva3JPbUpnVXZ6bTg0Z0ZKZWg1OGlpU3ZhWG1XOUVGZFBXcUlD?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Selexipag</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [High blood pressure? Listen to Mozart or Bach - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
 
@@ -62,19 +62,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelh
 
 ---
 
-### [James Stone, cardiologue : "Le problème n'est pas de manger des oeufs, mais ce que vous mettez à côté" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHRfYjlaWkVCSkxZRWM1RFpsU0xwbnpVRi1KSWExNFRfT0FBSzAzQ3JZT0xPQi1iUEROcGZta0YxRVZLZGZCckNVenBmNkVWbFl2QU9jZDBmeUM2Y0VsQ3E0aHN0cUJYUDZDN3hyNmNZT3l5eDZPLVB4ODd2S1k0NWJXNU1BZFFFWlFhOUJpbw?oc=5)
+### [James Stone, cardiologue : "Le problème n'est pas de manger des oeufs, mais ce que vous mettez à côté"](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHRfYjlaWkVCSkxZRWM1RFpsU0xwbnpVRi1KSWExNFRfT0FBSzAzQ3JZT0xPQi1iUEROcGZta0YxRVZLZGZCckNVenBmNkVWbFl2QU9jZDBmeUM2Y0VsQ3E0aHN0cUJYUDZDN3hyNmNZT3l5eDZPLVB4ODd2S1k0NWJXNU1BZFFFWlFhOUJpbw?oc=5)
 
 2026-09-26 <span class="news-indication-tag">hypertension</span>
 
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHRfYjlaWkVCSkxZRWM1RFpsU0xwbnpVRi1KSWExNFRfT0FBSzAzQ3JZT0xPQi1iUEROcGZta0YxRVZLZGZCckNVenBmNkVWbFl2QU9jZDBmeUM2Y0VsQ3E0aHN0cUJYUDZDN3hyNmNZT3l5eDZPLVB4ODd2S1k0NWJXNU1BZFFFWlFhOUJpbw?oc=5)
-
----
-
-### [Rhön-Grabfeld: Viele Menschen leiden unter Bluthochdruck und Rückenschmerzen](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWo5bUZWckJteUt2ZHE3X1FHRW5LQWVoQmhQXzZ6X1BPdDFDQzBXb0JkbkNMU3V1Mll1SHM5WGFYWUNaTHhGcTRYS3JraW9fbmxVRVk4dWFVTndXb2Ytdi1tYmJNNXdtUFhaQUhWd1pmSmZhbUtJbm1JYjZJRUJwRGpPQ0t5NVdXbXc3T2FJMmNzZWFIdDZ1RlpadXhNd3ZGbnFXLTQ0SFVUVnMwVnBLaHgxMGw?oc=5)
-
-2026-09-25 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Mainfranken24.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWo5bUZWckJteUt2ZHE3X1FHRW5LQWVoQmhQXzZ6X1BPdDFDQzBXb0JkbkNMU3V1Mll1SHM5WGFYWUNaTHhGcTRYS3JraW9fbmxVRVk4dWFVTndXb2Ytdi1tYmJNNXdtUFhaQUhWd1pmSmZhbUtJbm1JYjZJRUJwRGpPQ0t5NVdXbXc3T2FJMmNzZWFIdDZ1RlpadXhNd3ZGbnFXLTQ0SFVUVnMwVnBLaHgxMGw?oc=5)
+Source: [sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHRfYjlaWkVCSkxZRWM1RFpsU0xwbnpVRi1KSWExNFRfT0FBSzAzQ3JZT0xPQi1iUEROcGZta0YxRVZLZGZCckNVenBmNkVWbFl2QU9jZDBmeUM2Y0VsQ3E0aHN0cUJYUDZDN3hyNmNZT3l5eDZPLVB4ODd2S1k0NWJXNU1BZFFFWlFhOUJpbw?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2Y
 
 ---
 
-### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
+### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXJjeVgycUU4T0tCdExweXFmZ1pBbktwZnl1bjc3eVVSM0V5NEkzZFdrUjVnWkJyZ1ZHUmJkRTJrOWMzREI2M1JSTWNOWEtsenBHbFppMVdxZk15ZnRLUlRLSkFzdXVva25WVF9PUXVsRmJnbmd0RWNOVXhDbmdJSkpjeWpMMmx2QlE?oc=5)
 
 2026-09-24 <span class="news-indication-tag">hypertension</span>
 
-Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
+Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXJjeVgycUU4T0tCdExweXFmZ1pBbktwZnl1bjc3eVVSM0V5NEkzZFdrUjVnWkJyZ1ZHUmJkRTJrOWMzREI2M1JSTWNOWEtsenBHbFppMVdxZk15ZnRLUlRLSkFzdXVva25WVF9PUXVsRmJnbmd0RWNOVXhDbmdJSkpjeWpMMmx2QlE?oc=5)
 
 ---
 

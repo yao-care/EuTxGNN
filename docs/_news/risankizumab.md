@@ -14,7 +14,7 @@ permalink: /news/risankizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <li>acrodermatitis chronica atrophicans (100.0%)</li>
 <li>acne keloid (100.0%)</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (100.0%)</li>
-<li class="indication-matched">psoriasis (100.0%)<span class="indication-tag">📰 soriasi</span></li>
+<li>psoriasis (100.0%)</li>
 <li>hydroa vacciniforme, familial (100.0%)</li>
 <li>severe nonproliferative diabetic retinopathy (100.0%)</li>
 <li>parapsoriasis (100.0%)</li>
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (7)
 
 ### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
-2026-09-26 <span class="news-indication-tag">diabetes</span>
+2026-09-27 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
 ---
 
-### [Cortisone, anche se assunto solo per pochi giorni, fa correre rischi a chi ha il diabete](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
+### [Prédiabète : ces 5 signaux au réveil que 8 personnes sur 10 ignorent complètement - Le Tribunal du Net](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1NtT1FDNkFLVUdjc0JOaWpoY3Njbmx4Wmo3Z19jcl9ZMmJjNXBFaTZWUTZYN3BTc2l2Z2VXcXJuaUNjS1hBWUR3MEpwaHhaSEtmSG5wbXFxVkpaTFNOOHM3am1PbWZCVGtmdlM0X2loc25SeUY0VFItR1dFVUZ4cEZPbkw3NHplYTZRX1ZhYw?oc=5)
 
-2026-09-25 <span class="news-indication-tag">diabete</span>
+2026-09-26 <span class="news-indication-tag">diabète</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJEaG81WUg5NVpwTWFuMXhsdURXeGVrQXIyandGTmpUQWlPdWJLc09RRjROZHpSYnJNNzhZdVE0MTNfNnd3cUMxZUdTeEI4czBMZTZ5ZzRONnFoRnlxd1BWY19YeUdFQ0dFNTRYS1pYZC1FZWdILXRvWndhYjV6TmQ2ckMzbVRkZ3ZYeXdmVVhUMzNabHBobng3dm5YS3BMdWtRcnh1RGo2LVlFWGNsNHd3TUN0Ukd1LV90eGY4YzROLVZhd2g3VGotZDZ4RktJWE9Oa0xEVExYcXlndzhv?oc=5)
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1NtT1FDNkFLVUdjc0JOaWpoY3Njbmx4Wmo3Z19jcl9ZMmJjNXBFaTZWUTZYN3BTc2l2Z2VXcXJuaUNjS1hBWUR3MEpwaHhaSEtmSG5wbXFxVkpaTFNOOHM3am1PbWZCVGtmdlM0X2loc25SeUY0VFItR1dFVUZ4cEZPbkw3NHplYTZRX1ZhYw?oc=5)
 
 ---
 
@@ -94,19 +94,11 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRK
 
 ---
 
-### [Diabetesrisiko: UCL-Modelle sagen Erkrankungen bis zu 15 Jahre voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
-
-2026-09-25 <span class="news-indication-tag">diabetes</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
-
----
-
 ### [Diabetes bei Schwangeren nimmt zu: Was das fürs Baby bedeutet](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
 2026-09-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [waz.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
+Source: [WAZ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
 
 ---
 
@@ -115,14 +107,6 @@ Source: [waz.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZE
 2026-09-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWRzQ2ZDbE5IUzVmMWNSc3lWVlFnZnZBRmJFbjV6T1VsZHJnUl9yREIxalZWLVMyakp4Q2pLQUpuaDM3QUxscXNCb2JlUU9vaVB6amxOTWh1c3NIaEtMUGxjdVF3NGFsN2E2dnZKQTZTVERFMi1CLXE0bElkNnBpQ2EtdEZsX19SWXg5ZjEtaW5Jb0cxMGN5Y0ZwQ1cwZXBCcUJNUUppQjRETEdlSjE5ZnNXdmhGRExWVmthVWc4UmRKQXJIajBFY1hIWXJNU2x1YWQ3WU1GeGjSAd4BQVVfeXFMTjg5S0o5V3V6UlAyMzZMeUwyM0NFcUMtejZqcE5POGtZNS1vNFpoY0N4TU9ZanpfREdGOWhYMmVna2YyTk5pZ3BiRHVjV3hfQ2FpWko1dGJ6T1REd0RqRndMWm9ad0dmX2JtSjhCbVJOUUExY3h3SjJKaDE1R2JIc2tHNzdmdzJGTy1neV9HdmQ2WGxlTDkyMUNtZkFhZ0hYelowUlMyWTNLcXZmM0h1TlE4X2dMVkZIMEZ0WlJuSzNILUFGTGdRV00xZHd4RTV0N2lLRk5ObzBLZ05hZzlB?oc=5)
-
----
-
-### [Fa la coppettazione per il mal di schiena e la psoriasi ricompare sui tagli](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBpR0ZUN2lYcmFHdUliU2FZemVHY2ZDbWpnak0xbGtsa2FXVTlvZ3poQ3FXclhZa1IxMjM5U1BvaWs2SVlHdE9tNEpobkpVR3p5SThaSVVzbW1Xd3N2U1Z2dkpJUUhCRXZPNVZUVzc2VV85enFlbF9VY2c4M0dxMFA4N0gtZHh5d1YxemFJNFVDdnNQdk53YTJWdFZrVVhBVmJmYTV3Y3N3NVZPT1NCY282VkpmbGVFNGZnX2hqVXkxRnpw?oc=5)
-
-2026-09-19 <span class="news-indication-tag">soriasi</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBpR0ZUN2lYcmFHdUliU2FZemVHY2ZDbWpnak0xbGtsa2FXVTlvZ3poQ3FXclhZa1IxMjM5U1BvaWs2SVlHdE9tNEpobkpVR3p5SThaSVVzbW1Xd3N2U1Z2dkpJUUhCRXZPNVZUVzc2VV85enFlbF9VY2c4M0dxMFA4N0gtZHh5d1YxemFJNFVDdnNQdk53YTJWdFZrVVhBVmJmYTV3Y3N3NVZPT1NCY282VkpmbGVFNGZnX2hqVXkxRnpw?oc=5)
 
 ---
 

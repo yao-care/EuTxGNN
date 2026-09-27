@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 9 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 9 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -41,6 +41,14 @@ This page brings together the latest health news about “Schlaganfall” and li
 
 ## Related News (9)
 
+### [Il TIA dura pochi minuti. Il rischio per la memoria può restare alto per vent’anni](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVU1iRXJ2M0tQdGdVeUd0U05NclhnQ1pjYnp2dnJFcTU3Qmk4OVR5Z05xVTdjQl9MSXl2ampKRkwzSWJEU2dvdDhubTJ4bmZ2U0pZSjVjZGhnVXFxSFd6TWZtcTBpS1VzSDRmYUlra0RjX3dXLU1GT1NDZm5qYUlBeXlBTndBNkRPaThrdHVqX09zaVItazNFbHpqSUJTUFpiRVRnQkJoVDEtS2JOOGpvSjE2WWlFZ0ctc09kcU56QmxxTzhLM1hrWjl3ZWN5T0RGQVItbzl0Zw?oc=5)
+
+2026-09-26
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVU1iRXJ2M0tQdGdVeUd0U05NclhnQ1pjYnp2dnJFcTU3Qmk4OVR5Z05xVTdjQl9MSXl2ampKRkwzSWJEU2dvdDhubTJ4bmZ2U0pZSjVjZGhnVXFxSFd6TWZtcTBpS1VzSDRmYUlra0RjX3dXLU1GT1NDZm5qYUlBeXlBTndBNkRPaThrdHVqX09zaVItazNFbHpqSUJTUFpiRVRnQkJoVDEtS2JOOGpvSjE2WWlFZ0ctc09kcU56QmxxTzhLM1hrWjl3ZWN5T0RGQVItbzl0Zw?oc=5)
+
+---
+
 ### [Herz in Gefahr: Wie chronischer Stress den Körper unbemerkt schädigt - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU01HanNCeS1Wdm9JcWR4ZU5LY3pvekNkQmRfYjViMkJwVGtuYUM4NnlkbFRUMWdYeWd1ZjByT0hzQjRHYVhaWkV5YTBJNXRhVmY5VE40SlBiUGNCME9uSk1aUk5YQXVIV0IwdFdEYWF3N2ozN3pMNXEtQVJLTW16Wmh6WkRhZWptdldaZVdQLW9Pc0VYY1FXdDA0bXNnaUJDaFdyRHJaM2xSdUw4eUdQRHZzOHNUQS1NV1lMYmtLeWJIN3VtaFZSXzllN2c1UQ?oc=5)
 
 2026-09-26
@@ -49,11 +57,11 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95c
 
 ---
 
-### [Las tasas de accidente vascular cerebral casi se duplican en adultos jóvenes](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclQzWWZfdUtlR0U5eHZiYjZ4dnJxNU9mbVFuaXNxREtMR2JYNC1LeVdFY25wUldKMkhxZzdjdkRJTFdRTkNXZ2FkbW1JX2pDNFNBOWNPOEhrODVFZVI0ZWVkWlZKbUlJZGFwbE9CeFBUYnNPREFFcm9GZlI2bFRwMWFuYUVIRmNGU2x6dUdFc2hNdGRPYmJWVjR3WC1GaEdOVGJPejctMlJqQjkyM0xVS3E3YXR3YTVPZUHSAdQBQVVfeXFMUExpN0liam00WjNqMk45cVJ3dW93V2RTYm5uUHFiTUZnblQ3OFY0U3BkN181ZURBOXBLQUZVcDZKWXBhTWVRUS05V1hxV21jNHo1a0c0WkRKSVdQNVZmRk15aXpjSlhCcWg5N1dveGJuS3IyUXdNdXN1TEZwamNwaVNEQkZIVXdNWFdLNGJYV0puN0x4eFRQTEZvd1ZvRHZ4bnFBNXA4bUQxR3BKcVFyT2EtanJiVHpOOXVid3RkRzM0d1NyRktFQjVjOU5aSXlVNUtJZE4?oc=5)
+### [Il cuore sano non batte come un metronomo: se il battito è troppo regolare può anticipare infarto e scompenso](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVQWEtoYWs0N0hveERuM0VDcHNNaFVnYU5JbTRpcnFVTkhiZXdJdDRiU2lzc293dW5MVkJpUXQzREhvRHhnTXBjNWtPa3NLdnhqd0E4NV9vMXlHVjNJNml4LU9GOV84Y3Z3VVI4N19YbVNKeGtPRldJRmh1Wm9ibFdUeVIzdjY2bDUyUld2WFN0eEphX2pVTG93dmF0cnEtZ3pjS3FGeXIyOE9raUR0S1lWSUtGenZkSlVhQjVfRUxLV0g3NmktS0V0WUFvaDZGNjRwWE1ObjJ1OS00OXlqb3FtRFh0eEFWQ2ZCZlVqXzc?oc=5)
 
 2026-09-26
 
-Source: [Infobae](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclQzWWZfdUtlR0U5eHZiYjZ4dnJxNU9mbVFuaXNxREtMR2JYNC1LeVdFY25wUldKMkhxZzdjdkRJTFdRTkNXZ2FkbW1JX2pDNFNBOWNPOEhrODVFZVI0ZWVkWlZKbUlJZGFwbE9CeFBUYnNPREFFcm9GZlI2bFRwMWFuYUVIRmNGU2x6dUdFc2hNdGRPYmJWVjR3WC1GaEdOVGJPejctMlJqQjkyM0xVS3E3YXR3YTVPZUHSAdQBQVVfeXFMUExpN0liam00WjNqMk45cVJ3dW93V2RTYm5uUHFiTUZnblQ3OFY0U3BkN181ZURBOXBLQUZVcDZKWXBhTWVRUS05V1hxV21jNHo1a0c0WkRKSVdQNVZmRk15aXpjSlhCcWg5N1dveGJuS3IyUXdNdXN1TEZwamNwaVNEQkZIVXdNWFdLNGJYV0puN0x4eFRQTEZvd1ZvRHZ4bnFBNXA4bUQxR3BKcVFyT2EtanJiVHpOOXVid3RkRzM0d1NyRktFQjVjOU5aSXlVNUtJZE4?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVQWEtoYWs0N0hveERuM0VDcHNNaFVnYU5JbTRpcnFVTkhiZXdJdDRiU2lzc293dW5MVkJpUXQzREhvRHhnTXBjNWtPa3NLdnhqd0E4NV9vMXlHVjNJNml4LU9GOV84Y3Z3VVI4N19YbVNKeGtPRldJRmh1Wm9ibFdUeVIzdjY2bDUyUld2WFN0eEphX2pVTG93dmF0cnEtZ3pjS3FGeXIyOE9raUR0S1lWSUtGenZkSlVhQjVfRUxLV0g3NmktS0V0WUFvaDZGNjRwWE1ObjJ1OS00OXlqb3FtRFh0eEFWQ2ZCZlVqXzc?oc=5)
 
 ---
 
@@ -81,11 +89,11 @@ Source: [newsandstar.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUx
 
 ---
 
-### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22
 
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+Source: [sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 ---
 
@@ -93,15 +101,7 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 
 2026-09-21
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
-
----
-
-### [Des chercheurs ont implanté des cellules humaines dans le cerveau de souris et voilà ce qui s'est produit](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzNwQlJmblNEdzd6Q2hvaFBhNkpoelhVbVdBY3oyZXVXWTJNUm5WbHVFQ1hEcjhPR3BYbElQekt4M1dMZ2VLdFV6OEVya2pmVkwyRXRGaE9OVGlRd290eFpIUHZkbkZGWDZJcUptcDNTSTN0SlV2U2VsNWwxV044bUFNZGNPYUQzS1AwdTZnaTM5cGcxQkNQRnh6R1dQOHZfcjBLQWpUZlVjdGNxUUQ2SlpKWdIBuAFBVV95cUxQdi11S3pFNWFLQU1QRW1PSVZOdDEtOXVQVnM2NGxsTVNET0UxbVNBbWI5VGlydzlQUFlCN1VrRThtRE44SU43ZEFWSi1FZmwxVktTSGhGTkhsdDFkdHducFQzWE5wR1hPM1REQl83VUJOcW0zOGpsVUxMUHdGZHhDNEg4RGJCaGZweHQtNGthM1BpQ0tpNUx1R2VCT1c2cWp5UGVMVTNWb1lfOTNxbDhLUmRQdUF3a1hu?oc=5)
-
-2026-09-21
-
-Source: [Slate.fr](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzNwQlJmblNEdzd6Q2hvaFBhNkpoelhVbVdBY3oyZXVXWTJNUm5WbHVFQ1hEcjhPR3BYbElQekt4M1dMZ2VLdFV6OEVya2pmVkwyRXRGaE9OVGlRd290eFpIUHZkbkZGWDZJcUptcDNTSTN0SlV2U2VsNWwxV044bUFNZGNPYUQzS1AwdTZnaTM5cGcxQkNQRnh6R1dQOHZfcjBLQWpUZlVjdGNxUUQ2SlpKWdIBuAFBVV95cUxQdi11S3pFNWFLQU1QRW1PSVZOdDEtOXVQVnM2NGxsTVNET0UxbVNBbWI5VGlydzlQUFlCN1VrRThtRE44SU43ZEFWSi1FZmwxVktTSGhGTkhsdDFkdHducFQzWE5wR1hPM1REQl83VUJOcW0zOGpsVUxMUHdGZHhDNEg4RGJCaGZweHQtNGthM1BpQ0tpNUx1R2VCT1c2cWp5UGVMVTNWb1lfOTNxbDhLUmRQdUF3a1hu?oc=5)
+Source: [aerztezeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 ---
 

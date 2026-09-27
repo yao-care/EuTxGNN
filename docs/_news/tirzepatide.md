@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
 
 2026-09-26 <span class="news-indication-tag">arthritis</span>
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+
+---
+
+### [Menos masa muscular, vómitos... Esto debes comer si tomas Ozempic o Mounjaro - Diario de Navarra](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLU00anY1Wk9CeHBNRWVMTmstRXBwSFh3dnZmRDI2eTJ0TWMzRlE4ZkxnWHZxbWxZOFBTaUFtT0g0djlxTEtfbmlKQ2plTXB2V1Rlb0cwME5KRlI0amR6QzE0VS03SVVUaGVKRmptRjdUQWVuSXJwOUU5NVdmdG9fb0FucUl0OFFweGZ0VXM2Qzc3ZWM0NGZMeXJpaTN5UURYNmJoM3FZbzh1R0poS3RQcW05OXYtakVxUkNrRzE0NFlsY3JOU2JuNWNYTkZubUlrS3JNR3ZaaXhWbHJl?oc=5)
+
+2026-09-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Diario de Navarra](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLU00anY1Wk9CeHBNRWVMTmstRXBwSFh3dnZmRDI2eTJ0TWMzRlE4ZkxnWHZxbWxZOFBTaUFtT0g0djlxTEtfbmlKQ2plTXB2V1Rlb0cwME5KRlI0amR6QzE0VS03SVVUaGVKRmptRjdUQWVuSXJwOUU5NVdmdG9fb0FucUl0OFFweGZ0VXM2Qzc3ZWM0NGZMeXJpaTN5UURYNmJoM3FZbzh1R0poS3RQcW05OXYtakVxUkNrRzE0NFlsY3JOU2JuNWNYTkZubUlrS3JNR3ZaaXhWbHJl?oc=5)
+
+---
+
+### [Omega-3: Mediziner empfiehlt diese Kapseln – „Heute ist mein Index optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
+
+2026-09-25 <span class="news-indication-tag">arthritis</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
 
 ---
 
@@ -70,19 +86,11 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl94M0
 
 ---
 
-### [I’m not obese but I’m taking Mounjaro for my health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUNTVnFRZ3dwWnhSZDM4dDM2eFU4NzZxRzZ6NFl4QjZzOFFkWTZ2Wjh3NUpNSGstc2xudk8xazRrNG5ZZldSRC1RYkl3cjdMZk5RYTBOdmJVeVBRSUtFSmNzLXo1ajVhdWhvU0xjVzZJZXlueFNoVTRTdXNfZ09CTk83TkdVSTNMOVJ6RXBhSzgxa3ZIektsY3RRSl90Y25TUnNFR2xsRQ?oc=5)
-
-2026-09-25 <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUNTVnFRZ3dwWnhSZDM4dDM2eFU4NzZxRzZ6NFl4QjZzOFFkWTZ2Wjh3NUpNSGstc2xudk8xazRrNG5ZZldSRC1RYkl3cjdMZk5RYTBOdmJVeVBRSUtFSmNzLXo1ajVhdWhvU0xjVzZJZXlueFNoVTRTdXNfZ09CTk83TkdVSTNMOVJ6RXBhSzgxa3ZIektsY3RRSl90Y25TUnNFR2xsRQ?oc=5)
-
----
-
-### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+Source: [sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 ---
 
