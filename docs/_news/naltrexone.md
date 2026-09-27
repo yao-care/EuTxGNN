@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
 
@@ -70,6 +70,14 @@ Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjdNb
 
 ---
 
+### [La obesidad puede ocasionar también depresión y ansiedad, señalan](https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0lERGMzdHB1NThWTmVYWVJ3ckRNY0FPQUVyMW5FT2VTeVVNdE0yR240dFdzRXk2U0R3cVZaN2QwWVNYRHBJTG5wVHBaODBpVWRKeHE5clNRNUd3Skt1YkhWUEpobEp1WTF1R1RseVRWQ29SZWFqbkpQX2xjendrQXRXaDdtVi03YUNIdVlxNFV0b2U0VWJ2aHV6ZFFSYVk3Y19zcS1JMA?oc=5)
+
+2026-09-27 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+Source: [sipse.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0lERGMzdHB1NThWTmVYWVJ3ckRNY0FPQUVyMW5FT2VTeVVNdE0yR240dFdzRXk2U0R3cVZaN2QwWVNYRHBJTG5wVHBaODBpVWRKeHE5clNRNUd3Skt1YkhWUEpobEp1WTF1R1RseVRWQ29SZWFqbkpQX2xjendrQXRXaDdtVi03YUNIdVlxNFV0b2U0VWJ2aHV6ZFFSYVk3Y19zcS1JMA?oc=5)
+
+---
+
 ### [BMI bei Herzschwäche: Grazer Studie zeigt zentrale Adipositas bei 96 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
 
 2026-09-26 <span class="news-indication-tag">Adipositas</span>
@@ -83,22 +91,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KV
 2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
-
----
-
-### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
----
-
-### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
 ---
 

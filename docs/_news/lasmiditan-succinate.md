@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan Succinate?">
-<strong>Lasmiditan Succinate</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Lasmiditan Succinate</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
 
@@ -67,6 +67,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9k
 2026-09-27 <span class="news-indication-tag">obesidad</span>
 
 Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjdNbTRnT3U4aUJRNHJ1eklfTFhkV3Q3VTNHWnpFMDF1WEZHakM4dG5CTXVkY1JnM0YtbldSVW5nX3ROSVJTRzZrNmwya0JkbllNNGRTSm9ZS3NEbEZxTjhTR1hOVHRJSF9aQ0pZaVh6aEtyUG5Rb3dELUx4bG5JdkY1akVlY05vQ0kwR0EzRXgwa0o2cS14dHMyZEZYSFpqYXU1WnoxWERMREY1OFJRMk1OOGpfZFRldW1ndlZWOTlFMkdXZW9MdDR2YWJKdmhyc2tNdVpkS3hGVHN1?oc=5)
+
+---
+
+### [La obesidad puede ocasionar también depresión y ansiedad, señalan](https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0lERGMzdHB1NThWTmVYWVJ3ckRNY0FPQUVyMW5FT2VTeVVNdE0yR240dFdzRXk2U0R3cVZaN2QwWVNYRHBJTG5wVHBaODBpVWRKeHE5clNRNUd3Skt1YkhWUEpobEp1WTF1R1RseVRWQ29SZWFqbkpQX2xjendrQXRXaDdtVi03YUNIdVlxNFV0b2U0VWJ2aHV6ZFFSYVk3Y19zcS1JMA?oc=5)
+
+2026-09-27 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+Source: [sipse.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0lERGMzdHB1NThWTmVYWVJ3ckRNY0FPQUVyMW5FT2VTeVVNdE0yR240dFdzRXk2U0R3cVZaN2QwWVNYRHBJTG5wVHBaODBpVWRKeHE5clNRNUd3Skt1YkhWUEpobEp1WTF1R1RseVRWQ29SZWFqbkpQX2xjendrQXRXaDdtVi03YUNIdVlxNFV0b2U0VWJ2aHV6ZFFSYVk3Y19zcS1JMA?oc=5)
 
 ---
 
@@ -99,22 +107,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dl
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
-
----
-
-### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
----
-
-### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
 ---
 

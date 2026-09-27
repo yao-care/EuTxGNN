@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="What news is there about Glecaprevir?">
-<strong>Glecaprevir</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
+<strong>Glecaprevir</strong> currently has <strong>20 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Glecaprevir with the latest 
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (20)
 
 ### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
 
@@ -118,11 +118,11 @@ Source: [thetimes.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZk
 
 ---
 
-### [Infected blood scandal: Memorial to haemophiliac children infected from experimental treatments - Sky News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDg0dmpKM21zYmd4bWlrOVk4Y0NjMU9mYWtkaXdnQmRDVHltNmNlZFkzT0N5QzhkMDhKWnRnVWNJdEh5czlqbHpjN0k2VHg2bVhfZ3BJU0tVU0RtOU9YNHJCWjQwNE9iZXluS0RVNElBYTduMDNZMU1wZjlHOXQzZkdsbEw1cGdBbkhLZHpkcWF3Qkd5ZXo1OWgtdExkSmpaTGlGbFNTN2kxR2VEV2c3ZE92bVFNSDlUOEg0QjFXUzRTU0lsR3lFYXpB?oc=5)
+### [Infected blood scandal: Memorial to haemophiliac children infected from experimental treatments](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDg0dmpKM21zYmd4bWlrOVk4Y0NjMU9mYWtkaXdnQmRDVHltNmNlZFkzT0N5QzhkMDhKWnRnVWNJdEh5czlqbHpjN0k2VHg2bVhfZ3BJU0tVU0RtOU9YNHJCWjQwNE9iZXluS0RVNElBYTduMDNZMU1wZjlHOXQzZkdsbEw1cGdBbkhLZHpkcWF3Qkd5ZXo1OWgtdExkSmpaTGlGbFNTN2kxR2VEV2c3ZE92bVFNSDlUOEg0QjFXUzRTU0lsR3lFYXpB?oc=5)
 
 2026-09-26 <span class="news-indication-tag">MS</span>
 
-Source: [Sky News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDg0dmpKM21zYmd4bWlrOVk4Y0NjMU9mYWtkaXdnQmRDVHltNmNlZFkzT0N5QzhkMDhKWnRnVWNJdEh5czlqbHpjN0k2VHg2bVhfZ3BJU0tVU0RtOU9YNHJCWjQwNE9iZXluS0RVNElBYTduMDNZMU1wZjlHOXQzZkdsbEw1cGdBbkhLZHpkcWF3Qkd5ZXo1OWgtdExkSmpaTGlGbFNTN2kxR2VEV2c3ZE92bVFNSDlUOEg0QjFXUzRTU0lsR3lFYXpB?oc=5)
+Source: [news.sky.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDg0dmpKM21zYmd4bWlrOVk4Y0NjMU9mYWtkaXdnQmRDVHltNmNlZFkzT0N5QzhkMDhKWnRnVWNJdEh5czlqbHpjN0k2VHg2bVhfZ3BJU0tVU0RtOU9YNHJCWjQwNE9iZXluS0RVNElBYTduMDNZMU1wZjlHOXQzZkdsbEw1cGdBbkhLZHpkcWF3Qkd5ZXo1OWgtdExkSmpaTGlGbFNTN2kxR2VEV2c3ZE92bVFNSDlUOEg0QjFXUzRTU0lsR3lFYXpB?oc=5)
 
 ---
 
@@ -134,6 +134,14 @@ Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTdaNkl
 
 ---
 
+### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+
+2026-09-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+
+---
+
 ### [TÉMOIGNAGE. « Je veux éviter à d’autres femmes de vivre une telle errance médicale » : elle sensibilise à l’endométriose](https://news.google.com/rss/articles/CBMimwJBVV95cUxOMEx5a1g2cHZjSXJIcEZBLTFmNFNQQzNsSVJBWlZfQzA3QUgzc0xXSUFjdjJRckdhQ0ttSFFlc0s1aENtMllXSDN3U1drVHFHWHNhVlRBU1Fqb1lfOXVJWFJoMXlZUzIyVHdocUxMU3VRX2VTT1hVdTRzc3R1LXNDNnh5Z1l3WkVVaWNVdDZMUnltZDZSWnlIMmtwUVMzampSS2Nsa3lrQVdDcHMyNDJYdWhmR3NwNDU5UEpNbTQxUE1DNVlnSWRwRjNuSkthWXZ2c1E0M1RGMWdxX2JOb2psdFNQVWtwQ01Ub25JVmY4Rm1hZV9ZRC1fUDlWR0lSazRWNURIcG1jUzU1VjA0OVN3dTNZUmxmN3Y3QWpr?oc=5)
 
 2026-09-25 <span class="news-indication-tag">MS</span>
@@ -142,11 +150,11 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMimwJBVV95cUxOMEx5
 
 ---
 
-### [Pharmacist says 'pause' ibuprofen, metformin or ramipril if you get three symptoms](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
+### [Pharmacist says 'pause' ibuprofen, metformin or ramipril if you get three symptoms - Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
 
 2026-09-25 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
 
-Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
 
 ---
 
@@ -195,6 +203,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoS
 2026-09-21 <span class="news-indication-tag">MS</span>
 
 Source: [Südkurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3ZaSncyX2lpNUZ5RFdIUnhTa2JMOXAxUUJqcTdJNHh4Q0dZWXVQNF9PbmhNd0dVUHg3UndLMkRTNmNFeUd2cFlsVXdKVG1XanQ0UE5OWjZ5Rmt6RTNFS00xcVF4YUNJU3JBMUF0enh5ZDVLYXhpQUNfTzVPXzNZejVWU0FLWmo4UlluQWdha1lDanVDdEN5R3ptVzJRSDJ6b1hPdmlVbTItRnZQWlliak5WNXhjdnFPZF9kY3JDcFlHQ0Vi?oc=5)
+
+---
+
+### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

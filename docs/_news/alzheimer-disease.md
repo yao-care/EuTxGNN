@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 4 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 5 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>4 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>5 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### ['I was angry at my husband - I didn't know he had dementia'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
 
@@ -67,6 +67,14 @@ Source: [thetimes.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZk
 2026-09-26
 
 Source: [BuzzFeed](https://news.google.com/rss/articles/CBMidEFVX3lxTE40UmNPc3ZQNzJ5SlNPWkJ4dWY2MmxUY18ySXRwTFdYcDZhbVdicWtXWGtrLURfWmcwbXZER3FISlNpSlFNVDJhM09TWV9PdjdTLV9DazZPMWtWcktmaU5rS1ZtUFFzeDl2VGxvU0IwUnRUbzlT?oc=5)
+
+---
+
+### [Childhood dementia should be more widely recognised, mother says](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
+
+2026-09-25
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
 
 ---
 

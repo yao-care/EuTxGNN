@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
 ### [Ipertensione e problemi al cuore, otto conservanti alimentari associati all'aumento del rischio. Quali sono e lo studio su oltre 112mila... - Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlgycEJqbkVHQWJ4VHg1aHFpVGhBX3ZEY3JqVTQtSVAwUVZqbFpCMThQOVdTclpwelVvOExTQlh0Q2tFcUVsclVQNS1Rd0ZSVlZGWGZmTW9jU2RwNGNXbjBtd3JTbWNxQ1d5V1paT1J1aWNPNDVkc0xUTFhuSW9jVTNZSURhLTR4NmIxbFkwdFc3QXVLa2VpUjFfV3E5MFpyTFZjLVFxcHBoX0JSY0tvcGI5MXF3RkNBd25NaWFaUdIBsgFBVV95cUxNWUhfUzc0Z2x4b2h2OVBWcHdDNWIyanItZThzYUV4SEZ5bDNUcWNDZmdnMVdFOXM4NTFfMWxPalljYUNIWnU4VUlMb24tWkhGS1MyODFOVWxEWWUxTHUzSXlPUElIUS1pQmRTZklMSlFEeF9mNXQ5ZEg5ZHROcXhtdENIRXY4R2tGeFMxcjU1NWd4eHNnZEtLckQ4eUYxclA3UllKR3VIWWhySDRFalhPVFpn?oc=5)
 
@@ -78,27 +78,11 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95c
 
 ---
 
-### [Il cuore sano non batte come un metronomo: se il battito è troppo regolare può anticipare infarto e scompenso](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVQWEtoYWs0N0hveERuM0VDcHNNaFVnYU5JbTRpcnFVTkhiZXdJdDRiU2lzc293dW5MVkJpUXQzREhvRHhnTXBjNWtPa3NLdnhqd0E4NV9vMXlHVjNJNml4LU9GOV84Y3Z3VVI4N19YbVNKeGtPRldJRmh1Wm9ibFdUeVIzdjY2bDUyUld2WFN0eEphX2pVTG93dmF0cnEtZ3pjS3FGeXIyOE9raUR0S1lWSUtGenZkSlVhQjVfRUxLV0g3NmktS0V0WUFvaDZGNjRwWE1ObjJ1OS00OXlqb3FtRFh0eEFWQ2ZCZlVqXzc?oc=5)
-
-2026-09-26 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVQWEtoYWs0N0hveERuM0VDcHNNaFVnYU5JbTRpcnFVTkhiZXdJdDRiU2lzc293dW5MVkJpUXQzREhvRHhnTXBjNWtPa3NLdnhqd0E4NV9vMXlHVjNJNml4LU9GOV84Y3Z3VVI4N19YbVNKeGtPRldJRmh1Wm9ibFdUeVIzdjY2bDUyUld2WFN0eEphX2pVTG93dmF0cnEtZ3pjS3FGeXIyOE9raUR0S1lWSUtGenZkSlVhQjVfRUxLV0g3NmktS0V0WUFvaDZGNjRwWE1ObjJ1OS00OXlqb3FtRFh0eEFWQ2ZCZlVqXzc?oc=5)
-
----
-
 ### [What your pins and needles really mean - from deadly stroke to vit deficiency - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
 
 2026-09-26 <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
-
----
-
-### [High blood pressure? Listen to Mozart or Bach](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
-
-2026-09-26 <span class="news-indication-tag">high blood pressure</span>
-
-Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
 
 ---
 
@@ -131,6 +115,14 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+
+---
+
+### [Vorhofflimmern: Ablation mit optimierter Wellenform erreicht 94,2% Haltbarkeit - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
+
+2026-09-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
 
 ---
 

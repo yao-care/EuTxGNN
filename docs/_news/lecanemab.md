@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lecanemab?">
-<strong>Lecanemab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Lecanemab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Forscher verblüfft: Was Träume mit Demenz und Herzkrankheiten verbindet - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWldOaUJrN2xQZmFqUEFWM052VW00TklyR256d1I1TmNrVEp1bjNNVjZoZmZ1Zm15am9LMjZrQ3d3ZFVYak1BOVpZOWx5SEtoS1Y5MVgzUWNMNUpFVUs2bUZNbmtCWWtrWkItTGZmc0h2cEVQWldTM1BYc2RpakQtd2IzLU03QVVnc2xHTlQ5Q2FfZWxsSy1LX1NoR0NGX2Z6SnZKSUlqZWMyQVZlRkI5TEY4Vmo4b1pwRExrN1FrTGZ1eWt1RXFtbkQzV0VxTHdyVEE?oc=5)
+
+2026-09-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWldOaUJrN2xQZmFqUEFWM052VW00TklyR256d1I1TmNrVEp1bjNNVjZoZmZ1Zm15am9LMjZrQ3d3ZFVYak1BOVpZOWx5SEtoS1Y5MVgzUWNMNUpFVUs2bUZNbmtCWWtrWkItTGZmc0h2cEVQWldTM1BYc2RpakQtd2IzLU03QVVnc2xHTlQ5Q2FfZWxsSy1LX1NoR0NGX2Z6SnZKSUlqZWMyQVZlRkI5TEY4Vmo4b1pwRExrN1FrTGZ1eWt1RXFtbkQzV0VxTHdyVEE?oc=5)
+
+---
 
 ### [Prävention: Schwangerschaftsdiabetes erhöht lebenslang das Risiko für Typ-2-Diabetes](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
 
@@ -67,6 +75,14 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdk
 2026-09-27 <span class="news-drug-tag">Lecanemab</span>
 
 Source: [Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRms2OEttVjRfVmdnNnlkRWI3MnVfYnR4dEJqMXF6bEN1aVlWQTFvNjhSNHJaTHFsX203X1BjdzRQazVERHpIdGpCN3BKc0ZLYmEzSGZYWFpyTmNvbnkyV0JKd2g5Z3p3RFoyZnBMMWxydHZuTGRYTWJOUF9XTTFuTXdZazZELXRLeWNtQ1pBcnhKYUNqWWRZd1JramdvQ0xDWHVSY3VpWDNjUmg1Yy1zY1lvYXduTmlDaS1aVVJveUI3YU9Rb3FGTjAzRW1IQUJNbWdhWXEzWjJTSTVsM0Z6bEpNQ3Z3ak1hVEIwT3g0MVcwd0piY1AwMTJ0YktJbVg4ZXJqX296dm7SAZMCQVVfeXFMT2RfQkRoYm05YVNRbS0zYVR1WFNJcEpXSDlsbVFTS2FxeG5kSHgtWHRkN2s1bnVXQWJVZ0V4UWNsd0d4YzNSd2ZjSmdTc1dmdWVnU25SZ2hRTjF5U3p4UVI1YllMRTJnbEdxSFZZX1hwOVgzZng5bjBvaTVvUzM0OEVjQzVEcDlLRkRiNWpnVVk2S05PZEFsWWpRUjVmTUxuSFF6cElJejNrVlB2Z1hwaWpwNnJNakN3ZC1pRVlvekt2aVFMMGxIeHpqVUtEM2kwa0ZpUmpTTEdXQVhfdTU5M24xY0trSTliWVBjbXItM1BNRjR5SEVMWHM5MjE3cHhEUndYLUx2RW5IS2F5bUxlME04RFk?oc=5)
+
+---
+
+### ["I geni non sono destino", essere attivi e ridurre cibi ultraprocessati taglia rischio diabete](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE2QzhVS3hOMmRvLXVvQ2Y4emc5dlJkOXlNWml2bEFHNnM3WV80b191MlZsdnAwaHdNMlU0VWxvWWZueW14aU4wczQ2OHhiaFhsaTF4WEZPNHE1VlYwUWd2Tm1rWVdfbmtCRnY2QWdQMVdRSFozTG5aeXNfbDVTS0hqc1NBSUJUdlZ0TFp0b284bHlZOVBB?oc=5)
+
+2026-09-26 <span class="news-indication-tag">diabete</span>
+
+Source: [Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE2QzhVS3hOMmRvLXVvQ2Y4emc5dlJkOXlNWml2bEFHNnM3WV80b191MlZsdnAwaHdNMlU0VWxvWWZueW14aU4wczQ2OHhiaFhsaTF4WEZPNHE1VlYwUWd2Tm1rWVdfbmtCRnY2QWdQMVdRSFozTG5aeXNfbDVTS0hqc1NBSUJUdlZ0TFp0b284bHlZOVBB?oc=5)
 
 ---
 
@@ -90,15 +106,23 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBJZ
 
 2026-09-25 <span class="news-indication-tag">diabetes</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+Source: [welt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
 ---
 
-### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span>
+2026-09-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [idw-online.de](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+---
+
+### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+
+2026-09-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
 
 ---
 
@@ -107,14 +131,6 @@ Source: [idw-online.de](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmt
 2026-09-21 <span class="news-drug-tag">Lecanemab</span>
 
 Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWVla3Ytc21TVjhmaGR5V1lDbjd2VkgxVjBQUGtvdERRbW9CbW9mZW1kczc0QmM0cXBMcVBwN0RHYkhtc0tVRVF3bFJaSFhVbjJDWFJkMnZtQTR2bzVsbDdRVDlYcHpReVd3a0NNQXppejlFTlZCX0ZYbFMxWEo4OVNPNHJ1Snk5RnRfaFVwZE82bUlKMWhRYW5wZ1U5cWd1X3VnVk9WcXJxNEhWNW91MXdOSG5LVTg?oc=5)
-
----
-
-### [Hederagenin reaktiviert Klotho bei diabetischer Nephropathie über DNMT1 - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFl5amN1blZwZFFCQVNGa1dEZmpULVJIbVZPdHZER1ROWkNkMlhJd0RkWnluOUYtVC1ZbUhOMW1Gd1VPTzlkZXpienMwM2stMXo4d1NrVVYtVGQtSHIyWWNDazAta2s0UHFUQTNDd193eXBwbTNZMkRtLWYwbnl0by1yMGxyR3BSQTlaNVl4V3NwTHpEUF9xNFdvRzdoX0FxYm1tY19YOA?oc=5)
-
-2026-09-20 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFl5amN1blZwZFFCQVNGa1dEZmpULVJIbVZPdHZER1ROWkNkMlhJd0RkWnluOUYtVC1ZbUhOMW1Gd1VPTzlkZXpienMwM2stMXo4d1NrVVYtVGQtSHIyWWNDazAta2s0UHFUQTNDd193eXBwbTNZMkRtLWYwbnl0by1yMGxyR3BSQTlaNVl4V3NwTHpEUF9xNFdvRzdoX0FxYm1tY19YOA?oc=5)
 
 ---
 

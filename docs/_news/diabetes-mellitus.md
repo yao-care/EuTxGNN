@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 6 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 8 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>6 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>8 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,29 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Forscher verblüfft: Was Träume mit Demenz und Herzkrankheiten verbindet - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWldOaUJrN2xQZmFqUEFWM052VW00TklyR256d1I1TmNrVEp1bjNNVjZoZmZ1Zm15am9LMjZrQ3d3ZFVYak1BOVpZOWx5SEtoS1Y5MVgzUWNMNUpFVUs2bUZNbmtCWWtrWkItTGZmc0h2cEVQWldTM1BYc2RpakQtd2IzLU03QVVnc2xHTlQ5Q2FfZWxsSy1LX1NoR0NGX2Z6SnZKSUlqZWMyQVZlRkI5TEY4Vmo4b1pwRExrN1FrTGZ1eWt1RXFtbkQzV0VxTHdyVEE?oc=5)
+
+2026-09-27
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWldOaUJrN2xQZmFqUEFWM052VW00TklyR256d1I1TmNrVEp1bjNNVjZoZmZ1Zm15am9LMjZrQ3d3ZFVYak1BOVpZOWx5SEtoS1Y5MVgzUWNMNUpFVUs2bUZNbmtCWWtrWkItTGZmc0h2cEVQWldTM1BYc2RpakQtd2IzLU03QVVnc2xHTlQ5Q2FfZWxsSy1LX1NoR0NGX2Z6SnZKSUlqZWMyQVZlRkI5TEY4Vmo4b1pwRExrN1FrTGZ1eWt1RXFtbkQzV0VxTHdyVEE?oc=5)
+
+---
 
 ### [Prävention: Schwangerschaftsdiabetes erhöht lebenslang das Risiko für Typ-2-Diabetes](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
 
 2026-09-27
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
+
+---
+
+### ["I geni non sono destino", essere attivi e ridurre cibi ultraprocessati taglia rischio diabete](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE2QzhVS3hOMmRvLXVvQ2Y4emc5dlJkOXlNWml2bEFHNnM3WV80b191MlZsdnAwaHdNMlU0VWxvWWZueW14aU4wczQ2OHhiaFhsaTF4WEZPNHE1VlYwUWd2Tm1rWVdfbmtCRnY2QWdQMVdRSFozTG5aeXNfbDVTS0hqc1NBSUJUdlZ0TFp0b284bHlZOVBB?oc=5)
+
+2026-09-26
+
+Source: [Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE2QzhVS3hOMmRvLXVvQ2Y4emc5dlJkOXlNWml2bEFHNnM3WV80b191MlZsdnAwaHdNMlU0VWxvWWZueW14aU4wczQ2OHhiaFhsaTF4WEZPNHE1VlYwUWd2Tm1rWVdfbmtCRnY2QWdQMVdRSFozTG5aeXNfbDVTS0hqc1NBSUJUdlZ0TFp0b284bHlZOVBB?oc=5)
 
 ---
 
@@ -144,23 +160,23 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBJZ
 
 2026-09-25
 
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+Source: [welt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
 ---
 
-### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+2026-09-24
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+
+---
+
+### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
 
 2026-09-21
 
-Source: [idw-online.de](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
-
----
-
-### [Hederagenin reaktiviert Klotho bei diabetischer Nephropathie über DNMT1 - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFl5amN1blZwZFFCQVNGa1dEZmpULVJIbVZPdHZER1ROWkNkMlhJd0RkWnluOUYtVC1ZbUhOMW1Gd1VPTzlkZXpienMwM2stMXo4d1NrVVYtVGQtSHIyWWNDazAta2s0UHFUQTNDd193eXBwbTNZMkRtLWYwbnl0by1yMGxyR3BSQTlaNVl4V3NwTHpEUF9xNFdvRzdoX0FxYm1tY19YOA?oc=5)
-
-2026-09-20
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFl5amN1blZwZFFCQVNGa1dEZmpULVJIbVZPdHZER1ROWkNkMlhJd0RkWnluOUYtVC1ZbUhOMW1Gd1VPTzlkZXpienMwM2stMXo4d1NrVVYtVGQtSHIyWWNDazAta2s0UHFUQTNDd193eXBwbTNZMkRtLWYwbnl0by1yMGxyR3BSQTlaNVl4V3NwTHpEUF9xNFdvRzdoX0FxYm1tY19YOA?oc=5)
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
 
 ---
 

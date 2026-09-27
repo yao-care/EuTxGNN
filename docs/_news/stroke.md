@@ -57,14 +57,6 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95c
 
 ---
 
-### [Il cuore sano non batte come un metronomo: se il battito è troppo regolare può anticipare infarto e scompenso](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVQWEtoYWs0N0hveERuM0VDcHNNaFVnYU5JbTRpcnFVTkhiZXdJdDRiU2lzc293dW5MVkJpUXQzREhvRHhnTXBjNWtPa3NLdnhqd0E4NV9vMXlHVjNJNml4LU9GOV84Y3Z3VVI4N19YbVNKeGtPRldJRmh1Wm9ibFdUeVIzdjY2bDUyUld2WFN0eEphX2pVTG93dmF0cnEtZ3pjS3FGeXIyOE9raUR0S1lWSUtGenZkSlVhQjVfRUxLV0g3NmktS0V0WUFvaDZGNjRwWE1ObjJ1OS00OXlqb3FtRFh0eEFWQ2ZCZlVqXzc?oc=5)
-
-2026-09-26
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVQWEtoYWs0N0hveERuM0VDcHNNaFVnYU5JbTRpcnFVTkhiZXdJdDRiU2lzc293dW5MVkJpUXQzREhvRHhnTXBjNWtPa3NLdnhqd0E4NV9vMXlHVjNJNml4LU9GOV84Y3Z3VVI4N19YbVNKeGtPRldJRmh1Wm9ibFdUeVIzdjY2bDUyUld2WFN0eEphX2pVTG93dmF0cnEtZ3pjS3FGeXIyOE9raUR0S1lWSUtGenZkSlVhQjVfRUxLV0g3NmktS0V0WUFvaDZGNjRwWE1ObjJ1OS00OXlqb3FtRFh0eEFWQ2ZCZlVqXzc?oc=5)
-
----
-
 ### [What your pins and needles really mean - from deadly stroke to vit deficiency - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
 
 2026-09-26
@@ -94,6 +86,14 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 2026-09-21
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+
+---
+
+### [Vorhofflimmern: Ablation mit optimierter Wellenform erreicht 94,2% Haltbarkeit - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
+
+2026-09-20
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
 
 ---
 

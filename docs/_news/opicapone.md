@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Opicapone</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### ['I was angry at my husband - I didn't know he had dementia'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
 
@@ -75,6 +75,14 @@ Source: [thetimes.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZk
 2026-09-26 <span class="news-indication-tag">dementia</span>
 
 Source: [BuzzFeed](https://news.google.com/rss/articles/CBMidEFVX3lxTE40UmNPc3ZQNzJ5SlNPWkJ4dWY2MmxUY18ySXRwTFdYcDZhbVdicWtXWGtrLURfWmcwbXZER3FISlNpSlFNVDJhM09TWV9PdjdTLV9DazZPMWtWcktmaU5rS1ZtUFFzeDl2VGxvU0IwUnRUbzlT?oc=5)
+
+---
+
+### [Childhood dementia should be more widely recognised, mother says](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
+
+2026-09-25 <span class="news-indication-tag">dementia</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/toremifene/
 ---
 
 <p class="key-answer" data-question="What news is there about Toremifene?">
-<strong>Toremifene</strong> currently has <strong>26 news articles</strong>, with 20 predicted indications.
+<strong>Toremifene</strong> currently has <strong>23 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Toremifene with the latest h
 <p><a href="{{ '/drugs/toremifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (26)
+## Related News (23)
 
 ### [Stachelannone: Laborstudien zeigen Wirkung gegen Krebszellen, nicht beim Menschen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnFucHgtcDlUVHhiVEFfNXdpcWJFbEdnRFRaemdpc2hzcjFDbGlNdk44X2N0SXRWVEhBXzlUc1Q4bTBzNkl0REszZTkxRks3SmxSdks1UmtOdDJLRXNvZ3JlaVhtenM4djU1YVpQNjRfLXBleGxsNFJrVXlERjl2NHJTRVFqY0ZFUmE0VzUwTmhseU1OWjdXdWZjS0dIWGRvYmU5eTQzQ0xFSGdyek1YNEZxMkpkSGFLU0hv?oc=5)
 
 2026-09-27 <span class="news-indication-tag">Krebs</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnFucHgtcDlUVHhiVEFfNXdpcWJFbEdnRFRaemdpc2hzcjFDbGlNdk44X2N0SXRWVEhBXzlUc1Q4bTBzNkl0REszZTkxRks3SmxSdks1UmtOdDJLRXNvZ3JlaVhtenM4djU1YVpQNjRfLXBleGxsNFJrVXlERjl2NHJTRVFqY0ZFUmE0VzUwTmhseU1OWjdXdWZjS0dIWGRvYmU5eTQzQ0xFSGdyek1YNEZxMkpkSGFLU0hv?oc=5)
+
+---
+
+### [“Oggi la malattia colpisce anche donne giovani”](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk1rdFF1dkp0STVYNHdCZVpkZUZIUkJxN25WTVFtRTFWSmdZTXRQZnRtRE4wdjdTYy1taUE0Z0JGaUV5TlJ4ZGVOYUF6RDJBcktRa1U5S2tXYXpXLV8yM1p2bUZsX0xtQjNnNDlxRV9ZdzFTSFJxMmJPMGlhbENhRFc1M3NwQTVyVHBJODZDSW0weFBhME1KZWcxWHBRd29KUG5yaHhB?oc=5)
+
+2026-09-27 <span class="news-indication-tag">tumor</span>
+
+Source: [Polesine24](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk1rdFF1dkp0STVYNHdCZVpkZUZIUkJxN25WTVFtRTFWSmdZTXRQZnRtRE4wdjdTYy1taUE0Z0JGaUV5TlJ4ZGVOYUF6RDJBcktRa1U5S2tXYXpXLV8yM1p2bUZsX0xtQjNnNDlxRV9ZdzFTSFJxMmJPMGlhbENhRFc1M3NwQTVyVHBJODZDSW0weFBhME1KZWcxWHBRd29KUG5yaHhB?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUhIZFBB
 
 ---
 
-### [Franco Locatelli: "Le CAR-T sono la cura più promettente per i tumori. Tra 5-6 anni saranno terapia standard" - HuffPost Italia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1RYWE9PUHBfV3VZNlVzSk5mNkt5SXQ1S3Zib1JuTG5JYUZCejViOHRmQ3dVWEhTNlpkQ0tTVDY4OEt0SF9IX1h2N0VoMHpiZDM3OTNkRjBGNkowRDhkd2pJd19hNWkySUFvRVdwdTdYdGZ1cDZGdXg1VTdQejdtVWVHb1ZvQzJBNlk5Tl90cEI2WG12VHVHZndicGdVV1JkNVVLRkFqV1ZTU19tN2htTHdR?oc=5)
+### [Franco Locatelli: "Le CAR-T sono la cura più promettente per i tumori. Tra 5-6 anni saranno terapia standard"](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1RYWE9PUHBfV3VZNlVzSk5mNkt5SXQ1S3Zib1JuTG5JYUZCejViOHRmQ3dVWEhTNlpkQ0tTVDY4OEt0SF9IX1h2N0VoMHpiZDM3OTNkRjBGNkowRDhkd2pJd19hNWkySUFvRVdwdTdYdGZ1cDZGdXg1VTdQejdtVWVHb1ZvQzJBNlk5Tl90cEI2WG12VHVHZndicGdVV1JkNVVLRkFqV1ZTU19tN2htTHdR?oc=5)
 
 2026-09-27 <span class="news-indication-tag">tumor</span>
 
-Source: [HuffPost Italia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1RYWE9PUHBfV3VZNlVzSk5mNkt5SXQ1S3Zib1JuTG5JYUZCejViOHRmQ3dVWEhTNlpkQ0tTVDY4OEt0SF9IX1h2N0VoMHpiZDM3OTNkRjBGNkowRDhkd2pJd19hNWkySUFvRVdwdTdYdGZ1cDZGdXg1VTdQejdtVWVHb1ZvQzJBNlk5Tl90cEI2WG12VHVHZndicGdVV1JkNVVLRkFqV1ZTU19tN2htTHdR?oc=5)
+Source: [huffingtonpost.it](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1RYWE9PUHBfV3VZNlVzSk5mNkt5SXQ1S3Zib1JuTG5JYUZCejViOHRmQ3dVWEhTNlpkQ0tTVDY4OEt0SF9IX1h2N0VoMHpiZDM3OTNkRjBGNkowRDhkd2pJd19hNWkySUFvRVdwdTdYdGZ1cDZGdXg1VTdQejdtVWVHb1ZvQzJBNlk5Tl90cEI2WG12VHVHZndicGdVV1JkNVVLRkFqV1ZTU19tN2htTHdR?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ Source: [HuffPost Italia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY
 2026-09-27 <span class="news-indication-tag">cancer</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMGdCd051NjZKTmd3dGwyVDloYzJHNWhrYmk2N1g4NUFfVE0yU1lNUWc2c29LaDhEVDlYM2M3MFFFUGFKU2dOSC1ldWMxVTVEWWc0MXQ2S0YtOUptLUE?oc=5)
-
----
-
-### [Krebsprävention: WHO-Daten zeigen, dass vier von zehn Fällen vermeidbar sind - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1JNNzdha2xFeEFoeXpCYzNoNGdjalFWZC1qaFpGRldhLWlmdzlwUDZFQmN5MzRucXRzdGY2TVBWeUtPbjhUNXFKOW56UzZqQk5NWk9VaTQ1UXlucGhfV2dDNXk4NkduNGNVVXlqVDZDMTB4MTlTdHNjQUxWQnlhbV90YktwQnNDcnI4QkFLUzM5cmdNOGtpdkl6S1c5NEUwUmtYWEtKRWg3U21ta2didk5iZW9TbmtOSU1KYg?oc=5)
-
-2026-09-27 <span class="news-indication-tag">Krebs</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1JNNzdha2xFeEFoeXpCYzNoNGdjalFWZC1qaFpGRldhLWlmdzlwUDZFQmN5MzRucXRzdGY2TVBWeUtPbjhUNXFKOW56UzZqQk5NWk9VaTQ1UXlucGhfV2dDNXk4NkduNGNVVXlqVDZDMTB4MTlTdHNjQUxWQnlhbV90YktwQnNDcnI4QkFLUzM5cmdNOGtpdkl6S1c5NEUwUmtYWEtKRWg3U21ta2didk5iZW9TbmtOSU1KYg?oc=5)
 
 ---
 
@@ -166,11 +166,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE
 
 ---
 
-### [Una innovadora terapia génica posibilitará el uso de rituximab en múltiples tipos de tumores - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2hyY1Bya0Q0Y3NPV1dKZFREeE5ScVZfTC1yZ3l5dmhVcmo0d01heTVjaGpxdU1CWDJxVXhNWWVmVFd5ZllxWlBxcWFZRGdjLUhuSXlaMlRrenhRYTdEM2pOcV9xam9mNzFaTlVwY21lekpkR1VtdGxVUkVzVUs2Rlc5WW5abWdzR1JENWVGb1p2NF9XZXFyeWMyTUxLUmF6d3ZpemtwUmpyWll3ZzZrRGdFYzhfSUlyX1JSV1Jtb9IBugFBVV95cUxQOEtYeEpfUzF0V3dlZU9nS2tlWWphLXlRY3ZINmhBdllyNXBPMTRXVEhqUG5oMkFNZWlLeWV0cjluRTVtN0ozRC05QklRRXRpNGNMMEluaS1yS1pXY2dHMk9sNnBycGhFQkRQRFpfMElicFRhZDJUMUdCZThrZ2l0VEdqMmRyWGEyb1FQMlBJYkgyN0tieEpPM1Ytbzl4a1p2Tkdyb1hzaXFpVjE5STdvOFZtaDMwMV92WEE?oc=5)
+### [‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
 
-2026-09-25 <span class="news-drug-tag">Rituximab</span> <span class="news-indication-tag">tumor</span>
+2026-09-25 <span class="news-indication-tag">tumor</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2hyY1Bya0Q0Y3NPV1dKZFREeE5ScVZfTC1yZ3l5dmhVcmo0d01heTVjaGpxdU1CWDJxVXhNWWVmVFd5ZllxWlBxcWFZRGdjLUhuSXlaMlRrenhRYTdEM2pOcV9xam9mNzFaTlVwY21lekpkR1VtdGxVUkVzVUs2Rlc5WW5abWdzR1JENWVGb1p2NF9XZXFyeWMyTUxLUmF6d3ZpemtwUmpyWll3ZzZrRGdFYzhfSUlyX1JSV1Jtb9IBugFBVV95cUxQOEtYeEpfUzF0V3dlZU9nS2tlWWphLXlRY3ZINmhBdllyNXBPMTRXVEhqUG5oMkFNZWlLeWV0cjluRTVtN0ozRC05QklRRXRpNGNMMEluaS1yS1pXY2dHMk9sNnBycGhFQkRQRFpfMElicFRhZDJUMUdCZThrZ2l0VEdqMmRyWGEyb1FQMlBJYkgyN0tieEpPM1Ytbzl4a1p2Tkdyb1hzaXFpVjE5STdvOFZtaDMwMV92WEE?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
 
 ---
 
@@ -182,11 +182,11 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 
 ---
 
-### [Prävention und Betreuung: Krebspatienten in der Apotheke](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOS1iaXJJb2FXVmpoNjZmRnlzMWRQQzRCM214VUg2T1oycU42UVRsMUwtWmM0N2RFQ2VOeGthTWl4TlVxdWVDUXc4TUtBbTRqWWwtTWNFaDktMDFSN2NLTGFiLXZuZnRubTYwQ3M3WlBnMXY4LVRFUXF5bGhQTUxEbGdnRQ?oc=5)
+### [Prävention und Betreuung: Krebspatienten in der Apotheke - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOS1iaXJJb2FXVmpoNjZmRnlzMWRQQzRCM214VUg2T1oycU42UVRsMUwtWmM0N2RFQ2VOeGthTWl4TlVxdWVDUXc4TUtBbTRqWWwtTWNFaDktMDFSN2NLTGFiLXZuZnRubTYwQ3M3WlBnMXY4LVRFUXF5bGhQTUxEbGdnRQ?oc=5)
 
 2026-09-25 <span class="news-indication-tag">Krebs</span>
 
-Source: [pharmazeutische-zeitung.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOS1iaXJJb2FXVmpoNjZmRnlzMWRQQzRCM214VUg2T1oycU42UVRsMUwtWmM0N2RFQ2VOeGthTWl4TlVxdWVDUXc4TUtBbTRqWWwtTWNFaDktMDFSN2NLTGFiLXZuZnRubTYwQ3M3WlBnMXY4LVRFUXF5bGhQTUxEbGdnRQ?oc=5)
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOS1iaXJJb2FXVmpoNjZmRnlzMWRQQzRCM214VUg2T1oycU42UVRsMUwtWmM0N2RFQ2VOeGthTWl4TlVxdWVDUXc4TUtBbTRqWWwtTWNFaDktMDFSN2NLTGFiLXZuZnRubTYwQ3M3WlBnMXY4LVRFUXF5bGhQTUxEbGdnRQ?oc=5)
 
 ---
 
@@ -203,22 +203,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IMWcybmFKSF9rU
 2026-09-25 <span class="news-indication-tag">tumor</span>
 
 Source: [Il Mattino](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUtlVURjUF9UYl9lZkdjNmVfQ2QzMWpVbERkZXNubFVsaklwZDJJZFZPc2hnQUJRdk9tWDRtU0JvRUZOM3MtZXZaZ044NU9tVlViTXByMzRYV19rZkpBTHJpS2V5YjNMZTd6Z2hyOE4zU25XZzdyVk1nLUJyT1I1OEhoU1o4Z1dJTDJaTkN4Q190VzRUbVQ1MV9Lcl8yODloRmlJd25RQ1dmcTF0ZEF3RW1wV3AxYmk0bFNYQU45dzRSbDEwaEZwZlptTdIB0AFBVV95cUxQZkd6cjZpTzRraFhlSUpIcWY0NEl0a0dDa3ZrMFk3YTZZeGYwLWNuZmF2UVEzUzVEaW1EdWFNbEY0Tk5xWXBWV05IOWJiVWJBR0FjTkZKa3ltc2RnUmpkQmEyWFNuTUd0N0Z3Sk9fNlU2WDBzalV5RFQtSTFKeFF6Z0RqQ2Zzbmo4RlFvbEMwT0NIVC1nUlRPOUltX2tDM0pPNnZvX0RLekJDX2ZVLWRxTFAyTnJXaUpfc1FmVEh3ZzR0VnZBVXI1anlWblF0WTlZ?oc=5)
-
----
-
-### [From weeks to hours - the rapid new test transforming brain tumour diagnosis](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Z2NoMGhZZXR1eC1Uc2ppcnFOd2otU29ac0EyTnY4UnUxaG1yS1ZUcjlxUE5PVzlkWmxhYzBwMDh1d0pLWVJTRm9IeXVpUDFsVTJOUzJReVhOcms?oc=5)
-
-2026-09-24 <span class="news-indication-tag">tumour</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Z2NoMGhZZXR1eC1Uc2ppcnFOd2otU29ac0EyTnY4UnUxaG1yS1ZUcjlxUE5PVzlkWmxhYzBwMDh1d0pLWVJTRm9IeXVpUDFsVTJOUzJReVhOcms?oc=5)
-
----
-
-### [El cribado de los tumores de pulmón reduce la mortalidad y mejora la supervivencia, según un estudio de la Agencia Internacional para la Investigación del Cáncer - El Mundo](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zQkctdkZTcE9CM2otTlhOV1N4TmFwdE9TanptZnhFZXFpeHRGLU5yLW9HalJjaEJGV1hTTW9VR25PcGQ2VmVpcXFTS1lLVXJOUTk4MUhyc01BcjF4dTFLeW1EZm1xVVJJckYxYXAtdGYzTUFKRXdPd9IBeEFVX3lxTE9LbUhzN09uN1FiVFN3SXZ5T29xOEEycENERUU2akViZ2hBRXlZcnQyR0M0ejZOTy1nS2tyRXVUeTdSeU5hdTR0YnFXeXlHOFF0cjVPOTBtcDlZcTF4NGl6eDl5Vkt1cVdhdG82N0xQU2ZLV3pEZGktNQ?oc=5)
-
-2026-09-24 <span class="news-indication-tag">tumor</span>
-
-Source: [El Mundo](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zQkctdkZTcE9CM2otTlhOV1N4TmFwdE9TanptZnhFZXFpeHRGLU5yLW9HalJjaEJGV1hTTW9VR25PcGQ2VmVpcXFTS1lLVXJOUTk4MUhyc01BcjF4dTFLeW1EZm1xVVJJckYxYXAtdGYzTUFKRXdPd9IBeEFVX3lxTE9LbUhzN09uN1FiVFN3SXZ5T29xOEEycENERUU2akViZ2hBRXlZcnQyR0M0ejZOTy1nS2tyRXVUeTdSeU5hdTR0YnFXeXlHOFF0cjVPOTBtcDlZcTF4NGl6eDl5Vkt1cVdhdG82N0xQU2ZLV3pEZGktNQ?oc=5)
 
 ---
 
@@ -251,14 +235,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoS
 2026-09-22 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3Fvb084SGJSdUVzS2lfN2xqUmwtQmZWVVN3WlRwOEtKV0pZU1F5N3VYTDFuQjhscHBoRHFaN01JelIwYTd2ZHZzMXhuWnpHVzNRZGZwNE9kdU1kM3UyZWdKckdUdmZ6T2lrNVZtNE9lczg1QkdjeHRvR3lNVUliMDAzYlBjTDFoNGRGeC1HbU9Ma2VibW00RjZROEdUWmdHWERoRjRremZFcUdpWnEybWpzeEd6ZkVhSUVIYlh5bWtYa1ZKZmtEeVYyMTBuSE41UGc?oc=5)
-
----
-
-### [Tumore del colon, il batterio intestinale che può aprire la strada alle metastasi](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc09mek1YeXpSODRLRERQX2pMOWIxdjd1MnB0QWVEbUdtMnNZUE90YW5aTU5nT2otd09SYjl3TFB1bEpvUTQ2ZVpMZURPMk1SdVBXdkxoVHNvendlYnRabU9IZnJqZWdiVXZYY0JwMHRPVkpsQ1B3Q2R2N25IeG5wR3lnWHlTR2NMMlJmYVhEQkowNkJLT1ZSRE0zal8yTHlJY0VmMkt0cWVXbVBiLWNzTEY2elJfMXlydXpWZ3dBRjFMc3p4bXNoLUxmWkNwelllWi1vTDNwaw?oc=5)
-
-2026-09-22 <span class="news-indication-tag">tumor</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc09mek1YeXpSODRLRERQX2pMOWIxdjd1MnB0QWVEbUdtMnNZUE90YW5aTU5nT2otd09SYjl3TFB1bEpvUTQ2ZVpMZURPMk1SdVBXdkxoVHNvendlYnRabU9IZnJqZWdiVXZYY0JwMHRPVkpsQ1B3Q2R2N25IeG5wR3lnWHlTR2NMMlJmYVhEQkowNkJLT1ZSRE0zal8yTHlJY0VmMkt0cWVXbVBiLWNzTEY2elJfMXlydXpWZ3dBRjFMc3p4bXNoLUxmWkNwelllWi1vTDNwaw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
 
 2026-09-26 <span class="news-indication-tag">arthritis</span>
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
-
----
-
-### [Morbus Crohn: Immunspuren im Blut zeigen sich bis zu zehn Jahre vorher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnp4WEJTTHY5ZGF5Y0NKRGN1UUFOWWk5aHBvWGF4d2l0UjVrMFlURVlpNVNOVGxOdE9zU2pteFYwRWVXazBrMmtpMmZ2UXFVbzR1YlJGODZ6S1p3VnRTOW9Gc0JNTTB3NXB6QTZQTXRESmJwY2hXX05jOEVqLVd2TjNud1h6SnhlS2Z2VXVmX2Z4VXJKRWR3YTJpVXNTN0Y5SUt4RjB4OS16b0NFeGJ5VXpVZUhiMFplRkE?oc=5)
-
-2026-09-25 <span class="news-indication-tag">Morbus Crohn</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnp4WEJTTHY5ZGF5Y0NKRGN1UUFOWWk5aHBvWGF4d2l0UjVrMFlURVlpNVNOVGxOdE9zU2pteFYwRWVXazBrMmtpMmZ2UXFVbzR1YlJGODZ6S1p3VnRTOW9Gc0JNTTB3NXB6QTZQTXRESmJwY2hXX05jOEVqLVd2TjNud1h6SnhlS2Z2VXVmX2Z4VXJKRWR3YTJpVXNTN0Y5SUt4RjB4OS16b0NFeGJ5VXpVZUhiMFplRkE?oc=5)
 
 ---
 
@@ -96,9 +88,9 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZn
 
 ### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">arthritis</span>
+2026-09-21 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

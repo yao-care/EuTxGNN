@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (12)
 
 ### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
 
@@ -70,6 +70,14 @@ Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjdNb
 
 ---
 
+### [La obesidad puede ocasionar también depresión y ansiedad, señalan](https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0lERGMzdHB1NThWTmVYWVJ3ckRNY0FPQUVyMW5FT2VTeVVNdE0yR240dFdzRXk2U0R3cVZaN2QwWVNYRHBJTG5wVHBaODBpVWRKeHE5clNRNUd3Skt1YkhWUEpobEp1WTF1R1RseVRWQ29SZWFqbkpQX2xjendrQXRXaDdtVi03YUNIdVlxNFV0b2U0VWJ2aHV6ZFFSYVk3Y19zcS1JMA?oc=5)
+
+2026-09-27 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+Source: [sipse.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0lERGMzdHB1NThWTmVYWVJ3ckRNY0FPQUVyMW5FT2VTeVVNdE0yR240dFdzRXk2U0R3cVZaN2QwWVNYRHBJTG5wVHBaODBpVWRKeHE5clNRNUd3Skt1YkhWUEpobEp1WTF1R1RseVRWQ29SZWFqbkpQX2xjendrQXRXaDdtVi03YUNIdVlxNFV0b2U0VWJ2aHV6ZFFSYVk3Y19zcS1JMA?oc=5)
+
+---
+
 ### [Il TIA dura pochi minuti. Il rischio per la memoria può restare alto per vent’anni](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVU1iRXJ2M0tQdGdVeUd0U05NclhnQ1pjYnp2dnJFcTU3Qmk4OVR5Z05xVTdjQl9MSXl2ampKRkwzSWJEU2dvdDhubTJ4bmZ2U0pZSjVjZGhnVXFxSFd6TWZtcTBpS1VzSDRmYUlra0RjX3dXLU1GT1NDZm5qYUlBeXlBTndBNkRPaThrdHVqX09zaVItazNFbHpqSUJTUFpiRVRnQkJoVDEtS2JOOGpvSjE2WWlFZ0ctc09kcU56QmxxTzhLM1hrWjl3ZWN5T0RGQVItbzl0Zw?oc=5)
 
 2026-09-26 <span class="news-indication-tag">ictus</span>
@@ -83,14 +91,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVU1i
 2026-09-26 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU01HanNCeS1Wdm9JcWR4ZU5LY3pvekNkQmRfYjViMkJwVGtuYUM4NnlkbFRUMWdYeWd1ZjByT0hzQjRHYVhaWkV5YTBJNXRhVmY5VE40SlBiUGNCME9uSk1aUk5YQXVIV0IwdFdEYWF3N2ozN3pMNXEtQVJLTW16Wmh6WkRhZWptdldaZVdQLW9Pc0VYY1FXdDA0bXNnaUJDaFdyRHJaM2xSdUw4eUdQRHZzOHNUQS1NV1lMYmtLeWJIN3VtaFZSXzllN2c1UQ?oc=5)
-
----
-
-### [Il cuore sano non batte come un metronomo: se il battito è troppo regolare può anticipare infarto e scompenso](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVQWEtoYWs0N0hveERuM0VDcHNNaFVnYU5JbTRpcnFVTkhiZXdJdDRiU2lzc293dW5MVkJpUXQzREhvRHhnTXBjNWtPa3NLdnhqd0E4NV9vMXlHVjNJNml4LU9GOV84Y3Z3VVI4N19YbVNKeGtPRldJRmh1Wm9ibFdUeVIzdjY2bDUyUld2WFN0eEphX2pVTG93dmF0cnEtZ3pjS3FGeXIyOE9raUR0S1lWSUtGenZkSlVhQjVfRUxLV0g3NmktS0V0WUFvaDZGNjRwWE1ObjJ1OS00OXlqb3FtRFh0eEFWQ2ZCZlVqXzc?oc=5)
-
-2026-09-26 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVQWEtoYWs0N0hveERuM0VDcHNNaFVnYU5JbTRpcnFVTkhiZXdJdDRiU2lzc293dW5MVkJpUXQzREhvRHhnTXBjNWtPa3NLdnhqd0E4NV9vMXlHVjNJNml4LU9GOV84Y3Z3VVI4N19YbVNKeGtPRldJRmh1Wm9ibFdUeVIzdjY2bDUyUld2WFN0eEphX2pVTG93dmF0cnEtZ3pjS3FGeXIyOE9raUR0S1lWSUtGenZkSlVhQjVfRUxLV0g3NmktS0V0WUFvaDZGNjRwWE1ObjJ1OS00OXlqb3FtRFh0eEFWQ2ZCZlVqXzc?oc=5)
 
 ---
 
@@ -126,14 +126,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dl
 
 ---
 
-### [¿Cuánto dura el tratamiento de la obesidad con GLP-1?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
-2026-09-23 <span class="news-indication-tag">obesidad</span>
-
-Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnEwRXlRNHEtVjY4Z25YWUtYbTJJUGtBb1NyM1VCQjQ1WDNzanduc2czdUZ1RFlkVUhEd2RhUDFzcU5SUmtlRDdYT0pRa3BpNC1wOVJka3JPc0c3N2ZfOGhHSXNYZEJkVC1QaHg0RmhsVWZ5Y1Y2MlJxc3dYYmltV09yb0FOTFkwcjg0bC1iU2YzV0JuMV8zNHNtRU12WndJV2xoMHBIc25rR3VEX0E?oc=5)
-
----
-
 ### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
@@ -142,19 +134,19 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 
 ---
 
-### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
----
-
 ### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
+
+---
+
+### [Vorhofflimmern: Ablation mit optimierter Wellenform erreicht 94,2% Haltbarkeit - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
+
+2026-09-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
 
 ---
 
